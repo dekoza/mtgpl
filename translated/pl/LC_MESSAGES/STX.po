@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-31 10:29+0200\n"
+"POT-Creation-Date: 2021-03-31 20:10+0200\n"
 "PO-Revision-Date: 2021-03-31 09:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
@@ -90,9 +90,9 @@ msgid ""
 "mana_2|. If they don't, you may copy that spell. You many choose new targets "
 "for the copy."
 msgstr ""
-"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, może on zapłacić |mana_2|"
-". Jeśli tego nie zrobi, możesz skopiować ów czar. Możesz wskazać nowe cele "
-"dla kopii."
+"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, może on zapłacić |"
+"mana_2|. Jeśli tego nie zrobi, możesz skopiować ów czar. Możesz wskazać nowe "
+"cele dla kopii."
 
 #: ../../STX.rst:30
 msgid ""
@@ -159,9 +159,9 @@ msgid ""
 "https://scryfall.com/card/stx/11/combat-professor?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:45 ../../STX.rst:73 ../../STX.rst:103 ../../STX.rst:137
-#: ../../STX.rst:173 ../../STX.rst:203 ../../STX.rst:385 ../../STX.rst:539
-#: ../../STX.rst:625 ../../STX.rst:669
+#: ../../STX.rst:45 ../../STX.rst:69 ../../STX.rst:99 ../../STX.rst:133
+#: ../../STX.rst:173 ../../STX.rst:203 ../../STX.rst:389 ../../STX.rst:547
+#: ../../STX.rst:639 ../../STX.rst:683
 msgid "Flying"
 msgstr "Latanie"
 
@@ -180,8 +180,8 @@ msgid ""
 "https://scryfall.com/card/stx/12/defend-the-campus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:51 ../../STX.rst:191 ../../STX.rst:307 ../../STX.rst:789
-#: ../../STX.rst:827
+#: ../../STX.rst:51 ../../STX.rst:191 ../../STX.rst:307 ../../STX.rst:803
+#: ../../STX.rst:841
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
@@ -193,29 +193,14 @@ msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 msgid "Destroy target creature with power 4 or greater."
 msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
-#: ../../STX.rst:60
-msgid ""
-":mtgtip:`Solve the Equation<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1617133738|"
-"https://scryfall.com/card/stx/14/solve-the-equation?utm_source=api>`"
-msgstr ""
-
-#: ../../STX.rst:59
-msgid ""
-"Search your library for an instant or sorcery card, reveal it, put it into "
-"your hand, then shuffle."
-msgstr ""
-"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu, ujawnij ją, umieść "
-"w twojej ręce, po czym przetasuj."
-
-#: ../../STX.rst:66
+#: ../../STX.rst:62
 msgid ""
 ":mtgtip:`Dueling Coach<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/5/45b3dbb0-0d68-4351-bfc9-a09c50454bf7.jpg?1617070330|"
 "https://scryfall.com/card/stx/15/dueling-coach?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:63
+#: ../../STX.rst:59
 msgid ""
 "When Dueling Coach enters the battlefield, put a +1/+1 counter on target "
 "creature."
@@ -223,7 +208,7 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
-#: ../../STX.rst:65
+#: ../../STX.rst:61
 msgid ""
 "|mana_4|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control "
 "with a +1/+1 counter on it."
@@ -231,14 +216,14 @@ msgstr ""
 "|mana_4|\\ |mana_w|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod "
 "twoim władaniem mającym znacznik +1/+1."
 
-#: ../../STX.rst:70
+#: ../../STX.rst:66
 msgid ""
 ":mtgtip:`Eager First-Year<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7a83543b-3b6f-4e28-96f9-007b814bcfd6.jpg?1616839191|"
 "https://scryfall.com/card/stx/16/eager-first-year?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:69
+#: ../../STX.rst:65
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, Eager "
 "First-Year gets +1/+0 until end of turn."
@@ -246,14 +231,14 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "ten stwór dostaje do końca tury +1/+0."
 
-#: ../../STX.rst:76
+#: ../../STX.rst:72
 msgid ""
 ":mtgtip:`Elite Spellbinder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/d/9d3a7998-ccac-45ad-a4e9-3a2cb057f63b.jpg?1616963960|"
 "https://scryfall.com/card/stx/17/elite-spellbinder?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:75
+#: ../../STX.rst:71
 msgid ""
 "When Elite Spellbinder enters the battlefield, look at target opponent's "
 "hand. You may exile a nonland card from it. For as long as that card remains "
@@ -265,14 +250,14 @@ msgstr ""
 "karty jej właściciel może ją zagrać. Rzucenie czaru w ten sposób kosztuje o |"
 "mana_2| więcej."
 
-#: ../../STX.rst:80
+#: ../../STX.rst:76
 msgid ""
 ":mtgtip:`Professor of Symbology<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/4/f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57.jpg?1616695655|"
 "https://scryfall.com/card/stx/24/professor-of-symbology?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:79
+#: ../../STX.rst:75
 msgid ""
 "When Professor of Symbology enters the battlefield, learn. (You may reveal a "
 "Lesson card you own from outside the game and put it into your hand, or "
@@ -282,14 +267,14 @@ msgstr ""
 "kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
 "dobrać kartę.)"
 
-#: ../../STX.rst:84
+#: ../../STX.rst:80
 msgid ""
 ":mtgtip:`Reduce to Memory<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/b/7bfc408e-34d6-4e94-8678-4cc229cbc6f5.jpg?1617148623|"
 "https://scryfall.com/card/stx/25/reduce-to-memory?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:83
+#: ../../STX.rst:79
 msgid ""
 "Exile target nonland permanent. Its controller creates a 3/2 red and white "
 "Spirit creature token."
@@ -297,14 +282,14 @@ msgstr ""
 "Wygnaj wskazany nielądowy permanent. Jego władca tworzy żeton czerwono-"
 "białego stwora Duch 3/2."
 
-#: ../../STX.rst:90
+#: ../../STX.rst:86
 msgid ""
 ":mtgtip:`Sparring Regimen<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/b/ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f.jpg?1617072248|"
 "https://scryfall.com/card/stx/29/sparring-regimen?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:87
+#: ../../STX.rst:83
 msgid ""
 "When Sparring Regimen enters the battlefield, learn. (You may reveal a "
 "Lesson card you own from outside the game and put it into your hand, or "
@@ -314,7 +299,7 @@ msgstr ""
 "kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
 "dobrać kartę.)"
 
-#: ../../STX.rst:89
+#: ../../STX.rst:85
 msgid ""
 "Whenever you attack, put a +1/+1 counter on target attacking creature and "
 "untap it."
@@ -322,31 +307,31 @@ msgstr ""
 "Ilekroć zaatakujesz, umieść znacznik +1/+1 na wskazanym atakującym stworze i "
 "odkręć go."
 
-#: ../../STX.rst:96
+#: ../../STX.rst:92
 msgid ""
 ":mtgtip:`Star Pupil<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/9/99e9318f-2e17-4b6e-895f-c17cd5d0d282.jpg?1616786896|https://"
 "scryfall.com/card/stx/30/star-pupil?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:93
+#: ../../STX.rst:89
 msgid "Star Pupil enters the battlefield with a +1/+1 counter on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając znacznik +1/+1."
 
-#: ../../STX.rst:95
+#: ../../STX.rst:91
 msgid "When Star Pupil dies, put its counters on target creature you control."
 msgstr ""
 "Kiedy ten stwór umrze, umieść jego znaczniki na wskazanym stworze pod twoim "
 "władaniem."
 
-#: ../../STX.rst:100
+#: ../../STX.rst:96
 msgid ""
 ":mtgtip:`Stonebinder's Familiar<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/1/21de4a01-98d3-4af3-9c6e-29e16d2c1767.jpg?1617134524|"
 "https://scryfall.com/card/stx/31/stonebinders-familiar?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:99
+#: ../../STX.rst:95
 msgid ""
 "Whenever one or more cards are put into exile during your turn, put a +1/+1 "
 "counter on Stonebinder's Familiar. This ability triggers only once each turn."
@@ -354,14 +339,14 @@ msgstr ""
 "Ilekroć co najmniej jedna karta trafia na wygnanie w twojej turze, umieść "
 "znacznik +1/+1 na tym stworze. Ta zdolność wyzwala się tylko raz na turę."
 
-#: ../../STX.rst:106
+#: ../../STX.rst:102
 msgid ""
 ":mtgtip:`Strict Proctor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/5/95f1e36a-6838-49de-b7dc-697cbcd1e892.jpg?1617071561|"
 "https://scryfall.com/card/stx/33/strict-proctor?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:105
+#: ../../STX.rst:101
 msgid ""
 "Whenever a permanent entering the battlefield causes a triggered ability to "
 "trigger, counter that ability unless its controller pays |mana_2|."
@@ -369,19 +354,19 @@ msgstr ""
 "Ilekroć permanent wchodzący na pole bitwy powoduje wyzwolenie zdolności "
 "wyzwalanej, skontruj ową zdolność, chyba że jej właściciel zapłaci |mana_2|."
 
-#: ../../STX.rst:112
+#: ../../STX.rst:108
 msgid ""
 ":mtgtip:`Study Break<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/f/ef7cd813-0781-4fd7-8748-2716e1eeb4b9.jpg?1616788393|https://"
 "scryfall.com/card/stx/34/study-break?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:109
+#: ../../STX.rst:105
 msgid "Tap up to two target creatures."
 msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
-#: ../../STX.rst:111 ../../STX.rst:161 ../../STX.rst:229 ../../STX.rst:269
-#: ../../STX.rst:279 ../../STX.rst:295 ../../STX.rst:335 ../../STX.rst:633
+#: ../../STX.rst:107 ../../STX.rst:157 ../../STX.rst:229 ../../STX.rst:269
+#: ../../STX.rst:279 ../../STX.rst:295 ../../STX.rst:335 ../../STX.rst:647
 msgid ""
 "Learn. (You may reveal a Lesson card you own from outside the game and put "
 "it into your hand, or discard a card to draw a card.)"
@@ -389,18 +374,18 @@ msgstr ""
 "Ucz się. (Możesz albo ujawnić własną kartę Lekcji spoza gry i umieścić ją w "
 "twojej ręce, albo odrzucić kartę by dobrać kartę.)"
 
-#: ../../STX.rst:118
+#: ../../STX.rst:114
 msgid ""
 ":mtgtip:`Thunderous Orator<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/f/ef3b2961-559f-42b1-be13-ff3d03e62809.jpg?1617070068|"
 "https://scryfall.com/card/stx/35/thunderous-orator?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:115 ../../STX.rst:619
+#: ../../STX.rst:111 ../../STX.rst:633
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../STX.rst:117
+#: ../../STX.rst:113
 msgid ""
 "Whenever Thunderous Orator attacks, it gains flying until end of turn if you "
 "control a creature with flying. The same is true for first strike, double "
@@ -411,14 +396,14 @@ msgstr ""
 "ciosu, dotyku śmierci, niezniszczalności, więzi życia, złowrogości i "
 "tratowania."
 
-#: ../../STX.rst:122
+#: ../../STX.rst:118
 msgid ""
 ":mtgtip:`Archmage Emeritus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/6/761df6cd-0928-4167-8902-58fdb50181a0.jpg?1616693970|"
 "https://scryfall.com/card/stx/37/archmage-emeritus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:121
+#: ../../STX.rst:117
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, draw a "
 "card."
@@ -426,34 +411,34 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "dobierz kartę."
 
-#: ../../STX.rst:128
+#: ../../STX.rst:124
 msgid ""
 ":mtgtip:`Bury in Books<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/c/ac2a2cf5-80cf-4c06-8b04-bc04a5460de5.jpg?1617072086|"
 "https://scryfall.com/card/stx/39/bury-in-books?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:125
+#: ../../STX.rst:121
 msgid ""
 "This spell costs |mana_2| less to cast if it targets an attacking creature."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje atakującego "
 "stwora."
 
-#: ../../STX.rst:127
+#: ../../STX.rst:123
 msgid "Put target creature into its owner's library second from the top."
 msgstr ""
 "Umieść wskazanego stwora w bibliotece właściciela jako drugą kartę od "
 "wierzchu."
 
-#: ../../STX.rst:134
+#: ../../STX.rst:130
 msgid ""
 ":mtgtip:`Curate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/2/f2a0e716-22b7-4a5e-9b7a-d4a806ee7427.jpg?1617072183|https://"
 "scryfall.com/card/stx/40/curate?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:131
+#: ../../STX.rst:127
 msgid ""
 "Look at the top two cards of your library. Put any number of them into your "
 "graveyard and the rest back on top of your library in any order."
@@ -461,18 +446,18 @@ msgstr ""
 "Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść dowolne z nich w "
 "twoim cmentarzu a pozostałe dowolnie na wierzchu twojej biblioteki."
 
-#: ../../STX.rst:133 ../../STX.rst:159
+#: ../../STX.rst:129 ../../STX.rst:155
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-#: ../../STX.rst:140
+#: ../../STX.rst:136
 msgid ""
 ":mtgtip:`Frost Trickster<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/d/fd79c9cc-0a8c-4d88-96e2-cb177134a18d.jpg?1617143952|"
 "https://scryfall.com/card/stx/43/frost-trickster?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:139
+#: ../../STX.rst:135
 msgid ""
 "When Frost Trickster enters the battlefield, tap target creature an opponent "
 "controls. That creature doesn't untap during its controller's next untap "
@@ -482,18 +467,18 @@ msgstr ""
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania swojego władcy."
 
-#: ../../STX.rst:146
+#: ../../STX.rst:142
 msgid ""
 ":mtgtip:`Kelpie Guide<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/1/0112ebfb-55ad-401c-9dc5-ffd829f5b5bf.jpg?1617148946|"
 "https://scryfall.com/card/stx/45/kelpie-guide?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:143
+#: ../../STX.rst:139
 msgid "|tap|: Untap another target permanent you control."
 msgstr "|tap|: Odkręć inny wskazany permanent pod twoim władaniem."
 
-#: ../../STX.rst:145
+#: ../../STX.rst:141
 msgid ""
 "|tap|: Tap target permanent. Activate only if you control eight or more "
 "lands."
@@ -501,18 +486,18 @@ msgstr ""
 "|tap|: Przekręć wskazany permanent. Możesz aktywować tylko jeśli władasz co "
 "najmniej ośmioma lądami."
 
-#: ../../STX.rst:156
+#: ../../STX.rst:152
 msgid ""
 ":mtgtip:`Multiple Choice<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/8/08c9890f-7081-42f6-89eb-35c83911b443.jpg?1617135630|"
 "https://scryfall.com/card/stx/48/multiple-choice?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:149
+#: ../../STX.rst:145
 msgid "If X is 1, scry 1, then draw a card."
 msgstr "Jeśli X jest 1, dobierz kartę."
 
-#: ../../STX.rst:151
+#: ../../STX.rst:147
 msgid ""
 "If X is 2, you may choose a player. They return a creature they control to "
 "its owner's hand."
@@ -520,35 +505,50 @@ msgstr ""
 "Jeśli X jest 2, możesz wskazać gracza. Przywraca on stwora pod swoim "
 "władaniem do ręki właściciela."
 
-#: ../../STX.rst:153
+#: ../../STX.rst:149
 msgid "If X is 3, create a 4/4 blue and red Elemental creature token."
 msgstr "Jeśli X jest 3, ztwórz żeton niebieskiego stwora Żywiołak 4/4."
 
-#: ../../STX.rst:155
+#: ../../STX.rst:151
 msgid "If X is 4 or more, do all of the above."
 msgstr "Jeśli X jest 4 lub więcej, zrób wszystko powyższe."
 
-#: ../../STX.rst:162
+#: ../../STX.rst:158
 msgid ""
 ":mtgtip:`Pop Quiz<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/1/d16892d8-9d10-45de-ab79-0e645c4b5588.jpg?1616839270|https://"
 "scryfall.com/card/stx/49/pop-quiz?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:166
+#: ../../STX.rst:162
 msgid ""
 ":mtgtip:`Resculpt<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1617137904|https://"
 "scryfall.com/card/stx/51/resculpt?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:165
+#: ../../STX.rst:161
 msgid ""
 "Exile target artifact or creature. Its controller creates a 4/4 blue and red "
 "Elemental creature token."
 msgstr ""
 "Wygnaj wskazany artefakt lub stwora. Jego władca tworzy żeton niebiesko-"
 "czerwonego stwora Żywiołak 4/4."
+
+#: ../../STX.rst:166
+msgid ""
+":mtgtip:`Solve the Equation<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1617182632|"
+"https://scryfall.com/card/stx/54/solve-the-equation?utm_source=api>`"
+msgstr ""
+
+#: ../../STX.rst:165
+msgid ""
+"Search your library for an instant or sorcery card, reveal it, put it into "
+"your hand, then shuffle."
+msgstr ""
+"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu, ujawnij ją, umieść "
+"w twojej ręce, po czym przetasuj."
 
 #: ../../STX.rst:170
 msgid ""
@@ -574,7 +574,7 @@ msgid ""
 "https://scryfall.com/card/stx/61/waterfall-aerialist?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:175 ../../STX.rst:435
+#: ../../STX.rst:175 ../../STX.rst:439
 msgid ""
 "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_2|.)"
@@ -756,7 +756,7 @@ msgstr ""
 #: ../../STX.rst:234
 msgid ""
 ":mtgtip:`\"Forum Mooderator\"<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/f/7ff4832a-26c0-4da5-abbb-1941e7084e72.jpg?1617164616|"
+"border_crop/front/7/f/7ff4832a-26c0-4da5-abbb-1941e7084e72.jpg?1617173917|"
 "https://scryfall.com/card/stx/92/forum-mooderator?utm_source=api>`"
 msgstr ""
 
@@ -780,7 +780,8 @@ msgstr ""
 
 #: ../../STX.rst:237
 msgid "|tap|: Attacking Spirits you control get +1/+0 until end of turn."
-msgstr "|tap|: Atakujące Duchy pod twoim władaniem dostają do końca tury +1/+0."
+msgstr ""
+"|tap|: Atakujące Duchy pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../STX.rst:244
 msgid ""
@@ -809,7 +810,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`\"I Have a Dragon and Dragon Says 'No'. Do You Have a Dragon? "
 "Didn't Think So\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/5/657de246-b9fc-47b1-b932-091e9500bb82.jpg?1617164438|https://"
+"front/6/5/657de246-b9fc-47b1-b932-091e9500bb82.jpg?1617173922|https://"
 "scryfall.com/card/stx/96/i-have-a-dragon-and-dragon-says-no-do-you-have-a-"
 "dragon%3F-didnt-think-so?utm_source=api>`"
 msgstr ""
@@ -870,7 +871,7 @@ msgid ""
 "https://scryfall.com/card/stx/98/efreet-flamepainter?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:261 ../../STX.rst:355
+#: ../../STX.rst:261 ../../STX.rst:359
 msgid "Double strike"
 msgstr "Podwójny cios"
 
@@ -1011,7 +1012,7 @@ msgstr ""
 msgid "\"We'll Do It Live!\" deals 1 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../STX.rst:311 ../../STX.rst:575
+#: ../../STX.rst:311 ../../STX.rst:589
 msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
@@ -1107,18 +1108,37 @@ msgstr ""
 "Zyskaj 2 życia. Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest "
 "liczbą żyć zyskanych przez ciebie w tej turze."
 
-#: ../../STX.rst:346
+#: ../../STX.rst:344
+msgid ""
+":mtgtip:`\"Hungry Chomp Rider\"<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/4/74729320-f6ee-4176-9463-397d6e477d7a.jpg?1617184396|"
+"https://scryfall.com/card/stx/135/hungry-chomp-rider?utm_source=api>`"
+msgstr ""
+
+#: ../../STX.rst:343
+#, fuzzy
+#| msgid ""
+#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, put a "
+#| "+1/+1 counter on Dragonsguard Elite."
+msgid ""
+"Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/"
+"+1 counter on target creature you control."
+msgstr ""
+"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
+"umieść znacznik +1/+1 na tym stworze."
+
+#: ../../STX.rst:350
 msgid ""
 ":mtgtip:`\"Master of Minecraft\"<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/5/255cdc39-6ad8-4831-9718-6712cb17654c.jpg?1617072647|"
 "https://scryfall.com/card/stx/138/master-of-minecraft?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:343
+#: ../../STX.rst:347
 msgid "Reach"
 msgstr "Zasięg"
 
-#: ../../STX.rst:345
+#: ../../STX.rst:349
 msgid ""
 "Whenever a creature you control with power equal to its toughness attacks, "
 "it gains trample until end of turn."
@@ -1126,19 +1146,19 @@ msgstr ""
 "Ilekroć zaatakuje stwór pod twoim władaniem mający siłę równą swojej "
 "wytrzymałości, zyskuje on do końca tury tratowanie."
 
-#: ../../STX.rst:352
+#: ../../STX.rst:356
 msgid ""
 ":mtgtip:`Verdant Mastery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/9/197455e5-7929-47b8-ad00-8d3918949eb7.jpg?1617146900|"
 "https://scryfall.com/card/stx/146/verdant-mastery?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:349
+#: ../../STX.rst:353
 msgid "You may pay |mana_3|\\ |mana_g| rather than pay this spell's mana cost."
 msgstr ""
 "Możesz zapłacić |mana_3|\\ |mana_g| zamiast płacić koszt many tego czaru."
 
-#: ../../STX.rst:351
+#: ../../STX.rst:355
 msgid ""
 "Search your library for up to four basic land cards and reveal them. Put one "
 "of them onto the battlefield tapped under an opponent's control if the |"
@@ -1151,7 +1171,7 @@ msgstr ""
 "przekręcone na polu bitwy pod twoim władaniem, a pozostałe w twojej ręce. "
 "Następnie przetasuj."
 
-#: ../../STX.rst:358
+#: ../../STX.rst:362
 msgid ""
 ":mtgtip:`Extus, Oriq Overlord<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/a/ba09360a-067e-48a5-bdc5-a19fd066a785.jpg?1617150102|"
@@ -1159,7 +1179,7 @@ msgid ""
 "avatar?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:357
+#: ../../STX.rst:361
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, return "
 "target nonlegendary creature card from your graveyard to your hand."
@@ -1168,7 +1188,7 @@ msgstr ""
 "przywróć wskazaną kartę nielegendarnego stwora z twojego cmentarza do twojej "
 "ręki."
 
-#: ../../STX.rst:364
+#: ../../STX.rst:368
 msgid ""
 ":mtgtip:`Awaken the Blood Avatar<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/b/a/ba09360a-067e-48a5-bdc5-a19fd066a785.jpg?1617150102|"
@@ -1176,7 +1196,7 @@ msgid ""
 "avatar?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:361
+#: ../../STX.rst:365
 msgid ""
 "As an additional cost to cast this spell, you may sacrifice any number of "
 "creatures. This spell costs |mana_2| less to cast for each creature "
@@ -1186,7 +1206,7 @@ msgstr ""
 "stworów. Rzucenie tego czaru kosztuje o |mana_2| mniej za każdego stwora "
 "poświęconego w ten sposób."
 
-#: ../../STX.rst:363
+#: ../../STX.rst:367
 msgid ""
 "Each opponent sacrifices a creature. Create a 3/6 black and red Avatar "
 "creature token with haste and \"Whenever this creature attacks, it deals 3 "
@@ -1196,7 +1216,7 @@ msgstr ""
 "Awatar 3/6 z pośpiechem oraz \"Ilekroć ten stwór zaatakuje, zadaje każdemu "
 "przeciwnikowi po 3 obrażenia.\""
 
-#: ../../STX.rst:370
+#: ../../STX.rst:374
 msgid ""
 ":mtgtip:`Flamescroll Celebrant<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/d/0dba25e3-2b4f-45d4-965f-3834bcb359ee.jpg?1617075262|"
@@ -1204,7 +1224,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:367
+#: ../../STX.rst:371
 msgid ""
 "Whenever an opponent activates an ability that isn't a mana ability, "
 "Flamescroll Celebrant deals 1 damage to that player."
@@ -1212,12 +1232,12 @@ msgstr ""
 "Ilekroć przeciwnik aktywuje zdolność nie dającą many, ten stwór zadaje owemu "
 "graczowi 1 obrażenie."
 
-#: ../../STX.rst:369
+#: ../../STX.rst:373
 msgid ""
 "|mana_1|\\ |mana_r|: Flamescroll Celebrant gets +2/+0 until end of turn."
 msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
-#: ../../STX.rst:376
+#: ../../STX.rst:380
 msgid ""
 ":mtgtip:`Revel in Silence<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/0/d/0dba25e3-2b4f-45d4-965f-3834bcb359ee.jpg?1617075262|"
@@ -1225,7 +1245,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:373
+#: ../../STX.rst:377
 msgid ""
 "You opponents can't cast spells or activate planeswalkers' loyalty abilities "
 "this turn."
@@ -1233,11 +1253,11 @@ msgstr ""
 "Twoi przeciwnicy nie mogą w tej turze rzucać czarów ani aktywować zdolności "
 "lojalnościowych wędrowców."
 
-#: ../../STX.rst:375
+#: ../../STX.rst:379
 msgid "Exile Revel in Silence."
 msgstr "Wygnaj ten czar."
 
-#: ../../STX.rst:382
+#: ../../STX.rst:386
 msgid ""
 ":mtgtip:`Kianne, Dean of Substance<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?"
@@ -1245,7 +1265,7 @@ msgid ""
 "imbraham-dean-of-theory?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:379
+#: ../../STX.rst:383
 msgid ""
 "|tap|: Exile the top card of your library. If it's a land card, put it into "
 "your hand. Otherwise, put a study counter on it."
@@ -1253,7 +1273,7 @@ msgstr ""
 "|tap|: Wygnaj wierzchnią kartę twojej biblioteko. Jeśli to karta lądu, "
 "umieść ją w twojej ręce. W przeciwnym razie umieść na niej znacznik nauki."
 
-#: ../../STX.rst:381
+#: ../../STX.rst:385
 msgid ""
 "|mana_4|\\ |mana_g|: Create a 0/0 green and blue Fractal creature token. Put "
 "a +1/+1 counter on it for each different mana value among nonland cards you "
@@ -1263,7 +1283,7 @@ msgstr ""
 "Umieść na nim tyle znaczników +1/+1 ile masz wygnanych własnych nielądowych "
 "kart o różnych skrótach many mających znacznik nauki."
 
-#: ../../STX.rst:388
+#: ../../STX.rst:392
 msgid ""
 ":mtgtip:`Imbraham, Dean of Theory<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/back/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?"
@@ -1271,7 +1291,7 @@ msgid ""
 "imbraham-dean-of-theory?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:387
+#: ../../STX.rst:391
 msgid ""
 "|mana_x|\\ |mana_u|\\ |mana_u|, |tap|: Exile the top X cards of your library "
 "and put a study counter on each of them. Then you may put a card you own in "
@@ -1281,7 +1301,7 @@ msgstr ""
 "biblioteki i umieść na każdej znacznik nauki. Następnie możesz przenieść z "
 "wygnania własną kartę mają znacznik nauki do twojej ręki."
 
-#: ../../STX.rst:394
+#: ../../STX.rst:398
 msgid ""
 ":mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616839421|"
@@ -1289,11 +1309,11 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:391
+#: ../../STX.rst:395
 msgid "|tap|, Discard a card: Draw a card."
 msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
-#: ../../STX.rst:393
+#: ../../STX.rst:397
 msgid ""
 "|mana_4|\\ |mana_r|, |tap|: Reveal cards from the top of your library until "
 "you reveal a nonlegendary, nonland card with mana value 3 or less. You may "
@@ -1305,7 +1325,7 @@ msgstr ""
 "Możesz ją rzucić bez płacenia jej kosztu many. Umieść wszystkie nie rzucone "
 "karty ujawnione w ten sposób losowo na spodzie twojej biblioteki."
 
-#: ../../STX.rst:402
+#: ../../STX.rst:406
 msgid ""
 ":mtgtip:`Augusta, Dean of Order<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616839421|"
@@ -1313,15 +1333,15 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:397
+#: ../../STX.rst:401
 msgid "Other tapped creatures you control get +1/+0."
 msgstr "Inne przekręcone stwory pod twoim władaniem dostają +1/+0."
 
-#: ../../STX.rst:399
+#: ../../STX.rst:403
 msgid "Other untapped creatures you control get +0/+1."
 msgstr "Inne odkręcony stwory pod twoim władaniem dostają +0/+1."
 
-#: ../../STX.rst:401
+#: ../../STX.rst:405
 msgid ""
 "Whenever you attack, untap each creature you control, then tap any number of "
 "creatures you control."
@@ -1329,7 +1349,7 @@ msgstr ""
 "Ilekroć zaatakujesz, odkręć każdego stwora pod twoim władaniem, następnie "
 "przekręć dowolną liczbę stworów pod twoim władaniem."
 
-#: ../../STX.rst:410
+#: ../../STX.rst:414
 msgid ""
 ":mtgtip:`Rowan, Scholar of Sparks<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?"
@@ -1337,11 +1357,11 @@ msgid ""
 "scholar-of-frost?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:405 ../../STX.rst:413
+#: ../../STX.rst:409 ../../STX.rst:417
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
-#: ../../STX.rst:407
+#: ../../STX.rst:411
 msgid ""
 "+1: Rowan, Scholar of Sparks deals 1 damage to each opponent. If you've "
 "drawn three or more cards this turn, she deals 3 damage to each opponent "
@@ -1350,7 +1370,7 @@ msgstr ""
 "+1: Ten wędrowiec zadaje każdemu przeciwnikowi po 1 obrażeniu. Jeśli w tej "
 "turze dobrałeś co najmniej trzy karty, zamiast tego zadaje po 3 obrażenia."
 
-#: ../../STX.rst:409
+#: ../../STX.rst:413
 msgid ""
 "−4: You get an emblem with \"Whenever you cast an instant or sorcery spell, "
 "you may pay |mana_2|. If you do, copy that spell. You may choose new targets "
@@ -1360,7 +1380,7 @@ msgstr ""
 "możesz zapłacić |mana_2|. Jeśli tak zrobisz, skopiuj ów czar. Możesz wskazać "
 "nowe cele dla kopii.\""
 
-#: ../../STX.rst:420
+#: ../../STX.rst:424
 msgid ""
 ":mtgtip:`Will, Scholar of Frost<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1616837838|"
@@ -1368,7 +1388,7 @@ msgid ""
 "frost?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:415
+#: ../../STX.rst:419
 msgid ""
 "+1: Up to one target creature has base power and toughness 0/2 until your "
 "next turn."
@@ -1376,11 +1396,11 @@ msgstr ""
 "+1: Bazowa siła i wytrzymałość co najwyżej jednego wskazanego stwora stają "
 "się do twojej następnej tury 0/2."
 
-#: ../../STX.rst:417
+#: ../../STX.rst:421
 msgid "−3: Draw two cards."
 msgstr "–3: Dobierz dwie karty."
 
-#: ../../STX.rst:419
+#: ../../STX.rst:423
 msgid ""
 "−7: Exile up to five target permanents. For each permanent exiled this way, "
 "its controller creates a 4/4 blue and red Elemental Creature token."
@@ -1389,7 +1409,7 @@ msgstr ""
 "wygnany w ten sposób, jego władca tworzy żeton niebiesko-czerwonego stwora "
 "Żywiołak 4/4."
 
-#: ../../STX.rst:426
+#: ../../STX.rst:430
 msgid ""
 ":mtgtip:`Shaile, Dean of Radiance<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?"
@@ -1397,11 +1417,11 @@ msgid ""
 "dean-of-shadow?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:423
+#: ../../STX.rst:427
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-#: ../../STX.rst:425
+#: ../../STX.rst:429
 msgid ""
 "|tap|: Put a +1/+1 counter on each creature that entered the battlefield "
 "under your control this turn."
@@ -1409,7 +1429,7 @@ msgstr ""
 "|tap|: Umieść znacznik +1/+1 na każdym stworze, który w tej turze wszedł na "
 "pole bitwy pod twoim władaniem."
 
-#: ../../STX.rst:432
+#: ../../STX.rst:436
 msgid ""
 ":mtgtip:`Embrose, Dean of Shadow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1616839376|"
@@ -1417,7 +1437,7 @@ msgid ""
 "shadow?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:429
+#: ../../STX.rst:433
 msgid ""
 "|tap|: Put a +1/+1 counter on another target creature, then Embrose, Dean of "
 "Shadow deals 2 damage to that creature."
@@ -1425,13 +1445,13 @@ msgstr ""
 "|tap|: Umieść znacznik +1/+1 na innym wskazanym stworze, następnie niniejszy "
 "stwór zadaje owemu stworowi 2 obrażenia."
 
-#: ../../STX.rst:431
+#: ../../STX.rst:435
 msgid ""
 "Whenever a creature you control with a +1/+1 counter on it dies, draw a card."
 msgstr ""
 "Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, dobierz kartę."
 
-#: ../../STX.rst:438
+#: ../../STX.rst:442
 msgid ""
 ":mtgtip:`Torrent Sculptor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/87463b68-3642-41c7-a11c-67d524759b60.jpg?1616816436|"
@@ -1439,7 +1459,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:437
+#: ../../STX.rst:441
 msgid ""
 "When Torrent Sculptor enters the battlefield, exile an instant or sorcery "
 "card from your graveyard. Put a number of +1/+1 counters on Torrent Sculptor "
@@ -1449,7 +1469,7 @@ msgstr ""
 "twojego cmentarza. Umieść na tym stworze tyle znaczników +1/+1, ile wynosi "
 "połowa skrótu many owej karty, zaokrąglając wzwyż."
 
-#: ../../STX.rst:442
+#: ../../STX.rst:446
 msgid ""
 ":mtgtip:`Flamethrower Sonata<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/8/7/87463b68-3642-41c7-a11c-67d524759b60.jpg?1616816436|"
@@ -1457,7 +1477,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:441
+#: ../../STX.rst:445
 msgid ""
 "Discard a card, then draw a card. When you discard an instant or sorcery "
 "card this way, Flamethrower Sonata deals damage equal to that card's mana "
@@ -1467,7 +1487,7 @@ msgstr ""
 "sztuczki lub obrzędu, ten czar zadaje wskazanemu stworowi lub wędrowcowi "
 "poza twoim władaniem obrażenia równe skrótowi many owej karty."
 
-#: ../../STX.rst:446
+#: ../../STX.rst:450
 msgid ""
 ":mtgtip:`Uvilda, Dean of Perfection<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/c/8cfd0887-0c83-4b33-a85e-8b8ec5bf758d.jpg?"
@@ -1475,7 +1495,7 @@ msgid ""
 "nassari-dean-of-expression?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:445
+#: ../../STX.rst:449
 msgid ""
 "|tap|: You may exile an instant or sorcery card from your hand and put three "
 "hone counters on it. It gains \"At the beginning of your upkeep, if this "
@@ -1490,7 +1510,7 @@ msgstr ""
 "jest ona wygnana, możesz ją rzucić. Rzucenie jej w ten sposób kosztuje o |"
 "mana_4| mniej.\""
 
-#: ../../STX.rst:452
+#: ../../STX.rst:456
 msgid ""
 ":mtgtip:`Nassari, Dean of Expression<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/back/8/c/8cfd0887-0c83-4b33-a85e-8b8ec5bf758d.jpg?"
@@ -1498,7 +1518,7 @@ msgid ""
 "nassari-dean-of-expression?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:449
+#: ../../STX.rst:453
 msgid ""
 "At the beginning of your upkeep, exile the top card of each opponent's "
 "library. Until end of turn, you may cast spells from among those exiled "
@@ -1510,13 +1530,13 @@ msgstr ""
 "wygnanych kart i do ich rzucenia możesz wydawać manę tak, jakby była maną "
 "dowolnego koloru."
 
-#: ../../STX.rst:451
+#: ../../STX.rst:455
 msgid ""
 "Whenever you cast a spell from exile, put a +1/+1 counter on Nassari, Dean "
 "of Expression."
 msgstr "Ilekroć rzucisz czar z wygnania, umieść znacznik +1/+1 na tym stworze."
 
-#: ../../STX.rst:458
+#: ../../STX.rst:462
 msgid ""
 ":mtgtip:`Valentin, Dean of the Vein<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?"
@@ -1524,11 +1544,11 @@ msgid ""
 "lisette-dean-of-the-root?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:455
+#: ../../STX.rst:459
 msgid "Menace, lifelink"
 msgstr "Złowrogość, więź życia"
 
-#: ../../STX.rst:457
+#: ../../STX.rst:461
 msgid ""
 "If a nontoken creature an opponent controls would die, exile it instead. "
 "When you do, you may pay |mana_2|. If you do, create a 1/1 black and green "
@@ -1539,7 +1559,7 @@ msgstr ""
 "zrobisz, stwórz żeton czarno-zielonego stwora Szkodnik 1/1 mający \"Kiedy "
 "ten stwór umrze, zyskaj 1 życie.\""
 
-#: ../../STX.rst:462
+#: ../../STX.rst:466
 msgid ""
 ":mtgtip:`Lisette, Dean of the Root<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/back/6/5/65008352-bc7e-40b2-a832-b46813e5dc4c.jpg?"
@@ -1547,7 +1567,7 @@ msgid ""
 "lisette-dean-of-the-root?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:461
+#: ../../STX.rst:465
 msgid ""
 "Whenever you gain life, you may pay |mana_1|. If you do, put a +1/+1 counter "
 "on each creature you control and those creatures gain trample until end of "
@@ -1557,25 +1577,25 @@ msgstr ""
 "znacznik +1/+1 na każdym stworze pod twoim władaniem i owe stwory zyskują do "
 "końca tury tratowanie."
 
-#: ../../STX.rst:466
+#: ../../STX.rst:470
 msgid ""
 ":mtgtip:`Blade Historian<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/4/a46d64ec-aca4-428e-bce6-66cd755c8cc3.jpg?1617071363|"
 "https://scryfall.com/card/stx/165/blade-historian?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:465
+#: ../../STX.rst:469
 msgid "Attacking creatures you control have double strike."
 msgstr "Atakujące stwory pod twoim władaniem mają podwójny cios."
 
-#: ../../STX.rst:472
+#: ../../STX.rst:476
 msgid ""
 ":mtgtip:`Creative Outburst<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/a/eab58d87-bf01-45dc-8958-e2b3375f914b.jpg?1617149374|"
 "https://scryfall.com/card/stx/171/creative-outburst?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:469
+#: ../../STX.rst:473
 msgid ""
 "Creative Outburst deals 5 damage to any target. Look at the top five cards "
 "of your library. Put one of them into your hand and the rest on the bottom "
@@ -1585,19 +1605,19 @@ msgstr ""
 "twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe losowo na "
 "spodzie twojej biblioteki."
 
-#: ../../STX.rst:471
+#: ../../STX.rst:475
 msgid ""
 "|mana_ur|\\ |mana_ur|, Discard Creative Outburst: Create a Treasure token."
 msgstr "|mana_ur|\\ |mana_ur|, odrzuć tę kartę: Stwórz żeton Skarbu."
 
-#: ../../STX.rst:476
+#: ../../STX.rst:480
 msgid ""
 ":mtgtip:`Culmination of Studies<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/4/2483060e-9d3f-48ae-80ea-0119bf6b4d67.jpg?1617137937|"
 "https://scryfall.com/card/stx/173/culmination-of-studies?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:475
+#: ../../STX.rst:479
 msgid ""
 "Exile the top X cards of your library. For each land card exiled this way, "
 "create a Treasure token. For each blue card exiled this way, draw a card. "
@@ -1609,14 +1629,14 @@ msgstr ""
 "sposób, dobierz kartę. Za każdą czerwoną kartę wygnaną w ten sposób, ten "
 "czar zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
-#: ../../STX.rst:480
+#: ../../STX.rst:484
 msgid ""
 ":mtgtip:`\"Tiger Surfer\"<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/4/34b6e53f-f605-430e-9455-b3653cbd8e1d.jpg?1617087031|"
 "https://scryfall.com/card/stx/181/tiger-surfer?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:479
+#: ../../STX.rst:483
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, until end "
 "of turn, target creature you control gains \"When this creature leaves the "
@@ -1628,25 +1648,25 @@ msgstr ""
 "opuści pole bitwy, zamiast tego wygnaj go\" oraz \"Kiedy ten stwór zostanie "
 "wygnany, stwórz żeton niebieskiego stwora Żywiołak 4/4.\""
 
-#: ../../STX.rst:484
+#: ../../STX.rst:488
 msgid ""
 ":mtgtip:`\"Elemental Calling\"<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/a/ea51991c-1589-4c62-965b-5ae8d233520b.jpg?1617087118|"
 "https://scryfall.com/card/stx/183/elemental-calling?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:483
+#: ../../STX.rst:487
 msgid "Create a 4/4 blue and red Elemental creature token."
 msgstr "Stwórz żeton niebieskiego stwora Żywiołak 4/4."
 
-#: ../../STX.rst:488
+#: ../../STX.rst:492
 msgid ""
 ":mtgtip:`\"Sublime Rehearsal\"<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/1/31b770cc-09e7-4c0b-b2a4-462ab4f7200d.jpg?1617146955|"
 "https://scryfall.com/card/stx/186/sublime-rehearsal?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:487
+#: ../../STX.rst:491
 msgid ""
 "Look at the top three cards of your library. Put one of them into your hand, "
 "put one of them on the bottom of your library, then exile the rest. Until "
@@ -1656,32 +1676,51 @@ msgstr ""
 "twojej ręce, umieść jedną z nich na spodzie twojej biblioteki, po czym "
 "wygnaj pozostałe. Do końca tury możesz zagrywać karty wygnane w ten sposób."
 
-#: ../../STX.rst:492
+#: ../../STX.rst:496
+msgid ""
+":mtgtip:`\"Frog Fractals\"<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/c/cc3f1f7e-eb19-49c1-a1ee-93b85ac8815c.jpg?1617179957|"
+"https://scryfall.com/card/stx/187/frog-fractals?utm_source=api>`"
+msgstr ""
+
+#: ../../STX.rst:495
+#, fuzzy
+#| msgid ""
+#| "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 "
+#| "counters on it."
+msgid ""
+"Create a 0/0 blue and green Fractal creature token and put X +1/+1 counters "
+"on it."
+msgstr ""
+"–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1."
+
+#: ../../STX.rst:500
 msgid ""
 ":mtgtip:`Golden Ratio<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/2/626fbddb-3963-4dd2-8507-9777ed66bbbc.jpg?1617144288|"
 "https://scryfall.com/card/stx/190/golden-ratio?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:491
+#: ../../STX.rst:499
 msgid "Draw a card for each different power among creatures you control."
 msgstr ""
 "Dobierz kartę za każdą różną wartość siły spośród stworów pod twoim "
 "władaniem."
 
-#: ../../STX.rst:498
+#: ../../STX.rst:506
 msgid ""
 ":mtgtip:`Hofri Ghostforge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/d/bd8deecf-eded-418b-ac4c-5c3e8f54e86d.jpg?1617071946|"
 "https://scryfall.com/card/stx/192/hofri-ghostforge?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:495
+#: ../../STX.rst:503
 msgid "Spirits you control get +1/+1 and have trample and haste."
 msgstr ""
 "Duchy pod twoim władaniem dostają +1/+1 oraz mają tratowanie i pośpiech."
 
-#: ../../STX.rst:497
+#: ../../STX.rst:505
 msgid ""
 "Whenever another nontoken creature you control dies, exile it. If you do, "
 "create a token that's a copy of that creature, except it's a Spirit in "
@@ -1693,14 +1732,14 @@ msgstr ""
 "oprócz swoich innych typów i ma \"Kiedy ten stwór opuści pole bitwy, "
 "przywróć ową wygnaną kartę do twojego cmentarza.\""
 
-#: ../../STX.rst:508
+#: ../../STX.rst:516
 msgid ""
 ":mtgtip:`Kasmina, Enigma Sage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/7/178bf300-38cf-4ab2-9e66-6fcaa112b649.jpg?1616430435|"
 "https://scryfall.com/card/stx/196/kasmina-enigma-sage?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:501
+#: ../../STX.rst:509
 msgid ""
 "Each other planeswalker you control has the loyalty abilities of Kasmina, "
 "Enigma Sage."
@@ -1708,11 +1747,11 @@ msgstr ""
 "Każdy inny wędrowiec pod twoim władaniem ma zdolności lojalnościowe tego "
 "wędrowca."
 
-#: ../../STX.rst:503
+#: ../../STX.rst:511
 msgid "+2: Scry 1."
 msgstr "+2: Wróż 1."
 
-#: ../../STX.rst:505
+#: ../../STX.rst:513
 msgid ""
 "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters "
 "on it."
@@ -1720,7 +1759,7 @@ msgstr ""
 "–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
 "znaczników +1/+1."
 
-#: ../../STX.rst:507
+#: ../../STX.rst:515
 msgid ""
 "−8: Search your library for an instant or sorcery card that shares a color "
 "with this planeswalker, exile that card, then shuffle. You may cast that "
@@ -1730,14 +1769,14 @@ msgstr ""
 "kolor z tym wędrowcem, wygnaj ową kartę, po czym przetasuj. Możesz rzucić "
 "ową kartę bez płacenia jej kosztu many."
 
-#: ../../STX.rst:512
+#: ../../STX.rst:520
 msgid ""
 ":mtgtip:`Lorehold Apprentice<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/4/048157c6-4626-4881-ba19-deddd13622dc.jpg?1616696210|"
 "https://scryfall.com/card/stx/198/lorehold-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:511
+#: ../../STX.rst:519
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, until end "
 "of turn, Spirit creatures you control gain \"|tap|: This creature deals 1 "
@@ -1747,23 +1786,23 @@ msgstr ""
 "końca tury Duchy pod twoim władaniem mają \"|tap|: Ten stwór zadaje każdemu "
 "przeciwnikowi po 1 obrażeniu.\""
 
-#: ../../STX.rst:524
+#: ../../STX.rst:532
 msgid ""
 ":mtgtip:`Lorehold Command<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e4f0885f-1049-4a19-853d-f4e6d4bec29e.jpg?1614152837|"
 "https://scryfall.com/card/stx/199/lorehold-command?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:515 ../../STX.rst:567 ../../STX.rst:589 ../../STX.rst:657
-#: ../../STX.rst:705
+#: ../../STX.rst:523 ../../STX.rst:581 ../../STX.rst:603 ../../STX.rst:671
+#: ../../STX.rst:719
 msgid "Choose two —"
 msgstr "Wybierz dwie —"
 
-#: ../../STX.rst:517 ../../STX.rst:675
+#: ../../STX.rst:525 ../../STX.rst:689
 msgid "Create a 3/2 red and white Spirit creature token."
 msgstr "Stwórz żeton czerwono-białego stwora Duch 3/2."
 
-#: ../../STX.rst:519
+#: ../../STX.rst:527
 msgid ""
 "Creatures you control get +1/+0 and gain indestructible and haste until end "
 "of turn."
@@ -1771,25 +1810,25 @@ msgstr ""
 "Stwory pod twoim władaniem dostają do końca tury +1/+0, niezniszczalność i "
 "pośpiech."
 
-#: ../../STX.rst:521
+#: ../../STX.rst:529
 msgid ""
 "Lorehold Command deals 3 damage to any target. Target player gains 3 life."
 msgstr ""
 "Ten czar zadaje wskazanemu celowi 3 obrażenia. Wskazany gracz zyskuje 3 "
 "życia."
 
-#: ../../STX.rst:523
+#: ../../STX.rst:531
 msgid "Sacrifice a permanent, then draw two cards."
 msgstr "Poświęć permanent, po czym dobierz dwie karty."
 
-#: ../../STX.rst:530
+#: ../../STX.rst:538
 msgid ""
 ":mtgtip:`Lorehold Excavation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/3/43105beb-46f3-4914-8222-4907bd76d48f.jpg?1617070633|"
 "https://scryfall.com/card/stx/200/lorehold-excavation?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:527
+#: ../../STX.rst:535
 msgid ""
 "At the beginning of your end step, mill a card. If a land card was milled "
 "this way, you gain 1 life. Otherwise, Lorehold Excavation deals 1 damage to "
@@ -1801,7 +1840,7 @@ msgstr ""
 "każdemu przeciwnikowi po 1 obrażeniu. (Mieląc kartę umieść wierzchnią kartę "
 "twojej biblioteki w twoim cmentarzu.)"
 
-#: ../../STX.rst:529
+#: ../../STX.rst:537
 msgid ""
 "|mana_5|, Exile a creature card from your graveyard: Create a tapped 3/2 red "
 "and white Spirit creature token."
@@ -1809,18 +1848,18 @@ msgstr ""
 "|mana_5|, wygnaj kartę stwora z twojego cmentarza: Stwórz przekręcony żeton "
 "czerwono-białego stwora Duch 3/2."
 
-#: ../../STX.rst:536
+#: ../../STX.rst:544
 msgid ""
 ":mtgtip:`Lorehold Pledgemage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/9/79b88b38-6b5a-4a89-80ca-add79c11e8b9.jpg?1617070889|"
 "https://scryfall.com/card/stx/201/lorehold-pledgemage?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:533
+#: ../../STX.rst:541
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../STX.rst:535
+#: ../../STX.rst:543
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, Lorehold "
 "Pledgemage gets +1/+0 until end of turn."
@@ -1828,14 +1867,14 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "ten stwór dostaje do końca tury +1/+0."
 
-#: ../../STX.rst:542
+#: ../../STX.rst:550
 msgid ""
 ":mtgtip:`\"Malestrom Muse\"<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/5/5516e81e-16ea-411c-9df0-ed3b03670220.jpg?1617143886|"
 "https://scryfall.com/card/stx/202/malestrom-muse?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:541
+#: ../../STX.rst:549
 msgid ""
 "Whenever \"Malestrom Muse\" attacks, the next instant or sorcery spell you "
 "cast this turn costs |mana_x| less to cast, where X is \"Malestrom Muse\"'s "
@@ -1845,14 +1884,14 @@ msgstr ""
 "obrzędu w tej turze kosztuje cię o |mana_x| mniej, gdzie X jest siłą tego "
 "stwora przy rozpatrzeniu tej zdolności."
 
-#: ../../STX.rst:548
+#: ../../STX.rst:556
 msgid ""
 ":mtgtip:`Magma Opus<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/7/27c914a3-2294-4feb-9450-c012cfd307a6.jpg?1617148687|https://"
 "scryfall.com/card/stx/203/magma-opus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:545
+#: ../../STX.rst:553
 msgid ""
 "Magma Opus deals 4 damage divided as you choose among any number of targets. "
 "Tap two target permanents. Create a 4/4 blue and red Elemental creature "
@@ -1862,18 +1901,18 @@ msgstr ""
 "wskazanych celów. Przekręć dwa wskazane permanenty. Stwórz żeton "
 "niebieskiego stwora Żywiołak 4/4. Dobierz dwie karty."
 
-#: ../../STX.rst:547
+#: ../../STX.rst:555
 msgid "|mana_ur|\\ |mana_ur|, Discard Magma Opus: Create a Treasure token."
 msgstr "|mana_ur|\\ |mana_ur|, odrzuć tę kartę: Stwórz żeton Skarbu."
 
-#: ../../STX.rst:552
+#: ../../STX.rst:560
 msgid ""
 ":mtgtip:`Make Your Mark<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/e/7e937830-3804-44e8-b9d0-3e5f5cf39eab.jpg?1617133943|"
 "https://scryfall.com/card/stx/204/make-your-mark?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:551
+#: ../../STX.rst:559
 msgid ""
 "Target creature gets +1/+0 until end of turn. When that creature dies this "
 "turn, create a 3/2 red and white Spirit creature token."
@@ -1881,14 +1920,31 @@ msgstr ""
 "Wskazany stwór dostaje do końca tury +1/+0. Kiedy ów stwór umrze w tej "
 "turze, stwórz żeton czerwono-białego stwora Duch 3/2."
 
-#: ../../STX.rst:556
+#: ../../STX.rst:566
+msgid ""
+":mtgtip:`\"Oggyar Battle Seer\"<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/3/a38329f1-af6e-47b8-86e4-f2a39e1edbf8.jpg?1617177462|"
+"https://scryfall.com/card/stx/209/oggyar-battle-seer?utm_source=api>`"
+msgstr ""
+
+#: ../../STX.rst:563
+msgid "Haste"
+msgstr ""
+
+#: ../../STX.rst:565
+#, fuzzy
+#| msgid "|mana_4|, |tap|: Scry 1."
+msgid "|tap|: Scry 1."
+msgstr "|mana_4|, |tap|: Wróż 1."
+
+#: ../../STX.rst:570
 msgid ""
 ":mtgtip:`Pest Summoning<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/2/6267e19a-a777-4767-8433-86b6624362b6.jpg?1616705365|"
 "https://scryfall.com/card/stx/211/pest-summoning?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:555
+#: ../../STX.rst:569
 msgid ""
 "Create two 1/1 black and green Pest creature tokens with \"When this "
 "creature dies, you gain 1 life.\""
@@ -1896,14 +1952,14 @@ msgstr ""
 "Stwórz dwa żetony czarno-zielonego stwora Szkodnik 1/1 mające \"Gdy ten "
 "stwór umrze, zyskaj 1 życie.\""
 
-#: ../../STX.rst:560
+#: ../../STX.rst:574
 msgid ""
 ":mtgtip:`Practical Research<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/4/74edd3e3-b2de-4ba0-a508-0418b0151d87.jpg?1617135288|"
 "https://scryfall.com/card/stx/212/practical-research?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:559
+#: ../../STX.rst:573
 msgid ""
 "Draw four cards. Then discard two cards unless you discard an instant or "
 "sorcery card."
@@ -1911,14 +1967,14 @@ msgstr ""
 "Dobierz cztery karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
 "sztuczki lub obrzędu."
 
-#: ../../STX.rst:564
+#: ../../STX.rst:578
 msgid ""
 ":mtgtip:`Prismari Apprentice<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/c/dca3aa59-c8ac-4930-abf7-0a74d657122a.jpg?1616838772|"
 "https://scryfall.com/card/stx/213/prismari-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:563
+#: ../../STX.rst:577
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, Prismari "
 "Apprentice can't be blocked this turn. If that spell has mana value 5 or "
@@ -1928,37 +1984,37 @@ msgstr ""
 "ten stwór nie może być blokowany w tej turze. Jeśli ów czar ma skrót many 5 "
 "lub więcej, umieść znacznik +1/+1 na tym stworze."
 
-#: ../../STX.rst:576
+#: ../../STX.rst:590
 msgid ""
 ":mtgtip:`Prismari Command<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1616705407|"
 "https://scryfall.com/card/stx/214/prismari-command?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:569
+#: ../../STX.rst:583
 msgid "Prismari Command deals 2 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
-#: ../../STX.rst:571
+#: ../../STX.rst:585
 msgid "Target player draws two cards, then discards two cards."
 msgstr "Wskazany gracz dobiera dwie karty, po czym odrzuca dwie karty."
 
-#: ../../STX.rst:573
+#: ../../STX.rst:587
 msgid "Target player creates a Treasure token."
 msgstr "Wskazany gracz tworzy żeton Skarbu."
 
-#: ../../STX.rst:582
+#: ../../STX.rst:596
 msgid ""
 ":mtgtip:`Prismari Pledgemage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/0/404b4c7b-5d40-4ad1-bd40-3da1d08f5c78.jpg?1617135651|"
 "https://scryfall.com/card/stx/215/prismari-pledgemage?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:579
+#: ../../STX.rst:593
 msgid "Defender"
 msgstr "Obronność"
 
-#: ../../STX.rst:581
+#: ../../STX.rst:595
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, Prismari "
 "Pledgemage can attack this turn as though it didn't have defender."
@@ -1966,14 +2022,14 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "ten stwór może atakować w tej turze, jakby nie miał obronności."
 
-#: ../../STX.rst:586
+#: ../../STX.rst:600
 msgid ""
 ":mtgtip:`Quandrix Apprentice<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/0291c909-bb87-47cb-9b06-5e409e654f15.jpg?1616696014|"
 "https://scryfall.com/card/stx/216/quandrix-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:585
+#: ../../STX.rst:599
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, look at "
 "the top three cards of your library. You may reveal a land card from among "
@@ -1985,26 +2041,26 @@ msgstr ""
 "nich kartę lądu i umieścić ją w twojej ręce. Umieść pozostałe dowolnie na "
 "spodzie twojej biblioteki."
 
-#: ../../STX.rst:598
+#: ../../STX.rst:612
 msgid ""
 ":mtgtip:`Quandrix Command<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/021b62d8-d160-47f5-bc51-0474f160d13f.jpg?1614152862|"
 "https://scryfall.com/card/stx/217/quandrix-command?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:591
+#: ../../STX.rst:605
 msgid "Return target creature or planeswalker to its owner's hand."
 msgstr "Przywróć wskazanego stwora lub wędrowca do ręki właściciela."
 
-#: ../../STX.rst:593
+#: ../../STX.rst:607
 msgid "Counter target artifact or enchantment spell."
 msgstr "Skontruj wskazany czar artefaktu lub uroku."
 
-#: ../../STX.rst:595
+#: ../../STX.rst:609
 msgid "Put two +1/+1 counters on target creature."
 msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
-#: ../../STX.rst:597
+#: ../../STX.rst:611
 msgid ""
 "Target player shuffles up to three target cards from their graveyard into "
 "their library."
@@ -2012,7 +2068,7 @@ msgstr ""
 "Wskazany gracz wtasowuje co najwyżej trzy wskazane karty z jego cmentarza do "
 "swojej biblioteki."
 
-#: ../../STX.rst:604
+#: ../../STX.rst:618
 msgid ""
 ":mtgtip:`Quintorius, Field Historian<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/0/6/06c55ef1-8e62-4d43-bd4c-b2c3c5203338.jpg?"
@@ -2020,11 +2076,11 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:601
+#: ../../STX.rst:615
 msgid "Spirits you control get +1/+0."
 msgstr "Duchy pod twoim władaniem dostają +1/+0."
 
-#: ../../STX.rst:603
+#: ../../STX.rst:617
 msgid ""
 "Whenever one or more cards leave your graveyard, create a 3/2 red and white "
 "Spirit creature token."
@@ -2032,18 +2088,18 @@ msgstr ""
 "Ilekroć co najmniej jedna karta opuści twój cmentarze, stwórz żeton czerwono-"
 "białego stwora Duch 3/2."
 
-#: ../../STX.rst:610
+#: ../../STX.rst:624
 msgid ""
 ":mtgtip:`Radiant Scrollwielder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/8/c8152ab0-c6fc-4568-b837-4e84129e7b57.jpg?1617164076|"
 "https://scryfall.com/card/stx/221/radiant-scrollwielder?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:607
+#: ../../STX.rst:621
 msgid "Instant and sorcery spells you control have lifelink."
 msgstr "Czary sztuczek i obrzędów pod twoim władaniem mają więź życia."
 
-#: ../../STX.rst:609
+#: ../../STX.rst:623
 msgid ""
 "At the beginning of your upkeep, exile an instant or sorcery card at random "
 "from your graveyard. You may cast it this turn. If a spell cast this way "
@@ -2054,14 +2110,14 @@ msgstr ""
 "rzucony w ten sposób miałby trafić do twojego cmentarza, zamiast tego wygnaj "
 "go."
 
-#: ../../STX.rst:616
+#: ../../STX.rst:630
 msgid ""
 ":mtgtip:`Reconstruct History<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/e/3e565e38-43d5-482e-a911-ce525dfee74f.jpg?1617071273|"
 "https://scryfall.com/card/stx/222/reconstruct-history?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:613
+#: ../../STX.rst:627
 msgid ""
 "Return up to one target artifact card, up to one target enchantment card, up "
 "to one target instant card, up to one target sorcery card, and up to one "
@@ -2072,32 +2128,32 @@ msgstr ""
 "wskazaną kartę sztuczki, co najwyżej jedną wskazaną kartę obrzędu i co "
 "najwyżej jedną wskazaną kartę wędrowca."
 
-#: ../../STX.rst:615
+#: ../../STX.rst:629
 msgid "Exile Reconstruct History."
 msgstr "Wygnaj ten czar."
 
-#: ../../STX.rst:622
+#: ../../STX.rst:636
 msgid ""
 ":mtgtip:`Relic Sloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/1/c1cb483f-c567-4cfd-9fe8-1503e7b40542.jpg?1617072811|https://"
 "scryfall.com/card/stx/223/relic-sloth?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:621
+#: ../../STX.rst:635
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 "Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
 "stwory.)"
 
-#: ../../STX.rst:628
+#: ../../STX.rst:642
 msgid ""
 ":mtgtip:`Returned Pastcaller<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7aa0e762-0fec-4f6b-b3d7-ad8295bf557d.jpg?1617148647|"
 "https://scryfall.com/card/stx/224/returned-pastcaller?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:627
+#: ../../STX.rst:641
 msgid ""
 "When Returned Pastcaller enters the battlefield, return target Spirit, "
 "instant, or sorcery card from your graveyard to your hand."
@@ -2105,14 +2161,14 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę Ducha, "
 "sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
-#: ../../STX.rst:634
+#: ../../STX.rst:648
 msgid ""
 ":mtgtip:`Rise of Extus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/b/bbf97a71-485e-4d47-98de-bdf6f6dae0c2.jpg?1617148229|"
 "https://scryfall.com/card/stx/226/rise-of-extus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:631
+#: ../../STX.rst:645
 msgid ""
 "Exile target creature. Exile up to one target instant or sorcery card from a "
 "graveyard."
@@ -2120,7 +2176,7 @@ msgstr ""
 "Wygnaj wskazanego stwora. Wygnaj co najwyżej jedną wskazaną kartę sztuczki "
 "lub obrzędu z cmentarza."
 
-#: ../../STX.rst:638
+#: ../../STX.rst:652
 msgid ""
 ":mtgtip:`Rootha, Mercurial Artist<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/c/acb8f24d-8d1d-48aa-a534-238e969a474c.jpg?"
@@ -2128,7 +2184,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:637
+#: ../../STX.rst:651
 msgid ""
 "|mana_2|, Return Rootha, Mercurial Artist to its owner's hand: Copy target "
 "instant or sorcery spell you control. You may choose new targets for the "
@@ -2137,18 +2193,18 @@ msgstr ""
 "|mana_2|, przywróć tego stwora do ręki właściciela: Skopiuj wskazany czar "
 "sztuczki lub obrzędu pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
-#: ../../STX.rst:650
+#: ../../STX.rst:664
 msgid ""
 ":mtgtip:`Shadrix Silverquill<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/b/ab701909-83d6-4d39-9a84-e6a9b2cb38d6.jpg?1616704070|"
 "https://scryfall.com/card/stx/230/shadrix-silverquill?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:641
+#: ../../STX.rst:655
 msgid "Flying, double strike"
 msgstr "Latanie, podwójny cios"
 
-#: ../../STX.rst:643
+#: ../../STX.rst:657
 msgid ""
 "At the beginning of combat on your turn, you may choose two. Each mode must "
 "target a different player."
@@ -2156,31 +2212,31 @@ msgstr ""
 "Na początku potyczki w twojej turze, możesz wybrać dwa. Każdy tryb musi "
 "wskazywać innego gracza."
 
-#: ../../STX.rst:645
+#: ../../STX.rst:659
 msgid ""
 "Target player creates a 2/1 white and black Inkling creature token with "
 "flying."
 msgstr ""
 "Wskazany gracz tworzy żeton biało-czarnego stwora Kleks 2/1 z lataniem."
 
-#: ../../STX.rst:647 ../../STX.rst:663
+#: ../../STX.rst:661 ../../STX.rst:677
 msgid "Target player draws a card and loses 1 life."
 msgstr "Wskazany gracz dobiera kartę i traci 1 życie."
 
-#: ../../STX.rst:649
+#: ../../STX.rst:663
 msgid "Target player puts a +1/+1 counter on each creature they control."
 msgstr ""
 "Wskazany gracz umieszcza znacznik +1/+1 na każdym stworze pod swoim "
 "władaniem."
 
-#: ../../STX.rst:654
+#: ../../STX.rst:668
 msgid ""
 ":mtgtip:`Silverquill Apprentice<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/42d0770e-9084-4aa7-b543-2b6ba18378dc.jpg?1616839213|"
 "https://scryfall.com/card/stx/231/silverquill-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:653
+#: ../../STX.rst:667
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, target "
 "creature gets +1/+0 until end of turn."
@@ -2188,18 +2244,18 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "wskazany stwór dostaje do końca tury +1/+0."
 
-#: ../../STX.rst:666
+#: ../../STX.rst:680
 msgid ""
 ":mtgtip:`Silverquill Command<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/c/5c55f533-9d31-4ad1-b336-927aba6e74d6.jpg?1614152919|"
 "https://scryfall.com/card/stx/232/silverquill-command?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:659
+#: ../../STX.rst:673
 msgid "Target creature gets +3/+3 and gains flying until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz latanie."
 
-#: ../../STX.rst:661
+#: ../../STX.rst:675
 msgid ""
 "Return target creature card with mana value 2 or less from your graveyard to "
 "the battlefield."
@@ -2207,18 +2263,18 @@ msgstr ""
 "Przywróć wskazaną kartę o skrócie many 2 lub mniejszym z twojego cmentarza "
 "na pole bitwy."
 
-#: ../../STX.rst:665
+#: ../../STX.rst:679
 msgid "Target opponent sacrifices a creature."
 msgstr "Wskazany przeciwnik poświęca stwora."
 
-#: ../../STX.rst:672
+#: ../../STX.rst:686
 msgid ""
 ":mtgtip:`Spectacle Mage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f74223e1-b66b-42fa-aaac-001f5dab2aac.jpg?1617135558|"
 "https://scryfall.com/card/stx/235/spectacle-mage?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:671
+#: ../../STX.rst:685
 msgid ""
 "Instant and sorcery spells you cast with mana value 5 or greater cost |"
 "mana_1| less to cast."
@@ -2226,36 +2282,36 @@ msgstr ""
 "Rzucanie czarów sztuczek i obrzędów o skrótach many 5 lub większych kosztuje "
 "cię o |mana_1| mniej."
 
-#: ../../STX.rst:676
+#: ../../STX.rst:690
 msgid ""
 ":mtgtip:`Spirit Summoning<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/4/74be6236-4095-419c-9927-fbd874df21f8.jpg?1617071199|"
 "https://scryfall.com/card/stx/236/spirit-summoning?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:680
+#: ../../STX.rst:694
 msgid ""
 ":mtgtip:`Stonebound Mentor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9c64e954-adfc-40a2-a3b2-85f1b4626976.jpg?1617148723|"
 "https://scryfall.com/card/stx/239/stonebound-mentor?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:679
+#: ../../STX.rst:693
 msgid "Whenever one or more cards leave your graveyard, scry 1."
 msgstr "Ilekroć co najmniej jedna karta opuści twój cmentarz, wróż 1."
 
-#: ../../STX.rst:688
+#: ../../STX.rst:702
 msgid ""
 ":mtgtip:`Tanazir Quandrix<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/b/3bd62ee4-e654-44ba-a650-889782cc9ac3.jpg?1617149055|"
 "https://scryfall.com/card/stx/240/tanazir-quandrix?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:683
+#: ../../STX.rst:697
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../STX.rst:685
+#: ../../STX.rst:699
 msgid ""
 "When Tanazir Quandrix enters the battlefield, double the number of +1/+1 "
 "counters on target creature you control."
@@ -2263,7 +2319,7 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, podwój liczbę znaczników +1/+1 na "
 "wskazanym stworze pod twoim władaniem."
 
-#: ../../STX.rst:687
+#: ../../STX.rst:701
 msgid ""
 "Whenever Tanazir Quandrix attacks, you may have the base power and toughness "
 "of other creatures you control become equal to Tanazir Quandrix's power and "
@@ -2273,32 +2329,32 @@ msgstr ""
 "każdego innego stwora przyjmą do końca tury wartości posiadane przez "
 "niniejszego stwora."
 
-#: ../../STX.rst:692
+#: ../../STX.rst:706
 msgid ""
 ":mtgtip:`Thrilling Discovery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/a/bac1f45e-1884-490e-a94f-f7d312f0e229.jpg?1617148861|"
 "https://scryfall.com/card/stx/243/thrilling-discovery?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:691
+#: ../../STX.rst:705
 msgid ""
 "You gain 2 life. Then you may discard two cards. If you do, draw three cards."
 msgstr ""
 "Zyskaj 2 życia. Następnie możesz odrzucić dwie karty. Jeśli tak zrobisz, "
 "dobierz trzy karty."
 
-#: ../../STX.rst:698
+#: ../../STX.rst:712
 msgid ""
 ":mtgtip:`Velomachus Lorehold<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/4/04ea9067-ad50-4c43-ae4d-3f66890cd898.jpg?1617163986|"
 "https://scryfall.com/card/stx/245/velomachus-lorehold?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:695
+#: ../../STX.rst:709
 msgid "Flying, vigilance, haste"
 msgstr "Latanie, czujność, pośpiech"
 
-#: ../../STX.rst:697
+#: ../../STX.rst:711
 msgid ""
 "Whenever Velomachus Lorehold attacks, look at the top seven cards of your "
 "library. You may cast an instant or sorcery spell with mana value less than "
@@ -2310,14 +2366,14 @@ msgstr ""
 "sztuczki lub obrzędu o skrócie many mniejszym lub równym sile niniejszego "
 "stwora. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
-#: ../../STX.rst:702
+#: ../../STX.rst:716
 msgid ""
 ":mtgtip:`Witherbloom Apprentice<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/f/7f80a11b-188b-464c-b00d-c9d1cfb8ddee.jpg?1616839250|"
 "https://scryfall.com/card/stx/247/witherbloom-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:701
+#: ../../STX.rst:715
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, each "
 "opponent loses 1 life and you gain 1 life."
@@ -2325,14 +2381,14 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
-#: ../../STX.rst:714
+#: ../../STX.rst:728
 msgid ""
 ":mtgtip:`Witherbloom Command<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/87d5e94b-0b35-4efd-9158-1767dcaea38c.jpg?1616399908|"
 "https://scryfall.com/card/stx/248/witherbloom-command?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:707
+#: ../../STX.rst:721
 msgid ""
 "Target player mills three cards, then you return a land card from your "
 "graveyard to your hand."
@@ -2340,29 +2396,29 @@ msgstr ""
 "Wskazany gracz mieli trzy karty, po czym przywróć kartę lądu z twojego "
 "cmentarza do twojej ręki."
 
-#: ../../STX.rst:709
+#: ../../STX.rst:723
 msgid ""
 "Destroy target noncreature, nonland permanent with mana value 2 or less."
 msgstr ""
 "Zniszcz wskazany nie-stworowy, nie-lądowy permanent o skrócie many 2 lub "
 "mniejszym."
 
-#: ../../STX.rst:711
+#: ../../STX.rst:725
 msgid "Target creature gets -3/-1 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury -3/-1."
 
-#: ../../STX.rst:713
+#: ../../STX.rst:727
 msgid "Target opponent loses 2 life and you gain 2 life."
 msgstr "Wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia."
 
-#: ../../STX.rst:718
+#: ../../STX.rst:732
 msgid ""
 ":mtgtip:`Campus Guide<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/87a9a8a2-de81-441b-b501-418311b677f7.jpg?1617072724|"
 "https://scryfall.com/card/stx/252/campus-guide?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:717
+#: ../../STX.rst:731
 msgid ""
 "When Campus Guide enters the battlefield, you may search your library for a "
 "basic land card, reveal it, then shuffle and put that card on top."
@@ -2370,18 +2426,18 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, po czym przetasuj i umieść ją na wierzchu."
 
-#: ../../STX.rst:724
+#: ../../STX.rst:738
 msgid ""
 ":mtgtip:`Codie, Vociferous Codex<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/a/ea476ee1-67d9-4dd8-a5ac-f68a155eb18b.jpg?1617075410|"
 "https://scryfall.com/card/stx/253/codie-vociferous-codex?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:721
+#: ../../STX.rst:735
 msgid "You can't cast permanent spells."
 msgstr "Nie możesz rzucać czarów permanentów."
 
-#: ../../STX.rst:723
+#: ../../STX.rst:737
 msgid ""
 "|mana_4|, |tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. "
 "When you cast your next spell this turn, exile cards from the top of your "
@@ -2396,14 +2452,14 @@ msgstr ""
 "Do końca tury możesz rzucić ową kartę bez płacenia jej kosztu many. Umieść "
 "pozostałe karty wygnane w ten sposób losowo na spodzie twojej biblioteki."
 
-#: ../../STX.rst:730
+#: ../../STX.rst:744
 msgid ""
 ":mtgtip:`Frostboil Snarl<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/2/c22ba565-da08-4957-93bb-8d266fe0b0d8.jpg?1616699438|"
 "https://scryfall.com/card/stx/265/frostboil-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:727
+#: ../../STX.rst:741
 msgid ""
 "As Frostboil Snarl enters the battlefield, you may reveal an Island or "
 "Mountain card from your hand. If you don't, Frostboil Snarl enters the "
@@ -2412,18 +2468,18 @@ msgstr ""
 "Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Wyspy lub "
 "Góry. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../STX.rst:729 ../../STX.rst:763
+#: ../../STX.rst:743 ../../STX.rst:777
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
-#: ../../STX.rst:736
+#: ../../STX.rst:750
 msgid ""
 ":mtgtip:`Furycalm Snarl<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/3/53e33f37-7fd1-4431-a032-cd61b644401c.jpg?1616699476|"
 "https://scryfall.com/card/stx/266/furycalm-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:733
+#: ../../STX.rst:747
 msgid ""
 "As Furycalm Snarl enters the battlefield, you may reveal a Mountain or "
 "Plains card from your hand. If you don't, Furycalm Snarl enters the "
@@ -2432,26 +2488,26 @@ msgstr ""
 "Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Góry lub "
 "Równiny. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../STX.rst:735 ../../STX.rst:749
+#: ../../STX.rst:749 ../../STX.rst:763
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
-#: ../../STX.rst:744
+#: ../../STX.rst:758
 msgid ""
 ":mtgtip:`Hall of Oracles<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617146671|"
 "https://scryfall.com/card/stx/267/hall-of-oracles?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:739
+#: ../../STX.rst:753
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../STX.rst:741
+#: ../../STX.rst:755
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../STX.rst:743
+#: ../../STX.rst:757
 msgid ""
 "|tap| Put a +1/+1 counter on target creature. Activate only as a sorcery and "
 "only if you've cast an instant or sorcery spell this turn."
@@ -2459,29 +2515,29 @@ msgstr ""
 "|tap|: Umieść znacznik +1/+1 na wskazanym stworze. Aktywuj jako obrzęd i "
 "tylko jeśli rzuciłeś w tej turze czar sztuczki lub obrzędu."
 
-#: ../../STX.rst:752
+#: ../../STX.rst:766
 msgid ""
 ":mtgtip:`Lorehold Campus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/3/d35461cf-becf-4399-8329-64b4496b7fc2.jpg?1617070967|"
 "https://scryfall.com/card/stx/268/lorehold-campus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:747
+#: ../../STX.rst:761
 msgid "Lorehold Campus enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../STX.rst:751 ../../STX.rst:765 ../../STX.rst:773
+#: ../../STX.rst:765 ../../STX.rst:779 ../../STX.rst:787
 msgid "|mana_4|, |tap|: Scry 1."
 msgstr "|mana_4|, |tap|: Wróż 1."
 
-#: ../../STX.rst:758
+#: ../../STX.rst:772
 msgid ""
 ":mtgtip:`Necroblossom Snarl<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b0aed316-c28a-4c1a-a0a3-ab75ceba3ee7.jpg?1616705298|"
 "https://scryfall.com/card/stx/269/necroblossom-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:755
+#: ../../STX.rst:769
 msgid ""
 "As Necroblossom Snarl enters the battlefield, you may reveal a Swamp or "
 "Forest card from your hand. If you don't, Necroblossom Snarl enters the "
@@ -2490,44 +2546,44 @@ msgstr ""
 "Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Bagna lub "
 "Lasu. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../STX.rst:757
+#: ../../STX.rst:771
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
-#: ../../STX.rst:766
+#: ../../STX.rst:780
 msgid ""
 ":mtgtip:`Prismari Campus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/6/768120f5-9401-4e52-924e-3374bde65b3d.jpg?1617135644|"
 "https://scryfall.com/card/stx/270/prismari-campus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:761
+#: ../../STX.rst:775
 msgid "Prismari Campus enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../STX.rst:774
+#: ../../STX.rst:788
 msgid ""
 ":mtgtip:`Quandrix Campus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f788da28-481b-41fa-a70c-b53db6b0f068.jpg?1617144413|"
 "https://scryfall.com/card/stx/271/quandrix-campus?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:769
+#: ../../STX.rst:783
 msgid "Quandrix Campus enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../STX.rst:771 ../../STX.rst:785
+#: ../../STX.rst:785 ../../STX.rst:799
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
-#: ../../STX.rst:780
+#: ../../STX.rst:794
 msgid ""
 ":mtgtip:`Shineshadow Snarl<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/4/84a46ebf-6938-4100-8f5f-0605ad2be4fc.jpg?1616705330|"
 "https://scryfall.com/card/stx/272/shineshadow-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:777
+#: ../../STX.rst:791
 msgid ""
 "As Shineshadow Snarl enters the battlefield, you may reveal a Plains or "
 "Swamp card from your hand. If you don't, Shineshadow Snarl enters the "
@@ -2536,18 +2592,18 @@ msgstr ""
 "Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Równiny lub "
 "Bagna. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../STX.rst:779
+#: ../../STX.rst:793
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
-#: ../../STX.rst:786
+#: ../../STX.rst:800
 msgid ""
 ":mtgtip:`Vineglimmer Snarl<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f77e5ca7-dde1-435f-9b40-87558dd88749.jpg?1616699358|"
 "https://scryfall.com/card/stx/274/vineglimmer-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:783
+#: ../../STX.rst:797
 msgid ""
 "As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or "
 "Island card from your hand. If you don't, Vineglimmer Snarl enters the "
@@ -2556,14 +2612,14 @@ msgstr ""
 "Umieszczając ten ląd na polu bitwy możesz ujawnić z ręki kartę Lasy lub "
 "Wyspy. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../STX.rst:794
+#: ../../STX.rst:808
 msgid ""
 ":mtgtip:`Academic Probation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/0/903b4384-95b5-44ae-bec5-15b383777b41.jpg?1617104373|"
 "https://scryfall.com/card/stx/287/academic-probation?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:791
+#: ../../STX.rst:805
 msgid ""
 "Choose a nonland card name. Opponents can't cast spells with the chosen name "
 "until your next turn."
@@ -2571,7 +2627,7 @@ msgstr ""
 "Nazwij nielądową kartę. Do twojej następnej tury przeciwnicy nie mogą rzucać "
 "czarów o wybranej nazwie."
 
-#: ../../STX.rst:793
+#: ../../STX.rst:807
 msgid ""
 "Choose target nonland permanent. Until your next turn, it can't attack or "
 "block, and its activated abilities can't be activated."
@@ -2579,14 +2635,14 @@ msgstr ""
 "Wskaż nielądowy permanent. Do twojej następnej tury nie może on atakować lub "
 "blokować i nie można aktywować jego aktywowanych zdolności."
 
-#: ../../STX.rst:798
+#: ../../STX.rst:812
 msgid ""
 ":mtgtip:`Semester's End<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/2/121f61c8-2ddc-47bb-a8a1-b7e0b5cac156.jpg?1617104404|"
 "https://scryfall.com/card/stx/292/semesters-end?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:797
+#: ../../STX.rst:811
 msgid ""
 "Exile any number of target creatures and/or planeswalkers you control. At "
 "the beginning of the next end step, return each of them to the battlefield "
@@ -2600,96 +2656,102 @@ msgstr ""
 "z dodatkowym znacznikiem +1/+1 jeśli jest stworem i dodatkowym znacznikiem "
 "lojalności jeśli jest wędrowcem."
 
-#: ../../STX.rst:804
+#: ../../STX.rst:818
 msgid ""
 ":mtgtip:`Venerable Warsinger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/1/91cae78b-75a4-4c0e-92c3-f24379a23271.jpg?1617104453|"
+"border_crop/front/9/1/91cae78b-75a4-4c0e-92c3-f24379a23271.jpg?1617175841|"
 "https://scryfall.com/card/stx/355/venerable-warsinger?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:801
+#: ../../STX.rst:815
 msgid "Vigilance, trample"
 msgstr "Czujność, tratowanie"
 
-#: ../../STX.rst:803
+#: ../../STX.rst:817
+#, fuzzy
+#| msgid ""
+#| "Whenever Venerable Warsinger deals combat damage to a player, you may "
+#| "return target creature card with mana value X or less from your graveyard "
+#| "to the battlefield, where X is the amount of damage that Venerable "
+#| "Warsinger dealt to that player."
 msgid ""
 "Whenever Venerable Warsinger deals combat damage to a player, you may return "
 "target creature card with mana value X or less from your graveyard to the "
-"battlefield, where X is the amount of damage that Venerable Warsinger dealt "
-"to that player."
+"battlefield, where X is the amount of damage Venerable Warsinger dealt to "
+"that player."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz przywrócić wskazaną "
 "kartę stwora o skrócie many X lub mniejszym z twojego cmentarza na pole "
 "bitwy, gdzie X jest liczbą obrażeń zadanych owemu graczowi przez niniejszego "
 "stwora."
 
-#: ../../STX.rst:808
+#: ../../STX.rst:822
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/b/abadcf9e-46ed-4a8b-888c-0cd3756bc8ab.jpg?1616785691|https://"
 "scryfall.com/card/stx/366/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:807
+#: ../../STX.rst:821
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../STX.rst:812
+#: ../../STX.rst:826
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/9/c96f9fb6-ef52-43f9-a458-8602a7c83333.jpg?1616785722|https://"
 "scryfall.com/card/stx/368/island?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:811
+#: ../../STX.rst:825
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../STX.rst:816
+#: ../../STX.rst:830
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/3/13bd1c69-2561-4ff1-af00-bb519b3897c2.jpg?1616785736|https://"
 "scryfall.com/card/stx/370/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:815
+#: ../../STX.rst:829
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../STX.rst:820
+#: ../../STX.rst:834
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/6/9660fb20-f499-4f7a-9f25-e463f095ab90.jpg?1616785766|https://"
 "scryfall.com/card/stx/372/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:819
+#: ../../STX.rst:833
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../STX.rst:824
+#: ../../STX.rst:838
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/f/dfaf517f-86a1-45eb-bd71-e0bffb610396.jpg?1616785794|https://"
 "scryfall.com/card/stx/374/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:823
+#: ../../STX.rst:837
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
-#: ../../STX.rst:831
+#: ../../STX.rst:845
 msgid ""
 ":mtgtip:`Rip Apart<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/0/101f135f-1404-4333-946e-62d3aa919a62.jpg?1617072996|https://"
 "scryfall.com/card/stx/381/rip-apart?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:829
+#: ../../STX.rst:843
 msgid "Rip Apart deals 3 damage to target creature or planeswalker."
 msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia."
 
-#: ../../STX.rst:831
+#: ../../STX.rst:845
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
