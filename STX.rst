@@ -55,10 +55,6 @@
    • Destroy target creature with power 4 or greater.
 
 
-:mtgtip:`Solve the Equation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1617133738|https://scryfall.com/card/stx/14/solve-the-equation?utm_source=api>`
-   Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.
-
-
 :mtgtip:`Dueling Coach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45b3dbb0-0d68-4351-bfc9-a09c50454bf7.jpg?1617070330|https://scryfall.com/card/stx/15/dueling-coach?utm_source=api>`
    When Dueling Coach enters the battlefield, put a +1/+1 counter on target creature.
 
@@ -165,6 +161,10 @@
    Exile target artifact or creature. Its controller creates a 4/4 blue and red Elemental creature token.
 
 
+:mtgtip:`Solve the Equation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1617182632|https://scryfall.com/card/stx/54/solve-the-equation?utm_source=api>`
+   Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.
+
+
 :mtgtip:`Teachings of the Archaics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/967148b1-2bb6-4bc0-95e6-c45fcf99afd2.jpg?1617148957|https://scryfall.com/card/stx/57/teachings-of-the-archaics?utm_source=api>`
    If an opponent has more cards in hand than you, draw two cards. Draw three cards instead if an opponent has at least four more cards in hand than you.
 
@@ -229,7 +229,7 @@
    Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 
 
-:mtgtip:`"Forum Mooderator"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7ff4832a-26c0-4da5-abbb-1941e7084e72.jpg?1617164616|https://scryfall.com/card/stx/92/forum-mooderator?utm_source=api>`
+:mtgtip:`"Forum Mooderator"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7ff4832a-26c0-4da5-abbb-1941e7084e72.jpg?1617173917|https://scryfall.com/card/stx/92/forum-mooderator?utm_source=api>`
    Whenever "Forum Mooderator" attacks, you may put an instant or sorcery card from your graveyard to the bottom of your library. If you do, exile top two cards of your library. Until end of turn, you may play those cards.
 
 
@@ -243,7 +243,7 @@
    Whenever you discard one or more nonland cards, you may exile one of them. If you do, you may cast that card this turn.
 
 
-:mtgtip:`"I Have a Dragon and Dragon Says 'No'. Do You Have a Dragon? Didn't Think So"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/657de246-b9fc-47b1-b932-091e9500bb82.jpg?1617164438|https://scryfall.com/card/stx/96/i-have-a-dragon-and-dragon-says-no-do-you-have-a-dragon%3F-didnt-think-so?utm_source=api>`
+:mtgtip:`"I Have a Dragon and Dragon Says 'No'. Do You Have a Dragon? Didn't Think So"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/657de246-b9fc-47b1-b932-091e9500bb82.jpg?1617173922|https://scryfall.com/card/stx/96/i-have-a-dragon-and-dragon-says-no-do-you-have-a-dragon%3F-didnt-think-so?utm_source=api>`
    As an additional cost to cast this spell, exile an instant or sorcery card from your graveyard.
 
    "I Have a Dragon and Dragon Says 'No'. Do You Have a Dragon? Didn't Think So" deals X damage to each non-Dragon creature, where X is the mana value of the exiled card. If a creature dealt damage this way would die this turn, exile it instead.
@@ -337,6 +337,10 @@
 
 :mtgtip:`"Nightmare's Beverage"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6789b717-a000-464a-a39b-32c1aeefe560.jpg?1617001571|https://scryfall.com/card/stx/132/nightmares-beverage?utm_source=api>`
    You gain 2 life. Target creature gets +X/+X until end of turn, where X is the amount of life you gained this turn.
+
+
+:mtgtip:`"Hungry Chomp Rider"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74729320-f6ee-4176-9463-397d6e477d7a.jpg?1617184396|https://scryfall.com/card/stx/135/hungry-chomp-rider?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on target creature you control.
 
 
 :mtgtip:`"Master of Minecraft"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/255cdc39-6ad8-4831-9718-6712cb17654c.jpg?1617072647|https://scryfall.com/card/stx/138/master-of-minecraft?utm_source=api>`
@@ -487,6 +491,10 @@
    Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, then exile the rest. Until end of turn, you may play cards exiled this way.
 
 
+:mtgtip:`"Frog Fractals"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3f1f7e-eb19-49c1-a1ee-93b85ac8815c.jpg?1617179957|https://scryfall.com/card/stx/187/frog-fractals?utm_source=api>`
+   Create a 0/0 blue and green Fractal creature token and put X +1/+1 counters on it.
+
+
 :mtgtip:`Golden Ratio<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/626fbddb-3963-4dd2-8507-9777ed66bbbc.jpg?1617144288|https://scryfall.com/card/stx/190/golden-ratio?utm_source=api>`
    Draw a card for each different power among creatures you control.
 
@@ -549,6 +557,12 @@
 
 :mtgtip:`Make Your Mark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e937830-3804-44e8-b9d0-3e5f5cf39eab.jpg?1617133943|https://scryfall.com/card/stx/204/make-your-mark?utm_source=api>`
    Target creature gets +1/+0 until end of turn. When that creature dies this turn, create a 3/2 red and white Spirit creature token.
+
+
+:mtgtip:`"Oggyar Battle Seer"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a38329f1-af6e-47b8-86e4-f2a39e1edbf8.jpg?1617177462|https://scryfall.com/card/stx/209/oggyar-battle-seer?utm_source=api>`
+   Haste
+
+   |tap|: Scry 1.
 
 
 :mtgtip:`Pest Summoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6267e19a-a777-4767-8433-86b6624362b6.jpg?1616705365|https://scryfall.com/card/stx/211/pest-summoning?utm_source=api>`
@@ -797,10 +811,10 @@
    Exile any number of target creatures and/or planeswalkers you control. At the beginning of the next end step, return each of them to the battlefield under its owner's control. Each of them enters the battlefield with an additional +1/+1 counter on it if it's a creature and an additional loyalty counter on it if it's a planeswalker.
 
 
-:mtgtip:`Venerable Warsinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91cae78b-75a4-4c0e-92c3-f24379a23271.jpg?1617104453|https://scryfall.com/card/stx/355/venerable-warsinger?utm_source=api>`
+:mtgtip:`Venerable Warsinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91cae78b-75a4-4c0e-92c3-f24379a23271.jpg?1617175841|https://scryfall.com/card/stx/355/venerable-warsinger?utm_source=api>`
    Vigilance, trample
 
-   Whenever Venerable Warsinger deals combat damage to a player, you may return target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of damage that Venerable Warsinger dealt to that player.
+   Whenever Venerable Warsinger deals combat damage to a player, you may return target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of damage Venerable Warsinger dealt to that player.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abadcf9e-46ed-4a8b-888c-0cd3756bc8ab.jpg?1616785691|https://scryfall.com/card/stx/366/plains?utm_source=api>`
