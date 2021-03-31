@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 20:10+0200\n"
-"PO-Revision-Date: 2021-03-31 09:44+0000\n"
+"PO-Revision-Date: 2021-03-31 18:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -1116,16 +1116,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:343
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, put a "
-#| "+1/+1 counter on Dragonsguard Elite."
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/"
 "+1 counter on target creature you control."
 msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
-"umieść znacznik +1/+1 na tym stworze."
+"umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../STX.rst:350
 msgid ""
@@ -1684,15 +1680,11 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:495
-#, fuzzy
-#| msgid ""
-#| "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 "
-#| "counters on it."
 msgid ""
 "Create a 0/0 blue and green Fractal creature token and put X +1/+1 counters "
 "on it."
 msgstr ""
-"–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0 i umieść na nim X "
 "znaczników +1/+1."
 
 #: ../../STX.rst:500
@@ -1929,13 +1921,11 @@ msgstr ""
 
 #: ../../STX.rst:563
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../STX.rst:565
-#, fuzzy
-#| msgid "|mana_4|, |tap|: Scry 1."
 msgid "|tap|: Scry 1."
-msgstr "|mana_4|, |tap|: Wróż 1."
+msgstr "|tap|: Wróż 1."
 
 #: ../../STX.rst:570
 msgid ""
@@ -2668,12 +2658,6 @@ msgid "Vigilance, trample"
 msgstr "Czujność, tratowanie"
 
 #: ../../STX.rst:817
-#, fuzzy
-#| msgid ""
-#| "Whenever Venerable Warsinger deals combat damage to a player, you may "
-#| "return target creature card with mana value X or less from your graveyard "
-#| "to the battlefield, where X is the amount of damage that Venerable "
-#| "Warsinger dealt to that player."
 msgid ""
 "Whenever Venerable Warsinger deals combat damage to a player, you may return "
 "target creature card with mana value X or less from your graveyard to the "
