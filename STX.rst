@@ -245,6 +245,12 @@
    Whenever an opponent casts or copies an instant or sorcery spell, they lose 1 life.
 
 
+:mtgtip:`Necrotic Fumes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e1b68a4-fb8d-4b59-b049-73505296f775.jpg?1617258372|https://scryfall.com/card/stx/78/necrotic-fumes?utm_source=api>`
+   As an additional cost to cast this spell, exile a creature you control.
+
+   Exile target creature or planeswalker.
+
+
 :mtgtip:`Professor Onyx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/013eeb99-1b66-4fba-ad96-78deee901ea4.jpg?1616430491|https://scryfall.com/card/stx/83/professor-onyx?utm_source=api>`
    Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 2 life and you gain 2 life.
 
@@ -383,6 +389,10 @@
    |tap|: Add one mana of any color.
 
    |tap|: Add X mana of any one color, where X is the amount of life you gained this turn.
+
+
+:mtgtip:`Basic Conjuration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8be52d88-f430-4437-a0d3-590c2947c838.jpg?1617258424|https://scryfall.com/card/stx/120/basic-conjuration?utm_source=api>`
+   Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. You gain 3 life.
 
 
 :mtgtip:`Dragonsguard Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/658ec634-3eb2-4967-b938-d20d31ab77e3.jpg?1616692835|https://scryfall.com/card/stx/127/dragonsguard-elite?utm_source=api>`

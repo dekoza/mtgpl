@@ -87,6 +87,10 @@
    Exile target nonland permanent. Its controller creates a 3/2 red and white Spirit creature token.
 
 
+:mtgtip:`Secret Rendezvous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39528cf0-343e-499b-a69f-c5c3c2898c25.jpg?1617252402|https://scryfall.com/card/stx/26/secret-rendezvous?utm_source=api>`
+   You and target opponent each draw three cards.
+
+
 :mtgtip:`Sparring Regimen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f.jpg?1617072248|https://scryfall.com/card/stx/29/sparring-regimen?utm_source=api>`
    When Sparring Regimen enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 
@@ -137,6 +141,14 @@
    Draw a card.
 
 
+:mtgtip:`"Library Strix"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31d82f7a-64f1-463f-bb6b-936c3e49bf2b.jpg?1617252999|https://scryfall.com/card/stx/42/library-strix?utm_source=api>`
+   Flying
+
+   When "Library Strix" becomes the target of a spell, sacrifice it.
+
+   When "Library Strix" dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
 :mtgtip:`Frost Trickster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd79c9cc-0a8c-4d88-96e2-cb177134a18d.jpg?1617143952|https://scryfall.com/card/stx/43/frost-trickster?utm_source=api>`
    Flying
 
@@ -147,6 +159,10 @@
    |tap|: Untap another target permanent you control.
 
    |tap|: Tap target permanent. Activate only if you control eight or more lands.
+
+
+:mtgtip:`"Unstable Transformation"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adcbe115-5482-4e5a-95bb-8ccbb01d3547.jpg?1617253335|https://scryfall.com/card/stx/47/unstable-transformation?utm_source=api>`
+   Until end of turn, target nonland permanent loses all abilities and becomes your choice of a Frog creature with base power and toughness 1/1 or an Octopus creature with base power and toughness 4/4.
 
 
 :mtgtip:`Multiple Choice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08c9890f-7081-42f6-89eb-35c83911b443.jpg?1617222081|https://scryfall.com/card/stx/48/multiple-choice?utm_source=api>`
@@ -179,6 +195,10 @@
 
 :mtgtip:`Teachings of the Archaics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/967148b1-2bb6-4bc0-95e6-c45fcf99afd2.jpg?1617148957|https://scryfall.com/card/stx/57/teachings-of-the-archaics?utm_source=api>`
    If an opponent has more cards in hand than you, draw two cards. Draw three cards instead if an opponent has at least four more cards in hand than you.
+
+
+:mtgtip:`"Superior Talents"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e2b6236-b40c-430c-98b0-7940b942657a.jpg?1617253367|https://scryfall.com/card/stx/59/superior-talents?utm_source=api>`
+   Counter target instant or sorcery spell. Search its controller's graveyard, hand, and/or library for any number of cards with the same name as that spell and exile them. That spell's controller shuffles, then they draw a card for each card exiled from their hand this way.
 
 
 :mtgtip:`Waterfall Aerialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bc6966c-18d9-4675-9594-6f0b2d11c405.jpg?1616724732|https://scryfall.com/card/stx/61/waterfall-aerialist?utm_source=api>`
@@ -545,6 +565,12 @@
    Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of cards in your library.
 
 
+:mtgtip:`Closing Statement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/785e6d07-fe40-4723-b963-02da0a0987c7.jpg?1617257781|https://scryfall.com/card/stx/169/closing-statement?utm_source=api>`
+   This spell costs |mana_2| less to cast during your end step.
+
+   Destroy target creature or planeswalker you don't control. Put a +1/+1 counter on up to one target creature you control.
+
+
 :mtgtip:`Creative Outburst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eab58d87-bf01-45dc-8958-e2b3375f914b.jpg?1617225886|https://scryfall.com/card/stx/171/creative-outburst?utm_source=api>`
    Creative Outburst deals 5 damage to any target. Look at the top five cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
 
@@ -561,6 +587,12 @@
    • Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
    • Counter target noncreature spell unless its controller pays |mana_3|.
+
+
+:mtgtip:`Dramatic Finale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8ec9be6-c8ad-4a82-8253-c49cdb9443ba.jpg?1617257985|https://scryfall.com/card/stx/180/dramatic-finale?utm_source=api>`
+   Creature Tokens you control get +1/+1.
+
+   Whenever one or more nontoken creatures you control die, create a 2/1 white and black Inkling creature token with flying. This ability triggers only once each turn.
 
 
 :mtgtip:`Elemental Expressionist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34b6e53f-f605-430e-9455-b3653cbd8e1d.jpg?1617222620|https://scryfall.com/card/stx/181/elemental-expressionist?utm_source=api>`
@@ -673,6 +705,12 @@
    Haste
 
    |tap|: Scry 1.
+
+
+:mtgtip:`Owlin Shieldmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3350367-42bd-44af-be13-ad31c002f8ac.jpg?1617252476|https://scryfall.com/card/stx/210/owlin-shieldmage?utm_source=api>`
+   Flying
+
+   Ward—Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
 
 
 :mtgtip:`Pest Summoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6267e19a-a777-4767-8433-86b6624362b6.jpg?1616705365|https://scryfall.com/card/stx/211/pest-summoning?utm_source=api>`
@@ -797,6 +835,12 @@
    • Target opponent sacrifices a creature.
 
 
+:mtgtip:`"Silverquill AristoCAN'T"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bb60dcc-cb4a-414d-850f-c98efd872894.jpg?1617252735|https://scryfall.com/card/stx/234/silverquill-aristocant?utm_source=api>`
+   As "Silverquill AristoCAN'T" enters the battlefield, choose a nonland card name.
+
+   Whenever an opponent casts a spell with the chosen name, that player loses 3 life and you draw a card.
+
+
 :mtgtip:`Spectacle Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f74223e1-b66b-42fa-aaac-001f5dab2aac.jpg?1617135558|https://scryfall.com/card/stx/235/spectacle-mage?utm_source=api>`
    Flying
 
@@ -805,6 +849,14 @@
 
 :mtgtip:`Spirit Summoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74be6236-4095-419c-9927-fbd874df21f8.jpg?1617071199|https://scryfall.com/card/stx/236/spirit-summoning?utm_source=api>`
    Create a 3/2 red and white Spirit creature token.
+
+
+:mtgtip:`"Silverquill Bully"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be88355e-c986-4b69-93b4-0abf04916e86.jpg?1617253419|https://scryfall.com/card/stx/237/silverquill-bully?utm_source=api>`
+   Deathtouch
+
+   "Silverquill Bully" enters the battlefield with two +1/+1 counters on it.
+
+   When "Silverquill Bully" dies, put its counters on target creature you control.
 
 
 :mtgtip:`Square Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d548d5a-1dd7-448a-8483-249572e08c47.jpg?1617224620|https://scryfall.com/card/stx/238/square-up?utm_source=api>`
@@ -977,6 +1029,14 @@
    • Choose a nonland card name. Opponents can't cast spells with the chosen name until your next turn.
 
    • Choose target nonland permanent. Until your next turn, it can't attack or block, and its activated abilities can't be activated.
+
+
+:mtgtip:`Devastating Mastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/354a4740-7a11-4157-bfd7-1249980aa323.jpg?1617252584|https://scryfall.com/card/stx/288/devastating-mastery?utm_source=api>`
+   You may pay |mana_2|\ |mana_w|\ |mana_w| rather than pay this spell's mana cost.
+
+   If the |mana_2|\ |mana_w|\ |mana_w| cost was paid, an opponent choses up to two nonland permanents they control and returns them to their owner's hand.
+
+   Destroy all nonland permanents.
 
 
 :mtgtip:`Semester's End<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/121f61c8-2ddc-47bb-a8a1-b7e0b5cac156.jpg?1617104404|https://scryfall.com/card/stx/292/semesters-end?utm_source=api>`
