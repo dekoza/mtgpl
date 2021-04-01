@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-01 08:30+0200\n"
-"PO-Revision-Date: 2021-03-31 18:42+0000\n"
+"PO-Revision-Date: 2021-04-01 10:23+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -258,10 +258,8 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:75
-#, fuzzy
-#| msgid "Exile target creature or planeswalker."
 msgid "Exile target tapped creature."
-msgstr "Wygnaj wskazanego stwora lub wędrowca."
+msgstr "Wygnaj wskazanego przekręconego stwora."
 
 #: ../../STX.rst:80
 msgid ""
@@ -271,16 +269,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:79
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, target "
-#| "creature gets +1/+0 until end of turn."
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures "
 "you control get +1/+1 until end of turn,"
 msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
-"wskazany stwór dostaje do końca tury +1/+0."
+"stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../STX.rst:84
 msgid ""
@@ -527,7 +521,7 @@ msgstr ""
 
 #: ../../STX.rst:153
 msgid "If X is 1, scry 1, then draw a card."
-msgstr "Jeśli X jest 1, dobierz kartę."
+msgstr "Jeśli X jest 1, wróż 1, po czym dobierz kartę."
 
 #: ../../STX.rst:155
 msgid ""
@@ -575,19 +569,14 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:173
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_g|: Create a 0/0 green and blue Fractal creature token. "
-#| "Put a +1/+1 counter on it for each different mana value among nonland "
-#| "cards you own in exile with study counters on them."
 msgid ""
 "Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on "
 "it, where X is one plus the total number of instant and sorcery cards you "
 "own in exile and in your graveyard."
 msgstr ""
-"|mana_4|\\ |mana_g|: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. "
-"Umieść na nim tyle znaczników +1/+1 ile masz wygnanych własnych nielądowych "
-"kart o różnych skrótach many mających znacznik nauki."
+"Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1, gdzie X wynosi jeden plus liczba twoich kart sztuczek i "
+"obrzędów na wygnaniu i w twoim cmentarzu."
 
 #: ../../STX.rst:178
 msgid ""
@@ -800,10 +789,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:239
-#, fuzzy
-#| msgid ""
-#| "When Dueling Coach enters the battlefield, put a +1/+1 counter on target "
-#| "creature."
 msgid ""
 "When Tenured Inkcaster enters the battlefield, put a +1/+1 counter on target "
 "creature."
@@ -812,15 +797,12 @@ msgstr ""
 "stworze."
 
 #: ../../STX.rst:241
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control with a +1/+1 counter on it dies, draw a "
-#| "card."
 msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, each "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
-"Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, dobierz kartę."
+"Ilekroć zaatakuje stwór pod twoim władaniem mający znacznik +1/+1, każdy "
+"przeciwnik traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../STX.rst:248
 msgid ""
@@ -845,12 +827,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:251
-#, fuzzy
-#| msgid ""
-#| "Whenever \"Forum Mooderator\" attacks, you may put an instant or sorcery "
-#| "card from your graveyard to the bottom of your library. If you do, exile "
-#| "top two cards of your library. Until end of turn, you may play those "
-#| "cards."
 msgid ""
 "Whenever \"Forum Mooderator\" attacks, you may put an instant or sorcery "
 "card from your graveyard on the bottom of your library. If you do, exile top "
@@ -893,7 +869,7 @@ msgid ""
 "Whenever you discard one or more nonland cards, you may exile one of them. "
 "If you do, you may cast that card this turn."
 msgstr ""
-"Ilekroć wygnasz jedną lub więcej nielądowych kart, możesz wygnać jedną z "
+"Ilekroć odrzucisz jedną lub więcej nielądowych kart, możesz wygnać jedną z "
 "nich. Jeśli tak zrobisz, możesz rzucić ową kartę w tej turze."
 
 #: ../../STX.rst:266
@@ -906,6 +882,8 @@ msgstr ""
 #: ../../STX.rst:265
 msgid "Crackle with Power deals five times X damage to up to X targets."
 msgstr ""
+"Ten czar zadaje pięciokrotność X obrażeń każdemu z co najwyżej X wskazanych "
+"celów."
 
 #: ../../STX.rst:274
 msgid ""
@@ -1020,35 +998,28 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:299
-#, fuzzy
-#| msgid ""
-#| "You may pay |mana_1|\\ |mana_b| rather than pay this spell's mana cost."
 msgid ""
 "You may pay |mana_2|\\ |mana_r|\\ |mana_r| rather than pay this spell's mana "
 "cost."
 msgstr ""
-"Możesz zapłacić |mana_1|\\ |mana_b| zamiast płacić koszt many tego czaru."
+"Możesz zapłacić |mana_2|\\ |mana_r|\\ |mana_r| zamiast płacić koszt many "
+"tego czaru."
 
 #: ../../STX.rst:301
-#, fuzzy
-#| msgid "If the |mana_1|\\ |mana_b| cost was paid, an opponent draws a card."
 msgid ""
 "If the |mana_2|\\ |mana_r|\\ |mana_r| cost was paid, an opponent discards "
 "any number of cards, then draws that many cards."
 msgstr ""
-"Jeśli został zapłacony koszt |mana_1|\\ |mana_b|, przeciwnik dobiera kartę."
+"Jeśli został zapłacony koszt |mana_2|\\ |mana_r|\\ |mana_r|, przeciwnik "
+"odrzuca dowolną liczbą kart, po czym dobiera tyle samo kart."
 
 #: ../../STX.rst:303
-#, fuzzy
-#| msgid ""
-#| "Search your library for an instant or sorcery card, reveal it, put it "
-#| "into your hand, then shuffle."
 msgid ""
 "Search your library for up to three cards, put them into your hand, shuffle, "
 "then discard three cards at random."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu, ujawnij ją, umieść "
-"w twojej ręce, po czym przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej trzy karty, umieść je w twojej "
+"ręce, przetasuj, po czym odrzuć trzy losowe karty."
 
 #: ../../STX.rst:310
 msgid ""
@@ -1095,6 +1066,7 @@ msgstr "Pośpiech"
 #: ../../STX.rst:319
 msgid "|mana_1|\\ |mana_r|, |tap|: Target creature can't block this turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../STX.rst:326
 msgid ""
@@ -1136,9 +1108,9 @@ msgid ""
 "seven or more cards in your graveyard, create a 3/2 red and white Spirit "
 "creature token."
 msgstr ""
-"Odrzuć dowolną liczbę kart, następnie dobierz tyle samo kart. Po czym jeśli "
-"w twoim cmentarzu jest co najmniej siedem kart, stwórz żeton czerwono-"
-"białego Duch 2/2."
+"Odrzuć dowolną liczbę kart, następnie dobierz tyle samo kart. Następnie "
+"jeśli w twoim cmentarzu jest co najmniej siedem kart, stwórz żeton czerwono-"
+"białego stwora Duch 3/2."
 
 #: ../../STX.rst:340
 msgid ""
@@ -1216,22 +1188,16 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:363 ../../STX.rst:879 ../../STX.rst:909
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Add one mana of any color."
 msgid "|tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../STX.rst:365
-#, fuzzy
-#| msgid ""
-#| "You gain 2 life. Target creature gets +X/+X until end of turn, where X is "
-#| "the amount of life you gained this turn."
 msgid ""
 "|tap|: Add X mana of any one color, where X is the amount of life you gained "
 "this turn."
 msgstr ""
-"Zyskaj 2 życia. Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest "
-"liczbą żyć zyskanych przez ciebie w tej turze."
+"|tap|: Weź X many w jednym dowolnym kolorze, gdzie X jest liczbą żyć "
+"zyskanych przez ciebie w tej turze."
 
 #: ../../STX.rst:372
 msgid ""
@@ -1270,6 +1236,10 @@ msgid ""
 "opponent choses two of those cards. Shuffle the chosen cards into your "
 "library and put the rest onto the battlefield. Exile Ecological Appreciation."
 msgstr ""
+"Wyszukaj w twojej bibliotece i cmentarzu co najwyżej czterech kart stworów o "
+"różnych nazwach i kosztach many X lub mniejszych każdy i ujawnij je. "
+"Przeciwnik wybiera dwie z owych kart. Wtasuj wybrane karty do twojej "
+"biblioteki i umieść pozostałe na polu bitwy. Wygnaj ten czar."
 
 #: ../../STX.rst:380
 msgid ""
@@ -1285,6 +1255,10 @@ msgid ""
 "creature that's still a land. Put a +1/+1 counter on it for each land you "
 "had enter the battlefield under your control this turn."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj. Ów ląd staje się zielono-niebieskim stworem "
+"Fraktal 0/0 nadal będącym lądem. Umieść na nim znacznik +1/+1 za każdy ląd "
+"wprowadzony przez ciebie na pole bitwy pod twoim władaniem w tej turze."
 
 #: ../../STX.rst:386
 msgid ""
@@ -1339,16 +1313,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:397
-#, fuzzy
-#| msgid ""
-#| "Create a 0/0 blue and green Fractal creature token and put X +1/+1 "
-#| "counters on it."
 msgid ""
 "Create a 0/0 blue and green Fractal creature token. Put X +1/+1 counters on "
 "it, where X is the number of lands you control."
 msgstr ""
-"Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0 i umieść na nim X "
-"znaczników +1/+1."
+"Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1, gdzie X jest liczbą lądów pod twoim władaniem."
 
 #: ../../STX.rst:404
 msgid ""
@@ -1404,12 +1374,12 @@ msgstr ""
 
 #: ../../STX.rst:413
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../STX.rst:415
 msgid ""
 "As long as you control eight or more lands, Augmenter Pugilist gets +5/+5."
-msgstr ""
+msgstr "O ile władasz co najmniej ośmioma lądami, ten stwór dostaje +5/+5."
 
 #: ../../STX.rst:420
 msgid ""
@@ -1425,6 +1395,9 @@ msgid ""
 "a copy of it until end of turn, except those creatures aren't legendary if "
 "the chosen creature is legendary."
 msgstr ""
+"Wskaż stwora pod twoim władaniem. Każdy inny stwór pod twoim władaniem staje "
+"się do końca tury jego kopią, ale owe stwory nie są legendarne jeśli "
+"wskazany stwór jest legendarny."
 
 #: ../../STX.rst:426
 msgid ""
@@ -1660,7 +1633,7 @@ msgid ""
 "−7: Exile up to five target permanents. For each permanent exiled this way, "
 "its controller creates a 4/4 blue and red Elemental Creature token."
 msgstr ""
-"–7L Wygnaj co najwyżej pięć wskazanych permanentów. Za każdy permanent "
+"–7: Wygnaj co najwyżej pięć wskazanych permanentów. Za każdy permanent "
 "wygnany w ten sposób, jego władca tworzy żeton niebiesko-czerwonego stwora "
 "Żywiołak 4/4."
 
@@ -1840,16 +1813,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:533
-#, fuzzy
-#| msgid ""
-#| "Target player mills three cards, then you return a land card from your "
-#| "graveyard to your hand."
 msgid ""
 "Return target permanent to its owner's hand. Return target permanent card "
 "from your graveyard to your hand."
 msgstr ""
-"Wskazany gracz mieli trzy karty, po czym przywróć kartę lądu z twojego "
-"cmentarza do twojej ręki."
+"Przywróć wskazany permanent do ręki właściciela. Przywróć wskazaną kartę "
+"permanentu z twojego cmentarza do twojej ręki."
 
 #: ../../STX.rst:538
 msgid ""
@@ -1859,16 +1828,13 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:537
-#, fuzzy
-#| msgid ""
-#| "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 "
-#| "counters on it."
 msgid ""
 "When Biomathematician enters the battlefield, create a 0/0 green and blue "
 "Fractal creature token. Put a +1/+1 counter on each Fractal you control."
 msgstr ""
-"–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
-"znaczników +1/+1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
+"stwora Fraktal 0/0. Umieść znacznik +1/+1 na każdym Fraktalu pod twoim "
+"władaniem."
 
 #: ../../STX.rst:542
 msgid ""
@@ -1889,16 +1855,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:545
-#, fuzzy
-#| msgid ""
-#| "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 "
-#| "counters on it."
 msgid ""
 "Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on "
 "it, where X is the number of cards in your library."
 msgstr ""
-"–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
-"znaczników +1/+1."
+"Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1, gdzie X jest liczbą kart w twojej bibliotece."
 
 #: ../../STX.rst:552
 msgid ""
@@ -1953,12 +1915,13 @@ msgid ""
 "Target creature you control fights target creature you don't control. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../STX.rst:563
-#, fuzzy
-#| msgid "Exile target nonland permanent. Its controller draws a card."
 msgid "Counter target noncreature spell unless its controller pays |mana_3|."
-msgstr "Wygnaj wskazany nielądowy permanent. Jego władca dobiera kartę."
+msgstr ""
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../STX.rst:568
 msgid ""
@@ -1968,12 +1931,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:567
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, until "
-#| "end of turn, target creature you control gains \"When this creature "
-#| "leaves the battlefield, exile it instead\" and \"When this creature is "
-#| "exiled, create a 4/4 blue and red Elemental creature token.\""
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose "
 "target creature you control. Until end of turn, it gains \"If this creature "
@@ -1982,9 +1939,10 @@ msgid ""
 "creature token.\""
 msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
-"wskazany stwór pod twoim władaniem zyskuje do końca tury \"Kiedy ten stwór "
-"opuści pole bitwy, zamiast tego wygnaj go\" oraz \"Kiedy ten stwór zostanie "
-"wygnany, stwórz żeton niebieskiego stwora Żywiołak 4/4.\""
+"wskaż stwora pod twoi władaniem. Do końca tury ma on \"Jeśli ten stwór "
+"miałby opuścić pole bitwy, wygnaj go zamiast umieszczać go gdziekolwiek "
+"indziej\" oraz \"Kiedy wygnasz tego stwora, stwórz żeton niebiesko-"
+"czerwonego stwora Żywiołak 4/4.\""
 
 #: ../../STX.rst:574
 msgid ""
@@ -1994,23 +1952,17 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:571
-#, fuzzy
-#| msgid "Create a 4/4 blue and red Elemental creature token."
 msgid "Create two 4/4 blue and red Elemental creature tokens."
-msgstr "Stwórz żeton niebieskiego stwora Żywiołak 4/4."
+msgstr "Stwórz dwa żetony niebieskiego stwora Żywiołak 4/4."
 
 #: ../../STX.rst:573
-#, fuzzy
-#| msgid ""
-#| "Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this "
-#| "artifact: Add one mana of any color.\")"
 msgid ""
 "|mana_ur|\\ |mana_ur|, Discard Elemental Masterpiece: Create a Treasure "
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
-"Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź "
-"jedną manę dowolnego koloru.\")"
+"|mana_ur|\\ |mana_ur|, odrzuć tę kartę: Stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../STX.rst:578
 msgid ""
@@ -2031,15 +1983,10 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:581
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with mana value 2 or less from your graveyard "
-#| "to the battlefield."
 msgid ""
 "Draw two cards. You may put a land card from your hand onto the battlefield."
 msgstr ""
-"Przywróć wskazaną kartę o skrócie many 2 lub mniejszym z twojego cmentarza "
-"na pole bitwy."
+"Dobierz dwie karty. Możesz umieścić na polu bitwy kartę lądu z twojej ręki."
 
 #: ../../STX.rst:586
 msgid ""
@@ -2049,19 +1996,14 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:585
-#, fuzzy
-#| msgid ""
-#| "Look at the top three cards of your library. Put one of them into your "
-#| "hand, put one of them on the bottom of your library, then exile the rest. "
-#| "Until end of turn, you may play cards exiled this way."
 msgid ""
 "Look at the top three cards of your library. Put one of them into your hand, "
 "put one of them on the bottom of your library, and exile one of them. You "
 "may play the exiled card this turn."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
-"twojej ręce, umieść jedną z nich na spodzie twojej biblioteki, po czym "
-"wygnaj pozostałe. Do końca tury możesz zagrywać karty wygnane w ten sposób."
+"twojej ręce, umieść jedną z nich na spodzie twojej biblioteki, a jedną "
+"wygnaj. Możesz zagrać ową wygnaną kartę w tej turze."
 
 #: ../../STX.rst:590
 msgid ""
@@ -2086,16 +2028,16 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:595
-#, fuzzy
-#| msgid "Prismari Campus enters the battlefield tapped."
 msgid "When Galazeth Prismari enters the battlefield, create a Treasure token."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
 
 #: ../../STX.rst:597
 msgid ""
 "Artifacts you control have \"|tap|: Add one mana of any color. Spend this "
 "mana only to cast an instant or sorcery spell.\""
 msgstr ""
+"Artefakty pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru. "
+"Możesz ją wydać tylko na rzucenie czaru sztuczki lub obrzędu.\""
 
 #: ../../STX.rst:602
 msgid ""
@@ -2277,11 +2219,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:651
-#, fuzzy
-#| msgid ""
-#| "Whenever \"Malestrom Muse\" attacks, the next instant or sorcery spell "
-#| "you cast this turn costs |mana_x| less to cast, where X is \"Malestrom "
-#| "Muse\"'s power as this ability resolves."
 msgid ""
 "Whenever \"Maelstrom Muse\" attacks, the next instant or sorcery spell you "
 "cast this turn costs |mana_x| less to cast, where X is \"Maelstrom Muse\"'s "
@@ -2335,17 +2272,14 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:665
-#, fuzzy
-#| msgid ""
-#| "−X: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 "
-#| "counters on it."
 msgid ""
 "When Manifestation Sage enters the battlefield, create a 0/0 green and blue "
 "Fractal creature token. Put X +1/+1 counters on it, where X is the number of "
 "cards in your hand."
 msgstr ""
-"–X: Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
-"znaczników +1/+1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
+"stwora Fraktal 0/0. Umieść na nim X znaczników +1/+1, gdzie X jest liczbą "
+"kart w twojej ręce."
 
 #: ../../STX.rst:670
 msgid ""
@@ -2356,7 +2290,7 @@ msgstr ""
 
 #: ../../STX.rst:669
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../STX.rst:676
 msgid ""
@@ -2508,16 +2442,13 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:725
-#, fuzzy
-#| msgid ""
-#| "When Campus Guide enters the battlefield, you may search your library for "
-#| "a basic land card, reveal it, then shuffle and put that card on top."
 msgid ""
 "When Quandrix Cultivator enters the battlefield, you may search your library "
 "for a basic Forest or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, po czym przetasuj i umieść ją na wierzchu."
+"kartę bazowego Lasu lub Wyspy, ujawnij ją, umieść na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../STX.rst:730
 msgid ""
@@ -2527,10 +2458,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:729
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, put a "
-#| "+1/+1 counter on Dragonsguard Elite."
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/"
 "+1 counter on Quandrix Pledgemage."
@@ -2767,14 +2694,8 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:811
-#, fuzzy
-#| msgid ""
-#| "+1: Up to one target creature has base power and toughness 0/2 until your "
-#| "next turn."
 msgid "Target creature has base power and toughness 4/4 until end of turn."
-msgstr ""
-"+1: Bazowa siła i wytrzymałość co najwyżej jednego wskazanego stwora stają "
-"się do twojej następnej tury 0/2."
+msgstr "Wskazany stwór ma do końca tury bazową siłę i wytrzymałość 4/4."
 
 #: ../../STX.rst:816
 msgid ""
@@ -2824,18 +2745,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:827
-#, fuzzy
-#| msgid ""
-#| "Whenever an opponent casts an instant or sorcery spell, they may pay |"
-#| "mana_2|. If they don't, you may copy that spell. You many choose new "
-#| "targets for the copy."
 msgid ""
 "When you cast your next instant or sorcery spell this turn, copy that spell. "
 "You may choose new targets for the copy."
 msgstr ""
-"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, może on zapłacić |"
-"mana_2|. Jeśli tego nie zrobi, możesz skopiować ów czar. Możesz wskazać nowe "
-"cele dla kopii."
+"Kiedy rzucisz w tej turze swój kolejny czar sztuczki lub obrzędu, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../STX.rst:832
 msgid ""
@@ -2932,12 +2847,16 @@ msgid ""
 "|mana_1|, |tap|: You may put a land card from your hand onto the battlefield "
 "tapped."
 msgstr ""
+"|mana_1|, |tap|: Możesz umieścić kartę lądu z twojej ręki przekręconą na "
+"polu bitwy."
 
 #: ../../STX.rst:859
 msgid ""
 "|mana_4|, |tap|: Draw a card. If you control eight or more lands, draw two "
 "cards instead."
 msgstr ""
+"|mana_4|, |tap|: Dobierz kartę. Jeśli władasz co najmniej ośmioma lądami, "
+"zamiast tego dobierz dwie karty."
 
 #: ../../STX.rst:864
 msgid ""
@@ -2992,6 +2911,8 @@ msgid ""
 "|mana_2|, |tap|: Put target card from a graveyard on the bottom of its "
 "owner's library."
 msgstr ""
+"|mana_2|, |tap|:Umieść wskazaną kartę z cmentarza na spodzie biblioteki "
+"właściciela."
 
 #: ../../STX.rst:882
 msgid ""
@@ -3002,7 +2923,7 @@ msgstr ""
 
 #: ../../STX.rst:881
 msgid "|mana_2|, |tap|, Sacrifice Letter of Acceptance: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../STX.rst:886
 msgid ""
@@ -3012,19 +2933,14 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:885
-#, fuzzy
-#| msgid ""
-#| "Whenever an opponent casts an instant or sorcery spell, they may pay |"
-#| "mana_2|. If they don't, you may copy that spell. You many choose new "
-#| "targets for the copy."
 msgid ""
 "Whenever you cast an instant or sorcery spell that targets only \"Reflective "
 "Hulk\", you may pay |mana_2| to copy that spell. If you do, you may choose "
 "new targets for the copy."
 msgstr ""
-"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, może on zapłacić |"
-"mana_2|. Jeśli tego nie zrobi, możesz skopiować ów czar. Możesz wskazać nowe "
-"cele dla kopii."
+"Ilekroć rzucisz czar sztuczki lub obrzędu wskazujący tylko tego stwora, "
+"możesz zapłacić |mana_2| by skopiować ów czar. Jeśli tak zrobisz, możesz "
+"wskazać nowe cele dla kopii."
 
 #: ../../STX.rst:894
 msgid ""
@@ -3035,13 +2951,14 @@ msgstr ""
 
 #: ../../STX.rst:889
 msgid "|tap|: Add |colorless|. Put a point counter on Strixhaven Stadium."
-msgstr ""
+msgstr "|tap|: Weź |colorless|. Umieść znacznik punktu na tym lądzie."
 
 #: ../../STX.rst:891
 msgid ""
 "Whenever a creature deals combat damage to you, remove a point counter from "
 "Strixhaven Stadium."
 msgstr ""
+"Ilekroć stwór zada tobie obrażenia bojowe, usuń znacznik punktu z tego lądu."
 
 #: ../../STX.rst:893
 msgid ""
@@ -3049,6 +2966,9 @@ msgid ""
 "point counter on Strixhaven Stadium. Then if it has ten or more point "
 "counters on it, remove them all and that player loses the game."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada przeciwnikowi obrażenia bojowe, "
+"umieść znacznik punktu na tym lądzie. Następnie jeśli ma on co najmniej "
+"dziesięć znaczników punktu, usuń je wszystkie i ów gracz przegrywa grę."
 
 #: ../../STX.rst:902
 msgid ""
@@ -3058,18 +2978,16 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:897
-#, fuzzy
-#| msgid "Target creature gets +3/+3 and gains flying until end of turn."
 msgid "Equipped creature gets +1/+1 and has vigilance and trample."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz latanie."
+msgstr "Wyposażony stwór dostaje +1/+1 i ma czujność oraz tratowanie."
 
 #: ../../STX.rst:899
 msgid "Equip creature token |mana_1|"
-msgstr ""
+msgstr "Wyposaż żeton stwora |mana_1|"
 
 #: ../../STX.rst:901
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../STX.rst:910
 msgid ""
@@ -3079,8 +2997,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:905
-#, fuzzy
-#| msgid "Lorehold Campus enters the battlefield tapped."
 msgid "Archway Commons enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
@@ -3089,6 +3005,7 @@ msgid ""
 "When Archway Commons enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../STX.rst:916
 msgid ""
