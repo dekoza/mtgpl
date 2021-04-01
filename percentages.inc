@@ -106,8 +106,7 @@
 
 .. |DIS_percent| image:: images/pie40.png        
 
-.. |JMP_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |JMP_percent| image:: images/pie95.png        
 
 .. |ARB_percent| image:: images/pie40.png        
 
