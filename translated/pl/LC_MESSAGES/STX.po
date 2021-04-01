@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-01 20:38+0200\n"
-"PO-Revision-Date: 2021-04-01 13:01+0000\n"
+"PO-Revision-Date: 2021-04-01 19:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -443,14 +443,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:129
-#, fuzzy
-#| msgid "Target creature gets -3/-1 until end of turn."
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-1."
+msgstr "Wskazany stwór dostaje do końca tury -4/-0."
 
 #: ../../STX.rst:131
 msgid "Learn."
-msgstr ""
+msgstr "Ucz się."
 
 #: ../../STX.rst:136
 msgid ""
@@ -476,21 +474,15 @@ msgstr ""
 
 #: ../../STX.rst:139
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../STX.rst:141
-#, fuzzy
-#| msgid ""
-#| "When Frost Trickster enters the battlefield, tap target creature an "
-#| "opponent controls. That creature doesn't untap during its controller's "
-#| "next untap step."
 msgid ""
 "When \"Croaktara\" enters the battlefield, target creature an opponent "
 "controls gets -1/-0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
-"władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
-"odkręcania swojego władcy."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -1/-0."
 
 #: ../../STX.rst:148
 msgid ""
@@ -936,25 +928,16 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:283
-#, fuzzy
-#| msgid "Choose one —"
 msgid "Choose one: —"
 msgstr "Wybierz jedno —"
 
 #: ../../STX.rst:285
-#, fuzzy
-#| msgid "Exile target creature or planeswalker."
 msgid "Target player sacrifices a creature or planeswalker."
-msgstr "Wygnaj wskazanego stwora lub wędrowca."
+msgstr "Wskazany gracz poświęca stwora lub wędrowca."
 
 #: ../../STX.rst:287 ../../STX.rst:673
-#, fuzzy
-#| msgid ""
-#| "Target player creates a 2/1 white and black Inkling creature token with "
-#| "flying."
 msgid "Create a 2/1 white and black Inkling creature token with flying."
-msgstr ""
-"Wskazany gracz tworzy żeton biało-czarnego stwora Kleks 2/1 z lataniem."
+msgstr "Stwórz żeton biało-czarnego stwora Kleks 2/1 z lataniem."
 
 #: ../../STX.rst:294
 msgid ""
@@ -2121,8 +2104,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:623
-#, fuzzy
-#| msgid "Creature Tokens you control get +1/+1."
 msgid "Creature tokens you control get +1/+1."
 msgstr "Żetony stworów pod twoim władaniem dostają +1/+1."
 
@@ -3283,13 +3264,12 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../STX.rst:993
-#, fuzzy
-#| msgid "|mana_1|\\ |mana_r|, |tap|: Target creature can't block this turn."
 msgid ""
 "|mana_3|, |tap|: Target creature with power 3 or less can't be blocked this "
 "turn."
 msgstr ""
-"|mana_1|\\ |mana_r|, |tap|: Wskazany stwór nie może blokować w tej turze."
+"|mana_3|, |tap|: Wskazany stwór o sile 3 lub mniejszej nie może być "
+"blokowany w tej turze."
 
 #: ../../STX.rst:1002
 msgid ""
