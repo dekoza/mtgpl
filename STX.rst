@@ -91,10 +91,10 @@
    Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures you control get +1/+1 until end of turn,
 
 
-:mtgtip:`Mavinda, Students' Advocate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1617317060|https://scryfall.com/card/stx/21/mavinda-students-advocate?utm_source=api>`
+:mtgtip:`Mavinda, Students' Advocate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1617374875|https://scryfall.com/card/stx/21/mavinda-students-advocate?utm_source=api>`
    Flying
 
-   {O}: You may cast target instant or sorcery card from your graveyard this turn. If that spell doesn't target a creature you control, it costs |mana_8| more to cast this way. If that spell would be put into your graveyard, exile it instead. (You still pay the spell's costs. Timing rules for the spell still apply.)
+   |mana_0|: You may cast target instant or sorcery card from your graveyard this turn. If that spell doesn't target a creature you control, it costs |mana_8| more to cast this way. If that spell would be put into your graveyard, exile it instead. Activate only once each turn. (You still pay the spell's costs. Timing rules for the spell still apply.)
 
 
 :mtgtip:`Pilgrim of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c86714f5-e909-413f-8eb6-99dbea4d1897.jpg?1617313900|https://scryfall.com/card/stx/22/pilgrim-of-the-ages?utm_source=api>`
@@ -617,16 +617,16 @@
    |mana_x|\ |mana_u|\ |mana_u|, |tap|: Exile the top X cards of your library and put a study counter on each of them. Then you may put a card you own in exile with a study counter on it into your hand.
 
 
-:mtgtip:`Mila, Crafty Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e4e0f81-f92b-4a3a-bb29-adcc3de211b4.jpg?1617317384|https://scryfall.com/card/stx/153/mila-crafty-companion-lukka-wayward-bonder?utm_source=api>`
+:mtgtip:`Mila, Crafty Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e4e0f81-f92b-4a3a-bb29-adcc3de211b4.jpg?1617363020|https://scryfall.com/card/stx/153/mila-crafty-companion-lukka-wayward-bonder?utm_source=api>`
    Whenever an opponent attacks one or more planeswalkers you control, put a loyalty counter on each planeswalker you control.
 
    Whenever a permanent you control becomes the target of a spell or ability and opponent controls, you may draw a card.
 
 
-:mtgtip:`Lukka, Wayward Bonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/e/8e4e0f81-f92b-4a3a-bb29-adcc3de211b4.jpg?1617317384|https://scryfall.com/card/stx/153/mila-crafty-companion-lukka-wayward-bonder?utm_source=api>`
+:mtgtip:`Lukka, Wayward Bonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/e/8e4e0f81-f92b-4a3a-bb29-adcc3de211b4.jpg?1617363020|https://scryfall.com/card/stx/153/mila-crafty-companion-lukka-wayward-bonder?utm_source=api>`
    +1: You may discard a card. If you do, draw a card. If a creature card was discarded this way, draw two cards instead.
 
-   −2: Return target creature card from your graveyard to the battlefield. Exile it at the beginning of your next upkeep.
+   −2: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of your next upkeep.
 
    −7: You get an emblem with "Whenever a creature enters the battlefield under your control, it deals damage equal to its power to any target."
 
@@ -663,11 +663,11 @@
    −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental Creature token.
 
 
-:mtgtip:`Selfless Glyphweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617316871|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
+:mtgtip:`Selfless Glyphweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617374891|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
    Exile Selfless Glyphweaver: Creatures you control gain indestructible until end of turn.
 
 
-:mtgtip:`Deadly Vanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617316871|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
+:mtgtip:`Deadly Vanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617374891|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
    Choose a creature or planeswalker, then destroy all other creatures and planeswalkers.
 
 
@@ -1003,7 +1003,7 @@
    |mana_2|, Return Rootha, Mercurial Artist to its owner's hand: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
 
-:mtgtip:`Shadewing Laureate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64795a8b-8cf2-436e-8f95-9e8bb40c0d7d.jpg?1617318055|https://scryfall.com/card/stx/229/shadewing-laureate?utm_source=api>`
+:mtgtip:`Shadewing Laureate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64795a8b-8cf2-436e-8f95-9e8bb40c0d7d.jpg?1617377275|https://scryfall.com/card/stx/229/shadewing-laureate?utm_source=api>`
    Flying
 
    Whenever another creature you control with flying dies, put a +1/+1 counter on target creature you control.
