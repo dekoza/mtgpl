@@ -531,7 +531,7 @@
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. That land becomes a 0/0 green and blue Fractal creature that's still a land. Put a +1/+1 counter on it for each land you had enter the battlefield under your control this turn.
 
 
-:mtgtip:`Exponential Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c129bb7-9489-44bd-a46d-c5f738bf9d25.jpg?1617316095|https://scryfall.com/card/stx/130/exponential-growth?utm_source=api>`
+:mtgtip:`Exponential Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c129bb7-9489-44bd-a46d-c5f738bf9d25.jpg?1617350021|https://scryfall.com/card/stx/130/exponential-growth?utm_source=api>`
    Until end of turn, double target creature's power X times.
 
 
