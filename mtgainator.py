@@ -377,8 +377,11 @@ def do_the_trans(data, pofile, lang="en-US"):
         for obj in progress:
             obj_id = str(obj["id"])
             po_entry = pofile.find(obj_id, by="msgctxt")
-            if po_entry and not po_entry.fuzzy:
-                text = revert_costs(po_entry.msgstr or po_entry.msgid)
+            if po_entry:
+                if po_entry.fuzzy:
+                    text = revert_costs(po_entry.msgid)
+                else:
+                    text = revert_costs(po_entry.msgstr or po_entry.msgid)
                 obj["text"] = text
 
 
