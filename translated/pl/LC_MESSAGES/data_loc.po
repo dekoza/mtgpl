@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-01 18:39+0000\n"
+"PO-Revision-Date: 2021-04-02 08:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -427,9 +427,10 @@ msgctxt "198"
 msgid "#Deprecated PromptMessage_AcceptedHand"
 msgstr ""
 
+#, fuzzy
 msgctxt "199"
 msgid "Mulligan"
-msgstr ""
+msgstr "Wymiana"
 
 msgctxt "200"
 msgid "Keep"
@@ -1527,13 +1528,15 @@ msgctxt "645"
 msgid "Jace, Cunning Castaway"
 msgstr ""
 
+#, fuzzy
 msgctxt "647"
 msgid "Forest"
-msgstr ""
+msgstr "Las"
 
+#, fuzzy
 msgctxt "648"
 msgid "Plains"
-msgstr ""
+msgstr "Równina"
 
 msgctxt "650"
 msgid ""
@@ -1543,13 +1546,15 @@ msgstr ""
 "–5: Stwórz dwa żetony będące kopią CARDNAME z wyjątkiem tego, że nie są "
 "legendarne."
 
+#, fuzzy
 msgctxt "652"
 msgid "Island"
-msgstr ""
+msgstr "Wyspa"
 
+#, fuzzy
 msgctxt "653"
 msgid "Swamp"
-msgstr ""
+msgstr "Bagno"
 
 msgctxt "655"
 msgid ""
@@ -2057,11 +2062,14 @@ msgid ""
 "themselves against towers of horn and muscle a hundred times their size."
 msgstr ""
 
+#, fuzzy
 msgctxt "914"
 msgid ""
 "When CARDNAME enters the battlefield, target Merfolk you control gains "
 "hexproof until end of turn."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +1/+1."
 
 msgctxt "919"
 msgid "Equipment"
@@ -2288,17 +2296,19 @@ msgctxt "1035"
 msgid "Drover of the Mighty"
 msgstr ""
 
+#, fuzzy
 msgctxt "1038"
 msgid "CARDNAME gets +2/+2 as long as you control a Dinosaur."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 o ile władasz artefaktem."
 
 msgctxt "1041"
 msgid "\"By accepting my smallness I am vast.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "1044"
 msgid "Whenever CARDNAME deals combat damage to a player, it explores."
-msgstr ""
+msgstr "Ilekroć CARDNAME zada graczowi obrażenia bojowe, dobierz kartę."
 
 msgctxt "1046"
 msgid "Specter"
@@ -3734,11 +3744,14 @@ msgctxt "1910"
 msgid "Hellion"
 msgstr ""
 
+#, fuzzy
 msgctxt "1911"
 msgid ""
 "Cast up to three face - up cards your opponents own from exile without "
 "paying their mana costs?"
 msgstr ""
+"–7: Możesz rzucić z wygnania co najwyżej trzy odkryte karty będące "
+"własnością przeciwników bez płacenia ich kosztów many."
 
 msgctxt "1914"
 msgid ""
@@ -3846,9 +3859,10 @@ msgctxt "1944"
 msgid "Target a noncreature artifact you control."
 msgstr ""
 
+#, fuzzy
 msgctxt "1945"
 msgid "Target a creature or planeswalker that is black or red."
-msgstr ""
+msgstr "Wskaż białego lub niebieskiego stwora lub wędrowca."
 
 msgctxt "1946"
 msgid ""
@@ -4023,9 +4037,10 @@ msgctxt "1992"
 msgid "Tap another untapped Rogue you control."
 msgstr ""
 
+#, fuzzy
 msgctxt "1993"
 msgid "Target a creature or planeswalker that is green or white."
-msgstr ""
+msgstr "Wskaż białego lub niebieskiego stwora lub wędrowca."
 
 msgctxt "1994"
 msgid "Eager Construct"
@@ -4238,9 +4253,10 @@ msgctxt "2085"
 msgid "Exile a creature or planeswalker card?"
 msgstr ""
 
+#, fuzzy
 msgctxt "2086"
 msgid "Sacrifice another Serpent."
-msgstr ""
+msgstr "Poświęcić inny permanent?"
 
 msgctxt "2088"
 msgid ""
@@ -4416,9 +4432,10 @@ msgctxt "2267"
 msgid "In dark times, Truth bears a blade."
 msgstr ""
 
+#, fuzzy
 msgctxt "2278"
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 msgctxt "2300"
 msgid "Divination"
@@ -4550,9 +4567,10 @@ msgid ""
 "—Norin the Wary"
 msgstr ""
 
+#, fuzzy
 msgctxt "2378"
 msgid "Serpent"
-msgstr ""
+msgstr "wężownik"
 
 msgctxt "2384"
 msgid "Counter target spell unless its controller pays |mana_3|."
@@ -5965,9 +5983,10 @@ msgctxt "5771"
 msgid "Draw two cards?"
 msgstr "Dobrać dwie karty?"
 
+#, fuzzy
 msgctxt "5772"
 msgid "Pay 2 life?"
-msgstr ""
+msgstr "Zapłać 1 życie."
 
 msgctxt "5773"
 msgid "Return target artifact card from your graveyard to the battlefield?"
@@ -6968,9 +6987,10 @@ msgid ""
 "sinister new power."
 msgstr ""
 
+#, fuzzy
 msgctxt "11605"
 msgid "Snow-Covered Island"
-msgstr ""
+msgstr "Snow-Covered Island"
 
 msgctxt "11612"
 msgid "Gristle Grinner"
@@ -6991,9 +7011,10 @@ msgctxt "11718"
 msgid "Wolverine"
 msgstr ""
 
+#, fuzzy
 msgctxt "11744"
 msgid "Snow-Covered Forest"
-msgstr ""
+msgstr "Zaśnieżony Las"
 
 msgctxt "11780"
 msgid "|mana_r|: This creature gets +1/+0 until end of turn."
@@ -7020,9 +7041,10 @@ msgid ""
 "snow's edge had reached their infested city-tomb."
 msgstr ""
 
+#, fuzzy
 msgctxt "11836"
 msgid "Snow-Covered Mountain"
-msgstr ""
+msgstr "Zaśnieżona Góra"
 
 msgctxt "11841"
 msgid "Ronom Unicorn"
@@ -7038,13 +7060,15 @@ msgid ""
 "wastes to do battle once again."
 msgstr ""
 
+#, fuzzy
 msgctxt "11880"
 msgid "Snow-Covered Swamp"
-msgstr ""
+msgstr "Zaśnieżone Bagno"
 
+#, fuzzy
 msgctxt "11908"
 msgid "Snow-Covered Plains"
-msgstr ""
+msgstr "Zaśnieżona Równina"
 
 msgctxt "11935"
 msgid "Destroy target creature with power 2 or less."
@@ -8506,9 +8530,10 @@ msgctxt "24772"
 msgid "Exile target card from a graveyard?"
 msgstr "Wygnać wskazaną kartę z cmentarza?"
 
+#, fuzzy
 msgctxt "24775"
 msgid "Distribute counters among one, two, or three target creatures."
-msgstr ""
+msgstr "Rozmieść znaczniki pomiędzy jednym lub dwoma wskazanymi stworami."
 
 msgctxt "24801"
 msgid "Zendikar"
@@ -8869,9 +8894,10 @@ msgctxt "28000"
 msgid "Iquatana"
 msgstr ""
 
+#, fuzzy
 msgctxt "28010"
 msgid "Kaldheim"
-msgstr ""
+msgstr "Kaldheim"
 
 msgctxt "28014"
 msgid "Phyrexia"
@@ -8959,9 +8985,10 @@ msgctxt "28217"
 msgid "Mongseng"
 msgstr ""
 
+#, fuzzy
 msgctxt "28221"
 msgid "New"
-msgstr ""
+msgstr "Nowa"
 
 msgctxt "28225"
 msgid "Innistrad"
@@ -10219,9 +10246,10 @@ msgctxt "40041"
 msgid "Whenever another nontoken creature dies, you may draw a card."
 msgstr "Ilekroć umrze inny nieżetonowy stwór, możesz dobrać kartę."
 
+#, fuzzy
 msgctxt "40049"
 msgid "Ghostform"
-msgstr ""
+msgstr "zjawa"
 
 msgctxt "40067"
 msgid ""
@@ -12123,9 +12151,10 @@ msgctxt "46835"
 msgid "Destroy target artifact, enchantment, or creature with flying."
 msgstr "Zniszcz wskazany artefakt, urok lub stwora z lataniem."
 
+#, fuzzy
 msgctxt "46929"
 msgid "Exile target creature card from a graveyard?"
-msgstr ""
+msgstr "|tap|: Wygnaj wskazaną kartę stwora z cmentarza."
 
 msgctxt "46976"
 msgid "Glaring Aegis"
@@ -15586,9 +15615,10 @@ msgid ""
 "Whenever CARDNAME attacks, exile the top card of your library face down."
 msgstr ""
 
+#, fuzzy
 msgctxt "56022"
 msgid "When CARDNAME enters the battlefield, each player may scry 1."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole bitwy, każdy gracz odrzuca kartę."
 
 msgctxt "56024"
 msgid ""
@@ -15750,11 +15780,14 @@ msgctxt "57189"
 msgid "When CARDNAME enters the battlefield, you gain 7 life."
 msgstr "Kiedy CARDNAME wejdzie na pole bitwy, zyskaj 7 żyć."
 
+#, fuzzy
 msgctxt "57236"
 msgid ""
 "When CARDNAME enters the battlefield, create three 1/1 red Goblin creature "
 "tokens."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
+"Zombi 2/2."
 
 msgctxt "57339"
 msgid ""
@@ -15900,9 +15933,10 @@ msgctxt "58106"
 msgid "Charge"
 msgstr ""
 
+#, fuzzy
 msgctxt "58107"
 msgid "Control"
-msgstr ""
+msgstr "władanie"
 
 msgctxt "58108"
 msgid "Corpse"
@@ -16164,9 +16198,10 @@ msgctxt "58172"
 msgid "Strife"
 msgstr ""
 
+#, fuzzy
 msgctxt "58173"
 msgid "Study"
-msgstr ""
+msgstr "nauka"
 
 msgctxt "58174"
 msgid "Theft"
@@ -16272,9 +16307,10 @@ msgctxt "58199"
 msgid "Velocity"
 msgstr ""
 
+#, fuzzy
 msgctxt "58230"
 msgid "Search for a creature card."
-msgstr ""
+msgstr "Wyszukaj kartę Runy."
 
 msgctxt "58276"
 msgid ""
@@ -17314,9 +17350,10 @@ msgctxt "76445"
 msgid "Labyrinth Guardian"
 msgstr ""
 
+#, fuzzy
 msgctxt "76446"
 msgid "When CARDNAME becomes the target of a spell, sacrifice it."
-msgstr ""
+msgstr "Kiedy CARDNAME zostanie wskazany przez czar lub zdolności, poświęć go."
 
 msgctxt "76447"
 msgid "Embalm |mana_3|\\ |mana_u|"
@@ -17657,11 +17694,14 @@ msgctxt "76540"
 msgid "It feeds on dry bones in the sand and desperate pleas in the wind."
 msgstr ""
 
+#, fuzzy
 msgctxt "76541"
 msgid ""
 "Whenever you cycle or discard another card, CARDNAME gets +2/+1 until end of "
 "turn."
 msgstr ""
+"Ilekroć zrecyklujesz lub odrzucisz kartę, CARDNAME dostaje do końca tury +1/"
+"+1."
 
 msgctxt "76545"
 msgid "Liliana, Death's Majesty"
@@ -17748,11 +17788,14 @@ msgctxt "76564"
 msgid "Pitiless Vizier"
 msgstr ""
 
+#, fuzzy
 msgctxt "76565"
 msgid ""
 "Whenever you cycle or discard a card, CARDNAME gains indestructible until "
 "end of turn."
 msgstr ""
+"Ilekroć zrecyklujesz lub odrzucisz kartę, CARDNAME dostaje do końca tury +1/"
+"+1."
 
 msgctxt "76567"
 msgid ""
@@ -18118,10 +18161,13 @@ msgctxt "76650"
 msgid "Hazoret the Fervent"
 msgstr ""
 
+#, fuzzy
 msgctxt "76651"
 msgid ""
 "CARDNAME can't attack or block unless you have one or fewer cards in hand."
 msgstr ""
+"CARDNAME nie może atakować ani blokować, chyba że masz co najmniej siedem "
+"kart w ręce."
 
 msgctxt "76652"
 msgid ""
@@ -18220,9 +18266,10 @@ msgid ""
 "the suns."
 msgstr ""
 
+#, fuzzy
 msgctxt "76683"
 msgid "CARDNAME deals 3 damage to each creature."
-msgstr ""
+msgstr "–3: CARDNAME zadaje wskazanemu stworowi 4 obrażenia."
 
 msgctxt "76684"
 msgid "Thresher Lizard"
@@ -18928,9 +18975,10 @@ msgctxt "76853"
 msgid "Never"
 msgstr ""
 
+#, fuzzy
 msgctxt "76854"
 msgid "Return"
-msgstr ""
+msgstr "przywróć"
 
 msgctxt "76855"
 msgid "Insult /// Injury"
@@ -19063,9 +19111,10 @@ msgctxt "76885"
 msgid "Prepare"
 msgstr ""
 
+#, fuzzy
 msgctxt "76886"
 msgid "Fight"
-msgstr ""
+msgstr "Walka"
 
 msgctxt "76887"
 msgid "Failure /// Comply"
@@ -19565,12 +19614,16 @@ msgctxt "79217"
 msgid "CARDNAME deals 3 damage to target creature."
 msgstr "CARDNAME zadaje wskazanemu stworowi 3 obrażenia."
 
+#, fuzzy
 msgctxt "79267"
 msgid ""
 "When CARDNAME enters the battlefield, you may search your library for up to "
 "two creature cards with converted mana cost 1 or less, reveal them, and put "
 "them into your hand. If you do, shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je "
+"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
 
 msgctxt "79292"
 msgid ""
@@ -19638,11 +19691,14 @@ msgctxt "80383"
 msgid "Exile CARDNAME."
 msgstr "Wygnaj CARDNAME."
 
+#, fuzzy
 msgctxt "80410"
 msgid ""
 "CARDNAME's power and toughness are each equal to the number of cards in all "
 "graveyards."
 msgstr ""
+"Siła i wytrzymałość CARDNAME są obie równe liczbie kart lądów we wszystkich "
+"cmentarzach."
 
 msgctxt "80455"
 msgid "|mana_1|, Sacrifice CARDNAME: Destroy target artifact or enchantment."
@@ -19830,9 +19886,10 @@ msgctxt "83171"
 msgid "When CARDNAME dies, create a 1/1 green Saproling creature token."
 msgstr ""
 
+#, fuzzy
 msgctxt "83221"
 msgid "CARDNAME gets +1/+1 for each land card in your graveyard."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 msgctxt "83360"
 msgid "Whenever a creature dies, CARDNAME gets +2/+2 until end of turn."
@@ -19917,11 +19974,14 @@ msgctxt "84713"
 msgid "Whenever you cast a spell, return target permanent to its owner's hand."
 msgstr ""
 
+#, fuzzy
 msgctxt "85138"
 msgid ""
 "When CARDNAME enters the battlefield, if you cast it from your hand, exile "
 "all artifacts."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole bitwy, jeśli rzuciłeś go z twojej ręki, "
+"wygnaj wszystkie atakujące stwory."
 
 msgctxt "85265"
 msgid ""
@@ -19938,10 +19998,12 @@ msgstr ""
 "|mana_1|: CARDNAME do końca tury staje się artefaktowym stworem Świetlik 1/1 "
 "z lataniem. Nadal jest lądem."
 
+#, fuzzy
 msgctxt "85354"
 msgid ""
 "At the beginning of your upkeep, you may put a charge counter on CARDNAME."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik czasu na CARDNAME."
 
 msgctxt "85355"
 msgid ""
@@ -19998,9 +20060,10 @@ msgstr ""
 "Kiedy CARDNAME zostanie umieszczona w twoim cmentarzu z twojej biblioteki, "
 "możesz umieścić ją na polu bitwy."
 
+#, fuzzy
 msgctxt "86760"
 msgid "When CARDNAME enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "86779"
 msgid ""
@@ -20134,9 +20197,10 @@ msgctxt "89146"
 msgid "|mana_1|\\ |mana_b|: CARDNAME gets +1/+1 until end of turn."
 msgstr "|mana_1|\\ |mana_b|: CARDNAME dostaje do końca tury +1/+1."
 
+#, fuzzy
 msgctxt "89304"
 msgid "CARDNAME can't be blocked by creatures with power 4 or greater."
-msgstr ""
+msgstr "CARDNAME nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 msgctxt "89491"
 msgid ""
@@ -20146,9 +20210,10 @@ msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy, możesz umieścić X znaczników +1/+1 "
 "na CARDNAME, gdzie X jest siłą owego stwora."
 
+#, fuzzy
 msgctxt "89632"
 msgid "As CARDNAME enters the battlefield, choose odd or even."
-msgstr ""
+msgstr "Umieszczając CARDNAME na polu walki wybierz przeciwnika."
 
 msgctxt "89711"
 msgid "Search for a Merfolk card."
@@ -20348,9 +20413,10 @@ msgid ""
 "equal to the number of Mountains you control."
 msgstr ""
 
+#, fuzzy
 msgctxt "92277"
 msgid "CARDNAME can't be blocked by creatures with power 3 or greater."
-msgstr ""
+msgstr "CARDNAME nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 msgctxt "92656"
 msgid ""
@@ -20371,9 +20437,10 @@ msgctxt "93228"
 msgid "Whenever CARDNAME attacks, sacrifice it unless you sacrifice an Island."
 msgstr ""
 
+#, fuzzy
 msgctxt "93781"
 msgid "CARDNAME has first strike as long as it's attacking."
-msgstr ""
+msgstr "CARDNAME ma latanie o ile atakuje."
 
 msgctxt "93890"
 msgid ""
@@ -20586,10 +20653,13 @@ msgstr ""
 "Kiedy CARDNAME wejdzie na pole bitwy, przywróć wskazanego stwora pod "
 "władaniem przeciwnika do ręki właściciela."
 
+#, fuzzy
 msgctxt "99685"
 msgid ""
 "When CARDNAME enters the battlefield, exile target card from a graveyard."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, wygnaj wszystkie karty ze wszystkich "
+"cmentarzy."
 
 msgctxt "100307"
 msgid ""
@@ -20695,13 +20765,15 @@ msgstr ""
 "Na początku twojego kroku utrzymania, poświęć CARDNAME, chyba że zapłacisz |"
 "mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|."
 
+#, fuzzy
 msgctxt "101975"
 msgid "CARDNAME can't be blocked by white creatures."
-msgstr ""
+msgstr "CARDNAME nie może być blokowany przez czarne stwory."
 
+#, fuzzy
 msgctxt "102015"
 msgid "CARDNAME can't be blocked by red creatures."
-msgstr ""
+msgstr "CARDNAME nie może być blokowany przez zielone stwory."
 
 msgctxt "102031"
 msgid "CARDNAME can't be blocked by green creatures."
@@ -21338,9 +21410,10 @@ msgid ""
 msgstr ""
 "Dopóki twój kult białego jest mniejszy niż pięć, ta karta nie jest stworem."
 
+#, fuzzy
 msgctxt "113242"
 msgid "When CARDNAME enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "113280"
 msgid ""
@@ -21478,9 +21551,10 @@ msgctxt "115141"
 msgid "Pay 2 life: CARDNAME gains flying until end of turn."
 msgstr "Zapłać 2 życia: CARDNAME zyskuje do końca tury latanie."
 
+#, fuzzy
 msgctxt "115152"
 msgid "Whenever you gain life, put a +1/+1 counter on CARDNAME."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na CARDNAME."
 
 msgctxt "115227"
 msgid ""
@@ -22114,9 +22188,10 @@ msgid ""
 "end of turn."
 msgstr ""
 
+#, fuzzy
 msgctxt "120647"
 msgid "CARDNAME has menace as long as you control an artifact."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 o ile władasz artefaktem."
 
 msgctxt "120650"
 msgid "CARDNAME deals 3 damage to target creature and you gain 3 life."
@@ -22131,9 +22206,10 @@ msgstr ""
 "cmentarza do twojej ręki. • Przywróć wskazaną kartę stwora z twojego "
 "cmentarza do twojej ręki."
 
+#, fuzzy
 msgctxt "120656"
 msgid "CARDNAME gets +1/+0 as long as you control an artifact."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 o ile władasz artefaktem."
 
 msgctxt "120659"
 msgid ""
@@ -22474,9 +22550,10 @@ msgstr ""
 "O ile zauroczony permanent jest Pojazdem, jest dodatkowo stworem oprócz "
 "swoich innych typów."
 
+#, fuzzy
 msgctxt "121187"
 msgid "CARDNAME can't block artifact creatures."
-msgstr ""
+msgstr "CARDNAME nie może być blokowany przez artefaktowe stwory."
 
 msgctxt "121222"
 msgid ""
@@ -22924,11 +23001,12 @@ msgid ""
 "you do, it gets +2/+2 until end of turn.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "125007"
 msgid ""
 "Draw a card. (You may exert CARDNAME as it attacks. When you do, draw a "
 "card.)"
-msgstr ""
+msgstr "Atakując CARDNAME możesz go wytężyć. Kiedy to zrobisz, dobierz kartę."
 
 msgctxt "125008"
 msgid "Choose for {1, Enum:CounterType} counter."
@@ -23275,6 +23353,7 @@ msgctxt "125147"
 msgid "Sphinx spells you cast cost |mana_2| less to cast."
 msgstr "Rzucanie czarów Sfinksów kosztuje cię o |mana_2| mniej."
 
+#, fuzzy
 msgctxt "125148"
 msgid ""
 "Whenever CARDNAME or another Sphinx enters the battlefield under your "
@@ -23282,6 +23361,10 @@ msgid ""
 "those cards into two piles. Put one pile into your hand and the other into "
 "your graveyard."
 msgstr ""
+"Ilekroć ten stwór lub inny Sfinks wejdzie na pole bitwy pod twoim władaniem, "
+"ujawnij cztery wierzchnie karty twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden z nich w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 msgctxt "125149"
 msgid "Unquenchable Thirst"
@@ -23667,11 +23750,14 @@ msgctxt "125277"
 msgid "\"There is no tomorrow, so hold nothing back.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "125278"
 msgid ""
 "You may exert CARDNAME as it attacks. When you do, it gets +2/+0 until end "
 "of turn."
 msgstr ""
+"Atakując CARDNAME możesz go wytężyć. Kiedy to zrobisz, dostaje do końca tury "
+"+2/+2."
 
 msgctxt "125280"
 msgid "Magmaroth"
@@ -23872,9 +23958,10 @@ msgctxt "125348"
 msgid "Pride Sovereign"
 msgstr ""
 
+#, fuzzy
 msgctxt "125349"
 msgid "CARDNAME gets +1/+1 for each other Cat you control."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+0 za każdego innego Szczura pod twoim władaniem."
 
 msgctxt "125350"
 msgid ""
@@ -24454,11 +24541,13 @@ msgid ""
 "or less this turn.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "125535"
 msgid ""
 "Put target instant or sorcery card from your graveyard on top of your "
 "library?"
 msgstr ""
+"Umieścić wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki?"
 
 msgctxt "125539"
 msgid "Search for up to two creature and/or planeswalker cards."
@@ -24550,21 +24639,24 @@ msgctxt "128890"
 msgid "Choose action."
 msgstr ""
 
+#, fuzzy
 msgctxt "128891"
 msgid "Sacrifice a nonland permanent"
-msgstr ""
+msgstr "Poświęć nielądowy permanent."
 
+#, fuzzy
 msgctxt "128892"
 msgid "Discard a card"
-msgstr ""
+msgstr "Odrzuć kartę."
 
 msgctxt "128893"
 msgid "Lose 3 life"
 msgstr ""
 
+#, fuzzy
 msgctxt "128898"
 msgid "Sacrifice a creature"
-msgstr ""
+msgstr "Poświęć stwora."
 
 msgctxt "128915"
 msgid "–3: Destroy target creature. Draw a card."
@@ -24603,9 +24695,10 @@ msgid ""
 "—Nicol Bolas"
 msgstr ""
 
+#, fuzzy
 msgctxt "128930"
 msgid "First Strike Damage"
-msgstr ""
+msgstr "Obrażenia pierwszego ciosu"
 
 msgctxt "128934"
 msgid "Search your library for a basic land card?"
@@ -26221,9 +26314,10 @@ msgid ""
 "—Captain Brandis Thorn"
 msgstr ""
 
+#, fuzzy
 msgctxt "173823"
 msgid "CARDNAME has menace as long as you control another Pirate."
-msgstr ""
+msgstr "CARDNAME ma czujność o ile władasz innym Dinozaurem."
 
 msgctxt "173824"
 msgid ""
@@ -26598,11 +26692,14 @@ msgid ""
 "meal."
 msgstr ""
 
+#, fuzzy
 msgctxt "173903"
 msgid ""
 "At the beginning of your end step, if you control four or more creatures, "
 "transform CARDNAME."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz co najmniej pięcioma "
+"artefaktami, transformuj CARDNAME."
 
 msgctxt "173904"
 msgid "Itlimoc, Cradle of the Sun"
@@ -26935,6 +27032,7 @@ msgctxt "173967"
 msgid "Gishath, Sun's Avatar"
 msgstr ""
 
+#, fuzzy
 msgctxt "173968"
 msgid ""
 "Whenever CARDNAME deals combat damage to a player, reveal that many cards "
@@ -26942,6 +27040,9 @@ msgid ""
 "among them onto the battlefield and the rest on the bottom of your library "
 "in a random order."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ujawnij tyle samo kart z "
+"wierzchu twojej biblioteki. Umieść dowolną liczbę kart Dinozaurów spośród "
+"nich na polu bitwy, a pozostałe losowo na spodzie twojej biblioteki."
 
 msgctxt "173969"
 msgid "Hostage Taker"
@@ -27770,9 +27871,10 @@ msgid ""
 "territorial."
 msgstr ""
 
+#, fuzzy
 msgctxt "181611"
 msgid "CARDNAME gets +3/+0 as long as you have the city's blessing."
-msgstr ""
+msgstr "CARDNAME dostaje +2/+2 o ile masz błogosławieństwo miasta."
 
 msgctxt "181612"
 msgid "Sphinx's Decree"
@@ -27868,11 +27970,14 @@ msgctxt "181631"
 msgid "Aquatic Incursion"
 msgstr ""
 
+#, fuzzy
 msgctxt "181632"
 msgid ""
 "When CARDNAME enters the battlefield, create two 1/1 blue Merfolk creature "
 "tokens with hexproof."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Piechur 1/1 z więzią życia."
 
 msgctxt "181633"
 msgid "|mana_3|\\ |mana_u|: Target Merfolk can't be blocked this turn."
@@ -28871,9 +28976,10 @@ msgid ""
 "new visitors."
 msgstr ""
 
+#, fuzzy
 msgctxt "181840"
 msgid "CARDNAME has haste as long as you control another Dinosaur."
-msgstr ""
+msgstr "CARDNAME ma czujność o ile władasz innym Dinozaurem."
 
 msgctxt "181841"
 msgid "Storm Fleet Swashbuckler"
@@ -28884,9 +28990,10 @@ msgid ""
 "\"A bolt to the eye, a blade to the neck. That's the way to clear the deck!\""
 msgstr ""
 
+#, fuzzy
 msgctxt "181843"
 msgid "CARDNAME has double strike as long as you have the city's blessing."
-msgstr ""
+msgstr "CARDNAME ma latanie o ile masz błogosławieństwo miasta."
 
 msgctxt "181844"
 msgid "Sun-Collared Raptor"
@@ -29124,11 +29231,14 @@ msgid ""
 "\""
 msgstr ""
 
+#, fuzzy
 msgctxt "181890"
 msgid ""
 "When CARDNAME enters the battlefield, create a 1/1 blue Merfolk creature "
 "token with hexproof."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole bitwy, stwórz żeton białego stwora Wojownik 1/"
+"1 z czujnością."
 
 msgctxt "181891"
 msgid "Knight of the Stampede"
@@ -29626,11 +29736,14 @@ msgctxt "181988"
 msgid "To a siegehorn, there is no such thing as a dead end."
 msgstr ""
 
+#, fuzzy
 msgctxt "181989"
 msgid ""
 "<i>Enrage</i> — Whenever CARDNAME is dealt damage, put two +1/+1 counters on "
 "it."
 msgstr ""
+"<i>Rozjuszenie</i> — Ilekroć CARDNAME otrzyma obrażenia, umieść na nim "
+"znacznik +1/+1."
 
 msgctxt "181990"
 msgid "Storm Fleet Sprinter"
@@ -29709,12 +29822,16 @@ msgctxt "182005"
 msgid "Azor's Gateway"
 msgstr ""
 
+#, fuzzy
 msgctxt "182006"
 msgid ""
 "|mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards "
 "with five or more different converted mana costs are exiled with CARDNAME, "
 "you gain 5 life, untap CARDNAME, and transform it."
 msgstr ""
+"|mana_1|, |tap|: Dobierz kartę, następnie wygnaj kartę z twojej ręki. Jeśli "
+"karty o co najmniej pięciu różnych skrótach many zostały wygnane przez ten "
+"artefakt, zyskaj 5 żyć, odkręć ten artefakt i transformuj go."
 
 msgctxt "182007"
 msgid "Sanctum of the Sun"
@@ -29947,9 +30064,10 @@ msgid ""
 "entire race has been declared anathema."
 msgstr ""
 
+#, fuzzy
 msgctxt "182051"
 msgid "CARDNAME gets +2/+0 as long as you control an Angrath planeswalker."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 o ile władasz wędrowcem o typie Ajani."
 
 msgctxt "182052"
 msgid "Swab Goblin"
@@ -29971,9 +30089,10 @@ msgid ""
 "—Angrath"
 msgstr ""
 
+#, fuzzy
 msgctxt "182061"
 msgid "Search for a Vampire card."
-msgstr ""
+msgstr "Wyszukaj kartę Bramy."
 
 msgctxt "182062"
 msgid "Search your library for a Vampire card?"
@@ -30214,9 +30333,10 @@ msgid ""
 "another target creature.\")"
 msgstr ""
 
+#, fuzzy
 msgctxt "224492"
 msgid "end of turn"
-msgstr ""
+msgstr "Koniec tury"
 
 msgctxt "224677"
 msgid ""
@@ -31077,12 +31197,16 @@ msgctxt "227133"
 msgid "Sentinel of the Pearl Trident"
 msgstr ""
 
+#, fuzzy
 msgctxt "227134"
 msgid ""
 "When CARDNAME enters the battlefield, you may exile target historic "
 "permanent you control. If you do, return that card to the battlefield under "
 "its owner's control at the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany historyczny "
+"permanent pod twoim władaniem. Jeśli tak zrobisz, przywróć ową kartę na pole "
+"bitwy pod władaniem jej właściciela na początku najbliższego kroku końcowego."
 
 msgctxt "227135"
 msgid "Slinn Voda, the Rising Deep"
@@ -31114,9 +31238,10 @@ msgid ""
 "oldest tribe of djinn and the most respected by storm and sea."
 msgstr ""
 
+#, fuzzy
 msgctxt "227140"
 msgid "CARDNAME gets +1/+0 for each basic Island you control."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+0 za każdego innego Szczura pod twoim władaniem."
 
 msgctxt "227141"
 msgid "Tetsuko Umezawa, Fugitive"
@@ -31506,11 +31631,14 @@ msgctxt "227214"
 msgid "Kazarov, Sengir Pureblood"
 msgstr ""
 
+#, fuzzy
 msgctxt "227215"
 msgid ""
 "Whenever a creature an opponent controls is dealt damage, put a +1/+1 "
 "counter on CARDNAME."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika, umieść znacznik +1/+1 na "
+"CARDNAME."
 
 msgctxt "227216"
 msgid "|mana_3|\\ |mana_r|: Kazarov deals 2 damage to target creature."
@@ -31902,9 +32030,10 @@ msgctxt "227289"
 msgid "The First Eruption"
 msgstr ""
 
+#, fuzzy
 msgctxt "227290"
 msgid "I — CARDNAME deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "CARDNAME zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 msgctxt "227291"
 msgid "II — Add |mana_r|\\ |mana_r|."
@@ -32778,11 +32907,14 @@ msgctxt "227454"
 msgid "A living remnant of the Ice Age."
 msgstr ""
 
+#, fuzzy
 msgctxt "227455"
 msgid ""
 "When CARDNAME enters the battlefield, if it was kicked, it fights another "
 "target creature."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, jeśli został podbity, przekręć co "
+"najwyżej dwa wskazane stwory."
 
 msgctxt "227456"
 msgid ""
@@ -33816,9 +33948,10 @@ msgid ""
 "those tokens at the beginning of the next end step.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "227669"
 msgid "Search for two basic land cards."
-msgstr ""
+msgstr "Wyszukaj kartę bazowego lądu."
 
 msgctxt "227671"
 msgid ""
@@ -33914,9 +34047,10 @@ msgctxt "228837"
 msgid "Pay |mana_x|\\ |mana_r|?"
 msgstr ""
 
+#, fuzzy
 msgctxt "229148"
 msgid "Pay |mana_x|?"
-msgstr ""
+msgstr "Zapłać |mana_5|."
 
 msgctxt "229286"
 msgid "Pay |mana_x|\\ |mana_w|\\ |mana_u|\\ |mana_u|?"
@@ -35949,12 +36083,16 @@ msgctxt "229741"
 msgid "Nicol Bolas, the Ravager"
 msgstr ""
 
+#, fuzzy
 msgctxt "229742"
 msgid ""
 "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Exile CARDNAME, then return him "
 "to the battlefield transformed under his owner's control. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten permanent i przywróć "
+"go transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj jako "
+"obrzęd."
 
 msgctxt "229743"
 msgid "Nicol Bolas, the Arisen"
@@ -36051,6 +36189,7 @@ msgctxt "229760"
 msgid "Vaevictis Asmadi, the Dire"
 msgstr ""
 
+#, fuzzy
 msgctxt "229761"
 msgid ""
 "Whenever CARDNAME attacks, for each player, choose target permanent that "
@@ -36058,6 +36197,11 @@ msgid ""
 "sacrificed a permanent this way reveals the top card of their library, then "
 "puts it onto the battlefield if it's a permanent card."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, u każdego z graczy wskaż permanent pod "
+"władaniem danego gracza. Owi gracze poświęcają owe permanenty. Każdy gracz, "
+"który poświęcił permanent w ten sposób, ujawnia wierzchnią kartę swojej "
+"biblioteki, następnie umieszcza ją na polu bitwy jeśli jest to karta "
+"permanentu."
 
 msgctxt "229762"
 msgid "Amulet of Safekeeping"
@@ -36583,9 +36727,10 @@ msgid ""
 "may pay |mana_2|\\ |mana_r|. When you do, it deals 3 damage to any target.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "229859"
 msgid "Search for land cards."
-msgstr ""
+msgstr "Wyszukaj kartę lądu."
 
 msgctxt "229861"
 msgid ""
@@ -41239,9 +41384,10 @@ msgstr ""
 "artefakcie. Następnie jeśli ma on cztery lub więcej znaczników ładunku, "
 "możesz usunąć owe znaczniki i transformować go."
 
+#, fuzzy
 msgctxt "238595"
 msgid "When Sentinel Totem enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole walki, wróż 1."
 
 msgctxt "238597"
 msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
@@ -42210,6 +42356,7 @@ msgid ""
 "Angrath's Ambusher gets +2/+0 as long as you control an Angrath planeswalker."
 msgstr "Ten stwór dostaje +2/+0 o ile władasz wędrowcem o typie Angarth."
 
+#, fuzzy
 msgctxt "239243"
 msgid ""
 "Destroy target creature. CARDNAME deals 3 damage to target player or "
@@ -42217,6 +42364,10 @@ msgid ""
 "Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you "
 "search your library this way, shuffle it."
 msgstr ""
+"Zniszcz wskazanego stwora. Ten czar zadaje wskazanemu graczowi lub "
+"wędrowcowi 3 obrażenia. Możesz wyszukać w twojej bibliotece i/lub cmentarzu "
+"kartę o nazwie Angarth, Minotaur Pirate, ujawnij ją i umieść w twojej ręce. "
+"Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
 msgctxt "239244"
 msgid ""
@@ -46440,9 +46591,12 @@ msgctxt "272562"
 msgid "Target a Human you control."
 msgstr "Wskaż Człowieka pod twoim władaniem."
 
+#, fuzzy
 msgctxt "272570"
 msgid "When CARDNAME enters the battlefield, it deals 3 damage to each player."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, zadaje każdemu innemu stworowi po 3 "
+"obrażenia."
 
 msgctxt "272575"
 msgid ""
@@ -46651,10 +46805,13 @@ msgctxt "272612"
 msgid "Light of the Legion"
 msgstr ""
 
+#, fuzzy
 msgctxt "272613"
 msgid ""
 "When CARDNAME dies, put a +1/+1 counter on each white creature you control."
 msgstr ""
+"Kiedy CARDNAME umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 msgctxt "272614"
 msgid ""
@@ -46843,9 +47000,10 @@ msgctxt "272648"
 msgid "Dimir Informant"
 msgstr ""
 
+#, fuzzy
 msgctxt "272649"
 msgid "When CARDNAME enters the battlefield, surveil 2."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "272650"
 msgid "When Dimir Informant enters the battlefield, surveil 2."
@@ -47028,9 +47186,10 @@ msgctxt "272689"
 msgid "Thoughtbound Phantasm"
 msgstr ""
 
+#, fuzzy
 msgctxt "272690"
 msgid "Whenever you surveil, put a +1/+1 counter on CARDNAME."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na CARDNAME."
 
 msgctxt "272691"
 msgid "Whenever you surveil, put a +1/+1 counter on Thoughtbound Phantasm."
@@ -47096,9 +47255,10 @@ msgctxt "272702"
 msgid "Skeleton Wall"
 msgstr ""
 
+#, fuzzy
 msgctxt "272703"
 msgid "When CARDNAME enters the battlefield, surveil 1."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "272704"
 msgid "When Barrier of Bones enters the battlefield, surveil 1."
@@ -48418,9 +48578,10 @@ msgctxt "272928"
 msgid "Centaur Cleric"
 msgstr ""
 
+#, fuzzy
 msgctxt "272929"
 msgid "When CARDNAME enters the battlefield, each player gains 4 life."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, każdy gracz odrzuca kartę."
 
 msgctxt "272930"
 msgid ""
@@ -49846,10 +50007,11 @@ msgctxt "273185"
 msgid "Rampaging Monument"
 msgstr ""
 
+#, fuzzy
 msgctxt "273186"
 msgid ""
 "Whenever you cast a multicolored spell, put a +1/+1 counter on CARDNAME."
-msgstr ""
+msgstr "Ilekroć rzucisz nie-stworowy czar, umieść znacznik +1/+1 na CARDNAME."
 
 msgctxt "273187"
 msgid ""
@@ -51363,9 +51525,10 @@ msgctxt "274593"
 msgid "Additional effect when spent on: A Multicolored Creature Spell"
 msgstr ""
 
+#, fuzzy
 msgctxt "274631"
 msgid "Pay 3 life?"
-msgstr ""
+msgstr "Zapłać 1 życie."
 
 msgctxt "274691"
 msgid "Shorecomber Crab"
@@ -51517,9 +51680,10 @@ msgctxt "275169"
 msgid "Black"
 msgstr "Czarny"
 
+#, fuzzy
 msgctxt "275170"
 msgid "Red"
-msgstr ""
+msgstr "Czerwony"
 
 msgctxt "275171"
 msgid "Green"
@@ -52083,9 +52247,11 @@ msgid ""
 "this city. If we don't save it, no one will.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "279525"
 msgid "Whenever CARDNAME attacks, untap another target creature you control."
 msgstr ""
+"Ilekroć CARDNAME zaatakuje, odkręć wskazanego stwora pod twoim władaniem."
 
 msgctxt "279526"
 msgid ""
@@ -53296,9 +53462,10 @@ msgid ""
 "The ostentatious splendor of the Orzhov church was just asking to be smashed."
 msgstr ""
 
+#, fuzzy
 msgctxt "279746"
 msgid "Riot"
-msgstr ""
+msgstr "Zamieszki"
 
 msgctxt "279747"
 msgid ""
@@ -53952,9 +54119,10 @@ msgctxt "279860"
 msgid "So-called \"battering rams\" pale in comparison to the real thing."
 msgstr ""
 
+#, fuzzy
 msgctxt "279861"
 msgid "CARDNAME gets +1/+1 for each Gate you control."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 za każdy artefakt pod twoim władaniem."
 
 msgctxt "279862"
 msgid "Gatebreaker Ram gets +1/+1 for each Gate you control."
@@ -55458,9 +55626,10 @@ msgid ""
 "cowards, but only from a safe distance."
 msgstr ""
 
+#, fuzzy
 msgctxt "280125"
 msgid "CARDNAME can't be blocked by creature tokens."
-msgstr ""
+msgstr "CARDNAME nie może być blokowany przez zielone stwory."
 
 msgctxt "280126"
 msgid "Rubblebelt Runner can't be blocked by creature tokens."
@@ -57080,9 +57249,11 @@ msgid ""
 "you control."
 msgstr ""
 
+#, fuzzy
 msgctxt "288186"
 msgid "At the beginning of each upkeep, CARDNAME deals 3 damage to any target."
 msgstr ""
+"Na początku twojego kroku utrzymania, CARDNAME zadaje tobie 1 obrażenie."
 
 msgctxt "288187"
 msgid ""
@@ -58208,9 +58379,10 @@ msgctxt "315768"
 msgid "Nightmare Beast"
 msgstr ""
 
+#, fuzzy
 msgctxt "315903"
 msgid "Target a spell with converted mana cost 3 or less."
-msgstr ""
+msgstr "Skontruj wskazany czar o skrócie many 3 lub mniejszym."
 
 msgctxt "316226"
 msgid ""
@@ -58351,25 +58523,30 @@ msgstr ""
 "Jeśli rzucasz ten czar w twojej fazie głównej, przekręć owego stwora i nie "
 "odkręci się on w najbliższym kroku odkręcania jego władcy."
 
+#, fuzzy
 msgctxt "322983"
 msgid "Pay |mana_3|."
-msgstr ""
+msgstr "Zapłać |mana_5|."
 
+#, fuzzy
 msgctxt "322987"
 msgid "Pay |mana_2|."
-msgstr ""
+msgstr "Zapłać |mana_5|."
 
+#, fuzzy
 msgctxt "323104"
 msgid "Pay 5 life."
-msgstr ""
+msgstr "Zapłać 50 żyć."
 
+#, fuzzy
 msgctxt "323116"
 msgid "Pay |mana_0|."
-msgstr ""
+msgstr "Zapłać |mana_5|."
 
+#, fuzzy
 msgctxt "323367"
 msgid "Pay 4 life."
-msgstr ""
+msgstr "Zapłać 1 życie."
 
 msgctxt "323460"
 msgid ""
@@ -58795,9 +58972,10 @@ msgstr ""
 "<i>Heroizm</i> — Ilekroć rzucisz czar wskazujący tego stwora, umieść na nim "
 "znacznik +1/+1."
 
+#, fuzzy
 msgctxt "328197"
 msgid "Heroic"
-msgstr ""
+msgstr "heroizm"
 
 msgctxt "328225"
 msgid "Centaur Advisor"
@@ -58990,9 +59168,10 @@ msgctxt "329952"
 msgid "When Temple of Malady enters the battlefield, scry 1."
 msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
+#, fuzzy
 msgctxt "330190"
 msgid "|tap|, Sacrifice Black Lotus: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|, poświęć ten artefakt: Weź trzy many jednego dowolnego koloru."
 
 msgctxt "330275"
 msgid ""
@@ -60135,9 +60314,10 @@ msgid ""
 "—Tajic"
 msgstr ""
 
+#, fuzzy
 msgctxt "336311"
 msgid "When CARDNAME enters the battlefield, amass 1."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "336312"
 msgid "When Aven Eternal enters the battlefield, amass 1."
@@ -60220,9 +60400,10 @@ msgctxt "336330"
 msgid "Eternal Skylord"
 msgstr ""
 
+#, fuzzy
 msgctxt "336331"
 msgid "When CARDNAME enters the battlefield, amass 2."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "336332"
 msgid "When Eternal Skylord enters the battlefield, amass 2."
@@ -60232,9 +60413,10 @@ msgctxt "336333"
 msgid "Zombie tokens you control have flying."
 msgstr "Żetony Zombi pod twoim władaniem mają latanie."
 
+#, fuzzy
 msgctxt "336334"
 msgid "Fblthp, the Lost"
-msgstr ""
+msgstr "Fblthp, Zagubiony"
 
 msgctxt "336335"
 msgid ""
@@ -60385,9 +60567,10 @@ msgctxt "336361"
 msgid "Kiora's Dambreaker"
 msgstr ""
 
+#, fuzzy
 msgctxt "336363"
 msgid "When CARDNAME enters the battlefield, proliferate."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, dobierz kartę."
 
 msgctxt "336364"
 msgid "When Kiora's Dambreaker enters the battlefield, proliferate."
@@ -63045,9 +63228,10 @@ msgstr ""
 "twojej ręki wskazaną kartę stwora lub wędrowca w twoim cmentarzu, które nie "
 "została tam umieszczona w tej potyczce."
 
+#, fuzzy
 msgctxt "336887"
 msgid "Tamiyo, Collector of Tales"
-msgstr ""
+msgstr "Tamiyo, Kolekcjonerka Opowieści"
 
 msgctxt "336888"
 msgid ""
@@ -63610,12 +63794,16 @@ msgstr ""
 "Ilekroć zaatakujesz przynajmniej dwoma stworami nie będącymi typu Gideon, "
 "umieść znacznik +1/+1 na każdym z owych stworów."
 
+#, fuzzy
 msgctxt "336996"
 msgid ""
 "+2: Until end of turn, CARDNAME becomes a 5/5 white Soldier creature that's "
 "still a planeswalker. Prevent all damage that would be dealt to him this "
 "turn."
 msgstr ""
+"0: Do końca tury CARDNAME staje się stworem Człowiek Piechur 4/4 z "
+"niezniszczalnością. Nadal jest wędrowcem. Zażegnaj wszystkie obrażenia, "
+"jakie mogłyby mu zostać zadane w tej turze."
 
 msgctxt "336997"
 msgid ""
@@ -63907,6 +64095,7 @@ msgid ""
 "this ability only once each turn."
 msgstr ""
 
+#, fuzzy
 msgctxt "337099"
 msgid ""
 "Exile them at the beginning of the next end step. (Whenever a nontoken "
@@ -63915,6 +64104,10 @@ msgid ""
 "creature. Those tokens gain haste. Exile them at the beginning of the next "
 "end step.)"
 msgstr ""
+"Ilekroć nie-żetonowy stwór wejdzie na pole bitwy pod twoim władaniem, rzucaj "
+"monetą dopóki nie przegrasz rzutu. Za każdy wygrany rzut stwórz żeton będący "
+"kopią owego stwora. Owe żetony zyskują pośpiech. Wygnaj je na początku "
+"najbliższego kroku końcowego."
 
 msgctxt "337100"
 msgid ""
@@ -64385,13 +64578,15 @@ msgid ""
 "put the exiled card into your hand.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "337184"
 msgid "Pay 2 life."
-msgstr ""
+msgstr "Zapłać 2 życia"
 
+#, fuzzy
 msgctxt "337270"
 msgid "Pay 3 life."
-msgstr ""
+msgstr "Zapłać 3 życia"
 
 msgctxt "337276"
 msgid ""
@@ -64428,17 +64623,20 @@ msgctxt "337754"
 msgid "Target a creature to get +1/+1 until end of turn."
 msgstr "Wskaż stwora mającego dostać do końca tury +1/+1."
 
+#, fuzzy
 msgctxt "338280"
 msgid "Pay 7 life."
-msgstr ""
+msgstr "Zapłać 1 życie."
 
+#, fuzzy
 msgctxt "338969"
 msgid "Pay |mana_u|."
-msgstr ""
+msgstr "Zapłać |mana_5|."
 
+#, fuzzy
 msgctxt "338985"
 msgid "Pay |mana_1|."
-msgstr ""
+msgstr "Zapłać |mana_5|."
 
 msgctxt "339932"
 msgid "Pay |mana_3|\\ |mana_u|."
@@ -64466,9 +64664,10 @@ msgid ""
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "340882"
 msgid "Pay life."
-msgstr ""
+msgstr "Zapłać 1 życie."
 
 msgctxt "340889"
 msgid ""
@@ -66863,6 +67062,7 @@ msgctxt "352035"
 msgid "Thunderkin Awakener"
 msgstr ""
 
+#, fuzzy
 msgctxt "352036"
 msgid ""
 "Whenever CARDNAME attacks, choose target Elemental creature card in your "
@@ -66870,6 +67070,10 @@ msgid ""
 "the battlefield tapped and attacking. Sacrifice it at the beginning of the "
 "next end step."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wskaż kartę Żywiołaka w twoim cmentarzu o "
+"wytrzymałości mniejszej niż wytrzymałość tego stwora. Przywróć ową kartę na "
+"pole bitwy przekręconą i atakującą. Poświęć ją na początku najbliższego "
+"kroku końcowego."
 
 msgctxt "352037"
 msgid ""
@@ -66897,9 +67101,10 @@ msgctxt "352040"
 msgid "Sathros turned his restraints to revenge."
 msgstr ""
 
+#, fuzzy
 msgctxt "352041"
 msgid "CARDNAME gets +2/+0 as long as it's attacking."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+0 o ile atakuje."
 
 msgctxt "352042"
 msgid "Unchained Berserker gets +2/+0 as long as it's attacking."
@@ -67543,6 +67748,7 @@ msgctxt "352153"
 msgid "Kaalia, Zenith Seeker"
 msgstr ""
 
+#, fuzzy
 msgctxt "352154"
 msgid ""
 "When CARDNAME enters the battlefield, look at the top six cards of your "
@@ -67550,6 +67756,10 @@ msgid ""
 "from among them and put them into your hand. Put the rest on the bottom of "
 "your library in a random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na sześć wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę Anioła, kartę Demona i/"
+"lub kartę Smoka i umieścić je w twojej ręce. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 msgctxt "352155"
 msgid ""
@@ -68235,9 +68445,10 @@ msgid ""
 "—Mu Yanling"
 msgstr ""
 
+#, fuzzy
 msgctxt "352272"
 msgid "CARDNAME gets +1/+1 as long as you control a Yanling planeswalker."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 o ile władasz wędrowcem o typie Ajani."
 
 msgctxt "352273"
 msgid ""
@@ -68557,9 +68768,10 @@ msgid ""
 "—Vivien Reid"
 msgstr ""
 
+#, fuzzy
 msgctxt "352327"
 msgid "CARDNAME gets +1/+1 as long as you control a Vivien planeswalker."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+1 o ile władasz wędrowcem o typie Ajani."
 
 msgctxt "352328"
 msgid ""
@@ -68762,9 +68974,10 @@ msgctxt "352367"
 msgid "Target up to one creature you don't control."
 msgstr ""
 
+#, fuzzy
 msgctxt "352369"
 msgid "Distribute counters among up to two target creatures."
-msgstr ""
+msgstr "Rozmieść znaczniki pomiędzy jednym lub dwoma wskazanymi stworami."
 
 msgctxt "352372"
 msgid "Exile two legendary cards."
@@ -68847,33 +69060,39 @@ msgctxt "360891"
 msgid "Reveal an artifact card?"
 msgstr ""
 
+#, fuzzy
 msgctxt "360921"
 msgid "Discard a card?"
-msgstr ""
+msgstr "Odrzuć kartę."
 
+#, fuzzy
 msgctxt "362733"
 msgid "Return a land you control to its owner's hand?"
-msgstr ""
+msgstr "Przywróć ląd pod twoim władaniem do ręki właściciela."
 
+#, fuzzy
 msgctxt "362756"
 msgid "Sacrifice another creature?"
-msgstr ""
+msgstr "Poświęć innego stwora."
 
+#, fuzzy
 msgctxt "362763"
 msgid "Put a creature card onto the battlefield?"
-msgstr ""
+msgstr "Umieść kartę lądu na polu bitwy."
 
 msgctxt "363493"
 msgid "Target a creature with power less than or equal to {1, CardId}'s power."
 msgstr ""
 
+#, fuzzy
 msgctxt "363515"
 msgid "Exile a creature card?"
-msgstr ""
+msgstr "Wygnaj kartę stwora."
 
+#, fuzzy
 msgctxt "364482"
 msgid "Reveal a Dinosaur card?"
-msgstr ""
+msgstr "Ujawnij kartę Dinozaura."
 
 msgctxt "364494"
 msgid "Reveal a noncreature, nonland card?"
@@ -68883,9 +69102,10 @@ msgctxt "364518"
 msgid "Reveal a Dinosaur or land card?"
 msgstr ""
 
+#, fuzzy
 msgctxt "364520"
 msgid "Reveal a creature card?"
-msgstr ""
+msgstr "Ujawnij kartę stwora."
 
 msgctxt "365448"
 msgid "Reveal a historic card?"
@@ -68895,13 +69115,15 @@ msgctxt "365493"
 msgid "Reveal a creature or land card?"
 msgstr ""
 
+#, fuzzy
 msgctxt "365494"
 msgid "Put a land card onto the battlefield?"
-msgstr ""
+msgstr "Umieść kartę lądu na polu bitwy."
 
+#, fuzzy
 msgctxt "365501"
 msgid "Return a creature card to your hand?"
-msgstr ""
+msgstr "Przywróć kartę stwora do twojej ręki."
 
 msgctxt "365517"
 msgid "Put a historic permanent card onto the battlefield?"
@@ -68915,9 +69137,10 @@ msgctxt "366363"
 msgid "Reveal a creature card with power 2 or less?"
 msgstr ""
 
+#, fuzzy
 msgctxt "366372"
 msgid "Sacrifice a creature?"
-msgstr ""
+msgstr "Poświęć stwora."
 
 msgctxt "366387"
 msgid "Reveal a white card?"
@@ -68990,9 +69213,10 @@ msgid ""
 "equal to {1, CardId}'s power."
 msgstr ""
 
+#, fuzzy
 msgctxt "369304"
 msgid "Discard any number of cards?"
-msgstr ""
+msgstr "Odrzuć dowolną liczbę kart."
 
 msgctxt "369306"
 msgid "Reveal a permanent card?"
@@ -69047,17 +69271,20 @@ msgctxt "383184"
 msgid "Reveal any number of creature cards?"
 msgstr ""
 
+#, fuzzy
 msgctxt "383754"
 msgid "Discard a card at random?"
-msgstr ""
+msgstr "Odrzuć losową kartę."
 
+#, fuzzy
 msgctxt "385116"
 msgid "Sacrifice a land?"
-msgstr ""
+msgstr "Poświęć ląd."
 
+#, fuzzy
 msgctxt "385746"
 msgid "Sacrifice an Island?"
-msgstr ""
+msgstr "Poświęć ląd."
 
 msgctxt "387703"
 msgid ""
@@ -69071,9 +69298,10 @@ msgctxt "388244"
 msgid "Choose a nonland card?"
 msgstr ""
 
+#, fuzzy
 msgctxt "397215"
 msgid "Put a card into your library?"
-msgstr ""
+msgstr "Umieścić kartę lądu w twojej bibliotece?"
 
 msgctxt "403153"
 msgid "Remove up to five counters."
@@ -69780,9 +70008,12 @@ msgid ""
 "\"May this blade guide you on your great journey, as it did me on mine.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "413702"
 msgid "When CARDNAME dies, put a +1/+1 counter on target Knight you control."
 msgstr ""
+"Kiedy CARDNAME umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 msgctxt "413703"
 msgid ""
@@ -70435,9 +70666,12 @@ msgstr ""
 "Ten stwór nie może atakować, chyba że broniący się gracz ma co najmniej "
 "siedem kart w swoim cmentarzu."
 
+#, fuzzy
 msgctxt "413818"
 msgid "CARDNAME can't block unless you have four or more cards in hand."
 msgstr ""
+"CARDNAME nie może atakować ani blokować, chyba że masz co najmniej siedem "
+"kart w ręce."
 
 msgctxt "413819"
 msgid ""
@@ -71232,12 +71466,17 @@ msgid ""
 "Wishclaw Talisman enters the battlefield with three wish counters on it."
 msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki życzenia."
 
+#, fuzzy
 msgctxt "413959"
 msgid ""
 "|mana_1|, |tap|, Remove a wish counter from CARDNAME: Search your library "
 "for a card, put it into your hand, then shuffle your library. An opponent "
 "gains control of CARDNAME. Activate this ability only during your turn."
 msgstr ""
+"|mana_1|, |tap|, usuń znacznik życzenia z tego artefaktu: Wyszukaj w twojej "
+"bibliotece dowolną kartę, umieść ją w twojej ręce, następnie przetasuj twoją "
+"bibliotekę. Przeciwnik zyskuje władanie nad tym artefaktem. Możesz aktywować "
+"tę zdolność tylko w twojej turze."
 
 msgctxt "413960"
 msgid ""
@@ -71658,11 +71897,14 @@ msgid ""
 "decided to just pretend it was on their side."
 msgstr ""
 
+#, fuzzy
 msgctxt "414035"
 msgid ""
 "Whenever CARDNAME attacks, another target attacking Knight gains menace "
 "until end of turn."
 msgstr ""
+"Ilekroć CARDNAME zaatakuje, inny wskazany atakujący stwór zyskuje do końca "
+"tury latanie."
 
 msgctxt "414036"
 msgid ""
@@ -71782,6 +72024,7 @@ msgctxt "414054"
 msgid "Human Archer Rogue"
 msgstr ""
 
+#, fuzzy
 msgctxt "414055"
 msgid ""
 "Whenever CARDNAME attacks, if defending player has more cards in hand than "
@@ -71789,6 +72032,10 @@ msgid ""
 "a Rogue, you may cast that card and you may spend mana as though it were "
 "mana of any color to cast that spell."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli broniący się gracz ma więcej kart w ręce "
+"niż ty, wygnaj wierzchnią kartę jego biblioteki. W ciągu dowolnej tury, w "
+"której zaatakowałeś Łotrzykiem, możesz rzucić ową kartę wydając manę tak, "
+"jakby była maną dowolnego koloru."
 
 msgctxt "414056"
 msgid ""
@@ -72847,9 +73094,10 @@ msgstr ""
 "Ten stwór dostaje +1/+1 za każdy kolor spośród permanentów pod twoim "
 "władaniem."
 
+#, fuzzy
 msgctxt "414238"
 msgid "Garruk, Cursed Huntsman"
-msgstr ""
+msgstr "Garruk, Przeklęty Myśliwy"
 
 msgctxt "414239"
 msgid ""
@@ -73128,11 +73376,14 @@ msgid ""
 "control."
 msgstr "Wytrzymałość tej karty jest równa liczbie Rycerzy pod twoim władaniem."
 
+#, fuzzy
 msgctxt "414302"
 msgid ""
 "Whenever CARDNAME attacks, another target Knight you control gains "
 "indestructible until end of turn."
 msgstr ""
+"Ilekroć CARDNAME zaatakuje, inny wskazany Dinozaur pod twoim władaniem "
+"zyskuje do końca tury latanie."
 
 msgctxt "414303"
 msgid ""
@@ -73598,9 +73849,10 @@ msgctxt "414387"
 msgid "It frequently predicts imminent death by devouring."
 msgstr ""
 
+#, fuzzy
 msgctxt "414388"
 msgid "When Prophet of the Peak enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, wróż 2."
 
 msgctxt "414389"
 msgid "Roving Keep"
@@ -74682,11 +74934,14 @@ msgctxt "414567"
 msgid "Gluttonous Troll"
 msgstr ""
 
+#, fuzzy
 msgctxt "414568"
 msgid ""
 "When CARDNAME enters the battlefield, create a number of Food tokens equal "
 "to the number of opponents you have."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, stwórz tyle żetonów czarnego stwora "
+"Szczur 1/1, ilu masz przeciwników."
 
 msgctxt "414569"
 msgid ""
@@ -74840,9 +75095,10 @@ msgstr ""
 "Ilekroć twój dowódca wejdzie na pole bitwy lub zaatakuje, umieść znacznik "
 "strony na tym artefakcie."
 
+#, fuzzy
 msgctxt "414594"
 msgid "|mana_1|, |tap|, Remove a page counter from CARDNAME: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, usuń z CARDNAME znacznik cegły: Dobierz kartę."
 
 msgctxt "414595"
 msgid ""
@@ -75825,9 +76081,10 @@ msgctxt "419699"
 msgid "Heliod's Punishment"
 msgstr ""
 
+#, fuzzy
 msgctxt "419700"
 msgid "CARDNAME enters the battlefield with four task counters on it."
-msgstr ""
+msgstr "CARDNAME wchodzi na pole walki mając siedem znaczników godziny."
 
 msgctxt "419701"
 msgid ""
@@ -76206,9 +76463,10 @@ msgctxt "419769"
 msgid "Ashiok's Erasure"
 msgstr ""
 
+#, fuzzy
 msgctxt "419770"
 msgid "When CARDNAME enters the battlefield, exile target spell."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole walki, odkręć wskazanego stwora."
 
 msgctxt "419771"
 msgid "When Ashiok's Erasure enters the battlefield, exile target spell."
@@ -76619,11 +76877,14 @@ msgctxt "419850"
 msgid "Starlit Mantle"
 msgstr ""
 
+#, fuzzy
 msgctxt "419851"
 msgid ""
 "When CARDNAME enters the battlefield, enchanted creature gains hexproof "
 "until end of turn."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, wskazany stwór do końca tury zyskuje "
+"latanie."
 
 msgctxt "419852"
 msgid ""
@@ -77402,11 +77663,14 @@ msgctxt "420000"
 msgid "The fury of the slaughter god Mogis burns within him."
 msgstr ""
 
+#, fuzzy
 msgctxt "420001"
 msgid ""
 "When CARDNAME enters the battlefield, target creature you control gets +1/+0 "
 "and gains indestructible until end of turn."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +2/+1 oraz czujność."
 
 msgctxt "420002"
 msgid ""
@@ -78618,9 +78882,10 @@ msgid ""
 "III — If you control a creature with power 4 or greater, draw two cards."
 msgstr "III — Jeśli władasz stworem o sile 4 lub większej, dobierz dwie karty."
 
+#, fuzzy
 msgctxt "420218"
 msgid "IV — Create a Gold token."
-msgstr ""
+msgstr "IV — Stwórz żeton Złota."
 
 msgctxt "420219"
 msgid "The Nessian Wood is never without defenders."
@@ -78923,9 +79188,10 @@ msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart lądów, ujawnij je, umieść w "
 "twojej ręce, po czym przetasuj twoją bibliotekę."
 
+#, fuzzy
 msgctxt "420274"
 msgid "CARDNAME deals twice X damage to each creature with flying."
-msgstr ""
+msgstr "CARDNAME zadaje każdemu stworowi mającemu latanie po X obrażeń."
 
 msgctxt "420275"
 msgid "Nylea's Intervention deals twice X damage to each creature with flying."
@@ -79840,11 +80106,14 @@ msgstr ""
 "dobierz kartę, po czym możesz umieścić kartę lądu z twojej ręki na polu "
 "bitwy."
 
+#, fuzzy
 msgctxt "420432"
 msgid ""
 "Escape—|mana_g|\\ |mana_g|\\ |mana_u|\\ |mana_u|, Exile five other cards "
 "from your graveyard."
 msgstr ""
+"Ucieczka—|mana_4|\\ |mana_b|\\ |mana_g|, wygnaj sześć innych kart z twojego "
+"cmentarza."
 
 msgctxt "420433"
 msgid "Warden of the Chained"
@@ -80256,12 +80525,16 @@ msgctxt "420507"
 msgid "\"Every dream is a doorway.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "420508"
 msgid ""
 "When CARDNAME enters the battlefield, you may search your library and/or "
 "graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and put it "
 "into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wyszukać w twojej bibliotece i/"
+"lub cmentarzu kartę o nazwie Ashiok, Sculptor of Fears, ujawnij ją i umieść "
+"w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
 
 msgctxt "420509"
 msgid ""
@@ -80504,9 +80777,10 @@ msgctxt "420552"
 msgid "Target a creature or enchantment you control."
 msgstr ""
 
+#, fuzzy
 msgctxt "420553"
 msgid "Search for a basic Plains card."
-msgstr ""
+msgstr "Wyszukaj kartę bazowego lądu."
 
 msgctxt "420554"
 msgid ""
@@ -80549,13 +80823,15 @@ msgctxt "420563"
 msgid "Exile an enchantment card?"
 msgstr ""
 
+#, fuzzy
 msgctxt "420564"
 msgid "Exile a creature or enchantment card?"
-msgstr ""
+msgstr "Ujawnić kartę stwora lub uroku?"
 
+#, fuzzy
 msgctxt "420565"
 msgid "Sacrifice a nonland permanent?"
-msgstr ""
+msgstr "Poświęć nielądowy permanent."
 
 msgctxt "420566"
 msgid ""
@@ -80580,6 +80856,7 @@ msgctxt "420569"
 msgid "Sacrifice another creature or an enchantment."
 msgstr ""
 
+#, fuzzy
 msgctxt "420570"
 msgid ""
 "Exile those Auras at the beginning of your next end step. (When CARDNAME "
@@ -80588,6 +80865,11 @@ msgid ""
 "the beginning of your next end step. If those Auras would leave the "
 "battlefield, exile them instead of putting them anywhere else.)"
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole walki, przywróć dowolną liczbę kart typu Aura "
+"z twojego cmentarza na pole walki dołączając je do stworów pod twoim "
+"władaniem. Wygnaj owe Aury na początku twojego najbliższego kroku końcowego. "
+"Jeśli owe Aury miałyby opuścić pole walki, wygnaj je zamiast umieszczać je "
+"gdziekolwiek indziej."
 
 msgctxt "420571"
 msgid "Return any number of Aura cards to the battlefield."
@@ -80597,9 +80879,10 @@ msgctxt "420572"
 msgid "Target a creature with flying an opponent controls."
 msgstr ""
 
+#, fuzzy
 msgctxt "420573"
 msgid "Reveal a land card?"
-msgstr ""
+msgstr "Ujawnić czarną kartę?"
 
 msgctxt "420575"
 msgid "Return a permanent card to your hand?"
@@ -81056,12 +81339,16 @@ msgctxt "424604"
 msgid "Target a card named Rekindling Phoenix."
 msgstr "Wskaż kartę o nazwie Rekindling Phoenix."
 
+#, fuzzy
 msgctxt "425054"
 msgid ""
 "Whenever one or more +1/+1 counters are put on CARDNAME, you may search your "
 "library for a card named Growth-Chamber Guardian, reveal it, put it into "
 "your hand, then shuffle your library."
 msgstr ""
+"Ilekroć co najmniej jeden znacznik +1/+ zostanie umieszczony na tym stworze, "
+"możesz wyszukać w twojej bibliotece kartę o nazwie Growth-Chamber Guardian, "
+"ujawnij ją, umieść ją w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 msgctxt "425938"
 msgid "#Deprecated PromptMessage_InvalidSelection"
@@ -81128,11 +81415,14 @@ msgstr ""
 "II — Do końca tury wskazany stwór dostaje tratowanie oraz +X/+0, gdzie X "
 "jest liczbą znaczników opowieści na tym uroku."
 
+#, fuzzy
 msgctxt "427771"
 msgid ""
 "III — Until end of turn, target creature gains trample and gets +X/+0, where "
 "X is the number of lore counters on CARDNAME."
 msgstr ""
+"II — Do końca tury wskazany stwór zyskuje tratowanie i dostaje +X/+0, gdzie "
+"X jest liczbą znaczników opowieści na CARDNAME."
 
 msgctxt "427772"
 msgid ""
@@ -81366,9 +81656,10 @@ msgid ""
 "—Jonald, mission naturalist, research notes"
 msgstr ""
 
+#, fuzzy
 msgctxt "427913"
 msgid "Whenever you cycle another card, put a +1/+1 counter on CARDNAME."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na CARDNAME."
 
 msgctxt "427914"
 msgid ""
@@ -82286,11 +82577,14 @@ msgid ""
 "—Jonald, mission naturalist"
 msgstr ""
 
+#, fuzzy
 msgctxt "428084"
 msgid ""
 "CARDNAME enters the battlefield with your choice of a flying counter or a "
 "hexproof counter on it."
 msgstr ""
+"CARDNAME wchodzi na pole bitwy mając dowolny znacznik spośród latania albo "
+"pierwszego ciosu."
 
 msgctxt "428085"
 msgid ""
@@ -83081,11 +83375,14 @@ msgid ""
 "From a certain perspective, it's an inspiring story of overcoming obstacles."
 msgstr ""
 
+#, fuzzy
 msgctxt "428223"
 msgid ""
 "CARDNAME enters the battlefield with your choice of a trample counter or a "
 "menace counter on it."
 msgstr ""
+"CARDNAME wchodzi na pole bitwy mając dowolny znacznik spośród czujności i "
+"zasięgu."
 
 msgctxt "428224"
 msgid ""
@@ -83258,9 +83555,10 @@ msgid ""
 "one."
 msgstr ""
 
+#, fuzzy
 msgctxt "428252"
 msgid "Lukka, Coppercoat Outcast"
-msgstr ""
+msgstr "Lukka, Wygnaniec z Miedziobrzegu"
 
 msgctxt "428253"
 msgid "Lukka"
@@ -86361,9 +86659,10 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 2 życia za każdego stwora "
 "pod twoim władaniem mającego latanie."
 
+#, fuzzy
 msgctxt "433582"
 msgid "Basri Ket"
-msgstr ""
+msgstr "Basri Ket"
 
 msgctxt "433583"
 msgid "Basri"
@@ -89767,9 +90066,10 @@ msgctxt "434159"
 msgid "\"All right. Warm-ups are over.\""
 msgstr ""
 
+#, fuzzy
 msgctxt "434160"
 msgid "CARDNAME has lifelink as long as it has a +1/+1 counter on it."
-msgstr ""
+msgstr "CARDNAME ma latanie o ile ma znacznik +1/+1."
 
 msgctxt "434161"
 msgid "Sigiled Contender has lifelink as long as it has a +1/+1 counter on it."
@@ -91312,11 +91612,14 @@ msgstr ""
 "Umieszczając tę kartę na polu bitwy wybierz parzyste lub nieparzyste. "
 "<i>(Zero jest parzyste.)</i>"
 
+#, fuzzy
 msgctxt "436917"
 msgid ""
 "Select whether to mutate this card under or over the targeted creature. "
 "<i>They mutate into the creature on top plus all abilities from under it.</i>"
 msgstr ""
+"Wybierz, czy zmutować tę kartę pod czy nad wskazanego stwora.\n"
+"<i>Mutują w stwora na górze plus wszystkie zdolności pod nim.</i>"
 
 msgctxt "436918"
 msgid "FirstStrike"
@@ -93964,11 +94267,13 @@ msgstr ""
 "Przekręć innego odkręconego Łotrzyka pod twoim władaniem: Niniejszy stwór "
 "zyskuje do końca tury dotyk śmierci."
 
+#, fuzzy
 msgctxt "437393"
 msgid ""
 "Whenever CARDNAME deals combat damage to a player, that player mills three "
 "cards."
 msgstr ""
+"Ilekroć CARDNAME zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 msgctxt "437394"
 msgid ""
@@ -94372,11 +94677,14 @@ msgctxt "437465"
 msgid "\"Everybody grab a leg!\""
 msgstr ""
 
+#, fuzzy
 msgctxt "437466"
 msgid ""
 "Whenever CARDNAME attacks, it gets +1/+0 until end of turn for each creature "
 "in your party."
 msgstr ""
+"Ilekroć CARDNAME zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
+"atakującego Pirata."
 
 msgctxt "437467"
 msgid ""
@@ -96265,9 +96573,10 @@ msgid "|tap|: Return target basic land you control to its owner's hand."
 msgstr ""
 "|tap|: Przywróć wskazany bazową ląd pod twoim władaniem do ręki właściciela."
 
+#, fuzzy
 msgctxt "437795"
 msgid "Nahiri, Heir of the Ancients"
-msgstr ""
+msgstr "Nahiri, Dziedziczka Przedwiecznych"
 
 msgctxt "437796"
 msgid ""
@@ -97568,6 +97877,7 @@ msgstr ""
 "rzucisz w ten sposób czar, zapłać życie równe jego wartości many zamiast "
 "płacić jego koszt many."
 
+#, fuzzy
 msgctxt "440143"
 msgid ""
 "Whenever CARDNAME attacks, you may cast target instant or sorcery card with "
@@ -97575,6 +97885,10 @@ msgid ""
 "graveyard without paying its mana cost. If that spell would be put into your "
 "graveyard this turn, exile it instead."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz rzucić bez płacenia kosztu many wskazaną "
+"kartę sztuczki lub obrzędu z twojego cmentarza o wartości many mniejszej lub "
+"równej sile niniejszego stwora. Jeśli ów czar miałby zostać umieszczony w "
+"cmentarzu w tej turze, zamiast tego wygnaj go."
 
 msgctxt "440144"
 msgid ""
@@ -97746,11 +98060,14 @@ msgstr ""
 "<i>Najazd</i> — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w "
 "tej turze, dobierz kartę."
 
+#, fuzzy
 msgctxt "441904"
 msgid ""
 "<i>Raid</i> — When CARDNAME enters the battlefield, if you attacked this "
 "turn, target opponent discards a card."
 msgstr ""
+"<i>Najazd</i> — Kiedy ten stwór wejdzie na pole walki, jeśli atakowałeś w "
+"tej turze, wskazany przeciwnik odrzuca kartę."
 
 msgctxt "441905"
 msgid ""
@@ -97811,11 +98128,14 @@ msgstr ""
 "<i>Najazd</i> — Ten stwór wchodzi na pole bitwy mając znacznik +1/+ jeśli "
 "atakowałeś w tej turze."
 
+#, fuzzy
 msgctxt "441913"
 msgid ""
 "<i>Raid</i> — When CARDNAME enters the battlefield, if you attacked this "
 "turn, target opponent sacrifices a permanent."
 msgstr ""
+"<i>Najazd</i> — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w "
+"tej turze, wskazany przeciwnik poświęca permanent."
 
 msgctxt "441914"
 msgid ""
@@ -98883,9 +99203,10 @@ msgid ""
 "copy.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "468331"
 msgid "Decline"
-msgstr ""
+msgstr "Odmawiam"
 
 msgctxt "468383"
 msgid ""
@@ -99268,11 +99589,14 @@ msgctxt "477007"
 msgid "Glorious Protector"
 msgstr ""
 
+#, fuzzy
 msgctxt "477008"
 msgid ""
 "When CARDNAME enters the battlefield, you may exile any number of non-Angel "
 "creatures you control until CARDNAME leaves the battlefield."
 msgstr ""
+"Kiedy CARDNAME wejdzie na pole bitwy, wygnaj dowolną liczbę innych "
+"nieżetonowych stworów pod twoim władaniem dopóki nie opuści on pola bitwy."
 
 msgctxt "477009"
 msgid ""
@@ -102029,12 +102353,16 @@ msgctxt "477482"
 msgid "Quakebringer"
 msgstr ""
 
+#, fuzzy
 msgctxt "477483"
 msgid ""
 "At the beginning of your upkeep, CARDNAME deals 2 damage to each opponent. "
 "This ability triggers only if CARDNAME is on the battlefield or if CARDNAME "
 "is in your graveyard and you control a Giant."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje każdemu przeciwnikowi "
+"po 2 obrażenia. Ta zdolność wyzwala się tylko jeśli ten stwór jest na polu "
+"bitwy lub gdy ta karta jest w twoim cmentarzu, a ty władasz Gigantem."
 
 msgctxt "477484"
 msgid ""
@@ -103024,9 +103352,10 @@ msgstr ""
 "śnieżnego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
 "bibliotekę."
 
+#, fuzzy
 msgctxt "477656"
 msgid "CARDNAME gets +1/+0 for each other snow permanent you control."
-msgstr ""
+msgstr "CARDNAME dostaje +1/+0 za każdego innego Szczura pod twoim władaniem."
 
 msgctxt "477657"
 msgid ""
@@ -103640,12 +103969,15 @@ msgstr ""
 "I — Każdy gracz mieli cztery karty. Następnie z każdego cmentarza możesz "
 "wygnać kartę stwora lub wędrowca."
 
+#, fuzzy
 msgctxt "477754"
 msgid ""
 "II — Until end of turn, you may cast spells from among cards exiled with "
 "CARDNAME, and you may spend mana as though it were mana of any color to cast "
 "those spells."
 msgstr ""
+"III – Do końca tury możesz rzucać czary spośród wygnanych przez CARDNAME i "
+"do ich rzucenia możesz wydawać manę tak, jakby była maną dowolnego koloru."
 
 msgctxt "477755"
 msgid ""
@@ -104240,9 +104572,10 @@ msgstr ""
 "Wyposażony stwór dostaje +1/+0, ma latanie i jest dodatkowo Ptakiem oprócz "
 "swoich innych typów."
 
+#, fuzzy
 msgctxt "477847"
 msgid "Replicating Ring"
-msgstr ""
+msgstr "Powielony Pierścień"
 
 msgctxt "477848"
 msgid ""
@@ -104272,12 +104605,17 @@ msgctxt "477850"
 msgid "Runed Crown"
 msgstr ""
 
+#, fuzzy
 msgctxt "477851"
 msgid ""
 "When CARDNAME enters the battlefield, you may search your library, hand, and/"
 "or graveyard for a Rune card and put it onto the battlefield attached to "
 "CARDNAME. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
+"bibliotece, ręce i/lub cmentarzu kartę typu Runa i umieścić ją na polu bitwy "
+"dołączoną do tego artefaktu. Jeśli przeszukasz swoją bibliotekę w ten "
+"sposób, przetasuj ją."
 
 msgctxt "477852"
 msgid ""
@@ -105404,9 +105742,10 @@ msgctxt "478038"
 msgid "Target an artifact, creature, or enchantment an opponent controls."
 msgstr ""
 
+#, fuzzy
 msgctxt "478039"
 msgid "Exile any number of non-Angel creatures you control?"
-msgstr ""
+msgstr "Wygnaj dowolną liczbę stworów bez typu Anioł pod twoim władaniem."
 
 msgctxt "478040"
 msgid "Exile any number of non-Angel creatures you control."
@@ -105431,9 +105770,10 @@ msgid ""
 "other than CARDNAME that shares a creature type with the exiled card.)"
 msgstr ""
 
+#, fuzzy
 msgctxt "478044"
 msgid "Exile another creature card?"
-msgstr ""
+msgstr "Wygnaj inną kartę stwora."
 
 msgctxt "478045"
 msgid "Target up to one attacking or blocking creature."
@@ -105465,9 +105805,10 @@ msgid ""
 "Choose a creature card exiled with {1, CardId} with converted mana cost X."
 msgstr ""
 
+#, fuzzy
 msgctxt "478052"
 msgid "Sacrifice this creature?"
-msgstr ""
+msgstr "Poświęć tego stwora."
 
 msgctxt "478053"
 msgid ""
@@ -105820,6 +106161,7 @@ msgstr ""
 "Wybierz jedno — • Wyszukaj w twojej bibliotece kartę, umieść ją w twojej "
 "ręce, po czym przetasuj. • Umieść własną kartę spoza gry w twojej ręce."
 
+#, fuzzy
 msgctxt "479728"
 msgid ""
 "When CARDNAME enters the battlefield, you may search your library for "
@@ -105828,6 +106170,11 @@ msgid ""
 "card into your hand and the other into your graveyard, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"dokładnie dwie karty o nazwach innych niż niniejszy stwór i mających różne "
+"nazwy. Jeśli tak zrobisz, ujawnij owe karty. Przeciwnik wybiera jedną z "
+"nich. Umieść wybraną kartę w twojej ręce, a pozostałą w twoim cmentarzu, "
+"następnie przetasuj twoją bibliotekę."
 
 msgctxt "479921"
 msgid "Put a card you own into your hand."
@@ -106234,9 +106581,10 @@ msgctxt "483900"
 msgid "Bird—|mana_1|\\ |mana_u|"
 msgstr ""
 
+#, fuzzy
 msgctxt "483901"
 msgid "God—|mana_3|\\ |mana_u|\\ |mana_u|"
-msgstr ""
+msgstr "Bóg—|mana_2|\\ |mana_w|\\ |mana_w|"
 
 msgctxt "483902"
 msgid "Vehicle—|mana_1|\\ |mana_u|"
@@ -106258,9 +106606,10 @@ msgctxt "483906"
 msgid "Artifact—|mana_3|\\ |mana_b|"
 msgstr ""
 
+#, fuzzy
 msgctxt "483907"
 msgid "God—|mana_3|\\ |mana_b|\\ |mana_b|"
-msgstr ""
+msgstr "Bóg—|mana_2|\\ |mana_w|\\ |mana_w|"
 
 msgctxt "483908"
 msgid "Tibalt—|mana_5|\\ |mana_b|\\ |mana_r|"
@@ -106282,9 +106631,10 @@ msgctxt "483912"
 msgid "Equipment—|mana_1|\\ |mana_r|"
 msgstr "Wyposażenie—|mana_1|\\ |mana_r|"
 
+#, fuzzy
 msgctxt "483913"
 msgid "God—|mana_2|\\ |mana_r|\\ |mana_r|"
-msgstr ""
+msgstr "Bóg—|mana_2|\\ |mana_w|\\ |mana_w|"
 
 msgctxt "483914"
 msgid "Enchantment—|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|"
@@ -106442,12 +106792,16 @@ msgctxt "489409"
 msgid "Target a God."
 msgstr ""
 
+#, fuzzy
 msgctxt "489451"
 msgid ""
 "Exile that token at end of combat. (Whenever CARDNAME attacks, create "
 "Ragavan, a legendary 2/1 red Monkey creature token. Ragavan enters the "
 "battlefield tapped and attacking. Exile that token at end of combat.)"
 msgstr ""
+"Ilekroć CARDNAME atakuje, stwórz przekręcony i atakujący żeton czerwonego "
+"legendarnego stwora Małpa 2/1 o nazwie Ragavan. Wygnaj ów żeton na koniec "
+"potyczki."
 
 msgctxt "489454"
 msgid "Target up to one artifact card."
@@ -106897,9 +107251,10 @@ msgctxt "505708"
 msgid "PromptMessage_Placeholder149"
 msgstr ""
 
+#, fuzzy
 msgctxt "506312"
 msgid "Investigate"
-msgstr ""
+msgstr "Dociekaj"
 
 #~ msgctxt "244385"
 #~ msgid "Choose a target."
