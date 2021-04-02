@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-02 08:42+0000\n"
+"PO-Revision-Date: 2021-04-02 13:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -427,7 +427,6 @@ msgctxt "198"
 msgid "#Deprecated PromptMessage_AcceptedHand"
 msgstr ""
 
-#, fuzzy
 msgctxt "199"
 msgid "Mulligan"
 msgstr "Wymiana"
@@ -1528,15 +1527,13 @@ msgctxt "645"
 msgid "Jace, Cunning Castaway"
 msgstr ""
 
-#, fuzzy
 msgctxt "647"
 msgid "Forest"
-msgstr "Las"
+msgstr ""
 
-#, fuzzy
 msgctxt "648"
 msgid "Plains"
-msgstr "Równina"
+msgstr ""
 
 msgctxt "650"
 msgid ""
@@ -1546,15 +1543,13 @@ msgstr ""
 "–5: Stwórz dwa żetony będące kopią CARDNAME z wyjątkiem tego, że nie są "
 "legendarne."
 
-#, fuzzy
 msgctxt "652"
 msgid "Island"
-msgstr "Wyspa"
+msgstr ""
 
-#, fuzzy
 msgctxt "653"
 msgid "Swamp"
-msgstr "Bagno"
+msgstr ""
 
 msgctxt "655"
 msgid ""
@@ -2062,14 +2057,13 @@ msgid ""
 "themselves against towers of horn and muscle a hundred times their size."
 msgstr ""
 
-#, fuzzy
 msgctxt "914"
 msgid ""
 "When CARDNAME enters the battlefield, target Merfolk you control gains "
 "hexproof until end of turn."
 msgstr ""
-"Kiedy CARDNAME wejdzie na pole walki, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+1."
+"Kiedy CARDNAME wejdzie na pole bitwy, wskazany Wodnik pod twoim władaniem "
+"zyskuje do końca tury antyklątwę."
 
 msgctxt "919"
 msgid "Equipment"
@@ -2296,19 +2290,17 @@ msgctxt "1035"
 msgid "Drover of the Mighty"
 msgstr ""
 
-#, fuzzy
 msgctxt "1038"
 msgid "CARDNAME gets +2/+2 as long as you control a Dinosaur."
-msgstr "CARDNAME dostaje +1/+1 o ile władasz artefaktem."
+msgstr "CARDNAME dostaje +2/+2 o ile władasz Dinozaurem."
 
 msgctxt "1041"
 msgid "\"By accepting my smallness I am vast.\""
 msgstr ""
 
-#, fuzzy
 msgctxt "1044"
 msgid "Whenever CARDNAME deals combat damage to a player, it explores."
-msgstr "Ilekroć CARDNAME zada graczowi obrażenia bojowe, dobierz kartę."
+msgstr "Ilekroć CARDNAME zada graczowi obrażenia bojowe, eksploruje."
 
 msgctxt "1046"
 msgid "Specter"
