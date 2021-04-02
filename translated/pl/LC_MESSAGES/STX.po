@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 10:39+0200\n"
-"PO-Revision-Date: 2021-04-01 19:01+0000\n"
+"PO-Revision-Date: 2021-04-02 12:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -84,17 +84,13 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:25
-#, fuzzy
-#| msgid ""
-#| "Exile target artifact or creature. Its controller creates a 4/4 blue and "
-#| "red Elemental creature token."
 msgid ""
 "Create a 2/1 white and black Inkling creature token with flying, a 3/2 red "
 "and white Spirit creature token, and a 4/4 blue and red Elemental creature "
 "token."
 msgstr ""
-"Wygnaj wskazany artefakt lub stwora. Jego władca tworzy żeton niebiesko-"
-"czerwonego stwora Żywiołak 4/4."
+"Stwórz żeton biało-czarnego stwora Kleks 2/1 z lataniem, żeton czerwono-"
+"białego stwora Duch 3/2 oraz żeton niebiesko-czerwonego stwora Żywiołak 4/4."
 
 #: ../../STX.rst:30
 msgid ""
@@ -222,22 +218,16 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:63
-#, fuzzy
-#| msgid "Destroy all nonland permanents."
 msgid "Enchant nonland permanent"
-msgstr "Zniszcz wszystkie nielądowe permanenty."
+msgstr "Zaurocz nie-lądowy permanent"
 
 #: ../../STX.rst:65
-#, fuzzy
-#| msgid ""
-#| "Choose target nonland permanent. Until your next turn, it can't attack or "
-#| "block, and its activated abilities can't be activated."
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
-"Wskaż nielądowy permanent. Do twojej następnej tury nie może on atakować lub "
-"blokować i nie można aktywować jego aktywowanych zdolności."
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane."
 
 #: ../../STX.rst:67
 msgid ""
@@ -353,17 +343,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:101
-#, fuzzy
-#| msgid ""
-#| "When Quandrix Cultivator enters the battlefield, you may search your "
-#| "library for a basic Forest or Island card, put it onto the battlefield, "
-#| "then shuffle."
 msgid ""
 "When Pilgrim of the Ages enters the battlefield, you may search your library "
 "for a basic Plains card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego Lasu lub Wyspy, ujawnij ją, umieść na polu bitwy, po czym "
+"kartę bazowej Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
 #: ../../STX.rst:103
@@ -421,26 +406,18 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:119
-#, fuzzy
-#| msgid ""
-#| "When you cast your next instant or sorcery spell this turn, copy that "
-#| "spell. You may choose new targets for the copy."
 msgid ""
 "When you cast this spell, copy it for each other instant or sorcery spell "
 "you've cast this turn. You may choose new targets for the copies."
 msgstr ""
-"Kiedy rzucisz w tej turze swój kolejny czar sztuczki lub obrzędu, skopiuj ów "
-"czar. Możesz wskazać nowe cele dla kopii."
+"Kiedy rzucisz ten czar, skopiuj go za każdy inny czar sztuczki i obrzędu "
+"rzucony przez ciebie w tej turze. Możesz wskazać nowe cele dla kopii."
 
 #: ../../STX.rst:121
-#, fuzzy
-#| msgid ""
-#| "Put two +1/+1 counters on target creature. It gains vigilance until end "
-#| "of turn."
 msgid ""
 "Put a +1/+1 counter on target creature. It gains vigilance until end of turn."
 msgstr ""
-"Umieść dwa znaczniki +1/+1 na wskazanym stworze. Do końca tury zyskuje on "
+"Umieść znacznik +1/+1 na wskazanym stworze. Do końca tury zyskuje on "
 "czujność."
 
 #: ../../STX.rst:128
@@ -713,10 +690,8 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:209
-#, fuzzy
-#| msgid "Scry 2, then draw a card."
 msgid "Scry 1, then draw a card."
-msgstr "Wróż 2, po czym dobierz kartę."
+msgstr "Wróż 1, po czym dobierz kartę."
 
 #: ../../STX.rst:214
 msgid ""
@@ -727,19 +702,15 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:213
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target nonland permanent loses all abilities and "
-#| "becomes your choice of a Frog creature with base power and toughness 1/1 "
-#| "or an Octopus creature with base power and toughness 4/4."
 msgid ""
 "Until end of turn, target nonland permanent loses all abilities and becomes "
 "your choice of a blue Frog creature with base power and toughness 1/1 or a "
 "blue Octopus creature with base power and toughness 4/4."
 msgstr ""
 "Do końca tury wskazany nielądowy permanent traci wszystkie zdolności i staje "
-"się według twojego wyboru albo stworem Żaba o bazowej sile i wytrzymałości "
-"1/1, albo stworem Ośmiornica o bazowej sile i wytrzymałości 4/4."
+"się według twojego wyboru albo niebieskim stworem Żaba o bazowej sile i "
+"wytrzymałości 1/1, albo niebieskim stworem Ośmiornica o bazowej sile i "
+"wytrzymałości 4/4."
 
 #: ../../STX.rst:224
 msgid ""
@@ -830,11 +801,8 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:245
-#, fuzzy
-#| msgid "|mana_1|\\ |mana_r|, |tap|: Target creature can't block this turn."
 msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
-msgstr ""
-"|mana_1|\\ |mana_r|, |tap|: Wskazany stwór nie może blokować w tej turze."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../STX.rst:252
 msgid ""
@@ -844,16 +812,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:251
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, "
-#| "creatures you control get +1/+1 until end of turn,"
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, target "
 "creature you control has base power 2 until end of turn."
 msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
-"stwory pod twoim władaniem dostają do końca tury +1/+1."
+"wskazany stwór pod twoim władaniem ma do końca tury bazową siłę 2."
 
 #: ../../STX.rst:256
 msgid ""
@@ -985,16 +949,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:293
-#, fuzzy
-#| msgid ""
-#| "Put two +1/+1 counters on target creature. It gains vigilance until end "
-#| "of turn."
 msgid ""
 "Put two +1/+1 counters on target creature. It gains lifelink until end of "
 "turn."
 msgstr ""
 "Umieść dwa znaczniki +1/+1 na wskazanym stworze. Do końca tury zyskuje on "
-"czujność."
+"więź życia."
 
 #: ../../STX.rst:300
 msgid ""
@@ -1076,24 +1036,17 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:321
-#, fuzzy
-#| msgid ""
-#| "As an additional cost to cast this spell, you may sacrifice any number of "
-#| "creatures. This spell costs |mana_2| less to cast for each creature "
-#| "sacrificed this way."
 msgid ""
 "As an additional cost to cast this spell, you may sacrifice one or more "
 "creatures. If you do, copy this spell for each creature sacrificed this way."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru możesz poświęcić dowolną liczbę "
-"stworów. Rzucenie tego czaru kosztuje o |mana_2| mniej za każdego stwora "
-"poświęconego w ten sposób."
+"Jako dodatkowy koszt rzucenia tego czaru możesz poświęcić jednego lub więcej "
+"stworów. Jeśli tak zrobisz, skopiuj ten czar za każdego stwora poświęconego "
+"w ten sposób."
 
 #: ../../STX.rst:323
-#, fuzzy
-#| msgid "Target player draws a card and loses 1 life."
 msgid "You draw a card and lose 1 life."
-msgstr "Wskazany gracz dobiera kartę i traci 1 życie."
+msgstr "Dobierz kartę i strać 1 życie."
 
 #: ../../STX.rst:334
 msgid ""
@@ -1142,14 +1095,9 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:337
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control with a +1/+1 counter on it dies, draw a "
-#| "card."
 msgid ""
 "When Promising Duskmage dies, if it had a +1/+1 counter on it, draw a card."
-msgstr ""
-"Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, dobierz kartę."
+msgstr "Kiedy umrze ten stwór, jeśli miał znacznik +1/+1, dobierz kartę."
 
 #: ../../STX.rst:344
 msgid ""
@@ -1254,16 +1202,13 @@ msgstr ""
 "Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../STX.rst:371
-#, fuzzy
-#| msgid ""
-#| "Whenever you discard one or more nonland cards, you may exile one of "
-#| "them. If you do, you may cast that card this turn."
 msgid ""
 "Whenever you discard one or more nonland cards, you may exile one of them "
 "from your graveyard. If you do, you may cast that card this turn."
 msgstr ""
 "Ilekroć odrzucisz jedną lub więcej nielądowych kart, możesz wygnać jedną z "
-"nich. Jeśli tak zrobisz, możesz rzucić ową kartę w tej turze."
+"nich z twojego cmentarza. Jeśli tak zrobisz, możesz rzucić ową kartę w tej "
+"turze."
 
 #: ../../STX.rst:376
 msgid ""
@@ -1273,8 +1218,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:375
-#, fuzzy
-#| msgid "Crackle with Power deals five times X damage to up to X targets."
 msgid ""
 "Crackle with Power deals five times X damage to each of up to X targets."
 msgstr ""
@@ -1297,12 +1240,6 @@ msgstr ""
 "lub obrzędu z twojego cmentarza."
 
 #: ../../STX.rst:381
-#, fuzzy
-#| msgid ""
-#| "\"I Have a Dragon and Dragon Says 'No'. Do You Have a Dragon? Didn't "
-#| "Think So\" deals X damage to each non-Dragon creature, where X is the "
-#| "mana value of the exiled card. If a creature dealt damage this way would "
-#| "die this turn, exile it instead."
 msgid ""
 "Draconic Intervention deals X damage to each non-Dragon creature, where X is "
 "the exiled card's mana value. If a creature dealt damage this way would die "
@@ -1441,12 +1378,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:423
-#, fuzzy
-#| msgid "Whenever one or more cards leave your graveyard, scry 1."
 msgid ""
 "Whenever one or more cards leave your graveyard, Fuming Effigy deals 1 "
 "damage to each opponent."
-msgstr "Ilekroć co najmniej jedna karta opuści twój cmentarz, wróż 1."
+msgstr ""
+"Ilekroć co najmniej jedna karta opuści twój cmentarz, ten stwór zadaje "
+"każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../STX.rst:428
 msgid ""
