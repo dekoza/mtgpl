@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-02 13:43+0000\n"
+"PO-Revision-Date: 2021-04-02 22:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -3736,14 +3736,13 @@ msgctxt "1910"
 msgid "Hellion"
 msgstr ""
 
-#, fuzzy
 msgctxt "1911"
 msgid ""
 "Cast up to three face - up cards your opponents own from exile without "
 "paying their mana costs?"
 msgstr ""
-"–7: Możesz rzucić z wygnania co najwyżej trzy odkryte karty będące "
-"własnością przeciwników bez płacenia ich kosztów many."
+"Rzucić z wygnania bez płacenia ich kosztów many co najwyżej trzy odkryte "
+"karty będące własnością przeciwników?"
 
 msgctxt "1914"
 msgid ""
@@ -3851,10 +3850,9 @@ msgctxt "1944"
 msgid "Target a noncreature artifact you control."
 msgstr ""
 
-#, fuzzy
 msgctxt "1945"
 msgid "Target a creature or planeswalker that is black or red."
-msgstr "Wskaż białego lub niebieskiego stwora lub wędrowca."
+msgstr "Wskaż czarnego lub czerwonego stwora lub wędrowca."
 
 msgctxt "1946"
 msgid ""
@@ -4029,10 +4027,9 @@ msgctxt "1992"
 msgid "Tap another untapped Rogue you control."
 msgstr ""
 
-#, fuzzy
 msgctxt "1993"
 msgid "Target a creature or planeswalker that is green or white."
-msgstr "Wskaż białego lub niebieskiego stwora lub wędrowca."
+msgstr "Wskaż zielonego lub białego stwora lub wędrowca."
 
 msgctxt "1994"
 msgid "Eager Construct"
@@ -4245,10 +4242,9 @@ msgctxt "2085"
 msgid "Exile a creature or planeswalker card?"
 msgstr ""
 
-#, fuzzy
 msgctxt "2086"
 msgid "Sacrifice another Serpent."
-msgstr "Poświęcić inny permanent?"
+msgstr "Poświęć innego Wężownika."
 
 msgctxt "2088"
 msgid ""
@@ -4424,10 +4420,9 @@ msgctxt "2267"
 msgid "In dark times, Truth bears a blade."
 msgstr ""
 
-#, fuzzy
 msgctxt "2278"
 msgid "Cancel"
-msgstr "Anuluj"
+msgstr ""
 
 msgctxt "2300"
 msgid "Divination"
@@ -4559,10 +4554,9 @@ msgid ""
 "—Norin the Wary"
 msgstr ""
 
-#, fuzzy
 msgctxt "2378"
 msgid "Serpent"
-msgstr "wężownik"
+msgstr "Wężownik"
 
 msgctxt "2384"
 msgid "Counter target spell unless its controller pays |mana_3|."
@@ -5975,10 +5969,9 @@ msgctxt "5771"
 msgid "Draw two cards?"
 msgstr "Dobrać dwie karty?"
 
-#, fuzzy
 msgctxt "5772"
 msgid "Pay 2 life?"
-msgstr "Zapłać 1 życie."
+msgstr "Zapłacić 2 życia?"
 
 msgctxt "5773"
 msgid "Return target artifact card from your graveyard to the battlefield?"
@@ -6979,10 +6972,9 @@ msgid ""
 "sinister new power."
 msgstr ""
 
-#, fuzzy
 msgctxt "11605"
 msgid "Snow-Covered Island"
-msgstr "Snow-Covered Island"
+msgstr ""
 
 msgctxt "11612"
 msgid "Gristle Grinner"
@@ -7003,10 +6995,9 @@ msgctxt "11718"
 msgid "Wolverine"
 msgstr ""
 
-#, fuzzy
 msgctxt "11744"
 msgid "Snow-Covered Forest"
-msgstr "Zaśnieżony Las"
+msgstr ""
 
 msgctxt "11780"
 msgid "|mana_r|: This creature gets +1/+0 until end of turn."
@@ -7033,10 +7024,9 @@ msgid ""
 "snow's edge had reached their infested city-tomb."
 msgstr ""
 
-#, fuzzy
 msgctxt "11836"
 msgid "Snow-Covered Mountain"
-msgstr "Zaśnieżona Góra"
+msgstr ""
 
 msgctxt "11841"
 msgid "Ronom Unicorn"
@@ -7052,15 +7042,13 @@ msgid ""
 "wastes to do battle once again."
 msgstr ""
 
-#, fuzzy
 msgctxt "11880"
 msgid "Snow-Covered Swamp"
-msgstr "Zaśnieżone Bagno"
+msgstr ""
 
-#, fuzzy
 msgctxt "11908"
 msgid "Snow-Covered Plains"
-msgstr "Zaśnieżona Równina"
+msgstr ""
 
 msgctxt "11935"
 msgid "Destroy target creature with power 2 or less."
@@ -8522,10 +8510,10 @@ msgctxt "24772"
 msgid "Exile target card from a graveyard?"
 msgstr "Wygnać wskazaną kartę z cmentarza?"
 
-#, fuzzy
 msgctxt "24775"
 msgid "Distribute counters among one, two, or three target creatures."
-msgstr "Rozmieść znaczniki pomiędzy jednym lub dwoma wskazanymi stworami."
+msgstr ""
+"Rozmieść znaczniki pomiędzy jednym, dwoma lub trzema wskazanymi stworami."
 
 msgctxt "24801"
 msgid "Zendikar"
@@ -8886,7 +8874,6 @@ msgctxt "28000"
 msgid "Iquatana"
 msgstr ""
 
-#, fuzzy
 msgctxt "28010"
 msgid "Kaldheim"
 msgstr "Kaldheim"
@@ -8977,10 +8964,9 @@ msgctxt "28217"
 msgid "Mongseng"
 msgstr ""
 
-#, fuzzy
 msgctxt "28221"
 msgid "New"
-msgstr "Nowa"
+msgstr ""
 
 msgctxt "28225"
 msgid "Innistrad"
@@ -10238,10 +10224,9 @@ msgctxt "40041"
 msgid "Whenever another nontoken creature dies, you may draw a card."
 msgstr "Ilekroć umrze inny nieżetonowy stwór, możesz dobrać kartę."
 
-#, fuzzy
 msgctxt "40049"
 msgid "Ghostform"
-msgstr "zjawa"
+msgstr "Zjawa"
 
 msgctxt "40067"
 msgid ""
@@ -12143,10 +12128,9 @@ msgctxt "46835"
 msgid "Destroy target artifact, enchantment, or creature with flying."
 msgstr "Zniszcz wskazany artefakt, urok lub stwora z lataniem."
 
-#, fuzzy
 msgctxt "46929"
 msgid "Exile target creature card from a graveyard?"
-msgstr "|tap|: Wygnaj wskazaną kartę stwora z cmentarza."
+msgstr "Wygnać wskazaną kartę stwora z cmentarza?"
 
 msgctxt "46976"
 msgid "Glaring Aegis"
@@ -15607,10 +15591,9 @@ msgid ""
 "Whenever CARDNAME attacks, exile the top card of your library face down."
 msgstr ""
 
-#, fuzzy
 msgctxt "56022"
 msgid "When CARDNAME enters the battlefield, each player may scry 1."
-msgstr "Kiedy CARDNAME wejdzie na pole bitwy, każdy gracz odrzuca kartę."
+msgstr "Kiedy CARDNAME wejdzie na pole bitwy, każdy gracz może wróżyć 1."
 
 msgctxt "56024"
 msgid ""
@@ -15772,14 +15755,13 @@ msgctxt "57189"
 msgid "When CARDNAME enters the battlefield, you gain 7 life."
 msgstr "Kiedy CARDNAME wejdzie na pole bitwy, zyskaj 7 żyć."
 
-#, fuzzy
 msgctxt "57236"
 msgid ""
 "When CARDNAME enters the battlefield, create three 1/1 red Goblin creature "
 "tokens."
 msgstr ""
-"Kiedy CARDNAME wejdzie na pole walki, stwórz dwa żetony czarnego stwora "
-"Zombi 2/2."
+"Kiedy CARDNAME wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
+"Goblin 1/1."
 
 msgctxt "57339"
 msgid ""
@@ -15925,10 +15907,9 @@ msgctxt "58106"
 msgid "Charge"
 msgstr ""
 
-#, fuzzy
 msgctxt "58107"
 msgid "Control"
-msgstr "władanie"
+msgstr ""
 
 msgctxt "58108"
 msgid "Corpse"
@@ -16190,10 +16171,9 @@ msgctxt "58172"
 msgid "Strife"
 msgstr ""
 
-#, fuzzy
 msgctxt "58173"
 msgid "Study"
-msgstr "nauka"
+msgstr "Nauki"
 
 msgctxt "58174"
 msgid "Theft"
@@ -16299,10 +16279,9 @@ msgctxt "58199"
 msgid "Velocity"
 msgstr ""
 
-#, fuzzy
 msgctxt "58230"
 msgid "Search for a creature card."
-msgstr "Wyszukaj kartę Runy."
+msgstr "Wyszukaj kartę stwora."
 
 msgctxt "58276"
 msgid ""
@@ -17342,10 +17321,9 @@ msgctxt "76445"
 msgid "Labyrinth Guardian"
 msgstr ""
 
-#, fuzzy
 msgctxt "76446"
 msgid "When CARDNAME becomes the target of a spell, sacrifice it."
-msgstr "Kiedy CARDNAME zostanie wskazany przez czar lub zdolności, poświęć go."
+msgstr "Kiedy CARDNAME zostanie wskazany przez czar, poświęć go."
 
 msgctxt "76447"
 msgid "Embalm |mana_3|\\ |mana_u|"
@@ -17686,13 +17664,12 @@ msgctxt "76540"
 msgid "It feeds on dry bones in the sand and desperate pleas in the wind."
 msgstr ""
 
-#, fuzzy
 msgctxt "76541"
 msgid ""
 "Whenever you cycle or discard another card, CARDNAME gets +2/+1 until end of "
 "turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, CARDNAME dostaje do końca tury +1/"
+"Ilekroć zrecyklujesz lub odrzucisz kartę, CARDNAME dostaje do końca tury +2/"
 "+1."
 
 msgctxt "76545"
