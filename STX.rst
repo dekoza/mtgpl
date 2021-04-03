@@ -97,10 +97,16 @@
    |mana_0|: You may cast target instant or sorcery card from your graveyard this turn. If that spell doesn't target a creature you control, it costs |mana_8| more to cast this way. If that spell would be put into your graveyard, exile it instead. Activate only once each turn. (You still pay the spell's costs. Timing rules for the spell still apply.)
 
 
-:mtgtip:`Pilgrim of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c86714f5-e909-413f-8eb6-99dbea4d1897.jpg?1617313900|https://scryfall.com/card/stx/22/pilgrim-of-the-ages?utm_source=api>`
+:mtgtip:`Pilgrim of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c86714f5-e909-413f-8eb6-99dbea4d1897.jpg?1617410647|https://scryfall.com/card/stx/22/pilgrim-of-the-ages?utm_source=api>`
    When Pilgrim of the Ages enters the battlefield, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
 
    |mana_6|: Return Pilgrim of the Ages from your graveyard to your hand.
+
+
+:mtgtip:`Pillardrop Rescuer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0884666e-8f9b-44b1-a1e3-c1c8941e2152.jpg?1617407989|https://scryfall.com/card/stx/23/pillardrop-rescuer?utm_source=api>`
+   Flying
+
+   When Pillardrop Rescuer enters the battlefield, return target creature card with mana value 3 or less from your graveyard to your hand.
 
 
 :mtgtip:`Professor of Symbology<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57.jpg?1616695655|https://scryfall.com/card/stx/24/professor-of-symbology?utm_source=api>`
@@ -183,12 +189,12 @@
    Draw a card.
 
 
-:mtgtip:`"Library Strix"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31d82f7a-64f1-463f-bb6b-936c3e49bf2b.jpg?1617252999|https://scryfall.com/card/stx/42/library-strix?utm_source=api>`
+:mtgtip:`Dream Strix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31d82f7a-64f1-463f-bb6b-936c3e49bf2b.jpg?1617407210|https://scryfall.com/card/stx/42/dream-strix?utm_source=api>`
    Flying
 
-   When "Library Strix" becomes the target of a spell, sacrifice it.
+   When Dream Strix becomes the target of a spell, sacrifice it.
 
-   When "Library Strix" dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+   When Dream Strix dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 
 
 :mtgtip:`Frost Trickster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd79c9cc-0a8c-4d88-96e2-cb177134a18d.jpg?1617143952|https://scryfall.com/card/stx/43/frost-trickster?utm_source=api>`
@@ -229,6 +235,10 @@
    Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 
 
+:mtgtip:`Reject<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d77f0731-fb40-4dc2-8530-afcb5ce1f27f.jpg?1617408875|https://scryfall.com/card/stx/50/reject?utm_source=api>`
+   Counter target creature or planeswalker spell unless its controller pays |mana_3|. If that spell is countered this way, exile it instead of putting into its owner's graveyard.
+
+
 :mtgtip:`Resculpt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1617137904|https://scryfall.com/card/stx/51/resculpt?utm_source=api>`
    Exile target artifact or creature. Its controller creates a 4/4 blue and red Elemental creature token.
 
@@ -255,6 +265,10 @@
    If an opponent has more cards in hand than you, draw two cards. Draw three cards instead if an opponent has at least four more cards in hand than you.
 
 
+:mtgtip:`Tempted by the Oriq<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c23e64f9-531e-4735-9960-b0a76b32c340.jpg?1617408592|https://scryfall.com/card/stx/58/tempted-by-the-oriq?utm_source=api>`
+   For each opponent, gain control of up to one target creature or planeswalker that player controls with mana value 3 or less.
+
+
 :mtgtip:`"Superior Talents"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e2b6236-b40c-430c-98b0-7940b942657a.jpg?1617253367|https://scryfall.com/card/stx/59/superior-talents?utm_source=api>`
    Counter target instant or sorcery spell. Search its controller's graveyard, hand, and/or library for any number of cards with the same name as that spell and exile them. That spell's controller shuffles, then they draw a card for each card exiled from their hand this way.
 
@@ -275,6 +289,20 @@
    If the |mana_1|\ |mana_b| cost was paid, an opponent draws a card.
 
    Exile target creature or planeswalker.
+
+
+:mtgtip:`Blrackish Trudge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90ba37ee-159f-421f-8d37-a7b5f1b562f0.jpg?1617408790|https://scryfall.com/card/stx/65/blrackish-trudge?utm_source=api>`
+   Blrackish Trudge enters the battlefield tapped.
+
+   |mana_1|\ |mana_b|: Return Blrackish Trudge from your graveyard to your hand. Activate only if you gained life this turn.
+
+
+:mtgtip:`Segemoor Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e900c1eb-968b-4046-b824-c167a7a5b682.jpg?1617406337|https://scryfall.com/card/stx/66/segemoor-witch?utm_source=api>`
+   Menance
+
+   Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 1/1 black and green Pest creature token with "Whenever this creature dies, you gain 1 life."
 
 
 :mtgtip:`Confront the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1951763-be97-400c-aa95-6b101f47bddf.jpg?1616839280|https://scryfall.com/card/stx/67/confront-the-past?utm_source=api>`
@@ -303,8 +331,24 @@
    Target player discards two cards. Then exile all cards from that player's graveyard.
 
 
+:mtgtip:`Hunt for Specimens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8ff0f47f-75cb-42b0-ba4d-78522cad9861.jpg?1617406063|https://scryfall.com/card/stx/73/hunt-for-specimens?utm_source=api>`
+   Create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+   Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
+:mtgtip:`Lash of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af3da2c6-29ed-4563-8bae-d1cc05df8897.jpg?1617409903|https://scryfall.com/card/stx/74/lash-of-malice?utm_source=api>`
+   Target creature gets +2/-2 until end of turn.
+
+
 :mtgtip:`Mage Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56fcbe4a-2d98-4fa9-a6c3-e28255171a4d.jpg?1617134037|https://scryfall.com/card/stx/76/mage-hunter?utm_source=api>`
    Whenever an opponent casts or copies an instant or sorcery spell, they lose 1 life.
+
+
+:mtgtip:`Mage Hunter's Onslaught<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed85140f-f0e0-4ac1-a67f-26d17ff95e31.jpg?1617409487|https://scryfall.com/card/stx/77/mage-hunters-onslaught?utm_source=api>`
+   Destroy target creature or planeswalker.
+
+   Whenever a creature blocks this turn, its controller loses 1 life.
 
 
 :mtgtip:`Necrotic Fumes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e1b68a4-fb8d-4b59-b049-73505296f775.jpg?1617333670|https://scryfall.com/card/stx/78/necrotic-fumes?utm_source=api>`
@@ -317,10 +361,18 @@
    |mana_1|, Sacrifice another creature: Put a +1/+1 counter on target creature. Activate only as a sorcery.
 
 
-:mtgtip:`"Into the Unknown Chatroom"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/5034227f-3b8a-45bf-917c-c2cbd98f2192.jpg?1617334407|https://scryfall.com/card/stx/81/into-the-unknown-chatroom?utm_source=api>`
-   As an additional cost to cast this spell, you may sacrifice one or more creatures. If you do, copy this spell for each creature sacrificed this way.
+:mtgtip:`Plumb the Forgotten<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/5034227f-3b8a-45bf-917c-c2cbd98f2192.jpg?1617406703|https://scryfall.com/card/stx/81/plumb-the-forgotten?utm_source=api>`
+   As an additional cost to cast this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.
 
-   You draw a card and lose 1 life.
+   You draw a card and you lose 1 life.
+
+
+:mtgtip:`Poet's Quill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7006f43-0b10-4693-b06f-e7cf86ab4129.jpg?1617407831|https://scryfall.com/card/stx/82/poets-quill?utm_source=api>`
+   When Poet's Quill enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+   Equipped creature gets +1/+1 and has lifelink.
+
+   Equip |mana_1|\ |mana_b|
 
 
 :mtgtip:`Professor Onyx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/013eeb99-1b66-4fba-ad96-78deee901ea4.jpg?1616430491|https://scryfall.com/card/stx/83/professor-onyx?utm_source=api>`
@@ -333,8 +385,26 @@
    −8: Each opponent may discard a card. If they don't, they lose 3 life. Repeat this process six more times.
 
 
+:mtgtip:`Professor's Warning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/862fded6-e474-4b20-86d8-fd9af5f25b1a.jpg?1617406648|https://scryfall.com/card/stx/84/professors-warning?utm_source=api>`
+   Choose one —
+
+   • Put a +1/+1 counter on target creature.
+
+   • Target creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+
+
 :mtgtip:`Promising Duskmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ea0dff9-71c3-4d56-aa7b-e0fb9938529a.jpg?1617316703|https://scryfall.com/card/stx/85/promising-duskmage?utm_source=api>`
    When Promising Duskmage dies, if it had a +1/+1 counter on it, draw a card.
+
+
+:mtgtip:`Callous Bloodmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81358736-65cf-44d8-819e-d0268d14cc76.jpg?1617407728|https://scryfall.com/card/stx/86/callous-bloodmage?utm_source=api>`
+   When Callous Bloodmage enters the battlefield, choose one —
+
+   • Create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+   • You draw a card and you lose 1 life.
+
+   • Exile target player's graveyard.
 
 
 :mtgtip:`Tenured Inkcaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92eba33e-efea-4e58-a832-1c6049fb211f.jpg?1617219537|https://scryfall.com/card/stx/88/tenured-inkcaster?utm_source=api>`
@@ -349,6 +419,12 @@
    • Target player sacrifices a creature or planeswalker.
 
    • Create a 2/1 white and black Inkling creature token with flying.
+
+
+:mtgtip:`Unwilling Ingredient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30448144-639a-43c7-a408-bd6ed543c231.jpg?1617406816|https://scryfall.com/card/stx/90/unwilling-ingredient?utm_source=api>`
+   Menace (This creature can't be blocked except by two or more creatures.)
+
+   |mana_2|\ |mana_b|, Exile Unwilling Ingredient from your graveyard: You draw a card and you lose 1 life.
 
 
 :mtgtip:`"Academic Debate"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4620cc3b-e401-4096-b310-fed080806344.jpg?1617150556|https://scryfall.com/card/stx/91/academic-debate?utm_source=api>`
@@ -459,6 +535,16 @@
    Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.
 
 
+:mtgtip:`Pigment Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d285a7a1-bb7e-4a78-a49f-c2add62b829a.jpg?1617406896|https://scryfall.com/card/stx/111/pigment-storm?utm_source=api>`
+   Pigment Storm deals 5 damage to target creature. Excess damage is dealt to that creature's controller instead.
+
+
+:mtgtip:`Pillardrop Warden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d509f73-cd62-4116-9652-0ed801ed8b36.jpg?1617405206|https://scryfall.com/card/stx/112/pillardrop-warden?utm_source=api>`
+   Reach
+
+   |mana_2|, |tap|, Sacrifice Pillardrop Warden: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.
+
+
 :mtgtip:`Retriever Phoenix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dd6cb53-3c82-4ac3-be1e-311322729198.jpg?1617333494|https://scryfall.com/card/stx/113/retriever-phoenix?utm_source=api>`
    Flying, haste
 
@@ -493,6 +579,10 @@
    |tap|, Exile an instant or sorcery card from your graveyard: Put a +1/+1 counter on Time Shredder.
 
 
+:mtgtip:`Twinscroll Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87193af5-4b6b-48d0-9b75-8171bb1d6e53.jpg?1617409665|https://scryfall.com/card/stx/118/twinscroll-shaman?utm_source=api>`
+   Double strike
+
+
 :mtgtip:`Accomplished Alchemist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d7b7830-b65e-4c53-98e8-152026764e4b.jpg?1617223718|https://scryfall.com/card/stx/119/accomplished-alchemist?utm_source=api>`
    |tap|: Add one mana of any color.
 
@@ -501,6 +591,14 @@
 
 :mtgtip:`Basic Conjuration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8be52d88-f430-4437-a0d3-590c2947c838.jpg?1617309151|https://scryfall.com/card/stx/120/basic-conjuration?utm_source=api>`
    Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. You gain 3 life.
+
+
+:mtgtip:`"Bayou Snapper"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a82b032-b1ba-456c-abab-c0f7430b0587.jpg?1617403728|https://scryfall.com/card/stx/121/bayou-snapper?utm_source=api>`
+   As an additional cost to cast this spell, sacrifice a creature or pay |mana_3|.
+
+
+:mtgtip:`"Big Play"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9016d667-50a9-4093-9a99-b34dcdafe60b.jpg?1617403794|https://scryfall.com/card/stx/122/big-play?utm_source=api>`
+   Target creature gets +2/+2 until end of turn. Put a +1/+1 counter on it.
 
 
 :mtgtip:`Bookwurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57d230fc-d382-40b4-bdbd-5fe880fa16bf.jpg?1617314124|https://scryfall.com/card/stx/123/bookwurm?utm_source=api>`
@@ -517,6 +615,14 @@
    Draw a card.
 
 
+:mtgtip:`Containment Breach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dcca120-b72e-4007-98e1-cb22e7b9a705.jpg?1617404753|https://scryfall.com/card/stx/125/containment-breach?utm_source=api>`
+   Destroy target artifact or enchantment. If its mana value is 2 or less, create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+
+:mtgtip:`"Hungry Tentacles"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7444555-da19-4d2d-ad81-233c54fbb78e.jpg?1617403897|https://scryfall.com/card/stx/126/hungry-tentacles?utm_source=api>`
+   Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. When that permanent dies this turn, you gain 2 life.
+
+
 :mtgtip:`Dragonsguard Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/658ec634-3eb2-4967-b938-d20d31ab77e3.jpg?1616692835|https://scryfall.com/card/stx/127/dragonsguard-elite?utm_source=api>`
    Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Dragonsguard Elite.
 
@@ -531,7 +637,7 @@
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. That land becomes a 0/0 green and blue Fractal creature that's still a land. Put a +1/+1 counter on it for each land you had enter the battlefield under your control this turn.
 
 
-:mtgtip:`Exponential Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c129bb7-9489-44bd-a46d-c5f738bf9d25.jpg?1617350021|https://scryfall.com/card/stx/130/exponential-growth?utm_source=api>`
+:mtgtip:`Exponential Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c129bb7-9489-44bd-a46d-c5f738bf9d25.jpg?1617407051|https://scryfall.com/card/stx/130/exponential-growth?utm_source=api>`
    Until end of turn, double target creature's power X times.
 
 
@@ -559,10 +665,54 @@
    Create a 0/0 blue and green Fractal creature token. Put X +1/+1 counters on it, where X is the number of lands you control.
 
 
+:mtgtip:`Mage Duel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92325638-0321-4409-8910-2287c64c182e.jpg?1617408951|https://scryfall.com/card/stx/137/mage-duel?utm_source=api>`
+   This spell costs |mana_2| less to cast if you've cast another instant or sorcery spell this turn.
+
+   Target creature you control gets +1/+2 until end of turn. Then it fights target creature you don't control. (Each deals damage equal to its power to the other.)
+
+
 :mtgtip:`Master Symmetrist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/255cdc39-6ad8-4831-9718-6712cb17654c.jpg?1617232641|https://scryfall.com/card/stx/138/master-symmetrist?utm_source=api>`
    Reach
 
    Whenever a creature you control with power equal to its toughness attacks, it gains trample until end of turn.
+
+
+:mtgtip:`Overgrown Arch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a71dddf5-8f72-4018-9cc8-5f63a17f1ee5.jpg?1617404527|https://scryfall.com/card/stx/139/overgrown-arch?utm_source=api>`
+   Defender
+
+   |tap|: You gain 1 life.
+
+   |mana_2|, Sacrificie Overgrown Arch: Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
+:mtgtip:`Professor of Zoomancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8347f2e8-ef70-4879-860a-12f7cab25902.jpg?1617405891|https://scryfall.com/card/stx/140/professor-of-zoomancy?utm_source=api>`
+   When Professor of Zoomancy enters the battlefield, create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+
+:mtgtip:`Reckless Amplimancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc8072b1-6080-45cd-b1c7-353b54a55931.jpg?1617409044|https://scryfall.com/card/stx/141/reckless-amplimancer?utm_source=api>`
+   |mana_4|\ |mana_g|: Double Reckless Amplimancer's power and toughness until end of turn.
+
+
+:mtgtip:`Scurrid Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9c0a096-870d-443c-92d3-f7ec1f362616.jpg?1617407920|https://scryfall.com/card/stx/142/scurrid-colony?utm_source=api>`
+   Reach
+
+   Scurrid Colony gets +2/+2 as long as you control eight or more lands.
+
+
+:mtgtip:`Spined Karok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c37ae6b5-225a-410e-ab22-13e923bdfb65.jpg?1617408424|https://scryfall.com/card/stx/143/spined-karok?utm_source=api>`
+   
+
+
+:mtgtip:`Springmane Cervin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5b0eac4-0262-4eed-97d4-0f2e6f06c8e1.jpg?1617409127|https://scryfall.com/card/stx/144/springmane-cervin?utm_source=api>`
+   When Springmane Cervin enters the battlefield, you gain 2 life.
+
+
+:mtgtip:`Tangletrap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80fbf729-00c0-4237-8294-c857f96364d3.jpg?1617409602|https://scryfall.com/card/stx/145/tangletrap?utm_source=api>`
+   Choose one —
+
+   • Tangletrap deals 5 damage to target creature with flying.
+
+   • Destroy target artifact.
 
 
 :mtgtip:`Verdant Mastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/197455e5-7929-47b8-ad00-8d3918949eb7.jpg?1617146900|https://scryfall.com/card/stx/146/verdant-mastery?utm_source=api>`
@@ -579,6 +729,16 @@
 
 :mtgtip:`Echoing Equation<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1617224369|https://scryfall.com/card/stx/147/augmenter-pugilist-echoing-equation?utm_source=api>`
    Choose target creature you control. Each other creature you control becomes a copy of it until end of turn, except those creatures aren't legendary if the chosen creature is legendary.
+
+
+:mtgtip:`Blex, Vexing Pest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1617407388|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
+   Other Pests, Bats, Insects, Snakes, and Spiders you control get +1/+1.
+
+   When Blex, Vexing Pest dies, you gain 4 life.
+
+
+:mtgtip:`Search for Blex<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1617407388|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
+   Look at the top five cards of your library. You may put any number of them into your hand and the rest into your graveyard. You lose 3 life for each card put into your hand this way.
 
 
 :mtgtip:`Extus, Oriq Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba09360a-067e-48a5-bdc5-a19fd066a785.jpg?1617150102|https://scryfall.com/card/stx/149/extus-oriq-overlord-awaken-the-blood-avatar?utm_source=api>`
@@ -605,6 +765,16 @@
    Exile Revel in Silence.
 
 
+:mtgtip:`Jadzi, Oracle of Arcavios<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7148d24-373e-4485-860b-c3429c2337f2.jpg?1617408200|https://scryfall.com/card/stx/151/jadzi-oracle-of-arcavios-journey-to-the-oracle?utm_source=api>`
+   Discard a card: Return Jadzi, Oracle of Arcavios to its owner's hand.
+
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, reveal the top card of your library. If it's a nonland card, you may cast it by paying |mana_1| rather than paying its mana cost. If it's a land card, put it onto the battlefield.
+
+
+:mtgtip:`Journey to the Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/7/d7148d24-373e-4485-860b-c3429c2337f2.jpg?1617408200|https://scryfall.com/card/stx/151/jadzi-oracle-of-arcavios-journey-to-the-oracle?utm_source=api>`
+   You may put any number of land cards from your hand onto the battlefield. Then if you control eight or more lands, you may discard a card. If you do, return Journey to the Oracle to it owner's hand.
+
+
 :mtgtip:`Kianne, Dean of Substance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1617148772|https://scryfall.com/card/stx/152/kianne-dean-of-substance-imbraham-dean-of-theory?utm_source=api>`
    |tap|: Exile the top card of your library. If it's a land card, put it into your hand. Otherwise, put a study counter on it.
 
@@ -629,6 +799,20 @@
    −2: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of your next upkeep.
 
    −7: You get an emblem with "Whenever a creature enters the battlefield under your control, it deals damage equal to its power to any target."
+
+
+:mtgtip:`"Pestilent Cauldron"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1617404458|https://scryfall.com/card/stx/154/pestilent-cauldron-restorative-spell?utm_source=api>`
+   |tap|, Discard a card: Create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+   |mana_1|, |tap|: Each opponent mills X cards, where X is the amount of life you gained this turn.
+
+   |mana_4|, |tap|: Exile four target cards from a graveyard. Draw a card.
+
+
+:mtgtip:`"Restorative Spell"<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1617404458|https://scryfall.com/card/stx/154/pestilent-cauldron-restorative-spell?utm_source=api>`
+   Return up to two target creature, land, and/or planeswalker cards from your graveyard to your hand. Each player gains 4 life.
+
+   Exile "Restorative Spell".
 
 
 :mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1616839421|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
@@ -663,11 +847,11 @@
    −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental Creature token.
 
 
-:mtgtip:`Selfless Glyphweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617374891|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
+:mtgtip:`Selfless Glyphweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617400731|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
    Exile Selfless Glyphweaver: Creatures you control gain indestructible until end of turn.
 
 
-:mtgtip:`Deadly Vanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617374891|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
+:mtgtip:`Deadly Vanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617400731|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
    Choose a creature or planeswalker, then destroy all other creatures and planeswalkers.
 
 
@@ -717,12 +901,26 @@
    Return target permanent to its owner's hand. Return target permanent card from your graveyard to your hand.
 
 
+:mtgtip:`Beledros Witherbloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93f786a2-a7b7-4f9e-92e8-9a6a11efe290.jpg?1617407612|https://scryfall.com/card/stx/163/beledros-witherbloom?utm_source=api>`
+   Flying
+
+   At the beginning of each upkeep, create a 1/1 black and green Pest creature token with "When this creature dies, you gain 1 life."
+
+   Pay 10 life: Untap all lands you control. Activate only once each turn.
+
+
 :mtgtip:`Biomathematician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b41a35ef-dae1-4534-a12a-d3951b285273.jpg?1617225835|https://scryfall.com/card/stx/164/biomathematician?utm_source=api>`
    When Biomathematician enters the battlefield, create a 0/0 green and blue Fractal creature token. Put a +1/+1 counter on each Fractal you control.
 
 
 :mtgtip:`Blade Historian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a46d64ec-aca4-428e-bce6-66cd755c8cc3.jpg?1617071363|https://scryfall.com/card/stx/165/blade-historian?utm_source=api>`
    Attacking creatures you control have double strike.
+
+
+:mtgtip:`"Blood Sommelier"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e35e9ba-a10e-4926-a7a6-3a65efc2a730.jpg?1617404207|https://scryfall.com/card/stx/166/blood-sommelier?utm_source=api>`
+   Menace (This creature can't be blocked except by two or more creatures.)
+
+   Whenever you gain life, put a +1/+1 counter on.
 
 
 :mtgtip:`Blot Out the Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1617317506|https://scryfall.com/card/stx/167/blot-out-the-sky?utm_source=api>`
@@ -739,6 +937,12 @@
    Destroy target creature or planeswalker you don't control. Put a +1/+1 counter on up to one target creature you control.
 
 
+:mtgtip:`"Cram Session"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.jpg?1617410496|https://scryfall.com/card/stx/170/cram-session?utm_source=api>`
+   You gain 4 life.
+
+   Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+
+
 :mtgtip:`Creative Outburst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eab58d87-bf01-45dc-8958-e2b3375f914b.jpg?1617225886|https://scryfall.com/card/stx/171/creative-outburst?utm_source=api>`
    Creative Outburst deals 5 damage to any target. Look at the top five cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
 
@@ -749,12 +953,28 @@
    Exile the top X cards of your library. For each land card exiled this way, create a Treasure token. For each blue card exiled this way, draw a card. For each red card exiled this way, Culmination of Studies deals 1 damage to each opponent.
 
 
+:mtgtip:`Daemogoth Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2f18828-ade7-4b99-97b2-e34bc2fdb68c.jpg?1617405129|https://scryfall.com/card/stx/174/daemogoth-titan?utm_source=api>`
+   Whenever Daemogoth Titan attacks or blocks, sacrifice a creature.
+
+
+:mtgtip:`"Daemogoth Anguish-Eater"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c965cbe3-50e5-41bb-bdb9-e65d97aab716.jpg?1617404112|https://scryfall.com/card/stx/175/daemogoth-anguish-eater?utm_source=api>`
+   At the beginning of your upkeep, sacrifice a creature.
+
+   When you sacrifice "Daemogoth Anguish-Eater", each opponent discards a card and you draw a card and gain 2 life.
+
+
 :mtgtip:`Decisive Denial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2e9d132-95f7-4ee7-9c91-be19e4ad7a5d.jpg?1617312719|https://scryfall.com/card/stx/177/decisive-denial?utm_source=api>`
    Choose one —
 
    • Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
    • Counter target noncreature spell unless its controller pays |mana_3|.
+
+
+:mtgtip:`Dina, Soul Steeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cd2b567-0cf7-4441-b3ce-e31141dd91c8.jpg?1617406249|https://scryfall.com/card/stx/178/dina-soul-steeper?utm_source=api>`
+   Whenever you gain life, each opponent loses 1 life.
+
+   |mana_1|, Sacrifice another creature: Dina, Soul Steeper gets +X/+0 until end of turn, where X is the sacrificed creature's power.
 
 
 :mtgtip:`Double Major<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3d35413-8742-4443-8859-93c91112978d.jpg?1617312416|https://scryfall.com/card/stx/179/double-major?utm_source=api>`
@@ -809,6 +1029,12 @@
    Draw a card for each different power among creatures you control.
 
 
+:mtgtip:`Harness Infinity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f74120ce-9f11-449f-bb72-04fe2a27a9f6.jpg?1617407011|https://scryfall.com/card/stx/191/harness-infinity?utm_source=api>`
+   Exchange your hand and graveyard.
+
+   Exile Harness Infinity.
+
+
 :mtgtip:`Hofri Ghostforge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd8deecf-eded-418b-ac4c-5c3e8f54e86d.jpg?1617071946|https://scryfall.com/card/stx/192/hofri-ghostforge?utm_source=api>`
    Spirits you control get +1/+1 and have trample and haste.
 
@@ -817,6 +1043,12 @@
 
 :mtgtip:`Humiliate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc3ae8cb-fbdb-45a8-83c2-cbf4aff01f90.jpg?1617317580|https://scryfall.com/card/stx/193/humiliate?utm_source=api>`
    Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Put a +1/+1 counter on a creature you control.
+
+
+:mtgtip:`Infuse with Vitality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/840600a9-3e78-48a6-b75b-860446b82c1b.jpg?1617407528|https://scryfall.com/card/stx/194/infuse-with-vitality?utm_source=api>`
+   Until end of turn, target creature gains deathtouch and "When this creature dies, return it to the battlefield tapped under its owner's control."
+
+   You gain 2 life.
 
 
 :mtgtip:`Inkling Summoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04a8a5b8-9743-4d1a-89e9-61bdf180b2e0.jpg?1617330876|https://scryfall.com/card/stx/195/inkling-summoning?utm_source=api>`
@@ -891,6 +1123,12 @@
 
 :mtgtip:`Moldering Karok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70c2ef30-0db5-4ef5-999c-7ffa48769421.jpg?1617317884|https://scryfall.com/card/stx/206/moldering-karok?utm_source=api>`
    Trample, lifelink
+
+
+:mtgtip:`Mortality Spear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1f39fe7-dc12-49c9-80ac-4135dc1f8f08.jpg?1617409248|https://scryfall.com/card/stx/207/mortality-spear?utm_source=api>`
+   This spell costs |mana_2| less to cast if you gained life this turn.
+
+   Destroy target nonland permanent.
 
 
 :mtgtip:`"Needling Drake"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0cf2c4-723e-46c4-b2aa-4c957177209a.jpg?1617225919|https://scryfall.com/card/stx/208/needling-drake?utm_source=api>`
@@ -1085,6 +1323,12 @@
    When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
 
 
+:mtgtip:`Tend the Pests<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f43ed93-008d-44db-8204-ef2cc3b7cf8a.jpg?1617408685|https://scryfall.com/card/stx/242/tend-the-pests?utm_source=api>`
+   As an additional cost to cast this spell, sacrifice a creature.
+
+   Create X 1/1 black and green Pest creature tokens with "When this creature dies, you gain 1 life," where X is the sacrificed creature's power.
+
+
 :mtgtip:`Thrilling Discovery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bac1f45e-1884-490e-a94f-f7d312f0e229.jpg?1617148861|https://scryfall.com/card/stx/243/thrilling-discovery?utm_source=api>`
    You gain 2 life. Then you may discard two cards. If you do, draw three cards.
 
@@ -1115,6 +1359,10 @@
    • Target opponent loses 2 life and you gain 2 life.
 
 
+:mtgtip:`Witherbloom Pledgemage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6cc6914-2dcb-411d-90a5-01853ff2d5b8.jpg?1617406526|https://scryfall.com/card/stx/249/witherbloom-pledgemage?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, you gain 1 life.
+
+
 :mtgtip:`Zimone, Quandrix Prodigy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ca14c17-dc72-4f68-92f2-14a6c4019f4e.jpg?1617225224|https://scryfall.com/card/stx/250/zimone-quandrix-prodigy?utm_source=api>`
    |mana_1|, |tap|: You may put a land card from your hand onto the battlefield tapped.
 
@@ -1137,6 +1385,12 @@
    |mana_2|, |tap|: Put target card from a graveyard on the bottom of its owner's library.
 
 
+:mtgtip:`Excavated Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fed54d00-b11f-4529-864c-63a114617b36.jpg?1617407124|https://scryfall.com/card/stx/255/excavated-wall?utm_source=api>`
+   Defender
+
+   |mana_1|, |tap|: Mill a card. (Put the top card of your library into your graveyard.)
+
+
 :mtgtip:`Letter of Acceptance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34750231-34aa-401c-b192-47b56588923a.jpg?1617224460|https://scryfall.com/card/stx/256/letter-of-acceptance?utm_source=api>`
    |tap|: Add one mana of any color.
 
@@ -1145,6 +1399,14 @@
 
 :mtgtip:`"Reflective Hulk"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c01770c4-8848-495d-8af4-26152d45e9d3.jpg?1617223216|https://scryfall.com/card/stx/257/reflective-hulk?utm_source=api>`
    Whenever you cast an instant or sorcery spell that targets only "Reflective Hulk", you may pay |mana_2| to copy that spell. If you do, you may choose new targets for the copy.
+
+
+:mtgtip:`"Magical Jansport"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7de826a0-6e68-4d40-a51c-8d6e7a4148d1.jpg?1617409771|https://scryfall.com/card/stx/258/magical-jansport?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, put a book counter on "Magical Jansport".
+
+   |tap|, Remove a book counter from "Magical Jansport": Add |colorless|.
+
+   |mana_3|, |tap|, Remove three book counters from "Magical Jansport": Draw a card.
 
 
 :mtgtip:`Strixhaven Stadium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/421674ee-4b85-4942-b166-952598165826.jpg?1617225235|https://scryfall.com/card/stx/259/strixhaven-stadium?utm_source=api>`
@@ -1163,6 +1425,14 @@
    Equip |mana_3|
 
 
+:mtgtip:`Zephyr Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d0566fd-3775-48f1-ba22-6e659558c3d3.jpg?1617407188|https://scryfall.com/card/stx/261/zephyr-boots?utm_source=api>`
+   Equipped creature has flying.
+
+   Whenever equipped creature deals combat damage to a player, draw a card, then discard a card.
+
+   Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
+
+
 :mtgtip:`Access Tunnel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edf8eb51-9643-4c54-b38e-e7abea92bbe1.jpg?1617268097|https://scryfall.com/card/stx/262/access-tunnel?utm_source=api>`
    |tap|: Add |colorless|.
 
@@ -1175,6 +1445,12 @@
    When Archway Commons enters the battlefield, sacrifice it unless you pay |mana_1|.
 
    |tap|: Add one mana of any color.
+
+
+:mtgtip:`The Biblioplex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8eae4481-977f-4bb7-bb1a-ab7100e6ba47.jpg?1617403649|https://scryfall.com/card/stx/264/the-biblioplex?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_2|, |tap|: Look at the top card of your library. If it's an instant or sorcery card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard. Activate only if you have exactly zero or seven cards in hand.
 
 
 :mtgtip:`Frostboil Snarl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c22ba565-da08-4957-93bb-8d266fe0b0d8.jpg?1616699438|https://scryfall.com/card/stx/265/frostboil-snarl?utm_source=api>`
@@ -1247,6 +1523,14 @@
    |tap|: Add |mana_g| or |mana_u|.
 
 
+:mtgtip:`Witherbloom Campus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7346fb2e-754e-47de-b33d-eb089b357ee4.jpg?1617406427|https://scryfall.com/card/stx/275/witherbloom-campus?utm_source=api>`
+   Witherbloom Campus enters the battlefield tapped.
+
+   |tap|: Add |mana_b| or |mana_g|.
+
+   |mana_4|, |tap|: Scry 1.
+
+
 :mtgtip:`Academic Probation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/903b4384-95b5-44ae-bec5-15b383777b41.jpg?1617104373|https://scryfall.com/card/stx/287/academic-probation?utm_source=api>`
    Choose one —
 
@@ -1303,4 +1587,8 @@
    • Rip Apart deals 3 damage to target creature or planeswalker.
 
    • Destroy target artifact or enchantment.
+
+
+:mtgtip:`Leech Fanatic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/307f9fe7-241b-4eb6-a059-be5384b4a1b6.jpg?1617408342|https://scryfall.com/card/stx/999LF/leech-fanatic?utm_source=api>`
+   As long as it's your turn, Leech Fanatic has lifelink.
 
