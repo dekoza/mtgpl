@@ -106,7 +106,7 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
         abilities = json.load(infile)
     for ability in abilities:
         text_id = ability["text"]
-        annotated[text_id]["flags"].add("internal ability")
+        annotated[text_id]["flags"].add("internal_ability")
     cards_filepath = get_mtga_file("data_cards", path / "Data")
     with open(cards_filepath) as infile:
         cards = json.load(infile)
@@ -115,6 +115,8 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
         annotated[card["flavorId"]]["flags"].add("flavor_text")
         annotated[card["cardTypeTextId"]]["flags"].add("card_type")
         annotated[card["subtypeTextId"]]["flags"].add("card_subtype")
+        for ability in card["abilities"]:
+            annotated[ability["textId"]]["flags"].add("printed_ability")
     return annotated
 
 
