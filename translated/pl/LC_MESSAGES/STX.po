@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-05 21:27+0200\n"
-"PO-Revision-Date: 2021-04-04 03:59+0000\n"
+"PO-Revision-Date: 2021-04-05 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -804,27 +804,19 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:245
-#, fuzzy
-#| msgid ""
-#| "You may pay |mana_2|\\ |mana_u| rather tahn pay this spell's mana cost."
 msgid "You may pay |mana_2|\\ |mana_u| rather than pay this spell's mana cost."
 msgstr ""
 "Możesz zapłacić |mana_2|\\ |mana_u| zamiast płacić koszt many tego czaru."
 
 #: ../../STX.rst:247
-#, fuzzy
-#| msgid ""
-#| "If |mana_2|\\ |mana_u| was paid, you draw three cards, then an opponent "
-#| "creates two Treasure tokens and they scry 2. If that cost wasn't paid, "
-#| "you draw X cards."
 msgid ""
 "If the |mana_2|\\ |mana_u| cost was paid, you draw three cards, then an "
 "opponent creates two Treasure tokens and they scry 2. If that cost wasn't "
 "paid, you draw X cards."
 msgstr ""
-"Jeśli zapłacono |mana_2|\\ |mana_u|, dobierz trzy karty, po czym przeciwnik "
-"tworzy dwa żetony Skarbu, po czym wróży 2. Jeśli ów koszt nie został "
-"opłacony, dobierz X kart."
+"Jeśli zapłacono koszt |mana_2|\\ |mana_u|, dobierz trzy karty, po czym "
+"przeciwnik tworzy dwa żetony Skarbu, po czym wróży 2. Jeśli ów koszt nie "
+"został opłacony, dobierz X kart."
 
 #: ../../STX.rst:254
 msgid ""
@@ -1067,12 +1059,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:323
-#, fuzzy
-#| msgid ""
-#| "Counter target instant or sorcery spell. Search its controller's "
-#| "graveyard, ahnd, and library for any number of cards with the same name "
-#| "as that spell and exile them. That player shuffles, then draws a card for "
-#| "each card exiled from their hand this way."
 msgid ""
 "Counter target instant or sorcery spell. Search its controller's graveyard, "
 "hand, and library for any number of cards with the same name as that spell "
@@ -1628,16 +1614,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:507
-#, fuzzy
-#| msgid ""
-#| "Target creature blocks this turn if able. You may have that creature gain "
-#| "reach until end of turn."
 msgid ""
 "Target creature blocks this turn if able. You may have it gain reach until "
 "end of turn."
 msgstr ""
-"Wskazany stwór blokuje w tej turze jeśli może. Możesz sprawić, że ów stwór "
-"zyska zasięg do końca tury."
+"Wskazany stwór blokuje w tej turze jeśli może. Możesz sprawić, że zyska on "
+"zasięg do końca tury."
 
 #: ../../STX.rst:514
 msgid ""
@@ -1665,11 +1647,8 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:517
-#, fuzzy
-#| msgid "|tap|: Attacking Spirits you control get +1/+0 until end of turn."
 msgid "|tap|: Attacking Spirits get +1/+0 until end of turn."
-msgstr ""
-"|tap|: Atakujące Duchy pod twoim władaniem dostają do końca tury +1/+0."
+msgstr "|tap|: Atakujące Duchy dostają do końca tury +1/+0."
 
 #: ../../STX.rst:524
 msgid ""
@@ -1679,10 +1658,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:521
-#, fuzzy
-#| msgid ""
-#| "Whenever Conspiracy THeorist attacks, you may pay |mana_1| and discard a "
-#| "card. If you do, draw a card."
 msgid ""
 "Whenever Conspiracy Theorist attacks, you may pay |mana_1| and discard a "
 "card. If you do, draw a card."
@@ -2892,10 +2867,6 @@ msgstr ""
 "mające \"Gdy ten stwór umrze, zyskaj 1 życie.\""
 
 #: ../../STX.rst:891
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|: Each opponent mills X cards, where X is the amount of "
-#| "life you gained this turn."
 msgid ""
 "|mana_1|, |tap|: Each opponent mills cards equal to the amount of life you "
 "gained this turn."
@@ -2904,14 +2875,11 @@ msgstr ""
 "zyskanych przez ciebie w tej turze."
 
 #: ../../STX.rst:893
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|: Exile four target cards from a graveyard. Draw a card."
 msgid ""
 "|mana_4|, |tap|: Exile four target cards from a single graveyard. Draw a "
 "card."
 msgstr ""
-"|mana_4|, |tap|:Wygnaj cztery wskazane karty z twojego cmentarza. Dobierz "
+"|mana_4|, |tap|:Wygnaj cztery wskazane karty z jednego cmentarza. Dobierz "
 "kartę."
 
 #: ../../STX.rst:898
@@ -2923,11 +2891,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:897
-#, fuzzy
-#| msgid ""
-#| "Return up to two target creture, land, and/or planeswalker cards from "
-#| "your graveyard to your hand. Each player gains 4 life. Exile Restorative "
-#| "Burst."
 msgid ""
 "Return up to two target creature, land, and/or planeswalker cards from your "
 "graveyard to your hand. Each player gains 4 life. Exile Restorative Burst."
@@ -3567,13 +3530,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:1081
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose "
-#| "target creature you control. Until end of turn, it gains \"If this "
-#| "creature would leave the battlefield, exile it instead of putting it "
-#| "anywhere else\" and \"When you exile this creature, create a 4/4 blue and "
-#| "red Elemental creature token.\""
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose "
 "target creature you control. Until end of turn, it gains \"If this creature "
@@ -3585,7 +3541,8 @@ msgstr ""
 "wskaż stwora pod twoi władaniem. Do końca tury ma on \"Jeśli ten stwór "
 "miałby opuścić pole bitwy, wygnaj go zamiast umieszczać go gdziekolwiek "
 "indziej\" oraz \"Kiedy wygnasz tego stwora, stwórz żeton niebiesko-"
-"czerwonego stwora Żywiołak 4/4.\""
+"czerwonego stwora Żywiołak 4/4.\" (Każda instancja tej zdolności wyzwalana "
+"jest osobno.)"
 
 #: ../../STX.rst:1088
 msgid ""
