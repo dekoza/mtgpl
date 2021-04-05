@@ -80,7 +80,7 @@ def extract_data_pots(path: Path):
                     msgctxt=str(key),
                     msgid=text,
                     msgstr="",
-                    flags=list(obj.get("flags", []))
+                    flags=sorted(obj["flags"])
                 )
                 po.append(entry)
     po.save(f"{pot_path}/data_loc.pot")
