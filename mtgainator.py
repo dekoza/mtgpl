@@ -76,11 +76,13 @@ def extract_data_pots(path: Path):
             for obj in progress:
                 key = obj["id"]
                 text = convert_mana_costs(obj["text"])
+                flags = sorted(obj["flags"])
                 entry = polib.POEntry(
                     msgctxt=str(key),
                     msgid=text,
                     msgstr="",
-                    flags=sorted(obj["flags"])
+                    flags=flags,
+                    comment=", ".join(f for f in flags),
                 )
                 po.append(entry)
     po.save(f"{pot_path}/data_loc.pot")
@@ -90,6 +92,7 @@ class DataLoc(TypedDict):
     id: int
     text: int
     flags: Optional[set[str]]
+    comment: Optional[set[str]]
 
 
 def annotate_data_loc(data) -> Mapping[int, DataLoc]:
@@ -108,10 +111,10 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
     with open(cards_filepath) as infile:
         cards = json.load(infile)
     for card in cards:
-        annotated[card["titleId"]]["flags"].add("card title")
-        annotated[card["flavorId"]]["flags"].add("flavor text")
-        annotated[card["cardTypeTextId"]]["flags"].add("card type")
-        annotated[card["subtypeTextId"]]["flags"].add("card subtype")
+        annotated[card["titleId"]]["flags"].add("card_title")
+        annotated[card["flavorId"]]["flags"].add("flavor_text")
+        annotated[card["cardTypeTextId"]]["flags"].add("card_type")
+        annotated[card["subtypeTextId"]]["flags"].add("card_subtype")
     return annotated
 
 
