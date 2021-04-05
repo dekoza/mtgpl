@@ -1,0 +1,4290 @@
+#
+msgid ""
+msgstr ""
+
+msgctxt "BanAnnouncement/Ban_Announcement_Body_BanUnBan"
+msgid ""
+"The following changes to the MTG Arena banned list have taken effect:\n"
+"\n"
+"Format\n"
+"* {cardName} is banned\n"
+"* {cardName} is unbanned"
+msgstr ""
+
+msgctxt "BanAnnouncement/Ban_Announcement_Website_Link_Desc"
+msgid "You can read the full announcement here."
+msgstr ""
+
+msgctxt "BanAnnouncement/Banned_Card_Redemption_Body"
+msgid ""
+"This card is banned in the following format(s):\n"
+"\n"
+"{format}\n"
+"{format}\n"
+"\n"
+"Are you sure you want to redeem a Wildcard for a banned card? This action cannot be undone."
+msgstr ""
+
+msgctxt "BanAnnouncement/Banned_Card_Redemption_Button_Text"
+msgid "Redeem Banned Card"
+msgstr ""
+
+msgctxt "BanAnnouncement/Banned_Card_Redemption_Title"
+msgid "Banned Card Warning!"
+msgstr ""
+
+msgctxt "BanAnnouncement/Deck_Contains_Banned Cards_Title"
+msgid "Deck Contains Banned Cards"
+msgstr ""
+
+msgctxt "BanAnnouncement/Deck_Contains_Banned_Cards_Body"
+msgid ""
+"The deck you have imported contains the following banned card(s):\n"
+"\n"
+"* {cardName}\n"
+"* {cardName}"
+msgstr ""
+
+msgctxt "BanAnnouncement/Emergency_Ban_Body_Plural"
+msgid ""
+"Due to a critical issue, the following cards have been temporarily banned:\n"
+"\n"
+"* {cardName}\n"
+"* {cardName}\n"
+"\n"
+"We will reinstate these cards once the issue has been resolved."
+msgstr ""
+
+msgctxt "BanAnnouncement/Emergency_Ban_Body_Singular"
+msgid ""
+"Due to a critical issue, the following card has been temporarily banned:\n"
+"\n"
+"* {cardName}\n"
+"\n"
+"We will reinstate this card once the issue has been resolved."
+msgstr ""
+
+msgctxt "BanAnnouncement/Emergency_Ban_End_Body_Plural"
+msgid ""
+"The critical issues with the following cards have been resolved:\n"
+"\n"
+"* {cardName}\n"
+"* {cardName}\n"
+"\n"
+"They have been reinstated for use."
+msgstr ""
+
+msgctxt "BanAnnouncement/Emergency_Ban_End_Body_Singular"
+msgid ""
+"The critical issues with the following card has been resolved:\n"
+"\n"
+"* {cardName}\n"
+"\n"
+"It has been reinstated for use."
+msgstr ""
+
+msgctxt "BanAnnouncement/Emergency_Ban_End_Title"
+msgid "Temporary Card Ban Resolved"
+msgstr ""
+
+msgctxt "BanAnnouncement/Emergency_Ban_Title"
+msgid "Temporary Card Ban"
+msgstr ""
+
+msgctxt "BanAnnouncement/Upcoming_Ban_Announcement_Body_BanUnBan"
+msgid ""
+"Effective on {Date}, the following changes to the MTG Arena banned list will take effect:\n"
+"\n"
+"Format\n"
+"* {cardName} is banned\n"
+"* {cardName} is unbanned"
+msgstr ""
+
+msgctxt "BanAnnouncement/Upcoming_Ban_Announcement_Body_Event_Redeem"
+msgid ""
+"Players acquiring a banned card in a Draft or Sealed event will gain vault "
+"progress as though they have four copies of the card."
+msgstr ""
+
+msgctxt "BanAnnouncement/Upcoming_Ban_Announcement_Body_EventContext"
+msgid ""
+"Cards banned in Standard will not appear in store or prize boosters, but "
+"will still appear in Draft and Sealed events. "
+msgstr ""
+
+msgctxt "BanAnnouncement/Upcoming_Ban_Announcement_Body_FreeWild"
+msgid ""
+"Players will receive a Wildcard of the corresponding rarity for each copy of"
+" a banned card in their collection."
+msgstr ""
+
+msgctxt "BanAnnouncement/Upcoming_Ban_Announcement_Title"
+msgid "{Date} Card Ban Announcement"
+msgstr ""
+
+msgctxt "Boot/BootScene_Button_Retry"
+msgid "Retry"
+msgstr ""
+
+msgctxt "Boot/BootScene_CancelingActiveDownloads"
+msgid "Canceling active downloads"
+msgstr ""
+
+msgctxt "Boot/BootScene_CheckForUpdates"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "Boot/BootScene_CheckingDiskSpace"
+msgid "Checking disk space"
+msgstr ""
+
+msgctxt "Boot/BootScene_CheckingForActiveMatches"
+msgid "Checking for active matches"
+msgstr ""
+
+msgctxt "Boot/BootScene_DecryptingXofY"
+msgid "Unpacked {current} of {total}"
+msgstr ""
+
+msgctxt "Boot/BootScene_DiskSpaceError_Generic"
+msgid "Not enough disk space."
+msgstr ""
+
+msgctxt "Boot/BootScene_DiskSpaceError_MBNeeded"
+msgid "Not enough disk space. {spaceNeeded}MB required."
+msgstr ""
+
+msgctxt "Boot/BootScene_DiskWriteError"
+msgid ""
+"Error writing to disk. If the problem persists please restart MTG Arena and "
+"try again."
+msgstr ""
+
+msgctxt "Boot/Bootscene_DownloadButton"
+msgid "Download"
+msgstr ""
+
+msgctxt "Boot/BootScene_DownloadedXOfYBytes"
+msgid "{current} of {total} Download"
+msgstr ""
+
+msgctxt "Boot/BootScene_Error"
+msgid ""
+"Error Updating Data:\n"
+"Please check your connection and try again."
+msgstr ""
+
+msgctxt "Boot/BootScene_GatheringFilesProgress"
+msgid ""
+"Gathering local files\n"
+"{percent}%"
+msgstr ""
+
+msgctxt "Boot/BootScene_InitializingAudio"
+msgid "Initializing audio"
+msgstr ""
+
+msgctxt "Boot/BootScene_InitializingBundleManager"
+msgid "Initializing bundle manager"
+msgstr ""
+
+msgctxt "Boot/BootScene_InitializingCardBuilders"
+msgid "Initializing card builders"
+msgstr ""
+
+msgctxt "Boot/BootScene_InitializingMatchmaking"
+msgid "Initializing matchmaking"
+msgstr ""
+
+msgctxt "Boot/BootScene_InitializingNPE"
+msgid "Initializing NPE"
+msgstr ""
+
+msgctxt "Boot/BootScene_JoiningMatch"
+msgid "Joining match"
+msgstr ""
+
+msgctxt "Boot/BootScene_Loading"
+msgid "Loading, please wait..."
+msgstr ""
+
+msgctxt "Boot/BootScene_LoadingAssetLibrary"
+msgid "Loading asset library"
+msgstr ""
+
+msgctxt "Boot/BootScene_LoadingCardDatabase"
+msgid "Loading card database"
+msgstr ""
+
+msgctxt "Boot/BootScene_LoadingInitialScene"
+msgid "Loading initial scene"
+msgstr ""
+
+msgctxt "Boot/BootScene_LoadingLocDatabase"
+msgid "Initializing localization database"
+msgstr ""
+
+msgctxt "Boot/BootScene_PreparingAssets"
+msgid "Preparing Assets"
+msgstr ""
+
+msgctxt "Boot/BootScene_PreparingDownloadList"
+msgid "Preparing download list"
+msgstr ""
+
+msgctxt "Boot/Bootscene_Prompt_DownloadAmount"
+msgid "Download an additional {downloadsize}?"
+msgstr ""
+
+msgctxt "Boot/Bootscene_Prompt_NPEBackgroundDownloadAmount"
+msgid ""
+"An additional {downloadsize} is needed to play all modes. Continue with download?\n"
+"* Note: The tutorial can be played during the download!"
+msgstr ""
+
+msgctxt "Boot/Bootscene_Prompt_Wifi"
+msgid "Wifi recommended."
+msgstr ""
+
+msgctxt "Boot/BootScene_RequestingFormatData"
+msgid "Requesting format data"
+msgstr ""
+
+msgctxt "Boot/BootScene_RetrievingAssetManifest"
+msgid "Retrieving asset manifest"
+msgstr ""
+
+msgctxt "Boot/BootScene_RetrievingEndpoint"
+msgid "Retrieving endpoint file"
+msgstr ""
+
+msgctxt "Boot/BootScene_SafeModeProgress"
+msgid ""
+"An asset error occured during your last play session.\n"
+"Validating asset files to ensure stability, this may take a while.\n"
+"{percent}%"
+msgstr ""
+
+msgctxt "Boot/BootScene_UpdateProgress"
+msgid "Downloading file {0} of {1}"
+msgstr ""
+
+msgctxt "Boot/BootScene_Updating"
+msgid "Updating..."
+msgstr ""
+
+msgctxt "Boot/BootScene_WaitingForMatchPromises"
+msgid "Waiting for match server"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_BG"
+msgid "Golgari Swarm"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_BG_Desc"
+msgid ""
+"Unlock your inner trash-monster when you get down and dirty with the Golgari"
+" guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Black"
+msgid "Out for Blood"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Black_Desc"
+msgid ""
+"As a black mage, every advantage comes at a cost. Sacrifice whatever is "
+"necessary to control the forces of death and darkness."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Blue"
+msgid "Azure Skies"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Blue_Desc"
+msgid ""
+"As a blue mage, you control the battlefield through illusion. Always think "
+"three steps ahead of your foe."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_BR"
+msgid "Cult of Rakdos"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_BR_Desc"
+msgid ""
+"Have a blast clowning around with the manic antics of the Rakdos guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Green"
+msgid "Forest's Might"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Green_Desc"
+msgid ""
+"As a green mage, the natural world is at your command. The power of life "
+"itself fuels your magic."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_GU"
+msgid "Simic Combine"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_GU_Desc"
+msgid ""
+"Grab your favorite octopus-crab-shark and get weird with the mutants of the "
+"Simic."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_GW"
+msgid "Selesnya Conclave"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_GW_Desc"
+msgid "Join the family to live in peace and harmony among the Selesnya guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Red"
+msgid "Destructive Firepower"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_Red_Desc"
+msgid ""
+"As a red mage, you revel in the chaos of battle. Fire is your weapon and "
+"your inspiration."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_RG"
+msgid "Gruul Clans"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_RG_Desc"
+msgid ""
+"Take a walk on the wild side with the raucous misfits of the Gruul guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_RW"
+msgid "Boros Legion"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_RW_Desc"
+msgid ""
+"Take power alongside the Boros guild by marching on to the battlefield with "
+"a never-ending parade of creatures."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_UB"
+msgid "House Dimir"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_UB_Desc"
+msgid "Little is known about the secretive Dimir guild and we're not talking."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_UR"
+msgid "Izzet League"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_UR_Desc"
+msgid ""
+"Spark your curiosity then explode onto the scene with the experimental Izzet"
+" guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_WB"
+msgid "Orzhov Syndicate"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_WB_Desc"
+msgid ""
+"Appreciate the finer things in life and death when you rub elbows with the "
+"ghostly Orzhov guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_White"
+msgid "Angelic Army"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_White_Desc"
+msgid ""
+"As a white mage, you command disciplined armies. Enforce order to overwhelm "
+"your enemies."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_WU"
+msgid "Azorius Senate"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP_WU_Desc"
+msgid "Get serious by laying down the law with the Azorius guild."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_BG"
+msgid "Back for More"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_BG_Desc"
+msgid ""
+"Death is only the first step. What comes next - or comes back - is worth "
+"waiting for."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_BR"
+msgid "Line of Fire"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_BR_Desc"
+msgid ""
+"Victory requires taking chances. Lead your army into battle, no matter the "
+"risks."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_GU"
+msgid "Massive Menagerie"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_GU_Desc"
+msgid ""
+"These creatures are large and in charge, and you'd better believe they mean "
+"business."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_GW"
+msgid "To Adventure!"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_GW_Desc"
+msgid ""
+"The tales of this deck's Adventures have been told far and wide. Now you can"
+" become part of them!"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_RG"
+msgid "Stomp, Stomp"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_RG_Desc"
+msgid ""
+"Ferocity and might are the keys to victory when these big brawlers come to "
+"the table."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_RW"
+msgid "Company of Knights"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_RW_Desc"
+msgid ""
+"Expect plenty of derring-do and heroics when these gallant knights take the "
+"field."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_UB"
+msgid "Mutation Station"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_UB_Desc"
+msgid ""
+"The creatures of Ikoria can exhibit many very strange, very useful "
+"mutations. "
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_UR"
+msgid "Spellpower"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_UR_Desc"
+msgid ""
+"Each spark, each mote of magic will fuel your power. Keep casting and seize "
+"victory."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_WB"
+msgid "Life Skills"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_WB_Desc"
+msgid ""
+"Put your life total to work for you, and your opponents will struggle to "
+"keep up."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_WU"
+msgid "Starry-Eyed"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2021_WU_Desc"
+msgid ""
+"From the starfield of Nyx, use these enchantments and artifacts to outwit "
+"your opponent."
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/AutoTapMana_Button_Text"
+msgid "Auto-Tap Mana"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Concede_Button_Text"
+msgid "Concede"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Customize_Button_Text"
+msgid "Customize"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Exit_Button_Text"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Forums"
+msgid "Forums"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Keybindings_Button_Text"
+msgid "Keybindings"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Main_Title"
+msgid "Menu"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/MasterVolume_Silder_Text"
+msgid "Master Volume"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/MusicVolume_Slider_Text"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Resume_Button_Text"
+msgid "Resume"
+msgstr ""
+
+msgctxt "DuelScene/EscapeMenu/Settings_Button_Text"
+msgid "Settings"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/CycleChat"
+msgid "Cycle Chat"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/DoubleTap"
+msgid "Double Tap {key}"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/EndTurnHardPass"
+msgid "Pass Turn"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/EndTurnPassing"
+msgid "Auto-Passing"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/EndTurnPassToEnd"
+msgid "Pass To End"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/EndTurnSoftPass"
+msgid "Pass Until Response"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/EndTurnStopPass"
+msgid "Resume Turn"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/FloatAll"
+msgid "Float All"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/FullControlLock"
+msgid "Hold Full Control"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/FullControlTemp"
+msgid "Full Control"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/Gameplay_Title"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/HotKeys"
+msgid "Hotkeys"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/PassPriority"
+msgid "Pass Priority"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/PhaseLadder"
+msgid "Show Phases"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/PhaseLadder_Tooltip"
+msgid "Show phase and combat step icons in game."
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/PressAndHold"
+msgid "Press and Hold {key}"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/QuickTap"
+msgid "Quick Tap"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/ShowCollectionInDraft"
+msgid "Show Collection Overlay (Draft Only)"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/Gameplay/Undo"
+msgid "Undo"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/AboutAds_Link"
+msgid "http://www.aboutads.info/appchoices"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/California_Link"
+msgid ""
+"https://company.wizards.com/legal/wizards-coasts-privacy-policy#donotsell"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/ContactUsReview"
+msgid "Contact Us/Review or Delete Your or Your Child's Collected Info"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/OptOutChoices"
+msgid "Opt-out Choices"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/OptOutChoicesBody"
+msgid ""
+"• You can reset your mobile ad ID (IDFA or AAID) at any time through your device settings, which will allow you to limit the use of information collected about you. You may also visit http://www.aboutads.info/appchoices.\n"
+"• The location data collected through an app depends on your device settings and app permissions.  You can disable location permissions on the app or device level and Bluetooth and WiFi scanning.\n"
+"• If you have linked your Wizards account with certain social media or third party gaming platforms, such as Facebook or Steam, you may unlink your accounts at any time by visiting your Wizards account settings."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/OptOutChoicesNote"
+msgid ""
+"* For additional information, please see Section 9 of our full Privacy "
+"Policy."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_California_Body"
+msgid ""
+"• California residents have special rights, including the rights to known certain information and to require specific pieces of information; the right to delete certain information; the right to opt-out of the \"sale\" of their personal information to third parties; and the right not to be discriminating against for exercising their rights.\n"
+"• To the extent Wizards sells your personal information as the term \"sell\" is defined under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out by going to https://company.wizards.com/legal/wizards-coasts-privacy-policy#donotsell, calling our toll-free number at (800) 324-6496 or emailing us at privacy@wizards.com.\n"
+"• We do not sell personal information of consumers who we have actual knowledge are under 16 years old."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_California_Note"
+msgid ""
+"* For additional information, please see Section 14 of our full Privacy "
+"Policy."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_California_Title"
+msgid "Special Notice Regarding California Residents"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_Children"
+msgid "Special Notice Regarding Children"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_ChildrenBody"
+msgid ""
+"• Parents or guardians of a child under the age of 13 (13 to 16 depending on"
+" location in the EU) have the right to contact us to review, correct, or "
+"delete their child's data at any time. Children may only use our services "
+"once we have obtained verifiable parental consent in compliance with the "
+"U.S. Children's Online Privacy Protection Rule."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_ChildrenNote"
+msgid ""
+"* For additional information, please see Section 6 of our full Privacy "
+"Policy."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_EU"
+msgid "Special Notice Regarding European, UK and Swiss Users"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_EUBody"
+msgid ""
+"• Users located in European Union, United Kingdom and Switzerland have special rights, including to access, rectify and erase personal data; the right to data portability; the right to be forgotten; the right to withdraw consent; and the right to restrict or object to processing of personal data.\n"
+"• Personal data will be transferred out of the EU, Switzerland and the UK to the United States. We utilize appropriate safeguards for transfers of personal data, such as Standard Contractual Clauses."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotice_EUNote"
+msgid ""
+"* For additional information, please see Sections 11 and 15 of our full "
+"Privacy Policy."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotices_Additional"
+msgid "Additional Special Notices"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/SpecialNotices_AdditionalBody"
+msgid ""
+"• If you engage in organized play, your information (e.g., name, DCI number,"
+" city, state, nationality, username and email) may be accessible by "
+"authorized tournament organizers, retail locations that are part of the "
+"Wizards Play Network, members of the Wizards' community that are "
+"adjudicating organized play events, and prize fulfillment service providers."
+" These parties are independent of Wizards, but they are contractually "
+"prohibited from using your information for any other purpose than that for "
+"which it was provided to them, and they agree to maintain the "
+"confidentiality, security and integrity of information they receive from us."
+"  Your information may also be disclosed to members of the Wizards' "
+"community who are engaged in investigating violations of tournament rules "
+"and the Code of Conduct. Additionally, your name, city and country may "
+"appear in online leaderboards and organized play event results."
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/PrivacyPolicy/Telephone_European"
+msgid "• European-specific requests: dpo@hasbro.com"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/PrivacyPolicy/Telephone_OtherCountries"
+msgid "• Other Countries: (425) 204-8069"
+msgstr ""
+
+msgctxt "DuelScene/SettingsMenu/PrivacyPolicy/Telephone_US_Canada"
+msgid "• US/Canada: (800) 324-6496"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WhatInfo"
+msgid "What Information May Be Collected"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WhatInfoBody"
+msgid ""
+"• Device, connectivity, and configuration data (IP address, ad ID, device ID, screen, resolution etc.)\n"
+"• Precise and imprecise location data\n"
+"• Web browser settings (e.g., language preferences) \n"
+"• Web browsing behavior (e.g., number of visits, pages visited, etc.)\n"
+"• Contact data (e.g., email address, physical address, age, phone number, etc.)\n"
+"• Wizards profile data (e.g., username, photo, etc.)\n"
+"• Social media profile data (e.g., account info authorized via Facebook, Twitter, etc.)\n"
+"• Third party gaming platform data (such as Steam or Twitch)"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WhatInfoNote"
+msgid ""
+"* This section includes information collected while you use the app, as well"
+" as information that may be collected if you create a Wizards account and "
+"link your account with social media or third party gaming platforms.  For "
+"more information, please see Section 3 of our full Privacy Policy (URL "
+"below)."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WhyItsCollected"
+msgid "Why It's Collected"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WhyItsCollectedBody"
+msgid ""
+"• Account creation and management\n"
+"• Support for internal operations (e.g., analytics, app and site optimization, etc.)\n"
+"• Interest-based and contextual advertising\n"
+"• Enabling advanced features (e.g., delivering or restricting content and advertising based on location)"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WhyItsCollectedNote"
+msgid "For more information, please see Section 4 of our full Privacy Policy."
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WithWhom"
+msgid "With Whom It's Shared"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WithWhomBody"
+msgid ""
+"• Internal operations' service providers (such as Firebase, BugSnag, Unity, and Backtrace)\n"
+"• Social media platforms and third party gaming platforms (such as Facebook, Twitter, Twitch, and Steam)\n"
+"• Marketing partners and third party ad networks (such as Facebook)\n"
+"• third party analytics service providers (such as Adjust, Google analytics, Swrve and Braze)"
+msgstr ""
+
+msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WithWhomNote"
+msgid ""
+"* For more information, please see Sections 5, 7 and 8 of our full Privacy "
+"Policy."
+msgstr ""
+
+msgctxt "Font_Default"
+msgid "Font_Default"
+msgstr ""
+
+msgctxt "Font_Title"
+msgid "Font_Title"
+msgstr ""
+
+msgctxt "Font-LandPage-Titles"
+msgid ""
+msgstr ""
+
+msgctxt "MainNav/Countries/Afghanistan"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "MainNav/Countries/AlandIslands"
+msgid "Aland Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Albania"
+msgid "Albania"
+msgstr ""
+
+msgctxt "MainNav/Countries/Algeria"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "MainNav/Countries/AmericanSamoa"
+msgid "American Samoa"
+msgstr ""
+
+msgctxt "MainNav/Countries/Andorra"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "MainNav/Countries/Angola"
+msgid "Angola"
+msgstr ""
+
+msgctxt "MainNav/Countries/Anguilla"
+msgid "Anguilla"
+msgstr ""
+
+msgctxt "MainNav/Countries/Antarctica"
+msgid "Antarctica"
+msgstr ""
+
+msgctxt "MainNav/Countries/AntiguaandBarbuda"
+msgid "Antigua and Barbuda"
+msgstr ""
+
+msgctxt "MainNav/Countries/Argentina"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "MainNav/Countries/Armenia"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Aruba"
+msgid "Aruba"
+msgstr ""
+
+msgctxt "MainNav/Countries/Australia"
+msgid "Australia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Austria"
+msgid "Austria"
+msgstr ""
+
+msgctxt "MainNav/Countries/Azerbaijan"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bahamas"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bahrain"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bangladesh"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "MainNav/Countries/Barbados"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "MainNav/Countries/Belarus"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "MainNav/Countries/Belgium"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "MainNav/Countries/Belize"
+msgid "Belize"
+msgstr ""
+
+msgctxt "MainNav/Countries/Benin"
+msgid "Benin"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bermuda"
+msgid "Bermuda"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bhutan"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bolivia"
+msgid "Bolivia"
+msgstr ""
+
+msgctxt "MainNav/Countries/BosniaandHerzegovina"
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgctxt "MainNav/Countries/Botswana"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "MainNav/Countries/BouvetIsland"
+msgid "Bouvet Island"
+msgstr ""
+
+msgctxt "MainNav/Countries/Brazil"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "MainNav/Countries/BritishIndianOceanTerritory"
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+msgctxt "MainNav/Countries/BritishVirginIslands"
+msgid "British Virgin Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/BruneiDarussalam"
+msgid "Brunei Darussalam"
+msgstr ""
+
+msgctxt "MainNav/Countries/Bulgaria"
+msgid "Bulgaria"
+msgstr ""
+
+msgctxt "MainNav/Countries/BurkinaFaso"
+msgid "Burkina Faso"
+msgstr ""
+
+msgctxt "MainNav/Countries/Burundi"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "MainNav/Countries/Cambodia"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Cameroon"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "MainNav/Countries/Canada"
+msgid "Canada"
+msgstr ""
+
+msgctxt "MainNav/Countries/CapeVerde"
+msgid "Cape Verde"
+msgstr ""
+
+msgctxt "MainNav/Countries/CaymanIslands"
+msgid "Cayman Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/CentralAfricanRepublic"
+msgid "Central African Republic"
+msgstr ""
+
+msgctxt "MainNav/Countries/Chad"
+msgid "Chad"
+msgstr ""
+
+msgctxt "MainNav/Countries/Chile"
+msgid "Chile"
+msgstr ""
+
+msgctxt "MainNav/Countries/China"
+msgid "China"
+msgstr ""
+
+msgctxt "MainNav/Countries/ChristmasIsland"
+msgid "Christmas Island"
+msgstr ""
+
+msgctxt "MainNav/Countries/CocosKeelingIslands"
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Colombia"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Comoros"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "MainNav/Countries/CongoBrazzaville"
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+msgctxt "MainNav/Countries/CongoKinshasa"
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+msgctxt "MainNav/Countries/CookIslands"
+msgid "Cook Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/CostaRica"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "MainNav/Countries/CotedIvoire"
+msgid "Côte d'Ivoire"
+msgstr ""
+
+msgctxt "MainNav/Countries/Croatia"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Cuba"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "MainNav/Countries/Cyprus"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "MainNav/Countries/CzechRepublic"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "MainNav/Countries/Denmark"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "MainNav/Countries/Djibouti"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "MainNav/Countries/Dominica"
+msgid "Dominica"
+msgstr ""
+
+msgctxt "MainNav/Countries/DominicanRepublic"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "MainNav/Countries/Ecuador"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "MainNav/Countries/Egypt"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "MainNav/Countries/ElSalvador"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "MainNav/Countries/EquatorialGuinea"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "MainNav/Countries/Eritrea"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "MainNav/Countries/Estonia"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Ethiopia"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "MainNav/Countries/FalklandIslandsMalvinas"
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+msgctxt "MainNav/Countries/FaroeIslands"
+msgid "Faroe Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Fiji"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "MainNav/Countries/Finland"
+msgid "Finland"
+msgstr ""
+
+msgctxt "MainNav/Countries/France"
+msgid "France"
+msgstr ""
+
+msgctxt "MainNav/Countries/FrenchGuiana"
+msgid "French Guiana"
+msgstr ""
+
+msgctxt "MainNav/Countries/FrenchPolynesia"
+msgid "French Polynesia"
+msgstr ""
+
+msgctxt "MainNav/Countries/FrenchSouthernTerritories"
+msgid "French Southern Territories"
+msgstr ""
+
+msgctxt "MainNav/Countries/Gabon"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "MainNav/Countries/Gambia"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Georgia"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Germany"
+msgid "Germany"
+msgstr ""
+
+msgctxt "MainNav/Countries/Ghana"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "MainNav/Countries/Gibraltar"
+msgid "Gibraltar"
+msgstr ""
+
+msgctxt "MainNav/Countries/Greece"
+msgid "Greece"
+msgstr ""
+
+msgctxt "MainNav/Countries/Greenland"
+msgid "Greenland"
+msgstr ""
+
+msgctxt "MainNav/Countries/Grenada"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guadeloupe"
+msgid "Guadeloupe"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guam"
+msgid "Guam"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guatemala"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guernsey"
+msgid "Guernsey"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guinea"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guinea-Bissau"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "MainNav/Countries/Guyana"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "MainNav/Countries/Haiti"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "MainNav/Countries/HeardandMcdonaldIslands"
+msgid "Heard and Mcdonald Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/HolySee"
+msgid "Holy See"
+msgstr ""
+
+msgctxt "MainNav/Countries/Honduras"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "MainNav/Countries/HongKong"
+msgid "Hong Kong"
+msgstr ""
+
+msgctxt "MainNav/Countries/Hungary"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "MainNav/Countries/Iceland"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "MainNav/Countries/India"
+msgid "India"
+msgstr ""
+
+msgctxt "MainNav/Countries/Indonesia"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Iran"
+msgid "Iran"
+msgstr ""
+
+msgctxt "MainNav/Countries/Iraq"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "MainNav/Countries/Ireland"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "MainNav/Countries/IsleofMan"
+msgid "Isle of Man"
+msgstr ""
+
+msgctxt "MainNav/Countries/Israel"
+msgid "Israel"
+msgstr ""
+
+msgctxt "MainNav/Countries/Italy"
+msgid "Italy"
+msgstr ""
+
+msgctxt "MainNav/Countries/Jamaica"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "MainNav/Countries/Japan"
+msgid "Japan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Jersey"
+msgid "Jersey"
+msgstr ""
+
+msgctxt "MainNav/Countries/Jordan"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Kazakhstan"
+msgid "Kazakhstan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Kenya"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "MainNav/Countries/Kiribati"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "MainNav/Countries/Kosovo"
+msgid "Kosovo"
+msgstr ""
+
+msgctxt "MainNav/Countries/Kuwait"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "MainNav/Countries/Kyrgyzstan"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "MainNav/Countries/LaoPDR"
+msgid "Lao PDR"
+msgstr ""
+
+msgctxt "MainNav/Countries/Latvia"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Lebanon"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "MainNav/Countries/Lesotho"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "MainNav/Countries/Liberia"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Libya"
+msgid "Libya"
+msgstr ""
+
+msgctxt "MainNav/Countries/Liechtenstein"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "MainNav/Countries/Lithuania"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "MainNav/Countries/Luxembourg"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "MainNav/Countries/Macao"
+msgid "Macao"
+msgstr ""
+
+msgctxt "MainNav/Countries/Macedonia"
+msgid "North Macedonia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Madagascar"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "MainNav/Countries/Malawi"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "MainNav/Countries/Malaysia"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Maldives"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mali"
+msgid "Mali"
+msgstr ""
+
+msgctxt "MainNav/Countries/Malta"
+msgid "Malta"
+msgstr ""
+
+msgctxt "MainNav/Countries/MarshallIslands"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Martinique"
+msgid "Martinique"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mauritania"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mauritius"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mayotte"
+msgid "Mayotte"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mexico"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "MainNav/Countries/Micronesia"
+msgid "Micronesia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Moldova"
+msgid "Moldova"
+msgstr ""
+
+msgctxt "MainNav/Countries/Monaco"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mongolia"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Montenegro"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "MainNav/Countries/Montserrat"
+msgid "Montserrat"
+msgstr ""
+
+msgctxt "MainNav/Countries/Morocco"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "MainNav/Countries/Mozambique"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "MainNav/Countries/Myanmar"
+msgid "Myanmar"
+msgstr ""
+
+msgctxt "MainNav/Countries/Namibia"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Nauru"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "MainNav/Countries/Nepal"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "MainNav/Countries/Netherlands"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "MainNav/Countries/NetherlandsAntilles"
+msgid "Netherlands Antilles"
+msgstr ""
+
+msgctxt "MainNav/Countries/NewCaledonia"
+msgid "New Caledonia"
+msgstr ""
+
+msgctxt "MainNav/Countries/NewZealand"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "MainNav/Countries/Nicaragua"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "MainNav/Countries/Niger"
+msgid "Niger"
+msgstr ""
+
+msgctxt "MainNav/Countries/Nigeria"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "MainNav/Countries/Niue"
+msgid "Niue"
+msgstr ""
+
+msgctxt "MainNav/Countries/NorfolkIsland"
+msgid "Norfolk Island"
+msgstr ""
+
+msgctxt "MainNav/Countries/NorthernMarianaIslands"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/NorthKorea"
+msgid "North Korea"
+msgstr ""
+
+msgctxt "MainNav/Countries/Norway"
+msgid "Norway"
+msgstr ""
+
+msgctxt "MainNav/Countries/Oman"
+msgid "Oman"
+msgstr ""
+
+msgctxt "MainNav/Countries/Pakistan"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Palau"
+msgid "Palau"
+msgstr ""
+
+msgctxt "MainNav/Countries/PalestinianTerritory"
+msgid "Palestinian Territory"
+msgstr ""
+
+msgctxt "MainNav/Countries/Panama"
+msgid "Panama"
+msgstr ""
+
+msgctxt "MainNav/Countries/PapuaNewGuinea"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "MainNav/Countries/Paraguay"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "MainNav/Countries/Peru"
+msgid "Peru"
+msgstr ""
+
+msgctxt "MainNav/Countries/Philippines"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "MainNav/Countries/Pitcairn"
+msgid "Pitcairn"
+msgstr ""
+
+msgctxt "MainNav/Countries/Poland"
+msgid "Poland"
+msgstr ""
+
+msgctxt "MainNav/Countries/Portugal"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "MainNav/Countries/PuertoRico"
+msgid "Puerto Rico"
+msgstr ""
+
+msgctxt "MainNav/Countries/Qatar"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "MainNav/Countries/Réunion"
+msgid "Réunion"
+msgstr ""
+
+msgctxt "MainNav/Countries/Romania"
+msgid "Romania"
+msgstr ""
+
+msgctxt "MainNav/Countries/RussianFederation"
+msgid "Russian Federation"
+msgstr ""
+
+msgctxt "MainNav/Countries/Rwanda"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "MainNav/Countries/Saint-Barthélemy"
+msgid "Saint-Barthélemy"
+msgstr ""
+
+msgctxt "MainNav/Countries/SaintHelena"
+msgid "Saint Helena"
+msgstr ""
+
+msgctxt "MainNav/Countries/SaintKittsandNevis"
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+msgctxt "MainNav/Countries/SaintLucia"
+msgid "Saint Lucia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Saint-Martin"
+msgid "Saint-Martin "
+msgstr ""
+
+msgctxt "MainNav/Countries/SaintPierreandMiquelon"
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+msgctxt "MainNav/Countries/SaintVincentandGrenadines"
+msgid "Saint Vincent and Grenadines"
+msgstr ""
+
+msgctxt "MainNav/Countries/Samoa"
+msgid "Samoa"
+msgstr ""
+
+msgctxt "MainNav/Countries/SanMarino"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "MainNav/Countries/SaoTomeandPrincipe"
+msgid "Sao Tome and Principe"
+msgstr ""
+
+msgctxt "MainNav/Countries/SaudiArabia"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Senegal"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "MainNav/Countries/Serbia"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Seychelles"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "MainNav/Countries/SierraLeone"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "MainNav/Countries/Singapore"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "MainNav/Countries/Slovakia"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Slovenia"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "MainNav/Countries/SolomonIslands"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Somalia"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "MainNav/Countries/SouthAfrica"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "MainNav/Countries/SouthGeorgiaandtheSouthSandwichIslands"
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/SouthKorea"
+msgid "South Korea"
+msgstr ""
+
+msgctxt "MainNav/Countries/SouthSudan"
+msgid "South Sudan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Spain"
+msgid "Spain"
+msgstr ""
+
+msgctxt "MainNav/Countries/SriLanka"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "MainNav/Countries/Sudan"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Suriname"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "MainNav/Countries/SvalbardandJanMayenIslands"
+msgid "Svalbard and Jan Mayen Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Swaziland"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "MainNav/Countries/Sweden"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "MainNav/Countries/Switzerland"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "MainNav/Countries/SyrianArabRepublic"
+msgid "Syrian Arab Republic"
+msgstr ""
+
+msgctxt "MainNav/Countries/Taiwan"
+msgid "Taiwan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Tajikistan"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Tanzania"
+msgid "Tanzania"
+msgstr ""
+
+msgctxt "MainNav/Countries/Thailand"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "MainNav/Countries/Timor-Leste"
+msgid "Timor-Leste"
+msgstr ""
+
+msgctxt "MainNav/Countries/Togo"
+msgid "Togo"
+msgstr ""
+
+msgctxt "MainNav/Countries/Tokelau"
+msgid "Tokelau"
+msgstr ""
+
+msgctxt "MainNav/Countries/Tonga"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "MainNav/Countries/TrinidadandTobago"
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgctxt "MainNav/Countries/Tunisia"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Turkey"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "MainNav/Countries/Turkmenistan"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "MainNav/Countries/TurksandCaicosIslands"
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Tuvalu"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "MainNav/Countries/Uganda"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "MainNav/Countries/Ukraine"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "MainNav/Countries/UnitedArabEmirates"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "MainNav/Countries/UnitedKingdom"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "MainNav/Countries/UnitedStatesofAmerica"
+msgid "United States of America"
+msgstr ""
+
+msgctxt "MainNav/Countries/Uruguay"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "MainNav/Countries/USMinorOutlyingIslands"
+msgid "US Minor Outlying Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/Uzbekistan"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "MainNav/Countries/Vanuatu"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "MainNav/Countries/Venezuela"
+msgid "Venezuela"
+msgstr ""
+
+msgctxt "MainNav/Countries/VietNam"
+msgid "Viet Nam"
+msgstr ""
+
+msgctxt "MainNav/Countries/VirginIslands"
+msgid "Virgin Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/WallisandFutunaIslands"
+msgid "Wallis and Futuna Islands"
+msgstr ""
+
+msgctxt "MainNav/Countries/WesternSahara"
+msgid "Western Sahara"
+msgstr ""
+
+msgctxt "MainNav/Countries/Yemen"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "MainNav/Countries/Zambia"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "MainNav/Countries/Zimbabwe"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "MainNav/General/CommonWildcard"
+msgid "Common Wildcard"
+msgstr ""
+
+msgctxt "MainNav/General/Complete"
+msgid "Complete"
+msgstr ""
+
+msgctxt "MainNav/General/Empty_String"
+msgid " "
+msgstr ""
+
+msgctxt "MainNav/General/ErrorTitle"
+msgid "Error"
+msgstr ""
+
+msgctxt "MainNav/General/MythicRareWildcard"
+msgid "Mythic Rare Wildcard"
+msgstr ""
+
+msgctxt "MainNav/General/RareWildcard"
+msgid "Rare Wildcard"
+msgstr ""
+
+msgctxt "MainNav/General/Rarity/Common"
+msgid "Common"
+msgstr ""
+
+msgctxt "MainNav/General/Rarity/MythicRare"
+msgid "Mythic Rare"
+msgstr ""
+
+msgctxt "MainNav/General/Rarity/Rare"
+msgid "Rare"
+msgstr ""
+
+msgctxt "MainNav/General/Rarity/Uncommon"
+msgid "Uncommon"
+msgstr ""
+
+msgctxt "MainNav/General/RestartButton"
+msgid "Restart"
+msgstr ""
+
+msgctxt "MainNav/General/Simple_Number"
+msgid "{number}"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/DD_plural"
+msgid "{days} Days"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/DD_singular"
+msgid "1 Day"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/HH_MM_plural_plural"
+msgid "{hours} Hours and {minutes} Minutes"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/HH_MM_plural_singular"
+msgid "{hours} Hours and 1 minute"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/HH_MM_singular_plural"
+msgid "1 Hour and {minutes} Minutes"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/HH_MM_singular_singular"
+msgid "1 Hour and 1 Minute"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/HH_plural"
+msgid "{hours} Hours"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/HH_singular"
+msgid "1 Hour"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/MM_plural"
+msgid "{minutes} Minutes"
+msgstr ""
+
+msgctxt "MainNav/General/Timers/MM_singular"
+msgid "1 Minute"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20200531"
+msgid "Arena Open - Day 2 Token"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20200802"
+msgid "Arena Open - Day 2 Token"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20201101"
+msgid "Open Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20201213"
+msgid "Open Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20210221"
+msgid "Open Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2__20210228"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20200913"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20201025"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20201108"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20201220"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210228"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210314"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210411"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20200531"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20200802"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20201101"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20201213"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20210221"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20200531"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20200802"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20201101"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20201213"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20210221"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/UncommonWildcard"
+msgid "Uncommon Wildcard"
+msgstr ""
+
+msgctxt "MainNav/General/X_Of_Y"
+msgid "{x}/{y}"
+msgstr ""
+
+msgctxt "MainNav/General/XQuantityLabel"
+msgid "x{quantity}"
+msgstr ""
+
+msgctxt "MainNav/Login/Acccount_Registered_Email_Feedback"
+msgid "Email address already registered with another account."
+msgstr ""
+
+msgctxt "MainNav/Login/Accept_TC"
+msgid "Please accept the terms and conditions to register."
+msgstr ""
+
+msgctxt "MainNav/Login/Age_Requirement_Not_Met"
+msgid ""
+"This account cannot be created. Please contact Game Support for assistance. "
+"Error code 88."
+msgstr ""
+
+msgctxt "MainNav/Login/AlreadyHaveAccount"
+msgid "Already have an account?"
+msgstr ""
+
+msgctxt "MainNav/Login/April"
+msgid "April"
+msgstr ""
+
+msgctxt "MainNav/Login/August"
+msgid "August"
+msgstr ""
+
+msgctxt "MainNav/Login/Birth_Month"
+msgid "Birth Month"
+msgstr ""
+
+msgctxt "MainNav/Login/Button_Closed_Beta_Migration_Help"
+msgid "Closed Beta Player?"
+msgstr ""
+
+msgctxt "MainNav/Login/Click_Submit_Agree"
+msgid ""
+"By clicking on ‘Submit' I agree to the "
+"<u><b><link=https://magic.wizards.com/mtgarena/terms>Terms and "
+"Conditions</link></b></u>, "
+"<u><b><link=https://company.wizards.com/conduct>Code of "
+"Conduct</link></b></u>, and "
+"<u><b><link=https://company.wizards.com/policy>Privacy "
+"Policy</link></b></u>."
+msgstr ""
+
+msgctxt "MainNav/Login/Code_Conduct"
+msgid "Code of Conduct,"
+msgstr ""
+
+msgctxt "MainNav/Login/Confirm_Email"
+msgid "Confirm your email"
+msgstr ""
+
+msgctxt "MainNav/Login/Confirm_Email_Address"
+msgid "Confirm Email Address"
+msgstr ""
+
+msgctxt "MainNav/Login/Confirm_Password"
+msgid "Confirm your Password"
+msgstr ""
+
+msgctxt "MainNav/Login/Contact_Support"
+msgid "Contact Support"
+msgstr ""
+
+msgctxt "MainNav/Login/Continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "MainNav/Login/Country"
+msgid "Country/region"
+msgstr ""
+
+msgctxt "MainNav/Login/Day"
+msgid "Day"
+msgstr ""
+
+msgctxt "MainNav/Login/December"
+msgid "December"
+msgstr ""
+
+msgctxt "MainNav/Login/Default_Error_Message"
+msgid "A unexpected problem occurred (Error code: {code}). Please try again."
+msgstr ""
+
+msgctxt "MainNav/Login/Description_ClosedBetaMigration"
+msgid ""
+"Note: If you haven't logged in since the Closed Beta, and made purchases "
+"during the Closed Beta, you will need to <link=\"https://mtgarena-"
+"support.wizards.com/hc/en-"
+"us/requests/new?ticket_form_id=225643\"><u><b>contact customer "
+"service</b></u></link> to have those purchases transferred. In the meantime,"
+" feel free to create another account to get back into the action."
+msgstr ""
+
+msgctxt "MainNav/Login/Description_ForgotPassword"
+msgid "Click here and we'll send you a password reset e-mail."
+msgstr ""
+
+msgctxt "MainNav/Login/Description_Forums"
+msgid ""
+"Check server status, discuss the game, and chat with devs and other players "
+"about your experience."
+msgstr ""
+
+msgctxt "MainNav/Login/Description_Support"
+msgid ""
+"Other account issues? Find a game-breaking bug? File a ticket and one of our"
+" support reps will get back to you as soon as posisble."
+msgstr ""
+
+msgctxt "MainNav/Login/Details"
+msgid "Details."
+msgstr ""
+
+msgctxt "MainNav/Login/Display_Name"
+msgid "Display Name"
+msgstr ""
+
+msgctxt "MainNav/Login/Display_Name_Moderated"
+msgid "Display name cannot contain banned words."
+msgstr ""
+
+msgctxt "MainNav/Login/DisplayName_Length_Feedback"
+msgid "Display name must be 3-23 characters."
+msgstr ""
+
+msgctxt "MainNav/Login/DisplayName_NotAvailable_Feedback"
+msgid "Display name not available."
+msgstr ""
+
+msgctxt "MainNav/Login/Email_Address"
+msgid "Email Address"
+msgstr ""
+
+msgctxt "MainNav/Login/Email_Confirmation_Required"
+msgid "Email addresses do not match."
+msgstr ""
+
+msgctxt "MainNav/Login/Email_Not_Verified"
+msgid "Email not verified."
+msgstr ""
+
+msgctxt "MainNav/Login/Email_Required"
+msgid "Please enter a valid email address."
+msgstr ""
+
+msgctxt "MainNav/Login/Enter_Email"
+msgid "Enter your email address"
+msgstr ""
+
+msgctxt "MainNav/Login/Enter_Valid_Birthdate_Feedback"
+msgid "Enter a valid birthdate to continue."
+msgstr ""
+
+msgctxt "MainNav/Login/Experience_Advanced"
+msgid "A lot"
+msgstr ""
+
+msgctxt "MainNav/Login/Experience_Intermediate"
+msgid "Some"
+msgstr ""
+
+msgctxt "MainNav/Login/Experience_Novice"
+msgid "Little to None"
+msgstr ""
+
+msgctxt "MainNav/Login/Experience_Question"
+msgid "How much Magic have you played?"
+msgstr ""
+
+msgctxt "MainNav/Login/February"
+msgid "February"
+msgstr ""
+
+msgctxt "MainNav/Login/Forget_Your_Password"
+msgid "Forgot your password?"
+msgstr ""
+
+msgctxt "MainNav/Login/ForgotCredentials_Description"
+msgid ""
+"Forgot your password? No problem! \n"
+"\n"
+"Enter the e-mail you used to register your account, and we'll send you instructions to recover your account."
+msgstr ""
+
+msgctxt "MainNav/Login/GoBack"
+msgid "Go Back"
+msgstr ""
+
+msgctxt "MainNav/Login/Help"
+msgid "Help"
+msgstr ""
+
+msgctxt "MainNav/Login/Help_Description"
+msgid ""
+"We're sorry you're having issues. Here are a couple ways we can try to get "
+"you back up and running."
+msgstr ""
+
+msgctxt "MainNav/Login/Invalid_Email_Address"
+msgid "Invalid email address"
+msgstr ""
+
+msgctxt "MainNav/Login/Invalid_Email_Password"
+msgid "Invalid email address or password."
+msgstr ""
+
+msgctxt "MainNav/Login/Invalid_Input_Parameters"
+msgid "Invalid input parameters"
+msgstr ""
+
+msgctxt "MainNav/Login/Invalid_Password"
+msgid "Invalid password!"
+msgstr ""
+
+msgctxt "MainNav/Login/InvalidSocialCredentials"
+msgid "Invalid Social Credentials"
+msgstr ""
+
+msgctxt "MainNav/Login/January"
+msgid "January"
+msgstr ""
+
+msgctxt "MainNav/Login/July"
+msgid "July"
+msgstr ""
+
+msgctxt "MainNav/Login/June"
+msgid "June"
+msgstr ""
+
+msgctxt "MainNav/Login/Login"
+msgid "Log In"
+msgstr ""
+
+msgctxt "MainNav/Login/March"
+msgid "March"
+msgstr ""
+
+msgctxt "MainNav/Login/May"
+msgid "May"
+msgstr ""
+
+msgctxt "MainNav/Login/Minimum_Age_Feedback"
+msgid ""
+"This account cannot be created. Please contact Game Support for assistance."
+msgstr ""
+
+msgctxt "MainNav/Login/NeedHelp"
+msgid "Need Help?"
+msgstr ""
+
+msgctxt "MainNav/Login/November"
+msgid "November"
+msgstr ""
+
+msgctxt "MainNav/Login/October"
+msgid "October"
+msgstr ""
+
+msgctxt "MainNav/Login/Old_Account_Feedback"
+msgid ""
+"This email is associated with an existing MTG Arena Closed Beta Account. Log"
+" in to that account to continue."
+msgstr ""
+
+msgctxt "MainNav/Login/Old_Password"
+msgid ""
+"You've logged in to your old Arena Closed Beta account, which was already "
+"upgraded to a Wizards Account. Please log in with the password you chose for"
+" your Wizards Account."
+msgstr ""
+
+msgctxt "MainNav/Login/Password"
+msgid "Password"
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Character_Repeated_Three_Times_Feedback"
+msgid "Password cannot contain same character repeated 3 times"
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Confirmation_Required"
+msgid "Passwords don't match."
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Contains_Display_Name_Feedback"
+msgid "Password cannot be based on display name"
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Contains_Email_Feedback"
+msgid "Password cannot be based on email address"
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Length_Feedback"
+msgid "Password must be 8-64 characters."
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Required"
+msgid "Please enter a password."
+msgstr ""
+
+msgctxt "MainNav/Login/Password_Too_Simple"
+msgid ""
+"Password too simple. Try increasing length and/or combining numbers, "
+"symbols, or upper and lowercase characters."
+msgstr ""
+
+msgctxt "MainNav/Login/PasswordRules"
+msgid ""
+"Passwords must contain at least:\n"
+"- 8 characters\n"
+"- An upper-case and lower-case character\n"
+"Passwords must not contain:\n"
+"- EmailAddress\n"
+"- Display Name\n"
+"- Same character repeated 3 or more times"
+msgstr ""
+
+msgctxt "MainNav/Login/Passwords_Dont_Match"
+msgid "Passwords don't match."
+msgstr ""
+
+msgctxt "MainNav/Login/Please_Enter_Password"
+msgid "Please enter your password."
+msgstr ""
+
+msgctxt "MainNav/Login/Please_Try_Again"
+msgid "Please try again."
+msgstr ""
+
+msgctxt "MainNav/Login/Powered_By_WAcc"
+msgid "POWERED BY <B>WIZARDS ACCOUNTS</B>"
+msgstr ""
+
+msgctxt "MainNav/Login/Privacy_Policy"
+msgid "Privacy Policy"
+msgstr ""
+
+msgctxt "MainNav/Login/Receive_Offers"
+msgid ""
+"YES! Wizards may send me promotional emails about Wizards' events, games, "
+"offers, and services."
+msgstr ""
+
+msgctxt "MainNav/Login/Recover"
+msgid "Recover"
+msgstr ""
+
+msgctxt "MainNav/Login/Recover_Your_Account"
+msgid "Recover Your Account"
+msgstr ""
+
+msgctxt "MainNav/Login/Recovery_Email_Couldnt_Send_Feedback"
+msgid "Recovery e-mail could not be sent."
+msgstr ""
+
+msgctxt "MainNav/Login/Recovery_Email_Sent"
+msgid ""
+"Success! If an account exists for this email address, you'll receive "
+"instructions for resetting your password shortly."
+msgstr ""
+
+msgctxt "MainNav/Login/Register"
+msgid "Register"
+msgstr ""
+
+msgctxt "MainNav/Login/RememberMe"
+msgid "Remember Me"
+msgstr ""
+
+msgctxt "MainNav/Login/Renewal_Header"
+msgid "Renewal Gifts"
+msgstr ""
+
+msgctxt "MainNav/Login/ResetPasswordDescription"
+msgid ""
+"To keep your account secure, we require that you choose a new password.\n"
+"We have sent instructions on how to reset your password to your registered email address.\n"
+"Please check your email and reset your password to continue.\n"
+"For questions, <u><link=CustomerSupport>Contact Support</link></u>."
+msgstr ""
+
+msgctxt "MainNav/Login/ResetPasswordTitle"
+msgid "Password reset required"
+msgstr ""
+
+msgctxt "MainNav/Login/Rotation_Body"
+msgid "The following sets are now only playable in Historic play modes."
+msgstr ""
+
+msgctxt "MainNav/Login/Rotation_Header"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "MainNav/Login/Select_Country_Feedback"
+msgid "Select a country to continue."
+msgstr ""
+
+msgctxt "MainNav/Login/September"
+msgid "September"
+msgstr ""
+
+msgctxt "MainNav/Login/ShareData"
+msgid ""
+"YES! Wizards may share my data with its third-party partners to provide me "
+"with personalized ads for Wizards' events, games, and services. I may opt "
+"out at any time. Click <link=\"PP8\"><u>here</u></link> for details."
+msgstr ""
+
+msgctxt "MainNav/Login/SocialIdentityInUse"
+msgid "There is already an account associated with this Epic id"
+msgstr ""
+
+msgctxt "MainNav/Login/Submit"
+msgid "Submit"
+msgstr ""
+
+msgctxt "MainNav/Login/TC_And"
+msgid "and"
+msgstr ""
+
+msgctxt "MainNav/Login/Terms_Conditions"
+msgid "Terms and Conditions,"
+msgstr ""
+
+msgctxt "MainNav/Login/Timeout"
+msgid "Timeout"
+msgstr ""
+
+msgctxt "MainNav/Login/TokenExpiredMessage"
+msgid ""
+"Your login session has expired. Please log in to your Wizards Account again."
+msgstr ""
+
+msgctxt "MainNav/Login/Upgraded_Account_Description"
+msgid ""
+"Your account must be migrated to the new account system. Please confirm the "
+"information below."
+msgstr ""
+
+msgctxt "MainNav/Login/Year"
+msgid "Year"
+msgstr ""
+
+msgctxt "MainNav/NavBar/Settings_Tooltip"
+msgid "Adjust Options"
+msgstr ""
+
+msgctxt "MainNav/NumberOfBytes"
+msgid "{quantity} bytes"
+msgstr ""
+
+msgctxt "MainNav/NumberOfGigabytes"
+msgid "{quantity} GB"
+msgstr ""
+
+msgctxt "MainNav/NumberOfKilobytes"
+msgid "{quantity} KB"
+msgstr ""
+
+msgctxt "MainNav/NumberOfMegabytes"
+msgid "{quantity} MB"
+msgstr ""
+
+msgctxt "MainNav/Popups/LoadingPanel_LoadingText"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "MainNav/Popups/LoadingPanel_OutgoingMessageQueuingText"
+msgid "Waiting for the Server..."
+msgstr ""
+
+msgctxt "MainNav/Popups/Modal/ModalOptions_Cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "MainNav/Popups/Modal/ModalOptions_DiscardAndExit"
+msgid "Discard & Exit"
+msgstr ""
+
+msgctxt "MainNav/Popups/Modal/ModalOptions_OK"
+msgid "OK"
+msgstr ""
+
+msgctxt "MainNav/Popups/Modal/ModalOptions_SaveAndExit"
+msgid "Save & Exit"
+msgstr ""
+
+msgctxt "MainNav/Settings/Account/VerboseLogs_Label"
+msgid "Detailed Logs (Plugin Support)"
+msgstr ""
+
+msgctxt "MainNav/Settings/Account_Button"
+msgid "Account"
+msgstr ""
+
+msgctxt "MainNav/Settings/AccountPreferences"
+msgid "Account Preferences"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/Account_Title"
+msgid "Account"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/Ambience_Label"
+msgid "Ambience"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/Audio_Title"
+msgid "Audio"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/Master_Label"
+msgid "Master"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/Music_Label"
+msgid "Music"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/PlayWhileMinimized_Label"
+msgid "Play Audio While Minimized"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/SFX_Label"
+msgid "SFX"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio/Voice_Label"
+msgid "Voice"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio_Button"
+msgid "Audio"
+msgstr ""
+
+msgctxt "MainNav/Settings/AutoPayDisabledTooltip"
+msgid "Editable in match"
+msgstr ""
+
+msgctxt "MainNav/Settings/CodeOfConduct"
+msgid "Code of Conduct"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_af"
+msgid "TEST"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_de"
+msgid "German"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_en"
+msgid "English"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_es"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_fr"
+msgid "French"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_it"
+msgid "Italian"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_ja"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_ko"
+msgid "Korean"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_pt-BR"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_ru"
+msgid "Russian"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_zh-CN"
+msgid "Chinese Simplified"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_zh-TW"
+msgid "Chinese Traditional"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Language_zu"
+msgid "TEST_50Longer"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug/Local_Label"
+msgid "Locale"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug_Button"
+msgid "DEBUG"
+msgstr ""
+
+msgctxt "MainNav/Settings/DropRates"
+msgid "Drop Rates"
+msgstr ""
+
+msgctxt "MainNav/Settings/ExitGame_Button"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoApplyCardStyles_Label"
+msgid "Auto Apply Card Styles"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoApplyCardStyles_Tooltip"
+msgid ""
+"Automatically update your decks to include new card styles you collect."
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoAssignCombatDamage_Label"
+msgid "Auto Assign Combat Damage"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoChooseReplacementEffects_Label"
+msgid "Auto Choose Replacement Effects"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoChooseReplacementEffects_Tooltip"
+msgid ""
+"Automatically choose the order for replacement effects rather than manually "
+"selecting them."
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoOrderTriggeredAbilities_Label"
+msgid "Auto Order Triggered Abilities"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoOrderTriggeredAbilities_Tooltip"
+msgid ""
+"Automatically order triggered abilities rather than manually ordering them."
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/AutoTap_Label"
+msgid "Auto Tap"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Concede_Button"
+msgid "Concede"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/DisableEmotes_Label"
+msgid "Disable Emotes"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/EnableGameplayWarnings_Label"
+msgid "Enable Gameplay Warnings"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/EnableGameplayWarnings_Tooltip"
+msgid ""
+"Require confirmation for some actions, for example playing a duplicate "
+"legendary."
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/EvergreenKeywordReminders_Label"
+msgid "Evergreen Keyword Reminders"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/EvergreenKeywordReminders_Tooltip"
+msgid "Show reminders for common keywords like flying, first strike, etc."
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/HideAltArt_Label"
+msgid "Hide Alternate Art Styles"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/HideAltArt_Tooltip"
+msgid "Hide card styles with alternate art during gameplay."
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_Control"
+msgid "Ctrl"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_Enter"
+msgid "Enter"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_L"
+msgid "L"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_ShiftControl"
+msgid "Shift + Ctrl"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_ShiftEnter"
+msgid "Shift + Enter"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_Space"
+msgid "Space"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_Tab"
+msgid "Tab"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/Key_Z"
+msgid "Z"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/ReplayTutorial"
+msgid "Replay Tutorial"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipOnboarding"
+msgid "Unlock Play Modes"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipOnboarding_Confirm"
+msgid "Would you like to skip the guided tour on this device?"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipOnboarding_Confirm_Title"
+msgid "Skip Guided Tour"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipPlayModesConfirm"
+msgid "Would you like to immediately unlock all Play modes on this device?"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipTutorial"
+msgid "Skip Tutorial"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipTutorial_Confirm"
+msgid "Would you like to skip all tutorial games?"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/SkipTutorial_Confirm_Title"
+msgid "Skip Tutorial"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/UnlockEvents"
+msgid "Unlock Events"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay/UnlockPlayModes"
+msgid "Unlock Play Modes"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay_Button"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/FullScreen_Label"
+msgid "Full Screen"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/FullScreenDisabled"
+msgid "Disabled on non-16:9 resolutions."
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/Graphics_Title"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityLevel_Custom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityLevel_High"
+msgid "High"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityLevel_Low"
+msgid "Low"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityLevel_Medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityLevel_Ultra"
+msgid "Ultra"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityLevels_Label"
+msgid "Quality Level"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualitySetting_AmbientOcclusion"
+msgid "Ambient Occlusion"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualitySetting_Anti-Aliasing"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualitySetting_Bloom"
+msgid "Bloom"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualitySetting_FPSLimit"
+msgid "FPS Limit"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualitySetting_MotionBlur"
+msgid "Motion Blur"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualitySetting_Shadows"
+msgid "Shadows"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_120"
+msgid "120"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_60"
+msgid "60"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_High"
+msgid "High"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_Low"
+msgid "Low"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_Medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_Off"
+msgid "Off"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_On"
+msgid "On"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_Ultra"
+msgid "Ultra"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_Unlimited"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/QualityValue_VSync"
+msgid "VSync"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/Resolution_Label"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics/ScreenResolution_Format"
+msgid "{width}x{height}"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics_Button"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "MainNav/Settings/HideAltArt_DisabledTooltip"
+msgid "Editable outside of match"
+msgstr ""
+
+msgctxt "MainNav/Settings/Language/Language_Title"
+msgid "Language\n"
+msgstr ""
+
+msgctxt "MainNav/Settings/Language_Button"
+msgid "Language"
+msgstr ""
+
+msgctxt "MainNav/Settings/LogOut_Button"
+msgid "Log Out"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy"
+msgid "Privacy Policy"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy/CustHelpLink"
+msgid "https://mtgarena-support.wizards.com/hc/en-us"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy/ESRBLink"
+msgid "https://www.esrb.org/EPCConfirm/916/"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy/FullPrivacyPolicy"
+msgid "Full Privacy Policy"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy/FullPrivacyPolicyLink"
+msgid "https://company.wizards.com/legal/wizards-coasts-privacy-policy"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy_LastUpdated"
+msgid "Last Updated February 19, 2021"
+msgstr ""
+
+msgctxt "MainNav/Settings/Promotions"
+msgid "Promotions"
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug/CaptureLog_Button"
+msgid "Capture Log"
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug/CaptureLog_Label"
+msgid ""
+"Please report any issues using the link below.\n"
+"Attaching your log file will provide additional helpful information."
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug/ReportABug_Title"
+msgid "Report a Bug"
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug/Support_Label"
+msgid "Contact Support"
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug/Support_URL"
+msgid "https://mtgarena-support.wizards.com/hc/en-us/requests/new"
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug_Button"
+msgid "Report a Bug"
+msgstr ""
+
+msgctxt "MainNav/Settings/Select_Store"
+msgid "Select Currency"
+msgstr ""
+
+msgctxt "MainNav/Settings/Settings_Title"
+msgid "Options"
+msgstr ""
+
+msgctxt "MainNav/Settings/StoreChangeWarning"
+msgid ""
+"Changing your currency may result in additional bank or credit card "
+"transaction fees."
+msgstr ""
+
+msgctxt "MainNav/Settings/SwitchAccounts_Button"
+msgid "Switch Accounts"
+msgstr ""
+
+msgctxt "MainNav/Settings/TermsAndConditions"
+msgid "Terms & Conditions"
+msgstr ""
+
+msgctxt "MainNav/Settings/ViewAccount"
+msgid "View Account"
+msgstr ""
+
+msgctxt "MainNav/Settings/ViewPrivacyPolicy"
+msgid "View Privacy Policy"
+msgstr ""
+
+msgctxt "MainNav/Shared/Cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "MainNav/Shared/Confirm"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "MainNav/Shared/Details"
+msgid "Details"
+msgstr ""
+
+msgctxt "MainNav/Shared/More"
+msgid "More"
+msgstr ""
+
+msgctxt "MainNav/Shared/SwitchAccount"
+msgid "Switch Account"
+msgstr ""
+
+msgctxt "MainNav/Store/Currency_EUR"
+msgid "EUR"
+msgstr ""
+
+msgctxt "MainNav/Store/Currency_USD"
+msgid "USD"
+msgstr ""
+
+msgctxt "MainNav/Store/CurrencyLabel"
+msgid "Currency"
+msgstr ""
+
+msgctxt "MainNav/WebLink/CodeOfConduct"
+msgid "https://company.wizards.com/legal/code-conduct"
+msgstr ""
+
+msgctxt "MainNav/WebLink/CustomerSupport"
+msgid "https://mtgarena-support.wizards.com/hc/en-us"
+msgstr ""
+
+msgctxt "MainNav/WebLink/Forums"
+msgid "http://forums.mtgarena.com/"
+msgstr ""
+
+msgctxt "MainNav/WebLink/PrivacyPolicy"
+msgid "https://company.wizards.com/legal/wizards-coasts-privacy-policy"
+msgstr ""
+
+msgctxt "MainNav/WebLink/Promotions"
+msgid "https://magic.wizards.com/en/promotions"
+msgstr ""
+
+msgctxt "MainNav/WebLink/TermsAndConditions"
+msgid "https://magic.wizards.com/en/mtgarena/terms"
+msgstr ""
+
+msgctxt "MOTD/CardGrant_Text"
+msgid "Check out your collection to find a new card! Thank you for playing!"
+msgstr ""
+
+msgctxt "MOTD/CardGrant_Title"
+msgid "New Card in Your Collection!"
+msgstr ""
+
+msgctxt "MOTD/Generic_Special_Event_Later_Today_Text"
+msgid ""
+"Check back later today for a special event! Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/Generic_Special_Event_Later_Today_Title"
+msgid "Special Event Later Today!"
+msgstr ""
+
+msgctxt "MOTD/Generic_Special_Event_Live_Text"
+msgid "Check out our events section now for a special event!"
+msgstr ""
+
+msgctxt "MOTD/Generic_Special_Event_Live_Title"
+msgid "Special Event Is Live!"
+msgstr ""
+
+msgctxt "MOTD/Generic_Special_Event_Tomorrow_Text"
+msgid ""
+"Check back tomorrow for a special event! Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/Generic_Special_Event_Tomorrow_Title"
+msgid "Special Event Tomorrow!"
+msgstr ""
+
+msgctxt "MOTD/MultipleCardGrant_Text"
+msgid ""
+"Check out your collection to find some new cards! Thank you for playing!"
+msgstr ""
+
+msgctxt "MOTD/MultipleCardGrant_Title"
+msgid "New Cards in Your Collection!"
+msgstr ""
+
+msgctxt "MOTD/MultiplePackGrant_Text"
+msgid ""
+"Check out your Packs section to find some new booster packs! Thank you for "
+"playing!"
+msgstr ""
+
+msgctxt "MOTD/MultiplePackGrant_Title"
+msgid "Free Boosters for You!"
+msgstr ""
+
+msgctxt "MOTD/PackGrant_Text"
+msgid ""
+"Check out your Packs section to find a new booster pack! Thank you for "
+"playing!"
+msgstr ""
+
+msgctxt "MOTD/PackGrant_Title"
+msgid "Free Booster for You!"
+msgstr ""
+
+msgctxt "MOTD/Set_Prerelease_Event_Later_Today_Text"
+msgid ""
+"Check back later today for a special Prerelease event for [set name]! Please"
+" visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/Set_Prerelease_Event_Later_Today_Title"
+msgid "Special Prerelease Event Later Today!"
+msgstr ""
+
+msgctxt "MOTD/Set_Prerelease_Event_Live_Text"
+msgid ""
+"Check out our events section now for a special Prerelease event for [set "
+"name]!"
+msgstr ""
+
+msgctxt "MOTD/Set_Prerelease_Event_Live_Title"
+msgid "Special Prerelease Event Is Live!"
+msgstr ""
+
+msgctxt "MOTD/Set_Prerelease_Event_Tomorrow_Text"
+msgid ""
+"Check back tomorrow for a special Prerelease event for [set name]! Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/Set_Prerelease_Event_Tomorrow_Title"
+msgid "Special Prerelease Event Tomorrow!"
+msgstr ""
+
+msgctxt "MOTD/Set_Release_Event_Later_Today_Text"
+msgid ""
+"Check back later today for a special Release event for [set name]! Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/Set_Release_Event_Later_Today_Title"
+msgid "Special Release Event Later Today!"
+msgstr ""
+
+msgctxt "MOTD/Set_Release_Event_Live_Text"
+msgid ""
+"Check out our events section now for a special Release event for [set name]!"
+msgstr ""
+
+msgctxt "MOTD/Set_Release_Event_Live_Title"
+msgid "Special Release Event Is Live!"
+msgstr ""
+
+msgctxt "MOTD/Set_Release_Event_Tomorrow_Text"
+msgid ""
+"Check back tomorrow for a special Release event for [set name]! Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/Set_Release_Event_Tomorrow_Title"
+msgid "Special Release Event Tomorrow!"
+msgstr ""
+
+msgctxt "MOTD/System_Client_Restart_Text"
+msgid ""
+"We have released an important update. We recommend restarting your client at"
+" your earliest convenience."
+msgstr ""
+
+msgctxt "MOTD/System_Client_Restart_Title"
+msgid "Please Restart the Game"
+msgstr ""
+
+msgctxt "MOTD/System_Constructed_Disabled_Text"
+msgid ""
+"We have temporarily disabled all Constructed events while we investigate "
+"issues with our system. Please visit http://forums.mtgarena.com for more "
+"information."
+msgstr ""
+
+msgctxt "MOTD/System_Constructed_Disabled_Title"
+msgid "Constructed Events Disabled"
+msgstr ""
+
+msgctxt "MOTD/System_Constructed_Restored_Text"
+msgid ""
+"We have restored the ability to play Constructed events. If you continue to "
+"encounter any issues, please contact Customer Service."
+msgstr ""
+
+msgctxt "MOTD/System_Constructed_Restored_Title"
+msgid "Constructed Events Are Back!"
+msgstr ""
+
+msgctxt "MOTD/System_Draft_Disabled_Text"
+msgid ""
+"We have temporarily disabled Draft events while we investigate issues with "
+"our system. Please visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/System_Draft_Disabled_Title"
+msgid "Draft Disabled"
+msgstr ""
+
+msgctxt "MOTD/System_Draft_Restored_Text"
+msgid ""
+"We have restored the ability to play Draft events. If you continue to "
+"encounter any issues, please contact Customer Service."
+msgstr ""
+
+msgctxt "MOTD/System_Draft_Restored_Title"
+msgid "Draft Is Back!"
+msgstr ""
+
+msgctxt "MOTD/System_EmergencyMaintenance_Text"
+msgid ""
+"We will be bringing the system down for emergency downtime shortly. Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/System_EmergencyMaintenance_Title"
+msgid "Emergency Maintenance"
+msgstr ""
+
+msgctxt "MOTD/System_Event_Refund_Text"
+msgid ""
+"Due to technical difficulties during a recent event, we will be proactively "
+"returning event entries where appropriate. Please allow up to 7 days for the"
+" return to be applied. Thank you for your patience."
+msgstr ""
+
+msgctxt "MOTD/System_Event_Refund_Title"
+msgid "Event Refunds Being Issued"
+msgstr ""
+
+msgctxt "MOTD/System_Investigating_Text"
+msgid ""
+"Hello, MTG Arena players! Thank you for your patience while we investigate "
+"issues currently impacting the game. Please join us "
+"on http://forums.mtgarena.com for updates."
+msgstr ""
+
+msgctxt "MOTD/System_Investigating_Title"
+msgid "Currently Investigating"
+msgstr ""
+
+msgctxt "MOTD/System_Limited_Disabled_Text"
+msgid ""
+"We have temporarily disabled all Limited events while we investigate issues "
+"with our system. Please visit http://forums.mtgarena.com for more "
+"information."
+msgstr ""
+
+msgctxt "MOTD/System_Limited_Disabled_Title"
+msgid "Sealed and Draft Are Disabled"
+msgstr ""
+
+msgctxt "MOTD/System_Limited_Restored_Text"
+msgid ""
+"We have restored the ability to play Limited events. If you continue to "
+"encounter any issues, please contact Customer Service."
+msgstr ""
+
+msgctxt "MOTD/System_Limited_Restored_Title"
+msgid "Sealed and Draft Are Back!"
+msgstr ""
+
+msgctxt "MOTD/System_Maintenance_Today_Text"
+msgid ""
+"We will be bringing the system down for scheduled downtime today. You may "
+"experience issues with the game and/or downtime. Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/System_Maintenance_Today_Title"
+msgid "Downtime Today"
+msgstr ""
+
+msgctxt "MOTD/System_Maintenance_Tomorrow_Text"
+msgid ""
+"We will be bringing the system down for scheduled downtime tomorrow. You may"
+" experience issues with the game and/or downtime. Please "
+"visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/System_Maintenance_Tomorrow_Title"
+msgid "Downtime Tomorrow"
+msgstr ""
+
+msgctxt "MOTD/System_Patch_Text"
+msgid ""
+"We have successfully patched the issues we were experiencing. Thank you for "
+"your patience!"
+msgstr ""
+
+msgctxt "MOTD/System_Patch_Title"
+msgid "Systems Back to Normal"
+msgstr ""
+
+msgctxt "MOTD/System_Sealed_Disabled_Text"
+msgid ""
+"We have temporarily disabled Sealed events while we investigate issues with "
+"our system. Please visit http://forums.mtgarena.com for more information."
+msgstr ""
+
+msgctxt "MOTD/System_Sealed_Disabled_Title"
+msgid "Sealed Disabled"
+msgstr ""
+
+msgctxt "MOTD/System_Sealed_Restored_Text"
+msgid ""
+"We have restored the ability to play Sealed events. If you continue to "
+"encounter any issues, please contact Customer Service."
+msgstr ""
+
+msgctxt "MOTD/System_Sealed_Restored_Title"
+msgid "Sealed Is Back!"
+msgstr ""
+
+msgctxt "MOTD/System_Store_Down_Text"
+msgid ""
+"We have temporarily disabled store purchases while we investigate issues "
+"with our e-commerce system. Please visit http://forums.mtgarena.com for more"
+" information."
+msgstr ""
+
+msgctxt "MOTD/System_Store_Down_Title"
+msgid "Purchases Disabled"
+msgstr ""
+
+msgctxt "MOTD/System_Store_Restored_Text"
+msgid ""
+"We have restored the ability to make store purchases. If you continue to "
+"encounter any issues, please contact Customer Service."
+msgstr ""
+
+msgctxt "MOTD/System_Store_Restored_Title"
+msgid "Purchases Restored"
+msgstr ""
+
+msgctxt "Social/Settings/Toggle_DisabledDiscord"
+msgid "Discord Integration (Offline)"
+msgstr ""
+
+msgctxt "Social/Settings/Toggle_DisabledDiscordTooltip"
+msgid ""
+"Discord Rich Presence integration has been temporarily disabled for all "
+"players. Click here to open the MTG Arena status page for more information."
+msgstr ""
+
+msgctxt "Social/Settings/Toggle_Discord"
+msgid "Discord Integration"
+msgstr ""
+
+msgctxt "Social/Settings/Toggle_DiscordTooltip"
+msgid ""
+"When enabled, this allows Discord users you are friends with or share a "
+"server with to see details about your game activity, and will allow your "
+"Discord friends to ask to join you for a Direct Challenge match."
+msgstr ""
+
+msgctxt "SystemMessage/ChangeCurrencyInSettings"
+msgid "Set your currency selection in View Account."
+msgstr ""
+
+msgctxt "SystemMessage/Event_Payout"
+msgid "{publicEventName} has ended. Any earned prizes have been awarded."
+msgstr ""
+
+msgctxt "SystemMessage/Internal_Error"
+msgid "Internal Error"
+msgstr ""
+
+msgctxt "SystemMessage/MatchDown"
+msgid ""
+"The match system has been taken down for scheduled downtime. Please visit "
+"https://magicthegatheringarena.statuspage.io for more information. Players "
+"will no longer be able to start matches until after the downtime is "
+"complete."
+msgstr ""
+
+msgctxt "SystemMessage/MatchDownTime15"
+msgid ""
+"We will be bringing the system down for scheduled match downtime in 15 "
+"minutes. Please visit https://magicthegatheringarena.statuspage.io for more "
+"information. Players will no longer be able to start matches until after the"
+" downtime is complete."
+msgstr ""
+
+msgctxt "SystemMessage/MatchDownTime30"
+msgid ""
+"We will be bringing the system down for scheduled match downtime in 30 "
+"minutes. Please visit https://magicthegatheringarena.statuspage.io for more "
+"information. Players will no longer be able to start matches until after the"
+" downtime is complete."
+msgstr ""
+
+msgctxt "SystemMessage/MatchDownTime5"
+msgid ""
+"We will be bringing the system down for scheduled match downtime in 5 "
+"minutes. Please visit https://magicthegatheringarena.statuspage.io for more "
+"information. Players will no longer be able to start matches until after the"
+" downtime is complete."
+msgstr ""
+
+msgctxt "SystemMessage/MatchDownTime60"
+msgid ""
+"We will be bringing the system down for scheduled match downtime in 60 "
+"minutes. Please visit https://magicthegatheringarena.statuspage.io for more "
+"information. Players will no longer be able to start matches until after the"
+" downtime is complete."
+msgstr ""
+
+msgctxt "SystemMessage/MatchUp"
+msgid ""
+"We have restored the ability to play in matches. If you continue to "
+"encounter any issues, please contact Customer Service."
+msgstr ""
+
+msgctxt "SystemMessage/Message_User_Fulfillment_Error"
+msgid ""
+"Error fulfilling order {orderNumber}. Please contact Customer Service. "
+msgstr ""
+
+msgctxt "SystemMessage/Message_User_Redemption_Error"
+msgid "Error redeeming code. Please contact Customer Service."
+msgstr ""
+
+msgctxt "SystemMessage/ParameterizedMessageTest"
+msgid ""
+"This is my system message to player {playerId} who is over {powerLevel} and "
+"likes to eat {eats}. Thanks for playing {playerId}!\";"
+msgstr ""
+
+msgctxt "SystemMessage/PurchaseSkinFailureText"
+msgid "Unable to purchase card style. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Access_Denied_Permission_Text"
+msgid "Access Denied - You do not currently have permission to connect"
+msgstr ""
+
+msgctxt "SystemMessage/System_Account_Banned"
+msgid "Account is banned"
+msgstr ""
+
+msgctxt "SystemMessage/System_AlreadyConnected"
+msgid "Already connected on that session"
+msgstr ""
+
+msgctxt "SystemMessage/System_Asset_Error_Body"
+msgid "Arena will relaunch to verify asset contents."
+msgstr ""
+
+msgctxt "SystemMessage/System_Asset_Error_Title"
+msgid "Asset Error Detected"
+msgstr ""
+
+msgctxt "SystemMessage/System_Auth_Disconnection"
+msgid "Disconnection during authentication"
+msgstr ""
+
+msgctxt "SystemMessage/System_Auth_Failure_Text"
+msgid ""
+"Authentication failed for {displayName}:\n"
+"{error}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Buy_Gems_Title"
+msgid "Buy Gems"
+msgstr ""
+
+msgctxt "SystemMessage/System_Client_Restart"
+msgid "An update is available. Please restart MTG Arena."
+msgstr ""
+
+msgctxt "SystemMessage/System_ClientMessageParseError"
+msgid "There was a problem when communicating with the server."
+msgstr ""
+
+msgctxt "SystemMessage/System_Collection_Get_Error"
+msgid "Unable to get collection. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Confirm_ExitGame_Text"
+msgid "Would you like to exit and close the game?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Confirm_ExitGame_Title"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "SystemMessage/System_Confirm_LogOut_Text"
+msgid "Would you like to log out of your account?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Confirm_LogOut_Title"
+msgid "Logout"
+msgstr ""
+
+msgctxt "SystemMessage/System_Connect_Unable_Title"
+msgid "Unable to Connect"
+msgstr ""
+
+msgctxt "SystemMessage/System_Connection_Lost_Reconnect_Button"
+msgid "Reconnect"
+msgstr ""
+
+msgctxt "SystemMessage/System_Connection_Lost_Text"
+msgid "You have lost your connection to the server."
+msgstr ""
+
+msgctxt "SystemMessage/System_Connection_Lost_Title"
+msgid "Connection Lost"
+msgstr ""
+
+msgctxt "SystemMessage/System_Constructed_Disabled"
+msgid ""
+"All Constructed events have been taken offline while we investigate an "
+"issue. Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Constructed_Restored"
+msgid ""
+"Constructed events are back online. If you experience any issues with a "
+"Constructed event, contact Customer Service at http://mtgarena-"
+"support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Add_Error_Text"
+msgid "Add to inventory failed. Maximum number of decks reached."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Add_Error_Title"
+msgid "Error Adding Deck"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Clone_Error_Title"
+msgid "Error Cloning Deck"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Creation_Failure_Text"
+msgid "Deck creation failed. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Deletion_Failure_Text"
+msgid "Unable to delete deck. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Empty_String_Error"
+msgid "The input string is empty."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Import_Error_Text"
+msgid "Deck import failed with the following message: "
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Import_Error_Title"
+msgid "Error Importing Deck"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Insufficient_Owned_Cards_To_Add_Error"
+msgid ""
+"You cannot add {quantity} copies of this version of the card "
+"\\\"{cardName}\\\" because you only have {ownedQuantity} in your "
+"collection.\""
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Invalid_Companion_Error"
+msgid "The following card is not a valid companion: {cardName}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Invalid_Input_Line_Error"
+msgid "The input string contains an invalid line: {line}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Invalid_Section_Error"
+msgid "The input string contains more than two sections (main, sideboard)."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Limit_Reached"
+msgid ""
+"Maximum number of decks reached.  Please delete decks until you have fewer "
+"than {deckLimit}."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Limit_Reached_Title"
+msgid "Deck Limit Reached"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_No_Owned_Cards_To_Add_Error"
+msgid ""
+"You cannot add {quantity} copies of this version of the card \"{cardName}\" "
+"because you don't have any in your collection."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Submit_Error_Text"
+msgid "Unable to submit deck. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Unknown_Card_Error"
+msgid "The input string contains an unknown card title: {cardName}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Unknown_Non-Premium_Card_Error"
+msgid ""
+"The input string contains an unfound non-premium card title: {cardName}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Unknown_Non-Premium_Card_Expansion_Error"
+msgid ""
+"The input string contains an unfound non-premium card title with expansion "
+"code: {cardName} ({setCode})"
+msgstr ""
+
+msgctxt "SystemMessage/System_Deck_Update_Failure_Text"
+msgid "Unable to update deck. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Decks_Get_Error_Text"
+msgid "Unable to get decks. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Decks_Get_Failure_Text"
+msgid "Unable to get decks. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Disable_Autosuggest_Text"
+msgid "This will turn off automatic land suggestion. Continue?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Disable_Autosuggest_Title"
+msgid "Disable Auto-Suggest?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Display_Terms_Text"
+msgid "View Terms and Conditions"
+msgstr ""
+
+msgctxt "SystemMessage/System_DownForMaintenance"
+msgid "System is down for maintenance."
+msgstr ""
+
+msgctxt "SystemMessage/System_Draft_Disabled"
+msgid ""
+"Drafts have been taken offline while we investigate an issue. Please visit "
+"https://magicthegatheringarena.statuspage.io for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Draft_Pick_Error_Text"
+msgid "Unable to make draft pick. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Draft_Restored"
+msgid ""
+"Drafts are back online. If you experience any issues with drafting, contact "
+"Customer Service at http://mtgarena-support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Draft_Status_Get_Error_Text"
+msgid "Unable to get draft progress. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_EmergencyMaintenance_15"
+msgid ""
+"The system will be taken offline for emergency maintenance in 15 minutes. "
+"Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_EmergencyMaintenance_30"
+msgid ""
+"The system will be taken offline for emergency maintenance in 30 minutes. "
+"Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_EmergencyMaintenance_5"
+msgid ""
+"The system will be taken offline for emergency maintenance in 5 minutes. "
+"Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_EmergencyMaintenance_60"
+msgid ""
+"The system will be taken offline for emergency maintenance in 60 minutes. "
+"Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Enter_Payment_Info_Text"
+msgid "Please continue after entering payment information"
+msgstr ""
+
+msgctxt "SystemMessage/System_Environment_Connection_Failure_Text"
+msgid ""
+"Could not establish connection to environment: \n"
+"{error} \n"
+" {uri}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_ClaimPrize_Error_Title"
+msgid "Could not claim prize"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Deck_Submit_Error_Text"
+msgid "Unable to submit deck. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Draft_Commence_Error_Text"
+msgid "Unable to start draft. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Draft_Complete_Error_Text"
+msgid "Unable to finish draft. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Drop_Error_Text"
+msgid "Unable to resign from event. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_FinishDraft_Error_Title"
+msgid "Could not finish draft"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Join_Error_Text"
+msgid "Unable to join event. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_JoinEvent_Error_Text"
+msgid "Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_JoinEvent_Error_Title"
+msgid "Could not join event"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_JoinQueue_Error_Title"
+msgid "Could not enter matchmaking queue"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Match_Active_Get_Error_Text"
+msgid "Unable to get event active match. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Matches_Active_Get_Error_Text"
+msgid "Unable to get event active matches. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Pay_Error_Text"
+msgid "Unable to pay event entry. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_PayEntry_Error_Title"
+msgid "Could not pay entry fee"
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Prize_Claim_Error_Text"
+msgid "Unable to claim prize. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Progress_Get_Error_Text"
+msgid "Unable to get event progress. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Queue_Join_Error_Text"
+msgid "Unable to join queue. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Queue_Leave_Error_Text"
+msgid "Unable to leave queue. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Queue_Status_Error_text"
+msgid "Unable to get queue status. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Rank_Get_Error_Text"
+msgid "Unable to get rank. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_Refund"
+msgid ""
+"Players affected by the recent event problem will have their event entry "
+"returned to them. Please allow up to 7 days for this to be processed."
+msgstr ""
+
+msgctxt "SystemMessage/System_Event_StartDraft_Error_Title"
+msgid "Could not start draft"
+msgstr ""
+
+msgctxt "SystemMessage/System_Events_All_Disabled"
+msgid ""
+"All events have been taken offline while we investigate an issue. Please "
+"visit https://magicthegatheringarena.statuspage.io for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Events_All_Restored"
+msgid ""
+"Events are back online. If you experience any issues with an event, contact "
+"Customer Service at http://mtgarena-support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_FrontDoor_Connection_Lost_Text"
+msgid "Attempting to reconnect to FrontDoor..."
+msgstr ""
+
+msgctxt "SystemMessage/System_FrontDoor_InternalError"
+msgid "Server error during authentication."
+msgstr ""
+
+msgctxt "SystemMessage/System_FrontDoor_InvalidParams"
+msgid "Malformed authenticate message."
+msgstr ""
+
+msgctxt "SystemMessage/System_FrontDoor_NotAuthenticated"
+msgid "Not authenticated"
+msgstr ""
+
+msgctxt "SystemMessage/System_FrontDoor_UserLimitReached"
+msgid "Server is full.  Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Game_Error_Title"
+msgid "Game Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Generic_CriticalError_Text"
+msgid "An error occurred. Please restart or exit the application."
+msgstr ""
+
+msgctxt "SystemMessage/System_Generic_NoncriticalError_Text"
+msgid "An error occurred. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Handle_Error_Text"
+msgid "Error during {requestType} with error {errorMessage}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Handle_Error_Title"
+msgid "{requestType} Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Handle_Error_With_Response_Text"
+msgid ""
+"Error during {requestType} with error {errorMessage} and response code "
+"{responseCode}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Insufficient_Gems_Store_Offline_Text"
+msgid ""
+"You do not have enough gems for this purchase.  The store is currently "
+"disabled, but you can buy gems when it is reenabled."
+msgstr ""
+
+msgctxt "SystemMessage/System_Insufficient_Gems_Text"
+msgid ""
+"You do not have enough gems for this purchase.  Would you like to purchase "
+"gems?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Insufficient_Roles"
+msgid "You do not have the right roles for this action."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Client_Version_Text"
+msgid ""
+"An update is required for compatibility. Please update to the latest version"
+" of MTG Arena and log in again."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Client_Version_Text_Epic"
+msgid ""
+"An update is required for compatibility. Please use the Epic Games Launcher "
+"to update to the latest version of MTG Arena and log in again."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Client_Version_Text_Mobile"
+msgid ""
+"An update is required for compatibility. Please visit your app store to "
+"update to the latest MTG Arena app and log in again."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Client_Version_Text_Params"
+msgid ""
+"An update is required for compatibility. Please use the {service} to update "
+"to the latest version of MTG Arena and log in again."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Client_Version_Title"
+msgid "Outdated Client Version"
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Deck_Submit_Text"
+msgid "Please use a valid deck."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Deck_Title"
+msgid "Invalid Deck"
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Redemption_Banned_Text"
+msgid "Banned cards cannot be crafted using wildcards."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Redemption_Banned_Title"
+msgid "Unable to Redeem"
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Redemption_Text"
+msgid "This card cannot be crafted using wildcards."
+msgstr ""
+
+msgctxt "SystemMessage/System_Invalid_Redemption_Title"
+msgid "Unable to Redeem"
+msgstr ""
+
+msgctxt "SystemMessage/System_Inventory_Get_Error"
+msgid "Unable to get inventory. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Investigating"
+msgid ""
+"We are aware of the current issues and are working on a solution. Please "
+"visit https://magicthegatheringarena.statuspage.io for updates."
+msgstr ""
+
+msgctxt "SystemMessage/System_Ladder_Join_Error_Text"
+msgid "Unable to join ladder. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Limited_Disabled"
+msgid ""
+"All Limited events have been taken offline while we investigate an issue. "
+"Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Limited_Restored"
+msgid ""
+"Limited events are back online. If you experience any issues with a Limited "
+"event, contact Customer Service at http://mtgarena-support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Login_Unable_Title"
+msgid "Unable to Login"
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_15"
+msgid ""
+"Scheduled downtime will begin in 15 minutes. Players can no longer create "
+"games or log in. Please visit https://magicthegatheringarena.statuspage.io "
+"for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_30"
+msgid ""
+"Scheduled downtime will begin in 30 minutes. Players can no longer create "
+"games or log in. Please visit https://magicthegatheringarena.statuspage.io "
+"for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_5"
+msgid ""
+"Scheduled downtime will begin in 5 minutes. Players can no longer create "
+"games or log in. Please visit https://magicthegatheringarena.statuspage.io "
+"for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_60"
+msgid ""
+"Scheduled downtime will begin in 60 minutes. In 30 minutes, players will no "
+"longer be able to create games or log in. Please visit "
+"https://magicthegatheringarena.statuspage.io for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_AB_1_Update"
+msgid ""
+"A required update is available. We will be disabling new matches in 10 "
+"minutes for those who have not updated."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_AB_2_Disable"
+msgid ""
+"A required update is available. We are now disabling new matches for those "
+"who have not updated."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_AB_3_Final"
+msgid ""
+"A required update is available. Your client will be disconnected in 10 "
+"minutes and you will need to update to the latest version of MTG Arena."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_Start"
+msgid ""
+"MTG Arena is now offline for scheduled downtime. Please visit "
+"https://magicthegatheringarena.statuspage.io for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Maintenance_Warning"
+msgid ""
+"We will be entering maintenance soon. Please see the Status Page "
+"(https://magicthegatheringarena.statuspage.io/) for more details."
+msgstr ""
+
+msgctxt "SystemMessage/System_Match_Connection_Lost_Text"
+msgid "Attempting to reconnect to match..."
+msgstr ""
+
+msgctxt "SystemMessage/System_Matches_Disabled"
+msgid ""
+"Matchmaking for new games has been taken offline while we investigate an "
+"issue. Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Matches_Disruption"
+msgid ""
+"An issue is currently disrupting some matches. While we work to fix it, "
+"please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Matches_Drain"
+msgid ""
+"Matches have been temporarily disabled for those who have not updated their "
+"client. Please update and visit https://magicthegatheringarena.statuspage.io"
+" for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Matches_Restored"
+msgid ""
+"Matchmaking is back online and players can once again start new matches. If "
+"you experience any matchmaking issues, contact Customer Service at "
+"http://mtgarena-support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Matchmaking_Failure_Text"
+msgid ""
+"You have been dropped from the matchmaking queue. Please wait a few moments "
+"and try again.If the problem persists, please contact Customer Service at "
+"http://mtgarena-support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Matchmaking_Failure_Title"
+msgid "Matchmaking Failure"
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_Error_Title"
+msgid "Network Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_IdleDisconnect_ReconnectButton_Text"
+msgid "Reconnect"
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_IdleDisconnect_Text"
+msgid "You have been disconnected.  Please reconnect to continue playing."
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_IdleDisconnect_Title"
+msgid " "
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_IdleTimeout_OkButton_Text"
+msgid "Stay Connected!"
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_IdleTimeout_Text"
+msgid ""
+"Your session will expire in the next {seconds} seconds and you will be "
+"disconnected unless you confirm you're still here and active."
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_IdleTimeout_Title"
+msgid "Are You There?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_LoginQueue_Waiting_FlavorText"
+msgid ""
+"Realizing they weren't getting past the fog, the elves did the only thing "
+"they could do: wait."
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_LoginQueue_Waiting_Text"
+msgid ""
+"We are experiencing heavy load at the moment, and your login has been "
+"queued.  You will be logged in automatically as soon as possible."
+msgstr ""
+
+msgctxt "SystemMessage/System_Network_LoginQueue_Waiting_Title"
+msgid "Login Queue"
+msgstr ""
+
+msgctxt "SystemMessage/System_Patch"
+msgid ""
+"We have successfully patched the issues we were experiencing. Thank you for "
+"your patience!"
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Info_Must_Save_Text"
+msgid ""
+"Payment information must be provided before purchases can be made. Click "
+"‘OK' to open our secure website in a browser."
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Removal_Error_Text"
+msgid ""
+"An unknown error occurred. If this problem persists and you're unable to "
+"find a workaround, please contact customer support."
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Removal_Error_Title"
+msgid "Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Removal_Failure_Text"
+msgid ""
+"We tried to remove your payment information, but couldn't find any stored "
+"for your account. If you believe this is incorrect, please contact customer "
+"support."
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Removal_Failure_Title"
+msgid "Whoops!"
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Removal_Success_Text"
+msgid "Your payment information has been cleared."
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Removal_Success_Title"
+msgid "Success!"
+msgstr ""
+
+msgctxt "SystemMessage/System_Payment_Required_Title"
+msgid "Payment Information Required"
+msgstr ""
+
+msgctxt "SystemMessage/System_PlayFab_Auth_Failure_Text"
+msgid ""
+"Could not authenticate with Account Services: \n"
+" {error} \n"
+" {titleId}"
+msgstr ""
+
+msgctxt "SystemMessage/System_PlayFab_AuthenticationError"
+msgid "Account Authentication Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_PlayFab_InternalDataError"
+msgid "Account Services Internal Data Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_PlayFab_InventoryError"
+msgid "PlayFab Inventory Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Purchase_Info_Error_Text"
+msgid ""
+"Error requesting purchase-confirmation-info on sku {productId} with response"
+" code {responseCode}"
+msgstr ""
+
+msgctxt "SystemMessage/System_Read_Terms_Text"
+msgid "You must accept the Terms and Conditions to continue."
+msgstr ""
+
+msgctxt "SystemMessage/System_Redirect_Website_Title"
+msgid "Redirecting to website"
+msgstr ""
+
+msgctxt "SystemMessage/System_Remove_Payment_Info_Text"
+msgid "Clicking OK will delete your saved payment information. Are you sure?"
+msgstr ""
+
+msgctxt "SystemMessage/System_Sealed_Disabled"
+msgid ""
+"Sealed deck events have been taken offline while we investigate an issue. "
+"Please visit https://magicthegatheringarena.statuspage.io for more "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Sealed_Restored"
+msgid ""
+"Sealed deck events are back online. If you experience any issues with a "
+"sealed deck event, contact Customer Service at http://mtgarena-"
+"support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Server_Full_Text"
+msgid "The servers are currently full. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Skins_Get_Error"
+msgid "Unable to get card styles. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Down"
+msgid ""
+"The store is currently offline. While we work to bring it back, you can "
+"visit https://magicthegatheringarena.statuspage.io for more information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Error_Title"
+msgid "Store Error"
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Products_Get_Error_Text"
+msgid "Unable to get products. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Restored"
+msgid ""
+"The store is back online. If you have issues with the store, please contact "
+"Customer Service at http://mtgarena-support.wizards.com."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Scheduled_Complete"
+msgid "Maintenance is complete and the store is now available."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Scheduled_Start"
+msgid ""
+"The store has been disabled for maintenance. Please see the Status Page  "
+"(https://magicthegatheringarena.statuspage.io/) for more details."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Scheduled_Warning"
+msgid ""
+"We will be disabling the store for maintenance in 10 minutes. Please see the"
+" Status Page (https://magicthegatheringarena.statuspage.io/) for more "
+"details."
+msgstr ""
+
+msgctxt "SystemMessage/System_Store_Status_Error_Text"
+msgid "Unable to reach store. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/System_System_Message_Title"
+msgid "System Message"
+msgstr ""
+
+msgctxt "SystemMessage/System_Update_Payment_Info_Text"
+msgid ""
+"Click 'OK' to open our secure website in a browser to update payment "
+"information."
+msgstr ""
+
+msgctxt "SystemMessage/System_Update_Payment_Info_Title"
+msgid "Payment Information Update"
+msgstr ""
+
+msgctxt "SystemMessage/System_Wait_Website_Title"
+msgid "Waiting for website completion"
+msgstr ""
+
+msgctxt "SystemMessage/System_Wildcard_Redeem_Failure_Text"
+msgid "Unable to redeem wildcard. Please try again later."
+msgstr ""
+
+msgctxt "SystemMessage/SystemDownTime30_0"
+msgid ""
+"We will be bringing the system down for scheduled downtime in 30 minutes. "
+"Please visit http://forums.mtgarena.com for more information. Players will "
+"no longer be able to start matches until after the downtime is complete. "
+msgstr ""
+
+msgctxt "SystemMessage/SystemDownTime60_0"
+msgid ""
+"We will be bringing the system down for scheduled downtime in 60 minutes. "
+"Please visit http://forums.mtgarena.com for more information. Players will "
+"no longer be able to start matches until after the downtime is complete."
+msgstr ""
+
+msgctxt "SystemMessage/SystemDownTime65_60"
+msgid ""
+"We will be bringing the system down for scheduled downtime in 65 minutes. "
+"Please visit http://forums.mtgarena.com for more information. 60 minutes "
+"prior to downtime, players will not be able to start new matches or log in."
+msgstr ""
+
+msgctxt "SystemMessage/SystemDownTime90_60"
+msgid ""
+"We will be bringing the system down for scheduled downtime in 90 minutes. "
+"Please visit http://forums.mtgarena.com for more information. 60 minutes "
+"prior to downtime, players will not be able to start new matches or log in."
+msgstr ""

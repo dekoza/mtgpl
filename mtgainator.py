@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+from typing import TypedDict, Mapping, Optional
+
 import typer
 from decouple import config
-import pathlib
+from pathlib import Path
 import shutil
 import polib
 import json
@@ -22,7 +24,7 @@ assert "en-US" not in [
     SUBSTITUTE_LANG_DEBUG,
 ], "Dla własnego spokoju proszę nie usuwać angielskiego."
 
-CURRENT_DIR = pathlib.Path(__file__).absolute().parent
+CURRENT_DIR = Path(__file__).absolute().parent
 _main_lang = SUBSTITUTE_LANG.split("-")[0]
 _debug_lang = SUBSTITUTE_LANG_DEBUG.split("-")[0]
 
@@ -39,8 +41,8 @@ def substr(text: str) -> str:
     return text.translate({ord(k): ord(v) for k, v in trans_src.items()})
 
 
-def get_valid_mtga_dl_path() -> pathlib.Path:
-    path = pathlib.Path(MTGA_DIR)
+def get_valid_mtga_dl_path() -> Path:
+    path = Path(MTGA_DIR)
     assert path.exists()
     assert path.is_dir()
     downloads = path / "Downloads"
@@ -55,28 +57,62 @@ def get_valid_mtga_dl_path() -> pathlib.Path:
     return downloads
 
 
-def extract_data_pots(path: pathlib.Path):
-    mtga_files = (
-        i for i in os.listdir(path) if i.startswith("data_loc_") and i.endswith(".mtga")
-    )
+def get_mtga_file(prefix: str, path: Path) -> Path:
+    for i in os.listdir(path):
+        if i.startswith(prefix) and i.endswith(".mtga"):
+            return path / i
+
+
+def extract_data_pots(path: Path):
+    filename = get_mtga_file("data_loc", path)
     pot_path = CURRENT_DIR / "MTG" / "templates"
 
     po = polib.POFile()
-    for filename in mtga_files:
-        with open(path / filename) as infile:
-            full_data = json.load(infile)
-            data = get_en_trans(full_data)
-            with typer.progressbar(data, label="Extracting Cards") as progress:
-                for obj in progress:
-                    key = obj["id"]
-                    text = convert_mana_costs(obj["text"])
-                    entry = polib.POEntry(
-                        msgctxt=str(key),
-                        msgid=text,
-                        msgstr="",
-                    )
-                    po.append(entry)
+    with open(path / filename) as infile:
+        full_data = json.load(infile)
+        data = get_en_trans(full_data)
+        annotated = annotate_data_loc(data)
+        with typer.progressbar(annotated.values(), label="Extracting Cards") as progress:
+            for obj in progress:
+                key = obj["id"]
+                text = convert_mana_costs(obj["text"])
+                entry = polib.POEntry(
+                    msgctxt=str(key),
+                    msgid=text,
+                    msgstr="",
+                    flags=list(obj.get("flags", []))
+                )
+                po.append(entry)
     po.save(f"{pot_path}/data_loc.pot")
+
+
+class DataLoc(TypedDict):
+    id: int
+    text: int
+    flags: Optional[set[str]]
+
+
+def annotate_data_loc(data) -> Mapping[int, DataLoc]:
+    annotated: dict[int, DataLoc] = {o["id"]: o for o in data}
+    annotated.setdefault(0, {"id": 0, "text": ""})
+    for o in annotated.values():
+        o["flags"] = set()
+    path = get_valid_mtga_dl_path()
+    abilities_filepath = get_mtga_file("data_abilities", path / "Data")
+    with open(abilities_filepath) as infile:
+        abilities = json.load(infile)
+    for ability in abilities:
+        text_id = ability["text"]
+        annotated[text_id]["flags"].add("internal ability")
+    cards_filepath = get_mtga_file("data_cards", path / "Data")
+    with open(cards_filepath) as infile:
+        cards = json.load(infile)
+    for card in cards:
+        annotated[card["titleId"]]["flags"].add("card title")
+        annotated[card["flavorId"]]["flags"].add("flavor text")
+        annotated[card["cardTypeTextId"]]["flags"].add("card type")
+        annotated[card["subtypeTextId"]]["flags"].add("card subtype")
+    return annotated
 
 
 def get_loc_en_trans(data, loc="en-US"):
@@ -85,7 +121,7 @@ def get_loc_en_trans(data, loc="en-US"):
             return i["translation"]
 
 
-def extract_loc_pots(path: pathlib.Path):
+def extract_loc_pots(path: Path):
     pot_dir = CURRENT_DIR / "MTGA" / "t"
     mtga_files = (i for i in os.listdir(path) if i.endswith(".mtga"))
 
@@ -159,7 +195,7 @@ def get_en_trans(data, loc="en-US"):
             return i["keys"]
 
 
-def translate_data(path: pathlib.Path):
+def translate_data(path: Path):
     podir = CURRENT_DIR / "translated" / "pl" / "LC_MESSAGES"
     orig_path = path / "orig"
 
@@ -194,7 +230,7 @@ def translate_data(path: pathlib.Path):
         create_datfile(filepath)
 
 
-def translate_loc(path: pathlib.Path):
+def translate_loc(path: Path):
     popath = CURRENT_DIR / "MTGA" / "trans" / "pl"
     orig_path = path / "orig"
 
