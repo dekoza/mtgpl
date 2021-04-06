@@ -119,6 +119,9 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
         for ability in card["abilities"]:
             annotated[ability["textId"]]["flags"].update(card_types)
             annotated[ability["textId"]]["flags"].add("printed_ability")
+    for ability in annotated.values():
+        if not ability["flags"]:
+            ability["flags"].add("maybe_hidden")
     return annotated
 
 
