@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-06 00:33+0000\n"
+"PO-Revision-Date: 2021-04-06 09:10+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -27312,7 +27312,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "125101"
 msgid "Afflict 2"
-msgstr ""
+msgstr "Doskwieranie 2"
 
 #. internal_ability
 msgctxt "125102"
@@ -27481,7 +27481,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "125158"
 msgid "Afflict 3"
-msgstr ""
+msgstr "Doskwieranie 3"
 
 #. internal_ability
 msgctxt "125159"
@@ -27544,7 +27544,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "125188"
 msgid "Afflict 1"
-msgstr ""
+msgstr "Doskwieranie 1"
 
 #. card_title
 msgctxt "125189"
@@ -29862,6 +29862,8 @@ msgid ""
 "Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token "
 "with hexproof."
 msgstr ""
+"Ilekroć rzucisz czar Wodnika, stwórz żeton niebieskiego stwora Wodnik 1/1 z "
+"antyklątwą."
 
 #. card_title
 msgctxt "173635"
@@ -29948,7 +29950,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "173650"
 msgid "When this creature becomes the target of a spell, sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar, poświęć go."
 
 #. internal_ability, printed_ability
 msgctxt "173651"
@@ -31235,6 +31237,8 @@ msgid ""
 "Prevent all damage that would be dealt to creatures this turn. Creatures you "
 "control gain hexproof until end of turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane stworom w tej "
+"turze. Stwory pod twoim władaniem zyskują do końca tury antyklątwę."
 
 #. card_title
 msgctxt "173884"
@@ -34234,7 +34238,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "181869"
 msgid "Target creature you control explores."
-msgstr ""
+msgstr "Wskazany stwór pod twoim władaniem eksploruje."
 
 #. card_title
 msgctxt "181870"
@@ -35706,7 +35710,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "226977"
 msgid "This creature gets +1/+1 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem."
 
 #. internal_ability, printed_ability
 msgctxt "226978"
@@ -36412,6 +36416,8 @@ msgid ""
 "When enchanted permanent leaves the battlefield, if it was historic, draw "
 "two cards."
 msgstr ""
+"Kiedy zauroczony permanent opuści pole bitwy, jeśli był historyczny, dobierz "
+"dwie karty."
 
 #. card_title
 msgctxt "227096"
@@ -37280,6 +37286,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice another creature. If you can't, "
 "this creature deals 6 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć innego stwora. Jeśli nie "
+"możesz, ten stwór zadaje tobie 6 obrażeń."
 
 #. internal_ability, printed_ability
 msgctxt "227238"
@@ -38169,6 +38177,9 @@ msgid ""
 "Put a +1/+1 counter on target creature you control if it's legendary. Then "
 "it fights target creature an opponent controls."
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem jeśli jest "
+"legendarny. Następnie walczy on ze wskazanym stworem pod władaniem "
+"przeciwnika."
 
 #. card_title
 msgctxt "227379"
@@ -40733,7 +40744,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "229466"
 msgid "When enchanted creature blocks, destroy it."
-msgstr ""
+msgstr "Kiedy zauroczony stwór zablokuje, zniszcz go."
 
 #. card_title
 msgctxt "229467"
@@ -42394,6 +42405,8 @@ msgid ""
 "Create two 1/1 white Soldier creature tokens. Until end of turn, creatures "
 "you control get +1/+1 and gain haste."
 msgstr ""
+"Stwórz dwa żetony białego stwora Piechur 1/1. Do końca tury stwory pod twoim "
+"władaniem dostają +1/+1 i pośpiech."
 
 #. card_title
 msgctxt "229741"
@@ -43423,7 +43436,7 @@ msgstr ""
 #. internal_ability, printed_ability
 msgctxt "232256"
 msgid "When this creature dies, it deals 1 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 1 obrażenie."
 
 #. internal_ability, printed_ability
 msgctxt "232257"
@@ -44839,6 +44852,8 @@ msgctxt "235719"
 msgid ""
 "Whenever Bomat Courier attacks, exile the top card of your library face down."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj zakrytą wierzchnią kartę twojej "
+"biblioteki."
 
 #. printed_ability
 msgctxt "235721"
@@ -44889,7 +44904,7 @@ msgstr ""
 #. printed_ability
 msgctxt "235750"
 msgid "When Eager Construct enters the battlefield, each player may scry 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wróżyć 1."
 
 #. printed_ability
 msgctxt "235752"
@@ -45240,7 +45255,7 @@ msgstr "Ten stwór nie może blokować artefaktowych stworów."
 #. printed_ability
 msgctxt "236068"
 msgid "Whenever Shielded Aether Thief blocks, you get |energy|."
-msgstr ""
+msgstr "Ilekroć ten stwór zablokuje, przyjmij |energy|."
 
 #. printed_ability
 msgctxt "236071"
@@ -108412,7 +108427,7 @@ msgid ""
 msgstr ""
 "Na początku bitwy w twojej turze, jeśli masz pełną ekipę, stwory pod twoim "
 "władaniem do końca tury zyskują \"Ilekroć ten stwór zada graczowi obrażenia "
-"bojowe, dobierz kartę.\""
+"bojowe, dobierz kartę\"."
 
 #. card_title
 msgctxt "437195"
