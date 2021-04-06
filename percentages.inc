@@ -229,7 +229,7 @@
 .. |JOU_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |LGN_percent| image:: images/pie15.png        
+.. |LGN_percent| image:: images/pie20.png        
 
 .. |5ED_percent| image:: images/pie30.png        
 
@@ -274,7 +274,7 @@
 
 .. |MM2_percent| image:: images/pie70.png        
 
-.. |4ED_percent| image:: images/pie30.png        
+.. |4ED_percent| image:: images/pie35.png        
 
 .. |M20_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
