@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-04-07
+   * Przetłumaczone wszystkie karty dostępne w MTG Arena.
+
 2021-03-24
    * Ultimate Masters - 100%
    * Uzupełnienie braków w TSR
