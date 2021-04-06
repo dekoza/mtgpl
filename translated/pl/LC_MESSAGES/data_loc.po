@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-06 09:10+0000\n"
+"PO-Revision-Date: 2021-04-06 14:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -45929,6 +45929,8 @@ msgid ""
 "You may exert Tah-Crop Elite as it attacks. When you do, creatures you "
 "control get +1/+1 until end of turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, stwory pod twoim "
+"władaniem dostają do końca tury +1/+1."
 
 #. printed_ability
 msgctxt "236617"
@@ -46174,6 +46176,8 @@ msgid ""
 "Whenever you cycle or discard a card, Pitiless Vizier gains indestructible "
 "until end of turn."
 msgstr ""
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór zyskuje do końca tury "
+"niezniszczalność."
 
 #. printed_ability
 msgctxt "236809"
@@ -46216,11 +46220,13 @@ msgid ""
 "You may exert Ahn-Crop Crasher as it attacks. When you do, target creature "
 "can't block this turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, wskazany stwór "
+"nie może blokować w tej turze."
 
 #. printed_ability
 msgctxt "236837"
 msgid "You may exert Battlefield Scavenger as it attacks."
-msgstr ""
+msgstr "Atakując tym stworem możesz go wytężyć."
 
 #. printed_ability
 msgctxt "236841"
@@ -46250,6 +46256,9 @@ msgid ""
 "attacks. When you do, untap all other creatures you control and after this "
 "phase, there is an additional combat phase."
 msgstr ""
+"Jeśli ten stwór nie został wytężony w tej turze, możesz go wytężyć atakując "
+"nim. Kiedy tak zrobisz, odkręć wszystkie inne stwory pod twoim władaniem i "
+"po tej fazie jest dodatkowa faza potyczki."
 
 #. printed_ability
 msgctxt "236863"
@@ -46283,6 +46292,8 @@ msgid ""
 "You may exert Glorybringer as it attacks. When you do, it deals 4 damage to "
 "target non-Dragon creature an opponent controls."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, zadaje on 4 "
+"obrażenia wskazanemu nie-Smokowi pod władaniem przeciwnika."
 
 #. printed_ability
 msgctxt "236886"
@@ -46324,6 +46335,8 @@ msgid ""
 "You may exert Nef-Crop Entangler as it attacks. When you do, it gets +1/+2 "
 "until end of turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, dostaje on do "
+"końca tury +1/+2."
 
 #. printed_ability
 msgctxt "236920"
@@ -46369,6 +46382,8 @@ msgid ""
 "When Cartouche of Strength enters the battlefield, you may have enchanted "
 "creature fight target creature an opponent controls."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, możesz sprawić, że zauroczony stwór "
+"będzie walczyć ze wskazanym stworem pod władaniem przeciwnika."
 
 #. printed_ability
 msgctxt "236949"
@@ -46376,6 +46391,8 @@ msgid ""
 "You may exert Champion of Rhonas as it attacks. When you do, you may put a "
 "creature card from your hand onto the battlefield."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, możesz umieścić "
+"kartę stwora z twojej ręki na polu bitwy."
 
 #. printed_ability
 msgctxt "236957"
@@ -46438,6 +46455,8 @@ msgid ""
 "You may exert Hooded Brawler as it attacks. When you do, it gets +2/+2 until "
 "end of turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, dostaje on do "
+"końca tury +2/+2."
 
 #. printed_ability
 msgctxt "236984"
@@ -46528,6 +46547,7 @@ msgstr ""
 msgctxt "237034"
 msgid "You may exert Watchful Naga as it attacks. When you do, draw a card."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, dobierz kartę."
 
 #. printed_ability
 msgctxt "237037"
@@ -46535,6 +46555,8 @@ msgid ""
 "You may exert Ahn-Crop Champion as it attacks. When you do, untap all other "
 "creatures you control."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, odkręć wszystkie "
+"inne stwory pod twoim władaniem."
 
 #. printed_ability
 msgctxt "237050"
@@ -46604,7 +46626,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru (Finish) — poświęć stwora.
 #. printed_ability
 msgctxt "237154"
 msgid "Cut /// Ribbons deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #. printed_ability
 msgctxt "237157"
@@ -46800,6 +46822,8 @@ msgid ""
 "You may exert Oketra's Avenger as it attacks. When you do, prevent all "
 "combat damage that would be dealt to it this turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, zażegnaj "
+"wszystkie obrażenia bojowe, jakie mogłyby mu zostać zadane w tej turze."
 
 #. printed_ability
 msgctxt "237415"
@@ -47085,6 +47109,8 @@ msgid ""
 "You may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, dostaje on do "
+"końca tury +2/+0."
 
 #. printed_ability
 msgctxt "237623"
@@ -47154,7 +47180,7 @@ msgstr ""
 #. printed_ability
 msgctxt "237663"
 msgid "|mana_1|, |tap|, Exert Hope Tender: Untap two target lands."
-msgstr ""
+msgstr "|mana_1|, |tap|, wytęż tego stwora: Odkręć dwa wskazane lądy."
 
 #. printed_ability
 msgctxt "237670"
@@ -47186,7 +47212,7 @@ msgstr ""
 #. printed_ability
 msgctxt "237677"
 msgid "|tap|, Exert Oasis Ritualist: Add two mana of any one color."
-msgstr ""
+msgstr "|tap|, wytęż tego stwora: Weź dwie many w dowolnym jednym kolorze."
 
 #. printed_ability
 msgctxt "237682"
@@ -47218,6 +47244,9 @@ msgid ""
 "until end of turn and can't be blocked by creatures with power 2 or less "
 "this turn."
 msgstr ""
+"Atakując tym stworem możesz go wytężyć. Kiedy tak zrobisz, dostaje on do "
+"końca tury +1/+1 i nie może być w tej turze blokowany przez stwory o sile 2 "
+"lub mniejszej."
 
 #. printed_ability
 msgctxt "237707"
@@ -47647,7 +47676,7 @@ msgstr ""
 #. printed_ability
 msgctxt "238054"
 msgid "When Sunrise Seeker enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238057"
@@ -47763,7 +47792,7 @@ msgstr "|mana_7|\\ |mana_u|, |tap|, poświęć tego stwora: Dobierz trzy karty."
 #. printed_ability
 msgctxt "238151"
 msgid "When Siren Lookout enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238154"
@@ -47855,6 +47884,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Exile two target cards from an opponent's "
 "graveyard. Deadeye Tracker explores."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wygnaj dwie wskazane karty z cmentarza "
+"przeciwnika. Ten stwór eksploruje."
 
 #. printed_ability
 msgctxt "238210"
@@ -47873,7 +47904,7 @@ msgstr "Ten stwór nie może atakować, chyba że władasz artefaktem."
 #. printed_ability
 msgctxt "238218"
 msgid "When Dire Fleet Interloper enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238221"
@@ -47918,12 +47949,12 @@ msgstr ""
 #. printed_ability
 msgctxt "238245"
 msgid "When Queen's Agent enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238261"
 msgid "When Seekers' Squire enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238264"
@@ -47952,7 +47983,7 @@ msgstr "Ten stwór nie może atakować lub blokować samotnie."
 #. printed_ability
 msgctxt "238292"
 msgid "When Brazen Buccaneers enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238295"
@@ -48146,6 +48177,8 @@ msgid ""
 "When Atzocan Archer enters the battlefield, you may have it fight another "
 "target creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że będzie walczyć z "
+"innym wskazanym stworem."
 
 #. printed_ability
 msgctxt "238415"
@@ -48184,7 +48217,7 @@ msgstr "Ten stwór dostaje +2/+2 o ile władasz Dinozaurem."
 msgctxt "238429"
 msgid ""
 "Whenever Emperor's Vanguard deals combat damage to a player, it explores."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, eksploruje."
 
 #. printed_ability
 msgctxt "238433"
@@ -48211,7 +48244,7 @@ msgstr ""
 #. printed_ability
 msgctxt "238439"
 msgid "When Ixalli's Diviner enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238442"
@@ -48247,7 +48280,7 @@ msgstr ""
 #. printed_ability
 msgctxt "238452"
 msgid "When Merfolk Branchwalker enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238454"
@@ -48300,6 +48333,8 @@ msgid ""
 "<i>Enrage</i> — Whenever Snapping Sailback is dealt damage, put a +1/+1 "
 "counter on it."
 msgstr ""
+"<i>Rozjuszenie</i> — Ilekroć ten stwór otrzyma obrażenia, umieść na nim "
+"znacznik +1/+1."
 
 #. printed_ability
 msgctxt "238479"
@@ -48309,7 +48344,7 @@ msgstr "Ten stwór może blokować dodatkowego stwora w każdej potyczce."
 #. printed_ability
 msgctxt "238484"
 msgid "When Tishana's Wayfinder enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, eksploruje."
 
 #. printed_ability
 msgctxt "238490"
@@ -48510,7 +48545,7 @@ msgstr ""
 #. printed_ability
 msgctxt "238595"
 msgid "When Sentinel Totem enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, wróż 1."
 
 #. printed_ability
 msgctxt "238597"
@@ -48782,6 +48817,8 @@ msgid ""
 "When Aquatic Incursion enters the battlefield, create two 1/1 blue Merfolk "
 "creature tokens with hexproof."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony niebieskiego stwora "
+"Wodnik 1/1 z antyklątwą."
 
 #. printed_ability
 msgctxt "238797"
@@ -49030,7 +49067,7 @@ msgstr ""
 #. printed_ability
 msgctxt "238932"
 msgid "|mana_1|, Discard a card: Tomb Robber explores."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę: Ten stwór eksploruje."
 
 #. printed_ability
 msgctxt "238940"
@@ -49289,6 +49326,8 @@ msgid ""
 "When Jadelight Ranger enters the battlefield, it explores, then it explores "
 "again."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, eksploruje., po czym eksploruje "
+"ponownie."
 
 #. printed_ability
 msgctxt "239064"
@@ -49296,6 +49335,8 @@ msgid ""
 "When Jungleborn Pioneer enters the battlefield, create a 1/1 blue Merfolk "
 "creature token with hexproof."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton niebieskiego stwora "
+"Wodnik 1/1 z antyklątwą."
 
 #. printed_ability
 msgctxt "239070"
@@ -49321,6 +49362,8 @@ msgid ""
 "When Swift Warden enters the battlefield, target Merfolk you control gains "
 "hexproof until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany Wodnik pod twoim władaniem "
+"zyskuje do końca tury antyklątwę."
 
 #. printed_ability
 msgctxt "239086"
@@ -49490,6 +49533,8 @@ msgid ""
 "<i>Enrage</i> — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 "
 "counters on it."
 msgstr ""
+"<i>Rozjuszenie</i> — Ilekroć ten stwór otrzyma obrażenia, umieść na nim dwa "
+"znaczniki +1/+1."
 
 #. printed_ability
 msgctxt "239174"
@@ -49721,6 +49766,7 @@ msgid ""
 "Discard a historic card: Sanctum Spirit gains indestructible until end of "
 "turn."
 msgstr ""
+"Odrzuć historyczną kartę: Ten stwór zyskuje do końca tury niezniszczalność."
 
 #. printed_ability
 msgctxt "239380"
@@ -49778,7 +49824,7 @@ msgstr ""
 #. printed_ability
 msgctxt "239423"
 msgid "When Cloudreader Sphinx enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #. printed_ability
 msgctxt "239439"
@@ -50452,6 +50498,8 @@ msgid ""
 "When Rona, Disciple of Gix enters the battlefield, you may exile target "
 "historic card from your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazaną historyczną "
+"kartę z twojego cmentarza."
 
 #. printed_ability
 msgctxt "239854"
@@ -50505,6 +50553,8 @@ msgid ""
 "When Guardians of Koilos enters the battlefield, you may return another "
 "target historic permanent you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić inny wskazany "
+"historyczny permanent pod twoim władaniem do ręki właściciela."
 
 #. printed_ability
 msgctxt "239897"
@@ -50686,7 +50736,7 @@ msgstr ""
 #. printed_ability
 msgctxt "239980"
 msgid "When Zhalfirin Void enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
 
 #. printed_ability
 msgctxt "239989"
@@ -51816,6 +51866,9 @@ msgid ""
 "life, where X is your devotion to black. You gain life equal to the life "
 "lost this way."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, "
+"gdzie X jest twoim kultem czarnego. Zyskaj życia równe życiom straconym w "
+"ten sposób."
 
 #. printed_ability
 msgctxt "241072"
@@ -51823,6 +51876,8 @@ msgid ""
 "When Fanatic of Mogis enters the battlefield, it deals damage to each "
 "opponent equal to your devotion to red."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po "
+"tyle obrażeń, ile wynosi twój kult czerwonego."
 
 #. printed_ability
 msgctxt "241132"
@@ -51952,7 +52007,7 @@ msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 #. printed_ability
 msgctxt "242480"
 msgid "Carnifex Demon enters the battlefield with two -1/-1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki -1/-1."
 
 #. printed_ability
 msgctxt "242482"
@@ -52149,7 +52204,7 @@ msgstr ""
 #. printed_ability
 msgctxt "243086"
 msgid "When Spiritual Guardian enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #. card_title
 msgctxt "243092"
@@ -54864,7 +54919,7 @@ msgstr ""
 #. printed_ability
 msgctxt "272650"
 msgid "When Dimir Informant enters the battlefield, surveil 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 2."
 
 #. card_title
 msgctxt "272651"
@@ -54889,6 +54944,9 @@ msgid ""
 "When Dream Eater enters the battlefield, surveil 4. When you do, you may "
 "return target nonland permanent an opponent controls to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 4. Kiedy tak zrobisz, możesz "
+"przywrócić wskazany nielądowy permanent pod władaniem przeciwnika do ręki "
+"właściciela."
 
 #. card_title
 msgctxt "272655"
@@ -55143,7 +55201,7 @@ msgstr ""
 #. printed_ability
 msgctxt "272699"
 msgid "When Watcher in the Mist enters the battlefield, surveil 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 2."
 
 #. card_title
 msgctxt "272700"
@@ -55168,7 +55226,7 @@ msgstr ""
 #. printed_ability
 msgctxt "272704"
 msgid "When Barrier of Bones enters the battlefield, surveil 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1."
 
 #. card_title
 msgctxt "272705"
@@ -57287,7 +57345,7 @@ msgstr ""
 #. printed_ability
 msgctxt "273017"
 msgid "When Lazav, the Multifarious enters the battlefield, surveil 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1."
 
 #. internal_ability, printed_ability
 msgctxt "273019"
@@ -57921,7 +57979,7 @@ msgstr ""
 #. printed_ability
 msgctxt "273114"
 msgid "When Whisper Agent enters the battlefield, surveil 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1."
 
 #. card_title
 msgctxt "273115"
@@ -60253,6 +60311,8 @@ msgid ""
 "When Ogre Painbringer enters the battlefield, it deals 3 damage to each "
 "player."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu graczowi po 3 "
+"obrażenia."
 
 #. card_title
 msgctxt "274720"
@@ -66545,6 +66605,8 @@ msgid ""
 "When Hoverguard Sweepers enters the battlefield, you may return up to two "
 "target creatures to their owners' hands."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić co najwyżej dwa "
+"wskazane stwory do rąk właścicieli."
 
 #. card_subtype, card_title
 msgctxt "282252"
@@ -66802,6 +66864,9 @@ msgid ""
 "destroy all creatures your opponents control, then tap all other creatures "
 "you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
+"zniszcz wszystkie stwory pod władaniem przeciwników, po czym przekręć "
+"wszystkie inne stwory pod twoim władaniem."
 
 #. internal_ability
 msgctxt "288186"
@@ -67208,6 +67273,9 @@ msgid ""
 "your library. Put all artifact cards revealed this way into your hand and "
 "the rest into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij trzy wierzchnie karty twojej "
+"biblioteki. Umieść wszystkie karty artefaktów ujawnione w ten sposób w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #. printed_ability
 msgctxt "291779"
@@ -67215,6 +67283,8 @@ msgid ""
 "When Furnace Dragon enters the battlefield, if you cast it from your hand, "
 "exile all artifacts."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
+"wygnaj wszystkie artefakty."
 
 #. printed_ability
 msgctxt "291913"
@@ -68157,6 +68227,8 @@ msgid ""
 "When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy "
 "target nonbasic land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zniszcz "
+"wskazany niebazowy ląd."
 
 #. printed_ability
 msgctxt "320388"
@@ -70346,7 +70418,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336312"
 msgid "When Aven Eternal enters the battlefield, amass 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zgromadź 1."
 
 #. card_title
 msgctxt "336313"
@@ -70449,7 +70521,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336332"
 msgid "When Eternal Skylord enters the battlefield, amass 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zgromadź 2."
 
 #. internal_ability, printed_ability
 msgctxt "336333"
@@ -70643,7 +70715,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336364"
 msgid "When Kiora's Dambreaker enters the battlefield, proliferate."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, rozpleń."
 
 #. card_title
 msgctxt "336365"
@@ -71375,7 +71447,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336488"
 msgid "When Lazotep Reaver enters the battlefield, amass 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zgromadź 1."
 
 #. card_title
 msgctxt "336489"
@@ -71653,7 +71725,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336531"
 msgid "When Vizier of the Scorpion enters the battlefield, amass 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zgromadź 1."
 
 #. internal_ability, printed_ability
 msgctxt "336532"
@@ -71935,7 +72007,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336584"
 msgid "When Dreadhorde Twins enters the battlefield, amass 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zgromadź 2."
 
 #. internal_ability, printed_ability
 msgctxt "336585"
@@ -72487,7 +72559,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336676"
 msgid "When Bloom Hulk enters the battlefield, proliferate."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, rozpleń."
 
 #. card_title
 msgctxt "336677"
@@ -73282,7 +73354,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336811"
 msgid "When Gleaming Overseer enters the battlefield, amass 1."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zgromadź 1."
 
 #. internal_ability, printed_ability
 msgctxt "336812"
@@ -73316,7 +73388,7 @@ msgstr ""
 #. printed_ability
 msgctxt "336818"
 msgid "When Huatli's Raptor enters the battlefield, proliferate."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, rozpleń."
 
 #. flavor_text
 msgctxt "336820"
@@ -75316,6 +75388,9 @@ msgid ""
 "deals damage equal to that creature's power to target creature an opponent "
 "controls."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, ten emblemat zadaje "
+"obrażenia równe sile owego stwora wskazanemu stworowi pod władaniem "
+"przeciwnika."
 
 msgctxt "337601"
 msgid "Move any number of +1/+1 counters."
@@ -76581,7 +76656,7 @@ msgstr ""
 #. printed_ability
 msgctxt "351797"
 msgid "When Octoprophet enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #. card_title
 msgctxt "351798"
@@ -78033,7 +78108,7 @@ msgstr ""
 msgctxt "352014"
 msgid ""
 "When Rapacious Dragon enters the battlefield, create two Treasure tokens."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu."
 
 #. card_title
 msgctxt "352015"
@@ -78129,6 +78204,8 @@ msgid ""
 "Elemental creature tokens. Elementals you control gain haste until end of "
 "turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czerwonego stwora "
+"Żywiołak 1/1. Żywiołaki pod twoim władaniem zyskują do końca tury pośpiech."
 
 #. card_title
 msgctxt "352029"
@@ -81113,7 +81190,7 @@ msgstr ""
 #. printed_ability
 msgctxt "413641"
 msgid "When Fortifying Provisions enters the battlefield, create a Food token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła."
 
 #. card_title
 msgctxt "413642"
@@ -82850,7 +82927,7 @@ msgstr ""
 #. printed_ability
 msgctxt "413902"
 msgid "When Lost Legion enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #. card_title
 msgctxt "413903"
@@ -83171,7 +83248,7 @@ msgstr ""
 #. printed_ability
 msgctxt "413951"
 msgid "When Tempting Witch enters the battlefield, create a Food token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła."
 
 #. internal_ability, printed_ability
 msgctxt "413952"
@@ -84222,6 +84299,8 @@ msgid ""
 "When Feasting Troll King enters the battlefield, if you cast it from your "
 "hand, create three Food tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
+"stwórz trzy żetony Jadła."
 
 #. internal_ability
 msgctxt "414107"
@@ -84282,7 +84361,7 @@ msgstr ""
 #. printed_ability
 msgctxt "414115"
 msgid "When Fierce Witchstalker enters the battlefield, create a Food token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła."
 
 #. card_title
 msgctxt "414116"
@@ -84395,7 +84474,7 @@ msgstr ""
 #. printed_ability
 msgctxt "414134"
 msgid "When Gilded Goose enters the battlefield, create a Food token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła."
 
 #. internal_ability, printed_ability
 msgctxt "414135"
@@ -84798,7 +84877,7 @@ msgstr ""
 #. printed_ability
 msgctxt "414197"
 msgid "When Trail of Crumbs enters the battlefield, create a Food token."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, stwórz żeton Jadła."
 
 #. internal_ability, printed_ability
 msgctxt "414198"
@@ -86000,7 +86079,7 @@ msgstr ""
 #. printed_ability
 msgctxt "414388"
 msgid "When Prophet of the Peak enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #. card_title
 msgctxt "414389"
@@ -86471,7 +86550,7 @@ msgstr ""
 msgctxt "414459"
 msgid ""
 "When Gingerbread Cabin enters the battlefield untapped, create a Food token."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie odkręcony na pole bitwy, stwórz żeton Jadła."
 
 #. card_title
 msgctxt "414460"
@@ -87274,6 +87353,8 @@ msgid ""
 "When Gluttonous Troll enters the battlefield, create a number of Food tokens "
 "equal to the number of opponents you have."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów Jadła, ilu masz "
+"przeciwników."
 
 #. internal_ability
 msgctxt "414570"
@@ -87657,7 +87738,7 @@ msgstr ""
 #. printed_ability
 msgctxt "414820"
 msgid "When Wily Goblin enters the battlefield, create a Treasure token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
 
 #. internal_ability
 msgctxt "414888"
@@ -87717,12 +87798,12 @@ msgstr ""
 msgctxt "415215"
 msgid ""
 "When Prosperous Pirates enters the battlefield, create two Treasure tokens."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu."
 
 #. printed_ability
 msgctxt "415230"
 msgid "When Sailor of Means enters the battlefield, create a Treasure token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability
 msgctxt "415263"
@@ -87806,7 +87887,7 @@ msgstr ""
 #. printed_ability
 msgctxt "416142"
 msgid "When Brazen Freebooter enters the battlefield, create a Treasure token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability
 msgctxt "416193"
@@ -88140,6 +88221,12 @@ msgid ""
 "noncreature, nonland card, put that card on the bottom of your library, each "
 "opponent loses 1 life, and you gain 1 life."
 msgstr ""
+"<i>Lądowanie</i> — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, "
+"wygnaj wierzchnią kartę twojej biblioteki. Jeśli to karta lądu, umieść ją w "
+"twojej ręce. Jeśli to karta stwora, umieść ją na spodzie twojej biblioteki i "
+"stwórz żeton zielonego stwora Roślina 1/1. Jeśli owa karta nie jest lądem "
+"ani stworem, umieść ją na spodzie twojej biblioteki, każdy przeciwnik traci "
+"po 1 życiu, a ty zyskaj 1 życie."
 
 msgctxt "419631"
 msgid "Sacrifice two Foods?"
@@ -88859,6 +88946,8 @@ msgid ""
 "When Reverent Hoplite enters the battlefield, create a number of 1/1 white "
 "Human Soldier creature tokens equal to your devotion to white."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów białego stwora "
+"Człowiek Piechur 1/1, ile wynosi twój kult białego."
 
 #. flavor_text
 msgctxt "419742"
@@ -89544,6 +89633,8 @@ msgid ""
 "When Starlit Mantle enters the battlefield, enchanted creature gains "
 "hexproof until end of turn."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór zyskuje do końca tury "
+"antyklątwę."
 
 #. card_title
 msgctxt "419853"
