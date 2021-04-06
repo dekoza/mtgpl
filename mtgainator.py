@@ -13,7 +13,7 @@ import re
 import zipfile
 from datetime import date
 
-from toolbox.mtg_vars import mtga_rev_map, mtga_cost_map
+from toolbox.mtg_vars import mtga_rev_map, mtga_cost_map, cardtype_trans
 
 MTGA_DIR = config("MTGA_DIR")
 SUBSTITUTE_LANG = config("SUBSTITUTE_LANG", default="pt-BR")
@@ -115,7 +115,9 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
         annotated[card["flavorId"]]["flags"].add("flavor_text")
         annotated[card["cardTypeTextId"]]["flags"].add("card_type")
         annotated[card["subtypeTextId"]]["flags"].add("card_subtype")
+        card_types = {f"type_{cardtype_trans[t]}" for t in card["types"]}
         for ability in card["abilities"]:
+            annotated[ability["textId"]]["flags"].update(card_types)
             annotated[ability["textId"]]["flags"].add("printed_ability")
     return annotated
 

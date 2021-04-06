@@ -296,3 +296,17 @@ mtga_cost_map = {
     "(G/W)": "|mana_gw|",
     "(G/U)": "|mana_gu|",
 }
+
+cardtype_trans = [
+    "0",  # 0
+    "artifact",  # 1
+    "creature",  # 2
+    "enchantment",  # 3
+    "instant",  # 4
+    "land",  # 5
+    "6",  # 6
+    "7",  # 7
+    "planeswalker",  # 8
+    "9",  # 9
+    "sorcery",  # 10
+]
