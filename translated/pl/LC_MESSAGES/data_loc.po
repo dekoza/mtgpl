@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-06 14:20+0000\n"
+"PO-Revision-Date: 2021-04-06 22:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -49880,6 +49880,7 @@ msgctxt "239458"
 msgid ""
 "Relic Runner can't be blocked if you've cast a historic spell this turn."
 msgstr ""
+"Ten stwór nie może być blokowany jeśli w tej turze rzuciłeś historyczny czar."
 
 #. printed_ability, type_creature
 msgctxt "239465"
@@ -50089,6 +50090,8 @@ msgid ""
 "Whenever you cast a spell, if that spell was kicked, Bloodstone Goblin gets "
 "+1/+1 and gains menace until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar, jeśli ów czar został podbity, ten stwór dostaje do "
+"końca tury +1/+1 i złowrogość."
 
 #. printed_ability, type_creature
 msgctxt "239607"
@@ -50116,6 +50119,9 @@ msgid ""
 "Fight with Fire deals 5 damage to target creature. If this spell was kicked, "
 "it deals 10 damage divided as you choose among any number of targets instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 5 obrażeń. Jeśli został podbity zamiast "
+"tego zadaje on 10 obrażeń rozdzielonych dowolnie pomiędzy dowolną liczbę "
+"wskazanych celów."
 
 #. printed_ability, type_creature
 msgctxt "239621"
@@ -50758,7 +50764,7 @@ msgstr ""
 #. printed_ability, type_land
 msgctxt "239980"
 msgid "When Zhalfirin Void enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #. printed_ability, type_creature
 msgctxt "239989"
@@ -51462,6 +51468,8 @@ msgctxt "240465"
 msgid ""
 "Whenever Hungering Hydra is dealt damage, put that many +1/+1 counters on it."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, umieść na niej tyle samo znaczników +1/"
+"+1."
 
 #. printed_ability, type_creature
 msgctxt "240470"
@@ -51754,13 +51762,13 @@ msgctxt "240643"
 msgid ""
 "As long as you control a Tezzeret planeswalker, Tezzeret's Strider has "
 "menace."
-msgstr ""
+msgstr "O ile władasz wędrowcem typu Tezzeret, ten stwór ma złowrogość."
 
 #. printed_ability, type_creature
 msgctxt "240650"
 msgid ""
 "Arisen Gorgon has deathtouch as long as you control a Liliana planeswalker."
-msgstr ""
+msgstr "Ten stwór ma dotyk śmierci o ile władasz wędrowcem typu Liliana."
 
 #. printed_ability, type_planeswalker
 msgctxt "240658"
@@ -51781,7 +51789,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "240664"
 msgid "As long as you control a Dragon, Kargan Dragonrider has flying."
-msgstr ""
+msgstr "O ile władasz Smokiem, ten stwór ma latanie."
 
 #. printed_ability, type_sorcery
 msgctxt "240666"
@@ -52037,6 +52045,8 @@ msgid ""
 "|mana_b|, Remove a -1/-1 counter from Carnifex Demon: Put a -1/-1 counter on "
 "each other creature."
 msgstr ""
+"|mana_b|, usuń znacznik -1/-1 z tego stwora: Umieść znacznik -1/-1 na każdym "
+"innym stworze."
 
 #. printed_ability, type_creature
 msgctxt "242764"
@@ -53303,6 +53313,8 @@ msgid ""
 "Whenever one or more creatures you control attack, they gain indestructible "
 "until end of turn."
 msgstr ""
+"Ilekroć zaatakuje co najmniej jeden stwór pod twoim władaniem, każdy z nich "
+"zyskuje do końca tury niezniszczalność."
 
 #. card_title
 msgctxt "261485"
@@ -54885,7 +54897,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_instant, type_sorcery
 msgctxt "272640"
 msgid "Jump-start"
-msgstr ""
+msgstr "Na pych"
 
 #. card_title
 msgctxt "272641"
@@ -54900,7 +54912,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "272643"
 msgid "When Citywatch Sphinx dies, surveil 2."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, szpieguj 2."
 
 #. card_title
 msgctxt "272644"
@@ -55108,7 +55120,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "272679"
 msgid "Whenever Nightveil Sprite attacks, surveil 1."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, szpieguj 1."
 
 #. card_title
 msgctxt "272680"
@@ -55365,7 +55377,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "272722"
 msgid "Pay 2 life: Surveil 2."
-msgstr ""
+msgstr "Zapłać 2 życia: Szpieguj 2."
 
 #. card_title
 msgctxt "272723"
@@ -57219,7 +57231,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "272994"
 msgid "|mana_2|\\ |mana_b|, |tap|: Surveil 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|, |tap|: Szpieguj 2."
 
 #. card_title
 msgctxt "272995"
@@ -57309,6 +57321,8 @@ msgid ""
 "Untap all creatures you control. They gain hexproof and indestructible until "
 "end of turn."
 msgstr ""
+"Odkręć wszystkie stwory pod twoim władaniem. Do końca tury zyskują one "
+"antyklątwę i niezniszczalność."
 
 #. card_title
 msgctxt "273007"
@@ -57837,6 +57851,9 @@ msgid ""
 "Creatures you control gain deathtouch until end of turn. Then target "
 "creature you control fights target creature you don't control."
 msgstr ""
+"Stwory pod twoim władaniem zyskują do końca tury dotyk śmierci. Następnie "
+"wskazany stwór pod twoim włądaniem walczy ze wskazanym stworem poza twoim "
+"władaniem."
 
 #. card_title
 msgctxt "273090"
@@ -58409,6 +58426,8 @@ msgid ""
 "Equipped creature gets +1/+0 for each Gate you control and has vigilance and "
 "menace."
 msgstr ""
+"Wyposażony stwór dostaje +1/+0 za każdą Bramę pod twoim władaniem oraz ma "
+"czujność i złowrogość."
 
 #. card_title
 msgctxt "273179"
@@ -60236,7 +60255,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "274693"
 msgid "Soulhunter Rakshasa can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #. flavor_text
 msgctxt "274698"
@@ -60260,6 +60279,8 @@ msgstr "Ten czar zadaje każdemu stworowi bez latania po 2 obrażenia."
 msgctxt "274703"
 msgid "Tap all creatures your opponents control with toughness 2 or less."
 msgstr ""
+"Przekręć wszystkie stwory o wytrzymałości 2 lub mniejszej pod władaniem "
+"twoich przeciwników."
 
 #. internal_ability, printed_ability, type_instant
 msgctxt "274704"
@@ -60345,7 +60366,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_instant
 msgctxt "274721"
 msgid "Cast this spell only if a creature is attacking you."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko jeśli stwór cię atakuje."
 
 msgctxt "274722"
 msgid ""
@@ -61170,7 +61191,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279543"
 msgid "|mana_1|\\ |mana_u|: Adapt 1."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Adaptacja 1."
 
 #. internal_ability
 msgctxt "279544"
@@ -61498,6 +61519,8 @@ msgid ""
 "|mana_7|\\ |mana_u|: Adapt 4. This ability costs |mana_1| less to activate "
 "for each instant and sorcery card in your graveyard."
 msgstr ""
+"|mana_7|\\ |mana_u|: Adaptacja 4. Aktywacja tej zdolności kosztuje o |mana_1|"
+" mniej za każdą kartę sztuczki i obrzędu w twoim cmentarzu."
 
 #. card_title
 msgctxt "279596"
@@ -61587,7 +61610,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279610"
 msgid "|mana_5|\\ |mana_u|: Adapt 2."
-msgstr ""
+msgstr "|mana_5|\\ |mana_u|: Adaptacja 2."
 
 #. card_title
 msgctxt "279611"
@@ -61604,7 +61627,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279613"
 msgid "|mana_2|\\ |mana_u|: Adapt 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Adaptacja 2."
 
 #. card_title
 msgctxt "279614"
@@ -61777,7 +61800,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279643"
 msgid "Spectacle |mana_2|\\ |mana_b|"
-msgstr ""
+msgstr "Widowisko |mana_2|\\ |mana_b|"
 
 #. internal_ability
 msgctxt "279644"
@@ -61963,7 +61986,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "279670"
 msgid "Spectacle |mana_1|\\ |mana_b|"
-msgstr ""
+msgstr "Widowisko |mana_1|\\ |mana_b|"
 
 #. card_title
 msgctxt "279671"
@@ -61990,7 +62013,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "279675"
 msgid "Spectacle |mana_b|"
-msgstr ""
+msgstr "Widowisko |mana_b|"
 
 #. card_title
 msgctxt "279676"
@@ -62264,7 +62287,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279717"
 msgid "Spectacle |mana_1|\\ |mana_b|\\ |mana_b|"
-msgstr ""
+msgstr "Widowisko |mana_1|\\ |mana_b|\\ |mana_b|"
 
 #. internal_ability
 msgctxt "279718"
@@ -62480,7 +62503,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279746"
 msgid "Riot"
-msgstr ""
+msgstr "Zamieszki"
 
 #. printed_ability, type_creature
 msgctxt "279747"
@@ -62803,7 +62826,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "279796"
 msgid "Spectacle |mana_r|"
-msgstr ""
+msgstr "Widowisko |mana_r|"
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "279797"
@@ -62840,7 +62863,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279801"
 msgid "Spectacle |mana_2|\\ |mana_b|\\ |mana_r|"
-msgstr ""
+msgstr "Widowisko |mana_2|\\ |mana_b|\\ |mana_r|"
 
 #. internal_ability
 msgctxt "279802"
@@ -63068,7 +63091,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279834"
 msgid "Spectacle |mana_2|\\ |mana_r|"
-msgstr ""
+msgstr "Widowisko |mana_2|\\ |mana_r|"
 
 #. card_title
 msgctxt "279835"
@@ -63291,7 +63314,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279868"
 msgid "|mana_2|\\ |mana_g|: Adapt 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|: Adaptacja 2."
 
 #. printed_ability, type_creature
 msgctxt "279870"
@@ -63373,7 +63396,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279880"
 msgid "|mana_3|\\ |mana_g|\\ |mana_g|: Adapt 3."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|\\ |mana_g|: Adaptacja 3."
 
 #. flavor_text
 msgctxt "279881"
@@ -63520,7 +63543,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279903"
 msgid "|mana_4|\\ |mana_g|\\ |mana_g|: Adapt 4."
-msgstr ""
+msgstr "|mana_4|\\ |mana_g|\\ |mana_g|: Adaptacja 4."
 
 #. card_title
 msgctxt "279904"
@@ -63746,7 +63769,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "279938"
 msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Adapt 1."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|\\ |mana_u|: Adaptacja 1."
 
 #. card_title
 msgctxt "279939"
@@ -64095,6 +64118,8 @@ msgid ""
 "+1: Add |mana_r| or |mana_g|. If that mana is spent on a creature spell, it "
 "gains riot."
 msgstr ""
+"+1: Weź |mana_r| lub |mana_g|. Jeśli ta mana zostania wydana na czar stwora, "
+"zyskuje on zamieszki."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "279989"
@@ -64185,7 +64210,7 @@ msgstr "Kiedy CARDNAME wejdzie na pole bitwy, zyskaj 2 życia i dobierz kartę."
 msgctxt "280000"
 msgid ""
 "When Dovin's Acuity enters the battlefield, you gain 2 life and draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia i dobierz kartę."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 2 życia i dobierz kartę."
 
 #. internal_ability
 msgctxt "280001"
@@ -64492,7 +64517,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "280048"
 msgid "Spectacle |mana_b|\\ |mana_r|"
-msgstr ""
+msgstr "Widowisko |mana_b|\\ |mana_r|"
 
 #. printed_ability, type_creature
 msgctxt "280049"
@@ -64818,7 +64843,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "280098"
 msgid "Spectacle |mana_3|\\ |mana_b|\\ |mana_r|"
-msgstr ""
+msgstr "Widowisko |mana_3|\\ |mana_b|\\ |mana_r|"
 
 #. internal_ability
 msgctxt "280099"
@@ -64993,7 +65018,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "280122"
 msgid "Nontoken creatures you control have riot."
-msgstr ""
+msgstr "Nieżetonowe stwory pod twoim władaniem mają zamieszki."
 
 #. card_title
 msgctxt "280123"
@@ -65321,7 +65346,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "280172"
 msgid "|mana_4|\\ |mana_g|\\ |mana_u|: Adapt 4."
-msgstr ""
+msgstr "|mana_4|\\ |mana_g|\\ |mana_u|: Adaptacja 4."
 
 #. card_title
 msgctxt "280173"
@@ -65384,7 +65409,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "280183"
 msgid "|mana_6|\\ |mana_gu|\\ |mana_gu|: Adapt 3."
-msgstr ""
+msgstr "|mana_6|\\ |mana_gu|\\ |mana_gu|: Adaptacja 3."
 
 #. internal_ability
 msgctxt "280184"
@@ -66102,7 +66127,7 @@ msgid ""
 "When Plaza of Harmony enters the battlefield, if you control two or more "
 "Gates, you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co najmniej dwiema "
+"Kiedy ten ląd wejdzie na pole bitwy, jeśli władasz co najmniej dwiema "
 "Bramami, zyskaj 3 życia."
 
 #. internal_ability, printed_ability, type_land
@@ -66240,6 +66265,7 @@ msgid ""
 "As long as you control a Dovin planeswalker, Dovin's Automaton gets +2/+2 "
 "and has vigilance."
 msgstr ""
+"O ile władasz wędrowcem typu Dovin, ten stwór dostaje +2/+2 i ma czujność."
 
 #. card_title
 msgctxt "280321"
@@ -66290,6 +66316,7 @@ msgid ""
 "As long as you control a Domri planeswalker, Charging War Boar gets +1/+1 "
 "and has trample."
 msgstr ""
+"O ile władasz wędrowcem typu Domri, ten stwór dostaje +1/+1 i ma tratowanie."
 
 #. card_title
 msgctxt "280329"
@@ -66440,11 +66467,15 @@ msgid ""
 "When Vengeant Vampire dies, destroy target creature an opponent controls and "
 "you gain 4 life."
 msgstr ""
+"Kiedy ten stwór umrze, zniszcz wskazanego stwora pod władaniem przeciwnika i "
+"zyskaj 4 życia."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "280365"
 msgid "Creatures your opponents control attack each combat if able."
 msgstr ""
+"Stwory pod władaniem twoich przeciwników atakują w każdej potyczce jeśli "
+"mogą."
 
 msgctxt "280366"
 msgid "Shuffle the targeted cards into your library?"
@@ -66545,7 +66576,7 @@ msgstr ""
 #. printed_ability, type_artifact, type_creature
 msgctxt "281895"
 msgid "Colossus of Sardia doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #. printed_ability, type_artifact, type_creature
 msgctxt "281896"
@@ -66553,6 +66584,8 @@ msgid ""
 "|mana_9|: Untap Colossus of Sardia. Activate this ability only during your "
 "upkeep."
 msgstr ""
+"|mana_9|: Odkręć tego stwora. Możesz aktywować tę zdolność tylko w twoim "
+"kroku utrzymania."
 
 #. card_subtype
 msgctxt "281911"
@@ -66901,6 +66934,8 @@ msgctxt "288187"
 msgid ""
 "At the beginning of each upkeep, Magmatic Force deals 3 damage to any target."
 msgstr ""
+"Na początku każdego kroku utrzymania, ten stwór zadaje wskazanemu celowi 3 "
+"obrażenia."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "288258"
@@ -67315,6 +67350,8 @@ msgid ""
 "At the beginning of your upkeep, you may put a charge counter on Darksteel "
 "Reactor."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić znacznik ładunku na "
+"tym artefakcie."
 
 #. printed_ability, type_artifact
 msgctxt "291915"
@@ -67322,6 +67359,8 @@ msgid ""
 "When Darksteel Reactor has twenty or more charge counters on it, you win the "
 "game."
 msgstr ""
+"Kiedy ten artefakt ma co najmniej dwadzieścia znaczników ładunku, wygrywasz "
+"grę."
 
 #. printed_ability, type_land
 msgctxt "292024"
@@ -67406,6 +67445,8 @@ msgid ""
 "When you cycle Gempalm Incinerator, you may have it deal X damage to target "
 "creature, where X is the number of Goblins on the battlefield."
 msgstr ""
+"Recyklując tę kartę możesz sprawić, że zada ona wskazanemu stworowi X "
+"obrażeń, gdzie X jest liczbą Goblinów na polu bitwy."
 
 msgctxt "292880"
 msgid "Reveal an Elf card."
@@ -67439,6 +67480,9 @@ msgid ""
 "of Lightning deals damage equal to that card's converted mana cost to that "
 "permanent or player."
 msgstr ""
+"Wskaż dowolny cel. Wróż 3, po czym ujawnij wierzchnią kartę twojej "
+"biblioteki. Ten czar zadaje owemu celowi obrażenia równe skrótowi many owej "
+"karty."
 
 msgctxt "293920"
 msgid "Target a creature that was dealt damage this turn."
@@ -67517,6 +67561,8 @@ msgid ""
 "When you cycle Gempalm Polluter, you may have target player lose life equal "
 "to the number of Zombies on the battlefield."
 msgstr ""
+"Recyklując tę kartę możesz sprawić, że wskazany gracz straci życia równe "
+"liczbie Zombi na polu bitwy."
 
 #. printed_ability, type_creature
 msgctxt "296332"
@@ -67706,7 +67752,7 @@ msgctxt "301127"
 msgid ""
 "Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an "
 "Island."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, poświęć go, chyba że poświęcisz Wyspę."
 
 #. printed_ability, type_instant
 msgctxt "302506"
@@ -67811,6 +67857,8 @@ msgid ""
 "Whenever a source deals damage to Phyrexian Obliterator, that source's "
 "controller sacrifices that many permanents."
 msgstr ""
+"Ilekroć jakieś źródło zada obrażenia temu stworowi, władca owego źródła "
+"poświęca tyle samo permanentów."
 
 #. card_subtype, card_title
 msgctxt "307095"
@@ -67823,6 +67871,8 @@ msgid ""
 "Terravore's power and toughness are each equal to the number of land cards "
 "in all graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart lądów we wszystkich "
+"cmentarzach."
 
 #. printed_ability, type_creature
 msgctxt "307546"
@@ -67900,6 +67950,8 @@ msgid ""
 "You may have Body Double enter the battlefield as a copy of any creature "
 "card in a graveyard."
 msgstr ""
+"Możesz umieścić tę kartę na polu bitwy jako kopię dowolnej karty stwora z "
+"cmentarza."
 
 msgctxt "309519"
 msgid "Target a spell that targets you."
@@ -68121,7 +68173,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "312590"
 msgid "Ghastlord of Fugue can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #. internal_ability
 msgctxt "312591"
@@ -68136,6 +68188,8 @@ msgid ""
 "Whenever Ghastlord of Fugue deals combat damage to a player, that player "
 "reveals their hand. You choose a card from it. That player exiles that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia swoją "
+"rękę. Wybierz z niej kartę. Ów gracz wygania ową kartę."
 
 #. card_subtype
 msgctxt "312641"
@@ -68148,6 +68202,8 @@ msgid ""
 "If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 "
 "damage to that player."
 msgstr ""
+"Jeśli wskazany gracz ma dokładnie 10 żyć, ten czar zadaje owemu graczowi 10 "
+"obrażeń."
 
 #. printed_ability, type_creature
 msgctxt "313738"
@@ -68845,6 +68901,8 @@ msgid ""
 "As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and "
 "has trample."
 msgstr ""
+"O ile władasz co najmniej ośmioma lądami, ten stwór dostaje +4/+4 i ma "
+"tratowanie."
 
 msgctxt "328159"
 msgid "Sacrifice a creature named Festering Newt."
@@ -68979,6 +69037,8 @@ msgctxt "329140"
 msgid ""
 "This spell costs |mana_x| less to cast, where X is your devotion to black."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest twoim kultem "
+"czarnego."
 
 #. internal_ability
 msgctxt "329182"
@@ -69094,7 +69154,7 @@ msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 #. printed_ability, type_artifact
 msgctxt "330190"
 msgid "|tap|, Sacrifice Black Lotus: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|, poświęć ten artefakt: Weź trzy many w dowolnym jednym kolorze."
 
 #. printed_ability, type_creature
 msgctxt "330275"
@@ -69982,6 +70042,7 @@ msgid ""
 "Whenever Grateful Apparition deals combat damage to a player or "
 "planeswalker, proliferate."
 msgstr ""
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń."
 
 #. card_title
 msgctxt "336234"
@@ -70385,7 +70446,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "336300"
 msgid "Exile target creature, then proliferate."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora, po czym rozpleń."
 
 #. card_title
 msgctxt "336301"
@@ -70489,6 +70550,8 @@ msgctxt "336322"
 msgid ""
 "Draw two cards, then amass X, where X is the number of cards in your hand."
 msgstr ""
+"Dobierz dwie karty, po czym zgromadź X, gdzie X jest liczbą kart w twojej "
+"ręce."
 
 #. card_title
 msgctxt "336323"
@@ -71118,6 +71181,7 @@ msgstr ""
 msgctxt "336426"
 msgid "Up to one target creature gets -2/-2 until end of turn. Amass 2."
 msgstr ""
+"Co najwyżej jeden wskazany stwór dostaje do końca tury -2/-2. Zgromadź 2."
 
 #. card_title
 msgctxt "336427"
@@ -71419,7 +71483,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "336478"
 msgid "When Herald of the Dreadhorde dies, amass 2."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zgromadź 2."
 
 #. card_title
 msgctxt "336479"
@@ -72653,7 +72717,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "336688"
 msgid "Put a +1/+1 counter on target creature, then proliferate."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze, po czym rozpleń."
 
 #. card_title
 msgctxt "336689"
@@ -72896,7 +72960,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "336728"
 msgid "Paradise Druid has hexproof as long as it's untapped."
-msgstr ""
+msgstr "Ten stwór ma antyklątwę o ile jest odkręcony."
 
 #. card_title
 msgctxt "336729"
@@ -73424,6 +73488,7 @@ msgid ""
 "Amass X, where X is the number of instant and sorcery cards in your "
 "graveyard."
 msgstr ""
+"Zgromadź X, gdzie X jest liczbą kart sztuczek i obrzędów w twoim cmentarzu."
 
 #. card_title
 msgctxt "336822"
@@ -73482,7 +73547,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "336831"
 msgid "|mana_3|\\ |mana_g|\\ |mana_u|: Proliferate."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|\\ |mana_u|: Rozpleń."
 
 #. card_title
 msgctxt "336832"
@@ -74036,6 +74101,8 @@ msgid ""
 "Amass 2, then the Army you amassed deals damage equal to its power to each "
 "non-Army creature."
 msgstr ""
+"Zgromadź 2, po czym zgromadzona Armia zadaje obrażenia równe swojej sile "
+"każdemu stworowi bez typu Armia."
 
 #. card_title
 msgctxt "336919"
@@ -74045,7 +74112,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "336920"
 msgid "–2: Amass 2."
-msgstr ""
+msgstr "–2: Zgromadź 2."
 
 #. card_title
 msgctxt "336921"
@@ -74212,7 +74279,7 @@ msgctxt "336946"
 msgid ""
 "Whenever this creature deals damage to a planeswalker, destroy that "
 "planeswalker."
-msgstr ""
+msgstr "Ilekroć ten stwór zada obrażenia wędrowcowi, zniszcz owego wędrowca."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "336947"
@@ -74530,6 +74597,9 @@ msgid ""
 "creature that's still a planeswalker. Prevent all damage that would be dealt "
 "to him this turn."
 msgstr ""
+"+2: Do końca tury ten wędrowiec staje się białym stworem Piechur 5/5 i nadal "
+"jest wędrowcem. Zażegnaj wszystkie obrażenia, jakie mogłyby mu zostać zadane "
+"w tej turze."
 
 #. internal_ability
 msgctxt "336998"
@@ -74617,6 +74687,7 @@ msgid ""
 "Whenever Guildpact Informant deals combat damage to a player or "
 "planeswalker, proliferate."
 msgstr ""
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń."
 
 #. card_title
 msgctxt "337015"
@@ -74661,6 +74732,7 @@ msgstr ""
 msgctxt "337024"
 msgid "Creature and planeswalker spells you cast have affinity for artifacts."
 msgstr ""
+"Rzucane przez ciebie czary stworów i wędrowców mają koligację z artefaktami."
 
 #. internal_ability
 msgctxt "337025"
@@ -74840,6 +74912,10 @@ msgid ""
 "put the exiled cards that weren't cast this way on the bottom of that "
 "library in a random order."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w turze, wygnaj karty z wierzchu twojej "
+"biblioteki aż wygnasz nielądową kartę o skrócie many mniejszym niż ów czar. "
+"Możesz ją rzucić bez płacenia jej kosztu many. Następnie umieść owe wygnane "
+"karty nie rzucone w ten sposób losowo na spodzie twojej biblioteki."
 
 #. internal_ability, printed_ability, type_artifact
 msgctxt "337097"
@@ -74847,6 +74923,8 @@ msgid ""
 "|mana_0|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. Activate "
 "this ability only once each turn."
 msgstr ""
+"|mana_0|: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. Możesz "
+"aktywować tę zdolność tylko raz na turę."
 
 #. internal_ability
 msgctxt "337099"
@@ -75272,7 +75350,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "337154"
 msgid "When Roalesk dies, proliferate, then proliferate again."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, rozpleń, po czym rozpleń ponownie."
 
 #. flavor_text
 msgctxt "337155"
@@ -75484,6 +75562,9 @@ msgid ""
 "At the beginning of your upkeep, create a colorless Treasure artifact token "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton bezkolorowego artefaktu "
+"Skarb mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+"\""
 
 msgctxt "340882"
 msgid "Pay life."
@@ -75502,6 +75583,10 @@ msgid ""
 "<i>Revolt</i> — Destroy that creature if it has converted mana cost 4 or "
 "less instead if a permanent you controlled left the battlefield this turn."
 msgstr ""
+"Zniszcz wskazanego stwora jeśli jego skrót many wynosi 2 lub mniej.\n"
+"<i>Rewolta</i> — Zamiast tego zniszcz owego stwora jeśli jego skrót many "
+"wynosi 4 lub mniej jeśli permanent będący pod twoim władaniem opuścił pole "
+"bitwy w tej turze."
 
 #. printed_ability, type_instant
 msgctxt "341384"
@@ -76213,7 +76298,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "351725"
 msgid "Other creatures you control with flying have indestructible."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mające latanie mają niezniszczalność."
 
 #. card_title
 msgctxt "351726"
@@ -76910,7 +76995,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "351833"
 msgid "As long as it's your turn, Blood Burglar has lifelink."
-msgstr ""
+msgstr "O ile jest twoja tura, ten stwór ma więź życia."
 
 #. card_title
 msgctxt "351834"
@@ -77447,6 +77532,8 @@ msgid ""
 "Whenever you lose life for the first time each turn, put a +1/+1 counter on "
 "Vengeful Warchief."
 msgstr ""
+"Ilekroć po raz pierwszy stracisz życie w danej turze, umieść znacznik +1/+1 "
+"na tym stworze."
 
 #. card_title
 msgctxt "351915"
@@ -78812,6 +78899,10 @@ msgid ""
 "you control can't be countered this turn. You and permanents you control "
 "gain hexproof from blue and from black until end of turn."
 msgstr ""
+"Dobierz kartę jeśli przeciwnik rzucił niebieski lub czarny czar w tej turze. "
+"Czary pod twoim władaniem nie mogą być skontrowane w tej turze. Ty i "
+"permanenty pod twoim władaniem zyskujecie do końca tury antyklątwę przed "
+"niebieskim i czarnym."
 
 #. card_title
 msgctxt "352115"
@@ -79842,7 +79933,7 @@ msgstr ""
 msgctxt "352265"
 msgid ""
 "As long as you have 25 or more life, Twinblade Paladin has double strike."
-msgstr ""
+msgstr "O ile masz co najmniej 25 żyć, ten stwór ma podwójny cios."
 
 #. card_title
 msgctxt "352266"
@@ -80003,6 +80094,8 @@ msgid ""
 "At the beginning of your end step, if an opponent lost life this turn, put a "
 "+1/+1 counter on Savage Gorger."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli przeciwnik stracił życia w tej "
+"turze, umieść znacznik +1/+1 na tym stworze."
 
 #. card_title
 msgctxt "352291"
@@ -80911,6 +81004,10 @@ msgid ""
 "planeswalker you control. If you control no creatures with +1/+1 counters on "
 "them and you control no planeswalkers, amass 1."
 msgstr ""
+"Na początku twojego kroku końcowego, umieść znacznik +1/+1 na każdy stworze "
+"pod twoim władaniem mającym znacznik +1/+1 oraz znacznik lojalności na "
+"każdym wędrowcu pod twoim władaniem. Jeśli nie masz we władaniu stwora ze "
+"znacznikiem +1/+1 ani wędrowca, zgromadź 1."
 
 #. card_title
 msgctxt "413596"
@@ -81213,7 +81310,7 @@ msgstr ""
 #. printed_ability, type_enchantment
 msgctxt "413641"
 msgid "When Fortifying Provisions enters the battlefield, create a Food token."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, stwórz żeton Jadła."
 
 #. card_title
 msgctxt "413642"
@@ -82540,7 +82637,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_instant
 msgctxt "413841"
 msgid "Destroy target creature. Create a Food token."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Stwórz żeton Jadła."
 
 #. card_title
 msgctxt "413842"
@@ -82889,6 +82986,7 @@ msgid ""
 "Whenever equipped creature deals combat damage to a creature, create a Food "
 "token."
 msgstr ""
+"Ilekroć wyposażony stwór zada stworowi obrażenia bojowe, stwórz żeton Jadła."
 
 #. card_title
 msgctxt "413893"
@@ -83768,6 +83866,9 @@ msgid ""
 "The creature you control gets +2/+1 until end of turn if it's a Knight. Then "
 "those creatures fight each other."
 msgstr ""
+"Wskaż stwora pod twoim władaniem i wskaż stwora poza twoim władaniem. Ów "
+"stwór pod twoim władaniem dostaje do końca tury +2/+1 jeśli jest Rycerzem. "
+"Następnie owe stwory walczą ze sobą."
 
 #. card_title
 msgctxt "414026"
@@ -83833,6 +83934,8 @@ msgid ""
 "Whenever Ogre Errant attacks, another target attacking Knight gains menace "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący Rycerz zyskuje do końca "
+"tury złowrogość."
 
 #. card_title
 msgctxt "414037"
@@ -84368,6 +84471,8 @@ msgid ""
 "Fell the Pheasant deals 5 damage to target creature with flying. Create a "
 "Food token."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi mającemu latanie 5 obrażeń. Stwórz żeton "
+"Jadła."
 
 #. card_title
 msgctxt "414113"
@@ -84488,6 +84593,8 @@ msgid ""
 "You may sacrifice two Foods. If you do, create a 7/7 green Giant creature "
 "token. Otherwise, create three Food tokens."
 msgstr ""
+"Możesz poświęcić dwa Jadła. Jeśli tak zrobisz stwórz żeton zielonego stwora "
+"Gigant 7/7. W przeciwnym razie stwórz trzy żetony Jadła."
 
 #. card_title
 msgctxt "414133"
@@ -85036,7 +85143,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "414215"
 msgid "When this creature dies, create a Food token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton Jadła."
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "414216"
@@ -85044,6 +85151,8 @@ msgid ""
 "Create three 1/1 green Boar creature tokens with \"When this creature dies, "
 "create a Food token.\""
 msgstr ""
+"Stwórz trzy żetony zielonego stwora Knur 1/1 mający \"Kiedy ten stwór umrze, "
+"stwórz żeton Jadła.\""
 
 #. card_title
 msgctxt "414217"
@@ -85218,6 +85327,8 @@ msgctxt "414239"
 msgid ""
 "When this creature dies, put a loyalty counter on each Garruk you control."
 msgstr ""
+"Kiedy ten stwór umrze, umieść znacznik lojalności na każdym Garruku pod "
+"twoim władaniem."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "414240"
@@ -85346,7 +85457,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "414262"
 msgid "+2: Create a Food token."
-msgstr ""
+msgstr "+2: Stwórz żeton Jadła."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "414263"
@@ -85440,7 +85551,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "414283"
 msgid "Whenever Savvy Hunter attacks or blocks, create a Food token."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, stwórz żeton Jadła."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "414284"
@@ -85556,6 +85667,8 @@ msgid ""
 "Whenever Wintermoor Commander attacks, another target Knight you control "
 "gains indestructible until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, inny wskazany Rycerz pod twoim władaniem "
+"zyskuje do końca tury niezniszczalność."
 
 #. card_title
 msgctxt "414304"
@@ -86321,6 +86434,8 @@ msgid ""
 "|tap|, Sacrifice a creature: Create a Food token. If the sacrificed "
 "creature's toughness was 4 or greater, create two Food tokens instead."
 msgstr ""
+"|tap|, poświęć stwora: Stwórz żeton Jadła. Jeśli wytrzymałość poświęconego "
+"stwora wynosiła 4 lub więcej, zamiast tego stwórz dwa żetony Jadła."
 
 #. card_title
 msgctxt "414421"
@@ -87193,7 +87308,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "414544"
 msgid "Each player sacrifices three creatures. You create three Food tokens."
-msgstr ""
+msgstr "Każdy gracz poświęca trzy stwory. Stwórz trzy żetony Jadła."
 
 #. card_title
 msgctxt "414545"
@@ -87746,12 +87861,12 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "414766"
 msgid "Whenever Captain Lannery Storm attacks, create a Treasure token."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "414807"
 msgid "At the beginning of your end step, create a Treasure token."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, stwórz żeton Skarbu."
 
 #. internal_ability
 msgctxt "414819"
@@ -87810,12 +87925,12 @@ msgstr ""
 #. internal_ability, printed_ability, type_instant
 msgctxt "415157"
 msgid "Return target creature to its owner's hand. Create a Treasure token."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki właściciela. Stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "415211"
 msgid "Draw two cards. Create a Treasure token."
-msgstr ""
+msgstr "Dobierz dwie karty. Stwórz żeton Skarbu."
 
 #. printed_ability, type_creature
 msgctxt "415215"
@@ -87840,7 +87955,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "415314"
 msgid "Destroy target creature. Create two Treasure tokens."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Stwórz dwa żetony Skarbu."
 
 #. internal_ability
 msgctxt "415338"
@@ -87850,17 +87965,17 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "415339"
 msgid "When Dire Fleet Hoarder dies, create a Treasure token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "415387"
 msgid "Whenever a creature an opponent controls dies, create a Treasure token."
-msgstr ""
+msgstr "Ilekroć umrze stwór pod władaniem przeciwnika, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "415394"
 msgid "|mana_2|\\ |mana_b|, Sacrifice a creature: Create two Treasure tokens."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|, poświęć stwora: Stwórz dwa żetony Skarbu."
 
 #. internal_ability
 msgctxt "415433"
@@ -87871,12 +87986,12 @@ msgstr ""
 msgctxt "415434"
 msgid ""
 "When Wanted Scoundrels dies, target opponent creates two Treasure tokens."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wskazany przeciwnik tworzy dwa żetony Skarbu."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "415743"
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Create a Treasure token."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "415787"
@@ -87891,21 +88006,22 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, create a "
 "Treasure token."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_instant
 msgctxt "415967"
 msgid "Counter target creature spell. You create a Treasure token."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora. Stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "416099"
 msgid "Whenever another creature you control dies, create a Treasure token."
-msgstr ""
+msgstr "Ilekroć umrze inny stwór pod twoim władaniem, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "416139"
 msgid "For each land you control, create a Treasure token."
-msgstr ""
+msgstr "Za każdy ląd pod twoim władaniem, stwórz żeton Skarbu."
 
 #. printed_ability, type_creature
 msgctxt "416142"
@@ -87915,7 +88031,7 @@ msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "416193"
 msgid "Draw two cards and create two Treasure tokens."
-msgstr ""
+msgstr "Dobierz dwie karty i stwórz dwa żetony Skarbu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "416432"
@@ -87923,11 +88039,13 @@ msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
 "create a Treasure token."
 msgstr ""
+"Ilekroć co najmniej jeden stwór pod twoim władaniem zada graczowi obrażenia "
+"bojowe, stwórz żeton Skarbu."
 
 #. printed_ability, type_artifact, type_creature
 msgctxt "416460"
 msgid "When Gleaming Barrier dies, create a Treasure token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "416536"
@@ -88177,7 +88295,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "418499"
 msgid "Create a Food token."
-msgstr ""
+msgstr "Stwórz żeton Skarbu."
 
 #. card_title
 msgctxt "418500"
@@ -88212,7 +88330,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "418506"
 msgid "Add one mana of any color."
-msgstr ""
+msgstr "Weź jedną manę dowolnego koloru."
 
 #. card_title
 msgctxt "418507"
@@ -88476,6 +88594,8 @@ msgctxt "419665"
 msgid ""
 "This spell costs |mana_x| less to cast, where X is your devotion to white."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest twoim kultem "
+"białego."
 
 #. card_title
 msgctxt "419666"
@@ -88802,6 +88922,8 @@ msgid ""
 "or enchantment creature, it also gains hexproof and indestructible until end "
 "of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli to zauroczony stwór lub "
+"stwór-urok, zyskuje on do końca tury także antyklątwę i niezniszczalność."
 
 #. card_title
 msgctxt "419717"
@@ -89198,7 +89320,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "419777"
 msgid "Callaphe's power is equal to your devotion to blue."
-msgstr ""
+msgstr "Siła tej karty jest równa twojemu kultowi niebieskiego."
 
 #. internal_ability
 msgctxt "419778"
@@ -89515,7 +89637,7 @@ msgstr "Zaurocz stwora lub urok"
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "419828"
 msgid "Enchanted permanent is an enchantment and loses all other card types."
-msgstr ""
+msgstr "Zauroczony permanent jest urokiem i traci wszystkie inne typy karty."
 
 #. card_title
 msgctxt "419829"
@@ -89796,6 +89918,11 @@ msgid ""
 "If X is greater than or equal to the number of cards in your library, you "
 "win the game."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na X wierzchnich kart twojej "
+"biblioteki, gdzie X jest twoim kultem niebieskiego. Umieść jedną z nich na "
+"wierzchu twojej biblioteki, a pozostałe losowo na spodzie twojej biblioteki. "
+"Jeśli X jest większe lub równe liczbie kart w twojej bibliotece, wygrywasz "
+"grę."
 
 #. card_title
 msgctxt "419873"
@@ -89834,6 +89961,9 @@ msgid ""
 "When Threnody Singer enters the battlefield, target creature an opponent "
 "controls gets -X/-0 until end of turn, where X is your devotion to blue."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz pod władaniem "
+"przeciwnika dostaje do końca tury -X/-0, gdzie X jest twoim kultem "
+"niebieskiego."
 
 #. card_title
 msgctxt "419879"
@@ -90057,6 +90187,8 @@ msgid ""
 "opponent controls gets -X/-X until end of turn, where X is your devotion to "
 "black."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -X/-X, gdzie X jest twoim kultem czarnego."
 
 #. card_title
 msgctxt "419916"
@@ -90585,6 +90717,8 @@ msgid ""
 "When Rage-Scarred Berserker enters the battlefield, target creature you "
 "control gets +1/+0 and gains indestructible until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +1/+0 i niezniszczalność."
 
 #. card_title
 msgctxt "420003"
@@ -90699,7 +90833,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "420023"
 msgid "Tymaret's toughness is equal to your devotion to black."
-msgstr ""
+msgstr "Wytrzymałość tego stwora jest równa twojemu kultowi czarnego."
 
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "420024"
@@ -90844,7 +90978,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "420047"
 msgid "Anax's power is equal to your devotion to red."
-msgstr ""
+msgstr "Siła tej karty jest równa twojemu kultowi czerwonego."
 
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "420048"
@@ -91591,6 +91725,9 @@ msgid ""
 "control named Labyrinth of Skophos, you may have Skophos Maze-Warden fight "
 "that creature."
 msgstr ""
+"Ilekroć inny stwór zostanie wskazany przez zdolność lądu pod twoim władaniem "
+"o nazwie Labyrinth of Skophos, możesz sprawić, że niniejszy stwór będzie "
+"walczyć z owym stworem."
 
 #. card_title
 msgctxt "420157"
@@ -91792,6 +91929,9 @@ msgid ""
 "Each nonland card in your graveyard has escape. The escape cost is equal to "
 "the card's mana cost plus exile three other cards from your graveyard."
 msgstr ""
+"Każda nielądowa karta w twoim cmentarzu ma ucieczkę. Koszt ucieczki jest "
+"równy kosztowi many owej karty plus wygnanie trzech innych kart z twojego "
+"cmentarza."
 
 #. printed_ability, type_enchantment
 msgctxt "420186"
@@ -91998,7 +92138,7 @@ msgstr "III — Jeśli władasz stworem o sile 4 lub większej, dobierz dwie kar
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "420218"
 msgid "IV — Create a Gold token."
-msgstr ""
+msgstr "IV — Stwórz żeton Złota."
 
 #. flavor_text
 msgctxt "420219"
@@ -92102,6 +92242,8 @@ msgid ""
 "Creatures you control get +X/+X until end of turn, where X is your devotion "
 "to green."
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +X/+X, gdzie X jest twoim "
+"kultem zielonego."
 
 #. card_title
 msgctxt "420235"
@@ -92528,7 +92670,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "420298"
 msgid "Renata's power is equal to your devotion to green."
-msgstr ""
+msgstr "Siła tej karty jest równa twojemu kultowi zielonego."
 
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "420299"
@@ -92593,6 +92735,8 @@ msgid ""
 "When Setessan Petitioner enters the battlefield, you gain life equal to your "
 "devotion to green."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi twój kul "
+"zielonego."
 
 #. card_title
 msgctxt "420308"
@@ -92709,6 +92853,8 @@ msgid ""
 "When Warbriar Blessing enters the battlefield, enchanted creature fights up "
 "to one target creature you don't control."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór walczy z co najwyżej "
+"jednym wskazanym stworem poza twoim władaniem."
 
 #. card_title
 msgctxt "420327"
@@ -92775,6 +92921,8 @@ msgid ""
 "Whenever this creature attacks or blocks, each opponent exiles the top two "
 "cards of their library."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, każdy przeciwnik wygania dwie "
+"wierzchnie karty swojej biblioteki."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "420339"
@@ -93430,6 +93578,8 @@ msgid ""
 "Escape—|mana_g|\\ |mana_g|\\ |mana_u|\\ |mana_u|, Exile five other cards "
 "from your graveyard."
 msgstr ""
+"Ucieczka—|mana_g|\\ |mana_g|\\ |mana_u|\\ |mana_u|, wygnaj pięć innych kart "
+"z twojego cmentarza."
 
 #. card_title
 msgctxt "420433"
@@ -93568,6 +93718,8 @@ msgid ""
 "|tap|: Choose a color. Add an amount of mana of that color equal to your "
 "devotion to that color."
 msgstr ""
+"|tap|: Wybierz kolor. Weź tyle many owego koloru, ile wynosi twój kult owego "
+"koloru."
 
 #. card_title
 msgctxt "420453"
@@ -94508,6 +94660,8 @@ msgid ""
 "When Nylea's Huntmaster enters the battlefield, target creature you control "
 "gets +X/+0 until end of turn, where X is your devotion to green."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +X/+0, gdzie X jest twoim kultem zielonego."
 
 msgctxt "421573"
 msgid "Choose any card name."
@@ -94909,6 +95063,8 @@ msgid ""
 "Creatures you control have base power and toughness 3/3 and are Elks in "
 "addition to their other types."
 msgstr ""
+"Stwory pod twoim władaniem mają bazową siłę i wytrzymałość 3/3 i są "
+"dodatkowo Łosiami oprócz swoich innych typów."
 
 #. printed_ability, type_artifact
 msgctxt "427862"
@@ -96250,6 +96406,8 @@ msgid ""
 "Wingfold Pteron enters the battlefield with your choice of a flying counter "
 "or a hexproof counter on it."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik wybrany przez ciebie spośród "
+"latania i antyklątwy."
 
 #. card_title
 msgctxt "428086"
@@ -96365,6 +96523,8 @@ msgctxt "428101"
 msgid ""
 "Destroy target creature. Put a menace counter on a creature you control."
 msgstr ""
+"Zniszcz wskazanego stwora. Umieść znacznik złowrogości na wskazanym stworze "
+"pod twoim władaniem."
 
 #. card_title
 msgctxt "428102"
@@ -97183,6 +97343,8 @@ msgid ""
 "Ferocious Tigorilla enters the battlefield with your choice of a trample "
 "counter or a menace counter on it."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik wybrany przez ciebie spośród "
+"tratowania i złowrogości."
 
 #. card_title
 msgctxt "428225"
@@ -98504,6 +98666,9 @@ msgid ""
 "Return target creature card from your graveyard to the battlefield. When you "
 "do, it fights up to one target creature you don't control."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Kiedy tak "
+"zrobisz, walczy on z co najwyżej jednym wskazanym stworem poza twoim "
+"władaniem."
 
 #. card_title
 msgctxt "428414"
@@ -100671,6 +100836,10 @@ msgid ""
 "colorless land token with ‘|tap|: Add one mana of any color.' Activate this "
 "ability only any time you could cast a sorcery.\""
 msgstr ""
+"O ile w tej turze pod twoim władaniem nie umieszczono lądów i jest twoja "
+"tura, każda karta lądu w twojej ręce ma \"Odrzuć kartę: Stwórz bezkolorowy "
+"żeton lądu mający '|tap|: Weź jedną manę dowolnego koloru.' Aktywuj jako "
+"obrzęd.\""
 
 #. internal_ability
 msgctxt "431391"
@@ -101805,7 +101974,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "433707"
 msgid "Creatures you control attack each combat if able."
-msgstr ""
+msgstr "Stwory pod twoim władaniem atakują w każdej potyczce, jeśli mogą."
 
 #. internal_ability
 msgctxt "433708"
@@ -102038,7 +102207,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "433740"
 msgid "Whenever Spined Megalodon attacks, scry 1."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, wróż 1."
 
 #. card_title
 msgctxt "433741"
@@ -102269,6 +102438,8 @@ msgid ""
 "Target creature gets +1/+1 and gains your choice of deathtouch or lifelink "
 "until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1 i zyskuje zdolność wybraną "
+"spośród dotyku śmierci i więzi życia."
 
 #. card_title
 msgctxt "433775"
@@ -103191,6 +103362,8 @@ msgid ""
 "Whenever a source you control deals noncombat damage to an opponent, "
 "Chandra's Pyreling gets +1/+0 and gains double strike until end of turn."
 msgstr ""
+"Ilekroć źródło pod twoim władaniem zadaje przeciwnikowi pozabojowe "
+"obrażenia, ten stwór dostaje do końca tury +1/+0 i podwójny cios."
 
 #. card_title
 msgctxt "433909"
@@ -103286,6 +103459,8 @@ msgid ""
 "At the beginning of your end step, create a Treasure token for each nontoken "
 "creature that died this turn."
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton Skarbu za każdego "
+"nieżetonowego stwora, który umarł w tej turze."
 
 #. card_title
 msgctxt "433923"
@@ -103301,6 +103476,7 @@ msgstr ""
 msgctxt "433925"
 msgid "Create two 1/1 red Goblin Wizard creature tokens with prowess."
 msgstr ""
+"Stwórz dwa żetony czerwonego stwora Goblin Czarodziej 1/1 z walecznością."
 
 #. card_title
 msgctxt "433926"
@@ -103960,6 +104136,8 @@ msgid ""
 "As long as you've drawn two or more cards this turn, Gnarled Sage gets +0/+2 "
 "and has vigilance."
 msgstr ""
+"O ile dobrałeś co najmniej dwie karty w tej turze, ten stwór dostaje +0/+2 i "
+"ma czujność."
 
 #. card_title
 msgctxt "434018"
@@ -104251,6 +104429,8 @@ msgid ""
 "Scry 3, then reveal the top card of your library. If it's a creature or land "
 "card, draw a card."
 msgstr ""
+"Wróż 3, po czym ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
+"stwora lub lądu, dobierz kartę."
 
 #. card_title
 msgctxt "434060"
@@ -104427,6 +104607,8 @@ msgid ""
 "If you do, Dire Fleet Warmonger gets +2/+2 and gains trample until end of "
 "turn."
 msgstr ""
+"Na początku potyczki w twojej turze, możesz poświęcić innego stwora. Jeśli "
+"tak zrobisz, niniejszy stwór dostaje do końca tury +2/+2 i tratowanie."
 
 #. card_title
 msgctxt "434086"
@@ -104956,7 +105138,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "434161"
 msgid "Sigiled Contender has lifelink as long as it has a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten stwór ma więź życia o ile ma znacznik +1/+1."
 
 #. card_title
 msgctxt "434162"
@@ -105773,6 +105955,8 @@ msgid ""
 "If an opponent would mill one or more cards, they mill twice that many cards "
 "instead."
 msgstr ""
+"Jeśli przeciwnik miałby zmielić co najmniej jedną kartę, zamiast tego mieli "
+"dwukrotnie tyle kart."
 
 #. card_title
 msgctxt "434299"
@@ -105787,7 +105971,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "434301"
 msgid "When Corsair Captain enters the battlefield, create a Treasure token."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
 
 #. card_title
 msgctxt "434302"
@@ -108483,7 +108667,7 @@ msgctxt "437186"
 msgid ""
 "Whenever Merfolk Windrobber deals combat damage to a player, that player "
 "mills a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz mieli kartę."
 
 #. internal_ability
 msgctxt "437187"
@@ -108595,7 +108779,7 @@ msgid ""
 "When Roost of Drakes enters the battlefield, if it was kicked, create a 2/2 "
 "blue Drake creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
+"Kiedy ten urok wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
 "niebieskiego stwora Drak 2/2 z lataniem."
 
 #. internal_ability, printed_ability, type_enchantment
@@ -108740,6 +108924,8 @@ msgid ""
 "Target creature you control gets +0/+3 until end of turn. If this spell was "
 "kicked, that creature also gains hexproof until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3. Jeśli ten "
+"czar został podbity, ów stwór zyskuje także antyklątwę do końca tury."
 
 #. card_title
 msgctxt "437222"
@@ -108998,6 +109184,8 @@ msgid ""
 "When Zulaport Duelist enters the battlefield, up to one target creature gets "
 "-2/-0 until end of turn. Its controller mills two cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej jeden wskazany stwór "
+"dostaje do końca tury -2/-0. Jego władca mieli dwie karty."
 
 #. card_title
 msgctxt "437260"
@@ -109611,6 +109799,8 @@ msgid ""
 "Target opponent discards two cards, mills a card, and loses 1 life. You gain "
 "1 life."
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty, mieli kartę i traci 1 życie. Zyskaj "
+"1 życie."
 
 #. card_title
 msgctxt "437358"
@@ -109653,6 +109843,8 @@ msgid ""
 "As long as an opponent has eight or more cards in their graveyard, Nimana "
 "Skitter-Sneak gets +1/+0 and has menace."
 msgstr ""
+"O ile twój przeciwnik ma co najmniej osiem kart w swoim cmentarzu, ten stwór "
+"dostaje +1/+0 i ma złowrogość."
 
 #. card_title
 msgctxt "437366"
@@ -109678,6 +109870,7 @@ msgid ""
 "When Nimana Skydancer enters the battlefield, target opponent mills two "
 "cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik mieli dwie karty."
 
 #. card_title
 msgctxt "437370"
@@ -109720,6 +109913,8 @@ msgid ""
 "Target creature you control gains indestructible until end of turn. Draw a "
 "card if that creature has a +1/+1 counter on it."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zyskuje do końca tury niezniszczalność. "
+"Dobierz kartę jeśli ów stwór ma znacznik +1/+1."
 
 #. card_title
 msgctxt "437376"
@@ -109847,6 +110042,7 @@ msgid ""
 "Whenever Shadow Stinger deals combat damage to a player, that player mills "
 "three cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz mieli trzy karty."
 
 #. card_title
 msgctxt "437395"
@@ -113881,6 +114077,8 @@ msgid ""
 "During each of your turns, you may play a land and cast a permanent spell of "
 "each permanent type from your graveyard."
 msgstr ""
+"W trakcie każdej twojej tury możesz z twojego cmentarza zagrać kartę lądu i "
+"rzucić po czarze permanentu każdego z typów."
 
 #. internal_ability
 msgctxt "439483"
@@ -113921,6 +114119,9 @@ msgid ""
 "cast it this turn. If that spell would be put into your graveyard this turn, "
 "exile it instead."
 msgstr ""
+"Szpieguj 2, po czym wybierz kartę sztuczki lub obrzędu w twoim cmentarzu. "
+"Możesz rzucić ją w tej turze. Jeśli ów czar miałby trafić w tej turze do "
+"twojego cmentarza, zamiast tego wygnaj go."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "439588"
@@ -114243,6 +114444,8 @@ msgid ""
 "Target opponent discards two cards. \n"
 "<i>Raid</i> — If you attacked this turn, create a Treasure token."
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty.\n"
+"<i>Najazd</i> — Jeśli atakowałeś w tej turze, stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "441908"
@@ -114278,6 +114481,9 @@ msgid ""
 "<i>Raid</i> — Firecannon Blast deals 6 damage instead if you attacked this "
 "turn."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia.\n"
+"<i>Najazd</i> — Ten czar zamiast tego zadaje 6 obrażeń jeśli atakowałeś "
+"stworem w tej turze."
 
 #. printed_ability, type_creature
 msgctxt "441912"
@@ -114668,6 +114874,9 @@ msgid ""
 "Enter the God-Eternals deals 4 damage to target creature and you gain life "
 "equal to the damage dealt this way. Target player mills four cards. Amass 4."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 4 obrażenia, a ty zyskaj życia równe "
+"obrażeniom zadanym w ten sposób. Wskazany gracz mieli cztery karty. Zgromadź "
+"4."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "447883"
@@ -115084,6 +115293,8 @@ msgid ""
 "When Overwhelmed Apprentice enters the battlefield, each opponent mills two "
 "cards. Then you scry 2."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik mieli po dwie karty. "
+"Następnie wróż 2."
 
 #. internal_ability, printed_ability, type_artifact, type_creature
 msgctxt "453436"
@@ -115291,7 +115502,7 @@ msgstr ""
 msgctxt "456254"
 msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty."
 
 #. internal_ability
 msgctxt "456419"
@@ -117085,6 +117296,8 @@ msgid ""
 "Equipped creature gets +0/+1 and has \"This creature has hexproof as long as "
 "it's untapped.\""
 msgstr ""
+"Wyposażony stwór dostaje +0/+1 i ma \"Ten stwór ma antyklątwę o ile jest "
+"odkręcony.\""
 
 #. card_title
 msgctxt "477175"
@@ -117137,6 +117350,8 @@ msgid ""
 "Scry X, where X is the amount of |mana_s| spent to cast this spell, then "
 "draw three cards."
 msgstr ""
+"Wróż X, gdzie X jest liczbą |mana_s| wydanej na rzucenie tego czaru, "
+"następnie dobierz trzy karty."
 
 #. card_title
 msgctxt "477182"
@@ -117560,6 +117775,8 @@ msgid ""
 "Whenever you cast your second spell each turn, put two +1/+1 counters on "
 "Bloodsky Berserker. It gains menace until end of turn."
 msgstr ""
+"Ilekroć rzucisz swój drugi czar w danej turze, umieść dwa znaczniki +1/+1 na "
+"tym stworze. Zyskuje on złowrogość do końca tury."
 
 #. card_title
 msgctxt "477247"
@@ -117755,9 +117972,9 @@ msgid ""
 "If you do, create a 2/2 black Zombie Berserker creature token, then attach "
 "Draugr's Helm to it."
 msgstr ""
-"Kiedy ten artefalt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |"
-"mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, "
-"po czym dołącz do niego ten artefakt."
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_b|"
+". Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, po czym "
+"dołącz do niego ten artefakt."
 
 #. card_title
 msgctxt "477274"
@@ -117792,6 +118009,9 @@ msgid ""
 "Each nonland card in your hand without foretell has foretell. Its foretell "
 "cost is equal to its mana cost reduced by |mana_2|."
 msgstr ""
+"Każda nielądowa karta w twojej ręce nie mająca przepowiedni ma "
+"przepowiednię. Jej koszt przepowiedni jest równy jej kosztowi many "
+"pomniejszonemu o |mana_2|."
 
 #. internal_ability
 msgctxt "477279"
@@ -118095,7 +118315,7 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "477326"
 msgid "When Koma's Faithful dies, each player mills three cards."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy gracz mieli trzy karty."
 
 #. card_title
 msgctxt "477327"
@@ -119250,7 +119470,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "477496"
 msgid "Draw two cards and create a Treasure token."
-msgstr ""
+msgstr "Dobierz dwie karty i stwórz żeton Skarbu."
 
 #. card_title
 msgctxt "477497"
@@ -119299,6 +119519,8 @@ msgid ""
 "Destroy target artifact or land. If an artifact is destroyed this way, "
 "create a Treasure token."
 msgstr ""
+"Zniszcz wskazany artefakt lub ląd. Jeśli artefakt został zniszczony w ten "
+"sposób, stwórz żeton Skarbu."
 
 #. card_title
 msgctxt "477504"
@@ -120218,6 +120440,8 @@ msgid ""
 "Mill three cards, then return a land card or Elf card from your graveyard to "
 "your hand. If you can't, draw a card."
 msgstr ""
+"Zmiel trzy karty, po czym przywróć kartę lądu lub Elfa z twojego cmentarza "
+"do twojej ręki. Jeśli nie możesz, dobierz kartę."
 
 #. card_title
 msgctxt "477640"
@@ -120295,6 +120519,8 @@ msgid ""
 "Put a +1/+1 counter on target creature you control. It gains hexproof until "
 "end of turn."
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Do końca "
+"tury zyskuje on antyklątwę."
 
 #. card_title
 msgctxt "477653"
@@ -121264,7 +121490,7 @@ msgstr ""
 #. printed_ability, type_planeswalker
 msgctxt "477784"
 msgid "When Niko Aris enters the battlefield, create X Shard tokens."
-msgstr ""
+msgstr "Kiedy ten wędrowiec wejdzie na pole bitwy, stwórz X żetonów Odłamka."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "477785"
@@ -122015,6 +122241,8 @@ msgid ""
 "|mana_s|\\ |mana_s|\\ |mana_s|: Faceless Haven becomes a 4/3 creature with "
 "vigilance and all creature types until end of turn. It's still a land."
 msgstr ""
+"|mana_s|\\ |mana_s|\\ |mana_s|: Ten ląd do końca tury staje się stworem 4/3 "
+"z czujnością i wszystkimi typami stwora. Nadal jest lądem."
 
 #. card_title
 msgctxt "477888"
@@ -122859,6 +123087,8 @@ msgid ""
 "When Renegade Reaper enters the battlefield, mill four cards. If at least "
 "one Angel card is milled this way, you gain 4 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty. Jeśli co najmniej "
+"jedna karta Anioła została zmielona w ten sposób, zyskaj 4 życia."
 
 #. card_title
 msgctxt "478006"
@@ -123366,6 +123596,9 @@ msgid ""
 "When Soulhunter Rakshasa enters the battlefield, if you cast it from your "
 "hand, it deals 1 damage to target opponent for each Swamp you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
+"zadaje on wskazanemu przeciwnikowi po 1 obrażeniu za każde Bagno pod twoim "
+"władaniem."
 
 #. card_title
 msgctxt "478094"
@@ -123378,6 +123611,8 @@ msgid ""
 "Whenever Tin Street Cadet becomes blocked, create a 1/1 red Goblin creature "
 "token."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, stwórz żeton czerwonego stwora "
+"Goblin 1/1."
 
 #. card_title
 msgctxt "478096"
@@ -123390,6 +123625,8 @@ msgid ""
 "When Baloth Packhunter enters the battlefield, put two +1/+1 counters on "
 "each other creature you control named Baloth Packhunter."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść po dwa znaczniki +1/+1 na "
+"każdym innym stworze pod twoim władaniem mającym niniejszą nazwę."
 
 #. card_title
 msgctxt "478099"
