@@ -1,11 +1,12 @@
 Spolszczenie do gry Magic Arena
 ===============================
 
-UWAGA: Tłumaczenie jest w wersji mocno rozwojowej. Bardzo dużo kart jest już przetłumaczonych,
-ale dużo jeszcze brakuje. Proces przenoszenia tłumaczeń cały czas trwa. Pamiętaj też, że tłumaczenia
-mogą zwierać błędy - czasem istotnie zmieniające sens kart. Dołożyliśmy wszelkich starań, żeby wyeliminować
-takie przypadki, jednak mogą one występować i nie możesz mieć do nas o to pretensji. Ten projekt
-jest całkowicie hobbystyczny. Przed graniem jakiegoś ważnego turnieju lepiej przełącz się na oficjalnie wspierany język.
+Kilka uwag na sam początek:
+
+* Każda aktualizacja Areny nadpisuje część plików (najczęściej wszystkie). Wgranie tłumaczenia starej wersji może spowodować zawieszenie gry, więc proszę czekać na wydanie aktualizacji tłumaczenia. Zwykle publikowane jest w przeciągu 24 godzin. Pracuję nad metodą zabezpieczającą przed wgraniem plików do złej wersji gry.
+* Niektóre karty mogą jeszcze nie być przetłumaczone. To samo dotyczy komunikatów w grze. Tłumaczenie ciągle postępuje, więc z czasem braków będzie coraz mniej.
+* Mimo najlepszych chęci może się okazać, że niektóre tłumaczenia są błędne. Proszę nie mieć pretensji, nie dajemy żadnej gwarancji poprawności tłumaczenia. Istotne turnieje najlepiej grać używając oficjalnie wspieranego języka, by nie było wątpliwości odnośnie tekstów kart.
+* Zachęcamy do `wsparcia projektu na Patronite <https://patronite.pl/mtgpl>`_ :)
 
 
 Program instalujący spolszczenie
