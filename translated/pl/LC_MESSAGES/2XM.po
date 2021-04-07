@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-02 22:39+0100\n"
+"POT-Creation-Date: 2021-04-07 09:04+0200\n"
 "PO-Revision-Date: 2021-03-28 12:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
@@ -2644,8 +2644,8 @@ msgid ""
 "counters on it.)"
 msgstr ""
 "Pożarcie 1 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
-"liczbę stworów. Ten stwór wchodzi na pole bitwy mając tyle samo znaczników +"
-"1/+1.)"
+"liczbę stworów. Ten stwór wchodzi na pole bitwy mając tyle samo znaczników "
+"+1/+1.)"
 
 #: ../../2XM.rst:803
 msgid ""
@@ -3250,7 +3250,8 @@ msgstr ""
 #: ../../2XM.rst:981
 msgid ""
 "Whenever you cast a spell, you may remove a slumber counter from Arixmethes."
-msgstr "Ilekroć rzucisz czar, możesz usunąć znacznik drzemki z tego permanentu."
+msgstr ""
+"Ilekroć rzucisz czar, możesz usunąć znacznik drzemki z tego permanentu."
 
 #: ../../2XM.rst:983
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
@@ -3710,8 +3711,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may pay |mana_u|\\ |"
 "mana_r|. If you do, copy that spell. You may choose new targets for the copy."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz zapłacić |mana_u|\\ "
-"|mana_r|. Jeśli tak zrobisz, skopiuj ów czar. Możesz wskazać nowe cele dla "
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz zapłacić |mana_u|\\ |"
+"mana_r|. Jeśli tak zrobisz, skopiuj ów czar. Możesz wskazać nowe cele dla "
 "kopii."
 
 #: ../../2XM.rst:1137
@@ -4131,7 +4132,8 @@ msgstr ""
 
 #: ../../2XM.rst:1281
 msgid "|mana_1|, |tap|, Sacrifice Chromatic Star: Add one mana of any color."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../2XM.rst:1283
 msgid ""
@@ -4397,7 +4399,8 @@ msgstr ""
 msgid ""
 "Creatures with power greater than the number of cards in your hand can't "
 "attack."
-msgstr "Stwory o sile większej niż liczba kart w twojej ręce nie mogą atakować."
+msgstr ""
+"Stwory o sile większej niż liczba kart w twojej ręce nie mogą atakować."
 
 #: ../../2XM.rst:1368
 msgid ""
@@ -4496,7 +4499,8 @@ msgstr ""
 
 #: ../../2XM.rst:1395
 msgid "Equipped creature gets +1/+0 for each Equipment attached to it."
-msgstr "Wyposażony stwór dostaje +1/+0 za każde Wyposażenie dołączone do niego."
+msgstr ""
+"Wyposażony stwór dostaje +1/+0 za każde Wyposażenie dołączone do niego."
 
 #: ../../2XM.rst:1397
 msgid ""
@@ -5387,8 +5391,8 @@ msgid ""
 "lifelink."
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Żmij "
-"3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij 3/"
-"3 z więzią życia."
+"3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij "
+"3/3 z więzią życia."
 
 #: ../../2XM.rst:1692
 msgid ""
@@ -5470,8 +5474,8 @@ msgid ""
 "|mana_ur|, |tap|: Add |mana_u|\\ |mana_u|, |mana_u|\\ |mana_r|, or |mana_r|"
 "\\ |mana_r|."
 msgstr ""
-"|mana_ur|, |tap|: Weź |mana_u|\\ |mana_u|, |mana_u|\\ |mana_r| lub |mana_r|\\"
-" |mana_r|."
+"|mana_ur|, |tap|: Weź |mana_u|\\ |mana_u|, |mana_u|\\ |mana_r| lub |mana_r|"
+"\\ |mana_r|."
 
 #: ../../2XM.rst:1726
 msgid ""
@@ -5521,8 +5525,8 @@ msgid ""
 "|mana_wb|, |tap|: Add |mana_w|\\ |mana_w|, |mana_w|\\ |mana_b|, or |mana_b|"
 "\\ |mana_b|."
 msgstr ""
-"|mana_wb|, |tap|: Weź |mana_w|\\ |mana_w|, |mana_w|\\ |mana_b| lub |mana_b|\\"
-" |mana_b|."
+"|mana_wb|, |tap|: Weź |mana_w|\\ |mana_w|, |mana_w|\\ |mana_b| lub |mana_b|"
+"\\ |mana_b|."
 
 #: ../../2XM.rst:1744
 msgid ""
@@ -5536,8 +5540,8 @@ msgid ""
 "|mana_rg|, |tap|: Add |mana_r|\\ |mana_r|, |mana_r|\\ |mana_g|, or |mana_g|"
 "\\ |mana_g|."
 msgstr ""
-"|mana_rg|, |tap|: Weź |mana_r|\\ |mana_r|, |mana_r|\\ |mana_g| lub |mana_g|\\"
-" |mana_g|."
+"|mana_rg|, |tap|: Weź |mana_r|\\ |mana_r|, |mana_r|\\ |mana_g| lub |mana_g|"
+"\\ |mana_g|."
 
 #: ../../2XM.rst:1750
 msgid ""
@@ -5551,8 +5555,8 @@ msgid ""
 "|mana_gu|, |tap|: Add |mana_g|\\ |mana_g|, |mana_g|\\ |mana_u|, or |mana_u|"
 "\\ |mana_u|."
 msgstr ""
-"|mana_gu|, |tap|: Weź |mana_g|\\ |mana_g|, |mana_g|\\ |mana_u| lub |mana_u|\\"
-" |mana_u|."
+"|mana_gu|, |tap|: Weź |mana_g|\\ |mana_g|, |mana_g|\\ |mana_u| lub |mana_u|"
+"\\ |mana_u|."
 
 #: ../../2XM.rst:1756
 msgid ""
@@ -5645,8 +5649,8 @@ msgid ""
 "|mana_wu|, |tap|: Add |mana_w|\\ |mana_w|, |mana_w|\\ |mana_u|, or |mana_u|"
 "\\ |mana_u|."
 msgstr ""
-"|mana_wu|, |tap|: Weź |mana_w|\\ |mana_w|, |mana_w|\\ |mana_u| lub |mana_u|\\"
-" |mana_u|."
+"|mana_wu|, |tap|: Weź |mana_w|\\ |mana_w|, |mana_w|\\ |mana_u| lub |mana_u|"
+"\\ |mana_u|."
 
 #: ../../2XM.rst:1792
 msgid ""
@@ -5660,8 +5664,8 @@ msgid ""
 "|mana_rw|, |tap|: Add |mana_r|\\ |mana_r|, |mana_r|\\ |mana_w|, or |mana_w|"
 "\\ |mana_w|."
 msgstr ""
-"|mana_rw|, |tap|: Weź |mana_r|\\ |mana_r|, |mana_r|\\ |mana_w| lub |mana_w|\\"
-" |mana_w|."
+"|mana_rw|, |tap|: Weź |mana_r|\\ |mana_r|, |mana_r|\\ |mana_w| lub |mana_w|"
+"\\ |mana_w|."
 
 #: ../../2XM.rst:1798
 msgid ""
@@ -5675,8 +5679,8 @@ msgid ""
 "|mana_ub|, |tap|: Add |mana_u|\\ |mana_u|, |mana_u|\\ |mana_b|, or |mana_b|"
 "\\ |mana_b|."
 msgstr ""
-"|mana_ub|, |tap|: Weź |mana_u|\\ |mana_u|, |mana_u|\\ |mana_b| lub |mana_b|\\"
-" |mana_b|."
+"|mana_ub|, |tap|: Weź |mana_u|\\ |mana_u|, |mana_u|\\ |mana_b| lub |mana_b|"
+"\\ |mana_b|."
 
 #: ../../2XM.rst:1804
 msgid ""
@@ -5705,8 +5709,8 @@ msgid ""
 "|mana_bg|, |tap|: Add |mana_b|\\ |mana_b|, |mana_b|\\ |mana_g|, or |mana_g|"
 "\\ |mana_g|."
 msgstr ""
-"|mana_bg|, |tap|: Weź |mana_b|\\ |mana_b|, |mana_b|\\ |mana_g| lub |mana_g|\\"
-" |mana_g|."
+"|mana_bg|, |tap|: Weź |mana_b|\\ |mana_b|, |mana_b|\\ |mana_g| lub |mana_g|"
+"\\ |mana_g|."
 
 #: ../../2XM.rst:1814
 msgid ""
@@ -5765,8 +5769,8 @@ msgid ""
 "|mana_gw|, |tap|: Add |mana_g|\\ |mana_g|, |mana_g|\\ |mana_w|, or |mana_w|"
 "\\ |mana_w|."
 msgstr ""
-"|mana_gw|, |tap|: Weź |mana_g|\\ |mana_g|, |mana_g|\\ |mana_w| lub |mana_w|\\"
-" |mana_w|."
+"|mana_gw|, |tap|: Weź |mana_g|\\ |mana_g|, |mana_g|\\ |mana_w| lub |mana_w|"
+"\\ |mana_w|."
 
 #: ../../2XM.rst:1832
 msgid ""
