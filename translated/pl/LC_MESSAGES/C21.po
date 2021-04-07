@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-07 08:15+0000\n"
+"PO-Revision-Date: 2021-04-07 11:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -93,6 +93,9 @@ msgstr "Inne artefaktowe stwory pod twoim władaniem mają pośpiech."
 #: ../../C21.rst:31
 msgid "Whenever one or more artifact creatures you control attack, Alibou, Ancient Witness deals X damage to any target and you scry X, where X is the number of tapped artifacts you control."
 msgstr ""
+"Ilekroć zaatakuje co najmniej jeden stwór pod twoim władaniem, niniejszy "
+"stwór zadaje wskazanemu celowi X obrażeń, a ty wróż X, gdzie X jest liczbą "
+"przekręconych artefaktów pod twoim władaniem."
 
 #: ../../C21.rst:40
 msgid ":mtgtip:`Osgir, the Reconstructor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5815fe6e-e26b-4918-a090-55d6442722c1.jpg?1616838760|https://scryfall.com/card/c21/8/osgir-the-reconstructor?utm_source=api>`"
@@ -106,6 +109,8 @@ msgstr "Czujność"
 #: ../../C21.rst:37
 msgid "|mana_1|, Sacrifice an artifact: Target creature you control gets +2/+0 until end of turn."
 msgstr ""
+"|mana_1|, poświęć artefakt: Wskazany stwór pod twoim władaniem dostaje do "
+"końca tury +2/+0."
 
 #: ../../C21.rst:39
 msgid "|mana_x|, |tap|, Exile an artifact with mana value X from your graveyard: Create two tokens that are copies of the exiled card. Activate only as a sorcery."

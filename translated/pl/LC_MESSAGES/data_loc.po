@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-06 22:14+0000\n"
+"PO-Revision-Date: 2021-04-07 11:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -109,7 +109,7 @@ msgstr ""
 #. internal_ability
 msgctxt "20"
 msgid "Bounce to Hand"
-msgstr ""
+msgstr "Odbij do ręki"
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "22"
@@ -162,7 +162,7 @@ msgstr "Błysk"
 #. internal_ability
 msgctxt "44"
 msgid "Donate Objects"
-msgstr ""
+msgstr "Przekaż obiekty"
 
 #. internal_ability
 msgctxt "45"
@@ -178,7 +178,7 @@ msgstr "Latanie"
 #. internal_ability
 msgctxt "47"
 msgid "Add Colors"
-msgstr ""
+msgstr "Weź kolory"
 
 #. internal_ability
 msgctxt "48"
@@ -229,7 +229,7 @@ msgstr "Bushido"
 #. internal_ability
 msgctxt "91"
 msgid "Gain Haste"
-msgstr ""
+msgstr "Zyskaj Pośpiech"
 
 #. internal_ability
 msgctxt "92"
@@ -1389,7 +1389,7 @@ msgstr "Konstrukt"
 #. internal_ability
 msgctxt "486"
 msgid "When CARDNAME enters the battlefield, it explores."
-msgstr ""
+msgstr "Kiedy CARDNAME wejdzie na pole bitwy, eksploruje."
 
 #. card_title
 msgctxt "487"
@@ -2650,6 +2650,8 @@ msgid ""
 "Whenever CARDNAME attacks, if you control a Dinosaur, CARDNAME gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć CARDNAME zaatakuje, jeśli władasz Dinozaurem, CARDNAME dostaje do "
+"końca tury +1/+1."
 
 #. internal_ability
 msgctxt "983"
@@ -3160,6 +3162,8 @@ msgid ""
 "At the beginning of your upkeep, you may discard a card. If you do, untap "
 "CARDNAME."
 msgstr ""
+"Na początku twojego kroku utrzymania możesz odrzucić kartę. Jeśli tak "
+"zrobisz, odkręć CARDNAME."
 
 #. card_title
 msgctxt "1213"
