@@ -37,6 +37,8 @@ Nadchodzące
 -----------
 
 * Standard: :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent| (Premiera: 2021-04-23)
+* Commander: :mtgexp:`C21` :doc:`Commander 2021<C21>` (Premiera: 2021-04-23)
+* Modern: Modern Horizons 2 (Premiera: 2021-06-11)
 
 Standard
 --------
@@ -113,7 +115,6 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
-* :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
 * :mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|
 * :mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|
 * :mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|
