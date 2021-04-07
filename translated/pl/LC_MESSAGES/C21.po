@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 08:15+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../C21.rst:5
 msgid ":mtgexp:`C21` Commander 2021"
@@ -32,11 +34,14 @@ msgstr ""
 #: ../../C21.rst:417
 #: ../../C21.rst:441
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../C21.rst:11
 msgid "Whenever a player attacks one of your opponents, if that opponent has more life than another of your opponents, that attacking player draws a card and you put two +1/+1 counters on a creature you control."
 msgstr ""
+"Ilekroć gracz zaatakuje jednego z twoich przeciwników, jeśli ów przeciwnik "
+"ma więcej żyć niż inny z twoich przeciwników, ów atakujący gracz dobiera "
+"kartę a ty umieść dwa znaczniki +1/+1 na stworze pod twoim władaniem."
 
 #: ../../C21.rst:18
 msgid ":mtgtip:`Veyran, Voice of Duality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56d93855-c749-4bdf-9a90-4f69f4226e46.jpg?1617735001|https://scryfall.com/card/c21/3/veyran-voice-of-duality?utm_source=api>`"
@@ -45,10 +50,14 @@ msgstr ""
 #: ../../C21.rst:15
 msgid "Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn."
 msgstr ""
+"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
+"ten stwór dostaje do końca tury +1/+1."
 
 #: ../../C21.rst:17
 msgid "If you casting or copying an instant or sorcery spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
 msgstr ""
+"Jeśli rzucenie lub skopiowanie przez ciebie czaru wyzwala zdolność wyzwalaną "
+"permanentu pod twoim władaniem, owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../C21.rst:22
 msgid ":mtgtip:`Zaffai, Thunder Conductor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea1ab937-8647-4c83-99d5-6a40dffa4c9b.jpg?1616698605|https://scryfall.com/card/c21/4/zaffai-thunder-conductor?utm_source=api>`"
@@ -57,6 +66,10 @@ msgstr ""
 #: ../../C21.rst:21
 msgid "Magecraft — Whenever you cast or copy an instant or sorcery spell, scry 1. If that spell's mana value is 5 or greater, create a 4/4 blue and red Elemental creature token. If that spell's mana value is 10 or greater, Zaffai, Thunder Conductor deals 10 damage to an opponent chosen at random."
 msgstr ""
+"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
+"wróż 1. Jeśli ów czar ma skrót many 5 lub większy, stwórz żeton niebiesko-"
+"czerwonego stwora Żywiołak 4/4. Jeśli ów czar ma skrót many 10 lub większy, "
+"ten stwór zadaje losowemu przeciwnikowi 10 obrażeń."
 
 #: ../../C21.rst:26
 msgid ":mtgtip:`Willowdusk, Essence Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42a97ec1-f613-49a5-9236-7fded1a81f3b.jpg?1616883250|https://scryfall.com/card/c21/6/willowdusk-essence-seer?utm_source=api>`"
@@ -65,6 +78,9 @@ msgstr ""
 #: ../../C21.rst:25
 msgid "|mana_1|, |tap|: Choose another target creature. Put a number of +1/+1 counters on it equal to the amount of life you gained this turn or the amount of life you lost this turn, whichever is greater. Activate only as a sorcery."
 msgstr ""
+"|mana_1|, |tap|: Wskaż innego stwora. Umieść na nim tyle znaczników +1/+1, "
+"ile żyć zyskałeś lub straciłeś w tej turze, cokolwiek jest większe. Aktywuj "
+"jako obrzęd."
 
 #: ../../C21.rst:32
 msgid ":mtgtip:`Alibou, Ancient Witness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd2fc2d4-c4fb-4dcb-93fa-aaf8c1182f15.jpg?1617643648|https://scryfall.com/card/c21/7/alibou-ancient-witness?utm_source=api>`"
@@ -72,7 +88,7 @@ msgstr ""
 
 #: ../../C21.rst:29
 msgid "Other artifact creatures you control have haste."
-msgstr ""
+msgstr "Inne artefaktowe stwory pod twoim władaniem mają pośpiech."
 
 #: ../../C21.rst:31
 msgid "Whenever one or more artifact creatures you control attack, Alibou, Ancient Witness deals X damage to any target and you scry X, where X is the number of tapped artifacts you control."
@@ -85,7 +101,7 @@ msgstr ""
 #: ../../C21.rst:35
 #: ../../C21.rst:263
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../C21.rst:37
 msgid "|mana_1|, Sacrifice an artifact: Target creature you control gets +2/+0 until end of turn."
@@ -103,6 +119,8 @@ msgstr ""
 #: ../../C21.rst:65
 msgid "Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
+"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
 
 #: ../../C21.rst:45
 msgid "If one or more tokens would be created under your control, twice that many of those tokens are created instead."
@@ -138,7 +156,7 @@ msgstr ""
 
 #: ../../C21.rst:63
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../C21.rst:67
 msgid "Other artifacts you control have ward |mana_2|."
@@ -262,7 +280,7 @@ msgstr ""
 
 #: ../../C21.rst:129
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../C21.rst:136
 msgid ":mtgtip:`Creative Technique<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce4f0474-48dc-4310-a016-0ec21bc29efb.jpg?1617735734|https://scryfall.com/card/c21/49/creative-technique?utm_source=api>`"
@@ -283,7 +301,7 @@ msgstr ""
 #: ../../C21.rst:139
 #: ../../C21.rst:475
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../C21.rst:141
 msgid "As Cursed Mirror enters the battlefield, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste."
@@ -300,6 +318,8 @@ msgstr ""
 #: ../../C21.rst:147
 msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
 msgstr ""
+"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
+"turze.)"
 
 #: ../../C21.rst:154
 msgid ":mtgtip:`Inferno Project<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca760378-fa30-47ac-b3e0-7dc2e72b3422.jpg?1617734329|https://scryfall.com/card/c21/52/inferno-project?utm_source=api>`"
@@ -308,7 +328,7 @@ msgstr ""
 #: ../../C21.rst:151
 #: ../../C21.rst:363
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../C21.rst:153
 msgid "Inferno Project enters the battlefield with X +1/+1 counters on it, where X is the total mana value of instant and sorcery cards in your graveyard."
@@ -320,7 +340,7 @@ msgstr ""
 
 #: ../../C21.rst:157
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../C21.rst:159
 msgid "Whenever Laelia, the Blade Reforged attacks, exile the top card of your library. You may play that card this turn."
@@ -336,7 +356,7 @@ msgstr ""
 
 #: ../../C21.rst:165
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../C21.rst:167
 msgid "When Radiant Performer enters the battlefield, if you cast it from your hand, choose target spell or ability that targets only a single permanent or player. Copy that spell or ability for each other permanent or player the spell or ability could target. Each copy targets a different one of those permanents and players."
@@ -368,7 +388,7 @@ msgstr ""
 
 #: ../../C21.rst:181
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../C21.rst:183
 msgid "When Ruin Grinder dies, each player may discard their hand and draw seven cards."
@@ -416,7 +436,7 @@ msgstr ""
 
 #: ../../C21.rst:205
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../C21.rst:207
 msgid "|tap|: Add |colorless| for each charge counter on Elementalist's Palette. Spend this mana only on costs that contain |mana_x|."
@@ -428,7 +448,7 @@ msgstr ""
 
 #: ../../C21.rst:211
 msgid "Flying, vigilance, trample"
-msgstr ""
+msgstr "Latanie, czujność, tratowanie"
 
 #: ../../C21.rst:213
 msgid "When Triplicate Titan dies, create a 3/3 colorless Golem artifact creature token with flying, a 3/3 colorless Golem artifact creature token with vigilance, and a 3/3 colorless Golem artifact creature token with trample."
@@ -446,7 +466,7 @@ msgstr ""
 #: ../../C21.rst:485
 #: ../../C21.rst:491
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../C21.rst:219
 msgid "|mana_1|, |tap|: Add one mana of any color. When you spend this mana to cast your commander, scry X, where X is the number of times it's been cast from the command zone this game."
@@ -459,15 +479,15 @@ msgstr ""
 #: ../../C21.rst:223
 #: ../../C21.rst:337
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../C21.rst:225
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../C21.rst:227
 msgid "Destroy all artifacts and enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty i uroki."
 
 #: ../../C21.rst:234
 msgid ":mtgtip:`Darksteel Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba7d679c-4105-4196-9444-fd2f42f59272.jpg?1617735169|https://scryfall.com/card/c21/87/darksteel-mutation?utm_source=api>`"
@@ -475,11 +495,14 @@ msgstr ""
 
 #: ../../C21.rst:231
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../C21.rst:233
 msgid "Enchanted creature is an Insect artifact creature with base power and toughness 0/1 and has indestructible, and it loses all other abilities, card types, and creature types."
 msgstr ""
+"Zauroczony stwór jest artefaktowym stworem Owad o bazowych sile i "
+"wytrzymałości 0/1, ma niezniszczalność, traci wszystkie inne zdolności, typy "
+"karty i typy stwora."
 
 #: ../../C21.rst:240
 msgid ":mtgtip:`Dispatch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e5caadb-9438-460a-852b-123719635550.jpg?1617735195|https://scryfall.com/card/c21/88/dispatch?utm_source=api>`"
@@ -487,11 +510,13 @@ msgstr ""
 
 #: ../../C21.rst:237
 msgid "Tap target creature."
-msgstr ""
+msgstr "Przekręć wskazanego stwora."
 
 #: ../../C21.rst:239
 msgid "Metalcraft — If you control three or more artifacts, exile that creature."
 msgstr ""
+"Metalurgia — Jeśli władasz co najmniej trzema artefaktami, wygnaj owego "
+"stwora."
 
 #: ../../C21.rst:244
 msgid ":mtgtip:`Dispeller's Capsule<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebecd3d1-15ed-4501-89af-4718a212332d.jpg?1617735222|https://scryfall.com/card/c21/89/dispellers-capsule?utm_source=api>`"
@@ -508,6 +533,8 @@ msgstr ""
 #: ../../C21.rst:247
 msgid "Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment."
 msgstr ""
+"Wygnaj wskazany artefakt lub urok. Jeśli rzucasz ten czar w twojej fazie "
+"głównej, możesz wygnać co najwyżej jeden inny wskazany artefakt lub urok."
 
 #: ../../C21.rst:254
 msgid ":mtgtip:`Rout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15ce585a-67fc-4e7a-92ff-a27292179dfa.jpg?1617735280|https://scryfall.com/card/c21/101/rout?utm_source=api>`"
@@ -516,10 +543,12 @@ msgstr ""
 #: ../../C21.rst:251
 msgid "You may cast Rout as though it had flash if you pay |mana_2| more to cast it. (You may cast it any time you could cast an instant.)"
 msgstr ""
+"Możesz rzucić ten czar jakby miał błysk, jeśli rzucając go zapłacisz o "
+"|mana_2| więcej. (Możesz rzucić go jako sztuczkę.)"
 
 #: ../../C21.rst:253
 msgid "Destroy all creatures. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
 #: ../../C21.rst:260
 msgid ":mtgtip:`Sanctum Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7678e008-f054-485d-ae21-6b97f83dd824.jpg?1617735310|https://scryfall.com/card/c21/102/sanctum-gargoyle?utm_source=api>`"
@@ -528,6 +557,8 @@ msgstr ""
 #: ../../C21.rst:259
 msgid "When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../C21.rst:266
 msgid ":mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfbf6204-f08e-4bdc-904d-d617dabdfdd8.jpg?1617735345|https://scryfall.com/card/c21/106/sun-titan?utm_source=api>`"
@@ -536,6 +567,9 @@ msgstr ""
 #: ../../C21.rst:265
 msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz przywrócić "
+"wskazaną kartę permanentu o skrócie many 3 lub mniejszy z twojego cmentarza "
+"na pole bitwy."
 
 #: ../../C21.rst:270
 msgid ":mtgtip:`Chain Reaction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87687369-ebe8-49ba-8445-9ea3bef334a0.jpg?1617735374|https://scryfall.com/card/c21/161/chain-reaction?utm_source=api>`"
@@ -552,11 +586,15 @@ msgstr ""
 #: ../../C21.rst:273
 #: ../../C21.rst:347
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../C21.rst:275
 msgid "When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, you mill three cards, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik może sprawić, że "
+"dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, zmiel trzy karty, po "
+"czym ten stwór zadaje owemu graczowi tyle obrażeń, ile wynosi suma wartości "
+"many owych kart."
 
 #: ../../C21.rst:286
 msgid ":mtgtip:`Daretti, Scrap Savant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa393eeb-bccc-453c-b783-6b0ff445c3a6.jpg?1617647877|https://scryfall.com/card/c21/164/daretti-scrap-savant?utm_source=api>`"
@@ -564,19 +602,24 @@ msgstr ""
 
 #: ../../C21.rst:279
 msgid "+2: Discard up to two cards, then draw that many cards."
-msgstr ""
+msgstr "+2: Odrzuć co najwyżej dwie karty, po czym dobierz tyle samo kart."
 
 #: ../../C21.rst:281
 msgid "−2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield."
 msgstr ""
+"–2: Poświęć artefakt. Jeśli tak zrobisz, przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../C21.rst:283
 msgid "−10: You get an emblem with \"Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.\""
 msgstr ""
+"–10: Dostajesz emblemat mający \"Ilekroć artefakt trafi do twojego cmentarza "
+"z pola bitwy, przywróć ową kartę na pole bitwy na początku najbliższego "
+"kroku końcowego.\""
 
 #: ../../C21.rst:285
 msgid "Daretti, Scrap Savant can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../C21.rst:292
 msgid ":mtgtip:`Faithless Looting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d6e5cc9-bd48-41b6-ac20-5a3e38aecdc5.jpg?1617647725|https://scryfall.com/card/c21/168/faithless-looting?utm_source=api>`"
@@ -584,11 +627,13 @@ msgstr ""
 
 #: ../../C21.rst:289
 msgid "Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../C21.rst:291
 msgid "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C21.rst:296
 msgid ":mtgtip:`Feldon of the Third Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97879ddb-b00b-4f24-b901-af19c436b9f1.jpg?1617647857|https://scryfall.com/card/c21/169/feldon-of-the-third-path?utm_source=api>`"
@@ -597,6 +642,9 @@ msgstr ""
 #: ../../C21.rst:295
 msgid "|mana_2|\\ |mana_r|, |tap|: Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Stwórz żeton będący kopią wskazanej karty stwora "
+"w twoim cmentarzu, ale jest on artefaktem oprócz swoich pozostałych typów. "
+"Zyskuje on pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../C21.rst:302
 msgid ":mtgtip:`Hellkite Igniter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0c94fc4-17d7-4752-9667-c20c19e65f01.jpg?1617735401|https://scryfall.com/card/c21/171/hellkite-igniter?utm_source=api>`"
@@ -604,7 +652,7 @@ msgstr ""
 
 #: ../../C21.rst:299
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../C21.rst:301
 msgid "|mana_1|\\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control."
@@ -616,15 +664,19 @@ msgstr ""
 
 #: ../../C21.rst:305
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../C21.rst:307
 msgid "Whenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zyskaj władanie nad "
+"wszystkimi artefaktami pod władaniem owego gracza."
 
 #: ../../C21.rst:309
 msgid "At the beginning of your upkeep, if you control twenty or more artifacts, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej dwudziestoma "
+"artefaktami, wygrywasz grę."
 
 #: ../../C21.rst:316
 msgid ":mtgtip:`Hoard-Smelter Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5eb5f59-1d0c-402a-8b06-108bf1dc8b4e.jpg?1617735426|https://scryfall.com/card/c21/173/hoard-smelter-dragon?utm_source=api>`"
@@ -641,14 +693,18 @@ msgstr ""
 #: ../../C21.rst:319
 msgid "When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../C21.rst:321
 msgid "|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|: Wskazany artefaktowy stwór dostaje do końca tury +1/+0."
 
 #: ../../C21.rst:323
 msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
 msgstr ""
+"|mana_1|, poświęć artefakt: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../C21.rst:328
 msgid ":mtgtip:`Quicksmith Genius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fed8df9-600c-4502-83a3-883724f2f7c6.jpg?1617735480|https://scryfall.com/card/c21/178/quicksmith-genius?utm_source=api>`"
@@ -657,6 +713,8 @@ msgstr ""
 #: ../../C21.rst:327
 msgid "Whenever an artifact enters the battlefield under your control, you may discard a card. If you do, draw a card."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, możesz odrzucić "
+"kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C21.rst:334
 msgid ":mtgtip:`Thopter Engineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03ba03d0-c2fd-44fa-809e-3873e1c3e968.jpg?1617647657|https://scryfall.com/card/c21/181/thopter-engineer?utm_source=api>`"
@@ -665,10 +723,14 @@ msgstr ""
 #: ../../C21.rst:331
 msgid "When Thopter Engineer enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../C21.rst:333
 msgid "Artifact creatures you control have haste. (They can attack and |tap| as soon as they come under your control.)"
 msgstr ""
+"Artefaktyczne stwory pod twoim władaniem mają pośpiech. (Mogą atakować i "
+"|tap| zaraz po wejściu pod twoje władanie.)"
 
 #: ../../C21.rst:344
 msgid ":mtgtip:`Boros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22dc1c3a-0110-4925-a745-e51b20553027.jpg?1617735509|https://scryfall.com/card/c21/210/boros-charm?utm_source=api>`"
@@ -676,15 +738,15 @@ msgstr ""
 
 #: ../../C21.rst:339
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../C21.rst:341
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalność."
 
 #: ../../C21.rst:343
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../C21.rst:350
 msgid ":mtgtip:`Jor Kadeen, the Prevailer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/576d86b5-2541-4ebc-8992-73248af7c805.jpg?1617735534|https://scryfall.com/card/c21/220/jor-kadeen-the-prevailer?utm_source=api>`"
@@ -693,6 +755,8 @@ msgstr ""
 #: ../../C21.rst:349
 msgid "Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts."
 msgstr ""
+"Metalurgia — Stwory pod twoim władaniem dostają +3/+0 o ile władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../C21.rst:354
 msgid ":mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01b186af-8825-4257-80fd-9c1ecdb21414.jpg?1617647997|https://scryfall.com/card/c21/234/arcane-signet?utm_source=api>`"
@@ -701,7 +765,7 @@ msgstr ""
 #: ../../C21.rst:353
 #: ../../C21.rst:373
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../C21.rst:360
 msgid ":mtgtip:`Boros Locket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c61204b7-02c2-41be-8841-0b261798de7a.jpg?1617647745|https://scryfall.com/card/c21/236/boros-locket?utm_source=api>`"
@@ -710,11 +774,13 @@ msgstr ""
 #: ../../C21.rst:357
 #: ../../C21.rst:501
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../C21.rst:359
 msgid "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|, |tap|, Sacrifice Boros Locket: Draw two cards."
 msgstr ""
+"|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|, |tap|, poświęć ten artefakt: "
+"Dobierz dwie karty."
 
 #: ../../C21.rst:366
 msgid ":mtgtip:`Bosh, Iron Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fb3b1f-c3a0-4da4-9b29-eff81fc1d562.jpg?1617735562|https://scryfall.com/card/c21/237/bosh-iron-golem?utm_source=api>`"
@@ -723,6 +789,8 @@ msgstr ""
 #: ../../C21.rst:365
 msgid "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to any target."
 msgstr ""
+"|mana_3|\\ |mana_r|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi "
+"obrażenia równe skrótowi many poświęconego artefaktu."
 
 #: ../../C21.rst:370
 msgid ":mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf2d103-8614-4cc1-be90-a8b331eff0d2.jpg?1617735592|https://scryfall.com/card/c21/238/burnished-hart?utm_source=api>`"
@@ -731,6 +799,9 @@ msgstr ""
 #: ../../C21.rst:369
 msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../C21.rst:376
 msgid ":mtgtip:`Commander's Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c1fda5d-f519-4b27-9fc6-1a617d0fc79b.jpg?1617735624|https://scryfall.com/card/c21/239/commanders-sphere?utm_source=api>`"
@@ -747,10 +818,15 @@ msgstr ""
 #: ../../C21.rst:379
 msgid "Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../C21.rst:381
 msgid "As long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter."
 msgstr ""
+"O ile karta wygnana tym stworem jest kartą stwora, niniejszy stwór ma jej "
+"siłę, wytrzymałość i typy stwora ostatnio wygnanej przez siebie karty "
+"stwora. Nadal jest Przemieńcem."
 
 #: ../../C21.rst:388
 msgid ":mtgtip:`Hedron Archive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8900980-6e0d-4d78-91a7-60a2e8cc92a5.jpg?1617648066|https://scryfall.com/card/c21/244/hedron-archive?utm_source=api>`"
@@ -759,11 +835,11 @@ msgstr ""
 #: ../../C21.rst:385
 #: ../../C21.rst:431
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../C21.rst:387
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../C21.rst:392
 msgid ":mtgtip:`Ichor Wellspring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1ccdb407-ac8f-4736-89d3-ab0d086096ea.jpg?1617647894|https://scryfall.com/card/c21/245/ichor-wellspring?utm_source=api>`"
@@ -772,6 +848,8 @@ msgstr ""
 #: ../../C21.rst:391
 msgid "When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy lub trafia z pola bitwy do "
+"cmentarza, dobierz kartę."
 
 #: ../../C21.rst:398
 msgid ":mtgtip:`Key to the City<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2103bba-f367-45ed-9b2c-bf31bb2926a5.jpg?1617735657|https://scryfall.com/card/c21/248/key-to-the-city?utm_source=api>`"
@@ -780,10 +858,14 @@ msgstr ""
 #: ../../C21.rst:395
 msgid "|tap|, Discard a card: Up to one target creature can't be blocked this turn."
 msgstr ""
+"|tap|, odrzuć kartę: Co najwyżej jeden wskazany stwór nie może być blokowany "
+"w tej turze."
 
 #: ../../C21.rst:397
 msgid "Whenever Key to the City becomes untapped, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
+"Ilekroć ten artefakt zostanie odkręcony, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../C21.rst:402
 msgid ":mtgtip:`Meteor Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d096068-0740-4b28-8c05-f5a5b7109ab9.jpg?1617647977|https://scryfall.com/card/c21/250/meteor-golem?utm_source=api>`"
@@ -792,6 +874,8 @@ msgstr ""
 #: ../../C21.rst:401
 msgid "When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika."
 
 #: ../../C21.rst:408
 msgid ":mtgtip:`Mind Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c899cbd-cddd-43f9-a95d-a6e5af990362.jpg?1617653592|https://scryfall.com/card/c21/251/mind-stone?utm_source=api>`"
@@ -799,7 +883,7 @@ msgstr ""
 
 #: ../../C21.rst:407
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../C21.rst:414
 msgid ":mtgtip:`Myr Battlesphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79d3ab85-0de2-4a6f-8ed0-c32853025520.jpg?1617736900|https://scryfall.com/card/c21/253/myr-battlesphere?utm_source=api>`"
@@ -808,10 +892,15 @@ msgstr ""
 #: ../../C21.rst:411
 msgid "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr artifact creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"artefaktowego stwora Myr 1/1."
 
 #: ../../C21.rst:413
 msgid "Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to the player or planeswalker it's attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
+"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../C21.rst:420
 msgid ":mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5773b53-82ed-43e7-b516-a32a128604ff.jpg?1617735687|https://scryfall.com/card/c21/257/pilgrims-eye?utm_source=api>`"
@@ -820,6 +909,9 @@ msgstr ""
 #: ../../C21.rst:419
 msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../C21.rst:424
 msgid ":mtgtip:`Scrap Trawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf1e1b54-2f97-4d33-807a-99ca38f21777.jpg?1617735716|https://scryfall.com/card/c21/260/scrap-trawler?utm_source=api>`"
@@ -828,6 +920,9 @@ msgstr ""
 #: ../../C21.rst:423
 msgid "Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost."
 msgstr ""
+"Ilekroć ten stwór lub inny artefakt pod twoim władaniem zostanie umieszczony "
+"w cmentarzu z pola bitwy, przywróć z twojego cmentarza do twojej ręki "
+"wskazaną kartę artefaktu o mniejszym koszcie many."
 
 #: ../../C21.rst:428
 msgid ":mtgtip:`Sculpting Steel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7752f944-9e03-4604-b330-0c0aeee2d627.jpg?1617735746|https://scryfall.com/card/c21/261/sculpting-steel?utm_source=api>`"
@@ -836,6 +931,8 @@ msgstr ""
 #: ../../C21.rst:427
 msgid "You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ją zmienić w kopię artefaktu "
+"obecnego na polu bitwy."
 
 #: ../../C21.rst:432
 msgid ":mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cbc6901-6a4a-4d0a-83ea-7eefa3b35021.jpg?1617647763|https://scryfall.com/card/c21/263/sol-ring?utm_source=api>`"
@@ -848,10 +945,13 @@ msgstr ""
 #: ../../C21.rst:435
 msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../C21.rst:437
 msgid "When Solemn Simulacrum dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../C21.rst:446
 msgid ":mtgtip:`Steel Hellkite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c145019-385d-4a16-b28b-bb9699c95e53.jpg?1617647693|https://scryfall.com/card/c21/266/steel-hellkite?utm_source=api>`"
@@ -872,6 +972,8 @@ msgstr ""
 #: ../../C21.rst:449
 msgid "|tap|: Put a +1/+1 counter on each artifact creature you control."
 msgstr ""
+"|tap|: Umieść znacznik +1/+1 na każdym artefaktowym stworze pod twoim "
+"władaniem."
 
 #: ../../C21.rst:456
 msgid ":mtgtip:`Thousand-Year Elixir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95c2d832-5244-4236-81d5-2920aa2e281e.jpg?1617735822|https://scryfall.com/card/c21/271/thousand-year-elixir?utm_source=api>`"
@@ -891,7 +993,7 @@ msgstr ""
 
 #: ../../C21.rst:461
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
-msgstr ""
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany permanent."
 
 #: ../../C21.rst:466
 msgid ":mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a508907-a127-45cd-898a-e936bc08391f.jpg?1617735886|https://scryfall.com/card/c21/276/ancient-den?utm_source=api>`"
@@ -899,7 +1001,7 @@ msgstr ""
 
 #: ../../C21.rst:465
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../C21.rst:472
 msgid ":mtgtip:`Darksteel Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg?1617735923|https://scryfall.com/card/c21/285/darksteel-citadel?utm_source=api>`"
@@ -907,7 +1009,7 @@ msgstr ""
 
 #: ../../C21.rst:469
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../C21.rst:476
 msgid ":mtgtip:`Great Furnace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0ac295e-93e4-490b-b8a3-a9794c7f56e4.jpg?1617735958|https://scryfall.com/card/c21/292/great-furnace?utm_source=api>`"
@@ -928,6 +1030,8 @@ msgstr ""
 #: ../../C21.rst:487
 msgid "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór dostaje do końca tury +2/+0, "
+"czujność i pośpiech."
 
 #: ../../C21.rst:494
 msgid ":mtgtip:`Sunhome, Fortress of the Legion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15e9f92d-638d-46c2-9f8e-f741db1a4a40.jpg?1617736070|https://scryfall.com/card/c21/319/sunhome-fortress-of-the-legion?utm_source=api>`"
@@ -936,6 +1040,8 @@ msgstr ""
 #: ../../C21.rst:493
 msgid "|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Target creature gains double strike until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"podwójny cios."
 
 #: ../../C21.rst:501
 msgid ":mtgtip:`Temple of Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0516f04-127a-44de-8d49-e40d3fe192e3.jpg?1617736099|https://scryfall.com/card/c21/327/temple-of-triumph?utm_source=api>`"
@@ -943,8 +1049,8 @@ msgstr ""
 
 #: ../../C21.rst:497
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:499
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
