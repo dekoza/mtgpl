@@ -64,6 +64,10 @@
 
 .. |C19_percent| image:: images/pie75.png        
 
+.. |C20_percent| image:: images/pie05.png
+
+.. |C21_percent| image:: images/pie05.png
+
 .. |M10_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
