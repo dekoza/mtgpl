@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-07 07:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -452,16 +452,12 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:159
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature deals combat damage to a player, create that "
-#| "many 1/1 green Saproling creature tokens."
 msgid ""
 "Destroy target artifact or enchantment. If |mana_g| was spent to cast this "
 "spell, create two 1/1 green Saproling creature tokens."
 msgstr ""
-"Ilekroć zauroczony stwór zada graczowi obrażenia bojowe, stwórz tyle samo "
-"żetonów zielonego stwora Saproling 1/1."
+"Zniszcz wskazany artefakt lub urok. Jeśli do rzucenia tego czaru wydano "
+"|mana_g|, stwórz dwa żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../RAV.rst:164
 msgid ""
@@ -3128,10 +3124,8 @@ msgid ""
 msgstr ""
 
 #: ../../RAV.rst:1125
-#, fuzzy
-#| msgid "Target player discards two cards."
 msgid "Target player mills X cards and you gain X life."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "Wskazany gracz mieli X kart, a ty zyskaj X żyć."
 
 #: ../../RAV.rst:1130
 msgid ""

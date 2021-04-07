@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-07 07:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gpt/pl/>\n"
 "Language: pl\n"
@@ -1061,16 +1061,12 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:397
-#, fuzzy
-#| msgid ""
-#| "When Izzet Boilerworks enters the battlefield, return a land you control "
-#| "to its owner's hand."
 msgid ""
 "When Ogre Savant enters the battlefield, if |mana_u| was spent to cast it, "
 "return target creature to its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
-"ręki właściciela."
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli do jego rzucenia wydano |mana_u|"
+", przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../GPT.rst:402
 msgid ""

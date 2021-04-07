@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-07 07:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -521,10 +521,8 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:179
-#, fuzzy
-#| msgid "|tap|: Target player exiles a card from their graveyard."
 msgid "|tap|: Target player mills a card."
-msgstr "|tap|: Wskazany gracz wygania kartę ze swojego cmentarza."
+msgstr "|tap|: Wskazany gracz mieli kartę."
 
 #: ../../ALA.rst:186
 msgid ""

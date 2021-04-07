@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-06 22:14+0000\n"
+"PO-Revision-Date: 2021-04-07 07:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -556,16 +556,12 @@ msgid ""
 msgstr ""
 
 #: ../../SHM.rst:189
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts a white spell, you may pay |mana_1|. If you do, "
-#| "you gain 1 life."
 msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, "
 "target player mills two cards."
 msgstr ""
-"Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
-"tak zrobisz, zyskaj 1 życie."
+"Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, wskazany gracz mieli dwie karty."
 
 #: ../../SHM.rst:196
 msgid ""
