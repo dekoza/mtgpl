@@ -69,7 +69,7 @@
 .. |M10_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C21_percent| image:: images/pie55.png        
+.. |C21_percent| image:: images/pie75.png        
 
 .. |GK1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
