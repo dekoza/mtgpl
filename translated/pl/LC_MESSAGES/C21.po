@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-07 11:38+0000\n"
+"PO-Revision-Date: 2021-04-08 12:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -115,6 +115,8 @@ msgstr ""
 #: ../../C21.rst:39
 msgid "|mana_x|, |tap|, Exile an artifact with mana value X from your graveyard: Create two tokens that are copies of the exiled card. Activate only as a sorcery."
 msgstr ""
+"|mana_x|, |tap|, Wygnaj z twojego cmentarza kartę artefaktu o skrócie many X:"
+" Stwórz dwa żetony będące kopią owej wygnanej karty. Aktywuj jako obrzęd."
 
 #: ../../C21.rst:46
 msgid ":mtgtip:`Adrix and Nev, Twincasters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d495e084-92ec-4675-b6aa-8ade2775b796.jpg?1616726466|https://scryfall.com/card/c21/9/adrix-and-nev-twincasters?utm_source=api>`"
@@ -130,6 +132,8 @@ msgstr ""
 #: ../../C21.rst:45
 msgid "If one or more tokens would be created under your control, twice that many of those tokens are created instead."
 msgstr ""
+"Jeśli jeden lub więcej żetonów miałoby zostać stworzonych pod twoim "
+"władaniem, zamiast tego tworzonych ich jest dwukrotnie tyle."
 
 #: ../../C21.rst:54
 msgid ":mtgtip:`Angel of the Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea96229a-5c33-4f79-97d4-059947dd7617.jpg?1617642023|https://scryfall.com/card/c21/11/angel-of-the-ruins?utm_source=api>`"
@@ -138,10 +142,15 @@ msgstr ""
 #: ../../C21.rst:51
 msgid "When Angel of the Ruins enters the battlefield, exile up to two target artifacts and/or enchantments."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej dwa wskazane "
+"artefakty i/lub uroki."
 
 #: ../../C21.rst:53
 msgid "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
+"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../C21.rst:60
 msgid ":mtgtip:`Archaeomancer's Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/703d0bdc-01a0-4ba8-8536-e7425dfb3b1f.jpg?1617644994|https://scryfall.com/card/c21/12/archaeomancers-map?utm_source=api>`"
@@ -150,10 +159,16 @@ msgstr ""
 #: ../../C21.rst:57
 msgid "When Archaeomancer's Map enters the battlefield, search your library for up to two basic Plains cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych Równin, ujawnij je, umieść je w twojej ręce, po "
+"czym przetasuj."
 
 #: ../../C21.rst:59
 msgid "Whenever a land enters the battlefield under an opponent's control, if that player controls more lands than you, you may put a land card from your hand onto the battlefield."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy pod władaniem przeciwnika, jeśli ów gracz "
+"ma we władaniu więcej lądów niż ty, możesz umieścić kartę lądu z twojej ręki "
+"na polu bitwy."
 
 #: ../../C21.rst:70
 msgid ":mtgtip:`Bronze Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cd5cc66-2ade-4142-9269-7d9905b029e5.jpg?1617643416|https://scryfall.com/card/c21/13/bronze-guardian?utm_source=api>`"
@@ -165,11 +180,11 @@ msgstr "Podwójny cios"
 
 #: ../../C21.rst:67
 msgid "Other artifacts you control have ward |mana_2|."
-msgstr ""
+msgstr "Inne artefakty pod twoim władaniem mają opiekę |mana_2|."
 
 #: ../../C21.rst:69
 msgid "Bronze Guardian's power is equal to the number of artifacts you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie artefaktów pod twoim władaniem."
 
 #: ../../C21.rst:74
 msgid ":mtgtip:`Digsite Engineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d79b8974-796c-4f88-a0cb-5afbaf26fd24.jpg?1617643514|https://scryfall.com/card/c21/15/digsite-engineer?utm_source=api>`"
@@ -178,6 +193,9 @@ msgstr ""
 #: ../../C21.rst:73
 msgid "Whenever you cast an artifact spell, you may pay |mana_2|. If you do, create a 0/0 colorless Construct artifact creature token with \"This creature gets +1/+1 for each artifact you control.\""
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego artefaktowego stwora Konstrukt 0/0 mający \"Ten "
+"stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem.\""
 
 #: ../../C21.rst:80
 msgid ":mtgtip:`Excavation Technique<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32ffc8eb-9518-455c-ada5-8b7596896dcf.jpg?1617643630|https://scryfall.com/card/c21/16/excavation-technique?utm_source=api>`"
@@ -186,10 +204,14 @@ msgstr ""
 #: ../../C21.rst:77
 msgid "Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)"
 msgstr ""
+"Zademonstruj (Kiedy rzucisz ten czar, możesz go skopiować. Jeśli tak "
+"zrobisz, wybierz przeciwnika, który też go skopiuje. Gracze mogą wskazać "
+"nowe cele dla kopii.)"
 
 #: ../../C21.rst:79
 msgid "Destroy target nonland permanent. Its controller creates two Treasure tokens."
 msgstr ""
+"Zniszcz wskazany nielądowy permanent. Jego władca tworzy dwa żetony Skarbu."
 
 #: ../../C21.rst:86
 msgid ":mtgtip:`Losheel, Clockwork Scholar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db1d67fe-bffe-45ad-af6a-cb131ddb1a12.jpg?1617640365|https://scryfall.com/card/c21/18/losheel-clockwork-scholar?utm_source=api>`"
@@ -198,10 +220,14 @@ msgstr ""
 #: ../../C21.rst:83
 msgid "Prevent all combat damage that would be dealt to attacking artifact creatures you control."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane atakującym "
+"artefaktowym stworom pod twoim władaniem."
 
 #: ../../C21.rst:85
 msgid "Whenever one or more artifact creatures enter the battlefield under your control, draw a card. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć co najmniej jeden artefaktowy stwór wejdzie na pole bitwy pod twoim "
+"władaniem, dobierz kartę. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../C21.rst:90
 msgid ":mtgtip:`Monologue Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9449f23-6a14-453b-8bb6-5cf85ed7a851.jpg?1617645044|https://scryfall.com/card/c21/19/monologue-tax?utm_source=api>`"
@@ -210,6 +236,7 @@ msgstr ""
 #: ../../C21.rst:89
 msgid "Whenever an opponent casts their second spell each turn, you create a Treasure token."
 msgstr ""
+"Ilekroć przeciwnik rzuci swój drugi czar w danej turze, stwórz żeton Skarbu."
 
 #: ../../C21.rst:96
 msgid ":mtgtip:`Dazzling Sphinx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47287f15-c480-4c93-8f04-10f57a089c2e.jpg?1617734827|https://scryfall.com/card/c21/25/dazzling-sphinx?utm_source=api>`"
@@ -218,6 +245,10 @@ msgstr ""
 #: ../../C21.rst:95
 msgid "Whenever Dazzling Sphinx deals combat damage to a player, that player exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then that player puts the exiled cards that weren't cast this way on the bottom of their library in a random order."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania karty z "
+"wierzchu swojej biblioteki aż wygna kartę sztuczki lub obrzędu. Możesz "
+"rzucić ową kartę bez płacenia jej kosztu many. Następnie ów gracz umieszcza "
+"losowo na spodzie swojej bibilioteki wygnane karty nie rzucone w ten sposób."
 
 #: ../../C21.rst:102
 msgid ":mtgtip:`Inspiring Refrain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a66076f9-c1b0-4718-8609-3e2efe6114ab.jpg?1617735048|https://scryfall.com/card/c21/27/inspiring-refrain?utm_source=api>`"
@@ -225,11 +256,15 @@ msgstr ""
 
 #: ../../C21.rst:99
 msgid "Draw two cards. Exile Inspiring Refrain with three time counters on it."
-msgstr ""
+msgstr "Dobierz dwie karty. Wygnaj ten czar z trzema znacznikami czasu."
 
 #: ../../C21.rst:101
 msgid "Suspend 3—|mana_2|\\ |mana_u| (Rather than cast this card from your hand, pay |mana_2|\\ |mana_u| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 3—|mana_2|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
+"zapłać |mana_2|\\ |mana_u| i wygnaj ją z trzema znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"zostanie usunięty, rzuć ją bez płacenia jej kosztu many.)"
 
 #: ../../C21.rst:106
 msgid ":mtgtip:`Muse Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c11b6560-51e8-42d2-a51d-fca70a5807b5.jpg?1617734717|https://scryfall.com/card/c21/28/muse-vortex?utm_source=api>`"
@@ -238,6 +273,10 @@ msgstr ""
 #: ../../C21.rst:105
 msgid "Exile the top X cards of your library. You may cast an instant or sorcery spell with mana value X or less from among them without paying its mana cost. Then put the exiled instant or sorcery cards that weren't cast this way into your hand the rest on the bottom of your library in a random order."
 msgstr ""
+"Wygnaj X wierzchnich kart twojej biblioteki. Możesz rzucić spośród nich "
+"kartę sztuczki lub obrzędu o skrócie many X lub mniejszym bez płacenia jej "
+"kosztu many. Następnie umieść w twojej ręce nie rzucone w ten sposób karty "
+"sztuczek i obrzędów, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../C21.rst:114
 msgid ":mtgtip:`Octavia, Living Thesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb5e63cc-eb4f-40c6-b298-99cb8fe8585f.jpg?1617734638|https://scryfall.com/card/c21/29/octavia-living-thesis?utm_source=api>`"
@@ -246,14 +285,18 @@ msgstr ""
 #: ../../C21.rst:109
 msgid "This spell costs |mana_8| less to cast if you have eight or more instant and/or sorcery cards in your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_8| mniej jeśli masz co najmniej osiem "
+"kart sztuczek i/lub obrzędów w twoim cmentarzu."
 
 #: ../../C21.rst:111
 msgid "Ward |mana_8|"
-msgstr ""
+msgstr "Opieka |mana_8|"
 
 #: ../../C21.rst:113
 msgid "Magecraft — Whenever you cast an instant or sorcery spell, target creature has base power and toughness 8/8 until end of turn."
 msgstr ""
+"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
+"wskazany stwór ma do końca tury bazową siłę i wytrzymałość 8/8."
 
 #: ../../C21.rst:118
 msgid ":mtgtip:`Sly Instigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72f0773c-e2cf-435e-945c-51c7f834a6a6.jpg?1617734565|https://scryfall.com/card/c21/32/sly-instigator?utm_source=api>`"
@@ -270,6 +313,10 @@ msgstr ""
 #: ../../C21.rst:121
 msgid "|tap|, Sacrifice an artifact: Reveal cards from the top of your library until you reveal an artifact card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Audacious Reshapers deals damage to you equal to the number of cards revealed this way."
 msgstr ""
+"|tap|, poświęć artefakt: Ujawnij karty z wierzchu twojej biblioteki aż "
+"ujawnisz kartę artefaktu. Umieść ją na polu bitwy, a pozostałe losowo na "
+"spodzie twojej biblioteki. Ten stwór zadaje tobie tyle obrażeń, ile kart "
+"ujawniono w ten sposób."
 
 #: ../../C21.rst:130
 msgid ":mtgtip:`Battlemage's Bracers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a14aad2-47f0-4d21-9fcf-5ca171faffaf.jpg?1617641948|https://scryfall.com/card/c21/48/battlemages-bracers?utm_source=api>`"
@@ -277,7 +324,7 @@ msgstr ""
 
 #: ../../C21.rst:125
 msgid "Equipped creature has haste."
-msgstr ""
+msgstr "Wyposażony stwór ma pośpiech."
 
 #: ../../C21.rst:127
 msgid "Whenever an ability of equipped creature is activated, if it isn't a mana ability, you may pay |mana_1|. If you do, copy that ability. You may choose new targets for the copy."
