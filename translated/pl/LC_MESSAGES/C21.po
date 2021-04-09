@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-08 14:29+0200\n"
-"PO-Revision-Date: 2021-04-08 12:30+0000\n"
+"PO-Revision-Date: 2021-04-09 13:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -367,19 +367,15 @@ msgstr ""
 
 #: ../../C21.rst:105
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../C21.rst:107
-#, fuzzy
-#| msgid ""
-#| "Whenever Hellkite Tyrant deals combat damage to a player, gain control of "
-#| "all artifacts that player controls."
 msgid ""
 "Whenever a creature token you control deals combat damage to a player, draw "
 "a card."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, zyskaj władanie nad "
-"wszystkimi artefaktami pod władaniem owego gracza."
+"Ilekroć żeton stwora pod twoim władaniem zada graczowi obrażenia bojowe, "
+"dobierz kartę."
 
 #: ../../C21.rst:114
 msgid ""
@@ -410,25 +406,20 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:117
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, "
-#| "Veyran, Voice of Duality gets +1/+1 until end of turn."
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, create a "
 "0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where "
 "X is that spell's mana value."
 msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
-"ten stwór dostaje do końca tury +1/+1."
+"stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1, gdzie X jest skrótem many owego czaru."
 
 #: ../../C21.rst:119
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
 msgid "|mana_3|\\ |mana_u|: Target creature token can't be blocked this turn."
 msgstr ""
-"|mana_1|, poświęć artefakt: Wskazany stwór nie może blokować w tej turze."
+"|mana_3|\\ |mana_u|: Wskazany żeton stwora nie może być blokowany w tej "
+"turze."
 
 #: ../../C21.rst:126
 msgid ""
@@ -564,18 +555,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:163
-#, fuzzy
-#| msgid ""
-#| "Whenever a land enters the battlefield under an opponent's control, if "
-#| "that player controls more lands than you, you may put a land card from "
-#| "your hand onto the battlefield."
 msgid ""
 "Whenever a nontoken creature enters the battlefield under an opponent's "
 "control this turn, create a token that's a copy of that creature."
 msgstr ""
-"Ilekroć ląd wejdzie na pole bitwy pod władaniem przeciwnika, jeśli ów gracz "
-"ma we władaniu więcej lądów niż ty, możesz umieścić kartę lądu z twojej ręki "
-"na polu bitwy."
+"Ilekroć nieżetonowy stwór wejdzie w tej turze na pole bitwy pod władaniem "
+"przeciwnika, stwórz żeton będący kopią owego stwora."
 
 #: ../../C21.rst:168
 msgid ""
@@ -846,10 +831,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:251
-#, fuzzy
-#| msgid "Other artifact creatures you control have haste."
 msgid "Commander creatures you control get +2/+2."
-msgstr "Inne artefaktowe stwory pod twoim władaniem mają pośpiech."
+msgstr "Dowódcy pod twoim władaniem dostają +2/+2."
 
 #: ../../C21.rst:253
 msgid "Commanders you control have hexproof."
@@ -882,16 +865,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:263
-#, fuzzy
-#| msgid ""
-#| "When Sanctum Gargoyle enters the battlefield, you may return target "
-#| "artifact card from your graveyard to your hand."
 msgid ""
 "Whenever Ruxa, Patient Professor enters the battlefield or attacks, return "
 "target creature card with no abilities from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"artefaktu z twojego cmentarza do twojej ręki."
+"Kiedy ten stwór wejdzie na pole bitwy lub zaatakuje, przywróć wskazaną kartę "
+"stwora bez zdolności z twojego cmentarza do twojej ręki."
 
 #: ../../C21.rst:265
 msgid "Creatures you control with no abilities get +1/+1."
@@ -911,18 +890,14 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:271
-#, fuzzy
-#| msgid ""
-#| "|mana_x|, |tap|, Exile an artifact with mana value X from your graveyard: "
-#| "Create two tokens that are copies of the exiled card. Activate only as a "
-#| "sorcery."
 msgid ""
 "|mana_x|, |tap|: Exile target creature card with mana value X from a "
 "graveyard. Create a 0/0 green and blue Fractal creature token. Put X +1/+1 "
 "counters on it. Activate only as a sorcery."
 msgstr ""
-"|mana_x|, |tap|, Wygnaj z twojego cmentarza kartę artefaktu o skrócie many "
-"X: Stwórz dwa żetony będące kopią owej wygnanej karty. Aktywuj jako obrzęd."
+"|mana_x|, |tap|: Wygnaj wskazaną kartę o skrócie many X z twojego cmentarza. "
+"Stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
+"znaczników +1/+1. Aktywuj jako obrzęd."
 
 #: ../../C21.rst:276
 msgid ""
