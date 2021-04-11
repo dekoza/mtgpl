@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-11 17:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,15 +61,15 @@ msgid "Create a 2/1 white and black Inkling creature token with flying, a 3/2 re
 msgstr ""
 
 #: ../../STX.rst:30
-msgid ":mtgtip:`Wandering Archaic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617149149|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`"
+msgid ":mtgtip:`Wandering Archaic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:29
-msgid "Whenever an opponent casts an instant or sorcery spell, they may pay |mana_2|. If they don't, you may copy that spell. You many choose new targets for the copy."
+msgid "Whenever an opponent casts an instant or sorcery spell, they may pay |mana_2|. If they don't, you may copy that spell. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../STX.rst:34
-msgid ":mtgtip:`Explore the Vastlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617149149|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`"
+msgid ":mtgtip:`Explore the Vastlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:33
@@ -180,7 +180,7 @@ msgid "|mana_3|: Destroy Detention Vortex. Only your opponents may activate this
 msgstr ""
 
 #: ../../STX.rst:84
-msgid ":mtgtip:`Devastating Mastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b6be019-29b9-4c81-9899-aefeaf9cc977.jpg?1617618527|https://scryfall.com/card/stx/14/devastating-mastery?utm_source=api>`"
+msgid ":mtgtip:`Devastating Mastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b6be019-29b9-4c81-9899-aefeaf9cc977.jpg?1617995237|https://scryfall.com/card/stx/14/devastating-mastery?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:79
@@ -188,7 +188,7 @@ msgid "You may pay |mana_2|\\ |mana_w|\\ |mana_w| rather than pay this spell's m
 msgstr ""
 
 #: ../../STX.rst:81
-msgid "If the |mana_2|\\ |mana_w|\\ |mana_w| cost was paid, an opponent choses up to two nonland permanents they control and returns them to their owner's hand."
+msgid "If the |mana_2|\\ |mana_w|\\ |mana_w| cost was paid, an opponent chooses up to two nonland permanents they control and returns them to their owner's hand."
 msgstr ""
 
 #: ../../STX.rst:83
@@ -2944,7 +2944,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../STX.rst:1592
-msgid ":mtgtip:`Hall of Oracles<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617453717|https://scryfall.com/card/stx/267/hall-of-oracles?utm_source=api>`"
+msgid ":mtgtip:`Hall of Oracles<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617736051|https://scryfall.com/card/stx/267/hall-of-oracles?utm_source=api>`"
 msgstr ""
 
 #: ../../STX.rst:1589
@@ -2952,7 +2952,7 @@ msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../STX.rst:1591
-msgid "|tap| Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn."
+msgid "|tap|: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn."
 msgstr ""
 
 #: ../../STX.rst:1600

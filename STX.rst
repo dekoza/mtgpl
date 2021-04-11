@@ -25,11 +25,11 @@
    Create a 2/1 white and black Inkling creature token with flying, a 3/2 red and white Spirit creature token, and a 4/4 blue and red Elemental creature token.
 
 
-:mtgtip:`Wandering Archaic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617149149|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`
-   Whenever an opponent casts an instant or sorcery spell, they may pay |mana_2|. If they don't, you may copy that spell. You many choose new targets for the copy.
+:mtgtip:`Wandering Archaic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`
+   Whenever an opponent casts an instant or sorcery spell, they may pay |mana_2|. If they don't, you may copy that spell. You may choose new targets for the copy.
 
 
-:mtgtip:`Explore the Vastlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617149149|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`
+:mtgtip:`Explore the Vastlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`
    Each player looks at the top five cards of their library, reveals a land card and/or an instant or sorcery card from among them, then puts the cards they revealed this way into their hand and the rest on the bottom of their library in a random order. Each player gains 3 life.
 
 
@@ -75,10 +75,10 @@
    |mana_3|: Destroy Detention Vortex. Only your opponents may activate this ability and only as a sorcery.
 
 
-:mtgtip:`Devastating Mastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b6be019-29b9-4c81-9899-aefeaf9cc977.jpg?1617618527|https://scryfall.com/card/stx/14/devastating-mastery?utm_source=api>`
+:mtgtip:`Devastating Mastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b6be019-29b9-4c81-9899-aefeaf9cc977.jpg?1617995237|https://scryfall.com/card/stx/14/devastating-mastery?utm_source=api>`
    You may pay |mana_2|\ |mana_w|\ |mana_w| rather than pay this spell's mana cost.
 
-   If the |mana_2|\ |mana_w|\ |mana_w| cost was paid, an opponent choses up to two nonland permanents they control and returns them to their owner's hand.
+   If the |mana_2|\ |mana_w|\ |mana_w| cost was paid, an opponent chooses up to two nonland permanents they control and returns them to their owner's hand.
 
    Destroy all nonland permanents.
 
@@ -1583,12 +1583,12 @@
    |tap|: Add |mana_r| or |mana_w|.
 
 
-:mtgtip:`Hall of Oracles<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617453717|https://scryfall.com/card/stx/267/hall-of-oracles?utm_source=api>`
+:mtgtip:`Hall of Oracles<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617736051|https://scryfall.com/card/stx/267/hall-of-oracles?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|: Add one mana of any color.
 
-   |tap| Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn.
+   |tap|: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn.
 
 
 :mtgtip:`Lorehold Campus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d35461cf-becf-4399-8329-64b4496b7fc2.jpg?1617453746|https://scryfall.com/card/stx/268/lorehold-campus?utm_source=api>`

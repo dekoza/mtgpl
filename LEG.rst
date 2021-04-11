@@ -29,10 +29,10 @@
    Destroy all black creatures.
 
 
-:mtgtip:`Clergy of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db1f578f-fa3b-4447-953b-1490852b6c80.jpg?1562861356|https://scryfall.com/card/leg/6/clergy-of-the-holy-nimbus?utm_source=api>`
+:mtgtip:`Clergy of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db1f578f-fa3b-4447-953b-1490852b6c80.jpg?1617613157|https://scryfall.com/card/leg/6/clergy-of-the-holy-nimbus?utm_source=api>`
    If Clergy of the Holy Nimbus would be destroyed, regenerate it.
 
-   |mana_1|: Clergy of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+   |mana_1|: Clergy of the Holy Nimbus can't be regenerated this turn. Only your opponents may activate this ability.
 
 
 :mtgtip:`D'Avenant Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b09aee5c-8b9e-46c2-b4d4-508062f8af05.jpg?1562860646|https://scryfall.com/card/leg/7/davenant-archer?utm_source=api>`

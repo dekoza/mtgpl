@@ -965,7 +965,7 @@
    |mana_r|, |tap|, Sacrifice Flame Elemental: It deals damage equal to its power to target creature.
 
 
-:mtgtip:`Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bd7755f-7ca5-4948-8baf-976823906891.jpg?1587912641|https://scryfall.com/card/mir/176/flare?utm_source=api>`
+:mtgtip:`Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bd7755f-7ca5-4948-8baf-976823906891.jpg?1617148194|https://scryfall.com/card/mir/176/flare?utm_source=api>`
    Flare deals 1 damage to any target.
 
    Draw a card at the beginning of the next turn's upkeep.

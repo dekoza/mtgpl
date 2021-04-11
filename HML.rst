@@ -171,7 +171,7 @@
    Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
 
 
-:mtgtip:`Merchant Scroll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1562588253|https://scryfall.com/card/hml/33/merchant-scroll?utm_source=api>`
+:mtgtip:`Merchant Scroll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1617433102|https://scryfall.com/card/hml/33/merchant-scroll?utm_source=api>`
    Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.
 
 

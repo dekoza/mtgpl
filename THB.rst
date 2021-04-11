@@ -1087,7 +1087,7 @@
    Whenever Nessian Boar becomes blocked by a creature, that creature's controller draws a card.
 
 
-:mtgtip:`Nessian Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8200fcda-e30c-460f-9964-47e657b7c758.jpg?1581480733|https://scryfall.com/card/thb/182/nessian-hornbeetle?utm_source=api>`
+:mtgtip:`Nessian Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8200fcda-e30c-460f-9964-47e657b7c758.jpg?1617013359|https://scryfall.com/card/thb/182/nessian-hornbeetle?utm_source=api>`
    At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle.
 
 
