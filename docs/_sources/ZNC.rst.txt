@@ -11,7 +11,7 @@
    Whenever one or more Rogues you control deal combat damage to a player, that player mills a card for each 1 damage dealt to them. If the player mills at least one creature card this way, you draw a card. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 
-:mtgtip:`Obuun, Mul Daya Ancestor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8319b155-0fba-4d30-9481-bf01afbd3457.jpg?1604195276|https://scryfall.com/card/znc/2/obuun-mul-daya-ancestor?utm_source=api>`
+:mtgtip:`Obuun, Mul Daya Ancestor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8319b155-0fba-4d30-9481-bf01afbd3457.jpg?1617522154|https://scryfall.com/card/znc/2/obuun-mul-daya-ancestor?utm_source=api>`
    At the beginning of combat on your turn, up to one target land you control becomes an X/X Elemental creature with trample and haste until end of turn, where X is Obuun's power. It's still a land.
 
    Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature.
@@ -717,7 +717,7 @@
    |tap|: Add |mana_r| or |mana_w|.
 
 
-:mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50976f27-1878-46b0-a3c9-ac53616905ac.jpg?1604195994|https://scryfall.com/card/znc/124/command-tower?utm_source=api>`
+:mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50976f27-1878-46b0-a3c9-ac53616905ac.jpg?1617895741|https://scryfall.com/card/znc/124/command-tower?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
 
 

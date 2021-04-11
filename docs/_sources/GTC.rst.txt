@@ -1052,7 +1052,7 @@
 
    You control enchanted creature.
 
-   Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.
+   Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only your opponents may activate this ability.
 
 
 :mtgtip:`Spark Trooper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09eb69b5-b8e2-48c6-8c27-cb0108df8dad.jpg?1561815173|https://scryfall.com/card/gtc/199/spark-trooper?utm_source=api>`

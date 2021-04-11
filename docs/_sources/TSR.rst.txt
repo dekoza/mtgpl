@@ -55,7 +55,7 @@
    Whenever a time counter is removed from Benalish Commander while it's exiled, create a 1/1 white Soldier creature token.
 
 
-:mtgtip:`Blade of the Sixth Pride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8b1b493-2dec-4816-a427-4813a00ca3e9.jpg?1616287327|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?utm_source=api>`
+:mtgtip:`Blade of the Sixth Pride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8b1b493-2dec-4816-a427-4813a00ca3e9.jpg?1617716553|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?utm_source=api>`
    
 
 
@@ -141,12 +141,12 @@
    Suspend 3—|mana_w| (Rather than cast this card from your hand, you may pay |mana_w| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
 
 
-:mtgtip:`Knight of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ac76c0-54ce-41b2-9000-e21eecaf7e99.jpg?1616277471|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?utm_source=api>`
+:mtgtip:`Knight of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ac76c0-54ce-41b2-9000-e21eecaf7e99.jpg?1617613123|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?utm_source=api>`
    Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
 
    If Knight of the Holy Nimbus would be destroyed, regenerate it.
 
-   |mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+   |mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only your opponents may activate this ability.
 
 
 :mtgtip:`Lost Auramancers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0595c72-5b32-4d7b-8efc-7ce5c83504dd.jpg?1616277835|https://scryfall.com/card/tsr/24/lost-auramancers?utm_source=api>`
@@ -2307,9 +2307,7 @@
    Whenever you cast a creature spell of the chosen type, draw a card.
 
 
-:mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cddf6c54-d928-42f7-b2b6-7ee58be58148.jpg?1616284812|https://scryfall.com/card/tsr/403/ancient-den?utm_source=api>`
-   (Ancient Den isn't a spell.)
-
+:mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cddf6c54-d928-42f7-b2b6-7ee58be58148.jpg?1617647785|https://scryfall.com/card/tsr/403/ancient-den?utm_source=api>`
    |tap|: Add |mana_w|.
 
 

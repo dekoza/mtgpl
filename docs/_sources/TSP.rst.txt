@@ -164,7 +164,7 @@
 
    If Knight of the Holy Nimbus would be destroyed, regenerate it.
 
-   |mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+   |mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only your opponents may activate this ability.
 
 
 :mtgtip:`Magus of the Disk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/febbea40-74c7-431f-a88f-c15d4fdda89d.jpg?1562948946|https://scryfall.com/card/tsp/27/magus-of-the-disk?utm_source=api>`

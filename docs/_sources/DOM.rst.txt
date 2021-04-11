@@ -381,7 +381,7 @@
    When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents.
 
 
-:mtgtip:`Syncopate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f81739a5-35a7-4812-a7af-e1951bf5579c.jpg?1562745885|https://scryfall.com/card/dom/67/syncopate?utm_source=api>`
+:mtgtip:`Syncopate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f81739a5-35a7-4812-a7af-e1951bf5579c.jpg?1617884773|https://scryfall.com/card/dom/67/syncopate?utm_source=api>`
    Counter target spell unless its controller pays |mana_x|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 

@@ -145,7 +145,7 @@
    |tap|: Takeno's Cavalry deals 1 damage to target attacking or blocking Spirit.
 
 
-:mtgtip:`Tallowisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a018aa51-d75e-4d94-b4b3-0cd14fc87d44.jpg?1562878805|https://scryfall.com/card/bok/25/tallowisp?utm_source=api>`
+:mtgtip:`Tallowisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a018aa51-d75e-4d94-b4b3-0cd14fc87d44.jpg?1617371976|https://scryfall.com/card/bok/25/tallowisp?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library.
 
 

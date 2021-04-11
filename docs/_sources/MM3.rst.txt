@@ -972,7 +972,7 @@
 
    You control enchanted creature.
 
-   Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.
+   Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only your opponents may activate this ability.
 
 
 :mtgtip:`Sphinx's Revelation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0038ea4d-d0a6-44a4-bee6-24c03313d2bc.jpg?1593814610|https://scryfall.com/card/mm3/187/sphinxs-revelation?utm_source=api>`

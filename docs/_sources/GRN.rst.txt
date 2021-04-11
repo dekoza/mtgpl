@@ -1473,7 +1473,7 @@
    −10: For each creature card in your graveyard, put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Kraul Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/133d9d56-d906-4252-9954-e34cc8564ced.jpg?1572894291|https://scryfall.com/card/grn/270/kraul-raider?utm_source=api>`
+:mtgtip:`Kraul Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/133d9d56-d906-4252-9954-e34cc8564ced.jpg?1617894866|https://scryfall.com/card/grn/270/kraul-raider?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
 

@@ -1450,8 +1450,6 @@
 
 
 :mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc857fbd-8e0f-4bff-8f14-561c9925c484.jpg?1562158224|https://scryfall.com/card/mrd/278/ancient-den?utm_source=api>`
-   (Ancient Den isn't a spell.)
-
    |tap|: Add |mana_w|.
 
 

@@ -327,7 +327,7 @@
    Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.
 
 
-:mtgtip:`Bulwark Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5104d4fe-4c20-4106-b405-a2b35140c942.jpg?1600696117|https://scryfall.com/card/jmp/93/bulwark-giant?utm_source=api>`
+:mtgtip:`Bulwark Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5104d4fe-4c20-4106-b405-a2b35140c942.jpg?1616952434|https://scryfall.com/card/jmp/93/bulwark-giant?utm_source=api>`
    When Bulwark Giant enters the battlefield, you gain 5 life.
 
 
@@ -429,7 +429,7 @@
    When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`Inspiring Unicorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3320865c-ef02-4f18-82b0-47a6d845de0f.jpg?1600696645|https://scryfall.com/card/jmp/112/inspiring-unicorn?utm_source=api>`
+:mtgtip:`Inspiring Unicorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3320865c-ef02-4f18-82b0-47a6d845de0f.jpg?1617175856|https://scryfall.com/card/jmp/112/inspiring-unicorn?utm_source=api>`
    Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until end of turn.
 
 
