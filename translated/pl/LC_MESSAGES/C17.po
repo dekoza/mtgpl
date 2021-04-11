@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-07 08:30+0000\n"
+"PO-Revision-Date: 2021-04-11 16:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -154,7 +154,7 @@ msgstr ""
 #: ../../C17.rst:47
 msgid ""
 "When Stalking Leonin enters the battlefield, secretly choose an opponent."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, potajemnie wybierz przeciwnika."
 
 #: ../../C17.rst:49
 msgid ""
@@ -1250,6 +1250,10 @@ msgid ""
 "X Plains cards, where X is the number of players who control more lands than "
 "you. Reveal those cards, put them into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
+"najwyżej X kart Równin, gdzie X jest liczbą gracz mających we władaniu "
+"więcej lądów niż ty. Ujawnij owe karty, umieść je w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../C17.rst:428
 msgid ""

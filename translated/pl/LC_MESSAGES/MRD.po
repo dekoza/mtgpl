@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-11 16:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -951,17 +951,14 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:353
-#, fuzzy
-#| msgid ""
-#| "Search your library for a land card, reveal it, and put it into your "
-#| "hand. Then shuffle your library."
 msgid ""
 "Search your library for a nonland card and reveal it. Each opponent who cast "
 "a spell this turn with the same name as that card loses 6 life. Then shuffle "
 "your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i umieść w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece nielądową kartę i ujawnij ją. Każdy przeciwnik, "
+"który rzucił w tej turze czar o tej samej nazwie co owa karta, traci 6 żyć. "
+"Następnie przetasuj."
 
 #: ../../MRD.rst:355
 msgid ""
@@ -1491,7 +1488,7 @@ msgstr ""
 
 #: ../../MRD.rst:551
 msgid "Add |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|."
-msgstr ""
+msgstr "Weź |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|."
 
 #: ../../MRD.rst:556
 msgid ""
@@ -3843,10 +3840,8 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:1399
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Tap target artifact, creature, or land."
 msgid "|mana_8|, |tap|: Target player mills eight cards."
-msgstr "|mana_1|, |tap|: Przekręć wskazany artefakt, stwora lub ląd."
+msgstr "|mana_8|, |tap|: Wskazany gracz mieli osiem kart."
 
 #: ../../MRD.rst:1406
 msgid ""
