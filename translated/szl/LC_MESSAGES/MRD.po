@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-11 17:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2202,7 +2202,7 @@ msgid ""
 "scryfall.com/card/mrd/158/copper-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:837 ../../MRD.rst:1495
+#: ../../MRD.rst:837 ../../MRD.rst:1493
 msgid "|tap|: Add |mana_g|."
 msgstr ""
 
@@ -2510,7 +2510,7 @@ msgid ""
 "scryfall.com/card/mrd/180/gold-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:945 ../../MRD.rst:1455
+#: ../../MRD.rst:945 ../../MRD.rst:1453
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
@@ -2591,7 +2591,7 @@ msgid ""
 "scryfall.com/card/mrd/187/iron-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:975 ../../MRD.rst:1477
+#: ../../MRD.rst:975 ../../MRD.rst:1475
 msgid "|tap|: Add |mana_r|."
 msgstr ""
 
@@ -2655,7 +2655,7 @@ msgid ""
 "scryfall.com/card/mrd/191/leaden-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:997 ../../MRD.rst:1501
+#: ../../MRD.rst:997 ../../MRD.rst:1499
 msgid "|tap|: Add |mana_b|."
 msgstr ""
 
@@ -3355,7 +3355,7 @@ msgid ""
 "scryfall.com/card/mrd/241/silver-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1257 ../../MRD.rst:1483
+#: ../../MRD.rst:1257 ../../MRD.rst:1481
 msgid "|tap|: Add |mana_u|."
 msgstr ""
 
@@ -3549,7 +3549,7 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:1323 ../../MRD.rst:1329 ../../MRD.rst:1335 ../../MRD.rst:1341
-#: ../../MRD.rst:1347 ../../MRD.rst:1459 ../../MRD.rst:1487
+#: ../../MRD.rst:1347 ../../MRD.rst:1457 ../../MRD.rst:1485
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -3868,164 +3868,160 @@ msgstr ""
 msgid "Vigilance"
 msgstr ""
 
-#: ../../MRD.rst:1456
+#: ../../MRD.rst:1454
 msgid ""
 ":mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/c/cc857fbd-8e0f-4bff-8f14-561c9925c484.jpg?1562158224|https://"
 "scryfall.com/card/mrd/278/ancient-den?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1453
-msgid "(Ancient Den isn't a spell.)"
-msgstr ""
-
-#: ../../MRD.rst:1462
+#: ../../MRD.rst:1460
 msgid ""
 ":mtgtip:`Blinkmoth Well<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e4c79155-b6d8-46df-891f-487b24c4e0d5.jpg?1562161323|"
 "https://scryfall.com/card/mrd/279/blinkmoth-well?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1461
+#: ../../MRD.rst:1459
 msgid "|mana_2|, |tap|: Tap target noncreature artifact."
 msgstr ""
 
-#: ../../MRD.rst:1468
+#: ../../MRD.rst:1466
 msgid ""
 ":mtgtip:`Cloudpost<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/f/2f28ecdc-a4f0-4327-a78c-340be41555ee.jpg?1562139726|https://"
 "scryfall.com/card/mrd/280/cloudpost?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1465
+#: ../../MRD.rst:1463
 msgid "Cloudpost enters the battlefield tapped."
 msgstr ""
 
-#: ../../MRD.rst:1467
+#: ../../MRD.rst:1465
 msgid "|tap|: Add |colorless| for each Locus on the battlefield."
 msgstr ""
 
-#: ../../MRD.rst:1474
+#: ../../MRD.rst:1472
 msgid ""
 ":mtgtip:`Glimmervoid<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/2/e2ab98a1-664c-4775-a3dd-22a15e2f836b.jpg?1562160858|https://"
 "scryfall.com/card/mrd/281/glimmervoid?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1471
+#: ../../MRD.rst:1469
 msgid ""
 "At the beginning of the end step, if you control no artifacts, sacrifice "
 "Glimmervoid."
 msgstr ""
 
-#: ../../MRD.rst:1473
+#: ../../MRD.rst:1471
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../MRD.rst:1478
+#: ../../MRD.rst:1476
 msgid ""
 ":mtgtip:`Great Furnace<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/8/2877281d-c85d-4f32-b40d-828b93c4ee8e.jpg?1562138784|"
 "https://scryfall.com/card/mrd/282/great-furnace?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1484
+#: ../../MRD.rst:1482
 msgid ""
 ":mtgtip:`Seat of the Synod<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/d/5da5587d-6b6c-4645-8cc9-2866d1e6911b.jpg?1562145028|"
 "https://scryfall.com/card/mrd/283/seat-of-the-synod?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1481
+#: ../../MRD.rst:1479
 msgid "(Seat of the Synod isn't a spell.)"
 msgstr ""
 
-#: ../../MRD.rst:1490
+#: ../../MRD.rst:1488
 msgid ""
 ":mtgtip:`Stalking Stones<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/9/c96d7230-c7ca-4613-ae7e-88a0e6270b98.jpg?1562157796|"
 "https://scryfall.com/card/mrd/284/stalking-stones?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1489
+#: ../../MRD.rst:1487
 msgid ""
 "|mana_6|: Stalking Stones becomes a 3/3 Elemental artifact creature that's "
 "still a land. (This effect lasts indefinitely.)"
 msgstr ""
 
-#: ../../MRD.rst:1496
+#: ../../MRD.rst:1494
 msgid ""
 ":mtgtip:`Tree of Tales<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/4/94db07aa-43d3-41b5-924e-60f1756b9c69.jpg?1562151494|"
 "https://scryfall.com/card/mrd/285/tree-of-tales?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1493
+#: ../../MRD.rst:1491
 msgid "(Tree of Tales isn't a spell.)"
 msgstr ""
 
-#: ../../MRD.rst:1502
+#: ../../MRD.rst:1500
 msgid ""
 ":mtgtip:`Vault of Whispers<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/3/73866487-33f4-4f64-b100-2c4ddadcd74e.jpg?1562147867|"
 "https://scryfall.com/card/mrd/286/vault-of-whispers?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1499
+#: ../../MRD.rst:1497
 msgid "(Vault of Whispers isn't a spell.)"
 msgstr ""
 
-#: ../../MRD.rst:1506
+#: ../../MRD.rst:1504
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/b/5bac2d0d-43db-41f7-99dd-9ff55a4f2b3b.jpg?1562144948|https://"
 "scryfall.com/card/mrd/287/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1505
+#: ../../MRD.rst:1503
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../MRD.rst:1510
+#: ../../MRD.rst:1508
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/a/9a5235cd-5d25-498d-8e36-7a7c0791f212.jpg?1562152134|https://"
 "scryfall.com/card/mrd/291/island?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1509
+#: ../../MRD.rst:1507
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../MRD.rst:1514
+#: ../../MRD.rst:1512
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/b/6bae27d4-9de5-4f95-8c56-79afc6cbeb0c.jpg?1562146924|https://"
 "scryfall.com/card/mrd/295/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1513
+#: ../../MRD.rst:1511
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../MRD.rst:1518
+#: ../../MRD.rst:1516
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/0/b082f22f-6c01-4e8c-80ad-6fdae5c3f22f.jpg?1562154650|https://"
 "scryfall.com/card/mrd/299/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1517
+#: ../../MRD.rst:1515
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../MRD.rst:1521
+#: ../../MRD.rst:1519
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/7/77aec0b2-30f2-4f35-a9a3-24d87795d177.jpg?1562148118|https://"
 "scryfall.com/card/mrd/303/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../MRD.rst:1521
+#: ../../MRD.rst:1519
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""

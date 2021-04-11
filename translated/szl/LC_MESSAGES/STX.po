@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-11 17:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -87,7 +87,7 @@ msgstr ""
 #: ../../STX.rst:30
 msgid ""
 ":mtgtip:`Wandering Archaic<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617149149|"
+"border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|"
 "https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?"
 "utm_source=api>`"
 msgstr ""
@@ -95,14 +95,14 @@ msgstr ""
 #: ../../STX.rst:29
 msgid ""
 "Whenever an opponent casts an instant or sorcery spell, they may pay |"
-"mana_2|. If they don't, you may copy that spell. You many choose new targets "
+"mana_2|. If they don't, you may copy that spell. You may choose new targets "
 "for the copy."
 msgstr ""
 
 #: ../../STX.rst:34
 msgid ""
 ":mtgtip:`Explore the Vastlands<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617149149|"
+"border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|"
 "https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?"
 "utm_source=api>`"
 msgstr ""
@@ -235,7 +235,7 @@ msgstr ""
 #: ../../STX.rst:84
 msgid ""
 ":mtgtip:`Devastating Mastery<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/b/3b6be019-29b9-4c81-9899-aefeaf9cc977.jpg?1617618527|"
+"border_crop/front/3/b/3b6be019-29b9-4c81-9899-aefeaf9cc977.jpg?1617995237|"
 "https://scryfall.com/card/stx/14/devastating-mastery?utm_source=api>`"
 msgstr ""
 
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../../STX.rst:81
 msgid ""
-"If the |mana_2|\\ |mana_w|\\ |mana_w| cost was paid, an opponent choses up "
+"If the |mana_2|\\ |mana_w|\\ |mana_w| cost was paid, an opponent chooses up "
 "to two nonland permanents they control and returns them to their owner's "
 "hand."
 msgstr ""
@@ -4394,7 +4394,7 @@ msgstr ""
 #: ../../STX.rst:1592
 msgid ""
 ":mtgtip:`Hall of Oracles<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617453717|"
+"border_crop/front/7/6/7642dddd-4461-46dd-b396-9e0a89f7232e.jpg?1617736051|"
 "https://scryfall.com/card/stx/267/hall-of-oracles?utm_source=api>`"
 msgstr ""
 
@@ -4404,8 +4404,8 @@ msgstr ""
 
 #: ../../STX.rst:1591
 msgid ""
-"|tap| Put a +1/+1 counter on target creature. Activate only as a sorcery and "
-"only if you've cast an instant or sorcery spell this turn."
+"|tap|: Put a +1/+1 counter on target creature. Activate only as a sorcery "
+"and only if you've cast an instant or sorcery spell this turn."
 msgstr ""
 
 #: ../../STX.rst:1600

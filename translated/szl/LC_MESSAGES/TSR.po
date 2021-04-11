@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-11 17:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -182,7 +182,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Blade of the Sixth Pride<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/d/8/d8b1b493-2dec-4816-a427-4813a00ca3e9.jpg?"
-"1616287327|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?"
+"1617716553|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?"
 "utm_source=api>`"
 msgstr ""
 
@@ -402,7 +402,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Knight of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/d/4/d4ac76c0-54ce-41b2-9000-e21eecaf7e99.jpg?"
-"1616277471|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?"
+"1617613123|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?"
 "utm_source=api>`"
 msgstr ""
 
@@ -412,8 +412,8 @@ msgstr ""
 
 #: ../../TSR.rst:149
 msgid ""
-"|mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only any "
-"opponent may activate this ability."
+"|mana_2|: Knight of the Holy Nimbus can't be regenerated this turn. Only "
+"your opponents may activate this ability."
 msgstr ""
 
 #: ../../TSR.rst:156
@@ -4312,8 +4312,8 @@ msgstr ""
 
 #: ../../TSR.rst:1581 ../../TSR.rst:1601 ../../TSR.rst:1609 ../../TSR.rst:1627
 #: ../../TSR.rst:1641 ../../TSR.rst:1647 ../../TSR.rst:1655 ../../TSR.rst:1663
-#: ../../TSR.rst:1685 ../../TSR.rst:2319 ../../TSR.rst:2325 ../../TSR.rst:2339
-#: ../../TSR.rst:2353 ../../TSR.rst:2361
+#: ../../TSR.rst:1685 ../../TSR.rst:2317 ../../TSR.rst:2323 ../../TSR.rst:2337
+#: ../../TSR.rst:2351 ../../TSR.rst:2359
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -4413,7 +4413,7 @@ msgid ""
 "https://scryfall.com/card/tsr/278/flagstones-of-trokair?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:1621 ../../TSR.rst:2313
+#: ../../TSR.rst:1621 ../../TSR.rst:2311
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
@@ -6278,126 +6278,122 @@ msgstr ""
 msgid "Whenever you cast a creature spell of the chosen type, draw a card."
 msgstr ""
 
-#: ../../TSR.rst:2314
+#: ../../TSR.rst:2312
 msgid ""
 ":mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/d/cddf6c54-d928-42f7-b2b6-7ee58be58148.jpg?1616284812|https://"
+"front/c/d/cddf6c54-d928-42f7-b2b6-7ee58be58148.jpg?1617647785|https://"
 "scryfall.com/card/tsr/403/ancient-den?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2311
-msgid "(Ancient Den isn't a spell.)"
-msgstr ""
-
-#: ../../TSR.rst:2322
+#: ../../TSR.rst:2320
 msgid ""
 ":mtgtip:`Arch of Orazca<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/2/f2216c70-91c2-43d5-9156-9b4f7828c821.jpg?1616284871|"
 "https://scryfall.com/card/tsr/404/arch-of-orazca?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2317
+#: ../../TSR.rst:2315
 msgid ""
 "Ascend (If you control ten or more permanents, you get the city's blessing "
 "for the rest of the game.)"
 msgstr ""
 
-#: ../../TSR.rst:2321
+#: ../../TSR.rst:2319
 msgid ""
 "|mana_5|, |tap|: Draw a card. Activate this ability only if you have the "
 "city's blessing."
 msgstr ""
 
-#: ../../TSR.rst:2328
+#: ../../TSR.rst:2326
 msgid ""
 ":mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/5/15a29ec4-ec55-4754-b832-35b39e8b23ae.jpg?1616284918|"
 "https://scryfall.com/card/tsr/405/blighted-woodland?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2327
+#: ../../TSR.rst:2325
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
 
-#: ../../TSR.rst:2336
+#: ../../TSR.rst:2334
 msgid ""
 ":mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/4/d46ca7cb-4a04-4081-8834-6bc29e0762d2.jpg?1616284959|https://"
 "scryfall.com/card/tsr/406/bojuka-bog?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2331
+#: ../../TSR.rst:2329
 msgid "Bojuka Bog enters the battlefield tapped."
 msgstr ""
 
-#: ../../TSR.rst:2333
+#: ../../TSR.rst:2331
 msgid ""
 "When Bojuka Bog enters the battlefield, exile all cards from target player's "
 "graveyard."
 msgstr ""
 
-#: ../../TSR.rst:2335
+#: ../../TSR.rst:2333
 msgid "|tap|: Add |mana_b|."
 msgstr ""
 
-#: ../../TSR.rst:2342
+#: ../../TSR.rst:2340
 msgid ""
 ":mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/2/5284d3ba-0542-48d7-8305-bfb2775c3674.jpg?1616284995|"
 "https://scryfall.com/card/tsr/407/field-of-ruin?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2341
+#: ../../TSR.rst:2339
 msgid ""
 "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
 "opponent controls. Each player searches their library for a basic land card, "
 "puts it onto the battlefield, then shuffles their library."
 msgstr ""
 
-#: ../../TSR.rst:2350
+#: ../../TSR.rst:2348
 msgid ""
 ":mtgtip:`Mystic Sanctuary<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/1/31f83f35-c4dc-46f0-9109-9d0d0181d9c8.jpg?1616285030|"
 "https://scryfall.com/card/tsr/408/mystic-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2345
+#: ../../TSR.rst:2343
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../TSR.rst:2347
+#: ../../TSR.rst:2345
 msgid ""
 "Mystic Sanctuary enters the battlefield tapped unless you control three or "
 "more other Islands."
 msgstr ""
 
-#: ../../TSR.rst:2349
+#: ../../TSR.rst:2347
 msgid ""
 "When Mystic Sanctuary enters the battlefield untapped, you may put target "
 "instant or sorcery card from your graveyard on top of your library."
 msgstr ""
 
-#: ../../TSR.rst:2358
+#: ../../TSR.rst:2356
 msgid ""
 ":mtgtip:`Ramunap Ruins<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/8/f82a7ea8-aa1c-4ff9-b1f7-06452492c788.jpg?1616285070|"
 "https://scryfall.com/card/tsr/409/ramunap-ruins?utm_source=api>`"
 msgstr ""
 
-#: ../../TSR.rst:2355
+#: ../../TSR.rst:2353
 msgid "|tap|, Pay 1 life: Add |mana_r|."
 msgstr ""
 
-#: ../../TSR.rst:2357
+#: ../../TSR.rst:2355
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins "
 "deals 2 damage to each opponent."
 msgstr ""
 
-#: ../../TSR.rst:2361
+#: ../../TSR.rst:2359
 msgid ""
 ":mtgtip:`Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/f/bf10c264-c7f6-4ae3-b3ef-ff12bd7b64c0.jpg?1616285151|https://"
