@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-11 16:59+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -688,7 +688,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../MIR.rst:237
 msgid "Sunweb can't block creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może blokować stworów o sile 2 lub mniejszej."
 
 #: ../../MIR.rst:242
 msgid ""
@@ -716,6 +716,7 @@ msgstr ""
 #: ../../MIR.rst:247
 msgid "Sacrifice Unyaro Griffin: Counter target red instant or sorcery spell."
 msgstr ""
+"Poświęć tego stwora: Skontruj wskazany czerwony czar sztuczki lub obrzędu."
 
 #: ../../MIR.rst:254
 msgid ""
@@ -832,6 +833,8 @@ msgid ""
 "Look at the top seven cards of your library. Put two of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../MIR.rst:304
 msgid ""
@@ -936,7 +939,7 @@ msgstr ""
 
 #: ../../MIR.rst:335
 msgid "|tap|, Sacrifice Daring Apprentice: Counter target spell."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Skontruj wskazany czar."
 
 #: ../../MIR.rst:340
 msgid ""
@@ -965,6 +968,8 @@ msgid ""
 "Draw three cards, then put two cards from your hand both on top of your "
 "library or both on the bottom of your library."
 msgstr ""
+"Dobierz trzy karty, po czym umieść dwie karty z twojej ręki albo obie na "
+"wierzchu twojej biblioteki, albo obie na spodzie twojej biblioteki."
 
 #: ../../MIR.rst:348
 msgid ""
@@ -1036,6 +1041,9 @@ msgid ""
 "You may put a creature card from your hand onto the battlefield. If you do, "
 "sacrifice it unless you pay its mana cost reduced by up to |mana_2|."
 msgstr ""
+"Możesz umieścić kartę stwora z twojej ręki na polu bitwy. Jeśli tak zrobisz, "
+"poświęć go, chyba że zapłacisz jego koszt many zmniejszony co najwyżej o "
+"|mana_2|."
 
 #: ../../MIR.rst:374
 msgid ""
@@ -1085,6 +1093,7 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_u|: Target creature gains flying until end of "
 "turn."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../MIR.rst:394
 msgid ""
@@ -1309,6 +1318,9 @@ msgid ""
 "doesn't, they tap all lands with mana abilities they control and lose all "
 "unspent mana."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|. Jeśli ów "
+"gracz tego nie zrobi, przekręca wszystkie lądy pod swoim władaniem mające "
+"zdolność dającą manę i traci całą niewydaną manę."
 
 #: ../../MIR.rst:464
 msgid ""
@@ -1603,6 +1615,8 @@ msgid ""
 "|mana_b|, |tap|: Tap target creature. Abyssal Hunter deals damage equal to "
 "Abyssal Hunter's power to that creature."
 msgstr ""
+"|mana_b|, |tap|: Przekręć wskazanego stwora. Niniejszy stwór zadaje owemu "
+"obrażenia równe swojej sile."
 
 #: ../../MIR.rst:584
 msgid ""
@@ -1616,6 +1630,8 @@ msgid ""
 "Put target creature card from an opponent's graveyard onto the battlefield "
 "under your control."
 msgstr ""
+"Umieść wskazaną kartę stwora z cmentarza przeciwnika na polu bitwy pod twoim "
+"władaniem."
 
 #: ../../MIR.rst:588
 msgid ""
@@ -1652,12 +1668,12 @@ msgstr ""
 
 #: ../../MIR.rst:597
 msgid "|tap|, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|, poświęć Bagno: Wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../MIR.rst:599
 msgid ""
 "|tap|, Sacrifice a creature: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../MIR.rst:606
 msgid ""
@@ -1860,6 +1876,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../MIR.rst:675
 msgid "Enchanted creature gets -2/-2."

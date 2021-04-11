@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-11 16:59+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leg/pl/>\n"
 "Language: pl\n"
@@ -569,6 +569,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../LEG.rst:183
 msgid "Whenever enchanted creature deals damage, you gain that much life."
@@ -1017,6 +1019,8 @@ msgid ""
 "Discard X cards, then return a card from your graveyard to your hand for "
 "each card discarded this way. Exile Recall."
 msgstr ""
+"Odrzuć X kart, po czym przywróć kartę z twojego cmentarza do twojej ręki za "
+"każdą kartę odrzuconą w ten sposób. Wygnaj niniejszy czar."
 
 #: ../../LEG.rst:348
 msgid ""
@@ -1290,7 +1294,7 @@ msgstr ""
 
 #: ../../LEG.rst:441
 msgid "When enchanted land becomes tapped, destroy it."
-msgstr ""
+msgstr "Kiedy zauroczony ląd zostanie przekręcony, zniszcz go."
 
 #: ../../LEG.rst:446
 msgid ""
@@ -2776,7 +2780,7 @@ msgstr ""
 
 #: ../../LEG.rst:985
 msgid "Players play with their hands revealed."
-msgstr ""
+msgstr "Gracze grają z ujawnionymi rękami."
 
 #: ../../LEG.rst:990
 msgid ""

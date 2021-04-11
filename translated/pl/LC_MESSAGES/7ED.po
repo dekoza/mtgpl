@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:59+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -473,6 +473,9 @@ msgid ""
 "The next time a source of your choice would deal damage to you this turn, "
 "prevent that damage. You gain life equal to the damage prevented this way."
 msgstr ""
+"Kiedy najbliższy raz w tej turze wybrane przez ciebie źródło miałoby zadać "
+"tobie obrażenia, zażegnaj je. Zyskaj życia równe obrażeniom zażegnanym w ten "
+"sposób."
 
 #: ../../7ED.rst:162
 msgid ""
@@ -621,6 +624,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../7ED.rst:215
 msgid "Whenever enchanted creature deals damage, you gain that much life."
@@ -653,7 +658,7 @@ msgstr ""
 
 #: ../../7ED.rst:227
 msgid "When Staunch Defenders enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../7ED.rst:236
 msgid ""
@@ -669,7 +674,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../7ED.rst:235
 msgid "Sunweb can't block creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może blokować stworów o sile 2 lub mniejszej."
 
 #: ../../7ED.rst:242
 msgid ""
@@ -692,7 +697,7 @@ msgstr ""
 
 #: ../../7ED.rst:245
 msgid "When Venerable Monk enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../7ED.rst:250
 msgid ""
@@ -755,6 +760,8 @@ msgid ""
 "Look at the top seven cards of your library. Put two of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../7ED.rst:276
 msgid ""
@@ -859,7 +866,7 @@ msgstr ""
 
 #: ../../7ED.rst:309
 msgid "|tap|, Sacrifice Daring Apprentice: Counter target spell."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Skontruj wskazany czar."
 
 #: ../../7ED.rst:314
 msgid ""
@@ -870,7 +877,7 @@ msgstr ""
 
 #: ../../7ED.rst:313
 msgid "Change the target of target spell with a single target."
-msgstr ""
+msgstr "Zmień cel wskazanego czaru mającego jeden cel."
 
 #: ../../7ED.rst:320
 msgid ""
@@ -1051,6 +1058,8 @@ msgstr ""
 msgid ""
 "Tap all lands target player controls and that player loses all unspent mana."
 msgstr ""
+"Przekręć wszystkie lądy pod władaniem wskazanego gracza i ów gracz traci "
+"całą niewydaną manę."
 
 #: ../../7ED.rst:394
 msgid ""
@@ -1178,7 +1187,7 @@ msgstr ""
 
 #: ../../7ED.rst:435
 msgid "Sea Monster can't attack unless defending player controls an Island."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 #: ../../7ED.rst:440
 msgid ""
@@ -1338,6 +1347,8 @@ msgid ""
 "Defender, flying (This creature can't attack, and it can block creatures "
 "with flying.)"
 msgstr ""
+"Obronność, latanie (Ten stwór nie może atakować i może blokować stwory z "
+"lataniem.)"
 
 #: ../../7ED.rst:504
 msgid ""
@@ -1407,6 +1418,8 @@ msgid ""
 "Look at target player's hand and choose two cards from it. Put them on top "
 "of that player's library in any order."
 msgstr ""
+"Spójrz na rękę wskazanego gracza i wybierz z niej dwie karty. Umieść je "
+"dowolnie na wierzchu biblioteki owego gracza."
 
 #: ../../7ED.rst:534
 msgid ""
@@ -1452,7 +1465,7 @@ msgstr ""
 
 #: ../../7ED.rst:547
 msgid "Sacrifice Blood Pet: Add |mana_b|."
-msgstr ""
+msgstr "Poświęć tego stwora: Weź |mana_b|."
 
 #: ../../7ED.rst:552
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:25+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -532,6 +532,9 @@ msgid ""
 "The next time a source of your choice would deal damage to you this turn, "
 "prevent that damage. You gain life equal to the damage prevented this way."
 msgstr ""
+"Kiedy najbliższy raz w tej turze wybrane przez ciebie źródło miałoby zadać "
+"tobie obrażenia, zażegnaj je. Zyskaj życia równe obrażeniom zażegnanym w ten "
+"sposób."
 
 #: ../../9ED.rst:200
 msgid ""
@@ -636,6 +639,8 @@ msgstr ""
 msgid ""
 "Creatures you control have vigilance. (Attacking doesn't cause them to tap.)"
 msgstr ""
+"Stwory pod twoim władaniem mają czujność. (Atakowanie nie powoduje ich "
+"przekręcenia.)"
 
 #: ../../9ED.rst:236
 msgid ""
@@ -675,6 +680,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../9ED.rst:245
 msgid "Whenever enchanted creature deals damage, you gain that much life."
@@ -724,7 +731,7 @@ msgstr ""
 
 #: ../../9ED.rst:263
 msgid "When Venerable Monk enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../9ED.rst:268
 msgid ""
@@ -979,7 +986,7 @@ msgstr ""
 
 #: ../../9ED.rst:355
 msgid "|tap|, Sacrifice Daring Apprentice: Counter target spell."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Skontruj wskazany czar."
 
 #: ../../9ED.rst:362
 msgid ""
@@ -1249,7 +1256,7 @@ msgstr ""
 
 #: ../../9ED.rst:461
 msgid "Sea Monster can't attack unless defending player controls an Island."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 #: ../../9ED.rst:468
 msgid ""
@@ -1453,7 +1460,7 @@ msgstr ""
 
 #: ../../9ED.rst:539
 msgid "Players play with their hands revealed."
-msgstr ""
+msgstr "Gracze grają z ujawnionymi rękami."
 
 #: ../../9ED.rst:541
 msgid ""
@@ -1509,6 +1516,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a card from it. That player "
 "discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../9ED.rst:564
 msgid ""

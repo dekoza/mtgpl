@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:59+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -1045,7 +1045,7 @@ msgstr ""
 
 #: ../../ICE.rst:361
 msgid "Change the target of target spell with a single target."
-msgstr ""
+msgstr "Zmień cel wskazanego czaru mającego jeden cel."
 
 #: ../../ICE.rst:366
 msgid ""
@@ -1425,6 +1425,9 @@ msgid ""
 "doesn't, they tap all lands with mana abilities they control and lose all "
 "unspent mana."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|. Jeśli ów "
+"gracz tego nie zrobi, przekręca wszystkie lądy pod swoim władaniem mające "
+"zdolność dającą manę i traci całą niewydaną manę."
 
 #: ../../ICE.rst:528
 msgid ""
@@ -1505,7 +1508,7 @@ msgstr ""
 
 #: ../../ICE.rst:553
 msgid "Whenever Sibilant Spirit attacks, defending player may draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, broniący się gracz może dobrać kartę."
 
 #: ../../ICE.rst:558
 msgid ""
@@ -1687,7 +1690,7 @@ msgstr ""
 
 #: ../../ICE.rst:625
 msgid "Players play with their hands revealed."
-msgstr ""
+msgstr "Gracze grają z ujawnionymi rękami."
 
 #: ../../ICE.rst:627
 msgid ""
@@ -1761,7 +1764,7 @@ msgstr ""
 #: ../../ICE.rst:651
 msgid ""
 "|tap|, Sacrifice a creature: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../ICE.rst:653
 msgid ""
@@ -1916,6 +1919,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../ICE.rst:703
 msgid ""

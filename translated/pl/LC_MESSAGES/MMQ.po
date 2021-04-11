@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mmq/pl/>\n"
 "Language: pl\n"
@@ -1006,6 +1006,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../MMQ.rst:345
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1208,7 +1210,7 @@ msgstr ""
 
 #: ../../MMQ.rst:419
 msgid "Change the target of target spell with a single target."
-msgstr ""
+msgstr "Zmień cel wskazanego czaru mającego jeden cel."
 
 #: ../../MMQ.rst:424
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:59+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
 "Language: pl\n"
@@ -380,6 +380,8 @@ msgid ""
 "At the beginning of your upkeep, destroy all artifacts and enchantments. "
 "They can't be regenerated."
 msgstr ""
+"Na początku twojego kroku utrzymania, zniszcz wszystkie artefakty i uroki. "
+"Nie mogą one regenerować."
 
 #: ../../WTH.rst:132
 msgid ""
@@ -392,6 +394,8 @@ msgstr ""
 msgid ""
 "Creatures you control have vigilance. (Attacking doesn't cause them to tap.)"
 msgstr ""
+"Stwory pod twoim władaniem mają czujność. (Atakowanie nie powoduje ich "
+"przekręcenia.)"
 
 #: ../../WTH.rst:136
 msgid ""
@@ -429,6 +433,9 @@ msgid ""
 "creatures a player controls are tied for highest cost, that player chooses "
 "one."
 msgstr ""
+"Każdy gracz poświęca stwora pod swoim władaniem o największym skrócie many, "
+"chyba że zapłacą jego koszt many. Jeśli gracz włada więcej niż jednym "
+"stworem mającym największy koszt, ów gracz wybiera jednego."
 
 #: ../../WTH.rst:150
 msgid ""
@@ -446,7 +453,7 @@ msgstr ""
 
 #: ../../WTH.rst:155
 msgid "When Abduction enters the battlefield, untap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, odkręć zauroczonego stwora."
 
 #: ../../WTH.rst:157
 msgid "You control enchanted creature."
@@ -457,6 +464,8 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under its "
 "owner's control."
 msgstr ""
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod władaniem "
+"właściciela."
 
 #: ../../WTH.rst:166
 msgid ""
@@ -607,7 +616,7 @@ msgstr ""
 
 #: ../../WTH.rst:223
 msgid "When Fog Elemental attacks or blocks, sacrifice it at end of combat."
-msgstr ""
+msgstr "Kiedy ten stwór zaatakuje lub zablokuje, poświęć go na końcu potyczki."
 
 #: ../../WTH.rst:230
 msgid ""
@@ -876,6 +885,8 @@ msgid ""
 "Look at target player's hand and choose two cards from it. Put them on top "
 "of that player's library in any order."
 msgstr ""
+"Spójrz na rękę wskazanego gracza i wybierz z niej dwie karty. Umieść je "
+"dowolnie na wierzchu biblioteki owego gracza."
 
 #: ../../WTH.rst:326
 msgid ""

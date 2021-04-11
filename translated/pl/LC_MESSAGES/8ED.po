@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:59+0000\n"
+"PO-Revision-Date: 2021-04-11 20:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -681,6 +681,8 @@ msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
 msgstr ""
+"Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
+"bitwy dołączona do owego stwora.)"
 
 #: ../../8ED.rst:247
 msgid "Whenever enchanted creature deals damage, you gain that much life."
@@ -702,7 +704,7 @@ msgstr ""
 
 #: ../../8ED.rst:255
 msgid "When Staunch Defenders enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../8ED.rst:262
 msgid ""
@@ -742,7 +744,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../8ED.rst:273
 msgid "Sunweb can't block creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może blokować stworów o sile 2 lub mniejszej."
 
 #: ../../8ED.rst:278
 msgid ""
@@ -772,7 +774,7 @@ msgstr ""
 
 #: ../../8ED.rst:285
 msgid "When Venerable Monk enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../8ED.rst:292
 msgid ""
@@ -976,7 +978,7 @@ msgstr ""
 
 #: ../../8ED.rst:365
 msgid "|tap|, Sacrifice Daring Apprentice: Counter target spell."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Skontruj wskazany czar."
 
 #: ../../8ED.rst:370
 msgid ""
@@ -987,7 +989,7 @@ msgstr ""
 
 #: ../../8ED.rst:369
 msgid "Change the target of target spell with a single target."
-msgstr ""
+msgstr "Zmień cel wskazanego czaru mającego jeden cel."
 
 #: ../../8ED.rst:376
 msgid ""
@@ -1263,7 +1265,7 @@ msgstr ""
 
 #: ../../8ED.rst:481
 msgid "Sea Monster can't attack unless defending player controls an Island."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 #: ../../8ED.rst:488
 msgid ""
@@ -1434,6 +1436,8 @@ msgid ""
 "Defender, flying (This creature can't attack, and it can block creatures "
 "with flying.)"
 msgstr ""
+"Obronność, latanie (Ten stwór nie może atakować i może blokować stwory z "
+"lataniem.)"
 
 #: ../../8ED.rst:552
 msgid ""
@@ -1466,7 +1470,7 @@ msgstr ""
 
 #: ../../8ED.rst:561
 msgid "Players play with their hands revealed."
-msgstr ""
+msgstr "Gracze grają z ujawnionymi rękami."
 
 #: ../../8ED.rst:563
 msgid ""
@@ -1544,6 +1548,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a card from it. That player "
 "discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../8ED.rst:596
 msgid ""
@@ -3435,7 +3441,7 @@ msgstr ""
 
 #: ../../8ED.rst:1293
 msgid "When enchanted land becomes tapped, destroy it."
-msgstr ""
+msgstr "Kiedy zauroczony ląd zostanie przekręcony, zniszcz go."
 
 #: ../../8ED.rst:1295
 msgid ""
