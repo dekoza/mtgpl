@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-05 19:42+0000\n"
+"PO-Revision-Date: 2021-04-11 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -101,19 +101,14 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:29
-#, fuzzy
-#| msgid ""
-#| "Whenever an opponent casts an instant or sorcery spell, they may pay |"
-#| "mana_2|. If they don't, you may copy that spell. You many choose new "
-#| "targets for the copy."
 msgid ""
 "Whenever an opponent casts an instant or sorcery spell, they may pay |"
 "mana_2|. If they don't, you may copy that spell. You may choose new targets "
 "for the copy."
 msgstr ""
-"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, może on zapłacić |"
-"mana_2|. Jeśli tego nie zrobi, możesz skopiować ów czar. Możesz wskazać nowe "
-"cele dla kopii."
+"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, może on zapłacić |mana_2|"
+". Jeśli tego nie zrobi, możesz skopiować ów czar. Możesz wskazać nowe cele "
+"dla kopii."
 
 #: ../../STX.rst:34
 msgid ""
@@ -283,11 +278,6 @@ msgstr ""
 "tego czaru."
 
 #: ../../STX.rst:81
-#, fuzzy
-#| msgid ""
-#| "If the |mana_2|\\ |mana_w|\\ |mana_w| cost was paid, an opponent choses "
-#| "up to two nonland permanents they control and returns them to their "
-#| "owner's hand."
 msgid ""
 "If the |mana_2|\\ |mana_w|\\ |mana_w| cost was paid, an opponent chooses up "
 "to two nonland permanents they control and returns them to their owner's "
@@ -5085,10 +5075,6 @@ msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../STX.rst:1591
-#, fuzzy
-#| msgid ""
-#| "|tap| Put a +1/+1 counter on target creature. Activate only as a sorcery "
-#| "and only if you've cast an instant or sorcery spell this turn."
 msgid ""
 "|tap|: Put a +1/+1 counter on target creature. Activate only as a sorcery "
 "and only if you've cast an instant or sorcery spell this turn."
