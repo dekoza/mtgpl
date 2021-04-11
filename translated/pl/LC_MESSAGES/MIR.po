@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-02 13:43+0000\n"
+"PO-Revision-Date: 2021-04-11 16:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -110,12 +110,16 @@ msgid ""
 "Nonland permanents you control are white. The same is true for spells you "
 "control and nonland cards you own that aren't on the battlefield."
 msgstr ""
+"Nielądowe permanenty pod twoim władaniem są białe. To samo dotyczy czarów "
+"pod twoim władaniem oraz twoich nielądowych kart poza polem bitwy."
 
 #: ../../MIR.rst:35
 msgid ""
 "You may spend white mana as though it were mana of any color. You may spend "
 "other mana only as though it were colorless mana."
 msgstr ""
+"Możesz wydawać białą manę jakby była maną dowolnego koloru. Możesz wydawać "
+"inną manę tylko jakby była bezkolorowa."
 
 #: ../../MIR.rst:42
 msgid ""
@@ -242,6 +246,8 @@ msgid ""
 "Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal "
 "Champion this turn."
 msgstr ""
+"Zapłać 1 życie: Zażegnaj najbliższe 1 obrażenie jakie mogłoby zostać zadane "
+"w tej turze temu stworowi."
 
 #: ../../MIR.rst:86
 msgid ""
@@ -327,6 +333,8 @@ msgstr "Wskazany gracz zyskuje 3 życia."
 #: ../../MIR.rst:107
 msgid "Prevent the next 3 damage that would be dealt to any target this turn."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia jakie mogłyby zostać w tej turze zadane "
+"wskazanemu celowi."
 
 #: ../../MIR.rst:112
 msgid ""
@@ -530,7 +538,7 @@ msgstr ""
 
 #: ../../MIR.rst:181
 msgid "|mana_1|\\ |mana_w|: Pearl Dragon gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../MIR.rst:190
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-11 16:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -669,6 +669,8 @@ msgid ""
 "|tap|: All combat damage that would be dealt to you by unblocked creatures "
 "this turn is dealt to Kjeldoran Royal Guard instead."
 msgstr ""
+"|tap|: Wszystkie obrażenia bojowe jakie mogłyby zostać tobie zadane w tej "
+"turze przez niezablokowane stwory, są zamiast tego zadane temu stworowi."
 
 #: ../../ICE.rst:224
 msgid ""
@@ -751,7 +753,7 @@ msgstr ""
 
 #: ../../ICE.rst:251
 msgid "|tap|, Pay 1 life: Counter target black spell."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Skontruj wskazany czarny czar."
 
 #: ../../ICE.rst:260
 msgid ""
