@@ -30,7 +30,7 @@
 .. |RIX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |6ED_percent| image:: images/pie35.png        
+.. |6ED_percent| image:: images/pie40.png        
 
 .. |LRW_percent| image:: images/pie35.png        
 
@@ -69,7 +69,7 @@
 .. |M10_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C21_percent| image:: images/pie75.png        
+.. |C21_percent| image:: images/pie70.png        
 
 .. |GK1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -143,7 +143,7 @@
 
 .. |BOK_percent| image:: images/pie20.png        
 
-.. |HML_percent| image:: images/pie15.png        
+.. |HML_percent| image:: images/pie20.png        
 
 .. |E02_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -151,7 +151,7 @@
 .. |KHM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |7ED_percent| image:: images/pie40.png        
+.. |7ED_percent| image:: images/pie45.png        
 
 .. |SOI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -212,7 +212,7 @@
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C15_percent| image:: images/pie60.png        
+.. |C15_percent| image:: images/pie65.png        
 
 .. |GNT_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -226,7 +226,7 @@
 .. |BNG_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C14_percent| image:: images/pie55.png        
+.. |C14_percent| image:: images/pie60.png        
 
 .. |LEA_percent| image:: images/pie40.png        
 
@@ -235,7 +235,7 @@
 
 .. |LGN_percent| image:: images/pie20.png        
 
-.. |5ED_percent| image:: images/pie30.png        
+.. |5ED_percent| image:: images/pie35.png        
 
 .. |DGM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -263,7 +263,7 @@
 .. |MM3_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |VIS_percent| image:: images/pie20.png        
+.. |VIS_percent| image:: images/pie25.png        
 
 .. |TMP_percent| image:: images/pie25.png        
 
@@ -312,7 +312,7 @@
 .. |DOM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |PLC_percent| image:: images/pie55.png        
+.. |PLC_percent| image:: images/pie60.png        
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
