@@ -849,14 +849,14 @@
    Exile Revel in Silence.
 
 
-:mtgtip:`Jadzi, Oracle of Arcavios<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7148d24-373e-4485-860b-c3429c2337f2.jpg?1617613028|https://scryfall.com/card/stx/151/jadzi-oracle-of-arcavios-journey-to-the-oracle?utm_source=api>`
+:mtgtip:`Jadzi, Oracle of Arcavios<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7148d24-373e-4485-860b-c3429c2337f2.jpg?1618163722|https://scryfall.com/card/stx/151/jadzi-oracle-of-arcavios-journey-to-the-oracle?utm_source=api>`
    Discard a card: Return Jadzi, Oracle of Arcavios to its owner's hand.
 
    Magecraft — Whenever you cast or copy an instant or sorcery spell, reveal the top card of your library. If it's a nonland card, you may cast it by paying |mana_1| rather than paying its mana cost. If it's a land card, put it onto the battlefield.
 
 
-:mtgtip:`Journey to the Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/7/d7148d24-373e-4485-860b-c3429c2337f2.jpg?1617613028|https://scryfall.com/card/stx/151/jadzi-oracle-of-arcavios-journey-to-the-oracle?utm_source=api>`
-   You may put any number of land cards from your hand onto the battlefield. Then if you control eight or more lands, you may discard a card. If you do, return Journey to the Oracle to it owner's hand.
+:mtgtip:`Journey to the Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/7/d7148d24-373e-4485-860b-c3429c2337f2.jpg?1618163722|https://scryfall.com/card/stx/151/jadzi-oracle-of-arcavios-journey-to-the-oracle?utm_source=api>`
+   You may put any number of land cards from your hand onto the battlefield. Then if you control eight or more lands, you may discard a card. If you do, return Journey to the Oracle to its owner's hand.
 
 
 :mtgtip:`Kianne, Dean of Substance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b45dc40-6827-46a7-a9b7-802be698d053.jpg?1617453130|https://scryfall.com/card/stx/152/kianne-dean-of-substance-imbraham-dean-of-theory?utm_source=api>`
