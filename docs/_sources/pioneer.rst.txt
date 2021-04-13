@@ -22,9 +22,11 @@ Standard jest ich podzbiorem.
 Dodatki poza Standardem
 -----------------------
 
+* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |M20_percent|
 * :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |WAR_percent|
 * :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |RNA_percent|
 * :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |GRN_percent|
+* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |M19_percent|
 * :mtgexp:`DOM` :doc:`Dominaria<DOM>` |DOM_percent|
 * :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |RIX_percent|
 * :mtgexp:`XLN` :doc:`Ixalan<XLN>` |XLN_percent|
@@ -40,17 +42,11 @@ Dodatki poza Standardem
 * :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |DTK_percent|
 * :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |FRF_percent|
 * :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |KTK_percent|
+* :mtgexp:`M15` :doc:`Magic 2015<M15>` |M15_percent|
 * :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |JOU_percent|
 * :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |BNG_percent|
 * :mtgexp:`THS` :doc:`Theros<THS>` |THS_percent|
+* :mtgexp:`M14` :doc:`Magic 2014<M14>` |M14_percent|
 * :mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |DGM_percent|
 * :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |GTC_percent|
 * :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |RTR_percent|
-
-Edycje bazowe
--------------
-
-* :mtgexp:`M20` :doc:`Core Set 2020<M20>` |M20_percent|
-* :mtgexp:`M19` :doc:`Core Set 2019<M19>` |M19_percent|
-* :mtgexp:`M15` :doc:`Magic 2015<M15>` |M15_percent|
-* :mtgexp:`M14` :doc:`Magic 2014<M14>` |M14_percent|

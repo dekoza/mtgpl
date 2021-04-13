@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-13 19:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,115 +61,131 @@ msgid ":mtgexp:`APC` :doc:`Apocalypse<APC>` |APC_percent|"
 msgstr ""
 
 #: ../../legacy.rst:26
-msgid ":mtgexp:`PLS` :doc:`Planeshift<PLS>` |PLS_percent|"
-msgstr ""
-
-#: ../../legacy.rst:27
-msgid ":mtgexp:`INV` :doc:`Invasion<INV>` |INV_percent|"
-msgstr ""
-
-#: ../../legacy.rst:28
-msgid ":mtgexp:`PCY` :doc:`Prophecy<PCY>` |PCY_percent|"
-msgstr ""
-
-#: ../../legacy.rst:29
-msgid ":mtgexp:`NEM` :doc:`Nemesis<NEM>` |NEM_percent|"
-msgstr ""
-
-#: ../../legacy.rst:30
-msgid ":mtgexp:`MMQ` :doc:`Mercadian Masques<MMQ>` |MMQ_percent|"
-msgstr ""
-
-#: ../../legacy.rst:31
-msgid ":mtgexp:`UDS` :doc:`Urza's Destiny<UDS>` |UDS_percent|"
-msgstr ""
-
-#: ../../legacy.rst:32
-msgid ":mtgexp:`ULG` :doc:`Urza's Legacy<ULG>` |ULG_percent|"
-msgstr ""
-
-#: ../../legacy.rst:33
-msgid ":mtgexp:`USG` :doc:`Urza's Saga<USG>` |USG_percent|"
-msgstr ""
-
-#: ../../legacy.rst:34
-msgid ":mtgexp:`EXO` :doc:`Exodus<EXO>` |EXO_percent|"
-msgstr ""
-
-#: ../../legacy.rst:35
-msgid ":mtgexp:`STH` :doc:`Stronghold<STH>` |STH_percent|"
-msgstr ""
-
-#: ../../legacy.rst:36
-msgid ":mtgexp:`TMP` :doc:`Tempest<TMP>` |TMP_percent|"
-msgstr ""
-
-#: ../../legacy.rst:37
-msgid ":mtgexp:`WTH` :doc:`Weatherlight<WTH>` |WTH_percent|"
-msgstr ""
-
-#: ../../legacy.rst:38
-msgid ":mtgexp:`VIS` :doc:`Visions<VIS>` |VIS_percent|"
-msgstr ""
-
-#: ../../legacy.rst:39
-msgid ":mtgexp:`MIR` :doc:`Mirage<MIR>` |MIR_percent|"
-msgstr ""
-
-#: ../../legacy.rst:40
-msgid ":mtgexp:`ALL` :doc:`Alliances<ALL>` |ALL_percent|"
-msgstr ""
-
-#: ../../legacy.rst:41
-msgid ":mtgexp:`HML` :doc:`Homelands<HML>` |HML_percent|"
-msgstr ""
-
-#: ../../legacy.rst:42
-msgid ":mtgexp:`ICE` :doc:`Ice Age<ICE>` |ICE_percent|"
-msgstr ""
-
-#: ../../legacy.rst:43
-msgid ":mtgexp:`FEM` :doc:`Fallen Empires<FEM>` |FEM_percent|"
-msgstr ""
-
-#: ../../legacy.rst:44
-msgid ":mtgexp:`DRK` :doc:`The Dark<DRK>` |DRK_percent|"
-msgstr ""
-
-#: ../../legacy.rst:45
-msgid ":mtgexp:`LEG` :doc:`Legends<LEG>` |LEG_percent|"
-msgstr ""
-
-#: ../../legacy.rst:46
-msgid ":mtgexp:`ATQ` :doc:`Antiquities<ATQ>` |ATQ_percent|"
-msgstr ""
-
-#: ../../legacy.rst:47
-msgid ":mtgexp:`ARN` :doc:`Arabian Nights<ARN>` |ARN_percent|"
-msgstr ""
-
-#: ../../legacy.rst:51
-msgid "Edycje bazowe"
-msgstr ""
-
-#: ../../legacy.rst:53
 msgid ":mtgexp:`7ED` :doc:`Seventh Edition<7ED>` |7ED_percent|"
 msgstr ""
 
-#: ../../legacy.rst:54
+#: ../../legacy.rst:27
+msgid ":mtgexp:`PLS` :doc:`Planeshift<PLS>` |PLS_percent|"
+msgstr ""
+
+#: ../../legacy.rst:28
+msgid ":mtgexp:`INV` :doc:`Invasion<INV>` |INV_percent|"
+msgstr ""
+
+#: ../../legacy.rst:29
+msgid ":mtgexp:`PCY` :doc:`Prophecy<PCY>` |PCY_percent|"
+msgstr ""
+
+#: ../../legacy.rst:30
+msgid ":mtgexp:`S00` :doc:`Starter 2000<S00>` |S00_percent|"
+msgstr ""
+
+#: ../../legacy.rst:31
+msgid ":mtgexp:`NEM` :doc:`Nemesis<NEM>` |NEM_percent|"
+msgstr ""
+
+#: ../../legacy.rst:32
+msgid ":mtgexp:`MMQ` :doc:`Mercadian Masques<MMQ>` |MMQ_percent|"
+msgstr ""
+
+#: ../../legacy.rst:33
+msgid ":mtgexp:`S99` :doc:`Starter 1999<S99>` |S99_percent|"
+msgstr ""
+
+#: ../../legacy.rst:34
+msgid ":mtgexp:`UDS` :doc:`Urza's Destiny<UDS>` |UDS_percent|"
+msgstr ""
+
+#: ../../legacy.rst:35
+msgid ":mtgexp:`PTK` :doc:`Portal Three Kingdoms<PTK>` |PTK_percent|"
+msgstr ""
+
+#: ../../legacy.rst:36
 msgid ":mtgexp:`6ED` :doc:`Sixth Edition<6ED>` |6ED_percent|"
 msgstr ""
 
-#: ../../legacy.rst:55
+#: ../../legacy.rst:37
+msgid ":mtgexp:`ULG` :doc:`Urza's Legacy<ULG>` |ULG_percent|"
+msgstr ""
+
+#: ../../legacy.rst:38
+msgid ":mtgexp:`USG` :doc:`Urza's Saga<USG>` |USG_percent|"
+msgstr ""
+
+#: ../../legacy.rst:39
+msgid ":mtgexp:`P02` :doc:`Portal 2<P02>` |P02_percent|"
+msgstr ""
+
+#: ../../legacy.rst:40
+msgid ":mtgexp:`EXO` :doc:`Exodus<EXO>` |EXO_percent|"
+msgstr ""
+
+#: ../../legacy.rst:41
+msgid ":mtgexp:`STH` :doc:`Stronghold<STH>` |STH_percent|"
+msgstr ""
+
+#: ../../legacy.rst:42
+msgid ":mtgexp:`TMP` :doc:`Tempest<TMP>` |TMP_percent|"
+msgstr ""
+
+#: ../../legacy.rst:43
+msgid ":mtgexp:`WTH` :doc:`Weatherlight<WTH>` |WTH_percent|"
+msgstr ""
+
+#: ../../legacy.rst:44
+msgid ":mtgexp:`POR` :doc:`Portal<POR>` |POR_percent|"
+msgstr ""
+
+#: ../../legacy.rst:45
 msgid ":mtgexp:`5ED` :doc:`Fifth Edition<5ED>` |5ED_percent|"
 msgstr ""
 
-#: ../../legacy.rst:56
+#: ../../legacy.rst:46
+msgid ":mtgexp:`VIS` :doc:`Visions<VIS>` |VIS_percent|"
+msgstr ""
+
+#: ../../legacy.rst:47
+msgid ":mtgexp:`MIR` :doc:`Mirage<MIR>` |MIR_percent|"
+msgstr ""
+
+#: ../../legacy.rst:48
+msgid ":mtgexp:`ALL` :doc:`Alliances<ALL>` |ALL_percent|"
+msgstr ""
+
+#: ../../legacy.rst:49
+msgid ":mtgexp:`HML` :doc:`Homelands<HML>` |HML_percent|"
+msgstr ""
+
+#: ../../legacy.rst:50
+msgid ":mtgexp:`ICE` :doc:`Ice Age<ICE>` |ICE_percent|"
+msgstr ""
+
+#: ../../legacy.rst:51
 msgid ":mtgexp:`4ED` :doc:`Fourth Edition<4ED>` |4ED_percent|"
 msgstr ""
 
-#: ../../legacy.rst:57
+#: ../../legacy.rst:52
+msgid ":mtgexp:`FEM` :doc:`Fallen Empires<FEM>` |FEM_percent|"
+msgstr ""
+
+#: ../../legacy.rst:53
+msgid ":mtgexp:`DRK` :doc:`The Dark<DRK>` |DRK_percent|"
+msgstr ""
+
+#: ../../legacy.rst:54
+msgid ":mtgexp:`LEG` :doc:`Legends<LEG>` |LEG_percent|"
+msgstr ""
+
+#: ../../legacy.rst:55
 msgid ":mtgexp:`3ED` :doc:`Revised Edition<3ED>` |3ED_percent|"
+msgstr ""
+
+#: ../../legacy.rst:56
+msgid ":mtgexp:`ATQ` :doc:`Antiquities<ATQ>` |ATQ_percent|"
+msgstr ""
+
+#: ../../legacy.rst:57
+msgid ":mtgexp:`ARN` :doc:`Arabian Nights<ARN>` |ARN_percent|"
 msgstr ""
 
 #: ../../legacy.rst:58
