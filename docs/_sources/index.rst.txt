@@ -115,6 +115,9 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
+* :mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|
+* :mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|
+* :mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|
 * :mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|
 * :mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|
 * :mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|
