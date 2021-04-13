@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:15+0000\n"
+"PO-Revision-Date: 2021-04-13 18:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mmq/pl/>\n"
 "Language: pl\n"
@@ -1563,10 +1563,11 @@ msgstr ""
 #: ../../MMQ.rst:543
 msgid "|mana_1|: Return target land you control to its owner's hand."
 msgstr ""
+"|mana_1|: Przywróć wskazany ląd pod twoim władaniem do ręki właściciela."
 
 #: ../../MMQ.rst:545
 msgid "|mana_1|, Discard a land card: Draw a card."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę lądu: Dobierz kartę."
 
 #: ../../MMQ.rst:550
 msgid ""
@@ -1829,6 +1830,8 @@ msgid ""
 "Whenever Deathgazer blocks or becomes blocked by a nonblack creature, "
 "destroy that creature at end of combat."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany przez nieczarnego "
+"stwora, zniszcz owego stwora na końcu potyczki."
 
 #: ../../MMQ.rst:634
 msgid ""

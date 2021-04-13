@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:00+0200\n"
-"PO-Revision-Date: 2021-04-13 18:15+0000\n"
+"PO-Revision-Date: 2021-04-13 18:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/por/pl/>\n"
 "Language: pl\n"
@@ -647,6 +647,8 @@ msgstr ""
 #: ../../POR.rst:347
 msgid "Target opponent reveals their hand. You draw a card for each Forest and green card in it."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Dobierz kartę za każdy znajdujący "
+"się tam Las i zieloną kartę."
 
 #: ../../POR.rst:352
 msgid ":mtgtip:`Arrogant Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7342875-d49b-4fa7-a2fb-8dfc5e3d6e4f.jpg?1562448307|https://scryfall.com/card/por/79/arrogant-vampire?utm_source=api>`"
@@ -884,7 +886,7 @@ msgstr ""
 
 #: ../../POR.rst:479
 msgid "When Serpent Warrior enters the battlefield, you lose 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 3 życia."
 
 #: ../../POR.rst:482
 msgid ":mtgtip:`Skeletal Crocodile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebcbbd6f-2915-4b4c-85d3-1d9b55d36c11.jpg?1562448322|https://scryfall.com/card/por/110/skeletal-crocodile?utm_source=api>`"
@@ -956,7 +958,7 @@ msgstr ""
 
 #: ../../POR.rst:519
 msgid "Destroy all Islands."
-msgstr ""
+msgstr "Zniszcz wszystkie Wyspy."
 
 #: ../../POR.rst:524
 msgid ":mtgtip:`Burning Cloak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2b8f443-dba5-45a5-bb2e-f57b4fdd1d01.jpg?1562448298|https://scryfall.com/card/por/120/burning-cloak?utm_source=api>`"

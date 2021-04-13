@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 15:36+0000\n"
+"PO-Revision-Date: 2021-04-13 18:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/exo/pl/>\n"
 "Language: pl\n"
@@ -728,7 +728,7 @@ msgstr ""
 
 #: ../../EXO.rst:247
 msgid "|mana_2|\\ |mana_u|\\ |mana_u|: Draw a card."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|\\ |mana_u|: Dobierz kartę."
 
 #: ../../EXO.rst:254
 msgid ""
@@ -910,7 +910,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 #: ../../EXO.rst:323
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +X/+0."
 
 #: ../../EXO.rst:328
 msgid ""
@@ -1133,6 +1133,8 @@ msgid ""
 "When Anarchist enters the battlefield, you may return target sorcery card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../EXO.rst:402
 msgid ""
