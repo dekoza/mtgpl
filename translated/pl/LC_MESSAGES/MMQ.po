@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mmq/pl/>\n"
 "Language: pl\n"
@@ -107,6 +107,8 @@ msgid ""
 "|mana_x|\\ |mana_w|, |tap|: Ballista Squad deals X damage to target "
 "attacking or blocking creature."
 msgstr ""
+"|mana_x|\\ |mana_w|, |tap|: Ten stwóe zadaje wskazanemu atakującemu lub "
+"blokującemu stworowi X obrażeń."
 
 #: ../../MMQ.rst:34
 msgid ""
@@ -195,7 +197,7 @@ msgstr ""
 
 #: ../../MMQ.rst:57
 msgid "Prevent all damage that would be dealt to Cho-Manno, Revolutionary."
-msgstr ""
+msgstr "Zażegnaj wszystkie obrażenia jakie mogłyby zostać zadane temu stworowi."
 
 #: ../../MMQ.rst:68
 msgid ""
@@ -362,7 +364,7 @@ msgstr ""
 
 #: ../../MMQ.rst:119
 msgid "You have shroud. (You can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Masz antymagię. (Nie możesz być wskazywany przez czary i zdolności.)"
 
 #: ../../MMQ.rst:124
 msgid ""
@@ -714,13 +716,15 @@ msgstr ""
 
 #: ../../MMQ.rst:241
 msgid "As Story Circle enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten urok na polu bitwy wybierz kolor."
 
 #: ../../MMQ.rst:243
 msgid ""
 "|mana_w|: The next time a source of your choice of the chosen color would "
 "deal damage to you this turn, prevent that damage."
 msgstr ""
+"|mana_w|: Kiedy najbliższy raz w tej turze wybrane przez ciebie źródło "
+"wybranego koloru miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../MMQ.rst:248
 msgid ""
@@ -929,7 +933,7 @@ msgstr ""
 
 #: ../../MMQ.rst:319
 msgid "Cloud Sprite can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory mające latanie."
 
 #: ../../MMQ.rst:324
 msgid ""

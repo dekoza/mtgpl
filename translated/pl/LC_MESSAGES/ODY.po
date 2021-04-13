@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ody/pl/>\n"
 "Language: pl\n"
@@ -950,6 +950,8 @@ msgid ""
 "Gain control of target Aura that's attached to a permanent. Attach it to "
 "another permanent it can enchant."
 msgstr ""
+"Zyskaj władanie nad wskazaną Aurą dołączoną do permanentu. Dołącz ją do "
+"innego permanentu możliwego do zauroczenia."
 
 #: ../../ODY.rst:334
 msgid ""
@@ -960,7 +962,7 @@ msgstr ""
 
 #: ../../ODY.rst:333
 msgid "When Aven Fisher dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../ODY.rst:338
 msgid ""
@@ -984,6 +986,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|: Target player reveals the top card of their library."
 msgstr ""
+"|mana_1|\\ |mana_u|: Wskazany gracz ujawnia wierzchnią kartę swojej "
+"biblioteki."
 
 #: ../../ODY.rst:348
 msgid ""
@@ -1170,7 +1174,7 @@ msgstr ""
 
 #: ../../ODY.rst:411
 msgid "Tap all creatures without flying."
-msgstr ""
+msgstr "Przekręć wszystkie stwory nie mające latania."
 
 #: ../../ODY.rst:418
 msgid ""

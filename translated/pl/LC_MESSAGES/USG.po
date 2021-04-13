@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -59,6 +59,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, you gain life "
 "equal to its toughness."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj życia równe "
+"jego wytrzymałości."
 
 #: ../../USG.rst:24
 msgid ""
@@ -420,6 +422,8 @@ msgstr ""
 msgid ""
 "All damage that would be dealt to you is dealt to enchanted creature instead."
 msgstr ""
+"Wszystkie obrażenia jakie mogłyby zostać tobie zadane są zamiast tego zadane "
+"zauroczonemu stworowi."
 
 #: ../../USG.rst:146
 msgid ""
@@ -678,7 +682,7 @@ msgstr ""
 
 #: ../../USG.rst:237
 msgid "Enchanted creature gets +2/+2 and has flying and vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie oraz czujność."
 
 #: ../../USG.rst:244
 msgid ""
@@ -826,6 +830,8 @@ msgid ""
 "When Academy Researchers enters the battlefield, you may put an Aura card "
 "from your hand onto the battlefield attached to Academy Researchers."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę Aury z twojej "
+"ręki na polu bitwy dołączoną do tego stwora."
 
 #: ../../USG.rst:294
 msgid ""
@@ -1094,7 +1100,7 @@ msgstr ""
 
 #: ../../USG.rst:393
 msgid "|mana_u|: Untap Horseshoe Crab."
-msgstr ""
+msgstr "|mana_u|: Odkręć tego stwora."
 
 #: ../../USG.rst:398
 msgid ""

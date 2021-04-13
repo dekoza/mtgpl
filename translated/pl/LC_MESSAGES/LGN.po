@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-06 22:14+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lgn/pl/>\n"
 "Language: pl\n"
@@ -315,7 +315,7 @@ msgstr ""
 
 #: ../../LGN.rst:109
 msgid "|mana_7|\\ |mana_w|: You gain 5 life."
-msgstr ""
+msgstr "|mana_7|\\ |mana_w|: Zyskaj 5 żyć."
 
 #: ../../LGN.rst:114
 msgid ""
@@ -569,6 +569,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player mills X cards, where X "
 "is the number of cards in their hand."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz mieli X kart, gdzie "
+"X jest liczbą kart w ich ręce."
 
 #: ../../LGN.rst:212
 msgid ""

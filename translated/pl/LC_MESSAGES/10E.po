@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -79,6 +79,8 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../10E.rst:26
 msgid ""
@@ -92,6 +94,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, you gain life "
 "equal to its toughness."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj życia równe "
+"jego wytrzymałości."
 
 #: ../../10E.rst:32
 msgid ""
@@ -116,10 +120,12 @@ msgid ""
 "Artifact and enchantment spells your opponents cast cost |mana_2| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów artefaktów i uroków kosztuje twoich przeciwników o |mana_2| "
+"więcej."
 
 #: ../../10E.rst:37
 msgid "Sacrifice Aura of Silence: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Poświęć ten urok: Zniszcz wskazany artefakt lub urok."
 
 #: ../../10E.rst:44
 msgid ""
@@ -157,6 +163,8 @@ msgid ""
 "|mana_x|\\ |mana_w|, |tap|: Ballista Squad deals X damage to target "
 "attacking or blocking creature."
 msgstr ""
+"|mana_x|\\ |mana_w|, |tap|: Ten stwóe zadaje wskazanemu atakującemu lub "
+"blokującemu stworowi X obrażeń."
 
 #: ../../10E.rst:54
 msgid ""
@@ -212,7 +220,7 @@ msgstr ""
 
 #: ../../10E.rst:67
 msgid "Prevent all damage that would be dealt to Cho-Manno, Revolutionary."
-msgstr ""
+msgstr "Zażegnaj wszystkie obrażenia jakie mogłyby zostać zadane temu stworowi."
 
 #: ../../10E.rst:72
 msgid ""
@@ -252,6 +260,8 @@ msgid ""
 "Other Soldier creatures get +1/+1 and have first strike. (They deal combat "
 "damage before creatures without first strike.)"
 msgstr ""
+"Inni Piechurzy dostają +1/+1 i mają pierwszy cios. (Zadają obrażenia bojowe "
+"przed stworami bez pierwszego ciosu.)"
 
 #: ../../10E.rst:84
 msgid ""
@@ -287,6 +297,8 @@ msgid ""
 "Hail of Arrows deals X damage divided as you choose among any number of "
 "target attacking creatures."
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielonych jak wolisz pomiędzy dowolną liczbę "
+"wskazanych atakujących stworów."
 
 #: ../../10E.rst:98
 msgid ""
@@ -361,7 +373,7 @@ msgstr ""
 
 #: ../../10E.rst:115
 msgid "|mana_w|: Honor Guard gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../10E.rst:120
 msgid ""
@@ -374,6 +386,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_w|: Target creature gets +1/+1 until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_w|: Wskazany stwór dostaje do końca tury +1/+1."
 
 #: ../../10E.rst:124
 msgid ""
@@ -412,6 +425,7 @@ msgstr ""
 msgid ""
 "When Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry."
 msgstr ""
+"Kiedy ten stwór zablokuje stwora, zniszcz owego stwora oraz niniejszego."
 
 #: ../../10E.rst:136
 msgid ""
@@ -424,6 +438,8 @@ msgstr ""
 msgid ""
 "Prevent all damage that black sources and red sources would deal this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia jakie w tej turze mogłyby zadać czarne lub "
+"czerwone źródła."
 
 #: ../../10E.rst:142
 msgid ""
@@ -434,7 +450,7 @@ msgstr ""
 
 #: ../../10E.rst:139
 msgid "Soldier creatures have vigilance."
-msgstr ""
+msgstr "Piechurzy mają czujność."
 
 #: ../../10E.rst:141
 msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Soldier creature token."
@@ -452,6 +468,8 @@ msgid ""
 "|mana_w|, |tap|: Put target Aura card from a graveyard onto the battlefield "
 "under your control attached to a creature you control."
 msgstr ""
+"|mana_w|, |tap|: Umieść wskazaną kartę Aury z cmentarza na polu bitwy pod "
+"twoim władaniem dołączoną do stwora pod twoim władaniem."
 
 #: ../../10E.rst:152
 msgid ""
@@ -477,6 +495,9 @@ msgid ""
 "damage before creatures without first strike. It can't be blocked, targeted, "
 "dealt damage, or enchanted by anything black or red.)"
 msgstr ""
+"Pierwszy cios, ochrona przed czarnym i czerwonym (Ten stwór zadaje obrażenia "
+"bojowe przed stworami bez pierwszego ciosu. Nic czarnego ani czerwonego nie "
+"może zablokować, wskazywać, zadać obrażeń ani zauroczyć tego stwora.)"
 
 #: ../../10E.rst:162
 msgid ""
@@ -489,6 +510,8 @@ msgstr ""
 msgid ""
 "All damage that would be dealt to you is dealt to enchanted creature instead."
 msgstr ""
+"Wszystkie obrażenia jakie mogłyby zostać tobie zadane są zamiast tego zadane "
+"zauroczonemu stworowi."
 
 #: ../../10E.rst:168
 msgid ""
@@ -572,7 +595,7 @@ msgstr ""
 
 #: ../../10E.rst:195
 msgid "Enchanted creature gets +2/+2 and has flying and vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie oraz czujność."
 
 #: ../../10E.rst:200
 msgid ""
@@ -587,6 +610,9 @@ msgid ""
 "with flying or reach, and it deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Latanie, pierwszy cios (Ten stwór nie może być blokowany, chyba że przez "
+"stwory mające latanie lub zasięg oraz zadaje obrażenia bojowe przed stworami "
+"bez pierwszego ciosu.)"
 
 #: ../../10E.rst:204
 msgid ""
@@ -600,6 +626,8 @@ msgid ""
 "Flying, vigilance (This creature can't be blocked except by creatures with "
 "flying or reach, and attacking doesn't cause this creature to tap.)"
 msgstr ""
+"Latanie, czujność (Ten stwór nie może być blokowany, chyba że przez stwory "
+"mające latanie lub zasięg oraz atakowanie nie powoduje przekręcenia go.)"
 
 #: ../../10E.rst:208
 msgid ""
@@ -644,6 +672,7 @@ msgstr ""
 #: ../../10E.rst:221
 msgid "|mana_2|: Target green or blue creature gets +0/+1 until end of turn."
 msgstr ""
+"|mana_2|: Wskazany zielony lub niebieski stwór dostaje od końca tury +0/+1."
 
 #: ../../10E.rst:226
 msgid ""
@@ -654,7 +683,7 @@ msgstr ""
 
 #: ../../10E.rst:225
 msgid "|mana_7|\\ |mana_w|: You gain 5 life."
-msgstr ""
+msgstr "|mana_7|\\ |mana_w|: Zyskaj 5 żyć."
 
 #: ../../10E.rst:230
 msgid ""
@@ -676,13 +705,15 @@ msgstr ""
 
 #: ../../10E.rst:233
 msgid "As Story Circle enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten urok na polu bitwy wybierz kolor."
 
 #: ../../10E.rst:235
 msgid ""
 "|mana_w|: The next time a source of your choice of the chosen color would "
 "deal damage to you this turn, prevent that damage."
 msgstr ""
+"|mana_w|: Kiedy najbliższy raz w tej turze wybrane przez ciebie źródło "
+"wybranego koloru miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../10E.rst:240
 msgid ""
@@ -714,6 +745,8 @@ msgid ""
 "When Treasure Hunter enters the battlefield, you may return target artifact "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../10E.rst:252
 msgid ""
@@ -724,7 +757,7 @@ msgstr ""
 
 #: ../../10E.rst:251
 msgid "You have shroud. (You can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Masz antymagię. (Nie możesz być wskazywany przez czary i zdolności.)"
 
 #: ../../10E.rst:256
 msgid ""
@@ -753,11 +786,11 @@ msgstr ""
 
 #: ../../10E.rst:265
 msgid "As Voice of All enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz kolor."
 
 #: ../../10E.rst:267
 msgid "Voice of All has protection from the chosen color."
-msgstr ""
+msgstr "Ten stwór ma ochronę przed wybranym kolorem."
 
 #: ../../10E.rst:274
 msgid ""
@@ -833,6 +866,8 @@ msgid ""
 "When Academy Researchers enters the battlefield, you may put an Aura card "
 "from your hand onto the battlefield attached to Academy Researchers."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę Aury z twojej "
+"ręki na polu bitwy dołączoną do tego stwora."
 
 #: ../../10E.rst:304
 msgid ""
@@ -882,6 +917,8 @@ msgid ""
 "Gain control of target Aura that's attached to a permanent. Attach it to "
 "another permanent it can enchant."
 msgstr ""
+"Zyskaj władanie nad wskazaną Aurą dołączoną do permanentu. Dołącz ją do "
+"innego permanentu możliwego do zauroczenia."
 
 #: ../../10E.rst:324
 msgid ""
@@ -892,7 +929,7 @@ msgstr ""
 
 #: ../../10E.rst:323
 msgid "When Aven Fisher dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../10E.rst:330
 msgid ""
@@ -905,6 +942,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|: Target player reveals the top card of their library."
 msgstr ""
+"|mana_1|\\ |mana_u|: Wskazany gracz ujawnia wierzchnią kartę swojej "
+"biblioteki."
 
 #: ../../10E.rst:334
 msgid ""
@@ -940,6 +979,8 @@ msgid ""
 "Whenever Cephalid Constable deals combat damage to a player, return up to "
 "that many target permanents that player controls to their owner's hand."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przywróć co najwyżej tyle "
+"samo wskazanych permanentów pod władaniem owego gracza do ręki właściciela."
 
 #: ../../10E.rst:346
 msgid ""
@@ -976,7 +1017,7 @@ msgstr ""
 
 #: ../../10E.rst:357
 msgid "Cloud Sprite can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory mające latanie."
 
 #: ../../10E.rst:362
 msgid ""
@@ -1022,7 +1063,7 @@ msgstr ""
 
 #: ../../10E.rst:375
 msgid "Tap all creatures without flying."
-msgstr ""
+msgstr "Przekręć wszystkie stwory nie mające latania."
 
 #: ../../10E.rst:380
 msgid ""
@@ -1036,6 +1077,8 @@ msgid ""
 "When Denizen of the Deep enters the battlefield, return each other creature "
 "you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć każdego innego stwora pod "
+"twoim władaniem do ręki właściciela."
 
 #: ../../10E.rst:384
 msgid ""
@@ -1049,6 +1092,8 @@ msgid ""
 "Counter target spell. Look at the top four cards of your library, then put "
 "them back in any order."
 msgstr ""
+"Skontruj wskazany czar. Spójrz na cztery wierzchnie karty twojej biblioteki, "
+"po czym odłóż je w dowolnej kolejności."
 
 #: ../../10E.rst:388
 msgid ""
@@ -1062,6 +1107,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player mills X cards, where X "
 "is the number of cards in their hand."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz mieli X kart, gdzie "
+"X jest liczbą kart w ich ręce."
 
 #: ../../10E.rst:392
 msgid ""
@@ -1072,7 +1119,7 @@ msgstr ""
 
 #: ../../10E.rst:391
 msgid "Return all creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie stwory do rąk ich właścicieli."
 
 #: ../../10E.rst:396
 msgid ""
@@ -1112,7 +1159,7 @@ msgstr ""
 
 #: ../../10E.rst:409
 msgid "|mana_u|: Untap Horseshoe Crab."
-msgstr ""
+msgstr "|mana_u|: Odkręć tego stwora."
 
 #: ../../10E.rst:414
 msgid ""

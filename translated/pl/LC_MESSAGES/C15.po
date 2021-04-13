@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:25+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -1054,10 +1054,12 @@ msgid ""
 "Artifact and enchantment spells your opponents cast cost |mana_2| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów artefaktów i uroków kosztuje twoich przeciwników o |mana_2| "
+"więcej."
 
 #: ../../C15.rst:367
 msgid "Sacrifice Aura of Silence: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Poświęć ten urok: Zniszcz wskazany artefakt lub urok."
 
 #: ../../C15.rst:372
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -310,7 +310,7 @@ msgstr ""
 
 #: ../../7ED.rst:99
 msgid "|mana_w|: Honor Guard gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../7ED.rst:104
 msgid ""
@@ -412,6 +412,8 @@ msgstr ""
 msgid ""
 "All damage that would be dealt to you is dealt to enchanted creature instead."
 msgstr ""
+"Wszystkie obrażenia jakie mogłyby zostać tobie zadane są zamiast tego zadane "
+"zauroczonemu stworowi."
 
 #: ../../7ED.rst:144
 msgid ""
@@ -581,7 +583,7 @@ msgstr ""
 
 #: ../../7ED.rst:197
 msgid "Enchanted creature gets +2/+2 and has flying and vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie oraz czujność."
 
 #: ../../7ED.rst:202
 msgid ""
@@ -916,7 +918,7 @@ msgstr ""
 
 #: ../../7ED.rst:327
 msgid "Return all creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie stwory do rąk ich właścicieli."
 
 #: ../../7ED.rst:332
 msgid ""

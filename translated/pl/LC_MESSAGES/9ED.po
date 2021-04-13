@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -61,6 +61,8 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../9ED.rst:24
 msgid ""
@@ -135,6 +137,8 @@ msgid ""
 "|mana_x|\\ |mana_w|, |tap|: Ballista Squad deals X damage to target "
 "attacking or blocking creature."
 msgstr ""
+"|mana_x|\\ |mana_w|, |tap|: Ten stwóe zadaje wskazanemu atakującemu lub "
+"blokującemu stworowi X obrażeń."
 
 #: ../../9ED.rst:52
 msgid ""
@@ -360,7 +364,7 @@ msgstr ""
 
 #: ../../9ED.rst:131
 msgid "|mana_w|: Honor Guard gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../9ED.rst:136
 msgid ""
@@ -393,7 +397,7 @@ msgstr ""
 
 #: ../../9ED.rst:143
 msgid "You have shroud. (You can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Masz antymagię. (Nie możesz być wskazywany przez czary i zdolności.)"
 
 #: ../../9ED.rst:146
 msgid ""
@@ -493,6 +497,9 @@ msgid ""
 "damage before creatures without first strike. It can't be blocked, targeted, "
 "dealt damage, or enchanted by anything black or red.)"
 msgstr ""
+"Pierwszy cios, ochrona przed czarnym i czerwonym (Ten stwór zadaje obrażenia "
+"bojowe przed stworami bez pierwszego ciosu. Nic czarnego ani czerwonego nie "
+"może zablokować, wskazywać, zadać obrażeń ani zauroczyć tego stwora.)"
 
 #: ../../9ED.rst:186
 msgid ""
@@ -654,6 +661,8 @@ msgid ""
 "Flying, vigilance (This creature can't be blocked except by creatures with "
 "flying or reach, and attacking doesn't cause this creature to tap.)"
 msgstr ""
+"Latanie, czujność (Ten stwór nie może być blokowany, chyba że przez stwory "
+"mające latanie lub zasięg oraz atakowanie nie powoduje przekręcenia go.)"
 
 #: ../../9ED.rst:240
 msgid ""
@@ -696,13 +705,15 @@ msgstr ""
 
 #: ../../9ED.rst:249
 msgid "As Story Circle enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten urok na polu bitwy wybierz kolor."
 
 #: ../../9ED.rst:251
 msgid ""
 "|mana_w|: The next time a source of your choice of the chosen color would "
 "deal damage to you this turn, prevent that damage."
 msgstr ""
+"|mana_w|: Kiedy najbliższy raz w tej turze wybrane przez ciebie źródło "
+"wybranego koloru miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../9ED.rst:256
 msgid ""
@@ -850,7 +861,7 @@ msgstr ""
 
 #: ../../9ED.rst:307
 msgid "When Aven Fisher dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../9ED.rst:314
 msgid ""
@@ -863,6 +874,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|: Target player reveals the top card of their library."
 msgstr ""
+"|mana_1|\\ |mana_u|: Wskazany gracz ujawnia wierzchnią kartę swojej "
+"biblioteki."
 
 #: ../../9ED.rst:318
 msgid ""
@@ -1019,7 +1032,7 @@ msgstr ""
 
 #: ../../9ED.rst:369
 msgid "Return all creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie stwory do rąk ich właścicieli."
 
 #: ../../9ED.rst:374
 msgid ""

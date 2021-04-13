@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 07:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jud/pl/>\n"
 "Language: pl\n"
@@ -250,6 +250,8 @@ msgid ""
 "|mana_w|, |tap|: Put target Aura card from a graveyard onto the battlefield "
 "under your control attached to a creature you control."
 msgstr ""
+"|mana_w|, |tap|: Umieść wskazaną kartę Aury z cmentarza na polu bitwy pod "
+"twoim władaniem dołączoną do stwora pod twoim władaniem."
 
 #: ../../JUD.rst:88
 msgid ""
@@ -395,7 +397,7 @@ msgstr "Pomiń swój krok dobierania."
 
 #: ../../JUD.rst:131
 msgid "You have shroud. (You can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Masz antymagię. (Nie możesz być wskazywany przez czary i zdolności.)"
 
 #: ../../JUD.rst:133
 msgid "Prevent all damage that would be dealt to you."
@@ -554,6 +556,8 @@ msgid ""
 "Whenever Cephalid Constable deals combat damage to a player, return up to "
 "that many target permanents that player controls to their owner's hand."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przywróć co najwyżej tyle "
+"samo wskazanych permanentów pod władaniem owego gracza do ręki właściciela."
 
 #: ../../JUD.rst:192
 msgid ""
