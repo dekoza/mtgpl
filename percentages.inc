@@ -136,7 +136,7 @@
 
 .. |TSP_percent| image:: images/pie65.png        
 
-.. |10E_percent| image:: images/pie75.png        
+.. |10E_percent| image:: images/pie80.png        
 
 .. |3ED_percent| image:: images/pie45.png        
 
@@ -245,7 +245,7 @@
 .. |2XM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ZNC_percent| image:: images/pie05.png        
+.. |ZNC_percent| image:: images/pie75.png        
 
 .. |DTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -278,7 +278,7 @@
 
 .. |FUT_percent| image:: images/pie55.png        
 
-.. |KHC_percent| image:: images/pie05.png        
+.. |KHC_percent| image:: images/pie65.png        
 
 .. |ONS_percent| image:: images/pie30.png        
 
