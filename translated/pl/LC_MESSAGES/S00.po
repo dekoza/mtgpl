@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:09+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-13 17:36+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/s00/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../S00.rst:5
 msgid ":mtgexp:`S00` Starter 2000"
@@ -27,6 +29,8 @@ msgstr ""
 #: ../../S00.rst:9
 msgid "Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../S00.rst:14
 msgid ":mtgtip:`Breath of Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d67530a4-2aa7-4907-9e89-a6a3d92134e6.jpg?1562133689|https://scryfall.com/card/s00/3/breath-of-life?utm_source=api>`"
@@ -34,7 +38,7 @@ msgstr ""
 
 #: ../../S00.rst:13
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
 
 #: ../../S00.rst:16
 msgid ":mtgtip:`Eager Cadet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/3261b8bd-b802-408e-bac6-c860db18cf8b.jpg?1562133660|https://scryfall.com/card/s00/5/eager-cadet?utm_source=api>`"
@@ -53,7 +57,7 @@ msgstr ""
 #: ../../S00.rst:37
 #: ../../S00.rst:77
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../S00.rst:30
 msgid ":mtgtip:`Wild Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59e36202-2c96-4318-9d33-c04122e49bbc.jpg?1562133670|https://scryfall.com/card/s00/11/wild-griffin?utm_source=api>`"
@@ -73,7 +77,7 @@ msgstr ""
 
 #: ../../S00.rst:41
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 #: ../../S00.rst:44
 msgid ":mtgtip:`Vizzerdrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfb5269-a5de-4b42-aa1c-a946bfd027a0.jpg?1562133667|https://scryfall.com/card/s00/20/vizzerdrix?utm_source=api>`"
@@ -85,7 +89,7 @@ msgstr ""
 
 #: ../../S00.rst:49
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../S00.rst:54
 msgid ":mtgtip:`Lava Axe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/340b71f4-4245-4b22-a550-c0226e2710ee.jpg?1562133662|https://scryfall.com/card/s00/31/lava-axe?utm_source=api>`"
@@ -93,7 +97,7 @@ msgstr ""
 
 #: ../../S00.rst:53
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../S00.rst:56
 msgid ":mtgtip:`Mons's Goblin Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.jpg?1562133668|https://scryfall.com/card/s00/32/monss-goblin-raiders?utm_source=api>`"
@@ -117,7 +121,7 @@ msgstr ""
 
 #: ../../S00.rst:73
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../S00.rst:78
 msgid ":mtgtip:`Moon Sprite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49d0acb1-bc07-42d5-a327-1617f0ed2c60.jpg?1562133665|https://scryfall.com/card/s00/42/moon-sprite?utm_source=api>`"
@@ -130,10 +134,15 @@ msgstr ""
 #: ../../S00.rst:81
 msgid "You may have Rhox assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../S00.rst:83
 msgid "|mana_2|\\ |mana_g|: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
+"|mana_2|\\ |mana_g|: Zregeneruj tego stwora. (Następnym razem, gdy miałby "
+"zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z "
+"niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../S00.rst:86
 msgid ":mtgtip:`Willow Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c063a072-0cd4-45fb-ac68-96e359bf3ef5.jpg?1562133683|https://scryfall.com/card/s00/45/willow-elf?utm_source=api>`"

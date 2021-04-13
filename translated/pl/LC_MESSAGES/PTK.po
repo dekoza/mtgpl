@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:09+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-13 17:36+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ptk/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../PTK.rst:5
 msgid ":mtgexp:`PTK` Portal Three Kingdoms"
@@ -26,7 +28,7 @@ msgstr ""
 
 #: ../../PTK.rst:9
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../PTK.rst:16
 msgid ":mtgtip:`Eightfold Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc8c377a-82c4-46ee-94c2-b970160a3205.jpg?1562257975|https://scryfall.com/card/ptk/2/eightfold-maze?utm_source=api>`"
@@ -42,7 +44,7 @@ msgstr ""
 
 #: ../../PTK.rst:15
 msgid "Destroy target attacking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../PTK.rst:20
 msgid ":mtgtip:`Empty City Ruse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d37c84c-80e5-453d-bd2e-4f77ff864c89.jpg?1562256087|https://scryfall.com/card/ptk/3/empty-city-ruse?utm_source=api>`"
@@ -58,7 +60,7 @@ msgstr ""
 
 #: ../../PTK.rst:23
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
 
 #: ../../PTK.rst:28
 msgid ":mtgtip:`Flanking Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a219a031-2466-4850-b646-79a09e30cf18.jpg?1562257506|https://scryfall.com/card/ptk/5/flanking-troops?utm_source=api>`"
@@ -125,7 +127,7 @@ msgstr ""
 
 #: ../../PTK.rst:45
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../PTK.rst:50
 msgid ":mtgtip:`Kongming's Contraptions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6729eb0b-5655-4191-af14-4f7e4a8dded7.jpg?1562256565|https://scryfall.com/card/ptk/10/kongmings-contraptions?utm_source=api>`"
@@ -173,7 +175,7 @@ msgstr ""
 
 #: ../../PTK.rst:71
 msgid "You gain 2 life for each creature you control."
-msgstr ""
+msgstr "Zyskaj po 2 życia za każdego stwora pod twoim władaniem."
 
 #: ../../PTK.rst:78
 msgid ":mtgtip:`Rally the Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04ee74d6-bd06-48e5-89de-f926e0c9413f.jpg?1562255820|https://scryfall.com/card/ptk/16/rally-the-troops?utm_source=api>`"
@@ -189,7 +191,7 @@ msgstr ""
 
 #: ../../PTK.rst:81
 msgid "Destroy all lands."
-msgstr ""
+msgstr "Zniszcz wszystkie lądy."
 
 #: ../../PTK.rst:86
 msgid ":mtgtip:`Riding Red Hare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0504a24-4b92-471a-8da4-02ec57eb43be.jpg?1562257527|https://scryfall.com/card/ptk/18/riding-red-hare?utm_source=api>`"
@@ -262,7 +264,7 @@ msgstr ""
 
 #: ../../PTK.rst:125
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../PTK.rst:130
 msgid ":mtgtip:`Virtuous Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72ad4c79-a85d-4fc6-95ab-5a6d6d667579.jpg?1562257014|https://scryfall.com/card/ptk/29/virtuous-charge?utm_source=api>`"
@@ -270,7 +272,7 @@ msgstr ""
 
 #: ../../PTK.rst:129
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../PTK.rst:132
 msgid ":mtgtip:`Volunteer Militia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0af243f6-ef28-49d1-afeb-ac03d568ed6a.jpg?1562255829|https://scryfall.com/card/ptk/30/volunteer-militia?utm_source=api>`"
@@ -282,7 +284,7 @@ msgstr ""
 
 #: ../../PTK.rst:139
 msgid "Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../PTK.rst:144
 msgid ":mtgtip:`Zhang Fei, Fierce Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a58ec38-f1dc-4c69-9d26-a4599bce586a.jpg?1562256053|https://scryfall.com/card/ptk/32/zhang-fei-fierce-warrior?utm_source=api>`"
@@ -311,6 +313,7 @@ msgstr ""
 #: ../../PTK.rst:157
 msgid "Draw a card for each tapped creature target opponent controls."
 msgstr ""
+"Dobierz tyle kart, ile przekręconych stworów ma we władaniu wskazany gracz."
 
 #: ../../PTK.rst:162
 msgid ":mtgtip:`Brilliant Plan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6acae374-9d71-4f8d-ba75-a983756624c7.jpg?1562256569|https://scryfall.com/card/ptk/36/brilliant-plan?utm_source=api>`"
@@ -318,7 +321,7 @@ msgstr ""
 
 #: ../../PTK.rst:161
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../PTK.rst:166
 msgid ":mtgtip:`Broken Dam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502|https://scryfall.com/card/ptk/37/broken-dam?utm_source=api>`"
@@ -334,7 +337,7 @@ msgstr ""
 
 #: ../../PTK.rst:169
 msgid "Take an extra turn after this one."
-msgstr ""
+msgstr "Weź dodatkową turę po obecnej."
 
 #: ../../PTK.rst:176
 msgid ":mtgtip:`Champion's Victory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/451ef657-8590-497a-9d98-a732d4de6165.jpg?1562256077|https://scryfall.com/card/ptk/39/champions-victory?utm_source=api>`"
@@ -374,7 +377,7 @@ msgstr ""
 
 #: ../../PTK.rst:191
 msgid "Counter target sorcery spell."
-msgstr ""
+msgstr "Skontruj wskazany czar obrzędu."
 
 #: ../../PTK.rst:196
 msgid ":mtgtip:`Forced Retreat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9753d211-3436-4a9b-86d9-54a541770ec2.jpg?1562257057|https://scryfall.com/card/ptk/44/forced-retreat?utm_source=api>`"
@@ -382,7 +385,7 @@ msgstr ""
 
 #: ../../PTK.rst:195
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 #: ../../PTK.rst:200
 msgid ":mtgtip:`Lady Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f45e837-7b98-46ef-b21b-e3508ce999e5.jpg?1562255833|https://scryfall.com/card/ptk/45/lady-sun?utm_source=api>`"
@@ -426,7 +429,7 @@ msgstr ""
 
 #: ../../PTK.rst:221
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../PTK.rst:226
 msgid ":mtgtip:`Red Cliffs Armada<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8fe0f33-35c7-439b-bece-4a9461b92352.jpg?1562257535|https://scryfall.com/card/ptk/51/red-cliffs-armada?utm_source=api>`"
@@ -451,6 +454,8 @@ msgstr ""
 #: ../../PTK.rst:233
 msgid "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../PTK.rst:236
 msgid ":mtgtip:`Straw Soldiers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ae5ba21-eb8e-4663-bfd8-3e19a0c10774.jpg?1562257041|https://scryfall.com/card/ptk/54/straw-soldiers?utm_source=api>`"
@@ -546,7 +551,7 @@ msgstr ""
 
 #: ../../PTK.rst:293
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../PTK.rst:298
 msgid ":mtgtip:`Cao Cao, Lord of Wei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7e5a530-c954-4696-85ce-6afaf7de1808.jpg?1562257983|https://scryfall.com/card/ptk/68/cao-cao-lord-of-wei?utm_source=api>`"
@@ -571,6 +576,8 @@ msgstr ""
 #: ../../PTK.rst:307
 msgid "Target opponent reveals their hand. You choose a card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../PTK.rst:312
 msgid ":mtgtip:`Corrupt Court Official<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3ba2e3-e680-47cd-81c5-555deea7d00f.jpg?1562257498|https://scryfall.com/card/ptk/71/corrupt-court-official?utm_source=api>`"
@@ -594,7 +601,7 @@ msgstr ""
 
 #: ../../PTK.rst:319
 msgid "Target opponent discards two cards."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../PTK.rst:324
 msgid ":mtgtip:`Desperate Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5587089-b17e-4187-97aa-1c3eec070a0b.jpg?1562257511|https://scryfall.com/card/ptk/74/desperate-charge?utm_source=api>`"
@@ -602,7 +609,7 @@ msgstr ""
 
 #: ../../PTK.rst:323
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../PTK.rst:328
 msgid ":mtgtip:`Famine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d6c10ca-f6d6-4322-aa17-7e874cb10bb1.jpg?1562257044|https://scryfall.com/card/ptk/75/famine?utm_source=api>`"
@@ -610,7 +617,7 @@ msgstr ""
 
 #: ../../PTK.rst:327
 msgid "Famine deals 3 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
 
 #: ../../PTK.rst:332
 msgid ":mtgtip:`Ghostly Visit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06f6938a-229a-4521-b5d5-7999ce5fb372.jpg?1562255824|https://scryfall.com/card/ptk/76/ghostly-visit?utm_source=api>`"
@@ -618,7 +625,7 @@ msgstr ""
 
 #: ../../PTK.rst:331
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../PTK.rst:336
 msgid ":mtgtip:`Imperial Edict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5a7f91d-b4ee-45c1-a229-bb23daf68e6b.jpg?1575874304|https://scryfall.com/card/ptk/77/imperial-edict?utm_source=api>`"
@@ -635,6 +642,8 @@ msgstr ""
 #: ../../PTK.rst:339
 msgid "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece, po czym przetasuj twoją bibliotekę i "
+"umieść ową kartę na jej wierzchu. Strać 2 życia."
 
 #: ../../PTK.rst:344
 msgid ":mtgtip:`Overwhelming Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c56c7fb4-8b7b-40fc-879c-76cfb5d417b8.jpg?1562257531|https://scryfall.com/card/ptk/79/overwhelming-forces?utm_source=api>`"
@@ -658,7 +667,7 @@ msgstr ""
 
 #: ../../PTK.rst:351
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../PTK.rst:356
 msgid ":mtgtip:`Sima Yi, Wei Field Marshal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/6500b690-d601-4c6d-baea-552e366ea242.jpg?1562256562|https://scryfall.com/card/ptk/82/sima-yi-wei-field-marshal?utm_source=api>`"
@@ -774,6 +783,8 @@ msgstr ""
 #: ../../PTK.rst:687
 msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../PTK.rst:426
 msgid ":mtgtip:`Zodiac Rat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012|https://scryfall.com/card/ptk/98/zodiac-rat?utm_source=api>`"
@@ -797,7 +808,7 @@ msgstr ""
 
 #: ../../PTK.rst:441
 msgid "Blaze deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../PTK.rst:446
 msgid ":mtgtip:`Burning Fields<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dee12f01-581e-4a3c-a8b5-41bef2516781.jpg?1562257986|https://scryfall.com/card/ptk/103/burning-fields?utm_source=api>`"
@@ -821,7 +832,7 @@ msgstr ""
 
 #: ../../PTK.rst:453
 msgid "Draw four cards, then discard three cards at random."
-msgstr ""
+msgstr "Dobierz cztery karty, po czym odrzuć trzy losowe karty."
 
 #: ../../PTK.rst:458
 msgid ":mtgtip:`Corrupt Eunuchs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e084664-2faf-4f7a-9068-d58d3f4b8456.jpg?1562256545|https://scryfall.com/card/ptk/106/corrupt-eunuchs?utm_source=api>`"
@@ -886,6 +897,9 @@ msgstr ""
 #: ../../PTK.rst:485
 msgid "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj twoją bibliotekę."
 
 #: ../../PTK.rst:488
 msgid ":mtgtip:`Independent Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff7a4769-7a64-4016-8db0-b56c6b98aff3.jpg?1562258015|https://scryfall.com/card/ptk/114/independent-troops?utm_source=api>`"
@@ -914,7 +928,7 @@ msgstr ""
 #: ../../PTK.rst:503
 #: ../../PTK.rst:515
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../PTK.rst:508
 msgid ":mtgtip:`Ravaging Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6278d679-fc54-4527-ab16-90735574ab9b.jpg?1562256560|https://scryfall.com/card/ptk/118/ravaging-horde?utm_source=api>`"
@@ -931,6 +945,8 @@ msgstr ""
 #: ../../PTK.rst:511
 msgid "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
 msgstr ""
+"Odkręć wszystkie stwory, które atakowały w tej turze. Po tej fazie głównej "
+"jest dodatkowa faza potyczki, po której następuje dodatkowa faza główna."
 
 #: ../../PTK.rst:516
 msgid ":mtgtip:`Renegade Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a75095f4-a77f-4237-ae25-2e6f2f8788c1.jpg?1562257512|https://scryfall.com/card/ptk/120/renegade-troops?utm_source=api>`"
@@ -951,6 +967,8 @@ msgstr ""
 #: ../../PTK.rst:523
 msgid "Rolling Earthquake deals X damage to each creature without horsemanship and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez jazdy konnej i każdemu graczowi po X "
+"obrażeń."
 
 #: ../../PTK.rst:528
 msgid ":mtgtip:`Stone Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67738ab8-75cf-4ea1-aa1d-b840d94b2601.jpg?1562256568|https://scryfall.com/card/ptk/123/stone-rain?utm_source=api>`"
@@ -958,7 +976,7 @@ msgstr ""
 
 #: ../../PTK.rst:527
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../PTK.rst:532
 msgid ":mtgtip:`Warrior's Oath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d582861a-ca6e-4b74-adf0-3eb588ea5ed2.jpg?1562257982|https://scryfall.com/card/ptk/124/warriors-oath?utm_source=api>`"
@@ -1016,6 +1034,8 @@ msgstr ""
 #: ../../PTK.rst:569
 msgid "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../PTK.rst:566
 msgid ":mtgtip:`Zodiac Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46652ae3-6572-4296-939b-0789923180d5.jpg?1562256080|https://scryfall.com/card/ptk/131/zodiac-dragon?utm_source=api>`"
@@ -1044,6 +1064,7 @@ msgstr ""
 #: ../../PTK.rst:577
 msgid "Put target card from your graveyard on top of your library."
 msgstr ""
+"Umieść wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../PTK.rst:580
 msgid ":mtgtip:`Forest Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fae9abc7-ecd3-4042-a5b0-5f2b24491fa6.jpg?1562258009|https://scryfall.com/card/ptk/135/forest-bear?utm_source=api>`"
@@ -1099,7 +1120,7 @@ msgstr ""
 
 #: ../../PTK.rst:611
 msgid "Other green creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne zielone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../PTK.rst:614
 msgid ":mtgtip:`Meng Huo's Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1642802-055e-44d2-a261-c2a45ad515e8.jpg?1562257987|https://scryfall.com/card/ptk/143/meng-huos-horde?utm_source=api>`"
@@ -1139,7 +1160,7 @@ msgstr ""
 
 #: ../../PTK.rst:635
 msgid "You gain 8 life."
-msgstr ""
+msgstr "Zyskaj 8 żyć."
 
 #: ../../PTK.rst:640
 msgid ":mtgtip:`Stalking Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31d39e5c-40c7-4f1a-8576-c8b4d12a4bbc.jpg?1562256062|https://scryfall.com/card/ptk/149/stalking-tiger?utm_source=api>`"
@@ -1147,7 +1168,7 @@ msgstr ""
 
 #: ../../PTK.rst:639
 msgid "Stalking Tiger can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../PTK.rst:644
 msgid ":mtgtip:`Taoist Hermit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d818c231-8d66-4024-91de-fe29f8622902.jpg?1562257985|https://scryfall.com/card/ptk/150/taoist-hermit?utm_source=api>`"
@@ -1157,6 +1178,8 @@ msgstr ""
 #: ../../PTK.rst:703
 msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../PTK.rst:648
 msgid ":mtgtip:`Taoist Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/023ae64a-7888-4ad2-b879-0649d8e341ac.jpg?1562255815|https://scryfall.com/card/ptk/151/taoist-mystic?utm_source=api>`"
@@ -1173,6 +1196,7 @@ msgstr ""
 #: ../../PTK.rst:651
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
+"Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../PTK.rst:656
 msgid ":mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/306d22ae-657e-4b52-8cd9-6fc3df9e8376.jpg?1562256061|https://scryfall.com/card/ptk/153/three-visits?utm_source=api>`"
@@ -1208,7 +1232,7 @@ msgstr ""
 
 #: ../../PTK.rst:671
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../PTK.rst:676
 msgid ":mtgtip:`Wolf Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/290f395d-0827-4f62-b117-4766d4ab5dca.jpg?1562255855|https://scryfall.com/card/ptk/158/wolf-pack?utm_source=api>`"
@@ -1217,6 +1241,8 @@ msgstr ""
 #: ../../PTK.rst:675
 msgid "You may have Wolf Pack assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór przypisze swoje obrażenia bojowe tak, jakby nie "
+"został zablokowany."
 
 #: ../../PTK.rst:680
 msgid ":mtgtip:`Zodiac Horse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb24cb19-3409-45f7-b0e0-7c652064d2dd.jpg?1562258011|https://scryfall.com/card/ptk/159/zodiac-horse?utm_source=api>`"
@@ -1225,6 +1251,8 @@ msgstr ""
 #: ../../PTK.rst:679
 msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../PTK.rst:684
 msgid ":mtgtip:`Zodiac Monkey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e98eb0b-c3b5-4561-b8a2-f22bd0fe1115.jpg?1562256550|https://scryfall.com/card/ptk/160/zodiac-monkey?utm_source=api>`"
@@ -1235,6 +1263,8 @@ msgstr ""
 #: ../../PTK.rst:699
 msgid "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../PTK.rst:688
 msgid ":mtgtip:`Zodiac Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a731b3a-0065-448d-841c-28700d78a4fd.jpg?1562255850|https://scryfall.com/card/ptk/161/zodiac-ox?utm_source=api>`"
@@ -1251,6 +1281,8 @@ msgstr ""
 #: ../../PTK.rst:695
 msgid "Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)"
 msgstr ""
+"Podbój równin (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Równiną.)"
 
 #: ../../PTK.rst:700
 msgid ":mtgtip:`Zodiac Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aafd78d5-df9f-46a3-a634-ebf7634a6358.jpg?1562257517|https://scryfall.com/card/ptk/164/zodiac-tiger?utm_source=api>`"
@@ -1270,7 +1302,7 @@ msgstr ""
 
 #: ../../PTK.rst:709
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../PTK.rst:714
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76033c90-1e06-473b-ba44-a94e16ac5348.jpg?1562257019|https://scryfall.com/card/ptk/169/island?utm_source=api>`"
@@ -1278,7 +1310,7 @@ msgstr ""
 
 #: ../../PTK.rst:713
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../PTK.rst:718
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17b4a8a4-caa8-472d-bf90-ee70250bc0ab.jpg?1562255845|https://scryfall.com/card/ptk/172/swamp?utm_source=api>`"
@@ -1286,7 +1318,7 @@ msgstr ""
 
 #: ../../PTK.rst:717
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../PTK.rst:722
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95046649-bc6d-46f5-8dbc-85d3fa5097c4.jpg?1562257051|https://scryfall.com/card/ptk/175/mountain?utm_source=api>`"
@@ -1294,7 +1326,7 @@ msgstr ""
 
 #: ../../PTK.rst:721
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../PTK.rst:725
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6677baa6-a38f-48f2-9ff2-2e3321b22959.jpg?1562256563|https://scryfall.com/card/ptk/178/forest?utm_source=api>`"
@@ -1302,4 +1334,4 @@ msgstr ""
 
 #: ../../PTK.rst:725
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"

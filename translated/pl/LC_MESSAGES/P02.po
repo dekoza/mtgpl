@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:09+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-13 17:36+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/p02/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../P02.rst:5
 msgid ":mtgexp:`P02` Portal Second Age"
@@ -34,7 +36,7 @@ msgstr ""
 
 #: ../../P02.rst:13
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../P02.rst:18
 msgid ":mtgtip:`Alaborn Musketeer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/4776a9ed-dbc6-44d2-9761-b2d09ff34008.jpg?1562911723|https://scryfall.com/card/p02/3/alaborn-musketeer?utm_source=api>`"
@@ -44,7 +46,7 @@ msgstr ""
 #: ../../P02.rst:579
 #: ../../P02.rst:627
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../P02.rst:20
 msgid ":mtgtip:`Alaborn Trooper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1cd30b4-4ed8-467e-808e-b0caf4196d90.jpg?1562948743|https://scryfall.com/card/p02/4/alaborn-trooper?utm_source=api>`"
@@ -86,7 +88,7 @@ msgstr ""
 #: ../../P02.rst:389
 #: ../../P02.rst:423
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../P02.rst:35
 msgid "When Angel of Fury dies, you may shuffle it into its owner's library."
@@ -98,7 +100,7 @@ msgstr ""
 
 #: ../../P02.rst:41
 msgid "When Angel of Mercy enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../P02.rst:46
 msgid ":mtgtip:`Angelic Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25d409ef-9635-4ebe-944f-03e371bc40f0.jpg?1562903924|https://scryfall.com/card/p02/9/angelic-blessing?utm_source=api>`"
@@ -107,6 +109,8 @@ msgstr ""
 #: ../../P02.rst:45
 msgid "Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../P02.rst:52
 msgid ":mtgtip:`Angelic Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0bb39fb-29fc-4e69-9918-47277b8af0d3.jpg?1562948503|https://scryfall.com/card/p02/10/angelic-wall?utm_source=api>`"
@@ -114,7 +118,7 @@ msgstr ""
 
 #: ../../P02.rst:49
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../P02.rst:56
 msgid ":mtgtip:`Archangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be73364e-d833-410f-b460-c36fe14c52ca.jpg?1562939944|https://scryfall.com/card/p02/11/archangel?utm_source=api>`"
@@ -123,7 +127,7 @@ msgstr ""
 #: ../../P02.rst:55
 #: ../../P02.rst:63
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../P02.rst:60
 msgid ":mtgtip:`Armageddon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9591f2ab-e09c-48d5-9c87-d27368e60750.jpg?1562930243|https://scryfall.com/card/p02/12/armageddon?utm_source=api>`"
@@ -131,7 +135,7 @@ msgstr ""
 
 #: ../../P02.rst:59
 msgid "Destroy all lands."
-msgstr ""
+msgstr "Zniszcz wszystkie lądy."
 
 #: ../../P02.rst:64
 msgid ":mtgtip:`Armored Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54866603-c80c-4dc8-9655-eaf54ed2c5ab.jpg?1562914764|https://scryfall.com/card/p02/13/armored-griffin?utm_source=api>`"
@@ -147,7 +151,7 @@ msgstr ""
 
 #: ../../P02.rst:69
 msgid "You gain 7 life."
-msgstr ""
+msgstr "Zyskaj 7 żyć."
 
 #: ../../P02.rst:74
 msgid ":mtgtip:`Breath of Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a10f24f7-f82e-413e-824f-384607c7d858.jpg?1562933056|https://scryfall.com/card/p02/15/breath-of-life?utm_source=api>`"
@@ -155,7 +159,7 @@ msgstr ""
 
 #: ../../P02.rst:73
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
 
 #: ../../P02.rst:78
 msgid ":mtgtip:`Festival of Trokin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5bd783b-d4cd-4a53-8fec-a5ead7c14738.jpg?1562953246|https://scryfall.com/card/p02/16/festival-of-trokin?utm_source=api>`"
@@ -163,7 +167,7 @@ msgstr ""
 
 #: ../../P02.rst:77
 msgid "You gain 2 life for each creature you control."
-msgstr ""
+msgstr "Zyskaj po 2 życia za każdego stwora pod twoim władaniem."
 
 #: ../../P02.rst:84
 msgid ":mtgtip:`Just Fate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6e5e572-030d-4a41-89e6-e720b49bc131.jpg?1562934537|https://scryfall.com/card/p02/17/just-fate?utm_source=api>`"
@@ -179,7 +183,7 @@ msgstr ""
 
 #: ../../P02.rst:83
 msgid "Destroy target attacking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../P02.rst:88
 msgid ":mtgtip:`Path of Peace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb14d3f4-09f3-4113-bdc3-0fd753137f7c.jpg?1562942983|https://scryfall.com/card/p02/18/path-of-peace?utm_source=api>`"
@@ -204,7 +208,7 @@ msgstr ""
 #: ../../P02.rst:97
 #: ../../P02.rst:135
 msgid "Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../P02.rst:102
 msgid ":mtgtip:`Righteous Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.jpg?1562941331|https://scryfall.com/card/p02/21/righteous-fury?utm_source=api>`"
@@ -256,7 +260,7 @@ msgstr ""
 
 #: ../../P02.rst:125
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../P02.rst:128
 msgid ":mtgtip:`Volunteer Militia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de307b2e-9a1c-4f95-887f-14c9d99577aa.jpg?1562947865|https://scryfall.com/card/p02/28/volunteer-militia?utm_source=api>`"
@@ -305,6 +309,8 @@ msgstr ""
 #: ../../P02.rst:159
 msgid "When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć każdego innego stwora pod "
+"twoim władaniem do ręki właściciela."
 
 #: ../../P02.rst:164
 msgid ":mtgtip:`Déjà Vu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ade6a71a-e8ec-4d41-8a39-3eacf0097c8b.jpg?1562936067|https://scryfall.com/card/p02/36/d%C3%A9j%C3%A0-vu?utm_source=api>`"
@@ -328,7 +334,7 @@ msgstr ""
 
 #: ../../P02.rst:171
 msgid "Counter target sorcery spell."
-msgstr ""
+msgstr "Skontruj wskazany czar obrzędu."
 
 #: ../../P02.rst:176
 msgid ":mtgtip:`Eye Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee109b81-96ef-494a-9d6d-0ea4a49b76a0.jpg?1562951547|https://scryfall.com/card/p02/39/eye-spy?utm_source=api>`"
@@ -344,7 +350,7 @@ msgstr ""
 
 #: ../../P02.rst:179
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../P02.rst:184
 msgid ":mtgtip:`Mystic Denial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30bb424f-f3d6-4616-a368-df12af3ad024.jpg?1562906405|https://scryfall.com/card/p02/41/mystic-denial?utm_source=api>`"
@@ -393,6 +399,8 @@ msgstr ""
 #: ../../P02.rst:209
 msgid "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
 msgstr ""
+"Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a drugą na spodzie twojej biblioteki."
 
 #: ../../P02.rst:214
 msgid ":mtgtip:`Steam Frigate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec3193cb-2c00-4ef8-bf2e-d3b1e3b875a3.jpg?1595438256|https://scryfall.com/card/p02/47/steam-frigate?utm_source=api>`"
@@ -444,7 +452,7 @@ msgstr ""
 
 #: ../../P02.rst:243
 msgid "Take an extra turn after this one."
-msgstr ""
+msgstr "Weź dodatkową turę po obecnej."
 
 #: ../../P02.rst:248
 msgid ":mtgtip:`Theft of Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a826f84c-24c4-41f9-88a9-a18dc860b9a1.jpg?1562934829|https://scryfall.com/card/p02/55/theft-of-dreams?utm_source=api>`"
@@ -453,6 +461,7 @@ msgstr ""
 #: ../../P02.rst:247
 msgid "Draw a card for each tapped creature target opponent controls."
 msgstr ""
+"Dobierz tyle kart, ile przekręconych stworów ma we władaniu wskazany gracz."
 
 #: ../../P02.rst:252
 msgid ":mtgtip:`Tidal Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d9ecba0-3d9d-4383-a45c-103300442799.jpg?1562917027|https://scryfall.com/card/p02/56/tidal-surge?utm_source=api>`"
@@ -460,7 +469,7 @@ msgstr ""
 
 #: ../../P02.rst:251
 msgid "Tap up to three target creatures without flying."
-msgstr ""
+msgstr "Przekręć co najwyżej trzy wskazane stwory nie mające latania."
 
 #: ../../P02.rst:256
 msgid ":mtgtip:`Time Ebb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea285582-2279-4393-885d-e471d00681e9.jpg?1562950788|https://scryfall.com/card/p02/57/time-ebb?utm_source=api>`"
@@ -468,7 +477,7 @@ msgstr ""
 
 #: ../../P02.rst:255
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 #: ../../P02.rst:260
 msgid ":mtgtip:`Touch of Brilliance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/277d38ee-09e5-4266-a077-d737f6c8b8d3.jpg?1562904359|https://scryfall.com/card/p02/58/touch-of-brilliance?utm_source=api>`"
@@ -476,7 +485,7 @@ msgstr ""
 
 #: ../../P02.rst:259
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../P02.rst:264
 msgid ":mtgtip:`Undo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4ca55da2-33e1-44b5-88b2-ac159d842b1f.jpg?1562912951|https://scryfall.com/card/p02/59/undo?utm_source=api>`"
@@ -508,7 +517,7 @@ msgstr ""
 
 #: ../../P02.rst:275
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../P02.rst:280
 msgid ":mtgtip:`Bloodcurdling Scream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dcb0ec62-6d6f-4d10-bc2d-37f25495f884.jpg?1562947538|https://scryfall.com/card/p02/63/bloodcurdling-scream?utm_source=api>`"
@@ -532,7 +541,7 @@ msgstr ""
 
 #: ../../P02.rst:287
 msgid "Creatures you control get +1/+0 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../P02.rst:292
 msgid ":mtgtip:`Coercion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de6ff6af-22f4-46fb-97d3-6f8f20f8b16c.jpg?1562947938|https://scryfall.com/card/p02/66/coercion?utm_source=api>`"
@@ -541,6 +550,8 @@ msgstr ""
 #: ../../P02.rst:291
 msgid "Target opponent reveals their hand. You choose a card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../P02.rst:296
 msgid ":mtgtip:`Cruel Edict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6018d90-cfcc-4fb1-8ecd-4e0f1c71550d.jpg?1562953310|https://scryfall.com/card/p02/67/cruel-edict?utm_source=api>`"
@@ -548,7 +559,7 @@ msgstr ""
 
 #: ../../P02.rst:295
 msgid "Target opponent sacrifices a creature."
-msgstr ""
+msgstr "Wskazany przeciwnik poświęca stwora."
 
 #: ../../P02.rst:300
 msgid ":mtgtip:`Dakmor Bat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f45994db-776d-420e-9241-99bf3b71fa59.jpg?1562952975|https://scryfall.com/card/p02/68/dakmor-bat?utm_source=api>`"
@@ -596,7 +607,7 @@ msgstr ""
 
 #: ../../P02.rst:325
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../P02.rst:330
 msgid ":mtgtip:`Hidden Horror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64243f71-0941-47d5-816b-4548986726b4.jpg?1562918575|https://scryfall.com/card/p02/75/hidden-horror?utm_source=api>`"
@@ -605,6 +616,8 @@ msgstr ""
 #: ../../P02.rst:329
 msgid "When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz kartę "
+"stwora."
 
 #: ../../P02.rst:334
 msgid ":mtgtip:`Kiss of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf6832c1-a0a9-49ec-a787-879e510aee08.jpg?1562940179|https://scryfall.com/card/p02/76/kiss-of-death?utm_source=api>`"
@@ -628,7 +641,7 @@ msgstr ""
 
 #: ../../P02.rst:341
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../P02.rst:346
 msgid ":mtgtip:`Moaning Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdd99210-5201-4ecc-b86a-aee9dafe2657.jpg?1562943608|https://scryfall.com/card/p02/79/moaning-spirit?utm_source=api>`"
@@ -670,6 +683,8 @@ msgstr ""
 #: ../../P02.rst:635
 msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
 msgstr ""
+"Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Bagnem.)"
 
 #: ../../P02.rst:370
 msgid ":mtgtip:`Rain of Daggers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb09a5bb-9730-43cd-8dea-3842634c9983.jpg?1562939110|https://scryfall.com/card/p02/85/rain-of-daggers?utm_source=api>`"
@@ -685,7 +700,7 @@ msgstr ""
 
 #: ../../P02.rst:373
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../P02.rst:378
 msgid ":mtgtip:`Ravenous Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/8899244b-737a-43a9-9241-15a650b47bed.jpg?1562927249|https://scryfall.com/card/p02/87/ravenous-rats?utm_source=api>`"
@@ -694,6 +709,7 @@ msgstr ""
 #: ../../P02.rst:377
 msgid "When Ravenous Rats enters the battlefield, target opponent discards a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../P02.rst:382
 msgid ":mtgtip:`Return of the Nightstalkers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e85d85c2-9f34-4375-adcd-a1c5b487cacc.jpg?1562950322|https://scryfall.com/card/p02/88/return-of-the-nightstalkers?utm_source=api>`"
@@ -725,7 +741,7 @@ msgstr ""
 
 #: ../../P02.rst:395
 msgid "Blaze deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../P02.rst:400
 msgid ":mtgtip:`Brimstone Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54c72f51-2e8c-4a2f-9b61-80f36f8af521.jpg?1562914847|https://scryfall.com/card/p02/92/brimstone-dragon?utm_source=api>`"
@@ -733,7 +749,7 @@ msgstr ""
 
 #: ../../P02.rst:399
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../P02.rst:404
 msgid ":mtgtip:`Cunning Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0aa284a7-3aac-4e88-becb-548a28c77401.jpg?1562897416|https://scryfall.com/card/p02/93/cunning-giant?utm_source=api>`"
@@ -750,6 +766,7 @@ msgstr ""
 #: ../../P02.rst:407
 msgid "Earthquake deals X damage to each creature without flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po X obrażeń."
 
 #: ../../P02.rst:410
 msgid ":mtgtip:`Goblin Cavaliers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edc6ea02-0642-4fc5-b50c-543dc393bfdd.jpg?1562951478|https://scryfall.com/card/p02/95/goblin-cavaliers?utm_source=api>`"
@@ -785,7 +802,7 @@ msgstr ""
 
 #: ../../P02.rst:429
 msgid "Draw four cards, then discard three cards at random."
-msgstr ""
+msgstr "Dobierz cztery karty, po czym odrzuć trzy losowe karty."
 
 #: ../../P02.rst:434
 msgid ":mtgtip:`Goblin Matron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.jpg?1562954176|https://scryfall.com/card/p02/100/goblin-matron?utm_source=api>`"
@@ -794,6 +811,9 @@ msgstr ""
 #: ../../P02.rst:433
 msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../P02.rst:438
 msgid ":mtgtip:`Goblin Mountaineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f841fe25-237f-4303-b75e-392b82767eea.jpg?1562953840|https://scryfall.com/card/p02/101/goblin-mountaineer?utm_source=api>`"
@@ -802,6 +822,8 @@ msgstr ""
 #: ../../P02.rst:437
 msgid "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../P02.rst:440
 msgid ":mtgtip:`Goblin Piker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/2786834d-dbda-40ce-82a4-e518cd554312.jpg?1562904376|https://scryfall.com/card/p02/102/goblin-piker?utm_source=api>`"
@@ -845,7 +867,7 @@ msgstr ""
 
 #: ../../P02.rst:461
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../P02.rst:466
 msgid ":mtgtip:`Magma Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92bec2e0-a016-42bd-85d9-fbb262998110.jpg?1562929549|https://scryfall.com/card/p02/108/magma-giant?utm_source=api>`"
@@ -873,7 +895,7 @@ msgstr ""
 
 #: ../../P02.rst:477
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../P02.rst:482
 msgid ":mtgtip:`Ogre Taskmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d674a92e-b268-48f7-b082-f8ca2e63d43b.jpg?1562946142|https://scryfall.com/card/p02/112/ogre-taskmaster?utm_source=api>`"
@@ -894,6 +916,8 @@ msgstr ""
 #: ../../P02.rst:489
 msgid "Haste (This creature can attack and |tap| as soon as it comes under your control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../P02.rst:494
 msgid ":mtgtip:`Relentless Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c641c3d6-0364-4209-b908-1717e5e612ad.jpg?1562941813|https://scryfall.com/card/p02/115/relentless-assault?utm_source=api>`"
@@ -902,6 +926,8 @@ msgstr ""
 #: ../../P02.rst:493
 msgid "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
 msgstr ""
+"Odkręć wszystkie stwory, które atakowały w tej turze. Po tej fazie głównej "
+"jest dodatkowa faza potyczki, po której następuje dodatkowa faza główna."
 
 #: ../../P02.rst:498
 msgid ":mtgtip:`Spitting Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f868b8b0-2be2-4833-8e9a-43a08c6d9c96.jpg?1562953858|https://scryfall.com/card/p02/116/spitting-earth?utm_source=api>`"
@@ -910,6 +936,8 @@ msgstr ""
 #: ../../P02.rst:497
 msgid "Spitting Earth deals damage to target creature equal to the number of Mountains you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi obrażenia równe liczbie Gór pod twoim "
+"władaniem."
 
 #: ../../P02.rst:502
 msgid ":mtgtip:`Stone Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d0b04bc-54ba-48a8-9181-233e08774a8b.jpg?1562905544|https://scryfall.com/card/p02/117/stone-rain?utm_source=api>`"
@@ -917,7 +945,7 @@ msgstr ""
 
 #: ../../P02.rst:501
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../P02.rst:506
 msgid ":mtgtip:`Tremor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2509285-a88e-4f5c-86c1-c0386da0f0c5.jpg?1562948885|https://scryfall.com/card/p02/118/tremor?utm_source=api>`"
@@ -950,6 +978,7 @@ msgstr ""
 #: ../../P02.rst:517
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
+"Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../P02.rst:520
 msgid ":mtgtip:`Barbtooth Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f627db9-c63e-4353-94f4-3e28db7b222a.jpg?1562898584|https://scryfall.com/card/p02/122/barbtooth-wurm?utm_source=api>`"
@@ -1002,6 +1031,7 @@ msgstr ""
 #: ../../P02.rst:551
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
 #: ../../P02.rst:556
 msgid ":mtgtip:`Ironhoof Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c2528c2-6405-4db9-9137-623946a4de2f.jpg?1562924247|https://scryfall.com/card/p02/130/ironhoof-ox?utm_source=api>`"
@@ -1026,6 +1056,8 @@ msgstr ""
 #: ../../P02.rst:563
 msgid "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
 msgstr ""
+"Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Lasem.)"
 
 #: ../../P02.rst:568
 msgid ":mtgtip:`Monstrous Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3816da20-4434-4bf7-a9dd-3eb3bb735f08.jpg?1562908177|https://scryfall.com/card/p02/133/monstrous-growth?utm_source=api>`"
@@ -1033,7 +1065,7 @@ msgstr ""
 
 #: ../../P02.rst:567
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../P02.rst:572
 msgid ":mtgtip:`Natural Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79d73903-182d-4fc8-a1e4-8a1738e7a67b.jpg?1562923724|https://scryfall.com/card/p02/134/natural-spring?utm_source=api>`"
@@ -1041,7 +1073,7 @@ msgstr ""
 
 #: ../../P02.rst:571
 msgid "Target player gains 8 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../P02.rst:576
 msgid ":mtgtip:`Nature's Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f43fb749-5672-4a5c-ac89-e443195b95bc.jpg?1562952945|https://scryfall.com/card/p02/135/natures-lore?utm_source=api>`"
@@ -1110,6 +1142,8 @@ msgstr ""
 #: ../../P02.rst:611
 msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../P02.rst:616
 msgid ":mtgtip:`Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3012e10-566b-447c-bb0a-dfc38c8e0fdf.jpg?1562952697|https://scryfall.com/card/p02/145/salvage?utm_source=api>`"
@@ -1118,6 +1152,7 @@ msgstr ""
 #: ../../P02.rst:615
 msgid "Put target card from your graveyard on top of your library."
 msgstr ""
+"Umieść wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../P02.rst:620
 msgid ":mtgtip:`Sylvan Basilisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9c09886-a733-4797-a489-46150cecfc13.jpg?1562938751|https://scryfall.com/card/p02/146/sylvan-basilisk?utm_source=api>`"
@@ -1126,6 +1161,7 @@ msgstr ""
 #: ../../P02.rst:619
 msgid "Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany przez stwora, zniszcz owego stwora."
 
 #: ../../P02.rst:624
 msgid ":mtgtip:`Sylvan Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a8686e2-1e14-4b4a-b45b-cab4d5c57fce.jpg?1562897397|https://scryfall.com/card/p02/147/sylvan-yeti?utm_source=api>`"
@@ -1157,7 +1193,7 @@ msgstr ""
 
 #: ../../P02.rst:639
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../P02.rst:644
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0a83b1a-a734-4726-9d14-c75ef04798d1.jpg?1562936776|https://scryfall.com/card/p02/154/island?utm_source=api>`"
@@ -1165,7 +1201,7 @@ msgstr ""
 
 #: ../../P02.rst:643
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../P02.rst:648
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80c0bd18-fdee-4cb2-8a7e-dd86bb8a6bbe.jpg?1562925406|https://scryfall.com/card/p02/157/swamp?utm_source=api>`"
@@ -1173,7 +1209,7 @@ msgstr ""
 
 #: ../../P02.rst:647
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../P02.rst:652
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdfbb15a-d7f4-470a-9d36-78c710a6d397.jpg?1562939867|https://scryfall.com/card/p02/160/mountain?utm_source=api>`"
@@ -1181,7 +1217,7 @@ msgstr ""
 
 #: ../../P02.rst:651
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../P02.rst:655
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89f4fcbb-86a8-475f-a547-d59014bb7a98.jpg?1562927549|https://scryfall.com/card/p02/163/forest?utm_source=api>`"
@@ -1189,4 +1225,4 @@ msgstr ""
 
 #: ../../P02.rst:655
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"

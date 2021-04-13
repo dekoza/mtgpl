@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:12+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-13 17:36+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cm1/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../CM1.rst:5
 msgid ":mtgexp:`CM1` Commander's Arsenal"
@@ -34,7 +36,7 @@ msgstr ""
 
 #: ../../CM1.rst:13
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../CM1.rst:22
 msgid ":mtgtip:`Decree of Pain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03c37c68-cccf-4309-80c5-828108b942a4.jpg?1569957295|https://scryfall.com/card/cm1/3/decree-of-pain?utm_source=api>`"
@@ -47,6 +49,8 @@ msgstr ""
 #: ../../CM1.rst:19
 msgid "Cycling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
+"odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../CM1.rst:21
 msgid "When you cycle Decree of Pain, all creatures get -2/-2 until end of turn."
@@ -59,6 +63,9 @@ msgstr ""
 #: ../../CM1.rst:25
 msgid "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jeśli w ten sposób został skontrowany czar artefaktu "
+"lub stwora, umieść ową kartę na polu bitwy pod twoim władaniem zamiast "
+"umieszczać ją w cmentarzu właściciela."
 
 #: ../../CM1.rst:30
 msgid ":mtgtip:`Diaochan, Artful Beauty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d5da41e-61a2-41fd-9d8e-83d51234cc71.jpg?1568580278|https://scryfall.com/card/cm1/5/diaochan-artful-beauty?utm_source=api>`"
@@ -74,7 +81,7 @@ msgstr ""
 
 #: ../../CM1.rst:33
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../CM1.rst:35
 msgid "Whenever an opponent casts a spell, create a 1/1 green Insect creature token."
@@ -87,10 +94,15 @@ msgstr ""
 #: ../../CM1.rst:39
 msgid "Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature."
 msgstr ""
+"Odlew — Kiedy ten stwór wejdzie na pole bitwy możesz wygnać wskazanego "
+"nieżetonowego stwora."
 
 #: ../../CM1.rst:41
 msgid "As long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter."
 msgstr ""
+"O ile karta wygnana tym stworem jest kartą stwora, niniejszy stwór ma jej "
+"siłę, wytrzymałość i typy stwora ostatnio wygnanej przez siebie karty "
+"stwora. Nadal jest Przemieńcem."
 
 #: ../../CM1.rst:46
 msgid ":mtgtip:`Edric, Spymaster of Trest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5f1e96a-9fa0-4a76-962d-9dcde253172f.jpg?1568580282|https://scryfall.com/card/cm1/8/edric-spymaster-of-trest?utm_source=api>`"
@@ -106,11 +118,14 @@ msgstr ""
 
 #: ../../CM1.rst:49
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../CM1.rst:51
 msgid "Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent."
 msgstr ""
+"Ilekroć ten stwór zaatakuje przeciwnika, możesz umieść na polu bitwy kartę "
+"Anioła, Demona lub Smoka z twojej ręki przekręconą i atakującą owego "
+"przeciwnika."
 
 #: ../../CM1.rst:56
 msgid ":mtgtip:`Loyal Retainers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b573ef7-4fce-44d6-91ec-48a62be8d21c.jpg?1568580345|https://scryfall.com/card/cm1/10/loyal-retainers?utm_source=api>`"
@@ -126,11 +141,15 @@ msgstr ""
 
 #: ../../CM1.rst:59
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 #: ../../CM1.rst:61
 msgid "Cascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)"
 msgstr ""
+"Kaskada, kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej "
+"biblioteki aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie "
+"twojej biblioteki. Następnie zrób to jeszcze raz.)"
 
 #: ../../CM1.rst:66
 msgid ":mtgtip:`The Mimeoplasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96bddc7e-6dab-4ea8-a474-ed9b28ff1457.jpg?1568580404|https://scryfall.com/card/cm1/12/the-mimeoplasm?utm_source=api>`"
@@ -154,11 +173,13 @@ msgstr ""
 
 #: ../../CM1.rst:73
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../CM1.rst:75
 msgid "Whenever you tap a land for mana, add one mana of any type that land produced."
 msgstr ""
+"Ilekroć przekręcisz ląd biorąc manę, weź jedną manę w jednym z typów "
+"wyprodukowanych przez ów ląd."
 
 #: ../../CM1.rst:80
 msgid ":mtgtip:`Rhystic Study<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03ac9b21-8c79-49ec-a0df-0fd22e4a0ed7.jpg?1592487897|https://scryfall.com/card/cm1/15/rhystic-study?utm_source=api>`"
@@ -167,6 +188,8 @@ msgstr ""
 #: ../../CM1.rst:79
 msgid "Whenever an opponent casts a spell, you may draw a card unless that player pays |mana_1|."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, możesz dobrać kartę, chyba że ów gracz "
+"zapłaci |mana_1|."
 
 #: ../../CM1.rst:84
 msgid ":mtgtip:`Scroll Rack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47a832ae-0a8d-4710-8341-a1b3e3dbf763.jpg?1568580402|https://scryfall.com/card/cm1/16/scroll-rack?utm_source=api>`"
@@ -183,6 +206,9 @@ msgstr ""
 #: ../../CM1.rst:87
 msgid "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
 msgstr ""
+"Na początku twojego kroku dobierania, możesz dobrać dwie dodatkowe karty. "
+"Jeśli tak zrobisz, wybierz dwie karty dobrane w tej turze w twojej ręce. Za "
+"każdą z nich zapłać 4 życia lub umieść ją na wierzchu twojej biblioteki."
 
 #: ../../CM1.rst:95
 msgid ":mtgtip:`Vela the Night-Clad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad3b9760-4bc7-4e69-8795-ff9abba11162.jpg?1568580405|https://scryfall.com/card/cm1/18/vela-the-night-clad?utm_source=api>`"
@@ -191,11 +217,15 @@ msgstr ""
 #: ../../CM1.rst:91
 msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../CM1.rst:93
 msgid "Other creatures you control have intimidate."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają zastraszanie."
 
 #: ../../CM1.rst:95
 msgid "Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life."
 msgstr ""
+"Ilekroć ten lub inny stwór pod twoim władaniem opuści pole bitwy, każdy "
+"przeciwnik traci po 1 życiu."
