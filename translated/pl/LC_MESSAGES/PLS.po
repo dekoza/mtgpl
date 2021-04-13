@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pls/pl/>\n"
 "Language: pl\n"
@@ -605,6 +605,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player returns a creature "
 "they control to its owner's hand."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz przywraca stwora pod "
+"swoim władaniem do ręki właściciela."
 
 #: ../../PLS.rst:220
 msgid ""
@@ -711,13 +713,15 @@ msgstr ""
 
 #: ../../PLS.rst:249
 msgid "Other Zombie creatures get +1/+1."
-msgstr ""
+msgstr "Inne Zombi dostają +1/+1."
 
 #: ../../PLS.rst:251
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Return target Zombie card from your graveyard to "
 "your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Przywróć wskazaną kartę Zombi z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../PLS.rst:256
 msgid ""

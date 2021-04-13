@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -1187,6 +1187,10 @@ msgid ""
 "change \"nonblack creature\" to \"nongreen creature\" or \"forestwalk\" to "
 "\"islandwalk.\" This effect lasts indefinitely.)"
 msgstr ""
+"Zmień tekst wskazanego permanentu zamieniając wszystkie wystąpienia jednego "
+"słowa określającego kolor innym lub jeden typ bazowego lądu innym. (Np. "
+"możesz zamienić \"nieczarny stwór\" na \"niezielony stwór\" albo \"podbój "
+"lasów\" na \"podbój wysp\". Ten efekt jet trwały.)"
 
 #: ../../8ED.rst:456
 msgid ""
@@ -1309,6 +1313,8 @@ msgid ""
 "Sacrifice Spiketail Hatchling: Counter target spell unless its controller "
 "pays |mana_1|."
 msgstr ""
+"Poświęć tego stwora: Skontruj wskazany czar, chyba że jego władca zapłaci "
+"|mana_1|."
 
 #: ../../8ED.rst:504
 msgid ""
@@ -1365,7 +1371,7 @@ msgstr ""
 
 #: ../../8ED.rst:521
 msgid "Whenever Thieving Magpie deals damage to an opponent, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada przeciwnikowi obrażenia, dobierz kartę."
 
 #: ../../8ED.rst:526
 msgid ""
@@ -1413,7 +1419,7 @@ msgstr ""
 
 #: ../../8ED.rst:539
 msgid "You may tap or untap target artifact, creature, or land."
-msgstr ""
+msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
 #: ../../8ED.rst:544
 msgid ""
@@ -1741,6 +1747,7 @@ msgid ""
 "Whenever a creature you control dies, each other player sacrifices a "
 "creature."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, każdy inny gracz poświęca stwora."
 
 #: ../../8ED.rst:664
 msgid ""
@@ -1790,13 +1797,15 @@ msgstr ""
 
 #: ../../8ED.rst:675
 msgid "Other Zombie creatures get +1/+1."
-msgstr ""
+msgstr "Inne Zombi dostają +1/+1."
 
 #: ../../8ED.rst:677
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Return target Zombie card from your graveyard to "
 "your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Przywróć wskazaną kartę Zombi z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../8ED.rst:682
 msgid ""
@@ -1974,6 +1983,7 @@ msgstr ""
 #: ../../8ED.rst:739
 msgid "Destroy all creatures you don't control. They can't be regenerated."
 msgstr ""
+"Zniszcz wszystkie stwory poza twoim władaniem. Nie mogą one regenerować."
 
 #: ../../8ED.rst:744
 msgid ""
@@ -2079,7 +2089,7 @@ msgstr ""
 
 #: ../../8ED.rst:781
 msgid "Target player loses 4 life and you gain 4 life."
-msgstr ""
+msgstr "Wskazany gracz traci 4 życia, a ty zyskaj 4 życia."
 
 #: ../../8ED.rst:786
 msgid ""
@@ -2090,7 +2100,7 @@ msgstr ""
 
 #: ../../8ED.rst:785
 msgid "Spineless Thug can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../8ED.rst:790
 msgid ""

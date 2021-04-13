@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lgn/pl/>\n"
 "Language: pl\n"
@@ -1095,6 +1095,8 @@ msgid ""
 "At the beginning of your upkeep, you draw X cards and you lose X life, where "
 "X is the number of Zombies you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, dobierz X kart i strać X żyć, gdzie X "
+"jest liczbą Zombi pod twoim władaniem."
 
 #: ../../LGN.rst:404
 msgid ""
@@ -1159,17 +1161,22 @@ msgid ""
 "When Phage the Untouchable enters the battlefield, if you didn't cast it "
 "from your hand, you lose the game."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie rzuciłeś go ze swojej ręki, "
+"przegrywasz grę."
 
 #: ../../LGN.rst:425
 msgid ""
 "Whenever Phage deals combat damage to a creature, destroy that creature. It "
 "can't be regenerated."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia, zniszcz owego stwora. Nie może on "
+"regenerować."
 
 #: ../../LGN.rst:427
 msgid ""
 "Whenever Phage deals combat damage to a player, that player loses the game."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz przegrywa grę."
 
 #: ../../LGN.rst:436
 msgid ""

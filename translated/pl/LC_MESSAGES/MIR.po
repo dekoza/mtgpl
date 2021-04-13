@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -1104,7 +1104,7 @@ msgstr ""
 
 #: ../../MIR.rst:391
 msgid "You may tap or untap target artifact, creature, or land."
-msgstr ""
+msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
 #: ../../MIR.rst:398
 msgid ""
@@ -1220,6 +1220,10 @@ msgid ""
 "change \"nonblack creature\" to \"nongreen creature\" or \"forestwalk\" to "
 "\"islandwalk.\" This effect lasts indefinitely.)"
 msgstr ""
+"Zmień tekst wskazanego permanentu zamieniając wszystkie wystąpienia jednego "
+"słowa określającego kolor innym lub jeden typ bazowego lądu innym. (Np. "
+"możesz zamienić \"nieczarny stwór\" na \"niezielony stwór\" albo \"podbój "
+"lasów\" na \"podbój wysp\". Ten efekt jet trwały.)"
 
 #: ../../MIR.rst:436
 msgid ""

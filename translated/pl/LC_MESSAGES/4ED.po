@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
 "Language: pl\n"
@@ -1582,7 +1582,7 @@ msgstr ""
 
 #: ../../4ED.rst:561
 msgid "You may tap or untap target artifact, creature, or land."
-msgstr ""
+msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
 #: ../../4ED.rst:570
 msgid ""
@@ -2310,6 +2310,8 @@ msgstr ""
 #: ../../4ED.rst:831
 msgid "Destroy target nonartifact, nonblack creature. It can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego nieartefaktowego, nieczarnego stwora. Nie może on "
+"regenerować."
 
 #: ../../4ED.rst:836
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -1910,17 +1910,22 @@ msgid ""
 "When Phage the Untouchable enters the battlefield, if you didn't cast it "
 "from your hand, you lose the game."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie rzuciłeś go ze swojej ręki, "
+"przegrywasz grę."
 
 #: ../../CNS.rst:661
 msgid ""
 "Whenever Phage deals combat damage to a creature, destroy that creature. It "
 "can't be regenerated."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia, zniszcz owego stwora. Nie może on "
+"regenerować."
 
 #: ../../CNS.rst:663
 msgid ""
 "Whenever Phage deals combat damage to a player, that player loses the game."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz przegrywa grę."
 
 #: ../../CNS.rst:668
 msgid ""
@@ -2013,7 +2018,7 @@ msgstr ""
 
 #: ../../CNS.rst:693
 msgid "Each player loses 1 life for each creature they control."
-msgstr ""
+msgstr "Każdy gracz traci po 1 życiu za każdego stwora pod swoim władaniem."
 
 #: ../../CNS.rst:698
 msgid ""

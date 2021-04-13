@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -1201,6 +1201,9 @@ msgid ""
 "each equal to its converted mana cost. (Equipment that's a creature can't "
 "equip a creature.)"
 msgstr ""
+"Każdy niestworowy artefakt jest artefaktowym stworem o sile i wytrzymałości "
+"równych swojemu skrótowi many każda. (Wyposażenie będące stworem nie może "
+"wyposażać stwora.)"
 
 #: ../../10E.rst:430
 msgid ""
@@ -1227,6 +1230,10 @@ msgid ""
 "change \"nonblack creature\" to \"nongreen creature\" or \"forestwalk\" to "
 "\"islandwalk.\" This effect lasts indefinitely.)"
 msgstr ""
+"Zmień tekst wskazanego permanentu zamieniając wszystkie wystąpienia jednego "
+"słowa określającego kolor innym lub jeden typ bazowego lądu innym. (Np. "
+"możesz zamienić \"nieczarny stwór\" na \"niezielony stwór\" albo \"podbój "
+"lasów\" na \"podbój wysp\". Ten efekt jet trwały.)"
 
 #: ../../10E.rst:440
 msgid ""
@@ -1237,7 +1244,7 @@ msgstr ""
 
 #: ../../10E.rst:437
 msgid "Look at target player's hand."
-msgstr ""
+msgstr "Spójrz na rękę wskazanego gracza."
 
 #: ../../10E.rst:446
 msgid ""
@@ -1273,6 +1280,8 @@ msgid ""
 "Until end of turn, if target player would draw a card, instead that player "
 "skips that draw and you draw a card."
 msgstr ""
+"Do końca tury, jeśli wskazany gracz miałby dobrać kartę, zamiast tego ów "
+"gracz pomija owe dobranie, a ty dobierasz kartę."
 
 #: ../../10E.rst:458
 msgid ""
@@ -1319,6 +1328,8 @@ msgid ""
 "Enchanted creature has shroud. (It can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Zauroczony stwór ma antymagię. (Nie może być wskazywany przez czary i "
+"zdolności.)"
 
 #: ../../10E.rst:476
 msgid ""
@@ -1346,7 +1357,7 @@ msgstr ""
 msgid ""
 "|tap|: Gain control of target creature for as long as that creature is "
 "enchanted."
-msgstr ""
+msgstr "|tap|: Zyskaj władanie nad wskazanym tworem dopóki jest on zauroczony."
 
 #: ../../10E.rst:486
 msgid ""
@@ -1376,6 +1387,9 @@ msgid ""
 "top four cards of their library. If two or more of those cards have the same "
 "name, repeat this process."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania cztery "
+"wierzchnie karty swojej biblioteki. Jeśli co najmniej dwie z nich mają tę "
+"samą nazwę, powtórz ten proces."
 
 #: ../../10E.rst:496
 msgid ""
@@ -1405,7 +1419,7 @@ msgstr ""
 
 #: ../../10E.rst:503
 msgid "|mana_u|: Return Shimmering Wings to its owner's hand."
-msgstr ""
+msgstr "|mana_u|: Przywróć ten urok do ręki właściciela."
 
 #: ../../10E.rst:508
 msgid ""
@@ -1430,6 +1444,8 @@ msgid ""
 "|mana_2|: Target white or black creature gains flying until end of turn. (It "
 "can't be blocked except by creatures with flying or reach.)"
 msgstr ""
+"|mana_2|: Wskazany biały lub czarny stwór zyskuje do końca tury latanie. ("
+"Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../10E.rst:516
 msgid ""
@@ -1450,6 +1466,8 @@ msgid ""
 "Sacrifice Spiketail Hatchling: Counter target spell unless its controller "
 "pays |mana_1|."
 msgstr ""
+"Poświęć tego stwora: Skontruj wskazany czar, chyba że jego władca zapłaci "
+"|mana_1|."
 
 #: ../../10E.rst:526
 msgid ""
@@ -1463,6 +1481,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player returns a creature "
 "they control to its owner's hand."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz przywraca stwora pod "
+"swoim władaniem do ręki właściciela."
 
 #: ../../10E.rst:530
 msgid ""
@@ -1500,7 +1520,7 @@ msgstr ""
 
 #: ../../10E.rst:539
 msgid "Whenever Thieving Magpie deals damage to an opponent, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada przeciwnikowi obrażenia, dobierz kartę."
 
 #: ../../10E.rst:544
 msgid ""
@@ -1540,7 +1560,7 @@ msgstr ""
 
 #: ../../10E.rst:551
 msgid "Target player takes two extra turns after this one."
-msgstr ""
+msgstr "Wskazany gracz bierze dwie dodatkowe tury po niniejszej."
 
 #: ../../10E.rst:556
 msgid ""
@@ -1577,7 +1597,7 @@ msgstr ""
 
 #: ../../10E.rst:563
 msgid "You may tap or untap target artifact, creature, or land."
-msgstr ""
+msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
 #: ../../10E.rst:570
 msgid ""
@@ -1601,6 +1621,8 @@ msgstr ""
 msgid ""
 "|mana_u|, |tap|: Return target permanent you control to its owner's hand."
 msgstr ""
+"|mana_u|, |tap|: Przywróć wskazany permanent pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../10E.rst:578
 msgid ""
@@ -1652,11 +1674,11 @@ msgstr ""
 
 #: ../../10E.rst:593
 msgid "Other black creatures get +1/+1."
-msgstr ""
+msgstr "Inne czarne stwory dostają +1/+1."
 
 #: ../../10E.rst:595
 msgid "Nonblack creatures get -1/-1."
-msgstr ""
+msgstr "Nieczarne stwory dostają -1/-1."
 
 #: ../../10E.rst:600
 msgid ""
@@ -1725,6 +1747,7 @@ msgstr ""
 msgid ""
 "Whenever enchanted creature attacks or blocks, its controller loses 3 life."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje lub zablokuje, jego władca traci 3 życia."
 
 #: ../../10E.rst:624
 msgid ""
@@ -1858,7 +1881,7 @@ msgstr ""
 #: ../../10E.rst:665
 msgid ""
 "When Festering Goblin dies, target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../10E.rst:670
 msgid ""
@@ -1872,6 +1895,7 @@ msgid ""
 "Whenever a creature you control dies, each other player sacrifices a "
 "creature."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, każdy inny gracz poświęca stwora."
 
 #: ../../10E.rst:674
 msgid ""
@@ -1885,6 +1909,8 @@ msgid ""
 "At the beginning of your upkeep, you draw X cards and you lose X life, where "
 "X is the number of Zombies you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, dobierz X kart i strać X żyć, gdzie X "
+"jest liczbą Zombi pod twoim władaniem."
 
 #: ../../10E.rst:678
 msgid ""
@@ -1911,6 +1937,7 @@ msgstr ""
 #: ../../10E.rst:681
 msgid "|mana_2|: Target blue or red creature gets +1/+0 until end of turn."
 msgstr ""
+"|mana_2|: Wskazany niebieski lub czerwony stwór dostaje do końca tury +1/+0."
 
 #: ../../10E.rst:686
 msgid ""
@@ -1925,6 +1952,9 @@ msgid ""
 "Search that player's library for that many cards. The player puts those "
 "cards into their hand, then shuffles their library."
 msgstr ""
+"Wskazany przeciwnik umieszcza karty w swojej ręce na wierzchu swojej "
+"biblioteki. Wyszukaj w bibliotece owego gracza tyle samo kart. Ów gracz "
+"umieszcza owe karty w swojej ręce, po czym tasuje."
 
 #: ../../10E.rst:690
 msgid ""
@@ -1938,6 +1968,8 @@ msgid ""
 "When Hidden Horror enters the battlefield, sacrifice it unless you discard a "
 "creature card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz kartę "
+"stwora."
 
 #: ../../10E.rst:694
 msgid ""
@@ -1951,6 +1983,8 @@ msgid ""
 "When Highway Robber enters the battlefield, target opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a "
+"ty zyskaj 2 życia."
 
 #: ../../10E.rst:700
 msgid ""
@@ -1977,6 +2011,8 @@ msgstr ""
 #: ../../10E.rst:703
 msgid "|mana_b|\\ |mana_b|: Destroy target creature blocking Knight of Dusk."
 msgstr ""
+"|mana_b|\\ |mana_b|: Zniszcz wskazanego stwora blokującego niniejszego "
+"stwora."
 
 #: ../../10E.rst:708
 msgid ""
@@ -2017,13 +2053,15 @@ msgstr ""
 
 #: ../../10E.rst:717
 msgid "Other Zombie creatures get +1/+1."
-msgstr ""
+msgstr "Inne Zombi dostają +1/+1."
 
 #: ../../10E.rst:719
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Return target Zombie card from your graveyard to "
 "your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Przywróć wskazaną kartę Zombi z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../10E.rst:722
 msgid ""
@@ -2057,6 +2095,8 @@ msgid ""
 "Exile X target creature cards from your graveyard. For each creature card "
 "exiled this way, create a 2/2 black Zombie creature token."
 msgstr ""
+"Wygnaj X wskazanych kart stworów z twojego cmentarza. Za każdą kartę stwora "
+"wygnaną w ten sposób, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../10E.rst:736
 msgid ""
@@ -2081,6 +2121,8 @@ msgid ""
 "At the beginning of your upkeep, if twenty or more creature cards are in "
 "your graveyard, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu jest co "
+"najmniej dwadzieścia kart, wygrywasz grę."
 
 #: ../../10E.rst:746
 msgid ""
@@ -2094,10 +2136,12 @@ msgid ""
 "Mortivore's power and toughness are each equal to the number of creature "
 "cards in all graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów we "
+"wszystkich cmentarzach."
 
 #: ../../10E.rst:745
 msgid "|mana_b|: Regenerate Mortivore."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../10E.rst:750
 msgid ""
@@ -2165,17 +2209,22 @@ msgid ""
 "When Phage the Untouchable enters the battlefield, if you didn't cast it "
 "from your hand, you lose the game."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie rzuciłeś go ze swojej ręki, "
+"przegrywasz grę."
 
 #: ../../10E.rst:771
 msgid ""
 "Whenever Phage deals combat damage to a creature, destroy that creature. It "
 "can't be regenerated."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia, zniszcz owego stwora. Nie może on "
+"regenerować."
 
 #: ../../10E.rst:773
 msgid ""
 "Whenever Phage deals combat damage to a player, that player loses the game."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz przegrywa grę."
 
 #: ../../10E.rst:778
 msgid ""
@@ -2207,6 +2256,7 @@ msgstr ""
 #: ../../10E.rst:785
 msgid "Destroy all creatures you don't control. They can't be regenerated."
 msgstr ""
+"Zniszcz wszystkie stwory poza twoim władaniem. Nie mogą one regenerować."
 
 #: ../../10E.rst:790
 msgid ""
@@ -2322,10 +2372,13 @@ msgid ""
 "When Sleeper Agent enters the battlefield, target opponent gains control of "
 "it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik zyskuje nad nim "
+"władanie."
 
 #: ../../10E.rst:829
 msgid "At the beginning of your upkeep, Sleeper Agent deals 2 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje tobie 2 obrażenia."
 
 #: ../../10E.rst:834
 msgid ""
@@ -2336,7 +2389,7 @@ msgstr ""
 
 #: ../../10E.rst:833
 msgid "Target player loses 4 life and you gain 4 life."
-msgstr ""
+msgstr "Wskazany gracz traci 4 życia, a ty zyskaj 4 życia."
 
 #: ../../10E.rst:838
 msgid ""
@@ -2347,7 +2400,7 @@ msgstr ""
 
 #: ../../10E.rst:837
 msgid "Spineless Thug can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../10E.rst:842
 msgid ""
@@ -2358,7 +2411,7 @@ msgstr ""
 
 #: ../../10E.rst:841
 msgid "Each player loses 1 life for each creature they control."
-msgstr ""
+msgstr "Każdy gracz traci po 1 życiu za każdego stwora pod swoim władaniem."
 
 #: ../../10E.rst:846
 msgid ""
@@ -2370,6 +2423,8 @@ msgstr ""
 #: ../../10E.rst:845
 msgid "Destroy target nonartifact, nonblack creature. It can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego nieartefaktowego, nieczarnego stwora. Nie może on "
+"regenerować."
 
 #: ../../10E.rst:850
 msgid ""

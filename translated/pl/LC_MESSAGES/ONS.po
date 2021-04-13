@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -2227,7 +2227,7 @@ msgstr ""
 #: ../../ONS.rst:809
 msgid ""
 "When Festering Goblin dies, target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../ONS.rst:816
 msgid ""
@@ -2340,6 +2340,9 @@ msgid ""
 "Search that player's library for that many cards. The player puts those "
 "cards into their hand, then shuffles their library."
 msgstr ""
+"Wskazany przeciwnik umieszcza karty w swojej ręce na wierzchu swojej "
+"biblioteki. Wyszukaj w bibliotece owego gracza tyle samo kart. Ów gracz "
+"umieszcza owe karty w swojej ręce, po czym tasuje."
 
 #: ../../ONS.rst:850
 msgid ""
