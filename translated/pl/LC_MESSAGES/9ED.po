@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 15:35+0000\n"
+"PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -1684,6 +1684,8 @@ msgid ""
 "Enchanted creature has fear. (It can't be blocked except by artifact "
 "creatures and/or black creatures.)"
 msgstr ""
+"Zauroczony stwór ma postrach. (Nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../9ED.rst:616
 msgid ""
@@ -1740,7 +1742,7 @@ msgid ""
 "Fear (This creature can't be blocked except by artifact creatures and/or "
 "black creatures.)"
 msgstr ""
-"Straszny (Ten stwór nie może być blokowany, chyba że przez stwory "
+"Postrach (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktowe lub czarne.)"
 
 #: ../../9ED.rst:638
@@ -3982,7 +3984,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../9ED.rst:1437
 msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../9ED.rst:1444
 msgid ""
@@ -4005,7 +4007,7 @@ msgstr ""
 
 #: ../../9ED.rst:1449
 msgid "|tap|: Add |mana_g| or |mana_w|. Brushland deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../9ED.rst:1456
 msgid ""
@@ -4028,7 +4030,7 @@ msgstr ""
 #: ../../9ED.rst:1461
 msgid ""
 "|tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../9ED.rst:1468
 msgid ""
@@ -4053,6 +4055,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
+"końca tury -1/-2."
 
 #: ../../9ED.rst:1480
 msgid ""
@@ -4075,7 +4079,7 @@ msgstr ""
 #: ../../9ED.rst:1485
 msgid ""
 "|tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../9ED.rst:1492
 msgid ""
@@ -4087,7 +4091,7 @@ msgstr ""
 #: ../../9ED.rst:1491
 msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../9ED.rst:1496
 msgid ""

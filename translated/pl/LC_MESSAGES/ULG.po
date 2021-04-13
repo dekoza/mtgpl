@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 15:36+0000\n"
+"PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ulg/pl/>\n"
 "Language: pl\n"
@@ -942,6 +942,8 @@ msgid ""
 "Enchanted creature has fear. (It can't be blocked except by artifact "
 "creatures and/or black creatures.)"
 msgstr ""
+"Zauroczony stwór ma postrach. (Nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../ULG.rst:343
 msgid ""
@@ -1964,7 +1966,7 @@ msgstr ""
 
 #: ../../ULG.rst:711
 msgid "Faerie Conclave enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ULG.rst:713
 msgid "|tap|: Add |mana_u|."
@@ -1975,6 +1977,8 @@ msgid ""
 "|mana_1|\\ |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with "
 "flying until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_u|: Ten ląd do końca tury staje się niebieskim stworem "
+"Wróżka 2/1 z lataniem. Nadal jest lądem."
 
 #: ../../ULG.rst:724
 msgid ""
@@ -1985,7 +1989,7 @@ msgstr ""
 
 #: ../../ULG.rst:719
 msgid "Forbidding Watchtower enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ULG.rst:721
 msgid "|tap|: Add |mana_w|."
@@ -1996,6 +2000,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Forbidding Watchtower becomes a 1/5 white Soldier "
 "creature until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_w|: Ten ląd do końca tury staje się białym stworem Piechur "
+"1/5. Nadal jest lądem."
 
 #: ../../ULG.rst:732
 msgid ""
@@ -2006,7 +2012,7 @@ msgstr ""
 
 #: ../../ULG.rst:727
 msgid "Ghitu Encampment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ULG.rst:729
 msgid "|tap|: Add |mana_r|."
@@ -2018,6 +2024,9 @@ msgid ""
 "with first strike until end of turn. It's still a land. (It deals combat "
 "damage before creatures without first strike.)"
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten ląd do końca tury staje się czerwonym stworem "
+"Wojownik 2/1 z pierwszym ciosem. Nadal jest lądem. (Zadaje obrażenia bojowe "
+"przed stworami bez pierwszego ciosu.)"
 
 #: ../../ULG.rst:740
 msgid ""
@@ -2028,7 +2037,7 @@ msgstr ""
 
 #: ../../ULG.rst:735
 msgid "Spawning Pool enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ULG.rst:737
 msgid "|tap|: Add |mana_b|."
@@ -2041,6 +2050,11 @@ msgid ""
 "land. (If it regenerates, the next time it would be destroyed this turn, it "
 "isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
+"|mana_1|\\ |mana_b|: Ten ląd do końca tury staje się czarnym stworem "
+"Szkielet 1/1 mającym \"|mana_b|: Zregeneruj tego stwora.\" Nadal jest lądem. "
+"(Jeśli zregeneruje, następnym razem gdy miałby zostać zniszczony w tej "
+"turze, nie jest. Zamiast tego przekręć go, usuń z niego wszystkie obrażenia "
+"i usuń go z potyczki.)"
 
 #: ../../ULG.rst:747
 msgid ""
@@ -2051,7 +2065,7 @@ msgstr ""
 
 #: ../../ULG.rst:743
 msgid "Treetop Village enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ULG.rst:745
 msgid "|tap|: Add |mana_g|."
@@ -2063,3 +2077,6 @@ msgid ""
 "trample until end of turn. It's still a land. (It can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten ląd do końca tury staje się zielonym stworem Małpa "
+"3/3 z tratowaniem. Nadal jest lądem. (Może zadać nadmiarowe obrażenia bojowe "
+"atakowanemu graczowi lub wędrowcowi.)"

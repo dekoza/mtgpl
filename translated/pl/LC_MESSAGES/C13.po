@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 11:18+0000\n"
+"PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -5170,7 +5170,7 @@ msgstr ""
 # 75544904da4d4ab4ac47177be7f858e0
 #: ../../C13.rst:1649
 msgid "Faerie Conclave enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C13.rst:1651 ../../C13.rst:1769 ../../C13.rst:1973
 msgid "|tap|: Add |mana_u|."
@@ -5181,6 +5181,8 @@ msgid ""
 "|mana_1|\\ |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with "
 "flying until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_u|: Ten ląd do końca tury staje się niebieskim stworem "
+"Wróżka 2/1 z lataniem. Nadal jest lądem."
 
 #: ../../C13.rst:1662
 msgid ""

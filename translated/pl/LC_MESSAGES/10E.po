@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 15:39+0000\n"
+"PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -321,6 +321,8 @@ msgstr ""
 msgid ""
 "Prevent all damage that would be dealt to and dealt by enchanted creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia jakie mogłyby zostać zadane zauroczonemu "
+"stworowi oraz przez niego."
 
 #: ../../10E.rst:102
 msgid ""
@@ -1870,6 +1872,8 @@ msgid ""
 "Enchanted creature has fear. (It can't be blocked except by artifact "
 "creatures and/or black creatures.)"
 msgstr ""
+"Zauroczony stwór ma postrach. (Nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../10E.rst:666
 msgid ""
@@ -2196,6 +2200,8 @@ msgid ""
 "Sacrifice No Rest for the Wicked: Return to your hand all creature cards in "
 "your graveyard that were put there from the battlefield this turn."
 msgstr ""
+"Poświęć ten urok: Przywróć do twojej ręki wszystkie karty stworów z twojego "
+"cmentarza, które trafiły tam w tej turze z pola bitwy."
 
 #: ../../10E.rst:774
 msgid ""
@@ -2357,7 +2363,7 @@ msgid ""
 "Fear (This creature can't be blocked except by artifact creatures and/or "
 "black creatures.)"
 msgstr ""
-"Straszny (Ten stwór nie może być blokowany, chyba że przez stwory "
+"Postrach (Ten stwór nie może być blokowany, chyba że przez stwory "
 "artefaktowe lub czarne.)"
 
 #: ../../10E.rst:830
@@ -3302,6 +3308,10 @@ msgid ""
 "kind. Put that card into your hand and put all other cards revealed this way "
 "on the bottom of your library in any order."
 msgstr ""
+"Jeśli miałbyś dobrać kartę, możesz zamiast tego wybrać ląd lub nie-ląd u "
+"ujawnić karty z wierzchu twojej biblioteki aż ujawnisz kartę wybranego "
+"rodzaju. Umieść ową kartę w twojej ręce i umieść pozostałe karty ujawnione w "
+"ten sposób dowolnie na spodzie twojej biblioteki."
 
 #: ../../10E.rst:1156
 msgid ""
@@ -4429,12 +4439,16 @@ msgid ""
 "|mana_2|: Mantis Engine gains flying until end of turn. (It can't be blocked "
 "except by creatures with flying or reach.)"
 msgstr ""
+"|mana_2|: Ten stwór zyskuje do końca tury latanie. (Nie może być blokowany, "
+"chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../10E.rst:1527
 msgid ""
 "|mana_2|: Mantis Engine gains first strike until end of turn. (It deals "
 "combat damage before creatures without first strike.)"
 msgstr ""
+"|mana_2|: Ten stwór zyskuje do końca tury pierwszy cios. (Zadaje obrażenia "
+"bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../10E.rst:1532
 msgid ""
@@ -4524,12 +4538,16 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Razormane Masticore unless you "
 "discard a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"odrzucisz kartę."
 
 #: ../../10E.rst:1565
 msgid ""
 "At the beginning of your draw step, you may have Razormane Masticore deal 3 "
 "damage to target creature."
 msgstr ""
+"Na początku twojego kroku dobierania, możesz sprawić, że ten stwór zada "
+"wskazanemu stworowi 3 obrażenia."
 
 #: ../../10E.rst:1570
 msgid ""
@@ -4577,7 +4595,7 @@ msgstr ""
 
 #: ../../10E.rst:1581
 msgid "You can't cast creature spells."
-msgstr ""
+msgstr "Nie możesz rzucać czarów stworów."
 
 #: ../../10E.rst:1588
 msgid ""
@@ -4618,7 +4636,7 @@ msgstr ""
 
 #: ../../10E.rst:1597
 msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../10E.rst:1604
 msgid ""
@@ -4641,7 +4659,7 @@ msgstr ""
 
 #: ../../10E.rst:1609
 msgid "|tap|: Add |mana_g| or |mana_w|. Brushland deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../10E.rst:1616
 msgid ""
@@ -4663,7 +4681,7 @@ msgstr ""
 
 #: ../../10E.rst:1619
 msgid "Faerie Conclave enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../10E.rst:1621
 msgid "|tap|: Add |mana_u|."
@@ -4674,6 +4692,8 @@ msgid ""
 "|mana_1|\\ |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with "
 "flying until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_u|: Ten ląd do końca tury staje się niebieskim stworem "
+"Wróżka 2/1 z lataniem. Nadal jest lądem."
 
 #: ../../10E.rst:1632
 msgid ""
@@ -4684,7 +4704,7 @@ msgstr ""
 
 #: ../../10E.rst:1627
 msgid "Forbidding Watchtower enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../10E.rst:1629
 msgid "|tap|: Add |mana_w|."
@@ -4695,6 +4715,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Forbidding Watchtower becomes a 1/5 white Soldier "
 "creature until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_w|: Ten ląd do końca tury staje się białym stworem Piechur "
+"1/5. Nadal jest lądem."
 
 #: ../../10E.rst:1640
 msgid ""
@@ -4705,7 +4727,7 @@ msgstr ""
 
 #: ../../10E.rst:1635
 msgid "Ghitu Encampment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../10E.rst:1637
 msgid "|tap|: Add |mana_r|."
@@ -4717,6 +4739,9 @@ msgid ""
 "with first strike until end of turn. It's still a land. (It deals combat "
 "damage before creatures without first strike.)"
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten ląd do końca tury staje się czerwonym stworem "
+"Wojownik 2/1 z pierwszym ciosem. Nadal jest lądem. (Zadaje obrażenia bojowe "
+"przed stworami bez pierwszego ciosu.)"
 
 #: ../../10E.rst:1646
 msgid ""
@@ -4728,7 +4753,7 @@ msgstr ""
 #: ../../10E.rst:1645
 msgid ""
 "|tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../10E.rst:1652
 msgid ""
@@ -4753,6 +4778,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
+"końca tury -1/-2."
 
 #: ../../10E.rst:1664
 msgid ""
@@ -4774,7 +4801,7 @@ msgstr ""
 
 #: ../../10E.rst:1667
 msgid "Spawning Pool enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../10E.rst:1669
 msgid "|tap|: Add |mana_b|."
@@ -4787,6 +4814,11 @@ msgid ""
 "land. (If it regenerates, the next time it would be destroyed this turn, it "
 "isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
+"|mana_1|\\ |mana_b|: Ten ląd do końca tury staje się czarnym stworem "
+"Szkielet 1/1 mającym \"|mana_b|: Zregeneruj tego stwora.\" Nadal jest lądem. "
+"(Jeśli zregeneruje, następnym razem gdy miałby zostać zniszczony w tej "
+"turze, nie jest. Zamiast tego przekręć go, usuń z niego wszystkie obrażenia "
+"i usuń go z potyczki.)"
 
 #: ../../10E.rst:1678
 msgid ""
@@ -4798,7 +4830,7 @@ msgstr ""
 #: ../../10E.rst:1677
 msgid ""
 "|tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../10E.rst:1682
 msgid ""
@@ -4824,7 +4856,7 @@ msgstr ""
 
 #: ../../10E.rst:1685
 msgid "Treetop Village enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../10E.rst:1689
 msgid ""
@@ -4832,6 +4864,9 @@ msgid ""
 "trample until end of turn. It's still a land. (It can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten ląd do końca tury staje się zielonym stworem Małpa "
+"3/3 z tratowaniem. Nadal jest lądem. (Może zadać nadmiarowe obrażenia bojowe "
+"atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../10E.rst:1696
 msgid ""
@@ -4843,7 +4878,7 @@ msgstr ""
 #: ../../10E.rst:1695
 msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../10E.rst:1702
 msgid ""
