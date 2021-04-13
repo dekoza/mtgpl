@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:25+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -3659,6 +3659,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../C17.rst:1238
 msgid ""
@@ -3762,7 +3764,7 @@ msgstr ""
 
 #: ../../C17.rst:1269
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../C17.rst:1278
 msgid ""
@@ -3981,6 +3983,8 @@ msgid ""
 "Whenever you gain life, you may pay |mana_x|, where X is less than or equal "
 "to the amount of life you gained. If you do, draw X cards."
 msgstr ""
+"Ilekroć zyskasz życia, możesz zapłacić |mana_x|, gdzie X jest mniejsze lub "
+"równe zyskanej liczbie żyć. Jeśli tak zrobisz, dobierz X kart."
 
 #: ../../C17.rst:1366
 msgid ""
@@ -4495,7 +4499,7 @@ msgstr ""
 
 #: ../../C17.rst:1567
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1571
 msgid ""
@@ -4503,6 +4507,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C17.rst:1578
 msgid ""
@@ -4849,6 +4856,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../C17.rst:1722
 msgid ""

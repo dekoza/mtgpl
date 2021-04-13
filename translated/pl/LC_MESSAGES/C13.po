@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 16:26+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1537,7 +1537,7 @@ msgstr ""
 # f7d43a29dce74b25880b18936eb830db
 #: ../../C13.rst:463
 msgid "|mana_b|, Pay 2 life: Draw a card."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Dobierz kartę."
 
 #: ../../C13.rst:468
 msgid ""
@@ -4699,6 +4699,8 @@ msgstr ""
 msgid ""
 "Whenever you're dealt damage, put that many charge counters on Sun Droplet."
 msgstr ""
+"Ilekroć otrzymasz obrażenia, umieść tyle samo znaczników ładunku na tym "
+"artefakcie."
 
 # e9eeef19f92346b4a99237551fdd8051
 #: ../../C13.rst:1489
@@ -4706,6 +4708,8 @@ msgid ""
 "At the beginning of each upkeep, you may remove a charge counter from Sun "
 "Droplet. If you do, you gain 1 life."
 msgstr ""
+"Na początku każdego kroku utrzymania, możesz usunąć znacznik ładunku z tego "
+"artefaktu. Jeśli tak zrobisz, zyskaj 1 życie."
 
 #: ../../C13.rst:1494
 msgid ""
@@ -4868,6 +4872,8 @@ msgid ""
 "Whenever you gain life, you may pay |mana_x|, where X is less than or equal "
 "to the amount of life you gained. If you do, draw X cards."
 msgstr ""
+"Ilekroć zyskasz życia, możesz zapłacić |mana_x|, gdzie X jest mniejsze lub "
+"równe zyskanej liczbie żyć. Jeśli tak zrobisz, dobierz X kart."
 
 #: ../../C13.rst:1550
 msgid ""
@@ -5880,6 +5886,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../C13.rst:1932
 msgid ""

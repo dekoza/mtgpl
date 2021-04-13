@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-13 09:35+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -1317,7 +1317,7 @@ msgstr ""
 
 #: ../../MRD.rst:483
 msgid "Target creature gets +4/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+0."
 
 #: ../../MRD.rst:490
 msgid ""
@@ -2898,7 +2898,7 @@ msgstr ""
 
 #: ../../MRD.rst:1049
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../MRD.rst:1051
 msgid "Equip |mana_3|"
@@ -3589,12 +3589,16 @@ msgstr ""
 msgid ""
 "Whenever you're dealt damage, put that many charge counters on Sun Droplet."
 msgstr ""
+"Ilekroć otrzymasz obrażenia, umieść tyle samo znaczników ładunku na tym "
+"artefakcie."
 
 #: ../../MRD.rst:1299
 msgid ""
 "At the beginning of each upkeep, you may remove a charge counter from Sun "
 "Droplet. If you do, you gain 1 life."
 msgstr ""
+"Na początku każdego kroku utrzymania, możesz usunąć znacznik ładunku z tego "
+"artefaktu. Jeśli tak zrobisz, zyskaj 1 życie."
 
 #: ../../MRD.rst:1306
 msgid ""

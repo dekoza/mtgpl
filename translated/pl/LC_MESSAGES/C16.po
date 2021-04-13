@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -2743,6 +2743,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../C16.rst:912
 msgid ""
@@ -4417,7 +4419,7 @@ msgstr ""
 
 #: ../../C16.rst:1485
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../C16.rst:1492
 msgid ""
@@ -4705,6 +4707,8 @@ msgstr "Nie masz limitu kart na ręce."
 msgid ""
 "At the beginning of your upkeep, you gain 1 life for each card in your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, zyskaj po 1 życiu za każdą kartę w "
+"twojej ręce."
 
 #: ../../C16.rst:1598
 msgid ""
@@ -5186,7 +5190,7 @@ msgstr ""
 
 #: ../../C16.rst:1787
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C16.rst:1791
 msgid ""
@@ -5194,6 +5198,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C16.rst:1798
 msgid ""
@@ -5551,6 +5558,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../C16.rst:1938
 msgid ""

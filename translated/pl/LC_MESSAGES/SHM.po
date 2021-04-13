@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-07 07:48+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -3969,13 +3969,15 @@ msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../SHM.rst:1471
 msgid "Sapseep Forest enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SHM.rst:1473
 msgid ""
 "|mana_g|, |tap|: You gain 1 life. Activate this ability only if you control "
 "two or more green permanents."
 msgstr ""
+"|mana_g|, |tap|: Zyskaj 1 życie. Możesz aktywować tylko jeśli władasz co "
+"najmniej dwoma zielonymi permanentami."
 
 #: ../../SHM.rst:1480
 msgid ""

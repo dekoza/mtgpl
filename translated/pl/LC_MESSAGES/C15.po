@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 07:34+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -4326,6 +4326,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../C15.rst:1426
 msgid ""
@@ -4377,7 +4379,7 @@ msgstr ""
 
 #: ../../C15.rst:1439
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../C15.rst:1448
 msgid ""
@@ -5196,6 +5198,8 @@ msgid ""
 "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a "
 "Swamp."
 msgstr ""
+"|tap|: Weź |mana_b| lub |mana_g|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../C15.rst:1798
 msgid ""
@@ -5209,6 +5213,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../C15.rst:1802
 msgid ""

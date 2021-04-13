@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -282,13 +282,15 @@ msgstr ""
 
 #: ../../C18.rst:83
 msgid "|mana_b|, Pay 2 life: Put a +1/+1 counter on Bloodtracker."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C18.rst:85
 msgid ""
 "When Bloodtracker leaves the battlefield, draw a card for each +1/+1 counter "
 "on it."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, dobierz kartę za każdy znacznik +1/+1 na "
+"nim."
 
 #: ../../C18.rst:92
 msgid ""
@@ -4654,7 +4656,7 @@ msgstr ""
 
 #: ../../C18.rst:1619
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1623
 msgid ""
@@ -4662,6 +4664,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C18.rst:1632
 msgid ""
@@ -4924,6 +4929,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../C18.rst:1740
 msgid ""

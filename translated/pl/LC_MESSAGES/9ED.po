@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 09:35+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -2249,7 +2249,7 @@ msgstr ""
 
 #: ../../9ED.rst:819
 msgid "Blaze deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../9ED.rst:824
 msgid ""
@@ -2274,6 +2274,8 @@ msgid ""
 "|mana_r|, Sacrifice Bloodfire Colossus: It deals 6 damage to each creature "
 "and each player."
 msgstr ""
+"|mana_r|, poświęć tego stwora: Zadaje on każdemu stworowi i graczowi po 6 "
+"obrażeń."
 
 #: ../../9ED.rst:832
 msgid ""
@@ -2374,7 +2376,7 @@ msgstr ""
 
 #: ../../9ED.rst:865
 msgid "All creatures get +X/-X until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają do końca tury +X/-X."
 
 #: ../../9ED.rst:874
 msgid ""
@@ -2459,7 +2461,7 @@ msgstr ""
 
 #: ../../9ED.rst:893
 msgid "Other Goblins get +1/+1 and have mountainwalk."
-msgstr ""
+msgstr "Inne Gobliny dostają +1/+1 i mają podbój gór."
 
 #: ../../9ED.rst:898
 msgid ""
@@ -2499,7 +2501,7 @@ msgstr ""
 
 #: ../../9ED.rst:909
 msgid "Guerrilla Tactics deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../9ED.rst:911
 msgid ""
@@ -3705,6 +3707,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../9ED.rst:1356
 msgid ""
@@ -3778,7 +3782,7 @@ msgstr ""
 
 #: ../../9ED.rst:1375
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../9ED.rst:1377
 msgid "Equip |mana_3|"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leg/pl/>\n"
 "Language: pl\n"
@@ -1449,7 +1449,7 @@ msgstr ""
 
 #: ../../LEG.rst:499
 msgid "|mana_b|, Pay 2 life: Draw a card."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Dobierz kartę."
 
 #: ../../LEG.rst:502
 msgid ""
@@ -1788,6 +1788,8 @@ msgid ""
 "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability "
 "no more than twice each turn."
 msgstr ""
+"|mana_b|: Ten stwór dostaje do końca tury +1/+0. Nie możesz aktywować więcej "
+"niż dwa razy na turę."
 
 #: ../../LEG.rst:614
 msgid ""

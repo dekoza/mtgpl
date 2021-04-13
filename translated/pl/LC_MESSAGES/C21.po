@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 12:54+0200\n"
-"PO-Revision-Date: 2021-04-11 16:26+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -2446,7 +2446,7 @@ msgstr ""
 
 #: ../../C21.rst:767 ../../C21.rst:771
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../C21.rst:772
 msgid ""
@@ -2463,11 +2463,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:777
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra."
 msgid "Whenever you gain life, put a +1/+1 counter on Bloodthirsty Aerialist."
-msgstr "Ilekroć gracz rzuci czar, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C21.rst:786
 msgid ""
@@ -2477,20 +2474,16 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:783
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice a creature: Put two +1/+1 counters on target creature."
 msgid "|mana_b|, Pay 2 life: Put a +1/+1 counter on Bloodtracker."
-msgstr ""
-"|tap|, poświęć stwora: Umieść dwa znaczniki +1/+1 na wskazanym stworze."
+msgstr "|mana_b|, zapłać 2 życia: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C21.rst:785
-#, fuzzy
-#| msgid "When Crackling Drake enters the battlefield, draw a card."
 msgid ""
 "When Bloodtracker leaves the battlefield, draw a card for each +1/+1 counter "
 "on it."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr ""
+"Kiedy ten stwór opuści pole bitwy, dobierz kartę za każdy znacznik +1/+1 na "
+"nim."
 
 #: ../../C21.rst:792
 msgid ""
@@ -2518,7 +2511,7 @@ msgstr ""
 
 #: ../../C21.rst:795
 msgid "Target player draws X cards and loses X life."
-msgstr ""
+msgstr "Wskazany gracz dobiera X kart i traci X żyć."
 
 #: ../../C21.rst:800
 msgid ""
@@ -2558,7 +2551,7 @@ msgstr ""
 
 #: ../../C21.rst:811 ../../C21.rst:873
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, wskazany przeciwnik traci tyle samo żyć."
 
 #: ../../C21.rst:816
 msgid ""
@@ -2569,7 +2562,7 @@ msgstr ""
 
 #: ../../C21.rst:815
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, każdy przeciwnik traci po 1 życiu."
 
 #: ../../C21.rst:820
 msgid ""
@@ -2583,6 +2576,8 @@ msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's converted mana cost."
 msgstr ""
+"Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
+"żyć, ile wynosił skrót many owego permanentu."
 
 #: ../../C21.rst:824
 msgid ""
@@ -2592,10 +2587,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:823
-#, fuzzy
-#| msgid "|mana_2|, |tap|: Each player draws a card."
 msgid "|mana_b|, Pay 2 life: Draw a card."
-msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę."
+msgstr "|mana_b|, zapłać 2 życia: Dobierz kartę."
 
 #: ../../C21.rst:830
 msgid ""
@@ -2640,17 +2633,14 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:841
-#, fuzzy
-#| msgid ""
-#| "When Sanctum Gargoyle enters the battlefield, you may return target "
-#| "artifact card from your graveyard to your hand."
 msgid ""
 "When Noxious Gearhulk enters the battlefield, you may destroy another target "
 "creature. If a creature is destroyed this way, you gain life equal to its "
 "toughness."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"artefaktu z twojego cmentarza do twojej ręki."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora. "
+"Jeśli stwór zostanie zniszczony w ten sposób, zyskaj tyle żyć, ile wynosiła "
+"jego wytrzymałość."
 
 #: ../../C21.rst:850
 msgid ""
@@ -2661,19 +2651,19 @@ msgstr ""
 
 #: ../../C21.rst:845
 msgid "+1: You draw a card and you lose 1 life."
-msgstr ""
+msgstr "+1: Dobierz kartę i strać 1 życie."
 
 #: ../../C21.rst:847
-#, fuzzy
-#| msgid "Destroy all creatures."
 msgid "−3: Destroy target creature."
-msgstr "Zniszcz wszystkie stwory."
+msgstr "–3: Zniszcz wskazanego stwora."
 
 #: ../../C21.rst:849
 msgid ""
 "−8: Target opponent gets an emblem with \"Whenever a player draws a card, "
 "you lose 2 life.\""
 msgstr ""
+"–8: Wskazany przeciwnik dostaje emblemat mający \"Ilekroć gracz dobierze "
+"kartę, strać 2 życia.\""
 
 #: ../../C21.rst:858
 msgid ""
@@ -2713,24 +2703,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:867
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature token you control deals combat damage to a player, "
-#| "draw a card."
 msgid "Whenever a creature an opponent controls dies, you may gain 3 life."
-msgstr ""
-"Ilekroć żeton stwora pod twoim władaniem zada graczowi obrażenia bojowe, "
-"dobierz kartę."
+msgstr "Ilekroć umrze stwór pod władaniem przeciwnika, możesz zyskać 3 życia."
 
 #: ../../C21.rst:869
-#, fuzzy
-#| msgid ""
-#| "Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch "
-#| "Regent and you gain 1 life."
 msgid "Whenever an opponent discards a card, you may gain 3 life."
-msgstr ""
-"Ilekroć przeciwnik rzuci czar, umieść znacznik +1/+1 na tym stworze i zyskaj "
-"1 życie."
+msgstr "Ilekroć przeciwnik odrzuca kartę, możesz zyskać 3 życia."
 
 #: ../../C21.rst:874
 msgid ""
@@ -2747,22 +2725,16 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:877
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, put target creature card from a "
-#| "graveyard onto the battlefield under your control."
 msgid ""
 "At the beginning of your end step, if you gained 3 or more life this turn, "
 "return Silversmote Ghoul from your graveyard to the battlefield tapped."
 msgstr ""
-"Na początku twojego kroku utrzymania, umieść wskazaną kartę stwora z "
-"cmentarza na polu bitwy pod twoim władaniem."
+"Na początku twojego kroku końcowego, jeśli zyskałeś co najmniej 3 życia w "
+"tej turze, przywróć tę kartę z twojego cmentarza przekręconą na pole bitwy."
 
 #: ../../C21.rst:879
-#, fuzzy
-#| msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
 msgid "|mana_1|\\ |mana_b|, Sacrifice Silversmote Ghoul: Draw a card."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
+msgstr "|mana_1|\\ |mana_b|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../C21.rst:884
 msgid ""
@@ -2776,6 +2748,8 @@ msgid ""
 "Exile X target cards from target player's graveyard. For each card exiled "
 "this way, that player loses 1 life and you gain 1 life."
 msgstr ""
+"Wygnaj X wskazanych kart z cmentarza wskazanego gracza. Za każdą kartę "
+"wygnaną w ten sposób, ów gracz traci 1 życie a ty zyskaj 1 życie."
 
 #: ../../C21.rst:888
 msgid ""
@@ -2785,17 +2759,14 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:887
-#, fuzzy
-#| msgid ""
-#| "For each land you control, create a Treasure token. (It's an artifact "
-#| "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgid ""
 "Each player sacrifices three creatures. You create three Food tokens. "
 "(They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
-"Za każdy ląd pod twoim władaniem, stwórz żeton Skarbu. (To artefakt mający "
-"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Każdy gracz poświęca trzy stwory. Stwórz trzy żetony Jedzenia. (Są to "
+"artefakty ze zdolnością \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 "
+"życia.\")"
 
 #: ../../C21.rst:892
 msgid ""
@@ -2806,7 +2777,7 @@ msgstr ""
 
 #: ../../C21.rst:891
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../C21.rst:898
 msgid ""
@@ -3302,14 +3273,9 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1039
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control deals combat damage to a player, put that "
-#| "many +1/+1 counters on it."
 msgid "Whenever you gain life, put that many +1/+1 counters on Ageless Entity."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
-"nim tyle samo znaczników +1/+1."
+"Ilekroć zyskasz życia, umieść tyle samo znaczników +1/+1 na tym stworze."
 
 #: ../../C21.rst:1046
 msgid ""
@@ -3426,22 +3392,16 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1075
-#, fuzzy
-#| msgid "Enchant player"
 msgid "Enchant land"
-msgstr "Zaurocz gracza"
+msgstr "Zaurocz ląd"
 
 #: ../../C21.rst:1077
-#, fuzzy
-#| msgid "When Temple of Silence enters the battlefield, scry 1."
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../C21.rst:1079
-#, fuzzy
-#| msgid "|tap|: Add three mana of any one color."
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../C21.rst:1086
 msgid ""
@@ -3640,16 +3600,13 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1147
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to three basic land cards, put them onto the "
 "battlefield tapped, then shuffle your library. You gain 7 life."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej trzy karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Zyskaj 7 "
+"żyć."
 
 #: ../../C21.rst:1152
 msgid ""
@@ -3663,6 +3620,8 @@ msgid ""
 "Return target creature or land card from a graveyard to its owner's hand. "
 "You gain 6 life."
 msgstr ""
+"Przywróć wskazaną kartę stwora lub lądu z cmentarza do ręki jego "
+"właściciela. Zyskaj 6 żyć."
 
 #: ../../C21.rst:1158
 msgid ""
@@ -3687,16 +3646,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1161
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield tapped. Then shuffle your library."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../C21.rst:1170
 msgid ""
@@ -3762,16 +3717,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1183
-#, fuzzy
-#| msgid ""
-#| "Landfall — Whenever a land enters the battlefield under your control, you "
-#| "may create a 4/4 green Beast creature token."
 msgid ""
 "Whenever Verdant Sun's Avatar or another creature enters the battlefield "
 "under your control, you gain life equal to that creature's toughness."
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
-"stworzyć żeton zielonego stwora Bestia 4/4."
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj "
+"życie równe wytrzymałości owego stwora."
 
 #: ../../C21.rst:1188
 msgid ""
@@ -3931,13 +3882,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1239
-#, fuzzy
-#| msgid ""
-#| "Destroy target nonland permanent. Its controller creates two Treasure "
-#| "tokens."
 msgid "Destroy each nonland permanent with converted mana cost X or less."
-msgstr ""
-"Zniszcz wskazany nielądowy permanent. Jego władca tworzy dwa żetony Skarbu."
+msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
 
 #: ../../C21.rst:1248
 msgid ""
@@ -3952,18 +3898,17 @@ msgid ""
 "equal to the number of opponents you have. (Food tokens are artifacts with "
 "\"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów Jedzenia, ilu "
+"masz przeciwników. (Żetony Jedzenia są artefaktami ze zdolnością \"|mana_2|, "
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../C21.rst:1247
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice an artifact: Target creature you control gets +2/+0 "
-#| "until end of turn."
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice another nonland permanent: Gluttonous Troll "
 "gets +2/+2 until end of turn."
 msgstr ""
-"|mana_1|, poświęć artefakt: Wskazany stwór pod twoim władaniem dostaje do "
-"końca tury +2/+0."
+"|mana_1|\\ |mana_g|, poświęć inny nie-lądowy permanent: Ten stwór dostaje do "
+"końca tury +2/+2."
 
 #: ../../C21.rst:1252
 msgid ""
@@ -4037,7 +3982,7 @@ msgstr ""
 
 #: ../../C21.rst:1269
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../C21.rst:1278
 msgid ""
@@ -4080,14 +4025,9 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1285
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature token you control deals combat damage to a player, "
-#| "draw a card."
 msgid "Whenever a creature you control dies, you gain 1 life and draw a card."
 msgstr ""
-"Ilekroć żeton stwora pod twoim władaniem zada graczowi obrażenia bojowe, "
-"dobierz kartę."
+"Ilekroć umrze stwór pod twoim władaniem, zyskaj 1 życie i dobierz kartę."
 
 #: ../../C21.rst:1292
 msgid ""
@@ -4143,19 +4083,14 @@ msgid "Indestructible"
 msgstr "Niezniszczalność"
 
 #: ../../C21.rst:1301
-#, fuzzy
-#| msgid ""
-#| "When Coiling Oracle enters the battlefield, reveal the top card of your "
-#| "library. If it's a land card, put it onto the battlefield. Otherwise, put "
-#| "that card into your hand."
 msgid ""
 "Whenever Sapling of Colfenor attacks, reveal the top card of your library. "
 "If it's a creature card, you gain life equal to that card's toughness, lose "
 "life equal to its power, then put it into your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
-"biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
-"umieść ją w twojej ręce."
+"Ilekroć ten stwór zaatakuje, ujawnij wierzchnią kartę twojej biblioteki. "
+"Jeśli to karta stwora, zyskaj życia równe jej wytrzymałości, strać życia "
+"równe jej sile, po czym umieść ją w twojej ręce."
 
 #: ../../C21.rst:1308
 msgid ""
@@ -4222,13 +4157,15 @@ msgstr ""
 
 #: ../../C21.rst:1327
 msgid "If you would gain life, you gain twice that much life instead."
-msgstr ""
+msgstr "Jeśli miałbyś zyskać życia, zamiast tego zyskaj dwukrotnie tyle żyć."
 
 #: ../../C21.rst:1329
 msgid ""
 "If you would draw a card except the first one you draw in each of your draw "
 "steps, draw two cards instead."
 msgstr ""
+"Jeśli miałbyś dobrać kartę oprócz pierwszej dobranej w każdym z twoich "
+"kroków dobierania, zamiast tego dobierz dwie karty."
 
 #: ../../C21.rst:1334
 msgid ""
@@ -4357,6 +4294,10 @@ msgid ""
 "that card onto the battlefield under your control. If it's a noncreature, "
 "nonland card, you gain 2 life."
 msgstr ""
+"|mana_2|, |tap|: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta "
+"stwora, stwórz żeton zielonego stwora Sadzonka 1/1. Jeśli to karta lądu, "
+"umieść ją na polu bitwy pod twoim władaniem. Jeśli to nielądowa nie-stworowa "
+"karta, zyskaj 2 życia."
 
 #: ../../C21.rst:1380
 msgid ""
@@ -4395,6 +4336,8 @@ msgid ""
 "|mana_2|, |tap|: You gain 5 life. Shuffle Elixir of Immortality and your "
 "graveyard into their owner's library."
 msgstr ""
+"|mana_2|, |tap|: Zyskaj 5 życia. Wtasuj ten artefakt oraz twój cmentarz do "
+"bibliotek ich właścicieli."
 
 #: ../../C21.rst:1390
 msgid ""
@@ -4486,16 +4429,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1413
-#, fuzzy
-#| msgid "Equipped creature has haste."
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr "Wyposażony stwór ma pośpiech."
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../C21.rst:1415
-#, fuzzy
-#| msgid "Equip |mana_2|"
 msgid "Equip |mana_3|"
-msgstr "Wyposaż |mana_2|"
+msgstr "Wyposaż |mana_3|"
 
 #: ../../C21.rst:1420
 msgid ""
@@ -4584,27 +4523,17 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1443
-#, fuzzy
-#| msgid "As Citadel Siege enters the battlefield, choose Khans or Dragons."
 msgid "As Paradise Plume enters the battlefield, choose a color."
-msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
+msgstr "Umieszczając ten artefakt na polu bitwy, wybierz kolor."
 
 #: ../../C21.rst:1445
-#, fuzzy
-#| msgid ""
-#| "Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch "
-#| "Regent and you gain 1 life."
 msgid ""
 "Whenever a player casts a spell of the chosen color, you may gain 1 life."
-msgstr ""
-"Ilekroć przeciwnik rzuci czar, umieść znacznik +1/+1 na tym stworze i zyskaj "
-"1 życie."
+msgstr "Ilekroć gracz rzuci czar wybranego koloru, możesz zyskać 1 życie."
 
 #: ../../C21.rst:1447
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color."
 msgid "|tap|: Add one mana of the chosen color."
-msgstr "|tap|: Weź jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę wybranego koloru."
 
 #: ../../C21.rst:1454
 msgid ""
@@ -4652,10 +4581,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1463
-#, fuzzy
-#| msgid "|tap|: Add |colorless|."
 msgid "|tap|: Add |colorless|. You gain 1 life."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|. Zyskaj 1 życie."
 
 #: ../../C21.rst:1468
 msgid ""
@@ -4794,27 +4721,19 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1509
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control deals combat damage to a player, put that "
-#| "many +1/+1 counters on it."
 msgid ""
 "Whenever you're dealt damage, put that many charge counters on Sun Droplet."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
-"nim tyle samo znaczników +1/+1."
+"Ilekroć otrzymasz obrażenia, umieść tyle samo znaczników ładunku na tym "
+"artefakcie."
 
 #: ../../C21.rst:1511
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, you may move any number of +1/+1 "
-#| "counters from Forgotten Ancient onto other creatures."
 msgid ""
 "At the beginning of each upkeep, you may remove a charge counter from Sun "
 "Droplet. If you do, you gain 1 life."
 msgstr ""
-"Na początku twojego kroku utrzymania, możesz przenieść dowolną liczbę "
-"znaczników +1/+1 z tego stwora na inne stwory."
+"Na początku każdego kroku utrzymania, możesz usunąć znacznik ładunku z tego "
+"artefaktu. Jeśli tak zrobisz, zyskaj 1 życie."
 
 #: ../../C21.rst:1518
 msgid ""
@@ -4838,15 +4757,11 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1523
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_u| or |mana_r|. Talisman of Creativity deals 1 damage to "
-#| "you."
 msgid ""
 "|tap|: Add |mana_b| or |mana_g|. Talisman of Resilience deals 1 damage to "
 "you."
 msgstr ""
-"|tap|: Weź |mana_u| lub |mana_r|. Ten artefakt zadaje tobie 1 obrażenie."
+"|tap|: Weź |mana_b| lub |mana_g|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../C21.rst:1530
 msgid ""
@@ -4884,15 +4799,11 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1541
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control twenty or more artifacts, "
-#| "you win the game."
 msgid ""
 "At the beginning of your upkeep, you gain 1 life for each card in your hand."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej dwudziestoma "
-"artefaktami, wygrywasz grę."
+"Na początku twojego kroku utrzymania, zyskaj po 1 życiu za każdą kartę w "
+"twojej ręce."
 
 #: ../../C21.rst:1548
 msgid ""
@@ -4917,16 +4828,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1551
-#, fuzzy
-#| msgid ""
-#| "Whenever you gain life, you pay |mana_b|. If you do, return target "
-#| "creature card from your graveyard to your hand."
 msgid ""
 "Whenever you gain life, you may pay |mana_x|, where X is less than or equal "
 "to the amount of life you gained. If you do, draw X cards."
 msgstr ""
-"Ilekroć zyskasz życia, możesz zapłacić |mana_b|. Jeśli tak zrobisz, przywróć "
-"wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+"Ilekroć zyskasz życia, możesz zapłacić |mana_x|, gdzie X jest mniejsze lub "
+"równe zyskanej liczbie żyć. Jeśli tak zrobisz, dobierz X kart."
 
 #: ../../C21.rst:1556
 msgid ""
@@ -4990,19 +4897,14 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1581
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
-#| "basic land cards, put them onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
-"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../C21.rst:1590
 msgid ""
@@ -5121,12 +5023,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1633
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color in your commander's color identity."
 msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
-msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
+msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../C21.rst:1642
 msgid ""
@@ -5136,16 +5038,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1637
-#, fuzzy
-#| msgid "Barren Moor enters the battlefield tapped."
 msgid "Forgotten Cave enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1641
-#, fuzzy
-#| msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C21.rst:1650
 msgid ""
@@ -5155,35 +5053,25 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1645 ../../C21.rst:1807
-#, fuzzy
-#| msgid "|tap|: Add |mana_g|."
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Weź |mana_g|."
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../C21.rst:1647
-#, fuzzy
-#| msgid ""
-#| "When Boros Garrison enters the battlefield, return a land you control to "
-#| "its owner's hand."
 msgid ""
 "Gingerbread Cabin enters the battlefield tapped unless you control three or "
 "more other Forests."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
-"ręki właściciela."
+"Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz co najmniej "
+"trzema innymi Lasami."
 
 #: ../../C21.rst:1649
-#, fuzzy
-#| msgid ""
-#| "For each land you control, create a Treasure token. (It's an artifact "
-#| "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgid ""
 "When Gingerbread Cabin enters the battlefield untapped, create a Food token. "
 "(It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
-"Za każdy ląd pod twoim władaniem, stwórz żeton Skarbu. (To artefakt mający "
-"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Kiedy ten ląd wejdzie na pole bitwy odkręcony, stwórz żeton Jadła. (To "
+"artefakt mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../C21.rst:1658
 msgid ""
@@ -5193,16 +5081,10 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1653
-#, fuzzy
-#| msgid "Llanowar Reborn enters the battlefield tapped."
 msgid "Golgari Rot Farm enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1655
-#, fuzzy
-#| msgid ""
-#| "When Boros Garrison enters the battlefield, return a land you control to "
-#| "its owner's hand."
 msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5211,10 +5093,8 @@ msgstr ""
 "ręki właściciela."
 
 #: ../../C21.rst:1657
-#, fuzzy
-#| msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
+msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../C21.rst:1662
 msgid ""
@@ -5231,12 +5111,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1667
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice a creature: Put two +1/+1 counters on target creature."
 msgid "|tap|, Sacrifice a creature: You gain 1 life."
-msgstr ""
-"|tap|, poświęć stwora: Umieść dwa znaczniki +1/+1 na wskazanym stworze."
+msgstr "|tap|, poświęć stwora: Zyskaj 1 życie."
 
 #: ../../C21.rst:1676
 msgid ""
@@ -5269,22 +5145,16 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1679
-#, fuzzy
-#| msgid "Lumbering Falls enters the battlefield tapped."
 msgid "Jungle Hollow enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1681
-#, fuzzy
-#| msgid "When Temple of Silence enters the battlefield, scry 1."
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C21.rst:1683 ../../C21.rst:1879
-#, fuzzy
-#| msgid "|tap|: Add |mana_g| or |mana_u|."
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../C21.rst:1692
 msgid ""
@@ -5316,11 +5186,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1697
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
 msgid "|tap|: Add |mana_b| or |mana_g|. Llanowar Wastes deals 1 damage to you."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
+msgstr "|tap|: Weź |mana_b| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../C21.rst:1706
 msgid ""
@@ -5330,16 +5197,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1701
-#, fuzzy
-#| msgid "Llanowar Reborn enters the battlefield tapped."
 msgid "Lonely Sandbar enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1705
-#, fuzzy
-#| msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
-msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
+msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C21.rst:1714
 msgid ""
@@ -5439,25 +5302,18 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1747
-#, fuzzy
-#| msgid "Orzhov Basilica enters the battlefield tapped."
 msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1751
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
-#| "basic land cards, put them onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
-"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C21.rst:1758
 msgid ""
@@ -5551,11 +5407,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1789
-#, fuzzy
-#| msgid ""
-#| "When Stalking Leonin enters the battlefield, secretly choose an opponent."
 msgid "When Radiant Fountain enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, potajemnie wybierz przeciwnika."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../C21.rst:1798
 msgid ""
@@ -5572,13 +5425,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1803
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_u|: Target creature token can't be blocked this turn."
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
-"|mana_3|\\ |mana_u|: Wskazany żeton stwora nie może być blokowany w tej "
-"turze."
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../C21.rst:1812
 msgid ""
@@ -5588,20 +5436,16 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1809
-#, fuzzy
-#| msgid "Barren Moor enters the battlefield tapped."
 msgid "Sapseep Forest enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1811
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you "
-#| "control a Swamp."
 msgid ""
 "|mana_g|, |tap|: You gain 1 life. Activate this ability only if you control "
 "two or more green permanents."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
+msgstr ""
+"|mana_g|, |tap|: Zyskaj 1 życie. Możesz aktywować tylko jeśli władasz co "
+"najmniej dwoma zielonymi permanentami."
 
 #: ../../C21.rst:1818
 msgid ""
@@ -5625,16 +5469,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1821
-#, fuzzy
-#| msgid "Temple of Silence enters the battlefield tapped."
 msgid "Secluded Steppe enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1825
-#, fuzzy
-#| msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C21.rst:1832
 msgid ""
@@ -5722,14 +5562,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1863
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you "
-#| "control a Swamp."
 msgid ""
 "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a "
 "Swamp."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
+msgstr ""
+"|tap|: Weź |mana_b| lub |mana_g|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../C21.rst:1872
 msgid ""
@@ -5758,14 +5596,10 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1875
-#, fuzzy
-#| msgid "Temple of Mystery enters the battlefield tapped."
 msgid "Temple of Malady enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1877
-#, fuzzy
-#| msgid "When Temple of Mystery enters the battlefield, scry 1."
 msgid "When Temple of Malady enters the battlefield, scry 1."
 msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
@@ -5811,14 +5645,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1899
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you "
-#| "control a Swamp."
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
+msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../C21.rst:1908
 msgid ""

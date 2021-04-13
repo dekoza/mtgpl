@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 09:35+0000\n"
+"PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -1702,7 +1702,7 @@ msgstr ""
 
 #: ../../7ED.rst:631
 msgid "|mana_b|, Pay 2 life: Draw a card."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Dobierz kartę."
 
 #: ../../7ED.rst:636
 msgid ""
@@ -2122,7 +2122,7 @@ msgstr ""
 
 #: ../../7ED.rst:785
 msgid "Blaze deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../7ED.rst:790
 msgid ""
@@ -2273,6 +2273,8 @@ msgid ""
 "Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany, dostaje do końca tury "
+"-1/-1."
 
 #: ../../7ED.rst:840
 msgid ""
@@ -2305,7 +2307,7 @@ msgstr ""
 
 #: ../../7ED.rst:849
 msgid "Other Goblins get +1/+1 and have mountainwalk."
-msgstr ""
+msgstr "Inne Gobliny dostają +1/+1 i mają podbój gór."
 
 #: ../../7ED.rst:854
 msgid ""
