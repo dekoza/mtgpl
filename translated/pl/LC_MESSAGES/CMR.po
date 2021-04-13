@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 13:41+0200\n"
-"PO-Revision-Date: 2021-04-13 12:34+0000\n"
+"PO-Revision-Date: 2021-04-13 12:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -143,10 +143,12 @@ msgstr ""
 #: ../../CMR.rst:39
 msgid "When Ancestral Blade enters the battlefield, create a 1/1 white Soldier creature token, then attach Ancestral Blade to it."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton białego stwora "
+"Piechur 1/1, po czym dołącz ten artefakt do niego."
 
 #: ../../CMR.rst:41
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../CMR.rst:43
 #: ../../CMR.rst:1781
@@ -156,6 +158,8 @@ msgstr ""
 #: ../../CMR.rst:2645
 msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../CMR.rst:50
 msgid ":mtgtip:`Angel of the Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00ffeb5-195c-45ad-a791-ec67f463d552.jpg?1612228551|https://scryfall.com/card/cmr/6/angel-of-the-dawn?utm_source=api>`"
@@ -211,6 +215,8 @@ msgstr "Latanie"
 #: ../../CMR.rst:49
 msgid "When Angel of the Dawn enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1 oraz czujność."
 
 #: ../../CMR.rst:58
 msgid ":mtgtip:`Angelic Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db0775f2-3fd9-42aa-80e3-edac67764fa2.jpg?1612228525|https://scryfall.com/card/cmr/7/angelic-gift?utm_source=api>`"
@@ -240,11 +246,11 @@ msgstr "Zaurocz stwora"
 
 #: ../../CMR.rst:55
 msgid "When Angelic Gift enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:57
 msgid "Enchanted creature has flying."
-msgstr ""
+msgstr "Zauroczony stwór ma latanie."
 
 #: ../../CMR.rst:64
 msgid ":mtgtip:`Anointer of Valor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d66fcbb8-0fa5-48a9-b40c-d5a12f09a858.jpg?1612228481|https://scryfall.com/card/cmr/8/anointer-of-valor?utm_source=api>`"
@@ -288,23 +294,23 @@ msgstr ""
 
 #: ../../CMR.rst:87
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../CMR.rst:89
 msgid "Destroy all artifacts."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty."
 
 #: ../../CMR.rst:91
 msgid "Destroy all enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../CMR.rst:93
 msgid "Destroy all creatures with converted mana cost 3 or less."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../CMR.rst:95
 msgid "Destroy all creatures with converted mana cost 4 or greater."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory o skrótach many 4 lub większych."
 
 #: ../../CMR.rst:106
 msgid ":mtgtip:`Benevolent Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d5c2401-da2c-46f9-b850-f37edcbb85cd.jpg?1608908694|https://scryfall.com/card/cmr/13/benevolent-blessing?utm_source=api>`"
@@ -322,7 +328,7 @@ msgstr ""
 #: ../../CMR.rst:2095
 #: ../../CMR.rst:2335
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../CMR.rst:103
 msgid "As Benevolent Blessing enters the battlefield, choose a color."
@@ -338,7 +344,7 @@ msgstr ""
 
 #: ../../CMR.rst:111
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../CMR.rst:113
 msgid "|mana_1|\\ |mana_w|: Return Cage of Hands to its owner's hand."
@@ -350,7 +356,7 @@ msgstr ""
 
 #: ../../CMR.rst:117
 msgid "Create three 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony białego stwora Piechur 1/1."
 
 #: ../../CMR.rst:124
 msgid ":mtgtip:`Court of Grace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02f0be1b-554e-4b61-b495-6e2a7369cdb1.jpg?1608908724|https://scryfall.com/card/cmr/16/court-of-grace?utm_source=api>`"
@@ -371,6 +377,8 @@ msgstr ""
 #: ../../CMR.rst:127
 msgid "Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls."
 msgstr ""
+"Ilekroć inny biały stwór wejdzie na pole bitwy pod twoim władaniem, przekręć "
+"wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../CMR.rst:132
 msgid ":mtgtip:`Dispeller's Capsule<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9b717e3-4dc6-4a7d-928a-2111c8199177.jpg?1608908740|https://scryfall.com/card/cmr/18/dispellers-capsule?utm_source=api>`"
@@ -386,7 +394,7 @@ msgstr ""
 
 #: ../../CMR.rst:135
 msgid "When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../CMR.rst:144
 msgid ":mtgtip:`Faith's Fetters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04a7da8c-a444-4deb-89b9-2fc9e5475bff.jpg?1608908758|https://scryfall.com/card/cmr/20/faiths-fetters?utm_source=api>`"
@@ -395,15 +403,17 @@ msgstr ""
 #: ../../CMR.rst:139
 #: ../../CMR.rst:371
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../CMR.rst:141
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../CMR.rst:143
 msgid "Enchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
+"zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../CMR.rst:148
 msgid ":mtgtip:`Fencing Ace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86d8754c-816f-4d07-8dcd-9611bf0beb87.jpg?1608908768|https://scryfall.com/card/cmr/21/fencing-ace?utm_source=api>`"
@@ -411,7 +421,7 @@ msgstr ""
 
 #: ../../CMR.rst:147
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../CMR.rst:152
 msgid ":mtgtip:`First Response<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0270f9f2-9afe-4bbb-b14c-0e2da7f54dfc.jpg?1608908778|https://scryfall.com/card/cmr/22/first-response?utm_source=api>`"
@@ -420,6 +430,8 @@ msgstr ""
 #: ../../CMR.rst:151
 msgid "At the beginning of each upkeep, if you lost life last turn, create a 1/1 white Soldier creature token."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli straciłeś życie w poprzedniej "
+"turze, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../CMR.rst:156
 msgid ":mtgtip:`Inspiring Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1287d422-d6b0-43eb-8e89-3d6a0201100d.jpg?1608908793|https://scryfall.com/card/cmr/23/inspiring-roar?utm_source=api>`"
@@ -427,7 +439,7 @@ msgstr ""
 
 #: ../../CMR.rst:155
 msgid "Put a +1/+1 counter on each creature you control."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../CMR.rst:160
 msgid ":mtgtip:`Intangible Virtue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/535764b9-67b2-4123-a4be-2aa72fcd8a33.jpg?1608908801|https://scryfall.com/card/cmr/24/intangible-virtue?utm_source=api>`"
@@ -435,7 +447,7 @@ msgstr ""
 
 #: ../../CMR.rst:159
 msgid "Creature tokens you control get +1/+1 and have vigilance."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../CMR.rst:164
 msgid ":mtgtip:`Iona's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e792e689-0cf8-4bd0-b2f1-4edff9972e18.jpg?1608908809|https://scryfall.com/card/cmr/25/ionas-judgment?utm_source=api>`"
@@ -443,7 +455,7 @@ msgstr ""
 
 #: ../../CMR.rst:163
 msgid "Exile target creature or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora lub urok."
 
 #: ../../CMR.rst:172
 msgid ":mtgtip:`Kangee's Lieutenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0f431b3-6f4e-40a5-b9d1-f2c67b70544d.jpg?1616447025|https://scryfall.com/card/cmr/26/kangees-lieutenant?utm_source=api>`"
@@ -516,6 +528,8 @@ msgstr ""
 #: ../../CMR.rst:205
 msgid "Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+0 oraz "
+"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą ich.)"
 
 #: ../../CMR.rst:210
 msgid ":mtgtip:`Ninth Bridge Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a9555fe-fa1d-4af9-90a4-c3f91e0edd9b.jpg?1608908885|https://scryfall.com/card/cmr/33/ninth-bridge-patrol?utm_source=api>`"
@@ -524,6 +538,8 @@ msgstr ""
 #: ../../CMR.rst:209
 msgid "Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Ninth Bridge Patrol."
 msgstr ""
+"Ilekroć inny stwór pod twoim władaniem opuści pole bitwy, umieść znacznik +1/"
+"+1 na tym stworze."
 
 #: ../../CMR.rst:214
 msgid ":mtgtip:`Open the Armory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6db45698-9da9-4cea-b9bf-0f84ab276b51.jpg?1608908895|https://scryfall.com/card/cmr/34/open-the-armory?utm_source=api>`"
@@ -532,6 +548,8 @@ msgstr ""
 #: ../../CMR.rst:213
 msgid "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Aury lub Wyposażenia, ujawnij ją i umieść "
+"w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:218
 msgid ":mtgtip:`Orzhov Advokist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96017805-0a26-4beb-8de3-6779c4e5633d.jpg?1608908902|https://scryfall.com/card/cmr/35/orzhov-advokist?utm_source=api>`"
@@ -556,6 +574,8 @@ msgstr ""
 #: ../../CMR.rst:227
 msgid "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Kiedy ta karta wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem posiadającym znacznik +1/+1."
 
 #: ../../CMR.rst:236
 msgid ":mtgtip:`Prava of the Steel Legion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9e40e2a-e447-4754-a98b-5521e546781f.jpg?1608908930|https://scryfall.com/card/cmr/38/prava-of-the-steel-legion?utm_source=api>`"
@@ -595,7 +615,7 @@ msgstr ""
 
 #: ../../CMR.rst:253
 msgid "Create two 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Piechur 1/1."
 
 #: ../../CMR.rst:260
 msgid ":mtgtip:`Rebbec, Architect of Ascension<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46975250-950f-4f5d-a7c5-f61aec8e40ad.jpg?1608908966|https://scryfall.com/card/cmr/42/rebbec-architect-of-ascension?utm_source=api>`"
@@ -612,6 +632,8 @@ msgstr ""
 #: ../../CMR.rst:263
 msgid "Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment."
 msgstr ""
+"Wygnaj wskazany artefakt lub urok. Jeśli rzucasz ten czar w twojej fazie "
+"głównej, możesz wygnać co najwyżej jeden inny wskazany artefakt lub urok."
 
 #: ../../CMR.rst:268
 msgid ":mtgtip:`Seraph of Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64bf33ea-2d2d-476d-ab1d-fba204fd034b.jpg?1608908984|https://scryfall.com/card/cmr/44/seraph-of-dawn?utm_source=api>`"
@@ -620,7 +642,7 @@ msgstr ""
 #: ../../CMR.rst:267
 #: ../../CMR.rst:1621
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../CMR.rst:276
 msgid ":mtgtip:`Seraphic Greatsword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff9b6e59-8e95-413d-825e-f1dc8874eaa9.jpg?1608908992|https://scryfall.com/card/cmr/45/seraphic-greatsword?utm_source=api>`"
@@ -628,7 +650,7 @@ msgstr ""
 
 #: ../../CMR.rst:271
 msgid "Equipped creature gets +2/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../CMR.rst:273
 msgid "Whenever equipped creature attacks the player with the most life or tied for most life, create a 4/4 white Angel creature token with flying that's tapped and attacking that player."
@@ -638,7 +660,7 @@ msgstr ""
 #: ../../CMR.rst:1103
 #: ../../CMR.rst:2075
 msgid "Equip |mana_4|"
-msgstr ""
+msgstr "Wyposaż |mana_4|"
 
 #: ../../CMR.rst:280
 msgid ":mtgtip:`Skywhaler's Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e2c5013-523f-42b2-b947-abe304a6cb84.jpg?1608909002|https://scryfall.com/card/cmr/46/skywhalers-shot?utm_source=api>`"
@@ -647,6 +669,9 @@ msgstr ""
 #: ../../CMR.rst:279
 msgid "Destroy target creature with power 3 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Zniszcz wskazanego stwora o sile 3 lub większej. Wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej "
+"biblioteki.)"
 
 #: ../../CMR.rst:284
 msgid ":mtgtip:`Slash the Ranks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0913a5e8-7f77-44f2-a7cf-c8c0d6270a86.jpg?1608909011|https://scryfall.com/card/cmr/47/slash-the-ranks?utm_source=api>`"
@@ -663,6 +688,8 @@ msgstr ""
 #: ../../CMR.rst:287
 msgid "Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control."
 msgstr ""
+"Każdy gracz wybiera dowolną liczbę władanych przez siebie stworów o łącznej "
+"sile 4 lub mniej, po czym poświęca wszystkie inne stwory pod swoim władaniem."
 
 #: ../../CMR.rst:294
 msgid ":mtgtip:`Slith Ascendant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b90157f8-ba3c-479e-80d8-8f9e042c540c.jpg?1608909027|https://scryfall.com/card/cmr/49/slith-ascendant?utm_source=api>`"
@@ -692,11 +719,13 @@ msgstr ""
 #: ../../CMR.rst:1659
 #: ../../CMR.rst:1951
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../CMR.rst:305
 msgid "Squad Captain enters the battlefield with a +1/+1 counter on it for each other creature you control."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdego innego "
+"stwora pod twoim władaniem."
 
 #: ../../CMR.rst:310
 msgid ":mtgtip:`Triumphant Reckoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72db8e30-e3a4-4141-9ea3-7db4a060ec8e.jpg?1608909054|https://scryfall.com/card/cmr/52/triumphant-reckoning?utm_source=api>`"
@@ -705,6 +734,8 @@ msgstr ""
 #: ../../CMR.rst:309
 msgid "Return all artifact, enchantment, and planeswalker cards from your graveyard to the battlefield."
 msgstr ""
+"Przywróć wszystkie karty artefaktów, uroków i wędrowców z twojego cmentarza "
+"na pole bitwy."
 
 #: ../../CMR.rst:314
 msgid ":mtgtip:`Trusty Packbeast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fcfe1b5-e35b-4a23-8ca8-4dee2ef94f32.jpg?1608909062|https://scryfall.com/card/cmr/53/trusty-packbeast?utm_source=api>`"
@@ -713,6 +744,8 @@ msgstr ""
 #: ../../CMR.rst:313
 msgid "When Trusty Packbeast enters the battlefield, return target artifact card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:320
 msgid ":mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/107c1b3f-1aab-48a1-a651-8302bc8682f9.jpg?1608909071|https://scryfall.com/card/cmr/54/vow-of-duty?utm_source=api>`"
@@ -721,6 +754,8 @@ msgstr ""
 #: ../../CMR.rst:319
 msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma czujność i nie może atakować ciebie lub "
+"wędrowców pod twoim władaniem."
 
 #: ../../CMR.rst:326
 msgid ":mtgtip:`Amphin Mutineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7be9d06-3651-47f4-9e44-00ecd4a15e3c.jpg?1616446996|https://scryfall.com/card/cmr/55/amphin-mutineer?utm_source=api>`"
@@ -740,11 +775,13 @@ msgstr ""
 
 #: ../../CMR.rst:331
 msgid "Enchanted creature can't be blocked."
-msgstr ""
+msgstr "Zauroczony stwór nie może być blokowany."
 
 #: ../../CMR.rst:333
 msgid "Whenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../CMR.rst:344
 msgid ":mtgtip:`Aven Surveyor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4981d99-c33d-4451-8f6a-28fffb3dcd1c.jpg?1608909102|https://scryfall.com/card/cmr/57/aven-surveyor?utm_source=api>`"
@@ -752,16 +789,16 @@ msgstr ""
 
 #: ../../CMR.rst:339
 msgid "When Aven Surveyor enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../CMR.rst:341
 msgid "Put a +1/+1 counter on Aven Surveyor."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CMR.rst:343
 #: ../../CMR.rst:2549
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../CMR.rst:350
 msgid ":mtgtip:`Azure Fleet Admiral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111|https://scryfall.com/card/cmr/58/azure-fleet-admiral?utm_source=api>`"
@@ -788,7 +825,7 @@ msgstr ""
 #: ../../CMR.rst:2269
 #: ../../CMR.rst:2759
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../CMR.rst:357
 msgid "Whenever Body of Knowledge is dealt damage, draw that many cards."
@@ -809,6 +846,8 @@ msgstr ""
 #: ../../CMR.rst:367
 msgid "Return target instant or sorcery card from your graveyard to your hand. Exile Flood of Recollection."
 msgstr ""
+"Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
+"ręki. Wygnaj niniejszy czar."
 
 #: ../../CMR.rst:374
 msgid ":mtgtip:`Confiscate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09e4a88d-670b-4332-bf36-41c2e2492424.jpg?1608909148|https://scryfall.com/card/cmr/62/confiscate?utm_source=api>`"
@@ -816,7 +855,7 @@ msgstr ""
 
 #: ../../CMR.rst:373
 msgid "You control enchanted permanent."
-msgstr ""
+msgstr "Władasz zauroczonym permanentem."
 
 #: ../../CMR.rst:380
 msgid ":mtgtip:`Court of Cunning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f585f52-7b07-4453-b543-9654d314aa36.jpg?1608909157|https://scryfall.com/card/cmr/63/court-of-cunning?utm_source=api>`"
@@ -836,11 +875,13 @@ msgstr ""
 
 #: ../../CMR.rst:383
 msgid "|mana_2|\\ |mana_u|: Daring Saboteur can't be blocked this turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../CMR.rst:385
 msgid "Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../CMR.rst:390
 msgid ":mtgtip:`Deranged Assistant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73373421-c43d-4152-818a-55abc85b477a.jpg?1608909173|https://scryfall.com/card/cmr/65/deranged-assistant?utm_source=api>`"
@@ -849,6 +890,8 @@ msgstr ""
 #: ../../CMR.rst:389
 msgid "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
+"|tap|, zmiel kartę: Weź |colorless|. (By zmielić kartę, umieść wierzchnią "
+"kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../CMR.rst:398
 msgid ":mtgtip:`Eligeth, Crossroads Augur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a0adf34-1a2b-497b-aaab-4b2b998ed8b3.jpg?1608909183|https://scryfall.com/card/cmr/66/eligeth-crossroads-augur?utm_source=api>`"
@@ -895,6 +938,10 @@ msgstr ""
 #: ../../CMR.rst:1823
 msgid "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
 msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie twojej "
+"biblioteki.)"
 
 #: ../../CMR.rst:419
 #: ../../CMR.rst:2233
@@ -907,7 +954,7 @@ msgstr ""
 
 #: ../../CMR.rst:423
 msgid "Return target tapped creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego przekręconego stwora do ręki właściciela."
 
 #: ../../CMR.rst:425
 #: ../../CMR.rst:643
@@ -916,7 +963,7 @@ msgstr ""
 #: ../../CMR.rst:2343
 #: ../../CMR.rst:2409
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../CMR.rst:434
 msgid ":mtgtip:`Ghost of Ramirez DePietro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4a41506-85c6-4362-b983-36df13db09d9.jpg?1608909231|https://scryfall.com/card/cmr/71/ghost-of-ramirez-depietro?utm_source=api>`"
@@ -945,6 +992,9 @@ msgstr ""
 #: ../../CMR.rst:445
 msgid "When Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../CMR.rst:452
 msgid ":mtgtip:`Hullbreacher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4df8aabc-7fcb-4b7b-980b-18f499e6c170.jpg?1608909259|https://scryfall.com/card/cmr/74/hullbreacher?utm_source=api>`"
@@ -961,6 +1011,10 @@ msgstr ""
 #: ../../CMR.rst:455
 msgid "Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Wróż 3, po czym ujawnij wierzchnią kartę twojej biblioteki. Dobierze tyle "
+"kart, ile wynosi skrót many ujawnionej karty. (By wróżyć 3, spójrz na trzy "
+"wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich na spodzie "
+"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../CMR.rst:460
 msgid ":mtgtip:`Kitesail Corsair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4534ffdd-9965-4e55-9c25-04123720cbba.jpg?1608909275|https://scryfall.com/card/cmr/76/kitesail-corsair?utm_source=api>`"
@@ -968,7 +1022,7 @@ msgstr ""
 
 #: ../../CMR.rst:459
 msgid "Kitesail Corsair has flying as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile atakuje."
 
 #: ../../CMR.rst:468
 msgid ":mtgtip:`Kitesail Skirmisher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcd356b3-29a9-4526-93a0-33375f65744b.jpg?1616447032|https://scryfall.com/card/cmr/77/kitesail-skirmisher?utm_source=api>`"
@@ -1005,6 +1059,8 @@ msgstr ""
 #: ../../CMR.rst:483
 msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's converted mana cost."
 msgstr ""
+"Skontruj wskazany czar. Na początku twojej najbliższej fazy głównej weź tyle "
+"|colorless|, ile wynosi skrót many owego czaru."
 
 #: ../../CMR.rst:488
 msgid ":mtgtip:`Merchant Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fad152da-057d-4805-9e0c-3842ad43e336.jpg?1608909318|https://scryfall.com/card/cmr/81/merchant-raiders?utm_source=api>`"
@@ -1029,6 +1085,9 @@ msgstr ""
 #: ../../CMR.rst:495
 msgid "When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../CMR.rst:500
 msgid ":mtgtip:`Preordain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/1453f92e-df2d-4789-aa1b-a5b5c51567d4.jpg?1608909344|https://scryfall.com/card/cmr/84/preordain?utm_source=api>`"
@@ -1037,6 +1096,9 @@ msgstr ""
 #: ../../CMR.rst:499
 msgid "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Wróż 2, po czym dobierz kartę. (By wróżyć 2, spójrz na dwie wierzchnie karty "
+"twojej biblioteki, po czym umieść dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../CMR.rst:504
 msgid ":mtgtip:`Prosperous Pirates<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d778bde-f927-419e-8052-6230562bdedd.jpg?1608909355|https://scryfall.com/card/cmr/85/prosperous-pirates?utm_source=api>`"
@@ -1045,6 +1107,9 @@ msgstr ""
 #: ../../CMR.rst:503
 msgid "When Prosperous Pirates enters the battlefield, create two Treasure tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (To "
+"artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../CMR.rst:508
 msgid ":mtgtip:`Prying Eyes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb58d7ba-ba86-433e-8f1e-3f492c380796.jpg?1608909363|https://scryfall.com/card/cmr/86/prying-eyes?utm_source=api>`"
@@ -1052,7 +1117,7 @@ msgstr ""
 
 #: ../../CMR.rst:507
 msgid "Draw four cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz cztery karty, po czym odrzuć dwie karty."
 
 #: ../../CMR.rst:512
 msgid ":mtgtip:`Run Away Together<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d747d5f2-d3b0-44f9-92f0-781839386850.jpg?1608909383|https://scryfall.com/card/cmr/87/run-away-together?utm_source=api>`"
@@ -1061,6 +1126,8 @@ msgstr ""
 #: ../../CMR.rst:511
 msgid "Choose two target creatures controlled by different players. Return those creatures to their owners' hands."
 msgstr ""
+"Wskaż dwa stwory pod władaniem różnych graczy. Przywróć owe stwory do rąk "
+"właścicieli."
 
 #: ../../CMR.rst:516
 msgid ":mtgtip:`Sailor of Means<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/212e9011-a9b7-4a60-bb47-ce5c3c147280.jpg?1608909392|https://scryfall.com/card/cmr/88/sailor-of-means?utm_source=api>`"
@@ -1069,6 +1136,8 @@ msgstr ""
 #: ../../CMR.rst:515
 msgid "When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CMR.rst:524
 msgid ":mtgtip:`Sakashima of a Thousand Faces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/714c3a1f-7b30-4ed8-8f38-6176758741fb.jpg?1608909400|https://scryfall.com/card/cmr/89/sakashima-of-a-thousand-faces?utm_source=api>`"
@@ -1109,6 +1178,8 @@ msgstr ""
 #: ../../CMR.rst:543
 msgid "When Scholar of Stars enters the battlefield, if you control an artifact, draw a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz artefaktem, dobierz "
+"kartę."
 
 #: ../../CMR.rst:548
 msgid ":mtgtip:`Scholar of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bfa31b5-8a4f-4766-9606-648cb8ee2916.jpg?1608909434|https://scryfall.com/card/cmr/93/scholar-of-the-ages?utm_source=api>`"
@@ -1117,6 +1188,8 @@ msgstr ""
 #: ../../CMR.rst:547
 msgid "When Scholar of the Ages enters the battlefield, return up to two target instant and/or sorcery cards from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej dwie wskazane "
+"karty sztuczek i/lub obrzędów z twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:552
 msgid ":mtgtip:`Scrapdiver Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce3ba315-f4da-4022-9251-961a378b35ce.jpg?1608909442|https://scryfall.com/card/cmr/94/scrapdiver-serpent?utm_source=api>`"
@@ -1141,6 +1214,8 @@ msgstr ""
 #: ../../CMR.rst:565
 msgid "|mana_u|, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control."
 msgstr ""
+"|mana_u|, poświęć tego stwora: Skontruj wskazany czar lub zdolność "
+"wskazujące ciebie lub stwora pod twoim władaniem."
 
 #: ../../CMR.rst:572
 msgid ":mtgtip:`Skaab Goliath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d151fe63-3b3a-4cd4-9a2d-d80e7434e63c.jpg?1608909468|https://scryfall.com/card/cmr/97/skaab-goliath?utm_source=api>`"
@@ -1149,6 +1224,8 @@ msgstr ""
 #: ../../CMR.rst:569
 msgid "As an additional cost to cast this spell, exile two creature cards from your graveyard."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — wygnaj dwie karty stworów z "
+"twojego cmentarza."
 
 #: ../../CMR.rst:571
 #: ../../CMR.rst:953
@@ -1171,6 +1248,9 @@ msgstr ""
 #: ../../CMR.rst:575
 msgid "When Skilled Animator enters the battlefield, target artifact you control becomes an artifact creature with base power and toughness 5/5 for as long as Skilled Animator remains on the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany artefakt pod twoim władaniem "
+"staje się artefaktowym stworem z bazową siłą i wytrzymałością 5/5 na czas "
+"przebywania niniejszego stwora na polu bitwy."
 
 #: ../../CMR.rst:582
 msgid ":mtgtip:`Sphinx of the Second Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e68b70a6-a150-4d81-921c-9b178fe0037d.jpg?1608909485|https://scryfall.com/card/cmr/99/sphinx-of-the-second-sun?utm_source=api>`"
@@ -1187,6 +1267,7 @@ msgstr ""
 #: ../../CMR.rst:589
 msgid "Enchanted creature gets -X/-0, where X is the number of cards in your graveyard."
 msgstr ""
+"Zauroczony stwór dostaje -X/-0, gdzie X jest liczbą kart w twoim cmentarzu."
 
 #: ../../CMR.rst:594
 msgid ":mtgtip:`Strategic Planning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91e14952-1a6a-4c6a-8def-54846108b542.jpg?1608909502|https://scryfall.com/card/cmr/101/strategic-planning?utm_source=api>`"
@@ -1195,6 +1276,8 @@ msgstr ""
 #: ../../CMR.rst:593
 msgid "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../CMR.rst:602
 msgid ":mtgtip:`Supreme Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcf7fd8a-adc3-4099-8e30-08375f263446.jpg?1608909511|https://scryfall.com/card/cmr/102/supreme-will?utm_source=api>`"
@@ -1212,11 +1295,13 @@ msgstr "Wybierz jedno —"
 
 #: ../../CMR.rst:599
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../CMR.rst:601
 msgid "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../CMR.rst:606
 msgid ":mtgtip:`Thirst for Knowledge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d8173ac-bd9c-4748-9a6a-e5556d74d754.jpg?1608909526|https://scryfall.com/card/cmr/103/thirst-for-knowledge?utm_source=api>`"
@@ -1225,6 +1310,8 @@ msgstr ""
 #: ../../CMR.rst:605
 msgid "Draw three cards. Then discard two cards unless you discard an artifact card."
 msgstr ""
+"Dobierz trzy karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
+"artefaktu."
 
 #: ../../CMR.rst:612
 msgid ":mtgtip:`Trove Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3b74135-b8db-4485-a4b1-7aaa3ef28072.jpg?1616447045|https://scryfall.com/card/cmr/104/trove-tracker?utm_source=api>`"
@@ -1245,6 +1332,8 @@ msgstr ""
 #: ../../CMR.rst:617
 msgid "Enchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma latanie i nie może atakować ciebie oraz "
+"wędrowców pod twoim władaniem."
 
 #: ../../CMR.rst:624
 msgid ":mtgtip:`Warden of Evos Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bfc5cef-aa9b-45d4-a9c3-4b157e4ed193.jpg?1608909550|https://scryfall.com/card/cmr/106/warden-of-evos-isle?utm_source=api>`"
@@ -1252,7 +1341,7 @@ msgstr ""
 
 #: ../../CMR.rst:623
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
 
 #: ../../CMR.rst:628
 msgid ":mtgtip:`Wrong Turn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b69687d-191a-4bca-b1f7-eea27847c1af.jpg?1608909561|https://scryfall.com/card/cmr/107/wrong-turn?utm_source=api>`"
@@ -1277,6 +1366,8 @@ msgstr ""
 #: ../../CMR.rst:637
 msgid "Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu. Strać 2 życia."
 
 #: ../../CMR.rst:644
 msgid ":mtgtip:`Bladebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89fb59ce-7d40-4784-b96d-2d5a25a8e531.jpg?1608909585|https://scryfall.com/card/cmr/110/bladebrand?utm_source=api>`"
@@ -1284,7 +1375,7 @@ msgstr ""
 
 #: ../../CMR.rst:641
 msgid "Target creature gains deathtouch until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../CMR.rst:650
 msgid ":mtgtip:`Briarblade Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3fb5f1-baf5-4934-aac7-ffbaa85b2428.jpg?1616447000|https://scryfall.com/card/cmr/111/briarblade-adept?utm_source=api>`"
@@ -1304,7 +1395,7 @@ msgstr ""
 
 #: ../../CMR.rst:653
 msgid "Destroy target nonlegendary creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nie-legendarnego stwora."
 
 #: ../../CMR.rst:658
 msgid ":mtgtip:`Corpse Churn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fedb37f-4f3c-477c-84c0-aa864e87c111.jpg?1608909610|https://scryfall.com/card/cmr/113/corpse-churn?utm_source=api>`"
@@ -1313,6 +1404,9 @@ msgstr ""
 #: ../../CMR.rst:657
 msgid "Mill three cards, then you may return a creature card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
+"Zmiel trzy karty, po czym możesz przywrócić kartę stwora z twojego cmentarza "
+"do twojej ręki. (Aby zmielić kartę, umieść wierzchnią kartę twojej "
+"biblioteki w twoim cmentarzu.)"
 
 #: ../../CMR.rst:664
 msgid ":mtgtip:`Court of Ambition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5deb0185-62b3-474b-83a1-25473fdae4fa.jpg?1608909619|https://scryfall.com/card/cmr/114/court-of-ambition?utm_source=api>`"
@@ -1333,6 +1427,8 @@ msgstr ""
 #: ../../CMR.rst:669
 msgid "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. (Put the top two cards of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
+"dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../CMR.rst:674
 msgid ":mtgtip:`Cuombajj Witches<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a26e910-275a-4981-831b-bfed936a7e3f.jpg?1608909638|https://scryfall.com/card/cmr/116/cuombajj-witches?utm_source=api>`"
@@ -1349,6 +1445,8 @@ msgstr ""
 #: ../../CMR.rst:677
 msgid "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
+"jako obrzęd."
 
 #: ../../CMR.rst:684
 msgid ":mtgtip:`Demonic Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47733f20-f7b2-4a01-b429-0ec49b230fd9.jpg?1608909656|https://scryfall.com/card/cmr/118/demonic-lore?utm_source=api>`"
@@ -1368,7 +1466,7 @@ msgstr ""
 
 #: ../../CMR.rst:687
 msgid "As long as you control an artifact, Dhund Operative gets +1/+0 and has deathtouch."
-msgstr ""
+msgstr "O ile władasz artefaktem, ten stwór dostaje +1/+0 i ma dotyk śmierci."
 
 #: ../../CMR.rst:692
 msgid ":mtgtip:`Elvish Doomsayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b1264d2-c7c8-477f-84f6-c17b422aa45e.jpg?1608909682|https://scryfall.com/card/cmr/120/elvish-doomsayer?utm_source=api>`"
@@ -1387,7 +1485,7 @@ msgstr ""
 #: ../../CMR.rst:1209
 #: ../../CMR.rst:3035
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../CMR.rst:697
 msgid "When Elvish Dreadlord dies, non-Elf creatures get -3/-3 until end of turn."
@@ -1416,6 +1514,8 @@ msgstr ""
 #: ../../CMR.rst:709
 msgid "When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../CMR.rst:714
 msgid ":mtgtip:`Eyeblight Cullers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da777e75-6f1f-4e07-a5ec-e25454a0636c.jpg?1608909717|https://scryfall.com/card/cmr/124/eyeblight-cullers?utm_source=api>`"
@@ -1431,7 +1531,7 @@ msgstr ""
 
 #: ../../CMR.rst:717
 msgid "Non-Elf creatures get -2/-2 until end of turn."
-msgstr ""
+msgstr "Stwory bez typu Elf dostają do końca tury -2/-2."
 
 #: ../../CMR.rst:724
 msgid ":mtgtip:`Falthis, Shadowcat Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84537fea-ad81-4a9a-99d4-722a938adc7d.jpg?1608909735|https://scryfall.com/card/cmr/126/falthis-shadowcat-familiar?utm_source=api>`"
@@ -1455,7 +1555,7 @@ msgstr ""
 
 #: ../../CMR.rst:731
 msgid "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../CMR.rst:736
 msgid ":mtgtip:`Ghastly Demise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fcfe11a-fcc9-41e1-91ef-755bb4e22389.jpg?1608909764|https://scryfall.com/card/cmr/129/ghastly-demise?utm_source=api>`"
@@ -1474,10 +1574,14 @@ msgstr ""
 #: ../../CMR.rst:1125
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../CMR.rst:741
 msgid "When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora "
+"bez typu Elf, którego siła i wytrzymałość nie są sobie równe."
 
 #: ../../CMR.rst:748
 msgid ":mtgtip:`Keskit, the Flesh Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8f5ffe8-b4ed-4db8-8f0f-97aaeb659689.jpg?1608933855|https://scryfall.com/card/cmr/131/keskit-the-flesh-sculptor?utm_source=api>`"
@@ -1493,7 +1597,7 @@ msgstr ""
 
 #: ../../CMR.rst:751
 msgid "When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../CMR.rst:758
 msgid ":mtgtip:`Miara, Thorn of the Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41a76adc-42e1-4f65-940c-d0a5555c0633.jpg?1608909799|https://scryfall.com/card/cmr/133/miara-thorn-of-the-glade?utm_source=api>`"
@@ -1509,7 +1613,7 @@ msgstr ""
 
 #: ../../CMR.rst:761
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../CMR.rst:770
 msgid ":mtgtip:`Nadier, Agent of the Duskenel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47c5948b-b021-4d07-8003-9c11db690bc0.jpg?1608909819|https://scryfall.com/card/cmr/135/nadier-agent-of-the-duskenel?utm_source=api>`"
@@ -1554,6 +1658,8 @@ msgstr ""
 #: ../../CMR.rst:787
 msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
 msgstr ""
+"Kiedy ten stwór umrze, możesz zniszczyć wskazanego stwora o skrócie many 3 "
+"lub mniejszym."
 
 #: ../../CMR.rst:792
 msgid ":mtgtip:`Null Caller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bde7ecbc-b277-437c-ac94-4c3e89f1bda6.jpg?1608909866|https://scryfall.com/card/cmr/140/null-caller?utm_source=api>`"
@@ -1562,6 +1668,8 @@ msgstr ""
 #: ../../CMR.rst:791
 msgid "|mana_3|\\ |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token."
 msgstr ""
+"|mana_3|\\ |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../CMR.rst:800
 msgid ":mtgtip:`Opposition Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/086f97e9-8b62-44f3-b467-149c2ac5ca78.jpg?1608909875|https://scryfall.com/card/cmr/141/opposition-agent?utm_source=api>`"
@@ -1581,7 +1689,7 @@ msgstr ""
 
 #: ../../CMR.rst:803
 msgid "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../CMR.rst:810
 msgid ":mtgtip:`Plague Reaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/230b9bc8-29c8-49cb-b4f5-1aceeda8bf45.jpg?1608909892|https://scryfall.com/card/cmr/143/plague-reaver?utm_source=api>`"
@@ -1630,6 +1738,8 @@ msgstr ""
 #: ../../CMR.rst:829
 msgid "Revenant's power and toughness are each equal to the number of creature cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 #: ../../CMR.rst:834
 msgid ":mtgtip:`Sanitarium Skeleton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c33d20d-8d1c-4cf7-a7ad-3dab9758fafe.jpg?1608909938|https://scryfall.com/card/cmr/148/sanitarium-skeleton?utm_source=api>`"
@@ -1638,6 +1748,7 @@ msgstr ""
 #: ../../CMR.rst:833
 msgid "|mana_2|\\ |mana_b|: Return Sanitarium Skeleton from your graveyard to your hand."
 msgstr ""
+"|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:844
 msgid ":mtgtip:`Sengir, the Dark Baron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d51a22e-74fc-442e-945a-56d02ca12713.jpg?1608909947|https://scryfall.com/card/cmr/149/sengir-the-dark-baron?utm_source=api>`"
@@ -1658,10 +1769,12 @@ msgstr ""
 #: ../../CMR.rst:847
 msgid "As an additional cost to cast this spell, sacrifice a creature or pay |mana_3|\\ |mana_b|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru – poświęć stwora lub zapłać |mana_3|"
+"\\ |mana_b|."
 
 #: ../../CMR.rst:849
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../CMR.rst:854
 msgid ":mtgtip:`Supernatural Stamina<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce15ab0b-c70d-4ac0-a6ee-dbd31736ce1f.jpg?1608909963|https://scryfall.com/card/cmr/151/supernatural-stamina?utm_source=api>`"
@@ -1670,6 +1783,8 @@ msgstr ""
 #: ../../CMR.rst:853
 msgid "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
+"przywróć go przekręconego na pole bitwy pod władaniem właściciela.\""
 
 #: ../../CMR.rst:862
 msgid ":mtgtip:`Szat's Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9828be7b-1eae-4718-9e71-2f625121b00b.jpg?1608909971|https://scryfall.com/card/cmr/152/szats-will?utm_source=api>`"
@@ -1726,6 +1841,8 @@ msgstr ""
 #: ../../CMR.rst:889
 msgid "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece, po czym przetasuj twoją bibliotekę i "
+"umieść ową kartę na jej wierzchu. Strać 2 życia."
 
 #: ../../CMR.rst:894
 msgid ":mtgtip:`Victimize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/855e9253-2219-4c43-8131-47633c564ee2.jpg?1608910016|https://scryfall.com/card/cmr/157/victimize?utm_source=api>`"
@@ -1734,6 +1851,8 @@ msgstr ""
 #: ../../CMR.rst:893
 msgid "Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped."
 msgstr ""
+"Wskaż dwie karty stworów w twoim cmentarzu. Poświęć stwora. Jeśli tak "
+"zrobisz, przywróć wybrane karty przekręcone na pole bitwy."
 
 #: ../../CMR.rst:898
 msgid ":mtgtip:`Viscera Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8.jpg?1608910025|https://scryfall.com/card/cmr/158/viscera-seer?utm_source=api>`"
@@ -1742,6 +1861,8 @@ msgstr ""
 #: ../../CMR.rst:897
 msgid "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Poświęć stwora: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../CMR.rst:904
 msgid ":mtgtip:`Vow of Torment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae74624e-3850-4153-b682-d044272269c1.jpg?1608910035|https://scryfall.com/card/cmr/159/vow-of-torment?utm_source=api>`"
@@ -1778,10 +1899,12 @@ msgstr ""
 #: ../../CMR.rst:923
 msgid "This spell costs |mana_1| less to cast for each creature on the battlefield."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
+"bitwy."
 
 #: ../../CMR.rst:925
 msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 13 obrażeń."
 
 #: ../../CMR.rst:932
 msgid ":mtgtip:`Boarding Party<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/186adacf-434b-475b-9b85-749615ae002b.jpg?1608910069|https://scryfall.com/card/cmr/163/boarding-party?utm_source=api>`"
@@ -1799,6 +1922,8 @@ msgstr ""
 #: ../../CMR.rst:935
 msgid "When Brazen Freebooter enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CMR.rst:944
 msgid ":mtgtip:`Breeches, Brazen Plunderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83e8fe2e-ec6c-47fc-85c0-6eec185ecdce.jpg?1608910091|https://scryfall.com/card/cmr/165/breeches-brazen-plunderer?utm_source=api>`"
@@ -1807,7 +1932,7 @@ msgstr ""
 #: ../../CMR.rst:939
 #: ../../CMR.rst:2907
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../CMR.rst:941
 msgid "Whenever one or more Pirates you control deal damage to your opponents, exile the top card of each of those opponents' libraries. You may play those cards this turn, and you may spend mana as though it were mana of any color to cast those spells."
@@ -1820,6 +1945,8 @@ msgstr ""
 #: ../../CMR.rst:949
 msgid "Enchanted creature has \"|tap|: This creature deals damage equal to its power to any target.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Ten stwór zadaje wskazanemu celowi obrażenia "
+"równe swojej sile.\""
 
 #: ../../CMR.rst:956
 msgid ":mtgtip:`Champion of the Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a248363d-40a0-4dc5-a0bb-a826c3ba4499.jpg?1608910108|https://scryfall.com/card/cmr/167/champion-of-the-flame?utm_source=api>`"
@@ -1828,6 +1955,7 @@ msgstr ""
 #: ../../CMR.rst:955
 msgid "Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it."
 msgstr ""
+"Ten stwór dostaje +2/+2 za każdą dołączoną do niego Aurę lub Wyposażenie."
 
 #: ../../CMR.rst:964
 msgid ":mtgtip:`Coastline Marauders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a47e6bc-422a-4627-b21e-5a042193bed0.jpg?1616447006|https://scryfall.com/card/cmr/168/coastline-marauders?utm_source=api>`"
@@ -1888,6 +2016,8 @@ msgstr "Obronność"
 #: ../../CMR.rst:993
 msgid "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and \"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
+"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 #: ../../CMR.rst:1002
 msgid ":mtgtip:`Dragon Mantle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca32fd66-f7f1-4e50-817f-bb259f690f00.jpg?1608910171|https://scryfall.com/card/cmr/174/dragon-mantle?utm_source=api>`"
@@ -1895,11 +2025,12 @@ msgstr ""
 
 #: ../../CMR.rst:999
 msgid "When Dragon Mantle enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:1001
 msgid "Enchanted creature has \"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"Zauroczony stwór ma \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 #: ../../CMR.rst:1008
 msgid ":mtgtip:`Emberwilde Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/362850cd-d33c-4f61-9b3a-5de748adee7c.jpg?1608910178|https://scryfall.com/card/cmr/175/emberwilde-captain?utm_source=api>`"
@@ -1939,7 +2070,7 @@ msgstr ""
 
 #: ../../CMR.rst:1021
 msgid "Fiery Cannonade deals 2 damage to each non-Pirate creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez typu Pirat po 2 obrażenia."
 
 #: ../../CMR.rst:1026
 msgid ":mtgtip:`Flamekin Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2616030-01f2-43b1-98ba-f7e5a5a75379.jpg?1608910215|https://scryfall.com/card/cmr/179/flamekin-herald?utm_source=api>`"
@@ -1964,6 +2095,8 @@ msgstr ""
 #: ../../CMR.rst:1035
 msgid "Whenever you sacrifice another permanent, you may pay |mana_2|. If you do, Furnace Celebration deals 2 damage to any target."
 msgstr ""
+"Ilekroć poświęcisz inny permanent, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../CMR.rst:1040
 msgid ":mtgtip:`Goblin Trailblazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca382425-2454-4300-b903-fdefd31582d3.jpg?1608910239|https://scryfall.com/card/cmr/182/goblin-trailblazer?utm_source=api>`"
@@ -1984,6 +2117,8 @@ msgstr ""
 #: ../../CMR.rst:1049
 msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn."
 msgstr ""
+"|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
+"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
 
 #: ../../CMR.rst:1056
 msgid ":mtgtip:`Impulsive Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55ba9bea-5549-45cf-896c-501a1c81fd5a.jpg?1616447022|https://scryfall.com/card/cmr/185/impulsive-pilferer?utm_source=api>`"
@@ -2051,11 +2186,11 @@ msgstr ""
 
 #: ../../CMR.rst:1091
 msgid "|tap|: Lightning-Rig Crew deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po1 obrażeniu."
 
 #: ../../CMR.rst:1093
 msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
-msgstr ""
+msgstr "Ilekroć rzucisz czar Pirata, odkręć niniejszego stwora."
 
 #: ../../CMR.rst:1098
 msgid ":mtgtip:`Makeshift Munitions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19d1ad9f-e217-49fb-8b27-025ca133b6c9.jpg?1608910325|https://scryfall.com/card/cmr/191/makeshift-munitions?utm_source=api>`"
@@ -2064,6 +2199,8 @@ msgstr ""
 #: ../../CMR.rst:1097
 msgid "|mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 damage to any target."
 msgstr ""
+"|mana_1|, poświęć artefakt lub stwora: Ten urok zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../CMR.rst:1106
 msgid ":mtgtip:`Meteoric Mace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28cb7e94-01df-4e80-9b24-bc303a27ffd6.jpg?1608910335|https://scryfall.com/card/cmr/192/meteoric-mace?utm_source=api>`"
@@ -2092,6 +2229,9 @@ msgstr ""
 #: ../../CMR.rst:1115
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Zyskuje on "
+"pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../CMR.rst:1122
 msgid ":mtgtip:`Renegade Tactics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7dfa0e65-1ce0-4f8e-a78b-2ade2d25e748.jpg?1608910360|https://scryfall.com/card/cmr/195/renegade-tactics?utm_source=api>`"
@@ -2099,7 +2239,7 @@ msgstr ""
 
 #: ../../CMR.rst:1119
 msgid "Target creature can't block this turn."
-msgstr ""
+msgstr "Wskazany stwór nie może blokować w tej turze."
 
 #: ../../CMR.rst:1126
 msgid ":mtgtip:`Ripscale Predator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00924a16-fb85-41a4-bd7a-88f51f728333.jpg?1608910367|https://scryfall.com/card/cmr/196/ripscale-predator?utm_source=api>`"
@@ -2119,7 +2259,7 @@ msgstr ""
 
 #: ../../CMR.rst:1135
 msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../CMR.rst:1140
 msgid ":mtgtip:`Skyraker Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71eed5cc-e5e8-476d-bdd7-c51233359a48.jpg?1608910391|https://scryfall.com/card/cmr/199/skyraker-giant?utm_source=api>`"
@@ -2132,7 +2272,7 @@ msgstr ""
 #: ../../CMR.rst:1459
 #: ../../CMR.rst:1473
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../CMR.rst:1144
 msgid ":mtgtip:`Soul's Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/239a9f2e-145b-4f31-8128-4d376af1079d.jpg?1608910399|https://scryfall.com/card/cmr/200/souls-fire?utm_source=api>`"
@@ -2141,6 +2281,8 @@ msgstr ""
 #: ../../CMR.rst:1143
 msgid "Target creature you control deals damage equal to its power to any target."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje wskazanemu celowi obrażenia równe "
+"swojej sile."
 
 #: ../../CMR.rst:1148
 msgid ":mtgtip:`Soulfire Eruption<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2def4384-7175-4a26-a5a0-8f2c5b5ad71c.jpg?1608910409|https://scryfall.com/card/cmr/201/soulfire-eruption?utm_source=api>`"
@@ -2157,6 +2299,8 @@ msgstr ""
 #: ../../CMR.rst:1153
 msgid "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_r|. "
+"Kiedy to zrobisz, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../CMR.rst:1158
 msgid ":mtgtip:`Stonefury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c111bf0-dedb-48eb-982c-f877120f12c3.jpg?1608910428|https://scryfall.com/card/cmr/203/stonefury?utm_source=api>`"
@@ -2164,7 +2308,7 @@ msgstr ""
 
 #: ../../CMR.rst:1157
 msgid "Stonefury deals damage to target creature equal to the number of lands you control."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi tyle obrażeń, iloma lądami władasz."
 
 #: ../../CMR.rst:1164
 msgid ":mtgtip:`Toggo, Goblin Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a05b3e2-259e-4fce-92ee-c00660e22ae7.jpg?1608910436|https://scryfall.com/card/cmr/204/toggo-goblin-weaponsmith?utm_source=api>`"
@@ -2180,11 +2324,13 @@ msgstr ""
 
 #: ../../CMR.rst:1169
 msgid "Enchanted creature gets +2/+2 and can't block."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i nie może blokować."
 
 #: ../../CMR.rst:1171
 msgid "When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand."
 msgstr ""
+"Kiedy ten urok trafi do cmentarza z pola bitwy, przywróć go do ręki "
+"właściciela."
 
 #: ../../CMR.rst:1176
 msgid ":mtgtip:`Valakut Invoker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8000d86-60e7-4edd-b685-14ade08b76f2.jpg?1608910454|https://scryfall.com/card/cmr/206/valakut-invoker?utm_source=api>`"
@@ -2192,7 +2338,7 @@ msgstr ""
 
 #: ../../CMR.rst:1175
 msgid "|mana_8|: Valakut Invoker deals 3 damage to any target."
-msgstr ""
+msgstr "|mana_8|: Ten stwór zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../CMR.rst:1180
 msgid ":mtgtip:`Volcanic Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46419d29-21a1-4753-a2f0-1d0d996ec54e.jpg?1608910463|https://scryfall.com/card/cmr/207/volcanic-dragon?utm_source=api>`"
@@ -2201,7 +2347,7 @@ msgstr ""
 #: ../../CMR.rst:1179
 #: ../../CMR.rst:2937
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../CMR.rst:1186
 msgid ":mtgtip:`Volcanic Torrent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb586da6-670d-4c50-9d9b-f320f1c288d7.jpg?1608910472|https://scryfall.com/card/cmr/208/volcanic-torrent?utm_source=api>`"
@@ -2218,6 +2364,8 @@ msgstr ""
 #: ../../CMR.rst:1191
 msgid "Enchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i nie może atakować ciebie "
+"ani wędrowców pod twoim władaniem."
 
 #: ../../CMR.rst:1196
 msgid ":mtgtip:`Welding Sparks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/346cc190-6825-4226-8ea5-71abe788454d.jpg?1608910489|https://scryfall.com/card/cmr/210/welding-sparks?utm_source=api>`"
@@ -2226,6 +2374,8 @@ msgstr ""
 #: ../../CMR.rst:1195
 msgid "Welding Sparks deals X damage to target creature, where X is 3 plus the number of artifacts you control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, gdzie X jest liczbą "
+"artefaktów pod twoim władaniem plus 3."
 
 #: ../../CMR.rst:1200
 msgid ":mtgtip:`Wheel of Misfortune<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74177b51-a300-49d9-8ea7-557b19cf80c7.jpg?1608910499|https://scryfall.com/card/cmr/211/wheel-of-misfortune?utm_source=api>`"
@@ -2242,6 +2392,7 @@ msgstr ""
 #: ../../CMR.rst:1203
 msgid "When Wild Celebrants enters the battlefield, you may destroy target artifact."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
 
 #: ../../CMR.rst:1210
 msgid ":mtgtip:`Ambush Viper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e386888-57f5-4eb6-88e8-5679bb8eb290.jpg?1608910517|https://scryfall.com/card/cmr/213/ambush-viper?utm_source=api>`"
@@ -2262,6 +2413,9 @@ msgstr ""
 #: ../../CMR.rst:1219
 msgid "Put a +1/+1 counter on target creature you control if it's legendary. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem jeśli jest on "
+"legendarny. Następnie walczy on ze wskazanym stworem pod władaniem "
+"przeciwnika. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../CMR.rst:1226
 msgid ":mtgtip:`Annoyed Altisaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7536d618-0c98-45bb-913b-b8117b4acf87.jpg?1608910542|https://scryfall.com/card/cmr/216/annoyed-altisaur?utm_source=api>`"
@@ -2269,7 +2423,7 @@ msgstr ""
 
 #: ../../CMR.rst:1223
 msgid "Reach, trample"
-msgstr ""
+msgstr "Zasięg, tratowanie"
 
 #: ../../CMR.rst:1230
 msgid ":mtgtip:`Apex Devastator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8fa281e1-5c48-4bba-b8e9-88c6f5f53abb.jpg?1608910550|https://scryfall.com/card/cmr/217/apex-devastator?utm_source=api>`"
@@ -2286,6 +2440,8 @@ msgstr ""
 #: ../../CMR.rst:1233
 msgid "When Armorcraft Judge enters the battlefield, draw a card for each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdego stwora pod "
+"twoim władaniem mającego znacznik +1/+1."
 
 #: ../../CMR.rst:1240
 msgid ":mtgtip:`Biowaste Blob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bbf476f-ccc8-42ac-8d01-64bb85552acd.jpg?1608910569|https://scryfall.com/card/cmr/219/biowaste-blob?utm_source=api>`"
@@ -2317,13 +2473,13 @@ msgstr ""
 
 #: ../../CMR.rst:1251
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora mającego latanie."
 
 #: ../../CMR.rst:1253
 #: ../../CMR.rst:2325
 #: ../../CMR.rst:2575
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../CMR.rst:1260
 msgid ":mtgtip:`Dawnglade Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d26025f0-72c0-4875-b2d7-916666b835d9.jpg?1608910596|https://scryfall.com/card/cmr/222/dawnglade-regent?utm_source=api>`"
@@ -2343,7 +2499,7 @@ msgstr ""
 
 #: ../../CMR.rst:1263
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:1270
 msgid ":mtgtip:`Entourage of Trest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87e65427-1191-4f5a-b4ca-c383eecd274e.jpg?1608910615|https://scryfall.com/card/cmr/224/entourage-of-trest?utm_source=api>`"
@@ -2364,6 +2520,9 @@ msgstr ""
 #: ../../CMR.rst:1273
 msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
+"przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:1280
 msgid ":mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11d56da0-6f37-4bd5-8982-940e80bd4282.jpg?1608910635|https://scryfall.com/card/cmr/226/fertilid?utm_source=api>`"
@@ -2371,11 +2530,14 @@ msgstr ""
 
 #: ../../CMR.rst:1277
 msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../CMR.rst:1279
 msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
 msgstr ""
+"|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
+"wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
+"bitwy, po czym tasuje swoją bibliotekę."
 
 #: ../../CMR.rst:1286
 msgid ":mtgtip:`Fin-Clade Fugitives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eb7af70-e024-44bf-a52b-209074b005a3.jpg?1616447019|https://scryfall.com/card/cmr/227/fin-clade-fugitives?utm_source=api>`"
@@ -2405,15 +2567,15 @@ msgstr ""
 
 #: ../../CMR.rst:1293
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../CMR.rst:1295
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../CMR.rst:1297
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../CMR.rst:1304
 msgid ":mtgtip:`Gilanra, Caller of Wirewood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/745d297d-4bb4-40cf-bb9c-99dac04e5069.jpg?1608910679|https://scryfall.com/card/cmr/230/gilanra-caller-of-wirewood?utm_source=api>`"
@@ -2438,6 +2600,8 @@ msgstr ""
 #: ../../CMR.rst:1315
 msgid "Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards."
 msgstr ""
+"Wskaż stwora pod twoim władaniem. Ilekroć w tej turze ów stwór zada graczowi "
+"lub wędrowcowi obrażenia bojowe, dobierz tyle samo kart."
 
 #: ../../CMR.rst:1324
 msgid ":mtgtip:`Ich-Tekik, Salvage Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0409a15a-7cf6-43e5-958c-d23da4304f29.jpg?1608910710|https://scryfall.com/card/cmr/233/ich-tekik-salvage-splicer?utm_source=api>`"
@@ -2465,11 +2629,11 @@ msgstr ""
 
 #: ../../CMR.rst:1331
 msgid "Other Elves you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../CMR.rst:1333
 msgid "|mana_g|, |tap|: Create a 1/1 green Elf Warrior creature token."
-msgstr ""
+msgstr "|mana_g|, |tap|: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 #: ../../CMR.rst:1338
 msgid ":mtgtip:`Ivy Lane Denizen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78bea375-8af3-4425-a418-bb5503e2dfb7.jpg?1608910737|https://scryfall.com/card/cmr/236/ivy-lane-denizen?utm_source=api>`"
@@ -2478,6 +2642,8 @@ msgstr ""
 #: ../../CMR.rst:1337
 msgid "Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on target creature."
 msgstr ""
+"Ilekroć inny zielony stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na wskazanym stworze."
 
 #: ../../CMR.rst:1346
 msgid ":mtgtip:`Kamahl, Heart of Krosa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c3560ae-b1f6-4269-a9eb-1a45247b6232.jpg?1608910749|https://scryfall.com/card/cmr/237/kamahl-heart-of-krosa?utm_source=api>`"
@@ -2518,6 +2684,8 @@ msgstr ""
 #: ../../CMR.rst:1365
 msgid "Put a +1/+1 counter on target creature, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze, po czym umieść znacznik +1/+1 na "
+"każdym stworze mającym znacznik +1/+1 pod twoim władaniem."
 
 #: ../../CMR.rst:1372
 msgid ":mtgtip:`Lys Alana Bowmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3888e2f0-223b-4509-8071-fe1b87a65b72.jpg?1608910787|https://scryfall.com/card/cmr/241/lys-alana-bowmaster?utm_source=api>`"
@@ -2550,6 +2718,9 @@ msgstr ""
 #: ../../CMR.rst:1385
 msgid "Monstrous Onslaught deals X damage divided as you choose among any number of target creatures, where X is the greatest power among creatures you control as you cast this spell."
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielonych dowolnie pomiędzy dowolną liczbę "
+"wskazanych stworów, gdzie X jest największą siłą pośród stworów pod twoim "
+"władaniem podczas rzucania tego czaru."
 
 #: ../../CMR.rst:1392
 msgid ":mtgtip:`Natural Reclamation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e98fb7c-6962-4b57-b7b7-c71899564002.jpg?1608910823|https://scryfall.com/card/cmr/245/natural-reclamation?utm_source=api>`"
@@ -2558,7 +2729,7 @@ msgstr ""
 #: ../../CMR.rst:1391
 #: ../../CMR.rst:2123
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../CMR.rst:1398
 msgid ":mtgtip:`Numa, Joraga Chieftain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9465d118-5ad5-42c5-a512-7aca5f7b905d.jpg?1608910833|https://scryfall.com/card/cmr/246/numa-joraga-chieftain?utm_source=api>`"
@@ -2575,10 +2746,15 @@ msgstr ""
 #: ../../CMR.rst:1403
 msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, umieść na nim znacznik +1/+1. Następnie "
+"jeśli ma on co najmniej trzy znaczniki +1/+1, poświęć ten urok."
 
 #: ../../CMR.rst:1405
 msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy poświęcisz ten urok, wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../CMR.rst:1410
 msgid ":mtgtip:`Reclamation Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b800bb44-3594-4fb7-b007-10732632b51a.jpg?1608910850|https://scryfall.com/card/cmr/248/reclamation-sage?utm_source=api>`"
@@ -2587,6 +2763,8 @@ msgstr ""
 #: ../../CMR.rst:1409
 msgid "When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment."
 msgstr ""
+"Kiedy ta karta wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt lub "
+"urok."
 
 #: ../../CMR.rst:1414
 msgid ":mtgtip:`Reshape the Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ada14bc8-4549-4a73-8cbb-9a43698deb36.jpg?1608910860|https://scryfall.com/card/cmr/249/reshape-the-earth?utm_source=api>`"
@@ -2611,6 +2789,8 @@ msgstr ""
 #: ../../CMR.rst:1421
 msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../CMR.rst:1428
 msgid ":mtgtip:`Scrounging Bandar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02c8aab5-ed0d-489d-87af-7eb3193b75db.jpg?1608910887|https://scryfall.com/card/cmr/252/scrounging-bandar?utm_source=api>`"
@@ -2618,11 +2798,13 @@ msgstr ""
 
 #: ../../CMR.rst:1425
 msgid "Scrounging Bandar enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../CMR.rst:1427
 msgid "At the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Bandar onto another target creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz przenieść dowolną liczbę "
+"znaczników +1/+1 z tego stwora na innego wskazanego stwora."
 
 #: ../../CMR.rst:1432
 msgid ":mtgtip:`Sentinel Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01e7af76-e505-49ca-a91e-8167027560ff.jpg?1608910895|https://scryfall.com/card/cmr/253/sentinel-spider?utm_source=api>`"
@@ -2631,7 +2813,7 @@ msgstr ""
 #: ../../CMR.rst:1431
 #: ../../CMR.rst:1547
 msgid "Vigilance, reach"
-msgstr ""
+msgstr "Czujność, zasięg"
 
 #: ../../CMR.rst:1438
 msgid ":mtgtip:`Sifter Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/492ff217-1bf6-4942-8d2f-8ddd71da683f.jpg?1608910905|https://scryfall.com/card/cmr/254/sifter-wurm?utm_source=api>`"
@@ -2640,6 +2822,8 @@ msgstr ""
 #: ../../CMR.rst:1437
 msgid "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's converted mana cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 3, po czym ujawnij wierzchnią "
+"kartę twojej biblioteki. Zyskaj tyle żyć, ile wynosi skrót many owej karty."
 
 #: ../../CMR.rst:1444
 msgid ":mtgtip:`Silverback Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/8048bab7-8fd1-446c-80e9-cc2ffb154295.jpg?1608910914|https://scryfall.com/card/cmr/255/silverback-shaman?utm_source=api>`"
@@ -2647,7 +2831,7 @@ msgstr ""
 
 #: ../../CMR.rst:1443
 msgid "When Silverback Shaman dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../CMR.rst:1452
 msgid ":mtgtip:`Slurrk, All-Ingesting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4da14a82-0c33-4319-9af5-390013ccbe19.jpg?1608910923|https://scryfall.com/card/cmr/256/slurrk-all-ingesting?utm_source=api>`"
@@ -2676,6 +2860,8 @@ msgstr ""
 #: ../../CMR.rst:1461
 msgid "When Stingerfling Spider enters the battlefield, you may destroy target creature with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora z "
+"lataniem."
 
 #: ../../CMR.rst:1466
 msgid ":mtgtip:`Strength of the Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81a1ba0c-1131-4b16-9a11-90947cdb6292.jpg?1608910950|https://scryfall.com/card/cmr/259/strength-of-the-pack?utm_source=api>`"
@@ -2683,7 +2869,7 @@ msgstr ""
 
 #: ../../CMR.rst:1465
 msgid "Put two +1/+1 counters on each creature you control."
-msgstr ""
+msgstr "Umieść po dwa znaczniki +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../CMR.rst:1476
 msgid ":mtgtip:`Sweet-Gum Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fd331b3-43cd-421a-964d-d3b35bb8abcb.jpg?1608910959|https://scryfall.com/card/cmr/260/sweet-gum-recluse?utm_source=api>`"
@@ -2712,6 +2898,8 @@ msgstr ""
 #: ../../CMR.rst:1485
 msgid "Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control."
 msgstr ""
+"Zauroczony stwór dostaje +3/+3, ma tratowanie i nie może atakować ciebie ani "
+"wędrowców pod twoim władaniem."
 
 #: ../../CMR.rst:1490
 msgid ":mtgtip:`Wildheart Invoker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/143231b3-23c4-4c6d-8b58-e401e1ac6e29.jpg?1608910986|https://scryfall.com/card/cmr/263/wildheart-invoker?utm_source=api>`"
@@ -2719,7 +2907,7 @@ msgstr ""
 
 #: ../../CMR.rst:1489
 msgid "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr ""
+msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
 
 #: ../../CMR.rst:1496
 msgid ":mtgtip:`Wildsize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb0e640d-9a24-471e-8092-0177ec8d824e.jpg?1608910995|https://scryfall.com/card/cmr/264/wildsize?utm_source=api>`"
@@ -2727,7 +2915,7 @@ msgstr ""
 
 #: ../../CMR.rst:1493
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
 
 #: ../../CMR.rst:1502
 msgid ":mtgtip:`Abomination of Llanowar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/567dbc64-4d59-4bab-a551-08fc66c085fa.jpg?1608911004|https://scryfall.com/card/cmr/265/abomination-of-llanowar?utm_source=api>`"
@@ -2740,6 +2928,8 @@ msgstr ""
 #: ../../CMR.rst:1501
 msgid "Abomination of Llanowar's power and toughness are each equal to the number of Elves you control plus the number of Elf cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równe sumie liczb Elfów pod twoim "
+"władaniem i kart Elfów w twoim cmentarzu."
 
 #: ../../CMR.rst:1508
 msgid ":mtgtip:`Amareth, the Lustrous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fbea010-de77-468e-be39-1717070c9303.jpg?1608911014|https://scryfall.com/card/cmr/266/amareth-the-lustrous?utm_source=api>`"
@@ -2851,7 +3041,7 @@ msgstr ""
 
 #: ../../CMR.rst:1563
 msgid "You gain X life."
-msgstr ""
+msgstr "Zyskaj X żyć."
 
 #: ../../CMR.rst:1570
 msgid ":mtgtip:`Gor Muldrak, Amphinologist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40b006f9-a287-4e64-915f-ca71712b8d27.jpg?1608911119|https://scryfall.com/card/cmr/277/gor-muldrak-amphinologist?utm_source=api>`"
@@ -2872,10 +3062,14 @@ msgstr ""
 #: ../../CMR.rst:1573
 msgid "This spell costs |mana_1| less to cast for each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora pod twoim "
+"władaniem mającego znacznik +1/+1."
 
 #: ../../CMR.rst:1575
 msgid "Creature spells you cast cost |mana_1| less to cast for each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każdego stwora pod "
+"twoim władaniem mającego znacznik +1/+1."
 
 #: ../../CMR.rst:1580
 msgid ":mtgtip:`Hans Eriksson<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24a0babe-8da4-4c95-9cdf-626a5c5e2e5c.jpg?1608911136|https://scryfall.com/card/cmr/279/hans-eriksson?utm_source=api>`"
@@ -2923,7 +3117,7 @@ msgstr ""
 
 #: ../../CMR.rst:1601
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../CMR.rst:1603
 msgid "Whenever Kangee, Sky Warden attacks, attacking creatures with flying get +2/+0 until end of turn."
@@ -2948,7 +3142,7 @@ msgstr ""
 #: ../../CMR.rst:1613
 #: ../../CMR.rst:3057
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../CMR.rst:1615
 msgid "At the beginning of each end step, if you gained life this turn, distribute up to that many +1/+1 counters among any number of other target creatures."
@@ -3048,11 +3242,13 @@ msgstr ""
 
 #: ../../CMR.rst:1673
 msgid "Equipped creature gets +3/+0 and is every creature type."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma każdy typ stwora."
 
 #: ../../CMR.rst:1675
 msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../CMR.rst:1682
 msgid ":mtgtip:`Angelic Armaments<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92824de1-23f2-44c6-b8ab-46db94b8f79e.jpg?1608911292|https://scryfall.com/card/cmr/296/angelic-armaments?utm_source=api>`"
@@ -3061,12 +3257,16 @@ msgstr ""
 #: ../../CMR.rst:1679
 msgid "Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2, ma latanie i jest białym Aniołem oprócz "
+"swoich pozostałych kolorów i typów."
 
 #: ../../CMR.rst:1681
 #: ../../CMR.rst:1789
 #: ../../CMR.rst:1865
 msgid "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../CMR.rst:1686
 msgid ":mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee40458c-7f3a-4fa6-976f-be1f7a336fdc.jpg?1608911301|https://scryfall.com/card/cmr/297/arcane-signet?utm_source=api>`"
@@ -3076,7 +3276,7 @@ msgstr ""
 #: ../../CMR.rst:1737
 #: ../../CMR.rst:1985
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../CMR.rst:1690
 msgid ":mtgtip:`Armillary Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af3ae93e-6094-483d-b2c0-ae117ad01293.jpg?1608911310|https://scryfall.com/card/cmr/298/armillary-sphere?utm_source=api>`"
@@ -3085,6 +3285,9 @@ msgstr ""
 #: ../../CMR.rst:1689
 msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:1696
 msgid ":mtgtip:`Armory of Iroas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.jpg?1608911321|https://scryfall.com/card/cmr/299/armory-of-iroas?utm_source=api>`"
@@ -3092,13 +3295,15 @@ msgstr ""
 
 #: ../../CMR.rst:1693
 msgid "Whenever equipped creature attacks, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór zaatakuje, umieść na nim znacznik +1/+1."
 
 #: ../../CMR.rst:1695
 #: ../../CMR.rst:1889
 #: ../../CMR.rst:2617
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../CMR.rst:1702
 msgid ":mtgtip:`Bladegriff Prototype<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3c9b4fb-cfb6-4e5a-b23a-9aad9f69710e.jpg?1608911331|https://scryfall.com/card/cmr/300/bladegriff-prototype?utm_source=api>`"
@@ -3131,6 +3336,9 @@ msgstr ""
 #: ../../CMR.rst:1713
 msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../CMR.rst:1720
 msgid ":mtgtip:`Charcoal Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d99f4cd-7f6d-4f1a-a1d9-f8c3b6645038.jpg?1608911357|https://scryfall.com/card/cmr/303/charcoal-diamond?utm_source=api>`"
@@ -3151,10 +3359,14 @@ msgstr ""
 #: ../../CMR.rst:1723
 msgid "|tap|: Target player mills a card. (They put the top card of their library into their graveyard.)"
 msgstr ""
+"|tap|: Wskazany gracz mieli kartę. (Umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu.)"
 
 #: ../../CMR.rst:1725
 msgid "|mana_5|, |tap|, Sacrifice Codex Shredder: Return target card from your graveyard to your hand."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../CMR.rst:1734
 msgid ":mtgtip:`Commander's Plate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19992dbd-7a6a-43d3-b1db-01716b2eed27.jpg?1608911375|https://scryfall.com/card/cmr/305/commanders-plate?utm_source=api>`"
@@ -3170,7 +3382,7 @@ msgstr ""
 
 #: ../../CMR.rst:1733
 msgid "Equip |mana_5|"
-msgstr ""
+msgstr "Wyposaż |mana_5|"
 
 #: ../../CMR.rst:1740
 msgid ":mtgtip:`Commander's Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a01c16a5-bc50-406f-9ab1-e8346acffbca.jpg?1608911388|https://scryfall.com/card/cmr/306/commanders-sphere?utm_source=api>`"
@@ -3186,11 +3398,11 @@ msgstr ""
 
 #: ../../CMR.rst:1743
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../CMR.rst:1745
 msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
-msgstr ""
+msgstr "|mana_3|, |tap|, poświęć ten artefakt: Dobierz trzy karty."
 
 #: ../../CMR.rst:1752
 msgid ":mtgtip:`Filigree Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/875df3ef-fab4-455f-bfdb-8f6361b27bf6.jpg?1608911405|https://scryfall.com/card/cmr/308/filigree-familiar?utm_source=api>`"
@@ -3198,11 +3410,11 @@ msgstr ""
 
 #: ../../CMR.rst:1749
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../CMR.rst:1751
 msgid "When Filigree Familiar dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../CMR.rst:1758
 msgid ":mtgtip:`Fire Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f65f1fa-4196-40ba-8ca3-e68560fef392.jpg?1608911413|https://scryfall.com/card/cmr/309/fire-diamond?utm_source=api>`"
@@ -3216,7 +3428,7 @@ msgstr ""
 #: ../../CMR.rst:2721
 #: ../../CMR.rst:2745
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../CMR.rst:1762
 msgid ":mtgtip:`Foundry Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cca62547-7dd3-4bb7-be5f-92c4fa51904d.jpg?1608911424|https://scryfall.com/card/cmr/310/foundry-inspector?utm_source=api>`"
@@ -3224,7 +3436,7 @@ msgstr ""
 
 #: ../../CMR.rst:1761
 msgid "Artifact spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów artefaktów kosztuje cię o |mana_1| mniej."
 
 #: ../../CMR.rst:1768
 msgid ":mtgtip:`Golem Artisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/441a3345-2507-46ed-bdb3-c5c45d17da51.jpg?1608911433|https://scryfall.com/card/cmr/311/golem-artisan?utm_source=api>`"
@@ -3232,11 +3444,13 @@ msgstr ""
 
 #: ../../CMR.rst:1765
 msgid "|mana_2|: Target artifact creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Wskazany artefaktowy stwór dostaje do końca tury +1/+1."
 
 #: ../../CMR.rst:1767
 msgid "|mana_2|: Target artifact creature gains your choice of flying, trample, or haste until end of turn."
 msgstr ""
+"|mana_2|: Wskazany artefaktowy stwór zyskuje do końca tury zdolność wybraną "
+"przez cienie spośród latania, tratowania i pośpiechu."
 
 #: ../../CMR.rst:1776
 msgid ":mtgtip:`Grafted Wargear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d023d44-482e-4f60-b9b1-eede9bfb732f.jpg?1608911444|https://scryfall.com/card/cmr/312/grafted-wargear?utm_source=api>`"
@@ -3245,7 +3459,7 @@ msgstr ""
 #: ../../CMR.rst:1771
 #: ../../CMR.rst:1785
 msgid "Equipped creature gets +3/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+2."
 
 #: ../../CMR.rst:1773
 msgid "Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent."
@@ -3261,7 +3475,7 @@ msgstr ""
 
 #: ../../CMR.rst:1779
 msgid "Equipped creature has vigilance, trample, and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma czujność, tratowanie i pośpiech."
 
 #: ../../CMR.rst:1790
 msgid ":mtgtip:`Hero's Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5e982c4-19ef-40d6-a807-fd16c31e63db.jpg?1608911462|https://scryfall.com/card/cmr/314/heros-blade?utm_source=api>`"
@@ -3270,6 +3484,8 @@ msgstr ""
 #: ../../CMR.rst:1787
 msgid "Whenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it."
 msgstr ""
+"Ilekroć legendarny stwór wejdzie na pole bitwy pod twoim władaniem możesz "
+"dołączyć do niego ten artefakt."
 
 #: ../../CMR.rst:1794
 msgid ":mtgtip:`Horizon Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6affd9c6-f7ab-488e-85fa-2a3a48383414.jpg?1608911471|https://scryfall.com/card/cmr/315/horizon-stone?utm_source=api>`"
@@ -3278,6 +3494,8 @@ msgstr ""
 #: ../../CMR.rst:1793
 msgid "If you would lose unspent mana, that mana becomes colorless instead."
 msgstr ""
+"Jeśli niezużyta mana miałaby zostać utracona, zamiast tego staje się ona "
+"bezkolorowa."
 
 #: ../../CMR.rst:1798
 msgid ":mtgtip:`Howling Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05b54aaa-93e2-4f8b-8d06-2a848498d1fd.jpg?1608911481|https://scryfall.com/card/cmr/316/howling-golem?utm_source=api>`"
@@ -3285,7 +3503,7 @@ msgstr ""
 
 #: ../../CMR.rst:1797
 msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, każdy gracz dobiera kartę."
 
 #: ../../CMR.rst:1804
 msgid ":mtgtip:`Ingenuity Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac255db4-9c46-4971-bf89-f9014602999c.jpg?1608911488|https://scryfall.com/card/cmr/317/ingenuity-engine?utm_source=api>`"
@@ -3301,7 +3519,7 @@ msgstr ""
 
 #: ../../CMR.rst:1807
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CMR.rst:1812
 msgid ":mtgtip:`Jeweled Lotus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c7de64b-3dc8-47dd-8999-4353b5a3a06f.jpg?1608911508|https://scryfall.com/card/cmr/319/jeweled-lotus?utm_source=api>`"
@@ -3355,6 +3573,8 @@ msgstr ""
 #: ../../CMR.rst:1839
 msgid "When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika."
 
 #: ../../CMR.rst:1848
 msgid ":mtgtip:`Mindless Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a167f09d-b2dd-4365-8217-e7138d96304a.jpg?1608911570|https://scryfall.com/card/cmr/326/mindless-automaton?utm_source=api>`"
@@ -3362,15 +3582,15 @@ msgstr ""
 
 #: ../../CMR.rst:1843
 msgid "Mindless Automaton enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../CMR.rst:1845
 msgid "|mana_1|, Discard a card: Put a +1/+1 counter on Mindless Automaton."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CMR.rst:1847
 msgid "Remove two +1/+1 counters from Mindless Automaton: Draw a card."
-msgstr ""
+msgstr "Usuń dwa znaczniki +1/+1 z tego stwora: Dobierz kartę."
 
 #: ../../CMR.rst:1854
 msgid ":mtgtip:`Moss Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec8ea247-5529-4948-8c81-0f413aedc82e.jpg?1608911579|https://scryfall.com/card/cmr/327/moss-diamond?utm_source=api>`"
@@ -3386,11 +3606,11 @@ msgstr ""
 
 #: ../../CMR.rst:1857
 msgid "Nevinyrral's Disk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:1859
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
 #: ../../CMR.rst:1866
 msgid ":mtgtip:`Pennon Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afc89a7c-cdb9-45cd-a9e7-d66dd2066d1d.jpg?1608911598|https://scryfall.com/card/cmr/329/pennon-blade?utm_source=api>`"
@@ -3398,7 +3618,7 @@ msgstr ""
 
 #: ../../CMR.rst:1863
 msgid "Equipped creature gets +1/+1 for each creature you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../CMR.rst:1870
 msgid ":mtgtip:`Perilous Myr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a15c8ef-04ad-4aab-a7f1-c7a90c10eb50.jpg?1608911609|https://scryfall.com/card/cmr/330/perilous-myr?utm_source=api>`"
@@ -3406,7 +3626,7 @@ msgstr ""
 
 #: ../../CMR.rst:1869
 msgid "When Perilous Myr dies, it deals 2 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../CMR.rst:1876
 msgid ":mtgtip:`Phyrexian Triniform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af2a6582-2281-4f75-8103-80fcb2846805.jpg?1616447036|https://scryfall.com/card/cmr/331/phyrexian-triniform?utm_source=api>`"
@@ -3427,6 +3647,9 @@ msgstr ""
 #: ../../CMR.rst:1881
 msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../CMR.rst:1890
 msgid ":mtgtip:`Pirate's Cutlass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5dc0635-0cc4-419e-ab64-c07a69f34f75.jpg?1608911636|https://scryfall.com/card/cmr/333/pirates-cutlass?utm_source=api>`"
@@ -3435,10 +3658,12 @@ msgstr ""
 #: ../../CMR.rst:1885
 msgid "When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego Pirata pod "
+"twoim władaniem."
 
 #: ../../CMR.rst:1887
 msgid "Equipped creature gets +2/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../CMR.rst:1896
 msgid ":mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644|https://scryfall.com/card/cmr/334/prophetic-prism?utm_source=api>`"
@@ -3446,11 +3671,11 @@ msgstr ""
 
 #: ../../CMR.rst:1893
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:1895
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../CMR.rst:1900
 msgid ":mtgtip:`Rings of Brighthearth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/838ffc87-517a-4d94-8ce0-bc9ed01ecc52.jpg?1608911654|https://scryfall.com/card/cmr/335/rings-of-brighthearth?utm_source=api>`"
@@ -3467,6 +3692,8 @@ msgstr ""
 #: ../../CMR.rst:1905
 msgid "When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz "
+"ma więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
 
 #: ../../CMR.rst:1910
 msgid ":mtgtip:`Scroll Rack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfaaa58d-89bb-4cb3-96a6-b480e6f6954e.jpg?1608911671|https://scryfall.com/card/cmr/337/scroll-rack?utm_source=api>`"
@@ -3498,6 +3725,8 @@ msgstr "|tap|: Weź |colorless|."
 #: ../../CMR.rst:1915
 msgid "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"|mana_2|, |tap|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../CMR.rst:1922
 msgid ":mtgtip:`Shimmer Myr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7647cc5e-67c4-44e6-8674-f980de482a37.jpg?1608911691|https://scryfall.com/card/cmr/339/shimmer-myr?utm_source=api>`"
@@ -3515,7 +3744,7 @@ msgstr ""
 #: ../../CMR.rst:1993
 #: ../../CMR.rst:2657
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../CMR.rst:1932
 msgid ":mtgtip:`Sky Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bc62a1e-830b-4b07-91e4-303e66d93648.jpg?1608911710|https://scryfall.com/card/cmr/341/sky-diamond?utm_source=api>`"
@@ -3529,7 +3758,7 @@ msgstr ""
 #: ../../CMR.rst:2737
 #: ../../CMR.rst:2829
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../CMR.rst:1936
 msgid ":mtgtip:`Spectral Searchlight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a7dd6c9-628b-4dde-a385-604501dd0979.jpg?1608911718|https://scryfall.com/card/cmr/342/spectral-searchlight?utm_source=api>`"
@@ -3557,7 +3786,7 @@ msgstr ""
 
 #: ../../CMR.rst:1945
 msgid "|mana_4|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_4|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../CMR.rst:1947
 msgid "|mana_5|, |tap|: Draw a card."
@@ -3577,15 +3806,15 @@ msgstr ""
 
 #: ../../CMR.rst:1957
 msgid "Sunset Pyramid enters the battlefield with three brick counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki cegły."
 
 #: ../../CMR.rst:1959
 msgid "|mana_2|, |tap|, Remove a brick counter from Sunset Pyramid: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, usuń z tego artefaktu znacznik cegły: Dobierz kartę."
 
 #: ../../CMR.rst:1961
 msgid "|mana_2|, |tap|: Scry 1."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wróż 1."
 
 #: ../../CMR.rst:1968
 msgid ":mtgtip:`Thought Vessel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f58ab310-cbee-4f0c-9819-a2e2121932ff.jpg?1608911756|https://scryfall.com/card/cmr/346/thought-vessel?utm_source=api>`"
@@ -3597,7 +3826,7 @@ msgstr ""
 
 #: ../../CMR.rst:1971
 msgid "|mana_7|, |tap|, Sacrifice Universal Solvent: Destroy target permanent."
-msgstr ""
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany permanent."
 
 #: ../../CMR.rst:1976
 msgid ":mtgtip:`Workshop Assistant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9387e8f-0e72-4212-81c8-e64050700c52.jpg?1608911774|https://scryfall.com/card/cmr/348/workshop-assistant?utm_source=api>`"
@@ -3606,6 +3835,8 @@ msgstr ""
 #: ../../CMR.rst:1975
 msgid "When Workshop Assistant dies, return another target artifact card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../CMR.rst:1982
 msgid ":mtgtip:`Command Beacon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0bec6181-e214-4833-8c2f-8a10d59b2879.jpg?1608911782|https://scryfall.com/card/cmr/349/command-beacon?utm_source=api>`"
@@ -3664,7 +3895,7 @@ msgstr ""
 #: ../../CMR.rst:2815
 #: ../../CMR.rst:2853
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../CMR.rst:2020
 msgid ":mtgtip:`Rupture Spire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7ef4b15-efab-4255-ac2d-7794f253aa52.jpg?1608911838|https://scryfall.com/card/cmr/355/rupture-spire?utm_source=api>`"
@@ -3672,16 +3903,18 @@ msgstr ""
 
 #: ../../CMR.rst:2015
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2017
 msgid "When Rupture Spire enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
+"Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz "
+"|mana_1|."
 
 #: ../../CMR.rst:2019
 #: ../../CMR.rst:2823
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../CMR.rst:2026
 msgid ":mtgtip:`Spectator Seating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f6f1453-fe93-4a29-965c-5f867a81e8b3.jpg?1608911848|https://scryfall.com/card/cmr/356/spectator-seating?utm_source=api>`"
@@ -3696,7 +3929,7 @@ msgstr ""
 #: ../../CMR.rst:2801
 #: ../../CMR.rst:2847
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../CMR.rst:2030
 msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b8b3d63-db84-4aa0-a529-f3c128fae964.jpg?1608911861|https://scryfall.com/card/cmr/357/terramorphic-expanse?utm_source=api>`"
@@ -3705,6 +3938,8 @@ msgstr ""
 #: ../../CMR.rst:2029
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:2036
 msgid ":mtgtip:`Training Center<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b15c58c0-4d42-488e-bb9d-7a550d9ea5e6.jpg?1608911869|https://scryfall.com/card/cmr/358/training-center?utm_source=api>`"
@@ -3716,7 +3951,7 @@ msgstr ""
 
 #: ../../CMR.rst:2035
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../CMR.rst:2042
 msgid ":mtgtip:`Undergrowth Stadium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df64c9cf-17de-44f3-831d-ba09661f2308.jpg?1608911877|https://scryfall.com/card/cmr/359/undergrowth-stadium?utm_source=api>`"
@@ -3728,7 +3963,7 @@ msgstr ""
 
 #: ../../CMR.rst:2041
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../CMR.rst:2048
 msgid ":mtgtip:`Vault of Champions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e144ae1-500d-4485-b476-5783b14380d9.jpg?1608911887|https://scryfall.com/card/cmr/360/vault-of-champions?utm_source=api>`"
@@ -3740,7 +3975,7 @@ msgstr ""
 
 #: ../../CMR.rst:2047
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../CMR.rst:2054
 msgid ":mtgtip:`War Room<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48d6ce7c-5dc8-449b-acbd-db259ae687ed.jpg?1610072943|https://scryfall.com/card/cmr/361/war-room?utm_source=api>`"
@@ -3768,7 +4003,7 @@ msgstr ""
 
 #: ../../CMR.rst:2067
 msgid "Enchanted creature has indestructible."
-msgstr ""
+msgstr "Zauroczony stwór ma niezniszczalność."
 
 #: ../../CMR.rst:2076
 msgid ":mtgtip:`Blazing Sunsteel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69d276fe-5f2b-41aa-80fa-64d3b60fd54f.jpg?1610074845|https://scryfall.com/card/cmr/364/blazing-sunsteel?utm_source=api>`"
@@ -3788,11 +4023,12 @@ msgstr ""
 
 #: ../../CMR.rst:2079
 msgid "You may play an additional land on each of your turns."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 
 #: ../../CMR.rst:2081
 msgid "Whenever a land enters the battlefield under your control, you may draw a card."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz dobrać kartę."
 
 #: ../../CMR.rst:2088
 msgid ":mtgtip:`Trench Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/909dc123-8234-4e81-bb7b-77404d94a87c.jpg?1610074909|https://scryfall.com/card/cmr/366/trench-behemoth?utm_source=api>`"
@@ -3821,10 +4057,14 @@ msgstr ""
 #: ../../CMR.rst:2097
 msgid "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrót many "
+"owego stwora.)"
 
 #: ../../CMR.rst:2099
 msgid "When you cast this spell, tap up to four target permanents."
 msgstr ""
+"Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane permanenty."
 
 #: ../../CMR.rst:2104
 msgid ":mtgtip:`Condemn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04dab28f-d0d0-49ef-9326-34fb348a7853.jpg?1610074961|https://scryfall.com/card/cmr/369/condemn?utm_source=api>`"
@@ -3833,6 +4073,8 @@ msgstr ""
 #: ../../CMR.rst:2103
 msgid "Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness."
 msgstr ""
+"Umieść wskazanego atakującego stwora na spodzie biblioteki właściciela. Jego "
+"władca zyskuje tyle żyć, ile miał wytrzymałości."
 
 #: ../../CMR.rst:2110
 msgid ":mtgtip:`Danitha Capashen, Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce5391bc-6b50-49b0-96a1-df944a55d62e.jpg?1610074990|https://scryfall.com/card/cmr/370/danitha-capashen-paragon?utm_source=api>`"
@@ -3840,11 +4082,11 @@ msgstr ""
 
 #: ../../CMR.rst:2107
 msgid "First strike, vigilance, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../CMR.rst:2109
 msgid "Aura and Equipment spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Aur i Wyposażeń kosztuje cię o |mana_1| mniej."
 
 #: ../../CMR.rst:2120
 msgid ":mtgtip:`Dawn Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1610075010|https://scryfall.com/card/cmr/371/dawn-charm?utm_source=api>`"
@@ -3853,14 +4095,15 @@ msgstr ""
 #: ../../CMR.rst:2115
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 #: ../../CMR.rst:2117
 msgid "Regenerate target creature."
-msgstr ""
+msgstr "Zregeneruj wskazanego stwora."
 
 #: ../../CMR.rst:2119
 msgid "Counter target spell that targets you."
-msgstr ""
+msgstr "Skontruj wskazany czar, który wskazuje ciebie."
 
 #: ../../CMR.rst:2124
 msgid ":mtgtip:`Disenchant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2ba38105-bada-449a-ab2f-3d6db2764a06.jpg?1610075029|https://scryfall.com/card/cmr/372/disenchant?utm_source=api>`"
@@ -3877,10 +4120,12 @@ msgstr "Zaurocz stwora pod twoim władaniem"
 #: ../../CMR.rst:2129
 msgid "When Faith Unbroken enters the battlefield, exile target creature an opponent controls until Faith Unbroken leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../CMR.rst:2131
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../CMR.rst:2138
 msgid ":mtgtip:`Flickerwisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6501e4e-8188-44ed-b661-55fe32bc7fec.jpg?1608911895|https://scryfall.com/card/cmr/374/flickerwisp?utm_source=api>`"
@@ -3889,6 +4134,9 @@ msgstr ""
 #: ../../CMR.rst:2137
 msgid "When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
+"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../CMR.rst:2142
 msgid ":mtgtip:`Generous Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26296a96-bdca-405f-ab06-e280b42c4ab9.jpg?1608911903|https://scryfall.com/card/cmr/375/generous-gift?utm_source=api>`"
@@ -3897,6 +4145,8 @@ msgstr ""
 #: ../../CMR.rst:2141
 msgid "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Słoń 3/"
+"3."
 
 #: ../../CMR.rst:2146
 msgid ":mtgtip:`Ironclad Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2841f538-9686-423f-ac30-0580665112e5.jpg?1608911916|https://scryfall.com/card/cmr/376/ironclad-slayer?utm_source=api>`"
@@ -3905,6 +4155,8 @@ msgstr ""
 #: ../../CMR.rst:2145
 msgid "When Ironclad Slayer enters the battlefield, you may return target Aura or Equipment card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
+"lub Wyposażenia z twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:2150
 msgid ":mtgtip:`Martial Coup<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42f30b99-5177-48e9-be0a-ab04bbc4586b.jpg?1608911932|https://scryfall.com/card/cmr/378/martial-coup?utm_source=api>`"
@@ -3921,6 +4173,11 @@ msgstr ""
 #: ../../CMR.rst:2153
 msgid "At the beginning of each combat, creatures you control gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance."
 msgstr ""
+"Na początku każdej potyczki, stwory pod twoim władaniem zyskują pierwszy "
+"cios jeśli stwór pod twoim władaniem ma pierwszy cios. To samo jest prawdą "
+"dla latania, dotyku śmierci, podwójnego ciosu, pośpiechu, antyklątwy "
+"niezniszczalności, więzi życia, złowrogości, zasięgu, przyczajenia, "
+"tratowania i czujności."
 
 #: ../../CMR.rst:2160
 msgid ":mtgtip:`On Serra's Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0a57c65-5010-4472-b877-42daf2f15af2.jpg?1608911949|https://scryfall.com/card/cmr/380/on-serras-wings?utm_source=api>`"
@@ -3929,6 +4186,8 @@ msgstr ""
 #: ../../CMR.rst:2159
 msgid "Enchanted creature is legendary, gets +1/+1, and has flying, vigilance, and lifelink."
 msgstr ""
+"Zauroczony stwór jest legendarny, dostaje +1/+1, ma latanie, czujność i więź "
+"życia."
 
 #: ../../CMR.rst:2164
 msgid ":mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18cf5b23-dad0-4d4f-bd73-0133dbc9f8e1.jpg?1608911958|https://scryfall.com/card/cmr/381/oreskos-explorer?utm_source=api>`"
@@ -3937,6 +4196,10 @@ msgstr ""
 #: ../../CMR.rst:2163
 msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
+"najwyżej X kart Równin, gdzie X jest liczbą gracz mających we władaniu "
+"więcej lądów niż ty. Ujawnij owe karty, umieść je w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../CMR.rst:2170
 msgid ":mtgtip:`Relic Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae71b0a7-90c6-48cd-808c-c6c430dcba9c.jpg?1608911965|https://scryfall.com/card/cmr/382/relic-seeker?utm_source=api>`"
@@ -3945,10 +4208,15 @@ msgstr ""
 #: ../../CMR.rst:2167
 msgid "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)"
 msgstr ""
+"Sława 1 (Kiedy ten stwór zada graczowi obrażenia bojowe, jeśli nie jest "
+"sławny, umieść na nim znacznik +1/+1 i staje się sławny.)"
 
 #: ../../CMR.rst:2169
 msgid "When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór zostanie sławny, możesz wyszukać w twojej bibliotece kartę "
+"Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../CMR.rst:2176
 msgid ":mtgtip:`Sigarda's Aid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/531da950-dc96-4050-94a8-e01b73ddd965.jpg?1608911983|https://scryfall.com/card/cmr/384/sigardas-aid?utm_source=api>`"
@@ -3956,11 +4224,13 @@ msgstr ""
 
 #: ../../CMR.rst:2173
 msgid "You may cast Aura and Equipment spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary Aur i Wyposażeń jakby miały błysk."
 
 #: ../../CMR.rst:2175
 msgid "Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control."
 msgstr ""
+"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
+"dołączyć je do wskazanego stwora pod twoim władaniem."
 
 #: ../../CMR.rst:2182
 msgid ":mtgtip:`Spirit Mantle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee5fdaa3-7879-4fa3-a157-60c7890a660a.jpg?1608911993|https://scryfall.com/card/cmr/385/spirit-mantle?utm_source=api>`"
@@ -3968,7 +4238,7 @@ msgstr ""
 
 #: ../../CMR.rst:2181
 msgid "Enchanted creature gets +1/+1 and has protection from creatures."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma ochronę przed stworami."
 
 #: ../../CMR.rst:2186
 msgid ":mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1ab1ef1-f4e8-461e-801a-a498e4946fa1.jpg?1608912002|https://scryfall.com/card/cmr/386/sram-senior-edificer?utm_source=api>`"
@@ -3976,7 +4246,7 @@ msgstr ""
 
 #: ../../CMR.rst:2185
 msgid "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar Aury, Wyposażenia lub Pojazdu, dobierz kartę."
 
 #: ../../CMR.rst:2190
 msgid ":mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1608912010|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`"
@@ -3984,7 +4254,7 @@ msgstr ""
 
 #: ../../CMR.rst:2189
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../CMR.rst:2196
 msgid ":mtgtip:`Unbreakable Formation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f2b5f7d-7105-4af3-aa0b-6f3cfb986ae0.jpg?1608912019|https://scryfall.com/card/cmr/388/unbreakable-formation?utm_source=api>`"
@@ -3992,11 +4262,13 @@ msgstr ""
 
 #: ../../CMR.rst:2193
 msgid "Creatures you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../CMR.rst:2195
 msgid "Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
 msgstr ""
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/+"
+"1 na każdym z owych stworów i zyskują one czujność do końca tury."
 
 #: ../../CMR.rst:2204
 msgid ":mtgtip:`Unquestioned Authority<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/829710f9-6554-4391-bdb1-2ccdefc2caf5.jpg?1608912033|https://scryfall.com/card/cmr/389/unquestioned-authority?utm_source=api>`"
@@ -4016,11 +4288,11 @@ msgstr ""
 
 #: ../../CMR.rst:2209
 msgid "Target creature gains indestructible until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury zyskuje niezniszczalność."
 
 #: ../../CMR.rst:2211
 msgid "Destroy target creature with toughness 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o wytrzymałości 4 lub większej."
 
 #: ../../CMR.rst:2216
 msgid ":mtgtip:`White Sun's Zenith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/029e0450-ceb1-484d-8a18-e769defac428.jpg?1608912050|https://scryfall.com/card/cmr/391/white-suns-zenith?utm_source=api>`"
@@ -4059,6 +4331,8 @@ msgstr ""
 #: ../../CMR.rst:2229
 msgid "Target player draws three cards. Then that player discards two cards unless they discard a land card."
 msgstr ""
+"Wskazany gracz dobiera trzy karty. Następnie ów gracz odrzuca dwie karty, "
+"chyba że odrzuci kartę lądu."
 
 #: ../../CMR.rst:2234
 msgid ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce30f926-bc06-46ee-9f35-0cdf09a67043.jpg?1608912086|https://scryfall.com/card/cmr/395/counterspell?utm_source=api>`"
@@ -4071,6 +4345,9 @@ msgstr ""
 #: ../../CMR.rst:2237
 msgid "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden stos w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 #: ../../CMR.rst:2244
 msgid ":mtgtip:`Into the Roil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3463be0-df9e-4cb9-a90f-5d9d2ee729e0.jpg?1608912102|https://scryfall.com/card/cmr/397/into-the-roil?utm_source=api>`"
@@ -4080,10 +4357,14 @@ msgstr ""
 #: ../../CMR.rst:2291
 msgid "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_u|.)"
 
 #: ../../CMR.rst:2243
 msgid "Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card."
 msgstr ""
+"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
+"został podbity, dobierz kartę."
 
 #: ../../CMR.rst:2250
 msgid ":mtgtip:`Ior Ruin Expedition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd466b20-d11d-419e-8765-9befb9590299.jpg?1608912113|https://scryfall.com/card/cmr/398/ior-ruin-expedition?utm_source=api>`"
@@ -4111,11 +4392,13 @@ msgstr ""
 
 #: ../../CMR.rst:2261
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../CMR.rst:2263
 msgid "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../CMR.rst:2274
 msgid ":mtgtip:`Nezahal, Primal Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a959b40d-dd8c-49d8-8003-744d0c877b04.jpg?1608912140|https://scryfall.com/card/cmr/401/nezahal-primal-tide?utm_source=api>`"
@@ -4124,15 +4407,17 @@ msgstr ""
 #: ../../CMR.rst:2267
 #: ../../CMR.rst:2367
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../CMR.rst:2271
 msgid "Whenever an opponent casts a noncreature spell, draw a card."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci nie-stworowy czar, dobierz kartę."
 
 #: ../../CMR.rst:2273
 msgid "Discard three cards: Exile Nezahal, Primal Tide. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
 msgstr ""
+"Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go przekręconego na pole "
+"bitwy pod władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../CMR.rst:2278
 msgid ":mtgtip:`Peel from Reality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55aec3bd-b52f-4b23-a86a-429fa78a5a6a.jpg?1608912151|https://scryfall.com/card/cmr/402/peel-from-reality?utm_source=api>`"
@@ -4141,6 +4426,8 @@ msgstr ""
 #: ../../CMR.rst:2277
 msgid "Return target creature you control and target creature you don't control to their owners' hands."
 msgstr ""
+"Przywróć wskazanego stwora pod twoim władaniem oraz wskazanego stwora poza "
+"twoim władaniem do rąk ich właścicieli."
 
 #: ../../CMR.rst:2282
 msgid ":mtgtip:`Scourge of Fleets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a79471f9-5cc0-48f5-9fa4-1f1374993825.jpg?1608912161|https://scryfall.com/card/cmr/403/scourge-of-fleets?utm_source=api>`"
@@ -4149,6 +4436,9 @@ msgstr ""
 #: ../../CMR.rst:2281
 msgid "When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć każdego stwora pod władaniem "
+"twoich przeciwników o wytrzymałości X lub mniejszej do rąk właścicieli, "
+"gdzie X jest liczbą Wysp pod twoim władaniem."
 
 #: ../../CMR.rst:2288
 msgid ":mtgtip:`Shipbreaker Kraken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e558f0a-f921-4ecf-b1c9-2c93aa2d3fd9.jpg?1608912169|https://scryfall.com/card/cmr/404/shipbreaker-kraken?utm_source=api>`"
@@ -4157,10 +4447,16 @@ msgstr ""
 #: ../../CMR.rst:2285
 msgid "|mana_6|\\ |mana_u|\\ |mana_u|: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_6|\\ |mana_u|\\ |mana_u|: Monstrualność 4. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim cztery znaczniki +1/+1 i staje się on "
+"monstrualny.)"
 
 #: ../../CMR.rst:2287
 msgid "When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken."
 msgstr ""
+"Kiedy ten stwór stanie się monstrualny, przekręć co najwyżej cztery wskazane "
+"stwory. Owe stwory nie odkręcą się podczas kroków odkręcania swoich władców "
+"dopóki władasz niniejszym stworem."
 
 #: ../../CMR.rst:2294
 msgid ":mtgtip:`Slinn Voda, the Rising Deep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cebf2c16-bd9d-4a8f-a1b6-6e0c393178bc.jpg?1608912178|https://scryfall.com/card/cmr/405/slinn-voda-the-rising-deep?utm_source=api>`"
@@ -4169,6 +4465,9 @@ msgstr ""
 #: ../../CMR.rst:2293
 msgid "When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
+"wszystkie stwory do rąk właścicieli za wyjątkiem Wodników, Krakenów, "
+"Lewiatanów, Ośmiornic i Wężowników."
 
 #: ../../CMR.rst:2300
 msgid ":mtgtip:`Sphinx of Uthuun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd5cd33-20e2-4063-b422-2bde13021888.jpg?1608912186|https://scryfall.com/card/cmr/406/sphinx-of-uthuun?utm_source=api>`"
@@ -4177,6 +4476,9 @@ msgstr ""
 #: ../../CMR.rst:2299
 msgid "When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij pięć wierzchnich kart twojej "
+"biblioteki. Przeciwnik dzieli owe karty na dwa stosy. Umieść jeden stos w "
+"twojej ręce, a pozostały w twoim cmentarzu."
 
 #: ../../CMR.rst:2308
 msgid ":mtgtip:`Stormtide Leviathan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/996bb4c0-dc72-4233-9f44-2e25aef71ad7.jpg?1608912195|https://scryfall.com/card/cmr/407/stormtide-leviathan?utm_source=api>`"
@@ -4185,14 +4487,16 @@ msgstr ""
 #: ../../CMR.rst:2303
 msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../CMR.rst:2305
 msgid "All lands are Islands in addition to their other types."
-msgstr ""
+msgstr "Wszystkie lądy są dodatkowo Wyspami oprócz swoich pozostałych typów."
 
 #: ../../CMR.rst:2307
 msgid "Creatures without flying or islandwalk can't attack."
-msgstr ""
+msgstr "Stwory bez latania lub podboju wysp nie mogą atakować."
 
 #: ../../CMR.rst:2314
 msgid ":mtgtip:`Tromokratis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/160686f3-44fd-4f7a-81cf-d3b5b964bfba.jpg?1608912205|https://scryfall.com/card/cmr/408/tromokratis?utm_source=api>`"
@@ -4200,11 +4504,14 @@ msgstr ""
 
 #: ../../CMR.rst:2311
 msgid "Tromokratis has hexproof unless it's attacking or blocking."
-msgstr ""
+msgstr "Ten stwór ma antyklątwę o ile nie atakuje lub blokuje."
 
 #: ../../CMR.rst:2313
 msgid "Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)"
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez wszystkie stwory pod "
+"władaniem broniącego się gracza. (Jeśli jakikolwiek stwór owego gracza nie "
+"zablokuje tego stwora, nie może on być zablokowany.)"
 
 #: ../../CMR.rst:2318
 msgid ":mtgtip:`Whelming Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddb863a0-3ff8-42a3-a151-4ea9aa433336.jpg?1608912215|https://scryfall.com/card/cmr/409/whelming-wave?utm_source=api>`"
@@ -4213,6 +4520,8 @@ msgstr ""
 #: ../../CMR.rst:2317
 msgid "Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents."
 msgstr ""
+"Zwróć wszystkie stwory do rąk właścicieli z wyjątkiem Krakenów, Lewiatanów, "
+"Ośmiornic i Wężowników."
 
 #: ../../CMR.rst:2326
 msgid ":mtgtip:`Abrade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d27d5b87-6dfc-4b99-822b-f6f8489ad275.jpg?1608912224|https://scryfall.com/card/cmr/410/abrade?utm_source=api>`"
@@ -4220,7 +4529,7 @@ msgstr ""
 
 #: ../../CMR.rst:2323
 msgid "Abrade deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../CMR.rst:2332
 msgid ":mtgtip:`Comet Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb5f586d-6bf0-4590-ad73-2d46b2a45b1a.jpg?1608912233|https://scryfall.com/card/cmr/411/comet-storm?utm_source=api>`"
@@ -4241,6 +4550,8 @@ msgstr ""
 #: ../../CMR.rst:2337
 msgid "When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
+"obrzędu. Możesz wskazać nowe cele dla kopii."
 
 #: ../../CMR.rst:2344
 msgid ":mtgtip:`Expedite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b86c0628-0b61-44f2-91cc-1c3c309631ce.jpg?1608912250|https://scryfall.com/card/cmr/413/expedite?utm_source=api>`"
@@ -4248,7 +4559,7 @@ msgstr ""
 
 #: ../../CMR.rst:2341
 msgid "Target creature gains haste until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje pośpiech do końca tury."
 
 #: ../../CMR.rst:2348
 msgid ":mtgtip:`Fists of Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/1897b60d-7e15-488c-84d5-505187739b00.jpg?1608912262|https://scryfall.com/card/cmr/414/fists-of-flame?utm_source=api>`"
@@ -4257,6 +4568,8 @@ msgstr ""
 #: ../../CMR.rst:2347
 msgid "Draw a card. Until end of turn, target creature gains trample and gets +1/+0 for each card you've drawn this turn."
 msgstr ""
+"Dobierz kartę. Do końca tury wskazany stwór zyskuje tratowanie i dostaje +1/+"
+"0 za każdą kartę, którą dobrałeś w tej turze."
 
 #: ../../CMR.rst:2354
 msgid ":mtgtip:`Jaya's Immolating Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/365336b4-92ee-429d-8f18-4624cba5469d.jpg?1608912272|https://scryfall.com/card/cmr/415/jayas-immolating-inferno?utm_source=api>`"
@@ -4265,10 +4578,13 @@ msgstr ""
 #: ../../CMR.rst:2351
 msgid "(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)"
 msgstr ""
+"(Możesz rzucić legendarny obrzęd tylko jeśli władasz legendarnym stworem lub "
+"wędrowcem.)"
 
 #: ../../CMR.rst:2353
 msgid "Jaya's Immolating Inferno deals X damage to each of up to three targets."
 msgstr ""
+"Ten czar zadaje każdemu z co najwyżej trzech wskazanych celów po X obrażeń."
 
 #: ../../CMR.rst:2358
 msgid ":mtgtip:`Relentless Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97622209-9357-4347-8961-f77f8d2389d8.jpg?1608912282|https://scryfall.com/card/cmr/416/relentless-assault?utm_source=api>`"
@@ -4287,10 +4603,14 @@ msgstr ""
 #: ../../CMR.rst:2361
 msgid "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
 msgstr ""
+"Wskazany stwór zyskuje podwójny cios do końca tury. (Zadaje obrażenia bojowe "
+"zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../CMR.rst:2363
 msgid "Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater."
 msgstr ""
+"Zaciekłość — Ów stwór zyskuje do końca tury także tratowanie jeśli władasz "
+"stworem o sile 4 lub większej."
 
 #: ../../CMR.rst:2370
 msgid ":mtgtip:`Volcanic Fallout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6109c345-ce73-44b6-9228-5c4882764fab.jpg?1608912304|https://scryfall.com/card/cmr/418/volcanic-fallout?utm_source=api>`"
@@ -4298,7 +4618,7 @@ msgstr ""
 
 #: ../../CMR.rst:2369
 msgid "Volcanic Fallout deals 2 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 2 obrażenia."
 
 #: ../../CMR.rst:2374
 msgid ":mtgtip:`Wild Ricochet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d3dddfa-9579-42d7-867b-7e37b83b3eeb.jpg?1608912335|https://scryfall.com/card/cmr/419/wild-ricochet?utm_source=api>`"
@@ -4307,6 +4627,8 @@ msgstr ""
 #: ../../CMR.rst:2373
 msgid "You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy."
 msgstr ""
+"Możesz wskazać nowe cele wskazanego czaru sztuczki lub obrzędu. Następnie "
+"skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../CMR.rst:2380
 msgid ":mtgtip:`Word of Seizing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4aa93215-9848-42d4-a386-6a248c2a1742.jpg?1608912345|https://scryfall.com/card/cmr/420/word-of-seizing?utm_source=api>`"
@@ -4315,6 +4637,8 @@ msgstr ""
 #: ../../CMR.rst:2377
 msgid "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)"
 msgstr ""
+"Ułamek sekundy (O ile ten czar jest na stosie, gracze nie mogą rzucać czarów "
+"ani aktywować zdolności nie dających many.)"
 
 #: ../../CMR.rst:2379
 msgid "Untap target permanent and gain control of it until end of turn. It gains haste until end of turn."
@@ -4327,10 +4651,14 @@ msgstr ""
 #: ../../CMR.rst:2383
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../CMR.rst:2385
 msgid "When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
+"ląd."
 
 #: ../../CMR.rst:2392
 msgid ":mtgtip:`Avenger of Zendikar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03dea775-bbb3-4e9c-8514-0605b5ad2e8b.jpg?1608919621|https://scryfall.com/card/cmr/422/avenger-of-zendikar?utm_source=api>`"
@@ -4339,10 +4667,14 @@ msgstr ""
 #: ../../CMR.rst:2389
 msgid "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant creature token for each land you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Roślina 0/1, iloma lądami władasz."
 
 #: ../../CMR.rst:2391
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"umieścić znacznik +1/+1 na każdej Roślinie pod twoim władaniem."
 
 #: ../../CMR.rst:2396
 msgid ":mtgtip:`Beast Within<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e228bede-5972-4381-969b-9de26e570117.jpg?1608919616|https://scryfall.com/card/cmr/423/beast-within?utm_source=api>`"
@@ -4351,6 +4683,8 @@ msgstr ""
 #: ../../CMR.rst:2395
 msgid "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
+"3/3."
 
 #: ../../CMR.rst:2400
 msgid ":mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a108064-8143-4b20-a5a2-eeb3b80af82f.jpg?1608917423|https://scryfall.com/card/cmr/424/cultivate?utm_source=api>`"
@@ -4360,6 +4694,9 @@ msgstr ""
 #: ../../CMR.rst:2423
 msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../CMR.rst:2404
 msgid ":mtgtip:`Eternal Witness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d74e7ded-d063-4d90-a9ff-91c44a8098d7.jpg?1608917430|https://scryfall.com/card/cmr/425/eternal-witness?utm_source=api>`"
@@ -4368,6 +4705,8 @@ msgstr ""
 #: ../../CMR.rst:2403
 msgid "When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:2410
 msgid ":mtgtip:`Explore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3405ac8-a8e3-4c65-807e-6bfcfa162852.jpg?1608917440|https://scryfall.com/card/cmr/426/explore?utm_source=api>`"
@@ -4375,7 +4714,7 @@ msgstr ""
 
 #: ../../CMR.rst:2407
 msgid "You may play an additional land this turn."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w tej turze."
 
 #: ../../CMR.rst:2414
 msgid ":mtgtip:`Harmonize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/159e0372-de5e-4830-b690-f5154ed1036c.jpg?1608917452|https://scryfall.com/card/cmr/427/harmonize?utm_source=api>`"
@@ -4383,7 +4722,7 @@ msgstr ""
 
 #: ../../CMR.rst:2413
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../CMR.rst:2420
 msgid ":mtgtip:`Khalni Heart Expedition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45cbbcfb-1b1b-4991-988d-17a22a08d5b0.jpg?1608917462|https://scryfall.com/card/cmr/428/khalni-heart-expedition?utm_source=api>`"
@@ -4408,6 +4747,8 @@ msgstr ""
 #: ../../CMR.rst:2427
 msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../CMR.rst:2429
 msgid "Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control."
@@ -4420,6 +4761,8 @@ msgstr ""
 #: ../../CMR.rst:2435
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may create a 4/4 green Beast creature token."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"stworzyć żeton zielonego stwora Bestia 4/4."
 
 #: ../../CMR.rst:2440
 msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cbceb9b-4212-40b4-913f-e4a19db00fae.jpg?1608917502|https://scryfall.com/card/cmr/432/rampant-growth?utm_source=api>`"
@@ -4428,6 +4771,8 @@ msgstr ""
 #: ../../CMR.rst:2439
 msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:2444
 msgid ":mtgtip:`Ramunap Excavator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/8870ef0b-cb1f-463b-8509-fece4743d3d4.jpg?1608917511|https://scryfall.com/card/cmr/433/ramunap-excavator?utm_source=api>`"
@@ -4435,7 +4780,7 @@ msgstr ""
 
 #: ../../CMR.rst:2443
 msgid "You may play lands from your graveyard."
-msgstr ""
+msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
 #: ../../CMR.rst:2452
 msgid ":mtgtip:`Retreat to Kazandu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/553ac818-f476-43fd-841c-c91d78c2506e.jpg?1608917532|https://scryfall.com/card/cmr/435/retreat-to-kazandu?utm_source=api>`"
@@ -4444,14 +4789,16 @@ msgstr ""
 #: ../../CMR.rst:2447
 msgid "Landfall — Whenever a land enters the battlefield under your control, choose one —"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wybierz "
+"jedno —"
 
 #: ../../CMR.rst:2449
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../CMR.rst:2451
 msgid "You gain 2 life."
-msgstr ""
+msgstr "Zyskaj 2 życia."
 
 #: ../../CMR.rst:2458
 msgid ":mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/029b6d93-0f7a-4df4-8c01-96cbd5e03315.jpg?1608917541|https://scryfall.com/card/cmr/436/search-for-tomorrow?utm_source=api>`"
@@ -4460,10 +4807,16 @@ msgstr ""
 #: ../../CMR.rst:2455
 msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:2457
 msgid "Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../CMR.rst:2462
 msgid ":mtgtip:`Sporemound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/092bfc5f-8002-43da-8e70-c19fccfe54ac.jpg?1611797251|https://scryfall.com/card/cmr/437/sporemound?utm_source=api>`"
@@ -4472,6 +4825,8 @@ msgstr ""
 #: ../../CMR.rst:2461
 msgid "Landfall — Whenever a land enters the battlefield under your control, create a 1/1 green Saproling creature token."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../CMR.rst:2466
 msgid ":mtgtip:`Terastodon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32141ae3-0c1c-480c-8f61-90a46d5ce54c.jpg?1608917561|https://scryfall.com/card/cmr/438/terastodon?utm_source=api>`"
@@ -4480,6 +4835,9 @@ msgstr ""
 #: ../../CMR.rst:2465
 msgid "When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
+"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../CMR.rst:2470
 msgid ":mtgtip:`Verdant Sun's Avatar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc2d03a9-815d-4662-a3ee-d6b24047128c.jpg?1608917570|https://scryfall.com/card/cmr/439/verdant-suns-avatar?utm_source=api>`"
@@ -4488,6 +4846,8 @@ msgstr ""
 #: ../../CMR.rst:2469
 msgid "Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj "
+"życie równe wytrzymałości owego stwora."
 
 #: ../../CMR.rst:2476
 msgid ":mtgtip:`Wickerbough Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a969128b-e03d-4f35-bac3-6a852881d27a.jpg?1608917580|https://scryfall.com/card/cmr/440/wickerbough-elder?utm_source=api>`"
@@ -4495,11 +4855,13 @@ msgstr ""
 
 #: ../../CMR.rst:2473
 msgid "Wickerbough Elder enters the battlefield with a -1/-1 counter on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając znacznik -1/-1."
 
 #: ../../CMR.rst:2475
 msgid "|mana_g|, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment."
 msgstr ""
+"|mana_g|, usuń znacznik -1/-1 z tego stwora: Zniszcz wskazany artefakt lub "
+"urok."
 
 #: ../../CMR.rst:2482
 msgid ":mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c66cfb9b-77bb-4e5a-be31-3a9984af1217.jpg?1608917589|https://scryfall.com/card/cmr/441/yavimaya-elder?utm_source=api>`"
@@ -4519,15 +4881,15 @@ msgstr ""
 
 #: ../../CMR.rst:2487
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../CMR.rst:2489
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalność."
 
 #: ../../CMR.rst:2491
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../CMR.rst:2496
 msgid ":mtgtip:`Coiling Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e42b8b16-dd09-466b-ba1e-979e963ea384.jpg?1608917610|https://scryfall.com/card/cmr/443/coiling-oracle?utm_source=api>`"
@@ -4536,6 +4898,9 @@ msgstr ""
 #: ../../CMR.rst:2495
 msgid "When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
+"umieść ją w twojej ręce."
 
 #: ../../CMR.rst:2500
 msgid ":mtgtip:`Deflecting Palm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5580886-a402-4048-b8b6-39e19479f491.jpg?1608917621|https://scryfall.com/card/cmr/444/deflecting-palm?utm_source=api>`"
@@ -4544,6 +4909,9 @@ msgstr ""
 #: ../../CMR.rst:2499
 msgid "The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller."
 msgstr ""
+"Gdy następnym razem wybrane przez ciebie źródło miałoby zadać obrażenia w "
+"tej turze, zażegnaj te obrażenia. Jeśli obrażenia zostaną zażegnane w ten "
+"sposób, ten czar zadaje tyle samo obrażeń władcy owego źródła."
 
 #: ../../CMR.rst:2506
 msgid ":mtgtip:`Fathom Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbb9c5be-4bca-4c59-bbfc-50378e0404df.jpg?1608917631|https://scryfall.com/card/cmr/445/fathom-mage?utm_source=api>`"
@@ -4552,10 +4920,15 @@ msgstr ""
 #: ../../CMR.rst:2503
 msgid "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)"
 msgstr ""
+"Ewoluuje (Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, jeśli ów "
+"stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść znacznik +1/+1 "
+"na niniejszym stworze.)"
 
 #: ../../CMR.rst:2505
 msgid "Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card."
 msgstr ""
+"Ilekroć znacznik +1/+1 zostanie umieszczony na tym stworze, możesz dobrać "
+"kartę."
 
 #: ../../CMR.rst:2510
 msgid ":mtgtip:`Growth Spiral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c0f0add-4ed5-4146-972f-ece8a19e567d.jpg?1608917640|https://scryfall.com/card/cmr/446/growth-spiral?utm_source=api>`"
@@ -4563,7 +4936,7 @@ msgstr ""
 
 #: ../../CMR.rst:2509
 msgid "Draw a card. You may put a land card from your hand onto the battlefield."
-msgstr ""
+msgstr "Dobierz kartę. Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #: ../../CMR.rst:2518
 msgid ":mtgtip:`Master Warcraft<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a95749cf-dd12-4bca-a74d-01301b9b76df.jpg?1608917651|https://scryfall.com/card/cmr/447/master-warcraft?utm_source=api>`"
@@ -4571,15 +4944,15 @@ msgstr ""
 
 #: ../../CMR.rst:2513
 msgid "Cast this spell only before attackers are declared."
-msgstr ""
+msgstr "Rzuć ten czar tylko przed deklaracją atakujących."
 
 #: ../../CMR.rst:2515
 msgid "You choose which creatures attack this turn."
-msgstr ""
+msgstr "Ty decydujesz, które stwory zaatakują w tej turze."
 
 #: ../../CMR.rst:2517
 msgid "You choose which creatures block this turn and how those creatures block."
-msgstr ""
+msgstr "Ty decydujesz, które stwory będą blokować w tej turze i w jaki sposób."
 
 #: ../../CMR.rst:2526
 msgid ":mtgtip:`Murkfiend Liege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcd7296c-ace8-43ea-8164-c69f8843d022.jpg?1608917659|https://scryfall.com/card/cmr/448/murkfiend-liege?utm_source=api>`"
@@ -4587,11 +4960,11 @@ msgstr ""
 
 #: ../../CMR.rst:2521
 msgid "Other green creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne zielone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../CMR.rst:2523
 msgid "Other blue creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne niebieskie stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../CMR.rst:2525
 msgid "Untap all green and/or blue creatures you control during each other player's untap step."
@@ -4604,6 +4977,7 @@ msgstr ""
 #: ../../CMR.rst:2529
 msgid "Response deals 5 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 5 obrażeń."
 
 #: ../../CMR.rst:2534
 msgid ":mtgtip:`Resurgence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9b44a8e-34b1-4ee1-894a-968db6f724b6.jpg?1608917674|https://scryfall.com/card/cmr/449/response-resurgence?utm_source=api>`"
@@ -4612,6 +4986,9 @@ msgstr ""
 #: ../../CMR.rst:2533
 msgid "Creatures you control gain first strike and vigilance until end of turn. After this main phase, there is an additional combat phase followed by an additional main phase."
 msgstr ""
+"Stwory pod twoim władaniem zyskują pierwszy cios i czujność do końca tury. "
+"Po tej fazie głównej jest dodatkowa faza potyczki, a po niej dodatkowa faza "
+"główna."
 
 #: ../../CMR.rst:2540
 msgid ":mtgtip:`Sharktocrab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db490f74-977f-476d-b8ee-da7b0a98b4c4.jpg?1608917684|https://scryfall.com/card/cmr/450/sharktocrab?utm_source=api>`"
@@ -4620,10 +4997,15 @@ msgstr ""
 #: ../../CMR.rst:2537
 msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)"
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|: Adaptacja 1. (Jeśli ten stwór nie ma "
+"znacznika +1/+1, umieść na nim znacznik +1/+1.)"
 
 #: ../../CMR.rst:2539
 msgid "Whenever one or more +1/+1 counters are put on Sharktocrab, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
 msgstr ""
+"Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na tym "
+"stworze, przekręć wskazanego stwora pod władaniem przeciwnika. Ów stwór nie "
+"odkręci się w najbliższym kroku odkręcania jego władcy."
 
 #: ../../CMR.rst:2550
 msgid ":mtgtip:`Simic Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3384ee4e-738f-4442-bccd-4f96022b7219.jpg?1608917694|https://scryfall.com/card/cmr/451/simic-charm?utm_source=api>`"
@@ -4631,11 +5013,11 @@ msgstr ""
 
 #: ../../CMR.rst:2545
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
 #: ../../CMR.rst:2547
 msgid "Permanents you control gain hexproof until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują do końca tury antyklątwę."
 
 #: ../../CMR.rst:2556
 msgid ":mtgtip:`Simic Sky Swallower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f791b7fa-3d12-409d-b017-cb9fd8b71af7.jpg?1608917702|https://scryfall.com/card/cmr/452/simic-sky-swallower?utm_source=api>`"
@@ -4644,7 +5026,7 @@ msgstr ""
 #: ../../CMR.rst:2553
 #: ../../CMR.rst:3003
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../CMR.rst:2555
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
@@ -4661,6 +5043,8 @@ msgstr ""
 #: ../../CMR.rst:2561
 msgid "Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)"
 msgstr ""
+"Odtworzenie (Możesz rzucić tę kartę z twojego cmentarza odrzucając kartę "
+"lądu oprócz opłacenia innych jej kosztów.)"
 
 #: ../../CMR.rst:2568
 msgid ":mtgtip:`Tiana, Ship's Caretaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63852ffb-22ef-4b88-9cba-254291e978cd.jpg?1608917719|https://scryfall.com/card/cmr/454/tiana-ships-caretaker?utm_source=api>`"
@@ -4673,6 +5057,9 @@ msgstr "Latanie, pierwszy cios"
 #: ../../CMR.rst:2567
 msgid "Whenever an Aura or Equipment you control is put into a graveyard from the battlefield, you may return that card to its owner's hand at the beginning of the next end step."
 msgstr ""
+"Ilekroć Aura lub Wyposażenie pod twoim władaniem zostanie umieszczone w "
+"cmentarzu z pola bitwy, możesz przywrócić ową kartę do ręki właściciela na "
+"początku najbliższego kroku końcowego."
 
 #: ../../CMR.rst:2572
 msgid ":mtgtip:`Urban Evolution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2ba443c5-ed9f-4bc0-8821-0053b536d648.jpg?1608917729|https://scryfall.com/card/cmr/455/urban-evolution?utm_source=api>`"
@@ -4680,7 +5067,7 @@ msgstr ""
 
 #: ../../CMR.rst:2571
 msgid "Draw three cards. You may play an additional land this turn."
-msgstr ""
+msgstr "Dobierz trzy karty. W tej turze możesz zagrać dodatkowy ląd."
 
 #: ../../CMR.rst:2578
 msgid ":mtgtip:`Wear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f279560-7e9f-4a6d-9fd6-6c8c6bd94a1b.jpg?1608917739|https://scryfall.com/card/cmr/456/wear-tear?utm_source=api>`"
@@ -4689,7 +5076,7 @@ msgstr ""
 #: ../../CMR.rst:2577
 #: ../../CMR.rst:2583
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
-msgstr ""
+msgstr "Fuzja (Możesz rzucić z ręki jedną lub obie połowy tej karty.)"
 
 #: ../../CMR.rst:2584
 msgid ":mtgtip:`Tear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f279560-7e9f-4a6d-9fd6-6c8c6bd94a1b.jpg?1608917739|https://scryfall.com/card/cmr/456/wear-tear?utm_source=api>`"
@@ -4697,7 +5084,7 @@ msgstr ""
 
 #: ../../CMR.rst:2581
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../CMR.rst:2592
 msgid ":mtgtip:`Blackblade Reforged<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f192c3e-34ce-4857-82ef-a0423823220d.jpg?1608917749|https://scryfall.com/card/cmr/457/blackblade-reforged?utm_source=api>`"
@@ -4705,15 +5092,15 @@ msgstr ""
 
 #: ../../CMR.rst:2587
 msgid "Equipped creature gets +1/+1 for each land you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdy ląd pod twoim władaniem."
 
 #: ../../CMR.rst:2589
 msgid "Equip legendary creature |mana_3|"
-msgstr ""
+msgstr "Wyposaż legendarnego stwora |mana_3|"
 
 #: ../../CMR.rst:2591
 msgid "Equip |mana_7|"
-msgstr ""
+msgstr "Wyposaż |mana_7|"
 
 #: ../../CMR.rst:2598
 msgid ":mtgtip:`Bonesplitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/690972a8-72df-4050-a353-16e45589167c.jpg?1608917758|https://scryfall.com/card/cmr/458/bonesplitter?utm_source=api>`"
@@ -4721,12 +5108,12 @@ msgstr ""
 
 #: ../../CMR.rst:2595
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../CMR.rst:2597
 #: ../../CMR.rst:2671
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../CMR.rst:2602
 msgid ":mtgtip:`Boros Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2ae6081-1876-42ea-a6f8-d18dbe55c4c4.jpg?1608917766|https://scryfall.com/card/cmr/459/boros-signet?utm_source=api>`"
@@ -4734,7 +5121,7 @@ msgstr ""
 
 #: ../../CMR.rst:2601
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../CMR.rst:2606
 msgid ":mtgtip:`Brass Squire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48010648-6f68-41aa-93ae-e02a7de6abb8.jpg?1608917777|https://scryfall.com/card/cmr/460/brass-squire?utm_source=api>`"
@@ -4743,6 +5130,8 @@ msgstr ""
 #: ../../CMR.rst:2605
 msgid "|tap|: Attach target Equipment you control to target creature you control."
 msgstr ""
+"|tap|: Dołącz wskazane Wyposażenie pod twoim władaniem do wskazanego stwora "
+"pod twoim władaniem."
 
 #: ../../CMR.rst:2612
 msgid ":mtgtip:`Explorer's Scope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b16cf33f-ef8d-4d10-87fe-ab03b8525766.jpg?1608917788|https://scryfall.com/card/cmr/461/explorers-scope?utm_source=api>`"
@@ -4759,6 +5148,8 @@ msgstr ""
 #: ../../CMR.rst:2615
 msgid "Equipped creature has double strike. (It deals both first-strike and regular combat damage.)"
 msgstr ""
+"Wyposażony stwór ma podwójny cios. (Zadaje obrażenia bojowe w pierwszym "
+"ciosie oraz normalnie.)"
 
 #: ../../CMR.rst:2624
 msgid ":mtgtip:`Loxodon Warhammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78ccdaf1-c491-4f87-94f8-d66e7e399681.jpg?1608917829|https://scryfall.com/card/cmr/465/loxodon-warhammer?utm_source=api>`"
@@ -4766,14 +5157,14 @@ msgstr ""
 
 #: ../../CMR.rst:2621
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../CMR.rst:2623
 #: ../../CMR.rst:2629
 #: ../../CMR.rst:2665
 #: ../../CMR.rst:2677
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../CMR.rst:2630
 msgid ":mtgtip:`Mask of Avacyn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0aa1b193-c80e-4026-bd82-f16314e14431.jpg?1608917838|https://scryfall.com/card/cmr/466/mask-of-avacyn?utm_source=api>`"
@@ -4782,6 +5173,8 @@ msgstr ""
 #: ../../CMR.rst:2627
 msgid "Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wyposażony stwór dostaje +1/+2 i ma antyklątwę. (Nie może być wskazywany "
+"przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../CMR.rst:2638
 msgid ":mtgtip:`Ring of Thune<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fda91fbd-bf5b-46c4-bd96-037b507f3daa.jpg?1608917859|https://scryfall.com/card/cmr/468/ring-of-thune?utm_source=api>`"
@@ -4789,11 +5182,13 @@ msgstr ""
 
 #: ../../CMR.rst:2633
 msgid "Equipped creature has vigilance. (Attacking doesn't cause it to tap.)"
-msgstr ""
+msgstr "Wyposażony stwór ma czujność. (Atakowanie nie przekręca go.)"
 
 #: ../../CMR.rst:2635
 msgid "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's white."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest biały."
 
 #: ../../CMR.rst:2646
 msgid ":mtgtip:`Ring of Valkas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb3c0bc4-6f89-48e2-b525-5efcb091bc5e.jpg?1608917867|https://scryfall.com/card/cmr/469/ring-of-valkas?utm_source=api>`"
@@ -4802,10 +5197,14 @@ msgstr ""
 #: ../../CMR.rst:2641
 msgid "Equipped creature has haste. (It can attack and |tap| no matter when it came under your control.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech (Może atakować i |tap| od razu po wejściu pod "
+"twoje władanie.)"
 
 #: ../../CMR.rst:2643
 msgid "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's red."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest czerwony."
 
 #: ../../CMR.rst:2650
 msgid ":mtgtip:`Seer's Sundial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/491b8613-d5cd-4749-9c1b-d27a388c616a.jpg?1608917875|https://scryfall.com/card/cmr/470/seers-sundial?utm_source=api>`"
@@ -4814,6 +5213,8 @@ msgstr ""
 #: ../../CMR.rst:2649
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"zapłacić |mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../CMR.rst:2654
 msgid ":mtgtip:`Simic Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a8ce2ab-d3e6-486c-a577-2d4f2c750cde.jpg?1608917887|https://scryfall.com/card/cmr/471/simic-signet?utm_source=api>`"
@@ -4821,7 +5222,7 @@ msgstr ""
 
 #: ../../CMR.rst:2653
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_u|."
 
 #: ../../CMR.rst:2658
 msgid ":mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58b26011-e103-45c4-a253-900f4e6b2eeb.jpg?1608917895|https://scryfall.com/card/cmr/472/sol-ring?utm_source=api>`"
@@ -4833,11 +5234,14 @@ msgstr ""
 
 #: ../../CMR.rst:2661
 msgid "Equipped creature gets +4/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+0."
 
 #: ../../CMR.rst:2663
 msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
 msgstr ""
+"|mana_r|\\ |mana_w|, odłącz ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"czerwonej lub białej sztuczki o skrócie many 4 lub mniejszym i rzuć ją beż "
+"płacenia jej kosztu many. Następnie przetasuj."
 
 #: ../../CMR.rst:2672
 msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5c45f3d-cf12-4db7-b161-9539ed969ca7.jpg?1608917917|https://scryfall.com/card/cmr/474/swiftfoot-boots?utm_source=api>`"
@@ -4845,7 +5249,7 @@ msgstr ""
 
 #: ../../CMR.rst:2669
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../CMR.rst:2678
 msgid ":mtgtip:`Sword of Vengeance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/032af060-4d49-4a0a-8841-9eb2d45a4b77.jpg?1608917926|https://scryfall.com/card/cmr/475/sword-of-vengeance?utm_source=api>`"
@@ -4854,6 +5258,8 @@ msgstr ""
 #: ../../CMR.rst:2675
 msgid "Equipped creature gets +2/+0 and has first strike, vigilance, trample, and haste."
 msgstr ""
+"Wyposażony stwór dostaje +2/+0 i ma pierwszy cios, czujność, tratowanie i "
+"pośpiech."
 
 #: ../../CMR.rst:2684
 msgid ":mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a949030-a46c-4bac-bedc-c07d5c8464af.jpg?1608917935|https://scryfall.com/card/cmr/476/blighted-woodland?utm_source=api>`"
@@ -4862,6 +5268,9 @@ msgstr ""
 #: ../../CMR.rst:2683
 msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:2692
 msgid ":mtgtip:`Boros Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bba2ac2-15dc-4c43-bb57-9943444ce1d7.jpg?1608917943|https://scryfall.com/card/cmr/477/boros-garrison?utm_source=api>`"
@@ -4869,15 +5278,17 @@ msgstr ""
 
 #: ../../CMR.rst:2687
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2689
 msgid "When Boros Garrison enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../CMR.rst:2691
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../CMR.rst:2698
 msgid ":mtgtip:`Boros Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cce912e1-73fe-41f3-a86c-4c19ff3f100f.jpg?1608917952|https://scryfall.com/card/cmr/478/boros-guildgate?utm_source=api>`"
@@ -4885,7 +5296,7 @@ msgstr ""
 
 #: ../../CMR.rst:2695
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2706
 msgid ":mtgtip:`Coral Atoll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77e3ea71-ea9f-4bbf-93cb-0f6339f8a3ab.jpg?1608917971|https://scryfall.com/card/cmr/480/coral-atoll?utm_source=api>`"
@@ -4909,7 +5320,7 @@ msgstr ""
 
 #: ../../CMR.rst:2711
 msgid "|mana_4|, |tap|, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
-msgstr ""
+msgstr "|mana_4|, |tap|, poświęć ten ląd: Zniszcz wskazany niebazowy ląd."
 
 #: ../../CMR.rst:2716
 msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb9a25c6-a1b7-4d6c-8a22-b407043a2280.jpg?1608917992|https://scryfall.com/card/cmr/482/evolving-wilds?utm_source=api>`"
@@ -4918,6 +5329,8 @@ msgstr ""
 #: ../../CMR.rst:2715
 msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:2724
 msgid ":mtgtip:`Forgotten Cave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/084bf9fe-78d2-4fef-8514-ed64d6c771e6.jpg?1608918002|https://scryfall.com/card/cmr/483/forgotten-cave?utm_source=api>`"
@@ -4925,11 +5338,11 @@ msgstr ""
 
 #: ../../CMR.rst:2719
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../CMR.rst:2723
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../CMR.rst:2732
 msgid ":mtgtip:`Jungle Basin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4929e39-fccc-450b-bb18-f5ad56a397bd.jpg?1608918013|https://scryfall.com/card/cmr/484/jungle-basin?utm_source=api>`"
@@ -4945,7 +5358,7 @@ msgstr ""
 
 #: ../../CMR.rst:2731
 msgid "|tap|: Add |colorless|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |mana_g|."
 
 #: ../../CMR.rst:2740
 msgid ":mtgtip:`Memorial to Genius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca4d1438-95d3-4c2c-8011-7970cbf6fe88.jpg?1608933933|https://scryfall.com/card/cmr/485/memorial-to-genius?utm_source=api>`"
@@ -4953,11 +5366,11 @@ msgstr ""
 
 #: ../../CMR.rst:2735
 msgid "Memorial to Genius enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2739
 msgid "|mana_4|\\ |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards."
-msgstr ""
+msgstr "|mana_4|\\ |mana_u|, |tap|, poświęć ten ląd: Dobierz dwie karty."
 
 #: ../../CMR.rst:2748
 msgid ":mtgtip:`Memorial to War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3fe9351-82ad-47b0-b30c-208effbb9f3d.jpg?1608933960|https://scryfall.com/card/cmr/486/memorial-to-war?utm_source=api>`"
@@ -4965,11 +5378,11 @@ msgstr ""
 
 #: ../../CMR.rst:2743
 msgid "Memorial to War enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2747
 msgid "|mana_4|\\ |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land."
-msgstr ""
+msgstr "|mana_4|\\ |mana_r|, |tap|, poświęć ten ląd: Zniszcz wskazany ląd."
 
 #: ../../CMR.rst:2756
 msgid ":mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5538f54e-81dc-4396-9d47-3087df16b630.jpg?1608933979|https://scryfall.com/card/cmr/487/myriad-landscape?utm_source=api>`"
@@ -4977,11 +5390,14 @@ msgstr ""
 
 #: ../../CMR.rst:2751
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2755
 msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:2762
 msgid ":mtgtip:`Reliquary Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbdf72b4-d188-4d16-a1a9-943cbe3157d6.jpg?1608918047|https://scryfall.com/card/cmr/488/reliquary-tower?utm_source=api>`"
@@ -4993,7 +5409,7 @@ msgstr ""
 
 #: ../../CMR.rst:2767
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../CMR.rst:2776
 msgid ":mtgtip:`Secluded Steppe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c536cbd-3e81-4c6a-a4e1-02fbd2776706.jpg?1608918074|https://scryfall.com/card/cmr/491/secluded-steppe?utm_source=api>`"
@@ -5001,11 +5417,11 @@ msgstr ""
 
 #: ../../CMR.rst:2771
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../CMR.rst:2775
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../CMR.rst:2784
 msgid ":mtgtip:`Simic Growth Chamber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0b84ef6-ba13-4c65-987e-cc6aa750086c.jpg?1608918083|https://scryfall.com/card/cmr/492/simic-growth-chamber?utm_source=api>`"
@@ -5013,15 +5429,17 @@ msgstr ""
 
 #: ../../CMR.rst:2779
 msgid "Simic Growth Chamber enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2781
 msgid "When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../CMR.rst:2783
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 
 #: ../../CMR.rst:2790
 msgid ":mtgtip:`Simic Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d93f0124-eb83-4261-8ad2-5590155274a4.jpg?1608918094|https://scryfall.com/card/cmr/493/simic-guildgate?utm_source=api>`"
@@ -5029,7 +5447,7 @@ msgstr ""
 
 #: ../../CMR.rst:2787
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2796
 msgid ":mtgtip:`Slayers' Stronghold<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/402bc1b6-f2f7-4bb7-954a-8579e43f612f.jpg?1608918103|https://scryfall.com/card/cmr/494/slayers-stronghold?utm_source=api>`"
@@ -5038,6 +5456,8 @@ msgstr ""
 #: ../../CMR.rst:2795
 msgid "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór dostaje do końca tury +2/+0, "
+"czujność i pośpiech."
 
 #: ../../CMR.rst:2802
 msgid ":mtgtip:`Stone Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa3575e1-7d2c-4777-b469-16f7483bb8e7.jpg?1608918111|https://scryfall.com/card/cmr/495/stone-quarry?utm_source=api>`"
@@ -5045,7 +5465,7 @@ msgstr ""
 
 #: ../../CMR.rst:2799
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2808
 msgid ":mtgtip:`Sunhome, Fortress of the Legion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f7071a2-2ff2-405b-9052-f902dee820a7.jpg?1608918121|https://scryfall.com/card/cmr/496/sunhome-fortress-of-the-legion?utm_source=api>`"
@@ -5054,6 +5474,8 @@ msgstr ""
 #: ../../CMR.rst:2807
 msgid "|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Target creature gains double strike until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"podwójny cios."
 
 #: ../../CMR.rst:2816
 msgid ":mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e918f01a-3c24-440c-9e5b-c8cf47d81a82.jpg?1608918142|https://scryfall.com/card/cmr/498/thornwood-falls?utm_source=api>`"
@@ -5061,11 +5483,11 @@ msgstr ""
 
 #: ../../CMR.rst:2811
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2813
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../CMR.rst:2824
 msgid ":mtgtip:`Transguild Promenade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0baaa39-7fce-4feb-9118-b1d6bc24f548.jpg?1608918152|https://scryfall.com/card/cmr/499/transguild-promenade?utm_source=api>`"
@@ -5073,11 +5495,12 @@ msgstr ""
 
 #: ../../CMR.rst:2819
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2821
 msgid "When Transguild Promenade enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../CMR.rst:2832
 msgid ":mtgtip:`Vivid Creek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fde8caf-975e-4d43-b994-27199e0557fa.jpg?1608918161|https://scryfall.com/card/cmr/500/vivid-creek?utm_source=api>`"
@@ -5109,11 +5532,11 @@ msgstr ""
 
 #: ../../CMR.rst:2843
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2845
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../CMR.rst:2854
 msgid ":mtgtip:`Woodland Stream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77619840-963f-4ff7-9a42-b36e3d53646d.jpg?1608918190|https://scryfall.com/card/cmr/503/woodland-stream?utm_source=api>`"
@@ -5121,7 +5544,7 @@ msgstr ""
 
 #: ../../CMR.rst:2851
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2858
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/272e4d2b-2ba7-492f-9f0f-b2b2a2e4c049.jpg?1608918198|https://scryfall.com/card/cmr/504/plains?utm_source=api>`"
@@ -5129,7 +5552,7 @@ msgstr ""
 
 #: ../../CMR.rst:2857
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../CMR.rst:2862
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb15b40c-9795-42ae-9f88-8b8023b6c010.jpg?1608918215|https://scryfall.com/card/cmr/506/island?utm_source=api>`"
@@ -5137,7 +5560,7 @@ msgstr ""
 
 #: ../../CMR.rst:2861
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../CMR.rst:2866
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1baebba-a975-45b1-bbcb-f4ce1ba682b5.jpg?1608918233|https://scryfall.com/card/cmr/508/mountain?utm_source=api>`"
@@ -5145,7 +5568,7 @@ msgstr ""
 
 #: ../../CMR.rst:2865
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../CMR.rst:2870
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.jpg?1608918251|https://scryfall.com/card/cmr/510/forest?utm_source=api>`"
@@ -5153,7 +5576,7 @@ msgstr ""
 
 #: ../../CMR.rst:2869
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../CMR.rst:2876
 msgid ":mtgtip:`Najeela, the Blade-Blossom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be898edb-35dd-4896-96d9-323aca64a2ce.jpg?1612229871|https://scryfall.com/card/cmr/514/najeela-the-blade-blossom?utm_source=api>`"
@@ -5173,7 +5596,7 @@ msgstr ""
 
 #: ../../CMR.rst:2879
 msgid "First strike, vigilance"
-msgstr ""
+msgstr "Pierwszy cios, czujność"
 
 #: ../../CMR.rst:2881
 msgid "Akiri, Line-Slinger gets +1/+0 for each artifact you control."
@@ -5186,6 +5609,9 @@ msgstr ""
 #: ../../CMR.rst:2889
 msgid "Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
+"wskazanych nielądowych permanentów pod twoim władaniem, po czym przywróć owe "
+"karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../CMR.rst:2896
 msgid ":mtgtip:`Bruse Tarl, Boorish Herder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2816c031-8816-4f52-b1db-590f0688d801.jpg?1612229995|https://scryfall.com/card/cmr/517/bruse-tarl-boorish-herder?utm_source=api>`"
@@ -5230,6 +5656,8 @@ msgstr ""
 #: ../../CMR.rst:2923
 msgid "This spell costs |mana_1| less to cast for each creature card in your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
+"cmentarzu."
 
 #: ../../CMR.rst:2925
 msgid "During each of your turns, you may cast a creature spell from your graveyard."
@@ -5242,15 +5670,20 @@ msgstr ""
 #: ../../CMR.rst:2929
 #: ../../CMR.rst:3071
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../CMR.rst:2931
 msgid "As long as your devotion to green and white is less than seven, Karametra isn't a creature."
 msgstr ""
+"O ile twój kult zielonego i białego jest mniejszy niż siedem, ta karta nie "
+"jest stworem."
 
 #: ../../CMR.rst:2933
 msgid "Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Ilekroć rzucisz czar stwora, możesz wyszukać w twojej bibliotece kartę Lasu "
+"lub Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../CMR.rst:2942
 msgid ":mtgtip:`Kraum, Ludevic's Opus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20e13fc2-c4dd-4875-be32-e04d954e658d.jpg?1612230781|https://scryfall.com/card/cmr/523/kraum-ludevics-opus?utm_source=api>`"
@@ -5258,7 +5691,7 @@ msgstr ""
 
 #: ../../CMR.rst:2939
 msgid "Whenever an opponent casts their second spell each turn, draw a card."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuca swój drugi czar w danej turze, dobierz kartę."
 
 #: ../../CMR.rst:2948
 msgid ":mtgtip:`Kydele, Chosen of Kruphix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86eee902-dc0b-48d0-a8db-7e6de89977ef.jpg?1612230808|https://scryfall.com/card/cmr/524/kydele-chosen-of-kruphix?utm_source=api>`"
@@ -5282,11 +5715,15 @@ msgstr ""
 
 #: ../../CMR.rst:2957
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 #: ../../CMR.rst:2959
 msgid "Cascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)"
 msgstr ""
+"Kaskada, kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej "
+"biblioteki aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie "
+"twojej biblioteki. Następnie zrób to jeszcze raz.)"
 
 #: ../../CMR.rst:2972
 msgid ":mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58e1033e-3d7e-451a-8e0f-1ae7f3de925a.jpg?1612231051|https://scryfall.com/card/cmr/527/marath-will-of-the-wild?utm_source=api>`"
@@ -5319,6 +5756,9 @@ msgstr ""
 #: ../../CMR.rst:2975
 msgid "During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)"
 msgstr ""
+"W trakcie każdej z twoich tur możesz zagrać z twojego cmentarza co najwyżej "
+"po jednej karcie spośród każdego typu permanentu. (Jeśli karta ma kilka "
+"typów permanentu, wybierz jeden podczas zagrywania jej.)"
 
 #: ../../CMR.rst:2982
 msgid ":mtgtip:`Nekusar, the Mindrazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d1691bd-5194-4f1e-981f-6d5ef808ed4e.jpg?1612231076|https://scryfall.com/card/cmr/529/nekusar-the-mindrazer?utm_source=api>`"
@@ -5327,6 +5767,8 @@ msgstr ""
 #: ../../CMR.rst:2979
 msgid "At the beginning of each player's draw step, that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz dobiera dodatkową "
+"kartę."
 
 #: ../../CMR.rst:2981
 msgid "Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player."
@@ -5367,10 +5809,13 @@ msgstr ""
 #: ../../CMR.rst:3001
 msgid "You can't cast this spell unless an opponent lost life this turn."
 msgstr ""
+"Nie możesz rzucić tego czaru, chyba że przeciwnik stracił życie w tej turze."
 
 #: ../../CMR.rst:3005
 msgid "Creature spells you cast cost |mana_1| less to cast for each 1 life your opponents have lost this turn."
 msgstr ""
+"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każde 1 życie "
+"stracone przez twoich przeciwników w tej turze."
 
 #: ../../CMR.rst:3016
 msgid ":mtgtip:`Ravos, Soultender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dde62b0c-ea15-4b25-9cb1-697cc2e459c0.jpg?1612280059|https://scryfall.com/card/cmr/533/ravos-soultender?utm_source=api>`"
@@ -5378,7 +5823,7 @@ msgstr ""
 
 #: ../../CMR.rst:3011
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../CMR.rst:3013
 msgid "At the beginning of your upkeep, you may return target creature card from your graveyard to your hand."
@@ -5403,6 +5848,8 @@ msgstr ""
 #: ../../CMR.rst:3027
 msgid "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
+"Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
+"stwór dostaje do końca tury -1/-1.)"
 
 #: ../../CMR.rst:3029
 msgid "Creatures your opponents control without flying or reach can't block creatures with power 2 or less."
@@ -5455,10 +5902,14 @@ msgstr ""
 #: ../../CMR.rst:3073
 msgid "As long as your devotion to red and green is less than seven, Xenagos isn't a creature."
 msgstr ""
+"O ile twój kult czerwonego i zielonego jest mniejszy niż siedem, ta karta "
+"nie jest stworem."
 
 #: ../../CMR.rst:3075
 msgid "At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power."
 msgstr ""
+"Na początku potyczki w twojej turze, inny wskazany stwór pod twoim władaniem "
+"dostaje do końca tury pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
 
 #: ../../CMR.rst:3082
 msgid ":mtgtip:`Yuriko, the Tiger's Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7af7847e-82e6-45ed-834d-6f3bcba44017.jpg?1612317027|https://scryfall.com/card/cmr/542/yuriko-the-tigers-shadow?utm_source=api>`"
@@ -5491,6 +5942,9 @@ msgstr ""
 #: ../../CMR.rst:3093
 msgid "Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz wyszukać w twojej bibliotece kartę uroku "
+"o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. Jeśli tak zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../CMR.rst:3102
 msgid ":mtgtip:`Ramos, Dragon Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5865c39e-847e-4dc6-8e6c-a4200124f21f.jpg?1612317121|https://scryfall.com/card/cmr/545/ramos-dragon-engine?utm_source=api>`"
@@ -5510,4 +5964,4 @@ msgstr ""
 
 #: ../../CMR.rst:3105
 msgid "|tap|, Pay 1 life: Add one mana of any color."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru."
