@@ -24,6 +24,8 @@
 
 .. |CHK_percent| image:: images/pie30.png        
 
+.. |CMR_percent| image:: images/pie05.png        
+
 .. |AKH_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -243,6 +245,8 @@
 .. |2XM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
+.. |ZNC_percent| image:: images/pie05.png        
+
 .. |DTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -273,6 +277,8 @@
    :alt: Tłumaczenie zakończone
 
 .. |FUT_percent| image:: images/pie55.png        
+
+.. |KHC_percent| image:: images/pie05.png        
 
 .. |ONS_percent| image:: images/pie30.png        
 
