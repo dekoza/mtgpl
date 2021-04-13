@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-04-13
+   * Tenth Edition - 100%
+
 2021-04-07
    * Przetłumaczone wszystkie karty dostępne w MTG Arena.
 
