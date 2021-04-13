@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 13:41+0200\n"
-"PO-Revision-Date: 2021-04-13 12:46+0000\n"
+"PO-Revision-Date: 2021-04-13 15:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -3778,7 +3778,7 @@ msgstr ""
 
 #: ../../CMR.rst:1941
 msgid "|mana_2|, |tap|: You gain 1 life."
-msgstr ""
+msgstr "|mana_2|, |tap|: Zyskaj 1 życie."
 
 #: ../../CMR.rst:1943
 msgid "|mana_3|, |tap|: Untap target creature."
@@ -4753,6 +4753,8 @@ msgstr ""
 #: ../../CMR.rst:2429
 msgid "Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../CMR.rst:2436
 msgid ":mtgtip:`Rampaging Baloths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.jpg?1608917493|https://scryfall.com/card/cmr/431/rampaging-baloths?utm_source=api>`"

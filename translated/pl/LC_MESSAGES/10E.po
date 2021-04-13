@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 12:34+0000\n"
+"PO-Revision-Date: 2021-04-13 15:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -3129,10 +3129,13 @@ msgid ""
 "planeswalker it's attacking. This creature can attack and |tap| as soon as "
 "it comes under your control.)"
 msgstr ""
+"Tratowanie, pośpiech (Ten stwór może zadać nadmiarowe obrażenia bojowe "
+"atakowanemu graczowi lub wędrowcowi. Ten stwór może atakować i |tap| od razu "
+"po wejściu pod twoje władanie.)"
 
 #: ../../10E.rst:1091
 msgid "At the beginning of the end step, sacrifice Spark Elemental."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../10E.rst:1096
 msgid ""
@@ -3187,6 +3190,8 @@ msgid ""
 "Sudden Impact deals damage to target player equal to the number of cards in "
 "that player's hand."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi obrażenia równe liczbie kart w ręce "
+"owego gracza."
 
 #: ../../10E.rst:1114
 msgid ""
@@ -3200,6 +3205,8 @@ msgid ""
 "Untap target creature and gain control of it until end of turn. That "
 "creature gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
+"Odkręć wskazanego stwora i zyskaj władanie nad nim do końca tury. Ów stwór "
+"do końca tury zyskuje pośpiech. (Może atakować i |tap| w tej turze.)"
 
 #: ../../10E.rst:1118
 msgid ""
@@ -3246,6 +3253,8 @@ msgid ""
 "At the beginning of the end step, return Viashino Sandscout to its owner's "
 "hand. (Return it only if it's on the battlefield.)"
 msgstr ""
+"Na początku kroku końcowego, przywróć tego stwora do ręki właściciela. ("
+"Przywróć go tylko jeśli jest on na polu bitwy.)"
 
 #: ../../10E.rst:1142
 msgid ""
@@ -3317,6 +3326,8 @@ msgid ""
 "If an opponent controls at least four more creatures than you, this spell "
 "costs |mana_6| less to cast."
 msgstr ""
+"Jeśli przeciwnik ma we władaniu co najmniej o cztery stwory więcej niż ty, "
+"rzucenie tego czaru kosztuje o |mana_6| mniej."
 
 #: ../../10E.rst:1161 ../../10E.rst:1283 ../../10E.rst:1371 ../../10E.rst:1449
 msgid ""
@@ -3389,6 +3400,9 @@ msgid ""
 "from among them and put it into your hand. Put the rest on the bottom of "
 "your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe dowolnie na "
+"spodzie twojej biblioteki."
 
 #: ../../10E.rst:1188
 msgid ""
@@ -3419,6 +3433,8 @@ msgstr ""
 msgid ""
 "Elven Riders can't be blocked except by Walls and/or creatures with flying."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez Ściany i/lub stwory z "
+"lataniem."
 
 #: ../../10E.rst:1202
 msgid ""
@@ -3432,6 +3448,8 @@ msgid ""
 "Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn "
 "for each creature blocking it."
 msgstr ""
+"Ilekroć ten stwór zostaje zablokowany, dostaje do końca tury +1/+1 za "
+"każdego blokującego go stwora."
 
 #: ../../10E.rst:1206
 msgid ""
@@ -3445,6 +3463,8 @@ msgid ""
 "Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as "
 "long as defending player controls a Forest.)"
 msgstr ""
+"Inne Elfy dostają +1/+1 i mają podbój lasów. (Nie mogą być blokowane o ile "
+"broniący się gracz włada Lasem.)"
 
 #: ../../10E.rst:1210
 msgid ""
@@ -3479,6 +3499,8 @@ msgid ""
 "|tap|: Femeref Archers deals 4 damage to target attacking creature with "
 "flying."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu stworowi z lataniem 4 "
+"obrażenia."
 
 #: ../../10E.rst:1222
 msgid ""
@@ -3489,7 +3511,7 @@ msgstr ""
 
 #: ../../10E.rst:1221
 msgid "Creature spells can't be countered."
-msgstr ""
+msgstr "Czary stworów nie mogą być skontrowane."
 
 #: ../../10E.rst:1226
 msgid ""
@@ -3528,6 +3550,8 @@ msgid ""
 "When Hunted Wumpus enters the battlefield, each other player may put a "
 "creature card from their hand onto the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy inny gracz może umieścić kartę "
+"stwora ze swojej ręki na polu bitwy."
 
 #: ../../10E.rst:1242
 msgid ""
@@ -3539,6 +3563,7 @@ msgstr ""
 #: ../../10E.rst:1241
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
 #: ../../10E.rst:1246
 msgid ""
@@ -3561,7 +3586,7 @@ msgstr ""
 
 #: ../../10E.rst:1249
 msgid "Karplusan Strider can't be the target of blue or black spells."
-msgstr ""
+msgstr "Ten stwór nie może być wskazywany przez niebieskie lub czarne czary."
 
 #: ../../10E.rst:1254
 msgid ""
@@ -3572,7 +3597,7 @@ msgstr ""
 
 #: ../../10E.rst:1253
 msgid "When Kavu Climber enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../10E.rst:1258
 msgid ""
@@ -3598,6 +3623,9 @@ msgid ""
 "mana_g|. If you do, search your library for a card named Llanowar Sentinel "
 "and put that card onto the battlefield. Then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
+"Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie i "
+"umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../10E.rst:1268
 msgid ""
@@ -3633,6 +3661,9 @@ msgid ""
 "|mana_2|: Target red or white creature gains trample until end of turn. (It "
 "can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"|mana_2|: Wskazany czerwony lub biały stwór zyskuje do końca tury "
+"tratowanie. (Może zadać nadmiarowe obrażenia bojowe atakowanemu graczowi lub "
+"wędrowcowi.)"
 
 #: ../../10E.rst:1280
 msgid ""
@@ -3648,6 +3679,9 @@ msgid ""
 "defending player controls a Forest, and attacking doesn't cause this "
 "creature to tap.)"
 msgstr ""
+"Pierwszy cios, podbój lasów, czujność. (Ten stwór zadaje obrażenia bojowe "
+"przed stworami bez pierwszego ciosu, nie może być blokowany o ile broniący "
+"się gracz włada Lasem i atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../10E.rst:1286
 msgid ""
@@ -3661,6 +3695,8 @@ msgid ""
 "Molimo, Maro-Sorcerer's power and toughness are each equal to the number of "
 "lands you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../10E.rst:1290
 msgid ""
@@ -3671,7 +3707,7 @@ msgstr ""
 
 #: ../../10E.rst:1289
 msgid "Target player gains 8 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../10E.rst:1294
 msgid ""
@@ -3700,6 +3736,8 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional |mana_g|\\ |mana_g|."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany dla many, jego władca bierze "
+"dodatkowe |mana_g|\\ |mana_g|."
 
 #: ../../10E.rst:1304
 msgid ""
@@ -3735,6 +3773,8 @@ msgid ""
 "Creatures you control have trample. (A creature with trample can deal excess "
 "combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Stwory pod twoim władaniem mają tratowanie. (Stwór mający tratowanie może "
+"zadać nadmiarowe obrażenia bojowe atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../10E.rst:1316
 msgid ""
@@ -3790,6 +3830,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_g|: Zregeneruj zauroczonego stwora. (Następnym razem, gdy ów stwór "
+"miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
+"usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../10E.rst:1336
 msgid ""
@@ -3802,6 +3845,8 @@ msgstr ""
 msgid ""
 "You may have Rhox assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../10E.rst:1335
 msgid ""
@@ -3809,6 +3854,9 @@ msgid ""
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_2|\\ |mana_g|: Zregeneruj tego stwora. (Następnym razem, gdy miałby "
+"zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z "
+"niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../10E.rst:1340
 msgid ""
@@ -3819,7 +3867,7 @@ msgstr ""
 
 #: ../../10E.rst:1339
 msgid "Artifacts and lands enter the battlefield tapped."
-msgstr ""
+msgstr "Artefakty i lądy wchodzą przekręcone na pole bitwy."
 
 #: ../../10E.rst:1344
 msgid ""
@@ -3863,6 +3911,8 @@ msgid ""
 "Scion of the Wild's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../10E.rst:1356
 msgid ""
@@ -3874,6 +3924,8 @@ msgstr ""
 #: ../../10E.rst:1355
 msgid "Untap all permanents you control during each other player's untap step."
 msgstr ""
+"Odkręć wszystkie permanenty pod twoim władaniem podczas kroku odkręcania "
+"każdego innego gracza."
 
 #: ../../10E.rst:1360
 msgid ""
@@ -3887,6 +3939,8 @@ msgid ""
 "|tap|: You may put a land card from your hand onto the battlefield. Activate "
 "this ability only any time you could cast a sorcery."
 msgstr ""
+"|tap|: Możesz umieścić kartę lądu z twojej ręki na polu bitwy. Aktywuj jako "
+"obrzęd."
 
 #: ../../10E.rst:1362
 msgid ""
@@ -3904,7 +3958,7 @@ msgstr ""
 
 #: ../../10E.rst:1367
 msgid "Stalking Tiger can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../10E.rst:1374
 msgid ""
@@ -3918,6 +3972,8 @@ msgid ""
 "At the beginning of your upkeep, return a green creature you control to its "
 "owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć zielonego stwora pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../10E.rst:1378
 msgid ""
@@ -3931,6 +3987,7 @@ msgid ""
 "Whenever Sylvan Basilisk becomes blocked by a creature, destroy that "
 "creature."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany przez stwora, zniszcz owego stwora."
 
 #: ../../10E.rst:1382
 msgid ""
@@ -3966,6 +4023,8 @@ msgid ""
 "Enchanted creature gets +1/+1 and can't be blocked except by creatures with "
 "flying."
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i nie może być blokowany, chyba że przez "
+"stwory mające latanie."
 
 #: ../../10E.rst:1400
 msgid ""
@@ -3984,7 +4043,7 @@ msgstr ""
 
 #: ../../10E.rst:1399
 msgid "|mana_1|\\ |mana_g|: Regenerate Troll Ascetic."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../10E.rst:1404
 msgid ""
@@ -3995,7 +4054,7 @@ msgstr ""
 
 #: ../../10E.rst:1403
 msgid "Players don't lose unspent mana as steps and phases end."
-msgstr ""
+msgstr "Gracze nie tracą niewydanej many podczas końców kroków i faz."
 
 #: ../../10E.rst:1408
 msgid ""
@@ -4020,7 +4079,7 @@ msgstr ""
 
 #: ../../10E.rst:1411
 msgid "When Viridian Shaman enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../10E.rst:1416
 msgid ""
@@ -4061,7 +4120,7 @@ msgstr ""
 
 #: ../../10E.rst:1427
 msgid "Sacrifice Bottle Gnomes: You gain 3 life."
-msgstr ""
+msgstr "Poświęć tego stwora: Zyskaj 3 życia."
 
 #: ../../10E.rst:1432
 msgid ""
@@ -4075,6 +4134,8 @@ msgid ""
 "|mana_x|: Chimeric Staff becomes an X/X Construct artifact creature until "
 "end of turn."
 msgstr ""
+"|mana_x|: Ten artefakt staje się do końca tury artefaktowym stworem "
+"Konstrukt X/X."
 
 #: ../../10E.rst:1438
 msgid ""
@@ -4107,6 +4168,8 @@ msgid ""
 "cost X or less, reveal it, and put it into your hand. Then shuffle your "
 "library."
 msgstr ""
+"|mana_x|, |tap|: Wyszukaj w twojej bibliotece kartę stwora o skrócie many X "
+"lub mniejszym, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../10E.rst:1446
 msgid ""
@@ -4135,7 +4198,7 @@ msgstr ""
 
 #: ../../10E.rst:1451
 msgid "Colossus of Sardia doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../10E.rst:1453
 msgid ""
@@ -4157,6 +4220,8 @@ msgid ""
 "Sacrifice Composite Golem: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |"
 "mana_g|."
 msgstr ""
+"Poświęć tego stwora: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ "
+"|mana_g|."
 
 #: ../../10E.rst:1462
 msgid ""
@@ -4191,6 +4256,8 @@ msgstr ""
 msgid ""
 "|mana_3|, |tap|: Double the amount of each type of unspent mana you have."
 msgstr ""
+"|mana_3|, |tap|: Podwój liczbę każdego typu posiadanej przez ciebie "
+"niewydanej many."
 
 #: ../../10E.rst:1474
 msgid ""
@@ -4212,7 +4279,7 @@ msgstr ""
 
 #: ../../10E.rst:1477
 msgid "|mana_2|, |tap|: You gain 1 life."
-msgstr ""
+msgstr "|mana_2|, |tap|: Zyskaj 1 życie."
 
 #: ../../10E.rst:1482
 msgid ""
@@ -4227,6 +4294,9 @@ msgid ""
 "flying named Wasp. (It can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton bezkolorowego stwora Owad 1/1 z lataniem o "
+"nazwie Osa. (Nie może być on blokowanym, chyba że przez stwory mające "
+"latanie lub zasięg.)"
 
 #: ../../10E.rst:1486
 msgid ""
@@ -4302,6 +4372,8 @@ msgstr ""
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Exile target permanent."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Wygnaj wskazany "
+"permanent."
 
 #: ../../10E.rst:1509
 msgid ""

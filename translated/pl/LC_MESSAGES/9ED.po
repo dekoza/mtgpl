@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 12:34+0000\n"
+"PO-Revision-Date: 2021-04-13 15:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -2813,6 +2813,8 @@ msgid ""
 "Sudden Impact deals damage to target player equal to the number of cards in "
 "that player's hand."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi obrażenia równe liczbie kart w ręce "
+"owego gracza."
 
 #: ../../9ED.rst:1034
 msgid ""
@@ -2826,6 +2828,8 @@ msgid ""
 "Untap target creature and gain control of it until end of turn. That "
 "creature gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
+"Odkręć wskazanego stwora i zyskaj władanie nad nim do końca tury. Ów stwór "
+"do końca tury zyskuje pośpiech. (Może atakować i |tap| w tej turze.)"
 
 #: ../../9ED.rst:1040
 msgid ""
@@ -2985,6 +2989,8 @@ msgid ""
 "Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn "
 "for each creature blocking it."
 msgstr ""
+"Ilekroć ten stwór zostaje zablokowany, dostaje do końca tury +1/+1 za "
+"każdego blokującego go stwora."
 
 #: ../../9ED.rst:1100
 msgid ""
@@ -2998,6 +3004,8 @@ msgid ""
 "Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as "
 "long as defending player controls a Forest.)"
 msgstr ""
+"Inne Elfy dostają +1/+1 i mają podbój lasów. (Nie mogą być blokowane o ile "
+"broniący się gracz włada Lasem.)"
 
 #: ../../9ED.rst:1104
 msgid ""
@@ -3123,6 +3131,8 @@ msgid ""
 "When Hunted Wumpus enters the battlefield, each other player may put a "
 "creature card from their hand onto the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy inny gracz może umieścić kartę "
+"stwora ze swojej ręki na polu bitwy."
 
 #: ../../9ED.rst:1146
 msgid ""
@@ -3133,7 +3143,7 @@ msgstr ""
 
 #: ../../9ED.rst:1145
 msgid "When Kavu Climber enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../9ED.rst:1150
 msgid ""
@@ -3225,7 +3235,7 @@ msgstr ""
 
 #: ../../9ED.rst:1177
 msgid "Target player gains 8 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../9ED.rst:1182
 msgid ""
@@ -3280,6 +3290,8 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional |mana_g|\\ |mana_g|."
 msgstr ""
+"Ilekroć zauroczony ląd jest przekręcany dla many, jego władca bierze "
+"dodatkowe |mana_g|\\ |mana_g|."
 
 #: ../../9ED.rst:1204
 msgid ""
@@ -3321,6 +3333,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_g|: Zregeneruj zauroczonego stwora. (Następnym razem, gdy ów stwór "
+"miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
+"usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../9ED.rst:1218
 msgid ""
@@ -3376,6 +3391,8 @@ msgstr ""
 #: ../../9ED.rst:1233
 msgid "Untap all permanents you control during each other player's untap step."
 msgstr ""
+"Odkręć wszystkie permanenty pod twoim władaniem podczas kroku odkręcania "
+"każdego innego gracza."
 
 #: ../../9ED.rst:1240
 msgid ""
@@ -3444,6 +3461,8 @@ msgid ""
 "Enchanted creature gets +1/+1 and can't be blocked except by creatures with "
 "flying."
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i nie może być blokowany, chyba że przez "
+"stwory mające latanie."
 
 #: ../../9ED.rst:1266
 msgid ""
@@ -3490,7 +3509,7 @@ msgstr ""
 
 #: ../../9ED.rst:1277
 msgid "When Viridian Shaman enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../9ED.rst:1284
 msgid ""
@@ -3626,7 +3645,7 @@ msgstr ""
 
 #: ../../9ED.rst:1323
 msgid "Sacrifice Bottle Gnomes: You gain 3 life."
-msgstr ""
+msgstr "Poświęć tego stwora: Zyskaj 3 życia."
 
 #: ../../9ED.rst:1328
 msgid ""

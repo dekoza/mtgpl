@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 11:18+0000\n"
+"PO-Revision-Date: 2021-04-13 15:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
 "Language: pl\n"
@@ -1125,10 +1125,13 @@ msgid ""
 "planeswalker it's attacking. This creature can attack and |tap| as soon as "
 "it comes under your control.)"
 msgstr ""
+"Tratowanie, pośpiech (Ten stwór może zadać nadmiarowe obrażenia bojowe "
+"atakowanemu graczowi lub wędrowcowi. Ten stwór może atakować i |tap| od razu "
+"po wejściu pod twoje władanie.)"
 
 #: ../../5DN.rst:405
 msgid "At the beginning of the end step, sacrifice Spark Elemental."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../5DN.rst:412
 msgid ""
@@ -1580,6 +1583,8 @@ msgid ""
 "Sacrifice Composite Golem: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |"
 "mana_g|."
 msgstr ""
+"Poświęć tego stwora: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ "
+"|mana_g|."
 
 #: ../../5DN.rst:564
 msgid ""
@@ -1659,6 +1664,8 @@ msgstr ""
 msgid ""
 "|mana_3|, |tap|: Double the amount of each type of unspent mana you have."
 msgstr ""
+"|mana_3|, |tap|: Podwój liczbę każdego typu posiadanej przez ciebie "
+"niewydanej many."
 
 #: ../../5DN.rst:594
 msgid ""
@@ -2288,7 +2295,7 @@ msgstr ""
 
 #: ../../5DN.rst:831
 msgid "|mana_2|, |tap|: You gain 1 life."
-msgstr ""
+msgstr "|mana_2|, |tap|: Zyskaj 1 życie."
 
 #: ../../5DN.rst:833
 msgid "|mana_3|, |tap|: Untap target creature."

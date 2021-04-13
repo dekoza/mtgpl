@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 12:34+0000\n"
+"PO-Revision-Date: 2021-04-13 15:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -2704,6 +2704,8 @@ msgid ""
 "Sudden Impact deals damage to target player equal to the number of cards in "
 "that player's hand."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi obrażenia równe liczbie kart w ręce "
+"owego gracza."
 
 #: ../../7ED.rst:994
 msgid ""
@@ -2888,6 +2890,8 @@ msgid ""
 "Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as "
 "long as defending player controls a Forest.)"
 msgstr ""
+"Inne Elfy dostają +1/+1 i mają podbój lasów. (Nie mogą być blokowane o ile "
+"broniący się gracz włada Lasem.)"
 
 #: ../../7ED.rst:1070
 msgid ""
@@ -2937,6 +2941,8 @@ msgid ""
 "|tap|: Femeref Archers deals 4 damage to target attacking creature with "
 "flying."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu stworowi z lataniem 4 "
+"obrażenia."
 
 #: ../../7ED.rst:1086
 msgid ""
@@ -3020,6 +3026,7 @@ msgstr ""
 #: ../../7ED.rst:1113
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
 #: ../../7ED.rst:1118
 msgid ""
@@ -3172,6 +3179,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_g|: Zregeneruj zauroczonego stwora. (Następnym razem, gdy ów stwór "
+"miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
+"usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../7ED.rst:1174
 msgid ""

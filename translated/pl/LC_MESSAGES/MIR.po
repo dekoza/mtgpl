@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-13 11:18+0000\n"
+"PO-Revision-Date: 2021-04-13 15:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -3210,6 +3210,8 @@ msgid ""
 "|tap|: Femeref Archers deals 4 damage to target attacking creature with "
 "flying."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu stworowi z lataniem 4 "
+"obrażenia."
 
 #: ../../MIR.rst:1174
 msgid ""
@@ -3498,6 +3500,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_g|: Zregeneruj zauroczonego stwora. (Następnym razem, gdy ów stwór "
+"miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
+"usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../MIR.rst:1282
 msgid ""
@@ -3594,7 +3599,7 @@ msgstr ""
 
 #: ../../MIR.rst:1311
 msgid "Stalking Tiger can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../MIR.rst:1316
 msgid ""

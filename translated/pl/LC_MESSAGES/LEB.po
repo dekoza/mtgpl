@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 12:46+0000\n"
+"PO-Revision-Date: 2021-04-13 15:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leb/pl/>\n"
 "Language: pl\n"
@@ -2781,6 +2781,7 @@ msgstr ""
 #: ../../LEB.rst:1005
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
 #: ../../LEB.rst:1010
 msgid ""
@@ -2939,6 +2940,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_g|: Zregeneruj zauroczonego stwora. (Następnym razem, gdy ów stwór "
+"miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
+"usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../LEB.rst:1076
 msgid ""
@@ -3700,6 +3704,9 @@ msgid ""
 "flying named Wasp. (It can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton bezkolorowego stwora Owad 1/1 z lataniem o "
+"nazwie Osa. (Nie może być on blokowanym, chyba że przez stwory mające "
+"latanie lub zasięg.)"
 
 #: ../../LEB.rst:1348
 msgid ""

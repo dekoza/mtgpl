@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 12:46+0000\n"
+"PO-Revision-Date: 2021-04-13 15:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
 "Language: pl\n"
@@ -3289,6 +3289,8 @@ msgstr ""
 msgid ""
 "Elven Riders can't be blocked except by Walls and/or creatures with flying."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez Ściany i/lub stwory z "
+"lataniem."
 
 #: ../../4ED.rst:1212
 msgid ""
@@ -3393,6 +3395,7 @@ msgstr ""
 #: ../../4ED.rst:1247
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
 #: ../../4ED.rst:1256
 msgid ""
@@ -3604,6 +3607,9 @@ msgid ""
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
 "and remove it from combat.)"
 msgstr ""
+"|mana_g|: Zregeneruj zauroczonego stwora. (Następnym razem, gdy ów stwór "
+"miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
+"usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
 #: ../../4ED.rst:1336
 msgid ""
@@ -4163,7 +4169,7 @@ msgstr ""
 
 #: ../../4ED.rst:1535
 msgid "Colossus of Sardia doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../4ED.rst:1537
 msgid ""
@@ -4771,6 +4777,9 @@ msgid ""
 "flying named Wasp. (It can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton bezkolorowego stwora Owad 1/1 z lataniem o "
+"nazwie Osa. (Nie może być on blokowanym, chyba że przez stwory mające "
+"latanie lub zasięg.)"
 
 #: ../../4ED.rst:1746
 msgid ""
