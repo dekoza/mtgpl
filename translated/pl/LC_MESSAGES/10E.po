@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 11:48+0000\n"
+"PO-Revision-Date: 2021-04-13 12:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -2855,6 +2855,8 @@ msgid ""
 "At the beginning of each opponent's upkeep, if that player has two or fewer "
 "cards in hand, Lavaborn Muse deals 3 damage to that player."
 msgstr ""
+"Na początku kroku utrzymania każdego przeciwnika, jeśli ów gracz ma nie "
+"więcej niż dwie karty w ręce, ten stwór zadaje owemu graczowi 3 obrażenia."
 
 #: ../../10E.rst:1000
 msgid ""
@@ -2900,6 +2902,7 @@ msgstr ""
 msgid ""
 "|tap|: Orcish Artillery deals 2 damage to any target and 3 damage to you."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu celowi 2 obrażenia i 3 obrażenia tobie."
 
 #: ../../10E.rst:1016
 msgid ""
@@ -2935,6 +2938,8 @@ msgid ""
 "|mana_2|: Target black or green creature gains haste until end of turn. (It "
 "can attack and |tap| this turn.)"
 msgstr ""
+"|mana_2|: Wskazany czarny lub zielony stwór zyskuje do końca tury pośpiech. ("
+"Może atakować i |tap| w tej turze.)"
 
 #: ../../10E.rst:1028
 msgid ""
@@ -2955,6 +2960,8 @@ msgid ""
 "Untap all creatures that attacked this turn. After this main phase, there is "
 "an additional combat phase followed by an additional main phase."
 msgstr ""
+"Odkręć wszystkie stwory, które atakowały w tej turze. Po tej fazie głównej "
+"jest dodatkowa faza potyczki, po której następuje dodatkowa faza główna."
 
 #: ../../10E.rst:1036
 msgid ""
@@ -2983,6 +2990,8 @@ msgid ""
 "At the beginning of your upkeep, flip a coin. If you lose the flip, return "
 "Scoria Wurm to its owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, rzuć monetą. Jeśli przegrasz rzut, "
+"przywróć tego stwora do ręki właściciela."
 
 #: ../../10E.rst:1044
 msgid ""
@@ -3004,7 +3013,7 @@ msgstr ""
 
 #: ../../10E.rst:1047
 msgid "Destroy all artifacts. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty. Nie mogą regenerować."
 
 #: ../../10E.rst:1054
 msgid ""
@@ -3026,7 +3035,7 @@ msgstr ""
 
 #: ../../10E.rst:1059
 msgid "|mana_1|\\ |mana_r|: Shivan Hellkite deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../10E.rst:1064
 msgid ""
@@ -3096,12 +3105,16 @@ msgid ""
 "As an additional cost to cast this spell, sacrifice all creatures you "
 "control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć wszystkie stwory pod "
+"twoim władaniem."
 
 #: ../../10E.rst:1085
 msgid ""
 "Soulblast deals damage to any target equal to the total power of the "
 "sacrificed creatures."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe sumie sił poświęconych "
+"stworów."
 
 #: ../../10E.rst:1092
 msgid ""

@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 13:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-13 12:34+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khc/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../KHC.rst:5
 msgid ":mtgexp:`KHC` Kaldheim Commander"
@@ -26,7 +28,7 @@ msgstr ""
 
 #: ../../KHC.rst:9
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../KHC.rst:11
 msgid "Whenever Lathril, Blade of the Elves deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens."
@@ -42,7 +44,7 @@ msgstr ""
 
 #: ../../KHC.rst:17
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../KHC.rst:19
 msgid "The first card you foretell each turn costs |mana_0| to foretell."
@@ -107,7 +109,7 @@ msgstr ""
 #: ../../KHC.rst:471
 #: ../../KHC.rst:519
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../KHC.rst:47
 msgid "Spells you cast from anywhere other than your hand cost |mana_2| less to cast."
@@ -140,6 +142,9 @@ msgstr ""
 #: ../../KHC.rst:61
 msgid "Foretell |mana_1|\\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_1|\\ |mana_u| (W twojej turze możesz zapłacić |mana_2| i "
+"wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../KHC.rst:66
 msgid ":mtgtip:`Pact of the Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5b3d118-ba4b-4a93-92a2-cd763de49d29.jpg?1616399702|https://scryfall.com/card/khc/9/pact-of-the-serpent?utm_source=api>`"
@@ -183,7 +188,7 @@ msgstr ""
 
 #: ../../KHC.rst:83
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../KHC.rst:85
 msgid "Enchanted creature gets +1/+1 for each Elf you control and has reach."
@@ -232,6 +237,8 @@ msgstr ""
 #: ../../KHC.rst:111
 msgid "When Angel of Finality enters the battlefield, exile all cards from target player's graveyard."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie karty z cmentarza "
+"wskazanego gracza."
 
 #: ../../KHC.rst:120
 msgid ":mtgtip:`Angel of Serenity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c175b50d-81cc-45dd-854f-7f8ca31cffa4.jpg?1611964505|https://scryfall.com/card/khc/18/angel-of-serenity?utm_source=api>`"
@@ -240,10 +247,14 @@ msgstr ""
 #: ../../KHC.rst:117
 msgid "When Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać co najwyżej trzy inne "
+"wskazane stwory z pola bitwy lub karty stworów z cmentarzy."
 
 #: ../../KHC.rst:119
 msgid "When Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, przywróć wygnane karty do rąk ich "
+"właścicieli."
 
 #: ../../KHC.rst:124
 msgid ":mtgtip:`Banishing Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0858ab5a-930c-44f0-9621-4dd634cf39c6.jpg?1611964524|https://scryfall.com/card/khc/19/banishing-light?utm_source=api>`"
@@ -252,6 +263,8 @@ msgstr ""
 #: ../../KHC.rst:123
 msgid "When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../KHC.rst:132
 msgid ":mtgtip:`Cleansing Nova<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/990a7ec3-0ace-4245-a374-690d11a827ae.jpg?1611964621|https://scryfall.com/card/khc/20/cleansing-nova?utm_source=api>`"
@@ -259,15 +272,15 @@ msgstr ""
 
 #: ../../KHC.rst:127
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../KHC.rst:129
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../KHC.rst:131
 msgid "Destroy all artifacts and enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty i uroki."
 
 #: ../../KHC.rst:138
 msgid ":mtgtip:`Cloudgoat Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dfaa74a-0ef0-44bb-b8b5-6d121278b5a2.jpg?1611964638|https://scryfall.com/card/khc/21/cloudgoat-ranger?utm_source=api>`"
@@ -276,10 +289,14 @@ msgstr ""
 #: ../../KHC.rst:135
 msgid "When Cloudgoat Ranger enters the battlefield, create three 1/1 white Kithkin Soldier creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony białego stwora "
+"Krewniołek Piechur 1/1."
 
 #: ../../KHC.rst:137
 msgid "Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn."
 msgstr ""
+"Przekręć trzech odkręconych Krewniołków pod twoim władaniem: Ten stwór "
+"dostaje do końca tury +2/+0 i latanie."
 
 #: ../../KHC.rst:142
 msgid ":mtgtip:`Eerie Interlude<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4ba9f15f-00d2-4797-9228-91b320e85705.jpg?1611964657|https://scryfall.com/card/khc/22/eerie-interlude?utm_source=api>`"
@@ -288,6 +305,9 @@ msgstr ""
 #: ../../KHC.rst:141
 msgid "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step."
 msgstr ""
+"Wygnaj dowolną liczbę wskazanych stworów pod twoim władaniem. Przywróć owe "
+"karty na pole bitwy pod władaniem właścicieli na początku najbliższego kroku "
+"końcowego."
 
 #: ../../KHC.rst:146
 msgid ":mtgtip:`Evangel of Heliod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccc00c82-7c2a-4699-8058-e57f690ece96.jpg?1611964673|https://scryfall.com/card/khc/23/evangel-of-heliod?utm_source=api>`"
@@ -296,6 +316,9 @@ msgstr ""
 #: ../../KHC.rst:145
 msgid "When Evangel of Heliod enters the battlefield, create a number of 1/1 white Soldier creature tokens equal to your devotion to white. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów białego stwora "
+"Piechur 1/1, ile wynosi twój kult białego. (Każda |mana_w| w kosztach many "
+"permanentów pod twoim władaniem wlicza się do twojego kultu białego.)"
 
 #: ../../KHC.rst:152
 msgid ":mtgtip:`Flickerwisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edacc6f3-e105-4648-8dcc-a5c54c7ad043.jpg?1611964689|https://scryfall.com/card/khc/24/flickerwisp?utm_source=api>`"
@@ -304,6 +327,9 @@ msgstr ""
 #: ../../KHC.rst:151
 msgid "When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
+"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../KHC.rst:160
 msgid ":mtgtip:`Geist-Honored Monk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d09ef1d-3552-43a3-91c7-0d14c0f06780.jpg?1611964712|https://scryfall.com/card/khc/25/geist-honored-monk?utm_source=api>`"
@@ -312,15 +338,19 @@ msgstr ""
 #: ../../KHC.rst:155
 #: ../../KHC.rst:205
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../KHC.rst:157
 msgid "Geist-Honored Monk's power and toughness are each equal to the number of creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../KHC.rst:159
 msgid "When Geist-Honored Monk enters the battlefield, create two 1/1 white Spirit creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora Duch "
+"1/1 z lataniem."
 
 #: ../../KHC.rst:164
 msgid ":mtgtip:`Ghostly Prison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1132a103-3dd7-4a17-afdc-27200b8cfbfc.jpg?1612152639|https://scryfall.com/card/khc/26/ghostly-prison?utm_source=api>`"
@@ -329,6 +359,8 @@ msgstr ""
 #: ../../KHC.rst:163
 msgid "Creatures can't attack you unless their controller pays |mana_2| for each creature they control that's attacking you."
 msgstr ""
+"Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
+"każdego stwora pod swoim władaniem atakującego ciebie."
 
 #: ../../KHC.rst:168
 msgid ":mtgtip:`Goldnight Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80be2fea-3fe6-477e-bcb8-63f441d6cfc1.jpg?1611964849|https://scryfall.com/card/khc/27/goldnight-commander?utm_source=api>`"
@@ -337,6 +369,8 @@ msgstr ""
 #: ../../KHC.rst:167
 msgid "Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, stwory pod "
+"twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../KHC.rst:172
 msgid ":mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6226b346-ca4c-45ea-871c-1a8fb7f9be0d.jpg?1611964885|https://scryfall.com/card/khc/28/kor-cartographer?utm_source=api>`"
@@ -353,10 +387,12 @@ msgstr ""
 #: ../../KHC.rst:175
 msgid "Multikicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_w|.)"
 
 #: ../../KHC.rst:177
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../KHC.rst:179
 msgid "When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked."
@@ -369,10 +405,14 @@ msgstr ""
 #: ../../KHC.rst:183
 msgid "Exile target creature you control, then return it to the battlefield under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć go na pole "
+"bitwy pod władaniem jego właściciela."
 
 #: ../../KHC.rst:185
 msgid "Flashback |mana_3|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../KHC.rst:194
 msgid ":mtgtip:`Restoration Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dbdd0bc-92d7-49ae-b7fc-b2d1f0670bd8.jpg?1612186328|https://scryfall.com/card/khc/31/restoration-angel?utm_source=api>`"
@@ -380,11 +420,14 @@ msgstr ""
 
 #: ../../KHC.rst:189
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../KHC.rst:193
 msgid "When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego nie będącego "
+"Aniołem stwora pod twoim władaniem, po czym przywróć ową kartę na pole bitwy "
+"pod twoim władaniem."
 
 #: ../../KHC.rst:198
 msgid ":mtgtip:`Return to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.jpg?1611965042|https://scryfall.com/card/khc/32/return-to-dust?utm_source=api>`"
@@ -393,6 +436,8 @@ msgstr ""
 #: ../../KHC.rst:197
 msgid "Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment."
 msgstr ""
+"Wygnaj wskazany artefakt lub urok. Jeśli rzucasz ten czar w twojej fazie "
+"głównej, możesz wygnać co najwyżej jeden inny wskazany artefakt lub urok."
 
 #: ../../KHC.rst:202
 msgid ":mtgtip:`Storm Herd<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2345331c-a14f-4b4b-a9a4-88c5beb48242.jpg?1611965073|https://scryfall.com/card/khc/33/storm-herd?utm_source=api>`"
@@ -409,6 +454,9 @@ msgstr ""
 #: ../../KHC.rst:207
 msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz przywrócić "
+"wskazaną kartę permanentu o skrócie many 3 lub mniejszy z twojego cmentarza "
+"na pole bitwy."
 
 #: ../../KHC.rst:214
 msgid ":mtgtip:`Wall of Omens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2561dc8e-1ea6-43f3-8cf1-afd7ec9a2191.jpg?1611965125|https://scryfall.com/card/khc/35/wall-of-omens?utm_source=api>`"
@@ -416,11 +464,11 @@ msgstr ""
 
 #: ../../KHC.rst:211
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../KHC.rst:213
 msgid "When Wall of Omens enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KHC.rst:220
 msgid ":mtgtip:`Arcane Artisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba946cfb-a729-406b-be35-0defaf95283e.jpg?1611965147|https://scryfall.com/card/khc/36/arcane-artisan?utm_source=api>`"
@@ -441,6 +489,8 @@ msgstr ""
 #: ../../KHC.rst:223
 msgid "Exile X target creatures. For each creature exiled this way, its controller creates a 2/2 green Boar creature token."
 msgstr ""
+"Wygnaj X wskazanych stworów. Za każdego stwora wygnanego w ten sposób jego "
+"władca tworzy żeton zielonego stwora Knur 2/2."
 
 #: ../../KHC.rst:230
 msgid ":mtgtip:`Day of the Dragons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76e4dd1d-b0bd-4fcf-b5c5-fe203af2fe8e.jpg?1611965208|https://scryfall.com/card/khc/38/day-of-the-dragons?utm_source=api>`"
@@ -449,10 +499,16 @@ msgstr ""
 #: ../../KHC.rst:227
 msgid "When Day of the Dragons enters the battlefield, exile all creatures you control. Then create that many 5/5 red Dragon creature tokens with flying."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wszystkie stwory pod twoim "
+"władaniem. Następnie stwórz tyle samo żetonów czerwonego stwora Smok 5/5 z "
+"lataniem."
 
 #: ../../KHC.rst:229
 msgid "When Day of the Dragons leaves the battlefield, sacrifice all Dragons you control. Then return the exiled cards to the battlefield under your control."
 msgstr ""
+"Kiedy ten urok opuści pole bitwy, poświęć wszystkie Smoki pod twoim "
+"władaniem. Następnie przywróć wygnane nim karty na pole bitwy pod twoim "
+"władaniem."
 
 #: ../../KHC.rst:234
 msgid ":mtgtip:`Ghostly Flicker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/485ab561-9c2a-4f99-9317-8726bcdae364.jpg?1611965230|https://scryfall.com/card/khc/39/ghostly-flicker?utm_source=api>`"
@@ -461,6 +517,8 @@ msgstr ""
 #: ../../KHC.rst:233
 msgid "Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control."
 msgstr ""
+"Wygnaj dwa wskazane artefakty, stwory i/lub lądy pod twoim władaniem, po "
+"czym przywróć owe karty na pole bitwy pod twoim władaniem."
 
 #: ../../KHC.rst:242
 msgid ":mtgtip:`Inspired Sphinx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f58d798-9b99-45a9-9015-f689145018a8.jpg?1611052909|https://scryfall.com/card/khc/40/inspired-sphinx?utm_source=api>`"
@@ -469,10 +527,14 @@ msgstr ""
 #: ../../KHC.rst:239
 msgid "When Inspired Sphinx enters the battlefield, draw cards equal to the number of opponents you have."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz tyle kart, ilu masz "
+"przeciwników."
 
 #: ../../KHC.rst:241
 msgid "|mana_3|\\ |mana_u|: Create a 1/1 colorless Thopter artifact creature token with flying."
 msgstr ""
+"|mana_3|\\ |mana_u|: Stwórz żeton bezkolorowego artefaktowego stwora Topter "
+"1/1 z lataniem."
 
 #: ../../KHC.rst:248
 msgid ":mtgtip:`Mist Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f868751-dd1a-4beb-b3cc-c4a88980299b.jpg?1611965264|https://scryfall.com/card/khc/41/mist-raven?utm_source=api>`"
@@ -481,6 +543,8 @@ msgstr ""
 #: ../../KHC.rst:247
 msgid "When Mist Raven enters the battlefield, return target creature to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../KHC.rst:256
 msgid ":mtgtip:`Mulldrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/345fd005-5052-4500-a260-3649500e21f4.jpg?1611965281|https://scryfall.com/card/khc/42/mulldrifter?utm_source=api>`"
@@ -488,11 +552,13 @@ msgstr ""
 
 #: ../../KHC.rst:253
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../KHC.rst:255
 msgid "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_2|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../KHC.rst:260
 msgid ":mtgtip:`Sea Gate Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/498743ce-0ca5-488a-ae5e-d348b274bf3b.jpg?1611965380|https://scryfall.com/card/khc/43/sea-gate-oracle?utm_source=api>`"
@@ -501,6 +567,9 @@ msgstr ""
 #: ../../KHC.rst:259
 msgid "When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na dwie wierzchnie karty "
+"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie "
+"twojej biblioteki."
 
 #: ../../KHC.rst:264
 msgid ":mtgtip:`Synthetic Destiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc19002c-e87d-45a1-84f2-f953587ddfd1.jpg?1611965402|https://scryfall.com/card/khc/44/synthetic-destiny?utm_source=api>`"
@@ -517,10 +586,14 @@ msgstr ""
 #: ../../KHC.rst:267
 msgid "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../KHC.rst:269
 msgid "Tap two untapped artifacts you control: Target creature can't be blocked this turn."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Wskazany stwór nie "
+"może być blokowany w tej turze."
 
 #: ../../KHC.rst:274
 msgid ":mtgtip:`Windfall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0846f753-0d53-4bdd-be0e-19d989db5d5f.jpg?1611965444|https://scryfall.com/card/khc/46/windfall?utm_source=api>`"
@@ -529,6 +602,8 @@ msgstr ""
 #: ../../KHC.rst:273
 msgid "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way."
 msgstr ""
+"Każdy gracz odrzuca swoją rękę, po czym dobiera tyle kart, ile najwięcej "
+"zostało odrzuconych w ten sposób."
 
 #: ../../KHC.rst:278
 msgid ":mtgtip:`Ambition's Cost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4a15c15-27c2-4ede-9ecd-a28ec7cbd3fb.jpg?1611965466|https://scryfall.com/card/khc/47/ambitions-cost?utm_source=api>`"
@@ -536,7 +611,7 @@ msgstr ""
 
 #: ../../KHC.rst:277
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../KHC.rst:282
 msgid ":mtgtip:`Eyeblight Cullers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89b47813-9b6c-4e8f-9212-fe37fb50e405.jpg?1611965494|https://scryfall.com/card/khc/48/eyeblight-cullers?utm_source=api>`"
@@ -552,7 +627,7 @@ msgstr ""
 
 #: ../../KHC.rst:285
 msgid "Non-Elf creatures get -2/-2 until end of turn."
-msgstr ""
+msgstr "Stwory bez typu Elf dostają do końca tury -2/-2."
 
 #: ../../KHC.rst:290
 msgid ":mtgtip:`Lys Alana Scarblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58b3b63d-fabb-46ad-aabe-1e9fb34b4f8c.jpg?1611965586|https://scryfall.com/card/khc/50/lys-alana-scarblade?utm_source=api>`"
@@ -561,6 +636,8 @@ msgstr ""
 #: ../../KHC.rst:289
 msgid "|tap|, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control."
 msgstr ""
+"|tap|, odrzuć kartę Elfa: Wskazany stwór dostaje do końca tury -X/-X, gdzie "
+"X jest liczbą Elfów pod twoim władaniem."
 
 #: ../../KHC.rst:296
 msgid ":mtgtip:`Miara, Thorn of the Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bdb9bfe-5e56-429d-af23-7548532e2406.jpg?1611965614|https://scryfall.com/card/khc/51/miara-thorn-of-the-glade?utm_source=api>`"
@@ -597,7 +674,7 @@ msgstr ""
 
 #: ../../KHC.rst:307
 msgid "Whenever you cast a creature spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar stwora, dobierz kartę."
 
 #: ../../KHC.rst:314
 msgid ":mtgtip:`Cultivator of Blades<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2e6e8a1-2e69-43de-964d-72f722439d4a.jpg?1611965756|https://scryfall.com/card/khc/55/cultivator-of-blades?utm_source=api>`"
@@ -606,10 +683,15 @@ msgstr ""
 #: ../../KHC.rst:311
 msgid "Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
+"Produkcja 2 (Kiedy ten stwór wejdzie na pole bitwy, umieść na nim dwa "
+"znaczniki +1/+1 albo stwórz dwa żetony bezkolorowego artefaktowego stwora "
+"Serwo 1/1.)"
 
 #: ../../KHC.rst:313
 msgid "Whenever Cultivator of Blades attacks, you may have other attacking creatures get +X/+X until end of turn, where X is Cultivator of Blades's power."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz sprawić, że inne atakujące stwory dostaną "
+"do końca tury +X/+X, gdzie X jest siłą niniejszego stwora."
 
 #: ../../KHC.rst:322
 msgid ":mtgtip:`Dwynen, Gilt-Leaf Daen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2eb0f12b-9199-440d-9b85-831a5aec5dae.jpg?1611965783|https://scryfall.com/card/khc/56/dwynen-gilt-leaf-daen?utm_source=api>`"
@@ -617,16 +699,18 @@ msgstr ""
 
 #: ../../KHC.rst:317
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../KHC.rst:319
 #: ../../KHC.rst:325
 msgid "Other Elf creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../KHC.rst:321
 msgid "Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zyskaj 1 życie za każdego atakującego Elfa pod "
+"twoim władaniem."
 
 #: ../../KHC.rst:328
 msgid ":mtgtip:`Elvish Archdruid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d3fffa5-50ec-4502-9f03-bd9618f1771e.jpg?1611965804|https://scryfall.com/card/khc/57/elvish-archdruid?utm_source=api>`"
@@ -634,7 +718,7 @@ msgstr ""
 
 #: ../../KHC.rst:327
 msgid "|tap|: Add |mana_g| for each Elf you control."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| za każdego Elfa pod twoim władaniem."
 
 #: ../../KHC.rst:332
 msgid ":mtgtip:`Elvish Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed7a0227-ac70-40fb-8198-a55eacf913fa.jpg?1611965821|https://scryfall.com/card/khc/58/elvish-mystic?utm_source=api>`"
@@ -642,7 +726,7 @@ msgstr ""
 
 #: ../../KHC.rst:331
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../KHC.rst:336
 msgid ":mtgtip:`Elvish Promenade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20602cb8-f925-4de0-ad4b-86d0f5514384.jpg?1611965842|https://scryfall.com/card/khc/59/elvish-promenade?utm_source=api>`"
@@ -651,6 +735,8 @@ msgstr ""
 #: ../../KHC.rst:335
 msgid "Create a 1/1 green Elf Warrior creature token for each Elf you control."
 msgstr ""
+"Stwórz żeton zielonego stwora Elf Wojownik 1/1 za każdego Elfa pod twoim "
+"władaniem."
 
 #: ../../KHC.rst:340
 msgid ":mtgtip:`Elvish Rejuvenator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e4723bc-20ce-4f43-9dcf-db44d4d1b224.jpg?1611965919|https://scryfall.com/card/khc/60/elvish-rejuvenator?utm_source=api>`"
@@ -659,6 +745,9 @@ msgstr ""
 #: ../../KHC.rst:339
 msgid "When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
+"twojej biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
+"przekręconą. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../KHC.rst:346
 msgid ":mtgtip:`End-Raze Forerunners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d113fa6-59b1-4f12-b81b-4b32affb9452.jpg?1611965939|https://scryfall.com/card/khc/61/end-raze-forerunners?utm_source=api>`"
@@ -666,11 +755,13 @@ msgstr ""
 
 #: ../../KHC.rst:343
 msgid "Vigilance, trample, haste"
-msgstr ""
+msgstr "Czujność, tratowanie, pośpiech"
 
 #: ../../KHC.rst:345
 msgid "When End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
+"dostają do końca tury +2/+2 oraz czujność i tratowanie."
 
 #: ../../KHC.rst:350
 msgid ":mtgtip:`Farhaven Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/320d0a4c-c556-4468-b934-bfdf17961a53.jpg?1611965956|https://scryfall.com/card/khc/62/farhaven-elf?utm_source=api>`"
@@ -679,6 +770,9 @@ msgstr ""
 #: ../../KHC.rst:349
 msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
+"przetasuj twoją bibliotekę."
 
 #: ../../KHC.rst:354
 msgid ":mtgtip:`Harvest Season<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/326b5fad-bb8d-4019-84a8-1a319a14962e.jpg?1611965974|https://scryfall.com/card/khc/63/harvest-season?utm_source=api>`"
@@ -687,6 +781,9 @@ msgstr ""
 #: ../../KHC.rst:353
 msgid "Search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"liczbą przekręconych stworów pod twoim władaniem, i umieść owe karty "
+"przekręcone na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../KHC.rst:360
 msgid ":mtgtip:`Imperious Perfect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a93e9d33-0c5d-4890-a1aa-84f59af9d4fb.jpg?1611966082|https://scryfall.com/card/khc/64/imperious-perfect?utm_source=api>`"
@@ -694,11 +791,11 @@ msgstr ""
 
 #: ../../KHC.rst:357
 msgid "Other Elves you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../KHC.rst:359
 msgid "|mana_g|, |tap|: Create a 1/1 green Elf Warrior creature token."
-msgstr ""
+msgstr "|mana_g|, |tap|: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 #: ../../KHC.rst:366
 msgid ":mtgtip:`Jagged-Scar Archers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71c4346a-a330-49ca-909e-08fd8aec7b3f.jpg?1611977247|https://scryfall.com/card/khc/65/jagged-scar-archers?utm_source=api>`"
@@ -718,7 +815,7 @@ msgstr ""
 
 #: ../../KHC.rst:369
 msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../KHC.rst:374
 msgid ":mtgtip:`Lys Alana Huntmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0849f67b-da5d-49f7-840f-f87f48518156.jpg?1611966140|https://scryfall.com/card/khc/67/lys-alana-huntmaster?utm_source=api>`"
@@ -727,6 +824,8 @@ msgstr ""
 #: ../../KHC.rst:373
 msgid "Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
 msgstr ""
+"Ilekroć rzucisz czar Elfa, możesz stworzyć żeton zielonego stwora Elf "
+"Wojownik 1/1."
 
 #: ../../KHC.rst:380
 msgid ":mtgtip:`Marwyn, the Nurturer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aad61d99-5c8e-47b7-ab1a-e70905f59205.jpg?1611966171|https://scryfall.com/card/khc/68/marwyn-the-nurturer?utm_source=api>`"
@@ -735,10 +834,12 @@ msgstr ""
 #: ../../KHC.rst:377
 msgid "Whenever another Elf enters the battlefield under your control, put a +1/+1 counter on Marwyn, the Nurturer."
 msgstr ""
+"Ilekroć inny Elf wejdzie na pole bitwy pod twoim władaniem, umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../KHC.rst:379
 msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
-msgstr ""
+msgstr "|tap|: Weź tyle |mana_g|, ile wynosi siła tego stwora."
 
 #: ../../KHC.rst:386
 msgid ":mtgtip:`Masked Admirers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8cc3361-046c-4908-8b8d-a0502bfc173a.jpg?1611966190|https://scryfall.com/card/khc/69/masked-admirers?utm_source=api>`"
@@ -751,6 +852,8 @@ msgstr ""
 #: ../../KHC.rst:385
 msgid "Whenever you cast a creature spell, you may pay |mana_g|\\ |mana_g|. If you do, return Masked Admirers from your graveyard to your hand."
 msgstr ""
+"Ilekroć rzucisz czar stwora, możesz zapłacić |mana_g|\\ |mana_g|. Jeśli tak "
+"zrobisz, przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../KHC.rst:390
 msgid ":mtgtip:`Nullmage Shepherd<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4a15a09-cf68-411a-a18d-aaad00d308c9.jpg?1611977071|https://scryfall.com/card/khc/70/nullmage-shepherd?utm_source=api>`"
@@ -775,6 +878,8 @@ msgstr ""
 #: ../../KHC.rst:399
 msgid "When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment."
 msgstr ""
+"Kiedy ta karta wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt lub "
+"urok."
 
 #: ../../KHC.rst:406
 msgid ":mtgtip:`Rhys the Exiled<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85004079-f9fa-4a05-904d-a77782c4165c.jpg?1611966411|https://scryfall.com/card/khc/73/rhys-the-exiled?utm_source=api>`"
@@ -795,6 +900,9 @@ msgstr ""
 #: ../../KHC.rst:409
 msgid "When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
+"zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
+"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../KHC.rst:416
 msgid ":mtgtip:`Sylvan Messenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/085f1b89-857b-4e2b-b796-0b95e53322bd.jpg?1611966450|https://scryfall.com/card/khc/75/sylvan-messenger?utm_source=api>`"
@@ -803,10 +911,15 @@ msgstr ""
 #: ../../KHC.rst:413
 msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../KHC.rst:415
 msgid "When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Umieść wszystkie karty typu Elf ujawnione w ten sposób w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../KHC.rst:420
 msgid ":mtgtip:`Timberwatch Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38807f17-1cf2-4736-ad10-df6c8b1a9f55.jpg?1611966476|https://scryfall.com/card/khc/76/timberwatch-elf?utm_source=api>`"
@@ -815,6 +928,8 @@ msgstr ""
 #: ../../KHC.rst:419
 msgid "|tap|: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
 msgstr ""
+"|tap|: Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest liczbą Elfów "
+"na polu bitwy."
 
 #: ../../KHC.rst:424
 msgid ":mtgtip:`Voice of Many<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fccfa714-7fa0-4846-88c9-570f13683aa4.jpg?1611966499|https://scryfall.com/card/khc/77/voice-of-many?utm_source=api>`"
@@ -859,6 +974,8 @@ msgstr ""
 #: ../../KHC.rst:441
 msgid "Abomination of Llanowar's power and toughness are each equal to the number of Elves you control plus the number of Elf cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równe sumie liczb Elfów pod twoim "
+"władaniem i kart Elfów w twoim cmentarzu."
 
 #: ../../KHC.rst:448
 msgid ":mtgtip:`Brago, King Eternal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ac3fb08-741a-49e5-9fae-b26819677d24.jpg?1611966620|https://scryfall.com/card/khc/82/brago-king-eternal?utm_source=api>`"
@@ -867,6 +984,9 @@ msgstr ""
 #: ../../KHC.rst:447
 msgid "Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
+"wskazanych nielądowych permanentów pod twoim władaniem, po czym przywróć owe "
+"karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../KHC.rst:462
 msgid ":mtgtip:`Casualties of War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5a2a709-0273-48a3-874b-13aff4872b0a.jpg?1611966653|https://scryfall.com/card/khc/83/casualties-of-war?utm_source=api>`"
@@ -874,27 +994,27 @@ msgstr ""
 
 #: ../../KHC.rst:451
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedno lub więcej —"
 
 #: ../../KHC.rst:453
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../KHC.rst:455
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../KHC.rst:457
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../KHC.rst:459
 msgid "Destroy target land."
-msgstr ""
+msgstr "Zniszcz wskazany ląd."
 
 #: ../../KHC.rst:461
 msgid "Destroy target planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego wędrowca."
 
 #: ../../KHC.rst:468
 msgid ":mtgtip:`Cloudblazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edab81f0-dd20-45bd-946d-75b682e1d3d0.jpg?1611966677|https://scryfall.com/card/khc/84/cloudblazer?utm_source=api>`"
@@ -903,6 +1023,7 @@ msgstr ""
 #: ../../KHC.rst:467
 msgid "When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia i dobierz dwie karty."
 
 #: ../../KHC.rst:474
 msgid ":mtgtip:`Empyrean Eagle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2a0f40e-12de-4ee8-8b1e-6989dbfa9a4d.jpg?1611976967|https://scryfall.com/card/khc/85/empyrean-eagle?utm_source=api>`"
@@ -911,7 +1032,7 @@ msgstr ""
 #: ../../KHC.rst:473
 #: ../../KHC.rst:521
 msgid "Other creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mające latanie dostają +1/+1."
 
 #: ../../KHC.rst:478
 msgid ":mtgtip:`Golgari Findbroker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26413356-327c-494b-a895-0a0ddd466242.jpg?1611966937|https://scryfall.com/card/khc/86/golgari-findbroker?utm_source=api>`"
@@ -920,6 +1041,8 @@ msgstr ""
 #: ../../KHC.rst:477
 msgid "When Golgari Findbroker enters the battlefield, return target permanent card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę permanentu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../KHC.rst:484
 msgid ":mtgtip:`Migratory Route<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae79df80-b1f0-4035-807d-0364208dbd75.jpg?1611966954|https://scryfall.com/card/khc/87/migratory-route?utm_source=api>`"
@@ -927,7 +1050,7 @@ msgstr ""
 
 #: ../../KHC.rst:481
 msgid "Create four 1/1 white Bird creature tokens with flying."
-msgstr ""
+msgstr "Stwórz cztery żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../KHC.rst:483
 msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
@@ -940,6 +1063,9 @@ msgstr ""
 #: ../../KHC.rst:487
 msgid "|mana_2|\\ |mana_w|\\ |mana_u|: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|: Wygnaj wskazanego stwora. Przywróć ową kartę "
+"na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../KHC.rst:492
 msgid ":mtgtip:`Moldervine Reclamation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2e8a239-6d12-49e4-900a-968e0d53d83a.jpg?1611966993|https://scryfall.com/card/khc/89/moldervine-reclamation?utm_source=api>`"
@@ -948,6 +1074,7 @@ msgstr ""
 #: ../../KHC.rst:491
 msgid "Whenever a creature you control dies, you gain 1 life and draw a card."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, zyskaj 1 życie i dobierz kartę."
 
 #: ../../KHC.rst:500
 msgid ":mtgtip:`Poison-Tip Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1677d49e-3d63-45bd-9849-01b1bdd95ad8.jpg?1611967012|https://scryfall.com/card/khc/90/poison-tip-archer?utm_source=api>`"
@@ -955,15 +1082,17 @@ msgstr ""
 
 #: ../../KHC.rst:495
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../KHC.rst:497
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../KHC.rst:499
 msgid "Whenever another creature dies, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć inny stwór umrze, każdy przeciwnik traci po 1 życiu."
 
 #: ../../KHC.rst:504
 msgid ":mtgtip:`Putrefy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36e2a569-ed40-48f5-b39c-749b491bc207.jpg?1611967037|https://scryfall.com/card/khc/91/putrefy?utm_source=api>`"
@@ -971,7 +1100,7 @@ msgstr ""
 
 #: ../../KHC.rst:503
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../KHC.rst:508
 msgid ":mtgtip:`Shaman of the Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da9705e2-40e5-4ec9-8aef-2eab28d5a66f.jpg?1611967055|https://scryfall.com/card/khc/92/shaman-of-the-pack?utm_source=api>`"
@@ -980,6 +1109,8 @@ msgstr ""
 #: ../../KHC.rst:507
 msgid "When Shaman of the Pack enters the battlefield, target opponent loses life equal to the number of Elves you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci tyle żyć, "
+"iloma Elfami władasz."
 
 #: ../../KHC.rst:514
 msgid ":mtgtip:`Soulherder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50bc0f5b-7421-45b9-af85-86dd9821b7d8.jpg?1611967073|https://scryfall.com/card/khc/93/soulherder?utm_source=api>`"
@@ -988,10 +1119,15 @@ msgstr ""
 #: ../../KHC.rst:511
 msgid "Whenever a creature is exiled from the battlefield, put a +1/+1 counter on Soulherder."
 msgstr ""
+"Ilekroć stwór zostaje wygnany z pola bitwy, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../KHC.rst:513
 msgid "At the beginning of your end step, you may exile another target creature you control, then return that card to the battlefield under its owner's control."
 msgstr ""
+"Na początku twojego kroku końcowego możesz wygnać innego wskazanego stwora "
+"pod twoim władaniem, po czym przywróć ową kartę na pole bitwy pod władaniem "
+"jej właściciela."
 
 #: ../../KHC.rst:522
 msgid ":mtgtip:`Thunderclap Wyvern<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fc3c21f-99d5-48dc-b36e-8db597da44bf.jpg?1611967091|https://scryfall.com/card/khc/94/thunderclap-wyvern?utm_source=api>`"
@@ -999,7 +1135,7 @@ msgstr ""
 
 #: ../../KHC.rst:517
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../KHC.rst:526
 msgid ":mtgtip:`Twinblade Assassins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f353281a-0e56-448f-b41a-beb3949c5f11.jpg?1616399682|https://scryfall.com/card/khc/95/twinblade-assassins?utm_source=api>`"
@@ -1008,6 +1144,8 @@ msgstr ""
 #: ../../KHC.rst:525
 msgid "At the beginning of your end step, if a creature died this turn, draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, dobierz "
+"kartę."
 
 #: ../../KHC.rst:530
 msgid ":mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0b666de-5a89-417d-a946-00aafd1f1979.jpg?1611967127|https://scryfall.com/card/khc/96/arcane-signet?utm_source=api>`"
@@ -1017,7 +1155,7 @@ msgstr ""
 #: ../../KHC.rst:541
 #: ../../KHC.rst:593
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../KHC.rst:534
 msgid ":mtgtip:`Azorius Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b6ed82a-42a9-4024-bcad-7c2899882767.jpg?1611967143|https://scryfall.com/card/khc/97/azorius-signet?utm_source=api>`"
@@ -1025,7 +1163,7 @@ msgstr ""
 
 #: ../../KHC.rst:533
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../KHC.rst:538
 msgid ":mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/552e8660-4f52-4ce6-aeee-306676746695.jpg?1611967161|https://scryfall.com/card/khc/98/burnished-hart?utm_source=api>`"
@@ -1034,6 +1172,9 @@ msgstr ""
 #: ../../KHC.rst:537
 msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../KHC.rst:544
 msgid ":mtgtip:`Commander's Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/443c9ff1-8b30-4c19-9011-17de40659442.jpg?1611967178|https://scryfall.com/card/khc/99/commanders-sphere?utm_source=api>`"
@@ -1053,7 +1194,7 @@ msgstr ""
 
 #: ../../KHC.rst:549
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../KHC.rst:554
 msgid ":mtgtip:`Meteor Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0abc2aa2-b505-4e6b-8a37-4e818a8561bc.jpg?1611967216|https://scryfall.com/card/khc/101/meteor-golem?utm_source=api>`"
@@ -1062,6 +1203,8 @@ msgstr ""
 #: ../../KHC.rst:553
 msgid "When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika."
 
 #: ../../KHC.rst:560
 msgid ":mtgtip:`Mind Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecbe852d-4538-41dd-bfce-a134a7bc3022.jpg?1611967252|https://scryfall.com/card/khc/102/mind-stone?utm_source=api>`"
@@ -1072,11 +1215,11 @@ msgstr ""
 #: ../../KHC.rst:639
 #: ../../KHC.rst:645
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../KHC.rst:559
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../KHC.rst:566
 msgid ":mtgtip:`Sky Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a5a5a85-b03d-4ab9-9d31-9c85a5e4c1f0.jpg?1611967275|https://scryfall.com/card/khc/103/sky-diamond?utm_source=api>`"
@@ -1088,7 +1231,7 @@ msgstr ""
 
 #: ../../KHC.rst:565
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../KHC.rst:570
 msgid ":mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0afa0e33-4804-4b00-b625-c2d6b61090fc.jpg?1611967317|https://scryfall.com/card/khc/104/sol-ring?utm_source=api>`"
@@ -1096,7 +1239,7 @@ msgstr ""
 
 #: ../../KHC.rst:569
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../KHC.rst:576
 msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf700ec0-1fd3-4971-ab03-51365dc8f4f4.jpg?1611967346|https://scryfall.com/card/khc/105/swiftfoot-boots?utm_source=api>`"
@@ -1104,11 +1247,11 @@ msgstr ""
 
 #: ../../KHC.rst:573
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../KHC.rst:575
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../KHC.rst:584
 msgid ":mtgtip:`Azorius Chancery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/caccc497-5312-4a28-8582-aa95bcbfb436.jpg?1611967367|https://scryfall.com/card/khc/106/azorius-chancery?utm_source=api>`"
@@ -1116,15 +1259,17 @@ msgstr ""
 
 #: ../../KHC.rst:579
 msgid "Azorius Chancery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:581
 msgid "When Azorius Chancery enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../KHC.rst:583
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../KHC.rst:590
 msgid ":mtgtip:`Azorius Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/569b53fb-8776-4301-9ed6-f7eabb08cebf.jpg?1611967390|https://scryfall.com/card/khc/107/azorius-guildgate?utm_source=api>`"
@@ -1132,14 +1277,14 @@ msgstr ""
 
 #: ../../KHC.rst:587
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:589
 #: ../../KHC.rst:633
 #: ../../KHC.rst:661
 #: ../../KHC.rst:669
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../KHC.rst:594
 msgid ":mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74c5bc49-318c-44fc-b276-f6d036fdf054.jpg?1611967411|https://scryfall.com/card/khc/108/command-tower?utm_source=api>`"
@@ -1152,6 +1297,8 @@ msgstr ""
 #: ../../KHC.rst:599
 msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę. Możesz aktywować tę "
+"zdolność tylko jeśli władasz co najmniej pięcioma lądami."
 
 #: ../../KHC.rst:606
 msgid ":mtgtip:`Foul Orchard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e1bad7b-e102-4dff-b79a-fd755c2b6d49.jpg?1611967457|https://scryfall.com/card/khc/110/foul-orchard?utm_source=api>`"
@@ -1159,13 +1306,13 @@ msgstr ""
 
 #: ../../KHC.rst:603
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:605
 #: ../../KHC.rst:611
 #: ../../KHC.rst:627
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../KHC.rst:612
 msgid ":mtgtip:`Golgari Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e6228ce-0d36-4c93-80e0-949ffb9fe15e.jpg?1611967502|https://scryfall.com/card/khc/111/golgari-guildgate?utm_source=api>`"
@@ -1173,7 +1320,7 @@ msgstr ""
 
 #: ../../KHC.rst:609
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:620
 msgid ":mtgtip:`Golgari Rot Farm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aee8e11f-6e73-4c8b-bd4e-3956ee18ac66.jpg?1611967527|https://scryfall.com/card/khc/112/golgari-rot-farm?utm_source=api>`"
@@ -1181,15 +1328,17 @@ msgstr ""
 
 #: ../../KHC.rst:615
 msgid "Golgari Rot Farm enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:617
 msgid "When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../KHC.rst:619
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../KHC.rst:628
 msgid ":mtgtip:`Jungle Hollow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae7d3dbc-a3b9-459f-9337-67f9d9b7b563.jpg?1611967555|https://scryfall.com/card/khc/113/jungle-hollow?utm_source=api>`"
@@ -1197,11 +1346,11 @@ msgstr ""
 
 #: ../../KHC.rst:623
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:625
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../KHC.rst:634
 msgid ":mtgtip:`Meandering River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e283db9e-6a51-4b28-9f6c-0c040a9d6d8c.jpg?1611967587|https://scryfall.com/card/khc/114/meandering-river?utm_source=api>`"
@@ -1209,7 +1358,7 @@ msgstr ""
 
 #: ../../KHC.rst:631
 msgid "Meandering River enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:642
 msgid ":mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4544593c-c155-436f-a74b-eea3e854ad1d.jpg?1611967604|https://scryfall.com/card/khc/115/myriad-landscape?utm_source=api>`"
@@ -1217,11 +1366,14 @@ msgstr ""
 
 #: ../../KHC.rst:637
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:641
 msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../KHC.rst:648
 msgid ":mtgtip:`Opal Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/677f7ab0-27eb-4dcd-a38d-2a880731eaa3.jpg?1611967623|https://scryfall.com/card/khc/116/opal-palace?utm_source=api>`"
@@ -1261,8 +1413,8 @@ msgstr ""
 
 #: ../../KHC.rst:665
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHC.rst:667
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."

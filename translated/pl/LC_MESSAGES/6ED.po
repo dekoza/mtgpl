@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 11:18+0000\n"
+"PO-Revision-Date: 2021-04-13 12:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/6ed/pl/>\n"
 "Language: pl\n"
@@ -2572,6 +2572,7 @@ msgstr ""
 msgid ""
 "|tap|: Orcish Artillery deals 2 damage to any target and 3 damage to you."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu celowi 2 obrażenia i 3 obrażenia tobie."
 
 #: ../../6ED.rst:904
 msgid ""
@@ -2650,6 +2651,8 @@ msgid ""
 "Untap all creatures that attacked this turn. After this main phase, there is "
 "an additional combat phase followed by an additional main phase."
 msgstr ""
+"Odkręć wszystkie stwory, które atakowały w tej turze. Po tej fazie głównej "
+"jest dodatkowa faza potyczki, po której następuje dodatkowa faza główna."
 
 #: ../../6ED.rst:928
 msgid ""
@@ -2682,7 +2685,7 @@ msgstr ""
 
 #: ../../6ED.rst:935
 msgid "Destroy all artifacts. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty. Nie mogą regenerować."
 
 #: ../../6ED.rst:940
 msgid ""
