@@ -24,7 +24,7 @@
 
 .. |CHK_percent| image:: images/pie30.png        
 
-.. |CMR_percent| image:: images/pie05.png        
+.. |CMR_percent| image:: images/pie55.png        
 
 .. |AKH_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
