@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:06+0000\n"
+"PO-Revision-Date: 2021-04-13 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -583,6 +583,8 @@ msgid ""
 "into your graveyard from the battlefield, return that card to the "
 "battlefield."
 msgstr ""
+"Ilekroć czar lub zdolność pod władaniem przeciwnika sprawia, że do twojego "
+"cmentarza trafia ląd z pola bitwy, przywróć ową kartę na pole bitwy."
 
 #: ../../9ED.rst:208
 msgid ""
@@ -621,6 +623,8 @@ msgid ""
 "Sacrifice Sanctum Guardian: The next time a source of your choice would deal "
 "damage to any target this turn, prevent that damage."
 msgstr ""
+"Poświęć tego stwora: Kiedy najbliższym razem w tej turze wybrane przez "
+"ciebie źródło miałoby zadać obrażenia wskazanemu celowi, zażegnaj je."
 
 #: ../../9ED.rst:218
 msgid ""
@@ -638,7 +642,7 @@ msgstr ""
 
 #: ../../9ED.rst:223
 msgid "Whenever Seasoned Marshal attacks, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, możesz przekręcić wskazanego stwora."
 
 #: ../../9ED.rst:228
 msgid ""
@@ -795,6 +799,9 @@ msgid ""
 "into your hand. Then shuffle your library. Activate this ability only if an "
 "opponent controls more lands than you."
 msgstr ""
+"|mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i "
+"umieść w twojej ręce, po czym przetasuj. Możesz aktywować tę zdolność tylko "
+"jeśli przeciwnik ma we władaniu więcej lądów niż ty."
 
 #: ../../9ED.rst:280
 msgid ""
@@ -808,6 +815,8 @@ msgid ""
 "If you control a creature, damage that would reduce your life total to less "
 "than 1 reduces it to 1 instead."
 msgstr ""
+"Jeśli władasz stworem, obrażenia mogące obniżyć liczbę twoich żyć poniżej 1 "
+"zamiast tego obniżają je do 1."
 
 #: ../../9ED.rst:284
 msgid ""
@@ -832,6 +841,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: The next 1 damage that would be dealt to Zealous "
 "Inquisitor this turn is dealt to target creature instead."
 msgstr ""
+"|mana_1|\\ |mana_w|: Najbliższe 1 obrażenia jakie mogłoby zostać zadane w "
+"tej turze temu stworowi zamiast tego jest zadane wskazanemu stworowi."
 
 #: ../../9ED.rst:292
 msgid ""
@@ -852,10 +863,12 @@ msgid ""
 "Enchant land (Target a land as you cast this. This card enters the "
 "battlefield attached to that land.)"
 msgstr ""
+"Zaurocz ląd (Podczas rzucania wskaż ląd. Ta karta wchodzi na pole bitwy "
+"dołączona do owego lądu.)"
 
 #: ../../9ED.rst:297
 msgid "You control enchanted land."
-msgstr ""
+msgstr "Władasz zauroczonym lądem."
 
 #: ../../9ED.rst:302
 msgid ""
@@ -912,6 +925,8 @@ msgid ""
 "Target opponent reveals their hand. You draw a card for each Mountain and "
 "red card in it."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Dobierz kartę za każdą znajdującą "
+"się tam Górę i czerwoną kartę."
 
 #: ../../9ED.rst:326
 msgid ""
@@ -992,6 +1007,9 @@ msgid ""
 "Whenever a creature becomes the target of a spell or ability, return that "
 "creature to its owner's hand. (It won't be affected by the spell or ability.)"
 msgstr ""
+"Ilekroć stwór zostanie wskazany przez czar lub zdolność, przywróć owego "
+"stwora do ręki właściciela. (Nie znajdzie się pod wpływem owego czaru lub "
+"zdolności.)"
 
 #: ../../9ED.rst:352
 msgid ""
@@ -1037,7 +1055,7 @@ msgstr ""
 
 #: ../../9ED.rst:365
 msgid "Dream Prowler can't be blocked as long as it's attacking alone."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany o ile atakuje samotnie."
 
 #: ../../9ED.rst:370
 msgid ""
@@ -1062,6 +1080,8 @@ msgid ""
 "Creatures and lands target opponent controls don't untap during their next "
 "untap step."
 msgstr ""
+"Stwory i lądy pod władaniem wskazanego przeciwnika nie odkręcą się w "
+"najbliższym kroku odkręcania owego gracza."
 
 #: ../../9ED.rst:380
 msgid ""
@@ -1075,6 +1095,8 @@ msgid ""
 "Enchanted creature has islandwalk. (It can't be blocked as long as defending "
 "player controls an Island.)"
 msgstr ""
+"Zauroczony stwór ma podbój wysp. (Nie może być blokowany o ile broniący się "
+"gracz włada wyspą.)"
 
 #: ../../9ED.rst:386
 msgid ""
@@ -1085,7 +1107,7 @@ msgstr ""
 
 #: ../../9ED.rst:385
 msgid "|mana_1|\\ |mana_u|: Return Fleeting Image to its owner's hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../9ED.rst:392
 msgid ""
@@ -1124,6 +1146,8 @@ msgid ""
 "At the beginning of your upkeep, if you have a card in hand, return "
 "Imaginary Pet to its owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli masz kartę w ręce, przywróć tego "
+"stwora do ręki właściciela."
 
 #: ../../9ED.rst:408
 msgid ""
@@ -1281,6 +1305,8 @@ msgid ""
 "When Sage Aven enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności."
 
 #: ../../9ED.rst:462
 msgid ""
@@ -1302,7 +1328,7 @@ msgstr ""
 
 #: ../../9ED.rst:467
 msgid "Enchanted land is an Island."
-msgstr ""
+msgstr "Zauroczony ląd jest Wyspą."
 
 #: ../../9ED.rst:472
 msgid ""
@@ -1360,6 +1386,8 @@ msgid ""
 "|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Return target permanent to its "
 "owner's hand."
 msgstr ""
+"|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Przywróć wskazany permanent do ręki "
+"właściciela."
 
 #: ../../9ED.rst:494
 msgid ""
@@ -1392,7 +1420,7 @@ msgstr ""
 
 #: ../../9ED.rst:501
 msgid "Tidal Kraken can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../9ED.rst:506
 msgid ""

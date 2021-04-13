@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:06+0000\n"
+"PO-Revision-Date: 2021-04-13 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -895,6 +895,9 @@ msgid ""
 "into your hand. Then shuffle your library. Activate this ability only if an "
 "opponent controls more lands than you."
 msgstr ""
+"|mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i "
+"umieść w twojej ręce, po czym przetasuj. Możesz aktywować tę zdolność tylko "
+"jeśli przeciwnik ma we władaniu więcej lądów niż ty."
 
 #: ../../ONS.rst:338
 msgid ""
@@ -943,10 +946,12 @@ msgid ""
 "Enchant land (Target a land as you cast this. This card enters the "
 "battlefield attached to that land.)"
 msgstr ""
+"Zaurocz ląd (Podczas rzucania wskaż ląd. Ta karta wchodzi na pole bitwy "
+"dołączona do owego lądu.)"
 
 #: ../../ONS.rst:351
 msgid "You control enchanted land."
-msgstr ""
+msgstr "Władasz zauroczonym lądem."
 
 #: ../../ONS.rst:358
 msgid ""
@@ -1681,6 +1686,8 @@ msgid ""
 "When Sage Aven enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności."
 
 #: ../../ONS.rst:620
 msgid ""
@@ -1705,7 +1712,7 @@ msgstr ""
 
 #: ../../ONS.rst:625
 msgid "Enchanted land is an Island."
-msgstr ""
+msgstr "Zauroczony ląd jest Wyspą."
 
 #: ../../ONS.rst:632
 msgid ""

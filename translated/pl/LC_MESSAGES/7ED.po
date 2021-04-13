@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:06+0000\n"
+"PO-Revision-Date: 2021-04-13 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -507,6 +507,8 @@ msgid ""
 "into your graveyard from the battlefield, return that card to the "
 "battlefield."
 msgstr ""
+"Ilekroć czar lub zdolność pod władaniem przeciwnika sprawia, że do twojego "
+"cmentarza trafia ląd z pola bitwy, przywróć ową kartę na pole bitwy."
 
 #: ../../7ED.rst:170
 msgid ""
@@ -553,7 +555,7 @@ msgstr ""
 
 #: ../../7ED.rst:181
 msgid "Whenever Seasoned Marshal attacks, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, możesz przekręcić wskazanego stwora."
 
 #: ../../7ED.rst:188
 msgid ""
@@ -735,6 +737,8 @@ msgid ""
 "If you control a creature, damage that would reduce your life total to less "
 "than 1 reduces it to 1 instead."
 msgstr ""
+"Jeśli władasz stworem, obrażenia mogące obniżyć liczbę twoich żyć poniżej 1 "
+"zamiast tego obniżają je do 1."
 
 #: ../../7ED.rst:264
 msgid ""
@@ -803,6 +807,8 @@ msgid ""
 "Target opponent reveals their hand. You draw a card for each Mountain and "
 "red card in it."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Dobierz kartę za każdą znajdującą "
+"się tam Górę i czerwoną kartę."
 
 #: ../../7ED.rst:288
 msgid ""
@@ -940,7 +946,7 @@ msgstr ""
 
 #: ../../7ED.rst:337
 msgid "|mana_1|\\ |mana_u|: Return Fleeting Image to its owner's hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../7ED.rst:344
 msgid ""
@@ -1267,6 +1273,8 @@ msgid ""
 "|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Return target permanent to its "
 "owner's hand."
 msgstr ""
+"|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Przywróć wskazany permanent do ręki "
+"właściciela."
 
 #: ../../7ED.rst:468
 msgid ""

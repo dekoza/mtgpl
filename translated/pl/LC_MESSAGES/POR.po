@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:00+0200\n"
-"PO-Revision-Date: 2021-04-13 18:06+0000\n"
+"PO-Revision-Date: 2021-04-13 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/por/pl/>\n"
 "Language: pl\n"
@@ -242,7 +242,7 @@ msgstr ""
 
 #: ../../POR.rst:115
 msgid "Whenever Seasoned Marshal attacks, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, możesz przekręcić wskazanego stwora."
 
 #: ../../POR.rst:120
 msgid ":mtgtip:`Spiritual Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.jpg?1562445666|https://scryfall.com/card/por/27/spiritual-guardian?utm_source=api>`"
@@ -366,6 +366,8 @@ msgstr ""
 #: ../../POR.rst:181
 msgid "Target opponent reveals their hand. You draw a card for each Mountain and red card in it."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Dobierz kartę za każdą znajdującą "
+"się tam Górę i czerwoną kartę."
 
 #: ../../POR.rst:186
 msgid ":mtgtip:`Capricious Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8d5eec0-0afe-4af9-ba1b-70282df8cd0a.jpg?1562447815|https://scryfall.com/card/por/43/capricious-sorcerer?utm_source=api>`"
@@ -462,6 +464,8 @@ msgstr ""
 #: ../../POR.rst:239
 msgid "Creatures and lands target opponent controls don't untap during their next untap step."
 msgstr ""
+"Stwory i lądy pod władaniem wskazanego przeciwnika nie odkręcą się w "
+"najbliższym kroku odkręcania owego gracza."
 
 #: ../../POR.rst:246
 msgid ":mtgtip:`Flux<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c26bf66-8fa8-4f69-9556-c9fcc56a7f33.jpg?1562446178|https://scryfall.com/card/por/55/flux?utm_source=api>`"

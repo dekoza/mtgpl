@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:06+0000\n"
+"PO-Revision-Date: 2021-04-13 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -604,6 +604,8 @@ msgid ""
 "into your graveyard from the battlefield, return that card to the "
 "battlefield."
 msgstr ""
+"Ilekroć czar lub zdolność pod władaniem przeciwnika sprawia, że do twojego "
+"cmentarza trafia ląd z pola bitwy, przywróć ową kartę na pole bitwy."
 
 #: ../../8ED.rst:218
 msgid ""
@@ -657,7 +659,7 @@ msgstr ""
 
 #: ../../8ED.rst:233
 msgid "Whenever Seasoned Marshal attacks, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, możesz przekręcić wskazanego stwora."
 
 #: ../../8ED.rst:238
 msgid ""
@@ -806,6 +808,8 @@ msgid ""
 "If you control a creature, damage that would reduce your life total to less "
 "than 1 reduces it to 1 instead."
 msgstr ""
+"Jeśli władasz stworem, obrażenia mogące obniżyć liczbę twoich żyć poniżej 1 "
+"zamiast tego obniżają je do 1."
 
 #: ../../8ED.rst:300
 msgid ""
@@ -966,6 +970,9 @@ msgid ""
 "Whenever a creature becomes the target of a spell or ability, return that "
 "creature to its owner's hand. (It won't be affected by the spell or ability.)"
 msgstr ""
+"Ilekroć stwór zostanie wskazany przez czar lub zdolność, przywróć owego "
+"stwora do ręki właściciela. (Nie znajdzie się pod wpływem owego czaru lub "
+"zdolności.)"
 
 #: ../../8ED.rst:362
 msgid ""
@@ -1051,7 +1058,7 @@ msgstr ""
 
 #: ../../8ED.rst:393
 msgid "|mana_1|\\ |mana_u|: Return Fleeting Image to its owner's hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Przywróć tego stwora do ręki właściciela."
 
 #: ../../8ED.rst:400
 msgid ""
@@ -1370,6 +1377,8 @@ msgid ""
 "|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Return target permanent to its "
 "owner's hand."
 msgstr ""
+"|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Przywróć wskazany permanent do ręki "
+"właściciela."
 
 #: ../../8ED.rst:522
 msgid ""
@@ -1391,7 +1400,7 @@ msgstr ""
 
 #: ../../8ED.rst:525
 msgid "Tidal Kraken can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../8ED.rst:532
 msgid ""
