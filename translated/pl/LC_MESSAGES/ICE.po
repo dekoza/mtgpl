@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 10:31+0000\n"
+"PO-Revision-Date: 2021-04-14 11:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -316,6 +316,9 @@ msgid ""
 "counter on this permanent, then sacrifice it unless you pay its upkeep cost "
 "for each age counter on it.)"
 msgstr ""
+"Rosnące utrzymanie |mana_2| (Na początku twojego kroku utrzymania, umieść "
+"znacznik wieku na tym permanencie, po czym poświęć go, chyba że zapłacisz "
+"koszt utrzymania za każdy z będących na nim znaczników wieku.)"
 
 #: ../../ICE.rst:101
 msgid ""
@@ -436,6 +439,9 @@ msgid ""
 "counter on this permanent, then sacrifice it unless you pay its upkeep cost "
 "for each age counter on it.)"
 msgstr ""
+"Rosnące utrzymanie |mana_1| (Na początku twojego kroku utrzymania, umieść "
+"znacznik wieku na tym permanencie, po czym poświęć go, chyba że zapłacisz "
+"koszt utrzymania za każdy z będących na nim znaczników wieku.)"
 
 #: ../../ICE.rst:141
 msgid "Prevent all damage that would be dealt by instant and sorcery spells."
@@ -931,6 +937,9 @@ msgid ""
 "counter on this permanent, then sacrifice it unless you pay its upkeep cost "
 "for each age counter on it.)"
 msgstr ""
+"Rosnące utrzymanie |mana_u| (Na początku twojego kroku utrzymania, umieść "
+"znacznik wieku na tym permanencie, po czym poświęć go, chyba że zapłacisz "
+"koszt utrzymania za każdy z będących na nim znaczników wieku.)"
 
 #: ../../ICE.rst:319
 msgid "|mana_1|: Target creature gains flying until end of turn."
@@ -966,6 +975,14 @@ msgid ""
 "an age counter on it, then sacrifices it unless they pay its upkeep cost for "
 "each age counter on it.)"
 msgstr ""
+"|tap|: Zmień treść wskazanego białego uroku pod twoim władanie mnie mającego "
+"rosnącego utrzymania poprzez podmianę wszystkich wystąpień jednego słowa "
+"określającego kolor innym. (Np. możesz zmienić \"czarne stwory nie mogą "
+"atakować\" na \"niebieskie stwory nie mogą atakować.\") Ów urok zyskuje "
+"\"Rosnące utrzymanie |mana_1|.\" (Na początku kroku utrzymania jego "
+"właściciela, ów gracz umieszcza znacznik wieku na owym permanencie, po czym "
+"poświęca go, chyba że zapłaci koszt utrzymania za każdy z będących na nim "
+"znaczników wieku.)"
 
 #: ../../ICE.rst:338
 msgid ""
@@ -1012,7 +1029,7 @@ msgstr ""
 
 #: ../../ICE.rst:347
 msgid "Green creatures have \"Cumulative upkeep |mana_1|.\""
-msgstr ""
+msgstr "Zielone stwory mają \"Rosnące utrzymanie |mana_1|.\""
 
 #: ../../ICE.rst:354
 msgid ""
