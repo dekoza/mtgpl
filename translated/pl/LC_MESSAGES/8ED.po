@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -337,6 +337,8 @@ msgstr ""
 msgid ""
 "|tap|: Elite Archers deals 3 damage to target attacking or blocking creature."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu lub blokującemu stworowi 3 "
+"obrażenia."
 
 #: ../../8ED.rst:124
 msgid ""
@@ -465,6 +467,8 @@ msgid ""
 "At the beginning of each player's upkeep, Karma deals damage to that player "
 "equal to the number of Swamps they control."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ten urok zadaje owemu "
+"graczowi obrażenia równe liczbie Bagien pod jego władaniem."
 
 #: ../../8ED.rst:170
 msgid ""
@@ -502,6 +506,8 @@ msgstr ""
 msgid ""
 "Whenever a creature you control deals combat damage, you gain that much life."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada obrażenia bojowe, zyskaj tyle samo "
+"żyć."
 
 #: ../../8ED.rst:182
 msgid ""
@@ -579,6 +585,8 @@ msgid ""
 "Prevent all damage that would be dealt this turn to up to two target "
 "creatures."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane w tej turze co "
+"najwyżej dwóm wskazanym stworom."
 
 #: ../../8ED.rst:210
 msgid ""
@@ -589,7 +597,7 @@ msgstr ""
 
 #: ../../8ED.rst:209
 msgid "Wall creatures can attack as though they didn't have defender."
-msgstr ""
+msgstr "Ściany mogą atakować jakby nie miały obronności."
 
 #: ../../8ED.rst:214
 msgid ""
@@ -641,7 +649,7 @@ msgstr ""
 
 #: ../../8ED.rst:225
 msgid "Whenever an opponent taps a Mountain for mana, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik przekręci Górę dla many, możesz zyskać 1 życie."
 
 #: ../../8ED.rst:228
 msgid ""
@@ -677,7 +685,7 @@ msgstr ""
 
 #: ../../8ED.rst:241
 msgid "Creatures you control get +0/+5 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+5."
 
 #: ../../8ED.rst:248
 msgid ""
@@ -770,6 +778,7 @@ msgstr ""
 msgid ""
 "|mana_w|\\ |mana_w|: Target attacking creature gets -1/-0 until end of turn."
 msgstr ""
+"|mana_w|\\ |mana_w|: Wskazany atakujący stwór dostaje do końca tury -1/-0."
 
 #: ../../8ED.rst:282
 msgid ""
@@ -863,6 +872,8 @@ msgid ""
 "If target opponent has more cards in hand than you, draw cards equal to the "
 "difference."
 msgstr ""
+"Jeśli wskazany przeciwnik ma więcej kart w ręce niż ty, dobierz tyle kart, "
+"ile wynosi różnica."
 
 #: ../../8ED.rst:322
 msgid ""
@@ -887,6 +898,8 @@ msgid ""
 "Search target opponent's library for a creature card and put that card onto "
 "the battlefield under your control. Then that player shuffles their library."
 msgstr ""
+"Wyszukaj w bibliotece wskazanego przeciwnika kartę stwora i umieść ją na "
+"polu bitwy pod twoim władaniem. Następnie ów gracz tasuje."
 
 #: ../../8ED.rst:330
 msgid ""
@@ -908,7 +921,7 @@ msgstr ""
 
 #: ../../8ED.rst:333
 msgid "Sacrifice a land: Coastal Hornclaw gains flying until end of turn."
-msgstr ""
+msgstr "Poświęć ląd: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../8ED.rst:338
 msgid ""
@@ -1087,7 +1100,7 @@ msgstr ""
 
 #: ../../8ED.rst:407
 msgid "Return all green permanents to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie zielone permanenty do rąk ich właścicieli."
 
 #: ../../8ED.rst:410
 msgid ""
@@ -1131,10 +1144,11 @@ msgstr ""
 #: ../../8ED.rst:423
 msgid "Creatures don't untap during their controllers' untap steps."
 msgstr ""
+"Stwory nie odkręcą się w najbliższym kroku odkręcania swoich właścicieli."
 
 #: ../../8ED.rst:425
 msgid "Whenever a creature enters the battlefield, untap all creatures."
-msgstr ""
+msgstr "Ilekroć stwór wejdzie na pole bitwy, odkręć wszystkie stwory."
 
 #: ../../8ED.rst:432
 msgid ""
@@ -1174,7 +1188,7 @@ msgstr ""
 
 #: ../../8ED.rst:443
 msgid "When Merchant of Secrets enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../8ED.rst:448
 msgid ""
@@ -1188,6 +1202,8 @@ msgid ""
 "Search your library for a blue instant card, reveal that card, and put it "
 "into your hand. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę niebieskiej sztuczki, ujawnij ją i umieść "
+"w twojej ręce, po czym przetasuj."
 
 #: ../../8ED.rst:452
 msgid ""
@@ -1298,11 +1314,11 @@ msgstr ""
 
 #: ../../8ED.rst:485
 msgid "As Shifting Sky enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten urok na polu bitwy wybierz kolor."
 
 #: ../../8ED.rst:487
 msgid "All nonland permanents are the chosen color."
-msgstr ""
+msgstr "Wszystkie nielądowe permanenty są wybranego koloru."
 
 #: ../../8ED.rst:492
 msgid ""
@@ -1316,6 +1332,8 @@ msgid ""
 "Sneaky Homunculus can't block or be blocked by creatures with power 2 or "
 "greater."
 msgstr ""
+"Stwory o sile 2 lub większej nie mogą blokować tego stwora ani być przez "
+"niego blokowane."
 
 #: ../../8ED.rst:498
 msgid ""
@@ -1345,7 +1363,7 @@ msgstr "Zaurocz artefakt"
 
 #: ../../8ED.rst:503
 msgid "You control enchanted artifact."
-msgstr ""
+msgstr "Władasz zauroczonym artefaktem."
 
 #: ../../8ED.rst:508
 msgid ""
@@ -1483,10 +1501,12 @@ msgstr ""
 #: ../../8ED.rst:555
 msgid "When Wrath of Marit Lage enters the battlefield, tap all red creatures."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, przekręć wszystkie czerwone stwory."
 
 #: ../../8ED.rst:557
 msgid "Red creatures don't untap during their controllers' untap steps."
 msgstr ""
+"Czerwone stwory nie odkręcają się podczas kroków odkręcania swoich władców."
 
 #: ../../8ED.rst:564
 msgid ""
@@ -1564,7 +1584,7 @@ msgstr ""
 
 #: ../../8ED.rst:587
 msgid "|mana_1|\\ |mana_b|: Regenerate Carrion Wall."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Zregeneruj tego stwora."
 
 #: ../../8ED.rst:592
 msgid ""
@@ -1605,6 +1625,8 @@ msgid ""
 "When Death Pit Offering enters the battlefield, sacrifice all creatures you "
 "control."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, poświęć wszystkie stwory pod twoim "
+"władaniem."
 
 #: ../../8ED.rst:601
 msgid "Creatures you control get +2/+2."
@@ -1646,7 +1668,7 @@ msgstr ""
 
 #: ../../8ED.rst:613
 msgid "Pay 2 life: Regenerate Deepwood Ghoul."
-msgstr ""
+msgstr "Zapłać 2 życia: Zregeneruj tego stwora."
 
 #: ../../8ED.rst:618
 msgid ""
@@ -1696,7 +1718,7 @@ msgstr ""
 
 #: ../../8ED.rst:629
 msgid "|mana_b|\\ |mana_b|, |tap|: Destroy target green creature."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego zielonego stwora."
 
 #: ../../8ED.rst:636
 msgid ""
@@ -1722,7 +1744,7 @@ msgstr ""
 
 #: ../../8ED.rst:641
 msgid "Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+1."
 
 #: ../../8ED.rst:648
 msgid ""
@@ -1802,6 +1824,8 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, that player "
 "discards a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, ów gracz "
+"odrzuca kartę."
 
 #: ../../8ED.rst:672
 msgid ""
@@ -1842,7 +1866,7 @@ msgstr ""
 
 #: ../../8ED.rst:681
 msgid "When Maggot Carrier enters the battlefield, each player loses 1 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz traci po 1 życiu."
 
 #: ../../8ED.rst:686
 msgid ""
@@ -1881,6 +1905,8 @@ msgid ""
 "choose a card from it. That player discards that card. Activate this ability "
 "only any time you could cast a sorcery."
 msgstr ""
+"|mana_b|, poświęć stwora: Wskazany przeciwnik ujawnia swoją rękę. Wybierz z "
+"niej kartę. Ów gracz odrzuca ową kartę. Aktywuj jako obrzęd."
 
 #: ../../8ED.rst:698
 msgid ""
@@ -1891,7 +1917,7 @@ msgstr ""
 
 #: ../../8ED.rst:697
 msgid "Target player discards a card for each Swamp you control."
-msgstr ""
+msgstr "Wskazany gracz odrzuca kartę za każde Bagno pod twoim władaniem."
 
 #: ../../8ED.rst:702
 msgid ""
@@ -1905,6 +1931,8 @@ msgid ""
 "|mana_b|\\ |mana_b|, Pay half your life, rounded up: Destroy target nonblack "
 "creature. It can't be regenerated."
 msgstr ""
+"|mana_b|\\ |mana_b|, zapłać połowę twoich żyć zaokrągloną wzwyż: Zniszcz "
+"wskazanego nieczarnego stwora. Nie może on zregenerować."
 
 #: ../../8ED.rst:706
 msgid ""
@@ -1988,11 +2016,11 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end "
 "of turn."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../8ED.rst:731
 msgid "Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../8ED.rst:736
 msgid ""
@@ -2022,7 +2050,7 @@ msgstr ""
 
 #: ../../8ED.rst:743
 msgid "|mana_b|: Primeval Shambler gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../8ED.rst:748
 msgid ""
@@ -2089,6 +2117,8 @@ msgid ""
 "Destroy target nonblack creature. It can't be regenerated. You gain life "
 "equal to its toughness."
 msgstr ""
+"Zniszcz wskazanego nieczarnego stwora. Nie może on zregenerować. Zyskaj "
+"życia równe jego wytrzymałości."
 
 #: ../../8ED.rst:772
 msgid ""
@@ -2176,7 +2206,7 @@ msgstr ""
 
 #: ../../8ED.rst:805
 msgid "When Vampiric Spirit enters the battlefield, you lose 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 4 życia."
 
 #: ../../8ED.rst:810
 msgid ""
@@ -2187,7 +2217,7 @@ msgstr ""
 
 #: ../../8ED.rst:809
 msgid "Vicious Hunger deals 2 damage to target creature and you gain 2 life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia, zyskaj 2 życia."
 
 #: ../../8ED.rst:814
 msgid ""
@@ -2201,6 +2231,8 @@ msgid ""
 "Whenever a permanent is returned to a player's hand, that player discards a "
 "card."
 msgstr ""
+"Ilekroć permanent zostanie przywrócony do ręki gracza, ów gracz odrzuca "
+"kartę."
 
 #: ../../8ED.rst:818
 msgid ""
@@ -2211,7 +2243,7 @@ msgstr ""
 
 #: ../../8ED.rst:817
 msgid "|mana_b|\\ |mana_b|, |tap|: Destroy target white creature."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego białego stwora."
 
 #: ../../8ED.rst:822
 msgid ""
@@ -2276,6 +2308,8 @@ msgid ""
 "|tap|, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the "
 "sacrificed creature's power to any target."
 msgstr ""
+"|tap|, poświęć stwora: Niniejszy stwór zadaje wskazanemu celowi obrażenia "
+"równe sile poświęconego stwora."
 
 #: ../../8ED.rst:846
 msgid ""
@@ -2316,7 +2350,7 @@ msgstr "Obronność"
 
 #: ../../8ED.rst:855
 msgid "When Cinder Wall blocks, destroy it at end of combat."
-msgstr ""
+msgstr "Kiedy ten stwór zablokuje, zniszcz go na końcu potyczki."
 
 #: ../../8ED.rst:860
 msgid ""
@@ -2338,7 +2372,7 @@ msgstr ""
 
 #: ../../8ED.rst:863
 msgid "|tap|: Destroy target Wall."
-msgstr ""
+msgstr "|tap|: Zniszcz wskazaną Ścianę."
 
 #: ../../8ED.rst:868
 msgid ""
@@ -2401,7 +2435,7 @@ msgstr ""
 
 #: ../../8ED.rst:885
 msgid "Goblin Glider can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../8ED.rst:890
 msgid ""
@@ -2453,13 +2487,15 @@ msgstr ""
 
 #: ../../8ED.rst:903
 msgid "Hammer of Bogardan deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../8ED.rst:905
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from "
 "your graveyard to your hand. Activate this ability only during your upkeep."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
+"cmentarza do twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../8ED.rst:908
 msgid ""
@@ -2477,7 +2513,7 @@ msgstr ""
 
 #: ../../8ED.rst:913
 msgid "Hulking Cyclops can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../8ED.rst:918
 msgid ""
@@ -2488,7 +2524,7 @@ msgstr ""
 
 #: ../../8ED.rst:917
 msgid "Inferno deals 6 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../8ED.rst:922
 msgid ""
@@ -2514,7 +2550,7 @@ msgstr "Pośpiech"
 
 #: ../../8ED.rst:927
 msgid "When Lava Hounds enters the battlefield, it deals 4 damage to you."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zadaje on tobie 4 obrażenia."
 
 #: ../../8ED.rst:932
 msgid ""
@@ -2525,7 +2561,7 @@ msgstr ""
 
 #: ../../8ED.rst:931
 msgid "Whenever Lesser Gargadon attacks or blocks, sacrifice a land."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, poświęć ląd."
 
 #: ../../8ED.rst:936
 msgid ""
@@ -2536,7 +2572,7 @@ msgstr ""
 
 #: ../../8ED.rst:935
 msgid "Lightning Blast deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../8ED.rst:940
 msgid ""
@@ -2587,7 +2623,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../8ED.rst:953
 msgid "Destroy all artifacts, creatures, and lands. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty, stwory i lądy. Nie mogą one zregenerować."
 
 #: ../../8ED.rst:958
 msgid ""
@@ -2610,10 +2646,12 @@ msgstr ""
 #: ../../8ED.rst:961
 msgid "Okk can't attack unless a creature with greater power also attacks."
 msgstr ""
+"Ten stwór nie może atakować, chyba że stwór o większej sile także atakuje."
 
 #: ../../8ED.rst:963
 msgid "Okk can't block unless a creature with greater power also blocks."
 msgstr ""
+"Ten stwór nie może blokować, chyba że stwór o większej sile także blokuje."
 
 #: ../../8ED.rst:968
 msgid ""
@@ -2637,7 +2675,7 @@ msgstr ""
 
 #: ../../8ED.rst:971
 msgid "|tap|: Look at the top three cards of target player's library."
-msgstr ""
+msgstr "|tap|: Spójrz na trzy wierzchnie karty biblioteki wskazanego gracza."
 
 #: ../../8ED.rst:976
 msgid ""
@@ -2722,7 +2760,7 @@ msgstr ""
 
 #: ../../8ED.rst:1001
 msgid "|mana_r|: Ridgeline Rager gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../8ED.rst:1006
 msgid ""
@@ -2755,7 +2793,7 @@ msgstr ""
 
 #: ../../8ED.rst:1013
 msgid "Searing Wind deals 10 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 10 obrażeń."
 
 #: ../../8ED.rst:1018
 msgid ""
@@ -2810,7 +2848,7 @@ msgstr ""
 
 #: ../../8ED.rst:1035
 msgid "Sacrifice Shock Troops: It deals 2 damage to any target."
-msgstr ""
+msgstr "Poświęć tego stwora: Zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../8ED.rst:1040
 msgid ""
@@ -2821,7 +2859,7 @@ msgstr ""
 
 #: ../../8ED.rst:1039
 msgid "Sizzle deals 3 damage to each opponent."
-msgstr ""
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../8ED.rst:1044
 msgid ""
@@ -2863,6 +2901,10 @@ msgid ""
 "control. Repeat this process until all cards exiled this way have been "
 "chosen."
 msgstr ""
+"Wygnaj wszystkie nieżetonowe permanenty. Zaczynając od ciebie, każdy gracz "
+"wybiera jedną z wygnanych kart i umieszcza ją przekręconą na polu bitwy pod "
+"swoim władaniem. Powtarzaj ten proces aż wszystkie karty wygnane w ten "
+"sposób zostały wybrane."
 
 #: ../../8ED.rst:1056
 msgid ""
@@ -2873,7 +2915,7 @@ msgstr ""
 
 #: ../../8ED.rst:1055
 msgid "Tremor deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../8ED.rst:1066
 msgid ""
@@ -2891,11 +2933,11 @@ msgstr ""
 
 #: ../../8ED.rst:1063
 msgid "Two-Headed Dragon can block an additional creature each combat."
-msgstr ""
+msgstr "Ten stwór może blokować dodatkowego stwora w każdej potyczce."
 
 #: ../../8ED.rst:1065
 msgid "|mana_1|\\ |mana_r|: Two-Headed Dragon gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../8ED.rst:1072
 msgid ""
@@ -2965,6 +3007,9 @@ msgid ""
 "a creature card, put it onto the battlefield. Otherwise, put it into your "
 "graveyard."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|: Ujawnij wierzchnią kartę twojej biblioteki. "
+"Jeśli to karta stwora, umieść ją na polu bitwy. W przeciwnym razie umieść ją "
+"w twoim cmentarzu."
 
 #: ../../8ED.rst:1100
 msgid ""
@@ -2986,7 +3031,7 @@ msgstr ""
 
 #: ../../8ED.rst:1103
 msgid "Islands don't untap during their controllers' untap steps."
-msgstr ""
+msgstr "Wyspy nie odkręcają się podczas kroków odkręcania swoich władców."
 
 #: ../../8ED.rst:1108
 msgid ""
@@ -3041,7 +3086,7 @@ msgstr ""
 
 #: ../../8ED.rst:1123
 msgid "|mana_g|, |tap|, Sacrifice Elvish Lyrist: Destroy target enchantment."
-msgstr ""
+msgstr "|mana_g|, |tap|, poświęć tego stwora: Zniszcz wskazany urok."
 
 #: ../../8ED.rst:1128
 msgid ""
@@ -3055,6 +3100,8 @@ msgid ""
 "When Elvish Pioneer enters the battlefield, you may put a basic land card "
 "from your hand onto the battlefield tapped."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę bazowego lądu z "
+"twojej ręki przekręconą na polu bitwy."
 
 #: ../../8ED.rst:1132
 msgid ""
@@ -3079,7 +3126,7 @@ msgstr ""
 
 #: ../../8ED.rst:1135
 msgid "|mana_g|, |tap|, Sacrifice Elvish Scrapper: Destroy target artifact."
-msgstr ""
+msgstr "|mana_g|, |tap|, poświęć tego stwora: Zniszcz wskazany artefakt."
 
 #: ../../8ED.rst:1140
 msgid ""
@@ -3131,7 +3178,7 @@ msgstr ""
 
 #: ../../8ED.rst:1153
 msgid "|mana_g|, Sacrifice a Forest: Foratog gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|mana_g|, poświęć Las: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../8ED.rst:1158
 msgid ""
@@ -3142,7 +3189,7 @@ msgstr ""
 
 #: ../../8ED.rst:1157
 msgid "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia, umieść na nim znacznik +1/+1."
 
 #: ../../8ED.rst:1162
 msgid ""
@@ -3175,7 +3222,7 @@ msgstr ""
 
 #: ../../8ED.rst:1169
 msgid "Whenever Giant Badger blocks, it gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zablokuje, dostaje on do końca tury +2/+2."
 
 #: ../../8ED.rst:1174
 msgid ""
@@ -3211,7 +3258,7 @@ msgstr ""
 
 #: ../../8ED.rst:1185
 msgid "|mana_g|: Regenerate Horned Troll."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj tego stwora."
 
 #: ../../8ED.rst:1190
 msgid ""
@@ -3240,6 +3287,8 @@ msgid ""
 "Lhurgoyf's power is equal to the number of creature cards in all graveyards "
 "and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie kart stworów we wszystkich cmentarzach, a "
+"jej wytrzymałość jest równa owej liczbie plus 1."
 
 #: ../../8ED.rst:1200
 msgid ""
@@ -3250,7 +3299,7 @@ msgstr ""
 
 #: ../../8ED.rst:1199
 msgid "Enchanted land is a 5/6 green Treefolk creature that's still a land."
-msgstr ""
+msgstr "Zauroczony ląd jest zielonym stworem Drzewiec 5/6 i nadal jest lądem."
 
 #: ../../8ED.rst:1204
 msgid ""
@@ -3278,6 +3327,8 @@ msgstr ""
 msgid ""
 "You may have Lone Wolf assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../8ED.rst:1214
 msgid ""
@@ -3341,7 +3392,7 @@ msgstr ""
 
 #: ../../8ED.rst:1233
 msgid "|mana_g|, |tap|: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|mana_g|, |tap|: Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../8ED.rst:1238
 msgid ""
@@ -3381,7 +3432,7 @@ msgstr ""
 
 #: ../../8ED.rst:1249
 msgid "Put two target lands on top of their owners' libraries."
-msgstr ""
+msgstr "Umieść dwa wskazane lądy na wierzchach bibliotek ich właścicieli."
 
 #: ../../8ED.rst:1254
 msgid ""
@@ -3395,6 +3446,8 @@ msgid ""
 "When Primeval Force enters the battlefield, sacrifice it unless you "
 "sacrifice three Forests."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że poświęcisz trzy "
+"Lasy."
 
 #: ../../8ED.rst:1258
 msgid ""
@@ -3497,6 +3550,8 @@ msgid ""
 "Sacrifice a land: Spitting Spider deals 1 damage to each creature with "
 "flying."
 msgstr ""
+"Poświęć ląd: Ten stwór zadaje każdemu stworowi mającemu latanie po 1 "
+"obrażeniu."
 
 #: ../../8ED.rst:1296
 msgid ""
@@ -3507,7 +3562,7 @@ msgstr ""
 
 #: ../../8ED.rst:1291
 msgid "Enchant Swamp"
-msgstr ""
+msgstr "Zaurocz Bagno"
 
 #: ../../8ED.rst:1293
 msgid "When enchanted land becomes tapped, destroy it."
@@ -3518,6 +3573,8 @@ msgid ""
 "When Spreading Algae is put into a graveyard from the battlefield, return "
 "Spreading Algae to its owner's hand."
 msgstr ""
+"Kiedy ten urok trafi z pola bitwy do cmentarza, przywróć go do ręki "
+"właściciela."
 
 #: ../../8ED.rst:1300
 msgid ""
@@ -3575,6 +3632,7 @@ msgid ""
 "Whenever a Forest is tapped for mana, its controller adds an additional |"
 "mana_g|."
 msgstr ""
+"Ilekroć Las jest przekręcany dla many, jego władca bierze dodatkową |mana_g|."
 
 #: ../../8ED.rst:1322
 msgid ""
@@ -3659,7 +3717,7 @@ msgstr ""
 
 #: ../../8ED.rst:1345
 msgid "As Brass Herald enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy wybierz typ stwora."
 
 #: ../../8ED.rst:1347
 msgid ""
@@ -3667,10 +3725,13 @@ msgid ""
 "library. Put all creature cards of the chosen type revealed this way into "
 "your hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Umieść wszystkie karty stworów wybranego typu ujawnione w "
+"ten sposób w twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../8ED.rst:1349
 msgid "Creatures of the chosen type get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego typu dostają +1/+1."
 
 #: ../../8ED.rst:1354
 msgid ""
@@ -3702,6 +3763,8 @@ msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../8ED.rst:1362
 msgid ""
@@ -3729,6 +3792,8 @@ msgid ""
 "Whenever a land is put into a graveyard from the battlefield, Dingus Egg "
 "deals 2 damage to that land's controller."
 msgstr ""
+"Ilekroć ląd zostanie umieszczony w cmentarzu z pola bitwy, ten artefakt "
+"zadaje właścicielowi owego lądu 2 obrażenia."
 
 #: ../../8ED.rst:1370
 msgid ""
@@ -3756,6 +3821,8 @@ msgstr ""
 msgid ""
 "|tap|: Target permanent becomes the color of your choice until end of turn."
 msgstr ""
+"|tap|: Wskazany permanent staje się do końca tury wybranego przez ciebie "
+"koloru."
 
 #: ../../8ED.rst:1378
 msgid ""
@@ -3780,7 +3847,7 @@ msgstr ""
 
 #: ../../8ED.rst:1381
 msgid "|mana_2|, |tap|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../8ED.rst:1386
 msgid ""
@@ -3794,6 +3861,8 @@ msgid ""
 "|mana_4|, |tap|, Sacrifice a creature: Fodder Cannon deals 4 damage to "
 "target creature."
 msgstr ""
+"|mana_4|, |tap|, poświęć stwora: Ten artefakt zadaje wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../8ED.rst:1390
 msgid ""
@@ -3822,6 +3891,8 @@ msgid ""
 "Whenever a player casts a red spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czerwony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../8ED.rst:1398
 msgid ""
@@ -3869,7 +3940,7 @@ msgstr ""
 
 #: ../../8ED.rst:1409
 msgid "|mana_3|: Patagia Golem gains flying until end of turn."
-msgstr ""
+msgstr "|mana_3|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../8ED.rst:1418
 msgid ""
@@ -3880,15 +3951,16 @@ msgstr ""
 
 #: ../../8ED.rst:1413
 msgid "Phyrexian Colossus doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../8ED.rst:1415
 msgid "Pay 8 life: Untap Phyrexian Colossus."
-msgstr ""
+msgstr "Zapłać 8 żyć: Odkręć tego stwora."
 
 #: ../../8ED.rst:1417
 msgid "Phyrexian Colossus can't be blocked except by three or more creatures."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez co najmniej trzy stwory."
 
 #: ../../8ED.rst:1420
 msgid ""
@@ -3909,6 +3981,8 @@ msgid ""
 "|mana_6|, |tap|: Search your library for a card and put that card into your "
 "hand. Then shuffle your library."
 msgstr ""
+"|mana_6|, |tap|: Wyszukaj kartę w twojej bibliotece i umieść ją w twojej "
+"ręce, po czym przetasuj."
 
 #: ../../8ED.rst:1430
 msgid ""
@@ -3933,6 +4007,8 @@ msgid ""
 "|mana_5|, |tap|: Return target enchantment card from your graveyard to your "
 "hand."
 msgstr ""
+"|mana_5|, |tap|: Przywróć wskazaną kartę uroku z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../8ED.rst:1438
 msgid ""
@@ -3992,6 +4068,8 @@ msgid ""
 "Whenever a player casts a black spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czarny czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../8ED.rst:1456
 msgid ""
@@ -4003,6 +4081,8 @@ msgstr ""
 #: ../../8ED.rst:1455
 msgid "If a source would deal damage to you, prevent 1 of that damage."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać tobie obrażenia, zażegnaj 1 z owych "
+"obrażeń."
 
 #: ../../8ED.rst:1460
 msgid ""
@@ -4018,6 +4098,10 @@ msgid ""
 "into their hand. Otherwise, they put it into their graveyard and Vexing "
 "Arcanix deals 2 damage to them."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz nazywa kartę, po czym ujawnia wierzchnią "
+"kartę swojej biblioteki. Jeśli owa karta ma ową nazwę, ów gracz umieszcza ją "
+"w swojej ręce, w przeciwnym razie umieszcza ją w swoim cmentarzu, a ten "
+"artefakt zadaje mu 2 obrażenia."
 
 #: ../../8ED.rst:1466
 msgid ""
@@ -4038,6 +4122,8 @@ msgid ""
 "Whenever a player casts a green spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci zielony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../8ED.rst:1476
 msgid ""
@@ -4048,7 +4134,7 @@ msgstr ""
 
 #: ../../8ED.rst:1473
 msgid "Whenever City of Brass becomes tapped, it deals 1 damage to you."
-msgstr ""
+msgstr "Ilekroć ten ląd zostanie przekręcony, zadaje on tobie 1 obrażenie."
 
 #: ../../8ED.rst:1482
 msgid ""
@@ -4059,7 +4145,7 @@ msgstr ""
 
 #: ../../8ED.rst:1479
 msgid "Coastal Tower enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../8ED.rst:1481
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4074,7 +4160,7 @@ msgstr ""
 
 #: ../../8ED.rst:1485
 msgid "Elfhame Palace enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../8ED.rst:1487
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -4089,7 +4175,7 @@ msgstr ""
 
 #: ../../8ED.rst:1491
 msgid "Salt Marsh enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../8ED.rst:1493
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4104,7 +4190,7 @@ msgstr ""
 
 #: ../../8ED.rst:1497
 msgid "Shivan Oasis enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../8ED.rst:1499
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4119,7 +4205,7 @@ msgstr ""
 
 #: ../../8ED.rst:1503
 msgid "Urborg Volcano enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../8ED.rst:1505
 msgid "|tap|: Add |mana_b| or |mana_r|."

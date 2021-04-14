@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -803,7 +803,7 @@ msgstr ""
 
 #: ../../ONS.rst:301
 msgid "Creatures of the chosen type get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego typu dostają +1/+1."
 
 #: ../../ONS.rst:308
 msgid ""
@@ -3833,6 +3833,8 @@ msgid ""
 "When Elvish Pioneer enters the battlefield, you may put a basic land card "
 "from your hand onto the battlefield tapped."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę bazowego lądu z "
+"twojej ręki przekręconą na polu bitwy."
 
 #: ../../ONS.rst:1374
 msgid ""
@@ -3843,7 +3845,7 @@ msgstr ""
 
 #: ../../ONS.rst:1373
 msgid "|mana_g|, |tap|, Sacrifice Elvish Scrapper: Destroy target artifact."
-msgstr ""
+msgstr "|mana_g|, |tap|, poświęć tego stwora: Zniszcz wskazany artefakt."
 
 #: ../../ONS.rst:1378
 msgid ""

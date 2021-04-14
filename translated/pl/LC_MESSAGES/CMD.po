@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:12+0200\n"
-"PO-Revision-Date: 2021-04-14 08:50+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -960,7 +960,7 @@ msgstr ""
 
 #: ../../CMD.rst:439
 msgid "Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+1."
 
 #: ../../CMD.rst:444
 msgid ":mtgtip:`Fleshbag Marauder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cccf5f9-ec1a-4207-aaa1-69c9429ca4d3.jpg?1592713280|https://scryfall.com/card/cmd/83/fleshbag-marauder?utm_source=api>`"
@@ -1870,6 +1870,8 @@ msgstr ""
 #: ../../CMD.rst:877
 msgid "Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie kart stworów we wszystkich cmentarzach, a "
+"jej wytrzymałość jest równa owej liczbie plus 1."
 
 #: ../../CMD.rst:882
 msgid ":mtgtip:`Magus of the Vineyard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63005c92-fc0b-45dc-b488-489350527453.jpg?1592713834|https://scryfall.com/card/cmd/166/magus-of-the-vineyard?utm_source=api>`"

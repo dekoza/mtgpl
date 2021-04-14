@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -213,6 +213,8 @@ msgstr ""
 msgid ""
 "|tap|: Elite Archers deals 3 damage to target attacking or blocking creature."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu lub blokującemu stworowi 3 "
+"obrażenia."
 
 #: ../../USG.rst:74
 msgid ""
@@ -495,6 +497,8 @@ msgid ""
 "Prevent all damage that would be dealt this turn to up to two target "
 "creatures."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane w tej turze co "
+"najwyżej dwóm wskazanym stworom."
 
 #: ../../USG.rst:168
 msgid ""
@@ -1095,7 +1099,7 @@ msgstr ""
 
 #: ../../USG.rst:389
 msgid "Return all green permanents to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie zielone permanenty do rąk ich właścicieli."
 
 #: ../../USG.rst:394
 msgid ""
@@ -1831,7 +1835,7 @@ msgstr ""
 
 #: ../../USG.rst:663
 msgid "|mana_b|\\ |mana_b|, |tap|: Destroy target green creature."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego zielonego stwora."
 
 #: ../../USG.rst:668
 msgid ""
@@ -2308,7 +2312,7 @@ msgstr ""
 
 #: ../../USG.rst:839
 msgid "|mana_b|\\ |mana_b|, |tap|: Destroy target white creature."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego białego stwora."
 
 #: ../../USG.rst:846
 msgid ""
@@ -2802,10 +2806,12 @@ msgstr ""
 #: ../../USG.rst:1007
 msgid "Okk can't attack unless a creature with greater power also attacks."
 msgstr ""
+"Ten stwór nie może atakować, chyba że stwór o większej sile także atakuje."
 
 #: ../../USG.rst:1009
 msgid "Okk can't block unless a creature with greater power also blocks."
 msgstr ""
+"Ten stwór nie może blokować, chyba że stwór o większej sile także blokuje."
 
 #: ../../USG.rst:1014
 msgid ""
@@ -3384,7 +3390,7 @@ msgstr ""
 
 #: ../../USG.rst:1221
 msgid "|mana_g|, |tap|, Sacrifice Elvish Lyrist: Destroy target enchantment."
-msgstr ""
+msgstr "|mana_g|, |tap|, poświęć tego stwora: Zniszcz wskazany urok."
 
 #: ../../USG.rst:1228
 msgid ""
@@ -3734,7 +3740,7 @@ msgstr ""
 
 #: ../../USG.rst:1353
 msgid "Enchant Swamp"
-msgstr ""
+msgstr "Zaurocz Bagno"
 
 #: ../../USG.rst:1355
 msgid "When enchanted land becomes tapped, destroy it."
@@ -3745,6 +3751,8 @@ msgid ""
 "When Spreading Algae is put into a graveyard from the battlefield, return "
 "Spreading Algae to its owner's hand."
 msgstr ""
+"Kiedy ten urok trafi z pola bitwy do cmentarza, przywróć go do ręki "
+"właściciela."
 
 #: ../../USG.rst:1362
 msgid ""
@@ -3829,6 +3837,7 @@ msgid ""
 "Whenever a Forest is tapped for mana, its controller adds an additional |"
 "mana_g|."
 msgstr ""
+"Ilekroć Las jest przekręcany dla many, jego władca bierze dodatkową |mana_g|."
 
 #: ../../USG.rst:1394
 msgid ""
@@ -4166,15 +4175,16 @@ msgstr ""
 
 #: ../../USG.rst:1501
 msgid "Phyrexian Colossus doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../USG.rst:1503
 msgid "Pay 8 life: Untap Phyrexian Colossus."
-msgstr ""
+msgstr "Zapłać 8 żyć: Odkręć tego stwora."
 
 #: ../../USG.rst:1505
 msgid "Phyrexian Colossus can't be blocked except by three or more creatures."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez co najmniej trzy stwory."
 
 #: ../../USG.rst:1512
 msgid ""
@@ -4289,6 +4299,8 @@ msgstr ""
 #: ../../USG.rst:1541
 msgid "If a source would deal damage to you, prevent 1 of that damage."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać tobie obrażenia, zażegnaj 1 z owych "
+"obrażeń."
 
 #: ../../USG.rst:1546
 msgid ""

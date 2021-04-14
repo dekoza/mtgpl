@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
 "Language: pl\n"
@@ -494,6 +494,8 @@ msgid ""
 "At the beginning of each player's upkeep, Karma deals damage to that player "
 "equal to the number of Swamps they control."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ten urok zadaje owemu "
+"graczowi obrażenia równe liczbie Bagien pod jego władaniem."
 
 #: ../../4ED.rst:172
 msgid ""
@@ -1522,7 +1524,7 @@ msgstr ""
 
 #: ../../4ED.rst:541
 msgid "You control enchanted artifact."
-msgstr ""
+msgstr "Władasz zauroczonym artefaktem."
 
 #: ../../4ED.rst:548
 msgid ""
@@ -2831,7 +2833,7 @@ msgstr ""
 
 #: ../../4ED.rst:1035
 msgid "Inferno deals 6 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../4ED.rst:1040
 msgid ""
@@ -3343,7 +3345,7 @@ msgstr ""
 
 #: ../../4ED.rst:1225
 msgid "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia, umieść na nim znacznik +1/+1."
 
 #: ../../4ED.rst:1232
 msgid ""
@@ -4229,6 +4231,8 @@ msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../4ED.rst:1556
 msgid ""
@@ -4275,6 +4279,8 @@ msgid ""
 "Whenever a land is put into a graveyard from the battlefield, Dingus Egg "
 "deals 2 damage to that land's controller."
 msgstr ""
+"Ilekroć ląd zostanie umieszczony w cmentarzu z pola bitwy, ten artefakt "
+"zadaje właścicielowi owego lądu 2 obrażenia."
 
 #: ../../4ED.rst:1572
 msgid ""
@@ -4339,7 +4345,7 @@ msgstr ""
 
 #: ../../4ED.rst:1587
 msgid "|mana_2|, |tap|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../4ED.rst:1592
 msgid ""
@@ -4426,6 +4432,8 @@ msgid ""
 "Whenever a player casts a red spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czerwony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../4ED.rst:1618
 msgid ""
@@ -4826,6 +4834,8 @@ msgid ""
 "Whenever a player casts a black spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czarny czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../4ED.rst:1756
 msgid ""
@@ -4913,6 +4923,8 @@ msgid ""
 "Whenever a player casts a green spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci zielony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../4ED.rst:1784
 msgid ""

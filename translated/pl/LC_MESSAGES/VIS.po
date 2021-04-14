@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vis/pl/>\n"
 "Language: pl\n"
@@ -484,6 +484,7 @@ msgstr ""
 #: ../../VIS.rst:161
 msgid "Creatures don't untap during their controllers' untap steps."
 msgstr ""
+"Stwory nie odkręcą się w najbliższym kroku odkręcania swoich właścicieli."
 
 #: ../../VIS.rst:163
 msgid ""
@@ -1295,7 +1296,7 @@ msgstr ""
 
 #: ../../VIS.rst:453
 msgid "Hulking Cyclops can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../VIS.rst:458
 msgid ""
@@ -1490,7 +1491,7 @@ msgstr ""
 
 #: ../../VIS.rst:529
 msgid "Tremor deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../VIS.rst:536
 msgid ""

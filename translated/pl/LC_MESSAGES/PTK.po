@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:09+0200\n"
-"PO-Revision-Date: 2021-04-13 18:15+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ptk/pl/>\n"
 "Language: pl\n"
@@ -305,6 +305,8 @@ msgstr ""
 #: ../../PTK.rst:153
 msgid "If target opponent has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
+"Jeśli wskazany przeciwnik ma więcej kart w ręce niż ty, dobierz tyle kart, "
+"ile wynosi różnica."
 
 #: ../../PTK.rst:158
 msgid ":mtgtip:`Borrowing 100,000 Arrows<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96b5362a-bbca-4dc3-a320-3664609fe169.jpg?1562257054|https://scryfall.com/card/ptk/35/borrowing-100000-arrows?utm_source=api>`"
@@ -1107,6 +1109,8 @@ msgstr ""
 #: ../../PTK.rst:603
 msgid "You may have Lone Wolf assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../PTK.rst:608
 msgid ":mtgtip:`Marshaling the Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56e4df87-7908-4274-a07f-81d42be89f18.jpg?1562256539|https://scryfall.com/card/ptk/141/marshaling-the-troops?utm_source=api>`"

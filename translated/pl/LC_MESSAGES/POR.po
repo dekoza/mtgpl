@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:00+0200\n"
-"PO-Revision-Date: 2021-04-14 08:50+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/por/pl/>\n"
 "Language: pl\n"
@@ -358,6 +358,8 @@ msgstr ""
 #: ../../POR.rst:177
 msgid "If target opponent has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
+"Jeśli wskazany przeciwnik ma więcej kart w ręce niż ty, dobierz tyle kart, "
+"ile wynosi różnica."
 
 #: ../../POR.rst:182
 msgid ":mtgtip:`Baleful Stare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49fb46c8-30ae-4457-a726-6fe1ddd183d5.jpg?1562446628|https://scryfall.com/card/por/42/baleful-stare?utm_source=api>`"
@@ -1065,7 +1067,7 @@ msgstr ""
 
 #: ../../POR.rst:581
 msgid "Hulking Cyclops can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../POR.rst:586
 msgid ":mtgtip:`Hulking Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e3eead8-7e07-4463-9e67-c396d2d7931e.jpg?1562447333|https://scryfall.com/card/por/135/hulking-goblin?utm_source=api>`"
@@ -1423,6 +1425,8 @@ msgstr ""
 #: ../../POR.rst:781
 msgid "When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że poświęcisz trzy "
+"Lasy."
 
 #: ../../POR.rst:784
 msgid ":mtgtip:`Redwood Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9399667-ae2a-4b64-84dd-8f97f3e5fe79.jpg?1562448309|https://scryfall.com/card/por/183/redwood-treefolk?utm_source=api>`"

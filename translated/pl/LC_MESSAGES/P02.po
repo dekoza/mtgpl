@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:09+0200\n"
-"PO-Revision-Date: 2021-04-14 08:50+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/p02/pl/>\n"
 "Language: pl\n"
@@ -735,7 +735,7 @@ msgstr ""
 
 #: ../../P02.rst:391
 msgid "When Vampiric Spirit enters the battlefield, you lose 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 4 życia."
 
 #: ../../P02.rst:396
 msgid ":mtgtip:`Blaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3940d0ca-0ca2-4446-9330-a554c3e89824.jpg?1562908488|https://scryfall.com/card/p02/91/blaze?utm_source=api>`"
@@ -796,7 +796,7 @@ msgstr ""
 
 #: ../../P02.rst:425
 msgid "Goblin Glider can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../P02.rst:430
 msgid ":mtgtip:`Goblin Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f26f34db-732c-43d4-a6ef-e170538c0235.jpg?1595438170|https://scryfall.com/card/p02/99/goblin-lore?utm_source=api>`"
@@ -955,7 +955,7 @@ msgstr ""
 
 #: ../../P02.rst:505
 msgid "Tremor deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../P02.rst:510
 msgid ":mtgtip:`Volcanic Hammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58c0489d-b073-4ad4-b044-447fcc865b6c.jpg?1562915903|https://scryfall.com/card/p02/119/volcanic-hammer?utm_source=api>`"
@@ -1052,6 +1052,8 @@ msgstr ""
 #: ../../P02.rst:559
 msgid "You may have Lone Wolf assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../P02.rst:564
 msgid ":mtgtip:`Lynx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e8648e1-bc40-4eff-ad7b-ab0b62a47570.jpg?1562905917|https://scryfall.com/card/p02/132/lynx?utm_source=api>`"

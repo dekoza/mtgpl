@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
 "Language: pl\n"
@@ -1368,7 +1368,7 @@ msgstr "Obronność"
 
 #: ../../WTH.rst:493
 msgid "When Cinder Wall blocks, destroy it at end of combat."
-msgstr ""
+msgstr "Kiedy ten stwór zablokuje, zniszcz go na końcu potyczki."
 
 #: ../../WTH.rst:498
 msgid ""
@@ -1591,7 +1591,7 @@ msgstr "Pośpiech"
 
 #: ../../WTH.rst:565
 msgid "When Lava Hounds enters the battlefield, it deals 4 damage to you."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zadaje on tobie 4 obrażenia."
 
 #: ../../WTH.rst:570
 msgid ""
@@ -1783,6 +1783,9 @@ msgid ""
 "a creature card, put it onto the battlefield. Otherwise, put it into your "
 "graveyard."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|: Ujawnij wierzchnią kartę twojej biblioteki. "
+"Jeśli to karta stwora, umieść ją na polu bitwy. W przeciwnym razie umieść ją "
+"w twoim cmentarzu."
 
 #: ../../WTH.rst:640
 msgid ""

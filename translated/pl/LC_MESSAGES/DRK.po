@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/drk/pl/>\n"
 "Language: pl\n"
@@ -1068,7 +1068,7 @@ msgstr ""
 
 #: ../../DRK.rst:373
 msgid "Inferno deals 6 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../DRK.rst:378
 msgid ""
@@ -1580,6 +1580,8 @@ msgid ""
 "|mana_5|, |tap|: Return target enchantment card from your graveyard to your "
 "hand."
 msgstr ""
+"|mana_5|, |tap|: Przywróć wskazaną kartę uroku z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../DRK.rst:542
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:50+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/7ed/pl/>\n"
 "Language: pl\n"
@@ -227,6 +227,8 @@ msgstr ""
 msgid ""
 "|tap|: Elite Archers deals 3 damage to target attacking or blocking creature."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu lub blokującemu stworowi 3 "
+"obrażenia."
 
 #: ../../7ED.rst:74
 msgid ""
@@ -492,7 +494,7 @@ msgstr ""
 
 #: ../../7ED.rst:161
 msgid "Wall creatures can attack as though they didn't have defender."
-msgstr ""
+msgstr "Ściany mogą atakować jakby nie miały obronności."
 
 #: ../../7ED.rst:166
 msgid ""
@@ -544,7 +546,7 @@ msgstr ""
 
 #: ../../7ED.rst:177
 msgid "Whenever an opponent taps a Mountain for mana, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik przekręci Górę dla many, możesz zyskać 1 życie."
 
 #: ../../7ED.rst:182
 msgid ""
@@ -993,7 +995,7 @@ msgstr ""
 
 #: ../../7ED.rst:359
 msgid "Return all green permanents to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie zielone permanenty do rąk ich właścicieli."
 
 #: ../../7ED.rst:362
 msgid ""
@@ -1229,7 +1231,7 @@ msgstr "Zaurocz artefakt"
 
 #: ../../7ED.rst:445
 msgid "You control enchanted artifact."
-msgstr ""
+msgstr "Władasz zauroczonym artefaktem."
 
 #: ../../7ED.rst:450
 msgid ""
@@ -1620,7 +1622,7 @@ msgstr ""
 
 #: ../../7ED.rst:591
 msgid "|mana_b|\\ |mana_b|, |tap|: Destroy target green creature."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego zielonego stwora."
 
 #: ../../7ED.rst:598
 msgid ""
@@ -1646,7 +1648,7 @@ msgstr ""
 
 #: ../../7ED.rst:603
 msgid "Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+1."
 
 #: ../../7ED.rst:610
 msgid ""
@@ -2083,7 +2085,7 @@ msgstr ""
 
 #: ../../7ED.rst:765
 msgid "|mana_b|\\ |mana_b|, |tap|: Destroy target white creature."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego białego stwora."
 
 #: ../../7ED.rst:770
 msgid ""
@@ -2152,6 +2154,8 @@ msgid ""
 "|tap|, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the "
 "sacrificed creature's power to any target."
 msgstr ""
+"|tap|, poświęć stwora: Niniejszy stwór zadaje wskazanemu celowi obrażenia "
+"równe sile poświęconego stwora."
 
 #: ../../7ED.rst:794
 msgid ""
@@ -2312,7 +2316,7 @@ msgstr ""
 
 #: ../../7ED.rst:845
 msgid "Goblin Glider can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../7ED.rst:850
 msgid ""
@@ -2421,7 +2425,7 @@ msgstr ""
 
 #: ../../7ED.rst:883
 msgid "Inferno deals 6 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../7ED.rst:888
 msgid ""
@@ -2443,7 +2447,7 @@ msgstr ""
 
 #: ../../7ED.rst:891
 msgid "Lightning Blast deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../7ED.rst:896
 msgid ""
@@ -2490,10 +2494,12 @@ msgstr ""
 #: ../../7ED.rst:907
 msgid "Okk can't attack unless a creature with greater power also attacks."
 msgstr ""
+"Ten stwór nie może atakować, chyba że stwór o większej sile także atakuje."
 
 #: ../../7ED.rst:909
 msgid "Okk can't block unless a creature with greater power also blocks."
 msgstr ""
+"Ten stwór nie może blokować, chyba że stwór o większej sile także blokuje."
 
 #: ../../7ED.rst:914
 msgid ""
@@ -2744,7 +2750,7 @@ msgstr ""
 
 #: ../../7ED.rst:999
 msgid "Tremor deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../7ED.rst:1004
 msgid ""
@@ -2925,7 +2931,7 @@ msgstr ""
 
 #: ../../7ED.rst:1069
 msgid "|mana_g|, |tap|, Sacrifice Elvish Lyrist: Destroy target enchantment."
-msgstr ""
+msgstr "|mana_g|, |tap|, poświęć tego stwora: Zniszcz wskazany urok."
 
 #: ../../7ED.rst:1074
 msgid ""
@@ -3073,6 +3079,8 @@ msgstr ""
 msgid ""
 "You may have Lone Wolf assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../7ED.rst:1128
 msgid ""
@@ -3395,6 +3403,7 @@ msgid ""
 "Whenever a Forest is tapped for mana, its controller adds an additional |"
 "mana_g|."
 msgstr ""
+"Ilekroć Las jest przekręcany dla many, jego władca bierze dodatkową |mana_g|."
 
 #: ../../7ED.rst:1242
 msgid ""
@@ -3534,6 +3543,8 @@ msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../7ED.rst:1284
 msgid ""
@@ -3547,6 +3558,8 @@ msgid ""
 "Whenever a land is put into a graveyard from the battlefield, Dingus Egg "
 "deals 2 damage to that land's controller."
 msgstr ""
+"Ilekroć ląd zostanie umieszczony w cmentarzu z pola bitwy, ten artefakt "
+"zadaje właścicielowi owego lądu 2 obrażenia."
 
 #: ../../7ED.rst:1288
 msgid ""
@@ -3612,7 +3625,7 @@ msgstr ""
 
 #: ../../7ED.rst:1305
 msgid "|mana_2|, |tap|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../7ED.rst:1312
 msgid ""
@@ -3668,6 +3681,8 @@ msgid ""
 "Whenever a player casts a red spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czerwony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../7ED.rst:1328
 msgid ""
@@ -3778,7 +3793,7 @@ msgstr ""
 
 #: ../../7ED.rst:1363
 msgid "|mana_3|: Patagia Golem gains flying until end of turn."
-msgstr ""
+msgstr "|mana_3|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../7ED.rst:1372
 msgid ""
@@ -3789,15 +3804,16 @@ msgstr ""
 
 #: ../../7ED.rst:1367
 msgid "Phyrexian Colossus doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../7ED.rst:1369
 msgid "Pay 8 life: Untap Phyrexian Colossus."
-msgstr ""
+msgstr "Zapłać 8 żyć: Odkręć tego stwora."
 
 #: ../../7ED.rst:1371
 msgid "Phyrexian Colossus can't be blocked except by three or more creatures."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez co najmniej trzy stwory."
 
 #: ../../7ED.rst:1374
 msgid ""
@@ -3936,6 +3952,8 @@ msgid ""
 "Whenever a player casts a black spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czarny czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../7ED.rst:1426
 msgid ""
@@ -3956,6 +3974,8 @@ msgid ""
 "Whenever a player casts a green spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci zielony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../7ED.rst:1436
 msgid ""
@@ -3993,7 +4013,7 @@ msgstr ""
 
 #: ../../7ED.rst:1445
 msgid "Whenever City of Brass becomes tapped, it deals 1 damage to you."
-msgstr ""
+msgstr "Ilekroć ten ląd zostanie przekręcony, zadaje on tobie 1 obrażenie."
 
 #: ../../7ED.rst:1452
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:09+0200\n"
-"PO-Revision-Date: 2021-04-14 08:50+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/s99/pl/>\n"
 "Language: pl\n"
@@ -788,7 +788,7 @@ msgstr ""
 
 #: ../../S99.rst:429
 msgid "Goblin Glider can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../S99.rst:432
 msgid ":mtgtip:`Goblin Hero<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3ed9cd3-5e6a-4e86-b120-ff27b744311d.jpg?1614660146|https://scryfall.com/card/s99/103/goblin-hero?utm_source=api>`"
@@ -926,7 +926,7 @@ msgstr ""
 
 #: ../../S99.rst:507
 msgid "Tremor deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../S99.rst:512
 msgid ":mtgtip:`Volcanic Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d52d5ae-49b2-4bc2-a539-381192f329d4.jpg?1562874578|https://scryfall.com/card/s99/122/volcanic-dragon?utm_source=api>`"
@@ -986,6 +986,8 @@ msgstr ""
 #: ../../S99.rst:543
 msgid "You may have Lone Wolf assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../S99.rst:548
 msgid ":mtgtip:`Lynx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c962a7a-8c3b-4343-a6ef-6be1d40ac940.jpg?1562873588|https://scryfall.com/card/s99/131/lynx?utm_source=api>`"

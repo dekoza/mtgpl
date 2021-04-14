@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -625,6 +625,8 @@ msgid ""
 "At the beginning of each player's upkeep, Karma deals damage to that player "
 "equal to the number of Swamps they control."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ten urok zadaje owemu "
+"graczowi obrażenia równe liczbie Bagien pod jego władaniem."
 
 #: ../../5ED.rst:214
 msgid ""
@@ -1820,7 +1822,7 @@ msgstr "Zaurocz artefakt"
 
 #: ../../5ED.rst:645
 msgid "You control enchanted artifact."
-msgstr ""
+msgstr "Władasz zauroczonym artefaktem."
 
 #: ../../5ED.rst:652
 msgid ""
@@ -2285,7 +2287,7 @@ msgstr ""
 
 #: ../../5ED.rst:813
 msgid "Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+1."
 
 #: ../../5ED.rst:820
 msgid ""
@@ -3379,7 +3381,7 @@ msgstr ""
 
 #: ../../5ED.rst:1231
 msgid "Inferno deals 6 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../5ED.rst:1240
 msgid ""
@@ -3418,7 +3420,7 @@ msgstr ""
 
 #: ../../5ED.rst:1247
 msgid "Destroy all artifacts, creatures, and lands. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty, stwory i lądy. Nie mogą one zregenerować."
 
 #: ../../5ED.rst:1252
 msgid ""
@@ -4057,7 +4059,7 @@ msgstr ""
 
 #: ../../5ED.rst:1489
 msgid "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia, umieść na nim znacznik +1/+1."
 
 #: ../../5ED.rst:1494
 msgid ""
@@ -4208,6 +4210,8 @@ msgid ""
 "Lhurgoyf's power is equal to the number of creature cards in all graveyards "
 "and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie kart stworów we wszystkich cmentarzach, a "
+"jej wytrzymałość jest równa owej liczbie plus 1."
 
 #: ../../5ED.rst:1552
 msgid ""
@@ -4877,6 +4881,8 @@ msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../5ED.rst:1796
 msgid ""
@@ -4908,6 +4914,8 @@ msgid ""
 "Whenever a land is put into a graveyard from the battlefield, Dingus Egg "
 "deals 2 damage to that land's controller."
 msgstr ""
+"Ilekroć ląd zostanie umieszczony w cmentarzu z pola bitwy, ten artefakt "
+"zadaje właścicielowi owego lądu 2 obrażenia."
 
 #: ../../5ED.rst:1808
 msgid ""
@@ -4994,7 +5002,7 @@ msgstr ""
 
 #: ../../5ED.rst:1831
 msgid "|mana_2|, |tap|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../5ED.rst:1836
 msgid ""
@@ -5111,6 +5119,8 @@ msgid ""
 "Whenever a player casts a red spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czerwony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../5ED.rst:1872
 msgid ""
@@ -5460,6 +5470,8 @@ msgid ""
 "Whenever a player casts a black spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci czarny czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../5ED.rst:1986
 msgid ""
@@ -5542,6 +5554,8 @@ msgid ""
 "Whenever a player casts a green spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć gracz rzuci zielony czar, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, zyskaj 1 życie."
 
 #: ../../5ED.rst:2014
 msgid ""
@@ -5606,7 +5620,7 @@ msgstr ""
 
 #: ../../5ED.rst:2033
 msgid "Whenever City of Brass becomes tapped, it deals 1 damage to you."
-msgstr ""
+msgstr "Ilekroć ten ląd zostanie przekręcony, zadaje on tobie 1 obrażenie."
 
 #: ../../5ED.rst:2046
 msgid ""

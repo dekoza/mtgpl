@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -1676,10 +1676,12 @@ msgstr ""
 #: ../../ICE.rst:619
 msgid "When Wrath of Marit Lage enters the battlefield, tap all red creatures."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, przekręć wszystkie czerwone stwory."
 
 #: ../../ICE.rst:621
 msgid "Red creatures don't untap during their controllers' untap steps."
 msgstr ""
+"Czerwone stwory nie odkręcają się podczas kroków odkręcania swoich władców."
 
 #: ../../ICE.rst:628
 msgid ""
@@ -2789,7 +2791,7 @@ msgstr ""
 
 #: ../../ICE.rst:1013
 msgid "Islands don't untap during their controllers' untap steps."
-msgstr ""
+msgstr "Wyspy nie odkręcają się podczas kroków odkręcania swoich władców."
 
 #: ../../ICE.rst:1018
 msgid ""
@@ -2983,7 +2985,7 @@ msgstr ""
 
 #: ../../ICE.rst:1083
 msgid "Destroy all artifacts, creatures, and lands. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty, stwory i lądy. Nie mogą one zregenerować."
 
 #: ../../ICE.rst:1088
 msgid ""
@@ -3737,6 +3739,8 @@ msgid ""
 "Lhurgoyf's power is equal to the number of creature cards in all graveyards "
 "and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie kart stworów we wszystkich cmentarzach, a "
+"jej wytrzymałość jest równa owej liczbie plus 1."
 
 #: ../../ICE.rst:1370
 msgid ""
@@ -5038,6 +5042,10 @@ msgid ""
 "into their hand. Otherwise, they put it into their graveyard and Vexing "
 "Arcanix deals 2 damage to them."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz nazywa kartę, po czym ujawnia wierzchnią "
+"kartę swojej biblioteki. Jeśli owa karta ma ową nazwę, ów gracz umieszcza ją "
+"w swojej ręce, w przeciwnym razie umieszcza ją w swoim cmentarzu, a ten "
+"artefakt zadaje mu 2 obrażenia."
 
 #: ../../ICE.rst:1826
 msgid ""

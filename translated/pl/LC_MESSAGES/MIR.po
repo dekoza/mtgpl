@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -2724,13 +2724,15 @@ msgstr ""
 
 #: ../../MIR.rst:991
 msgid "Hammer of Bogardan deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../MIR.rst:993
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from "
 "your graveyard to your hand. Activate this ability only during your upkeep."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
+"cmentarza do twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../MIR.rst:1000
 msgid ""
@@ -3234,7 +3236,7 @@ msgstr ""
 
 #: ../../MIR.rst:1177
 msgid "|mana_g|, Sacrifice a Forest: Foratog gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|mana_g|, poświęć Las: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../MIR.rst:1182
 msgid ""
@@ -4587,7 +4589,7 @@ msgstr ""
 
 #: ../../MIR.rst:1669
 msgid "|mana_3|: Patagia Golem gains flying until end of turn."
-msgstr ""
+msgstr "|mana_3|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../MIR.rst:1674
 msgid ""
