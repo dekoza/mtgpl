@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-14 09:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,149 +61,145 @@ msgid "Dodatki poza Pionierem"
 msgstr ""
 
 #: ../../modern.rst:38
-msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |AVR_percent|"
-msgstr ""
-
-#: ../../modern.rst:39
-msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |DKA_percent|"
-msgstr ""
-
-#: ../../modern.rst:40
-msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` |ISD_percent|"
-msgstr ""
-
-#: ../../modern.rst:41
-msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |NPH_percent|"
-msgstr ""
-
-#: ../../modern.rst:42
-msgid ":mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |MBS_percent|"
-msgstr ""
-
-#: ../../modern.rst:43
-msgid ":mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |SOM_percent|"
-msgstr ""
-
-#: ../../modern.rst:44
-msgid ":mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |ROE_percent|"
-msgstr ""
-
-#: ../../modern.rst:45
-msgid ":mtgexp:`WWK` :doc:`Worldwake<WWK>` |WWK_percent|"
-msgstr ""
-
-#: ../../modern.rst:46
-msgid ":mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |ZEN_percent|"
-msgstr ""
-
-#: ../../modern.rst:47
-msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |ARB_percent|"
-msgstr ""
-
-#: ../../modern.rst:48
-msgid ":mtgexp:`CON` :doc:`Conflux<CON>` |CON_percent|"
-msgstr ""
-
-#: ../../modern.rst:49
-msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |ALA_percent|"
-msgstr ""
-
-#: ../../modern.rst:50
-msgid ":mtgexp:`EVE` :doc:`Eventide<EVE>` |EVE_percent|"
-msgstr ""
-
-#: ../../modern.rst:51
-msgid ":mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |SHM_percent|"
-msgstr ""
-
-#: ../../modern.rst:52
-msgid ":mtgexp:`MOR` :doc:`Morningtide<MOR>` |MOR_percent|"
-msgstr ""
-
-#: ../../modern.rst:53
-msgid ":mtgexp:`LRW` :doc:`Lorwyn<LRW>` |LRW_percent|"
-msgstr ""
-
-#: ../../modern.rst:54
-msgid ":mtgexp:`FUT` :doc:`Future Sight<FUT>` |FUT_percent|"
-msgstr ""
-
-#: ../../modern.rst:55
-msgid ":mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |PLC_percent|"
-msgstr ""
-
-#: ../../modern.rst:56
-msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` |TSP_percent|"
-msgstr ""
-
-#: ../../modern.rst:57
-msgid ":mtgexp:`CSP` :doc:`Coldsnap<CSP>` |CSP_percent|"
-msgstr ""
-
-#: ../../modern.rst:58
-msgid ":mtgexp:`DIS` :doc:`Dissension<DIS>` |DIS_percent|"
-msgstr ""
-
-#: ../../modern.rst:59
-msgid ":mtgexp:`GPT` :doc:`Guildpact<GPT>` |GPT_percent|"
-msgstr ""
-
-#: ../../modern.rst:60
-msgid ":mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |RAV_percent|"
-msgstr ""
-
-#: ../../modern.rst:61
-msgid ":mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |SOK_percent|"
-msgstr ""
-
-#: ../../modern.rst:62
-msgid ":mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |BOK_percent|"
-msgstr ""
-
-#: ../../modern.rst:63
-msgid ":mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |CHK_percent|"
-msgstr ""
-
-#: ../../modern.rst:64
-msgid ":mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |5DN_percent|"
-msgstr ""
-
-#: ../../modern.rst:65
-msgid ":mtgexp:`DST` :doc:`Darksteel<DST>` |DST_percent|"
-msgstr ""
-
-#: ../../modern.rst:66
-msgid ":mtgexp:`MRD` :doc:`Mirrodin<MRD>` |MRD_percent|"
-msgstr ""
-
-#: ../../modern.rst:70
-msgid "Edycje bazowe"
-msgstr ""
-
-#: ../../modern.rst:72
 msgid ":mtgexp:`M13` :doc:`Magic 2013<M13>` |M13_percent|"
 msgstr ""
 
-#: ../../modern.rst:73
+#: ../../modern.rst:39
+msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |AVR_percent|"
+msgstr ""
+
+#: ../../modern.rst:40
+msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |DKA_percent|"
+msgstr ""
+
+#: ../../modern.rst:41
+msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` |ISD_percent|"
+msgstr ""
+
+#: ../../modern.rst:42
 msgid ":mtgexp:`M12` :doc:`Magic 2012<M12>` |M12_percent|"
 msgstr ""
 
-#: ../../modern.rst:74
+#: ../../modern.rst:43
+msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |NPH_percent|"
+msgstr ""
+
+#: ../../modern.rst:44
+msgid ":mtgexp:`MBS` :doc:`Mirrodin Besieged<MBS>` |MBS_percent|"
+msgstr ""
+
+#: ../../modern.rst:45
+msgid ":mtgexp:`SOM` :doc:`Scars of Mirrodin<SOM>` |SOM_percent|"
+msgstr ""
+
+#: ../../modern.rst:46
 msgid ":mtgexp:`M11` :doc:`Magic 2011<M11>` |M11_percent|"
 msgstr ""
 
-#: ../../modern.rst:75
+#: ../../modern.rst:47
+msgid ":mtgexp:`ROE` :doc:`Rise of the Eldrazi<ROE>` |ROE_percent|"
+msgstr ""
+
+#: ../../modern.rst:48
+msgid ":mtgexp:`WWK` :doc:`Worldwake<WWK>` |WWK_percent|"
+msgstr ""
+
+#: ../../modern.rst:49
+msgid ":mtgexp:`ZEN` :doc:`Zendikar<ZEN>` |ZEN_percent|"
+msgstr ""
+
+#: ../../modern.rst:50
 msgid ":mtgexp:`M10` :doc:`Magic 2010<M10>` |M10_percent|"
 msgstr ""
 
-#: ../../modern.rst:76
+#: ../../modern.rst:51
+msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` |ARB_percent|"
+msgstr ""
+
+#: ../../modern.rst:52
+msgid ":mtgexp:`CON` :doc:`Conflux<CON>` |CON_percent|"
+msgstr ""
+
+#: ../../modern.rst:53
+msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` |ALA_percent|"
+msgstr ""
+
+#: ../../modern.rst:54
+msgid ":mtgexp:`EVE` :doc:`Eventide<EVE>` |EVE_percent|"
+msgstr ""
+
+#: ../../modern.rst:55
+msgid ":mtgexp:`SHM` :doc:`Shadowmoor<SHM>` |SHM_percent|"
+msgstr ""
+
+#: ../../modern.rst:56
+msgid ":mtgexp:`MOR` :doc:`Morningtide<MOR>` |MOR_percent|"
+msgstr ""
+
+#: ../../modern.rst:57
+msgid ":mtgexp:`LRW` :doc:`Lorwyn<LRW>` |LRW_percent|"
+msgstr ""
+
+#: ../../modern.rst:58
 msgid ":mtgexp:`10E` :doc:`Tenth Edition<10E>` |10E_percent|"
 msgstr ""
 
-#: ../../modern.rst:77
+#: ../../modern.rst:59
+msgid ":mtgexp:`FUT` :doc:`Future Sight<FUT>` |FUT_percent|"
+msgstr ""
+
+#: ../../modern.rst:60
+msgid ":mtgexp:`PLC` :doc:`Planar Chaos<PLC>` |PLC_percent|"
+msgstr ""
+
+#: ../../modern.rst:61
+msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` |TSP_percent|"
+msgstr ""
+
+#: ../../modern.rst:62
+msgid ":mtgexp:`CSP` :doc:`Coldsnap<CSP>` |CSP_percent|"
+msgstr ""
+
+#: ../../modern.rst:63
+msgid ":mtgexp:`DIS` :doc:`Dissension<DIS>` |DIS_percent|"
+msgstr ""
+
+#: ../../modern.rst:64
+msgid ":mtgexp:`GPT` :doc:`Guildpact<GPT>` |GPT_percent|"
+msgstr ""
+
+#: ../../modern.rst:65
+msgid ":mtgexp:`RAV` :doc:`Ravnica: City of Guilds<RAV>` |RAV_percent|"
+msgstr ""
+
+#: ../../modern.rst:66
 msgid ":mtgexp:`9ED` :doc:`Ninth Edition<9ED>` |9ED_percent|"
 msgstr ""
 
-#: ../../modern.rst:78
+#: ../../modern.rst:67
+msgid ":mtgexp:`SOK` :doc:`Saviors of Kamigawa<SOK>` |SOK_percent|"
+msgstr ""
+
+#: ../../modern.rst:68
+msgid ":mtgexp:`BOK` :doc:`Betrayers of Kamigawa<BOK>` |BOK_percent|"
+msgstr ""
+
+#: ../../modern.rst:69
+msgid ":mtgexp:`CHK` :doc:`Champions of Kamigawa<CHK>` |CHK_percent|"
+msgstr ""
+
+#: ../../modern.rst:70
+msgid ":mtgexp:`5DN` :doc:`Fifth Dawn<5DN>` |5DN_percent|"
+msgstr ""
+
+#: ../../modern.rst:71
+msgid ":mtgexp:`DST` :doc:`Darksteel<DST>` |DST_percent|"
+msgstr ""
+
+#: ../../modern.rst:72
+msgid ":mtgexp:`MRD` :doc:`Mirrodin<MRD>` |MRD_percent|"
+msgstr ""
+
+#: ../../modern.rst:73
 msgid ":mtgexp:`8ED` :doc:`Eighth Edition<8ED>` |8ED_percent|"
 msgstr ""
