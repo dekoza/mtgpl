@@ -189,7 +189,7 @@
 .. |AER_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |CSP_percent| image:: images/pie25.png        
+.. |CSP_percent| image:: images/pie30.png        
 
 .. |C16_percent| image:: images/pie65.png        
 
