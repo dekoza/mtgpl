@@ -109,7 +109,7 @@
    Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 
 
-:mtgtip:`Leonin Lightscribe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a465d7b-398c-444b-9eae-331ea2513f6d.jpg?1617445160|https://scryfall.com/card/stx/20/leonin-lightscribe?utm_source=api>`
+:mtgtip:`Leonin Lightscribe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a465d7b-398c-444b-9eae-331ea2513f6d.jpg?1618272917|https://scryfall.com/card/stx/20/leonin-lightscribe?utm_source=api>`
    Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures you control get +1/+1 until end of turn,
 
 
@@ -119,7 +119,7 @@
    |mana_0|: You may cast target instant or sorcery card from your graveyard this turn. If that spell doesn't target a creature you control, it costs |mana_8| more to cast this way. If that spell would be put into your graveyard, exile it instead. Activate only once each turn. (You still pay the spell's costs. Timing rules for the spell still apply.)
 
 
-:mtgtip:`Pilgrim of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c86714f5-e909-413f-8eb6-99dbea4d1897.jpg?1617410647|https://scryfall.com/card/stx/22/pilgrim-of-the-ages?utm_source=api>`
+:mtgtip:`Pilgrim of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c86714f5-e909-413f-8eb6-99dbea4d1897.jpg?1618273639|https://scryfall.com/card/stx/22/pilgrim-of-the-ages?utm_source=api>`
    When Pilgrim of the Ages enters the battlefield, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
 
    |mana_6|: Return Pilgrim of the Ages from your graveyard to your hand.
@@ -429,7 +429,7 @@
    |mana_1|, Sacrifice another creature: Put a +1/+1 counter on target creature. Activate only as a sorcery.
 
 
-:mtgtip:`Oriq Loremage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25214a91-2f64-46ee-9834-7fbf684800f7.jpg?1617447400|https://scryfall.com/card/stx/80/oriq-loremage?utm_source=api>`
+:mtgtip:`Oriq Loremage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25214a91-2f64-46ee-9834-7fbf684800f7.jpg?1618273560|https://scryfall.com/card/stx/80/oriq-loremage?utm_source=api>`
    |tap|: Search your library for a card, put it into your graveyard, then shuffle. If it's an instant or sorcery card, put a +1/+1 counter on Oriq Loremage.
 
 
@@ -469,7 +469,7 @@
    When Promising Duskmage dies, if it had a +1/+1 counter on it, draw a card.
 
 
-:mtgtip:`Sedgemoor Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e900c1eb-968b-4046-b824-c167a7a5b682.jpg?1617473942|https://scryfall.com/card/stx/86/sedgemoor-witch?utm_source=api>`
+:mtgtip:`Sedgemoor Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e900c1eb-968b-4046-b824-c167a7a5b682.jpg?1618253342|https://scryfall.com/card/stx/86/sedgemoor-witch?utm_source=api>`
    Menace
 
    Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
@@ -911,7 +911,7 @@
    Whenever you attack, untap each creature you control, then tap any number of creatures you control.
 
 
-:mtgtip:`Rowan, Scholar of Sparks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1617453294|https://scryfall.com/card/stx/156/rowan-scholar-of-sparks-will-scholar-of-frost?utm_source=api>`
+:mtgtip:`Rowan, Scholar of Sparks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1618326108|https://scryfall.com/card/stx/156/rowan-scholar-of-sparks-will-scholar-of-frost?utm_source=api>`
    Instant and sorcery spells you cast cost |mana_1| less to cast.
 
    +1: Rowan, Scholar of Sparks deals 1 damage to each opponent. If you've drawn three or more cards this turn, she deals 3 damage to each opponent instead.
@@ -919,14 +919,14 @@
    −4: You get an emblem with "Whenever you cast an instant or sorcery spell, you may pay |mana_2|. If you do, copy that spell. You may choose new targets for the copy."
 
 
-:mtgtip:`Will, Scholar of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1617453294|https://scryfall.com/card/stx/156/rowan-scholar-of-sparks-will-scholar-of-frost?utm_source=api>`
+:mtgtip:`Will, Scholar of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18c16872-3675-4a4d-962a-2e17ad6f3886.jpg?1618326108|https://scryfall.com/card/stx/156/rowan-scholar-of-sparks-will-scholar-of-frost?utm_source=api>`
    Instant and sorcery spells you cast cost |mana_1| less to cast.
 
    +1: Up to one target creature has base power and toughness 0/2 until your next turn.
 
    −3: Draw two cards.
 
-   −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental Creature token.
+   −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental creature token.
 
 
 :mtgtip:`Selfless Glyphweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1617400731|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
@@ -1005,7 +1005,7 @@
    Whenever you gain life, put a +1/+1 counter on Blood Researcher.
 
 
-:mtgtip:`Blot Out the Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1617450308|https://scryfall.com/card/stx/167/blot-out-the-sky?utm_source=api>`
+:mtgtip:`Blot Out the Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1618273045|https://scryfall.com/card/stx/167/blot-out-the-sky?utm_source=api>`
    Create X tapped 2/1 white and black Inkling creature tokens with flying. If X is 6 or more, destroy all noncreature, nonland permanents.
 
 
