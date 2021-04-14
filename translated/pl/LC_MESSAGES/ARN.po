@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:15+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arn/pl/>\n"
 "Language: pl\n"
@@ -643,6 +643,8 @@ msgid ""
 "When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz na początku najbliższego kroku końcowego żeton "
+"czerwonego stwora Ptak 4/4 z lataniem."
 
 #: ../../ARN.rst:220
 msgid ""
@@ -834,7 +836,7 @@ msgstr ""
 
 #: ../../ARN.rst:277
 msgid "|mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target."
-msgstr ""
+msgstr "|mana_8|, |tap|: Ten artefakt zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../ARN.rst:282
 msgid ""

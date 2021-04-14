@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:59+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sth/pl/>\n"
 "Language: pl\n"
@@ -1149,6 +1149,8 @@ msgid ""
 "Flame Wave deals 4 damage to target player or planeswalker and each creature "
 "that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi oraz każdemu stworowi pod "
+"władaniem owego gracza lub władcy owego wędrowca po 4 obrażenia."
 
 #: ../../STH.rst:420
 msgid ""
@@ -1209,7 +1211,7 @@ msgstr ""
 
 #: ../../STH.rst:441
 msgid "|mana_r|: Flowstone Shambler gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../STH.rst:448
 msgid ""
@@ -1354,12 +1356,16 @@ msgstr ""
 msgid ""
 "Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying."
 msgstr ""
+"Poświęć tego stwora: Zadaje on każdemu stworowi nie mającemu latania po 2 "
+"obrażenia."
 
 #: ../../STH.rst:495
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Return Shard Phoenix from your graveyard to "
 "your hand. Activate this ability only during your upkeep."
 msgstr ""
+"|mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../STH.rst:500
 msgid ""

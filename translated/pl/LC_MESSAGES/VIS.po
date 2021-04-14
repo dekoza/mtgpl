@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 15:58+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vis/pl/>\n"
 "Language: pl\n"
@@ -1512,6 +1512,8 @@ msgid ""
 "At the beginning of the end step, return Viashino Sandstalker to its owner's "
 "hand. (Return it only if it's on the battlefield.)"
 msgstr ""
+"Na początku kroku końcowego, przywróć tego stwora do ręki właściciela. ("
+"Przywróć go tylko jeśli jest na polu bitwy.)"
 
 #: ../../VIS.rst:540
 msgid ""
@@ -1838,7 +1840,7 @@ msgstr ""
 
 #: ../../VIS.rst:655
 msgid "You may play up to three additional lands this turn."
-msgstr ""
+msgstr "Możesz zagrać do trzech dodatkowych lądów w tej turze."
 
 #: ../../VIS.rst:660
 msgid ""
@@ -2313,6 +2315,9 @@ msgid ""
 "their hand on the bottom of their library in any order, then draws that many "
 "cards."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz umieszcza karty ze "
+"swojej ręki dowolnie na spodzie swojej biblioteki, po czym dobiera tyle samo "
+"kart."
 
 #: ../../VIS.rst:836
 msgid ""

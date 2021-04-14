@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:59+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tmp/pl/>\n"
 "Language: pl\n"
@@ -2665,6 +2665,8 @@ msgid ""
 "When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice "
 "two Mountains."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że poświęcisz dwie "
+"Góry."
 
 #: ../../TMP.rst:988
 msgid ""
@@ -2711,7 +2713,7 @@ msgstr ""
 
 #: ../../TMP.rst:997
 msgid "|mana_r|: Sandstone Warrior gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TMP.rst:1004
 msgid ""
@@ -3252,7 +3254,7 @@ msgstr ""
 
 #: ../../TMP.rst:1189
 msgid "Needle Storm deals 4 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi mającemu latanie po 4 obrażenia."
 
 #: ../../TMP.rst:1196
 msgid ""
@@ -3717,16 +3719,20 @@ msgid ""
 "As Booby Trap enters the battlefield, choose an opponent and a card name "
 "other than a basic land card name."
 msgstr ""
+"Umieszczając ten artefakt na polu bitwy wybierz przeciwnika i nazwij kartę "
+"inną niż bazowy ląd."
 
 #: ../../TMP.rst:1361
 msgid "The chosen player reveals each card they draw."
-msgstr ""
+msgstr "Wybrany gracz ujawnia każdą dobieraną kartę."
 
 #: ../../TMP.rst:1363
 msgid ""
 "When the chosen player draws a card with the chosen name, sacrifice Booby "
 "Trap. If you do, Booby Trap deals 10 damage to that player."
 msgstr ""
+"Kiedy wybrany gracz dobierze nazwaną kartę, poświęć ten artefakt. Jeśli tak "
+"zrobisz, zadaje on owemu graczowi 10 obrażeń."
 
 #: ../../TMP.rst:1368
 msgid ""

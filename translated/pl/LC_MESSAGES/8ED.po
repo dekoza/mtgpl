@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:59+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -1505,6 +1505,9 @@ msgid ""
 "may pay 2 life. If a player does, put that card into its owner's graveyard. "
 "Otherwise, that player draws a card."
 msgstr ""
+"Jeśli gracz miałby dobrać kartę, zamiast tego ujawnia ją. Następnie "
+"którykolwiek inny gracz może zapłacić 2 życia. Jeśli gracz tak zrobi, umieść "
+"ową kartę w cmentarzu właściciela. W przeciwnym razie ów gracz dobiera kartę."
 
 #: ../../8ED.rst:570
 msgid ""
@@ -2357,7 +2360,7 @@ msgstr ""
 
 #: ../../8ED.rst:871
 msgid "Destroy all Plains."
-msgstr ""
+msgstr "Zniszcz wszystkie Równiny."
 
 #: ../../8ED.rst:876
 msgid ""
@@ -2555,6 +2558,9 @@ msgid ""
 "player whose coin comes up tails. Repeat this process until both players' "
 "coins come up heads on the same flip."
 msgstr ""
+"Ty i wskazany przeciwnik wykonujecie rzut monetą każdy. Ten czar zadaje 1 "
+"obrażenie graczowi, który wyrzucił reszkę. Powtarzaj ten proces do czasu aż "
+"obaj gracze uzyskają orła w tym samym rzucie."
 
 #: ../../8ED.rst:948
 msgid ""
@@ -2566,7 +2572,7 @@ msgstr ""
 #: ../../8ED.rst:947
 msgid ""
 "Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci czar, ten stwór dostaje do końca tury +2/+2."
 
 #: ../../8ED.rst:954
 msgid ""
@@ -2592,7 +2598,7 @@ msgstr ""
 
 #: ../../8ED.rst:957
 msgid "Ogre Taskmaster can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../8ED.rst:964
 msgid ""
@@ -2689,6 +2695,8 @@ msgid ""
 "Enchanted creature has first strike. (It deals combat damage before "
 "creatures without first strike.)"
 msgstr ""
+"Zauroczony stwór ma pierwszy cios. (Zadaje obrażenia bojowe przed stworami "
+"bez pierwszego ciosu.)"
 
 #: ../../8ED.rst:998
 msgid ""
@@ -2728,6 +2736,8 @@ msgid ""
 "When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz na początku najbliższego kroku końcowego żeton "
+"czerwonego stwora Ptak 4/4 z lataniem."
 
 #: ../../8ED.rst:1010
 msgid ""
@@ -2899,6 +2909,8 @@ msgid ""
 "At the beginning of the end step, return Viashino Sandstalker to its owner's "
 "hand. (Return it only if it's on the battlefield.)"
 msgstr ""
+"Na początku kroku końcowego, przywróć tego stwora do ręki właściciela. ("
+"Przywróć go tylko jeśli jest na polu bitwy.)"
 
 #: ../../8ED.rst:1076
 msgid ""
@@ -2909,7 +2921,7 @@ msgstr ""
 
 #: ../../8ED.rst:1075
 msgid "Volcanic Hammer deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../8ED.rst:1080
 msgid ""
@@ -3252,6 +3264,8 @@ msgid ""
 "Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end "
 "of turn."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór dostaje do końca "
+"tury +1/+1."
 
 #: ../../8ED.rst:1208
 msgid ""
@@ -3287,7 +3301,7 @@ msgstr ""
 msgid ""
 "Maro's power and toughness are each equal to the number of cards in your "
 "hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../8ED.rst:1222
 msgid ""
@@ -3338,7 +3352,7 @@ msgstr ""
 
 #: ../../8ED.rst:1237
 msgid "All lands become 2/2 creatures until end of turn. They're still lands."
-msgstr ""
+msgstr "Wszystkie lądy stają się do końca tury stworami 2/2. Nadal są lądami."
 
 #: ../../8ED.rst:1242
 msgid ""
@@ -3596,6 +3610,8 @@ msgid ""
 "When Wood Elves enters the battlefield, search your library for a Forest "
 "card and put that card onto the battlefield. Then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"Lasu i umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../8ED.rst:1334
 msgid ""
@@ -3618,7 +3634,7 @@ msgstr ""
 
 #: ../../8ED.rst:1337
 msgid "|mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target."
-msgstr ""
+msgstr "|mana_8|, |tap|: Ten artefakt zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../8ED.rst:1342
 msgid ""
@@ -3632,6 +3648,7 @@ msgid ""
 "Beast of Burden's power and toughness are each equal to the number of "
 "creatures on the battlefield."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów na polu bitwy."
 
 #: ../../8ED.rst:1350
 msgid ""
@@ -3697,6 +3714,8 @@ msgstr ""
 msgid ""
 "Each spell costs |mana_3| more to cast except during its controller's turn."
 msgstr ""
+"Rzucenie każdego czaru kosztuje o |mana_3| więcej, chyba że podczas tury "
+"rzucającego."
 
 #: ../../8ED.rst:1366
 msgid ""
@@ -3723,6 +3742,8 @@ msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate this ability only "
 "during your turn."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz odrzuca kartę. Możesz aktywować tylko w "
+"twojej turze."
 
 #: ../../8ED.rst:1374
 msgid ""
@@ -3955,6 +3976,9 @@ msgid ""
 "their hand on the bottom of their library in any order, then draws that many "
 "cards."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz umieszcza karty ze "
+"swojej ręki dowolnie na spodzie swojej biblioteki, po czym dobiera tyle samo "
+"kart."
 
 #: ../../8ED.rst:1452
 msgid ""

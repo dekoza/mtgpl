@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:59+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -2170,7 +2170,7 @@ msgstr ""
 
 #: ../../3ED.rst:769
 msgid "Destroy all Plains."
-msgstr ""
+msgstr "Zniszcz wszystkie Równiny."
 
 #: ../../3ED.rst:774
 msgid ""
@@ -2714,6 +2714,8 @@ msgid ""
 "At the beginning of your upkeep, Force of Nature deals 8 damage to you "
 "unless you pay |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje tobie 8 obrażeń, "
+"chyba że zapłacisz |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../3ED.rst:980
 msgid ""
@@ -3102,6 +3104,8 @@ msgid ""
 "Enchanted creature gets +0/+2 and has reach. (It can block creatures with "
 "flying.)"
 msgstr ""
+"Zauroczony stwór dostaje +0/+2 i ma zasięg. (Może blokować stwory mające "
+"latanie.)"
 
 #: ../../3ED.rst:1136
 msgid ""
@@ -3141,7 +3145,7 @@ msgstr ""
 
 #: ../../3ED.rst:1143
 msgid "|mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target."
-msgstr ""
+msgstr "|mana_8|, |tap|: Ten artefakt zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../3ED.rst:1148
 msgid ""
@@ -3340,6 +3344,8 @@ msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate this ability only "
 "during your turn."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz odrzuca kartę. Możesz aktywować tylko w "
+"twojej turze."
 
 #: ../../3ED.rst:1216
 msgid ""

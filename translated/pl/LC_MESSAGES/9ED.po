@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-13 18:59+0000\n"
+"PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -1535,6 +1535,9 @@ msgid ""
 "may pay 2 life. If a player does, put that card into its owner's graveyard. "
 "Otherwise, that player draws a card."
 msgstr ""
+"Jeśli gracz miałby dobrać kartę, zamiast tego ujawnia ją. Następnie "
+"którykolwiek inny gracz może zapłacić 2 życia. Jeśli gracz tak zrobi, umieść "
+"ową kartę w cmentarzu właściciela. W przeciwnym razie ów gracz dobiera kartę."
 
 #: ../../9ED.rst:546
 msgid ""
@@ -2403,6 +2406,8 @@ msgid ""
 "Flame Wave deals 4 damage to target player or planeswalker and each creature "
 "that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi oraz każdemu stworowi pod "
+"władaniem owego gracza lub władcy owego wędrowca po 4 obrażenia."
 
 #: ../../9ED.rst:854
 msgid ""
@@ -2413,7 +2418,7 @@ msgstr ""
 
 #: ../../9ED.rst:853
 msgid "Destroy all Plains."
-msgstr ""
+msgstr "Zniszcz wszystkie Równiny."
 
 #: ../../9ED.rst:858
 msgid ""
@@ -2424,7 +2429,7 @@ msgstr ""
 
 #: ../../9ED.rst:857
 msgid "|mana_r|: Flowstone Crusher gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../9ED.rst:862
 msgid ""
@@ -2435,7 +2440,7 @@ msgstr ""
 
 #: ../../9ED.rst:861
 msgid "|mana_r|: Flowstone Shambler gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../9ED.rst:866
 msgid ""
@@ -2460,14 +2465,16 @@ msgid ""
 "At the beginning of your upkeep, Form of the Dragon deals 5 damage to any "
 "target."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten urok zadaje wskazanemu celowi 5 "
+"obrażeń."
 
 #: ../../9ED.rst:871
 msgid "At the beginning of each end step, your life total becomes 5."
-msgstr ""
+msgstr "Na początku każdego kroku końcowego liczba twoich żyć wynosi 5."
 
 #: ../../9ED.rst:873
 msgid "Creatures without flying can't attack you."
-msgstr ""
+msgstr "Stwory nie mające latania nie mogą cię atakować."
 
 #: ../../9ED.rst:878
 msgid ""
@@ -2600,6 +2607,8 @@ msgid ""
 "|tap|: Karplusan Yeti deals damage equal to its power to target creature. "
 "That creature deals damage equal to its power to Karplusan Yeti."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu stworowi obrażenia równe swojej sile. Ów "
+"stwór zadaje obrażenia równe swojej sile niniejszemu stworowi."
 
 #: ../../9ED.rst:924
 msgid ""
@@ -2642,6 +2651,8 @@ msgid ""
 "Magnivore's power and toughness are each equal to the number of sorcery "
 "cards in all graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart obrzędów we "
+"wszystkich cmentarzach."
 
 #: ../../9ED.rst:942
 msgid ""
@@ -2656,6 +2667,9 @@ msgid ""
 "player whose coin comes up tails. Repeat this process until both players' "
 "coins come up heads on the same flip."
 msgstr ""
+"Ty i wskazany przeciwnik wykonujecie rzut monetą każdy. Ten czar zadaje 1 "
+"obrażenie graczowi, który wyrzucił reszkę. Powtarzaj ten proces do czasu aż "
+"obaj gracze uzyskają orła w tym samym rzucie."
 
 #: ../../9ED.rst:946
 msgid ""
@@ -2667,7 +2681,7 @@ msgstr ""
 #: ../../9ED.rst:945
 msgid ""
 "Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci czar, ten stwór dostaje do końca tury +2/+2."
 
 #: ../../9ED.rst:950
 msgid ""
@@ -2678,7 +2692,7 @@ msgstr ""
 
 #: ../../9ED.rst:949
 msgid "Ogre Taskmaster can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../9ED.rst:954
 msgid ""
@@ -2734,6 +2748,8 @@ msgid ""
 "When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice "
 "two Mountains."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że poświęcisz dwie "
+"Góry."
 
 #: ../../9ED.rst:978
 msgid ""
@@ -2747,6 +2763,8 @@ msgid ""
 "Enchanted creature has first strike. (It deals combat damage before "
 "creatures without first strike.)"
 msgstr ""
+"Zauroczony stwór ma pierwszy cios. (Zadaje obrażenia bojowe przed stworami "
+"bez pierwszego ciosu.)"
 
 #: ../../9ED.rst:982
 msgid ""
@@ -2772,7 +2790,7 @@ msgstr ""
 
 #: ../../9ED.rst:985
 msgid "Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje samotnie, dostaje do końca tury +2/+0."
 
 #: ../../9ED.rst:990
 msgid ""
@@ -2786,6 +2804,8 @@ msgid ""
 "When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz na początku najbliższego kroku końcowego żeton "
+"czerwonego stwora Ptak 4/4 z lataniem."
 
 #: ../../9ED.rst:996
 msgid ""
@@ -2796,7 +2816,7 @@ msgstr ""
 
 #: ../../9ED.rst:995
 msgid "|mana_r|: Sandstone Warrior gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../9ED.rst:1000
 msgid ""
@@ -2820,12 +2840,16 @@ msgstr ""
 msgid ""
 "Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying."
 msgstr ""
+"Poświęć tego stwora: Zadaje on każdemu stworowi nie mającemu latania po 2 "
+"obrażenia."
 
 #: ../../9ED.rst:1007
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Return Shard Phoenix from your graveyard to "
 "your hand. Activate this ability only during your upkeep."
 msgstr ""
+"|mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../9ED.rst:1012
 msgid ""
@@ -2910,7 +2934,7 @@ msgstr ""
 
 #: ../../9ED.rst:1039
 msgid "When Thundermare enters the battlefield, tap all other creatures."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie inne stwory."
 
 #: ../../9ED.rst:1046
 msgid ""
@@ -2924,6 +2948,8 @@ msgid ""
 "At the beginning of the end step, return Viashino Sandstalker to its owner's "
 "hand. (Return it only if it's on the battlefield.)"
 msgstr ""
+"Na początku kroku końcowego, przywróć tego stwora do ręki właściciela. ("
+"Przywróć go tylko jeśli jest na polu bitwy.)"
 
 #: ../../9ED.rst:1050
 msgid ""
@@ -2934,7 +2960,7 @@ msgstr ""
 
 #: ../../9ED.rst:1049
 msgid "Volcanic Hammer deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../9ED.rst:1054
 msgid ""
@@ -2948,6 +2974,8 @@ msgid ""
 "|mana_r|: Target creature gains haste until end of turn. (It can attack this "
 "turn.)"
 msgstr ""
+"|mana_r|: Wskazany stwór zyskuje do końca tury pośpiech. (Może atakować w "
+"tej turze.)"
 
 #: ../../9ED.rst:1058
 msgid ""
@@ -2960,6 +2988,8 @@ msgstr ""
 msgid ""
 "Each player sacrifices four lands. Wildfire deals 4 damage to each creature."
 msgstr ""
+"Każdy gracz poświęca po cztery lądy. Ten czar zadaje każdemu stworowi po 4 "
+"obrażenia."
 
 #: ../../9ED.rst:1062
 msgid ""
@@ -2995,6 +3025,8 @@ msgstr ""
 #: ../../9ED.rst:1069
 msgid "Each player's life total becomes the number of creatures they control."
 msgstr ""
+"Liczba żyć każdego z graczy staje się równa liczbie stworów pod władaniem "
+"owego gracza."
 
 #: ../../9ED.rst:1076
 msgid ""
@@ -3034,7 +3066,7 @@ msgstr ""
 
 #: ../../9ED.rst:1087
 msgid "Target player untaps all basic lands they control."
-msgstr ""
+msgstr "Wskazany gracz odkręca wszystkie bazowe lądy pod swoim władaniem."
 
 #: ../../9ED.rst:1092
 msgid ""
@@ -3045,7 +3077,7 @@ msgstr ""
 
 #: ../../9ED.rst:1091
 msgid "All creatures able to block Elvish Bard do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować tego stwora, robią to."
 
 #: ../../9ED.rst:1096
 msgid ""
@@ -3129,6 +3161,8 @@ msgid ""
 "At the beginning of your upkeep, Force of Nature deals 8 damage to you "
 "unless you pay |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten stwór zadaje tobie 8 obrażeń, "
+"chyba że zapłacisz |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../9ED.rst:1122
 msgid ""
@@ -3249,6 +3283,8 @@ msgid ""
 "Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end "
 "of turn."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór dostaje do końca "
+"tury +1/+1."
 
 #: ../../9ED.rst:1162
 msgid ""
@@ -3272,7 +3308,7 @@ msgstr ""
 msgid ""
 "Maro's power and toughness are each equal to the number of cards in your "
 "hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../9ED.rst:1170
 msgid ""
@@ -3294,7 +3330,7 @@ msgstr ""
 
 #: ../../9ED.rst:1173
 msgid "All lands become 2/2 creatures until end of turn. They're still lands."
-msgstr ""
+msgstr "Wszystkie lądy stają się do końca tury stworami 2/2. Nadal są lądami."
 
 #: ../../9ED.rst:1178
 msgid ""
@@ -3327,7 +3363,7 @@ msgstr ""
 
 #: ../../9ED.rst:1185
 msgid "Needle Storm deals 4 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi mającemu latanie po 4 obrażenia."
 
 #: ../../9ED.rst:1188
 msgid ""
@@ -3503,7 +3539,7 @@ msgstr ""
 
 #: ../../9ED.rst:1247
 msgid "You may play up to three additional lands this turn."
-msgstr ""
+msgstr "Możesz zagrać do trzech dodatkowych lądów w tej turze."
 
 #: ../../9ED.rst:1250
 msgid ""
@@ -3593,6 +3629,8 @@ msgid ""
 "Enchanted creature gets +0/+2 and has reach. (It can block creatures with "
 "flying.)"
 msgstr ""
+"Zauroczony stwór dostaje +0/+2 i ma zasięg. (Może blokować stwory mające "
+"latanie.)"
 
 #: ../../9ED.rst:1288
 msgid ""
@@ -3607,6 +3645,9 @@ msgid ""
 "those cards, and put them into their hand. Then each player who searched "
 "their library this way shuffles it."
 msgstr ""
+"Każdy gracz może wyszukać w swojej bibliotece do X kart stworów, ujawnić je "
+"i umieścić je w swojej ręce. Następnie każdy gracz, który przeszukał swoją "
+"bibliotekę, tasuje."
 
 #: ../../9ED.rst:1292
 msgid ""
@@ -3620,6 +3661,8 @@ msgid ""
 "When Wood Elves enters the battlefield, search your library for a Forest "
 "card and put that card onto the battlefield. Then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"Lasu i umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../9ED.rst:1296
 msgid ""
@@ -3657,7 +3700,7 @@ msgstr ""
 
 #: ../../9ED.rst:1303
 msgid "|mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target."
-msgstr ""
+msgstr "|mana_8|, |tap|: Ten artefakt zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../9ED.rst:1308
 msgid ""
@@ -3682,6 +3725,7 @@ msgid ""
 "Beast of Burden's power and toughness are each equal to the number of "
 "creatures on the battlefield."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów na polu bitwy."
 
 #: ../../9ED.rst:1320
 msgid ""
@@ -3695,16 +3739,20 @@ msgid ""
 "As Booby Trap enters the battlefield, choose an opponent and a card name "
 "other than a basic land card name."
 msgstr ""
+"Umieszczając ten artefakt na polu bitwy wybierz przeciwnika i nazwij kartę "
+"inną niż bazowy ląd."
 
 #: ../../9ED.rst:1317
 msgid "The chosen player reveals each card they draw."
-msgstr ""
+msgstr "Wybrany gracz ujawnia każdą dobieraną kartę."
 
 #: ../../9ED.rst:1319
 msgid ""
 "When the chosen player draws a card with the chosen name, sacrifice Booby "
 "Trap. If you do, Booby Trap deals 10 damage to that player."
 msgstr ""
+"Kiedy wybrany gracz dobierze nazwaną kartę, poświęć ten artefakt. Jeśli tak "
+"zrobisz, zadaje on owemu graczowi 10 obrażeń."
 
 #: ../../9ED.rst:1324
 msgid ""
@@ -3753,6 +3801,8 @@ msgstr ""
 msgid ""
 "Each spell costs |mana_3| more to cast except during its controller's turn."
 msgstr ""
+"Rzucenie każdego czaru kosztuje o |mana_3| więcej, chyba że podczas tury "
+"rzucającego."
 
 #: ../../9ED.rst:1340
 msgid ""
@@ -3777,6 +3827,8 @@ msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate this ability only "
 "during your turn."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz odrzuca kartę. Możesz aktywować tylko w "
+"twojej turze."
 
 #: ../../9ED.rst:1348
 msgid ""
@@ -3842,6 +3894,8 @@ msgid ""
 "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
 "combat. Activate this ability only during combat."
 msgstr ""
+"|mana_2|: Ten artefakt staje się do końca potyczki artefaktowym stworem "
+"Golem 3/6. Możesz aktywować tylko w trakcie potyczki."
 
 #: ../../9ED.rst:1368
 msgid ""
@@ -3855,6 +3909,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for "
 "three cards and exile them. Then that player shuffles their library."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w bibliotece wskazanego "
+"gracza trzy karty i wygnaj je. Następnie ów gracz tasuje."
 
 #: ../../9ED.rst:1372
 msgid ""
@@ -3930,6 +3986,8 @@ msgid ""
 "|mana_4|, |tap|, Discard your hand: Draw a card for each creature you "
 "control."
 msgstr ""
+"|mana_4|, |tap|, odrzuć swoją rękę: Dobierz kartę za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../9ED.rst:1402
 msgid ""
@@ -3955,6 +4013,9 @@ msgid ""
 "creature, or land during their untap step. That player can untap only "
 "permanents of the chosen type this step."
 msgstr ""
+"O ile ten artefakt jest odkręcony, każdy gracz podczas swojego kroku "
+"odkręcania wybiera typ karty spośród artefaktu, stwora albo lądu. Ów gracz "
+"może w tym kroku odkręcić tylko permanenty wybranego typu."
 
 #: ../../9ED.rst:1410
 msgid ""
@@ -3965,7 +4026,7 @@ msgstr ""
 
 #: ../../9ED.rst:1409
 msgid "|mana_1|, |tap|: You gain 1 life."
-msgstr ""
+msgstr "|mana_1|, |tap|: Zyskaj 1 życie."
 
 #: ../../9ED.rst:1414
 msgid ""
@@ -3980,6 +4041,9 @@ msgid ""
 "their hand on the bottom of their library in any order, then draws that many "
 "cards."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz umieszcza karty ze "
+"swojej ręki dowolnie na spodzie swojej biblioteki, po czym dobiera tyle samo "
+"kart."
 
 #: ../../9ED.rst:1418
 msgid ""
