@@ -2,6 +2,22 @@
 msgid ""
 msgstr ""
 
+msgctxt "DuelScene/SelectTargets_Ability"
+msgid "this ability"
+msgstr ""
+
+msgctxt "DuelScene/SelectTargets_LocalPlayer"
+msgid "Do you want to target yourself with {source}?"
+msgstr ""
+
+msgctxt "DuelScene/SelectTargets_Opponent"
+msgid "Do you want to target your opponent with {source}?"
+msgstr ""
+
+msgctxt "DuelScene/TimeoutUsed"
+msgid "TIMEOUT USED"
+msgstr ""
+
 msgctxt "DuelScene/Browsers/Assign_Damage_Text"
 msgid "Assign damage for {attacker}."
 msgstr ""
@@ -188,6 +204,10 @@ msgstr ""
 
 msgctxt "DuelScene/Browsers/Graveyard_Browser_Title"
 msgid "Graveyard"
+msgstr ""
+
+msgctxt "DuelScene/Browsers/Learn_Browser_Title"
+msgid "Learn"
 msgstr ""
 
 msgctxt "DuelScene/Browsers/Library_Browser_Title"
@@ -858,6 +878,66 @@ msgctxt "DuelScene/ClientPrompt/PayAdamant"
 msgid "Pay Adamant"
 msgstr ""
 
+msgctxt "DuelScene/ClientPrompt/Remaining_Selection_Prompt"
+msgid " ({count} remaining)"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Remove_N"
+msgid "Remove {count}"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/ResolveAll"
+msgid "Resolve All"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/ScryEffectResultsEmote"
+msgid "{source}: {topCount} top, {bottomCount} bottom."
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/ScryResultsEmote"
+msgid "Scry: {topCount} top, {bottomCount} bottom."
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Select_N_Targets"
+msgid "Select {targets} targets."
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Select_Pile_Text"
+msgid "Press Select to choose a pile"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Select_Pile_Title"
+msgid "Select a pile"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Select_Up_To_N_Targets"
+msgid "Select up to {targets} targets."
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/ShocklandSubheader"
+msgid "Select whether to pay 2 life or to enter the battlefield tapped."
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Submit_N"
+msgid "Submit {submitCount}"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/Take_Action"
+msgid "Take Action"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/TapTarget"
+msgid "Tap Target"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/UnResolveAll"
+msgid "Respond"
+msgstr ""
+
+msgctxt "DuelScene/ClientPrompt/UntapTarget"
+msgid "Untap Target"
+msgstr ""
+
 msgctxt "DuelScene/ClientPrompt/PhaseStep/PhaseStep_Attack"
 msgid "Attack"
 msgstr ""
@@ -938,66 +1018,6 @@ msgctxt "DuelScene/ClientPrompt/PhaseStep/PhaseStep_Resolve"
 msgid "Resolve"
 msgstr ""
 
-msgctxt "DuelScene/ClientPrompt/Remaining_Selection_Prompt"
-msgid " ({count} remaining)"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Remove_N"
-msgid "Remove {count}"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/ResolveAll"
-msgid "Resolve All"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/ScryEffectResultsEmote"
-msgid "{source}: {topCount} top, {bottomCount} bottom."
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/ScryResultsEmote"
-msgid "Scry: {topCount} top, {bottomCount} bottom."
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Select_N_Targets"
-msgid "Select {targets} targets."
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Select_Pile_Text"
-msgid "Press Select to choose a pile"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Select_Pile_Title"
-msgid "Select a pile"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Select_Up_To_N_Targets"
-msgid "Select up to {targets} targets."
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/ShocklandSubheader"
-msgid "Select whether to pay 2 life or to enter the battlefield tapped."
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Submit_N"
-msgid "Submit {submitCount}"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/Take_Action"
-msgid "Take Action"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/TapTarget"
-msgid "Tap Target"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/UnResolveAll"
-msgid "Respond"
-msgstr ""
-
-msgctxt "DuelScene/ClientPrompt/UntapTarget"
-msgid "Untap Target"
-msgstr ""
-
 msgctxt "DuelScene/ColorSelector/ColorPoolStatus"
 msgid "{selectionCount} selections left."
 msgstr ""
@@ -1016,14 +1036,6 @@ msgstr ""
 
 msgctxt "DuelScene/Emotes/Hello"
 msgid "Hello!"
-msgstr ""
-
-msgctxt "DuelScene/Emotes/MessagingToggle/Mute"
-msgid "Mute"
-msgstr ""
-
-msgctxt "DuelScene/Emotes/MessagingToggle/Unmute"
-msgid "Unmute"
 msgstr ""
 
 msgctxt "DuelScene/Emotes/Nice"
@@ -1048,6 +1060,14 @@ msgstr ""
 
 msgctxt "DuelScene/Emotes/YourGo"
 msgid "Your Go."
+msgstr ""
+
+msgctxt "DuelScene/Emotes/MessagingToggle/Mute"
+msgid "Mute"
+msgstr ""
+
+msgctxt "DuelScene/Emotes/MessagingToggle/Unmute"
+msgid "Unmute"
 msgstr ""
 
 msgctxt "DuelScene/EndMatch/Defeat"
@@ -1431,14 +1451,6 @@ msgctxt "DuelScene/Prompt/LeaveMatch"
 msgid "Leave Match"
 msgstr ""
 
-msgctxt "DuelScene/Prompt/ManaRider/DoesNotEmpty"
-msgid "Valid until:"
-msgstr ""
-
-msgctxt "DuelScene/Prompt/ManaRider/SpendOnly"
-msgid "Spend only on"
-msgstr ""
-
 msgctxt "DuelScene/Prompt/PromptNofCount"
 msgid "{prompt} ({n} of {count})"
 msgstr ""
@@ -1447,8 +1459,24 @@ msgctxt "DuelScene/Prompt/SacrificeConfirm"
 msgid "Sacrifice {cardTitle}"
 msgstr ""
 
+msgctxt "DuelScene/Prompt/ManaRider/DoesNotEmpty"
+msgid "Valid until:"
+msgstr ""
+
+msgctxt "DuelScene/Prompt/ManaRider/SpendOnly"
+msgid "Spend only on"
+msgstr ""
+
 msgctxt "DuelScene/RuleText/CastAsType"
 msgid "Cast as {type}"
+msgstr ""
+
+msgctxt "DuelScene/RuleText/CastingTimeOption_Student"
+msgid "Student cost paid ({cost})"
+msgstr ""
+
+msgctxt "DuelScene/RuleText/CastingTimeOption_Student_NoCost"
+msgid "Student cost paid."
 msgstr ""
 
 msgctxt "DuelScene/RuleText/CastingTimeOption_XChoice"
@@ -1519,18 +1547,6 @@ msgstr ""
 
 msgctxt "DuelScene/ScreenSpace/Prompts/WaitingForPriority"
 msgid "Waiting for Priority"
-msgstr ""
-
-msgctxt "DuelScene/SelectTargets_Ability"
-msgid "this ability"
-msgstr ""
-
-msgctxt "DuelScene/SelectTargets_LocalPlayer"
-msgid "Do you want to target yourself with {source}?"
-msgstr ""
-
-msgctxt "DuelScene/SelectTargets_Opponent"
-msgid "Do you want to target your opponent with {source}?"
 msgstr ""
 
 msgctxt "DuelScene/StartingPlayer/FreeMulligan_ButtonText"
@@ -1728,10 +1744,6 @@ msgstr ""
 
 msgctxt "DuelScene/StartingPlayer/StartingPlayer_PlayFirst"
 msgid "Play First"
-msgstr ""
-
-msgctxt "DuelScene/TimeoutUsed"
-msgid "TIMEOUT USED"
 msgstr ""
 
 msgctxt "DuelScene/Warning/AFK_Warning"

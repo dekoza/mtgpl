@@ -1169,6 +1169,26 @@ msgctxt "NPE/Click_to_Continue"
 msgid "[Click to Continue]"
 msgstr ""
 
+msgctxt "NPE/Power"
+msgid "Power"
+msgstr ""
+
+msgctxt "NPE/rewards_146"
+msgid "Ooo Shiny!"
+msgstr ""
+
+msgctxt "NPE/rewards_147"
+msgid "You've unlocked a new card."
+msgstr ""
+
+msgctxt "NPE/Touch_to_Continue"
+msgid "[Touch to Continue]"
+msgstr ""
+
+msgctxt "NPE/Toughness"
+msgid "Toughness"
+msgstr ""
+
 msgctxt "NPE/ColorChallenge/CarouselBody"
 msgid ""
 "Discover new decks or test yourself in the Color Challenge. Can you complete"
@@ -1326,16 +1346,16 @@ msgctxt "NPE/Extra/Extra15_Handheld"
 msgid "Confirm your blocks by touching the button below"
 msgstr ""
 
-msgctxt "NPE/Game01/End/ElfDefeat/Kylea_09"
-msgid "Well fought, outsider. "
-msgstr ""
-
 msgctxt "NPE/Game01/g1_142"
 msgid "Mouse-over cards to inspect their details."
 msgstr ""
 
 msgctxt "NPE/Game01/g1_142_Handheld"
 msgid "Touch and hold cards to inspect their details"
+msgstr ""
+
+msgctxt "NPE/Game01/End/ElfDefeat/Kylea_09"
+msgid "Well fought, outsider. "
 msgstr ""
 
 msgctxt "NPE/Game01/Intro/Kylea_01"
@@ -2758,6 +2778,14 @@ msgctxt "NPE/PLP/learnpage_11"
 msgid "Bye! You know where to find me."
 msgstr ""
 
+msgctxt "NPE/PLP/playmodetoggle_03"
+msgid "This will let you toggle on all events."
+msgstr ""
+
+msgctxt "NPE/PLP/playmodetoggle_04"
+msgid "Click on this to reveal expert-level events."
+msgstr ""
+
 msgctxt "NPE/PLP/MS1/Landing/Sparky_03"
 msgid "Whoa!"
 msgstr ""
@@ -2918,18 +2946,6 @@ msgctxt "NPE/PLP/MS4/Landing/Sparky_05b"
 msgid "Until we meet again, Planeswalker!"
 msgstr ""
 
-msgctxt "NPE/PLP/playmodetoggle_03"
-msgid "This will let you toggle on all events."
-msgstr ""
-
-msgctxt "NPE/PLP/playmodetoggle_04"
-msgid "Click on this to reveal expert-level events."
-msgstr ""
-
-msgctxt "NPE/Power"
-msgid "Power"
-msgstr ""
-
 msgctxt "NPE/PW/planeswalkers_171"
 msgid "No way!"
 msgstr ""
@@ -3050,14 +3066,6 @@ msgctxt "NPE/Rewards/NPE_Tutorial_MultiCards_Added"
 msgid "{number} cards added!"
 msgstr ""
 
-msgctxt "NPE/rewards_146"
-msgid "Ooo Shiny!"
-msgstr ""
-
-msgctxt "NPE/rewards_147"
-msgid "You've unlocked a new card."
-msgstr ""
-
 msgctxt "NPE/Sparky/badeffect_128"
 msgid "Uh oh."
 msgstr ""
@@ -3126,14 +3134,6 @@ msgstr ""
 
 msgctxt "NPE/Timers/32"
 msgid "(oh) That means you're running out of time."
-msgstr ""
-
-msgctxt "NPE/Touch_to_Continue"
-msgid "[Touch to Continue]"
-msgstr ""
-
-msgctxt "NPE/Toughness"
-msgid "Toughness"
 msgstr ""
 
 msgctxt "NPE/Wildcards/34"

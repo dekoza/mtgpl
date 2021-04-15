@@ -2,6 +2,18 @@
 msgid ""
 msgstr ""
 
+msgctxt "Font_Default"
+msgid "Font_Default"
+msgstr ""
+
+msgctxt "Font_Title"
+msgid "Font_Title"
+msgstr ""
+
+msgctxt "Font-LandPage-Titles"
+msgid ""
+msgstr ""
+
 msgctxt "BanAnnouncement/Ban_Announcement_Body_BanUnBan"
 msgid ""
 "The following changes to the MTG Arena banned list have taken effect:\n"
@@ -801,7 +813,7 @@ msgstr ""
 
 msgctxt "Duelscene/SettingsMenu/PrivacyPolicy/WithWhomBody"
 msgid ""
-"• Internal operations' service providers (such as Firebase, BugSnag, Unity, and Backtrace)\n"
+"• Internal operations' service providers (such as Firebase, BugSnag, Unity, ConsentCheq and Backtrace)\n"
 "• Social media platforms and third party gaming platforms (such as Facebook, Twitter, Twitch, and Steam)\n"
 "• Marketing partners and third party ad networks (such as Facebook)\n"
 "• third party analytics service providers (such as Adjust, Google analytics, Swrve and Braze)"
@@ -813,16 +825,20 @@ msgid ""
 "Policy."
 msgstr ""
 
-msgctxt "Font_Default"
-msgid "Font_Default"
+msgctxt "MainNav/NumberOfBytes"
+msgid "{quantity} bytes"
 msgstr ""
 
-msgctxt "Font_Title"
-msgid "Font_Title"
+msgctxt "MainNav/NumberOfGigabytes"
+msgid "{quantity} GB"
 msgstr ""
 
-msgctxt "Font-LandPage-Titles"
-msgid ""
+msgctxt "MainNav/NumberOfKilobytes"
+msgid "{quantity} KB"
+msgstr ""
+
+msgctxt "MainNav/NumberOfMegabytes"
+msgid "{quantity} MB"
 msgstr ""
 
 msgctxt "MainNav/Countries/Afghanistan"
@@ -1841,6 +1857,138 @@ msgctxt "MainNav/General/RareWildcard"
 msgid "Rare Wildcard"
 msgstr ""
 
+msgctxt "MainNav/General/RestartButton"
+msgid "Restart"
+msgstr ""
+
+msgctxt "MainNav/General/Simple_Number"
+msgid "{number}"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20200531"
+msgid "Arena Open - Day 2 Token"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20200802"
+msgid "Arena Open - Day 2 Token"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20201101"
+msgid "Open Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20201213"
+msgid "Open Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20210221"
+msgid "Open Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20210509"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2__20210228"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20200913"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20201025"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20201108"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20201220"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210228"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210314"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210411"
+msgid "Qualifier Weekend Day 2 Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210516"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20200531"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20200802"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20201101"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20201213"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20210221"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20210509"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20200531"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20200802"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20201101"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20201213"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20210221"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20210509"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/UncommonWildcard"
+msgid "Uncommon Wildcard"
+msgstr ""
+
+msgctxt "MainNav/General/X_Of_Y"
+msgid "{x}/{y}"
+msgstr ""
+
+msgctxt "MainNav/General/XQuantityLabel"
+msgid "x{quantity}"
+msgstr ""
+
 msgctxt "MainNav/General/Rarity/Common"
 msgid "Common"
 msgstr ""
@@ -1855,14 +2003,6 @@ msgstr ""
 
 msgctxt "MainNav/General/Rarity/Uncommon"
 msgid "Uncommon"
-msgstr ""
-
-msgctxt "MainNav/General/RestartButton"
-msgid "Restart"
-msgstr ""
-
-msgctxt "MainNav/General/Simple_Number"
-msgid "{number}"
 msgstr ""
 
 msgctxt "MainNav/General/Timers/DD_plural"
@@ -1903,110 +2043,6 @@ msgstr ""
 
 msgctxt "MainNav/General/Timers/MM_singular"
 msgid "1 Minute"
-msgstr ""
-
-msgctxt "MainNav/General/Token_OpenDay2_20200531"
-msgid "Arena Open - Day 2 Token"
-msgstr ""
-
-msgctxt "MainNav/General/Token_OpenDay2_20200802"
-msgid "Arena Open - Day 2 Token"
-msgstr ""
-
-msgctxt "MainNav/General/Token_OpenDay2_20201101"
-msgid "Open Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_OpenDay2_20201213"
-msgid "Open Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_OpenDay2_20210221"
-msgid "Open Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2__20210228"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20200913"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20201025"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20201108"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20201220"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20210228"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20210314"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_Qualifier_Day2_20210411"
-msgid "Qualifier Weekend Day 2 Qualification"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_1000_20200531"
-msgid "$1,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_1000_20200802"
-msgid "$1,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_1000_20201101"
-msgid "$1,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_1000_20201213"
-msgid "$1,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_1000_20210221"
-msgid "$1,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_2000_20200531"
-msgid "$2,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_2000_20200802"
-msgid "$2,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_2000_20201101"
-msgid "$2,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_2000_20201213"
-msgid "$2,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/Token_USD_2000_20210221"
-msgid "$2,000 USD"
-msgstr ""
-
-msgctxt "MainNav/General/UncommonWildcard"
-msgid "Uncommon Wildcard"
-msgstr ""
-
-msgctxt "MainNav/General/X_Of_Y"
-msgid "{x}/{y}"
-msgstr ""
-
-msgctxt "MainNav/General/XQuantityLabel"
-msgid "x{quantity}"
 msgstr ""
 
 msgctxt "MainNav/Login/Acccount_Registered_Email_Feedback"
@@ -2458,22 +2494,6 @@ msgctxt "MainNav/NavBar/Settings_Tooltip"
 msgid "Adjust Options"
 msgstr ""
 
-msgctxt "MainNav/NumberOfBytes"
-msgid "{quantity} bytes"
-msgstr ""
-
-msgctxt "MainNav/NumberOfGigabytes"
-msgid "{quantity} GB"
-msgstr ""
-
-msgctxt "MainNav/NumberOfKilobytes"
-msgid "{quantity} KB"
-msgstr ""
-
-msgctxt "MainNav/NumberOfMegabytes"
-msgid "{quantity} MB"
-msgstr ""
-
 msgctxt "MainNav/Popups/LoadingPanel_LoadingText"
 msgid "Loading..."
 msgstr ""
@@ -2498,16 +2518,106 @@ msgctxt "MainNav/Popups/Modal/ModalOptions_SaveAndExit"
 msgid "Save & Exit"
 msgstr ""
 
-msgctxt "MainNav/Settings/Account/VerboseLogs_Label"
-msgid "Detailed Logs (Plugin Support)"
-msgstr ""
-
 msgctxt "MainNav/Settings/Account_Button"
 msgid "Account"
 msgstr ""
 
 msgctxt "MainNav/Settings/AccountPreferences"
 msgid "Account Preferences"
+msgstr ""
+
+msgctxt "MainNav/Settings/Audio_Button"
+msgid "Audio"
+msgstr ""
+
+msgctxt "MainNav/Settings/AutoPayDisabledTooltip"
+msgid "Editable in match"
+msgstr ""
+
+msgctxt "MainNav/Settings/CodeOfConduct"
+msgid "Code of Conduct"
+msgstr ""
+
+msgctxt "MainNav/Settings/Debug_Button"
+msgid "DEBUG"
+msgstr ""
+
+msgctxt "MainNav/Settings/DropRates"
+msgid "Drop Rates"
+msgstr ""
+
+msgctxt "MainNav/Settings/ExitGame_Button"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "MainNav/Settings/Gameplay_Button"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "MainNav/Settings/Graphics_Button"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "MainNav/Settings/HideAltArt_DisabledTooltip"
+msgid "Editable outside of match"
+msgstr ""
+
+msgctxt "MainNav/Settings/Language_Button"
+msgid "Language"
+msgstr ""
+
+msgctxt "MainNav/Settings/LogOut_Button"
+msgid "Log Out"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy"
+msgid "Privacy Policy"
+msgstr ""
+
+msgctxt "MainNav/Settings/PrivacyPolicy_LastUpdated"
+msgid "Last Updated February 19, 2021"
+msgstr ""
+
+msgctxt "MainNav/Settings/Promotions"
+msgid "Promotions"
+msgstr ""
+
+msgctxt "MainNav/Settings/ReportABug_Button"
+msgid "Report a Bug"
+msgstr ""
+
+msgctxt "MainNav/Settings/Select_Store"
+msgid "Select Currency"
+msgstr ""
+
+msgctxt "MainNav/Settings/Settings_Title"
+msgid "Options"
+msgstr ""
+
+msgctxt "MainNav/Settings/StoreChangeWarning"
+msgid ""
+"Changing your currency may result in additional bank or credit card "
+"transaction fees."
+msgstr ""
+
+msgctxt "MainNav/Settings/SwitchAccounts_Button"
+msgid "Switch Accounts"
+msgstr ""
+
+msgctxt "MainNav/Settings/TermsAndConditions"
+msgid "Terms & Conditions"
+msgstr ""
+
+msgctxt "MainNav/Settings/ViewAccount"
+msgid "View Account"
+msgstr ""
+
+msgctxt "MainNav/Settings/ViewPrivacyPolicy"
+msgid "View Privacy Policy"
+msgstr ""
+
+msgctxt "MainNav/Settings/Account/VerboseLogs_Label"
+msgid "Detailed Logs (Plugin Support)"
 msgstr ""
 
 msgctxt "MainNav/Settings/Audio/Account_Title"
@@ -2540,18 +2650,6 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Audio/Voice_Label"
 msgid "Voice"
-msgstr ""
-
-msgctxt "MainNav/Settings/Audio_Button"
-msgid "Audio"
-msgstr ""
-
-msgctxt "MainNav/Settings/AutoPayDisabledTooltip"
-msgid "Editable in match"
-msgstr ""
-
-msgctxt "MainNav/Settings/CodeOfConduct"
-msgid "Code of Conduct"
 msgstr ""
 
 msgctxt "MainNav/Settings/Debug/Language_af"
@@ -2608,18 +2706,6 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Debug/Local_Label"
 msgid "Locale"
-msgstr ""
-
-msgctxt "MainNav/Settings/Debug_Button"
-msgid "DEBUG"
-msgstr ""
-
-msgctxt "MainNav/Settings/DropRates"
-msgid "Drop Rates"
-msgstr ""
-
-msgctxt "MainNav/Settings/ExitGame_Button"
-msgid "Exit Game"
 msgstr ""
 
 msgctxt "MainNav/Settings/Gameplay/AutoApplyCardStyles_Label"
@@ -2764,10 +2850,6 @@ msgctxt "MainNav/Settings/Gameplay/UnlockPlayModes"
 msgid "Unlock Play Modes"
 msgstr ""
 
-msgctxt "MainNav/Settings/Gameplay_Button"
-msgid "Gameplay"
-msgstr ""
-
 msgctxt "MainNav/Settings/Graphics/FullScreen_Label"
 msgid "Full Screen"
 msgstr ""
@@ -2876,28 +2958,8 @@ msgctxt "MainNav/Settings/Graphics/ScreenResolution_Format"
 msgid "{width}x{height}"
 msgstr ""
 
-msgctxt "MainNav/Settings/Graphics_Button"
-msgid "Graphics"
-msgstr ""
-
-msgctxt "MainNav/Settings/HideAltArt_DisabledTooltip"
-msgid "Editable outside of match"
-msgstr ""
-
 msgctxt "MainNav/Settings/Language/Language_Title"
 msgid "Language\n"
-msgstr ""
-
-msgctxt "MainNav/Settings/Language_Button"
-msgid "Language"
-msgstr ""
-
-msgctxt "MainNav/Settings/LogOut_Button"
-msgid "Log Out"
-msgstr ""
-
-msgctxt "MainNav/Settings/PrivacyPolicy"
-msgid "Privacy Policy"
 msgstr ""
 
 msgctxt "MainNav/Settings/PrivacyPolicy/CustHelpLink"
@@ -2914,14 +2976,6 @@ msgstr ""
 
 msgctxt "MainNav/Settings/PrivacyPolicy/FullPrivacyPolicyLink"
 msgid "https://company.wizards.com/legal/wizards-coasts-privacy-policy"
-msgstr ""
-
-msgctxt "MainNav/Settings/PrivacyPolicy_LastUpdated"
-msgid "Last Updated February 19, 2021"
-msgstr ""
-
-msgctxt "MainNav/Settings/Promotions"
-msgid "Promotions"
 msgstr ""
 
 msgctxt "MainNav/Settings/ReportABug/CaptureLog_Button"
@@ -2944,40 +2998,6 @@ msgstr ""
 
 msgctxt "MainNav/Settings/ReportABug/Support_URL"
 msgid "https://mtgarena-support.wizards.com/hc/en-us/requests/new"
-msgstr ""
-
-msgctxt "MainNav/Settings/ReportABug_Button"
-msgid "Report a Bug"
-msgstr ""
-
-msgctxt "MainNav/Settings/Select_Store"
-msgid "Select Currency"
-msgstr ""
-
-msgctxt "MainNav/Settings/Settings_Title"
-msgid "Options"
-msgstr ""
-
-msgctxt "MainNav/Settings/StoreChangeWarning"
-msgid ""
-"Changing your currency may result in additional bank or credit card "
-"transaction fees."
-msgstr ""
-
-msgctxt "MainNav/Settings/SwitchAccounts_Button"
-msgid "Switch Accounts"
-msgstr ""
-
-msgctxt "MainNav/Settings/TermsAndConditions"
-msgid "Terms & Conditions"
-msgstr ""
-
-msgctxt "MainNav/Settings/ViewAccount"
-msgid "View Account"
-msgstr ""
-
-msgctxt "MainNav/Settings/ViewPrivacyPolicy"
-msgid "View Privacy Policy"
 msgstr ""
 
 msgctxt "MainNav/Shared/Cancel"
