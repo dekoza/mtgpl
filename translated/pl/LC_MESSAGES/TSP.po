@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-13 15:58+0000\n"
+"PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -133,6 +133,8 @@ msgid ""
 "Other creatures you control with flanking have flanking. (Each instance of "
 "flanking triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mające flankowanie mają flankowanie. (Każde "
+"wystąpienie flankowania wyzwalane jest oddzielnie.)"
 
 #: ../../TSP.rst:46
 msgid ""
@@ -180,6 +182,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Return Chronosavant from your graveyard to the "
 "battlefield tapped. You skip your next turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza przekręconą na "
+"pole bitwy. Pomiń swoją najbliższą turę."
 
 #: ../../TSP.rst:62
 msgid ""
@@ -191,11 +195,11 @@ msgstr ""
 #: ../../TSP.rst:59
 msgid ""
 "When Cloudchaser Kestrel enters the battlefield, destroy target enchantment."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../TSP.rst:61
 msgid "|mana_w|: Target permanent becomes white until end of turn."
-msgstr ""
+msgstr "|mana_w|: Wskazany permanent staje się do końca tury biały."
 
 #: ../../TSP.rst:68
 msgid ""
@@ -209,6 +213,8 @@ msgid ""
 "|tap|: D'Avenant Healer deals 1 damage to target attacking or blocking "
 "creature."
 msgstr ""
+"|tap|: Ten stwór zadaje wskazanemu atakującemu lub blokującemu stworowi 1 "
+"obrażenie."
 
 #: ../../TSP.rst:67
 msgid ""
@@ -237,7 +243,7 @@ msgstr "Nie można aktywować zdolności zauroczonego stwora."
 
 #: ../../TSP.rst:75
 msgid "|mana_1|\\ |mana_w|: Attach Detainment Spell to target creature."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Dołącz ten urok do wskazanego stwora."
 
 #: ../../TSP.rst:82
 msgid ""
@@ -248,7 +254,7 @@ msgstr ""
 
 #: ../../TSP.rst:79
 msgid "You gain 2 life for each creature target player controls."
-msgstr ""
+msgstr "Zyskaj po 2 życia za każdego stwora pod władaniem wskazanego gracza."
 
 #: ../../TSP.rst:81
 msgid ""

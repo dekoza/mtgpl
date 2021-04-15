@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-07 09:04+0200\n"
-"PO-Revision-Date: 2021-04-11 20:24+0000\n"
+"PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -152,6 +152,8 @@ msgid ""
 "|mana_2|\\ |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target "
 "artifact or enchantment."
 msgstr ""
+"|mana_2|\\ |mana_w|, |tap|, poświęć ten artefakt: Zniszcz wskazany artefakt "
+"lub urok."
 
 #: ../../ALA.rst:56
 msgid ""
@@ -162,17 +164,19 @@ msgstr ""
 
 #: ../../ALA.rst:51
 msgid "+1: Create a 1/1 white Soldier creature token."
-msgstr ""
+msgstr "+1: Stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../ALA.rst:53
 msgid "+1: Target creature gets +3/+3 and gains flying until end of turn."
-msgstr ""
+msgstr "+1: Wskazany stwór dostaje do końca tury +3/+3 i latanie."
 
 #: ../../ALA.rst:55
 msgid ""
 "−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands "
 "you control have indestructible.\""
 msgstr ""
+"–8: Dostajesz emblemat o treści \"Artefakty, stwory, uroki i lądy pod twoim "
+"władaniem mają niezniszczalność.\""
 
 #: ../../ALA.rst:60
 msgid ""

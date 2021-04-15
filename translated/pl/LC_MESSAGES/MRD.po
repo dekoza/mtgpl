@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-11 17:21+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -125,11 +125,12 @@ msgstr "Wybierz jedno —"
 
 #: ../../MRD.rst:39
 msgid "Tap two target creatures."
-msgstr ""
+msgstr "Przekręć dwa wskazane stwory."
 
 #: ../../MRD.rst:41
 msgid "Creatures don't untap during target player's next untap step."
 msgstr ""
+"Stwory nie odkręcą się w najbliższym kroku odkręcania wskazanego gracza."
 
 #: ../../MRD.rst:43 ../../MRD.rst:181
 msgid "Entwine |mana_1| (Choose both if you pay the entwine cost.)"
