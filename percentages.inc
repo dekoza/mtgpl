@@ -184,7 +184,7 @@
 .. |RTR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MMA_percent| image:: images/pie60.png        
+.. |MMA_percent| image:: images/pie65.png        
 
 .. |AER_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
