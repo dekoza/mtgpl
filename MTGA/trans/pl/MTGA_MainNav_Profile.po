@@ -12,6 +12,34 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 
+msgctxt "MainNav/Profile/AvatarSelect_Title"
+msgid "Avatar Select"
+msgstr "Wybór awatara"
+
+msgctxt "MainNav/Profile/ChangeAvatar"
+msgid "Change Avatar"
+msgstr "Zmień awatara"
+
+msgctxt "MainNav/Profile/ChangePet"
+msgid "Pet"
+msgstr "Pupil"
+
+msgctxt "MainNav/Profile/CurrentRanks_Title"
+msgid "Current Ranks"
+msgstr "Aktualna ranga"
+
+msgctxt "MainNav/Profile/DisplayPet"
+msgid "Display {petName} on battlefield"
+msgstr ""
+
+msgctxt "MainNav/Profile/PetSelect"
+msgid "Pet Select"
+msgstr "Wybierz pupila"
+
+msgctxt "MainNav/Profile/PetsTitle"
+msgid "Pets"
+msgstr "Pupile"
+
 msgctxt "MainNav/Profile/Avatars/Adventurer_Bio"
 msgid ""
 "A hooded figure stands in the doorway, their face obscured by shadows. They "
@@ -105,6 +133,17 @@ msgstr ""
 
 msgctxt "MainNav/Profile/Avatars/CourtKnight_Name"
 msgid "Court Knight"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Dina_STX_Bio"
+msgid ""
+"Dina is a weird, darkly humorous, and tea-obsessed student of Witherbloom. "
+"She is learning how to concoct all manner of herbal brews from bizarre swamp "
+"creatures. If she offers you a cup of tea, you should probably decline."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Dina_STX_Name"
+msgid "Dina, Soul Steeper"
 msgstr ""
 
 msgctxt "MainNav/Profile/Avatars/Domri_Bio"
@@ -256,6 +295,18 @@ msgctxt "MainNav/Profile/Avatars/Kaya_Name"
 msgid "Kaya"
 msgstr ""
 
+msgctxt "MainNav/Profile/Avatars/Killian_STX_Bio"
+msgid ""
+"Killian Lu is a competitive and driven student of Silverquill who puts a lot "
+"of pressure on himself. His father being one of the deans doesn't make it "
+"any easier. While Killian's talents may seem effortless, he secretly trains "
+"for long hours every day."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Killian_STX_Name"
+msgid "Killian, Ink Duelist"
+msgstr ""
+
 msgctxt "MainNav/Profile/Avatars/Lazav_Bio"
 msgid ""
 "Little is known about the mysterious shapeshifter Lazav. House Dimir's "
@@ -368,6 +419,18 @@ msgctxt "MainNav/Profile/Avatars/NissaRevane_Name"
 msgid "Nissa Revane"
 msgstr ""
 
+msgctxt "MainNav/Profile/Avatars/Quintorius_STX_Bio"
+msgid ""
+"Quintorius Kand is a gentle, earnest-hearted archaeomancer. Expelled from a "
+"military academy, he discovered his true passion as a student of Lorehold. "
+"Quintorius is an extensive reader with a head full of facts and a big heart, "
+"even for a loxodon."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Quintorius_STX_Name"
+msgid "Quintorius, Field Historian"
+msgstr ""
+
 msgctxt "MainNav/Profile/Avatars/Rakdos_Bio"
 msgid ""
 "Rakdos is a consummate entertainer. A monstrous figure standing thirty feet "
@@ -387,6 +450,18 @@ msgstr ""
 
 msgctxt "MainNav/Profile/Avatars/RalZarek_Name"
 msgid "Ral Zarek"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Rootha_STX_Bio"
+msgid ""
+"Rootha Squallheart is a student of Prismari. She is intense, passionate, and "
+"obsessed with perfecting her art. She often becomes enamored of a visionary "
+"idea, spends weeks working to make it incredible, then suddenly hates her "
+"creation and destroys it."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Rootha_STX_Name"
+msgid "Rootha, Mercurial Artist"
 msgstr ""
 
 msgctxt "MainNav/Profile/Avatars/SaheeliRai_Bio"
@@ -410,6 +485,18 @@ msgstr ""
 
 msgctxt "MainNav/Profile/Avatars/SarkhanVol_Name"
 msgid "Sarkhan Vol"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/STX_ ProfessorOnyx_Bio"
+msgid ""
+"An alumna of Witherbloom, Professor Onyx has returned to her alma mater as a "
+"teacher. She is researching a way to return the dead to life. The good "
+"professor is definitely not the planeswalker Liliana Vess. Look, no "
+"headdress. Totally a different person."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/STX_ ProfessorOnyx_Name"
+msgid "Professor Onyx"
 msgstr ""
 
 msgctxt "MainNav/Profile/Avatars/Teferi_Bio"
@@ -523,6 +610,18 @@ msgctxt "MainNav/Profile/Avatars/WAR_Tamiyo_Name"
 msgid "Tamiyo, Collector of Tales"
 msgstr "Tamiyo, Kolekcjonerka Opowieści"
 
+msgctxt "MainNav/Profile/Avatars/Zimone_STX_Bio"
+msgid ""
+"Zimone Wola is a young prodigy who was accepted to Strixhaven early. She is "
+"a whiz at many forms of mystical arts, but eventually gravitated to the "
+"mathematical magic of Quandrix. Dark forces have noticed her considerable "
+"talents..."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Zimone_STX_Name"
+msgid "Zimone, Quandrix Prodigy"
+msgstr ""
+
 msgctxt "MainNav/Profile/Avatars/ZNR_Nahiri_Bio"
 msgid ""
 "Nahiri is a lithomancer: a mage who wields great power over stone. She can "
@@ -535,26 +634,6 @@ msgstr ""
 msgctxt "MainNav/Profile/Avatars/ZNR_Nahiri_Name"
 msgid "Nahiri, Heir of the Ancients"
 msgstr "Nahiri, Dziedziczka Przedwiecznych"
-
-msgctxt "MainNav/Profile/AvatarSelect_Title"
-msgid "Avatar Select"
-msgstr "Wybór awatara"
-
-msgctxt "MainNav/Profile/ChangeAvatar"
-msgid "Change Avatar"
-msgstr "Zmień awatara"
-
-msgctxt "MainNav/Profile/ChangePet"
-msgid "Pet"
-msgstr "Pupil"
-
-msgctxt "MainNav/Profile/CurrentRanks_Title"
-msgid "Current Ranks"
-msgstr "Aktualna ranga"
-
-msgctxt "MainNav/Profile/DisplayPet"
-msgid "Display {petName} on battlefield"
-msgstr ""
 
 msgctxt "MainNav/Profile/Emotes/Classic_Header"
 msgid "Classic"
@@ -625,17 +704,9 @@ msgctxt "MainNav/Profile/MythicQualifierBadge/Description"
 msgid "Qualified"
 msgstr "Zakwalifikowano"
 
-msgctxt "MainNav/Profile/PetSelect"
-msgid "Pet Select"
-msgstr "Wybierz pupila"
-
 msgctxt "MainNav/Profile/PetSelect/NoPet"
 msgid "No Pet"
 msgstr "Brak pupila"
-
-msgctxt "MainNav/Profile/PetsTitle"
-msgid "Pets"
-msgstr "Pupile"
 
 msgctxt "MainNav/Profile/Progression/Bubble/Set_Title"
 msgid "Set"

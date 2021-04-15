@@ -50,6 +50,14 @@ msgctxt "MainNav/BattlePass/BattlePass_M21_alt"
 msgid "Core Set 2021"
 msgstr ""
 
+msgctxt "MainNav/BattlePass/BattlePass_STX"
+msgid "Strixhaven"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/BattlePass_STX_alt"
+msgid "Strixhaven: School of Mages"
+msgstr ""
+
 msgctxt "MainNav/BattlePass/BattlePass_THB"
 msgid "Theros"
 msgstr ""
@@ -111,61 +119,9 @@ msgctxt "MainNav/BattlePass/CompleteQuestsForXP"
 msgid "Complete quests and win games to earn XP!"
 msgstr ""
 
-msgctxt "MainNav/BattlePass/ELD/Pet/Common_Fae_Fox"
-msgid "Common Fae Fox"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/ELD/Pet/Rare_Fae_Fox"
-msgid "Rare Fae Fox"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/ELD/Pet/Uncommon_Fae_Fox"
-msgid "Uncommon Fae Fox"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/ELD/Pet_Hover"
-msgid "Rare Fae Fox: Mastery Pass Level 90"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/ELD/Pet_Hover_Alt"
-msgid "Rare Enchanted Fox: Mastery Pass Level 90"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/ELD/Pet_Hover_Alt_Fey"
-msgid "Rare Fey Fox: Mastery Pass Level 90"
-msgstr ""
-
 msgctxt "MainNav/BattlePass/GainAccessByUnlockingPremium"
 msgid "Gain access to all rewards by unlocking the Mastery Pass."
 msgstr ""
-
-msgctxt "MainNav/BattlePass/IKO/Pet/Frost_Cub"
-msgid "Frost Cub"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/IKO/Pet/Leosaur_Cub"
-msgid "Leosaur Cub"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/IKO/Pet/Nightmare_Cub"
-msgid "Nightmare Cub"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/IKO/Pet/Regal_Cub"
-msgid "Regal Cub"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/IKO/Pet/Skycat_Cub"
-msgid "Skycat Cub"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/IKO/Pet_Hover"
-msgid "Skycat Cub: Mastery Pass Level 75"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/KHM/Pet_Hover"
-msgid "Beskir Bear: Mastery Pass Level 70"
-msgstr "Niedźwiedź Beskir: Przepustka Mistrzostwa Poziom 70"
 
 msgctxt "MainNav/BattlePass/LevelBoost"
 msgid "Level Boost"
@@ -183,50 +139,6 @@ msgctxt "MainNav/BattlePass/LevelFlash"
 msgid "+10 Levels"
 msgstr ""
 
-msgctxt "MainNav/BattlePass/M20/Pet/Common_Elemental_Cat"
-msgid "Common Elemental Cat"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M20/Pet/Rare_Elemental_Cat"
-msgid "Rare Elemental Cat"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M20/Pet/Uncommon_Elemental_Cat"
-msgid "Uncommon Elemental Cat"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M20/Pet_Hover"
-msgid "Rare Elemental Cat: Mastery Pass Level 80"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M20/Sleeve_Hover"
-msgid "Chandra Exquisite Sleeve: Mastery Pass Level 100"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M21/Pet/Bolthound"
-msgid "Bolthound"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M21/Pet/Combat_Canine"
-msgid "Combat Canine"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M21/Pet/Hunters_Hound"
-msgid "Hunter's Hound"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M21/Pet/Magmutt"
-msgid "Magmutt"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M21/Pet/Peaceful_Pup"
-msgid "Peaceful Pup"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/M21/Pet_Hover"
-msgid "Peaceful Pup: Mastery Pass Level 80"
-msgstr ""
-
 msgctxt "MainNav/BattlePass/Mastery"
 msgid "Mastery"
 msgstr "Mistrzostwo"
@@ -240,6 +152,10 @@ msgctxt "MainNav/BattlePass/Mastery_Footer"
 msgid ""
 "Upon purchase, you will immediately receive rewards for all completed "
 "Mastery Pass levels."
+msgstr ""
+
+msgctxt "MainNav/BattlePass/Mastery_Header_STX"
+msgid "Strixhaven Set Mastery Pass"
 msgstr ""
 
 msgctxt "MainNav/BattlePass/Mastery_Text"
@@ -364,22 +280,6 @@ msgctxt "MainNav/BattlePass/TentPoleTitle_LevelOne"
 msgid "Elemental Cat, Chandra Avatar & Sleeve"
 msgstr ""
 
-msgctxt "MainNav/BattlePass/THB/Pet/Common_Nyx_Owl"
-msgid "Common Nyx Owl"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/THB/Pet/Rare_Nyx_Owl"
-msgid "Rare Nyx Owl"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/THB/Pet/Uncommon_Nyx_Owl"
-msgid "Uncommon Nyx Owl"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/THB/Pet_Hover"
-msgid "Rare Nyx Owl: Mastery Pass Level 80"
-msgstr ""
-
 msgctxt "MainNav/BattlePass/TrackTierFree"
 msgid "Set Mastery Rewards"
 msgstr ""
@@ -410,6 +310,129 @@ msgctxt "MainNav/BattlePass/XSetMastery"
 msgid "{setName} Set Mastery"
 msgstr ""
 
+msgctxt "MainNav/BattlePass/ELD/Pet_Hover"
+msgid "Rare Fae Fox: Mastery Pass Level 90"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/ELD/Pet_Hover_Alt"
+msgid "Rare Enchanted Fox: Mastery Pass Level 90"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/ELD/Pet_Hover_Alt_Fey"
+msgid "Rare Fey Fox: Mastery Pass Level 90"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/ELD/Pet/Common_Fae_Fox"
+msgid "Common Fae Fox"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/ELD/Pet/Rare_Fae_Fox"
+msgid "Rare Fae Fox"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/ELD/Pet/Uncommon_Fae_Fox"
+msgid "Uncommon Fae Fox"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/IKO/Pet_Hover"
+msgid "Skycat Cub: Mastery Pass Level 75"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/IKO/Pet/Frost_Cub"
+msgid "Frost Cub"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/IKO/Pet/Leosaur_Cub"
+msgid "Leosaur Cub"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/IKO/Pet/Nightmare_Cub"
+msgid "Nightmare Cub"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/IKO/Pet/Regal_Cub"
+msgid "Regal Cub"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/IKO/Pet/Skycat_Cub"
+msgid "Skycat Cub"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/KHM/Pet_Hover"
+msgid "Beskir Bear: Mastery Pass Level 70"
+msgstr "Niedźwiedź Beskir: Przepustka Mistrzostwa Poziom 70"
+
+msgctxt "MainNav/BattlePass/M20/Pet_Hover"
+msgid "Rare Elemental Cat: Mastery Pass Level 80"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M20/Sleeve_Hover"
+msgid "Chandra Exquisite Sleeve: Mastery Pass Level 100"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M20/Pet/Common_Elemental_Cat"
+msgid "Common Elemental Cat"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M20/Pet/Rare_Elemental_Cat"
+msgid "Rare Elemental Cat"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M20/Pet/Uncommon_Elemental_Cat"
+msgid "Uncommon Elemental Cat"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M21/Pet_Hover"
+msgid "Peaceful Pup: Mastery Pass Level 80"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M21/Pet/Bolthound"
+msgid "Bolthound"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M21/Pet/Combat_Canine"
+msgid "Combat Canine"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M21/Pet/Hunters_Hound"
+msgid "Hunter's Hound"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M21/Pet/Magmutt"
+msgid "Magmutt"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/M21/Pet/Peaceful_Pup"
+msgid "Peaceful Pup"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "MainNav/BattlePass/KHM/Pet_Hover"
+#| msgid "Beskir Bear: Mastery Pass Level 70"
+msgctxt "MainNav/BattlePass/STX/Pet_Hover"
+msgid "Silverquill Tome: Mastery Pass Level 70"
+msgstr "Niedźwiedź Beskir: Przepustka Mistrzostwa Poziom 70"
+
+msgctxt "MainNav/BattlePass/THB/Pet_Hover"
+msgid "Rare Nyx Owl: Mastery Pass Level 80"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/THB/Pet/Common_Nyx_Owl"
+msgid "Common Nyx Owl"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/THB/Pet/Rare_Nyx_Owl"
+msgid "Rare Nyx Owl"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/THB/Pet/Uncommon_Nyx_Owl"
+msgid "Uncommon Nyx Owl"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/ZNR/Pet_Hover"
+msgid "Tazeem Elemental: Mastery Pass Level 110"
+msgstr ""
+
 msgctxt "MainNav/BattlePass/ZNR/Pet/Akoum"
 msgid "Akoum Elemental"
 msgstr ""
@@ -428,8 +451,4 @@ msgstr ""
 
 msgctxt "MainNav/BattlePass/ZNR/Pet/Tazeem"
 msgid "Tazeem Elemental"
-msgstr ""
-
-msgctxt "MainNav/BattlePass/ZNR/Pet_Hover"
-msgid "Tazeem Elemental: Mastery Pass Level 110"
 msgstr ""

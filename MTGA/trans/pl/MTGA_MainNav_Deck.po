@@ -289,6 +289,10 @@ msgctxt "MainNav/DeckBuilder/BatchCrafting_UnredeemableCards_Title"
 msgid "Unredeemable Cards"
 msgstr ""
 
+msgctxt "MainNav/Deckbuilder/BestOfThreeSideboard"
+msgid "Best of Three Only"
+msgstr ""
+
 msgctxt "MainNav/Deckbuilder/BrawlSideboardWarning"
 msgid "Brawl decks cannot contain a sideboard."
 msgstr ""
@@ -329,8 +333,8 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/CompanionInvalid_Body"
 msgid ""
-"{cardName} — condition not met. You will not be able to cast this card from "
-"outside the game."
+"{cardName} — condition not met. You will not be able to put this card into "
+"your hand from your sideboard."
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/CompanionInvalid_Title"
@@ -596,58 +600,6 @@ msgctxt "MainNav/DeckBuilder/DeckBuilder_SuggestMana_Toggle_Text"
 msgid "Suggest Mana"
 msgstr "Sugeruj manę"
 
-msgctxt "MainNav/DeckBuilder/DeckStats/Average"
-msgid "Average:"
-msgstr "Średnia:"
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Cards"
-msgid "Cards"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Color"
-msgid "Color"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Cost"
-msgid "Cost"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Creature_plural"
-msgid "Creatures"
-msgstr "Stwory"
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Creature_singular"
-msgid "Creature"
-msgstr "Stwór"
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Land_plural"
-msgid "Lands"
-msgstr "Lądy"
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Land_singular"
-msgid "Land"
-msgstr "Ląd"
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Noncreature_plural"
-msgid "NonCreatures"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Noncreature_singular"
-msgid "NonCreature"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Percent"
-msgid "Percent"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Title"
-msgid "Deck Details"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckStats/Type"
-msgid "Type"
-msgstr ""
-
 msgctxt "MainNav/DeckBuilder/DeckStats_ProfileImage_Tooltip"
 msgid "You can drag a card to this area to change the deck image."
 msgstr ""
@@ -660,24 +612,10 @@ msgctxt "MainNav/DeckBuilder/DiscardChanges_Button"
 msgid "Discard Changes"
 msgstr ""
 
-msgctxt "MainNav/Deckbuilder/Format/SelectFormat"
-msgid "Select Format"
-msgstr ""
-
 msgctxt "MainNav/DeckBuilder/Header_Historic_Launcher"
 msgid ""
 "Purchase Historic Anthology 3 in the Store to receive a playset (4x) of "
 "these cards."
-msgstr ""
-
-msgctxt "MainNav/Deckbuilder/NoFilteredCards/Commander"
-msgid ""
-"No cards matching your Commander's color identity could be found with the "
-"current filters."
-msgstr ""
-
-msgctxt "MainNav/Deckbuilder/NoFilteredCards/Default"
-msgid "No cards could be found with the current filters."
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/RedeemWildcard_AlreadyHaveMax"
@@ -749,6 +687,98 @@ msgstr ""
 
 msgctxt "MainNav/DeckBuilder/SideboardTip_Title"
 msgid "Tip: Submit Deck"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/UseWildcards"
+msgid "Use Wildcards"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/WarCodeStyle"
+msgid "This style is obtained through a War of the Spark Lore Event."
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/Warning_NoCommander"
+msgid ""
+"You have one or more cards that have limited functionality outside of a "
+"Brawl deck.\n"
+"{cardList}"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/Warning_NoSideboard"
+msgid ""
+"Your sideboard is currently empty and your deck has one or more cards that "
+"can access your sideboard.\n"
+"{cardList}"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/Wildcard_Tooltip_CallToRedeem"
+msgid "Redeem <page> {0} <page>"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Average"
+msgid "Average:"
+msgstr "Średnia:"
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Cards"
+msgid "Cards"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Color"
+msgid "Color"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Cost"
+msgid "Cost"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Creature_plural"
+msgid "Creatures"
+msgstr "Stwory"
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Creature_singular"
+msgid "Creature"
+msgstr "Stwór"
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Land_plural"
+msgid "Lands"
+msgstr "Lądy"
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Land_singular"
+msgid "Land"
+msgstr "Ląd"
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Noncreature_plural"
+msgid "NonCreatures"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Noncreature_singular"
+msgid "NonCreature"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Percent"
+msgid "Percent"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Title"
+msgid "Deck Details"
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckStats/Type"
+msgid "Type"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Format/SelectFormat"
+msgid "Select Format"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/NoFilteredCards/Commander"
+msgid ""
+"No cards matching your Commander's color identity could be found with the "
+"current filters."
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/NoFilteredCards/Default"
+msgid "No cards could be found with the current filters."
 msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Singles/AjaniStrengthOfThePride"
@@ -1235,6 +1265,10 @@ msgctxt ""
 msgid "Seb McKinnon Enchanted Kingdom Sleeve"
 msgstr ""
 
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_ELD_Basic_EnchantedKingdom_Left"
+msgid "Seb McKinnon Enchanted Kingdom Sleeve"
+msgstr ""
+
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_ELD_Basic_EnchantedKingdom_Right"
 msgid "Seb McKinnon Enchanted Kingdom Sleeve"
 msgstr ""
@@ -1666,6 +1700,26 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_M21_414562"
 msgid "Ugin Exquisite Sleeve"
 msgstr ""
 
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Metallic_CollegeBG"
+msgid "Witherbloom College Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Metallic_CollegeGU"
+msgid "Quandrix College Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Metallic_CollegeRW"
+msgid "Lorehold College Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Metallic_CollegeUR"
+msgid "Prismari College Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Metallic_CollegeWB"
+msgid "Silverquill College Sleeve"
+msgstr ""
+
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_MetallicAzorius"
 msgid "Azorius Basic Sleeve"
 msgstr ""
@@ -1822,6 +1876,14 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_RD_419205"
 msgid "Boros Charm Sleeve"
 msgstr ""
 
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_RD_419779"
+msgid "Black is Magic Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_RD_420756"
+msgid "Fire Covenant Sleeve"
+msgstr ""
+
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_RD_421485"
 msgid "Metal Plains Sleeve"
 msgstr ""
@@ -1872,6 +1934,18 @@ msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_STX_413909"
 msgid "Enigma Sage Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_STX_417003"
+msgid "Mila, Crafty Companion Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_STX_417408_R"
+msgid "Rowan Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_STX_417408_W"
+msgid "Will Sleeve"
 msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_STX_418001"
@@ -1956,32 +2030,6 @@ msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/StyleAppliedToUncollectedCard"
 msgid "This style is for a card not in your collection."
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/UseWildcards"
-msgid "Use Wildcards"
-msgstr ""
-
-msgctxt "MainNav/Deckbuilder/WarCodeStyle"
-msgid "This style is obtained through a War of the Spark Lore Event."
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/Warning_NoCommander"
-msgid ""
-"You have one or more cards that have limited functionality outside of a "
-"Brawl deck.\n"
-"{cardList}"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/Warning_NoSideboard"
-msgid ""
-"Your sideboard is currently empty and your deck has one or more cards that "
-"can access your sideboard.\n"
-"{cardList}"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/Wildcard_Tooltip_CallToRedeem"
-msgid "Redeem <page> {0} <page>"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/100CardStandard"
@@ -2154,6 +2202,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/StandardTreasures"
 msgid "Standard Treasure"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/Strixhaven"
+msgid "Strixhaven Constructed"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/Theros"
