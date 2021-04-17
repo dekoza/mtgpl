@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-03-30 13:28+0000\n"
+"PO-Revision-Date: 2021-04-17 22:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/"
 "mainnav_carousel/pl/>\n"
@@ -897,12 +897,9 @@ msgctxt "MainNav/HomePage/Carousel/GameAwards2019_Title"
 msgid "Precon Clash!"
 msgstr ""
 
-#, fuzzy
-#| msgctxt "MainNav/HomePage/Carousel/Latest_Previews_STX_Desc"
-#| msgid "Check out the latest preview cards for the next Magic set!"
 msgctxt "MainNav/HomePage/Carousel/Generic_Description"
 msgid "Come check out the latest event brought to MTG Arena!"
-msgstr "Sprawdź najnowsze zapowiedzi kart z nowego dodatku!"
+msgstr "Sprawdź najnowsze wydarzenie!"
 
 msgctxt "MainNav/HomePage/Carousel/Generic_Event_Desc"
 msgid "Play the latest event brought to MTG Arena!"
@@ -912,19 +909,13 @@ msgctxt "MainNav/HomePage/Carousel/Generic_Event_Title"
 msgid "New Event!"
 msgstr ""
 
-#, fuzzy
-#| msgctxt "MainNav/HomePage/Carousel/Latest_Previews_STX_Desc"
-#| msgid "Check out the latest preview cards for the next Magic set!"
 msgctxt "MainNav/HomePage/Carousel/Generic_News_Desc"
 msgid "Check out the latest news for MTG Arena."
-msgstr "Sprawdź najnowsze zapowiedzi kart z nowego dodatku!"
+msgstr "Sprawdź najnowsze wiadomości odnośnie MTG Arena."
 
-#, fuzzy
-#| msgctxt "MainNav/HomePage/Carousel/Decklists_Title"
-#| msgid "Latest Decklists"
 msgctxt "MainNav/HomePage/Carousel/Generic_News_Title"
 msgid "Latest News"
-msgstr "Najnowsze spisy talii"
+msgstr "Najnowsze wiadomości"
 
 msgctxt "MainNav/HomePage/Carousel/Generic_Store_Desc"
 msgid "Come check out the sweet new offerings in the Store!"
@@ -1810,13 +1801,10 @@ msgctxt "MainNav/HomePage/Carousel/SecretLair_Superdrop_2020_04_Title"
 msgid "Secret Lair: Superdrop"
 msgstr ""
 
-#, fuzzy
-#| msgctxt "MainNav/HomePage/Carousel/Black_Is_Magic_Title_Last_Chance"
-#| msgid "Secret Lair: Black Is Magic - Last Chance!"
 msgctxt ""
 "MainNav/HomePage/Carousel/SecretLair_Superdrop_2020_04_Title_Last_Chance"
 msgid "Secret Lair: Superdrop - Last Chance!"
-msgstr "Tajemna Skrytka: Czarny to Magia - ostatnia szansa!"
+msgstr "Tajemna Skrytka: Superpakiet - ostatnia szansa!"
 
 msgctxt "MainNav/HomePage/Carousel/SetMastery_Description"
 msgid "Complete quests, level up, earn rewards!"

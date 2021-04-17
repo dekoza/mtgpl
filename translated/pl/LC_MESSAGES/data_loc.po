@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-16 18:38+0000\n"
+"PO-Revision-Date: 2021-04-17 22:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -29613,12 +29613,9 @@ msgid "Remove a -1/-1 counter from it?"
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "45"
-#| msgid "Cast without paying mana cost"
 msgctxt "171733"
 msgid "Cast the copy without paying its mana cost?"
-msgstr "Rzucony bez płacenia kosztu many"
+msgstr "Rzucić kopię bez płacenia jej kosztu many?"
 
 #. maybe_hidden
 msgctxt "172280"
@@ -79571,12 +79568,9 @@ msgid "Discard an artifact card?"
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "254187"
-#| msgid "Discard two cards."
 msgctxt "378137"
 msgid "Discard two cards?"
-msgstr "Odrzuć dwie karty."
+msgstr "Odrzucić dwie karty?"
 
 #. maybe_hidden
 msgctxt "382109"
@@ -79629,12 +79623,9 @@ msgid "Choose a nonland card?"
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "260955"
-#| msgid "Discard a land card."
 msgctxt "391087"
 msgid "Discard a land card?"
-msgstr "Odrzuć kartę lądu."
+msgstr "Odrzucić kartę lądu?"
 
 #. maybe_hidden
 #, fuzzy
@@ -129183,12 +129174,9 @@ msgid "Choose up to two nonland permanents they control."
 msgstr "Wskaż co najwyżej dwa nielądowe permanenty."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "244385"
-#| msgid "Choose a target."
 msgctxt "489226"
 msgid "Choose a player?"
-msgstr "Wskaż cel."
+msgstr "Wybrać gracza?"
 
 #. maybe_hidden
 #, fuzzy
@@ -129221,12 +129209,9 @@ msgstr ""
 "kroku odkręcania swojego władcy."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "17959"
-#| msgid "Target creature gains deathtouch until end of turn."
 msgctxt "489230"
 msgid "Have it gain reach until end of turn?"
-msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
+msgstr "Ma zyskać zasięg do końca tury?"
 
 #. maybe_hidden
 #, fuzzy
@@ -129243,18 +129228,13 @@ msgstr ""
 "kart(y).}}"
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "181648"
-#| msgid ""
-#| "Return target instant or sorcery card from your graveyard to your hand. "
-#| "Exile CARDNAME."
 msgctxt "489232"
 msgid ""
 "Cast target instant or sorcery card from your graveyard without paying its "
 "mana cost?"
 msgstr ""
-"Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
-"ręki. Wygnaj CARDNAME."
+"Rzucić wskazaną kartę sztuczki lub obrzędu z twojego cmentarza bez płacenia "
+"jej kosztu many?"
 
 #. maybe_hidden
 #, fuzzy
@@ -129310,12 +129290,9 @@ msgid "Pay |mana_3|\\ |mana_g|."
 msgstr "Mutuj |mana_3|\\ |mana_g|"
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "271721"
-#| msgid "Put any number of cards onto the battlefield."
 msgctxt "489237"
 msgid "Put any number of land cards onto the battlefield?"
-msgstr "Umieść dowolną liczbę kart na polu bitwy."
+msgstr "Umieścić dowolną liczbę kart lądów na polu bitwy?"
 
 #. internal_ability
 #, fuzzy
