@@ -10,7 +10,7 @@
 
 
 :mtgtip:`Angel's Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36197ed0-4382-4de3-8359-73cb74edc78b.jpg?1562702758|https://scryfall.com/card/ala/2/angels-herald?utm_source=api>`
-   |mana_2|\ |mana_w|, |tap|, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it onto the battlefield. Then shuffle your library.
+   |mana_2|\ |mana_w|, |tap|, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Angelic Benediction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd1b9071-7dde-4128-8b18-1d7b07904638.jpg?1562709790|https://scryfall.com/card/ala/3/angelic-benediction?utm_source=api>`
@@ -80,13 +80,13 @@
 
 
 :mtgtip:`Knight of the Skyward Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d56e2bf-1937-42c1-8f61-1fd93e84cef7.jpg?1562701686|https://scryfall.com/card/ala/15/knight-of-the-skyward-eye?utm_source=api>`
-   |mana_3|\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. Activate this ability only once each turn.
+   |mana_3|\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Knight of the White Orchid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/642c6354-4dab-45c9-a1a6-57bd16f16e30.jpg?1562704745|https://scryfall.com/card/ala/16/knight-of-the-white-orchid?utm_source=api>`
    First strike
 
-   When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+   When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Knight-Captain of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02ef25ce-4d6a-45ff-8b6b-fd5c29307099.jpg?1562700645|https://scryfall.com/card/ala/17/knight-captain-of-eos?utm_source=api>`
@@ -110,7 +110,7 @@
 
 
 :mtgtip:`Ranger of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a30ee26-5f78-4ac2-9105-1baa9ece8a21.jpg?1562701584|https://scryfall.com/card/ala/21/ranger-of-eos?utm_source=api>`
-   When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Resounding Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b3b0908-5408-41fd-8e69-2bc785e19304.jpg?1562704325|https://scryfall.com/card/ala/22/resounding-silence?utm_source=api>`
@@ -132,7 +132,7 @@
 
 
 :mtgtip:`Scourglass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8993b57-3060-45ca-80ed-3366784ec61d.jpg?1562708227|https://scryfall.com/card/ala/25/scourglass?utm_source=api>`
-   |tap|, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Activate this ability only during your upkeep.
+   |tap|, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Activate only during your upkeep.
 
 
 :mtgtip:`Sighted-Caste Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d07e2d4c-a33b-42b1-9576-2269d137a868.jpg?1562709205|https://scryfall.com/card/ala/26/sighted-caste-sorcerer?utm_source=api>`
@@ -300,7 +300,7 @@
 
 
 :mtgtip:`Sphinx's Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd7e2501-2d36-41eb-a77a-747b62affc09.jpg?1562708453|https://scryfall.com/card/ala/58/sphinxs-herald?utm_source=api>`
-   |mana_2|\ |mana_u|, |tap|, Sacrifice a white creature, a blue creature, and a black creature: Search your library for a card named Sphinx Sovereign and put it onto the battlefield. Then shuffle your library.
+   |mana_2|\ |mana_u|, |tap|, Sacrifice a white creature, a blue creature, and a black creature: Search your library for a card named Sphinx Sovereign, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Steelclad Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71b02044-f3b4-425c-8e6c-697fff2c4ef7.jpg?1562705313|https://scryfall.com/card/ala/59/steelclad-serpent?utm_source=api>`
@@ -310,7 +310,7 @@
 :mtgtip:`Tezzeret the Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b214b6f-4734-4200-8467-92d7e3469b5d.jpg?1562702928|https://scryfall.com/card/ala/60/tezzeret-the-seeker?utm_source=api>`
    +1: Untap up to two target artifacts.
 
-   −X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   −X: Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.
 
    −5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.
 
@@ -324,7 +324,7 @@
 
 
 :mtgtip:`Ad Nauseam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a4ce4a1-65e3-4b40-be35-8fc55a968ec8.jpg?1562700939|https://scryfall.com/card/ala/63/ad-nauseam?utm_source=api>`
-   Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.
+   Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. You may repeat this process any number of times.
 
 
 :mtgtip:`Archdemon of Unx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b260fbe1-21cb-4a66-aca3-e504b67ed712.jpg?1562707978|https://scryfall.com/card/ala/64/archdemon-of-unx?utm_source=api>`
@@ -350,7 +350,7 @@
 
 
 :mtgtip:`Corpse Connoisseur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feecfe75-ca1e-4e89-af2f-0e4ed2df1ead.jpg?1562711176|https://scryfall.com/card/ala/68/corpse-connoisseur?utm_source=api>`
-   When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.
+   When Corpse Connoisseur enters the battlefield, you may search your library for a creature card, put that card into your graveyard, then shuffle.
 
    Unearth |mana_3|\ |mana_b| (|mana_3|\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
 
@@ -368,7 +368,7 @@
 
 
 :mtgtip:`Demon's Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5aa309e-5df3-4419-9e9c-3fd928c1e360.jpg?1562710813|https://scryfall.com/card/ala/72/demons-herald?utm_source=api>`
-   |mana_2|\ |mana_b|, |tap|, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it onto the battlefield. Then shuffle your library.
+   |mana_2|\ |mana_b|, |tap|, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Dreg Reaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7771eba-bc2d-40f2-bab4-5e9cc4fe8f34.jpg?1562710204|https://scryfall.com/card/ala/73/dreg-reaver?utm_source=api>`
@@ -482,7 +482,7 @@
 
 
 :mtgtip:`Bloodpyre Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89e39677-5e04-45af-8f4c-1d4b6e737213.jpg?1562706346|https://scryfall.com/card/ala/93/bloodpyre-elemental?utm_source=api>`
-   Sacrifice Bloodpyre Elemental: It deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.
+   Sacrifice Bloodpyre Elemental: It deals 4 damage to target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Bloodthorn Taunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8769e8f6-15ad-4f1b-bb4d-848ae6b7549e.jpg?1562706248|https://scryfall.com/card/ala/94/bloodthorn-taunter?utm_source=api>`
@@ -506,7 +506,7 @@
 
 
 :mtgtip:`Dragon's Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d5873e8-ba15-4a24-aab8-91f1f390d821.jpg?1562702338|https://scryfall.com/card/ala/98/dragons-herald?utm_source=api>`
-   |mana_2|\ |mana_r|, |tap|, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it onto the battlefield. Then shuffle your library.
+   |mana_2|\ |mana_r|, |tap|, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Exuberant Firestoker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5c08845-d195-447e-9e4d-020dcab5f80f.jpg?1562708783|https://scryfall.com/card/ala/99/exuberant-firestoker?utm_source=api>`
@@ -642,7 +642,7 @@
 
 
 :mtgtip:`Behemoth's Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b51e84d7-bf9f-454f-bdcd-a2458b1b5b33.jpg?1562708096|https://scryfall.com/card/ala/124/behemoths-herald?utm_source=api>`
-   |mana_2|\ |mana_g|, |tap|, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it onto the battlefield. Then shuffle your library.
+   |mana_2|\ |mana_g|, |tap|, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cavern Thoctar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34748acb-7045-42b6-a93f-a3f11a1bc839.jpg?1562702691|https://scryfall.com/card/ala/125/cavern-thoctar?utm_source=api>`
@@ -708,7 +708,7 @@
 
 
 :mtgtip:`Manaplasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c48d2cc1-9868-4509-a541-728faf355b6d.jpg?1562708730|https://scryfall.com/card/ala/138/manaplasm?utm_source=api>`
-   Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.
+   Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's mana value.
 
 
 :mtgtip:`Mosstodon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05afd921-ef3b-40fe-a1a8-582ee94ed3f0.jpg?1562700764|https://scryfall.com/card/ala/139/mosstodon?utm_source=api>`
@@ -732,7 +732,7 @@
 
 
 :mtgtip:`Ooze Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/623e57ed-7ed7-4283-b48f-77ecacad70b0.jpg?1562704660|https://scryfall.com/card/ala/143/ooze-garden?utm_source=api>`
-   |mana_1|\ |mana_g|, Sacrifice a non-Ooze creature: Create an X/X green Ooze creature token, where X is the sacrificed creature's power. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_g|, Sacrifice a non-Ooze creature: Create an X/X green Ooze creature token, where X is the sacrificed creature's power. Activate only as a sorcery.
 
 
 :mtgtip:`Resounding Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/217bf237-a758-4500-b221-5e88fed9d0fc.jpg?1562701871|https://scryfall.com/card/ala/144/resounding-roar?utm_source=api>`
@@ -848,7 +848,7 @@
 
 
 :mtgtip:`Clarion Ultimatum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39e8bf21-0baf-4ee9-b224-b9eee50df280.jpg?1562702886|https://scryfall.com/card/ala/163/clarion-ultimatum?utm_source=api>`
-   Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards onto the battlefield tapped, then shuffle your library.
+   Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Cruel Ultimatum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d267804-23de-4521-ae64-4dd5cd836c6c.jpg?1562701048|https://scryfall.com/card/ala/164/cruel-ultimatum?utm_source=api>`
@@ -1166,7 +1166,7 @@
 :mtgtip:`Bant Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b22c6b34-0066-47f8-8062-9363c024fa56.jpg?1562707961|https://scryfall.com/card/ala/221/bant-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Crumbling Necropolis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94da8e38-77a4-4d25-9e1f-f33c246f60c8.jpg?1562706751|https://scryfall.com/card/ala/222/crumbling-necropolis?utm_source=api>`
@@ -1178,19 +1178,19 @@
 :mtgtip:`Esper Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663|https://scryfall.com/card/ala/223/esper-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Grixis Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca30ea9e-9302-4dd0-a572-b5c6e6894851.jpg?1562708911|https://scryfall.com/card/ala/224/grixis-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Jund Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2b31fcd-43eb-44ad-b63e-4f2e6984963c.jpg?1562707314|https://scryfall.com/card/ala/225/jund-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Jungle Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4f0d262-cbfe-42d2-9066-0b48a38995d6.jpg?1562710101|https://scryfall.com/card/ala/226/jungle-shrine?utm_source=api>`
@@ -1202,7 +1202,7 @@
 :mtgtip:`Naya Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fba31e86-0924-424d-b4e3-41a878e3e0e1.jpg?1562711059|https://scryfall.com/card/ala/227/naya-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Savage Lands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6bcded3-6eea-4533-a855-e03d4c4620d6.jpg?1562710850|https://scryfall.com/card/ala/228/savage-lands?utm_source=api>`

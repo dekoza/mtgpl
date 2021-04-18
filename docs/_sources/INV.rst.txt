@@ -144,7 +144,7 @@
 
 
 :mtgtip:`Pure Reflection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbff85a6-a51b-424e-a86b-da52c9b3a9da.jpg?1562932789|https://scryfall.com/card/inv/27/pure-reflection?utm_source=api>`
-   Whenever a player casts a creature spell, destroy all Reflections. Then that player creates an X/X white Reflection creature token, where X is the converted mana cost of that spell.
+   Whenever a player casts a creature spell, destroy all Reflections. Then that player creates an X/X white Reflection creature token, where X is the mana value of that spell.
 
 
 :mtgtip:`Rampant Elephant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/752642d2-3dad-4f58-b154-beb5982141dc.jpg?1562918488|https://scryfall.com/card/inv/28/rampant-elephant?utm_source=api>`
@@ -316,7 +316,7 @@
 
 
 :mtgtip:`Manipulate Fate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bb52acb-dedb-4ed6-a6da-8c036f2b2958.jpg?1562913616|https://scryfall.com/card/inv/60/manipulate-fate?utm_source=api>`
-   Search your library for three cards, exile them, then shuffle your library.
+   Search your library for three cards, exile them, then shuffle.
 
    Draw a card.
 
@@ -324,7 +324,7 @@
 :mtgtip:`Metathran Aerostat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59f34850-fb6f-4ac5-8309-4d53d770e28c.jpg?1562913282|https://scryfall.com/card/inv/61/metathran-aerostat?utm_source=api>`
    Flying
 
-   |mana_x|\ |mana_u|: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.
+   |mana_x|\ |mana_u|: You may put a creature card with mana value X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.
 
 
 :mtgtip:`Metathran Transport<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fa9048d-1599-44a5-b4b2-45382c5b238d.jpg?1562911137|https://scryfall.com/card/inv/62/metathran-transport?utm_source=api>`
@@ -340,7 +340,7 @@
 
 
 :mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/958262ec-8e52-40cf-a9fd-a60e42643e15.jpg?1595075944|https://scryfall.com/card/inv/64/opt?utm_source=api>`
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
    Draw a card.
 
@@ -362,11 +362,11 @@
 :mtgtip:`Prohibit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0daa5458-2a97-40d0-b18d-2381a7a68ee1.jpg?1562897807|https://scryfall.com/card/inv/67/prohibit?utm_source=api>`
    Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)
 
-   Counter target spell if its converted mana cost is 2 or less. If this spell was kicked, counter that spell if its converted mana cost is 4 or less instead.
+   Counter target spell if its mana value is 2 or less. If this spell was kicked, counter that spell if its mana value is 4 or less instead.
 
 
 :mtgtip:`Psychic Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8758ca24-e613-43bf-be58-4cf557f82d0c.jpg?1562922363|https://scryfall.com/card/inv/68/psychic-battle?utm_source=api>`
-   Whenever a player chooses one or more targets, each player reveals the top card of their library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. Changing targets this way doesn't trigger abilities of permanents named Psychic Battle.
+   Whenever a player chooses one or more targets, each player reveals the top card of their library. The player who reveals the card with the highest mana value may change the target or targets. If two or more cards are tied for highest, the target or targets remain unchanged. Changing targets this way doesn't trigger abilities of permanents named Psychic Battle.
 
 
 :mtgtip:`Rainbow Crow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e622ad2-473f-489e-b4cf-bbdcc44d0cde.jpg?1562920499|https://scryfall.com/card/inv/69/rainbow-crow?utm_source=api>`
@@ -464,7 +464,7 @@
 
 
 :mtgtip:`Vodalian Hypnotist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/721fd877-0a28-4002-8b47-058bac4ac44d.jpg?1562917815|https://scryfall.com/card/inv/84/vodalian-hypnotist?utm_source=api>`
-   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Vodalian Merchant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1c0effa-a4b8-4166-a66a-90cf01c6ea0d.jpg?1562933932|https://scryfall.com/card/inv/85/vodalian-merchant?utm_source=api>`
@@ -628,11 +628,11 @@
 :mtgtip:`Phyrexian Battleflies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da27c489-c541-4b0d-a844-71aa65e55ceb.jpg?1562938879|https://scryfall.com/card/inv/114/phyrexian-battleflies?utm_source=api>`
    Flying
 
-   |mana_b|: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_b|: Phyrexian Battleflies gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Phyrexian Delver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e66d87a5-7b67-4ec5-b5e2-518d67123118.jpg?1562941267|https://scryfall.com/card/inv/115/phyrexian-delver?utm_source=api>`
-   When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's converted mana cost.
+   When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's mana value.
 
 
 :mtgtip:`Phyrexian Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/224b8254-553d-4d88-8163-1f15e1244bd2.jpg?1562901847|https://scryfall.com/card/inv/116/phyrexian-infiltrator?utm_source=api>`
@@ -856,7 +856,7 @@
 :mtgtip:`Overload<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c91fca91-7296-422e-b251-d571b710ff71.jpg?1562935385|https://scryfall.com/card/inv/157/overload?utm_source=api>`
    Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)
 
-   Destroy target artifact if its converted mana cost is 2 or less. If this spell was kicked, destroy that artifact if its converted mana cost is 5 or less instead.
+   Destroy target artifact if its mana value is 2 or less. If this spell was kicked, destroy that artifact if its mana value is 5 or less instead.
 
 
 :mtgtip:`Pouncing Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e6e2e49-7bde-43c1-8caf-43d237dfc052.jpg?1562920517|https://scryfall.com/card/inv/158/pouncing-kavu?utm_source=api>`
@@ -937,7 +937,7 @@
    Draw a card.
 
 
-:mtgtip:`Tectonic Instability<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0476cc6b-ecc6-44d6-9f44-a90d4ee85daa.jpg?1562895860|https://scryfall.com/card/inv/173/tectonic-instability?utm_source=api>`
+:mtgtip:`Tectonic Instability<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0476cc6b-ecc6-44d6-9f44-a90d4ee85daa.jpg?1618485193|https://scryfall.com/card/inv/173/tectonic-instability?utm_source=api>`
    Whenever a land enters the battlefield, tap all lands its controller controls.
 
 
@@ -1006,7 +1006,7 @@
 
 
 :mtgtip:`Elfhame Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6ab9a90c-5fd8-4f8c-b692-f98a2974810c.jpg?1562916434|https://scryfall.com/card/inv/185/elfhame-sanctuary?utm_source=api>`
-   At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.
+   At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. If you do, you skip your draw step this turn.
 
 
 :mtgtip:`Elvish Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c19bb473-03b0-4e6d-a7da-0ec1e7707a68.jpg?1562933890|https://scryfall.com/card/inv/186/elvish-champion?utm_source=api>`
@@ -1028,7 +1028,7 @@
 :mtgtip:`Harrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed0f633e-7238-4d02-ad8b-06dd20453030.jpg?1562942622|https://scryfall.com/card/inv/189/harrow?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Jade Leech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3392171d-ed25-46a1-91cc-a4f24537617d.jpg?1562905388|https://scryfall.com/card/inv/190/jade-leech?utm_source=api>`
@@ -1110,7 +1110,7 @@
 
 
 :mtgtip:`Quirion Trailblazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2b258c1-5fb4-4072-bb32-ad364df1874a.jpg?1562934099|https://scryfall.com/card/inv/205/quirion-trailblazer?utm_source=api>`
-   When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+   When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Restock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11a013ff-7c99-445a-b9e0-0fc45036f068.jpg?1562898535|https://scryfall.com/card/inv/206/restock?utm_source=api>`
@@ -1132,7 +1132,7 @@
 
 
 :mtgtip:`Scouting Trek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b882e68-5c03-4ec6-9982-8c3b09847969.jpg?1562900439|https://scryfall.com/card/inv/210/scouting-trek?utm_source=api>`
-   Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it.
+   Search your library for any number of basic land cards, reveal those cards, then shuffle and put them on top.
 
 
 :mtgtip:`Serpentine Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/699f1fe8-02c6-4d95-9231-3f8aefe603da.jpg?1562916212|https://scryfall.com/card/inv/211/serpentine-kavu?utm_source=api>`
@@ -1246,11 +1246,11 @@
 
 
 :mtgtip:`Artifact Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5eef49c-a80f-4622-ba77-999f9151c841.jpg?1562937931|https://scryfall.com/card/inv/231/artifact-mutation?utm_source=api>`
-   Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's converted mana cost.
+   Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's mana value.
 
 
 :mtgtip:`Aura Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38421179-615e-4aba-91a4-503bfee05403.jpg?1562906340|https://scryfall.com/card/inv/232/aura-mutation?utm_source=api>`
-   Destroy target enchantment. Create X 1/1 green Saproling creature tokens, where X is that enchantment's converted mana cost.
+   Destroy target enchantment. Create X 1/1 green Saproling creature tokens, where X is that enchantment's mana value.
 
 
 :mtgtip:`Aura Shards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df4039ef-af72-4267-ade9-fdb7c921279e.jpg?1562939873|https://scryfall.com/card/inv/233/aura-shards?utm_source=api>`
@@ -1272,7 +1272,7 @@
 
 
 :mtgtip:`Captain Sisay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d24d441c-f37f-44fe-8a93-f5c89df807e4.jpg?1562937244|https://scryfall.com/card/inv/237/captain-sisay?utm_source=api>`
-   |tap|: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.
+   |tap|: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Cauldron Dance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dadcae0-f2b2-487c-bb93-0a2c073044c0.jpg?1562923646|https://scryfall.com/card/inv/238/cauldron-dance?utm_source=api>`
@@ -1330,7 +1330,7 @@
 
 
 :mtgtip:`Frenzied Tilling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15875876-3341-40fb-866f-5587c3638538.jpg?1562899335|https://scryfall.com/card/inv/247/frenzied-tilling?utm_source=api>`
-   Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Destroy target land. Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Galina's Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11b492d6-5e28-4f4b-942c-080d03cb0e92.jpg?1562898560|https://scryfall.com/card/inv/248/galinas-knight?utm_source=api>`
@@ -1368,7 +1368,7 @@
 
 
 :mtgtip:`Lobotomy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff307dbb-4ab6-457b-be56-47106864bf61.jpg?1562946537|https://scryfall.com/card/inv/255/lobotomy?utm_source=api>`
-   Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.
+   Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Meteor Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36489b24-f8a8-46b6-b879-0a5ce400a6dc.jpg?1562905963|https://scryfall.com/card/inv/256/meteor-storm?utm_source=api>`
@@ -1412,7 +1412,7 @@
 
 
 :mtgtip:`Reviving Vapors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47a23c32-e122-400b-b252-e636ea2e684b.jpg?1562909595|https://scryfall.com/card/inv/265/reviving-vapors?utm_source=api>`
-   Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.
+   Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's mana value. Put all other cards revealed this way into your graveyard.
 
 
 :mtgtip:`Riptide Crab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e42ae1d-62b4-4b19-aafc-f12bdd6fb8cc.jpg?1562920483|https://scryfall.com/card/inv/266/riptide-crab?utm_source=api>`
@@ -1440,7 +1440,7 @@
 :mtgtip:`Seer's Vision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c94618a-808c-4b3c-8f34-45e64d0414d3.jpg?1562897588|https://scryfall.com/card/inv/270/seers-vision?utm_source=api>`
    Your opponents play with their hands revealed.
 
-   Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Shivan Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4c99269-f730-4d33-bbce-9e855e9ad0fc.jpg?1562944260|https://scryfall.com/card/inv/271/shivan-zombie?utm_source=api>`
@@ -1466,7 +1466,7 @@
 :mtgtip:`Smoldering Tar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c.jpg?1562946036|https://scryfall.com/card/inv/275/smoldering-tar?utm_source=api>`
    At the beginning of your upkeep, target player loses 1 life.
 
-   Sacrifice Smoldering Tar: It deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.
+   Sacrifice Smoldering Tar: It deals 4 damage to target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Spinal Embrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/692ad1eb-62a3-4560-bf8e-35f7db73c7a3.jpg?1562916171|https://scryfall.com/card/inv/276/spinal-embrace?utm_source=api>`
@@ -1484,7 +1484,7 @@
 :mtgtip:`Sterling Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40b26aa3-8169-4978-9554-bd2fc8e18e3b.jpg?1562907957|https://scryfall.com/card/inv/278/sterling-grove?utm_source=api>`
    Other enchantments you control have shroud. (They can't be the targets of spells or abilities.)
 
-   |mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it.
+   |mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put the card on top.
 
 
 :mtgtip:`Teferi's Moat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ed5845c-ef6d-4a7b-b725-b09d3e9bbc17.jpg?1591725011|https://scryfall.com/card/inv/279/teferis-moat?utm_source=api>`
@@ -1528,7 +1528,7 @@
 
 
 :mtgtip:`Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62dc1df7-b9db-4f5f-a340-08287cd3d9e5.jpg?1562915020|https://scryfall.com/card/inv/287/void?utm_source=api>`
-   Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals their hand and discards all nonland cards with converted mana cost equal to the number.
+   Choose a number. Destroy all artifacts and creatures with mana value equal to that number. Then target player reveals their hand and discards all nonland cards with mana value equal to the number.
 
 
 :mtgtip:`Voracious Cobra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d8c5669-11a9-4d95-8431-7065037f1fb6.jpg?1562926724|https://scryfall.com/card/inv/288/voracious-cobra?utm_source=api>`
@@ -1642,7 +1642,7 @@
 
 
 :mtgtip:`Planar Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24315eaa-ef55-4fd6-9145-e75b3de6f492.jpg?1562902264|https://scryfall.com/card/inv/308/planar-portal?utm_source=api>`
-   |mana_6|, |tap|: Search your library for a card and put that card into your hand. Then shuffle your library.
+   |mana_6|, |tap|: Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Power Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed1981dd-c0f3-4e9d-a1f1-8bea823326ef.jpg?1562942628|https://scryfall.com/card/inv/309/power-armor?utm_source=api>`

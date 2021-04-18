@@ -180,7 +180,7 @@
 
 
 :mtgtip:`Frilled Oculus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9f3a08f-403e-4d6c-87c7-add8170bde8b.jpg?1561849038|https://scryfall.com/card/gtc/35/frilled-oculus?utm_source=api>`
-   |mana_1|\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Gridlock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4f5c126-3df9-4771-9e74-4ca33161ac08.jpg?1561842593|https://scryfall.com/card/gtc/36/gridlock?utm_source=api>`
@@ -266,7 +266,7 @@
 :mtgtip:`Skygames<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7ab5bf75-762f-46ef-8304-aacdb248bc5b.jpg?1561832752|https://scryfall.com/card/gtc/51/skygames?utm_source=api>`
    Enchant land
 
-   Enchanted land has "|tap|: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery."
+   Enchanted land has "|tap|: Target creature gains flying until end of turn. Activate only as a sorcery."
 
 
 :mtgtip:`Spell Rupture<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7267fcec-0879-4743-a45f-35057ccb2596.jpg?1561831328|https://scryfall.com/card/gtc/52/spell-rupture?utm_source=api>`
@@ -686,7 +686,7 @@
 :mtgtip:`Sylvan Primordial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0483c869-38dc-4b0b-82f3-dd08a1ab985f.jpg?1561814269|https://scryfall.com/card/gtc/136/sylvan-primordial?utm_source=api>`
    Reach
 
-   When Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.
+   When Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle.
 
 
 :mtgtip:`Tower Defense<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/857e1eb2-f3f2-4c7f-9965-da9d7e385223.jpg?1561834668|https://scryfall.com/card/gtc/137/tower-defense?utm_source=api>`
@@ -826,7 +826,7 @@
 :mtgtip:`Duskmantle Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63711861-87e0-4a63-8b7b-f834aa5f3f18.jpg?1561829190|https://scryfall.com/card/gtc/159/duskmantle-seer?utm_source=api>`
    Flying
 
-   At the beginning of your upkeep, each player reveals the top card of their library, loses life equal to that card's converted mana cost, then puts it into their hand.
+   At the beginning of your upkeep, each player reveals the top card of their library, loses life equal to that card's mana value, then puts it into their hand.
 
 
 :mtgtip:`Elusive Krasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd62e422-e5e2-4736-9ed3-d2dc693f6f8f.jpg?1561849309|https://scryfall.com/card/gtc/160/elusive-krasis?utm_source=api>`
@@ -866,7 +866,7 @@
 
 
 :mtgtip:`Frenzied Tilling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03bce9a7-6215-43ff-b4d0-55f96f683aba.jpg?1561814243|https://scryfall.com/card/gtc/166/frenzied-tilling?utm_source=api>`
-   Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Destroy target land. Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Ghor-Clan Rampager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/382048ec-0bf5-49a5-90d5-f80fbda08962.jpg?1561822913|https://scryfall.com/card/gtc/167/ghor-clan-rampager?utm_source=api>`
@@ -944,7 +944,7 @@
 
 
 :mtgtip:`Mystic Genesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae1dd1ac-1a1e-485d-a11f-d1323a69f95e.jpg?1561841867|https://scryfall.com/card/gtc/180/mystic-genesis?utm_source=api>`
-   Counter target spell. Create an X/X green Ooze creature token, where X is that spell's converted mana cost.
+   Counter target spell. Create an X/X green Ooze creature token, where X is that spell's mana value.
 
 
 :mtgtip:`Nimbus Swimmer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d691cd3b-afe5-4f28-95a9-125475515126.jpg?1561848535|https://scryfall.com/card/gtc/181/nimbus-swimmer?utm_source=api>`
@@ -978,7 +978,7 @@
 
    • Destroy target creature and you lose life equal to its toughness.
 
-   • Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.
+   • Return target creature card with mana value 1 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Paranoid Delusions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af406038-91ce-41fe-8b6d-55408a96d0a2.jpg?1561841905|https://scryfall.com/card/gtc/186/paranoid-delusions?utm_source=api>`
@@ -1162,7 +1162,7 @@
 
 
 :mtgtip:`Immortal Servitude<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88366762-4be0-422a-a0ff-ed046d30afe1.jpg?1561834968|https://scryfall.com/card/gtc/220/immortal-servitude?utm_source=api>`
-   Return each creature card with converted mana cost X from your graveyard to the battlefield.
+   Return each creature card with mana value X from your graveyard to the battlefield.
 
 
 :mtgtip:`Merfolk of the Depths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bddb2e15-a53e-4647-a627-6c7032429fca.jpg?1561844048|https://scryfall.com/card/gtc/221/merfolk-of-the-depths?utm_source=api>`

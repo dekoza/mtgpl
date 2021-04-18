@@ -262,7 +262,7 @@
 
 
 :mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4c133b8-8383-433f-be96-c47a937287b7.jpg?1562953056|https://scryfall.com/card/drk/51/rag-man?utm_source=api>`
-   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.
+   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn.
 
 
 :mtgtip:`Season of the Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06900a71-34ca-48c6-94ac-fca744356829.jpg?1562896564|https://scryfall.com/card/drk/52/season-of-the-witch?utm_source=api>`
@@ -320,7 +320,7 @@
 :mtgtip:`Fire Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3419db6-1c38-4aa4-b953-1dde7d22b927.jpg?1562945324|https://scryfall.com/card/drk/62/fire-drake?utm_source=api>`
    Flying
 
-   |mana_r|: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+   |mana_r|: Fire Drake gets +1/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Fissure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa2d778d-d74b-45ec-a86b-5d52ffad6ba5.jpg?1562935207|https://scryfall.com/card/drk/63/fissure?utm_source=api>`
@@ -394,7 +394,7 @@
 
 
 :mtgtip:`Gaea's Touch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e1ae3d6-6d96-4db6-bbc4-cee91bae6cf7.jpg?1562898244|https://scryfall.com/card/drk/77/gaeas-touch?utm_source=api>`
-   |mana_0|: You may put a basic Forest card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery and only once each turn.
+   |mana_0|: You may put a basic Forest card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.
 
    Sacrifice Gaea's Touch: Add |mana_g|\ |mana_g|.
 
@@ -512,17 +512,17 @@
 
 
 :mtgtip:`Living Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c31a957-ad1e-40cc-b3c4-2f4caa492b77.jpg?1562909137|https://scryfall.com/card/drk/104/living-armor?utm_source=api>`
-   |tap|, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.
+   |tap|, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's mana value.
 
 
 :mtgtip:`Necropolis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/893e8e9c-983e-4db1-8d93-10637025a559.jpg?1562927391|https://scryfall.com/card/drk/105/necropolis?utm_source=api>`
    Defender (This creature can't attack.)
 
-   Exile a creature card from your graveyard: Put X +0/+1 counters on Necropolis, where X is the exiled card's converted mana cost.
+   Exile a creature card from your graveyard: Put X +0/+1 counters on Necropolis, where X is the exiled card's mana value.
 
 
 :mtgtip:`Reflecting Mirror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d551ff93-d8da-4c21-bc3c-6451c0dde07e.jpg?1562945825|https://scryfall.com/card/drk/106/reflecting-mirror?utm_source=api>`
-   |mana_x|, |tap|: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.
+   |mana_x|, |tap|: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the mana value of that spell.
 
 
 :mtgtip:`Runesword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/741dbcf2-3372-45a8-b66f-d2ae12b4aac6.jpg?1562922434|https://scryfall.com/card/drk/107/runesword?utm_source=api>`
@@ -554,7 +554,7 @@
 
 
 :mtgtip:`Wand of Ith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80c9070a-8c70-480e-a476-e00f8e2c71b9.jpg?1562925407|https://scryfall.com/card/drk/114/wand-of-ith?utm_source=api>`
-   |mana_3|, |tap|: Target player reveals a card at random from their hand. If it's a land card, that player discards it unless they pay 1 life. If it isn't a land card, the player discards it unless they pay life equal to its converted mana cost. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player reveals a card at random from their hand. If it's a land card, that player discards it unless they pay 1 life. If it isn't a land card, the player discards it unless they pay life equal to its mana value. Activate only during your turn.
 
 
 :mtgtip:`War Barge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9023c078-4169-498b-8626-a4862e0631f8.jpg?1562928993|https://scryfall.com/card/drk/115/war-barge?utm_source=api>`

@@ -48,7 +48,7 @@
 
 
 :mtgtip:`Forbidding Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c17056e7-95c6-4bed-a747-3b40dcda275a.jpg?1584829884|https://scryfall.com/card/rna/9/forbidding-spirit?utm_source=api>`
-   When Forbidding Spirit enters the battlefield, until your next turn, creatures can't attack you or a planeswalker you control unless their controller pays |mana_2| for each of those creatures.
+   When Forbidding Spirit enters the battlefield, until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays |mana_2| for each of those creatures.
 
 
 :mtgtip:`Haazda Officer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba5f096-c6ea-4db6-966b-617e3454813f.jpg?1584829897|https://scryfall.com/card/rna/10/haazda-officer?utm_source=api>`
@@ -206,7 +206,7 @@
 :mtgtip:`Eyes Everywhere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fdbf073-3ee6-402b-bd40-4781f40a6cae.jpg?1584830199|https://scryfall.com/card/rna/38/eyes-everywhere?utm_source=api>`
    At the beginning of your upkeep, scry 1.
 
-   |mana_5|\ |mana_u|: Exchange control of Eyes Everywhere and target nonland permanent. Activate this ability only any time you could cast a sorcery.
+   |mana_5|\ |mana_u|: Exchange control of Eyes Everywhere and target nonland permanent. Activate only as a sorcery.
 
 
 :mtgtip:`Faerie Duelist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7da9c9b-aeef-4f48-bc8f-39425841cc8c.jpg?1584830209|https://scryfall.com/card/rna/39/faerie-duelist?utm_source=api>`
@@ -412,7 +412,7 @@
 :mtgtip:`Gutterbones<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a1c710b-bd67-4174-ab02-6ae98a7575ac.jpg?1584830612|https://scryfall.com/card/rna/76/gutterbones?utm_source=api>`
    Gutterbones enters the battlefield tapped.
 
-   |mana_1|\ |mana_b|: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.
+   |mana_1|\ |mana_b|: Return Gutterbones from your graveyard to your hand. Activate only during your turn and only if an opponent lost life this turn.
 
 
 :mtgtip:`Ill-Gotten Inheritance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d44b342-f611-4836-a9d5-83b00a24318f.jpg?1584830624|https://scryfall.com/card/rna/77/ill-gotten-inheritance?utm_source=api>`
@@ -532,7 +532,7 @@
 
 
 :mtgtip:`Electrodominance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c63877b-cdab-4ce4-a1c0-c088eb62a57a.jpg?1584830858|https://scryfall.com/card/rna/99/electrodominance?utm_source=api>`
-   Electrodominance deals X damage to any target. You may cast a spell with converted mana cost X or less from your hand without paying its mana cost.
+   Electrodominance deals X damage to any target. You may cast a spell with mana value X or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Feral Maaka<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c969aa0-b0e5-42cd-abba-0a3c7266142c.jpg?1584830869|https://scryfall.com/card/rna/100/feral-maaka?utm_source=api>`
@@ -604,7 +604,7 @@
 
    Flying
 
-   |mana_3|\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it.
+   |mana_3|\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate only if Skarrgan Hellkite has a +1/+1 counter on it.
 
 
 :mtgtip:`Skewer the Critics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97295660-6bea-46ae-9a3b-0fc6abba407f.jpg?1584831035|https://scryfall.com/card/rna/115/skewer-the-critics?utm_source=api>`
@@ -614,7 +614,7 @@
 
 
 :mtgtip:`Smelt-Ward Ignus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f24b2b6-b994-455f-b8e6-aa73e1be81b4.jpg?1584831044|https://scryfall.com/card/rna/116/smelt-ward-ignus?utm_source=api>`
-   |mana_2|\ |mana_r|, Sacrifice Smelt-Ward Ignus: Gain control of target creature with power 3 or less until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_r|, Sacrifice Smelt-Ward Ignus: Gain control of target creature with power 3 or less until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Spear Spewer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbee1daa-b4ba-49ee-bed1-e70fa09942a2.jpg?1584831051|https://scryfall.com/card/rna/117/spear-spewer?utm_source=api>`
@@ -676,7 +676,7 @@
 :mtgtip:`Growth-Chamber Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f97cdf4-231d-4bd0-af5e-bcb64ce1556c.jpg?1584831150|https://scryfall.com/card/rna/128/growth-chamber-guardian?utm_source=api>`
    |mana_2|\ |mana_g|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
 
-   Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library.
+   Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Gruul Beastmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b0aaded-515f-4ac9-a72f-6948b4d4df51.jpg?1584831159|https://scryfall.com/card/rna/129/gruul-beastmaster?utm_source=api>`
@@ -700,7 +700,7 @@
 
 
 :mtgtip:`Open the Gates<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff326c57-accb-4b75-9bc9-b5ef1a85f38d.jpg?1584831193|https://scryfall.com/card/rna/133/open-the-gates?utm_source=api>`
-   Search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Rampage of the Clans<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28ebab7d-d03d-4473-aa9b-485aebb66433.jpg?1584831204|https://scryfall.com/card/rna/134/rampage-of-the-clans?utm_source=api>`
@@ -858,7 +858,7 @@
 
 
 :mtgtip:`Cult Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0536c2fa-7402-49a1-9016-dcf5633ca9ef.jpg?1584831451|https://scryfall.com/card/rna/164/cult-guildmage?utm_source=api>`
-   |mana_3|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|, |tap|: Target player discards a card. Activate only as a sorcery.
 
    |mana_r|, |tap|: Cult Guildmage deals 1 damage to target opponent or planeswalker.
 
@@ -892,7 +892,7 @@
 :mtgtip:`Emergency Powers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6473a93f-879f-4f44-8650-ee05a647c763.jpg?1587039375|https://scryfall.com/card/rna/169/emergency-powers?utm_source=api>`
    Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers.
 
-   Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield.
+   Addendum — If you cast this spell during your main phase, you may put a permanent card with mana value 7 or less from your hand onto the battlefield.
 
 
 :mtgtip:`Ethereal Absolution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0872d0ff-1060-44cc-9ed0-a6aa496440c8.jpg?1584831498|https://scryfall.com/card/rna/170/ethereal-absolution?utm_source=api>`
@@ -1000,7 +1000,7 @@
 :mtgtip:`Kaya, Orzhov Usurper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdb4b2ef-5196-4f7f-88ff-64b2cdb36c6b.jpg?1584831630|https://scryfall.com/card/rna/186/kaya-orzhov-usurper?utm_source=api>`
    +1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.
 
-   −1: Exile target nonland permanent with converted mana cost 1 or less.
+   −1: Exile target nonland permanent with mana value 1 or less.
 
    −5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.
 
@@ -1016,7 +1016,7 @@
 
 
 :mtgtip:`Lavinia, Azorius Renegade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c497d496-1232-4614-93b0-9864fa93c29f.jpg?1584831655|https://scryfall.com/card/rna/189/lavinia-azorius-renegade?utm_source=api>`
-   Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.
+   Each opponent can't cast noncreature spells with mana value greater than the number of lands that player controls.
 
    Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.
 
@@ -1048,7 +1048,7 @@
 
 
 :mtgtip:`Prime Speaker Vannifar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84abfc59-10a7-4cb5-9cdd-81797116c810.jpg?1572893948|https://scryfall.com/card/rna/195/prime-speaker-vannifar?utm_source=api>`
-   |tap|, Sacrifice another creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+   |tap|, Sacrifice another creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
 :mtgtip:`Rafter Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf8dad4d-bc4f-46fb-892c-dbf6481cdc46.jpg?1584831721|https://scryfall.com/card/rna/196/rafter-demon?utm_source=api>`
@@ -1262,7 +1262,7 @@
 
 
 :mtgtip:`Revival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50ae0831-f3ba-4535-bfb6-feefbbc15275.jpg?1600989462|https://scryfall.com/card/rna/228/revival-revenge?utm_source=api>`
-   Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Revenge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50ae0831-f3ba-4535-bfb6-feefbbc15275.jpg?1600989462|https://scryfall.com/card/rna/228/revival-revenge?utm_source=api>`
@@ -1468,7 +1468,7 @@
 
 
 :mtgtip:`Dovin's Dismissal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6328e6b5-9dfb-4fd4-99ee-a1ffc2c707da.jpg?1584832426|https://scryfall.com/card/rna/267/dovins-dismissal?utm_source=api>`
-   Put up to one target tapped creature on top of its owner's library. You may search your library and/or graveyard for a card named Dovin, Architect of Law, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Put up to one target tapped creature on top of its owner's library. You may search your library and/or graveyard for a card named Dovin, Architect of Law, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Dovin's Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a962509-2e77-4655-b397-9625b2f3407a.jpg?1584832435|https://scryfall.com/card/rna/268/dovins-automaton?utm_source=api>`
@@ -1496,7 +1496,7 @@
 :mtgtip:`Domri's Nodorog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1abe58d8-67d1-4719-8e84-27747dea3506.jpg?1584832471|https://scryfall.com/card/rna/272/domris-nodorog?utm_source=api>`
    Trample
 
-   When Domri's Nodorog enters the battlefield, you may search your library and/or graveyard for a card named Domri, City Smasher, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Domri's Nodorog enters the battlefield, you may search your library and/or graveyard for a card named Domri, City Smasher, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`The Haunt of Hightower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61a908e8-6952-46c0-94ec-3962b7a4caef.jpg?1572828437|https://scryfall.com/card/rna/273/the-haunt-of-hightower?utm_source=api>`

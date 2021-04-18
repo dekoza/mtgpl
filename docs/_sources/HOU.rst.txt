@@ -62,7 +62,7 @@
 :mtgtip:`Djeru, With Eyes Open<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2234df89-0835-4a17-b5d8-2334ee8f692d.jpg?1562792235|https://scryfall.com/card/hou/10/djeru-with-eyes-open?utm_source=api>`
    Vigilance
 
-   When Djeru, With Eyes Open enters the battlefield, you may search your library for a planeswalker card, reveal it, put it into your hand, then shuffle your library.
+   When Djeru, With Eyes Open enters the battlefield, you may search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
 
    If a source would deal damage to a planeswalker you control, prevent 1 of that damage.
 
@@ -310,7 +310,7 @@
 
 
 :mtgtip:`Vizier of the Anointed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68ef426c-b396-4767-b360-435f67207022.jpg?1562802148|https://scryfall.com/card/hou/55/vizier-of-the-anointed?utm_source=api>`
-   When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle your library.
+   When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle.
 
    Whenever you activate an eternalize or embalm ability, draw a card.
 
@@ -410,11 +410,11 @@
 :mtgtip:`Razaketh, the Foulblooded<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e14adff9-33cc-467e-b782-068854c5e7b7.jpg?1562817745|https://scryfall.com/card/hou/73/razaketh-the-foulblooded?utm_source=api>`
    Flying, trample
 
-   Pay 2 life, Sacrifice another creature: Search your library for a card and put that card into your hand. Then shuffle your library.
+   Pay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Razaketh's Rite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd36987a-48c3-477b-b859-0268e84b7e7b.jpg?1562817470|https://scryfall.com/card/hou/74/razakeths-rite?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
    Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)
 
@@ -530,7 +530,7 @@
 
 
 :mtgtip:`Hazoret's Undying Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f578576-19ca-4e67-94da-2c0767d9a2bb.jpg?1562805233|https://scryfall.com/card/hou/96/hazorets-undying-fury?utm_source=api>`
-   Shuffle your library, then exile the top four cards. You may cast any number of spells with converted mana cost 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step.
+   Shuffle your library, then exile the top four cards. You may cast any number of spells with mana value 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step.
 
 
 :mtgtip:`Hour of Devastation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d420cc12-cfd7-4007-a0c2-b16c8f63a754.jpg?1562816057|https://scryfall.com/card/hou/97/hour-of-devastation?utm_source=api>`
@@ -540,7 +540,7 @@
 :mtgtip:`Imminent Doom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a51f8207-485e-4a4e-aa62-8e0e69645a0e.jpg?1562809390|https://scryfall.com/card/hou/98/imminent-doom?utm_source=api>`
    Imminent Doom enters the battlefield with a doom counter on it.
 
-   Whenever you cast a spell with converted mana cost equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom.
+   Whenever you cast a spell with mana value equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom.
 
 
 :mtgtip:`Inferno Jet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c6a43fe-369d-4943-a825-570eb3cceba4.jpg?1562788752|https://scryfall.com/card/hou/99/inferno-jet?utm_source=api>`
@@ -606,7 +606,7 @@
 
 
 :mtgtip:`Beneath the Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e92c0cf0-df4a-4e50-8396-53713f925b53.jpg?1562818700|https://scryfall.com/card/hou/111/beneath-the-sands?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
@@ -628,7 +628,7 @@
 
 
 :mtgtip:`Frilled Sandwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07b1be52-5e54-4840-bb53-0b2512785e0b.jpg?1562788221|https://scryfall.com/card/hou/116/frilled-sandwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Gift of Strength<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b779620-6bac-445e-a6fe-6d770c0a9c70.jpg?1562795860|https://scryfall.com/card/hou/117/gift-of-strength?utm_source=api>`
@@ -646,7 +646,7 @@
 
 
 :mtgtip:`Hour of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5ee374f-31dc-4b2c-beba-431d5b1126d0.jpg?1562814095|https://scryfall.com/card/hou/120/hour-of-promise?utm_source=api>`
-   Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.
+   Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.
 
 
 :mtgtip:`Life Goes On<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f39c264-a9a5-46f3-bd67-01d93d69e457.jpg?1562800739|https://scryfall.com/card/hou/121/life-goes-on?utm_source=api>`
@@ -722,7 +722,7 @@
 :mtgtip:`Sifter Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dbaf7e3-e2fc-4399-aa83-c13df43008a0.jpg?1562800677|https://scryfall.com/card/hou/135/sifter-wurm?utm_source=api>`
    Trample
 
-   When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's converted mana cost.
+   When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's mana value.
 
 
 :mtgtip:`Tenacious Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eec0010-52ab-4bf2-b589-e7fd97c290fe.jpg?1562796614|https://scryfall.com/card/hou/136/tenacious-hunter?utm_source=api>`
@@ -730,7 +730,7 @@
 
 
 :mtgtip:`Uncage the Menagerie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc4aa918-53b9-4177-a859-f5a8eff09fe5.jpg?1562812515|https://scryfall.com/card/hou/137/uncage-the-menagerie?utm_source=api>`
-   Search your library for up to X creature cards with different names that each have converted mana cost X, reveal them, put them into your hand, then shuffle your library.
+   Search your library for up to X creature cards with different names that each have mana value X, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Bloodwater Entity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/474d0a04-b640-4d1d-b538-2d946c1ff913.jpg?1562797637|https://scryfall.com/card/hou/138/bloodwater-entity?utm_source=api>`
@@ -786,7 +786,7 @@
 
    −2: Samut, the Tested deals 2 damage divided as you choose among one or two targets.
 
-   −7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.
+   −7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`The Scarab God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/621cfd79-be4e-41e3-95ce-62b0eeff5baf.jpg?1562801181|https://scryfall.com/card/hou/145/the-scarab-god?utm_source=api>`
@@ -832,7 +832,7 @@
 
 
 :mtgtip:`Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b0f214-8668-4921-88ba-7ccf38c9f770.jpg?1562790415|https://scryfall.com/card/hou/150/claim-fame?utm_source=api>`
-   Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Fame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b0f214-8668-4921-88ba-7ccf38c9f770.jpg?1562790415|https://scryfall.com/card/hou/150/claim-fame?utm_source=api>`
@@ -892,7 +892,7 @@
 
 
 :mtgtip:`Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/054b07d8-99ae-430b-8e54-f9601fa572e7.jpg?1562787788|https://scryfall.com/card/hou/156/refuse-cooperate?utm_source=api>`
-   Refuse deals damage to target spell's controller equal to that spell's converted mana cost.
+   Refuse deals damage to target spell's controller equal to that spell's mana value.
 
 
 :mtgtip:`Cooperate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/054b07d8-99ae-430b-8e54-f9601fa572e7.jpg?1562787788|https://scryfall.com/card/hou/156/refuse-cooperate?utm_source=api>`
@@ -960,13 +960,13 @@
 
 
 :mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/195464f1-f01c-4211-950d-963c5bad786f.jpg?1562790851|https://scryfall.com/card/hou/167/travelers-amulet?utm_source=api>`
-   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Wall of Forgotten Pharaohs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3f8f211-79f9-4d34-8e23-c0835703cd91.jpg?1562816047|https://scryfall.com/card/hou/168/wall-of-forgotten-pharaohs?utm_source=api>`
    Defender
 
-   |tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate this ability only if you control a Desert or there is a Desert card in your graveyard.
+   |tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate only if you control a Desert or there is a Desert card in your graveyard.
 
 
 :mtgtip:`Crypt of the Eternals<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cab5b199-e79d-4ca9-970c-cfd9df8fd1e4.jpg?1562814658|https://scryfall.com/card/hou/169/crypt-of-the-eternals?utm_source=api>`
@@ -1036,7 +1036,7 @@
 
    |tap|, Pay 1 life: Add |mana_g|.
 
-   |mana_1|\ |mana_g|\ |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_g|\ |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Hostile Desert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/250c35cb-77e7-4600-a915-ccf327fe3385.jpg?1562792363|https://scryfall.com/card/hou/178/hostile-desert?utm_source=api>`
@@ -1050,7 +1050,7 @@
 
    |tap|, Pay 1 life: Add |mana_b|.
 
-   |mana_2|\ |mana_b|\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate only as a sorcery.
 
 
 :mtgtip:`Ipnu Rivulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/203011ef-3737-4fd1-bd23-0e531b5a7c32.jpg?1562791814|https://scryfall.com/card/hou/180/ipnu-rivulet?utm_source=api>`
@@ -1080,7 +1080,7 @@
 
    |tap|, Pay 1 life: Add |mana_w|.
 
-   |mana_2|\ |mana_w|\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_w|\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Survivors' Encampment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7b0404e-0f42-456b-91ce-f960195c4951.jpg?1562814201|https://scryfall.com/card/hou/184/survivors-encampment?utm_source=api>`
@@ -1126,7 +1126,7 @@
 
 
 :mtgtip:`Nissa's Encouragement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a489d5c7-ef57-4973-86ac-06234c308c3c.jpg?1562809356|https://scryfall.com/card/hou/203/nissas-encouragement?utm_source=api>`
-   Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle your library.
+   Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Woodland Stream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d757641-a6e8-4584-b35e-be043c228134.jpg?1562789403|https://scryfall.com/card/hou/204/woodland-stream?utm_source=api>`
@@ -1154,7 +1154,7 @@
 
 
 :mtgtip:`Visage of Bolas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f29bbfe2-d59f-4361-8ea4-6a8d1b909769.jpg?1562820069|https://scryfall.com/card/hou/208/visage-of-bolas?utm_source=api>`
-   When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
    |tap|: Add |mana_u|, |mana_b|, or |mana_r|.
 

@@ -24,7 +24,7 @@
 :mtgtip:`Baird, Steward of Argive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1a9594e-edc9-42b2-ba8a-8298da9441fb.jpg?1562743396|https://scryfall.com/card/dom/4/baird-steward-of-argive?utm_source=api>`
    Vigilance
 
-   Creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures.
+   Creatures can't attack you or planeswalkers you control unless their controller pays |mana_1| for each of those creatures.
 
 
 :mtgtip:`Benalish Honor Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73a5ecf1-2063-4cb3-a4ab-a0601b28256a.jpg?1562737807|https://scryfall.com/card/dom/5/benalish-honor-guard?utm_source=api>`
@@ -198,7 +198,7 @@
 :mtgtip:`Teshar, Ancestor's Apostle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6d115b4-51d5-4898-b56c-2729aa428018.jpg?1562745787|https://scryfall.com/card/dom/36/teshar-ancestors-apostle?utm_source=api>`
    Flying
 
-   Whenever you cast a historic spell, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)
+   Whenever you cast a historic spell, return target creature card with mana value 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)
 
 
 :mtgtip:`Tragic Poet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f957b353-7765-4c16-9645-d41000154130.jpg?1562746021|https://scryfall.com/card/dom/37/tragic-poet?utm_source=api>`
@@ -344,7 +344,7 @@
 
 
 :mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25f2e4d0-effd-4e83-b7aa-1a0d8f120951.jpg?1562732870|https://scryfall.com/card/dom/60/opt?utm_source=api>`
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
    Draw a card.
 
@@ -480,7 +480,7 @@
 :mtgtip:`Demonlord Belzenlok<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffb4dbe8-15fa-467f-9366-66382b192113.jpg?1562746442|https://scryfall.com/card/dom/86/demonlord-belzenlok?utm_source=api>`
    Flying, trample
 
-   When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's converted mana cost is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way.
+   When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's mana value is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way.
 
 
 :mtgtip:`Divest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6619810-7933-4844-8556-2a575ed7f18a.jpg?1562742646|https://scryfall.com/card/dom/87/divest?utm_source=api>`
@@ -514,7 +514,7 @@
 
 
 :mtgtip:`Final Parting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de8803f6-9efa-4323-b8c5-29bdd5a48f9a.jpg?1562744124|https://scryfall.com/card/dom/93/final-parting?utm_source=api>`
-   Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle your library.
+   Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle.
 
 
 :mtgtip:`Fungal Infection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3f6baa5-666d-40b0-82e8-b0df10ff3cdd.jpg?1562740631|https://scryfall.com/card/dom/94/fungal-infection?utm_source=api>`
@@ -918,7 +918,7 @@
 :mtgtip:`Grow from the Ashes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51d4d1c2-671c-498c-a232-7d076e3dc3bb.jpg?1562735600|https://scryfall.com/card/dom/164/grow-from-the-ashes?utm_source=api>`
    Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)
 
-   Search your library for a basic land card, put it onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Grunn, the Lonely King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a9aa5c-1501-4958-872a-39c512514033.jpg?1562741677|https://scryfall.com/card/dom/165/grunn-the-lonely-king?utm_source=api>`
@@ -932,7 +932,7 @@
 :mtgtip:`Kamahl's Druidic Vow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf95ef60-e67b-466d-a6cb-d487ffa88b72.jpg?1562742183|https://scryfall.com/card/dom/166/kamahls-druidic-vow?utm_source=api>`
    (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
 
-   Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with converted mana cost X or less from among them onto the battlefield. Put the rest into your graveyard.
+   Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with mana value X or less from among them onto the battlefield. Put the rest into your graveyard.
 
 
 :mtgtip:`Krosan Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c332dc82-7664-44d0-b92a-a3d867399884.jpg?1562742431|https://scryfall.com/card/dom/167/krosan-druid?utm_source=api>`
@@ -1288,7 +1288,7 @@
 
 
 :mtgtip:`Skittering Surveyor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90c7bea0-79c9-4856-8279-cef7cee82fc1.jpg?1562739519|https://scryfall.com/card/dom/230/skittering-surveyor?utm_source=api>`
-   When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sorcerer's Wand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69ee3692-54e3-42de-85c6-0a3b5c6a2402.jpg?1562737162|https://scryfall.com/card/dom/231/sorcerers-wand?utm_source=api>`
@@ -1444,7 +1444,7 @@
 
 
 :mtgtip:`Niambi, Faithful Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c638677c-2b92-4d0c-b61c-598b5a843844.jpg?1562742611|https://scryfall.com/card/dom/272/niambi-faithful-healer?utm_source=api>`
-   When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Teferi's Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/058304f4-f08a-4b3a-ae74-c06f4968c99a.jpg?1562730834|https://scryfall.com/card/dom/273/teferis-sentinel?utm_source=api>`
@@ -1468,7 +1468,7 @@
 :mtgtip:`Chandra's Outburst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e849c3-f357-4e81-a580-be5056bed51b.jpg?1562745440|https://scryfall.com/card/dom/276/chandras-outburst?utm_source=api>`
    Chandra's Outburst deals 4 damage to target player or planeswalker.
 
-   Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Karplusan Hound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95179b31-8cb5-4dd9-ad93-782b8774534d.jpg?1562739783|https://scryfall.com/card/dom/277/karplusan-hound?utm_source=api>`

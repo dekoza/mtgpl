@@ -26,9 +26,9 @@
 
    • Destroy all enchantments.
 
-   • Destroy all creatures with converted mana cost 3 or less.
+   • Destroy all creatures with mana value 3 or less.
 
-   • Destroy all creatures with converted mana cost 4 or greater.
+   • Destroy all creatures with mana value 4 or greater.
 
 
 :mtgtip:`Avian Changeling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2258bd3-e38b-4029-a9fb-f9ae86dbbc3a.jpg?1562374178|https://scryfall.com/card/lrw/4/avian-changeling?utm_source=api>`
@@ -92,7 +92,7 @@
 
 
 :mtgtip:`Favor of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20d858be-4c03-4819-94e9-ca4ca3de9032.jpg?1562340883|https://scryfall.com/card/lrw/14/favor-of-the-mighty?utm_source=api>`
-   Each creature with the highest converted mana cost has protection from all colors.
+   Each creature with the highest mana value has protection from all colors.
 
 
 :mtgtip:`Galepowder Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8152999d-5e65-4ea6-b1e7-94b41808faa0.jpg?1562355694|https://scryfall.com/card/lrw/15/galepowder-mage?utm_source=api>`
@@ -124,7 +124,7 @@
 :mtgtip:`Hoofprints of the Stag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d11187c6-f213-45db-9de3-314df1f43589.jpg?1562369150|https://scryfall.com/card/lrw/21/hoofprints-of-the-stag?utm_source=api>`
    Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag.
 
-   |mana_2|\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn.
+   |mana_2|\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate only during your turn.
 
 
 :mtgtip:`Judge of Currents<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3073f3f5-bff8-4ec1-a68f-c83d63435843.jpg?1562343413|https://scryfall.com/card/lrw/22/judge-of-currents?utm_source=api>`
@@ -146,7 +146,7 @@
 
 
 :mtgtip:`Kithkin Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64735178-3dc5-4a95-92fa-e15bd04e5733.jpg?1562351139|https://scryfall.com/card/lrw/26/kithkin-harbinger?utm_source=api>`
-   When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle your library and put that card on top of it.
+   When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Kithkin Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44032574-a5bc-4366-af65-9824fd4302a2.jpg?1562346113|https://scryfall.com/card/lrw/27/kithkin-healer?utm_source=api>`
@@ -180,7 +180,7 @@
 
 
 :mtgtip:`Oaken Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9fdb060-8f4d-453a-9516-92c390fbc85a.jpg?1562372753|https://scryfall.com/card/lrw/33/oaken-brawler?utm_source=api>`
-   When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Oblivion Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1562340325|https://scryfall.com/card/lrw/34/oblivion-ring?utm_source=api>`
@@ -194,7 +194,7 @@
 
 
 :mtgtip:`Pollen Lullaby<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/deb2156a-8a77-4954-b557-1bdaf3ba171a.jpg?1562371105|https://scryfall.com/card/lrw/36/pollen-lullaby?utm_source=api>`
-   Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Purity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/154a335d-188d-49c3-af6d-c8e702b4b3ba.jpg?1562338956|https://scryfall.com/card/lrw/37/purity?utm_source=api>`
@@ -208,7 +208,7 @@
 :mtgtip:`Sentry Oak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab09d6d7-e2f0-4e78-a9a3-ac37f02f4096.jpg?1562362500|https://scryfall.com/card/lrw/38/sentry-oak?utm_source=api>`
    Defender
 
-   At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Shields of Velis Vel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f550f44f-8b8f-4c1d-a583-9fd986d3061c.jpg?1562374684|https://scryfall.com/card/lrw/39/shields-of-velis-vel?utm_source=api>`
@@ -228,7 +228,7 @@
 
 
 :mtgtip:`Springjack Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fa0c72-427b-4797-b5b1-15f07fc5fa07.jpg?1562353783|https://scryfall.com/card/lrw/41/springjack-knight?utm_source=api>`
-   Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Summon the School<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13a4c124-216b-44b1-b49a-3db3f033e4cd.jpg?1562338889|https://scryfall.com/card/lrw/42/summon-the-school?utm_source=api>`
@@ -304,13 +304,13 @@
 
 
 :mtgtip:`Broken Ambitions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/8052d90b-bc49-4a9e-9211-159a54aa2bcd.jpg?1562355294|https://scryfall.com/card/lrw/54/broken-ambitions?utm_source=api>`
-   Counter target spell unless its controller pays |mana_x|. Clash with an opponent. If you win, that spell's controller mills four cards. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Counter target spell unless its controller pays |mana_x|. Clash with an opponent. If you win, that spell's controller mills four cards. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Captivating Glance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/642be353-a46a-4d14-a35a-7716fd552870.jpg?1562351137|https://scryfall.com/card/lrw/55/captivating-glance?utm_source=api>`
    Enchant creature
 
-   At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Cryptic Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba.jpg?1562355759|https://scryfall.com/card/lrw/56/cryptic-command?utm_source=api>`
@@ -350,7 +350,7 @@
 
    Flying
 
-   When Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle your library and put that card on top of it.
+   When Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Faerie Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/defb9f0b-195e-4aeb-92c1-8f827ad6724b.jpg?1562371108|https://scryfall.com/card/lrw/62/faerie-trickery?utm_source=api>`
@@ -416,7 +416,7 @@
 :mtgtip:`Merrow Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b47af11c-1090-4f0a-8eea-64a3b639e535.jpg?1562364093|https://scryfall.com/card/lrw/73/merrow-harbinger?utm_source=api>`
    Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
 
-   When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.
+   When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Merrow Reejerey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b57434d9-6fa5-43a6-98b9-044d2259d699.jpg?1562364149|https://scryfall.com/card/lrw/74/merrow-reejerey?utm_source=api>`
@@ -444,7 +444,7 @@
 
 
 :mtgtip:`Paperfin Rascal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a439c0ca-0cb2-4293-825e-1a72159953b9.jpg?1562361413|https://scryfall.com/card/lrw/77/paperfin-rascal?utm_source=api>`
-   When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Pestermite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f252ae53-443c-4a27-b8f0-639a9a2b8598.jpg?1562374183|https://scryfall.com/card/lrw/78/pestermite?utm_source=api>`
@@ -456,7 +456,7 @@
 
 
 :mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba6b6fc5-5077-4812-b8e9-906783dbaf67.jpg?1562365100|https://scryfall.com/card/lrw/79/ponder?utm_source=api>`
-   Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+   Look at the top three cards of your library, then put them back in any order. You may shuffle.
 
    Draw a card.
 
@@ -470,11 +470,11 @@
 :mtgtip:`Ringskipper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72d3ae1f-5442-4725-a16a-502f13359a85.jpg?1562353293|https://scryfall.com/card/lrw/81/ringskipper?utm_source=api>`
    Flying
 
-   When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Scattering Stroke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c536c1ce-a012-4d77-ab29-8574be164731.jpg?1562367009|https://scryfall.com/card/lrw/82/scattering-stroke?utm_source=api>`
-   Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add an amount of |colorless| equal to that spell's converted mana cost. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add an amount of |colorless| equal to that spell's mana value. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Scion of Oona<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f75fc1eb-09ac-4800-a55d-c0e723f5786b.jpg?1562374924|https://scryfall.com/card/lrw/83/scion-of-oona?utm_source=api>`
@@ -520,7 +520,7 @@
 
    Flying
 
-   When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.
+   When Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control.
 
 
 :mtgtip:`Stonybrook Angler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/047709e7-c44f-47e4-a9cc-1d941264e454.jpg?1562336736|https://scryfall.com/card/lrw/90/stonybrook-angler?utm_source=api>`
@@ -538,7 +538,7 @@
 
 
 :mtgtip:`Tideshaper Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e526ebbf-2041-4c3e-9a20-73bbf6f90251.jpg?1562372233|https://scryfall.com/card/lrw/93/tideshaper-mystic?utm_source=api>`
-   |tap|: Target land becomes the basic land type of your choice until end of turn. Activate this ability only during your turn.
+   |tap|: Target land becomes the basic land type of your choice until end of turn. Activate only during your turn.
 
 
 :mtgtip:`Turtleshell Changeling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.jpg?1562361919|https://scryfall.com/card/lrw/94/turtleshell-changeling?utm_source=api>`
@@ -554,7 +554,7 @@
 
 
 :mtgtip:`Whirlpool Whelm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1934c34a-c163-4fac-a80d-8b17e8d64efa.jpg?1562339849|https://scryfall.com/card/lrw/96/whirlpool-whelm?utm_source=api>`
-   Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Wings of Velis Vel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb3c1f39-b6ac-4663-9623-bd573a1117b0.jpg?1562375447|https://scryfall.com/card/lrw/97/wings-of-velis-vel?utm_source=api>`
@@ -576,7 +576,7 @@
 :mtgtip:`Bog Hoodlums<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2459953-a4b5-4a9c-85ed-928b684d7240.jpg?1562374181|https://scryfall.com/card/lrw/100/bog-hoodlums?utm_source=api>`
    Bog Hoodlums can't block.
 
-   When Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   When Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Boggart Birth Rite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bb4916d-ab50-45c9-bf7e-e7a7e761aef4.jpg?1562339943|https://scryfall.com/card/lrw/101/boggart-birth-rite?utm_source=api>`
@@ -584,7 +584,7 @@
 
 
 :mtgtip:`Boggart Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8ea8d2b8-bcac-410d-aa5a-e4a74f7d5315.jpg?1562357880|https://scryfall.com/card/lrw/102/boggart-harbinger?utm_source=api>`
-   When Boggart Harbinger enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle your library and put that card on top of it.
+   When Boggart Harbinger enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Boggart Loggers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ed9a638-c3f9-48dd-9633-5c52146e0dcd.jpg?1562360464|https://scryfall.com/card/lrw/103/boggart-loggers?utm_source=api>`
@@ -672,7 +672,7 @@
 
 
 :mtgtip:`Hoarder's Greed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/9666a328-cc51-4be1-abef-06bbe41dd866.jpg?1562359253|https://scryfall.com/card/lrw/117/hoarders-greed?utm_source=api>`
-   You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Hornet Harasser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45598727-a8b1-4b3e-87c6-70c36f0d4fe8.jpg?1562346166|https://scryfall.com/card/lrw/118/hornet-harasser?utm_source=api>`
@@ -692,7 +692,7 @@
 :mtgtip:`Liliana Vess<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1662fcb1-f142-43ff-b682-6827dea2ff7e.jpg?1562339353|https://scryfall.com/card/lrw/121/liliana-vess?utm_source=api>`
    +1: Target player discards a card.
 
-   −2: Search your library for a card, then shuffle your library and put that card on top of it.
+   −2: Search your library for a card, then shuffle and put that card on top.
 
    −8: Put all creature cards from all graveyards onto the battlefield under your control.
 
@@ -772,7 +772,7 @@
 
    • Target player loses X life.
 
-   • Return target creature card with converted mana cost X or less from your graveyard to the battlefield.
+   • Return target creature card with mana value X or less from your graveyard to the battlefield.
 
    • Target creature gets -X/-X until end of turn.
 
@@ -834,11 +834,11 @@
 
 
 :mtgtip:`Weed Strangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1f7fb79-19a8-483a-bf91-e687f7da4e9c.jpg?1562366513|https://scryfall.com/card/lrw/147/weed-strangle?utm_source=api>`
-   Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Adder-Staff Boggart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d116839f-6a3a-4a2e-a3ab-ea177c012746.jpg?1562369151|https://scryfall.com/card/lrw/148/adder-staff-boggart?utm_source=api>`
-   When Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   When Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Ashling the Pilgrim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63056eb9-4257-4530-8ff4-6909a2cedf47.jpg?1562350736|https://scryfall.com/card/lrw/149/ashling-the-pilgrim?utm_source=api>`
@@ -848,9 +848,9 @@
 :mtgtip:`Ashling's Prerogative<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.jpg?1587039822|https://scryfall.com/card/lrw/150/ashlings-prerogative?utm_source=api>`
    As Ashling's Prerogative enters the battlefield, choose odd or even. (Zero is even.)
 
-   Each creature with converted mana cost of the chosen value has haste.
+   Each creature with mana value of the chosen quality has haste.
 
-   Each creature without converted mana cost of the chosen value enters the battlefield tapped.
+   Each creature without mana value of the chosen quality enters the battlefield tapped.
 
 
 :mtgtip:`Axegrinder Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8595e9a1-010e-48a7-91e4-3d2722c8dbc0.jpg?1562356613|https://scryfall.com/card/lrw/151/axegrinder-giant?utm_source=api>`
@@ -926,7 +926,7 @@
 :mtgtip:`Fire-Belly Changeling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4732342-71a4-4079-b549-f4454945273a.jpg?1562369646|https://scryfall.com/card/lrw/164/fire-belly-changeling?utm_source=api>`
    Changeling (This card is every creature type.)
 
-   |mana_r|: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_r|: Fire-Belly Changeling gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Flamekin Bladewhirl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b6ea1c8-ca58-4240-adb7-71cd49664414.jpg?1562339936|https://scryfall.com/card/lrw/165/flamekin-bladewhirl?utm_source=api>`
@@ -938,7 +938,7 @@
 
 
 :mtgtip:`Flamekin Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f330c0f4-13d2-4432-9ced-f044bef98ec8.jpg?1562374221|https://scryfall.com/card/lrw/167/flamekin-harbinger?utm_source=api>`
-   When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle your library and put that card on top of it.
+   When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Flamekin Spitfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a7878e5-fcb0-4de5-8dda-fcdb4b138ec1.jpg?1562359814|https://scryfall.com/card/lrw/168/flamekin-spitfire?utm_source=api>`
@@ -946,7 +946,7 @@
 
 
 :mtgtip:`Giant Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f72f461-98d7-45e0-9968-9afb240fbf1e.jpg?1562340791|https://scryfall.com/card/lrw/169/giant-harbinger?utm_source=api>`
-   When Giant Harbinger enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle your library and put that card on top of it.
+   When Giant Harbinger enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Giant's Ire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/046fa2db-4c73-401a-b9a4-b039554be625.jpg?1562336735|https://scryfall.com/card/lrw/170/giants-ire?utm_source=api>`
@@ -1030,7 +1030,7 @@
 
 
 :mtgtip:`Lash Out<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de2c0c8b-5442-44fb-9686-d3dff5742501.jpg?1562371092|https://scryfall.com/card/lrw/183/lash-out?utm_source=api>`
-   Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Lowland Oaf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdaa7f6a-9639-4bee-aa12-20054d7975d5.jpg?1562368651|https://scryfall.com/card/lrw/184/lowland-oaf?utm_source=api>`
@@ -1148,7 +1148,7 @@
 
 
 :mtgtip:`Elvish Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de789231-8358-4cbd-b8eb-1da4ce5b34c0.jpg?1562371098|https://scryfall.com/card/lrw/207/elvish-harbinger?utm_source=api>`
-   When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.
+   When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle and put that card on top.
 
    |tap|: Add one mana of any color.
 
@@ -1176,7 +1176,7 @@
 
 
 :mtgtip:`Fistful of Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7f77c7e-d35f-477e-acc4-a393044319ea.jpg?1562374957|https://scryfall.com/card/lrw/212/fistful-of-force?utm_source=api>`
-   Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Garruk Wildspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca6f13a2-9243-4ce9-9f71-bed74355b781.jpg?1562367767|https://scryfall.com/card/lrw/213/garruk-wildspeaker?utm_source=api>`
@@ -1188,7 +1188,7 @@
 
 
 :mtgtip:`Gilt-Leaf Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47bf7254-4302-41a0-bc87-d7dc437ff38d.jpg?1562346619|https://scryfall.com/card/lrw/214/gilt-leaf-ambush?utm_source=api>`
-   Create two 1/1 green Elf Warrior creature tokens. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)
+   Create two 1/1 green Elf Warrior creature tokens. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)
 
 
 :mtgtip:`Gilt-Leaf Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b4cc889-9bc1-48dd-b1d1-95daa73b8fbe.jpg?1562337754|https://scryfall.com/card/lrw/215/gilt-leaf-seer?utm_source=api>`
@@ -1244,7 +1244,7 @@
 
 
 :mtgtip:`Lammastide Weave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/667fd7ab-de75-48e7-8d4b-a96130ae4666.jpg?1562351213|https://scryfall.com/card/lrw/226/lammastide-weave?utm_source=api>`
-   Choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you gain life equal to its converted mana cost.
+   Choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you gain life equal to its mana value.
 
    Draw a card.
 
@@ -1272,7 +1272,7 @@
 :mtgtip:`Nath's Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2a2b029-02ba-46b0-88a2-99025727cc56.jpg?1562374204|https://scryfall.com/card/lrw/231/naths-elite?utm_source=api>`
    All creatures able to block Nath's Elite do so.
 
-   When Nath's Elite enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   When Nath's Elite enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Oakgnarl Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fe818e-6dbc-4100-8552-b0393c87b052.jpg?1562337700|https://scryfall.com/card/lrw/232/oakgnarl-warrior?utm_source=api>`
@@ -1288,7 +1288,7 @@
 
    • Target player shuffles their graveyard into their library.
 
-   • Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+   • Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Rootgrapple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fe6051f-6252-4ad1-90ab-d21705a708d1.jpg?1562338616|https://scryfall.com/card/lrw/234/rootgrapple?utm_source=api>`
@@ -1296,11 +1296,11 @@
 
 
 :mtgtip:`Seedguide Ash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/eca605c0-6270-4238-bb77-0bbfd7568807.jpg?1562373213|https://scryfall.com/card/lrw/235/seedguide-ash?utm_source=api>`
-   When Seedguide Ash dies, you may search your library for up to three Forest cards and put them onto the battlefield tapped. If you do, shuffle your library.
+   When Seedguide Ash dies, you may search your library for up to three Forest cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Spring Cleaning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc20ef13-e97f-454c-8295-7bb8a7c4e4be.jpg?1562370668|https://scryfall.com/card/lrw/236/spring-cleaning?utm_source=api>`
-   Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Sylvan Echoes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5b55fa6-4c94-4ab4-bc30-4fb8b1d3e38f.jpg?1562374701|https://scryfall.com/card/lrw/237/sylvan-echoes?utm_source=api>`
@@ -1314,7 +1314,7 @@
 
 
 :mtgtip:`Treefolk Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ef45cdc-2e1c-40c7-8978-b09a50f511fb.jpg?1562360475|https://scryfall.com/card/lrw/239/treefolk-harbinger?utm_source=api>`
-   When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle your library and put that card on top of it.
+   When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Vigor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cede0be-1bdd-4392-beaf-b83d0b780eb7.jpg?1562349727|https://scryfall.com/card/lrw/240/vigor?utm_source=api>`
@@ -1334,7 +1334,7 @@
 
 
 :mtgtip:`Woodland Guidance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92adead0-f8b4-4c49-b4ce-d9253980ee03.jpg?1562358351|https://scryfall.com/card/lrw/243/woodland-guidance?utm_source=api>`
-   Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
    Exile Woodland Guidance.
 
@@ -1364,7 +1364,7 @@
 
 
 :mtgtip:`Gaddock Teeg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32c16e1b-f4ce-409f-928a-42c666adac9d.jpg?1562343893|https://scryfall.com/card/lrw/248/gaddock-teeg?utm_source=api>`
-   Noncreature spells with converted mana cost 4 or greater can't be cast.
+   Noncreature spells with mana value 4 or greater can't be cast.
 
    Noncreature spells with |mana_x| in their mana costs can't be cast.
 
@@ -1456,7 +1456,7 @@
 
 
 :mtgtip:`Wanderer's Twig<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8ea7b2c0-c641-478f-b8d9-17aa17fa1cbe.jpg?1562357879|https://scryfall.com/card/lrw/265/wanderers-twig?utm_source=api>`
-   |mana_1|, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_1|, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Ancient Amphitheater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2ff3a82d-e794-4c3b-994d-b28b8eb7eac4.jpg?1562343027|https://scryfall.com/card/lrw/266/ancient-amphitheater?utm_source=api>`

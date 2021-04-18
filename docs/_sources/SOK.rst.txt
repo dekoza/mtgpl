@@ -22,7 +22,7 @@
 :mtgtip:`Celestial Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/003e99a0-2caa-407b-be40-92ec17836eb3.jpg?1562492050|https://scryfall.com/card/sok/3/celestial-kirin?utm_source=api>`
    Flying
 
-   Whenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's converted mana cost.
+   Whenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's mana value.
 
 
 :mtgtip:`Charge Across the Araba<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe3e0bd8-d80f-4cda-b381-ed185072d83c.jpg?1562497049|https://scryfall.com/card/sok/4/charge-across-the-araba?utm_source=api>`
@@ -54,7 +54,7 @@
 
 
 :mtgtip:`Enduring Ideal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7dc7091e-0c98-434d-9190-dcab813d3e14.jpg?1562494671|https://scryfall.com/card/sok/9/enduring-ideal?utm_source=api>`
-   Search your library for an enchantment card and put it onto the battlefield. Then shuffle your library.
+   Search your library for an enchantment card, put it onto the battlefield, then shuffle.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)
 
@@ -84,7 +84,7 @@
 
 
 :mtgtip:`Kitsune Bonesetter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a94c12e0-8eb1-43f9-a421-43ca9bcffb0e.jpg?1562495185|https://scryfall.com/card/sok/15/kitsune-bonesetter?utm_source=api>`
-   |tap|: Prevent the next 3 damage that would be dealt to target creature this turn. Activate this ability only if you have more cards in hand than each opponent.
+   |tap|: Prevent the next 3 damage that would be dealt to target creature this turn. Activate only if you have more cards in hand than each opponent.
 
 
 :mtgtip:`Kitsune Dawnblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b09ab22e-aa22-4d6b-87c6-970563486f21.jpg?1562495584|https://scryfall.com/card/sok/16/kitsune-dawnblade?utm_source=api>`
@@ -166,13 +166,13 @@
 :mtgtip:`Torii Watchward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8ec0916-f320-4fad-9ec5-99aeecfda0e3.jpg?1562495601|https://scryfall.com/card/sok/30/torii-watchward?utm_source=api>`
    Vigilance (Attacking doesn't cause this creature to tap.)
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Cloudhoof Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42aa0d70-8d66-47aa-9228-25dcdb4e7dad.jpg?1562493486|https://scryfall.com/card/sok/31/cloudhoof-kirin?utm_source=api>`
    Flying
 
-   Whenever you cast a Spirit or Arcane spell, you may have target player mill X cards, where X is that spell's converted mana cost.
+   Whenever you cast a Spirit or Arcane spell, you may have target player mill X cards, where X is that spell's mana value.
 
 
 :mtgtip:`Cut the Earthly Bond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/066f185d-5f81-472a-8aff-2c11ba10d18c.jpg?1593860730|https://scryfall.com/card/sok/32/cut-the-earthly-bond?utm_source=api>`
@@ -198,7 +198,7 @@
 
 
 :mtgtip:`Eternal Dominion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3067a9bd-991a-462d-862a-2518ae31c382.jpg?1562493419|https://scryfall.com/card/sok/36/eternal-dominion?utm_source=api>`
-   Search target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles their library.
+   Search target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)
 
@@ -230,9 +230,9 @@
 
 
 :mtgtip:`Kaho, Minamo Historian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d85a5f54-9b79-4c3d-b983-021b4b01b122.jpg?1562496115|https://scryfall.com/card/sok/41/kaho-minamo-historian?utm_source=api>`
-   When Kaho, Minamo Historian enters the battlefield, search your library for up to three instant cards and exile them. Then shuffle your library.
+   When Kaho, Minamo Historian enters the battlefield, search your library for up to three instant cards, exile them, then shuffle.
 
-   |mana_x|, |tap|: You may cast a spell with converted mana cost X from among cards exiled with Kaho without paying its mana cost.
+   |mana_x|, |tap|: You may cast a spell with mana value X from among cards exiled with Kaho without paying its mana cost.
 
 
 :mtgtip:`Kami of the Crescent Moon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598|https://scryfall.com/card/sok/42/kami-of-the-crescent-moon?utm_source=api>`
@@ -282,7 +282,7 @@
 
 
 :mtgtip:`Overwhelming Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbeea686-7efc-48f5-b90b-bf1befc76a30.jpg?1562496066|https://scryfall.com/card/sok/51/overwhelming-intellect?utm_source=api>`
-   Counter target creature spell. Draw cards equal to that spell's converted mana cost.
+   Counter target creature spell. Draw cards equal to that spell's mana value.
 
 
 :mtgtip:`Rushing-Tide Zubera<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51a5357b-b479-46a7-8c3a-d51ed8f71a17.jpg?1562493719|https://scryfall.com/card/sok/52/rushing-tide-zubera?utm_source=api>`
@@ -356,7 +356,7 @@
 
    |mana_2|: Deathknell Kami gets +1/+1 until end of turn. Sacrifice it at the beginning of the next end step.
 
-   Soulshift 1 (When this creature dies, you may return target Spirit card with converted mana cost 1 or less from your graveyard to your hand.)
+   Soulshift 1 (When this creature dies, you may return target Spirit card with mana value 1 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Deathmask Nezumi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/743e38d1-b1cd-4828-ad3d-529a9f882115.jpg?1562494629|https://scryfall.com/card/sok/66/deathmask-nezumi?utm_source=api>`
@@ -364,7 +364,7 @@
 
 
 :mtgtip:`Exile into Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d6ac32c-9555-4408-8b18-c3098802b7ad.jpg?1562493688|https://scryfall.com/card/sok/67/exile-into-darkness?utm_source=api>`
-   Target player sacrifices a creature with converted mana cost 3 or less.
+   Target player sacrifices a creature with mana value 3 or less.
 
    At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.
 
@@ -374,9 +374,9 @@
 
 
 :mtgtip:`Ghost-Lit Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d3cc092-b673-4f4e-b9a8-8e60ff562dbd.jpg?1562492471|https://scryfall.com/card/sok/69/ghost-lit-stalker?utm_source=api>`
-   |mana_4|\ |mana_b|, |tap|: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+   |mana_4|\ |mana_b|, |tap|: Target player discards two cards. Activate only as a sorcery.
 
-   Channel — |mana_5|\ |mana_b|\ |mana_b|, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.
+   Channel — |mana_5|\ |mana_b|\ |mana_b|, Discard Ghost-Lit Stalker: Target player discards four cards. Activate only as a sorcery.
 
 
 :mtgtip:`Gnat Miser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1c51ee1-d6f6-42d7-9be6-fe3f982984ba.jpg?1562496618|https://scryfall.com/card/sok/70/gnat-miser?utm_source=api>`
@@ -392,7 +392,7 @@
 :mtgtip:`Infernal Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c79e7a4c-e0e7-42ac-b125-1db2f3d9325c.jpg?1562495650|https://scryfall.com/card/sok/72/infernal-kirin?utm_source=api>`
    Flying
 
-   Whenever you cast a Spirit or Arcane spell, target player reveals their hand and discards all cards with that spell's converted mana cost.
+   Whenever you cast a Spirit or Arcane spell, target player reveals their hand and discards all cards with that spell's mana value.
 
 
 :mtgtip:`Kagemaro, First to Suffer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/752f8672-1c37-4ab2-b290-fe3147784475.jpg?1562494640|https://scryfall.com/card/sok/73/kagemaro-first-to-suffer?utm_source=api>`
@@ -408,7 +408,7 @@
 
 
 :mtgtip:`Kami of Empty Graves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30502f07-760c-46d1-8b4a-d4bd4a23201f.jpg?1562493417|https://scryfall.com/card/sok/75/kami-of-empty-graves?utm_source=api>`
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Kemuri-Onna<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706|https://scryfall.com/card/sok/76/kemuri-onna?utm_source=api>`
@@ -452,7 +452,7 @@
 
 
 :mtgtip:`Neverending Torment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f91f678-9d3a-4502-81a6-3e1676aa447a.jpg?1562493480|https://scryfall.com/card/sok/83/neverending-torment?utm_source=api>`
-   Search target player's library for X cards, where X is the number of cards in your hand, and exile them. Then that player shuffles their library.
+   Search target player's library for X cards, where X is the number of cards in your hand, and exile them. Then that player shuffles.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)
 
@@ -600,7 +600,7 @@
 :mtgtip:`Skyfire Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d425562-3f0f-4aa3-a761-48ba445b8380.jpg?1562493019|https://scryfall.com/card/sok/113/skyfire-kirin?utm_source=api>`
    Flying
 
-   Whenever you cast a Spirit or Arcane spell, you may gain control of target creature with that spell's converted mana cost until end of turn.
+   Whenever you cast a Spirit or Arcane spell, you may gain control of target creature with that spell's mana value until end of turn.
 
 
 :mtgtip:`Sokenzan Renegade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e9b3164-3de2-4b25-88d0-2dffee32148a.jpg?1562492944|https://scryfall.com/card/sok/114/sokenzan-renegade?utm_source=api>`
@@ -628,7 +628,7 @@
 
 
 :mtgtip:`Undying Flames<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/606206c7-1a8a-46f4-b368-cf18e02f3df8.jpg?1562494171|https://scryfall.com/card/sok/119/undying-flames?utm_source=api>`
-   Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to any target equal to that card's converted mana cost.
+   Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to any target equal to that card's mana value.
 
    Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)
 
@@ -652,7 +652,7 @@
 :mtgtip:`Bounteous Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d7fe65e-81b1-4e69-913a-25fc99d96d81.jpg?1562492549|https://scryfall.com/card/sok/123/bounteous-kirin?utm_source=api>`
    Flying
 
-   Whenever you cast a Spirit or Arcane spell, you may gain life equal to that spell's converted mana cost.
+   Whenever you cast a Spirit or Arcane spell, you may gain life equal to that spell's mana value.
 
 
 :mtgtip:`Briarknit Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c042f8b-df20-48c1-a291-4d7e1bc5b384.jpg?1562494761|https://scryfall.com/card/sok/124/briarknit-kami?utm_source=api>`
@@ -676,7 +676,7 @@
 :mtgtip:`Elder Pine of Jukai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51c3e47b-a788-46b7-bf15-1216692e637a.jpg?1562493721|https://scryfall.com/card/sok/128/elder-pine-of-jukai?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
 
-   Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)
+   Soulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Endless Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f64d9404-9685-495d-a591-63d6164a88a9.jpg?1562496629|https://scryfall.com/card/sok/129/endless-swarm?utm_source=api>`
@@ -708,7 +708,7 @@
 :mtgtip:`Kami of the Tended Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdedd830-9200-4e8b-84b4-00dc58cace35.jpg?1562495624|https://scryfall.com/card/sok/134/kami-of-the-tended-garden?utm_source=api>`
    At the beginning of your upkeep, sacrifice Kami of the Tended Garden unless you pay |mana_g|.
 
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Kashi-Tribe Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d12adf2d-ebf9-464e-9957-c8518d364a40.jpg?1562496094|https://scryfall.com/card/sok/135/kashi-tribe-elite?utm_source=api>`
@@ -732,7 +732,7 @@
 
 
 :mtgtip:`Nightsoil Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5902f863-171e-4bb2-9d48-2c679d41f1a9.jpg?1562494137|https://scryfall.com/card/sok/139/nightsoil-kami?utm_source=api>`
-   Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)
+   Soulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Okina Nightwatch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2eea50b1-ba6e-4c57-9b49-488b883be638.jpg?1562493032|https://scryfall.com/card/sok/140/okina-nightwatch?utm_source=api>`
@@ -740,7 +740,7 @@
 
 
 :mtgtip:`Promised Kannushi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7aac4236-9573-4cff-88d9-711a56da4346.jpg?1562494665|https://scryfall.com/card/sok/141/promised-kannushi?utm_source=api>`
-   Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)
+   Soulshift 7 (When this creature dies, you may return target Spirit card with mana value 7 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Reki, the History of Kamigawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86317339-5a39-41eb-8aee-5ea926da8cd4.jpg?1593860751|https://scryfall.com/card/sok/142/reki-the-history-of-kamigawa?utm_source=api>`
@@ -748,7 +748,7 @@
 
 
 :mtgtip:`Rending Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34cf7931-d086-496e-98dc-5daa60e01f5b.jpg?1562493444|https://scryfall.com/card/sok/143/rending-vines?utm_source=api>`
-   Destroy target artifact or enchantment if its converted mana cost is less than or equal to the number of cards in your hand.
+   Destroy target artifact or enchantment if its mana value is less than or equal to the number of cards in your hand.
 
    Draw a card.
 
@@ -770,7 +770,7 @@
 
 
 :mtgtip:`Seek the Horizon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49f8a9e7-f505-4fc5-b820-0af1ee1960c7.jpg?1562493664|https://scryfall.com/card/sok/147/seek-the-horizon?utm_source=api>`
-   Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+   Search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Sekki, Seasons' Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9883e973-54c3-4bec-91d8-22f2829cdfa2.jpg?1562495122|https://scryfall.com/card/sok/148/sekki-seasons-guide?utm_source=api>`
@@ -794,7 +794,7 @@
 
 
 :mtgtip:`Iname as One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e13f122-0dfe-42f3-9815-9ae1a29fca99.jpg?1562493699|https://scryfall.com/card/sok/151/iname-as-one?utm_source=api>`
-   When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle your library.
+   When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle.
 
    When Iname as One dies, you may exile it. If you do, return target Spirit permanent card from your graveyard to the battlefield.
 

@@ -58,7 +58,7 @@
 :mtgtip:`Knight of Valor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25aa80ae-bb17-4e52-a269-efe75cf4c041.jpg?1562277415|https://scryfall.com/card/vis/11/knight-of-valor?utm_source=api>`
    Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
 
-   |mana_1|\ |mana_w|: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_w|: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Longbow Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2ee185d-f5ae-4b1d-90a4-840182f87ab8.jpg?1562279093|https://scryfall.com/card/vis/12/longbow-archer?utm_source=api>`
@@ -118,7 +118,7 @@
 
 
 :mtgtip:`Tithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aae08938-e563-4322-b2eb-db81913ea730.jpg?1562278172|https://scryfall.com/card/vis/23/tithe?utm_source=api>`
-   Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.
+   Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Warrior's Honor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7babd273-3e20-4cf9-bf21-c602eb729fc5.jpg?1562278133|https://scryfall.com/card/vis/24/warriors-honor?utm_source=api>`
@@ -144,7 +144,7 @@
 
 
 :mtgtip:`Chronatog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05ada02f-04e9-4269-b04a-97a7eaac2c46.jpg?1562276952|https://scryfall.com/card/vis/28/chronatog?utm_source=api>`
-   |mana_0|: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn.
+   |mana_0|: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate only once each turn.
 
 
 :mtgtip:`Cloud Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f2a5146-cf2e-40c0-b498-06e611343196.jpg?1562277658|https://scryfall.com/card/vis/29/cloud-elemental?utm_source=api>`
@@ -346,7 +346,7 @@
 
 
 :mtgtip:`Necrosavant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e70cd5fa-ae66-4ea4-90d2-28af2aa34dd4.jpg?1562279098|https://scryfall.com/card/vis/65/necrosavant?utm_source=api>`
-   |mana_3|\ |mana_b|\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |mana_3|\ |mana_b|\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Nekrataal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dba3e342-88b7-4692-a3f7-a3f56c0cf6b5.jpg?1562278652|https://scryfall.com/card/vis/66/nekrataal?utm_source=api>`
@@ -374,11 +374,11 @@
 
 
 :mtgtip:`Urborg Mindsucker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78405864-fc83-47ab-9238-8e0464a700ec.jpg?1562277695|https://scryfall.com/card/vis/71/urborg-mindsucker?utm_source=api>`
-   |mana_b|, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.
+   |mana_b|, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate only as a sorcery.
 
 
 :mtgtip:`Vampiric Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d.jpg?1562276960|https://scryfall.com/card/vis/72/vampiric-tutor?utm_source=api>`
-   Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+   Search your library for a card, then shuffle and put that card on top. You lose 2 life.
 
 
 :mtgtip:`Vampirism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2dff2817-1813-410f-aca7-96e8f9f4ce81.jpg?1562277423|https://scryfall.com/card/vis/73/vampirism?utm_source=api>`
@@ -424,7 +424,7 @@
 
 
 :mtgtip:`Goblin Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.jpg?1562277683|https://scryfall.com/card/vis/80/goblin-recruiter?utm_source=api>`
-   When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+   When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order.
 
 
 :mtgtip:`Goblin Swine-Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49980982-d534-4204-bc15-3e6c4ffa1a53.jpg?1562277459|https://scryfall.com/card/vis/81/goblin-swine-rider?utm_source=api>`
@@ -506,7 +506,7 @@
 :mtgtip:`Spitting Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9f6ef97-587f-4f7b-98a2-e3cc8b39df8b.jpg?1562278636|https://scryfall.com/card/vis/95/spitting-drake?utm_source=api>`
    Flying
 
-   |mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+   |mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Suq'Ata Lancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2884d8df-7fd5-4247-9da5-38c31333ff5d.jpg?1562277417|https://scryfall.com/card/vis/96/suqata-lancer?utm_source=api>`
@@ -592,9 +592,9 @@
 :mtgtip:`Kyscu Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6f14bbe-2436-4a5a-8e2a-8066b740b715.jpg?1562278619|https://scryfall.com/card/vis/111/kyscu-drake?utm_source=api>`
    Flying
 
-   |mana_g|: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn.
+   |mana_g|: Kyscu Drake gets +0/+1 until end of turn. Activate only once each turn.
 
-   Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library.
+   Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Lichenthrope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76f0c356-a81d-41d4-a8b7-8c159146a8b8.jpg?1562277692|https://scryfall.com/card/vis/112/lichenthrope?utm_source=api>`
@@ -612,7 +612,7 @@
 :mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0845f0b0-9413-4ddd-861d-9607636bebc6.jpg?1562276959|https://scryfall.com/card/vis/114/natural-order?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a green creature.
 
-   Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+   Search your library for a green creature card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Panther Warriors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76c9bc99-28e3-4d64-8383-2b92011104ed.jpg?1587913104|https://scryfall.com/card/vis/115/panther-warriors?utm_source=api>`
@@ -624,7 +624,7 @@
 
 
 :mtgtip:`Quirion Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56efe72c-6d7f-44f6-ac74-01af9305c4b6.jpg?1562277667|https://scryfall.com/card/vis/117/quirion-ranger?utm_source=api>`
-   Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+   Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn.
 
 
 :mtgtip:`River Boa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e9d5aaf-b7e8-4676-aec8-7d29a0169a2c.jpg?1562277426|https://scryfall.com/card/vis/118/river-boa?utm_source=api>`
@@ -678,7 +678,7 @@
 :mtgtip:`Corrosion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/176122b2-f60f-4150-8c0c-757c8f8914d2.jpg?1562276973|https://scryfall.com/card/vis/128/corrosion?utm_source=api>`
    Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 
-   At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with converted mana cost less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated.
+   At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with mana value less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated.
 
    When Corrosion leaves the battlefield, remove all rust counters from all permanents.
 
@@ -822,7 +822,7 @@
 
 
 :mtgtip:`Snake Basket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfda9a16-9cdb-494a-b662-ac24e3b89d0c.jpg?1562278632|https://scryfall.com/card/vis/155/snake-basket?utm_source=api>`
-   |mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery.
+   |mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate only as a sorcery.
 
 
 :mtgtip:`Teferi's Puzzle Box<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1377dab4-b814-46cc-a097-24a3cf8d0f8f.jpg?1562276969|https://scryfall.com/card/vis/156/teferis-puzzle-box?utm_source=api>`

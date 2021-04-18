@@ -32,7 +32,7 @@
 :mtgtip:`Netherborn Phalanx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7ec7e17-3f4f-4dae-b6ff-482a52a24f70.jpg?1541002708|https://scryfall.com/card/gk1/6/netherborn-phalanx?utm_source=api>`
    When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control.
 
-   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Ribbons of Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5053c57-599d-4487-a7e2-97d60a2b6165.jpg?1541002713|https://scryfall.com/card/gk1/7/ribbons-of-night?utm_source=api>`
@@ -76,9 +76,9 @@
 :mtgtip:`Dimir Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edf22e3d-92fd-4135-9b33-3ed3e100b736.jpg?1541002741|https://scryfall.com/card/gk1/13/dimir-guildmage?utm_source=api>`
    (|mana_ub| can be paid with either |mana_u| or |mana_b|.)
 
-   |mana_3|\ |mana_u|: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|: Target player draws a card. Activate only as a sorcery.
 
-   |mana_3|\ |mana_b|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Dinrova Horror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0018de2-0646-48fe-8112-11952867c3bb.jpg?1541002745|https://scryfall.com/card/gk1/14/dinrova-horror?utm_source=api>`
@@ -326,7 +326,7 @@
 :mtgtip:`Abrupt Decay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02517f12-cd8a-4d62-89cb-523b9b9295d5.jpg?1541002951|https://scryfall.com/card/gk1/57/abrupt-decay?utm_source=api>`
    This spell can't be countered.
 
-   Destroy target nonland permanent with converted mana cost 3 or less.
+   Destroy target nonland permanent with mana value 3 or less.
 
 
 :mtgtip:`Deadbridge Chant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec89d15b-415e-4c70-abfc-fc97ce9c5c14.jpg?1541002955|https://scryfall.com/card/gk1/58/deadbridge-chant?utm_source=api>`
@@ -348,7 +348,7 @@
 
 
 :mtgtip:`Gaze of Granite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3d3ce6d-b8f7-45b3-aebd-33cd6d4d98cd.jpg?1541002969|https://scryfall.com/card/gk1/61/gaze-of-granite?utm_source=api>`
-   Destroy each nonland permanent with converted mana cost X or less.
+   Destroy each nonland permanent with mana value X or less.
 
 
 :mtgtip:`Golgari Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d64cd06b-95aa-449b-8d03-5a166cb46f84.jpg?1541002973|https://scryfall.com/card/gk1/62/golgari-charm?utm_source=api>`
@@ -498,7 +498,7 @@
 
    At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.
 
-   |mana_6|\ |mana_r|\ |mana_r|\ |mana_w|\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |mana_6|\ |mana_r|\ |mana_r|\ |mana_w|\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Firemane Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a78e99c-b517-44ff-9291-6c828ac8469f.jpg?1541002805|https://scryfall.com/card/gk1/89/firemane-avenger?utm_source=api>`

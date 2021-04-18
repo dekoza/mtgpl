@@ -48,7 +48,7 @@
 
 
 :mtgtip:`Battalion Foot Soldier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1db6393a-88b0-4973-9832-1482f69917ff.jpg?1592515970|https://scryfall.com/card/m20/7/battalion-foot-soldier?utm_source=api>`
-   When Battalion Foot Soldier enters the battlefield, you may search your library for any number of cards named Battalion Foot Soldier, reveal them, put them into your hand, then shuffle your library.
+   When Battalion Foot Soldier enters the battlefield, you may search your library for any number of cards named Battalion Foot Soldier, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Bishop of Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca42da05-330d-4050-a580-dc00f6faff24.jpg?1592515977|https://scryfall.com/card/m20/8/bishop-of-wings?utm_source=api>`
@@ -114,7 +114,7 @@
 :mtgtip:`Gods Willing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90883bac-bcd8-4fa9-a17c-c2402fb0714e.jpg?1592516061|https://scryfall.com/card/m20/19/gods-willing?utm_source=api>`
    Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
 
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
 
 :mtgtip:`Griffin Protector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c32c4f2-4fa5-4874-8413-eac822121a0b.jpg?1592516069|https://scryfall.com/card/m20/20/griffin-protector?utm_source=api>`
@@ -258,7 +258,7 @@
 
    |mana_2|\ |mana_u|, |tap|: Draw two cards, then discard a card.
 
-   Whenever Atemsis, All-Seeing deals damage to an opponent, you may reveal your hand. If cards with at least six different converted mana costs are revealed this way, that player loses the game.
+   Whenever Atemsis, All-Seeing deals damage to an opponent, you may reveal your hand. If cards with at least six different mana values are revealed this way, that player loses the game.
 
 
 :mtgtip:`Befuddle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/1414939c-7f15-4eb3-abeb-6e75c52d2b52.jpg?1592516285|https://scryfall.com/card/m20/47/befuddle?utm_source=api>`
@@ -394,13 +394,13 @@
 
 
 :mtgtip:`Portal of Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37c66692-2880-4ea2-abaf-8926c6950826.jpg?1592516470|https://scryfall.com/card/m20/71/portal-of-sanctuary?utm_source=api>`
-   |mana_1|, |tap|: Return target creature you control and each Aura attached to it to their owners' hands. Activate this ability only during your turn.
+   |mana_1|, |tap|: Return target creature you control and each Aura attached to it to their owners' hands. Activate only during your turn.
 
 
 :mtgtip:`Renowned Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec947bb8-8cb0-4e1e-8873-fe9bb9761e01.jpg?1592516477|https://scryfall.com/card/m20/72/renowned-weaponsmith?utm_source=api>`
    |tap|: Add |colorless|\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 
-   |mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.
+   |mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sage's Row Denizen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06ad3e3e-176b-48f0-af2f-fa4fc4759775.jpg?1592516487|https://scryfall.com/card/m20/73/sages-row-denizen?utm_source=api>`
@@ -490,7 +490,7 @@
 
 
 :mtgtip:`Bloodsoaked Altar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9169431-a5b1-42ea-bcf4-6c750d2a2dbb.jpg?1592516608|https://scryfall.com/card/m20/90/bloodsoaked-altar?utm_source=api>`
-   |tap|, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black Demon creature token with flying. Activate this ability only any time you could cast a sorcery.
+   |tap|, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black Demon creature token with flying. Activate only as a sorcery.
 
 
 :mtgtip:`Bloodthirsty Aerialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29156f28-38d8-4f65-b416-089f3fd97109.jpg?1592516615|https://scryfall.com/card/m20/91/bloodthirsty-aerialist?utm_source=api>`
@@ -514,7 +514,7 @@
 
    When Cavalier of Night enters the battlefield, you may sacrifice another creature. When you do, destroy target creature an opponent controls.
 
-   When Cavalier of Night dies, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+   When Cavalier of Night dies, return target creature card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Disfigure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18069340-a698-4f75-82cc-cc94fcf82184.jpg?1592516643|https://scryfall.com/card/m20/95/disfigure?utm_source=api>`
@@ -572,7 +572,7 @@
 
 
 :mtgtip:`Legion's End<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49a1cd92-9d75-4e22-a934-a26d84967015.jpg?1592516718|https://scryfall.com/card/m20/106/legions-end?utm_source=api>`
-   Exile target creature an opponent controls with converted mana cost 2 or less and all other creatures that player controls with the same name as that creature. Then that player reveals their hand and exiles all cards with that name from their hand and graveyard.
+   Exile target creature an opponent controls with mana value 2 or less and all other creatures that player controls with the same name as that creature. Then that player reveals their hand and exiles all cards with that name from their hand and graveyard.
 
 
 :mtgtip:`Leyline of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04d5d429-e0c6-42cc-a477-da7dabb1c295.jpg?1592516724|https://scryfall.com/card/m20/107/leyline-of-the-void?utm_source=api>`
@@ -602,7 +602,7 @@
 
 
 :mtgtip:`Scheming Symmetry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01acc50b-856d-442d-9880-1a892b40643b.jpg?1592516766|https://scryfall.com/card/m20/113/scheming-symmetry?utm_source=api>`
-   Choose two target players. Each of them searches their library for a card, then shuffles their library and puts that card on top of it.
+   Choose two target players. Each of them searches their library for a card, then shuffles and puts that card on top.
 
 
 :mtgtip:`Sorcerer of the Fang<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fe9e325-fbe4-4f43-8d68-8525c4d5ce8b.jpg?1592516772|https://scryfall.com/card/m20/114/sorcerer-of-the-fang?utm_source=api>`
@@ -678,7 +678,7 @@
 
    0: Create two 1/1 red Elemental creature tokens. They gain haste. Sacrifice them at the beginning of the next end step.
 
-   −2: You may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard. If that spell would be put into your graveyard this turn, exile it instead.
+   −2: You may cast target instant or sorcery card with mana value 3 or less from your graveyard. If that spell would be put into your graveyard this turn, exile it instead.
 
 
 :mtgtip:`Chandra, Awakened Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49d2a680-4f3b-4bfa-b77b-d2dfaced9f23.jpg?1592516849|https://scryfall.com/card/m20/127/chandra-awakened-inferno?utm_source=api>`
@@ -762,11 +762,11 @@
 
    Whenever you discard a card, Glint-Horn Buccaneer deals 1 damage to each opponent.
 
-   |mana_1|\ |mana_r|, Discard a card: Draw a card. Activate this ability only if Glint-Horn Buccaneer is attacking.
+   |mana_1|\ |mana_r|, Discard a card: Draw a card. Activate only if Glint-Horn Buccaneer is attacking.
 
 
 :mtgtip:`Goblin Bird-Grabber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54fbbf39-cd52-474a-908e-b7a78cb5eb5b.jpg?1592516953|https://scryfall.com/card/m20/142/goblin-bird-grabber?utm_source=api>`
-   |mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate this ability only if you control a creature with flying.
+   |mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate only if you control a creature with flying.
 
 
 :mtgtip:`Goblin Ringleader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.jpg?1592516961|https://scryfall.com/card/m20/143/goblin-ringleader?utm_source=api>`
@@ -906,7 +906,7 @@
 :mtgtip:`Elvish Reclaimer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39c431d7-d94b-46c4-bb89-f3db56214ab4.jpg?1592517191|https://scryfall.com/card/m20/169/elvish-reclaimer?utm_source=api>`
    Elvish Reclaimer gets +2/+2 as long as there are three or more land cards in your graveyard.
 
-   |mana_2|, |tap|, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Feral Invocation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2d08b7a-4ed9-4e4c-a52e-9bf2a16420a9.jpg?1592517198|https://scryfall.com/card/m20/170/feral-invocation?utm_source=api>`
@@ -1030,7 +1030,7 @@
 
 
 :mtgtip:`Shared Summons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e1e49b6-ed0f-42f5-af22-6f4aa23ce4ef.jpg?1592517377|https://scryfall.com/card/m20/193/shared-summons?utm_source=api>`
-   Search your library for up to two creature cards with different names, reveal them, put them into your hand, then shuffle your library.
+   Search your library for up to two creature cards with different names, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Shifting Ceratops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e318600-21af-4003-bcfa-be926cd24c5c.jpg?1592517384|https://scryfall.com/card/m20/194/shifting-ceratops?utm_source=api>`
@@ -1224,11 +1224,11 @@
 
 
 :mtgtip:`Diviner's Lockbox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da55c6a1-1f26-4254-ac62-fdbe94278de5.jpg?1592517628|https://scryfall.com/card/m20/225/diviners-lockbox?utm_source=api>`
-   |mana_1|, |tap|: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, |tap|: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate only as a sorcery.
 
 
 :mtgtip:`Golos, Tireless Pilgrim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1592517637|https://scryfall.com/card/m20/226/golos-tireless-pilgrim?utm_source=api>`
-   When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle your library.
+   When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
 
    |mana_2|\ |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Exile the top three cards of your library. You may play them this turn without paying their mana costs.
 
@@ -1278,7 +1278,7 @@
 
 
 :mtgtip:`Pattern Matcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad608eb3-d387-4414-b194-703f38863896.jpg?1592517704|https://scryfall.com/card/m20/234/pattern-matcher?utm_source=api>`
-   When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle your library.
+   When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Prismite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c9fdb01-ba52-4510-897e-0d69558fdaee.jpg?1592517711|https://scryfall.com/card/m20/235/prismite?utm_source=api>`
@@ -1332,7 +1332,7 @@
 :mtgtip:`Cryptic Caves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fde9e9cb-68ab-4856-8ad6-30f66666dd93.jpg?1592517788|https://scryfall.com/card/m20/244/cryptic-caves?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands.
+   |mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands.
 
 
 :mtgtip:`Dismal Backwater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5ff247f-82d1-4b79-9ac0-1471a1f0f58b.jpg?1592517794|https://scryfall.com/card/m20/245/dismal-backwater?utm_source=api>`
@@ -1344,7 +1344,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad0fa2fb-6770-4a81-b830-4acfa957655a.jpg?1592517801|https://scryfall.com/card/m20/246/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Field of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1613386888|https://scryfall.com/card/m20/247/field-of-the-dead?utm_source=api>`
@@ -1500,7 +1500,7 @@
 :mtgtip:`Goldmane Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67edcb9b-f56b-4a34-b4bd-d22ee929041a.jpg?1592518068|https://scryfall.com/card/m20/283/goldmane-griffin?utm_source=api>`
    Flying, vigilance
 
-   When Goldmane Griffin enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Inspiring Leader, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Goldmane Griffin enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Inspiring Leader, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Savannah Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5fa4bb-e061-456f-808e-8d98b2c8abf5.jpg?1592518076|https://scryfall.com/card/m20/284/savannah-sage?utm_source=api>`
@@ -1536,7 +1536,7 @@
 :mtgtip:`Yanling's Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93aca389-6830-4297-97bc-e3a2a1a1d41a.jpg?1592518118|https://scryfall.com/card/m20/289/yanlings-harbinger?utm_source=api>`
    Flying
 
-   When Yanling's Harbinger enters the battlefield, you may search your library and/or graveyard for a card named Mu Yanling, Celestial Wind, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Yanling's Harbinger enters the battlefield, you may search your library and/or graveyard for a card named Mu Yanling, Celestial Wind, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Sorin, Vampire Lord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf20ea7b-e480-4b0e-b080-888f24d3c08d.jpg?1592518125|https://scryfall.com/card/m20/290/sorin-vampire-lord?utm_source=api>`
@@ -1554,7 +1554,7 @@
 
 
 :mtgtip:`Sorin's Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416b000d-77d0-4c83-bbbd-d1107f746dde.jpg?1592518139|https://scryfall.com/card/m20/292/sorins-guide?utm_source=api>`
-   When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Thirsting Bloodlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/599e8ed3-4341-4373-8871-2768a90d98c1.jpg?1592518147|https://scryfall.com/card/m20/293/thirsting-bloodlord?utm_source=api>`
@@ -1570,7 +1570,7 @@
 
 
 :mtgtip:`Chandra's Flame Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f13b6a7-fa62-4d94-a56c-f2e64c8c1666.jpg?1592518162|https://scryfall.com/card/m20/295/chandras-flame-wave?utm_source=api>`
-   Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Pyroclastic Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d57f8b5-fde9-498d-82bf-34bfb2370703.jpg?1592518170|https://scryfall.com/card/m20/296/pyroclastic-elemental?utm_source=api>`
@@ -1592,7 +1592,7 @@
 :mtgtip:`Ethereal Elk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f4d0ed2-3fc5-4cb0-b886-e30b21e76872.jpg?1592518196|https://scryfall.com/card/m20/299/ethereal-elk?utm_source=api>`
    Trample
 
-   When Ethereal Elk enters the battlefield, you may search your library and/or graveyard for a card named Vivien, Nature's Avenger, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Ethereal Elk enters the battlefield, you may search your library and/or graveyard for a card named Vivien, Nature's Avenger, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Gnarlback Rhino<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68a69558-aca0-413d-9762-2fa115b44abd.jpg?1592518204|https://scryfall.com/card/m20/300/gnarlback-rhino?utm_source=api>`
@@ -1776,7 +1776,7 @@
 
 
 :mtgtip:`Frilled Sandwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73c755ff-3fbb-4128-9357-0874eb61ff4c.jpg?1592518424|https://scryfall.com/card/m20/340/frilled-sandwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Oakenform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1ca08a0-c58d-4c13-bf63-0401d89839b4.jpg?1592518431|https://scryfall.com/card/m20/341/oakenform?utm_source=api>`

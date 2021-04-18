@@ -56,13 +56,13 @@
 
    Enchanted creature can't attack, block, or transform.
 
-   Sacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate this ability only any time you could cast a sorcery and only once each turn.
+   Sacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate only as a sorcery and only once each turn.
 
 
 :mtgtip:`Bygone Bishop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c45198f-fb2b-4c83-abdc-8b1a0071cfed.jpg?1576383693|https://scryfall.com/card/soi/8/bygone-bishop?utm_source=api>`
    Flying
 
-   Whenever you cast a creature spell with converted mana cost 3 or less, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Cathar's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f4b9943-0fe6-4383-90a0-4a719dcf9499.jpg?1576383699|https://scryfall.com/card/soi/9/cathars-companion?utm_source=api>`
@@ -74,7 +74,7 @@
 
 
 :mtgtip:`Dauntless Cathar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb1a458a-d3b6-44d9-ac80-a7a46b505805.jpg?1576383712|https://scryfall.com/card/soi/11/dauntless-cathar?utm_source=api>`
-   |mana_1|\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.
 
 
 :mtgtip:`Declaration in Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f685445d-e2af-455f-b3b2-97cf15362f3c.jpg?1576383718|https://scryfall.com/card/soi/12/declaration-in-stone?utm_source=api>`
@@ -124,7 +124,7 @@
 
    Enchanted creature gets +1/+0 and has flying.
 
-   |mana_3|\ |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Hanweir Militia Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e137566-5033-48e8-88ba-65e3821b3cec.jpg?1576383782|https://scryfall.com/card/soi/21/hanweir-militia-captain-westvale-cult-leader?utm_source=api>`
@@ -176,7 +176,7 @@
 :mtgtip:`Nearheath Chaplain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/362ec364-39c1-4a4b-8dfa-268fad2effdd.jpg?1576383833|https://scryfall.com/card/soi/29/nearheath-chaplain?utm_source=api>`
    Lifelink
 
-   |mana_2|\ |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate only as a sorcery.
 
 
 :mtgtip:`Not Forgotten<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66ecdadf-56f7-4dfb-9c3c-7d240ba19b00.jpg?1576383839|https://scryfall.com/card/soi/30/not-forgotten?utm_source=api>`
@@ -188,7 +188,7 @@
 
 
 :mtgtip:`Open the Armory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07dc0c44-908f-40e9-9c6a-e1ef699e6d2e.jpg?1576383852|https://scryfall.com/card/soi/32/open-the-armory?utm_source=api>`
-   Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Paranoid Parish-Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16bb6c60-1889-49ed-8767-8144cc5a9571.jpg?1576383858|https://scryfall.com/card/soi/33/paranoid-parish-blade?utm_source=api>`
@@ -212,7 +212,7 @@
 :mtgtip:`Reaper of Flight Moonsilver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58cf3ac8-db59-4acc-abb6-e63b95b849ac.jpg?1576383883|https://scryfall.com/card/soi/36/reaper-of-flight-moonsilver?utm_source=api>`
    Flying
 
-   Delirium — Sacrifice another creature: Reaper of Flight Moonsilver gets +2/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — Sacrifice another creature: Reaper of Flight Moonsilver gets +2/+1 until end of turn. Activate only if there are four or more card types among cards in your graveyard.
 
 
 :mtgtip:`Silverstrike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f27b92a-cde9-41bc-9b23-d83b74b167d4.jpg?1576383889|https://scryfall.com/card/soi/37/silverstrike?utm_source=api>`
@@ -392,7 +392,7 @@
 :mtgtip:`Invasive Surgery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e644e38-39bf-40bd-9be1-5eb80f472e81.jpg?1576384110|https://scryfall.com/card/soi/68/invasive-surgery?utm_source=api>`
    Counter target sorcery spell.
 
-   Delirium — If there are four or more card types among cards in your graveyard, search the graveyard, hand, and library of that spell's controller for any number of cards with the same name as that spell, exile those cards, then that player shuffles their library.
+   Delirium — If there are four or more card types among cards in your graveyard, search the graveyard, hand, and library of that spell's controller for any number of cards with the same name as that spell, exile those cards, then that player shuffles.
 
 
 :mtgtip:`Jace, Unraveler of Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20d5521d-e9f1-49e0-aa13-8e6de794cb12.jpg?1576384117|https://scryfall.com/card/soi/69/jace-unraveler-of-secrets?utm_source=api>`
@@ -506,7 +506,7 @@
 :mtgtip:`Startled Awake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e630fc56-a96f-4abf-be8d-f0f40d5a9edf.jpg?1576384252|https://scryfall.com/card/soi/88/startled-awake-persistent-nightmare?utm_source=api>`
    Target opponent mills thirteen cards.
 
-   |mana_3|\ |mana_u|\ |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|\ |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate only as a sorcery.
 
 
 :mtgtip:`Persistent Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e630fc56-a96f-4abf-be8d-f0f40d5a9edf.jpg?1576384252|https://scryfall.com/card/soi/88/startled-awake-persistent-nightmare?utm_source=api>`
@@ -602,7 +602,7 @@
 
 
 :mtgtip:`Behold the Beyond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd22350b-d48c-4ae6-b95f-63336fabe0e3.jpg?1576384353|https://scryfall.com/card/soi/101/behold-the-beyond?utm_source=api>`
-   Discard your hand. Search your library for three cards and put those cards into your hand. Then shuffle your library.
+   Discard your hand. Search your library for three cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Biting Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ac62d2f-6834-4d98-b69d-bd7b5831d981.jpg?1576384359|https://scryfall.com/card/soi/102/biting-rain?utm_source=api>`
@@ -612,7 +612,7 @@
 
 
 :mtgtip:`Call the Bloodline<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ec85cca-ac2c-4b1b-850b-6a762df72bd0.jpg?1576384367|https://scryfall.com/card/soi/103/call-the-bloodline?utm_source=api>`
-   |mana_1|, Discard a card: Create a 1/1 black Vampire Knight creature token with lifelink. Activate this ability only once each turn.
+   |mana_1|, Discard a card: Create a 1/1 black Vampire Knight creature token with lifelink. Activate only once each turn.
 
 
 :mtgtip:`Creeping Dread<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b3376c4-369a-4d63-bd48-966bcfb0c9b9.jpg?1576384374|https://scryfall.com/card/soi/104/creeping-dread?utm_source=api>`
@@ -666,7 +666,7 @@
 
 
 :mtgtip:`Ghoulcaller's Accomplice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f48828d-5f97-434f-a3b8-9e8c75cc8932.jpg?1576384430|https://scryfall.com/card/soi/112/ghoulcallers-accomplice?utm_source=api>`
-   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate only as a sorcery.
 
 
 :mtgtip:`Ghoulsteed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed5ba8dd-d2cd-4ee6-bdb4-390968f1ff54.jpg?1576384438|https://scryfall.com/card/soi/113/ghoulsteed?utm_source=api>`
@@ -684,7 +684,7 @@
 
 
 :mtgtip:`Heir of Falkenrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf2ad186-4d85-4628-ae84-3c58c88d34cb.jpg?1576384463|https://scryfall.com/card/soi/116/heir-of-falkenrath-heir-to-the-night?utm_source=api>`
-   Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.
+   Discard a card: Transform Heir of Falkenrath. Activate only once each turn.
 
 
 :mtgtip:`Heir to the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/f/cf2ad186-4d85-4628-ae84-3c58c88d34cb.jpg?1576384463|https://scryfall.com/card/soi/116/heir-of-falkenrath-heir-to-the-night?utm_source=api>`
@@ -702,7 +702,7 @@
 
 
 :mtgtip:`Kindly Stranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e326d5f4-63e1-45fa-8c48-6fdc05709c52.jpg?1576384488|https://scryfall.com/card/soi/119/kindly-stranger-demon-possessed-witch?utm_source=api>`
-   Delirium — |mana_2|\ |mana_b|: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — |mana_2|\ |mana_b|: Transform Kindly Stranger. Activate only if there are four or more card types among cards in your graveyard.
 
 
 :mtgtip:`Demon-Possessed Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/3/e326d5f4-63e1-45fa-8c48-6fdc05709c52.jpg?1576384488|https://scryfall.com/card/soi/119/kindly-stranger-demon-possessed-witch?utm_source=api>`
@@ -766,7 +766,7 @@
 :mtgtip:`Pick the Brain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53503e59-6b6c-4de1-8528-458ab94f4e9a.jpg?1576384552|https://scryfall.com/card/soi/129/pick-the-brain?utm_source=api>`
    Target opponent reveals their hand. You choose a nonland card from it and exile that card.
 
-   Delirium — If there are four or more card types among cards in your graveyard, search that player's graveyard, hand, and library for any number of cards with the same name as the exiled card, exile those cards, then that player shuffles their library.
+   Delirium — If there are four or more card types among cards in your graveyard, search that player's graveyard, hand, and library for any number of cards with the same name as the exiled card, exile those cards, then that player shuffles.
 
 
 :mtgtip:`Rancid Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/336e0a75-8104-4e88-aad0-af7ac3efc115.jpg?1576384558|https://scryfall.com/card/soi/130/rancid-rats?utm_source=api>`
@@ -780,7 +780,7 @@
 
    When Relentless Dead dies, you may pay |mana_b|. If you do, return it to its owner's hand.
 
-   When Relentless Dead dies, you may pay |mana_x|. If you do, return another target Zombie creature card with converted mana cost X from your graveyard to the battlefield.
+   When Relentless Dead dies, you may pay |mana_x|. If you do, return another target Zombie creature card with mana value X from your graveyard to the battlefield.
 
 
 :mtgtip:`Rottenheart Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/933f0504-c611-4557-b1e6-f5be72154805.jpg?1576384569|https://scryfall.com/card/soi/132/rottenheart-ghoul?utm_source=api>`
@@ -800,7 +800,7 @@
 
 
 :mtgtip:`Stallion of Ashmouth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b465a5d-3ce4-4c96-a3f3-4ad9716946c4.jpg?1576384594|https://scryfall.com/card/soi/136/stallion-of-ashmouth?utm_source=api>`
-   Delirium — |mana_1|\ |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — |mana_1|\ |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate only if there are four or more card types among cards in your graveyard.
 
 
 :mtgtip:`Stromkirk Mentor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa90b7dc-fb90-411e-a762-06a800bae0cf.jpg?1576384600|https://scryfall.com/card/soi/137/stromkirk-mentor?utm_source=api>`
@@ -840,7 +840,7 @@
 
 
 :mtgtip:`Vessel of Malignity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81b44857-1edb-4de4-b646-917101faf881.jpg?1576384645|https://scryfall.com/card/soi/144/vessel-of-malignity?utm_source=api>`
-   |mana_1|\ |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate only as a sorcery.
 
 
 :mtgtip:`Avacyn's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c5f44ce-1464-4282-9afa-20e9ea44c613.jpg?1576384651|https://scryfall.com/card/soi/145/avacyns-judgment?utm_source=api>`
@@ -1058,7 +1058,7 @@
 :mtgtip:`Sin Prodder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cefeb031-9dda-4717-a8d1-e2c21551e43a.jpg?1576384901|https://scryfall.com/card/soi/181/sin-prodder?utm_source=api>`
    Menace
 
-   At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's converted mana cost. Otherwise, put that card into your hand.
+   At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's mana value. Otherwise, put that card into your hand.
 
 
 :mtgtip:`Skin Invasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0243401-e3ae-41c6-a3a0-9cd4b330c200.jpg?1576384912|https://scryfall.com/card/soi/182/skin-invasion-skin-shedder?utm_source=api>`
@@ -1132,7 +1132,7 @@
 
 
 :mtgtip:`Wolf of Devil's Breach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fedce04c-e7bc-4db0-94a1-66131761512c.jpg?1576384980|https://scryfall.com/card/soi/192/wolf-of-devils-breach?utm_source=api>`
-   Whenever Wolf of Devil's Breach attacks, you may pay |mana_1|\ |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost.
+   Whenever Wolf of Devil's Breach attacks, you may pay |mana_1|\ |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's mana value.
 
 
 :mtgtip:`Aim High<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98cd33cc-df39-4db1-a4a0-09756ec8372c.jpg?1576384986|https://scryfall.com/card/soi/193/aim-high?utm_source=api>`
@@ -1208,7 +1208,7 @@
 
 
 :mtgtip:`Fork in the Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a7ad701-65c3-494a-8986-b4ea1bab46bc.jpg?1576385075|https://scryfall.com/card/soi/205/fork-in-the-road?utm_source=api>`
-   Search your library for up to two basic land cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.
+   Search your library for up to two basic land cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle.
 
 
 :mtgtip:`Gloomwidow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee04dfd8-e704-46d7-bdf8-b0b2ee747a49.jpg?1576385082|https://scryfall.com/card/soi/206/gloomwidow?utm_source=api>`
@@ -1338,7 +1338,7 @@
 
 
 :mtgtip:`Seasons Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/668afd78-3cf5-4daf-8dfb-fca90de0ae5a.jpg?1576385218|https://scryfall.com/card/soi/226/seasons-past?utm_source=api>`
-   Return any number of cards with different converted mana costs from your graveyard to your hand. Put Seasons Past on the bottom of its owner's library.
+   Return any number of cards with different mana values from your graveyard to your hand. Put Seasons Past on the bottom of its owner's library.
 
 
 :mtgtip:`Second Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d0c5127-cd17-4859-8de8-165c4c748e89.jpg?1576385224|https://scryfall.com/card/soi/227/second-harvest?utm_source=api>`
@@ -1380,9 +1380,9 @@
 
 
 :mtgtip:`Traverse the Ulvenwald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc69a17-db08-4b4a-bc37-98a12ea108dc.jpg?1576385271|https://scryfall.com/card/soi/234/traverse-the-ulvenwald?utm_source=api>`
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
-   Delirium — If there are four or more card types among cards in your graveyard, instead search your library for a creature or land card, reveal it, put it into your hand, then shuffle your library.
+   Delirium — If there are four or more card types among cards in your graveyard, instead search your library for a creature or land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Ulvenwald Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a5d48df-7d21-462c-b721-b769a785bb00.jpg?1576385278|https://scryfall.com/card/soi/235/ulvenwald-hydra?utm_source=api>`
@@ -1390,7 +1390,7 @@
 
    Ulvenwald Hydra's power and toughness are each equal to the number of lands you control.
 
-   When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle your library.
+   When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Ulvenwald Mysteries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/911a2b5d-7e2d-4358-8e38-cbae7192e4d4.jpg?1576385285|https://scryfall.com/card/soi/236/ulvenwald-mysteries?utm_source=api>`
@@ -1470,7 +1470,7 @@
 
    −2: Exile target enchantment, tapped artifact, or tapped creature.
 
-   −8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.
+   −8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle. It gains haste. Return it to your hand at the beginning of the next end step.
 
 
 :mtgtip:`Olivia, Mobilized for War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7297dd81-8367-42e9-abf9-9227e202e7ae.jpg?1576385369|https://scryfall.com/card/soi/248/olivia-mobilized-for-war?utm_source=api>`
@@ -1492,7 +1492,7 @@
 
 
 :mtgtip:`Sorin, Grim Nemesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2933144-c931-498a-9e91-f5165873c3b7.jpg?1576385388|https://scryfall.com/card/soi/251/sorin-grim-nemesis?utm_source=api>`
-   +1: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to its converted mana cost.
+   +1: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to its mana value.
 
    −X: Sorin, Grim Nemesis deals X damage to target creature or planeswalker and you gain X life.
 
@@ -1500,7 +1500,7 @@
 
 
 :mtgtip:`Brain in a Jar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88ecfcbe-e8db-4f08-aa8b-5b7b3e6c6ce7.jpg?1576385394|https://scryfall.com/card/soi/252/brain-in-a-jar?utm_source=api>`
-   |mana_1|, |tap|: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery spell with converted mana cost equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost.
+   |mana_1|, |tap|: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery spell with mana value equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost.
 
    |mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X.
 
@@ -1596,7 +1596,7 @@
 :mtgtip:`Tamiyo's Journal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b474378c-5fa8-418f-8d76-23e78003ed18.jpg?1576385483|https://scryfall.com/card/soi/265/tamiyos-journal?utm_source=api>`
    At the beginning of your upkeep, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-   |tap|, Sacrifice three Clues: Search your library for a card and put that card into your hand. Then shuffle your library.
+   |tap|, Sacrifice three Clues: Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Thraben Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2687683-2986-4e22-97d9-7820c870475b.jpg?1576385495|https://scryfall.com/card/soi/266/thraben-gargoyle-stonewing-antagonizer?utm_source=api>`
@@ -1624,7 +1624,7 @@
 :mtgtip:`Wild-Field Scarecrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.jpg?1576385512|https://scryfall.com/card/soi/269/wild-field-scarecrow?utm_source=api>`
    Defender
 
-   |mana_2|, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+   |mana_2|, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Choked Estuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/995d44ca-626d-4c95-97af-ee53fa8baaf0.jpg?1576385517|https://scryfall.com/card/soi/270/choked-estuary?utm_source=api>`
@@ -1690,7 +1690,7 @@
 :mtgtip:`Warped Landscape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16793435-8eb3-4d57-8683-de1120eb46b6.jpg?1576385578|https://scryfall.com/card/soi/280/warped-landscape?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Westvale Abbey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1f53d7a-9dad-46e8-b686-cd1362867445.jpg?1576385590|https://scryfall.com/card/soi/281/westvale-abbey-ormendahl-profane-prince?utm_source=api>`

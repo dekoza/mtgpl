@@ -132,7 +132,7 @@
 
 
 :mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c53562e-6b8f-484d-a083-2c635c2f222b.jpg?1562590885|https://scryfall.com/card/5ed/27/divine-offering?utm_source=api>`
-   Destroy target artifact. You gain life equal to its converted mana cost.
+   Destroy target artifact. You gain life equal to its mana value.
 
 
 :mtgtip:`Divine Transformation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b3994c6-8e84-4d06-ab46-fb5f061cc34d.jpg?1562590884|https://scryfall.com/card/5ed/28/divine-transformation?utm_source=api>`
@@ -476,7 +476,7 @@
 
 
 :mtgtip:`Juxtapose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a60dc7c3-4a6c-4c17-9025-29341a3afee1.jpg?1562593256|https://scryfall.com/card/5ed/95/juxtapose?utm_source=api>`
-   You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+   You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them.
 
 
 :mtgtip:`Krovikan Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e91568ea-cef0-4355-8029-840f5e621ae8.jpg?1562594936|https://scryfall.com/card/5ed/96/krovikan-sorcerer?utm_source=api>`
@@ -554,7 +554,7 @@
 
 
 :mtgtip:`Portent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e317e0f-4c6e-4ede-846a-fb76fa77c6bf.jpg?1562591851|https://scryfall.com/card/5ed/110/portent?utm_source=api>`
-   Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library.
+   Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.
 
    Draw a card at the beginning of the next turn's upkeep.
 
@@ -630,7 +630,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70e4584f-6e44-4ff8-8313-c8791e0156af.jpg?1562591827|https://scryfall.com/card/5ed/126/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Stasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96570023-a9d6-4536-ac11-f0baad041d7c.jpg?1562592785|https://scryfall.com/card/5ed/127/stasis?utm_source=api>`
@@ -968,7 +968,7 @@
 
 
 :mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc54f1d6-8a2c-434e-bcae-942b3ccc44b5.jpg?1562594241|https://scryfall.com/card/5ed/190/rag-man?utm_source=api>`
-   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.
+   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn.
 
 
 :mtgtip:`Raise Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58326b13-0ab8-4fe5-8e63-c0333ffe5380.jpg?1562590877|https://scryfall.com/card/5ed/191/raise-dead?utm_source=api>`
@@ -1030,7 +1030,7 @@
 :mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8b8aa03-c777-467f-9b05-812183553f7b.jpg?1562594228|https://scryfall.com/card/5ed/202/vampire-bats?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
-   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Wall of Bone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/931152c1-89a7-434e-adff-5f580a3be8ed.jpg?1562592338|https://scryfall.com/card/5ed/203/wall-of-bone?utm_source=api>`
@@ -1052,7 +1052,7 @@
 
 
 :mtgtip:`Xenic Poltergeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcedc3f5-f4ab-4f7b-84c0-bd5a6a4b0f5e.jpg?1562595433|https://scryfall.com/card/5ed/206/xenic-poltergeist?utm_source=api>`
-   |tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+   |tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
 
 
 :mtgtip:`Zombie Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50e9f0ff-5436-4faf-9d20-b828fd18baa6.jpg?1562590853|https://scryfall.com/card/5ed/207/zombie-master?utm_source=api>`
@@ -1112,7 +1112,7 @@
 
 
 :mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e66b93c-1510-4063-b4b0-11fa1ea81c6b.jpg?1562590890|https://scryfall.com/card/5ed/218/detonate?utm_source=api>`
-   Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+   Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
 
 
 :mtgtip:`Disintegrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e1dce58-c0e5-472e-a575-b8d4b5958b3a.jpg?1562590154|https://scryfall.com/card/5ed/219/disintegrate?utm_source=api>`
@@ -1150,7 +1150,7 @@
 :mtgtip:`Fire Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b94218b-26d7-40cd-aef7-0e2415d1551f.jpg?1562592319|https://scryfall.com/card/5ed/226/fire-drake?utm_source=api>`
    Flying
 
-   |mana_r|: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+   |mana_r|: Fire Drake gets +1/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Fireball<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad457b10-6e00-411f-b827-ff844f9b300d.jpg?1562593274|https://scryfall.com/card/5ed/227/fireball?utm_source=api>`
@@ -1388,7 +1388,7 @@
 
 
 :mtgtip:`Word of Blasting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06dc1c22-ef39-4f5f-a8af-4267a3d5db6f.jpg?1562589187|https://scryfall.com/card/5ed/276/word-of-blasting?utm_source=api>`
-   Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.
+   Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's mana value to the Wall's controller.
 
 
 :mtgtip:`An-Havva Constable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5955eb2b-31a2-4e1e-bbbe-82eb53def698.jpg?1562590880|https://scryfall.com/card/5ed/277/an-havva-constable?utm_source=api>`
@@ -1446,7 +1446,7 @@
 
 
 :mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45c781ee-7ffb-4dd3-ac84-4d6fe4649591.jpg?1562590647|https://scryfall.com/card/5ed/287/crumble?utm_source=api>`
-   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.
+   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value.
 
 
 :mtgtip:`Desert Twister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b15dc6a9-f288-414a-9052-f03846176bff.jpg?1562593293|https://scryfall.com/card/5ed/288/desert-twister?utm_source=api>`
@@ -1522,7 +1522,7 @@
 
    Enchanted creature can attack as though it had haste.
 
-   |mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+   |mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn.
 
 
 :mtgtip:`Ironroot Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bdbba38-b4c9-4c14-b869-669b39390e4e.jpg?1562591365|https://scryfall.com/card/5ed/305/ironroot-treefolk?utm_source=api>`
@@ -1578,7 +1578,7 @@
 
 
 :mtgtip:`Nature's Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00a4ffc1-7731-42d9-b970-2a8d84cba14d.jpg?1562588736|https://scryfall.com/card/5ed/316/natures-lore?utm_source=api>`
-   Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ee195a-c331-4918-ad9e-3877dd3f4e3a.jpg?1562594463|https://scryfall.com/card/5ed/317/pradesh-gypsies?utm_source=api>`
@@ -1646,7 +1646,7 @@
 
 
 :mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f837f0c8-4822-41f1-8677-988c13efe8d5.jpg?1562594979|https://scryfall.com/card/5ed/332/titanias-song?utm_source=api>`
-   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn.
 
 
 :mtgtip:`Tranquility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6f8bd4a-ec7f-4da5-bd39-cba29541ee83.jpg?1562594216|https://scryfall.com/card/5ed/333/tranquility?utm_source=api>`
@@ -1658,7 +1658,7 @@
 
 
 :mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/979f6606-a4d7-43e8-95fb-c4f06c16d1b4.jpg?1562592790|https://scryfall.com/card/5ed/335/untamed-wilds?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Venom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbb503ef-31a4-492d-9c7d-26b72c36904b.jpg?1595873015|https://scryfall.com/card/5ed/336/venom?utm_source=api>`
@@ -1758,7 +1758,7 @@
 
    At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.
 
 
 :mtgtip:`Clockwork Steed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d27d83b9-4454-40c0-bac0-de736c634a53.jpg?1562594256|https://scryfall.com/card/5ed/357/clockwork-steed?utm_source=api>`
@@ -1768,7 +1768,7 @@
 
    At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate only during your upkeep.
 
 
 :mtgtip:`Colossus of Sardia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6f1ffdd-897e-4a1d-bdd2-d9de0de5d5a2.jpg?1562593258|https://scryfall.com/card/5ed/358/colossus-of-sardia?utm_source=api>`
@@ -1776,7 +1776,7 @@
 
    Colossus of Sardia doesn't untap during your untap step.
 
-   |mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+   |mana_9|: Untap Colossus of Sardia. Activate only during your upkeep.
 
 
 :mtgtip:`Coral Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/274e3a79-d7e5-46e2-bd9f-209e67294f82.jpg?1562590139|https://scryfall.com/card/5ed/359/coral-helm?utm_source=api>`
@@ -1804,7 +1804,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/060f2e80-f7af-4b9d-bb0f-3de14ddf0b02.jpg?1562589184|https://scryfall.com/card/5ed/365/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Dragon Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3f26891-e624-4aa9-ad04-6db3933a74e9.jpg?1562593300|https://scryfall.com/card/5ed/366/dragon-engine?utm_source=api>`
@@ -1888,7 +1888,7 @@
 
 
 :mtgtip:`Jester's Cap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e10f2619-e723-4402-ae4e-79d762004477.jpg?1562594485|https://scryfall.com/card/5ed/385/jesters-cap?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles their library.
+   |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Joven's Tools<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91c7aa8e-5873-4e18-8adb-1523c01d4e86.jpg?1562592334|https://scryfall.com/card/5ed/386/jovens-tools?utm_source=api>`

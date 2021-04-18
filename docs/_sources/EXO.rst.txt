@@ -52,7 +52,7 @@
 
 
 :mtgtip:`Oath of Lieges<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/470a2092-eeda-4557-8cee-ac401b61a225.jpg?1562087824|https://scryfall.com/card/exo/11/oath-of-lieges?utm_source=api>`
-   At the beginning of each player's upkeep, that player chooses target player who controls more lands than they do and is their opponent. The first player may search their library for a basic land card, put that card onto the battlefield, then shuffle their library.
+   At the beginning of each player's upkeep, that player chooses target player who controls more lands than they do and is their opponent. The first player may search their library for a basic land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Paladin en-Vec<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf1ea89d-4b9d-455f-a7f4-a26026e0c272.jpg?1562088785|https://scryfall.com/card/exo/12/paladin-en-vec?utm_source=api>`
@@ -124,7 +124,7 @@
 :mtgtip:`Welkin Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8166253c-c6ac-4b5e-9746-09ce3774c66b.jpg?1562088301|https://scryfall.com/card/exo/25/welkin-hawk?utm_source=api>`
    Flying
 
-   When Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.
+   When Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Zealots en-Dal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a9fb486-1d6a-478e-af6e-fd8539dc646d.jpg?1562087845|https://scryfall.com/card/exo/26/zealots-en-dal?utm_source=api>`
@@ -262,7 +262,7 @@
 
 
 :mtgtip:`Cat Burglar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/947109f9-7035-4a2a-bbc2-a2958f8c5d01.jpg?1593864177|https://scryfall.com/card/exo/54/cat-burglar?utm_source=api>`
-   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Culling the Weak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1562087832|https://scryfall.com/card/exo/55/culling-the-weak?utm_source=api>`
@@ -356,11 +356,11 @@
 
 
 :mtgtip:`Plaguebearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8493df6-9954-4e33-867c-ca4bcf3953b2.jpg?1562088776|https://scryfall.com/card/exo/71/plaguebearer?utm_source=api>`
-   |mana_x|\ |mana_x|\ |mana_b|: Destroy target nonblack creature with converted mana cost X.
+   |mana_x|\ |mana_x|\ |mana_b|: Destroy target nonblack creature with mana value X.
 
 
 :mtgtip:`Recurring Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8173030-1c33-417c-b8e9-79231b6a85a7.jpg?1562088796|https://scryfall.com/card/exo/72/recurring-nightmare?utm_source=api>`
-   Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+   Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
 
 
 :mtgtip:`Scare Tactics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a9d4e11-ce2e-445a-9536-756a6687d6d7.jpg?1562087843|https://scryfall.com/card/exo/73/scare-tactics?utm_source=api>`
@@ -380,7 +380,7 @@
 
 
 :mtgtip:`Thrull Surgeon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6e89bf1-42c9-4829-a565-78cac632810b.jpg?1562088816|https://scryfall.com/card/exo/76/thrull-surgeon?utm_source=api>`
-   |mana_1|\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Vampire Hounds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/746bc301-9f08-4d9b-819e-690f6fce6bc8.jpg?1562088293|https://scryfall.com/card/exo/77/vampire-hounds?utm_source=api>`
@@ -390,7 +390,7 @@
 :mtgtip:`Volrath's Dungeon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4ab28e1-74e1-4c4e-920f-a658c6a44d75.jpg?1562088338|https://scryfall.com/card/exo/78/volraths-dungeon?utm_source=api>`
    Pay 5 life: Destroy Volrath's Dungeon. Any player may activate this ability but only during their turn.
 
-   Discard a card: Target player puts a card from their hand on top of their library. Activate this ability only any time you could cast a sorcery.
+   Discard a card: Target player puts a card from their hand on top of their library. Activate only as a sorcery.
 
 
 :mtgtip:`Anarchist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a298df66-2075-40a7-bced-457656b6b788.jpg?1562088336|https://scryfall.com/card/exo/79/anarchist?utm_source=api>`
@@ -398,7 +398,7 @@
 
 
 :mtgtip:`Cinder Crawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9406050-d76b-4569-a463-e21acaf84166.jpg?1562088777|https://scryfall.com/card/exo/80/cinder-crawler?utm_source=api>`
-   |mana_r|: Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked.
+   |mana_r|: Cinder Crawler gets +1/+0 until end of turn. Activate only if Cinder Crawler is blocked.
 
 
 :mtgtip:`Dizzying Gaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1562087856|https://scryfall.com/card/exo/81/dizzying-gaze?utm_source=api>`
@@ -558,7 +558,7 @@
 
 
 :mtgtip:`Plated Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bf4da70-c656-4e40-bb0f-68e9dda024c9.jpg?1562087830|https://scryfall.com/card/exo/116/plated-rootwalla?utm_source=api>`
-   |mana_2|\ |mana_g|: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|: Plated Rootwalla gets +3/+3 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Predatory Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db6d9d28-3a05-4dfa-a322-36b4cc2697d4.jpg?1562089253|https://scryfall.com/card/exo/117/predatory-hunger?utm_source=api>`
@@ -630,11 +630,11 @@
 
 
 :mtgtip:`Survival of the Fittest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c060c178-3c0e-493f-b6f0-ead5b1d6f191.jpg?1562088786|https://scryfall.com/card/exo/129/survival-of-the-fittest?utm_source=api>`
-   |mana_g|, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+   |mana_g|, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/4716bb55-0821-4809-9bc0-04e299b09549.jpg?1562087825|https://scryfall.com/card/exo/130/wood-elves?utm_source=api>`
-   When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Coat of Arms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e32c939-1d64-4082-bafe-59dfa9c054f6.jpg?1596278479|https://scryfall.com/card/exo/131/coat-of-arms?utm_source=api>`
@@ -682,9 +682,9 @@
 
    Thopter Squadron enters the battlefield with three +1/+1 counters on it.
 
-   |mana_1|, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 colorless Thopter artifact creature token with flying. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
 
-   |mana_1|, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate only as a sorcery.
 
 
 :mtgtip:`Transmogrifying Licid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a115563-81da-42f6-95c4-22ae7bb51a0f.jpg?1562087350|https://scryfall.com/card/exo/141/transmogrifying-licid?utm_source=api>`

@@ -106,7 +106,7 @@
 
 
 :mtgtip:`Gift of Estates<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b109388-7988-4092-8cf4-c56668a4c66b.jpg?1562739099|https://scryfall.com/card/9ed/15/gift-of-estates?utm_source=api>`
-   If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.
+   If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Glorious Anthem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/354a94e8-baba-42e1-8577-03bbaa8f5707.jpg?1562733581|https://scryfall.com/card/9ed/16/glorious-anthem?utm_source=api>`
@@ -272,7 +272,7 @@
 
 
 :mtgtip:`Weathered Wayfarer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe4be040-27b1-4501-b3d4-f12976e568c9.jpg?1562744509|https://scryfall.com/card/9ed/54/weathered-wayfarer?utm_source=api>`
-   |mana_w|, |tap|: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.
+   |mana_w|, |tap|: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.
 
 
 :mtgtip:`Worship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ad20044-8ed8-49ae-9a07-d4cb18527cc7.jpg?1593966400|https://scryfall.com/card/9ed/55/worship?utm_source=api>`
@@ -586,7 +586,7 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0035a78-44ff-4e3a-b297-20cac926c2fb.jpg?1562739360|https://scryfall.com/card/9ed/125/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Drudge Skeletons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/327ddcfc-1e3e-4bf4-a464-1763bec4df35.jpg?1562733422|https://scryfall.com/card/9ed/126/drudge-skeletons?utm_source=api>`
@@ -642,7 +642,7 @@
 
 
 :mtgtip:`Hell's Caretaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6269968-0f58-4e20-94d0-678d39207988.jpg?1562740578|https://scryfall.com/card/9ed/137/hells-caretaker?utm_source=api>`
-   |tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Highway Robber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b3d34d2-d060-4690-aa67-af41117e7333.jpg?1562732104|https://scryfall.com/card/9ed/138/highway-robber?utm_source=api>`
@@ -1004,7 +1004,7 @@
 
    Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
 
-   |mana_r|\ |mana_r|\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_r|\ |mana_r|\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Shatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07e79ce1-29d6-48d3-b7d5-8cd95cef3234.jpg?1562730930|https://scryfall.com/card/9ed/218/shatter?utm_source=api>`
@@ -1200,7 +1200,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a429a983-d28e-46e7-816f-0398428db11a.jpg?1562739577|https://scryfall.com/card/9ed/263/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Reclaim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a894efb2-7773-4b69-8289-e32d02f679ff.jpg?1562739875|https://scryfall.com/card/9ed/264/reclaim?utm_source=api>`
@@ -1222,7 +1222,7 @@
 
 
 :mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08436832-2aab-47b0-b0da-b1b153e4b200.jpg?1562730961|https://scryfall.com/card/9ed/268/rootwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Scaled Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24e37991-8f7a-4c24-9f94-45bb59dd30b6.jpg?1562732639|https://scryfall.com/card/9ed/269/scaled-wurm?utm_source=api>`
@@ -1284,11 +1284,11 @@
 
 
 :mtgtip:`Weird Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bd2c25-049a-4df2-bf8f-198d1b41b01e.jpg?1562738188|https://scryfall.com/card/9ed/282/weird-harvest?utm_source=api>`
-   Each player may search their library for up to X creature cards, reveal those cards, and put them into their hand. Then each player who searched their library this way shuffles it.
+   Each player may search their library for up to X creature cards, reveal those cards, put them into their hand, then shuffle.
 
 
 :mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6cea55e-f85a-4f0f-b845-386d5c3fd9db.jpg?1562744130|https://scryfall.com/card/9ed/283/wood-elves?utm_source=api>`
-   When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Yavimaya Enchantress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18637e89-4794-46a8-bb80-b35211648d4f.jpg?1562731945|https://scryfall.com/card/9ed/284/yavimaya-enchantress?utm_source=api>`
@@ -1340,7 +1340,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55be5981-5bbc-4621-9f53-fc4edd4fde7e.jpg?1562735449|https://scryfall.com/card/9ed/295/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Dragon's Claw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd62ce2f-bf20-427a-9dbc-40732ff639ab.jpg?1562741818|https://scryfall.com/card/9ed/296/dragons-claw?utm_source=api>`
@@ -1360,11 +1360,11 @@
 
 
 :mtgtip:`Jade Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af0495f8-4f18-4860-b1b4-58fa67414c8e.jpg?1562740224|https://scryfall.com/card/9ed/300/jade-statue?utm_source=api>`
-   |mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
+   |mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat.
 
 
 :mtgtip:`Jester's Cap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ede9d6b-3c7c-4a5f-a09b-80ec471692b6.jpg?1562733193|https://scryfall.com/card/9ed/301/jesters-cap?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles their library.
+   |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Kraken's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e80930e8-d2b4-4778-a958-9bf080cba1c9.jpg?1562743355|https://scryfall.com/card/9ed/302/krakens-eye?utm_source=api>`

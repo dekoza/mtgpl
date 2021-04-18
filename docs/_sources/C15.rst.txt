@@ -34,7 +34,7 @@
 
 
 :mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f287995c-504d-4c95-883d-fe55013caf2e.jpg?1562711410|https://scryfall.com/card/c15/6/oreskos-explorer?utm_source=api>`
-   When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library.
+   When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Righteous Confluence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca3b9184-938f-4732-977c-8fb094730384.jpg?1562709612|https://scryfall.com/card/c15/7/righteous-confluence?utm_source=api>`
@@ -238,7 +238,7 @@
 
    • Return target permanent card from your graveyard to your hand.
 
-   • Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   • Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Anya, Merciless Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6638891f-018f-4ae7-99ae-e45ee56f8cfa.jpg?1562705161|https://scryfall.com/card/c15/41/anya-merciless-angel?utm_source=api>`
@@ -270,7 +270,7 @@
 :mtgtip:`Kalemne, Disciple of Iroas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c049d734-cb1c-4c38-b276-7e5ac9c81254.jpg?1562709177|https://scryfall.com/card/c15/45/kalemne-disciple-of-iroas?utm_source=api>`
    Double strike, vigilance
 
-   Whenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter.
+   Whenever you cast a creature spell with mana value 5 or greater, you get an experience counter.
 
    Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have.
 
@@ -294,11 +294,11 @@
 :mtgtip:`Meren of Clan Nel Toth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f43bf91d-bc08-417f-a549-64919c24052a.jpg?1562711477|https://scryfall.com/card/c15/49/meren-of-clan-nel-toth?utm_source=api>`
    Whenever another creature you control dies, you get an experience counter.
 
-   At the beginning of your end step, choose target creature card in your graveyard. If that card's converted mana cost is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.
+   At the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.
 
 
 :mtgtip:`Mizzix of the Izmagnus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0ea2c3a-c36d-44e8-bc46-5361f5f9d0e7.jpg?1562709949|https://scryfall.com/card/c15/50/mizzix-of-the-izmagnus?utm_source=api>`
-   Whenever you cast an instant or sorcery spell with converted mana cost greater than the number of experience counters you have, you get an experience counter.
+   Whenever you cast an instant or sorcery spell with mana value greater than the number of experience counters you have, you get an experience counter.
 
    Instant and sorcery spells you cast cost |mana_1| less to cast for each experience counter you have.
 
@@ -474,7 +474,7 @@
 :mtgtip:`Orim's Thunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05aa0e83-5d84-43b1-b742-8db05c28cd4c.jpg?1562700797|https://scryfall.com/card/c15/78/orims-thunder?utm_source=api>`
    Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)
 
-   Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature.
+   Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's mana value to target creature.
 
 
 :mtgtip:`Seal of Cleansing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1430c9f-5aa6-48c6-b85c-eb68551b7480.jpg?1562708497|https://scryfall.com/card/c15/79/seal-of-cleansing?utm_source=api>`
@@ -494,7 +494,7 @@
 :mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4019088-dbd9-4dc1-b7e3-24a99e5b3d34.jpg?1562710089|https://scryfall.com/card/c15/82/sun-titan?utm_source=api>`
    Vigilance
 
-   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Victory's Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8e8f7ba-678d-461f-819c-99cf1f91af0d.jpg?1562710317|https://scryfall.com/card/c15/83/victorys-herald?utm_source=api>`
@@ -506,7 +506,7 @@
 :mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8166caa-5dc9-4073-819f-d632c3a51be5.jpg?1562710281|https://scryfall.com/card/c15/84/vow-of-duty?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.
+   Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control.
 
 
 :mtgtip:`Aetherize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22c45d43-95dd-48fd-a8e6-cf56ceb59122.jpg?1562702151|https://scryfall.com/card/c15/85/aetherize?utm_source=api>`
@@ -544,7 +544,7 @@
 
 
 :mtgtip:`Dominate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9cfd7fc-22a5-4f21-bebf-d4823db48841.jpg?1562708891|https://scryfall.com/card/c15/92/dominate?utm_source=api>`
-   Gain control of target creature with converted mana cost X or less.
+   Gain control of target creature with mana value X or less.
 
 
 :mtgtip:`Echoing Truth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e508c3b6-bf92-4fbe-8076-f979763ed293.jpg?1562710822|https://scryfall.com/card/c15/93/echoing-truth?utm_source=api>`
@@ -606,7 +606,7 @@
 
 
 :mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db5f59ca-6125-45ca-a9db-1962be003741.jpg?1562710399|https://scryfall.com/card/c15/104/repeal?utm_source=api>`
-   Return target nonland permanent with converted mana cost X to its owner's hand.
+   Return target nonland permanent with mana value X to its owner's hand.
 
    Draw a card.
 
@@ -792,7 +792,7 @@
 :mtgtip:`Vow of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e8e0bbe-7bc0-4913-a86d-520ff09ac21f.jpg?1562705609|https://scryfall.com/card/c15/140/vow-of-malice?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+2, has intimidate, and can't attack you or a planeswalker you control. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+   Enchanted creature gets +2/+2, has intimidate, and can't attack you or planeswalkers you control. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
 
 :mtgtip:`Act of Aggression<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d34c3aa-7d74-4a8b-898c-cb62b1f05989.jpg?1562706934|https://scryfall.com/card/c15/141/act-of-aggression?utm_source=api>`
@@ -850,7 +850,7 @@
 :mtgtip:`Disaster Radius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5d54c00-6824-4ec5-b025-ef1938ec99e9.jpg?1562709396|https://scryfall.com/card/c15/150/disaster-radius?utm_source=api>`
    As an additional cost to cast this spell, reveal a creature card from your hand.
 
-   Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+   Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.
 
 
 :mtgtip:`Dragon Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e44f5ddd-29fb-4f79-a17a-50474d82fcaf.jpg?1562710804|https://scryfall.com/card/c15/151/dragon-mage?utm_source=api>`
@@ -1056,7 +1056,7 @@
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6dbe4e4-953b-4d7d-86f5-c5813dcbd23a.jpg?1562711612|https://scryfall.com/card/c15/188/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Krosan Grip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fdb9ebf-ad05-4be4-87b1-791b83af5559.jpg?1562707730|https://scryfall.com/card/c15/189/krosan-grip?utm_source=api>`
@@ -1112,15 +1112,15 @@
 :mtgtip:`Primal Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3324ce4f-e581-4614-aa5a-8a7905e9a911.jpg?1562702900|https://scryfall.com/card/c15/198/primal-growth?utm_source=api>`
    Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
 
-   Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b80ea082-9780-4ef8-8a7d-e20604727881.jpg?1562708822|https://scryfall.com/card/c15/199/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0632d42e-ee81-4ceb-82af-c5cbf32e3d1a.jpg?1562700817|https://scryfall.com/card/c15/200/sakura-tribe-elder?utm_source=api>`
-   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Satyr Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/5430ce96-bfea-4ac3-997c-43be1446ca99.jpg?1562704383|https://scryfall.com/card/c15/201/satyr-wayfinder?utm_source=api>`
@@ -1160,7 +1160,7 @@
 
 
 :mtgtip:`Viridian Emissary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fd476e7-e0e1-4d06-b9d6-866a79d0ee9e.jpg?1562703496|https://scryfall.com/card/c15/208/viridian-emissary?utm_source=api>`
-   When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Viridian Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c1289ad-6045-4219-bcd1-f77af2539c5b.jpg?1562701932|https://scryfall.com/card/c15/209/viridian-shaman?utm_source=api>`
@@ -1178,7 +1178,7 @@
 
 
 :mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5edc7881-f947-4870-a3ac-c013d0f275f3.jpg?1562704868|https://scryfall.com/card/c15/212/wood-elves?utm_source=api>`
-   When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Coiling Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab0aca0f-0f14-46d4-bfbc-ccfdfa2a2690.jpg?1562708261|https://scryfall.com/card/c15/213/coiling-oracle?utm_source=api>`
@@ -1198,7 +1198,7 @@
 
 
 :mtgtip:`Epic Experiment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02c4b106-5838-49cc-97a5-f7a209348c77.jpg?1562700658|https://scryfall.com/card/c15/216/epic-experiment?utm_source=api>`
-   Exile the top X cards of your library. You may cast instant and sorcery spells with converted mana cost X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard.
+   Exile the top X cards of your library. You may cast instant and sorcery spells with mana value X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard.
 
 
 :mtgtip:`Etherium-Horn Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8e3b336-ac81-4ca8-8ce4-c68070695d7e.jpg?1562708854|https://scryfall.com/card/c15/217/etherium-horn-sorcerer?utm_source=api>`
@@ -1208,7 +1208,7 @@
 
 
 :mtgtip:`Firemind's Foresight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37f2f696-bc69-48f4-93e3-c72aa4d4991b.jpg?1562703132|https://scryfall.com/card/c15/218/fireminds-foresight?utm_source=api>`
-   Search your library for an instant card with converted mana cost 3, reveal it, and put it into your hand. Then repeat this process for instant cards with converted mana costs 2 and 1. Then shuffle your library.
+   Search your library for an instant card with mana value 3, reveal it, and put it into your hand. Then repeat this process for instant cards with mana values 2 and 1. Then shuffle.
 
 
 :mtgtip:`Gisela, Blade of Goldnight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.jpg?1562707958|https://scryfall.com/card/c15/219/gisela-blade-of-goldnight?utm_source=api>`
@@ -1384,7 +1384,7 @@
 
 
 :mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.jpg?1562702631|https://scryfall.com/card/c15/248/burnished-hart?utm_source=api>`
-   |mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Coldsteel Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e35c1b-6859-4958-b01b-61948fdd6afd.jpg?1562709308|https://scryfall.com/card/c15/249/coldsteel-heart?utm_source=api>`
@@ -1496,7 +1496,7 @@
 
 
 :mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dbe2a29-86c6-436e-a5fb-901f0f9fe023.jpg?1562701260|https://scryfall.com/card/c15/269/solemn-simulacrum?utm_source=api>`
-   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
    When Solemn Simulacrum dies, you may draw a card.
 
@@ -1526,7 +1526,7 @@
 
 
 :mtgtip:`Wayfarer's Bauble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/873f7ccd-87b3-44b4-8dc0-41d19676db93.jpg?1562706671|https://scryfall.com/card/c15/274/wayfarers-bauble?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Worn Powerstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8a648ba-8918-4c71-aefb-64dc10f16711.jpg?1562708851|https://scryfall.com/card/c15/275/worn-powerstone?utm_source=api>`
@@ -1582,7 +1582,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.jpg?1562710934|https://scryfall.com/card/c15/283/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Forgotten Cave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a94a58ce-8d36-4226-bbb2-d8465d774edb.jpg?1562708174|https://scryfall.com/card/c15/284/forgotten-cave?utm_source=api>`
@@ -1596,7 +1596,7 @@
 :mtgtip:`Ghost Quarter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c7ee3eb-9e33-476c-a6ee-1fcfc18ea2db.jpg?1562704781|https://scryfall.com/card/c15/285/ghost-quarter?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+   |tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Golgari Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0be6e81d-7cf6-46d1-86ae-59d75cfb3449.jpg?1562701140|https://scryfall.com/card/c15/286/golgari-guildgate?utm_source=api>`
@@ -1784,21 +1784,21 @@
 :mtgtip:`Tainted Field<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa018dbf-ec4b-4c1e-a8f4-5b88542aa8bb.jpg?1562711754|https://scryfall.com/card/c15/311/tainted-field?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp.
 
 
 :mtgtip:`Tainted Wood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c673009f-569c-40c2-9546-16a25c95fc69.jpg?1562709412|https://scryfall.com/card/c15/312/tainted-wood?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp.
 
 
 :mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a1276e8-4b90-45b6-ad6b-de6303d03d23.jpg?1562702466|https://scryfall.com/card/c15/313/temple-of-the-false-god?utm_source=api>`
-   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate only if you control five or more lands.
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9107cd73-9d0b-44b2-b47e-4f20c6c505bc.jpg?1562707106|https://scryfall.com/card/c15/314/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d975a36-b278-4378-85f9-3206fa6bbaf4.jpg?1562707629|https://scryfall.com/card/c15/315/thornwood-falls?utm_source=api>`

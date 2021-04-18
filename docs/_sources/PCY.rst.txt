@@ -160,7 +160,7 @@
 
 
 :mtgtip:`Denying Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15f236ce-41ad-4a49-a6f9-7853a2395a84.jpg?1562899189|https://scryfall.com/card/pcy/32/denying-wind?utm_source=api>`
-   Search target player's library for up to seven cards and exile them. Then that player shuffles their library.
+   Search target player's library for up to seven cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Excavation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a4b87ff-42a9-4ea0-a79e-1208ca35ffb2.jpg?1562899940|https://scryfall.com/card/pcy/33/excavation?utm_source=api>`
@@ -206,7 +206,7 @@
 
 
 :mtgtip:`Rethink<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/915ae03f-22f3-4ecc-a875-5226d8dec384.jpg?1562921984|https://scryfall.com/card/pcy/42/rethink?utm_source=api>`
-   Counter target spell unless its controller pays |mana_x|, where X is its converted mana cost.
+   Counter target spell unless its controller pays |mana_x|, where X is its mana value.
 
 
 :mtgtip:`Rhystic Deluge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a3dd540-7f54-46fe-b1e8-7b07f57e71d0.jpg?1562896980|https://scryfall.com/card/pcy/43/rhystic-deluge?utm_source=api>`
@@ -292,7 +292,7 @@
 :mtgtip:`Bog Glider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/086a5620-704b-47a9-9a5d-73e28631d6f8.jpg?1562896628|https://scryfall.com/card/pcy/58/bog-glider?utm_source=api>`
    Flying
 
-   |tap|, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.
+   |tap|, Sacrifice a land: Search your library for a Mercenary permanent card with mana value 2 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Chilling Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c20edb71-aa1d-437b-bcfb-953efbe45150.jpg?1562931276|https://scryfall.com/card/pcy/59/chilling-apparition?utm_source=api>`
@@ -302,7 +302,7 @@
 
 
 :mtgtip:`Coffin Puppets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afcda8e4-d3dc-44f8-b277-b61fa261666b.jpg?1562927708|https://scryfall.com/card/pcy/60/coffin-puppets?utm_source=api>`
-   Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control a Swamp.
+   Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate only during your upkeep and only if you control a Swamp.
 
 
 :mtgtip:`Death Charmer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e58a303a-9f7a-43e7-bcba-c58b378a53ce.jpg?1562937897|https://scryfall.com/card/pcy/61/death-charmer?utm_source=api>`
@@ -314,7 +314,7 @@
 
 
 :mtgtip:`Endbringer's Revel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b76843b0-0e71-473b-8c9b-6a8bc30255da.jpg?1562929116|https://scryfall.com/card/pcy/63/endbringers-revel?utm_source=api>`
-   |mana_4|: Return target creature card from a graveyard to its owner's hand. Any player may activate this ability but only any time they could cast a sorcery.
+   |mana_4|: Return target creature card from a graveyard to its owner's hand. Any player may activate this ability but only as a sorcery.
 
 
 :mtgtip:`Fen Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e7d1125-7eb0-4065-bc2c-764689380fa8.jpg?1562921419|https://scryfall.com/card/pcy/64/fen-stalker?utm_source=api>`
@@ -338,7 +338,7 @@
 
 
 :mtgtip:`Infernal Genesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a63d16e-319d-46f4-a28c-895b36605ee6.jpg?1562899951|https://scryfall.com/card/pcy/68/infernal-genesis?utm_source=api>`
-   At the beginning of each player's upkeep, that player mills a card. Then they create X 1/1 black Minion creature tokens, where X is the milled card's converted mana cost.
+   At the beginning of each player's upkeep, that player mills a card. Then they create X 1/1 black Minion creature tokens, where X is the milled card's mana value.
 
 
 :mtgtip:`Nakaya Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.jpg?1562939900|https://scryfall.com/card/pcy/69/nakaya-shade?utm_source=api>`
@@ -382,7 +382,7 @@
 
 
 :mtgtip:`Rhystic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e02c1609-9cac-460f-8504-a84e28c340c1.jpg?1562936827|https://scryfall.com/card/pcy/77/rhystic-tutor?utm_source=api>`
-   Unless any player pays |mana_2|, search your library for a card, put that card into your hand, then shuffle your library.
+   Unless any player pays |mana_2|, search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Soul Strings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e34f9d1b-a89a-439f-8aa9-b96a1bf892eb.jpg?1562937506|https://scryfall.com/card/pcy/78/soul-strings?utm_source=api>`
@@ -436,7 +436,7 @@
 
 
 :mtgtip:`Fault Riders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c9d3579-3fc1-434e-8f26-d5dbd6344429.jpg?1562900312|https://scryfall.com/card/pcy/88/fault-riders?utm_source=api>`
-   Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Activate this ability only once each turn.
+   Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Fickle Efreet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca6d047a-f3dc-4c34-9679-fb76037e4044.jpg?1562932857|https://scryfall.com/card/pcy/89/fickle-efreet?utm_source=api>`
@@ -512,7 +512,7 @@
 :mtgtip:`Task Mage Assembly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/258a9cdd-c626-404e-b82d-01091f11f107.jpg?1562901991|https://scryfall.com/card/pcy/105/task-mage-assembly?utm_source=api>`
    When there are no creatures on the battlefield, sacrifice Task Mage Assembly.
 
-   |mana_2|: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only any time they could cast a sorcery.
+   |mana_2|: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only as a sorcery.
 
 
 :mtgtip:`Veteran Brawlers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee4d3acb-68be-409d-beb7-92a7cbc0402f.jpg?1562939721|https://scryfall.com/card/pcy/106/veteran-brawlers?utm_source=api>`
@@ -694,7 +694,7 @@
 
 
 :mtgtip:`Rhystic Cave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ae74463-4426-4ad4-b7a2-324694854245.jpg?1562908673|https://scryfall.com/card/pcy/142/rhystic-cave?utm_source=api>`
-   |tap|: Choose a color. Add one mana of that color unless any player pays |mana_1|. Activate this ability only any time you could cast an instant.
+   |tap|: Choose a color. Add one mana of that color unless any player pays |mana_1|. Activate only as an instant.
 
 
 :mtgtip:`Wintermoon Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f07144a6-6e47-4315-8353-f8958f014f41.jpg?1562940245|https://scryfall.com/card/pcy/143/wintermoon-mesa?utm_source=api>`

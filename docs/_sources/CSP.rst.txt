@@ -14,11 +14,11 @@
 :mtgtip:`Boreal Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36638e20-0a1d-4ea3-936c-2ea74add868a.jpg?1593274711|https://scryfall.com/card/csp/2/boreal-griffin?utm_source=api>`
    Flying
 
-   |mana_s|: Boreal Griffin gains first strike until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Boreal Griffin gains first strike until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Cover of Winter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91d9bb89-d8f8-4dff-8b94-3f7b8aa8f299.jpg?1593274717|https://scryfall.com/card/csp/3/cover-of-winter?utm_source=api>`
-   Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. |mana_s| can be paid with one mana from a snow permanent.)
+   Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. |mana_s| can be paid with one mana from a snow source.)
 
    If a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.
 
@@ -38,13 +38,13 @@
 
    Enchanted creature can't block, and its activated abilities can't be activated.
 
-   |mana_s|: Enchanted creature gains defender until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Enchanted creature gains defender until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Glacial Plating<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55742f0f-a894-48c3-82b1-dfc3d8390dc3.jpg?1593274743|https://scryfall.com/card/csp/7/glacial-plating?utm_source=api>`
    Enchant creature
 
-   Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. |mana_s| can be paid with one mana from a snow permanent.)
+   Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. |mana_s| can be paid with one mana from a snow source.)
 
    Enchanted creature gets +3/+3 for each age counter on Glacial Plating.
 
@@ -154,11 +154,11 @@
 :mtgtip:`Adarkar Windform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c18bce4a-9afb-4b91-bc9a-d62634b0f8dd.jpg?1593274877|https://scryfall.com/card/csp/26/adarkar-windform?utm_source=api>`
    Flying
 
-   |mana_1|\ |mana_s|: Target creature loses flying until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_1|\ |mana_s|: Target creature loses flying until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Arcum Dagsson<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd9d3ce7-53db-4808-88bc-03c120211f81.jpg?1593274883|https://scryfall.com/card/csp/27/arcum-dagsson?utm_source=api>`
-   |tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle their library.
+   |tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Balduvian Frostwaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18096cdb-0ba9-41e0-b597-c5ed819e7497.jpg?1593274889|https://scryfall.com/card/csp/28/balduvian-frostwaker?utm_source=api>`
@@ -178,7 +178,7 @@
 
 
 :mtgtip:`Counterbalance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c329ff2b-0331-4934-a8df-870dd7bf402b.jpg?1593274911|https://scryfall.com/card/csp/31/counterbalance?utm_source=api>`
-   Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.
+   Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.
 
 
 :mtgtip:`Drelnoch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/954a1e9c-ed2f-4774-b2b7-166052a5c59a.jpg?1593274916|https://scryfall.com/card/csp/32/drelnoch?utm_source=api>`
@@ -192,7 +192,7 @@
 :mtgtip:`Frost Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab2f81a-fcbe-44d1-8281-04dd78bb9ea3.jpg?1593274931|https://scryfall.com/card/csp/34/frost-raptor?utm_source=api>`
    Flying
 
-   |mana_s|\ |mana_s|: Frost Raptor gains shroud until end of turn. (|mana_s| can be paid with one mana from a snow permanent. A creature with shroud can't be the target of spells or abilities.)
+   |mana_s|\ |mana_s|: Frost Raptor gains shroud until end of turn. (|mana_s| can be paid with one mana from a snow source. A creature with shroud can't be the target of spells or abilities.)
 
 
 :mtgtip:`Frozen Solid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72c00743-d208-4aed-939a-d70de2d759b9.jpg?1593274938|https://scryfall.com/card/csp/35/frozen-solid?utm_source=api>`
@@ -204,7 +204,7 @@
 
 
 :mtgtip:`Heidar, Rimewind Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1593274946|https://scryfall.com/card/csp/36/heidar-rimewind-master?utm_source=api>`
-   |mana_2|, |tap|: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents.
+   |mana_2|, |tap|: Return target permanent to its owner's hand. Activate only if you control four or more snow permanents.
 
 
 :mtgtip:`Jokulmorder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8bd1c2f-dab8-4f22-9400-a0e45618757a.jpg?1593274954|https://scryfall.com/card/csp/37/jokulmorder?utm_source=api>`
@@ -254,11 +254,11 @@
 
 
 :mtgtip:`Rimewind Cryomancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4433653d-5ba9-4cdb-8a0b-69026301bc6f.jpg?1593274990|https://scryfall.com/card/csp/43/rimewind-cryomancer?utm_source=api>`
-   |mana_1|, |tap|: Counter target activated ability. Activate this ability only if you control four or more snow permanents. (Mana abilities can't be targeted.)
+   |mana_1|, |tap|: Counter target activated ability. Activate only if you control four or more snow permanents. (Mana abilities can't be targeted.)
 
 
 :mtgtip:`Rimewind Taskmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9cdc06e-1458-4b19-a272-28a3d0453643.jpg?1593274996|https://scryfall.com/card/csp/44/rimewind-taskmage?utm_source=api>`
-   |mana_1|, |tap|: You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents.
+   |mana_1|, |tap|: You may tap or untap target permanent. Activate only if you control four or more snow permanents.
 
 
 :mtgtip:`Ronom Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bf81a39-0a6e-4253-81eb-a24f48253343.jpg?1593275002|https://scryfall.com/card/csp/45/ronom-serpent?utm_source=api>`
@@ -314,7 +314,7 @@
 :mtgtip:`Chilling Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055|https://scryfall.com/card/csp/53/chilling-shade?utm_source=api>`
    Flying
 
-   |mana_s|: Chilling Shade gets +1/+1 until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Chilling Shade gets +1/+1 until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Deathmark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e72e8728-d0a0-4ee5-87c3-092ca94225e0.jpg?1593275062|https://scryfall.com/card/csp/54/deathmark?utm_source=api>`
@@ -400,11 +400,11 @@
 :mtgtip:`Rime Transfusion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e18318fe-b429-459f-9b70-d444b48b8dc7.jpg?1593275154|https://scryfall.com/card/csp/68/rime-transfusion?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+1 and has "|mana_s|: This creature can't be blocked this turn except by snow creatures." (|mana_s| can be paid with one mana from a snow permanent.)
+   Enchanted creature gets +2/+1 and has "|mana_s|: This creature can't be blocked this turn except by snow creatures." (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Rimebound Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6877469b-f14e-4121-aa5d-6cea92ab7278.jpg?1593275160|https://scryfall.com/card/csp/69/rimebound-dead?utm_source=api>`
-   |mana_s|: Regenerate Rimebound Dead. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Regenerate Rimebound Dead. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Soul Spike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b14b97d-122b-453a-9e5f-129404f96440.jpg?1593275167|https://scryfall.com/card/csp/70/soul-spike?utm_source=api>`
@@ -444,7 +444,7 @@
 :mtgtip:`Zombie Musher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51cf9ade-1c3d-4104-98fa-3c6a8cccc088.jpg?1593275198|https://scryfall.com/card/csp/75/zombie-musher?utm_source=api>`
    Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)
 
-   |mana_s|: Regenerate Zombie Musher. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Regenerate Zombie Musher. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Balduvian Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6716c980-bd89-4297-a843-9c3e18178b47.jpg?1593275203|https://scryfall.com/card/csp/76/balduvian-rage?utm_source=api>`
@@ -454,7 +454,7 @@
 
 
 :mtgtip:`Balduvian Warlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3286dbd-c8b8-45cb-98e4-d572289f2c14.jpg?1593275209|https://scryfall.com/card/csp/77/balduvian-warlord?utm_source=api>`
-   |tap|: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate this ability only during the declare blockers step.
+   |tap|: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate only during the declare blockers step.
 
 
 :mtgtip:`Braid of Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41bab8de-6e0f-4ccd-a303-01e9c8c82d3f.jpg?1593275214|https://scryfall.com/card/csp/78/braid-of-fire?utm_source=api>`
@@ -486,7 +486,7 @@
 :mtgtip:`Goblin Rimerunner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0254a437-5240-40ca-bf7b-d30b95942bf5.jpg?1593275244|https://scryfall.com/card/csp/83/goblin-rimerunner?utm_source=api>`
    |tap|: Target creature can't block this turn.
 
-   |mana_s|: Goblin Rimerunner gains haste until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Goblin Rimerunner gains haste until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Greater Stone Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77697b16-7faa-400d-a865-732c8b0d3d41.jpg?1593275251|https://scryfall.com/card/csp/84/greater-stone-spirit?utm_source=api>`
@@ -542,7 +542,7 @@
 
 
 :mtgtip:`Ohran Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d6cfa21-75b1-4380-b0fc-a7450699660f.jpg?1593275300|https://scryfall.com/card/csp/93/ohran-yeti?utm_source=api>`
-   |mana_2|\ |mana_s|: Target snow creature gains first strike until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_2|\ |mana_s|: Target snow creature gains first strike until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Orcish Bloodpainter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/746eaf30-3ded-4a9f-a4ec-1925edcc8e94.jpg?1593275306|https://scryfall.com/card/csp/94/orcish-bloodpainter?utm_source=api>`
@@ -552,7 +552,7 @@
 :mtgtip:`Rimescale Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/113d0342-0ba2-46b0-bda5-6a9fe4dcad3e.jpg?1593275312|https://scryfall.com/card/csp/95/rimescale-dragon?utm_source=api>`
    Flying
 
-   |mana_2|\ |mana_s|: Tap target creature and put an ice counter on it. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_2|\ |mana_s|: Tap target creature and put an ice counter on it. (|mana_s| can be paid with one mana from a snow source.)
 
    Creatures with ice counters on them don't untap during their controllers' untap steps.
 
@@ -568,7 +568,7 @@
 :mtgtip:`Stalking Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4af53d0b-ac60-4519-a6f4-c67899bcfdd6.jpg?1593275329|https://scryfall.com/card/csp/98/stalking-yeti?utm_source=api>`
    When Stalking Yeti enters the battlefield, if it's on the battlefield, it deals damage equal to its power to target creature an opponent controls and that creature deals damage equal to its power to Stalking Yeti.
 
-   |mana_2|\ |mana_s|: Return Stalking Yeti to its owner's hand. Activate this ability only any time you could cast a sorcery. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_2|\ |mana_s|: Return Stalking Yeti to its owner's hand. Activate only as a sorcery. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Surging Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9974a543-7429-458b-a24f-c84cbffbb54d.jpg?1593275335|https://scryfall.com/card/csp/99/surging-flame?utm_source=api>`
@@ -578,7 +578,7 @@
 
 
 :mtgtip:`Thermopod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c09475e9-d6c1-4d4b-905e-40bc30405725.jpg?1593275340|https://scryfall.com/card/csp/100/thermopod?utm_source=api>`
-   |mana_s|: Thermopod gains haste until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Thermopod gains haste until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
    Sacrifice a creature: Add |mana_r|.
 
@@ -600,13 +600,13 @@
 :mtgtip:`Aurochs Herd<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d757b3ad-b808-4506-934e-727e065f66c1.jpg?1593275357|https://scryfall.com/card/csp/103/aurochs-herd?utm_source=api>`
    Trample
 
-   When Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, put it into your hand, then shuffle.
 
    Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
 
 
 :mtgtip:`Boreal Centaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05231fa1-47b8-49aa-9393-ec4d8384c41b.jpg?1593275363|https://scryfall.com/card/csp/104/boreal-centaur?utm_source=api>`
-   |mana_s|: Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Boreal Centaur gets +1/+1 until end of turn. Activate only once each turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Boreal Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1593275370|https://scryfall.com/card/csp/105/boreal-druid?utm_source=api>`
@@ -638,11 +638,11 @@
 :mtgtip:`Hibernation's End<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/093ab03a-99e3-4596-a19a-033845f77a93.jpg?1593275398|https://scryfall.com/card/csp/110/hibernations-end?utm_source=api>`
    Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 
-   Whenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with converted mana cost equal to the number of age counters on Hibernation's End and put it onto the battlefield. If you do, shuffle your library.
+   Whenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with mana value equal to the number of age counters on Hibernation's End, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Into the North<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.jpg?1593275405|https://scryfall.com/card/csp/111/into-the-north?utm_source=api>`
-   Search your library for a snow land card and put it onto the battlefield tapped. Then shuffle your library.
+   Search your library for a snow land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Karplusan Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44d27fdf-690b-4e93-8412-4f6fb0ed43db.jpg?1593275410|https://scryfall.com/card/csp/112/karplusan-strider?utm_source=api>`
@@ -682,7 +682,7 @@
 
    Whenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
 
-   |mana_2|\ |mana_s|: Target creature blocks target creature this turn if able. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_2|\ |mana_s|: Target creature blocks target creature this turn if able. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Ronom Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5b4b14c-e6fa-4cd2-9be7-fa2a2df05de1.jpg?1593275458|https://scryfall.com/card/csp/119/ronom-hulk?utm_source=api>`
@@ -738,13 +738,13 @@
 
 
 :mtgtip:`Deepfire Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a26cf431-b79b-4619-9d19-bc4557f2f9bf.jpg?1593275516|https://scryfall.com/card/csp/127/deepfire-elemental?utm_source=api>`
-   |mana_x|\ |mana_x|\ |mana_1|: Destroy target artifact or creature with converted mana cost X.
+   |mana_x|\ |mana_x|\ |mana_1|: Destroy target artifact or creature with mana value X.
 
 
 :mtgtip:`Diamond Faerie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0072cf13-284b-4fb8-ab2c-b2e15388a30a.jpg?1593275523|https://scryfall.com/card/csp/128/diamond-faerie?utm_source=api>`
    Flying
 
-   |mana_1|\ |mana_s|: Snow creatures you control get +1/+1 until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_1|\ |mana_s|: Snow creatures you control get +1/+1 until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Garza Zol, Plague Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/3570143b-183b-4ae2-8806-3d0c4cd7406e.jpg?1593275530|https://scryfall.com/card/csp/129/garza-zol-plague-queen?utm_source=api>`
@@ -780,7 +780,7 @@
 :mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b1255e9-c0b8-4757-a857-b27a99dd4930.jpg?1593275574|https://scryfall.com/card/csp/135/zur-the-enchanter?utm_source=api>`
    Flying
 
-   Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.
+   Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Coldsteel Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdd5015e-fe31-42e3-923d-44b9cdece273.jpg?1593275580|https://scryfall.com/card/csp/136/coldsteel-heart?utm_source=api>`
@@ -804,13 +804,13 @@
 :mtgtip:`Phyrexian Ironfoot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49ff9859-92a4-4732-94bf-6c02b0a57338.jpg?1593275601|https://scryfall.com/card/csp/139/phyrexian-ironfoot?utm_source=api>`
    Phyrexian Ironfoot doesn't untap during your untap step.
 
-   |mana_1|\ |mana_s|: Untap Phyrexian Ironfoot. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_1|\ |mana_s|: Untap Phyrexian Ironfoot. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Phyrexian Snowcrusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f3cf3d3-101e-4649-9495-8a95507d0283.jpg?1593275607|https://scryfall.com/card/csp/140/phyrexian-snowcrusher?utm_source=api>`
    Phyrexian Snowcrusher attacks each combat if able.
 
-   |mana_1|\ |mana_s|: Phyrexian Snowcrusher gets +1/+0 until end of turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_1|\ |mana_s|: Phyrexian Snowcrusher gets +1/+0 until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Phyrexian Soulgorger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d4325ea-2e84-4871-a8d6-a42b1d3d6765.jpg?1593275614|https://scryfall.com/card/csp/141/phyrexian-soulgorger?utm_source=api>`
@@ -856,13 +856,13 @@
 :mtgtip:`Mouth of Ronom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d8f7396-23d3-48e2-8686-2b59ccbfc7e5.jpg?1593275662|https://scryfall.com/card/csp/148/mouth-of-ronom?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_4|\ |mana_s|, |tap|, Sacrifice Mouth of Ronom: It deals 4 damage to target creature. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_4|\ |mana_s|, |tap|, Sacrifice Mouth of Ronom: It deals 4 damage to target creature. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Scrying Sheets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19e95422-c6fe-4750-916b-43bf22ae193a.jpg?1593275668|https://scryfall.com/card/csp/149/scrying-sheets?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|\ |mana_s|, |tap|: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_1|\ |mana_s|, |tap|: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Tresserhorn Sinks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bd8fe2c-2297-4e19-8a87-01eb99b8c6dc.jpg?1593860376|https://scryfall.com/card/csp/150/tresserhorn-sinks?utm_source=api>`

@@ -136,7 +136,7 @@
 
 
 :mtgtip:`Taj-Nar Swordsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89c24cb4-4d7d-41df-b5c2-bd967a6a5d7e.jpg?1562150047|https://scryfall.com/card/mrd/27/taj-nar-swordsmith?utm_source=api>`
-   When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.
+   When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Tempest of Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5cd05d7-eb2d-489d-ad1c-5527d3336a6d.jpg?1562158977|https://scryfall.com/card/mrd/28/tempest-of-light?utm_source=api>`
@@ -182,7 +182,7 @@
 
 
 :mtgtip:`Fabricate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a742e23c-1991-4dce-b670-dea92a1cf4ec.jpg?1562153588|https://scryfall.com/card/mrd/35/fabricate?utm_source=api>`
-   Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Fatespinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5780f4e0-dcfb-4d1f-8ae1-762b98970abb.jpg?1562144468|https://scryfall.com/card/mrd/36/fatespinner?utm_source=api>`
@@ -216,7 +216,7 @@
 
 
 :mtgtip:`March of the Machines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bdcc966-7837-463f-ae26-1096f34ac8c0.jpg?1562152181|https://scryfall.com/card/mrd/42/march-of-the-machines?utm_source=api>`
-   Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)
+   Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)
 
 
 :mtgtip:`Neurok Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52fd15b0-4ada-41c7-81e0-4f8956798685.jpg?1562143856|https://scryfall.com/card/mrd/43/neurok-familiar?utm_source=api>`
@@ -350,9 +350,9 @@
 
 
 :mtgtip:`Grim Reminder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35baa726-8c2f-4a0b-93d1-d7ecfae69fe4.jpg?1612316260|https://scryfall.com/card/mrd/66/grim-reminder?utm_source=api>`
-   Search your library for a nonland card and reveal it. Each opponent who cast a spell this turn with the same name as that card loses 6 life. Then shuffle your library.
+   Search your library for a nonland card and reveal it. Each opponent who cast a spell this turn with the same name as that card loses 6 life. Then shuffle.
 
-   |mana_b|\ |mana_b|: Return Grim Reminder from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_b|\ |mana_b|: Return Grim Reminder from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Irradiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e0460cf-ff87-4cf8-89b5-a8b9fb7322e0.jpg?1562148643|https://scryfall.com/card/mrd/67/irradiate?utm_source=api>`
@@ -370,7 +370,7 @@
 :mtgtip:`Nim Devourer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a037ef49-8849-41aa-aa6e-3ac6ee34cdad.jpg?1562152678|https://scryfall.com/card/mrd/70/nim-devourer?utm_source=api>`
    Nim Devourer gets +1/+0 for each artifact you control.
 
-   |mana_b|\ |mana_b|: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.
+   |mana_b|\ |mana_b|: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate only during your upkeep.
 
 
 :mtgtip:`Nim Lasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b66c698-02bd-48ef-a866-5251bdc02c16.jpg?1562148561|https://scryfall.com/card/mrd/71/nim-lasher?utm_source=api>`
@@ -468,7 +468,7 @@
 
 
 :mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/237eedf5-8a8f-4668-a911-e2bf66f8221e.jpg?1562138293|https://scryfall.com/card/mrd/88/detonate?utm_source=api>`
-   Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+   Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
 
 
 :mtgtip:`Electrostatic Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c455c8d4-6f20-4dcb-8e82-c2bb70d6bc3e.jpg?1562157233|https://scryfall.com/card/mrd/89/electrostatic-bolt?utm_source=api>`
@@ -486,7 +486,7 @@
 :mtgtip:`Forge Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2873b6d5-af76-498c-bc2d-a26c36be3cbd.jpg?1562138783|https://scryfall.com/card/mrd/92/forge-armor?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact.
 
-   Put X +1/+1 counters on target creature, where X is the sacrificed artifact's converted mana cost.
+   Put X +1/+1 counters on target creature, where X is the sacrificed artifact's mana value.
 
 
 :mtgtip:`Fractured Loyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c7ce5d5-e51a-4dbc-82f2-b79c88769a7b.jpg?1562144991|https://scryfall.com/card/mrd/93/fractured-loyalty?utm_source=api>`
@@ -624,7 +624,7 @@
 :mtgtip:`Glissa Sunseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/670c3106-71fc-464e-8c94-81bf7fafc3e6.jpg?1562146413|https://scryfall.com/card/mrd/120/glissa-sunseeker?utm_source=api>`
    First strike
 
-   |tap|: Destroy target artifact if its converted mana cost is equal to the amount of unspent mana you have.
+   |tap|: Destroy target artifact if its mana value is equal to the amount of unspent mana you have.
 
 
 :mtgtip:`Groffskithur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75e84098-c15c-40f4-9d8a-3fa5da26a268.jpg?1562148057|https://scryfall.com/card/mrd/121/groffskithur?utm_source=api>`
@@ -638,7 +638,7 @@
 :mtgtip:`Journey of Discovery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3f4356f-8cfb-43ed-bdf9-6191bb563388.jpg?1562153163|https://scryfall.com/card/mrd/123/journey-of-discovery?utm_source=api>`
    Choose one —
 
-   • Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+   • Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
    • You may play up to two additional lands this turn.
 
@@ -680,7 +680,7 @@
 
 
 :mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4ff07b6-be9f-498f-9f36-cbd64f1b10cc.jpg?1562155270|https://scryfall.com/card/mrd/130/sylvan-scrying?utm_source=api>`
-   Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Tel-Jilad Archers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a1fde33-e86a-4146-9c90-4616a5fc0868.jpg?1562140944|https://scryfall.com/card/mrd/131/tel-jilad-archers?utm_source=api>`
@@ -698,7 +698,7 @@
 :mtgtip:`Tooth and Nail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199|https://scryfall.com/card/mrd/134/tooth-and-nail?utm_source=api>`
    Choose one —
 
-   • Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library.
+   • Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle.
 
    • Put up to two creature cards from your hand onto the battlefield.
 
@@ -768,7 +768,7 @@
 :mtgtip:`Bosh, Iron Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bfe325c-8d3d-4543-9fcd-214525d4ab2a.jpg?1610664155|https://scryfall.com/card/mrd/147/bosh-iron-golem?utm_source=api>`
    Trample
 
-   |mana_3|\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to any target.
+   |mana_3|\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target.
 
 
 :mtgtip:`Bottle Gnomes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/018dcb37-221a-4552-9e72-2b9492883eae.jpg?1562134152|https://scryfall.com/card/mrd/148/bottle-gnomes?utm_source=api>`
@@ -782,7 +782,7 @@
 :mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e.jpg?1562137287|https://scryfall.com/card/mrd/150/chalice-of-the-void?utm_source=api>`
    Chalice of the Void enters the battlefield with X charge counters on it.
 
-   Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
+   Whenever a player casts a spell with mana value equal to the number of charge counters on Chalice of the Void, counter that spell.
 
 
 :mtgtip:`Chromatic Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f31a6dfd-93d2-49c8-a357-9a707b9c42bd.jpg?1592471872|https://scryfall.com/card/mrd/151/chromatic-sphere?utm_source=api>`
@@ -842,7 +842,7 @@
 
 
 :mtgtip:`Culling Scales<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db9a57d6-bba6-463d-ad12-6f93c035d16b.jpg?1562159907|https://scryfall.com/card/mrd/160/culling-scales?utm_source=api>`
-   At the beginning of your upkeep, destroy target nonland permanent with the lowest converted mana cost. (If two or more permanents are tied for lowest cost, target any one of them.)
+   At the beginning of your upkeep, destroy target nonland permanent with the lowest mana value. (If two or more permanents are tied for lowest, target any one of them.)
 
 
 :mtgtip:`Damping Matrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2214e75-e469-41ae-8412-df725c097d08.jpg?1562160836|https://scryfall.com/card/mrd/161/damping-matrix?utm_source=api>`
@@ -976,7 +976,7 @@
 
 
 :mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/878b0159-6917-45d3-b9ea-562ac49f0b8f.jpg?1562149998|https://scryfall.com/card/mrd/188/isochron-scepter?utm_source=api>`
-   Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.
+   Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.
 
    |mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
 
@@ -1098,7 +1098,7 @@
 
 
 :mtgtip:`Myr Incubator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31b0f9ef-7404-4e05-b759-aaf1ebcfcb31.jpg?1562139770|https://scryfall.com/card/mrd/212/myr-incubator?utm_source=api>`
-   |mana_6|, |tap|, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle your library.
+   |mana_6|, |tap|, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle.
 
 
 :mtgtip:`Myr Mindservant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f98ce711-8f68-4487-b67b-be35796ffcff.jpg?1562163913|https://scryfall.com/card/mrd/213/myr-mindservant?utm_source=api>`
@@ -1192,7 +1192,7 @@
 
 
 :mtgtip:`Proteus Staff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55e5c69c-43d0-4f5b-8720-40074eb122bb.jpg?1562144304|https://scryfall.com/card/mrd/230/proteus-staff?utm_source=api>`
-   |mana_2|\ |mana_u|, |tap|: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield and the rest on the bottom of their library in any order. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_u|, |tap|: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield and the rest on the bottom of their library in any order. Activate only as a sorcery.
 
 
 :mtgtip:`Psychogenic Probe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83d1ed5-3a49-4cfa-bad2-e342ef28649e.jpg?1562161799|https://scryfall.com/card/mrd/231/psychogenic-probe?utm_source=api>`
@@ -1272,7 +1272,7 @@
 
 
 :mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00f9955f-a522-47bf-b064-92dd21a76b18.jpg?1562133717|https://scryfall.com/card/mrd/245/solemn-simulacrum?utm_source=api>`
-   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
    When Solemn Simulacrum dies, you may draw a card.
 
@@ -1280,7 +1280,7 @@
 :mtgtip:`Soul Foundry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11b4983a-2a95-4322-a315-27b4bd430d39.jpg?1562136123|https://scryfall.com/card/mrd/246/soul-foundry?utm_source=api>`
    Imprint — When Soul Foundry enters the battlefield, you may exile a creature card from your hand.
 
-   |mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the converted mana cost of that card.
+   |mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the mana value of that card.
 
 
 :mtgtip:`Spellweaver Helix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a48d44b4-1c3b-4109-aaad-8351bf8a7624.jpg?1562153179|https://scryfall.com/card/mrd/247/spellweaver-helix?utm_source=api>`
@@ -1364,11 +1364,11 @@
 :mtgtip:`Thought Prison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/409087ef-8232-489c-8b98-b601bb0a47a4.jpg?1562141833|https://scryfall.com/card/mrd/261/thought-prison?utm_source=api>`
    Imprint — When Thought Prison enters the battlefield, you may have target player reveal their hand. If you do, choose a nonland card from it and exile that card.
 
-   Whenever a player casts a spell that shares a color or converted mana cost with the exiled card, Thought Prison deals 2 damage to that player.
+   Whenever a player casts a spell that shares a color or mana value with the exiled card, Thought Prison deals 2 damage to that player.
 
 
 :mtgtip:`Timesifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/561cab0e-8874-4534-bf79-0c1488a9f0a5.jpg?1562144325|https://scryfall.com/card/mrd/262/timesifter?utm_source=api>`
-   At the beginning of each upkeep, each player exiles the top card of their library. The player who exiled the card with the highest converted mana cost takes an extra turn after this one. If two or more players' cards are tied for highest cost, the tied players repeat this process until the tie is broken.
+   At the beginning of each upkeep, each player exiles the top card of their library. The player who exiled the card with the highest mana value takes an extra turn after this one. If two or more players' cards are tied for highest, the tied players repeat this process until the tie is broken.
 
 
 :mtgtip:`Titanium Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8defd53c-3792-4ed3-aee9-cffda2b8a8b6.jpg?1562150543|https://scryfall.com/card/mrd/263/titanium-golem?utm_source=api>`

@@ -226,7 +226,7 @@
 
 
 :mtgtip:`Back from the Brink<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4bba140-5c06-4542-9ae0-b2517104ab7c.jpg?1562835863|https://scryfall.com/card/isd/44/back-from-the-brink?utm_source=api>`
-   Exile a creature card from your graveyard and pay its mana cost: Create a token that's a copy of that card. Activate this ability only any time you could cast a sorcery.
+   Exile a creature card from your graveyard and pay its mana cost: Create a token that's a copy of that card. Activate only as a sorcery.
 
 
 :mtgtip:`Battleground Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/129905ef-5b3b-4860-923c-109a7d7cad80.jpg?1562826435|https://scryfall.com/card/isd/45/battleground-geist?utm_source=api>`
@@ -358,7 +358,7 @@
 :mtgtip:`Mindshrieker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab1e52af-6746-4ec6-afbf-008594c874f8.jpg?1562835327|https://scryfall.com/card/isd/67/mindshrieker?utm_source=api>`
    Flying
 
-   |mana_2|: Target player mills a card. Mindshrieker gets +X/+X until end of turn, where X is the milled card's converted mana cost.
+   |mana_2|: Target player mills a card. Mindshrieker gets +X/+X until end of turn, where X is the milled card's mana value.
 
 
 :mtgtip:`Mirror-Mad Phantasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b20eea41-9daf-4ac1-8bad-bb4aa211bb53.jpg?1562835677|https://scryfall.com/card/isd/68/mirror-mad-phantasm?utm_source=api>`
@@ -478,7 +478,7 @@
 :mtgtip:`Bitterheart Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf2ff2b4-8f40-42c0-af3c-b55bfa8839be.jpg?1562837375|https://scryfall.com/card/isd/88/bitterheart-witch?utm_source=api>`
    Deathtouch
 
-   When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.
+   When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle.
 
 
 :mtgtip:`Bloodgift Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f271addb-e267-4397-b181-f1eaeabbfe71.jpg?1562839618|https://scryfall.com/card/isd/89/bloodgift-demon?utm_source=api>`
@@ -492,7 +492,7 @@
 
    |tap|: Create a 2/2 black Vampire creature token with flying.
 
-   |mana_b|: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.
+   |mana_b|: Transform Bloodline Keeper. Activate only if you control five or more Vampires.
 
 
 :mtgtip:`Lord of Lineage<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/3/13896468-e3d0-4bcb-b09e-b5c187aecb03.jpg?1562826506|https://scryfall.com/card/isd/90/bloodline-keeper-lord-of-lineage?utm_source=api>`
@@ -506,7 +506,7 @@
 :mtgtip:`Brain Weevil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40e1bd88-939a-4adc-8693-210a7ba9a5a1.jpg?1562829114|https://scryfall.com/card/isd/91/brain-weevil?utm_source=api>`
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-   Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+   Sacrifice Brain Weevil: Target player discards two cards. Activate only as a sorcery.
 
 
 :mtgtip:`Bump in the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c3ec389-a267-484f-994d-4a29ef494eb1.jpg?1562830826|https://scryfall.com/card/isd/92/bump-in-the-night?utm_source=api>`
@@ -650,7 +650,7 @@
 
 
 :mtgtip:`Skirsdag High Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09aa6b66-f69b-4f89-b802-e30c247f90e3.jpg?1562825871|https://scryfall.com/card/isd/117/skirsdag-high-priest?utm_source=api>`
-   Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate this ability only if a creature died this turn.
+   Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate only if a creature died this turn.
 
 
 :mtgtip:`Stromkirk Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d86634a1-7016-4500-8857-924d51857bad.jpg?1562837978|https://scryfall.com/card/isd/118/stromkirk-patrol?utm_source=api>`
@@ -816,7 +816,7 @@
 
 
 :mtgtip:`Heretic's Punishment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2c9e963-bb0c-4490-8238-9476b924abf7.jpg?1562837592|https://scryfall.com/card/isd/147/heretics-punishment?utm_source=api>`
-   |mana_3|\ |mana_r|: Choose any target, then mill three cards. Heretic's Punishment deals damage to that permanent or player equal to the highest converted mana cost among the milled cards.
+   |mana_3|\ |mana_r|: Choose any target, then mill three cards. Heretic's Punishment deals damage to that permanent or player equal to the highest mana value among the milled cards.
 
 
 :mtgtip:`Infernal Plunge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3f50e17-c29c-4d2c-b3e7-45d1216b81ea.jpg?1562835822|https://scryfall.com/card/isd/148/infernal-plunge?utm_source=api>`
@@ -968,7 +968,7 @@
 
 
 :mtgtip:`Caravan Vigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a8dfb98-a975-41bf-8aac-c0001c9ddaa7.jpg?1562834425|https://scryfall.com/card/isd/173/caravan-vigil?utm_source=api>`
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    Morbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.
 
@@ -980,7 +980,7 @@
 
 
 :mtgtip:`Darkthicket Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fec37c5a-8223-441c-a8a6-8da1a2dfc3fb.jpg?1562840294|https://scryfall.com/card/isd/175/darkthicket-wolf?utm_source=api>`
-   |mana_2|\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Daybreak Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25b54a1d-e201-453b-9173-b04e06ee6fb7.jpg?1562827580|https://scryfall.com/card/isd/176/daybreak-ranger-nightfall-predator?utm_source=api>`
@@ -1026,7 +1026,7 @@
 :mtgtip:`Garruk, the Veil-Cursed<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/4/b4160322-ff40-41a4-887a-73cd6b85ae45.jpg?1562835830|https://scryfall.com/card/isd/181/garruk-relentless-garruk-the-veil-cursed?utm_source=api>`
    +1: Create a 1/1 black Wolf creature token with deathtouch.
 
-   −1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+   −1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
    −3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.
 
@@ -1342,7 +1342,7 @@
 
 
 :mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5b0afa7-e9f9-4751-af36-d85343fabc26.jpg?1562835038|https://scryfall.com/card/isd/234/travelers-amulet?utm_source=api>`
-   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Trepanation Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2182be77-9186-4d16-a070-9577d4392999.jpg?1562827340|https://scryfall.com/card/isd/235/trepanation-blade?utm_source=api>`
@@ -1380,7 +1380,7 @@
 :mtgtip:`Ghost Quarter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c6456ed-0ffb-4d22-b252-5775076030ce.jpg?1562827036|https://scryfall.com/card/isd/240/ghost-quarter?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+   |tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Hinterland Harbor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72f15306-56fe-4643-bb4c-4c7c12378d01.jpg?1562832109|https://scryfall.com/card/isd/241/hinterland-harbor?utm_source=api>`

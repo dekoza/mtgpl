@@ -22,7 +22,7 @@
 
 
 :mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe7c7a65-5a96-4986-877b-b34583092bb6.jpg?1562616204|https://scryfall.com/card/mbs/5/divine-offering?utm_source=api>`
-   Destroy target artifact. You gain life equal to its converted mana cost.
+   Destroy target artifact. You gain life equal to its mana value.
 
 
 :mtgtip:`Frantic Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/aff909bc-0bda-4e8a-b7a3-ebc963552246.jpg?1562613892|https://scryfall.com/card/mbs/6/frantic-salvage?utm_source=api>`
@@ -118,7 +118,7 @@
 
 
 :mtgtip:`Distant Memories<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/158da0aa-8317-498b-89ed-2f84317fe256.jpg?1562609799|https://scryfall.com/card/mbs/24/distant-memories?utm_source=api>`
-   Search your library for a card, exile it, then shuffle your library. Any opponent may have you put that card into your hand. If no player does, you draw three cards.
+   Search your library for a card, exile it, then shuffle. Any opponent may have you put that card into your hand. If no player does, you draw three cards.
 
 
 :mtgtip:`Fuel for the Cause<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4126e0e5-9b23-496f-8a09-7a35499f9a09.jpg?1562610827|https://scryfall.com/card/mbs/25/fuel-for-the-cause?utm_source=api>`
@@ -170,7 +170,7 @@
 
 
 :mtgtip:`Treasure Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fe4fea1-bb23-46e4-b7b0-e83f8b99ce5d.jpg?1562612156|https://scryfall.com/card/mbs/34/treasure-mage?utm_source=api>`
-   When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+   When Treasure Mage enters the battlefield, you may search your library for an artifact card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Turn the Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdc91fc7-7927-4c5d-888a-f40cbf658866.jpg?1562614355|https://scryfall.com/card/mbs/35/turn-the-tide?utm_source=api>`
@@ -396,7 +396,7 @@
 
 
 :mtgtip:`Green Sun's Zenith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02335747-54e3-4827-ae19-4e362863da9b.jpg?1562609284|https://scryfall.com/card/mbs/81/green-suns-zenith?utm_source=api>`
-   Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+   Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library.
 
 
 :mtgtip:`Lead the Stampede<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66ed14c8-38c6-4da5-a6ee-f814478161d2.jpg?1562611901|https://scryfall.com/card/mbs/82/lead-the-stampede?utm_source=api>`
@@ -464,7 +464,7 @@
 
 
 :mtgtip:`Viridian Emissary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/129fa334-f561-4fbd-9f51-2fa044b674e1.jpg?1562609723|https://scryfall.com/card/mbs/95/viridian-emissary?utm_source=api>`
-   When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Glissa, the Traitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/755e0fbf-4f00-4b05-a535-27e78e96d6b6.jpg?1562612302|https://scryfall.com/card/mbs/96/glissa-the-traitor?utm_source=api>`
@@ -584,7 +584,7 @@
 :mtgtip:`Myr Turbine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a76840-47f7-4e1e-b68b-00cb7da98cdf.jpg?1562612196|https://scryfall.com/card/mbs/117/myr-turbine?utm_source=api>`
    |tap|: Create a 1/1 colorless Myr artifact creature token.
 
-   |tap|, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle your library.
+   |tap|, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Myr Welder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/eff75f16-413c-4618-b766-67bd8ff4d161.jpg?1562615806|https://scryfall.com/card/mbs/118/myr-welder?utm_source=api>`

@@ -322,7 +322,7 @@
 
 
 :mtgtip:`Bribery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0b099ef-4b43-4b63-a7fc-cec19cf29f4e.jpg?1562940128|https://scryfall.com/card/8ed/64/bribery?utm_source=api>`
-   Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles their library.
+   Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles.
 
 
 :mtgtip:`Catalog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b50620d-430e-4c38-a95d-3d69a4c29ff9.jpg?1562897267|https://scryfall.com/card/8ed/65/catalog?utm_source=api>`
@@ -444,7 +444,7 @@
 
 
 :mtgtip:`Merchant Scroll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb5385d2-ca5d-4fb9-934b-b7cc8b38ac89.jpg?1562932678|https://scryfall.com/card/8ed/91/merchant-scroll?utm_source=api>`
-   Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Mind Bend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5591db4b-8ce3-4842-bff3-a81e565b6bf4.jpg?1562912413|https://scryfall.com/card/8ed/92/mind-bend?utm_source=api>`
@@ -614,7 +614,7 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c7e0f9b-2c02-4e9a-ab86-270fad193de0.jpg?1562920046|https://scryfall.com/card/8ed/128/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Drudge Skeletons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9fef91f-3044-4c6e-b090-c3819ee61b9c.jpg?1562935570|https://scryfall.com/card/8ed/129/drudge-skeletons?utm_source=api>`
@@ -690,7 +690,7 @@
 
 
 :mtgtip:`Mind Slash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76da89df-edb9-482c-a3bb-e7cf650990cc.jpg?1562918806|https://scryfall.com/card/8ed/145/mind-slash?utm_source=api>`
-   |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Mind Sludge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e86a26e9-e4cb-452a-9263-489d57233d41.jpg?1562941649|https://scryfall.com/card/8ed/146/mind-sludge?utm_source=api>`
@@ -902,7 +902,7 @@
 :mtgtip:`Hammer of Bogardan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abf6e6c0-ddea-4d15-ab1a-5c7d9fa69d51.jpg?1562929667|https://scryfall.com/card/8ed/193/hammer-of-bogardan?utm_source=api>`
    Hammer of Bogardan deals 3 damage to any target.
 
-   |mana_2|\ |mana_r|\ |mana_r|\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_2|\ |mana_r|\ |mana_r|\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Hill Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3afb143-fd69-4197-96f4-62d5d90a894c.jpg?1562943995|https://scryfall.com/card/8ed/194/hill-giant?utm_source=api>`
@@ -1254,7 +1254,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01d56cde-e186-41e7-bcb2-80736a989678.jpg?1562895330|https://scryfall.com/card/8ed/274/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Regeneration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a97c91d-66bd-417a-9c13-4ac4d9ddd7f7.jpg?1562903679|https://scryfall.com/card/8ed/275/regeneration?utm_source=api>`
@@ -1326,7 +1326,7 @@
 
 
 :mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da7aa861-556b-43a1-bf57-1efbbd438975.jpg?1562938938|https://scryfall.com/card/8ed/289/wood-elves?utm_source=api>`
-   When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Yavimaya Enchantress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88ed4258-eeb8-4c50-9119-8c54331bd219.jpg?1562922703|https://scryfall.com/card/8ed/290/yavimaya-enchantress?utm_source=api>`
@@ -1366,7 +1366,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1129d16c-de2b-4d21-a0fd-b63e4ba95d8d.jpg?1562898478|https://scryfall.com/card/8ed/298/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Distorting Lens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d82d9b7-4b1c-447c-8044-9e114604017e.jpg?1562916925|https://scryfall.com/card/8ed/299/distorting-lens?utm_source=api>`
@@ -1422,7 +1422,7 @@
 
 
 :mtgtip:`Planar Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8743b2ce-0e18-42c9-aee4-f13197a9c481.jpg?1562922341|https://scryfall.com/card/8ed/311/planar-portal?utm_source=api>`
-   |mana_6|, |tap|: Search your library for a card and put that card into your hand. Then shuffle your library.
+   |mana_6|, |tap|: Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Rod of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d652801-7f22-41b5-b19c-90efe5d8c0a8.jpg?1562900841|https://scryfall.com/card/8ed/312/rod-of-ruin?utm_source=api>`

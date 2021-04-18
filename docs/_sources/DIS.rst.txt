@@ -80,13 +80,13 @@
 :mtgtip:`Paladin of Prahv<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9797c1dc-e676-4c24-93b0-db2aae663ea2.jpg?1593272537|https://scryfall.com/card/dis/14/paladin-of-prahv?utm_source=api>`
    Whenever Paladin of Prahv deals damage, you gain that much life.
 
-   Forecast — |mana_1|\ |mana_w|, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_1|\ |mana_w|, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Proclamation of Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc799c97-3df1-4194-b220-6cf862ce3810.jpg?1593272547|https://scryfall.com/card/dis/15/proclamation-of-rebirth?utm_source=api>`
-   Return up to three target creature cards with converted mana cost 1 or less from your graveyard to the battlefield.
+   Return up to three target creature cards with mana value 1 or less from your graveyard to the battlefield.
 
-   Forecast — |mana_5|\ |mana_w|, Reveal Proclamation of Rebirth from your hand: Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_5|\ |mana_w|, Reveal Proclamation of Rebirth from your hand: Return target creature card with mana value 1 or less from your graveyard to the battlefield. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Proper Burial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8a4756-d82b-4c6d-b652-5c3722d3edec.jpg?1593272557|https://scryfall.com/card/dis/16/proper-burial?utm_source=api>`
@@ -102,7 +102,7 @@
 :mtgtip:`Steeling Stance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f89bd01-310e-4ec2-8d42-052c66ff8d0f.jpg?1593272576|https://scryfall.com/card/dis/18/steeling-stance?utm_source=api>`
    Creatures you control get +1/+1 until end of turn.
 
-   Forecast — |mana_w|, Reveal Steeling Stance from your hand: Target creature gets +1/+1 until end of turn. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_w|, Reveal Steeling Stance from your hand: Target creature gets +1/+1 until end of turn. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Stoic Ephemera<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/066bff58-e7cd-4787-a2c1-1afd6ed1b4ff.jpg?1593272586|https://scryfall.com/card/dis/19/stoic-ephemera?utm_source=api>`
@@ -146,7 +146,7 @@
 :mtgtip:`Govern the Guildless<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23106341-9200-4eee-93d0-d6173b0b39c4.jpg?1593272675|https://scryfall.com/card/dis/25/govern-the-guildless?utm_source=api>`
    Gain control of target monocolored creature.
 
-   Forecast — |mana_1|\ |mana_u|, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_1|\ |mana_u|, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Helium Squirter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/764e3d28-1876-46da-b927-b98089d62776.jpg?1593272686|https://scryfall.com/card/dis/26/helium-squirter?utm_source=api>`
@@ -188,17 +188,17 @@
 :mtgtip:`Silkwing Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04f165aa-2986-47d1-912d-d50490a15c0b.jpg?1593272743|https://scryfall.com/card/dis/31/silkwing-scout?utm_source=api>`
    Flying
 
-   |mana_g|, Sacrifice Silkwing Scout: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_g|, Sacrifice Silkwing Scout: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Skyscribing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8fa63967-5422-4db5-9dba-8ab6f9b18d60.jpg?1593272752|https://scryfall.com/card/dis/32/skyscribing?utm_source=api>`
    Each player draws X cards.
 
-   Forecast — |mana_2|\ |mana_u|, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_2|\ |mana_u|, Reveal Skyscribing from your hand: Each player draws a card. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Spell Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35554fdf-c70a-4baa-a35a-414caa9978be.jpg?1593272766|https://scryfall.com/card/dis/33/spell-snare?utm_source=api>`
-   Counter target spell with converted mana cost 2.
+   Counter target spell with mana value 2.
 
 
 :mtgtip:`Tidespout Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44865244-2b9f-4734-a4da-49613b23ee4d.jpg?1593272783|https://scryfall.com/card/dis/34/tidespout-tyrant?utm_source=api>`
@@ -222,7 +222,7 @@
 
    Whenever enchanted creature attacks, if its power is 2 or less, it can't be blocked this turn.
 
-   Forecast — |mana_1|\ |mana_u|, Reveal Writ of Passage from your hand: Target creature with power 2 or less can't be blocked this turn. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_1|\ |mana_u|, Reveal Writ of Passage from your hand: Target creature with power 2 or less can't be blocked this turn. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Bond of Agony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/832acb3f-4dd4-4bf1-b990-7cc7a68a1d57.jpg?1593272829|https://scryfall.com/card/dis/38/bond-of-agony?utm_source=api>`
@@ -238,7 +238,7 @@
 :mtgtip:`Crypt Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed424a46-8bac-4a3c-a6e6-87d02a20b292.jpg?1593272854|https://scryfall.com/card/dis/40/crypt-champion?utm_source=api>`
    Double strike
 
-   When Crypt Champion enters the battlefield, each player puts a creature card with converted mana cost 3 or less from their graveyard onto the battlefield.
+   When Crypt Champion enters the battlefield, each player puts a creature card with mana value 3 or less from their graveyard onto the battlefield.
 
    When Crypt Champion enters the battlefield, sacrifice it unless |mana_r| was spent to cast it.
 
@@ -268,9 +268,9 @@
 
 
 :mtgtip:`Infernal Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.jpg?1593272922|https://scryfall.com/card/dis/46/infernal-tutor?utm_source=api>`
-   Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle your library.
+   Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.
 
-   Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle your library.
+   Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Macabre Waltz<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9cd7bc3-73ba-4364-84b2-9954648cd8a9.jpg?1593272934|https://scryfall.com/card/dis/47/macabre-waltz?utm_source=api>`
@@ -292,17 +292,17 @@
 :mtgtip:`Nihilistic Glee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f603486d-c8d7-4a02-bdb3-c25d2bc62ba6.jpg?1593272971|https://scryfall.com/card/dis/50/nihilistic-glee?utm_source=api>`
    |mana_2|\ |mana_b|, Discard a card: Target opponent loses 1 life and you gain 1 life.
 
-   Hellbent — |mana_1|, Pay 2 life: Draw a card. Activate this ability only if you have no cards in hand.
+   Hellbent — |mana_1|, Pay 2 life: Draw a card. Activate only if you have no cards in hand.
 
 
 :mtgtip:`Ragamuffyn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2db5cccc-e9e4-4db8-affb-93d629d67b91.jpg?1593272988|https://scryfall.com/card/dis/51/ragamuffyn?utm_source=api>`
-   Hellbent — |tap|, Sacrifice a creature or land: Draw a card. Activate this ability only if you have no cards in hand.
+   Hellbent — |tap|, Sacrifice a creature or land: Draw a card. Activate only if you have no cards in hand.
 
 
 :mtgtip:`Ratcatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97a0cd9c-48ec-4914-9502-afacc58ce5fd.jpg?1593273004|https://scryfall.com/card/dis/52/ratcatcher?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
-   At the beginning of your upkeep, you may search your library for a Rat card, reveal it, put it into your hand, then shuffle your library.
+   At the beginning of your upkeep, you may search your library for a Rat card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Seal of Doom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8f85644-d8c6-4680-a417-08aa863ad4bb.jpg?1593273018|https://scryfall.com/card/dis/53/seal-of-doom?utm_source=api>`
@@ -370,7 +370,7 @@
 
 
 :mtgtip:`Kindle the Carnage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b5dfa91-8f93-41b7-95e9-3374550f1617.jpg?1593273180|https://scryfall.com/card/dis/66/kindle-the-carnage?utm_source=api>`
-   Discard a card at random. If you do, Kindle the Carnage deals damage equal to that card's converted mana cost to each creature. You may repeat this process any number of times.
+   Discard a card at random. If you do, Kindle the Carnage deals damage equal to that card's mana value to each creature. You may repeat this process any number of times.
 
 
 :mtgtip:`Ogre Gatecrasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffddd4e2-e98c-4535-bac2-0af73f1535c5.jpg?1593273189|https://scryfall.com/card/dis/67/ogre-gatecrasher?utm_source=api>`
@@ -506,7 +506,7 @@
 
 
 :mtgtip:`Protean Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d978332-95bf-4f86-9e67-06f10983c267.jpg?1593273433|https://scryfall.com/card/dis/90/protean-hulk?utm_source=api>`
-   When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.
+   When Protean Hulk dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Simic Basilisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59e7af53-62d8-45b8-829f-c575dda53e25.jpg?1593273442|https://scryfall.com/card/dis/91/simic-basilisk?utm_source=api>`
@@ -626,13 +626,13 @@
 :mtgtip:`Hellhole Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e1eb937-21d4-44b1-85e7-b95995865f44.jpg?1593273622|https://scryfall.com/card/dis/113/hellhole-rats?utm_source=api>`
    Haste
 
-   When Hellhole Rats enters the battlefield, target player discards a card. Hellhole Rats deals damage to that player equal to that card's converted mana cost.
+   When Hellhole Rats enters the battlefield, target player discards a card. Hellhole Rats deals damage to that player equal to that card's mana value.
 
 
 :mtgtip:`Isperia the Inscrutable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2b365b0-6949-41d2-be60-eb2162b1f882.jpg?1593273629|https://scryfall.com/card/dis/114/isperia-the-inscrutable?utm_source=api>`
    Flying
 
-   Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
+   Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Jagged Poppet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.jpg?1593273638|https://scryfall.com/card/dis/115/jagged-poppet?utm_source=api>`
@@ -652,7 +652,7 @@
 
 
 :mtgtip:`Momir Vig, Simic Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25a8c801-df0c-402b-a41c-4703a2abfb66.jpg?1593273661|https://scryfall.com/card/dis/118/momir-vig-simic-visionary?utm_source=api>`
-   Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.
+   Whenever you cast a green creature spell, you may search your library for a creature card, reveal it, then shuffle and put that card on top.
 
    Whenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.
 
@@ -686,7 +686,7 @@
 
    Enchanted creature doesn't untap during its controller's untap step.
 
-   Forecast — |mana_w|\ |mana_u|, Reveal Plumes of Peace from your hand: Tap target creature. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_w|\ |mana_u|, Reveal Plumes of Peace from your hand: Tap target creature. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Pride of the Clouds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecc2a029-6e64-4b6d-9d82-afc319dbc57a.jpg?1593273717|https://scryfall.com/card/dis/125/pride-of-the-clouds?utm_source=api>`
@@ -694,7 +694,7 @@
 
    Pride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.
 
-   Forecast — |mana_2|\ |mana_w|\ |mana_u|, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_2|\ |mana_w|\ |mana_u|, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Rain of Gore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dd62003-e345-48b6-9f93-fc111924c318.jpg?1593273725|https://scryfall.com/card/dis/126/rain-of-gore?utm_source=api>`
@@ -704,7 +704,7 @@
 :mtgtip:`Rakdos Augermage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5507ec6-430e-41bf-8ac8-42a79f11012d.jpg?1593273732|https://scryfall.com/card/dis/127/rakdos-augermage?utm_source=api>`
    First strike
 
-   |tap|: Reveal your hand and discard a card of target opponent's choice. Then that player reveals their hand and discards a card of your choice. Activate this ability only any time you could cast a sorcery.
+   |tap|: Reveal your hand and discard a card of target opponent's choice. Then that player reveals their hand and discards a card of your choice. Activate only as a sorcery.
 
 
 :mtgtip:`Rakdos Ickspitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c007b10b-2701-4bac-8b95-8fc7dcfb9e21.jpg?1593273752|https://scryfall.com/card/dis/128/rakdos-ickspitter?utm_source=api>`
@@ -730,7 +730,7 @@
 
    When Sky Hussar enters the battlefield, untap all creatures you control.
 
-   Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Swift Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1c5f733-e126-4c22-b528-18bdb90b509b.jpg?1593273784|https://scryfall.com/card/dis/132/swift-silence?utm_source=api>`
@@ -800,7 +800,7 @@
 :mtgtip:`Dovescape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6e3d6e6-ac17-4d73-acac-089442de4af6.jpg?1593273866|https://scryfall.com/card/dis/143/dovescape?utm_source=api>`
    (|mana_wu| can be paid with either |mana_w| or |mana_u|.)
 
-   Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's converted mana cost.
+   Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's mana value.
 
 
 :mtgtip:`Minister of Impediments<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96aada87-a880-4d33-8694-9fbc74211755.jpg?1593273874|https://scryfall.com/card/dis/144/minister-of-impediments?utm_source=api>`
@@ -858,7 +858,7 @@
 
 
 :mtgtip:`Punishment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2edeab08-86eb-4fa8-ba24-23dacb32e0fd.jpg?1593273920|https://scryfall.com/card/dis/150/crime-punishment?utm_source=api>`
-   Destroy each artifact, creature, and enchantment with converted mana cost X.
+   Destroy each artifact, creature, and enchantment with mana value X.
 
 
 :mtgtip:`Hide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac347ec8-4537-4cdf-aeff-44da1f7be01b.jpg?1593273927|https://scryfall.com/card/dis/151/hide-seek?utm_source=api>`
@@ -866,11 +866,11 @@
 
 
 :mtgtip:`Seek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac347ec8-4537-4cdf-aeff-44da1f7be01b.jpg?1593273927|https://scryfall.com/card/dis/151/hide-seek?utm_source=api>`
-   Search target opponent's library for a card and exile it. You gain life equal to its converted mana cost. Then that player shuffles their library.
+   Search target opponent's library for a card and exile it. You gain life equal to its mana value. Then that player shuffles.
 
 
 :mtgtip:`Hit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b44c30a9-1af4-4287-a809-d2de4e8b4070.jpg?1593273934|https://scryfall.com/card/dis/152/hit-run?utm_source=api>`
-   Target player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's converted mana cost.
+   Target player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's mana value.
 
 
 :mtgtip:`Run<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b44c30a9-1af4-4287-a809-d2de4e8b4070.jpg?1593273934|https://scryfall.com/card/dis/152/hit-run?utm_source=api>`
@@ -914,7 +914,7 @@
 
 
 :mtgtip:`Demand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4628887-bda4-47e4-84d1-d31a8298f9e5.jpg?1593273970|https://scryfall.com/card/dis/157/supply-demand?utm_source=api>`
-   Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a multicolored card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Trial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/553028fc-eeab-42e2-9887-cf45ea3f01a6.jpg?1593273977|https://scryfall.com/card/dis/158/trial-error?utm_source=api>`
@@ -942,7 +942,7 @@
 
 
 :mtgtip:`Muse Vessel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10482209-19b1-4941-9133-f2764eeba092.jpg?1593274015|https://scryfall.com/card/dis/163/muse-vessel?utm_source=api>`
-   |mana_3|, |tap|: Target player exiles a card from their hand. Activate this ability only any time you could cast a sorcery.
+   |mana_3|, |tap|: Target player exiles a card from their hand. Activate only as a sorcery.
 
    |mana_1|: Choose a card exiled with Muse Vessel. You may play that card this turn.
 
@@ -1006,7 +1006,7 @@
 :mtgtip:`Ghost Quarter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/893eb7e4-5d8d-477b-aaa7-fb85ef2a54fc.jpg?1593274088|https://scryfall.com/card/dis/173/ghost-quarter?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+   |tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Hallowed Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c28aea19-2a39-4934-afda-909e234fa3ba.jpg?1593274095|https://scryfall.com/card/dis/174/hallowed-fountain?utm_source=api>`
@@ -1042,7 +1042,7 @@
 :mtgtip:`Rix Maadi, Dungeon Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0f56ce7-1974-417e-a4cb-c9d9a9509039.jpg?1593274130|https://scryfall.com/card/dis/179/rix-maadi-dungeon-palace?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|\ |mana_b|\ |mana_r|, |tap|: Each player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|\ |mana_r|, |tap|: Each player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Simic Growth Chamber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/407d0a0c-a6be-4bd5-8355-1715698c6bde.jpg?1593274137|https://scryfall.com/card/dis/180/simic-growth-chamber?utm_source=api>`

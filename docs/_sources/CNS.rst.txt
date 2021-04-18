@@ -56,7 +56,7 @@
 :mtgtip:`Secret Summoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7867db8a-5adc-4fe9-aabd-aa55935e3227.jpg?1562865895|https://scryfall.com/card/cns/9/secret-summoning?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
-   Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library.
+   Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Secrets of Paradise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15ace01c-93de-49e6-b9f9-276a2303f42f.jpg?1562864468|https://scryfall.com/card/cns/10/secrets-of-paradise?utm_source=api>`
@@ -130,7 +130,7 @@
 
 
 :mtgtip:`Muzzio, Visionary Architect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/170926b9-4bfa-4a9b-a297-db1672bc48d9.jpg?1562864474|https://scryfall.com/card/cns/23/muzzio-visionary-architect?utm_source=api>`
-   |mana_3|\ |mana_u|, |tap|: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
+   |mana_3|\ |mana_u|, |tap|: Look at the top X cards of your library, where X is the highest mana value among artifacts you control. You may put an artifact card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
 
 
 :mtgtip:`Plea for Power<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f7e9c34-2434-4aac-83d8-af57e4f54aee.jpg?1562865423|https://scryfall.com/card/cns/24/plea-for-power?utm_source=api>`
@@ -206,7 +206,7 @@
 :mtgtip:`Realm Seekers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e469f84-004d-4a92-98fe-9869b4945181.jpg?1562865420|https://scryfall.com/card/cns/38/realm-seekers?utm_source=api>`
    Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players' hands.
 
-   |mana_2|\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_2|\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Selvala's Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/426b63f9-5788-45d2-b934-1579320bc775.jpg?1562864963|https://scryfall.com/card/cns/39/selvalas-charge?utm_source=api>`
@@ -288,7 +288,7 @@
 :mtgtip:`Aether Searcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94dcff94-9f25-4ca9-a1f1-5d97de4ab9df.jpg?1562865937|https://scryfall.com/card/cns/53/aether-searcher?utm_source=api>`
    Reveal Aether Searcher as you draft it. Reveal the next card you draft and note its name.
 
-   When Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.
+   When Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle.
 
 
 :mtgtip:`Agent of Acquisitions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c57def6f-cc2a-4aec-927b-6a561d9fa7a1.jpg?1562866868|https://scryfall.com/card/cns/54/agent-of-acquisitions?utm_source=api>`
@@ -416,7 +416,7 @@
 :mtgtip:`Noble Templar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc770c5e-8d58-4ae4-828e-02bd978dbe57.jpg?1562866897|https://scryfall.com/card/cns/75/noble-templar?utm_source=api>`
    Vigilance
 
-   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)
+   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Pillarfield Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53a5c7bd-7d08-421d-ad43-70bc0c2db4d4.jpg?1562865428|https://scryfall.com/card/cns/76/pillarfield-ox?utm_source=api>`
@@ -482,7 +482,7 @@
 :mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e03c618-e9c8-4bb6-b9fc-689b9bb8b9d8.jpg?1562864943|https://scryfall.com/card/cns/87/vow-of-duty?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.
+   Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control.
 
 
 :mtgtip:`Wakestone Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6198d0c3-bf08-445a-8fd7-7d79b745d9a8.jpg?1562865445|https://scryfall.com/card/cns/88/wakestone-gargoyle?utm_source=api>`
@@ -514,7 +514,7 @@
 
 
 :mtgtip:`Crookclaw Transmuter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf0d5b2f-5a96-42ff-b5a3-e68cfcebff49.jpg?1562866882|https://scryfall.com/card/cns/94/crookclaw-transmuter?utm_source=api>`
-   Flash (You may cast this spell any time you could cast an instant.)
+   Flash
 
    Flying
 
@@ -576,13 +576,13 @@
 :mtgtip:`Screaming Seahawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc32c801-cc84-4d3a-a14f-67e28ccb95f2.jpg?1562867371|https://scryfall.com/card/cns/105/screaming-seahawk?utm_source=api>`
    Flying
 
-   When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Shoreline Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14c2ec82-6cd5-4edc-befd-f670090f1fc8.jpg?1562864467|https://scryfall.com/card/cns/106/shoreline-ranger?utm_source=api>`
    Flying
 
-   Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)
+   Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Stasis Cell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49304692-1e8c-46ed-ba51-e5ba3b70e2f4.jpg?1562865413|https://scryfall.com/card/cns/107/stasis-cell?utm_source=api>`
@@ -642,7 +642,7 @@
 
 
 :mtgtip:`Magus of the Mirror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81357a2a-e436-469f-8610-3572c29fef15.jpg?1562865908|https://scryfall.com/card/cns/117/magus-of-the-mirror?utm_source=api>`
-   |tap|, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.
+   |tap|, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate only during your upkeep.
 
 
 :mtgtip:`Morkrut Banshee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/729979f6-e53b-4338-81bd-e38a1a096d90.jpg?1562865458|https://scryfall.com/card/cns/118/morkrut-banshee?utm_source=api>`
@@ -706,7 +706,7 @@
 :mtgtip:`Twisted Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f395993-41d5-4947-ac76-d88a1ff6450a.jpg?1562864945|https://scryfall.com/card/cns/129/twisted-abomination?utm_source=api>`
    |mana_b|: Regenerate Twisted Abomination.
 
-   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)
+   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Typhoid Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/035533c6-ed13-488c-a9bc-5c7087472e84.jpg?1562864261|https://scryfall.com/card/cns/130/typhoid-rats?utm_source=api>`
@@ -760,7 +760,7 @@
 :mtgtip:`Chartooth Cougar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bedabf2f-21c2-4d82-918f-b55207e792a9.jpg?1562866854|https://scryfall.com/card/cns/139/chartooth-cougar?utm_source=api>`
    |mana_r|: Chartooth Cougar gets +1/+0 until end of turn.
 
-   Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)
+   Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Cinder Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfcc240-9010-4e0c-afda-7f70c42da7d2.jpg?1562865418|https://scryfall.com/card/cns/140/cinder-wall?utm_source=api>`
@@ -886,7 +886,7 @@
 :mtgtip:`Elvish Aberration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bebe639-708f-48fb-a112-96d8ed92fd05.jpg?1562865898|https://scryfall.com/card/cns/163/elvish-aberration?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
-   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)
+   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Exploration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b20d3e1-62ef-44db-8109-a33d4fa3e7f1.jpg?1562864937|https://scryfall.com/card/cns/164/exploration?utm_source=api>`
@@ -904,7 +904,7 @@
 
 
 :mtgtip:`Howling Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09965519-274c-4082-88fe-639f77aa9cf6.jpg?1562864458|https://scryfall.com/card/cns/167/howling-wolf?utm_source=api>`
-   When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Hunger of the Howlpack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23676697-2b84-4e9f-9e38-4fd58085a698.jpg?1562864492|https://scryfall.com/card/cns/168/hunger-of-the-howlpack?utm_source=api>`
@@ -952,7 +952,7 @@
 
 
 :mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c421ee5a-dbd0-4f54-918c-a9029af10548.jpg?1562866866|https://scryfall.com/card/cns/177/sakura-tribe-elder?utm_source=api>`
-   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Scaled Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd17b2c1-c3dd-4f6f-a44c-dc81c6bc1c94.jpg?1562866415|https://scryfall.com/card/cns/178/scaled-wurm?utm_source=api>`
@@ -1020,7 +1020,7 @@
 
 
 :mtgtip:`Pernicious Deed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02c175df-2e9b-4064-9271-d85e4dd4c94d.jpg?1562864259|https://scryfall.com/card/cns/191/pernicious-deed?utm_source=api>`
-   |mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.
+   |mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with mana value X or less.
 
 
 :mtgtip:`Sky Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62eea10f-eddf-43a1-96fe-5f6f37c42415.jpg?1562865448|https://scryfall.com/card/cns/192/sky-spirit?utm_source=api>`

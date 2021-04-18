@@ -36,8 +36,6 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Standard: :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent| (Premiera: 2021-04-23)
-* Commander: :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent| (Premiera: 2021-04-23)
 * Modern: Modern Horizons 2 (Premiera: 2021-06-11)
 
 Standard
@@ -46,6 +44,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
 * :mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|
@@ -115,6 +114,7 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
+* :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
 * :mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|
 * :mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|
 * :mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|

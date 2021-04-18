@@ -116,11 +116,11 @@
 :mtgtip:`Soul Tithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77e546ce-f498-4136-9015-bb262c301716.jpg?1562788449|https://scryfall.com/card/rtr/23/soul-tithe?utm_source=api>`
    Enchant nonland permanent
 
-   At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless they pay |mana_x|, where X is its converted mana cost.
+   At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless they pay |mana_x|, where X is its mana value.
 
 
 :mtgtip:`Sphere of Safety<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce3bd0d8-7e44-4cf2-9012-8ff0bc39417f.jpg?1562793389|https://scryfall.com/card/rtr/24/sphere-of-safety?utm_source=api>`
-   Creatures can't attack you or a planeswalker you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control.
+   Creatures can't attack you or planeswalkers you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control.
 
 
 :mtgtip:`Sunspire Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1388ce6e-8199-46c1-8ee3-71266b0929bf.jpg?1562782971|https://scryfall.com/card/rtr/25/sunspire-griffin?utm_source=api>`
@@ -220,7 +220,7 @@
 
    −2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.
 
-   −8: For each player, search that player's library for a nonland card and exile it, then that player shuffles their library. You may cast those cards without paying their mana costs.
+   −8: For each player, search that player's library for a nonland card and exile it, then that player shuffles. You may cast those cards without paying their mana costs.
 
 
 :mtgtip:`Mizzium Skin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9859344-4efc-4b87-a3fb-147e496cee68.jpg?1562794010|https://scryfall.com/card/rtr/45/mizzium-skin?utm_source=api>`
@@ -622,7 +622,7 @@
 :mtgtip:`Gatecreeper Vine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dabcc2f-7536-44e3-a495-bbfc526fdc5d.jpg?1562787009|https://scryfall.com/card/rtr/124/gatecreeper-vine?utm_source=api>`
    Defender
 
-   When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.
+   When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Giant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b1f6503-e4b2-4085-92cd-e9c522b4b10d.jpg?1562788586|https://scryfall.com/card/rtr/125/giant-growth?utm_source=api>`
@@ -652,7 +652,7 @@
 :mtgtip:`Mana Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7592d88-64e8-4a31-b00a-f65d4b1867fc.jpg?1562793871|https://scryfall.com/card/rtr/130/mana-bloom?utm_source=api>`
    Mana Bloom enters the battlefield with X charge counters on it.
 
-   Remove a charge counter from Mana Bloom: Add one mana of any color. Activate this ability only once each turn.
+   Remove a charge counter from Mana Bloom: Add one mana of any color. Activate only once each turn.
 
    At the beginning of your upkeep, if Mana Bloom has no charge counters on it, return it to its owner's hand.
 
@@ -670,7 +670,7 @@
 
 
 :mtgtip:`Seek the Horizon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6f52ac7-933f-4b31-8576-338f5dcf4285.jpg?1562792026|https://scryfall.com/card/rtr/134/seek-the-horizon?utm_source=api>`
-   Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+   Search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Slime Molding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44a439e8-d586-4995-abfc-3dee5c860968.jpg?1562785525|https://scryfall.com/card/rtr/135/slime-molding?utm_source=api>`
@@ -706,7 +706,7 @@
 :mtgtip:`Abrupt Decay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b1e92b4-6e53-4dba-a572-c67e01965ac5.jpg?1562785076|https://scryfall.com/card/rtr/141/abrupt-decay?utm_source=api>`
    This spell can't be countered.
 
-   Destroy target nonland permanent with converted mana cost 3 or less.
+   Destroy target nonland permanent with mana value 3 or less.
 
 
 :mtgtip:`Archon of the Triumvirate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf91d847-4a87-4a65-8d6d-e20d538c5cec.jpg?1562792505|https://scryfall.com/card/rtr/142/archon-of-the-triumvirate?utm_source=api>`
@@ -802,7 +802,7 @@
 
 
 :mtgtip:`Epic Experiment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42f0b68a-de4b-4c0c-98ac-a812017f88a7.jpg?1562785467|https://scryfall.com/card/rtr/159/epic-experiment?utm_source=api>`
-   Exile the top X cards of your library. You may cast instant and sorcery spells with converted mana cost X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard.
+   Exile the top X cards of your library. You may cast instant and sorcery spells with mana value X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard.
 
 
 :mtgtip:`Essence Backlash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a98609dc-ea90-4c7e-a191-5e5d0ba16847.jpg?1562791298|https://scryfall.com/card/rtr/160/essence-backlash?utm_source=api>`
@@ -814,7 +814,7 @@
 
 
 :mtgtip:`Firemind's Foresight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cb5cb63-e7ec-4fc3-a389-4d8b5a4b96b9.jpg?1562790599|https://scryfall.com/card/rtr/162/fireminds-foresight?utm_source=api>`
-   Search your library for an instant card with converted mana cost 3, reveal it, and put it into your hand. Then repeat this process for instant cards with converted mana costs 2 and 1. Then shuffle your library.
+   Search your library for an instant card with mana value 3, reveal it, and put it into your hand. Then repeat this process for instant cards with mana values 2 and 1. Then shuffle.
 
 
 :mtgtip:`Goblin Electromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79fb620f-4057-4f60-94b9-56ab855be974.jpg?1562788533|https://scryfall.com/card/rtr/163/goblin-electromancer?utm_source=api>`
@@ -896,7 +896,7 @@
 
 
 :mtgtip:`Jarad's Orders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c59171ce-7dc6-4dd9-a124-3c2c3028d93d.jpg?1562792935|https://scryfall.com/card/rtr/175/jarads-orders?utm_source=api>`
-   Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.
+   Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle.
 
 
 :mtgtip:`Korozda Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/761c16aa-d4a7-492d-9275-98d0e07de45a.jpg?1562788386|https://scryfall.com/card/rtr/176/korozda-guildmage?utm_source=api>`
@@ -928,7 +928,7 @@
 :mtgtip:`Mercurial Chemister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/881728ce-4b18-410e-9cdb-4d439ce0b21d.jpg?1562789414|https://scryfall.com/card/rtr/180/mercurial-chemister?utm_source=api>`
    |mana_u|, |tap|: Draw two cards.
 
-   |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
+   |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's mana value.
 
 
 :mtgtip:`New Prahv Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/698b47d1-c72e-4dc3-b28b-7421e0163f22.jpg?1562787593|https://scryfall.com/card/rtr/181/new-prahv-guildmage?utm_source=api>`
@@ -1034,7 +1034,7 @@
 :mtgtip:`Slaughter Games<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf37391d-db35-40a7-908a-abb53895793c.jpg?1562792492|https://scryfall.com/card/rtr/197/slaughter-games?utm_source=api>`
    This spell can't be countered.
 
-   Choose a nonland card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles their library.
+   Choose a nonland card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles.
 
 
 :mtgtip:`Sluiceway Scorpion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b6dbadf-a6f7-4876-9c3f-44e4a33b2bee.jpg?1562788611|https://scryfall.com/card/rtr/198/sluiceway-scorpion?utm_source=api>`

@@ -62,7 +62,7 @@
 :mtgtip:`Gerrard Capashen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccca800f-e850-4bec-95d0-70280b51b7a7.jpg?1562943342|https://scryfall.com/card/apc/11/gerrard-capashen?utm_source=api>`
    At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.
 
-   |mana_3|\ |mana_w|: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.
+   |mana_3|\ |mana_w|: Tap target creature. Activate only if Gerrard Capashen is attacking.
 
 
 :mtgtip:`Haunted Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78d2d11b-12e4-4810-a32d-8f1cdda3ec49.jpg?1562923513|https://scryfall.com/card/apc/12/haunted-angel?utm_source=api>`
@@ -90,7 +90,7 @@
 :mtgtip:`Orim's Thunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00bf192-4baf-46ba-947b-a22d07635b04.jpg?1562944526|https://scryfall.com/card/apc/15/orims-thunder?utm_source=api>`
    Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)
 
-   Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature.
+   Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's mana value to target creature.
 
 
 :mtgtip:`Shield of Duty and Reason<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4ddf4ee0-75d6-48a5-955c-97faf73b899f.jpg?1562913230|https://scryfall.com/card/apc/16/shield-of-duty-and-reason?utm_source=api>`
@@ -292,7 +292,7 @@
 
 
 :mtgtip:`Zombie Boa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fb8c277-3154-47c9-835f-327cac297a5e.jpg?1562902465|https://scryfall.com/card/apc/54/zombie-boa?utm_source=api>`
-   |mana_1|\ |mana_b|: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate only as a sorcery.
 
 
 :mtgtip:`Bloodfire Colossus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/518145f3-9919-4ed6-9e2e-772ee349ea57.jpg?1562914106|https://scryfall.com/card/apc/55/bloodfire-colossus?utm_source=api>`
@@ -390,9 +390,9 @@
 
 
 :mtgtip:`Wild Research<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f00e6f1-e854-40b0-855d-7e0d7d233850.jpg?1562928707|https://scryfall.com/card/apc/72/wild-research?utm_source=api>`
-   |mana_1|\ |mana_w|: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.
+   |mana_1|\ |mana_w|: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle.
 
-   |mana_1|\ |mana_u|: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.
+   |mana_1|\ |mana_u|: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle.
 
 
 :mtgtip:`Ana Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7efe00f9-bf42-4d6f-9a22-b357b1c1e092.jpg?1562924945|https://scryfall.com/card/apc/73/ana-disciple?utm_source=api>`
@@ -420,7 +420,7 @@
 :mtgtip:`Gaea's Balance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1ffc5f8-ff1c-4733-b046-8679fa16371b.jpg?1562952462|https://scryfall.com/card/apc/77/gaeas-balance?utm_source=api>`
    As an additional cost to cast this spell, sacrifice five lands.
 
-   Search your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library.
+   Search your library for a land card of each basic land type, put those cards onto the battlefield, then shuffle.
 
 
 :mtgtip:`Glade Gnarr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee38eeae-918b-4d19-b37a-175ac5db37a4.jpg?1562951582|https://scryfall.com/card/apc/78/glade-gnarr?utm_source=api>`
@@ -438,7 +438,7 @@
 
 
 :mtgtip:`Lay of the Land<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90b10608-8917-4337-ad60-ab31ab8c0fc4.jpg?1562929113|https://scryfall.com/card/apc/81/lay-of-the-land?utm_source=api>`
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Penumbra Bobcat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21049fee-a748-4856-99ae-3a225a168532.jpg?1562902756|https://scryfall.com/card/apc/82/penumbra-bobcat?utm_source=api>`
@@ -488,7 +488,7 @@
 
 
 :mtgtip:`Aether Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9507116-ede8-40a1-8fa3-705e6f6f64c0.jpg?1562935036|https://scryfall.com/card/apc/91/aether-mutation?utm_source=api>`
-   Return target creature to its owner's hand. Create X 1/1 green Saproling creature tokens, where X is that creature's converted mana cost.
+   Return target creature to its owner's hand. Create X 1/1 green Saproling creature tokens, where X is that creature's mana value.
 
 
 :mtgtip:`Captain's Maneuver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb50813c-72df-49e7-bac5-e6e247649241.jpg?1562954570|https://scryfall.com/card/apc/92/captains-maneuver?utm_source=api>`
@@ -516,7 +516,7 @@
 
 
 :mtgtip:`Death Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c643d87-50bc-4380-b1d6-0a465eef5dbf.jpg?1562912876|https://scryfall.com/card/apc/96/death-mutation?utm_source=api>`
-   Destroy target nonblack creature. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that creature's converted mana cost.
+   Destroy target nonblack creature. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that creature's mana value.
 
 
 :mtgtip:`Ebony Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b85dadb-351f-4975-a2c3-febf5e80bc85.jpg?1562905217|https://scryfall.com/card/apc/97/ebony-treefolk?utm_source=api>`
@@ -556,7 +556,7 @@
 
 
 :mtgtip:`Guided Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b2e8e58-aee1-4882-943a-17a6af2f8410.jpg?1562897520|https://scryfall.com/card/apc/105/guided-passage?utm_source=api>`
-   Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library.
+   Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle.
 
 
 :mtgtip:`Jungle Barrier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4eb114a4-44e5-4375-92b8-00a0b0acbe94.jpg?1562913459|https://scryfall.com/card/apc/106/jungle-barrier?utm_source=api>`
@@ -598,7 +598,7 @@
 
 
 :mtgtip:`Pernicious Deed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae4cbb33-4947-49f0-b612-a92141fbfaa6.jpg?1562936195|https://scryfall.com/card/apc/114/pernicious-deed?utm_source=api>`
-   |mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.
+   |mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with mana value X or less.
 
 
 :mtgtip:`Powerstone Minefield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b17807b9-8feb-48ac-813a-829577f5b9e8.jpg?1562936913|https://scryfall.com/card/apc/115/powerstone-minefield?utm_source=api>`
@@ -698,7 +698,7 @@
 
 
 :mtgtip:`Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7ab75cdb-93a1-4f78-b404-37566295c321.jpg?1562923932|https://scryfall.com/card/apc/130/life-death?utm_source=api>`
-   Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.
+   Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value.
 
 
 :mtgtip:`Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8f109f1-9798-4bd3-b51a-49f173251dfd.jpg?1562950471|https://scryfall.com/card/apc/131/night-day?utm_source=api>`

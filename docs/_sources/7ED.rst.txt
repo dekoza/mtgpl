@@ -700,7 +700,7 @@
 
 
 :mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e3809e6-41ac-47e8-80dc-9e9c8be1ed7a.jpg?1562242672|https://scryfall.com/card/7ed/156/rag-man?utm_source=api>`
-   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.
+   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn.
 
 
 :mtgtip:`Raise Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/929cdbb4-d8b3-4e01-918c-2f46d74bb455.jpg?1562243133|https://scryfall.com/card/7ed/157/raise-dead?utm_source=api>`
@@ -850,7 +850,7 @@
 
 
 :mtgtip:`Goblin Matron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/862409e1-33e0-474c-8627-b03d25b654b9.jpg?1562242154|https://scryfall.com/card/7ed/191/goblin-matron?utm_source=api>`
-   When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library.
+   When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Goblin Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3315d75d-08dc-456c-a8e7-fe3136bf1a6b.jpg?1562235455|https://scryfall.com/card/7ed/192/goblin-raider?utm_source=api>`
@@ -1152,7 +1152,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c305376d-fcfb-48a1-947f-a9eec0dbc610.jpg?1562247259|https://scryfall.com/card/7ed/262/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Reclaim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/045e9ca4-ece8-49c2-b022-fb61f4b8b635.jpg?1562231431|https://scryfall.com/card/7ed/263/reclaim?utm_source=api>`
@@ -1224,7 +1224,7 @@
 
 
 :mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba496182-b249-40fa-8fdf-9823d521fcd9.jpg?1562246749|https://scryfall.com/card/7ed/279/untamed-wilds?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Verduran Enchantress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da3f99fe-8d5f-4efe-af86-72031dfe562a.jpg?1562248955|https://scryfall.com/card/7ed/280/verduran-enchantress?utm_source=api>`
@@ -1246,7 +1246,7 @@
 
 
 :mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/263feecf-a657-4892-a2bb-cd7080d283c2.jpg?1562234514|https://scryfall.com/card/7ed/284/wood-elves?utm_source=api>`
-   When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Yavimaya Enchantress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e41f45f1-9ed1-4ef2-8c2b-bab513d6a721.jpg?1562249897|https://scryfall.com/card/7ed/285/yavimaya-enchantress?utm_source=api>`
@@ -1284,7 +1284,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f94d6842-0b35-4493-8800-cf2b2138d656.jpg?1562251766|https://scryfall.com/card/7ed/293/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Ensnaring Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97d4fb56-7f63-4087-9ab3-a0df66655886.jpg?1562243641|https://scryfall.com/card/7ed/294/ensnaring-bridge?utm_source=api>`

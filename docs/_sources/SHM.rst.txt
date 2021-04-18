@@ -72,7 +72,7 @@
 
 
 :mtgtip:`Mistmeadow Skulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b18ff12f-3b0e-404a-8e35-3f7d05d0c0a7.jpg?1562834802|https://scryfall.com/card/shm/14/mistmeadow-skulk?utm_source=api>`
-   Lifelink, protection from converted mana cost 3 or greater
+   Lifelink, protection from mana value 3 or greater
 
 
 :mtgtip:`Niveous Wisps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.jpg?1562835473|https://scryfall.com/card/shm/15/niveous-wisps?utm_source=api>`
@@ -82,7 +82,7 @@
 
 
 :mtgtip:`Order of Whiteclay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.jpg?1562826410|https://scryfall.com/card/shm/16/order-of-whiteclay?utm_source=api>`
-   |mana_1|\ |mana_w|\ |mana_w|, |untap|: Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. (|untap| is the untap symbol.)
+   |mana_1|\ |mana_w|\ |mana_w|, |untap|: Return target creature card with mana value 3 or less from your graveyard to the battlefield. (|untap| is the untap symbol.)
 
 
 :mtgtip:`Pale Wayfarer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f852508e-7087-42e1-ad9b-c84708e92de7.jpg?1562838347|https://scryfall.com/card/shm/17/pale-wayfarer?utm_source=api>`
@@ -144,7 +144,7 @@
 
 
 :mtgtip:`Advice from the Fae<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d874f345-e623-4317-9aa7-66d14a011303.jpg?1562836692|https://scryfall.com/card/shm/28/advice-from-the-fae?utm_source=api>`
-   (|mana_2u| can be paid with any two mana or with |mana_u|. This card's converted mana cost is 6.)
+   (|mana_2u| can be paid with any two mana or with |mana_u|. This card's mana value is 6.)
 
    Look at the top five cards of your library. If you control more creatures than each other player, put two of those cards into your hand. Otherwise, put one of them into your hand. Then put the rest on the bottom of your library in any order.
 
@@ -174,7 +174,7 @@
 
 
 :mtgtip:`Counterbore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4228b80-d87d-4ebe-ae92-04e4a7d0dc43.jpg?1562838120|https://scryfall.com/card/shm/33/counterbore?utm_source=api>`
-   Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library.
+   Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles.
 
 
 :mtgtip:`Cursecatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20f2bfa5-bc30-46a4-b114-9d8c5b62e197.jpg?1562827776|https://scryfall.com/card/shm/34/cursecatcher?utm_source=api>`
@@ -244,7 +244,7 @@
 
 
 :mtgtip:`Puca's Mischief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8380bd90-35f2-4936-995b-af6427f61752.jpg?1562832467|https://scryfall.com/card/shm/47/pucas-mischief?utm_source=api>`
-   At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser converted mana cost.
+   At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser mana value.
 
 
 :mtgtip:`Put Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c17dff9e-23f7-4b12-95e7-aa1c00ab3d18.jpg?1562835533|https://scryfall.com/card/shm/48/put-away?utm_source=api>`
@@ -294,9 +294,9 @@
 
 
 :mtgtip:`Beseech the Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1562830966|https://scryfall.com/card/shm/57/beseech-the-queen?utm_source=api>`
-   (|mana_2b| can be paid with any two mana or with |mana_b|. This card's converted mana cost is 6.)
+   (|mana_2b| can be paid with any two mana or with |mana_b|. This card's mana value is 6.)
 
-   Search your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Blowfly Infestation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae027b38-a6cc-41f7-8f0d-9d1402b46517.jpg?1562834645|https://scryfall.com/card/shm/58/blowfly-infestation?utm_source=api>`
@@ -310,7 +310,7 @@
 
 
 :mtgtip:`Cinderhaze Wretch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/644319c2-f122-4369-b1f8-56ad7d8ce861.jpg?1562830939|https://scryfall.com/card/shm/60/cinderhaze-wretch?utm_source=api>`
-   |tap|: Target player discards a card. Activate this ability only during your turn.
+   |tap|: Target player discards a card. Activate only during your turn.
 
    Put a -1/-1 counter on Cinderhaze Wretch: Untap Cinderhaze Wretch.
 
@@ -480,7 +480,7 @@
 
 
 :mtgtip:`Flame Javelin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a567b570-81e4-4068-929c-9ce406fe7474.jpg?1562834196|https://scryfall.com/card/shm/92/flame-javelin?utm_source=api>`
-   (|mana_2r| can be paid with any two mana or with |mana_r|. This card's converted mana cost is 6.)
+   (|mana_2r| can be paid with any two mana or with |mana_r|. This card's mana value is 6.)
 
    Flame Javelin deals 4 damage to any target.
 
@@ -518,7 +518,7 @@
 
 
 :mtgtip:`Knollspine Invocation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8157aade-9dfc-402d-8e1f-468bf2bccb9c.jpg?1562832371|https://scryfall.com/card/shm/99/knollspine-invocation?utm_source=api>`
-   |mana_x|, Discard a card with converted mana cost X: Knollspine Invocation deals X damage to any target.
+   |mana_x|, Discard a card with mana value X: Knollspine Invocation deals X damage to any target.
 
 
 :mtgtip:`Mudbrawler Cohort<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8fcb1f26-9a2a-40bd-b291-4ef8ce375cdf.jpg?1562833063|https://scryfall.com/card/shm/100/mudbrawler-cohort?utm_source=api>`
@@ -588,7 +588,7 @@
 
 
 :mtgtip:`Farhaven Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89d7ff79-779f-4fb1-a842-56ba38e80fdd.jpg?1562832785|https://scryfall.com/card/shm/113/farhaven-elf?utm_source=api>`
-   When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Flourishing Defenses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6223f5d6-83f1-454e-9cd5-aba157850430.jpg?1562830854|https://scryfall.com/card/shm/114/flourishing-defenses?utm_source=api>`
@@ -674,7 +674,7 @@
 
 
 :mtgtip:`Tower Above<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50cc1e47-3786-4ba9-b837-bf5b43323135.jpg?1562830093|https://scryfall.com/card/shm/131/tower-above?utm_source=api>`
-   (|mana_2g| can be paid with any two mana or with |mana_g|. This card's converted mana cost is 6.)
+   (|mana_2g| can be paid with any two mana or with |mana_g|. This card's mana value is 6.)
 
    Until end of turn, target creature gets +4/+4 and gains trample, wither, and "When this creature attacks, target creature blocks it this turn if able." (It deals damage to creatures in the form of -1/-1 counters.)
 
@@ -710,7 +710,7 @@
 
 
 :mtgtip:`Augury Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4ba392e1-f310-4496-9d29-99a8783cc0f3.jpg?1562829808|https://scryfall.com/card/shm/137/augury-adept?utm_source=api>`
-   Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its converted mana cost.
+   Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its mana value.
 
 
 :mtgtip:`Barrenton Cragtreads<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/361dab9e-22f0-45e4-a793-aa6c97a96781.jpg?1562828712|https://scryfall.com/card/shm/138/barrenton-cragtreads?utm_source=api>`
@@ -1000,7 +1000,7 @@
 
 
 :mtgtip:`Manaforge Cinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/812f4eb6-06bb-4bc9-83da-0141f7ee4730.jpg?1562832364|https://scryfall.com/card/shm/191/manaforge-cinder?utm_source=api>`
-   |mana_1|: Add |mana_b| or |mana_r|. Activate this ability no more than three times each turn.
+   |mana_1|: Add |mana_b| or |mana_r|. Activate no more than three times each turn.
 
 
 :mtgtip:`Murderous Redcap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742|https://scryfall.com/card/shm/192/murderous-redcap?utm_source=api>`
@@ -1242,7 +1242,7 @@
 
 
 :mtgtip:`Safewright Quest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61edb39b-ff82-4568-971f-baf22e209c88.jpg?1562830841|https://scryfall.com/card/shm/240/safewright-quest?utm_source=api>`
-   Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Seedcradle Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0ae8525-ce10-40bd-8980-a05fb81a0fac.jpg?1562833973|https://scryfall.com/card/shm/241/seedcradle-witch?utm_source=api>`
@@ -1352,7 +1352,7 @@
 
 
 :mtgtip:`Reaper King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/502740bf-0bff-4358-8996-1a27e5f0343f.jpg?1562830062|https://scryfall.com/card/shm/260/reaper-king?utm_source=api>`
-   (|mana_2w| can be paid with any two mana or with |mana_w|. This card's converted mana cost is 10.)
+   (|mana_2w| can be paid with any two mana or with |mana_w|. This card's mana value is 10.)
 
    Other Scarecrow creatures you control get +1/+1.
 
@@ -1428,7 +1428,7 @@
 
    Leechridden Swamp enters the battlefield tapped.
 
-   |mana_b|, |tap|: Each opponent loses 1 life. Activate this ability only if you control two or more black permanents.
+   |mana_b|, |tap|: Each opponent loses 1 life. Activate only if you control two or more black permanents.
 
 
 :mtgtip:`Madblind Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.jpg?1562830130|https://scryfall.com/card/shm/274/madblind-mountain?utm_source=api>`
@@ -1436,7 +1436,7 @@
 
    Madblind Mountain enters the battlefield tapped.
 
-   |mana_r|, |tap|: Shuffle your library. Activate this ability only if you control two or more red permanents.
+   |mana_r|, |tap|: Shuffle your library. Activate only if you control two or more red permanents.
 
 
 :mtgtip:`Mistveil Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af06f923-0c89-42ae-a4a8-618be7f39cce.jpg?1562834703|https://scryfall.com/card/shm/275/mistveil-plains?utm_source=api>`
@@ -1444,7 +1444,7 @@
 
    Mistveil Plains enters the battlefield tapped.
 
-   |mana_w|, |tap|: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents.
+   |mana_w|, |tap|: Put target card from your graveyard on the bottom of your library. Activate only if you control two or more white permanents.
 
 
 :mtgtip:`Moonring Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64b36993-666c-40d0-b61a-1d162bd06dcc.jpg?1562830955|https://scryfall.com/card/shm/276/moonring-island?utm_source=api>`
@@ -1452,7 +1452,7 @@
 
    Moonring Island enters the battlefield tapped.
 
-   |mana_u|, |tap|: Look at the top card of target player's library. Activate this ability only if you control two or more blue permanents.
+   |mana_u|, |tap|: Look at the top card of target player's library. Activate only if you control two or more blue permanents.
 
 
 :mtgtip:`Mystic Gate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.jpg?1562829072|https://scryfall.com/card/shm/277/mystic-gate?utm_source=api>`
@@ -1470,7 +1470,7 @@
 
    Sapseep Forest enters the battlefield tapped.
 
-   |mana_g|, |tap|: You gain 1 life. Activate this ability only if you control two or more green permanents.
+   |mana_g|, |tap|: You gain 1 life. Activate only if you control two or more green permanents.
 
 
 :mtgtip:`Sunken Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d91a31c-b70a-45bd-a8dd-48d49b277f24.jpg?1562833783|https://scryfall.com/card/shm/280/sunken-ruins?utm_source=api>`

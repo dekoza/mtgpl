@@ -136,7 +136,7 @@
 :mtgtip:`Sram's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c6d47b0-4c19-4c19-9e21-54cd87a5e34d.jpg?1576381430|https://scryfall.com/card/aer/24/srams-expertise?utm_source=api>`
    Create three 1/1 colorless Servo artifact creature tokens.
 
-   You may cast a spell with converted mana cost 3 or less from your hand without paying its mana cost.
+   You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Thopter Arrest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4e738cb-e4ea-41c2-99a1-55b6167eccb0.jpg?1576381436|https://scryfall.com/card/aer/25/thopter-arrest?utm_source=api>`
@@ -168,7 +168,7 @@
 :mtgtip:`Baral's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d273f5b7-b3a3-485a-acc8-34e10a504646.jpg?1576381459|https://scryfall.com/card/aer/29/barals-expertise?utm_source=api>`
    Return up to three target artifacts and/or creatures to their owners' hands.
 
-   You may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost.
+   You may cast a spell with mana value 4 or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Bastion Inventor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/856f804d-0213-4b86-bc6a-6a0a1147c4f9.jpg?1576381465|https://scryfall.com/card/aer/30/bastion-inventor?utm_source=api>`
@@ -268,13 +268,13 @@
 
 
 :mtgtip:`Trophy Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584|https://scryfall.com/card/aer/48/trophy-mage?utm_source=api>`
-   When Trophy Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 3, reveal it, put it into your hand, then shuffle your library.
+   When Trophy Mage enters the battlefield, you may search your library for an artifact card with mana value 3, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Whir of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0279fd3c-9252-4958-9d7a-5f33aa25907e.jpg?1576381590|https://scryfall.com/card/aer/49/whir-of-invention?utm_source=api>`
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
-   Search your library for an artifact card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
+   Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Wind-Kin Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbfaa040-61fd-4705-a7ee-c67b49f740e3.jpg?1576381595|https://scryfall.com/card/aer/50/wind-kin-raiders?utm_source=api>`
@@ -310,13 +310,13 @@
 
 
 :mtgtip:`Defiant Salvager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0afbfb2c-3f1a-4ef9-9f61-6ca51af853d8.jpg?1576381632|https://scryfall.com/card/aer/56/defiant-salvager?utm_source=api>`
-   Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery.
+   Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate only as a sorcery.
 
 
 :mtgtip:`Fatal Push<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1595869185|https://scryfall.com/card/aer/57/fatal-push?utm_source=api>`
-   Destroy target creature if it has converted mana cost 2 or less.
+   Destroy target creature if it has mana value 2 or less.
 
-   Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.
+   Revolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.
 
 
 :mtgtip:`Fen Hauler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5ef4616-e3c2-4448-83b1-f7d439705eaf.jpg?1576381648|https://scryfall.com/card/aer/58/fen-hauler?utm_source=api>`
@@ -392,7 +392,7 @@
 
 
 :mtgtip:`Secret Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9b9f3e2-b5e8-4234-aaf3-5f1938a20c78.jpg?1576381728|https://scryfall.com/card/aer/71/secret-salvage?utm_source=api>`
-   Exile target nonland card from your graveyard. Search your library for any number of cards with the same name as that card, reveal them, and put them into your hand. Then shuffle your library.
+   Exile target nonland card from your graveyard. Search your library for any number of cards with the same name as that card, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Sly Requisitioner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2d05324-6d85-40da-a087-b5822bc8f42e.jpg?1576381733|https://scryfall.com/card/aer/72/sly-requisitioner?utm_source=api>`
@@ -416,7 +416,7 @@
 :mtgtip:`Yahenni's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1576381752|https://scryfall.com/card/aer/75/yahennis-expertise?utm_source=api>`
    All creatures get -3/-3 until end of turn.
 
-   You may cast a spell with converted mana cost 3 or less from your hand without paying its mana cost.
+   You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Aether Chaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/290cde84-d97a-4737-aff2-c443a4e43f7d.jpg?1576381759|https://scryfall.com/card/aer/76/aether-chaser?utm_source=api>`
@@ -474,7 +474,7 @@
 
 
 :mtgtip:`Indomitable Creativity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edd00e45-2ae1-4cd0-92a1-155c95f8dc72.jpg?1576381816|https://scryfall.com/card/aer/85/indomitable-creativity?utm_source=api>`
-   Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle their libraries.
+   Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle.
 
 
 :mtgtip:`Invigorated Rampage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c1d1727-99d4-4aee-b6f5-8399ac1d0184.jpg?1576381826|https://scryfall.com/card/aer/86/invigorated-rampage?utm_source=api>`
@@ -494,7 +494,7 @@
 :mtgtip:`Kari Zev's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab5c7400-6307-4c51-88b8-9c0232110714.jpg?1576381839|https://scryfall.com/card/aer/88/kari-zevs-expertise?utm_source=api>`
    Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.
 
-   You may cast a spell with converted mana cost 2 or less from your hand without paying its mana cost.
+   You may cast a spell with mana value 2 or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Lathnu Sailback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33998799-f31b-4522-93b2-0c34c570ebf7.jpg?1576381845|https://scryfall.com/card/aer/89/lathnu-sailback?utm_source=api>`
@@ -670,7 +670,7 @@
 :mtgtip:`Rishkar's Expertise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d58ba68-05c1-4cd8-a93d-321cd1739ccb.jpg?1576382075|https://scryfall.com/card/aer/123/rishkars-expertise?utm_source=api>`
    Draw cards equal to the greatest power among creatures you control.
 
-   You may cast a spell with converted mana cost 5 or less from your hand without paying its mana cost.
+   You may cast a spell with mana value 5 or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Scrounging Bandar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/761a11a7-175d-440d-b09d-918572c8e5d3.jpg?1576382081|https://scryfall.com/card/aer/124/scrounging-bandar?utm_source=api>`
@@ -730,7 +730,7 @@
 
 
 :mtgtip:`Renegade Rallier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90bad312-80e3-45b0-9556-60ce06808a47.jpg?1576382138|https://scryfall.com/card/aer/133/renegade-rallier?utm_source=api>`
-   Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield.
+   Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Renegade Wheelsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6956a341-10fd-48af-b382-88c2b2934a3e.jpg?1576382144|https://scryfall.com/card/aer/134/renegade-wheelsmith?utm_source=api>`
@@ -862,7 +862,7 @@
 
 
 :mtgtip:`Implement of Ferocity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcdee084-0d1a-486a-8361-680d394a5e23.jpg?1576382289|https://scryfall.com/card/aer/157/implement-of-ferocity?utm_source=api>`
-   |mana_g|, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_g|, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate only as a sorcery.
 
    When Implement of Ferocity is put into a graveyard from the battlefield, draw a card.
 
@@ -874,7 +874,7 @@
 
 
 :mtgtip:`Implement of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e45ca82-e387-4df0-890d-d53a7d0dadf7.jpg?1576382303|https://scryfall.com/card/aer/159/implement-of-malice?utm_source=api>`
-   |mana_b|, Sacrifice Implement of Malice: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_b|, Sacrifice Implement of Malice: Target player discards a card. Activate only as a sorcery.
 
    When Implement of Malice is put into a graveyard from the battlefield, draw a card.
 
@@ -934,7 +934,7 @@
 
 
 :mtgtip:`Planar Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/991397cf-5c7d-4e8a-8f46-8e2e0ed29eff.jpg?1576382390|https://scryfall.com/card/aer/171/planar-bridge?utm_source=api>`
-   |mana_8|, |tap|: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.
+   |mana_8|, |tap|: Search your library for a permanent card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Prizefighter Construct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e389c92-b54b-46b3-a7ab-b8a5a2a7d380.jpg?1576382396|https://scryfall.com/card/aer/172/prizefighter-construct?utm_source=api>`
@@ -944,7 +944,7 @@
 :mtgtip:`Renegade Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac063445-d0e2-4015-96dc-97098433f30a.jpg?1576382404|https://scryfall.com/card/aer/173/renegade-map?utm_source=api>`
    Renegade Map enters the battlefield tapped.
 
-   |tap|, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |tap|, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Reservoir Walker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8afe3be3-b0bc-4617-b4de-f60d14f1b91d.jpg?1576382413|https://scryfall.com/card/aer/174/reservoir-walker?utm_source=api>`
@@ -952,7 +952,7 @@
 
 
 :mtgtip:`Scrap Trawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68abc75f-596f-4169-96fc-ada941ef47ed.jpg?1576382420|https://scryfall.com/card/aer/175/scrap-trawler?utm_source=api>`
-   Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost.
+   Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.
 
 
 :mtgtip:`Servo Schematic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af2299e0-d31f-4ec4-9497-16e494ee21e6.jpg?1576382430|https://scryfall.com/card/aer/176/servo-schematic?utm_source=api>`
@@ -960,7 +960,7 @@
 
 
 :mtgtip:`Treasure Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c5d73d2-60cc-4b64-8274-4ba1bb98b6fa.jpg?1576382437|https://scryfall.com/card/aer/177/treasure-keeper?utm_source=api>`
-   When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with converted mana cost 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
+   When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
 
 
 :mtgtip:`Universal Solvent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f1b66b2-12b2-497b-a328-b43630c79e73.jpg?1576382443|https://scryfall.com/card/aer/178/universal-solvent?utm_source=api>`
@@ -998,7 +998,7 @@
 :mtgtip:`Spire of Industry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8331724d-6fab-454a-b06c-b06e499fa552.jpg?1576382490|https://scryfall.com/card/aer/184/spire-of-industry?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact.
+   |tap|, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.
 
 
 :mtgtip:`Ajani, Valiant Protector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/791fdd9a-0ab6-4db9-84f9-859d2d862518.jpg?1562923558|https://scryfall.com/card/aer/185/ajani-valiant-protector?utm_source=api>`
@@ -1020,7 +1020,7 @@
 
 
 :mtgtip:`Ajani's Aid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/7026c374-0776-403b-86fd-5092677fd5c9.jpg?1562921390|https://scryfall.com/card/aer/188/ajanis-aid?utm_source=api>`
-   When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
    Sacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would deal this turn.
 
@@ -1040,7 +1040,7 @@
 
 
 :mtgtip:`Tezzeret's Betrayal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d71efa6-5de8-476f-86ce-0790956e574f.jpg?1562932177|https://scryfall.com/card/aer/191/tezzerets-betrayal?utm_source=api>`
-   Destroy target creature. You may search your library and/or graveyard for a card named Tezzeret, Master of Metal, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Destroy target creature. You may search your library and/or graveyard for a card named Tezzeret, Master of Metal, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Pendulum of Patterns<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d19751aa-823e-4a0f-a004-dee333b34327.jpg?1562944937|https://scryfall.com/card/aer/192/pendulum-of-patterns?utm_source=api>`

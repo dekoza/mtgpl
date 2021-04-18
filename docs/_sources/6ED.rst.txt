@@ -88,7 +88,7 @@
 
 
 :mtgtip:`Enlightened Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e869da95-2c47-4796-aadc-50652ebb4d03.jpg?1562824125|https://scryfall.com/card/6ed/19/enlightened-tutor?utm_source=api>`
-   Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Ethereal Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c1733e2-bee2-4b85-b165-d4329402578b.jpg?1562819392|https://scryfall.com/card/6ed/20/ethereal-champion?utm_source=api>`
@@ -218,7 +218,7 @@
 
 
 :mtgtip:`Tariff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61094858-b8a8-425f-9c96-fac4fc6ecae8.jpg?1562818225|https://scryfall.com/card/6ed/47/tariff?utm_source=api>`
-   Each player sacrifices the creature they control with the highest converted mana cost unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.
+   Each player sacrifices the creature they control with the highest mana value unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest, that player chooses one.
 
 
 :mtgtip:`Tundra Wolves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a1e1378-9e27-4cce-88e7-a3bf3dcd2977.jpg?1562820021|https://scryfall.com/card/6ed/48/tundra-wolves?utm_source=api>`
@@ -356,7 +356,7 @@
 
 
 :mtgtip:`Juxtapose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b1fb725-0daa-45f4-ad31-6a061fa4d20f.jpg?1562815913|https://scryfall.com/card/6ed/77/juxtapose?utm_source=api>`
-   You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+   You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them.
 
 
 :mtgtip:`Library of Lat-Nam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ea40438-90ca-47ff-9805-df130d47ae48.jpg?1562820939|https://scryfall.com/card/6ed/78/library-of-lat-nam?utm_source=api>`
@@ -364,7 +364,7 @@
 
    • You draw three cards at the beginning of the next turn's upkeep.
 
-   • You search your library for a card, put that card into your hand, then shuffle your library.
+   • You search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Lord of Atlantis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d753d343-fedc-4406-b889-87e0f719d361.jpg?1562823335|https://scryfall.com/card/6ed/79/lord-of-atlantis?utm_source=api>`
@@ -384,7 +384,7 @@
 
 
 :mtgtip:`Mystical Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/1571b584-9007-45ee-a3c3-6c72f227fee2.jpg?1562814921|https://scryfall.com/card/6ed/83/mystical-tutor?utm_source=api>`
-   Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Phantasmal Terrain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80ab11d8-0cc2-4a00-9fe8-06a9b3683311.jpg?1562819592|https://scryfall.com/card/6ed/84/phantasmal-terrain?utm_source=api>`
@@ -462,7 +462,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e470d0f-06a0-4fdf-98eb-79d536dff894.jpg?1562817443|https://scryfall.com/card/6ed/100/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Storm Crow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a1bf438-3cd8-4bd8-85f1-fc97f49b44d9.jpg?1562816559|https://scryfall.com/card/6ed/101/storm-crow?utm_source=api>`
@@ -672,7 +672,7 @@
 
 
 :mtgtip:`Necrosavant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/164a9755-f003-456d-a827-d6ef6cc29a86.jpg?1562814959|https://scryfall.com/card/6ed/145/necrosavant?utm_source=api>`
-   |mana_3|\ |mana_b|\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |mana_3|\ |mana_b|\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c2a1e82-4922-4075-a869-3a1b607498c3.jpg?1562816625|https://scryfall.com/card/6ed/146/nightmare?utm_source=api>`
@@ -700,7 +700,7 @@
 
 
 :mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ef9159a-66ee-4e99-8fb6-6f45b02f9880.jpg?1562819489|https://scryfall.com/card/6ed/151/rag-man?utm_source=api>`
-   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.
+   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn.
 
 
 :mtgtip:`Raise Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71bb239e-4517-4add-a660-a89095e40a8e.jpg?1562818990|https://scryfall.com/card/6ed/152/raise-dead?utm_source=api>`
@@ -742,7 +742,7 @@
 
 
 :mtgtip:`Vampiric Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8505bc8-218f-4b56-be78-ebde535ebaa0.jpg?1562822704|https://scryfall.com/card/6ed/161/vampiric-tutor?utm_source=api>`
-   Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+   Search your library for a card, then shuffle and put that card on top. You lose 2 life.
 
 
 :mtgtip:`Zombie Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/346707a7-e816-432c-bb93-16b5cb4616e0.jpg?1562816311|https://scryfall.com/card/6ed/162/zombie-master?utm_source=api>`
@@ -854,7 +854,7 @@
 
 
 :mtgtip:`Goblin Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61bd1548-2ffa-4705-ba88-913f37d4ce92.jpg?1562818262|https://scryfall.com/card/6ed/186/goblin-recruiter?utm_source=api>`
-   When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+   When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order.
 
 
 :mtgtip:`Goblin Warrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1255654b-f983-4862-9112-9e378ea5d9fe.jpg?1562814772|https://scryfall.com/card/6ed/187/goblin-warrens?utm_source=api>`
@@ -864,7 +864,7 @@
 :mtgtip:`Hammer of Bogardan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b759a8d8-9c6b-4d1b-b17a-6b4f349dd553.jpg?1562822007|https://scryfall.com/card/6ed/188/hammer-of-bogardan?utm_source=api>`
    Hammer of Bogardan deals 3 damage to any target.
 
-   |mana_2|\ |mana_r|\ |mana_r|\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_2|\ |mana_r|\ |mana_r|\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Hulking Cyclops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0966fa96-2453-4555-8a90-8e4b7a393038.jpg?1562814373|https://scryfall.com/card/6ed/189/hulking-cyclops?utm_source=api>`
@@ -942,7 +942,7 @@
 :mtgtip:`Spitting Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9ec1676-f59b-4ab6-995c-d2525ac11370.jpg?1562822747|https://scryfall.com/card/6ed/207/spitting-drake?utm_source=api>`
    Flying
 
-   |mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+   |mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Spitting Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1e87de2-9d6b-4158-a871-5c81d05db7f0.jpg?1592485301|https://scryfall.com/card/6ed/208/spitting-earth?utm_source=api>`
@@ -1104,7 +1104,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21061c59-f8f3-4d47-9996-6f75ef27bd4e.jpg?1562815451|https://scryfall.com/card/6ed/246/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Redwood Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a954994b-1858-47d3-a81a-5b01d4ea7619.jpg?1562821404|https://scryfall.com/card/6ed/247/redwood-treefolk?utm_source=api>`
@@ -1180,7 +1180,7 @@
 
 
 :mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22e522c2-ed5d-46bc-b043-6a37d6402a9f.jpg?1562815541|https://scryfall.com/card/6ed/263/untamed-wilds?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Verduran Enchantress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77131286-50ec-47a3-80fb-6194da338de6.jpg?1562819187|https://scryfall.com/card/6ed/264/verduran-enchantress?utm_source=api>`
@@ -1206,7 +1206,7 @@
 
 
 :mtgtip:`Worldly Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b34d9054-5ad8-4a7d-a5c8-58bc39051834.jpg?1562821778|https://scryfall.com/card/6ed/269/worldly-tutor?utm_source=api>`
-   Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for a creature card, reveal it, then shuffle and put the card on top.
 
 
 :mtgtip:`Wyluli Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a24af58-5d75-4b41-a226-60abc415ff71.jpg?1562817953|https://scryfall.com/card/6ed/270/wyluli-wolf?utm_source=api>`
@@ -1258,7 +1258,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c246aa71-b833-495b-9b12-54bd158dc2a8.jpg?1562822445|https://scryfall.com/card/6ed/281/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Dragon Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b785730-32eb-40c0-83d0-a7ea59aac3e7.jpg?1562820803|https://scryfall.com/card/6ed/282/dragon-engine?utm_source=api>`
@@ -1288,7 +1288,7 @@
 
 
 :mtgtip:`Grinning Totem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95017ca7-4f45-4aea-9973-ca3f0833f77f.jpg?1562820541|https://scryfall.com/card/6ed/288/grinning-totem?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles their library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.
+   |mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.
 
 
 :mtgtip:`The Hive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa3aa493-3801-400e-965e-e518c38eb770.jpg?1562824865|https://scryfall.com/card/6ed/289/the-hive?utm_source=api>`
@@ -1392,7 +1392,7 @@
 
 
 :mtgtip:`Snake Basket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a9bc174-1d10-49bf-af4f-2f6061b1796e.jpg?1562816577|https://scryfall.com/card/6ed/312/snake-basket?utm_source=api>`
-   |mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery.
+   |mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate only as a sorcery.
 
 
 :mtgtip:`Soul Net<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d22d79a5-1da4-475e-9605-f4c7bdc76590.jpg?1562823092|https://scryfall.com/card/6ed/313/soul-net?utm_source=api>`

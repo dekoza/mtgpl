@@ -136,7 +136,7 @@
 
 
 :mtgtip:`Timely Hordemate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dcb3c08e-b591-421a-898a-533021cbabd2.jpg?1562794596|https://scryfall.com/card/ktk/27/timely-hordemate?utm_source=api>`
-   Raid — When Timely Hordemate enters the battlefield, if you attacked this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   Raid — When Timely Hordemate enters the battlefield, if you attacked this turn, return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Venerable Lammasu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/229919ef-e39f-4bdc-bcc5-46224a3eb7b4.jpg?1562783617|https://scryfall.com/card/ktk/28/venerable-lammasu?utm_source=api>`
@@ -190,7 +190,7 @@
 
 
 :mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/180425c9-1898-48d4-9932-ddfb1a28e6b0.jpg?1562783110|https://scryfall.com/card/ktk/37/disdainful-stroke?utm_source=api>`
-   Counter target spell with converted mana cost 4 or greater.
+   Counter target spell with mana value 4 or greater.
 
 
 :mtgtip:`Dragon's Eye Savants<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9ff29b2c-2156-45fd-a2dd-655b8d208197.jpg?1562791201|https://scryfall.com/card/ktk/38/dragons-eye-savants?utm_source=api>`
@@ -200,7 +200,7 @@
 
 
 :mtgtip:`Embodiment of Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88e07226-f180-4972-b7f8-90c743d45fb8.jpg?1562789879|https://scryfall.com/card/ktk/39/embodiment-of-spring?utm_source=api>`
-   |mana_1|\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_1|\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Force Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dda70b3e-4b70-404e-a579-41dd126be084.jpg?1562794644|https://scryfall.com/card/ktk/40/force-away?utm_source=api>`
@@ -356,7 +356,7 @@
 :mtgtip:`Bloodsoaked Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34bc9bb0-5ec1-400f-89e7-b450980a3391.jpg?1562784700|https://scryfall.com/card/ktk/66/bloodsoaked-champion?utm_source=api>`
    Bloodsoaked Champion can't block.
 
-   Raid — |mana_1|\ |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked this turn.
+   Raid — |mana_1|\ |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate only if you attacked this turn.
 
 
 :mtgtip:`Dead Drop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff25a19a-8f98-47ef-847c-ba526c82b290.jpg?1562796664|https://scryfall.com/card/ktk/67/dead-drop?utm_source=api>`
@@ -808,7 +808,7 @@
 
 
 :mtgtip:`Seek the Horizon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5269292-11be-4647-9074-7ce8115bf36f.jpg?1562794101|https://scryfall.com/card/ktk/150/seek-the-horizon?utm_source=api>`
-   Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+   Search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Smoke Teller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1916a2d9-4747-4118-b1b2-7a5ce492e3fc.jpg?1562783190|https://scryfall.com/card/ktk/151/smoke-teller?utm_source=api>`
@@ -826,7 +826,7 @@
 
 
 :mtgtip:`Trail of Mystery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6149685f-cb05-4c1f-95a4-3810505d1a95.jpg?1562787478|https://scryfall.com/card/ktk/154/trail-of-mystery?utm_source=api>`
-   Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    Whenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn.
 
@@ -1056,7 +1056,7 @@
 
 
 :mtgtip:`Savage Knuckleblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c9dddd3-7c8d-4669-8298-58149b142b8a.jpg?1562786291|https://scryfall.com/card/ktk/197/savage-knuckleblade?utm_source=api>`
-   |mana_2|\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate only once each turn.
 
    |mana_2|\ |mana_u|: Return Savage Knuckleblade to its owner's hand.
 
@@ -1148,7 +1148,7 @@
 
 
 :mtgtip:`Villainous Wealth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0610e69b-8b7c-40e4-bb10-28ee4411f861.jpg?1562782076|https://scryfall.com/card/ktk/211/villainous-wealth?utm_source=api>`
-   Target opponent exiles the top X cards of their library. You may cast any number of spells with converted mana cost X or less from among them without paying their mana costs.
+   Target opponent exiles the top X cards of their library. You may cast any number of spells with mana value X or less from among them without paying their mana costs.
 
 
 :mtgtip:`Warden of the Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04135bf7-2bcf-4a92-80f0-6d5eefca551b.jpg?1562781945|https://scryfall.com/card/ktk/212/warden-of-the-eye?utm_source=api>`
@@ -1260,7 +1260,7 @@
 
 
 :mtgtip:`Bloodstained Mire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959|https://scryfall.com/card/ktk/230/bloodstained-mire?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Blossoming Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a32a1c0b-f6ea-475a-aa01-3618ea7d8647.jpg?1562791365|https://scryfall.com/card/ktk/231/blossoming-sands?utm_source=api>`
@@ -1280,7 +1280,7 @@
 
 
 :mtgtip:`Flooded Strand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c2996d9-3287-4480-8c04-7a378e37e3cf.jpg?1571667973|https://scryfall.com/card/ktk/233/flooded-strand?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Frontier Bivouac<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4335951-e73e-45cb-b2a5-6e9d14ba87ee.jpg?1562795027|https://scryfall.com/card/ktk/234/frontier-bivouac?utm_source=api>`
@@ -1316,7 +1316,7 @@
 
 
 :mtgtip:`Polluted Delta<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978|https://scryfall.com/card/ktk/239/polluted-delta?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/501ce6cb-0324-4cca-bc79-903cefe1ac1f.jpg?1562786462|https://scryfall.com/card/ktk/240/rugged-highlands?utm_source=api>`
@@ -1380,11 +1380,11 @@
 
 
 :mtgtip:`Windswept Heath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7b28650-cddc-4878-b1d1-b5a764f4df49.jpg?1571667973|https://scryfall.com/card/ktk/248/windswept-heath?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Wooded Foothills<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8503cca-7e7d-44c4-8587-81376b396398.jpg?1571667977|https://scryfall.com/card/ktk/249/wooded-foothills?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2576dc74-1847-44b8-aef9-9d74f333b9cc.jpg?1562783786|https://scryfall.com/card/ktk/250/plains?utm_source=api>`

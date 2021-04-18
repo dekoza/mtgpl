@@ -12,7 +12,7 @@
 
 
 :mtgtip:`Amrou Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54ada83d-c499-45c2-bf8b-788a439fd1c3.jpg?1578997077|https://scryfall.com/card/mma/2/amrou-scout?utm_source=api>`
-   |mana_4|, |tap|: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_4|, |tap|: Search your library for a Rebel permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Amrou Seekers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e0191a7-9928-4b6e-ae4f-0db2d41ca71a.jpg?1561966858|https://scryfall.com/card/mma/3/amrou-seekers?utm_source=api>`
@@ -26,7 +26,7 @@
 
 
 :mtgtip:`Auriok Salvagers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.jpg?1561969035|https://scryfall.com/card/mma/5/auriok-salvagers?utm_source=api>`
-   |mana_1|\ |mana_w|: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+   |mana_1|\ |mana_w|: Return target artifact card with mana value 1 or less from your graveyard to your hand.
 
 
 :mtgtip:`Avian Changeling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.jpg?1561966406|https://scryfall.com/card/mma/6/avian-changeling?utm_source=api>`
@@ -96,7 +96,7 @@
 :mtgtip:`Gleam of Resistance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/157091f0-4416-4129-b417-cb6de7a970f7.jpg?1561966392|https://scryfall.com/card/mma/17/gleam-of-resistance?utm_source=api>`
    Creatures you control get +1/+2 until end of turn. Untap those creatures.
 
-   Basic landcycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Hillcomber Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3d48857-2fb6-4163-8785-12436db1b37c.jpg?1561969032|https://scryfall.com/card/mma/18/hillcomber-giant?utm_source=api>`
@@ -136,7 +136,7 @@
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bde60409-6b44-43ce-9441-af6020fe6355.jpg?1561968543|https://scryfall.com/card/mma/25/path-to-exile?utm_source=api>`
-   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Reveillark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06a4d2e0-1410-41f4-8070-2b0144c71e1d.jpg?1561965999|https://scryfall.com/card/mma/26/reveillark?utm_source=api>`
@@ -174,11 +174,11 @@
 :mtgtip:`Stonehewer Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e93cdf08-d503-4084-8c09-c4080ea05c3a.jpg?1561969038|https://scryfall.com/card/mma/31/stonehewer-giant?utm_source=api>`
    Vigilance
 
-   |mana_1|\ |mana_w|, |tap|: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.
+   |mana_1|\ |mana_w|, |tap|: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle.
 
 
 :mtgtip:`Terashi's Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab387bfd-2651-4883-b1a7-7bf197018bbe.jpg?1561968081|https://scryfall.com/card/mma/32/terashis-grasp?utm_source=api>`
-   Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+   Destroy target artifact or enchantment. You gain life equal to its mana value.
 
 
 :mtgtip:`Test of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67ba07ca-7be4-400e-a104-f7bbd527b6b4.jpg?1561967371|https://scryfall.com/card/mma/33/test-of-faith?utm_source=api>`
@@ -234,7 +234,7 @@
 
 
 :mtgtip:`Erratic Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ef14d4e-4727-4bc7-bc15-b0d31e19df8c.jpg?1561967833|https://scryfall.com/card/mma/42/erratic-mutation?utm_source=api>`
-   Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.
+   Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's mana value. Put all cards revealed this way on the bottom of your library in any order.
 
 
 :mtgtip:`Esperzoa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0de335a-d31e-41e1-ab0d-7dbdd768ac82.jpg?1561968562|https://scryfall.com/card/mma/43/esperzoa?utm_source=api>`
@@ -254,7 +254,7 @@
 
 
 :mtgtip:`Gifts Ungiven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79d7dbbd-7947-4d1d-aaf8-a74e1ffdae97.jpg?1561967827|https://scryfall.com/card/mma/46/gifts-ungiven?utm_source=api>`
-   Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+   Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
 
 
 :mtgtip:`Glen Elendra Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3e00cea-5dc0-43f6-bd95-d2776bdb19c2.jpg?1561968568|https://scryfall.com/card/mma/47/glen-elendra-archmage?utm_source=api>`
@@ -366,7 +366,7 @@
 
 
 :mtgtip:`Spell Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79418c88-5335-4a02-bcad-c1a611be25b7.jpg?1561967826|https://scryfall.com/card/mma/64/spell-snare?utm_source=api>`
-   Counter target spell with converted mana cost 2.
+   Counter target spell with mana value 2.
 
 
 :mtgtip:`Spellstutter Sprite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3899605d-2203-4ab6-9ff5-69490382eea4.jpg?1561966876|https://scryfall.com/card/mma/65/spellstutter-sprite?utm_source=api>`
@@ -374,7 +374,7 @@
 
    Flying
 
-   When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.
+   When Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control.
 
 
 :mtgtip:`Take Possession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8632ab0-9b6d-4d32-8af9-c61e9206497f.jpg?1561968077|https://scryfall.com/card/mma/66/take-possession?utm_source=api>`
@@ -392,7 +392,7 @@
 :mtgtip:`Traumatic Visions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/428f29ba-ec1a-4362-b041-fe07214670f8.jpg?1561966885|https://scryfall.com/card/mma/68/traumatic-visions?utm_source=api>`
    Counter target spell.
 
-   Basic landcycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Vedalken Dismisser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8fe73a5-dba9-422b-86c1-c957d9cb0622.jpg?1561968540|https://scryfall.com/card/mma/69/vedalken-dismisser?utm_source=api>`
@@ -410,7 +410,7 @@
 :mtgtip:`Absorb Vis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/894a8bc4-4ee0-45c6-86e9-aa91ddb505da.jpg?1561967845|https://scryfall.com/card/mma/71/absorb-vis?utm_source=api>`
    Target player loses 4 life and you gain 4 life.
 
-   Basic landcycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Auntie's Snitch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58ae897d-bbf9-47fe-a4d1-788cdf5c5de3.jpg?1561967351|https://scryfall.com/card/mma/72/aunties-snitch?utm_source=api>`
@@ -424,7 +424,7 @@
 :mtgtip:`Blightspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8af270e2-3bf2-4a53-9160-4ccdab34f3b3.jpg?1578997132|https://scryfall.com/card/mma/73/blightspeaker?utm_source=api>`
    |tap|: Target player loses 1 life.
 
-   |mana_4|, |tap|: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_4|, |tap|: Search your library for a Rebel permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Bridge from Below<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22ce657c-2092-419a-b35f-7b9786adc621.jpg?1561966411|https://scryfall.com/card/mma/74/bridge-from-below?utm_source=api>`
@@ -434,7 +434,7 @@
 
 
 :mtgtip:`Dark Confidant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c008ad2-ad33-46ee-a3f1-af85368c8734.jpg?1561966897|https://scryfall.com/card/mma/75/dark-confidant?utm_source=api>`
-   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
 
 
 :mtgtip:`Death Cloud<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0870b88-2794-4646-9f51-f3af03bc8bc8.jpg?1561968089|https://scryfall.com/card/mma/76/death-cloud?utm_source=api>`
@@ -470,7 +470,7 @@
 :mtgtip:`Earwig Squad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c12759ab-97c7-406a-bf57-eec74839f8f6.jpg?1561968546|https://scryfall.com/card/mma/82/earwig-squad?utm_source=api>`
    Prowl |mana_2|\ |mana_b| (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
 
-   When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles their library.
+   When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Executioner's Capsule<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a60afc2-d383-4a52-8a0e-0d9dc68fed03.jpg?1561966420|https://scryfall.com/card/mma/83/executioners-capsule?utm_source=api>`
@@ -480,7 +480,7 @@
 :mtgtip:`Extirpate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa3c9390-1b44-40c5-b370-1d9966cbfeae.jpg?1561969493|https://scryfall.com/card/mma/84/extirpate?utm_source=api>`
    Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
 
-   Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles their library.
+   Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Facevaulter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1a25f62-0ef5-4941-b9af-1ce1a63fb5e8.jpg?1561968064|https://scryfall.com/card/mma/85/facevaulter?utm_source=api>`
@@ -628,7 +628,7 @@
 
 
 :mtgtip:`Dragonstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/230cd568-f7ed-4571-a609-36522add91d0.jpg?1561966412|https://scryfall.com/card/mma/111/dragonstorm?utm_source=api>`
-   Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.
+   Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
@@ -642,7 +642,7 @@
 :mtgtip:`Fiery Fall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc517738-d731-4960-bc1e-5e86ca341ba9.jpg?1561969495|https://scryfall.com/card/mma/113/fiery-fall?utm_source=api>`
    Fiery Fall deals 5 damage to target creature.
 
-   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Fury Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff2a382b-f63a-4520-ab6e-a5428a5e61db.jpg?1561969502|https://scryfall.com/card/mma/114/fury-charm?utm_source=api>`
@@ -670,11 +670,11 @@
 :mtgtip:`Greater Gargadon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b922fc5-602b-4f92-9588-00a77a9d803c.jpg?1561966855|https://scryfall.com/card/mma/117/greater-gargadon?utm_source=api>`
    Suspend 10—|mana_r|
 
-   Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate this ability only if Greater Gargadon is suspended.
+   Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate only if Greater Gargadon is suspended.
 
 
 :mtgtip:`Grinning Ignus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/908980bf-0631-4c10-b0ae-39e5b50b9068.jpg?1561967854|https://scryfall.com/card/mma/118/grinning-ignus?utm_source=api>`
-   |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate this ability only any time you could cast a sorcery.
+   |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate only as a sorcery.
 
 
 :mtgtip:`Hammerheim Deadeye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bd39a59-688f-4465-8f00-540326c41128.jpg?1561966402|https://scryfall.com/card/mma/119/hammerheim-deadeye?utm_source=api>`
@@ -846,7 +846,7 @@
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd600b0a-c7dd-4a5d-bd35-14ef4215c520.jpg?1561969496|https://scryfall.com/card/mma/151/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Krosan Grip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de8338bb-bf0d-4fc2-b247-4b2a183f27cf.jpg?1561969024|https://scryfall.com/card/mma/152/krosan-grip?utm_source=api>`
@@ -908,7 +908,7 @@
 
 
 :mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0383f8d-8b8a-4a6b-8756-b27d8351a856.jpg?1561968059|https://scryfall.com/card/mma/161/search-for-tomorrow?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield, then shuffle.
 
    Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
 
@@ -926,7 +926,7 @@
 
 
 :mtgtip:`Summoner's Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8948f92-9bd5-4950-b901-6cf1528b5c3f.jpg?1561969036|https://scryfall.com/card/mma/164/summoners-pact?utm_source=api>`
-   Search your library for a green creature card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a green creature card, reveal it, put it into your hand, then shuffle.
 
    At the beginning of your next upkeep, pay |mana_2|\ |mana_g|\ |mana_g|. If you don't, you lose the game.
 
@@ -934,7 +934,7 @@
 :mtgtip:`Sylvan Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fed99a1-4cd6-40fc-8796-a92edc79bc76.jpg?1561966861|https://scryfall.com/card/mma/165/sylvan-bounty?utm_source=api>`
    Target player gains 8 life.
 
-   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Tarmogoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ea82414-3f16-4c8c-8668-1f1ee7566c7b.jpg?1561967361|https://scryfall.com/card/mma/166/tarmogoyf?utm_source=api>`
@@ -966,7 +966,7 @@
 :mtgtip:`Tooth and Nail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/403f6e97-eb7a-470a-8673-4997256e79f0.jpg?1561966883|https://scryfall.com/card/mma/170/tooth-and-nail?utm_source=api>`
    Choose one —
 
-   • Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library.
+   • Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle.
 
    • Put up to two creature cards from your hand onto the battlefield.
 
@@ -1020,7 +1020,7 @@
 :mtgtip:`Knight of the Reliquary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76cde4a6-128d-447f-9659-ceb3b345ed33.jpg?1561967818|https://scryfall.com/card/mma/178/knight-of-the-reliquary?utm_source=api>`
    Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
 
-   |tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Lightning Helix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a3eaaed-9af5-4220-a3d1-744de8147c52.jpg?1561967355|https://scryfall.com/card/mma/179/lightning-helix?utm_source=api>`
@@ -1132,7 +1132,7 @@
 :mtgtip:`Aether Vial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6774c646-76d4-4991-a7f3-b753ef200ce5.jpg?1561967370|https://scryfall.com/card/mma/197/aether-vial?utm_source=api>`
    At the beginning of your upkeep, you may put a charge counter on Aether Vial.
 
-   |tap|: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
+   |tap|: You may put a creature card with mana value equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
 
 
 :mtgtip:`Arcbound Ravager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0c33a92-5621-40b4-a3a2-b67893edbc01.jpg?1561968545|https://scryfall.com/card/mma/198/arcbound-ravager?utm_source=api>`
@@ -1164,13 +1164,13 @@
 :mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e472d9d-4e00-4f01-9daa-559e630403cc.jpg?1561966405|https://scryfall.com/card/mma/203/chalice-of-the-void?utm_source=api>`
    Chalice of the Void enters the battlefield with X charge counters on it.
 
-   Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
+   Whenever a player casts a spell with mana value equal to the number of charge counters on Chalice of the Void, counter that spell.
 
 
 :mtgtip:`Engineered Explosives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/822a3a49-48dc-462f-8eb1-613429b7dc1b.jpg?1561967839|https://scryfall.com/card/mma/204/engineered-explosives?utm_source=api>`
    Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
 
-   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with mana value equal to the number of charge counters on Engineered Explosives.
 
 
 :mtgtip:`Epochrasite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eec35cbe-dd07-45c3-8fd4-802a20e6802b.jpg?1561969042|https://scryfall.com/card/mma/205/epochrasite?utm_source=api>`
@@ -1290,7 +1290,7 @@
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0af384a-6421-43f6-a6ed-166022912a36.jpg?1561968092|https://scryfall.com/card/mma/224/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Vivid Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/208067af-9dd2-4509-96cb-f3ae216e3551.jpg?1561966409|https://scryfall.com/card/mma/225/vivid-crag?utm_source=api>`

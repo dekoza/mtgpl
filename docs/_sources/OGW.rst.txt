@@ -30,7 +30,7 @@
 
    Menace
 
-   Discard a card with converted mana cost X: Counter target spell with converted mana cost X.
+   Discard a card with mana value X: Counter target spell with mana value X.
 
 
 :mtgtip:`Kozilek's Pathfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b75585bd-fdd8-44d1-8c7c-b96df5fc473e.jpg?1562931898|https://scryfall.com/card/ogw/5/kozileks-pathfinder?utm_source=api>`
@@ -40,7 +40,7 @@
 :mtgtip:`Matter Reshaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3906b61a-3865-4dfd-ae06-a7d2a608851a.jpg?1562906487|https://scryfall.com/card/ogw/6/matter-reshaper?utm_source=api>`
    (|colorless| represents colorless mana.)
 
-   When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.
+   When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with mana value 3 or less. Otherwise, put that card into your hand.
 
 
 :mtgtip:`Reality Smasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52d4b652-a830-4fd4-94bb-c17c227f2928.jpg?1562911843|https://scryfall.com/card/ogw/7/reality-smasher?utm_source=api>`
@@ -106,7 +106,7 @@
 
 
 :mtgtip:`Call the Gatewatch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/4719ac60-2cff-4abb-b9cc-b677d3ac945c.jpg?1562909462|https://scryfall.com/card/ogw/16/call-the-gatewatch?utm_source=api>`
-   Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Dazzling Reflection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f77977e8-25d8-4531-a6fc-8c46e6904670.jpg?1562944884|https://scryfall.com/card/ogw/17/dazzling-reflection?utm_source=api>`
@@ -120,7 +120,7 @@
 
 
 :mtgtip:`General Tazri<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34e9aa86-1a31-4c0f-928d-923f066286b6.jpg?1562905706|https://scryfall.com/card/ogw/19/general-tazri?utm_source=api>`
-   When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.
+   When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle.
 
    |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.
 
@@ -444,7 +444,7 @@
 :mtgtip:`Kozilek's Translator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d80665ae-fcb2-48fd-95be-8768293bcef7.jpg?1562938393|https://scryfall.com/card/ogw/74/kozileks-translator?utm_source=api>`
    Devoid (This card has no color.)
 
-   Pay 1 life: Add |colorless|. Activate this ability only once each turn. (|colorless| represents colorless mana.)
+   Pay 1 life: Add |colorless|. Activate only once each turn. (|colorless| represents colorless mana.)
 
 
 :mtgtip:`Oblivion Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24e30acf-b30f-4bb3-b80e-dc7e9559da51.jpg?1562902424|https://scryfall.com/card/ogw/75/oblivion-strike?utm_source=api>`
@@ -583,12 +583,12 @@
    |mana_2|\ |colorless|: Each creature with toughness greater than its power can't block this turn. (|colorless| represents colorless mana.)
 
 
-:mtgtip:`Kozilek's Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72765559-0a78-4aa3-827e-cb4612720991.jpg?1562917903|https://scryfall.com/card/ogw/98/kozileks-return?utm_source=api>`
+:mtgtip:`Kozilek's Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72765559-0a78-4aa3-827e-cb4612720991.jpg?1618608556|https://scryfall.com/card/ogw/98/kozileks-return?utm_source=api>`
    Devoid (This card has no color.)
 
    Kozilek's Return deals 2 damage to each creature.
 
-   Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.
+   Whenever you cast an Eldrazi creature spell with mana value 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.
 
 
 :mtgtip:`Maw of Kozilek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48669993-ad68-499e-8f2e-bc5c651b4b28.jpg?1562909743|https://scryfall.com/card/ogw/99/maw-of-kozilek?utm_source=api>`
@@ -660,7 +660,7 @@
 :mtgtip:`Goblin Dark-Dwellers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddf91a4e-97f7-4189-823d-b619bb3b3d55.jpg?1562939666|https://scryfall.com/card/ogw/110/goblin-dark-dwellers?utm_source=api>`
    Menace
 
-   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
 
 
 :mtgtip:`Goblin Freerunner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/5082e0a1-5c3e-4b8c-ba88-290151564133.jpg?1562911327|https://scryfall.com/card/ogw/111/goblin-freerunner?utm_source=api>`
@@ -670,7 +670,7 @@
 
 
 :mtgtip:`Kazuul's Toll Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6824f48d-6808-4458-a2fd-1ffd0a10d72a.jpg?1562915987|https://scryfall.com/card/ogw/112/kazuuls-toll-collector?utm_source=api>`
-   |mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.
+   |mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate only as a sorcery.
 
 
 :mtgtip:`Oath of Chandra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f570b0cb-2f38-422d-89d6-22c85e085328.jpg?1562944439|https://scryfall.com/card/ogw/113/oath-of-chandra?utm_source=api>`
@@ -732,7 +732,7 @@
 :mtgtip:`Ruin in Their Wake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a0ff591-e4d9-4b62-ac9c-7962fd815226.jpg?1562913304|https://scryfall.com/card/ogw/122/ruin-in-their-wake?utm_source=api>`
    Devoid (This card has no color.)
 
-   Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle your library.
+   Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle.
 
 
 :mtgtip:`Scion Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/826a882e-c4bd-4132-b797-9e1aa2d0bce4.jpg?1562921366|https://scryfall.com/card/ogw/123/scion-summoner?utm_source=api>`
@@ -744,7 +744,7 @@
 :mtgtip:`Stalking Drone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12bc5b4c-a809-43f0-8848-38812ce865c2.jpg?1562898748|https://scryfall.com/card/ogw/124/stalking-drone?utm_source=api>`
    Devoid (This card has no color.)
 
-   |colorless|: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. (|colorless| represents colorless mana.)
+   |colorless|: Stalking Drone gets +1/+2 until end of turn. Activate only once each turn. (|colorless| represents colorless mana.)
 
 
 :mtgtip:`Vile Redeemer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f48b0613-127a-4338-aea4-ad0b8aa96d77.jpg?1562944177|https://scryfall.com/card/ogw/125/vile-redeemer?utm_source=api>`
@@ -806,11 +806,11 @@
 
 
 :mtgtip:`Loam Larva<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/affa9314-0021-445e-9496-349254b16bf8.jpg?1562930420|https://scryfall.com/card/ogw/135/loam-larva?utm_source=api>`
-   When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.
+   When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Natural State<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdd4bdd5-1673-4f22-b593-41df8ce95a97.jpg?1562946233|https://scryfall.com/card/ogw/136/natural-state?utm_source=api>`
-   Destroy target artifact or enchantment with converted mana cost 3 or less.
+   Destroy target artifact or enchantment with mana value 3 or less.
 
 
 :mtgtip:`Netcaster Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/456de8f8-f5dc-44fb-81b1-ca653c32be8e.jpg?1562909068|https://scryfall.com/card/ogw/137/netcaster-spider?utm_source=api>`
@@ -886,7 +886,7 @@
 
    Mindmelter can't be blocked.
 
-   |mana_3|\ |colorless|: Target opponent exiles a card from their hand. Activate this ability only any time you could cast a sorcery. (|colorless| represents colorless mana.)
+   |mana_3|\ |colorless|: Target opponent exiles a card from their hand. Activate only as a sorcery. (|colorless| represents colorless mana.)
 
 
 :mtgtip:`Void Grafter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c2e37e2-a4bd-4f90-9191-3125784a3369.jpg?1562916717|https://scryfall.com/card/ogw/150/void-grafter?utm_source=api>`
@@ -902,7 +902,7 @@
 
    |mana_1|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
 
-   |mana_1|\ |mana_w|\ |mana_b|, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.
+   |mana_1|\ |mana_w|\ |mana_b|, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.
 
 
 :mtgtip:`Baloth Null<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/8811d210-23e2-4318-9730-7ee3b2021c68.jpg?1562922516|https://scryfall.com/card/ogw/152/baloth-null?utm_source=api>`
@@ -1058,7 +1058,7 @@
 :mtgtip:`Sea Gate Wreckage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd42576b-9de5-4d77-9d30-1ef5b5a4fd73.jpg?1562936234|https://scryfall.com/card/ogw/177/sea-gate-wreckage?utm_source=api>`
    |tap|: Add |colorless|. (|colorless| represents colorless mana.)
 
-   |mana_2|\ |colorless|, |tap|: Draw a card. Activate this ability only if you have no cards in hand.
+   |mana_2|\ |colorless|, |tap|: Draw a card. Activate only if you have no cards in hand.
 
 
 :mtgtip:`Submerged Boneyard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6479a246-21ac-490a-aefb-6ed72aabdb88.jpg?1562915374|https://scryfall.com/card/ogw/178/submerged-boneyard?utm_source=api>`

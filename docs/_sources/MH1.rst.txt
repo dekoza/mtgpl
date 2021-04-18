@@ -120,7 +120,7 @@
 
 
 :mtgtip:`Ranger-Captain of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af3928b4-813a-4120-8799-de34235d60ac.jpg?1578997288|https://scryfall.com/card/mh1/21/ranger-captain-of-eos?utm_source=api>`
-   When Ranger-Captain of Eos enters the battlefield, you may search your library for a creature card with converted mana cost 1 or less, reveal it, put it into your hand, then shuffle your library.
+   When Ranger-Captain of Eos enters the battlefield, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
 
    Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature spells this turn.
 
@@ -172,7 +172,7 @@
 :mtgtip:`Sisay, Weatherlight Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1582021363|https://scryfall.com/card/mh1/29/sisay-weatherlight-captain?utm_source=api>`
    Sisay, Weatherlight Captain gets +1/+1 for each color among other legendary permanents you control.
 
-   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Search your library for a legendary permanent card with converted mana cost less than Sisay's power, put that card onto the battlefield, then shuffle your library.
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Search your library for a legendary permanent card with mana value less than Sisay's power, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Soul-Strike Technique<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6ab5f70-8f69-467f-9fa5-f69181edcb80.jpg?1562201233|https://scryfall.com/card/mh1/30/soul-strike-technique?utm_source=api>`
@@ -196,7 +196,7 @@
 
 
 :mtgtip:`Trustworthy Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a65f118-3812-4698-8f43-669ceb6b7982.jpg?1562201252|https://scryfall.com/card/mh1/33/trustworthy-scout?utm_source=api>`
-   |mana_1|\ |mana_w|, Exile Trustworthy Scout from your graveyard: Search your library for a card named Trustworthy Scout, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|\ |mana_w|, Exile Trustworthy Scout from your graveyard: Search your library for a card named Trustworthy Scout, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Valiant Changeling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad9fadff-a506-4546-b994-71e9e971b44e.jpg?1562201259|https://scryfall.com/card/mh1/34/valiant-changeling?utm_source=api>`
@@ -222,7 +222,7 @@
 
 
 :mtgtip:`Winds of Abandon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bb17913-fe4d-4acd-9b75-71f5a90f898b.jpg?1562201278|https://scryfall.com/card/mh1/37/winds-of-abandon?utm_source=api>`
-   Exile target creature you don't control. For each creature exiled this way, its controller searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle their libraries.
+   Exile target creature you don't control. For each creature exiled this way, its controller searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle.
 
    Overload |mana_4|\ |mana_w|\ |mana_w| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
@@ -234,7 +234,7 @@
 
 
 :mtgtip:`Zhalfirin Decoy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b93b824c-414d-4dd5-848f-bff678a289ba.jpg?1562201294|https://scryfall.com/card/mh1/39/zhalfirin-decoy?utm_source=api>`
-   |tap|: Tap target creature. Activate this ability only if you had a creature enter the battlefield under your control this turn.
+   |tap|: Tap target creature. Activate only if you had a creature enter the battlefield under your control this turn.
 
 
 :mtgtip:`Archmage's Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57b852b6-4388-4a41-a5c0-bba37a5c1451.jpg?1562201300|https://scryfall.com/card/mh1/40/archmages-charm?utm_source=api>`
@@ -244,7 +244,7 @@
 
    • Target player draws two cards.
 
-   • Gain control of target nonland permanent with converted mana cost 1 or less.
+   • Gain control of target nonland permanent with mana value 1 or less.
 
 
 :mtgtip:`Bazaar Trademage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d75faf7-fc27-4fc2-9e80-e35232c42542.jpg?1615473180|https://scryfall.com/card/mh1/41/bazaar-trademage?utm_source=api>`
@@ -262,7 +262,7 @@
 
 
 :mtgtip:`Chillerpillar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f57005c-414d-4c83-9b4f-cd26e547d54d.jpg?1562201322|https://scryfall.com/card/mh1/43/chillerpillar?utm_source=api>`
-   |mana_4|\ |mana_s|\ |mana_s|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous. |mana_s| can be paid with one mana from a snow permanent.)
+   |mana_4|\ |mana_s|\ |mana_s|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous. |mana_s| can be paid with one mana from a snow source.)
 
    As long as Chillerpillar is monstrous, it has flying.
 
@@ -376,13 +376,13 @@
 
 
 :mtgtip:`Pondering Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.jpg?1562201451|https://scryfall.com/card/mh1/63/pondering-mage?utm_source=api>`
-   When Pondering Mage enters the battlefield, look at the top three cards of your library, then put them back in any order. You may shuffle your library. Draw a card.
+   When Pondering Mage enters the battlefield, look at the top three cards of your library, then put them back in any order. You may shuffle. Draw a card.
 
 
 :mtgtip:`Prohibit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ae544bf-7229-4b82-99ad-32c3af36e30f.jpg?1562201457|https://scryfall.com/card/mh1/64/prohibit?utm_source=api>`
    Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)
 
-   Counter target spell if its converted mana cost is 2 or less. If this spell was kicked, counter that spell if its converted mana cost is 4 or less instead.
+   Counter target spell if its mana value is 2 or less. If this spell was kicked, counter that spell if its mana value is 4 or less instead.
 
 
 :mtgtip:`Rain of Revelation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42230b38-c81a-4d76-ad17-1166f5f62312.jpg?1562201465|https://scryfall.com/card/mh1/65/rain-of-revelation?utm_source=api>`
@@ -430,7 +430,7 @@
 
 
 :mtgtip:`Tribute Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c180888-6acd-401b-815a-6ed434482681.jpg?1562201528|https://scryfall.com/card/mh1/73/tribute-mage?utm_source=api>`
-   When Tribute Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 2, reveal that card, put it into your hand, then shuffle your library.
+   When Tribute Mage enters the battlefield, you may search your library for an artifact card with mana value 2, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Twisted Reflection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1d4d408-df74-45f7-925b-3cbff9a0304c.jpg?1562201534|https://scryfall.com/card/mh1/74/twisted-reflection?utm_source=api>`
@@ -674,7 +674,7 @@
 
 
 :mtgtip:`Unearth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767|https://scryfall.com/card/mh1/113/unearth?utm_source=api>`
-   Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
@@ -698,7 +698,7 @@
 
 
 :mtgtip:`Alpine Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e54423c1-ebea-4b5c-b563-1d14c104eb91.jpg?1562201791|https://scryfall.com/card/mh1/117/alpine-guide?utm_source=api>`
-   When Alpine Guide enters the battlefield, you may search your library for a Mountain card, put that card onto the battlefield tapped, then shuffle your library.
+   When Alpine Guide enters the battlefield, you may search your library for a Mountain card, put that card onto the battlefield tapped, then shuffle.
 
    Alpine Guide attacks each combat if able.
 
@@ -740,7 +740,7 @@
 
 
 :mtgtip:`Geomancer's Gambit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23b67031-76b8-4511-a6dc-433d9450496e.jpg?1562201839|https://scryfall.com/card/mh1/125/geomancers-gambit?utm_source=api>`
-   Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+   Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
 
    Draw a card.
 
@@ -756,13 +756,13 @@
 
 
 :mtgtip:`Goblin Engineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a55c4d47-5252-40af-961d-c08bc688028a.jpg?1562201855|https://scryfall.com/card/mh1/128/goblin-engineer?utm_source=api>`
-   When Goblin Engineer enters the battlefield, you may search your library for an artifact card, put it into your graveyard, then shuffle your library.
+   When Goblin Engineer enters the battlefield, you may search your library for an artifact card, put it into your graveyard, then shuffle.
 
-   |mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with converted mana cost 3 or less from your graveyard to the battlefield.
+   |mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Goblin Matron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861|https://scryfall.com/card/mh1/129/goblin-matron?utm_source=api>`
-   When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library.
+   When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Goblin Oriflamme<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33ec7cbe-16a0-4dbb-91fe-7e445a5268c8.jpg?1562201866|https://scryfall.com/card/mh1/130/goblin-oriflamme?utm_source=api>`
@@ -892,7 +892,7 @@
 :mtgtip:`Vengeful Devil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1265d65e-3f26-46d9-8b8b-e75048a02e95.jpg?1562202000|https://scryfall.com/card/mh1/152/vengeful-devil?utm_source=api>`
    Haste
 
-   Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate this ability only if a creature died this turn.
+   Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate only if a creature died this turn.
 
 
 :mtgtip:`Viashino Sandsprinter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1562202007|https://scryfall.com/card/mh1/153/viashino-sandsprinter?utm_source=api>`
@@ -966,7 +966,7 @@
 
 
 :mtgtip:`Frostwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fad4fc18-6f2c-45e4-a2c7-c2068b4f1a92.jpg?1562202080|https://scryfall.com/card/mh1/165/frostwalla?utm_source=api>`
-   |mana_s|: Frostwalla gets +2/+2 until end of turn. Activate this ability only once each turn. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_s|: Frostwalla gets +2/+2 until end of turn. Activate only once each turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Genesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b741d88-513a-4f47-a4fd-af42c5e44b6d.jpg?1562202086|https://scryfall.com/card/mh1/166/genesis?utm_source=api>`
@@ -996,7 +996,7 @@
 :mtgtip:`Krosan Tusker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6391ba8b-7d9a-4077-8eeb-1b2ced14d973.jpg?1562202110|https://scryfall.com/card/mh1/169/krosan-tusker?utm_source=api>`
    Cycling |mana_2|\ |mana_g| (|mana_2|\ |mana_g|, Discard this card: Draw a card.)
 
-   When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)
+   When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. (Do this before you draw.)
 
 
 :mtgtip:`Llanowar Tribe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1562202119|https://scryfall.com/card/mh1/170/llanowar-tribe?utm_source=api>`
@@ -1004,7 +1004,7 @@
 
 
 :mtgtip:`Mother Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1562202126|https://scryfall.com/card/mh1/171/mother-bear?utm_source=api>`
-   |mana_3|\ |mana_g|\ |mana_g|, Exile Mother Bear from your graveyard: Create two 2/2 green Bear creature tokens. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_g|\ |mana_g|, Exile Mother Bear from your graveyard: Create two 2/2 green Bear creature tokens. Activate only as a sorcery.
 
 
 :mtgtip:`Murasa Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/480ddde1-81d3-4939-b232-cb1ced6cfc4d.jpg?1562202132|https://scryfall.com/card/mh1/172/murasa-behemoth?utm_source=api>`
@@ -1050,7 +1050,7 @@
 
 
 :mtgtip:`Springbloom Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6161d2ed-7cff-4c90-9e74-1d179a6c1498.jpg?1562202198|https://scryfall.com/card/mh1/181/springbloom-druid?utm_source=api>`
-   When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Squirrel Nest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1562202205|https://scryfall.com/card/mh1/182/squirrel-nest?utm_source=api>`
@@ -1138,11 +1138,11 @@
 
 
 :mtgtip:`Collected Conjuring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba1d0ac1-e805-4213-a46e-cf124680d082.jpg?1590512059|https://scryfall.com/card/mh1/196/collected-conjuring?utm_source=api>`
-   Exile the top six cards of your library. You may cast up to two sorcery spells with converted mana cost 3 or less from among them without paying their mana costs. Put the exiled cards not cast this way on the bottom of your library in a random order.
+   Exile the top six cards of your library. You may cast up to two sorcery spells with mana value 3 or less from among them without paying their mana costs. Put the exiled cards not cast this way on the bottom of your library in a random order.
 
 
 :mtgtip:`Eladamri's Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300|https://scryfall.com/card/mh1/197/eladamris-call?utm_source=api>`
-   Search your library for a creature card, reveal that card, put it into your hand, then shuffle your library.
+   Search your library for a creature card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Etchings of the Chosen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/7036ab83-94a3-4634-9f0a-dde7af3be450.jpg?1562202307|https://scryfall.com/card/mh1/198/etchings-of-the-chosen?utm_source=api>`
@@ -1288,7 +1288,7 @@
 
 
 :mtgtip:`Arcum's Astrolabe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2462fdf-a594-47d0-8e10-b55901e350d9.jpg?1613386977|https://scryfall.com/card/mh1/220/arcums-astrolabe?utm_source=api>`
-   (|mana_s| can be paid with one mana from a snow permanent.)
+   (|mana_s| can be paid with one mana from a snow source.)
 
    When Arcum's Astrolabe enters the battlefield, draw a card.
 
@@ -1312,7 +1312,7 @@
 
 
 :mtgtip:`Icehide Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1562202467|https://scryfall.com/card/mh1/224/icehide-golem?utm_source=api>`
-   (|mana_s| can be paid with one mana from a snow permanent.)
+   (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Lesser Masticore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4c7cba5-6111-40ce-828a-e811301bb283.jpg?1562202475|https://scryfall.com/card/mh1/225/lesser-masticore?utm_source=api>`
@@ -1332,7 +1332,7 @@
 :mtgtip:`Scrapyard Recombiner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8945f5e0-c143-47ca-910e-32ad9ac34487.jpg?1562202487|https://scryfall.com/card/mh1/227/scrapyard-recombiner?utm_source=api>`
    Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
 
-   |tap|, Sacrifice an artifact: Search your library for a Construct card, reveal it, put it into your hand, then shuffle your library.
+   |tap|, Sacrifice an artifact: Search your library for a Construct card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sword of Sinew and Steel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c081e5cf-81e2-4afb-a912-8267de29e88d.jpg?1562202493|https://scryfall.com/card/mh1/228/sword-of-sinew-and-steel?utm_source=api>`
@@ -1398,7 +1398,7 @@
 
    |mana_1|, |tap|: Add one mana of any color.
 
-   |mana_4|, |tap|, Sacrifice Cave of Temptation: Put two +1/+1 counters on target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_4|, |tap|, Sacrifice Cave of Temptation: Put two +1/+1 counters on target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Fiery Islet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3aab13c-9d9d-4507-ae5d-da979990ae1b.jpg?1562202552|https://scryfall.com/card/mh1/238/fiery-islet?utm_source=api>`
@@ -1418,7 +1418,7 @@
 :mtgtip:`Frostwalk Bastion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfb5d83f-2b7c-4c22-ac37-938e7cd1654a.jpg?1562202563|https://scryfall.com/card/mh1/240/frostwalk-bastion?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|\ |mana_s|: Until end of turn, Frostwalk Bastion becomes a 2/3 Construct artifact creature. It's still a land. (|mana_s| can be paid with one mana from a snow permanent.)
+   |mana_1|\ |mana_s|: Until end of turn, Frostwalk Bastion becomes a 2/3 Construct artifact creature. It's still a land. (|mana_s| can be paid with one mana from a snow source.)
 
    Whenever Frostwalk Bastion deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
 
@@ -1444,7 +1444,7 @@
 
 
 :mtgtip:`Prismatic Vista<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.jpg?1562202585|https://scryfall.com/card/mh1/244/prismatic-vista?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Secluded Steppe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb40724c-62ca-43ab-b4cd-b5fd8e454bfe.jpg?1562202591|https://scryfall.com/card/mh1/245/secluded-steppe?utm_source=api>`

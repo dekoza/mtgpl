@@ -102,7 +102,7 @@
 
 
 :mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/6063b7ee-94ae-4a5b-9902-6aa0335af593.jpg?1562612700|https://scryfall.com/card/zen/18/kor-cartographer?utm_source=api>`
-   When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+   When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Kor Duelist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fd1af74-ba3b-4528-9490-99edd54e9fe1.jpg?1562612125|https://scryfall.com/card/zen/19/kor-duelist?utm_source=api>`
@@ -136,7 +136,7 @@
 :mtgtip:`Luminarch Ascension<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.jpg?1562617913|https://scryfall.com/card/zen/25/luminarch-ascension?utm_source=api>`
    At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)
 
-   |mana_1|\ |mana_w|: Create a 4/4 white Angel creature token with flying. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+   |mana_1|\ |mana_w|: Create a 4/4 white Angel creature token with flying. Activate only if Luminarch Ascension has four or more quest counters on it.
 
 
 :mtgtip:`Makindi Shieldmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e76e9555-966c-4fc3-9ef4-a0154ccb8329.jpg?1562617828|https://scryfall.com/card/zen/26/makindi-shieldmate?utm_source=api>`
@@ -178,7 +178,7 @@
 :mtgtip:`Quest for the Holy Relic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc.jpg?1562609297|https://scryfall.com/card/zen/33/quest-for-the-holy-relic?utm_source=api>`
    Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.
 
-   Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.
+   Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle.
 
 
 :mtgtip:`Shepherd of the Lost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff23b1c2-7b99-4504-8944-ada264725524.jpg?1562618751|https://scryfall.com/card/zen/34/shepherd-of-the-lost?utm_source=api>`
@@ -224,7 +224,7 @@
 :mtgtip:`Archmage Ascension<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3.jpg?1562617361|https://scryfall.com/card/zen/42/archmage-ascension?utm_source=api>`
    At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.
 
-   As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.
+   As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Caller of Gales<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5aabef2-982b-42c9-9804-08ce4d8910cd.jpg?1562615759|https://scryfall.com/card/zen/43/caller-of-gales?utm_source=api>`
@@ -242,7 +242,7 @@
 :mtgtip:`Gomazoa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/119d2661-ba22-4901-b89a-a0a8ec25d004.jpg?1562609939|https://scryfall.com/card/zen/46/gomazoa?utm_source=api>`
    Defender, flying
 
-   |tap|: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+   |tap|: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle.
 
 
 :mtgtip:`Hedron Crab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0fa1946-4f97-4c52-b5f2-b80571230616.jpg?1562618190|https://scryfall.com/card/zen/47/hedron-crab?utm_source=api>`
@@ -396,7 +396,7 @@
 
 
 :mtgtip:`Trapmaker's Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cbc98ab-9f8a-41ed-b368-22f1f4ae594b.jpg?1562614773|https://scryfall.com/card/zen/74/trapmakers-snare?utm_source=api>`
-   Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a Trap card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Umara Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/6049cc80-1faa-48bf-897e-fefe5a8e7ab2.jpg?1562612698|https://scryfall.com/card/zen/75/umara-raptor?utm_source=api>`
@@ -592,7 +592,7 @@
 :mtgtip:`Sadistic Sacrament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3d82fd7-6af1-4a97-9d51-486a41224b35.jpg?1562618318|https://scryfall.com/card/zen/110/sadistic-sacrament?utm_source=api>`
    Kicker |mana_7| (You may pay an additional |mana_7| as you cast this spell.)
 
-   Search target player's library for up to three cards, exile them, then that player shuffles their library. If this spell was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles their library.
+   Search target player's library for up to three cards, exile them, then that player shuffles. If this spell was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles.
 
 
 :mtgtip:`Sorin Markov<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29606aca-f23f-4dfe-b685-2065193109c8.jpg?1562610795|https://scryfall.com/card/zen/111/sorin-markov?utm_source=api>`
@@ -858,7 +858,7 @@
 
 
 :mtgtip:`Frontier Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b99a418a-2386-49b9-b48d-67a52448e65c.jpg?1562615886|https://scryfall.com/card/zen/161/frontier-guide?utm_source=api>`
-   |mana_3|\ |mana_g|, |tap|: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Gigantiform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa476306-9d6b-45ed-9e6c-fd4aee6592e7.jpg?1562615338|https://scryfall.com/card/zen/162/gigantiform?utm_source=api>`
@@ -868,7 +868,7 @@
 
    Enchanted creature has base power and toughness 8/8 and has trample.
 
-   When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.
+   When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Grazing Gladehart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/078b5290-a613-496f-bd23-8fd109549f31.jpg?1562609590|https://scryfall.com/card/zen/163/grazing-gladehart?utm_source=api>`
@@ -882,7 +882,7 @@
 :mtgtip:`Harrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e309c1fc-3a7c-4624-8b48-9b152c2590ae.jpg?1562617636|https://scryfall.com/card/zen/165/harrow?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Joraga Bard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b53f5a5f-d851-4ceb-96e7-9ba216062072.jpg?1562615753|https://scryfall.com/card/zen/166/joraga-bard?utm_source=api>`
@@ -892,7 +892,7 @@
 :mtgtip:`Khalni Heart Expedition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/797d8cd6-fc6b-4560-9c6f-1a867dfce85a.jpg?1562613591|https://scryfall.com/card/zen/167/khalni-heart-expedition?utm_source=api>`
    Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.
 
-   Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Lotus Cobra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19adde22-e5eb-4815-beb6-c520b3274cc9.jpg?1562610219|https://scryfall.com/card/zen/168/lotus-cobra?utm_source=api>`
@@ -906,11 +906,11 @@
 
 
 :mtgtip:`Nissa Revane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b4c26ab-0f7b-4163-b9e4-a415b91352a6.jpg?1562610283|https://scryfall.com/card/zen/170/nissa-revane?utm_source=api>`
-   +1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
+   +1: Search your library for a card named Nissa's Chosen, put it onto the battlefield, then shuffle.
 
    +1: You gain 2 life for each Elf you control.
 
-   −7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.
+   −7: Search your library for any number of Elf creature cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Nissa's Chosen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a740584f-2ec2-46a9-9344-eac220759e85.jpg?1562615225|https://scryfall.com/card/zen/171/nissas-chosen?utm_source=api>`
@@ -1074,7 +1074,7 @@
 
 
 :mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c55bee97-593f-441f-b96c-a998d5212a55.jpg?1562616395|https://scryfall.com/card/zen/201/expedition-map?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Explorer's Scope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea3a9cdb-4842-44b3-8143-0fda31692600.jpg?1562617923|https://scryfall.com/card/zen/202/explorers-scope?utm_source=api>`
@@ -1132,7 +1132,7 @@
 
 
 :mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16c8d2fa-54a7-46e8-980c-905258497c90.jpg?1562610110|https://scryfall.com/card/zen/211/arid-mesa?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Crypt of Agadeem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/672869d6-5314-422e-92f6-6a328fe0c6f6.jpg?1562612925|https://scryfall.com/card/zen/212/crypt-of-agadeem?utm_source=api>`
@@ -1194,11 +1194,11 @@
 
 
 :mtgtip:`Marsh Flats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45026d57-0324-4312-8b86-2e7d4f581ee9.jpg?1562611771|https://scryfall.com/card/zen/219/marsh-flats?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Misty Rainforest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787.jpg?1562610639|https://scryfall.com/card/zen/220/misty-rainforest?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Oran-Rief, the Vastwood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bcc3bab-46f8-4ed2-abdb-7a117ad07d03.jpg?1562614723|https://scryfall.com/card/zen/221/oran-rief-the-vastwood?utm_source=api>`
@@ -1218,7 +1218,7 @@
 
 
 :mtgtip:`Scalding Tarn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.jpg?1562611115|https://scryfall.com/card/zen/223/scalding-tarn?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Sejiri Refuge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fd8cb0d-d651-44e7-ae14-4035b0f1aa77.jpg?1562610475|https://scryfall.com/card/zen/224/sejiri-refuge?utm_source=api>`
@@ -1262,7 +1262,7 @@
 
 
 :mtgtip:`Verdant Catacombs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7abd2723-2851-4f1a-b2d0-dfcb526472c3.jpg?1562613630|https://scryfall.com/card/zen/229/verdant-catacombs?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7.jpg?1562616025|https://scryfall.com/card/zen/230/plains?utm_source=api>`

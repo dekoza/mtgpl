@@ -48,7 +48,7 @@
 
 
 :mtgtip:`Prophecy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f514eb63-3a4e-4410-ba3d-487cf81f7063.jpg?1562588721|https://scryfall.com/card/hml/11/prophecy?utm_source=api>`
-   Reveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles their library.
+   Reveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles.
 
    Draw a card at the beginning of the next turn's upkeep.
 
@@ -94,7 +94,7 @@
 :mtgtip:`Trade Caravan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdcc821b-8125-4585-ba44-4bf8c1873fbf.jpg?1562588730|https://scryfall.com/card/hml/19a/trade-caravan?utm_source=api>`
    At the beginning of your upkeep, put a currency counter on Trade Caravan.
 
-   Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.
+   Remove two currency counters from Trade Caravan: Untap target basic land. Activate only during an opponent's upkeep.
 
 
 :mtgtip:`Truce<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35c5fd74-bd46-4833-ae25-1a11a8c15ed2.jpg?1562587068|https://scryfall.com/card/hml/20/truce?utm_source=api>`
@@ -158,7 +158,7 @@
 :mtgtip:`Marjhan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6aa3299-3b7a-4ea5-bc1f-beead26d8116.jpg?1562588228|https://scryfall.com/card/hml/31/marjhan?utm_source=api>`
    Marjhan doesn't untap during your untap step.
 
-   |mana_u|\ |mana_u|, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.
+   |mana_u|\ |mana_u|, Sacrifice a creature: Untap Marjhan. Activate only during your upkeep.
 
    Marjhan can't attack unless defending player controls an Island.
 
@@ -172,7 +172,7 @@
 
 
 :mtgtip:`Merchant Scroll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1617433102|https://scryfall.com/card/hml/33/merchant-scroll?utm_source=api>`
-   Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Mystic Decree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b069e6a-2c0e-4fc9-8e19-08bf1245a6c0.jpg?1562587759|https://scryfall.com/card/hml/34/mystic-decree?utm_source=api>`
@@ -196,7 +196,7 @@
 
 
 :mtgtip:`Sea Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7da23d4-f9fb-40a5-8395-51b47a064600.jpg?1562588231|https://scryfall.com/card/hml/39/sea-troll?utm_source=api>`
-   |mana_u|: Regenerate Sea Troll. Activate this ability only if Sea Troll blocked or was blocked by a blue creature this turn.
+   |mana_u|: Regenerate Sea Troll. Activate only if Sea Troll blocked or was blocked by a blue creature this turn.
 
 
 :mtgtip:`Wall of Kelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52ff5051-e24b-4453-aaae-ed4f2bf213ab.jpg?1562587284|https://scryfall.com/card/hml/40/wall-of-kelp?utm_source=api>`
@@ -218,7 +218,7 @@
 
    Black Carriage doesn't untap during your untap step.
 
-   Sacrifice a creature: Untap Black Carriage. Activate this ability only during your upkeep.
+   Sacrifice a creature: Untap Black Carriage. Activate only during your upkeep.
 
 
 :mtgtip:`Broken Visage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9be199e7-feaa-4f23-b93c-3eab54a02e74.jpg?1562587775|https://scryfall.com/card/hml/43/broken-visage?utm_source=api>`
@@ -358,7 +358,7 @@
 
 
 :mtgtip:`Dwarven Sea Clan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cb722d9-1998-4912-a6f2-4ffa8d21311a.jpg?1562587274|https://scryfall.com/card/hml/71/dwarven-sea-clan?utm_source=api>`
-   |tap|: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate this ability only before the end of combat step.
+   |tap|: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate only before the end of combat step.
 
 
 :mtgtip:`Dwarven Trader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4db9aa47-f42b-41e9-948c-8b012c3809fb.jpg?1562587275|https://scryfall.com/card/hml/72a/dwarven-trader?utm_source=api>`
@@ -378,7 +378,7 @@
 :mtgtip:`Heart Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0427dcd-26da-462b-b936-a382d3d8afce.jpg?1562588698|https://scryfall.com/card/hml/75/heart-wolf?utm_source=api>`
    First strike
 
-   |tap|: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate this ability only during combat.
+   |tap|: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate only during combat.
 
 
 :mtgtip:`Ironclaw Curse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e796f0ff-4e7b-4849-b463-0aac860c72ea.jpg?1562588706|https://scryfall.com/card/hml/76/ironclaw-curse?utm_source=api>`
@@ -478,7 +478,7 @@
 :mtgtip:`Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab998cd1-2f49-42e7-b889-c6717b0ce884.jpg?1562588220|https://scryfall.com/card/hml/93/renewal?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle.
 
    Draw a card at the beginning of the next turn's upkeep.
 
@@ -532,7 +532,7 @@
 
    At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate only during your upkeep.
 
 
 :mtgtip:`Clockwork Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfd89e5c-79dc-4a57-b5ea-16491443fea1.jpg?1562588696|https://scryfall.com/card/hml/104/clockwork-swarm?utm_source=api>`
@@ -542,7 +542,7 @@
 
    At end of combat, if Clockwork Swarm attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Activate only during your upkeep.
 
 
 :mtgtip:`Didgeridoo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/828f8f68-abe2-4e39-b3e4-991dceacd5d9.jpg?1562587748|https://scryfall.com/card/hml/105/didgeridoo?utm_source=api>`
@@ -564,7 +564,7 @@
 :mtgtip:`Roterothopter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22148a1a-2172-4718-8ee4-08770eafed9f.jpg?1562587058|https://scryfall.com/card/hml/109/roterothopter?utm_source=api>`
    Flying
 
-   |mana_2|: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_2|: Roterothopter gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Serrated Arrows<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2.jpg?1562587751|https://scryfall.com/card/hml/110/serrated-arrows?utm_source=api>`

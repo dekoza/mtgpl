@@ -6,11 +6,11 @@
 
 
 :mtgtip:`Axgard Braggart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4de5ff64-6fe7-4fc5-be27-cdbaa14545ab.jpg?1614984440|https://scryfall.com/card/khm/1/axgard-braggart?utm_source=api>`
-   Boast — |mana_1|\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter on it. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter on it. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Battershield Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb79dc85-f85a-4846-9ac3-c75c64ea9c0a.jpg?1614984474|https://scryfall.com/card/khm/2/battershield-warrior?utm_source=api>`
-   Boast — |mana_1|\ |mana_w|: Creatures you control get +1/+1 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_w|: Creatures you control get +1/+1 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Battlefield Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/389f0045-218d-41cd-bdca-8a9a0ab1b31b.jpg?1614984509|https://scryfall.com/card/khm/3/battlefield-raptor?utm_source=api>`
@@ -74,7 +74,7 @@
 
 
 :mtgtip:`Goldmaw Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44d4cd64-8560-48f5-b0bc-f75286c1c91c.jpg?1616399717|https://scryfall.com/card/khm/14/goldmaw-champion?utm_source=api>`
-   Boast — |mana_1|\ |mana_w|: Tap target creature. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_w|: Tap target creature. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Halvar, God of Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1608253263|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`
@@ -122,7 +122,7 @@
 
    Snow lands your opponents control enter the battlefield tapped.
 
-   Noncreature spells your opponents cast with converted mana cost 4 or greater cost |mana_2| more to cast.
+   Noncreature spells your opponents cast with mana value 4 or greater cost |mana_2| more to cast.
 
 
 :mtgtip:`Valkmira, Protector's Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg?1612724106|https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api>`
@@ -162,19 +162,19 @@
 
 
 :mtgtip:`Runeforge Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4368b087-05a0-4a88-ab43-0cd16446239b.jpg?1614985216|https://scryfall.com/card/khm/26/runeforge-champion?utm_source=api>`
-   When Runeforge Champion enters the battlefield, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Runeforge Champion enters the battlefield, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
    You may pay |mana_1| rather than pay the mana cost for Rune spells you cast.
 
 
 :mtgtip:`Search for Glory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b65c215d-562d-4c7c-bc9f-b1d741050158.jpg?1614985255|https://scryfall.com/card/khm/27/search-for-glory?utm_source=api>`
-   Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle your library. You gain 1 life for each |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)
+   Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle. You gain 1 life for each |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)
 
 
 :mtgtip:`Shepherd of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce33c84e-008c-48d8-a8e8-77cd19cc4f1f.jpg?1614985290|https://scryfall.com/card/khm/28/shepherd-of-the-cosmos?utm_source=api>`
    Flying
 
-   When Shepherd of the Cosmos enters the battlefield, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield.
+   When Shepherd of the Cosmos enters the battlefield, return target permanent card with mana value 2 or less from your graveyard to the battlefield.
 
    Foretell |mana_3|\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
@@ -218,7 +218,7 @@
 
 
 :mtgtip:`Usher of the Fallen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24e58478-c6a8-4f86-854a-a489c99bd777.jpg?1614985528|https://scryfall.com/card/khm/35/usher-of-the-fallen?utm_source=api>`
-   Boast — |mana_1|\ |mana_w|: Create a 1/1 white Human Warrior creature token. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_w|: Create a 1/1 white Human Warrior creature token. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Valkyrie's Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97873c66-6bff-4d79-850c-1e2663098ef4.jpg?1614985560|https://scryfall.com/card/khm/36/valkyries-sword?utm_source=api>`
@@ -342,7 +342,7 @@
 
 
 :mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7691ac89-f8ba-493e-aa11-5674a783dffb.jpg?1614986250|https://scryfall.com/card/khm/54/disdainful-stroke?utm_source=api>`
-   Counter target spell with converted mana cost 4 or greater.
+   Counter target spell with mana value 4 or greater.
 
 
 :mtgtip:`Draugr Thought-Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31da60a2-d4d3-4954-be59-c7ff61fa2905.jpg?1614986293|https://scryfall.com/card/khm/55/draugr-thought-thief?utm_source=api>`
@@ -360,7 +360,7 @@
 :mtgtip:`Frostpyre Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/276f8abd-4d39-4b50-876f-9c6713bc4ab5.jpg?1614986396|https://scryfall.com/card/khm/58/frostpyre-arcanist?utm_source=api>`
    This spell costs |mana_1| less to cast if you control a Giant or a Wizard.
 
-   When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle your library.
+   When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Giant's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab8b1ec2-9303-4722-8644-b3bc1a5c387f.jpg?1614986435|https://scryfall.com/card/khm/59/giants-amulet?utm_source=api>`
@@ -498,7 +498,7 @@
 
    • Destroy all planeswalkers.
 
-   Then return a creature or planeswalker card with converted mana cost X or less from your graveyard to the battlefield, where X is the amount of |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)
+   Then return a creature or planeswalker card with mana value X or less from your graveyard to the battlefield, where X is the amount of |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)
 
 
 :mtgtip:`Bloodsky Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6308a53-de07-4ed9-80a1-3579843466c2.jpg?1614987136|https://scryfall.com/card/khm/80/bloodsky-berserker?utm_source=api>`
@@ -508,7 +508,7 @@
 :mtgtip:`Burning-Rune Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f358a52b-8044-404e-8d04-2ec5903386cc.jpg?1611027869|https://scryfall.com/card/khm/81/burning-rune-demon?utm_source=api>`
    Flying
 
-   When Burning-Rune Demon enters the battlefield, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle your library.
+   When Burning-Rune Demon enters the battlefield, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle.
 
 
 :mtgtip:`Crippling Fear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d9bd181-b99f-477e-bcfb-9b78cbf51224.jpg?1611110713|https://scryfall.com/card/khm/82/crippling-fear?utm_source=api>`
@@ -534,7 +534,7 @@
 
 
 :mtgtip:`Draugr Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2.jpg?1611170200|https://scryfall.com/card/khm/87/draugr-recruiter?utm_source=api>`
-   Boast — |mana_3|\ |mana_b|: Return target creature card from your graveyard to your hand. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_3|\ |mana_b|: Return target creature card from your graveyard to your hand. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Draugr's Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327.jpg?1610562272|https://scryfall.com/card/khm/88/draugrs-helm?utm_source=api>`
@@ -555,8 +555,8 @@
    Whenever you foretell a card, Dream Devourer gets +2/+0 until end of turn.
 
 
-:mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1610560902|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`
-   Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. (Activate this ability only if this creature attacked this turn and only once each turn.)
+:mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1618519591|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`
+   Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Egon, God of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1610397419|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`
@@ -578,7 +578,7 @@
 :mtgtip:`Eradicator Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00edda3-ddbc-44ee-a14b-47a701445bb0.jpg?1610852419|https://scryfall.com/card/khm/94/eradicator-valkyrie?utm_source=api>`
    Flying, lifelink, hexproof from planeswalkers
 
-   Boast — |mana_1|\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Feed the Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99a1a75b-20cf-4db9-a244-cc54411446c4.jpg?1610398737|https://scryfall.com/card/khm/95/feed-the-serpent?utm_source=api>`
@@ -630,7 +630,7 @@
 
 
 :mtgtip:`Priest of the Haunted Edge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cde0f4d-5acc-4a25-a3d6-c6b9b734360c.jpg?1610999428|https://scryfall.com/card/khm/104/priest-of-the-haunted-edge?utm_source=api>`
-   |tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate this ability only any time you could cast a sorcery.
+   |tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate only as a sorcery.
 
 
 :mtgtip:`Raise the Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a67c196-632c-4c7b-a132-de07d894e634.jpg?1610586723|https://scryfall.com/card/khm/105/raise-the-draugr?utm_source=api>`
@@ -702,7 +702,7 @@
 :mtgtip:`Valki, God of Lies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1610153366|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
    When Valki enters the battlefield, each opponent reveals their hand. For each opponent, exile a creature card they revealed this way until Valki leaves the battlefield.
 
-   |mana_x|: Choose a creature card exiled with Valki with converted mana cost X. Valki becomes a copy of that card.
+   |mana_x|: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card.
 
 
 :mtgtip:`Tibalt, Cosmic Impostor<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1610153366|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
@@ -718,7 +718,7 @@
 :mtgtip:`Varragoth, Bloodsky Sire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efa8dbf0-4e5a-452b-826f-5813e8cd9d85.jpg?1610910043|https://scryfall.com/card/khm/115/varragoth-bloodsky-sire?utm_source=api>`
    Deathtouch
 
-   Boast — |mana_1|\ |mana_b|: Target player searches their library for a card, then shuffles their library and puts that card on top of it. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_b|: Target player searches their library for a card, then shuffles and puts that card on top. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Vengeful Reaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854c99fd-71ba-40b7-98cf-b783f01a77b4.jpg?1611078403|https://scryfall.com/card/khm/116/vengeful-reaper?utm_source=api>`
@@ -748,7 +748,7 @@
 :mtgtip:`Arni Brokenbrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff334bba-0805-4d5d-86c4-99185fe9a77a.jpg?1614987202|https://scryfall.com/card/khm/120/arni-brokenbrow?utm_source=api>`
    Haste
 
-   Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Axgard Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1614987243|https://scryfall.com/card/khm/121/axgard-cavalry?utm_source=api>`
@@ -810,11 +810,11 @@
 
    Boast abilities you activate cost |mana_1| less to activate for each Dragon you control.
 
-   Boast — |mana_4|\ |mana_r|: Create a 5/5 red Dragon creature token with flying. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_4|\ |mana_r|: Create a 5/5 red Dragon creature token with flying. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Dual Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ef580f8-efec-4d31-8dc3-2018dd48b6f4.jpg?1614987596|https://scryfall.com/card/khm/132/dual-strike?utm_source=api>`
-   When you cast your next instant or sorcery spell with converted mana cost 4 or less this turn, copy that spell. You may choose new targets for the copy.
+   When you cast your next instant or sorcery spell with mana value 4 or less this turn, copy that spell. You may choose new targets for the copy.
 
    Foretell |mana_r| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
@@ -834,13 +834,13 @@
 
 
 :mtgtip:`Fearless Liberator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/212462b7-e23e-4c87-93aa-9cadefbf1ac8.jpg?1616399845|https://scryfall.com/card/khm/135/fearless-liberator?utm_source=api>`
-   Boast — |mana_2|\ |mana_r|: Create a 2/1 red Dwarf Berserker creature token. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_2|\ |mana_r|: Create a 2/1 red Dwarf Berserker creature token. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Fearless Pup<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0eba2250-0e9b-46fd-a4b5-23f30329e063.jpg?1614987734|https://scryfall.com/card/khm/136/fearless-pup?utm_source=api>`
    First strike
 
-   Boast — |mana_2|\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_2|\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Frenzied Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22c59e0b-5b78-4cf5-9c2a-92ccf833778f.jpg?1614987768|https://scryfall.com/card/khm/137/frenzied-raider?utm_source=api>`
@@ -860,7 +860,7 @@
 
 
 :mtgtip:`Hagi Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3b18cdb-bc17-42ae-bfb7-4eafce01cd39.jpg?1614987884|https://scryfall.com/card/khm/140/hagi-mob?utm_source=api>`
-   Boast — |mana_1|\ |mana_r|: Hagi Mob deals 1 damage to any target. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_r|: Hagi Mob deals 1 damage to any target. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Immersturm Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1614987924|https://scryfall.com/card/khm/141/immersturm-raider?utm_source=api>`
@@ -872,7 +872,7 @@
 
    Whenever a Dwarf you control becomes tapped, create a Treasure token.
 
-   Sacrifice five Treasures: Search your library for an artifact or Dragon card, put that card onto the battlefield, then shuffle your library.
+   Sacrifice five Treasures: Search your library for an artifact or Dragon card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Open the Omenpaths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4023c8-8e7f-42b9-99e5-87e80fc3d6c8.jpg?1614987998|https://scryfall.com/card/khm/143/open-the-omenpaths?utm_source=api>`
@@ -964,7 +964,7 @@
 
 
 :mtgtip:`Tuskeri Firewalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a54d0170-a375-4e65-b98d-3e94a3aeef90.jpg?1614988420|https://scryfall.com/card/khm/157/tuskeri-firewalker?utm_source=api>`
-   Boast — |mana_1|: Exile the top card of your library. You may play that card this turn. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|: Exile the top card of your library. You may play that card this turn. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Vault Robber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f68014-489d-4f51-a959-0f335541cb4e.jpg?1614988451|https://scryfall.com/card/khm/158/vault-robber?utm_source=api>`
@@ -1068,7 +1068,7 @@
 
 
 :mtgtip:`Horizon Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a17f4b21-6478-407d-b567-2888349f3b66.jpg?1614989069|https://scryfall.com/card/khm/175/horizon-seeker?utm_source=api>`
-   Boast — |mana_1|\ |mana_g|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. (Activate this ability only if this creature attacked this turn and only once each turn.)
+   Boast — |mana_1|\ |mana_g|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Activate only if this creature attacked this turn and only once each turn.)
 
 
 :mtgtip:`Icehide Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02f3aaed-a01f-4c6a-b9bb-cd70b0f6ceb1.jpg?1614989106|https://scryfall.com/card/khm/176/icehide-troll?utm_source=api>`
@@ -1076,7 +1076,7 @@
 
 
 :mtgtip:`In Search of Greatness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac0e50fa-5114-4f96-89f4-000906da7c76.jpg?1614989138|https://scryfall.com/card/khm/177/in-search-of-greatness?utm_source=api>`
-   At the beginning of your upkeep, you may cast a permanent spell from your hand with converted mana cost equal to 1 plus the highest converted mana cost among other permanents you control without paying its mana cost. If you don't, scry 1.
+   At the beginning of your upkeep, you may cast a permanent spell from your hand with mana value equal to 1 plus the highest mana value among other permanents you control without paying its mana cost. If you don't, scry 1.
 
 
 :mtgtip:`Jaspera Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a68615d-9808-479d-aa80-50651246954e.jpg?1616399883|https://scryfall.com/card/khm/178/jaspera-sentinel?utm_source=api>`
@@ -1112,7 +1112,7 @@
 :mtgtip:`Littjara Glade-Warden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a92dde51-310e-4f28-bd3b-d43b639785ec.jpg?1614989242|https://scryfall.com/card/khm/182/littjara-glade-warden?utm_source=api>`
    Changeling (This card is every creature type.)
 
-   |mana_2|\ |mana_g|, |tap|, Exile a creature card from your graveyard: Put two +1/+1 counters on target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_g|, |tap|, Exile a creature card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Mammoth Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e55041f-69a5-4bcf-899f-a4b44c208b4d.jpg?1614989279|https://scryfall.com/card/khm/183/mammoth-growth?utm_source=api>`
@@ -1134,7 +1134,7 @@
 
 
 :mtgtip:`Path to the World Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/606da75d-382a-47a8-9739-644438594700.jpg?1614989387|https://scryfall.com/card/khm/186/path-to-the-world-tree?utm_source=api>`
-   When Path to the World Tree enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Path to the World Tree enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    |mana_2|\ |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|, Sacrifice Path to the World Tree: You gain 2 life and draw two cards. Target opponent loses 2 life. Path to the World Tree deals 2 damage to up to one target creature. You create a 2/2 green Bear creature token.
 
@@ -1154,7 +1154,7 @@
 
 
 :mtgtip:`Rootless Yew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/992aba3f-e1cb-4f5a-8b6f-328a069102a4.jpg?1614989494|https://scryfall.com/card/khm/189/rootless-yew?utm_source=api>`
-   When Rootless Yew dies, search your library for a creature card with power or toughness 6 or greater, reveal it, put it into your hand, then shuffle your library.
+   When Rootless Yew dies, search your library for a creature card with power or toughness 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Roots of Wisdom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/734afb5b-3163-47fa-856f-8a85b9da22d3.jpg?1614989529|https://scryfall.com/card/khm/190/roots-of-wisdom?utm_source=api>`
@@ -1182,11 +1182,11 @@
 
 
 :mtgtip:`Snakeskin Veil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e692c208-c171-4964-9207-43c2cbc62845.jpg?1614989668|https://scryfall.com/card/khm/194/snakeskin-veil?utm_source=api>`
-   Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+   Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.
 
 
 :mtgtip:`Spirit of the Aldergard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/220df551-3820-4910-a206-14501ba02e69.jpg?1614989700|https://scryfall.com/card/khm/195/spirit-of-the-aldergard?utm_source=api>`
-   When Spirit of the Aldergard enters the battlefield, search your library for a snow land card, reveal it, put it into your hand, then shuffle your library.
+   When Spirit of the Aldergard enters the battlefield, search your library for a snow land card, reveal it, put it into your hand, then shuffle.
 
    Spirit of the Aldergard gets +1/+0 for each other snow permanent you control.
 
@@ -1264,7 +1264,7 @@
 
    II — Scry 3.
 
-   III — Whenever you cast a spell with converted mana cost 5 or greater this turn, draw two cards, then discard a card.
+   III — Whenever you cast a spell with mana value 5 or greater this turn, draw two cards, then discard a card.
 
 
 :mtgtip:`The Bears of Littjara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be43a643-6cb7-4bb6-a28d-8ad30b7fbb6d.jpg?1615602785|https://scryfall.com/card/khm/205/the-bears-of-littjara?utm_source=api>`
@@ -1282,7 +1282,7 @@
 
    I — Destroy target nonland permanent an opponent controls.
 
-   II — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle your library.
+   II — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
 
    III — Creatures you control gain deathtouch until end of turn.
 
@@ -1326,7 +1326,7 @@
 
    I, II — Create a Treasure token.
 
-   III — Search your library for a card named Halvar, God of Battle or an Equipment card, reveal it, put it into your hand, then shuffle your library.
+   III — Search your library for a card named Halvar, God of Battle or an Equipment card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Harald, King of Skemfar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9eac78a2-599f-4dba-aec7-982c5ae3f75a.jpg?1615602891|https://scryfall.com/card/khm/212/harald-king-of-skemfar?utm_source=api>`
@@ -1464,7 +1464,7 @@
 :mtgtip:`Sarulf, Realm Eater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcecf9ba-36da-490a-9460-99ff87d99fbd.jpg?1615603269|https://scryfall.com/card/khm/228/sarulf-realm-eater?utm_source=api>`
    Whenever a permanent an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on Sarulf, Realm Eater.
 
-   At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with converted mana cost less than or equal to the number of counters removed this way.
+   At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with mana value less than or equal to the number of counters removed this way.
 
 
 :mtgtip:`Showdown of the Skalds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d9d840e-1f13-44e3-a4de-903cfa58a346.jpg?1615603295|https://scryfall.com/card/khm/229/showdown-of-the-skalds?utm_source=api>`
@@ -1556,7 +1556,7 @@
 
 
 :mtgtip:`Pyre of Heroes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae9a8e44-f5de-497d-be48-adf1bcbaec97.jpg?1615603565|https://scryfall.com/card/khm/241/pyre-of-heroes?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has converted mana cost equal to 1 plus that creature's converted mana cost. Put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+   |mana_2|, |tap|, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has mana value equal to 1 plus that creature's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
 :mtgtip:`Raiders' Karve<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f572cbb1-49ee-4c95-90a3-82704cf92454.jpg?1615603589|https://scryfall.com/card/khm/242/raiders-karve?utm_source=api>`
@@ -1578,7 +1578,7 @@
 
 
 :mtgtip:`Runed Crown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1ef89770-2dbb-4a57-99f7-191591bb8e38.jpg?1615603662|https://scryfall.com/card/khm/245/runed-crown?utm_source=api>`
-   When Runed Crown enters the battlefield, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to Runed Crown. If you search your library this way, shuffle it.
+   When Runed Crown enters the battlefield, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to Runed Crown. If you search your library this way, shuffle.
 
    Equipped creature gets +1/+1.
 
@@ -1612,7 +1612,7 @@
 
    |tap|: Add |mana_w|.
 
-   |mana_1|\ |mana_r|\ |mana_r|\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle your library.
+   |mana_1|\ |mana_r|\ |mana_r|\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Barkchannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1615648805|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
@@ -1636,7 +1636,7 @@
 
    |tap|: Add |mana_g|.
 
-   |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Darkbore Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1615648925|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
@@ -1680,7 +1680,7 @@
 
    |tap|: Add |mana_b|.
 
-   |mana_w|\ |mana_w|\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate this ability only any time you could cast a sorcery.
+   |mana_w|\ |mana_w|\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate only as a sorcery.
 
 
 :mtgtip:`Hengegate Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1615649029|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
@@ -1708,7 +1708,7 @@
 
    |tap|: Add |mana_b|.
 
-   |mana_1|\ |mana_b|\ |mana_r|\ |mana_r|, |tap|, Sacrifice Immersturm Skullcairn: It deals 3 damage to target player. That player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|\ |mana_r|\ |mana_r|, |tap|, Sacrifice Immersturm Skullcairn: It deals 3 damage to target player. That player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Littjara Mirrorlake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bf2bb3e-828f-4d53-9d0a-26bbc5e7f3cc.jpg?1615604063|https://scryfall.com/card/khm/264/littjara-mirrorlake?utm_source=api>`
@@ -1716,7 +1716,7 @@
 
    |tap|: Add |mana_u|.
 
-   |mana_2|\ |mana_g|\ |mana_g|\ |mana_u|, |tap|, Sacrifice Littjara Mirrorlake: Create a token that's a copy of target creature you control, except it enters the battlefield with an additional +1/+1 counter on it. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_g|\ |mana_g|\ |mana_u|, |tap|, Sacrifice Littjara Mirrorlake: Create a token that's a copy of target creature you control, except it enters the battlefield with an additional +1/+1 counter on it. Activate only as a sorcery.
 
 
 :mtgtip:`Port of Karfell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb9465a6-d009-4ecd-9fd1-d046547de902.jpg?1615604092|https://scryfall.com/card/khm/265/port-of-karfell?utm_source=api>`
@@ -1746,7 +1746,7 @@
 
    |tap|: Add |mana_g|.
 
-   |mana_2|\ |mana_b|\ |mana_b|\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_b|\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery.
 
 
 :mtgtip:`Snowfield Sinkhole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6611dc5e-6acc-48df-b8c4-4b327314578b.jpg?1615604207|https://scryfall.com/card/khm/269/snowfield-sinkhole?utm_source=api>`
@@ -1766,7 +1766,7 @@
 
    |tap|: Add |mana_r|.
 
-   |mana_2|\ |mana_u|\ |mana_u|\ |mana_r|, |tap|, Sacrifice Surtland Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_u|\ |mana_u|\ |mana_r|, |tap|, Sacrifice Surtland Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. Activate only as a sorcery.
 
 
 :mtgtip:`Tyrite Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/309ff3bf-acd3-4bea-b518-6e25f6cfce61.jpg?1615604285|https://scryfall.com/card/khm/272/tyrite-sanctum?utm_source=api>`
@@ -1796,7 +1796,7 @@
 
    As long as you control six or more lands, lands you control have "|tap|: Add one mana of any color."
 
-   |mana_w|\ |mana_w|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|, |tap|, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle your library.
+   |mana_w|\ |mana_w|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|, |tap|, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Snow-Covered Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1615604386|https://scryfall.com/card/khm/276/snow-covered-plains?utm_source=api>`
@@ -1834,7 +1834,7 @@
 :mtgtip:`Cleaving Reaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b59dadef-74e5-47c7-a3e0-51075ddb82b1.jpg?1615606499|https://scryfall.com/card/khm/376/cleaving-reaper?utm_source=api>`
    Flying, trample
 
-   Pay 3 life: Return Cleaving Reaper from your graveyard to your hand. Activate this ability only if you had an Angel or Berserker enter the battlefield under your control this turn.
+   Pay 3 life: Return Cleaving Reaper from your graveyard to your hand. Activate only if you had an Angel or Berserker enter the battlefield under your control this turn.
 
 
 :mtgtip:`Surtland Flinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a628052-8175-495f-bfab-eeb3a0388e4e.jpg?1615606517|https://scryfall.com/card/khm/377/surtland-flinger?utm_source=api>`

@@ -54,7 +54,7 @@
 
    At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.
 
-   Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+   Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate only during your upkeep.
 
 
 :mtgtip:`Icatian Phalanx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bc02d30-3eef-4a48-8b11-b4f37219ab3a.jpg?1562917842|https://scryfall.com/card/fem/11/icatian-phalanx?utm_source=api>`
@@ -116,7 +116,7 @@
 
 
 :mtgtip:`Homarid Spawning Bed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cbb62fc-3cd9-41a6-804a-4ff9a766897f.jpg?1562903254|https://scryfall.com/card/fem/21/homarid-spawning-bed?utm_source=api>`
-   |mana_1|\ |mana_u|\ |mana_u|, Sacrifice a blue creature: Create X 1/1 blue Camarid creature tokens, where X is the sacrificed creature's converted mana cost.
+   |mana_1|\ |mana_u|\ |mana_u|, Sacrifice a blue creature: Create X 1/1 blue Camarid creature tokens, where X is the sacrificed creature's mana value.
 
 
 :mtgtip:`Homarid Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/627ca588-917f-4768-a69d-3d93c1210390.jpg?1562913192|https://scryfall.com/card/fem/22a/homarid-warrior?utm_source=api>`
@@ -146,7 +146,7 @@
 
 
 :mtgtip:`Svyelunite Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/316d25ae-7ac6-4f5b-93ab-0e0e28ec104b.jpg?1587910878|https://scryfall.com/card/fem/26/svyelunite-priest?utm_source=api>`
-   |mana_u|\ |mana_u|, |tap|: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. (It can't be the target of spells or abilities.)
+   |mana_u|\ |mana_u|, |tap|: Target creature gains shroud until end of turn. Activate only during your upkeep. (It can't be the target of spells or abilities.)
 
 
 :mtgtip:`Tidal Flats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e820f3f-434e-4d09-91b9-0ebd6966b393.jpg?1562903557|https://scryfall.com/card/fem/27a/tidal-flats?utm_source=api>`
@@ -218,7 +218,7 @@
 
    At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.
 
-   Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+   Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate only during your upkeep and only once each turn.
 
 
 :mtgtip:`Hymn to Tourach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb9273ea-9a41-42e3-8c9c-0d50b127a818.jpg?1587910900|https://scryfall.com/card/fem/38a/hymn-to-tourach?utm_source=api>`
@@ -282,7 +282,7 @@
 
    At the beginning of your upkeep, remove a time counter from Tourach's Gate. If there are no time counters on Tourach's Gate, sacrifice it.
 
-   Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate this ability only if enchanted land is untapped.
+   Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate only if enchanted land is untapped.
 
 
 :mtgtip:`Brassclaw Orcs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc0cb8f6-6ba7-402c-9829-251f7443e871.jpg?1562942493|https://scryfall.com/card/fem/49a/brassclaw-orcs?utm_source=api>`

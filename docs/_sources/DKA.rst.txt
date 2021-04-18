@@ -318,7 +318,7 @@
 :mtgtip:`Curse of Misfortunes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c531d218-ff1c-4333-a19d-446d709b1e28.jpg?1562941569|https://scryfall.com/card/dka/56/curse-of-misfortunes?utm_source=api>`
    Enchant player
 
-   At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.
+   At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle.
 
 
 :mtgtip:`Curse of Thirst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a23ed5d1-44dc-4733-9e01-65fbc5dc02f2.jpg?1562933294|https://scryfall.com/card/dka/57/curse-of-thirst?utm_source=api>`
@@ -388,7 +388,7 @@
 
 
 :mtgtip:`Increasing Ambition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8f508dc-7c7d-47e8-a4ef-0e8fd99cbd74.jpg?1562942476|https://scryfall.com/card/dka/69/increasing-ambition?utm_source=api>`
-   Search your library for a card and put that card into your hand. If this spell was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.
+   Search your library for a card and put that card into your hand. If this spell was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle.
 
    Flashback |mana_7|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
@@ -402,7 +402,7 @@
 
 
 :mtgtip:`Ravenous Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6aef77b3-4b38-4902-9f7a-dc18b5bb9da9.jpg?1581395237|https://scryfall.com/card/dka/71/ravenous-demon-archdemon-of-greed?utm_source=api>`
-   Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.
+   Sacrifice a Human: Transform Ravenous Demon. Activate only as a sorcery.
 
 
 :mtgtip:`Archdemon of Greed<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/a/6aef77b3-4b38-4902-9f7a-dc18b5bb9da9.jpg?1581395237|https://scryfall.com/card/dka/71/ravenous-demon-archdemon-of-greed?utm_source=api>`
@@ -636,7 +636,7 @@
 
 
 :mtgtip:`Dawntreader Elk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/127c969b-1c9a-4265-af0e-5b9dbe136064.jpg?1562899409|https://scryfall.com/card/dka/111/dawntreader-elk?utm_source=api>`
-   |mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Deranged Outcast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2b35fee-8e24-4d89-ad77-d55d06bb1d7f.jpg?1562948988|https://scryfall.com/card/dka/112/deranged-outcast?utm_source=api>`
@@ -764,13 +764,13 @@
 
 
 :mtgtip:`Wolfbitten Captive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1303e02a-ef69-4817-bca5-02c74774b811.jpg?1581395277|https://scryfall.com/card/dka/133/wolfbitten-captive-krallenhorde-killer?utm_source=api>`
-   |mana_1|\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate only once each turn.
 
    At the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.
 
 
 :mtgtip:`Krallenhorde Killer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/3/1303e02a-ef69-4817-bca5-02c74774b811.jpg?1581395277|https://scryfall.com/card/dka/133/wolfbitten-captive-krallenhorde-killer?utm_source=api>`
-   |mana_3|\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.
+   |mana_3|\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate only once each turn.
 
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.
 
@@ -930,7 +930,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30066306-f943-44c1-8814-b8b60388c26d.jpg?1562906232|https://scryfall.com/card/dka/155/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Grim Backwoods<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/045abeeb-f5e5-4f3f-9836-5b1553e03f11.jpg?1562896095|https://scryfall.com/card/dka/156/grim-backwoods?utm_source=api>`

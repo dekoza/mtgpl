@@ -114,7 +114,7 @@
 :mtgtip:`Tayam, Luminous Enigma<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05b837a2-5773-4340-87f9-b4d6a43deb27.jpg?1591234301|https://scryfall.com/card/c20/16/tayam-luminous-enigma?utm_source=api>`
    Each other creature you control enters the battlefield with an additional vigilance counter on it.
 
-   |mana_3|, Remove three counters from among creatures you control: Mill three cards, then return a permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+   |mana_3|, Remove three counters from among creatures you control: Mill three cards, then return a permanent card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Ukkima, Stalking Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c44cfa67-6276-4d23-9f25-a0576bfe1d25.jpg?1591234307|https://scryfall.com/card/c20/17/ukkima-stalking-shadow?utm_source=api>`
@@ -172,7 +172,7 @@
 :mtgtip:`Cartographer's Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b1d26c3-ce06-4d46-87fc-7623edae85b2.jpg?1591319332|https://scryfall.com/card/c20/24/cartographers-hawk?utm_source=api>`
    Flying
 
-   When Cartographer's Hawk deals combat damage to a player who controls more lands than you, return it to its owner's hand. If you do, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+   When Cartographer's Hawk deals combat damage to a player who controls more lands than you, return it to its owner's hand. If you do, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Dismantling Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9db4c1ec-ddd6-4443-8d93-8628e67aa6bb.jpg?1591319348|https://scryfall.com/card/c20/25/dismantling-wave?utm_source=api>`
@@ -284,7 +284,7 @@
 
    Daring Fiendbonder attacks each combat if able.
 
-   |mana_1|\ |mana_b|, Exile Daring Fiendbonder from your graveyard: Put an indestructible counter on target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Exile Daring Fiendbonder from your graveyard: Put an indestructible counter on target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Deadly Rollick<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c61fa2c0-63c0-4dc2-9f17-5a00530e3348.jpg?1591319517|https://scryfall.com/card/c20/42/deadly-rollick?utm_source=api>`
@@ -468,7 +468,7 @@
 :mtgtip:`Nesting Grounds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf559d4e-07a7-4ca4-b76a-d0615222cb60.jpg?1591319807|https://scryfall.com/card/c20/71/nesting-grounds?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|: Move a counter from target permanent you control onto another target permanent. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, |tap|: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.
 
 
 :mtgtip:`Aerial Responder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/8833065e-5022-4f48-b2fd-6fe5647c0a07.jpg?1591319820|https://scryfall.com/card/c20/72/aerial-responder?utm_source=api>`
@@ -566,9 +566,9 @@
 :mtgtip:`Eternal Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e659b6ea-8522-4644-9f73-5c9312e28c81.jpg?1591320039|https://scryfall.com/card/c20/88/eternal-dragon?utm_source=api>`
    Flying
 
-   |mana_3|\ |mana_w|\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_3|\ |mana_w|\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep.
 
-   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)
+   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Frontline Medic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/984f0514-e9a9-4f22-9f7d-96fd62338db2.jpg?1591320048|https://scryfall.com/card/c20/89/frontline-medic?utm_source=api>`
@@ -580,7 +580,7 @@
 :mtgtip:`Hoofprints of the Stag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b90c9f-b717-4a2a-a62d-e878ab7caa81.jpg?1591320056|https://scryfall.com/card/c20/90/hoofprints-of-the-stag?utm_source=api>`
    Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag.
 
-   |mana_2|\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn.
+   |mana_2|\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate only during your turn.
 
 
 :mtgtip:`Increasing Devotion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c786c28-1085-4b3e-9164-5fa3adfa5010.jpg?1591320068|https://scryfall.com/card/c20/91/increasing-devotion?utm_source=api>`
@@ -600,7 +600,7 @@
 :mtgtip:`Knight of the White Orchid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b548e817-912b-4922-8b73-f1009aeb2ab8.jpg?1591320086|https://scryfall.com/card/c20/93/knight-of-the-white-orchid?utm_source=api>`
    First strike
 
-   When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+   When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Magus of the Disk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70cdad7a-f041-4bbe-87ed-876ac6d0c31b.jpg?1591320095|https://scryfall.com/card/c20/94/magus-of-the-disk?utm_source=api>`
@@ -648,7 +648,7 @@
 :mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5529c38-3071-40c8-8afb-12e84f8cb4c8.jpg?1591320159|https://scryfall.com/card/c20/101/sun-titan?utm_source=api>`
    Vigilance
 
-   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Sunblast Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b879f5fa-7e1f-444a-bc28-dc9f6313842c.jpg?1591320166|https://scryfall.com/card/c20/102/sunblast-angel?utm_source=api>`
@@ -722,7 +722,7 @@
 
    −2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.
 
-   −8: For each player, search that player's library for a nonland card and exile it, then that player shuffles their library. You may cast those cards without paying their mana costs.
+   −8: For each player, search that player's library for a nonland card and exile it, then that player shuffles. You may cast those cards without paying their mana costs.
 
 
 :mtgtip:`Lunar Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8a32b4b-4b8d-40e0-9166-06a678fd6e06.jpg?1591320277|https://scryfall.com/card/c20/115/lunar-mystic?utm_source=api>`
@@ -836,7 +836,7 @@
 
    • Target player loses X life.
 
-   • Return target creature card with converted mana cost X or less from your graveyard to the battlefield.
+   • Return target creature card with mana value X or less from your graveyard to the battlefield.
 
    • Target creature gets -X/-X until end of turn.
 
@@ -890,7 +890,7 @@
 
 
 :mtgtip:`Captivating Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f0ba1fb-30b1-413e-9b7c-790055e2d911.jpg?1591320543|https://scryfall.com/card/c20/144/captivating-crew?utm_source=api>`
-   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Chandra, Flamecaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a83ca3a1-82a9-4f47-b0b8-21687afd705b.jpg?1591320552|https://scryfall.com/card/c20/145/chandra-flamecaller?utm_source=api>`
@@ -940,11 +940,11 @@
 :mtgtip:`Goblin Dark-Dwellers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bb7be0d-1937-4b30-909c-df2b31a921e3.jpg?1591320633|https://scryfall.com/card/c20/153/goblin-dark-dwellers?utm_source=api>`
    Menace
 
-   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
 
 
 :mtgtip:`Humble Defector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4248ee86-a269-4ffc-9050-e9a51612ba75.jpg?1591320642|https://scryfall.com/card/c20/154/humble-defector?utm_source=api>`
-   |tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.
+   |tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate only during your turn.
 
 
 :mtgtip:`Lightning Rift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6d8746d-3a8c-48a9-91ad-354b69a402c6.jpg?1591320650|https://scryfall.com/card/c20/155/lightning-rift?utm_source=api>`
@@ -1024,17 +1024,17 @@
 :mtgtip:`Crop Rotation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a61749d-a2e5-4da4-96db-e49cbac05d73.jpg?1591320796|https://scryfall.com/card/c20/169/crop-rotation?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for a land card, put that card onto the battlefield, then shuffle your library.
+   Search your library for a land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69c90a17-42ad-4f27-ab1b-3790bc0813b3.jpg?1591320806|https://scryfall.com/card/c20/170/cultivate?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Evolution Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19c01269-faf0-4c29-bdc4-17f0ba3ee7c8.jpg?1591320816|https://scryfall.com/card/c20/171/evolution-charm?utm_source=api>`
    Choose one —
 
-   • Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   • Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    • Return target creature card from your graveyard to your hand.
 
@@ -1042,7 +1042,7 @@
 
 
 :mtgtip:`Genesis Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb008ff0-d66d-4c54-9905-4c4307f5e4d1.jpg?1591320825|https://scryfall.com/card/c20/172/genesis-hydra?utm_source=api>`
-   When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.
+   When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield. Then shuffle the rest into your library.
 
    Genesis Hydra enters the battlefield with X +1/+1 counters on it.
 
@@ -1054,7 +1054,7 @@
 :mtgtip:`Harrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a325da33-dd35-4136-9c69-73df82c56fd1.jpg?1591320852|https://scryfall.com/card/c20/174/harrow?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Heroes' Bane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/247e2b05-b1bb-4ee0-bbac-21e903e51a38.jpg?1591320872|https://scryfall.com/card/c20/175/heroes-bane?utm_source=api>`
@@ -1090,7 +1090,7 @@
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5c73e68-17e8-444b-a294-6ea27b11cf8a.jpg?1591320936|https://scryfall.com/card/c20/180/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Krosan Grip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f839b862-72f6-4ab8-86b4-0122f29ec53b.jpg?1591320944|https://scryfall.com/card/c20/181/krosan-grip?utm_source=api>`
@@ -1112,7 +1112,7 @@
 
 
 :mtgtip:`Natural Connection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8614b00-bf12-464e-8d13-61310e265ccb.jpg?1591320976|https://scryfall.com/card/c20/184/natural-connection?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Predator Ooze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c32fb53b-7fd7-46a2-b502-93a42cf23fa5.jpg?1591320984|https://scryfall.com/card/c20/185/predator-ooze?utm_source=api>`
@@ -1128,7 +1128,7 @@
 
 
 :mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c83be2b7-0373-4389-9aa0-523db58f4d2a.jpg?1591321004|https://scryfall.com/card/c20/187/sakura-tribe-elder?utm_source=api>`
-   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Satyr Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa090955-59dd-4145-a148-7d0f64722f7e.jpg?1591321013|https://scryfall.com/card/c20/188/satyr-wayfinder?utm_source=api>`
@@ -1184,7 +1184,7 @@
 :mtgtip:`Yavimaya Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9194d805-3faa-486d-aee9-1c9c838250a0.jpg?1591321099|https://scryfall.com/card/c20/197/yavimaya-dryad?utm_source=api>`
    Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
 
-   When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card and put it onto the battlefield tapped under target player's control. If you do, shuffle your library.
+   When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card, put it onto the battlefield tapped under target player's control, then shuffle.
 
 
 :mtgtip:`Abzan Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63e735b1-7643-48db-9731-aea0212d0e2b.jpg?1591321110|https://scryfall.com/card/c20/198/abzan-ascendancy?utm_source=api>`
@@ -1226,7 +1226,7 @@
 
 
 :mtgtip:`Artifact Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3bbecfc-0983-4ade-b00a-2bac2cad8d2f.jpg?1591321161|https://scryfall.com/card/c20/203/artifact-mutation?utm_source=api>`
-   Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's converted mana cost.
+   Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's mana value.
 
 
 :mtgtip:`Cold-Eyed Selkie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fece0e9-92ac-4fef-9682-6d2797f7c6cb.jpg?1591321175|https://scryfall.com/card/c20/204/cold-eyed-selkie?utm_source=api>`
@@ -1254,11 +1254,11 @@
 
 
 :mtgtip:`Deathsprout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26a0ae4f-a48c-4333-a53f-70702b5b4c9e.jpg?1591321208|https://scryfall.com/card/c20/208/deathsprout?utm_source=api>`
-   Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Despark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a8bb7d9-14d3-41e3-8721-4a9036468dfc.jpg?1615415467|https://scryfall.com/card/c20/209/despark?utm_source=api>`
-   Exile target permanent with converted mana cost 4 or greater.
+   Exile target permanent with mana value 4 or greater.
 
 
 :mtgtip:`Djinn Illuminatus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c784b00-dcef-4640-a305-5ff1baf2e6fd.jpg?1591321231|https://scryfall.com/card/c20/210/djinn-illuminatus?utm_source=api>`
@@ -1290,7 +1290,7 @@
 
 
 :mtgtip:`Gaze of Granite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7b250ab-efe1-42bf-81ac-fd94d6140782.jpg?1591321280|https://scryfall.com/card/c20/214/gaze-of-granite?utm_source=api>`
-   Destroy each nonland permanent with converted mana cost X or less.
+   Destroy each nonland permanent with mana value X or less.
 
 
 :mtgtip:`Grisly Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5b4768f-fe15-4632-8bc5-bac35dc0e9e8.jpg?1591321291|https://scryfall.com/card/c20/215/grisly-salvage?utm_source=api>`
@@ -1312,7 +1312,7 @@
 
    As long as your devotion to green and white is less than seven, Karametra isn't a creature.
 
-   Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library.
+   Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`The Locust God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87f6aaba-ad2d-41ea-8d07-21c67d384aa0.jpg?1591321351|https://scryfall.com/card/c20/219/the-locust-god?utm_source=api>`
@@ -1336,13 +1336,13 @@
 :mtgtip:`Mercurial Chemister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24bf4eac-784d-4d9e-b7b3-92da98215376.jpg?1591321377|https://scryfall.com/card/c20/221/mercurial-chemister?utm_source=api>`
    |mana_u|, |tap|: Draw two cards.
 
-   |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
+   |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's mana value.
 
 
 :mtgtip:`Migratory Route<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c5ed87f-a439-4136-a8c4-9f6a694c459b.jpg?1591321391|https://scryfall.com/card/c20/222/migratory-route?utm_source=api>`
    Create four 1/1 white Bird creature tokens with flying.
 
-   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Nahiri, the Harbinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddbecd25-250e-4a49-b007-698b36551254.jpg?1591321401|https://scryfall.com/card/c20/223/nahiri-the-harbinger?utm_source=api>`
@@ -1350,13 +1350,13 @@
 
    −2: Exile target enchantment, tapped artifact, or tapped creature.
 
-   −8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.
+   −8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle. It gains haste. Return it to your hand at the beginning of the next end step.
 
 
 :mtgtip:`Nissa, Steward of Elements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d64871b-6ee5-426b-9828-125cb9c7746d.jpg?1591321412|https://scryfall.com/card/c20/224/nissa-steward-of-elements?utm_source=api>`
    +2: Scry 2.
 
-   0: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
+   0: Look at the top card of your library. If it's a land card or a creature card with mana value less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
 
    −6: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.
 
@@ -1386,7 +1386,7 @@
 
 
 :mtgtip:`Rashmi, Eternities Crafter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70288968-7bfd-44e2-a2b3-0b6639ef7e0a.jpg?1591321462|https://scryfall.com/card/c20/229/rashmi-eternities-crafter?utm_source=api>`
-   Whenever you cast your first spell each turn, reveal the top card of your library. You may cast it without paying its mana cost if it's a spell with lesser converted mana cost. If you don't cast it, put it into your hand.
+   Whenever you cast your first spell each turn, reveal the top card of your library. You may cast it without paying its mana cost if it's a spell with lesser mana value. If you don't cast it, put it into your hand.
 
 
 :mtgtip:`Temur Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/009c5aac-194f-4b95-8f69-cc74aa15c3a5.jpg?1591321473|https://scryfall.com/card/c20/230/temur-charm?utm_source=api>`
@@ -1410,7 +1410,7 @@
 
 
 :mtgtip:`Villainous Wealth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59836c11-142b-4a19-bcbd-21b3464da71a.jpg?1591321507|https://scryfall.com/card/c20/233/villainous-wealth?utm_source=api>`
-   Target opponent exiles the top X cards of their library. You may cast any number of spells with converted mana cost X or less from among them without paying their mana costs.
+   Target opponent exiles the top X cards of their library. You may cast any number of spells with mana value X or less from among them without paying their mana costs.
 
 
 :mtgtip:`Wort, the Raidmother<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b46b4ee-263a-4a4b-8fbc-3ea6fa9ba56b.jpg?1591321523|https://scryfall.com/card/c20/234/wort-the-raidmother?utm_source=api>`
@@ -1518,7 +1518,7 @@
 
 
 :mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cf94894-1dbb-4ef6-a3c2-388b3ee20225.jpg?1591321738|https://scryfall.com/card/c20/253/solemn-simulacrum?utm_source=api>`
-   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
    When Solemn Simulacrum dies, you may draw a card.
 
@@ -1532,7 +1532,7 @@
 :mtgtip:`Ash Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2803e9d-cb96-44d8-9702-36d9c4d2ee45.jpg?1591321763|https://scryfall.com/card/c20/255/ash-barrens?utm_source=api>`
    |tap|: Add |colorless|.
 
-   Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Azorius Chancery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/382b28ea-3706-480c-b7cc-4f16160d5d6b.jpg?1591321784|https://scryfall.com/card/c20/256/azorius-chancery?utm_source=api>`
@@ -1552,7 +1552,7 @@
 :mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4073c69-fce0-4755-97f2-0a10fabed3e4.jpg?1591321812|https://scryfall.com/card/c20/258/blighted-woodland?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01769b12-4841-4a1a-a089-e061442203ed.jpg?1591321823|https://scryfall.com/card/c20/259/bojuka-bog?utm_source=api>`
@@ -1738,7 +1738,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Llanowar Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/640b3883-4051-4401-9993-03bf8f3812c2.jpg?1591322146|https://scryfall.com/card/c20/286/llanowar-wastes?utm_source=api>`
@@ -1788,7 +1788,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/3242ffa7-01e8-4349-9a59-2060bc37f8fe.jpg?1591322250|https://scryfall.com/card/c20/293/mystic-monastery?utm_source=api>`
@@ -1964,7 +1964,7 @@
 
 
 :mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b69cc893-4e71-4724-8df3-fcc0a037e399.jpg?1591322496|https://scryfall.com/card/c20/319/temple-of-the-false-god?utm_source=api>`
-   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate only if you control five or more lands.
 
 
 :mtgtip:`Unclaimed Territory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b96a5b3a-ee54-4864-a84c-385a97b8cb7b.jpg?1591322503|https://scryfall.com/card/c20/320/unclaimed-territory?utm_source=api>`

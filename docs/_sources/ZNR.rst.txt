@@ -232,9 +232,9 @@
 
 
 :mtgtip:`Skyclave Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1604193295|https://scryfall.com/card/znr/39/skyclave-apparition?utm_source=api>`
-   When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less.
+   When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with mana value 4 or less.
 
-   When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card.
+   When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the mana value of the exiled card.
 
 
 :mtgtip:`Skyclave Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887|https://scryfall.com/card/znr/40/skyclave-cleric-skyclave-basilica?utm_source=api>`
@@ -386,11 +386,11 @@
 :mtgtip:`Jace, Mirror Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe0ed348-e4ed-4b6a-b9d9-03539a6fb42a.jpg?1604194202|https://scryfall.com/card/znr/63/jace-mirror-mage?utm_source=api>`
    Kicker |mana_2|
 
-   When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage except it's not legendary and its starting loyalty is 1.
+   When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage, except it's not legendary and its starting loyalty is 1.
 
    +1: Scry 2.
 
-   0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's converted mana cost from Jace, Mirror Mage.
+   0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's mana value from Jace, Mirror Mage.
 
 
 :mtgtip:`Jwari Disruption<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757|https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins?utm_source=api>`
@@ -412,7 +412,7 @@
 :mtgtip:`Lullmage's Domination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9944393-348f-4f0e-a0c7-9adcc5a30749.jpg?1604194383|https://scryfall.com/card/znr/66/lullmages-domination?utm_source=api>`
    This spell costs |mana_3| less to cast if it targets a creature whose controller has eight or more cards in their graveyard.
 
-   Gain control of target creature with converted mana cost X.
+   Gain control of target creature with mana value X.
 
 
 :mtgtip:`Maddening Cacophony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10a79733-702c-4611-b073-71db7f1158b2.jpg?1604194415|https://scryfall.com/card/znr/67/maddening-cacophony?utm_source=api>`
@@ -440,7 +440,7 @@
 
    Whenever Merfolk Windrobber deals combat damage to a player, that player mills a card. (They put the top card of their library into their graveyard.)
 
-   Sacrifice Merfolk Windrobber: Draw a card. Activate this ability only if an opponent has eight or more cards in their graveyard.
+   Sacrifice Merfolk Windrobber: Draw a card. Activate only if an opponent has eight or more cards in their graveyard.
 
 
 :mtgtip:`Negate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e92c7477-d453-4fa4-acf4-3835ab9eb55a.jpg?1604194548|https://scryfall.com/card/znr/71/negate?utm_source=api>`
@@ -482,7 +482,7 @@
 :mtgtip:`Sea Gate Stormcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e14e677-9bfa-4bcc-9772-8e7758d7538a.jpg?1604194815|https://scryfall.com/card/znr/77/sea-gate-stormcaller?utm_source=api>`
    Kicker |mana_4|\ |mana_u|
 
-   When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies.
+   When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with mana value 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies.
 
 
 :mtgtip:`Seafloor Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466|https://scryfall.com/card/znr/78/seafloor-stalker?utm_source=api>`
@@ -532,7 +532,7 @@
 
    Flying
 
-   When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver.
+   When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to Thieving Skydiver.
 
 
 :mtgtip:`Umara Wizard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112|https://scryfall.com/card/znr/86/umara-wizard-umara-skyfalls?utm_source=api>`
@@ -562,7 +562,7 @@
 
 
 :mtgtip:`Agadeem's Awakening<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226|https://scryfall.com/card/znr/90/agadeems-awakening-agadeem-the-undercrypt?utm_source=api>`
-   Return from your graveyard to the battlefield any number of target creature cards that each have a different converted mana cost X or less.
+   Return from your graveyard to the battlefield any number of target creature cards that each have a different mana value X or less.
 
 
 :mtgtip:`Agadeem, the Undercrypt<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226|https://scryfall.com/card/znr/90/agadeems-awakening-agadeem-the-undercrypt?utm_source=api>`
@@ -596,13 +596,13 @@
 :mtgtip:`Bloodchief's Thirst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/059e8447-6b1c-4651-a734-a8fea2cbf7b2.jpg?1604195360|https://scryfall.com/card/znr/94/bloodchiefs-thirst?utm_source=api>`
    Kicker |mana_2|\ |mana_b| (You may pay an additional |mana_2|\ |mana_b| as you cast this spell.)
 
-   Destroy target creature or planeswalker with converted mana cost 2 or less. If this spell was kicked, instead destroy target creature or planeswalker.
+   Destroy target creature or planeswalker with mana value 2 or less. If this spell was kicked, instead destroy target creature or planeswalker.
 
 
 :mtgtip:`Coveted Prize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5afbc5d3-318f-4545-88d6-fc81e5466238.jpg?1604195385|https://scryfall.com/card/znr/95/coveted-prize?utm_source=api>`
    This spell costs |mana_1| less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 
-   Search your library for a card, put it into your hand, then shuffle your library. If you have a full party, you may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost.
+   Search your library for a card, put it into your hand, then shuffle. If you have a full party, you may cast a spell with mana value 4 or less from your hand without paying its mana cost.
 
 
 :mtgtip:`Deadly Alliance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/007a5c8c-ed0b-4844-9393-a3d25d4ffa1d.jpg?1604195436|https://scryfall.com/card/znr/96/deadly-alliance?utm_source=api>`
@@ -634,7 +634,7 @@
 
 
 :mtgtip:`Feed the Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6b2eba7-862a-4efd-9f65-065fb2070855.jpg?1604195649|https://scryfall.com/card/znr/102/feed-the-swarm?utm_source=api>`
-   Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's converted mana cost.
+   Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.
 
 
 :mtgtip:`Ghastly Gloomhunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684|https://scryfall.com/card/znr/103/ghastly-gloomhunter?utm_source=api>`
@@ -678,9 +678,9 @@
 
    • Target opponent discards two cards.
 
-   • Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   • Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
-   • Destroy target creature with converted mana cost 3 or less.
+   • Destroy target creature with mana value 3 or less.
 
 
 :mtgtip:`Lithoform Blight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b36d12e-9a68-4d3d-92e8-9840cd5320bc.jpg?1604195880|https://scryfall.com/card/znr/109/lithoform-blight?utm_source=api>`
@@ -748,11 +748,11 @@
 
 
 :mtgtip:`Oblivion's Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/faf65512-8228-48f4-ba7b-d861b66d28c9.jpg?1604196298|https://scryfall.com/card/znr/119/oblivions-hunger?utm_source=api>`
-   Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say "destroy" don't destroy that creature.)
+   Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say "destroy" don't destroy the creature.)
 
 
 :mtgtip:`Pelakka Predation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`
-   Target opponent reveals their hand. You choose a card from it with converted mana cost 3 or greater. That player discards that card.
+   Target opponent reveals their hand. You choose a card from it with mana value 3 or greater. That player discards that card.
 
 
 :mtgtip:`Pelakka Caverns<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`
@@ -782,7 +782,7 @@
 
 
 :mtgtip:`Shadows' Verdict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52470883-b44d-415b-9324-8074e66f79ae.jpg?1604196514|https://scryfall.com/card/znr/124/shadows-verdict?utm_source=api>`
-   Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards.
+   Exile all creatures and planeswalkers with mana value 3 or less from the battlefield and all creature and planeswalker cards with mana value 3 or less from all graveyards.
 
 
 :mtgtip:`Skyclave Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50bbc0e7-48ce-41e2-a014-1f2eb0427550.jpg?1604196541|https://scryfall.com/card/znr/125/skyclave-shade?utm_source=api>`
@@ -802,7 +802,7 @@
 
 
 :mtgtip:`Soul Shatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c2fb07b-0f70-403b-be8b-b5217f12e671.jpg?1604196615|https://scryfall.com/card/znr/127/soul-shatter?utm_source=api>`
-   Each opponent sacrifices a creature or planeswalker with the highest converted mana cost among creatures and planeswalkers they control.
+   Each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.
 
 
 :mtgtip:`Subtle Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d3f531a-ce45-4cba-be24-6db749e38abd.jpg?1604196642|https://scryfall.com/card/znr/128/subtle-strike?utm_source=api>`
@@ -866,7 +866,7 @@
 
 
 :mtgtip:`Cleansing Wildfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/492d77e5-acc6-41b8-8930-f39d69234919.jpg?1604196948|https://scryfall.com/card/znr/137/cleansing-wildfire?utm_source=api>`
-   Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.
+   Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Draw a card.
 
@@ -1078,7 +1078,7 @@
 
 
 :mtgtip:`Thundering Sparkmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9e6de80-3516-426b-8a1b-bda45f8c0cac.jpg?1604198226|https://scryfall.com/card/znr/171/thundering-sparkmage?utm_source=api>`
-   When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)
+   When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 
 
 :mtgtip:`Tormenting Voice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268|https://scryfall.com/card/znr/172/tormenting-voice?utm_source=api>`
@@ -1264,11 +1264,11 @@
 :mtgtip:`Reclaim the Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/805faf2e-97dc-4b77-bc02-a4cae980f041.jpg?1604199307|https://scryfall.com/card/znr/200/reclaim-the-wastes?utm_source=api>`
    Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)
 
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. If this spell was kicked, search your library for two basic land cards instead of one.
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If this spell was kicked, search your library for two basic land cards instead of one.
 
 
 :mtgtip:`Roiling Regrowth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa259096-b24f-414c-af59-301bed4b4627.jpg?1604263848|https://scryfall.com/card/znr/201/roiling-regrowth?utm_source=api>`
-   Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Scale the Heights<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e781d6ad-950e-49bf-9645-e2354086ae49.jpg?1604199378|https://scryfall.com/card/znr/202/scale-the-heights?utm_source=api>`
@@ -1348,7 +1348,7 @@
 
 
 :mtgtip:`Turntimber Symbiosis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791|https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api>`
-   Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has converted mana cost 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order.
+   Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has mana value 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order.
 
 
 :mtgtip:`Turntimber, Serpentine Wood<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791|https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api>`
@@ -1370,7 +1370,7 @@
 :mtgtip:`Vastwood Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6974363c-0d0d-4270-a25e-ab84b0c03f4e.jpg?1604199881|https://scryfall.com/card/znr/217/vastwood-surge?utm_source=api>`
    Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)
 
-   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library. If this spell was kicked, put two +1/+1 counters on each creature you control.
+   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If this spell was kicked, put two +1/+1 counters on each creature you control.
 
 
 :mtgtip:`Veteran Adventurer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e524ddf0-9a2f-4c1c-ae72-4b5b48f55645.jpg?1604199897|https://scryfall.com/card/znr/218/veteran-adventurer?utm_source=api>`
@@ -1440,7 +1440,7 @@
 
 
 :mtgtip:`Moss-Pit Skeleton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a445dc-3aea-4281-a145-0ab3a28ec6c6.jpg?1604200221|https://scryfall.com/card/znr/228/moss-pit-skeleton?utm_source=api>`
-   Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell)
+   Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)
 
    If Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it.
 
@@ -1468,7 +1468,7 @@
 
    +1: Untap target land you control. You may have it become a 3/3 Elemental creature with haste and menace until end of turn. It's still a land.
 
-   −5: You may put a creature card with converted mana cost less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it.
+   −5: You may put a creature card with mana value less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it.
 
 
 :mtgtip:`Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1610109729|https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api>`
@@ -1480,7 +1480,7 @@
 :mtgtip:`Orah, Skyclave Hierophant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2336c8bf-fcad-41f9-9041-80b8aa3cd79a.jpg?1604200370|https://scryfall.com/card/znr/233/orah-skyclave-hierophant?utm_source=api>`
    Lifelink
 
-   Whenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser converted mana cost from your graveyard to the battlefield.
+   Whenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser mana value from your graveyard to the battlefield.
 
 
 :mtgtip:`Phylath, World Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1604200396|https://scryfall.com/card/znr/234/phylath-world-sculptor?utm_source=api>`
@@ -1522,11 +1522,11 @@
 :mtgtip:`Verazol, the Split Current<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/752a2aa9-40ed-4c64-b945-bc6fec606b7b.jpg?1604200567|https://scryfall.com/card/znr/239/verazol-the-split-current?utm_source=api>`
    Verazol, the Split Current enters the battlefield with a +1/+1 counter on it for each mana spent to cast it.
 
-   Whenever you cast a kicked spell, you may remove two +1/+1 counters from Verazol, the Split Current. If you do, copy that spell. You may choose new targets for that copy. (A copy of a permanent spell becomes a token.)
+   Whenever you cast a kicked spell, you may remove two +1/+1 counters from Verazol. If you do, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
 
 
 :mtgtip:`Yasharn, Implacable Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12878fbd-dbe5-44bc-9f34-38fd374ec10a.jpg?1604200584|https://scryfall.com/card/znr/240/yasharn-implacable-earth?utm_source=api>`
-   When Yasharn, Implacable Earth enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle your library.
+   When Yasharn enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle.
 
    Players can't pay life or sacrifice nonland permanents to cast spells or activate abilities.
 

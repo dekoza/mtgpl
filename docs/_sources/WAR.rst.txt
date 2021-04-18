@@ -8,7 +8,7 @@
 :mtgtip:`Karn, the Great Creator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1566819742|https://scryfall.com/card/war/1/karn-the-great-creator?utm_source=api>`
    Activated abilities of artifacts your opponents control can't be activated.
 
-   +1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+   +1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
 
    −2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.
 
@@ -100,7 +100,7 @@
 
 
 :mtgtip:`Ignite the Beacon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e11d6f9-0b80-4b19-ab96-23f80b66b409.jpg?1557575979|https://scryfall.com/card/war/18/ignite-the-beacon?utm_source=api>`
-   Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library.
+   Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Ironclad Krovod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afb16895-6542-405e-9793-154ffc439f23.jpg?1569418805|https://scryfall.com/card/war/19/ironclad-krovod?utm_source=api>`
@@ -108,7 +108,7 @@
 
 
 :mtgtip:`Law-Rune Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3d39238-e21d-4345-84c8-648ef3a66703.jpg?1557575992|https://scryfall.com/card/war/20/law-rune-enforcer?utm_source=api>`
-   |mana_1|, |tap|: Tap target creature with converted mana cost 2 or greater.
+   |mana_1|, |tap|: Tap target creature with mana value 2 or greater.
 
 
 :mtgtip:`Loxodon Sergeant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c57f873b-5fb2-4638-b66c-f6d1aec156ba.jpg?1557575998|https://scryfall.com/card/war/21/loxodon-sergeant?utm_source=api>`
@@ -416,7 +416,7 @@
 :mtgtip:`Bolas's Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1591205069|https://scryfall.com/card/war/79/bolass-citadel?utm_source=api>`
    You may look at the top card of your library any time.
 
-   You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
+   You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
 
    |tap|, Sacrifice ten nonland permanents: Each opponent loses 10 life.
 
@@ -430,7 +430,7 @@
 
 
 :mtgtip:`Command the Dreadhorde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de7ec307-45e0-4853-85fe-9ce859b188c2.jpg?1557576417|https://scryfall.com/card/war/82/command-the-dreadhorde?utm_source=api>`
-   Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control.
+   Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total mana value of those cards. Put them onto the battlefield under your control.
 
 
 :mtgtip:`Davriel, Rogue Shadowmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b1a44f0-1db8-406a-b7d9-f883f947f7bd.jpg?1557576424|https://scryfall.com/card/war/83/davriel-rogue-shadowmage?utm_source=api>`
@@ -648,7 +648,7 @@
 :mtgtip:`Dreadhorde Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.jpg?1613386994|https://scryfall.com/card/war/125/dreadhorde-arcanist?utm_source=api>`
    Trample
 
-   Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
 
 
 :mtgtip:`Dreadhorde Twins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82017bf6-352f-4e81-8fd5-c1b0daf05b01.jpg?1557576685|https://scryfall.com/card/war/126/dreadhorde-twins?utm_source=api>`
@@ -658,7 +658,7 @@
 
 
 :mtgtip:`Finale of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1557576690|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`
-   You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
+   You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
 
 
 :mtgtip:`Goblin Assailant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e41acc81-7c22-4b59-97b8-54473623db6f.jpg?1557576697|https://scryfall.com/card/war/128/goblin-assailant?utm_source=api>`
@@ -826,7 +826,7 @@
 
 
 :mtgtip:`Finale of Devastation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/985453e7-997e-4d77-a338-cc0290791ebe.jpg?1557576905|https://scryfall.com/card/war/160/finale-of-devastation?utm_source=api>`
-   Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.
+   Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.
 
 
 :mtgtip:`Forced Landing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb319a7-564c-4748-82cf-c26ab110c32c.jpg?1557576912|https://scryfall.com/card/war/161/forced-landing?utm_source=api>`
@@ -875,16 +875,16 @@
    Enchanted land has "|tap|: Add two mana of any one color."
 
 
-:mtgtip:`Nissa, Who Shakes the World<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1610070159|https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api>`
+:mtgtip:`Nissa, Who Shakes the World<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1618426283|https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api>`
    Whenever you tap a Forest for mana, add an additional |mana_g|.
 
    +1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
 
-   −8: You get an emblem with "Lands you control have indestructible." Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.
+   −8: You get an emblem with "Lands you control have indestructible." Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Nissa's Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7946b256-ae79-4b99-8bf4-0d627baf9044.jpg?1557576966|https://scryfall.com/card/war/170/nissas-triumph?utm_source=api>`
-   Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle your library.
+   Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Paradise Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed8d9e7-cdad-450d-8329-fa653d387a63.jpg?1557576973|https://scryfall.com/card/war/171/paradise-druid?utm_source=api>`
@@ -956,7 +956,7 @@
 
 
 :mtgtip:`Vivien's Arkbow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eecc846f-5b78-4d54-8d29-642ad7a852bc.jpg?1557577038|https://scryfall.com/card/war/181/viviens-arkbow?utm_source=api>`
-   |mana_x|, |tap|, Discard a card: Look at the top X cards of your library. You may put a creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+   |mana_x|, |tap|, Discard a card: Look at the top X cards of your library. You may put a creature card with mana value X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 
 
 :mtgtip:`Vivien's Grizzly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37f2571b-6756-462c-9e71-3121fa458160.jpg?1557577044|https://scryfall.com/card/war/182/viviens-grizzly?utm_source=api>`
@@ -1012,11 +1012,11 @@
 
 
 :mtgtip:`Deathsprout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d615557-aea8-4057-9fbd-d62dd98edc13.jpg?1557577090|https://scryfall.com/card/war/189/deathsprout?utm_source=api>`
-   Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Despark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32b17dfc-b916-4134-ba77-501cff435e7e.jpg?1615415475|https://scryfall.com/card/war/190/despark?utm_source=api>`
-   Exile target permanent with converted mana cost 4 or greater.
+   Exile target permanent with mana value 4 or greater.
 
 
 :mtgtip:`Domri, Anarch of Bolas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1af9881-e35b-4be2-8716-ea7c6664e22c.jpg?1557577104|https://scryfall.com/card/war/191/domri-anarch-of-bolas?utm_source=api>`
@@ -1108,7 +1108,7 @@
 :mtgtip:`Neoform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92d8f67e-4f2f-4a1f-b190-7c3f39e477e4.jpg?1557577201|https://scryfall.com/card/war/206/neoform?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library.
+   Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle.
 
 
 :mtgtip:`Nicol Bolas, Dragon-God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98b68dea-a7be-4f99-8a50-4c8cf0e0f7a9.jpg?1575031756|https://scryfall.com/card/war/207/nicol-bolas-dragon-god?utm_source=api>`
@@ -1176,7 +1176,7 @@
 
    +2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
 
-   −X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.
+   −X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.
 
 
 :mtgtip:`Soul Diviner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fb66ccd-a930-4757-832c-c4b0259741e2.jpg?1557577275|https://scryfall.com/card/war/218/soul-diviner?utm_source=api>`
@@ -1224,7 +1224,7 @@
 :mtgtip:`Tyrant's Scorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7e2708c-2824-4925-b529-d625deb77924.jpg?1557577324|https://scryfall.com/card/war/225/tyrants-scorn?utm_source=api>`
    Choose one —
 
-   • Destroy target creature with converted mana cost 3 or less.
+   • Destroy target creature with mana value 3 or less.
 
    • Return target creature to its owner's hand.
 
@@ -1340,7 +1340,7 @@
 
    |mana_x|\ |mana_x|, |tap|: Put X charge counters on Blast Zone.
 
-   |mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone.
+   |mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with mana value equal to the number of charge counters on Blast Zone.
 
 
 :mtgtip:`Emergence Zone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab95f6e7-b806-47fe-a071-6c38b3176d94.jpg?1557577458|https://scryfall.com/card/war/245/emergence-zone?utm_source=api>`
@@ -1410,7 +1410,7 @@
 
 
 :mtgtip:`Gideon's Battle Cry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52de8fc6-6d9b-402e-a6c8-4c39b0c92f07.jpg?1558667570|https://scryfall.com/card/war/267/gideons-battle-cry?utm_source=api>`
-   Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Gideon's Company<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0a64d2e-8b89-4642-84c2-b01dfe11312e.jpg?1558667571|https://scryfall.com/card/war/268/gideons-company?utm_source=api>`
@@ -1446,7 +1446,7 @@
 
 
 :mtgtip:`Jace's Ruse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03e8d2c7-cd6e-48bf-9d54-73f3d6cff0aa.jpg?1558667629|https://scryfall.com/card/war/273/jaces-ruse?utm_source=api>`
-   Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Simic Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/989d6851-2a5d-4d8f-a7b8-724818236c47.jpg?1558667699|https://scryfall.com/card/war/274/simic-guildgate?utm_source=api>`

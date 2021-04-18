@@ -250,7 +250,7 @@
 :mtgtip:`Metamorphosis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbc6cfc3-b232-40bf-bc0c-4618f6f5c9a5.jpg?1562942451|https://scryfall.com/card/arn/51/metamorphosis?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Add X mana of any one color, where X is 1 plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
+   Add X mana of any one color, where X is 1 plus the sacrificed creature's mana value. Spend this mana only to cast creature spells.
 
 
 :mtgtip:`Nafs Asp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965f722c-2b18-4c22-8c30-12552def5940.jpg?1562922939|https://scryfall.com/card/arn/52/nafs-asp?utm_source=api>`
@@ -348,7 +348,7 @@
 :mtgtip:`Desert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/201155ea-f474-4e13-acda-cb071a6ca977.jpg?1562900934|https://scryfall.com/card/arn/72/desert?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.
+   |tap|: Desert deals 1 damage to target attacking creature. Activate only during the end of combat step.
 
 
 :mtgtip:`Diamond Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e85f6f21-15a0-4a36-be95-5a0299cd01a5.jpg?1562938500|https://scryfall.com/card/arn/73/diamond-valley?utm_source=api>`
@@ -368,7 +368,7 @@
 :mtgtip:`Library of Alexandria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1562939686|https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Draw a card. Activate this ability only if you have exactly seven cards in hand.
+   |tap|: Draw a card. Activate only if you have exactly seven cards in hand.
 
 
 :mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c321d0e1-ff30-4424-979b-25e1a33e45d5.jpg?1562931505|https://scryfall.com/card/arn/77/mountain?utm_source=api>`

@@ -26,7 +26,7 @@
 
 
 :mtgtip:`Auriok Salvagers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09c9cd1b-9260-4f98-ac7a-25bb5ae3e06d.jpg?1562875356|https://scryfall.com/card/5dn/4/auriok-salvagers?utm_source=api>`
-   |mana_1|\ |mana_w|: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+   |mana_1|\ |mana_w|: Return target artifact card with mana value 1 or less from your graveyard to your hand.
 
 
 :mtgtip:`Auriok Windwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4315d060-9858-405c-a442-c7a278134f00.jpg?1562876615|https://scryfall.com/card/5dn/5/auriok-windwalker?utm_source=api>`
@@ -52,7 +52,7 @@
 
 
 :mtgtip:`Leonin Squire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a5320ff-1fe6-492a-b27f-86a84a1768ed.jpg?1562877173|https://scryfall.com/card/5dn/9/leonin-squire?utm_source=api>`
-   When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+   When Leonin Squire enters the battlefield, return target artifact card with mana value 1 or less from your graveyard to your hand.
 
 
 :mtgtip:`Loxodon Anchorite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a55f0113-3ced-49c7-9fa8-f1cc873bdc4c.jpg?1562878932|https://scryfall.com/card/5dn/10/loxodon-anchorite?utm_source=api>`
@@ -98,7 +98,7 @@
 
 
 :mtgtip:`Steelshaper's Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db75b77f-a230-4bad-b697-a40687671842.jpg?1562880152|https://scryfall.com/card/5dn/19/steelshapers-gift?utm_source=api>`
-   Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Vanquish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27bae717-56c0-4028-b1e7-a445d6a57176.jpg?1562875950|https://scryfall.com/card/5dn/20/vanquish?utm_source=api>`
@@ -106,7 +106,7 @@
 
 
 :mtgtip:`Acquire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/993957c7-5d61-4c98-826d-b657aed667e1.jpg?1562878704|https://scryfall.com/card/5dn/21/acquire?utm_source=api>`
-   Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles their library.
+   Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles.
 
 
 :mtgtip:`Advanced Hoverguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7384d50a-5801-47ed-ab9f-5c7e4f1f20dd.jpg?1562877745|https://scryfall.com/card/5dn/22/advanced-hoverguard?utm_source=api>`
@@ -116,7 +116,7 @@
 
 
 :mtgtip:`Artificer's Intuition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abe37c88-afd7-45ac-9f84-f4bd881a1462.jpg?1562879087|https://scryfall.com/card/5dn/23/artificers-intuition?utm_source=api>`
-   |mana_u|, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library.
+   |mana_u|, Discard an artifact card: Search your library for an artifact card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Beacon of Tomorrows<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3ab166c9-af3e-4e65-88ed-9766b046c95b.jpg?1562876375|https://scryfall.com/card/5dn/24/beacon-of-tomorrows?utm_source=api>`
@@ -200,7 +200,7 @@
 
 
 :mtgtip:`Trinket Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c5a41ab-1840-4abb-a8bb-f0b1e7d1b450.jpg?1562876866|https://scryfall.com/card/5dn/39/trinket-mage?utm_source=api>`
-   When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+   When Trinket Mage enters the battlefield, you may search your library for an artifact card with mana value 1 or less, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Vedalken Mastermind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4d8c7ed-62ce-4865-8f9e-5fcc8b23cff5.jpg?1562879592|https://scryfall.com/card/5dn/40/vedalken-mastermind?utm_source=api>`
@@ -220,7 +220,7 @@
 
    Trample
 
-   At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it.
+   At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle and put that card on top.
 
 
 :mtgtip:`Cackling Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/641080d8-1b2e-4990-a114-04bea9a5adce.jpg?1562877403|https://scryfall.com/card/5dn/44/cackling-imp?utm_source=api>`
@@ -344,7 +344,7 @@
 
 
 :mtgtip:`Granulate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1562880300|https://scryfall.com/card/5dn/67/granulate?utm_source=api>`
-   Destroy each nonland artifact with converted mana cost 4 or less.
+   Destroy each nonland artifact with mana value 4 or less.
 
 
 :mtgtip:`Ion Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2296acb6-a304-42ab-b26b-5cbe796e72b7.jpg?1562875856|https://scryfall.com/card/5dn/68/ion-storm?utm_source=api>`
@@ -458,7 +458,7 @@
 
 
 :mtgtip:`Rite of Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bea92a0c-f73f-4e85-9d87-6401aa1b052e.jpg?1562879491|https://scryfall.com/card/5dn/91/rite-of-passage?utm_source=api>`
-   Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (The damage is dealt before the counter is put on.)
+   Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
 
 
 :mtgtip:`Rude Awakening<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0164e2ed-b722-4a7d-a4fb-5401af008cbf.jpg?1562875125|https://scryfall.com/card/5dn/92/rude-awakening?utm_source=api>`
@@ -596,7 +596,7 @@
 :mtgtip:`Engineered Explosives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/8492a272-e595-4f94-a6eb-08d29f211fd6.jpg?1562878190|https://scryfall.com/card/5dn/118/engineered-explosives?utm_source=api>`
    Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
 
-   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with mana value equal to the number of charge counters on Engineered Explosives.
 
 
 :mtgtip:`Ensouled Scimitar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d2a16e2-ea98-4bf2-9e5c-7612d2dd039b.jpg?1562878758|https://scryfall.com/card/5dn/119/ensouled-scimitar?utm_source=api>`
@@ -702,7 +702,7 @@
 :mtgtip:`Lantern of Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb0e4c78-75fe-4692-b177-974b148f0614.jpg?1562879738|https://scryfall.com/card/5dn/135/lantern-of-insight?utm_source=api>`
    Players play with the top card of their libraries revealed.
 
-   |tap|, Sacrifice Lantern of Insight: Target player shuffles their library.
+   |tap|, Sacrifice Lantern of Insight: Target player shuffles.
 
 
 :mtgtip:`Lunar Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f2348e5-6bf9-4a7e-91a4-ba93bb108897.jpg?1562876517|https://scryfall.com/card/5dn/136/lunar-avenger?utm_source=api>`
@@ -778,7 +778,7 @@
 
 
 :mtgtip:`Salvaging Station<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0336e07-8eaf-4b90-af54-4764e5ba50f2.jpg?1562880585|https://scryfall.com/card/5dn/148/salvaging-station?utm_source=api>`
-   |tap|: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield.
+   |tap|: Return target noncreature artifact card with mana value 1 or less from your graveyard to the battlefield.
 
    Whenever a creature dies, you may untap Salvaging Station.
 
@@ -880,5 +880,5 @@
 
 
 :mtgtip:`Wayfarer's Bauble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3db8fc1d-69fa-4a88-8f12-11fd614aac01.jpg?1562876449|https://scryfall.com/card/5dn/165/wayfarers-bauble?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 

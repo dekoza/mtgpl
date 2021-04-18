@@ -422,7 +422,7 @@
 
 
 :mtgtip:`March of the Machines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db17edd1-e9ed-4fd5-a304-f9a34983d138.jpg?1562556176|https://scryfall.com/card/10e/91/march-of-the-machines?utm_source=api>`
-   Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)
+   Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)
 
 
 :mtgtip:`Merfolk Looter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28e4e99d-5834-4f6c-b915-4f95edc1337f.jpg?1562545364|https://scryfall.com/card/10e/92/merfolk-looter?utm_source=api>`
@@ -628,7 +628,7 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fb98f0e-5fa0-497e-9061-85cf0b3a3eff.jpg?1562544802|https://scryfall.com/card/10e/135/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Distress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1ebb7ade-ebbb-49fb-b64f-fa247f9a9af6.jpg?1562544721|https://scryfall.com/card/10e/136/distress?utm_source=api>`
@@ -682,7 +682,7 @@
 
 
 :mtgtip:`Head Games<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73ab3037-7e62-46a7-800e-8bfa7d33f237.jpg?1562549764|https://scryfall.com/card/10e/148/head-games?utm_source=api>`
-   Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles their library.
+   Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles.
 
 
 :mtgtip:`Hidden Horror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4ac9d57-a724-4ad1-b6a7-805381c21bb3.jpg?1562557817|https://scryfall.com/card/10e/149/hidden-horror?utm_source=api>`
@@ -846,7 +846,7 @@
 
 
 :mtgtip:`Thrull Surgeon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d6fe257-b1bd-4eaf-9941-e8819f3bc89a.jpg?1562545540|https://scryfall.com/card/10e/183/thrull-surgeon?utm_source=api>`
-   |mana_1|\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Underworld Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e212d55-c98d-4df6-ab5a-389f38099070.jpg?1562549486|https://scryfall.com/card/10e/184/underworld-dreams?utm_source=api>`
@@ -862,7 +862,7 @@
 :mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/114f37e0-0a00-4ab0-840c-8f02cea101b3.jpg?1562543921|https://scryfall.com/card/10e/186/vampire-bats?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
-   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Anaba Bodyguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fdd01bd-ab41-4005-8807-46db0cfc4da4.jpg?1562549580|https://scryfall.com/card/10e/187/anaba-bodyguard?utm_source=api>`
@@ -1178,7 +1178,7 @@
 
 
 :mtgtip:`Civic Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76d01445-ada9-452e-a6c0-d9dff59755f9.jpg?1562549950|https://scryfall.com/card/10e/255/civic-wayfinder?utm_source=api>`
-   When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Commune with Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b760d616-b73a-4c7f-8a38-5606a9a321e3.jpg?1562554024|https://scryfall.com/card/10e/256/commune-with-nature?utm_source=api>`
@@ -1258,7 +1258,7 @@
 
 
 :mtgtip:`Llanowar Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bda18561-4767-4f8e-bc6d-9117d1a480b1.jpg?1562554376|https://scryfall.com/card/10e/275/llanowar-sentinel?utm_source=api>`
-   When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+   When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Lure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7e36efa-266f-48f1-b352-862920487f58.jpg?1562555985|https://scryfall.com/card/10e/276/lure?utm_source=api>`
@@ -1316,7 +1316,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee662f0a-f874-464c-8206-d4ff427daf2b.jpg?1562557439|https://scryfall.com/card/10e/288/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Recollect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37eb6ca3-0d7f-45ba-99d2-283d517f1463.jpg?1593863386|https://scryfall.com/card/10e/289/recollect?utm_source=api>`
@@ -1340,7 +1340,7 @@
 
 
 :mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ed6122e-670f-4b02-a774-2c230f369147.jpg?1562547505|https://scryfall.com/card/10e/293/rootwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Rushwood Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ed23582-3260-44c6-9884-904d294442ad.jpg?1562546634|https://scryfall.com/card/10e/294/rushwood-dryad?utm_source=api>`
@@ -1356,7 +1356,7 @@
 
 
 :mtgtip:`Skyshroud Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a2fd9e5-1986-4998-b08c-80897b9b27e7.jpg?1562552196|https://scryfall.com/card/10e/297/skyshroud-ranger?utm_source=api>`
-   |tap|: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery.
+   |tap|: You may put a land card from your hand onto the battlefield. Activate only as a sorcery.
 
 
 :mtgtip:`Spined Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e855e965-e01c-4203-bc5b-84646e99ac11.jpg?1562557074|https://scryfall.com/card/10e/298/spined-wurm?utm_source=api>`
@@ -1378,7 +1378,7 @@
 
 
 :mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fafa5aac-d4b6-47c8-b148-3077e2077e53.jpg?1562558209|https://scryfall.com/card/10e/302/sylvan-scrying?utm_source=api>`
-   Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Tangle Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f1e75e1-a827-46c1-896f-cd8fbdf79fa8.jpg?1562551529|https://scryfall.com/card/10e/303/tangle-spider?utm_source=api>`
@@ -1438,7 +1438,7 @@
 
 
 :mtgtip:`Citanul Flute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e3e0dff-d9f0-4222-a308-e86581c440cc.jpg?1562548477|https://scryfall.com/card/10e/315/citanul-flute?utm_source=api>`
-   |mana_x|, |tap|: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_x|, |tap|: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Coat of Arms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2602f046-5e79-4a8a-a5b1-b7c3cbb307fc.jpg?1596304091|https://scryfall.com/card/10e/316/coat-of-arms?utm_source=api>`
@@ -1450,7 +1450,7 @@
 
    Colossus of Sardia doesn't untap during your untap step.
 
-   |mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+   |mana_9|: Untap Colossus of Sardia. Activate only during your upkeep.
 
 
 :mtgtip:`Composite Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aafd4637-737d-4913-80e3-ab4bf3428680.jpg?1562553234|https://scryfall.com/card/10e/318/composite-golem?utm_source=api>`
@@ -1678,7 +1678,7 @@
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6858542c-b8f9-449b-b7da-65c96a67636a.jpg?1562549074|https://scryfall.com/card/10e/360/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Treetop Village<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de15f8fd-499c-4fa0-9a10-425f81c61579.jpg?1562556406|https://scryfall.com/card/10e/361/treetop-village?utm_source=api>`

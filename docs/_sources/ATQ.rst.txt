@@ -66,7 +66,7 @@
 
 
 :mtgtip:`Transmute Artifact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1562918256|https://scryfall.com/card/atq/14/transmute-artifact?utm_source=api>`
-   Sacrifice an artifact. If you do, search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay |mana_x|, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library.
+   Sacrifice an artifact. If you do, search your library for an artifact card. If that card's mana value is less than or equal to the sacrificed artifact's mana value, put it onto the battlefield. If it's greater, you may pay |mana_x|, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle.
 
 
 :mtgtip:`Artifact Possession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/587d6ac8-fad8-49e0-862e-636e06628ff9.jpg?1562913472|https://scryfall.com/card/atq/15/artifact-possession?utm_source=api>`
@@ -76,7 +76,7 @@
 
 
 :mtgtip:`Gate to Phyrexia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f372950-6693-4838-80ef-8fd9aa3e0349.jpg?1592364259|https://scryfall.com/card/atq/16/gate-to-phyrexia?utm_source=api>`
-   Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.
+   Sacrifice a creature: Destroy target artifact. Activate only during your upkeep and only once each turn.
 
 
 :mtgtip:`Haunting Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2f6ef2f-a3a2-4e1f-b7eb-59abc8414114.jpg?1562929345|https://scryfall.com/card/atq/17/haunting-wind?utm_source=api>`
@@ -90,11 +90,11 @@
 
 
 :mtgtip:`Priest of Yawgmoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9fd4054-42fc-4f95-a6f7-369a5da43dd5.jpg?1562937643|https://scryfall.com/card/atq/19/priest-of-yawgmoth?utm_source=api>`
-   |tap|, Sacrifice an artifact: Add an amount of |mana_b| equal to the sacrificed artifact's converted mana cost.
+   |tap|, Sacrifice an artifact: Add an amount of |mana_b| equal to the sacrificed artifact's mana value.
 
 
 :mtgtip:`Xenic Poltergeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5149ffff-d38f-458e-bcfa-a4b6b332a0b4.jpg?1562911994|https://scryfall.com/card/atq/20/xenic-poltergeist?utm_source=api>`
-   |tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+   |tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
 
 
 :mtgtip:`Yawgmoth Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04bbd231-0d5f-4cbf-92a7-10d2c5c4b82c.jpg?1562895987|https://scryfall.com/card/atq/21/yawgmoth-demon?utm_source=api>`
@@ -114,11 +114,11 @@
 
 
 :mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd7eb90-ae95-49df-898a-9510187bce1c.jpg?1562949167|https://scryfall.com/card/atq/24/detonate?utm_source=api>`
-   Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+   Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
 
 
 :mtgtip:`Dwarven Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0848d94a-2704-460f-986b-b192dd6d26b7.jpg?1562896790|https://scryfall.com/card/atq/25/dwarven-weaponsmith?utm_source=api>`
-   |tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+   |tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate only during your upkeep.
 
 
 :mtgtip:`Goblin Artisans<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6669d96e-9a7b-4427-a477-f4e76831f593.jpg?1562916423|https://scryfall.com/card/atq/26/goblin-artisans?utm_source=api>`
@@ -148,7 +148,7 @@
 
 
 :mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2101f86-8d3c-4ba8-ac42-bd3df0644280.jpg?1562939468|https://scryfall.com/card/atq/32/crumble?utm_source=api>`
-   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.
+   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value.
 
 
 :mtgtip:`Gaea's Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39d763bd-b0a9-46ba-bcd2-9304063446f2.jpg?1562907103|https://scryfall.com/card/atq/33/gaeas-avenger?utm_source=api>`
@@ -160,7 +160,7 @@
 
 
 :mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/583a53af-2e2a-4f3f-8eab-bd874c6ed80a.jpg?1562913410|https://scryfall.com/card/atq/35/titanias-song?utm_source=api>`
-   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn.
 
 
 :mtgtip:`Amulet of Kroog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b094f8dd-0184-41a2-9767-e848a6e4eac1.jpg?1562932268|https://scryfall.com/card/atq/36/amulet-of-kroog?utm_source=api>`
@@ -218,7 +218,7 @@
 
    At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep.
 
 
 :mtgtip:`Colossus of Sardia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.jpg?1562896386|https://scryfall.com/card/atq/46/colossus-of-sardia?utm_source=api>`
@@ -226,7 +226,7 @@
 
    Colossus of Sardia doesn't untap during your untap step.
 
-   |mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+   |mana_9|: Untap Colossus of Sardia. Activate only during your upkeep.
 
 
 :mtgtip:`Coral Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c6df9db-0a46-40a5-ae9d-59f47dae9056.jpg?1562917718|https://scryfall.com/card/atq/47/coral-helm?utm_source=api>`
@@ -298,7 +298,7 @@
 
 
 :mtgtip:`Rocket Launcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5bb2093-78a8-4a6c-abe7-9a5afc181ec5.jpg?1562940223|https://scryfall.com/card/atq/63/rocket-launcher?utm_source=api>`
-   |mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+   |mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
 
 
 :mtgtip:`Shapeshifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc278af4-b60d-41b7-b9d7-36c8aefca1a7.jpg?1592364284|https://scryfall.com/card/atq/64/shapeshifter?utm_source=api>`

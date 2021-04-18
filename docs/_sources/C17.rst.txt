@@ -46,7 +46,7 @@
 :mtgtip:`Stalking Leonin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb103c2d-d766-473e-a2d2-3eb75a3ad052.jpg?1562629838|https://scryfall.com/card/c17/7/stalking-leonin?utm_source=api>`
    When Stalking Leonin enters the battlefield, secretly choose an opponent.
 
-   Reveal the player you chose: Exile target creature that's attacking you if it's controlled by the chosen player. Activate this ability only once.
+   Reveal the player you chose: Exile target creature that's attacking you if it's controlled by the chosen player. Activate only once.
 
 
 :mtgtip:`Teferi's Protection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77f130c7-0138-4a1a-9f67-62d2c302dc48.jpg?1579814165|https://scryfall.com/card/c17/8/teferis-protection?utm_source=api>`
@@ -206,7 +206,7 @@
 
 
 :mtgtip:`Traverse the Outlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/507590c4-fe55-404a-926b-24de387a2098.jpg?1562608210|https://scryfall.com/card/c17/34/traverse-the-outlands?utm_source=api>`
-   Search your library for up to X basic land cards, where X is the greatest power among creatures you control. Put those cards onto the battlefield tapped, then shuffle your library.
+   Search your library for up to X basic land cards, where X is the greatest power among creatures you control. Put those cards onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Arahbo, Roar of the World<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81dc3d00-97cd-4549-b5a4-15a1e08767f5.jpg?1567181403|https://scryfall.com/card/c17/35/arahbo-roar-of-the-world?utm_source=api>`
@@ -244,7 +244,7 @@
 
    First strike, lifelink
 
-   Pay 5 life: Put three +1/+1 counters on Licia, Sanguine Tribune. Activate this ability only during your turn and only once each turn.
+   Pay 5 life: Put three +1/+1 counters on Licia, Sanguine Tribune. Activate only during your turn and only once each turn.
 
 
 :mtgtip:`Mairsil, the Pretender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87b71b08-668c-4b32-8243-8def1a9acf26.jpg?1562615456|https://scryfall.com/card/c17/41/mairsil-the-pretender?utm_source=api>`
@@ -268,7 +268,7 @@
 
 
 :mtgtip:`Nazahn, Revered Bladesmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f21a5b4-1cfa-466b-8a16-a8b11f20b818.jpg?1562616538|https://scryfall.com/card/c17/44/nazahn-revered-bladesmith?utm_source=api>`
-   When Nazahn, Revered Bladesmith enters the battlefield, search your library for an Equipment card and reveal it. If you reveal a card named Hammer of Nazahn this way, put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle your library.
+   When Nazahn, Revered Bladesmith enters the battlefield, search your library for an Equipment card and reveal it. If you reveal a card named Hammer of Nazahn this way, put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.
 
    Whenever an equipped creature you control attacks, you may tap target creature defending player controls.
 
@@ -350,7 +350,7 @@
 
    Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine for each of that spell's colors.
 
-   Remove five +1/+1 counters from Ramos: Add |mana_w|\ |mana_w|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|. Activate this ability only once each turn.
+   Remove five +1/+1 counters from Ramos: Add |mana_w|\ |mana_w|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|. Activate only once each turn.
 
 
 :mtgtip:`Path of Ancestry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70e70720-f0b9-4ad7-9366-927d6798d31e.jpg?1562612293|https://scryfall.com/card/c17/56/path-of-ancestry?utm_source=api>`
@@ -418,7 +418,7 @@
 
 
 :mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1a0c5b4-8988-4bef-8922-730df8bd73a2.jpg?1562622593|https://scryfall.com/card/c17/68/oreskos-explorer?utm_source=api>`
-   When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library.
+   When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Raksha Golden Cub<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.jpg?1562615429|https://scryfall.com/card/c17/69/raksha-golden-cub?utm_source=api>`
@@ -464,7 +464,7 @@
 
 
 :mtgtip:`Taj-Nar Swordsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bcbd8bb-997a-4be0-966d-b472c31b4c73.jpg?1562607724|https://scryfall.com/card/c17/77/taj-nar-swordsmith?utm_source=api>`
-   When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.
+   When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`White Sun's Zenith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cebb57f0-8401-4429-b2b4-bed37ff9ce6d.jpg?1562624220|https://scryfall.com/card/c17/78/white-suns-zenith?utm_source=api>`
@@ -698,7 +698,7 @@
 
 
 :mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ece1852d-8b7f-4fe6-b9fe-0584a94087ab.jpg?1562627961|https://scryfall.com/card/c17/122/read-the-bones?utm_source=api>`
-   Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Scry 2, then draw two cards. You lose 2 life.
 
 
 :mtgtip:`Sangromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3af47f00-2f43-4de9-9a88-966331be83c4.jpg?1562605320|https://scryfall.com/card/c17/123/sangromancer?utm_source=api>`
@@ -840,7 +840,7 @@
 
 
 :mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/4791c571-289e-4c7a-b642-04f12a1c2200.jpg?1562606837|https://scryfall.com/card/c17/147/cultivate?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Elemental Bond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7170ad9e-f43d-46e2-a9dd-97be31099c02.jpg?1562612329|https://scryfall.com/card/c17/148/elemental-bond?utm_source=api>`
@@ -848,7 +848,7 @@
 
 
 :mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f5a3b1c-dcbc-4803-8e5b-42314d46701e.jpg?1562614410|https://scryfall.com/card/c17/149/farseek?utm_source=api>`
-   Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+   Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Frontier Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e7ee5ff-eabc-4947-b5fe-2647c7e2eb82.jpg?1562609900|https://scryfall.com/card/c17/150/frontier-siege?utm_source=api>`
@@ -874,11 +874,11 @@
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.jpg?1562619488|https://scryfall.com/card/c17/154/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Nissa's Pilgrimage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccf744d0-4349-4338-99aa-db0780c7296f.jpg?1562623825|https://scryfall.com/card/c17/155/nissas-pilgrimage?utm_source=api>`
-   Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle your library.
+   Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle.
 
    Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two.
 
@@ -1038,7 +1038,7 @@
 :mtgtip:`Mercurial Chemister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/803ba67c-4a50-4024-bee3-c3113c8f40b4.jpg?1562614454|https://scryfall.com/card/c17/180/mercurial-chemister?utm_source=api>`
    |mana_u|, |tap|: Draw two cards.
 
-   |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
+   |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's mana value.
 
 
 :mtgtip:`Mirari's Wake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b461cce-02c7-4c93-afaa-32400ff82942.jpg?1562599586|https://scryfall.com/card/c17/181/miraris-wake?utm_source=api>`
@@ -1118,7 +1118,7 @@
 :mtgtip:`Scion of the Ur-Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/565b2a40-57b1-451f-8c2a-e02222502288.jpg?1562608891|https://scryfall.com/card/c17/192/scion-of-the-ur-dragon?utm_source=api>`
    Flying
 
-   |mana_2|: Search your library for a Dragon permanent card and put it into your graveyard. If you do, Scion of the Ur-Dragon becomes a copy of that card until end of turn. Then shuffle your library.
+   |mana_2|: Search your library for a Dragon permanent card and put it into your graveyard. If you do, Scion of the Ur-Dragon becomes a copy of that card until end of turn. Then shuffle.
 
 
 :mtgtip:`Shadowmage Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dae1e3c0-bfea-4d9b-8476-16e8a4597f6e.jpg?1562625797|https://scryfall.com/card/c17/193/shadowmage-infiltrator?utm_source=api>`
@@ -1148,7 +1148,7 @@
 :mtgtip:`Spellbound Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.jpg?1562615814|https://scryfall.com/card/c17/196/spellbound-dragon?utm_source=api>`
    Flying
 
-   Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.
+   Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's mana value.
 
 
 :mtgtip:`Stromkirk Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/759d0e2d-960b-482e-a2cd-4a1c5423de0f.jpg?1562612970|https://scryfall.com/card/c17/197/stromkirk-captain?utm_source=api>`
@@ -1190,7 +1190,7 @@
 
 
 :mtgtip:`Armillary Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57a446d0-7854-4663-b0b1-017207630455.jpg?1562608953|https://scryfall.com/card/c17/203/armillary-sphere?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Blade of the Bloodchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c80fbef-ad13-4ff1-92ae-f8363ed5c6ab.jpg?1562599625|https://scryfall.com/card/c17/204/blade-of-the-bloodchief?utm_source=api>`
@@ -1322,7 +1322,7 @@
 
    |mana_2|: Steel Hellkite gets +1/+0 until end of turn.
 
-   |mana_x|: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.
+   |mana_x|: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by Steel Hellkite this turn. Activate only once each turn.
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/505c3777-71ef-425e-9dc6-539a8e11e7cd.jpg?1562608206|https://scryfall.com/card/c17/226/swiftfoot-boots?utm_source=api>`
@@ -1334,7 +1334,7 @@
 :mtgtip:`Sword of the Animist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b3a3944-c3e6-4710-a509-7f970cd692a2.jpg?1562611742|https://scryfall.com/card/c17/227/sword-of-the-animist?utm_source=api>`
    Equipped creature gets +1/+1.
 
-   Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Equip |mana_2|
 
@@ -1352,7 +1352,7 @@
 
 
 :mtgtip:`Wayfarer's Bauble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/6501ccfd-8931-495d-94a8-02432c7b558e.jpg?1562610819|https://scryfall.com/card/c17/230/wayfarers-bauble?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Well of Lost Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26bbf680-cfdc-4d8f-93fc-5ffa15042191.jpg?1562602728|https://scryfall.com/card/c17/231/well-of-lost-dreams?utm_source=api>`
@@ -1382,7 +1382,7 @@
 :mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d77eda51-6433-433f-8070-ab4a2ac01e2f.jpg?1562625319|https://scryfall.com/card/c17/235/blighted-woodland?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Bloodfell Caves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83a54064-982f-4ff8-b5e6-c5b92ae61071.jpg?1562614928|https://scryfall.com/card/c17/236/bloodfell-caves?utm_source=api>`
@@ -1470,7 +1470,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d8bbc93-4bb8-4cba-b284-5149ac71767d.jpg?1562601680|https://scryfall.com/card/c17/248/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Exotic Orchard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/236e40f8-ea7b-4c3f-b23e-81aed45b5375.jpg?1562602264|https://scryfall.com/card/c17/249/exotic-orchard?utm_source=api>`
@@ -1492,7 +1492,7 @@
 :mtgtip:`Grasslands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47e0ca2f-6059-44e4-996d-e243edbfbd79.jpg?1562607173|https://scryfall.com/card/c17/252/grasslands?utm_source=api>`
    Grasslands enters the battlefield tapped.
 
-   |tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Graypelt Refuge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f19981b-c9cf-42ac-99cf-6957ff47f6bd.jpg?1562614402|https://scryfall.com/card/c17/253/graypelt-refuge?utm_source=api>`
@@ -1506,7 +1506,7 @@
 :mtgtip:`Grixis Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f95488c-83ae-430c-97ef-1335ba09b12d.jpg?1562601755|https://scryfall.com/card/c17/254/grixis-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Haven of the Spirit Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ba8429-6712-45a3-8cb7-7afd65aa9406.jpg?1562624811|https://scryfall.com/card/c17/255/haven-of-the-spirit-dragon?utm_source=api>`
@@ -1552,7 +1552,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1bc3755-054d-4037-aea2-7376c0b865c8.jpg?1562628783|https://scryfall.com/card/c17/261/mosswort-bridge?utm_source=api>`
@@ -1568,7 +1568,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ab900ee-af10-442b-baa5-8654f82ca381.jpg?1562599531|https://scryfall.com/card/c17/263/mystic-monastery?utm_source=api>`
@@ -1714,11 +1714,11 @@
 
 
 :mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d531d19e-0bed-46c8-9eb3-9ad59362b86c.jpg?1562624841|https://scryfall.com/card/c17/284/temple-of-the-false-god?utm_source=api>`
-   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate only if you control five or more lands.
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7daa923-6bd9-4315-a483-840021b745dd.jpg?1562623284|https://scryfall.com/card/c17/285/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Tranquil Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650|https://scryfall.com/card/c17/286/tranquil-expanse?utm_source=api>`

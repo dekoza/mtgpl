@@ -84,7 +84,7 @@
 
 
 :mtgtip:`Fragmentize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bf09deb-2607-4eb0-94a7-9584e771fdfb.jpg?1576380854|https://scryfall.com/card/kld/14/fragmentize?utm_source=api>`
-   Destroy target artifact or enchantment with converted mana cost 4 or less.
+   Destroy target artifact or enchantment with mana value 4 or less.
 
 
 :mtgtip:`Fumigate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f00f27a7-9e92-4fbf-baa8-f47a5eee48a6.jpg?1576380863|https://scryfall.com/card/kld/15/fumigate?utm_source=api>`
@@ -194,7 +194,7 @@
 
    When Aether Meltdown enters the battlefield, you get |energy|\ |energy| (two energy counters).
 
-   Enchanted permanent gets -4/-0.
+   Enchanted creature gets -4/-0.
 
 
 :mtgtip:`Aether Theorist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/882b5580-ee23-4d65-a2b3-82475d6faf8e.jpg?1576381087|https://scryfall.com/card/kld/37/aether-theorist?utm_source=api>`
@@ -212,7 +212,7 @@
 
    At the beginning of your upkeep, you get |energy|\ |energy|\ |energy| (three energy counters).
 
-   Pay |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|: Return all other creatures to their owners' hands. Activate this ability only any time you could cast a sorcery.
+   Pay |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|: Return all other creatures to their owners' hands. Activate only as a sorcery.
 
 
 :mtgtip:`Ceremonious Rejection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08c5ed8e-4804-4042-8a1d-ad24c6846816.jpg?1576381129|https://scryfall.com/card/kld/40/ceremonious-rejection?utm_source=api>`
@@ -220,7 +220,7 @@
 
 
 :mtgtip:`Confiscation Coup<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6daf453f-54be-4346-831d-a0434aa086fe.jpg?1576381139|https://scryfall.com/card/kld/41/confiscation-coup?utm_source=api>`
-   Choose target artifact or creature. You get |energy|\ |energy|\ |energy|\ |energy| (four energy counters), then you may pay an amount of |energy| equal to that permanent's converted mana cost. If you do, gain control of it.
+   Choose target artifact or creature. You get |energy|\ |energy|\ |energy|\ |energy| (four energy counters), then you may pay an amount of |energy| equal to that permanent's mana value. If you do, gain control of it.
 
 
 :mtgtip:`Curio Vendor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c598054a-26fa-40e7-8497-3da8eaf12aac.jpg?1576381150|https://scryfall.com/card/kld/42/curio-vendor?utm_source=api>`
@@ -308,9 +308,9 @@
 
 
 :mtgtip:`Metallurgic Summonings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0ac06f9-5c9f-4d4f-be57-7c58bd8da568.jpg?1576381317|https://scryfall.com/card/kld/56/metallurgic-summonings?utm_source=api>`
-   Whenever you cast an instant or sorcery spell, create an X/X colorless Construct artifact creature token, where X is that spell's converted mana cost.
+   Whenever you cast an instant or sorcery spell, create an X/X colorless Construct artifact creature token, where X is that spell's mana value.
 
-   |mana_3|\ |mana_u|\ |mana_u|, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate this ability only if you control six or more artifacts.
+   |mana_3|\ |mana_u|\ |mana_u|, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate only if you control six or more artifacts.
 
 
 :mtgtip:`Minister of Inquiries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e6c31d1-6e2a-41b3-aa4f-d30a7cd997d2.jpg?1576381327|https://scryfall.com/card/kld/57/minister-of-inquiries?utm_source=api>`
@@ -326,7 +326,7 @@
 :mtgtip:`Padeem, Consul of Innovation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e31b30a7-13e8-408e-a758-60e6e9290808.jpg?1576381360|https://scryfall.com/card/kld/59/padeem-consul-of-innovation?utm_source=api>`
    Artifacts you control have hexproof.
 
-   At the beginning of your upkeep, if you control the artifact with the highest converted mana cost or tied for the highest converted mana cost, draw a card.
+   At the beginning of your upkeep, if you control the artifact with the highest mana value or tied for the highest mana value, draw a card.
 
 
 :mtgtip:`Paradoxical Outcome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17e50157-bf49-4c5f-9b8a-bf73484e63a5.jpg?1576381375|https://scryfall.com/card/kld/60/paradoxical-outcome?utm_source=api>`
@@ -406,7 +406,7 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06750380-a9a9-4ab4-a03b-d4d35a31132a.jpg?1576381562|https://scryfall.com/card/kld/75/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Die Young<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daf7bb52-013f-4d8d-b4ea-53d1fa4bb694.jpg?1576381572|https://scryfall.com/card/kld/76/die-young?utm_source=api>`
@@ -472,7 +472,7 @@
 
 
 :mtgtip:`Lost Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5d0e447-d98e-43d5-9b53-166221c34be2.jpg?1576381725|https://scryfall.com/card/kld/88/lost-legacy?utm_source=api>`
-   Choose a nonartifact, nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles their library, then draws a card for each card exiled from their hand this way.
+   Choose a nonartifact, nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
 
 
 :mtgtip:`Make Obsolete<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0a96feb-accc-4c30-8ecd-7d9272ebd45b.jpg?1576381736|https://scryfall.com/card/kld/89/make-obsolete?utm_source=api>`
@@ -508,7 +508,7 @@
 :mtgtip:`Morbid Curiosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f26722e-e7fc-4a90-9a5b-cefda096e5fe.jpg?1576381789|https://scryfall.com/card/kld/94/morbid-curiosity?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
-   Draw cards equal to the converted mana cost of the sacrificed permanent.
+   Draw cards equal to the mana value of the sacrificed permanent.
 
 
 :mtgtip:`Night Market Lookout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4edb03b7-e5a2-4ba1-b0ec-bfbfeaa94efd.jpg?1576381799|https://scryfall.com/card/kld/95/night-market-lookout?utm_source=api>`
@@ -558,7 +558,7 @@
 :mtgtip:`Underhanded Designs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4392fe0a-a15e-46c6-9a3d-8e30e4dab17f.jpg?1576381911|https://scryfall.com/card/kld/104/underhanded-designs?utm_source=api>`
    Whenever an artifact enters the battlefield under your control, you may pay |mana_1|. If you do, each opponent loses 1 life and you gain 1 life.
 
-   |mana_1|\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. Activate this ability only if you control two or more artifacts.
+   |mana_1|\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. Activate only if you control two or more artifacts.
 
 
 :mtgtip:`Weaponcraft Enthusiast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe99535a-cc81-4e79-9d30-d514c86b849c.jpg?1576381924|https://scryfall.com/card/kld/105/weaponcraft-enthusiast?utm_source=api>`
@@ -604,7 +604,7 @@
 :mtgtip:`Combustible Gearhulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0f43147-4552-48fd-be0a-0629b9a0ad69.jpg?1576382023|https://scryfall.com/card/kld/112/combustible-gearhulk?utm_source=api>`
    First strike
 
-   When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, you mill three cards, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards.
+   When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, you mill three cards, then Combustible Gearhulk deals damage to that player equal to the total mana value of those cards.
 
 
 :mtgtip:`Demolish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d231d40-c113-4a8d-897c-ed3120a1363e.jpg?1576382034|https://scryfall.com/card/kld/113/demolish?utm_source=api>`
@@ -702,7 +702,7 @@
 
 
 :mtgtip:`Spark of Creativity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/718bf224-5e1b-439c-a998-ceec5c0a8903.jpg?1576382219|https://scryfall.com/card/kld/131/spark-of-creativity?utm_source=api>`
-   Choose target creature. Exile the top card of your library. You may have Spark of Creativity deal damage to that creature equal to the exiled card's converted mana cost. If you don't, you may play that card until end of turn.
+   Choose target creature. Exile the top card of your library. You may have Spark of Creativity deal damage to that creature equal to the exiled card's mana value. If you don't, you may play that card until end of turn.
 
 
 :mtgtip:`Speedway Fanatic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/436ce901-6ac6-4f8c-8ff0-18103f2642b8.jpg?1576382229|https://scryfall.com/card/kld/132/speedway-fanatic?utm_source=api>`
@@ -770,7 +770,7 @@
 
 
 :mtgtip:`Attune with Aether<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32b0707d-241e-4ced-9251-b16af4fef2cb.jpg?1576382371|https://scryfall.com/card/kld/145/attune-with-aether?utm_source=api>`
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. You get |energy|\ |energy| (two energy counters).
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You get |energy|\ |energy| (two energy counters).
 
 
 :mtgtip:`Blossoming Defense<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c026c39-b09c-408a-844f-fb5eb785862a.jpg?1576382384|https://scryfall.com/card/kld/146/blossoming-defense?utm_source=api>`
@@ -802,7 +802,7 @@
 
 
 :mtgtip:`Dubious Challenge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92965a78-277d-4a27-8174-fc2564bd1ee3.jpg?1576382453|https://scryfall.com/card/kld/152/dubious-challenge?utm_source=api>`
-   Look at the top ten cards of your library, exile up to two creature cards from among them, then shuffle your library. Target opponent may choose one of the exiled cards and put it onto the battlefield under their control. Put the rest onto the battlefield under your control.
+   Look at the top ten cards of your library, exile up to two creature cards from among them, then shuffle. Target opponent may choose one of the exiled cards and put it onto the battlefield under their control. Put the rest onto the battlefield under your control.
 
 
 :mtgtip:`Durable Handicraft<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28d5e2ff-dc8a-4ed5-989a-4b4b79591b3f.jpg?1576382468|https://scryfall.com/card/kld/153/durable-handicraft?utm_source=api>`
@@ -916,7 +916,7 @@
 
 
 :mtgtip:`Wild Wanderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d20e020-30e1-4deb-8dfc-4c5fe056193d.jpg?1576382724|https://scryfall.com/card/kld/173/wild-wanderer?utm_source=api>`
-   When Wild Wanderer enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Wild Wanderer enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Wildest Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fedd63c-22e4-4c36-8a7a-a167a070678f.jpg?1576382736|https://scryfall.com/card/kld/174/wildest-dreams?utm_source=api>`
@@ -978,7 +978,7 @@
 
 
 :mtgtip:`Rashmi, Eternities Crafter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ce37555-49a2-4112-95b4-f3376b55b45b.jpg?1576382857|https://scryfall.com/card/kld/184/rashmi-eternities-crafter?utm_source=api>`
-   Whenever you cast your first spell each turn, reveal the top card of your library. You may cast it without paying its mana cost if it's a spell with lesser converted mana cost. If you don't cast it, put it into your hand.
+   Whenever you cast your first spell each turn, reveal the top card of your library. You may cast it without paying its mana cost if it's a spell with lesser mana value. If you don't cast it, put it into your hand.
 
 
 :mtgtip:`Restoration Gearsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/228ea9c6-5732-4a2a-ac25-a768ea7d433b.jpg?1576382867|https://scryfall.com/card/kld/185/restoration-gearsmith?utm_source=api>`
@@ -990,7 +990,7 @@
 
    −2: Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. That token gains haste. Exile it at the beginning of the next end step.
 
-   −7: Search your library for up to three artifact cards with different names, put them onto the battlefield, then shuffle your library.
+   −7: Search your library for up to three artifact cards with different names, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Unlicensed Disintegration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16ad8f86-7860-4896-a161-07bf347bbd5b.jpg?1576382889|https://scryfall.com/card/kld/187/unlicensed-disintegration?utm_source=api>`
@@ -1198,7 +1198,7 @@
 
 
 :mtgtip:`Metalwork Colossus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/474480b5-c60b-4c7f-9d3e-751bca43d074.jpg?1576383277|https://scryfall.com/card/kld/222/metalwork-colossus?utm_source=api>`
-   This spell costs |mana_x| less to cast, where X is the total converted mana cost of noncreature artifacts you control.
+   This spell costs |mana_x| less to cast, where X is the total mana value of noncreature artifacts you control.
 
    Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.
 
@@ -1254,7 +1254,7 @@
 
 
 :mtgtip:`Self-Assembler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d05c6c2-4bb3-468a-b23c-b0425a9982f1.jpg?1576383395|https://scryfall.com/card/kld/232/self-assembler?utm_source=api>`
-   When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle your library.
+   When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sky Skiff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf4a4939-130b-40d7-8a0f-e31eb931d2d5.jpg?1576383405|https://scryfall.com/card/kld/233/sky-skiff?utm_source=api>`
@@ -1344,7 +1344,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle your library. Activate this ability only if you control three or more artifacts.
+   |mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Sequestered Stash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86a17084-bb96-4e81-bff0-005bd44a1fbd.jpg?1576383566|https://scryfall.com/card/kld/248/sequestered-stash?utm_source=api>`
@@ -1392,7 +1392,7 @@
 
 
 :mtgtip:`Liberating Combustion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9d2156e-2d54-440e-b0fd-7bef702afbfc.jpg?1562743003|https://scryfall.com/card/kld/267/liberating-combustion?utm_source=api>`
-   Liberating Combustion deals 6 damage to target creature. You may search your library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Liberating Combustion deals 6 damage to target creature. You may search your library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Renegade Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b633884-867c-4b51-bd5b-5f246d0ecd4e.jpg?1562735197|https://scryfall.com/card/kld/268/renegade-firebrand?utm_source=api>`
@@ -1424,7 +1424,7 @@
 
 
 :mtgtip:`Verdant Crescendo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea890019-f48f-4164-b057-773499ef273f.jpg?1562745055|https://scryfall.com/card/kld/273/verdant-crescendo?utm_source=api>`
-   Search your library for a basic land card and put it onto the battlefield tapped. Search your library and graveyard for a card named Nissa, Nature's Artisan, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a basic land card and put it onto the battlefield tapped. Search your library and graveyard for a card named Nissa, Nature's Artisan, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Woodland Stream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a333bbdc-5af7-4679-b263-3aaa056452a0.jpg?1562740821|https://scryfall.com/card/kld/274/woodland-stream?utm_source=api>`

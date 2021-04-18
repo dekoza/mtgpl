@@ -60,7 +60,7 @@
 :mtgtip:`Sanctum Plowbeast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73887514-7644-4b2b-8c67-4b7e64150478.jpg?1562642111|https://scryfall.com/card/arb/10/sanctum-plowbeast?utm_source=api>`
    Defender
 
-   Plainscycling |mana_2|, islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains or Island card, reveal it, put it into your hand, then shuffle your library.)
+   Plainscycling |mana_2|, islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains or Island card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Shield of the Righteous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e6474b6-1e1a-4c29-8f01-1cabf729b34f.jpg?1562643220|https://scryfall.com/card/arb/11/shield-of-the-righteous?utm_source=api>`
@@ -74,7 +74,7 @@
 :mtgtip:`Sovereigns of Lost Alara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d2a9e7e-649f-457b-aba7-9c74c2704adf.jpg?1562640353|https://scryfall.com/card/arb/12/sovereigns-of-lost-alara?utm_source=api>`
    Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
 
-   Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.
+   Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle.
 
 
 :mtgtip:`Stormcaller's Boon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15931d65-9b4e-4506-8f1d-714d06f9c2f3.jpg?1562639812|https://scryfall.com/card/arb/13/stormcallers-boon?utm_source=api>`
@@ -128,7 +128,7 @@
 :mtgtip:`Jhessian Zombies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14d3f7fd-f414-4c17-ad63-c8b39bde301d.jpg?1562639811|https://scryfall.com/card/arb/22/jhessian-zombies?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
-   Islandcycling |mana_2|, swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island or Swamp card, reveal it, put it into your hand, then shuffle your library.)
+   Islandcycling |mana_2|, swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island or Swamp card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Kathari Remnant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e27c56c6-fd72-4917-96d1-d7f9f8236fa2.jpg?1562644707|https://scryfall.com/card/arb/23/kathari-remnant?utm_source=api>`
@@ -232,7 +232,7 @@
 :mtgtip:`Igneous Pouncer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83d59b32-d47f-4b05-87eb-58ffb8006fa8.jpg?1562642519|https://scryfall.com/card/arb/40/igneous-pouncer?utm_source=api>`
    Haste
 
-   Swampcycling |mana_2|, mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp or Mountain card, reveal it, put it into your hand, then shuffle your library.)
+   Swampcycling |mana_2|, mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp or Mountain card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Kathari Bomber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c0d4f83-6319-4d40-9fee-6a44b05c8e9e.jpg?1562641928|https://scryfall.com/card/arb/41/kathari-bomber?utm_source=api>`
@@ -262,7 +262,7 @@
 
 
 :mtgtip:`Singe-Mind Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab1564d7-43fe-4072-91a6-622713848b7e.jpg?1562643514|https://scryfall.com/card/arb/45/singe-mind-ogre?utm_source=api>`
-   When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from their hand, then loses life equal to that card's converted mana cost.
+   When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from their hand, then loses life equal to that card's mana value.
 
 
 :mtgtip:`Terminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc8acab8-4469-4baa-af2f-a3f49b841a55.jpg?1562644597|https://scryfall.com/card/arb/46/terminate?utm_source=api>`
@@ -270,7 +270,7 @@
 
 
 :mtgtip:`Thought Hemorrhage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2b38a7e-d7c4-40c2-ba54-ae5649589cc9.jpg?1562643708|https://scryfall.com/card/arb/47/thought-hemorrhage?utm_source=api>`
-   Choose a nonland card name. Target player reveals their hand. Thought Hemorrhage deals 3 damage to that player for each card with the chosen name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles their library.
+   Choose a nonland card name. Target player reveals their hand. Thought Hemorrhage deals 3 damage to that player for each card with the chosen name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles.
 
 
 :mtgtip:`Veinfire Borderpost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75ad0cc1-66bd-43c3-a296-c36cf9a64e85.jpg?1562642156|https://scryfall.com/card/arb/48/veinfire-borderpost?utm_source=api>`
@@ -346,11 +346,11 @@
 
 
 :mtgtip:`Valley Rannet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2027335a-224b-411d-a59f-f4ad39b38a69.jpg?1562640043|https://scryfall.com/card/arb/61/valley-rannet?utm_source=api>`
-   Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle your library.)
+   Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Vengeful Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80a504fb-b3ce-40f9-8fcb-86d5ad038e5d.jpg?1562642450|https://scryfall.com/card/arb/62/vengeful-rebirth?utm_source=api>`
-   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to any target.
+   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.
 
    Exile Vengeful Rebirth.
 
@@ -408,7 +408,7 @@
 :mtgtip:`Pale Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13fad19c-fd45-45cf-b58c-82cdcdf49b06.jpg?1562639779|https://scryfall.com/card/arb/74/pale-recluse?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
-   Forestcycling |mana_2|, plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle your library.)
+   Forestcycling |mana_2|, plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Qasali Pridemage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75256550-bbe0-499d-909e-af10691749c2.jpg?1562642150|https://scryfall.com/card/arb/75/qasali-pridemage?utm_source=api>`
@@ -488,7 +488,7 @@
 :mtgtip:`Spellbound Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/551518b7-1b71-4fa6-8828-5ae08eab1887.jpg?1562641348|https://scryfall.com/card/arb/90/spellbound-dragon?utm_source=api>`
    Flying
 
-   Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.
+   Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's mana value.
 
 
 :mtgtip:`Lord of Extinction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbf60d69-fc68-4b23-a9e8-9d310c00a865.jpg?1562645267|https://scryfall.com/card/arb/91/lord-of-extinction?utm_source=api>`
@@ -510,7 +510,7 @@
 
 
 :mtgtip:`Putrid Leech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaa47568-5668-4a9f-ad1c-9a13010ffc2b.jpg?1562643504|https://scryfall.com/card/arb/95/putrid-leech?utm_source=api>`
-   Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+   Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Cerodon Yearling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a85165-5aed-4e26-a314-1370d4638deb.jpg?1562645142|https://scryfall.com/card/arb/96/cerodon-yearling?utm_source=api>`
@@ -694,7 +694,7 @@
 
 
 :mtgtip:`Wargate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f4fe11d-c404-489a-b17f-34f33b1597e8.jpg?1562642865|https://scryfall.com/card/arb/129/wargate?utm_source=api>`
-   Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
+   Search your library for a permanent card with mana value X or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Maelstrom Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/425b3c5b-de65-46b2-b26d-347cc31beb4c.jpg?1562640901|https://scryfall.com/card/arb/130/maelstrom-nexus?utm_source=api>`

@@ -74,13 +74,13 @@
 
    Whenever Kami of the Honored Dead is dealt damage, you gain that much life.
 
-   Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)
+   Soulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Kentaro, the Smiling Cat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddcea3b3-5852-4ae1-a952-7b392564cb9d.jpg?1562880249|https://scryfall.com/card/bok/13/kentaro-the-smiling-cat?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
-   You may pay |mana_x| rather than pay the mana cost for Samurai spells you cast, where X is that spell's converted mana cost.
+   You may pay |mana_x| rather than pay the mana cost for Samurai spells you cast, where X is that spell's mana value.
 
 
 :mtgtip:`Kitsune Palliator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb981f8b-4f03-4fd2-a255-b10635958bfd.jpg?1562880539|https://scryfall.com/card/bok/14/kitsune-palliator?utm_source=api>`
@@ -94,7 +94,7 @@
 :mtgtip:`Moonlit Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9d39ff1-402c-4218-ad42-276a22c087a7.jpg?1562880110|https://scryfall.com/card/bok/16/moonlit-strider?utm_source=api>`
    Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.
 
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Opal-Eye, Konda's Yojimbo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e08d5618-4fe0-4ae5-af16-696467aae02d.jpg?1562880329|https://scryfall.com/card/bok/17/opal-eye-kondas-yojimbo?utm_source=api>`
@@ -120,11 +120,11 @@
 
 
 :mtgtip:`Scour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9cac762-7482-471f-b4de-e0cb6da5451c.jpg?1562878998|https://scryfall.com/card/bok/20/scour?utm_source=api>`
-   Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles their library.
+   Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles.
 
 
 :mtgtip:`Shining Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78ca16f8-336a-444b-9f78-e97a3f20a3bc.jpg?1562877977|https://scryfall.com/card/bok/21/shining-shoal?utm_source=api>`
-   You may exile a white card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a white card with mana value X from your hand rather than pay this spell's mana cost.
 
    The next X damage that a source of your choice would deal to you and/or creatures you control this turn is dealt to any target instead.
 
@@ -146,11 +146,11 @@
 
 
 :mtgtip:`Tallowisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a018aa51-d75e-4d94-b4b3-0cd14fc87d44.jpg?1617371976|https://scryfall.com/card/bok/25/tallowisp?utm_source=api>`
-   Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library.
+   Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Terashi's Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a63cfebd-8cab-48b4-814a-4d8751dd1b57.jpg?1562878919|https://scryfall.com/card/bok/26/terashis-grasp?utm_source=api>`
-   Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+   Destroy target artifact or enchantment. You gain life equal to its mana value.
 
 
 :mtgtip:`Terashi's Verdict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc5fa34b-95c6-4e02-9e15-3f595f744741.jpg?1562879427|https://scryfall.com/card/bok/27/terashis-verdict?utm_source=api>`
@@ -190,9 +190,9 @@
 
 
 :mtgtip:`Disrupting Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1562875608|https://scryfall.com/card/bok/33/disrupting-shoal?utm_source=api>`
-   You may exile a blue card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a blue card with mana value X from your hand rather than pay this spell's mana cost.
 
-   Counter target spell if its converted mana cost is X.
+   Counter target spell if its mana value is X.
 
 
 :mtgtip:`Floodbringer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0058be07-a8a1-448e-8c3d-61718cb384ec.jpg?1562875117|https://scryfall.com/card/bok/34/floodbringer?utm_source=api>`
@@ -210,13 +210,13 @@
 
 
 :mtgtip:`Heed the Mists<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb953ffc-0e73-42a2-a026-e6d3041fd8ec.jpg?1562880537|https://scryfall.com/card/bok/36/heed-the-mists?utm_source=api>`
-   Mill a card, then draw cards equal to the milled card's converted mana cost.
+   Mill a card, then draw cards equal to the milled card's mana value.
 
 
 :mtgtip:`Higure, the Still Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/743f3cf5-f8aa-49d4-947d-76b91799547a.jpg?1562877832|https://scryfall.com/card/bok/37/higure-the-still-wind?utm_source=api>`
    Ninjutsu |mana_2|\ |mana_u|\ |mana_u| (|mana_2|\ |mana_u|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
-   Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library.
+   Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, put it into your hand, then shuffle.
 
    |mana_2|: Target Ninja creature can't be blocked this turn.
 
@@ -276,13 +276,13 @@
 
 
 :mtgtip:`Quash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48ca8c31-a9ea-4388-b257-951c1c68b86d.jpg?1562876834|https://scryfall.com/card/bok/47/quash?utm_source=api>`
-   Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library.
+   Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles.
 
 
 :mtgtip:`Quillmane Baku<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe9140fc-9d50-4e63-aae6-1ba2974a25a3.jpg?1562880908|https://scryfall.com/card/bok/48/quillmane-baku?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.
 
-   |mana_1|, |tap|, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand.
+   |mana_1|, |tap|, Remove X ki counters from Quillmane Baku: Return target creature with mana value X or less to its owner's hand.
 
 
 :mtgtip:`Reduce to Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10962b1b-4039-4d8a-88e0-fc67537920a9.jpg?1562875508|https://scryfall.com/card/bok/49/reduce-to-dreams?utm_source=api>`
@@ -318,7 +318,7 @@
 
 
 :mtgtip:`Threads of Disloyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/999440a5-9659-4218-8594-1950f1155975.jpg?1593860777|https://scryfall.com/card/bok/56/threads-of-disloyalty?utm_source=api>`
-   Enchant creature with converted mana cost 2 or less
+   Enchant creature with mana value 2 or less
 
    You control enchanted creature.
 
@@ -342,7 +342,7 @@
 
    Whenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.
 
-   |mana_1|\ |mana_u|: Return target Ninja you control to its owner's hand. Activate this ability only during your turn.
+   |mana_1|\ |mana_u|: Return target Ninja you control to its owner's hand. Activate only during your turn.
 
 
 :mtgtip:`Bile Urchin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/801c2b46-c7a7-44d6-ae38-5d34bf00c404.jpg?1562878102|https://scryfall.com/card/bok/61/bile-urchin?utm_source=api>`
@@ -368,11 +368,11 @@
 :mtgtip:`Crawling Filth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c735bda-5454-4177-a23a-f9f00b7480d2.jpg?1562878661|https://scryfall.com/card/bok/64/crawling-filth?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
-   Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)
+   Soulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Eradicate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02d6e0e5-798c-4791-85fe-24d0838df8f4.jpg?1562875181|https://scryfall.com/card/bok/65/eradicate?utm_source=api>`
-   Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles their library.
+   Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles.
 
 
 :mtgtip:`Genju of the Fens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/924fa2d7-ec9b-4b82-8384-0f904cb624f7.jpg?1562878411|https://scryfall.com/card/bok/66/genju-of-the-fens?utm_source=api>`
@@ -456,7 +456,7 @@
 :mtgtip:`Pus Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f142dea-4751-453f-93a5-c8fdaba8a1b3.jpg?1562876955|https://scryfall.com/card/bok/79/pus-kami?utm_source=api>`
    |mana_b|, Sacrifice Pus Kami: Destroy target nonblack creature.
 
-   Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)
+   Soulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Scourge of Numai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7692ef1-bfae-411d-a589-f493128ef44b.jpg?1593860769|https://scryfall.com/card/bok/80/scourge-of-numai?utm_source=api>`
@@ -468,7 +468,7 @@
 
 
 :mtgtip:`Sickening Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d92f4129-19fc-4ee9-9e3d-77fcf1563e4b.jpg?1562880104|https://scryfall.com/card/bok/82/sickening-shoal?utm_source=api>`
-   You may exile a black card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a black card with mana value X from your hand rather than pay this spell's mana cost.
 
    Target creature gets -X/-X until end of turn.
 
@@ -486,7 +486,7 @@
 
 
 :mtgtip:`Stir the Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7287f68f-f2e2-4e6f-a772-29a629bb9ccd.jpg?1562877792|https://scryfall.com/card/bok/85/stir-the-grave?utm_source=api>`
-   Return target creature card with converted mana cost X or less from your graveyard to the battlefield.
+   Return target creature card with mana value X or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Takenuma Bleeder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfa3d318-83ff-41db-b33a-e4f5b7cd7a77.jpg?1562879537|https://scryfall.com/card/bok/86/takenuma-bleeder?utm_source=api>`
@@ -538,7 +538,7 @@
 
 
 :mtgtip:`Blazing Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b915daa-d239-4460-bd6b-e1327fdf7f51.jpg?1562878306|https://scryfall.com/card/bok/96/blazing-shoal?utm_source=api>`
-   You may exile a red card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a red card with mana value X from your hand rather than pay this spell's mana cost.
 
    Target creature gets +X/+0 until end of turn.
 
@@ -652,7 +652,7 @@
 
 
 :mtgtip:`Sowing Salt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd243ce5-152b-4d9c-991e-be56b6731d99.jpg?1562879461|https://scryfall.com/card/bok/118/sowing-salt?utm_source=api>`
-   Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles their library.
+   Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles.
 
 
 :mtgtip:`Torrent of Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716ae2ca-800a-4cc0-8cb1-fe8d6495306f.jpg?1562877761|https://scryfall.com/card/bok/119/torrent-of-stone?utm_source=api>`
@@ -668,7 +668,7 @@
 :mtgtip:`Body of Jukai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f43fe8e0-23ab-4fe7-8a48-1902be142c6a.jpg?1562880691|https://scryfall.com/card/bok/121/body-of-jukai?utm_source=api>`
    Trample
 
-   Soulshift 8 (When this creature dies, you may return target Spirit card with converted mana cost 8 or less from your graveyard to your hand.)
+   Soulshift 8 (When this creature dies, you may return target Spirit card with mana value 8 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Budoka Pupil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73636ca0-2309-4bb3-9300-8bd0c0bb5b31.jpg?1562877808|https://scryfall.com/card/bok/122/budoka-pupil-ichiga-who-topples-oaks?utm_source=api>`
@@ -692,7 +692,7 @@
 
 
 :mtgtip:`Forked-Branch Garami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0ff39ae5-a241-4607-903e-201f56c675f9.jpg?1562875488|https://scryfall.com/card/bok/125/forked-branch-garami?utm_source=api>`
-   Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Genju of the Cedars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d621b82-c863-437b-b42c-31a0872be6d4.jpg?1562878697|https://scryfall.com/card/bok/126/genju-of-the-cedars?utm_source=api>`
@@ -710,7 +710,7 @@
 :mtgtip:`Harbinger of Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19fd23b5-5e57-44dc-8248-c4b9eb71c4f3.jpg?1562875743|https://scryfall.com/card/bok/128/harbinger-of-spring?utm_source=api>`
    Protection from non-Spirit creatures
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Isao, Enlightened Bushi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90334b59-73d8-4459-af59-d7a0539e2cc5.jpg?1562878385|https://scryfall.com/card/bok/129/isao-enlightened-bushi?utm_source=api>`
@@ -730,7 +730,7 @@
 :mtgtip:`Kodama of the Center Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b9264c5-1ecd-48cc-a12d-d4bd8050cfae.jpg?1562877634|https://scryfall.com/card/bok/131/kodama-of-the-center-tree?utm_source=api>`
    Kodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.
 
-   Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)
+   Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with mana value X or less from your graveyard to your hand.)
 
 
 :mtgtip:`Lifegift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27eaba1c-3137-4419-bf90-eb287a7c736e.jpg?1562876107|https://scryfall.com/card/bok/132/lifegift?utm_source=api>`
@@ -738,7 +738,7 @@
 
 
 :mtgtip:`Lifespinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6a83083-f7c6-4ddf-aee9-538a1778697d.jpg?1562879707|https://scryfall.com/card/bok/133/lifespinner?utm_source=api>`
-   |tap|, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.
+   |tap|, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Loam Dweller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f635b35-48c8-43e8-9d74-c01d3c0c74e1.jpg?1562876957|https://scryfall.com/card/bok/134/loam-dweller?utm_source=api>`
@@ -758,7 +758,7 @@
 
 
 :mtgtip:`Nourishing Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a6af212-2a94-4ddf-acdc-d70fafa1c5ee.jpg?1562876878|https://scryfall.com/card/bok/137/nourishing-shoal?utm_source=api>`
-   You may exile a green card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a green card with mana value X from your hand rather than pay this spell's mana cost.
 
    You gain X life.
 
@@ -766,7 +766,7 @@
 :mtgtip:`Patron of the Orochi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d6787c4-170a-45b6-8792-af3ea32ef538.jpg?1562877671|https://scryfall.com/card/bok/138/patron-of-the-orochi?utm_source=api>`
    Snake offering (You may cast this card any time you could cast an instant by sacrificing a Snake and paying the difference in mana costs between this and the sacrificed Snake. Mana cost includes color.)
 
-   |tap|: Untap all Forests and all green creatures. Activate this ability only once each turn.
+   |tap|: Untap all Forests and all green creatures. Activate only once each turn.
 
 
 :mtgtip:`Petalmane Baku<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c7ba032-66d6-41bd-af4f-9853b031a474.jpg?1562878053|https://scryfall.com/card/bok/139/petalmane-baku?utm_source=api>`
@@ -804,7 +804,7 @@
 
 
 :mtgtip:`Splinter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bcc210b-e37e-463c-8fd4-83e5113429a9.jpg?1562877241|https://scryfall.com/card/bok/146/splinter?utm_source=api>`
-   Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library.
+   Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles.
 
 
 :mtgtip:`Traproot Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce65aabe-5fd8-4b62-b13c-12e4bb91aacb.jpg?1562879851|https://scryfall.com/card/bok/147/traproot-kami?utm_source=api>`
@@ -888,7 +888,7 @@
 
 
 :mtgtip:`Slumbering Tora<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e32ac983-a909-4342-882e-f3b7e2e064d8.jpg?1562880377|https://scryfall.com/card/bok/161/slumbering-tora?utm_source=api>`
-   |mana_2|, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's converted mana cost.
+   |mana_2|, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's mana value.
 
 
 :mtgtip:`That Which Was Taken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d80c84ad-171f-42c3-94b4-a9fe25b877e7.jpg?1562880091|https://scryfall.com/card/bok/162/that-which-was-taken?utm_source=api>`

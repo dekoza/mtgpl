@@ -240,7 +240,7 @@
 :mtgtip:`Animate Artifact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb575b27-d2ca-4d90-a650-dc670484f607.jpg?1559591878|https://scryfall.com/card/leb/49/animate-artifact?utm_source=api>`
    Enchant artifact
 
-   As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+   As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value.
 
 
 :mtgtip:`Blue Elemental Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f07e272-6cc7-46d6-ad5c-473d1021c179.jpg?1559591860|https://scryfall.com/card/leb/50/blue-elemental-blast?utm_source=api>`
@@ -398,7 +398,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579|https://scryfall.com/card/leb/80/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Stasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73c76f5d-d866-4eb7-b2d2-fc6ecf982f8e.jpg?1559591716|https://scryfall.com/card/leb/81/stasis?utm_source=api>`
@@ -520,7 +520,7 @@
 
 
 :mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824|https://scryfall.com/card/leb/105/demonic-tutor?utm_source=api>`
-   Search your library for a card, put that card into your hand, then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Drain Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fbc6761-c4fc-4b4c-afb5-94ad4d21bc05.jpg?1559591558|https://scryfall.com/card/leb/106/drain-life?utm_source=api>`
@@ -594,7 +594,7 @@
 
 
 :mtgtip:`Nettling Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/576220c3-1e6b-43f3-a47e-5e8246ee7d46.jpg?1559591551|https://scryfall.com/card/leb/118/nettling-imp?utm_source=api>`
-   |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate this ability only during an opponent's turn, before attackers are declared.
+   |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared.
 
 
 :mtgtip:`Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc78dced-27d2-441a-b63b-32356bc33747.jpg?1559591745|https://scryfall.com/card/leb/119/nightmare?utm_source=api>`
@@ -634,7 +634,7 @@
 :mtgtip:`Sacrifice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8abe7d62-6a99-4d1f-9b81-cff0485997a8.jpg?1559591731|https://scryfall.com/card/leb/125/sacrifice?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Add an amount of |mana_b| equal to the sacrificed creature's converted mana cost.
+   Add an amount of |mana_b| equal to the sacrificed creature's mana value.
 
 
 :mtgtip:`Scathe Zombies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a30abb09-2f80-46cf-a839-b4dac5c23dce.jpg?1587914914|https://scryfall.com/card/leb/126/scathe-zombies?utm_source=api>`
@@ -862,7 +862,7 @@
 
    |mana_r|: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
 
-   |mana_r|\ |mana_r|\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+   |mana_r|\ |mana_r|\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.
 
 
 :mtgtip:`Sedge Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02ec317b-52a6-4490-80e5-a56826b06771.jpg?1559591723|https://scryfall.com/card/leb/173/sedge-troll?utm_source=api>`
@@ -1014,7 +1014,7 @@
 
    Enchanted creature can attack as though it had haste.
 
-   |mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+   |mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn.
 
 
 :mtgtip:`Ironroot Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d9479ae-2b42-4137-9e62-ef4d7fd17d0c.jpg?1559591679|https://scryfall.com/card/leb/204/ironroot-treefolk?utm_source=api>`
@@ -1062,7 +1062,7 @@
 
 
 :mtgtip:`Natural Selection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a594299e-fc3a-4d46-bd58-1a9cf7ddbdd7.jpg?1559591747|https://scryfall.com/card/leb/213/natural-selection?utm_source=api>`
-   Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library.
+   Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.
 
 
 :mtgtip:`Regeneration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42ad2d7f-34a5-4b17-ae11-16b322601d73.jpg?1559591502|https://scryfall.com/card/leb/214/regeneration?utm_source=api>`
@@ -1178,7 +1178,7 @@
 
    At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.
 
 
 :mtgtip:`Conservator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4f54af3-7c85-43da-b0ce-df4a44af4736.jpg?1559591607|https://scryfall.com/card/leb/238/conservator?utm_source=api>`
@@ -1194,7 +1194,7 @@
 
 
 :mtgtip:`Cyclopean Tomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00775f44-fbe6-41ee-9977-d13d1fb5b6fb.jpg?1559591832|https://scryfall.com/card/leb/241/cyclopean-tomb?utm_source=api>`
-   |mana_2|, |tap|: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep.
+   |mana_2|, |tap|: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.
 
    When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.
 
@@ -1204,7 +1204,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae91e07c-ad6d-41d9-bd65-184f92761334.jpg?1559591616|https://scryfall.com/card/leb/243/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Forcefield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34855fa8-959d-45a2-ad91-8b17019755be.jpg?1559591617|https://scryfall.com/card/leb/244/forcefield?utm_source=api>`
@@ -1234,7 +1234,7 @@
 
 
 :mtgtip:`Illusionary Mask<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61ea96b1-4428-4951-88d4-f79338955981.jpg?1559591564|https://scryfall.com/card/leb/250/illusionary-mask?utm_source=api>`
-   |mana_x|: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on |mana_x|. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.
+   |mana_x|: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on |mana_x|. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery.
 
 
 :mtgtip:`Iron Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b08fff47-c3c8-40a9-b3d3-296954aa4ed4.jpg?1559591772|https://scryfall.com/card/leb/251/iron-star?utm_source=api>`
@@ -1250,7 +1250,7 @@
 
 
 :mtgtip:`Jade Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/985164ba-0c30-42b1-a8b6-3be19251359c.jpg?1587915337|https://scryfall.com/card/leb/254/jade-statue?utm_source=api>`
-   |mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
+   |mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat.
 
 
 :mtgtip:`Jayemdae Tome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e48b1c51-c0fd-4c08-8631-80f507b04d28.jpg?1559591769|https://scryfall.com/card/leb/255/jayemdae-tome?utm_source=api>`

@@ -14,7 +14,7 @@
 :mtgtip:`Farfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53f63f40-46f1-4b9e-b447-ff9274f2b926.jpg?1591230179|https://scryfall.com/card/iko/2/farfinder?utm_source=api>`
    Vigilance
 
-   When Farfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Farfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Mysterious Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1591230186|https://scryfall.com/card/iko/3/mysterious-egg?utm_source=api>`
@@ -104,7 +104,7 @@
 :mtgtip:`Lavabrink Venturer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38c0d9d6-c9c7-4169-8106-400445643a1a.jpg?1615646020|https://scryfall.com/card/iko/19/lavabrink-venturer?utm_source=api>`
    As Lavabrink Venturer enters the battlefield, choose odd or even. (Zero is even.)
 
-   Lavabrink Venturer has protection from each converted mana cost of the chosen value.
+   Lavabrink Venturer has protection from each mana value of the chosen quality.
 
 
 :mtgtip:`Light of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcb00599-e082-49b0-88f3-ef91b75595e4.jpg?1591230303|https://scryfall.com/card/iko/20/light-of-hope?utm_source=api>`
@@ -390,7 +390,7 @@
 
 
 :mtgtip:`Shark Typhoon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1da4d4f3-b3cb-4b61-81b8-06ae441c41bf.jpg?1591226502|https://scryfall.com/card/iko/67/shark-typhoon?utm_source=api>`
-   Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell's converted mana cost.
+   Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell's mana value.
 
    Cycling |mana_x|\ |mana_1|\ |mana_u| (|mana_x|\ |mana_1|\ |mana_u|, Discard this card: Draw a card.)
 
@@ -448,7 +448,7 @@
 
 
 :mtgtip:`Call of the Death-Dweller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37e34017-0aeb-4a93-9edf-596bf3597a0e.jpg?1591226650|https://scryfall.com/card/iko/78/call-of-the-death-dweller?utm_source=api>`
-   Return up to two target creature cards with total converted mana cost 3 or less from your graveyard to the battlefield. Put a deathtouch counter on either of them. Then put a menace counter on either of them.
+   Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a deathtouch counter on either of them. Then put a menace counter on either of them.
 
 
 :mtgtip:`Cavern Whisperer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64ae7651-4a5c-41f3-b528-41b9b0f2e5d8.jpg?1591226663|https://scryfall.com/card/iko/79/cavern-whisperer?utm_source=api>`
@@ -500,13 +500,13 @@
 
 
 :mtgtip:`Easy Prey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/312fb6e4-1eb1-4fbb-b7a4-125829a6e96a.jpg?1591226769|https://scryfall.com/card/iko/87/easy-prey?utm_source=api>`
-   Destroy target creature with converted mana cost 2 or less.
+   Destroy target creature with mana value 2 or less.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
 :mtgtip:`Extinction Event<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8725a869-462b-4381-880a-b4bcc63a655b.jpg?1591226783|https://scryfall.com/card/iko/88/extinction-event?utm_source=api>`
-   Choose odd or even. Exile each creature with converted mana cost of the chosen value. (Zero is even.)
+   Choose odd or even. Exile each creature with mana value of the chosen quality. (Zero is even.)
 
 
 :mtgtip:`Gloom Pangolin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f135dd7-2a4f-4c83-9a90-76bcab3cc33d.jpg?1591226794|https://scryfall.com/card/iko/89/gloom-pangolin?utm_source=api>`
@@ -598,7 +598,7 @@
 
 
 :mtgtip:`Whisper Squad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/097eeb32-cfd5-4adb-ac30-d7762e6ea48f.jpg?1591227037|https://scryfall.com/card/iko/105/whisper-squad?utm_source=api>`
-   |mana_1|\ |mana_b|: Search your library for a card named Whisper Squad, put it onto the battlefield tapped, then shuffle your library.
+   |mana_1|\ |mana_b|: Search your library for a card named Whisper Squad, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Zagoth Mamba<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce945f7e-ded9-4819-9313-d50d3aad40fa.jpg?1591227052|https://scryfall.com/card/iko/106/zagoth-mamba?utm_source=api>`
@@ -704,7 +704,7 @@
 :mtgtip:`Lukka, Coppercoat Outcast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5798fdf0-d178-43d9-b821-8f3f654654b4.jpg?1591227292|https://scryfall.com/card/iko/125/lukka-coppercoat-outcast?utm_source=api>`
    +1: Exile the top three cards of your library. Creature cards exiled this way gain "You may cast this card from exile as long as you control a Lukka planeswalker."
 
-   −2: Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card with higher converted mana cost. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+   −2: Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card with higher mana value. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
 
    −7: Each creature you control deals damage equal to its power to each opponent.
 
@@ -860,7 +860,7 @@
 :mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c6b39b9-0615-4899-8de2-b579d5b12f1c.jpg?1591227605|https://scryfall.com/card/iko/152/fertilid?utm_source=api>`
    Fertilid enters the battlefield with two +1/+1 counters on it.
 
-   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.
+   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
 
 
 :mtgtip:`Flycatcher Giraffid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1988e220-d746-46e4-a534-164203e63c14.jpg?1591227617|https://scryfall.com/card/iko/153/flycatcher-giraffid?utm_source=api>`
@@ -924,7 +924,7 @@
 
 
 :mtgtip:`Migration Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d345ca63-16a3-4988-93f5-d0e00e8d6ab0.jpg?1591227775|https://scryfall.com/card/iko/164/migration-path?utm_source=api>`
-   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
@@ -932,7 +932,7 @@
 :mtgtip:`Migratory Greathorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a2a287b-b83f-444f-84f7-e388beb616c2.jpg?1591227787|https://scryfall.com/card/iko/165/migratory-greathorn?utm_source=api>`
    Mutate |mana_2|\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
 
-   Whenever this creature mutates, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Whenever this creature mutates, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Monstrous Step<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/893f300b-a823-4156-90f2-0636e9f499b0.jpg?1591227799|https://scryfall.com/card/iko/166/monstrous-step?utm_source=api>`
@@ -946,7 +946,7 @@
 
 
 :mtgtip:`Mythos of Brokkos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa4fc5b1-6666-4c60-898f-f927212c7923.jpg?1603884849|https://scryfall.com/card/iko/168/mythos-of-brokkos?utm_source=api>`
-   If |mana_u|\ |mana_b| was spent to cast this spell, search your library for a card, put that card into your graveyard, then shuffle your library.
+   If |mana_u|\ |mana_b| was spent to cast this spell, search your library for a card, put that card into your graveyard, then shuffle.
 
    Return up to two permanent cards from your graveyard to your hand.
 
@@ -990,7 +990,7 @@
 
    +1: Create a 3/3 green Beast creature token. Put your choice of a vigilance counter, a reach counter, or a trample counter on it.
 
-   −2: When you cast your next creature spell this turn, search your library for a creature card with lesser converted mana cost, put it onto the battlefield, then shuffle your library.
+   −2: When you cast your next creature spell this turn, search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Wilt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55987bab-c24f-4261-b97e-f0ad4474b0a0.jpg?1591227929|https://scryfall.com/card/iko/176/wilt?utm_source=api>`
@@ -1032,9 +1032,9 @@
 
 
 :mtgtip:`Death's Oasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/112e2cca-bae7-4296-9514-e6058f4b38a5.jpg?1591234683|https://scryfall.com/card/iko/182/deaths-oasis?utm_source=api>`
-   Whenever a nontoken creature you control dies, mill two cards. Then return a creature card with lesser converted mana cost than the creature that died from your graveyard to your hand.
+   Whenever a nontoken creature you control dies, mill two cards. Then return a creature card with lesser mana value than the creature that died from your graveyard to your hand.
 
-   |mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest converted mana cost among creatures you control.
+   |mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest mana value among creatures you control.
 
 
 :mtgtip:`Dire Tactics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0e3974e-3753-4f25-8930-6d96b40332ce.jpg?1591234691|https://scryfall.com/card/iko/183/dire-tactics?utm_source=api>`
@@ -1108,7 +1108,7 @@
 :mtgtip:`Narset of the Ancient Way<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa7b28d8-b835-44a0-978d-cadfd392fff5.jpg?1591228120|https://scryfall.com/card/iko/195/narset-of-the-ancient-way?utm_source=api>`
    +1: You gain 2 life. Add |mana_u|, |mana_r|, or |mana_w|. Spend this mana only to cast a noncreature spell.
 
-   −2: Draw a card, then you may discard a card. When you discard a nonland card this way, Narset of the Ancient Way deals damage equal to that card's converted mana cost to target creature or planeswalker.
+   −2: Draw a card, then you may discard a card. When you discard a nonland card this way, Narset of the Ancient Way deals damage equal to that card's mana value to target creature or planeswalker.
 
    −6: You get an emblem with "Whenever you cast a noncreature spell, this emblem deals 2 damage to any target."
 
@@ -1116,7 +1116,7 @@
 :mtgtip:`Necropanther<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e1ed055-8988-4625-9d57-8ce8a4e04aea.jpg?1591228129|https://scryfall.com/card/iko/196/necropanther?utm_source=api>`
    Mutate |mana_2|\ |mana_wb|\ |mana_wb| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
 
-   Whenever this creature mutates, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Whenever this creature mutates, return target creature card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Nethroi, Apex of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ca6eb5a-8bc9-4091-bcfb-b207f0afd188.jpg?1591228139|https://scryfall.com/card/iko/197/nethroi-apex-of-death?utm_source=api>`
@@ -1226,7 +1226,7 @@
 
    Flying, first strike
 
-   Whenever this creature mutates, you may cast target noncreature card with converted mana cost 3 or less from your graveyard without paying its mana cost.
+   Whenever this creature mutates, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost.
 
 
 :mtgtip:`Whirlwind of Thought<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1591228308|https://scryfall.com/card/iko/215/whirlwind-of-thought?utm_source=api>`
@@ -1256,13 +1256,13 @@
 :mtgtip:`Fiend Artisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1591228355|https://scryfall.com/card/iko/220/fiend-artisan?utm_source=api>`
    Fiend Artisan gets +1/+1 for each creature card in your graveyard.
 
-   |mana_x|\ |mana_bg|, |tap|, Sacrifice another creature: Search your library for a creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+   |mana_x|\ |mana_bg|, |tap|, Sacrifice another creature: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
 :mtgtip:`Gyruda, Doom of Depths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97eb1804-6fd8-4917-af36-87fdfce39d3a.jpg?1591228372|https://scryfall.com/card/iko/221/gyruda-doom-of-depths?utm_source=api>`
-   Companion — Your starting deck contains only cards with even converted mana costs. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
-   When Gyruda enters the battlefield, each player mills four cards. Put a creature card with an even converted mana cost from among the milled cards onto the battlefield under your control.
+   When Gyruda enters the battlefield, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.
 
 
 :mtgtip:`Jegantha, the Wellspring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d52e527-3835-4350-8c01-0f2d5d623b9c.jpg?1600967546|https://scryfall.com/card/iko/222/jegantha-the-wellspring?utm_source=api>`
@@ -1286,17 +1286,17 @@
 
 
 :mtgtip:`Keruga, the Macrosage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1591228418|https://scryfall.com/card/iko/225/keruga-the-macrosage?utm_source=api>`
-   Companion — Your starting deck contains only cards with converted mana cost 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
-   When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with converted mana cost 3 or greater.
+   When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with mana value 3 or greater.
 
 
 :mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1616182245|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
-   Companion — Each permanent card in your starting deck has converted mana cost 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Lifelink
 
-   During each of your turns, you may cast one permanent spell with converted mana cost 2 or less from your graveyard.
+   During each of your turns, you may cast one permanent spell with mana value 2 or less from your graveyard.
 
 
 :mtgtip:`Lutri, the Spellchaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1591228440|https://scryfall.com/card/iko/227/lutri-the-spellchaser?utm_source=api>`
@@ -1308,9 +1308,9 @@
 
 
 :mtgtip:`Obosh, the Preypiercer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1591228450|https://scryfall.com/card/iko/228/obosh-the-preypiercer?utm_source=api>`
-   Companion — Your starting deck contains only cards with odd converted mana costs and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
-   If a source you control with an odd converted mana cost would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+   If a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
 
 
 :mtgtip:`Proud Wildbonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4876e17-a206-4351-9c0b-0845db4569a3.jpg?1591605265|https://scryfall.com/card/iko/229/proud-wildbonder?utm_source=api>`
@@ -1420,7 +1420,7 @@
 :mtgtip:`Bonders' Enclave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fe9388d-b1ee-4f35-9fbd-5f504528b398.jpg?1591228614|https://scryfall.com/card/iko/245/bonders-enclave?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_3|, |tap|: Draw a card. Activate this ability only if you control a creature with power 4 or greater.
+   |mana_3|, |tap|: Draw a card. Activate only if you control a creature with power 4 or greater.
 
 
 :mtgtip:`Dismal Backwater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9de0981e-54fc-4919-96a4-a9608a5452fc.jpg?1591228624|https://scryfall.com/card/iko/246/dismal-backwater?utm_source=api>`
@@ -1432,7 +1432,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e3d6745-8904-4905-a98f-d43f18b51d6d.jpg?1615738130|https://scryfall.com/card/iko/247/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Indatha Triome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b74bb81-fb9a-40e5-a941-e517430b52f5.jpg?1591228641|https://scryfall.com/card/iko/248/indatha-triome?utm_source=api>`

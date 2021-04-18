@@ -30,7 +30,7 @@
 
 
 :mtgtip:`Explore the Vastlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1617901976|https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api>`
-   Each player looks at the top five cards of their library, reveals a land card and/or an instant or sorcery card from among them, then puts the cards they revealed this way into their hand and the rest on the bottom of their library in a random order. Each player gains 3 life.
+   Each player looks at the top five cards of their library and may reveal a land card and/or an instant or sorcery card from among them. Each player puts the cards they revealed this way into their hand and the rest on the bottom of their library in a random order. Each player gains 3 life.
 
 
 :mtgtip:`Academic Probation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05521edf-f47f-4e7a-aec5-cdc4ae7368c2.jpg?1617444412|https://scryfall.com/card/stx/7/academic-probation?utm_source=api>`
@@ -110,7 +110,7 @@
 
 
 :mtgtip:`Leonin Lightscribe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a465d7b-398c-444b-9eae-331ea2513f6d.jpg?1618272917|https://scryfall.com/card/stx/20/leonin-lightscribe?utm_source=api>`
-   Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures you control get +1/+1 until end of turn,
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures you control get +1/+1 until end of turn.
 
 
 :mtgtip:`Mavinda, Students' Advocate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1617374875|https://scryfall.com/card/stx/21/mavinda-students-advocate?utm_source=api>`
@@ -148,7 +148,7 @@
 
 
 :mtgtip:`Show of Confidence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65837f39-deb7-4a4b-8b67-125a71cd0d45.jpg?1617311686|https://scryfall.com/card/stx/28/show-of-confidence?utm_source=api>`
-   When you cast this spell, copy it for each other instant or sorcery spell you've cast this turn. You may choose new targets for the copies.
+   When you cast this spell, copy it for each other instant and sorcery spell you've cast this turn. You may choose new targets for the copies.
 
    Put a +1/+1 counter on target creature. It gains vigilance until end of turn.
 
@@ -280,7 +280,7 @@
 
 
 :mtgtip:`Reject<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d77f0731-fb40-4dc2-8530-afcb5ce1f27f.jpg?1617446216|https://scryfall.com/card/stx/50/reject?utm_source=api>`
-   Counter target creature or planeswalker spell unless its controller pays |mana_3|. If that spell is countered this way, exile it instead of putting into its owner's graveyard.
+   Counter target creature or planeswalker spell unless its controller pays |mana_3|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
 :mtgtip:`Resculpt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1617446295|https://scryfall.com/card/stx/51/resculpt?utm_source=api>`
@@ -490,7 +490,7 @@
 
 
 :mtgtip:`Umbral Juke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fbd0921-e953-492b-ad73-c8a8bfaa750b.jpg?1617333742|https://scryfall.com/card/stx/89/umbral-juke?utm_source=api>`
-   Choose one: —
+   Choose one —
 
    • Target player sacrifices a creature or planeswalker.
 
@@ -576,7 +576,7 @@
 
 
 :mtgtip:`Grinning Ignus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfa04897-6438-45e5-a10b-2e8afaf2b9eb.jpg?1617448083|https://scryfall.com/card/stx/104/grinning-ignus?utm_source=api>`
-   |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate this ability only any time you could cast a sorcery.
+   |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate only as a sorcery.
 
 
 :mtgtip:`Hall Monitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02fdc551-0b22-49f4-8765-143ad82f16a3.jpg?1617221503|https://scryfall.com/card/stx/105/hall-monitor?utm_source=api>`
@@ -706,7 +706,7 @@
 
 
 :mtgtip:`Ecological Appreciation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/115f3d72-1aaf-4237-91b9-389256e5e5c8.jpg?1617219410|https://scryfall.com/card/stx/128/ecological-appreciation?utm_source=api>`
-   Search your library and graveyard for up to four creature cards with different names that each have mana value X or less and reveal them. An opponent choses two of those cards. Shuffle the chosen cards into your library and put the rest onto the battlefield. Exile Ecological Appreciation.
+   Search your library and graveyard for up to four creature cards with different names that each have mana value X or less and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest onto the battlefield. Exile Ecological Appreciation.
 
 
 :mtgtip:`Emergent Sequence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04a81975-5f0e-4593-a2da-b9689f9a985f.jpg?1617449481|https://scryfall.com/card/stx/129/emergent-sequence?utm_source=api>`
@@ -822,7 +822,7 @@
 
 
 :mtgtip:`Search for Blex<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1617583842|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
-   Look at the top five cards of your library. You may put any number of them into your hand and the rest into your graveyard. You lose 3 life for each card put into your hand this way.
+   Look at the top five cards of your library. You may put any number of them into your hand and the rest into your graveyard. You lose 3 life for each card you put into your hand this way.
 
 
 :mtgtip:`Extus, Oriq Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba09360a-067e-48a5-bdc5-a19fd066a785.jpg?1617453022|https://scryfall.com/card/stx/149/extus-oriq-overlord-awaken-the-blood-avatar?utm_source=api>`
@@ -844,7 +844,7 @@
 
 
 :mtgtip:`Revel in Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/d/0dba25e3-2b4f-45d4-965f-3834bcb359ee.jpg?1617453074|https://scryfall.com/card/stx/150/flamescroll-celebrant-revel-in-silence?utm_source=api>`
-   You opponents can't cast spells or activate planeswalkers' loyalty abilities this turn.
+   Your opponents can't cast spells or activate planeswalkers' loyalty abilities this turn.
 
    Exile Revel in Silence.
 
@@ -874,7 +874,7 @@
 :mtgtip:`Mila, Crafty Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e4e0f81-f92b-4a3a-bb29-adcc3de211b4.jpg?1617363020|https://scryfall.com/card/stx/153/mila-crafty-companion-lukka-wayward-bonder?utm_source=api>`
    Whenever an opponent attacks one or more planeswalkers you control, put a loyalty counter on each planeswalker you control.
 
-   Whenever a permanent you control becomes the target of a spell or ability and opponent controls, you may draw a card.
+   Whenever a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.
 
 
 :mtgtip:`Lukka, Wayward Bonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/e/8e4e0f81-f92b-4a3a-bb29-adcc3de211b4.jpg?1617363020|https://scryfall.com/card/stx/153/mila-crafty-companion-lukka-wayward-bonder?utm_source=api>`
@@ -964,7 +964,7 @@
 
 
 :mtgtip:`Nassari, Dean of Expression<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/c/8cfd0887-0c83-4b33-a85e-8b8ec5bf758d.jpg?1617453475|https://scryfall.com/card/stx/160/uvilda-dean-of-perfection-nassari-dean-of-expression?utm_source=api>`
-   At the beginning of your upkeep, exile the top card of each opponent's library. Until end of turn, you may cast spells from among those exiled cards, and you many spend mana as though it were mana of any color to cast those spells.
+   At the beginning of your upkeep, exile the top card of each opponent's library. Until end of turn, you may cast spells from among those exiled cards, and you may spend mana as though it were mana of any color to cast those spells.
 
    Whenever you cast a spell from exile, put a +1/+1 counter on Nassari, Dean of Expression.
 
@@ -1078,7 +1078,7 @@
 
 
 :mtgtip:`Elemental Expressionist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7473db42-905b-4fda-af8c-fd24d906b642.jpg?1617583490|https://scryfall.com/card/stx/181/elemental-expressionist?utm_source=api>`
-   Magecraft — Whenever you cast or copy an instant or sorcery spell, choose target creature you control. Until end of turn, it gains "If this creature would leave the battlefield, exile it instead of putting it anywhere else" and "When you exile this creature, create a 4/4 blue and red Elemental creature token." (Each instance of that ability triggers separately.)
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, choose target creature you control. Until end of turn, it gains "If this creature would leave the battlefield, exile it instead of putting it anywhere else" and "When this creature is put into exile, create a 4/4 blue and red Elemental creature token." (Each instance of that ability triggers separately.)
 
 
 :mtgtip:`Elemental Masterpiece<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4331a7a6-e98e-4517-b0f9-ace379426a94.jpg?1617225898|https://scryfall.com/card/stx/182/elemental-masterpiece?utm_source=api>`

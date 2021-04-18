@@ -2,6 +2,13 @@
 Spis zmian
 ***********
 
+2021-04-19
+   * Początek dużej aktualizacji słownictwa - "converted mana cost" zmienił się w "mana value" oraz
+     "shuffle your library" skrócono do "shuffle". Z tego powodu
+     sporo napisów ma zmienione źródła, przez co narzędzia oznaczają takie tłumaczenie jako "do sprawdzenia".
+     To z kolei skutkuje usunięciem takiego tłumaczenia z plików wynikowych. Sporo jest już poprawione, ale ponieważ
+     zmianą dotknięte są dosłownie wszystkie dodatki, prace jeszcze trwają.
+
 2021-04-14
    * Ninth Edition - 100%
    * Eighth Edition - 100%

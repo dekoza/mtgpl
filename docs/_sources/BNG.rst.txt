@@ -132,7 +132,7 @@
 
 
 :mtgtip:`Plea for Guidance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d1d6d76-f399-475a-b5cd-544bd7c6d967.jpg?1593091549|https://scryfall.com/card/bng/24/plea-for-guidance?utm_source=api>`
-   Search your library for up to two enchantment cards, reveal them, and put them into your hand. Then shuffle your library.
+   Search your library for up to two enchantment cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Revoke Existence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/597916e4-0294-4911-98e0-6ac5993533ae.jpg?1593091556|https://scryfall.com/card/bng/25/revoke-existence?utm_source=api>`
@@ -302,7 +302,7 @@
 
 
 :mtgtip:`Vortex Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb7ca2b-c5de-4c8a-91cb-8dd8ab5387d8.jpg?1593091827|https://scryfall.com/card/bng/56/vortex-elemental?utm_source=api>`
-   |mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries.
+   |mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle.
 
    |mana_3|\ |mana_u|\ |mana_u|: Target creature blocks Vortex Elemental this turn if able.
 
@@ -428,7 +428,7 @@
 
 
 :mtgtip:`Pain Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ce8891f-b44c-4be4-878e-9fc45a9dc9cb.jpg?1593092076|https://scryfall.com/card/bng/80/pain-seer?utm_source=api>`
-   Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.
+   Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's mana value.
 
 
 :mtgtip:`Sanguimancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb129def-4055-4b12-9944-39406b451553.jpg?1593092085|https://scryfall.com/card/bng/81/sanguimancy?utm_source=api>`
@@ -528,7 +528,7 @@
 :mtgtip:`Forgestoker Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fd44170-ded7-4895-8950-bfa9d19e471d.jpg?1593092247|https://scryfall.com/card/bng/98/forgestoker-dragon?utm_source=api>`
    Flying
 
-   |mana_1|\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.
+   |mana_1|\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate only if Forgestoker Dragon is attacking.
 
 
 :mtgtip:`Impetuous Sunchaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6d4c13b-95ef-49df-b349-26e0fec109ad.jpg?1593092255|https://scryfall.com/card/bng/99/impetuous-sunchaser?utm_source=api>`
@@ -652,7 +652,7 @@
 :mtgtip:`Graverobber Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41810472-ba24-44b6-886c-f8906ff0a7df.jpg?1593092470|https://scryfall.com/card/bng/122/graverobber-spider?utm_source=api>`
    Reach
 
-   |mana_3|\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.
+   |mana_3|\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate only once each turn.
 
 
 :mtgtip:`Hero of Leina Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f022c0c3-6331-47be-b07f-9768930afd3a.jpg?1593092480|https://scryfall.com/card/bng/123/hero-of-leina-tower?utm_source=api>`
@@ -706,7 +706,7 @@
 
 
 :mtgtip:`Peregrination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03835e3e-9fd1-47c7-86a5-a5481420f2d3.jpg?1593092579|https://scryfall.com/card/bng/132/peregrination?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Shuffle your library, then scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Shuffle, then scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
 :mtgtip:`Pheres-Band Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80856020-f569-4d73-8c44-7b48535a69e8.jpg?1593092589|https://scryfall.com/card/bng/133/pheres-band-raiders?utm_source=api>`
@@ -802,7 +802,7 @@
 
    As long as your devotion to green and white is less than seven, Karametra isn't a creature.
 
-   Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library.
+   Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Kiora, the Crashing Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f77ac7fa-718d-425f-a0aa-2f8e2bfc0950.jpg?1593092760|https://scryfall.com/card/bng/149/kiora-the-crashing-wave?utm_source=api>`

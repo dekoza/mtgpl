@@ -90,7 +90,7 @@
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/061df0a2-1967-4ddd-84e3-3ecf3af98f6b.jpg?1593812878|https://scryfall.com/card/mm3/17/path-to-exile?utm_source=api>`
-   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Pitfall Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/109a4596-552a-45dc-88a6-41810d078d66.jpg?1593812890|https://scryfall.com/card/mm3/18/pitfall-trap?utm_source=api>`
@@ -100,7 +100,7 @@
 
 
 :mtgtip:`Ranger of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c3ba78b-c66a-4a93-abc6-18b63779eda3.jpg?1593812901|https://scryfall.com/card/mm3/19/ranger-of-eos?utm_source=api>`
-   When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Restoration Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b958bcdd-d0ea-4ae0-9dd0-e6de5cf74128.jpg?1593812909|https://scryfall.com/card/mm3/20/restoration-angel?utm_source=api>`
@@ -204,7 +204,7 @@
 
 
 :mtgtip:`Gifts Ungiven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1593813064|https://scryfall.com/card/mm3/40/gifts-ungiven?utm_source=api>`
-   Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+   Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
 
 
 :mtgtip:`Grasp of Phantoms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86f4b833-0352-4dba-a3e7-6570cbeaad4f.jpg?1593813073|https://scryfall.com/card/mm3/41/grasp-of-phantoms?utm_source=api>`
@@ -224,7 +224,7 @@
 
 
 :mtgtip:`Mystical Teachings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9f3a4e2-b3d2-4803-bcaf-5d63bff0feb5.jpg?1593813097|https://scryfall.com/card/mm3/44/mystical-teachings?utm_source=api>`
-   Search your library for an instant card or a card with flash, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
 
    Flashback |mana_5|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
@@ -314,7 +314,7 @@
 
 
 :mtgtip:`Corpse Connoisseur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f4ef04b-5434-480e-82a1-118ed1ff551f.jpg?1593813217|https://scryfall.com/card/mm3/61/corpse-connoisseur?utm_source=api>`
-   When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.
+   When Corpse Connoisseur enters the battlefield, you may search your library for a creature card, put that card into your graveyard, then shuffle.
 
    Unearth |mana_3|\ |mana_b| (|mana_3|\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
 
@@ -388,7 +388,7 @@
 
 
 :mtgtip:`Inquisition of Kozilek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.jpg?1593813320|https://scryfall.com/card/mm3/75/inquisition-of-kozilek?utm_source=api>`
-   Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+   Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.
 
 
 :mtgtip:`Liliana of the Veil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7125336c-4c2d-47a0-8caf-b755f4954176.jpg?1593813327|https://scryfall.com/card/mm3/76/liliana-of-the-veil?utm_source=api>`
@@ -602,7 +602,7 @@
 :mtgtip:`Arachnus Spinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.jpg?1593813649|https://scryfall.com/card/mm3/117/arachnus-spinner?utm_source=api>`
    Reach
 
-   Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.
+   Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle.
 
 
 :mtgtip:`Arachnus Web<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26278000-4b73-478f-8ee5-6dd8692e53d6.jpg?1593813666|https://scryfall.com/card/mm3/118/arachnus-web?utm_source=api>`
@@ -692,7 +692,7 @@
 
    • Target player shuffles their graveyard into their library.
 
-   • Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+   • Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Revive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b365778-1678-4c1f-ae32-7671a1429a3e.jpg?1593813876|https://scryfall.com/card/mm3/133/revive?utm_source=api>`
@@ -726,7 +726,7 @@
 
 
 :mtgtip:`Sylvan Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7101ef33-90fa-4c31-994b-478f7def4e1b.jpg?1593813966|https://scryfall.com/card/mm3/140/sylvan-ranger?utm_source=api>`
-   When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Tarmogoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b49dfb7-dbe7-4a2b-b9de-c620a0db2e47.jpg?1593813980|https://scryfall.com/card/mm3/141/tarmogoyf?utm_source=api>`
@@ -760,7 +760,7 @@
 :mtgtip:`Abrupt Decay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8e328c6-3a84-49cf-a1a3-1d1e5373d274.jpg?1593814035|https://scryfall.com/card/mm3/146/abrupt-decay?utm_source=api>`
    This spell can't be countered.
 
-   Destroy target nonland permanent with converted mana cost 3 or less.
+   Destroy target nonland permanent with mana value 3 or less.
 
 
 :mtgtip:`Advent of the Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba3b5e35-5448-4115-a9c5-6ac14013c904.jpg?1593814046|https://scryfall.com/card/mm3/147/advent-of-the-wurm?utm_source=api>`
@@ -900,7 +900,7 @@
 
 
 :mtgtip:`Mystic Genesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b93af3-f7b9-4b66-8a66-366134ebb896.jpg?1593814476|https://scryfall.com/card/mm3/174/mystic-genesis?utm_source=api>`
-   Counter target spell. Create an X/X green Ooze creature token, where X is that spell's converted mana cost.
+   Counter target spell. Create an X/X green Ooze creature token, where X is that spell's mana value.
 
 
 :mtgtip:`Niv-Mizzet, Dracogenius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e949d80-d2c5-4ed1-9e53-c98a3b2749ff.jpg?1593814484|https://scryfall.com/card/mm3/175/niv-mizzet-dracogenius?utm_source=api>`
@@ -1058,7 +1058,7 @@
 :mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/253e19db-28a1-4909-b235-e02631a38c35.jpg?1593814766|https://scryfall.com/card/mm3/204/zur-the-enchanter?utm_source=api>`
    Flying
 
-   Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.
+   Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Aethertow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b34ecd-6dd4-49b0-ab49-3c11f70e0c4a.jpg?1593814774|https://scryfall.com/card/mm3/205/aethertow?utm_source=api>`
@@ -1174,7 +1174,7 @@
 
 
 :mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974|https://scryfall.com/card/mm3/229/arid-mesa?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Azorius Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980|https://scryfall.com/card/mm3/230/azorius-guildgate?utm_source=api>`
@@ -1234,11 +1234,11 @@
 
 
 :mtgtip:`Marsh Flats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/659039ed-c269-4c2d-bce6-91d143f0618e.jpg?1593815053|https://scryfall.com/card/mm3/239/marsh-flats?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Misty Rainforest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5cd0d88-53b5-4560-bce0-910b3b7be946.jpg?1593815060|https://scryfall.com/card/mm3/240/misty-rainforest?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Orzhov Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/befb4f13-77b0-4bd6-9bdd-c65dd08399a6.jpg?1593815067|https://scryfall.com/card/mm3/241/orzhov-guildgate?utm_source=api>`
@@ -1260,7 +1260,7 @@
 
 
 :mtgtip:`Scalding Tarn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2661d4a-450a-433a-b893-b1ee15982494.jpg?1593815090|https://scryfall.com/card/mm3/244/scalding-tarn?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Seaside Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.jpg?1593815097|https://scryfall.com/card/mm3/245/seaside-citadel?utm_source=api>`
@@ -1288,5 +1288,5 @@
 
 
 :mtgtip:`Verdant Catacombs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15faa763-b897-4e86-b094-73f3236291a9.jpg?1593815136|https://scryfall.com/card/mm3/249/verdant-catacombs?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.
 

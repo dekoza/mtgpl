@@ -40,7 +40,7 @@
 
 
 :mtgtip:`Auriok Salvagers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/befb996b-1da6-41a3-8d9a-a45c2353c401.jpg?1598303109|https://scryfall.com/card/2xm/6/auriok-salvagers?utm_source=api>`
-   |mana_1|\ |mana_w|: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+   |mana_1|\ |mana_w|: Return target artifact card with mana value 1 or less from your graveyard to your hand.
 
 
 :mtgtip:`Austere Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d36e87ca-71e1-43d2-841f-b01a58fe27f0.jpg?1598303136|https://scryfall.com/card/2xm/7/austere-command?utm_source=api>`
@@ -50,9 +50,9 @@
 
    • Destroy all enchantments.
 
-   • Destroy all creatures with converted mana cost 3 or less.
+   • Destroy all creatures with mana value 3 or less.
 
-   • Destroy all creatures with converted mana cost 4 or greater.
+   • Destroy all creatures with mana value 4 or greater.
 
 
 :mtgtip:`Avacyn, Angel of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0519776-3d86-4f7d-9c3b-71c1dfbf7e12.jpg?1598303166|https://scryfall.com/card/2xm/8/avacyn-angel-of-hope?utm_source=api>`
@@ -116,7 +116,7 @@
 
 
 :mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95bba319-5f66-4085-9f2a-ab71f727ab64.jpg?1599708011|https://scryfall.com/card/2xm/20/land-tax?utm_source=api>`
-   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.
+   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Leonin Abunas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14397b59-ff0d-4838-92c3-9728bf6b0af5.jpg?1599824768|https://scryfall.com/card/2xm/21/leonin-abunas?utm_source=api>`
@@ -138,7 +138,7 @@
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9d36855-c38a-4bba-a642-cff3f81e057e.jpg?1599709071|https://scryfall.com/card/2xm/25/path-to-exile?utm_source=api>`
-   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Puresteel Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8abcc2e6-82e7-4cc5-8956-05dd617e3e7d.jpg?1599709277|https://scryfall.com/card/2xm/26/puresteel-paladin?utm_source=api>`
@@ -172,7 +172,7 @@
 
 
 :mtgtip:`Stoneforge Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d3473d0-b46f-41f5-ac1e-ba217f7747d4.jpg?1599710314|https://scryfall.com/card/2xm/31/stoneforge-mystic?utm_source=api>`
-   When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+   When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 
    |mana_1|\ |mana_w|, |tap|: You may put an Equipment card from your hand onto the battlefield.
 
@@ -180,7 +180,7 @@
 :mtgtip:`Stonehewer Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0efda05d-01ea-4478-b075-00a31d7037f8.jpg?1599710515|https://scryfall.com/card/2xm/32/stonehewer-giant?utm_source=api>`
    Vigilance
 
-   |mana_1|\ |mana_w|, |tap|: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.
+   |mana_1|\ |mana_w|, |tap|: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle.
 
 
 :mtgtip:`Strength of Arms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6843952d-e633-4992-99d5-4ef8b87494c8.jpg?1599710714|https://scryfall.com/card/2xm/33/strength-of-arms?utm_source=api>`
@@ -222,7 +222,7 @@
 
 
 :mtgtip:`Arcum Dagsson<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5ecf811-2efc-4fa6-9af8-ef09f559ec1a.jpg?1598303734|https://scryfall.com/card/2xm/41/arcum-dagsson?utm_source=api>`
-   |tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle their library.
+   |tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Argivian Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f14b3a6-5490-4a50-9449-542e23f1d6b1.jpg?1598303751|https://scryfall.com/card/2xm/42/argivian-restoration?utm_source=api>`
@@ -350,7 +350,7 @@
 :mtgtip:`Reshape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f8a8f14-bced-4388-b263-5e70431b191f.jpg?1598304756|https://scryfall.com/card/2xm/64/reshape?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact.
 
-   Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Riddlesmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb1aab84-5e71-496f-8c46-ecd31fb97d27.jpg?1598304226|https://scryfall.com/card/2xm/65/riddlesmith?utm_source=api>`
@@ -358,7 +358,7 @@
 
 
 :mtgtip:`Rush of Knowledge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccca07a9-5c24-490f-8871-b125cb337e2c.jpg?1598304240|https://scryfall.com/card/2xm/66/rush-of-knowledge?utm_source=api>`
-   Draw cards equal to the highest converted mana cost among permanents you control.
+   Draw cards equal to the highest mana value among permanents you control.
 
 
 :mtgtip:`Sentinel of the Pearl Trident<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a19284d8-4404-4032-8dee-3c7af2819045.jpg?1598304261|https://scryfall.com/card/2xm/67/sentinel-of-the-pearl-trident?utm_source=api>`
@@ -392,7 +392,7 @@
 
 
 :mtgtip:`Treasure Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0ea2fcd-f090-4545-a055-30d7980ad66f.jpg?1598304392|https://scryfall.com/card/2xm/73/treasure-mage?utm_source=api>`
-   When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+   When Treasure Mage enters the battlefield, you may search your library for an artifact card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Vedalken Infuser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a52b9d11-0aab-4300-90b6-c8b56de36ec3.jpg?1598304409|https://scryfall.com/card/2xm/74/vedalken-infuser?utm_source=api>`
@@ -408,7 +408,7 @@
 
 
 :mtgtip:`Ad Nauseam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9f2c53e-ff58-4aa8-89a6-4f45628cc571.jpg?1598306470|https://scryfall.com/card/2xm/76/ad-nauseam?utm_source=api>`
-   Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.
+   Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. You may repeat this process any number of times.
 
 
 :mtgtip:`Beacon of Unrest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06bd199b-1855-4208-8bf7-8930e91ab139.jpg?1598304450|https://scryfall.com/card/2xm/77/beacon-of-unrest?utm_source=api>`
@@ -432,7 +432,7 @@
 
 
 :mtgtip:`Dark Confidant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0d88239-43dc-46b8-8d46-626e2f8f1070.jpg?1598304507|https://scryfall.com/card/2xm/81/dark-confidant?utm_source=api>`
-   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
 
 
 :mtgtip:`Death's Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5526ff6e-c079-4ad4-ac8d-5e26ecacf50d.jpg?1598304517|https://scryfall.com/card/2xm/82/deaths-shadow?utm_source=api>`
@@ -440,7 +440,7 @@
 
 
 :mtgtip:`Defiant Salvager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f113f11-9b87-4219-a106-9f6595d85b81.jpg?1598304537|https://scryfall.com/card/2xm/83/defiant-salvager?utm_source=api>`
-   Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery.
+   Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate only as a sorcery.
 
 
 :mtgtip:`Dire Fleet Hoarder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6f86b94-2a86-4120-97cd-ec2c89d106cb.jpg?1598306532|https://scryfall.com/card/2xm/84/dire-fleet-hoarder?utm_source=api>`
@@ -470,7 +470,7 @@
 
 
 :mtgtip:`Driver of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef46f4e7-ec58-4542-94b3-785bc46d26ea.jpg?1598304676|https://scryfall.com/card/2xm/90/driver-of-the-dead?utm_source=api>`
-   When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   When Driver of the Dead dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Drown in Sorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe1e8a62-5b8c-432a-bb8f-c09048c51e0b.jpg?1598304687|https://scryfall.com/card/2xm/91/drown-in-sorrow?utm_source=api>`
@@ -482,15 +482,15 @@
 
 
 :mtgtip:`Fatal Push<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715|https://scryfall.com/card/2xm/93/fatal-push?utm_source=api>`
-   Destroy target creature if it has converted mana cost 2 or less.
+   Destroy target creature if it has mana value 2 or less.
 
-   Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.
+   Revolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.
 
 
 :mtgtip:`Geth, Lord of the Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/920d56a4-fc94-43d8-9d65-361b66172a5f.jpg?1598304744|https://scryfall.com/card/2xm/94/geth-lord-of-the-vault?utm_source=api>`
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-   |mana_x|\ |mana_b|: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards.
+   |mana_x|\ |mana_b|: Put target artifact or creature card with mana value X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards.
 
 
 :mtgtip:`Glaze Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07f9a946-f961-4e19-a30a-6e1a95683340.jpg?1598304774|https://scryfall.com/card/2xm/95/glaze-fiend?utm_source=api>`
@@ -550,7 +550,7 @@
 
 
 :mtgtip:`Skirsdag High Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01dd19e9-23ff-4854-bbce-ce0a00a7b5b4.jpg?1599705938|https://scryfall.com/card/2xm/106/skirsdag-high-priest?utm_source=api>`
-   Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate this ability only if a creature died this turn.
+   Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate only if a creature died this turn.
 
 
 :mtgtip:`Skithiryx, the Blight Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cab61c7e-e00a-413b-a0b5-7718b479582f.jpg?1599705958|https://scryfall.com/card/2xm/107/skithiryx-the-blight-dragon?utm_source=api>`
@@ -580,7 +580,7 @@
 :mtgtip:`Twisted Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffae38ec-7712-4701-b072-9f962ec9c259.jpg?1599706072|https://scryfall.com/card/2xm/111/twisted-abomination?utm_source=api>`
    |mana_b|: Regenerate Twisted Abomination.
 
-   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)
+   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Vampire Hexmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97ec2e55-fa60-4ee1-b9c0-e6b84939697b.jpg?1599706094|https://scryfall.com/card/2xm/112/vampire-hexmage?utm_source=api>`
@@ -622,7 +622,7 @@
 
 
 :mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/779a130b-1d23-4a20-9914-dbdc2268ae3b.jpg?1599706228|https://scryfall.com/card/2xm/119/bloodshot-trainee?utm_source=api>`
-   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater.
 
 
 :mtgtip:`Brimstone Volley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94fa0577-f02a-4d24-835b-fef8d849b37a.jpg?1599706255|https://scryfall.com/card/2xm/120/brimstone-volley?utm_source=api>`
@@ -670,7 +670,7 @@
 
 
 :mtgtip:`Godo, Bandit Warlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/123d1368-fbbe-48f8-9b44-d51946529322.jpg?1599706406|https://scryfall.com/card/2xm/128/godo-bandit-warlord?utm_source=api>`
-   When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.
+   When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card, put it onto the battlefield, then shuffle.
 
    Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.
 
@@ -684,7 +684,7 @@
 
 
 :mtgtip:`Imperial Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d915eebf-1617-4339-b8b0-72b313c6dab2.jpg?1599706486|https://scryfall.com/card/2xm/131/imperial-recruiter?utm_source=api>`
-   When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library.
+   When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Ion Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f02fc34-a2f6-456a-a8e5-da5a7327f954.jpg?1599706499|https://scryfall.com/card/2xm/132/ion-storm?utm_source=api>`
@@ -692,7 +692,7 @@
 
 
 :mtgtip:`Kazuul's Toll Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7377e5a7-b479-48cc-8fbb-01af87c62566.jpg?1599706517|https://scryfall.com/card/2xm/133/kazuuls-toll-collector?utm_source=api>`
-   |mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.
+   |mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate only as a sorcery.
 
 
 :mtgtip:`Kuldotha Flamefiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/226e1d72-4ed0-4db6-ac0a-f4631db986a9.jpg?1599706527|https://scryfall.com/card/2xm/134/kuldotha-flamefiend?utm_source=api>`
@@ -750,7 +750,7 @@
 
 
 :mtgtip:`Temur Battle Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88258dee-b5c0-4472-86d6-cc534c32fe27.jpg?1599706737|https://scryfall.com/card/2xm/146/temur-battle-rage?utm_source=api>`
-   Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+   Target creature gains double strike until end of turn.
 
    Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.
 
@@ -780,7 +780,7 @@
 
 
 :mtgtip:`Ancient Stirrings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726039a0-6c0d-48ef-9b42-99de5d4e41d2.jpg?1599706855|https://scryfall.com/card/2xm/151/ancient-stirrings?utm_source=api>`
-   Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)
+   Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order.
 
 
 :mtgtip:`Avenger of Zendikar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e609d255-a15a-482a-95f2-1b9ef1076652.jpg?1599706871|https://scryfall.com/card/2xm/152/avenger-of-zendikar?utm_source=api>`
@@ -818,7 +818,7 @@
 :mtgtip:`Chord of Calling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dac257a9-39bf-4185-9d2e-f80f0848a96a.jpg?1599707002|https://scryfall.com/card/2xm/158/chord-of-calling?utm_source=api>`
    Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)
 
-   Search your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Clear Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7ff66fc-bd38-4607-b394-8c4e09affec8.jpg?1599707021|https://scryfall.com/card/2xm/159/clear-shot?utm_source=api>`
@@ -832,7 +832,7 @@
 :mtgtip:`Crop Rotation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4249cc64-f75b-4c76-a41a-5b25873c74bc.jpg?1599707090|https://scryfall.com/card/2xm/161/crop-rotation?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for a land card, put that card onto the battlefield, then shuffle your library.
+   Search your library for a land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Crushing Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fa22a85-1c92-48f3-921a-867a73a6bbf7.jpg?1613437203|https://scryfall.com/card/2xm/162/crushing-vines?utm_source=api>`
@@ -858,7 +858,7 @@
 :mtgtip:`Elvish Aberration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f865601c-fddf-42fe-acd0-c9075fa84783.jpg?1599707160|https://scryfall.com/card/2xm/165/elvish-aberration?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
-   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)
+   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Enlarge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f4e699f-5f2c-4487-8a40-42be6f561631.jpg?1599707174|https://scryfall.com/card/2xm/166/enlarge?utm_source=api>`
@@ -870,7 +870,7 @@
 
 
 :mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f13ddd38-397c-4119-8d55-50c7407883f9.jpg?1599707212|https://scryfall.com/card/2xm/168/fierce-empath?utm_source=api>`
-   When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+   When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Gelatinous Genesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e5c2be0-76ab-4873-a1fc-9ff65a9347c7.jpg?1599707228|https://scryfall.com/card/2xm/169/gelatinous-genesis?utm_source=api>`
@@ -960,13 +960,13 @@
 
 
 :mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a6c19cc-6469-4958-a547-1d0fe97c70e8.jpg?1599707680|https://scryfall.com/card/2xm/186/veteran-explorer?utm_source=api>`
-   When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it.
+   When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Whisperer of the Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cf17d8a-c7ee-4909-bc80-4138dcfe7e67.jpg?1599707699|https://scryfall.com/card/2xm/187/whisperer-of-the-wilds?utm_source=api>`
    |tap|: Add |mana_g|.
 
-   Ferocious — |tap|: Add |mana_g|\ |mana_g|. Activate this ability only if you control a creature with power 4 or greater.
+   Ferocious — |tap|: Add |mana_g|\ |mana_g|. Activate only if you control a creature with power 4 or greater.
 
 
 :mtgtip:`Woodland Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/021bc8f5-3992-4d6a-9806-ed43c89e99f2.jpg?1599707734|https://scryfall.com/card/2xm/188/woodland-champion?utm_source=api>`
@@ -1142,7 +1142,7 @@
 
    Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery.
 
 
 :mtgtip:`The Scarab God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d79ee141-0ea6-45d6-a682-96a37d703394.jpg?1599708320|https://scryfall.com/card/2xm/216/the-scarab-god?utm_source=api>`
@@ -1172,7 +1172,7 @@
 :mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad955c4d-248b-4468-a975-abad97cf84a4.jpg?1599708433|https://scryfall.com/card/2xm/220/sphinx-summoner?utm_source=api>`
    Flying
 
-   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle.
 
 
 :mtgtip:`Swiftblade Vindicator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2a89a8f-b3a7-4c38-80fb-b5484ddbf8ec.jpg?1599708452|https://scryfall.com/card/2xm/221/swiftblade-vindicator?utm_source=api>`
@@ -1266,7 +1266,7 @@
 :mtgtip:`Bosh, Iron Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90055174-ad09-4a0b-b65a-10ad80727d8e.jpg?1599708766|https://scryfall.com/card/2xm/236/bosh-iron-golem?utm_source=api>`
    Trample
 
-   |mana_3|\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to any target.
+   |mana_3|\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target.
 
 
 :mtgtip:`Cathodion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13ddba34-e627-4f4c-b78c-ea0c48a22537.jpg?1599708789|https://scryfall.com/card/2xm/237/cathodion?utm_source=api>`
@@ -1346,13 +1346,13 @@
 
 
 :mtgtip:`Endless Atlas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a39fc25-f9f0-44ab-a94c-9720f8722620.jpg?1599709096|https://scryfall.com/card/2xm/251/endless-atlas?utm_source=api>`
-   |mana_2|, |tap|: Draw a card. Activate this ability only if you control three or more lands with the same name.
+   |mana_2|, |tap|: Draw a card. Activate only if you control three or more lands with the same name.
 
 
 :mtgtip:`Engineered Explosives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112|https://scryfall.com/card/2xm/252/engineered-explosives?utm_source=api>`
    Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
 
-   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with mana value equal to the number of charge counters on Engineered Explosives.
 
 
 :mtgtip:`Ensnaring Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf825a56-4870-463a-a2ef-eec86be891db.jpg?1599709144|https://scryfall.com/card/2xm/253/ensnaring-bridge?utm_source=api>`
@@ -1360,7 +1360,7 @@
 
 
 :mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cd8112f-21e0-4272-9f0d-14d1ef989779.jpg?1599709165|https://scryfall.com/card/2xm/254/everflowing-chalice?utm_source=api>`
-   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
+   Multikicker |mana_2|
 
    Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
 
@@ -1368,7 +1368,7 @@
 
 
 :mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/551c0a45-9515-4e51-84e5-79703832a661.jpg?1599709184|https://scryfall.com/card/2xm/255/expedition-map?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Flayer Husk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20b394f9-644d-426e-801b-110774092018.jpg?1599709210|https://scryfall.com/card/2xm/256/flayer-husk?utm_source=api>`
@@ -1422,7 +1422,7 @@
 
 
 :mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2aa24fe0-e275-4307-b26c-2a656068a451.jpg?1599709367|https://scryfall.com/card/2xm/264/isochron-scepter?utm_source=api>`
-   Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.
+   Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.
 
    |mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
 
@@ -1434,7 +1434,7 @@
 
 
 :mtgtip:`Kuldotha Forgemaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c768267f-5ad2-4f4d-bbc7-6639325401c7.jpg?1599709400|https://scryfall.com/card/2xm/266/kuldotha-forgemaster?utm_source=api>`
-   |tap|, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.
+   |tap|, Sacrifice three artifacts: Search your library for an artifact card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Lightning Greaves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6cec97f-0a2b-4543-a02e-d5e42d337790.jpg?1599709454|https://scryfall.com/card/2xm/267/lightning-greaves?utm_source=api>`
@@ -1480,7 +1480,7 @@
 
 
 :mtgtip:`Mox Opal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56001a36-126b-4c08-af98-a6cc4d84210e.jpg?1599709600|https://scryfall.com/card/2xm/275/mox-opal?utm_source=api>`
-   Metalcraft — |tap|: Add one mana of any color. Activate this ability only if you control three or more artifacts.
+   Metalcraft — |tap|: Add one mana of any color. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Myr Battlesphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31837c7c-267a-4483-8712-406bfa7c4fde.jpg?1599709616|https://scryfall.com/card/2xm/276/myr-battlesphere?utm_source=api>`
@@ -1532,7 +1532,7 @@
 :mtgtip:`Ratchet Bomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5bd85da-9aba-46ea-9c10-617bec99a2f5.jpg?1599709788|https://scryfall.com/card/2xm/284/ratchet-bomb?utm_source=api>`
    |tap|: Put a charge counter on Ratchet Bomb.
 
-   |tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+   |tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb.
 
 
 :mtgtip:`Sandstone Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef2847c7-2d48-48ca-8cc3-3c9a154ed69d.jpg?1599709806|https://scryfall.com/card/2xm/285/sandstone-oracle?utm_source=api>`
@@ -1584,7 +1584,7 @@
 :mtgtip:`Sunforger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3945c488-6966-4c7d-a0b7-487a2c1837aa.jpg?1604303624|https://scryfall.com/card/2xm/293/sunforger?utm_source=api>`
    Equipped creature gets +4/+0.
 
-   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.
+   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.
 
    Equip |mana_3|
 
@@ -1648,7 +1648,7 @@
 
 
 :mtgtip:`Treasure Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc2808aa-1f30-42c3-a2d1-c9eb91828e66.jpg?1599710195|https://scryfall.com/card/2xm/302/treasure-keeper?utm_source=api>`
-   When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with converted mana cost 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
+   When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
 
 
 :mtgtip:`Trinisphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/316caa4e-a53a-460b-978c-5f0fba7bc549.jpg?1599710205|https://scryfall.com/card/2xm/303/trinisphere?utm_source=api>`
@@ -1694,7 +1694,7 @@
 :mtgtip:`Ash Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f4dd417-43fd-4dee-aaf2-80d425bd0191.jpg?1599710337|https://scryfall.com/card/2xm/310/ash-barrens?utm_source=api>`
    |tap|: Add |colorless|.
 
-   Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Blinkmoth Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3ac535c1-9ef3-45b5-8959-7e79589d47ad.jpg?1599710351|https://scryfall.com/card/2xm/311/blinkmoth-nexus?utm_source=api>`

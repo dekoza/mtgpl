@@ -18,7 +18,7 @@
 
    The first card you foretell each turn costs |mana_0| to foretell.
 
-   Whenever you exile one or more cards from your hand and/or permanents from the battlefield, create a 1/1 white Spirit creature token with flying.
+   Whenever a spell or ability you control exiles one or more cards from your hand and/or permanents from the battlefield, create a 1/1 white Spirit creature token with flying.
 
 
 :mtgtip:`Cosmic Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/933c4a54-5c3a-496b-aa35-edf791155d8d.jpg?1611192905|https://scryfall.com/card/khc/3/cosmic-intervention?utm_source=api>`
@@ -28,7 +28,7 @@
 
 
 :mtgtip:`Hero of Bretagard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4458c16c-b71d-481d-863b-f2e3b1320178.jpg?1611193043|https://scryfall.com/card/khc/4/hero-of-bretagard?utm_source=api>`
-   Whenever you exile one or more cards from your hand and/or permanents from the battlefield, put that many +1/+1 counters on Hero of Bretagard.
+   Whenever a spell or ability you control exiles one or more cards from your hand and/or permanents from the battlefield, put that many +1/+1 counters on Hero of Bretagard.
 
    As long as Hero of Bretagard has five or more counters on it, it has flying and is an Angel in addition to its other types.
 
@@ -36,7 +36,7 @@
 
 
 :mtgtip:`Stoic Farmer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f53f39e9-f07e-444f-8420-4545e56253e5.jpg?1611255994|https://scryfall.com/card/khc/5/stoic-farmer?utm_source=api>`
-   When Stoic Farmer enters the battlefield, search your library for a basic Plains card and reveal it. If an opponent controls more lands than you, put it onto the battlefield tapped. Otherwise put it into your hand. Then shuffle your library.
+   When Stoic Farmer enters the battlefield, search your library for a basic Plains card and reveal it. If an opponent controls more lands than you, put it onto the battlefield tapped. Otherwise put it into your hand. Then shuffle.
 
    Foretell |mana_1|\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
@@ -168,7 +168,7 @@
 
 
 :mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6226b346-ca4c-45ea-871c-1a8fb7f9be0d.jpg?1611964885|https://scryfall.com/card/khc/28/kor-cartographer?utm_source=api>`
-   When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+   When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Marshal's Anthem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2077d11c-22b6-43ff-a894-4f8c2c2acafc.jpg?1611964959|https://scryfall.com/card/khc/29/marshals-anthem?utm_source=api>`
@@ -204,7 +204,7 @@
 :mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7e857aa-955e-4afa-9afe-a572fe27765a.jpg?1611965099|https://scryfall.com/card/khc/34/sun-titan?utm_source=api>`
    Vigilance
 
-   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Wall of Omens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2561dc8e-1ea6-43f3-8cf1-afd7ec9a2191.jpg?1611965125|https://scryfall.com/card/khc/35/wall-of-omens?utm_source=api>`
@@ -346,11 +346,11 @@
 
 
 :mtgtip:`Farhaven Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/320d0a4c-c556-4468-b934-bfdf17961a53.jpg?1611965956|https://scryfall.com/card/khc/62/farhaven-elf?utm_source=api>`
-   When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Harvest Season<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/326b5fad-bb8d-4019-84a8-1a319a14962e.jpg?1611965974|https://scryfall.com/card/khc/63/harvest-season?utm_source=api>`
-   Search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. Then shuffle your library.
+   Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Imperious Perfect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a93e9d33-0c5d-4890-a1aa-84f59af9d4fb.jpg?1611966082|https://scryfall.com/card/khc/64/imperious-perfect?utm_source=api>`
@@ -406,7 +406,7 @@
 
 
 :mtgtip:`Springbloom Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f406d477-720b-498c-9f45-1b687e555bcd.jpg?1611966429|https://scryfall.com/card/khc/74/springbloom-druid?utm_source=api>`
-   When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Sylvan Messenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/085f1b89-857b-4e2b-b796-0b95e53322bd.jpg?1611966450|https://scryfall.com/card/khc/75/sylvan-messenger?utm_source=api>`
@@ -432,7 +432,7 @@
 
 
 :mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/227746cb-8d9e-4f56-a19c-971a35f4cf20.jpg?1611977005|https://scryfall.com/card/khc/80/wood-elves?utm_source=api>`
-   When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Abomination of Llanowar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b68bc46-5591-44dd-becc-eca154066925.jpg?1611966603|https://scryfall.com/card/khc/81/abomination-of-llanowar?utm_source=api>`
@@ -480,7 +480,7 @@
 :mtgtip:`Migratory Route<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae79df80-b1f0-4035-807d-0364208dbd75.jpg?1611966954|https://scryfall.com/card/khc/87/migratory-route?utm_source=api>`
    Create four 1/1 white Bird creature tokens with flying.
 
-   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Mistmeadow Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/570afcb8-8cf0-4946-863a-be19c0a5e110.jpg?1611966977|https://scryfall.com/card/khc/88/mistmeadow-witch?utm_source=api>`
@@ -534,7 +534,7 @@
 
 
 :mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/552e8660-4f52-4ce6-aeee-306676746695.jpg?1611967161|https://scryfall.com/card/khc/98/burnished-hart?utm_source=api>`
-   |mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Commander's Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/443c9ff1-8b30-4c19-9011-17de40659442.jpg?1611967178|https://scryfall.com/card/khc/99/commanders-sphere?utm_source=api>`
@@ -596,7 +596,7 @@
 :mtgtip:`Cryptic Caves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03d864b7-8049-4ef7-ae50-ad28df7d87d9.jpg?1611967428|https://scryfall.com/card/khc/109/cryptic-caves?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands.
+   |mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands.
 
 
 :mtgtip:`Foul Orchard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e1bad7b-e102-4dff-b79a-fd755c2b6d49.jpg?1611967457|https://scryfall.com/card/khc/110/foul-orchard?utm_source=api>`
@@ -638,7 +638,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Opal Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/677f7ab0-27eb-4dcd-a38d-2a880731eaa3.jpg?1611967623|https://scryfall.com/card/khc/116/opal-palace?utm_source=api>`

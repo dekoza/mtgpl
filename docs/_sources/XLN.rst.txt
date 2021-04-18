@@ -28,7 +28,7 @@
 :mtgtip:`Bishop of Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d654bec-4eb2-4df6-b71e-ce59a718f903.jpg?1562553920|https://scryfall.com/card/xln/5/bishop-of-rebirth?utm_source=api>`
    Vigilance
 
-   Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Whenever Bishop of Rebirth attacks, you may return target creature card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Bishop's Soldier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d954677c-2de6-440a-90d0-bab2e0c8b4af.jpg?1562564922|https://scryfall.com/card/xln/6/bishops-soldier?utm_source=api>`
@@ -106,7 +106,7 @@
 
 
 :mtgtip:`Legion Conquistador<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f30590d7-59c7-4a1a-a8e5-3cc13f69bd41.jpg?1562566571|https://scryfall.com/card/xln/20/legion-conquistador?utm_source=api>`
-   When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library.
+   When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Legion's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/385bea20-c196-4da8-bc3e-36f8d50dcc17.jpg?1562553483|https://scryfall.com/card/xln/21/legions-judgment?utm_source=api>`
@@ -150,7 +150,7 @@
 :mtgtip:`Priest of the Wakening Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/051dc73e-f04a-4901-b0ed-3b33c33ac72f.jpg?1562549997|https://scryfall.com/card/xln/27/priest-of-the-wakening-sun?utm_source=api>`
    At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.
 
-   |mana_3|\ |mana_w|\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library.
+   |mana_3|\ |mana_w|\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Pterodon Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41f00a04-1336-4830-a6c2-514848afefd2.jpg?1562554195|https://scryfall.com/card/xln/28/pterodon-knight?utm_source=api>`
@@ -180,7 +180,7 @@
 
 
 :mtgtip:`Settle the Wreckage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cbd346e-098a-4cf6-a72f-468376fd2e8f.jpg?1562560853|https://scryfall.com/card/xln/34/settle-the-wreckage?utm_source=api>`
-   Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library.
+   Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Sheltering Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0c945c7-6c31-4c4f-9203-3dc2aef50820.jpg?1562562304|https://scryfall.com/card/xln/35/sheltering-light?utm_source=api>`
@@ -252,7 +252,7 @@
 
 
 :mtgtip:`Deadeye Quartermaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba70d58-69fd-4675-85d2-90bc2595c01c.jpg?1562556037|https://scryfall.com/card/xln/50/deadeye-quartermaster?utm_source=api>`
-   When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle your library.
+   When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Deeproot Waters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24bec3b7-5dfc-4b48-ae8f-5bf49470d030.jpg?1562552168|https://scryfall.com/card/xln/51/deeproot-waters?utm_source=api>`
@@ -278,7 +278,7 @@
 
 
 :mtgtip:`Entrancing Melody<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15732049-7e56-432f-881f-215e45b7a70e.jpg?1562551124|https://scryfall.com/card/xln/55/entrancing-melody?utm_source=api>`
-   Gain control of target creature with converted mana cost X.
+   Gain control of target creature with mana value X.
 
 
 :mtgtip:`Favorable Winds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adfe8174-4e75-4e8f-b59c-f80a98492b5f.jpg?1591563596|https://scryfall.com/card/xln/56/favorable-winds?utm_source=api>`
@@ -328,7 +328,7 @@
 
 
 :mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66c3aa9f-5cb0-4c8d-a050-42938398071b.jpg?1562556805|https://scryfall.com/card/xln/65/opt?utm_source=api>`
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
    Draw a card.
 
@@ -338,7 +338,7 @@
 
 
 :mtgtip:`Perilous Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9f6623e-2784-4bc9-9d8c-3eee9c78c350.jpg?1562563911|https://scryfall.com/card/xln/67/perilous-voyage?utm_source=api>`
-   Return target nonland permanent you don't control to its owner's hand. If its converted mana cost was 2 or less, scry 2.
+   Return target nonland permanent you don't control to its owner's hand. If its mana value was 2 or less, scry 2.
 
 
 :mtgtip:`Pirate's Prize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48d97373-9b55-4eb7-99b6-8912f09bd0bb.jpg?1562554686|https://scryfall.com/card/xln/68/pirates-prize?utm_source=api>`
@@ -412,7 +412,7 @@
 
 
 :mtgtip:`Spell Swindle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e619ada-e9ce-4758-afd8-8def853877eb.jpg?1562557238|https://scryfall.com/card/xln/82/spell-swindle?utm_source=api>`
-   Counter target spell. Create X Treasure tokens, where X is that spell's converted mana cost. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+   Counter target spell. Create X Treasure tokens, where X is that spell's mana value. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
 :mtgtip:`Storm Fleet Aerialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9de1acd5-bee4-48fe-951d-7936e20f0a71.jpg?1562560947|https://scryfall.com/card/xln/83/storm-fleet-aerialist?utm_source=api>`
@@ -602,7 +602,7 @@
 
 
 :mtgtip:`Ruin Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/457ba695-3637-40de-a8a8-e3a43a71674f.jpg?1562554428|https://scryfall.com/card/xln/118/ruin-raider?utm_source=api>`
-   Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost.
+   Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's mana value.
 
 
 :mtgtip:`Ruthless Knave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1ce91e38-4601-4354-ad1b-2c5c1c70da17.jpg?1562551661|https://scryfall.com/card/xln/119/ruthless-knave?utm_source=api>`
@@ -688,7 +688,7 @@
 
 
 :mtgtip:`Captivating Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c76e66c1-dbe2-4346-b4b3-20e8386e7d76.jpg?1562563744|https://scryfall.com/card/xln/137/captivating-crew?utm_source=api>`
-   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Charging Monstrosaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5222448-95d1-4b63-ab76-d5060febcf38.jpg?1562564658|https://scryfall.com/card/xln/138/charging-monstrosaur?utm_source=api>`
@@ -780,7 +780,7 @@
 :mtgtip:`Repeating Barrage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba90a2d6-8292-4ff1-91d0-b30ae9775f12.jpg?1562562987|https://scryfall.com/card/xln/156/repeating-barrage?utm_source=api>`
    Repeating Barrage deals 3 damage to any target.
 
-   Raid — |mana_3|\ |mana_r|\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked this turn.
+   Raid — |mana_3|\ |mana_r|\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate only if you attacked this turn.
 
 
 :mtgtip:`Rigging Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb9983ce-8ca6-450a-9cac-5396ba8e1690.jpg?1562566069|https://scryfall.com/card/xln/157/rigging-runner?utm_source=api>`
@@ -822,7 +822,7 @@
 
 
 :mtgtip:`Sunbird's Invocation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1ee52480-8faf-4418-af70-fd999096e3bb.jpg?1562551811|https://scryfall.com/card/xln/165/sunbirds-invocation?utm_source=api>`
-   Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a spell with converted mana cost X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.
+   Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.
 
 
 :mtgtip:`Sure Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/5370060a-653b-453d-8daf-bef46f9bb4d5.jpg?1562555467|https://scryfall.com/card/xln/166/sure-strike?utm_source=api>`
@@ -1000,7 +1000,7 @@
 
 
 :mtgtip:`Old-Growth Dryads<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06458882-94c8-4d92-a21c-955e9d70f0d4.jpg?1562550095|https://scryfall.com/card/xln/199/old-growth-dryads?utm_source=api>`
-   When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.
+   When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Pounce<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b96cba6-33d7-4e1d-88f7-da3da681540d.jpg?1562552622|https://scryfall.com/card/xln/200/pounce?utm_source=api>`
@@ -1008,7 +1008,7 @@
 
 
 :mtgtip:`Ranging Raptors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e91efc6-0e6a-4a9e-a486-adf53e53d3f1.jpg?1562561017|https://scryfall.com/card/xln/201/ranging-raptors?utm_source=api>`
-   Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Ravenous Daggertooth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/309b204b-774a-47bc-aead-c78db90f3be2.jpg?1562552903|https://scryfall.com/card/xln/202/ravenous-daggertooth?utm_source=api>`
@@ -1160,7 +1160,7 @@
 :mtgtip:`Vona, Butcher of Magan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1fd4101-d531-43aa-9cb6-79e36a8121d8.jpg?1562563396|https://scryfall.com/card/xln/231/vona-butcher-of-magan?utm_source=api>`
    Vigilance, lifelink
 
-   |tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn.
+   |tap|, Pay 7 life: Destroy target nonland permanent. Activate only during your turn.
 
 
 :mtgtip:`Vraska, Relic Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/967b7272-33a6-46e9-b0aa-4757aee54b3a.jpg?1562560392|https://scryfall.com/card/xln/232/vraska-relic-seeker?utm_source=api>`
@@ -1300,7 +1300,7 @@
 
 
 :mtgtip:`Thaumatic Compass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/392af78e-34d5-4b1b-8b29-0e702271e4d7.jpg?1562553540|https://scryfall.com/card/xln/249/thaumatic-compass-spires-of-orazca?utm_source=api>`
-   |mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass.
 
@@ -1348,7 +1348,7 @@
 :mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d72afb21-7bb0-4fd8-a529-ada92a654f61.jpg?1562564773|https://scryfall.com/card/xln/254/field-of-ruin?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library.
+   |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.
 
 
 :mtgtip:`Glacial Fortress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cef133d9-26d2-4a1e-8d6a-829f1067c169.jpg?1562564197|https://scryfall.com/card/xln/255/glacial-fortress?utm_source=api>`
@@ -1422,7 +1422,7 @@
 :mtgtip:`Grasping Current<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7344ffb-aada-4be1-bc82-2ed96e6cb5bf.jpg?1562565841|https://scryfall.com/card/xln/282/grasping-current?utm_source=api>`
    Return up to two target creatures to their owner's hand.
 
-   Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle it.
+   Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle.
 
 
 :mtgtip:`Jace's Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9131361b-ec1e-4390-82c9-b9b9f77792a8.jpg?1562559963|https://scryfall.com/card/xln/283/jaces-sentinel?utm_source=api>`
@@ -1452,7 +1452,7 @@
 
 
 :mtgtip:`Sun-Blessed Mount<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f06ac1f-0bae-4aaa-9ff4-28c806828c40.jpg?1562557291|https://scryfall.com/card/xln/288/sun-blessed-mount?utm_source=api>`
-   When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle it.
+   When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle.
 
 
 :mtgtip:`Stone Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06da82de-fd37-4c8f-a37d-61da66db567e.jpg?1562550143|https://scryfall.com/card/xln/289/stone-quarry?utm_source=api>`

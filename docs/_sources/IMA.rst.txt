@@ -62,9 +62,9 @@
 
    • Destroy all enchantments.
 
-   • Destroy all creatures with converted mana cost 3 or less.
+   • Destroy all creatures with mana value 3 or less.
 
-   • Destroy all creatures with converted mana cost 4 or greater.
+   • Destroy all creatures with mana value 4 or greater.
 
 
 :mtgtip:`Avacyn, Angel of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddb92ef6-0ef8-4b1d-8a45-3064fea23926.jpg?1562854687|https://scryfall.com/card/ima/11/avacyn-angel-of-hope?utm_source=api>`
@@ -376,7 +376,7 @@
 
 
 :mtgtip:`Mana Drain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416d2d51-8f29-4e95-b037-e8c32b081e6c.jpg?1562848002|https://scryfall.com/card/ima/65/mana-drain?utm_source=api>`
-   Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's converted mana cost.
+   Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's mana value.
 
 
 :mtgtip:`Mana Leak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/247939d9-87e9-4f01-b223-fb4cfa7dbbe1.jpg?1562846529|https://scryfall.com/card/ima/66/mana-leak?utm_source=api>`
@@ -400,7 +400,7 @@
 
 
 :mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c8ccab7-cc10-4fe8-a302-25d7518f4823.jpg?1562852049|https://scryfall.com/card/ima/70/repeal?utm_source=api>`
-   Return target nonland permanent with converted mana cost X to its owner's hand.
+   Return target nonland permanent with mana value X to its owner's hand.
 
    Draw a card.
 
@@ -428,7 +428,7 @@
 
 
 :mtgtip:`Teferi, Mage of Zhalfir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19573a69-5022-4d63-9252-c8789602d051.jpg?1562846287|https://scryfall.com/card/ima/75/teferi-mage-of-zhalfir?utm_source=api>`
-   Flash (You may cast this spell any time you could cast an instant.)
+   Flash
 
    Creature cards you own that aren't on the battlefield have flash.
 
@@ -476,7 +476,7 @@
 
 
 :mtgtip:`Bogbrew Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76d57d94-0507-49b0-84fc-a84b885d355d.jpg?1562850559|https://scryfall.com/card/ima/83/bogbrew-witch?utm_source=api>`
-   |mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Butcher's Glee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92a00c8d-9dac-4edc-b66c-ab3245d80969.jpg?1562851578|https://scryfall.com/card/ima/84/butchers-glee?utm_source=api>`
@@ -562,7 +562,7 @@
 :mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36a6facd-0b7f-436d-9529-bf9c931cd492.jpg?1562847509|https://scryfall.com/card/ima/100/noxious-dragon?utm_source=api>`
    Flying
 
-   When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.
+   When Noxious Dragon dies, you may destroy target creature with mana value 3 or less.
 
 
 :mtgtip:`Ob Nixilis, the Fallen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5769888-78e0-4d06-b6b6-b4602f7cd462.jpg?1562855145|https://scryfall.com/card/ima/101/ob-nixilis-the-fallen?utm_source=api>`
@@ -590,7 +590,7 @@
 :mtgtip:`Rune-Scarred Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78ed184c-bb2a-47cc-a8e3-ba46b2fc4f64.jpg?1562850574|https://scryfall.com/card/ima/106/rune-scarred-demon?utm_source=api>`
    Flying
 
-   When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library.
+   When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sanguine Bond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc236d85-dfe5-4bc8-b116-8306b0922abf.jpg?1562854675|https://scryfall.com/card/ima/107/sanguine-bond?utm_source=api>`
@@ -738,7 +738,7 @@
 :mtgtip:`Hoarding Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c6cd59a-f184-4e8e-885e-36fbceddfc06.jpg?1562849386|https://scryfall.com/card/ima/134/hoarding-dragon?utm_source=api>`
    Flying
 
-   When Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library.
+   When Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle.
 
    When Hoarding Dragon dies, you may put the exiled card into its owner's hand.
 
@@ -867,7 +867,7 @@
    When Carven Caryatid enters the battlefield, draw a card.
 
 
-:mtgtip:`Channel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce54c7c1-3401-4414-8da0-5846cb0ae1b4.jpg?1562854175|https://scryfall.com/card/ima/157/channel?utm_source=api>`
+:mtgtip:`Channel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce54c7c1-3401-4414-8da0-5846cb0ae1b4.jpg?1618695674|https://scryfall.com/card/ima/157/channel?utm_source=api>`
    Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add |colorless|.
 
 
@@ -896,13 +896,13 @@
 
 
 :mtgtip:`Genesis Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49f0118e-4449-4394-b4c1-5b4f83d7bc4a.jpg?1562848462|https://scryfall.com/card/ima/163/genesis-hydra?utm_source=api>`
-   When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.
+   When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield. Then shuffle the rest into your library.
 
    Genesis Hydra enters the battlefield with X +1/+1 counters on it.
 
 
 :mtgtip:`Genesis Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/5007919b-27d3-46e7-a588-ce796709d565.jpg?1562848877|https://scryfall.com/card/ima/164/genesis-wave?utm_source=api>`
-   Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.
+   Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.
 
 
 :mtgtip:`Greater Basilisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/886e40d7-5677-493d-9ea4-205f50d2aefe.jpg?1562851085|https://scryfall.com/card/ima/165/greater-basilisk?utm_source=api>`
@@ -1002,7 +1002,7 @@
 :mtgtip:`Primeval Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d5537da-112e-4679-a113-b5d7ce32a66b.jpg?1562850064|https://scryfall.com/card/ima/183/primeval-titan?utm_source=api>`
    Trample
 
-   Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.
+   Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Rampaging Baloths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5667d8e-c72e-478a-9e90-633d608b8c31.jpg?1562852499|https://scryfall.com/card/ima/184/rampaging-baloths?utm_source=api>`
@@ -1012,7 +1012,7 @@
 
 
 :mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1a950b3-5083-474a-8f56-fec7637cc402.jpg?1562852474|https://scryfall.com/card/ima/185/search-for-tomorrow?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield, then shuffle.
 
    Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
 
@@ -1042,7 +1042,7 @@
 :mtgtip:`Wall of Roots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b65cb901-bfb0-454a-97ef-138021e524ff.jpg?1562853421|https://scryfall.com/card/ima/190/wall-of-roots?utm_source=api>`
    Defender
 
-   Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate this ability only once each turn.
+   Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate only once each turn.
 
 
 :mtgtip:`Wildsize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b80bc77-eee4-4384-904a-b746be5987ac.jpg?1562852034|https://scryfall.com/card/ima/191/wildsize?utm_source=api>`
@@ -1104,7 +1104,7 @@
 
    At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.
 
-   |mana_6|\ |mana_r|\ |mana_r|\ |mana_w|\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |mana_6|\ |mana_r|\ |mana_r|\ |mana_w|\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Glimpse the Unthinkable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6afde7ce-b0d7-4ac0-947b-ae298a61c37b.jpg?1562849908|https://scryfall.com/card/ima/200/glimpse-the-unthinkable?utm_source=api>`
@@ -1126,7 +1126,7 @@
 :mtgtip:`Knight of the Reliquary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/205df311-a72d-40f1-b2ea-9b30274bc9bd.jpg?1562846501|https://scryfall.com/card/ima/203/knight-of-the-reliquary?utm_source=api>`
    Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
 
-   |tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Lightning Helix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/7053b773-a369-45b8-912f-ee66de3a63c6.jpg?1562850123|https://scryfall.com/card/ima/204/lightning-helix?utm_source=api>`
@@ -1148,7 +1148,7 @@
 
    Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery.
 
 
 :mtgtip:`Simic Sky Swallower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b18816df-9b73-4a3f-a1d5-ceabf76d3fb0.jpg?1562853014|https://scryfall.com/card/ima/208/simic-sky-swallower?utm_source=api>`
@@ -1180,7 +1180,7 @@
 :mtgtip:`Aether Vial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c14cdc38-dd46-495e-93bd-d2694b64d5ad.jpg?1562853669|https://scryfall.com/card/ima/212/aether-vial?utm_source=api>`
    At the beginning of your upkeep, you may put a charge counter on Aether Vial.
 
-   |tap|: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
+   |tap|: You may put a creature card with mana value equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
 
 
 :mtgtip:`Bubbling Cauldron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa9262dc-2b12-49c8-b339-4394694c81d7.jpg?1562852549|https://scryfall.com/card/ima/213/bubbling-cauldron?utm_source=api>`
@@ -1308,7 +1308,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40a2804d-d925-4950-8542-608f6e92387a.jpg?1562847979|https://scryfall.com/card/ima/235/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Golgari Rot Farm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/501425e3-31ae-4d19-997c-33ad89733969.jpg?1562848879|https://scryfall.com/card/ima/236/golgari-rot-farm?utm_source=api>`
@@ -1356,9 +1356,9 @@
 :mtgtip:`Nimbus Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4152c6a1-7c78-483e-b13f-cb43a6bd4001.jpg?1562847995|https://scryfall.com/card/ima/242/nimbus-maze?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_w|. Activate this ability only if you control an Island.
+   |tap|: Add |mana_w|. Activate only if you control an Island.
 
-   |tap|: Add |mana_u|. Activate this ability only if you control a Plains.
+   |tap|: Add |mana_u|. Activate only if you control a Plains.
 
 
 :mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd942b9a-1802-41bb-a33a-344bfa353c47.jpg?1562853522|https://scryfall.com/card/ima/243/orzhov-basilica?utm_source=api>`

@@ -8,7 +8,7 @@
 :mtgtip:`Ugin, the Spirit Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58c1e824-c8a9-4312-8e4c-a29a26d189a4.jpg?1562825451|https://scryfall.com/card/frf/1/ugin-the-spirit-dragon?utm_source=api>`
    +2: Ugin, the Spirit Dragon deals 3 damage to any target.
 
-   −X: Exile each permanent with converted mana cost X or less that's one or more colors.
+   −X: Exile each permanent with mana value X or less that's one or more colors.
 
    −10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.
 
@@ -126,7 +126,7 @@
 
 
 :mtgtip:`Rally the Ancestors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d9efacb-9d7c-41f4-9b11-59df1be50e11.jpg?1562826291|https://scryfall.com/card/frf/22/rally-the-ancestors?utm_source=api>`
-   Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors.
+   Return each creature card with mana value X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors.
 
 
 :mtgtip:`Sage's Reverie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f22dd6f-807a-48a7-bc69-29aaec7012de.jpg?1562822490|https://scryfall.com/card/frf/23/sages-reverie?utm_source=api>`
@@ -284,7 +284,7 @@
 :mtgtip:`Renowned Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/500f72e0-2de2-4c02-bda0-8a61aa9b37fc.jpg?1562825096|https://scryfall.com/card/frf/48/renowned-weaponsmith?utm_source=api>`
    |tap|: Add |colorless|\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 
-   |mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.
+   |mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Rite of Undoing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20afe614-a367-461a-a67b-02d5ed634cc5.jpg?1562823165|https://scryfall.com/card/frf/49/rite-of-undoing?utm_source=api>`
@@ -328,7 +328,7 @@
 
    Whenever Torrent Elemental attacks, tap all creatures defending player controls.
 
-   |mana_3|\ |mana_bg|\ |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_bg|\ |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate only as a sorcery.
 
 
 :mtgtip:`Whisk Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5d96a9-11dd-44cc-baf1-bab298ae03f0.jpg?1562825556|https://scryfall.com/card/frf/57/whisk-away?utm_source=api>`
@@ -436,7 +436,7 @@
 :mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cece7235-604c-49b6-b80f-3229a20b154f.jpg?1562830003|https://scryfall.com/card/frf/77/noxious-dragon?utm_source=api>`
    Flying
 
-   When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.
+   When Noxious Dragon dies, you may destroy target creature with mana value 3 or less.
 
 
 :mtgtip:`Orc Sureshot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/292326cd-4b90-40c6-88b1-f8560fde236c.jpg?1562823555|https://scryfall.com/card/frf/78/orc-sureshot?utm_source=api>`
@@ -562,7 +562,7 @@
 
 
 :mtgtip:`Friendly Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac4272ca-bb15-415c-a589-a472953a0dd9.jpg?1562828722|https://scryfall.com/card/frf/101/friendly-fire?utm_source=api>`
-   Target creature's controller reveals a card at random from their hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.
+   Target creature's controller reveals a card at random from their hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's mana value.
 
 
 :mtgtip:`Goblin Heelcutter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b3bfeb6-95d6-4f00-8981-c6d3c9c93f67.jpg?1562825544|https://scryfall.com/card/frf/102/goblin-heelcutter?utm_source=api>`
@@ -576,7 +576,7 @@
 
 
 :mtgtip:`Humble Defector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bb0c13f-6cea-48b4-a5c8-2c0cfcfea7fd.jpg?1562824944|https://scryfall.com/card/frf/104/humble-defector?utm_source=api>`
-   |tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.
+   |tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate only during your turn.
 
 
 :mtgtip:`Hungering Yeti<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02f7c596-5633-41e8-adcd-d4dc6eae5c88.jpg?1562821995|https://scryfall.com/card/frf/105/hungering-yeti?utm_source=api>`
@@ -646,7 +646,7 @@
 
 
 :mtgtip:`Temur Battle Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a1dd786-f4e3-4951-b87b-82442edec016.jpg?1562827408|https://scryfall.com/card/frf/116/temur-battle-rage?utm_source=api>`
-   Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+   Target creature gains double strike until end of turn.
 
    Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.
 
@@ -676,7 +676,7 @@
 
    • Put a +1/+1 counter on Ainok Guide.
 
-   • Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.
+   • Search your library for a basic land card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Ambush Krotiq<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd3068c6-d403-46d5-b3d7-1c3b00b9a9b1.jpg?1562831925|https://scryfall.com/card/frf/122/ambush-krotiq?utm_source=api>`
@@ -742,7 +742,7 @@
 
 
 :mtgtip:`Map the Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/039b61b1-79d5-44b6-8c0f-b8e8e508e5a9.jpg?1562822018|https://scryfall.com/card/frf/134/map-the-wastes?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
 
 
 :mtgtip:`Return to the Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a53144-2ef3-47d9-a176-73d620202df6.jpg?1562827827|https://scryfall.com/card/frf/135/return-to-the-earth?utm_source=api>`
@@ -802,7 +802,7 @@
 :mtgtip:`Whisperer of the Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c66d388-b140-4d52-897a-6ac6cd68f980.jpg?1562825621|https://scryfall.com/card/frf/144/whisperer-of-the-wilds?utm_source=api>`
    |tap|: Add |mana_g|.
 
-   Ferocious — |tap|: Add |mana_g|\ |mana_g|. Activate this ability only if you control a creature with power 4 or greater.
+   Ferocious — |tap|: Add |mana_g|\ |mana_g|. Activate only if you control a creature with power 4 or greater.
 
 
 :mtgtip:`Whisperwood Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66c61828-98b9-4264-b3dd-e83f881f4a67.jpg?1562826030|https://scryfall.com/card/frf/145/whisperwood-elemental?utm_source=api>`

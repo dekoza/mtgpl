@@ -58,7 +58,7 @@
 
 
 :mtgtip:`Idyllic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a5e7a59-7322-46eb-9903-00131234b310.jpg?1562876759|https://scryfall.com/card/mor/12/idyllic-tutor?utm_source=api>`
-   Search your library for an enchantment card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Indomitable Ancients<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddf33cb6-d159-4af3-8403-d0ac10af9894.jpg?1562881893|https://scryfall.com/card/mor/13/indomitable-ancients?utm_source=api>`
@@ -102,7 +102,7 @@
 
 
 :mtgtip:`Redeem the Lost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a0f1aa1-b5be-43f0-822d-c4fcf33270d9.jpg?1562879061|https://scryfall.com/card/mor/21/redeem-the-lost?utm_source=api>`
-   Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Reveillark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/5629edd4-b5d3-43f8-8c7c-f9d916e35158.jpg?1562878601|https://scryfall.com/card/mor/22/reveillark?utm_source=api>`
@@ -124,7 +124,7 @@
 :mtgtip:`Stonehewer Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/363c51c5-b0fc-4c84-b3d6-8cc17c2387a4.jpg?1562877876|https://scryfall.com/card/mor/24/stonehewer-giant?utm_source=api>`
    Vigilance
 
-   |mana_1|\ |mana_w|, |tap|: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.
+   |mana_1|\ |mana_w|, |tap|: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle.
 
 
 :mtgtip:`Stonybrook Schoolmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69fa2293-f398-4ad8-895e-c739ddea56d0.jpg?1562879054|https://scryfall.com/card/mor/25/stonybrook-schoolmaster?utm_source=api>`
@@ -210,7 +210,7 @@
 :mtgtip:`Knowledge Exploitation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d283c49-2e81-4b2e-956a-69152cc4704e.jpg?1562878014|https://scryfall.com/card/mor/38/knowledge-exploitation?utm_source=api>`
    Prowl |mana_3|\ |mana_u| (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
 
-   Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles their library.
+   Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles.
 
 
 :mtgtip:`Latchkey Faerie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef32d51e-1ec0-46aa-b240-e28a1fb64d73.jpg?1562882311|https://scryfall.com/card/mor/39/latchkey-faerie?utm_source=api>`
@@ -254,7 +254,7 @@
 
 
 :mtgtip:`Research the Deep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/927bab71-a208-4ff2-b6c9-51b63468db38.jpg?1562880060|https://scryfall.com/card/mor/46/research-the-deep?utm_source=api>`
-   Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Sage of Fables<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37b3e46e-7a65-4c2a-989b-b626b20e1b14.jpg?1562877908|https://scryfall.com/card/mor/47/sage-of-fables?utm_source=api>`
@@ -330,7 +330,7 @@
 :mtgtip:`Earwig Squad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0116416b-ed95-4fa2-abc5-446de5c3106b.jpg?1562876483|https://scryfall.com/card/mor/60/earwig-squad?utm_source=api>`
    Prowl |mana_2|\ |mana_b| (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
 
-   When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles their library.
+   When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Fendeep Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10fb2b62-eea7-469f-b237-fdce20b8bdcf.jpg?1562876919|https://scryfall.com/card/mor/61/fendeep-summoner?utm_source=api>`
@@ -358,7 +358,7 @@
 :mtgtip:`Maralen of the Mornsong<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba98d363-194b-4bc0-b9fe-987c498ab6fa.jpg?1562880995|https://scryfall.com/card/mor/65/maralen-of-the-mornsong?utm_source=api>`
    Players can't draw cards.
 
-   At the beginning of each player's draw step, that player loses 3 life, searches their library for a card, puts it into their hand, then shuffles their library.
+   At the beginning of each player's draw step, that player loses 3 life, searches their library for a card, puts it into their hand, then shuffles.
 
 
 :mtgtip:`Mind Shatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db6b2715-4d19-4980-8f5c-3ae20af6af72.jpg?1562881835|https://scryfall.com/card/mor/66/mind-shatter?utm_source=api>`
@@ -414,11 +414,11 @@
 
 
 :mtgtip:`Pulling Teeth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cdce79d-c8a6-4172-8211-7cf2dcb8bf2d.jpg?1562879129|https://scryfall.com/card/mor/75/pulling-teeth?utm_source=api>`
-   Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Revive the Fallen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b0aa3c8-9e11-4917-956b-35b77a100761.jpg?1562879898|https://scryfall.com/card/mor/76/revive-the-fallen?utm_source=api>`
-   Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Scarblade Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a.jpg?1562877163|https://scryfall.com/card/mor/77/scarblade-elite?utm_source=api>`
@@ -460,7 +460,7 @@
 :mtgtip:`Boldwyr Heavyweights<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88d90bc4-7f70-4203-b554-800c70c775ef.jpg?1562879832|https://scryfall.com/card/mor/85/boldwyr-heavyweights?utm_source=api>`
    Trample
 
-   When Boldwyr Heavyweights enters the battlefield, each opponent may search their library for a creature card and put it onto the battlefield. Then each player who searched their library this way shuffles it.
+   When Boldwyr Heavyweights enters the battlefield, each opponent may search their library for a creature card and put it onto the battlefield. Then each player who searched their library this way shuffles.
 
 
 :mtgtip:`Boldwyr Intimidator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16e9f546-7d34-4ec5-a017-913d7ebb7223.jpg?1562877043|https://scryfall.com/card/mor/86/boldwyr-intimidator?utm_source=api>`
@@ -490,7 +490,7 @@
 
 
 :mtgtip:`Fire Juggler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f04d5eef-da88-496b-a902-b87b0b386f96.jpg?1562882327|https://scryfall.com/card/mor/90/fire-juggler?utm_source=api>`
-   Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Hostile Realm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e172b353-7a16-4831-b735-206230b22e59.jpg?1562882006|https://scryfall.com/card/mor/91/hostile-realm?utm_source=api>`
@@ -528,7 +528,7 @@
 
 
 :mtgtip:`Release the Ants<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b6f1afb-2451-4611-ac3e-3513a4651719.jpg?1562877157|https://scryfall.com/card/mor/98/release-the-ants?utm_source=api>`
-   Release the Ants deals 1 damage to any target. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Release the Ants deals 1 damage to any target. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Rivals' Duel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d2eee8b-cc55-4a65-983f-0a91d7e4494a.jpg?1562877652|https://scryfall.com/card/mor/99/rivals-duel?utm_source=api>`
@@ -584,7 +584,7 @@
 
 
 :mtgtip:`Titan's Revenge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1b0f9ca-b752-4dd6-982b-06bb3a27ddbc.jpg?1562880793|https://scryfall.com/card/mor/110/titans-revenge?utm_source=api>`
-   Titan's Revenge deals X damage to any target. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Titan's Revenge deals X damage to any target. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Vengeful Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5db7e33-188f-4d66-a58b-7b5c5760a773.jpg?1562882114|https://scryfall.com/card/mor/111/vengeful-firebrand?utm_source=api>`
@@ -640,13 +640,13 @@
 
 
 :mtgtip:`Everbark Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/077ae521-a176-4d93-92b1-89ba674f86e4.jpg?1562876679|https://scryfall.com/card/mor/121/everbark-shaman?utm_source=api>`
-   |tap|, Exile a Treefolk card from your graveyard: Search your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.
+   |tap|, Exile a Treefolk card from your graveyard: Search your library for up to two Forest cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8055f1-cf3a-4db4-844e-b10bbbb25255.jpg?1562880693|https://scryfall.com/card/mor/122/fertilid?utm_source=api>`
    Fertilid enters the battlefield with two +1/+1 counters on it.
 
-   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.
+   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
 
 
 :mtgtip:`Game-Trail Changeling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466|https://scryfall.com/card/mor/123/game-trail-changeling?utm_source=api>`
@@ -702,7 +702,7 @@
 
 
 :mtgtip:`Recross the Paths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0bfe1d8e-ae3c-4144-a44b-e13ab33da95c.jpg?1562876797|https://scryfall.com/card/mor/133/recross-the-paths?utm_source=api>`
-   Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)
+   Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
 
 
 :mtgtip:`Reins of the Vinesteed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/407a0ef5-a63e-4013-b3d9-b42f2c42c7a4.jpg?1562878107|https://scryfall.com/card/mor/134/reins-of-the-vinesteed?utm_source=api>`
@@ -720,7 +720,7 @@
 
 
 :mtgtip:`Scapeshift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84829605-50eb-455d-a236-ebfa11e883c5.jpg?1562879722|https://scryfall.com/card/mor/136/scapeshift?utm_source=api>`
-   Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.
+   Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Unstoppable Ash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9de6380-6203-41ae-b134-8633eb5df076.jpg?1562881364|https://scryfall.com/card/mor/137/unstoppable-ash?utm_source=api>`

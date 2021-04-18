@@ -8,7 +8,7 @@
 :mtgtip:`Ugin, the Spirit Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c017fa9-7021-417a-9c2e-3df409644fcf.jpg?1594734662|https://scryfall.com/card/m21/1/ugin-the-spirit-dragon?utm_source=api>`
    +2: Ugin, the Spirit Dragon deals 3 damage to any target.
 
-   −X: Exile each permanent with converted mana cost X or less that's one or more colors.
+   −X: Exile each permanent with mana value X or less that's one or more colors.
 
    −10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.
 
@@ -64,7 +64,7 @@
 
 
 :mtgtip:`Celestial Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46666fba-d4a7-4687-8747-a42e4c6d853e.jpg?1594734826|https://scryfall.com/card/m21/11/celestial-enforcer?utm_source=api>`
-   |mana_1|\ |mana_w|, |tap|: Tap target creature. Activate this ability only if you control a creature with flying.
+   |mana_1|\ |mana_w|, |tap|: Tap target creature. Activate only if you control a creature with flying.
 
 
 :mtgtip:`Concordia Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.jpg?1594734840|https://scryfall.com/card/m21/12/concordia-pegasus?utm_source=api>`
@@ -124,7 +124,7 @@
 
 
 :mtgtip:`Idol of Endurance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d60e84e-be05-49da-9720-4225abe9d003.jpg?1612316288|https://scryfall.com/card/m21/23/idol-of-endurance?utm_source=api>`
-   When Idol of Endurance enters the battlefield, exile all creature cards with converted mana cost 3 or less from your graveyard until Idol of Endurance leaves the battlefield.
+   When Idol of Endurance enters the battlefield, exile all creature cards with mana value 3 or less from your graveyard until Idol of Endurance leaves the battlefield.
 
    |mana_1|\ |mana_w|, |tap|: Until end of turn, you may cast a creature spell from among cards exiled with Idol of Endurance without paying its mana cost.
 
@@ -208,7 +208,7 @@
 :mtgtip:`Speaker of the Heavens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f44b96a-8498-414a-a4ac-54c80dfa9f23.jpg?1594735262|https://scryfall.com/card/m21/38/speaker-of-the-heavens?utm_source=api>`
    Vigilance, lifelink
 
-   |tap|: Create a 4/4 white Angel creature token with flying. Activate this ability only if you have at least 7 life more than your starting life total and only any time you could cast a sorcery.
+   |tap|: Create a 4/4 white Angel creature token with flying. Activate only if you have at least 7 life more than your starting life total and only as a sorcery.
 
 
 :mtgtip:`Staunch Shieldmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db17f25a-32d1-469b-bb5f-f1761e227990.jpg?1594735287|https://scryfall.com/card/m21/39/staunch-shieldmate?utm_source=api>`
@@ -322,7 +322,7 @@
 
 
 :mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/323db259-d35e-467d-9a46-4adcb2fc107c.jpg?1594735602|https://scryfall.com/card/m21/59/opt?utm_source=api>`
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
    Draw a card.
 
@@ -506,7 +506,7 @@
 
 
 :mtgtip:`Caged Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8067745-35b6-4abd-9ae9-712159a26c89.jpg?1594736024|https://scryfall.com/card/m21/91/caged-zombie?utm_source=api>`
-   |mana_1|\ |mana_b|, |tap|: Each opponent loses 2 life. Activate this ability only if a creature died this turn.
+   |mana_1|\ |mana_b|, |tap|: Each opponent loses 2 life. Activate only if a creature died this turn.
 
 
 :mtgtip:`Carrion Grub<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31df3d95-bbdb-449d-9601-4fa844c3c640.jpg?1594736036|https://scryfall.com/card/m21/92/carrion-grub?utm_source=api>`
@@ -536,7 +536,7 @@
 
 
 :mtgtip:`Eliminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8eb4087-3a4c-4de8-8e29-f4cd71acb180.jpg?1594736106|https://scryfall.com/card/m21/97/eliminate?utm_source=api>`
-   Destroy target creature or planeswalker with converted mana cost 3 or less.
+   Destroy target creature or planeswalker with mana value 3 or less.
 
 
 :mtgtip:`Fetid Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56a95546-c45a-4da5-b1e8-d5658b5b7d53.jpg?1594736117|https://scryfall.com/card/m21/98/fetid-imp?utm_source=api>`
@@ -568,7 +568,7 @@
 
 
 :mtgtip:`Grim Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/928558ab-e29a-44cb-ac2f-88443571f41a.jpg?1594736179|https://scryfall.com/card/m21/103/grim-tutor?utm_source=api>`
-   Search your library for a card, put that card into your hand, then shuffle your library. You lose 3 life.
+   Search your library for a card, put that card into your hand, then shuffle. You lose 3 life.
 
 
 :mtgtip:`Hooded Blightfang<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac38a51f-9a3b-451c-b72d-6d4e0b296fbd.jpg?1594736187|https://scryfall.com/card/m21/104/hooded-blightfang?utm_source=api>`
@@ -616,7 +616,7 @@
 
 
 :mtgtip:`Liliana's Steward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1945fc78-8aa4-46fb-9571-eaa1c4729e3d.jpg?1594736251|https://scryfall.com/card/m21/111/lilianas-steward?utm_source=api>`
-   |tap|, Sacrifice Liliana's Steward: Target opponent discards a card. Activate this ability only any time you could cast a sorcery.
+   |tap|, Sacrifice Liliana's Steward: Target opponent discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Malefic Scythe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89e2bc57-8f18-4ba1-a11b-9d69d029f56a.jpg?1594736272|https://scryfall.com/card/m21/112/malefic-scythe?utm_source=api>`
@@ -646,7 +646,7 @@
 
 
 :mtgtip:`Necromentia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32c5252e-ff15-4f86-ad63-d8286427e70f.jpg?1594736316|https://scryfall.com/card/m21/116/necromentia?utm_source=api>`
-   Choose a card name other than a basic land card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles their library, then creates a 2/2 black Zombie creature token for each card exiled from their hand this way.
+   Choose a card name other than a basic land card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then creates a 2/2 black Zombie creature token for each card exiled from their hand this way.
 
 
 :mtgtip:`Peer into the Abyss<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aac00055-640e-4749-8d23-d242e6d0b23a.jpg?1594736330|https://scryfall.com/card/m21/117/peer-into-the-abyss?utm_source=api>`
@@ -750,7 +750,7 @@
 
    +1: Chandra, Heart of Fire deals 2 damage to any target.
 
-   −9: Search your graveyard and library for any number of red instant and/or sorcery cards, exile them, then shuffle your library. You may cast them this turn. Add six |mana_r|.
+   −9: Search your graveyard and library for any number of red instant and/or sorcery cards, exile them, then shuffle. You may cast them this turn. Add six |mana_r|.
 
 
 :mtgtip:`Chandra's Incinerator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed875705-b7b6-4464-b16f-61629ffed04f.jpg?1594736535|https://scryfall.com/card/m21/136/chandras-incinerator?utm_source=api>`
@@ -964,7 +964,7 @@
 
 
 :mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a433310-3fe2-4156-864d-7a6b2638340b.jpg?1594736923|https://scryfall.com/card/m21/177/cultivate?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Drowsing Tyrannodon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/288b056a-ea80-4fdc-990d-0ee1e9a7bf64.jpg?1616399654|https://scryfall.com/card/m21/178/drowsing-tyrannodon?utm_source=api>`
@@ -992,7 +992,7 @@
 
 
 :mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17bc2af0-5a1d-4319-a285-6a15cf86be83.jpg?1594736962|https://scryfall.com/card/m21/181/fierce-empath?utm_source=api>`
-   When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+   When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Fungal Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4037e3b2-cb62-4f88-943d-3edcd6827c23.jpg?1594736973|https://scryfall.com/card/m21/182/fungal-rebirth?utm_source=api>`
@@ -1004,7 +1004,7 @@
 
    −2: Create a 3/3 green Beast creature token. Then if an opponent controls more creatures than you, put a loyalty counter on Garruk, Unleashed.
 
-   −7: You get an emblem with "At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+   −7: You get an emblem with "At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle."
 
 
 :mtgtip:`Garruk's Gorehorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3928bbce-87b7-4b28-9af4-20362935c909.jpg?1594736993|https://scryfall.com/card/m21/184/garruks-gorehorn?utm_source=api>`
@@ -1174,7 +1174,7 @@
 
 
 :mtgtip:`Alpine Houndmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43224e74-2c51-40bd-bc34-f66e990a3e33.jpg?1594737342|https://scryfall.com/card/m21/215/alpine-houndmaster?utm_source=api>`
-   When Alpine Houndmaster enters the battlefield, you may search your library for a card named Alpine Watchdog and/or a card named Igneous Cur, reveal them, put them into your hand, then shuffle your library.
+   When Alpine Houndmaster enters the battlefield, you may search your library for a card named Alpine Watchdog and/or a card named Igneous Cur, reveal them, put them into your hand, then shuffle.
 
    Whenever Alpine Houndmaster attacks, it gets +X/+0 until end of turn, where X is the number of other attacking creatures.
 
@@ -1214,7 +1214,7 @@
 :mtgtip:`Niambi, Esteemed Speaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e21827eb-fa49-4784-a86b-aef164a5018e.jpg?1594737411|https://scryfall.com/card/m21/222/niambi-esteemed-speaker?utm_source=api>`
    Flash
 
-   When Niambi, Esteemed Speaker enters the battlefield, you may return another target creature you control to its owner's hand. If you do, you gain life equal to that creature's converted mana cost.
+   When Niambi, Esteemed Speaker enters the battlefield, you may return another target creature you control to its owner's hand. If you do, you gain life equal to that creature's mana value.
 
    |mana_1|\ |mana_w|\ |mana_u|, |tap|, Discard a legendary card: Draw two cards.
 
@@ -1234,7 +1234,7 @@
 
 
 :mtgtip:`Sanctum of All<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba91338c-1f6c-4b83-851f-98c3e9dea17b.jpg?1594737442|https://scryfall.com/card/m21/225/sanctum-of-all?utm_source=api>`
-   At the beginning of your upkeep, you may search your library and/or graveyard for a Shrine card and put it onto the battlefield. If you search your library this way, shuffle it.
+   At the beginning of your upkeep, you may search your library and/or graveyard for a Shrine card and put it onto the battlefield. If you search your library this way, shuffle.
 
    If an ability of another Shrine you control triggers while you control six or more Shrines, that ability triggers an additional time.
 
@@ -1310,7 +1310,7 @@
 
 
 :mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bbd2cab-538e-4932-a828-150e3e9d52ad.jpg?1594737564|https://scryfall.com/card/m21/239/solemn-simulacrum?utm_source=api>`
-   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
    When Solemn Simulacrum dies, you may draw a card.
 
@@ -1360,7 +1360,7 @@
 
 
 :mtgtip:`Fabled Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d313d051-7295-4884-8cbf-f2f835fd45f4.jpg?1594737636|https://scryfall.com/card/m21/246/fabled-passage?utm_source=api>`
-   |tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land.
+   |tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.
 
 
 :mtgtip:`Jungle Hollow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69f28d7a-6480-4725-9719-2354921e6410.jpg?1594737643|https://scryfall.com/card/m21/247/jungle-hollow?utm_source=api>`
@@ -1506,7 +1506,7 @@
 
 
 :mtgtip:`Basri's Aegis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/577657ed-162f-4104-b0af-ee9733e90f20.jpg?1596250020|https://scryfall.com/card/m21/322/basris-aegis?utm_source=api>`
-   Put a +1/+1 counter on each of up to two target creatures. You may search your library and/or graveyard for a card named Basri, Devoted Paladin, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Put a +1/+1 counter on each of up to two target creatures. You may search your library and/or graveyard for a card named Basri, Devoted Paladin, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Sigiled Contender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba81e67-8fa5-441c-bf14-2d75c168a617.jpg?1596250021|https://scryfall.com/card/m21/323/sigiled-contender?utm_source=api>`
@@ -1532,7 +1532,7 @@
 :mtgtip:`Teferi's Wavecaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d67e4c42-a44f-456b-87e7-21ca56dc4630.jpg?1596250030|https://scryfall.com/card/m21/327/teferis-wavecaster?utm_source=api>`
    Flash
 
-   When Teferi's Wavecaster enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timeless Voyager, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Teferi's Wavecaster enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timeless Voyager, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Liliana, Death Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/921e3dc3-f8eb-4498-a6a8-b424952230cd.jpg?1596167418|https://scryfall.com/card/m21/328/liliana-death-mage?utm_source=api>`
@@ -1544,7 +1544,7 @@
 
 
 :mtgtip:`Liliana's Scorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b231f941-4acb-46f2-81ae-16e5a28e65af.jpg?1596250190|https://scryfall.com/card/m21/329/lilianas-scorn?utm_source=api>`
-   Destroy target creature. You may search your library and/or graveyard for a card named Liliana, Death Mage, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Destroy target creature. You may search your library and/or graveyard for a card named Liliana, Death Mage, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Liliana's Scrounger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a64625f-937a-449e-b1fc-cd0f25b033f6.jpg?1596250192|https://scryfall.com/card/m21/330/lilianas-scrounger?utm_source=api>`
@@ -1566,7 +1566,7 @@
 :mtgtip:`Chandra's Firemaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76cf0b50-155f-4e65-9e48-88b378ad93a1.jpg?1596250195|https://scryfall.com/card/m21/333/chandras-firemaw?utm_source=api>`
    Haste
 
-   When Chandra's Firemaw enters the battlefield, you may search your library and/or graveyard for a card named Chandra, Flame's Catalyst, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Chandra's Firemaw enters the battlefield, you may search your library and/or graveyard for a card named Chandra, Flame's Catalyst, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Keral Keep Disciples<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b862e46-f5a2-4fce-98b5-2c5aa49ec648.jpg?1596250198|https://scryfall.com/card/m21/334/keral-keep-disciples?utm_source=api>`
@@ -1588,7 +1588,7 @@
 :mtgtip:`Garruk's Warsteed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6099863-8d3d-44bf-8d3b-dc3602119617.jpg?1596250201|https://scryfall.com/card/m21/337/garruks-warsteed?utm_source=api>`
    Vigilance
 
-   When Garruk's Warsteed enters the battlefield, you may search your library and/or graveyard for a card named Garruk, Savage Herald, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Garruk's Warsteed enters the battlefield, you may search your library and/or graveyard for a card named Garruk, Savage Herald, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Predatory Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4073cbc6-11de-4d4a-bcd7-792f9b7c5219.jpg?1596250202|https://scryfall.com/card/m21/338/predatory-wurm?utm_source=api>`

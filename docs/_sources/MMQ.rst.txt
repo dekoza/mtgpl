@@ -166,15 +166,15 @@
 :mtgtip:`Ramosian Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e9d2e2a-c608-4787-bbd9-e1871f681b58.jpg?1562378973|https://scryfall.com/card/mmq/35/ramosian-captain?utm_source=api>`
    First strike
 
-   |mana_5|, |tap|: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_5|, |tap|: Search your library for a Rebel permanent card with mana value 4 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Ramosian Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/867f5d82-71c2-455f-ab16-5a32bba46986.jpg?1562381840|https://scryfall.com/card/mmq/36/ramosian-commander?utm_source=api>`
-   |mana_6|, |tap|: Search your library for a Rebel permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_6|, |tap|: Search your library for a Rebel permanent card with mana value 5 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Ramosian Lieutenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/debe840a-ebc9-43c4-9bf7-7eb292b65bf9.jpg?1562383499|https://scryfall.com/card/mmq/37/ramosian-lieutenant?utm_source=api>`
-   |mana_4|, |tap|: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_4|, |tap|: Search your library for a Rebel permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Ramosian Rally<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fc0ff04-43e7-4a0d-b7e2-8bab72cc6cc0.jpg?1562381822|https://scryfall.com/card/mmq/38/ramosian-rally?utm_source=api>`
@@ -184,13 +184,13 @@
 
 
 :mtgtip:`Ramosian Sergeant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef2b036d-5721-4a6e-bf43-69148b90da10.jpg?1562383981|https://scryfall.com/card/mmq/39/ramosian-sergeant?utm_source=api>`
-   |mana_3|, |tap|: Search your library for a Rebel permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a Rebel permanent card with mana value 2 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Ramosian Sky Marshal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16638976-8a78-4233-8ebc-42ea9bb49e0a.jpg?1562379425|https://scryfall.com/card/mmq/40/ramosian-sky-marshal?utm_source=api>`
    Flying
 
-   |mana_7|, |tap|: Search your library for a Rebel permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_7|, |tap|: Search your library for a Rebel permanent card with mana value 6 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rappelling Scouts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/113b8366-e6d0-423e-af4b-52c1e08ed446.jpg?1562379414|https://scryfall.com/card/mmq/41/rappelling-scouts?utm_source=api>`
@@ -222,7 +222,7 @@
 
 
 :mtgtip:`Security Detail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b89d34b-1a67-4f5c-a731-54b56c5233ff.jpg?1562380880|https://scryfall.com/card/mmq/47/security-detail?utm_source=api>`
-   |mana_w|\ |mana_w|: Create a 1/1 white Soldier creature token. Activate this ability only if you control no creatures and only once each turn.
+   |mana_w|\ |mana_w|: Create a 1/1 white Soldier creature token. Activate only if you control no creatures and only once each turn.
 
 
 :mtgtip:`Soothing Balm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96b8f4be-9f4d-4373-8141-a03518ecd38a.jpg?1562382063|https://scryfall.com/card/mmq/48/soothing-balm?utm_source=api>`
@@ -256,7 +256,7 @@
 
 
 :mtgtip:`Trap Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eba97681-1d1f-4ab6-a21b-fbbbe63a1c74.jpg?1562383534|https://scryfall.com/card/mmq/55/trap-runner?utm_source=api>`
-   |tap|: Target unblocked attacking creature becomes blocked. Activate this ability only during combat after blockers are declared. (This ability works on creatures that can't be blocked.)
+   |tap|: Target unblocked attacking creature becomes blocked. Activate only during combat after blockers are declared. (This ability works on creatures that can't be blocked.)
 
 
 :mtgtip:`Wave of Reckoning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b101b5e-d478-4686-b3cf-bdc545f089e5.jpg?1562378964|https://scryfall.com/card/mmq/56/wave-of-reckoning?utm_source=api>`
@@ -286,7 +286,7 @@
 
 
 :mtgtip:`Bribery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfc0ea8a-62f6-49e8-8eec-9748870bc596.jpg?1562383504|https://scryfall.com/card/mmq/62/bribery?utm_source=api>`
-   Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles their library.
+   Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles.
 
 
 :mtgtip:`Buoyancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b208dad2-a412-45fd-b19a-d370426ef5b8.jpg?1562382548|https://scryfall.com/card/mmq/63/buoyancy?utm_source=api>`
@@ -360,7 +360,7 @@
 :mtgtip:`Drake Hatchling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64ee32f9-6120-4f15-a692-89a4cd8167c6.jpg?1562380897|https://scryfall.com/card/mmq/76/drake-hatchling?utm_source=api>`
    Flying
 
-   |mana_u|: Drake Hatchling gets +1/+0 until end of turn. Activate this ability only once each turn.
+   |mana_u|: Drake Hatchling gets +1/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Embargo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fca3c65-f20e-4978-bfbb-ee7f9e1d829f.jpg?1562380390|https://scryfall.com/card/mmq/77/embargo?utm_source=api>`
@@ -410,7 +410,7 @@
 
 
 :mtgtip:`Karn's Touch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07845861-f974-43b7-829c-79a4a41ac3e3.jpg?1562378954|https://scryfall.com/card/mmq/86/karns-touch?utm_source=api>`
-   Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn. (It retains its abilities.)
+   Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn. (It retains its abilities.)
 
 
 :mtgtip:`Misdirection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/581ad59c-29e9-4498-a6fd-33bf21e8e7c4.jpg?1562380872|https://scryfall.com/card/mmq/87/misdirection?utm_source=api>`
@@ -576,37 +576,37 @@
 
 
 :mtgtip:`Cateran Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73b6ce76-0ed0-4994-ae2c-d8e51ae09920.jpg?1562381364|https://scryfall.com/card/mmq/120/cateran-brute?utm_source=api>`
-   |mana_2|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_2|, |tap|: Search your library for a Mercenary permanent card with mana value 2 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cateran Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e9b6da8-39da-4fce-89cf-ea972f981331.jpg?1562382078|https://scryfall.com/card/mmq/121/cateran-enforcer?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
-   |mana_4|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_4|, |tap|: Search your library for a Mercenary permanent card with mana value 4 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cateran Kidnappers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3768bdc1-4055-423a-a1cc-69b4c620e3e6.jpg?1562379927|https://scryfall.com/card/mmq/122/cateran-kidnappers?utm_source=api>`
-   |mana_3|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a Mercenary permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cateran Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8a1ffcb-40a7-423f-b28a-b5b4c1c9ffd0.jpg?1562383526|https://scryfall.com/card/mmq/123/cateran-overlord?utm_source=api>`
    Sacrifice a creature: Regenerate Cateran Overlord.
 
-   |mana_6|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_6|, |tap|: Search your library for a Mercenary permanent card with mana value 6 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cateran Persuader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a98bdbf1-32a6-4d9b-8e57-5d3aca6b05bc.jpg?1562382097|https://scryfall.com/card/mmq/124/cateran-persuader?utm_source=api>`
-   |mana_1|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 1 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_1|, |tap|: Search your library for a Mercenary permanent card with mana value 1 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cateran Slaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d293c51-714c-45b8-bfa4-fe35e8f3fbc1.jpg?1562379906|https://scryfall.com/card/mmq/125/cateran-slaver?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
-   |mana_5|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_5|, |tap|: Search your library for a Mercenary permanent card with mana value 5 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Cateran Summons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af3de1f9-9038-4352-b4bf-2e9c5c27495a.jpg?1562382542|https://scryfall.com/card/mmq/126/cateran-summons?utm_source=api>`
-   Search your library for a Mercenary card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for a Mercenary card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Conspiracy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/411c9f22-2df0-4a63-b2be-fa02612a6ef8.jpg?1562380402|https://scryfall.com/card/mmq/127/conspiracy?utm_source=api>`
@@ -654,7 +654,7 @@
 
 
 :mtgtip:`Forced March<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36eae0e1-7100-449d-a259-7abfcd429117.jpg?1562379925|https://scryfall.com/card/mmq/136/forced-march?utm_source=api>`
-   Destroy all creatures with converted mana cost X or less.
+   Destroy all creatures with mana value X or less.
 
 
 :mtgtip:`Ghoul's Feast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a0054c1-6510-41dd-8695-9bf50296b615.jpg?1562381350|https://scryfall.com/card/mmq/137/ghouls-feast?utm_source=api>`
@@ -754,7 +754,7 @@
 
 
 :mtgtip:`Scandalmonger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10c97baa-9bc0-4894-867c-ad1f56c469fd.jpg?1562378975|https://scryfall.com/card/mmq/158/scandalmonger?utm_source=api>`
-   |mana_2|: Target player discards a card. Any player may activate this ability but only any time they could cast a sorcery.
+   |mana_2|: Target player discards a card. Any player may activate this ability but only as a sorcery.
 
 
 :mtgtip:`Sever Soul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2d84fec-18f1-4231-a293-0dc1ff868a40.jpg?1562383023|https://scryfall.com/card/mmq/159/sever-soul?utm_source=api>`
@@ -816,7 +816,7 @@
 :mtgtip:`Wall of Distortion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2b2d07a-9ea1-430d-b432-ae507f4fe73b.jpg?1562383044|https://scryfall.com/card/mmq/171/wall-of-distortion?utm_source=api>`
    Defender (This creature can't attack.)
 
-   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Arms Dealer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dafea45d-be00-428d-a127-70e6a14efe3f.jpg?1562383057|https://scryfall.com/card/mmq/172/arms-dealer?utm_source=api>`
@@ -930,11 +930,11 @@
 
 
 :mtgtip:`Hammer Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b959d7ad-a78e-439f-9225-4dbb89f490d7.jpg?1562382561|https://scryfall.com/card/mmq/193/hammer-mage?utm_source=api>`
-   |mana_x|\ |mana_r|, |tap|, Discard a card: Destroy all artifacts with converted mana cost X or less.
+   |mana_x|\ |mana_r|, |tap|, Discard a card: Destroy all artifacts with mana value X or less.
 
 
 :mtgtip:`Hired Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc33920a-f05c-46fa-b94b-278af0022b78.jpg?1562383496|https://scryfall.com/card/mmq/194/hired-giant?utm_source=api>`
-   When Hired Giant enters the battlefield, each other player may search their library for a land card and put that card onto the battlefield. Then each player who searched their library this way shuffles it.
+   When Hired Giant enters the battlefield, each other player may search their library for a land card and put that card onto the battlefield. Then each player who searched their library this way shuffles.
 
 
 :mtgtip:`Kris Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4389fbcd-182a-4cac-b14f-aa971948cf8e.jpg?1562380413|https://scryfall.com/card/mmq/195/kris-mage?utm_source=api>`
@@ -1023,7 +1023,7 @@
    Sizzle deals 3 damage to each opponent.
 
 
-:mtgtip:`Squee, Goblin Nabob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4ba8325a-1203-4125-9111-94d9e2b1f14b.jpg?1562380855|https://scryfall.com/card/mmq/214/squee-goblin-nabob?utm_source=api>`
+:mtgtip:`Squee, Goblin Nabob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4ba8325a-1203-4125-9111-94d9e2b1f14b.jpg?1618252846|https://scryfall.com/card/mmq/214/squee-goblin-nabob?utm_source=api>`
    At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
 
 
@@ -1090,7 +1090,7 @@
 
 
 :mtgtip:`Word of Blasting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5362ead-9162-4160-bfa9-432f7d0e222d.jpg?1562383027|https://scryfall.com/card/mmq/228/word-of-blasting?utm_source=api>`
-   Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.
+   Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's mana value to the Wall's controller.
 
 
 :mtgtip:`Ancestral Mask<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1203f98a-fb6e-4f16-88e3-553eba177450.jpg?1562379417|https://scryfall.com/card/mmq/229/ancestral-mask?utm_source=api>`
@@ -1100,7 +1100,7 @@
 
 
 :mtgtip:`Bifurcate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dedb483e-b2c6-46c6-b02b-a49599d33521.jpg?1562383500|https://scryfall.com/card/mmq/230/bifurcate?utm_source=api>`
-   Search your library for a permanent card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a permanent card with the same name as target nontoken creature, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Boa Constrictor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7369cbf-6986-4a39-b07c-a283b40aee40.jpg?1562383995|https://scryfall.com/card/mmq/231/boa-constrictor?utm_source=api>`
@@ -1170,7 +1170,7 @@
 
 
 :mtgtip:`Food Chain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a1bb9e-006c-495e-8f99-d451183d2669.jpg?1562379435|https://scryfall.com/card/mmq/246/food-chain?utm_source=api>`
-   Exile a creature you control: Add X mana of any one color, where X is 1 plus the exiled creature's converted mana cost. Spend this mana only to cast creature spells.
+   Exile a creature you control: Add X mana of any one color, where X is 1 plus the exiled creature's mana value. Spend this mana only to cast creature spells.
 
 
 :mtgtip:`Foster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be54e1d7-1388-4184-ad0d-dde4b0a3d02d.jpg?1562382573|https://scryfall.com/card/mmq/247/foster?utm_source=api>`
@@ -1194,7 +1194,7 @@
 
 
 :mtgtip:`Howling Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7416c68a-5a6a-4d51-8dc7-5c62da81ec77.jpg?1562381367|https://scryfall.com/card/mmq/252/howling-wolf?utm_source=api>`
-   When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Hunted Wumpus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b21c8b2d-ef0f-4839-acfc-20fd248c62cf.jpg?1562382549|https://scryfall.com/card/mmq/253/hunted-wumpus?utm_source=api>`
@@ -1210,7 +1210,7 @@
 :mtgtip:`Land Grant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6862005-32d1-473e-a28b-5dfc4b7782cd.jpg?1562383050|https://scryfall.com/card/mmq/255/land-grant?utm_source=api>`
    If you have no land cards in hand, you may reveal your hand rather than pay this spell's mana cost.
 
-   Search your library for a Forest card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for a Forest card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Ley Line<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8990efd-708a-4019-bce0-2d6409ecc004.jpg?1562383997|https://scryfall.com/card/mmq/256/ley-line?utm_source=api>`
@@ -1272,11 +1272,11 @@
 
 
 :mtgtip:`Silverglade Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f222fe90-ac92-4ba9-b060-9b64075bf139.jpg?1562383988|https://scryfall.com/card/mmq/269/silverglade-elemental?utm_source=api>`
-   When Silverglade Elemental enters the battlefield, you may search your library for a Forest card and put that card onto the battlefield. If you do, shuffle your library.
+   When Silverglade Elemental enters the battlefield, you may search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Silverglade Pathfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bc99b33-ce06-4a44-8b23-300b41b2b2fe.jpg?1562382074|https://scryfall.com/card/mmq/270/silverglade-pathfinder?utm_source=api>`
-   |mana_1|\ |mana_g|, |tap|, Discard a card: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_1|\ |mana_g|, |tap|, Discard a card: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Snake Pit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/059a70a5-d4fb-445e-af98-e81821df2c59.jpg?1562378952|https://scryfall.com/card/mmq/271/snake-pit?utm_source=api>`
@@ -1356,7 +1356,7 @@
 
 
 :mtgtip:`Assembly Hall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1676ccbb-91d2-4f26-b3a5-ccb1a21bdebf.jpg?1562379426|https://scryfall.com/card/mmq/286/assembly-hall?utm_source=api>`
-   |mana_4|, |tap|: Reveal a creature card in your hand. Search your library for a card with the same name as that card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_4|, |tap|: Reveal a creature card in your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Barbed Wire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be9e2e59-1527-4c61-9cc9-dcaf1181bd43.jpg?1562382574|https://scryfall.com/card/mmq/287/barbed-wire?utm_source=api>`
@@ -1456,11 +1456,11 @@
 :mtgtip:`Mercadian Lift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/395a1a8a-785f-442b-8e95-8b4ca44af2a3.jpg?1562379931|https://scryfall.com/card/mmq/306/mercadian-lift?utm_source=api>`
    |mana_1|, |tap|: Put a winch counter on Mercadian Lift.
 
-   |tap|, Remove X winch counters from Mercadian Lift: You may put a creature card with converted mana cost X from your hand onto the battlefield.
+   |tap|, Remove X winch counters from Mercadian Lift: You may put a creature card with mana value X from your hand onto the battlefield.
 
 
 :mtgtip:`Monkey Cage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07f6be53-7a20-4e6b-a6ce-11cba06af8cb.jpg?1562378956|https://scryfall.com/card/mmq/307/monkey-cage?utm_source=api>`
-   When a creature enters the battlefield, sacrifice Monkey Cage and create X 2/2 green Monkey creature tokens, where X is that creature's converted mana cost.
+   When a creature enters the battlefield, sacrifice Monkey Cage and create X 2/2 green Monkey creature tokens, where X is that creature's mana value.
 
 
 :mtgtip:`Panacea<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89414770-2a19-4baf-9b18-76104b7b0b9a.jpg?1562381843|https://scryfall.com/card/mmq/308/panacea?utm_source=api>`
@@ -1492,7 +1492,7 @@
 
 
 :mtgtip:`Toymaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76f3992a-553c-4032-b144-55aad2f909f1.jpg?1562381374|https://scryfall.com/card/mmq/314/toymaker?utm_source=api>`
-   |mana_1|, |tap|, Discard a card: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn. (It retains its abilities.)
+   |mana_1|, |tap|, Discard a card: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn. (It retains its abilities.)
 
 
 :mtgtip:`Worry Beads<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/400edfe9-9efa-43f9-b713-13ad4eae2fa4.jpg?1562380392|https://scryfall.com/card/mmq/315/worry-beads?utm_source=api>`

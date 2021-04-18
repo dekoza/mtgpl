@@ -112,7 +112,7 @@
 
 
 :mtgtip:`Stoneforge Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19557351-b65f-4b04-b971-66abdc07000a.jpg?1566819710|https://scryfall.com/card/wwk/20/stoneforge-mystic?utm_source=api>`
-   When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+   When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 
    |mana_1|\ |mana_w|, |tap|: You may put an Equipment card from your hand onto the battlefield.
 
@@ -200,7 +200,7 @@
 
 
 :mtgtip:`Selective Memory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/555063cc-99ad-4014-b17b-c4c6b40d2e81.jpg?1562287365|https://scryfall.com/card/wwk/37/selective-memory?utm_source=api>`
-   Search your library for any number of nonland cards and exile them. Then shuffle your library.
+   Search your library for any number of nonland cards, exile them, then shuffle.
 
 
 :mtgtip:`Spell Contortion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b748d8b-898f-4b55-bc33-f5bbbc823c45.jpg?1562286779|https://scryfall.com/card/wwk/38/spell-contortion?utm_source=api>`
@@ -216,7 +216,7 @@
 :mtgtip:`Thada Adel, Acquisitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bfcbeab-7a1e-4dcf-99bf-98f42c2b6a6f.jpg?1562285424|https://scryfall.com/card/wwk/40/thada-adel-acquisitor?utm_source=api>`
    Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
 
-   Whenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles their library. Until end of turn, you may play that card.
+   Whenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles. Until end of turn, you may play that card.
 
 
 :mtgtip:`Tideforce Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f23e758d-c9a4-4f8e-b366-634f8c451b61.jpg?1562299266|https://scryfall.com/card/wwk/41/tideforce-elemental?utm_source=api>`
@@ -266,7 +266,7 @@
 
 
 :mtgtip:`Agadeem Occultist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c592ef76-d612-4cfe-b906-0e63c44d36f8.jpg?1562295659|https://scryfall.com/card/wwk/48/agadeem-occultist?utm_source=api>`
-   |tap|: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.
+   |tap|: Put target creature card from an opponent's graveyard onto the battlefield under your control if its mana value is less than or equal to the number of Allies you control.
 
 
 :mtgtip:`Anowon, the Ruin Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b247681-1cf6-42a0-ad44-76261c690596.jpg?1562290388|https://scryfall.com/card/wwk/49/anowon-the-ruin-sage?utm_source=api>`
@@ -368,7 +368,7 @@
 
 
 :mtgtip:`Smother<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09b4deea-c077-46ab-898f-41b3907ecf33.jpg?1562281733|https://scryfall.com/card/wwk/68/smother?utm_source=api>`
-   Destroy target creature with converted mana cost 3 or less. It can't be regenerated.
+   Destroy target creature with mana value 3 or less. It can't be regenerated.
 
 
 :mtgtip:`Tomb Hex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9beaaa66-0dae-4631-895d-06570834ba7c.jpg?1562292567|https://scryfall.com/card/wwk/69/tomb-hex?utm_source=api>`
@@ -656,7 +656,7 @@
 
 
 :mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fdcc0c3-4029-4fc3-a486-5d7f45c910bd.jpg?1562283219|https://scryfall.com/card/wwk/123/everflowing-chalice?utm_source=api>`
-   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
+   Multikicker |mana_2|
 
    Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
 
@@ -688,7 +688,7 @@
 :mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd2a474b-5eac-4e0d-b65c-5610385f2011.jpg?1562296218|https://scryfall.com/card/wwk/128/pilgrims-eye?utm_source=api>`
    Flying
 
-   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Razor Boomerang<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41526ad7-730d-44ad-bd19-e1b8a2717cf7.jpg?1562285873|https://scryfall.com/card/wwk/129/razor-boomerang?utm_source=api>`
@@ -738,7 +738,7 @@
 :mtgtip:`Eye of Ugin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3b21941-1b7d-4fde-8b1d-7edbd5e5b796.jpg?1562295498|https://scryfall.com/card/wwk/136/eye-of-ugin?utm_source=api>`
    Colorless Eldrazi spells you cast cost |mana_2| less to cast.
 
-   |mana_7|, |tap|: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_7|, |tap|: Search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Halimar Depths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5651e5e-2314-4e3d-a2c8-2579239314e1.jpg?1562295658|https://scryfall.com/card/wwk/137/halimar-depths?utm_source=api>`
@@ -806,5 +806,5 @@
 :mtgtip:`Tectonic Edge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdcf5c0f-9d18-406d-a930-c179a781264f.jpg?1562300216|https://scryfall.com/card/wwk/145/tectonic-edge?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.
+   |mana_1|, |tap|, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate only if an opponent controls four or more lands.
 

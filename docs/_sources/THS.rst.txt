@@ -90,7 +90,7 @@
 :mtgtip:`Gods Willing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abafabb3-b2e7-4d78-b4b7-d8f701d3ee8b.jpg?1562824643|https://scryfall.com/card/ths/16/gods-willing?utm_source=api>`
    Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
 
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
 
 :mtgtip:`Heliod, God of the Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e90d01c9-e76e-42ff-b0fa-8b6786242aae.jpg?1562836166|https://scryfall.com/card/ths/17/heliod-god-of-the-sun?utm_source=api>`
@@ -174,7 +174,7 @@
 :mtgtip:`Setessan Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35d2ae77-b16c-4a01-84ce-5c78be5a54d8.jpg?1562816585|https://scryfall.com/card/ths/30/setessan-griffin?utm_source=api>`
    Flying
 
-   |mana_2|\ |mana_g|\ |mana_g|: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|\ |mana_g|: Setessan Griffin gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Silent Artisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dce5647d-1546-4eff-a2a2-9e9ef26db533.jpg?1593860943|https://scryfall.com/card/ths/31/silent-artisan?utm_source=api>`
@@ -560,7 +560,7 @@
 
 
 :mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbbdbf1a-2d15-4291-aa19-614f854d8cb3.jpg?1562833564|https://scryfall.com/card/ths/101/read-the-bones?utm_source=api>`
-   Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Scry 2, then draw two cards. You lose 2 life.
 
 
 :mtgtip:`Rescue from the Underworld<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e46aa9c-7a29-4eb4-bc44-a201c22824d2.jpg?1562816254|https://scryfall.com/card/ths/102/rescue-from-the-underworld?utm_source=api>`
@@ -610,7 +610,7 @@
 :mtgtip:`Whip of Erebos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e5ec47c-47a2-4eda-b81a-4a07f04e5989.jpg?1562822353|https://scryfall.com/card/ths/110/whip-of-erebos?utm_source=api>`
    Creatures you control have lifelink.
 
-   |mana_2|\ |mana_b|\ |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.
 
 
 :mtgtip:`Akroan Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a47c50d9-11ec-486b-a5ce-5a6b70858f30.jpg?1562823279|https://scryfall.com/card/ths/111/akroan-crusader?utm_source=api>`
@@ -946,7 +946,7 @@
 
    Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.
 
-   When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Pheres-Band Centaurs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2168fcf4-cf87-4ab8-9710-6ec672750a9a.jpg?1593860938|https://scryfall.com/card/ths/171/pheres-band-centaurs?utm_source=api>`
@@ -1028,7 +1028,7 @@
 :mtgtip:`Ashiok, Nightmare Weaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/599c3c9f-dfb7-4357-9d9c-9a1a4616b103.jpg?1562818514|https://scryfall.com/card/ths/188/ashiok-nightmare-weaver?utm_source=api>`
    +2: Exile the top three cards of target opponent's library.
 
-   −X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
+   −X: Put a creature card with mana value X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
 
    −10: Exile all cards from all opponents' hands and graveyards.
 
@@ -1044,7 +1044,7 @@
 :mtgtip:`Daxos of Meletis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1562819497|https://scryfall.com/card/ths/191/daxos-of-meletis?utm_source=api>`
    Daxos of Meletis can't be blocked by creatures with power 3 or greater.
 
-   Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.
+   Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's mana value. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.
 
 
 :mtgtip:`Destructive Revelry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/798af7cb-645f-4526-8a19-6e4595b93964.jpg?1562820219|https://scryfall.com/card/ths/192/destructive-revelry?utm_source=api>`
@@ -1182,7 +1182,7 @@
 
 
 :mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/772cbcba-9efa-4894-9b57-e73fd296333d.jpg?1562820071|https://scryfall.com/card/ths/213/burnished-hart?utm_source=api>`
-   |mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Colossus of Akros<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e394ffe-7460-4c59-a403-e9404b0d10c1.jpg?1562817037|https://scryfall.com/card/ths/214/colossus-of-akros?utm_source=api>`
@@ -1224,7 +1224,7 @@
 
 
 :mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/245a683f-280e-405c-aa2a-dfabb78dc34e.jpg?1562815772|https://scryfall.com/card/ths/221/travelers-amulet?utm_source=api>`
-   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Witches' Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d989daa-78eb-4120-81b5-7866a7b04590.jpg?1562819570|https://scryfall.com/card/ths/222/witches-eye?utm_source=api>`
