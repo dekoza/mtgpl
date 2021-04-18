@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -124,8 +124,7 @@ msgstr ""
 msgid ""
 "Exile target enchantment. If the exiled card is a God card, search its "
 "controller's graveyard, hand, and library for any number of cards with the "
-"same name as that card and exile them, then that player shuffles their "
-"library."
+"same name as that card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../JOU.rst:46
@@ -458,8 +457,8 @@ msgstr ""
 #: ../../JOU.rst:155
 msgid ""
 "Heroic — Whenever you cast a spell that targets Tethmos High Priest, return "
-"target creature card with converted mana cost 2 or less from your graveyard "
-"to the battlefield."
+"target creature card with mana value 2 or less from your graveyard to the "
+"battlefield."
 msgstr ""
 
 #: ../../JOU.rst:162
@@ -676,9 +675,9 @@ msgstr ""
 #: ../../JOU.rst:231
 msgid ""
 "Scry 3, then reveal the top card of your library. Draw cards equal to that "
-"card's converted mana cost. (To scry 3, look at the top three cards of your "
-"library, then put any number of them on the bottom of your library and the "
-"rest on top in any order.)"
+"card's mana value. (To scry 3, look at the top three cards of your library, "
+"then put any number of them on the bottom of your library and the rest on "
+"top in any order.)"
 msgstr ""
 
 #: ../../JOU.rst:238
@@ -1368,8 +1367,8 @@ msgstr ""
 
 #: ../../JOU.rst:475
 msgid ""
-"Whenever a player casts a spell with converted mana cost 3 or less, Eidolon "
-"of the Great Revel deals 2 damage to that player."
+"Whenever a player casts a spell with mana value 3 or less, Eidolon of the "
+"Great Revel deals 2 damage to that player."
 msgstr ""
 
 #: ../../JOU.rst:484
@@ -1554,10 +1553,8 @@ msgstr ""
 #: ../../JOU.rst:543
 msgid ""
 "Choose any target. Scry 3, then reveal the top card of your library. Riddle "
-"of Lightning deals damage equal to that card's converted mana cost to that "
-"permanent or player. (To scry 3, look at the top three cards of your "
-"library, then put any number of them on the bottom of your library and the "
-"rest on top in any order.)"
+"of Lightning deals damage equal to that card's mana value to that permanent "
+"or player."
 msgstr ""
 
 #: ../../JOU.rst:548
@@ -1777,8 +1774,7 @@ msgstr ""
 #: ../../JOU.rst:621
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Font of Fertility: Search your library for a "
-"basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JOU.rst:626
@@ -2185,9 +2181,8 @@ msgstr ""
 #: ../../JOU.rst:759
 msgid ""
 "Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a "
-"nonland card. If you do, search your library for a card with the same "
-"converted mana cost as that card, reveal it, put it into your hand, then "
-"shuffle your library."
+"nonland card. If you do, search your library for a card with the same mana "
+"value as that card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../JOU.rst:768
@@ -2335,8 +2330,8 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your "
 "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that "
-"card's converted mana cost. (To scry 1, look at the top card of your "
-"library, then you may put that card on the bottom of your library.)"
+"card's mana value. (To scry 1, look at the top card of your library, then "
+"you may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../JOU.rst:828

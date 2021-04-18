@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
@@ -159,10 +159,16 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:59
+#, fuzzy
+#| msgid ""
+#| "Whenever a creature with the chosen name enters the battlefield under "
+#| "your control, you may search your library for any number of cards with "
+#| "that name, reveal them, put them into your hand, then shuffle your "
+#| "library."
 msgid ""
 "Whenever a creature with the chosen name enters the battlefield under your "
 "control, you may search your library for any number of cards with that name, "
-"reveal them, put them into your hand, then shuffle your library."
+"reveal them, put them into your hand, then shuffle."
 msgstr ""
 "Ilekroć stwór o wybranej nazwie wejdzie na pole bitwy pod twoim władaniem, "
 "możesz wyszukać w twojej bibliotece dowolną liczbę kart o owej nazwie, "
@@ -402,12 +408,20 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:133
+#, fuzzy
+#| msgid ""
+#| "Look at the top five cards of your library. You may reveal any number of "
+#| "creature cards from among them and put the revealed cards into your hand. "
+#| "Put the rest on the bottom of your library in any order."
 msgid ""
 "|mana_3|\\ |mana_u|, |tap|: Look at the top X cards of your library, where X "
-"is the highest converted mana cost among artifacts you control. You may "
-"reveal an artifact card from among them and put it onto the battlefield. Put "
-"the rest on the bottom of your library in any order."
+"is the highest mana value among artifacts you control. You may put an "
+"artifact card from among them onto the battlefield. Put the rest on the "
+"bottom of your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich dowolną liczbą kart stworów i umieścić owe ujawnione karty w twojej "
+"ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../CNS.rst:138
 msgid ""
@@ -619,11 +633,18 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:209
+#, fuzzy
+#| msgid ""
+#| "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for an Island card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your "
-"library for a land card, reveal it, put it into your hand, then shuffle your "
-"library."
+"library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
+"twoją bibliotekę.)"
 
 #: ../../CNS.rst:214
 msgid ""
@@ -879,7 +900,7 @@ msgid ""
 "When Aether Searcher enters the battlefield, you may search your hand and/or "
 "library for a card with a name noted as you drafted cards named Aether "
 "Searcher. You may cast it without paying its mana cost. If you searched your "
-"library this way, shuffle it."
+"library this way, shuffle."
 msgstr ""
 
 #: ../../CNS.rst:298
@@ -1263,9 +1284,14 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:419
+#, fuzzy
+#| msgid ""
+#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+"a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
@@ -1436,9 +1462,13 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:485
+#, fuzzy
+#| msgid ""
+#| "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
+#| "planeswalker you control."
 msgid ""
-"Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
-"planeswalker you control."
+"Enchanted creature gets +2/+2, has vigilance, and can't attack you or "
+"planeswalkers you control."
 msgstr ""
 "Zauroczony stwór dostaje +2/+2, ma czujność i nie może atakować ciebie lub "
 "wędrowców pod twoim władaniem."
@@ -1534,9 +1564,9 @@ msgid ""
 "https://scryfall.com/card/cns/94/crookclaw-transmuter?utm_source=api>`"
 msgstr ""
 
-#: ../../CNS.rst:517 ../../CNS.rst:843
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
+#: ../../CNS.rst:517
+msgid "Flash"
+msgstr ""
 
 #: ../../CNS.rst:521
 msgid ""
@@ -1700,11 +1730,20 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:579
+#, fuzzy
+#| msgid ""
+#| "Whenever a creature with the chosen name enters the battlefield under "
+#| "your control, you may search your library for any number of cards with "
+#| "that name, reveal them, put them into your hand, then shuffle your "
+#| "library."
 msgid ""
 "When Screaming Seahawk enters the battlefield, you may search your library "
-"for a card named Screaming Seahawk, reveal it, and put it into your hand. If "
-"you do, shuffle your library."
+"for a card named Screaming Seahawk, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
+"Ilekroć stwór o wybranej nazwie wejdzie na pole bitwy pod twoim władaniem, "
+"możesz wyszukać w twojej bibliotece dowolną liczbę kart o owej nazwie, "
+"ujawnić je, umieścić w twojej ręce, po czym przetasować twoją bibliotekę."
 
 #: ../../CNS.rst:586
 msgid ""
@@ -1714,9 +1753,14 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:585
+#, fuzzy
+#| msgid ""
+#| "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for an Island card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"an Island card, reveal it, put it into your hand, then shuffle your library.)"
+"an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -1867,7 +1911,7 @@ msgstr ""
 #: ../../CNS.rst:645
 msgid ""
 "|tap|, Sacrifice Magus of the Mirror: Exchange life totals with target "
-"opponent. Activate this ability only during your upkeep."
+"opponent. Activate only during your upkeep."
 msgstr ""
 
 #: ../../CNS.rst:650
@@ -2064,9 +2108,14 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../CNS.rst:709
+#, fuzzy
+#| msgid ""
+#| "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Swamp card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+"a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -2219,11 +2268,18 @@ msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../CNS.rst:763
+#, fuzzy
+#| msgid ""
+#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library "
-"for a Mountain card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
+"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../CNS.rst:770
 msgid ""
@@ -2427,6 +2483,10 @@ msgid ""
 "https://scryfall.com/card/cns/155/uncontrollable-anger?utm_source=api>`"
 msgstr ""
 
+#: ../../CNS.rst:843
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
+
 #: ../../CNS.rst:847
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
 msgstr ""
@@ -2541,9 +2601,14 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../CNS.rst:889
+#, fuzzy
+#| msgid ""
+#| "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Forest card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+"a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -2603,11 +2668,20 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:907
+#, fuzzy
+#| msgid ""
+#| "Whenever a creature with the chosen name enters the battlefield under "
+#| "your control, you may search your library for any number of cards with "
+#| "that name, reveal them, put them into your hand, then shuffle your "
+#| "library."
 msgid ""
 "When Howling Wolf enters the battlefield, you may search your library for up "
-"to three cards named Howling Wolf, reveal them, and put them into your hand. "
-"If you do, shuffle your library."
+"to three cards named Howling Wolf, reveal them, put them into your hand, "
+"then shuffle."
 msgstr ""
+"Ilekroć stwór o wybranej nazwie wejdzie na pole bitwy pod twoim władaniem, "
+"możesz wyszukać w twojej bibliotece dowolną liczbę kart o owej nazwie, "
+"ujawnić je, umieścić w twojej ręce, po czym przetasować twoją bibliotekę."
 
 #: ../../CNS.rst:914
 msgid ""
@@ -2744,7 +2818,7 @@ msgstr ""
 #: ../../CNS.rst:955
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
-"that card onto the battlefield tapped, then shuffle your library."
+"that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CNS.rst:958
@@ -2939,7 +3013,7 @@ msgstr ""
 #: ../../CNS.rst:1023
 msgid ""
 "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and "
-"enchantment with converted mana cost X or less."
+"enchantment with mana value X or less."
 msgstr ""
 
 #: ../../CNS.rst:1028

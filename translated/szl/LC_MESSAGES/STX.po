@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 09:51+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -109,10 +109,10 @@ msgstr ""
 
 #: ../../STX.rst:33
 msgid ""
-"Each player looks at the top five cards of their library, reveals a land "
-"card and/or an instant or sorcery card from among them, then puts the cards "
-"they revealed this way into their hand and the rest on the bottom of their "
-"library in a random order. Each player gains 3 life."
+"Each player looks at the top five cards of their library and may reveal a "
+"land card and/or an instant or sorcery card from among them. Each player "
+"puts the cards they revealed this way into their hand and the rest on the "
+"bottom of their library in a random order. Each player gains 3 life."
 msgstr ""
 
 #: ../../STX.rst:42
@@ -123,7 +123,8 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:37 ../../STX.rst:63 ../../STX.rst:369 ../../STX.rst:461
-#: ../../STX.rst:633 ../../STX.rst:795 ../../STX.rst:1057 ../../STX.rst:1329
+#: ../../STX.rst:493 ../../STX.rst:633 ../../STX.rst:795 ../../STX.rst:1057
+#: ../../STX.rst:1329
 msgid "Choose one —"
 msgstr ""
 
@@ -344,7 +345,7 @@ msgstr ""
 #: ../../STX.rst:113
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures "
-"you control get +1/+1 until end of turn,"
+"you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../STX.rst:120
@@ -457,7 +458,7 @@ msgstr ""
 
 #: ../../STX.rst:151
 msgid ""
-"When you cast this spell, copy it for each other instant or sorcery spell "
+"When you cast this spell, copy it for each other instant and sorcery spell "
 "you've cast this turn. You may choose new targets for the copies."
 msgstr ""
 
@@ -797,7 +798,7 @@ msgstr ""
 #: ../../STX.rst:283
 msgid ""
 "Counter target creature or planeswalker spell unless its controller pays |"
-"mana_3|. If that spell is countered this way, exile it instead of putting "
+"mana_3|. If that spell is countered this way, exile it instead of putting it "
 "into its owner's graveyard."
 msgstr ""
 
@@ -1366,10 +1367,6 @@ msgid ""
 "scryfall.com/card/stx/89/umbral-juke?utm_source=api>`"
 msgstr ""
 
-#: ../../STX.rst:493
-msgid "Choose one: —"
-msgstr ""
-
 #: ../../STX.rst:495
 msgid "Target player sacrifices a creature or planeswalker."
 msgstr ""
@@ -1611,8 +1608,7 @@ msgstr ""
 #: ../../STX.rst:579
 msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
-"colorless|\\ |mana_r|. Activate this ability only any time you could cast a "
-"sorcery."
+"colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
 
 #: ../../STX.rst:586
@@ -1970,7 +1966,7 @@ msgstr ""
 msgid ""
 "Search your library and graveyard for up to four creature cards with "
 "different names that each have mana value X or less and reveal them. An "
-"opponent choses two of those cards. Shuffle the chosen cards into your "
+"opponent chooses two of those cards. Shuffle the chosen cards into your "
 "library and put the rest onto the battlefield. Exile Ecological Appreciation."
 msgstr ""
 
@@ -2277,7 +2273,7 @@ msgstr ""
 msgid ""
 "Look at the top five cards of your library. You may put any number of them "
 "into your hand and the rest into your graveyard. You lose 3 life for each "
-"card put into your hand this way."
+"card you put into your hand this way."
 msgstr ""
 
 #: ../../STX.rst:832
@@ -2345,8 +2341,8 @@ msgstr ""
 
 #: ../../STX.rst:847
 msgid ""
-"You opponents can't cast spells or activate planeswalkers' loyalty abilities "
-"this turn."
+"Your opponents can't cast spells or activate planeswalkers' loyalty "
+"abilities this turn."
 msgstr ""
 
 #: ../../STX.rst:849
@@ -2440,8 +2436,8 @@ msgstr ""
 
 #: ../../STX.rst:877
 msgid ""
-"Whenever a permanent you control becomes the target of a spell or ability "
-"and opponent controls, you may draw a card."
+"Whenever a permanent you control becomes the target of a spell or ability an "
+"opponent controls, you may draw a card."
 msgstr ""
 
 #: ../../STX.rst:886
@@ -2726,7 +2722,7 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, exile the top card of each opponent's "
 "library. Until end of turn, you may cast spells from among those exiled "
-"cards, and you many spend mana as though it were mana of any color to cast "
+"cards, and you may spend mana as though it were mana of any color to cast "
 "those spells."
 msgstr ""
 
@@ -3055,8 +3051,9 @@ msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose "
 "target creature you control. Until end of turn, it gains \"If this creature "
 "would leave the battlefield, exile it instead of putting it anywhere else\" "
-"and \"When you exile this creature, create a 4/4 blue and red Elemental "
-"creature token.\" (Each instance of that ability triggers separately.)"
+"and \"When this creature is put into exile, create a 4/4 blue and red "
+"Elemental creature token.\" (Each instance of that ability triggers "
+"separately.)"
 msgstr ""
 
 #: ../../STX.rst:1088

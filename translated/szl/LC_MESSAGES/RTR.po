@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -351,8 +351,7 @@ msgstr ""
 #: ../../RTR.rst:119
 msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
-"player sacrifices it unless they pay |mana_x|, where X is its converted mana "
-"cost."
+"player sacrifices it unless they pay |mana_x|, where X is its mana value."
 msgstr ""
 
 #: ../../RTR.rst:124
@@ -364,7 +363,7 @@ msgstr ""
 
 #: ../../RTR.rst:123
 msgid ""
-"Creatures can't attack you or a planeswalker you control unless their "
+"Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_x| for each of those creatures, where X is the number "
 "of enchantments you control."
 msgstr ""
@@ -650,8 +649,8 @@ msgstr ""
 #: ../../RTR.rst:223
 msgid ""
 "−8: For each player, search that player's library for a nonland card and "
-"exile it, then that player shuffles their library. You may cast those cards "
-"without paying their mana costs."
+"exile it, then that player shuffles. You may cast those cards without paying "
+"their mana costs."
 msgstr ""
 
 #: ../../RTR.rst:230
@@ -1681,7 +1680,7 @@ msgstr ""
 msgid ""
 "When Gatecreeper Vine enters the battlefield, you may search your library "
 "for a basic land card or a Gate card, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../RTR.rst:630
@@ -1766,7 +1765,7 @@ msgstr ""
 #: ../../RTR.rst:655
 msgid ""
 "Remove a charge counter from Mana Bloom: Add one mana of any color. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../RTR.rst:657
@@ -1820,8 +1819,8 @@ msgstr ""
 
 #: ../../RTR.rst:673
 msgid ""
-"Search your library for up to three basic land cards, reveal them, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to three basic land cards, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../RTR.rst:678
@@ -1916,7 +1915,7 @@ msgid "This spell can't be countered."
 msgstr ""
 
 #: ../../RTR.rst:709
-msgid "Destroy target nonland permanent with converted mana cost 3 or less."
+msgid "Destroy target nonland permanent with mana value 3 or less."
 msgstr ""
 
 #: ../../RTR.rst:716
@@ -2160,9 +2159,9 @@ msgstr ""
 #: ../../RTR.rst:805
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
-"spells with converted mana cost X or less from among them without paying "
-"their mana costs. Then put all cards exiled this way that weren't cast into "
-"your graveyard."
+"spells with mana value X or less from among them without paying their mana "
+"costs. Then put all cards exiled this way that weren't cast into your "
+"graveyard."
 msgstr ""
 
 #: ../../RTR.rst:810
@@ -2198,9 +2197,9 @@ msgstr ""
 
 #: ../../RTR.rst:817
 msgid ""
-"Search your library for an instant card with converted mana cost 3, reveal "
-"it, and put it into your hand. Then repeat this process for instant cards "
-"with converted mana costs 2 and 1. Then shuffle your library."
+"Search your library for an instant card with mana value 3, reveal it, and "
+"put it into your hand. Then repeat this process for instant cards with mana "
+"values 2 and 1. Then shuffle."
 msgstr ""
 
 #: ../../RTR.rst:822
@@ -2391,7 +2390,7 @@ msgstr ""
 #: ../../RTR.rst:899
 msgid ""
 "Search your library for up to two creature cards and reveal them. Put one "
-"into your hand and the other into your graveyard. Then shuffle your library."
+"into your hand and the other into your graveyard. Then shuffle."
 msgstr ""
 
 #: ../../RTR.rst:906
@@ -2472,7 +2471,7 @@ msgstr ""
 #: ../../RTR.rst:931
 msgid ""
 "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target "
-"creature equal to the discarded card's converted mana cost."
+"creature equal to the discarded card's mana value."
 msgstr ""
 
 #: ../../RTR.rst:938
@@ -2732,7 +2731,7 @@ msgstr ""
 msgid ""
 "Choose a nonland card name. Search target opponent's graveyard, hand, and "
 "library for any number of cards with that name and exile them. Then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 
 #: ../../RTR.rst:1044

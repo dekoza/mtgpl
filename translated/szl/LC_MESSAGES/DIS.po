@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -236,7 +236,7 @@ msgstr ""
 msgid ""
 "Forecast — |mana_1|\\ |mana_w|, Reveal Paladin of Prahv from your hand: "
 "Whenever target creature deals damage this turn, you gain that much life. "
-"(Activate this ability only during your upkeep and only once each turn.)"
+"(Activate only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:90
@@ -248,16 +248,16 @@ msgstr ""
 
 #: ../../DIS.rst:87
 msgid ""
-"Return up to three target creature cards with converted mana cost 1 or less "
-"from your graveyard to the battlefield."
+"Return up to three target creature cards with mana value 1 or less from your "
+"graveyard to the battlefield."
 msgstr ""
 
 #: ../../DIS.rst:89
 msgid ""
 "Forecast — |mana_5|\\ |mana_w|, Reveal Proclamation of Rebirth from your "
-"hand: Return target creature card with converted mana cost 1 or less from "
-"your graveyard to the battlefield. (Activate this ability only during your "
-"upkeep and only once each turn.)"
+"hand: Return target creature card with mana value 1 or less from your "
+"graveyard to the battlefield. (Activate only during your upkeep and only "
+"once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:94
@@ -304,8 +304,8 @@ msgstr ""
 #: ../../DIS.rst:105
 msgid ""
 "Forecast — |mana_w|, Reveal Steeling Stance from your hand: Target creature "
-"gets +1/+1 until end of turn. (Activate this ability only during your upkeep "
-"and only once each turn.)"
+"gets +1/+1 until end of turn. (Activate only during your upkeep and only "
+"once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:114
@@ -423,8 +423,7 @@ msgstr ""
 msgid ""
 "Forecast — |mana_1|\\ |mana_u|, Reveal Govern the Guildless from your hand: "
 "Target creature becomes the color or colors of your choice until end of "
-"turn. (Activate this ability only during your upkeep and only once each "
-"turn.)"
+"turn. (Activate only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:156
@@ -534,8 +533,7 @@ msgstr ""
 #: ../../DIS.rst:191
 msgid ""
 "|mana_g|, Sacrifice Silkwing Scout: Search your library for a basic land "
-"card and put that card onto the battlefield tapped. Then shuffle your "
-"library."
+"card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:198
@@ -552,8 +550,8 @@ msgstr ""
 #: ../../DIS.rst:197
 msgid ""
 "Forecast — |mana_2|\\ |mana_u|, Reveal Skyscribing from your hand: Each "
-"player draws a card. (Activate this ability only during your upkeep and only "
-"once each turn.)"
+"player draws a card. (Activate only during your upkeep and only once each "
+"turn.)"
 msgstr ""
 
 #: ../../DIS.rst:202
@@ -564,7 +562,7 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:201
-msgid "Counter target spell with converted mana cost 2."
+msgid "Counter target spell with mana value 2."
 msgstr ""
 
 #: ../../DIS.rst:208
@@ -617,7 +615,7 @@ msgstr ""
 msgid ""
 "Forecast — |mana_1|\\ |mana_u|, Reveal Writ of Passage from your hand: "
 "Target creature with power 2 or less can't be blocked this turn. (Activate "
-"this ability only during your upkeep and only once each turn.)"
+"only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:232
@@ -662,7 +660,7 @@ msgstr ""
 #: ../../DIS.rst:241
 msgid ""
 "When Crypt Champion enters the battlefield, each player puts a creature card "
-"with converted mana cost 3 or less from their graveyard onto the battlefield."
+"with mana value 3 or less from their graveyard onto the battlefield."
 msgstr ""
 
 #: ../../DIS.rst:243
@@ -747,14 +745,13 @@ msgstr ""
 #: ../../DIS.rst:271
 msgid ""
 "Reveal a card from your hand. Search your library for a card with the same "
-"name as that card, reveal it, put it into your hand, then shuffle your "
-"library."
+"name as that card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:273
 msgid ""
 "Hellbent — If you have no cards in hand, instead search your library for a "
-"card, put it into your hand, then shuffle your library."
+"card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:278
@@ -813,8 +810,8 @@ msgstr ""
 
 #: ../../DIS.rst:295
 msgid ""
-"Hellbent — |mana_1|, Pay 2 life: Draw a card. Activate this ability only if "
-"you have no cards in hand."
+"Hellbent — |mana_1|, Pay 2 life: Draw a card. Activate only if you have no "
+"cards in hand."
 msgstr ""
 
 #: ../../DIS.rst:300
@@ -826,8 +823,8 @@ msgstr ""
 
 #: ../../DIS.rst:299
 msgid ""
-"Hellbent — |tap|, Sacrifice a creature or land: Draw a card. Activate this "
-"ability only if you have no cards in hand."
+"Hellbent — |tap|, Sacrifice a creature or land: Draw a card. Activate only "
+"if you have no cards in hand."
 msgstr ""
 
 #: ../../DIS.rst:306
@@ -846,7 +843,7 @@ msgstr ""
 #: ../../DIS.rst:305
 msgid ""
 "At the beginning of your upkeep, you may search your library for a Rat card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:310
@@ -1044,8 +1041,8 @@ msgstr ""
 #: ../../DIS.rst:373
 msgid ""
 "Discard a card at random. If you do, Kindle the Carnage deals damage equal "
-"to that card's converted mana cost to each creature. You may repeat this "
-"process any number of times."
+"to that card's mana value to each creature. You may repeat this process any "
+"number of times."
 msgstr ""
 
 #: ../../DIS.rst:378
@@ -1413,8 +1410,7 @@ msgstr ""
 #: ../../DIS.rst:509
 msgid ""
 "When Protean Hulk dies, search your library for any number of creature cards "
-"with total converted mana cost 6 or less and put them onto the battlefield. "
-"Then shuffle your library."
+"with total mana value 6 or less, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:516
@@ -1742,8 +1738,7 @@ msgstr ""
 #: ../../DIS.rst:629
 msgid ""
 "When Hellhole Rats enters the battlefield, target player discards a card. "
-"Hellhole Rats deals damage to that player equal to that card's converted "
-"mana cost."
+"Hellhole Rats deals damage to that player equal to that card's mana value."
 msgstr ""
 
 #: ../../DIS.rst:636
@@ -1758,7 +1753,7 @@ msgid ""
 "Whenever Isperia the Inscrutable deals combat damage to a player, choose a "
 "card name. That player reveals their hand. If a card with the chosen name is "
 "revealed this way, search your library for a creature card with flying, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:642
@@ -1821,8 +1816,7 @@ msgstr ""
 #: ../../DIS.rst:655
 msgid ""
 "Whenever you cast a green creature spell, you may search your library for a "
-"creature card and reveal it. If you do, shuffle your library and put that "
-"card on top of it."
+"creature card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../DIS.rst:657
@@ -1915,8 +1909,7 @@ msgstr ""
 #: ../../DIS.rst:689
 msgid ""
 "Forecast — |mana_w|\\ |mana_u|, Reveal Plumes of Peace from your hand: Tap "
-"target creature. (Activate this ability only during your upkeep and only "
-"once each turn.)"
+"target creature. (Activate only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:698
@@ -1936,7 +1929,7 @@ msgstr ""
 msgid ""
 "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds from "
 "your hand: Create a 1/1 white and blue Bird creature token with flying. "
-"(Activate this ability only during your upkeep and only once each turn.)"
+"(Activate only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:702
@@ -1967,7 +1960,7 @@ msgstr ""
 msgid ""
 "|tap|: Reveal your hand and discard a card of target opponent's choice. Then "
 "that player reveals their hand and discards a card of your choice. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../DIS.rst:712
@@ -2028,8 +2021,8 @@ msgstr ""
 #: ../../DIS.rst:733
 msgid ""
 "Forecast — Tap two untapped white and/or blue creatures you control, Reveal "
-"Sky Hussar from your hand: Draw a card. (Activate this ability only during "
-"your upkeep and only once each turn.)"
+"Sky Hussar from your hand: Draw a card. (Activate only during your upkeep "
+"and only once each turn.)"
 msgstr ""
 
 #: ../../DIS.rst:738
@@ -2215,7 +2208,7 @@ msgstr ""
 msgid ""
 "Whenever a player casts a noncreature spell, counter that spell. That player "
 "creates X 1/1 white and blue Bird creature tokens with flying, where X is "
-"the spell's converted mana cost."
+"the spell's mana value."
 msgstr ""
 
 #: ../../DIS.rst:810
@@ -2344,8 +2337,7 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:861
-msgid ""
-"Destroy each artifact, creature, and enchantment with converted mana cost X."
+msgid "Destroy each artifact, creature, and enchantment with mana value X."
 msgstr ""
 
 #: ../../DIS.rst:866
@@ -2370,7 +2362,7 @@ msgstr ""
 #: ../../DIS.rst:869
 msgid ""
 "Search target opponent's library for a card and exile it. You gain life "
-"equal to its converted mana cost. Then that player shuffles their library."
+"equal to its mana value. Then that player shuffles."
 msgstr ""
 
 #: ../../DIS.rst:874
@@ -2383,7 +2375,7 @@ msgstr ""
 #: ../../DIS.rst:873
 msgid ""
 "Target player sacrifices an artifact or creature. Hit deals damage to that "
-"player equal to that permanent's converted mana cost."
+"player equal to that permanent's mana value."
 msgstr ""
 
 #: ../../DIS.rst:878
@@ -2517,8 +2509,8 @@ msgstr ""
 
 #: ../../DIS.rst:917
 msgid ""
-"Search your library for a multicolored card, reveal it, and put it into your "
-"hand. Then shuffle your library."
+"Search your library for a multicolored card, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:922
@@ -2606,8 +2598,8 @@ msgstr ""
 
 #: ../../DIS.rst:945
 msgid ""
-"|mana_3|, |tap|: Target player exiles a card from their hand. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_3|, |tap|: Target player exiles a card from their hand. Activate only "
+"as a sorcery."
 msgstr ""
 
 #: ../../DIS.rst:947
@@ -2778,7 +2770,7 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
 "search their library for a basic land card, put it onto the battlefield, "
-"then shuffle their library."
+"then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:1016
@@ -2870,7 +2862,7 @@ msgstr ""
 #: ../../DIS.rst:1045
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_r|, |tap|: Each player discards a card. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../DIS.rst:1053

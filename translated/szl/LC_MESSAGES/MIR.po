@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -177,8 +177,7 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:61
-msgid ""
-"Destroy target artifact. You gain life equal to its converted mana cost."
+msgid "Destroy target artifact. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../MIR.rst:66
@@ -214,8 +213,8 @@ msgstr ""
 
 #: ../../MIR.rst:73
 msgid ""
-"Search your library for an artifact or enchantment card and reveal that "
-"card. Shuffle your library, then put the card on top of it."
+"Search your library for an artifact or enchantment card, reveal it, then "
+"shuffle and put that card on top."
 msgstr ""
 
 #: ../../MIR.rst:78
@@ -322,7 +321,7 @@ msgstr ""
 #: ../../MIR.rst:111
 msgid ""
 "Counter target artifact or enchantment spell. Its controller gains life "
-"equal to its converted mana cost."
+"equal to its mana value."
 msgstr ""
 
 #: ../../MIR.rst:116
@@ -446,8 +445,8 @@ msgstr ""
 #: ../../MIR.rst:155
 msgid ""
 "|mana_w|, |tap|: Return Mtenda Griffin to its owner's hand and return target "
-"Griffin card from your graveyard to your hand. Activate this ability only "
-"during your upkeep."
+"Griffin card from your graveyard to your hand. Activate only during your "
+"upkeep."
 msgstr ""
 
 #: ../../MIR.rst:160
@@ -816,8 +815,8 @@ msgstr ""
 
 #: ../../MIR.rst:303
 msgid ""
-"|mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate this ability "
-"only once each turn."
+"|mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate only once "
+"each turn."
 msgstr ""
 
 #: ../../MIR.rst:308
@@ -979,8 +978,8 @@ msgstr ""
 
 #: ../../MIR.rst:357
 msgid ""
-"|mana_x|: Put X vortex counters on Energy Vortex. Activate this ability only "
-"during your upkeep."
+"|mana_x|: Put X vortex counters on Energy Vortex. Activate only during your "
+"upkeep."
 msgstr ""
 
 #: ../../MIR.rst:362
@@ -1037,8 +1036,8 @@ msgstr ""
 #: ../../MIR.rst:379
 msgid ""
 "|mana_u|\\ |mana_u|: Return target Aura card from your graveyard to the "
-"battlefield attached to Hakim, Loreweaver. Activate this ability only during "
-"your upkeep and only if Hakim isn't enchanted."
+"battlefield attached to Hakim, Loreweaver. Activate only during your upkeep "
+"and only if Hakim isn't enchanted."
 msgstr ""
 
 #: ../../MIR.rst:381
@@ -1225,8 +1224,8 @@ msgstr ""
 
 #: ../../MIR.rst:447
 msgid ""
-"Search your library for an instant or sorcery card and reveal that card. "
-"Shuffle your library, then put the card on top of it."
+"Search your library for an instant or sorcery card, reveal it, then shuffle "
+"and put that card on top."
 msgstr ""
 
 #: ../../MIR.rst:452
@@ -1953,7 +1952,7 @@ msgstr ""
 #: ../../MIR.rst:725
 msgid ""
 "|mana_b|, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:730
@@ -2059,8 +2058,8 @@ msgstr ""
 
 #: ../../MIR.rst:763
 msgid ""
-"|mana_b|, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this "
-"ability no more than three times each turn."
+"|mana_b|, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate no "
+"more than three times each turn."
 msgstr ""
 
 #: ../../MIR.rst:770
@@ -2188,8 +2187,7 @@ msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Target player discards a card unless "
 "they put a card from their hand on top of their library. If that player "
 "discards a card this way, Tainted Specter deals 1 damage to each creature "
-"and each player. Activate this ability only any time you could cast a "
-"sorcery."
+"and each player. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:824
@@ -2236,8 +2234,8 @@ msgstr ""
 #: ../../MIR.rst:829
 msgid ""
 "Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and "
-"Urborg Panther: Search your library for a card named Spirit of the Night and "
-"put that card onto the battlefield. Then shuffle your library."
+"Urborg Panther: Search your library for a card named Spirit of the Night, "
+"put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:836
@@ -2640,7 +2638,7 @@ msgstr ""
 #: ../../MIR.rst:987
 msgid ""
 "|mana_r|, |tap|: Destroy target artifact. That artifact deals damage equal "
-"to its converted mana cost to Goblin Tinkerer."
+"to its mana value to Goblin Tinkerer."
 msgstr ""
 
 #: ../../MIR.rst:994
@@ -2657,7 +2655,7 @@ msgstr ""
 #: ../../MIR.rst:993
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from "
-"your graveyard to your hand. Activate this ability only during your upkeep."
+"your graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../MIR.rst:1000
@@ -2966,9 +2964,9 @@ msgstr ""
 #: ../../MIR.rst:1109
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Search your library for a Dragon "
-"permanent card and put that card onto the battlefield. Then shuffle your "
-"library. That Dragon gains haste until end of turn. Exile it at the "
-"beginning of the next end step."
+"permanent card, put that card onto the battlefield, then shuffle. That "
+"Dragon gains haste until end of turn. Exile it at the beginning of the next "
+"end step."
 msgstr ""
 
 #: ../../MIR.rst:1118
@@ -3270,8 +3268,7 @@ msgid "|mana_g|: Regenerate Locust Swarm."
 msgstr ""
 
 #: ../../MIR.rst:1223
-msgid ""
-"|mana_g|: Untap Locust Swarm. Activate this ability only once each turn."
+msgid "|mana_g|: Untap Locust Swarm. Activate only once each turn."
 msgstr ""
 
 #: ../../MIR.rst:1230
@@ -3344,7 +3341,7 @@ msgid ""
 "and sacrifices the rest. Each player who controls four or fewer lands may "
 "search their library for up to X basic land cards and put them onto the "
 "battlefield, where X is five minus the number of lands they control. Then "
-"each player who searched their library this way shuffles it."
+"each player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../MIR.rst:1254
@@ -3402,8 +3399,8 @@ msgstr ""
 
 #: ../../MIR.rst:1269
 msgid ""
-"Search your library for a basic land card and put that card onto the "
-"battlefield tapped. Then shuffle your library."
+"Search your library for a basic land card, put that card onto the "
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1276
@@ -3492,7 +3489,7 @@ msgstr ""
 #: ../../MIR.rst:1303
 msgid ""
 "Destroy all artifacts. They can't be regenerated. The controller of each of "
-"those artifacts gains life equal to its converted mana cost."
+"those artifacts gains life equal to its mana value."
 msgstr ""
 
 #: ../../MIR.rst:1308
@@ -3650,8 +3647,8 @@ msgstr ""
 
 #: ../../MIR.rst:1359
 msgid ""
-"Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate this ability "
-"only once each turn."
+"Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../MIR.rst:1364
@@ -3670,8 +3667,8 @@ msgstr ""
 
 #: ../../MIR.rst:1367
 msgid ""
-"Search your library for a creature card and reveal that card. Shuffle your "
-"library, then put the card on top of it."
+"Search your library for a creature card, reveal it, then shuffle and put the "
+"card on top."
 msgstr ""
 
 #: ../../MIR.rst:1374
@@ -3890,9 +3887,9 @@ msgstr ""
 
 #: ../../MIR.rst:1455
 msgid ""
-"Destroy target creature with converted mana cost X. If that creature dies "
-"this way, Kaervek's Purge deals damage equal to the creature's power to the "
-"creature's controller."
+"Destroy target creature with mana value X. If that creature dies this way, "
+"Kaervek's Purge deals damage equal to the creature's power to the creature's "
+"controller."
 msgstr ""
 
 #: ../../MIR.rst:1462
@@ -4049,8 +4046,8 @@ msgstr ""
 #: ../../MIR.rst:1511
 msgid ""
 "|mana_1|: Sawback Manticore deals 2 damage to target attacking or blocking "
-"creature. Activate this ability only if Sawback Manticore is attacking or "
-"blocking and only once each turn."
+"creature. Activate only if Sawback Manticore is attacking or blocking and "
+"only once each turn."
 msgstr ""
 
 #: ../../MIR.rst:1516
@@ -4186,7 +4183,7 @@ msgid ""
 "|mana_4|, |tap|: Whenever target creature deals combat damage to a non-Wall "
 "creature this turn, destroy that non-Wall creature. When the targeted "
 "creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate "
-"this ability only before blockers are declared."
+"only before blockers are declared."
 msgstr ""
 
 #: ../../MIR.rst:1566
@@ -4217,7 +4214,7 @@ msgstr ""
 #: ../../MIR.rst:1569
 msgid ""
 "|mana_5|, |tap|, Exile Amulet of Unmaking: Exile target artifact, creature, "
-"or land. Activate this ability only any time you could cast a sorcery."
+"or land. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:1576
@@ -4364,10 +4361,9 @@ msgstr ""
 #: ../../MIR.rst:1621
 msgid ""
 "|mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library "
-"for a card and exile it. Then that player shuffles their library. Until the "
-"beginning of your next upkeep, you may play that card. At the beginning of "
-"your next upkeep, if you haven't played it, put it into its owner's "
-"graveyard."
+"for a card and exile it. Then that player shuffles. Until the beginning of "
+"your next upkeep, you may play that card. At the beginning of your next "
+"upkeep, if you haven't played it, put it into its owner's graveyard."
 msgstr ""
 
 #: ../../MIR.rst:1626
@@ -4417,7 +4413,7 @@ msgstr ""
 #: ../../MIR.rst:1637
 msgid ""
 "Discard your hand, Sacrifice Lion's Eye Diamond: Add three mana of any one "
-"color. Activate this ability only any time you could cast an instant."
+"color. Activate only as an instant."
 msgstr ""
 
 #: ../../MIR.rst:1644
@@ -4630,7 +4626,7 @@ msgstr ""
 #: ../../MIR.rst:1713
 msgid ""
 "|mana_x|\\ |mana_1|, |tap|: Put X charge counters on Ventifact Bottle. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:1715
@@ -4654,7 +4650,7 @@ msgstr ""
 #: ../../MIR.rst:1721
 msgid ""
 "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, "
-"put it onto the battlefield, then shuffle your library."
+"put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1728
@@ -4682,7 +4678,7 @@ msgstr ""
 #: ../../MIR.rst:1733
 msgid ""
 "|tap|, Sacrifice Flood Plain: Search your library for a Plains or Island "
-"card, put it onto the battlefield, then shuffle your library."
+"card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1740
@@ -4699,7 +4695,7 @@ msgstr ""
 #: ../../MIR.rst:1739
 msgid ""
 "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
-"card, put it onto the battlefield, then shuffle your library."
+"card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1746
@@ -4716,7 +4712,7 @@ msgstr ""
 #: ../../MIR.rst:1745
 msgid ""
 "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
-"Forest card, put it onto the battlefield, then shuffle your library."
+"Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1752
@@ -4733,7 +4729,7 @@ msgstr ""
 #: ../../MIR.rst:1751
 msgid ""
 "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
-"card, put it onto the battlefield, then shuffle your library."
+"card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1760

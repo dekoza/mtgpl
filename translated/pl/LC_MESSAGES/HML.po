@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hml/pl/>\n"
@@ -163,7 +163,7 @@ msgstr ""
 #: ../../HML.rst:51
 msgid ""
 "Reveal the top card of target opponent's library. If it's a land, you gain 1 "
-"life. Then that player shuffles their library."
+"life. Then that player shuffles."
 msgstr ""
 
 #: ../../HML.rst:53 ../../HML.rst:151 ../../HML.rst:273 ../../HML.rst:483
@@ -305,7 +305,7 @@ msgstr ""
 #: ../../HML.rst:97
 msgid ""
 "Remove two currency counters from Trade Caravan: Untap target basic land. "
-"Activate this ability only during an opponent's upkeep."
+"Activate only during an opponent's upkeep."
 msgstr ""
 
 #: ../../HML.rst:102
@@ -491,8 +491,8 @@ msgstr ""
 
 #: ../../HML.rst:161
 msgid ""
-"|mana_u|\\ |mana_u|, Sacrifice a creature: Untap Marjhan. Activate this "
-"ability only during your upkeep."
+"|mana_u|\\ |mana_u|, Sacrifice a creature: Untap Marjhan. Activate only "
+"during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:163
@@ -533,9 +533,13 @@ msgid ""
 msgstr ""
 
 #: ../../HML.rst:175
+#, fuzzy
+#| msgid ""
+#| "Search your library for a blue instant card, reveal that card, and put it "
+#| "into your hand. Then shuffle your library."
 msgid ""
-"Search your library for a blue instant card, reveal that card, and put it "
-"into your hand. Then shuffle your library."
+"Search your library for a blue instant card, reveal that card, put it into "
+"your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę niebieskiej sztuczki, ujawnij ją i umieść "
 "w twojej ręce, po czym przetasuj."
@@ -603,8 +607,8 @@ msgstr ""
 
 #: ../../HML.rst:199
 msgid ""
-"|mana_u|: Regenerate Sea Troll. Activate this ability only if Sea Troll "
-"blocked or was blocked by a blue creature this turn."
+"|mana_u|: Regenerate Sea Troll. Activate only if Sea Troll blocked or was "
+"blocked by a blue creature this turn."
 msgstr ""
 
 #: ../../HML.rst:206
@@ -654,8 +658,7 @@ msgstr ""
 
 #: ../../HML.rst:221
 msgid ""
-"Sacrifice a creature: Untap Black Carriage. Activate this ability only "
-"during your upkeep."
+"Sacrifice a creature: Untap Black Carriage. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:226
@@ -1046,7 +1049,7 @@ msgstr ""
 msgid ""
 "|tap|: Choose target attacking or blocking creature whose controller "
 "controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end "
-"of combat. Activate this ability only before the end of combat step."
+"of combat. Activate only before the end of combat step."
 msgstr ""
 
 #: ../../HML.rst:364
@@ -1097,7 +1100,7 @@ msgstr "Pierwszy cios"
 msgid ""
 "|tap|: Target Dwarf creature gets +2/+0 and gains first strike until end of "
 "turn. When that creature leaves the battlefield this turn, sacrifice Heart "
-"Wolf. Activate this ability only during combat."
+"Wolf. Activate only during combat."
 msgstr ""
 
 #: ../../HML.rst:390
@@ -1364,10 +1367,16 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../HML.rst:481
+#, fuzzy
+#| msgid ""
+#| "Search your library for a blue instant card, reveal that card, and put it "
+#| "into your hand. Then shuffle your library."
 msgid ""
-"Search your library for a basic land card and put that card onto the "
-"battlefield. Then shuffle your library."
+"Search your library for a basic land card, put that card onto the "
+"battlefield, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę niebieskiej sztuczki, ujawnij ją i umieść "
+"w twojej ręce, po czym przetasuj."
 
 #: ../../HML.rst:488
 msgid ""
@@ -1516,7 +1525,7 @@ msgstr ""
 msgid ""
 "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability "
 "can't cause the total number of +1/+0 counters on Clockwork Steed to be "
-"greater than four. Activate this ability only during your upkeep."
+"greater than four. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:546
@@ -1544,7 +1553,7 @@ msgstr ""
 msgid ""
 "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Swarm. This ability "
 "can't cause the total number of +1/+0 counters on Clockwork Swarm to be "
-"greater than four. Activate this ability only during your upkeep."
+"greater than four. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:550
@@ -1599,8 +1608,8 @@ msgstr ""
 
 #: ../../HML.rst:567
 msgid ""
-"|mana_2|: Roterothopter gets +1/+0 until end of turn. Activate this ability "
-"no more than twice each turn."
+"|mana_2|: Roterothopter gets +1/+0 until end of turn. Activate no more than "
+"twice each turn."
 msgstr ""
 
 #: ../../HML.rst:576

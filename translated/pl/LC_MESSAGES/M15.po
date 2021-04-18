@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m15/pl/>\n"
@@ -145,11 +145,16 @@ msgstr ""
 
 # cea95fe3e83d49c483c5ee20c164605d
 #: ../../M15.rst:35
+#, fuzzy
+#| msgid ""
+#| "When Boonweaver Giant enters the battlefield, you may search your "
+#| "graveyard, hand, and/or library for an Aura card and put it onto the "
+#| "battlefield attached to Boonweaver Giant. If you search your library this "
+#| "way, shuffle it."
 msgid ""
 "When Boonweaver Giant enters the battlefield, you may search your graveyard, "
 "hand, and/or library for an Aura card and put it onto the battlefield "
-"attached to Boonweaver Giant. If you search your library this way, shuffle "
-"it."
+"attached to Boonweaver Giant. If you search your library this way, shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twoim cmentarzu, "
 "ręce i/lub bibliotece kartę typu Aura i umieść ją na polu bitwy dołączoną do "
@@ -339,10 +344,14 @@ msgstr ""
 
 # 176404af5e0043118ea36525cf8ca2fc
 #: ../../M15.rst:81
+#, fuzzy
+#| msgid ""
+#| "When Heliod's Pilgrim enters the battlefield, you may search your library "
+#| "for an Aura card, reveal it, put it into your hand, then shuffle your "
+#| "library."
 msgid ""
 "When Heliod's Pilgrim enters the battlefield, you may search your library "
-"for an Aura card, reveal it, put it into your hand, then shuffle your "
-"library."
+"for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury, ujawnij ją i umieść w twojej ręce, po czym przetasuj twoją "
@@ -581,9 +590,13 @@ msgstr ""
 
 # cffd0c8dc4bf4d6c8745b4681600bae3
 #: ../../M15.rst:163
+#, fuzzy
+#| msgid ""
+#| "Return X target creature cards with converted mana cost 2 or less from "
+#| "your graveyard to the battlefield."
 msgid ""
-"Return X target creature cards with converted mana cost 2 or less from your "
-"graveyard to the battlefield."
+"Return X target creature cards with mana value 2 or less from your graveyard "
+"to the battlefield."
 msgstr ""
 "Przywróć X wskazanych kart stworów o skrócie many 2 lub mniejszym z twojego "
 "cmentarza na pole bitwy."
@@ -1239,11 +1252,17 @@ msgstr ""
 
 # 6dede2ae17db49ff8905bc505f7e0078
 #: ../../M15.rst:359
+#, fuzzy
+#| msgid ""
+#| "Whenever Master of Predicaments deals combat damage to a player, choose a "
+#| "card in your hand. That player guesses whether the card's converted mana "
+#| "cost is greater than 4. If the player guessed wrong, you may cast the "
+#| "card without paying its mana cost."
 msgid ""
 "Whenever Master of Predicaments deals combat damage to a player, choose a "
-"card in your hand. That player guesses whether the card's converted mana "
-"cost is greater than 4. If the player guessed wrong, you may cast the card "
-"without paying its mana cost."
+"card in your hand. That player guesses whether the card's mana value is "
+"greater than 4. If the player guessed wrong, you may cast the card without "
+"paying its mana cost."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wybierz kartę w twojej "
 "ręce. Ów gracz zgaduje, czy skrót many owej karty jest większy niż 4. Jeśli "
@@ -1798,9 +1817,12 @@ msgstr "+1: Wskazany gracz odrzuca kartę."
 
 # 15a9b62902b64432815ce63c473e6c95
 #: ../../M15.rst:539
+#, fuzzy
+#| msgid ""
+#| "−2: Search your library for a card, then shuffle your library and put "
+#| "that card on top of it."
 msgid ""
-"−2: Search your library for a card, then shuffle your library and put that "
-"card on top of it."
+"−2: Search your library for a card, then shuffle and put that card on top."
 msgstr ""
 "−2: Wyszukaj w twojej bibliotece dowolną kartę, po czym przetasuj twoją "
 "bibliotekę i umieść ową kartę na jej wierzchu."
@@ -2057,10 +2079,15 @@ msgid ""
 msgstr ""
 
 #: ../../M15.rst:617
+#, fuzzy
+#| msgid ""
+#| "Choose a nonland card name. Search target player's graveyard, hand, and "
+#| "library for any number of cards with that name and exile them. Then that "
+#| "player shuffles their library."
 msgid ""
 "Choose a nonland card name. Search target player's graveyard, hand, and "
 "library for any number of cards with that name and exile them. Then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 "Nazwij nie-lądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "gracza dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
@@ -2236,8 +2263,11 @@ msgstr "Nie możesz zagrywać lądów."
 
 # f8755bdce2d3461799bd86a7f400cbdb
 #: ../../M15.rst:671
-msgid ""
-"Sacrifice a land: Draw two cards. Activate this ability only once each turn."
+#, fuzzy
+#| msgid ""
+#| "Sacrifice a land: Draw two cards. Activate this ability only once each "
+#| "turn."
+msgid "Sacrifice a land: Draw two cards. Activate only once each turn."
 msgstr ""
 "Poświęć ląd: Dobierz dwie karty. Możesz aktywować tę zdolność tylko raz na "
 "turę."
@@ -2607,9 +2637,13 @@ msgstr ""
 
 # 06d1d101d4fe447ab0631be0c84f0ff1
 #: ../../M15.rst:777
+#, fuzzy
+#| msgid ""
+#| "When Hoarding Dragon enters the battlefield, you may search your library "
+#| "for an artifact card, exile it, then shuffle your library."
 msgid ""
 "When Hoarding Dragon enters the battlefield, you may search your library for "
-"an artifact card, exile it, then shuffle your library."
+"an artifact card, exile it, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, wygnaj ją, po czym przetasuj twoją bibliotekę."
@@ -2989,9 +3023,13 @@ msgstr ""
 
 # 11b536b230184660af809f701c6a9ec0
 #: ../../M15.rst:895
+#, fuzzy
+#| msgid ""
+#| "Search your library for a creature card with converted mana cost X or "
+#| "less and put it onto the battlefield. Then shuffle your library."
 msgid ""
-"Search your library for a creature card with converted mana cost X or less "
-"and put it onto the battlefield. Then shuffle your library."
+"Search your library for a creature card with mana value X or less, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skrócie many X lub mniejszym i "
 "umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
@@ -3047,10 +3085,15 @@ msgstr ""
 
 # 11b536b230184660af809f701c6a9ec0
 #: ../../M15.rst:915
+#, fuzzy
+#| msgid ""
+#| "When you cast this spell, reveal the top X cards of your library. You may "
+#| "put a nonland permanent card with converted mana cost X or less from "
+#| "among them onto the battlefield. Then shuffle the rest into your library."
 msgid ""
 "When you cast this spell, reveal the top X cards of your library. You may "
-"put a nonland permanent card with converted mana cost X or less from among "
-"them onto the battlefield. Then shuffle the rest into your library."
+"put a nonland permanent card with mana value X or less from among them onto "
+"the battlefield. Then shuffle the rest into your library."
 msgstr ""
 "Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej biblioteki. Możesz "
 "spośród nich umieścić kartę nie-lądowego permanentu o skrócie many X lub "
@@ -3256,10 +3299,15 @@ msgstr "+1: Odkręć co najwyżej cztery wskazane Lasy."
 
 # b721ce2f0cfe4223a710c88ea3ec341d
 #: ../../M15.rst:979
+#, fuzzy
+#| msgid ""
+#| "−7: Search your library for any number of basic land cards, put them onto "
+#| "the battlefield, then shuffle your library. Those lands become 4/4 "
+#| "Elemental creatures with trample. They're still lands."
 msgid ""
 "−7: Search your library for any number of basic land cards, put them onto "
-"the battlefield, then shuffle your library. Those lands become 4/4 Elemental "
-"creatures with trample. They're still lands."
+"the battlefield, then shuffle. Those lands become 4/4 Elemental creatures "
+"with trample. They're still lands."
 msgstr ""
 "–7: Wyszukaj w twojej bibliotece dowolną liczbę kart bazowych lądów, umieść "
 "je na polu bitwy, po czym przetasuj twoją bibliotekę. Owe lądu stają się "
@@ -3274,9 +3322,13 @@ msgstr ""
 
 # 8f596a0750ac434b979c09d9d2d5c111
 #: ../../M15.rst:985
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, put them onto the "
+#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
 "je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -3605,11 +3657,16 @@ msgstr ""
 
 # 11b536b230184660af809f701c6a9ec0
 #: ../../M15.rst:1091
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer "
+#| "Bard: Search your library for a creature card with converted mana cost "
+#| "equal to the number of verse counters on Yisan, put it onto the "
+#| "battlefield, then shuffle your library."
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Bard: "
-"Search your library for a creature card with converted mana cost equal to "
-"the number of verse counters on Yisan, put it onto the battlefield, then "
-"shuffle your library."
+"Search your library for a creature card with mana value equal to the number "
+"of verse counters on Yisan, put it onto the battlefield, then shuffle."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, umieść znacznik zwrotki na tym stworze: Wyszukaj "
 "w twojej bibliotece kartę stwora o skrócie many równym liczbie znaczników "
@@ -3803,10 +3860,15 @@ msgstr "Wyposażony stwór dostaje +4/+4."
 
 # b59f3400378d46c4bf17beb86246b37f
 #: ../../M15.rst:1147
+#, fuzzy
+#| msgid ""
+#| "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit "
+#| "artifact creature that's no longer an Equipment. Activate this ability "
+#| "only if you control no creatures."
 msgid ""
 "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit "
-"artifact creature that's no longer an Equipment. Activate this ability only "
-"if you control no creatures."
+"artifact creature that's no longer an Equipment. Activate only if you "
+"control no creatures."
 msgstr ""
 "|mana_0|: Do końca tury ten artefakt staje się artefaktowym stworem Duch "
 "4/4, który nie jest Wyposażeniem. Możesz aktywować tę zdolność tylko jeśli "
@@ -4196,9 +4258,13 @@ msgstr ""
 
 # 11b536b230184660af809f701c6a9ec0
 #: ../../M15.rst:1279
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -4254,9 +4320,13 @@ msgstr ""
 "czaru Drzazgacza."
 
 #: ../../M15.rst:1305
+#, fuzzy
+#| msgid ""
+#| "|mana_5|, |tap|: Create a 1/1 colorless Sliver creature token. Activate "
+#| "this ability only if you control a Sliver."
 msgid ""
-"|mana_5|, |tap|: Create a 1/1 colorless Sliver creature token. Activate this "
-"ability only if you control a Sliver."
+"|mana_5|, |tap|: Create a 1/1 colorless Sliver creature token. Activate only "
+"if you control a Sliver."
 msgstr ""
 "|mana_5|, |tap|: Stwórz żeton bezkolorowego stwora Drzazgacz 1/1. Możesz "
 "aktywować tę zdolność tylko jeśli władasz Drzazgaczem."

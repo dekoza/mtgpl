@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -386,8 +386,8 @@ msgstr ""
 #: ../../MRD.rst:139
 msgid ""
 "When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you "
-"do, search your library for an Equipment card with converted mana cost X or "
-"less and put that card onto the battlefield. Then shuffle your library."
+"do, search your library for an Equipment card with mana value X or less, put "
+"that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MRD.rst:144
@@ -495,8 +495,8 @@ msgstr ""
 
 #: ../../MRD.rst:185
 msgid ""
-"Search your library for an artifact card, reveal it, and put it into your "
-"hand. Then shuffle your library."
+"Search your library for an artifact card, reveal it, put it into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../MRD.rst:190
@@ -584,8 +584,8 @@ msgstr ""
 #: ../../MRD.rst:219
 msgid ""
 "Each noncreature artifact is an artifact creature with power and toughness "
-"each equal to its converted mana cost. (Equipment that's a creature can't "
-"equip a creature.)"
+"each equal to its mana value. (Equipment that's a creature can't equip a "
+"creature.)"
 msgstr ""
 
 #: ../../MRD.rst:226
@@ -931,14 +931,13 @@ msgstr ""
 #: ../../MRD.rst:353
 msgid ""
 "Search your library for a nonland card and reveal it. Each opponent who cast "
-"a spell this turn with the same name as that card loses 6 life. Then shuffle "
-"your library."
+"a spell this turn with the same name as that card loses 6 life. Then shuffle."
 msgstr ""
 
 #: ../../MRD.rst:355
 msgid ""
 "|mana_b|\\ |mana_b|: Return Grim Reminder from your graveyard to your hand. "
-"Activate this ability only during your upkeep."
+"Activate only during your upkeep."
 msgstr ""
 
 #: ../../MRD.rst:360
@@ -991,8 +990,7 @@ msgstr ""
 #: ../../MRD.rst:373
 msgid ""
 "|mana_b|\\ |mana_b|: Return Nim Devourer from your graveyard to the "
-"battlefield, then sacrifice a creature. Activate this ability only during "
-"your upkeep."
+"battlefield, then sacrifice a creature. Activate only during your upkeep."
 msgstr ""
 
 #: ../../MRD.rst:378
@@ -1235,8 +1233,8 @@ msgstr ""
 
 #: ../../MRD.rst:471
 msgid ""
-"Destroy target artifact with converted mana cost X. It can't be regenerated. "
-"Detonate deals X damage to that artifact's controller."
+"Destroy target artifact with mana value X. It can't be regenerated. Detonate "
+"deals X damage to that artifact's controller."
 msgstr ""
 
 #: ../../MRD.rst:476
@@ -1293,7 +1291,7 @@ msgstr ""
 #: ../../MRD.rst:489
 msgid ""
 "Put X +1/+1 counters on target creature, where X is the sacrificed "
-"artifact's converted mana cost."
+"artifact's mana value."
 msgstr ""
 
 #: ../../MRD.rst:496
@@ -1661,8 +1659,8 @@ msgstr ""
 
 #: ../../MRD.rst:627
 msgid ""
-"|tap|: Destroy target artifact if its converted mana cost is equal to the "
-"amount of unspent mana you have."
+"|tap|: Destroy target artifact if its mana value is equal to the amount of "
+"unspent mana you have."
 msgstr ""
 
 #: ../../MRD.rst:632
@@ -1701,7 +1699,7 @@ msgstr ""
 #: ../../MRD.rst:641
 msgid ""
 "Search your library for up to two basic land cards, reveal them, put them "
-"into your hand, then shuffle your library."
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../MRD.rst:643
@@ -1804,8 +1802,8 @@ msgstr ""
 
 #: ../../MRD.rst:683
 msgid ""
-"Search your library for a land card, reveal it, and put it into your hand. "
-"Then shuffle your library."
+"Search your library for a land card, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
 
 #: ../../MRD.rst:688
@@ -1853,7 +1851,7 @@ msgstr ""
 #: ../../MRD.rst:701
 msgid ""
 "Search your library for up to two creature cards, reveal them, put them into "
-"your hand, then shuffle your library."
+"your hand, then shuffle."
 msgstr ""
 
 #: ../../MRD.rst:703
@@ -2034,7 +2032,7 @@ msgstr ""
 #: ../../MRD.rst:771
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-"equal to the sacrificed artifact's converted mana cost to any target."
+"equal to the sacrificed artifact's mana value to any target."
 msgstr ""
 
 #: ../../MRD.rst:776
@@ -2073,8 +2071,8 @@ msgstr ""
 
 #: ../../MRD.rst:785
 msgid ""
-"Whenever a player casts a spell with converted mana cost equal to the number "
-"of charge counters on Chalice of the Void, counter that spell."
+"Whenever a player casts a spell with mana value equal to the number of "
+"charge counters on Chalice of the Void, counter that spell."
 msgstr ""
 
 #: ../../MRD.rst:790
@@ -2229,8 +2227,8 @@ msgstr ""
 #: ../../MRD.rst:845
 msgid ""
 "At the beginning of your upkeep, destroy target nonland permanent with the "
-"lowest converted mana cost. (If two or more permanents are tied for lowest "
-"cost, target any one of them.)"
+"lowest mana value. (If two or more permanents are tied for lowest, target "
+"any one of them.)"
 msgstr ""
 
 #: ../../MRD.rst:850
@@ -2605,7 +2603,7 @@ msgstr ""
 #: ../../MRD.rst:979
 msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
-"instant card with converted mana cost 2 or less from your hand."
+"instant card with mana value 2 or less from your hand."
 msgstr ""
 
 #: ../../MRD.rst:981
@@ -2958,7 +2956,7 @@ msgstr ""
 msgid ""
 "|mana_6|, |tap|, Sacrifice Myr Incubator: Search your library for any number "
 "of artifact cards, exile them, then create that many 1/1 colorless Myr "
-"artifact creature tokens. Then shuffle your library."
+"artifact creature tokens. Then shuffle."
 msgstr ""
 
 #: ../../MRD.rst:1106
@@ -3193,7 +3191,7 @@ msgid ""
 "library. That creature's controller reveals cards from the top of their "
 "library until they reveal a creature card. The player puts that card onto "
 "the battlefield and the rest on the bottom of their library in any order. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../MRD.rst:1200
@@ -3414,7 +3412,7 @@ msgstr ""
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../MRD.rst:1277
@@ -3437,7 +3435,7 @@ msgstr ""
 #: ../../MRD.rst:1283
 msgid ""
 "|mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the "
-"converted mana cost of that card."
+"mana value of that card."
 msgstr ""
 
 #: ../../MRD.rst:1290
@@ -3656,8 +3654,8 @@ msgstr ""
 
 #: ../../MRD.rst:1367
 msgid ""
-"Whenever a player casts a spell that shares a color or converted mana cost "
-"with the exiled card, Thought Prison deals 2 damage to that player."
+"Whenever a player casts a spell that shares a color or mana value with the "
+"exiled card, Thought Prison deals 2 damage to that player."
 msgstr ""
 
 #: ../../MRD.rst:1372
@@ -3670,10 +3668,9 @@ msgstr ""
 #: ../../MRD.rst:1371
 msgid ""
 "At the beginning of each upkeep, each player exiles the top card of their "
-"library. The player who exiled the card with the highest converted mana cost "
-"takes an extra turn after this one. If two or more players' cards are tied "
-"for highest cost, the tied players repeat this process until the tie is "
-"broken."
+"library. The player who exiled the card with the highest mana value takes an "
+"extra turn after this one. If two or more players' cards are tied for "
+"highest, the tied players repeat this process until the tie is broken."
 msgstr ""
 
 #: ../../MRD.rst:1376

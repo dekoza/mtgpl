@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
@@ -221,8 +221,8 @@ msgstr ""
 #: ../../CHK.rst:65
 msgid ""
 "|mana_2|: Reveal the top card of your library. If it's a land card, untap "
-"Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability "
-"only once each turn."
+"Harsh Deceiver and it gets +1/+1 until end of turn. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../CHK.rst:72
@@ -297,7 +297,7 @@ msgstr ""
 #: ../../CHK.rst:89 ../../CHK.rst:611 ../../CHK.rst:771 ../../CHK.rst:1303
 msgid ""
 "Soulshift 4 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 4 or less from your graveyard to your hand.)"
+"mana value 4 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:98
@@ -396,7 +396,7 @@ msgstr "Latanie, pierwszy cios"
 #: ../../CHK.rst:131 ../../CHK.rst:637
 msgid ""
 "Soulshift 5 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 5 or less from your graveyard to your hand.)"
+"mana value 5 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:138
@@ -678,7 +678,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_w|, |tap|: Put a training counter on target creature. That "
 "creature gains bushido 1 and becomes a Samurai in addition to its other "
-"creature types. Activate this ability only any time you could cast a sorcery."
+"creature types. Activate only as a sorcery."
 msgstr ""
 
 #: ../../CHK.rst:244
@@ -791,8 +791,8 @@ msgstr ""
 #: ../../CHK.rst:285
 msgid ""
 "|mana_2|: Reveal the top card of your library. If it's a land card, Callous "
-"Deceiver gets +1/+0 and gains flying until end of turn. Activate this "
-"ability only once each turn."
+"Deceiver gets +1/+0 and gains flying until end of turn. Activate only once "
+"each turn."
 msgstr ""
 
 #: ../../CHK.rst:292
@@ -869,10 +869,16 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:309
+#, fuzzy
+#| msgid ""
+#| "Search your library for a legendary creature card, reveal it, and put it "
+#| "into your hand. Then shuffle your library."
 msgid ""
-"Search your library for an Arcane card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for an Arcane card, reveal that card, put it into your "
+"hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę legendarnego stwora, ujawnij ją i umieść "
+"w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../CHK.rst:314
 msgid ""
@@ -921,10 +927,16 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:329
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to four cards with different names and reveal "
+#| "them. Target opponent chooses two of those cards. Put the chosen cards "
+#| "into your graveyard and the rest into your hand. Then shuffle your "
+#| "library."
 msgid ""
 "Search your library for up to four cards with different names and reveal "
 "them. Target opponent chooses two of those cards. Put the chosen cards into "
-"your graveyard and the rest into your hand. Then shuffle your library."
+"your graveyard and the rest into your hand. Then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej cztery karty o różnych nazwach i "
 "ujawnij je. Wskazany przeciwnik wybiera dwie z owych kart. Umieść wybrane "
@@ -982,7 +994,7 @@ msgstr ""
 #: ../../CHK.rst:345
 msgid ""
 "|mana_2|\\ |mana_u|, Discard a card: Counter target spell if it has the same "
-"converted mana cost as the discarded card."
+"mana value as the discarded card."
 msgstr ""
 
 #: ../../CHK.rst:350
@@ -1229,7 +1241,7 @@ msgid ""
 "Target permanent's controller sacrifices it. If the player does, they reveal "
 "cards from the top of their library until they reveal a permanent card that "
 "shares a card type with the sacrificed permanent, put that card onto the "
-"battlefield, then shuffle their library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:435
@@ -1264,7 +1276,7 @@ msgstr "Dobierz dwie karty, po czym odrzuć kartę."
 msgid ""
 "If you've cast a spell named Peer Through Depths and a spell named Reach "
 "Through Mists this turn, you may search your library for a card named The "
-"Unspeakable, put it onto the battlefield, then shuffle your library."
+"Unspeakable, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:452
@@ -1430,7 +1442,7 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:517
-msgid "Counter target spell with converted mana cost 4 or less."
+msgid "Counter target spell with mana value 4 or less."
 msgstr ""
 
 #: ../../CHK.rst:522
@@ -1523,7 +1535,7 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, "
 "search your library for a Demon card, reveal that card, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:551
@@ -1546,8 +1558,8 @@ msgstr ""
 #: ../../CHK.rst:557
 msgid ""
 "|tap|: Target creature gets -X/-X until end of turn, where X is the number "
-"of devotion counters on Bloodthirsty Ogre. Activate this ability only if you "
-"control a Demon."
+"of devotion counters on Bloodthirsty Ogre. Activate only if you control a "
+"Demon."
 msgstr ""
 
 #: ../../CHK.rst:562
@@ -1561,7 +1573,7 @@ msgstr ""
 msgid ""
 "Choose a nonland card name. Search target player's graveyard, hand, and "
 "library for all cards with that name and exile them. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../CHK.rst:568
@@ -1575,7 +1587,7 @@ msgstr ""
 msgid ""
 "|mana_2|: Reveal the top card of your library. If it's a land card, Cruel "
 "Deceiver gains \"Whenever Cruel Deceiver deals damage to a creature, destroy "
-"that creature\" until end of turn. Activate this ability only once each turn."
+"that creature\" until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:574
@@ -1661,7 +1673,7 @@ msgstr ""
 #: ../../CHK.rst:597 ../../CHK.rst:1081 ../../CHK.rst:1243
 msgid ""
 "Soulshift 3 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 3 or less from your graveyard to your hand.)"
+"mana value 3 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:604
@@ -1688,11 +1700,16 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:609
+#, fuzzy
+#| msgid ""
+#| "Target player reveals their hand. You choose a nonland card from it. That "
+#| "player discards that card."
 msgid ""
 "|mana_1|, Sacrifice a Spirit: Target opponent reveals their hand. You choose "
-"a card from it. That player discards that card. Activate this ability only "
-"any time you could cast a sorcery."
+"a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nie-lądową kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../CHK.rst:618
 msgid ""
@@ -1751,11 +1768,18 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:631
+#, fuzzy
+#| msgid ""
+#| "When Godo, Bandit Warlord enters the battlefield, you may search your "
+#| "library for an Equipment card and put it onto the battlefield. If you do, "
+#| "shuffle your library."
 msgid ""
 "When Iname, Death Aspect enters the battlefield, you may search your library "
-"for any number of Spirit cards and put them into your graveyard. If you do, "
-"shuffle your library."
+"for any number of Spirit cards, put them into your graveyard, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj "
+"twoją bibliotekę."
 
 #: ../../CHK.rst:638
 msgid ""
@@ -1888,8 +1912,8 @@ msgstr ""
 
 #: ../../CHK.rst:683
 msgid ""
-"|mana_b|, Sacrifice a creature: Target player discards a card. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_b|, Sacrifice a creature: Target player discards a card. Activate only "
+"as a sorcery."
 msgstr ""
 
 #: ../../CHK.rst:690
@@ -1990,8 +2014,8 @@ msgstr ""
 #: ../../CHK.rst:715
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, Remove X theft counters from Night Dealings: "
-"Search your library for a nonland card with converted mana cost X, reveal "
-"it, and put it into your hand. Then shuffle your library."
+"Search your library for a nonland card with mana value X, reveal it, put it "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:720
@@ -2198,7 +2222,7 @@ msgstr ""
 #: ../../CHK.rst:795
 msgid ""
 "Soulshift 2 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 2 or less from your graveyard to your hand.)"
+"mana value 2 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:802
@@ -2251,7 +2275,7 @@ msgstr ""
 #: ../../CHK.rst:813
 msgid ""
 "Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:820
@@ -2401,8 +2425,8 @@ msgstr ""
 #: ../../CHK.rst:871
 msgid ""
 "|mana_2|: Reveal the top card of your library. If it's a land card, Brutal "
-"Deceiver gets +1/+0 and gains first strike until end of turn. Activate this "
-"ability only once each turn."
+"Deceiver gets +1/+0 and gains first strike until end of turn. Activate only "
+"once each turn."
 msgstr ""
 
 #: ../../CHK.rst:876
@@ -2514,10 +2538,14 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:911
+#, fuzzy
+#| msgid ""
+#| "When Godo, Bandit Warlord enters the battlefield, you may search your "
+#| "library for an Equipment card and put it onto the battlefield. If you do, "
+#| "shuffle your library."
 msgid ""
 "When Godo, Bandit Warlord enters the battlefield, you may search your "
-"library for an Equipment card and put it onto the battlefield. If you do, "
-"shuffle your library."
+"library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj "
@@ -2554,8 +2582,7 @@ msgstr ""
 
 #: ../../CHK.rst:921
 msgid ""
-"|mana_x|, Sacrifice Hearth Kami: Destroy target artifact with converted mana "
-"cost X."
+"|mana_x|, Sacrifice Hearth Kami: Destroy target artifact with mana value X."
 msgstr ""
 
 #: ../../CHK.rst:926
@@ -2697,7 +2724,7 @@ msgid ""
 "Choose a nonland card name and a number greater than 0. Target player "
 "reveals their library. If that library contains exactly the chosen number of "
 "cards with the chosen name, Mindblaze deals 8 damage to that player. Then "
-"that player shuffles their library."
+"that player shuffles."
 msgstr ""
 
 #: ../../CHK.rst:974
@@ -3102,8 +3129,8 @@ msgstr ""
 #: ../../CHK.rst:1103
 msgid ""
 "|mana_2|: Reveal the top card of your library. If it's a land card, Feral "
-"Deceiver gets +2/+2 and gains trample until end of turn. Activate this "
-"ability only once each turn."
+"Deceiver gets +2/+2 and gains trample until end of turn. Activate only once "
+"each turn."
 msgstr ""
 
 #: ../../CHK.rst:1108
@@ -3330,10 +3357,14 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:1179
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Then shuffle your library."
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
 "jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
@@ -3539,10 +3570,18 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:1253
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
-"that card onto the battlefield tapped, then shuffle your library."
+"that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../CHK.rst:1264
 msgid ""
@@ -3647,7 +3686,7 @@ msgstr ""
 #: ../../CHK.rst:1293
 msgid ""
 "Soulshift 7 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 7 or less from your graveyard to your hand.)"
+"mana value 7 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:1298
@@ -3658,9 +3697,13 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:1297
+#, fuzzy
+#| msgid ""
+#| "Search your library for a legendary creature card, reveal it, and put it "
+#| "into your hand. Then shuffle your library."
 msgid ""
-"Search your library for a legendary creature card, reveal it, and put it "
-"into your hand. Then shuffle your library."
+"Search your library for a legendary creature card, reveal it, put it into "
+"your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę legendarnego stwora, ujawnij ją i umieść "
 "w twojej ręce. Następnie przetasuj twoją bibliotekę."
@@ -3689,7 +3732,7 @@ msgstr ""
 #: ../../CHK.rst:1309
 msgid ""
 "Soulshift 6 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 6 or less from your graveyard to your hand.)"
+"mana value 6 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:1316
@@ -3822,10 +3865,16 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:1351
+#, fuzzy
+#| msgid ""
+#| "Search your library for a legendary creature card, reveal it, and put it "
+#| "into your hand. Then shuffle your library."
 msgid ""
-"|mana_3|, |tap|: Search your library for a basic land card, reveal it, and "
-"put it into your hand. Then shuffle your library."
+"|mana_3|, |tap|: Search your library for a basic land card, reveal it, put "
+"it into your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę legendarnego stwora, ujawnij ją i umieść "
+"w twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../CHK.rst:1356
 msgid ""

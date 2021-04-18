@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gpt/pl/>\n"
@@ -97,10 +97,14 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:31
+#, fuzzy
+#| msgid ""
+#| "|mana_w|, Sacrifice a creature: Target creature can't attack this turn."
 msgid ""
-"|mana_x|, |tap|: Each creature with converted mana cost X can't attack or "
-"block this turn."
+"|mana_x|, |tap|: Each creature with mana value X can't attack or block this "
+"turn."
 msgstr ""
+"|mana_w|, poświęć stwora: Wskazany stwór nie może atakować w tej turze."
 
 #: ../../GPT.rst:36
 msgid ""
@@ -477,7 +481,7 @@ msgstr ""
 msgid ""
 "Choose target permanent an opponent controls. Search that player's library "
 "for a card with the same name and put it onto the battlefield under your "
-"control. Then that player shuffles their library."
+"control. Then that player shuffles."
 msgstr ""
 
 #: ../../GPT.rst:182
@@ -503,9 +507,11 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:185
-msgid ""
-"Return target nonland permanent with converted mana cost X to its owner's "
-"hand."
+#, fuzzy
+#| msgid ""
+#| "Return target nonland permanent with converted mana cost X to its owner's "
+#| "hand."
+msgid "Return target nonland permanent with mana value X to its owner's hand."
 msgstr ""
 "Przywróć wskazany nielądowy permanent o skrócie many X do ręki właściciela."
 
@@ -719,8 +725,7 @@ msgstr ""
 #: ../../GPT.rst:269
 msgid ""
 "|mana_1|, Exile two creature cards from your graveyard: Target player "
-"discards a card. Activate this ability only any time you could cast a "
-"sorcery."
+"discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../GPT.rst:276
@@ -896,10 +901,14 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:337
+#, fuzzy
+#| msgid ""
+#| "|mana_w|, Sacrifice a creature: Target creature can't attack this turn."
 msgid ""
-"|mana_b|, Sacrifice a creature: Destroy each creature with the same "
-"converted mana cost as the sacrificed creature."
+"|mana_b|, Sacrifice a creature: Destroy each creature with the same mana "
+"value as the sacrificed creature."
 msgstr ""
+"|mana_w|, poświęć stwora: Wskazany stwór nie może atakować w tej turze."
 
 #: ../../GPT.rst:346
 msgid ""
@@ -1001,10 +1010,12 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../GPT.rst:375
+#, fuzzy
+#| msgid "|mana_3|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
 msgid ""
 "|mana_3|\\ |mana_g|: Ghor-Clan Bloodscale gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
-msgstr ""
+"Activate only once each turn."
+msgstr "|mana_3|\\ |mana_g|: Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../GPT.rst:384
 msgid ""
@@ -1067,8 +1078,8 @@ msgid ""
 "When Ogre Savant enters the battlefield, if |mana_u| was spent to cast it, "
 "return target creature to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli do jego rzucenia wydano |mana_u|"
-", przywróć wskazanego stwora do ręki właściciela."
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli do jego rzucenia wydano |"
+"mana_u|, przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../GPT.rst:402
 msgid ""
@@ -1080,7 +1091,7 @@ msgstr ""
 #: ../../GPT.rst:401
 msgid ""
 "Parallectric Feedback deals damage to target spell's controller equal to "
-"that spell's converted mana cost."
+"that spell's mana value."
 msgstr ""
 
 #: ../../GPT.rst:408
@@ -1177,10 +1188,14 @@ msgstr ""
 "wchodzi na pole bitwy mając trzy znaczniki +1/+1.)"
 
 #: ../../GPT.rst:437
+#, fuzzy
+#| msgid ""
+#| "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your "
+#| "graveyard to your hand. Activate this ability only if an opponent was "
+#| "dealt damage this turn."
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your graveyard "
-"to your hand. Activate this ability only if an opponent was dealt damage "
-"this turn."
+"to your hand. Activate only if an opponent was dealt damage this turn."
 msgstr ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
 "twojej ręki. Możesz aktywować tylko jeśli przeciwnik otrzymał obrażenia w "
@@ -1635,7 +1650,7 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:609
-msgid "Destroy each creature with converted mana cost 3 or less."
+msgid "Destroy each creature with mana value 3 or less."
 msgstr ""
 
 #: ../../GPT.rst:614
@@ -2213,16 +2228,32 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:817
+#, fuzzy
+#| msgid ""
+#| "Replicate |mana_2|\\ |mana_u| (When you cast this spell, copy it for each "
+#| "time you paid its replicate cost. You may choose new targets for the "
+#| "copies.)"
 msgid ""
-"|mana_2|\\ |mana_u|: Copy target instant spell you control with converted "
-"mana cost 2 or less. You may choose new targets for the copy."
+"|mana_2|\\ |mana_u|: Copy target instant spell you control with mana value 2 "
+"or less. You may choose new targets for the copy."
 msgstr ""
+"Replikacja |mana_2|\\ |mana_u| (Kiedy rzucisz ten czar, skopiuj go tyle "
+"razy, ile razy opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla "
+"kopii.)"
 
 #: ../../GPT.rst:819
+#, fuzzy
+#| msgid ""
+#| "Replicate |mana_2|\\ |mana_u| (When you cast this spell, copy it for each "
+#| "time you paid its replicate cost. You may choose new targets for the "
+#| "copies.)"
 msgid ""
-"|mana_2|\\ |mana_r|: Copy target sorcery spell you control with converted "
-"mana cost 2 or less. You may choose new targets for the copy."
+"|mana_2|\\ |mana_r|: Copy target sorcery spell you control with mana value 2 "
+"or less. You may choose new targets for the copy."
 msgstr ""
+"Replikacja |mana_2|\\ |mana_u| (Kiedy rzucisz ten czar, skopiuj go tyle "
+"razy, ile razy opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla "
+"kopii.)"
 
 #: ../../GPT.rst:828
 msgid ""

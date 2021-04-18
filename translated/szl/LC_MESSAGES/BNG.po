@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -384,8 +384,8 @@ msgstr ""
 
 #: ../../BNG.rst:135
 msgid ""
-"Search your library for up to two enchantment cards, reveal them, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to two enchantment cards, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../BNG.rst:140
@@ -849,8 +849,7 @@ msgstr ""
 #: ../../BNG.rst:305
 msgid ""
 "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by it "
-"on top of their owners' libraries, then those players shuffle their "
-"libraries."
+"on top of their owners' libraries, then those players shuffle."
 msgstr ""
 
 #: ../../BNG.rst:307
@@ -1214,7 +1213,7 @@ msgstr ""
 msgid ""
 "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your "
 "library and put that card into your hand. You lose life equal to that card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../BNG.rst:436
@@ -1475,8 +1474,8 @@ msgstr ""
 #: ../../BNG.rst:531
 msgid ""
 "|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. "
-"That creature can't block this combat. Activate this ability only if "
-"Forgestoker Dragon is attacking."
+"That creature can't block this combat. Activate only if Forgestoker Dragon "
+"is attacking."
 msgstr ""
 
 #: ../../BNG.rst:538
@@ -1807,8 +1806,8 @@ msgstr ""
 #: ../../BNG.rst:655
 msgid ""
 "|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where "
-"X is the number of creature cards in your graveyard. Activate this ability "
-"only once each turn."
+"X is the number of creature cards in your graveyard. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../BNG.rst:660
@@ -1956,9 +1955,9 @@ msgstr ""
 #: ../../BNG.rst:709
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Shuffle "
-"your library, then scry 1. (Look at the top card of your library. You may "
-"put that card on the bottom of your library.)"
+"put one onto the battlefield tapped and the other into your hand. Shuffle, "
+"then scry 1. (Look at the top card of your library. You may put that card on "
+"the bottom of your library.)"
 msgstr ""
 
 #: ../../BNG.rst:714
@@ -2219,8 +2218,7 @@ msgstr ""
 #: ../../BNG.rst:805
 msgid ""
 "Whenever you cast a creature spell, you may search your library for a Forest "
-"or Plains card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"or Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../BNG.rst:814

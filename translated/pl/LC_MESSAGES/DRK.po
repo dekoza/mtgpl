@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/drk/pl/>\n"
@@ -771,8 +771,7 @@ msgstr ""
 #: ../../DRK.rst:265
 msgid ""
 "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand "
-"and discards a creature card at random. Activate this ability only during "
-"your turn."
+"and discards a creature card at random. Activate only during your turn."
 msgstr ""
 
 #: ../../DRK.rst:272
@@ -942,8 +941,8 @@ msgstr ""
 
 #: ../../DRK.rst:323
 msgid ""
-"|mana_r|: Fire Drake gets +1/+0 until end of turn. Activate this ability "
-"only once each turn."
+"|mana_r|: Fire Drake gets +1/+0 until end of turn. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../DRK.rst:328
@@ -1143,8 +1142,7 @@ msgstr ""
 #: ../../DRK.rst:397
 msgid ""
 "|mana_0|: You may put a basic Forest card from your hand onto the "
-"battlefield. Activate this ability only any time you could cast a sorcery "
-"and only once each turn."
+"battlefield. Activate only as a sorcery and only once each turn."
 msgstr ""
 
 #: ../../DRK.rst:399
@@ -1505,7 +1503,7 @@ msgstr ""
 #: ../../DRK.rst:515
 msgid ""
 "|tap|, Sacrifice Living Armor: Put X +0/+1 counters on target creature, "
-"where X is that creature's converted mana cost."
+"where X is that creature's mana value."
 msgstr ""
 
 #: ../../DRK.rst:522
@@ -1522,7 +1520,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 #: ../../DRK.rst:521
 msgid ""
 "Exile a creature card from your graveyard: Put X +0/+1 counters on "
-"Necropolis, where X is the exiled card's converted mana cost."
+"Necropolis, where X is the exiled card's mana value."
 msgstr ""
 
 #: ../../DRK.rst:526
@@ -1535,8 +1533,8 @@ msgstr ""
 #: ../../DRK.rst:525
 msgid ""
 "|mana_x|, |tap|: Change the target of target spell with a single target if "
-"that target is you. The new target must be a player. X is twice the "
-"converted mana cost of that spell."
+"that target is you. The new target must be a player. X is twice the mana "
+"value of that spell."
 msgstr ""
 
 #: ../../DRK.rst:530
@@ -1643,7 +1641,7 @@ msgid ""
 "|mana_3|, |tap|: Target player reveals a card at random from their hand. If "
 "it's a land card, that player discards it unless they pay 1 life. If it "
 "isn't a land card, the player discards it unless they pay life equal to its "
-"converted mana cost. Activate this ability only during your turn."
+"mana value. Activate only during your turn."
 msgstr ""
 
 #: ../../DRK.rst:562

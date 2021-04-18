@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -45,8 +45,8 @@ msgstr ""
 #: ../../ALA.rst:13
 msgid ""
 "|mana_2|\\ |mana_w|, |tap|, Sacrifice a green creature, a white creature, "
-"and a blue creature: Search your library for a card named Empyrial Archangel "
-"and put it onto the battlefield. Then shuffle your library."
+"and a blue creature: Search your library for a card named Empyrial "
+"Archangel, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:20
@@ -232,7 +232,7 @@ msgstr ""
 #: ../../ALA.rst:83
 msgid ""
 "|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../ALA.rst:90
@@ -252,7 +252,7 @@ msgstr ""
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
 "controls more lands than you, you may search your library for a Plains card, "
-"put it onto the battlefield, then shuffle your library."
+"put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:96
@@ -325,8 +325,8 @@ msgstr ""
 #: ../../ALA.rst:113
 msgid ""
 "When Ranger of Eos enters the battlefield, you may search your library for "
-"up to two creature cards with converted mana cost 1 or less, reveal them, "
-"and put them into your hand. If you do, shuffle your library."
+"up to two creature cards with mana value 1 or less, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:122
@@ -388,7 +388,7 @@ msgstr ""
 #: ../../ALA.rst:135
 msgid ""
 "|tap|, Sacrifice Scourglass: Destroy all permanents except for artifacts and "
-"lands. Activate this ability only during your upkeep."
+"lands. Activate only during your upkeep."
 msgstr ""
 
 #: ../../ALA.rst:142
@@ -822,8 +822,8 @@ msgstr ""
 #: ../../ALA.rst:303
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|, Sacrifice a white creature, a blue creature, and "
-"a black creature: Search your library for a card named Sphinx Sovereign and "
-"put it onto the battlefield. Then shuffle your library."
+"a black creature: Search your library for a card named Sphinx Sovereign, put "
+"it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:308
@@ -850,8 +850,8 @@ msgstr ""
 
 #: ../../ALA.rst:313
 msgid ""
-"−X: Search your library for an artifact card with converted mana cost X or "
-"less and put it onto the battlefield. Then shuffle your library."
+"−X: Search your library for an artifact card with mana value X or less, put "
+"it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:315
@@ -897,8 +897,8 @@ msgstr ""
 #: ../../ALA.rst:327
 msgid ""
 "Reveal the top card of your library and put that card into your hand. You "
-"lose life equal to its converted mana cost. You may repeat this process any "
-"number of times."
+"lose life equal to its mana value. You may repeat this process any number of "
+"times."
 msgstr ""
 
 #: ../../ALA.rst:334
@@ -973,8 +973,7 @@ msgstr ""
 #: ../../ALA.rst:353
 msgid ""
 "When Corpse Connoisseur enters the battlefield, you may search your library "
-"for a creature card and put that card into your graveyard. If you do, "
-"shuffle your library."
+"for a creature card, put that card into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:355
@@ -1030,8 +1029,8 @@ msgstr ""
 #: ../../ALA.rst:371
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Sacrifice a blue creature, a black creature, and "
-"a red creature: Search your library for a card named Prince of Thralls and "
-"put it onto the battlefield. Then shuffle your library."
+"a red creature: Search your library for a card named Prince of Thralls, put "
+"it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:374
@@ -1338,7 +1337,7 @@ msgstr ""
 #: ../../ALA.rst:485
 msgid ""
 "Sacrifice Bloodpyre Elemental: It deals 4 damage to target creature. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../ALA.rst:492
@@ -1409,8 +1408,8 @@ msgstr ""
 #: ../../ALA.rst:509
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|, Sacrifice a black creature, a red creature, and "
-"a green creature: Search your library for a card named Hellkite Overlord and "
-"put it onto the battlefield. Then shuffle your library."
+"a green creature: Search your library for a card named Hellkite Overlord, "
+"put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:516
@@ -1767,8 +1766,8 @@ msgstr ""
 #: ../../ALA.rst:645
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Sacrifice a red creature, a green creature, and "
-"a white creature: Search your library for a card named Godsire and put it "
-"onto the battlefield. Then shuffle your library."
+"a white creature: Search your library for a card named Godsire, put it onto "
+"the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:650
@@ -1937,7 +1936,7 @@ msgstr ""
 #: ../../ALA.rst:711
 msgid ""
 "Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X "
-"is that spell's converted mana cost."
+"is that spell's mana value."
 msgstr ""
 
 #: ../../ALA.rst:716
@@ -2002,8 +2001,8 @@ msgstr ""
 #: ../../ALA.rst:735
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice a non-Ooze creature: Create an X/X green Ooze "
-"creature token, where X is the sacrificed creature's power. Activate this "
-"ability only any time you could cast a sorcery."
+"creature token, where X is the sacrificed creature's power. Activate only as "
+"a sorcery."
 msgstr ""
 
 #: ../../ALA.rst:744
@@ -2303,7 +2302,7 @@ msgstr ""
 msgid ""
 "Choose five permanents you control. For each of those permanents, you may "
 "search your library for a card with the same name as that permanent. Put "
-"those cards onto the battlefield tapped, then shuffle your library."
+"those cards onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ALA.rst:856
@@ -3079,8 +3078,8 @@ msgstr ""
 #: ../../ALA.rst:1169
 msgid ""
 "|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic "
-"Forest, Plains, or Island card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Forest, Plains, or Island card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../ALA.rst:1176
@@ -3104,8 +3103,8 @@ msgstr ""
 #: ../../ALA.rst:1181
 msgid ""
 "|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic "
-"Plains, Island, or Swamp card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Plains, Island, or Swamp card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../ALA.rst:1188
@@ -3118,8 +3117,8 @@ msgstr ""
 #: ../../ALA.rst:1187
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
-"Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../ALA.rst:1194
@@ -3132,8 +3131,8 @@ msgstr ""
 #: ../../ALA.rst:1193
 msgid ""
 "|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic "
-"Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../ALA.rst:1200
@@ -3157,8 +3156,8 @@ msgstr ""
 #: ../../ALA.rst:1205
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
-"Mountain, Forest, or Plains card and put it onto the battlefield tapped. "
-"Then shuffle your library."
+"Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../ALA.rst:1212

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -69,8 +69,8 @@ msgstr ""
 #: ../../BFZ.rst:21
 msgid ""
 "When you cast this spell, you may search your library for a colorless "
-"creature card with converted mana cost 7 or greater, reveal it, then shuffle "
-"your library and put that card on top of it."
+"creature card with mana value 7 or greater, reveal it, then shuffle and put "
+"that card on top."
 msgstr ""
 
 #: ../../BFZ.rst:23
@@ -92,7 +92,7 @@ msgstr ""
 #: ../../BFZ.rst:29
 msgid ""
 "Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard "
-"to your hand. Activate this ability only any time you could cast a sorcery."
+"to your hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../BFZ.rst:34
@@ -255,14 +255,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:83
-msgid ""
-"Your opponents can't cast spells with even converted mana costs. (Zero is "
-"even.)"
+msgid "Your opponents can't cast spells with even mana values. (Zero is even.)"
 msgstr ""
 
 #: ../../BFZ.rst:85
-msgid ""
-"Your opponents can't block with creatures with even converted mana costs."
+msgid "Your opponents can't block with creatures with even mana values."
 msgstr ""
 
 #: ../../BFZ.rst:92
@@ -879,8 +876,8 @@ msgstr ""
 
 #: ../../BFZ.rst:305
 msgid ""
-"Counter target creature spell with converted mana cost 4 or less. If that "
-"spell is countered this way, exile it instead of putting it into its owner's "
+"Counter target creature spell with mana value 4 or less. If that spell is "
+"countered this way, exile it instead of putting it into its owner's "
 "graveyard."
 msgstr ""
 
@@ -1268,8 +1265,8 @@ msgstr ""
 
 #: ../../BFZ.rst:467
 msgid ""
-"Scry X, where X is the highest converted mana cost among permanents you "
-"control, then draw three cards."
+"Scry X, where X is the highest mana value among permanents you control, then "
+"draw three cards."
 msgstr ""
 
 #: ../../BFZ.rst:474
@@ -1393,8 +1390,8 @@ msgstr ""
 
 #: ../../BFZ.rst:535
 msgid ""
-"|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate this ability only if "
-"you control another colorless creature."
+"|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate only if you control "
+"another colorless creature."
 msgstr ""
 
 #: ../../BFZ.rst:544
@@ -1445,8 +1442,8 @@ msgstr ""
 
 #: ../../BFZ.rst:565
 msgid ""
-"Target player reveals their hand. You choose a card from it with converted "
-"mana cost 3 or greater and exile that card."
+"Target player reveals their hand. You choose a card from it with mana value "
+"3 or greater and exile that card."
 msgstr ""
 
 #: ../../BFZ.rst:572
@@ -1784,7 +1781,7 @@ msgstr ""
 #: ../../BFZ.rst:691
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on "
-"Voracious Null. Activate this ability only any time you could cast a sorcery."
+"Voracious Null. Activate only as a sorcery."
 msgstr ""
 
 #: ../../BFZ.rst:696
@@ -1824,7 +1821,7 @@ msgstr ""
 msgid ""
 "Exile target nonbasic land. Search its controller's graveyard, hand, and "
 "library for any number of cards with the same name as that land and exile "
-"them. Then that player shuffles their library."
+"them. Then that player shuffles."
 msgstr ""
 
 #: ../../BFZ.rst:714
@@ -2346,7 +2343,7 @@ msgstr ""
 #: ../../BFZ.rst:917
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an "
-"Eldrazi card, reveal it, put it into your hand, then shuffle your library."
+"Eldrazi card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:924
@@ -2511,7 +2508,7 @@ msgstr ""
 #: ../../BFZ.rst:977
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:982
@@ -2524,7 +2521,7 @@ msgstr ""
 #: ../../BFZ.rst:981
 msgid ""
 "Search your library for up to three basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library. You gain 7 life."
+"battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 
 #: ../../BFZ.rst:988
@@ -2678,8 +2675,8 @@ msgstr ""
 
 #: ../../BFZ.rst:1037
 msgid ""
-"Search your library for a land card, reveal it, and put it into your hand. "
-"Then shuffle your library."
+"Search your library for a land card, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1042
@@ -2936,9 +2933,9 @@ msgstr ""
 #: ../../BFZ.rst:1147
 msgid ""
 "Converge — Search your library for a creature, instant, or sorcery card with "
-"converted mana cost less than or equal to the number of colors of mana spent "
-"to cast this spell, exile that card, then shuffle your library. You may cast "
-"that card without paying its mana cost."
+"mana value less than or equal to the number of colors of mana spent to cast "
+"this spell, exile that card, then shuffle. You may cast that card without "
+"paying its mana cost."
 msgstr ""
 
 #: ../../BFZ.rst:1154
@@ -3016,8 +3013,8 @@ msgstr ""
 
 #: ../../BFZ.rst:1175
 msgid ""
-"Return any number of target Ally creature cards with total converted mana "
-"cost 8 or less from your graveyard to the battlefield."
+"Return any number of target Ally creature cards with total mana value 8 or "
+"less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../BFZ.rst:1182
@@ -3210,7 +3207,7 @@ msgstr ""
 #: ../../BFZ.rst:1243
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1250
@@ -3312,7 +3309,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1294
@@ -3359,7 +3356,7 @@ msgstr ""
 #: ../../BFZ.rst:1303
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1312
@@ -3474,10 +3471,9 @@ msgstr ""
 
 #: ../../BFZ.rst:1347
 msgid ""
-"Whenever you cast a colorless spell with converted mana cost 7 or greater, "
-"you may sacrifice Sanctum of Ugin. If you do, search your library for a "
-"colorless creature card, reveal it, put it into your hand, then shuffle your "
-"library."
+"Whenever you cast a colorless spell with mana value 7 or greater, you may "
+"sacrifice Sanctum of Ugin. If you do, search your library for a colorless "
+"creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1356
@@ -3533,7 +3529,7 @@ msgstr ""
 #: ../../BFZ.rst:1369
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless "
-"spells. Activate this ability only if you control seven or more lands."
+"spells. Activate only if you control seven or more lands."
 msgstr ""
 
 #: ../../BFZ.rst:1378

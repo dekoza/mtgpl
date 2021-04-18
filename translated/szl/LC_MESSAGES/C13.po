@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -175,13 +175,13 @@ msgstr ""
 #: ../../C13.rst:61
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to "
-"your hand. Activate this ability only during your upkeep."
+"your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../C13.rst:63
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+"a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../C13.rst:70
@@ -333,8 +333,8 @@ msgstr ""
 #: ../../C13.rst:117
 msgid ""
 "When Razor Hippogriff enters the battlefield, return target artifact card "
-"from your graveyard to your hand. You gain life equal to that card's "
-"converted mana cost."
+"from your graveyard to your hand. You gain life equal to that card's mana "
+"value."
 msgstr ""
 
 #: ../../C13.rst:122
@@ -374,8 +374,8 @@ msgid ""
 "https://scryfall.com/card/c13/22/stonecloaker?utm_source=api>`"
 msgstr ""
 
-#: ../../C13.rst:131 ../../C13.rst:207 ../../C13.rst:1303 ../../C13.rst:1407
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
+#: ../../C13.rst:131
+msgid "Flash"
 msgstr ""
 
 #: ../../C13.rst:135
@@ -580,6 +580,10 @@ msgid ""
 "https://scryfall.com/card/c13/37/deceiver-exarch?utm_source=api>`"
 msgstr ""
 
+#: ../../C13.rst:207 ../../C13.rst:1303 ../../C13.rst:1407
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
 #: ../../C13.rst:209
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
 msgstr ""
@@ -781,7 +785,7 @@ msgstr ""
 msgid ""
 "Remove all attacking creatures from combat and untap them. After this phase, "
 "there is an additional combat phase. Each of those creatures attacks that "
-"combat if able. They can't attack you or a planeswalker you control that "
+"combat if able. They can't attack you or planeswalkers you control that "
 "combat."
 msgstr ""
 
@@ -927,8 +931,8 @@ msgstr ""
 #: ../../C13.rst:345
 msgid ""
 "Forecast — |mana_2|\\ |mana_u|, Reveal Skyscribing from your hand: Each "
-"player draws a card. (Activate this ability only during your upkeep and only "
-"once each turn.)"
+"player draws a card. (Activate only during your upkeep and only once each "
+"turn.)"
 msgstr ""
 
 #: ../../C13.rst:354
@@ -1019,10 +1023,7 @@ msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr ""
 
 #: ../../C13.rst:377
-msgid ""
-"True-Name Nemesis has protection from the chosen player. (This creature "
-"can't be blocked, targeted, dealt damage, or enchanted by anything "
-"controlled by that player.)"
+msgid "True-Name Nemesis has protection from the chosen player."
 msgstr ""
 
 #: ../../C13.rst:384
@@ -1210,7 +1211,7 @@ msgstr ""
 #: ../../C13.rst:447
 msgid ""
 "Whenever you cast a creature spell, create X 1/1 black Thrull creature "
-"tokens, where X is that spell's converted mana cost."
+"tokens, where X is that spell's mana value."
 msgstr ""
 
 #: ../../C13.rst:449
@@ -1356,7 +1357,7 @@ msgstr ""
 msgid ""
 "When Phyrexian Delver enters the battlefield, return target creature card "
 "from your graveyard to the battlefield. You lose life equal to that card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../C13.rst:502
@@ -1678,8 +1679,7 @@ msgstr ""
 msgid ""
 "Destroy all nonbasic lands. For each land destroyed this way, its controller "
 "may search their library for a basic land card and put it onto the "
-"battlefield. Then each player who searched their library this way shuffles "
-"it."
+"battlefield. Then each player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../C13.rst:610
@@ -2174,9 +2174,8 @@ msgstr ""
 
 #: ../../C13.rst:771
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:778
@@ -2254,8 +2253,7 @@ msgstr ""
 #: ../../C13.rst:797
 msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
-"basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:802
@@ -2314,7 +2312,7 @@ msgstr ""
 #: ../../C13.rst:817
 msgid ""
 "|tap|: Put target creature card from your graveyard on top of your library. "
-"Activate this ability only during your turn, before attackers are declared."
+"Activate only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../C13.rst:824
@@ -2405,8 +2403,8 @@ msgstr ""
 #: ../../C13.rst:855
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
-"card, reveal that card, put it into your hand, then shuffle your library. "
-"(Do this before you draw.)"
+"card, reveal that card, put it into your hand, then shuffle. (Do this before "
+"you draw.)"
 msgstr ""
 
 #: ../../C13.rst:862
@@ -2454,7 +2452,7 @@ msgstr ""
 msgid ""
 "When you cast this spell, each player reveals the top card of their library. "
 "Naya Soulbeast enters the battlefield with X +1/+1 counters on it, where X "
-"is the total converted mana cost of all cards revealed this way."
+"is the total mana value of all cards revealed this way."
 msgstr ""
 
 #: ../../C13.rst:873 ../../C13.rst:891 ../../C13.rst:923 ../../C13.rst:1009
@@ -2634,7 +2632,7 @@ msgstr ""
 #: ../../C13.rst:941
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
-"that card onto the battlefield tapped, then shuffle your library."
+"that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:948
@@ -2688,7 +2686,7 @@ msgstr ""
 #: ../../C13.rst:963
 msgid ""
 "Search your library for a Plains, Island, Swamp, Mountain, or Forest card "
-"and put that card onto the battlefield. Then shuffle your library."
+"and put that card onto the battlefield. Then shuffle."
 msgstr ""
 
 #: ../../C13.rst:970
@@ -2700,8 +2698,8 @@ msgstr ""
 
 #: ../../C13.rst:967
 msgid ""
-"Search your library for a basic land card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for a basic land card, reveal that card, put it into "
+"your hand, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:969
@@ -2723,7 +2721,7 @@ msgid ""
 "battlefield. Each opponent may search their library for a land card and put "
 "it onto the battlefield. For each opponent who searches a library this way, "
 "search your library for a land card and put it onto the battlefield. Then "
-"each player who searched a library this way shuffles it."
+"each player who searched a library this way shuffles."
 msgstr ""
 
 #: ../../C13.rst:980
@@ -2887,7 +2885,7 @@ msgstr ""
 #: ../../C13.rst:1039
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with "
-"converted mana cost X."
+"mana value X."
 msgstr ""
 
 #: ../../C13.rst:1048
@@ -3071,8 +3069,8 @@ msgstr ""
 msgid ""
 "Look at the top five cards of your library. As many times as you choose, you "
 "may pay 1 life, put those cards on the bottom of your library in any order, "
-"then look at the top five cards of your library. Then shuffle your library "
-"and put the last cards you looked at this way on top of it in any order."
+"then look at the top five cards of your library. Then shuffle and put the "
+"last cards you looked at this way on top in any order."
 msgstr ""
 
 #: ../../C13.rst:1138
@@ -3459,7 +3457,7 @@ msgstr ""
 #: ../../C13.rst:1269
 msgid ""
 "|mana_u|: Target noncreature artifact becomes an artifact creature with "
-"power and toughness each equal to its converted mana cost until end of turn."
+"power and toughness each equal to its mana value until end of turn."
 msgstr ""
 
 #: ../../C13.rst:1271
@@ -3510,7 +3508,7 @@ msgstr ""
 msgid ""
 "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this "
 "card: Search your library for a Mountain or Forest card, reveal it, put it "
-"into your hand, then shuffle your library.)"
+"into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../C13.rst:1300
@@ -3550,7 +3548,7 @@ msgstr ""
 msgid ""
 "Whenever Augury Adept deals combat damage to a player, reveal the top card "
 "of your library and put that card into your hand. You gain life equal to its "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../C13.rst:1318
@@ -3671,8 +3669,7 @@ msgstr ""
 #: ../../C13.rst:1355
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
-"two basic land cards, reveal them, put them into your hand, then shuffle "
-"your library."
+"two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1362
@@ -3939,7 +3936,7 @@ msgstr ""
 #: ../../C13.rst:1449
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1458
@@ -4068,7 +4065,7 @@ msgstr ""
 msgid ""
 "|tap|, Exile Surveyor's Scope: Search your library for up to X basic land "
 "cards, where X is the number of players who control at least two more lands "
-"than you. Put those cards onto the battlefield, then shuffle your library."
+"than you. Put those cards onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1500
@@ -4188,8 +4185,7 @@ msgstr ""
 #: ../../C13.rst:1537
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-"basic land card and put that card onto the battlefield tapped. Then shuffle "
-"your library."
+"basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1542
@@ -4277,8 +4273,8 @@ msgstr ""
 #: ../../C13.rst:1575
 msgid ""
 "|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic "
-"Forest, Plains, or Island card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Forest, Plains, or Island card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C13.rst:1584
@@ -4433,8 +4429,8 @@ msgstr ""
 #: ../../C13.rst:1641
 msgid ""
 "|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic "
-"Plains, Island, or Swamp card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Plains, Island, or Swamp card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C13.rst:1646
@@ -4447,7 +4443,7 @@ msgstr ""
 #: ../../C13.rst:1645
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1654
@@ -4548,8 +4544,8 @@ msgstr ""
 #: ../../C13.rst:1687
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
-"Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C13.rst:1694
@@ -4624,8 +4620,8 @@ msgstr ""
 #: ../../C13.rst:1719
 msgid ""
 "|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic "
-"Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C13.rst:1726
@@ -4788,8 +4784,8 @@ msgstr ""
 #: ../../C13.rst:1793
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
-"Mountain, Forest, or Plains card and put it onto the battlefield tapped. "
-"Then shuffle your library."
+"Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C13.rst:1802
@@ -5079,8 +5075,8 @@ msgstr ""
 
 #: ../../C13.rst:1927
 msgid ""
-"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-"control five or more lands."
+"|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
+"more lands."
 msgstr ""
 
 #: ../../C13.rst:1932
@@ -5093,7 +5089,7 @@ msgstr ""
 #: ../../C13.rst:1931
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1940

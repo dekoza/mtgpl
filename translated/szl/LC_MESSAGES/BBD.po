@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -514,7 +514,7 @@ msgstr ""
 #: ../../BBD.rst:171
 msgid ""
 "When Arena Rector dies, you may exile it. If you do, search your library for "
-"a planeswalker card, put it onto the battlefield, then shuffle your library."
+"a planeswalker card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:176
@@ -782,8 +782,8 @@ msgstr ""
 #: ../../BBD.rst:273
 msgid ""
 "When Spellseeker enters the battlefield, you may search your library for an "
-"instant or sorcery card with converted mana cost 2 or less, reveal it, put "
-"it into your hand, then shuffle your library."
+"instant or sorcery card with mana value 2 or less, reveal it, put it into "
+"your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:280
@@ -1093,8 +1093,7 @@ msgstr ""
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking "
 "creatures. They gain trample, lifelink, and haste until end of turn. After "
-"this phase, there is an additional combat phase. Activate this ability only "
-"during combat."
+"this phase, there is an additional combat phase. Activate only during combat."
 msgstr ""
 
 #: ../../BBD.rst:388
@@ -1241,7 +1240,7 @@ msgstr ""
 msgid ""
 "When Jungle Wayfinder enters the battlefield, each player may search their "
 "library for a basic land card, reveal it, put it into their hand, then "
-"shuffle their library."
+"shuffle."
 msgstr ""
 
 #: ../../BBD.rst:438
@@ -1254,8 +1253,8 @@ msgstr ""
 #: ../../BBD.rst:437
 msgid ""
 "For each player, choose friend or foe. Each friend searches their library "
-"for a land card, puts it onto the battlefield tapped, then shuffles their "
-"library. Each foe sacrifices an artifact or enchantment they control."
+"for a land card, puts it onto the battlefield tapped, then shuffles. Each "
+"foe sacrifices an artifact or enchantment they control."
 msgstr ""
 
 #: ../../BBD.rst:446
@@ -1559,7 +1558,7 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, if an opponent controls more lands than "
 "you, you may search your library for up to three basic land cards, reveal "
-"them, put them into your hand, then shuffle your library."
+"them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:556
@@ -1630,7 +1629,7 @@ msgstr ""
 msgid ""
 "When Oreskos Explorer enters the battlefield, search your library for up to "
 "X Plains cards, where X is the number of players who control more lands than "
-"you. Reveal those cards, put them into your hand, then shuffle your library."
+"you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:584
@@ -2020,7 +2019,7 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:729
-msgid "Counter target spell with converted mana cost 2."
+msgid "Counter target spell with mana value 2."
 msgstr ""
 
 #: ../../BBD.rst:734
@@ -2068,10 +2067,7 @@ msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr ""
 
 #: ../../BBD.rst:749
-msgid ""
-"True-Name Nemesis has protection from the chosen player. (This creature "
-"can't be blocked, targeted, dealt damage, or enchanted by anything "
-"controlled by that player.)"
+msgid "True-Name Nemesis has protection from the chosen player."
 msgstr ""
 
 #: ../../BBD.rst:754
@@ -2127,8 +2123,7 @@ msgstr ""
 
 #: ../../BBD.rst:773
 msgid ""
-"Search your library for a card and put that card into your hand. Then "
-"shuffle your library."
+"Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:778
@@ -2230,8 +2225,7 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:807
-msgid ""
-"Draw cards equal to the converted mana cost of the sacrificed permanent."
+msgid "Draw cards equal to the mana value of the sacrificed permanent."
 msgstr ""
 
 #: ../../BBD.rst:814
@@ -2275,8 +2269,8 @@ msgstr ""
 
 #: ../../BBD.rst:825
 msgid ""
-"When Noxious Dragon dies, you may destroy target creature with converted "
-"mana cost 3 or less."
+"When Noxious Dragon dies, you may destroy target creature with mana value 3 "
+"or less."
 msgstr ""
 
 #: ../../BBD.rst:832
@@ -2544,9 +2538,9 @@ msgstr ""
 
 #: ../../BBD.rst:927
 msgid ""
-"When a creature with converted mana cost 6 or greater enters the "
-"battlefield, you may return Dragon Breath from your graveyard to the "
-"battlefield attached to that creature."
+"When a creature with mana value 6 or greater enters the battlefield, you may "
+"return Dragon Breath from your graveyard to the battlefield attached to that "
+"creature."
 msgstr ""
 
 #: ../../BBD.rst:934
@@ -2892,7 +2886,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
-"tapped, then shuffles their library."
+"tapped, then shuffles."
 msgstr ""
 
 #: ../../BBD.rst:1058
@@ -3048,7 +3042,7 @@ msgstr ""
 #: ../../BBD.rst:1115
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:1120
@@ -3061,8 +3055,7 @@ msgstr ""
 #: ../../BBD.rst:1119
 msgid ""
 "When Veteran Explorer dies, each player may search their library for up to "
-"two basic land cards and put them onto the battlefield. Then each player who "
-"searched their library this way shuffles it."
+"two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:1128

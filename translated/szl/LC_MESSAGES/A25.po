@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -151,8 +151,7 @@ msgstr ""
 #: ../../A25.rst:49
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a "
-"1/1 white Spirit creature token with flying. Activate this ability only any "
-"time you could cast a sorcery."
+"1/1 white Spirit creature token with flying. Activate only as a sorcery."
 msgstr ""
 
 #: ../../A25.rst:58
@@ -241,9 +240,7 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:81
-msgid ""
-"Scry 1. (Look at the top card of your library. You may put that card on the "
-"bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../A25.rst:88
@@ -289,7 +286,7 @@ msgstr ""
 #: ../../A25.rst:97
 msgid ""
 "|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../A25.rst:102
@@ -348,8 +345,7 @@ msgstr ""
 #: ../../A25.rst:117
 msgid ""
 "|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying. "
-"Activate this ability only if Luminarch Ascension has four or more quest "
-"counters on it."
+"Activate only if Luminarch Ascension has four or more quest counters on it."
 msgstr ""
 
 #: ../../A25.rst:124
@@ -385,7 +381,7 @@ msgstr ""
 #: ../../A25.rst:129
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+"a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../A25.rst:134
@@ -509,7 +505,7 @@ msgstr ""
 msgid ""
 "When Squadron Hawk enters the battlefield, you may search your library for "
 "up to three cards named Squadron Hawk, reveal them, put them into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../A25.rst:184
@@ -572,8 +568,8 @@ msgid ""
 "https://scryfall.com/card/a25/39/whitemane-lion?utm_source=api>`"
 msgstr ""
 
-#: ../../A25.rst:201
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
+#: ../../A25.rst:201 ../../A25.rst:403 ../../A25.rst:1083 ../../A25.rst:1105
+msgid "Flash"
 msgstr ""
 
 #: ../../A25.rst:203
@@ -1081,7 +1077,7 @@ msgstr ""
 #: ../../A25.rst:385
 msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"an Island card, reveal it, put it into your hand, then shuffle your library.)"
+"an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../A25.rst:390
@@ -1124,10 +1120,6 @@ msgid ""
 "https://scryfall.com/card/a25/76/vendilion-clique?utm_source=api>`"
 msgstr ""
 
-#: ../../A25.rst:403 ../../A25.rst:1083 ../../A25.rst:1105
-msgid "Flash"
-msgstr ""
-
 #: ../../A25.rst:407
 msgid ""
 "When Vendilion Clique enters the battlefield, look at target player's hand. "
@@ -1151,10 +1143,8 @@ msgid ""
 "down.\""
 msgstr ""
 
-#: ../../A25.rst:413 ../../A25.rst:417
-msgid ""
-"Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+#: ../../A25.rst:413
+msgid "Morph |mana_1|\\ |mana_u|"
 msgstr ""
 
 #: ../../A25.rst:420
@@ -1162,6 +1152,12 @@ msgid ""
 ":mtgtip:`Willbender<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/6/e6fac295-3563-4989-86b6-1672a4e97afd.jpg?1562442554|https://"
 "scryfall.com/card/a25/78/willbender?utm_source=api>`"
+msgstr ""
+
+#: ../../A25.rst:417
+msgid ""
+"Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../A25.rst:419
@@ -1212,7 +1208,7 @@ msgstr ""
 #: ../../A25.rst:440
 msgid ""
 ":mtgtip:`Dark Ritual<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1562438559|https://"
+"front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1618695764|https://"
 "scryfall.com/card/a25/82/dark-ritual?utm_source=api>`"
 msgstr ""
 
@@ -1360,7 +1356,7 @@ msgstr ""
 #: ../../A25.rst:489
 msgid ""
 "|tap|, Sacrifice a creature: Return target creature card from your graveyard "
-"to the battlefield. Activate this ability only during your upkeep."
+"to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../A25.rst:496
@@ -1523,7 +1519,7 @@ msgstr ""
 #: ../../A25.rst:547
 msgid ""
 "At the beginning of your upkeep, you may search your library for a Rat card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:552
@@ -1661,7 +1657,7 @@ msgstr ""
 #: ../../A25.rst:595
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+"a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../A25.rst:602
@@ -1674,7 +1670,7 @@ msgstr ""
 #: ../../A25.rst:599
 msgid ""
 "|mana_1|\\ |mana_b|, Discard a card: Return Undead Gladiator from your "
-"graveyard to your hand. Activate this ability only during your upkeep."
+"graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../A25.rst:608
@@ -1686,8 +1682,8 @@ msgstr ""
 
 #: ../../A25.rst:605
 msgid ""
-"Return target creature card with converted mana cost 3 or less from your "
-"graveyard to the battlefield."
+"Return target creature card with mana value 3 or less from your graveyard to "
+"the battlefield."
 msgstr ""
 
 #: ../../A25.rst:607 ../../A25.rst:933
@@ -1877,8 +1873,7 @@ msgstr ""
 #: ../../A25.rst:669
 msgid ""
 "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library "
-"for a Mountain card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../A25.rst:674
@@ -1915,8 +1910,8 @@ msgstr ""
 
 #: ../../A25.rst:681
 msgid ""
-"Whenever a player casts a spell with converted mana cost 3 or less, Eidolon "
-"of the Great Revel deals 2 damage to that player."
+"Whenever a player casts a spell with mana value 3 or less, Eidolon of the "
+"Great Revel deals 2 damage to that player."
 msgstr ""
 
 #: ../../A25.rst:686
@@ -2023,7 +2018,7 @@ msgstr ""
 #: ../../A25.rst:715
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-"Activate this ability only during your turn."
+"Activate only during your turn."
 msgstr ""
 
 #: ../../A25.rst:720
@@ -2037,7 +2032,7 @@ msgstr ""
 msgid ""
 "When Imperial Recruiter enters the battlefield, search your library for a "
 "creature card with power 2 or less, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../A25.rst:728
@@ -2361,8 +2356,7 @@ msgstr ""
 msgid ""
 "Look at the top five cards of your library. You may reveal a colorless card "
 "from among them and put it into your hand. Then put the rest on the bottom "
-"of your library in any order. (Cards with no colored mana in their mana "
-"costs are colorless. Lands are also colorless.)"
+"of your library in any order."
 msgstr ""
 
 #: ../../A25.rst:834
@@ -2442,9 +2436,8 @@ msgstr ""
 
 #: ../../A25.rst:859
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:864
@@ -2474,7 +2467,7 @@ msgstr ""
 #: ../../A25.rst:869
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+"a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../A25.rst:874
@@ -2531,8 +2524,8 @@ msgstr ""
 #: ../../A25.rst:887
 msgid ""
 "When Fierce Empath enters the battlefield, you may search your library for a "
-"creature card with converted mana cost 6 or greater, reveal it, put it into "
-"your hand, then shuffle your library."
+"creature card with mana value 6 or greater, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:892
@@ -2630,8 +2623,8 @@ msgstr ""
 #: ../../A25.rst:923
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
-"card, reveal that card, put it into your hand, then shuffle your library. "
-"(Do this before you draw.)"
+"card, reveal that card, put it into your hand, then shuffle. (Do this before "
+"you draw.)"
 msgstr ""
 
 #: ../../A25.rst:928
@@ -2727,8 +2720,7 @@ msgstr ""
 #: ../../A25.rst:959
 msgid ""
 "When Protean Hulk dies, search your library for any number of creature cards "
-"with total converted mana cost 6 or less and put them onto the battlefield. "
-"Then shuffle your library."
+"with total mana value 6 or less, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:968
@@ -2782,7 +2774,7 @@ msgstr ""
 #: ../../A25.rst:979
 msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:981
@@ -2984,8 +2976,7 @@ msgstr ""
 #: ../../A25.rst:1053
 msgid ""
 "Search your library for a white card, a blue card, a black card, a red card, "
-"and a green card. Reveal those cards and put them into your hand. Then "
-"shuffle your library."
+"and a green card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:1058
@@ -2998,7 +2989,7 @@ msgstr ""
 #: ../../A25.rst:1057
 msgid ""
 "Search your library for a creature card, reveal that card, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:1066
@@ -3140,7 +3131,7 @@ msgstr ""
 #: ../../A25.rst:1111
 msgid ""
 "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and "
-"enchantment with converted mana cost X or less."
+"enchantment with mana value X or less."
 msgstr ""
 
 #: ../../A25.rst:1120
@@ -3280,8 +3271,8 @@ msgstr ""
 
 #: ../../A25.rst:1169
 msgid ""
-"Whenever a player casts a spell with converted mana cost equal to the number "
-"of charge counters on Chalice of the Void, counter that spell."
+"Whenever a player casts a spell with mana value equal to the number of "
+"charge counters on Chalice of the Void, counter that spell."
 msgstr ""
 
 #: ../../A25.rst:1178
@@ -3431,7 +3422,7 @@ msgstr ""
 msgid ""
 "When Self-Assembler enters the battlefield, you may search your library for "
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../A25.rst:1226
@@ -3486,9 +3477,9 @@ msgstr ""
 #: ../../A25.rst:1239
 msgid ""
 "When Treasure Keeper dies, reveal cards from the top of your library until "
-"you reveal a nonland card with converted mana cost 3 or less. You may cast "
-"that card without paying its mana cost. Put all revealed cards not cast this "
-"way on the bottom of your library in a random order."
+"you reveal a nonland card with mana value 3 or less. You may cast that card "
+"without paying its mana cost. Put all revealed cards not cast this way on "
+"the bottom of your library in a random order."
 msgstr ""
 
 #: ../../A25.rst:1246
@@ -3508,8 +3499,7 @@ msgstr ""
 #: ../../A25.rst:1245
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
-"for a basic land card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../A25.rst:1252
@@ -3604,7 +3594,7 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../A25.rst:1298

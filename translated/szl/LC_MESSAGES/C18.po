@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -39,8 +39,8 @@ msgstr ""
 msgid ""
 "When Boreas Charger leaves the battlefield, choose an opponent who controls "
 "more lands than you. Search your library for a number of Plains cards equal "
-"to the difference and reveal them. Put one of them onto the battlefield "
-"tapped and the rest into your hand. Then shuffle your library."
+"to the difference, reveal those cards, put one of them onto the battlefield "
+"tapped and the rest into your hand, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:18
@@ -373,7 +373,7 @@ msgstr ""
 msgid ""
 "Reveal the player you chose: Choose new targets for target spell or ability "
 "if it's controlled by the chosen player and if it targets you or a permanent "
-"you control. Activate this ability only once."
+"you control. Activate only once."
 msgstr ""
 
 #: ../../C18.rst:132
@@ -386,7 +386,7 @@ msgstr ""
 #: ../../C18.rst:131
 msgid ""
 "At the beginning of your end step, target enchantment deals damage equal to "
-"its converted mana cost to its controller unless that player sacrifices it."
+"its mana value to its controller unless that player sacrifices it."
 msgstr ""
 
 #: ../../C18.rst:138
@@ -472,9 +472,9 @@ msgstr ""
 #: ../../C18.rst:161
 msgid ""
 "Reveal the top X cards of your library. You may put any number of artifact "
-"cards with converted mana cost X or less from among them onto the "
-"battlefield. Then put all cards revealed this way that weren't put onto the "
-"battlefield into your graveyard."
+"cards with mana value X or less from among them onto the battlefield. Then "
+"put all cards revealed this way that weren't put onto the battlefield into "
+"your graveyard."
 msgstr ""
 
 #: ../../C18.rst:166
@@ -506,8 +506,8 @@ msgstr ""
 
 #: ../../C18.rst:171
 msgid ""
-"Survivors your opponents control can't block, and they can't attack you or a "
-"planeswalker you control."
+"Survivors your opponents control can't block, and they can't attack you or "
+"planeswalkers you control."
 msgstr ""
 
 #: ../../C18.rst:173
@@ -974,8 +974,8 @@ msgstr ""
 #: ../../C18.rst:333
 msgid ""
 "Whenever Yennett, Cryptic Sovereign attacks, reveal the top card of your "
-"library. You may cast it without paying its mana cost if its converted mana "
-"cost is odd. If you don't cast it, draw a card."
+"library. You may cast it without paying its mana cost if its mana value is "
+"odd. If you don't cast it, draw a card."
 msgstr ""
 
 #: ../../C18.rst:340
@@ -997,7 +997,7 @@ msgstr ""
 msgid ""
 "Whenever a Ninja you control deals combat damage to a player, reveal the top "
 "card of your library and put that card into your hand. Each opponent loses "
-"life equal to that card's converted mana cost."
+"life equal to that card's mana value."
 msgstr ""
 
 #: ../../C18.rst:350
@@ -1052,8 +1052,8 @@ msgstr ""
 
 #: ../../C18.rst:361
 msgid ""
-"|mana_2|, |tap|: Draw a card. Activate this ability only if you control "
-"three or more lands with the same name."
+"|mana_2|, |tap|: Draw a card. Activate only if you control three or more "
+"lands with the same name."
 msgstr ""
 
 #: ../../C18.rst:368
@@ -1130,8 +1130,8 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|: Scry 1, then you may reveal the top card of your library. "
 "If a basic land card is revealed this way, put it onto the battlefield "
-"tapped. Activate this ability only if an opponent controls at least two more "
-"lands than you."
+"tapped. Activate only if an opponent controls at least two more lands than "
+"you."
 msgstr ""
 
 #: ../../C18.rst:396
@@ -1714,7 +1714,7 @@ msgstr ""
 #: ../../C18.rst:603
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
-"order. You may shuffle your library."
+"order. You may shuffle."
 msgstr ""
 
 #: ../../C18.rst:605 ../../C18.rst:871
@@ -1731,7 +1731,7 @@ msgstr ""
 #: ../../C18.rst:609
 msgid ""
 "Look at the top three cards of target player's library, then put them back "
-"in any order. You may have that player shuffle their library."
+"in any order. You may have that player shuffle."
 msgstr ""
 
 #: ../../C18.rst:611
@@ -1914,8 +1914,8 @@ msgstr ""
 
 #: ../../C18.rst:681
 msgid ""
-"Enchanted creature gets +2/+2, has flying, and can't attack you or a "
-"planeswalker you control."
+"Enchanted creature gets +2/+2, has flying, and can't attack you or "
+"planeswalkers you control."
 msgstr ""
 
 #: ../../C18.rst:688
@@ -1991,7 +1991,7 @@ msgstr ""
 msgid ""
 "When Phyrexian Delver enters the battlefield, return target creature card "
 "from your graveyard to the battlefield. You lose life equal to that card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../C18.rst:714
@@ -2279,8 +2279,7 @@ msgstr ""
 msgid ""
 "When Borderland Explorer enters the battlefield, each player may discard a "
 "card. Each player who discarded a card this way may search their library for "
-"a basic land card, reveal it, put it into their hand, then shuffle their "
-"library."
+"a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:816
@@ -2376,9 +2375,8 @@ msgstr ""
 
 #: ../../C18.rst:843
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:850
@@ -2455,7 +2453,7 @@ msgstr ""
 #: ../../C18.rst:875
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:882
@@ -2468,14 +2466,14 @@ msgstr ""
 #: ../../C18.rst:879
 msgid ""
 "Search your library for a basic land card, put that card onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:881
 msgid ""
 "Threshold — If seven or more cards are in your graveyard, instead search "
 "your library for up to three basic land cards, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:886
@@ -2488,8 +2486,7 @@ msgstr ""
 #: ../../C18.rst:885
 msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
-"basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:892
@@ -2547,7 +2544,7 @@ msgstr ""
 #: ../../C18.rst:907
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:914
@@ -2581,7 +2578,7 @@ msgstr ""
 #: ../../C18.rst:919
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:921
@@ -2620,7 +2617,7 @@ msgstr ""
 msgid ""
 "Remove three quest counters from Khalni Heart Expedition and sacrifice it: "
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:936
@@ -2699,7 +2696,7 @@ msgstr ""
 #: ../../C18.rst:961
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
-"that card onto the battlefield tapped, then shuffle your library."
+"that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:966
@@ -2750,8 +2747,8 @@ msgstr ""
 
 #: ../../C18.rst:985
 msgid ""
-"Enchanted creature gets +3/+3, has trample, and can't attack you or a "
-"planeswalker you control."
+"Enchanted creature gets +3/+3, has trample, and can't attack you or "
+"planeswalkers you control."
 msgstr ""
 
 #: ../../C18.rst:992
@@ -2777,7 +2774,7 @@ msgstr ""
 #: ../../C18.rst:995
 msgid ""
 "When Yavimaya Elder dies, you may search your library for up to two basic "
-"land cards, reveal them, put them into your hand, then shuffle your library."
+"land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:997
@@ -2890,9 +2887,9 @@ msgstr ""
 #: ../../C18.rst:1039
 msgid ""
 "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
-"card of that player's library. You gain life equal to that card's converted "
-"mana cost. Until end of turn, you may cast that card and you may spend mana "
-"as though it were mana of any color to cast that spell."
+"card of that player's library. You gain life equal to that card's mana "
+"value. Until end of turn, you may cast that card and you may spend mana as "
+"though it were mana of any color to cast that spell."
 msgstr ""
 
 #: ../../C18.rst:1044
@@ -2931,8 +2928,8 @@ msgstr ""
 #: ../../C18.rst:1053
 msgid ""
 "At the beginning of your upkeep, each player reveals the top card of their "
-"library, loses life equal to that card's converted mana cost, then puts it "
-"into their hand."
+"library, loses life equal to that card's mana value, then puts it into their "
+"hand."
 msgstr ""
 
 #: ../../C18.rst:1062
@@ -3024,7 +3021,7 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1089
-msgid "Destroy each nonland permanent with converted mana cost X or less."
+msgid "Destroy each nonland permanent with mana value X or less."
 msgstr ""
 
 #: ../../C18.rst:1094
@@ -3252,7 +3249,7 @@ msgstr ""
 #: ../../C18.rst:1173
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-"equal to the sacrificed artifact's converted mana cost to any target."
+"equal to the sacrificed artifact's mana value to any target."
 msgstr ""
 
 #: ../../C18.rst:1178
@@ -3486,7 +3483,7 @@ msgstr ""
 #: ../../C18.rst:1259
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1266
@@ -3516,7 +3513,7 @@ msgstr ""
 #: ../../C18.rst:1271
 msgid ""
 "|mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the "
-"converted mana cost of that card."
+"mana value of that card."
 msgstr ""
 
 #: ../../C18.rst:1278
@@ -3634,9 +3631,9 @@ msgstr ""
 
 #: ../../C18.rst:1319
 msgid ""
-"|mana_x|: Destroy each nonland permanent with converted mana cost X whose "
-"controller was dealt combat damage by Steel Hellkite this turn. Activate "
-"this ability only once each turn."
+"|mana_x|: Destroy each nonland permanent with mana value X whose controller "
+"was dealt combat damage by Steel Hellkite this turn. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../C18.rst:1326
@@ -3818,7 +3815,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../C18.rst:1404
@@ -3945,7 +3942,7 @@ msgstr ""
 #: ../../C18.rst:1453
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1462
@@ -4147,8 +4144,8 @@ msgstr ""
 #: ../../C18.rst:1539
 msgid ""
 "|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic "
-"Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C18.rst:1548
@@ -4239,8 +4236,7 @@ msgstr ""
 #: ../../C18.rst:1579
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
-"card and a Plains card, put them onto the battlefield tapped, then shuffle "
-"your library."
+"card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1588
@@ -4320,7 +4316,7 @@ msgstr ""
 #: ../../C18.rst:1615
 msgid ""
 "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
-"Forest card, put it onto the battlefield, then shuffle your library."
+"Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1624
@@ -4338,7 +4334,7 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1632
@@ -4429,7 +4425,7 @@ msgstr ""
 #: ../../C18.rst:1659
 msgid ""
 "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
-"card, put it onto the battlefield, then shuffle your library."
+"card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1666
@@ -4591,8 +4587,8 @@ msgstr ""
 
 #: ../../C18.rst:1735
 msgid ""
-"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-"control five or more lands."
+"|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
+"more lands."
 msgstr ""
 
 #: ../../C18.rst:1740
@@ -4605,7 +4601,7 @@ msgstr ""
 #: ../../C18.rst:1739
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1748
@@ -4678,7 +4674,7 @@ msgstr ""
 #: ../../C18.rst:1775
 msgid ""
 "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic "
-"land card, put it onto the battlefield tapped, then shuffle your library."
+"land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C18.rst:1782

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -484,9 +484,8 @@ msgstr ""
 
 #: ../../MMQ.rst:169
 msgid ""
-"|mana_5|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 4 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_5|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 4 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:174
@@ -498,9 +497,8 @@ msgstr ""
 
 #: ../../MMQ.rst:173
 msgid ""
-"|mana_6|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 5 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_6|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 5 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:178
@@ -512,9 +510,8 @@ msgstr ""
 
 #: ../../MMQ.rst:177
 msgid ""
-"|mana_4|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_4|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:184
@@ -537,9 +534,8 @@ msgstr ""
 
 #: ../../MMQ.rst:187
 msgid ""
-"|mana_3|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 2 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_3|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 2 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:194
@@ -551,9 +547,8 @@ msgstr ""
 
 #: ../../MMQ.rst:193
 msgid ""
-"|mana_7|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 6 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_7|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 6 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:200
@@ -650,7 +645,7 @@ msgstr ""
 #: ../../MMQ.rst:225
 msgid ""
 "|mana_w|\\ |mana_w|: Create a 1/1 white Soldier creature token. Activate "
-"this ability only if you control no creatures and only once each turn."
+"only if you control no creatures and only once each turn."
 msgstr ""
 
 #: ../../MMQ.rst:230
@@ -749,9 +744,9 @@ msgstr ""
 
 #: ../../MMQ.rst:259
 msgid ""
-"|tap|: Target unblocked attacking creature becomes blocked. Activate this "
-"ability only during combat after blockers are declared. (This ability works "
-"on creatures that can't be blocked.)"
+"|tap|: Target unblocked attacking creature becomes blocked. Activate only "
+"during combat after blockers are declared. (This ability works on creatures "
+"that can't be blocked.)"
 msgstr ""
 
 #: ../../MMQ.rst:264
@@ -838,7 +833,7 @@ msgstr ""
 #: ../../MMQ.rst:289
 msgid ""
 "Search target opponent's library for a creature card and put that card onto "
-"the battlefield under your control. Then that player shuffles their library."
+"the battlefield under your control. Then that player shuffles."
 msgstr ""
 
 #: ../../MMQ.rst:298
@@ -1026,8 +1021,8 @@ msgstr ""
 
 #: ../../MMQ.rst:363
 msgid ""
-"|mana_u|: Drake Hatchling gets +1/+0 until end of turn. Activate this "
-"ability only once each turn."
+"|mana_u|: Drake Hatchling gets +1/+0 until end of turn. Activate only once "
+"each turn."
 msgstr ""
 
 #: ../../MMQ.rst:370
@@ -1160,8 +1155,8 @@ msgstr ""
 #: ../../MMQ.rst:413
 msgid ""
 "Target noncreature artifact becomes an artifact creature with power and "
-"toughness each equal to its converted mana cost until end of turn. (It "
-"retains its abilities.)"
+"toughness each equal to its mana value until end of turn. (It retains its "
+"abilities.)"
 msgstr ""
 
 #: ../../MMQ.rst:420
@@ -1623,8 +1618,7 @@ msgstr ""
 #: ../../MMQ.rst:579
 msgid ""
 "|mana_2|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 2 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 2 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:586
@@ -1643,8 +1637,7 @@ msgstr ""
 #: ../../MMQ.rst:585
 msgid ""
 "|mana_4|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 4 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 4 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:590
@@ -1657,8 +1650,7 @@ msgstr ""
 #: ../../MMQ.rst:589
 msgid ""
 "|mana_3|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:596
@@ -1675,8 +1667,7 @@ msgstr ""
 #: ../../MMQ.rst:595
 msgid ""
 "|mana_6|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 6 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 6 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:600
@@ -1689,8 +1680,7 @@ msgstr ""
 #: ../../MMQ.rst:599
 msgid ""
 "|mana_1|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 1 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 1 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:606
@@ -1703,8 +1693,7 @@ msgstr ""
 #: ../../MMQ.rst:605
 msgid ""
 "|mana_5|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 5 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 5 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:610
@@ -1716,8 +1705,8 @@ msgstr ""
 
 #: ../../MMQ.rst:609
 msgid ""
-"Search your library for a Mercenary card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for a Mercenary card, reveal that card, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:616
@@ -1853,7 +1842,7 @@ msgid ""
 msgstr ""
 
 #: ../../MMQ.rst:657
-msgid "Destroy all creatures with converted mana cost X or less."
+msgid "Destroy all creatures with mana value X or less."
 msgstr ""
 
 #: ../../MMQ.rst:662
@@ -2129,7 +2118,7 @@ msgstr ""
 #: ../../MMQ.rst:757
 msgid ""
 "|mana_2|: Target player discards a card. Any player may activate this "
-"ability but only any time they could cast a sorcery."
+"ability but only as a sorcery."
 msgstr ""
 
 #: ../../MMQ.rst:762
@@ -2301,8 +2290,8 @@ msgstr ""
 
 #: ../../MMQ.rst:819
 msgid ""
-"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate only as "
+"a sorcery."
 msgstr ""
 
 #: ../../MMQ.rst:824
@@ -2621,8 +2610,8 @@ msgstr ""
 
 #: ../../MMQ.rst:933
 msgid ""
-"|mana_x|\\ |mana_r|, |tap|, Discard a card: Destroy all artifacts with "
-"converted mana cost X or less."
+"|mana_x|\\ |mana_r|, |tap|, Discard a card: Destroy all artifacts with mana "
+"value X or less."
 msgstr ""
 
 #: ../../MMQ.rst:938
@@ -2636,7 +2625,7 @@ msgstr ""
 msgid ""
 "When Hired Giant enters the battlefield, each other player may search their "
 "library for a land card and put that card onto the battlefield. Then each "
-"player who searched their library this way shuffles it."
+"player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../MMQ.rst:942
@@ -2870,7 +2859,7 @@ msgstr ""
 #: ../../MMQ.rst:1028
 msgid ""
 ":mtgtip:`Squee, Goblin Nabob<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/b/4ba8325a-1203-4125-9111-94d9e2b1f14b.jpg?1562380855|"
+"border_crop/front/4/b/4ba8325a-1203-4125-9111-94d9e2b1f14b.jpg?1618252846|"
 "https://scryfall.com/card/mmq/214/squee-goblin-nabob?utm_source=api>`"
 msgstr ""
 
@@ -3052,7 +3041,7 @@ msgstr ""
 #: ../../MMQ.rst:1093
 msgid ""
 "Destroy target Wall. It can't be regenerated. Word of Blasting deals damage "
-"equal to that Wall's converted mana cost to the Wall's controller."
+"equal to that Wall's mana value to the Wall's controller."
 msgstr ""
 
 #: ../../MMQ.rst:1100
@@ -3077,8 +3066,7 @@ msgstr ""
 #: ../../MMQ.rst:1103
 msgid ""
 "Search your library for a permanent card with the same name as target "
-"nontoken creature and put that card onto the battlefield. Then shuffle your "
-"library."
+"nontoken creature, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:1108
@@ -3277,8 +3265,8 @@ msgstr ""
 #: ../../MMQ.rst:1173
 msgid ""
 "Exile a creature you control: Add X mana of any one color, where X is 1 plus "
-"the exiled creature's converted mana cost. Spend this mana only to cast "
-"creature spells."
+"the exiled creature's mana value. Spend this mana only to cast creature "
+"spells."
 msgstr ""
 
 #: ../../MMQ.rst:1178
@@ -3356,8 +3344,8 @@ msgstr ""
 #: ../../MMQ.rst:1197
 msgid ""
 "When Howling Wolf enters the battlefield, you may search your library for up "
-"to three cards named Howling Wolf, reveal them, and put them into your hand. "
-"If you do, shuffle your library."
+"to three cards named Howling Wolf, reveal them, put them into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:1202
@@ -3405,8 +3393,8 @@ msgstr ""
 
 #: ../../MMQ.rst:1213
 msgid ""
-"Search your library for a Forest card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for a Forest card, reveal that card, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:1218
@@ -3576,8 +3564,7 @@ msgstr ""
 #: ../../MMQ.rst:1275
 msgid ""
 "When Silverglade Elemental enters the battlefield, you may search your "
-"library for a Forest card and put that card onto the battlefield. If you do, "
-"shuffle your library."
+"library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:1280
@@ -3590,8 +3577,7 @@ msgstr ""
 #: ../../MMQ.rst:1279
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|, Discard a card: Search your library for a basic "
-"land card and put that card onto the battlefield tapped. Then shuffle your "
-"library."
+"land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:1284
@@ -3788,8 +3774,8 @@ msgstr ""
 #: ../../MMQ.rst:1359
 msgid ""
 "|mana_4|, |tap|: Reveal a creature card in your hand. Search your library "
-"for a card with the same name as that card, reveal it, and put it into your "
-"hand. Then shuffle your library."
+"for a card with the same name as that card, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../MMQ.rst:1366
@@ -4072,7 +4058,7 @@ msgstr ""
 #: ../../MMQ.rst:1459
 msgid ""
 "|tap|, Remove X winch counters from Mercadian Lift: You may put a creature "
-"card with converted mana cost X from your hand onto the battlefield."
+"card with mana value X from your hand onto the battlefield."
 msgstr ""
 
 #: ../../MMQ.rst:1464
@@ -4085,8 +4071,7 @@ msgstr ""
 #: ../../MMQ.rst:1463
 msgid ""
 "When a creature enters the battlefield, sacrifice Monkey Cage and create X "
-"2/2 green Monkey creature tokens, where X is that creature's converted mana "
-"cost."
+"2/2 green Monkey creature tokens, where X is that creature's mana value."
 msgstr ""
 
 #: ../../MMQ.rst:1468
@@ -4181,8 +4166,8 @@ msgstr ""
 #: ../../MMQ.rst:1495
 msgid ""
 "|mana_1|, |tap|, Discard a card: Target noncreature artifact becomes an "
-"artifact creature with power and toughness each equal to its converted mana "
-"cost until end of turn. (It retains its abilities.)"
+"artifact creature with power and toughness each equal to its mana value "
+"until end of turn. (It retains its abilities.)"
 msgstr ""
 
 #: ../../MMQ.rst:1500

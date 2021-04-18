@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
@@ -138,10 +138,15 @@ msgid ""
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+2. Odkręć je."
 
 #: ../../CON.rst:49
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 "Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
@@ -250,10 +255,14 @@ msgid ""
 msgstr ""
 
 #: ../../CON.rst:85
+#, fuzzy
+#| msgid ""
+#| "Exile target creature. Its controller may search their library for a "
+#| "basic land card, put that card onto the battlefield tapped, then shuffle "
+#| "their library."
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
-"land card, put that card onto the battlefield tapped, then shuffle their "
-"library."
+"land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
@@ -560,10 +569,15 @@ msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
 #: ../../CON.rst:195
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 "Recykling bazowolądowy |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
@@ -619,11 +633,19 @@ msgid "Target player loses 4 life and you gain 4 life."
 msgstr "Wskazany gracz traci 4 życia, a ty zyskaj 4 życia."
 
 #: ../../CON.rst:213
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
+"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
+"w twojej ręce, po czym przetasuj.)"
 
 #: ../../CON.rst:220
 msgid ""
@@ -705,8 +727,8 @@ msgstr ""
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Fleshformer gets +2/+2 "
 "and gains fear until end of turn. Target creature gets -2/-2 until end of "
-"turn. Activate this ability only during your turn. (A creature with fear "
-"can't be blocked except by artifact creatures and/or black creatures.)"
+"turn. Activate only during your turn. (A creature with fear can't be blocked "
+"except by artifact creatures and/or black creatures.)"
 msgstr ""
 
 #: ../../CON.rst:246
@@ -836,10 +858,12 @@ msgid ""
 msgstr ""
 
 #: ../../CON.rst:281
+#, fuzzy
+#| msgid "|mana_1|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgid ""
-"|mana_1|\\ |mana_b|, |tap|: Target player discards a card. Activate this "
-"ability only during your turn."
-msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Target player discards a card. Activate only "
+"during your turn."
+msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CON.rst:286
 msgid ""
@@ -974,10 +998,15 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../CON.rst:331
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 "Recykling bazowolądowy |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
@@ -1137,7 +1166,7 @@ msgstr "Podwójny cios"
 #: ../../CON.rst:385
 msgid ""
 "|mana_b|\\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../CON.rst:392
@@ -1384,8 +1413,7 @@ msgstr ""
 #: ../../CON.rst:473
 msgid ""
 "Search your library for a Plains card, an Island card, a Swamp card, and a "
-"Mountain card. Reveal those cards and put them into your hand. Then shuffle "
-"your library."
+"Mountain card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:478
@@ -1424,11 +1452,19 @@ msgid "Target player gains 8 life."
 msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../CON.rst:487
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
+"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
+"w twojej ręce, po czym przetasuj.)"
 
 #: ../../CON.rst:500
 msgid ""
@@ -1560,8 +1596,7 @@ msgstr ""
 #: ../../CON.rst:537
 msgid ""
 "Search your library for a white card, a blue card, a black card, a red card, "
-"and a green card. Reveal those cards and put them into your hand. Then "
-"shuffle your library."
+"and a green card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:542
@@ -1609,9 +1644,9 @@ msgstr ""
 #: ../../CON.rst:557
 msgid ""
 "Domain — Search your library for a basic land card, put that card onto the "
-"battlefield tapped, then shuffle your library. Exploding Borders deals X "
-"damage to target player or planeswalker, where X is the number of basic land "
-"types among lands you control."
+"battlefield tapped, then shuffle. Exploding Borders deals X damage to target "
+"player or planeswalker, where X is the number of basic land types among "
+"lands you control."
 msgstr ""
 
 #: ../../CON.rst:560
@@ -1702,9 +1737,13 @@ msgid ""
 msgstr "Ten stwór dostaje +1/+1 za każdą kartę lądu w twoim cmentarzu."
 
 #: ../../CON.rst:595
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, "
+#| "put it onto the battlefield, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, "
-"put it onto the battlefield, then shuffle your library."
+"put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
 "umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -1910,10 +1949,14 @@ msgid ""
 msgstr ""
 
 #: ../../CON.rst:673
+#, fuzzy
+#| msgid ""
+#| "When Sphinx Summoner enters the battlefield, you may search your library "
+#| "for an artifact creature card, reveal it, and put it into your hand. If "
+#| "you do, shuffle your library."
 msgid ""
 "When Sphinx Summoner enters the battlefield, you may search your library for "
-"an artifact creature card, reveal it, and put it into your hand. If you do, "
-"shuffle your library."
+"an artifact creature card, reveal it, put it into your hand. then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu lub stwora, ujawnij ją i umieść w twojej ręce. Jeśli tak "
@@ -1997,10 +2040,14 @@ msgid ""
 msgstr ""
 
 #: ../../CON.rst:701
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up "
+#| "to two basic land cards, reveal them, put them into your hand, then "
+#| "shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
-"two basic land cards, reveal them, put them into your hand, then shuffle "
-"your library."
+"two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "

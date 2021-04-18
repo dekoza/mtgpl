@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-16 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
@@ -161,10 +161,14 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:49
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a "
+#| "1/1 white Spirit creature token with flying. Activate this ability only "
+#| "any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a "
-"1/1 white Spirit creature token with flying. Activate this ability only any "
-"time you could cast a sorcery."
+"1/1 white Spirit creature token with flying. Activate only as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
 "białego stwora Duch 1/1 z lataniem. Aktywuj jako obrzęd."
@@ -265,12 +269,8 @@ msgstr ""
 "wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../A25.rst:81
-msgid ""
-"Scry 1. (Look at the top card of your library. You may put that card on the "
-"bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
 
 #: ../../A25.rst:88
 msgid ""
@@ -319,7 +319,7 @@ msgstr ""
 #: ../../A25.rst:97
 msgid ""
 "|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../A25.rst:102
@@ -379,8 +379,7 @@ msgstr ""
 #: ../../A25.rst:117
 msgid ""
 "|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying. "
-"Activate this ability only if Luminarch Ascension has four or more quest "
-"counters on it."
+"Activate only if Luminarch Ascension has four or more quest counters on it."
 msgstr ""
 
 #: ../../A25.rst:124
@@ -416,9 +415,14 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../A25.rst:129
+#, fuzzy
+#| msgid ""
+#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+"a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
@@ -550,10 +554,15 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:179
+#, fuzzy
+#| msgid ""
+#| "When Squadron Hawk enters the battlefield, you may search your library "
+#| "for up to three cards named Squadron Hawk, reveal them, put them into "
+#| "your hand, then shuffle your library."
 msgid ""
 "When Squadron Hawk enters the battlefield, you may search your library for "
 "up to three cards named Squadron Hawk, reveal them, put them into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "co najwyżej trzy karty o nazwie Squadron Hawk, ujawnij je, umieść w twojej "
@@ -623,9 +632,9 @@ msgid ""
 "https://scryfall.com/card/a25/39/whitemane-lion?utm_source=api>`"
 msgstr ""
 
-#: ../../A25.rst:201
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
+#: ../../A25.rst:201 ../../A25.rst:403 ../../A25.rst:1083 ../../A25.rst:1105
+msgid "Flash"
+msgstr "Błysk"
 
 #: ../../A25.rst:203
 msgid ""
@@ -943,8 +952,8 @@ msgid ""
 "sacrifice it unless you pay its mana cost reduced by up to |mana_2|."
 msgstr ""
 "Możesz umieścić kartę stwora z twojej ręki na polu bitwy. Jeśli tak zrobisz, "
-"poświęć go, chyba że zapłacisz jego koszt many zmniejszony co najwyżej o "
-"|mana_2|."
+"poświęć go, chyba że zapłacisz jego koszt many zmniejszony co najwyżej o |"
+"mana_2|."
 
 #: ../../A25.rst:310
 msgid ""
@@ -1185,9 +1194,14 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:385
+#, fuzzy
+#| msgid ""
+#| "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for an Island card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"an Island card, reveal it, put it into your hand, then shuffle your library.)"
+"an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -1234,10 +1248,6 @@ msgid ""
 "https://scryfall.com/card/a25/76/vendilion-clique?utm_source=api>`"
 msgstr ""
 
-#: ../../A25.rst:403 ../../A25.rst:1083 ../../A25.rst:1105
-msgid "Flash"
-msgstr "Błysk"
-
 #: ../../A25.rst:407
 msgid ""
 "When Vendilion Clique enters the battlefield, look at target player's hand. "
@@ -1268,13 +1278,9 @@ msgstr ""
 "zostanie zakryty, staje się kopią owego stwora, ale ma \"Na początku twojego "
 "kroku utrzymania możesz zakryć tego stwora.\""
 
-#: ../../A25.rst:413 ../../A25.rst:417
-msgid ""
-"Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+#: ../../A25.rst:413
+msgid "Morph |mana_1|\\ |mana_u|"
 msgstr ""
-"Przemiana |mana_1|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
-"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:420
 msgid ""
@@ -1282,6 +1288,14 @@ msgid ""
 "front/e/6/e6fac295-3563-4989-86b6-1672a4e97afd.jpg?1562442554|https://"
 "scryfall.com/card/a25/78/willbender?utm_source=api>`"
 msgstr ""
+
+#: ../../A25.rst:417
+msgid ""
+"Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgstr ""
+"Przemiana |mana_1|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:419
 msgid ""
@@ -1333,7 +1347,7 @@ msgstr "Zauroczony ląd ma \"|tap|: Wskazany gracz traci 3 życia.\""
 #: ../../A25.rst:440
 msgid ""
 ":mtgtip:`Dark Ritual<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1562438559|https://"
+"front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1618695764|https://"
 "scryfall.com/card/a25/82/dark-ritual?utm_source=api>`"
 msgstr ""
 
@@ -1481,9 +1495,14 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:489
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice a creature: Return target creature card from your "
+#| "graveyard to the battlefield. Activate this ability only during your "
+#| "upkeep."
 msgid ""
 "|tap|, Sacrifice a creature: Return target creature card from your graveyard "
-"to the battlefield. Activate this ability only during your upkeep."
+"to the battlefield. Activate only during your upkeep."
 msgstr ""
 "|tap|, poświęć stwora: Przywróć wskazaną kartę stwora z twojego cmentarza na "
 "pole bitwy. Możesz aktywować tylko w twoim kroku utrzymania."
@@ -1656,10 +1675,16 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:547
+#, fuzzy
+#| msgid ""
+#| "Search your library for a green creature card, reveal it, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "At the beginning of your upkeep, you may search your library for a Rat card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../A25.rst:552
 msgid ""
@@ -1812,9 +1837,14 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../A25.rst:595
+#, fuzzy
+#| msgid ""
+#| "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Swamp card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+"a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -1828,10 +1858,17 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:599
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice a creature: Return target creature card from your "
+#| "graveyard to the battlefield. Activate this ability only during your "
+#| "upkeep."
 msgid ""
 "|mana_1|\\ |mana_b|, Discard a card: Return Undead Gladiator from your "
-"graveyard to your hand. Activate this ability only during your upkeep."
+"graveyard to your hand. Activate only during your upkeep."
 msgstr ""
+"|tap|, poświęć stwora: Przywróć wskazaną kartę stwora z twojego cmentarza na "
+"pole bitwy. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../A25.rst:608
 msgid ""
@@ -1841,9 +1878,13 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:605
+#, fuzzy
+#| msgid ""
+#| "Return target creature card with converted mana cost 3 or less from your "
+#| "graveyard to the battlefield."
 msgid ""
-"Return target creature card with converted mana cost 3 or less from your "
-"graveyard to the battlefield."
+"Return target creature card with mana value 3 or less from your graveyard to "
+"the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skrócie many 3 lub mniejszym z twojego "
 "cmentarza na pole bitwy."
@@ -2051,11 +2092,18 @@ msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../A25.rst:669
+#, fuzzy
+#| msgid ""
+#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library "
-"for a Mountain card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
+"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../A25.rst:674
 msgid ""
@@ -2092,9 +2140,13 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:681
+#, fuzzy
+#| msgid ""
+#| "Whenever a player casts a spell with converted mana cost 3 or less, "
+#| "Eidolon of the Great Revel deals 2 damage to that player."
 msgid ""
-"Whenever a player casts a spell with converted mana cost 3 or less, Eidolon "
-"of the Great Revel deals 2 damage to that player."
+"Whenever a player casts a spell with mana value 3 or less, Eidolon of the "
+"Great Revel deals 2 damage to that player."
 msgstr ""
 "Ilekroć gracz rzuci czar o skrócie many 3 lub niższym, ten stwór zadaje "
 "owemu graczowi 2 obrażenia."
@@ -2207,9 +2259,13 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:715
+#, fuzzy
+#| msgid ""
+#| "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
+#| "Activate this ability only during your turn."
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-"Activate this ability only during your turn."
+"Activate only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
 "stworem. Możesz aktywować tę zdolność tylko w twojej turze."
@@ -2222,10 +2278,15 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:719
+#, fuzzy
+#| msgid ""
+#| "When Imperial Recruiter enters the battlefield, search your library for a "
+#| "creature card with power 2 or less, reveal it, put it into your hand, "
+#| "then shuffle your library."
 msgid ""
 "When Imperial Recruiter enters the battlefield, search your library for a "
 "creature card with power 2 or less, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, po czym "
@@ -2572,11 +2633,16 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:829
+#, fuzzy
+#| msgid ""
+#| "Look at the top five cards of your library. You may reveal a colorless "
+#| "card from among them and put it into your hand. Then put the rest on the "
+#| "bottom of your library in any order. (Cards with no colored mana in their "
+#| "mana costs are colorless. Lands are also colorless.)"
 msgid ""
 "Look at the top five cards of your library. You may reveal a colorless card "
 "from among them and put it into your hand. Then put the rest on the bottom "
-"of your library in any order. (Cards with no colored mana in their mana "
-"costs are colorless. Lands are also colorless.)"
+"of your library in any order."
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz spośród nich "
 "ujawnić bezkolorową kartę i umieścić ją w twojej ręce. Następnie umieść "
@@ -2659,10 +2725,14 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:859
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Then shuffle your library."
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
 "jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
@@ -2693,9 +2763,14 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../A25.rst:869
+#, fuzzy
+#| msgid ""
+#| "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Forest card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+"a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -2757,10 +2832,15 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:887
+#, fuzzy
+#| msgid ""
+#| "When Fierce Empath enters the battlefield, you may search your library "
+#| "for a creature card with converted mana cost 6 or greater, reveal it, put "
+#| "it into your hand, then shuffle your library."
 msgid ""
 "When Fierce Empath enters the battlefield, you may search your library for a "
-"creature card with converted mana cost 6 or greater, reveal it, put it into "
-"your hand, then shuffle your library."
+"creature card with mana value 6 or greater, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
@@ -2863,10 +2943,15 @@ msgstr ""
 "kartę.)"
 
 #: ../../A25.rst:923
+#, fuzzy
+#| msgid ""
+#| "When you cycle Krosan Tusker, you may search your library for a basic "
+#| "land card, reveal that card, put it into your hand, then shuffle your "
+#| "library. (Do this before you draw.)"
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
-"card, reveal that card, put it into your hand, then shuffle your library. "
-"(Do this before you draw.)"
+"card, reveal that card, put it into your hand, then shuffle. (Do this before "
+"you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
 "bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
@@ -2971,10 +3056,14 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:959
+#, fuzzy
+#| msgid ""
+#| "When Protean Hulk dies, search your library for any number of creature "
+#| "cards with total converted mana cost 6 or less and put them onto the "
+#| "battlefield. Then shuffle your library."
 msgid ""
 "When Protean Hulk dies, search your library for any number of creature cards "
-"with total converted mana cost 6 or less and put them onto the battlefield. "
-"Then shuffle your library."
+"with total mana value 6 or less, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, wyszukaj w twojej bibliotece dowolną liczbę kart "
 "stworów o łącznym skrócie many 6 lub mniej i umieść je na polu bitwy. "
@@ -3031,9 +3120,13 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:979
+#, fuzzy
+#| msgid ""
+#| "Search your library for a green creature card, reveal it, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
 "twojej ręce, po czym przetasuj twoją bibliotekę."
@@ -3247,11 +3340,16 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:1053
+#, fuzzy
+#| msgid ""
+#| "Search your library for a creature card, reveal that card, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a white card, a blue card, a black card, a red card, "
-"and a green card. Reveal those cards and put them into your hand. Then "
-"shuffle your library."
+"and a green card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
+"po czym przetasuj twoją bibliotekę."
 
 #: ../../A25.rst:1058
 msgid ""
@@ -3261,9 +3359,13 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:1057
+#, fuzzy
+#| msgid ""
+#| "Search your library for a creature card, reveal that card, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a creature card, reveal that card, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
 "po czym przetasuj twoją bibliotekę."
@@ -3420,7 +3522,7 @@ msgstr ""
 #: ../../A25.rst:1111
 msgid ""
 "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and "
-"enchantment with converted mana cost X or less."
+"enchantment with mana value X or less."
 msgstr ""
 
 #: ../../A25.rst:1120
@@ -3562,9 +3664,13 @@ msgid ""
 msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../A25.rst:1169
+#, fuzzy
+#| msgid ""
+#| "Whenever a player casts a spell with converted mana cost equal to the "
+#| "number of charge counters on Chalice of the Void, counter that spell."
 msgid ""
-"Whenever a player casts a spell with converted mana cost equal to the number "
-"of charge counters on Chalice of the Void, counter that spell."
+"Whenever a player casts a spell with mana value equal to the number of "
+"charge counters on Chalice of the Void, counter that spell."
 msgstr ""
 "Ilekroć grać rzuci czar o skrócie many równym liczbie znaczników ładunku na "
 "tym artefakcie, skontruj ów czar."
@@ -3721,10 +3827,15 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:1221
+#, fuzzy
+#| msgid ""
+#| "When Self-Assembler enters the battlefield, you may search your library "
+#| "for an Assembly-Worker creature card, reveal it, put it into your hand, "
+#| "then shuffle your library."
 msgid ""
 "When Self-Assembler enters the battlefield, you may search your library for "
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora typu Składacz, ujawnij ją, umieść ją w twojej ręce, po czym "
@@ -3785,11 +3896,17 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:1239
+#, fuzzy
+#| msgid ""
+#| "When Treasure Keeper dies, reveal cards from the top of your library "
+#| "until you reveal a nonland card with converted mana cost 3 or less. You "
+#| "may cast that card without paying its mana cost. Put all revealed cards "
+#| "not cast this way on the bottom of your library in a random order."
 msgid ""
 "When Treasure Keeper dies, reveal cards from the top of your library until "
-"you reveal a nonland card with converted mana cost 3 or less. You may cast "
-"that card without paying its mana cost. Put all revealed cards not cast this "
-"way on the bottom of your library in a random order."
+"you reveal a nonland card with mana value 3 or less. You may cast that card "
+"without paying its mana cost. Put all revealed cards not cast this way on "
+"the bottom of your library in a random order."
 msgstr ""
 "Kiedy ten stwór umrze, ujawnij karty z wierzchu twojej biblioteki aż "
 "ujawnisz nie-lądową kartę o skrócie many 3 lub mniejszym. Możesz rzucić ową "
@@ -3811,10 +3928,14 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../A25.rst:1245
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your "
+#| "library for a basic land card, reveal it, put it into your hand, then "
+#| "shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
-"for a basic land card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
@@ -3919,10 +4040,15 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../A25.rst:1291
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
+#| "to two basic land cards that share a land type, put them onto the "
+#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
@@ -4013,6 +4139,16 @@ msgid ""
 msgstr ""
 "Przemiana |mana_2| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora "
 "2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+
+#~ msgid ""
+#~ "Scry 1. (Look at the top card of your library. You may put that card on "
+#~ "the bottom of your library.)"
+#~ msgstr ""
+#~ "Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją "
+#~ "na spodzie twojej biblioteki.)"
+
+#~ msgid "Flash (You may cast this spell any time you could cast an instant.)"
+#~ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #~ msgid ""
 #~ "Double strike (This creature deals both first-strike and regular combat "

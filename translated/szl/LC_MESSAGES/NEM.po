@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -122,9 +122,8 @@ msgstr ""
 
 #: ../../NEM.rst:39
 msgid ""
-"|mana_4|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_4|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:46
@@ -142,9 +141,8 @@ msgstr ""
 
 #: ../../NEM.rst:45
 msgid ""
-"|mana_5|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 4 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_5|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 4 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:50
@@ -204,9 +202,8 @@ msgstr ""
 
 #: ../../NEM.rst:69
 msgid ""
-"|mana_x|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost X or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_x|, |tap|: Search your library for a Rebel permanent card with mana "
+"value X or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:71
@@ -472,7 +469,7 @@ msgid ""
 msgstr ""
 
 #: ../../NEM.rst:165
-msgid "Gain control of target creature with converted mana cost X or less."
+msgid "Gain control of target creature with mana value X or less."
 msgstr ""
 
 #: ../../NEM.rst:172
@@ -600,7 +597,7 @@ msgstr ""
 msgid ""
 "Whenever Rootwater Thief deals combat damage to a player, you may pay |"
 "mana_2|. If you do, search that player's library for a card and exile it, "
-"then the player shuffles their library."
+"then the player shuffles."
 msgstr ""
 
 #: ../../NEM.rst:218
@@ -612,8 +609,8 @@ msgstr ""
 
 #: ../../NEM.rst:217
 msgid ""
-"|mana_3|, |tap|: Search your library for a Merfolk permanent card and put it "
-"onto the battlefield. Then shuffle your library."
+"|mana_3|, |tap|: Search your library for a Merfolk permanent card, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:222
@@ -859,8 +856,8 @@ msgstr ""
 #: ../../NEM.rst:313
 msgid ""
 "|mana_b|, Sacrifice a creature: Target opponent reveals their hand. You "
-"choose a card from it. That player discards that card. Activate this ability "
-"only any time you could cast a sorcery."
+"choose a card from it. That player discards that card. Activate only as a "
+"sorcery."
 msgstr ""
 
 #: ../../NEM.rst:320
@@ -921,8 +918,7 @@ msgstr ""
 #: ../../NEM.rst:339
 msgid ""
 "Remove a fade counter from Parallax Nexus: Target opponent exiles a card "
-"from their hand. Activate this ability only any time you could cast a "
-"sorcery."
+"from their hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../NEM.rst:341
@@ -986,8 +982,7 @@ msgstr ""
 #: ../../NEM.rst:361 ../../NEM.rst:367
 msgid ""
 "|mana_3|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:368
@@ -1017,8 +1012,7 @@ msgstr ""
 #: ../../NEM.rst:373
 msgid ""
 "|mana_2|, |tap|: Search your library for a Mercenary permanent card with "
-"converted mana cost 2 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"mana value 2 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:378
@@ -1090,7 +1084,7 @@ msgstr ""
 #: ../../NEM.rst:397
 msgid ""
 "|mana_1|\\ |mana_b|, Discard a creature card: Volrath the Fallen gets +X/+X "
-"until end of turn, where X is the discarded card's converted mana cost."
+"until end of turn, where X is the discarded card's mana value."
 msgstr ""
 
 #: ../../NEM.rst:404
@@ -1380,8 +1374,8 @@ msgstr ""
 
 #: ../../NEM.rst:497
 msgid ""
-"|mana_3|, |tap|: Search your library for a Goblin permanent card and put it "
-"onto the battlefield. Then shuffle your library."
+"|mana_3|, |tap|: Search your library for a Goblin permanent card, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:502
@@ -1434,7 +1428,7 @@ msgstr ""
 msgid ""
 "Each player chooses a card in their hand. Then each player reveals their "
 "chosen card. The owner of each creature card revealed this way with the "
-"lowest converted mana cost puts it onto the battlefield."
+"lowest mana value puts it onto the battlefield."
 msgstr ""
 
 #: ../../NEM.rst:520
@@ -1531,8 +1525,8 @@ msgstr ""
 #: ../../NEM.rst:549
 msgid ""
 "When Nesting Wurm enters the battlefield, you may search your library for up "
-"to three cards named Nesting Wurm, reveal them, and put them into your hand. "
-"If you do, shuffle your library."
+"to three cards named Nesting Wurm, reveal them, put them into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:556
@@ -1561,8 +1555,7 @@ msgstr ""
 #: ../../NEM.rst:559
 msgid ""
 "Search your library for up to three cards with the same name as target "
-"creature, reveal them, and put them into your hand. Then shuffle your "
-"library."
+"creature, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:566
@@ -1698,7 +1691,7 @@ msgstr ""
 #: ../../NEM.rst:603
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:608
@@ -1723,8 +1716,8 @@ msgstr ""
 
 #: ../../NEM.rst:611
 msgid ""
-"|mana_3|, |tap|: Search your library for an Elf permanent card and put it "
-"onto the battlefield. Then shuffle your library."
+"|mana_3|, |tap|: Search your library for an Elf permanent card, put it onto "
+"the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:616
@@ -1744,8 +1737,8 @@ msgstr ""
 #: ../../NEM.rst:619
 msgid ""
 "When Skyshroud Sentinel enters the battlefield, you may search your library "
-"for up to three cards named Skyshroud Sentinel, reveal them, and put them "
-"into your hand. If you do, shuffle your library."
+"for up to three cards named Skyshroud Sentinel, reveal them, put them into "
+"your hand, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:624

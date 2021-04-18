@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 08:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/exo/pl/>\n"
@@ -186,7 +186,7 @@ msgid ""
 "At the beginning of each player's upkeep, that player chooses target player "
 "who controls more lands than they do and is their opponent. The first player "
 "may search their library for a basic land card, put that card onto the "
-"battlefield, then shuffle their library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:60
@@ -391,7 +391,7 @@ msgstr ""
 #: ../../EXO.rst:127
 msgid ""
 "When Welkin Hawk dies, you may search your library for a card named Welkin "
-"Hawk, reveal that card, put it into your hand, then shuffle your library."
+"Hawk, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:132
@@ -772,8 +772,8 @@ msgstr ""
 
 #: ../../EXO.rst:265
 msgid ""
-"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate only as "
+"a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:272
@@ -1010,10 +1010,12 @@ msgid ""
 msgstr ""
 
 #: ../../EXO.rst:359
+#, fuzzy
+#| msgid "|mana_2|\\ |mana_u|\\ |mana_u|: Draw a card."
 msgid ""
-"|mana_x|\\ |mana_x|\\ |mana_b|: Destroy target nonblack creature with "
-"converted mana cost X."
-msgstr ""
+"|mana_x|\\ |mana_x|\\ |mana_b|: Destroy target nonblack creature with mana "
+"value X."
+msgstr "|mana_2|\\ |mana_u|\\ |mana_u|: Dobierz kartę."
 
 #: ../../EXO.rst:364
 msgid ""
@@ -1025,8 +1027,8 @@ msgstr ""
 #: ../../EXO.rst:363
 msgid ""
 "Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return "
-"target creature card from your graveyard to the battlefield. Activate this "
-"ability only any time you could cast a sorcery."
+"target creature card from your graveyard to the battlefield. Activate only "
+"as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:368
@@ -1083,10 +1085,15 @@ msgid ""
 msgstr ""
 
 #: ../../EXO.rst:383
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's "
+#| "hand and choose a card from it. That player discards that card. Activate "
+#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand "
-"and choose a card from it. That player discards that card. Activate this "
-"ability only any time you could cast a sorcery."
+"and choose a card from it. That player discards that card. Activate only as "
+"a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|, poświęć tego stwora: Spójrz na rękę wskazanego gracza i "
 "wybierz z niej kartę. Ów gracz odrzuca ową kartę. Aktywuj jako obrzęd."
@@ -1118,7 +1125,7 @@ msgstr ""
 #: ../../EXO.rst:393
 msgid ""
 "Discard a card: Target player puts a card from their hand on top of their "
-"library. Activate this ability only any time you could cast a sorcery."
+"library. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:398
@@ -1145,8 +1152,8 @@ msgstr ""
 
 #: ../../EXO.rst:401
 msgid ""
-"|mana_r|: Cinder Crawler gets +1/+0 until end of turn. Activate this ability "
-"only if Cinder Crawler is blocked."
+"|mana_r|: Cinder Crawler gets +1/+0 until end of turn. Activate only if "
+"Cinder Crawler is blocked."
 msgstr ""
 
 #: ../../EXO.rst:408
@@ -1629,7 +1636,7 @@ msgstr ""
 #: ../../EXO.rst:561
 msgid ""
 "|mana_2|\\ |mana_g|: Plated Rootwalla gets +3/+3 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../EXO.rst:568
@@ -1834,7 +1841,7 @@ msgstr ""
 #: ../../EXO.rst:633
 msgid ""
 "|mana_g|, Discard a creature card: Search your library for a creature card, "
-"reveal that card, and put it into your hand. Then shuffle your library."
+"reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:638
@@ -1845,9 +1852,13 @@ msgid ""
 msgstr ""
 
 #: ../../EXO.rst:637
+#, fuzzy
+#| msgid ""
+#| "When Wood Elves enters the battlefield, search your library for a Forest "
+#| "card and put that card onto the battlefield. Then shuffle your library."
 msgid ""
 "When Wood Elves enters the battlefield, search your library for a Forest "
-"card and put that card onto the battlefield. Then shuffle your library."
+"card, put that card onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "Lasu i umieść ją na polu bitwy, po czym przetasuj."
@@ -1985,14 +1996,14 @@ msgstr ""
 #: ../../EXO.rst:685
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 "
-"colorless Thopter artifact creature token with flying. Activate this ability "
-"only any time you could cast a sorcery."
+"colorless Thopter artifact creature token with flying. Activate only as a "
+"sorcery."
 msgstr ""
 
 #: ../../EXO.rst:687
 msgid ""
 "|mana_1|, Sacrifice another Thopter: Put a +1/+1 counter on Thopter "
-"Squadron. Activate this ability only any time you could cast a sorcery."
+"Squadron. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:694

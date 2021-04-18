@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
@@ -86,9 +86,13 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:29
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost "
+#| "1 or less from your graveyard to your hand."
 msgid ""
-"|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost 1 "
-"or less from your graveyard to your hand."
+"|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less "
+"from your graveyard to your hand."
 msgstr ""
 "|mana_1|\\ |mana_w|: Przywróć wskazaną kartę artefaktu o skrócie many 1 lub "
 "mniejszym z twojego cmentarza do twojej ręki."
@@ -176,10 +180,16 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:55
+#, fuzzy
+#| msgid ""
+#| "When Eternal Witness enters the battlefield, you may return target card "
+#| "from your graveyard to your hand."
 msgid ""
 "When Leonin Squire enters the battlefield, return target artifact card with "
-"converted mana cost 1 or less from your graveyard to your hand."
+"mana value 1 or less from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../5DN.rst:60
 msgid ""
@@ -311,8 +321,8 @@ msgstr ""
 
 #: ../../5DN.rst:101
 msgid ""
-"Search your library for an Equipment card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for an Equipment card, reveal that card, put it into "
+"your hand, then shuffle."
 msgstr ""
 
 #: ../../5DN.rst:106
@@ -336,7 +346,7 @@ msgstr ""
 #: ../../5DN.rst:109
 msgid ""
 "Search target opponent's library for an artifact card and put that card onto "
-"the battlefield under your control. Then that player shuffles their library."
+"the battlefield under your control. Then that player shuffles."
 msgstr ""
 
 #: ../../5DN.rst:116
@@ -360,11 +370,18 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:119
+#, fuzzy
+#| msgid ""
+#| "When Trinket Mage enters the battlefield, you may search your library for "
+#| "an artifact card with converted mana cost 1 or less, reveal that card, "
+#| "and put it into your hand. If you do, shuffle your library."
 msgid ""
 "|mana_u|, Discard an artifact card: Search your library for an artifact card "
-"with converted mana cost 1 or less, reveal that card, and put it into your "
-"hand. Then shuffle your library."
+"with mana value 1 or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
+"ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
 
 #: ../../5DN.rst:124
 msgid ""
@@ -570,10 +587,15 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:203
+#, fuzzy
+#| msgid ""
+#| "When Trinket Mage enters the battlefield, you may search your library for "
+#| "an artifact card with converted mana cost 1 or less, reveal that card, "
+#| "and put it into your hand. If you do, shuffle your library."
 msgid ""
 "When Trinket Mage enters the battlefield, you may search your library for an "
-"artifact card with converted mana cost 1 or less, reveal that card, and put "
-"it into your hand. If you do, shuffle your library."
+"artifact card with mana value 1 or less, reveal that card, put it into your "
+"hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
@@ -631,7 +653,7 @@ msgstr ""
 #: ../../5DN.rst:223
 msgid ""
 "At the beginning of your upkeep, you may pay 2 life. If you do, search your "
-"library for a card, then shuffle your library and put that card on top of it."
+"library for a card, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../5DN.rst:230
@@ -966,7 +988,7 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:347
-msgid "Destroy each nonland artifact with converted mana cost 4 or less."
+msgid "Destroy each nonland artifact with mana value 4 or less."
 msgstr ""
 
 #: ../../5DN.rst:352
@@ -1292,7 +1314,7 @@ msgstr ""
 #: ../../5DN.rst:461
 msgid ""
 "Whenever a creature you control is dealt damage, put a +1/+1 counter on it. "
-"(The damage is dealt before the counter is put on.)"
+"(It must survive the damage to get the counter.)"
 msgstr ""
 
 #: ../../5DN.rst:472
@@ -1583,8 +1605,8 @@ msgid ""
 "Sacrifice Composite Golem: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |"
 "mana_g|."
 msgstr ""
-"Poświęć tego stwora: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ "
-"|mana_g|."
+"Poświęć tego stwora: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |"
+"mana_g|."
 
 #: ../../5DN.rst:564
 msgid ""
@@ -1694,10 +1716,15 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:599
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
+#| "with converted mana cost equal to the number of charge counters on "
+#| "Engineered Explosives."
 msgid ""
 "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
-"with converted mana cost equal to the number of charge counters on "
-"Engineered Explosives."
+"with mana value equal to the number of charge counters on Engineered "
+"Explosives."
 msgstr ""
 "|mana_2|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent o skrócie "
 "many równym liczbie znaczników ładowania na tym artefakcie."
@@ -1994,8 +2021,7 @@ msgid "Players play with the top card of their libraries revealed."
 msgstr ""
 
 #: ../../5DN.rst:705
-msgid ""
-"|tap|, Sacrifice Lantern of Insight: Target player shuffles their library."
+msgid "|tap|, Sacrifice Lantern of Insight: Target player shuffles."
 msgstr ""
 
 #: ../../5DN.rst:712
@@ -2189,10 +2215,16 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:781
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost "
+#| "1 or less from your graveyard to your hand."
 msgid ""
-"|tap|: Return target noncreature artifact card with converted mana cost 1 or "
-"less from your graveyard to the battlefield."
+"|tap|: Return target noncreature artifact card with mana value 1 or less "
+"from your graveyard to the battlefield."
 msgstr ""
+"|mana_1|\\ |mana_w|: Przywróć wskazaną kartę artefaktu o skrócie many 1 lub "
+"mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../5DN.rst:783
 msgid "Whenever a creature dies, you may untap Salvaging Station."
@@ -2437,6 +2469,5 @@ msgstr ""
 #: ../../5DN.rst:883
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-"basic land card and put that card onto the battlefield tapped. Then shuffle "
-"your library."
+"basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""

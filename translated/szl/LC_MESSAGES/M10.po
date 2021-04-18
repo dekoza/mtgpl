@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -412,9 +412,7 @@ msgid ""
 msgstr ""
 
 #: ../../M10.rst:157
-msgid ""
-"Your opponents can't cast spells this turn. (Spells cast before this "
-"resolves are unaffected.)"
+msgid "Your opponents can't cast spells this turn."
 msgstr ""
 
 #: ../../M10.rst:160
@@ -654,8 +652,8 @@ msgstr ""
 
 #: ../../M10.rst:253
 msgid ""
-"Search your library for an artifact card, reveal it, and put it into your "
-"hand. Then shuffle your library."
+"Search your library for an artifact card, reveal it, put it into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../M10.rst:258
@@ -858,7 +856,7 @@ msgstr ""
 #: ../../M10.rst:331
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
-"order. You may shuffle your library."
+"order. You may shuffle."
 msgstr ""
 
 #: ../../M10.rst:333
@@ -930,8 +928,7 @@ msgid ""
 "Whenever Sphinx Ambassador deals combat damage to a player, search that "
 "player's library for a card, then that player chooses a card name. If you "
 "searched for a creature card that doesn't have that name, you may put it "
-"onto the battlefield under your control. Then that player shuffles their "
-"library."
+"onto the battlefield under your control. Then that player shuffles."
 msgstr ""
 
 #: ../../M10.rst:364
@@ -1144,8 +1141,7 @@ msgstr ""
 
 #: ../../M10.rst:439
 msgid ""
-"Search your library for a card and put that card into your hand. Then "
-"shuffle your library."
+"Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../M10.rst:444
@@ -1232,8 +1228,7 @@ msgstr ""
 msgid ""
 "Exile all cards from target player's graveyard other than basic land cards. "
 "For each card exiled this way, search that player's library for all cards "
-"with the same name as that card and exile them. Then that player shuffles "
-"their library."
+"with the same name as that card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../M10.rst:474
@@ -1280,8 +1275,7 @@ msgstr ""
 
 #: ../../M10.rst:489
 msgid ""
-"−2: Search your library for a card, then shuffle your library and put that "
-"card on top of it."
+"−2: Search your library for a card, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../M10.rst:491
@@ -2125,8 +2119,7 @@ msgstr ""
 #: ../../M10.rst:809
 msgid ""
 "When Borderland Ranger enters the battlefield, you may search your library "
-"for a basic land card, reveal it, and put it into your hand. If you do, "
-"shuffle your library."
+"for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M10.rst:814
@@ -2514,8 +2507,8 @@ msgstr ""
 
 #: ../../M10.rst:957
 msgid ""
-"Search your library for a basic land card and put that card onto the "
-"battlefield tapped. Then shuffle your library."
+"Search your library for a basic land card, put that card onto the "
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M10.rst:962
@@ -2890,7 +2883,7 @@ msgstr ""
 #: ../../M10.rst:1095
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M10.rst:1100

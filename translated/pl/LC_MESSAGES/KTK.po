@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
@@ -507,10 +507,15 @@ msgstr ""
 
 # d7013b8130a9431bbc108d983ca711ca
 #: ../../KTK.rst:139
+#, fuzzy
+#| msgid ""
+#| "Raid — When Timely Hordemate enters the battlefield, if you attacked this "
+#| "turn, return target creature card with converted mana cost 2 or less from "
+#| "your graveyard to the battlefield."
 msgid ""
 "Raid — When Timely Hordemate enters the battlefield, if you attacked this "
-"turn, return target creature card with converted mana cost 2 or less from "
-"your graveyard to the battlefield."
+"turn, return target creature card with mana value 2 or less from your "
+"graveyard to the battlefield."
 msgstr ""
 "Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
 "turze, przywróć wskazaną kartę stwora o skrócie many 2 lub mniejszym z "
@@ -685,7 +690,9 @@ msgstr ""
 
 # afe2f3dd86e247d8b72f2c1d79dfb009
 #: ../../KTK.rst:193
-msgid "Counter target spell with converted mana cost 4 or greater."
+#, fuzzy
+#| msgid "Counter target spell with converted mana cost 4 or greater."
+msgid "Counter target spell with mana value 4 or greater."
 msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
 #: ../../KTK.rst:200
@@ -721,10 +728,15 @@ msgstr ""
 
 # 03b0386b043b49dca02019b54a1870a9
 #: ../../KTK.rst:203
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your "
+#| "library for a basic land card, put it onto the battlefield tapped, then "
+#| "shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your "
 "library for a basic land card, put it onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 "|mana_1|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
 "bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
@@ -1184,9 +1196,14 @@ msgstr "Ten stwór nie może blokować."
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:359
+#, fuzzy
+#| msgid ""
+#| "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your "
+#| "graveyard to the battlefield. Activate this ability only if you attacked "
+#| "this turn."
 msgid ""
 "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard "
-"to the battlefield. Activate this ability only if you attacked this turn."
+"to the battlefield. Activate only if you attacked this turn."
 msgstr ""
 "Najazd — |mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole "
 "bitwy. Możesz aktywować tę zdolność tylko jeśli atakowałeś w tej turze."
@@ -2632,9 +2649,13 @@ msgstr ""
 
 # 1ff27fd5e81a4d879efe40e9928a203d
 #: ../../KTK.rst:811
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to three basic land cards, reveal them, and "
+#| "put them into your hand. Then shuffle your library."
 msgid ""
-"Search your library for up to three basic land cards, reveal them, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to three basic land cards, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece do trzech kart bazowych lądów, ujawnij je i "
 "umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
@@ -2702,10 +2723,15 @@ msgstr ""
 
 # ab93d1d584624138ab048413529cfbce
 #: ../../KTK.rst:829
+#, fuzzy
+#| msgid ""
+#| "Whenever a face-down creature enters the battlefield under your control, "
+#| "you may search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Whenever a face-down creature enters the battlefield under your control, you "
 "may search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 "Ilekroć zakryty stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
 "wyszukać w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
@@ -3508,9 +3534,13 @@ msgid ""
 msgstr ""
 
 #: ../../KTK.rst:1059
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
+#| "Activate this ability only once each turn."
 msgid ""
 "|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 "|mana_2|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
 "tę zdolność tylko raz na turę."
@@ -3779,10 +3809,15 @@ msgid ""
 msgstr ""
 
 #: ../../KTK.rst:1151
+#, fuzzy
+#| msgid ""
+#| "Target opponent exiles the top X cards of their library. You may cast any "
+#| "number of spells with converted mana cost X or less from among them "
+#| "without paying their mana costs."
 msgid ""
 "Target opponent exiles the top X cards of their library. You may cast any "
-"number of spells with converted mana cost X or less from among them without "
-"paying their mana costs."
+"number of spells with mana value X or less from among them without paying "
+"their mana costs."
 msgstr ""
 "Wskazany przeciwnik wygania X wierzchnich kart swojej biblioteki. Możesz "
 "spośród nich rzucić dowolną liczbę czarów mających skrót many X lub mniej "
@@ -4155,10 +4190,14 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1263
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a "
+#| "Swamp or Mountain card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a "
-"Swamp or Mountain card, put it onto the battlefield, then shuffle your "
-"library."
+"Swamp or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Bagna lub Góry i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4217,10 +4256,14 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1283
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a "
+#| "Plains or Island card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a "
-"Plains or Island card, put it onto the battlefield, then shuffle your "
-"library."
+"Plains or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Równiny lub Wyspy i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4305,9 +4348,14 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1319
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an "
+#| "Island or Swamp card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an "
-"Island or Swamp card, put it onto the battlefield, then shuffle your library."
+"Island or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Wyspy lub Bagien i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4486,10 +4534,14 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1383
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a "
+#| "Forest or Plains card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a "
-"Forest or Plains card, put it onto the battlefield, then shuffle your "
-"library."
+"Forest or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Lasu lub Równiny i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4504,10 +4556,14 @@ msgstr ""
 
 # 41adbefd9f8f4e39aec2d4ec23d0f500
 #: ../../KTK.rst:1387
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a "
+#| "Mountain or Forest card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a "
-"Mountain or Forest card, put it onto the battlefield, then shuffle your "
-"library."
+"Mountain or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Góry lub Lasu i umieść ją na polu bitwy. Następnie przetasuj twoją "

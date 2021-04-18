@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -212,8 +212,8 @@ msgstr ""
 #: ../../DST.rst:75
 msgid ""
 "|mana_w|, |tap|, Return Steelshaper Apprentice to its owner's hand: Search "
-"your library for an Equipment card, reveal that card, and put it into your "
-"hand. Then shuffle your library."
+"your library for an Equipment card, reveal that card, put it into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../DST.rst:86
@@ -464,8 +464,8 @@ msgstr ""
 
 #: ../../DST.rst:171
 msgid ""
-"Search your library for an artifact card with converted mana cost X or less "
-"and put it onto the battlefield. Then shuffle your library."
+"Search your library for an artifact card with mana value X or less, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../DST.rst:176
@@ -1168,7 +1168,7 @@ msgstr ""
 #: ../../DST.rst:429
 msgid ""
 "Search your library for a land card, put that card onto the battlefield, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../DST.rst:431
@@ -1296,8 +1296,8 @@ msgstr ""
 
 #: ../../DST.rst:475
 msgid ""
-"|tap|: You may put a creature card with converted mana cost equal to the "
-"number of charge counters on Aether Vial from your hand onto the battlefield."
+"|tap|: You may put a creature card with mana value equal to the number of "
+"charge counters on Aether Vial from your hand onto the battlefield."
 msgstr ""
 
 #: ../../DST.rst:480
@@ -1983,7 +1983,7 @@ msgstr ""
 #: ../../DST.rst:729
 msgid ""
 "Imprint — |mana_x|, |tap|: You may exile an instant or sorcery card with "
-"converted mana cost X from your hand."
+"mana value X from your hand."
 msgstr ""
 
 #: ../../DST.rst:731

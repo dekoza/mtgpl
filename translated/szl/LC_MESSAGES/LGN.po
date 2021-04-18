@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -340,7 +340,7 @@ msgid ""
 msgstr ""
 
 #: ../../LGN.rst:121
-msgid "|tap|: Tap target creature with converted mana cost 3 or less."
+msgid "|tap|: Tap target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../LGN.rst:130
@@ -907,8 +907,8 @@ msgstr ""
 #: ../../LGN.rst:343
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Sacrifice a creature: Search your library for a "
-"Zombie card and a Swamp card, reveal them, and put them into your hand. Then "
-"shuffle your library."
+"Zombie card and a Swamp card, reveal them, put them into your hand, then "
+"shuffle."
 msgstr ""
 
 #: ../../LGN.rst:348
@@ -933,7 +933,7 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice three Clerics: Search your graveyard, hand, and/or library "
 "for a card named Scion of Darkness and put it onto the battlefield. If you "
-"search your library this way, shuffle it."
+"search your library this way, shuffle."
 msgstr ""
 
 #: ../../LGN.rst:356
@@ -946,8 +946,7 @@ msgstr ""
 #: ../../LGN.rst:355
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Sacrifice a Zombie: Destroy target non-Zombie "
-"creature. It can't be regenerated. Activate this ability only any time you "
-"could cast a sorcery."
+"creature. It can't be regenerated. Activate only as a sorcery."
 msgstr ""
 
 #: ../../LGN.rst:362
@@ -1481,8 +1480,7 @@ msgstr ""
 #: ../../LGN.rst:553
 msgid ""
 "When Imperial Hellkite is turned face up, you may search your library for a "
-"Dragon card, reveal it, and put it into your hand. If you do, shuffle your "
-"library."
+"Dragon card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../LGN.rst:562

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ths/pl/>\n"
@@ -405,12 +405,10 @@ msgstr ""
 "wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../THS.rst:93
-msgid ""
-"Scry 1. (Look at the top card of your library. You may put that card on the "
-"bottom of your library.)"
-msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
+#, fuzzy
+#| msgid "Scry 2."
+msgid "Scry 1."
+msgstr "Wróż 2."
 
 #: ../../THS.rst:104
 msgid ""
@@ -737,9 +735,13 @@ msgstr ""
 # 510dad5e59f44d21a73dc2c04006c7d7
 # b7167096b6454aa6a4aae73db308906c
 #: ../../THS.rst:177
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of "
+#| "turn. Activate this ability only once each turn."
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of "
-"turn. Activate this ability only once each turn."
+"turn. Activate only once each turn."
 msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. "
 "Możesz aktywować tę zdolność tylko raz na turę."
@@ -2131,18 +2133,11 @@ msgid ""
 "https://scryfall.com/card/ths/101/read-the-bones?utm_source=api>`"
 msgstr ""
 
-# 878620d010ac4e158b9a63f8e3c7c0ae
-# 083133b0cf984e24a4c6be2a9c27ef0d
 #: ../../THS.rst:563
-msgid ""
-"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
-"two cards of your library, then put any number of them on the bottom of your "
-"library and the rest on top in any order.)"
-msgstr ""
-"Wróż 2, po czym dobierz dwie karty. Strać 2 życia. (By wróżyć 2, spójrz na "
-"dwie wierzchnie karty twojej biblioteki, po czym umieść dowolną ich liczbę "
-"na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
-"kolejności.)"
+#, fuzzy
+#| msgid "Scry 2 then draw 2 cards. You lose 2 life."
+msgid "Scry 2, then draw two cards. You lose 2 life."
+msgstr "Wróż 2, a następnie dobierz 2 karty. Tracisz 2 życia."
 
 #: ../../THS.rst:570
 msgid ""
@@ -2307,12 +2302,18 @@ msgstr "Stwory pod twoim władaniem mają więź życia."
 # 739864fc33014fccbf49f474901a780b
 # b6cfc490c8bb482faecaf5458821ddfb
 #: ../../THS.rst:613
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Return target creature card from "
+#| "your graveyard to the battlefield. It gains haste. Exile it at the "
+#| "beginning of the next end step. If it would leave the battlefield, exile "
+#| "it instead of putting it anywhere else. Activate this ability only any "
+#| "time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Return target creature card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
 "the next end step. If it would leave the battlefield, exile it instead of "
-"putting it anywhere else. Activate this ability only any time you could cast "
-"a sorcery."
+"putting it anywhere else. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Przywróć wskazaną kartę stwora z "
 "twojego cmentarza na pole bitwy. Dostaje on pośpiech. Wygnaj go na początku "
@@ -3522,9 +3523,14 @@ msgstr ""
 # bb21336691f44b49b1cbaec8c1f506fe
 # cd994ea5e38448d9ac3c6ae2b3dd1782
 #: ../../THS.rst:949
+#, fuzzy
+#| msgid ""
+#| "When you sacrifice Ordeal of Nylea, search your library for up to two "
+#| "basic land cards, put them onto the battlefield tapped, then shuffle your "
+#| "library."
 msgid ""
 "When you sacrifice Ordeal of Nylea, search your library for up to two basic "
-"land cards, put them onto the battlefield tapped, then shuffle your library."
+"land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy poświęcisz ten urok, wyszukaj w twojej bibliotece co najwyżej dwie "
 "karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
@@ -3809,10 +3815,15 @@ msgstr "+2: Wygnaj trzy wierzchnie karty biblioteki wskazanego przeciwnika."
 # e10dd3d32cc04149b54d8e09a8e9035c
 # 26d8cdcad7504706b42842ea66728c80
 #: ../../THS.rst:1031
+#, fuzzy
+#| msgid ""
+#| "−X: Put a creature card with converted mana cost X exiled with Ashiok, "
+#| "Nightmare Weaver onto the battlefield under your control. That creature "
+#| "is a Nightmare in addition to its other types."
 msgid ""
-"−X: Put a creature card with converted mana cost X exiled with Ashiok, "
-"Nightmare Weaver onto the battlefield under your control. That creature is a "
-"Nightmare in addition to its other types."
+"−X: Put a creature card with mana value X exiled with Ashiok, Nightmare "
+"Weaver onto the battlefield under your control. That creature is a Nightmare "
+"in addition to its other types."
 msgstr ""
 "–X: Umieść na polu bitwy pod swoim władaniem kartę stwora o łącznym koszcie "
 "many X wygnaną z użyciem tego wędrowca. Ów stwór ma dodatkowo typ Koszmar "
@@ -3877,11 +3888,17 @@ msgstr "Ten stwór nie może być blokowany przez stwory o sile 3 lub większej.
 # 9094d4d38e8b40f9805ab1fa194645cb
 # 6a0bb450ac2a42c283c47502f2ea61ee
 #: ../../THS.rst:1047
+#, fuzzy
+#| msgid ""
+#| "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
+#| "card of that player's library. You gain life equal to that card's "
+#| "converted mana cost. Until end of turn, you may cast that card and you "
+#| "may spend mana as though it were mana of any color to cast that spell."
 msgid ""
 "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
-"card of that player's library. You gain life equal to that card's converted "
-"mana cost. Until end of turn, you may cast that card and you may spend mana "
-"as though it were mana of any color to cast that spell."
+"card of that player's library. You gain life equal to that card's mana "
+"value. Until end of turn, you may cast that card and you may spend mana as "
+"though it were mana of any color to cast that spell."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
 "biblioteki owego gracza. Zyskaj tyle żyć, ile wynosi skrót many owej karty. "
@@ -4379,9 +4396,14 @@ msgstr ""
 # 89e93366db6e4dab8245b387f2112280
 # 659c96de28ea40e99273ce03916cf7c4
 #: ../../THS.rst:1185
+#, fuzzy
+#| msgid ""
+#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
+#| "basic land cards, put them onto the battlefield tapped, then shuffle your "
+#| "library."
 msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
-"land cards, put them onto the battlefield tapped, then shuffle your library."
+"land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
 "karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
@@ -4531,9 +4553,13 @@ msgstr ""
 # 773b5518fd184e418b16dafcb15fb8fc
 # d2add975ce0d44acb335dbbed69f38fc
 #: ../../THS.rst:1227
+#, fuzzy
+#| msgid ""
+#| "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic "
+#| "land card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_1|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę bazowego "
 "lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
@@ -4791,6 +4817,25 @@ msgstr ""
 #: ../../THS.rst:1305
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid ""
+#~ "Scry 1. (Look at the top card of your library. You may put that card on "
+#~ "the bottom of your library.)"
+#~ msgstr ""
+#~ "Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją "
+#~ "na spodzie twojej biblioteki.)"
+
+# 878620d010ac4e158b9a63f8e3c7c0ae
+# 083133b0cf984e24a4c6be2a9c27ef0d
+#~ msgid ""
+#~ "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
+#~ "two cards of your library, then put any number of them on the bottom of "
+#~ "your library and the rest on top in any order.)"
+#~ msgstr ""
+#~ "Wróż 2, po czym dobierz dwie karty. Strać 2 życia. (By wróżyć 2, spójrz "
+#~ "na dwie wierzchnie karty twojej biblioteki, po czym umieść dowolną ich "
+#~ "liczbę na spodzie twojej biblioteki, a pozostałe na jej wierzchu w "
+#~ "dowolnej kolejności.)"
 
 # 2957d412eea642dc8951c8ece4459b7a
 # bba91c9aed10425a92302eac63dca2a3
@@ -6043,9 +6088,6 @@ msgstr "(|tap|: Weź |mana_g|.)"
 #~ "Nighthowler oraz zauroczony stwór dostają +X/+X każdy, gdzie X jest równe "
 #~ "liczbie kart stworów we wszystkich cmentarzach."
 
-#~ msgid "Scry 2 then draw 2 cards. You lose 2 life."
-#~ msgstr "Wróż 2, a następnie dobierz 2 karty. Tracisz 2 życia."
-
 #~ msgid ""
 #~ "(To scry 2, look at the top two cards of your library, then put any "
 #~ "number of them on the bottom of your library and the rest on top in any "
@@ -6095,9 +6137,6 @@ msgstr "(|tap|: Weź |mana_g|.)"
 #~ msgstr ""
 #~ "- Ilekroć rzucasz czar wskazujący na Labyrinth Champion, Labyrinth "
 #~ "Champion zadaje wskazanemu stworowi lub graczowi 2 obrażenia."
-
-#~ msgid "Scry 2."
-#~ msgstr "Wróż 2."
 
 #~ msgid ""
 #~ "Gain control of target creature until end of turn. Untap that creature. "

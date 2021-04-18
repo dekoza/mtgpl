@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
@@ -236,18 +236,27 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:61
+#, fuzzy
+#| msgid ""
+#| "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard "
+#| "to your hand. Activate this ability only during your upkeep."
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to "
-"your hand. Activate this ability only during your upkeep."
+"your hand. Activate only during your upkeep."
 msgstr ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza do "
 "twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:63
+#, fuzzy
+#| msgid ""
+#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
+#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+"a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
@@ -435,10 +444,15 @@ msgstr ""
 
 # fb1eb87f5054423f874df251b96f95f1
 #: ../../C13.rst:117
+#, fuzzy
+#| msgid ""
+#| "When Razor Hippogriff enters the battlefield, return target artifact card "
+#| "from your graveyard to your hand. You gain life equal to that card's "
+#| "converted mana cost."
 msgid ""
 "When Razor Hippogriff enters the battlefield, return target artifact card "
-"from your graveyard to your hand. You gain life equal to that card's "
-"converted mana cost."
+"from your graveyard to your hand. You gain life equal to that card's mana "
+"value."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki. Zyskaj tyle żyć, ile wynosi skrót many "
@@ -488,13 +502,9 @@ msgid ""
 "https://scryfall.com/card/c13/22/stonecloaker?utm_source=api>`"
 msgstr ""
 
-# ccb81bfc382549ddbe5a0e51660434c8
-# 52cdd302f6c64897ba0e5a04b477a141
-# 758c68788a4f42209997032fe41c614a
-# e5e49eaeb94349ee961efc76b0e4457e
-#: ../../C13.rst:131 ../../C13.rst:207 ../../C13.rst:1303 ../../C13.rst:1407
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
+#: ../../C13.rst:131
+msgid "Flash"
+msgstr ""
 
 # 801cd3f0f5f14fba81330cdb173928fd
 #: ../../C13.rst:135
@@ -744,6 +754,14 @@ msgid ""
 "https://scryfall.com/card/c13/37/deceiver-exarch?utm_source=api>`"
 msgstr ""
 
+# ccb81bfc382549ddbe5a0e51660434c8
+# 52cdd302f6c64897ba0e5a04b477a141
+# 758c68788a4f42209997032fe41c614a
+# e5e49eaeb94349ee961efc76b0e4457e
+#: ../../C13.rst:207 ../../C13.rst:1303 ../../C13.rst:1407
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
+
 # eb69607d046b4fbd9ed0f54424ab87f1
 #: ../../C13.rst:209
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
@@ -988,10 +1006,16 @@ msgstr ""
 
 # 30c2f4a8d9594277bd18b93835d47f2c
 #: ../../C13.rst:293
+#, fuzzy
+#| msgid ""
+#| "Remove all attacking creatures from combat and untap them. After this "
+#| "phase, there is an additional combat phase. Each of those creatures "
+#| "attacks that combat if able. They can't attack you or a planeswalker you "
+#| "control that combat."
 msgid ""
 "Remove all attacking creatures from combat and untap them. After this phase, "
 "there is an additional combat phase. Each of those creatures attacks that "
-"combat if able. They can't attack you or a planeswalker you control that "
+"combat if able. They can't attack you or planeswalkers you control that "
 "combat."
 msgstr ""
 "Usuń wszystkie atakujące stwory z potyczki i odkręć je. Po tej fazie jest "
@@ -1158,8 +1182,8 @@ msgstr ""
 #: ../../C13.rst:345
 msgid ""
 "Forecast — |mana_2|\\ |mana_u|, Reveal Skyscribing from your hand: Each "
-"player draws a card. (Activate this ability only during your upkeep and only "
-"once each turn.)"
+"player draws a card. (Activate only during your upkeep and only once each "
+"turn.)"
 msgstr ""
 
 #: ../../C13.rst:354
@@ -1258,15 +1282,12 @@ msgstr ""
 msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
-# b3aa723e9f094efc80233aed3e715b1a
+# 304c492d60374bf0b09c7c25077867c1
 #: ../../C13.rst:377
-msgid ""
-"True-Name Nemesis has protection from the chosen player. (This creature "
-"can't be blocked, targeted, dealt damage, or enchanted by anything "
-"controlled by that player.)"
-msgstr ""
-"Ten stwór ma ochronę przed wybranym graczem. (Nic pod władaniem owego gracza "
-"nie może blokować, wskazywać, zadawać obrażeń ani zauroczyć tego stwora.)"
+#, fuzzy
+#| msgid "As True-Name Nemesis enters the battlefield, choose a player."
+msgid "True-Name Nemesis has protection from the chosen player."
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
 #: ../../C13.rst:384
 msgid ""
@@ -1478,9 +1499,13 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:447
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a creature spell, create X 1/1 black Thrull creature "
+#| "tokens, where X is that spell's converted mana cost."
 msgid ""
 "Whenever you cast a creature spell, create X 1/1 black Thrull creature "
-"tokens, where X is that spell's converted mana cost."
+"tokens, where X is that spell's mana value."
 msgstr ""
 "Ilekroć rzucisz czar stwora, stwórz X żetonów czarnego stwora Thrull 1/1, "
 "gdzie X jest skrótem many owego czaru."
@@ -1641,13 +1666,19 @@ msgid ""
 "https://scryfall.com/card/c13/86/phyrexian-delver?utm_source=api>`"
 msgstr ""
 
-# 1213b879985248d795a3a6c9c73f06d2
+# 3b20b6f30b9347c99b2ba06ec2dc544c
 #: ../../C13.rst:497
+#, fuzzy
+#| msgid ""
+#| "When Karmic Guide enters the battlefield, return target creature card "
+#| "from your graveyard to the battlefield."
 msgid ""
 "When Phyrexian Delver enters the battlefield, return target creature card "
 "from your graveyard to the battlefield. You lose life equal to that card's "
-"converted mana cost."
+"mana value."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../C13.rst:502
 msgid ""
@@ -2013,13 +2044,21 @@ msgid ""
 "https://scryfall.com/card/c13/108/from-the-ashes?utm_source=api>`"
 msgstr ""
 
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:605
+#, fuzzy
+#| msgid ""
+#| "When Farhaven Elf enters the battlefield, you may search your library for "
+#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
+#| "library."
 msgid ""
 "Destroy all nonbasic lands. For each land destroyed this way, its controller "
 "may search their library for a basic land card and put it onto the "
-"battlefield. Then each player who searched their library this way shuffles "
-"it."
+"battlefield. Then each player who searched their library this way shuffles."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
+"przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:610
 msgid ""
@@ -2587,10 +2626,14 @@ msgstr ""
 
 # 01b70e4565ca4197ade1b8e9730ca3f6
 #: ../../C13.rst:771
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Then shuffle your library."
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
 "jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
@@ -2679,10 +2722,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:797
+#, fuzzy
+#| msgid ""
+#| "When Farhaven Elf enters the battlefield, you may search your library for "
+#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
+#| "library."
 msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
-"basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
@@ -2746,11 +2793,10 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-# 95440fdbc5784cd79fa6647db6e6db2b
 #: ../../C13.rst:817
 msgid ""
 "|tap|: Put target creature card from your graveyard on top of your library. "
-"Activate this ability only during your turn, before attackers are declared."
+"Activate only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../C13.rst:824
@@ -2852,10 +2898,15 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:855
+#, fuzzy
+#| msgid ""
+#| "When you cycle Krosan Tusker, you may search your library for a basic "
+#| "land card, reveal that card, put it into your hand, then shuffle your "
+#| "library. (Do this before you draw.)"
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
-"card, reveal that card, put it into your hand, then shuffle your library. "
-"(Do this before you draw.)"
+"card, reveal that card, put it into your hand, then shuffle. (Do this before "
+"you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
 "bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
@@ -2911,7 +2962,7 @@ msgstr ""
 msgid ""
 "When you cast this spell, each player reveals the top card of their library. "
 "Naya Soulbeast enters the battlefield with X +1/+1 counters on it, where X "
-"is the total converted mana cost of all cards revealed this way."
+"is the total mana value of all cards revealed this way."
 msgstr ""
 
 # f40ee64d2d7541998c62fd53c841fdeb
@@ -3107,12 +3158,18 @@ msgid ""
 "https://scryfall.com/card/c13/168/sakura-tribe-elder?utm_source=api>`"
 msgstr ""
 
-# 27ae2f27cf874afa9b06c252325a2304
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:941
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
-"that card onto the battlefield tapped, then shuffle your library."
+"that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:948
 msgid ""
@@ -3167,12 +3224,20 @@ msgid ""
 "https://scryfall.com/card/c13/172/spoils-of-victory?utm_source=api>`"
 msgstr ""
 
-# 1ff172dbfc8e44a89b4e03499560a378
+# 01b70e4565ca4197ade1b8e9730ca3f6
 #: ../../C13.rst:963
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Then shuffle your library."
 msgid ""
 "Search your library for a Plains, Island, Swamp, Mountain, or Forest card "
-"and put that card onto the battlefield. Then shuffle your library."
+"and put that card onto the battlefield. Then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
+"twoją bibliotekę."
 
 #: ../../C13.rst:970
 msgid ""
@@ -3181,12 +3246,20 @@ msgid ""
 "https://scryfall.com/card/c13/173/sprouting-vines?utm_source=api>`"
 msgstr ""
 
-# b83d92045d754fe6a2824c8578330f23
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:967
+#, fuzzy
+#| msgid ""
+#| "When you cycle Krosan Tusker, you may search your library for a basic "
+#| "land card, reveal that card, put it into your hand, then shuffle your "
+#| "library. (Do this before you draw.)"
 msgid ""
-"Search your library for a basic land card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for a basic land card, reveal that card, put it into "
+"your hand, then shuffle."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
+"bibliotekę. (Zrób to przed dobraniem.)"
 
 # d5d360de3d3442fd866786dd69f9c070
 #: ../../C13.rst:969
@@ -3210,7 +3283,7 @@ msgid ""
 "battlefield. Each opponent may search their library for a land card and put "
 "it onto the battlefield. For each opponent who searches a library this way, "
 "search your library for a land card and put it onto the battlefield. Then "
-"each player who searched a library this way shuffles it."
+"each player who searched a library this way shuffles."
 msgstr ""
 
 #: ../../C13.rst:980
@@ -3390,11 +3463,15 @@ msgid ""
 "https://scryfall.com/card/c13/185/deepfire-elemental?utm_source=api>`"
 msgstr ""
 
+# 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1039
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with "
-"converted mana cost X."
-msgstr ""
+"mana value X."
+msgstr "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, poświęć stwora: Dobierz kartę."
 
 #: ../../C13.rst:1048
 msgid ""
@@ -3586,13 +3663,12 @@ msgid ""
 "https://scryfall.com/card/c13/197/lim-d%C3%BBls-vault?utm_source=api>`"
 msgstr ""
 
-# 67ec9b3c93ff4707bfad15c75646c3e2
 #: ../../C13.rst:1125
 msgid ""
 "Look at the top five cards of your library. As many times as you choose, you "
 "may pay 1 life, put those cards on the bottom of your library in any order, "
-"then look at the top five cards of your library. Then shuffle your library "
-"and put the last cards you looked at this way on top of it in any order."
+"then look at the top five cards of your library. Then shuffle and put the "
+"last cards you looked at this way on top in any order."
 msgstr ""
 
 #: ../../C13.rst:1138
@@ -4011,11 +4087,10 @@ msgid ""
 "https://scryfall.com/card/c13/220/sydri-galvanic-genius?utm_source=api>`"
 msgstr ""
 
-# d12bc18929d14176a6dc14d0282963f9
 #: ../../C13.rst:1269
 msgid ""
 "|mana_u|: Target noncreature artifact becomes an artifact creature with "
-"power and toughness each equal to its converted mana cost until end of turn."
+"power and toughness each equal to its mana value until end of turn."
 msgstr ""
 
 #: ../../C13.rst:1271
@@ -4066,10 +4141,15 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1293
+#, fuzzy
+#| msgid ""
+#| "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this "
+#| "card: Search your library for a Mountain or Forest card, reveal it, put "
+#| "it into your hand, then shuffle your library.)"
 msgid ""
 "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this "
 "card: Search your library for a Mountain or Forest card, reveal it, put it "
-"into your hand, then shuffle your library.)"
+"into your hand, then shuffle.)"
 msgstr ""
 "Górocykling |mana_2|, lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: "
 "Wyszukaj w twojej bibliotece kartę Góry lub Lasu, ujawnij ją, umieść w "
@@ -4113,12 +4193,11 @@ msgid ""
 "https://scryfall.com/card/c13/227/augury-adept?utm_source=api>`"
 msgstr ""
 
-# 2cf06148538a46928836eedde94c0a5e
 #: ../../C13.rst:1311
 msgid ""
 "Whenever Augury Adept deals combat damage to a player, reveal the top card "
 "of your library and put that card into your hand. You gain life equal to its "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../C13.rst:1318
@@ -4254,10 +4333,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1355
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up "
+#| "to two basic land cards, reveal them, put them into your hand, then "
+#| "shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
-"two basic land cards, reveal them, put them into your hand, then shuffle "
-"your library."
+"two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
@@ -4572,9 +4655,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1449
+#, fuzzy
+#| msgid ""
+#| "When Pilgrim's Eye enters the battlefield, you may search your library "
+#| "for a basic land card, reveal it, put it into your hand, then shuffle "
+#| "your library."
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
@@ -4718,12 +4806,11 @@ msgid ""
 "https://scryfall.com/card/c13/262/surveyors-scope?utm_source=api>`"
 msgstr ""
 
-# 4e1e8ce49e8d46d59dc4401077a0d8a6
 #: ../../C13.rst:1493
 msgid ""
 "|tap|, Exile Surveyor's Scope: Search your library for up to X basic land "
 "cards, where X is the number of players who control at least two more lands "
-"than you. Put those cards onto the battlefield, then shuffle your library."
+"than you. Put those cards onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C13.rst:1500
@@ -4851,13 +4938,18 @@ msgid ""
 "https://scryfall.com/card/c13/270/wayfarers-bauble?utm_source=api>`"
 msgstr ""
 
-# 1923ab2dab1a4308b1779373b9cf6b62
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1537
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-"basic land card and put that card onto the battlefield tapped. Then shuffle "
-"your library."
+"basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1542
 msgid ""
@@ -4955,13 +5047,19 @@ msgid ""
 "https://scryfall.com/card/c13/276/bant-panorama?utm_source=api>`"
 msgstr ""
 
-# 5187fb79105249058c2b77ba816db00a
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1575
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic "
-"Forest, Plains, or Island card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Forest, Plains, or Island card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1584
 msgid ""
@@ -5136,13 +5234,19 @@ msgid ""
 "https://scryfall.com/card/c13/286/esper-panorama?utm_source=api>`"
 msgstr ""
 
-# f3dcf1a680d14a769792d70d4ea8668c
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1641
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic "
-"Plains, Island, or Swamp card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Plains, Island, or Swamp card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1646
 msgid ""
@@ -5153,9 +5257,13 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1645
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -5270,13 +5378,19 @@ msgid ""
 "https://scryfall.com/card/c13/293/grixis-panorama?utm_source=api>`"
 msgstr ""
 
-# ae254fa1345e4a68906b6dad9bf1e5cb
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1687
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
-"Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1694
 msgid ""
@@ -5358,13 +5472,19 @@ msgid ""
 "https://scryfall.com/card/c13/298/jund-panorama?utm_source=api>`"
 msgstr ""
 
-# 76e919ca64fc4148a45a0b4e9c1df01a
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1719
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic "
-"Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1726
 msgid ""
@@ -5544,13 +5664,19 @@ msgid ""
 "https://scryfall.com/card/c13/308/naya-panorama?utm_source=api>`"
 msgstr ""
 
-# 76830711c43f40699667f45a458ee634
+# 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1793
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
-"Mountain, Forest, or Plains card and put it onto the battlefield tapped. "
-"Then shuffle your library."
+"Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../C13.rst:1802
 msgid ""
@@ -5884,9 +6010,13 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:1927
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
+#| "control five or more lands."
 msgid ""
-"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-"control five or more lands."
+"|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
+"more lands."
 msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
 "co najmniej pięcioma lądami."
@@ -5900,9 +6030,13 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1931
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -6099,6 +6233,16 @@ msgstr ""
 #: ../../C13.rst:2011
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+# b3aa723e9f094efc80233aed3e715b1a
+#~ msgid ""
+#~ "True-Name Nemesis has protection from the chosen player. (This creature "
+#~ "can't be blocked, targeted, dealt damage, or enchanted by anything "
+#~ "controlled by that player.)"
+#~ msgstr ""
+#~ "Ten stwór ma ochronę przed wybranym graczem. (Nic pod władaniem owego "
+#~ "gracza nie może blokować, wskazywać, zadawać obrażeń ani zauroczyć tego "
+#~ "stwora.)"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
 #, fuzzy

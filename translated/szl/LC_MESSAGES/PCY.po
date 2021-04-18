@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -461,7 +461,7 @@ msgstr ""
 #: ../../PCY.rst:163
 msgid ""
 "Search target player's library for up to seven cards and exile them. Then "
-"that player shuffles their library."
+"that player shuffles."
 msgstr ""
 
 #: ../../PCY.rst:168
@@ -600,7 +600,7 @@ msgstr ""
 #: ../../PCY.rst:209
 msgid ""
 "Counter target spell unless its controller pays |mana_x|, where X is its "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../PCY.rst:214
@@ -821,8 +821,7 @@ msgstr ""
 #: ../../PCY.rst:295
 msgid ""
 "|tap|, Sacrifice a land: Search your library for a Mercenary permanent card "
-"with converted mana cost 2 or less and put it onto the battlefield. Then "
-"shuffle your library."
+"with mana value 2 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../PCY.rst:302
@@ -852,8 +851,8 @@ msgstr ""
 #: ../../PCY.rst:305
 msgid ""
 "Sacrifice two lands: Return Coffin Puppets from your graveyard to the "
-"battlefield. Activate this ability only during your upkeep and only if you "
-"control a Swamp."
+"battlefield. Activate only during your upkeep and only if you control a "
+"Swamp."
 msgstr ""
 
 #: ../../PCY.rst:310
@@ -890,8 +889,7 @@ msgstr ""
 #: ../../PCY.rst:317
 msgid ""
 "|mana_4|: Return target creature card from a graveyard to its owner's hand. "
-"Any player may activate this ability but only any time they could cast a "
-"sorcery."
+"Any player may activate this ability but only as a sorcery."
 msgstr ""
 
 #: ../../PCY.rst:322
@@ -955,7 +953,7 @@ msgstr ""
 msgid ""
 "At the beginning of each player's upkeep, that player mills a card. Then "
 "they create X 1/1 black Minion creature tokens, where X is the milled card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../PCY.rst:346
@@ -1083,7 +1081,7 @@ msgstr ""
 #: ../../PCY.rst:385
 msgid ""
 "Unless any player pays |mana_2|, search your library for a card, put that "
-"card into your hand, then shuffle your library."
+"card into your hand, then shuffle."
 msgstr ""
 
 #: ../../PCY.rst:390
@@ -1231,7 +1229,7 @@ msgstr ""
 #: ../../PCY.rst:439
 msgid ""
 "Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end "
-"of turn. Activate this ability only once each turn."
+"of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../PCY.rst:444
@@ -1448,7 +1446,7 @@ msgstr ""
 #: ../../PCY.rst:515
 msgid ""
 "|mana_2|: Task Mage Assembly deals 1 damage to target creature. Any player "
-"may activate this ability but only any time they could cast a sorcery."
+"may activate this ability but only as a sorcery."
 msgstr ""
 
 #: ../../PCY.rst:522
@@ -1953,7 +1951,7 @@ msgstr ""
 #: ../../PCY.rst:697
 msgid ""
 "|tap|: Choose a color. Add one mana of that color unless any player pays |"
-"mana_1|. Activate this ability only any time you could cast an instant."
+"mana_1|. Activate only as an instant."
 msgstr ""
 
 #: ../../PCY.rst:705

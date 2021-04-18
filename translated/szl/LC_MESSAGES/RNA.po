@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -147,7 +147,7 @@ msgstr ""
 #: ../../RNA.rst:51
 msgid ""
 "When Forbidding Spirit enters the battlefield, until your next turn, "
-"creatures can't attack you or a planeswalker you control unless their "
+"creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_2| for each of those creatures."
 msgstr ""
 
@@ -556,7 +556,7 @@ msgstr ""
 #: ../../RNA.rst:209
 msgid ""
 "|mana_5|\\ |mana_u|: Exchange control of Eyes Everywhere and target nonland "
-"permanent. Activate this ability only any time you could cast a sorcery."
+"permanent. Activate only as a sorcery."
 msgstr ""
 
 #: ../../RNA.rst:218
@@ -1074,8 +1074,7 @@ msgstr ""
 #: ../../RNA.rst:415
 msgid ""
 "|mana_1|\\ |mana_b|: Return Gutterbones from your graveyard to your hand. "
-"Activate this ability only during your turn and only if an opponent lost "
-"life this turn."
+"Activate only during your turn and only if an opponent lost life this turn."
 msgstr ""
 
 #: ../../RNA.rst:422
@@ -1410,7 +1409,7 @@ msgstr ""
 #: ../../RNA.rst:535
 msgid ""
 "Electrodominance deals X damage to any target. You may cast a spell with "
-"converted mana cost X or less from your hand without paying its mana cost."
+"mana value X or less from your hand without paying its mana cost."
 msgstr ""
 
 #: ../../RNA.rst:538
@@ -1610,8 +1609,8 @@ msgstr ""
 #: ../../RNA.rst:607
 msgid ""
 "|mana_3|\\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose "
-"among one or two targets. Activate this ability only if Skarrgan Hellkite "
-"has a +1/+1 counter on it."
+"among one or two targets. Activate only if Skarrgan Hellkite has a +1/+1 "
+"counter on it."
 msgstr ""
 
 #: ../../RNA.rst:614
@@ -1636,8 +1635,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Smelt-Ward Ignus: Gain control of target "
 "creature with power 3 or less until end of turn. Untap that creature. It "
-"gains haste until end of turn. Activate this ability only any time you could "
-"cast a sorcery."
+"gains haste until end of turn. Activate only as a sorcery."
 msgstr ""
 
 #: ../../RNA.rst:624
@@ -1811,7 +1809,7 @@ msgstr ""
 msgid ""
 "Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you "
 "may search your library for a card named Growth-Chamber Guardian, reveal it, "
-"put it into your hand, then shuffle your library."
+"put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../RNA.rst:686
@@ -1882,7 +1880,7 @@ msgstr ""
 #: ../../RNA.rst:703
 msgid ""
 "Search your library for a basic land card or Gate card, reveal it, put it "
-"into your hand, then shuffle your library."
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../RNA.rst:708
@@ -2302,8 +2300,8 @@ msgstr ""
 
 #: ../../RNA.rst:861
 msgid ""
-"|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate only as "
+"a sorcery."
 msgstr ""
 
 #: ../../RNA.rst:863
@@ -2413,8 +2411,7 @@ msgstr ""
 #: ../../RNA.rst:895
 msgid ""
 "Addendum — If you cast this spell during your main phase, you may put a "
-"permanent card with converted mana cost 7 or less from your hand onto the "
-"battlefield."
+"permanent card with mana value 7 or less from your hand onto the battlefield."
 msgstr ""
 
 #: ../../RNA.rst:904
@@ -2663,7 +2660,7 @@ msgid ""
 msgstr ""
 
 #: ../../RNA.rst:1003
-msgid "−1: Exile target nonland permanent with converted mana cost 1 or less."
+msgid "−1: Exile target nonland permanent with mana value 1 or less."
 msgstr ""
 
 #: ../../RNA.rst:1005
@@ -2715,8 +2712,8 @@ msgstr ""
 
 #: ../../RNA.rst:1019
 msgid ""
-"Each opponent can't cast noncreature spells with converted mana cost greater "
-"than the number of lands that player controls."
+"Each opponent can't cast noncreature spells with mana value greater than the "
+"number of lands that player controls."
 msgstr ""
 
 #: ../../RNA.rst:1021
@@ -2804,9 +2801,8 @@ msgstr ""
 #: ../../RNA.rst:1051
 msgid ""
 "|tap|, Sacrifice another creature: Search your library for a creature card "
-"with converted mana cost equal to 1 plus the sacrificed creature's converted "
-"mana cost, put that card onto the battlefield, then shuffle your library. "
-"Activate this ability only any time you could cast a sorcery."
+"with mana value equal to 1 plus the sacrificed creature's mana value, put "
+"that card onto the battlefield, then shuffle. Activate only as a sorcery."
 msgstr ""
 
 #: ../../RNA.rst:1058
@@ -3371,8 +3367,8 @@ msgstr ""
 
 #: ../../RNA.rst:1265
 msgid ""
-"Return target creature card with converted mana cost 3 or less from your "
-"graveyard to the battlefield."
+"Return target creature card with mana value 3 or less from your graveyard to "
+"the battlefield."
 msgstr ""
 
 #: ../../RNA.rst:1270
@@ -3911,7 +3907,7 @@ msgid ""
 "Put up to one target tapped creature on top of its owner's library. You may "
 "search your library and/or graveyard for a card named Dovin, Architect of "
 "Law, reveal it, and put it into your hand. If you search your library this "
-"way, shuffle it."
+"way, shuffle."
 msgstr ""
 
 #: ../../RNA.rst:1476
@@ -3990,7 +3986,7 @@ msgstr ""
 msgid ""
 "When Domri's Nodorog enters the battlefield, you may search your library and/"
 "or graveyard for a card named Domri, City Smasher, reveal it, and put it "
-"into your hand. If you search your library this way, shuffle it."
+"into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../RNA.rst:1507

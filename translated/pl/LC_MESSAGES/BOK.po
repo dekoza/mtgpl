@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bok/pl/>\n"
@@ -249,7 +249,7 @@ msgstr ""
 #: ../../BOK.rst:77 ../../BOK.rst:459
 msgid ""
 "Soulshift 6 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 6 or less from your graveyard to your hand.)"
+"mana value 6 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:84
@@ -263,7 +263,7 @@ msgstr ""
 #: ../../BOK.rst:83
 msgid ""
 "You may pay |mana_x| rather than pay the mana cost for Samurai spells you "
-"cast, where X is that spell's converted mana cost."
+"cast, where X is that spell's mana value."
 msgstr ""
 
 #: ../../BOK.rst:88
@@ -310,7 +310,7 @@ msgstr ""
 #: ../../BOK.rst:97
 msgid ""
 "Soulshift 3 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 3 or less from your graveyard to your hand.)"
+"mana value 3 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:108
@@ -380,7 +380,7 @@ msgstr ""
 msgid ""
 "Exile target enchantment. Search its controller's graveyard, hand, and "
 "library for all cards with the same name as that enchantment and exile them. "
-"Then that player shuffles their library."
+"Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:130
@@ -391,10 +391,16 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:127
+#, fuzzy
+#| msgid ""
+#| "You may exile a blue card with converted mana cost X from your hand "
+#| "rather than pay this spell's mana cost."
 msgid ""
-"You may exile a white card with converted mana cost X from your hand rather "
-"than pay this spell's mana cost."
+"You may exile a white card with mana value X from your hand rather than pay "
+"this spell's mana cost."
 msgstr ""
+"Zamiast płacić koszt many tego czaru możesz wygnać z twojej ręki niebieską "
+"kartę o skrócie many X."
 
 #: ../../BOK.rst:129
 msgid ""
@@ -449,8 +455,8 @@ msgstr ""
 #: ../../BOK.rst:149
 msgid ""
 "Whenever you cast a Spirit or Arcane spell, you may search your library for "
-"an Aura card with enchant creature, reveal it, and put it into your hand. If "
-"you do, shuffle your library."
+"an Aura card with enchant creature, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
 
 #: ../../BOK.rst:154
@@ -461,9 +467,13 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:153
+#, fuzzy
+#| msgid ""
+#| "Destroy target artifact or enchantment. You gain life equal to its "
+#| "converted mana cost."
 msgid ""
-"Destroy target artifact or enchantment. You gain life equal to its converted "
-"mana cost."
+"Destroy target artifact or enchantment. You gain life equal to its mana "
+"value."
 msgstr ""
 "Zniszcz wskazany artefakt lub urok. Zyskaj życia równe jego skrótowi many."
 
@@ -583,15 +593,21 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:193
+#, fuzzy
+#| msgid ""
+#| "You may exile a blue card with converted mana cost X from your hand "
+#| "rather than pay this spell's mana cost."
 msgid ""
-"You may exile a blue card with converted mana cost X from your hand rather "
-"than pay this spell's mana cost."
+"You may exile a blue card with mana value X from your hand rather than pay "
+"this spell's mana cost."
 msgstr ""
 "Zamiast płacić koszt many tego czaru możesz wygnać z twojej ręki niebieską "
 "kartę o skrócie many X."
 
 #: ../../BOK.rst:195
-msgid "Counter target spell if its converted mana cost is X."
+#, fuzzy
+#| msgid "Counter target spell if its converted mana cost is X."
+msgid "Counter target spell if its mana value is X."
 msgstr "Skontruj wskazany czar jeśli jego skrót many to X."
 
 #: ../../BOK.rst:202
@@ -637,8 +653,7 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:213
-msgid ""
-"Mill a card, then draw cards equal to the milled card's converted mana cost."
+msgid "Mill a card, then draw cards equal to the milled card's mana value."
 msgstr ""
 
 #: ../../BOK.rst:222
@@ -658,8 +673,8 @@ msgstr ""
 #: ../../BOK.rst:219
 msgid ""
 "Whenever Higure, the Still Wind deals combat damage to a player, you may "
-"search your library for a Ninja card, reveal it, and put it into your hand. "
-"If you do, shuffle your library."
+"search your library for a Ninja card, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
 
 #: ../../BOK.rst:221
@@ -829,7 +844,7 @@ msgstr ""
 msgid ""
 "Counter target instant or sorcery spell. Search its controller's graveyard, "
 "hand, and library for all cards with the same name as that spell and exile "
-"them. Then that player shuffles their library."
+"them. Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:286
@@ -848,7 +863,7 @@ msgstr ""
 #: ../../BOK.rst:285
 msgid ""
 "|mana_1|, |tap|, Remove X ki counters from Quillmane Baku: Return target "
-"creature with converted mana cost X or less to its owner's hand."
+"creature with mana value X or less to its owner's hand."
 msgstr ""
 
 #: ../../BOK.rst:290
@@ -946,7 +961,9 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:321
-msgid "Enchant creature with converted mana cost 2 or less"
+#, fuzzy
+#| msgid "Enchant creature with converted mana cost 2 or less"
+msgid "Enchant creature with mana value 2 or less"
 msgstr "Zaurocz stwora o skrócie many 2 lub mniejszym"
 
 #: ../../BOK.rst:323 ../../BOK.rst:427
@@ -1023,7 +1040,7 @@ msgstr ""
 #: ../../BOK.rst:345
 msgid ""
 "|mana_1|\\ |mana_u|: Return target Ninja you control to its owner's hand. "
-"Activate this ability only during your turn."
+"Activate only during your turn."
 msgstr ""
 
 #: ../../BOK.rst:350
@@ -1087,7 +1104,7 @@ msgstr ""
 #: ../../BOK.rst:371
 msgid ""
 "Soulshift 5 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 5 or less from your graveyard to your hand.)"
+"mana value 5 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:376
@@ -1101,7 +1118,7 @@ msgstr ""
 msgid ""
 "Exile target nonblack creature. Search its controller's graveyard, hand, and "
 "library for all cards with the same name as that creature and exile them. "
-"Then that player shuffles their library."
+"Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:384
@@ -1402,10 +1419,16 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:471
+#, fuzzy
+#| msgid ""
+#| "You may exile a blue card with converted mana cost X from your hand "
+#| "rather than pay this spell's mana cost."
 msgid ""
-"You may exile a black card with converted mana cost X from your hand rather "
-"than pay this spell's mana cost."
+"You may exile a black card with mana value X from your hand rather than pay "
+"this spell's mana cost."
 msgstr ""
+"Zamiast płacić koszt many tego czaru możesz wygnać z twojej ręki niebieską "
+"kartę o skrócie many X."
 
 #: ../../BOK.rst:473
 msgid "Target creature gets -X/-X until end of turn."
@@ -1458,9 +1481,13 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:489
+#, fuzzy
+#| msgid ""
+#| "Return target creature card with converted mana cost X or less from your "
+#| "graveyard to the battlefield."
 msgid ""
-"Return target creature card with converted mana cost X or less from your "
-"graveyard to the battlefield."
+"Return target creature card with mana value X or less from your graveyard to "
+"the battlefield."
 msgstr ""
 "Przywróć wskazaną kartę stwora o skrócie many X lub mniejszym z twojego "
 "cmentarza na pole bitwy."
@@ -1615,10 +1642,16 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:541
+#, fuzzy
+#| msgid ""
+#| "You may exile a green card with converted mana cost X from your hand "
+#| "rather than pay this spell's mana cost."
 msgid ""
-"You may exile a red card with converted mana cost X from your hand rather "
-"than pay this spell's mana cost."
+"You may exile a red card with mana value X from your hand rather than pay "
+"this spell's mana cost."
 msgstr ""
+"Możesz wygnać zieloną kartę o skrócie many X z twojej ręki zamiast płacić "
+"koszt many tego czaru."
 
 #: ../../BOK.rst:543
 msgid "Target creature gets +X/+0 until end of turn."
@@ -1959,7 +1992,7 @@ msgstr ""
 msgid ""
 "Exile target nonbasic land. Search its controller's graveyard, hand, and "
 "library for all cards with the same name as that land and exile them. Then "
-"that player shuffles their library."
+"that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:662
@@ -2011,7 +2044,7 @@ msgstr "Tratowanie"
 #: ../../BOK.rst:671
 msgid ""
 "Soulshift 8 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 8 or less from your graveyard to your hand.)"
+"mana value 8 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:678
@@ -2083,8 +2116,8 @@ msgstr ""
 #: ../../BOK.rst:695
 msgid ""
 "Soulshift 4, soulshift 4 (When this creature dies, you may return up to two "
-"target Spirit cards with converted mana cost 4 or less from your graveyard "
-"to your hand.)"
+"target Spirit cards with mana value 4 or less from your graveyard to your "
+"hand.)"
 msgstr ""
 
 #: ../../BOK.rst:704
@@ -2131,7 +2164,7 @@ msgstr ""
 #: ../../BOK.rst:713
 msgid ""
 "Soulshift 4 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 4 or less from your graveyard to your hand.)"
+"mana value 4 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:722
@@ -2187,7 +2220,7 @@ msgstr ""
 msgid ""
 "Kodama of the Center Tree has soulshift X, where X is the number of Spirits "
 "you control. (When this creature dies, you may return target Spirit card "
-"with converted mana cost X or less from your graveyard to your hand.)"
+"with mana value X or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:738
@@ -2211,7 +2244,7 @@ msgstr ""
 #: ../../BOK.rst:741
 msgid ""
 "|tap|, Sacrifice three Spirits: Search your library for a legendary Spirit "
-"permanent card and put it onto the battlefield. Then shuffle your library."
+"permanent card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BOK.rst:746
@@ -2267,9 +2300,13 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:761
+#, fuzzy
+#| msgid ""
+#| "You may exile a green card with converted mana cost X from your hand "
+#| "rather than pay this spell's mana cost."
 msgid ""
-"You may exile a green card with converted mana cost X from your hand rather "
-"than pay this spell's mana cost."
+"You may exile a green card with mana value X from your hand rather than pay "
+"this spell's mana cost."
 msgstr ""
 "Możesz wygnać zieloną kartę o skrócie many X z twojej ręki zamiast płacić "
 "koszt many tego czaru."
@@ -2294,8 +2331,8 @@ msgstr ""
 
 #: ../../BOK.rst:769
 msgid ""
-"|tap|: Untap all Forests and all green creatures. Activate this ability only "
-"once each turn."
+"|tap|: Untap all Forests and all green creatures. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../BOK.rst:776
@@ -2424,7 +2461,7 @@ msgstr ""
 msgid ""
 "Exile target artifact. Search its controller's graveyard, hand, and library "
 "for all cards with the same name as that artifact and exile them. Then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:814
@@ -2678,7 +2715,7 @@ msgstr ""
 msgid ""
 "|mana_2|, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X "
 "Cat artifact creature until end of turn, where X is the discarded card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../BOK.rst:898

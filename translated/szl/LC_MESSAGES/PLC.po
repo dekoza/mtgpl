@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -61,12 +61,7 @@ msgid ""
 msgstr ""
 
 #: ../../PLC.rst:19
-msgid ""
-"Suspend X—|mana_x|\\ |mana_w|\\ |mana_w|. X can't be 0. (Rather than cast "
-"this card from your hand, you may pay |mana_x|\\ |mana_w|\\ |mana_w| and "
-"exile it with X time counters on it. At the beginning of your upkeep, remove "
-"a time counter. When the last is removed, cast it without paying its mana "
-"cost. It has haste.)"
+msgid "Suspend X—|mana_x|\\ |mana_w|\\ |mana_w|. X can't be 0."
 msgstr ""
 
 #: ../../PLC.rst:21
@@ -125,8 +120,7 @@ msgid ""
 "https://scryfall.com/card/plc/5/dust-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../PLC.rst:43 ../../PLC.rst:65 ../../PLC.rst:121 ../../PLC.rst:149
-#: ../../PLC.rst:445 ../../PLC.rst:631
+#: ../../PLC.rst:43 ../../PLC.rst:65
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
@@ -238,7 +232,10 @@ msgid ""
 msgstr ""
 
 #: ../../PLC.rst:81
-msgid "All Slivers have \"|mana_2|, |tap|: Regenerate target Sliver.\""
+msgid ""
+"All Slivers have \"|mana_2|, |tap|: Regenerate target Sliver.\" (The next "
+"time that Sliver would be destroyed, instead tap it, remove it from combat, "
+"and heal all damage on it.)"
 msgstr ""
 
 #: ../../PLC.rst:86
@@ -280,12 +277,7 @@ msgid ""
 msgstr ""
 
 #: ../../PLC.rst:95
-msgid ""
-"Suspend 3—|mana_1|\\ |mana_w|\\ |mana_w| (Rather than cast this card from "
-"your hand, you may pay |mana_1|\\ |mana_w|\\ |mana_w| and exile it with "
-"three time counters on it. At the beginning of your upkeep, remove a time "
-"counter. When the last is removed, cast it without paying its mana cost. It "
-"has haste.)"
+msgid "Suspend 3—|mana_1|\\ |mana_w|\\ |mana_w|"
 msgstr ""
 
 #: ../../PLC.rst:97
@@ -354,6 +346,10 @@ msgid ""
 ":mtgtip:`Stonecloaker<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f7b11cec-de85-4289-a7b4-e8bfdf655130.jpg?1562586111|"
 "https://scryfall.com/card/plc/19/stonecloaker?utm_source=api>`"
+msgstr ""
+
+#: ../../PLC.rst:121 ../../PLC.rst:149 ../../PLC.rst:445 ../../PLC.rst:631
+msgid "Flash"
 msgstr ""
 
 #: ../../PLC.rst:125
@@ -557,12 +553,7 @@ msgid ""
 msgstr ""
 
 #: ../../PLC.rst:203
-msgid ""
-"Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0. (Rather than cast "
-"this card from your hand, you may pay |mana_x|\\ |mana_3|\\ |mana_u| and "
-"exile it with X time counters on it. At the beginning of your upkeep, remove "
-"a time counter. When the last is removed, cast it without paying its mana "
-"cost. It has haste.)"
+msgid "Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0."
 msgstr ""
 
 #: ../../PLC.rst:205
@@ -652,8 +643,7 @@ msgstr ""
 msgid ""
 "For each tapped nonland permanent target opponent controls, search that "
 "player's library for a card with the same name as that permanent. Put those "
-"cards onto the battlefield under your control, then that player shuffles "
-"their library."
+"cards onto the battlefield under your control, then that player shuffles."
 msgstr ""
 
 #: ../../PLC.rst:239
@@ -686,7 +676,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|, Discard a card, Sacrifice a land: Search your "
 "library for up to two basic land cards, put them onto the battlefield, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../PLC.rst:252
@@ -700,8 +690,8 @@ msgstr ""
 msgid ""
 "Choose target creature. Reveal cards from the top of your library until you "
 "reveal a nonland card. That creature gets +X/-X until end of turn, where X "
-"is that card's converted mana cost. Put all cards revealed this way on the "
-"bottom of your library in any order."
+"is that card's mana value. Put all cards revealed this way on the bottom of "
+"your library in any order."
 msgstr ""
 
 #: ../../PLC.rst:256
@@ -791,7 +781,7 @@ msgid ""
 "Counter target instant or sorcery spell. Its controller reveals cards from "
 "the top of their library until they reveal an instant or sorcery card. That "
 "player may cast that card without paying its mana cost. Then the player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../PLC.rst:286
@@ -837,10 +827,8 @@ msgid ""
 "scryfall.com/card/plc/50/timebender?utm_source=api>`"
 msgstr ""
 
-#: ../../PLC.rst:297 ../../PLC.rst:355
-msgid ""
-"Morph |mana_u| (You may cast this card face down as a 2/2 creature for |"
-"mana_3|. Turn it face up any time for its morph cost.)"
+#: ../../PLC.rst:297
+msgid "Morph |mana_u|"
 msgstr ""
 
 #: ../../PLC.rst:299
@@ -887,8 +875,8 @@ msgstr ""
 
 #: ../../PLC.rst:313
 msgid ""
-"Target player reveals their hand. You choose a nonland card with converted "
-"mana cost X or less from it. That player discards that card."
+"Target player reveals their hand. You choose a nonland card with mana value "
+"X or less from it. That player discards that card."
 msgstr ""
 
 #: ../../PLC.rst:318
@@ -999,6 +987,12 @@ msgid ""
 "discards a card."
 msgstr ""
 
+#: ../../PLC.rst:355
+msgid ""
+"Morph |mana_u| (You may cast this card face down as a 2/2 creature for |"
+"mana_3|. Turn it face up any time for its morph cost.)"
+msgstr ""
+
 #: ../../PLC.rst:360
 msgid ""
 ":mtgtip:`Serendib Sorcerer<https://c1.scryfall.com/file/scryfall-cards/"
@@ -1055,9 +1049,8 @@ msgstr ""
 
 #: ../../PLC.rst:375
 msgid ""
-"|mana_4|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_4|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../PLC.rst:382
@@ -1174,7 +1167,7 @@ msgstr ""
 msgid ""
 "Choose target card in a graveyard other than a basic land card. Search its "
 "owner's graveyard, hand, and library for all cards with the same name as "
-"that card and exile them. Then that player shuffles their library."
+"that card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../PLC.rst:422
@@ -1187,7 +1180,7 @@ msgstr ""
 #: ../../PLC.rst:421
 msgid ""
 "Change the target of target spell with a single target. You lose life equal "
-"to that spell's converted mana cost."
+"to that spell's mana value."
 msgstr ""
 
 #: ../../PLC.rst:426
@@ -1714,7 +1707,7 @@ msgid ""
 msgstr ""
 
 #: ../../PLC.rst:615
-msgid "Reach (This creature can block creatures with flying.)"
+msgid "Reach"
 msgstr ""
 
 #: ../../PLC.rst:622
@@ -2090,7 +2083,7 @@ msgstr ""
 #: ../../PLC.rst:757
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../PLC.rst:759
@@ -2160,7 +2153,7 @@ msgstr ""
 #: ../../PLC.rst:781
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../PLC.rst:783
@@ -2211,7 +2204,8 @@ msgstr ""
 #: ../../PLC.rst:799
 msgid ""
 "All Forests and all Saprolings are 1/1 green Saproling creatures and Forest "
-"lands in addition to their other types."
+"lands in addition to their other types. (They're affected by summoning "
+"sickness.)"
 msgstr ""
 
 #: ../../PLC.rst:806
@@ -2227,8 +2221,7 @@ msgstr ""
 
 #: ../../PLC.rst:805
 msgid ""
-"|tap|: Draw a card. Activate this ability only if you have exactly seven "
-"cards in hand."
+"|tap|: Draw a card. Activate only if you have exactly seven cards in hand."
 msgstr ""
 
 #: ../../PLC.rst:812
@@ -2245,7 +2238,9 @@ msgid ""
 msgstr ""
 
 #: ../../PLC.rst:811
-msgid "|mana_g|: Regenerate Mire Boa."
+msgid ""
+"|mana_g|: Regenerate Mire Boa. (The next time this creature would be "
+"destroyed, instead tap it, remove it from combat, and heal all damage on it.)"
 msgstr ""
 
 #: ../../PLC.rst:818
@@ -2395,8 +2390,7 @@ msgstr ""
 msgid ""
 "Whenever a creature enters the battlefield, if you cast it from your hand, "
 "you may search your library for a creature card with the same total power "
-"and toughness and put it onto the battlefield. If you do, shuffle your "
-"library."
+"and toughness, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../PLC.rst:872

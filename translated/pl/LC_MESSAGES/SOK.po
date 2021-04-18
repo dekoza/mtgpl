@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sok/pl/>\n"
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../SOK.rst:25
 msgid ""
 "Whenever you cast a Spirit or Arcane spell, destroy all permanents with that "
-"spell's converted mana cost."
+"spell's mana value."
 msgstr ""
 
 #: ../../SOK.rst:30
@@ -166,8 +166,8 @@ msgstr ""
 
 #: ../../SOK.rst:57
 msgid ""
-"Search your library for an enchantment card and put it onto the battlefield. "
-"Then shuffle your library."
+"Search your library for an enchantment card, put it onto the battlefield, "
+"then shuffle."
 msgstr ""
 
 #: ../../SOK.rst:59 ../../SOK.rst:685
@@ -256,8 +256,7 @@ msgstr ""
 #: ../../SOK.rst:87
 msgid ""
 "|tap|: Prevent the next 3 damage that would be dealt to target creature this "
-"turn. Activate this ability only if you have more cards in hand than each "
-"opponent."
+"turn. Activate only if you have more cards in hand than each opponent."
 msgstr ""
 
 #: ../../SOK.rst:94
@@ -496,7 +495,7 @@ msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 #: ../../SOK.rst:169
 msgid ""
 "Soulshift 4 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 4 or less from your graveyard to your hand.)"
+"mana value 4 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../SOK.rst:176
@@ -509,7 +508,7 @@ msgstr ""
 #: ../../SOK.rst:175
 msgid ""
 "Whenever you cast a Spirit or Arcane spell, you may have target player mill "
-"X cards, where X is that spell's converted mana cost."
+"X cards, where X is that spell's mana value."
 msgstr ""
 
 #: ../../SOK.rst:180
@@ -586,7 +585,7 @@ msgstr ""
 msgid ""
 "Search target opponent's library for an artifact, creature, enchantment, or "
 "land card. Put that card onto the battlefield under your control. Then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 
 #: ../../SOK.rst:203 ../../SOK.rst:457 ../../SOK.rst:633
@@ -673,13 +672,13 @@ msgstr ""
 #: ../../SOK.rst:233
 msgid ""
 "When Kaho, Minamo Historian enters the battlefield, search your library for "
-"up to three instant cards and exile them. Then shuffle your library."
+"up to three instant cards, exile them, then shuffle."
 msgstr ""
 
 #: ../../SOK.rst:235
 msgid ""
-"|mana_x|, |tap|: You may cast a spell with converted mana cost X from among "
-"cards exiled with Kaho without paying its mana cost."
+"|mana_x|, |tap|: You may cast a spell with mana value X from among cards "
+"exiled with Kaho without paying its mana cost."
 msgstr ""
 
 #: ../../SOK.rst:240
@@ -816,8 +815,7 @@ msgstr ""
 
 #: ../../SOK.rst:285
 msgid ""
-"Counter target creature spell. Draw cards equal to that spell's converted "
-"mana cost."
+"Counter target creature spell. Draw cards equal to that spell's mana value."
 msgstr ""
 
 #: ../../SOK.rst:290
@@ -1038,7 +1036,7 @@ msgstr ""
 #: ../../SOK.rst:359
 msgid ""
 "Soulshift 1 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 1 or less from your graveyard to your hand.)"
+"mana value 1 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../SOK.rst:364
@@ -1063,7 +1061,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOK.rst:367
-msgid "Target player sacrifices a creature with converted mana cost 3 or less."
+msgid "Target player sacrifices a creature with mana value 3 or less."
 msgstr ""
 
 #: ../../SOK.rst:369
@@ -1094,16 +1092,21 @@ msgid ""
 msgstr ""
 
 #: ../../SOK.rst:377
+#, fuzzy
+#| msgid ""
+#| "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip "
+#| "only as a sorcery.)"
 msgid ""
-"|mana_4|\\ |mana_b|, |tap|: Target player discards two cards. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_4|\\ |mana_b|, |tap|: Target player discards two cards. Activate only "
+"as a sorcery."
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj jako obrzęd.)"
 
 #: ../../SOK.rst:379
 msgid ""
 "Channel — |mana_5|\\ |mana_b|\\ |mana_b|, Discard Ghost-Lit Stalker: Target "
-"player discards four cards. Activate this ability only any time you could "
-"cast a sorcery."
+"player discards four cards. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOK.rst:384
@@ -1138,7 +1141,7 @@ msgstr ""
 #: ../../SOK.rst:395
 msgid ""
 "Whenever you cast a Spirit or Arcane spell, target player reveals their hand "
-"and discards all cards with that spell's converted mana cost."
+"and discards all cards with that spell's mana value."
 msgstr ""
 
 #: ../../SOK.rst:402
@@ -1183,7 +1186,7 @@ msgstr ""
 #: ../../SOK.rst:411 ../../SOK.rst:711
 msgid ""
 "Soulshift 3 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 3 or less from your graveyard to your hand.)"
+"mana value 3 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../SOK.rst:418
@@ -1311,7 +1314,7 @@ msgstr ""
 #: ../../SOK.rst:455
 msgid ""
 "Search target player's library for X cards, where X is the number of cards "
-"in your hand, and exile them. Then that player shuffles their library."
+"in your hand, and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../SOK.rst:462
@@ -1735,7 +1738,7 @@ msgstr ""
 #: ../../SOK.rst:603
 msgid ""
 "Whenever you cast a Spirit or Arcane spell, you may gain control of target "
-"creature with that spell's converted mana cost until end of turn."
+"creature with that spell's mana value until end of turn."
 msgstr ""
 
 #: ../../SOK.rst:610
@@ -1810,8 +1813,7 @@ msgstr ""
 #: ../../SOK.rst:631
 msgid ""
 "Exile cards from the top of your library until you exile a nonland card. "
-"Undying Flames deals damage to any target equal to that card's converted "
-"mana cost."
+"Undying Flames deals damage to any target equal to that card's mana value."
 msgstr ""
 
 #: ../../SOK.rst:640
@@ -1875,7 +1877,7 @@ msgstr ""
 #: ../../SOK.rst:655
 msgid ""
 "Whenever you cast a Spirit or Arcane spell, you may gain life equal to that "
-"spell's converted mana cost."
+"spell's mana value."
 msgstr ""
 
 #: ../../SOK.rst:660
@@ -1944,7 +1946,7 @@ msgstr ""
 #: ../../SOK.rst:679
 msgid ""
 "Soulshift 2 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 2 or less from your graveyard to your hand.)"
+"mana value 2 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../SOK.rst:686
@@ -2104,7 +2106,7 @@ msgstr ""
 #: ../../SOK.rst:735
 msgid ""
 "Soulshift 5 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 5 or less from your graveyard to your hand.)"
+"mana value 5 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../SOK.rst:740
@@ -2130,7 +2132,7 @@ msgstr ""
 #: ../../SOK.rst:743
 msgid ""
 "Soulshift 7 (When this creature dies, you may return target Spirit card with "
-"converted mana cost 7 or less from your graveyard to your hand.)"
+"mana value 7 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../SOK.rst:748
@@ -2154,8 +2156,8 @@ msgstr ""
 
 #: ../../SOK.rst:751
 msgid ""
-"Destroy target artifact or enchantment if its converted mana cost is less "
-"than or equal to the number of cards in your hand."
+"Destroy target artifact or enchantment if its mana value is less than or "
+"equal to the number of cards in your hand."
 msgstr ""
 
 #: ../../SOK.rst:758
@@ -2219,9 +2221,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOK.rst:773
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to three basic land cards, reveal them, and "
+#| "put them into your hand. Then shuffle your library."
 msgid ""
-"Search your library for up to three basic land cards, reveal them, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to three basic land cards, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece do trzech kart bazowych lądów, ujawnij je i "
 "umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
@@ -2297,7 +2303,7 @@ msgstr ""
 msgid ""
 "When Iname as One enters the battlefield, if you cast it from your hand, you "
 "may search your library for a Spirit permanent card, put it onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../SOK.rst:799

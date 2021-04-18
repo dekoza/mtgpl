@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 11:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
@@ -282,10 +282,15 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:93
+#, fuzzy
+#| msgid ""
+#| "When Razor Hippogriff enters the battlefield, return target artifact card "
+#| "from your graveyard to your hand. You gain life equal to that card's "
+#| "converted mana cost."
 msgid ""
 "When Razor Hippogriff enters the battlefield, return target artifact card "
-"from your graveyard to your hand. You gain life equal to that card's "
-"converted mana cost."
+"from your graveyard to your hand. You gain life equal to that card's mana "
+"value."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki. Zyskaj tyle żyć, ile wynosi skrót many "
@@ -415,10 +420,15 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:141
+#, fuzzy
+#| msgid ""
+#| "Metalcraft — |mana_u|: Exile Argent Sphinx. Return it to the battlefield "
+#| "under your control at the beginning of the next end step. Activate this "
+#| "ability only if you control three or more artifacts."
 msgid ""
 "Metalcraft — |mana_u|: Exile Argent Sphinx. Return it to the battlefield "
-"under your control at the beginning of the next end step. Activate this "
-"ability only if you control three or more artifacts."
+"under your control at the beginning of the next end step. Activate only if "
+"you control three or more artifacts."
 msgstr ""
 "Metalurgia — |mana_u|: Wygnaj tego stwora. Przywróć go na pole bitwy pod "
 "twoim władaniem na początku najbliższego kroku końcowego. Możesz aktywować "
@@ -707,10 +717,15 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:247
+#, fuzzy
+#| msgid ""
+#| "When Trinket Mage enters the battlefield, you may search your library for "
+#| "an artifact card with converted mana cost 1 or less, reveal that card, "
+#| "and put it into your hand. If you do, shuffle your library."
 msgid ""
 "When Trinket Mage enters the battlefield, you may search your library for an "
-"artifact card with converted mana cost 1 or less, reveal that card, and put "
-"it into your hand. If you do, shuffle your library."
+"artifact card with mana value 1 or less, reveal that card, put it into your "
+"hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
@@ -757,10 +772,16 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:265
+#, fuzzy
+#| msgid ""
+#| "Metalcraft — |tap|: Add one mana of any color. Activate this ability only "
+#| "if you control three or more artifacts."
 msgid ""
-"Metalcraft — |tap|: Tap target artifact, creature, or land. Activate this "
-"ability only if you control three or more artifacts."
+"Metalcraft — |tap|: Tap target artifact, creature, or land. Activate only if "
+"you control three or more artifacts."
 msgstr ""
+"Metalurgia — |tap|: Weź jedną manę dowolnego koloru. Możesz aktywować tylko "
+"jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../SOM.rst:274
 msgid ""
@@ -940,10 +961,15 @@ msgstr ""
 "artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../SOM.rst:329
+#, fuzzy
+#| msgid ""
+#| "|mana_x|\\ |mana_b|: Put target artifact or creature card with converted "
+#| "mana cost X from an opponent's graveyard onto the battlefield under your "
+#| "control tapped. Then that player mills X cards."
 msgid ""
-"|mana_x|\\ |mana_b|: Put target artifact or creature card with converted "
-"mana cost X from an opponent's graveyard onto the battlefield under your "
-"control tapped. Then that player mills X cards."
+"|mana_x|\\ |mana_b|: Put target artifact or creature card with mana value X "
+"from an opponent's graveyard onto the battlefield under your control tapped. "
+"Then that player mills X cards."
 msgstr ""
 "|mana_x|\\ |mana_b|: Umieść wskazaną kartę artefaktu lub stwora o skrócie "
 "many X z cmentarza przeciwnika przekręconą na pole bitwy pod twoim "
@@ -1008,10 +1034,15 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:357
+#, fuzzy
+#| msgid ""
+#| "Choose a nonland card name. Search target player's graveyard, hand, and "
+#| "library for any number of cards with that name and exile them. Then that "
+#| "player shuffles their library."
 msgid ""
 "Choose a nonland card name. Search target player's graveyard, hand, and "
 "library for any number of cards with that name and exile them. Then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 "Nazwij nie-lądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "gracza dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
@@ -1216,9 +1247,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:433
+#, fuzzy
+#| msgid ""
+#| "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this "
+#| "ability only if Bloodshot Trainee's power is 4 or greater."
 msgid ""
-"|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this "
-"ability only if Bloodshot Trainee's power is 4 or greater."
+"|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if "
+"Bloodshot Trainee's power is 4 or greater."
 msgstr ""
 "|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować tę "
 "zdolność tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
@@ -1233,9 +1268,9 @@ msgstr ""
 #: ../../SOM.rst:437
 msgid ""
 "Target opponent reveals the top card of their library. Cerebral Eruption "
-"deals damage equal to the revealed card's converted mana cost to that player "
-"and each creature that player controls. If a land card is revealed this way, "
-"return Cerebral Eruption to its owner's hand."
+"deals damage equal to the revealed card's mana value to that player and each "
+"creature that player controls. If a land card is revealed this way, return "
+"Cerebral Eruption to its owner's hand."
 msgstr ""
 
 #: ../../SOM.rst:442
@@ -1333,7 +1368,7 @@ msgstr ""
 #: ../../SOM.rst:473
 msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
-"+0 until end of turn, where X is that artifact's converted mana cost."
+"+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
 
 #: ../../SOM.rst:482
@@ -1371,11 +1406,17 @@ msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
 #: ../../SOM.rst:487
+#, fuzzy
+#| msgid ""
+#| "Metalcraft — |tap|: Add one mana of any color. Activate this ability only "
+#| "if you control three or more artifacts."
 msgid ""
 "Metalcraft — |mana_4|: Return Kuldotha Phoenix from your graveyard to the "
-"battlefield. Activate this ability only during your upkeep and only if you "
-"control three or more artifacts."
+"battlefield. Activate only during your upkeep and only if you control three "
+"or more artifacts."
 msgstr ""
+"Metalurgia — |tap|: Weź jedną manę dowolnego koloru. Możesz aktywować tylko "
+"jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../SOM.rst:494
 msgid ""
@@ -1724,11 +1765,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:611
+#, fuzzy
+#| msgid ""
+#| "Reveal the top X cards of your library. You may put any number of "
+#| "permanent cards with converted mana cost X or less from among them onto "
+#| "the battlefield. Then put all cards revealed this way that weren't put "
+#| "onto the battlefield into your graveyard."
 msgid ""
 "Reveal the top X cards of your library. You may put any number of permanent "
-"cards with converted mana cost X or less from among them onto the "
-"battlefield. Then put all cards revealed this way that weren't put onto the "
-"battlefield into your graveyard."
+"cards with mana value X or less from among them onto the battlefield. Then "
+"put all cards revealed this way that weren't put onto the battlefield into "
+"your graveyard."
 msgstr ""
 "Ujawnij X wierzchnich kart twojej biblioteki. Możesz spośród nich umieścić "
 "na polu bitwy dowolną liczbę kart permanentów o skrótach many X lub "
@@ -2410,11 +2457,16 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:859
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice three artifacts: Search your library for an artifact "
+#| "card and put it onto the battlefield. Then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Horizon Spellbomb: Search your library for a "
-"basic land card, reveal it, and put it into your hand. Then shuffle your "
-"library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
+"i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../SOM.rst:861
 msgid ""
@@ -2466,9 +2518,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:881
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice three artifacts: Search your library for an artifact "
+#| "card and put it onto the battlefield. Then shuffle your library."
 msgid ""
-"|tap|, Sacrifice three artifacts: Search your library for an artifact card "
-"and put it onto the battlefield. Then shuffle your library."
+"|tap|, Sacrifice three artifacts: Search your library for an artifact card, "
+"put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
 "i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
@@ -2613,9 +2669,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:931
+#, fuzzy
+#| msgid ""
+#| "Metalcraft — |tap|: Add one mana of any color. Activate this ability only "
+#| "if you control three or more artifacts."
 msgid ""
-"Metalcraft — |tap|: Add one mana of any color. Activate this ability only if "
-"you control three or more artifacts."
+"Metalcraft — |tap|: Add one mana of any color. Activate only if you control "
+"three or more artifacts."
 msgstr ""
 "Metalurgia — |tap|: Weź jedną manę dowolnego koloru. Możesz aktywować tylko "
 "jeśli władasz co najmniej trzema artefaktami."
@@ -2883,7 +2943,7 @@ msgstr ""
 #: ../../SOM.rst:1019
 msgid ""
 "|mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the "
-"converted mana cost of that card."
+"mana value of that card."
 msgstr ""
 
 #: ../../SOM.rst:1026
@@ -2898,9 +2958,14 @@ msgid "|tap|: Put a charge counter on Ratchet Bomb."
 msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:1025
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with "
+#| "converted mana cost equal to the number of charge counters on Ratchet "
+#| "Bomb."
 msgid ""
-"|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
-"mana cost equal to the number of charge counters on Ratchet Bomb."
+"|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana "
+"value equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
 "|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy permanent, o skrócie "
 "many równym liczbie znaczników ładunku na tym artefakcie."
@@ -3020,9 +3085,9 @@ msgstr ""
 
 #: ../../SOM.rst:1069
 msgid ""
-"|mana_x|: Destroy each nonland permanent with converted mana cost X whose "
-"controller was dealt combat damage by Steel Hellkite this turn. Activate "
-"this ability only once each turn."
+"|mana_x|: Destroy each nonland permanent with mana value X whose controller "
+"was dealt combat damage by Steel Hellkite this turn. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../SOM.rst:1078
@@ -3035,7 +3100,7 @@ msgstr ""
 #: ../../SOM.rst:1073
 msgid ""
 "Imprint — When Strata Scythe enters the battlefield, search your library for "
-"a land card, exile it, then shuffle your library."
+"a land card, exile it, then shuffle."
 msgstr ""
 
 #: ../../SOM.rst:1075

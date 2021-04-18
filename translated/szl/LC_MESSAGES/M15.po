@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -110,8 +110,7 @@ msgstr ""
 msgid ""
 "When Boonweaver Giant enters the battlefield, you may search your graveyard, "
 "hand, and/or library for an Aura card and put it onto the battlefield "
-"attached to Boonweaver Giant. If you search your library this way, shuffle "
-"it."
+"attached to Boonweaver Giant. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M15.rst:40
@@ -242,8 +241,7 @@ msgstr ""
 #: ../../M15.rst:81
 msgid ""
 "When Heliod's Pilgrim enters the battlefield, you may search your library "
-"for an Aura card, reveal it, put it into your hand, then shuffle your "
-"library."
+"for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M15.rst:90
@@ -439,8 +437,8 @@ msgstr ""
 
 #: ../../M15.rst:163
 msgid ""
-"Return X target creature cards with converted mana cost 2 or less from your "
-"graveyard to the battlefield."
+"Return X target creature cards with mana value 2 or less from your graveyard "
+"to the battlefield."
 msgstr ""
 
 #: ../../M15.rst:168
@@ -975,9 +973,9 @@ msgstr ""
 #: ../../M15.rst:359
 msgid ""
 "Whenever Master of Predicaments deals combat damage to a player, choose a "
-"card in your hand. That player guesses whether the card's converted mana "
-"cost is greater than 4. If the player guessed wrong, you may cast the card "
-"without paying its mana cost."
+"card in your hand. That player guesses whether the card's mana value is "
+"greater than 4. If the player guessed wrong, you may cast the card without "
+"paying its mana cost."
 msgstr ""
 
 #: ../../M15.rst:364
@@ -1449,8 +1447,7 @@ msgstr ""
 
 #: ../../M15.rst:539
 msgid ""
-"−2: Search your library for a card, then shuffle your library and put that "
-"card on top of it."
+"−2: Search your library for a card, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../M15.rst:541
@@ -1664,7 +1661,7 @@ msgstr ""
 msgid ""
 "Choose a nonland card name. Search target player's graveyard, hand, and "
 "library for any number of cards with that name and exile them. Then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 
 #: ../../M15.rst:622
@@ -1807,8 +1804,7 @@ msgid "You can't play lands."
 msgstr ""
 
 #: ../../M15.rst:671
-msgid ""
-"Sacrifice a land: Draw two cards. Activate this ability only once each turn."
+msgid "Sacrifice a land: Draw two cards. Activate only once each turn."
 msgstr ""
 
 #: ../../M15.rst:676
@@ -2114,7 +2110,7 @@ msgstr ""
 #: ../../M15.rst:777
 msgid ""
 "When Hoarding Dragon enters the battlefield, you may search your library for "
-"an artifact card, exile it, then shuffle your library."
+"an artifact card, exile it, then shuffle."
 msgstr ""
 
 #: ../../M15.rst:779
@@ -2439,8 +2435,8 @@ msgstr ""
 
 #: ../../M15.rst:895
 msgid ""
-"Search your library for a creature card with converted mana cost X or less "
-"and put it onto the battlefield. Then shuffle your library."
+"Search your library for a creature card with mana value X or less, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../M15.rst:900
@@ -2486,8 +2482,8 @@ msgstr ""
 #: ../../M15.rst:915
 msgid ""
 "When you cast this spell, reveal the top X cards of your library. You may "
-"put a nonland permanent card with converted mana cost X or less from among "
-"them onto the battlefield. Then shuffle the rest into your library."
+"put a nonland permanent card with mana value X or less from among them onto "
+"the battlefield. Then shuffle the rest into your library."
 msgstr ""
 
 #: ../../M15.rst:917
@@ -2657,8 +2653,8 @@ msgstr ""
 #: ../../M15.rst:979
 msgid ""
 "−7: Search your library for any number of basic land cards, put them onto "
-"the battlefield, then shuffle your library. Those lands become 4/4 Elemental "
-"creatures with trample. They're still lands."
+"the battlefield, then shuffle. Those lands become 4/4 Elemental creatures "
+"with trample. They're still lands."
 msgstr ""
 
 #: ../../M15.rst:986
@@ -2671,7 +2667,7 @@ msgstr ""
 #: ../../M15.rst:985
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M15.rst:992
@@ -2950,9 +2946,8 @@ msgstr ""
 #: ../../M15.rst:1091
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Bard: "
-"Search your library for a creature card with converted mana cost equal to "
-"the number of verse counters on Yisan, put it onto the battlefield, then "
-"shuffle your library."
+"Search your library for a creature card with mana value equal to the number "
+"of verse counters on Yisan, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../M15.rst:1102
@@ -3108,8 +3103,8 @@ msgstr ""
 #: ../../M15.rst:1147
 msgid ""
 "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit "
-"artifact creature that's no longer an Equipment. Activate this ability only "
-"if you control no creatures."
+"artifact creature that's no longer an Equipment. Activate only if you "
+"control no creatures."
 msgstr ""
 
 #: ../../M15.rst:1158
@@ -3444,7 +3439,7 @@ msgstr ""
 #: ../../M15.rst:1279
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M15.rst:1286
@@ -3495,8 +3490,8 @@ msgstr ""
 
 #: ../../M15.rst:1305
 msgid ""
-"|mana_5|, |tap|: Create a 1/1 colorless Sliver creature token. Activate this "
-"ability only if you control a Sliver."
+"|mana_5|, |tap|: Create a 1/1 colorless Sliver creature token. Activate only "
+"if you control a Sliver."
 msgstr ""
 
 #: ../../M15.rst:1310

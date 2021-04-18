@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/inv/pl/>\n"
@@ -452,8 +452,8 @@ msgstr ""
 #: ../../INV.rst:147
 msgid ""
 "Whenever a player casts a creature spell, destroy all Reflections. Then that "
-"player creates an X/X white Reflection creature token, where X is the "
-"converted mana cost of that spell."
+"player creates an X/X white Reflection creature token, where X is the mana "
+"value of that spell."
 msgstr ""
 
 #: ../../INV.rst:152
@@ -935,8 +935,7 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:319
-msgid ""
-"Search your library for three cards, exile them, then shuffle your library."
+msgid "Search your library for three cards, exile them, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:328
@@ -948,9 +947,9 @@ msgstr ""
 
 #: ../../INV.rst:327
 msgid ""
-"|mana_x|\\ |mana_u|: You may put a creature card with converted mana cost X "
-"from your hand onto the battlefield. If you do, return Metathran Aerostat to "
-"its owner's hand."
+"|mana_x|\\ |mana_u|: You may put a creature card with mana value X from your "
+"hand onto the battlefield. If you do, return Metathran Aerostat to its "
+"owner's hand."
 msgstr ""
 
 #: ../../INV.rst:336
@@ -987,12 +986,8 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:343
-msgid ""
-"Scry 1. (Look at the top card of your library. You may put that card on the "
-"bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
 
 #: ../../INV.rst:354
 msgid ""
@@ -1040,10 +1035,14 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:365
+#, fuzzy
+#| msgid ""
+#| "Counter target spell if its converted mana cost is 2 or less. If this "
+#| "spell was kicked, counter that spell if its converted mana cost is 4 or "
+#| "less instead."
 msgid ""
-"Counter target spell if its converted mana cost is 2 or less. If this spell "
-"was kicked, counter that spell if its converted mana cost is 4 or less "
-"instead."
+"Counter target spell if its mana value is 2 or less. If this spell was "
+"kicked, counter that spell if its mana value is 4 or less instead."
 msgstr ""
 "Skontruj wskazany czar jeśli jego skrót many to 2 lub mniej. Jeśli niniejszy "
 "czar został podbity, zamiast tego skontruj ów czar jeśli jego skrót many to "
@@ -1059,11 +1058,10 @@ msgstr ""
 #: ../../INV.rst:369
 msgid ""
 "Whenever a player chooses one or more targets, each player reveals the top "
-"card of their library. The player who reveals the card with the highest "
-"converted mana cost may change the target or targets. If two or more cards "
-"are tied for highest cost, the target or targets remain unchanged. Changing "
-"targets this way doesn't trigger abilities of permanents named Psychic "
-"Battle."
+"card of their library. The player who reveals the card with the highest mana "
+"value may change the target or targets. If two or more cards are tied for "
+"highest, the target or targets remain unchanged. Changing targets this way "
+"doesn't trigger abilities of permanents named Psychic Battle."
 msgstr ""
 
 #: ../../INV.rst:376
@@ -1150,8 +1148,8 @@ msgid ""
 "|mana_2|: Target white or black creature gains flying until end of turn. (It "
 "can't be blocked except by creatures with flying or reach.)"
 msgstr ""
-"|mana_2|: Wskazany biały lub czarny stwór zyskuje do końca tury latanie. ("
-"Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
+"|mana_2|: Wskazany biały lub czarny stwór zyskuje do końca tury latanie. "
+"(Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../INV.rst:410
 msgid ""
@@ -1303,8 +1301,8 @@ msgstr ""
 
 #: ../../INV.rst:467
 msgid ""
-"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate only as "
+"a sorcery."
 msgstr ""
 
 #: ../../INV.rst:472
@@ -1731,8 +1729,8 @@ msgstr ""
 
 #: ../../INV.rst:631
 msgid ""
-"|mana_b|: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this "
-"ability no more than twice each turn."
+"|mana_b|: Phyrexian Battleflies gets +1/+0 until end of turn. Activate no "
+"more than twice each turn."
 msgstr ""
 
 #: ../../INV.rst:636
@@ -1743,11 +1741,17 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:635
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, you may return target creature card from "
+#| "your graveyard to the battlefield."
 msgid ""
 "When Phyrexian Delver enters the battlefield, return target creature card "
 "from your graveyard to the battlefield. You lose life equal to that card's "
-"converted mana cost."
+"mana value."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę "
+"stwora z twojego cmentarza na pole bitwy."
 
 #: ../../INV.rst:640
 msgid ""
@@ -2360,11 +2364,18 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:859
+#, fuzzy
+#| msgid ""
+#| "Counter target spell if its converted mana cost is 2 or less. If this "
+#| "spell was kicked, counter that spell if its converted mana cost is 4 or "
+#| "less instead."
 msgid ""
-"Destroy target artifact if its converted mana cost is 2 or less. If this "
-"spell was kicked, destroy that artifact if its converted mana cost is 5 or "
-"less instead."
+"Destroy target artifact if its mana value is 2 or less. If this spell was "
+"kicked, destroy that artifact if its mana value is 5 or less instead."
 msgstr ""
+"Skontruj wskazany czar jeśli jego skrót many to 2 lub mniej. Jeśli niniejszy "
+"czar został podbity, zamiast tego skontruj ów czar jeśli jego skrót many to "
+"4 lub mniej."
 
 #: ../../INV.rst:868
 msgid ""
@@ -2397,8 +2408,8 @@ msgid ""
 "|mana_2|: Target black or green creature gains haste until end of turn. (It "
 "can attack and |tap| this turn.)"
 msgstr ""
-"|mana_2|: Wskazany czarny lub zielony stwór zyskuje do końca tury pośpiech. ("
-"Może atakować i |tap| w tej turze.)"
+"|mana_2|: Wskazany czarny lub zielony stwór zyskuje do końca tury pośpiech. "
+"(Może atakować i |tap| w tej turze.)"
 
 #: ../../INV.rst:876
 msgid ""
@@ -2579,7 +2590,7 @@ msgstr "Wskazany stwór nie może blokować w tej turze."
 #: ../../INV.rst:942
 msgid ""
 ":mtgtip:`Tectonic Instability<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/4/0476cc6b-ecc6-44d6-9f44-a90d4ee85daa.jpg?1562895860|"
+"border_crop/front/0/4/0476cc6b-ecc6-44d6-9f44-a90d4ee85daa.jpg?1618485193|"
 "https://scryfall.com/card/inv/173/tectonic-instability?utm_source=api>`"
 msgstr ""
 
@@ -2729,11 +2740,17 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1009
+#, fuzzy
+#| msgid ""
+#| "|tap|: Search your library for a legendary card, reveal that card, and "
+#| "put it into your hand. Then shuffle your library."
 msgid ""
 "At the beginning of your upkeep, you may search your library for a basic "
-"land card, reveal that card, and put it into your hand. If you do, you skip "
-"your draw step this turn and shuffle your library."
+"land card, reveal that card, put it into your hand, then shuffle. If you do, "
+"you skip your draw step this turn."
 msgstr ""
+"|tap: Wyszukaj w twojej bibliotece legendarną kartę, ujawnij ją i umieść w "
+"twojej ręce. Następnie przetasuj twoją bibliotekę."
 
 #: ../../INV.rst:1014
 msgid ""
@@ -2796,10 +2813,16 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../INV.rst:1031
+#, fuzzy
+#| msgid ""
+#| "Destroy target land. Search your library for a basic land card and put "
+#| "that card onto the battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
+"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
+"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../INV.rst:1036
 msgid ""
@@ -3032,11 +3055,17 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1113
+#, fuzzy
+#| msgid ""
+#| "Destroy target land. Search your library for a basic land card and put "
+#| "that card onto the battlefield tapped. Then shuffle your library."
 msgid ""
 "When Quirion Trailblazer enters the battlefield, you may search your library "
-"for a basic land card and put that card onto the battlefield tapped. If you "
-"do, shuffle your library."
+"for a basic land card, put that card onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
+"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
+"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../INV.rst:1118
 msgid ""
@@ -3105,8 +3134,8 @@ msgstr ""
 
 #: ../../INV.rst:1135
 msgid ""
-"Search your library for any number of basic land cards. Reveal those cards, "
-"then shuffle your library and put them on top of it."
+"Search your library for any number of basic land cards, reveal those cards, "
+"then shuffle and put them on top."
 msgstr ""
 
 #: ../../INV.rst:1140
@@ -3392,7 +3421,7 @@ msgstr ""
 #: ../../INV.rst:1249
 msgid ""
 "Destroy target artifact. It can't be regenerated. Create X 1/1 green "
-"Saproling creature tokens, where X is that artifact's converted mana cost."
+"Saproling creature tokens, where X is that artifact's mana value."
 msgstr ""
 
 #: ../../INV.rst:1254
@@ -3405,7 +3434,7 @@ msgstr ""
 #: ../../INV.rst:1253
 msgid ""
 "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, "
-"where X is that enchantment's converted mana cost."
+"where X is that enchantment's mana value."
 msgstr ""
 
 #: ../../INV.rst:1258
@@ -3472,9 +3501,13 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1275
+#, fuzzy
+#| msgid ""
+#| "|tap|: Search your library for a legendary card, reveal that card, and "
+#| "put it into your hand. Then shuffle your library."
 msgid ""
-"|tap|: Search your library for a legendary card, reveal that card, and put "
-"it into your hand. Then shuffle your library."
+"|tap|: Search your library for a legendary card, reveal that card, put it "
+"into your hand, then shuffle."
 msgstr ""
 "|tap: Wyszukaj w twojej bibliotece legendarną kartę, ujawnij ją i umieść w "
 "twojej ręce. Następnie przetasuj twoją bibliotekę."
@@ -3627,9 +3660,13 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1333
+#, fuzzy
+#| msgid ""
+#| "Destroy target land. Search your library for a basic land card and put "
+#| "that card onto the battlefield tapped. Then shuffle your library."
 msgid ""
-"Destroy target land. Search your library for a basic land card and put that "
-"card onto the battlefield tapped. Then shuffle your library."
+"Destroy target land. Search your library for a basic land card, put that "
+"card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
 "umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
@@ -3735,7 +3772,7 @@ msgid ""
 "Target player reveals their hand, then you choose a card other than a basic "
 "land card from it. Search that player's graveyard, hand, and library for all "
 "cards with the same name as the chosen card and exile them. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../INV.rst:1376
@@ -3863,10 +3900,15 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1415
+#, fuzzy
+#| msgid ""
+#| "Reveal the top three cards of your library and put one of them into your "
+#| "hand. You gain life equal to that card's converted mana cost. Put all "
+#| "other cards revealed this way into your graveyard."
 msgid ""
 "Reveal the top three cards of your library and put one of them into your "
-"hand. You gain life equal to that card's converted mana cost. Put all other "
-"cards revealed this way into your graveyard."
+"hand. You gain life equal to that card's mana value. Put all other cards "
+"revealed this way into your graveyard."
 msgstr ""
 "Ujawnij trzy wierzchnie karty twojej biblioteki i umieść jedną z nich w "
 "twojej ręce. Zyskaj życia równe jej skrótowi many. Umieść pozostałe karty "
@@ -3940,8 +3982,7 @@ msgstr "Twoi przeciwnicy grają z ujawnionymi rękami."
 #: ../../INV.rst:1443
 msgid ""
 "Sacrifice Seer's Vision: Look at target player's hand and choose a card from "
-"it. That player discards that card. Activate this ability only any time you "
-"could cast a sorcery."
+"it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../INV.rst:1448
@@ -4012,7 +4053,7 @@ msgstr ""
 #: ../../INV.rst:1469
 msgid ""
 "Sacrifice Smoldering Tar: It deals 4 damage to target creature. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../INV.rst:1476
@@ -4060,8 +4101,7 @@ msgstr ""
 #: ../../INV.rst:1487
 msgid ""
 "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment "
-"card and reveal that card. Shuffle your library, then put the card on top of "
-"it."
+"card, reveal it, then shuffle and put the card on top."
 msgstr ""
 
 #: ../../INV.rst:1494
@@ -4175,10 +4215,15 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1531
+#, fuzzy
+#| msgid ""
+#| "Choose a number. Destroy all artifacts and creatures with converted mana "
+#| "cost equal to that number. Then target player reveals their hand and "
+#| "discards all nonland cards with converted mana cost equal to the number."
 msgid ""
-"Choose a number. Destroy all artifacts and creatures with converted mana "
-"cost equal to that number. Then target player reveals their hand and "
-"discards all nonland cards with converted mana cost equal to the number."
+"Choose a number. Destroy all artifacts and creatures with mana value equal "
+"to that number. Then target player reveals their hand and discards all "
+"nonland cards with mana value equal to the number."
 msgstr ""
 "Wybierz liczbę. Zniszcz wszystkie artefakty i stwory o skrótach many równych "
 "tej liczbie. Następnie wskazany gracz ujawnia swoją rękę i odrzuca wszystkie "
@@ -4483,9 +4528,13 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1645
+#, fuzzy
+#| msgid ""
+#| "|mana_6|, |tap|: Search your library for a card and put that card into "
+#| "your hand. Then shuffle your library."
 msgid ""
-"|mana_6|, |tap|: Search your library for a card and put that card into your "
-"hand. Then shuffle your library."
+"|mana_6|, |tap|: Search your library for a card, put that card into your "
+"hand, then shuffle."
 msgstr ""
 "|mana_6|, |tap|: Wyszukaj kartę w twojej bibliotece i umieść ją w twojej "
 "ręce, po czym przetasuj."
@@ -4844,3 +4893,10 @@ msgstr ""
 #: ../../INV.rst:1789
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid ""
+#~ "Scry 1. (Look at the top card of your library. You may put that card on "
+#~ "the bottom of your library.)"
+#~ msgstr ""
+#~ "Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją "
+#~ "na spodzie twojej biblioteki.)"

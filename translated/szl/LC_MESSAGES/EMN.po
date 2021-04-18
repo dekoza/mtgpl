@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,8 +30,7 @@ msgstr ""
 #: ../../EMN.rst:9
 msgid ""
 "Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:11
@@ -51,7 +50,7 @@ msgstr ""
 msgid ""
 "Emerge |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
-"converted mana cost.)"
+"mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:17
@@ -75,14 +74,14 @@ msgstr ""
 msgid ""
 "Emerge |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
-"converted mana cost.)"
+"mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:25
 msgid ""
 "When you cast this spell, target opponent reveals their hand. You choose "
-"from it a nonland card with converted mana cost 3 or less and a card with "
-"converted mana cost 4 or greater. That player discards those cards."
+"from it a nonland card with mana value 3 or less and a card with mana value "
+"4 or greater. That player discards those cards."
 msgstr ""
 
 #: ../../EMN.rst:34
@@ -99,8 +98,7 @@ msgstr ""
 #: ../../EMN.rst:31
 msgid ""
 "Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:33
@@ -125,7 +123,7 @@ msgstr ""
 msgid ""
 "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
-"converted mana cost.)"
+"mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:41
@@ -183,8 +181,7 @@ msgstr ""
 #: ../../EMN.rst:59
 msgid ""
 "Emerge |mana_6|\\ |mana_g| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:61
@@ -202,7 +199,7 @@ msgstr ""
 msgid ""
 "Emerge |mana_5|\\ |mana_g|\\ |mana_u| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
-"converted mana cost.)"
+"mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:67
@@ -221,8 +218,7 @@ msgstr ""
 #: ../../EMN.rst:71
 msgid ""
 "Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:73
@@ -240,8 +236,7 @@ msgstr ""
 #: ../../EMN.rst:77
 msgid ""
 "Emerge |mana_6|\\ |mana_u| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:79
@@ -260,8 +255,7 @@ msgstr ""
 #: ../../EMN.rst:83
 msgid ""
 "Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:85
@@ -364,7 +358,7 @@ msgid "Flying, first strike, vigilance, lifelink"
 msgstr ""
 
 #: ../../EMN.rst:123
-msgid "Your opponents can't cast spells with converted mana cost 3 or less."
+msgid "Your opponents can't cast spells with mana value 3 or less."
 msgstr ""
 
 #: ../../EMN.rst:132
@@ -870,8 +864,7 @@ msgstr ""
 #: ../../EMN.rst:305
 msgid ""
 "When Thalia's Lancers enters the battlefield, you may search your library "
-"for a legendary card, reveal it, put it into your hand, then shuffle your "
-"library."
+"for a legendary card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EMN.rst:310
@@ -986,7 +979,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../EMN.rst:343 ../../EMN.rst:415 ../../EMN.rst:451 ../../EMN.rst:721
+#: ../../EMN.rst:343 ../../EMN.rst:415 ../../EMN.rst:451
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
@@ -1629,8 +1622,7 @@ msgstr ""
 #: ../../EMN.rst:591
 msgid ""
 "When Midnight Scavengers enters the battlefield, you may return target "
-"creature card with converted mana cost 3 or less from your graveyard to your "
-"hand."
+"creature card with mana value 3 or less from your graveyard to your hand."
 msgstr ""
 
 #: ../../EMN.rst:593
@@ -1799,7 +1791,7 @@ msgstr ""
 #: ../../EMN.rst:651
 msgid ""
 "Discard a card: Vampires you control get +1/+1 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../EMN.rst:656
@@ -1978,6 +1970,10 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each instant and sorcery card in "
 "your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:721
+msgid "Prowess"
 msgstr ""
 
 #: ../../EMN.rst:723
@@ -2292,8 +2288,8 @@ msgstr ""
 
 #: ../../EMN.rst:841
 msgid ""
-"Nahiri's Wrath deals damage equal to the total converted mana cost of the "
-"discarded cards to each of up to X target creatures and/or planeswalkers."
+"Nahiri's Wrath deals damage equal to the total mana value of the discarded "
+"cards to each of up to X target creatures and/or planeswalkers."
 msgstr ""
 
 #: ../../EMN.rst:846
@@ -2549,8 +2545,8 @@ msgstr ""
 msgid ""
 "Delirium — |mana_2|\\ |mana_g|, Sacrifice Crop Sigil: Return up to one "
 "target creature card and up to one target land card from your graveyard to "
-"your hand. Activate this ability only if there are four or more card types "
-"among cards in your graveyard."
+"your hand. Activate only if there are four or more card types among cards in "
+"your graveyard."
 msgstr ""
 
 #: ../../EMN.rst:950
@@ -2577,10 +2573,9 @@ msgstr ""
 
 #: ../../EMN.rst:955
 msgid ""
-"Search your library for a creature card with converted mana cost X or less, "
-"where X is 2 plus the sacrificed creature's converted mana cost. Put that "
-"card onto the battlefield, then shuffle your library. Exile Eldritch "
-"Evolution."
+"Search your library for a creature card with mana value X or less, where X "
+"is 2 plus the sacrificed creature's mana value. Put that card onto the "
+"battlefield, then shuffle. Exile Eldritch Evolution."
 msgstr ""
 
 #: ../../EMN.rst:960
@@ -2606,8 +2601,8 @@ msgstr ""
 
 #: ../../EMN.rst:963
 msgid ""
-"Whenever you cast an Eldrazi creature spell with converted mana cost 7 or "
-"greater, draw two cards."
+"Whenever you cast an Eldrazi creature spell with mana value 7 or greater, "
+"draw two cards."
 msgstr ""
 
 #: ../../EMN.rst:970
@@ -2764,7 +2759,7 @@ msgstr ""
 #: ../../EMN.rst:1017
 msgid ""
 "When Primal Druid dies, you may search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../EMN.rst:1024
@@ -3115,8 +3110,8 @@ msgstr ""
 
 #: ../../EMN.rst:1159
 msgid ""
-"When Spell Queller enters the battlefield, exile target spell with converted "
-"mana cost 4 or less."
+"When Spell Queller enters the battlefield, exile target spell with mana "
+"value 4 or less."
 msgstr ""
 
 #: ../../EMN.rst:1161

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
@@ -382,10 +382,9 @@ msgid ""
 "https://scryfall.com/card/nph/17/norns-annex?utm_source=api>`"
 msgstr ""
 
-# 08aeed5a6cf74756ad84bfbc50a7d483
 #: ../../NPH.rst:113
 msgid ""
-"Creatures can't attack you or a planeswalker you control unless their "
+"Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_wp| for each of those creatures."
 msgstr ""
 
@@ -738,9 +737,8 @@ msgid ""
 "https://scryfall.com/card/nph/38/mental-misstep?utm_source=api>`"
 msgstr ""
 
-# 9ff0f7a6acc54e6db5a259f4030e5059
 #: ../../NPH.rst:245
-msgid "Counter target spell with converted mana cost 1."
+msgid "Counter target spell with mana value 1."
 msgstr ""
 
 #: ../../NPH.rst:250
@@ -1192,8 +1190,7 @@ msgstr ""
 #: ../../NPH.rst:401
 msgid ""
 "Destroy all creatures, then search target opponent's library for up to three "
-"creature cards and put them into their graveyard. Then that player shuffles "
-"their library."
+"creature cards and put them into their graveyard. Then that player shuffles."
 msgstr ""
 
 #: ../../NPH.rst:408
@@ -1272,12 +1269,10 @@ msgid ""
 "https://scryfall.com/card/nph/70/postmortem-lunge?utm_source=api>`"
 msgstr ""
 
-# f7d8fc32e5254ebf951a8179750b628f
 #: ../../NPH.rst:431
 msgid ""
-"Return target creature card with converted mana cost X from your graveyard "
-"to the battlefield. It gains haste. Exile it at the beginning of the next "
-"end step."
+"Return target creature card with mana value X from your graveyard to the "
+"battlefield. It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
 
 #: ../../NPH.rst:436
@@ -1290,8 +1285,8 @@ msgstr ""
 #: ../../NPH.rst:435
 msgid ""
 "Search target opponent's library for a card and exile it face down. Then "
-"that player shuffles their library. You may look at and play that card for "
-"as long as it remains exiled."
+"that player shuffles. You may look at and play that card for as long as it "
+"remains exiled."
 msgstr ""
 
 #: ../../NPH.rst:442
@@ -1353,7 +1348,7 @@ msgstr ""
 msgid ""
 "Choose target card in a graveyard other than a basic land card. Search its "
 "owner's graveyard, hand, and library for any number of cards with the same "
-"name as that card and exile them. Then that player shuffles their library."
+"name as that card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../NPH.rst:462
@@ -1450,8 +1445,7 @@ msgstr ""
 #: ../../NPH.rst:493
 msgid ""
 "Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| "
-"and \"Equipped creature gets +X/+0,\" where X is that artifact's converted "
-"mana cost."
+"and \"Equipped creature gets +X/+0,\" where X is that artifact's mana value."
 msgstr ""
 
 #: ../../NPH.rst:500
@@ -1597,7 +1591,7 @@ msgstr ""
 #: ../../NPH.rst:553
 msgid ""
 "Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor "
-"deals damage equal to that spell's converted mana cost to any target."
+"deals damage equal to that spell's mana value to any target."
 msgstr ""
 
 #: ../../NPH.rst:560
@@ -1781,9 +1775,8 @@ msgstr ""
 #: ../../NPH.rst:619
 msgid ""
 "|mana_1|\\ |mana_gp|, |tap|, Sacrifice a creature: Search your library for a "
-"creature card with converted mana cost equal to 1 plus the sacrificed "
-"creature's converted mana cost, put that card onto the battlefield, then "
-"shuffle your library. Activate this ability only any time you could cast a "
+"creature card with mana value equal to 1 plus the sacrificed creature's mana "
+"value, put that card onto the battlefield, then shuffle. Activate only as a "
 "sorcery."
 msgstr ""
 
@@ -1800,8 +1793,8 @@ msgstr ""
 
 #: ../../NPH.rst:625
 msgid ""
-"Search your library for a creature card, reveal it, then shuffle your "
-"library and put that card on top of it."
+"Search your library for a creature card, reveal it, then shuffle and put "
+"that card on top."
 msgstr ""
 
 #: ../../NPH.rst:627
@@ -1894,11 +1887,10 @@ msgid ""
 "https://scryfall.com/card/nph/112/greenhilt-trainee?utm_source=api>`"
 msgstr ""
 
-# 87213c97c01b4d0a8fe5eef5a30ed808
 #: ../../NPH.rst:661
 msgid ""
-"|tap|: Target creature gets +4/+4 until end of turn. Activate this ability "
-"only if Greenhilt Trainee's power is 4 or greater."
+"|tap|: Target creature gets +4/+4 until end of turn. Activate only if "
+"Greenhilt Trainee's power is 4 or greater."
 msgstr ""
 
 #: ../../NPH.rst:666
@@ -2418,10 +2410,15 @@ msgstr ""
 
 # 0f41268cb5854e729d8852ba59b551a8
 #: ../../NPH.rst:839
+#, fuzzy
+#| msgid ""
+#| "When Mycosynth Wellspring enters the battlefield or is put into a "
+#| "graveyard from the battlefield, you may search your library for a basic "
+#| "land card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "When Mycosynth Wellspring enters the battlefield or is put into a graveyard "
 "from the battlefield, you may search your library for a basic land card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy lub trafi do cmentarza z pola bitwy, "
 "możesz wyszukać w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "

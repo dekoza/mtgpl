@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-16 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
@@ -502,8 +502,8 @@ msgid ""
 "|tap|: Choose two target blocked attacking creatures. If each of those "
 "creatures could be blocked by all creatures that the other is blocked by, "
 "each creature that's blocking exactly one of those attacking creatures stops "
-"blocking it and is blocking the other attacking creature. Activate this "
-"ability only during the declare blockers step."
+"blocking it and is blocking the other attacking creature. Activate only "
+"during the declare blockers step."
 msgstr ""
 
 #: ../../ICE.rst:172
@@ -605,7 +605,7 @@ msgstr ""
 msgid ""
 "|tap|: Target creature gets +2/+2 until end of turn. When that creature "
 "leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate "
-"this ability only during combat."
+"only during combat."
 msgstr ""
 
 #: ../../ICE.rst:204
@@ -618,9 +618,8 @@ msgstr ""
 #: ../../ICE.rst:203
 msgid ""
 "|tap|: Target creature gets +1/+1 until end of turn. When that creature "
-"leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this "
-"ability only during combat and only if defending player controls no snow "
-"lands."
+"leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate only "
+"during combat and only if defending player controls no snow lands."
 msgstr ""
 
 #: ../../ICE.rst:212
@@ -1426,7 +1425,7 @@ msgstr ""
 #: ../../ICE.rst:517
 msgid ""
 "Look at the top three cards of target player's library, then put them back "
-"in any order. You may have that player shuffle their library."
+"in any order. You may have that player shuffle."
 msgstr ""
 
 #: ../../ICE.rst:524
@@ -1730,8 +1729,8 @@ msgstr ""
 
 #: ../../ICE.rst:631
 msgid ""
-"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this "
-"ability only during your turn."
+"|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate only "
+"during your turn."
 msgstr ""
 
 #: ../../ICE.rst:636
@@ -1772,8 +1771,8 @@ msgstr "Pośpiech"
 #: ../../ICE.rst:647
 msgid ""
 "|mana_b|: Return Ashen Ghoul from your graveyard to the battlefield. "
-"Activate this ability only during your upkeep and only if three or more "
-"creature cards are above Ashen Ghoul."
+"Activate only during your upkeep and only if three or more creature cards "
+"are above Ashen Ghoul."
 msgstr ""
 
 #: ../../ICE.rst:654
@@ -1808,7 +1807,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 #: ../../ICE.rst:659
 msgid ""
 "Add X mana in any combination of |mana_b| and/or |mana_r|, where X is the "
-"sacrificed creature's converted mana cost."
+"sacrificed creature's mana value."
 msgstr ""
 
 #: ../../ICE.rst:666
@@ -2413,7 +2412,7 @@ msgid ""
 "|tap|: Choose target non-Wall creature the active player has controlled "
 "continuously since the beginning of the turn. That creature attacks this "
 "turn if able. Destroy it at the beginning of the next end step if it didn't "
-"attack this turn. Activate this ability only before attackers are declared."
+"attack this turn. Activate only before attackers are declared."
 msgstr ""
 
 #: ../../ICE.rst:880
@@ -2513,10 +2512,12 @@ msgid ""
 msgstr ""
 
 #: ../../ICE.rst:909
+#, fuzzy
+#| msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
 msgid ""
 "|mana_b|, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. "
-"Activate this ability no more than three times each turn."
-msgstr ""
+"Activate no more than three times each turn."
+msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +0/+1."
 
 #: ../../ICE.rst:914
 msgid ""
@@ -2601,8 +2602,7 @@ msgstr ""
 #: ../../ICE.rst:939
 msgid ""
 "|mana_b|: Withering Wisps deals 1 damage to each creature and each player. "
-"Activate this ability no more times each turn than the number of snow Swamps "
-"you control."
+"Activate no more times each turn than the number of snow Swamps you control."
 msgstr ""
 
 #: ../../ICE.rst:948
@@ -2675,7 +2675,7 @@ msgstr ""
 #: ../../ICE.rst:967
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+0 counter on Balduvian Hydra. "
-"Activate this ability only during your upkeep."
+"Activate only during your upkeep."
 msgstr ""
 
 #: ../../ICE.rst:972
@@ -2820,7 +2820,7 @@ msgstr ""
 #: ../../ICE.rst:1017
 msgid ""
 "|mana_2|, Sacrifice a land: Put a +2/+2 counter on target creature. Activate "
-"this ability only during any upkeep step."
+"only during any upkeep step."
 msgstr ""
 
 #: ../../ICE.rst:1024
@@ -2931,7 +2931,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_r|: Goblin Ski Patrol gets +2/+0 and gains flying. Its "
 "controller sacrifices it at the beginning of the next end step. Activate "
-"this ability only once and only if you control a snow Mountain."
+"only once and only if you control a snow Mountain."
 msgstr ""
 
 #: ../../ICE.rst:1066
@@ -2960,9 +2960,9 @@ msgstr ""
 
 #: ../../ICE.rst:1069
 msgid ""
-"|mana_r|: Grizzled Wolverine gets +2/+0 until end of turn. Activate this "
-"ability only during the declare blockers step, only if at least one creature "
-"is blocking Grizzled Wolverine, and only once each turn."
+"|mana_r|: Grizzled Wolverine gets +2/+0 until end of turn. Activate only "
+"during the declare blockers step, only if at least one creature is blocking "
+"Grizzled Wolverine, and only once each turn."
 msgstr ""
 
 #: ../../ICE.rst:1076
@@ -3400,7 +3400,7 @@ msgstr ""
 #: ../../ICE.rst:1227
 msgid ""
 "Destroy target Wall. It can't be regenerated. Word of Blasting deals damage "
-"equal to that Wall's converted mana cost to the Wall's controller."
+"equal to that Wall's mana value to the Wall's controller."
 msgstr ""
 
 #: ../../ICE.rst:1234
@@ -3486,7 +3486,7 @@ msgstr ""
 #: ../../ICE.rst:1263
 msgid ""
 "Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. "
-"Activate this ability only if enchanted land is untapped."
+"Activate only if enchanted land is untapped."
 msgstr ""
 
 #: ../../ICE.rst:1268
@@ -3799,8 +3799,8 @@ msgstr ""
 
 #: ../../ICE.rst:1381
 msgid ""
-"Search your library for a Forest card and put that card onto the "
-"battlefield. Then shuffle your library."
+"Search your library for a Forest card, put that card onto the battlefield, "
+"then shuffle."
 msgstr ""
 
 #: ../../ICE.rst:1386
@@ -3999,7 +3999,7 @@ msgstr ""
 #: ../../ICE.rst:1455
 msgid ""
 "Until end of turn, target creature gains haste and \"|mana_0|: Untap this "
-"creature. Activate this ability only once.\""
+"creature. Activate only once.\""
 msgstr ""
 
 #: ../../ICE.rst:1462
@@ -4134,8 +4134,8 @@ msgstr ""
 
 #: ../../ICE.rst:1511
 msgid ""
-"Search your library for a creature card, reveal that card, and put it into "
-"your hand. Then shuffle your library."
+"Search your library for a creature card, reveal it, put it into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../ICE.rst:1516
@@ -4520,7 +4520,7 @@ msgid ""
 "|tap|, Sacrifice Amulet of Quoz: Target opponent may ante the top card of "
 "their library. If they don't, you flip a coin. If you win the flip, that "
 "player loses the game. If you lose the flip, you lose the game. Activate "
-"this ability only during your upkeep."
+"only during your upkeep."
 msgstr ""
 
 #: ../../ICE.rst:1652
@@ -4533,8 +4533,7 @@ msgstr ""
 #: ../../ICE.rst:1651
 msgid ""
 "|mana_2|, |tap|: Target creature gains vigilance until end of turn. Activate "
-"this ability only during combat and only if defending player controls a snow "
-"land."
+"only during combat and only if defending player controls a snow land."
 msgstr ""
 
 #: ../../ICE.rst:1658
@@ -4563,10 +4562,10 @@ msgstr ""
 msgid ""
 "|mana_3|, |tap|: Choose target non-Wall creature the active player has "
 "controlled continuously since the beginning of the turn. That player may pay "
-"|mana_x|, where X is that creature's converted mana cost. If they don't pay, "
-"the creature attacks this turn if able, and at the beginning of the next end "
-"step, destroy it if it didn't attack this turn. Activate this ability only "
-"before attackers are declared."
+"|mana_x|, where X is that mana value. If they don't pay, the creature "
+"attacks this turn if able, and at the beginning of the next end step, "
+"destroy it if it didn't attack this turn. Activate only before attackers are "
+"declared."
 msgstr ""
 
 #: ../../ICE.rst:1666
@@ -4701,8 +4700,7 @@ msgid ""
 "|mana_x|, |tap|: You may exile a nonland card from your hand. You may cast "
 "that card for as long as it remains exiled. Put a charge counter on Ice "
 "Cauldron and note the type and amount of mana spent to pay this activation "
-"cost. Activate this ability only if there are no charge counters on Ice "
-"Cauldron."
+"cost. Activate only if there are no charge counters on Ice Cauldron."
 msgstr ""
 
 #: ../../ICE.rst:1703
@@ -4753,9 +4751,13 @@ msgid ""
 msgstr ""
 
 #: ../../ICE.rst:1719
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library "
+#| "for three cards and exile them. Then that player shuffles their library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for "
-"three cards and exile them. Then that player shuffles their library."
+"three cards and exile them. Then that player shuffles."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w bibliotece wskazanego "
 "gracza trzy karty i wygnaj je. Następnie ów gracz tasuje."
@@ -4775,8 +4777,7 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|, Sacrifice Jester's Mask: Target opponent puts the cards "
 "from their hand on top of their library. Search that player's library for "
-"that many cards. That player puts those cards into their hand, then shuffles "
-"their library."
+"that many cards. That player puts those cards into their hand, then shuffles."
 msgstr ""
 
 #: ../../ICE.rst:1732
@@ -4789,8 +4790,8 @@ msgstr ""
 #: ../../ICE.rst:1729
 msgid ""
 "|mana_1|, |tap|: Put a charge counter on Jeweled Amulet. Note the type of "
-"mana spent to pay this activation cost. Activate this ability only if there "
-"are no charge counters on Jeweled Amulet."
+"mana spent to pay this activation cost. Activate only if there are no charge "
+"counters on Jeweled Amulet."
 msgstr ""
 
 #: ../../ICE.rst:1731
@@ -5093,7 +5094,7 @@ msgstr "Obronność"
 #: ../../ICE.rst:1831
 msgid ""
 "|mana_3|: Walking Wall gets +3/-1 until end of turn and can attack this turn "
-"as though it didn't have defender. Activate this ability only once each turn."
+"as though it didn't have defender. Activate only once each turn."
 msgstr ""
 
 #: ../../ICE.rst:1838

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 11:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
@@ -432,11 +432,16 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:143
+#, fuzzy
+#| msgid ""
+#| "Each player sacrifices the creature they control with the highest "
+#| "converted mana cost unless they pay that creature's mana cost. If two or "
+#| "more creatures a player controls are tied for highest cost, that player "
+#| "chooses one."
 msgid ""
-"Each player sacrifices the creature they control with the highest converted "
-"mana cost unless they pay that creature's mana cost. If two or more "
-"creatures a player controls are tied for highest cost, that player chooses "
-"one."
+"Each player sacrifices the creature they control with the highest mana value "
+"unless they pay that creature's mana cost. If two or more creatures a player "
+"controls are tied for highest, that player chooses one."
 msgstr ""
 "Każdy gracz poświęca stwora pod swoim władaniem o największym skrócie many, "
 "chyba że zapłacą jego koszt many. Jeśli gracz włada więcej niż jednym "
@@ -543,7 +548,7 @@ msgstr ""
 #: ../../WTH.rst:191
 msgid ""
 "|mana_0|: Avizoa gets +2/+2 until end of turn. You skip your next untap "
-"step. Activate this ability only once each turn."
+"step. Activate only once each turn."
 msgstr ""
 
 #: ../../WTH.rst:198
@@ -677,11 +682,19 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:245
+#, fuzzy
+#| msgid ""
+#| "When Veteran Explorer dies, each player may search their library for up "
+#| "to two basic land cards and put them onto the battlefield. Then each "
+#| "player who searched their library this way shuffles it."
 msgid ""
 "When Noble Benefactor dies, each player may search their library for a card "
 "and put that card into their hand. Then each player who searched their "
-"library this way shuffles it."
+"library this way shuffles."
 msgstr ""
+"Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
+"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
+"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
 
 #: ../../WTH.rst:250
 msgid ""
@@ -928,9 +941,13 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:333
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to three creature cards, put them into your "
+#| "graveyard, then shuffle your library."
 msgid ""
 "Search your library for up to three creature cards, put them into your "
-"graveyard, then shuffle your library."
+"graveyard, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty stworów, umieść je w "
 "twoim cmentarzu, po czym przetasuj twoją bibliotekę."
@@ -1262,11 +1279,17 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:453
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, destroy all artifacts and enchantments. "
+#| "They can't be regenerated."
 msgid ""
-"At the beginning of your draw step, destroy each creature with converted "
-"mana cost equal to the number of age counters on Wave of Terror. They can't "
-"be regenerated."
+"At the beginning of your draw step, destroy each creature with mana value "
+"equal to the number of age counters on Wave of Terror. They can't be "
+"regenerated."
 msgstr ""
+"Na początku twojego kroku utrzymania, zniszcz wszystkie artefakty i uroki. "
+"Nie mogą one regenerować."
 
 #: ../../WTH.rst:458
 msgid ""
@@ -1871,8 +1894,7 @@ msgstr ""
 #: ../../WTH.rst:661
 msgid ""
 "|mana_g|, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. "
-"Activate this ability only if Fungus Elemental entered the battlefield this "
-"turn."
+"Activate only if Fungus Elemental entered the battlefield this turn."
 msgstr ""
 
 #: ../../WTH.rst:670
@@ -1959,10 +1981,16 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:689
+#, fuzzy
+#| msgid ""
+#| "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |"
+#| "mana_g|. If you do, search your library for a card named Llanowar "
+#| "Sentinel and put that card onto the battlefield. Then shuffle your "
+#| "library."
 msgid ""
 "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |"
-"mana_g|. If you do, search your library for a card named Llanowar Sentinel "
-"and put that card onto the battlefield. Then shuffle your library."
+"mana_g|. If you do, search your library for a card named Llanowar Sentinel, "
+"put that card onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
 "Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie i "
@@ -2089,10 +2117,14 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:733
+#, fuzzy
+#| msgid ""
+#| "When Veteran Explorer dies, each player may search their library for up "
+#| "to two basic land cards and put them onto the battlefield. Then each "
+#| "player who searched their library this way shuffles it."
 msgid ""
 "When Veteran Explorer dies, each player may search their library for up to "
-"two basic land cards and put them onto the battlefield. Then each player who "
-"searched their library this way shuffles it."
+"two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
 "najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "

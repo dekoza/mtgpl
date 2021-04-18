@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -31,8 +31,8 @@ msgstr ""
 #: ../../EMA.rst:185 ../../EMA.rst:307 ../../EMA.rst:335 ../../EMA.rst:341
 #: ../../EMA.rst:363 ../../EMA.rst:369 ../../EMA.rst:381 ../../EMA.rst:401
 #: ../../EMA.rst:407 ../../EMA.rst:471 ../../EMA.rst:555 ../../EMA.rst:593
-#: ../../EMA.rst:599 ../../EMA.rst:617 ../../EMA.rst:1017 ../../EMA.rst:1047
-#: ../../EMA.rst:1097 ../../EMA.rst:1103 ../../EMA.rst:1117 ../../EMA.rst:1211
+#: ../../EMA.rst:599 ../../EMA.rst:617 ../../EMA.rst:1015 ../../EMA.rst:1045
+#: ../../EMA.rst:1095 ../../EMA.rst:1101 ../../EMA.rst:1115 ../../EMA.rst:1209
 msgid "Flying"
 msgstr ""
 
@@ -157,8 +157,8 @@ msgstr ""
 
 #: ../../EMA.rst:51
 msgid ""
-"Search your library for an artifact or enchantment card and reveal that "
-"card. Shuffle your library, then put the card on top of it."
+"Search your library for an artifact or enchantment card, reveal it, then "
+"shuffle and put that card on top."
 msgstr ""
 
 #: ../../EMA.rst:60
@@ -358,7 +358,7 @@ msgstr ""
 
 #: ../../EMA.rst:119 ../../EMA.rst:215 ../../EMA.rst:263 ../../EMA.rst:389
 #: ../../EMA.rst:795 ../../EMA.rst:829 ../../EMA.rst:861 ../../EMA.rst:947
-#: ../../EMA.rst:1027
+#: ../../EMA.rst:1025
 msgid "Enchant creature"
 msgstr ""
 
@@ -468,7 +468,7 @@ msgstr ""
 msgid ""
 "When Squadron Hawk enters the battlefield, you may search your library for "
 "up to three cards named Squadron Hawk, reveal them, put them into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../EMA.rst:168
@@ -543,8 +543,8 @@ msgid ""
 "https://scryfall.com/card/ema/37/whitemane-lion?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:191 ../../EMA.rst:1095
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
+#: ../../EMA.rst:191 ../../EMA.rst:661
+msgid "Flash"
 msgstr ""
 
 #: ../../EMA.rst:193
@@ -907,8 +907,8 @@ msgstr ""
 
 #: ../../EMA.rst:325
 msgid ""
-"Search your library for an instant or sorcery card and reveal that card. "
-"Shuffle your library, then put the card on top of it."
+"Search your library for an instant or sorcery card, reveal it, then shuffle "
+"and put that card on top."
 msgstr ""
 
 #: ../../EMA.rst:332
@@ -922,7 +922,7 @@ msgstr ""
 msgid "Target player draws a card."
 msgstr ""
 
-#: ../../EMA.rst:331 ../../EMA.rst:687 ../../EMA.rst:1129
+#: ../../EMA.rst:331 ../../EMA.rst:687 ../../EMA.rst:1127
 msgid ""
 "Retrace (You may cast this card from your graveyard by discarding a land "
 "card in addition to paying its other costs.)"
@@ -986,7 +986,7 @@ msgstr ""
 #: ../../EMA.rst:355
 msgid ""
 "Search target player's library for up to three cards with flashback and put "
-"them into that player's graveyard. Then the player shuffles their library."
+"them into that player's graveyard. Then the player shuffles."
 msgstr ""
 
 #: ../../EMA.rst:360
@@ -1021,7 +1021,7 @@ msgstr ""
 #: ../../EMA.rst:371
 msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"an Island card, reveal it, put it into your hand, then shuffle your library.)"
+"an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../EMA.rst:378
@@ -1249,8 +1249,8 @@ msgstr ""
 
 #: ../../EMA.rst:459
 msgid ""
-"Search your library for a card and put that card into your graveyard. Then "
-"shuffle your library."
+"Search your library for a card, put that card into your graveyard, then "
+"shuffle."
 msgstr ""
 
 #: ../../EMA.rst:464
@@ -1320,7 +1320,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:485 ../../EMA.rst:609 ../../EMA.rst:673 ../../EMA.rst:705
-#: ../../EMA.rst:847 ../../EMA.rst:1041
+#: ../../EMA.rst:847 ../../EMA.rst:1039
 msgid "Haste"
 msgstr ""
 
@@ -1570,7 +1570,7 @@ msgstr ""
 #: ../../EMA.rst:575
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+"a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../EMA.rst:582
@@ -1594,8 +1594,8 @@ msgstr ""
 
 #: ../../EMA.rst:585
 msgid ""
-"Search your library for a card, then shuffle your library and put that card "
-"on top of it. You lose 2 life."
+"Search your library for a card, then shuffle and put that card on top. You "
+"lose 2 life."
 msgstr ""
 
 #: ../../EMA.rst:590
@@ -1656,8 +1656,7 @@ msgstr ""
 #: ../../EMA.rst:611
 msgid ""
 "When Avarax enters the battlefield, you may search your library for a card "
-"named Avarax, reveal it, and put it into your hand. If you do, shuffle your "
-"library."
+"named Avarax, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EMA.rst:613
@@ -1798,10 +1797,6 @@ msgid ""
 "https://scryfall.com/card/ema/127/dualcaster-mage?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:661
-msgid "Flash"
-msgstr ""
-
 #: ../../EMA.rst:663
 msgid ""
 "When Dualcaster Mage enters the battlefield, copy target instant or sorcery "
@@ -1870,7 +1865,7 @@ msgstr ""
 #: ../../EMA.rst:691
 msgid ""
 "Search your library for a card, put that card into your hand, discard a card "
-"at random, then shuffle your library."
+"at random, then shuffle."
 msgstr ""
 
 #: ../../EMA.rst:698
@@ -2308,8 +2303,7 @@ msgstr ""
 #: ../../EMA.rst:853
 msgid ""
 "When Civic Wayfinder enters the battlefield, you may search your library for "
-"a basic land card, reveal it, and put it into your hand. If you do, shuffle "
-"your library."
+"a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EMA.rst:858
@@ -2422,9 +2416,9 @@ msgstr ""
 
 #: ../../EMA.rst:895
 msgid ""
-"Search your library for a green creature card with converted mana cost X or "
-"less, put it onto the battlefield, then shuffle your library. Shuffle Green "
-"Sun's Zenith into its owner's library."
+"Search your library for a green creature card with mana value X or less, put "
+"it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its "
+"owner's library."
 msgstr ""
 
 #: ../../EMA.rst:900
@@ -2502,7 +2496,7 @@ msgid ""
 "https://scryfall.com/card/ema/175/llanowar-elves?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:923 ../../EMA.rst:1007
+#: ../../EMA.rst:923 ../../EMA.rst:1005
 msgid "|tap|: Add |mana_g|."
 msgstr ""
 
@@ -2522,7 +2516,7 @@ msgstr ""
 #: ../../EMA.rst:934
 msgid ""
 ":mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1580014855|"
+"border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1618695739|"
 "https://scryfall.com/card/ema/177/natural-order?utm_source=api>`"
 msgstr ""
 
@@ -2532,8 +2526,8 @@ msgstr ""
 
 #: ../../EMA.rst:933
 msgid ""
-"Search your library for a green creature card and put it onto the "
-"battlefield. Then shuffle your library."
+"Search your library for a green creature card, put it onto the battlefield, "
+"then shuffle."
 msgstr ""
 
 #: ../../EMA.rst:938
@@ -2691,7 +2685,7 @@ msgid ""
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
-#: ../../EMA.rst:1000
+#: ../../EMA.rst:998
 msgid ""
 ":mtgtip:`Thornweald Archer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/0/608b0f34-83be-44a3-ba92-69df9b8af8d1.jpg?1580014948|"
@@ -2699,116 +2693,110 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:997
-msgid "Reach (This creature can block creatures with flying.)"
+msgid "Reach, deathtouch"
 msgstr ""
 
-#: ../../EMA.rst:999
-msgid ""
-"Deathtouch (Any amount of damage this deals to a creature is enough to "
-"destroy it.)"
-msgstr ""
-
-#: ../../EMA.rst:1004
+#: ../../EMA.rst:1002
 msgid ""
 ":mtgtip:`Timberwatch Elf<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/d/5d902a83-5e39-4df3-a897-e9ac65a8209c.jpg?1580014956|"
 "https://scryfall.com/card/ema/190/timberwatch-elf?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1003
+#: ../../EMA.rst:1001
 msgid ""
 "|tap|: Target creature gets +X/+X until end of turn, where X is the number "
 "of Elves on the battlefield."
 msgstr ""
 
-#: ../../EMA.rst:1010
+#: ../../EMA.rst:1008
 msgid ""
 ":mtgtip:`Werebear<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/2/224ea635-b95b-4803-8716-edd4cb655923.jpg?1580014964|https://"
 "scryfall.com/card/ema/191/werebear?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1009
+#: ../../EMA.rst:1007
 msgid ""
 "Threshold — Werebear gets +3/+3 as long as seven or more cards are in your "
 "graveyard."
 msgstr ""
 
-#: ../../EMA.rst:1014
+#: ../../EMA.rst:1012
 msgid ""
 ":mtgtip:`Wirewood Symbiote<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/5/854f1d22-1416-4012-979c-35152ff520bd.jpg?1580014975|"
 "https://scryfall.com/card/ema/192/wirewood-symbiote?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1013
+#: ../../EMA.rst:1011
 msgid ""
 "Return an Elf you control to its owner's hand: Untap target creature. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
-#: ../../EMA.rst:1020
+#: ../../EMA.rst:1018
 msgid ""
 ":mtgtip:`Xantid Swarm<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/022ab408-3292-40b6-b35e-ac1b7f06dffa.jpg?1580014984|"
 "https://scryfall.com/card/ema/193/xantid-swarm?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1019
+#: ../../EMA.rst:1017
 msgid ""
 "Whenever Xantid Swarm attacks, defending player can't cast spells this turn."
 msgstr ""
 
-#: ../../EMA.rst:1024
+#: ../../EMA.rst:1022
 msgid ""
 ":mtgtip:`Yavimaya Enchantress<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/5/75cc6976-7247-4cd9-a0f0-fcb2e860a70e.jpg?1580014992|"
 "https://scryfall.com/card/ema/194/yavimaya-enchantress?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1023
+#: ../../EMA.rst:1021
 msgid ""
 "Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield."
 msgstr ""
 
-#: ../../EMA.rst:1032
+#: ../../EMA.rst:1030
 msgid ""
 ":mtgtip:`Armadillo Cloak<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/a/fa232c65-dbb4-4414-bd95-b3bbd321c653.jpg?1580014998|"
 "https://scryfall.com/card/ema/195/armadillo-cloak?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1029
+#: ../../EMA.rst:1027
 msgid "Enchanted creature gets +2/+2 and has trample."
 msgstr ""
 
-#: ../../EMA.rst:1031
+#: ../../EMA.rst:1029
 msgid "Whenever enchanted creature deals damage, you gain that much life."
 msgstr ""
 
-#: ../../EMA.rst:1038
+#: ../../EMA.rst:1036
 msgid ""
 ":mtgtip:`Baleful Strix<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/f/df7536fa-a501-4e31-941f-b391a61e358a.jpg?1580015005|"
 "https://scryfall.com/card/ema/196/baleful-strix?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1035
+#: ../../EMA.rst:1033
 msgid "Flying, deathtouch"
 msgstr ""
 
-#: ../../EMA.rst:1037
+#: ../../EMA.rst:1035
 msgid "When Baleful Strix enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../EMA.rst:1044
+#: ../../EMA.rst:1042
 msgid ""
 ":mtgtip:`Bloodbraid Elf<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/9/29b15ab8-c117-42b9-8177-df96153d6a38.jpg?1580015013|"
 "https://scryfall.com/card/ema/197/bloodbraid-elf?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1043 ../../EMA.rst:1087
+#: ../../EMA.rst:1041 ../../EMA.rst:1085
 msgid ""
 "Cascade (When you cast this spell, exile cards from the top of your library "
 "until you exile a nonland card that costs less. You may cast it without "
@@ -2816,103 +2804,103 @@ msgid ""
 "a random order.)"
 msgstr ""
 
-#: ../../EMA.rst:1050
+#: ../../EMA.rst:1048
 msgid ""
 ":mtgtip:`Brago, King Eternal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/b/8ba873c1-f1ff-49f2-9e0d-bc9d52f94d76.jpg?1580015020|"
 "https://scryfall.com/card/ema/198/brago-king-eternal?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1049
+#: ../../EMA.rst:1047
 msgid ""
 "Whenever Brago, King Eternal deals combat damage to a player, exile any "
 "number of target nonland permanents you control, then return those cards to "
 "the battlefield under their owner's control."
 msgstr ""
 
-#: ../../EMA.rst:1058
+#: ../../EMA.rst:1056
 msgid ""
 ":mtgtip:`Dack Fayden<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/0/10158a5e-5a03-41ab-85d2-0907ccf32c9b.jpg?1580015027|https://"
 "scryfall.com/card/ema/199/dack-fayden?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1053
+#: ../../EMA.rst:1051
 msgid "+1: Target player draws two cards, then discards two cards."
 msgstr ""
 
-#: ../../EMA.rst:1055
+#: ../../EMA.rst:1053
 msgid "−2: Gain control of target artifact."
 msgstr ""
 
-#: ../../EMA.rst:1057
+#: ../../EMA.rst:1055
 msgid ""
 "−6: You get an emblem with \"Whenever you cast a spell that targets one or "
 "more permanents, gain control of those permanents.\""
 msgstr ""
 
-#: ../../EMA.rst:1062
+#: ../../EMA.rst:1060
 msgid ""
 ":mtgtip:`Extract from Darkness<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/7/17592ec3-cffb-4cf9-86bc-4ad3ac696d91.jpg?1580015033|"
 "https://scryfall.com/card/ema/200/extract-from-darkness?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1061
+#: ../../EMA.rst:1059
 msgid ""
 "Each player mills two cards. Then you put a creature card from a graveyard "
 "onto the battlefield under your control."
 msgstr ""
 
-#: ../../EMA.rst:1066
+#: ../../EMA.rst:1064
 msgid ""
 ":mtgtip:`Flame-Kin Zealot<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/e/fe7db99b-903f-43d8-bc60-cab2d914a0cb.jpg?1580015039|"
 "https://scryfall.com/card/ema/201/flame-kin-zealot?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1065
+#: ../../EMA.rst:1063
 msgid ""
 "When Flame-Kin Zealot enters the battlefield, creatures you control get +1/"
 "+1 and gain haste until end of turn."
 msgstr ""
 
-#: ../../EMA.rst:1070
+#: ../../EMA.rst:1068
 msgid ""
 ":mtgtip:`Glare of Subdual<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/1/e1b6e40f-02d6-498f-bb3b-6a9e19ed46f6.jpg?1580015047|"
 "https://scryfall.com/card/ema/202/glare-of-subdual?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1069
+#: ../../EMA.rst:1067
 msgid "Tap an untapped creature you control: Tap target artifact or creature."
 msgstr ""
 
-#: ../../EMA.rst:1074
+#: ../../EMA.rst:1072
 msgid ""
 ":mtgtip:`Goblin Trenches<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/6/06625dee-d2e6-4efa-a385-5113d0fe78ac.jpg?1580015054|"
 "https://scryfall.com/card/ema/203/goblin-trenches?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1073
+#: ../../EMA.rst:1071
 msgid ""
 "|mana_2|, Sacrifice a land: Create two 1/1 red and white Goblin Soldier "
 "creature tokens."
 msgstr ""
 
-#: ../../EMA.rst:1080
+#: ../../EMA.rst:1078
 msgid ""
 ":mtgtip:`Maelstrom Wanderer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/a/6a494b35-44d4-45e3-abfa-eb1874c6aa21.jpg?1580015060|"
 "https://scryfall.com/card/ema/204/maelstrom-wanderer?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1077
+#: ../../EMA.rst:1075
 msgid "Creatures you control have haste."
 msgstr ""
 
-#: ../../EMA.rst:1079
+#: ../../EMA.rst:1077
 msgid ""
 "Cascade, cascade (When you cast this spell, exile cards from the top of your "
 "library until you exile a nonland card that costs less. You may cast it "
@@ -2920,27 +2908,27 @@ msgid ""
 "library in a random order. Then do it again.)"
 msgstr ""
 
-#: ../../EMA.rst:1084
+#: ../../EMA.rst:1082
 msgid ""
 ":mtgtip:`Shaman of the Pack<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/e/9eedf655-771d-4a08-a24a-3dc5d1725314.jpg?1580015066|"
 "https://scryfall.com/card/ema/205/shaman-of-the-pack?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1083
+#: ../../EMA.rst:1081
 msgid ""
 "When Shaman of the Pack enters the battlefield, target opponent loses life "
 "equal to the number of Elves you control."
 msgstr ""
 
-#: ../../EMA.rst:1088
+#: ../../EMA.rst:1086
 msgid ""
 ":mtgtip:`Shardless Agent<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/f/9fddb094-533a-4f9e-ab9a-e95a6432ce85.jpg?1580015075|"
 "https://scryfall.com/card/ema/206/shardless-agent?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1092
+#: ../../EMA.rst:1090
 msgid ""
 ":mtgtip:`Sphinx of the Steel Wind<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/f/9fc9b802-3381-4318-a352-d85451aba586.jpg?"
@@ -2948,146 +2936,150 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1091
+#: ../../EMA.rst:1089
 msgid ""
 "Flying, first strike, vigilance, lifelink, protection from red and from green"
 msgstr ""
 
-#: ../../EMA.rst:1100
+#: ../../EMA.rst:1098
 msgid ""
 ":mtgtip:`Thunderclap Wyvern<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/4/64551550-6279-4f6e-a5b9-e1332e927421.jpg?1591605295|"
 "https://scryfall.com/card/ema/208/thunderclap-wyvern?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1099
+#: ../../EMA.rst:1093
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../EMA.rst:1097
 msgid "Other creatures you control with flying get +1/+1."
 msgstr ""
 
-#: ../../EMA.rst:1106
+#: ../../EMA.rst:1104
 msgid ""
 ":mtgtip:`Trygon Predator<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/d/cd9f1b7c-96b4-4036-9c1b-0ea9891da89e.jpg?1580015098|"
 "https://scryfall.com/card/ema/209/trygon-predator?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1105
+#: ../../EMA.rst:1103
 msgid ""
 "Whenever Trygon Predator deals combat damage to a player, you may destroy "
 "target artifact or enchantment that player controls."
 msgstr ""
 
-#: ../../EMA.rst:1110
+#: ../../EMA.rst:1108
 msgid ""
 ":mtgtip:`Vindicate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/9/694f7927-77a0-4f66-8b92-e42c5bf6251d.jpg?1580015106|https://"
 "scryfall.com/card/ema/210/vindicate?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1109
+#: ../../EMA.rst:1107
 msgid "Destroy target permanent."
 msgstr ""
 
-#: ../../EMA.rst:1114
+#: ../../EMA.rst:1112
 msgid ""
 ":mtgtip:`Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "c/0/c0b3e320-a85c-4d92-944e-0a5e78a066a5.jpg?1580015114|https://scryfall.com/"
 "card/ema/211/void?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1113
+#: ../../EMA.rst:1111
 msgid ""
-"Choose a number. Destroy all artifacts and creatures with converted mana "
-"cost equal to that number. Then target player reveals their hand and "
-"discards all nonland cards with converted mana cost equal to the number."
+"Choose a number. Destroy all artifacts and creatures with mana value equal "
+"to that number. Then target player reveals their hand and discards all "
+"nonland cards with mana value equal to the number."
 msgstr ""
 
-#: ../../EMA.rst:1120
+#: ../../EMA.rst:1118
 msgid ""
 ":mtgtip:`Wee Dragonauts<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/e/6e68a75f-abcb-49b0-a07b-a011b934969a.jpg?1580015124|"
 "https://scryfall.com/card/ema/212/wee-dragonauts?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1119
+#: ../../EMA.rst:1117
 msgid ""
 "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 "
 "until end of turn."
 msgstr ""
 
-#: ../../EMA.rst:1124
+#: ../../EMA.rst:1122
 msgid ""
 ":mtgtip:`Zealous Persecution<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7a5e69fc-9a3e-4830-a0ea-36183274325a.jpg?1580015131|"
 "https://scryfall.com/card/ema/213/zealous-persecution?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1123
+#: ../../EMA.rst:1121
 msgid ""
 "Until end of turn, creatures you control get +1/+1 and creatures your "
 "opponents control get -1/-1."
 msgstr ""
 
-#: ../../EMA.rst:1130
+#: ../../EMA.rst:1128
 msgid ""
 ":mtgtip:`Call the Skybreaker<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/5/9511172e-f5dc-4356-9a9d-9fd4527069e3.jpg?1580015141|"
 "https://scryfall.com/card/ema/214/call-the-skybreaker?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1127
+#: ../../EMA.rst:1125
 msgid "Create a 5/5 blue and red Elemental creature token with flying."
 msgstr ""
 
-#: ../../EMA.rst:1138
+#: ../../EMA.rst:1136
 msgid ""
 ":mtgtip:`Deathrite Shaman<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/1/d14f9fc8-e48c-473f-ba6b-9cffce94bb53.jpg?1580015151|"
 "https://scryfall.com/card/ema/215/deathrite-shaman?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1133
+#: ../../EMA.rst:1131
 msgid ""
 "|tap|: Exile target land card from a graveyard. Add one mana of any color."
 msgstr ""
 
-#: ../../EMA.rst:1135
+#: ../../EMA.rst:1133
 msgid ""
 "|mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. Each "
 "opponent loses 2 life."
 msgstr ""
 
-#: ../../EMA.rst:1137
+#: ../../EMA.rst:1135
 msgid ""
 "|mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 "
 "life."
 msgstr ""
 
-#: ../../EMA.rst:1144
+#: ../../EMA.rst:1142
 msgid ""
 ":mtgtip:`Giant Solifuge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/4/d4bb6038-e2e9-4de2-a94e-0798c80a94c6.jpg?1580015158|"
 "https://scryfall.com/card/ema/216/giant-solifuge?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1141
+#: ../../EMA.rst:1139
 msgid "(|mana_rg| can be paid with either |mana_r| or |mana_g|.)"
 msgstr ""
 
-#: ../../EMA.rst:1143
+#: ../../EMA.rst:1141
 msgid ""
 "Trample; haste; shroud (This creature can't be the target of spells or "
 "abilities.)"
 msgstr ""
 
-#: ../../EMA.rst:1148
+#: ../../EMA.rst:1146
 msgid ""
 ":mtgtip:`Torrent of Souls<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/0252d0d9-af34-4eaf-8cf2-ef1a3af494f8.jpg?1580015166|"
 "https://scryfall.com/card/ema/217/torrent-of-souls?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1147
+#: ../../EMA.rst:1145
 msgid ""
 "Return up to one target creature card from your graveyard to the battlefield "
 "if |mana_b| was spent to cast this spell. Creatures target player controls "
@@ -3095,73 +3087,73 @@ msgid ""
 "this spell. (Do both if |mana_b|\\ |mana_r| was spent.)"
 msgstr ""
 
-#: ../../EMA.rst:1152
+#: ../../EMA.rst:1150
 msgid ""
 ":mtgtip:`Ashnod's Altar<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/87da5ad8-b35f-4f9c-b17a-bb2563cbc186.jpg?1580015173|"
 "https://scryfall.com/card/ema/218/ashnods-altar?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1151
+#: ../../EMA.rst:1149
 msgid "Sacrifice a creature: Add |colorless|\\ |colorless|."
 msgstr ""
 
-#: ../../EMA.rst:1158
+#: ../../EMA.rst:1156
 msgid ""
 ":mtgtip:`Chrome Mox<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/5/e59f7138-60e0-444e-aaa3-8769072da916.jpg?1580015180|https://"
 "scryfall.com/card/ema/219/chrome-mox?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1155
+#: ../../EMA.rst:1153
 msgid ""
 "Imprint — When Chrome Mox enters the battlefield, you may exile a "
 "nonartifact, nonland card from your hand."
 msgstr ""
 
-#: ../../EMA.rst:1157
+#: ../../EMA.rst:1155
 msgid "|tap|: Add one mana of any of the exiled card's colors."
 msgstr ""
 
-#: ../../EMA.rst:1164
+#: ../../EMA.rst:1162
 msgid ""
 ":mtgtip:`Duplicant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/e/8e357856-99d6-407a-bfa2-3cddbf4affd3.jpg?1580015185|https://"
 "scryfall.com/card/ema/220/duplicant?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1161
+#: ../../EMA.rst:1159
 msgid ""
 "Imprint — When Duplicant enters the battlefield, you may exile target "
 "nontoken creature."
 msgstr ""
 
-#: ../../EMA.rst:1163
+#: ../../EMA.rst:1161
 msgid ""
 "As long as a card exiled with Duplicant is a creature card, Duplicant has "
 "the power, toughness, and creature types of the last creature card exiled "
 "with Duplicant. It's still a Shapeshifter."
 msgstr ""
 
-#: ../../EMA.rst:1168
+#: ../../EMA.rst:1166
 msgid ""
 ":mtgtip:`Emmessi Tome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/e/decb78dd-03d7-43a0-8ff5-1b97c6f515c9.jpg?1580015192|"
 "https://scryfall.com/card/ema/221/emmessi-tome?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1167
+#: ../../EMA.rst:1165
 msgid "|mana_5|, |tap|: Draw two cards, then discard a card."
 msgstr ""
 
-#: ../../EMA.rst:1172
+#: ../../EMA.rst:1170
 msgid ""
 ":mtgtip:`Goblin Charbelcher<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/5/451f9489-6997-42c2-96c2-021cd8bdd5d3.jpg?1580015198|"
 "https://scryfall.com/card/ema/222/goblin-charbelcher?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1171
+#: ../../EMA.rst:1169
 msgid ""
 "|mana_3|, |tap|: Reveal cards from the top of your library until you reveal "
 "a land card. Goblin Charbelcher deals damage equal to the number of nonland "
@@ -3170,451 +3162,451 @@ msgid ""
 "revealed cards on the bottom of your library in any order."
 msgstr ""
 
-#: ../../EMA.rst:1178
+#: ../../EMA.rst:1176
 msgid ""
 ":mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/9/49c0e902-f7ee-4dab-9a07-025a305c9958.jpg?1580015204|"
 "https://scryfall.com/card/ema/223/isochron-scepter?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1175
+#: ../../EMA.rst:1173
 msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
-"instant card with converted mana cost 2 or less from your hand."
+"instant card with mana value 2 or less from your hand."
 msgstr ""
 
-#: ../../EMA.rst:1177
+#: ../../EMA.rst:1175
 msgid ""
 "|mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the "
 "copy without paying its mana cost."
 msgstr ""
 
-#: ../../EMA.rst:1184
+#: ../../EMA.rst:1182
 msgid ""
 ":mtgtip:`Juggernaut<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/b/db5b0c1a-d4f5-4ef8-a7f1-020453314f97.jpg?1580015212|https://"
 "scryfall.com/card/ema/224/juggernaut?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1181
+#: ../../EMA.rst:1179
 msgid "Juggernaut attacks each combat if able."
 msgstr ""
 
-#: ../../EMA.rst:1183
+#: ../../EMA.rst:1181
 msgid "Juggernaut can't be blocked by Walls."
 msgstr ""
 
-#: ../../EMA.rst:1190
+#: ../../EMA.rst:1188
 msgid ""
 ":mtgtip:`Mana Crypt<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/c/0cb33b46-4d1b-4f97-bfdc-d815aee111da.jpg?1580015219|https://"
 "scryfall.com/card/ema/225/mana-crypt?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1187
+#: ../../EMA.rst:1185
 msgid ""
 "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana "
 "Crypt deals 3 damage to you."
 msgstr ""
 
-#: ../../EMA.rst:1189 ../../EMA.rst:1247
+#: ../../EMA.rst:1187 ../../EMA.rst:1245
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr ""
 
-#: ../../EMA.rst:1194
+#: ../../EMA.rst:1192
 msgid ""
 ":mtgtip:`Millikin<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/7/37757eae-e473-4d54-ab12-8ab453855e91.jpg?1580015226|https://"
 "scryfall.com/card/ema/226/millikin?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1193
+#: ../../EMA.rst:1191
 msgid "|tap|, Mill a card: Add |colorless|."
 msgstr ""
 
-#: ../../EMA.rst:1202
+#: ../../EMA.rst:1200
 msgid ""
 ":mtgtip:`Mindless Automaton<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/9/49e81c3a-663d-414f-9a4f-95c0e55b1aa1.jpg?1580015235|"
 "https://scryfall.com/card/ema/227/mindless-automaton?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1197
+#: ../../EMA.rst:1195
 msgid ""
 "Mindless Automaton enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
-#: ../../EMA.rst:1199
+#: ../../EMA.rst:1197
 msgid "|mana_1|, Discard a card: Put a +1/+1 counter on Mindless Automaton."
 msgstr ""
 
-#: ../../EMA.rst:1201
+#: ../../EMA.rst:1199
 msgid "Remove two +1/+1 counters from Mindless Automaton: Draw a card."
 msgstr ""
 
-#: ../../EMA.rst:1208
+#: ../../EMA.rst:1206
 msgid ""
 ":mtgtip:`Nevinyrral's Disk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/f/8f72584d-f65e-4c8f-be05-f44389c2381d.jpg?1580015244|"
 "https://scryfall.com/card/ema/228/nevinyrrals-disk?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1205
+#: ../../EMA.rst:1203
 msgid "Nevinyrral's Disk enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1207
+#: ../../EMA.rst:1205
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
 msgstr ""
 
-#: ../../EMA.rst:1214
+#: ../../EMA.rst:1212
 msgid ""
 ":mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/da685792-5846-4201-ae64-19a822a4e575.jpg?1580015251|"
 "https://scryfall.com/card/ema/229/pilgrims-eye?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1213
+#: ../../EMA.rst:1211
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../EMA.rst:1220
+#: ../../EMA.rst:1218
 msgid ""
 ":mtgtip:`Prismatic Lens<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/9/19786221-ff63-48be-98cb-82360ca12634.jpg?1580015259|"
 "https://scryfall.com/card/ema/230/prismatic-lens?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1217 ../../EMA.rst:1293 ../../EMA.rst:1341
+#: ../../EMA.rst:1215 ../../EMA.rst:1291 ../../EMA.rst:1339
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../EMA.rst:1219
+#: ../../EMA.rst:1217
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../EMA.rst:1226
+#: ../../EMA.rst:1224
 msgid ""
 ":mtgtip:`Relic of Progenitus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265|"
 "https://scryfall.com/card/ema/231/relic-of-progenitus?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1223
+#: ../../EMA.rst:1221
 msgid "|tap|: Target player exiles a card from their graveyard."
 msgstr ""
 
-#: ../../EMA.rst:1225
+#: ../../EMA.rst:1223
 msgid ""
 "|mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. "
 "Draw a card."
 msgstr ""
 
-#: ../../EMA.rst:1232
+#: ../../EMA.rst:1230
 msgid ""
 ":mtgtip:`Sensei's Divining Top<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/3/83c01c91-ea01-46c7-b94c-97777b968459.jpg?1580015272|"
 "https://scryfall.com/card/ema/232/senseis-divining-top?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1229
+#: ../../EMA.rst:1227
 msgid ""
 "|mana_1|: Look at the top three cards of your library, then put them back in "
 "any order."
 msgstr ""
 
-#: ../../EMA.rst:1231
+#: ../../EMA.rst:1229
 msgid ""
 "|tap|: Draw a card, then put Sensei's Divining Top on top of its owner's "
 "library."
 msgstr ""
 
-#: ../../EMA.rst:1238
+#: ../../EMA.rst:1236
 msgid ""
 ":mtgtip:`Ticking Gnomes<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/b/db6358cf-fcb9-42af-9755-dd1f39bfc8ff.jpg?1580015278|"
 "https://scryfall.com/card/ema/233/ticking-gnomes?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1235
+#: ../../EMA.rst:1233
 msgid ""
 "Echo |mana_3| (At the beginning of your upkeep, if this came under your "
 "control since the beginning of your last upkeep, sacrifice it unless you pay "
 "its echo cost.)"
 msgstr ""
 
-#: ../../EMA.rst:1237
+#: ../../EMA.rst:1235
 msgid "Sacrifice Ticking Gnomes: It deals 1 damage to any target."
 msgstr ""
 
-#: ../../EMA.rst:1242
+#: ../../EMA.rst:1240
 msgid ""
 ":mtgtip:`Winter Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/b/ab3cec7e-513e-400d-a1a8-2c71cdde02c6.jpg?1580015285|https://"
 "scryfall.com/card/ema/234/winter-orb?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1241
+#: ../../EMA.rst:1239
 msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
 msgstr ""
 
-#: ../../EMA.rst:1248
+#: ../../EMA.rst:1246
 msgid ""
 ":mtgtip:`Worn Powerstone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/f/bfcb7c6c-14ac-41f3-a461-451d9ee8e1df.jpg?1580015292|"
 "https://scryfall.com/card/ema/235/worn-powerstone?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1245
+#: ../../EMA.rst:1243
 msgid "Worn Powerstone enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1256
+#: ../../EMA.rst:1254
 msgid ""
 ":mtgtip:`Bloodfell Caves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/b/5b0d38a0-7714-40c7-ae8e-2afd121ed59a.jpg?1580015299|"
 "https://scryfall.com/card/ema/236/bloodfell-caves?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1251
+#: ../../EMA.rst:1249
 msgid "Bloodfell Caves enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1253
+#: ../../EMA.rst:1251
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1255
+#: ../../EMA.rst:1253
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../EMA.rst:1264
+#: ../../EMA.rst:1262
 msgid ""
 ":mtgtip:`Blossoming Sands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/e/3e5f3e01-c469-44f8-b34e-e594cd037e49.jpg?1580015306|"
 "https://scryfall.com/card/ema/237/blossoming-sands?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1259
+#: ../../EMA.rst:1257
 msgid "Blossoming Sands enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1261
+#: ../../EMA.rst:1259
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1263
+#: ../../EMA.rst:1261
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
-#: ../../EMA.rst:1272
+#: ../../EMA.rst:1270
 msgid ""
 ":mtgtip:`Dismal Backwater<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/7/671633dd-017b-4da5-93e4-45a9b889cc68.jpg?1580015314|"
 "https://scryfall.com/card/ema/238/dismal-backwater?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1267
+#: ../../EMA.rst:1265
 msgid "Dismal Backwater enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1269
+#: ../../EMA.rst:1267
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1271
+#: ../../EMA.rst:1269
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
-#: ../../EMA.rst:1280
+#: ../../EMA.rst:1278
 msgid ""
 ":mtgtip:`Jungle Hollow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/8/d833fd8f-8d1f-4a4d-a42a-58af63c17186.jpg?1580015322|"
 "https://scryfall.com/card/ema/239/jungle-hollow?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1275
+#: ../../EMA.rst:1273
 msgid "Jungle Hollow enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1277
+#: ../../EMA.rst:1275
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1279
+#: ../../EMA.rst:1277
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
-#: ../../EMA.rst:1286
+#: ../../EMA.rst:1284
 msgid ""
 ":mtgtip:`Karakas<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/0/605c2218-9d12-4ac3-a721-fca590b89847.jpg?1580015328|https://"
 "scryfall.com/card/ema/240/karakas?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1283
+#: ../../EMA.rst:1281
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
-#: ../../EMA.rst:1285
+#: ../../EMA.rst:1283
 msgid "|tap|: Return target legendary creature to its owner's hand."
 msgstr ""
 
-#: ../../EMA.rst:1290
+#: ../../EMA.rst:1288
 msgid ""
 ":mtgtip:`Maze of Ith<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/b/4b8eee4f-99e3-499d-9d6d-0bff023f6512.jpg?1580015334|https://"
 "scryfall.com/card/ema/241/maze-of-ith?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1289
+#: ../../EMA.rst:1287
 msgid ""
 "|tap|: Untap target attacking creature. Prevent all combat damage that would "
 "be dealt to and dealt by that creature this turn."
 msgstr ""
 
-#: ../../EMA.rst:1298
+#: ../../EMA.rst:1296
 msgid ""
 ":mtgtip:`Mishra's Factory<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/3/f305f103-746b-4406-b569-1a7dc32beee7.jpg?1580015341|"
 "https://scryfall.com/card/ema/242/mishras-factory?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1295
+#: ../../EMA.rst:1293
 msgid ""
 "|mana_1|: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
 msgstr ""
 
-#: ../../EMA.rst:1297
+#: ../../EMA.rst:1295
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../EMA.rst:1306
+#: ../../EMA.rst:1304
 msgid ""
 ":mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/4/642dd947-253b-4082-a774-d474b214a704.jpg?1580015347|"
 "https://scryfall.com/card/ema/243/rugged-highlands?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1301
+#: ../../EMA.rst:1299
 msgid "Rugged Highlands enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1303
+#: ../../EMA.rst:1301
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1305
+#: ../../EMA.rst:1303
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
-#: ../../EMA.rst:1314
+#: ../../EMA.rst:1312
 msgid ""
 ":mtgtip:`Scoured Barrens<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/4/54294215-3d63-4c44-8886-7e2f71c78379.jpg?1580015353|"
 "https://scryfall.com/card/ema/244/scoured-barrens?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1309
+#: ../../EMA.rst:1307
 msgid "Scoured Barrens enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1311
+#: ../../EMA.rst:1309
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1313
+#: ../../EMA.rst:1311
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
-#: ../../EMA.rst:1322
+#: ../../EMA.rst:1320
 msgid ""
 ":mtgtip:`Swiftwater Cliffs<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/e/6ecc7fdf-ff3e-4c09-9d5c-f08cf986689b.jpg?1580015360|"
 "https://scryfall.com/card/ema/245/swiftwater-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1317
+#: ../../EMA.rst:1315
 msgid "Swiftwater Cliffs enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1319
+#: ../../EMA.rst:1317
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1321
+#: ../../EMA.rst:1319
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
-#: ../../EMA.rst:1330
+#: ../../EMA.rst:1328
 msgid ""
 ":mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/0/00323a16-8bfd-49af-b073-8f0b23a9d947.jpg?1580015367|"
 "https://scryfall.com/card/ema/246/thornwood-falls?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1325
+#: ../../EMA.rst:1323
 msgid "Thornwood Falls enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1327
+#: ../../EMA.rst:1325
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1329
+#: ../../EMA.rst:1327
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../EMA.rst:1338
+#: ../../EMA.rst:1336
 msgid ""
 ":mtgtip:`Tranquil Cove<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/b/0bc5f4e8-e4e8-4a77-992a-3af8ef2f8df6.jpg?1580015373|"
 "https://scryfall.com/card/ema/247/tranquil-cove?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1333
+#: ../../EMA.rst:1331
 msgid "Tranquil Cove enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1335
+#: ../../EMA.rst:1333
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1337
+#: ../../EMA.rst:1335
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../EMA.rst:1344
+#: ../../EMA.rst:1342
 msgid ""
 ":mtgtip:`Wasteland<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/a/aaafb9bc-7cea-4624-a227-595544fa42b0.jpg?1590511888|https://"
 "scryfall.com/card/ema/248/wasteland?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1343
+#: ../../EMA.rst:1341
 msgid "|tap|, Sacrifice Wasteland: Destroy target nonbasic land."
 msgstr ""
 
-#: ../../EMA.rst:1351
+#: ../../EMA.rst:1349
 msgid ""
 ":mtgtip:`Wind-Scarred Crag<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/a/9a34e90d-6b79-448a-8f90-05733139207e.jpg?1580015386|"
 "https://scryfall.com/card/ema/249/wind-scarred-crag?utm_source=api>`"
 msgstr ""
 
-#: ../../EMA.rst:1347
+#: ../../EMA.rst:1345
 msgid "Wind-Scarred Crag enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMA.rst:1349
+#: ../../EMA.rst:1347
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../EMA.rst:1351
+#: ../../EMA.rst:1349
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""

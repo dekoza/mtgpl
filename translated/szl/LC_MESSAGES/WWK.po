@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -323,8 +323,7 @@ msgstr ""
 #: ../../WWK.rst:115
 msgid ""
 "When Stoneforge Mystic enters the battlefield, you may search your library "
-"for an Equipment card, reveal it, put it into your hand, then shuffle your "
-"library."
+"for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../WWK.rst:117
@@ -590,8 +589,8 @@ msgstr ""
 
 #: ../../WWK.rst:203
 msgid ""
-"Search your library for any number of nonland cards and exile them. Then "
-"shuffle your library."
+"Search your library for any number of nonland cards, exile them, then "
+"shuffle."
 msgstr ""
 
 #: ../../WWK.rst:210
@@ -631,7 +630,7 @@ msgstr ""
 msgid ""
 "Whenever Thada Adel, Acquisitor deals combat damage to a player, search that "
 "player's library for an artifact card and exile it. Then that player "
-"shuffles their library. Until end of turn, you may play that card."
+"shuffles. Until end of turn, you may play that card."
 msgstr ""
 
 #: ../../WWK.rst:226
@@ -758,8 +757,8 @@ msgstr ""
 #: ../../WWK.rst:269
 msgid ""
 "|tap|: Put target creature card from an opponent's graveyard onto the "
-"battlefield under your control if its converted mana cost is less than or "
-"equal to the number of Allies you control."
+"battlefield under your control if its mana value is less than or equal to "
+"the number of Allies you control."
 msgstr ""
 
 #: ../../WWK.rst:274
@@ -1045,8 +1044,7 @@ msgstr ""
 
 #: ../../WWK.rst:371
 msgid ""
-"Destroy target creature with converted mana cost 3 or less. It can't be "
-"regenerated."
+"Destroy target creature with mana value 3 or less. It can't be regenerated."
 msgstr ""
 
 #: ../../WWK.rst:378
@@ -1847,9 +1845,7 @@ msgid ""
 msgstr ""
 
 #: ../../WWK.rst:659
-msgid ""
-"Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
-"as you cast this spell.)"
+msgid "Multikicker |mana_2|"
 msgstr ""
 
 #: ../../WWK.rst:661
@@ -1930,7 +1926,7 @@ msgstr ""
 #: ../../WWK.rst:691
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../WWK.rst:698
@@ -2066,7 +2062,7 @@ msgstr ""
 #: ../../WWK.rst:741
 msgid ""
 "|mana_7|, |tap|: Search your library for a colorless creature card, reveal "
-"it, and put it into your hand. Then shuffle your library."
+"it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../WWK.rst:750
@@ -2241,5 +2237,5 @@ msgstr ""
 #: ../../WWK.rst:809
 msgid ""
 "|mana_1|, |tap|, Sacrifice Tectonic Edge: Destroy target nonbasic land. "
-"Activate this ability only if an opponent controls four or more lands."
+"Activate only if an opponent controls four or more lands."
 msgstr ""

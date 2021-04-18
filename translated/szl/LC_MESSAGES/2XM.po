@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -127,8 +127,8 @@ msgstr ""
 
 #: ../../2XM.rst:43
 msgid ""
-"|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost 1 "
-"or less from your graveyard to your hand."
+"|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less "
+"from your graveyard to your hand."
 msgstr ""
 
 #: ../../2XM.rst:56
@@ -151,11 +151,11 @@ msgid "Destroy all enchantments."
 msgstr ""
 
 #: ../../2XM.rst:53
-msgid "Destroy all creatures with converted mana cost 3 or less."
+msgid "Destroy all creatures with mana value 3 or less."
 msgstr ""
 
 #: ../../2XM.rst:55
-msgid "Destroy all creatures with converted mana cost 4 or greater."
+msgid "Destroy all creatures with mana value 4 or greater."
 msgstr ""
 
 #: ../../2XM.rst:62
@@ -340,7 +340,7 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, if an opponent controls more lands than "
 "you, you may search your library for up to three basic land cards, reveal "
-"them, put them into your hand, then shuffle your library."
+"them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:124
@@ -410,8 +410,7 @@ msgstr ""
 #: ../../2XM.rst:141
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
-"land card, put that card onto the battlefield tapped, then shuffle their "
-"library."
+"land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:148
@@ -503,8 +502,7 @@ msgstr ""
 #: ../../2XM.rst:175
 msgid ""
 "When Stoneforge Mystic enters the battlefield, you may search your library "
-"for an Equipment card, reveal it, put it into your hand, then shuffle your "
-"library."
+"for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:177
@@ -526,9 +524,8 @@ msgstr ""
 
 #: ../../2XM.rst:183
 msgid ""
-"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
-"put it onto the battlefield. Attach it to a creature you control. Then "
-"shuffle your library."
+"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card, put "
+"it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:188
@@ -645,7 +642,7 @@ msgstr ""
 msgid ""
 "|tap|: Target artifact creature's controller sacrifices it. That player may "
 "search their library for a noncreature artifact card, put it onto the "
-"battlefield, then shuffle their library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:230
@@ -1008,8 +1005,8 @@ msgstr ""
 
 #: ../../2XM.rst:353
 msgid ""
-"Search your library for an artifact card with converted mana cost X or less "
-"and put it onto the battlefield. Then shuffle your library."
+"Search your library for an artifact card with mana value X or less, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:358
@@ -1034,8 +1031,7 @@ msgstr ""
 
 #: ../../2XM.rst:361
 msgid ""
-"Draw cards equal to the highest converted mana cost among permanents you "
-"control."
+"Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../2XM.rst:368
@@ -1128,8 +1124,8 @@ msgstr ""
 #: ../../2XM.rst:395
 msgid ""
 "When Treasure Mage enters the battlefield, you may search your library for "
-"an artifact card with converted mana cost 6 or greater, reveal it, put it "
-"into your hand, then shuffle your library."
+"an artifact card with mana value 6 or greater, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:400
@@ -1176,8 +1172,8 @@ msgstr ""
 #: ../../2XM.rst:411
 msgid ""
 "Reveal the top card of your library and put that card into your hand. You "
-"lose life equal to its converted mana cost. You may repeat this process any "
-"number of times."
+"lose life equal to its mana value. You may repeat this process any number of "
+"times."
 msgstr ""
 
 #: ../../2XM.rst:416
@@ -1245,7 +1241,7 @@ msgstr ""
 #: ../../2XM.rst:435
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library and put "
-"that card into your hand. You lose life equal to its converted mana cost."
+"that card into your hand. You lose life equal to its mana value."
 msgstr ""
 
 #: ../../2XM.rst:440
@@ -1269,7 +1265,7 @@ msgstr ""
 #: ../../2XM.rst:443
 msgid ""
 "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../2XM.rst:448
@@ -1363,8 +1359,8 @@ msgstr ""
 
 #: ../../2XM.rst:473
 msgid ""
-"When Driver of the Dead dies, return target creature card with converted "
-"mana cost 2 or less from your graveyard to the battlefield."
+"When Driver of the Dead dies, return target creature card with mana value 2 "
+"or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../2XM.rst:478
@@ -1401,13 +1397,13 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:485
-msgid "Destroy target creature if it has converted mana cost 2 or less."
+msgid "Destroy target creature if it has mana value 2 or less."
 msgstr ""
 
 #: ../../2XM.rst:487
 msgid ""
-"Revolt — Destroy that creature if it has converted mana cost 4 or less "
-"instead if a permanent you controlled left the battlefield this turn."
+"Revolt — Destroy that creature if it has mana value 4 or less instead if a "
+"permanent you controlled left the battlefield this turn."
 msgstr ""
 
 #: ../../2XM.rst:494
@@ -1425,9 +1421,9 @@ msgstr ""
 
 #: ../../2XM.rst:493
 msgid ""
-"|mana_x|\\ |mana_b|: Put target artifact or creature card with converted "
-"mana cost X from an opponent's graveyard onto the battlefield under your "
-"control tapped. Then that player mills X cards."
+"|mana_x|\\ |mana_b|: Put target artifact or creature card with mana value X "
+"from an opponent's graveyard onto the battlefield under your control tapped. "
+"Then that player mills X cards."
 msgstr ""
 
 #: ../../2XM.rst:500
@@ -1606,8 +1602,7 @@ msgstr ""
 #: ../../2XM.rst:553
 msgid ""
 "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black "
-"Demon creature token with flying. Activate this ability only if a creature "
-"died this turn."
+"Demon creature token with flying. Activate only if a creature died this turn."
 msgstr ""
 
 #: ../../2XM.rst:564
@@ -1687,7 +1682,7 @@ msgstr ""
 #: ../../2XM.rst:583
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+"a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../2XM.rst:590
@@ -1797,8 +1792,8 @@ msgstr ""
 
 #: ../../2XM.rst:625
 msgid ""
-"|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this "
-"ability only if Bloodshot Trainee's power is 4 or greater."
+"|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if "
+"Bloodshot Trainee's power is 4 or greater."
 msgstr ""
 
 #: ../../2XM.rst:632
@@ -1928,8 +1923,7 @@ msgstr ""
 #: ../../2XM.rst:673
 msgid ""
 "When Godo, Bandit Warlord enters the battlefield, you may search your "
-"library for an Equipment card and put it onto the battlefield. If you do, "
-"shuffle your library."
+"library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:675
@@ -1975,7 +1969,7 @@ msgstr ""
 msgid ""
 "When Imperial Recruiter enters the battlefield, search your library for a "
 "creature card with power 2 or less, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../2XM.rst:692
@@ -2001,7 +1995,7 @@ msgstr ""
 #: ../../2XM.rst:695
 msgid ""
 "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../2XM.rst:700
@@ -2177,9 +2171,7 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:753
-msgid ""
-"Target creature gains double strike until end of turn. (It deals both first-"
-"strike and regular combat damage.)"
+msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../2XM.rst:755
@@ -2258,8 +2250,7 @@ msgstr ""
 msgid ""
 "Look at the top five cards of your library. You may reveal a colorless card "
 "from among them and put it into your hand. Then put the rest on the bottom "
-"of your library in any order. (Cards with no colored mana in their mana "
-"costs are colorless. Lands are also colorless.)"
+"of your library in any order."
 msgstr ""
 
 #: ../../2XM.rst:790
@@ -2379,8 +2370,8 @@ msgstr ""
 
 #: ../../2XM.rst:821
 msgid ""
-"Search your library for a creature card with converted mana cost X or less "
-"and put it onto the battlefield. Then shuffle your library."
+"Search your library for a creature card with mana value X or less, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:826
@@ -2423,7 +2414,7 @@ msgstr ""
 #: ../../2XM.rst:835
 msgid ""
 "Search your library for a land card, put that card onto the battlefield, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:844
@@ -2486,7 +2477,7 @@ msgstr ""
 #: ../../2XM.rst:861
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
-"a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+"a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../2XM.rst:866
@@ -2524,8 +2515,8 @@ msgstr ""
 #: ../../2XM.rst:873
 msgid ""
 "When Fierce Empath enters the battlefield, you may search your library for a "
-"creature card with converted mana cost 6 or greater, reveal it, put it into "
-"your hand, then shuffle your library."
+"creature card with mana value 6 or greater, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:878
@@ -2787,8 +2778,7 @@ msgstr ""
 #: ../../2XM.rst:963
 msgid ""
 "When Veteran Explorer dies, each player may search their library for up to "
-"two basic land cards and put them onto the battlefield. Then each player who "
-"searched their library this way shuffles it."
+"two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:970
@@ -2804,8 +2794,8 @@ msgstr ""
 
 #: ../../2XM.rst:969
 msgid ""
-"Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
-"you control a creature with power 4 or greater."
+"Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate only if you control a "
+"creature with power 4 or greater."
 msgstr ""
 
 #: ../../2XM.rst:974
@@ -3273,8 +3263,8 @@ msgstr ""
 
 #: ../../2XM.rst:1145
 msgid ""
-"|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only "
+"as a sorcery."
 msgstr ""
 
 #: ../../2XM.rst:1154
@@ -3355,8 +3345,7 @@ msgstr ""
 #: ../../2XM.rst:1175
 msgid ""
 "When Sphinx Summoner enters the battlefield, you may search your library for "
-"an artifact creature card, reveal it, and put it into your hand. If you do, "
-"shuffle your library."
+"an artifact creature card, reveal it, put it into your hand. then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1180
@@ -3602,7 +3591,7 @@ msgstr ""
 #: ../../2XM.rst:1269
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-"equal to the sacrificed artifact's converted mana cost to any target."
+"equal to the sacrificed artifact's mana value to any target."
 msgstr ""
 
 #: ../../2XM.rst:1274
@@ -3828,8 +3817,8 @@ msgstr ""
 
 #: ../../2XM.rst:1349
 msgid ""
-"|mana_2|, |tap|: Draw a card. Activate this ability only if you control "
-"three or more lands with the same name."
+"|mana_2|, |tap|: Draw a card. Activate only if you control three or more "
+"lands with the same name."
 msgstr ""
 
 #: ../../2XM.rst:1356
@@ -3848,8 +3837,8 @@ msgstr ""
 #: ../../2XM.rst:1355
 msgid ""
 "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
-"with converted mana cost equal to the number of charge counters on "
-"Engineered Explosives."
+"with mana value equal to the number of charge counters on Engineered "
+"Explosives."
 msgstr ""
 
 #: ../../2XM.rst:1360
@@ -3873,9 +3862,7 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1363
-msgid ""
-"Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
-"as you cast this spell.)"
+msgid "Multikicker |mana_2|"
 msgstr ""
 
 #: ../../2XM.rst:1365
@@ -3898,7 +3885,7 @@ msgstr ""
 #: ../../2XM.rst:1371
 msgid ""
 "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land "
-"card, reveal it, and put it into your hand. Then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1380
@@ -4029,7 +4016,7 @@ msgstr ""
 #: ../../2XM.rst:1425
 msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
-"instant card with converted mana cost 2 or less from your hand."
+"instant card with mana value 2 or less from your hand."
 msgstr ""
 
 #: ../../2XM.rst:1427
@@ -4060,8 +4047,8 @@ msgstr ""
 
 #: ../../2XM.rst:1437
 msgid ""
-"|tap|, Sacrifice three artifacts: Search your library for an artifact card "
-"and put it onto the battlefield. Then shuffle your library."
+"|tap|, Sacrifice three artifacts: Search your library for an artifact card, "
+"put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1444
@@ -4204,8 +4191,8 @@ msgstr ""
 
 #: ../../2XM.rst:1483
 msgid ""
-"Metalcraft — |tap|: Add one mana of any color. Activate this ability only if "
-"you control three or more artifacts."
+"Metalcraft — |tap|: Add one mana of any color. Activate only if you control "
+"three or more artifacts."
 msgstr ""
 
 #: ../../2XM.rst:1490
@@ -4346,8 +4333,8 @@ msgstr ""
 
 #: ../../2XM.rst:1535
 msgid ""
-"|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
-"mana cost equal to the number of charge counters on Ratchet Bomb."
+"|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana "
+"value equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
 
 #: ../../2XM.rst:1542
@@ -4470,8 +4457,8 @@ msgstr ""
 #: ../../2XM.rst:1587
 msgid ""
 "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or "
-"white instant card with converted mana cost 4 or less and cast that card "
-"without paying its mana cost. Then shuffle your library."
+"white instant card with mana value 4 or less and cast that card without "
+"paying its mana cost. Then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1589
@@ -4629,9 +4616,9 @@ msgstr ""
 #: ../../2XM.rst:1651
 msgid ""
 "When Treasure Keeper dies, reveal cards from the top of your library until "
-"you reveal a nonland card with converted mana cost 3 or less. You may cast "
-"that card without paying its mana cost. Put all revealed cards not cast this "
-"way on the bottom of your library in a random order."
+"you reveal a nonland card with mana value 3 or less. You may cast that card "
+"without paying its mana cost. Put all revealed cards not cast this way on "
+"the bottom of your library in a random order."
 msgstr ""
 
 #: ../../2XM.rst:1656
@@ -4760,8 +4747,7 @@ msgstr ""
 #: ../../2XM.rst:1697
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
-"for a basic land card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../2XM.rst:1706

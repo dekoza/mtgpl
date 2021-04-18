@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 09:51+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -91,7 +91,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Zaffai, Thunder Conductor<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/e/a/ea1ab937-8647-4c83-99d5-6a40dffa4c9b.jpg?"
-"1616698605|https://scryfall.com/card/c21/4/zaffai-thunder-conductor?"
+"1618611117|https://scryfall.com/card/c21/4/zaffai-thunder-conductor?"
 "utm_source=api>`"
 msgstr ""
 
@@ -182,9 +182,9 @@ msgstr ""
 
 #: ../../C21.rst:55
 msgid ""
-"|mana_x|, |tap|, Exile an artifact with mana value X from your graveyard: "
-"Create two tokens that are copies of the exiled card. Activate only as a "
-"sorcery."
+"|mana_x|, |tap|, Exile an artifact card with mana value X from your "
+"graveyard: Create two tokens that are copies of the exiled card. Activate "
+"only as a sorcery."
 msgstr ""
 
 #: ../../C21.rst:62
@@ -412,8 +412,8 @@ msgstr ""
 #: ../../C21.rst:137
 msgid ""
 "Each player puts a vow counter on a creature they control and sacrifices the "
-"rest. Each of those creatures can't attack you for as long as it has a vow "
-"counter on it."
+"rest. Each of those creatures can't attack you or planeswalkers you control "
+"for as long as it has a vow counter on it."
 msgstr ""
 
 #: ../../C21.rst:142
@@ -510,9 +510,9 @@ msgstr ""
 #: ../../C21.rst:171
 msgid ""
 "Suspend 3—|mana_2|\\ |mana_u| (Rather than cast this card from your hand, "
-"pay |mana_2|\\ |mana_u| and exile it with four time counters on it. At the "
-"beginning of your upkeep, remove a time counter. When the last is removed, "
-"cast it without paying its mana cost.)"
+"you may pay |mana_2|\\ |mana_u| and exile it with three time counters on it. "
+"At the beginning of your upkeep, remove a time counter. When the last is "
+"removed, cast it without paying its mana cost.)"
 msgstr ""
 
 #: ../../C21.rst:176
@@ -526,7 +526,7 @@ msgstr ""
 msgid ""
 "Exile the top X cards of your library. You may cast an instant or sorcery "
 "spell with mana value X or less from among them without paying its mana "
-"cost. Then put the exiled instant or sorcery cards that weren't cast this "
+"cost. Then put the exiled instant and sorcery cards that weren't cast this "
 "way into your hand and the rest on the bottom of your library in a random "
 "order."
 msgstr ""
@@ -550,8 +550,8 @@ msgstr ""
 
 #: ../../C21.rst:183
 msgid ""
-"Magecraft — Whenever you cast an instant or sorcery spell, target creature "
-"has base power and toughness 8/8 until end of turn."
+"Magecraft — Whenever you cast or copy an instant or sorcery spell, target "
+"creature has base power and toughness 8/8 until end of turn."
 msgstr ""
 
 #: ../../C21.rst:192
@@ -819,8 +819,8 @@ msgstr ""
 
 #: ../../C21.rst:275
 msgid ""
-"Whenever you gain life, you pay |mana_b|. If you do, return target creature "
-"card from your graveyard to your hand."
+"Whenever you gain life, you may pay |mana_b|. If you do, return target "
+"creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../C21.rst:280
@@ -945,8 +945,8 @@ msgstr ""
 
 #: ../../C21.rst:319
 msgid ""
-"Whenever you exile one or more cards from your library and/or your "
-"graveyard, put a +1/+1 counter on Laelia."
+"Whenever a spell or ability you control exiles one or more cards from your "
+"library and/or your graveyard, put a +1/+1 counter on Laelia."
 msgstr ""
 
 #: ../../C21.rst:326
@@ -1018,7 +1018,7 @@ msgstr ""
 #: ../../C21.rst:343
 msgid ""
 "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library "
-"for a Mountain card. Reveal it, put it into your hand, then shuffle.)"
+"for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../C21.rst:348
@@ -1133,7 +1133,7 @@ msgstr ""
 #: ../../C21.rst:387
 msgid ""
 "At the beginning of your end step, double the number of growth counters on "
-"Paradox Zone. Then create a 0/0 blue and green Fractal creature token. Put X "
+"Paradox Zone. Then create a 0/0 green and blue Fractal creature token. Put X "
 "+1/+1 counters on it, where X is the number of growth counters on Paradox "
 "Zone."
 msgstr ""
@@ -1456,8 +1456,8 @@ msgstr ""
 msgid ""
 "When Boreas Charger leaves the battlefield, choose an opponent who controls "
 "more lands than you. Search your library for a number of Plains cards equal "
-"to the difference and reveal them. Put one of them onto the battlefield "
-"tapped and the rest into your hand. Then shuffle your library."
+"to the difference, reveal those cards, put one of them onto the battlefield "
+"tapped and the rest into your hand, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:502
@@ -1646,7 +1646,7 @@ msgstr ""
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
 "controls more lands than you, you may search your library for a Plains card, "
-"put it onto the battlefield, then shuffle your library."
+"put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:568
@@ -1692,7 +1692,7 @@ msgstr ""
 msgid ""
 "When Oreskos Explorer enters the battlefield, search your library for up to "
 "X Plains cards, where X is the number of players who control more lands than "
-"you. Reveal those cards, put them into your hand, then shuffle your library."
+"you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:580
@@ -1706,7 +1706,7 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, each player may put two +1/+1 counters on a "
 "creature they control. If a player does, creatures that player controls "
-"can't attack you or a planeswalker you control until your next turn."
+"can't attack you or planeswalkers you control until your next turn."
 msgstr ""
 
 #: ../../C21.rst:584
@@ -1799,7 +1799,7 @@ msgstr ""
 #: ../../C21.rst:613
 msgid ""
 "Reveal the player you chose: Exile target creature that's attacking you if "
-"it's controlled by the chosen player. Activate this ability only once."
+"it's controlled by the chosen player. Activate only once."
 msgstr ""
 
 #: ../../C21.rst:620
@@ -1812,7 +1812,7 @@ msgstr ""
 #: ../../C21.rst:619
 msgid ""
 "Whenever Sun Titan enters the battlefield or attacks, you may return target "
-"permanent card with converted mana cost 3 or less from your graveyard to the "
+"permanent card with mana value 3 or less from your graveyard to the "
 "battlefield."
 msgstr ""
 
@@ -1871,8 +1871,8 @@ msgstr ""
 
 #: ../../C21.rst:641
 msgid ""
-"Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
-"planeswalker you control."
+"Enchanted creature gets +2/+2, has vigilance, and can't attack you or "
+"planeswalkers you control."
 msgstr ""
 
 #: ../../C21.rst:648
@@ -2027,8 +2027,8 @@ msgstr ""
 
 #: ../../C21.rst:697
 msgid ""
-"Living Lore's power and toughness are each equal to the exiled card's "
-"converted mana cost."
+"Living Lore's power and toughness are each equal to the exiled card's mana "
+"value."
 msgstr ""
 
 #: ../../C21.rst:699
@@ -2047,15 +2047,14 @@ msgstr ""
 #: ../../C21.rst:703
 msgid ""
 "Whenever you cast an instant or sorcery spell, create an X/X colorless "
-"Construct artifact creature token, where X is that spell's converted mana "
-"cost."
+"Construct artifact creature token, where X is that spell's mana value."
 msgstr ""
 
 #: ../../C21.rst:705
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|, Exile Metallurgic Summonings: Return all "
-"instant and sorcery cards from your graveyard to your hand. Activate this "
-"ability only if you control six or more artifacts."
+"instant and sorcery cards from your graveyard to your hand. Activate only if "
+"you control six or more artifacts."
 msgstr ""
 
 #: ../../C21.rst:712
@@ -2068,8 +2067,7 @@ msgstr ""
 #: ../../C21.rst:709
 msgid ""
 "Shuffle your library. Then exile the top card of your library. Until end of "
-"turn, you may play that card without paying its mana cost. (If it has X in "
-"its mana cost, X is 0.)"
+"turn, you may play that card without paying its mana cost."
 msgstr ""
 
 #: ../../C21.rst:720
@@ -2100,7 +2098,7 @@ msgstr ""
 #: ../../C21.rst:723
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
-"order. You may shuffle your library."
+"order. You may shuffle."
 msgstr ""
 
 #: ../../C21.rst:725
@@ -2204,7 +2202,7 @@ msgstr ""
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 
 #: ../../C21.rst:764
@@ -2351,7 +2349,7 @@ msgstr ""
 #: ../../C21.rst:819
 msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
-"equal to that permanent's converted mana cost."
+"equal to that permanent's mana value."
 msgstr ""
 
 #: ../../C21.rst:824
@@ -2629,8 +2627,8 @@ msgstr ""
 msgid ""
 "When Combustible Gearhulk enters the battlefield, target opponent may have "
 "you draw three cards. If the player doesn't, you mill three cards, then "
-"Combustible Gearhulk deals damage to that player equal to the total "
-"converted mana cost of those cards."
+"Combustible Gearhulk deals damage to that player equal to the total mana "
+"value of those cards."
 msgstr ""
 
 #: ../../C21.rst:934
@@ -2684,7 +2682,7 @@ msgstr ""
 #: ../../C21.rst:945
 msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
-"until end of turn, where X is that spell's converted mana cost."
+"until end of turn, where X is that spell's mana value."
 msgstr ""
 
 #: ../../C21.rst:950
@@ -2748,7 +2746,7 @@ msgstr ""
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 
 #: ../../C21.rst:972
@@ -2801,7 +2799,7 @@ msgstr ""
 #: ../../C21.rst:985
 msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
-"+0 until end of turn, where X is that artifact's converted mana cost."
+"+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
 
 #: ../../C21.rst:990
@@ -2814,7 +2812,7 @@ msgstr ""
 #: ../../C21.rst:989
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-"Activate this ability only during your turn."
+"Activate only during your turn."
 msgstr ""
 
 #: ../../C21.rst:998
@@ -2908,10 +2906,9 @@ msgstr ""
 #: ../../C21.rst:1021
 msgid ""
 "Whenever you cast a spell from your hand, reveal the top X cards of your "
-"library, where X is that spell's converted mana cost. You may cast a spell "
-"with converted mana cost X or less from among cards revealed this way "
-"without paying its mana cost. Put the rest on the bottom of your library in "
-"a random order."
+"library, where X is that spell's mana value. You may cast a spell with mana "
+"value X or less from among cards revealed this way without paying its mana "
+"cost. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../C21.rst:1028
@@ -2943,8 +2940,8 @@ msgstr ""
 #: ../../C21.rst:1031
 msgid ""
 "Return target instant or sorcery card from your graveyard to your hand. "
-"Volcanic Vision deals damage equal to that card's converted mana cost to "
-"each creature your opponents control. Exile Volcanic Vision."
+"Volcanic Vision deals damage equal to that card's mana value to each "
+"creature your opponents control. Exile Volcanic Vision."
 msgstr ""
 
 #: ../../C21.rst:1036
@@ -3014,9 +3011,8 @@ msgstr ""
 
 #: ../../C21.rst:1053 ../../C21.rst:1125
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1058
@@ -3251,7 +3247,7 @@ msgstr ""
 #: ../../C21.rst:1143
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1148
@@ -3264,7 +3260,7 @@ msgstr ""
 #: ../../C21.rst:1147
 msgid ""
 "Search your library for up to three basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library. You gain 7 life."
+"battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 
 #: ../../C21.rst:1152
@@ -3302,8 +3298,8 @@ msgstr ""
 
 #: ../../C21.rst:1161
 msgid ""
-"Search your library for a basic land card and put that card onto the "
-"battlefield tapped. Then shuffle your library."
+"Search your library for a basic land card, put that card onto the "
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1170
@@ -3498,9 +3494,9 @@ msgstr ""
 #: ../../C21.rst:1235
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
-"spells with converted mana cost X or less from among them without paying "
-"their mana costs. Then put all cards exiled this way that weren't cast into "
-"your graveyard."
+"spells with mana value X or less from among them without paying their mana "
+"costs. Then put all cards exiled this way that weren't cast into your "
+"graveyard."
 msgstr ""
 
 #: ../../C21.rst:1240
@@ -3511,7 +3507,7 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1239
-msgid "Destroy each nonland permanent with converted mana cost X or less."
+msgid "Destroy each nonland permanent with mana value X or less."
 msgstr ""
 
 #: ../../C21.rst:1248
@@ -3788,7 +3784,7 @@ msgstr ""
 #: ../../C21.rst:1339
 msgid ""
 "|mana_1|: Attach Bloodthirsty Blade to target creature an opponent controls. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../C21.rst:1346
@@ -3818,7 +3814,7 @@ msgstr ""
 #: ../../C21.rst:1351
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-"equal to the sacrificed artifact's converted mana cost to any target."
+"equal to the sacrificed artifact's mana value to any target."
 msgstr ""
 
 #: ../../C21.rst:1356
@@ -3831,7 +3827,7 @@ msgstr ""
 #: ../../C21.rst:1355
 msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
-"land cards, put them onto the battlefield tapped, then shuffle your library."
+"land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1362
@@ -3951,9 +3947,7 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1397
-msgid ""
-"|tap|: Draw a card. Activate this ability only if you created a token this "
-"turn."
+msgid "|tap|: Draw a card. Activate only if you created a token this turn."
 msgstr ""
 
 #: ../../C21.rst:1399
@@ -4041,7 +4035,7 @@ msgstr ""
 msgid ""
 "When Mycosynth Wellspring enters the battlefield or is put into a graveyard "
 "from the battlefield, you may search your library for a basic land card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1436
@@ -4125,7 +4119,7 @@ msgstr ""
 #: ../../C21.rst:1459
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1464
@@ -4163,7 +4157,7 @@ msgstr ""
 msgid ""
 "Whenever Scrap Trawler or another artifact you control is put into a "
 "graveyard from the battlefield, return to your hand target artifact card in "
-"your graveyard with lesser converted mana cost."
+"your graveyard with lesser mana value."
 msgstr ""
 
 #: ../../C21.rst:1476
@@ -4208,7 +4202,7 @@ msgstr ""
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../C21.rst:1489
@@ -4240,9 +4234,9 @@ msgstr ""
 
 #: ../../C21.rst:1501
 msgid ""
-"|mana_x|: Destroy each nonland permanent with converted mana cost X whose "
-"controller was dealt combat damage by Steel Hellkite this turn. Activate "
-"this ability only once each turn."
+"|mana_x|: Destroy each nonland permanent with mana value X whose controller "
+"was dealt combat damage by Steel Hellkite this turn. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../C21.rst:1506
@@ -4433,7 +4427,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../C21.rst:1590
@@ -4817,7 +4811,7 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../C21.rst:1758
@@ -4940,8 +4934,8 @@ msgstr ""
 
 #: ../../C21.rst:1811
 msgid ""
-"|mana_g|, |tap|: You gain 1 life. Activate this ability only if you control "
-"two or more green permanents."
+"|mana_g|, |tap|: You gain 1 life. Activate only if you control two or more "
+"green permanents."
 msgstr ""
 
 #: ../../C21.rst:1818
@@ -5038,9 +5032,7 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1857
-msgid ""
-"|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a "
-"Swamp."
+msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../C21.rst:1864
@@ -5051,9 +5043,7 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1863
-msgid ""
-"|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a "
-"Swamp."
+msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../C21.rst:1872
@@ -5133,8 +5123,8 @@ msgstr ""
 
 #: ../../C21.rst:1899
 msgid ""
-"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-"control five or more lands."
+"|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
+"more lands."
 msgstr ""
 
 #: ../../C21.rst:1908

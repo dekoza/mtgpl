@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
@@ -1021,11 +1021,16 @@ msgstr ""
 
 # 5789bd5c4aee411fb8178b3701949451
 #: ../../DKA.rst:321
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, you may search your library for a Curse "
+#| "card that doesn't have the same name as a Curse attached to enchanted "
+#| "player, put it onto the battlefield attached to that player, then shuffle "
+#| "your library."
 msgid ""
 "At the beginning of your upkeep, you may search your library for a Curse "
 "card that doesn't have the same name as a Curse attached to enchanted "
-"player, put it onto the battlefield attached to that player, then shuffle "
-"your library."
+"player, put it onto the battlefield attached to that player, then shuffle."
 msgstr ""
 "Na początku twojego kroku utrzymania, możesz wyszukać w twojej bibliotece "
 "kartę Klątwy mającej inną nazwę niż Klątwa dołączona do zauroczonego gracza, "
@@ -1245,10 +1250,15 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:391
+#, fuzzy
+#| msgid ""
+#| "Search your library for a card and put that card into your hand. If this "
+#| "spell was cast from a graveyard, instead search your library for two "
+#| "cards and put those cards into your hand. Then shuffle your library."
 msgid ""
 "Search your library for a card and put that card into your hand. If this "
 "spell was cast from a graveyard, instead search your library for two cards "
-"and put those cards into your hand. Then shuffle your library."
+"and put those cards into your hand. Then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę i umieść ją w twojej ręce. Jeśli ten czar "
 "został rzucony z cmentarza, zamiast tego wyszukaj w twojej bibliotece dwie "
@@ -1295,9 +1305,12 @@ msgstr ""
 
 # 3b7848be51e14ef38a9136f4975fcda1
 #: ../../DKA.rst:405
+#, fuzzy
+#| msgid ""
+#| "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only "
+#| "any time you could cast a sorcery."
 msgid ""
-"Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any "
-"time you could cast a sorcery."
+"Sacrifice a Human: Transform Ravenous Demon. Activate only as a sorcery."
 msgstr "Poświęć Człowieka: Transformuj tego stwora. Aktywuj jako obrzęd."
 
 #: ../../DKA.rst:412
@@ -2029,9 +2042,13 @@ msgstr ""
 
 # 46c4382f046f41ab8be9579a1c5bec2e
 #: ../../DKA.rst:639
+#, fuzzy
+#| msgid ""
+#| "|mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_g|, poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego "
 "lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
@@ -2450,9 +2467,13 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:767
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. "
+#| "Activate this ability only once each turn."
 msgid ""
 "|mana_1|\\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
 "tę zdolność tylko raz na turę."
@@ -2475,9 +2496,13 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:773
+#, fuzzy
+#| msgid ""
+#| "|mana_3|\\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. "
+#| "Activate this ability only once each turn."
 msgid ""
 "|mana_3|\\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 "|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4. Możesz aktywować "
 "tę zdolność tylko raz na turę."
@@ -3000,9 +3025,13 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:933
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."

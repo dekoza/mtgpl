@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
@@ -328,11 +328,18 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:105
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a "
+#| "Plains or Swamp card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "When Kor Cartographer enters the battlefield, you may search your library "
-"for a Plains card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:110
 msgid ""
@@ -440,8 +447,7 @@ msgstr ""
 #: ../../ZEN.rst:139
 msgid ""
 "|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying. "
-"Activate this ability only if Luminarch Ascension has four or more quest "
-"counters on it."
+"Activate only if Luminarch Ascension has four or more quest counters on it."
 msgstr ""
 
 #: ../../ZEN.rst:146
@@ -553,8 +559,8 @@ msgstr ""
 #: ../../ZEN.rst:181
 msgid ""
 "Remove five quest counters from Quest for the Holy Relic and sacrifice it: "
-"Search your library for an Equipment card, put it onto the battlefield, and "
-"attach it to a creature you control. Then shuffle your library."
+"Search your library for an Equipment card, put it onto the battlefield, "
+"attach it to a creature you control, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:186
@@ -696,7 +702,7 @@ msgstr ""
 msgid ""
 "As long as Archmage Ascension has six or more quest counters on it, if you "
 "would draw a card, you may instead search your library for a card, put that "
-"card into your hand, then shuffle your library."
+"card into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:232
@@ -749,7 +755,7 @@ msgstr "Obronność, latanie"
 #: ../../ZEN.rst:245
 msgid ""
 "|tap|: Put Gomazoa and each creature it's blocking on top of their owners' "
-"libraries, then those players shuffle their libraries."
+"libraries, then those players shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:250
@@ -1157,10 +1163,17 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:399
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land "
+#| "card, reveal it, and put it into your hand. Then shuffle your library."
 msgid ""
-"Search your library for a Trap card, reveal it, and put it into your hand. "
-"Then shuffle your library."
+"Search your library for a Trap card, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:406
 msgid ""
@@ -1736,9 +1749,8 @@ msgstr ""
 #: ../../ZEN.rst:595
 msgid ""
 "Search target player's library for up to three cards, exile them, then that "
-"player shuffles their library. If this spell was kicked, instead search that "
-"player's library for up to fifteen cards, exile them, then that player "
-"shuffles their library."
+"player shuffles. If this spell was kicked, instead search that player's "
+"library for up to fifteen cards, exile them, then that player shuffles."
 msgstr ""
 
 #: ../../ZEN.rst:604
@@ -2530,10 +2542,18 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:861
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a "
+#| "Mountain or Plains card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
-"|mana_3|\\ |mana_g|, |tap|: Search your library for a basic land card and "
-"put it onto the battlefield tapped. Then shuffle your library."
+"|mana_3|\\ |mana_g|, |tap|: Search your library for a basic land card, put "
+"it onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:872
 msgid ""
@@ -2551,11 +2571,19 @@ msgid "Enchanted creature has base power and toughness 8/8 and has trample."
 msgstr ""
 
 #: ../../ZEN.rst:871
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a "
+#| "Plains or Swamp card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "When Gigantiform enters the battlefield, if it was kicked, you may search "
 "your library for a card named Gigantiform, put it onto the battlefield, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:876
 msgid ""
@@ -2591,10 +2619,18 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:885
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a "
+#| "Mountain or Plains card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:890
 msgid ""
@@ -2624,11 +2660,18 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:895
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
+#| "Forest or Island card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "Remove three quest counters from Khalni Heart Expedition and sacrifice it: "
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
 
 #: ../../ZEN.rst:900
 msgid ""
@@ -2674,20 +2717,36 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:909
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a "
+#| "Plains or Swamp card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
-"+1: Search your library for a card named Nissa's Chosen and put it onto the "
-"battlefield. Then shuffle your library."
+"+1: Search your library for a card named Nissa's Chosen, put it onto the "
+"battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:911
 msgid "+1: You gain 2 life for each Elf you control."
 msgstr ""
 
 #: ../../ZEN.rst:913
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a "
+#| "Mountain or Plains card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
-"−7: Search your library for any number of Elf creature cards and put them "
-"onto the battlefield. Then shuffle your library."
+"−7: Search your library for any number of Elf creature cards, put them onto "
+"the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../ZEN.rst:918
 msgid ""
@@ -3170,9 +3229,13 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:1077
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land "
+#| "card, reveal it, and put it into your hand. Then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land "
-"card, reveal it, and put it into your hand. Then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
 "lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
@@ -3327,9 +3390,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:1135
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a "
+#| "Mountain or Plains card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain "
-"or Plains card, put it onto the battlefield, then shuffle your library."
+"or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
@@ -3483,9 +3551,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:1197
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a "
+#| "Plains or Swamp card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains "
-"or Swamp card, put it onto the battlefield, then shuffle your library."
+"or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
@@ -3499,10 +3572,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:1201
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
+#| "Forest or Island card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-"Forest or Island card, put it onto the battlefield, then shuffle your "
-"library."
+"Forest or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -3553,10 +3630,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:1221
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an "
+#| "Island or Mountain card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an "
-"Island or Mountain card, put it onto the battlefield, then shuffle your "
-"library."
+"Island or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Wyspy lub Góry, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -3662,9 +3743,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZEN.rst:1265
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a "
+#| "Swamp or Forest card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a "
-"Swamp or Forest card, put it onto the battlefield, then shuffle your library."
+"Swamp or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Bagna lub Lasu, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."

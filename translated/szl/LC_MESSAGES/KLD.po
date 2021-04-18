@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -257,8 +257,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:87
-msgid ""
-"Destroy target artifact or enchantment with converted mana cost 4 or less."
+msgid "Destroy target artifact or enchantment with mana value 4 or less."
 msgstr ""
 
 #: ../../KLD.rst:92
@@ -538,7 +537,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:197
-msgid "Enchanted permanent gets -4/-0."
+msgid "Enchanted creature gets -4/-0."
 msgstr ""
 
 #: ../../KLD.rst:204
@@ -590,7 +589,7 @@ msgstr ""
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
 "energy|\\ |energy|: Return all other creatures to their owners' hands. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../KLD.rst:220
@@ -615,7 +614,7 @@ msgstr ""
 msgid ""
 "Choose target artifact or creature. You get |energy|\\ |energy|\\ |energy|\\ "
 "|energy| (four energy counters), then you may pay an amount of |energy| "
-"equal to that permanent's converted mana cost. If you do, gain control of it."
+"equal to that permanent's mana value. If you do, gain control of it."
 msgstr ""
 
 #: ../../KLD.rst:226
@@ -842,15 +841,14 @@ msgstr ""
 #: ../../KLD.rst:311
 msgid ""
 "Whenever you cast an instant or sorcery spell, create an X/X colorless "
-"Construct artifact creature token, where X is that spell's converted mana "
-"cost."
+"Construct artifact creature token, where X is that spell's mana value."
 msgstr ""
 
 #: ../../KLD.rst:313
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|, Exile Metallurgic Summonings: Return all "
-"instant and sorcery cards from your graveyard to your hand. Activate this "
-"ability only if you control six or more artifacts."
+"instant and sorcery cards from your graveyard to your hand. Activate only if "
+"you control six or more artifacts."
 msgstr ""
 
 #: ../../KLD.rst:320
@@ -896,8 +894,7 @@ msgstr ""
 #: ../../KLD.rst:329
 msgid ""
 "At the beginning of your upkeep, if you control the artifact with the "
-"highest converted mana cost or tied for the highest converted mana cost, "
-"draw a card."
+"highest mana value or tied for the highest mana value, draw a card."
 msgstr ""
 
 #: ../../KLD.rst:334
@@ -1123,8 +1120,7 @@ msgstr ""
 
 #: ../../KLD.rst:409
 msgid ""
-"Search your library for a card and put that card into your hand. Then "
-"shuffle your library."
+"Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../KLD.rst:414
@@ -1309,8 +1305,8 @@ msgstr ""
 msgid ""
 "Choose a nonartifact, nonland card name. Search target player's graveyard, "
 "hand, and library for any number of cards with that name and exile them. "
-"That player shuffles their library, then draws a card for each card exiled "
-"from their hand this way."
+"That player shuffles, then draws a card for each card exiled from their hand "
+"this way."
 msgstr ""
 
 #: ../../KLD.rst:480
@@ -1405,8 +1401,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:511
-msgid ""
-"Draw cards equal to the converted mana cost of the sacrificed permanent."
+msgid "Draw cards equal to the mana value of the sacrificed permanent."
 msgstr ""
 
 #: ../../KLD.rst:516
@@ -1545,7 +1540,7 @@ msgstr ""
 #: ../../KLD.rst:561
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. "
-"Activate this ability only if you control two or more artifacts."
+"Activate only if you control two or more artifacts."
 msgstr ""
 
 #: ../../KLD.rst:566
@@ -1673,8 +1668,8 @@ msgstr ""
 msgid ""
 "When Combustible Gearhulk enters the battlefield, target opponent may have "
 "you draw three cards. If the player doesn't, you mill three cards, then "
-"Combustible Gearhulk deals damage to that player equal to the total "
-"converted mana cost of those cards."
+"Combustible Gearhulk deals damage to that player equal to the total mana "
+"value of those cards."
 msgstr ""
 
 #: ../../KLD.rst:612
@@ -1943,7 +1938,7 @@ msgstr ""
 msgid ""
 "Choose target creature. Exile the top card of your library. You may have "
 "Spark of Creativity deal damage to that creature equal to the exiled card's "
-"converted mana cost. If you don't, you may play that card until end of turn."
+"mana value. If you don't, you may play that card until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:712
@@ -2133,7 +2128,7 @@ msgstr ""
 #: ../../KLD.rst:773
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library. You get |energy|\\ |energy| (two energy counters)."
+"then shuffle. You get |energy|\\ |energy| (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:778
@@ -2221,9 +2216,9 @@ msgstr ""
 #: ../../KLD.rst:805
 msgid ""
 "Look at the top ten cards of your library, exile up to two creature cards "
-"from among them, then shuffle your library. Target opponent may choose one "
-"of the exiled cards and put it onto the battlefield under their control. Put "
-"the rest onto the battlefield under your control."
+"from among them, then shuffle. Target opponent may choose one of the exiled "
+"cards and put it onto the battlefield under their control. Put the rest onto "
+"the battlefield under your control."
 msgstr ""
 
 #: ../../KLD.rst:812
@@ -2529,8 +2524,7 @@ msgstr ""
 #: ../../KLD.rst:919
 msgid ""
 "When Wild Wanderer enters the battlefield, you may search your library for a "
-"basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KLD.rst:924
@@ -2700,7 +2694,7 @@ msgstr ""
 msgid ""
 "Whenever you cast your first spell each turn, reveal the top card of your "
 "library. You may cast it without paying its mana cost if it's a spell with "
-"lesser converted mana cost. If you don't cast it, put it into your hand."
+"lesser mana value. If you don't cast it, put it into your hand."
 msgstr ""
 
 #: ../../KLD.rst:986
@@ -2737,7 +2731,7 @@ msgstr ""
 #: ../../KLD.rst:993
 msgid ""
 "−7: Search your library for up to three artifact cards with different names, "
-"put them onto the battlefield, then shuffle your library."
+"put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KLD.rst:998
@@ -3315,8 +3309,8 @@ msgstr ""
 
 #: ../../KLD.rst:1201
 msgid ""
-"This spell costs |mana_x| less to cast, where X is the total converted mana "
-"cost of noncreature artifacts you control."
+"This spell costs |mana_x| less to cast, where X is the total mana value of "
+"noncreature artifacts you control."
 msgstr ""
 
 #: ../../KLD.rst:1203
@@ -3474,7 +3468,7 @@ msgstr ""
 msgid ""
 "When Self-Assembler enters the battlefield, you may search your library for "
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../KLD.rst:1264
@@ -3689,8 +3683,8 @@ msgstr ""
 #: ../../KLD.rst:1347
 msgid ""
 "|mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an "
-"artifact card, reveal it, put it into your hand, then shuffle your library. "
-"Activate this ability only if you control three or more artifacts."
+"artifact card, reveal it, put it into your hand, then shuffle. Activate only "
+"if you control three or more artifacts."
 msgstr ""
 
 #: ../../KLD.rst:1354
@@ -3821,7 +3815,7 @@ msgstr ""
 msgid ""
 "Liberating Combustion deals 6 damage to target creature. You may search your "
 "library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, "
-"and put it into your hand. If you search your library this way, shuffle it."
+"and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../KLD.rst:1400
@@ -3903,7 +3897,7 @@ msgstr ""
 msgid ""
 "Search your library for a basic land card and put it onto the battlefield "
 "tapped. Search your library and graveyard for a card named Nissa, Nature's "
-"Artisan, reveal it, and put it into your hand. Then shuffle your library."
+"Artisan, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../KLD.rst:1433

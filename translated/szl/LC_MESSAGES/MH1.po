@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -368,8 +368,8 @@ msgstr ""
 #: ../../MH1.rst:123
 msgid ""
 "When Ranger-Captain of Eos enters the battlefield, you may search your "
-"library for a creature card with converted mana cost 1 or less, reveal it, "
-"put it into your hand, then shuffle your library."
+"library for a creature card with mana value 1 or less, reveal it, put it "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:125
@@ -509,8 +509,8 @@ msgstr ""
 #: ../../MH1.rst:175
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Search your library "
-"for a legendary permanent card with converted mana cost less than Sisay's "
-"power, put that card onto the battlefield, then shuffle your library."
+"for a legendary permanent card with mana value less than Sisay's power, put "
+"that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:184
@@ -578,7 +578,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Trustworthy Scout from your graveyard: Search "
 "your library for a card named Trustworthy Scout, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:208
@@ -654,7 +654,7 @@ msgstr ""
 msgid ""
 "Exile target creature you don't control. For each creature exiled this way, "
 "its controller searches their library for a basic land card. Those players "
-"put those cards onto the battlefield tapped, then shuffle their libraries."
+"put those cards onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:227
@@ -690,8 +690,8 @@ msgstr ""
 
 #: ../../MH1.rst:237
 msgid ""
-"|tap|: Tap target creature. Activate this ability only if you had a creature "
-"enter the battlefield under your control this turn."
+"|tap|: Tap target creature. Activate only if you had a creature enter the "
+"battlefield under your control this turn."
 msgstr ""
 
 #: ../../MH1.rst:248
@@ -715,8 +715,7 @@ msgid "Target player draws two cards."
 msgstr ""
 
 #: ../../MH1.rst:247
-msgid ""
-"Gain control of target nonland permanent with converted mana cost 1 or less."
+msgid "Gain control of target nonland permanent with mana value 1 or less."
 msgstr ""
 
 #: ../../MH1.rst:254
@@ -758,7 +757,7 @@ msgstr ""
 msgid ""
 "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrosity 2. (If this creature isn't "
 "monstrous, put two +1/+1 counters on it and it becomes monstrous. |mana_s| "
-"can be paid with one mana from a snow permanent.)"
+"can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../MH1.rst:267
@@ -1063,8 +1062,7 @@ msgstr ""
 #: ../../MH1.rst:379
 msgid ""
 "When Pondering Mage enters the battlefield, look at the top three cards of "
-"your library, then put them back in any order. You may shuffle your library. "
-"Draw a card."
+"your library, then put them back in any order. You may shuffle. Draw a card."
 msgstr ""
 
 #: ../../MH1.rst:386
@@ -1081,9 +1079,8 @@ msgstr ""
 
 #: ../../MH1.rst:385
 msgid ""
-"Counter target spell if its converted mana cost is 2 or less. If this spell "
-"was kicked, counter that spell if its converted mana cost is 4 or less "
-"instead."
+"Counter target spell if its mana value is 2 or less. If this spell was "
+"kicked, counter that spell if its mana value is 4 or less instead."
 msgstr ""
 
 #: ../../MH1.rst:390
@@ -1209,8 +1206,8 @@ msgstr ""
 #: ../../MH1.rst:433
 msgid ""
 "When Tribute Mage enters the battlefield, you may search your library for an "
-"artifact card with converted mana cost 2, reveal that card, put it into your "
-"hand, then shuffle your library."
+"artifact card with mana value 2, reveal that card, put it into your hand, "
+"then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:444
@@ -1844,8 +1841,8 @@ msgstr ""
 
 #: ../../MH1.rst:677
 msgid ""
-"Return target creature card with converted mana cost 3 or less from your "
-"graveyard to the battlefield."
+"Return target creature card with mana value 3 or less from your graveyard to "
+"the battlefield."
 msgstr ""
 
 #: ../../MH1.rst:686
@@ -1901,8 +1898,7 @@ msgstr ""
 #: ../../MH1.rst:701
 msgid ""
 "When Alpine Guide enters the battlefield, you may search your library for a "
-"Mountain card, put that card onto the battlefield tapped, then shuffle your "
-"library."
+"Mountain card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:703
@@ -2028,7 +2024,7 @@ msgstr ""
 #: ../../MH1.rst:743
 msgid ""
 "Destroy target land. Its controller may search their library for a basic "
-"land card, put it onto the battlefield, then shuffle their library."
+"land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:750
@@ -2072,13 +2068,13 @@ msgstr ""
 #: ../../MH1.rst:759
 msgid ""
 "When Goblin Engineer enters the battlefield, you may search your library for "
-"an artifact card, put it into your graveyard, then shuffle your library."
+"an artifact card, put it into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:761
 msgid ""
 "|mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with "
-"converted mana cost 3 or less from your graveyard to the battlefield."
+"mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../MH1.rst:766
@@ -2091,8 +2087,7 @@ msgstr ""
 #: ../../MH1.rst:765
 msgid ""
 "When Goblin Matron enters the battlefield, you may search your library for a "
-"Goblin card, reveal that card, put it into your hand, then shuffle your "
-"library."
+"Goblin card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:770
@@ -2461,8 +2456,8 @@ msgstr ""
 
 #: ../../MH1.rst:895
 msgid ""
-"Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate this "
-"ability only if a creature died this turn."
+"Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate only "
+"if a creature died this turn."
 msgstr ""
 
 #: ../../MH1.rst:904
@@ -2673,9 +2668,8 @@ msgstr ""
 
 #: ../../MH1.rst:969
 msgid ""
-"|mana_s|: Frostwalla gets +2/+2 until end of turn. Activate this ability "
-"only once each turn. (|mana_s| can be paid with one mana from a snow "
-"permanent.)"
+"|mana_s|: Frostwalla gets +2/+2 until end of turn. Activate only once each "
+"turn. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../MH1.rst:974
@@ -2759,8 +2753,8 @@ msgstr ""
 #: ../../MH1.rst:999
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
-"card, reveal that card, put it into your hand, then shuffle your library. "
-"(Do this before you draw.)"
+"card, reveal that card, put it into your hand, then shuffle. (Do this before "
+"you draw.)"
 msgstr ""
 
 #: ../../MH1.rst:1004
@@ -2784,8 +2778,7 @@ msgstr ""
 #: ../../MH1.rst:1007
 msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_g|, Exile Mother Bear from your graveyard: "
-"Create two 2/2 green Bear creature tokens. Activate this ability only any "
-"time you could cast a sorcery."
+"Create two 2/2 green Bear creature tokens. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MH1.rst:1014
@@ -2924,7 +2917,7 @@ msgstr ""
 msgid ""
 "When Springbloom Druid enters the battlefield, you may sacrifice a land. If "
 "you do, search your library for up to two basic land cards, put them onto "
-"the battlefield tapped, then shuffle your library."
+"the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:1060
@@ -3160,9 +3153,9 @@ msgstr ""
 #: ../../MH1.rst:1141
 msgid ""
 "Exile the top six cards of your library. You may cast up to two sorcery "
-"spells with converted mana cost 3 or less from among them without paying "
-"their mana costs. Put the exiled cards not cast this way on the bottom of "
-"your library in a random order."
+"spells with mana value 3 or less from among them without paying their mana "
+"costs. Put the exiled cards not cast this way on the bottom of your library "
+"in a random order."
 msgstr ""
 
 #: ../../MH1.rst:1146
@@ -3175,7 +3168,7 @@ msgstr ""
 #: ../../MH1.rst:1145
 msgid ""
 "Search your library for a creature card, reveal that card, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:1154
@@ -3550,7 +3543,7 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1291 ../../MH1.rst:1315
-msgid "(|mana_s| can be paid with one mana from a snow permanent.)"
+msgid "(|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../MH1.rst:1293
@@ -3662,7 +3655,7 @@ msgstr ""
 #: ../../MH1.rst:1335
 msgid ""
 "|tap|, Sacrifice an artifact: Search your library for a Construct card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:1344
@@ -3813,8 +3806,7 @@ msgstr ""
 #: ../../MH1.rst:1401
 msgid ""
 "|mana_4|, |tap|, Sacrifice Cave of Temptation: Put two +1/+1 counters on "
-"target creature. Activate this ability only any time you could cast a "
-"sorcery."
+"target creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MH1.rst:1408
@@ -3858,7 +3850,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_s|: Until end of turn, Frostwalk Bastion becomes a 2/3 "
 "Construct artifact creature. It's still a land. (|mana_s| can be paid with "
-"one mana from a snow permanent.)"
+"one mana from a snow source.)"
 msgstr ""
 
 #: ../../MH1.rst:1423
@@ -3921,7 +3913,7 @@ msgstr ""
 #: ../../MH1.rst:1447
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a "
-"basic land card, put it onto the battlefield, then shuffle your library."
+"basic land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MH1.rst:1456

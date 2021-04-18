@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -338,7 +338,7 @@ msgstr ""
 #: ../../ALL.rst:107
 msgid ""
 "|mana_w|\\ |mana_w|: Wild Aesthir gets +2/+0 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../ALL.rst:114
@@ -448,8 +448,7 @@ msgid ""
 msgstr ""
 
 #: ../../ALL.rst:147
-msgid ""
-"Search your library for three cards, exile them, then shuffle your library."
+msgid "Search your library for three cards, exile them, then shuffle."
 msgstr ""
 
 #: ../../ALL.rst:149 ../../ALL.rst:203 ../../ALL.rst:281 ../../ALL.rst:377
@@ -488,7 +487,7 @@ msgstr ""
 #: ../../ALL.rst:161
 msgid ""
 "You search your library for a card, put that card into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../ALL.rst:170
@@ -880,8 +879,8 @@ msgstr ""
 #: ../../ALL.rst:303
 msgid ""
 "Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a "
-"-0/-1 counter on enchanted creature. Activate this ability only if enchanted "
-"creature is untapped."
+"-0/-1 counter on enchanted creature. Activate only if enchanted creature is "
+"untapped."
 msgstr ""
 
 #: ../../ALL.rst:310
@@ -967,7 +966,7 @@ msgstr ""
 #: ../../ALL.rst:335
 msgid ""
 "|tap|, Sacrifice a black or artifact creature: Add an amount of |mana_b| "
-"equal to the sacrificed creature's converted mana cost."
+"equal to the sacrificed creature's mana value."
 msgstr ""
 
 #: ../../ALL.rst:340
@@ -1134,7 +1133,7 @@ msgstr ""
 #: ../../ALL.rst:395
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target noncreature artifact with "
-"converted mana cost X."
+"mana value X."
 msgstr ""
 
 #: ../../ALL.rst:404
@@ -1317,8 +1316,8 @@ msgstr ""
 #: ../../ALL.rst:459
 msgid ""
 "Tap enchanted creature: Target creature other than the creature tapped this "
-"way gets +2/+1 until end of turn. Activate this ability only if enchanted "
-"creature is untapped."
+"way gets +2/+1 until end of turn. Activate only if enchanted creature is "
+"untapped."
 msgstr ""
 
 #: ../../ALL.rst:466
@@ -1488,15 +1487,14 @@ msgstr ""
 
 #: ../../ALL.rst:521
 msgid ""
-"|mana_0|: Untap enchanted creature. Activate this ability only during your "
-"turn and only once each turn."
+"|mana_0|: Untap enchanted creature. Activate only during your turn and only "
+"once each turn."
 msgstr ""
 
 #: ../../ALL.rst:523
 msgid ""
 "Tap enchanted creature: Untap target artifact, creature, or land. Activate "
-"this ability only if enchanted creature is white and is untapped and only "
-"once each turn."
+"only if enchanted creature is white and untapped and only once each turn."
 msgstr ""
 
 #: ../../ALL.rst:532
@@ -1578,7 +1576,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_g|, Pay 3 life for each velocity counter on Tornado: "
 "Destroy target permanent and put a velocity counter on Tornado. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../ALL.rst:554
@@ -1675,8 +1673,8 @@ msgstr ""
 msgid ""
 "Look at the top five cards of your library. As many times as you choose, you "
 "may pay 1 life, put those cards on the bottom of your library in any order, "
-"then look at the top five cards of your library. Then shuffle your library "
-"and put the last cards you looked at this way on top of it in any order."
+"then look at the top five cards of your library. Then shuffle and put the "
+"last cards you looked at this way on top in any order."
 msgstr ""
 
 #: ../../ALL.rst:590
@@ -1721,7 +1719,7 @@ msgstr ""
 #: ../../ALL.rst:595
 msgid ""
 "Target creature gains trample and gets +X/+0 until end of turn, where X is "
-"that creature's converted mana cost."
+"that creature's mana value."
 msgstr ""
 
 #: ../../ALL.rst:600
@@ -1981,7 +1979,7 @@ msgstr ""
 #: ../../ALL.rst:681
 msgid ""
 "Exile the top card of your library: Put X +1/+1 counters on Phyrexian "
-"Devourer, where X is the exiled card's converted mana cost."
+"Devourer, where X is the exiled card's mana value."
 msgstr ""
 
 #: ../../ALL.rst:686
@@ -2311,6 +2309,6 @@ msgstr ""
 #: ../../ALL.rst:797
 msgid ""
 "|mana_1|, |tap|: Search your library for a basic land card, put that card "
-"onto the battlefield tapped, then shuffle your library. Return Thawing "
-"Glaciers to its owner's hand at the beginning of the next cleanup step."
+"onto the battlefield tapped, then shuffle. Return Thawing Glaciers to its "
+"owner's hand at the beginning of the next cleanup step."
 msgstr ""

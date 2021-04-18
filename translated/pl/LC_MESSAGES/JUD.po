@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jud/pl/>\n"
@@ -194,8 +194,8 @@ msgstr ""
 #: ../../JUD.rst:61
 msgid ""
 "|mana_2|\\ |mana_w|: Choose a color. Creatures you control gain protection "
-"from the chosen color until end of turn. Activate this ability only if Glory "
-"is in your graveyard."
+"from the chosen color until end of turn. Activate only if Glory is in your "
+"graveyard."
 msgstr ""
 
 #: ../../JUD.rst:66
@@ -748,9 +748,14 @@ msgid ""
 msgstr ""
 
 #: ../../JUD.rst:259
+#, fuzzy
+#| msgid ""
+#| "Search target player's library for up to three cards with flashback and "
+#| "put them into that player's graveyard. Then the player shuffles their "
+#| "library."
 msgid ""
 "Search target player's library for up to three cards with flashback and put "
-"them into that player's graveyard. Then the player shuffles their library."
+"them into that player's graveyard. Then the player shuffles."
 msgstr ""
 "Wyszukaj w bibliotece wskazanego gracza co najwyżej trzy karty mające "
 "wspomnienie i umieść je w cmentarzu owego gracza. Następnie ów gracz tasuje "
@@ -1277,8 +1282,8 @@ msgstr ""
 #: ../../JUD.rst:431
 msgid ""
 "Discard a card at random: Barbarian Bully gets +2/+2 until end of turn "
-"unless a player has Barbarian Bully deal 4 damage to them. Activate this "
-"ability only once each turn."
+"unless a player has Barbarian Bully deal 4 damage to them. Activate only "
+"once each turn."
 msgstr ""
 
 #: ../../JUD.rst:436
@@ -1695,9 +1700,8 @@ msgstr ""
 #: ../../JUD.rst:573
 msgid ""
 "Threshold — Put three cards from your graveyard on the bottom of your "
-"library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this "
-"ability only once each turn and only if seven or more cards are in your "
-"graveyard."
+"library: Battlefield Scrounger gets +3/+3 until end of turn. Activate only "
+"once each turn and only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../JUD.rst:580
@@ -1736,8 +1740,8 @@ msgstr ""
 #: ../../JUD.rst:589
 msgid ""
 "Whenever Centaur Rootcaster deals combat damage to a player, you may search "
-"your library for a basic land card and put that card onto the battlefield "
-"tapped. If you do, shuffle your library."
+"your library for a basic land card, put that card onto the battlefield "
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../JUD.rst:596
@@ -2226,8 +2230,7 @@ msgstr "|tap|: Weź |colorless|."
 #: ../../JUD.rst:761
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
-"card and a Plains card, put them onto the battlefield tapped, then shuffle "
-"your library."
+"card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JUD.rst:768
@@ -2241,8 +2244,7 @@ msgstr ""
 msgid ""
 "Threshold — |mana_g|\\ |mana_w|: Nantuko Monastery becomes a 4/4 green and "
 "white Insect Monk creature with first strike until end of turn. It's still a "
-"land. Activate this ability only if seven or more cards are in your "
-"graveyard."
+"land. Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../JUD.rst:773

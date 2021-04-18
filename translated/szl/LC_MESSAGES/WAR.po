@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -35,8 +35,7 @@ msgstr ""
 #: ../../WAR.rst:11
 msgid ""
 "+1: Until your next turn, up to one target noncreature artifact becomes an "
-"artifact creature with power and toughness each equal to its converted mana "
-"cost."
+"artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../WAR.rst:13
@@ -307,7 +306,7 @@ msgstr ""
 #: ../../WAR.rst:103
 msgid ""
 "Search your library for up to two planeswalker cards, reveal them, put them "
-"into your hand, then shuffle your library."
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:106
@@ -325,8 +324,7 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:111
-msgid ""
-"|mana_1|, |tap|: Tap target creature with converted mana cost 2 or greater."
+msgid "|mana_1|, |tap|: Tap target creature with mana value 2 or greater."
 msgstr ""
 
 #: ../../WAR.rst:118
@@ -1205,8 +1203,8 @@ msgstr ""
 #: ../../WAR.rst:419
 msgid ""
 "You may play lands and cast spells from the top of your library. If you cast "
-"a spell this way, pay life equal to its converted mana cost rather than pay "
-"its mana cost."
+"a spell this way, pay life equal to its mana value rather than pay its mana "
+"cost."
 msgstr ""
 
 #: ../../WAR.rst:421
@@ -1244,8 +1242,7 @@ msgstr ""
 msgid ""
 "Choose any number of target creature and/or planeswalker cards in "
 "graveyards. Command the Dreadhorde deals damage to you equal to the total "
-"converted mana cost of those cards. Put them onto the battlefield under your "
-"control."
+"mana value of those cards. Put them onto the battlefield under your control."
 msgstr ""
 
 #: ../../WAR.rst:440
@@ -1884,9 +1881,9 @@ msgstr ""
 #: ../../WAR.rst:651
 msgid ""
 "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery "
-"card with converted mana cost less than or equal to Dreadhorde Arcanist's "
-"power from your graveyard without paying its mana cost. If that spell would "
-"be put into your graveyard this turn, exile it instead."
+"card with mana value less than or equal to Dreadhorde Arcanist's power from "
+"your graveyard without paying its mana cost. If that spell would be put into "
+"your graveyard this turn, exile it instead."
 msgstr ""
 
 #: ../../WAR.rst:658
@@ -1917,10 +1914,10 @@ msgstr ""
 #: ../../WAR.rst:661
 msgid ""
 "You may cast up to one target instant card and/or up to one target sorcery "
-"card from your graveyard each with converted mana cost X or less without "
-"paying their mana costs. If a spell cast this way would be put into your "
-"graveyard this turn, exile it instead. If X is 10 or more, copy each of "
-"those spells twice. You may choose new targets for the copies."
+"card from your graveyard each with mana value X or less without paying their "
+"mana costs. If a spell cast this way would be put into your graveyard this "
+"turn, exile it instead. If X is 10 or more, copy each of those spells twice. "
+"You may choose new targets for the copies."
 msgstr ""
 
 #: ../../WAR.rst:664
@@ -2407,10 +2404,10 @@ msgstr ""
 
 #: ../../WAR.rst:829
 msgid ""
-"Search your library and/or graveyard for a creature card with converted mana "
-"cost X or less and put it onto the battlefield. If you search your library "
-"this way, shuffle it. If X is 10 or more, creatures you control get +X/+X "
-"and gain haste until end of turn."
+"Search your library and/or graveyard for a creature card with mana value X "
+"or less and put it onto the battlefield. If you search your library this "
+"way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain "
+"haste until end of turn."
 msgstr ""
 
 #: ../../WAR.rst:834
@@ -2539,7 +2536,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Nissa, Who Shakes the World<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?"
-"1610070159|https://scryfall.com/card/war/169/nissa-who-shakes-the-world?"
+"1618426283|https://scryfall.com/card/war/169/nissa-who-shakes-the-world?"
 "utm_source=api>`"
 msgstr ""
 
@@ -2558,7 +2555,7 @@ msgstr ""
 msgid ""
 "−8: You get an emblem with \"Lands you control have indestructible.\" Search "
 "your library for any number of Forest cards, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:888
@@ -2572,7 +2569,7 @@ msgstr ""
 msgid ""
 "Search your library for up to two basic Forest cards. If you control a Nissa "
 "planeswalker, instead search your library for up to three land cards. Reveal "
-"those cards, put them into your hand, then shuffle your library."
+"those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:894
@@ -2747,9 +2744,9 @@ msgstr ""
 #: ../../WAR.rst:959
 msgid ""
 "|mana_x|, |tap|, Discard a card: Look at the top X cards of your library. "
-"You may put a creature card with converted mana cost X or less from among "
-"them onto the battlefield. Put the rest on the bottom of your library in a "
-"random order."
+"You may put a creature card with mana value X or less from among them onto "
+"the battlefield. Put the rest on the bottom of your library in a random "
+"order."
 msgstr ""
 
 #: ../../WAR.rst:964
@@ -2885,7 +2882,7 @@ msgstr ""
 #: ../../WAR.rst:1015
 msgid ""
 "Destroy target creature. Search your library for a basic land card, put it "
-"onto the battlefield tapped, then shuffle your library."
+"onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1020
@@ -2896,7 +2893,7 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:1019
-msgid "Exile target permanent with converted mana cost 4 or greater."
+msgid "Exile target permanent with mana value 4 or greater."
 msgstr ""
 
 #: ../../WAR.rst:1028
@@ -3140,10 +3137,9 @@ msgstr ""
 
 #: ../../WAR.rst:1111
 msgid ""
-"Search your library for a creature card with converted mana cost equal to 1 "
-"plus the sacrificed creature's converted mana cost, put that card onto the "
-"battlefield with an additional +1/+1 counter on it, then shuffle your "
-"library."
+"Search your library for a creature card with mana value equal to 1 plus the "
+"sacrificed creature's mana value, put that card onto the battlefield with an "
+"additional +1/+1 counter on it, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1122
@@ -3340,9 +3336,8 @@ msgstr ""
 
 #: ../../WAR.rst:1179
 msgid ""
-"−X: Return target creature card with converted mana cost X from your "
-"graveyard to the battlefield. That creature is a Vampire in addition to its "
-"other types."
+"−X: Return target creature card with mana value X from your graveyard to the "
+"battlefield. That creature is a Vampire in addition to its other types."
 msgstr ""
 
 #: ../../WAR.rst:1184
@@ -3475,7 +3470,7 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:1227
-msgid "Destroy target creature with converted mana cost 3 or less."
+msgid "Destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../WAR.rst:1229
@@ -3799,7 +3794,7 @@ msgstr ""
 #: ../../WAR.rst:1343
 msgid ""
 "|mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with "
-"converted mana cost equal to the number of charge counters on Blast Zone."
+"mana value equal to the number of charge counters on Blast Zone."
 msgstr ""
 
 #: ../../WAR.rst:1350
@@ -3980,7 +3975,7 @@ msgstr ""
 msgid ""
 "Put a +1/+1 counter on each creature you control. You may search your "
 "library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, "
-"and put it into your hand. If you search your library this way, shuffle it."
+"and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1420
@@ -4075,8 +4070,7 @@ msgstr ""
 msgid ""
 "Return up to two target creatures to their owner's hand. You may search your "
 "library and/or graveyard for a card named Jace, Arcane Strategist, reveal "
-"it, and put it into your hand. If you search your library this way, shuffle "
-"it."
+"it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1456

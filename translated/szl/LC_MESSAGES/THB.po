@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -109,7 +109,7 @@ msgstr ""
 #: ../../THB.rst:35
 msgid ""
 "I — Search your library for a basic Plains card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:37
@@ -164,8 +164,8 @@ msgstr ""
 #: ../../THB.rst:53
 msgid ""
 "Whenever a creature dies, if an Aura you controlled was attached to it, "
-"return target creature card with converted mana cost 2 or less from your "
-"graveyard to your hand."
+"return target creature card with mana value 2 or less from your graveyard to "
+"your hand."
 msgstr ""
 
 #: ../../THB.rst:60
@@ -243,8 +243,7 @@ msgstr ""
 
 #: ../../THB.rst:85
 msgid ""
-"I — Exile target permanent an opponent controls with converted mana cost 3 "
-"or greater."
+"I — Exile target permanent an opponent controls with mana value 3 or greater."
 msgstr ""
 
 #: ../../THB.rst:87
@@ -383,8 +382,7 @@ msgstr ""
 #: ../../THB.rst:133
 msgid ""
 "When Heliod's Pilgrim enters the battlefield, you may search your library "
-"for an Aura card, reveal it, put it into your hand, then shuffle your "
-"library."
+"for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:142
@@ -442,7 +440,7 @@ msgstr ""
 #: ../../THB.rst:155
 msgid ""
 "Search your library for an enchantment card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:164
@@ -490,7 +488,7 @@ msgstr ""
 msgid ""
 "When Lagonna-Band Storyteller enters the battlefield, you may put target "
 "enchantment card from your graveyard on top of your library. If you do, you "
-"gain life equal to its converted mana cost."
+"gain life equal to its mana value."
 msgstr ""
 
 #: ../../THB.rst:176
@@ -1213,8 +1211,8 @@ msgstr ""
 
 #: ../../THB.rst:449
 msgid ""
-"Spells you cast with converted mana cost 5 or greater cost |mana_1| less to "
-"cast and can't be countered."
+"Spells you cast with mana value 5 or greater cost |mana_1| less to cast and "
+"can't be countered."
 msgstr ""
 
 #: ../../THB.rst:454
@@ -1531,7 +1529,7 @@ msgstr ""
 #: ../../THB.rst:575
 msgid ""
 "When Gravebreaker Lamia enters the battlefield, search your library for a "
-"card, put it into your graveyard, then shuffle your library."
+"card, put it into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:577
@@ -2971,7 +2969,7 @@ msgstr ""
 #: ../../THB.rst:1127
 msgid ""
 "Search your library for up to X land cards, reveal them, put them into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:1129
@@ -3022,8 +3020,7 @@ msgstr ""
 #: ../../THB.rst:1149
 msgid ""
 "When Omen of the Hunt enters the battlefield, you may search your library "
-"for a basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:1151
@@ -3233,7 +3230,7 @@ msgstr ""
 #: ../../THB.rst:1227
 msgid ""
 "|mana_4|\\ |mana_g|, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf "
-"creature token. Activate this ability only during your turn."
+"creature token. Activate only during your turn."
 msgstr ""
 
 #: ../../THB.rst:1232
@@ -3419,9 +3416,9 @@ msgstr ""
 #: ../../THB.rst:1289
 msgid ""
 "At the beginning of your end step, you may sacrifice another enchantment. If "
-"you do, search your library for a creature card with converted mana cost "
-"equal to 1 plus the sacrificed enchantment's converted mana cost, put that "
-"card onto the battlefield, then shuffle your library."
+"you do, search your library for a creature card with mana value equal to 1 "
+"plus the sacrificed enchantment's mana value, put that card onto the "
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:1294
@@ -3474,8 +3471,7 @@ msgstr ""
 
 #: ../../THB.rst:1309
 msgid ""
-"Haktos has protection from each converted mana cost other than the chosen "
-"number."
+"Haktos has protection from each mana value other than the chosen number."
 msgstr ""
 
 #: ../../THB.rst:1316
@@ -3890,7 +3886,7 @@ msgstr ""
 #: ../../THB.rst:1457
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:1466
@@ -3931,7 +3927,7 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
 "opponent controls. Each player searches their library for a basic land card, "
-"puts it onto the battlefield, then shuffles their library."
+"puts it onto the battlefield, then shuffles."
 msgstr ""
 
 #: ../../THB.rst:1478
@@ -4157,7 +4153,7 @@ msgstr ""
 #: ../../THB.rst:1559
 msgid ""
 "−2: Search your library and/or graveyard for a card named Sunlit Hoplite and "
-"put it onto the battlefield. If you search your library this way, shuffle it."
+"put it onto the battlefield. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../THB.rst:1561
@@ -4190,7 +4186,7 @@ msgstr ""
 msgid ""
 "When Elspeth's Devotee enters the battlefield, you may search your library "
 "and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and "
-"put it into your hand. If you search your library this way, shuffle it."
+"put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../THB.rst:1576
@@ -4272,7 +4268,7 @@ msgstr ""
 msgid ""
 "When Ashiok's Forerunner enters the battlefield, you may search your library "
 "and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and "
-"put it into your hand. If you search your library this way, shuffle it."
+"put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../THB.rst:1608
@@ -4374,7 +4370,7 @@ msgstr ""
 #: ../../THB.rst:1637
 msgid ""
 "Search your library for up to four Minotaur creature cards with different "
-"names, put them onto the battlefield, then shuffle your library."
+"names, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../THB.rst:1644

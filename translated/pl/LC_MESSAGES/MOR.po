@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-15 10:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mor/pl/>\n"
@@ -194,9 +194,13 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:61
+#, fuzzy
+#| msgid ""
+#| "Search your library for an enchantment card, reveal it, put it into your "
+#| "hand, then shuffle your library."
 msgid ""
 "Search your library for an enchantment card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę uroku, ujawnij ją, umieść w twojej ręce, "
 "po czym przetasuj twoją bibliotekę."
@@ -343,7 +347,7 @@ msgid ""
 "until end of turn. Clash with an opponent. If you win, return Redeem the "
 "Lost to its owner's hand. (Each clashing player reveals the top card of "
 "their library, then puts that card on the top or bottom. A player wins if "
-"their card had a higher converted mana cost.)"
+"their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:114
@@ -394,10 +398,14 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:127
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
+#| "put it onto the battlefield. Attach it to a creature you control. Then "
+#| "shuffle your library."
 msgid ""
-"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
-"put it onto the battlefield. Attach it to a creature you control. Then "
-"shuffle your library."
+"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card, put "
+"it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
 "|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia i "
 "umieść ją na polu bitwy. Dołącz ją do stwora pod twoim władaniem. Następnie "
@@ -620,8 +628,7 @@ msgstr ""
 #: ../../MOR.rst:213
 msgid ""
 "Search target opponent's library for an instant or sorcery card. You may "
-"cast that card without paying its mana cost. Then that player shuffles their "
-"library."
+"cast that card without paying its mana cost. Then that player shuffles."
 msgstr ""
 
 #: ../../MOR.rst:222
@@ -741,7 +748,7 @@ msgid ""
 "Draw a card. Clash with an opponent. If you win, return Research the Deep to "
 "its owner's hand. (Each clashing player reveals the top card of their "
 "library, then puts that card on the top or bottom. A player wins if their "
-"card had a higher converted mana cost.)"
+"card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:264
@@ -970,7 +977,7 @@ msgstr ""
 msgid ""
 "When Earwig Squad enters the battlefield, if its prowl cost was paid, search "
 "target opponent's library for three cards and exile them. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../MOR.rst:338
@@ -1045,8 +1052,7 @@ msgstr ""
 #: ../../MOR.rst:361
 msgid ""
 "At the beginning of each player's draw step, that player loses 3 life, "
-"searches their library for a card, puts it into their hand, then shuffles "
-"their library."
+"searches their library for a card, puts it into their hand, then shuffles."
 msgstr ""
 
 #: ../../MOR.rst:366
@@ -1202,7 +1208,7 @@ msgid ""
 "Clash with an opponent. If you win, target player discards two cards. "
 "Otherwise, that player discards a card. (Each clashing player reveals the "
 "top card of their library, then puts that card on the top or bottom. A "
-"player wins if their card had a higher converted mana cost.)"
+"player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:422
@@ -1217,8 +1223,7 @@ msgid ""
 "Return target creature card from a graveyard to its owner's hand. Clash with "
 "an opponent. If you win, return Revive the Fallen to its owner's hand. (Each "
 "clashing player reveals the top card of their library, then puts that card "
-"on the top or bottom. A player wins if their card had a higher converted "
-"mana cost.)"
+"on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:426
@@ -1342,7 +1347,7 @@ msgstr "Tratowanie"
 msgid ""
 "When Boldwyr Heavyweights enters the battlefield, each opponent may search "
 "their library for a creature card and put it onto the battlefield. Then each "
-"player who searched their library this way shuffles it."
+"player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../MOR.rst:472
@@ -1425,7 +1430,7 @@ msgid ""
 "Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, "
 "Fire Juggler deals 4 damage to each creature blocking it. (Each clashing "
 "player reveals the top card of their library, then puts that card on the top "
-"or bottom. A player wins if their card had a higher converted mana cost.)"
+"or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:500
@@ -1544,7 +1549,7 @@ msgid ""
 "Release the Ants deals 1 damage to any target. Clash with an opponent. If "
 "you win, return Release the Ants to its owner's hand. (Each clashing player "
 "reveals the top card of their library, then puts that card on the top or "
-"bottom. A player wins if their card had a higher converted mana cost.)"
+"bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:536
@@ -1722,7 +1727,7 @@ msgid ""
 "Titan's Revenge deals X damage to any target. Clash with an opponent. If you "
 "win, return Titan's Revenge to its owner's hand. (Each clashing player "
 "reveals the top card of their library, then puts that card on the top or "
-"bottom. A player wins if their card had a higher converted mana cost.)"
+"bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:594
@@ -1873,11 +1878,18 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:643
+#, fuzzy
+#| msgid ""
+#| "Sacrifice any number of lands. Search your library for up to that many "
+#| "land cards, put them onto the battlefield tapped, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Exile a Treefolk card from your graveyard: Search your library for up "
-"to two Forest cards and put them onto the battlefield tapped. Then shuffle "
-"your library."
+"to two Forest cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
+"Poświęć dowolną liczbę lądów. Wyszukaj w twojej bibliotece co najwyżej tyle "
+"samo kart lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../MOR.rst:650
 msgid ""
@@ -1891,10 +1903,15 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../MOR.rst:649
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
+#| "searches their library for a basic land card, puts it onto the "
+#| "battlefield tapped, then shuffles their library."
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
-"tapped, then shuffles their library."
+"tapped, then shuffles."
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
@@ -2062,7 +2079,7 @@ msgid ""
 "any order. Clash with an opponent. If you win, return Recross the Paths to "
 "its owner's hand. (Each clashing player reveals the top card of their "
 "library, then puts that card on the top or bottom. A player wins if their "
-"card had a higher converted mana cost.)"
+"card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:714
@@ -2107,9 +2124,14 @@ msgid ""
 msgstr ""
 
 #: ../../MOR.rst:723
+#, fuzzy
+#| msgid ""
+#| "Sacrifice any number of lands. Search your library for up to that many "
+#| "land cards, put them onto the battlefield tapped, then shuffle your "
+#| "library."
 msgid ""
 "Sacrifice any number of lands. Search your library for up to that many land "
-"cards, put them onto the battlefield tapped, then shuffle your library."
+"cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Poświęć dowolną liczbę lądów. Wyszukaj w twojej bibliotece co najwyżej tyle "
 "samo kart lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "

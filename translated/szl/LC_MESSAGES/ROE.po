@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -843,8 +843,7 @@ msgstr ""
 #: ../../ROE.rst:349
 msgid ""
 "When Totem-Guide Hartebeest enters the battlefield, you may search your "
-"library for an Aura card, reveal it, put it into your hand, then shuffle "
-"your library."
+"library for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:366
@@ -1529,8 +1528,7 @@ msgstr ""
 #: ../../ROE.rst:691
 msgid ""
 "At the beginning of your end step, you may reveal the top card of your "
-"library. If you do, each opponent loses life equal to that card's converted "
-"mana cost."
+"library. If you do, each opponent loses life equal to that card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:696
@@ -1577,8 +1575,7 @@ msgstr ""
 
 #: ../../ROE.rst:709
 msgid ""
-"Destroy each creature with converted mana cost 3 or less. They can't be "
-"regenerated."
+"Destroy each creature with mana value 3 or less. They can't be regenerated."
 msgstr ""
 
 #: ../../ROE.rst:716
@@ -1788,7 +1785,7 @@ msgstr ""
 #: ../../ROE.rst:797
 msgid ""
 "Target creature gets -X/-X until end of turn, where X is the revealed card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 
 #: ../../ROE.rst:802
@@ -1801,7 +1798,7 @@ msgstr ""
 #: ../../ROE.rst:801
 msgid ""
 "Target player reveals their hand. You choose a nonland card from it with "
-"converted mana cost 3 or less. That player discards that card."
+"mana value 3 or less. That player discards that card."
 msgstr ""
 
 #: ../../ROE.rst:806
@@ -2167,7 +2164,7 @@ msgstr ""
 #: ../../ROE.rst:969
 msgid ""
 "Disaster Radius deals X damage to each creature your opponents control, "
-"where X is the revealed card's converted mana cost."
+"where X is the revealed card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:974
@@ -2195,8 +2192,8 @@ msgstr ""
 msgid ""
 "Choose any target. Reveal cards from the top of your library until you "
 "reveal a nonland card. Explosive Revelation deals damage equal to that "
-"card's converted mana cost to that permanent or player. Put the nonland card "
-"into your hand and the rest on the bottom of your library in any order."
+"card's mana value to that permanent or player. Put the nonland card into "
+"your hand and the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../ROE.rst:986
@@ -2622,8 +2619,7 @@ msgstr ""
 msgid ""
 "Look at the top five cards of your library. You may reveal a colorless card "
 "from among them and put it into your hand. Then put the rest on the bottom "
-"of your library in any order. (Cards with no colored mana in their mana "
-"costs are colorless. Lands are also colorless.)"
+"of your library in any order."
 msgstr ""
 
 #: ../../ROE.rst:1158
@@ -2771,8 +2767,8 @@ msgstr ""
 #: ../../ROE.rst:1221
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
-"tapped, then shuffle your library. Create a 0/1 colorless Eldrazi Spawn "
-"creature token. It has \"Sacrifice this creature: Add |colorless|.\""
+"tapped, then shuffle. Create a 0/1 colorless Eldrazi Spawn creature token. "
+"It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
 
 #: ../../ROE.rst:1228
@@ -2906,7 +2902,7 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1289
-msgid "You gain life equal to the revealed card's converted mana cost."
+msgid "You gain life equal to the revealed card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:1294
@@ -3002,8 +2998,7 @@ msgstr ""
 #: ../../ROE.rst:1323
 msgid ""
 "When Ondu Giant enters the battlefield, you may search your library for a "
-"basic land card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:1330
@@ -3054,7 +3049,7 @@ msgstr ""
 msgid ""
 "Search your library for up to four land cards with different names and "
 "reveal them. An opponent chooses two of those cards. Put the chosen cards "
-"into your graveyard and the rest into your hand. Then shuffle your library."
+"into your graveyard and the rest into your hand. Then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:1356
@@ -3149,7 +3144,7 @@ msgstr ""
 #: ../../ROE.rst:1389
 msgid ""
 "0: Reveal the top card of your library and put it into your hand. Sarkhan "
-"the Mad deals damage to himself equal to that card's converted mana cost."
+"the Mad deals damage to himself equal to that card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:1391
@@ -3217,7 +3212,7 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1413
-msgid "Equipped creature gets +X/+X, where X is its converted mana cost."
+msgid "Equipped creature gets +X/+X, where X is its mana value."
 msgstr ""
 
 #: ../../ROE.rst:1415
@@ -3370,7 +3365,7 @@ msgstr ""
 #: ../../ROE.rst:1469
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:1474

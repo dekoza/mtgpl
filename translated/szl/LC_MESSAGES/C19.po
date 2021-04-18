@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -100,9 +100,9 @@ msgstr ""
 
 #: ../../C19.rst:33
 msgid ""
-"Return target permanent card with converted mana cost 3 or less from your "
-"graveyard to the battlefield. If this spell was cast from a graveyard, you "
-"may copy this spell and may choose a new target for the copy."
+"Return target permanent card with mana value 3 or less from your graveyard "
+"to the battlefield. If this spell was cast from a graveyard, you may copy "
+"this spell and may choose a new target for the copy."
 msgstr ""
 
 #: ../../C19.rst:35
@@ -718,7 +718,7 @@ msgstr ""
 #: ../../C19.rst:245
 msgid ""
 "Discard a card: You may cast a creature spell from your graveyard this turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../C19.rst:247
@@ -1011,7 +1011,7 @@ msgstr ""
 #: ../../C19.rst:339
 msgid ""
 "|mana_1|: Attach Bloodthirsty Blade to target creature an opponent controls. "
-"Activate this ability only any time you could cast a sorcery."
+"Activate only as a sorcery."
 msgstr ""
 
 #: ../../C19.rst:346
@@ -1040,9 +1040,7 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:349
-msgid ""
-"|tap|: Draw a card. Activate this ability only if you created a token this "
-"turn."
+msgid "|tap|: Draw a card. Activate only if you created a token this turn."
 msgstr ""
 
 #: ../../C19.rst:351
@@ -1121,7 +1119,7 @@ msgstr ""
 #: ../../C19.rst:375
 msgid ""
 "|mana_2|, |tap|: Return target commander you own from the battlefield to "
-"your hand. Activate this ability only during your turn."
+"your hand. Activate only during your turn."
 msgstr ""
 
 #: ../../C19.rst:380
@@ -1397,7 +1395,7 @@ msgstr ""
 #: ../../C19.rst:473
 msgid ""
 "Whenever Sun Titan enters the battlefield or attacks, you may return target "
-"permanent card with converted mana cost 3 or less from your graveyard to the "
+"permanent card with mana value 3 or less from your graveyard to the "
 "battlefield."
 msgstr ""
 
@@ -1795,10 +1793,8 @@ msgid ""
 "down.\""
 msgstr ""
 
-#: ../../C19.rst:613 ../../C19.rst:617
-msgid ""
-"Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+#: ../../C19.rst:613
+msgid "Morph |mana_1|\\ |mana_u|"
 msgstr ""
 
 #: ../../C19.rst:620
@@ -1806,6 +1802,12 @@ msgid ""
 ":mtgtip:`Willbender<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/e/6e6a3551-250c-4563-8c30-6d8f49e6429f.jpg?1568004112|https://"
 "scryfall.com/card/c19/102/willbender?utm_source=api>`"
+msgstr ""
+
+#: ../../C19.rst:617
+msgid ""
+"Morph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../C19.rst:619
@@ -2010,9 +2012,9 @@ msgstr ""
 
 #: ../../C19.rst:683
 msgid ""
-"|mana_x|\\ |mana_b|: Put target artifact or creature card with converted "
-"mana cost X from an opponent's graveyard onto the battlefield under your "
-"control tapped. Then that player mills X cards."
+"|mana_x|\\ |mana_b|: Put target artifact or creature card with mana value X "
+"from an opponent's graveyard onto the battlefield under your control tapped. "
+"Then that player mills X cards."
 msgstr ""
 
 #: ../../C19.rst:688
@@ -2737,9 +2739,8 @@ msgstr ""
 
 #: ../../C19.rst:935
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:944
@@ -2825,8 +2826,8 @@ msgstr ""
 
 #: ../../C19.rst:969
 msgid ""
-"Search your library for a Plains, Island, Swamp, or Mountain card and put it "
-"onto the battlefield tapped. Then shuffle your library."
+"Search your library for a Plains, Island, Swamp, or Mountain card, put it "
+"onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:974
@@ -3016,7 +3017,7 @@ msgstr ""
 #: ../../C19.rst:1039
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
-"that card onto the battlefield tapped, then shuffle your library."
+"that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1044
@@ -3097,7 +3098,7 @@ msgid ""
 "battlefield. Each opponent may search their library for a land card and put "
 "it onto the battlefield. For each opponent who searches a library this way, "
 "search your library for a land card and put it onto the battlefield. Then "
-"each player who searched a library this way shuffles it."
+"each player who searched a library this way shuffles."
 msgstr ""
 
 #: ../../C19.rst:1080
@@ -3151,7 +3152,7 @@ msgstr ""
 msgid ""
 "Whenever a face-down creature enters the battlefield under your control, you "
 "may search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1091
@@ -3358,8 +3359,8 @@ msgstr ""
 
 #: ../../C19.rst:1171
 msgid ""
-"Refuse deals damage to target spell's controller equal to that spell's "
-"converted mana cost."
+"Refuse deals damage to target spell's controller equal to that spell's mana "
+"value."
 msgstr ""
 
 #: ../../C19.rst:1178
@@ -3536,8 +3537,7 @@ msgstr ""
 #: ../../C19.rst:1237
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
-"two basic land cards, reveal them, put them into your hand, then shuffle "
-"your library."
+"two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1244
@@ -3567,7 +3567,7 @@ msgstr ""
 #: ../../C19.rst:1247
 msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
-"land cards, put them onto the battlefield tapped, then shuffle your library."
+"land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1254
@@ -3740,7 +3740,7 @@ msgstr ""
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../C19.rst:1309
@@ -3763,7 +3763,7 @@ msgstr ""
 #: ../../C19.rst:1315
 msgid ""
 "|mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the "
-"converted mana cost of that card."
+"mana value of that card."
 msgstr ""
 
 #: ../../C19.rst:1320
@@ -3816,8 +3816,7 @@ msgstr ""
 #: ../../C19.rst:1337
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
-"for a basic land card, reveal it, put it into your hand, then shuffle your "
-"library.)"
+"for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../C19.rst:1346
@@ -4037,7 +4036,7 @@ msgstr ""
 #: ../../C19.rst:1429
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1434
@@ -4285,8 +4284,7 @@ msgstr ""
 #: ../../C19.rst:1539
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
-"card and a Plains card, put them onto the battlefield tapped, then shuffle "
-"your library."
+"card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1546
@@ -4349,7 +4347,7 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1576
@@ -4377,8 +4375,8 @@ msgstr ""
 #: ../../C19.rst:1581
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
-"Mountain, Forest, or Plains card and put it onto the battlefield tapped. "
-"Then shuffle your library."
+"Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C19.rst:1588
@@ -4467,7 +4465,7 @@ msgstr ""
 #: ../../C19.rst:1619
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_r|, |tap|: Each player discards a card. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../C19.rst:1626
@@ -4528,7 +4526,7 @@ msgstr ""
 #: ../../C19.rst:1647
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless "
-"spells. Activate this ability only if you control seven or more lands."
+"spells. Activate only if you control seven or more lands."
 msgstr ""
 
 #: ../../C19.rst:1656
@@ -4630,8 +4628,8 @@ msgstr ""
 
 #: ../../C19.rst:1689
 msgid ""
-"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-"control five or more lands."
+"|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
+"more lands."
 msgstr ""
 
 #: ../../C19.rst:1694
@@ -4644,7 +4642,7 @@ msgstr ""
 #: ../../C19.rst:1693
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C19.rst:1700

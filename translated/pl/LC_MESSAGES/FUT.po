@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
@@ -73,8 +73,7 @@ msgstr ""
 
 #: ../../FUT.rst:19
 msgid ""
-"Sacrifice Augur il-Vec: You gain 4 life. Activate this ability only during "
-"your upkeep."
+"Sacrifice Augur il-Vec: You gain 4 life. Activate only during your upkeep."
 msgstr ""
 
 #: ../../FUT.rst:24
@@ -199,12 +198,17 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:61
+#, fuzzy
+#| msgid ""
+#| "Choose target attacking or blocking creature. Scry 3, then reveal the top "
+#| "card of your library. Judge Unworthy deals damage equal to that card's "
+#| "converted mana cost to that creature. (To scry 3, look at the top three "
+#| "cards of your library, then put any number of them on the bottom of your "
+#| "library and the rest on top in any order.)"
 msgid ""
 "Choose target attacking or blocking creature. Scry 3, then reveal the top "
-"card of your library. Judge Unworthy deals damage equal to that card's "
-"converted mana cost to that creature. (To scry 3, look at the top three "
-"cards of your library, then put any number of them on the bottom of your "
-"library and the rest on top in any order.)"
+"card of your library. Judge Unworthy deals damage equal to that card's mana "
+"value to that creature."
 msgstr ""
 "Wskaż atakującego lub blokującego stwora. Wróż 3, po czym ujawnij wierzchnią "
 "kartę twojej biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile "
@@ -257,10 +261,15 @@ msgstr ""
 "zostanie usunięty ostatnie, poświęć go.)"
 
 #: ../../FUT.rst:73
+#, fuzzy
+#| msgid ""
+#| "When Lost Auramancers dies, if it had no time counters on it, you may "
+#| "search your library for an enchantment card and put it onto the "
+#| "battlefield. If you do, shuffle your library."
 msgid ""
 "When Lost Auramancers dies, if it had no time counters on it, you may search "
-"your library for an enchantment card and put it onto the battlefield. If you "
-"do, shuffle your library."
+"your library for an enchantment card, put it onto the battlefield, then "
+"shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, jeśli nie miał znacznika czasu, możesz wyszukać w "
 "twojej bibliotece kartę uroku i umieścić ją na polu bitwy. Jeśli tak "
@@ -354,8 +363,8 @@ msgstr ""
 #: ../../FUT.rst:105
 msgid ""
 "Forecast — |mana_1|\\ |mana_w|, Reveal Spirit en-Dal from your hand: Target "
-"creature gains shadow until end of turn. (Activate this ability only during "
-"your upkeep and only once each turn.)"
+"creature gains shadow until end of turn. (Activate only during your upkeep "
+"and only once each turn.)"
 msgstr ""
 
 #: ../../FUT.rst:114
@@ -499,7 +508,7 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:157
-msgid "Lifelink, protection from converted mana cost 3 or greater"
+msgid "Lifelink, protection from mana value 3 or greater"
 msgstr ""
 
 #: ../../FUT.rst:164
@@ -547,8 +556,8 @@ msgstr ""
 
 #: ../../FUT.rst:173
 msgid ""
-"|mana_6|, |tap|: Return target Rebel permanent card with converted mana cost "
-"5 or less from your graveyard to the battlefield."
+"|mana_6|, |tap|: Return target Rebel permanent card with mana value 5 or "
+"less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../FUT.rst:180
@@ -575,7 +584,7 @@ msgstr ""
 #: ../../FUT.rst:185
 msgid ""
 "Sacrifice Aven Augur: Return up to two target creatures to their owners' "
-"hands. Activate this ability only during your upkeep."
+"hands. Activate only during your upkeep."
 msgstr ""
 
 #: ../../FUT.rst:192
@@ -644,14 +653,8 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:203
-msgid ""
-"Scry 4, then draw two cards. (To scry 4, look at the top four cards of your "
-"library, then put any number of them on the bottom of your library and the "
-"rest on top in any order.)"
+msgid "Scry 4, then draw two cards."
 msgstr ""
-"Wróż 4, po czym dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
-"wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich na spodzie "
-"twojej biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../FUT.rst:210
 msgid ""
@@ -898,8 +901,8 @@ msgstr ""
 
 #: ../../FUT.rst:295
 msgid ""
-"|mana_x|\\ |mana_u|\\ |mana_u|, |tap|: Return target creature with converted "
-"mana cost X to its owner's hand."
+"|mana_x|\\ |mana_u|\\ |mana_u|, |tap|: Return target creature with mana "
+"value X to its owner's hand."
 msgstr ""
 
 #: ../../FUT.rst:297
@@ -1061,10 +1064,18 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:353
+#, fuzzy
+#| msgid ""
+#| "Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library "
+#| "for a Sliver card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Wizardcycling |mana_3| (|mana_3|, Discard this card: Search your library for "
-"a Wizard card, reveal it, put it into your hand, then shuffle your library.)"
+"a Wizard card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
+"Drzazgaczocykling |mana_3| (|mana_3|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj twoją bibliotekę.)"
 
 #: ../../FUT.rst:360
 msgid ""
@@ -1094,8 +1105,8 @@ msgstr ""
 
 #: ../../FUT.rst:365
 msgid ""
-"Sacrifice Augur of Skulls: Target player discards two cards. Activate this "
-"ability only during your upkeep."
+"Sacrifice Augur of Skulls: Target player discards two cards. Activate only "
+"during your upkeep."
 msgstr ""
 
 #: ../../FUT.rst:370
@@ -1306,12 +1317,23 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:435
+#, fuzzy
+#| msgid ""
+#| "When Llanowar Empath enters the battlefield, scry 2, then reveal the top "
+#| "card of your library. If it's a creature card, put it into your hand. (To "
+#| "scry 2, look at the top two cards of your library, then put any number of "
+#| "them on the bottom of your library and the rest on top in any order.)"
 msgid ""
 "When Putrid Cyclops enters the battlefield, scry 1, then reveal the top card "
 "of your library. Putrid Cyclops gets -X/-X until end of turn, where X is "
-"that card's converted mana cost. (To scry 1, look at the top card of your "
-"library, then you may put that card on the bottom of your library.)"
+"that card's mana value. (To scry 1, look at the top card of your library, "
+"then you may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wróż 2, po czym ujawnij wierzchnią "
+"kartę twojej biblioteki. Jeśli to karta stwora, umieść ją w twojej ręce. (By "
+"wróżyć 2, spójrz na dwie wierzchnie karty twojej biblioteki, po czym umieść "
+"dowolną ich liczbę na spodzie twojej biblioteki, a pozostałe na jej wierzchu "
+"w dowolnej kolejności.)"
 
 #: ../../FUT.rst:442
 msgid ""
@@ -1321,11 +1343,17 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:441
+#, fuzzy
+#| msgid ""
+#| "Whenever Shimian Specter deals combat damage to a player, that player "
+#| "reveals their hand. You choose a nonland card from it. Search that "
+#| "player's graveyard, hand, and library for all cards with the same name as "
+#| "that card and exile them. Then that player shuffles their library."
 msgid ""
 "Whenever Shimian Specter deals combat damage to a player, that player "
 "reveals their hand. You choose a nonland card from it. Search that player's "
 "graveyard, hand, and library for all cards with the same name as that card "
-"and exile them. Then that player shuffles their library."
+"and exile them. Then that player shuffles."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia swoją "
 "rękę. Wybierz z niej nielądową kartę. Wyszukaj w cmentarzu, ręce i "
@@ -1389,7 +1417,7 @@ msgstr ""
 #: ../../FUT.rst:461
 msgid ""
 "Search target player's library for a card and exile it. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../FUT.rst:463
@@ -1462,12 +1490,22 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:485
+#, fuzzy
+#| msgid ""
+#| "Transmute |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, "
+#| "Discard this card: Search your library for a card with converted mana "
+#| "cost 0, reveal it, and put it into your hand. Then shuffle your library. "
+#| "Transmute only as a sorcery.)"
 msgid ""
 "Transfigure |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, "
 "Sacrifice this creature: Search your library for a creature card with the "
-"same converted mana cost as this creature and put that card onto the "
-"battlefield. Then shuffle your library. Transfigure only as a sorcery.)"
+"same mana value as this creature, put that card onto the battlefield, then "
+"shuffle. Transfigure only as a sorcery.)"
 msgstr ""
+"Transmutuj |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, "
+"odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę skrócie many 0, ujawnij "
+"ją i umieść w twojej ręce. Następnie przetasuj twoją biblioteką. Transmutuj "
+"tylko jako obrzęd.)"
 
 #: ../../FUT.rst:490
 msgid ""
@@ -1527,11 +1565,18 @@ msgid "|mana_1|\\ |mana_b|: Regenerate Korlash."
 msgstr ""
 
 #: ../../FUT.rst:503
+#, fuzzy
+#| msgid ""
+#| "If you control four or fewer lands, search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Grandeur — Discard another card named Korlash, Heir to Blackblade: Search "
 "your library for up to two Swamp cards, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
+"Jeśli władasz nie więcej niż czterema lądami, wyszukaj w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
+"twoją bibliotekę."
 
 #: ../../FUT.rst:506
 msgid ""
@@ -1680,7 +1725,7 @@ msgstr ""
 #: ../../FUT.rst:555
 msgid ""
 "Sacrifice Emberwilde Augur: It deals 3 damage to target player or "
-"planeswalker. Activate this ability only during your upkeep."
+"planeswalker. Activate only during your upkeep."
 msgstr ""
 
 #: ../../FUT.rst:564
@@ -1823,12 +1868,17 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:605
+#, fuzzy
+#| msgid ""
+#| "Choose any target. Scry 3, then reveal the top card of your library. "
+#| "Riddle of Lightning deals damage equal to that card's converted mana cost "
+#| "to that permanent or player. (To scry 3, look at the top three cards of "
+#| "your library, then put any number of them on the bottom of your library "
+#| "and the rest on top in any order.)"
 msgid ""
 "Choose any target. Scry 3, then reveal the top card of your library. Riddle "
-"of Lightning deals damage equal to that card's converted mana cost to that "
-"permanent or player. (To scry 3, look at the top three cards of your "
-"library, then put any number of them on the bottom of your library and the "
-"rest on top in any order.)"
+"of Lightning deals damage equal to that card's mana value to that permanent "
+"or player."
 msgstr ""
 "Wskaż dowolny cel. Wróż 3, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
@@ -1895,16 +1945,8 @@ msgstr ""
 "lub na zawieszonej karcie."
 
 #: ../../FUT.rst:627
-msgid ""
-"Suspend 4—|mana_r| (Rather than cast this card from your hand, you may pay |"
-"mana_r| and exile it with four time counters on it. At the beginning of your "
-"upkeep, remove a time counter. When the last is removed, cast it without "
-"paying its mana cost. It has haste.)"
+msgid "Suspend 4—|mana_r|"
 msgstr ""
-"Zawieszenie 4—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, możesz "
-"zapłacić |mana_r| i wygnaj ją z czterema znacznikami czasu. Na początku "
-"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
-"zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../FUT.rst:632
 msgid ""
@@ -1931,9 +1973,13 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:635
+#, fuzzy
+#| msgid ""
+#| "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this "
+#| "ability only if Bloodshot Trainee's power is 4 or greater."
 msgid ""
-"|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this "
-"ability only if Bloodshot Trainee's power is 4 or greater."
+"|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if "
+"Bloodshot Trainee's power is 4 or greater."
 msgstr ""
 "|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować tę "
 "zdolność tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
@@ -2014,10 +2060,14 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:669
+#, fuzzy
+#| msgid ""
+#| "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
+#| "colorless|\\ |mana_r|. Activate this ability only any time you could cast "
+#| "a sorcery."
 msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
-"colorless|\\ |mana_r|. Activate this ability only any time you could cast a "
-"sorcery."
+"colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
 "|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ |"
 "colorless|\\ |mana_r|. Aktywuj jako obrzęd."
@@ -2060,9 +2110,14 @@ msgstr ""
 "Każda karta Drzazgacza w ręce każdego z graczy ma drzazgaczocykling |mana_3|."
 
 #: ../../FUT.rst:683
+#, fuzzy
+#| msgid ""
+#| "Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library "
+#| "for a Sliver card, reveal it, put it into your hand, then shuffle your "
+#| "library.)"
 msgid ""
 "Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library for "
-"a Sliver card, reveal it, put it into your hand, then shuffle your library.)"
+"a Sliver card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Drzazgaczocykling |mana_3| (|mana_3|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, po czym "
@@ -2254,7 +2309,7 @@ msgstr ""
 #: ../../FUT.rst:747
 msgid ""
 "Sacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until "
-"end of turn. Activate this ability only during your upkeep."
+"end of turn. Activate only during your upkeep."
 msgstr ""
 
 #: ../../FUT.rst:752
@@ -2433,9 +2488,13 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:807
+#, fuzzy
+#| msgid ""
+#| "Search your library for a green creature card, reveal it, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
 "twojej ręce, po czym przetasuj twoją bibliotekę."
@@ -2524,9 +2583,13 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:835
+#, fuzzy
+#| msgid ""
+#| "If you control four or fewer lands, search your library for a basic land "
+#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "If you control four or fewer lands, search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Jeśli władasz nie więcej niż czterema lądami, wyszukaj w twojej bibliotece "
 "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
@@ -2663,7 +2726,7 @@ msgstr ""
 "Siła tej karty jest równa liczbie typów kart spośród kart we wszystkich "
 "cmentarzach, a jej wytrzymałość jest równa tej liczbie plus 1."
 
-#: ../../FUT.rst:888
+#: ../../FUT.rst:886
 msgid ""
 ":mtgtip:`Thornweald Archer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/8/783a50a0-9394-4d97-856f-21eb126a0018.jpg?1562919105|"
@@ -2671,25 +2734,17 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:885
-msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
-
-#: ../../FUT.rst:887
-msgid ""
-"Deathtouch (Any amount of damage this deals to a creature is enough to "
-"destroy it.)"
+msgid "Reach, deathtouch"
 msgstr ""
-"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
-"zostaje zniszczony.)"
 
-#: ../../FUT.rst:892
+#: ../../FUT.rst:890
 msgid ""
 ":mtgtip:`Virulent Sliver<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/6/66de9c95-e590-4b0d-a2d7-886d7a488a10.jpg?1562915794|"
 "https://scryfall.com/card/fut/155/virulent-sliver?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:891
+#: ../../FUT.rst:889
 msgid ""
 "All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat "
 "damage to a player, that player gets a poison counter. A player with ten or "
@@ -2699,14 +2754,14 @@ msgstr ""
 "obrażenia bojowe, ów gracz dostaje znacznik zatrucia. Gracz mający co "
 "najmniej dziesięć znaczników zatrucia przegrywa grę.)"
 
-#: ../../FUT.rst:896
+#: ../../FUT.rst:894
 msgid ""
 ":mtgtip:`Glittering Wish<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/c/ec73e1ba-b543-4c64-aa89-164eef1d15d6.jpg?1562942497|"
 "https://scryfall.com/card/fut/156/glittering-wish?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:895
+#: ../../FUT.rst:893
 msgid ""
 "You may reveal a multicolored card you own from outside the game and put it "
 "into your hand. Exile Glittering Wish."
@@ -2714,14 +2769,14 @@ msgstr ""
 "Możesz ujawnić własną wielokolorową kartę spoza gry i umieścić ją w twojej "
 "ręce. Wygnaj ten czar."
 
-#: ../../FUT.rst:900
+#: ../../FUT.rst:898
 msgid ""
 ":mtgtip:`Jhoira of the Ghitu<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/f/1f437128-3a87-4958-97d0-3940d8761cba.jpg?1562901187|"
 "https://scryfall.com/card/fut/157/jhoira-of-the-ghitu?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:899
+#: ../../FUT.rst:897
 msgid ""
 "|mana_2|, Exile a nonland card from your hand: Put four time counters on the "
 "exiled card. If it doesn't have suspend, it gains suspend. (At the beginning "
@@ -2735,28 +2790,28 @@ msgstr ""
 "znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją bez "
 "płacenia jej kosztu many. Jeśli jest stworem, ma pośpiech.)"
 
-#: ../../FUT.rst:904
+#: ../../FUT.rst:902
 msgid ""
 ":mtgtip:`Sliver Legion<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/b/8bd37a04-87b1-42ad-b3e2-f17cd8998f9d.jpg?1562923246|"
 "https://scryfall.com/card/fut/158/sliver-legion?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:903
+#: ../../FUT.rst:901
 msgid ""
 "All Sliver creatures get +1/+1 for each other Sliver on the battlefield."
 msgstr ""
 "Wszystkie Drzazgacze dostają +1/+1 za każdego innego Drzazgacza na polu "
 "bitwy."
 
-#: ../../FUT.rst:908
+#: ../../FUT.rst:906
 msgid ""
 ":mtgtip:`Akroma's Memorial<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/2/d2cb3bdf-dff5-4285-ad67-ae7ca84c9fbc.jpg?1562937316|"
 "https://scryfall.com/card/fut/159/akromas-memorial?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:907
+#: ../../FUT.rst:905
 msgid ""
 "Creatures you control have flying, first strike, vigilance, trample, haste, "
 "and protection from black and from red."
@@ -2764,14 +2819,14 @@ msgstr ""
 "Stwory pod twoim władaniem mają latanie, pierwszy cios, czujność, "
 "tratowanie, pośpiech i ochronę przed czarnym i czerwonym."
 
-#: ../../FUT.rst:914
+#: ../../FUT.rst:912
 msgid ""
 ":mtgtip:`Cloud Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/8/b893ab56-44a6-4b3c-bb3e-6deec298cbce.jpg?1562932147|https://"
 "scryfall.com/card/fut/160/cloud-key?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:911
+#: ../../FUT.rst:909
 msgid ""
 "As Cloud Key enters the battlefield, choose artifact, creature, enchantment, "
 "instant, or sorcery."
@@ -2779,26 +2834,26 @@ msgstr ""
 "Umieszczając tę kartę na polu bitwy wybierz artefakt, stwór, urok, sztuczka "
 "lub obrzęd."
 
-#: ../../FUT.rst:913
+#: ../../FUT.rst:911
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
 msgstr "Rzucane przez ciebie czary wybranego typu kosztują o |mana_1| mniej."
 
-#: ../../FUT.rst:922
+#: ../../FUT.rst:920
 msgid ""
 ":mtgtip:`Coalition Relic<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7a7c98b0-d64d-4d0a-b284-1187a8e7095e.jpg?1562919647|"
 "https://scryfall.com/card/fut/161/coalition-relic?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:917
+#: ../../FUT.rst:915
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../FUT.rst:919
+#: ../../FUT.rst:917
 msgid "|tap|: Put a charge counter on Coalition Relic."
 msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
-#: ../../FUT.rst:921
+#: ../../FUT.rst:919
 msgid ""
 "At the beginning of your precombat main phase, remove all charge counters "
 "from Coalition Relic. Add one mana of any color for each charge counter "
@@ -2808,34 +2863,34 @@ msgstr ""
 "ładunku z tego artefaktu. Weź jedną manę dowolnego koloru za każdy znacznik "
 "ładunku usunięty w ten sposób."
 
-#: ../../FUT.rst:928
+#: ../../FUT.rst:926
 msgid ""
 ":mtgtip:`Epochrasite<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/9/7971f6a6-c26c-4f8f-8de7-afc40563967d.jpg?1562919388|https://"
 "scryfall.com/card/fut/162/epochrasite?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:925
+#: ../../FUT.rst:923
 msgid ""
 "Epochrasite enters the battlefield with three +1/+1 counters on it if you "
 "didn't cast it from your hand."
 msgstr ""
 
-#: ../../FUT.rst:927
+#: ../../FUT.rst:925
 msgid ""
 "When Epochrasite dies, exile it with three time counters on it and it gains "
 "suspend. (At the beginning of your upkeep, remove a time counter. When the "
 "last is removed, cast this card without paying its mana cost. It has haste.)"
 msgstr ""
 
-#: ../../FUT.rst:932
+#: ../../FUT.rst:930
 msgid ""
 ":mtgtip:`Sliversmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.jpg?1562930884|https://"
 "scryfall.com/card/fut/163/sliversmith?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:931
+#: ../../FUT.rst:929
 msgid ""
 "|mana_1|, |tap|, Discard a card: Create a 1/1 colorless Sliver artifact "
 "creature token named Metallic Sliver."
@@ -2843,42 +2898,42 @@ msgstr ""
 "|mana_1|, |tap|, odrzuć kartę: Stwórz żeton bezkolorowego artefaktowego "
 "stwora Drzazgacz 1/1 o nazwie Metallic Sliver."
 
-#: ../../FUT.rst:938
+#: ../../FUT.rst:936
 msgid ""
 ":mtgtip:`Soultether Golem<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/e/6efa61f0-c7bd-49e2-9d66-bf15ad0e9d03.jpg?1562917178|"
 "https://scryfall.com/card/fut/164/soultether-golem?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:935
+#: ../../FUT.rst:933
 msgid ""
 "Vanishing 1 (This creature enters the battlefield with a time counter on it. "
 "At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
 
-#: ../../FUT.rst:937
+#: ../../FUT.rst:935
 msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "time counter on Soultether Golem."
 msgstr ""
 
-#: ../../FUT.rst:946
+#: ../../FUT.rst:944
 msgid ""
 ":mtgtip:`Sword of the Meek<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/9/e9f13705-6ede-4c29-a2b4-a082bf69e9c5.jpg?1562941962|"
 "https://scryfall.com/card/fut/165/sword-of-the-meek?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:941
+#: ../../FUT.rst:939
 msgid "Equipped creature gets +1/+2."
 msgstr "Wyposażony stwór dostaje +1/+2."
 
-#: ../../FUT.rst:943
+#: ../../FUT.rst:941
 msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
-#: ../../FUT.rst:945
+#: ../../FUT.rst:943
 msgid ""
 "Whenever a 1/1 creature enters the battlefield under your control, you may "
 "return Sword of the Meek from your graveyard to the battlefield, then attach "
@@ -2888,76 +2943,76 @@ msgstr ""
 "przywrócić tę kartę z twojego cmentarza na pole bitwy, po czym dołączyć ją "
 "do owego stwora."
 
-#: ../../FUT.rst:950
+#: ../../FUT.rst:948
 msgid ""
 ":mtgtip:`Veilstone Amulet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/7/3705d3e4-317e-460d-b16e-e57238a19070.jpg?1562906098|"
 "https://scryfall.com/card/fut/166/veilstone-amulet?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:949
+#: ../../FUT.rst:947
 msgid ""
 "Whenever you cast a spell, creatures you control can't be the targets of "
 "spells or abilities your opponents control this turn."
 msgstr ""
 
-#: ../../FUT.rst:958
+#: ../../FUT.rst:956
 msgid ""
 ":mtgtip:`Darksteel Garrison<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/7/e77eaaa0-40f9-40e4-b0ba-5a8addd764d3.jpg?1562941435|"
 "https://scryfall.com/card/fut/167/darksteel-garrison?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:953
+#: ../../FUT.rst:951
 msgid "Fortified land has indestructible."
 msgstr ""
 
-#: ../../FUT.rst:955
+#: ../../FUT.rst:953
 msgid ""
 "Whenever fortified land becomes tapped, target creature gets +1/+1 until end "
 "of turn."
 msgstr ""
 
-#: ../../FUT.rst:957
+#: ../../FUT.rst:955
 msgid ""
 "Fortify |mana_3| (|mana_3|: Attach to target land you control. Fortify only "
 "as a sorcery. This card enters the battlefield unattached and stays on the "
 "battlefield if the land leaves.)"
 msgstr ""
 
-#: ../../FUT.rst:964
+#: ../../FUT.rst:962
 msgid ""
 ":mtgtip:`Whetwheel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/c/dc6040b6-cf02-4f7e-a275-177c3a6415aa.jpg?1562939302|https://"
 "scryfall.com/card/fut/168/whetwheel?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:961
+#: ../../FUT.rst:959
 msgid "|mana_x|\\ |mana_x|, |tap|: Target player mills X cards."
 msgstr ""
 
-#: ../../FUT.rst:963
+#: ../../FUT.rst:961
 msgid ""
 "Morph |mana_3| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
-#: ../../FUT.rst:972
+#: ../../FUT.rst:970
 msgid ""
 ":mtgtip:`Dakmor Salvage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/f/8f7f06e8-d8ee-435c-965c-8e1302a8ec10.jpg?1562923972|"
 "https://scryfall.com/card/fut/169/dakmor-salvage?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:967
+#: ../../FUT.rst:965
 msgid "Dakmor Salvage enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../FUT.rst:969
+#: ../../FUT.rst:967
 msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Weź |mana_b|."
 
-#: ../../FUT.rst:971
+#: ../../FUT.rst:969
 msgid ""
 "Dredge 2 (If you would draw a card, you may mill two cards instead. If you "
 "do, return this card from your graveyard to your hand.)"
@@ -2966,105 +3021,110 @@ msgstr ""
 "karty. Jeśli tak zrobisz, przywróć niniejszą kartę z twojego cmentarza do "
 "twojej ręki.)"
 
-#: ../../FUT.rst:980
+#: ../../FUT.rst:978
 msgid ""
 ":mtgtip:`Keldon Megaliths<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/a/3a6d546d-df98-4cb4-a68b-2a0c8bac5a72.jpg?1562906839|"
 "https://scryfall.com/card/fut/170/keldon-megaliths?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:975
+#: ../../FUT.rst:973
 msgid "Keldon Megaliths enters the battlefield tapped."
 msgstr ""
 
-#: ../../FUT.rst:977
+#: ../../FUT.rst:975
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
-#: ../../FUT.rst:979
+#: ../../FUT.rst:977
 msgid ""
 "Hellbent — |mana_1|\\ |mana_r|, |tap|: Keldon Megaliths deals 1 damage to "
-"any target. Activate this ability only if you have no cards in hand."
+"any target. Activate only if you have no cards in hand."
 msgstr ""
 
-#: ../../FUT.rst:988
+#: ../../FUT.rst:986
 msgid ""
 ":mtgtip:`Llanowar Reborn<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/4/04d07c6b-1afa-4321-b4f9-f22e81a0b818.jpg?1562895900|"
 "https://scryfall.com/card/fut/171/llanowar-reborn?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:983
+#: ../../FUT.rst:981
 msgid "Llanowar Reborn enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../FUT.rst:985
+#: ../../FUT.rst:983
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
-#: ../../FUT.rst:987
+#: ../../FUT.rst:985
 msgid ""
 "Graft 1 (This land enters the battlefield with a +1/+1 counter on it. "
 "Whenever a creature enters the battlefield, you may move a +1/+1 counter "
 "from this land onto it.)"
 msgstr ""
 
-#: ../../FUT.rst:996
+#: ../../FUT.rst:994
 msgid ""
 ":mtgtip:`New Benalia<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/8/18bde721-8fa0-4f69-9909-b4864929e676.jpg?1562899939|https://"
 "scryfall.com/card/fut/172/new-benalia?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:991
+#: ../../FUT.rst:989
 msgid "New Benalia enters the battlefield tapped."
 msgstr ""
 
-#: ../../FUT.rst:993
+#: ../../FUT.rst:991
 msgid ""
 "When New Benalia enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../FUT.rst:995
+#: ../../FUT.rst:993
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
-#: ../../FUT.rst:1004
+#: ../../FUT.rst:1002
 msgid ""
 ":mtgtip:`Tolaria West<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/9/a9e80f06-ea05-4151-920f-7ddc88952169.jpg?1562929228|"
 "https://scryfall.com/card/fut/173/tolaria-west?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:999
+#: ../../FUT.rst:997
 msgid "Tolaria West enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../FUT.rst:1001
+#: ../../FUT.rst:999
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Weź |mana_u|."
 
-#: ../../FUT.rst:1003
+#: ../../FUT.rst:1001
+#, fuzzy
+#| msgid ""
+#| "Transmute |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, "
+#| "Discard this card: Search your library for a card with converted mana "
+#| "cost 0, reveal it, and put it into your hand. Then shuffle your library. "
+#| "Transmute only as a sorcery.)"
 msgid ""
 "Transmute |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, "
-"Discard this card: Search your library for a card with converted mana cost "
-"0, reveal it, and put it into your hand. Then shuffle your library. "
-"Transmute only as a sorcery.)"
+"Discard this card: Search your library for a card with mana value 0, reveal "
+"it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
 msgstr ""
 "Transmutuj |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, "
 "odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę skrócie many 0, ujawnij "
 "ją i umieść w twojej ręce. Następnie przetasuj twoją biblioteką. Transmutuj "
 "tylko jako obrzęd.)"
 
-#: ../../FUT.rst:1008
+#: ../../FUT.rst:1006
 msgid ""
 ":mtgtip:`Dryad Arbor<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/c/8cee476d-42e1-4997-87af-73e18f542167.jpg?1562923491|https://"
 "scryfall.com/card/fut/174/dryad-arbor?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1007
+#: ../../FUT.rst:1005
 msgid ""
 "(Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has "
 "\"|tap|: Add |mana_g|.\")"
@@ -3072,18 +3132,18 @@ msgstr ""
 "(Ten stwór nie jest czarem, podlega chorobie przywołania i ma \"|tap|: Weź |"
 "mana_g|.\")"
 
-#: ../../FUT.rst:1014
+#: ../../FUT.rst:1012
 msgid ""
 ":mtgtip:`Graven Cairns<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/1/81e7d329-ef6a-45f3-82b6-37a3606c00bc.jpg?1562921196|"
 "https://scryfall.com/card/fut/175/graven-cairns?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1011 ../../FUT.rst:1017 ../../FUT.rst:1029 ../../FUT.rst:1041
+#: ../../FUT.rst:1009 ../../FUT.rst:1015 ../../FUT.rst:1027 ../../FUT.rst:1039
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../FUT.rst:1013
+#: ../../FUT.rst:1011
 msgid ""
 "|mana_br|, |tap|: Add |mana_b|\\ |mana_b|, |mana_b|\\ |mana_r|, or |mana_r|"
 "\\ |mana_r|."
@@ -3091,7 +3151,7 @@ msgstr ""
 "|mana_br|, |tap|: Weź |mana_b|\\ |mana_b|, |mana_b|\\ |mana_r| albo |mana_r|"
 "\\ |mana_r|."
 
-#: ../../FUT.rst:1020
+#: ../../FUT.rst:1018
 msgid ""
 ":mtgtip:`Grove of the Burnwillows<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/e/0/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452.jpg?"
@@ -3099,68 +3159,103 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1019
+#: ../../FUT.rst:1017
 msgid "|tap|: Add |mana_r| or |mana_g|. Each opponent gains 1 life."
 msgstr ""
 "|tap|: Weź |mana_r| albo |mana_g|. Każdy przeciwnik zyskuje po 1 życiu."
 
-#: ../../FUT.rst:1026
+#: ../../FUT.rst:1024
 msgid ""
 ":mtgtip:`Horizon Canopy<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/5/d5dfc25d-a17b-4ead-9484-e8a18b8fa176.jpg?1562937907|"
 "https://scryfall.com/card/fut/177/horizon-canopy?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1023
+#: ../../FUT.rst:1021
 msgid "|tap|, Pay 1 life: Add |mana_g| or |mana_w|."
 msgstr "|tap|, zapłać 1 życie: Weź |mana_g| albo |mana_w|."
 
-#: ../../FUT.rst:1025
+#: ../../FUT.rst:1023
 msgid "|mana_1|, |tap|, Sacrifice Horizon Canopy: Draw a card."
 msgstr "|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę."
 
-#: ../../FUT.rst:1034
+#: ../../FUT.rst:1032
 msgid ""
 ":mtgtip:`Nimbus Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/0/80d1f953-9403-4e0a-b8e1-3f7d928a2834.jpg?1562920952|https://"
 "scryfall.com/card/fut/178/nimbus-maze?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1031
-msgid ""
-"|tap|: Add |mana_w|. Activate this ability only if you control an Island."
+#: ../../FUT.rst:1029
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add |mana_w|. Activate this ability only if you control an Island."
+msgid "|tap|: Add |mana_w|. Activate only if you control an Island."
 msgstr "|tap|: Weź |mana_w|. Możesz aktywować tylko jeśli władasz Wyspą."
 
-#: ../../FUT.rst:1033
-msgid ""
-"|tap|: Add |mana_u|. Activate this ability only if you control a Plains."
+#: ../../FUT.rst:1031
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add |mana_u|. Activate this ability only if you control a Plains."
+msgid "|tap|: Add |mana_u|. Activate only if you control a Plains."
 msgstr "|tap|: Weź |mana_u|. Możesz aktywować tylko jeśli władasz Równiną."
 
-#: ../../FUT.rst:1038
+#: ../../FUT.rst:1036
 msgid ""
 ":mtgtip:`River of Tears<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/d/8d5b2058-99fc-4d9b-9e3d-056fa3fd1244.jpg?1562923565|"
 "https://scryfall.com/card/fut/179/river-of-tears?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1037
+#: ../../FUT.rst:1035
 msgid ""
 "|tap|: Add |mana_u|. If you played a land this turn, add |mana_b| instead."
 msgstr ""
 "|tap|: Weź |mana_u|. Jeśli zagrałeś ten ląd w tej turze, zamiast tego weź |"
 "mana_b|."
 
-#: ../../FUT.rst:1043
+#: ../../FUT.rst:1041
 msgid ""
 ":mtgtip:`Zoetic Cavern<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/1/c1db30e1-31df-44b9-930a-02428bd5ce47.jpg?1562933955|"
 "https://scryfall.com/card/fut/180/zoetic-cavern?utm_source=api>`"
 msgstr ""
 
-#: ../../FUT.rst:1043
+#: ../../FUT.rst:1041
 msgid ""
 "Morph |mana_2| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_2| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora "
 "2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
+
+#~ msgid ""
+#~ "Scry 4, then draw two cards. (To scry 4, look at the top four cards of "
+#~ "your library, then put any number of them on the bottom of your library "
+#~ "and the rest on top in any order.)"
+#~ msgstr ""
+#~ "Wróż 4, po czym dobierz dwie karty. (By wróżyć 4, spójrz na cztery "
+#~ "wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich na "
+#~ "spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+#~ "kolejności.)"
+
+#~ msgid ""
+#~ "Suspend 4—|mana_r| (Rather than cast this card from your hand, you may "
+#~ "pay |mana_r| and exile it with four time counters on it. At the beginning "
+#~ "of your upkeep, remove a time counter. When the last is removed, cast it "
+#~ "without paying its mana cost. It has haste.)"
+#~ msgstr ""
+#~ "Zawieszenie 4—|mana_r| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+#~ "zapłacić |mana_r| i wygnaj ją z czterema znacznikami czasu. Na początku "
+#~ "twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
+#~ "czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
+
+#~ msgid "Reach (This creature can block creatures with flying.)"
+#~ msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
+
+#~ msgid ""
+#~ "Deathtouch (Any amount of damage this deals to a creature is enough to "
+#~ "destroy it.)"
+#~ msgstr ""
+#~ "Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+#~ "zostaje zniszczony.)"

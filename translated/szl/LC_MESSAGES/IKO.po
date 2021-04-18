@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: ../../IKO.rst:17
 msgid ""
 "When Farfinder enters the battlefield, you may search your library for a "
-"basic land card, reveal it, put it into your hand, then shuffle your library."
+"basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:22
@@ -307,8 +307,7 @@ msgstr ""
 
 #: ../../IKO.rst:107
 msgid ""
-"Lavabrink Venturer has protection from each converted mana cost of the "
-"chosen value."
+"Lavabrink Venturer has protection from each mana value of the chosen quality."
 msgstr ""
 
 #: ../../IKO.rst:118
@@ -985,7 +984,7 @@ msgstr ""
 #: ../../IKO.rst:393
 msgid ""
 "Whenever you cast a noncreature spell, create an X/X blue Shark creature "
-"token with flying, where X is that spell's converted mana cost."
+"token with flying, where X is that spell's mana value."
 msgstr ""
 
 #: ../../IKO.rst:395
@@ -1152,9 +1151,9 @@ msgstr ""
 
 #: ../../IKO.rst:451
 msgid ""
-"Return up to two target creature cards with total converted mana cost 3 or "
-"less from your graveyard to the battlefield. Put a deathtouch counter on "
-"either of them. Then put a menace counter on either of them."
+"Return up to two target creature cards with total mana value 3 or less from "
+"your graveyard to the battlefield. Put a deathtouch counter on either of "
+"them. Then put a menace counter on either of them."
 msgstr ""
 
 #: ../../IKO.rst:460
@@ -1295,7 +1294,7 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:503
-msgid "Destroy target creature with converted mana cost 2 or less."
+msgid "Destroy target creature with mana value 2 or less."
 msgstr ""
 
 #: ../../IKO.rst:510
@@ -1307,8 +1306,8 @@ msgstr ""
 
 #: ../../IKO.rst:509
 msgid ""
-"Choose odd or even. Exile each creature with converted mana cost of the "
-"chosen value. (Zero is even.)"
+"Choose odd or even. Exile each creature with mana value of the chosen "
+"quality. (Zero is even.)"
 msgstr ""
 
 #: ../../IKO.rst:512
@@ -1548,7 +1547,7 @@ msgstr ""
 #: ../../IKO.rst:601
 msgid ""
 "|mana_1|\\ |mana_b|: Search your library for a card named Whisper Squad, put "
-"it onto the battlefield tapped, then shuffle your library."
+"it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:606
@@ -1836,9 +1835,9 @@ msgstr ""
 #: ../../IKO.rst:707
 msgid ""
 "−2: Exile target creature you control, then reveal cards from the top of "
-"your library until you reveal a creature card with higher converted mana "
-"cost. Put that card onto the battlefield and the rest on the bottom of your "
-"library in a random order."
+"your library until you reveal a creature card with higher mana value. Put "
+"that card onto the battlefield and the rest on the bottom of your library in "
+"a random order."
 msgstr ""
 
 #: ../../IKO.rst:709
@@ -2260,7 +2259,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
-"tapped, then shuffles their library."
+"tapped, then shuffles."
 msgstr ""
 
 #: ../../IKO.rst:868
@@ -2444,7 +2443,7 @@ msgstr ""
 #: ../../IKO.rst:927
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:936
@@ -2464,7 +2463,7 @@ msgstr ""
 #: ../../IKO.rst:935
 msgid ""
 "Whenever this creature mutates, search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:942
@@ -2497,7 +2496,7 @@ msgstr ""
 #: ../../IKO.rst:949
 msgid ""
 "If |mana_u|\\ |mana_b| was spent to cast this spell, search your library for "
-"a card, put that card into your graveyard, then shuffle your library."
+"a card, put that card into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:951
@@ -2614,8 +2613,8 @@ msgstr ""
 #: ../../IKO.rst:993
 msgid ""
 "−2: When you cast your next creature spell this turn, search your library "
-"for a creature card with lesser converted mana cost, put it onto the "
-"battlefield, then shuffle your library."
+"for a creature card with lesser mana value, put it onto the battlefield, "
+"then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:1000
@@ -2732,14 +2731,14 @@ msgstr ""
 #: ../../IKO.rst:1035
 msgid ""
 "Whenever a nontoken creature you control dies, mill two cards. Then return a "
-"creature card with lesser converted mana cost than the creature that died "
-"from your graveyard to your hand."
+"creature card with lesser mana value than the creature that died from your "
+"graveyard to your hand."
 msgstr ""
 
 #: ../../IKO.rst:1037
 msgid ""
-"|mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest "
-"converted mana cost among creatures you control."
+"|mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest mana "
+"value among creatures you control."
 msgstr ""
 
 #: ../../IKO.rst:1042
@@ -2966,7 +2965,7 @@ msgstr ""
 msgid ""
 "−2: Draw a card, then you may discard a card. When you discard a nonland "
 "card this way, Narset of the Ancient Way deals damage equal to that card's "
-"converted mana cost to target creature or planeswalker."
+"mana value to target creature or planeswalker."
 msgstr ""
 
 #: ../../IKO.rst:1113
@@ -2991,8 +2990,8 @@ msgstr ""
 
 #: ../../IKO.rst:1119
 msgid ""
-"Whenever this creature mutates, return target creature card with converted "
-"mana cost 3 or less from your graveyard to the battlefield."
+"Whenever this creature mutates, return target creature card with mana value "
+"3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../IKO.rst:1128
@@ -3310,8 +3309,7 @@ msgstr ""
 #: ../../IKO.rst:1229
 msgid ""
 "Whenever this creature mutates, you may cast target noncreature card with "
-"converted mana cost 3 or less from your graveyard without paying its mana "
-"cost."
+"mana value 3 or less from your graveyard without paying its mana cost."
 msgstr ""
 
 #: ../../IKO.rst:1234
@@ -3393,9 +3391,8 @@ msgstr ""
 #: ../../IKO.rst:1259
 msgid ""
 "|mana_x|\\ |mana_bg|, |tap|, Sacrifice another creature: Search your library "
-"for a creature card with converted mana cost X or less, put it onto the "
-"battlefield, then shuffle your library. Activate this ability only any time "
-"you could cast a sorcery."
+"for a creature card with mana value X or less, put it onto the battlefield, "
+"then shuffle. Activate only as a sorcery."
 msgstr ""
 
 #: ../../IKO.rst:1266
@@ -3407,16 +3404,16 @@ msgstr ""
 
 #: ../../IKO.rst:1263
 msgid ""
-"Companion — Your starting deck contains only cards with even converted mana "
-"costs. (If this card is your chosen companion, you may put it into your hand "
-"from outside the game for |mana_3| any time you could cast a sorcery.)"
+"Companion — Your starting deck contains only cards with even mana values. "
+"(If this card is your chosen companion, you may put it into your hand from "
+"outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1265
 msgid ""
 "When Gyruda enters the battlefield, each player mills four cards. Put a "
-"creature card with an even converted mana cost from among the milled cards "
-"onto the battlefield under your control."
+"creature card with an even mana value from among the milled cards onto the "
+"battlefield under your control."
 msgstr ""
 
 #: ../../IKO.rst:1272
@@ -3485,16 +3482,16 @@ msgstr ""
 
 #: ../../IKO.rst:1289
 msgid ""
-"Companion — Your starting deck contains only cards with converted mana cost "
-"3 or greater and land cards. (If this card is your chosen companion, you may "
-"put it into your hand from outside the game for |mana_3| any time you could "
-"cast a sorcery.)"
+"Companion — Your starting deck contains only cards with mana value 3 or "
+"greater and land cards. (If this card is your chosen companion, you may put "
+"it into your hand from outside the game for |mana_3| any time you could cast "
+"a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1291
 msgid ""
 "When Keruga, the Macrosage enters the battlefield, draw a card for each "
-"other permanent you control with converted mana cost 3 or greater."
+"other permanent you control with mana value 3 or greater."
 msgstr ""
 
 #: ../../IKO.rst:1300
@@ -3506,16 +3503,15 @@ msgstr ""
 
 #: ../../IKO.rst:1295
 msgid ""
-"Companion — Each permanent card in your starting deck has converted mana "
-"cost 2 or less. (If this card is your chosen companion, you may put it into "
-"your hand from outside the game for |mana_3| any time you could cast a "
-"sorcery.)"
+"Companion — Each permanent card in your starting deck has mana value 2 or "
+"less. (If this card is your chosen companion, you may put it into your hand "
+"from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1299
 msgid ""
-"During each of your turns, you may cast one permanent spell with converted "
-"mana cost 2 or less from your graveyard."
+"During each of your turns, you may cast one permanent spell with mana value "
+"2 or less from your graveyard."
 msgstr ""
 
 #: ../../IKO.rst:1308
@@ -3548,17 +3544,16 @@ msgstr ""
 
 #: ../../IKO.rst:1311
 msgid ""
-"Companion — Your starting deck contains only cards with odd converted mana "
-"costs and land cards. (If this card is your chosen companion, you may put it "
-"into your hand from outside the game for |mana_3| any time you could cast a "
-"sorcery.)"
+"Companion — Your starting deck contains only cards with odd mana values and "
+"land cards. (If this card is your chosen companion, you may put it into your "
+"hand from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1313
 msgid ""
-"If a source you control with an odd converted mana cost would deal damage to "
-"a permanent or player, it deals double that damage to that permanent or "
-"player instead."
+"If a source you control with an odd mana value would deal damage to a "
+"permanent or player, it deals double that damage to that permanent or player "
+"instead."
 msgstr ""
 
 #: ../../IKO.rst:1320
@@ -3825,8 +3820,8 @@ msgstr ""
 
 #: ../../IKO.rst:1423
 msgid ""
-"|mana_3|, |tap|: Draw a card. Activate this ability only if you control a "
-"creature with power 4 or greater."
+"|mana_3|, |tap|: Draw a card. Activate only if you control a creature with "
+"power 4 or greater."
 msgstr ""
 
 #: ../../IKO.rst:1432
@@ -3858,7 +3853,7 @@ msgstr ""
 #: ../../IKO.rst:1435
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IKO.rst:1444

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
@@ -308,11 +308,18 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../ONS.rst:105
+#, fuzzy
+#| msgid ""
+#| "When Avarax enters the battlefield, you may search your library for a "
+#| "card named Avarax, reveal it, and put it into your hand. If you do, "
+#| "shuffle your library."
 msgid ""
 "When Daru Cavalier enters the battlefield, you may search your library for a "
-"card named Daru Cavalier, reveal it, and put it into your hand. If you do, "
-"shuffle your library."
+"card named Daru Cavalier, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../ONS.rst:112
 msgid ""
@@ -890,10 +897,15 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:331
+#, fuzzy
+#| msgid ""
+#| "|mana_w|, |tap|: Search your library for a land card, reveal it, and put "
+#| "it into your hand. Then shuffle your library. Activate this ability only "
+#| "if an opponent controls more lands than you."
 msgid ""
-"|mana_w|, |tap|: Search your library for a land card, reveal it, and put it "
-"into your hand. Then shuffle your library. Activate this ability only if an "
-"opponent controls more lands than you."
+"|mana_w|, |tap|: Search your library for a land card, reveal it, put it into "
+"your hand, then shuffle. Activate only if an opponent controls more lands "
+"than you."
 msgstr ""
 "|mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i "
 "umieść w twojej ręce, po czym przetasuj. Możesz aktywować tę zdolność tylko "
@@ -1697,11 +1709,19 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:619
+#, fuzzy
+#| msgid ""
+#| "When Avarax enters the battlefield, you may search your library for a "
+#| "card named Avarax, reveal it, and put it into your hand. If you do, "
+#| "shuffle your library."
 msgid ""
 "When Screaming Seahawk enters the battlefield, you may search your library "
-"for a card named Screaming Seahawk, reveal it, and put it into your hand. If "
-"you do, shuffle your library."
+"for a card named Screaming Seahawk, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../ONS.rst:626
 msgid ""
@@ -1762,7 +1782,7 @@ msgstr ""
 #: ../../ONS.rst:643
 msgid ""
 "Tap five untapped Wizards you control: Search target player's library for up "
-"to five cards and exile them. Then that player shuffles their library."
+"to five cards and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../ONS.rst:648
@@ -2346,10 +2366,15 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:843
+#, fuzzy
+#| msgid ""
+#| "Target opponent puts the cards from their hand on top of their library. "
+#| "Search that player's library for that many cards. The player puts those "
+#| "cards into their hand, then shuffles their library."
 msgid ""
 "Target opponent puts the cards from their hand on top of their library. "
 "Search that player's library for that many cards. The player puts those "
-"cards into their hand, then shuffles their library."
+"cards into their hand, then shuffles."
 msgstr ""
 "Wskazany przeciwnik umieszcza karty w swojej ręce na wierzchu swojej "
 "biblioteki. Wyszukaj w bibliotece owego gracza tyle samo kart. Ów gracz "
@@ -2548,10 +2573,11 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:917
+#, fuzzy
+#| msgid "|tap|: Destroy target creature. It can't be regenerated."
 msgid ""
-"Destroy target creature with converted mana cost 3 or less. It can't be "
-"regenerated."
-msgstr ""
+"Destroy target creature with mana value 3 or less. It can't be regenerated."
+msgstr "|tap|: Zniszcz wskazanego stwora. Nie może regenerować."
 
 #: ../../ONS.rst:922
 msgid ""
@@ -2650,7 +2676,7 @@ msgstr ""
 #: ../../ONS.rst:953
 msgid ""
 "|mana_1|\\ |mana_b|, Discard a card: Return Undead Gladiator from your "
-"graveyard to your hand. Activate this ability only during your upkeep."
+"graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../ONS.rst:962
@@ -2737,10 +2763,16 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:989
+#, fuzzy
+#| msgid ""
+#| "|mana_3|\\ |mana_r|\\ |mana_r|: Untap all creatures you control. After "
+#| "this main phase, there is an additional combat phase followed by an "
+#| "additional main phase. Activate this ability only any time you could cast "
+#| "a sorcery."
 msgid ""
 "|mana_3|\\ |mana_r|\\ |mana_r|: Untap all creatures you control. After this "
 "main phase, there is an additional combat phase followed by an additional "
-"main phase. Activate this ability only any time you could cast a sorcery."
+"main phase. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_r|\\ |mana_r|: Odkręć wszystkie stwory pod twoim władaniem. "
 "Po tej fazie głównej jest dodatkowa faza potyczki, po której nastąpi "
@@ -2771,10 +2803,14 @@ msgid "Haste"
 msgstr "Pośpiech"
 
 #: ../../ONS.rst:1001
+#, fuzzy
+#| msgid ""
+#| "When Avarax enters the battlefield, you may search your library for a "
+#| "card named Avarax, reveal it, and put it into your hand. If you do, "
+#| "shuffle your library."
 msgid ""
 "When Avarax enters the battlefield, you may search your library for a card "
-"named Avarax, reveal it, and put it into your hand. If you do, shuffle your "
-"library."
+"named Avarax, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
@@ -2971,11 +3007,19 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1071
+#, fuzzy
+#| msgid ""
+#| "When Avarax enters the battlefield, you may search your library for a "
+#| "card named Avarax, reveal it, and put it into your hand. If you do, "
+#| "shuffle your library."
 msgid ""
 "When Embermage Goblin enters the battlefield, you may search your library "
-"for a card named Embermage Goblin, reveal it, and put it into your hand. If "
-"you do, shuffle your library."
+"for a card named Embermage Goblin, reveal it, put it into your hand, then "
+"shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
+"przetasuj twoją bibliotekę."
 
 #: ../../ONS.rst:1073
 msgid "|tap|: Embermage Goblin deals 1 damage to any target."
@@ -2992,8 +3036,8 @@ msgstr ""
 msgid ""
 "Choose any target. Reveal cards from the top of your library until you "
 "reveal a nonland card. Erratic Explosion deals damage equal to that card's "
-"converted mana cost to that permanent or player. Put the revealed cards on "
-"the bottom of your library in any order."
+"mana value to that permanent or player. Put the revealed cards on the bottom "
+"of your library in any order."
 msgstr ""
 
 #: ../../ONS.rst:1088
@@ -3043,8 +3087,8 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_r|: Reveal cards from the top of your library until you "
 "reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where "
-"X is that card's converted mana cost. Put the revealed cards on the bottom "
-"of your library in any order."
+"X is that card's mana value. Put the revealed cards on the bottom of your "
+"library in any order."
 msgstr ""
 
 #: ../../ONS.rst:1104
@@ -3180,7 +3224,7 @@ msgstr ""
 #: ../../ONS.rst:1150
 msgid ""
 ":mtgtip:`Kaboom!<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/1/e/1e81e5fc-0e18-4dd8-a505-aa7dba8521a8.jpg?1562902172|https://"
+"front/1/e/1e81e5fc-0e18-4dd8-a505-aa7dba8521a8.jpg?1618650505|https://"
 "scryfall.com/card/ons/214/kaboom!?utm_source=api>`"
 msgstr ""
 
@@ -3188,9 +3232,9 @@ msgstr ""
 msgid ""
 "Choose any number of target players or planeswalkers. For each of them, "
 "reveal cards from the top of your library until you reveal a nonland card, "
-"Kaboom! deals damage equal to that card's converted mana cost to that player "
-"or planeswalker, then you put the revealed cards on the bottom of your "
-"library in any order."
+"Kaboom! deals damage equal to that card's mana value to that player or "
+"planeswalker, then you put the revealed cards on the bottom of your library "
+"in any order."
 msgstr ""
 
 #: ../../ONS.rst:1158
@@ -3905,9 +3949,13 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1395
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, put them onto the "
+#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
 "je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -4046,10 +4094,15 @@ msgstr ""
 "kartę.)"
 
 #: ../../ONS.rst:1443
+#, fuzzy
+#| msgid ""
+#| "When you cycle Krosan Tusker, you may search your library for a basic "
+#| "land card, reveal that card, put it into your hand, then shuffle your "
+#| "library. (Do this before you draw.)"
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
-"card, reveal that card, put it into your hand, then shuffle your library. "
-"(Do this before you draw.)"
+"card, reveal that card, put it into your hand, then shuffle. (Do this before "
+"you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
 "bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
@@ -4418,10 +4471,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1579
+#, fuzzy
+#| msgid ""
+#| "Each player may search their library for up to X creature cards, reveal "
+#| "those cards, and put them into their hand. Then each player who searched "
+#| "their library this way shuffles it."
 msgid ""
 "Each player may search their library for up to X creature cards, reveal "
-"those cards, and put them into their hand. Then each player who searched "
-"their library this way shuffles it."
+"those cards, put them into their hand, then shuffle."
 msgstr ""
 "Każdy gracz może wyszukać w swojej bibliotece do X kart stworów, ujawnić je "
 "i umieścić je w swojej ręce. Następnie każdy gracz, który przeszukał swoją "
@@ -4457,10 +4514,18 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1591
+#, fuzzy
+#| msgid ""
+#| "When you cycle Krosan Tusker, you may search your library for a basic "
+#| "land card, reveal that card, put it into your hand, then shuffle your "
+#| "library. (Do this before you draw.)"
 msgid ""
 "When Wirewood Herald dies, you may search your library for an Elf card, "
-"reveal that card, put it into your hand, then shuffle your library."
+"reveal that card, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
+"bibliotekę. (Zrób to przed dobraniem.)"
 
 #: ../../ONS.rst:1596
 msgid ""
@@ -4617,10 +4682,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1645
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a "
+#| "Swamp or Mountain card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a "
-"Swamp or Mountain card, put it onto the battlefield, then shuffle your "
-"library."
+"Swamp or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Bagna lub Góry i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4665,10 +4734,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1661
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a "
+#| "Plains or Island card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a "
-"Plains or Island card, put it onto the battlefield, then shuffle your "
-"library."
+"Plains or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Równiny lub Wyspy i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4744,9 +4817,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1695
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an "
+#| "Island or Swamp card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an "
-"Island or Swamp card, put it onto the battlefield, then shuffle your library."
+"Island or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Wyspy lub Bagien i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4848,10 +4926,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1741
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a "
+#| "Forest or Plains card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a "
-"Forest or Plains card, put it onto the battlefield, then shuffle your "
-"library."
+"Forest or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Lasu lub Równiny i umieść ją na polu bitwy. Następnie przetasuj twoją "
@@ -4876,10 +4958,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1751
+#, fuzzy
+#| msgid ""
+#| "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a "
+#| "Mountain or Forest card, put it onto the battlefield, then shuffle your "
+#| "library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a "
-"Mountain or Forest card, put it onto the battlefield, then shuffle your "
-"library."
+"Mountain or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
 "Góry lub Lasu i umieść ją na polu bitwy. Następnie przetasuj twoją "

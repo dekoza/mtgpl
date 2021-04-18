@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
@@ -798,10 +798,14 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:229
+#, fuzzy
+#| msgid ""
+#| "Exile a creature card from your graveyard and pay its mana cost: Create a "
+#| "token that's a copy of that card. Activate this ability only any time you "
+#| "could cast a sorcery."
 msgid ""
 "Exile a creature card from your graveyard and pay its mana cost: Create a "
-"token that's a copy of that card. Activate this ability only any time you "
-"could cast a sorcery."
+"token that's a copy of that card. Activate only as a sorcery."
 msgstr ""
 "Wygnaj kartę stwora z twojego cmentarza i opłać jej koszt many: Stwórz żeton "
 "będący kopią owej karty. Aktywuj jako obrzęd."
@@ -1225,9 +1229,13 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:361
+#, fuzzy
+#| msgid ""
+#| "|mana_2|: Target player mills a card. Mindshrieker gets +X/+X until end "
+#| "of turn, where X is the milled card's converted mana cost."
 msgid ""
 "|mana_2|: Target player mills a card. Mindshrieker gets +X/+X until end of "
-"turn, where X is the milled card's converted mana cost."
+"turn, where X is the milled card's mana value."
 msgstr ""
 "|mana_2|: Wskazany gracz mieli kartę. Ten stwór dostaje do końca tury +X/+X, "
 "gdzie X jest skrótem many zmielonej karty."
@@ -1584,10 +1592,14 @@ msgstr "Dotyk śmierci"
 
 # c0fc9ce6cd174aeba302e45d05695be5
 #: ../../ISD.rst:481
+#, fuzzy
+#| msgid ""
+#| "When Bitterheart Witch dies, you may search your library for a Curse "
+#| "card, put it onto the battlefield attached to target player, then shuffle "
+#| "your library."
 msgid ""
 "When Bitterheart Witch dies, you may search your library for a Curse card, "
-"put it onto the battlefield attached to target player, then shuffle your "
-"library."
+"put it onto the battlefield attached to target player, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę Klątwy, "
 "umieść ją na polu bitwy dołączoną do wskazanego gracza, po czym przetasuj "
@@ -1623,9 +1635,13 @@ msgstr "|tap|: Stwórz żeton czarnego stwora Wampir 2/2 z lataniem."
 
 # dd5991cf83974c56a2a7833faac00bb5
 #: ../../ISD.rst:495
+#, fuzzy
+#| msgid ""
+#| "|mana_b|: Transform Bloodline Keeper. Activate this ability only if you "
+#| "control five or more Vampires."
 msgid ""
-"|mana_b|: Transform Bloodline Keeper. Activate this ability only if you "
-"control five or more Vampires."
+"|mana_b|: Transform Bloodline Keeper. Activate only if you control five or "
+"more Vampires."
 msgstr ""
 "|mana_b|: Transformuj tego stwora. Możesz aktywować tę zdolność tylko jeśli "
 "władasz przynajmniej pięcioma Wampirami."
@@ -1652,9 +1668,13 @@ msgstr ""
 
 # 0a1d334d35f74db1b50bc6110cfc8188
 #: ../../ISD.rst:509
+#, fuzzy
+#| msgid ""
+#| "Sacrifice Brain Weevil: Target player discards two cards. Activate this "
+#| "ability only any time you could cast a sorcery."
 msgid ""
-"Sacrifice Brain Weevil: Target player discards two cards. Activate this "
-"ability only any time you could cast a sorcery."
+"Sacrifice Brain Weevil: Target player discards two cards. Activate only as a "
+"sorcery."
 msgstr ""
 "Poświęć tego stwora: Wskazany gracz odrzuca dwie karty. Aktywuj jako obrzęd."
 
@@ -2073,10 +2093,14 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:653
+#, fuzzy
+#| msgid ""
+#| "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 "
+#| "black Demon creature token with flying. Activate this ability only if a "
+#| "creature died this turn."
 msgid ""
 "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black "
-"Demon creature token with flying. Activate this ability only if a creature "
-"died this turn."
+"Demon creature token with flying. Activate only if a creature died this turn."
 msgstr ""
 "Okropność — |tap|, przekręć dwa odkręcone stwory pod twoim władaniem: Stwórz "
 "żeton czarnego stwora Demon 5/5 z lataniem. Możesz aktywować tę zdolność "
@@ -2588,10 +2612,15 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:819
+#, fuzzy
+#| msgid ""
+#| "|mana_3|\\ |mana_r|: Choose any target, then mill three cards. Heretic's "
+#| "Punishment deals damage to that permanent or player equal to the highest "
+#| "converted mana cost among the milled cards."
 msgid ""
 "|mana_3|\\ |mana_r|: Choose any target, then mill three cards. Heretic's "
 "Punishment deals damage to that permanent or player equal to the highest "
-"converted mana cost among the milled cards."
+"mana value among the milled cards."
 msgstr ""
 "|mana_3|\\ |mana_r|: Wskaż dowolny cel, po czym zmiel trzy karty. Ten urok "
 "zadaje owemu permanentowi lub graczowi tyle obrażeń, ile wynosił największy "
@@ -3080,9 +3109,13 @@ msgstr ""
 
 # 068bdac871664507862a29e20a3110da
 #: ../../ISD.rst:971
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, reveal it, put it into your "
+#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
 "twojej ręce, po czym przetasuj twoją bibliotekę."
@@ -3129,9 +3162,13 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:983
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. "
+#| "Activate this ability only once each turn."
 msgid ""
 "|mana_2|\\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 "|mana_2|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Można aktywować "
 "tylko raz na turę."
@@ -3291,9 +3328,13 @@ msgid "+1: Create a 1/1 black Wolf creature token with deathtouch."
 msgstr "+1: Stwórz żeton czarnego stwora Wilk 1/1 z dotykiem śmierci."
 
 #: ../../ISD.rst:1029
+#, fuzzy
+#| msgid ""
+#| "−1: Sacrifice a creature. If you do, search your library for a creature "
+#| "card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "−1: Sacrifice a creature. If you do, search your library for a creature "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "–1: Poświęć stwora. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę "
 "stwora, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
@@ -4332,9 +4373,13 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:1345
+#, fuzzy
+#| msgid ""
+#| "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic "
+#| "land card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_1|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę bazowego "
 "lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
@@ -4453,10 +4498,15 @@ msgid ""
 msgstr ""
 
 #: ../../ISD.rst:1383
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
+#| "search their library for a basic land card, put it onto the battlefield, "
+#| "then shuffle their library."
 msgid ""
 "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
 "search their library for a basic land card, put it onto the battlefield, "
-"then shuffle their library."
+"then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Zniszcz wskazany ląd. Jego władca może wyszukać w "
 "swojej bibliotece kartę bazowego lądu, umieścić ją na polu bitwy, po czym "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -383,8 +383,7 @@ msgstr ""
 #: ../../ODY.rst:133
 msgid ""
 "Threshold — |tap|: Prevent the next 4 damage that would be dealt to any "
-"target this turn. Activate this ability only if seven or more cards are in "
-"your graveyard."
+"target this turn. Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:138
@@ -566,7 +565,7 @@ msgstr ""
 #: ../../ODY.rst:197
 msgid ""
 "Threshold — |mana_w|\\ |mana_w|, |tap|: Tap two target creatures. Activate "
-"this ability only if seven or more cards are in your graveyard."
+"only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:202
@@ -1200,7 +1199,7 @@ msgstr ""
 #: ../../ODY.rst:437
 msgid ""
 "Search target player's library for a card and exile it. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../ODY.rst:444
@@ -1346,7 +1345,7 @@ msgstr ""
 #: ../../ODY.rst:495
 msgid ""
 "Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../ODY.rst:500
@@ -1616,7 +1615,7 @@ msgstr ""
 #: ../../ODY.rst:597
 msgid ""
 "Search your library for up to three creature cards, put them into your "
-"graveyard, then shuffle your library."
+"graveyard, then shuffle."
 msgstr ""
 
 #: ../../ODY.rst:602
@@ -1629,8 +1628,8 @@ msgstr ""
 #: ../../ODY.rst:601
 msgid ""
 "Threshold — |mana_1|\\ |mana_b|, |tap|, Exile two cards from your graveyard: "
-"Target player discards a card. Activate this ability only any time you could "
-"cast a sorcery and only if seven or more cards are in your graveyard."
+"Target player discards a card. Activate only as a sorcery and only if seven "
+"or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:608
@@ -1769,8 +1768,7 @@ msgstr ""
 
 #: ../../ODY.rst:653
 msgid ""
-"Search your library for a card and put that card into your hand. Then "
-"shuffle your library."
+"Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../ODY.rst:660
@@ -1806,8 +1804,8 @@ msgstr ""
 
 #: ../../ODY.rst:667
 msgid ""
-"Search your library for a card and put that card into your graveyard. Then "
-"shuffle your library."
+"Search your library for a card, put that card into your graveyard, then "
+"shuffle."
 msgstr ""
 
 #: ../../ODY.rst:674
@@ -1939,8 +1937,7 @@ msgstr ""
 msgid ""
 "Exile all cards from target player's graveyard other than basic land cards. "
 "For each card exiled this way, search that player's library for all cards "
-"with the same name as that card and exile them. Then that player shuffles "
-"their library."
+"with the same name as that card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../ODY.rst:716
@@ -1972,8 +1969,8 @@ msgstr ""
 #: ../../ODY.rst:721
 msgid ""
 "Threshold — |mana_3|\\ |mana_b|: Infected Vermin deals 3 damage to each "
-"creature and each player. Activate this ability only if seven or more cards "
-"are in your graveyard."
+"creature and each player. Activate only if seven or more cards are in your "
+"graveyard."
 msgstr ""
 
 #: ../../ODY.rst:726
@@ -2194,8 +2191,8 @@ msgstr ""
 
 #: ../../ODY.rst:799
 msgid ""
-"Sacrifice a creature: Target player discards two cards. Activate this "
-"ability only any time you could cast a sorcery."
+"Sacrifice a creature: Target player discards two cards. Activate only as a "
+"sorcery."
 msgstr ""
 
 #: ../../ODY.rst:804
@@ -2260,7 +2257,7 @@ msgstr ""
 #: ../../ODY.rst:826
 msgid ""
 ":mtgtip:`Tainted Pact<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1562931887|"
+"border_crop/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1618695846|"
 "https://scryfall.com/card/ody/164/tainted-pact?utm_source=api>`"
 msgstr ""
 
@@ -2517,8 +2514,7 @@ msgstr ""
 #: ../../ODY.rst:911
 msgid ""
 "Threshold — |mana_2|\\ |mana_r|, |tap|: Chainflinger deals 2 damage to any "
-"target. Activate this ability only if seven or more cards are in your "
-"graveyard."
+"target. Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:918
@@ -2591,8 +2587,8 @@ msgstr ""
 #: ../../ODY.rst:935
 msgid ""
 "When Dwarven Recruiter enters the battlefield, search your library for any "
-"number of Dwarf cards and reveal those cards. Shuffle your library, then put "
-"them on top of it in any order."
+"number of Dwarf cards, reveal them, then shuffle and put those cards on top "
+"in any order."
 msgstr ""
 
 #: ../../ODY.rst:940
@@ -3330,8 +3326,8 @@ msgstr ""
 
 #: ../../ODY.rst:1191
 msgid ""
-"Search your library for a basic land card and put that card onto the "
-"battlefield tapped. Then shuffle your library."
+"Search your library for a basic land card, put that card onto the "
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ODY.rst:1193
@@ -3350,8 +3346,7 @@ msgstr ""
 #: ../../ODY.rst:1197
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Diligent Farmhand: Search your library for a "
-"basic land card and put that card onto the battlefield tapped. Then shuffle "
-"your library."
+"basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ODY.rst:1199
@@ -3486,8 +3481,8 @@ msgstr ""
 
 #: ../../ODY.rst:1253
 msgid ""
-"Threshold — |mana_1|\\ |mana_g|: Regenerate Krosan Avenger. Activate this "
-"ability only if seven or more cards are in your graveyard."
+"Threshold — |mana_1|\\ |mana_g|: Regenerate Krosan Avenger. Activate only if "
+"seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:1258
@@ -3619,7 +3614,7 @@ msgstr ""
 msgid ""
 "Each player may search their library for up to X basic land cards and put "
 "them onto the battlefield tapped. Then each player who searched their "
-"library this way shuffles it."
+"library this way shuffles."
 msgstr ""
 
 #: ../../ODY.rst:1302
@@ -3727,8 +3722,7 @@ msgstr ""
 #: ../../ODY.rst:1335
 msgid ""
 "Discard any number of cards. Search your library for up to that many basic "
-"land cards, reveal those cards, and put them into your hand. Then shuffle "
-"your library."
+"land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../ODY.rst:1342
@@ -3928,8 +3922,8 @@ msgstr ""
 #: ../../ODY.rst:1411
 msgid ""
 "Whenever a green nontoken creature dies, that creature's controller may "
-"search their library for a card with the same name as that creature and put "
-"it onto the battlefield. If that player does, they shuffle their library."
+"search their library for a card with the same name as that creature, put it "
+"onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ODY.rst:1418
@@ -4177,9 +4171,9 @@ msgstr ""
 #: ../../ODY.rst:1507
 msgid ""
 "|tap|, Mill a card: For each colored mana symbol in the milled card's mana "
-"cost, add one mana of that color. Activate this ability only any time you "
-"could cast an instant. (For example, if the card's mana cost is |mana_3|\\ |"
-"mana_u|\\ |mana_u|\\ |mana_b|, you add |mana_u|\\ |mana_u|\\ |mana_b|.)"
+"cost, add one mana of that color. Activate only as an instant. (For example, "
+"if the card's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|\\ |mana_b|, you "
+"add |mana_u|\\ |mana_u|\\ |mana_b|.)"
 msgstr ""
 
 #: ../../ODY.rst:1512
@@ -4392,8 +4386,7 @@ msgstr ""
 #: ../../ODY.rst:1581
 msgid ""
 "Threshold — |mana_r|, |tap|, Sacrifice Barbarian Ring: It deals 2 damage to "
-"any target. Activate this ability only if seven or more cards are in your "
-"graveyard."
+"any target. Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:1590
@@ -4429,8 +4422,8 @@ msgstr ""
 #: ../../ODY.rst:1595
 msgid ""
 "Threshold — |mana_b|, |tap|, Sacrifice Cabal Pit: Target creature gets -2/-2 "
-"until end of turn. Activate this ability only if seven or more cards are in "
-"your graveyard."
+"until end of turn. Activate only if seven or more cards are in your "
+"graveyard."
 msgstr ""
 
 #: ../../ODY.rst:1602
@@ -4447,8 +4440,8 @@ msgstr ""
 #: ../../ODY.rst:1601
 msgid ""
 "Threshold — |mana_g|, |tap|, Sacrifice Centaur Garden: Target creature gets "
-"+3/+3 until end of turn. Activate this ability only if seven or more cards "
-"are in your graveyard."
+"+3/+3 until end of turn. Activate only if seven or more cards are in your "
+"graveyard."
 msgstr ""
 
 #: ../../ODY.rst:1608
@@ -4465,8 +4458,8 @@ msgstr ""
 #: ../../ODY.rst:1607
 msgid ""
 "Threshold — |mana_u|, |tap|, Sacrifice Cephalid Coliseum: Target player "
-"draws three cards, then discards three cards. Activate this ability only if "
-"seven or more cards are in your graveyard."
+"draws three cards, then discards three cards. Activate only if seven or more "
+"cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:1614
@@ -4532,7 +4525,7 @@ msgstr ""
 #: ../../ODY.rst:1633
 msgid ""
 "Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. "
-"Activate this ability only if seven or more cards are in your graveyard."
+"Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../ODY.rst:1640

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -647,8 +647,7 @@ msgstr ""
 #: ../../ISD.rst:229
 msgid ""
 "Exile a creature card from your graveyard and pay its mana cost: Create a "
-"token that's a copy of that card. Activate this ability only any time you "
-"could cast a sorcery."
+"token that's a copy of that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../ISD.rst:236
@@ -1001,7 +1000,7 @@ msgstr ""
 #: ../../ISD.rst:361
 msgid ""
 "|mana_2|: Target player mills a card. Mindshrieker gets +X/+X until end of "
-"turn, where X is the milled card's converted mana cost."
+"turn, where X is the milled card's mana value."
 msgstr ""
 
 #: ../../ISD.rst:368
@@ -1301,8 +1300,7 @@ msgstr ""
 #: ../../ISD.rst:481
 msgid ""
 "When Bitterheart Witch dies, you may search your library for a Curse card, "
-"put it onto the battlefield attached to target player, then shuffle your "
-"library."
+"put it onto the battlefield attached to target player, then shuffle."
 msgstr ""
 
 #: ../../ISD.rst:488
@@ -1331,8 +1329,8 @@ msgstr ""
 
 #: ../../ISD.rst:495
 msgid ""
-"|mana_b|: Transform Bloodline Keeper. Activate this ability only if you "
-"control five or more Vampires."
+"|mana_b|: Transform Bloodline Keeper. Activate only if you control five or "
+"more Vampires."
 msgstr ""
 
 #: ../../ISD.rst:504
@@ -1356,8 +1354,8 @@ msgstr ""
 
 #: ../../ISD.rst:509
 msgid ""
-"Sacrifice Brain Weevil: Target player discards two cards. Activate this "
-"ability only any time you could cast a sorcery."
+"Sacrifice Brain Weevil: Target player discards two cards. Activate only as a "
+"sorcery."
 msgstr ""
 
 #: ../../ISD.rst:516
@@ -1722,8 +1720,7 @@ msgstr ""
 #: ../../ISD.rst:653
 msgid ""
 "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black "
-"Demon creature token with flying. Activate this ability only if a creature "
-"died this turn."
+"Demon creature token with flying. Activate only if a creature died this turn."
 msgstr ""
 
 #: ../../ISD.rst:658
@@ -2157,7 +2154,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_r|: Choose any target, then mill three cards. Heretic's "
 "Punishment deals damage to that permanent or player equal to the highest "
-"converted mana cost among the milled cards."
+"mana value among the milled cards."
 msgstr ""
 
 #: ../../ISD.rst:826
@@ -2572,7 +2569,7 @@ msgstr ""
 #: ../../ISD.rst:971
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../ISD.rst:973
@@ -2610,7 +2607,7 @@ msgstr ""
 #: ../../ISD.rst:983
 msgid ""
 "|mana_2|\\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate "
-"this ability only once each turn."
+"only once each turn."
 msgstr ""
 
 #: ../../ISD.rst:990
@@ -2744,7 +2741,7 @@ msgstr ""
 #: ../../ISD.rst:1029
 msgid ""
 "−1: Sacrifice a creature. If you do, search your library for a creature "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ISD.rst:1031
@@ -3604,7 +3601,7 @@ msgstr ""
 #: ../../ISD.rst:1345
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ISD.rst:1352
@@ -3704,7 +3701,7 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
 "search their library for a basic land card, put it onto the battlefield, "
-"then shuffle their library."
+"then shuffle."
 msgstr ""
 
 #: ../../ISD.rst:1390

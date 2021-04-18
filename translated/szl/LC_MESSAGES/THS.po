@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -268,9 +268,7 @@ msgid ""
 msgstr ""
 
 #: ../../THS.rst:93
-msgid ""
-"Scry 1. (Look at the top card of your library. You may put that card on the "
-"bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../THS.rst:104
@@ -505,7 +503,7 @@ msgstr ""
 #: ../../THS.rst:177
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of "
-"turn. Activate this ability only once each turn."
+"turn. Activate only once each turn."
 msgstr ""
 
 #: ../../THS.rst:180
@@ -1539,10 +1537,7 @@ msgid ""
 msgstr ""
 
 #: ../../THS.rst:563
-msgid ""
-"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
-"two cards of your library, then put any number of them on the bottom of your "
-"library and the rest on top in any order.)"
+msgid "Scry 2, then draw two cards. You lose 2 life."
 msgstr ""
 
 #: ../../THS.rst:570
@@ -1674,8 +1669,7 @@ msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Return target creature card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
 "the next end step. If it would leave the battlefield, exile it instead of "
-"putting it anywhere else. Activate this ability only any time you could cast "
-"a sorcery."
+"putting it anywhere else. Activate only as a sorcery."
 msgstr ""
 
 #: ../../THS.rst:618
@@ -2581,7 +2575,7 @@ msgstr ""
 #: ../../THS.rst:949
 msgid ""
 "When you sacrifice Ordeal of Nylea, search your library for up to two basic "
-"land cards, put them onto the battlefield tapped, then shuffle your library."
+"land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../THS.rst:952
@@ -2805,9 +2799,9 @@ msgstr ""
 
 #: ../../THS.rst:1031
 msgid ""
-"−X: Put a creature card with converted mana cost X exiled with Ashiok, "
-"Nightmare Weaver onto the battlefield under your control. That creature is a "
-"Nightmare in addition to its other types."
+"−X: Put a creature card with mana value X exiled with Ashiok, Nightmare "
+"Weaver onto the battlefield under your control. That creature is a Nightmare "
+"in addition to its other types."
 msgstr ""
 
 #: ../../THS.rst:1033
@@ -2856,9 +2850,9 @@ msgstr ""
 #: ../../THS.rst:1047
 msgid ""
 "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
-"card of that player's library. You gain life equal to that card's converted "
-"mana cost. Until end of turn, you may cast that card and you may spend mana "
-"as though it were mana of any color to cast that spell."
+"card of that player's library. You gain life equal to that card's mana "
+"value. Until end of turn, you may cast that card and you may spend mana as "
+"though it were mana of any color to cast that spell."
 msgstr ""
 
 #: ../../THS.rst:1052
@@ -3226,7 +3220,7 @@ msgstr ""
 #: ../../THS.rst:1185
 msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
-"land cards, put them onto the battlefield tapped, then shuffle your library."
+"land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../THS.rst:1194
@@ -3343,7 +3337,7 @@ msgstr ""
 #: ../../THS.rst:1227
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
-"card, reveal it, put it into your hand, then shuffle your library."
+"card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../THS.rst:1234

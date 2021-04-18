@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -659,7 +659,7 @@ msgstr ""
 #: ../../LEA.rst:239
 msgid ""
 "As long as enchanted artifact isn't a creature, it's an artifact creature "
-"with power and toughness each equal to its converted mana cost."
+"with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../LEA.rst:248
@@ -1066,8 +1066,8 @@ msgstr ""
 
 #: ../../LEA.rst:397
 msgid ""
-"Counter target spell with converted mana cost X. (For example, if that "
-"spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+"Counter target spell with mana value X. (For example, if that spell's mana "
+"cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../LEA.rst:404
@@ -1406,8 +1406,7 @@ msgstr ""
 
 #: ../../LEA.rst:519
 msgid ""
-"Search your library for a card, put that card into your hand, then shuffle "
-"your library."
+"Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../LEA.rst:526
@@ -1612,8 +1611,8 @@ msgid ""
 "|tap|: Choose target non-Wall creature the active player has controlled "
 "continuously since the beginning of the turn. That creature attacks this "
 "turn if able. Destroy it at the beginning of the next end step if it didn't "
-"attack this turn. Activate this ability only during an opponent's turn, "
-"before attackers are declared."
+"attack this turn. Activate only during an opponent's turn, before attackers "
+"are declared."
 msgstr ""
 
 #: ../../LEA.rst:600
@@ -1715,8 +1714,7 @@ msgstr ""
 
 #: ../../LEA.rst:633
 msgid ""
-"Add an amount of |mana_b| equal to the sacrificed creature's converted mana "
-"cost."
+"Add an amount of |mana_b| equal to the sacrificed creature's mana value."
 msgstr ""
 
 #: ../../LEA.rst:636
@@ -2299,7 +2297,7 @@ msgstr ""
 #: ../../LEA.rst:861
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate "
-"this ability only during your upkeep."
+"only during your upkeep."
 msgstr ""
 
 #: ../../LEA.rst:868
@@ -2688,8 +2686,8 @@ msgstr ""
 
 #: ../../LEA.rst:1013
 msgid ""
-"|mana_0|: Untap enchanted creature. Activate this ability only during your "
-"turn and only once each turn."
+"|mana_0|: Untap enchanted creature. Activate only during your turn and only "
+"once each turn."
 msgstr ""
 
 #: ../../LEA.rst:1016
@@ -2809,7 +2807,7 @@ msgstr ""
 #: ../../LEA.rst:1061
 msgid ""
 "Look at the top three cards of target player's library, then put them back "
-"in any order. You may have that player shuffle their library."
+"in any order. You may have that player shuffle."
 msgstr ""
 
 #: ../../LEA.rst:1068
@@ -3099,7 +3097,7 @@ msgstr ""
 msgid ""
 "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability "
 "can't cause the total number of +1/+0 counters on Clockwork Beast to be "
-"greater than seven. Activate this ability only during your upkeep."
+"greater than seven. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEA.rst:1182
@@ -3151,8 +3149,8 @@ msgstr ""
 #: ../../LEA.rst:1193
 msgid ""
 "|mana_2|, |tap|: Put a mire counter on target non-Swamp land. That land is a "
-"Swamp for as long as it has a mire counter on it. Activate this ability only "
-"during your upkeep."
+"Swamp for as long as it has a mire counter on it. Activate only during your "
+"upkeep."
 msgstr ""
 
 #: ../../LEA.rst:1195
@@ -3185,8 +3183,8 @@ msgstr ""
 
 #: ../../LEA.rst:1203
 msgid ""
-"|mana_3|, |tap|: Target player discards a card. Activate this ability only "
-"during your turn."
+"|mana_3|, |tap|: Target player discards a card. Activate only during your "
+"turn."
 msgstr ""
 
 #: ../../LEA.rst:1208
@@ -3286,8 +3284,7 @@ msgid ""
 "its mana cost. If the creature that spell becomes as it resolves has not "
 "been turned face up and would assign or deal damage, be dealt damage, or "
 "become tapped, instead it's turned face up and assigns or deals damage, is "
-"dealt damage, or becomes tapped. Activate this ability only any time you "
-"could cast a sorcery."
+"dealt damage, or becomes tapped. Activate only as a sorcery."
 msgstr ""
 
 #: ../../LEA.rst:1238
@@ -3339,7 +3336,7 @@ msgstr ""
 #: ../../LEA.rst:1249
 msgid ""
 "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
-"combat. Activate this ability only during combat."
+"combat. Activate only during combat."
 msgstr ""
 
 #: ../../LEA.rst:1254

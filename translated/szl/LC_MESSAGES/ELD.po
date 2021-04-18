@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../ELD.rst:23
 msgid ""
-"Creatures can't attack you or a planeswalker you control unless their "
+"Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_1| for each of those creatures."
 msgstr ""
 
@@ -294,8 +294,7 @@ msgstr ""
 #: ../../ELD.rst:99
 msgid ""
 "When Glass Casket enters the battlefield, exile target creature an opponent "
-"controls with converted mana cost 3 or less until Glass Casket leaves the "
-"battlefield."
+"controls with mana value 3 or less until Glass Casket leaves the battlefield."
 msgstr ""
 
 #: ../../ELD.rst:106
@@ -863,8 +862,8 @@ msgstr ""
 
 #: ../../ELD.rst:321
 msgid ""
-"Counter target spell with converted mana cost 3 or less. (Then exile this "
-"card. You may cast the creature later from exile.)"
+"Counter target spell with mana value 3 or less. (Then exile this card. You "
+"may cast the creature later from exile.)"
 msgstr ""
 
 #: ../../ELD.rst:328
@@ -1034,9 +1033,7 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:383
-msgid ""
-"Scry 1. (Look at the top card of your library. You may put that card on the "
-"bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../ELD.rst:390
@@ -1142,8 +1139,8 @@ msgstr ""
 
 #: ../../ELD.rst:423
 msgid ""
-"Return target creature with converted mana cost X to its owner's hand. You "
-"create X 1/1 blue Faerie creature tokens with flying."
+"Return target creature with mana value X to its owner's hand. You create X "
+"1/1 blue Faerie creature tokens with flying."
 msgstr ""
 
 #: ../../ELD.rst:432
@@ -1416,8 +1413,7 @@ msgstr ""
 #: ../../ELD.rst:523
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Pay 2 life: Return target creature card from "
-"your graveyard to the battlefield. Activate this ability only any time you "
-"could cast a sorcery."
+"your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
 
 #: ../../ELD.rst:530
@@ -1471,7 +1467,7 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:541
-msgid "Exile target creature with converted mana cost 3 or greater."
+msgid "Exile target creature with mana value 3 or greater."
 msgstr ""
 
 #: ../../ELD.rst:548
@@ -1911,9 +1907,8 @@ msgstr ""
 #: ../../ELD.rst:699
 msgid ""
 "|mana_1|, |tap|, Remove a wish counter from Wishclaw Talisman: Search your "
-"library for a card, put it into your hand, then shuffle your library. An "
-"opponent gains control of Wishclaw Talisman. Activate this ability only "
-"during your turn."
+"library for a card, put it into your hand, then shuffle. An opponent gains "
+"control of Wishclaw Talisman. Activate only during your turn."
 msgstr ""
 
 #: ../../ELD.rst:704
@@ -2035,8 +2030,8 @@ msgstr ""
 
 #: ../../ELD.rst:741
 msgid ""
-"Gain control of target creature with converted mana cost 3 or less until end "
-"of turn. Untap that creature. It gains haste until end of turn."
+"Gain control of target creature with mana value 3 or less until end of turn. "
+"Untap that creature. It gains haste until end of turn."
 msgstr ""
 
 #: ../../ELD.rst:748
@@ -2171,8 +2166,8 @@ msgstr ""
 
 #: ../../ELD.rst:791
 msgid ""
-"You may cast spells with converted mana cost less than or equal to the "
-"number of lands you control without paying their mana costs."
+"You may cast spells with mana value less than or equal to the number of "
+"lands you control without paying their mana costs."
 msgstr ""
 
 #: ../../ELD.rst:798
@@ -2554,8 +2549,7 @@ msgstr ""
 #: ../../ELD.rst:915
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
-"shuffle your library. (Then exile this card. You may cast the creature later "
-"from exile.)"
+"shuffle. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
 
 #: ../../ELD.rst:918
@@ -2615,7 +2609,7 @@ msgstr ""
 #: ../../ELD.rst:935
 msgid ""
 "Sacrifice three Foods: Return Feasting Troll King from your graveyard to the "
-"battlefield. Activate this ability only during your turn."
+"battlefield. Activate only during your turn."
 msgstr ""
 
 #: ../../ELD.rst:940
@@ -3232,9 +3226,8 @@ msgstr ""
 #: ../../ELD.rst:1151
 msgid ""
 "Return up to X target artifact and/or non-Aura enchantment cards each with "
-"converted mana cost X or less from your graveyard to the battlefield. If X "
-"is 6 or more, those permanents are 4/4 creatures in addition to their other "
-"types."
+"mana value X or less from your graveyard to the battlefield. If X is 6 or "
+"more, those permanents are 4/4 creatures in addition to their other types."
 msgstr ""
 
 #: ../../ELD.rst:1156
@@ -3261,14 +3254,14 @@ msgstr ""
 
 #: ../../ELD.rst:1161
 msgid ""
-"Counter target spell with converted mana cost less than or equal to the "
-"number of cards in its controller's graveyard."
+"Counter target spell with mana value less than or equal to the number of "
+"cards in its controller's graveyard."
 msgstr ""
 
 #: ../../ELD.rst:1163
 msgid ""
-"Destroy target creature with converted mana cost less than or equal to the "
-"number of cards in its controller's graveyard."
+"Destroy target creature with mana value less than or equal to the number of "
+"cards in its controller's graveyard."
 msgstr ""
 
 #: ../../ELD.rst:1170
@@ -3388,8 +3381,8 @@ msgstr ""
 #: ../../ELD.rst:1209
 msgid ""
 "|mana_u|\\ |mana_b|: Exile five target cards from an opponent's graveyard. "
-"Return Lochmere Serpent from your graveyard to your hand. Activate this "
-"ability only any time you could cast a sorcery."
+"Return Lochmere Serpent from your graveyard to your hand. Activate only as a "
+"sorcery."
 msgstr ""
 
 #: ../../ELD.rst:1216
@@ -3720,8 +3713,7 @@ msgid ""
 msgstr ""
 
 #: ../../ELD.rst:1337
-msgid ""
-"Whenever you cast a spell with converted mana cost 5 or greater, draw a card."
+msgid "Whenever you cast a spell with mana value 5 or greater, draw a card."
 msgstr ""
 
 #: ../../ELD.rst:1342
@@ -4022,7 +4014,7 @@ msgstr ""
 #: ../../ELD.rst:1451
 msgid ""
 "|tap|: Move a +1/+1 counter from Weapon Rack onto target creature. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../ELD.rst:1456
@@ -4177,8 +4169,8 @@ msgstr ""
 #: ../../ELD.rst:1507
 msgid ""
 "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library. Then if you "
-"control four or more lands, untap that land."
+"put it onto the battlefield tapped, then shuffle. Then if you control four "
+"or more lands, untap that land."
 msgstr ""
 
 #: ../../ELD.rst:1516
@@ -4418,7 +4410,7 @@ msgstr ""
 msgid ""
 "When Rowan's Stalwarts enters the battlefield, you may search your library "
 "and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and "
-"put it into your hand. If you search your library this way, shuffle it."
+"put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../ELD.rst:1610
@@ -4480,7 +4472,7 @@ msgstr ""
 #: ../../ELD.rst:1625
 msgid ""
 "|mana_8|: Bramblefort Fink has base power and toughness 10/10 until end of "
-"turn. Activate this ability only if you control an Oko planeswalker."
+"turn. Activate only if you control an Oko planeswalker."
 msgstr ""
 
 #: ../../ELD.rst:1630
@@ -4495,7 +4487,7 @@ msgid ""
 "Creatures you control have base power and toughness 3/3 until end of turn. "
 "You may search your library and/or graveyard for a card named Oko, the "
 "Trickster, reveal it, and put it into your hand. If you search your library "
-"this way, shuffle it."
+"this way, shuffle."
 msgstr ""
 
 #: ../../ELD.rst:1638

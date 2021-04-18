@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-16 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
@@ -224,10 +224,16 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:73
+#, fuzzy
+#| msgid ""
+#| "Sacrifice a creature: Draw cards equal to the sacrificed creature's "
+#| "power, then discard three cards."
 msgid ""
 "Sacrifice an enchantment: You gain life equal to the sacrificed "
-"enchantment's converted mana cost."
+"enchantment's mana value."
 msgstr ""
+"Poświęć stwora: Dobierz tyle kart, ile siły miał poświęcony stwór, po czym "
+"odrzuć trzy karty."
 
 #: ../../USG.rst:78
 msgid ""
@@ -508,11 +514,19 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:167
+#, fuzzy
+#| msgid ""
+#| "When Goblin Matron enters the battlefield, you may search your library "
+#| "for a Goblin card, reveal that card, put it into your hand, then shuffle "
+#| "your library."
 msgid ""
 "Whenever a nontoken creature you control dies, you may search your library "
-"for a card with the same name as that creature, reveal it, and put it into "
-"your hand. If you do, shuffle your library."
+"for a card with the same name as that creature, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
+"bibliotekę."
 
 #: ../../USG.rst:174
 msgid ""
@@ -1502,7 +1516,7 @@ msgstr ""
 msgid ""
 "When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled "
 "Sentry becomes an Illusion creature with power and toughness each equal to "
-"that spell's converted mana cost."
+"that spell's mana value."
 msgstr ""
 
 #: ../../USG.rst:552
@@ -2324,8 +2338,7 @@ msgstr ""
 #: ../../USG.rst:845
 msgid ""
 "|tap|: Add |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|. Target opponent gains "
-"control of Witch Engine. (Activate this ability only any time you could cast "
-"an instant.)"
+"control of Witch Engine. (Activate only as a instant.)"
 msgstr ""
 
 #: ../../USG.rst:850
@@ -2584,9 +2597,13 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:935
+#, fuzzy
+#| msgid ""
+#| "Search your library for a card, put that card into your hand, discard a "
+#| "card at random, then shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, discard a card "
-"at random, then shuffle your library."
+"at random, then shuffle."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, odrzuć losową "
 "kartę, po czym przetasuj twoją bibliotekę."
@@ -2625,10 +2642,14 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:947
+#, fuzzy
+#| msgid ""
+#| "When Goblin Matron enters the battlefield, you may search your library "
+#| "for a Goblin card, reveal that card, put it into your hand, then shuffle "
+#| "your library."
 msgid ""
 "When Goblin Matron enters the battlefield, you may search your library for a "
-"Goblin card, reveal that card, put it into your hand, then shuffle your "
-"library."
+"Goblin card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
@@ -2793,7 +2814,7 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:1003
-msgid "Destroy each artifact with converted mana cost X or less."
+msgid "Destroy each artifact with mana value X or less."
 msgstr ""
 
 #: ../../USG.rst:1010
@@ -3467,10 +3488,17 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:1253
+#, fuzzy
+#| msgid ""
+#| "|mana_x|, |tap|: Search your library for a creature card with converted "
+#| "mana cost X or less, reveal it, and put it into your hand. Then shuffle "
+#| "your library."
 msgid ""
-"Search your library for up to two Forest cards, reveal those cards, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to two Forest cards, reveal those cards, put them "
+"into your hand, then shuffle."
 msgstr ""
+"|mana_x|, |tap|: Wyszukaj w twojej bibliotece kartę stwora o skrócie many X "
+"lub mniejszym, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../USG.rst:1262
 msgid ""
@@ -3948,10 +3976,14 @@ msgid ""
 msgstr ""
 
 #: ../../USG.rst:1425
+#, fuzzy
+#| msgid ""
+#| "|mana_x|, |tap|: Search your library for a creature card with converted "
+#| "mana cost X or less, reveal it, and put it into your hand. Then shuffle "
+#| "your library."
 msgid ""
-"|mana_x|, |tap|: Search your library for a creature card with converted mana "
-"cost X or less, reveal it, and put it into your hand. Then shuffle your "
-"library."
+"|mana_x|, |tap|: Search your library for a creature card with mana value X "
+"or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_x|, |tap|: Wyszukaj w twojej bibliotece kartę stwora o skrócie many X "
 "lub mniejszym, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
@@ -4075,7 +4107,7 @@ msgstr ""
 #: ../../USG.rst:1467
 msgid ""
 "|mana_1|: Target noncreature artifact becomes an artifact creature with "
-"power and toughness each equal to its converted mana cost until end of turn."
+"power and toughness each equal to its mana value until end of turn."
 msgstr ""
 
 #: ../../USG.rst:1472
@@ -4149,7 +4181,7 @@ msgstr ""
 #: ../../USG.rst:1493
 msgid ""
 "|mana_3|: Mobile Fort gets +3/-1 until end of turn and can attack this turn "
-"as though it didn't have defender. Activate this ability only once each turn."
+"as though it didn't have defender. Activate only once each turn."
 msgstr ""
 
 #: ../../USG.rst:1498

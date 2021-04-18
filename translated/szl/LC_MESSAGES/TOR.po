@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -627,9 +627,8 @@ msgstr ""
 
 #: ../../TOR.rst:229
 msgid ""
-"Counter target spell with converted mana cost 3 or less. If that spell is "
-"countered this way, exile it instead of putting it into its owner's "
-"graveyard."
+"Counter target spell with mana value 3 or less. If that spell is countered "
+"this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
 
 #: ../../TOR.rst:236
@@ -792,8 +791,8 @@ msgstr ""
 #: ../../TOR.rst:297
 msgid ""
 "Threshold — |mana_3|\\ |mana_b|\\ |mana_b|, |tap|: Target creature gets "
-"-2/-2 until end of turn. Activate this ability only if seven or more cards "
-"are in your graveyard."
+"-2/-2 until end of turn. Activate only if seven or more cards are in your "
+"graveyard."
 msgstr ""
 
 #: ../../TOR.rst:302
@@ -1021,8 +1020,8 @@ msgstr ""
 
 #: ../../TOR.rst:377
 msgid ""
-"Search your library for X cards. Then shuffle your library and put those "
-"cards on top of it in any order."
+"Search your library for X cards, then shuffle and put those cards on top in "
+"any order."
 msgstr ""
 
 #: ../../TOR.rst:386
@@ -1879,7 +1878,7 @@ msgstr ""
 #: ../../TOR.rst:687
 msgid ""
 "|mana_1|\\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../TOR.rst:689
@@ -1936,14 +1935,14 @@ msgstr ""
 #: ../../TOR.rst:709
 msgid ""
 "Search your library for a basic land card, put that card onto the "
-"battlefield tapped, then shuffle your library."
+"battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../TOR.rst:711
 msgid ""
 "Threshold — If seven or more cards are in your graveyard, instead search "
 "your library for up to three basic land cards, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../TOR.rst:718
@@ -2011,8 +2010,8 @@ msgstr ""
 
 #: ../../TOR.rst:739
 msgid ""
-"Threshold — |tap|: Untap up to three target lands. Activate this ability "
-"only if seven or more cards are in your graveyard."
+"Threshold — |tap|: Untap up to three target lands. Activate only if seven or "
+"more cards are in your graveyard."
 msgstr ""
 
 #: ../../TOR.rst:746
@@ -2161,9 +2160,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../TOR.rst:795
-msgid ""
-"|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a "
-"Swamp."
+msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../TOR.rst:802
@@ -2174,9 +2171,7 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:801
-msgid ""
-"|tap|: Add |mana_u| or |mana_b|. Activate this ability only if you control a "
-"Swamp."
+msgid "|tap|: Add |mana_u| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../TOR.rst:808
@@ -2187,9 +2182,7 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:807
-msgid ""
-"|tap|: Add |mana_b| or |mana_r|. Activate this ability only if you control a "
-"Swamp."
+msgid "|tap|: Add |mana_b| or |mana_r|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../TOR.rst:813
@@ -2200,7 +2193,5 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:813
-msgid ""
-"|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a "
-"Swamp."
+msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""

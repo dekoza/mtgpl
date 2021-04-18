@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -152,7 +152,7 @@ msgstr ""
 #: ../../C17.rst:49
 msgid ""
 "Reveal the player you chose: Exile target creature that's attacking you if "
-"it's controlled by the chosen player. Activate this ability only once."
+"it's controlled by the chosen player. Activate only once."
 msgstr ""
 
 #: ../../C17.rst:56
@@ -599,7 +599,7 @@ msgstr ""
 msgid ""
 "Search your library for up to X basic land cards, where X is the greatest "
 "power among creatures you control. Put those cards onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:216
@@ -715,7 +715,7 @@ msgstr ""
 #: ../../C17.rst:247
 msgid ""
 "Pay 5 life: Put three +1/+1 counters on Licia, Sanguine Tribune. Activate "
-"this ability only during your turn and only once each turn."
+"only during your turn and only once each turn."
 msgstr ""
 
 #: ../../C17.rst:254
@@ -787,7 +787,7 @@ msgid ""
 "When Nazahn, Revered Bladesmith enters the battlefield, search your library "
 "for an Equipment card and reveal it. If you reveal a card named Hammer of "
 "Nazahn this way, put it onto the battlefield. Otherwise, put that card into "
-"your hand. Then shuffle your library."
+"your hand. Then shuffle."
 msgstr ""
 
 #: ../../C17.rst:273
@@ -1013,7 +1013,7 @@ msgstr ""
 msgid ""
 "Remove five +1/+1 counters from Ramos: Add |mana_w|\\ |mana_w|\\ |mana_u|\\ |"
 "mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../C17.rst:360
@@ -1214,7 +1214,7 @@ msgstr ""
 msgid ""
 "When Oreskos Explorer enters the battlefield, search your library for up to "
 "X Plains cards, where X is the number of players who control more lands than "
-"you. Reveal those cards, put them into your hand, then shuffle your library."
+"you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:428
@@ -1341,8 +1341,8 @@ msgstr ""
 #: ../../C17.rst:467
 msgid ""
 "When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you "
-"do, search your library for an Equipment card with converted mana cost X or "
-"less and put that card onto the battlefield. Then shuffle your library."
+"do, search your library for an Equipment card with mana value X or less, put "
+"that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:472
@@ -2030,10 +2030,7 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:701
-msgid ""
-"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
-"two cards of your library, then put any number of them on the bottom of your "
-"library and the rest on top in any order.)"
+msgid "Scry 2, then draw two cards. You lose 2 life."
 msgstr ""
 
 #: ../../C17.rst:710
@@ -2404,9 +2401,8 @@ msgstr ""
 
 #: ../../C17.rst:843 ../../C17.rst:877
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:848
@@ -2431,8 +2427,8 @@ msgstr ""
 
 #: ../../C17.rst:851
 msgid ""
-"Search your library for a Plains, Island, Swamp, or Mountain card and put it "
-"onto the battlefield tapped. Then shuffle your library."
+"Search your library for a Plains, Island, Swamp, or Mountain card, put it "
+"onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:860
@@ -2520,7 +2516,7 @@ msgstr ""
 msgid ""
 "Search your library for up to two basic Forest cards, reveal those cards, "
 "and put one onto the battlefield tapped and the rest into your hand. Then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../C17.rst:883
@@ -2939,7 +2935,7 @@ msgstr ""
 #: ../../C17.rst:1041
 msgid ""
 "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target "
-"creature equal to the discarded card's converted mana cost."
+"creature equal to the discarded card's mana value."
 msgstr ""
 
 #: ../../C17.rst:1048
@@ -3133,7 +3129,7 @@ msgstr ""
 msgid ""
 "|mana_2|: Search your library for a Dragon permanent card and put it into "
 "your graveyard. If you do, Scion of the Ur-Dragon becomes a copy of that "
-"card until end of turn. Then shuffle your library."
+"card until end of turn. Then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1128
@@ -3207,7 +3203,7 @@ msgstr ""
 msgid ""
 "Whenever Spellbound Dragon attacks, draw a card, then discard a card. "
 "Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded "
-"card's converted mana cost."
+"card's mana value."
 msgstr ""
 
 #: ../../C17.rst:1158
@@ -3311,8 +3307,7 @@ msgstr ""
 #: ../../C17.rst:1193
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
-"two basic land cards, reveal them, put them into your hand, then shuffle "
-"your library."
+"two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1200
@@ -3639,9 +3634,9 @@ msgstr ""
 
 #: ../../C17.rst:1325
 msgid ""
-"|mana_x|: Destroy each nonland permanent with converted mana cost X whose "
-"controller was dealt combat damage by Steel Hellkite this turn. Activate "
-"this ability only once each turn."
+"|mana_x|: Destroy each nonland permanent with mana value X whose controller "
+"was dealt combat damage by Steel Hellkite this turn. Activate only once each "
+"turn."
 msgstr ""
 
 #: ../../C17.rst:1332
@@ -3669,7 +3664,7 @@ msgstr ""
 #: ../../C17.rst:1337
 msgid ""
 "Whenever equipped creature attacks, you may search your library for a basic "
-"land card, put it onto the battlefield tapped, then shuffle your library."
+"land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1346
@@ -3712,8 +3707,7 @@ msgstr ""
 #: ../../C17.rst:1355
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-"basic land card and put that card onto the battlefield tapped. Then shuffle "
-"your library."
+"basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1360
@@ -3786,7 +3780,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../C17.rst:1394
@@ -3995,7 +3989,7 @@ msgstr ""
 #: ../../C17.rst:1473
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
-"put it onto the battlefield tapped, then shuffle your library."
+"put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1478
@@ -4049,7 +4043,7 @@ msgstr ""
 #: ../../C17.rst:1495
 msgid ""
 "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
-"card, put it onto the battlefield, then shuffle your library."
+"card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1504
@@ -4077,8 +4071,8 @@ msgstr ""
 #: ../../C17.rst:1509
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
-"Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then "
-"shuffle your library."
+"Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
+"shuffle."
 msgstr ""
 
 #: ../../C17.rst:1518
@@ -4185,8 +4179,7 @@ msgstr ""
 #: ../../C17.rst:1555
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
-"card and a Plains card, put them onto the battlefield tapped, then shuffle "
-"your library."
+"card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1564
@@ -4228,7 +4221,7 @@ msgstr ""
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
-"tapped, then shuffle your library."
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1578
@@ -4560,8 +4553,8 @@ msgstr ""
 
 #: ../../C17.rst:1717
 msgid ""
-"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-"control five or more lands."
+"|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
+"more lands."
 msgstr ""
 
 #: ../../C17.rst:1722
@@ -4574,7 +4567,7 @@ msgstr ""
 #: ../../C17.rst:1721
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C17.rst:1728

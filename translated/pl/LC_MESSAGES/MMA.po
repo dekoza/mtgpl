@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-16 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
@@ -53,10 +53,14 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:15 ../../MMA.rst:427
+#, fuzzy
+#| msgid ""
+#| "|mana_4|, |tap|: Search your library for a Rebel permanent card with "
+#| "converted mana cost 3 or less and put it onto the battlefield. Then "
+#| "shuffle your library."
 msgid ""
-"|mana_4|, |tap|: Search your library for a Rebel permanent card with "
-"converted mana cost 3 or less and put it onto the battlefield. Then shuffle "
-"your library."
+"|mana_4|, |tap|: Search your library for a Rebel permanent card with mana "
+"value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
@@ -111,9 +115,13 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:29
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost "
+#| "1 or less from your graveyard to your hand."
 msgid ""
-"|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost 1 "
-"or less from your graveyard to your hand."
+"|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less "
+"from your graveyard to your hand."
 msgstr ""
 "|mana_1|\\ |mana_w|: Przywróć wskazaną kartę artefaktu o skrócie many 1 lub "
 "mniejszym z twojego cmentarza do twojej ręki."
@@ -332,10 +340,15 @@ msgid ""
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+2. Odkręć je."
 
 #: ../../MMA.rst:99
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 "Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
@@ -485,10 +498,14 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:139
+#, fuzzy
+#| msgid ""
+#| "Exile target creature. Its controller may search their library for a "
+#| "basic land card, put that card onto the battlefield tapped, then shuffle "
+#| "their library."
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
-"land card, put that card onto the battlefield tapped, then shuffle their "
-"library."
+"land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
@@ -592,10 +609,14 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../MMA.rst:177
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
+#| "put it onto the battlefield. Attach it to a creature you control. Then "
+#| "shuffle your library."
 msgid ""
-"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
-"put it onto the battlefield. Attach it to a creature you control. Then "
-"shuffle your library."
+"|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card, put "
+"it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
 "|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia i "
 "umieść ją na polu bitwy. Dołącz ją do stwora pod twoim władaniem. Następnie "
@@ -609,9 +630,13 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:181
+#, fuzzy
+#| msgid ""
+#| "Destroy target artifact or enchantment. You gain life equal to its "
+#| "converted mana cost."
 msgid ""
-"Destroy target artifact or enchantment. You gain life equal to its converted "
-"mana cost."
+"Destroy target artifact or enchantment. You gain life equal to its mana "
+"value."
 msgstr ""
 "Zniszcz wskazany artefakt lub urok. Zyskaj życia równe jego skrótowi many."
 
@@ -785,11 +810,17 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:237
+#, fuzzy
+#| msgid ""
+#| "Choose target creature. Reveal cards from the top of your library until "
+#| "you reveal a nonland card. That creature gets +X/-X until end of turn, "
+#| "where X is that card's converted mana cost. Put all cards revealed this "
+#| "way on the bottom of your library in any order."
 msgid ""
 "Choose target creature. Reveal cards from the top of your library until you "
 "reveal a nonland card. That creature gets +X/-X until end of turn, where X "
-"is that card's converted mana cost. Put all cards revealed this way on the "
-"bottom of your library in any order."
+"is that card's mana value. Put all cards revealed this way on the bottom of "
+"your library in any order."
 msgstr ""
 "Wskaż stwora. Ujawnij karty z wierzchu twojej biblioteki dopóki nie ujawnisz "
 "nielądowej karty. Ów stwór dostaje do końca tury +X/-X, gdzie X jest skrótem "
@@ -847,10 +878,16 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:257
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to four cards with different names and reveal "
+#| "them. Target opponent chooses two of those cards. Put the chosen cards "
+#| "into your graveyard and the rest into your hand. Then shuffle your "
+#| "library."
 msgid ""
 "Search your library for up to four cards with different names and reveal "
 "them. Target opponent chooses two of those cards. Put the chosen cards into "
-"your graveyard and the rest into your hand. Then shuffle your library."
+"your graveyard and the rest into your hand. Then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej cztery karty o różnych nazwach i "
 "ujawnij je. Wskazany przeciwnik wybiera dwie z owych kart. Umieść wybrane "
@@ -1137,8 +1174,10 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:369
-msgid "Counter target spell with converted mana cost 2."
-msgstr ""
+#, fuzzy
+#| msgid "Counter target spell."
+msgid "Counter target spell with mana value 2."
+msgstr "Skontruj wskazany czar."
 
 #: ../../MMA.rst:378
 msgid ""
@@ -1150,7 +1189,7 @@ msgstr ""
 #: ../../MMA.rst:377
 msgid ""
 "When Spellstutter Sprite enters the battlefield, counter target spell with "
-"converted mana cost X or less, where X is the number of Faeries you control."
+"mana value X or less, where X is the number of Faeries you control."
 msgstr ""
 
 #: ../../MMA.rst:386
@@ -1190,10 +1229,15 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:395
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 "Recykling bazowolądowy |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
@@ -1241,11 +1285,19 @@ msgid "Target player loses 4 life and you gain 4 life."
 msgstr "Wskazany gracz traci 4 życia, a ty zyskaj 4 życia."
 
 #: ../../MMA.rst:413
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
+"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
+"w twojej ręce, po czym przetasuj.)"
 
 #: ../../MMA.rst:422
 msgid ""
@@ -1314,9 +1366,14 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:437
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, reveal the top card of your library and "
+#| "put that card into your hand. You lose life equal to its converted mana "
+#| "cost."
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library and put "
-"that card into your hand. You lose life equal to its converted mana cost."
+"that card into your hand. You lose life equal to its mana value."
 msgstr ""
 "Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
 "biblioteki i umieść ją w twojej ręce. Strać tyle żyć, ile wynosi jej skrót "
@@ -1421,7 +1478,7 @@ msgstr ""
 msgid ""
 "When Earwig Squad enters the battlefield, if its prowl cost was paid, search "
 "target opponent's library for three cards and exile them. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../MMA.rst:478
@@ -1447,10 +1504,15 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:483
+#, fuzzy
+#| msgid ""
+#| "Choose target card in a graveyard other than a basic land card. Search "
+#| "its owner's graveyard, hand, and library for all cards with the same name "
+#| "as that card and exile them. Then that player shuffles their library."
 msgid ""
 "Choose target card in a graveyard other than a basic land card. Search its "
 "owner's graveyard, hand, and library for all cards with the same name as "
-"that card and exile them. Then that player shuffles their library."
+"that card and exile them. Then that player shuffles."
 msgstr ""
 "Wskaż kartę w cmentarzu nie będącą bazowym lądem. Wyszukaj w cmentarzu, ręce "
 "i bibliotece jej właściciela wszystkich kart o takiej samej nazwie i wygnaj "
@@ -1868,10 +1930,16 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:631
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, put it onto the battlefield, "
+#| "then shuffle your library."
 msgid ""
-"Search your library for a Dragon permanent card and put it onto the "
-"battlefield. Then shuffle your library."
+"Search your library for a Dragon permanent card, put it onto the "
+"battlefield, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj twoją bibliotekę."
 
 #: ../../MMA.rst:633 ../../MMA.rst:639
 msgid ""
@@ -1904,10 +1972,15 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../MMA.rst:645
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
 "Recykling bazowolądowy |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
@@ -1975,9 +2048,14 @@ msgid "Suspend 10—|mana_r|"
 msgstr "Zawieszenie 10—|mana_r|"
 
 #: ../../MMA.rst:673
+#, fuzzy
+#| msgid ""
+#| "Sacrifice an artifact, creature, or land: Remove a time counter from "
+#| "Greater Gargadon. Activate this ability only if Greater Gargadon is "
+#| "suspended."
 msgid ""
 "Sacrifice an artifact, creature, or land: Remove a time counter from Greater "
-"Gargadon. Activate this ability only if Greater Gargadon is suspended."
+"Gargadon. Activate only if Greater Gargadon is suspended."
 msgstr ""
 "Poświęć artefakt, stwora lub ląd: Usuń znacznik czasu z tej karty. Możesz "
 "aktywować tylko jeśli ta karta jest zawieszona."
@@ -1990,10 +2068,14 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:677
+#, fuzzy
+#| msgid ""
+#| "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
+#| "colorless|\\ |mana_r|. Activate this ability only any time you could cast "
+#| "a sorcery."
 msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
-"colorless|\\ |mana_r|. Activate this ability only any time you could cast a "
-"sorcery."
+"colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
 "|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ |"
 "colorless|\\ |mana_r|. Aktywuj jako obrzęd."
@@ -2549,10 +2631,14 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:849
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Then shuffle your library."
 msgid ""
-"Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Then "
-"shuffle your library."
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
 "jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
@@ -2727,9 +2813,13 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:911
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, put it onto the battlefield, "
+#| "then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
 "po czym przetasuj twoją bibliotekę."
@@ -2799,9 +2889,13 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:929
+#, fuzzy
+#| msgid ""
+#| "Search your library for a green creature card, reveal it, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
 "twojej ręce, po czym przetasuj twoją bibliotekę."
@@ -2826,11 +2920,19 @@ msgid "Target player gains 8 life."
 msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../MMA.rst:937
+#, fuzzy
+#| msgid ""
+#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
+#| "card: Search your library for a basic land card, reveal it, put it into "
+#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library.)"
+"hand, then shuffle.)"
 msgstr ""
+"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
+"w twojej ręce, po czym przetasuj.)"
 
 #: ../../MMA.rst:942
 msgid ""
@@ -2925,10 +3027,16 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:969
+#, fuzzy
+#| msgid ""
+#| "Search your library for a green creature card, reveal it, put it into "
+#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for up to two creature cards, reveal them, put them into "
-"your hand, then shuffle your library."
+"your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../MMA.rst:971
 msgid "Put up to two creature cards from your hand onto the battlefield."
@@ -3085,9 +3193,13 @@ msgid ""
 msgstr "Ten stwór dostaje +1/+1 za każdą kartę lądu w twoim cmentarzu."
 
 #: ../../MMA.rst:1023
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, "
+#| "put it onto the battlefield, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, "
-"put it onto the battlefield, then shuffle your library."
+"put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
 "umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
@@ -3392,9 +3504,14 @@ msgstr ""
 "tym artefakcie."
 
 #: ../../MMA.rst:1135
+#, fuzzy
+#| msgid ""
+#| "|tap|: You may put a creature card with converted mana cost equal to the "
+#| "number of charge counters on Aether Vial from your hand onto the "
+#| "battlefield."
 msgid ""
-"|tap|: You may put a creature card with converted mana cost equal to the "
-"number of charge counters on Aether Vial from your hand onto the battlefield."
+"|tap|: You may put a creature card with mana value equal to the number of "
+"charge counters on Aether Vial from your hand onto the battlefield."
 msgstr ""
 "|tap|: Możesz umieścić z twojej ręki na polu bitwy kartę stwora o skrócie "
 "many równym liczbie znaczników ładunku na tym artefakcie."
@@ -3472,9 +3589,13 @@ msgid ""
 msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../MMA.rst:1167
+#, fuzzy
+#| msgid ""
+#| "Whenever a player casts a spell with converted mana cost equal to the "
+#| "number of charge counters on Chalice of the Void, counter that spell."
 msgid ""
-"Whenever a player casts a spell with converted mana cost equal to the number "
-"of charge counters on Chalice of the Void, counter that spell."
+"Whenever a player casts a spell with mana value equal to the number of "
+"charge counters on Chalice of the Void, counter that spell."
 msgstr ""
 "Ilekroć grać rzuci czar o skrócie many równym liczbie znaczników ładunku na "
 "tym artefakcie, skontruj ów czar."
@@ -3495,10 +3616,15 @@ msgstr ""
 "ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../MMA.rst:1173
+#, fuzzy
+#| msgid ""
+#| "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
+#| "with converted mana cost equal to the number of charge counters on "
+#| "Engineered Explosives."
 msgid ""
 "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
-"with converted mana cost equal to the number of charge counters on "
-"Engineered Explosives."
+"with mana value equal to the number of charge counters on Engineered "
+"Explosives."
 msgstr ""
 "|mana_2|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent o skrócie "
 "many równym liczbie znaczników ładowania na tym artefakcie."
@@ -3823,9 +3949,13 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:1293
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
-"card, put it onto the battlefield tapped, then shuffle your library."
+"card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."

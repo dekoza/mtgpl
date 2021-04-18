@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -395,8 +395,8 @@ msgstr ""
 #: ../../KTK.rst:139
 msgid ""
 "Raid — When Timely Hordemate enters the battlefield, if you attacked this "
-"turn, return target creature card with converted mana cost 2 or less from "
-"your graveyard to the battlefield."
+"turn, return target creature card with mana value 2 or less from your "
+"graveyard to the battlefield."
 msgstr ""
 
 #: ../../KTK.rst:144
@@ -531,7 +531,7 @@ msgid ""
 msgstr ""
 
 #: ../../KTK.rst:193
-msgid "Counter target spell with converted mana cost 4 or greater."
+msgid "Counter target spell with mana value 4 or greater."
 msgstr ""
 
 #: ../../KTK.rst:200
@@ -563,7 +563,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your "
 "library for a basic land card, put it onto the battlefield tapped, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../KTK.rst:210
@@ -940,7 +940,7 @@ msgstr ""
 #: ../../KTK.rst:359
 msgid ""
 "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard "
-"to the battlefield. Activate this ability only if you attacked this turn."
+"to the battlefield. Activate only if you attacked this turn."
 msgstr ""
 
 #: ../../KTK.rst:366
@@ -2125,8 +2125,8 @@ msgstr ""
 
 #: ../../KTK.rst:811
 msgid ""
-"Search your library for up to three basic land cards, reveal them, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to three basic land cards, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:816
@@ -2183,7 +2183,7 @@ msgstr ""
 msgid ""
 "Whenever a face-down creature enters the battlefield under your control, you "
 "may search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library."
+"hand, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:831
@@ -2829,7 +2829,7 @@ msgstr ""
 #: ../../KTK.rst:1059
 msgid ""
 "|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
+"Activate only once each turn."
 msgstr ""
 
 #: ../../KTK.rst:1061
@@ -3053,8 +3053,8 @@ msgstr ""
 #: ../../KTK.rst:1151
 msgid ""
 "Target opponent exiles the top X cards of their library. You may cast any "
-"number of spells with converted mana cost X or less from among them without "
-"paying their mana costs."
+"number of spells with mana value X or less from among them without paying "
+"their mana costs."
 msgstr ""
 
 #: ../../KTK.rst:1156
@@ -3356,8 +3356,7 @@ msgstr ""
 #: ../../KTK.rst:1263
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a "
-"Swamp or Mountain card, put it onto the battlefield, then shuffle your "
-"library."
+"Swamp or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:1272
@@ -3408,8 +3407,7 @@ msgstr ""
 #: ../../KTK.rst:1283
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a "
-"Plains or Island card, put it onto the battlefield, then shuffle your "
-"library."
+"Plains or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:1290
@@ -3485,7 +3483,7 @@ msgstr ""
 #: ../../KTK.rst:1319
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an "
-"Island or Swamp card, put it onto the battlefield, then shuffle your library."
+"Island or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:1328
@@ -3640,8 +3638,7 @@ msgstr ""
 #: ../../KTK.rst:1383
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a "
-"Forest or Plains card, put it onto the battlefield, then shuffle your "
-"library."
+"Forest or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:1388
@@ -3654,8 +3651,7 @@ msgstr ""
 #: ../../KTK.rst:1387
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a "
-"Mountain or Forest card, put it onto the battlefield, then shuffle your "
-"library."
+"Mountain or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KTK.rst:1392

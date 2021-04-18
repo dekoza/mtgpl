@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: ../../CSP.rst:17
 msgid ""
 "|mana_s|: Boreal Griffin gains first strike until end of turn. (|mana_s| can "
-"be paid with one mana from a snow permanent.)"
+"be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:26
@@ -69,7 +69,7 @@ msgid ""
 "Cumulative upkeep |mana_s| (At the beginning of your upkeep, put an age "
 "counter on this permanent, then sacrifice it unless you pay its upkeep cost "
 "for each age counter on it. |mana_s| can be paid with one mana from a snow "
-"permanent.)"
+"source.)"
 msgstr ""
 
 #: ../../CSP.rst:23
@@ -130,7 +130,7 @@ msgstr ""
 #: ../../CSP.rst:41
 msgid ""
 "|mana_s|: Enchanted creature gains defender until end of turn. (|mana_s| can "
-"be paid with one mana from a snow permanent.)"
+"be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:50
@@ -446,7 +446,7 @@ msgstr ""
 #: ../../CSP.rst:157
 msgid ""
 "|mana_1|\\ |mana_s|: Target creature loses flying until end of turn. (|"
-"mana_s| can be paid with one mana from a snow permanent.)"
+"mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:162
@@ -460,7 +460,7 @@ msgstr ""
 msgid ""
 "|tap|: Target artifact creature's controller sacrifices it. That player may "
 "search their library for a noncreature artifact card, put it onto the "
-"battlefield, then shuffle their library."
+"battlefield, then shuffle."
 msgstr ""
 
 #: ../../CSP.rst:166
@@ -525,8 +525,8 @@ msgstr ""
 #: ../../CSP.rst:181
 msgid ""
 "Whenever an opponent casts a spell, you may reveal the top card of your "
-"library. If you do, counter that spell if it has the same converted mana "
-"cost as the revealed card."
+"library. If you do, counter that spell if it has the same mana value as the "
+"revealed card."
 msgstr ""
 
 #: ../../CSP.rst:186
@@ -561,8 +561,8 @@ msgstr ""
 #: ../../CSP.rst:195
 msgid ""
 "|mana_s|\\ |mana_s|: Frost Raptor gains shroud until end of turn. (|mana_s| "
-"can be paid with one mana from a snow permanent. A creature with shroud "
-"can't be the target of spells or abilities.)"
+"can be paid with one mana from a snow source. A creature with shroud can't "
+"be the target of spells or abilities.)"
 msgstr ""
 
 #: ../../CSP.rst:204
@@ -589,8 +589,8 @@ msgstr ""
 
 #: ../../CSP.rst:207
 msgid ""
-"|mana_2|, |tap|: Return target permanent to its owner's hand. Activate this "
-"ability only if you control four or more snow permanents."
+"|mana_2|, |tap|: Return target permanent to its owner's hand. Activate only "
+"if you control four or more snow permanents."
 msgstr ""
 
 #: ../../CSP.rst:220
@@ -715,9 +715,8 @@ msgstr ""
 
 #: ../../CSP.rst:257
 msgid ""
-"|mana_1|, |tap|: Counter target activated ability. Activate this ability "
-"only if you control four or more snow permanents. (Mana abilities can't be "
-"targeted.)"
+"|mana_1|, |tap|: Counter target activated ability. Activate only if you "
+"control four or more snow permanents. (Mana abilities can't be targeted.)"
 msgstr ""
 
 #: ../../CSP.rst:262
@@ -729,8 +728,8 @@ msgstr ""
 
 #: ../../CSP.rst:261
 msgid ""
-"|mana_1|, |tap|: You may tap or untap target permanent. Activate this "
-"ability only if you control four or more snow permanents."
+"|mana_1|, |tap|: You may tap or untap target permanent. Activate only if you "
+"control four or more snow permanents."
 msgstr ""
 
 #: ../../CSP.rst:268
@@ -863,7 +862,7 @@ msgstr ""
 #: ../../CSP.rst:317
 msgid ""
 "|mana_s|: Chilling Shade gets +1/+1 until end of turn. (|mana_s| can be paid "
-"with one mana from a snow permanent.)"
+"with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:322
@@ -1103,7 +1102,7 @@ msgstr ""
 msgid ""
 "Enchanted creature gets +2/+1 and has \"|mana_s|: This creature can't be "
 "blocked this turn except by snow creatures.\" (|mana_s| can be paid with one "
-"mana from a snow permanent.)"
+"mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:408
@@ -1116,7 +1115,7 @@ msgstr ""
 #: ../../CSP.rst:407
 msgid ""
 "|mana_s|: Regenerate Rimebound Dead. (|mana_s| can be paid with one mana "
-"from a snow permanent.)"
+"from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:414
@@ -1212,7 +1211,7 @@ msgstr ""
 #: ../../CSP.rst:447
 msgid ""
 "|mana_s|: Regenerate Zombie Musher. (|mana_s| can be paid with one mana from "
-"a snow permanent.)"
+"a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:454
@@ -1238,7 +1237,7 @@ msgid ""
 "|tap|: Remove target blocking creature from combat. Creatures it was "
 "blocking that hadn't become blocked by another creature this combat become "
 "unblocked, then it blocks an attacking creature of your choice. Activate "
-"this ability only during the declare blockers step."
+"only during the declare blockers step."
 msgstr ""
 
 #: ../../CSP.rst:462
@@ -1330,7 +1329,7 @@ msgstr ""
 #: ../../CSP.rst:489
 msgid ""
 "|mana_s|: Goblin Rimerunner gains haste until end of turn. (|mana_s| can be "
-"paid with one mana from a snow permanent.)"
+"paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:496
@@ -1496,7 +1495,7 @@ msgstr ""
 #: ../../CSP.rst:545
 msgid ""
 "|mana_2|\\ |mana_s|: Target snow creature gains first strike until end of "
-"turn. (|mana_s| can be paid with one mana from a snow permanent.)"
+"turn. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:550
@@ -1522,7 +1521,7 @@ msgstr ""
 #: ../../CSP.rst:555
 msgid ""
 "|mana_2|\\ |mana_s|: Tap target creature and put an ice counter on it. (|"
-"mana_s| can be paid with one mana from a snow permanent.)"
+"mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:557
@@ -1573,9 +1572,8 @@ msgstr ""
 
 #: ../../CSP.rst:571
 msgid ""
-"|mana_2|\\ |mana_s|: Return Stalking Yeti to its owner's hand. Activate this "
-"ability only any time you could cast a sorcery. (|mana_s| can be paid with "
-"one mana from a snow permanent.)"
+"|mana_2|\\ |mana_s|: Return Stalking Yeti to its owner's hand. Activate only "
+"as a sorcery. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:578
@@ -1599,7 +1597,7 @@ msgstr ""
 #: ../../CSP.rst:581
 msgid ""
 "|mana_s|: Thermopod gains haste until end of turn. (|mana_s| can be paid "
-"with one mana from a snow permanent.)"
+"with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:583
@@ -1653,8 +1651,7 @@ msgstr ""
 #: ../../CSP.rst:603
 msgid ""
 "When Aurochs Herd enters the battlefield, you may search your library for an "
-"Aurochs card, reveal it, and put it into your hand. If you do, shuffle your "
-"library."
+"Aurochs card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CSP.rst:605
@@ -1672,9 +1669,8 @@ msgstr ""
 
 #: ../../CSP.rst:609
 msgid ""
-"|mana_s|: Boreal Centaur gets +1/+1 until end of turn. Activate this ability "
-"only once each turn. (|mana_s| can be paid with one mana from a snow "
-"permanent.)"
+"|mana_s|: Boreal Centaur gets +1/+1 until end of turn. Activate only once "
+"each turn. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:614
@@ -1752,9 +1748,8 @@ msgstr ""
 #: ../../CSP.rst:641
 msgid ""
 "Whenever you pay Hibernation's End's cumulative upkeep, you may search your "
-"library for a creature card with converted mana cost equal to the number of "
-"age counters on Hibernation's End and put it onto the battlefield. If you "
-"do, shuffle your library."
+"library for a creature card with mana value equal to the number of age "
+"counters on Hibernation's End, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CSP.rst:646
@@ -1766,8 +1761,8 @@ msgstr ""
 
 #: ../../CSP.rst:645
 msgid ""
-"Search your library for a snow land card and put it onto the battlefield "
-"tapped. Then shuffle your library."
+"Search your library for a snow land card, put it onto the battlefield "
+"tapped, then shuffle."
 msgstr ""
 
 #: ../../CSP.rst:650
@@ -1870,7 +1865,7 @@ msgstr ""
 #: ../../CSP.rst:685
 msgid ""
 "|mana_2|\\ |mana_s|: Target creature blocks target creature this turn if "
-"able. (|mana_s| can be paid with one mana from a snow permanent.)"
+"able. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:692
@@ -1993,7 +1988,7 @@ msgstr ""
 #: ../../CSP.rst:741
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with "
-"converted mana cost X."
+"mana value X."
 msgstr ""
 
 #: ../../CSP.rst:748
@@ -2006,7 +2001,7 @@ msgstr ""
 #: ../../CSP.rst:747
 msgid ""
 "|mana_1|\\ |mana_s|: Snow creatures you control get +1/+1 until end of turn. "
-"(|mana_s| can be paid with one mana from a snow permanent.)"
+"(|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:756
@@ -2107,8 +2102,8 @@ msgstr ""
 #: ../../CSP.rst:783
 msgid ""
 "Whenever Zur the Enchanter attacks, you may search your library for an "
-"enchantment card with converted mana cost 3 or less and put it onto the "
-"battlefield. If you do, shuffle your library."
+"enchantment card with mana value 3 or less, put it onto the battlefield, "
+"then shuffle."
 msgstr ""
 
 #: ../../CSP.rst:792
@@ -2177,7 +2172,7 @@ msgstr ""
 #: ../../CSP.rst:807
 msgid ""
 "|mana_1|\\ |mana_s|: Untap Phyrexian Ironfoot. (|mana_s| can be paid with "
-"one mana from a snow permanent.)"
+"one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:814
@@ -2194,7 +2189,7 @@ msgstr ""
 #: ../../CSP.rst:813
 msgid ""
 "|mana_1|\\ |mana_s|: Phyrexian Snowcrusher gets +1/+0 until end of turn. (|"
-"mana_s| can be paid with one mana from a snow permanent.)"
+"mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:818
@@ -2318,7 +2313,7 @@ msgstr ""
 #: ../../CSP.rst:859
 msgid ""
 "|mana_4|\\ |mana_s|, |tap|, Sacrifice Mouth of Ronom: It deals 4 damage to "
-"target creature. (|mana_s| can be paid with one mana from a snow permanent.)"
+"target creature. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:866
@@ -2332,7 +2327,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_s|, |tap|: Look at the top card of your library. If that "
 "card is snow, you may reveal it and put it into your hand. (|mana_s| can be "
-"paid with one mana from a snow permanent.)"
+"paid with one mana from a snow source.)"
 msgstr ""
 
 #: ../../CSP.rst:872

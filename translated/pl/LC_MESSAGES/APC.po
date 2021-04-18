@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-14 10:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/apc/pl/>\n"
@@ -198,8 +198,8 @@ msgstr ""
 
 #: ../../APC.rst:65
 msgid ""
-"|mana_3|\\ |mana_w|: Tap target creature. Activate this ability only if "
-"Gerrard Capashen is attacking."
+"|mana_3|\\ |mana_w|: Tap target creature. Activate only if Gerrard Capashen "
+"is attacking."
 msgstr ""
 
 #: ../../APC.rst:72
@@ -271,7 +271,7 @@ msgstr ""
 #: ../../APC.rst:93
 msgid ""
 "Destroy target artifact or enchantment. If this spell was kicked, it deals "
-"damage equal to that permanent's converted mana cost to target creature."
+"damage equal to that permanent's mana value to target creature."
 msgstr ""
 
 #: ../../APC.rst:100
@@ -826,8 +826,8 @@ msgstr ""
 #: ../../APC.rst:295
 msgid ""
 "|mana_1|\\ |mana_b|: Choose a color. Whenever Zombie Boa becomes blocked by "
-"a creature of that color this turn, destroy that creature. Activate this "
-"ability only any time you could cast a sorcery."
+"a creature of that color this turn, destroy that creature. Activate only as "
+"a sorcery."
 msgstr ""
 
 #: ../../APC.rst:300
@@ -1105,18 +1105,29 @@ msgid ""
 msgstr ""
 
 #: ../../APC.rst:393
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, reveal it, put it into your "
+#| "hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_w|: Search your library for an enchantment card and reveal "
 "that card. Put it into your hand, then discard a card at random. Then "
-"shuffle your library."
+"shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../APC.rst:395
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, reveal it, put it into your "
+#| "hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_u|: Search your library for an instant card and reveal that "
-"card. Put it into your hand, then discard a card at random. Then shuffle "
-"your library."
+"card. Put it into your hand, then discard a card at random. Then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../APC.rst:402
 msgid ""
@@ -1190,10 +1201,16 @@ msgid "As an additional cost to cast this spell, sacrifice five lands."
 msgstr ""
 
 #: ../../APC.rst:423
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, reveal it, put it into your "
+#| "hand, then shuffle your library."
 msgid ""
-"Search your library for a land card of each basic land type and put them "
-"onto the battlefield. Then shuffle your library."
+"Search your library for a land card of each basic land type, put those cards "
+"onto the battlefield, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, po czym przetasuj twoją bibliotekę."
 
 #: ../../APC.rst:428
 msgid ""
@@ -1247,9 +1264,13 @@ msgid ""
 msgstr ""
 
 #: ../../APC.rst:441
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card, reveal it, put it into your "
+#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
 "twojej ręce, po czym przetasuj twoją bibliotekę."
@@ -1392,7 +1413,7 @@ msgstr ""
 #: ../../APC.rst:491
 msgid ""
 "Return target creature to its owner's hand. Create X 1/1 green Saproling "
-"creature tokens, where X is that creature's converted mana cost."
+"creature tokens, where X is that creature's mana value."
 msgstr ""
 
 #: ../../APC.rst:496
@@ -1471,8 +1492,7 @@ msgstr ""
 #: ../../APC.rst:519
 msgid ""
 "Destroy target nonblack creature. It can't be regenerated. Create X 1/1 "
-"green Saproling creature tokens, where X is that creature's converted mana "
-"cost."
+"green Saproling creature tokens, where X is that creature's mana value."
 msgstr ""
 
 #: ../../APC.rst:524
@@ -1586,7 +1606,7 @@ msgstr ""
 msgid ""
 "Reveal the cards in your library. An opponent chooses from among them a "
 "creature card, a land card, and a noncreature, nonland card. You put the "
-"chosen cards into your hand. Then shuffle your library."
+"chosen cards into your hand. Then shuffle."
 msgstr ""
 
 #: ../../APC.rst:566
@@ -1710,7 +1730,7 @@ msgstr ""
 #: ../../APC.rst:601
 msgid ""
 "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and "
-"enchantment with converted mana cost X or less."
+"enchantment with mana value X or less."
 msgstr ""
 
 #: ../../APC.rst:606
@@ -1964,10 +1984,15 @@ msgid ""
 msgstr ""
 
 #: ../../APC.rst:701
+#, fuzzy
+#| msgid ""
+#| "Return up to two target creature cards from your graveyard to your hand."
 msgid ""
 "Return target creature card from your graveyard to the battlefield. You lose "
-"life equal to its converted mana cost."
+"life equal to its mana value."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../APC.rst:706
 msgid ""

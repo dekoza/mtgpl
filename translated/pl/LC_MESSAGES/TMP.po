@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-16 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tmp/pl/>\n"
@@ -482,8 +482,8 @@ msgid ""
 "|tap|: Target opponent chooses any number of creatures they control. During "
 "that player's next turn, the chosen creatures attack if able, and other "
 "creatures can't attack. At the beginning of that turn's end step, destroy "
-"each of the chosen creatures that didn't attack this turn. Activate this "
-"ability only during your turn."
+"each of the chosen creatures that didn't attack this turn. Activate only "
+"during your turn."
 msgstr ""
 
 #: ../../TMP.rst:160
@@ -599,8 +599,7 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:195
-msgid ""
-"Destroy target enchantment. You gain life equal to its converted mana cost."
+msgid "Destroy target enchantment. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../TMP.rst:202
@@ -1001,7 +1000,7 @@ msgstr ""
 msgid ""
 "Search your library for three cards and reveal them. Target opponent chooses "
 "one. Put that card into your hand and the rest into your graveyard. Then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../TMP.rst:360
@@ -1045,10 +1044,15 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:367
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card and put that card onto the "
+#| "battlefield tapped. Then shuffle your library."
 msgid ""
-"Search your library for any number of land cards and exile them. Then "
-"shuffle your library."
+"Search your library for any number of land cards, exile them, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../TMP.rst:372
 msgid ""
@@ -1259,9 +1263,13 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:441
+#, fuzzy
+#| msgid ""
+#| "Counter target spell with converted mana cost X. (For example, if that "
+#| "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgid ""
-"Counter target spell with converted mana cost X. (For example, if that "
-"spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+"Counter target spell with mana value X. (For example, if that spell's mana "
+"cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 "Skontruj wskazany czar o skrócie many równym X. (Np. jeśli koszt owego czaru "
 "to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
@@ -1548,8 +1556,8 @@ msgstr ""
 #: ../../TMP.rst:561
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|: Exile Carrionette and target creature unless "
-"that creature's controller pays |mana_2|. Activate this ability only if "
-"Carrionette is in your graveyard."
+"that creature's controller pays |mana_2|. Activate only if Carrionette is in "
+"your graveyard."
 msgstr ""
 
 #: ../../TMP.rst:566
@@ -1962,8 +1970,8 @@ msgstr ""
 msgid ""
 "|tap|: Non-Wall creatures the active player controls attack this turn if "
 "able. At the beginning of the next end step, destroy each of those creatures "
-"that didn't attack this turn. Activate this ability only during an "
-"opponent's turn and only before combat."
+"that didn't attack this turn. Activate only during an opponent's turn and "
+"only before combat."
 msgstr ""
 
 #: ../../TMP.rst:730
@@ -1989,8 +1997,7 @@ msgstr ""
 #: ../../TMP.rst:733
 msgid ""
 "All Slivers have \"|mana_2|, Sacrifice this permanent: Target player "
-"discards a card at random. Activate this ability only any time you could "
-"cast a sorcery.\""
+"discards a card at random. Activate only as a sorcery.\""
 msgstr ""
 
 #: ../../TMP.rst:742
@@ -2033,10 +2040,16 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:751
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate "
+#| "this ability only once each turn."
 msgid ""
-"|mana_b|: Pit Imp gets +1/+0 until end of turn. Activate this ability no "
-"more than twice each turn."
+"|mana_b|: Pit Imp gets +1/+0 until end of turn. Activate no more than twice "
+"each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tę zdolność tylko raz na turę."
 
 #: ../../TMP.rst:756
 msgid ""
@@ -2068,9 +2081,13 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:763
+#, fuzzy
+#| msgid ""
+#| "Put target creature card from a graveyard onto the battlefield under your "
+#| "control. You lose life equal to its converted mana cost."
 msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
-"control. You lose life equal to its converted mana cost."
+"control. You lose life equal to its mana value."
 msgstr ""
 "Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
 "władaniem. Strać tyle żyć, ile wynosi jej skrót many."
@@ -2897,8 +2914,8 @@ msgstr ""
 
 #: ../../TMP.rst:1063
 msgid ""
-"Any player may cast creature spells with converted mana cost 3 or less "
-"without paying their mana costs and as though they had flash."
+"Any player may cast creature spells with mana value 3 or less without paying "
+"their mana costs and as though they had flash."
 msgstr ""
 
 #: ../../TMP.rst:1068
@@ -2977,8 +2994,8 @@ msgstr ""
 #: ../../TMP.rst:1091
 msgid ""
 "|mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. "
-"Destroy Crazed Armodon at the beginning of the next end step. Activate this "
-"ability only once each turn."
+"Destroy Crazed Armodon at the beginning of the next end step. Activate only "
+"once each turn."
 msgstr ""
 
 #: ../../TMP.rst:1096
@@ -3112,10 +3129,16 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../TMP.rst:1143
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card and put that card onto the "
+#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
-"battlefield, then shuffle your library."
+"battlefield, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
+"polu bitwy. Następnie przetasuj twoją bibliotekę."
 
 #: ../../TMP.rst:1148
 msgid ""
@@ -3304,9 +3327,13 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1207
+#, fuzzy
+#| msgid ""
+#| "Search your library for a basic land card and put that card onto the "
+#| "battlefield tapped. Then shuffle your library."
 msgid ""
-"Search your library for a basic land card and put that card onto the "
-"battlefield tapped. Then shuffle your library."
+"Search your library for a basic land card, put that card onto the "
+"battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
 "polu bitwy. Następnie przetasuj twoją bibliotekę."
@@ -3401,9 +3428,13 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1241
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate "
+#| "this ability only once each turn."
 msgid ""
-"|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this "
-"ability only once each turn."
+"|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only "
+"once each turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
 "tę zdolność tylko raz na turę."
@@ -3457,9 +3488,13 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1261
+#, fuzzy
+#| msgid ""
+#| "|tap|: You may put a land card from your hand onto the battlefield. "
+#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|tap|: You may put a land card from your hand onto the battlefield. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu bitwy. Aktywuj jako "
 "obrzęd."
@@ -3592,7 +3627,7 @@ msgid ""
 "Target player reveals their hand, then you choose a card other than a basic "
 "land card from it. Search that player's graveyard, hand, and library for all "
 "cards with the same name as the chosen card and exile them. Then that player "
-"shuffles their library."
+"shuffles."
 msgstr ""
 
 #: ../../TMP.rst:1318
@@ -3794,8 +3829,8 @@ msgstr ""
 msgid ""
 "|mana_4|, |tap|: An opponent chooses target creature they control. Create a "
 "token that's a copy of that creature. That token gains haste until end of "
-"turn. Exile the token at the beginning of the next end step. Activate this "
-"ability only any time you could cast a sorcery."
+"turn. Exile the token at the beginning of the next end step. Activate only "
+"as a sorcery."
 msgstr ""
 
 #: ../../TMP.rst:1390
@@ -3884,10 +3919,11 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1415
+#, fuzzy
+#| msgid "|mana_5|, |tap|: Draw two cards, then discard a card."
 msgid ""
-"|mana_2|, |tap|: Draw a card. Activate this ability only if you have no "
-"cards in hand."
-msgstr ""
+"|mana_2|, |tap|: Draw a card. Activate only if you have no cards in hand."
+msgstr "|mana_5|, |tap|: Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../TMP.rst:1420
 msgid ""
@@ -4273,8 +4309,8 @@ msgstr ""
 
 #: ../../TMP.rst:1553
 msgid ""
-"|mana_0|: Return Ghost Town to its owner's hand. Activate this ability only "
-"if it's not your turn."
+"|mana_0|: Return Ghost Town to its owner's hand. Activate only if it's not "
+"your turn."
 msgstr ""
 
 #: ../../TMP.rst:1560

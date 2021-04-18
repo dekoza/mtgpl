@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -173,8 +173,7 @@ msgstr ""
 #: ../../SOI.rst:59
 msgid ""
 "Sacrifice another permanent: Attach Bound by Moonsilver to target creature. "
-"Activate this ability only any time you could cast a sorcery and only once "
-"each turn."
+"Activate only as a sorcery and only once each turn."
 msgstr ""
 
 #: ../../SOI.rst:66
@@ -186,9 +185,9 @@ msgstr ""
 
 #: ../../SOI.rst:65
 msgid ""
-"Whenever you cast a creature spell with converted mana cost 3 or less, "
-"investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-"Sacrifice this artifact: Draw a card.\")"
+"Whenever you cast a creature spell with mana value 3 or less, investigate. "
+"(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
+"artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:70
@@ -226,8 +225,7 @@ msgstr ""
 #: ../../SOI.rst:77
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a "
-"1/1 white Spirit creature token with flying. Activate this ability only any "
-"time you could cast a sorcery."
+"1/1 white Spirit creature token with flying. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:82
@@ -357,8 +355,7 @@ msgstr ""
 #: ../../SOI.rst:127
 msgid ""
 "|mana_3|\\ |mana_w|: Return Gryff's Boon from your graveyard to the "
-"battlefield attached to target creature. Activate this ability only any time "
-"you could cast a sorcery."
+"battlefield attached to target creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:132
@@ -504,8 +501,7 @@ msgstr ""
 #: ../../SOI.rst:179
 msgid ""
 "|mana_2|\\ |mana_w|, Exile Nearheath Chaplain from your graveyard: Create "
-"two 1/1 white Spirit creature tokens with flying. Activate this ability only "
-"any time you could cast a sorcery."
+"two 1/1 white Spirit creature tokens with flying. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:184
@@ -546,7 +542,7 @@ msgstr ""
 #: ../../SOI.rst:191
 msgid ""
 "Search your library for an Aura or Equipment card, reveal it, put it into "
-"your hand, then shuffle your library."
+"your hand, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:196
@@ -616,8 +612,8 @@ msgstr ""
 #: ../../SOI.rst:215
 msgid ""
 "Delirium — Sacrifice another creature: Reaper of Flight Moonsilver gets +2/"
-"+1 until end of turn. Activate this ability only if there are four or more "
-"card types among cards in your graveyard."
+"+1 until end of turn. Activate only if there are four or more card types "
+"among cards in your graveyard."
 msgstr ""
 
 #: ../../SOI.rst:220
@@ -1111,7 +1107,7 @@ msgid ""
 "Delirium — If there are four or more card types among cards in your "
 "graveyard, search the graveyard, hand, and library of that spell's "
 "controller for any number of cards with the same name as that spell, exile "
-"those cards, then that player shuffles their library."
+"those cards, then that player shuffles."
 msgstr ""
 
 #: ../../SOI.rst:404
@@ -1397,8 +1393,7 @@ msgstr ""
 #: ../../SOI.rst:509
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Put Startled Awake from your graveyard onto "
-"the battlefield transformed. Activate this ability only any time you could "
-"cast a sorcery."
+"the battlefield transformed. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:516
@@ -1671,8 +1666,8 @@ msgstr ""
 
 #: ../../SOI.rst:605
 msgid ""
-"Discard your hand. Search your library for three cards and put those cards "
-"into your hand. Then shuffle your library."
+"Discard your hand. Search your library for three cards, put them into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:612
@@ -1703,7 +1698,7 @@ msgstr ""
 #: ../../SOI.rst:615
 msgid ""
 "|mana_1|, Discard a card: Create a 1/1 black Vampire Knight creature token "
-"with lifelink. Activate this ability only once each turn."
+"with lifelink. Activate only once each turn."
 msgstr ""
 
 #: ../../SOI.rst:620
@@ -1857,8 +1852,7 @@ msgstr ""
 #: ../../SOI.rst:669
 msgid ""
 "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
-"Create a 2/2 black Zombie creature token. Activate this ability only any "
-"time you could cast a sorcery."
+"Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:674
@@ -1908,8 +1902,7 @@ msgstr ""
 
 #: ../../SOI.rst:687
 msgid ""
-"Discard a card: Transform Heir of Falkenrath. Activate this ability only "
-"once each turn."
+"Discard a card: Transform Heir of Falkenrath. Activate only once each turn."
 msgstr ""
 
 #: ../../SOI.rst:692
@@ -1957,9 +1950,8 @@ msgstr ""
 
 #: ../../SOI.rst:705
 msgid ""
-"Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate this "
-"ability only if there are four or more card types among cards in your "
-"graveyard."
+"Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate only if "
+"there are four or more card types among cards in your graveyard."
 msgstr ""
 
 #: ../../SOI.rst:710
@@ -2125,7 +2117,7 @@ msgid ""
 "Delirium — If there are four or more card types among cards in your "
 "graveyard, search that player's graveyard, hand, and library for any number "
 "of cards with the same name as the exiled card, exile those cards, then that "
-"player shuffles their library."
+"player shuffles."
 msgstr ""
 
 #: ../../SOI.rst:776
@@ -2157,8 +2149,8 @@ msgstr ""
 #: ../../SOI.rst:783
 msgid ""
 "When Relentless Dead dies, you may pay |mana_x|. If you do, return another "
-"target Zombie creature card with converted mana cost X from your graveyard "
-"to the battlefield."
+"target Zombie creature card with mana value X from your graveyard to the "
+"battlefield."
 msgstr ""
 
 #: ../../SOI.rst:788
@@ -2221,8 +2213,8 @@ msgstr ""
 #: ../../SOI.rst:803
 msgid ""
 "Delirium — |mana_1|\\ |mana_b|: Stallion of Ashmouth gets +1/+1 until end of "
-"turn. Activate this ability only if there are four or more card types among "
-"cards in your graveyard."
+"turn. Activate only if there are four or more card types among cards in your "
+"graveyard."
 msgstr ""
 
 #: ../../SOI.rst:808
@@ -2333,8 +2325,7 @@ msgstr ""
 #: ../../SOI.rst:843
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles "
-"two cards from their hand. Activate this ability only any time you could "
-"cast a sorcery."
+"two cards from their hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:850
@@ -2954,8 +2945,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library. Any "
 "opponent may have you put that card into your graveyard. If a player does, "
-"Sin Prodder deals damage to that player equal to that card's converted mana "
-"cost. Otherwise, put that card into your hand."
+"Sin Prodder deals damage to that player equal to that card's mana value. "
+"Otherwise, put that card into your hand."
 msgstr ""
 
 #: ../../SOI.rst:1070
@@ -3125,7 +3116,7 @@ msgstr ""
 msgid ""
 "Whenever Wolf of Devil's Breach attacks, you may pay |mana_1|\\ |mana_r| and "
 "discard a card. If you do, Wolf of Devil's Breach deals damage to target "
-"creature or planeswalker equal to the discarded card's converted mana cost."
+"creature or planeswalker equal to the discarded card's mana value."
 msgstr ""
 
 #: ../../SOI.rst:1140
@@ -3351,7 +3342,7 @@ msgstr ""
 #: ../../SOI.rst:1211
 msgid ""
 "Search your library for up to two basic land cards and reveal them. Put one "
-"into your hand and the other into your graveyard. Then shuffle your library."
+"into your hand and the other into your graveyard. Then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1218
@@ -3723,9 +3714,8 @@ msgstr ""
 
 #: ../../SOI.rst:1341
 msgid ""
-"Return any number of cards with different converted mana costs from your "
-"graveyard to your hand. Put Seasons Past on the bottom of its owner's "
-"library."
+"Return any number of cards with different mana values from your graveyard to "
+"your hand. Put Seasons Past on the bottom of its owner's library."
 msgstr ""
 
 #: ../../SOI.rst:1346
@@ -3843,14 +3833,14 @@ msgstr ""
 #: ../../SOI.rst:1383
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library."
+"then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1385
 msgid ""
 "Delirium — If there are four or more card types among cards in your "
 "graveyard, instead search your library for a creature or land card, reveal "
-"it, put it into your hand, then shuffle your library."
+"it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1394
@@ -3869,7 +3859,7 @@ msgstr ""
 #: ../../SOI.rst:1393
 msgid ""
 "When Ulvenwald Hydra enters the battlefield, you may search your library for "
-"a land card, put it onto the battlefield tapped, then shuffle your library."
+"a land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1400
@@ -4099,8 +4089,8 @@ msgstr ""
 #: ../../SOI.rst:1473
 msgid ""
 "−8: Search your library for an artifact or creature card, put it onto the "
-"battlefield, then shuffle your library. It gains haste. Return it to your "
-"hand at the beginning of the next end step."
+"battlefield, then shuffle. It gains haste. Return it to your hand at the "
+"beginning of the next end step."
 msgstr ""
 
 #: ../../SOI.rst:1480
@@ -4161,7 +4151,7 @@ msgstr ""
 #: ../../SOI.rst:1495
 msgid ""
 "+1: Reveal the top card of your library and put that card into your hand. "
-"Each opponent loses life equal to its converted mana cost."
+"Each opponent loses life equal to its mana value."
 msgstr ""
 
 #: ../../SOI.rst:1497
@@ -4186,9 +4176,8 @@ msgstr ""
 #: ../../SOI.rst:1503
 msgid ""
 "|mana_1|, |tap|: Put a charge counter on Brain in a Jar, then you may cast "
-"an instant or sorcery spell with converted mana cost equal to the number of "
-"charge counters on Brain in a Jar from your hand without paying its mana "
-"cost."
+"an instant or sorcery spell with mana value equal to the number of charge "
+"counters on Brain in a Jar from your hand without paying its mana cost."
 msgstr ""
 
 #: ../../SOI.rst:1505
@@ -4431,8 +4420,8 @@ msgstr ""
 
 #: ../../SOI.rst:1599
 msgid ""
-"|tap|, Sacrifice three Clues: Search your library for a card and put that "
-"card into your hand. Then shuffle your library."
+"|tap|, Sacrifice three Clues: Search your library for a card, put that card "
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1606
@@ -4493,8 +4482,7 @@ msgstr ""
 #: ../../SOI.rst:1627
 msgid ""
 "|mana_2|, Sacrifice Wild-Field Scarecrow: Search your library for up to two "
-"basic land cards, reveal them, and put them into your hand. Then shuffle "
-"your library."
+"basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1634
@@ -4664,7 +4652,7 @@ msgstr ""
 #: ../../SOI.rst:1693
 msgid ""
 "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic "
-"land card, put it onto the battlefield tapped, then shuffle your library."
+"land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../SOI.rst:1702

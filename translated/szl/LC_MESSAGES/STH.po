@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -529,7 +529,7 @@ msgstr ""
 #: ../../STH.rst:193
 msgid ""
 "Search your library for a card with the same name as target nontoken "
-"creature and put that card onto the battlefield. Then shuffle your library."
+"creature, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../STH.rst:200
@@ -912,8 +912,7 @@ msgstr ""
 #: ../../STH.rst:333
 msgid ""
 "|mana_2|\\ |mana_b|, Remove a +1/+1 counter from Mindwarper: Target player "
-"discards a card. Activate this ability only any time you could cast a "
-"sorcery."
+"discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../STH.rst:338
@@ -1333,7 +1332,7 @@ msgstr ""
 #: ../../STH.rst:495
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Return Shard Phoenix from your graveyard to "
-"your hand. Activate this ability only during your upkeep."
+"your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../STH.rst:500
@@ -1715,7 +1714,7 @@ msgstr ""
 #: ../../STH.rst:635
 msgid ""
 "|mana_2|, Tap an untapped creature you control: You gain 2 life. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../STH.rst:642

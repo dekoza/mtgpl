@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-04-13 15:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
@@ -242,11 +242,20 @@ msgid "Whenever Paladin of Prahv deals damage, you gain that much life."
 msgstr ""
 
 #: ../../DIS.rst:83
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_1|\\ |mana_w|, Reveal Paladin of Prahv from your hand: "
 "Whenever target creature deals damage this turn, you gain that much life. "
-"(Activate this ability only during your upkeep and only once each turn.)"
+"(Activate only during your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:90
 msgid ""
@@ -256,18 +265,33 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:87
+#, fuzzy
+#| msgid ""
+#| "Return up to two target creature cards from your graveyard to your hand, "
+#| "then discard a card."
 msgid ""
-"Return up to three target creature cards with converted mana cost 1 or less "
-"from your graveyard to the battlefield."
+"Return up to three target creature cards with mana value 1 or less from your "
+"graveyard to the battlefield."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
+"twojej ręki, po czym odrzuć kartę."
 
 #: ../../DIS.rst:89
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_5|\\ |mana_w|, Reveal Proclamation of Rebirth from your "
-"hand: Return target creature card with converted mana cost 1 or less from "
-"your graveyard to the battlefield. (Activate this ability only during your "
-"upkeep and only once each turn.)"
+"hand: Return target creature card with mana value 1 or less from your "
+"graveyard to the battlefield. (Activate only during your upkeep and only "
+"once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:94
 msgid ""
@@ -311,11 +335,20 @@ msgid "Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../DIS.rst:105
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_w|, Reveal Steeling Stance from your hand: Target creature "
-"gets +1/+1 until end of turn. (Activate this ability only during your upkeep "
-"and only once each turn.)"
+"gets +1/+1 until end of turn. (Activate only during your upkeep and only "
+"once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:114
 msgid ""
@@ -437,12 +470,20 @@ msgid "Gain control of target monocolored creature."
 msgstr ""
 
 #: ../../DIS.rst:149
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_1|\\ |mana_u|, Reveal Govern the Guildless from your hand: "
 "Target creature becomes the color or colors of your choice until end of "
-"turn. (Activate this ability only during your upkeep and only once each "
-"turn.)"
+"turn. (Activate only during your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:156
 msgid ""
@@ -558,11 +599,18 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:191
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
+#| "search their library for a basic land card, put it onto the battlefield, "
+#| "then shuffle their library."
 msgid ""
 "|mana_g|, Sacrifice Silkwing Scout: Search your library for a basic land "
-"card and put that card onto the battlefield tapped. Then shuffle your "
-"library."
+"card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Zniszcz wskazany ląd. Jego władca może wyszukać w "
+"swojej bibliotece kartę bazowego lądu, umieścić ją na polu bitwy, po czym "
+"tasuje swoją bibliotekę."
 
 #: ../../DIS.rst:198
 msgid ""
@@ -576,11 +624,19 @@ msgid "Each player draws X cards."
 msgstr "Każdy gracz dobiera po X kart."
 
 #: ../../DIS.rst:197
+#, fuzzy
+#| msgid ""
+#| "Forecast — Tap two untapped white and/or blue creatures you control, "
+#| "Reveal Sky Hussar from your hand: Draw a card. (Activate this ability "
+#| "only during your upkeep and only once each turn.)"
 msgid ""
 "Forecast — |mana_2|\\ |mana_u|, Reveal Skyscribing from your hand: Each "
-"player draws a card. (Activate this ability only during your upkeep and only "
-"once each turn.)"
+"player draws a card. (Activate only during your upkeep and only once each "
+"turn.)"
 msgstr ""
+"Zapowiedź — Przekręć dwa odkręcone białe i/lub niebieskie stwory pod twoim "
+"władaniem, ujawnij tę kartę z twojej ręki: Dobierz kartę. (Możesz aktywować "
+"tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:202
 msgid ""
@@ -590,7 +646,7 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:201
-msgid "Counter target spell with converted mana cost 2."
+msgid "Counter target spell with mana value 2."
 msgstr ""
 
 #: ../../DIS.rst:208
@@ -640,11 +696,20 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:225
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_1|\\ |mana_u|, Reveal Writ of Passage from your hand: "
 "Target creature with power 2 or less can't be blocked this turn. (Activate "
-"this ability only during your upkeep and only once each turn.)"
+"only during your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:232
 msgid ""
@@ -686,9 +751,14 @@ msgid "Double strike"
 msgstr "Podwójny cios"
 
 #: ../../DIS.rst:241
+#, fuzzy
+#| msgid ""
+#| "When Crypt Champion enters the battlefield, each player puts a creature "
+#| "card with converted mana cost 3 or less from their graveyard onto the "
+#| "battlefield."
 msgid ""
 "When Crypt Champion enters the battlefield, each player puts a creature card "
-"with converted mana cost 3 or less from their graveyard onto the battlefield."
+"with mana value 3 or less from their graveyard onto the battlefield."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz umieszcza na polu bitwy "
 "ze swojego cmentarza kartę stwora o skrócie many 3 lub mniejszym."
@@ -777,15 +847,20 @@ msgstr ""
 #: ../../DIS.rst:271
 msgid ""
 "Reveal a card from your hand. Search your library for a card with the same "
-"name as that card, reveal it, put it into your hand, then shuffle your "
-"library."
+"name as that card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:273
+#, fuzzy
+#| msgid ""
+#| "Hellbent — If you have no cards in hand, this spell can't be countered "
+#| "and the damage can't be prevented."
 msgid ""
 "Hellbent — If you have no cards in hand, instead search your library for a "
-"card, put it into your hand, then shuffle your library."
+"card, put it into your hand, then shuffle."
 msgstr ""
+"Zaślepienie — Jeśli nie masz kart w ręce, ten czar nie może być skontrowany, "
+"a obrażeń nie można zażegnać."
 
 #: ../../DIS.rst:278
 msgid ""
@@ -845,10 +920,14 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:295
+#, fuzzy
+#| msgid ""
+#| "Hellbent — Rakdos Pit Dragon has double strike as long as you have no "
+#| "cards in hand."
 msgid ""
-"Hellbent — |mana_1|, Pay 2 life: Draw a card. Activate this ability only if "
-"you have no cards in hand."
-msgstr ""
+"Hellbent — |mana_1|, Pay 2 life: Draw a card. Activate only if you have no "
+"cards in hand."
+msgstr "Zaślepienie — Ten stwór ma podwójny cios o ile nie masz kart w ręce."
 
 #: ../../DIS.rst:300
 msgid ""
@@ -858,10 +937,16 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:299
+#, fuzzy
+#| msgid ""
+#| "Hellbent — Cackling Flames deals 5 damage instead if you have no cards in "
+#| "hand."
 msgid ""
-"Hellbent — |tap|, Sacrifice a creature or land: Draw a card. Activate this "
-"ability only if you have no cards in hand."
+"Hellbent — |tap|, Sacrifice a creature or land: Draw a card. Activate only "
+"if you have no cards in hand."
 msgstr ""
+"Zaślepienie — Ten czar zamiast tego zadaje 5 obrażeń jeśli nie masz kart w "
+"ręce."
 
 #: ../../DIS.rst:306
 msgid ""
@@ -881,7 +966,7 @@ msgstr ""
 #: ../../DIS.rst:305
 msgid ""
 "At the beginning of your upkeep, you may search your library for a Rat card, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:310
@@ -1087,8 +1172,8 @@ msgstr ""
 #: ../../DIS.rst:373
 msgid ""
 "Discard a card at random. If you do, Kindle the Carnage deals damage equal "
-"to that card's converted mana cost to each creature. You may repeat this "
-"process any number of times."
+"to that card's mana value to each creature. You may repeat this process any "
+"number of times."
 msgstr ""
 
 #: ../../DIS.rst:378
@@ -1460,10 +1545,14 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:509
+#, fuzzy
+#| msgid ""
+#| "When Protean Hulk dies, search your library for any number of creature "
+#| "cards with total converted mana cost 6 or less and put them onto the "
+#| "battlefield. Then shuffle your library."
 msgid ""
 "When Protean Hulk dies, search your library for any number of creature cards "
-"with total converted mana cost 6 or less and put them onto the battlefield. "
-"Then shuffle your library."
+"with total mana value 6 or less, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, wyszukaj w twojej bibliotece dowolną liczbę kart "
 "stworów o łącznym skrócie many 6 lub mniej i umieść je na polu bitwy. "
@@ -1806,8 +1895,7 @@ msgstr ""
 #: ../../DIS.rst:629
 msgid ""
 "When Hellhole Rats enters the battlefield, target player discards a card. "
-"Hellhole Rats deals damage to that player equal to that card's converted "
-"mana cost."
+"Hellhole Rats deals damage to that player equal to that card's mana value."
 msgstr ""
 
 #: ../../DIS.rst:636
@@ -1818,11 +1906,17 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:635
+#, fuzzy
+#| msgid ""
+#| "Whenever Isperia the Inscrutable deals combat damage to a player, choose "
+#| "a card name. That player reveals their hand. If a card with the chosen "
+#| "name is revealed this way, search your library for a creature card with "
+#| "flying, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "Whenever Isperia the Inscrutable deals combat damage to a player, choose a "
 "card name. That player reveals their hand. If a card with the chosen name is "
 "revealed this way, search your library for a creature card with flying, "
-"reveal it, put it into your hand, then shuffle your library."
+"reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, nazwij kartę. Ów gracz "
 "ujawnia swoją rękę. Jeśli nazwana karta zostanie ujawniona w ten sposób, "
@@ -1892,10 +1986,14 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:655
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a green creature spell, you may search your library for "
+#| "a creature card and reveal it. If you do, shuffle your library and put "
+#| "that card on top of it."
 msgid ""
 "Whenever you cast a green creature spell, you may search your library for a "
-"creature card and reveal it. If you do, shuffle your library and put that "
-"card on top of it."
+"creature card, reveal it, then shuffle and put that card on top."
 msgstr ""
 "Ilekroć rzucisz czar zielonego stwora, możesz wyszukać w twojej bibliotece "
 "kartę stwora i ujawnić ją. Jeśli tak zrobisz, przetasuj twoją bibliotekę i "
@@ -1995,11 +2093,19 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../DIS.rst:689
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_w|\\ |mana_u|, Reveal Plumes of Peace from your hand: Tap "
-"target creature. (Activate this ability only during your upkeep and only "
-"once each turn.)"
+"target creature. (Activate only during your upkeep and only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
+"Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
+"aktywować tylko w twoim kroku utrzymania i tylko raz na turę.)"
 
 #: ../../DIS.rst:698
 msgid ""
@@ -2016,10 +2122,16 @@ msgstr ""
 "Ten stwór dostaje +1/+1 za każdego innego stwora z lataniem na polu bitwy."
 
 #: ../../DIS.rst:697
+#, fuzzy
+#| msgid ""
+#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
+#| "from your hand: Create a 1/1 white and blue Bird creature token with "
+#| "flying. (Activate this ability only during your upkeep and only once each "
+#| "turn.)"
 msgid ""
 "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds from "
 "your hand: Create a 1/1 white and blue Bird creature token with flying. "
-"(Activate this ability only during your upkeep and only once each turn.)"
+"(Activate only during your upkeep and only once each turn.)"
 msgstr ""
 "Zapowiedź — |mana_2|\\ |mana_w|\\ |mana_u|, ujawnij tę kartę z twojej ręki: "
 "Stwórz żeton biało-niebieskiego stwora Ptak 1/1 z lataniem. (Możesz "
@@ -2053,7 +2165,7 @@ msgstr "Pierwszy cios"
 msgid ""
 "|tap|: Reveal your hand and discard a card of target opponent's choice. Then "
 "that player reveals their hand and discards a card of your choice. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../DIS.rst:712
@@ -2118,10 +2230,15 @@ msgstr ""
 "władaniem."
 
 #: ../../DIS.rst:733
+#, fuzzy
+#| msgid ""
+#| "Forecast — Tap two untapped white and/or blue creatures you control, "
+#| "Reveal Sky Hussar from your hand: Draw a card. (Activate this ability "
+#| "only during your upkeep and only once each turn.)"
 msgid ""
 "Forecast — Tap two untapped white and/or blue creatures you control, Reveal "
-"Sky Hussar from your hand: Draw a card. (Activate this ability only during "
-"your upkeep and only once each turn.)"
+"Sky Hussar from your hand: Draw a card. (Activate only during your upkeep "
+"and only once each turn.)"
 msgstr ""
 "Zapowiedź — Przekręć dwa odkręcone białe i/lub niebieskie stwory pod twoim "
 "władaniem, ujawnij tę kartę z twojej ręki: Dobierz kartę. (Możesz aktywować "
@@ -2315,10 +2432,15 @@ msgid "(|mana_wu| can be paid with either |mana_w| or |mana_u|.)"
 msgstr "(|mana_wu| można opłacić używając |mana_w| albo |mana_u|.)"
 
 #: ../../DIS.rst:803
+#, fuzzy
+#| msgid ""
+#| "Whenever a player casts a noncreature spell, counter that spell. That "
+#| "player creates X 1/1 white and blue Bird creature tokens with flying, "
+#| "where X is the spell's converted mana cost."
 msgid ""
 "Whenever a player casts a noncreature spell, counter that spell. That player "
 "creates X 1/1 white and blue Bird creature tokens with flying, where X is "
-"the spell's converted mana cost."
+"the spell's mana value."
 msgstr ""
 "Ilekroć gracz rzuci nie-stworowy czar, skontruj ów czar. Ów gracz tworzy X "
 "żetonów biało-niebieskiego stwora Ptak 1/1 z lataniem, gdzie X jest skrótem "
@@ -2456,9 +2578,10 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:861
-msgid ""
-"Destroy each artifact, creature, and enchantment with converted mana cost X."
-msgstr ""
+#, fuzzy
+#| msgid "Destroy target artifact and target enchantment."
+msgid "Destroy each artifact, creature, and enchantment with mana value X."
+msgstr "Zniszcz wskazany artefakt i wskazany urok."
 
 #: ../../DIS.rst:866
 msgid ""
@@ -2482,7 +2605,7 @@ msgstr ""
 #: ../../DIS.rst:869
 msgid ""
 "Search target opponent's library for a card and exile it. You gain life "
-"equal to its converted mana cost. Then that player shuffles their library."
+"equal to its mana value. Then that player shuffles."
 msgstr ""
 
 #: ../../DIS.rst:874
@@ -2495,7 +2618,7 @@ msgstr ""
 #: ../../DIS.rst:873
 msgid ""
 "Target player sacrifices an artifact or creature. Hit deals damage to that "
-"player equal to that permanent's converted mana cost."
+"player equal to that permanent's mana value."
 msgstr ""
 
 #: ../../DIS.rst:878
@@ -2629,8 +2752,8 @@ msgstr ""
 
 #: ../../DIS.rst:917
 msgid ""
-"Search your library for a multicolored card, reveal it, and put it into your "
-"hand. Then shuffle your library."
+"Search your library for a multicolored card, reveal it, put it into your "
+"hand, then shuffle."
 msgstr ""
 
 #: ../../DIS.rst:922
@@ -2718,8 +2841,8 @@ msgstr ""
 
 #: ../../DIS.rst:945
 msgid ""
-"|mana_3|, |tap|: Target player exiles a card from their hand. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_3|, |tap|: Target player exiles a card from their hand. Activate only "
+"as a sorcery."
 msgstr ""
 
 #: ../../DIS.rst:947
@@ -2893,10 +3016,15 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../DIS.rst:1009
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
+#| "search their library for a basic land card, put it onto the battlefield, "
+#| "then shuffle their library."
 msgid ""
 "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
 "search their library for a basic land card, put it onto the battlefield, "
-"then shuffle their library."
+"then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Zniszcz wskazany ląd. Jego władca może wyszukać w "
 "swojej bibliotece kartę bazowego lądu, umieścić ją na polu bitwy, po czym "
@@ -2997,7 +3125,7 @@ msgstr ""
 #: ../../DIS.rst:1045
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_r|, |tap|: Each player discards a card. Activate "
-"this ability only any time you could cast a sorcery."
+"only as a sorcery."
 msgstr ""
 
 #: ../../DIS.rst:1053

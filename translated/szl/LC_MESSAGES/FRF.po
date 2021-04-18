@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -33,8 +33,7 @@ msgstr ""
 
 #: ../../FRF.rst:11
 msgid ""
-"−X: Exile each permanent with converted mana cost X or less that's one or "
-"more colors."
+"−X: Exile each permanent with mana value X or less that's one or more colors."
 msgstr ""
 
 #: ../../FRF.rst:13
@@ -370,9 +369,9 @@ msgstr ""
 
 #: ../../FRF.rst:129
 msgid ""
-"Return each creature card with converted mana cost X or less from your "
-"graveyard to the battlefield. Exile those creatures at the beginning of your "
-"next upkeep. Exile Rally the Ancestors."
+"Return each creature card with mana value X or less from your graveyard to "
+"the battlefield. Exile those creatures at the beginning of your next upkeep. "
+"Exile Rally the Ancestors."
 msgstr ""
 
 #: ../../FRF.rst:138
@@ -767,8 +766,7 @@ msgstr ""
 #: ../../FRF.rst:287
 msgid ""
 "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or "
-"Vial of Dragonfire, reveal it, put it into your hand, then shuffle your "
-"library."
+"Vial of Dragonfire, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../FRF.rst:294
@@ -882,8 +880,7 @@ msgstr ""
 #: ../../FRF.rst:331
 msgid ""
 "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto the "
-"battlefield tapped. Activate this ability only any time you could cast a "
-"sorcery."
+"battlefield tapped. Activate only as a sorcery."
 msgstr ""
 
 #: ../../FRF.rst:336
@@ -1182,8 +1179,8 @@ msgstr ""
 
 #: ../../FRF.rst:439
 msgid ""
-"When Noxious Dragon dies, you may destroy target creature with converted "
-"mana cost 3 or less."
+"When Noxious Dragon dies, you may destroy target creature with mana value 3 "
+"or less."
 msgstr ""
 
 #: ../../FRF.rst:444
@@ -1539,7 +1536,7 @@ msgstr ""
 msgid ""
 "Target creature's controller reveals a card at random from their hand. "
 "Friendly Fire deals damage to that creature and that player equal to the "
-"revealed card's converted mana cost."
+"revealed card's mana value."
 msgstr ""
 
 #: ../../FRF.rst:572
@@ -1578,7 +1575,7 @@ msgstr ""
 #: ../../FRF.rst:579
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-"Activate this ability only during your turn."
+"Activate only during your turn."
 msgstr ""
 
 #: ../../FRF.rst:584
@@ -1772,9 +1769,7 @@ msgid ""
 msgstr ""
 
 #: ../../FRF.rst:649
-msgid ""
-"Target creature gains double strike until end of turn. (It deals both first-"
-"strike and regular combat damage.)"
+msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../FRF.rst:651
@@ -1856,8 +1851,8 @@ msgstr ""
 
 #: ../../FRF.rst:679
 msgid ""
-"Search your library for a basic land card, reveal it, then shuffle your "
-"library and put that card on top of it."
+"Search your library for a basic land card, reveal it, then shuffle and put "
+"that card on top."
 msgstr ""
 
 #: ../../FRF.rst:686
@@ -2038,8 +2033,8 @@ msgstr ""
 #: ../../FRF.rst:745
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
-"tapped, then shuffle your library. Bolster 1. (Choose a creature with the "
-"least toughness among creatures you control and put a +1/+1 counter on it.)"
+"tapped, then shuffle. Bolster 1. (Choose a creature with the least toughness "
+"among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../FRF.rst:750
@@ -2205,8 +2200,8 @@ msgstr ""
 
 #: ../../FRF.rst:805
 msgid ""
-"Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
-"you control a creature with power 4 or greater."
+"Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate only if you control a "
+"creature with power 4 or greater."
 msgstr ""
 
 #: ../../FRF.rst:812

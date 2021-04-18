@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: 2021-03-28 12:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
@@ -577,9 +577,13 @@ msgstr ""
 # 51ee768d4b5f4ec08b9483f88c4a236e
 # cde4cdaeab854441baf7bfaf5b59268a
 #: ../../BNG.rst:135
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two enchantment cards, reveal them, and put "
+#| "them into your hand. Then shuffle your library."
 msgid ""
-"Search your library for up to two enchantment cards, reveal them, and put "
-"them into your hand. Then shuffle your library."
+"Search your library for up to two enchantment cards, reveal them, put them "
+"into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty uroków, ujawnij je i "
 "umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
@@ -1200,10 +1204,14 @@ msgstr ""
 # bffcf57164ae41c08c3d6bbbe2e7ec30
 # fb2ba3acf331469ba378d5cd1d5b9c2a
 #: ../../BNG.rst:305
+#, fuzzy
+#| msgid ""
+#| "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by "
+#| "it on top of their owners' libraries, then those players shuffle their "
+#| "libraries."
 msgid ""
 "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by it "
-"on top of their owners' libraries, then those players shuffle their "
-"libraries."
+"on top of their owners' libraries, then those players shuffle."
 msgstr ""
 "|mana_u|: Umieść tego stwora i każdego stwora blokującego go lub blokowanego "
 "przez niego na wierzchach bibliotek ich właścicieli, po czym owi gracze "
@@ -1691,10 +1699,15 @@ msgstr ""
 
 # 82f9c9ee372f4c24a80f57c52039931e
 #: ../../BNG.rst:431
+#, fuzzy
+#| msgid ""
+#| "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of "
+#| "your library and put that card into your hand. You lose life equal to "
+#| "that card's converted mana cost."
 msgid ""
 "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your "
 "library and put that card into your hand. You lose life equal to that card's "
-"converted mana cost."
+"mana value."
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, ujawnij wierzchnią kartę "
 "twojej biblioteki i umieść ją w twojej ręce. Strać tyle żyć, ile wynosi "
@@ -2048,10 +2061,15 @@ msgstr ""
 # 36d39ce18a1a47e88697ed3c2122f71c
 # 59f18bde4a6c492d9ad146f06b402992
 #: ../../BNG.rst:531
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target "
+#| "creature. That creature can't block this combat. Activate this ability "
+#| "only if Forgestoker Dragon is attacking."
 msgid ""
 "|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. "
-"That creature can't block this combat. Activate this ability only if "
-"Forgestoker Dragon is attacking."
+"That creature can't block this combat. Activate only if Forgestoker Dragon "
+"is attacking."
 msgstr ""
 "|mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu stworowi 1 obrażenie. Ów "
 "stwór nie może blokować w tej potyczce. Możesz aktywować tę zdolność tylko "
@@ -2494,10 +2512,15 @@ msgstr "Zasięg"
 # 68fade83d4d1479cb27e12618743209a
 # d9a3544b89154b3da2b2fe62a7b49090
 #: ../../BNG.rst:655
+#, fuzzy
+#| msgid ""
+#| "|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, "
+#| "where X is the number of creature cards in your graveyard. Activate this "
+#| "ability only once each turn."
 msgid ""
 "|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where "
-"X is the number of creature cards in your graveyard. Activate this ability "
-"only once each turn."
+"X is the number of creature cards in your graveyard. Activate only once each "
+"turn."
 msgstr ""
 "|mana_3|\\ |mana_b|: Ten stwór dostaje do końca tury +X/+X, gdzie X jest "
 "liczbą kart stworów w twoim cmentarzu. Możesz aktywować tę zdolność tylko "
@@ -2695,11 +2718,17 @@ msgstr ""
 # 2fbc6c1ba82a402eb13453d22fa5b65a
 # 78aea314e89a4902b3b2d213dc1f7f9f
 #: ../../BNG.rst:709
+#, fuzzy
+#| msgid ""
+#| "Search your library for up to two basic land cards, reveal those cards, "
+#| "and put one onto the battlefield tapped and the other into your hand. "
+#| "Shuffle your library, then scry 1. (Look at the top card of your library. "
+#| "You may put that card on the bottom of your library.)"
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, and "
-"put one onto the battlefield tapped and the other into your hand. Shuffle "
-"your library, then scry 1. (Look at the top card of your library. You may "
-"put that card on the bottom of your library.)"
+"put one onto the battlefield tapped and the other into your hand. Shuffle, "
+"then scry 1. (Look at the top card of your library. You may put that card on "
+"the bottom of your library.)"
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, ujawnij "
 "je i umieść jedną z nich przekręconą na polu bitwy, a drugą umieść w twojej "
@@ -3057,10 +3086,14 @@ msgstr ""
 # 64b379dd227341958a31f41689bdb663
 # 66476c8f2054464898ae91ecea8573bf
 #: ../../BNG.rst:805
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a creature spell, you may search your library for a "
+#| "Forest or Plains card, put it onto the battlefield tapped, then shuffle "
+#| "your library."
 msgid ""
 "Whenever you cast a creature spell, you may search your library for a Forest "
-"or Plains card, put it onto the battlefield tapped, then shuffle your "
-"library."
+"or Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Ilekroć rzucisz czar stwora, możesz wyszukać w twojej bibliotece kartę Lasu "
 "lub Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasuj twoją "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -244,7 +244,7 @@ msgstr ""
 #: ../../GRN.rst:86
 msgid ""
 ":mtgtip:`Inspiring Unicorn<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/e/ce8b745e-1e62-4c54-9e73-e2d0a40568a0.jpg?1572892578|"
+"border_crop/front/c/e/ce8b745e-1e62-4c54-9e73-e2d0a40568a0.jpg?1618252813|"
 "https://scryfall.com/card/grn/16/inspiring-unicorn?utm_source=api>`"
 msgstr ""
 
@@ -524,7 +524,7 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:199
-msgid "Counter target spell with converted mana cost 4 or greater."
+msgid "Counter target spell with mana value 4 or greater."
 msgstr ""
 
 #: ../../GRN.rst:208
@@ -972,9 +972,9 @@ msgstr ""
 
 #: ../../GRN.rst:379
 msgid ""
-"Choose a creature card with converted mana cost 1 in your graveyard, then do "
-"the same for creature cards with converted mana costs 2 and 3. Return those "
-"cards to the battlefield."
+"Choose a creature card with mana value 1 in your graveyard, then do the same "
+"for creature cards with mana value 2 and 3. Return those cards to the "
+"battlefield."
 msgstr ""
 
 #: ../../GRN.rst:384
@@ -1023,9 +1023,9 @@ msgstr ""
 
 #: ../../GRN.rst:397
 msgid ""
-"Undergrowth — Search your library for a black card with converted mana cost "
-"less than or equal to the number of creature cards in your graveyard, reveal "
-"it, put it into your hand, then shuffle your library."
+"Undergrowth — Search your library for a black card with mana value less than "
+"or equal to the number of creature cards in your graveyard, reveal it, put "
+"it into your hand, then shuffle."
 msgstr ""
 
 #: ../../GRN.rst:404
@@ -1105,7 +1105,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals "
 "their hand. You choose a nonland card from it. That player discards that "
-"card. Activate this ability only any time you could cast a sorcery."
+"card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../GRN.rst:430
@@ -1141,7 +1141,7 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:441
-msgid "Destroy all creatures with converted mana cost 3 or less."
+msgid "Destroy all creatures with mana value 3 or less."
 msgstr ""
 
 #: ../../GRN.rst:448
@@ -1184,9 +1184,8 @@ msgstr ""
 #: ../../GRN.rst:455
 msgid ""
 "|mana_1|, Sacrifice another creature: Put a +1/+1 counter on Undercity "
-"Necrolisk. It gains menace until end of turn. Activate this ability only any "
-"time you could cast a sorcery. (It can't be blocked except by two or more "
-"creatures.)"
+"Necrolisk. It gains menace until end of turn. Activate only as a sorcery. "
+"(It can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../GRN.rst:460
@@ -1331,7 +1330,7 @@ msgstr ""
 #: ../../GRN.rst:511
 msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
-"until end of turn, where X is that spell's converted mana cost."
+"until end of turn, where X is that spell's mana value."
 msgstr ""
 
 #: ../../GRN.rst:522
@@ -1688,7 +1687,7 @@ msgstr ""
 #: ../../GRN.rst:659
 msgid ""
 "Search your library for up to two basic land cards and/or Gate cards, put "
-"them onto the battlefield tapped, then shuffle your library."
+"them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../GRN.rst:668
@@ -1732,7 +1731,7 @@ msgstr ""
 msgid ""
 "When District Guide enters the battlefield, you may search your library for "
 "a basic land card or Gate card, reveal it, put it into your hand, then "
-"shuffle your library."
+"shuffle."
 msgstr ""
 
 #: ../../GRN.rst:680
@@ -1791,9 +1790,9 @@ msgstr ""
 msgid ""
 "Undergrowth — When you cast this spell, reveal the top X cards of your "
 "library, where X is the number of creature cards in your graveyard. You may "
-"put a green permanent card with converted mana cost X or less from among "
-"them onto the battlefield. Put the rest on the bottom of your library in a "
-"random order."
+"put a green permanent card with mana value X or less from among them onto "
+"the battlefield. Put the rest on the bottom of your library in a random "
+"order."
 msgstr ""
 
 #: ../../GRN.rst:702
@@ -2061,7 +2060,7 @@ msgstr ""
 msgid ""
 "Destroy target permanent an opponent controls. Its controller may search "
 "their library for a basic land card, put it onto the battlefield, then "
-"shuffle their library."
+"shuffle."
 msgstr ""
 
 #: ../../GRN.rst:820
@@ -2310,7 +2309,7 @@ msgstr ""
 #: ../../GRN.rst:909
 msgid ""
 "Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample "
-"until end of turn. Activate this ability only once each turn."
+"until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../GRN.rst:916
@@ -2537,7 +2536,7 @@ msgstr ""
 #: ../../GRN.rst:987
 msgid ""
 "|mana_x|: Lazav, the Multifarious becomes a copy of target creature card in "
-"your graveyard with converted mana cost X, except its name is Lazav, the "
+"your graveyard with mana value X, except its name is Lazav, the "
 "Multifarious, it's legendary in addition to its other types, and it has this "
 "ability."
 msgstr ""
@@ -2556,7 +2555,7 @@ msgstr ""
 #: ../../GRN.rst:993
 msgid ""
 "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you control "
-"with converted mana cost X. You may choose new targets for the copy."
+"with mana value X. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../GRN.rst:1000
@@ -2963,9 +2962,8 @@ msgstr ""
 #: ../../GRN.rst:1151
 msgid ""
 "Choose a card name. Search target opponent's graveyard, hand, and library "
-"for up to four cards with that name and exile them. That player shuffles "
-"their library, then draws a card for each card exiled from their hand this "
-"way."
+"for up to four cards with that name and exile them. That player shuffles, "
+"then draws a card for each card exiled from their hand this way."
 msgstr ""
 
 #: ../../GRN.rst:1160
@@ -2982,8 +2980,7 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1157
-msgid ""
-"−3: Destroy target nonland permanent with converted mana cost 3 or less."
+msgid "−3: Destroy target nonland permanent with mana value 3 or less."
 msgstr ""
 
 #: ../../GRN.rst:1159
@@ -3139,9 +3136,9 @@ msgstr ""
 
 #: ../../GRN.rst:1219
 msgid ""
-"Each opponent returns a nonland permanent they control with the highest "
-"converted mana cost among permanents they control to its owner's hand, then "
-"discards a card."
+"Each opponent returns a nonland permanent they control with the highest mana "
+"value among permanents they control to its owner's hand, then discards a "
+"card."
 msgstr ""
 
 #: ../../GRN.rst:1224
@@ -3153,8 +3150,8 @@ msgstr ""
 
 #: ../../GRN.rst:1223
 msgid ""
-"Copy target instant or sorcery spell with converted mana cost 4 or less. You "
-"may choose new targets for the copy."
+"Copy target instant or sorcery spell with mana value 4 or less. You may "
+"choose new targets for the copy."
 msgstr ""
 
 #: ../../GRN.rst:1228
@@ -3203,7 +3200,7 @@ msgstr ""
 #: ../../GRN.rst:1239
 msgid ""
 "Search your library for a basic Forest or Plains card, reveal it, put it "
-"into your hand, then shuffle your library."
+"into your hand, then shuffle."
 msgstr ""
 
 #: ../../GRN.rst:1244
@@ -3262,7 +3259,7 @@ msgstr ""
 #: ../../GRN.rst:1259
 msgid ""
 "Search your library for an instant card and/or a sorcery card, reveal them, "
-"put them into your hand, then shuffle your library."
+"put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../GRN.rst:1264
@@ -3781,7 +3778,7 @@ msgstr ""
 msgid ""
 "Return target creature to its owner's hand. You may search your library and/"
 "or graveyard for a card named Ral, Caller of Storms, reveal it, and put it "
-"into your hand. If you search your library this way, shuffle it."
+"into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../GRN.rst:1460
@@ -3869,7 +3866,7 @@ msgid ""
 "Destroy target creature. You gain life equal to its toughness. You may "
 "search your library and/or graveyard for a card named Vraska, Regal Gorgon, "
 "reveal it, and put it into your hand. If you search your library this way, "
-"shuffle it."
+"shuffle."
 msgstr ""
 
 #: ../../GRN.rst:1491
