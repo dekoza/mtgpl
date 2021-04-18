@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -1209,7 +1209,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, wygnaj tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1 , ile wynosi "
-"siła tej karty. Aktywuj jako obrzęd.)"
+"siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:390
 msgid ""
@@ -1283,7 +1283,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_6|\\ |mana_b| (|mana_6|\\ |mana_b|, wygnaj tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1 , ile wynosi "
-"siła tej karty. Aktywuj jako obrzęd.)"
+"siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:416
 msgid ""
@@ -1333,7 +1333,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, wygnaj tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1 , ile wynosi "
-"siła tej karty. Aktywuj jako obrzęd.)"
+"siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:436
 msgid ""
@@ -1836,7 +1836,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:612
 msgid ""
@@ -1868,7 +1868,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_5|\\ |mana_g| (|mana_5|\\ |mana_g|, wygnaj tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1 , ile wynosi "
-"siła tej karty. Aktywuj jako obrzęd.)"
+"siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:620
 msgid ""
@@ -1950,7 +1950,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_3|\\ |mana_g|\\ |mana_g| (|mana_3|\\ |mana_g|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:644
 msgid ""
@@ -1982,7 +1982,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_5|\\ |mana_g|\\ |mana_g| (|mana_5|\\ |mana_g|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:658
 msgid ""
@@ -2172,8 +2172,6 @@ msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
 #: ../../RTR.rst:709
-#, fuzzy
-#| msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgid "Destroy target nonland permanent with mana value 3 or less."
 msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 
@@ -2434,7 +2432,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_3|\\ |mana_b|\\ |mana_g| (|mana_3|\\ |mana_b|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:806
 msgid ""
@@ -3134,7 +3132,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_1|\\ |mana_b|\\ |mana_g| (|mana_1|\\ |mana_b|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../RTR.rst:1048
 msgid ""
@@ -3502,7 +3500,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_0| (|mana_0|, wygnaj tę kartę z twojego cmentarza: Umieść na "
 "wskazanym stworze tyle znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../RTR.rst:1172
 msgid ""

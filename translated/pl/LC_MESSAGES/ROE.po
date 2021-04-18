@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -324,7 +324,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_2| (|mana_2|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:103 ../../ROE.rst:169 ../../ROE.rst:545 ../../ROE.rst:1243
 msgid "LEVEL 1-4"
@@ -514,7 +514,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:171 ../../ROE.rst:1251
 msgid "1/4"
@@ -564,7 +564,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_4| (|mana_4|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:193 ../../ROE.rst:225 ../../ROE.rst:843 ../../ROE.rst:1175
 msgid "LEVEL 1-3"
@@ -627,7 +627,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_3| (|mana_3|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:227 ../../ROE.rst:939
 msgid "2/3"
@@ -873,7 +873,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_w| (|mana_w|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:325
 msgid "LEVEL 2-6"
@@ -944,7 +944,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_1| (|mana_1|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:355
 msgid "LEVEL 6-11"
@@ -1165,7 +1165,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:463 ../../ROE.rst:569 ../../ROE.rst:945
 msgid "2/4"
@@ -1290,7 +1290,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:531 ../../ROE.rst:539
 msgid "Hada Spy Patrol can't be blocked."
@@ -1350,7 +1350,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_u| (|mana_u|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:567
 msgid "LEVEL 4-6"
@@ -1927,7 +1927,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:779
 msgid "|mana_b|, |tap|: Target creature gets -2/-2 until end of turn."
@@ -2055,7 +2055,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:823
 msgid "4/3"
@@ -2329,7 +2329,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_3|\\ |mana_r| (|mana_3|\\ |mana_r|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:941
 msgid "|tap|: Brimstone Mage deals 1 damage to any target."
@@ -2568,7 +2568,7 @@ msgid ""
 "sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_r| (|mana_r|: Umieść na tym znacznik poziomu. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../ROE.rst:1019
 msgid "LEVEL 4-7"
@@ -2637,7 +2637,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:1049
 msgid "LEVEL 1-5"
@@ -2983,7 +2983,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:1192
 msgid ""
@@ -3149,7 +3149,7 @@ msgid ""
 "this. Level up only as a sorcery.)"
 msgstr ""
 "Podnieś poziom |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|: Umieść na tym "
-"znacznik poziomu. Aktywuj jako obrzęd.)"
+"znacznik poziomu. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:1245
 msgid "1/2"
@@ -3652,7 +3652,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:1438
 msgid ""
@@ -3735,7 +3735,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ROE.rst:1466
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -89,7 +89,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../2XM.rst:32
 msgid ""
@@ -144,10 +144,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:43
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost "
-#| "1 or less from your graveyard to your hand."
 msgid ""
 "|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less "
 "from your graveyard to your hand."
@@ -565,11 +561,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:175
-#, fuzzy
-#| msgid ""
-#| "When Stoneforge Mystic enters the battlefield, you may search your "
-#| "library for an Equipment card, reveal it, put it into your hand, then "
-#| "shuffle your library."
 msgid ""
 "When Stoneforge Mystic enters the battlefield, you may search your library "
 "for an Equipment card, reveal it, put it into your hand, then shuffle."
@@ -1464,7 +1455,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
+"tylko jako obrzęd."
 
 #: ../../2XM.rst:448
 msgid ""
@@ -1642,11 +1633,6 @@ msgstr ""
 "artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../2XM.rst:493
-#, fuzzy
-#| msgid ""
-#| "|mana_x|\\ |mana_b|: Put target artifact or creature card with converted "
-#| "mana cost X from an opponent's graveyard onto the battlefield under your "
-#| "control tapped. Then that player mills X cards."
 msgid ""
 "|mana_x|\\ |mana_b|: Put target artifact or creature card with mana value X "
 "from an opponent's graveyard onto the battlefield under your control tapped. "
@@ -2324,7 +2310,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_0|: Dołącz wskazane Wyposażenie pod twoim władaniem do tego stwora. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #: ../../2XM.rst:700
 msgid ""
@@ -2812,10 +2798,6 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../2XM.rst:835
-#, fuzzy
-#| msgid ""
-#| "Search your library for a land card, put that card onto the battlefield, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for a land card, put that card onto the battlefield, "
 "then shuffle."
@@ -3795,8 +3777,8 @@ msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only "
 "as a sorcery."
 msgstr ""
-"|mana_1|\\ |mana_rg|: Umieść znacznik +1/+1 na tym stworze. Aktywuj jako "
-"obrzęd."
+"|mana_1|\\ |mana_rg|: Umieść znacznik +1/+1 na tym stworze. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../2XM.rst:1154
 msgid ""
@@ -4934,7 +4916,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../2XM.rst:1508
 msgid ""
@@ -5422,8 +5404,8 @@ msgid ""
 "battlefield if the creature leaves.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd. Ta karta wchodzi na pole bitwy odłączona i zostaje na "
-"polu bitwy po opuszczeniu go przez stwora.)"
+"Aktywuj tylko jako obrzęd. Ta karta wchodzi na pole bitwy odłączona i "
+"zostaje na polu bitwy po opuszczeniu go przez stwora.)"
 
 #: ../../2XM.rst:1676
 msgid ""

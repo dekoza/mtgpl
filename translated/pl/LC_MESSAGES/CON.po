@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:13+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -138,11 +138,6 @@ msgid ""
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+2. Odkręć je."
 
 #: ../../CON.rst:49
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -704,7 +699,7 @@ msgstr ""
 "Odkopanie |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../CON.rst:240
 msgid ""
@@ -745,7 +740,7 @@ msgstr ""
 "Odkopanie |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../CON.rst:250
 msgid ""
@@ -827,7 +822,7 @@ msgstr ""
 "Odkopanie |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../CON.rst:278
 msgid ""
@@ -1042,7 +1037,7 @@ msgstr ""
 "Odkopanie |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../CON.rst:350
 msgid ""
@@ -2054,7 +2049,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../CON.rst:712
 msgid ""

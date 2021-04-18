@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -113,11 +113,6 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:33
-#, fuzzy
-#| msgid ""
-#| "Return target permanent card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield. If this spell was cast from a graveyard, "
-#| "you may copy this spell and may choose a new target for the copy."
 msgid ""
 "Return target permanent card with mana value 3 or less from your graveyard "
 "to the battlefield. If this spell was cast from a graveyard, you may copy "
@@ -1943,10 +1938,8 @@ msgstr ""
 "kroku utrzymania możesz zakryć tego stwora.\""
 
 #: ../../C19.rst:613
-#, fuzzy
-#| msgid "Morph |mana_3|\\ |mana_g|\\ |mana_g|"
 msgid "Morph |mana_1|\\ |mana_u|"
-msgstr "Przemiana |mana_3|\\ |mana_g|\\ |mana_g|"
+msgstr "Przemiana |mana_1|\\ |mana_u|"
 
 #: ../../C19.rst:620
 msgid ""
@@ -2197,11 +2190,6 @@ msgstr ""
 "artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../C19.rst:683
-#, fuzzy
-#| msgid ""
-#| "|mana_x|\\ |mana_b|: Put target artifact or creature card with converted "
-#| "mana cost X from an opponent's graveyard onto the battlefield under your "
-#| "control tapped. Then that player mills X cards."
 msgid ""
 "|mana_x|\\ |mana_b|: Put target artifact or creature card with mana value X "
 "from an opponent's graveyard onto the battlefield under your control tapped. "

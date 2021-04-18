@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:13+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk1/pl/>\n"
 "Language: pl\n"
@@ -130,12 +130,6 @@ msgstr ""
 "każdego stwora pod swoim władaniem."
 
 #: ../../GK1.rst:35
-#, fuzzy
-#| msgid ""
-#| "Transmute |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, "
-#| "Discard this card: Search your library for a card with the same converted "
-#| "mana cost as this card, reveal it, and put it into your hand. Then "
-#| "shuffle your library. Transmute only as a sorcery.)"
 msgid ""
 "Transmute |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, "
 "Discard this card: Search your library for a card with the same mana value "
@@ -144,8 +138,8 @@ msgid ""
 msgstr ""
 "Transmutuj |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, "
 "odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę o takim samym skrócie "
-"many co ta karta, ujawnij ją i umieść w twojej ręce. Następnie przetasuj "
-"twoją biblioteką. Transmutuj tylko jako obrzęd.)"
+"many co ta karta, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. "
+"Transmutuj tylko jako obrzęd.)"
 
 #: ../../GK1.rst:40
 msgid ""
@@ -285,20 +279,12 @@ msgid "(|mana_ub| can be paid with either |mana_u| or |mana_b|.)"
 msgstr "(|mana_ub| można opłacić używając |mana_u| albo |mana_b|.)"
 
 #: ../../GK1.rst:79
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_u|: Target player draws a card. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_u|: Target player draws a card. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../GK1.rst:81
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_b|: Target player discards a card. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_b|: Target player discards a card. Activate only as a "
 "sorcery."
@@ -1020,7 +1006,7 @@ msgid ""
 msgstr ""
 "Czystka |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
-"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj jako obrzęd.)"
+"znaczników +1/+1 , ile wynosi siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../GK1.rst:324
 msgid ""
@@ -1045,8 +1031,6 @@ msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
 #: ../../GK1.rst:329
-#, fuzzy
-#| msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgid "Destroy target nonland permanent with mana value 3 or less."
 msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 

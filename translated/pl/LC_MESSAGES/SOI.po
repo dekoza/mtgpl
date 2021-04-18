@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
 "Language: pl\n"
@@ -200,8 +200,8 @@ msgid ""
 "Sacrifice another permanent: Attach Bound by Moonsilver to target creature. "
 "Activate only as a sorcery and only once each turn."
 msgstr ""
-"Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Aktywuj jako "
-"obrzęd. Możesz aktywować tylko raz na turę."
+"Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Aktywuj tylko "
+"jako obrzęd. Możesz aktywować tylko raz na turę."
 
 #: ../../SOI.rst:66
 msgid ""
@@ -270,7 +270,7 @@ msgid ""
 "1/1 white Spirit creature token with flying. Activate only as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"białego stwora Duch 1/1 z lataniem. Aktywuj jako obrzęd."
+"białego stwora Duch 1/1 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../SOI.rst:82
 msgid ""
@@ -420,7 +420,7 @@ msgid ""
 "battlefield attached to target creature. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza na pole bitwy "
-"dołączoną do wskazanego stwora. Aktywuj jako obrzęd."
+"dołączoną do wskazanego stwora. Aktywuj tylko jako obrzęd."
 
 #: ../../SOI.rst:132
 msgid ""
@@ -589,7 +589,7 @@ msgid ""
 "two 1/1 white Spirit creature tokens with flying. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz dwa żetony "
-"białego stwora Duch 1/1 z lataniem. Aktywuj jako obrzęd."
+"białego stwora Duch 1/1 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../SOI.rst:184
 msgid ""
@@ -1625,7 +1625,7 @@ msgid ""
 "the battlefield transformed. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Umieść tę kartę z twojego cmentarza "
-"transformowaną na polu bitwy. Aktywuj jako obrzęd."
+"transformowaną na polu bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../SOI.rst:516
 msgid ""
@@ -2163,7 +2163,7 @@ msgid ""
 "Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"czarnego stwora Zombi 2/2. Aktywuj jako obrzęd."
+"czarnego stwora Zombi 2/2. Aktywuj tylko jako obrzęd."
 
 #: ../../SOI.rst:674
 msgid ""
@@ -2725,7 +2725,7 @@ msgid ""
 "two cards from their hand. Activate only as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|, poświęć ten urok: Wskazany przeciwnik wygania dwie "
-"karty ze swojej ręki. Aktywuj jako obrzęd."
+"karty ze swojej ręki. Aktywuj tylko jako obrzęd."
 
 #: ../../SOI.rst:850
 msgid ""
@@ -4998,7 +4998,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../SOI.rst:1544
 msgid ""
@@ -5204,7 +5204,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../SOI.rst:1620
 msgid ""

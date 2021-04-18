@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -1051,7 +1051,7 @@ msgstr ""
 "Odkopanie |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../MM3.rst:324
 msgid ""
@@ -1127,7 +1127,7 @@ msgid ""
 msgstr ""
 "Odkopanie |mana_b| (|mana_b|: Przywróć tę kartę z twojego cmentarza na pole "
 "bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku najbliższego kroku "
-"końcowego lub gdyby miała opuścić pole bitwy. Aktywuj jako obrzęd.)"
+"końcowego lub gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../MM3.rst:354
 msgid ""
@@ -1177,7 +1177,7 @@ msgstr ""
 "Odkopanie |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../MM3.rst:368
 msgid ""
@@ -1857,7 +1857,7 @@ msgstr ""
 "Odkopanie |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../MM3.rst:578
 msgid ""
@@ -1929,7 +1929,7 @@ msgstr ""
 "Odkopanie |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../MM3.rst:600
 msgid ""
@@ -2450,8 +2450,6 @@ msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
 #: ../../MM3.rst:763
-#, fuzzy
-#| msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgid "Destroy target nonland permanent with mana value 3 or less."
 msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 
@@ -2859,7 +2857,7 @@ msgstr ""
 "Odkopanie |mana_3|\\ |mana_b|\\ |mana_r| (|mana_3|\\ |mana_b|\\ |mana_r|: "
 "Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
 "Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
-"pole bitwy. Aktywuj jako obrzęd.)"
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../MM3.rst:900
 msgid ""
@@ -3013,7 +3011,7 @@ msgstr ""
 "Odkopanie |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Przywróć tę kartę z "
 "twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
-"jako obrzęd.)"
+"tylko jako obrzęd.)"
 
 #: ../../MM3.rst:952
 msgid ""

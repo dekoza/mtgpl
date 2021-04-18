@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:27+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -591,7 +591,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ELD.rst:194
 msgid ""
@@ -1593,7 +1593,7 @@ msgid ""
 "your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|, |tap|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole bitwy. Aktywuj jako obrzęd."
+"twojego cmentarza na pole bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../ELD.rst:530
 msgid ""
@@ -2311,7 +2311,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ELD.rst:760
 msgid ""
@@ -3464,7 +3464,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_5| (|mana_5|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ELD.rst:1096
 msgid ""
@@ -3851,7 +3851,8 @@ msgid ""
 "sorcery."
 msgstr ""
 "|mana_u|\\ |mana_b|: Wygnaj pięć wskazanych kart z cmentarza przeciwnika. "
-"Przywróć tę kartę z twojego cmentarza do twojej ręki. Aktywuj jako obrzęd."
+"Przywróć tę kartę z twojego cmentarza do twojej ręki. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../ELD.rst:1216
 msgid ""
@@ -4555,7 +4556,7 @@ msgid ""
 "only as a sorcery."
 msgstr ""
 "|tap|: Przenieś znacznik +1/+1 z tego artefaktu na wskazanego stwora. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #: ../../ELD.rst:1456
 msgid ""

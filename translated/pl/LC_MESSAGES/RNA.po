@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:27+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rna/pl/>\n"
 "Language: pl\n"
@@ -630,7 +630,7 @@ msgid ""
 "permanent. Activate only as a sorcery."
 msgstr ""
 "|mana_5|\\ |mana_u|: Zamień władanie nad tym urokiem i wskazanym nie-lądowym "
-"permanentem. Aktywuj jako obrzęd."
+"permanentem. Aktywuj tylko jako obrzęd."
 
 #: ../../RNA.rst:218
 msgid ""
@@ -1871,7 +1871,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_r|, poświęć tego stwora: Zyskaj do końca tury władanie nad "
 "wskazanym stworem o sile 3 lub mniejszej. Odkręć owego stwora. Zyskuje on "
-"pośpiech do końca tury. Aktywuj jako obrzęd."
+"pośpiech do końca tury. Aktywuj tylko jako obrzęd."
 
 #: ../../RNA.rst:624
 msgid ""
@@ -2632,7 +2632,7 @@ msgid ""
 "|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate only as "
 "a sorcery."
 msgstr ""
-"|mana_3|\\ |mana_b|, |tap|: Wskazany gracz odrzuca kartę. Aktywuj jako "
+"|mana_3|\\ |mana_b|, |tap|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../RNA.rst:863
@@ -3230,7 +3230,7 @@ msgid ""
 msgstr ""
 "|tap|, poświęć innego stwora: Wyszukaj w twojej bibliotece kartę stwora o "
 "skrócie many większym o 1 od skróconego kosztu many poświęconego stwora, "
-"umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj jako obrzęd."
+"umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj tylko jako obrzęd."
 
 #: ../../RNA.rst:1058
 msgid ""
@@ -4099,7 +4099,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../RNA.rst:1346
 msgid ""

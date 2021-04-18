@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -1701,7 +1701,7 @@ msgid ""
 "Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"czarnego stwora Zombi 2/2. Aktywuj jako obrzęd."
+"czarnego stwora Zombi 2/2. Aktywuj tylko jako obrzęd."
 
 #: ../../UMA.rst:546
 msgid ""
@@ -3639,20 +3639,12 @@ msgid "(|mana_ub| can be paid with either |mana_u| or |mana_b|.)"
 msgstr "(|mana_ub| można opłacić używając |mana_u| albo |mana_b|.)"
 
 #: ../../UMA.rst:1167
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_u|: Target player draws a card. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_u|: Target player draws a card. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_u|: Wskazany gracz dobiera kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../UMA.rst:1169
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_b|: Target player discards a card. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_b|: Target player discards a card. Activate only as a "
 "sorcery."

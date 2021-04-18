@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:26+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -1851,7 +1851,7 @@ msgstr ""
 
 #: ../../TSR.rst:589
 msgid "Morph |mana_1|\\ |mana_u|"
-msgstr ""
+msgstr "Przemiana |mana_1|\\ |mana_u|"
 
 #: ../../TSR.rst:596
 msgid ""
@@ -3110,7 +3110,7 @@ msgid ""
 "colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
 "|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
-"|colorless|\\ |mana_r|. Aktywuj jako obrzęd."
+"|colorless|\\ |mana_r|. Aktywuj tylko jako obrzęd."
 
 #: ../../TSR.rst:1006
 msgid ""
@@ -5471,18 +5471,12 @@ msgid "When Palace Jailer enters the battlefield, you become the monarch."
 msgstr "Kiedy ten stwór wejdzie na pole bitwy, stajesz się monarchą."
 
 #: ../../TSR.rst:1735
-#, fuzzy
-#| msgid ""
-#| "When Palace Jailer enters the battlefield, exile target creature an "
-#| "opponent controls until an opponent becomes the monarch. (That creature "
-#| "returns under its owner's control.)"
 msgid ""
 "When Palace Jailer enters the battlefield, exile target creature an opponent "
 "controls until an opponent becomes the monarch."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazanego stwora pod "
-"władaniem przeciwnika dopóki przeciwnik nie zostanie monarchą. (Ów stwór "
-"wróci pod władanie właściciela.)"
+"władaniem przeciwnika dopóki przeciwnik nie zostanie monarchą."
 
 #: ../../TSR.rst:1740
 msgid ""
@@ -6668,8 +6662,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2113
-#, fuzzy
-#| msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgid "Destroy target nonland permanent with mana value 3 or less."
 msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 

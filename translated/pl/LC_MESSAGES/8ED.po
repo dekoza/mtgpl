@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/8ed/pl/>\n"
 "Language: pl\n"
@@ -894,11 +894,6 @@ msgid ""
 msgstr ""
 
 #: ../../8ED.rst:325
-#, fuzzy
-#| msgid ""
-#| "Search target opponent's library for a creature card and put that card "
-#| "onto the battlefield under your control. Then that player shuffles their "
-#| "library."
 msgid ""
 "Search target opponent's library for a creature card and put that card onto "
 "the battlefield under your control. Then that player shuffles."
@@ -1203,10 +1198,6 @@ msgid ""
 msgstr ""
 
 #: ../../8ED.rst:447
-#, fuzzy
-#| msgid ""
-#| "Search your library for a blue instant card, reveal that card, and put it "
-#| "into your hand. Then shuffle your library."
 msgid ""
 "Search your library for a blue instant card, reveal that card, put it into "
 "your hand, then shuffle."
@@ -1908,18 +1899,13 @@ msgid ""
 msgstr ""
 
 #: ../../8ED.rst:693
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice a creature: Target opponent reveals their hand. You "
-#| "choose a card from it. That player discards that card. Activate this "
-#| "ability only any time you could cast a sorcery."
 msgid ""
 "|mana_b|, Sacrifice a creature: Target opponent reveals their hand. You "
 "choose a card from it. That player discards that card. Activate only as a "
 "sorcery."
 msgstr ""
 "|mana_b|, poświęć stwora: Wskazany przeciwnik ujawnia swoją rękę. Wybierz z "
-"niej kartę. Ów gracz odrzuca ową kartę. Aktywuj jako obrzęd."
+"niej kartę. Ów gracz odrzuca ową kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../8ED.rst:698
 msgid ""
@@ -2504,11 +2490,6 @@ msgid "Hammer of Bogardan deals 3 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../8ED.rst:905
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from "
-#| "your graveyard to your hand. Activate this ability only during your "
-#| "upkeep."
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from "
 "your graveyard to your hand. Activate only during your upkeep."
@@ -3997,10 +3978,6 @@ msgid ""
 msgstr ""
 
 #: ../../8ED.rst:1425
-#, fuzzy
-#| msgid ""
-#| "|mana_6|, |tap|: Search your library for a card and put that card into "
-#| "your hand. Then shuffle your library."
 msgid ""
 "|mana_6|, |tap|: Search your library for a card, put that card into your "
 "hand, then shuffle."

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-04-18 22:26+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -121316,8 +121316,8 @@ msgid ""
 "|mana_3|: Destroy CARDNAME. Only your opponents may activate this ability "
 "and only as a sorcery."
 msgstr ""
-"|tap|, poświęć CARDNAME: Wskazany przeciwnik odrzuca kartę. Aktywuj jako "
-"obrzęd."
+"|tap|, poświęć CARDNAME: Wskazany przeciwnik odrzuca kartę. Aktywuj tylko "
+"jako obrzęd."
 
 #. printed_ability, type_enchantment
 msgctxt "488182"
@@ -122912,7 +122912,7 @@ msgid ""
 "creature. Activate only as a sorcery."
 msgstr ""
 "|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na wskazanym stworze. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #. card_title
 msgctxt "488401"
@@ -128454,8 +128454,8 @@ msgid ""
 "|tap|: Put a +1/+1 counter on target creature. Activate only as a sorcery "
 "and only if you've cast an instant or sorcery spell this turn."
 msgstr ""
-"|tap|: Umieść znacznik +1/+1 na wskazanym stworze. Aktywuj jako obrzęd i "
-"tylko jeśli rzuciłeś w tej turze czar sztuczki lub obrzędu."
+"|tap|: Umieść znacznik +1/+1 na wskazanym stworze. Aktywuj tylko jako obrzęd "
+"i tylko jeśli rzuciłeś w tej turze czar sztuczki lub obrzędu."
 
 #. card_title
 msgctxt "489140"
@@ -130508,7 +130508,7 @@ msgid ""
 "of any color.'. Activate only as a sorcery."
 msgstr ""
 "Odrzuć tę kartę: Stwórz bezkolorowy żeton lądu mający ‘|tap|: Weź jedną manę "
-"dowolnego koloru.'. Aktywuj jako obrzęd."
+"dowolnego koloru.'. Aktywuj tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_artifact
 msgctxt "506849"
@@ -130520,8 +130520,8 @@ msgid ""
 msgstr ""
 "O ile w tej turze pod twoim władaniem nie umieszczono lądów i jest twoja "
 "tura, każda karta lądu w twojej ręce ma \"Odrzuć kartę: Stwórz bezkolorowy "
-"żeton lądu mający '|tap|: Weź jedną manę dowolnego koloru.' Aktywuj jako "
-"obrzęd.\""
+"żeton lądu mający '|tap|: Weź jedną manę dowolnego koloru.' Aktywuj tylko "
+"jako obrzęd.\""
 
 #. internal_ability
 #, fuzzy
@@ -130886,7 +130886,7 @@ msgid ""
 "Activate only as a sorcery and only if you have one or fewer cards in hand."
 msgstr ""
 "|mana_2|\\ |mana_b|: Przywróć CARDNAME z twojego cmentarza na pole bitwy. "
-"Aktywuj jako obrzęd i tylko jeśli masz co najwyżej jedną kartę w ręce."
+"Aktywuj tylko jako obrzęd i tylko jeśli masz co najwyżej jedną kartę w ręce."
 
 #. printed_ability, type_creature
 msgctxt "508267"
@@ -130896,7 +130896,7 @@ msgid ""
 "cards in hand."
 msgstr ""
 "|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
-"Aktywuj jako obrzęd i tylko jeśli masz co najwyżej jedną kartę w ręce."
+"Aktywuj tylko jako obrzęd i tylko jeśli masz co najwyżej jedną kartę w ręce."
 
 #. internal_ability
 #, fuzzy
@@ -131037,8 +131037,8 @@ msgid ""
 "that number. Activate only as a sorcery."
 msgstr ""
 "|mana_1|, odrzuć kartę: Wybierz losowo 1, 2, 3, 4, 5, 6, 7 lub 8. Stwórz "
-"żeton będący kopią losowego stwora o wylosowanym skrócie many. Aktywuj jako "
-"obrzęd."
+"żeton będący kopią losowego stwora o wylosowanym skrócie many. Aktywuj tylko "
+"jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -131156,7 +131156,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_r|: Zyskaj do końca tury władanie nad wskazanym stworem. "
-"Odkręć go. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
+"Odkręć go. Zyskuje on pośpiech do końca tury. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -131481,8 +131481,8 @@ msgid ""
 "sorcery."
 msgstr ""
 "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten permanent i przywróć "
-"go transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj jako "
-"obrzęd."
+"go transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj "
+"tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "509483"
@@ -131492,8 +131492,8 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten permanent i przywróć "
-"go transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj jako "
-"obrzęd."
+"go transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj "
+"tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -132033,7 +132033,7 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Nazwij kartę, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Jeśli owa karta ma wybraną nazwę, poświęć CARDNAME i dobierz "
-"trzy karty. Aktywuj jako obrzęd."
+"trzy karty. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_artifact
 msgctxt "510560"
@@ -132044,7 +132044,7 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Nazwij kartę, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Jeśli owa karta ma wybraną nazwę, poświęć ten artefakt i dobierz "
-"trzy karty. Aktywuj jako obrzęd."
+"trzy karty. Aktywuj tylko jako obrzęd."
 
 #. maybe_hidden
 #, fuzzy
@@ -132083,7 +132083,7 @@ msgid ""
 "your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|, |tap|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole bitwy. Aktywuj jako obrzęd."
+"twojego cmentarza na pole bitwy. Aktywuj tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "510721"
@@ -132498,7 +132498,7 @@ msgid ""
 msgstr ""
 "|mana_x|\\ |mana_bg|, |tap|, poświęć innego stwora: Wyszukaj w twojej "
 "bibliotece kartę stwora o skrócie many X lub mniejszym, umieść ją na polu "
-"bitwy, po czym przetasuj. Aktywuj jako obrzęd."
+"bitwy, po czym przetasuj. Aktywuj tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "511453"
@@ -133310,7 +133310,7 @@ msgstr ""
 "|mana_2|, |tap|, poświęć stwora: Wyszukaj w twojej bibliotece kartę stwora "
 "współdzielącą typ stwora z poświęconym i o skrócie many większym o 1 od jego "
 "skróconego kosztu many. Umieść ową kartę na polu bitwy, po czym przetasuj. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -133327,8 +133327,8 @@ msgid ""
 "vigilance. Activate only as a sorcery."
 msgstr ""
 "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, poświęć CARDNAME: Stwórz żeton "
-"białego stwora Anioł Wojownik 4/4 z lataniem i czujnością. Aktywuj jako "
-"obrzęd."
+"białego stwora Anioł Wojownik 4/4 z lataniem i czujnością. Aktywuj tylko "
+"jako obrzęd."
 
 #. printed_ability, type_land
 msgctxt "512469"
@@ -133338,7 +133338,7 @@ msgid ""
 "flying and vigilance. Activate only as a sorcery."
 msgstr ""
 "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, poświęć ten ląd: Stwórz żeton białego "
-"stwora Anioł Wojownik 4/4 z lataniem i czujnością. Aktywuj jako obrzęd."
+"stwora Anioł Wojownik 4/4 z lataniem i czujnością. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -133357,7 +133357,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, poświęć CARDNAME: Stwórz "
 "żeton będący kopią wskazanego stwora pod twoim władaniem, ale wchodzi on na "
-"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj jako obrzęd."
+"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_land
 msgctxt "512473"
@@ -133369,7 +133369,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, poświęć ten ląd: Stwórz "
 "żeton będący kopią wskazanego stwora pod twoim władaniem, ale wchodzi on na "
-"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj jako obrzęd."
+"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj tylko jako obrzęd."
 
 #. maybe_hidden
 #, fuzzy
@@ -133759,7 +133759,7 @@ msgid ""
 "card with mana value X. Activate only as a sorcery and only once each turn."
 msgstr ""
 "|mana_x|, odrzuć kartę: Stwórz żeton będący kopią losowej karty stwora o "
-"skrócie many X. Aktywuj jako obrzęd i tylko raz na turę."
+"skrócie many X. Aktywuj tylko jako obrzęd i tylko raz na turę."
 
 #. internal_ability
 #, fuzzy
@@ -134214,7 +134214,8 @@ msgid ""
 "only as a sorcery."
 msgstr ""
 "|mana_1|, |tap|, usuń znacznik ładunku z CARDNAME: Zniszcz wskazanego "
-"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Aktywuj jako obrzęd."
+"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Aktywuj tylko jako "
+"obrzęd."
 
 #. printed_ability, type_artifact
 msgctxt "516226"
@@ -134224,7 +134225,8 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_1|, |tap|, usuń znacznik ładunku z tego artefaktu: Zniszcz wskazanego "
-"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Aktywuj jako obrzęd."
+"stwora. Jego władca tworzy żeton białego stwora Wół 2/4. Aktywuj tylko jako "
+"obrzęd."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "516306"
@@ -134304,7 +134306,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_b|, |tap|, poświęć CARDNAME: Wskazany przeciwnik ujawnia "
 "swoją rękę. Wybierz z niej nie-lądową kartę. Ów gracz odrzuca ową kartę. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "516630"
@@ -134315,7 +134317,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik ujawnia "
 "swoją rękę. Wybierz z niej nie-lądową kartę. Ów gracz odrzuca ową kartę. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -134330,7 +134332,7 @@ msgid ""
 "gains menace until end of turn. Activate only as a sorcery."
 msgstr ""
 "|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na CARDNAME. Do końca "
-"tury zyskuje on złowrogość. Aktywuj jako obrzęd."
+"tury zyskuje on złowrogość. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "516650"
@@ -134339,7 +134341,7 @@ msgid ""
 "Necrolisk. It gains menace until end of turn. Activate only as a sorcery."
 msgstr ""
 "|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na niniejszym "
-"stworze. Do końca tury zyskuje on złowrogość. Aktywuj jako obrzęd."
+"stworze. Do końca tury zyskuje on złowrogość. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -134532,7 +134534,7 @@ msgid ""
 "permanent. Activate only as a sorcery."
 msgstr ""
 "|mana_5|\\ |mana_u|: Zamień władanie nad CARDNAME i wskazanym nie-lądowym "
-"permanentem. Aktywuj jako obrzęd."
+"permanentem. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_enchantment
 msgctxt "517487"
@@ -134541,7 +134543,7 @@ msgid ""
 "permanent. Activate only as a sorcery."
 msgstr ""
 "|mana_5|\\ |mana_u|: Zamień władanie nad tym urokiem i wskazanym nie-lądowym "
-"permanentem. Aktywuj jako obrzęd."
+"permanentem. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -134585,7 +134587,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_r|, poświęć CARDNAME: Zyskaj do końca tury władanie nad "
 "wskazanym stworem o sile 3 lub mniejszej. Odkręć owego stwora. Do końca tury "
-"zyskuje on pośpiech. Aktywuj jako obrzęd."
+"zyskuje on pośpiech. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "517759"
@@ -134596,7 +134598,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_r|, poświęć tego stwora: Zyskaj do końca tury władanie nad "
 "wskazanym stworem o sile 3 lub mniejszej. Odkręć owego stwora. Zyskuje on "
-"pośpiech do końca tury. Aktywuj jako obrzęd."
+"pośpiech do końca tury. Aktywuj tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "517815"
@@ -134613,7 +134615,7 @@ msgid ""
 "|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate only as "
 "a sorcery."
 msgstr ""
-"|mana_3|\\ |mana_b|, |tap|: Wskazany gracz odrzuca kartę. Aktywuj jako "
+"|mana_3|\\ |mana_b|, |tap|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako "
 "obrzęd."
 
 #. internal_ability
@@ -134666,7 +134668,7 @@ msgid ""
 msgstr ""
 "|tap|, poświęć innego stwora: Wyszukaj w twojej bibliotece kartę stwora o "
 "skrócie many większym o 1 od skróconego kosztu many poświęconego stwora, "
-"umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj jako obrzęd."
+"umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_instant
 msgctxt "518298"
@@ -134916,7 +134918,7 @@ msgid ""
 "Demon creature token with flying. Activate only as a sorcery."
 msgstr ""
 "|tap|, zapłać 2 życia, odrzuć kartę, poświęć stwora: Stwórz żeton czarnego "
-"stwora Demon 5/5 z lataniem. Aktywuj jako obrzęd."
+"stwora Demon 5/5 z lataniem. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -135334,7 +135336,8 @@ msgid ""
 "Return CARDNAME from your graveyard to your hand. Activate only as a sorcery."
 msgstr ""
 "|mana_u|\\ |mana_b|: Wygnaj pięć wskazanych kart z cmentarza przeciwnika. "
-"Przywróć CARDNAME z twojego cmentarza do twojej ręki. Aktywuj jako obrzęd."
+"Przywróć CARDNAME z twojego cmentarza do twojej ręki. Aktywuj tylko jako "
+"obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "520920"
@@ -135344,7 +135347,8 @@ msgid ""
 "sorcery."
 msgstr ""
 "|mana_u|\\ |mana_b|: Wygnaj pięć wskazanych kart z cmentarza przeciwnika. "
-"Przywróć tę kartę z twojego cmentarza do twojej ręki. Aktywuj jako obrzęd."
+"Przywróć tę kartę z twojego cmentarza do twojej ręki. Aktywuj tylko jako "
+"obrzęd."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "521006"
@@ -135362,8 +135366,8 @@ msgid ""
 "|tap|: Move a +1/+1 counter from CARDNAME onto target creature. Activate "
 "only as a sorcery."
 msgstr ""
-"|tap|: Przenieś znacznik +1/+1 z CARDNAME na wskazanego stwora. Aktywuj jako "
-"obrzęd."
+"|tap|: Przenieś znacznik +1/+1 z CARDNAME na wskazanego stwora. Aktywuj "
+"tylko jako obrzęd."
 
 #. printed_ability, type_artifact
 msgctxt "521086"
@@ -135372,7 +135376,7 @@ msgid ""
 "only as a sorcery."
 msgstr ""
 "|tap|: Przenieś znacznik +1/+1 z tego artefaktu na wskazanego stwora. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -135799,8 +135803,8 @@ msgid ""
 "|tap|, Sacrifice CARDNAME: Target opponent discards a card. Activate only as "
 "a sorcery."
 msgstr ""
-"|tap|, poświęć CARDNAME: Wskazany przeciwnik odrzuca kartę. Aktywuj jako "
-"obrzęd."
+"|tap|, poświęć CARDNAME: Wskazany przeciwnik odrzuca kartę. Aktywuj tylko "
+"jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "523630"
@@ -135808,8 +135812,8 @@ msgid ""
 "|tap|, Sacrifice Liliana's Steward: Target opponent discards a card. "
 "Activate only as a sorcery."
 msgstr ""
-"|tap|, poświęć tego stwora: Wskazany przeciwnik odrzuca kartę. Aktywuj jako "
-"obrzęd."
+"|tap|, poświęć tego stwora: Wskazany przeciwnik odrzuca kartę. Aktywuj tylko "
+"jako obrzęd."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "523707"
@@ -136109,7 +136113,7 @@ msgid ""
 "only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|, poświęć stwora: Wskazany przeciwnik ujawnia swoją rękę. "
-"Wybierz z niej kartę. Ów gracz odrzuca ową kartę. Aktywuj jako obrzęd."
+"Wybierz z niej kartę. Ów gracz odrzuca ową kartę. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -136124,7 +136128,7 @@ msgid ""
 "Zombie creature token. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_b|, wygnaj CARDNAME z twojego cmentarza: Stwórz żeton "
-"czarnego stwora Zombi 2/2. Aktywuj jako obrzęd."
+"czarnego stwora Zombi 2/2. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "524630"
@@ -136133,7 +136137,7 @@ msgid ""
 "Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"czarnego stwora Zombi 2/2. Aktywuj jako obrzęd."
+"czarnego stwora Zombi 2/2. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -136534,7 +136538,7 @@ msgid ""
 "gets +3/+3 until end of turn. Activate only as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, poświęć Pustynię: Wskazany stwór "
-"dostaje do końca tury +3/+3. Aktywuj jako obrzęd."
+"dostaje do końca tury +3/+3. Aktywuj tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_land
 msgctxt "527256"
@@ -136543,8 +136547,8 @@ msgid ""
 "counters on target creature an opponent controls. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, poświęć Pustynię: Umieść dwa "
-"znaczniki -1/-1 na wskazanym stworze pod władaniem przeciwnika. Aktywuj jako "
-"obrzęd."
+"znaczniki -1/-1 na wskazanym stworze pod władaniem przeciwnika. Aktywuj "
+"tylko jako obrzęd."
 
 #. internal_ability, printed_ability, type_land
 msgctxt "527273"
@@ -136553,7 +136557,7 @@ msgid ""
 "control get +1/+1 until end of turn. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, poświęć Pustynię: Stwory pod twoim "
-"władaniem dostają do końca tury +1/+1. Aktywuj jako obrzęd."
+"władaniem dostają do końca tury +1/+1. Aktywuj tylko jako obrzęd."
 
 #. maybe_hidden
 #, fuzzy
@@ -136628,7 +136632,7 @@ msgid ""
 "where X is the number of snow lands you control. Activate only as a sorcery."
 msgstr ""
 "|tap|, poświęć CARDNAME: Wskazany stwór dostaje go końca tury -X/-X, gdzie X "
-"jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj jako obrzęd."
+"jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "527735"
@@ -136638,7 +136642,8 @@ msgid ""
 "only as a sorcery."
 msgstr ""
 "|tap|, poświęć tego stwora: Wskazany stwór dostaje go końca tury -X/-X, "
-"gdzie X jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj jako obrzęd."
+"gdzie X jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj tylko jako "
+"obrzęd."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "527790"
@@ -136695,7 +136700,7 @@ msgid ""
 "two +1/+1 counters on target creature. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, wygnaj kartę stwora z twojego cmentarza: Umieść "
-"dwa znaczniki +1/+1 na wskazanym stworze. Aktywuj jako obrzęd."
+"dwa znaczniki +1/+1 na wskazanym stworze. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -136868,9 +136873,9 @@ msgid ""
 "counter on each of up to two target creatures you control. They gain "
 "vigilance and lifelink until end of turn. Activate only as a sorcery."
 msgstr ""
-"|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, poświęć CARDNAME: Umieść znacznik +1/"
-"+1 na każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem. Do "
-"końca tury zyskują one czujność. Aktywuj jako obrzęd."
+"|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, poświęć CARDNAME: Umieść znacznik +1/+"
+"1 na każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem. Do "
+"końca tury zyskują one czujność. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_land
 msgctxt "528311"
@@ -136881,7 +136886,7 @@ msgid ""
 msgstr ""
 "|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, poświęć ten ląd: Umieść znacznik +1/+"
 "1 na każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem. Do "
-"końca tury zyskują one czujność. Aktywuj jako obrzęd."
+"końca tury zyskują one czujność. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -136897,7 +136902,8 @@ msgid ""
 "as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, poświęć ten ląd: Zadaje on "
-"wskazanemu graczowi 3 obrażenia. Ów gracz odrzuca kartę. Aktywuj jako obrzęd."
+"wskazanemu graczowi 3 obrażenia. Ów gracz odrzuca kartę. Aktywuj tylko jako "
+"obrzęd."
 
 #. printed_ability, type_land
 msgctxt "528348"
@@ -136907,7 +136913,8 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, poświęć ten ląd: Zadaje on "
-"wskazanemu graczowi 3 obrażenia. Ów gracz odrzuca kartę. Aktywuj jako obrzęd."
+"wskazanemu graczowi 3 obrażenia. Ów gracz odrzuca kartę. Aktywuj tylko jako "
+"obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -136924,8 +136931,9 @@ msgid ""
 "two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć CARDNAME: Co "
-"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury "
-"-2/-2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj jako obrzęd."
+"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury -2/-"
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
+"obrzęd."
 
 #. printed_ability, type_land
 msgctxt "528367"
@@ -136937,7 +136945,8 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
 "najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury -2/-"
-"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj jako obrzęd."
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
+"obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -136952,7 +136961,7 @@ msgid ""
 "2. CARDNAME deals 2 damage to each creature. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, poświęć CARDNAME: Wróż 2. "
-"CARDNAME zadaje każdemu stworowi po 2 obrażenia. Aktywuj jako obrzęd."
+"CARDNAME zadaje każdemu stworowi po 2 obrażenia. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_land
 msgctxt "528377"
@@ -136962,7 +136971,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, poświęć ten ląd: Wróż 2. "
-"Ten ląd zadaje każdemu stworowi po 2 obrażenia. Aktywuj jako obrzęd."
+"Ten ląd zadaje każdemu stworowi po 2 obrażenia. Aktywuj tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -137178,8 +137187,8 @@ msgid ""
 "Sacrifice an artifact or creature: Put a +1/+1 counter on CARDNAME. Activate "
 "only as a sorcery."
 msgstr ""
-"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na CARDNAME. Aktywuj jako "
-"obrzęd."
+"Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na CARDNAME. Aktywuj "
+"tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "528824"
@@ -137188,7 +137197,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "Poświęć artefakt lub stwora: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
-"jako obrzęd."
+"tylko jako obrzęd."
 
 #. internal_ability
 #, fuzzy
@@ -137270,7 +137279,7 @@ msgid ""
 "|mana_b|, Sacrifice CARDNAME: Target player discards a card. Activate only "
 "as a sorcery."
 msgstr ""
-"|mana_b|, poświęć CARDNAME: Wskazany gracz odrzuca kartę. Aktywuj jako "
+"|mana_b|, poświęć CARDNAME: Wskazany gracz odrzuca kartę. Aktywuj tylko jako "
 "obrzęd."
 
 #. printed_ability, type_artifact
@@ -137279,8 +137288,8 @@ msgid ""
 "|mana_b|, Sacrifice Implement of Malice: Target player discards a card. "
 "Activate only as a sorcery."
 msgstr ""
-"|mana_b|, poświęć ten artefakt: Wskazany gracz odrzuca kartę. Aktywuj jako "
-"obrzęd."
+"|mana_b|, poświęć ten artefakt: Wskazany gracz odrzuca kartę. Aktywuj tylko "
+"jako obrzęd."
 
 #. internal_ability
 #, fuzzy

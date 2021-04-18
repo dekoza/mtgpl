@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m20/pl/>\n"
 "Language: pl\n"
@@ -95,7 +95,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../M20.rst:34
 msgid ""
@@ -1451,7 +1451,7 @@ msgid ""
 "Demon creature token with flying. Activate only as a sorcery."
 msgstr ""
 "|tap|, zapłać 2 życia, odrzuć kartę, poświęć stwora: Stwórz żeton czarnego "
-"stwora Demon 5/5 z lataniem. Aktywuj jako obrzęd."
+"stwora Demon 5/5 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../M20.rst:500
 msgid ""
@@ -2490,7 +2490,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../M20.rst:824
 msgid ""
@@ -3368,7 +3368,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../M20.rst:1110
 msgid ""
@@ -3729,7 +3729,7 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Nazwij kartę, po czym ujawnij wierzchnią kartę twojej "
 "biblioteki. Jeśli owa karta ma wybraną nazwę, poświęć ten artefakt i dobierz "
-"trzy karty. Aktywuj jako obrzęd."
+"trzy karty. Aktywuj tylko jako obrzęd."
 
 #: ../../M20.rst:1234
 msgid ""

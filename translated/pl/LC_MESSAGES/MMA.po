@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:26+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -115,10 +115,6 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:29
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost "
-#| "1 or less from your graveyard to your hand."
 msgid ""
 "|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less "
 "from your graveyard to your hand."
@@ -340,11 +336,6 @@ msgid ""
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+2. Odkręć je."
 
 #: ../../MMA.rst:99
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -2050,7 +2041,7 @@ msgid ""
 "colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
 "|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
-"|colorless|\\ |mana_r|. Aktywuj jako obrzęd."
+"|colorless|\\ |mana_r|. Aktywuj tylko jako obrzęd."
 
 #: ../../MMA.rst:684
 msgid ""

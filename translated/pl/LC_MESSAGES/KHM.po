@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:27+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -2036,7 +2036,8 @@ msgid ""
 "only as a sorcery."
 msgstr ""
 "|tap|, poświęć tego stwora: Wskazany stwór dostaje go końca tury -X/-X, "
-"gdzie X jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj jako obrzęd."
+"gdzie X jest liczbą śnieżnych lądów pod twoim władaniem. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../KHM.rst:642
 msgid ""
@@ -3093,7 +3094,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../KHM.rst:964
 msgid ""
@@ -3618,7 +3619,7 @@ msgid ""
 "two +1/+1 counters on target creature. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, wygnaj kartę stwora z twojego cmentarza: Umieść "
-"dwa znaczniki +1/+1 na wskazanym stworze. Aktywuj jako obrzęd."
+"dwa znaczniki +1/+1 na wskazanym stworze. Aktywuj tylko jako obrzęd."
 
 #: ../../KHM.rst:1122
 msgid ""
@@ -4983,7 +4984,7 @@ msgstr ""
 "|mana_2|, |tap|, poświęć stwora: Wyszukaj w twojej bibliotece kartę stwora "
 "współdzielącą typ stwora z poświęconym i o skrócie many większym o 1 od jego "
 "skróconego kosztu many. Umieść ową kartę na polu bitwy, po czym przetasuj. "
-"Aktywuj jako obrzęd."
+"Aktywuj tylko jako obrzęd."
 
 #: ../../KHM.rst:1566
 msgid ""
@@ -5029,7 +5030,7 @@ msgid ""
 "as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj jako obrzęd.)"
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../KHM.rst:1578
 msgid ""
@@ -5226,7 +5227,7 @@ msgid ""
 msgstr ""
 "|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, poświęć ten ląd: Umieść znacznik +1/+"
 "1 na każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem. Do "
-"końca tury zyskują one czujność. Aktywuj jako obrzęd."
+"końca tury zyskują one czujność. Aktywuj tylko jako obrzęd."
 
 #: ../../KHM.rst:1644
 msgid ""
@@ -5337,7 +5338,7 @@ msgid ""
 "flying and vigilance. Activate only as a sorcery."
 msgstr ""
 "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, poświęć ten ląd: Stwórz żeton białego "
-"stwora Anioł Wojownik 4/4 z lataniem i czujnością. Aktywuj jako obrzęd."
+"stwora Anioł Wojownik 4/4 z lataniem i czujnością. Aktywuj tylko jako obrzęd."
 
 #: ../../KHM.rst:1688
 msgid ""
@@ -5403,7 +5404,8 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, poświęć ten ląd: Zadaje on "
-"wskazanemu graczowi 3 obrażenia. Ów gracz odrzuca kartę. Aktywuj jako obrzęd."
+"wskazanemu graczowi 3 obrażenia. Ów gracz odrzuca kartę. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../KHM.rst:1720
 msgid ""
@@ -5425,7 +5427,7 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, poświęć ten ląd: Stwórz "
 "żeton będący kopią wskazanego stwora pod twoim władaniem, ale wchodzi on na "
-"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj jako obrzęd."
+"pole bitwy z dodatkowym znacznikiem +1/+1. Aktywuj tylko jako obrzęd."
 
 #: ../../KHM.rst:1728
 msgid ""
@@ -5504,7 +5506,8 @@ msgid ""
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
 "najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury -2/-"
-"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj jako obrzęd."
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../KHM.rst:1756
 msgid ""
@@ -5554,7 +5557,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, poświęć ten ląd: Wróż 2. "
-"Ten ląd zadaje każdemu stworowi po 2 obrażenia. Aktywuj jako obrzęd."
+"Ten ląd zadaje każdemu stworowi po 2 obrażenia. Aktywuj tylko jako obrzęd."
 
 #: ../../KHM.rst:1778
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-18 22:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -1665,10 +1665,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:569
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard "
-#| "to your hand. Activate this ability only during your upkeep."
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to "
 "your hand. Activate only during your upkeep."
@@ -2695,7 +2691,7 @@ msgid ""
 "Activate only as a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_r|: Zyskaj do końca tury władanie nad wskazanym stworem. "
-"Odkręć go. Zyskuje on pośpiech do końca tury. Aktywuj jako obrzęd."
+"Odkręć go. Zyskuje on pośpiech do końca tury. Aktywuj tylko jako obrzęd."
 
 #: ../../C20.rst:902
 msgid ""
@@ -3143,10 +3139,6 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../C20.rst:1027
-#, fuzzy
-#| msgid ""
-#| "Search your library for a land card, put that card onto the battlefield, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for a land card, put that card onto the battlefield, "
 "then shuffle."
