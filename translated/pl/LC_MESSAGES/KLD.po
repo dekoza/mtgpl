@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-18 21:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/kld/pl/>\n"
 "Language: pl\n"
@@ -299,9 +299,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:87
-#, fuzzy
-#| msgid ""
-#| "Destroy target artifact or enchantment with converted mana cost 4 or less."
 msgid "Destroy target artifact or enchantment with mana value 4 or less."
 msgstr "Zniszcz wskazany artefakt lub urok o skrócie many 4 lub mniejszym."
 
@@ -610,10 +607,8 @@ msgstr ""
 "znaczniki energii)."
 
 #: ../../KLD.rst:197
-#, fuzzy
-#| msgid "Enchanted permanent gets -4/-0."
 msgid "Enchanted creature gets -4/-0."
-msgstr "Zauroczony permanent dostaje -4/-0."
+msgstr "Zauroczony stwór dostaje -4/-0."
 
 #: ../../KLD.rst:204
 msgid ""
@@ -669,18 +664,13 @@ msgstr ""
 "(trzy znaczniki energii)."
 
 #: ../../KLD.rst:215
-#, fuzzy
-#| msgid ""
-#| "Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
-#| "energy|\\ |energy|: Return all other creatures to their owners' hands. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
 "energy|\\ |energy|: Return all other creatures to their owners' hands. "
 "Activate only as a sorcery."
 msgstr ""
-"Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |"
-"energy|\\ |energy|: Przywróć wszystkie inne stwory do rąk właścicieli. "
+"Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ "
+"|energy|\\ |energy|: Przywróć wszystkie inne stwory do rąk właścicieli. "
 "Aktywuj jako obrzęd."
 
 #: ../../KLD.rst:220
@@ -702,21 +692,15 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:223
-#, fuzzy
-#| msgid ""
-#| "Choose target artifact or creature. You get |energy|\\ |energy|\\ |energy|"
-#| "\\ |energy| (four energy counters), then you may pay an amount of |"
-#| "energy| equal to that permanent's converted mana cost. If you do, gain "
-#| "control of it."
 msgid ""
 "Choose target artifact or creature. You get |energy|\\ |energy|\\ |energy|\\ "
 "|energy| (four energy counters), then you may pay an amount of |energy| "
 "equal to that permanent's mana value. If you do, gain control of it."
 msgstr ""
-"Wskaż artefakt lub stwora. Przyjmij |energy|\\ |energy|\\ |energy|\\ |"
-"energy| (cztery znaczniki energii), po czym możesz zapłacić tyle |energy|, "
-"ile wynosi skrót many owego permanentu. Jeśli tak zrobisz, zyskaj władanie "
-"nad nim."
+"Wskaż artefakt lub stwora. Przyjmij |energy|\\ |energy|\\ |energy|\\ |energy|"
+" (cztery znaczniki energii), po czym możesz zapłacić tyle |energy|, ile "
+"wynosi skrót many owego permanentu. Jeśli tak zrobisz, zyskaj władanie nad "
+"nim."
 
 #: ../../KLD.rst:226
 msgid ""
@@ -1028,11 +1012,6 @@ msgid "Artifacts you control have hexproof."
 msgstr "Artefakty pod twoim władaniem mają antyklątwę."
 
 #: ../../KLD.rst:329
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control the artifact with the "
-#| "highest converted mana cost or tied for the highest converted mana cost, "
-#| "draw a card."
 msgid ""
 "At the beginning of your upkeep, if you control the artifact with the "
 "highest mana value or tied for the highest mana value, draw a card."
@@ -1494,12 +1473,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:475
-#, fuzzy
-#| msgid ""
-#| "Choose a nonartifact, nonland card name. Search target player's "
-#| "graveyard, hand, and library for any number of cards with that name and "
-#| "exile them. That player shuffles their library, then draws a card for "
-#| "each card exiled from their hand this way."
 msgid ""
 "Choose a nonartifact, nonland card name. Search target player's graveyard, "
 "hand, and library for any number of cards with that name and exile them. "
@@ -1508,8 +1481,8 @@ msgid ""
 msgstr ""
 "Nazwij nieartefaktową nie-lądową kartę. Wyszukaj w cmentarzu, ręce i "
 "bibliotece wskazanego gracza dowolną liczbę kart o owej nazwie i wygnaj je. "
-"Ów gracz tasuje swoją bibliotekę, po czym dobiera kartę za każdą kartę "
-"wygnaną ze swojej ręki w ten sposób."
+"Ów gracz tasuje, po czym dobiera kartę za każdą kartę wygnaną ze swojej ręki "
+"w ten sposób."
 
 #: ../../KLD.rst:480
 msgid ""
@@ -1771,10 +1744,6 @@ msgstr ""
 "życie."
 
 #: ../../KLD.rst:561
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, Sacrifice Underhanded Designs: Destroy target "
-#| "creature. Activate this ability only if you control two or more artifacts."
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. "
 "Activate only if you control two or more artifacts."
@@ -2224,12 +2193,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:705
-#, fuzzy
-#| msgid ""
-#| "Choose target creature. Exile the top card of your library. You may have "
-#| "Spark of Creativity deal damage to that creature equal to the exiled "
-#| "card's converted mana cost. If you don't, you may play that card until "
-#| "end of turn."
 msgid ""
 "Choose target creature. Exile the top card of your library. You may have "
 "Spark of Creativity deal damage to that creature equal to the exiled card's "
@@ -2445,11 +2408,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:773
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library. You get |energy|\\ |energy| (two energy "
-#| "counters)."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle. You get |energy|\\ |energy| (two energy counters)."
@@ -2550,12 +2508,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:805
-#, fuzzy
-#| msgid ""
-#| "Look at the top ten cards of your library, exile up to two creature cards "
-#| "from among them, then shuffle your library. Target opponent may choose "
-#| "one of the exiled cards and put it onto the battlefield under their "
-#| "control. Put the rest onto the battlefield under your control."
 msgid ""
 "Look at the top ten cards of your library, exile up to two creature cards "
 "from among them, then shuffle. Target opponent may choose one of the exiled "
@@ -2909,11 +2861,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:919
-#, fuzzy
-#| msgid ""
-#| "When Wild Wanderer enters the battlefield, you may search your library "
-#| "for a basic land card, put it onto the battlefield tapped, then shuffle "
-#| "your library."
 msgid ""
 "When Wild Wanderer enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
@@ -3102,12 +3049,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:981
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast your first spell each turn, reveal the top card of your "
-#| "library. You may cast it without paying its mana cost if it's a spell "
-#| "with lesser converted mana cost. If you don't cast it, put it into your "
-#| "hand."
 msgid ""
 "Whenever you cast your first spell each turn, reveal the top card of your "
 "library. You may cast it without paying its mana cost if it's a spell with "
@@ -3155,10 +3096,6 @@ msgstr ""
 "żeton zyskuje pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../KLD.rst:993
-#, fuzzy
-#| msgid ""
-#| "−7: Search your library for up to three artifact cards with different "
-#| "names, put them onto the battlefield, then shuffle your library."
 msgid ""
 "−7: Search your library for up to three artifact cards with different names, "
 "put them onto the battlefield, then shuffle."
@@ -3825,10 +3762,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1201
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_x| less to cast, where X is the total converted "
-#| "mana cost of noncreature artifacts you control."
 msgid ""
 "This spell costs |mana_x| less to cast, where X is the total mana value of "
 "noncreature artifacts you control."
@@ -4006,11 +3939,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1257
-#, fuzzy
-#| msgid ""
-#| "When Self-Assembler enters the battlefield, you may search your library "
-#| "for an Assembly-Worker creature card, reveal it, put it into your hand, "
-#| "then shuffle your library."
 msgid ""
 "When Self-Assembler enters the battlefield, you may search your library for "
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
@@ -4253,12 +4181,6 @@ msgstr ""
 "artefaktami, zyskaj 1 życie."
 
 #: ../../KLD.rst:1347
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an "
-#| "artifact card, reveal it, put it into your hand, then shuffle your "
-#| "library. Activate this ability only if you control three or more "
-#| "artifacts."
 msgid ""
 "|mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an "
 "artifact card, reveal it, put it into your hand, then shuffle. Activate only "
@@ -4399,12 +4321,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1395
-#, fuzzy
-#| msgid ""
-#| "Liberating Combustion deals 6 damage to target creature. You may search "
-#| "your library and/or graveyard for a card named Chandra, Pyrogenius, "
-#| "reveal it, and put it into your hand. If you search your library this "
-#| "way, shuffle it."
 msgid ""
 "Liberating Combustion deals 6 damage to target creature. You may search your "
 "library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, "
@@ -4413,7 +4329,7 @@ msgstr ""
 "Ten czar zadaje wskazanemu stworowi 6 obrażeń. Możesz wyszukać w twojej "
 "bibliotece i/lub cmentarzu kartę o nazwie Chandra, Pyrogenius, ujawnij ją i "
 "umieść ją w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, "
-"przetasuj ją."
+"przetasuj."
 
 #: ../../KLD.rst:1400
 msgid ""
@@ -4498,12 +4414,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1427
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put it onto the battlefield "
-#| "tapped. Search your library and graveyard for a card named Nissa, "
-#| "Nature's Artisan, reveal it, and put it into your hand. Then shuffle your "
-#| "library."
 msgid ""
 "Search your library for a basic land card and put it onto the battlefield "
 "tapped. Search your library and graveyard for a card named Nissa, Nature's "
@@ -4511,7 +4421,7 @@ msgid ""
 msgstr ""
 "Wysuzkaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
 "polu bitwy. Wyszukaj w twojej bibliotece i cmentarzu kartę o nazwie Nissa, "
-"Nature's Artisan, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
+"Nature's Artisan, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../KLD.rst:1433
 msgid ""

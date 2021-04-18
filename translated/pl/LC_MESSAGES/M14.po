@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:25+0000\n"
+"PO-Revision-Date: 2021-04-18 21:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m14/pl/>\n"
 "Language: pl\n"
@@ -992,10 +992,6 @@ msgstr ""
 # 47f199e21a0940c4b3939d49506705c6
 # 3ae696436b3b4a279ab94201a2433e41
 #: ../../M14.rst:277
-#, fuzzy
-#| msgid ""
-#| "|mana_x|, |tap|: Copy the exiled card. You may cast the copy without "
-#| "paying its mana cost. X is the converted mana cost of the exiled card."
 msgid ""
 "|mana_x|, |tap|: Copy the exiled card. You may cast the copy without paying "
 "its mana cost. X is the mana value of the exiled card."
@@ -1278,10 +1274,6 @@ msgstr ""
 # c486c6f08ee24ea9bf9b4fa8ef829846
 # 59daf398ab8a437983e3bc518a3d40d5
 #: ../../M14.rst:369
-#, fuzzy
-#| msgid ""
-#| "Counter target spell with converted mana cost X. (For example, if that "
-#| "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgid ""
 "Counter target spell with mana value X. (For example, if that spell's mana "
 "cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
@@ -1541,11 +1533,6 @@ msgstr ""
 # f83558d82c704d05a061ac8e66e84a1b
 # 169fd5abd76046ff85e4a9cbd95c2dce
 #: ../../M14.rst:447
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|: Search your library for a card named Festering Newt or "
-#| "Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_2|, |tap|: Search your library for a card named Festering Newt or "
 "Bubbling Cauldron, put it onto the battlefield tapped, then shuffle."
@@ -1780,16 +1767,12 @@ msgstr ""
 # 519e857322bc4a5c8d8b0aacda9ce331
 # 69f761f7ccf7429aa4ddf98319756150
 #: ../../M14.rst:511
-#, fuzzy
-#| msgid ""
-#| "+1: Search your library for a Swamp card, reveal it, and put it into your "
-#| "hand. Then shuffle your library."
 msgid ""
 "+1: Search your library for a Swamp card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
-"+1: Wyszukaj w twojej bibliotece kartę Bagna, ujawnij ją i umieść w twojej "
-"ręce. Następnie przetasuj."
+"+1: Wyszukaj w twojej bibliotece kartę Bagna, ujawnij ją, umieść ją w twojej "
+"ręce, po czym przetasuj."
 
 # e16906591106474e8d9778512182131a
 # 5c7d1213974b4f89b5eac2964f465c7a
@@ -1982,18 +1965,13 @@ msgstr "Talia może mieć dowolną liczbę kart o nazwie Shadowborn Apostle."
 # 0a97f00407fb4eba99c3de1f3d2e03ba
 # c97ad8653a144ba5b4ccbd67bd7aae75
 #: ../../M14.rst:577
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your "
-#| "library for a Demon creature card and put it onto the battlefield. Then "
-#| "shuffle your library."
 msgid ""
 "|mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your "
 "library for a Demon creature card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|mana_b|, poświęć sześć stworów o nazwie Shadowborn Apostle: Wyszukaj w "
-"twojej bibliotece kartę stwora typu Demon i umieść ją na polu bitwy. "
-"Następnie przetasuj."
+"twojej bibliotece kartę stwora typu Demon, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../M14.rst:586
 msgid ""
@@ -2946,11 +2924,6 @@ msgstr ""
 "–3: Możesz umieścić kartę zielonego stwora z twojej ręki na polu bitwy."
 
 #: ../../M14.rst:855
-#, fuzzy
-#| msgid ""
-#| "−7: You get an emblem with \"Whenever you cast a creature spell, you may "
-#| "search your library for a creature card, put it onto the battlefield, "
-#| "then shuffle your library.\""
 msgid ""
 "−7: You get an emblem with \"Whenever you cast a creature spell, you may "
 "search your library for a creature card, put it onto the battlefield, then "
@@ -3288,10 +3261,6 @@ msgstr ""
 # d678d5d25d3d4a29a80c9ae24a04d700
 # 1136cd6ab3d8441a874651447c3402ca
 #: ../../M14.rst:947
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate "
-#| "this ability only once each turn."
 msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only "
 "once each turn."
@@ -3700,11 +3669,6 @@ msgstr "Wyposażony stwór dostaje +4/+4."
 # dea7d4340538469cbc9cbeb4b7cc2d0f
 # 6be6082aef8c4ddda03e22635d35eada
 #: ../../M14.rst:1055
-#, fuzzy
-#| msgid ""
-#| "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit "
-#| "artifact creature that's no longer an Equipment. Activate this ability "
-#| "only if you control no creatures."
 msgid ""
 "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit "
 "artifact creature that's no longer an Equipment. Activate only if you "
@@ -3772,11 +3736,6 @@ msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 # 56b679d9d48e443281808c42b4d18e6b
 # 0f7d5463f87a4f6bb0b9f2aa0a916db9
 #: ../../M14.rst:1071
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with "
-#| "converted mana cost equal to the number of charge counters on Ratchet "
-#| "Bomb."
 msgid ""
 "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana "
 "value equal to the number of charge counters on Ratchet Bomb."
@@ -3801,17 +3760,12 @@ msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki życzenia."
 # b2a848a63d3546f19f1bdeb41d76ff80
 # 2a37dc1bc3324d8bbd4430c2abed0a7b
 #: ../../M14.rst:1077
-#, fuzzy
-#| msgid ""
-#| "|mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search "
-#| "your library for a card and put that card into your hand. Then shuffle "
-#| "your library."
 msgid ""
 "|mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search "
 "your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 "|mana_5|, |tap|, usuń znacznik życzenia z tego artefaktu: Wyszukaj w twojej "
-"bibliotece dowolną kartę i umieść ją w twojej ręce. Następnie przetasuj."
+"bibliotece dowolną kartę, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../M14.rst:1082
 msgid ""

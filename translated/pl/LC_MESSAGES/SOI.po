@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-18 21:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
 "Language: pl\n"
@@ -2158,11 +2158,6 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:669
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
-#| "Create a 2/2 black Zombie creature token. Activate this ability only any "
-#| "time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
 "Create a 2/2 black Zombie creature token. Activate only as a sorcery."
@@ -3432,12 +3427,6 @@ msgid "Menace"
 msgstr "Złowrogość"
 
 #: ../../SOI.rst:1061
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, reveal the top card of your library. Any "
-#| "opponent may have you put that card into your graveyard. If a player "
-#| "does, Sin Prodder deals damage to that player equal to that card's "
-#| "converted mana cost. Otherwise, put that card into your hand."
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library. Any "
 "opponent may have you put that card into your graveyard. If a player does, "
@@ -4506,11 +4495,6 @@ msgstr ""
 "władaniem."
 
 #: ../../SOI.rst:1393
-#, fuzzy
-#| msgid ""
-#| "When Ulvenwald Hydra enters the battlefield, you may search your library "
-#| "for a land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "When Ulvenwald Hydra enters the battlefield, you may search your library for "
 "a land card, put it onto the battlefield tapped, then shuffle."

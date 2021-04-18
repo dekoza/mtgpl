@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:25+0000\n"
+"PO-Revision-Date: 2021-04-18 21:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -1696,11 +1696,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:541
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
-#| "Create a 2/2 black Zombie creature token. Activate this ability only any "
-#| "time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
 "Create a 2/2 black Zombie creature token. Activate only as a sorcery."
@@ -1946,10 +1941,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:619
-#, fuzzy
-#| msgid ""
-#| "Put target creature card from a graveyard onto the battlefield under your "
-#| "control. You lose life equal to its converted mana cost."
 msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control. You lose life equal to its mana value."
@@ -4318,10 +4309,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1407
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle."

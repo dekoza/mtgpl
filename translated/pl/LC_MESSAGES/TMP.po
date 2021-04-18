@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-18 21:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tmp/pl/>\n"
 "Language: pl\n"
@@ -1263,10 +1263,6 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:441
-#, fuzzy
-#| msgid ""
-#| "Counter target spell with converted mana cost X. (For example, if that "
-#| "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgid ""
 "Counter target spell with mana value X. (For example, if that spell's mana "
 "cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
@@ -2081,10 +2077,6 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:763
-#, fuzzy
-#| msgid ""
-#| "Put target creature card from a graveyard onto the battlefield under your "
-#| "control. You lose life equal to its converted mana cost."
 msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control. You lose life equal to its mana value."
@@ -3424,10 +3416,6 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1241
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate "
-#| "this ability only once each turn."
 msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only "
 "once each turn."
