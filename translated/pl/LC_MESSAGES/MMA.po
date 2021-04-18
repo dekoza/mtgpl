@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:13+0000\n"
+"PO-Revision-Date: 2021-04-18 22:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -2045,17 +2045,12 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:677
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
-#| "colorless|\\ |mana_r|. Activate this ability only any time you could cast "
-#| "a sorcery."
 msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
 "colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
-"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ |"
-"colorless|\\ |mana_r|. Aktywuj jako obrzęd."
+"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
+"|colorless|\\ |mana_r|. Aktywuj jako obrzęd."
 
 #: ../../MMA.rst:684
 msgid ""

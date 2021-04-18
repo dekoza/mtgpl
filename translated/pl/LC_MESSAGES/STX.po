@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:27+0000\n"
+"PO-Revision-Date: 2021-04-18 22:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -119,22 +119,16 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:33
-#, fuzzy
-#| msgid ""
-#| "Each player looks at the top five cards of their library, reveals a land "
-#| "card and/or an instant or sorcery card from among them, then puts the "
-#| "cards they revealed this way into their hand and the rest on the bottom "
-#| "of their library in a random order. Each player gains 3 life."
 msgid ""
 "Each player looks at the top five cards of their library and may reveal a "
 "land card and/or an instant or sorcery card from among them. Each player "
 "puts the cards they revealed this way into their hand and the rest on the "
 "bottom of their library in a random order. Each player gains 3 life."
 msgstr ""
-"Każdy gracz patrzy na pięć wierzchnich kart swojej biblioteki, ujawnia "
-"spośród nich kartę lądu i/lub kartę sztuczki lub obrzędu, po czym umieszcza "
-"ujawnione w ten sposób karty w swojej ręce, a pozostałe losowo na spodzie "
-"swojej biblioteki. Każdy gracz zyskuje po 3 życia."
+"Każdy gracz patrzy na pięć wierzchnich kart swojej biblioteki i może ujawnić "
+"spośród nich kartę sztuczki lub obrzędu. Każdy gracz umieszcza karty "
+"ujawnione przez siebie w ten sposób w swojej ręce, a pozostałe losowo na "
+"spodzie swojej biblioteki. Każdy gracz zyskuje po 3 życia."
 
 #: ../../STX.rst:42
 msgid ""
@@ -396,10 +390,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:113
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, "
-#| "creatures you control get +1/+1 until end of turn,"
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures "
 "you control get +1/+1 until end of turn."
@@ -537,10 +527,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:151
-#, fuzzy
-#| msgid ""
-#| "When you cast this spell, copy it for each other instant or sorcery spell "
-#| "you've cast this turn. You may choose new targets for the copies."
 msgid ""
 "When you cast this spell, copy it for each other instant and sorcery spell "
 "you've cast this turn. You may choose new targets for the copies."
@@ -932,18 +918,13 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:283
-#, fuzzy
-#| msgid ""
-#| "Counter target creature or planeswalker spell unless its controller pays |"
-#| "mana_3|. If that spell is countered this way, exile it instead of putting "
-#| "into its owner's graveyard."
 msgid ""
 "Counter target creature or planeswalker spell unless its controller pays |"
 "mana_3|. If that spell is countered this way, exile it instead of putting it "
 "into its owner's graveyard."
 msgstr ""
-"Skontruj wskazany czar stwora lub wędrowca, chyba że jego władca zapłaci |"
-"mana_3|. Jeśli ów czar został skontrowany w ten sposób, wygnaj go zamiast "
+"Skontruj wskazany czar stwora lub wędrowca, chyba że jego władca zapłaci "
+"|mana_3|. Jeśli ów czar został skontrowany w ten sposób, wygnaj go zamiast "
 "umieszczać go w cmentarzu właściciela."
 
 #: ../../STX.rst:288
@@ -1872,17 +1853,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:579
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
-#| "colorless|\\ |mana_r|. Activate this ability only any time you could cast "
-#| "a sorcery."
 msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
 "colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
-"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ |"
-"colorless|\\ |mana_r|. Aktywuj jako obrzęd."
+"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
+"|colorless|\\ |mana_r|. Aktywuj jako obrzęd."
 
 #: ../../STX.rst:586
 msgid ""
@@ -2282,13 +2258,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:709
-#, fuzzy
-#| msgid ""
-#| "Search your library and graveyard for up to four creature cards with "
-#| "different names that each have mana value X or less and reveal them. An "
-#| "opponent choses two of those cards. Shuffle the chosen cards into your "
-#| "library and put the rest onto the battlefield. Exile Ecological "
-#| "Appreciation."
 msgid ""
 "Search your library and graveyard for up to four creature cards with "
 "different names that each have mana value X or less and reveal them. An "
@@ -2639,11 +2608,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:825
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. You may put any number of "
-#| "them into your hand and the rest into your graveyard. You lose 3 life for "
-#| "each card put into your hand this way."
 msgid ""
 "Look at the top five cards of your library. You may put any number of them "
 "into your hand and the rest into your graveyard. You lose 3 life for each "
@@ -2651,7 +2615,7 @@ msgid ""
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz umieścić dowolną "
 "liczbę spośród nich w twojej ręce, a pozostałe w twoim cmentarzu. Strać po 3 "
-"życia za każdą kartę umieszczoną w ten sposób w twojej ręce."
+"życia za każdą kartę umieszczoną w ten sposób przez ciebie w twojej ręce."
 
 #: ../../STX.rst:832
 msgid ""
@@ -2728,10 +2692,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:847
-#, fuzzy
-#| msgid ""
-#| "You opponents can't cast spells or activate planeswalkers' loyalty "
-#| "abilities this turn."
 msgid ""
 "Your opponents can't cast spells or activate planeswalkers' loyalty "
 "abilities this turn."
@@ -2846,10 +2806,6 @@ msgstr ""
 "władaniem, umieść znacznik lojalności na każdy wędrowcu pod twoim władaniem."
 
 #: ../../STX.rst:877
-#, fuzzy
-#| msgid ""
-#| "Whenever a permanent you control becomes the target of a spell or ability "
-#| "and opponent controls, you may draw a card."
 msgid ""
 "Whenever a permanent you control becomes the target of a spell or ability an "
 "opponent controls, you may draw a card."
@@ -3570,14 +3526,6 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:1081
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose "
-#| "target creature you control. Until end of turn, it gains \"If this "
-#| "creature would leave the battlefield, exile it instead of putting it "
-#| "anywhere else\" and \"When you exile this creature, create a 4/4 blue and "
-#| "red Elemental creature token.\" (Each instance of that ability triggers "
-#| "separately.)"
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose "
 "target creature you control. Until end of turn, it gains \"If this creature "
@@ -3589,7 +3537,7 @@ msgstr ""
 "Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
 "wskaż stwora pod twoi władaniem. Do końca tury ma on \"Jeśli ten stwór "
 "miałby opuścić pole bitwy, wygnaj go zamiast umieszczać go gdziekolwiek "
-"indziej\" oraz \"Kiedy wygnasz tego stwora, stwórz żeton niebiesko-"
+"indziej\" oraz \"Kiedy ten stwór trafi na wygnanie, stwórz żeton niebiesko-"
 "czerwonego stwora Żywiołak 4/4.\" (Każda instancja tej zdolności wyzwalana "
 "jest osobno.)"
 
