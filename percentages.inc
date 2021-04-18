@@ -68,7 +68,8 @@
 
 .. |S99_percent| image:: images/pie60.png        
 
-.. |STX_percent| image:: images/pie95.png        
+.. |STX_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |C19_percent| image:: images/pie75.png        
 
@@ -77,7 +78,8 @@
 
 .. |C21_percent| image:: images/pie75.png        
 
-.. |GK1_percent| image:: images/pie95.png        
+.. |GK1_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |XLN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -216,7 +218,8 @@
 
 .. |C15_percent| image:: images/pie65.png        
 
-.. |GNT_percent| image:: images/pie95.png        
+.. |GNT_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |RNA_percent| image:: images/pie95.png        
 
@@ -291,9 +294,10 @@
 
 .. |WAR_percent| image:: images/pie95.png        
 
-.. |RAV_percent| image:: images/pie45.png        
+.. |RAV_percent| image:: images/pie50.png        
 
-.. |8ED_percent| image:: images/pie95.png        
+.. |8ED_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |DRK_percent| image:: images/pie20.png        
 
