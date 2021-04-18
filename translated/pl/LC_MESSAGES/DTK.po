@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dtk/pl/>\n"
 "Language: pl\n"
@@ -663,11 +663,6 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:217
-#, fuzzy
-#| msgid ""
-#| "When Silkwrap enters the battlefield, exile target creature with "
-#| "converted mana cost 3 or less an opponent controls until Silkwrap leaves "
-#| "the battlefield. (That creature returns under its owner's control.)"
 msgid ""
 "When Silkwrap enters the battlefield, exile target creature with mana value "
 "3 or less an opponent controls until Silkwrap leaves the battlefield. (That "
@@ -1062,10 +1057,6 @@ msgstr ""
 "twojego cmentarza."
 
 #: ../../DTK.rst:347
-#, fuzzy
-#| msgid ""
-#| "Living Lore's power and toughness are each equal to the exiled card's "
-#| "converted mana cost."
 msgid ""
 "Living Lore's power and toughness are each equal to the exiled card's mana "
 "value."
@@ -2018,16 +2009,12 @@ msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
 #: ../../DTK.rst:667
-#, fuzzy
-#| msgid ""
-#| "When Sidisi, Undead Vizier exploits a creature, you may search your "
-#| "library for a card, put it into your hand, then shuffle your library."
 msgid ""
 "When Sidisi, Undead Vizier exploits a creature, you may search your library "
 "for a card, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wyzyska stwora, możesz wyszukać w twojej bibliotece dowolną "
-"kartę i umieścić ją w twojej ręce, po czym przetasuj twoją bibliotekę."
+"kartę i umieścić ją w twojej ręce, po czym przetasuj."
 
 #: ../../DTK.rst:676
 msgid ""
@@ -2152,21 +2139,15 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:715
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_3|\\ |mana_r|\\ |mana_r|: Creatures you control gain "
-#| "menace until end of turn. Activate this ability only if creatures you "
-#| "control have total power 8 or greater. (They can't be blocked except by "
-#| "two or more creatures.)"
 msgid ""
 "Formidable — |mana_3|\\ |mana_r|\\ |mana_r|: Creatures you control gain "
 "menace until end of turn. Activate only if creatures you control have total "
 "power 8 or greater. (They can't be blocked except by two or more creatures.)"
 msgstr ""
 "Straszliwy — |mana_3|\\ |mana_r|\\ |mana_r|: Stwory pod twoim władaniem "
-"zyskują złowrogość do końca tury. Możesz aktywować tę zdolność tylko jeśli "
-"stwory pod twoim władaniem mają łączną siłę 8 lub więcej. (Nie mogą być "
-"blokowane, chyba że przez przynajmniej dwa stwory każdy.)"
+"zyskują złowrogość do końca tury. Możesz aktywować tylko jeśli stwory pod "
+"twoim władaniem mają łączną siłę 8 lub więcej. (Nie mogą być blokowane, "
+"chyba że przez przynajmniej dwa stwory każdy.)"
 
 #: ../../DTK.rst:720
 msgid ""
@@ -2210,19 +2191,14 @@ msgstr ""
 "obrażenia."
 
 #: ../../DTK.rst:729
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_2|\\ |mana_r|: Crater Elemental has base power 8 until "
-#| "end of turn. Activate this ability only if creatures you control have "
-#| "total power 8 or greater."
 msgid ""
 "Formidable — |mana_2|\\ |mana_r|: Crater Elemental has base power 8 until "
 "end of turn. Activate only if creatures you control have total power 8 or "
 "greater."
 msgstr ""
 "Straszliwy — |mana_2|\\ |mana_r|: Do końca tury ten stwór ma bazową siłę 8. "
-"Możesz aktywować tę zdolność tylko jeśli stwory pod twoim władaniem mają "
-"łączną siłę 8 lub więcej."
+"Możesz aktywować tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 "
+"lub więcej."
 
 #: ../../DTK.rst:734
 msgid ""
@@ -2306,19 +2282,14 @@ msgid "|mana_1|\\ |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
 msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../DTK.rst:757
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_4|\\ |mana_r|\\ |mana_r|: Create a 4/4 red Dragon "
-#| "creature token with flying. Activate this ability only if creatures you "
-#| "control have total power 8 or greater."
 msgid ""
 "Formidable — |mana_4|\\ |mana_r|\\ |mana_r|: Create a 4/4 red Dragon "
 "creature token with flying. Activate only if creatures you control have "
 "total power 8 or greater."
 msgstr ""
 "Straszliwy — |mana_4|\\ |mana_r|\\ |mana_r|: Stwórz żeton czerwonego stwora "
-"Smok 4/4 z lataniem. Możesz aktywować tę zdolność tylko jeśli stwory pod "
-"twoim władaniem mają łączną siłę 8 lub więcej."
+"Smok 4/4 z lataniem. Możesz aktywować tylko jeśli stwory pod twoim władaniem "
+"mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:762
 msgid ""
@@ -2590,16 +2561,12 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:843
-#, fuzzy
-#| msgid ""
-#| "Search your library for a Dragon creature card, reveal it, put it into "
-#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a Dragon creature card, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Smoka, ujawnij ją, umieść w twojej ręce, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../DTK.rst:848
 msgid ""
@@ -2800,11 +2767,6 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:911
-#, fuzzy
-#| msgid ""
-#| "Return target instant or sorcery card from your graveyard to your hand. "
-#| "Volcanic Vision deals damage equal to that card's converted mana cost to "
-#| "each creature your opponents control. Exile Volcanic Vision."
 msgid ""
 "Return target instant or sorcery card from your graveyard to your hand. "
 "Volcanic Vision deals damage equal to that card's mana value to each "
@@ -2937,19 +2899,14 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:951
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_4|\\ |mana_g|: Atarka Beastbreaker gets +4/+4 until "
-#| "end of turn. Activate this ability only if creatures you control have "
-#| "total power 8 or greater."
 msgid ""
 "Formidable — |mana_4|\\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end "
 "of turn. Activate only if creatures you control have total power 8 or "
 "greater."
 msgstr ""
 "Straszliwy — |mana_4|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4. "
-"Możesz aktywować tę zdolność tylko jeśli stwory pod twoim władaniem mają "
-"łączną siłę 8 lub więcej."
+"Możesz aktywować tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 "
+"lub więcej."
 
 #: ../../DTK.rst:958
 msgid ""
@@ -2978,17 +2935,13 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:963
-#, fuzzy
-#| msgid ""
-#| "Formidable — |tap|: Add |colorless|\\ |colorless|\\ |colorless|. Activate "
-#| "this ability only if creatures you control have total power 8 or greater."
 msgid ""
 "Formidable — |tap|: Add |colorless|\\ |colorless|\\ |colorless|. Activate "
 "only if creatures you control have total power 8 or greater."
 msgstr ""
 "Straszliwy — |tap|: Weź |colorless|\\ |colorless|\\ |colorless|. Możesz "
-"aktywować tę zdolność tylko jeśli stwory pod twoim władaniem mają łączną "
-"siłę 8 lub więcej."
+"aktywować tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub "
+"więcej."
 
 #: ../../DTK.rst:968
 msgid ""
@@ -2998,11 +2951,6 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:967
-#, fuzzy
-#| msgid ""
-#| "Look at the top six cards of your library. Put up to two creature cards "
-#| "with converted mana cost 3 or less from among them onto the battlefield. "
-#| "Put the rest on the bottom of your library in any order."
 msgid ""
 "Look at the top six cards of your library. Put up to two creature cards with "
 "mana value 3 or less from among them onto the battlefield. Put the rest on "
@@ -3109,18 +3057,12 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1003
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_1|\\ |mana_g|: Regenerate Dragon-Scarred Bear. "
-#| "Activate this ability only if creatures you control have total power 8 or "
-#| "greater."
 msgid ""
 "Formidable — |mana_1|\\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate "
 "only if creatures you control have total power 8 or greater."
 msgstr ""
 "Straszliwy — |mana_1|\\ |mana_g|: Zregeneruj tego stwora. Możesz aktywować "
-"tę zdolność tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub "
-"więcej."
+"tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:1008
 msgid ""
@@ -3162,16 +3104,12 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1015
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../DTK.rst:1024
 msgid ""
@@ -3204,19 +3142,14 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1029
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_g|: Glade Watcher can attack this turn as though it "
-#| "didn't have defender. Activate this ability only if creatures you control "
-#| "have total power 8 or greater."
 msgid ""
 "Formidable — |mana_g|: Glade Watcher can attack this turn as though it "
 "didn't have defender. Activate only if creatures you control have total "
 "power 8 or greater."
 msgstr ""
 "Straszliwy — |mana_g|: Ten stwór może atakować w tej turze jakby nie miał "
-"obronności. Możesz aktywować tę zdolność tylko jeśli stwory pod twoim "
-"władaniem mają łączną siłę 8 lub więcej."
+"obronności. Możesz aktywować tylko jeśli stwory pod twoim władaniem mają "
+"łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:1036
 msgid ""
@@ -3295,19 +3228,14 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1051
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_2|\\ |mana_g|: Target creature blocks Lurking Arynx "
-#| "this turn if able. Activate this ability only if creatures you control "
-#| "have total power 8 or greater."
 msgid ""
 "Formidable — |mana_2|\\ |mana_g|: Target creature blocks Lurking Arynx this "
 "turn if able. Activate only if creatures you control have total power 8 or "
 "greater."
 msgstr ""
 "Straszliwy — |mana_2|\\ |mana_g|: Wskazany stwór blokuje niniejszego stwora "
-"w tej turze jeśli może. Możesz aktywować tę zdolność tylko jeśli stwory pod "
-"twoim władaniem mają łączną siłę 8 lub więcej."
+"w tej turze jeśli może. Możesz aktywować tylko jeśli stwory pod twoim "
+"władaniem mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:1056
 msgid ""
@@ -3516,11 +3444,6 @@ msgstr ""
 "rzucanie czarów stworów."
 
 #: ../../DTK.rst:1111
-#, fuzzy
-#| msgid ""
-#| "Formidable — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Each player's life "
-#| "total becomes the number of creatures they control. Activate this ability "
-#| "only if creatures you control have total power 8 or greater."
 msgid ""
 "Formidable — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Each player's life total "
 "becomes the number of creatures they control. Activate only if creatures you "
@@ -3528,8 +3451,7 @@ msgid ""
 msgstr ""
 "Straszliwy — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Liczba żyć każdego z "
 "graczy staje się równa liczbie stworów pod jego władaniem. Możesz aktywować "
-"tę zdolność tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub "
-"więcej."
+"tylko jeśli stwory pod twoim władaniem mają łączną siłę 8 lub więcej."
 
 #: ../../DTK.rst:1116
 msgid ""
@@ -3944,10 +3866,6 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1265
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost 2 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value 2 or less from your graveyard to "
 "the battlefield."
@@ -4006,16 +3924,12 @@ msgid "−2: Create a 4/4 red Dragon creature token with flying."
 msgstr "–2: Stwórz żeton czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../DTK.rst:1291
-#, fuzzy
-#| msgid ""
-#| "−8: Search your library for any number of Dragon creature cards and put "
-#| "them onto the battlefield. Then shuffle your library."
 msgid ""
 "−8: Search your library for any number of Dragon creature cards, put them "
 "onto the battlefield, then shuffle."
 msgstr ""
-"–8: Wyszukaj w twojej bibliotece dowolną liczbę kart stwora o typie Smok i "
-"umieść je na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"–8: Wyszukaj w twojej bibliotece dowolną liczbę kart stwora o typie Smok, "
+"umieść je na polu bitwy, po czym przetasuj."
 
 #: ../../DTK.rst:1298
 msgid ""
@@ -4061,12 +3975,6 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1315
-#, fuzzy
-#| msgid ""
-#| "When Swift Warkite enters the battlefield, you may put a creature card "
-#| "with converted mana cost 3 or less from your hand or graveyard onto the "
-#| "battlefield. That creature gains haste. Return it to your hand at the "
-#| "beginning of the next end step."
 msgid ""
 "When Swift Warkite enters the battlefield, you may put a creature card with "
 "mana value 3 or less from your hand or graveyard onto the battlefield. That "
@@ -4300,16 +4208,12 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1389
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|: Draw a card. Activate this ability only if you've cast a "
-#| "noncreature spell this turn."
 msgid ""
 "|mana_2|, |tap|: Draw a card. Activate only if you've cast a noncreature "
 "spell this turn."
 msgstr ""
-"|mana_2|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli w "
-"tej turze rzuciłeś nie-stworowy czar."
+"|mana_2|, |tap|: Dobierz kartę. Możesz aktywować tylko jeśli w tej turze "
+"rzuciłeś nie-stworowy czar."
 
 #: ../../DTK.rst:1394
 msgid ""
@@ -4334,16 +4238,12 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:1397
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../DTK.rst:1406
 msgid ""

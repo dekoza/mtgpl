@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 10:31+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bok/pl/>\n"
 "Language: pl\n"
@@ -961,8 +961,6 @@ msgid ""
 msgstr ""
 
 #: ../../BOK.rst:321
-#, fuzzy
-#| msgid "Enchant creature with converted mana cost 2 or less"
 msgid "Enchant creature with mana value 2 or less"
 msgstr "Zaurocz stwora o skrócie many 2 lub mniejszym"
 

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-01 18:39+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ori/pl/>\n"
 "Language: pl\n"
@@ -368,11 +368,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:115
-#, fuzzy
-#| msgid ""
-#| "When Knight of the White Orchid enters the battlefield, if an opponent "
-#| "controls more lands than you, you may search your library for a Plains "
-#| "card, put it onto the battlefield, then shuffle your library."
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
 "controls more lands than you, you may search your library for a Plains card, "
@@ -380,7 +375,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../ORI.rst:124
 msgid ""
@@ -552,8 +547,7 @@ msgid ""
 "Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór zostanie sławny, możesz wyszukać w twojej bibliotece kartę "
-"Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../ORI.rst:178
 msgid ""
@@ -692,8 +686,7 @@ msgid ""
 "library for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Aury, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Aury, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../ORI.rst:220
 msgid ""
@@ -1585,15 +1578,11 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:509
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../ORI.rst:511
 msgid ""
@@ -2116,8 +2105,8 @@ msgid ""
 "Activate only if there are four or more creature cards in your graveyard."
 msgstr ""
 "|mana_4|\\ |mana_b|: Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia. "
-"Możesz aktywować tę zdolność tylko jeśli w twoim cmentarzu są co najmniej "
-"cztery karty stworów."
+"Możesz aktywować tylko jeśli w twoim cmentarzu są co najmniej cztery karty "
+"stworów."
 
 #: ../../ORI.rst:672
 msgid ""
@@ -2688,7 +2677,7 @@ msgid ""
 msgstr ""
 "Kiedy zauroczony stwór umrze, możesz wyszukać w twojej bibliotece kartę o "
 "nazwie Infectious Bloodlust, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../ORI.rst:856
 msgid ""
@@ -3280,8 +3269,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../ORI.rst:1035
 msgid ""
@@ -3345,7 +3333,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowego Lasu, ujawnij "
 "je i umieść jedną przekręconą na polu bitwy, a pozostałe w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../ORI.rst:1049
 msgid ""
@@ -3606,7 +3594,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę nielegendarnego stwora o skrócie many 3 lub mniejszym, umieść ją na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj."
 
 #: ../../ORI.rst:1138
 msgid ""
@@ -4106,8 +4094,7 @@ msgid ""
 "land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Ilekroć wyposażony stwór zaatakuje, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ORI.rst:1307
 msgid "Equip |mana_2|"
@@ -4194,16 +4181,12 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1341
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ORI.rst:1348
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/xln/pl/>\n"
 "Language: pl\n"
@@ -103,10 +103,6 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../XLN.rst:31
-#, fuzzy
-#| msgid ""
-#| "Whenever Bishop of Rebirth attacks, you may return target creature card "
-#| "with converted mana cost 3 or less from your graveyard to the battlefield."
 msgid ""
 "Whenever Bishop of Rebirth attacks, you may return target creature card with "
 "mana value 3 or less from your graveyard to the battlefield."
@@ -332,11 +328,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:109
-#, fuzzy
-#| msgid ""
-#| "When Legion Conquistador enters the battlefield, you may search your "
-#| "library for any number of cards named Legion Conquistador, reveal them, "
-#| "put them into your hand, then shuffle your library."
 msgid ""
 "When Legion Conquistador enters the battlefield, you may search your library "
 "for any number of cards named Legion Conquistador, reveal them, put them "
@@ -344,7 +335,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "dowolną liczbę kart o nazwie Legion Conquistador, ujawnij je i umieść je w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../XLN.rst:114
 msgid ""
@@ -478,11 +469,6 @@ msgstr ""
 "ręki. Jeśli tak zrobisz, zyskaj 2 życia."
 
 #: ../../XLN.rst:153
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Priest of the Wakening Sun: "
-#| "Search your library for a Dinosaur card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search "
 "your library for a Dinosaur card, reveal it, put it into your hand, then "
@@ -490,7 +476,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_w|\\ |mana_w|, poświęć tego stwora: Wyszukaj w twojej "
 "bibliotece kartę Dinozaura, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../XLN.rst:158
 msgid ""
@@ -565,11 +551,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:183
-#, fuzzy
-#| msgid ""
-#| "Exile all attacking creatures target player controls. That player may "
-#| "search their library for that many basic land cards, put those cards onto "
-#| "the battlefield tapped, then shuffle their library."
 msgid ""
 "Exile all attacking creatures target player controls. That player may search "
 "their library for that many basic land cards, put those cards onto the "
@@ -577,7 +558,7 @@ msgid ""
 msgstr ""
 "Wygnaj wszystkie atakujące stwory pod władaniem wskazanego gracza. Ów gracz "
 "może wyszukać w swojej bibliotece tyle samo kart bazowych lądów i umieścić "
-"je przekręcone na polu bitwy, po czym tasuje swoją bibliotekę."
+"je przekręcone na polu bitwy, po czym tasuje."
 
 #: ../../XLN.rst:188
 msgid ""
@@ -789,11 +770,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:255
-#, fuzzy
-#| msgid ""
-#| "When Deadeye Quartermaster enters the battlefield, you may search your "
-#| "library for an Equipment or Vehicle card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "When Deadeye Quartermaster enters the battlefield, you may search your "
 "library for an Equipment or Vehicle card, reveal it, put it into your hand, "
@@ -801,7 +777,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia lub Pojazdu, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../XLN.rst:260
 msgid ""
@@ -884,8 +860,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:281
-#, fuzzy
-#| msgid "Gain control of target creature with converted mana cost X."
 msgid "Gain control of target creature with mana value X."
 msgstr "Zyskaj władanie nad wskazanym stworem o skrócie many X."
 
@@ -1039,7 +1013,7 @@ msgstr ""
 
 #: ../../XLN.rst:331
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../XLN.rst:338
 msgid ""
@@ -1060,10 +1034,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:341
-#, fuzzy
-#| msgid ""
-#| "Return target nonland permanent you don't control to its owner's hand. If "
-#| "its converted mana cost was 2 or less, scry 2."
 msgid ""
 "Return target nonland permanent you don't control to its owner's hand. If "
 "its mana value was 2 or less, scry 2."
@@ -1316,11 +1286,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:415
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. Create X Treasure tokens, where X is that spell's "
-#| "converted mana cost. (They're artifacts with \"|tap|, Sacrifice this "
-#| "artifact: Add one mana of any color.\")"
 msgid ""
 "Counter target spell. Create X Treasure tokens, where X is that spell's mana "
 "value. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one "
@@ -1925,11 +1890,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:605
-#, fuzzy
-#| msgid ""
-#| "Raid — At the beginning of your end step, if you attacked this turn, "
-#| "reveal the top card of your library and put that card into your hand. You "
-#| "lose life equal to the card's converted mana cost."
 msgid ""
 "Raid — At the beginning of your end step, if you attacked this turn, reveal "
 "the top card of your library and put that card into your hand. You lose life "
@@ -2218,11 +2178,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:691
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls "
-#| "until end of turn. Untap that creature. It gains haste until end of turn. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls "
 "until end of turn. Untap that creature. It gains haste until end of turn. "
@@ -2478,18 +2433,13 @@ msgid "Repeating Barrage deals 3 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../XLN.rst:783
-#, fuzzy
-#| msgid ""
-#| "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your "
-#| "graveyard to your hand. Activate this ability only if you attacked this "
-#| "turn."
 msgid ""
 "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your "
 "graveyard to your hand. Activate only if you attacked this turn."
 msgstr ""
 "Najazd — |mana_3|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
-"cmentarza do twojej ręki. Możesz aktywować tę zdolność tylko jeśli "
-"atakowałeś w tej turze."
+"cmentarza do twojej ręki. Możesz aktywować tylko jeśli atakowałeś w tej "
+"turze."
 
 #: ../../XLN.rst:790
 msgid ""
@@ -2621,13 +2571,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:825
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a spell from your hand, reveal the top X cards of your "
-#| "library, where X is that spell's converted mana cost. You may cast a "
-#| "spell with converted mana cost X or less from among cards revealed this "
-#| "way without paying its mana cost. Put the rest on the bottom of your "
-#| "library in a random order."
 msgid ""
 "Whenever you cast a spell from your hand, reveal the top X cards of your "
 "library, where X is that spell's mana value. You may cast a spell with mana "
@@ -2636,7 +2579,7 @@ msgid ""
 msgstr ""
 "Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest skrótem many owego czaru. Możesz rzucić ujawniony w "
-"ten sposób czar o wartości many X lub mniejszej bez płacenia jego kosztu "
+"ten sposób czar o skrócie many X lub mniejszym bez płacenia jego kosztu "
 "many. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../XLN.rst:830
@@ -3211,11 +3154,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1003
-#, fuzzy
-#| msgid ""
-#| "When Old-Growth Dryads enters the battlefield, each opponent may search "
-#| "their library for a basic land card, put it onto the battlefield tapped, "
-#| "then shuffle their library."
 msgid ""
 "When Old-Growth Dryads enters the battlefield, each opponent may search "
 "their library for a basic land card, put it onto the battlefield tapped, "
@@ -3223,7 +3161,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik może wyszukać w "
 "swojej bibliotece kartę bazowego lądu, umieszcza ją na polu bitwy "
-"przekręconą, po czym tasuje swoją bibliotekę."
+"przekręconą, po czym tasuje."
 
 #: ../../XLN.rst:1008
 msgid ""
@@ -3248,11 +3186,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1011
-#, fuzzy
-#| msgid ""
-#| "Enrage — Whenever Ranging Raptors is dealt damage, you may search your "
-#| "library for a basic land card, put it onto the battlefield tapped, then "
-#| "shuffle your library."
 msgid ""
 "Enrage — Whenever Ranging Raptors is dealt damage, you may search your "
 "library for a basic land card, put it onto the battlefield tapped, then "
@@ -3260,7 +3193,7 @@ msgid ""
 msgstr ""
 "Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, możesz wyszukać w twojej "
 "bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../XLN.rst:1016
 msgid ""
@@ -3757,16 +3690,12 @@ msgid "Vigilance, lifelink"
 msgstr "Czujność, więź życia"
 
 #: ../../XLN.rst:1163
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 7 life: Destroy target nonland permanent. Activate this "
-#| "ability only during your turn."
 msgid ""
 "|tap|, Pay 7 life: Destroy target nonland permanent. Activate only during "
 "your turn."
 msgstr ""
 "|tap|, zapłać 7 życia: Zniszcz wskazany nie-lądowy permanent. Możesz "
-"aktywować tę zdolność tylko podczas twojej tury."
+"aktywować tylko podczas twojej tury."
 
 #: ../../XLN.rst:1172
 msgid ""
@@ -4188,16 +4117,12 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1303
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Search your library for a basic land card, reveal it, "
-#| "put it into your hand, then shuffle your library."
 msgid ""
 "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put "
 "it into your hand, then shuffle."
 msgstr ""
 "|mana_3|, |tap|: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij "
-"ją, umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
+"ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../XLN.rst:1305
 msgid ""
@@ -4324,11 +4249,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1351
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
-#| "opponent controls. Each player searches their library for a basic land "
-#| "card, puts it onto the battlefield, then shuffles their library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
 "opponent controls. Each player searches their library for a basic land card, "
@@ -4336,7 +4256,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Zniszcz wskazany nie-bazowy ląd pod "
 "władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
-"lądu, umieszcza ją na polu bitwy, po czym tasuje swoją bibliotekę."
+"lądu, umieszcza ją na polu bitwy, po czym tasuje."
 
 #: ../../XLN.rst:1358
 msgid ""
@@ -4518,11 +4438,6 @@ msgid "Return up to two target creatures to their owner's hand."
 msgstr "Przywróć co najwyżej dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../XLN.rst:1425
-#, fuzzy
-#| msgid ""
-#| "Search your library and/or graveyard for a card named Jace, Ingenious "
-#| "Mind-Mage, reveal it, and put it into your hand. If you searched your "
-#| "library this way, shuffle it."
 msgid ""
 "Search your library and/or graveyard for a card named Jace, Ingenious Mind-"
 "Mage, reveal it, and put it into your hand. If you searched your library "
@@ -4530,7 +4445,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece oraz/lub cmentarzu kartę o nazwie Jace, "
 "Ingenious Mind-Mage, ujawnij ją i umieść w twojej ręce. Jeśli przeszukiwałeś "
-"twoją bibliotekę w ten sposób, przetasuj ją."
+"twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../XLN.rst:1430
 msgid ""
@@ -4621,12 +4536,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1455
-#, fuzzy
-#| msgid ""
-#| "When Sun-Blessed Mount enters the battlefield, you may search your "
-#| "library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal "
-#| "it, then put it into your hand. If you searched your library this way, "
-#| "shuffle it."
 msgid ""
 "When Sun-Blessed Mount enters the battlefield, you may search your library "
 "and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then "
@@ -4635,7 +4544,7 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "oraz/lub cmentarzu kartę o nazwie Huatli, Dinosaur Knight, ujawnij ją, po "
 "czym umieść ją w twojej ręce. Jeśli przeszukiwałeś twoją bibliotekę w ten "
-"sposób, przetasuj ją."
+"sposób, przetasuj."
 
 #: ../../XLN.rst:1461
 msgid ""

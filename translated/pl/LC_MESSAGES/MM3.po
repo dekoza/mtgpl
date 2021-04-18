@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-11 16:25+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -310,18 +310,13 @@ msgid ""
 msgstr ""
 
 #: ../../MM3.rst:93
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle "
-#| "their library."
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować swoją bibliotekę."
+"przetasować."
 
 #: ../../MM3.rst:100
 msgid ""
@@ -362,7 +357,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je "
-"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj."
 
 #: ../../MM3.rst:112
 msgid ""
@@ -716,8 +711,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej cztery karty o różnych nazwach i "
 "ujawnij je. Wskazany przeciwnik wybiera dwie z owych kart. Umieść wybrane "
-"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj."
 
 #: ../../MM3.rst:214
 msgid ""
@@ -777,7 +771,7 @@ msgid ""
 "it into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
-"i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../MM3.rst:229
 msgid ""
@@ -1045,8 +1039,7 @@ msgid ""
 "for a creature card, put that card into your graveyard, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj "
-"twoją bibliotekę."
+"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj."
 
 #: ../../MM3.rst:319 ../../MM3.rst:387
 msgid ""
@@ -1425,7 +1418,7 @@ msgstr ""
 
 #: ../../MM3.rst:441
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../MM3.rst:443
 msgid ""
@@ -2234,7 +2227,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../MM3.rst:700
 msgid ""
@@ -2359,8 +2352,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, po czym przetasuj."
 
 #: ../../MM3.rst:734
 msgid ""
@@ -2902,10 +2894,6 @@ msgid ""
 msgstr ""
 
 #: ../../MM3.rst:903
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. Create an X/X green Ooze creature token, where X is "
-#| "that spell's converted mana cost."
 msgid ""
 "Counter target spell. Create an X/X green Ooze creature token, where X is "
 "that spell's mana value."
@@ -3368,7 +3356,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz wyszukać w twojej bibliotece kartę uroku "
 "o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. Jeśli tak zrobisz, "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../MM3.rst:1068
 msgid ""
@@ -3741,8 +3729,7 @@ msgid ""
 "or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MM3.rst:1184
 msgid ""
@@ -3905,8 +3892,7 @@ msgid ""
 "or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MM3.rst:1242
 msgid ""
@@ -3926,7 +3912,7 @@ msgid ""
 "Forest or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MM3.rst:1248
 msgid ""
@@ -3991,7 +3977,7 @@ msgid ""
 "Island or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Wyspy lub Góry, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Wyspy lub Góry, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MM3.rst:1270
 msgid ""
@@ -4067,7 +4053,7 @@ msgid ""
 "Swamp or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Bagna lub Lasu, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Bagna lub Lasu, umieść ją na polu bitwy, po czym przetasuj."
 
 #~ msgid ""
 #~ "Target player puts the top two cards of their library into their "

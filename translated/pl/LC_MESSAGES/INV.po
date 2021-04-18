@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 10:31+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/inv/pl/>\n"
 "Language: pl\n"
@@ -987,7 +987,7 @@ msgstr ""
 
 #: ../../INV.rst:343
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../INV.rst:354
 msgid ""
@@ -1035,11 +1035,6 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:365
-#, fuzzy
-#| msgid ""
-#| "Counter target spell if its converted mana cost is 2 or less. If this "
-#| "spell was kicked, counter that spell if its converted mana cost is 4 or "
-#| "less instead."
 msgid ""
 "Counter target spell if its mana value is 2 or less. If this spell was "
 "kicked, counter that spell if its mana value is 4 or less instead."
@@ -2750,7 +2745,7 @@ msgid ""
 "you skip your draw step this turn."
 msgstr ""
 "|tap: Wyszukaj w twojej bibliotece legendarną kartę, ujawnij ją i umieść w "
-"twojej ręce. Następnie przetasuj twoją bibliotekę."
+"twojej ręce. Następnie przetasuj."
 
 #: ../../INV.rst:1014
 msgid ""
@@ -2821,8 +2816,8 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
-"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
-"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../INV.rst:1036
 msgid ""
@@ -3065,7 +3060,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
-"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy. Następnie przetasuj."
 
 #: ../../INV.rst:1118
 msgid ""
@@ -3510,7 +3505,7 @@ msgid ""
 "into your hand, then shuffle."
 msgstr ""
 "|tap: Wyszukaj w twojej bibliotece legendarną kartę, ujawnij ją i umieść w "
-"twojej ręce. Następnie przetasuj twoją bibliotekę."
+"twojej ręce. Następnie przetasuj."
 
 #: ../../INV.rst:1284
 msgid ""
@@ -3660,16 +3655,12 @@ msgid ""
 msgstr ""
 
 #: ../../INV.rst:1333
-#, fuzzy
-#| msgid ""
-#| "Destroy target land. Search your library for a basic land card and put "
-#| "that card onto the battlefield tapped. Then shuffle your library."
 msgid ""
 "Destroy target land. Search your library for a basic land card, put that "
 "card onto the battlefield tapped, then shuffle."
 msgstr ""
-"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
-"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../INV.rst:1338
 msgid ""

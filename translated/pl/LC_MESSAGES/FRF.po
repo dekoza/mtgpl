@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/frf/pl/>\n"
 "Language: pl\n"
@@ -39,10 +39,6 @@ msgstr "+2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia."
 
 # 93eb509b4933415b9a7c4fd42fca4292
 #: ../../FRF.rst:11
-#, fuzzy
-#| msgid ""
-#| "−X: Exile each permanent with converted mana cost X or less that's one or "
-#| "more colors."
 msgid ""
 "−X: Exile each permanent with mana value X or less that's one or more colors."
 msgstr ""
@@ -498,11 +494,6 @@ msgstr ""
 
 # 369f4b738b6943a4a515682cf3332059
 #: ../../FRF.rst:129
-#, fuzzy
-#| msgid ""
-#| "Return each creature card with converted mana cost X or less from your "
-#| "graveyard to the battlefield. Exile those creatures at the beginning of "
-#| "your next upkeep. Exile Rally the Ancestors."
 msgid ""
 "Return each creature card with mana value X or less from your graveyard to "
 "the battlefield. Exile those creatures at the beginning of your next upkeep. "
@@ -992,18 +983,13 @@ msgstr ""
 
 # d9ef164095934573b05dfd448687c712
 #: ../../FRF.rst:287
-#, fuzzy
-#| msgid ""
-#| "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow "
-#| "or Vial of Dragonfire, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or "
 "Vial of Dragonfire, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_u|, |tap|: Wyszukaj w twojej bibliotece kartę o nazwie Heart-Piercer "
 "Bow lub Vial of Dragonfire, ujawnij ją i umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../FRF.rst:294
 msgid ""
@@ -1144,11 +1130,6 @@ msgstr ""
 "broniącego się gracza."
 
 #: ../../FRF.rst:331
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto "
-#| "the battlefield tapped. Activate this ability only any time you could "
-#| "cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto the "
 "battlefield tapped. Activate only as a sorcery."
@@ -1518,10 +1499,6 @@ msgstr ""
 
 # be76145208b74a748b5218a5610f69f4
 #: ../../FRF.rst:439
-#, fuzzy
-#| msgid ""
-#| "When Noxious Dragon dies, you may destroy target creature with converted "
-#| "mana cost 3 or less."
 msgid ""
 "When Noxious Dragon dies, you may destroy target creature with mana value 3 "
 "or less."
@@ -1963,11 +1940,6 @@ msgstr ""
 
 # 33eb4a2d2ab9417b87a574396c5d0467
 #: ../../FRF.rst:565
-#, fuzzy
-#| msgid ""
-#| "Target creature's controller reveals a card at random from their hand. "
-#| "Friendly Fire deals damage to that creature and that player equal to the "
-#| "revealed card's converted mana cost."
 msgid ""
 "Target creature's controller reveals a card at random from their hand. "
 "Friendly Fire deals damage to that creature and that player equal to the "
@@ -2019,16 +1991,12 @@ msgstr ""
 
 # 743ad2eccdc64ddaa52bce90cdfd2711
 #: ../../FRF.rst:579
-#, fuzzy
-#| msgid ""
-#| "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-#| "Activate this ability only during your turn."
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
 "Activate only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
-"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
+"stworem. Możesz aktywować tylko w twojej turze."
 
 #: ../../FRF.rst:584
 msgid ""
@@ -2271,10 +2239,8 @@ msgstr ""
 
 # bb75f20e5e264d8e94e5581446706c57
 #: ../../FRF.rst:649
-#, fuzzy
-#| msgid "Target creature gains indestructible until end of turn."
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór do końca tury zyskuje niezniszczalność."
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 # 60fdd65f34e44db3a32c6d14810acb42
 #: ../../FRF.rst:651
@@ -2370,16 +2336,12 @@ msgstr "Umieść znacznik +1/+1 na tym stworze."
 
 # 3f850fd60b0948df90fe748136ff8481
 #: ../../FRF.rst:679
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, then shuffle your "
-#| "library and put that card on top of it."
 msgid ""
 "Search your library for a basic land card, reveal it, then shuffle and put "
 "that card on top."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, po czym "
-"przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
+"przetasuj i umieść ową kartę na wierzchu."
 
 #: ../../FRF.rst:686
 msgid ""
@@ -2598,21 +2560,15 @@ msgstr ""
 
 # ffa1a0360be14bdba8f4737ef57eeb60
 #: ../../FRF.rst:745
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library. Bolster 1. (Choose a creature with the "
-#| "least toughness among creatures you control and put a +1/+1 counter on "
-#| "it.)"
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle. Bolster 1. (Choose a creature with the least toughness "
 "among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę. Wzmocnij 1. (Wybierz stwora "
-"z najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
-"nim znacznik +1/+1.)"
+"polu bitwy, po czym przetasuj. Wzmocnij 1. (Wybierz stwora z najmniejszą "
+"wytrzymałością spośród stworów pod twoim władaniem i umieść na nim znacznik +"
+"1/+1.)"
 
 #: ../../FRF.rst:750
 msgid ""
@@ -2815,16 +2771,12 @@ msgstr "|tap|: Weź |mana_g|."
 
 # e6c4a5c282ad42288802c99116707328
 #: ../../FRF.rst:805
-#, fuzzy
-#| msgid ""
-#| "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
-#| "you control a creature with power 4 or greater."
 msgid ""
 "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate only if you control a "
 "creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Możesz aktywować tę zdolność "
-"tylko jeśli władasz stworem o sile 4 lub większej."
+"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Możesz aktywować tylko jeśli "
+"władasz stworem o sile 4 lub większej."
 
 #: ../../FRF.rst:812
 msgid ""

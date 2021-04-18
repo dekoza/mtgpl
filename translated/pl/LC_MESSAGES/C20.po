@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 08:50+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -560,7 +560,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:184
 msgid ""
@@ -1677,18 +1677,13 @@ msgstr ""
 "twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../C20.rst:571
-#, fuzzy
-#| msgid ""
-#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"przetasuj.)"
 
 #: ../../C20.rst:578
 msgid ""
@@ -1784,11 +1779,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:603
-#, fuzzy
-#| msgid ""
-#| "When Knight of the White Orchid enters the battlefield, if an opponent "
-#| "controls more lands than you, you may search your library for a Plains "
-#| "card, put it onto the battlefield, then shuffle your library."
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
 "controls more lands than you, you may search your library for a Plains card, "
@@ -1796,7 +1786,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:610
 msgid ""
@@ -1937,11 +1927,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:651
-#, fuzzy
-#| msgid ""
-#| "Whenever Sun Titan enters the battlefield or attacks, you may return "
-#| "target permanent card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Whenever Sun Titan enters the battlefield or attacks, you may return target "
 "permanent card with mana value 3 or less from your graveyard to the "
@@ -2631,7 +2616,7 @@ msgstr ""
 
 #: ../../C20.rst:869
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../C20.rst:871
 msgid ""
@@ -2708,11 +2693,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:893
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls "
-#| "until end of turn. Untap that creature. It gains haste until end of turn. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls "
 "until end of turn. Untap that creature. It gains haste until end of turn. "
@@ -2903,16 +2883,12 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:947
-#, fuzzy
-#| msgid ""
-#| "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-#| "Activate this ability only during your turn."
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
 "Activate only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
-"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
+"stworem. Możesz aktywować tylko w twojej turze."
 
 #: ../../C20.rst:952
 msgid ""
@@ -3180,7 +3156,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę lądu, umieść ją na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../C20.rst:1032
 msgid ""
@@ -3190,18 +3166,12 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1031 ../../C20.rst:1093
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../C20.rst:1042
 msgid ""
@@ -3211,16 +3181,12 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1037
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../C20.rst:1039
 msgid "Return target creature card from your graveyard to your hand."
@@ -3283,8 +3249,8 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1064
 msgid ""
@@ -3457,16 +3423,12 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1115
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1124
 msgid ""
@@ -3522,8 +3484,8 @@ msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1136
 msgid ""
@@ -3691,7 +3653,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Lasu i umieścić ją przekręconą na polu bitwy pod władaniem wskazanego "
-"gracza. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"gracza. Jeśli tak zrobisz, przetasuj."
 
 #: ../../C20.rst:1194
 msgid ""
@@ -3916,7 +3878,7 @@ msgid ""
 "onto the battlefield tapped, then shuffle."
 msgstr ""
 "Zniszcz wskazanego stwora. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1262
 msgid ""
@@ -4020,8 +3982,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1293
-#, fuzzy
-#| msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgid "Destroy each nonland permanent with mana value X or less."
 msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
 
@@ -4085,18 +4045,12 @@ msgstr ""
 "jest stworem."
 
 #: ../../C20.rst:1315
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell, you may search your library for a "
-#| "Forest or Plains card, put it onto the battlefield tapped, then shuffle "
-#| "your library."
 msgid ""
 "Whenever you cast a creature spell, you may search your library for a Forest "
 "or Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Ilekroć rzucisz czar stwora, możesz wyszukać w twojej bibliotece kartę Lasu "
-"lub Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"lub Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1326
 msgid ""
@@ -4192,9 +4146,9 @@ msgid ""
 "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1354
 msgid ""
@@ -4224,8 +4178,8 @@ msgid ""
 "beginning of the next end step."
 msgstr ""
 "–8: Wyszukaj w twojej bibliotece kartę artefaktu lub stwora, umieść ją na "
-"polu bitwy, po czym przetasuj twoją bibliotekę. Zyskuje ona pośpiech. "
-"Przywróć ją do twojej ręki na początku najbliższego kroku końcowego."
+"polu bitwy, po czym przetasuj. Zyskuje ona pośpiech. Przywróć ją do twojej "
+"ręki na początku najbliższego kroku końcowego."
 
 #: ../../C20.rst:1362
 msgid ""
@@ -4240,12 +4194,6 @@ msgid "+2: Scry 2."
 msgstr "+2: Wróż 2."
 
 #: ../../C20.rst:1359
-#, fuzzy
-#| msgid ""
-#| "0: Look at the top card of your library. If it's a land card or a "
-#| "creature card with converted mana cost less than or equal to the number "
-#| "of loyalty counters on Nissa, Steward of Elements, you may put that card "
-#| "onto the battlefield."
 msgid ""
 "0: Look at the top card of your library. If it's a land card or a creature "
 "card with mana value less than or equal to the number of loyalty counters on "
@@ -4716,19 +4664,13 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1521
-#, fuzzy
-#| msgid ""
-#| "When Solemn Simulacrum enters the battlefield, you may search your "
-#| "library for a basic land card, put that card onto the battlefield tapped, "
-#| "then shuffle your library."
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1523
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -4764,7 +4706,7 @@ msgid ""
 msgstr ""
 "Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"przetasuj.)"
 
 #: ../../C20.rst:1544
 msgid ""
@@ -4809,11 +4751,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1555
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -4821,7 +4758,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../C20.rst:1564
 msgid ""
@@ -5288,9 +5225,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
-"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1748
 msgid ""
@@ -5399,11 +5335,6 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C20.rst:1791
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -5411,7 +5342,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"na polu bitwy, po czym przetasuj."
 
 #: ../../C20.rst:1798
 msgid ""
@@ -5818,10 +5749,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1967
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-#| "control five or more lands."
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."

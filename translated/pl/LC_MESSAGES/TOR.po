@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-16 18:38+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tor/pl/>\n"
 "Language: pl\n"
@@ -2034,6 +2034,8 @@ msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../TOR.rst:711
 #, fuzzy
@@ -2046,9 +2048,8 @@ msgid ""
 "your library for up to three basic land cards, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór ma "
-"\"Kiedy ten stwór wejdzie na pole bitwy, zadaje 3 obrażenia w dowolnie "
-"wskazany cel.\""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../TOR.rst:718
 msgid ""
@@ -2271,12 +2272,10 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../TOR.rst:795
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you "
-#| "control a Swamp."
 msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
+msgstr ""
+"|tap|: Weź |mana_w| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../TOR.rst:802
 msgid ""
@@ -2318,10 +2317,6 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:813
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you "
-#| "control a Swamp."
 msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""
 "|tap|: Weź |mana_b| lub |mana_g|. Możesz aktywować tylko jeśli władasz "

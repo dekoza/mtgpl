@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -934,8 +934,7 @@ msgid ""
 "library for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Aury, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Aury, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../ROE.rst:366
 msgid ""
@@ -2402,10 +2401,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:969
-#, fuzzy
-#| msgid ""
-#| "Disaster Radius deals X damage to each creature your opponents control, "
-#| "where X is the revealed card's converted mana cost."
 msgid ""
 "Disaster Radius deals X damage to each creature your opponents control, "
 "where X is the revealed card's mana value."
@@ -3100,8 +3095,8 @@ msgid ""
 "It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę. Stwórz żeton bezkolorowego "
-"stwora Pomiot Eldrazi 0/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
+"polu bitwy, po czym przetasuj. Stwórz żeton bezkolorowego stwora Pomiot "
+"Eldrazi 0/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:1228
 msgid ""
@@ -3361,8 +3356,7 @@ msgid ""
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ROE.rst:1330
 msgid ""
@@ -3423,8 +3417,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej cztery karty lądów o różnych "
 "nazwach i ujawnij je. Przeciwnik wybiera dwie z owych kart. Umieść wybrane "
-"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj."
 
 #: ../../ROE.rst:1356
 msgid ""
@@ -3776,16 +3769,12 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1469
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ROE.rst:1474
 msgid ""

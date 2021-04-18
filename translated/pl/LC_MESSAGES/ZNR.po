@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-11 11:38+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -757,11 +757,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:235
-#, fuzzy
-#| msgid ""
-#| "When Skyclave Apparition enters the battlefield, exile up to one target "
-#| "nonland, nontoken permanent you don't control with converted mana cost 4 "
-#| "or less."
 msgid ""
 "When Skyclave Apparition enters the battlefield, exile up to one target "
 "nonland, nontoken permanent you don't control with mana value 4 or less."
@@ -771,11 +766,6 @@ msgstr ""
 "mniejszym."
 
 #: ../../ZNR.rst:237
-#, fuzzy
-#| msgid ""
-#| "When Skyclave Apparition leaves the battlefield, the exiled card's owner "
-#| "creates an X/X blue Illusion creature token, where X is the converted "
-#| "mana cost of the exiled card."
 msgid ""
 "When Skyclave Apparition leaves the battlefield, the exiled card's owner "
 "creates an X/X blue Illusion creature token, where X is the mana value of "
@@ -1260,11 +1250,6 @@ msgid "Kicker |mana_2|"
 msgstr "Podbicie |mana_2|"
 
 #: ../../ZNR.rst:389
-#, fuzzy
-#| msgid ""
-#| "When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create "
-#| "a token that's a copy of Jace, Mirror Mage except it's not legendary and "
-#| "its starting loyalty is 1."
 msgid ""
 "When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a "
 "token that's a copy of Jace, Mirror Mage, except it's not legendary and its "
@@ -1279,10 +1264,6 @@ msgid "+1: Scry 2."
 msgstr "+1: Wróż 2."
 
 #: ../../ZNR.rst:393
-#, fuzzy
-#| msgid ""
-#| "0: Draw a card and reveal it. Remove a number of loyalty counters equal "
-#| "to that card's converted mana cost from Jace, Mirror Mage."
 msgid ""
 "0: Draw a card and reveal it. Remove a number of loyalty counters equal to "
 "that card's mana value from Jace, Mirror Mage."
@@ -1341,8 +1322,6 @@ msgstr ""
 "którego władca ma co najmniej osiem kart w swoim cmentarzu."
 
 #: ../../ZNR.rst:415
-#, fuzzy
-#| msgid "Gain control of target creature with converted mana cost X."
 msgid "Gain control of target creature with mana value X."
 msgstr "Zyskaj władanie nad wskazanym stworem o skrócie many X."
 
@@ -1416,16 +1395,12 @@ msgstr ""
 "(Umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:443
-#, fuzzy
-#| msgid ""
-#| "Sacrifice Merfolk Windrobber: Draw a card. Activate this ability only if "
-#| "an opponent has eight or more cards in their graveyard."
 msgid ""
 "Sacrifice Merfolk Windrobber: Draw a card. Activate only if an opponent has "
 "eight or more cards in their graveyard."
 msgstr ""
-"Poświęć tego stwora: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli "
-"przeciwnik ma co najmniej osiem kart w swoim cmentarzu."
+"Poświęć tego stwora: Dobierz kartę. Możesz aktywować tylko jeśli przeciwnik "
+"ma co najmniej osiem kart w swoim cmentarzu."
 
 #: ../../ZNR.rst:448
 msgid ""
@@ -1562,12 +1537,6 @@ msgid "Kicker |mana_4|\\ |mana_u|"
 msgstr "Podbicie |mana_4|\\ |mana_u|"
 
 #: ../../ZNR.rst:485
-#, fuzzy
-#| msgid ""
-#| "When Sea Gate Stormcaller enters the battlefield, copy the next instant "
-#| "or sorcery spell with converted mana cost 2 or less you cast this turn "
-#| "when you cast it. If Sea Gate Stormcaller was kicked, copy that spell "
-#| "twice instead. You may choose new targets for the copies."
 msgid ""
 "When Sea Gate Stormcaller enters the battlefield, copy the next instant or "
 "sorcery spell with mana value 2 or less you cast this turn when you cast it. "
@@ -1747,11 +1716,6 @@ msgstr ""
 "zapłacić |mana_x|.)"
 
 #: ../../ZNR.rst:535
-#, fuzzy
-#| msgid ""
-#| "When Thieving Skydiver enters the battlefield, if it was kicked, gain "
-#| "control of target artifact with converted mana cost X or less. If that "
-#| "artifact is an Equipment, attach it to Thieving Skydiver."
 msgid ""
 "When Thieving Skydiver enters the battlefield, if it was kicked, gain "
 "control of target artifact with mana value X or less. If that artifact is an "
@@ -1847,10 +1811,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:565
-#, fuzzy
-#| msgid ""
-#| "Return from your graveyard to the battlefield any number of target "
-#| "creature cards that each have a different converted mana cost X or less."
 msgid ""
 "Return from your graveyard to the battlefield any number of target creature "
 "cards that each have a different mana value X or less."
@@ -1968,11 +1928,6 @@ msgstr ""
 "mana_2|\\ |mana_g|.)"
 
 #: ../../ZNR.rst:599
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature or planeswalker with converted mana cost 2 or "
-#| "less. If this spell was kicked, instead destroy target creature or "
-#| "planeswalker."
 msgid ""
 "Destroy target creature or planeswalker with mana value 2 or less. If this "
 "spell was kicked, instead destroy target creature or planeswalker."
@@ -1988,19 +1943,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:605
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card, put it into your hand, then shuffle your "
-#| "library. If you have a full party, you may cast a spell with converted "
-#| "mana cost 4 or less from your hand without paying its mana cost."
 msgid ""
 "Search your library for a card, put it into your hand, then shuffle. If you "
 "have a full party, you may cast a spell with mana value 4 or less from your "
 "hand without paying its mana cost."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę, umieść ją w twojej ręce, po czym "
-"przetasuj twoją bibliotekę. Jeśli masz pełną ekipę, możesz rzucić z twojej "
-"ręki czar o skrócie many 4 lub mniejszym bez płacenia jego kosztu many."
+"przetasuj. Jeśli masz pełną ekipę, możesz rzucić z twojej ręki czar o "
+"skrócie many 4 lub mniejszym bez płacenia jego kosztu many."
 
 #: ../../ZNR.rst:612
 msgid ""
@@ -2103,10 +2053,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:637
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature or enchantment an opponent controls. You lose "
-#| "life equal to that permanent's converted mana cost."
 msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's mana value."
@@ -2231,10 +2177,6 @@ msgid "Target opponent discards two cards."
 msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../ZNR.rst:681
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost 2 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value 2 or less from your graveyard to "
 "the battlefield."
@@ -2243,10 +2185,8 @@ msgstr ""
 "cmentarza na pole bitwy."
 
 #: ../../ZNR.rst:683
-#, fuzzy
-#| msgid "Destroy target creature with power 3 or less."
 msgid "Destroy target creature with mana value 3 or less."
-msgstr "Zniszcz wskazanego stwora o sile 3 lub mniejszej."
+msgstr "Zniszcz wskazanego stwora o skrócie many 3 lub mniejszym."
 
 #: ../../ZNR.rst:692
 msgid ""
@@ -2458,11 +2398,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:751
-#, fuzzy
-#| msgid ""
-#| "Target creature you control gains indestructible until end of turn. Draw "
-#| "a card if that creature has a +1/+1 counter on it. (Damage and effects "
-#| "that say \"destroy\" don't destroy that creature.)"
 msgid ""
 "Target creature you control gains indestructible until end of turn. Draw a "
 "card if that creature has a +1/+1 counter on it. (Damage and effects that "
@@ -2481,10 +2416,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:755
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose a card from it with "
-#| "converted mana cost 3 or greater. That player discards that card."
 msgid ""
 "Target opponent reveals their hand. You choose a card from it with mana "
 "value 3 or greater. That player discards that card."
@@ -2575,11 +2506,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:785
-#, fuzzy
-#| msgid ""
-#| "Exile all creatures and all planeswalkers with converted mana cost 3 or "
-#| "less from the battlefield and all creature and planeswalker cards with "
-#| "converted mana cost 3 or less from all graveyards."
 msgid ""
 "Exile all creatures and planeswalkers with mana value 3 or less from the "
 "battlefield and all creature and planeswalker cards with mana value 3 or "
@@ -2587,7 +2513,7 @@ msgid ""
 msgstr ""
 "Wygnaj wszystkie stwory i wszystkich wędrowców o skrótach many 3 lub "
 "mniejszych z pola bitwy oraz wszystkie karty stworów i karty wędrowców o "
-"kosztach many 3 lub mniejszy z cmentarzy."
+"skrótach many 3 lub mniejszych ze wszystkich cmentarzy."
 
 #: ../../ZNR.rst:796
 msgid ""
@@ -2651,10 +2577,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:805
-#, fuzzy
-#| msgid ""
-#| "Each opponent sacrifices a creature or planeswalker with the highest "
-#| "converted mana cost among creatures and planeswalkers they control."
 msgid ""
 "Each opponent sacrifices a creature or planeswalker with the highest mana "
 "value among creatures and planeswalkers they control."
@@ -2845,17 +2767,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:869
-#, fuzzy
-#| msgid ""
-#| "Destroy target land. Its controller may search their library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle their library."
 msgid ""
 "Destroy target land. Its controller may search their library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Zniszcz wskazany ląd. Jego władca może wyszukać w swojej bibliotece kartę "
-"bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym przetasować "
-"swoją bibliotekę."
+"bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym tasuje."
 
 #: ../../ZNR.rst:876
 msgid ""
@@ -3506,12 +3423,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1081
-#, fuzzy
-#| msgid ""
-#| "When Thundering Sparkmage enters the battlefield, it deals X damage to "
-#| "target creature or planeswalker, where X is the number of creatures in "
-#| "your party. (Your party consists of up to one of each of Cleric, Rogue, "
-#| "Warrior, and Wizard.)"
 msgid ""
 "When Thundering Sparkmage enters the battlefield, it deals X damage to "
 "target creature or planeswalker, where X is the number of creatures in your "
@@ -4078,20 +3989,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1267
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library. If this spell was kicked, search your "
-#| "library for two basic land cards instead of one."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle. If this spell was kicked, search your library for two basic "
 "land cards instead of one."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego ląduj, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę. Jeśli ten czar został "
-"podbity, wyszukaj w twojej bibliotece dwie karty bazowych lądów zamiast "
-"jednej."
+"twojej ręce, po czym przetasuj. Jeśli ten czar został podbity, wyszukaj w "
+"twojej bibliotece dwie karty bazowych lądów zamiast jednej."
 
 #: ../../ZNR.rst:1272
 msgid ""
@@ -4101,16 +4006,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1271
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a land. Search your library for up to two basic land cards, put "
-#| "them onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Sacrifice a land. Search your library for up to two basic land cards, put "
 "them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Poświęć ląd. Wyszukaj w twojej bibliotece dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNR.rst:1278
 msgid ""
@@ -4343,12 +4244,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1351
-#, fuzzy
-#| msgid ""
-#| "Look at the top seven cards of your library. You may put a creature card "
-#| "from among them onto the battlefield. If that card has converted mana "
-#| "cost 3 or less, it enters with three additional +1/+1 counters on it. Put "
-#| "the rest on the bottom of your library in a random order."
 msgid ""
 "Look at the top seven cards of your library. You may put a creature card "
 "from among them onto the battlefield. If that card has mana value 3 or less, "
@@ -4404,20 +4299,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1373
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library. If this spell was kicked, "
-#| "put two +1/+1 counters on each creature you control."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle. If this spell was kicked, put two +1/+1 "
 "counters on each creature you control."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Jeśli ten "
-"czar został podbity, umieść po dwa znaczniki +1/+1 na każdym stworze pod "
-"twoim władaniem."
+"je przekręcone na polu bitwy, po czym przetasuj. Jeśli ten czar został "
+"podbity, umieść po dwa znaczniki +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../ZNR.rst:1382
 msgid ""
@@ -4719,11 +4608,6 @@ msgstr ""
 "jest lądem."
 
 #: ../../ZNR.rst:1471
-#, fuzzy
-#| msgid ""
-#| "−5: You may put a creature card with converted mana cost less than or "
-#| "equal to the number of lands you control onto the battlefield from your "
-#| "hand or graveyard with two +1/+1 counters on it."
 msgid ""
 "−5: You may put a creature card with mana value less than or equal to the "
 "number of lands you control onto the battlefield from your hand or graveyard "
@@ -4772,11 +4656,6 @@ msgid "Lifelink"
 msgstr "Więź życia"
 
 #: ../../ZNR.rst:1483
-#, fuzzy
-#| msgid ""
-#| "Whenever Orah, Skyclave Hierophant or another Cleric you control dies, "
-#| "return target Cleric card with lesser converted mana cost from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Whenever Orah, Skyclave Hierophant or another Cleric you control dies, "
 "return target Cleric card with lesser mana value from your graveyard to the "
@@ -4904,11 +4783,6 @@ msgstr ""
 "na jego rzucenie."
 
 #: ../../ZNR.rst:1525
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a kicked spell, you may remove two +1/+1 counters from "
-#| "Verazol, the Split Current. If you do, copy that spell. You may choose "
-#| "new targets for that copy. (A copy of a permanent spell becomes a token.)"
 msgid ""
 "Whenever you cast a kicked spell, you may remove two +1/+1 counters from "
 "Verazol. If you do, copy that spell. You may choose new targets for the "
@@ -4927,11 +4801,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1529
-#, fuzzy
-#| msgid ""
-#| "When Yasharn, Implacable Earth enters the battlefield, search your "
-#| "library for a basic Forest card and a basic Plains card, reveal those "
-#| "cards, put them into your hand, then shuffle your library."
 msgid ""
 "When Yasharn enters the battlefield, search your library for a basic Forest "
 "card and a basic Plains card, reveal those cards, put them into your hand, "
@@ -4939,7 +4808,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "bazowego Lasu oraz kartę bazowej Równiny, ujawnij owe karty, umieść je w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../ZNR.rst:1531
 msgid ""

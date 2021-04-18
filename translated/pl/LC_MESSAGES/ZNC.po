@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 15:58+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znc/pl/>\n"
 "Language: pl\n"
@@ -338,9 +338,9 @@ msgid ""
 "When Kor Cartographer enters the battlefield, you may search your library "
 "for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
-"zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
-"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../ZNC.rst:112
 msgid ""
@@ -396,11 +396,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:125
-#, fuzzy
-#| msgid ""
-#| "Whenever Sun Titan enters the battlefield or attacks, you may return "
-#| "target permanent card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Whenever Sun Titan enters the battlefield or attacks, you may return target "
 "permanent card with mana value 3 or less from your graveyard to the "
@@ -1140,18 +1135,13 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:343
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield, "
-#| "then shuffle your library. (Then exile this card. You may cast the "
-#| "creature later from exile.)"
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę. (Następnie wygnaj tę kartę. Możesz "
-"później rzucić z niej stwora z wygnania.)"
+"po czym przetasuj. (Następnie wygnaj tę kartę. Możesz później rzucić z niej "
+"stwora z wygnania.)"
 
 #: ../../ZNC.rst:348
 msgid ""
@@ -1161,17 +1151,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:347
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards and/or Gate cards, put "
-#| "them onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards and/or Gate cards, put "
 "them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
-"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:352
 msgid ""
@@ -1237,17 +1222,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:367
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards and/or Gate cards, put "
-#| "them onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
-"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:369
 #, fuzzy
@@ -1260,9 +1240,8 @@ msgid ""
 "your library for up to three basic land cards, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
-"zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
-"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:376
 msgid ""
@@ -1276,11 +1255,6 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../ZNC.rst:375
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
@@ -1288,7 +1262,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"bitwy, po czym tasuje."
 
 #: ../../ZNC.rst:380
 msgid ""
@@ -1321,9 +1295,8 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
-"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:390
 msgid ""
@@ -1381,7 +1354,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../ZNC.rst:404
 msgid ""
@@ -1391,18 +1364,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:403
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../ZNC.rst:412
 msgid ""
@@ -1472,17 +1439,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:423
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to three basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library. You gain 7 life."
 msgid ""
 "Search your library for up to three basic land cards, put them onto the "
 "battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Zyskaj 7 "
-"żyć."
+"je przekręcone na polu bitwy, po czym przetasuj. Zyskaj 7 żyć."
 
 #: ../../ZNC.rst:430
 msgid ""
@@ -1601,11 +1563,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:463
-#, fuzzy
-#| msgid ""
-#| "When Springbloom Druid enters the battlefield, you may sacrifice a land. "
-#| "If you do, search your library for up to two basic land cards, put them "
-#| "onto the battlefield tapped, then shuffle your library."
 msgid ""
 "When Springbloom Druid enters the battlefield, you may sacrifice a land. If "
 "you do, search your library for up to two basic land cards, put them onto "
@@ -1613,7 +1570,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
 "zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
-"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:470
 msgid ""
@@ -1683,9 +1640,8 @@ msgid ""
 "When Yavimaya Elder dies, you may search your library for up to two basic "
 "land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../ZNC.rst:485
 msgid "|mana_2|, Sacrifice Yavimaya Elder: Draw a card."
@@ -2020,7 +1976,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:602
 msgid ""
@@ -2286,11 +2242,6 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:703
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -2298,7 +2249,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../ZNC.rst:712
 msgid ""
@@ -2353,16 +2304,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:727
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this "
-#| "ability only if you control five or more lands."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you "
 "control five or more lands."
 msgstr ""
-"|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę. Możesz aktywować tę "
-"zdolność tylko jeśli władasz co najmniej pięcioma lądami."
+"|mana_1|, |tap|, poświęć ten ląd: Dobierz kartę. Możesz aktywować tylko "
+"jeśli władasz co najmniej pięcioma lądami."
 
 #: ../../ZNC.rst:736
 msgid ""
@@ -2421,16 +2368,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:753
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:760
 msgid ""
@@ -2521,9 +2464,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
-"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:798
 msgid ""
@@ -2537,11 +2479,6 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNC.rst:797
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -2549,7 +2486,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:804
 msgid ""
@@ -2569,7 +2506,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:812
 msgid ""
@@ -2667,4 +2604,4 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."

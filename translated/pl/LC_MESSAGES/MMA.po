@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-16 18:38+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -64,7 +64,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../MMA.rst:20
 msgid ""
@@ -498,18 +498,13 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:139
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle "
-#| "their library."
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować swoją bibliotekę."
+"przetasować."
 
 #: ../../MMA.rst:148
 msgid ""
@@ -620,7 +615,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia i "
 "umieść ją na polu bitwy. Dołącz ją do stwora pod twoim władaniem. Następnie "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../MMA.rst:182
 msgid ""
@@ -891,8 +886,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej cztery karty o różnych nazwach i "
 "ujawnij je. Wskazany przeciwnik wybiera dwie z owych kart. Umieść wybrane "
-"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"karty w twoim cmentarzu, a pozostałe w twojej ręce. Następnie przetasuj."
 
 #: ../../MMA.rst:266
 msgid ""
@@ -1174,10 +1168,8 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:369
-#, fuzzy
-#| msgid "Counter target spell."
 msgid "Counter target spell with mana value 2."
-msgstr "Skontruj wskazany czar."
+msgstr "Skontruj wskazany czar o skrócie many 2."
 
 #: ../../MMA.rst:378
 msgid ""
@@ -1229,11 +1221,6 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:395
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -1939,7 +1926,7 @@ msgid ""
 "battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../MMA.rst:633 ../../MMA.rst:639
 msgid ""
@@ -1972,11 +1959,6 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../MMA.rst:645
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -2631,18 +2613,12 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:849
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../MMA.rst:856
 msgid ""
@@ -2822,7 +2798,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../MMA.rst:913
 msgid ""
@@ -2898,7 +2874,7 @@ msgid ""
 "hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../MMA.rst:931
 msgid ""
@@ -3036,7 +3012,7 @@ msgid ""
 "your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../MMA.rst:971
 msgid "Put up to two creature cards from your hand onto the battlefield."
@@ -3202,7 +3178,7 @@ msgid ""
 "put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MMA.rst:1028
 msgid ""
@@ -3958,7 +3934,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MMA.rst:1302
 msgid ""

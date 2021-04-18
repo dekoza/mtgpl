@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -54,18 +54,12 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../IKO.rst:17
-#, fuzzy
-#| msgid ""
-#| "When Farfinder enters the battlefield, you may search your library for a "
-#| "basic land card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Farfinder enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../IKO.rst:22
 msgid ""
@@ -344,10 +338,6 @@ msgstr ""
 "jest parzyste.)"
 
 #: ../../IKO.rst:107
-#, fuzzy
-#| msgid ""
-#| "Lavabrink Venturer has protection from each converted mana cost of the "
-#| "chosen value."
 msgid ""
 "Lavabrink Venturer has protection from each mana value of the chosen quality."
 msgstr "Ten stwór ma ochronę przed każdym skrótem many o wybranej własności."
@@ -1113,10 +1103,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:393
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a noncreature spell, create an X/X blue Shark creature "
-#| "token with flying, where X is that spell's converted mana cost."
 msgid ""
 "Whenever you cast a noncreature spell, create an X/X blue Shark creature "
 "token with flying, where X is that spell's mana value."
@@ -1315,11 +1301,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:451
-#, fuzzy
-#| msgid ""
-#| "Return up to two target creature cards with total converted mana cost 3 "
-#| "or less from your graveyard to the battlefield. Put a deathtouch counter "
-#| "on either of them. Then put a menace counter on either of them."
 msgid ""
 "Return up to two target creature cards with total mana value 3 or less from "
 "your graveyard to the battlefield. Put a deathtouch counter on either of "
@@ -1495,8 +1476,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:503
-#, fuzzy
-#| msgid "Destroy target creature with converted mana cost 2 or less."
 msgid "Destroy target creature with mana value 2 or less."
 msgstr "Zniszcz wskazanego stwora o skrócie many 2 lub mniejszym."
 
@@ -1508,16 +1487,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:509
-#, fuzzy
-#| msgid ""
-#| "Choose odd or even. Exile each creature with converted mana cost of the "
-#| "chosen value. (Zero is even.)"
 msgid ""
 "Choose odd or even. Exile each creature with mana value of the chosen "
 "quality. (Zero is even.)"
 msgstr ""
 "Wybierz parzyste lub nieparzyste. Wygnaj każdego stwora o skrócie many o "
-"wybranej właściwości. (Zero jest parzyste.)"
+"wybranej własności. (Zero jest parzyste.)"
 
 #: ../../IKO.rst:512
 msgid ""
@@ -1782,16 +1757,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:601
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|: Search your library for a card named Whisper Squad, "
-#| "put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_b|: Search your library for a card named Whisper Squad, put "
 "it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_1|\\ |mana_b|: Wyszukaj w twojej bibliotece kartę Whisper Squad, "
-"umieść je przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść je przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../IKO.rst:606
 msgid ""
@@ -2120,12 +2091,6 @@ msgstr ""
 "wędrowcem o typie Lukka.\""
 
 #: ../../IKO.rst:707
-#, fuzzy
-#| msgid ""
-#| "−2: Exile target creature you control, then reveal cards from the top of "
-#| "your library until you reveal a creature card with higher converted mana "
-#| "cost. Put that card onto the battlefield and the rest on the bottom of "
-#| "your library in a random order."
 msgid ""
 "−2: Exile target creature you control, then reveal cards from the top of "
 "your library until you reveal a creature card with higher mana value. Put "
@@ -2183,8 +2148,8 @@ msgid ""
 "block and their activated abilities can't be activated."
 msgstr ""
 "Ten czar zadaje 5 obrażeń rozdzielonych dowolnie pomiędzy dowolną liczbę "
-"wskazanych stworów i/lub wędrowców. Jeśli |mana_w|\\ |mana_u| użyto do "
-"rzucenia tego czaru, do końca tury owe permanenty nie mogą atakować ani "
+"wskazanych stworów i/lub wędrowców. Jeśli do rzucenia tego czaru użyto "
+"|mana_w|\\ |mana_u|, do końca tury owe permanenty nie mogą atakować ani "
 "blokować, a ich aktywowane zdolności nie mogą być aktywowane."
 
 #: ../../IKO.rst:726
@@ -2615,11 +2580,6 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../IKO.rst:863
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
@@ -2627,7 +2587,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"bitwy, po czym tasuje."
 
 #: ../../IKO.rst:868
 msgid ""
@@ -2837,16 +2797,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:927
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../IKO.rst:936
 msgid ""
@@ -2867,16 +2823,12 @@ msgstr ""
 "niego.)"
 
 #: ../../IKO.rst:935
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Whenever this creature mutates, search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Ilekroć ten stwór mutuje, wyszykaj w twojej bibliotece kartę bazowego lądu, "
-"umieść je przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść je przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../IKO.rst:942
 msgid ""
@@ -2908,17 +2860,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:949
-#, fuzzy
-#| msgid ""
-#| "If |mana_u|\\ |mana_b| was spent to cast this spell, search your library "
-#| "for a card, put that card into your graveyard, then shuffle your library."
 msgid ""
 "If |mana_u|\\ |mana_b| was spent to cast this spell, search your library for "
 "a card, put that card into your graveyard, then shuffle."
 msgstr ""
 "Jeśli do rzucenia tego czaru użyto |mana_u|\\ |mana_b|, wyszukaj dowolną "
-"kartę w twojej bibliotece, umieść ją w twoim cmentarzu, po czym przetasuj "
-"twoją bibliotekę."
+"kartę w twojej bibliotece, umieść ją w twoim cmentarzu, po czym przetasuj."
 
 #: ../../IKO.rst:951
 msgid "Return up to two permanent cards from your graveyard to your hand."
@@ -3052,11 +2999,6 @@ msgstr ""
 "znacznik spośród czujności, zasięgu i tratowania."
 
 #: ../../IKO.rst:993
-#, fuzzy
-#| msgid ""
-#| "−2: When you cast your next creature spell this turn, search your library "
-#| "for a creature card with lesser converted mana cost, put it onto the "
-#| "battlefield, then shuffle your library."
 msgid ""
 "−2: When you cast your next creature spell this turn, search your library "
 "for a creature card with lesser mana value, put it onto the battlefield, "
@@ -3064,7 +3006,7 @@ msgid ""
 msgstr ""
 "–2: Kiedy rzucisz swój najbliższy czar stwora w tej turze, wyszukaj w twojej "
 "bibliotece kartę stwora o mniejszym skrócie many, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../IKO.rst:1000
 msgid ""
@@ -3199,11 +3141,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1035
-#, fuzzy
-#| msgid ""
-#| "Whenever a nontoken creature you control dies, mill two cards. Then "
-#| "return a creature card with lesser converted mana cost than the creature "
-#| "that died from your graveyard to your hand."
 msgid ""
 "Whenever a nontoken creature you control dies, mill two cards. Then return a "
 "creature card with lesser mana value than the creature that died from your "
@@ -3214,10 +3151,6 @@ msgstr ""
 "twojego cmentarza do twojej ręki."
 
 #: ../../IKO.rst:1037
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest "
-#| "converted mana cost among creatures you control."
 msgid ""
 "|mana_1|, Sacrifice Death's Oasis: You gain life equal to the highest mana "
 "value among creatures you control."
@@ -3492,11 +3425,6 @@ msgstr ""
 "na rzucenie nie-stworowego czaru."
 
 #: ../../IKO.rst:1111
-#, fuzzy
-#| msgid ""
-#| "−2: Draw a card, then you may discard a card. When you discard a nonland "
-#| "card this way, Narset of the Ancient Way deals damage equal to that "
-#| "card's converted mana cost to target creature or planeswalker."
 msgid ""
 "−2: Draw a card, then you may discard a card. When you discard a nonland "
 "card this way, Narset of the Ancient Way deals damage equal to that card's "
@@ -3532,10 +3460,6 @@ msgstr ""
 "Człowiek. Mutują w stwora na wierzchu plus wszystkie zdolności pod nim.)"
 
 #: ../../IKO.rst:1119
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, return target creature card with "
-#| "converted mana cost 3 or less from your graveyard to the battlefield."
 msgid ""
 "Whenever this creature mutates, return target creature card with mana value "
 "3 or less from your graveyard to the battlefield."
@@ -3915,11 +3839,6 @@ msgid "Flying, first strike"
 msgstr "Latanie, pierwszy cios"
 
 #: ../../IKO.rst:1229
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, you may cast target noncreature card with "
-#| "converted mana cost 3 or less from your graveyard without paying its mana "
-#| "cost."
 msgid ""
 "Whenever this creature mutates, you may cast target noncreature card with "
 "mana value 3 or less from your graveyard without paying its mana cost."
@@ -4015,12 +3934,6 @@ msgid "Fiend Artisan gets +1/+1 for each creature card in your graveyard."
 msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../IKO.rst:1259
-#, fuzzy
-#| msgid ""
-#| "|mana_x|\\ |mana_bg|, |tap|, Sacrifice another creature: Search your "
-#| "library for a creature card with converted mana cost X or less, put it "
-#| "onto the battlefield, then shuffle your library. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_x|\\ |mana_bg|, |tap|, Sacrifice another creature: Search your library "
 "for a creature card with mana value X or less, put it onto the battlefield, "
@@ -4028,7 +3941,7 @@ msgid ""
 msgstr ""
 "|mana_x|\\ |mana_bg|, |tap|, poświęć innego stwora: Wyszukaj w twojej "
 "bibliotece kartę stwora o skrócie many X lub mniejszym, umieść ją na polu "
-"bitwy, po czym przetasuj twoją bibliotekę. Aktywuj jako obrzęd."
+"bitwy, po czym przetasuj. Aktywuj jako obrzęd."
 
 #: ../../IKO.rst:1266
 msgid ""
@@ -4038,27 +3951,16 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1263
-#, fuzzy
-#| msgid ""
-#| "Companion — Your starting deck contains only cards with even converted "
-#| "mana costs. (If this card is your chosen companion, you may put it into "
-#| "your hand from outside the game for |mana_3| any time you could cast a "
-#| "sorcery.)"
 msgid ""
 "Companion — Your starting deck contains only cards with even mana values. "
 "(If this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
-"Kompan — Twoja startowa talia zawiera tylko karty z parzystymi skróconymi "
-"kosztami many. (Jeśli ta karta jest twoim wybranym kompanem, możesz jako "
-"obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
+"Kompan — Twoja startowa talia zawiera tylko karty z parzystymi skrótami "
+"many. (Jeśli ta karta jest twoim wybranym kompanem, możesz jako obrzęd "
+"umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1265
-#, fuzzy
-#| msgid ""
-#| "When Gyruda enters the battlefield, each player mills four cards. Put a "
-#| "creature card with an even converted mana cost from among the milled "
-#| "cards onto the battlefield under your control."
 msgid ""
 "When Gyruda enters the battlefield, each player mills four cards. Put a "
 "creature card with an even mana value from among the milled cards onto the "
@@ -4147,12 +4049,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1289
-#, fuzzy
-#| msgid ""
-#| "Companion — Your starting deck contains only cards with converted mana "
-#| "cost 3 or greater and land cards. (If this card is your chosen companion, "
-#| "you may put it into your hand from outside the game for |mana_3| any time "
-#| "you could cast a sorcery.)"
 msgid ""
 "Companion — Your starting deck contains only cards with mana value 3 or "
 "greater and land cards. (If this card is your chosen companion, you may put "
@@ -4164,10 +4060,6 @@ msgstr ""
 "możesz jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1291
-#, fuzzy
-#| msgid ""
-#| "When Keruga, the Macrosage enters the battlefield, draw a card for each "
-#| "other permanent you control with converted mana cost 3 or greater."
 msgid ""
 "When Keruga, the Macrosage enters the battlefield, draw a card for each "
 "other permanent you control with mana value 3 or greater."
@@ -4183,12 +4075,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1295
-#, fuzzy
-#| msgid ""
-#| "Companion — Each permanent card in your starting deck has converted mana "
-#| "cost 2 or less. (If this card is your chosen companion, you may put it "
-#| "into your hand from outside the game for |mana_3| any time you could cast "
-#| "a sorcery.)"
 msgid ""
 "Companion — Each permanent card in your starting deck has mana value 2 or "
 "less. (If this card is your chosen companion, you may put it into your hand "
@@ -4199,10 +4085,6 @@ msgstr ""
 "umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1299
-#, fuzzy
-#| msgid ""
-#| "During each of your turns, you may cast one permanent spell with "
-#| "converted mana cost 2 or less from your graveyard."
 msgid ""
 "During each of your turns, you may cast one permanent spell with mana value "
 "2 or less from your graveyard."
@@ -4245,12 +4127,6 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1311
-#, fuzzy
-#| msgid ""
-#| "Companion — Your starting deck contains only cards with odd converted "
-#| "mana costs and land cards. (If this card is your chosen companion, you "
-#| "may put it into your hand from outside the game for |mana_3| any time you "
-#| "could cast a sorcery.)"
 msgid ""
 "Companion — Your starting deck contains only cards with odd mana values and "
 "land cards. (If this card is your chosen companion, you may put it into your "
@@ -4261,11 +4137,6 @@ msgstr ""
 "jako obrzęd umieścić ją w twojej ręce spoza gry za |mana_3|.)"
 
 #: ../../IKO.rst:1313
-#, fuzzy
-#| msgid ""
-#| "If a source you control with an odd converted mana cost would deal damage "
-#| "to a permanent or player, it deals double that damage to that permanent "
-#| "or player instead."
 msgid ""
 "If a source you control with an odd mana value would deal damage to a "
 "permanent or player, it deals double that damage to that permanent or player "
@@ -4569,16 +4440,12 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../IKO.rst:1423
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Draw a card. Activate this ability only if you control a "
-#| "creature with power 4 or greater."
 msgid ""
 "|mana_3|, |tap|: Draw a card. Activate only if you control a creature with "
 "power 4 or greater."
 msgstr ""
-"|mana_3|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli "
-"władasz stworem o sile 4 lub większej."
+"|mana_3|, |tap|: Dobierz kartę. Możesz aktywować tylko jeśli władasz stworem "
+"o sile 4 lub większej."
 
 #: ../../IKO.rst:1432
 msgid ""
@@ -4607,16 +4474,12 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:1435
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../IKO.rst:1444
 msgid ""

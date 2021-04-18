@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
 "Language: pl\n"
@@ -690,8 +690,6 @@ msgstr ""
 
 # afe2f3dd86e247d8b72f2c1d79dfb009
 #: ../../KTK.rst:193
-#, fuzzy
-#| msgid "Counter target spell with converted mana cost 4 or greater."
 msgid "Counter target spell with mana value 4 or greater."
 msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
@@ -740,7 +738,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
 "bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../KTK.rst:210
 msgid ""
@@ -1206,7 +1204,7 @@ msgid ""
 "to the battlefield. Activate only if you attacked this turn."
 msgstr ""
 "Najazd — |mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole "
-"bitwy. Możesz aktywować tę zdolność tylko jeśli atakowałeś w tej turze."
+"bitwy. Możesz aktywować tylko jeśli atakowałeś w tej turze."
 
 #: ../../KTK.rst:366
 msgid ""
@@ -2658,7 +2656,7 @@ msgid ""
 "into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece do trzech kart bazowych lądów, ujawnij je i "
-"umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../KTK.rst:816
 msgid ""
@@ -2735,7 +2733,7 @@ msgid ""
 msgstr ""
 "Ilekroć zakryty stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
 "wyszukać w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 # a99a5086b9ff4cba9a04adb5b5845f01
 #: ../../KTK.rst:831
@@ -3543,7 +3541,7 @@ msgid ""
 "Activate only once each turn."
 msgstr ""
 "|mana_2|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
-"tę zdolność tylko raz na turę."
+"tylko raz na turę."
 
 # 4f6f8d818b524c0fbe44565b7821bcd2
 #: ../../KTK.rst:1061
@@ -4200,8 +4198,7 @@ msgid ""
 "Swamp or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Bagna lub Góry i umieść ją na polu bitwy. Następnie przetasuj twoją "
-"bibliotekę."
+"Bagna lub Góry i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../KTK.rst:1272
 msgid ""
@@ -4266,8 +4263,7 @@ msgid ""
 "Plains or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Równiny lub Wyspy i umieść ją na polu bitwy. Następnie przetasuj twoją "
-"bibliotekę."
+"Równiny lub Wyspy i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../KTK.rst:1290
 msgid ""
@@ -4358,8 +4354,7 @@ msgid ""
 "Island or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Wyspy lub Bagien i umieść ją na polu bitwy. Następnie przetasuj twoją "
-"bibliotekę."
+"Wyspy lub Bagien i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../KTK.rst:1328
 msgid ""
@@ -4544,8 +4539,7 @@ msgid ""
 "Forest or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Równiny i umieść ją na polu bitwy. Następnie przetasuj twoją "
-"bibliotekę."
+"Lasu lub Równiny i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../KTK.rst:1388
 msgid ""
@@ -4566,8 +4560,7 @@ msgid ""
 "Mountain or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Góry lub Lasu i umieść ją na polu bitwy. Następnie przetasuj twoją "
-"bibliotekę."
+"Góry lub Lasu i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../KTK.rst:1392
 msgid ""

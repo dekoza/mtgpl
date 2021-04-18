@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk2/pl/>\n"
 "Language: pl\n"
@@ -294,7 +294,7 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, nazwij kartę. Ów gracz "
 "ujawnia swoją rękę. Jeśli nazwana karta zostanie ujawniona w ten sposób, "
 "wyszukaj w twojej bibliotece kartę stwora mającego latanie, ujawnij ją, "
-"umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
+"umieść w twojej ręce, po czym przetasuj."
 
 #: ../../GK2.rst:94
 msgid ""
@@ -323,12 +323,6 @@ msgid "Protection from red"
 msgstr "Ochrona przed czerwonym"
 
 #: ../../GK2.rst:99
-#, fuzzy
-#| msgid ""
-#| "When Lavinia of the Tenth enters the battlefield, detain each nonland "
-#| "permanent your opponents control with converted mana cost 4 or less. "
-#| "(Until your next turn, those permanents can't attack or block and their "
-#| "activated abilities can't be activated.)"
 msgid ""
 "When Lavinia of the Tenth enters the battlefield, detain each nonland "
 "permanent your opponents control with mana value 4 or less. (Until your next "
@@ -832,10 +826,6 @@ msgid "Destroy target creature and you lose life equal to its toughness."
 msgstr "Zniszcz wskazanego stwora i strać życia równe jego wytrzymałości."
 
 #: ../../GK2.rst:271
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost 1 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value 1 or less from your graveyard to "
 "the battlefield."
@@ -1526,7 +1516,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór umrze, wyszukaj w twojej bibliotece dowolną liczbę kart "
 "stworów o łącznym skrócie many 6 lub mniej i umieść je na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../GK2.rst:520
 msgid ""
@@ -1776,10 +1766,6 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../GK2.rst:599
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only "
 "as a sorcery."

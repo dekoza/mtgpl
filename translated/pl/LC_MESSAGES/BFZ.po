@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bfz/pl/>\n"
 "Language: pl\n"
@@ -75,11 +75,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:21
-#, fuzzy
-#| msgid ""
-#| "When you cast this spell, you may search your library for a colorless "
-#| "creature card with converted mana cost 7 or greater, reveal it, then "
-#| "shuffle your library and put that card on top of it."
 msgid ""
 "When you cast this spell, you may search your library for a colorless "
 "creature card with mana value 7 or greater, reveal it, then shuffle and put "
@@ -87,7 +82,7 @@ msgid ""
 msgstr ""
 "Kiedy rzucisz ten czar, możesz wyszukać w twojej bibliotece kartę "
 "bezkolorowego stwora o skrócie many 7 lub większym, ujawnij ją, po czym "
-"przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
+"przetasuj i umieść ową kartę na wierzchu."
 
 #: ../../BFZ.rst:23
 msgid ""
@@ -108,11 +103,6 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../BFZ.rst:29
-#, fuzzy
-#| msgid ""
-#| "Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your "
-#| "graveyard to your hand. Activate this ability only any time you could "
-#| "cast a sorcery."
 msgid ""
 "Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard "
 "to your hand. Activate only as a sorcery."
@@ -297,22 +287,14 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:83
-#, fuzzy
-#| msgid ""
-#| "Your opponents can't cast spells with even converted mana costs. (Zero is "
-#| "even.)"
 msgid "Your opponents can't cast spells with even mana values. (Zero is even.)"
 msgstr ""
-"Twoi przeciwnicy nie mogą rzucać czarów o parzystym skrócie many. (Zero jest "
-"parzyste.)"
+"Twoi przeciwnicy nie mogą rzucać czarów o parzystych skrótach many. (Zero "
+"jest parzyste.)"
 
 #: ../../BFZ.rst:85
-#, fuzzy
-#| msgid ""
-#| "Your opponents can't block with creatures with even converted mana costs."
 msgid "Your opponents can't block with creatures with even mana values."
-msgstr ""
-"Twoi przeciwnicy nie mogą blokować stworami o parzystych skrótach many."
+msgstr "Twoi przeciwnicy nie mogą blokować stworami o parzystych skrótach many."
 
 #: ../../BFZ.rst:92
 msgid ""
@@ -1002,11 +984,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:305
-#, fuzzy
-#| msgid ""
-#| "Counter target creature spell with converted mana cost 4 or less. If that "
-#| "spell is countered this way, exile it instead of putting it into its "
-#| "owner's graveyard."
 msgid ""
 "Counter target creature spell with mana value 4 or less. If that spell is "
 "countered this way, exile it instead of putting it into its owner's "
@@ -1453,10 +1430,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:467
-#, fuzzy
-#| msgid ""
-#| "Scry X, where X is the highest converted mana cost among permanents you "
-#| "control, then draw three cards."
 msgid ""
 "Scry X, where X is the highest mana value among permanents you control, then "
 "draw three cards."
@@ -1598,16 +1571,12 @@ msgid "Skitterskin can't block."
 msgstr "Ten stwór nie może blokować."
 
 #: ../../BFZ.rst:535
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate this ability only "
-#| "if you control another colorless creature."
 msgid ""
 "|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate only if you control "
 "another colorless creature."
 msgstr ""
-"|mana_1|\\ |mana_b|: Zregeneruj tego stwora. Możesz użyć tej zdolności tylko "
-"jeśli władasz innym bezkolorowym stworem."
+"|mana_1|\\ |mana_b|: Zregeneruj tego stwora. Możesz aktywować tylko jeśli "
+"władasz innym bezkolorowym stworem."
 
 #: ../../BFZ.rst:544
 msgid ""
@@ -1658,10 +1627,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:565
-#, fuzzy
-#| msgid ""
-#| "Target player reveals their hand. You choose a card from it with "
-#| "converted mana cost 3 or greater and exile that card."
 msgid ""
 "Target player reveals their hand. You choose a card from it with mana value "
 "3 or greater and exile that card."
@@ -2038,11 +2003,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:691
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters "
-#| "on Voracious Null. Activate this ability only any time you could cast a "
-#| "sorcery."
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on "
 "Voracious Null. Activate only as a sorcery."
@@ -2088,11 +2048,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:707
-#, fuzzy
-#| msgid ""
-#| "Exile target nonbasic land. Search its controller's graveyard, hand, and "
-#| "library for any number of cards with the same name as that land and exile "
-#| "them. Then that player shuffles their library."
 msgid ""
 "Exile target nonbasic land. Search its controller's graveyard, hand, and "
 "library for any number of cards with the same name as that land and exile "
@@ -2100,7 +2055,7 @@ msgid ""
 msgstr ""
 "Wygnaj wskazany niebazowy ląd. Wyszukaj w cmentarzu, ręce i bibliotece jego "
 "właściciela dowolną liczbę kart o tej samej nazwie i wygnaj je. Następnie ów "
-"gracz tasuje swoją bibliotekę."
+"gracz tasuje."
 
 #: ../../BFZ.rst:714
 msgid ""
@@ -2690,17 +2645,12 @@ msgstr ""
 "Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:917
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an "
-#| "Eldrazi card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an "
 "Eldrazi card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_1|\\ |mana_g|, poświęć ten urok: Wyszukaj w twojej bibliotece kartę "
-"Eldrazi, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"Eldrazi, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../BFZ.rst:924
 msgid ""
@@ -2886,16 +2836,12 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:977
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj."
 
 #: ../../BFZ.rst:982
 msgid ""
@@ -2905,17 +2851,12 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:981
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to three basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library. You gain 7 life."
 msgid ""
 "Search your library for up to three basic land cards, put them onto the "
 "battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Zyskaj 7 "
-"żyć."
+"je przekręcone na polu bitwy, po czym przetasuj. Zyskaj 7 żyć."
 
 #: ../../BFZ.rst:988
 msgid ""
@@ -3083,16 +3024,12 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1037
-#, fuzzy
-#| msgid ""
-#| "Search your library for a land card, reveal it, and put it into your "
-#| "hand. Then shuffle your library."
 msgid ""
 "Search your library for a land card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i umieść w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../BFZ.rst:1042
 msgid ""
@@ -3381,12 +3318,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1147
-#, fuzzy
-#| msgid ""
-#| "Converge — Search your library for a creature, instant, or sorcery card "
-#| "with converted mana cost less than or equal to the number of colors of "
-#| "mana spent to cast this spell, exile that card, then shuffle your "
-#| "library. You may cast that card without paying its mana cost."
 msgid ""
 "Converge — Search your library for a creature, instant, or sorcery card with "
 "mana value less than or equal to the number of colors of mana spent to cast "
@@ -3395,8 +3326,8 @@ msgid ""
 msgstr ""
 "Komasowanie — Wyszukaj w twojej bibliotece kartę stwora, sztuczki lub "
 "obrzędu o skrócie many nie większym niż liczba kolorów użytych do rzucenia "
-"niniejszego czaru, wygnaj ową kartę, po czym przetasuj twoją bibliotekę. "
-"Możesz rzucić ową kartę bez płacenia jej kosztu many."
+"niniejszego czaru, wygnaj ową kartę, po czym przetasuj. Możesz rzucić ową "
+"kartę bez płacenia jej kosztu many."
 
 #: ../../BFZ.rst:1154
 msgid ""
@@ -3487,10 +3418,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1175
-#, fuzzy
-#| msgid ""
-#| "Return any number of target Ally creature cards with total converted mana "
-#| "cost 8 or less from your graveyard to the battlefield."
 msgid ""
 "Return any number of target Ally creature cards with total mana value 8 or "
 "less from your graveyard to the battlefield."
@@ -3724,18 +3651,12 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1243
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../BFZ.rst:1250
 msgid ""
@@ -3846,11 +3767,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1287
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -3858,7 +3774,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../BFZ.rst:1294
 msgid ""
@@ -3906,16 +3822,12 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1303
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../BFZ.rst:1312
 msgid ""
@@ -4040,12 +3952,6 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1347
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a colorless spell with converted mana cost 7 or "
-#| "greater, you may sacrifice Sanctum of Ugin. If you do, search your "
-#| "library for a colorless creature card, reveal it, put it into your hand, "
-#| "then shuffle your library."
 msgid ""
 "Whenever you cast a colorless spell with mana value 7 or greater, you may "
 "sacrifice Sanctum of Ugin. If you do, search your library for a colorless "
@@ -4053,8 +3959,7 @@ msgid ""
 msgstr ""
 "Ilekroć rzucisz bezkolorowy czar o skrócie many 7 lub większym, możesz "
 "poświęć ten ląd. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę "
-"bezkolorowego stwora, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"bezkolorowego stwora, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../BFZ.rst:1356
 msgid ""
@@ -4111,18 +4016,13 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1369
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast "
-#| "colorless spells. Activate this ability only if you control seven or more "
-#| "lands."
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless "
 "spells. Activate only if you control seven or more lands."
 msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Wydaj tę manę tylko na rzucenie "
-"bezkolorowego czaru. Możesz aktywować tę zdolność tylko jeśli władasz co "
-"najmniej siedmioma lądami."
+"bezkolorowego czaru. Możesz aktywować tylko jeśli władasz co najmniej "
+"siedmioma lądami."
 
 #: ../../BFZ.rst:1378
 msgid ""

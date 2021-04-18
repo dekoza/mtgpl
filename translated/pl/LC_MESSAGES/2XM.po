@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:46+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -175,8 +175,6 @@ msgid "Destroy all enchantments."
 msgstr "Zniszcz wszystkie uroki."
 
 #: ../../2XM.rst:53
-#, fuzzy
-#| msgid "Destroy all creatures with converted mana cost 3 or less."
 msgid "Destroy all creatures with mana value 3 or less."
 msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
@@ -383,11 +381,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:119
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if an opponent controls more lands than "
-#| "you, you may search your library for up to three basic land cards, reveal "
-#| "them, put them into your hand, then shuffle your library."
 msgid ""
 "At the beginning of your upkeep, if an opponent controls more lands than "
 "you, you may search your library for up to three basic land cards, reveal "
@@ -395,8 +388,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli przeciwnik ma pod władaniem "
 "więcej lądów niż ty, możesz wyszukać w swojej bibliotece co najwyżej trzy "
-"karty bazowych lądów, umieścić je w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"karty bazowych lądów, umieścić je w twojej ręce, po czym przetasuj."
 
 #: ../../2XM.rst:124
 msgid ""
@@ -472,18 +464,13 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:141
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle "
-#| "their library."
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować swoją bibliotekę."
+"przetasować."
 
 #: ../../2XM.rst:148
 msgid ""
@@ -590,8 +577,7 @@ msgid ""
 "for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, po czym przetasuj."
 
 #: ../../2XM.rst:177
 msgid ""
@@ -624,7 +610,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia i "
 "umieść ją na polu bitwy. Dołącz ją do stwora pod twoim władaniem. Następnie "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../2XM.rst:188
 msgid ""
@@ -1173,16 +1159,12 @@ msgid "As an additional cost to cast this spell, sacrifice an artifact."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt."
 
 #: ../../2XM.rst:353
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact card with converted mana cost X or "
-#| "less and put it onto the battlefield. Then shuffle your library."
 msgid ""
 "Search your library for an artifact card with mana value X or less, put it "
 "onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub mniejszy i "
-"umieść go na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub mniejszym, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../2XM.rst:358
 msgid ""
@@ -1323,7 +1305,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../2XM.rst:400
 msgid ""
@@ -1484,10 +1466,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:443
-#, fuzzy
-#| msgid ""
-#| "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant "
-#| "Salvager. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. "
 "Activate only as a sorcery."
@@ -1579,7 +1557,7 @@ msgstr ""
 
 #: ../../2XM.rst:467
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../2XM.rst:469
 msgid ""
@@ -1597,10 +1575,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:473
-#, fuzzy
-#| msgid ""
-#| "When Driver of the Dead dies, return target creature card with converted "
-#| "mana cost 2 or less from your graveyard to the battlefield."
 msgid ""
 "When Driver of the Dead dies, return target creature card with mana value 2 "
 "or less from your graveyard to the battlefield."
@@ -1646,17 +1620,11 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:485
-#, fuzzy
-#| msgid "Destroy target creature if it has converted mana cost 2 or less."
 msgid "Destroy target creature if it has mana value 2 or less."
 msgstr ""
 "Zniszcz wskazanego stwora, jeśli jego skrót many jest mniejszy lub równy 2."
 
 #: ../../2XM.rst:487
-#, fuzzy
-#| msgid ""
-#| "Revolt — Destroy that creature if it has converted mana cost 4 or less "
-#| "instead if a permanent you controlled left the battlefield this turn."
 msgid ""
 "Revolt — Destroy that creature if it has mana value 4 or less instead if a "
 "permanent you controlled left the battlefield this turn."
@@ -1899,18 +1867,13 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:553
-#, fuzzy
-#| msgid ""
-#| "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 "
-#| "black Demon creature token with flying. Activate this ability only if a "
-#| "creature died this turn."
 msgid ""
 "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black "
 "Demon creature token with flying. Activate only if a creature died this turn."
 msgstr ""
 "Okropność — |tap|, przekręć dwa odkręcone stwory pod twoim władaniem: Stwórz "
-"żeton czarnego stwora Demon 5/5 z lataniem. Możesz aktywować tę zdolność "
-"tylko jeśli w tej turze umarł stwór."
+"żeton czarnego stwora Demon 5/5 z lataniem. Możesz aktywować tylko jeśli w "
+"tej turze umarł stwór."
 
 #: ../../2XM.rst:564
 msgid ""
@@ -2003,8 +1966,7 @@ msgid ""
 "a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../2XM.rst:590
 msgid ""
@@ -2127,8 +2089,8 @@ msgid ""
 "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if "
 "Bloodshot Trainee's power is 4 or greater."
 msgstr ""
-"|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować tę "
-"zdolność tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
+"|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować "
+"tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
 
 #: ../../2XM.rst:632
 msgid ""
@@ -2278,8 +2240,7 @@ msgid ""
 "library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj "
-"twoją bibliotekę."
+"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj."
 
 #: ../../2XM.rst:675
 msgid ""
@@ -2340,7 +2301,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../2XM.rst:692
 msgid ""
@@ -2572,10 +2533,8 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:753
-#, fuzzy
-#| msgid "Target creature gains indestructible until end of turn."
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór do końca tury zyskuje niezniszczalność."
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../2XM.rst:755
 msgid ""
@@ -2824,7 +2783,7 @@ msgid ""
 "onto the battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skrócie many X lub mniejszym i "
-"umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../2XM.rst:826
 msgid ""
@@ -2877,7 +2836,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę lądu, umieść ją na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../2XM.rst:844
 msgid ""
@@ -2951,8 +2910,7 @@ msgid ""
 "a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../2XM.rst:866
 msgid ""
@@ -2990,11 +2948,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:873
-#, fuzzy
-#| msgid ""
-#| "When Fierce Empath enters the battlefield, you may search your library "
-#| "for a creature card with converted mana cost 6 or greater, reveal it, put "
-#| "it into your hand, then shuffle your library."
 msgid ""
 "When Fierce Empath enters the battlefield, you may search your library for a "
 "creature card with mana value 6 or greater, reveal it, put it into your "
@@ -3002,7 +2955,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
-"ręce, po czym przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj."
 
 #: ../../2XM.rst:878
 msgid ""
@@ -3298,18 +3251,13 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:963
-#, fuzzy
-#| msgid ""
-#| "When Veteran Explorer dies, each player may search their library for up "
-#| "to two basic land cards and put them onto the battlefield. Then each "
-#| "player who searched their library this way shuffles it."
 msgid ""
 "When Veteran Explorer dies, each player may search their library for up to "
 "two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
-"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
-"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
+"najwyżej dwie karty bazowych lądów, umieścić je na polu bitwy, po czym "
+"przetasować."
 
 #: ../../2XM.rst:970
 msgid ""
@@ -3323,16 +3271,12 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
 #: ../../2XM.rst:969
-#, fuzzy
-#| msgid ""
-#| "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
-#| "you control a creature with power 4 or greater."
 msgid ""
 "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate only if you control a "
 "creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Możesz aktywować tę zdolność "
-"tylko jeśli władasz stworem o sile 4 lub większej."
+"Zaciekłość — |tap|: Weź |mana_g|\\ |mana_g|. Możesz aktywować tylko jeśli "
+"władasz stworem o sile 4 lub większej."
 
 #: ../../2XM.rst:974
 msgid ""
@@ -3862,10 +3806,6 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../2XM.rst:1145
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only "
 "as a sorcery."
@@ -3972,7 +3912,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu lub stwora, ujawnij ją i umieść w twojej ręce. Jeśli tak "
-"zrobisz, przetasuj twoją bibliotekę."
+"zrobisz, przetasuj."
 
 #: ../../2XM.rst:1180
 msgid ""
@@ -4231,10 +4171,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1269
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-#| "equal to the sacrificed artifact's converted mana cost to any target."
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
 "equal to the sacrificed artifact's mana value to any target."
@@ -4590,8 +4526,7 @@ msgid ""
 "card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
-"bibliotekę."
+"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../2XM.rst:1380
 msgid ""
@@ -4787,7 +4722,7 @@ msgid ""
 "put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
-"i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../2XM.rst:1444
 msgid ""
@@ -5434,12 +5369,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1651
-#, fuzzy
-#| msgid ""
-#| "When Treasure Keeper dies, reveal cards from the top of your library "
-#| "until you reveal a nonland card with converted mana cost 3 or less. You "
-#| "may cast that card without paying its mana cost. Put all revealed cards "
-#| "not cast this way on the bottom of your library in a random order."
 msgid ""
 "When Treasure Keeper dies, reveal cards from the top of your library until "
 "you reveal a nonland card with mana value 3 or less. You may cast that card "
@@ -5604,7 +5533,7 @@ msgid ""
 msgstr ""
 "Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"przetasuj.)"
 
 #: ../../2XM.rst:1706
 msgid ""

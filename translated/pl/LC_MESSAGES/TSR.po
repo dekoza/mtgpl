@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 15:58+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -41,7 +41,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../TSR.rst:14
 msgid ""
@@ -501,7 +501,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór umrze, jeśli nie miał znacznika czasu, możesz wyszukać w "
 "twojej bibliotece kartę uroku i umieścić ją na polu bitwy. Jeśli tak "
-"zrobisz, przetasuj twoją bibliotekę."
+"zrobisz, przetasuj."
 
 #: ../../TSR.rst:160
 msgid ""
@@ -1436,7 +1436,7 @@ msgid ""
 "it into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę sztuczki lub kartę z błyskiem, ujawnij ją "
-"i umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../TSR.rst:449
 msgid ""
@@ -2082,7 +2082,7 @@ msgstr ""
 
 #: ../../TSR.rst:667
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../TSR.rst:669
 msgid ""
@@ -3181,7 +3181,7 @@ msgid ""
 msgstr ""
 "Drzazgaczocykling |mana_3| (|mana_3|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Drzazgacza, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"przetasuj.)"
 
 #: ../../TSR.rst:1028
 msgid ""
@@ -3380,23 +3380,14 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1085
-#, fuzzy
-#| msgid ""
-#| "Choose any target. Scry 3, then reveal the top card of your library. "
-#| "Riddle of Lightning deals damage equal to that card's converted mana cost "
-#| "to that permanent or player. (To scry 3, look at the top three cards of "
-#| "your library, then put any number of them on the bottom of your library "
-#| "and the rest on top in any order.)"
 msgid ""
 "Choose any target. Scry 3, then reveal the top card of your library. Riddle "
 "of Lightning deals damage equal to that card's mana value to that permanent "
 "or player."
 msgstr ""
 "Wskaż dowolny cel. Wróż 3, po czym ujawnij wierzchnią kartę twojej "
-"biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
-"ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty twojej "
-"biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej biblioteki, "
-"a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"biblioteki. Ten czar zadaje owemu celowi obrażenia równe skrótowi many owej "
+"karty."
 
 #: ../../TSR.rst:1092
 msgid ""
@@ -3725,8 +3716,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Jeśli władasz nie więcej niż czterema lądami, wyszukaj w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../TSR.rst:1191
 msgid ""
@@ -3741,16 +3731,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1197
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../TSR.rst:1199
 msgid "Return target creature card from your graveyard to your hand."
@@ -3839,7 +3825,7 @@ msgid ""
 "reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_g|, |tap|, odrzuć kartę: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, ujawnij ją, umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"lądu, ujawnij ją, umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../TSR.rst:1228
 msgid ""
@@ -4190,7 +4176,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../TSR.rst:1335
 msgid ""
@@ -4294,7 +4280,7 @@ msgid ""
 "hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../TSR.rst:1361
 msgid ""
@@ -4563,7 +4549,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Lasu i umieścić ją przekręconą na polu bitwy pod władaniem wskazanego "
-"gracza. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"gracza. Jeśli tak zrobisz, przetasuj."
 
 #: ../../TSR.rst:1448
 msgid ""
@@ -5153,7 +5139,7 @@ msgid ""
 msgstr ""
 "Kiedy ten ląd trafi do cmentarza z pola bitwy, możesz wyszukać w twojej "
 "bibliotece kartę Równiny, umieść ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../TSR.rst:1628
 msgid ""
@@ -5288,7 +5274,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../TSR.rst:1674
 msgid ""
@@ -5519,18 +5505,13 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1739
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle "
-#| "their library."
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować swoją bibliotekę."
+"przetasować."
 
 #: ../../TSR.rst:1748
 msgid ""
@@ -5572,14 +5553,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1755
-#, fuzzy
-#| msgid ""
-#| "Your opponents can't cast spells this turn. (Spells cast before this "
-#| "resolves are unaffected.)"
 msgid "Your opponents can't cast spells this turn."
-msgstr ""
-"Twoi przeciwnicy nie mogą rzucać czarów w tej turze. (Nie wpływa na czary "
-"rzucone przed rozpatrzeniem niniejszego.)"
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów w tej turze."
 
 #: ../../TSR.rst:1760
 msgid ""
@@ -5652,8 +5627,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1777
-#, fuzzy
-#| msgid "Counter target spell with converted mana cost 4 or greater."
 msgid "Counter target spell with mana value 4 or greater."
 msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
@@ -5793,16 +5766,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1823
-#, fuzzy
-#| msgid ""
-#| "Look at the top three cards of your library, then put them back in any "
-#| "order. You may shuffle your library."
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
-"powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
+"powrotem w dowolnej kolejności. Możesz przetasować."
 
 #: ../../TSR.rst:1832
 msgid ""
@@ -5877,7 +5846,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
-"ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"ręce. Jeśli tak zrobisz, przetasuj."
 
 #: ../../TSR.rst:1858
 msgid ""
@@ -5891,10 +5860,8 @@ msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
 #: ../../TSR.rst:1857
-#, fuzzy
-#| msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgid "True-Name Nemesis has protection from the chosen player."
-msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
+msgstr "Ten stwór ma ochronę przed wybranym graczem."
 
 #: ../../TSR.rst:1864
 msgid ""
@@ -6217,7 +6184,7 @@ msgstr ""
 
 #: ../../TSR.rst:1961
 msgid "Prowess"
-msgstr ""
+msgstr "Waleczność"
 
 #: ../../TSR.rst:1963
 msgid ""
@@ -6314,24 +6281,15 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1987
-#, fuzzy
-#| msgid ""
-#| "When Goblin Engineer enters the battlefield, you may search your library "
-#| "for an artifact card, put it into your graveyard, then shuffle your "
-#| "library."
 msgid ""
 "When Goblin Engineer enters the battlefield, you may search your library for "
 "an artifact card, put it into your graveyard, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, po czym "
-"przetasować bibliotekę."
+"przetasować."
 
 #: ../../TSR.rst:1989
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with "
-#| "converted mana cost 3 or less from your graveyard to the battlefield."
 msgid ""
 "|mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with "
 "mana value 3 or less from your graveyard to the battlefield."
@@ -6429,10 +6387,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2019
-#, fuzzy
-#| msgid "Target creature gains flying until end of turn."
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../TSR.rst:2021
 msgid ""
@@ -6628,7 +6584,7 @@ msgid ""
 "onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry i umieść "
-"ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"ją przekręconą na polu bitwy. Następnie przetasuj."
 
 #: ../../TSR.rst:2084
 msgid ""
@@ -6661,7 +6617,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
 "twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../TSR.rst:2094
 msgid ""
@@ -6686,16 +6642,12 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2097
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a land card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../TSR.rst:2104
 msgid ""
@@ -6732,7 +6684,7 @@ msgid ""
 "your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę legendarnego stwora, ujawnij ją i umieść "
-"w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"w twojej ręce. Następnie przetasuj."
 
 #: ../../TSR.rst:2114
 msgid ""
@@ -6846,12 +6798,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2147
-#, fuzzy
-#| msgid ""
-#| "Exile the top X cards of your library. You may cast instant and sorcery "
-#| "spells with converted mana cost X or less from among them without paying "
-#| "their mana costs. Then put all cards exiled this way that weren't cast "
-#| "into your graveyard."
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
 "spells with mana value X or less from among them without paying their mana "
@@ -6926,7 +6872,7 @@ msgid ""
 "put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć Las lub Równinę: Wyszukaj w twojej bibliotece kartę lądu, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../TSR.rst:2172
 msgid ""
@@ -7301,19 +7247,13 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2287
-#, fuzzy
-#| msgid ""
-#| "When Solemn Simulacrum enters the battlefield, you may search your "
-#| "library for a basic land card, put that card onto the battlefield tapped, "
-#| "then shuffle your library."
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../TSR.rst:2289
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -7391,8 +7331,8 @@ msgstr ""
 msgid ""
 "|mana_5|, |tap|: Draw a card. Activate only if you have the city's blessing."
 msgstr ""
-"|mana_5|, |tap|: Dobierz kartę. Możesz aktywować tę zdolność tylko jeśli "
-"masz błogosławieństwo miasta."
+"|mana_5|, |tap|: Dobierz kartę. Możesz aktywować tylko jeśli masz "
+"błogosławieństwo miasta."
 
 #: ../../TSR.rst:2322
 msgid ""
@@ -7402,11 +7342,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2321
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -7414,7 +7349,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../TSR.rst:2330
 msgid ""
@@ -7447,11 +7382,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2335
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
-#| "opponent controls. Each player searches their library for a basic land "
-#| "card, puts it onto the battlefield, then shuffles their library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
 "opponent controls. Each player searches their library for a basic land card, "
@@ -7459,7 +7389,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Zniszcz wskazany nie-bazowy ląd pod "
 "władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
-"lądu, umieszcza ją na polu bitwy, po czym tasuje swoją bibliotekę."
+"lądu, umieszcza ją na polu bitwy, po czym tasuje."
 
 #: ../../TSR.rst:2344
 msgid ""

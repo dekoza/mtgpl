@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -670,7 +670,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
 "twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../MM2.rst:216
 msgid ""
@@ -1125,7 +1125,7 @@ msgid ""
 "it onto the battlefield, then shuffle."
 msgstr ""
 "–X: Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub "
-"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"mniejszym i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../MM2.rst:367
 msgid ""
@@ -1862,8 +1862,8 @@ msgid ""
 "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if "
 "Bloodshot Trainee's power is 4 or greater."
 msgstr ""
-"|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować tę "
-"zdolność tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
+"|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować "
+"tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
 
 #: ../../MM2.rst:618
 msgid ""
@@ -1958,11 +1958,6 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../MM2.rst:647
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -2624,7 +2619,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
 "twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../MM2.rst:878
 msgid ""
@@ -2634,16 +2629,12 @@ msgid ""
 msgstr ""
 
 #: ../../MM2.rst:877
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../MM2.rst:884
 msgid ""
@@ -3534,8 +3525,7 @@ msgid ""
 "card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
-"bibliotekę."
+"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../MM2.rst:1198
 msgid ""
@@ -3857,7 +3847,7 @@ msgid ""
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MM2.rst:1314
 msgid ""
@@ -3983,16 +3973,12 @@ msgid ""
 msgstr ""
 
 #: ../../MM2.rst:1353
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MM2.rst:1360
 msgid ""
@@ -4015,8 +4001,7 @@ msgid ""
 "it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
-"bibliotekę."
+"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../MM2.rst:1368
 msgid ""

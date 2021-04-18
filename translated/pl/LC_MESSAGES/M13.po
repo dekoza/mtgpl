@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -1230,7 +1230,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart i umieść je w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../M13.rst:442
 msgid ""
@@ -1379,7 +1379,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "+1: Wyszukaj w twojej bibliotece kartę Bagna, ujawnij ją i umieść w twojej "
-"ręce. Następnie przetasuj twoją bibliotekę."
+"ręce. Następnie przetasuj."
 
 #: ../../M13.rst:487
 msgid ""
@@ -1415,8 +1415,7 @@ msgid ""
 "a Swamp card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../M13.rst:495
 msgid "|mana_b|: Liliana's Shade gets +1/+1 until end of turn."
@@ -2308,7 +2307,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
 "liczbą lądów pod twoim władaniem, i umieść je przekręcone na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../M13.rst:804
 msgid ""
@@ -2424,7 +2423,7 @@ msgid ""
 "onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry i umieść "
-"ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"ją przekręconą na polu bitwy. Następnie przetasuj."
 
 #: ../../M13.rst:846
 msgid ""
@@ -2689,8 +2688,8 @@ msgid ""
 "Search your library for up to two Forest cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty Lasu i umieść je "
-"przekręcone na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../M13.rst:924
 msgid ""
@@ -2968,7 +2967,7 @@ msgid ""
 msgstr ""
 "|mana_3|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
 "Wyspy, kartę Bagna i kartę Góry. Ujawnij owe karty i umieść je w twojej "
-"ręce. Następnie przetasuj twoją bibliotekę."
+"ręce. Następnie przetasuj."
 
 #: ../../M13.rst:1012
 msgid ""
@@ -3309,16 +3308,12 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:1127
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../M13.rst:1134
 msgid ""

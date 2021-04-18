@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:9
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a "
-#| "creature and paying the emerge cost reduced by that creature's converted "
-#| "mana cost.)"
 msgid ""
 "Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
@@ -61,11 +56,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:15
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this spell "
-#| "by sacrificing a creature and paying the emerge cost reduced by that "
-#| "creature's converted mana cost.)"
 msgid ""
 "Emerge |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
@@ -95,11 +85,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:23
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this spell by "
-#| "sacrificing a creature and paying the emerge cost reduced by that "
-#| "creature's converted mana cost.)"
 msgid ""
 "Emerge |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
@@ -110,11 +95,6 @@ msgstr ""
 "owego stwora.)"
 
 #: ../../EMN.rst:25
-#, fuzzy
-#| msgid ""
-#| "When you cast this spell, target opponent reveals their hand. You choose "
-#| "from it a nonland card with converted mana cost 3 or less and a card with "
-#| "converted mana cost 4 or greater. That player discards those cards."
 msgid ""
 "When you cast this spell, target opponent reveals their hand. You choose "
 "from it a nonland card with mana value 3 or less and a card with mana value "
@@ -136,11 +116,6 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../EMN.rst:31
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a "
-#| "creature and paying the emerge cost reduced by that creature's converted "
-#| "mana cost.)"
 msgid ""
 "Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
@@ -167,11 +142,6 @@ msgid "Flash"
 msgstr "Błysk"
 
 #: ../../EMN.rst:39
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by "
-#| "sacrificing a creature and paying the emerge cost reduced by that "
-#| "creature's converted mana cost.)"
 msgid ""
 "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
@@ -241,11 +211,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:59
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_6|\\ |mana_g| (You may cast this spell by sacrificing a "
-#| "creature and paying the emerge cost reduced by that creature's converted "
-#| "mana cost.)"
 msgid ""
 "Emerge |mana_6|\\ |mana_g| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
@@ -265,11 +230,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:65
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_5|\\ |mana_g|\\ |mana_u| (You may cast this spell by "
-#| "sacrificing a creature and paying the emerge cost reduced by that "
-#| "creature's converted mana cost.)"
 msgid ""
 "Emerge |mana_5|\\ |mana_g|\\ |mana_u| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
@@ -295,11 +255,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:71
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a "
-#| "creature and paying the emerge cost reduced by that creature's converted "
-#| "mana cost.)"
 msgid ""
 "Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
@@ -320,11 +275,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:77
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_6|\\ |mana_u| (You may cast this spell by sacrificing a "
-#| "creature and paying the emerge cost reduced by that creature's converted "
-#| "mana cost.)"
 msgid ""
 "Emerge |mana_6|\\ |mana_u| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
@@ -348,11 +298,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:83
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a "
-#| "creature and paying the emerge cost reduced by that creature's converted "
-#| "mana cost.)"
 msgid ""
 "Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
@@ -464,8 +409,6 @@ msgid "Flying, first strike, vigilance, lifelink"
 msgstr "Latanie, pierwszy cios, czujność, więź życia"
 
 #: ../../EMN.rst:123
-#, fuzzy
-#| msgid "Your opponents can't cast spells with converted mana cost 3 or less."
 msgid "Your opponents can't cast spells with mana value 3 or less."
 msgstr ""
 "Twoi przeciwnicy nie mogą rzucać czarów o skrótach many 3 lub mniejszych."
@@ -1033,18 +976,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:305
-#, fuzzy
-#| msgid ""
-#| "When Thalia's Lancers enters the battlefield, you may search your library "
-#| "for a legendary card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Thalia's Lancers enters the battlefield, you may search your library "
 "for a legendary card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"legendarną kartę, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"legendarną kartę, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../EMN.rst:310
 msgid ""
@@ -1900,11 +1837,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:591
-#, fuzzy
-#| msgid ""
-#| "When Midnight Scavengers enters the battlefield, you may return target "
-#| "creature card with converted mana cost 3 or less from your graveyard to "
-#| "your hand."
 msgid ""
 "When Midnight Scavengers enters the battlefield, you may return target "
 "creature card with mana value 3 or less from your graveyard to your hand."
@@ -2093,16 +2025,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:651
-#, fuzzy
-#| msgid ""
-#| "Discard a card: Vampires you control get +1/+1 until end of turn. "
-#| "Activate this ability only once each turn."
 msgid ""
 "Discard a card: Vampires you control get +1/+1 until end of turn. Activate "
 "only once each turn."
 msgstr ""
 "Odrzuć kartę: Wampiry pod twoim władaniem dostają do końca tury +1/+1. "
-"Możesz aktywować tę zdolność tylko raz na turę."
+"Możesz aktywować tylko raz na turę."
 
 #: ../../EMN.rst:656
 msgid ""
@@ -2307,7 +2235,7 @@ msgstr ""
 
 #: ../../EMN.rst:721
 msgid "Prowess"
-msgstr ""
+msgstr "Waleczność"
 
 #: ../../EMN.rst:723
 msgid ""
@@ -2656,10 +2584,6 @@ msgid "As an additional cost to cast this spell, discard X cards."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć X kart."
 
 #: ../../EMN.rst:841
-#, fuzzy
-#| msgid ""
-#| "Nahiri's Wrath deals damage equal to the total converted mana cost of the "
-#| "discarded cards to each of up to X target creatures and/or planeswalkers."
 msgid ""
 "Nahiri's Wrath deals damage equal to the total mana value of the discarded "
 "cards to each of up to X target creatures and/or planeswalkers."
@@ -2944,12 +2868,6 @@ msgid "At the beginning of your upkeep, you may mill a card."
 msgstr "Na początku twojego kroku utrzymania, możesz zmielić kartę."
 
 #: ../../EMN.rst:945
-#, fuzzy
-#| msgid ""
-#| "Delirium — |mana_2|\\ |mana_g|, Sacrifice Crop Sigil: Return up to one "
-#| "target creature card and up to one target land card from your graveyard "
-#| "to your hand. Activate this ability only if there are four or more card "
-#| "types among cards in your graveyard."
 msgid ""
 "Delirium — |mana_2|\\ |mana_g|, Sacrifice Crop Sigil: Return up to one "
 "target creature card and up to one target land card from your graveyard to "
@@ -2958,8 +2876,8 @@ msgid ""
 msgstr ""
 "Delirium — |mana_2|\\ |mana_g|, poświęć ten urok: Przywróć co najwyżej jedną "
 "wskazaną kartę stwora i co najwyżej jedną wskazaną kartę lądu z twojego "
-"cmentarza do twojej ręki. Możesz użyć tej zdolności tylko jeśli w twoim "
-"cmentarzu są karty należące do przynajmniej czterech typów kart."
+"cmentarza do twojej ręki. Możesz aktywować tylko jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart."
 
 #: ../../EMN.rst:950
 msgid ""
@@ -2985,12 +2903,6 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../EMN.rst:955
-#, fuzzy
-#| msgid ""
-#| "Search your library for a creature card with converted mana cost X or "
-#| "less, where X is 2 plus the sacrificed creature's converted mana cost. "
-#| "Put that card onto the battlefield, then shuffle your library. Exile "
-#| "Eldritch Evolution."
 msgid ""
 "Search your library for a creature card with mana value X or less, where X "
 "is 2 plus the sacrificed creature's mana value. Put that card onto the "
@@ -2998,7 +2910,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skrócie many X lub mniejszym, "
 "gdzie X jest skrótem many poświęconego stwora plus 2. Umieść ową kartę na "
-"polu bitwy, po czym przetasuj twoją bibliotekę. Wygnaj niniejszy czar."
+"polu bitwy, po czym przetasuj. Wygnaj niniejszy czar."
 
 #: ../../EMN.rst:960
 msgid ""
@@ -3025,10 +2937,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:963
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an Eldrazi creature spell with converted mana cost 7 or "
-#| "greater, draw two cards."
 msgid ""
 "Whenever you cast an Eldrazi creature spell with mana value 7 or greater, "
 "draw two cards."
@@ -3209,17 +3117,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1017
-#, fuzzy
-#| msgid ""
-#| "When Primal Druid dies, you may search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "When Primal Druid dies, you may search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę bazowego "
-"lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../EMN.rst:1024
 msgid ""
@@ -3605,10 +3508,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1159
-#, fuzzy
-#| msgid ""
-#| "When Spell Queller enters the battlefield, exile target spell with "
-#| "converted mana cost 4 or less."
 msgid ""
 "When Spell Queller enters the battlefield, exile target spell with mana "
 "value 4 or less."

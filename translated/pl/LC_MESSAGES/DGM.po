@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dgm/pl/>\n"
 "Language: pl\n"
@@ -385,10 +385,6 @@ msgstr ""
 
 # 5be88149a1f642cca49f1f6c91898492
 #: ../../DGM.rst:111
-#, fuzzy
-#| msgid ""
-#| "If you would draw a card while you have no cards in hand, instead draw "
-#| "two cards and lose 1 life."
 msgid ""
 "If you would draw a card while you have no cards in hand, instead you draw "
 "two cards and you lose 1 life."
@@ -939,16 +935,12 @@ msgstr ""
 
 # a0ae77b4f50c4350b524dba878ba2d81
 #: ../../DGM.rst:271
-#, fuzzy
-#| msgid ""
-#| "|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until "
-#| "end of turn. Activate this ability only once each turn."
 msgid ""
 "|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end "
 "of turn. Activate only once each turn."
 msgstr ""
 "|mana_g|\\ |mana_u|: Ten stwór dostaje do końca tury +2/+2 oraz latanie. "
-"Możesz aktywować tę zdolność tylko raz na turę."
+"Możesz aktywować tylko raz na turę."
 
 #: ../../DGM.rst:276
 msgid ""
@@ -959,11 +951,6 @@ msgstr ""
 
 # a505e314cc604dac86b2965c5a3cfe85
 #: ../../DGM.rst:275
-#, fuzzy
-#| msgid ""
-#| "Choose any target. Draw three cards, then discard a card. Blast of Genius "
-#| "deals damage equal to the discarded card's converted mana cost to that "
-#| "permanent or player."
 msgid ""
 "Choose any target. Draw three cards, then discard a card. Blast of Genius "
 "deals damage equal to the discarded card's mana value to that permanent or "
@@ -1278,8 +1265,6 @@ msgstr ""
 
 # 5b9ad1c7fe9943558be9f3d8f9bde34b
 #: ../../DGM.rst:363
-#, fuzzy
-#| msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgid "Destroy each nonland permanent with mana value X or less."
 msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
 
@@ -1413,12 +1398,6 @@ msgstr "Ochrona przed czerwonym"
 
 # 7e3c39d902d14cadb901cc5f33081c2a
 #: ../../DGM.rst:407
-#, fuzzy
-#| msgid ""
-#| "When Lavinia of the Tenth enters the battlefield, detain each nonland "
-#| "permanent your opponents control with converted mana cost 4 or less. "
-#| "(Until your next turn, those permanents can't attack or block and their "
-#| "activated abilities can't be activated.)"
 msgid ""
 "When Lavinia of the Tenth enters the battlefield, detain each nonland "
 "permanent your opponents control with mana value 4 or less. (Until your next "
@@ -1627,11 +1606,6 @@ msgstr ""
 
 # a8cf8a8d5dd04d8eb3b6a7d78d3cb533
 #: ../../DGM.rst:469
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. At the beginning of your next precombat main phase, "
-#| "add X mana in any combination of colors, where X is that spell's "
-#| "converted mana cost."
 msgid ""
 "Counter target spell. At the beginning of your next precombat main phase, "
 "add X mana in any combination of colors, where X is that spell's mana value."
@@ -1707,12 +1681,6 @@ msgstr ""
 
 # 431bb68fe03c4750b311ae84bd3601de
 #: ../../DGM.rst:489
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose up to X nonland cards from "
-#| "it and exile them. For each card exiled this way, search that player's "
-#| "graveyard, hand, and library for any number of cards with the same name "
-#| "as that card and exile them. Then that player shuffles their library."
 msgid ""
 "Target opponent reveals their hand. You choose up to X nonland cards from it "
 "and exile them. For each card exiled this way, search that player's "
@@ -1722,7 +1690,7 @@ msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej co najwyżej X nie-"
 "lądowych kart i wygnaj je. Za każdą kartę wygnaną w ten sposób, wyszukaj w "
 "cmentarzu, ręce i bibliotece owego gracza kartę o tej samej nazwie i wygnaj "
-"ją. Następnie ów gracz tasuje swoja bibliotekę."
+"ją. Następnie ów gracz tasuje."
 
 #: ../../DGM.rst:494
 msgid ""
@@ -1765,11 +1733,6 @@ msgstr "Ten stwór nie może blokować."
 
 # 704a4c9fc7374bdc9a0d3225975d04ac
 #: ../../DGM.rst:503
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_g|, Mill four cards: Return Rot Farm Skeleton "
-#| "from your graveyard to the battlefield. Activate this ability only any "
-#| "time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, Mill four cards: Return Rot Farm Skeleton "
 "from your graveyard to the battlefield. Activate only as a sorcery."
@@ -1822,10 +1785,6 @@ msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 # c99e61d3434f4809b98c0e46bf0d5556
 #: ../../DGM.rst:519
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only "
 "as a sorcery."
@@ -2875,21 +2834,14 @@ msgstr "|tap|: Weź |colorless|."
 
 # 58d361e7edf64bf495f44a6d22451ee7
 #: ../../DGM.rst:899
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|, Return Maze's End to its owner's hand: Search your "
-#| "library for a Gate card, put it onto the battlefield, then shuffle your "
-#| "library. If you control ten or more Gates with different names, you win "
-#| "the game."
 msgid ""
 "|mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library "
 "for a Gate card, put it onto the battlefield, then shuffle. If you control "
 "ten or more Gates with different names, you win the game."
 msgstr ""
 "|mana_3|, |tap|, przywróć ten ląd do ręki właściciela: Wyszukaj w twojej "
-"bibliotece kartę Bramy, umieść ją na polu bitwy, po czym przetasuj twoją "
-"bibliotekę. Jeśli masz we władaniu dziesięć lub więcej Bram o różnych "
-"nazwach, wygrywasz grę."
+"bibliotece kartę Bramy, umieść ją na polu bitwy, po czym przetasuj. Jeśli "
+"masz we władaniu dziesięć lub więcej Bram o różnych nazwach, wygrywasz grę."
 
 #: ../../DGM.rst:906
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-16 18:38+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -3518,16 +3518,12 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:1269
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1276
 msgid ""
@@ -4800,7 +4796,7 @@ msgid ""
 "put it onto the battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"polu bitwy. Następnie przetasuj."
 
 #: ../../MIR.rst:1728
 msgid ""
@@ -4834,7 +4830,7 @@ msgid ""
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"polu bitwy. Następnie przetasuj."
 
 #: ../../MIR.rst:1740
 msgid ""
@@ -4856,8 +4852,8 @@ msgid ""
 "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1746
 msgid ""
@@ -4879,8 +4875,8 @@ msgid ""
 "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
 "Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1752
 msgid ""
@@ -4902,8 +4898,8 @@ msgid ""
 "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1760
 msgid ""

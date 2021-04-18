@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-15 10:15+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -284,8 +284,6 @@ msgid "Destroy all enchantments."
 msgstr "Zniszcz wszystkie uroki."
 
 #: ../../CMR.rst:93
-#, fuzzy
-#| msgid "Destroy all creatures with converted mana cost 3 or less."
 msgid "Destroy all creatures with mana value 3 or less."
 msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
@@ -535,7 +533,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../CMR.rst:184
 msgid ""
@@ -589,7 +587,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../CMR.rst:202
 msgid ""
@@ -658,7 +656,7 @@ msgid ""
 "your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Aury lub Wyposażenia, ujawnij ją i umieść "
-"w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"w twojej ręce. Następnie przetasuj."
 
 #: ../../CMR.rst:218
 msgid ""
@@ -953,10 +951,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:319
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +2/+2, has vigilance, and can't attack you or "
 "planeswalkers you control."
@@ -1316,12 +1310,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:455
-#, fuzzy
-#| msgid ""
-#| "Scry 3, then reveal the top card of your library. Draw cards equal to "
-#| "that card's converted mana cost. (To scry 3, look at the top three cards "
-#| "of your library, then put any number of them on the bottom of your "
-#| "library and the rest on top in any order.)"
 msgid ""
 "Scry 3, then reveal the top card of your library. Draw cards equal to that "
 "card's mana value. (To scry 3, look at the top three cards of your library, "
@@ -1802,10 +1790,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:617
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has flying, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +2/+2, has flying, and can't attack you or "
 "planeswalkers you control."
@@ -1983,10 +1967,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:677
-#, fuzzy
-#| msgid ""
-#| "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant "
-#| "Salvager. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. "
 "Activate only as a sorcery."
@@ -2309,10 +2289,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:787
-#, fuzzy
-#| msgid ""
-#| "When Noxious Dragon dies, you may destroy target creature with converted "
-#| "mana cost 3 or less."
 msgid ""
 "When Noxious Dragon dies, you may destroy target creature with mana value 3 "
 "or less."
@@ -3040,16 +3016,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1049
-#, fuzzy
-#| msgid ""
-#| "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-#| "Activate this ability only during your turn."
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
 "Activate only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
-"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
+"stworem. Możesz aktywować tylko w twojej turze."
 
 #: ../../CMR.rst:1056
 msgid ""
@@ -3406,10 +3378,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1191
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has first strike, and can't attack you or "
-#| "a planeswalker you control."
 msgid ""
 "Enchanted creature gets +2/+2, has first strike, and can't attack you or "
 "planeswalkers you control."
@@ -3653,7 +3621,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../CMR.rst:1280
 msgid ""
@@ -3667,11 +3635,6 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../CMR.rst:1279
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
@@ -3679,7 +3642,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"bitwy, po czym tasuje."
 
 #: ../../CMR.rst:1286
 msgid ""
@@ -3934,7 +3897,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:1382
 msgid ""
@@ -4016,8 +3979,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy poświęcisz ten urok, wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:1410
 msgid ""
@@ -4051,7 +4013,7 @@ msgid ""
 "tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../CMR.rst:1418
 msgid ""
@@ -4122,10 +4084,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1437
-#, fuzzy
-#| msgid ""
-#| "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card "
-#| "of your library. You gain life equal to that card's converted mana cost."
 msgid ""
 "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
 "your library. You gain life equal to that card's mana value."
@@ -4236,7 +4194,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../CMR.rst:1486
 msgid ""
@@ -4246,10 +4204,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1485
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +3/+3, has trample, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +3/+3, has trample, and can't attack you or "
 "planeswalkers you control."
@@ -4862,7 +4816,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../CMR.rst:1696
 msgid ""
@@ -4930,18 +4884,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1713
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
-#| "basic land cards, put them onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:1720
 msgid ""
@@ -5365,18 +5313,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1881
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../CMR.rst:1890
 msgid ""
@@ -5762,7 +5704,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:2036
 msgid ""
@@ -5934,11 +5876,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2097
-#, fuzzy
-#| msgid ""
-#| "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by "
-#| "sacrificing a creature and paying the emerge cost reduced by that "
-#| "creature's converted mana cost.)"
 msgid ""
 "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
@@ -6137,12 +6074,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2163
-#, fuzzy
-#| msgid ""
-#| "When Oreskos Explorer enters the battlefield, search your library for up "
-#| "to X Plains cards, where X is the number of players who control more "
-#| "lands than you. Reveal those cards, put them into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Oreskos Explorer enters the battlefield, search your library for up to "
 "X Plains cards, where X is the number of players who control more lands than "
@@ -6179,8 +6110,7 @@ msgid ""
 "Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór zostanie sławny, możesz wyszukać w twojej bibliotece kartę "
-"Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../CMR.rst:2176
 msgid ""
@@ -6859,18 +6789,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2399 ../../CMR.rst:2423
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../CMR.rst:2404
 msgid ""
@@ -6933,9 +6857,9 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../CMR.rst:2424
 msgid ""
@@ -6990,16 +6914,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2439
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:2444
 msgid ""
@@ -7052,7 +6972,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../CMR.rst:2457
 msgid ""
@@ -7149,9 +7069,8 @@ msgid ""
 "When Yavimaya Elder dies, you may search your library for up to two basic "
 "land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
-"najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
-"czym przetasuj twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../CMR.rst:2481
 msgid "|mana_2|, Sacrifice Yavimaya Elder: Draw a card."
@@ -7691,11 +7610,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2683
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -7703,7 +7617,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../CMR.rst:2692
 msgid ""
@@ -7780,16 +7694,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2715
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:2724
 msgid ""
@@ -7871,11 +7781,6 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2755
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -7883,7 +7788,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:2762
 msgid ""
@@ -8290,18 +8195,12 @@ msgstr ""
 "jest stworem."
 
 #: ../../CMR.rst:2933
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell, you may search your library for a "
-#| "Forest or Plains card, put it onto the battlefield tapped, then shuffle "
-#| "your library."
 msgid ""
 "Whenever you cast a creature spell, you may search your library for a Forest "
 "or Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Ilekroć rzucisz czar stwora, możesz wyszukać w twojej bibliotece kartę Lasu "
-"lub Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"lub Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:2942
 msgid ""
@@ -8705,7 +8604,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz wyszukać w twojej bibliotece kartę uroku "
 "o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. Jeśli tak zrobisz, "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../CMR.rst:3102
 msgid ""

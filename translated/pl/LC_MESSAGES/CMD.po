@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 19:12+0200\n"
-"PO-Revision-Date: 2021-04-14 11:01+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -879,7 +879,7 @@ msgstr ""
 msgid "Search your library for up to three creature cards, put them into your graveyard, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty stworów, umieść je w "
-"twoim cmentarzu, po czym przetasuj twoją bibliotekę."
+"twoim cmentarzu, po czym przetasuj."
 
 #: ../../CMD.rst:402
 msgid ":mtgtip:`Butcher of Malakir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac1d9632-11f5-4c86-88a9-a3a59664027f.jpg?1592713219|https://scryfall.com/card/cmd/75/butcher-of-malakir?utm_source=api>`"
@@ -905,7 +905,7 @@ msgstr ""
 msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../CMD.rst:416
 msgid ":mtgtip:`Doom Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8b6f922-41dd-45f6-8bef-5281c5409326.jpg?1592713245|https://scryfall.com/card/cmd/78/doom-blade?utm_source=api>`"
@@ -1674,8 +1674,7 @@ msgstr ""
 msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj."
 
 #: ../../CMD.rst:790
 msgid ":mtgtip:`Deadly Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61031a81-7cb7-48ec-b5b9-97197b6df23e.jpg?1592713724|https://scryfall.com/card/cmd/149/deadly-recluse?utm_source=api>`"
@@ -1712,8 +1711,7 @@ msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)"
 msgstr ""
 "Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../CMD.rst:806
 msgid ":mtgtip:`Eternal Witness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/101cccfb-17c3-4b11-8a3e-c382ec7143c3.jpg?1592713743|https://scryfall.com/card/cmd/152/eternal-witness?utm_source=api>`"
@@ -1733,7 +1731,7 @@ msgstr ""
 msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CMD.rst:816
 msgid ":mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0f3d98c-4e6f-48ea-8fd1-9436bea1b6aa.jpg?1592713756|https://scryfall.com/card/cmd/154/fertilid?utm_source=api>`"
@@ -1759,7 +1757,7 @@ msgid "When Fierce Empath enters the battlefield, you may search your library fo
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
-"ręce, po czym przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj."
 
 #: ../../CMD.rst:828
 msgid ":mtgtip:`Fists of Ironwood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e61a67a-6298-48e0-b0e6-fa70330353f6.jpg?1592713768|https://scryfall.com/card/cmd/156/fists-of-ironwood?utm_source=api>`"
@@ -2593,7 +2591,7 @@ msgid "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this 
 msgstr ""
 "Górocykling |mana_2|, lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: "
 "Wyszukaj w twojej bibliotece kartę Góry lub Lasu, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę.)"
+"twojej ręce, po czym przetasuj.)"
 
 #: ../../CMD.rst:1258
 msgid ":mtgtip:`Vengeful Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7245def-b401-4e4f-81d2-80fadbc21f35.jpg?1592714323|https://scryfall.com/card/cmd/233/vengeful-rebirth?utm_source=api>`"
@@ -2699,7 +2697,7 @@ msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up t
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, ujawnij je, umieść w twojej ręce, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../CMD.rst:1312
 msgid ":mtgtip:`Boros Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47660a06-a8f8-44e9-9de4-6740609ffd36.jpg?1592714391|https://scryfall.com/card/cmd/243/boros-signet?utm_source=api>`"
@@ -2904,8 +2902,7 @@ msgstr ""
 msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMD.rst:1407
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -3064,7 +3061,7 @@ msgstr ""
 msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMD.rst:1488
 msgid ":mtgtip:`Forgotten Cave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/618760ff-e622-4598-b7e3-9592c19be264.jpg?1592714595|https://scryfall.com/card/cmd/273/forgotten-cave?utm_source=api>`"
@@ -3351,7 +3348,7 @@ msgstr ""
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CMD.rst:1628
 msgid ":mtgtip:`Tranquil Thicket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02b285d4-d21c-4835-ae0d-90bcc792c3bd.jpg?1592714722|https://scryfall.com/card/cmd/292/tranquil-thicket?utm_source=api>`"

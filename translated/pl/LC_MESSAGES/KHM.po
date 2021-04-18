@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -30,19 +30,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:9
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter "
-#| "on it. (Activate this ability only if this creature attacked this turn "
-#| "and only once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter on "
 "it. (Activate only if this creature attacked this turn and only once each "
 "turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_w|: Odkręć tego stwora. Umieść na nim "
-"znacznik +1/+1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował "
-"w tej turze i tylko raz na turę.)"
+"znacznik +1/+1. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze "
+"i tylko raz na turę.)"
 
 #: ../../KHM.rst:14
 msgid ""
@@ -52,19 +47,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:13
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_w|: Creatures you control get +1/+1 until end of "
-#| "turn. (Activate this ability only if this creature attacked this turn and "
-#| "only once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_w|: Creatures you control get +1/+1 until end of "
 "turn. (Activate only if this creature attacked this turn and only once each "
 "turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_w|: Stwory pod twoim władaniem dostają do "
-"końca tury +1/+1. (Tę zdolność można aktywować tylko jeśli ten stwór "
-"atakował w tej turze i tylko raz na turę.)"
+"końca tury +1/+1. (Możesz aktywować tylko jeśli ten stwór atakował w tej "
+"turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:18
 msgid ""
@@ -269,17 +259,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:77
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_w|: Tap target creature. (Activate this ability "
-#| "only if this creature attacked this turn and only once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_w|: Tap target creature. (Activate only if this "
 "creature attacked this turn and only once each turn.)"
 msgstr ""
-"Przechwałka — |mana_1|\\ |mana_w|: Przekręć wskazanego stwora. (Tę zdolność "
-"można aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na "
-"turę.)"
+"Przechwałka — |mana_1|\\ |mana_w|: Przekręć wskazanego stwora. (Możesz "
+"aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:84
 msgid ""
@@ -408,10 +393,6 @@ msgstr ""
 "bitwy."
 
 #: ../../KHM.rst:125
-#, fuzzy
-#| msgid ""
-#| "Noncreature spells your opponents cast with converted mana cost 4 or "
-#| "greater cost |mana_2| more to cast."
 msgid ""
 "Noncreature spells your opponents cast with mana value 4 or greater cost |"
 "mana_2| more to cast."
@@ -533,11 +514,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:165
-#, fuzzy
-#| msgid ""
-#| "When Runeforge Champion enters the battlefield, you may search your "
-#| "library and/or graveyard for a Rune card, reveal it, and put it into your "
-#| "hand. If you search your library this way, shuffle it."
 msgid ""
 "When Runeforge Champion enters the battlefield, you may search your library "
 "and/or graveyard for a Rune card, reveal it, and put it into your hand. If "
@@ -545,7 +521,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę typu Runa, ujawnij ją i umieść ją w twojej ręce. Jeśli "
-"przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
+"przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../KHM.rst:167
 msgid ""
@@ -562,12 +538,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:171
-#, fuzzy
-#| msgid ""
-#| "Search your library for a snow permanent card, a legendary card, or a "
-#| "Saga card, reveal it, put it into your hand, then shuffle your library. "
-#| "You gain 1 life for each |mana_s| spent to cast this spell. (|mana_s| is "
-#| "mana from a snow source.)"
 msgid ""
 "Search your library for a snow permanent card, a legendary card, or a Saga "
 "card, reveal it, put it into your hand, then shuffle. You gain 1 life for "
@@ -575,9 +545,9 @@ msgid ""
 "source.)"
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę śnieżnego permanentu, legendarną kartę "
-"lub kartę Sagi, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj twoją "
-"bibliotekę. Zyskaj po 1 życiu za każdą |mana_s| użytą do rzucenia tego "
-"czaru. (|mana_s| jest maną ze śnieżnego źródła.)"
+"lub kartę Sagi, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. "
+"Zyskaj po 1 życiu za każdą |mana_s| użytą do rzucenia tego czaru. (|mana_s| "
+"jest maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:180
 msgid ""
@@ -587,11 +557,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:177
-#, fuzzy
-#| msgid ""
-#| "When Shepherd of the Cosmos enters the battlefield, return target "
-#| "permanent card with converted mana cost 2 or less from your graveyard to "
-#| "the battlefield."
 msgid ""
 "When Shepherd of the Cosmos enters the battlefield, return target permanent "
 "card with mana value 2 or less from your graveyard to the battlefield."
@@ -713,19 +678,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:221
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_w|: Create a 1/1 white Human Warrior creature "
-#| "token. (Activate this ability only if this creature attacked this turn "
-#| "and only once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_w|: Create a 1/1 white Human Warrior creature "
 "token. (Activate only if this creature attacked this turn and only once each "
 "turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_w|: Stwórz żeton białego stwora Człowiek "
-"Wojownik 1/1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
-"tej turze i tylko raz na turę.)"
+"Wojownik 1/1. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze i "
+"tylko raz na turę.)"
 
 #: ../../KHM.rst:230
 msgid ""
@@ -1131,8 +1091,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:345
-#, fuzzy
-#| msgid "Counter target spell with converted mana cost 4 or greater."
 msgid "Counter target spell with mana value 4 or greater."
 msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
@@ -1198,11 +1156,6 @@ msgstr ""
 "Czarodziejem."
 
 #: ../../KHM.rst:363
-#, fuzzy
-#| msgid ""
-#| "When Frostpyre Arcanist enters the battlefield, search your library for "
-#| "an instant or sorcery card with the same name as a card in your "
-#| "graveyard, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "When Frostpyre Arcanist enters the battlefield, search your library for an "
 "instant or sorcery card with the same name as a card in your graveyard, "
@@ -1210,7 +1163,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "sztuczki lub obrzędu mającą taką samą nazwę co karta w twoim cmentarzu, "
-"ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
+"ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../KHM.rst:372
 msgid ""
@@ -1603,11 +1556,6 @@ msgid "Destroy all planeswalkers."
 msgstr "Zniszcz wszystkich wędrowców."
 
 #: ../../KHM.rst:501
-#, fuzzy
-#| msgid ""
-#| "Then return a creature or planeswalker card with converted mana cost X or "
-#| "less from your graveyard to the battlefield, where X is the amount of |"
-#| "mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
 msgid ""
 "Then return a creature or planeswalker card with mana value X or less from "
 "your graveyard to the battlefield, where X is the amount of |mana_s| spent "
@@ -1642,13 +1590,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:511
-#, fuzzy
-#| msgid ""
-#| "When Burning-Rune Demon enters the battlefield, you may search your "
-#| "library for exactly two cards not named Burning-Rune Demon that have "
-#| "different names. If you do, reveal those cards. An opponent chooses one "
-#| "of them. Put the chosen card into your hand and the other into your "
-#| "graveyard, then shuffle your library."
 msgid ""
 "When Burning-Rune Demon enters the battlefield, you may search your library "
 "for exactly two cards not named Burning-Rune Demon that have different "
@@ -1660,7 +1601,7 @@ msgstr ""
 "dokładnie dwie karty o nazwach innych niż niniejszy stwór i mających różne "
 "nazwy. Jeśli tak zrobisz, ujawnij owe karty. Przeciwnik wybiera jedną z "
 "nich. Umieść wybraną kartę w twojej ręce, a pozostałą w twoim cmentarzu, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../KHM.rst:516
 msgid ""
@@ -1755,19 +1696,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:537
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_3|\\ |mana_b|: Return target creature card from your "
-#| "graveyard to your hand. (Activate this ability only if this creature "
-#| "attacked this turn and only once each turn.)"
 msgid ""
 "Boast — |mana_3|\\ |mana_b|: Return target creature card from your graveyard "
 "to your hand. (Activate only if this creature attacked this turn and only "
 "once each turn.)"
 msgstr ""
 "Przechwałka — |mana_3|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza do twojej ręki. (Tę zdolność można aktywować tylko jeśli ten stwór "
-"atakował w tej turze i tylko raz na turę.)"
+"cmentarza do twojej ręki. (Możesz aktywować tylko jeśli ten stwór atakował w "
+"tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:546
 msgid ""
@@ -1845,18 +1781,13 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:559
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. "
-#| "(Activate this ability only if this creature attacked this turn and only "
-#| "once each turn.)"
 msgid ""
 "Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. "
 "(Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|: Wskazany przeciwnik traci 1 życie, a ty zyskaj 1 "
-"życie. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
-"turze i tylko raz na turę.)"
+"życie. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze i tylko "
+"raz na turę.)"
 
 #: ../../KHM.rst:566
 msgid ""
@@ -1923,19 +1854,14 @@ msgid "Flying, lifelink, hexproof from planeswalkers"
 msgstr "Latanie, więź życia, antyklątwa na wędrowców"
 
 #: ../../KHM.rst:581
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_b|, Sacrifice a creature: Each opponent "
-#| "sacrifices a creature or planeswalker. (Activate this ability only if "
-#| "this creature attacked this turn and only once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_b|, Sacrifice a creature: Each opponent sacrifices "
 "a creature or planeswalker. (Activate only if this creature attacked this "
 "turn and only once each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_b|, poświęć stwora: Każdy przeciwnik poświęca "
-"stwora lub wędrowca. (Tę zdolność można aktywować tylko jeśli ten stwór "
-"atakował w tej turze i tylko raz na turę.)"
+"stwora lub wędrowca. (Możesz aktywować tylko jeśli ten stwór atakował w tej "
+"turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:586
 msgid ""
@@ -2104,11 +2030,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:633
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X "
-#| "until end of turn, where X is the number of snow lands you control. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X "
 "until end of turn, where X is the number of snow lands you control. Activate "
@@ -2347,10 +2268,6 @@ msgstr ""
 "dopóki ten stwór nie opuści pola bitwy."
 
 #: ../../KHM.rst:705
-#, fuzzy
-#| msgid ""
-#| "|mana_x|: Choose a creature card exiled with Valki with converted mana "
-#| "cost X. Valki becomes a copy of that card."
 msgid ""
 "|mana_x|: Choose a creature card exiled with Valki with mana value X. Valki "
 "becomes a copy of that card."
@@ -2400,21 +2317,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:721
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_b|: Target player searches their library for a "
-#| "card, then shuffles their library and puts that card on top of it. "
-#| "(Activate this ability only if this creature attacked this turn and only "
-#| "once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_b|: Target player searches their library for a "
 "card, then shuffles and puts that card on top. (Activate only if this "
 "creature attacked this turn and only once each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_b|: Wskazany gracz wyszukuje kartę w swojej "
-"bibliotece, po czym tasuje swoją bibliotekę i umieszcza ową kartę na jej "
-"wierzchu. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
-"turze i tylko raz na turę.)"
+"bibliotece, po czym tasuje i umieszcza ową kartę na wierzchu. (Możesz "
+"aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:728
 msgid ""
@@ -2488,21 +2398,15 @@ msgid "Haste"
 msgstr "Pośpiech"
 
 #: ../../KHM.rst:751
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus "
-#| "the greatest power among other creatures you control until end of turn. "
-#| "(Activate this ability only if this creature attacked this turn and only "
-#| "once each turn.)"
 msgid ""
 "Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the "
 "greatest power among other creatures you control until end of turn. "
 "(Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|: Możesz zamienić do końca tury bazową siłę tego "
-"stwora na 1 plus największa siła spośród stworów pod twoim władaniem. (Tę "
-"zdolność można aktywować tylko jeśli ten stwór atakował w tej turze i tylko "
-"raz na turę.)"
+"stwora na 1 plus największa siła spośród stworów pod twoim władaniem. ("
+"Możesz aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na "
+"turę.)"
 
 #: ../../KHM.rst:756
 msgid ""
@@ -2706,19 +2610,14 @@ msgstr ""
 "twoim władaniem."
 
 #: ../../KHM.rst:813
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_4|\\ |mana_r|: Create a 5/5 red Dragon creature token with "
-#| "flying. (Activate this ability only if this creature attacked this turn "
-#| "and only once each turn.)"
 msgid ""
 "Boast — |mana_4|\\ |mana_r|: Create a 5/5 red Dragon creature token with "
 "flying. (Activate only if this creature attacked this turn and only once "
 "each turn.)"
 msgstr ""
 "Przechwałka — |mana_4|\\ |mana_r|: Stwórz żeton czerwonego stwora Smok 5/5 z "
-"lataniem. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
-"turze i tylko raz na turę.)"
+"lataniem. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze i "
+"tylko raz na turę.)"
 
 #: ../../KHM.rst:820
 msgid ""
@@ -2728,11 +2627,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:817
-#, fuzzy
-#| msgid ""
-#| "When you cast your next instant or sorcery spell with converted mana cost "
-#| "4 or less this turn, copy that spell. You may choose new targets for the "
-#| "copy."
 msgid ""
 "When you cast your next instant or sorcery spell with mana value 4 or less "
 "this turn, copy that spell. You may choose new targets for the copy."
@@ -2790,19 +2684,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:837
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_2|\\ |mana_r|: Create a 2/1 red Dwarf Berserker creature "
-#| "token. (Activate this ability only if this creature attacked this turn "
-#| "and only once each turn.)"
 msgid ""
 "Boast — |mana_2|\\ |mana_r|: Create a 2/1 red Dwarf Berserker creature "
 "token. (Activate only if this creature attacked this turn and only once each "
 "turn.)"
 msgstr ""
 "Przechwałka — |mana_2|\\ |mana_r|: Stwórz żeton czerwonego stwora Krasnolud "
-"Berserk 2/1. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
-"tej turze i tylko raz na turę.)"
+"Berserk 2/1. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze i "
+"tylko raz na turę.)"
 
 #: ../../KHM.rst:844
 msgid ""
@@ -2812,18 +2701,13 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:843
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_2|\\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. "
-#| "(Activate this ability only if this creature attacked this turn and only "
-#| "once each turn.)"
 msgid ""
 "Boast — |mana_2|\\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. "
 "(Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
-"Przechwałka — |mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0. "
-"(Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej turze i "
-"tylko raz na turę.)"
+"Przechwałka — |mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0. ("
+"Możesz aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na "
+"turę.)"
 
 #: ../../KHM.rst:848
 msgid ""
@@ -2890,18 +2774,13 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:863
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_r|: Hagi Mob deals 1 damage to any target. "
-#| "(Activate this ability only if this creature attacked this turn and only "
-#| "once each turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_r|: Hagi Mob deals 1 damage to any target. "
 "(Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 "
-"obrażenie. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w tej "
-"turze i tylko raz na turę.)"
+"obrażenie. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze i "
+"tylko raz na turę.)"
 
 #: ../../KHM.rst:868
 msgid ""
@@ -2936,16 +2815,12 @@ msgstr ""
 "Skarbu."
 
 #: ../../KHM.rst:875
-#, fuzzy
-#| msgid ""
-#| "Sacrifice five Treasures: Search your library for an artifact or Dragon "
-#| "card, put that card onto the battlefield, then shuffle your library."
 msgid ""
 "Sacrifice five Treasures: Search your library for an artifact or Dragon "
 "card, put that card onto the battlefield, then shuffle."
 msgstr ""
 "Poświęć pięć Skarbów: Wyszukaj w twojej bibliotece kartę artefaktu lub "
-"Smoka, umieść ową kartę na polu bitwy, po czym przetasuj twoją bibliotekę."
+"Smoka, umieść ową kartę na polu bitwy, po czym przetasuj."
 
 #: ../../KHM.rst:884
 msgid ""
@@ -3247,19 +3122,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:967
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|: Exile the top card of your library. You may play that "
-#| "card this turn. (Activate this ability only if this creature attacked "
-#| "this turn and only once each turn.)"
 msgid ""
 "Boast — |mana_1|: Exile the top card of your library. You may play that card "
 "this turn. (Activate only if this creature attacked this turn and only once "
 "each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|: Wygnaj wierzchnią kartę twojej biblioteki. Możesz "
-"zagrać ową kartę w tej turze. (Tę zdolność można aktywować tylko jeśli ten "
-"stwór atakował w tej turze i tylko raz na turę.)"
+"zagrać ową kartę w tej turze. (Możesz aktywować tylko jeśli ten stwór "
+"atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:972
 msgid ""
@@ -3586,21 +3456,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1071
-#, fuzzy
-#| msgid ""
-#| "Boast — |mana_1|\\ |mana_g|: Search your library for a basic land card, "
-#| "reveal it, put it into your hand, then shuffle your library. (Activate "
-#| "this ability only if this creature attacked this turn and only once each "
-#| "turn.)"
 msgid ""
 "Boast — |mana_1|\\ |mana_g|: Search your library for a basic land card, "
 "reveal it, put it into your hand, then shuffle. (Activate only if this "
 "creature attacked this turn and only once each turn.)"
 msgstr ""
 "Przechwałka — |mana_1|\\ |mana_g|: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę. (Tę zdolność można aktywować tylko jeśli ten stwór atakował w "
-"tej turze i tylko raz na turę.)"
+"bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj. (Możesz "
+"aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na turę.)"
 
 #: ../../KHM.rst:1076
 msgid ""
@@ -3627,12 +3490,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1079
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, you may cast a permanent spell from your "
-#| "hand with converted mana cost equal to 1 plus the highest converted mana "
-#| "cost among other permanents you control without paying its mana cost. If "
-#| "you don't, scry 1."
 msgid ""
 "At the beginning of your upkeep, you may cast a permanent spell from your "
 "hand with mana value equal to 1 plus the highest mana value among other "
@@ -3756,17 +3613,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1115
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_g|, |tap|, Exile a creature card from your graveyard: "
-#| "Put two +1/+1 counters on target creature. Activate this ability only any "
-#| "time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Exile a creature card from your graveyard: Put "
 "two +1/+1 counters on target creature. Activate only as a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, wygnaj kartę stwora z twojego cmentarza: Umieść "
-"dwa znaczniki +1/+1 na wskazanym stworze. Używaj jako obrzęd."
+"dwa znaczniki +1/+1 na wskazanym stworze. Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:1122
 msgid ""
@@ -3834,18 +3686,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1137
-#, fuzzy
-#| msgid ""
-#| "When Path to the World Tree enters the battlefield, search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Path to the World Tree enters the battlefield, search your library for "
 "a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../KHM.rst:1139
 msgid ""
@@ -3900,18 +3746,13 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1157
-#, fuzzy
-#| msgid ""
-#| "When Rootless Yew dies, search your library for a creature card with "
-#| "power or toughness 6 or greater, reveal it, put it into your hand, then "
-#| "shuffle your library."
 msgid ""
 "When Rootless Yew dies, search your library for a creature card with power "
 "or toughness 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, wyszukaj w twojej bibliotece kartę stwora o sile lub "
 "wytrzymałości 6 lub większej, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../KHM.rst:1162
 msgid ""
@@ -3995,18 +3836,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1185
-#, fuzzy
-#| msgid ""
-#| "Put a +1/+1 counter on target creature you control. It gains hexproof "
-#| "until end of turn. (It can't be the target of spells or abilities your "
-#| "opponents control.)"
 msgid ""
 "Put a +1/+1 counter on target creature you control. It gains hexproof until "
 "end of turn."
 msgstr ""
 "Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Do końca "
-"tury zyskuje on antyklątwę. (Nie może być wskazany przez czary i zdolności "
-"pod władaniem twoich przeciwników.)"
+"tury zyskuje on antyklątwę."
 
 #: ../../KHM.rst:1192
 msgid ""
@@ -4016,18 +3851,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1189
-#, fuzzy
-#| msgid ""
-#| "When Spirit of the Aldergard enters the battlefield, search your library "
-#| "for a snow land card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Spirit of the Aldergard enters the battlefield, search your library for "
 "a snow land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
-"śnieżnego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"śnieżnego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../KHM.rst:1191
 msgid ""
@@ -4272,10 +4101,6 @@ msgid "II — Scry 3."
 msgstr "II — Wróż 3."
 
 #: ../../KHM.rst:1267
-#, fuzzy
-#| msgid ""
-#| "III — Whenever you cast a spell with converted mana cost 5 or greater "
-#| "this turn, draw two cards, then discard a card."
 msgid ""
 "III — Whenever you cast a spell with mana value 5 or greater this turn, draw "
 "two cards, then discard a card."
@@ -4325,16 +4150,12 @@ msgid "I — Destroy target nonland permanent an opponent controls."
 msgstr "I — Zniszcz wskazany nielądowy permanent pod władaniem przeciwnika."
 
 #: ../../KHM.rst:1285
-#, fuzzy
-#| msgid ""
-#| "II — Search your library for a Forest card, put it onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "II — Search your library for a Forest card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
 "II — Wyszukaj w twojej bibliotece kartę Lasu, umieść ją przekręconą na polu "
-"bitwy, po czym przetasuj twoją bibliotekę."
+"bitwy, po czym przetasuj."
 
 #: ../../KHM.rst:1287
 msgid "III — Creatures you control gain deathtouch until end of turn."
@@ -4445,18 +4266,12 @@ msgid "I, II — Create a Treasure token."
 msgstr "I, II — Stwórz żeton Skarbu."
 
 #: ../../KHM.rst:1329
-#, fuzzy
-#| msgid ""
-#| "III — Search your library for a card named Halvar, God of Battle or an "
-#| "Equipment card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "III — Search your library for a card named Halvar, God of Battle or an "
 "Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "III — Wyszukaj w twojej bibliotece kartę o nazwie Halvar, God of Battle albo "
-"kartę Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Wyposażenia, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../KHM.rst:1336
 msgid ""
@@ -4887,12 +4702,6 @@ msgstr ""
 "pola bitwy, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../KHM.rst:1467
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters "
-#| "on it, you may remove all of them. If you do, exile each other nonland "
-#| "permanent with converted mana cost less than or equal to the number of "
-#| "counters removed this way."
 msgid ""
 "At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on "
 "it, you may remove all of them. If you do, exile each other nonland "
@@ -5165,13 +4974,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1559
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice a creature: Search your library for a creature "
-#| "card that shares a creature type with the sacrificed creature and has "
-#| "converted mana cost equal to 1 plus that creature's converted mana cost. "
-#| "Put that card onto the battlefield, then shuffle your library. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_2|, |tap|, Sacrifice a creature: Search your library for a creature "
 "card that shares a creature type with the sacrificed creature and has mana "
@@ -5180,8 +4982,8 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć stwora: Wyszukaj w twojej bibliotece kartę stwora "
 "współdzielącą typ stwora z poświęconym i o skrócie many większym o 1 od jego "
-"skróconego kosztu many. Umieść ową kartę na polu bitwy, po czym przetasuj "
-"twoją bibliotekę. Aktywuj jako obrzęd."
+"skróconego kosztu many. Umieść ową kartę na polu bitwy, po czym przetasuj. "
+"Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:1566
 msgid ""
@@ -5256,11 +5058,6 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1581
-#, fuzzy
-#| msgid ""
-#| "When Runed Crown enters the battlefield, you may search your library, "
-#| "hand, and/or graveyard for a Rune card and put it onto the battlefield "
-#| "attached to Runed Crown. If you search your library this way, shuffle it."
 msgid ""
 "When Runed Crown enters the battlefield, you may search your library, hand, "
 "and/or graveyard for a Rune card and put it onto the battlefield attached to "
@@ -5269,7 +5066,7 @@ msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
 "bibliotece, ręce i/lub cmentarzu kartę typu Runa i umieścić ją na polu bitwy "
 "dołączoną do tego artefaktu. Jeśli przeszukasz swoją bibliotekę w ten "
-"sposób, przetasuj ją."
+"sposób, przetasuj."
 
 #: ../../KHM.rst:1590
 msgid ""
@@ -5352,11 +5149,6 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
 #: ../../KHM.rst:1615
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Axgard "
-#| "Armory: Search your library for an Aura card and/or an Equipment card, "
-#| "reveal them, put them into your hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Axgard Armory: "
 "Search your library for an Aura card and/or an Equipment card, reveal them, "
@@ -5364,7 +5156,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_w|, |tap|, poświęć ten ląd: Wyszukaj "
 "w twojej bibliotece kartę Aury i/lub kartę Wyposażenia, ujawnij je, umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../KHM.rst:1620
 msgid ""
@@ -5427,19 +5219,13 @@ msgid "Bretagard Stronghold enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1639
-#, fuzzy
-#| msgid ""
-#| "|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: "
-#| "Put a +1/+1 counter on each of up to two target creatures you control. "
-#| "They gain vigilance and lifelink until end of turn. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a "
 "+1/+1 counter on each of up to two target creatures you control. They gain "
 "vigilance and lifelink until end of turn. Activate only as a sorcery."
 msgstr ""
-"|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, poświęć ten ląd: Umieść znacznik +1/"
-"+1 na każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem. Do "
+"|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, poświęć ten ląd: Umieść znacznik +1/+"
+"1 na każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem. Do "
 "końca tury zyskują one czujność. Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:1644
@@ -5545,12 +5331,6 @@ msgid "Great Hall of Starnheim enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1683
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim "
-#| "and a creature you control: Create a 4/4 white Angel Warrior creature "
-#| "token with flying and vigilance. Activate this ability only any time you "
-#| "could cast a sorcery."
 msgid ""
 "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and "
 "a creature you control: Create a 4/4 white Angel Warrior creature token with "
@@ -5617,11 +5397,6 @@ msgid "Immersturm Skullcairn enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1711
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice Immersturm "
-#| "Skullcairn: It deals 3 damage to target player. That player discards a "
-#| "card. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice Immersturm "
 "Skullcairn: It deals 3 damage to target player. That player discards a card. "
@@ -5642,12 +5417,6 @@ msgid "Littjara Mirrorlake enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1719
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Littjara "
-#| "Mirrorlake: Create a token that's a copy of target creature you control, "
-#| "except it enters the battlefield with an additional +1/+1 counter on it. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Littjara "
 "Mirrorlake: Create a token that's a copy of target creature you control, "
@@ -5727,12 +5496,6 @@ msgid "Skemfar Elderhall enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1749
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Skemfar "
-#| "Elderhall: Up to one target creature you don't control gets -2/-2 until "
-#| "end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Skemfar "
 "Elderhall: Up to one target creature you don't control gets -2/-2 until end "
@@ -5740,8 +5503,8 @@ msgid ""
 "a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
-"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury "
-"-2/-2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj jako obrzęd."
+"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury -2/-"
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj jako obrzęd."
 
 #: ../../KHM.rst:1756
 msgid ""
@@ -5785,11 +5548,6 @@ msgid "Surtland Frostpyre enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../KHM.rst:1769
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Surtland "
-#| "Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Surtland "
 "Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. "
@@ -5871,12 +5629,6 @@ msgstr ""
 "tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../KHM.rst:1799
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|"
-#| "\\ |mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice The World Tree: "
-#| "Search your library for any number of God cards, put them onto the "
-#| "battlefield, then shuffle your library."
 msgid ""
 "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ "
 "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice The World Tree: Search your "
@@ -5886,7 +5638,7 @@ msgstr ""
 "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ "
 "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej "
 "bibliotece dowolną liczbę kart Bogów, umieść je na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../KHM.rst:1804
 msgid ""
@@ -5989,19 +5741,14 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1837
-#, fuzzy
-#| msgid ""
-#| "Pay 3 life: Return Cleaving Reaper from your graveyard to your hand. "
-#| "Activate this ability only if you had an Angel or Berserker enter the "
-#| "battlefield under your control this turn."
 msgid ""
 "Pay 3 life: Return Cleaving Reaper from your graveyard to your hand. "
 "Activate only if you had an Angel or Berserker enter the battlefield under "
 "your control this turn."
 msgstr ""
 "Zapłać 3 życia: Przywróć tę kartę z twojego cmentarza do twojej ręki. Możesz "
-"aktywować tę zdolność tylko jeśli Anioł lub Berserk wszedł w tej turze na "
-"pole bitwy pod twoim władaniem."
+"aktywować tylko jeśli Anioł lub Berserk wszedł w tej turze na pole bitwy pod "
+"twoim władaniem."
 
 #: ../../KHM.rst:1842
 msgid ""

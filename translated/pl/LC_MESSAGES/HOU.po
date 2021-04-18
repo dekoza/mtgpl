@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hou/pl/>\n"
 "Language: pl\n"
@@ -212,19 +212,13 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../HOU.rst:65
-#, fuzzy
-#| msgid ""
-#| "When Djeru, With Eyes Open enters the battlefield, you may search your "
-#| "library for a planeswalker card, reveal it, put it into your hand, then "
-#| "shuffle your library."
 msgid ""
 "When Djeru, With Eyes Open enters the battlefield, you may search your "
 "library for a planeswalker card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę wędrowca, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę wędrowca, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../HOU.rst:67
 msgid ""
@@ -1009,11 +1003,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:313
-#, fuzzy
-#| msgid ""
-#| "When Vizier of the Anointed enters the battlefield, you may search your "
-#| "library for a creature card with eternalize or embalm, put that card into "
-#| "your graveyard, then shuffle your library."
 msgid ""
 "When Vizier of the Anointed enters the battlefield, you may search your "
 "library for a creature card with eternalize or embalm, put that card into "
@@ -1021,7 +1010,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora z uwiecznieniem lub balsamowaniem, umieść ową kartę w twoim "
-"cmentarzu, po czym przetasuj twoją bibliotekę."
+"cmentarzu, po czym przetasuj."
 
 #: ../../HOU.rst:315
 msgid "Whenever you activate an eternalize or embalm ability, draw a card."
@@ -1330,16 +1319,12 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../HOU.rst:413
-#, fuzzy
-#| msgid ""
-#| "Pay 2 life, Sacrifice another creature: Search your library for a card "
-#| "and put that card into your hand. Then shuffle your library."
 msgid ""
 "Pay 2 life, Sacrifice another creature: Search your library for a card, put "
 "that card into your hand, then shuffle."
 msgstr ""
 "Zapłać 2 życia, poświęć innego stwora: Wyszukaj w twojej bibliotece dowolną "
-"kartę i umieść ją w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"kartę, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../HOU.rst:420
 msgid ""
@@ -1349,15 +1334,11 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:417
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../HOU.rst:426
 msgid ""
@@ -1696,12 +1677,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:533
-#, fuzzy
-#| msgid ""
-#| "Shuffle your library, then exile the top four cards. You may cast any "
-#| "number of spells with converted mana cost 5 or less from among them "
-#| "without paying their mana costs. Lands you control don't untap during "
-#| "your next untap step."
 msgid ""
 "Shuffle your library, then exile the top four cards. You may cast any number "
 "of spells with mana value 5 or less from among them without paying their "
@@ -1739,11 +1714,6 @@ msgid "Imminent Doom enters the battlefield with a doom counter on it."
 msgstr "Ten urok wchodzi na pole bitwy ze znacznikiem zagłady."
 
 #: ../../HOU.rst:543
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a spell with converted mana cost equal to the number of "
-#| "doom counters on Imminent Doom, Imminent Doom deals that much damage to "
-#| "any target. Then put a doom counter on Imminent Doom."
 msgid ""
 "Whenever you cast a spell with mana value equal to the number of doom "
 "counters on Imminent Doom, Imminent Doom deals that much damage to any "
@@ -1935,16 +1905,12 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:609
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj."
 
 #: ../../HOU.rst:616
 msgid ""
@@ -2000,16 +1966,12 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:631
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
-#| "Activate this ability only once each turn."
 msgid ""
 "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
-"tę zdolność tylko raz na turę."
+"tylko raz na turę."
 
 #: ../../HOU.rst:636
 msgid ""
@@ -2056,20 +2018,14 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:649
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library. Then if you control three "
-#| "or more Deserts, create two 2/2 black Zombie creature tokens."
 msgid ""
 "Search your library for up to two land cards, put them onto the battlefield "
 "tapped, then shuffle. Then if you control three or more Deserts, create two "
 "2/2 black Zombie creature tokens."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwóch kart lądów, umieść je "
-"przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Następnie "
-"jeśli władasz co najmniej trzema Pustyniami, stwórz dwa żetony czarnego "
-"stwora Zombi 2/2."
+"przekręcone na polu bitwy, po czym przetasuj. Następnie jeśli władasz co "
+"najmniej trzema Pustyniami, stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../HOU.rst:654
 msgid ""
@@ -2321,10 +2277,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:725
-#, fuzzy
-#| msgid ""
-#| "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card "
-#| "of your library. You gain life equal to that card's converted mana cost."
 msgid ""
 "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
 "your library. You gain life equal to that card's mana value."
@@ -2355,18 +2307,12 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:733
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to X creature cards with different names that "
-#| "each have converted mana cost X, reveal them, put them into your hand, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for up to X creature cards with different names that "
 "each have mana value X, reveal them, put them into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart stworów o różnych nazwach i "
-"skrócie many X każda, ujawnij je i umieść w swojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"skrócie many X każda, ujawnij je i umieść w swojej ręce, po czym przetasuj."
 
 #: ../../HOU.rst:742
 msgid ""
@@ -2528,16 +2474,12 @@ msgstr ""
 "dwa wskazane cele."
 
 #: ../../HOU.rst:789
-#, fuzzy
-#| msgid ""
-#| "−7: Search your library for up to two creature and/or planeswalker cards, "
-#| "put them onto the battlefield, then shuffle your library."
 msgid ""
 "−7: Search your library for up to two creature and/or planeswalker cards, "
 "put them onto the battlefield, then shuffle."
 msgstr ""
 "–7: Wyszukaj w twojej bibliotece co najwyżej dwie karty stworów i/lub "
-"wędrowców, umieść je na polu bitwy, po czym przetasuj twoją bibliotekę."
+"wędrowców, umieść je na polu bitwy, po czym przetasuj."
 
 #: ../../HOU.rst:798
 msgid ""
@@ -2680,10 +2622,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:835
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost 2 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value 2 or less from your graveyard to "
 "the battlefield."
@@ -2838,10 +2776,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:895
-#, fuzzy
-#| msgid ""
-#| "Refuse deals damage to target spell's controller equal to that spell's "
-#| "converted mana cost."
 msgid ""
 "Refuse deals damage to target spell's controller equal to that spell's mana "
 "value."
@@ -3051,17 +2985,12 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:963
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic "
-#| "land card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_1|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj twoją "
-"bibliotekę."
+"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../HOU.rst:970
 msgid ""
@@ -3072,19 +3001,14 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:969
-#, fuzzy
-#| msgid ""
-#| "|tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or "
-#| "planeswalker. Activate this ability only if you control a Desert or there "
-#| "is a Desert card in your graveyard."
 msgid ""
 "|tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or "
 "planeswalker. Activate only if you control a Desert or there is a Desert "
 "card in your graveyard."
 msgstr ""
 "|tap|: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie. "
-"Możesz aktywować tę zdolność tylko jeśli władasz Pustynią lub w twoim "
-"cmentarzu jest karta Pustyni."
+"Możesz aktywować tylko jeśli władasz Pustynią lub w twoim cmentarzu jest "
+"karta Pustyni."
 
 #: ../../HOU.rst:978
 msgid ""
@@ -3269,11 +3193,6 @@ msgid "|tap|, Pay 1 life: Add |mana_g|."
 msgstr "|tap|, zapłać 1 życie: Weź |mana_g|."
 
 #: ../../HOU.rst:1039
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice a Desert: Target "
-#| "creature gets +3/+3 until end of turn. Activate this ability only any "
-#| "time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice a Desert: Target creature "
 "gets +3/+3 until end of turn. Activate only as a sorcery."
@@ -3308,11 +3227,6 @@ msgid "|tap|, Pay 1 life: Add |mana_b|."
 msgstr "|tap|, zapłać 1 życie: Weź |mana_b|."
 
 #: ../../HOU.rst:1053
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 "
-#| "counters on target creature an opponent controls. Activate this ability "
-#| "only any time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 "
 "counters on target creature an opponent controls. Activate only as a sorcery."
@@ -3385,11 +3299,6 @@ msgid "|tap|, Pay 1 life: Add |mana_w|."
 msgstr "|tap|, zapłać 1 życie: Weź |mana_w|."
 
 #: ../../HOU.rst:1083
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you "
-#| "control get +1/+1 until end of turn. Activate this ability only any time "
-#| "you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you "
 "control get +1/+1 until end of turn. Activate only as a sorcery."
@@ -3529,11 +3438,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1129
-#, fuzzy
-#| msgid ""
-#| "Search your library and graveyard for a card named Forest, a card named "
-#| "Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those "
-#| "cards, put them into your hand, then shuffle your library."
 msgid ""
 "Search your library and graveyard for a card named Forest, a card named "
 "Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those "
@@ -3541,7 +3445,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece i cmentarzu kartę o nazwie Forest, kartę o "
 "nazwie Brambleweft Behemoth oraz kartę o nazwie Nissa, Genesis Mage. Ujawnij "
-"owe karty, umieść je w twojej ręce, po czym przetasuj twoją bibliotekę."
+"owe karty, umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../HOU.rst:1136
 msgid ""
@@ -3625,12 +3529,6 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1157
-#, fuzzy
-#| msgid ""
-#| "When Visage of Bolas enters the battlefield, you may search your library "
-#| "and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, "
-#| "and put it into your hand. If you search your library this way, shuffle "
-#| "it."
 msgid ""
 "When Visage of Bolas enters the battlefield, you may search your library and/"
 "or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put "
@@ -3639,7 +3537,7 @@ msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
 "bibliotece i/lub cmentarzu kartę o nazwie Nicol Bolas, the Deceiver, ujawnij "
 "ją i umieść w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, "
-"przetasuj ją."
+"przetasuj."
 
 #: ../../HOU.rst:1159
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."

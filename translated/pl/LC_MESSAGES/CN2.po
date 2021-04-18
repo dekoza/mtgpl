@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-15 10:15+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cn2/pl/>\n"
 "Language: pl\n"
@@ -1139,9 +1139,8 @@ msgid ""
 "card. Each player who discarded a card this way may search their library for "
 "a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
-"Recykling bazowolądowy |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
-"kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
-"ją w twojej ręce, po czym przetasuj.)"
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../CN2.rst:384
 msgid ""
@@ -1627,7 +1626,7 @@ msgstr ""
 
 #: ../../CN2.rst:537
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../CN2.rst:546
 msgid ""
@@ -2091,11 +2090,6 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:723
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -2232,15 +2226,11 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:773
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../CN2.rst:778
 msgid ""
@@ -2250,10 +2240,6 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:777
-#, fuzzy
-#| msgid ""
-#| "When Driver of the Dead dies, return target creature card with converted "
-#| "mana cost 2 or less from your graveyard to the battlefield."
 msgid ""
 "When Driver of the Dead dies, return target creature card with mana value 2 "
 "or less from your graveyard to the battlefield."
@@ -2590,11 +2576,6 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../CN2.rst:887
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -2930,16 +2911,12 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:999
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CN2.rst:1004
 msgid ""
@@ -3005,16 +2982,12 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:1025
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../CN2.rst:1030
 msgid ""
@@ -3272,11 +3245,6 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:1109
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, each player reveals the top card of "
-#| "their library, loses life equal to that card's converted mana cost, then "
-#| "puts it into their hand."
 msgid ""
 "At the beginning of your upkeep, each player reveals the top card of their "
 "library, loses life equal to that card's mana value, then puts it into their "
@@ -3354,12 +3322,6 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:1135
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your "
-#| "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is "
-#| "that card's converted mana cost. (To scry 1, look at the top card of your "
-#| "library, then you may put that card on the bottom of your library.)"
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your "
 "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that "
@@ -3499,16 +3461,12 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:1189
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CN2.rst:1194
 msgid ""

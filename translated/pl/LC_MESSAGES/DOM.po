@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 12:46+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dom/pl/>\n"
 "Language: pl\n"
@@ -97,10 +97,6 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../DOM.rst:27
-#, fuzzy
-#| msgid ""
-#| "Creatures can't attack you or a planeswalker you control unless their "
-#| "controller pays |mana_1| for each of those creatures."
 msgid ""
 "Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_1| for each of those creatures."
@@ -623,11 +619,6 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:201
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a historic spell, return target creature card with "
-#| "converted mana cost 3 or less from your graveyard to the battlefield. "
-#| "(Artifacts, legendaries, and Sagas are historic.)"
 msgid ""
 "Whenever you cast a historic spell, return target creature card with mana "
 "value 3 or less from your graveyard to the battlefield. (Artifacts, "
@@ -1057,7 +1048,7 @@ msgstr ""
 
 #: ../../DOM.rst:347
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../DOM.rst:358
 msgid ""
@@ -1436,13 +1427,6 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../DOM.rst:483
-#, fuzzy
-#| msgid ""
-#| "When Demonlord Belzenlok enters the battlefield, exile cards from the top "
-#| "of your library until you exile a nonland card, then put that card into "
-#| "your hand. If the card's converted mana cost is 4 or greater, repeat this "
-#| "process. Demonlord Belzenlok deals 1 damage to you for each card put into "
-#| "your hand this way."
 msgid ""
 "When Demonlord Belzenlok enters the battlefield, exile cards from the top of "
 "your library until you exile a nonland card, then put that card into your "
@@ -1554,16 +1538,12 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:517
-#, fuzzy
-#| msgid ""
-#| "Search your library for two cards. Put one into your hand and the other "
-#| "into your graveyard. Then shuffle your library."
 msgid ""
 "Search your library for two cards. Put one into your hand and the other into "
 "your graveyard. Then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty. Umieść jedną z nich w twojej ręce, "
-"a drugą w twoim cmentarzu. Następnie przetasuj twoją bibliotekę."
+"a drugą w twoim cmentarzu. Następnie przetasuj."
 
 #: ../../DOM.rst:522
 msgid ""
@@ -2805,21 +2785,15 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:921
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield, "
-#| "then shuffle your library. If this spell was kicked, instead search your "
-#| "library for two basic land cards, put them onto the battlefield, then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle. If this spell was kicked, instead search your library for two basic "
 "land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj twoją bibliotekę. Jeśli ten czar został podbity, zamiast "
-"tego wyszukaj w twojej bibliotece dwie karty bazowych lądów i umieść je na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"po czym przetasuj. Jeśli ten czar został podbity, zamiast tego wyszukaj w "
+"twojej bibliotece dwie karty bazowych lądów i umieść je na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../DOM.rst:930
 msgid ""
@@ -2852,11 +2826,6 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:935
-#, fuzzy
-#| msgid ""
-#| "Look at the top X cards of your library. You may put any number of land "
-#| "and/or legendary permanent cards with converted mana cost X or less from "
-#| "among them onto the battlefield. Put the rest into your graveyard."
 msgid ""
 "Look at the top X cards of your library. You may put any number of land and/"
 "or legendary permanent cards with mana value X or less from among them onto "
@@ -3938,18 +3907,12 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:1291
-#, fuzzy
-#| msgid ""
-#| "When Skittering Surveyor enters the battlefield, you may search your "
-#| "library for a basic land card, reveal it, put it into your hand, then "
-#| "shuffle your library."
 msgid ""
 "When Skittering Surveyor enters the battlefield, you may search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../DOM.rst:1298
 msgid ""
@@ -4399,12 +4362,6 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:1447
-#, fuzzy
-#| msgid ""
-#| "When Niambi, Faithful Healer enters the battlefield, you may search your "
-#| "library and/or graveyard for a card named Teferi, Timebender, reveal it, "
-#| "and put it into your hand. If you search your library this way, shuffle "
-#| "it."
 msgid ""
 "When Niambi, Faithful Healer enters the battlefield, you may search your "
 "library and/or graveyard for a card named Teferi, Timebender, reveal it, and "
@@ -4412,7 +4369,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "oraz/lub cmentarzu kartę o nazwie Teferi, Timebender, ujawnij ją i umieść w "
-"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
+"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../DOM.rst:1452
 msgid ""
@@ -4484,11 +4441,6 @@ msgid "Chandra's Outburst deals 4 damage to target player or planeswalker."
 msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 4 obrażenia."
 
 #: ../../DOM.rst:1471
-#, fuzzy
-#| msgid ""
-#| "Search your library and/or graveyard for a card named Chandra, Bold "
-#| "Pyromancer, reveal it, and put it into your hand. If you search your "
-#| "library this way, shuffle it."
 msgid ""
 "Search your library and/or graveyard for a card named Chandra, Bold "
 "Pyromancer, reveal it, and put it into your hand. If you search your library "
@@ -4496,7 +4448,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Chandra, Bold "
 "Pyromancer, ujawnij ją i umieść w twojej ręce. Jeśli przeszukasz twoją "
-"bibliotekę w ten sposób, przetasuj ją."
+"bibliotekę w ten sposób, przetasuj."
 
 #: ../../DOM.rst:1476
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -1297,10 +1297,6 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:443
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose a card from it with "
-#| "converted mana cost 4 or greater and exile that card."
 msgid ""
 "Target opponent reveals their hand. You choose a card from it with mana "
 "value 4 or greater and exile that card."
@@ -1384,11 +1380,6 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:469
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|, Sacrifice a creature: Target opponent reveals their "
-#| "hand. You choose a card from it. That player discards that card. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a creature: Target opponent reveals their "
 "hand. You choose a card from it. That player discards that card. Activate "
@@ -1528,10 +1519,6 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:513
-#, fuzzy
-#| msgid ""
-#| "When Driver of the Dead dies, return target creature card with converted "
-#| "mana cost 2 or less from your graveyard to the battlefield."
 msgid ""
 "When Driver of the Dead dies, return target creature card with mana value 2 "
 "or less from your graveyard to the battlefield."
@@ -2580,18 +2567,12 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:867
-#, fuzzy
-#| msgid ""
-#| "When Borderland Ranger enters the battlefield, you may search your "
-#| "library for a basic land card, reveal it, and put it into your hand. If "
-#| "you do, shuffle your library."
 msgid ""
 "When Borderland Ranger enters the battlefield, you may search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../AVR.rst:872
 msgid ""
@@ -2652,12 +2633,6 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:887
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, reveal the top card of your library. You "
-#| "may cast it without paying its mana cost if it's a creature spell that "
-#| "shares a creature type with a creature you control. Otherwise, put that "
-#| "card on the bottom of your library."
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library. If "
 "it's a creature card that shares a creature type with a creature you "
@@ -2665,9 +2640,9 @@ msgid ""
 "put it on the bottom of your library."
 msgstr ""
 "Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
-"biblioteki. Możesz rzucić ją bez płacenia jej kosztu many jeśli jest czarem "
-"stwora mającym wspólny typ stwora ze stworem pod twoim władaniem. W "
-"przeciwnym razie umieść ową kartę na spodzie twojej biblioteki."
+"biblioteki. Jeśli to karta stwora współdzieląca typ stwora ze stworem pod "
+"twoim władaniem, możesz rzucić ją bez płacenia jej koszt many. Jeśli jej nie "
+"rzucisz, umieść ją na spodzie twojej biblioteki."
 
 #: ../../AVR.rst:894
 msgid ""

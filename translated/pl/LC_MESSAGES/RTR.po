@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -1906,7 +1906,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu lub Bramy, ujawnij ją i umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../RTR.rst:630
 msgid ""
@@ -2005,7 +2005,7 @@ msgid ""
 "only once each turn."
 msgstr ""
 "Usuń znacznik ładunku z tego artefaktu: Weź jedną manę dowolnego koloru. "
-"Możesz aktywować tę zdolność tylko raz na turę."
+"Możesz aktywować tylko raz na turę."
 
 #: ../../RTR.rst:657
 msgid ""
@@ -2072,7 +2072,7 @@ msgid ""
 "into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece do trzech kart bazowych lądów, ujawnij je i "
-"umieść w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"umieść w twojej ręce. Następnie przetasuj."
 
 #: ../../RTR.rst:678
 msgid ""
@@ -2448,12 +2448,6 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:805
-#, fuzzy
-#| msgid ""
-#| "Exile the top X cards of your library. You may cast instant and sorcery "
-#| "spells with converted mana cost X or less from among them without paying "
-#| "their mana costs. Then put all cards exiled this way that weren't cast "
-#| "into your graveyard."
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
 "spells with mana value X or less from among them without paying their mana "
@@ -2512,7 +2506,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę sztuczki o skrócie many 3, ujawnij ją i "
 "umieść w twojej ręce. Następnie powtórz ten proces dla kart sztuczek o "
-"skrócie many 2 i 1. Następnie przetasuj twoją bibliotekę."
+"skrócie many 2 i 1. Następnie przetasuj."
 
 #: ../../RTR.rst:822
 msgid ""
@@ -2727,8 +2721,7 @@ msgid ""
 "into your hand and the other into your graveyard. Then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty stworów i ujawnij je. "
-"Umieść jedną w twojej ręce, a drugą w twoim cmentarzu. Następnie przetasuj "
-"twoją bibliotekę."
+"Umieść jedną w twojej ręce, a drugą w twoim cmentarzu. Następnie przetasuj."
 
 #: ../../RTR.rst:906
 msgid ""

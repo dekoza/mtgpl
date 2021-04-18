@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 10:31+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nem/pl/>\n"
 "Language: pl\n"
@@ -141,7 +141,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:46
 msgid ""
@@ -168,7 +168,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:50
 msgid ""
@@ -237,7 +237,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:71
 msgid ""
@@ -659,7 +659,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:222
 msgid ""
@@ -1053,7 +1053,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:368
 msgid ""
@@ -1093,7 +1093,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:378
 msgid ""
@@ -1466,7 +1466,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:502
 msgid ""
@@ -1784,18 +1784,12 @@ msgid ""
 msgstr ""
 
 #: ../../NEM.rst:603
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|: Search your library for a Rebel permanent card with "
-#| "converted mana cost 3 or less and put it onto the battlefield. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
-"|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
-"Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty Lasu, umieść je na polu "
+"bitwy, po czym przetasuj."
 
 #: ../../NEM.rst:608
 msgid ""
@@ -1829,7 +1823,7 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
 "Rebeliant o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../NEM.rst:616
 msgid ""

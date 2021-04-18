@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-16 18:38+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scg/pl/>\n"
 "Language: pl\n"
@@ -244,18 +244,13 @@ msgstr ""
 "twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../SCG.rst:81 ../../SCG.rst:123
-#, fuzzy
-#| msgid ""
-#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"przetasuj.)"
 
 #: ../../SCG.rst:86
 msgid ""
@@ -723,6 +718,9 @@ msgid ""
 "Shuffle your library. Then exile the top card of your library. Until end of "
 "turn, you may play that card without paying its mana cost."
 msgstr ""
+"Przetasuj twoją bibliotekę. Następnie wygnaj wierzchnią kartę twojej "
+"biblioteki. Do końca tury możesz zagrać ową kartę bez płacenia jej kosztu "
+"many."
 
 #: ../../SCG.rst:245 ../../SCG.rst:533 ../../SCG.rst:701 ../../SCG.rst:737
 msgid ""
@@ -916,8 +914,7 @@ msgid ""
 "an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../SCG.rst:312
 msgid ""
@@ -1319,8 +1316,7 @@ msgid ""
 "a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Bagnocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../SCG.rst:458
 msgid ""
@@ -1424,18 +1420,12 @@ msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../SCG.rst:489
-#, fuzzy
-#| msgid ""
-#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Plains card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"Górocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Góry, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../SCG.rst:498
 msgid ""
@@ -1476,17 +1466,14 @@ msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
 msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
 #: ../../SCG.rst:507
-#, fuzzy
-#| msgid ""
-#| "When Bladewing the Risen enters the battlefield, you may return target "
-#| "Dragon permanent card from your graveyard to the battlefield."
 msgid ""
 "When a creature with mana value 6 or greater enters the battlefield, you may "
 "return Dragon Breath from your graveyard to the battlefield attached to that "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"Smoka z twojego cmentarza na pole bitwy."
+"Kiedy stwór o skrócie many 6 lub większym wejdzie na pole bitwy, możesz "
+"przywrócić tę kartę z twojego cmentarza na pole bitwy dołączoną do owego "
+"stwora."
 
 #: ../../SCG.rst:514
 msgid ""
@@ -1551,10 +1538,13 @@ msgid ""
 msgstr ""
 
 #: ../../SCG.rst:531
+#, fuzzy
 msgid ""
 "Search your library for a Dragon permanent card, put it onto the "
 "battlefield, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj."
 
 #: ../../SCG.rst:538
 msgid ""
@@ -1997,8 +1987,7 @@ msgid ""
 "a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Lasocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Lasu, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../SCG.rst:690
 msgid ""
@@ -2008,11 +1997,6 @@ msgid ""
 msgstr ""
 
 #: ../../SCG.rst:689
-#, fuzzy
-#| msgid ""
-#| "When Fierce Empath enters the battlefield, you may search your library "
-#| "for a creature card with converted mana cost 6 or greater, reveal it, put "
-#| "it into your hand, then shuffle your library."
 msgid ""
 "When Fierce Empath enters the battlefield, you may search your library for a "
 "creature card with mana value 6 or greater, reveal it, put it into your "
@@ -2020,7 +2004,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
-"ręce, po czym przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj."
 
 #: ../../SCG.rst:696
 msgid ""
@@ -2161,8 +2145,7 @@ msgid ""
 "your hand, then shuffle."
 msgstr ""
 "Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę.)"
+"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../SCG.rst:744
 msgid ""
@@ -2338,7 +2321,7 @@ msgid ""
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
 "bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę.)"
+"przetasuj.)"
 
 #: ../../SCG.rst:797
 msgid ""
@@ -2394,10 +2377,6 @@ msgid ""
 msgstr ""
 
 #: ../../SCG.rst:815
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-#| "control five or more lands."
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."

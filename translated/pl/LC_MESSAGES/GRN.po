@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/grn/pl/>\n"
 "Language: pl\n"
@@ -580,8 +580,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:199
-#, fuzzy
-#| msgid "Counter target spell with converted mana cost 4 or greater."
 msgid "Counter target spell with mana value 4 or greater."
 msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
@@ -1081,11 +1079,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:379
-#, fuzzy
-#| msgid ""
-#| "Choose a creature card with converted mana cost 1 in your graveyard, then "
-#| "do the same for creature cards with converted mana costs 2 and 3. Return "
-#| "those cards to the battlefield."
 msgid ""
 "Choose a creature card with mana value 1 in your graveyard, then do the same "
 "for creature cards with mana value 2 and 3. Return those cards to the "
@@ -1144,11 +1137,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:397
-#, fuzzy
-#| msgid ""
-#| "Undergrowth — Search your library for a black card with converted mana "
-#| "cost less than or equal to the number of creature cards in your "
-#| "graveyard, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "Undergrowth — Search your library for a black card with mana value less than "
 "or equal to the number of creature cards in your graveyard, reveal it, put "
@@ -1156,7 +1144,7 @@ msgid ""
 msgstr ""
 "Ściółka — Wyszukaj w twojej bibliotece czarną kartę o skrócie many mniejszym "
 "lub równym liczbie kart stworów w twoim cmentarzu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../GRN.rst:404
 msgid ""
@@ -1242,12 +1230,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:425
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent "
-#| "reveals their hand. You choose a nonland card from it. That player "
-#| "discards that card. Activate this ability only any time you could cast a "
-#| "sorcery."
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals "
 "their hand. You choose a nonland card from it. That player discards that "
@@ -1294,8 +1276,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:441
-#, fuzzy
-#| msgid "Destroy all creatures with converted mana cost 3 or less."
 msgid "Destroy all creatures with mana value 3 or less."
 msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
@@ -1341,12 +1321,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:455
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice another creature: Put a +1/+1 counter on Undercity "
-#| "Necrolisk. It gains menace until end of turn. Activate this ability only "
-#| "any time you could cast a sorcery. (It can't be blocked except by two or "
-#| "more creatures.)"
 msgid ""
 "|mana_1|, Sacrifice another creature: Put a +1/+1 counter on Undercity "
 "Necrolisk. It gains menace until end of turn. Activate only as a sorcery. "
@@ -1510,16 +1484,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:511
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
-#| "until end of turn, where X is that spell's converted mana cost."
 msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's mana value."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+X/+0, gdzie X jest skrótem many owego czaru."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"X/+0, gdzie X jest skrótem many owego czaru."
 
 #: ../../GRN.rst:522
 msgid ""
@@ -1908,17 +1878,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:659
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards and/or Gate cards, put "
-#| "them onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards and/or Gate cards, put "
 "them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
-"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../GRN.rst:668
 msgid ""
@@ -1958,11 +1923,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:675
-#, fuzzy
-#| msgid ""
-#| "When District Guide enters the battlefield, you may search your library "
-#| "for a basic land card or Gate card, reveal it, put it into your hand, "
-#| "then shuffle your library."
 msgid ""
 "When District Guide enters the battlefield, you may search your library for "
 "a basic land card or Gate card, reveal it, put it into your hand, then "
@@ -1970,7 +1930,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu lub Bramę, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../GRN.rst:680
 msgid ""
@@ -2029,13 +1989,6 @@ msgid "Reach"
 msgstr "Zasięg"
 
 #: ../../GRN.rst:697
-#, fuzzy
-#| msgid ""
-#| "Undergrowth — When you cast this spell, reveal the top X cards of your "
-#| "library, where X is the number of creature cards in your graveyard. You "
-#| "may put a green permanent card with converted mana cost X or less from "
-#| "among them onto the battlefield. Put the rest on the bottom of your "
-#| "library in a random order."
 msgid ""
 "Undergrowth — When you cast this spell, reveal the top X cards of your "
 "library, where X is the number of creature cards in your graveyard. You may "
@@ -2337,11 +2290,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:811
-#, fuzzy
-#| msgid ""
-#| "Destroy target permanent an opponent controls. Its controller may search "
-#| "their library for a basic land card, put it onto the battlefield, then "
-#| "shuffle their library."
 msgid ""
 "Destroy target permanent an opponent controls. Its controller may search "
 "their library for a basic land card, put it onto the battlefield, then "
@@ -2349,7 +2297,7 @@ msgid ""
 msgstr ""
 "Zniszcz wskazany permanent pod władaniem przeciwnika. Jego władca może "
 "wyszukać w swojej bibliotece kartę bazowego lądu, umieszcza ją na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"bitwy, po czym tasuje."
 
 #: ../../GRN.rst:820
 msgid ""
@@ -2628,16 +2576,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:909
-#, fuzzy
-#| msgid ""
-#| "Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample "
-#| "until end of turn. Activate this ability only once each turn."
 msgid ""
 "Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample "
 "until end of turn. Activate only once each turn."
 msgstr ""
 "Odrzuć kartę stwora: Ten stwór zyskuje do końca tury +2/+2 oraz tratowanie. "
-"Możesz aktywować tę zdolność tylko raz na turę."
+"Możesz aktywować tylko raz na turę."
 
 #: ../../GRN.rst:916
 msgid ""
@@ -2893,12 +2837,6 @@ msgstr ""
 "kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:987
-#, fuzzy
-#| msgid ""
-#| "|mana_x|: Lazav, the Multifarious becomes a copy of target creature card "
-#| "in your graveyard with converted mana cost X, except its name is Lazav, "
-#| "the Multifarious, it's legendary in addition to its other types, and it "
-#| "has this ability."
 msgid ""
 "|mana_x|: Lazav, the Multifarious becomes a copy of target creature card in "
 "your graveyard with mana value X, except its name is Lazav, the "
@@ -2922,11 +2860,6 @@ msgid "|mana_3|\\ |mana_u|, |tap|: Draw a card."
 msgstr "|mana_3|\\ |mana_u|, |tap|: Dobierz kartę."
 
 #: ../../GRN.rst:993
-#, fuzzy
-#| msgid ""
-#| "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you "
-#| "control with converted mana cost X. You may choose new targets for the "
-#| "copy."
 msgid ""
 "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you control "
 "with mana value X. You may choose new targets for the copy."
@@ -3402,12 +3335,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1151
-#, fuzzy
-#| msgid ""
-#| "Choose a card name. Search target opponent's graveyard, hand, and library "
-#| "for up to four cards with that name and exile them. That player shuffles "
-#| "their library, then draws a card for each card exiled from their hand "
-#| "this way."
 msgid ""
 "Choose a card name. Search target opponent's graveyard, hand, and library "
 "for up to four cards with that name and exile them. That player shuffles, "
@@ -3415,8 +3342,8 @@ msgid ""
 msgstr ""
 "Nazwij kartę. Wyszukaj w cmentarzu, ręce oraz bibliotece wskazanego "
 "przeciwnika co najwyżej cztery karty o owej nazwie i wygnaj je. Ów gracz "
-"tasuje swoją bibliotekę, po czym dobiera kartę za każdą z kart wygnanych ze "
-"swojej ręki w ten sposób."
+"tasuje, po czym dobiera kartę za każdą z kart wygnanych w ten sposób ze "
+"swojej ręki."
 
 #: ../../GRN.rst:1160
 msgid ""
@@ -3434,9 +3361,6 @@ msgstr ""
 "dobierz kartę."
 
 #: ../../GRN.rst:1157
-#, fuzzy
-#| msgid ""
-#| "−3: Destroy target nonland permanent with converted mana cost 3 or less."
 msgid "−3: Destroy target nonland permanent with mana value 3 or less."
 msgstr ""
 "–3: Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
@@ -3608,11 +3532,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1219
-#, fuzzy
-#| msgid ""
-#| "Each opponent returns a nonland permanent they control with the highest "
-#| "converted mana cost among permanents they control to its owner's hand, "
-#| "then discards a card."
 msgid ""
 "Each opponent returns a nonland permanent they control with the highest mana "
 "value among permanents they control to its owner's hand, then discards a "
@@ -3630,10 +3549,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1223
-#, fuzzy
-#| msgid ""
-#| "Copy target instant or sorcery spell with converted mana cost 4 or less. "
-#| "You may choose new targets for the copy."
 msgid ""
 "Copy target instant or sorcery spell with mana value 4 or less. You may "
 "choose new targets for the copy."
@@ -3690,16 +3605,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1239
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic Forest or Plains card, reveal it, put it "
-#| "into your hand, then shuffle your library."
 msgid ""
 "Search your library for a basic Forest or Plains card, reveal it, put it "
 "into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego Lasu lub Równin, ujawnij ją i "
-"umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
+"umieść w twojej ręce, po czym przetasuj."
 
 #: ../../GRN.rst:1244
 msgid ""
@@ -3757,16 +3668,12 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1259
-#, fuzzy
-#| msgid ""
-#| "Search your library for an instant card and/or a sorcery card, reveal "
-#| "them, put them into your hand, then shuffle your library."
 msgid ""
 "Search your library for an instant card and/or a sorcery card, reveal them, "
 "put them into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę sztuczki i/lub kartę obrzędu, ujawnij je, "
-"umieść je w twojej ręce, po czym przetasuj twoją bibliotekę."
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../GRN.rst:1264
 msgid ""
@@ -4332,11 +4239,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1455
-#, fuzzy
-#| msgid ""
-#| "Return target creature to its owner's hand. You may search your library "
-#| "and/or graveyard for a card named Ral, Caller of Storms, reveal it, and "
-#| "put it into your hand. If you search your library this way, shuffle it."
 msgid ""
 "Return target creature to its owner's hand. You may search your library and/"
 "or graveyard for a card named Ral, Caller of Storms, reveal it, and put it "
@@ -4345,7 +4247,7 @@ msgstr ""
 "Przywróć wskazanego stwora do ręki właściciela. Możesz wyszukać w twojej "
 "bibliotece oraz/lub cmentarzu kartę o nazwie 'Ral, Caller of Storms', "
 "ujawnij ją i umieść ją w twojej ręce. Jeśli przeszukasz twoją bibliotekę w "
-"ten sposób, przetasuj ją."
+"ten sposób, przetasuj."
 
 #: ../../GRN.rst:1460
 msgid ""
@@ -4438,12 +4340,6 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1485
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature. You gain life equal to its toughness. You may "
-#| "search your library and/or graveyard for a card named Vraska, Regal "
-#| "Gorgon, reveal it, and put it into your hand. If you search your library "
-#| "this way, shuffle it."
 msgid ""
 "Destroy target creature. You gain life equal to its toughness. You may "
 "search your library and/or graveyard for a card named Vraska, Regal Gorgon, "
@@ -4453,7 +4349,7 @@ msgstr ""
 "Zniszcz wskazanego stwora. Zyskaj życia równe jego wytrzymałości. Możesz "
 "wyszukać w twojej bibliotece i/albo cmentarzu kartę o nazwie 'Vraska, Regal "
 "Gorgon', ujawnij ją i umieść w twojej ręce. Jeśli przeszukasz twoją "
-"bibliotekę w ten sposób, przetasuj ją."
+"bibliotekę w ten sposób, przetasuj."
 
 #: ../../GRN.rst:1491
 msgid ""

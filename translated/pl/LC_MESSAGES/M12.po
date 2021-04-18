@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -563,11 +563,6 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../M12.rst:195
-#, fuzzy
-#| msgid ""
-#| "Whenever Sun Titan enters the battlefield or attacks, you may return "
-#| "target permanent card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Whenever Sun Titan enters the battlefield or attacks, you may return target "
 "permanent card with mana value 3 or less from your graveyard to the "
@@ -1051,16 +1046,12 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:359
-#, fuzzy
-#| msgid ""
-#| "Look at the top three cards of your library, then put them back in any "
-#| "order. You may shuffle your library."
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
-"powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
+"powrotem w dowolnej kolejności. Możesz przetasować."
 
 #: ../../M12.rst:361
 msgid "Draw a card."
@@ -1338,15 +1329,11 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:459
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../M12.rst:464
 msgid ""
@@ -1536,7 +1523,7 @@ msgid ""
 "card, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę, "
-"umieść ją w twojej ręce, po czym przetasuj twoją bibliotekę."
+"umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../M12.rst:530
 msgid ""
@@ -2458,7 +2445,7 @@ msgid ""
 msgstr ""
 "Dla każdego stwora pod twoim władaniem możesz wyszukać w twojej bibliotece "
 "kartę stwora o tej samej nazwie. Umieść ową kartę na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../M12.rst:844
 msgid ""
@@ -2684,7 +2671,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
 "twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../M12.rst:936
 msgid ""
@@ -2720,16 +2707,12 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:939
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../M12.rst:944
 msgid ""
@@ -3106,19 +3089,13 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:1073
-#, fuzzy
-#| msgid ""
-#| "When Solemn Simulacrum enters the battlefield, you may search your "
-#| "library for a basic land card, put that card onto the battlefield tapped, "
-#| "then shuffle your library."
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../M12.rst:1075
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -3143,10 +3120,10 @@ msgid ""
 "spells and abilities from the stack. Discard down to your maximum hand size. "
 "Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)"
 msgstr ""
-"|mana_1|, |tap|: Zakończ turę. Możesz aktywować tę zdolność tylko w twojej "
-"turze. (Wygnaj wszystkie czary i zdolności ze stosu. Odrzuć do maksymalnego "
-"rozmiaru ręki. Obrażenia znikają, a efekty \"w tej turze\" i \"do końca tury"
-"\" kończą się.)"
+"|mana_1|, |tap|: Zakończ turę. Możesz aktywować tylko w twojej turze. ("
+"Wygnaj wszystkie czary i zdolności ze stosu. Odrzuć do maksymalnego rozmiaru "
+"ręki. Obrażenia znikają, a efekty \"w tej turze\" i \"do końca tury\" kończą "
+"się.)"
 
 #: ../../M12.rst:1086
 msgid ""

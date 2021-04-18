@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
 "Language: pl\n"
@@ -201,7 +201,7 @@ msgid ""
 "Activate only as a sorcery and only once each turn."
 msgstr ""
 "Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Aktywuj jako "
-"obrzęd. Możesz aktywować tę zdolność tylko raz na turę."
+"obrzęd. Możesz aktywować tylko raz na turę."
 
 #: ../../SOI.rst:66
 msgid ""
@@ -643,7 +643,7 @@ msgid ""
 "your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Aury lub Wyposażenia, ujawnij ją i umieść "
-"w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"w twojej ręce. Następnie przetasuj."
 
 #: ../../SOI.rst:196
 msgid ""
@@ -728,8 +728,8 @@ msgid ""
 "among cards in your graveyard."
 msgstr ""
 "Delirium — Poświęć innego stwora: Ten stwór dostaje do końca tury +2/+1. "
-"Możesz aktywować tę zdolność tylko jeżeli w twoim cmentarzu są karty "
-"należące do przynajmniej czterech typów kart."
+"Możesz aktywować tylko jeżeli w twoim cmentarzu są karty należące do "
+"przynajmniej czterech typów kart."
 
 #: ../../SOI.rst:220
 msgid ""
@@ -1944,7 +1944,7 @@ msgid ""
 "hand, then shuffle."
 msgstr ""
 "Odrzuć twoją rękę. Wyszukaj w twojej bibliotece trzy karty i umieść je w "
-"twojej ręce. Następnie przetasuj twoją bibliotekę."
+"twojej ręce. Następnie przetasuj."
 
 #: ../../SOI.rst:612
 msgid ""
@@ -1984,7 +1984,7 @@ msgid ""
 "with lifelink. Activate only once each turn."
 msgstr ""
 "|mana_1|, odrzuć kartę: Stwórz żeton czarnego stwora Wampir Rycerz 1/1 z "
-"więzią życia. Możesz aktywować tę zdolność tylko raz na turę."
+"więzią życia. Możesz aktywować tylko raz na turę."
 
 #: ../../SOI.rst:620
 msgid ""
@@ -2227,8 +2227,7 @@ msgstr ""
 msgid ""
 "Discard a card: Transform Heir of Falkenrath. Activate only once each turn."
 msgstr ""
-"Odrzuć kartę: Transformuj tego stwora. Możesz aktywować tę zdolność tylko "
-"raz na turę."
+"Odrzuć kartę: Transformuj tego stwora. Możesz aktywować tylko raz na turę."
 
 #: ../../SOI.rst:692
 msgid ""
@@ -2288,9 +2287,9 @@ msgid ""
 "Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate only if "
 "there are four or more card types among cards in your graveyard."
 msgstr ""
-"Delirium — |mana_2|\\ |mana_b|: Transformuj tego stwora. Możesz aktywować tę "
-"zdolność tylko jeśli w twoim cmentarzu są karty należące do co najmniej "
-"czterech typów kart."
+"Delirium — |mana_2|\\ |mana_b|: Transformuj tego stwora. Możesz aktywować "
+"tylko jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart."
 
 #: ../../SOI.rst:710
 msgid ""
@@ -2599,8 +2598,8 @@ msgid ""
 "graveyard."
 msgstr ""
 "Delirium — |mana_1|\\ |mana_b|: Test stwór dostaje do końca tury +1/+1. "
-"Możesz aktywować tę zdolność tylko jeśli w twoim cmentarzu są karty należące "
-"do co najmniej czterech typów kart."
+"Możesz aktywować tylko jeśli w twoim cmentarzu są karty należące do co "
+"najmniej czterech typów kart."
 
 #: ../../SOI.rst:808
 msgid ""
@@ -3911,7 +3910,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i ujawnij "
 "je. Umieść jedną w twojej ręce, a resztę w twoim cmentarzu. Następnie "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../SOI.rst:1218
 msgid ""
@@ -4469,16 +4468,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1383
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../SOI.rst:1385
 #, fuzzy
@@ -4493,7 +4488,7 @@ msgid ""
 msgstr ""
 "Delirium — Jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
 "typów kart, zamiast tego wyszukaj w twojej bibliotece kartę stwora lub lądu, "
-"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj twoją bibliotekę."
+"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../SOI.rst:1394
 msgid ""
@@ -4521,8 +4516,7 @@ msgid ""
 "a land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"kartę lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SOI.rst:1400
 msgid ""
@@ -4794,8 +4788,8 @@ msgid ""
 "beginning of the next end step."
 msgstr ""
 "–8: Wyszukaj w twojej bibliotece kartę artefaktu lub stwora, umieść ją na "
-"polu bitwy, po czym przetasuj twoją bibliotekę. Zyskuje ona pośpiech. "
-"Przywróć ją do twojej ręki na początku najbliższego kroku końcowego."
+"polu bitwy, po czym przetasuj. Zyskuje ona pośpiech. Przywróć ją do twojej "
+"ręki na początku najbliższego kroku końcowego."
 
 #: ../../SOI.rst:1480
 msgid ""
@@ -5183,7 +5177,7 @@ msgid ""
 "into your hand, then shuffle."
 msgstr ""
 "|tap|, poświęć trzy Wskazówki: Wyszukaj w twojej bibliotece dowolną kartę i "
-"umieść ją w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"umieść ją w twojej ręce. Następnie przetasuj."
 
 #: ../../SOI.rst:1606
 msgid ""
@@ -5253,8 +5247,7 @@ msgid ""
 "basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 "|mana_2|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, ujawnij je i mieść w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"karty bazowych lądów, ujawnij je i mieść w twojej ręce. Następnie przetasuj."
 
 #: ../../SOI.rst:1634
 msgid ""
@@ -5444,8 +5437,7 @@ msgid ""
 "land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../SOI.rst:1702
 msgid ""

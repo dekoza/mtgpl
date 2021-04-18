@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/akh/pl/>\n"
 "Language: pl\n"
@@ -225,12 +225,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:67
-#, fuzzy
-#| msgid ""
-#| "You may exert Devoted Crop-Mate as it attacks. When you do, return target "
-#| "creature card with converted mana cost 2 or less from your graveyard to "
-#| "the battlefield. (An exerted creature won't untap during your next untap "
-#| "step.)"
 msgid ""
 "You may exert Devoted Crop-Mate as it attacks. When you do, return target "
 "creature card with mana value 2 or less from your graveyard to the "
@@ -781,11 +775,6 @@ msgstr ""
 "Na początku twojego kroku utrzymania, umieść znacznik czasu na tym uroku."
 
 #: ../../AKH.rst:241
-#, fuzzy
-#| msgid ""
-#| "Once each turn, you may pay |mana_0| rather than pay the mana cost for a "
-#| "spell you cast with converted mana cost X or less, where X is the number "
-#| "of time counters on As Foretold."
 msgid ""
 "Once each turn, you may pay |mana_0| rather than pay the mana cost for a "
 "spell you cast with mana value X or less, where X is the number of time "
@@ -1201,16 +1190,12 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:389
-#, fuzzy
-#| msgid ""
-#| "|tap|: Draw a card, then discard a card. Activate this ability only if "
-#| "you've cast a noncreature spell this turn."
 msgid ""
 "|tap|: Draw a card, then discard a card. Activate only if you've cast a "
 "noncreature spell this turn."
 msgstr ""
-"|tap|: Dobierz kartę, po czym odrzuć kartę. Możesz aktywować tę zdolność "
-"tylko jeśli rzuciłeś w tej turze nie-stworowy czar."
+"|tap|: Dobierz kartę, po czym odrzuć kartę. Możesz aktywować tylko jeśli "
+"rzuciłeś w tej turze nie-stworowy czar."
 
 #: ../../AKH.rst:396
 msgid ""
@@ -1491,11 +1476,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:489
-#, fuzzy
-#| msgid ""
-#| "Choose an artifact card name. Search target opponent's graveyard, hand, "
-#| "and library for any number of cards with the chosen name and exile them. "
-#| "Then that player shuffles their library."
 msgid ""
 "Choose an artifact card name. Search target opponent's graveyard, hand, and "
 "library for any number of cards with the chosen name and exile them. Then "
@@ -1503,7 +1483,7 @@ msgid ""
 msgstr ""
 "Nazwij kartę artefaktu. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "przeciwnika dowolną liczbę kart o wybranej nazwie i wygnaj je. Następnie ów "
-"gracz tasuje swoją bibliotekę."
+"gracz tasuje."
 
 #: ../../AKH.rst:494
 msgid ""
@@ -1528,11 +1508,6 @@ msgid "Dread Wanderer enters the battlefield tapped."
 msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../AKH.rst:499
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|: Return Dread Wanderer from your graveyard to the "
-#| "battlefield. Activate this ability only any time you could cast a sorcery "
-#| "and only if you have one or fewer cards in hand."
 msgid ""
 "|mana_2|\\ |mana_b|: Return Dread Wanderer from your graveyard to the "
 "battlefield. Activate only as a sorcery and only if you have one or fewer "
@@ -2855,19 +2830,14 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:927
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to X basic land cards, where X is the number "
-#| "of tapped creatures you control, and put those cards onto the battlefield "
-#| "tapped. Then shuffle your library."
 msgid ""
 "Search your library for up to X basic land cards, where X is the number of "
 "tapped creatures you control, put those cards onto the battlefield tapped, "
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
-"liczbą przekręconych stworów pod twoim władaniem, i umieść owe karty "
-"przekręcone na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"liczbą przekręconych stworów pod twoim władaniem, umieść owe karty "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../AKH.rst:934
 msgid ""
@@ -2968,18 +2938,13 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:961
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your "
-#| "library for a basic land card, put it onto the battlefield tapped, then "
-#| "shuffle your library."
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library "
 "for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_2|\\ |mana_g|, |tap|, poświęć tego stwora: Wyszukaj w twojej "
 "bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../AKH.rst:966
 msgid ""
@@ -3126,19 +3091,14 @@ msgstr ""
 "kartę.)"
 
 #: ../../AKH.rst:1007
-#, fuzzy
-#| msgid ""
-#| "When you cycle Shefet Monitor, you may search your library for a basic "
-#| "land card or a Desert card, put it onto the battlefield, then shuffle "
-#| "your library. (Do this before you draw.)"
 msgid ""
 "When you cycle Shefet Monitor, you may search your library for a basic land "
 "card or a Desert card, put it onto the battlefield, then shuffle. (Do this "
 "before you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu lub Pustyni, umieść ją na polu bitwy, po czym przetasuj twoją "
-"bibliotekę. (Zrób to zanim dobierzesz.)"
+"bazowego lądu lub Pustyni, umieść ją na polu bitwy, po czym przetasuj. (Zrób "
+"to zanim dobierzesz.)"
 
 #: ../../AKH.rst:1014
 msgid ""
@@ -3463,12 +3423,6 @@ msgid "+2: Scry 2."
 msgstr "+2: Wróż 2."
 
 #: ../../AKH.rst:1109
-#, fuzzy
-#| msgid ""
-#| "0: Look at the top card of your library. If it's a land card or a "
-#| "creature card with converted mana cost less than or equal to the number "
-#| "of loyalty counters on Nissa, Steward of Elements, you may put that card "
-#| "onto the battlefield."
 msgid ""
 "0: Look at the top card of your library. If it's a land card or a creature "
 "card with mana value less than or equal to the number of loyalty counters on "
@@ -3822,16 +3776,12 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1237
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj."
 
 #: ../../AKH.rst:1244
 msgid ""
@@ -3998,12 +3948,6 @@ msgstr ""
 "znacznik cegły na tym artefakcie."
 
 #: ../../AKH.rst:1305
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|: Until your next turn, target creature can't attack or "
-#| "block and its activated abilities can't be activated. Activate this "
-#| "ability only if there are three or more brick counters on Edifice of "
-#| "Authority."
 msgid ""
 "|mana_1|, |tap|: Until your next turn, target creature can't attack or block "
 "and its activated abilities can't be activated. Activate only if there are "
@@ -4011,8 +3955,7 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Do twojej następnej tury wskazany stwór nie może atakować "
 "ani blokować, a jego aktywowane zdolności nie mogą być użyte. Możesz "
-"aktywować tę zdolność tylko jeśli ten artefakt ma co najmniej trzy znaczniki "
-"cegły."
+"aktywować tylko jeśli ten artefakt ma co najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1312
 msgid ""
@@ -4050,13 +3993,6 @@ msgstr ""
 "Następnie możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../AKH.rst:1317
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Gate to the Afterlife: Search your graveyard, "
-#| "hand, and/or library for a card named God-Pharaoh's Gift and put it onto "
-#| "the battlefield. If you search your library this way, shuffle it. "
-#| "Activate this ability only if there are six or more creature cards in "
-#| "your graveyard."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Gate to the Afterlife: Search your graveyard, "
 "hand, and/or library for a card named God-Pharaoh's Gift and put it onto the "
@@ -4065,9 +4001,8 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twoim cmentarzu, ręce i/"
 "lub bibliotece kartę o nazwie God-Pharaoh's Gift i umieść ją na polu bitwy. "
-"Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją. Możesz "
-"aktywować tę zdolność tylko jeśli w twoim cmentarzu jest co najmniej sześć "
-"kart stworów."
+"Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj. Możesz aktywować "
+"tylko jeśli w twoim cmentarzu jest co najmniej sześć kart stworów."
 
 #: ../../AKH.rst:1324
 msgid ""
@@ -4140,16 +4075,12 @@ msgstr ""
 "|mana_1|, |tap|: Zyskaj 1 życie. Umieść znacznik cegły na tym artefakcie."
 
 #: ../../AKH.rst:1341
-#, fuzzy
-#| msgid ""
-#| "|tap|: You gain 2 life. Activate this ability only if there are three or "
-#| "more brick counters on Luxa River Shrine."
 msgid ""
 "|tap|: You gain 2 life. Activate only if there are three or more brick "
 "counters on Luxa River Shrine."
 msgstr ""
-"|tap|: Zyskaj 2 życia. Możesz aktywować tę zdolność tylko jeśli ten artefakt "
-"ma co najmniej trzy znaczniki cegły."
+"|tap|: Zyskaj 2 życia. Możesz aktywować tylko jeśli ten artefakt ma co "
+"najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1348
 msgid ""
@@ -4186,19 +4117,14 @@ msgstr ""
 "możesz zagrać ową kartę. Umieść znacznik cegły na tym artefakcie."
 
 #: ../../AKH.rst:1353
-#, fuzzy
-#| msgid ""
-#| "|tap|: Exile the top card of your library. Until end of turn, you may "
-#| "play that card without paying its mana cost. Activate this ability only "
-#| "if there are three or more brick counters on Oracle's Vault."
 msgid ""
 "|tap|: Exile the top card of your library. Until end of turn, you may play "
 "that card without paying its mana cost. Activate only if there are three or "
 "more brick counters on Oracle's Vault."
 msgstr ""
 "|tap|: Wygnaj wierzchnią kartę twojej biblioteki. Do końca tury możesz "
-"zagrać ową kartę bez płacenia jej kosztu many. Możesz aktywować tę zdolność "
-"tylko jeśli ten artefakt ma co najmniej trzy znaczniki cegły."
+"zagrać ową kartę bez płacenia jej kosztu many. Możesz aktywować tylko jeśli "
+"ten artefakt ma co najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1360
 msgid ""
@@ -4216,16 +4142,12 @@ msgstr ""
 "tym artefakcie."
 
 #: ../../AKH.rst:1359
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add three mana of any one color. Activate this ability only if "
-#| "there are three or more brick counters on Pyramid of the Pantheon."
 msgid ""
 "|tap|: Add three mana of any one color. Activate only if there are three or "
 "more brick counters on Pyramid of the Pantheon."
 msgstr ""
-"|tap|: Weź trzy many w dowolnym jednym kolorze. Możesz aktywować tę zdolność "
-"tylko jeśli ten artefakt ma co najmniej trzy znaczniki cegły."
+"|tap|: Weź trzy many w dowolnym jednym kolorze. Możesz aktywować tylko jeśli "
+"ten artefakt ma co najmniej trzy znaczniki cegły."
 
 #: ../../AKH.rst:1366
 msgid ""
@@ -4320,11 +4242,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1395
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black "
-#| "Zombie creature token. Activate this ability only any time you could cast "
-#| "a sorcery."
 msgid ""
 "|mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie "
 "creature token. Activate only as a sorcery."
@@ -4340,16 +4257,12 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1399
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../AKH.rst:1408
 msgid ""
@@ -4374,10 +4287,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1413
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target "
-#| "creature. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target "
 "creature. Activate only as a sorcery."
@@ -4552,16 +4461,12 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1483
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_w|: Untap target creature. Activate this ability only if "
-#| "you control a Gideon planeswalker."
 msgid ""
 "|mana_1|\\ |mana_w|: Untap target creature. Activate only if you control a "
 "Gideon planeswalker."
 msgstr ""
-"|mana_1|\\ |mana_w|: Odkręć wskazanego stwora. Możesz aktywować tę zdolność "
-"tylko jeśli władasz wędrowcem typu Gideon."
+"|mana_1|\\ |mana_w|: Odkręć wskazanego stwora. Możesz aktywować tylko jeśli "
+"władasz wędrowcem typu Gideon."
 
 #: ../../AKH.rst:1490
 msgid ""
@@ -4571,11 +4476,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1487
-#, fuzzy
-#| msgid ""
-#| "When Gideon's Resolve enters the battlefield, you may search your library "
-#| "and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and "
-#| "put it into your hand. If you search your library this way, shuffle it."
 msgid ""
 "When Gideon's Resolve enters the battlefield, you may search your library "
 "and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and "
@@ -4583,7 +4483,7 @@ msgid ""
 msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Gideon, Martial Paragon, ujawnij ją i umieść ją "
-"w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
+"w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../AKH.rst:1489
 msgid "Creatures you control get +1/+1."
@@ -4643,16 +4543,12 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1511
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. "
-#| "Activate this ability only if you control a Liliana planeswalker."
 msgid ""
 "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. "
 "Activate only if you control a Liliana planeswalker."
 msgstr ""
 "|mana_3|\\ |mana_b|: Wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia. "
-"Możesz aktywować tę zdolność tylko jeśli władasz wędrowcem o typie Liliana."
+"Możesz aktywować tylko jeśli władasz wędrowcem o typie Liliana."
 
 #: ../../AKH.rst:1516
 msgid ""
@@ -4662,12 +4558,6 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1515
-#, fuzzy
-#| msgid ""
-#| "Put a -1/-1 counter on each creature you don't control. You may search "
-#| "your library and/or graveyard for a card named Liliana, Death Wielder, "
-#| "reveal it, and put it into your hand. If you search your library this "
-#| "way, shuffle it."
 msgid ""
 "Put a -1/-1 counter on each creature you don't control. You may search your "
 "library and/or graveyard for a card named Liliana, Death Wielder, reveal it, "
@@ -4676,7 +4566,7 @@ msgstr ""
 "Umieść znacznik -1/-1 na każdym stworze poza twoim władaniem. Możesz "
 "wyszukać w twojej bibliotece i/lub cmentarzu kartę o nazwie Liliana, Death "
 "Wielder, ujawnij ją i umieść ją w twojej ręce. Jeśli przeszukasz twoją "
-"bibliotekę w ten sposób, przetasuj ją."
+"bibliotekę w ten sposób, przetasuj."
 
 #: ../../AKH.rst:1520
 msgid ""

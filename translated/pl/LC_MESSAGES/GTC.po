@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-11 16:26+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
@@ -638,16 +638,12 @@ msgstr ""
 
 # e5df77dd3dea4b339a04d6faab6f5a9a
 #: ../../GTC.rst:183
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. "
-#| "Activate this ability only once each turn."
 msgid ""
 "|mana_1|\\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate "
 "only once each turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
-"tę zdolność tylko raz na turę."
+"tylko raz na turę."
 
 #: ../../GTC.rst:188
 msgid ""
@@ -908,10 +904,6 @@ msgstr ""
 
 # 7ab37e9affc44cd4a66637c3c3ddeea2
 #: ../../GTC.rst:269
-#, fuzzy
-#| msgid ""
-#| "Enchanted land has \"|tap|: Target creature gains flying until end of "
-#| "turn. Activate this ability only any time you could cast a sorcery.\""
 msgid ""
 "Enchanted land has \"|tap|: Target creature gains flying until end of turn. "
 "Activate only as a sorcery.\""
@@ -2230,12 +2222,6 @@ msgstr "Zasięg"
 
 # 1d5e85c0120444ba928230ec8c90ae26
 #: ../../GTC.rst:689
-#, fuzzy
-#| msgid ""
-#| "When Sylvan Primordial enters the battlefield, for each opponent, destroy "
-#| "target noncreature permanent that player controls. For each permanent "
-#| "destroyed this way, search your library for a Forest card and put that "
-#| "card onto the battlefield tapped. Then shuffle your library."
 msgid ""
 "When Sylvan Primordial enters the battlefield, for each opponent, destroy "
 "target noncreature permanent that player controls. For each permanent "
@@ -2245,7 +2231,7 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników, zniszcz "
 "wskazany permanent nie będący stworem pod władaniem owego gracza. Za każdy "
 "permanent zniszczony w ten sposób, wyszukaj w twojej bibliotece kartę Lasu i "
-"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy. Następnie przetasuj."
 
 #: ../../GTC.rst:694
 msgid ""
@@ -2673,11 +2659,6 @@ msgstr ""
 
 # efb046e1ec1a4ebb937f03a59cbb5a89
 #: ../../GTC.rst:829
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, each player reveals the top card of "
-#| "their library, loses life equal to that card's converted mana cost, then "
-#| "puts it into their hand."
 msgid ""
 "At the beginning of your upkeep, each player reveals the top card of their "
 "library, loses life equal to that card's mana value, then puts it into their "
@@ -2797,16 +2778,12 @@ msgstr ""
 
 # b77d804970cc49d5b443ca246cc544fd
 #: ../../GTC.rst:869
-#, fuzzy
-#| msgid ""
-#| "Destroy target land. Search your library for a basic land card and put "
-#| "that card onto the battlefield tapped. Then shuffle your library."
 msgid ""
 "Destroy target land. Search your library for a basic land card, put that "
 "card onto the battlefield tapped, then shuffle."
 msgstr ""
-"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu i "
-"umieść ją przekręconą na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Zniszcz wskazany ląd. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../GTC.rst:876
 msgid ""
@@ -3035,10 +3012,6 @@ msgstr ""
 
 # 66a250580b824690b7f537b39c392d7b
 #: ../../GTC.rst:947
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. Create an X/X green Ooze creature token, where X is "
-#| "that spell's converted mana cost."
 msgid ""
 "Counter target spell. Create an X/X green Ooze creature token, where X is "
 "that spell's mana value."
@@ -3152,10 +3125,6 @@ msgstr "Zniszcz wskazanego stwora i strać życia równe jego wytrzymałości."
 
 # 9f2de1aa2146403fbc81353afb1b116a
 #: ../../GTC.rst:981
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost 1 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value 1 or less from your graveyard to "
 "the battlefield."
@@ -3744,10 +3713,6 @@ msgstr ""
 
 # 9f2de1aa2146403fbc81353afb1b116a
 #: ../../GTC.rst:1165
-#, fuzzy
-#| msgid ""
-#| "Return each creature card with converted mana cost X from your graveyard "
-#| "to the battlefield."
 msgid ""
 "Return each creature card with mana value X from your graveyard to the "
 "battlefield."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 11:18+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -729,7 +729,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
-"ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"ręce. Jeśli tak zrobisz, przetasuj."
 
 #: ../../SOM.rst:252
 msgid ""
@@ -1255,8 +1255,8 @@ msgid ""
 "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if "
 "Bloodshot Trainee's power is 4 or greater."
 msgstr ""
-"|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować tę "
-"zdolność tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
+"|tap|: Ten stwór zadaje wskazanemu stworowi 4 obrażenia. Możesz aktywować "
+"tylko jeśli siła niniejszego stwora wynosi 4 lub więcej."
 
 #: ../../SOM.rst:438
 msgid ""
@@ -1370,6 +1370,8 @@ msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
 "+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
+"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór dostaje do końca "
+"tury +X/+0, gdzie X jest skrótem many owego artefaktu."
 
 #: ../../SOM.rst:482
 msgid ""
@@ -2466,7 +2468,7 @@ msgid ""
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
-"i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../SOM.rst:861
 msgid ""
@@ -2527,7 +2529,7 @@ msgid ""
 "put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
-"i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../SOM.rst:886
 msgid ""
@@ -3098,10 +3100,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:1073
+#, fuzzy
 msgid ""
 "Imprint — When Strata Scythe enters the battlefield, search your library for "
 "a land card, exile it, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce, po czym przetasuj."
 
 #: ../../SOM.rst:1075
 msgid ""

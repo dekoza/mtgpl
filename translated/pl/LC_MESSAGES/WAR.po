@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/war/pl/>\n"
 "Language: pl\n"
@@ -360,7 +360,7 @@ msgid ""
 "into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty wędrowców, ujawnij je, "
-"umieść je w twojej ręce, po czym przetasuj twoją bibliotekę."
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../WAR.rst:106
 msgid ""
@@ -2975,7 +2975,7 @@ msgid ""
 msgstr ""
 "–8: Dostajesz emblemat mający \"Lądy pod twoim władaniem mają "
 "niezniszczalność.\" Wyszukaj w twojej bibliotece dowolną liczbę kart Lasu, "
-"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../WAR.rst:888
 msgid ""
@@ -2998,8 +2998,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowego Lasu. Jeśli "
 "władasz wędrowcem o typie Nissa, zamiast tego wyszukaj co najwyżej trzy "
-"karty lądów. Ujawnij owe karty, umieść je w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"karty lądów. Ujawnij owe karty, umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../WAR.rst:894
 msgid ""
@@ -3357,7 +3356,7 @@ msgid ""
 "onto the battlefield tapped, then shuffle."
 msgstr ""
 "Zniszcz wskazanego stwora. Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../WAR.rst:1020
 msgid ""
@@ -3664,7 +3663,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora o skrócie many większym o 1 od "
 "skróconego kosztu many poświęconego stwora, umieść ową kartę na polu bitwy z "
-"dodatkowym znacznikiem +1/+1, po czym przetasuj twoją bibliotekę."
+"dodatkowym znacznikiem +1/+1, po czym przetasuj."
 
 #: ../../WAR.rst:1122
 msgid ""
@@ -4058,8 +4057,6 @@ msgid ""
 msgstr ""
 
 #: ../../WAR.rst:1227
-#, fuzzy
-#| msgid "Destroy target creature with converted mana cost 3 or less."
 msgid "Destroy target creature with mana value 3 or less."
 msgstr "Zniszcz wskazanego stwora o skrócie many 3 lub mniejszym."
 

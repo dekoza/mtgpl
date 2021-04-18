@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jou/pl/>\n"
 "Language: pl\n"
@@ -158,12 +158,6 @@ msgstr ""
 
 # ce400e4c896446c5993c616a53715d0b
 #: ../../JOU.rst:39
-#, fuzzy
-#| msgid ""
-#| "Exile target enchantment. If the exiled card is a God card, search its "
-#| "controller's graveyard, hand, and library for any number of cards with "
-#| "the same name as that card and exile them, then that player shuffles "
-#| "their library."
 msgid ""
 "Exile target enchantment. If the exiled card is a God card, search its "
 "controller's graveyard, hand, and library for any number of cards with the "
@@ -171,7 +165,7 @@ msgid ""
 msgstr ""
 "Wygnaj wskazany urok. Jeśli wygnana karta jest typu Bóg, wyszukaj w "
 "cmentarzu, ręce oraz bibliotece jej władcy dowolną liczbę kart o takiej "
-"samej nazwie i wygnaj je. Następnie ów gracz tasuje swoją bibliotekę."
+"samej nazwie i wygnaj je, po czym ów gracz tasuje."
 
 #: ../../JOU.rst:46
 msgid ""
@@ -587,11 +581,6 @@ msgstr ""
 
 # b5a74aaab7744f9593b5578f6e5977a2
 #: ../../JOU.rst:155
-#, fuzzy
-#| msgid ""
-#| "Heroic — Whenever you cast a spell that targets Tethmos High Priest, "
-#| "return target creature card with converted mana cost 2 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Heroic — Whenever you cast a spell that targets Tethmos High Priest, return "
 "target creature card with mana value 2 or less from your graveyard to the "
@@ -862,12 +851,6 @@ msgstr ""
 
 # dffe1f9b68b64dbc913d261c9d42a672
 #: ../../JOU.rst:231
-#, fuzzy
-#| msgid ""
-#| "Scry 3, then reveal the top card of your library. Draw cards equal to "
-#| "that card's converted mana cost. (To scry 3, look at the top three cards "
-#| "of your library, then put any number of them on the bottom of your "
-#| "library and the rest on top in any order.)"
 msgid ""
 "Scry 3, then reveal the top card of your library. Draw cards equal to that "
 "card's mana value. (To scry 3, look at the top three cards of your library, "
@@ -1711,10 +1694,6 @@ msgstr ""
 
 # 71ad9532b7ef4026b9c396e2c91688ce
 #: ../../JOU.rst:475
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts a spell with converted mana cost 3 or less, "
-#| "Eidolon of the Great Revel deals 2 damage to that player."
 msgid ""
 "Whenever a player casts a spell with mana value 3 or less, Eidolon of the "
 "Great Revel deals 2 damage to that player."
@@ -1937,23 +1916,14 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:543
-#, fuzzy
-#| msgid ""
-#| "Choose any target. Scry 3, then reveal the top card of your library. "
-#| "Riddle of Lightning deals damage equal to that card's converted mana cost "
-#| "to that permanent or player. (To scry 3, look at the top three cards of "
-#| "your library, then put any number of them on the bottom of your library "
-#| "and the rest on top in any order.)"
 msgid ""
 "Choose any target. Scry 3, then reveal the top card of your library. Riddle "
 "of Lightning deals damage equal to that card's mana value to that permanent "
 "or player."
 msgstr ""
 "Wskaż dowolny cel. Wróż 3, po czym ujawnij wierzchnią kartę twojej "
-"biblioteki. Ten czar zadaje owemu celowi tyle obrażeń, ile wynosi skrót many "
-"ujawnionej karty. (By wróżyć 3, spójrz na trzy wierzchnie karty twojej "
-"biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej biblioteki, "
-"a pozostałe na jej wierzchu w dowolnej kolejności.)"
+"biblioteki. Ten czar zadaje owemu celowi obrażenia równe skrótowi many owej "
+"karty."
 
 #: ../../JOU.rst:548
 msgid ""
@@ -2216,18 +2186,12 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:621
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Sacrifice Font of Fertility: Search your library for "
-#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Font of Fertility: Search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_1|\\ |mana_g|, poświęć ten urok: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../JOU.rst:626
 msgid ""
@@ -2730,12 +2694,6 @@ msgstr ""
 
 # 69e2ca158be04cb99e923c4767febf27
 #: ../../JOU.rst:759
-#, fuzzy
-#| msgid ""
-#| "Inspired — Whenever Disciple of Deceit becomes untapped, you may discard "
-#| "a nonland card. If you do, search your library for a card with the same "
-#| "converted mana cost as that card, reveal it, put it into your hand, then "
-#| "shuffle your library."
 msgid ""
 "Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a "
 "nonland card. If you do, search your library for a card with the same mana "
@@ -2743,8 +2701,7 @@ msgid ""
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, możesz odrzucić nie-"
 "lądową kartę. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o takim "
-"samym skrócie many, ujawnij ją i mieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"samym skrócie many, ujawnij ją i mieść w twojej ręce, po czym przetasuj."
 
 #: ../../JOU.rst:768
 msgid ""
@@ -2924,12 +2881,6 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:821
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your "
-#| "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is "
-#| "that card's converted mana cost. (To scry 1, look at the top card of your "
-#| "library, then you may put that card on the bottom of your library.)"
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your "
 "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that "

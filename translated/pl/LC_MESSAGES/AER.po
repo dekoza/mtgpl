@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/aer/pl/>\n"
 "Language: pl\n"
@@ -425,10 +425,6 @@ msgid "Create three 1/1 colorless Servo artifact creature tokens."
 msgstr "Stwórz trzy żetony bezkolorowego artefaktowego stwora Serwo 1/1."
 
 #: ../../AER.rst:139 ../../AER.rst:419
-#, fuzzy
-#| msgid ""
-#| "You may cast a spell with converted mana cost 3 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with mana value 3 or less from your hand without paying "
 "its mana cost."
@@ -531,10 +527,6 @@ msgstr ""
 "Przywróć co najwyżej trzy wskazane artefakty i/lub stwory do rąk właścicieli."
 
 #: ../../AER.rst:171
-#, fuzzy
-#| msgid ""
-#| "You may cast a spell with converted mana cost 4 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with mana value 4 or less from your hand without paying "
 "its mana cost."
@@ -834,11 +826,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:271
-#, fuzzy
-#| msgid ""
-#| "When Trophy Mage enters the battlefield, you may search your library for "
-#| "an artifact card with converted mana cost 3, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "When Trophy Mage enters the battlefield, you may search your library for an "
 "artifact card with mana value 3, reveal it, put it into your hand, then "
@@ -846,7 +833,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many 3, ujawnij ją i umieść ją w twojej ręce, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../AER.rst:278
 msgid ""
@@ -856,16 +843,12 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:277
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact card with converted mana cost X or "
-#| "less, put it onto the battlefield, then shuffle your library."
 msgid ""
 "Search your library for an artifact card with mana value X or less, put it "
 "onto the battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub mniejszym, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../AER.rst:284
 msgid ""
@@ -961,10 +944,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:313
-#, fuzzy
-#| msgid ""
-#| "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant "
-#| "Salvager. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. "
 "Activate only as a sorcery."
@@ -980,17 +959,11 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:317
-#, fuzzy
-#| msgid "Destroy target creature if it has converted mana cost 2 or less."
 msgid "Destroy target creature if it has mana value 2 or less."
 msgstr ""
 "Zniszcz wskazanego stwora, jeśli jego skrót many jest mniejszy lub równy 2."
 
 #: ../../AER.rst:319
-#, fuzzy
-#| msgid ""
-#| "Revolt — Destroy that creature if it has converted mana cost 4 or less "
-#| "instead if a permanent you controlled left the battlefield this turn."
 msgid ""
 "Revolt — Destroy that creature if it has mana value 4 or less instead if a "
 "permanent you controlled left the battlefield this turn."
@@ -1224,11 +1197,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:395
-#, fuzzy
-#| msgid ""
-#| "Exile target nonland card from your graveyard. Search your library for "
-#| "any number of cards with the same name as that card, reveal them, and put "
-#| "them into your hand. Then shuffle your library."
 msgid ""
 "Exile target nonland card from your graveyard. Search your library for any "
 "number of cards with the same name as that card, reveal them, put them into "
@@ -1236,7 +1204,7 @@ msgid ""
 msgstr ""
 "Wygnaj wskazaną nie-lądową kartę z twojego cmentarza. Wyszukaj w twojej "
 "bibliotece dowolną liczbę kart o takiej samej nazwie jak owa karta, ujawnij "
-"je i umieść je w twojej ręce. Następnie przetasuj twoją bibliotekę."
+"je, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../AER.rst:402
 msgid ""
@@ -1463,13 +1431,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:477
-#, fuzzy
-#| msgid ""
-#| "Destroy X target artifacts and/or creatures. For each permanent destroyed "
-#| "this way, its controller reveals cards from the top of their library "
-#| "until an artifact or creature card is revealed and exiles that card. "
-#| "Those players put the exiled cards onto the battlefield, then shuffle "
-#| "their libraries."
 msgid ""
 "Destroy X target artifacts and/or creatures. For each permanent destroyed "
 "this way, its controller reveals cards from the top of their library until "
@@ -1479,7 +1440,7 @@ msgstr ""
 "Zniszcz X wskazanych artefaktów i/lub stworów. Za każdy permanent zniszczony "
 "w ten sposób, jego władca ujawnia karty z wierzchu swojej biblioteki aż "
 "ujawni kartę artefaktu lub stwora i wygania ową kartę. Owi gracze "
-"umieszczają owe wygnane karty na polu bitwy, po czym tasują swoje biblioteki."
+"umieszczają owe wygnane karty na polu bitwy, po czym tasują."
 
 #: ../../AER.rst:486
 msgid ""
@@ -1535,10 +1496,6 @@ msgstr ""
 "Zyskuje on pośpiech do końca tury."
 
 #: ../../AER.rst:497
-#, fuzzy
-#| msgid ""
-#| "You may cast a spell with converted mana cost 2 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with mana value 2 or less from your hand without paying "
 "its mana cost."
@@ -2107,10 +2064,6 @@ msgstr ""
 "władaniem."
 
 #: ../../AER.rst:673
-#, fuzzy
-#| msgid ""
-#| "You may cast a spell with converted mana cost 5 or less from your hand "
-#| "without paying its mana cost."
 msgid ""
 "You may cast a spell with mana value 5 or less from your hand without paying "
 "its mana cost."
@@ -2307,11 +2260,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:733
-#, fuzzy
-#| msgid ""
-#| "Revolt — When Renegade Rallier enters the battlefield, if a permanent you "
-#| "controlled left the battlefield this turn, return target permanent card "
-#| "with converted mana cost 2 or less from your graveyard to the battlefield."
 msgid ""
 "Revolt — When Renegade Rallier enters the battlefield, if a permanent you "
 "controlled left the battlefield this turn, return target permanent card with "
@@ -2758,10 +2706,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:865
-#, fuzzy
-#| msgid ""
-#| "|mana_g|, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target "
-#| "creature. Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_g|, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target "
 "creature. Activate only as a sorcery."
@@ -2805,10 +2749,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:877
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice Implement of Malice: Target player discards a card. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_b|, Sacrifice Implement of Malice: Target player discards a card. "
 "Activate only as a sorcery."
@@ -2996,16 +2936,12 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:937
-#, fuzzy
-#| msgid ""
-#| "|mana_8|, |tap|: Search your library for a permanent card, put it onto "
-#| "the battlefield, then shuffle your library."
 msgid ""
 "|mana_8|, |tap|: Search your library for a permanent card, put it onto the "
 "battlefield, then shuffle."
 msgstr ""
 "|mana_8|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu, umieść ją na "
-"polu bitwy, po czym przetasuj twoją bibliotekę."
+"polu bitwy, po czym przetasuj."
 
 #: ../../AER.rst:940
 msgid ""
@@ -3026,17 +2962,12 @@ msgid "Renegade Map enters the battlefield tapped."
 msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../AER.rst:947
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Renegade Map: Search your library for a basic land card, "
-#| "reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Renegade Map: Search your library for a basic land card, "
 "reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę bazowego "
-"lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../AER.rst:952
 msgid ""
@@ -3061,11 +2992,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:955
-#, fuzzy
-#| msgid ""
-#| "Whenever Scrap Trawler or another artifact you control is put into a "
-#| "graveyard from the battlefield, return to your hand target artifact card "
-#| "in your graveyard with lesser converted mana cost."
 msgid ""
 "Whenever Scrap Trawler or another artifact you control is put into a "
 "graveyard from the battlefield, return to your hand target artifact card in "
@@ -3073,7 +2999,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór lub inny artefakt pod twoim władaniem zostanie umieszczony "
 "w cmentarzu z pola bitwy, przywróć z twojego cmentarza do twojej ręki "
-"wskazaną kartę artefaktu o mniejszym koszcie many."
+"wskazaną kartę artefaktu o mniejszym skrócie many."
 
 #: ../../AER.rst:960
 msgid ""
@@ -3099,12 +3025,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:963
-#, fuzzy
-#| msgid ""
-#| "When Treasure Keeper dies, reveal cards from the top of your library "
-#| "until you reveal a nonland card with converted mana cost 3 or less. You "
-#| "may cast that card without paying its mana cost. Put all revealed cards "
-#| "not cast this way on the bottom of your library in a random order."
 msgid ""
 "When Treasure Keeper dies, reveal cards from the top of your library until "
 "you reveal a nonland card with mana value 3 or less. You may cast that card "
@@ -3210,16 +3130,12 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../AER.rst:1001
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life: Add one mana of any color. Activate this ability only "
-#| "if you control an artifact."
 msgid ""
 "|tap|, Pay 1 life: Add one mana of any color. Activate only if you control "
 "an artifact."
 msgstr ""
-"|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru. Możesz aktywować tę "
-"zdolność tylko jeśli władasz artefaktem."
+"|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru. Możesz aktywować "
+"tylko jeśli władasz artefaktem."
 
 #: ../../AER.rst:1010
 msgid ""
@@ -3286,11 +3202,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:1023
-#, fuzzy
-#| msgid ""
-#| "When Ajani's Aid enters the battlefield, you may search your library and/"
-#| "or graveyard for a card named Ajani, Valiant Protector, reveal it, and "
-#| "put it into your hand. If you search your library this way, shuffle it."
 msgid ""
 "When Ajani's Aid enters the battlefield, you may search your library and/or "
 "graveyard for a card named Ajani, Valiant Protector, reveal it, and put it "
@@ -3298,7 +3209,7 @@ msgid ""
 msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Ajani, Valiant Protector, ujawnij ją i umieść w "
-"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
+"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../AER.rst:1025
 msgid ""
@@ -3361,11 +3272,6 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:1043
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature. You may search your library and/or graveyard for "
-#| "a card named Tezzeret, Master of Metal, reveal it, and put it into your "
-#| "hand. If you search your library this way, shuffle it."
 msgid ""
 "Destroy target creature. You may search your library and/or graveyard for a "
 "card named Tezzeret, Master of Metal, reveal it, and put it into your hand. "
@@ -3373,7 +3279,7 @@ msgid ""
 msgstr ""
 "Zniszcz wskazanego stwora. Możesz wyszukać w twojej bibliotece i/lub "
 "cmentarzu kartę o nazwie Tezzeret, Master of Metal, ujawnij ją i umieść w "
-"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj ją."
+"twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../AER.rst:1050
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 11:01+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
 "Language: pl\n"
@@ -950,7 +950,7 @@ msgid ""
 "graveyard, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty stworów, umieść je w "
-"twoim cmentarzu, po czym przetasuj twoją bibliotekę."
+"twoim cmentarzu, po czym przetasuj."
 
 #: ../../WTH.rst:342
 msgid ""
@@ -1994,7 +1994,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
 "Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie i "
-"umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../WTH.rst:696
 msgid ""
@@ -2117,18 +2117,13 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:733
-#, fuzzy
-#| msgid ""
-#| "When Veteran Explorer dies, each player may search their library for up "
-#| "to two basic land cards and put them onto the battlefield. Then each "
-#| "player who searched their library this way shuffles it."
 msgid ""
 "When Veteran Explorer dies, each player may search their library for up to "
 "two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
-"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
-"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
+"najwyżej dwie karty bazowych lądów, umieścić je na polu bitwy, po czym "
+"przetasować."
 
 #: ../../WTH.rst:738
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 08:49+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -41,12 +41,6 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../C18.rst:11
-#, fuzzy
-#| msgid ""
-#| "When Boreas Charger leaves the battlefield, choose an opponent who "
-#| "controls more lands than you. Search your library for a number of Plains "
-#| "cards equal to the difference and reveal them. Put one of them onto the "
-#| "battlefield tapped and the rest into your hand. Then shuffle your library."
 msgid ""
 "When Boreas Charger leaves the battlefield, choose an opponent who controls "
 "more lands than you. Search your library for a number of Plains cards equal "
@@ -55,9 +49,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór opuści pole bitwy, wybierz przeciwnika mającego pod "
 "władaniem więcej lądów niż ty. Wyszukaj w twojej bibliotece tyle kart "
-"Równin, ile wynosi różnica i ujawnij je. Umieść jedną z nich przekręconą na "
-"polu bitwy, a pozostałe umieść w twojej ręce. Następnie przetasuj twoją "
-"bibliotekę."
+"Równin, ile wynosi różnica, ujawnij owe karty, umieść jedną z nich "
+"przekręconą na polu bitwy, a pozostałe w twojej ręce, po czym przetasuj."
 
 #: ../../C18.rst:18
 msgid ""
@@ -1210,8 +1203,7 @@ msgid ""
 "you."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:396
 msgid ""
@@ -1865,16 +1857,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:603
-#, fuzzy
-#| msgid ""
-#| "Look at the top three cards of your library, then put them back in any "
-#| "order. You may shuffle your library."
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
-"powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
+"powrotem w dowolnej kolejności. Możesz przetasować."
 
 #: ../../C18.rst:605 ../../C18.rst:871
 msgid "Draw a card."
@@ -2101,10 +2089,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:681
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has flying, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +2/+2, has flying, and can't attack you or "
 "planeswalkers you control."
@@ -2531,8 +2515,7 @@ msgid ""
 "a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../C18.rst:816
 msgid ""
@@ -2632,18 +2615,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:843
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../C18.rst:850
 msgid ""
@@ -2721,16 +2698,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:875
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:882
 msgid ""
@@ -2740,16 +2713,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:879
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:881
 #, fuzzy
@@ -2762,7 +2731,7 @@ msgid ""
 "tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:886
 msgid ""
@@ -2783,7 +2752,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../C18.rst:892
 msgid ""
@@ -2851,7 +2820,7 @@ msgid ""
 "battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:914
 msgid ""
@@ -2891,7 +2860,7 @@ msgid ""
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:921
 msgid ""
@@ -2938,7 +2907,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../C18.rst:936
 msgid ""
@@ -3033,7 +3002,7 @@ msgid ""
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:966
 msgid ""
@@ -3084,10 +3053,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:985
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +3/+3, has trample, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +3/+3, has trample, and can't attack you or "
 "planeswalkers you control."
@@ -3128,8 +3093,7 @@ msgid ""
 "land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../C18.rst:997
 msgid "|mana_2|, Sacrifice Yavimaya Elder: Draw a card."
@@ -3300,11 +3264,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1053
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, each player reveals the top card of "
-#| "their library, loses life equal to that card's converted mana cost, then "
-#| "puts it into their hand."
 msgid ""
 "At the beginning of your upkeep, each player reveals the top card of their "
 "library, loses life equal to that card's mana value, then puts it into their "
@@ -3409,8 +3368,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1089
-#, fuzzy
-#| msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgid "Destroy each nonland permanent with mana value X or less."
 msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
 
@@ -3654,10 +3611,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1173
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-#| "equal to the sacrificed artifact's converted mana cost to any target."
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
 "equal to the sacrificed artifact's mana value to any target."
@@ -3909,18 +3862,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1259
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../C18.rst:1266
 msgid ""
@@ -4264,11 +4211,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1395
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -4276,7 +4218,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../C18.rst:1404
 msgid ""
@@ -4406,16 +4348,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1453
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1462
 msgid ""
@@ -4635,8 +4573,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1548
 msgid ""
@@ -4736,8 +4673,7 @@ msgid ""
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1588
 msgid ""
@@ -4825,7 +4761,7 @@ msgid ""
 "Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1624
 msgid ""
@@ -4839,11 +4775,6 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1623
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -4851,7 +4782,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1632
 msgid ""
@@ -4952,7 +4883,7 @@ msgid ""
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1666
 msgid ""
@@ -5116,10 +5047,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1735
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-#| "control five or more lands."
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
@@ -5144,7 +5071,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1748
 msgid ""
@@ -5224,8 +5151,7 @@ msgid ""
 "land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1782
 msgid ""

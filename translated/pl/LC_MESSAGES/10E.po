@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 15:58+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -1787,15 +1787,11 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:631
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../10E.rst:636
 msgid ""
@@ -3421,8 +3417,7 @@ msgid ""
 "a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
-"przetasuj twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../10E.rst:1186
 msgid ""
@@ -3668,7 +3663,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
 "Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie i "
-"umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../10E.rst:1268
 msgid ""
@@ -3842,16 +3837,12 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1319
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../10E.rst:1324
 msgid ""
@@ -3933,7 +3924,7 @@ msgid ""
 "once each turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
-"tę zdolność tylko raz na turę."
+"tylko raz na turę."
 
 #: ../../10E.rst:1348
 msgid ""
@@ -4052,16 +4043,12 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1381
-#, fuzzy
-#| msgid ""
-#| "Search your library for a land card, reveal it, and put it into your "
-#| "hand. Then shuffle your library."
 msgid ""
 "Search your library for a land card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i umieść w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../10E.rst:1388
 msgid ""
@@ -4270,8 +4257,8 @@ msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 #| "your upkeep."
 msgid "|mana_9|: Untap Colossus of Sardia. Activate only during your upkeep."
 msgstr ""
-"|mana_9|: Odkręć tego stwora. Możesz aktywować tę zdolność tylko w twoim "
-"kroku utrzymania."
+"|mana_9|: Odkręć tego stwora. Możesz aktywować tylko w twoim kroku "
+"utrzymania."
 
 #: ../../10E.rst:1458
 msgid ""
@@ -4904,7 +4891,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../10E.rst:1690
 msgid ""

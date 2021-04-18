@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-15 10:15+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -269,11 +269,6 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../ALA.rst:89
-#, fuzzy
-#| msgid ""
-#| "When Knight of the White Orchid enters the battlefield, if an opponent "
-#| "controls more lands than you, you may search your library for a Plains "
-#| "card, put it onto the battlefield, then shuffle your library."
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
 "controls more lands than you, you may search your library for a Plains card, "
@@ -281,7 +276,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:96
 msgid ""
@@ -367,7 +362,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je "
-"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj twoją bibliotekę."
+"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj."
 
 #: ../../ALA.rst:122
 msgid ""
@@ -908,7 +903,7 @@ msgid ""
 "it onto the battlefield, then shuffle."
 msgstr ""
 "–X: Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub "
-"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"mniejszym i umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../ALA.rst:315
 msgid ""
@@ -1047,8 +1042,7 @@ msgid ""
 "for a creature card, put that card into your graveyard, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj "
-"twoją bibliotekę."
+"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj."
 
 #: ../../ALA.rst:355
 msgid ""
@@ -3232,11 +3226,14 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:1169
+#, fuzzy
 msgid ""
 "|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic "
 "Forest, Plains, or Island card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:1176
 msgid ""
@@ -3257,11 +3254,14 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:1181
+#, fuzzy
 msgid ""
 "|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic "
 "Plains, Island, or Swamp card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:1188
 msgid ""
@@ -3271,11 +3271,14 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:1187
+#, fuzzy
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
 "Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:1194
 msgid ""
@@ -3294,8 +3297,8 @@ msgid ""
 "Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"–X: Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub "
-"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:1200
 msgid ""
@@ -3325,8 +3328,8 @@ msgid ""
 "Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"–X: Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub "
-"mniejszym i umieść ją na polu bitwy. Następnie przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:1212
 msgid ""

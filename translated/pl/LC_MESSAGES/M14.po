@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m14/pl/>\n"
 "Language: pl\n"
@@ -704,14 +704,8 @@ msgstr ""
 # 9d1a8e51244546f6a1eb0a238741ac1f
 # 0b1a144c5b6f4c2d97975108c29ddf85
 #: ../../M14.rst:185
-#, fuzzy
-#| msgid ""
-#| "Your opponents can't cast spells this turn. (Spells cast before this "
-#| "resolves are unaffected.)"
 msgid "Your opponents can't cast spells this turn."
-msgstr ""
-"Twoi przeciwnicy nie mogą rzucać czarów w tej turze. (Nie wpływa na czary "
-"rzucone przed rozpatrzeniem niniejszego.)"
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów w tej turze."
 
 #: ../../M14.rst:190
 msgid ""
@@ -1557,8 +1551,7 @@ msgid ""
 "Bubbling Cauldron, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"Bubbling Cauldron, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../M14.rst:452
 msgid ""
@@ -1670,15 +1663,11 @@ msgstr ""
 # 08bbc5f55bcd4a8a894d90afb3a045e9
 # f67bfa558920478a9834f8c45864e10f
 #: ../../M14.rst:481
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../M14.rst:486
 msgid ""
@@ -1800,7 +1789,7 @@ msgid ""
 "then shuffle."
 msgstr ""
 "+1: Wyszukaj w twojej bibliotece kartę Bagna, ujawnij ją i umieść w twojej "
-"ręce. Następnie przetasuj twoją bibliotekę."
+"ręce. Następnie przetasuj."
 
 # e16906591106474e8d9778512182131a
 # 5c7d1213974b4f89b5eac2964f465c7a
@@ -2004,7 +1993,7 @@ msgid ""
 msgstr ""
 "|mana_b|, poświęć sześć stworów o nazwie Shadowborn Apostle: Wyszukaj w "
 "twojej bibliotece kartę stwora typu Demon i umieść ją na polu bitwy. "
-"Następnie przetasuj twoją bibliotekę."
+"Następnie przetasuj."
 
 #: ../../M14.rst:586
 msgid ""
@@ -2969,7 +2958,7 @@ msgid ""
 msgstr ""
 "–7: Dostajesz emblemat mający \"Ilekroć rzucisz czar stwora, możesz wyszukać "
 "w twojej bibliotece kartę stwora, umieścić ją na polu bitwy, po czym "
-"przetasuj twoją bibliotekę.\""
+"przetasuj.\""
 
 #: ../../M14.rst:864
 msgid ""
@@ -3149,16 +3138,12 @@ msgstr ""
 # aa9ecedafad2405787cf93e72ddfa419
 # c9cc36740bd641ab92dafd3ab7e9091f
 #: ../../M14.rst:907
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj twoją bibliotekę."
+"twojej ręce, po czym przetasuj."
 
 #: ../../M14.rst:912
 msgid ""
@@ -3312,7 +3297,7 @@ msgid ""
 "once each turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
-"tę zdolność tylko raz na turę."
+"tylko raz na turę."
 
 #: ../../M14.rst:950
 msgid ""
@@ -3725,9 +3710,9 @@ msgid ""
 "artifact creature that's no longer an Equipment. Activate only if you "
 "control no creatures."
 msgstr ""
-"|mana_0|: Do końca tury ten artefakt staje się artefaktowym stworem Duch "
-"4/4, który nie jest Wyposażeniem. Możesz aktywować tę zdolność tylko jeśli "
-"nie władasz żadnymi stworami."
+"|mana_0|: Do końca tury ten artefakt staje się artefaktowym stworem Duch 4/"
+"4, który nie jest Wyposażeniem. Możesz aktywować tylko jeśli nie władasz "
+"żadnymi stworami."
 
 # 424a3096e9ff43baabb1964835c1a74f
 # feca2dd43a084bd3ad1869f3d9955edb
@@ -3826,8 +3811,7 @@ msgid ""
 "your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 "|mana_5|, |tap|, usuń znacznik życzenia z tego artefaktu: Wyszukaj w twojej "
-"bibliotece dowolną kartę i umieść ją w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"bibliotece dowolną kartę i umieść ją w twojej ręce. Następnie przetasuj."
 
 #: ../../M14.rst:1082
 msgid ""

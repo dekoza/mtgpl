@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 15:58+0000\n"
+"PO-Revision-Date: 2021-04-18 21:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -405,7 +405,7 @@ msgstr ""
 
 #: ../../UMA.rst:129
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../UMA.rst:134
 msgid ""
@@ -415,18 +415,12 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:133
-#, fuzzy
-#| msgid ""
-#| "When Heliod's Pilgrim enters the battlefield, you may search your library "
-#| "for an Aura card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Heliod's Pilgrim enters the battlefield, you may search your library "
 "for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Aury, ujawnij ją i umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Aury, ujawnij ją i umieść w twojej ręce, po czym przetasuj."
 
 #: ../../UMA.rst:140
 msgid ""
@@ -605,7 +599,7 @@ msgstr ""
 
 #: ../../UMA.rst:193 ../../UMA.rst:661
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../UMA.rst:202
 msgid ""
@@ -772,11 +766,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:249
-#, fuzzy
-#| msgid ""
-#| "Heroic — Whenever you cast a spell that targets Tethmos High Priest, "
-#| "return target creature card with converted mana cost 2 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Heroic — Whenever you cast a spell that targets Tethmos High Priest, return "
 "target creature card with mana value 2 or less from your graveyard to the "
@@ -1178,10 +1167,6 @@ msgstr ""
 "twojego cmentarza."
 
 #: ../../UMA.rst:375
-#, fuzzy
-#| msgid ""
-#| "Living Lore's power and toughness are each equal to the exiled card's "
-#| "converted mana cost."
 msgid ""
 "Living Lore's power and toughness are each equal to the exiled card's mana "
 "value."
@@ -1494,10 +1479,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:481
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose a card from it with "
-#| "converted mana cost 4 or greater and exile that card."
 msgid ""
 "Target opponent reveals their hand. You choose a card from it with mana "
 "value 4 or greater and exile that card."
@@ -1589,7 +1570,7 @@ msgid ""
 "graveyard, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty stworów, umieść je w "
-"twoim cmentarzu, po czym przetasuj twoją bibliotekę."
+"twoim cmentarzu, po czym przetasuj."
 
 #: ../../UMA.rst:510
 msgid ""
@@ -1670,15 +1651,11 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:529
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card, put that card into your hand, then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszuka kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
-"przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../UMA.rst:534
 msgid ""
@@ -1697,7 +1674,7 @@ msgid ""
 "shuffle."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece i umieść ją w twoim cmentarzu. Następnie "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../UMA.rst:538
 msgid ""
@@ -2344,7 +2321,7 @@ msgid ""
 "at random, then shuffle."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, odrzuć losową "
-"kartę, po czym przetasuj twoją bibliotekę."
+"kartę, po czym przetasuj."
 
 #: ../../UMA.rst:736
 msgid ""
@@ -2865,7 +2842,7 @@ msgid ""
 "card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_g|, |tap|, odrzuć kartę stwora: Wyszukaj w twojej bibliotece kartę "
-"stwora, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
+"stwora, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../UMA.rst:906
 msgid ""
@@ -2976,18 +2953,12 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:937
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../UMA.rst:944
 msgid ""
@@ -3407,11 +3378,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1081
-#, fuzzy
-#| msgid ""
-#| "Choose any target. Draw three cards, then discard a card. Blast of Genius "
-#| "deals damage equal to the discarded card's converted mana cost to that "
-#| "permanent or player."
 msgid ""
 "Choose any target. Draw three cards, then discard a card. Blast of Genius "
 "deals damage equal to the discarded card's mana value to that permanent or "
@@ -3598,8 +3564,7 @@ msgid ""
 msgstr ""
 "Ilekroć stwór pod twoim władaniem zaatakuje samotnie, możesz wyszukać w "
 "twojej bibliotece kartę Aury, która mogłaby zauroczyć owego stwora, umieść "
-"ją na polu bitwy dołączoną do owego stwora, po czym przetasuj twoją "
-"bibliotekę."
+"ją na polu bitwy dołączoną do owego stwora, po czym przetasuj."
 
 #: ../../UMA.rst:1144
 msgid ""
@@ -4189,7 +4154,7 @@ msgid ""
 msgstr ""
 "Kiedy ten ląd trafi do cmentarza z pola bitwy, możesz wyszukać w twojej "
 "bibliotece kartę Równiny, umieść ją przekręconą na polu bitwy, po czym "
-"przetasuj twoją bibliotekę."
+"przetasuj."
 
 #: ../../UMA.rst:1352
 msgid ""
@@ -4362,7 +4327,7 @@ msgid ""
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../UMA.rst:1414
 msgid ""

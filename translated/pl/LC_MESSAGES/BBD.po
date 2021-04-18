@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 15:36+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -542,18 +542,12 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:171
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "When Arena Rector dies, you may exile it. If you do, search your library for "
 "a planeswalker card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
-"wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"Kiedy ten stwór umrze, możesz go wygnać. Jeśli tak zrobisz, wyszukaj w "
+"twojej bibliotece kartę wędrowca, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../BBD.rst:176
 msgid ""
@@ -820,21 +814,14 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:273
-#, fuzzy
-#| msgid ""
-#| "When Oreskos Explorer enters the battlefield, search your library for up "
-#| "to X Plains cards, where X is the number of players who control more "
-#| "lands than you. Reveal those cards, put them into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Spellseeker enters the battlefield, you may search your library for an "
 "instant or sorcery card with mana value 2 or less, reveal it, put it into "
 "your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
-"najwyżej X kart Równin, gdzie X jest liczbą gracz mających we władaniu "
-"więcej lądów niż ty. Ujawnij owe karty, umieść je w twojej ręce, po czym "
-"przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę sztuczki lub obrzędu o skrócie many 2 lub mniejszym, ujawnij ją, "
+"umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../BBD.rst:280
 msgid ""
@@ -1173,6 +1160,10 @@ msgid ""
 "cards, and you may spend mana as though it were mana of any color to cast "
 "those spells."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę biblioteki "
+"każdego z przeciwników. Do końca tury, możesz rzucać czary spośród owych "
+"wygnanych kart i do ich rzucenia możesz wydawać manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../BBD.rst:396
 msgid ""
@@ -1287,19 +1278,14 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:433
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "When Jungle Wayfinder enters the battlefield, each player may search their "
 "library for a basic land card, reveal it, put it into their hand, then "
 "shuffle."
 msgstr ""
-"|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
-"wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wyszukać w swojej "
+"bibliotece kartę bazowego lądu, ujawnić ją, umieścić ją w swojej ręce, po "
+"czym przetasować."
 
 #: ../../BBD.rst:438
 msgid ""
@@ -1309,19 +1295,14 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:437
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "For each player, choose friend or foe. Each friend searches their library "
 "for a land card, puts it onto the battlefield tapped, then shuffles. Each "
 "foe sacrifices an artifact or enchantment they control."
 msgstr ""
-"|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
-"wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"Każdego gracza nazwij przyjacielem lub wrogiem. Każdy przyjaciel wyszukuje w "
+"swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu bitwy, po "
+"czym tasuje. Każdy wróg poświęca artefakt lub urok pod swoim władaniem."
 
 #: ../../BBD.rst:446
 msgid ""
@@ -1630,11 +1611,6 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:551
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if an opponent controls more lands than "
-#| "you, you may search your library for up to three basic land cards, reveal "
-#| "them, put them into your hand, then shuffle your library."
 msgid ""
 "At the beginning of your upkeep, if an opponent controls more lands than "
 "you, you may search your library for up to three basic land cards, reveal "
@@ -1642,8 +1618,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli przeciwnik ma pod władaniem "
 "więcej lądów niż ty, możesz wyszukać w swojej bibliotece co najwyżej trzy "
-"karty bazowych lądów, umieścić je w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"karty bazowych lądów, umieścić je w twojej ręce, po czym przetasuj."
 
 #: ../../BBD.rst:556
 msgid ""
@@ -1713,12 +1688,6 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:577
-#, fuzzy
-#| msgid ""
-#| "When Oreskos Explorer enters the battlefield, search your library for up "
-#| "to X Plains cards, where X is the number of players who control more "
-#| "lands than you. Reveal those cards, put them into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Oreskos Explorer enters the battlefield, search your library for up to "
 "X Plains cards, where X is the number of players who control more lands than "
@@ -2140,10 +2109,8 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:729
-#, fuzzy
-#| msgid "Counter target spell."
 msgid "Counter target spell with mana value 2."
-msgstr "Skontruj wskazany czar."
+msgstr "Skontruj wskazany czar o skrócie many 2."
 
 #: ../../BBD.rst:734
 msgid ""
@@ -2191,10 +2158,8 @@ msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
 
 #: ../../BBD.rst:749
-#, fuzzy
-#| msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgid "True-Name Nemesis has protection from the chosen player."
-msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
+msgstr "Ten stwór ma ochronę przed wybranym graczem."
 
 #: ../../BBD.rst:754
 msgid ""
@@ -2248,15 +2213,11 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../BBD.rst:773
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../BBD.rst:778
 msgid ""
@@ -2364,9 +2325,6 @@ msgstr ""
 "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../BBD.rst:807
-#, fuzzy
-#| msgid ""
-#| "Draw cards equal to the converted mana cost of the sacrificed permanent."
 msgid "Draw cards equal to the mana value of the sacrificed permanent."
 msgstr "Dobierz tyle kart, ile wynosił skrót many poświęconego permanentu."
 
@@ -2412,10 +2370,6 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:825
-#, fuzzy
-#| msgid ""
-#| "When Noxious Dragon dies, you may destroy target creature with converted "
-#| "mana cost 3 or less."
 msgid ""
 "When Noxious Dragon dies, you may destroy target creature with mana value 3 "
 "or less."
@@ -2704,6 +2658,9 @@ msgid ""
 "return Dragon Breath from your graveyard to the battlefield attached to that "
 "creature."
 msgstr ""
+"Kiedy stwór o skrócie many 6 lub większym wejdzie na pole bitwy, możesz "
+"przywrócić tę kartę z twojego cmentarza na pole bitwy dołączoną do owego "
+"stwora."
 
 #: ../../BBD.rst:934
 msgid ""
@@ -3073,11 +3030,6 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../BBD.rst:1053
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
-#| "searches their library for a basic land card, puts it onto the "
-#| "battlefield tapped, then shuffles their library."
 msgid ""
 "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player "
 "searches their library for a basic land card, puts it onto the battlefield "
@@ -3085,7 +3037,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wskazany gracz "
 "wyszukuje w swojej bibliotece kartę lądu, umieszcza ją przekręconą na polu "
-"bitwy, po czym tasuje swoją bibliotekę."
+"bitwy, po czym tasuje."
 
 #: ../../BBD.rst:1058
 msgid ""
@@ -3248,16 +3200,12 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:1115
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your hand. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dowolną kartę i umieść ją w twojej ręce. "
-"Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty Lasu, umieść je na polu "
+"bitwy, po czym przetasuj."
 
 #: ../../BBD.rst:1120
 msgid ""
@@ -3267,18 +3215,13 @@ msgid ""
 msgstr ""
 
 #: ../../BBD.rst:1119
-#, fuzzy
-#| msgid ""
-#| "When Veteran Explorer dies, each player may search their library for up "
-#| "to two basic land cards and put them onto the battlefield. Then each "
-#| "player who searched their library this way shuffles it."
 msgid ""
 "When Veteran Explorer dies, each player may search their library for up to "
 "two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
-"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
-"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
+"najwyżej dwie karty bazowych lądów, umieścić je na polu bitwy, po czym "
+"przetasować."
 
 #: ../../BBD.rst:1128
 msgid ""

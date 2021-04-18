@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -496,7 +496,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../MBS.rst:178
 msgid ""
@@ -1108,8 +1108,8 @@ msgid ""
 "owner's library."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę zielonego stwora o skrócie many X lub "
-"mniejszym, umieść go na polu bitwy, po czym przetasuj twoją bibliotekę. "
-"Wtasuj ten czar do biblioteki właściciela."
+"mniejszym, umieść go na polu bitwy, po czym przetasuj. Wtasuj ten czar do "
+"biblioteki właściciela."
 
 #: ../../MBS.rst:404
 msgid ""
@@ -1292,10 +1292,13 @@ msgid ""
 msgstr ""
 
 #: ../../MBS.rst:467
+#, fuzzy
 msgid ""
 "When Viridian Emissary dies, you may search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../MBS.rst:474
 msgid ""

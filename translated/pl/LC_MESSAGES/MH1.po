@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-03-28 12:45+0000\n"
+"PO-Revision-Date: 2021-04-18 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -422,11 +422,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:123
-#, fuzzy
-#| msgid ""
-#| "When Ranger-Captain of Eos enters the battlefield, you may search your "
-#| "library for a creature card with converted mana cost 1 or less, reveal "
-#| "it, put it into your hand, then shuffle your library."
 msgid ""
 "When Ranger-Captain of Eos enters the battlefield, you may search your "
 "library for a creature card with mana value 1 or less, reveal it, put it "
@@ -434,7 +429,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 1 lub mniejszym, ujawnij ją i umieść w twojej "
-"ręce, po czym przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj."
 
 #: ../../MH1.rst:125
 msgid ""
@@ -588,11 +583,6 @@ msgstr ""
 "permanentów pod twoim władaniem."
 
 #: ../../MH1.rst:175
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Search your library "
-#| "for a legendary permanent card with converted mana cost less than Sisay's "
-#| "power, put that card onto the battlefield, then shuffle your library."
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Search your library "
 "for a legendary permanent card with mana value less than Sisay's power, put "
@@ -600,8 +590,7 @@ msgid ""
 msgstr ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Wyszukaj w twojej "
 "bibliotece kartę legendarnego permanentu o skrócie many mniejszym niż siła "
-"tego stwora, umieść ową kartę na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"tego stwora, umieść ową kartę na polu bitwy, po czym przetasuj."
 
 #: ../../MH1.rst:184
 msgid ""
@@ -674,11 +663,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:199
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_w|, Exile Trustworthy Scout from your graveyard: Search "
-#| "your library for a card named Trustworthy Scout, reveal it, put it into "
-#| "your hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Trustworthy Scout from your graveyard: Search "
 "your library for a card named Trustworthy Scout, reveal it, put it into your "
@@ -686,7 +670,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Wyszukaj w twojej "
 "bibliotece kartę o nazwie Trustworthy Scout, ujawnij ją, umieść w twojej "
-"ręce, po czym przetasuj twoją bibliotekę."
+"ręce, po czym przetasuj."
 
 #: ../../MH1.rst:208
 msgid ""
@@ -766,12 +750,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:225
-#, fuzzy
-#| msgid ""
-#| "Exile target creature you don't control. For each creature exiled this "
-#| "way, its controller searches their library for a basic land card. Those "
-#| "players put those cards onto the battlefield tapped, then shuffle their "
-#| "libraries."
 msgid ""
 "Exile target creature you don't control. For each creature exiled this way, "
 "its controller searches their library for a basic land card. Those players "
@@ -779,8 +757,7 @@ msgid ""
 msgstr ""
 "Wygnaj wskazanego stwora poza twoim władaniem. Za każdego stwora wygnanego w "
 "ten sposób, jego władca wyszukuje w swojej bibliotece kartę bazowego lądu. "
-"Owi gracze umieszczają owe karty przekręcone na polu bitwy, po czym tasują "
-"swoje biblioteki."
+"Owi gracze umieszczają owe karty przekręcone na polu bitwy, po czym tasują."
 
 #: ../../MH1.rst:227
 msgid ""
@@ -819,16 +796,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:237
-#, fuzzy
-#| msgid ""
-#| "|tap|: Tap target creature. Activate this ability only if you had a "
-#| "creature enter the battlefield under your control this turn."
 msgid ""
 "|tap|: Tap target creature. Activate only if you had a creature enter the "
 "battlefield under your control this turn."
 msgstr ""
-"|tap|: Przekręć wskazanego stwora. Możesz aktywować tę zdolność tylko jeśli "
-"w tej turze wszedł stwór na pole bitwy pod twoim władaniem."
+"|tap|: Przekręć wskazanego stwora. Możesz aktywować tylko jeśli w tej turze "
+"wszedł stwór na pole bitwy pod twoim władaniem."
 
 #: ../../MH1.rst:248
 msgid ""
@@ -851,10 +824,6 @@ msgid "Target player draws two cards."
 msgstr "Wskazany gracz dobiera dwie karty."
 
 #: ../../MH1.rst:247
-#, fuzzy
-#| msgid ""
-#| "Gain control of target nonland permanent with converted mana cost 1 or "
-#| "less."
 msgid "Gain control of target nonland permanent with mana value 1 or less."
 msgstr ""
 "Przejmij władanie nad wskazanym nie-lądowym permanentem o skrócie many 1 lub "
@@ -902,19 +871,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:265
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrosity 2. (If this creature isn't "
-#| "monstrous, put two +1/+1 counters on it and it becomes monstrous. |"
-#| "mana_s| can be paid with one mana from a snow permanent.)"
 msgid ""
 "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrosity 2. (If this creature isn't "
 "monstrous, put two +1/+1 counters on it and it becomes monstrous. |mana_s| "
 "can be paid with one mana from a snow source.)"
 msgstr ""
 "|mana_4|\\ |mana_s|\\ |mana_s|: Monstrualność 2. (Jeśli ten stwór nie jest "
-"monstrualny, umieść na nim dwa znaczniki +1/+1 i staje się on monstrualny. |"
-"mana_s| można opłacić jedną maną pobraną ze śnieżnego permanentu.)"
+"monstrualny, umieść na nim dwa znaczniki +1/+1 i staje się on monstrualny. "
+"|mana_s| można opłacić jedną maną pobraną ze śnieżnego źródła.)"
 
 #: ../../MH1.rst:267
 msgid "As long as Chillerpillar is monstrous, it has flying."
@@ -1259,18 +1223,13 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:379
-#, fuzzy
-#| msgid ""
-#| "When Pondering Mage enters the battlefield, look at the top three cards "
-#| "of your library, then put them back in any order. You may shuffle your "
-#| "library. Draw a card."
 msgid ""
 "When Pondering Mage enters the battlefield, look at the top three cards of "
 "your library, then put them back in any order. You may shuffle. Draw a card."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
 "twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności. "
-"Możesz przetasować twoją bibliotekę. Dobierz kartę."
+"Możesz przetasować. Dobierz kartę."
 
 #: ../../MH1.rst:386
 msgid ""
@@ -1286,11 +1245,6 @@ msgstr ""
 "Podbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić |mana_2|.)"
 
 #: ../../MH1.rst:385
-#, fuzzy
-#| msgid ""
-#| "Counter target spell if its converted mana cost is 2 or less. If this "
-#| "spell was kicked, counter that spell if its converted mana cost is 4 or "
-#| "less instead."
 msgid ""
 "Counter target spell if its mana value is 2 or less. If this spell was "
 "kicked, counter that spell if its mana value is 4 or less instead."
@@ -1432,11 +1386,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:433
-#, fuzzy
-#| msgid ""
-#| "When Tribute Mage enters the battlefield, you may search your library for "
-#| "an artifact card with converted mana cost 2, reveal that card, put it "
-#| "into your hand, then shuffle your library."
 msgid ""
 "When Tribute Mage enters the battlefield, you may search your library for an "
 "artifact card with mana value 2, reveal that card, put it into your hand, "
@@ -1444,7 +1393,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many równym 2, ujawnić ją, umieścić w twojej ręce, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../MH1.rst:444
 msgid ""
@@ -2162,10 +2111,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:677
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value 3 or less from your graveyard to "
 "the battlefield."
@@ -2229,18 +2174,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:701
-#, fuzzy
-#| msgid ""
-#| "When Alpine Guide enters the battlefield, you may search your library for "
-#| "a Mountain card, put that card onto the battlefield tapped, then shuffle "
-#| "your library."
 msgid ""
 "When Alpine Guide enters the battlefield, you may search your library for a "
 "Mountain card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w swojej bibliotece "
-"kartę Góry, umieść ją przekręconą na polu bitwy, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Góry, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MH1.rst:703
 msgid "Alpine Guide attacks each combat if able."
@@ -2380,17 +2319,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:743
-#, fuzzy
-#| msgid ""
-#| "Destroy target land. Its controller may search their library for a basic "
-#| "land card, put it onto the battlefield, then shuffle their library."
 msgid ""
 "Destroy target land. Its controller may search their library for a basic "
 "land card, put it onto the battlefield, then shuffle."
 msgstr ""
 "Zniszcz wskazany ląd. Jego władca może wyszukać w swojej bibliotece kartę "
-"bazowego lądu, umieścić ją na polu bitwy, po czym przetasować swoją "
-"bibliotekę."
+"bazowego lądu, umieścić ją na polu bitwy, po czym przetasować."
 
 #: ../../MH1.rst:750
 msgid ""
@@ -2436,24 +2370,15 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:759
-#, fuzzy
-#| msgid ""
-#| "When Goblin Engineer enters the battlefield, you may search your library "
-#| "for an artifact card, put it into your graveyard, then shuffle your "
-#| "library."
 msgid ""
 "When Goblin Engineer enters the battlefield, you may search your library for "
 "an artifact card, put it into your graveyard, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, po czym "
-"przetasować bibliotekę."
+"przetasować."
 
 #: ../../MH1.rst:761
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with "
-#| "converted mana cost 3 or less from your graveyard to the battlefield."
 msgid ""
 "|mana_r|, |tap|, Sacrifice an artifact: Return target artifact card with "
 "mana value 3 or less from your graveyard to the battlefield."
@@ -2469,18 +2394,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:765
-#, fuzzy
-#| msgid ""
-#| "When Goblin Matron enters the battlefield, you may search your library "
-#| "for a Goblin card, reveal that card, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Goblin Matron enters the battlefield, you may search your library for a "
 "Goblin card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją "
-"bibliotekę."
+"kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../MH1.rst:770
 msgid ""
@@ -2904,16 +2823,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:895
-#, fuzzy
-#| msgid ""
-#| "Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate "
-#| "this ability only if a creature died this turn."
 msgid ""
 "Morbid — |tap|: Vengeful Devil deals 1 damage to any target. Activate only "
 "if a creature died this turn."
 msgstr ""
 "Okropność — |tap|: Ten stwór zadaje 1 obrażenie w dowolnie wskazany cel. "
-"Możesz aktywować tę zdolność tylko jeśli w tej turze umarł stwór."
+"Możesz aktywować tylko jeśli w tej turze umarł stwór."
 
 #: ../../MH1.rst:904
 msgid ""
@@ -3151,18 +3066,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:969
-#, fuzzy
-#| msgid ""
-#| "|mana_s|: Frostwalla gets +2/+2 until end of turn. Activate this ability "
-#| "only once each turn. (|mana_s| can be paid with one mana from a snow "
-#| "permanent.)"
 msgid ""
 "|mana_s|: Frostwalla gets +2/+2 until end of turn. Activate only once each "
 "turn. (|mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
-"|mana_s|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować tę "
-"zdolność tylko raz na turę. (|mana_s| można opłacić jedną maną pobraną ze "
-"śnieżnego permanentu.)"
+"|mana_s|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować tylko raz "
+"na turę. (|mana_s| można opłacić jedną maną pobraną ze śnieżnego źródła.)"
 
 #: ../../MH1.rst:974
 msgid ""
@@ -3253,19 +3162,14 @@ msgstr ""
 "kartę.)"
 
 #: ../../MH1.rst:999
-#, fuzzy
-#| msgid ""
-#| "When you cycle Krosan Tusker, you may search your library for a basic "
-#| "land card, reveal that card, put it into your hand, then shuffle your "
-#| "library. (Do this before you draw.)"
 msgid ""
 "When you cycle Krosan Tusker, you may search your library for a basic land "
 "card, reveal that card, put it into your hand, then shuffle. (Do this before "
 "you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
-"bibliotekę. (Zrób to przed dobraniem.)"
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować. ("
+"Zrób to przed dobraniem.)"
 
 #: ../../MH1.rst:1004
 msgid ""
@@ -3286,11 +3190,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1007
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|\\ |mana_g|, Exile Mother Bear from your graveyard: "
-#| "Create two 2/2 green Bear creature tokens. Activate this ability only any "
-#| "time you could cast a sorcery."
 msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_g|, Exile Mother Bear from your graveyard: "
 "Create two 2/2 green Bear creature tokens. Activate only as a sorcery."
@@ -3448,11 +3347,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1053
-#, fuzzy
-#| msgid ""
-#| "When Springbloom Druid enters the battlefield, you may sacrifice a land. "
-#| "If you do, search your library for up to two basic land cards, put them "
-#| "onto the battlefield tapped, then shuffle your library."
 msgid ""
 "When Springbloom Druid enters the battlefield, you may sacrifice a land. If "
 "you do, search your library for up to two basic land cards, put them onto "
@@ -3460,7 +3354,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
 "zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
-"umieść je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../MH1.rst:1060
 msgid ""
@@ -3726,12 +3620,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1141
-#, fuzzy
-#| msgid ""
-#| "Exile the top six cards of your library. You may cast up to two sorcery "
-#| "spells with converted mana cost 3 or less from among them without paying "
-#| "their mana costs. Put the exiled cards not cast this way on the bottom of "
-#| "your library in a random order."
 msgid ""
 "Exile the top six cards of your library. You may cast up to two sorcery "
 "spells with mana value 3 or less from among them without paying their mana "
@@ -3751,16 +3639,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1145
-#, fuzzy
-#| msgid ""
-#| "Search your library for a creature card, reveal that card, put it into "
-#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a creature card, reveal that card, put it into your "
 "hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
-"po czym przetasuj twoją bibliotekę."
+"po czym przetasuj."
 
 #: ../../MH1.rst:1154
 msgid ""
@@ -4190,10 +4074,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1291 ../../MH1.rst:1315
-#, fuzzy
-#| msgid "(|mana_s| can be paid with one mana from a snow permanent.)"
 msgid "(|mana_s| can be paid with one mana from a snow source.)"
-msgstr "(|mana_s| można opłacić jedną maną pobraną ze śnieżnego permanentu.)"
+msgstr "(|mana_s| można opłacić jedną maną pobraną ze śnieżnego źródła.)"
 
 #: ../../MH1.rst:1293
 msgid "When Arcum's Astrolabe enters the battlefield, draw a card."
@@ -4315,16 +4197,12 @@ msgstr ""
 "stworze.)"
 
 #: ../../MH1.rst:1335
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice an artifact: Search your library for a Construct card, "
-#| "reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice an artifact: Search your library for a Construct card, "
 "reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|tap|, poświęć artefakt: Wyszukaj w twojej bibliotece kartę typu Konstrukt, "
-"ujawnij ją, umieść w twojej ręce, po czym przetasuj twoją bibliotekę."
+"ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../MH1.rst:1344
 msgid ""
@@ -4483,17 +4361,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1401
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|, Sacrifice Cave of Temptation: Put two +1/+1 counters on "
-#| "target creature. Activate this ability only any time you could cast a "
-#| "sorcery."
 msgid ""
 "|mana_4|, |tap|, Sacrifice Cave of Temptation: Put two +1/+1 counters on "
 "target creature. Activate only as a sorcery."
 msgstr ""
-"|mana_4|, |tap|, poświęć ten ląd: Umieść na wskazanym stworze dwa znaczniki "
-"+1/+1. Aktywuj jako obrzęd."
+"|mana_4|, |tap|, poświęć ten ląd: Umieść na wskazanym stworze dwa znaczniki +"
+"1/+1. Aktywuj jako obrzęd."
 
 #: ../../MH1.rst:1408
 msgid ""
@@ -4533,11 +4406,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1421
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_s|: Until end of turn, Frostwalk Bastion becomes a 2/3 "
-#| "Construct artifact creature. It's still a land. (|mana_s| can be paid "
-#| "with one mana from a snow permanent.)"
 msgid ""
 "|mana_1|\\ |mana_s|: Until end of turn, Frostwalk Bastion becomes a 2/3 "
 "Construct artifact creature. It's still a land. (|mana_s| can be paid with "
@@ -4545,7 +4413,7 @@ msgid ""
 msgstr ""
 "|mana_1|\\ |mana_s|: Do końca tury ten ląd staje się artefaktowym stworem "
 "Konstrukt 2/3. Nadal jest lądem. (|mana_s| można opłacić jedną maną pobraną "
-"ze śnieżnego permanentu.)"
+"ze śnieżnego źródła.)"
 
 #: ../../MH1.rst:1423
 msgid ""
@@ -4609,16 +4477,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1447
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a "
-#| "basic land card, put it onto the battlefield, then shuffle your library."
 msgid ""
 "|tap|, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a "
 "basic land card, put it onto the battlefield, then shuffle."
 msgstr ""
 "|tap|, zapłać 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"bazowego lądu, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MH1.rst:1456
 msgid ""

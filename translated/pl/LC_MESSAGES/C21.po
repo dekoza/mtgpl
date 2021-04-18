@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-15 10:15+0000\n"
+"PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -72,6 +72,9 @@ msgid ""
 "create X tapped 2/1 white and black Inkling creature tokens with flying, "
 "where X is the number of counters it had on it."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, jeśli miał znaczniki, "
+"stwórz X przekręconych żetonów biało-czarnego stwora Kleks 2/1 z lataniem, "
+"gdzie X jest liczbą znaczników, jakie miał ów stwór."
 
 #: ../../C21.rst:26
 msgid ""
@@ -206,18 +209,13 @@ msgstr ""
 "końca tury +2/+0."
 
 #: ../../C21.rst:55
-#, fuzzy
-#| msgid ""
-#| "|mana_x|, |tap|, Exile an artifact with mana value X from your graveyard: "
-#| "Create two tokens that are copies of the exiled card. Activate only as a "
-#| "sorcery."
 msgid ""
 "|mana_x|, |tap|, Exile an artifact card with mana value X from your "
 "graveyard: Create two tokens that are copies of the exiled card. Activate "
 "only as a sorcery."
 msgstr ""
-"|mana_x|, |tap|, Wygnaj z twojego cmentarza kartę artefaktu o skrócie many "
-"X: Stwórz dwa żetony będące kopią owej wygnanej karty. Aktywuj jako obrzęd."
+"|mana_x|, |tap|, Wygnaj z twojego cmentarza kartę artefaktu o skrócie many X:"
+" Stwórz dwa żetony będące kopią owej wygnanej karty. Aktywuj jako obrzęd."
 
 #: ../../C21.rst:62
 msgid ""
@@ -278,7 +276,7 @@ msgid ""
 "a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 "Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
+"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj.)"
 
 #: ../../C21.rst:82
@@ -582,12 +580,6 @@ msgid "Draw two cards. Exile Inspiring Refrain with three time counters on it."
 msgstr "Dobierz dwie karty. Wygnaj ten czar z trzema znacznikami czasu."
 
 #: ../../C21.rst:171
-#, fuzzy
-#| msgid ""
-#| "Suspend 3—|mana_2|\\ |mana_u| (Rather than cast this card from your hand, "
-#| "pay |mana_2|\\ |mana_u| and exile it with four time counters on it. At "
-#| "the beginning of your upkeep, remove a time counter. When the last is "
-#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 3—|mana_2|\\ |mana_u| (Rather than cast this card from your hand, "
 "you may pay |mana_2|\\ |mana_u| and exile it with three time counters on it. "
@@ -595,8 +587,8 @@ msgid ""
 "removed, cast it without paying its mana cost.)"
 msgstr ""
 "Zawieszenie 3—|mana_2|\\ |mana_u| (Zamiast rzucać tę kartę z twojej ręki, "
-"zapłać |mana_2|\\ |mana_u| i wygnaj ją z trzema znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"możesz zapłacić |mana_2|\\ |mana_u| i wygnać ją z trzema znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
 "zostanie usunięty, rzuć ją bez płacenia jej kosztu many.)"
 
 #: ../../C21.rst:176
@@ -607,13 +599,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:175
-#, fuzzy
-#| msgid ""
-#| "Exile the top X cards of your library. You may cast an instant or sorcery "
-#| "spell with mana value X or less from among them without paying its mana "
-#| "cost. Then put the exiled instant or sorcery cards that weren't cast this "
-#| "way into your hand and the rest on the bottom of your library in a random "
-#| "order."
 msgid ""
 "Exile the top X cards of your library. You may cast an instant or sorcery "
 "spell with mana value X or less from among them without paying its mana "
@@ -646,10 +631,6 @@ msgid "Ward |mana_8|"
 msgstr "Opieka |mana_8|"
 
 #: ../../C21.rst:183
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast an instant or sorcery spell, target "
-#| "creature has base power and toughness 8/8 until end of turn."
 msgid ""
 "Magecraft — Whenever you cast or copy an instant or sorcery spell, target "
 "creature has base power and toughness 8/8 until end of turn."
@@ -929,10 +910,6 @@ msgid "Menace"
 msgstr "Złowrogość"
 
 #: ../../C21.rst:275
-#, fuzzy
-#| msgid ""
-#| "Whenever you gain life, you pay |mana_b|. If you do, return target "
-#| "creature card from your graveyard to your hand."
 msgid ""
 "Whenever you gain life, you may pay |mana_b|. If you do, return target "
 "creature card from your graveyard to your hand."
@@ -1067,16 +1044,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:319
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control deals combat damage to a player, put that "
-#| "many +1/+1 counters on it."
 msgid ""
 "Whenever a spell or ability you control exiles one or more cards from your "
 "library and/or your graveyard, put a +1/+1 counter on Laelia."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
-"nim tyle samo znaczników +1/+1."
+"Ilekroć czar lub sztuczka pod twoim władaniem wygna co najmniej jedną kartę "
+"z twojej biblioteki i/lub cmentarza, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C21.rst:326
 msgid ""
@@ -1145,17 +1118,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:343
-#, fuzzy
-#| msgid ""
-#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgid ""
 "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
-"przetasuj.)"
+"Górocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Góry, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
 
 #: ../../C21.rst:348
 msgid ""
@@ -1267,20 +1235,16 @@ msgid "Paradox Zone enters the battlefield with a growth counter on it."
 msgstr ""
 
 #: ../../C21.rst:387
-#, fuzzy
-#| msgid ""
-#| "Magecraft — Whenever you cast or copy an instant or sorcery spell, create "
-#| "a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, "
-#| "where X is that spell's mana value."
 msgid ""
 "At the beginning of your end step, double the number of growth counters on "
 "Paradox Zone. Then create a 0/0 green and blue Fractal creature token. Put X "
 "+1/+1 counters on it, where X is the number of growth counters on Paradox "
 "Zone."
 msgstr ""
-"Magodziejstwo — Ilekroć rzucisz lub skopiujesz czar sztuczki lub obrzędu, "
-"stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X "
-"znaczników +1/+1, gdzie X jest skrótem many owego czaru."
+"Na początku twojego kroku końcowego, podwój liczbę znaczników wzrostu na tym "
+"uroku. Następnie stwórz żeton zielono-niebieskiego stwora Fraktal 0/0. "
+"Umieść na nim X znaczników +1/+1, gdzie X jest liczbą znaczników wzrostu na "
+"tym uroku."
 
 #: ../../C21.rst:392
 msgid ""
@@ -1614,12 +1578,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:493
-#, fuzzy
-#| msgid ""
-#| "When Boreas Charger leaves the battlefield, choose an opponent who "
-#| "controls more lands than you. Search your library for a number of Plains "
-#| "cards equal to the difference and reveal them. Put one of them onto the "
-#| "battlefield tapped and the rest into your hand. Then shuffle your library."
 msgid ""
 "When Boreas Charger leaves the battlefield, choose an opponent who controls "
 "more lands than you. Search your library for a number of Plains cards equal "
@@ -1628,9 +1586,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór opuści pole bitwy, wybierz przeciwnika mającego pod "
 "władaniem więcej lądów niż ty. Wyszukaj w twojej bibliotece tyle kart "
-"Równin, ile wynosi różnica i ujawnij je. Umieść jedną z nich przekręconą na "
-"polu bitwy, a pozostałe umieść w twojej ręce. Następnie przetasuj twoją "
-"bibliotekę."
+"Równin, ile wynosi różnica, ujawnij owe karty, umieść jedną z nich "
+"przekręconą na polu bitwy, a pozostałe w twojej ręce, po czym przetasuj."
 
 #: ../../C21.rst:502
 msgid ""
@@ -1843,11 +1800,6 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../C21.rst:559
-#, fuzzy
-#| msgid ""
-#| "When Knight of the White Orchid enters the battlefield, if an opponent "
-#| "controls more lands than you, you may search your library for a Plains "
-#| "card, put it onto the battlefield, then shuffle your library."
 msgid ""
 "When Knight of the White Orchid enters the battlefield, if an opponent "
 "controls more lands than you, you may search your library for a Plains card, "
@@ -1855,7 +1807,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
 "więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj twoją bibliotekę."
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C21.rst:568
 msgid ""
@@ -1899,12 +1851,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:575
-#, fuzzy
-#| msgid ""
-#| "When Oreskos Explorer enters the battlefield, search your library for up "
-#| "to X Plains cards, where X is the number of players who control more "
-#| "lands than you. Reveal those cards, put them into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Oreskos Explorer enters the battlefield, search your library for up to "
 "X Plains cards, where X is the number of players who control more lands than "
@@ -2036,11 +1982,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:619
-#, fuzzy
-#| msgid ""
-#| "Whenever Sun Titan enters the battlefield or attacks, you may return "
-#| "target permanent card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Whenever Sun Titan enters the battlefield or attacks, you may return target "
 "permanent card with mana value 3 or less from your graveyard to the "
@@ -2111,10 +2052,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:641
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +2/+2, has vigilance, and can't attack you or "
 "planeswalkers you control."
@@ -2299,10 +2236,6 @@ msgstr ""
 "twojego cmentarza."
 
 #: ../../C21.rst:697
-#, fuzzy
-#| msgid ""
-#| "Living Lore's power and toughness are each equal to the exiled card's "
-#| "converted mana cost."
 msgid ""
 "Living Lore's power and toughness are each equal to the exiled card's mana "
 "value."
@@ -2325,11 +2258,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:703
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, create an X/X colorless "
-#| "Construct artifact creature token, where X is that spell's converted mana "
-#| "cost."
 msgid ""
 "Whenever you cast an instant or sorcery spell, create an X/X colorless "
 "Construct artifact creature token, where X is that spell's mana value."
@@ -2338,19 +2266,14 @@ msgstr ""
 "artefaktowego stwora Konstrukt X/X, gdzie X jest skrótem many owego czaru."
 
 #: ../../C21.rst:705
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_u|\\ |mana_u|, Exile Metallurgic Summonings: Return all "
-#| "instant and sorcery cards from your graveyard to your hand. Activate this "
-#| "ability only if you control six or more artifacts."
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|, Exile Metallurgic Summonings: Return all "
 "instant and sorcery cards from your graveyard to your hand. Activate only if "
 "you control six or more artifacts."
 msgstr ""
 "|mana_3|\\ |mana_u|\\ |mana_u|, wygnaj ten urok: Przywróć wszystkie karty "
-"sztuczek i obrzędów z twojego cmentarza do twojej ręki. Możesz aktywować tę "
-"zdolność tylko jeśli władasz co najmniej sześcioma artefaktami."
+"sztuczek i obrzędów z twojego cmentarza do twojej ręki. Możesz aktywować "
+"tylko jeśli władasz co najmniej sześcioma artefaktami."
 
 #: ../../C21.rst:712
 msgid ""
@@ -2360,16 +2283,13 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:709
-#, fuzzy
-#| msgid ""
-#| "Exile the top seven cards of your library. Until end of turn, you may "
-#| "cast spells from among them."
 msgid ""
 "Shuffle your library. Then exile the top card of your library. Until end of "
 "turn, you may play that card without paying its mana cost."
 msgstr ""
-"Wygnaj siedem wierzchnich kart twojej biblioteki. Do końca tury możesz "
-"rzucać czary wygnane w ten sposób."
+"Przetasuj twoją bibliotekę. Następnie wygnaj wierzchnią kartę twojej "
+"biblioteki. Do końca tury możesz zagrać ową kartę bez płacenia jej kosztu "
+"many."
 
 #: ../../C21.rst:720
 msgid ""
@@ -2399,16 +2319,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:723
-#, fuzzy
-#| msgid ""
-#| "Look at the top three cards of your library, then put them back in any "
-#| "order. You may shuffle your library."
 msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
-"powrotem w dowolnej kolejności. Możesz przetasować twoją bibliotekę."
+"powrotem w dowolnej kolejności. Możesz przetasować."
 
 #: ../../C21.rst:725
 msgid "Draw a card."
@@ -2515,11 +2431,6 @@ msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
 #: ../../C21.rst:757
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -2675,10 +2586,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:819
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature or enchantment an opponent controls. You lose "
-#| "life equal to that permanent's converted mana cost."
 msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's mana value."
@@ -2984,12 +2891,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:923
-#, fuzzy
-#| msgid ""
-#| "When Combustible Gearhulk enters the battlefield, target opponent may "
-#| "have you draw three cards. If the player doesn't, you mill three cards, "
-#| "then Combustible Gearhulk deals damage to that player equal to the total "
-#| "converted mana cost of those cards."
 msgid ""
 "When Combustible Gearhulk enters the battlefield, target opponent may have "
 "you draw three cards. If the player doesn't, you mill three cards, then "
@@ -2998,7 +2899,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik może sprawić, że "
 "dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, zmiel trzy karty, po "
-"czym ten stwór zadaje owemu graczowi tyle obrażeń, ile wynosi suma wartości "
+"czym ten stwór zadaje owemu graczowi tyle obrażeń, ile wynosi suma skrótów "
 "many owych kart."
 
 #: ../../C21.rst:934
@@ -3057,16 +2958,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:945
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
-#| "until end of turn, where X is that spell's converted mana cost."
 msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's mana value."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+X/+0, gdzie X jest skrótem many owego czaru."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
+"X/+0, gdzie X jest skrótem many owego czaru."
 
 #: ../../C21.rst:950
 msgid ""
@@ -3134,11 +3031,6 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../C21.rst:965
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
@@ -3200,15 +3092,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:985
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of "
-#| "turn."
 msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
 "+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
-"|mana_1|\\ |mana_r|: Wskazany artefaktowy stwór dostaje do końca tury +1/+0."
+"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór dostaje do końca "
+"tury +X/+0, gdzie X jest skrótem many owego artefaktu."
 
 #: ../../C21.rst:990
 msgid ""
@@ -3218,16 +3107,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:989
-#, fuzzy
-#| msgid ""
-#| "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
-#| "Activate this ability only during your turn."
 msgid ""
 "|tap|: Draw two cards. Target opponent gains control of Humble Defector. "
 "Activate only during your turn."
 msgstr ""
 "|tap|: Dobierz dwie karty. Wskazany przeciwnik zyskuje władanie nad tym "
-"stworem. Możesz aktywować tę zdolność tylko w twojej turze."
+"stworem. Możesz aktywować tylko w twojej turze."
 
 #: ../../C21.rst:998
 msgid ""
@@ -3329,13 +3214,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1021
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a spell from your hand, reveal the top X cards of your "
-#| "library, where X is that spell's converted mana cost. You may cast a "
-#| "spell with converted mana cost X or less from among cards revealed this "
-#| "way without paying its mana cost. Put the rest on the bottom of your "
-#| "library in a random order."
 msgid ""
 "Whenever you cast a spell from your hand, reveal the top X cards of your "
 "library, where X is that spell's mana value. You may cast a spell with mana "
@@ -3344,7 +3222,7 @@ msgid ""
 msgstr ""
 "Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest skrótem many owego czaru. Możesz rzucić ujawniony w "
-"ten sposób czar o wartości many X lub mniejszej bez płacenia jego kosztu "
+"ten sposób czar o skrócie many X lub mniejszym bez płacenia jego kosztu "
 "many. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../C21.rst:1028
@@ -3378,11 +3256,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1031
-#, fuzzy
-#| msgid ""
-#| "Return target instant or sorcery card from your graveyard to your hand. "
-#| "Volcanic Vision deals damage equal to that card's converted mana cost to "
-#| "each creature your opponents control. Exile Volcanic Vision."
 msgid ""
 "Return target instant or sorcery card from your graveyard to your hand. "
 "Volcanic Vision deals damage equal to that card's mana value to each "
@@ -3461,18 +3334,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1053 ../../C21.rst:1125
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj "
-"twoją bibliotekę."
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../C21.rst:1058
 msgid ""
@@ -3731,16 +3598,12 @@ msgstr ""
 "swoim kolorze.)"
 
 #: ../../C21.rst:1143
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę."
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C21.rst:1148
 msgid ""
@@ -3750,17 +3613,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1147
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to three basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library. You gain 7 life."
 msgid ""
 "Search your library for up to three basic land cards, put them onto the "
 "battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej trzy karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj twoją bibliotekę. Zyskaj 7 "
-"żyć."
+"je przekręcone na polu bitwy, po czym przetasuj. Zyskaj 7 żyć."
 
 #: ../../C21.rst:1152
 msgid ""
@@ -3800,16 +3658,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1161
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj twoją bibliotekę."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C21.rst:1170
 msgid ""
@@ -4021,12 +3875,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1235
-#, fuzzy
-#| msgid ""
-#| "Exile the top X cards of your library. You may cast instant and sorcery "
-#| "spells with converted mana cost X or less from among them without paying "
-#| "their mana costs. Then put all cards exiled this way that weren't cast "
-#| "into your graveyard."
 msgid ""
 "Exile the top X cards of your library. You may cast instant and sorcery "
 "spells with mana value X or less from among them without paying their mana "
@@ -4046,8 +3894,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1239
-#, fuzzy
-#| msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgid "Destroy each nonland permanent with mana value X or less."
 msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
 
@@ -4390,10 +4236,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1351
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
-#| "equal to the sacrificed artifact's converted mana cost to any target."
 msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage "
 "equal to the sacrificed artifact's mana value to any target."
@@ -4409,18 +4251,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1355
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
-#| "basic land cards, put them onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C21.rst:1362
 msgid ""
@@ -4552,14 +4388,8 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1397
-#, fuzzy
-#| msgid ""
-#| "|tap|, Discard a card: Up to one target creature can't be blocked this "
-#| "turn."
 msgid "|tap|: Draw a card. Activate only if you created a token this turn."
-msgstr ""
-"|tap|, odrzuć kartę: Co najwyżej jeden wskazany stwór nie może być blokowany "
-"w tej turze."
+msgstr "|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
 
 #: ../../C21.rst:1399
 msgid ""
@@ -4649,11 +4479,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1429
-#, fuzzy
-#| msgid ""
-#| "When Mycosynth Wellspring enters the battlefield or is put into a "
-#| "graveyard from the battlefield, you may search your library for a basic "
-#| "land card, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "When Mycosynth Wellspring enters the battlefield or is put into a graveyard "
 "from the battlefield, you may search your library for a basic land card, "
@@ -4749,18 +4574,12 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1459
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../C21.rst:1464
 msgid ""
@@ -4796,11 +4615,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1471
-#, fuzzy
-#| msgid ""
-#| "Whenever Scrap Trawler or another artifact you control is put into a "
-#| "graveyard from the battlefield, return to your hand target artifact card "
-#| "in your graveyard with lesser converted mana cost."
 msgid ""
 "Whenever Scrap Trawler or another artifact you control is put into a "
 "graveyard from the battlefield, return to your hand target artifact card in "
@@ -4808,7 +4622,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór lub inny artefakt pod twoim władaniem zostanie umieszczony "
 "w cmentarzu z pola bitwy, przywróć z twojego cmentarza do twojej ręki "
-"wskazaną kartę artefaktu o mniejszym koszcie many."
+"wskazaną kartę artefaktu o mniejszym skrócie many."
 
 #: ../../C21.rst:1476
 msgid ""
@@ -4851,19 +4665,13 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1487
-#, fuzzy
-#| msgid ""
-#| "When Solemn Simulacrum enters the battlefield, you may search your "
-#| "library for a basic land card, put that card onto the battlefield tapped, "
-#| "then shuffle your library."
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj "
-"twoją bibliotekę."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C21.rst:1489
 msgid "When Solemn Simulacrum dies, you may draw a card."
@@ -5096,11 +4904,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1581
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
@@ -5108,7 +4911,7 @@ msgid ""
 msgstr ""
 "|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
 "najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj twoją bibliotekę."
+"czym przetasuj."
 
 #: ../../C21.rst:1590
 msgid ""
@@ -5510,11 +5313,6 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1751
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -5522,7 +5320,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj twoją bibliotekę."
+"na polu bitwy, po czym przetasuj."
 
 #: ../../C21.rst:1758
 msgid ""
@@ -5649,10 +5447,6 @@ msgid "Sapseep Forest enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C21.rst:1811
-#, fuzzy
-#| msgid ""
-#| "|mana_g|, |tap|: You gain 1 life. Activate this ability only if you "
-#| "control two or more green permanents."
 msgid ""
 "|mana_g|, |tap|: You gain 1 life. Activate only if you control two or more "
 "green permanents."
@@ -5762,12 +5556,10 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1857
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you "
-#| "control a Swamp."
 msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Aktywuj tylko jeśli władasz Bagnem."
+msgstr ""
+"|tap|: Weź |mana_w| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../C21.rst:1864
 msgid ""
@@ -5777,10 +5569,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1863
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you "
-#| "control a Swamp."
 msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""
 "|tap|: Weź |mana_b| lub |mana_g|. Możesz aktywować tylko jeśli władasz "
@@ -5862,10 +5650,6 @@ msgid ""
 msgstr ""
 
 #: ../../C21.rst:1899
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
-#| "control five or more lands."
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
