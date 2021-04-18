@@ -64,7 +64,7 @@
 
 
 :mtgtip:`Devoted Crop-Mate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3677f10-b530-4606-b7c8-a72dd2131160.jpg?1543674623|https://scryfall.com/card/akh/10/devoted-crop-mate?utm_source=api>`
-   You may exert Devoted Crop-Mate as it attacks. When you do, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield. (An exerted creature won't untap during your next untap step.)
+   You may exert Devoted Crop-Mate as it attacks. When you do, return target creature card with mana value 2 or less from your graveyard to the battlefield. (An exerted creature won't untap during your next untap step.)
 
 
 :mtgtip:`Djeru's Resolve<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad60ebb9-4acc-41a8-90d9-04d55e414ed1.jpg?1543674630|https://scryfall.com/card/akh/11/djerus-resolve?utm_source=api>`
@@ -238,7 +238,7 @@
 :mtgtip:`As Foretold<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f91d225-788e-42fc-9d01-8668f672b717.jpg?1543674881|https://scryfall.com/card/akh/42/as-foretold?utm_source=api>`
    At the beginning of your upkeep, put a time counter on As Foretold.
 
-   Once each turn, you may pay |mana_0| rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of time counters on As Foretold.
+   Once each turn, you may pay |mana_0| rather than pay the mana cost for a spell you cast with mana value X or less, where X is the number of time counters on As Foretold.
 
 
 :mtgtip:`Aven Initiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61203781-24ad-4bc9-9b69-97149f3043bc.jpg?1543674888|https://scryfall.com/card/akh/43/aven-initiate?utm_source=api>`
@@ -386,7 +386,7 @@
 
 
 :mtgtip:`Seeker of Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0b7bfc-f126-4885-a663-6f8dcc52e663.jpg?1543675109|https://scryfall.com/card/akh/69/seeker-of-insight?utm_source=api>`
-   |tap|: Draw a card, then discard a card. Activate this ability only if you've cast a noncreature spell this turn.
+   |tap|: Draw a card, then discard a card. Activate only if you've cast a noncreature spell this turn.
 
 
 :mtgtip:`Shimmerscale Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edb13075-0ea0-480a-84c0-8eec3119db45.jpg?1543675117|https://scryfall.com/card/akh/70/shimmerscale-drake?utm_source=api>`
@@ -486,7 +486,7 @@
 
 
 :mtgtip:`Dispossess<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4eb88be3-f790-45d7-a6d1-c78f6ba00208.jpg?1543675241|https://scryfall.com/card/akh/86/dispossess?utm_source=api>`
-   Choose an artifact card name. Search target opponent's graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles their library.
+   Choose an artifact card name. Search target opponent's graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles.
 
 
 :mtgtip:`Doomed Dissenter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1c0b645-de43-46d0-84c1-03f295def217.jpg?1543675249|https://scryfall.com/card/akh/87/doomed-dissenter?utm_source=api>`
@@ -496,7 +496,7 @@
 :mtgtip:`Dread Wanderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/343fc82d-7d10-4489-8f7e-9995322114e2.jpg?1543675258|https://scryfall.com/card/akh/88/dread-wanderer?utm_source=api>`
    Dread Wanderer enters the battlefield tapped.
 
-   |mana_2|\ |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.
+   |mana_2|\ |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate only as a sorcery and only if you have one or fewer cards in hand.
 
 
 :mtgtip:`Dune Beetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/923cb904-c725-4d57-bc17-7aa87a7cd8e0.jpg?1543675266|https://scryfall.com/card/akh/89/dune-beetle?utm_source=api>`
@@ -924,7 +924,7 @@
 
 
 :mtgtip:`Harvest Season<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb18e745-a925-477f-a50f-3ec7fba22d88.jpg?1543675851|https://scryfall.com/card/akh/170/harvest-season?utm_source=api>`
-   Search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. Then shuffle your library.
+   Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Haze of Pollen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b636925d-1c32-4fdc-b814-e6111393d04e.jpg?1543675857|https://scryfall.com/card/akh/171/haze-of-pollen?utm_source=api>`
@@ -958,7 +958,7 @@
 
 
 :mtgtip:`Oashra Cultivator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d10be36-8e57-4b08-bc3b-e69769e0908a.jpg?1543675906|https://scryfall.com/card/akh/177/oashra-cultivator?utm_source=api>`
-   |mana_2|\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Ornery Kudu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8ba1d3a1-8c1b-4b77-b149-13d5ad9f125a.jpg?1543675912|https://scryfall.com/card/akh/178/ornery-kudu?utm_source=api>`
@@ -1004,7 +1004,7 @@
 :mtgtip:`Shefet Monitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2688ef62-875a-4735-9a63-6f3152d10d61.jpg?1543675971|https://scryfall.com/card/akh/186/shefet-monitor?utm_source=api>`
    Cycling |mana_3|\ |mana_g| (|mana_3|\ |mana_g|, Discard this card: Draw a card.)
 
-   When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle your library. (Do this before you draw.)
+   When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle. (Do this before you draw.)
 
 
 :mtgtip:`Sixth Sense<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e564db6b-0b8b-4c67-9135-5da76d2225fe.jpg?1543675978|https://scryfall.com/card/akh/187/sixth-sense?utm_source=api>`
@@ -1106,7 +1106,7 @@
 :mtgtip:`Nissa, Steward of Elements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c79036a1-2239-4d4f-8b58-6cf9ac4863fc.jpg?1543676090|https://scryfall.com/card/akh/204/nissa-steward-of-elements?utm_source=api>`
    +2: Scry 2.
 
-   0: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
+   0: Look at the top card of your library. If it's a land card or a creature card with mana value less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
 
    −6: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.
 
@@ -1234,7 +1234,7 @@
 
 
 :mtgtip:`Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6431d464-1f2b-42c4-ad38-67b7d0984080.jpg?1549941868|https://scryfall.com/card/akh/219/spring-mind?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Mind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6431d464-1f2b-42c4-ad38-67b7d0984080.jpg?1549941868|https://scryfall.com/card/akh/219/spring-mind?utm_source=api>`
@@ -1302,7 +1302,7 @@
 :mtgtip:`Edifice of Authority<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66e6fa29-087f-4da6-9114-30feec708560.jpg?1543676252|https://scryfall.com/card/akh/226/edifice-of-authority?utm_source=api>`
    |mana_1|, |tap|: Target creature can't attack this turn. Put a brick counter on Edifice of Authority.
 
-   |mana_1|, |tap|: Until your next turn, target creature can't attack or block and its activated abilities can't be activated. Activate this ability only if there are three or more brick counters on Edifice of Authority.
+   |mana_1|, |tap|: Until your next turn, target creature can't attack or block and its activated abilities can't be activated. Activate only if there are three or more brick counters on Edifice of Authority.
 
 
 :mtgtip:`Embalmer's Tools<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c044f47-7435-4cb4-b4ad-48bb146daa9f.jpg?1543676261|https://scryfall.com/card/akh/227/embalmers-tools?utm_source=api>`
@@ -1314,7 +1314,7 @@
 :mtgtip:`Gate to the Afterlife<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b544a59-86b9-447d-b54d-b94a262b6866.jpg?1543676269|https://scryfall.com/card/akh/228/gate-to-the-afterlife?utm_source=api>`
    Whenever a nontoken creature you control dies, you gain 1 life. Then you may draw a card. If you do, discard a card.
 
-   |mana_2|, |tap|, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh's Gift and put it onto the battlefield. If you search your library this way, shuffle it. Activate this ability only if there are six or more creature cards in your graveyard.
+   |mana_2|, |tap|, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh's Gift and put it onto the battlefield. If you search your library this way, shuffle. Activate only if there are six or more creature cards in your graveyard.
 
 
 :mtgtip:`Hazoret's Monument<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a0a70f2-f2cb-4a08-a1a7-95c8fc3de6e3.jpg?1543676276|https://scryfall.com/card/akh/229/hazorets-monument?utm_source=api>`
@@ -1338,7 +1338,7 @@
 :mtgtip:`Luxa River Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f43dc6f-910c-42a1-b329-038e20dfb264.jpg?1543676299|https://scryfall.com/card/akh/232/luxa-river-shrine?utm_source=api>`
    |mana_1|, |tap|: You gain 1 life. Put a brick counter on Luxa River Shrine.
 
-   |tap|: You gain 2 life. Activate this ability only if there are three or more brick counters on Luxa River Shrine.
+   |tap|: You gain 2 life. Activate only if there are three or more brick counters on Luxa River Shrine.
 
 
 :mtgtip:`Oketra's Monument<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/104503a6-bca5-48d7-88b1-424f98985d75.jpg?1543676306|https://scryfall.com/card/akh/233/oketras-monument?utm_source=api>`
@@ -1350,13 +1350,13 @@
 :mtgtip:`Oracle's Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43fcc4a5-3ab0-4344-85af-d80aae293b75.jpg?1543676313|https://scryfall.com/card/akh/234/oracles-vault?utm_source=api>`
    |mana_2|, |tap|: Exile the top card of your library. Until end of turn, you may play that card. Put a brick counter on Oracle's Vault.
 
-   |tap|: Exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. Activate this ability only if there are three or more brick counters on Oracle's Vault.
+   |tap|: Exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. Activate only if there are three or more brick counters on Oracle's Vault.
 
 
 :mtgtip:`Pyramid of the Pantheon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cef335b2-8086-4b29-b8e3-47de6faa1334.jpg?1543676320|https://scryfall.com/card/akh/235/pyramid-of-the-pantheon?utm_source=api>`
    |mana_2|, |tap|: Add one mana of any color. Put a brick counter on Pyramid of the Pantheon.
 
-   |tap|: Add three mana of any one color. Activate this ability only if there are three or more brick counters on Pyramid of the Pantheon.
+   |tap|: Add three mana of any one color. Activate only if there are three or more brick counters on Pyramid of the Pantheon.
 
 
 :mtgtip:`Rhonas's Monument<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53d2260a-e001-4d03-a108-759591e4d233.jpg?1543676327|https://scryfall.com/card/akh/236/rhonass-monument?utm_source=api>`
@@ -1392,11 +1392,11 @@
 :mtgtip:`Cradle of the Accursed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41713e82-c3d3-4c2f-b075-f684cbd68ce8.jpg?1543676365|https://scryfall.com/card/akh/241/cradle-of-the-accursed?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
+   |mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie creature token. Activate only as a sorcery.
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b39e1c7-b175-462e-83ab-dd67abec6bfb.jpg?1543676372|https://scryfall.com/card/akh/242/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Fetid Pools<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae703d94-6f1f-463b-ab25-1b3f462e7e78.jpg?1543676378|https://scryfall.com/card/akh/243/fetid-pools?utm_source=api>`
@@ -1410,7 +1410,7 @@
 :mtgtip:`Grasping Dunes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8fcc939-6a31-4fb3-abe7-7663b85868dd.jpg?1543676386|https://scryfall.com/card/akh/244/grasping-dunes?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Irrigated Farmland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d87fcc0-cef5-4410-adf1-91c5f50c1d01.jpg?1543676393|https://scryfall.com/card/akh/245/irrigated-farmland?utm_source=api>`
@@ -1480,11 +1480,11 @@
 :mtgtip:`Companion of the Trials<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/637ac220-058f-4212-ba8b-a389bb0528bd.jpg?1561787476|https://scryfall.com/card/akh/271/companion-of-the-trials?utm_source=api>`
    Flying
 
-   |mana_1|\ |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker.
+   |mana_1|\ |mana_w|: Untap target creature. Activate only if you control a Gideon planeswalker.
 
 
 :mtgtip:`Gideon's Resolve<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a30b8c40-39ac-423f-b7da-845a16cd1b63.jpg?1561797764|https://scryfall.com/card/akh/272/gideons-resolve?utm_source=api>`
-   When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
    Creatures you control get +1/+1.
 
@@ -1508,11 +1508,11 @@
 
 
 :mtgtip:`Desiccated Naga<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21f31e96-bb66-4b28-b14a-426d1d5839a6.jpg?1561777114|https://scryfall.com/card/akh/276/desiccated-naga?utm_source=api>`
-   |mana_3|\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker.
+   |mana_3|\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate only if you control a Liliana planeswalker.
 
 
 :mtgtip:`Liliana's Influence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28cdf48e-e0d4-45ca-b48d-74ada54ba62e.jpg?1561778286|https://scryfall.com/card/akh/277/lilianas-influence?utm_source=api>`
-   Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Tattered Mummy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134|https://scryfall.com/card/akh/278/tattered-mummy?utm_source=api>`

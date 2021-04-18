@@ -108,7 +108,7 @@
 
 
 :mtgtip:`Blood Scrivener<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ea8179a-d3c9-4cdc-a5b5-68cc73279050.jpg?1562924533|https://scryfall.com/card/dgm/22/blood-scrivener?utm_source=api>`
-   If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.
+   If you would draw a card while you have no cards in hand, instead you draw two cards and you lose 1 life.
 
 
 :mtgtip:`Crypt Incursion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3b71cc5-0a81-4cab-bae3-49335c04aaaa.jpg?1562931583|https://scryfall.com/card/dgm/23/crypt-incursion?utm_source=api>`
@@ -268,11 +268,11 @@
 
 
 :mtgtip:`Beetleform Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e2f7d7f-4097-419b-8de0-b7bf28fc3a4b.jpg?1562900603|https://scryfall.com/card/dgm/54/beetleform-mage?utm_source=api>`
-   |mana_g|\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+   |mana_g|\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Blast of Genius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2ff592c-bd35-4947-ba17-8b6170d5388e.jpg?1562928298|https://scryfall.com/card/dgm/55/blast-of-genius?utm_source=api>`
-   Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that permanent or player.
+   Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's mana value to that permanent or player.
 
 
 :mtgtip:`Blaze Commando<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.jpg?1562912362|https://scryfall.com/card/dgm/56/blaze-commando?utm_source=api>`
@@ -360,7 +360,7 @@
 
 
 :mtgtip:`Gaze of Granite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96c9ac10-d114-4aa5-87ac-f1069cde8e40.jpg?1562923009|https://scryfall.com/card/dgm/72/gaze-of-granite?utm_source=api>`
-   Destroy each nonland permanent with converted mana cost X or less.
+   Destroy each nonland permanent with mana value X or less.
 
 
 :mtgtip:`Gleam of Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5f0feef-1a71-4c8c-9fd1-f5cbe718a988.jpg?1562937970|https://scryfall.com/card/dgm/73/gleam-of-battle?utm_source=api>`
@@ -404,7 +404,7 @@
 :mtgtip:`Lavinia of the Tenth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/813f1967-c048-4e6e-9720-216773fde47e.jpg?1562918974|https://scryfall.com/card/dgm/80/lavinia-of-the-tenth?utm_source=api>`
    Protection from red
 
-   When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
+   When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with mana value 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
 
 
 :mtgtip:`Legion's Initiative<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/672051a6-d232-4546-842a-369d412c38d2.jpg?1562914062|https://scryfall.com/card/dgm/81/legions-initiative?utm_source=api>`
@@ -466,7 +466,7 @@
 
 
 :mtgtip:`Plasm Capture<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0ffe8485-d5fb-47cc-af53-6e0fd062b7a2.jpg?1562898119|https://scryfall.com/card/dgm/91/plasm-capture?utm_source=api>`
-   Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that spell's converted mana cost.
+   Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that spell's mana value.
 
 
 :mtgtip:`Progenitor Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3ad76314-b5d5-4353-86aa-e899e0d757a5.jpg?1562905844|https://scryfall.com/card/dgm/92/progenitor-mimic?utm_source=api>`
@@ -486,7 +486,7 @@
 
 
 :mtgtip:`Reap Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6297df2-c67a-4054-9617-5c6202c76de8.jpg?1562932086|https://scryfall.com/card/dgm/95/reap-intellect?utm_source=api>`
-   Target opponent reveals their hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library.
+   Target opponent reveals their hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Render Silent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3f3d6e4-0abe-4042-a7f6-0395683e8582.jpg?1562937631|https://scryfall.com/card/dgm/96/render-silent?utm_source=api>`
@@ -500,7 +500,7 @@
 :mtgtip:`Rot Farm Skeleton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef5af2dd-75c7-402c-be9a-3d0d4290520c.jpg?1562939977|https://scryfall.com/card/dgm/98/rot-farm-skeleton?utm_source=api>`
    Rot Farm Skeleton can't block.
 
-   |mana_2|\ |mana_b|\ |mana_g|, Mill four cards: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_g|, Mill four cards: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate only as a sorcery.
 
 
 :mtgtip:`Ruric Thar, the Unbowed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84dd3586-7c3b-4f9c-a1eb-7745b75339b0.jpg?1562919624|https://scryfall.com/card/dgm/99/ruric-thar-the-unbowed?utm_source=api>`
@@ -516,7 +516,7 @@
 
    Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery.
 
 
 :mtgtip:`Scab-Clan Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8e360ae-4c78-47a9-81d4-1849cfa518b7.jpg?1562926546|https://scryfall.com/card/dgm/101/scab-clan-giant?utm_source=api>`
@@ -896,7 +896,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
+   |mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle. If you control ten or more Gates with different names, you win the game.
 
 
 :mtgtip:`Orzhov Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f4e2006-5bff-4e91-862b-aa76521a99c3.jpg?1562921577|https://scryfall.com/card/dgm/153/orzhov-guildgate?utm_source=api>`

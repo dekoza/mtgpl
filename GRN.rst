@@ -81,7 +81,7 @@
    When Hunted Witness dies, create a 1/1 white Soldier creature token with lifelink.
 
 
-:mtgtip:`Inspiring Unicorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce8b745e-1e62-4c54-9e73-e2d0a40568a0.jpg?1572892578|https://scryfall.com/card/grn/16/inspiring-unicorn?utm_source=api>`
+:mtgtip:`Inspiring Unicorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce8b745e-1e62-4c54-9e73-e2d0a40568a0.jpg?1618252813|https://scryfall.com/card/grn/16/inspiring-unicorn?utm_source=api>`
    Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until end of turn.
 
 
@@ -196,7 +196,7 @@
 
 
 :mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0193dfa3-8409-44be-b4be-6c3cad42d4a4.jpg?1572892724|https://scryfall.com/card/grn/37/disdainful-stroke?utm_source=api>`
-   Counter target spell with converted mana cost 4 or greater.
+   Counter target spell with mana value 4 or greater.
 
 
 :mtgtip:`Dream Eater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f3a4677-7683-4f63-af31-b76491ec9f9c.jpg?1572892731|https://scryfall.com/card/grn/38/dream-eater?utm_source=api>`
@@ -376,7 +376,7 @@
 
 
 :mtgtip:`Gruesome Menagerie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73c0e4d9-bf0d-4e28-a647-9010701a915e.jpg?1572892957|https://scryfall.com/card/grn/71/gruesome-menagerie?utm_source=api>`
-   Choose a creature card with converted mana cost 1 in your graveyard, then do the same for creature cards with converted mana costs 2 and 3. Return those cards to the battlefield.
+   Choose a creature card with mana value 1 in your graveyard, then do the same for creature cards with mana value 2 and 3. Return those cards to the battlefield.
 
 
 :mtgtip:`Hired Poisoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf97e572-90d6-46fc-81c3-956a7ef88983.jpg?1572892964|https://scryfall.com/card/grn/72/hired-poisoner?utm_source=api>`
@@ -394,7 +394,7 @@
 
 
 :mtgtip:`Mausoleum Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26f7cf38-78cc-4139-9f2a-4dd0be7d9da8.jpg?1572892984|https://scryfall.com/card/grn/75/mausoleum-secrets?utm_source=api>`
-   Undergrowth — Search your library for a black card with converted mana cost less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle your library.
+   Undergrowth — Search your library for a black card with mana value less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Mephitic Vapors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/675640ba-37e7-4231-8524-87e8b87ea46f.jpg?1572892991|https://scryfall.com/card/grn/76/mephitic-vapors?utm_source=api>`
@@ -422,7 +422,7 @@
 :mtgtip:`Pilfering Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/646dedff-150c-4ed2-8f2e-3b2e6ba5521a.jpg?1572893025|https://scryfall.com/card/grn/81/pilfering-imp?utm_source=api>`
    Flying
 
-   |mana_1|\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Plaguecrafter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/8682fb87-df14-4277-aaa0-0d53d766c406.jpg?1572893031|https://scryfall.com/card/grn/82/plaguecrafter?utm_source=api>`
@@ -438,7 +438,7 @@
 
 
 :mtgtip:`Ritual of Soot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/269af993-4894-4bf1-b55a-af4d736cb3cc.jpg?1572893045|https://scryfall.com/card/grn/84/ritual-of-soot?utm_source=api>`
-   Destroy all creatures with converted mana cost 3 or less.
+   Destroy all creatures with mana value 3 or less.
 
 
 :mtgtip:`Severed Strands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bce654d6-fcf1-40a8-8bdb-5c37e561f7dc.jpg?1572893052|https://scryfall.com/card/grn/85/severed-strands?utm_source=api>`
@@ -452,7 +452,7 @@
 
 
 :mtgtip:`Undercity Necrolisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2571d168-38d4-46d7-afae-ffbd12bd2313.jpg?1572893065|https://scryfall.com/card/grn/87/undercity-necrolisk?utm_source=api>`
-   |mana_1|, Sacrifice another creature: Put a +1/+1 counter on Undercity Necrolisk. It gains menace until end of turn. Activate this ability only any time you could cast a sorcery. (It can't be blocked except by two or more creatures.)
+   |mana_1|, Sacrifice another creature: Put a +1/+1 counter on Undercity Necrolisk. It gains menace until end of turn. Activate only as a sorcery. (It can't be blocked except by two or more creatures.)
 
 
 :mtgtip:`Veiled Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35cb18ae-0229-40a1-8838-ffb678ab2ed9.jpg?1572893072|https://scryfall.com/card/grn/88/veiled-shade?utm_source=api>`
@@ -508,7 +508,7 @@
 :mtgtip:`Erratic Cyclops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c310df89-d894-40ab-ae34-7d0bfd19a1af.jpg?1572893141|https://scryfall.com/card/grn/98/erratic-cyclops?utm_source=api>`
    Trample
 
-   Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's converted mana cost.
+   Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's mana value.
 
 
 :mtgtip:`Experimental Frenzy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b8f32e2-5dc8-4f1b-8a69-d3ae06378ed8.jpg?1587844608|https://scryfall.com/card/grn/99/experimental-frenzy?utm_source=api>`
@@ -656,7 +656,7 @@
 
 
 :mtgtip:`Circuitous Route<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a970429-6369-4422-a343-00b30267f09d.jpg?1582021497|https://scryfall.com/card/grn/125/circuitous-route?utm_source=api>`
-   Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library.
+   Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Crushing Canopy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0c4f213-0ea4-44c0-8429-172a317b77f5.jpg?1572893325|https://scryfall.com/card/grn/126/crushing-canopy?utm_source=api>`
@@ -672,7 +672,7 @@
 
 
 :mtgtip:`District Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c150deec-3287-40ef-9b9c-c22bf5d70b02.jpg?1582021484|https://scryfall.com/card/grn/128/district-guide?utm_source=api>`
-   When District Guide enters the battlefield, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.
+   When District Guide enters the battlefield, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Generous Stray<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/3289db66-231f-4370-aca6-644d75bee293.jpg?1572893345|https://scryfall.com/card/grn/129/generous-stray?utm_source=api>`
@@ -694,7 +694,7 @@
 :mtgtip:`Hatchery Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b841904-202c-4b42-869a-e345112ab1c8.jpg?1572893364|https://scryfall.com/card/grn/132/hatchery-spider?utm_source=api>`
    Reach
 
-   Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+   Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with mana value X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 
 
 :mtgtip:`Hitchclaw Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe349432-8726-49cf-ad07-6f8add8f78c8.jpg?1615300690|https://scryfall.com/card/grn/133/hitchclaw-recluse?utm_source=api>`
@@ -808,7 +808,7 @@
 
 
 :mtgtip:`Assassin's Trophy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/906b6e99-128f-4c11-8daf-16099d35b0d4.jpg?1572893498|https://scryfall.com/card/grn/152/assassins-trophy?utm_source=api>`
-   Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+   Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Aurelia, Exemplar of Justice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8e9f4d2-bba5-4061-8ae7-a68b912f2c11.jpg?1572893504|https://scryfall.com/card/grn/153/aurelia-exemplar-of-justice?utm_source=api>`
@@ -906,7 +906,7 @@
 
 
 :mtgtip:`Erstwhile Trooper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/351ee4ba-882d-48c1-837d-e9eccc5bc50d.jpg?1572893611|https://scryfall.com/card/grn/169/erstwhile-trooper?utm_source=api>`
-   Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.
+   Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Etrata, the Silencer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa36b142-e67e-49da-9080-c5994e275266.jpg?1572893618|https://scryfall.com/card/grn/170/etrata-the-silencer?utm_source=api>`
@@ -984,13 +984,13 @@
 :mtgtip:`Lazav, the Multifarious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c1e710-f61c-4dd6-b620-6d2e1ecab689.jpg?1572893714|https://scryfall.com/card/grn/184/lazav-the-multifarious?utm_source=api>`
    When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 
-   |mana_x|: Lazav, the Multifarious becomes a copy of target creature card in your graveyard with converted mana cost X, except its name is Lazav, the Multifarious, it's legendary in addition to its other types, and it has this ability.
+   |mana_x|: Lazav, the Multifarious becomes a copy of target creature card in your graveyard with mana value X, except its name is Lazav, the Multifarious, it's legendary in addition to its other types, and it has this ability.
 
 
 :mtgtip:`League Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7439118d-4869-486e-8930-6e00db2634b2.jpg?1572893721|https://scryfall.com/card/grn/185/league-guildmage?utm_source=api>`
    |mana_3|\ |mana_u|, |tap|: Draw a card.
 
-   |mana_x|\ |mana_r|, |tap|: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy.
+   |mana_x|\ |mana_r|, |tap|: Copy target instant or sorcery spell you control with mana value X. You may choose new targets for the copy.
 
 
 :mtgtip:`Ledev Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc4f508b-a48d-4462-9d89-ee2ead3a0847.jpg?1572893727|https://scryfall.com/card/grn/186/ledev-champion?utm_source=api>`
@@ -1148,13 +1148,13 @@
 
 
 :mtgtip:`Unmoored Ego<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95aecc12-3363-41f7-9b58-277c81859670.jpg?1572893898|https://scryfall.com/card/grn/212/unmoored-ego?utm_source=api>`
-   Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles their library, then draws a card for each card exiled from their hand this way.
+   Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
 
 
 :mtgtip:`Vraska, Golgari Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a36d3ea7-0f18-4865-b47b-755673db065e.jpg?1572893904|https://scryfall.com/card/grn/213/vraska-golgari-queen?utm_source=api>`
    +2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.
 
-   −3: Destroy target nonland permanent with converted mana cost 3 or less.
+   −3: Destroy target nonland permanent with mana value 3 or less.
 
    −9: You get an emblem with "Whenever a creature you control deals combat damage to a player, that player loses the game."
 
@@ -1216,11 +1216,11 @@
 
 
 :mtgtip:`Dispersal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ace631d1-897a-417e-8628-0170713f03d3.jpg?1572893971|https://scryfall.com/card/grn/223/discovery-dispersal?utm_source=api>`
-   Each opponent returns a nonland permanent they control with the highest converted mana cost among permanents they control to its owner's hand, then discards a card.
+   Each opponent returns a nonland permanent they control with the highest mana value among permanents they control to its owner's hand, then discards a card.
 
 
 :mtgtip:`Expansion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0644c92-4d67-475e-8c8e-0e2c493682fb.jpg?1572893978|https://scryfall.com/card/grn/224/expansion-explosion?utm_source=api>`
-   Copy target instant or sorcery spell with converted mana cost 4 or less. You may choose new targets for the copy.
+   Copy target instant or sorcery spell with mana value 4 or less. You may choose new targets for the copy.
 
 
 :mtgtip:`Explosion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0644c92-4d67-475e-8c8e-0e2c493682fb.jpg?1572893978|https://scryfall.com/card/grn/224/expansion-explosion?utm_source=api>`
@@ -1236,7 +1236,7 @@
 
 
 :mtgtip:`Flower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feb4b39f-d309-49ba-b427-240b7fdc1099.jpg?1572893991|https://scryfall.com/card/grn/226/flower-flourish?utm_source=api>`
-   Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Flourish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feb4b39f-d309-49ba-b427-240b7fdc1099.jpg?1572893991|https://scryfall.com/card/grn/226/flower-flourish?utm_source=api>`
@@ -1256,7 +1256,7 @@
 
 
 :mtgtip:`Invent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/054a4e4f-8baa-41cf-b24c-d068e8b9a070.jpg?1572894007|https://scryfall.com/card/grn/228/invert-invent?utm_source=api>`
-   Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle your library.
+   Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Response<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92162888-35ea-4f4f-ab99-64dd3104e230.jpg?1572894016|https://scryfall.com/card/grn/229/response-resurgence?utm_source=api>`
@@ -1452,7 +1452,7 @@
 
 
 :mtgtip:`Ral's Dispersal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2660fae-6459-446d-85dc-3c9126c81cb3.jpg?1572894264|https://scryfall.com/card/grn/266/rals-dispersal?utm_source=api>`
-   Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Precision Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a59b4e5b-e9e0-4507-b9e7-8fba7e3a54f9.jpg?1572894271|https://scryfall.com/card/grn/267/precision-bolt?utm_source=api>`
@@ -1482,7 +1482,7 @@
 
 
 :mtgtip:`Vraska's Stoneglare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27fc4db6-a5f5-4254-ae64-c8eaf2c98030.jpg?1572894308|https://scryfall.com/card/grn/272/vraskas-stoneglare?utm_source=api>`
-   Destroy target creature. You gain life equal to its toughness. You may search your library and/or graveyard for a card named Vraska, Regal Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Destroy target creature. You gain life equal to its toughness. You may search your library and/or graveyard for a card named Vraska, Regal Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Impervious Greatwurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5e6dc5f-fd83-4166-a5da-cd953722642a.jpg?1572894315|https://scryfall.com/card/grn/273/impervious-greatwurm?utm_source=api>`

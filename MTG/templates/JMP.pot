@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -274,7 +274,7 @@ msgid "Chained Brute doesn't untap during your untap step."
 msgstr ""
 
 #: ../../JMP.rst:115
-msgid "|mana_1|, Sacrifice another creature: Untap Chained Brute. Activate this ability only during your turn."
+msgid "|mana_1|, Sacrifice another creature: Untap Chained Brute. Activate only during your turn."
 msgstr ""
 
 #: ../../JMP.rst:120
@@ -318,11 +318,11 @@ msgid "When Living Lightning dies, return target instant or sorcery card from yo
 msgstr ""
 
 #: ../../JMP.rst:142
-msgid ":mtgtip:`Muxus, Goblin Grandee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1600694046|https://scryfall.com/card/jmp/24/muxus-goblin-grandee?utm_source=api>`"
+msgid ":mtgtip:`Muxus, Goblin Grandee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1618519471|https://scryfall.com/card/jmp/24/muxus-goblin-grandee?utm_source=api>`"
 msgstr ""
 
 #: ../../JMP.rst:139
-msgid "When Muxus, Goblin Grandee enters the battlefield, reveal the top six cards of your library. Put all Goblin creature cards with converted mana cost 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order."
+msgid "When Muxus, Goblin Grandee enters the battlefield, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../JMP.rst:141
@@ -546,7 +546,7 @@ msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../JMP.rst:251
-msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:256
@@ -570,7 +570,6 @@ msgid ":mtgtip:`Affa Guard Hound<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../JMP.rst:263
-#: ../../JMP.rst:603
 #: ../../JMP.rst:685
 #: ../../JMP.rst:777
 #: ../../JMP.rst:1853
@@ -611,6 +610,7 @@ msgstr ""
 
 #: ../../JMP.rst:283
 #: ../../JMP.rst:417
+#: ../../JMP.rst:603
 #: ../../JMP.rst:717
 #: ../../JMP.rst:1445
 #: ../../JMP.rst:1967
@@ -1032,7 +1032,7 @@ msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../JMP.rst:511
-msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:518
@@ -1771,7 +1771,7 @@ msgid ":mtgtip:`Bogbrew Witch<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../JMP.rst:943
-msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:950
@@ -1848,7 +1848,7 @@ msgid ":mtgtip:`Corpse Traders<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../JMP.rst:987
-msgid "|mana_2|\\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../JMP.rst:994
@@ -2004,7 +2004,7 @@ msgid ":mtgtip:`Ghoulcaller's Accomplice<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../JMP.rst:1075
-msgid "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
 
 #: ../../JMP.rst:1080
@@ -2286,7 +2286,7 @@ msgid ":mtgtip:`Reanimate<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../JMP.rst:1237
-msgid "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost."
+msgid "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value."
 msgstr ""
 
 #: ../../JMP.rst:1242
@@ -2545,7 +2545,7 @@ msgid ":mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../JMP.rst:1377
-msgid "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater."
+msgid "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater."
 msgstr ""
 
 #: ../../JMP.rst:1382
@@ -2921,7 +2921,7 @@ msgid "Lightning Axe deals 5 damage to target creature."
 msgstr ""
 
 #: ../../JMP.rst:1586
-msgid ":mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1601078281|https://scryfall.com/card/jmp/342/lightning-bolt?utm_source=api>`"
+msgid ":mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786|https://scryfall.com/card/jmp/342/lightning-bolt?utm_source=api>`"
 msgstr ""
 
 #: ../../JMP.rst:1585
@@ -3073,7 +3073,7 @@ msgid ":mtgtip:`Riddle of Lightning<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../JMP.rst:1667
-msgid "Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that permanent or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid "Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's mana value to that permanent or player."
 msgstr ""
 
 #: ../../JMP.rst:1672
@@ -3109,7 +3109,7 @@ msgid ":mtgtip:`Sin Prodder<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../JMP.rst:1687
-msgid "At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's converted mana cost. Otherwise, put that card into your hand."
+msgid "At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's mana value. Otherwise, put that card into your hand."
 msgstr ""
 
 #: ../../JMP.rst:1692
@@ -3342,7 +3342,7 @@ msgid ":mtgtip:`Dawntreader Elk<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../JMP.rst:1809
-msgid "|mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:1816
@@ -3446,7 +3446,7 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
 #: ../../JMP.rst:1867
-msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
 msgstr ""
 
 #: ../../JMP.rst:1874
@@ -3771,7 +3771,7 @@ msgid ":mtgtip:`Sylvan Ranger<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../JMP.rst:2049
-msgid "When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:2056
@@ -3815,7 +3815,7 @@ msgid "Ulvenwald Hydra's power and toughness are each equal to the number of lan
 msgstr ""
 
 #: ../../JMP.rst:2073
-msgid "When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:2082
@@ -4262,7 +4262,7 @@ msgid ":mtgtip:`Skittering Surveyor<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../JMP.rst:2331
-msgid "When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../JMP.rst:2338

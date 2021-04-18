@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "+2: Ugin, the Spirit Dragon deals 3 damage to any target."
 msgstr ""
 
 #: ../../M21.rst:11
-msgid "−X: Exile each permanent with converted mana cost X or less that's one or more colors."
+msgid "−X: Exile each permanent with mana value X or less that's one or more colors."
 msgstr ""
 
 #: ../../M21.rst:13
@@ -161,7 +161,7 @@ msgid ":mtgtip:`Celestial Enforcer<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../M21.rst:67
-msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature. Activate this ability only if you control a creature with flying."
+msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature. Activate only if you control a creature with flying."
 msgstr ""
 
 #: ../../M21.rst:72
@@ -288,7 +288,7 @@ msgid ":mtgtip:`Idol of Endurance<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M21.rst:127
-msgid "When Idol of Endurance enters the battlefield, exile all creature cards with converted mana cost 3 or less from your graveyard until Idol of Endurance leaves the battlefield."
+msgid "When Idol of Endurance enters the battlefield, exile all creature cards with mana value 3 or less from your graveyard until Idol of Endurance leaves the battlefield."
 msgstr ""
 
 #: ../../M21.rst:129
@@ -449,7 +449,7 @@ msgid "Vigilance, lifelink"
 msgstr ""
 
 #: ../../M21.rst:211
-msgid "|tap|: Create a 4/4 white Angel creature token with flying. Activate this ability only if you have at least 7 life more than your starting life total and only any time you could cast a sorcery."
+msgid "|tap|: Create a 4/4 white Angel creature token with flying. Activate only if you have at least 7 life more than your starting life total and only as a sorcery."
 msgstr ""
 
 #: ../../M21.rst:214
@@ -658,7 +658,7 @@ msgid ":mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/fron
 msgstr ""
 
 #: ../../M21.rst:325
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../M21.rst:334
@@ -977,7 +977,7 @@ msgid ":mtgtip:`Caged Zombie<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../M21.rst:509
-msgid "|mana_1|\\ |mana_b|, |tap|: Each opponent loses 2 life. Activate this ability only if a creature died this turn."
+msgid "|mana_1|\\ |mana_b|, |tap|: Each opponent loses 2 life. Activate only if a creature died this turn."
 msgstr ""
 
 #: ../../M21.rst:516
@@ -1033,7 +1033,7 @@ msgid ":mtgtip:`Eliminate<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../M21.rst:539
-msgid "Destroy target creature or planeswalker with converted mana cost 3 or less."
+msgid "Destroy target creature or planeswalker with mana value 3 or less."
 msgstr ""
 
 #: ../../M21.rst:546
@@ -1094,7 +1094,7 @@ msgid ":mtgtip:`Grim Tutor<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../M21.rst:571
-msgid "Search your library for a card, put that card into your hand, then shuffle your library. You lose 3 life."
+msgid "Search your library for a card, put that card into your hand, then shuffle. You lose 3 life."
 msgstr ""
 
 #: ../../M21.rst:580
@@ -1178,7 +1178,7 @@ msgid ":mtgtip:`Liliana's Steward<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M21.rst:619
-msgid "|tap|, Sacrifice Liliana's Steward: Target opponent discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|tap|, Sacrifice Liliana's Steward: Target opponent discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../M21.rst:630
@@ -1235,7 +1235,7 @@ msgid ":mtgtip:`Necromentia<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../M21.rst:649
-msgid "Choose a card name other than a basic land card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles their library, then creates a 2/2 black Zombie creature token for each card exiled from their hand this way."
+msgid "Choose a card name other than a basic land card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then creates a 2/2 black Zombie creature token for each card exiled from their hand this way."
 msgstr ""
 
 #: ../../M21.rst:654
@@ -1428,7 +1428,7 @@ msgid "+1: Chandra, Heart of Fire deals 2 damage to any target."
 msgstr ""
 
 #: ../../M21.rst:753
-msgid "−9: Search your graveyard and library for any number of red instant and/or sorcery cards, exile them, then shuffle your library. You may cast them this turn. Add six |mana_r|."
+msgid "−9: Search your graveyard and library for any number of red instant and/or sorcery cards, exile them, then shuffle. You may cast them this turn. Add six |mana_r|."
 msgstr ""
 
 #: ../../M21.rst:762
@@ -1814,7 +1814,7 @@ msgid ":mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../M21.rst:967
-msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../M21.rst:974
@@ -1858,7 +1858,7 @@ msgid ":mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../M21.rst:995
-msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
+msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M21.rst:1000
@@ -1882,7 +1882,7 @@ msgid "−2: Create a 3/3 green Beast creature token. Then if an opponent contro
 msgstr ""
 
 #: ../../M21.rst:1007
-msgid "−7: You get an emblem with \"At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\""
+msgid "−7: You get an emblem with \"At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle.\""
 msgstr ""
 
 #: ../../M21.rst:1010
@@ -2190,7 +2190,7 @@ msgid ":mtgtip:`Alpine Houndmaster<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../M21.rst:1177
-msgid "When Alpine Houndmaster enters the battlefield, you may search your library for a card named Alpine Watchdog and/or a card named Igneous Cur, reveal them, put them into your hand, then shuffle your library."
+msgid "When Alpine Houndmaster enters the battlefield, you may search your library for a card named Alpine Watchdog and/or a card named Igneous Cur, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../M21.rst:1179
@@ -2258,7 +2258,7 @@ msgid ":mtgtip:`Niambi, Esteemed Speaker<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../M21.rst:1217
-msgid "When Niambi, Esteemed Speaker enters the battlefield, you may return another target creature you control to its owner's hand. If you do, you gain life equal to that creature's converted mana cost."
+msgid "When Niambi, Esteemed Speaker enters the battlefield, you may return another target creature you control to its owner's hand. If you do, you gain life equal to that creature's mana value."
 msgstr ""
 
 #: ../../M21.rst:1219
@@ -2298,7 +2298,7 @@ msgid ":mtgtip:`Sanctum of All<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M21.rst:1237
-msgid "At the beginning of your upkeep, you may search your library and/or graveyard for a Shrine card and put it onto the battlefield. If you search your library this way, shuffle it."
+msgid "At the beginning of your upkeep, you may search your library and/or graveyard for a Shrine card and put it onto the battlefield. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M21.rst:1239
@@ -2438,7 +2438,7 @@ msgid ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M21.rst:1313
-msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M21.rst:1315
@@ -2535,7 +2535,7 @@ msgid ":mtgtip:`Fabled Passage<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M21.rst:1363
-msgid "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land."
+msgid "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
 msgstr ""
 
 #: ../../M21.rst:1372
@@ -2808,7 +2808,7 @@ msgid ":mtgtip:`Basri's Aegis<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../M21.rst:1509
-msgid "Put a +1/+1 counter on each of up to two target creatures. You may search your library and/or graveyard for a card named Basri, Devoted Paladin, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Put a +1/+1 counter on each of up to two target creatures. You may search your library and/or graveyard for a card named Basri, Devoted Paladin, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M21.rst:1514
@@ -2856,7 +2856,7 @@ msgid ":mtgtip:`Teferi's Wavecaster<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../M21.rst:1535
-msgid "When Teferi's Wavecaster enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timeless Voyager, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Teferi's Wavecaster enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timeless Voyager, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M21.rst:1544
@@ -2880,7 +2880,7 @@ msgid ":mtgtip:`Liliana's Scorn<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../M21.rst:1547
-msgid "Destroy target creature. You may search your library and/or graveyard for a card named Liliana, Death Mage, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Destroy target creature. You may search your library and/or graveyard for a card named Liliana, Death Mage, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M21.rst:1552
@@ -2920,7 +2920,7 @@ msgid ":mtgtip:`Chandra's Firemaw<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M21.rst:1569
-msgid "When Chandra's Firemaw enters the battlefield, you may search your library and/or graveyard for a card named Chandra, Flame's Catalyst, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Chandra's Firemaw enters the battlefield, you may search your library and/or graveyard for a card named Chandra, Flame's Catalyst, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M21.rst:1574
@@ -2964,7 +2964,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../M21.rst:1591
-msgid "When Garruk's Warsteed enters the battlefield, you may search your library and/or graveyard for a card named Garruk, Savage Herald, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Garruk's Warsteed enters the battlefield, you may search your library and/or graveyard for a card named Garruk, Savage Herald, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M21.rst:1598

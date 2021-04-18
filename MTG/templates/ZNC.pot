@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,7 +56,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../ZNC.rst:23
-msgid "Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with converted mana cost 3 or less from your graveyard."
+msgid "Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with mana value 3 or less from your graveyard."
 msgstr ""
 
 #: ../../ZNC.rst:25
@@ -68,7 +68,7 @@ msgid ":mtgtip:`Enigma Thief<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ZNC.rst:29
-msgid "Prowl |mana_3|\\ |mana_u| (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or a Rogue.)"
+msgid "Prowl |mana_3|\\ |mana_u| (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or Rogue.)"
 msgstr ""
 
 #: ../../ZNC.rst:31
@@ -220,7 +220,7 @@ msgid ":mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ZNC.rst:105
-msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:112
@@ -257,7 +257,7 @@ msgid ":mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../ZNC.rst:125
-msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ZNC.rst:132
@@ -672,7 +672,7 @@ msgid ":mtgtip:`Fertile Footsteps<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZNC.rst:343
-msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)"
+msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
 
 #: ../../ZNC.rst:348
@@ -680,7 +680,7 @@ msgid ":mtgtip:`Circuitous Route<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ZNC.rst:347
-msgid "Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:352
@@ -716,11 +716,11 @@ msgid ":mtgtip:`Far Wanderings<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZNC.rst:367
-msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:369
-msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:376
@@ -732,7 +732,7 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
 #: ../../ZNC.rst:375
-msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
 msgstr ""
 
 #: ../../ZNC.rst:380
@@ -752,7 +752,7 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr ""
 
 #: ../../ZNC.rst:385
-msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:390
@@ -780,7 +780,7 @@ msgid "Landfall — Whenever a land enters the battlefield under your control, y
 msgstr ""
 
 #: ../../ZNC.rst:399
-msgid "Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:404
@@ -788,7 +788,7 @@ msgid ":mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZNC.rst:403
-msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:412
@@ -828,7 +828,7 @@ msgid ":mtgtip:`Nissa's Renewal<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../ZNC.rst:423
-msgid "Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life."
+msgid "Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 
 #: ../../ZNC.rst:430
@@ -905,7 +905,7 @@ msgid ":mtgtip:`Springbloom Druid<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZNC.rst:463
-msgid "When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:470
@@ -941,7 +941,7 @@ msgid ":mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZNC.rst:483
-msgid "When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:485
@@ -1150,7 +1150,7 @@ msgstr ""
 
 #: ../../ZNC.rst:595
 #: ../../ZNC.rst:601
-msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../ZNC.rst:602
@@ -1348,7 +1348,7 @@ msgid ":mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZNC.rst:703
-msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:712
@@ -1389,7 +1389,7 @@ msgid ":mtgtip:`Cryptic Caves<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ZNC.rst:727
-msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands."
+msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands."
 msgstr ""
 
 #: ../../ZNC.rst:736
@@ -1433,7 +1433,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZNC.rst:753
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:760
@@ -1497,7 +1497,7 @@ msgid "Krosan Verge enters the battlefield tapped."
 msgstr ""
 
 #: ../../ZNC.rst:789
-msgid "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:798
@@ -1509,7 +1509,7 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr ""
 
 #: ../../ZNC.rst:797
-msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:804
@@ -1517,7 +1517,7 @@ msgid ":mtgtip:`Naya Panorama<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ZNC.rst:803
-msgid "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library."
+msgid "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNC.rst:812
@@ -1581,5 +1581,5 @@ msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../ZNC.rst:841
-msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""

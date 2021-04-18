@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -231,7 +231,7 @@ msgid ":mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ZEN.rst:105
-msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:110
@@ -295,7 +295,7 @@ msgid "At the beginning of each opponent's end step, if you didn't lose life thi
 msgstr ""
 
 #: ../../ZEN.rst:139
-msgid "|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying. Activate this ability only if Luminarch Ascension has four or more quest counters on it."
+msgid "|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying. Activate only if Luminarch Ascension has four or more quest counters on it."
 msgstr ""
 
 #: ../../ZEN.rst:146
@@ -368,7 +368,7 @@ msgid "Whenever you cast a creature spell, you may put a quest counter on Quest 
 msgstr ""
 
 #: ../../ZEN.rst:181
-msgid "Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library."
+msgid "Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:186
@@ -461,7 +461,7 @@ msgid "At the beginning of each end step, if you drew two or more cards this tur
 msgstr ""
 
 #: ../../ZEN.rst:227
-msgid "As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library."
+msgid "As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:232
@@ -497,7 +497,7 @@ msgid "Defender, flying"
 msgstr ""
 
 #: ../../ZEN.rst:245
-msgid "|tap|: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries."
+msgid "|tap|: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:250
@@ -765,7 +765,7 @@ msgid ":mtgtip:`Trapmaker's Snare<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZEN.rst:399
-msgid "Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a Trap card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:406
@@ -1139,7 +1139,7 @@ msgid "Kicker |mana_7| (You may pay an additional |mana_7| as you cast this spel
 msgstr ""
 
 #: ../../ZEN.rst:595
-msgid "Search target player's library for up to three cards, exile them, then that player shuffles their library. If this spell was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles their library."
+msgid "Search target player's library for up to three cards, exile them, then that player shuffles. If this spell was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles."
 msgstr ""
 
 #: ../../ZEN.rst:604
@@ -1634,7 +1634,7 @@ msgid ":mtgtip:`Frontier Guide<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZEN.rst:861
-msgid "|mana_3|\\ |mana_g|, |tap|: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
+msgid "|mana_3|\\ |mana_g|, |tap|: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:872
@@ -1650,7 +1650,7 @@ msgid "Enchanted creature has base power and toughness 8/8 and has trample."
 msgstr ""
 
 #: ../../ZEN.rst:871
-msgid "When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library."
+msgid "When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:876
@@ -1674,7 +1674,7 @@ msgid ":mtgtip:`Harrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../ZEN.rst:885
-msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:890
@@ -1694,7 +1694,7 @@ msgid "Landfall — Whenever a land enters the battlefield under your control, y
 msgstr ""
 
 #: ../../ZEN.rst:895
-msgid "Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:900
@@ -1722,7 +1722,7 @@ msgid ":mtgtip:`Nissa Revane<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ZEN.rst:909
-msgid "+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library."
+msgid "+1: Search your library for a card named Nissa's Chosen, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:911
@@ -1730,7 +1730,7 @@ msgid "+1: You gain 2 life for each Elf you control."
 msgstr ""
 
 #: ../../ZEN.rst:913
-msgid "−7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library."
+msgid "−7: Search your library for any number of Elf creature cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:918
@@ -2032,7 +2032,7 @@ msgid ":mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZEN.rst:1077
-msgid "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:1084
@@ -2137,7 +2137,7 @@ msgid ":mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../ZEN.rst:1135
-msgid "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:1144
@@ -2260,7 +2260,7 @@ msgid ":mtgtip:`Marsh Flats<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../ZEN.rst:1197
-msgid "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:1202
@@ -2268,7 +2268,7 @@ msgid ":mtgtip:`Misty Rainforest<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ZEN.rst:1201
-msgid "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:1210
@@ -2305,7 +2305,7 @@ msgid ":mtgtip:`Scalding Tarn<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ZEN.rst:1221
-msgid "|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:1230
@@ -2382,7 +2382,7 @@ msgid ":mtgtip:`Verdant Catacombs<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZEN.rst:1265
-msgid "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ZEN.rst:1270

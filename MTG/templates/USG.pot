@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -212,7 +212,7 @@ msgid ":mtgtip:`Faith Healer<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../USG.rst:73
-msgid "Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's converted mana cost."
+msgid "Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's mana value."
 msgstr ""
 
 #: ../../USG.rst:78
@@ -393,7 +393,7 @@ msgid ":mtgtip:`Remembrance<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../USG.rst:167
-msgid "Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../USG.rst:174
@@ -1042,7 +1042,7 @@ msgid ":mtgtip:`Veiled Sentry<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../USG.rst:545
-msgid "When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's converted mana cost."
+msgid "When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's mana value."
 msgstr ""
 
 #: ../../USG.rst:552
@@ -1584,7 +1584,7 @@ msgid ":mtgtip:`Witch Engine<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../USG.rst:845
-msgid "|tap|: Add |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|. Target opponent gains control of Witch Engine. (Activate this ability only any time you could cast an instant.)"
+msgid "|tap|: Add |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|. Target opponent gains control of Witch Engine. (Activate only as a instant.)"
 msgstr ""
 
 #: ../../USG.rst:850
@@ -1749,7 +1749,7 @@ msgid ":mtgtip:`Gamble<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../USG.rst:935
-msgid "Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
 msgstr ""
 
 #: ../../USG.rst:940
@@ -1773,7 +1773,7 @@ msgid ":mtgtip:`Goblin Matron<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../USG.rst:947
-msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
+msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../USG.rst:952
@@ -1879,7 +1879,7 @@ msgid ":mtgtip:`Meltdown<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../USG.rst:1003
-msgid "Destroy each artifact with converted mana cost X or less."
+msgid "Destroy each artifact with mana value X or less."
 msgstr ""
 
 #: ../../USG.rst:1010
@@ -2305,7 +2305,7 @@ msgid ":mtgtip:`Gaea's Bounty<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../USG.rst:1253
-msgid "Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library."
+msgid "Search your library for up to two Forest cards, reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../USG.rst:1262
@@ -2613,7 +2613,7 @@ msgid ":mtgtip:`Citanul Flute<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../USG.rst:1425
-msgid "|mana_x|, |tap|: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_x|, |tap|: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../USG.rst:1430
@@ -2697,7 +2697,7 @@ msgid "Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 unti
 msgstr ""
 
 #: ../../USG.rst:1467
-msgid "|mana_1|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn."
+msgid "|mana_1|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn."
 msgstr ""
 
 #: ../../USG.rst:1472
@@ -2745,7 +2745,7 @@ msgid ":mtgtip:`Mobile Fort<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../USG.rst:1493
-msgid "|mana_3|: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn."
+msgid "|mana_3|: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn."
 msgstr ""
 
 #: ../../USG.rst:1498

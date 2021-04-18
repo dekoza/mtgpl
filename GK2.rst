@@ -74,7 +74,7 @@
 :mtgtip:`Dovescape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2bd6ecd-a786-4c83-99c5-50515a691417.jpg?1551139756|https://scryfall.com/card/gk2/11/dovescape?utm_source=api>`
    (|mana_wu| can be paid with either |mana_w| or |mana_u|.)
 
-   Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's converted mana cost.
+   Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's mana value.
 
 
 :mtgtip:`Dramatic Rescue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416e6241-72c6-4d6d-b839-d96c35695b9d.jpg?1551139749|https://scryfall.com/card/gk2/12/dramatic-rescue?utm_source=api>`
@@ -84,7 +84,7 @@
 :mtgtip:`Isperia the Inscrutable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ca226e3-e392-4c7c-88f0-14e6e3bd17ad.jpg?1559958658|https://scryfall.com/card/gk2/13/isperia-the-inscrutable?utm_source=api>`
    Flying
 
-   Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
+   Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Judge's Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af4ff6fb-98a6-4776-92a6-c89a6697b23f.jpg?1551139906|https://scryfall.com/card/gk2/14/judges-familiar?utm_source=api>`
@@ -96,7 +96,7 @@
 :mtgtip:`Lavinia of the Tenth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c31e25f7-cc27-4f72-a314-1cf7971a2fbc.jpg?1559958679|https://scryfall.com/card/gk2/15/lavinia-of-the-tenth?utm_source=api>`
    Protection from red
 
-   When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
+   When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with mana value 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
 
 
 :mtgtip:`Lyev Skyknight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2d9670e-e994-40ca-b59d-567d5d0d9de3.jpg?1551139952|https://scryfall.com/card/gk2/16/lyev-skyknight?utm_source=api>`
@@ -110,7 +110,7 @@
 
    Pride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.
 
-   Forecast — |mana_2|\ |mana_w|\ |mana_u|, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_2|\ |mana_w|\ |mana_u|, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Render Silent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d286f664-86e9-4d5a-8cd0-e162cb7d9791.jpg?1551139980|https://scryfall.com/card/gk2/18/render-silent?utm_source=api>`
@@ -122,7 +122,7 @@
 
    When Sky Hussar enters the battlefield, untap all creatures you control.
 
-   Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Skymark Roc<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6359a633-dd81-47ad-a4fb-bf5c5fda06a9.jpg?1551139965|https://scryfall.com/card/gk2/20/skymark-roc?utm_source=api>`
@@ -268,7 +268,7 @@
 
    • Destroy target creature and you lose life equal to its toughness.
 
-   • Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.
+   • Return target creature card with mana value 1 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Orzhov Pontiff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6630ff79-5c23-4b34-a511-9b253e310461.jpg?1551119431|https://scryfall.com/card/gk2/43/orzhov-pontiff?utm_source=api>`
@@ -332,7 +332,7 @@
 :mtgtip:`Crypt Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bf43b9e-dc4d-484a-a1e0-e1180e656252.jpg?1551119470|https://scryfall.com/card/gk2/53/crypt-champion?utm_source=api>`
    Double strike
 
-   When Crypt Champion enters the battlefield, each player puts a creature card with converted mana cost 3 or less from their graveyard onto the battlefield.
+   When Crypt Champion enters the battlefield, each player puts a creature card with mana value 3 or less from their graveyard onto the battlefield.
 
    When Crypt Champion enters the battlefield, sacrifice it unless |mana_r| was spent to cast it.
 
@@ -500,7 +500,7 @@
 
    Flying
 
-   |mana_r|\ |mana_r|\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.
+   |mana_r|\ |mana_r|\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn.
 
 
 :mtgtip:`Birds of Paradise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a8b5ae4-e683-4ee5-8a41-10daddc2561f.jpg?1551119590|https://scryfall.com/card/gk2/82/birds-of-paradise?utm_source=api>`
@@ -510,7 +510,7 @@
 
 
 :mtgtip:`Protean Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dac2252b-2eb4-458d-b838-860ce741a82d.jpg?1551119594|https://scryfall.com/card/gk2/83/protean-hulk?utm_source=api>`
-   When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.
+   When Protean Hulk dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Skarrgan Pit-Skulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb483ff0-7641-4f79-bd85-5003a8718848.jpg?1551119598|https://scryfall.com/card/gk2/84/skarrgan-pit-skulk?utm_source=api>`
@@ -596,7 +596,7 @@
 
    Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery.
 
 
 :mtgtip:`Scab-Clan Mauler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10634fb3-8222-4778-8b2f-e9d0cae90b81.jpg?1551119661|https://scryfall.com/card/gk2/99/scab-clan-mauler?utm_source=api>`
@@ -710,7 +710,7 @@
 
 
 :mtgtip:`Momir Vig, Simic Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd62b042-779c-4a74-b64c-4f0481733398.jpg?1551119741|https://scryfall.com/card/gk2/119/momir-vig-simic-visionary?utm_source=api>`
-   Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.
+   Whenever you cast a green creature spell, you may search your library for a creature card, reveal it, then shuffle and put that card on top.
 
    Whenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.
 

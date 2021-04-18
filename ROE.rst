@@ -346,7 +346,7 @@
 
 
 :mtgtip:`Totem-Guide Hartebeest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1364a830-36b7-48b9-bf69-6fd35eed9399.jpg?1562701349|https://scryfall.com/card/roe/50/totem-guide-hartebeest?utm_source=api>`
-   When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+   When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Transcendent Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b007f42-9ec2-466b-8d6b-1d55c516080b.jpg?1562704735|https://scryfall.com/card/roe/51/transcendent-master?utm_source=api>`
@@ -688,7 +688,7 @@
 
 
 :mtgtip:`Baneful Omen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bff6e03-b6af-4f54-b365-9a6db2dbb595.jpg?1562702375|https://scryfall.com/card/roe/96/baneful-omen?utm_source=api>`
-   At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost.
+   At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's mana value.
 
 
 :mtgtip:`Bloodrite Invoker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dc36f94-2499-4d94-a506-27d42b9da667.jpg?1562704245|https://scryfall.com/card/roe/97/bloodrite-invoker?utm_source=api>`
@@ -706,7 +706,7 @@
 
 
 :mtgtip:`Consume the Meek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/921ebea0-48bf-4338-9e84-2cd06ffe6f4b.jpg?1562706383|https://scryfall.com/card/roe/100/consume-the-meek?utm_source=api>`
-   Destroy each creature with converted mana cost 3 or less. They can't be regenerated.
+   Destroy each creature with mana value 3 or less. They can't be regenerated.
 
 
 :mtgtip:`Consuming Vapors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/008de17e-aa79-4d4c-ab66-d516eca49e42.jpg?1562700551|https://scryfall.com/card/roe/101/consuming-vapors?utm_source=api>`
@@ -794,11 +794,11 @@
 :mtgtip:`Induce Despair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b0c6980-a371-4cb5-b684-3ebddd4890f8.jpg?1562701654|https://scryfall.com/card/roe/114/induce-despair?utm_source=api>`
    As an additional cost to cast this spell, reveal a creature card from your hand.
 
-   Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.
+   Target creature gets -X/-X until end of turn, where X is the revealed card's mana value.
 
 
 :mtgtip:`Inquisition of Kozilek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0.jpg?1562704713|https://scryfall.com/card/roe/115/inquisition-of-kozilek?utm_source=api>`
-   Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+   Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.
 
 
 :mtgtip:`Last Kiss<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/348f480f-8f68-4060-b964-f67515930549.jpg?1562702704|https://scryfall.com/card/roe/116/last-kiss?utm_source=api>`
@@ -966,7 +966,7 @@
 :mtgtip:`Disaster Radius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/9318ae4a-1084-49d9-b5de-dbe4d80836cb.jpg?1562706406|https://scryfall.com/card/roe/141/disaster-radius?utm_source=api>`
    As an additional cost to cast this spell, reveal a creature card from your hand.
 
-   Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+   Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.
 
 
 :mtgtip:`Emrakul's Hatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a901c3f-313d-495e-96a0-29f1a33b8225.jpg?1562701647|https://scryfall.com/card/roe/142/emrakuls-hatcher?utm_source=api>`
@@ -974,7 +974,7 @@
 
 
 :mtgtip:`Explosive Revelation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7a38cd0-2cd3-436d-bb44-79778d5808ad.jpg?1562709141|https://scryfall.com/card/roe/143/explosive-revelation?utm_source=api>`
-   Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that permanent or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.
+   Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's mana value to that permanent or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.
 
 
 :mtgtip:`Fissure Vent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15f4f813-f04c-4309-a007-b0549c00d6ab.jpg?1562701451|https://scryfall.com/card/roe/144/fissure-vent?utm_source=api>`
@@ -1148,7 +1148,7 @@
 
 
 :mtgtip:`Ancient Stirrings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97ac2766-a597-4949-882d-c5e61e6dd268.jpg?1562706559|https://scryfall.com/card/roe/174/ancient-stirrings?utm_source=api>`
-   Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)
+   Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order.
 
 
 :mtgtip:`Aura Gnarlid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f8dbb4f-4b01-4666-b62f-a2323dac7a19.jpg?1562706262|https://scryfall.com/card/roe/175/aura-gnarlid?utm_source=api>`
@@ -1218,7 +1218,7 @@
 
 
 :mtgtip:`Growth Spasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61d6a649-ae48-4cf1-b0e3-ba627b4ac1e1.jpg?1562704369|https://scryfall.com/card/roe/186/growth-spasm?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Create a 0/1 colorless Eldrazi Spawn creature token. It has "Sacrifice this creature: Add |colorless|."
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Create a 0/1 colorless Eldrazi Spawn creature token. It has "Sacrifice this creature: Add |colorless|."
 
 
 :mtgtip:`Haze Frog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72d8e000-5b4c-4340-ab85-7522107ab589.jpg?1562705053|https://scryfall.com/card/roe/187/haze-frog?utm_source=api>`
@@ -1286,7 +1286,7 @@
 :mtgtip:`Living Destiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/361399a4-04f3-4eef-8090-2caec7d1bb66.jpg?1562702748|https://scryfall.com/card/roe/195/living-destiny?utm_source=api>`
    As an additional cost to cast this spell, reveal a creature card from your hand.
 
-   You gain life equal to the revealed card's converted mana cost.
+   You gain life equal to the revealed card's mana value.
 
 
 :mtgtip:`Might of the Masses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10465f4f-f4ff-45d8-bc97-3ec85e5eea70.jpg?1562701241|https://scryfall.com/card/roe/196/might-of-the-masses?utm_source=api>`
@@ -1320,7 +1320,7 @@
 
 
 :mtgtip:`Ondu Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daf8b1e5-418f-4e64-a2ac-0e03b387ed33.jpg?1562709285|https://scryfall.com/card/roe/202/ondu-giant?utm_source=api>`
-   When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Overgrown Battlement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2e3d197-e978-4ec6-ab69-3c5fd8ac3fc1.jpg?1562710188|https://scryfall.com/card/roe/203/overgrown-battlement?utm_source=api>`
@@ -1344,7 +1344,7 @@
 
 
 :mtgtip:`Realms Uncharted<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8967ceff-9e25-46da-926b-e05f4ee98325.jpg?1562706023|https://scryfall.com/card/roe/206/realms-uncharted?utm_source=api>`
-   Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+   Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
 
 
 :mtgtip:`Snake Umbra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a011820-80c6-484f-84be-f07f0e45f1a8.jpg?1562703503|https://scryfall.com/card/roe/207/snake-umbra?utm_source=api>`
@@ -1386,7 +1386,7 @@
 
 
 :mtgtip:`Sarkhan the Mad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26c1ba92-556e-4da9-8e3a-a4a82612cb29.jpg?1562702107|https://scryfall.com/card/roe/214/sarkhan-the-mad?utm_source=api>`
-   0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.
+   0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's mana value.
 
    −2: Target creature's controller sacrifices it, then that player creates a 5/5 red Dragon creature token with flying.
 
@@ -1410,7 +1410,7 @@
 
 
 :mtgtip:`Hedron Matrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f26a7d8-3bc5-4666-a0dc-c5fbd68f9441.jpg?1562706251|https://scryfall.com/card/roe/218/hedron-matrix?utm_source=api>`
-   Equipped creature gets +X/+X, where X is its converted mana cost.
+   Equipped creature gets +X/+X, where X is its mana value.
 
    Equip |mana_4|
 
@@ -1466,7 +1466,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc7e0407-fea1-43ef-8580-82271e440bb3.jpg?1562708057|https://scryfall.com/card/roe/228/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3345553-8f04-4a83-9b6b-95ca0654921d.jpg?1576796946|https://scryfall.com/card/roe/229/plains?utm_source=api>`

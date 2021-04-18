@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,7 +117,7 @@ msgid ":mtgtip:`Prophecy<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../HML.rst:51
-msgid "Reveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles their library."
+msgid "Reveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles."
 msgstr ""
 
 #: ../../HML.rst:53
@@ -218,7 +218,7 @@ msgid "At the beginning of your upkeep, put a currency counter on Trade Caravan.
 msgstr ""
 
 #: ../../HML.rst:97
-msgid "Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep."
+msgid "Remove two currency counters from Trade Caravan: Untap target basic land. Activate only during an opponent's upkeep."
 msgstr ""
 
 #: ../../HML.rst:102
@@ -340,7 +340,7 @@ msgid "Marjhan doesn't untap during your untap step."
 msgstr ""
 
 #: ../../HML.rst:161
-msgid "|mana_u|\\ |mana_u|, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep."
+msgid "|mana_u|\\ |mana_u|, Sacrifice a creature: Untap Marjhan. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:163
@@ -368,7 +368,7 @@ msgid ":mtgtip:`Merchant Scroll<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../HML.rst:175
-msgid "Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../HML.rst:180
@@ -412,7 +412,7 @@ msgid ":mtgtip:`Sea Troll<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../HML.rst:199
-msgid "|mana_u|: Regenerate Sea Troll. Activate this ability only if Sea Troll blocked or was blocked by a blue creature this turn."
+msgid "|mana_u|: Regenerate Sea Troll. Activate only if Sea Troll blocked or was blocked by a blue creature this turn."
 msgstr ""
 
 #: ../../HML.rst:206
@@ -449,7 +449,7 @@ msgid "Black Carriage doesn't untap during your untap step."
 msgstr ""
 
 #: ../../HML.rst:221
-msgid "Sacrifice a creature: Untap Black Carriage. Activate this ability only during your upkeep."
+msgid "Sacrifice a creature: Untap Black Carriage. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:226
@@ -701,7 +701,7 @@ msgid ":mtgtip:`Dwarven Sea Clan<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../HML.rst:361
-msgid "|tap|: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate this ability only before the end of combat step."
+msgid "|tap|: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate only before the end of combat step."
 msgstr ""
 
 #: ../../HML.rst:364
@@ -737,7 +737,7 @@ msgid "First strike"
 msgstr ""
 
 #: ../../HML.rst:381
-msgid "|tap|: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate this ability only during combat."
+msgid "|tap|: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate only during combat."
 msgstr ""
 
 #: ../../HML.rst:390
@@ -921,7 +921,7 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr ""
 
 #: ../../HML.rst:481
-msgid "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../HML.rst:488
@@ -1021,7 +1021,7 @@ msgid "At end of combat, if Clockwork Steed attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../HML.rst:535
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:546
@@ -1041,7 +1041,7 @@ msgid "At end of combat, if Clockwork Swarm attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../HML.rst:545
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Activate only during your upkeep."
 msgstr ""
 
 #: ../../HML.rst:550
@@ -1077,7 +1077,7 @@ msgid ":mtgtip:`Roterothopter<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../HML.rst:567
-msgid "|mana_2|: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_2|: Roterothopter gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../HML.rst:576

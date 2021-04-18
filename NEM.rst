@@ -36,13 +36,13 @@
 :mtgtip:`Defiant Falcon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c80032b-daeb-4661-9a66-61abe9d12ddd.jpg?1562629779|https://scryfall.com/card/nem/6/defiant-falcon?utm_source=api>`
    Flying
 
-   |mana_4|, |tap|: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_4|, |tap|: Search your library for a Rebel permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Defiant Vanguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c0bd267-59ec-41df-b0b7-37f6e6d6b073.jpg?1562629767|https://scryfall.com/card/nem/7/defiant-vanguard?utm_source=api>`
    When Defiant Vanguard blocks, at end of combat, destroy it and all creatures it blocked this turn.
 
-   |mana_5|, |tap|: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_5|, |tap|: Search your library for a Rebel permanent card with mana value 4 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Fanatical Devotion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be0ed1fb-d380-4e3e-a43f-c39660a996e9.jpg?1562631775|https://scryfall.com/card/nem/8/fanatical-devotion?utm_source=api>`
@@ -66,7 +66,7 @@
 
 
 :mtgtip:`Lin Sivvi, Defiant Hero<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e574e522-2632-4cd4-8545-c582ac3b641f.jpg?1562632572|https://scryfall.com/card/nem/12/lin-sivvi-defiant-hero?utm_source=api>`
-   |mana_x|, |tap|: Search your library for a Rebel permanent card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   |mana_x|, |tap|: Search your library for a Rebel permanent card with mana value X or less, put it onto the battlefield, then shuffle.
 
    |mana_3|: Put target Rebel card from your graveyard on the bottom of your library.
 
@@ -162,7 +162,7 @@
 
 
 :mtgtip:`Dominate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63b2dcb1-8c3e-434c-865a-196d4d799706.jpg?1562630260|https://scryfall.com/card/nem/31/dominate?utm_source=api>`
-   Gain control of target creature with converted mana cost X or less.
+   Gain control of target creature with mana value X or less.
 
 
 :mtgtip:`Ensnare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/055b344a-4eb1-4579-ac50-973b18e12fad.jpg?1562628470|https://scryfall.com/card/nem/32/ensnare?utm_source=api>`
@@ -210,11 +210,11 @@
 :mtgtip:`Rootwater Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38addef3-1dd7-41a1-9706-3be5c86a58c9.jpg?1562629419|https://scryfall.com/card/nem/40/rootwater-thief?utm_source=api>`
    |mana_u|: Rootwater Thief gains flying until end of turn.
 
-   Whenever Rootwater Thief deals combat damage to a player, you may pay |mana_2|. If you do, search that player's library for a card and exile it, then the player shuffles their library.
+   Whenever Rootwater Thief deals combat damage to a player, you may pay |mana_2|. If you do, search that player's library for a card and exile it, then the player shuffles.
 
 
 :mtgtip:`Seahunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c375f65a-6d88-4d3c-a7a7-8c7a5cc5807f.jpg?1562631875|https://scryfall.com/card/nem/41/seahunter?utm_source=api>`
-   |mana_3|, |tap|: Search your library for a Merfolk permanent card and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a Merfolk permanent card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Seal of Removal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/487becfe-a9b1-4029-a487-2a32561570cb.jpg?1562629719|https://scryfall.com/card/nem/42/seal-of-removal?utm_source=api>`
@@ -310,7 +310,7 @@
 
 
 :mtgtip:`Mind Slash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bece38b-e09e-4666-95b6-5e5b05867cd5.jpg?1562630965|https://scryfall.com/card/nem/59/mind-slash?utm_source=api>`
-   |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Mind Swords<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d6d91df-008b-48f2-a84f-550702fbcdb3.jpg?1562629493|https://scryfall.com/card/nem/60/mind-swords?utm_source=api>`
@@ -336,7 +336,7 @@
 :mtgtip:`Parallax Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/862c50c7-0840-46e0-a653-5b660fdfd4bd.jpg?1562630856|https://scryfall.com/card/nem/63/parallax-nexus?utm_source=api>`
    Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
 
-   Remove a fade counter from Parallax Nexus: Target opponent exiles a card from their hand. Activate this ability only any time you could cast a sorcery.
+   Remove a fade counter from Parallax Nexus: Target opponent exiles a card from their hand. Activate only as a sorcery.
 
    When Parallax Nexus leaves the battlefield, each player returns to their hand all cards they own exiled with Parallax Nexus.
 
@@ -358,19 +358,19 @@
 :mtgtip:`Rathi Assassin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e3597c3-3053-49f8-ab7e-a774e2fb082f.jpg?1562629520|https://scryfall.com/card/nem/67/rathi-assassin?utm_source=api>`
    |mana_1|\ |mana_b|\ |mana_b|, |tap|: Destroy target tapped nonblack creature.
 
-   |mana_3|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a Mercenary permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rathi Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07ca1184-ade0-4d6d-87f9-ad17f37679b3.jpg?1562628537|https://scryfall.com/card/nem/68/rathi-fiend?utm_source=api>`
    When Rathi Fiend enters the battlefield, each player loses 3 life.
 
-   |mana_3|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a Mercenary permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rathi Intimidator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fc59fa5-144f-49e6-b6bd-2ba6d3f2eff2.jpg?1562630441|https://scryfall.com/card/nem/69/rathi-intimidator?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
-   |mana_2|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.
+   |mana_2|, |tap|: Search your library for a Mercenary permanent card with mana value 2 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Seal of Doom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/396d9f58-a4ca-4197-94be-0f115427224e.jpg?1562629435|https://scryfall.com/card/nem/70/seal-of-doom?utm_source=api>`
@@ -394,7 +394,7 @@
 
 
 :mtgtip:`Volrath the Fallen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08bdd66e-9ca1-456e-a61c-7c96cf6f7c56.jpg?1562628549|https://scryfall.com/card/nem/75/volrath-the-fallen?utm_source=api>`
-   |mana_1|\ |mana_b|, Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card's converted mana cost.
+   |mana_1|\ |mana_b|, Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card's mana value.
 
 
 :mtgtip:`Ancient Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5de57c84-38b9-4606-b934-0ab270496582.jpg?1562630146|https://scryfall.com/card/nem/76/ancient-hydra?utm_source=api>`
@@ -494,7 +494,7 @@
 
 
 :mtgtip:`Moggcatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9ba582d7-1dce-4664-8bd9-6b419596788c.jpg?1562631228|https://scryfall.com/card/nem/96/moggcatcher?utm_source=api>`
-   |mana_3|, |tap|: Search your library for a Goblin permanent card and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a Goblin permanent card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rupture<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db53c1fb-3641-44a3-b0b4-b7b2ba993646.jpg?1562632349|https://scryfall.com/card/nem/97/rupture?utm_source=api>`
@@ -512,7 +512,7 @@
 
 
 :mtgtip:`Stronghold Gambit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d18050e-9aad-471e-a6ae-66e5fa2bbb6f.jpg?1562628634|https://scryfall.com/card/nem/100/stronghold-gambit?utm_source=api>`
-   Each player chooses a card in their hand. Then each player reveals their chosen card. The owner of each creature card revealed this way with the lowest converted mana cost puts it onto the battlefield.
+   Each player chooses a card in their hand. Then each player reveals their chosen card. The owner of each creature card revealed this way with the lowest mana value puts it onto the battlefield.
 
 
 :mtgtip:`Animate Land<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20ff4e7d-fa50-48d2-8ab6-6b86e3a05e86.jpg?1562628961|https://scryfall.com/card/nem/101/animate-land?utm_source=api>`
@@ -546,7 +546,7 @@
 :mtgtip:`Nesting Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5da697da-7026-4dea-b494-8314d789160f.jpg?1562630129|https://scryfall.com/card/nem/107/nesting-wurm?utm_source=api>`
    Trample
 
-   When Nesting Wurm enters the battlefield, you may search your library for up to three cards named Nesting Wurm, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Nesting Wurm enters the battlefield, you may search your library for up to three cards named Nesting Wurm, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Overlaid Terrain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/230c7926-9a4b-4ead-b4c8-889f84210545.jpg?1562629009|https://scryfall.com/card/nem/108/overlaid-terrain?utm_source=api>`
@@ -556,7 +556,7 @@
 
 
 :mtgtip:`Pack Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c46caa8-efc0-4b72-b122-61e5d86a5b86.jpg?1562628868|https://scryfall.com/card/nem/109/pack-hunt?utm_source=api>`
-   Search your library for up to three cards with the same name as target creature, reveal them, and put them into your hand. Then shuffle your library.
+   Search your library for up to three cards with the same name as target creature, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Refreshing Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5e24850-bd9b-40ab-878f-b8a554da1956.jpg?1562631914|https://scryfall.com/card/nem/110/refreshing-rain?utm_source=api>`
@@ -600,7 +600,7 @@
 
 
 :mtgtip:`Skyshroud Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf3e09ff-c917-4c0c-8ddb-e152b4b0b82c.jpg?1562632109|https://scryfall.com/card/nem/117/skyshroud-claim?utm_source=api>`
-   Search your library for up to two Forest cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two Forest cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Skyshroud Cutter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a558c4f5-a716-4e46-9234-5f84f1bd57aa.jpg?1562631366|https://scryfall.com/card/nem/118/skyshroud-cutter?utm_source=api>`
@@ -608,7 +608,7 @@
 
 
 :mtgtip:`Skyshroud Poacher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fb4e44e-656e-4294-a53b-1f7aa96fab31.jpg?1562628663|https://scryfall.com/card/nem/119/skyshroud-poacher?utm_source=api>`
-   |mana_3|, |tap|: Search your library for an Elf permanent card and put it onto the battlefield. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for an Elf permanent card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Skyshroud Ridgeback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/410896ab-d3dc-478c-bfd1-c0cad5b1180a.jpg?1562629551|https://scryfall.com/card/nem/120/skyshroud-ridgeback?utm_source=api>`
@@ -616,7 +616,7 @@
 
 
 :mtgtip:`Skyshroud Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a35ab55f-f677-45c8-bd32-56788a776b33.jpg?1562631344|https://scryfall.com/card/nem/121/skyshroud-sentinel?utm_source=api>`
-   When Skyshroud Sentinel enters the battlefield, you may search your library for up to three cards named Skyshroud Sentinel, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Skyshroud Sentinel enters the battlefield, you may search your library for up to three cards named Skyshroud Sentinel, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Stampede Driver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a295758a-ee46-4ed0-8539-67501a37010d.jpg?1562631337|https://scryfall.com/card/nem/122/stampede-driver?utm_source=api>`

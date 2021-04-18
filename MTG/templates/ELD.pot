@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,7 +85,7 @@ msgid "Protection from white (This creature can't be blocked, targeted, dealt da
 msgstr ""
 
 #: ../../ELD.rst:23
-msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures."
+msgid "Creatures can't attack you or planeswalkers you control unless their controller pays |mana_1| for each of those creatures."
 msgstr ""
 
 #: ../../ELD.rst:28
@@ -231,7 +231,7 @@ msgid ":mtgtip:`Glass Casket<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ELD.rst:99
-msgid "When Glass Casket enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less until Glass Casket leaves the battlefield."
+msgid "When Glass Casket enters the battlefield, exile target creature an opponent controls with mana value 3 or less until Glass Casket leaves the battlefield."
 msgstr ""
 
 #: ../../ELD.rst:106
@@ -621,7 +621,7 @@ msgid ":mtgtip:`Mesmeric Glare<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ELD.rst:321
-msgid "Counter target spell with converted mana cost 3 or less. (Then exile this card. You may cast the creature later from exile.)"
+msgid "Counter target spell with mana value 3 or less. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
 
 #: ../../ELD.rst:328
@@ -738,7 +738,7 @@ msgid ":mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/fron
 msgstr ""
 
 #: ../../ELD.rst:383
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../ELD.rst:390
@@ -802,7 +802,7 @@ msgid ":mtgtip:`Stolen by the Fae<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ELD.rst:423
-msgid "Return target creature with converted mana cost X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying."
+msgid "Return target creature with mana value X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying."
 msgstr ""
 
 #: ../../ELD.rst:432
@@ -986,7 +986,7 @@ msgid "Whenever a creature you control dies, put it on the bottom of its owner's
 msgstr ""
 
 #: ../../ELD.rst:523
-msgid "|mana_2|\\ |mana_b|, |tap|, Pay 2 life: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|, |tap|, Pay 2 life: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
 
 #: ../../ELD.rst:530
@@ -1023,7 +1023,7 @@ msgid ":mtgtip:`Epic Downfall<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ELD.rst:541
-msgid "Exile target creature with converted mana cost 3 or greater."
+msgid "Exile target creature with mana value 3 or greater."
 msgstr ""
 
 #: ../../ELD.rst:548
@@ -1314,7 +1314,7 @@ msgid "Wishclaw Talisman enters the battlefield with three wish counters on it."
 msgstr ""
 
 #: ../../ELD.rst:699
-msgid "|mana_1|, |tap|, Remove a wish counter from Wishclaw Talisman: Search your library for a card, put it into your hand, then shuffle your library. An opponent gains control of Wishclaw Talisman. Activate this ability only during your turn."
+msgid "|mana_1|, |tap|, Remove a wish counter from Wishclaw Talisman: Search your library for a card, put it into your hand, then shuffle. An opponent gains control of Wishclaw Talisman. Activate only during your turn."
 msgstr ""
 
 #: ../../ELD.rst:704
@@ -1394,7 +1394,7 @@ msgid ":mtgtip:`Claim the Firstborn<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../ELD.rst:741
-msgid "Gain control of target creature with converted mana cost 3 or less until end of turn. Untap that creature. It gains haste until end of turn."
+msgid "Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
 
 #: ../../ELD.rst:748
@@ -1490,7 +1490,7 @@ msgid "You can cast spells only during your turn and you can cast no more than t
 msgstr ""
 
 #: ../../ELD.rst:791
-msgid "You may cast spells with converted mana cost less than or equal to the number of lands you control without paying their mana costs."
+msgid "You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs."
 msgstr ""
 
 #: ../../ELD.rst:798
@@ -1735,7 +1735,7 @@ msgid ":mtgtip:`Fertile Footsteps<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ELD.rst:915
-msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)"
+msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
 
 #: ../../ELD.rst:918
@@ -1771,7 +1771,7 @@ msgid "When Feasting Troll King enters the battlefield, if you cast it from your
 msgstr ""
 
 #: ../../ELD.rst:935
-msgid "Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate this ability only during your turn."
+msgid "Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate only during your turn."
 msgstr ""
 
 #: ../../ELD.rst:940
@@ -2169,7 +2169,7 @@ msgid ":mtgtip:`Dance of the Manse<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ELD.rst:1151
-msgid "Return up to X target artifact and/or non-Aura enchantment cards each with converted mana cost X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types."
+msgid "Return up to X target artifact and/or non-Aura enchantment cards each with mana value X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types."
 msgstr ""
 
 #: ../../ELD.rst:1156
@@ -2185,11 +2185,11 @@ msgid ":mtgtip:`Drown in the Loch<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ELD.rst:1161
-msgid "Counter target spell with converted mana cost less than or equal to the number of cards in its controller's graveyard."
+msgid "Counter target spell with mana value less than or equal to the number of cards in its controller's graveyard."
 msgstr ""
 
 #: ../../ELD.rst:1163
-msgid "Destroy target creature with converted mana cost less than or equal to the number of cards in its controller's graveyard."
+msgid "Destroy target creature with mana value less than or equal to the number of cards in its controller's graveyard."
 msgstr ""
 
 #: ../../ELD.rst:1170
@@ -2273,7 +2273,7 @@ msgid "|mana_b|, Sacrifice a Swamp: You gain 1 life and draw a card."
 msgstr ""
 
 #: ../../ELD.rst:1209
-msgid "|mana_u|\\ |mana_b|: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_u|\\ |mana_b|: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../ELD.rst:1216
@@ -2499,7 +2499,7 @@ msgid ":mtgtip:`Thunderous Snapper<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ELD.rst:1337
-msgid "Whenever you cast a spell with converted mana cost 5 or greater, draw a card."
+msgid "Whenever you cast a spell with mana value 5 or greater, draw a card."
 msgstr ""
 
 #: ../../ELD.rst:1342
@@ -2707,7 +2707,7 @@ msgid "Weapon Rack enters the battlefield with three +1/+1 counters on it."
 msgstr ""
 
 #: ../../ELD.rst:1451
-msgid "|tap|: Move a +1/+1 counter from Weapon Rack onto target creature. Activate this ability only any time you could cast a sorcery."
+msgid "|tap|: Move a +1/+1 counter from Weapon Rack onto target creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../ELD.rst:1456
@@ -2816,7 +2816,7 @@ msgid ":mtgtip:`Fabled Passage<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ELD.rst:1507
-msgid "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land."
+msgid "|tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
 msgstr ""
 
 #: ../../ELD.rst:1516
@@ -2980,7 +2980,7 @@ msgid ":mtgtip:`Rowan's Stalwarts<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ELD.rst:1601
-msgid "When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../ELD.rst:1610
@@ -3024,7 +3024,7 @@ msgid ":mtgtip:`Bramblefort Fink<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ELD.rst:1625
-msgid "|mana_8|: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate this ability only if you control an Oko planeswalker."
+msgid "|mana_8|: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker."
 msgstr ""
 
 #: ../../ELD.rst:1630
@@ -3032,7 +3032,7 @@ msgid ":mtgtip:`Oko's Hospitality<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ELD.rst:1629
-msgid "Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../ELD.rst:1638

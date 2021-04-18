@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgid ":mtgtip:`Orzhov Advokist<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C16.rst:17
-msgid "At the beginning of your upkeep, each player may put two +1/+1 counters on a creature they control. If a player does, creatures that player controls can't attack you or a planeswalker you control until your next turn."
+msgid "At the beginning of your upkeep, each player may put two +1/+1 counters on a creature they control. If a player does, creatures that player controls can't attack you or planeswalkers you control until your next turn."
 msgstr ""
 
 #: ../../C16.rst:26
@@ -341,7 +341,7 @@ msgstr ""
 #: ../../C16.rst:229
 #: ../../C16.rst:277
 #: ../../C16.rst:297
-msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../C16.rst:160
@@ -584,7 +584,7 @@ msgid ":mtgtip:`Vial Smasher the Fierce<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../C16.rst:309
-msgid "Whenever you cast your first spell each turn, choose an opponent at random. Vial Smasher the Fierce deals damage equal to that spell's converted mana cost to that player or a planeswalker that player controls."
+msgid "Whenever you cast your first spell each turn, choose an opponent at random. Vial Smasher the Fierce deals damage equal to that spell's mana value to that player or a planeswalker that player controls."
 msgstr ""
 
 #: ../../C16.rst:318
@@ -679,7 +679,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../C16.rst:353
-msgid "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../C16.rst:360
@@ -801,7 +801,7 @@ msgid "Whenever you draw a card, you may put a hoofprint counter on Hoofprints o
 msgstr ""
 
 #: ../../C16.rst:415
-msgid "|mana_2|\\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn."
+msgid "|mana_2|\\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate only during your turn."
 msgstr ""
 
 #: ../../C16.rst:424
@@ -890,7 +890,7 @@ msgid ":mtgtip:`Sphere of Safety<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../C16.rst:467
-msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control."
+msgid "Creatures can't attack you or planeswalkers you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control."
 msgstr ""
 
 #: ../../C16.rst:472
@@ -934,7 +934,7 @@ msgid "Aeon Chronicler's power and toughness are each equal to the number of car
 msgstr ""
 
 #: ../../C16.rst:493
-msgid "Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0. (Rather than cast this card from your hand, you may pay |mana_x|\\ |mana_3|\\ |mana_u| and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
+msgid "Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0."
 msgstr ""
 
 #: ../../C16.rst:495
@@ -994,7 +994,7 @@ msgid ":mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C16.rst:525
-msgid "Counter target spell with converted mana cost 4 or greater."
+msgid "Counter target spell with mana value 4 or greater."
 msgstr ""
 
 #: ../../C16.rst:530
@@ -1118,7 +1118,7 @@ msgid ":mtgtip:`Trinket Mage<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../C16.rst:593
-msgid "When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library."
+msgid "When Trinket Mage enters the battlefield, you may search your library for an artifact card with mana value 1 or less, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:598
@@ -1247,7 +1247,7 @@ msgid "At the beginning of your upkeep, put a +1/+1 counter on Necroplasm."
 msgstr ""
 
 #: ../../C16.rst:657
-msgid "At the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm."
+msgid "At the beginning of your end step, destroy each creature with mana value equal to the number of +1/+1 counters on Necroplasm."
 msgstr ""
 
 #: ../../C16.rst:659
@@ -1363,7 +1363,7 @@ msgid ":mtgtip:`Godo, Bandit Warlord<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../C16.rst:721
-msgid "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library."
+msgid "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:723
@@ -1427,7 +1427,7 @@ msgid ":mtgtip:`Humble Defector<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C16.rst:751
-msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn."
+msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate only during your turn."
 msgstr ""
 
 #: ../../C16.rst:756
@@ -1504,7 +1504,7 @@ msgid ":mtgtip:`Volcanic Vision<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C16.rst:793
-msgid "Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision."
+msgid "Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's mana value to each creature your opponents control. Exile Volcanic Vision."
 msgstr ""
 
 #: ../../C16.rst:800
@@ -1576,7 +1576,7 @@ msgid ":mtgtip:`Collective Voyage<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C16.rst:831
-msgid "Join forces — Starting with you, each player may pay any amount of mana. Each player searches their library for up to X basic land cards, where X is the total amount of mana paid this way, puts them onto the battlefield tapped, then shuffles their library."
+msgid "Join forces — Starting with you, each player may pay any amount of mana. Each player searches their library for up to X basic land cards, where X is the total amount of mana paid this way, puts them onto the battlefield tapped, then shuffles."
 msgstr ""
 
 #: ../../C16.rst:836
@@ -1585,7 +1585,7 @@ msgstr ""
 
 #: ../../C16.rst:835
 #: ../../C16.rst:883
-msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:844
@@ -1609,11 +1609,12 @@ msgid ":mtgtip:`Far Wanderings<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../C16.rst:847
-msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+#: ../../C16.rst:911
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:849
-msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:854
@@ -1621,7 +1622,7 @@ msgid ":mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../C16.rst:853
-msgid "Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:860
@@ -1727,10 +1728,6 @@ msgstr ""
 msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c37c0f48-5d85-4a72-bc51-6b3dcdaab29a.jpg?1562418166|https://scryfall.com/card/c16/161/rampant-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:911
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
-msgstr ""
-
 #: ../../C16.rst:918
 msgid ":mtgtip:`Realm Seekers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93167de6-cbce-4bd6-bc41-c35f54f28544.jpg?1562410679|https://scryfall.com/card/c16/162/realm-seekers?utm_source=api>`"
 msgstr ""
@@ -1740,7 +1737,7 @@ msgid "Realm Seekers enters the battlefield with X +1/+1 counters on it, where X
 msgstr ""
 
 #: ../../C16.rst:917
-msgid "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:924
@@ -1760,7 +1757,7 @@ msgid ":mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../C16.rst:927
-msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:932
@@ -1812,7 +1809,7 @@ msgid ":mtgtip:`Tempt with Discovery<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../C16.rst:955
-msgid "Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search their library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles it."
+msgid "Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search their library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles."
 msgstr ""
 
 #: ../../C16.rst:964
@@ -1856,7 +1853,7 @@ msgid ":mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../C16.rst:979
-msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it."
+msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:986
@@ -1909,7 +1906,7 @@ msgid ":mtgtip:`Artifact Mutation<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C16.rst:1009
-msgid "Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's converted mana cost."
+msgid "Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's mana value."
 msgstr ""
 
 #: ../../C16.rst:1014
@@ -1917,7 +1914,7 @@ msgid ":mtgtip:`Aura Mutation<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../C16.rst:1013
-msgid "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, where X is that enchantment's converted mana cost."
+msgid "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, where X is that enchantment's mana value."
 msgstr ""
 
 #: ../../C16.rst:1020
@@ -2369,7 +2366,7 @@ msgid ":mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C16.rst:1269
-msgid "When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1276
@@ -2377,7 +2374,7 @@ msgid ":mtgtip:`Sydri, Galvanic Genius<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../C16.rst:1273
-msgid "|mana_u|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn."
+msgid "|mana_u|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn."
 msgstr ""
 
 #: ../../C16.rst:1275
@@ -2571,7 +2568,7 @@ msgid ":mtgtip:`Assault Suit<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../C16.rst:1379
-msgid "Equipped creature gets +2/+2, has haste, can't attack you or a planeswalker you control, and can't be sacrificed."
+msgid "Equipped creature gets +2/+2, has haste, can't attack you or planeswalkers you control, and can't be sacrificed."
 msgstr ""
 
 #: ../../C16.rst:1381
@@ -2700,7 +2697,7 @@ msgid ":mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../C16.rst:1447
-msgid "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)"
+msgid "Multikicker |mana_2|"
 msgstr ""
 
 #: ../../C16.rst:1449
@@ -2780,7 +2777,7 @@ msgid ":mtgtip:`Mycosynth Wellspring<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../C16.rst:1491
-msgid "When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1498
@@ -2885,7 +2882,7 @@ msgid ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C16.rst:1547
-msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1549
@@ -2913,7 +2910,7 @@ msgid "Equipped creature gets +4/+0."
 msgstr ""
 
 #: ../../C16.rst:1563
-msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
+msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1572
@@ -3122,7 +3119,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../C16.rst:1685
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1690
@@ -3262,7 +3259,7 @@ msgid "Krosan Verge enters the battlefield tapped."
 msgstr ""
 
 #: ../../C16.rst:1767
-msgid "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1776
@@ -3305,7 +3302,7 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr ""
 
 #: ../../C16.rst:1791
-msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1798
@@ -3562,7 +3559,7 @@ msgid ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../C16.rst:1933
-msgid "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you control five or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or more lands."
 msgstr ""
 
 #: ../../C16.rst:1938
@@ -3570,7 +3567,7 @@ msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../C16.rst:1937
-msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C16.rst:1946

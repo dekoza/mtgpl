@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -152,7 +152,7 @@ msgid "Flanking (Whenever a creature without flanking blocks this creature, the 
 msgstr ""
 
 #: ../../VIS.rst:61
-msgid "|mana_1|\\ |mana_w|: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_w|: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../VIS.rst:66
@@ -276,7 +276,7 @@ msgid ":mtgtip:`Tithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/fr
 msgstr ""
 
 #: ../../VIS.rst:121
-msgid "Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library."
+msgid "Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../VIS.rst:126
@@ -322,7 +322,7 @@ msgid ":mtgtip:`Chronatog<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../VIS.rst:147
-msgid "|mana_0|: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn."
+msgid "|mana_0|: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate only once each turn."
 msgstr ""
 
 #: ../../VIS.rst:154
@@ -674,7 +674,7 @@ msgid ":mtgtip:`Necrosavant<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../VIS.rst:349
-msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../VIS.rst:356
@@ -728,7 +728,7 @@ msgid ":mtgtip:`Urborg Mindsucker<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../VIS.rst:377
-msgid "|mana_b|, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_b|, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate only as a sorcery."
 msgstr ""
 
 #: ../../VIS.rst:382
@@ -736,7 +736,7 @@ msgid ":mtgtip:`Vampiric Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../VIS.rst:381
-msgid "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
+msgid "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
 msgstr ""
 
 #: ../../VIS.rst:392
@@ -816,7 +816,7 @@ msgid ":mtgtip:`Goblin Recruiter<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../VIS.rst:427
-msgid "When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order."
+msgid "When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order."
 msgstr ""
 
 #: ../../VIS.rst:432
@@ -960,7 +960,7 @@ msgid ":mtgtip:`Spitting Drake<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../VIS.rst:509
-msgid "|mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn."
+msgid "|mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../VIS.rst:516
@@ -1110,11 +1110,11 @@ msgid ":mtgtip:`Kyscu Drake<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../VIS.rst:595
-msgid "|mana_g|: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn."
+msgid "|mana_g|: Kyscu Drake gets +0/+1 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../VIS.rst:597
-msgid "Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library."
+msgid "Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../VIS.rst:604
@@ -1146,7 +1146,7 @@ msgid "As an additional cost to cast this spell, sacrifice a green creature."
 msgstr ""
 
 #: ../../VIS.rst:615
-msgid "Search your library for a green creature card and put it onto the battlefield. Then shuffle your library."
+msgid "Search your library for a green creature card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../VIS.rst:618
@@ -1166,7 +1166,7 @@ msgid ":mtgtip:`Quirion Ranger<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../VIS.rst:627
-msgid "Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn."
+msgid "Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn."
 msgstr ""
 
 #: ../../VIS.rst:634
@@ -1266,7 +1266,7 @@ msgid ":mtgtip:`Corrosion<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../VIS.rst:681
-msgid "At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with converted mana cost less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated."
+msgid "At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with mana value less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated."
 msgstr ""
 
 #: ../../VIS.rst:683
@@ -1526,7 +1526,7 @@ msgid ":mtgtip:`Snake Basket<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../VIS.rst:825
-msgid "|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate only as a sorcery."
 msgstr ""
 
 #: ../../VIS.rst:830

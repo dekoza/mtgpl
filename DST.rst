@@ -72,7 +72,7 @@
 
 
 :mtgtip:`Steelshaper Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4793de1-4d5d-4538-b48f-db5d31757bcc.jpg?1562638605|https://scryfall.com/card/dst/15/steelshaper-apprentice?utm_source=api>`
-   |mana_w|, |tap|, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.
+   |mana_w|, |tap|, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Stir the Pride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7632585e-28e1-4f45-b5ba-172d44573708.jpg?1562637597|https://scryfall.com/card/dst/16/stir-the-pride?utm_source=api>`
@@ -168,7 +168,7 @@
 :mtgtip:`Reshape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05a8d65d-0c6f-433d-a818-002c242a17e8.jpg?1562635244|https://scryfall.com/card/dst/31/reshape?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact.
 
-   Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Retract<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e09a443-0a00-458a-b351-8cb188e9218c.jpg?1562636784|https://scryfall.com/card/dst/32/retract?utm_source=api>`
@@ -426,7 +426,7 @@
 
    • Destroy target land.
 
-   • Search your library for a land card, put that card onto the battlefield, then shuffle your library.
+   • Search your library for a land card, put that card onto the battlefield, then shuffle.
 
    Entwine |mana_1|\ |mana_g| (Choose both if you pay the entwine cost.)
 
@@ -472,7 +472,7 @@
 :mtgtip:`Aether Vial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/741c479b-5e92-4837-9673-9bc72aa11d26.jpg?1562637557|https://scryfall.com/card/dst/91/aether-vial?utm_source=api>`
    At the beginning of your upkeep, you may put a charge counter on Aether Vial.
 
-   |tap|: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
+   |tap|: You may put a creature card with mana value equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
 
 
 :mtgtip:`Angel's Feather<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a11d101-2e82-42d5-b4a1-8f0c520441ab.jpg?1562636693|https://scryfall.com/card/dst/92/angels-feather?utm_source=api>`
@@ -726,7 +726,7 @@
 
 
 :mtgtip:`Panoptic Mirror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50e945b0-e919-41bb-9bc5-f71ad531e8f1.jpg?1562636846|https://scryfall.com/card/dst/136/panoptic-mirror?utm_source=api>`
-   Imprint — |mana_x|, |tap|: You may exile an instant or sorcery card with converted mana cost X from your hand.
+   Imprint — |mana_x|, |tap|: You may exile an instant or sorcery card with mana value X from your hand.
 
    At the beginning of your upkeep, you may copy a card exiled with Panoptic Mirror. If you do, you may cast the copy without paying its mana cost.
 

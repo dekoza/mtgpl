@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgid "Before drawing your opening hand, choose 1, 2, or 3."
 msgstr ""
 
 #: ../../CN2.rst:31
-msgid "You may spend mana as though it were mana of any color to cast creature spells with converted mana cost equal to the chosen number."
+msgid "You may spend mana as though it were mana of any color to cast creature spells with mana value equal to the chosen number."
 msgstr ""
 
 #: ../../CN2.rst:38
@@ -146,7 +146,7 @@ msgid "Double agenda (Start the game with this conspiracy face down in the comma
 msgstr ""
 
 #: ../../CN2.rst:81
-msgid "Whenever you cast a creature spell with one of the chosen names, you may search your library for a creature card with the other chosen name, reveal it, put it into your hand, then shuffle your library."
+msgid "Whenever you cast a creature spell with one of the chosen names, you may search your library for a creature card with the other chosen name, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:88
@@ -192,7 +192,7 @@ msgid "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn fo
 msgstr ""
 
 #: ../../CN2.rst:103
-msgid "Whenever Custodi Soulcaller attacks, return target creature card with converted mana cost X or less from your graveyard to the battlefield, where X is the number of players you attacked this combat."
+msgid "Whenever Custodi Soulcaller attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of players you attacked this combat."
 msgstr ""
 
 #: ../../CN2.rst:108
@@ -228,7 +228,7 @@ msgid "When Palace Jailer enters the battlefield, you become the monarch."
 msgstr ""
 
 #: ../../CN2.rst:121
-msgid "When Palace Jailer enters the battlefield, exile target creature an opponent controls until an opponent becomes the monarch. (That creature returns under its owner's control.)"
+msgid "When Palace Jailer enters the battlefield, exile target creature an opponent controls until an opponent becomes the monarch."
 msgstr ""
 
 #: ../../CN2.rst:126
@@ -272,7 +272,7 @@ msgid ":mtgtip:`Recruiter of the Guard<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../CN2.rst:143
-msgid "When Recruiter of the Guard enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle your library."
+msgid "When Recruiter of the Guard enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:150
@@ -284,7 +284,7 @@ msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgstr ""
 
 #: ../../CN2.rst:149
-msgid "Noncreature spells with converted mana cost equal to the chosen number can't be cast."
+msgid "Noncreature spells with mana value equal to the chosen number can't be cast."
 msgstr ""
 
 #: ../../CN2.rst:158
@@ -300,7 +300,7 @@ msgid "Enchant creature"
 msgstr ""
 
 #: ../../CN2.rst:155
-msgid "Enchanted creature can't attack you or a planeswalker you control."
+msgid "Enchanted creature can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../CN2.rst:157
@@ -581,7 +581,7 @@ msgid "As you draft a card, you may reveal it, note its name, then turn Smuggler
 msgstr ""
 
 #: ../../CN2.rst:293
-msgid "When Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle your library."
+msgid "When Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:300
@@ -736,7 +736,7 @@ msgid ":mtgtip:`Borderland Explorer<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../CN2.rst:377
-msgid "When Borderland Explorer enters the battlefield, each player may discard a card. Each player who discarded a card this way may search their library for a basic land card, reveal it, put it into their hand, then shuffle their library."
+msgid "When Borderland Explorer enters the battlefield, each player may discard a card. Each player who discarded a card this way may search their library for a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:384
@@ -748,7 +748,7 @@ msgid "Before you shuffle your deck to start the game, you may reveal this card 
 msgstr ""
 
 #: ../../CN2.rst:383
-msgid "|mana_x|, |tap|: Create a token that's a copy of a card you exiled with cards named Caller of the Untamed. X is the converted mana cost of that card."
+msgid "|mana_x|, |tap|: Create a token that's a copy of a card you exiled with cards named Caller of the Untamed. X is the mana value of that card."
 msgstr ""
 
 #: ../../CN2.rst:390
@@ -1033,7 +1033,7 @@ msgid "Creatures you control get +1/+2 until end of turn. Untap those creatures.
 msgstr ""
 
 #: ../../CN2.rst:531
-msgid "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CN2.rst:538
@@ -1045,7 +1045,7 @@ msgid "Target creature you control gains protection from the color of your choic
 msgstr ""
 
 #: ../../CN2.rst:537
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../CN2.rst:546
@@ -1207,7 +1207,7 @@ msgid "Tap target permanent an opponent controls."
 msgstr ""
 
 #: ../../CN2.rst:644
-msgid ":mtgtip:`Desertion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b362151e-4ad6-4ae9-91e5-0e4a69d53ca5.jpg?1576382399|https://scryfall.com/card/cn2/107/desertion?utm_source=api>`"
+msgid ":mtgtip:`Desertion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b362151e-4ad6-4ae9-91e5-0e4a69d53ca5.jpg?1618294831|https://scryfall.com/card/cn2/107/desertion?utm_source=api>`"
 msgstr ""
 
 #: ../../CN2.rst:643
@@ -1348,7 +1348,7 @@ msgid ":mtgtip:`Traumatic Visions<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CN2.rst:723
-msgid "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CN2.rst:730
@@ -1376,7 +1376,7 @@ msgid "Target player loses 4 life and you gain 4 life."
 msgstr ""
 
 #: ../../CN2.rst:741
-msgid "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CN2.rst:748
@@ -1432,7 +1432,7 @@ msgid ":mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CN2.rst:773
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:778
@@ -1440,7 +1440,7 @@ msgid ":mtgtip:`Driver of the Dead<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CN2.rst:777
-msgid "When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "When Driver of the Dead dies, return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../CN2.rst:782
@@ -1500,7 +1500,7 @@ msgid ":mtgtip:`Inquisition of Kozilek<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../CN2.rst:811
-msgid "Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card."
+msgid "Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card."
 msgstr ""
 
 #: ../../CN2.rst:820
@@ -1644,7 +1644,7 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr ""
 
 #: ../../CN2.rst:887
-msgid "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CN2.rst:892
@@ -1849,7 +1849,7 @@ msgid ":mtgtip:`Explosive Vegetation<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../CN2.rst:999
-msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:1004
@@ -1893,7 +1893,7 @@ msgid ":mtgtip:`Lay of the Land<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CN2.rst:1025
-msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:1030
@@ -1901,7 +1901,7 @@ msgid ":mtgtip:`Manaplasm<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../CN2.rst:1029
-msgid "Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost."
+msgid "Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's mana value."
 msgstr ""
 
 #: ../../CN2.rst:1036
@@ -1978,7 +1978,7 @@ msgid "Target player gains 8 life."
 msgstr ""
 
 #: ../../CN2.rst:1069
-msgid "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CN2.rst:1074
@@ -1994,7 +1994,7 @@ msgid ":mtgtip:`Wild Pair<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../CN2.rst:1077
-msgid "Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library."
+msgid "Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:1082
@@ -2046,7 +2046,7 @@ msgid ":mtgtip:`Duskmantle Seer<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CN2.rst:1109
-msgid "At the beginning of your upkeep, each player reveals the top card of their library, loses life equal to that card's converted mana cost, then puts it into their hand."
+msgid "At the beginning of your upkeep, each player reveals the top card of their library, loses life equal to that card's mana value, then puts it into their hand."
 msgstr ""
 
 #: ../../CN2.rst:1114
@@ -2090,7 +2090,7 @@ msgid ":mtgtip:`Stormchaser Chimera<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../CN2.rst:1135
-msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's mana value. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../CN2.rst:1138
@@ -2102,7 +2102,7 @@ msgid ":mtgtip:`Hedron Matrix<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CN2.rst:1143
-msgid "Equipped creature gets +X/+X, where X is its converted mana cost."
+msgid "Equipped creature gets +X/+X, where X is its mana value."
 msgstr ""
 
 #: ../../CN2.rst:1145
@@ -2178,7 +2178,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CN2.rst:1189
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CN2.rst:1194

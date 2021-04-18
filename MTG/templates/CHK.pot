@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -162,7 +162,7 @@ msgid "|mana_1|: Look at the top card of your library."
 msgstr ""
 
 #: ../../CHK.rst:65
-msgid "|mana_2|: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:72
@@ -233,7 +233,7 @@ msgstr ""
 #: ../../CHK.rst:611
 #: ../../CHK.rst:771
 #: ../../CHK.rst:1303
-msgid "Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)"
+msgid "Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:98
@@ -306,7 +306,7 @@ msgstr ""
 
 #: ../../CHK.rst:131
 #: ../../CHK.rst:637
-msgid "Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)"
+msgid "Soulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:138
@@ -490,7 +490,7 @@ msgid ":mtgtip:`Sensei Golden-Tail<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CHK.rst:239
-msgid "|mana_1|\\ |mana_w|, |tap|: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_w|, |tap|: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate only as a sorcery."
 msgstr ""
 
 #: ../../CHK.rst:244
@@ -562,7 +562,7 @@ msgid ":mtgtip:`Callous Deceiver<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CHK.rst:285
-msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:292
@@ -611,7 +611,7 @@ msgid ":mtgtip:`Eerie Procession<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CHK.rst:309
-msgid "Search your library for an Arcane card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "Search your library for an Arcane card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:314
@@ -647,7 +647,7 @@ msgid ":mtgtip:`Gifts Ungiven<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CHK.rst:329
-msgid "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library."
+msgid "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:334
@@ -679,7 +679,7 @@ msgid ":mtgtip:`Hisoka, Minamo Sensei<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../CHK.rst:345
-msgid "|mana_2|\\ |mana_u|, Discard a card: Counter target spell if it has the same converted mana cost as the discarded card."
+msgid "|mana_2|\\ |mana_u|, Discard a card: Counter target spell if it has the same mana value as the discarded card."
 msgstr ""
 
 #: ../../CHK.rst:350
@@ -836,7 +836,7 @@ msgid ":mtgtip:`Reweave<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../CHK.rst:433
-msgid "Target permanent's controller sacrifices it. If the player does, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent, put that card onto the battlefield, then shuffle their library."
+msgid "Target permanent's controller sacrifices it. If the player does, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:435
@@ -856,7 +856,7 @@ msgid "Draw two cards, then discard a card."
 msgstr ""
 
 #: ../../CHK.rst:445
-msgid "If you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle your library."
+msgid "If you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:452
@@ -964,7 +964,7 @@ msgid ":mtgtip:`Thoughtbind<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../CHK.rst:517
-msgid "Counter target spell with converted mana cost 4 or less."
+msgid "Counter target spell with mana value 4 or less."
 msgstr ""
 
 #: ../../CHK.rst:522
@@ -1020,7 +1020,7 @@ msgid ":mtgtip:`Blood Speaker<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CHK.rst:549
-msgid "At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library."
+msgid "At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:551
@@ -1036,7 +1036,7 @@ msgid "|tap|: Put a devotion counter on Bloodthirsty Ogre."
 msgstr ""
 
 #: ../../CHK.rst:557
-msgid "|tap|: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate this ability only if you control a Demon."
+msgid "|tap|: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate only if you control a Demon."
 msgstr ""
 
 #: ../../CHK.rst:562
@@ -1044,7 +1044,7 @@ msgid ":mtgtip:`Cranial Extraction<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CHK.rst:561
-msgid "Choose a nonland card name. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles their library."
+msgid "Choose a nonland card name. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../CHK.rst:568
@@ -1052,7 +1052,7 @@ msgid ":mtgtip:`Cruel Deceiver<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CHK.rst:567
-msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains \"Whenever Cruel Deceiver deals damage to a creature, destroy that creature\" until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains \"Whenever Cruel Deceiver deals damage to a creature, destroy that creature\" until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:574
@@ -1107,7 +1107,7 @@ msgstr ""
 #: ../../CHK.rst:597
 #: ../../CHK.rst:1081
 #: ../../CHK.rst:1243
-msgid "Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)"
+msgid "Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:604
@@ -1129,7 +1129,7 @@ msgid ":mtgtip:`He Who Hungers<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CHK.rst:609
-msgid "|mana_1|, Sacrifice a Spirit: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, Sacrifice a Spirit: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../CHK.rst:618
@@ -1165,7 +1165,7 @@ msgid ":mtgtip:`Iname, Death Aspect<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../CHK.rst:631
-msgid "When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library."
+msgid "When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards, put them into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:638
@@ -1249,7 +1249,7 @@ msgid ":mtgtip:`Nezumi Bone-Reader<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CHK.rst:683
-msgid "|mana_b|, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_b|, Sacrifice a creature: Target player discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../CHK.rst:690
@@ -1310,7 +1310,7 @@ msgid "Whenever a source you control deals damage to another player, put that ma
 msgstr ""
 
 #: ../../CHK.rst:715
-msgid "|mana_2|\\ |mana_b|\\ |mana_b|, Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|, Remove X theft counters from Night Dealings: Search your library for a nonland card with mana value X, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:720
@@ -1446,7 +1446,7 @@ msgid "Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life 
 msgstr ""
 
 #: ../../CHK.rst:795
-msgid "Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)"
+msgid "Soulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:802
@@ -1482,7 +1482,7 @@ msgid ":mtgtip:`Akki Avalanchers<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CHK.rst:813
-msgid "Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate this ability only once each turn."
+msgid "Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:820
@@ -1584,7 +1584,7 @@ msgid ":mtgtip:`Brutal Deceiver<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CHK.rst:871
-msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:876
@@ -1658,7 +1658,7 @@ msgid ":mtgtip:`Godo, Bandit Warlord<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../CHK.rst:911
-msgid "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library."
+msgid "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:913
@@ -1678,7 +1678,7 @@ msgid ":mtgtip:`Hearth Kami<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../CHK.rst:921
-msgid "|mana_x|, Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X."
+msgid "|mana_x|, Sacrifice Hearth Kami: Destroy target artifact with mana value X."
 msgstr ""
 
 #: ../../CHK.rst:926
@@ -1762,7 +1762,7 @@ msgid ":mtgtip:`Mindblaze<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../CHK.rst:965
-msgid "Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles their library."
+msgid "Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles."
 msgstr ""
 
 #: ../../CHK.rst:974
@@ -2010,7 +2010,7 @@ msgid ":mtgtip:`Feral Deceiver<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CHK.rst:1103
-msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CHK.rst:1108
@@ -2151,7 +2151,7 @@ msgid ":mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CHK.rst:1179
-msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:1186
@@ -2285,7 +2285,7 @@ msgid ":mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CHK.rst:1253
-msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:1264
@@ -2357,7 +2357,7 @@ msgid ":mtgtip:`Thousand-legged Kami<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../CHK.rst:1293
-msgid "Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)"
+msgid "Soulshift 7 (When this creature dies, you may return target Spirit card with mana value 7 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:1298
@@ -2365,7 +2365,7 @@ msgid ":mtgtip:`Time of Need<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../CHK.rst:1297
-msgid "Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:1304
@@ -2381,7 +2381,7 @@ msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../CHK.rst:1309
-msgid "Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)"
+msgid "Soulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../CHK.rst:1316
@@ -2470,7 +2470,7 @@ msgid ":mtgtip:`Journeyer's Kite<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CHK.rst:1351
-msgid "|mana_3|, |tap|: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CHK.rst:1356

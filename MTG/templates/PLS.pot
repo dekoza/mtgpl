@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -164,7 +164,7 @@ msgid ":mtgtip:`Planeswalker's Mirth<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../PLS.rst:69
-msgid "|mana_3|\\ |mana_w|: Target opponent reveals a card at random from their hand. You gain life equal to that card's converted mana cost."
+msgid "|mana_3|\\ |mana_w|: Target opponent reveals a card at random from their hand. You gain life equal to that card's mana value."
 msgstr ""
 
 #: ../../PLS.rst:76
@@ -286,7 +286,7 @@ msgid "Kicker—|mana_2|\\ |mana_b|, Discard a creature card. (You may pay |mana
 msgstr ""
 
 #: ../../PLS.rst:133
-msgid "If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost."
+msgid "If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's mana value."
 msgstr ""
 
 #: ../../PLS.rst:138
@@ -334,7 +334,7 @@ msgid ":mtgtip:`Planeswalker's Mischief<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../PLS.rst:159
-msgid "|mana_3|\\ |mana_u|: Target opponent reveals a card at random from their hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_u|: Target opponent reveals a card at random from their hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../PLS.rst:166
@@ -476,7 +476,7 @@ msgid ":mtgtip:`Diabolic Intent<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../PLS.rst:241
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../PLS.rst:246
@@ -576,7 +576,7 @@ msgid ":mtgtip:`Planeswalker's Scorn<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../PLS.rst:291
-msgid "|mana_3|\\ |mana_b|: Target opponent reveals a card at random from their hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_b|: Target opponent reveals a card at random from their hand. Target creature gets -X/-X until end of turn, where X is the revealed card's mana value. Activate only as a sorcery."
 msgstr ""
 
 #: ../../PLS.rst:296
@@ -732,7 +732,7 @@ msgid ":mtgtip:`Planeswalker's Fury<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../PLS.rst:383
-msgid "|mana_3|\\ |mana_r|: Target opponent reveals a card at random from their hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_r|: Target opponent reveals a card at random from their hand. Planeswalker's Fury deals damage equal to that card's mana value to that player. Activate only as a sorcery."
 msgstr ""
 
 #: ../../PLS.rst:388
@@ -881,7 +881,7 @@ msgid ":mtgtip:`Planeswalker's Favor<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../PLS.rst:461
-msgid "|mana_3|\\ |mana_g|: Target opponent reveals a card at random from their hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost."
+msgid "|mana_3|\\ |mana_g|: Target opponent reveals a card at random from their hand. Target creature gets +X/+X until end of turn, where X is the revealed card's mana value."
 msgstr ""
 
 #: ../../PLS.rst:468
@@ -893,7 +893,7 @@ msgid "Kicker—Sacrifice a creature. (You may sacrifice a creature in addition 
 msgstr ""
 
 #: ../../PLS.rst:467
-msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../PLS.rst:472
@@ -1103,7 +1103,7 @@ msgid ":mtgtip:`Eladamri's Call<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../PLS.rst:579
-msgid "Search your library for a creature card, reveal that card, put it into your hand, then shuffle your library."
+msgid "Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../PLS.rst:584
@@ -1380,7 +1380,7 @@ msgid ":mtgtip:`Skyship Weatherlight<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../PLS.rst:737
-msgid "When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library."
+msgid "When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards, exile them, then shuffle."
 msgstr ""
 
 #: ../../PLS.rst:739
@@ -1488,7 +1488,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../PLS.rst:793
-msgid "|mana_2|, |tap|, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Terminal Moraine: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../PLS.rst:799

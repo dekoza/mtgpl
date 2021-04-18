@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -489,7 +489,7 @@ msgid "Enchant artifact"
 msgstr ""
 
 #: ../../3ED.rst:235
-msgid "As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost."
+msgid "As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../3ED.rst:244
@@ -803,7 +803,7 @@ msgid ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../3ED.rst:411
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+msgid "Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../3ED.rst:418
@@ -1015,7 +1015,7 @@ msgid ":mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../3ED.rst:529
-msgid "Search your library for a card, put that card into your hand, then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../3ED.rst:536
@@ -1149,7 +1149,7 @@ msgid ":mtgtip:`Nettling Imp<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../3ED.rst:599
-msgid "|tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate this ability only during an opponent's turn, before attackers are declared."
+msgid "|tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared."
 msgstr ""
 
 #: ../../3ED.rst:606
@@ -1221,7 +1221,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
 #: ../../3ED.rst:639
-msgid "Add an amount of |mana_b| equal to the sacrificed creature's converted mana cost."
+msgid "Add an amount of |mana_b| equal to the sacrificed creature's mana value."
 msgstr ""
 
 #: ../../3ED.rst:642
@@ -1377,7 +1377,7 @@ msgid ":mtgtip:`Dwarven Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../3ED.rst:735
-msgid "|tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep."
+msgid "|tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate only during your upkeep."
 msgstr ""
 
 #: ../../3ED.rst:738
@@ -1597,7 +1597,7 @@ msgid "|mana_r|: Prevent the next 1 damage that would be dealt to Rock Hydra thi
 msgstr ""
 
 #: ../../3ED.rst:867
-msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep."
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep."
 msgstr ""
 
 #: ../../3ED.rst:874
@@ -1737,7 +1737,7 @@ msgid ":mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../3ED.rst:951
-msgid "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost."
+msgid "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value."
 msgstr ""
 
 #: ../../3ED.rst:956
@@ -1845,7 +1845,7 @@ msgid "Enchanted creature can attack as though it had haste."
 msgstr ""
 
 #: ../../3ED.rst:1009
-msgid "|mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn."
+msgid "|mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn."
 msgstr ""
 
 #: ../../3ED.rst:1012
@@ -1973,7 +1973,7 @@ msgid ":mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../3ED.rst:1087
-msgid "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn."
+msgid "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn."
 msgstr ""
 
 #: ../../3ED.rst:1092
@@ -2158,7 +2158,7 @@ msgid "At end of combat, if Clockwork Beast attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../3ED.rst:1191
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
 msgstr ""
 
 #: ../../3ED.rst:1196
@@ -2194,7 +2194,7 @@ msgid ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../3ED.rst:1211
-msgid "|mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_3|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../3ED.rst:1216
@@ -2422,7 +2422,7 @@ msgid ":mtgtip:`Rocket Launcher<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../3ED.rst:1335
-msgid "|mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn."
+msgid "|mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn."
 msgstr ""
 
 #: ../../3ED.rst:1340

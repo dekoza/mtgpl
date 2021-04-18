@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,7 +107,7 @@ msgid ":mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../C15.rst:37
-msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library."
+msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:48
@@ -482,7 +482,7 @@ msgid "Return target permanent card from your graveyard to your hand."
 msgstr ""
 
 #: ../../C15.rst:241
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:250
@@ -538,7 +538,7 @@ msgid "Double strike, vigilance"
 msgstr ""
 
 #: ../../C15.rst:273
-msgid "Whenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter."
+msgid "Whenever you cast a creature spell with mana value 5 or greater, you get an experience counter."
 msgstr ""
 
 #: ../../C15.rst:275
@@ -582,7 +582,7 @@ msgid "Whenever another creature you control dies, you get an experience counter
 msgstr ""
 
 #: ../../C15.rst:297
-msgid "At the beginning of your end step, choose target creature card in your graveyard. If that card's converted mana cost is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand."
+msgid "At the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand."
 msgstr ""
 
 #: ../../C15.rst:304
@@ -590,7 +590,7 @@ msgid ":mtgtip:`Mizzix of the Izmagnus<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../C15.rst:301
-msgid "Whenever you cast an instant or sorcery spell with converted mana cost greater than the number of experience counters you have, you get an experience counter."
+msgid "Whenever you cast an instant or sorcery spell with mana value greater than the number of experience counters you have, you get an experience counter."
 msgstr ""
 
 #: ../../C15.rst:303
@@ -938,7 +938,7 @@ msgid "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spel
 msgstr ""
 
 #: ../../C15.rst:477
-msgid "Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature."
+msgid "Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's mana value to target creature."
 msgstr ""
 
 #: ../../C15.rst:482
@@ -970,7 +970,7 @@ msgid ":mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../C15.rst:497
-msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../C15.rst:504
@@ -986,7 +986,7 @@ msgid ":mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../C15.rst:509
-msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control."
+msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../C15.rst:514
@@ -1062,7 +1062,7 @@ msgid ":mtgtip:`Dominate<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../C15.rst:547
-msgid "Gain control of target creature with converted mana cost X or less."
+msgid "Gain control of target creature with mana value X or less."
 msgstr ""
 
 #: ../../C15.rst:552
@@ -1179,7 +1179,7 @@ msgid ":mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../C15.rst:609
-msgid "Return target nonland permanent with converted mana cost X to its owner's hand."
+msgid "Return target nonland permanent with mana value X to its owner's hand."
 msgstr ""
 
 #: ../../C15.rst:618
@@ -1524,7 +1524,7 @@ msgid ":mtgtip:`Vow of Malice<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../C15.rst:795
-msgid "Enchanted creature gets +2/+2, has intimidate, and can't attack you or a planeswalker you control. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgid "Enchanted creature gets +2/+2, has intimidate, and can't attack you or planeswalkers you control. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
 
 #: ../../C15.rst:802
@@ -1636,7 +1636,7 @@ msgid "As an additional cost to cast this spell, reveal a creature card from you
 msgstr ""
 
 #: ../../C15.rst:853
-msgid "Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost."
+msgid "Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value."
 msgstr ""
 
 #: ../../C15.rst:860
@@ -2010,7 +2010,7 @@ msgid ":mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../C15.rst:1059
-msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1066
@@ -2114,7 +2114,7 @@ msgid "Kicker—Sacrifice a creature. (You may sacrifice a creature in addition 
 msgstr ""
 
 #: ../../C15.rst:1115
-msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1120
@@ -2122,7 +2122,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../C15.rst:1119
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1124
@@ -2130,7 +2130,7 @@ msgid ":mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../C15.rst:1123
-msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1128
@@ -2206,7 +2206,7 @@ msgid ":mtgtip:`Viridian Emissary<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C15.rst:1163
-msgid "When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1168
@@ -2242,7 +2242,7 @@ msgid ":mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../C15.rst:1181
-msgid "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
+msgid "When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1186
@@ -2278,7 +2278,7 @@ msgid ":mtgtip:`Epic Experiment<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C15.rst:1201
-msgid "Exile the top X cards of your library. You may cast instant and sorcery spells with converted mana cost X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard."
+msgid "Exile the top X cards of your library. You may cast instant and sorcery spells with mana value X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard."
 msgstr ""
 
 #: ../../C15.rst:1208
@@ -2298,7 +2298,7 @@ msgid ":mtgtip:`Firemind's Foresight<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../C15.rst:1211
-msgid "Search your library for an instant card with converted mana cost 3, reveal it, and put it into your hand. Then repeat this process for instant cards with converted mana costs 2 and 1. Then shuffle your library."
+msgid "Search your library for an instant card with mana value 3, reveal it, and put it into your hand. Then repeat this process for instant cards with mana values 2 and 1. Then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1220
@@ -2622,7 +2622,7 @@ msgid ":mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../C15.rst:1387
-msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1396
@@ -2840,7 +2840,7 @@ msgid ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C15.rst:1499
-msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1501
@@ -2892,7 +2892,7 @@ msgid ":mtgtip:`Wayfarer's Bauble<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C15.rst:1529
-msgid "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1536
@@ -2993,7 +2993,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../C15.rst:1585
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1594
@@ -3020,7 +3020,7 @@ msgid ":mtgtip:`Ghost Quarter<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../C15.rst:1599
-msgid "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library."
+msgid "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1606
@@ -3307,7 +3307,7 @@ msgid ":mtgtip:`Tainted Field<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../C15.rst:1787
-msgid "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp."
+msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../C15.rst:1794
@@ -3315,7 +3315,7 @@ msgid ":mtgtip:`Tainted Wood<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../C15.rst:1793
-msgid "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a Swamp."
+msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../C15.rst:1798
@@ -3323,7 +3323,7 @@ msgid ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../C15.rst:1797
-msgid "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you control five or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or more lands."
 msgstr ""
 
 #: ../../C15.rst:1802
@@ -3331,7 +3331,7 @@ msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../C15.rst:1801
-msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../C15.rst:1810

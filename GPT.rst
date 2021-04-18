@@ -28,7 +28,7 @@
 
 
 :mtgtip:`Droning Bureaucrats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/756eb23a-c6de-439a-b83d-e694cfae7ccb.jpg?1593271833|https://scryfall.com/card/gpt/4/droning-bureaucrats?utm_source=api>`
-   |mana_x|, |tap|: Each creature with converted mana cost X can't attack or block this turn.
+   |mana_x|, |tap|: Each creature with mana value X can't attack or block this turn.
 
 
 :mtgtip:`Ghost Warden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4304abfe-3c81-4053-a398-574cfac613a7.jpg?1593271840|https://scryfall.com/card/gpt/5/ghost-warden?utm_source=api>`
@@ -172,7 +172,7 @@
 :mtgtip:`Mimeofacture<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4ada33a-5b7c-426a-8416-4ce01bccaa5c.jpg?1593272038|https://scryfall.com/card/gpt/30/mimeofacture?utm_source=api>`
    Replicate |mana_3|\ |mana_u| (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
 
-   Choose target permanent an opponent controls. Search that player's library for a card with the same name and put it onto the battlefield under your control. Then that player shuffles their library.
+   Choose target permanent an opponent controls. Search that player's library for a card with the same name and put it onto the battlefield under your control. Then that player shuffles.
 
 
 :mtgtip:`Quicken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a276b12-4647-4223-b89e-f55d72feb2d0.jpg?1593272048|https://scryfall.com/card/gpt/31/quicken?utm_source=api>`
@@ -182,7 +182,7 @@
 
 
 :mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e7dd929-4bba-46a6-86c9-b8ed853eb721.jpg?1593272056|https://scryfall.com/card/gpt/32/repeal?utm_source=api>`
-   Return target nonland permanent with converted mana cost X to its owner's hand.
+   Return target nonland permanent with mana value X to its owner's hand.
 
    Draw a card.
 
@@ -266,7 +266,7 @@
 
 
 :mtgtip:`Cryptwailing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13337c99-7d9e-4464-905b-87e8deb072ac.jpg?1593272173|https://scryfall.com/card/gpt/47/cryptwailing?utm_source=api>`
-   |mana_1|, Exile two creature cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, Exile two creature cards from your graveyard: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Daggerclaw Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d285981-f342-4679-a199-cf5d003407e8.jpg?1593272180|https://scryfall.com/card/gpt/48/daggerclaw-imp?utm_source=api>`
@@ -334,7 +334,7 @@
 
 
 :mtgtip:`Sanguine Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8291b1a9-2d04-4dd7-b8c5-3b1018aa0d2f.jpg?1593272269|https://scryfall.com/card/gpt/60/sanguine-praetor?utm_source=api>`
-   |mana_b|, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.
+   |mana_b|, Sacrifice a creature: Destroy each creature with the same mana value as the sacrificed creature.
 
 
 :mtgtip:`Seize the Soul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29bf245f-e8e0-4d32-8cd7-06d832609910.jpg?1593272276|https://scryfall.com/card/gpt/61/seize-the-soul?utm_source=api>`
@@ -372,7 +372,7 @@
 :mtgtip:`Ghor-Clan Bloodscale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00cab68b-ee26-46eb-a18b-9b42bf2d10e5.jpg?1593272312|https://scryfall.com/card/gpt/66/ghor-clan-bloodscale?utm_source=api>`
    First strike
 
-   |mana_3|\ |mana_g|: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_3|\ |mana_g|: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Hypervolt Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdaa3c6e-1f8a-4580-8e03-e670f50ab958.jpg?1593272318|https://scryfall.com/card/gpt/67/hypervolt-grasp?utm_source=api>`
@@ -398,7 +398,7 @@
 
 
 :mtgtip:`Parallectric Feedback<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/891f1d29-377a-4f71-917f-ff10e785caee.jpg?1593272344|https://scryfall.com/card/gpt/71/parallectric-feedback?utm_source=api>`
-   Parallectric Feedback deals damage to target spell's controller equal to that spell's converted mana cost.
+   Parallectric Feedback deals damage to target spell's controller equal to that spell's mana value.
 
 
 :mtgtip:`Pyromatics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c22c9dab-e8d5-48b3-8fd2-9f4138ee0c7c.jpg?1593272350|https://scryfall.com/card/gpt/72/pyromatics?utm_source=api>`
@@ -434,7 +434,7 @@
 
    Flying
 
-   |mana_r|\ |mana_r|\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.
+   |mana_r|\ |mana_r|\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn.
 
 
 :mtgtip:`Tin Street Hooligan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad525bb3-15fd-4887-a3e7-0a036258dcc7.jpg?1593272393|https://scryfall.com/card/gpt/78/tin-street-hooligan?utm_source=api>`
@@ -606,7 +606,7 @@
 
 
 :mtgtip:`Culling Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ec5a956-c846-46b6-91bd-37e4db542280.jpg?1593272635|https://scryfall.com/card/gpt/109/culling-sun?utm_source=api>`
-   Destroy each creature with converted mana cost 3 or less.
+   Destroy each creature with mana value 3 or less.
 
 
 :mtgtip:`Dune-Brood Nephilim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b4ee44-28c4-4a39-9c06-aca43787954f.jpg?1593272643|https://scryfall.com/card/gpt/110/dune-brood-nephilim?utm_source=api>`
@@ -814,9 +814,9 @@
 :mtgtip:`Izzet Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecce6ade-8741-4567-8ed3-3e03becc6f1b.jpg?1593272890|https://scryfall.com/card/gpt/145/izzet-guildmage?utm_source=api>`
    (|mana_ur| can be paid with either |mana_u| or |mana_r|.)
 
-   |mana_2|\ |mana_u|: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+   |mana_2|\ |mana_u|: Copy target instant spell you control with mana value 2 or less. You may choose new targets for the copy.
 
-   |mana_2|\ |mana_r|: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+   |mana_2|\ |mana_r|: Copy target sorcery spell you control with mana value 2 or less. You may choose new targets for the copy.
 
 
 :mtgtip:`Mourning Thrull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e2a217a-e47b-4874-9861-bb57c7b1f06a.jpg?1593272896|https://scryfall.com/card/gpt/146/mourning-thrull?utm_source=api>`

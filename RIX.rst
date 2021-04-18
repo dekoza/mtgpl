@@ -6,7 +6,7 @@
 
 
 :mtgtip:`Baffling End<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/208c6f51-3c00-4fc6-8579-8f57444d0e97.jpg?1555039647|https://scryfall.com/card/rix/1/baffling-end?utm_source=api>`
-   When Baffling End enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less.
+   When Baffling End enters the battlefield, exile target creature an opponent controls with mana value 3 or less.
 
    When Baffling End leaves the battlefield, target opponent creates a 3/3 green Dinosaur creature token with trample.
 
@@ -48,7 +48,7 @@
 
 
 :mtgtip:`Forerunner of the Legion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10718d37-63d4-44b7-9450-5d49cffce944.jpg?1555039699|https://scryfall.com/card/rix/9/forerunner-of-the-legion?utm_source=api>`
-   When Forerunner of the Legion enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle your library and put that card on top of it.
+   When Forerunner of the Legion enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle and put that card on top.
 
    Whenever another Vampire enters the battlefield under your control, target creature gets +1/+1 until end of turn.
 
@@ -58,7 +58,7 @@
 
 
 :mtgtip:`Legion Conquistador<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba197b31-97b8-447e-b8fd-3eefd5ccdc72.jpg?1555039713|https://scryfall.com/card/rix/11/legion-conquistador?utm_source=api>`
-   When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library.
+   When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Luminous Bonds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2ca3a547-ef22-4b87-b90f-e8ffb42f73ac.jpg?1555039719|https://scryfall.com/card/rix/12/luminous-bonds?utm_source=api>`
@@ -318,7 +318,7 @@
 :mtgtip:`Timestream Navigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14770537-209a-4260-88a4-30f4e2b5ede0.jpg?1555040085|https://scryfall.com/card/rix/59/timestream-navigator?utm_source=api>`
    Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
 
-   |mana_2|\ |mana_u|\ |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing.
+   |mana_2|\ |mana_u|\ |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate only if you have the city's blessing.
 
 
 :mtgtip:`Warkite Marauder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/802ff9cf-f739-40cb-8974-77f6850150eb.jpg?1555040094|https://scryfall.com/card/rix/60/warkite-marauder?utm_source=api>`
@@ -384,7 +384,7 @@
 
 
 :mtgtip:`Forerunner of the Coalition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b499fc26-26b0-4b0f-9c62-5ed599baf41d.jpg?1555040225|https://scryfall.com/card/rix/72/forerunner-of-the-coalition?utm_source=api>`
-   When Forerunner of the Coalition enters the battlefield, you may search your library for a Pirate card, reveal it, then shuffle your library and put that card on top of it.
+   When Forerunner of the Coalition enters the battlefield, you may search your library for a Pirate card, reveal it, then shuffle and put that card on top.
 
    Whenever another Pirate enters the battlefield under your control, each opponent loses 1 life.
 
@@ -410,7 +410,7 @@
 :mtgtip:`Mastermind's Acquisition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f00f09b-a113-460e-ac2f-d3988a83179e.jpg?1555040258|https://scryfall.com/card/rix/77/masterminds-acquisition?utm_source=api>`
    Choose one —
 
-   • Search your library for a card, put it into your hand, then shuffle your library.
+   • Search your library for a card, put it into your hand, then shuffle.
 
    • Put a card you own from outside the game into your hand.
 
@@ -460,7 +460,7 @@
 :mtgtip:`Tetzimoc, Primal Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6a0b40e-7a43-4722-b787-a5d7ec6453ac.jpg?1555040321|https://scryfall.com/card/rix/86/tetzimoc-primal-death?utm_source=api>`
    Deathtouch
 
-   |mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate this ability only during your turn.
+   |mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate only during your turn.
 
    When Tetzimoc enters the battlefield, destroy each creature your opponents control with a prey counter on it.
 
@@ -476,7 +476,7 @@
 
    Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
 
-   At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's converted mana cost.
+   At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's mana value.
 
 
 :mtgtip:`Vampire Revenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bd3a6c6-33b8-4530-9d80-c488898afd6e.jpg?1555040340|https://scryfall.com/card/rix/89/vampire-revenant?utm_source=api>`
@@ -548,7 +548,7 @@
 
 
 :mtgtip:`Forerunner of the Empire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/947644ab-02b3-4ebe-b62a-c087ab205ab0.jpg?1555040426|https://scryfall.com/card/rix/102/forerunner-of-the-empire?utm_source=api>`
-   When Forerunner of the Empire enters the battlefield, you may search your library for a Dinosaur card, reveal it, then shuffle your library and put that card on top of it.
+   When Forerunner of the Empire enters the battlefield, you may search your library for a Dinosaur card, reveal it, then shuffle and put that card on top.
 
    Whenever a Dinosaur enters the battlefield under your control, you may have Forerunner of the Empire deal 1 damage to each creature.
 
@@ -686,7 +686,7 @@
 
 
 :mtgtip:`Forerunner of the Heralds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30bc2bd2-adfc-490e-998a-303598e6a942.jpg?1555040630|https://scryfall.com/card/rix/129/forerunner-of-the-heralds?utm_source=api>`
-   When Forerunner of the Heralds enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.
+   When Forerunner of the Heralds enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top.
 
    Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on Forerunner of the Heralds.
 
@@ -778,7 +778,7 @@
 :mtgtip:`Thunderherd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c56de4a3-f5ab-469e-ab66-b8187c8c04a0.jpg?1555040761|https://scryfall.com/card/rix/149/thunderherd-migration?utm_source=api>`
    As an additional cost to cast this spell, reveal a Dinosaur card from your hand or pay |mana_1|.
 
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Wayward Swordtooth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/351e8b1b-4e4e-4ffc-a134-3cf0e2a1dd6d.jpg?1555040769|https://scryfall.com/card/rix/150/wayward-swordtooth?utm_source=api>`
@@ -798,7 +798,7 @@
 :mtgtip:`Angrath, the Flame-Chained<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d76d03-4fcf-42f8-8c2e-ad6b03d58677.jpg?1555040781|https://scryfall.com/card/rix/152/angrath-the-flame-chained?utm_source=api>`
    +1: Each opponent discards a card and loses 2 life.
 
-   −3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less.
+   −3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has mana value 3 or less.
 
    −8: Each opponent loses life equal to the number of cards in their graveyard.
 
@@ -982,7 +982,7 @@
 
 
 :mtgtip:`Azor's Gateway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/303d51ab-b9c4-4647-950f-291daabe7b81.jpg?1555041001|https://scryfall.com/card/rix/176/azors-gateway-sanctum-of-the-sun?utm_source=api>`
-   |mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards with five or more different converted mana costs are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it.
+   |mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards with five or more different mana values are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it.
 
 
 :mtgtip:`Sanctum of the Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/0/303d51ab-b9c4-4647-950f-291daabe7b81.jpg?1555041001|https://scryfall.com/card/rix/176/azors-gateway-sanctum-of-the-sun?utm_source=api>`
@@ -1034,7 +1034,7 @@
 
    |tap|: Add |colorless|.
 
-   |tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate this ability only if you have the city's blessing.
+   |tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate only if you have the city's blessing.
 
 
 :mtgtip:`Silent Gravestone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff60f685-a17e-4be6-bbb6-d14a053533ef.jpg?1555041049|https://scryfall.com/card/rix/182/silent-gravestone?utm_source=api>`
@@ -1050,7 +1050,7 @@
 
 
 :mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/393e2aa2-110e-4824-a9c9-5a76cb2bec23.jpg?1555041061|https://scryfall.com/card/rix/184/travelers-amulet?utm_source=api>`
-   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Arch of Orazca<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6d47162-749b-47d5-9589-8f1dbf60b9f3.jpg?1555041067|https://scryfall.com/card/rix/185/arch-of-orazca?utm_source=api>`
@@ -1058,11 +1058,11 @@
 
    |tap|: Add |colorless|.
 
-   |mana_5|, |tap|: Draw a card. Activate this ability only if you have the city's blessing.
+   |mana_5|, |tap|: Draw a card. Activate only if you have the city's blessing.
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62df0466-3bb4-423c-aae8-412205fb9f14.jpg?1555041073|https://scryfall.com/card/rix/186/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Forsaken Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32e5daf3-6a55-4c2f-92d1-33e0755ee280.jpg?1555041080|https://scryfall.com/card/rix/187/forsaken-sanctuary?utm_source=api>`
@@ -1132,7 +1132,7 @@
 
 
 :mtgtip:`Vraska's Scorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/569ff807-365d-4f25-9fad-86617ed1c8f2.jpg?1555041181|https://scryfall.com/card/rix/200/vraskas-scorn?utm_source=api>`
-   Target opponent loses 4 life. You may search your library and/or graveyard for a card named Vraska, Scheming Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Target opponent loses 4 life. You may search your library and/or graveyard for a card named Vraska, Scheming Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Angrath, Minotaur Pirate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f17103dd-f31b-4f6e-b2ea-4ea91815bdd6.jpg?1555041190|https://scryfall.com/card/rix/201/angrath-minotaur-pirate?utm_source=api>`
@@ -1152,7 +1152,7 @@
 
 
 :mtgtip:`Angrath's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/708006ba-d494-4093-b108-8249b110831e.jpg?1555041214|https://scryfall.com/card/rix/204/angraths-fury?utm_source=api>`
-   Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Cinder Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93f6bd6b-92fb-4b4f-89c2-762cc2c465f3.jpg?1555041220|https://scryfall.com/card/rix/205/cinder-barrens?utm_source=api>`

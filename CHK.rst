@@ -62,7 +62,7 @@
 :mtgtip:`Harsh Deceiver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01e19753-b94b-458f-a51b-c8ec8fbec6c8.jpg?1562757414|https://scryfall.com/card/chk/11/harsh-deceiver?utm_source=api>`
    |mana_1|: Look at the top card of your library.
 
-   |mana_2|: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability only once each turn.
+   |mana_2|: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Hikari, Twilight Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2dc7ba1-6194-45ba-97c5-ad14331cc3a6.jpg?1562765178|https://scryfall.com/card/chk/12/hikari-twilight-guardian?utm_source=api>`
@@ -86,7 +86,7 @@
 :mtgtip:`Hundred-Talon Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7b2892a-5c16-4624-9a47-6a47f10e2466.jpg?1562763454|https://scryfall.com/card/chk/16/hundred-talon-kami?utm_source=api>`
    Flying
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Indomitable Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73263906-c66b-4f85-b138-0b5deda64ab1.jpg?1562761515|https://scryfall.com/card/chk/17/indomitable-will?utm_source=api>`
@@ -128,7 +128,7 @@
 :mtgtip:`Kami of the Palace Fields<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/690980ce-bbdc-4d52-b34e-2bad11e436a1.jpg?1562761049|https://scryfall.com/card/chk/24/kami-of-the-palace-fields?utm_source=api>`
    Flying, first strike
 
-   Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)
+   Soulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Kitsune Blademaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb9d108d-ee19-4b1d-9d4b-b4c4d9b8ad0d.jpg?1562766095|https://scryfall.com/card/chk/25/kitsune-blademaster?utm_source=api>`
@@ -236,7 +236,7 @@
 :mtgtip:`Sensei Golden-Tail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b93dd897-3fb5-48b1-bdff-9383ce1feb21.jpg?1562763745|https://scryfall.com/card/chk/44/sensei-golden-tail?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
-   |mana_1|\ |mana_w|, |tap|: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_w|, |tap|: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate only as a sorcery.
 
 
 :mtgtip:`Silent-Chant Zubera<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/272dfee6-9c90-4409-9289-f451261909e7.jpg?1562758456|https://scryfall.com/card/chk/45/silent-chant-zubera?utm_source=api>`
@@ -282,7 +282,7 @@
 :mtgtip:`Callous Deceiver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/628d3058-d32e-438c-9a86-3e9c2be73c4a.jpg?1562760615|https://scryfall.com/card/chk/53/callous-deceiver?utm_source=api>`
    |mana_1|: Look at the top card of your library.
 
-   |mana_2|: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn.
+   |mana_2|: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Consuming Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/493ee99c-74ca-4d78-ade2-c6a93b0bd4fd.jpg?1562759855|https://scryfall.com/card/chk/54/consuming-vortex?utm_source=api>`
@@ -306,7 +306,7 @@
 
 
 :mtgtip:`Eerie Procession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3af326c1-fcc8-45c3-b75e-ae4dbbd59ced.jpg?1562759357|https://scryfall.com/card/chk/58/eerie-procession?utm_source=api>`
-   Search your library for an Arcane card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for an Arcane card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Eye of Nowhere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b307af89-1890-4fac-a12e-f8a678f1101f.jpg?1562763684|https://scryfall.com/card/chk/59/eye-of-nowhere?utm_source=api>`
@@ -326,7 +326,7 @@
 
 
 :mtgtip:`Gifts Ungiven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32b91eb5-ea53-4a21-a2e5-9c545a42fa30.jpg?1562758915|https://scryfall.com/card/chk/62/gifts-ungiven?utm_source=api>`
-   Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+   Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
 
 
 :mtgtip:`Graceful Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/648430cc-80d1-479f-ae31-76687d2eb57c.jpg?1562761017|https://scryfall.com/card/chk/63/graceful-adept?utm_source=api>`
@@ -342,7 +342,7 @@
 
 
 :mtgtip:`Hisoka, Minamo Sensei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a87aea05-5970-455e-a728-668cf23940a6.jpg?1562763462|https://scryfall.com/card/chk/66/hisoka-minamo-sensei?utm_source=api>`
-   |mana_2|\ |mana_u|, Discard a card: Counter target spell if it has the same converted mana cost as the discarded card.
+   |mana_2|\ |mana_u|, Discard a card: Counter target spell if it has the same mana value as the discarded card.
 
 
 :mtgtip:`Hisoka's Defiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09fd4d01-1204-46a3-b237-45c37985acac.jpg?1562757466|https://scryfall.com/card/chk/67/hisokas-defiance?utm_source=api>`
@@ -430,7 +430,7 @@
 
 
 :mtgtip:`Reweave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4ff68016-80b4-4801-b796-5c5fdbc8faa1.jpg?1562760055|https://scryfall.com/card/chk/82/reweave?utm_source=api>`
-   Target permanent's controller sacrifices it. If the player does, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent, put that card onto the battlefield, then shuffle their library.
+   Target permanent's controller sacrifices it. If the player does, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent, put that card onto the battlefield, then shuffle.
 
    Splice onto Arcane |mana_2|\ |mana_u|\ |mana_u| (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
 
@@ -442,7 +442,7 @@
 :mtgtip:`Sift Through Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/077bde4d-4cdb-42db-acc5-441ed8fa4a5b.jpg?1562757444|https://scryfall.com/card/chk/84/sift-through-sands?utm_source=api>`
    Draw two cards, then discard a card.
 
-   If you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle your library.
+   If you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Sire of the Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e76d003-2d15-43d7-9cbb-e00564d0cabf.jpg?1562758882|https://scryfall.com/card/chk/85/sire-of-the-storm?utm_source=api>`
@@ -514,7 +514,7 @@
 
 
 :mtgtip:`Thoughtbind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7919cf41-67bb-4dc4-90de-cf3fa2096c2e.jpg?1593860622|https://scryfall.com/card/chk/96/thoughtbind?utm_source=api>`
-   Counter target spell with converted mana cost 4 or less.
+   Counter target spell with mana value 4 or less.
 
 
 :mtgtip:`Time Stop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f968c5e9-12a8-4542-90b4-84e0238fa375.jpg?1562766084|https://scryfall.com/card/chk/97/time-stop?utm_source=api>`
@@ -546,7 +546,7 @@
 
 
 :mtgtip:`Blood Speaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f218bb94-d5a2-41f6-8bca-b689dcd09a43.jpg?1562765663|https://scryfall.com/card/chk/103/blood-speaker?utm_source=api>`
-   At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library.
+   At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle.
 
    Whenever a Demon enters the battlefield under your control, return Blood Speaker from your graveyard to your hand.
 
@@ -554,17 +554,17 @@
 :mtgtip:`Bloodthirsty Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c557f035-f93b-41ce-b8de-dea79dcf15be.jpg?1562764198|https://scryfall.com/card/chk/104/bloodthirsty-ogre?utm_source=api>`
    |tap|: Put a devotion counter on Bloodthirsty Ogre.
 
-   |tap|: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate this ability only if you control a Demon.
+   |tap|: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate only if you control a Demon.
 
 
 :mtgtip:`Cranial Extraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8cad7a3-777e-4c84-b404-5f504844ab3b.jpg?1562763464|https://scryfall.com/card/chk/105/cranial-extraction?utm_source=api>`
-   Choose a nonland card name. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles their library.
+   Choose a nonland card name. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles.
 
 
 :mtgtip:`Cruel Deceiver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cc6972a-5305-423f-a936-16ee0fbf9200.jpg?1562761990|https://scryfall.com/card/chk/106/cruel-deceiver?utm_source=api>`
    |mana_1|: Look at the top card of your library.
 
-   |mana_2|: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains "Whenever Cruel Deceiver deals damage to a creature, destroy that creature" until end of turn. Activate this ability only once each turn.
+   |mana_2|: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains "Whenever Cruel Deceiver deals damage to a creature, destroy that creature" until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Cursed Ronin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8f24fe9-22c4-4e53-9d7a-3cbf5533ac9b.jpg?1562763743|https://scryfall.com/card/chk/107/cursed-ronin?utm_source=api>`
@@ -594,7 +594,7 @@
 :mtgtip:`Gibbering Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a3e988f-314c-4e83-b279-c2a736933e64.jpg?1562762959|https://scryfall.com/card/chk/112/gibbering-kami?utm_source=api>`
    Flying
 
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Gutwrencher Oni<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7698a5da-5c70-4818-927b-3a923314e537.jpg?1562761553|https://scryfall.com/card/chk/113/gutwrencher-oni?utm_source=api>`
@@ -606,9 +606,9 @@
 :mtgtip:`He Who Hungers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1ccf0f8d-f988-45ec-b75b-d97206326cfb.jpg?1562757975|https://scryfall.com/card/chk/114/he-who-hungers?utm_source=api>`
    Flying
 
-   |mana_1|, Sacrifice a Spirit: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, Sacrifice a Spirit: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/941fd135-1c5a-4650-8faf-dfa2c93ec8c9.jpg?1562762525|https://scryfall.com/card/chk/115/hideous-laughter?utm_source=api>`
@@ -628,13 +628,13 @@
 
 
 :mtgtip:`Iname, Death Aspect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2dd67e11-3dad-4e59-b15d-02911e53fbbf.jpg?1562758878|https://scryfall.com/card/chk/118/iname-death-aspect?utm_source=api>`
-   When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library.
+   When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards, put them into your graveyard, then shuffle.
 
 
 :mtgtip:`Kami of Lunacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4baef070-d265-4c6d-9b4b-3cafbd3b34c3.jpg?1562759872|https://scryfall.com/card/chk/119/kami-of-lunacy?utm_source=api>`
    Flying
 
-   Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)
+   Soulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Kami of the Waning Moon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23a395a6-b1f5-4b7f-87cc-c77b4d497e9a.jpg?1587857631|https://scryfall.com/card/chk/120/kami-of-the-waning-moon?utm_source=api>`
@@ -680,7 +680,7 @@
 
 
 :mtgtip:`Nezumi Bone-Reader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0f27ff7-c7e4-4099-b3ac-6560c6ccba41.jpg?1562764173|https://scryfall.com/card/chk/127/nezumi-bone-reader?utm_source=api>`
-   |mana_b|, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_b|, Sacrifice a creature: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Nezumi Cutthroat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166af8cd-9690-4741-ade3-5d5f9723c431.jpg?1562757917|https://scryfall.com/card/chk/128/nezumi-cutthroat?utm_source=api>`
@@ -712,7 +712,7 @@
 :mtgtip:`Night Dealings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58d012ee-9523-469f-8ddb-f4b664093c13.jpg?1562760139|https://scryfall.com/card/chk/132/night-dealings?utm_source=api>`
    Whenever a source you control deals damage to another player, put that many theft counters on Night Dealings.
 
-   |mana_2|\ |mana_b|\ |mana_b|, Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_2|\ |mana_b|\ |mana_b|, Remove X theft counters from Night Dealings: Search your library for a nonland card with mana value X, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Night of Souls' Betrayal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dce44980-0540-4b31-9a81-35357a4382fa.jpg?1588114601|https://scryfall.com/card/chk/133/night-of-souls-betrayal?utm_source=api>`
@@ -768,7 +768,7 @@
 :mtgtip:`Scuttling Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8d9bf4e-3bb1-4154-b1ff-a3d8a2810c1b.jpg?1562764695|https://scryfall.com/card/chk/142/scuttling-death?utm_source=api>`
    Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Seizan, Perverter of Truth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1e61750-f7d7-4e6d-9d68-e1e357868a8d.jpg?1587857636|https://scryfall.com/card/chk/143/seizan-perverter-of-truth?utm_source=api>`
@@ -792,7 +792,7 @@
 :mtgtip:`Thief of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a3029b8-01e2-4419-817e-318f23d6ce04.jpg?1562757473|https://scryfall.com/card/chk/147/thief-of-hope?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.
 
-   Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)
+   Soulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Villainous Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0277c1ba-eae4-442b-8b80-20869ba20568.jpg?1593860633|https://scryfall.com/card/chk/148/villainous-ogre?utm_source=api>`
@@ -810,7 +810,7 @@
 
 
 :mtgtip:`Akki Avalanchers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfef6acb-a11c-4a3f-9cfb-9394dece2675.jpg?1562764171|https://scryfall.com/card/chk/151/akki-avalanchers?utm_source=api>`
-   Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate this ability only once each turn.
+   Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Akki Coalflinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3793580a-052b-4e33-83ab-290086511a21.jpg?1562759345|https://scryfall.com/card/chk/152/akki-coalflinger?utm_source=api>`
@@ -868,7 +868,7 @@
 :mtgtip:`Brutal Deceiver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3d532b3-4bd6-4c1d-974d-789976117497.jpg?1562765180|https://scryfall.com/card/chk/161/brutal-deceiver?utm_source=api>`
    |mana_1|: Look at the top card of your library.
 
-   |mana_2|: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate this ability only once each turn.
+   |mana_2|: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Crushing Pain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c58b4374-1a50-4574-8493-f5535c1020e8.jpg?1562764199|https://scryfall.com/card/chk/162/crushing-pain?utm_source=api>`
@@ -908,7 +908,7 @@
 
 
 :mtgtip:`Godo, Bandit Warlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcff0b92-edd0-4197-965b-3fd86bc884d8.jpg?1562766107|https://scryfall.com/card/chk/169/godo-bandit-warlord?utm_source=api>`
-   When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.
+   When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card, put it onto the battlefield, then shuffle.
 
    Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.
 
@@ -918,7 +918,7 @@
 
 
 :mtgtip:`Hearth Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7361289-5111-49c2-a786-b7181384596b.jpg?1562764681|https://scryfall.com/card/chk/171/hearth-kami?utm_source=api>`
-   |mana_x|, Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X.
+   |mana_x|, Sacrifice Hearth Kami: Destroy target artifact with mana value X.
 
 
 :mtgtip:`Honden of Infinite Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b254f341-aac1-433b-a739-fee8bd7fdf69.jpg?1562763683|https://scryfall.com/card/chk/172/honden-of-infinite-rage?utm_source=api>`
@@ -962,7 +962,7 @@
 
 
 :mtgtip:`Mindblaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59418766-5567-4ec4-af1f-1cb2db2958d0.jpg?1562760146|https://scryfall.com/card/chk/180/mindblaze?utm_source=api>`
-   Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles their library.
+   Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles.
 
 
 :mtgtip:`Myojin of Infinite Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df630ae9-aa17-46e9-95e7-4980f4a76ade.jpg?1562765145|https://scryfall.com/card/chk/181/myojin-of-infinite-rage?utm_source=api>`
@@ -1078,7 +1078,7 @@
 :mtgtip:`Burr Grafter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/935e52a1-a651-4d88-99a8-7de074a01576.jpg?1562762519|https://scryfall.com/card/chk/203/burr-grafter?utm_source=api>`
    Sacrifice Burr Grafter: Target creature gets +2/+2 until end of turn.
 
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Commune with Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce0b706e-017d-4f82-b280-cf9fdf75aef8.jpg?1562764639|https://scryfall.com/card/chk/204/commune-with-nature?utm_source=api>`
@@ -1100,7 +1100,7 @@
 :mtgtip:`Feral Deceiver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c49d705-9b0c-4c2e-9c27-46eec35deb92.jpg?1562761084|https://scryfall.com/card/chk/208/feral-deceiver?utm_source=api>`
    |mana_1|: Look at the top card of your library.
 
-   |mana_2|: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.
+   |mana_2|: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Gale Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26c5c233-a373-4ac4-9b99-81ed97df1f9b.jpg?1562758454|https://scryfall.com/card/chk/209/gale-force?utm_source=api>`
@@ -1176,7 +1176,7 @@
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85d207ac-0680-47ef-85d9-4323c1321d6f.jpg?1562762062|https://scryfall.com/card/chk/225/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Lure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11c193e4-4484-46c1-83ce-c421d47bed9f.jpg?1562757895|https://scryfall.com/card/chk/226/lure?utm_source=api>`
@@ -1240,7 +1240,7 @@
 :mtgtip:`Rootrunner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23e5502b-acae-4320-ac01-4d711cb2c49a.jpg?1562758430|https://scryfall.com/card/chk/237/rootrunner?utm_source=api>`
    |mana_g|\ |mana_g|, Sacrifice Rootrunner: Put target land on top of its owner's library.
 
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Sachi, Daughter of Seshiro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c45b36f-b879-417c-b284-0176990fb9f9.jpg?1562759878|https://scryfall.com/card/chk/238/sachi-daughter-of-seshiro?utm_source=api>`
@@ -1250,7 +1250,7 @@
 
 
 :mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91c7707a-bae0-4196-bf26-d276f57b7369.jpg?1562762515|https://scryfall.com/card/chk/239/sakura-tribe-elder?utm_source=api>`
-   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Serpent Skin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c5722d9-d1a4-4ad2-bf85-db666d4a30d9.jpg?1562762476|https://scryfall.com/card/chk/240/serpent-skin?utm_source=api>`
@@ -1290,23 +1290,23 @@
 
 
 :mtgtip:`Thousand-legged Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c88355e-dff0-4d51-a33c-08e14d6217d4.jpg?1562760550|https://scryfall.com/card/chk/246/thousand-legged-kami?utm_source=api>`
-   Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)
+   Soulshift 7 (When this creature dies, you may return target Spirit card with mana value 7 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Time of Need<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/514577a5-c7ae-4cfc-872a-e3786d78a6c3.jpg?1562760066|https://scryfall.com/card/chk/247/time-of-need?utm_source=api>`
-   Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Venerable Kumo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/308566ed-18cc-4e3b-b5ab-d5b17795f2f1.jpg?1562758912|https://scryfall.com/card/chk/248/venerable-kumo?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Vine Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa5241c8-7f50-413e-9ac0-9ab0ad5c884c.jpg?1562766088|https://scryfall.com/card/chk/249/vine-kami?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
-   Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)
+   Soulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Wear Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e809799-ce47-4eaf-b2c2-2c8807182532.jpg?1562759365|https://scryfall.com/card/chk/250/wear-away?utm_source=api>`
@@ -1348,7 +1348,7 @@
 
 
 :mtgtip:`Journeyer's Kite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3aa17062-4355-468f-b8ba-352b7511b847.jpg?1562759355|https://scryfall.com/card/chk/257/journeyers-kite?utm_source=api>`
-   |mana_3|, |tap|: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Junkyo Bell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bd002c7-21ec-4f77-81be-2788fa267f21.jpg?1562761978|https://scryfall.com/card/chk/258/junkyo-bell?utm_source=api>`

@@ -232,7 +232,7 @@
 :mtgtip:`Animate Artifact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9704b5e2-43e8-4a80-a34b-dfcaad9ec0f9.jpg?1559596879|https://scryfall.com/card/3ed/48/animate-artifact?utm_source=api>`
    Enchant artifact
 
-   As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+   As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value.
 
 
 :mtgtip:`Blue Elemental Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0892ec35-8bab-4fe5-8cc9-a25032d4bc8d.jpg?1559596787|https://scryfall.com/card/3ed/49/blue-elemental-blast?utm_source=api>`
@@ -408,7 +408,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20fc852a-77b0-48a6-8343-6cf890da9adb.jpg?1559596893|https://scryfall.com/card/3ed/82/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Stasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe4bf26c-cd9c-40e3-8a73-2f17f9a1d0e4.jpg?1559596722|https://scryfall.com/card/3ed/83/stasis?utm_source=api>`
@@ -526,7 +526,7 @@
 
 
 :mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930|https://scryfall.com/card/3ed/105/demonic-tutor?utm_source=api>`
-   Search your library for a card, put that card into your hand, then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Drain Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d89c1d2f-87a1-4463-af21-b837da3e7d74.jpg?1559597141|https://scryfall.com/card/3ed/106/drain-life?utm_source=api>`
@@ -596,7 +596,7 @@
 
 
 :mtgtip:`Nettling Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622|https://scryfall.com/card/3ed/119/nettling-imp?utm_source=api>`
-   |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate this ability only during an opponent's turn, before attackers are declared.
+   |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared.
 
 
 :mtgtip:`Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/659c0edb-3afa-4f87-8a94-9fe10578ea1a.jpg?1559596620|https://scryfall.com/card/3ed/120/nightmare?utm_source=api>`
@@ -636,7 +636,7 @@
 :mtgtip:`Sacrifice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76bc3b43-158c-420e-a3fb-7413334699ca.jpg?1559596743|https://scryfall.com/card/3ed/126/sacrifice?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Add an amount of |mana_b| equal to the sacrificed creature's converted mana cost.
+   Add an amount of |mana_b| equal to the sacrificed creature's mana value.
 
 
 :mtgtip:`Scathe Zombies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cbe576f-03d5-4d22-947a-187d9e20425d.jpg?1559596740|https://scryfall.com/card/3ed/127/scathe-zombies?utm_source=api>`
@@ -732,7 +732,7 @@
 
 
 :mtgtip:`Dwarven Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c83929b1-4826-4b84-823d-0997560b6bdc.jpg?1559596758|https://scryfall.com/card/3ed/145/dwarven-weaponsmith?utm_source=api>`
-   |tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+   |tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate only during your upkeep.
 
 
 :mtgtip:`Earth Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2285cf5-f1c0-42d2-8203-297d2a5b9ec2.jpg?1559596791|https://scryfall.com/card/3ed/146/earth-elemental?utm_source=api>`
@@ -864,7 +864,7 @@
 
    |mana_r|: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
 
-   |mana_r|\ |mana_r|\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+   |mana_r|\ |mana_r|\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.
 
 
 :mtgtip:`Sedge Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/485d3707-59ce-4350-9ec8-9df232f88c04.jpg?1559596734|https://scryfall.com/card/3ed/174/sedge-troll?utm_source=api>`
@@ -948,7 +948,7 @@
 
 
 :mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32123652-4f71-4f0b-b317-39e6df039b4f.jpg?1559596694|https://scryfall.com/card/3ed/191/crumble?utm_source=api>`
-   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.
+   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value.
 
 
 :mtgtip:`Desert Twister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88cbcf7e-9d66-4e1b-b056-8edf708fca84.jpg?1559596682|https://scryfall.com/card/3ed/192/desert-twister?utm_source=api>`
@@ -1006,7 +1006,7 @@
 
    Enchanted creature can attack as though it had haste.
 
-   |mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+   |mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn.
 
 
 :mtgtip:`Ironroot Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e6cfaae-ea9e-4c54-858e-381f8bf441a9.jpg?1559596619|https://scryfall.com/card/3ed/204/ironroot-treefolk?utm_source=api>`
@@ -1084,7 +1084,7 @@
 
 
 :mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c022abd7-bb1a-4f61-b4e1-6b802d337484.jpg?1559596844|https://scryfall.com/card/3ed/220/titanias-song?utm_source=api>`
-   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn.
 
 
 :mtgtip:`Tranquility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5722c349-bf3d-4ac0-8fdd-bf170401c419.jpg?1559596903|https://scryfall.com/card/3ed/221/tranquility?utm_source=api>`
@@ -1188,7 +1188,7 @@
 
    At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.
 
 
 :mtgtip:`Conservator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e7d8bc5-9d87-43e3-9b81-311d01fdf0e5.jpg?1559596960|https://scryfall.com/card/3ed/241/conservator?utm_source=api>`
@@ -1208,7 +1208,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af4f8926-9a9e-4b2d-8224-118655f12809.jpg?1559597156|https://scryfall.com/card/3ed/245/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Dragon Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42c1fd91-001d-4c94-bb0a-d3fc570c7f12.jpg?1559596850|https://scryfall.com/card/3ed/246/dragon-engine?utm_source=api>`
@@ -1332,7 +1332,7 @@
 
 
 :mtgtip:`Rocket Launcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/919f184b-421c-413c-a95c-05bb145f93ba.jpg?1559596585|https://scryfall.com/card/3ed/272/rocket-launcher?utm_source=api>`
-   |mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+   |mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
 
 
 :mtgtip:`Rod of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/964abd0f-812e-418d-a01b-73dc724c8429.jpg?1559596935|https://scryfall.com/card/3ed/273/rod-of-ruin?utm_source=api>`

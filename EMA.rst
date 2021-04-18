@@ -48,7 +48,7 @@
 
 
 :mtgtip:`Enlightened Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c9ebec9-3474-4062-9607-2e2a72f78299.jpg?1580013657|https://scryfall.com/card/ema/9/enlightened-tutor?utm_source=api>`
-   Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Faith's Fetters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5ef45fc-d431-4a24-9566-e52b5c4a06ca.jpg?1580013665|https://scryfall.com/card/ema/10/faiths-fetters?utm_source=api>`
@@ -160,7 +160,7 @@
 :mtgtip:`Squadron Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/affaf05a-020c-44c1-84fa-7976c3d2a5cc.jpg?1580013824|https://scryfall.com/card/ema/31/squadron-hawk?utm_source=api>`
    Flying
 
-   When Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle your library.
+   When Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6bafa7b-62a4-477c-b2f5-6b9d26c6cbf4.jpg?1580013831|https://scryfall.com/card/ema/32/swords-to-plowshares?utm_source=api>`
@@ -188,7 +188,7 @@
 
 
 :mtgtip:`Whitemane Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcef00b9-8f18-44fa-a690-569e33d6ce81.jpg?1580013867|https://scryfall.com/card/ema/37/whitemane-lion?utm_source=api>`
-   Flash (You may cast this spell any time you could cast an instant.)
+   Flash
 
    When Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.
 
@@ -322,7 +322,7 @@
 
 
 :mtgtip:`Mystical Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/9264ecb7-bfc0-495d-aaaa-829045ea858f.jpg?1580014050|https://scryfall.com/card/ema/62/mystical-tutor?utm_source=api>`
-   Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Oona's Grace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/441aa75a-e0f1-43d1-836a-9788e9fd1be5.jpg?1580014057|https://scryfall.com/card/ema/63/oonas-grace?utm_source=api>`
@@ -352,7 +352,7 @@
 
 
 :mtgtip:`Quiet Speculation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd12fd06-26c5-42d8-936c-fe10b778a561.jpg?1580014091|https://scryfall.com/card/ema/68/quiet-speculation?utm_source=api>`
-   Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles their library.
+   Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles.
 
 
 :mtgtip:`Screeching Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0efc87bc-2ae9-423d-8f95-6dbd18b57745.jpg?1580014098|https://scryfall.com/card/ema/69/screeching-skaab?utm_source=api>`
@@ -368,7 +368,7 @@
 :mtgtip:`Shoreline Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/282f5d61-cd96-4c02-8cc4-405d2efb37fd.jpg?1580014113|https://scryfall.com/card/ema/71/shoreline-ranger?utm_source=api>`
    Flying
 
-   Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)
+   Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Silent Departure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9882d7be-1d58-432b-ad36-4cd13609ad90.jpg?1580014122|https://scryfall.com/card/ema/72/silent-departure?utm_source=api>`
@@ -456,7 +456,7 @@
 
 
 :mtgtip:`Entomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dba0068-c63f-4699-b630-a56b26ad8239.jpg?1580014227|https://scryfall.com/card/ema/87/entomb?utm_source=api>`
-   Search your library for a card and put that card into your graveyard. Then shuffle your library.
+   Search your library for a card, put that card into your graveyard, then shuffle.
 
 
 :mtgtip:`Eyeblight's Ending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9423fc5f-5a3b-46e3-8193-2542a0b35386.jpg?1580014235|https://scryfall.com/card/ema/88/eyeblights-ending?utm_source=api>`
@@ -572,7 +572,7 @@
 :mtgtip:`Twisted Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1335db4-dda0-4947-9ab6-1f140a1a8aa8.jpg?1580014396|https://scryfall.com/card/ema/110/twisted-abomination?utm_source=api>`
    |mana_b|: Regenerate Twisted Abomination.
 
-   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)
+   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Urborg Uprising<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f4f0fdb-fb1a-41e0-b7af-a2dc25cf116e.jpg?1580014403|https://scryfall.com/card/ema/111/urborg-uprising?utm_source=api>`
@@ -582,7 +582,7 @@
 
 
 :mtgtip:`Vampiric Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7e778ce-3f1e-4626-8f55-bba03970d91a.jpg?1580014409|https://scryfall.com/card/ema/112/vampiric-tutor?utm_source=api>`
-   Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+   Search your library for a card, then shuffle and put that card on top. You lose 2 life.
 
 
 :mtgtip:`Victimize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd6660d6-b9e4-4020-a936-96d5eac26a58.jpg?1580014416|https://scryfall.com/card/ema/113/victimize?utm_source=api>`
@@ -608,7 +608,7 @@
 :mtgtip:`Avarax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/421ee1c4-a105-41bf-83e9-edf3c49d057c.jpg?1580014447|https://scryfall.com/card/ema/117/avarax?utm_source=api>`
    Haste
 
-   When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, put it into your hand, then shuffle.
 
    |mana_1|\ |mana_r|: Avarax gets +1/+0 until end of turn.
 
@@ -688,7 +688,7 @@
 
 
 :mtgtip:`Gamble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7602b70b-686f-432b-ac59-1141dd3d0dea.jpg?1580014551|https://scryfall.com/card/ema/132/gamble?utm_source=api>`
-   Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.
+   Search your library for a card, put that card into your hand, discard a card at random, then shuffle.
 
 
 :mtgtip:`Ghitu Slinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/923de31f-0941-4df1-8939-3eed75b7eb39.jpg?1580014557|https://scryfall.com/card/ema/133/ghitu-slinger?utm_source=api>`
@@ -850,7 +850,7 @@
 
 
 :mtgtip:`Civic Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cee03108-036b-4996-a256-7c772a801492.jpg?1580014745|https://scryfall.com/card/ema/161/civic-wayfinder?utm_source=api>`
-   When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Commune with the Gods<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67d95f6f-3ff0-483d-b98f-ccb4fb5715f4.jpg?1580014753|https://scryfall.com/card/ema/162/commune-with-the-gods?utm_source=api>`
@@ -892,7 +892,7 @@
 
 
 :mtgtip:`Green Sun's Zenith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01794178-cf41-454c-ac37-1d8b18e42db2.jpg?1580014798|https://scryfall.com/card/ema/169/green-suns-zenith?utm_source=api>`
-   Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+   Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library.
 
 
 :mtgtip:`Harmonize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/865e7f83-a54a-43bc-a518-b1aa2baf4758.jpg?1580014806|https://scryfall.com/card/ema/170/harmonize?utm_source=api>`
@@ -927,10 +927,10 @@
    Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token.
 
 
-:mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1580014855|https://scryfall.com/card/ema/177/natural-order?utm_source=api>`
+:mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1618695739|https://scryfall.com/card/ema/177/natural-order?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a green creature.
 
-   Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+   Search your library for a green creature card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Nature's Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/666a8ac9-d21d-4f3e-84a4-117fbeabbe8b.jpg?1580014862|https://scryfall.com/card/ema/178/natures-claim?utm_source=api>`
@@ -994,9 +994,7 @@
 
 
 :mtgtip:`Thornweald Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/608b0f34-83be-44a3-ba92-69df9b8af8d1.jpg?1580014948|https://scryfall.com/card/ema/189/thornweald-archer?utm_source=api>`
-   Reach (This creature can block creatures with flying.)
-
-   Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+   Reach, deathtouch
 
 
 :mtgtip:`Timberwatch Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d902a83-5e39-4df3-a897-e9ac65a8209c.jpg?1580014956|https://scryfall.com/card/ema/190/timberwatch-elf?utm_source=api>`
@@ -1010,7 +1008,7 @@
 
 
 :mtgtip:`Wirewood Symbiote<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854f1d22-1416-4012-979c-35152ff520bd.jpg?1580014975|https://scryfall.com/card/ema/192/wirewood-symbiote?utm_source=api>`
-   Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+   Return an Elf you control to its owner's hand: Untap target creature. Activate only once each turn.
 
 
 :mtgtip:`Xantid Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/022ab408-3292-40b6-b35e-ac1b7f06dffa.jpg?1580014984|https://scryfall.com/card/ema/193/xantid-swarm?utm_source=api>`
@@ -1110,7 +1108,7 @@
 
 
 :mtgtip:`Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b3e320-a85c-4d92-944e-0a5e78a066a5.jpg?1580015114|https://scryfall.com/card/ema/211/void?utm_source=api>`
-   Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals their hand and discards all nonland cards with converted mana cost equal to the number.
+   Choose a number. Destroy all artifacts and creatures with mana value equal to that number. Then target player reveals their hand and discards all nonland cards with mana value equal to the number.
 
 
 :mtgtip:`Wee Dragonauts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e68a75f-abcb-49b0-a07b-a011b934969a.jpg?1580015124|https://scryfall.com/card/ema/212/wee-dragonauts?utm_source=api>`
@@ -1172,7 +1170,7 @@
 
 
 :mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49c0e902-f7ee-4dab-9a07-025a305c9958.jpg?1580015204|https://scryfall.com/card/ema/223/isochron-scepter?utm_source=api>`
-   Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.
+   Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.
 
    |mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
 
@@ -1210,7 +1208,7 @@
 :mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da685792-5846-4201-ae64-19a822a4e575.jpg?1580015251|https://scryfall.com/card/ema/229/pilgrims-eye?utm_source=api>`
    Flying
 
-   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Prismatic Lens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19786221-ff63-48be-98cb-82360ca12634.jpg?1580015259|https://scryfall.com/card/ema/230/prismatic-lens?utm_source=api>`

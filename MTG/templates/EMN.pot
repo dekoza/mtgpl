@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid ":mtgtip:`Abundant Maw<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../EMN.rst:9
-msgid "Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:11
@@ -37,7 +37,7 @@ msgid ":mtgtip:`Decimator of the Provinces<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../EMN.rst:15
-msgid "Emerge |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:17
@@ -55,11 +55,11 @@ msgid ":mtgtip:`Distended Mindbender<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../EMN.rst:23
-msgid "Emerge |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:25
-msgid "When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with converted mana cost 3 or less and a card with converted mana cost 4 or greater. That player discards those cards."
+msgid "When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with mana value 3 or less and a card with mana value 4 or greater. That player discards those cards."
 msgstr ""
 
 #: ../../EMN.rst:34
@@ -74,7 +74,7 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
 #: ../../EMN.rst:31
-msgid "Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:33
@@ -94,7 +94,7 @@ msgid "Flash"
 msgstr ""
 
 #: ../../EMN.rst:39
-msgid "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:41
@@ -134,7 +134,7 @@ msgid ":mtgtip:`It of the Horrid Swarm<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../EMN.rst:59
-msgid "Emerge |mana_6|\\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_6|\\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:61
@@ -146,7 +146,7 @@ msgid ":mtgtip:`Lashweed Lurker<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../EMN.rst:65
-msgid "Emerge |mana_5|\\ |mana_g|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_5|\\ |mana_g|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:67
@@ -158,7 +158,7 @@ msgid ":mtgtip:`Mockery of Nature<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../EMN.rst:71
-msgid "Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:73
@@ -170,7 +170,7 @@ msgid ":mtgtip:`Vexing Scuttler<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../EMN.rst:77
-msgid "Emerge |mana_6|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_6|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:79
@@ -182,7 +182,7 @@ msgid ":mtgtip:`Wretched Gryff<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../EMN.rst:83
-msgid "Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../EMN.rst:85
@@ -285,7 +285,7 @@ msgid "Flying, first strike, vigilance, lifelink"
 msgstr ""
 
 #: ../../EMN.rst:123
-msgid "Your opponents can't cast spells with converted mana cost 3 or less."
+msgid "Your opponents can't cast spells with mana value 3 or less."
 msgstr ""
 
 #: ../../EMN.rst:132
@@ -630,7 +630,7 @@ msgid ":mtgtip:`Thalia's Lancers<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../EMN.rst:305
-msgid "When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EMN.rst:310
@@ -704,7 +704,6 @@ msgstr ""
 #: ../../EMN.rst:343
 #: ../../EMN.rst:415
 #: ../../EMN.rst:451
-#: ../../EMN.rst:721
 msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
 msgstr ""
 
@@ -1137,7 +1136,7 @@ msgid ":mtgtip:`Midnight Scavengers<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../EMN.rst:591
-msgid "When Midnight Scavengers enters the battlefield, you may return target creature card with converted mana cost 3 or less from your graveyard to your hand."
+msgid "When Midnight Scavengers enters the battlefield, you may return target creature card with mana value 3 or less from your graveyard to your hand."
 msgstr ""
 
 #: ../../EMN.rst:593
@@ -1255,7 +1254,7 @@ msgid ":mtgtip:`Stromkirk Condemned<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../EMN.rst:651
-msgid "Discard a card: Vampires you control get +1/+1 until end of turn. Activate this ability only once each turn."
+msgid "Discard a card: Vampires you control get +1/+1 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../EMN.rst:656
@@ -1370,6 +1369,10 @@ msgstr ""
 
 #: ../../EMN.rst:719
 msgid "This spell costs |mana_1| less to cast for each instant and sorcery card in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:721
+msgid "Prowess"
 msgstr ""
 
 #: ../../EMN.rst:723
@@ -1586,7 +1589,7 @@ msgid "As an additional cost to cast this spell, discard X cards."
 msgstr ""
 
 #: ../../EMN.rst:841
-msgid "Nahiri's Wrath deals damage equal to the total converted mana cost of the discarded cards to each of up to X target creatures and/or planeswalkers."
+msgid "Nahiri's Wrath deals damage equal to the total mana value of the discarded cards to each of up to X target creatures and/or planeswalkers."
 msgstr ""
 
 #: ../../EMN.rst:846
@@ -1760,7 +1763,7 @@ msgid "At the beginning of your upkeep, you may mill a card."
 msgstr ""
 
 #: ../../EMN.rst:945
-msgid "Delirium — |mana_2|\\ |mana_g|, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate this ability only if there are four or more card types among cards in your graveyard."
+msgid "Delirium — |mana_2|\\ |mana_g|, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate only if there are four or more card types among cards in your graveyard."
 msgstr ""
 
 #: ../../EMN.rst:950
@@ -1780,7 +1783,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
 #: ../../EMN.rst:955
-msgid "Search your library for a creature card with converted mana cost X or less, where X is 2 plus the sacrificed creature's converted mana cost. Put that card onto the battlefield, then shuffle your library. Exile Eldritch Evolution."
+msgid "Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution."
 msgstr ""
 
 #: ../../EMN.rst:960
@@ -1796,7 +1799,7 @@ msgid ":mtgtip:`Emrakul's Influence<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../EMN.rst:963
-msgid "Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, draw two cards."
+msgid "Whenever you cast an Eldrazi creature spell with mana value 7 or greater, draw two cards."
 msgstr ""
 
 #: ../../EMN.rst:970
@@ -1896,7 +1899,7 @@ msgid ":mtgtip:`Primal Druid<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../EMN.rst:1017
-msgid "When Primal Druid dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Primal Druid dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../EMN.rst:1024
@@ -2129,7 +2132,7 @@ msgid ":mtgtip:`Spell Queller<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../EMN.rst:1159
-msgid "When Spell Queller enters the battlefield, exile target spell with converted mana cost 4 or less."
+msgid "When Spell Queller enters the battlefield, exile target spell with mana value 4 or less."
 msgstr ""
 
 #: ../../EMN.rst:1161

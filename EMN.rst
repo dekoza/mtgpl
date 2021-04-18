@@ -6,13 +6,13 @@
 
 
 :mtgtip:`Abundant Maw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a4e7ef7-7958-4d7c-b319-4d3db7955002.jpg?1576383697|https://scryfall.com/card/emn/1/abundant-maw?utm_source=api>`
-   Emerge |mana_6|\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, target opponent loses 3 life and you gain 3 life.
 
 
 :mtgtip:`Decimator of the Provinces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/587cb384-db24-4e3d-a338-230e50305d31.jpg?1576383703|https://scryfall.com/card/emn/2/decimator-of-the-provinces?utm_source=api>`
-   Emerge |mana_6|\ |mana_g|\ |mana_g|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_g|\ |mana_g|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, creatures you control get +2/+2 and gain trample until end of turn.
 
@@ -20,15 +20,15 @@
 
 
 :mtgtip:`Distended Mindbender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b5d1e41-fb0b-4866-912a-2a7d49542428.jpg?1576383709|https://scryfall.com/card/emn/3/distended-mindbender?utm_source=api>`
-   Emerge |mana_5|\ |mana_b|\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_b|\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
-   When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with converted mana cost 3 or less and a card with converted mana cost 4 or greater. That player discards those cards.
+   When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with mana value 3 or less and a card with mana value 4 or greater. That player discards those cards.
 
 
 :mtgtip:`Drownyard Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/082690e8-07b9-4a91-b779-e0123a69ee12.jpg?1576383716|https://scryfall.com/card/emn/4/drownyard-behemoth?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
-   Emerge |mana_7|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_7|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    Drownyard Behemoth has hexproof as long as it entered the battlefield this turn.
 
@@ -36,7 +36,7 @@
 :mtgtip:`Elder Deep-Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c2789fb-a263-4207-8a56-4eeb015a024c.jpg?1576383721|https://scryfall.com/card/emn/5/elder-deep-fiend?utm_source=api>`
    Flash
 
-   Emerge |mana_5|\ |mana_u|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_u|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, tap up to four target permanents.
 
@@ -56,31 +56,31 @@
 
 
 :mtgtip:`It of the Horrid Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e9160cb-d3de-49ca-a97d-2cd259cd5447.jpg?1576383739|https://scryfall.com/card/emn/8/it-of-the-horrid-swarm?utm_source=api>`
-   Emerge |mana_6|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, create two 1/1 green Insect creature tokens.
 
 
 :mtgtip:`Lashweed Lurker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a13f9a76-3370-4809-88ff-c300bca31c9e.jpg?1576383747|https://scryfall.com/card/emn/9/lashweed-lurker?utm_source=api>`
-   Emerge |mana_5|\ |mana_g|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_g|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, you may put target nonland permanent on top of its owner's library.
 
 
 :mtgtip:`Mockery of Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3118737f-2fd9-4fe5-bd0f-43c9ef2166e2.jpg?1576383753|https://scryfall.com/card/emn/10/mockery-of-nature?utm_source=api>`
-   Emerge |mana_7|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_7|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, you may destroy target artifact or enchantment.
 
 
 :mtgtip:`Vexing Scuttler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c3dd0aa-f6e9-435c-af64-20e9de67efe9.jpg?1576383758|https://scryfall.com/card/emn/11/vexing-scuttler?utm_source=api>`
-   Emerge |mana_6|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, you may return target instant or sorcery card from your graveyard to your hand.
 
 
 :mtgtip:`Wretched Gryff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d65efec-018f-485c-906c-460379b4af87.jpg?1576383765|https://scryfall.com/card/emn/12/wretched-gryff?utm_source=api>`
-   Emerge |mana_5|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
 
    When you cast this spell, draw a card.
 
@@ -120,7 +120,7 @@
 :mtgtip:`Brisela, Voice of Nightmares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1576384299|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
    Flying, first strike, vigilance, lifelink
 
-   Your opponents can't cast spells with converted mana cost 3 or less.
+   Your opponents can't cast spells with mana value 3 or less.
 
 
 :mtgtip:`Choking Restraints<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4549735d-df63-47db-ad53-0497499fe387.jpg?1576383794|https://scryfall.com/card/emn/16/choking-restraints?utm_source=api>`
@@ -302,7 +302,7 @@
 :mtgtip:`Thalia's Lancers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9930d08d-5965-4c16-a84d-43c8ccf2ad0b.jpg?1576384015|https://scryfall.com/card/emn/47/thalias-lancers?utm_source=api>`
    First strike
 
-   When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library.
+   When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Thraben Standard Bearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b7cd60-e3b9-4dd8-ad3c-a687f642147f.jpg?1576384022|https://scryfall.com/card/emn/48/thraben-standard-bearer?utm_source=api>`
@@ -588,7 +588,7 @@
 
 
 :mtgtip:`Midnight Scavengers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a57187c-f0ec-40de-b725-786f787b00a2.jpg?1576384363|https://scryfall.com/card/emn/96a/midnight-scavengers?utm_source=api>`
-   When Midnight Scavengers enters the battlefield, you may return target creature card with converted mana cost 3 or less from your graveyard to your hand.
+   When Midnight Scavengers enters the battlefield, you may return target creature card with mana value 3 or less from your graveyard to your hand.
 
    (Melds with Graf Rats.)
 
@@ -648,7 +648,7 @@
 
 
 :mtgtip:`Stromkirk Condemned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.jpg?1576384427|https://scryfall.com/card/emn/106/stromkirk-condemned?utm_source=api>`
-   Discard a card: Vampires you control get +1/+1 until end of turn. Activate this ability only once each turn.
+   Discard a card: Vampires you control get +1/+1 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Succumb to Temptation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2974e18b-be17-4059-9f29-7afe1d1a51eb.jpg?1576384434|https://scryfall.com/card/emn/107/succumb-to-temptation?utm_source=api>`
@@ -718,7 +718,7 @@
 :mtgtip:`Bedlam Reveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0232f188-44f2-4aee-963c-6f6edc4a21ac.jpg?1576384515|https://scryfall.com/card/emn/118/bedlam-reveler?utm_source=api>`
    This spell costs |mana_1| less to cast for each instant and sorcery card in your graveyard.
 
-   Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+   Prowess
 
    When Bedlam Reveler enters the battlefield, discard your hand, then draw three cards.
 
@@ -838,7 +838,7 @@
 :mtgtip:`Nahiri's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e6cb8b0-e3a5-4a94-845d-3b286aa392ac.jpg?1576384637|https://scryfall.com/card/emn/137/nahiris-wrath?utm_source=api>`
    As an additional cost to cast this spell, discard X cards.
 
-   Nahiri's Wrath deals damage equal to the total converted mana cost of the discarded cards to each of up to X target creatures and/or planeswalkers.
+   Nahiri's Wrath deals damage equal to the total mana value of the discarded cards to each of up to X target creatures and/or planeswalkers.
 
 
 :mtgtip:`Otherworldly Outburst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34409e34-04e9-4279-8d21-6ef362b20b72.jpg?1576384643|https://scryfall.com/card/emn/138/otherworldly-outburst?utm_source=api>`
@@ -942,7 +942,7 @@
 :mtgtip:`Crop Sigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/861e8c51-0cda-497a-b289-a9f678f0e328.jpg?1576384754|https://scryfall.com/card/emn/153/crop-sigil?utm_source=api>`
    At the beginning of your upkeep, you may mill a card.
 
-   Delirium — |mana_2|\ |mana_g|, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — |mana_2|\ |mana_g|, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate only if there are four or more card types among cards in your graveyard.
 
 
 :mtgtip:`Crossroads Consecrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1a83854-dc45-4c26-aca0-67f372236383.jpg?1576384762|https://scryfall.com/card/emn/154/crossroads-consecrator?utm_source=api>`
@@ -952,7 +952,7 @@
 :mtgtip:`Eldritch Evolution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efcb00e5-2caa-45c8-ad19-05d45c683d16.jpg?1576384769|https://scryfall.com/card/emn/155/eldritch-evolution?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Search your library for a creature card with converted mana cost X or less, where X is 2 plus the sacrificed creature's converted mana cost. Put that card onto the battlefield, then shuffle your library. Exile Eldritch Evolution.
+   Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution.
 
 
 :mtgtip:`Emrakul's Evangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51c21822-972f-4c20-ac3b-80ba9af101c5.jpg?1576384776|https://scryfall.com/card/emn/156/emrakuls-evangel?utm_source=api>`
@@ -960,7 +960,7 @@
 
 
 :mtgtip:`Emrakul's Influence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/112476e7-72ab-4ebc-9e6e-e96fbf5109c0.jpg?1576384782|https://scryfall.com/card/emn/157/emrakuls-influence?utm_source=api>`
-   Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, draw two cards.
+   Whenever you cast an Eldrazi creature spell with mana value 7 or greater, draw two cards.
 
 
 :mtgtip:`Foul Emissary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41446e3b-ecd1-442f-9209-713f0abfc538.jpg?1576384787|https://scryfall.com/card/emn/158/foul-emissary?utm_source=api>`
@@ -1014,7 +1014,7 @@
 
 
 :mtgtip:`Primal Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e928f694-c53b-46c5-8390-fa24b53f559c.jpg?1576384851|https://scryfall.com/card/emn/167/primal-druid?utm_source=api>`
-   When Primal Druid dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Primal Druid dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Shrill Howler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a63c30c0-369a-4a75-b352-edab4d263d1b.jpg?1576384864|https://scryfall.com/card/emn/168/shrill-howler-howling-chorus?utm_source=api>`
@@ -1156,7 +1156,7 @@
 
    Flying
 
-   When Spell Queller enters the battlefield, exile target spell with converted mana cost 4 or less.
+   When Spell Queller enters the battlefield, exile target spell with mana value 4 or less.
 
    When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.
 

@@ -226,7 +226,7 @@
 
 
 :mtgtip:`Liquify<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12fadf25-0995-440d-a3e6-7964ed86cff6.jpg?1562628664|https://scryfall.com/card/tor/41/liquify?utm_source=api>`
-   Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+   Counter target spell with mana value 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
 :mtgtip:`Llawan, Cephalid Empress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9821970-a5da-4045-93d8-f58c9e5797c1.jpg?1562631417|https://scryfall.com/card/tor/42/llawan-cephalid-empress?utm_source=api>`
@@ -294,7 +294,7 @@
 :mtgtip:`Cabal Torturer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebcf8dd7-f45c-4ac2-9507-fa175fe89887.jpg?1562632540|https://scryfall.com/card/tor/53/cabal-torturer?utm_source=api>`
    |mana_b|, |tap|: Target creature gets -1/-1 until end of turn.
 
-   Threshold — |mana_3|\ |mana_b|\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_3|\ |mana_b|\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Carrion Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2efa2579-c048-4506-babc-ec1c29bb99a8.jpg?1562629090|https://scryfall.com/card/tor/54/carrion-rats?utm_source=api>`
@@ -374,7 +374,7 @@
 :mtgtip:`Insidious Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8a29622-23a6-42c7-8e56-690613572c94.jpg?1562632493|https://scryfall.com/card/tor/66/insidious-dreams?utm_source=api>`
    As an additional cost to cast this spell, discard X cards.
 
-   Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.
+   Search your library for X cards, then shuffle and put those cards on top in any order.
 
 
 :mtgtip:`Laquatus's Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74a397bb-6910-4724-833d-7f2d92723e3b.jpg?1562630382|https://scryfall.com/card/tor/67/laquatuss-champion?utm_source=api>`
@@ -684,7 +684,7 @@
 
 
 :mtgtip:`Basking Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a67768a-6cd9-4163-b941-752f29c87a8d.jpg?1562628781|https://scryfall.com/card/tor/121/basking-rootwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
 
    Madness |mana_0| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
@@ -706,9 +706,9 @@
 
 
 :mtgtip:`Far Wanderings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd3a735a-5f51-41af-99d1-92296cec7b22.jpg?1562631784|https://scryfall.com/card/tor/125/far-wanderings?utm_source=api>`
-   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
-   Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Gurzigost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4e672c6-6ddc-4dd2-b4c7-5083d7566e87.jpg?1562632734|https://scryfall.com/card/tor/126/gurzigost?utm_source=api>`
@@ -736,7 +736,7 @@
 :mtgtip:`Krosan Restorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06f9f54d-b8c7-407d-bc25-dad4db833208.jpg?1562628483|https://scryfall.com/card/tor/130/krosan-restorer?utm_source=api>`
    |tap|: Untap target land.
 
-   Threshold — |tap|: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |tap|: Untap up to three target lands. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Nantuko Blightcutter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42a6f1b6-e1ed-497a-b50e-1bfa257c18c0.jpg?1562629522|https://scryfall.com/card/tor/131/nantuko-blightcutter?utm_source=api>`
@@ -792,23 +792,23 @@
 :mtgtip:`Tainted Field<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75b5f0aa-1570-4064-ad20-aac7be8b2c9c.jpg?1562630407|https://scryfall.com/card/tor/140/tainted-field?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp.
 
 
 :mtgtip:`Tainted Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b462e121-015c-49c4-838a-ab788f213322.jpg?1562631653|https://scryfall.com/card/tor/141/tainted-isle?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_u| or |mana_b|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_u| or |mana_b|. Activate only if you control a Swamp.
 
 
 :mtgtip:`Tainted Peak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dcaaabe-e1d7-4047-9960-79178af3d903.jpg?1562629688|https://scryfall.com/card/tor/142/tainted-peak?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_b| or |mana_r|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_b| or |mana_r|. Activate only if you control a Swamp.
 
 
 :mtgtip:`Tainted Wood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a20a35cc-69e5-42b8-b28c-ae5147451150.jpg?1562631258|https://scryfall.com/card/tor/143/tainted-wood?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp.
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,7 +157,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../ARB.rst:63
-msgid "Plainscycling |mana_2|, islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains or Island card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Plainscycling |mana_2|, islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains or Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../ARB.rst:72
@@ -183,7 +183,7 @@ msgid ":mtgtip:`Sovereigns of Lost Alara<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../ARB.rst:77
-msgid "Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library."
+msgid "Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle."
 msgstr ""
 
 #: ../../ARB.rst:84
@@ -275,7 +275,7 @@ msgid "Fear (This creature can't be blocked except by artifact creatures and/or 
 msgstr ""
 
 #: ../../ARB.rst:131
-msgid "Islandcycling |mana_2|, swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island or Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Islandcycling |mana_2|, swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island or Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../ARB.rst:140
@@ -458,7 +458,7 @@ msgid "Haste"
 msgstr ""
 
 #: ../../ARB.rst:235
-msgid "Swampcycling |mana_2|, mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp or Mountain card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Swampcycling |mana_2|, mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp or Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../ARB.rst:244
@@ -514,7 +514,7 @@ msgid ":mtgtip:`Singe-Mind Ogre<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../ARB.rst:265
-msgid "When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from their hand, then loses life equal to that card's converted mana cost."
+msgid "When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from their hand, then loses life equal to that card's mana value."
 msgstr ""
 
 #: ../../ARB.rst:270
@@ -530,7 +530,7 @@ msgid ":mtgtip:`Thought Hemorrhage<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ARB.rst:273
-msgid "Choose a nonland card name. Target player reveals their hand. Thought Hemorrhage deals 3 damage to that player for each card with the chosen name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles their library."
+msgid "Choose a nonland card name. Target player reveals their hand. Thought Hemorrhage deals 3 damage to that player for each card with the chosen name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../ARB.rst:282
@@ -659,7 +659,7 @@ msgid ":mtgtip:`Valley Rannet<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ARB.rst:349
-msgid "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../ARB.rst:356
@@ -667,7 +667,7 @@ msgid ":mtgtip:`Vengeful Rebirth<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ARB.rst:353
-msgid "Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to any target."
+msgid "Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target."
 msgstr ""
 
 #: ../../ARB.rst:355
@@ -763,7 +763,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../ARB.rst:411
-msgid "Forestcycling |mana_2|, plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Forestcycling |mana_2|, plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../ARB.rst:418
@@ -906,7 +906,7 @@ msgid ":mtgtip:`Spellbound Dragon<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ARB.rst:491
-msgid "Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost."
+msgid "Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's mana value."
 msgstr ""
 
 #: ../../ARB.rst:496
@@ -950,7 +950,7 @@ msgid ":mtgtip:`Putrid Leech<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ARB.rst:513
-msgid "Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../ARB.rst:518
@@ -1287,7 +1287,7 @@ msgid ":mtgtip:`Wargate<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../ARB.rst:697
-msgid "Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library."
+msgid "Search your library for a permanent card with mana value X or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ARB.rst:702

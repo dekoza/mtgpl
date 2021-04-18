@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -469,7 +469,7 @@ msgid "As an additional cost to cast this spell, sacrifice an artifact."
 msgstr ""
 
 #: ../../ULG.rst:235
-msgid "Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library."
+msgid "Search your library for an artifact card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ULG.rst:242
@@ -702,7 +702,7 @@ msgid ":mtgtip:`Unearth<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../ULG.rst:369
-msgid "Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ULG.rst:376
@@ -855,7 +855,7 @@ msgid ":mtgtip:`Pyromancy<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../ULG.rst:453
-msgid "|mana_3|, Discard a card at random: Pyromancy deals damage to any target equal to the converted mana cost of the discarded card."
+msgid "|mana_3|, Discard a card at random: Pyromancy deals damage to any target equal to the mana value of the discarded card."
 msgstr ""
 
 #: ../../ULG.rst:458
@@ -915,7 +915,7 @@ msgid ":mtgtip:`Viashino Heretic<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ULG.rst:489
-msgid "|mana_1|\\ |mana_r|, |tap|: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost."
+msgid "|mana_1|\\ |mana_r|, |tap|: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's mana value."
 msgstr ""
 
 #: ../../ULG.rst:496
@@ -947,7 +947,7 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr ""
 
 #: ../../ULG.rst:507
-msgid "Search your library for a land card, put that card onto the battlefield, then shuffle your library."
+msgid "Search your library for a land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ULG.rst:514
@@ -963,7 +963,7 @@ msgid ":mtgtip:`Defense of the Heart<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../ULG.rst:517
-msgid "At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library."
+msgid "At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, put those cards onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ULG.rst:526
@@ -1132,7 +1132,7 @@ msgid ":mtgtip:`Yavimaya Granger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ULG.rst:609
-msgid "When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ULG.rst:614

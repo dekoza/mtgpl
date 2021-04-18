@@ -152,7 +152,7 @@
 
 
 :mtgtip:`Oracle en-Vec<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc538730-c46c-4e5f-bc1f-0efb7765086d.jpg?1562056853|https://scryfall.com/card/tmp/31/oracle-en-vec?utm_source=api>`
-   |tap|: Target opponent chooses any number of creatures they control. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack this turn. Activate this ability only during your turn.
+   |tap|: Target opponent chooses any number of creatures they control. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack this turn. Activate only during your turn.
 
 
 :mtgtip:`Orim's Prayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2dc45565-4b56-49ba-b115-be8e0de7d937.jpg?1562053272|https://scryfall.com/card/tmp/32/orims-prayer?utm_source=api>`
@@ -192,7 +192,7 @@
 
 
 :mtgtip:`Serene Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c0b3795-7f30-4c61-b5d8-f238055d6be1.jpg?1562054463|https://scryfall.com/card/tmp/40/serene-offering?utm_source=api>`
-   Destroy target enchantment. You gain life equal to its converted mana cost.
+   Destroy target enchantment. You gain life equal to its mana value.
 
 
 :mtgtip:`Soltari Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cd07471-b216-465c-9946-1eac689db32e.jpg?1562054468|https://scryfall.com/card/tmp/41/soltari-crusader?utm_source=api>`
@@ -350,7 +350,7 @@
 
 
 :mtgtip:`Intuition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c99f6785-e5a1-4fdc-9fb5-e1a372e7e848.jpg?1562056409|https://scryfall.com/card/tmp/70/intuition?utm_source=api>`
-   Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.
+   Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle.
 
 
 :mtgtip:`Legacy's Allure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/649a89c5-71bd-4fee-ae35-78081e4e0353.jpg?1562054255|https://scryfall.com/card/tmp/71/legacys-allure?utm_source=api>`
@@ -364,7 +364,7 @@
 
 
 :mtgtip:`Mana Severance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854dc5e6-63f7-4c8b-83e5-a364f41c9a15.jpg?1562054977|https://scryfall.com/card/tmp/73/mana-severance?utm_source=api>`
-   Search your library for any number of land cards and exile them. Then shuffle your library.
+   Search your library for any number of land cards, exile them, then shuffle.
 
 
 :mtgtip:`Manta Riders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdff306c-1c7e-49ae-b10f-99e1927bbef1.jpg?1562056858|https://scryfall.com/card/tmp/74/manta-riders?utm_source=api>`
@@ -438,7 +438,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fe58a24-f6a6-4858-82a5-0ca1d524efe1.jpg?1562054243|https://scryfall.com/card/tmp/89/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Steal Enchantment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/734be7fa-0998-4771-9b97-4989b3fc1471.jpg?1562054484|https://scryfall.com/card/tmp/90/steal-enchantment?utm_source=api>`
@@ -558,7 +558,7 @@
 
 
 :mtgtip:`Carrionette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/884e19fb-67a4-42d8-b163-720a99cb8506.jpg?1562054983|https://scryfall.com/card/tmp/111/carrionette?utm_source=api>`
-   |mana_2|\ |mana_b|\ |mana_b|: Exile Carrionette and target creature unless that creature's controller pays |mana_2|. Activate this ability only if Carrionette is in your graveyard.
+   |mana_2|\ |mana_b|\ |mana_b|: Exile Carrionette and target creature unless that creature's controller pays |mana_2|. Activate only if Carrionette is in your graveyard.
 
 
 :mtgtip:`Clot Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdead1f4-a6e4-4370-80ae-811881a90d01.jpg?1562057819|https://scryfall.com/card/tmp/112/clot-sliver?utm_source=api>`
@@ -722,7 +722,7 @@
 :mtgtip:`Maddening Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dda08eb5-c75c-4c21-bfd1-1f04a3575241.jpg?1562056888|https://scryfall.com/card/tmp/143/maddening-imp?utm_source=api>`
    Flying
 
-   |tap|: Non-Wall creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy each of those creatures that didn't attack this turn. Activate this ability only during an opponent's turn and only before combat.
+   |tap|: Non-Wall creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy each of those creatures that didn't attack this turn. Activate only during an opponent's turn and only before combat.
 
 
 :mtgtip:`Marsh Lurker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90c4b759-f53d-4977-8d97-a93762622e75.jpg?1562055419|https://scryfall.com/card/tmp/144/marsh-lurker?utm_source=api>`
@@ -730,7 +730,7 @@
 
 
 :mtgtip:`Mindwhip Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa966fbb-140d-4057-a4fc-998ebe07c307.jpg?1562057377|https://scryfall.com/card/tmp/145/mindwhip-sliver?utm_source=api>`
-   All Slivers have "|mana_2|, Sacrifice this permanent: Target player discards a card at random. Activate this ability only any time you could cast a sorcery."
+   All Slivers have "|mana_2|, Sacrifice this permanent: Target player discards a card at random. Activate only as a sorcery."
 
 
 :mtgtip:`Minion of the Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9f120fc-c681-47b6-827e-1cc7ead47a0f.jpg?1562056880|https://scryfall.com/card/tmp/146/minion-of-the-wastes?utm_source=api>`
@@ -748,7 +748,7 @@
 :mtgtip:`Pit Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c7acfe-b5b2-426f-a5a1-1ff8ef7ebf72.jpg?1562052816|https://scryfall.com/card/tmp/148/pit-imp?utm_source=api>`
    Flying
 
-   |mana_b|: Pit Imp gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_b|: Pit Imp gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Rain of Tears<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.jpg?1587857335|https://scryfall.com/card/tmp/149/rain-of-tears?utm_source=api>`
@@ -760,7 +760,7 @@
 
 
 :mtgtip:`Reanimate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1562055925|https://scryfall.com/card/tmp/151/reanimate?utm_source=api>`
-   Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+   Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.
 
 
 :mtgtip:`Reckless Spite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9141daea-1f4f-4227-b7d7-20753e3cb4d4.jpg?1562055421|https://scryfall.com/card/tmp/152/reckless-spite?utm_source=api>`
@@ -1060,7 +1060,7 @@
 
 
 :mtgtip:`Aluren<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/268403bc-733d-446e-a7c1-abc957c42bc2.jpg?1595430482|https://scryfall.com/card/tmp/213/aluren?utm_source=api>`
-   Any player may cast creature spells with converted mana cost 3 or less without paying their mana costs and as though they had flash.
+   Any player may cast creature spells with mana value 3 or less without paying their mana costs and as though they had flash.
 
 
 :mtgtip:`Apes of Rath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25eff287-6b53-4e6d-9da2-d80d05bb8c51.jpg?1562053254|https://scryfall.com/card/tmp/214/apes-of-rath?utm_source=api>`
@@ -1088,7 +1088,7 @@
 
 
 :mtgtip:`Crazed Armodon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b83e4b36-57c1-493d-ab79-52075990b2d5.jpg?1562056378|https://scryfall.com/card/tmp/220/crazed-armodon?utm_source=api>`
-   |mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate this ability only once each turn.
+   |mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate only once each turn.
 
 
 :mtgtip:`Dirtcowl Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9e2df7d-5d72-4a32-a453-6d8611f0d63c.jpg?1562055914|https://scryfall.com/card/tmp/221/dirtcowl-wurm?utm_source=api>`
@@ -1140,7 +1140,7 @@
 :mtgtip:`Harrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c207142-4880-4935-9827-b91bc7d9d643.jpg?1562053754|https://scryfall.com/card/tmp/230/harrow?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Heartwood Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2b9a001-2a1e-4fc4-9b84-c776f741a858.jpg?1562056897|https://scryfall.com/card/tmp/231/heartwood-dryad?utm_source=api>`
@@ -1204,7 +1204,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3ffbf716-9c3a-45aa-8fdb-632128cc97e2.jpg?1562053760|https://scryfall.com/card/tmp/245/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Reality Anchor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21204f62-c253-4d88-a4cd-7c0f6f0513e0.jpg?1562052803|https://scryfall.com/card/tmp/246/reality-anchor?utm_source=api>`
@@ -1238,7 +1238,7 @@
 
 
 :mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03ce4d5d-63cb-47b6-94ce-2063977db9b4.jpg?1562052325|https://scryfall.com/card/tmp/252/rootwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Scragnoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d80f7fa7-e7c4-4fc4-99bf-8a8502965fc8.jpg?1562056876|https://scryfall.com/card/tmp/253/scragnoth?utm_source=api>`
@@ -1258,7 +1258,7 @@
 
 
 :mtgtip:`Skyshroud Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efe01296-2b8b-4cdf-a041-a08bebea9c29.jpg?1562057365|https://scryfall.com/card/tmp/256/skyshroud-ranger?utm_source=api>`
-   |tap|: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery.
+   |tap|: You may put a land card from your hand onto the battlefield. Activate only as a sorcery.
 
 
 :mtgtip:`Skyshroud Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/925c488d-79db-47d1-b7be-851f31732026.jpg?1562055428|https://scryfall.com/card/tmp/257/skyshroud-troll?utm_source=api>`
@@ -1308,7 +1308,7 @@
 
 
 :mtgtip:`Lobotomy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee7ba92d-d327-4b1c-be40-708c5abb27df.jpg?1562057361|https://scryfall.com/card/tmp/267/lobotomy?utm_source=api>`
-   Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.
+   Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Ranger en-Vec<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a89e82c-7206-4d74-95c6-ad3627e5a9ce.jpg?1562053775|https://scryfall.com/card/tmp/268/ranger-en-vec?utm_source=api>`
@@ -1382,7 +1382,7 @@
 
 
 :mtgtip:`Echo Chamber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06425615-6c10-4766-8128-a1a09a35649d.jpg?1562052329|https://scryfall.com/card/tmp/282/echo-chamber?utm_source=api>`
-   |mana_4|, |tap|: An opponent chooses target creature they control. Create a token that's a copy of that creature. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate this ability only any time you could cast a sorcery.
+   |mana_4|, |tap|: An opponent chooses target creature they control. Create a token that's a copy of that creature. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate only as a sorcery.
 
 
 :mtgtip:`Emerald Medallion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67e87f30-b27a-48e2-a133-192309dd5902.jpg?1562054457|https://scryfall.com/card/tmp/283/emerald-medallion?utm_source=api>`
@@ -1412,7 +1412,7 @@
 
 
 :mtgtip:`Fool's Tome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83be257c-8945-46be-8b58-fb2881084026.jpg?1562054974|https://scryfall.com/card/tmp/289/fools-tome?utm_source=api>`
-   |mana_2|, |tap|: Draw a card. Activate this ability only if you have no cards in hand.
+   |mana_2|, |tap|: Draw a card. Activate only if you have no cards in hand.
 
 
 :mtgtip:`Grindstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4459187-de64-456f-bb66-56dea40d5c3e.jpg?1562057371|https://scryfall.com/card/tmp/290/grindstone?utm_source=api>`
@@ -1550,7 +1550,7 @@
 :mtgtip:`Ghost Town<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4218cdda-3a62-43fb-aaf7-7ac836392796.jpg?1562053761|https://scryfall.com/card/tmp/318/ghost-town?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_0|: Return Ghost Town to its owner's hand. Activate this ability only if it's not your turn.
+   |mana_0|: Return Ghost Town to its owner's hand. Activate only if it's not your turn.
 
 
 :mtgtip:`Maze of Shadows<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba69c3d3-6fb5-478d-93ba-341dd3ace97d.jpg?1562056379|https://scryfall.com/card/tmp/319/maze-of-shadows?utm_source=api>`

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -499,7 +499,7 @@ msgid "Enchant artifact"
 msgstr ""
 
 #: ../../LEB.rst:243
-msgid "As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost."
+msgid "As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../LEB.rst:252
@@ -776,7 +776,7 @@ msgid ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../LEB.rst:401
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+msgid "Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../LEB.rst:408
@@ -1000,7 +1000,7 @@ msgid ":mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../LEB.rst:523
-msgid "Search your library for a card, put that card into your hand, then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../LEB.rst:530
@@ -1142,7 +1142,7 @@ msgid ":mtgtip:`Nettling Imp<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../LEB.rst:597
-msgid "|tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate this ability only during an opponent's turn, before attackers are declared."
+msgid "|tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared."
 msgstr ""
 
 #: ../../LEB.rst:604
@@ -1214,7 +1214,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
 #: ../../LEB.rst:637
-msgid "Add an amount of |mana_b| equal to the sacrificed creature's converted mana cost."
+msgid "Add an amount of |mana_b| equal to the sacrificed creature's mana value."
 msgstr ""
 
 #: ../../LEB.rst:640
@@ -1592,7 +1592,7 @@ msgid "|mana_r|: Prevent the next 1 damage that would be dealt to Rock Hydra thi
 msgstr ""
 
 #: ../../LEB.rst:865
-msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep."
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEB.rst:872
@@ -1853,7 +1853,7 @@ msgid "Enchanted creature can attack as though it had haste."
 msgstr ""
 
 #: ../../LEB.rst:1017
-msgid "|mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn."
+msgid "|mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn."
 msgstr ""
 
 #: ../../LEB.rst:1020
@@ -1934,7 +1934,7 @@ msgid ":mtgtip:`Natural Selection<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LEB.rst:1065
-msgid "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library."
+msgid "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle."
 msgstr ""
 
 #: ../../LEB.rst:1072
@@ -2127,7 +2127,7 @@ msgid "At end of combat, if Clockwork Beast attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../LEB.rst:1181
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEB.rst:1186
@@ -2159,7 +2159,7 @@ msgid ":mtgtip:`Cyclopean Tomb<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../LEB.rst:1197
-msgid "|mana_2|, |tap|: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep."
+msgid "|mana_2|, |tap|: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEB.rst:1199
@@ -2179,7 +2179,7 @@ msgid ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../LEB.rst:1207
-msgid "|mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_3|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../LEB.rst:1212
@@ -2239,7 +2239,7 @@ msgid ":mtgtip:`Illusionary Mask<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LEB.rst:1237
-msgid "|mana_x|: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on |mana_x|. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_x|: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on |mana_x|. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery."
 msgstr ""
 
 #: ../../LEB.rst:1242
@@ -2271,7 +2271,7 @@ msgid ":mtgtip:`Jade Statue<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../LEB.rst:1253
-msgid "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat."
+msgid "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat."
 msgstr ""
 
 #: ../../LEB.rst:1258

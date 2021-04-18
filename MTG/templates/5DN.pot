@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgid ":mtgtip:`Auriok Salvagers<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../5DN.rst:29
-msgid "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand."
+msgid "|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less from your graveyard to your hand."
 msgstr ""
 
 #: ../../5DN.rst:36
@@ -138,7 +138,7 @@ msgid ":mtgtip:`Leonin Squire<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../5DN.rst:55
-msgid "When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand."
+msgid "When Leonin Squire enters the battlefield, return target artifact card with mana value 1 or less from your graveyard to your hand."
 msgstr ""
 
 #: ../../5DN.rst:60
@@ -228,7 +228,7 @@ msgid ":mtgtip:`Steelshaper's Gift<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../5DN.rst:101
-msgid "Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../5DN.rst:106
@@ -244,7 +244,7 @@ msgid ":mtgtip:`Acquire<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../5DN.rst:109
-msgid "Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles their library."
+msgid "Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles."
 msgstr ""
 
 #: ../../5DN.rst:116
@@ -260,7 +260,7 @@ msgid ":mtgtip:`Artificer's Intuition<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../5DN.rst:119
-msgid "|mana_u|, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "|mana_u|, Discard an artifact card: Search your library for an artifact card with mana value 1 or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../5DN.rst:124
@@ -395,7 +395,7 @@ msgid ":mtgtip:`Trinket Mage<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../5DN.rst:203
-msgid "When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library."
+msgid "When Trinket Mage enters the battlefield, you may search your library for an artifact card with mana value 1 or less, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../5DN.rst:208
@@ -427,7 +427,7 @@ msgid ":mtgtip:`Bringer of the Black Dawn<https://c1.scryfall.com/file/scryfall-
 msgstr ""
 
 #: ../../5DN.rst:223
-msgid "At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it."
+msgid "At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../5DN.rst:230
@@ -643,7 +643,7 @@ msgid ":mtgtip:`Granulate<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../5DN.rst:347
-msgid "Destroy each nonland artifact with converted mana cost 4 or less."
+msgid "Destroy each nonland artifact with mana value 4 or less."
 msgstr ""
 
 #: ../../5DN.rst:352
@@ -856,7 +856,7 @@ msgid ":mtgtip:`Rite of Passage<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../5DN.rst:461
-msgid "Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (The damage is dealt before the counter is put on.)"
+msgid "Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)"
 msgstr ""
 
 #: ../../5DN.rst:472
@@ -1127,7 +1127,7 @@ msgid ":mtgtip:`Engineered Explosives<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../5DN.rst:599
-msgid "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives."
+msgid "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with mana value equal to the number of charge counters on Engineered Explosives."
 msgstr ""
 
 #: ../../5DN.rst:608
@@ -1338,7 +1338,7 @@ msgid "Players play with the top card of their libraries revealed."
 msgstr ""
 
 #: ../../5DN.rst:705
-msgid "|tap|, Sacrifice Lantern of Insight: Target player shuffles their library."
+msgid "|tap|, Sacrifice Lantern of Insight: Target player shuffles."
 msgstr ""
 
 #: ../../5DN.rst:712
@@ -1462,7 +1462,7 @@ msgid ":mtgtip:`Salvaging Station<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../5DN.rst:781
-msgid "|tap|: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield."
+msgid "|tap|: Return target noncreature artifact card with mana value 1 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../5DN.rst:783
@@ -1634,5 +1634,5 @@ msgid ":mtgtip:`Wayfarer's Bauble<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../5DN.rst:883
-msgid "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""

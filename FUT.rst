@@ -16,7 +16,7 @@
 :mtgtip:`Augur il-Vec<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c1fdf86-22aa-4c18-a971-8ff1fd8b3de1.jpg?1562900568|https://scryfall.com/card/fut/2/augur-il-vec?utm_source=api>`
    Shadow (This creature can block or be blocked by only creatures with shadow.)
 
-   Sacrifice Augur il-Vec: You gain 4 life. Activate this ability only during your upkeep.
+   Sacrifice Augur il-Vec: You gain 4 life. Activate only during your upkeep.
 
 
 :mtgtip:`Barren Glory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12220d53-3356-4541-aa43-a0de6ed3f7d0.jpg?1562898649|https://scryfall.com/card/fut/3/barren-glory?utm_source=api>`
@@ -58,7 +58,7 @@
 
 
 :mtgtip:`Judge Unworthy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46b0f9cb-f848-460e-94cc-d85b23133d6e.jpg?1562909352|https://scryfall.com/card/fut/9/judge-unworthy?utm_source=api>`
-   Choose target attacking or blocking creature. Scry 3, then reveal the top card of your library. Judge Unworthy deals damage equal to that card's converted mana cost to that creature. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Choose target attacking or blocking creature. Scry 3, then reveal the top card of your library. Judge Unworthy deals damage equal to that card's mana value to that creature.
 
 
 :mtgtip:`Knight of Sursi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84b23129-25b2-4870-9462-ab12718ae7be.jpg?1562921827|https://scryfall.com/card/fut/10/knight-of-sursi?utm_source=api>`
@@ -70,7 +70,7 @@
 :mtgtip:`Lost Auramancers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/834bfc49-9411-4a0f-b79b-d0d35f898952.jpg?1562921593|https://scryfall.com/card/fut/11/lost-auramancers?utm_source=api>`
    Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 
-   When Lost Auramancers dies, if it had no time counters on it, you may search your library for an enchantment card and put it onto the battlefield. If you do, shuffle your library.
+   When Lost Auramancers dies, if it had no time counters on it, you may search your library for an enchantment card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Magus of the Moat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20dcdda9-66a2-401f-9e1b-5603f771f56f.jpg?1562901530|https://scryfall.com/card/fut/12/magus-of-the-moat?utm_source=api>`
@@ -102,7 +102,7 @@
 :mtgtip:`Spirit en-Dal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec0d6477-9c50-4196-a04f-da73b5a07e01.jpg?1562942439|https://scryfall.com/card/fut/17/spirit-en-dal?utm_source=api>`
    Shadow (This creature can block or be blocked by only creatures with shadow.)
 
-   Forecast — |mana_1|\ |mana_w|, Reveal Spirit en-Dal from your hand: Target creature gains shadow until end of turn. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_1|\ |mana_w|, Reveal Spirit en-Dal from your hand: Target creature gains shadow until end of turn. (Activate only during your upkeep and only once each turn.)
 
 
 :mtgtip:`Aven Mindcensor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b8ede8a-5317-4662-b964-a9bd202a4aab.jpg?1562913577|https://scryfall.com/card/fut/18/aven-mindcensor?utm_source=api>`
@@ -154,7 +154,7 @@
 
 
 :mtgtip:`Mistmeadow Skulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1b45f8f-8f41-426d-b773-1e8cdfbff6f8.jpg?1562943588|https://scryfall.com/card/fut/27/mistmeadow-skulk?utm_source=api>`
-   Lifelink, protection from converted mana cost 3 or greater
+   Lifelink, protection from mana value 3 or greater
 
 
 :mtgtip:`Oriss, Samite Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a9a3aeb-a316-4b1e-927b-36c3f999f2c3.jpg?1562919683|https://scryfall.com/card/fut/28/oriss-samite-guardian?utm_source=api>`
@@ -170,7 +170,7 @@
 
 
 :mtgtip:`Ramosian Revivalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/250ee8d2-6f03-44a5-8f4c-ced4eaa4cdea.jpg?1562902474|https://scryfall.com/card/fut/30/ramosian-revivalist?utm_source=api>`
-   |mana_6|, |tap|: Return target Rebel permanent card with converted mana cost 5 or less from your graveyard to the battlefield.
+   |mana_6|, |tap|: Return target Rebel permanent card with mana value 5 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Seht's Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2092edca-cdc9-47e2-9c0c-e73c5a657777.jpg?1562901466|https://scryfall.com/card/fut/31/sehts-tiger?utm_source=api>`
@@ -182,7 +182,7 @@
 :mtgtip:`Aven Augur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7599618-cbd9-4013-b0a5-4ba77fd52ab4.jpg?1562934982|https://scryfall.com/card/fut/32/aven-augur?utm_source=api>`
    Flying
 
-   Sacrifice Aven Augur: Return up to two target creatures to their owners' hands. Activate this ability only during your upkeep.
+   Sacrifice Aven Augur: Return up to two target creatures to their owners' hands. Activate only during your upkeep.
 
 
 :mtgtip:`Cloudseeder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/727f9f4b-a8b6-47bd-9830-e69d118fe671.jpg?1562917905|https://scryfall.com/card/fut/33/cloudseeder?utm_source=api>`
@@ -200,7 +200,7 @@
 
 
 :mtgtip:`Foresee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0bd95b5-1e90-41c5-8a9f-f3009f3f504a.jpg?1562933712|https://scryfall.com/card/fut/36/foresee?utm_source=api>`
-   Scry 4, then draw two cards. (To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Scry 4, then draw two cards.
 
 
 :mtgtip:`Infiltrator il-Kor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fa2e4b5-aec8-43e0-9ef3-d9cbe1072f18.jpg?1562914357|https://scryfall.com/card/fut/37/infiltrator-il-kor?utm_source=api>`
@@ -292,7 +292,7 @@
 
 
 :mtgtip:`Linessa, Zephyr Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799538af-e497-457b-b096-ee6f342f51b5.jpg?1562919419|https://scryfall.com/card/fut/51/linessa-zephyr-mage?utm_source=api>`
-   |mana_x|\ |mana_u|\ |mana_u|, |tap|: Return target creature with converted mana cost X to its owner's hand.
+   |mana_x|\ |mana_u|\ |mana_u|, |tap|: Return target creature with mana value X to its owner's hand.
 
    Grandeur — Discard another card named Linessa, Zephyr Mage: Target player returns a creature they control to its owner's hand, then repeats this process for an artifact, an enchantment, and a land.
 
@@ -350,7 +350,7 @@
 
    When Vedalken Aethermage enters the battlefield, return target Sliver to its owner's hand.
 
-   Wizardcycling |mana_3| (|mana_3|, Discard this card: Search your library for a Wizard card, reveal it, put it into your hand, then shuffle your library.)
+   Wizardcycling |mana_3| (|mana_3|, Discard this card: Search your library for a Wizard card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Whip-Spine Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/111ddb99-08a4-4349-a246-d19de32527e2.jpg?1562898471|https://scryfall.com/card/fut/62/whip-spine-drake?utm_source=api>`
@@ -362,7 +362,7 @@
 :mtgtip:`Augur of Skulls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/945404d5-9e44-45e7-84fd-5f8c893e7d27.jpg?1562924919|https://scryfall.com/card/fut/63/augur-of-skulls?utm_source=api>`
    |mana_1|\ |mana_b|: Regenerate Augur of Skulls.
 
-   Sacrifice Augur of Skulls: Target player discards two cards. Activate this ability only during your upkeep.
+   Sacrifice Augur of Skulls: Target player discards two cards. Activate only during your upkeep.
 
 
 :mtgtip:`Cutthroat il-Dal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/192bc089-696d-41b4-a02f-d7dc166feedd.jpg?1562900007|https://scryfall.com/card/fut/64/cutthroat-il-dal?utm_source=api>`
@@ -432,13 +432,13 @@
 
 
 :mtgtip:`Putrid Cyclops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14e82edf-8acc-4024-bb88-f727f632b061.jpg?1562899185|https://scryfall.com/card/fut/75/putrid-cyclops?utm_source=api>`
-   When Putrid Cyclops enters the battlefield, scry 1, then reveal the top card of your library. Putrid Cyclops gets -X/-X until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+   When Putrid Cyclops enters the battlefield, scry 1, then reveal the top card of your library. Putrid Cyclops gets -X/-X until end of turn, where X is that card's mana value. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
 :mtgtip:`Shimian Specter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6faa406-aa7a-49ce-a42e-00e98f3fb74e.jpg?1562941386|https://scryfall.com/card/fut/76/shimian-specter?utm_source=api>`
    Flying
 
-   Whenever Shimian Specter deals combat damage to a player, that player reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles their library.
+   Whenever Shimian Specter deals combat damage to a player, that player reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Skirk Ridge Exhumer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e783332-ea4e-4330-ba91-d23e5a58a7eb.jpg?1562910879|https://scryfall.com/card/fut/77/skirk-ridge-exhumer?utm_source=api>`
@@ -458,7 +458,7 @@
 
 
 :mtgtip:`Bitter Ordeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2879e7a1-0256-4116-be22-7c9972e4ce0b.jpg?1562903258|https://scryfall.com/card/fut/80/bitter-ordeal?utm_source=api>`
-   Search target player's library for a card and exile it. Then that player shuffles their library.
+   Search target player's library for a card and exile it. Then that player shuffles.
 
    Gravestorm (When you cast this spell, copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)
 
@@ -482,7 +482,7 @@
 
 
 :mtgtip:`Fleshwrither<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08e1a646-6925-4a53-a99c-8951af016a7a.jpg?1562896768|https://scryfall.com/card/fut/84/fleshwrither?utm_source=api>`
-   Transfigure |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Sacrifice this creature: Search your library for a creature card with the same converted mana cost as this creature and put that card onto the battlefield. Then shuffle your library. Transfigure only as a sorcery.)
+   Transfigure |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Sacrifice this creature: Search your library for a creature card with the same mana value as this creature, put that card onto the battlefield, then shuffle. Transfigure only as a sorcery.)
 
 
 :mtgtip:`Frenzy Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d796119a-f1eb-4de9-a9ca-d322017e9c5e.jpg?1562938286|https://scryfall.com/card/fut/85/frenzy-sliver?utm_source=api>`
@@ -500,7 +500,7 @@
 
    |mana_1|\ |mana_b|: Regenerate Korlash.
 
-   Grandeur — Discard another card named Korlash, Heir to Blackblade: Search your library for up to two Swamp cards, put them onto the battlefield tapped, then shuffle your library.
+   Grandeur — Discard another card named Korlash, Heir to Blackblade: Search your library for up to two Swamp cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Mass of Ghouls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20c3f515-de7d-41eb-8ba0-532f4c13ac39.jpg?1562901519|https://scryfall.com/card/fut/88/mass-of-ghouls?utm_source=api>`
@@ -552,7 +552,7 @@
 
 
 :mtgtip:`Emberwilde Augur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc78dbef-315c-4f9b-8a1a-76a62a941182.jpg?1562936099|https://scryfall.com/card/fut/97/emberwilde-augur?utm_source=api>`
-   Sacrifice Emberwilde Augur: It deals 3 damage to target player or planeswalker. Activate this ability only during your upkeep.
+   Sacrifice Emberwilde Augur: It deals 3 damage to target player or planeswalker. Activate only during your upkeep.
 
 
 :mtgtip:`Fatal Attraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/930ff9ec-6b97-445e-b274-7c8c5fe0c0fc.jpg?1562924684|https://scryfall.com/card/fut/98/fatal-attraction?utm_source=api>`
@@ -602,7 +602,7 @@
 
 
 :mtgtip:`Riddle of Lightning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/338be9e2-c0b8-4b69-b7b6-6ba9927a3a4d.jpg?1562905386|https://scryfall.com/card/fut/105/riddle-of-lightning?utm_source=api>`
-   Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that permanent or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's mana value to that permanent or player.
 
 
 :mtgtip:`Rift Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/670c1a05-0dd2-4535-aa7f-ed33bbe92681.jpg?1562915841|https://scryfall.com/card/fut/106/rift-elemental?utm_source=api>`
@@ -624,7 +624,7 @@
 
    • Put two time counters on target permanent with a time counter on it or suspended card.
 
-   Suspend 4—|mana_r| (Rather than cast this card from your hand, you may pay |mana_r| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+   Suspend 4—|mana_r|
 
 
 :mtgtip:`Sparkspitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91431126-05b3-4c2e-aff7-41c2866265f6.jpg?1562924310|https://scryfall.com/card/fut/109/sparkspitter?utm_source=api>`
@@ -632,7 +632,7 @@
 
 
 :mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b930b146-d132-454f-b35d-4a247c14c054.jpg?1562932259|https://scryfall.com/card/fut/110/bloodshot-trainee?utm_source=api>`
-   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater.
 
 
 :mtgtip:`Boldwyr Intimidator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/179bec14-2e22-43eb-8854-b70a97dd023b.jpg?1562899727|https://scryfall.com/card/fut/111/boldwyr-intimidator?utm_source=api>`
@@ -666,7 +666,7 @@
 
 
 :mtgtip:`Grinning Ignus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31716a43-2522-46ff-a9a4-b6952cd41f11.jpg?1562905022|https://scryfall.com/card/fut/116/grinning-ignus?utm_source=api>`
-   |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate this ability only any time you could cast a sorcery.
+   |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate only as a sorcery.
 
 
 :mtgtip:`Henchfiend of Ukor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b41cef7-bb16-4d89-9900-dc6d1f5200f0.jpg?1562906980|https://scryfall.com/card/fut/117/henchfiend-of-ukor?utm_source=api>`
@@ -680,7 +680,7 @@
 :mtgtip:`Homing Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c876479-5040-4d36-b43a-54d7fc9160c1.jpg?1562897571|https://scryfall.com/card/fut/118/homing-sliver?utm_source=api>`
    Each Sliver card in each player's hand has slivercycling |mana_3|.
 
-   Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library for a Sliver card, reveal it, put it into your hand, then shuffle your library.)
+   Slivercycling |mana_3| (|mana_3|, Discard this card: Search your library for a Sliver card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Shah of Naar Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/cee5e9e3-e3ae-4e1b-a8fb-48c523631105.jpg?1562936595|https://scryfall.com/card/fut/119/shah-of-naar-isle?utm_source=api>`
@@ -744,7 +744,7 @@
 
 
 :mtgtip:`Llanowar Augur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c8c9473-97f4-4875-8f06-d3a70d4cbe6d.jpg?1562900665|https://scryfall.com/card/fut/129/llanowar-augur?utm_source=api>`
-   Sacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Activate this ability only during your upkeep.
+   Sacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Activate only during your upkeep.
 
 
 :mtgtip:`Llanowar Empath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf831ed3-d3ae-43ac-82ca-4984c05dde86.jpg?1562933525|https://scryfall.com/card/fut/130/llanowar-empath?utm_source=api>`
@@ -804,7 +804,7 @@
 
 
 :mtgtip:`Summoner's Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/948b026c-cfce-462b-afb6-7a383bd121de.jpg?1562924951|https://scryfall.com/card/fut/139/summoners-pact?utm_source=api>`
-   Search your library for a green creature card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a green creature card, reveal it, put it into your hand, then shuffle.
 
    At the beginning of your next upkeep, pay |mana_2|\ |mana_g|\ |mana_g|. If you don't, you lose the game.
 
@@ -832,7 +832,7 @@
 
 
 :mtgtip:`Edge of Autumn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03998e86-ef67-4329-b106-61252f3f532a.jpg?1562895711|https://scryfall.com/card/fut/144/edge-of-autumn?utm_source=api>`
-   If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)
 
@@ -882,9 +882,7 @@
 
 
 :mtgtip:`Thornweald Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/783a50a0-9394-4d97-856f-21eb126a0018.jpg?1562919105|https://scryfall.com/card/fut/154/thornweald-archer?utm_source=api>`
-   Reach (This creature can block creatures with flying.)
-
-   Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+   Reach, deathtouch
 
 
 :mtgtip:`Virulent Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66de9c95-e590-4b0d-a2d7-886d7a488a10.jpg?1562915794|https://scryfall.com/card/fut/155/virulent-sliver?utm_source=api>`
@@ -976,7 +974,7 @@
 
    |tap|: Add |mana_r|.
 
-   Hellbent — |mana_1|\ |mana_r|, |tap|: Keldon Megaliths deals 1 damage to any target. Activate this ability only if you have no cards in hand.
+   Hellbent — |mana_1|\ |mana_r|, |tap|: Keldon Megaliths deals 1 damage to any target. Activate only if you have no cards in hand.
 
 
 :mtgtip:`Llanowar Reborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04d07c6b-1afa-4321-b4f9-f22e81a0b818.jpg?1562895900|https://scryfall.com/card/fut/171/llanowar-reborn?utm_source=api>`
@@ -1000,7 +998,7 @@
 
    |tap|: Add |mana_u|.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with mana value 0, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Dryad Arbor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cee476d-42e1-4997-87af-73e18f542167.jpg?1562923491|https://scryfall.com/card/fut/174/dryad-arbor?utm_source=api>`
@@ -1028,9 +1026,9 @@
 :mtgtip:`Nimbus Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80d1f953-9403-4e0a-b8e1-3f7d928a2834.jpg?1562920952|https://scryfall.com/card/fut/178/nimbus-maze?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_w|. Activate this ability only if you control an Island.
+   |tap|: Add |mana_w|. Activate only if you control an Island.
 
-   |tap|: Add |mana_u|. Activate this ability only if you control a Plains.
+   |tap|: Add |mana_u|. Activate only if you control a Plains.
 
 
 :mtgtip:`River of Tears<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d5b2058-99fc-4d9b-9e3d-056fa3fd1244.jpg?1562923565|https://scryfall.com/card/fut/179/river-of-tears?utm_source=api>`

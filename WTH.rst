@@ -140,7 +140,7 @@
 
 
 :mtgtip:`Tariff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24333832-2a87-4810-9443-ec993468d103.jpg?1562799834|https://scryfall.com/card/wth/28/tariff?utm_source=api>`
-   Each player sacrifices the creature they control with the highest converted mana cost unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.
+   Each player sacrifices the creature they control with the highest mana value unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest, that player chooses one.
 
 
 :mtgtip:`Volunteer Reserves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/5344911f-25e8-45ce-87b9-607e42db0139.jpg?1562800849|https://scryfall.com/card/wth/29/volunteer-reserves?utm_source=api>`
@@ -188,7 +188,7 @@
 :mtgtip:`Avizoa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a993986c-e8f1-41b1-86e6-c72021c53b87.jpg?1562802614|https://scryfall.com/card/wth/35/avizoa?utm_source=api>`
    Flying
 
-   |mana_0|: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.
+   |mana_0|: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate only once each turn.
 
 
 :mtgtip:`Cloud Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c857a151-45fe-43af-a9be-a93d26f220f3.jpg?1562803316|https://scryfall.com/card/wth/36/cloud-djinn?utm_source=api>`
@@ -242,7 +242,7 @@
 
 
 :mtgtip:`Noble Benefactor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd221f30-1773-4e05-a40f-022a9306ef89.jpg?1562803050|https://scryfall.com/card/wth/44/noble-benefactor?utm_source=api>`
-   When Noble Benefactor dies, each player may search their library for a card and put that card into their hand. Then each player who searched their library this way shuffles it.
+   When Noble Benefactor dies, each player may search their library for a card and put that card into their hand. Then each player who searched their library this way shuffles.
 
 
 :mtgtip:`Ophidian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0de0a010-76a7-460f-bb4e-a152c10c3bb7.jpg?1562799331|https://scryfall.com/card/wth/45/ophidian?utm_source=api>`
@@ -330,7 +330,7 @@
 
 
 :mtgtip:`Buried Alive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b92eb5-72b0-46b4-8b16-8a7a7ac80f56.jpg?1562800911|https://scryfall.com/card/wth/63/buried-alive?utm_source=api>`
-   Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.
+   Search your library for up to three creature cards, put them into your graveyard, then shuffle.
 
 
 :mtgtip:`Circling Vultures<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dae8e49-c2b6-4965-9249-49f93449d271.jpg?1562802083|https://scryfall.com/card/wth/64/circling-vultures?utm_source=api>`
@@ -450,7 +450,7 @@
 :mtgtip:`Wave of Terror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d40ab3e7-9abb-4acc-9932-de03b533722f.jpg?1562803537|https://scryfall.com/card/wth/86/wave-of-terror?utm_source=api>`
    Cumulative upkeep |mana_1| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 
-   At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can't be regenerated.
+   At the beginning of your draw step, destroy each creature with mana value equal to the number of age counters on Wave of Terror. They can't be regenerated.
 
 
 :mtgtip:`Zombie Scavengers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ec786b1-6097-4e97-99b0-571d6e3e73e7.jpg?1562800058|https://scryfall.com/card/wth/87/zombie-scavengers?utm_source=api>`
@@ -658,7 +658,7 @@
 
 
 :mtgtip:`Fungus Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4336bfd1-27a4-414d-b6fe-f186a0563dc0.jpg?1562800505|https://scryfall.com/card/wth/128/fungus-elemental?utm_source=api>`
-   |mana_g|, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.
+   |mana_g|, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate only if Fungus Elemental entered the battlefield this turn.
 
 
 :mtgtip:`Gaea's Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee83d511-57e0-40fb-a4db-62f6c2c39888.jpg?1562804131|https://scryfall.com/card/wth/129/gaeas-blessing?utm_source=api>`
@@ -686,7 +686,7 @@
 
 
 :mtgtip:`Llanowar Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f37ea4b-66e2-4ad5-ae7f-d02fd59131bd.jpg?1562801409|https://scryfall.com/card/wth/134/llanowar-sentinel?utm_source=api>`
-   When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+   When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Mwonvuli Ooze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa9c6f65-93a1-4913-87e7-a17ebfcc7780.jpg?1562802636|https://scryfall.com/card/wth/135/mwonvuli-ooze?utm_source=api>`
@@ -730,7 +730,7 @@
 
 
 :mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdac36f2-99ce-4d48-90fa-aa7439778ffc.jpg?1562803072|https://scryfall.com/card/wth/144/veteran-explorer?utm_source=api>`
-   When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it.
+   When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Vitalize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6ee4997-4b1a-4e03-88ac-63b451bb7b38.jpg?1562803601|https://scryfall.com/card/wth/145/vitalize?utm_source=api>`

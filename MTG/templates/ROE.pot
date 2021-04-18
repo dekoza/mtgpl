@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -712,7 +712,7 @@ msgid ":mtgtip:`Totem-Guide Hartebeest<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../ROE.rst:349
-msgid "When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:366
@@ -1216,7 +1216,7 @@ msgid ":mtgtip:`Baneful Omen<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ROE.rst:691
-msgid "At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost."
+msgid "At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:696
@@ -1248,7 +1248,7 @@ msgid ":mtgtip:`Consume the Meek<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ROE.rst:709
-msgid "Destroy each creature with converted mana cost 3 or less. They can't be regenerated."
+msgid "Destroy each creature with mana value 3 or less. They can't be regenerated."
 msgstr ""
 
 #: ../../ROE.rst:716
@@ -1391,7 +1391,7 @@ msgid "As an additional cost to cast this spell, reveal a creature card from you
 msgstr ""
 
 #: ../../ROE.rst:797
-msgid "Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost."
+msgid "Target creature gets -X/-X until end of turn, where X is the revealed card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:802
@@ -1399,7 +1399,7 @@ msgid ":mtgtip:`Inquisition of Kozilek<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../ROE.rst:801
-msgid "Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card."
+msgid "Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card."
 msgstr ""
 
 #: ../../ROE.rst:806
@@ -1657,7 +1657,7 @@ msgid ":mtgtip:`Disaster Radius<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../ROE.rst:969
-msgid "Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost."
+msgid "Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:974
@@ -1673,7 +1673,7 @@ msgid ":mtgtip:`Explosive Revelation<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../ROE.rst:977
-msgid "Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that permanent or player. Put the nonland card into your hand and the rest on the bottom of your library in any order."
+msgid "Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's mana value to that permanent or player. Put the nonland card into your hand and the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../ROE.rst:986
@@ -1963,7 +1963,7 @@ msgid ":mtgtip:`Ancient Stirrings<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ROE.rst:1151
-msgid "Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)"
+msgid "Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../ROE.rst:1158
@@ -2059,7 +2059,7 @@ msgid ":mtgtip:`Growth Spasm<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ROE.rst:1221
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this creature: Add |colorless|.\""
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
 
 #: ../../ROE.rst:1228
@@ -2157,7 +2157,7 @@ msgid ":mtgtip:`Living Destiny<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ROE.rst:1289
-msgid "You gain life equal to the revealed card's converted mana cost."
+msgid "You gain life equal to the revealed card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:1294
@@ -2221,7 +2221,7 @@ msgid ":mtgtip:`Ondu Giant<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../ROE.rst:1323
-msgid "When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:1330
@@ -2257,7 +2257,7 @@ msgid ":mtgtip:`Realms Uncharted<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ROE.rst:1347
-msgid "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library."
+msgid "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:1356
@@ -2317,7 +2317,7 @@ msgid ":mtgtip:`Sarkhan the Mad<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../ROE.rst:1389
-msgid "0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost."
+msgid "0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's mana value."
 msgstr ""
 
 #: ../../ROE.rst:1391
@@ -2365,7 +2365,7 @@ msgid ":mtgtip:`Hedron Matrix<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ROE.rst:1413
-msgid "Equipped creature gets +X/+X, where X is its converted mana cost."
+msgid "Equipped creature gets +X/+X, where X is its mana value."
 msgstr ""
 
 #: ../../ROE.rst:1415
@@ -2473,7 +2473,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ROE.rst:1469
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ROE.rst:1474

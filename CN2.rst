@@ -28,7 +28,7 @@
 
    Before drawing your opening hand, choose 1, 2, or 3.
 
-   You may spend mana as though it were mana of any color to cast creature spells with converted mana cost equal to the chosen number.
+   You may spend mana as though it were mana of any color to cast creature spells with mana value equal to the chosen number.
 
 
 :mtgtip:`Hired Heist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3914468-d769-4fe3-ae18-0caee9eb1502.jpg?1576381473|https://scryfall.com/card/cn2/5/hired-heist?utm_source=api>`
@@ -78,7 +78,7 @@
 :mtgtip:`Summoner's Bond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4f16145-1ace-48a9-bd98-b0aea3e4bf62.jpg?1576381534|https://scryfall.com/card/cn2/11/summoners-bond?utm_source=api>`
    Double agenda (Start the game with this conspiracy face down in the command zone and secretly choose two different card names. You may turn this conspiracy face up any time and reveal those names.)
 
-   Whenever you cast a creature spell with one of the chosen names, you may search your library for a creature card with the other chosen name, reveal it, put it into your hand, then shuffle your library.
+   Whenever you cast a creature spell with one of the chosen names, you may search your library for a creature card with the other chosen name, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Weight Advantage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feef03a1-f19a-413b-ad86-0b357cf9c09c.jpg?1576381542|https://scryfall.com/card/cn2/12/weight-advantage?utm_source=api>`
@@ -100,7 +100,7 @@
 :mtgtip:`Custodi Soulcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e29212c9-04e3-4678-be73-f7405a85dadb.jpg?1576381568|https://scryfall.com/card/cn2/15/custodi-soulcaller?utm_source=api>`
    Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 
-   Whenever Custodi Soulcaller attacks, return target creature card with converted mana cost X or less from your graveyard to the battlefield, where X is the number of players you attacked this combat.
+   Whenever Custodi Soulcaller attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of players you attacked this combat.
 
 
 :mtgtip:`Lieutenants of the Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71bf4f19-802d-466a-85f1-2062ae3656a1.jpg?1576381577|https://scryfall.com/card/cn2/16/lieutenants-of-the-guard?utm_source=api>`
@@ -118,7 +118,7 @@
 :mtgtip:`Palace Jailer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78cef262-c753-4658-b3ec-fec8db47f944.jpg?1576381600|https://scryfall.com/card/cn2/18/palace-jailer?utm_source=api>`
    When Palace Jailer enters the battlefield, you become the monarch.
 
-   When Palace Jailer enters the battlefield, exile target creature an opponent controls until an opponent becomes the monarch. (That creature returns under its owner's control.)
+   When Palace Jailer enters the battlefield, exile target creature an opponent controls until an opponent becomes the monarch.
 
 
 :mtgtip:`Palace Sentinels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e002a99-eb2b-4cc3-992e-f3ee42245dba.jpg?1576381609|https://scryfall.com/card/cn2/19/palace-sentinels?utm_source=api>`
@@ -140,19 +140,19 @@
 
 
 :mtgtip:`Recruiter of the Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb9ad57f-cca2-4717-a951-cbe3c7782efe.jpg?1576381637|https://scryfall.com/card/cn2/22/recruiter-of-the-guard?utm_source=api>`
-   When Recruiter of the Guard enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle your library.
+   When Recruiter of the Guard enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d95a7dd-2803-4164-8979-d7e8e8085ca2.jpg?1576381648|https://scryfall.com/card/cn2/23/sanctum-prelate?utm_source=api>`
    As Sanctum Prelate enters the battlefield, choose a number.
 
-   Noncreature spells with converted mana cost equal to the chosen number can't be cast.
+   Noncreature spells with mana value equal to the chosen number can't be cast.
 
 
 :mtgtip:`Spectral Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16aebed7-3dd8-4f76-94fc-da3c0e5251ba.jpg?1576381658|https://scryfall.com/card/cn2/24/spectral-grasp?utm_source=api>`
    Enchant creature
 
-   Enchanted creature can't attack you or a planeswalker you control.
+   Enchanted creature can't attack you or planeswalkers you control.
 
    Enchanted creature can't block creatures you control.
 
@@ -290,7 +290,7 @@
 
    As you draft a card, you may reveal it, note its name, then turn Smuggler Captain face down.
 
-   When Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle your library.
+   When Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Thorn of the Black Rose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e4829c6-50d4-4602-af78-59249486a97c.jpg?1576381878|https://scryfall.com/card/cn2/48/thorn-of-the-black-rose?utm_source=api>`
@@ -374,13 +374,13 @@
 
 
 :mtgtip:`Borderland Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dec6181f-c8bc-4858-912a-181b423185cd.jpg?1576382009|https://scryfall.com/card/cn2/61/borderland-explorer?utm_source=api>`
-   When Borderland Explorer enters the battlefield, each player may discard a card. Each player who discarded a card this way may search their library for a basic land card, reveal it, put it into their hand, then shuffle their library.
+   When Borderland Explorer enters the battlefield, each player may discard a card. Each player who discarded a card this way may search their library for a basic land card, reveal it, put it into their hand, then shuffle.
 
 
 :mtgtip:`Caller of the Untamed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c62f25d9-7eb2-491e-ba7b-b71e49ee87b4.jpg?1576382019|https://scryfall.com/card/cn2/62/caller-of-the-untamed?utm_source=api>`
    Before you shuffle your deck to start the game, you may reveal this card from your deck and exile a creature card you drafted that isn't in your deck.
 
-   |mana_x|, |tap|: Create a token that's a copy of a card you exiled with cards named Caller of the Untamed. X is the converted mana cost of that card.
+   |mana_x|, |tap|: Create a token that's a copy of a card you exiled with cards named Caller of the Untamed. X is the mana value of that card.
 
 
 :mtgtip:`Domesticated Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23be85ac-2d9c-4261-aa55-4421e4a35d8b.jpg?1576382027|https://scryfall.com/card/cn2/63/domesticated-hydra?utm_source=api>`
@@ -528,13 +528,13 @@
 :mtgtip:`Gleam of Resistance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4db35e37-3634-4238-aa64-a826f41d8ee6.jpg?1576382240|https://scryfall.com/card/cn2/87/gleam-of-resistance?utm_source=api>`
    Creatures you control get +1/+2 until end of turn. Untap those creatures.
 
-   Basic landcycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Gods Willing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8ddc35b7-6ed8-4401-8e97-1a44b89fad81.jpg?1576382248|https://scryfall.com/card/cn2/88/gods-willing?utm_source=api>`
    Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
 
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
 
 :mtgtip:`Guardian of the Gateless<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df091618-cef7-469b-aff5-27cad917616f.jpg?1576382256|https://scryfall.com/card/cn2/89/guardian-of-the-gateless?utm_source=api>`
@@ -639,7 +639,7 @@
    • Tap target permanent an opponent controls.
 
 
-:mtgtip:`Desertion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b362151e-4ad6-4ae9-91e5-0e4a69d53ca5.jpg?1576382399|https://scryfall.com/card/cn2/107/desertion?utm_source=api>`
+:mtgtip:`Desertion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b362151e-4ad6-4ae9-91e5-0e4a69d53ca5.jpg?1618294831|https://scryfall.com/card/cn2/107/desertion?utm_source=api>`
    Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.
 
 
@@ -720,7 +720,7 @@
 :mtgtip:`Traumatic Visions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e10a2beb-81d5-49d5-b76c-23c843ae53de.jpg?1576382540|https://scryfall.com/card/cn2/123/traumatic-visions?utm_source=api>`
    Counter target spell.
 
-   Basic landcycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Vaporkin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c074399-36e9-41f7-918e-5fae267e9da2.jpg?1576382548|https://scryfall.com/card/cn2/124/vaporkin?utm_source=api>`
@@ -738,7 +738,7 @@
 :mtgtip:`Absorb Vis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e319956e-982b-4bba-829a-67bf4ef79d74.jpg?1576382565|https://scryfall.com/card/cn2/126/absorb-vis?utm_source=api>`
    Target player loses 4 life and you gain 4 life.
 
-   Basic landcycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Altar's Reap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acffe5ea-2d74-4b77-ac2c-e2ac86719f2d.jpg?1576382574|https://scryfall.com/card/cn2/127/altars-reap?utm_source=api>`
@@ -770,11 +770,11 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cff6d24-4aeb-4b6c-b193-0c470fc4badf.jpg?1576382620|https://scryfall.com/card/cn2/132/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Driver of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc7b0442-d7d0-47db-bcfe-09637c3e7523.jpg?1576382628|https://scryfall.com/card/cn2/133/driver-of-the-dead?utm_source=api>`
-   When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   When Driver of the Dead dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Farbog Boneflinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3185eeac-39ae-4e6e-bfdd-4b8edd984af1.jpg?1576382638|https://scryfall.com/card/cn2/134/farbog-boneflinger?utm_source=api>`
@@ -808,7 +808,7 @@
 
 
 :mtgtip:`Inquisition of Kozilek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56995b84-2307-4955-9c7c-dc4f04acdc07.jpg?1576382685|https://scryfall.com/card/cn2/140/inquisition-of-kozilek?utm_source=api>`
-   Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+   Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.
 
 
 :mtgtip:`Keepsake Gorgon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa8d2ece-9639-4384-8284-27a1b0475228.jpg?1576382692|https://scryfall.com/card/cn2/141/keepsake-gorgon?utm_source=api>`
@@ -884,7 +884,7 @@
 :mtgtip:`Fiery Fall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc40854d-48a0-49b0-a0ea-c2b848ae4688.jpg?1576382829|https://scryfall.com/card/cn2/156/fiery-fall?utm_source=api>`
    Fiery Fall deals 5 damage to target creature.
 
-   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Flame Slash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15affc1b-2ebb-4934-87a2-10e89eafe894.jpg?1576382839|https://scryfall.com/card/cn2/157/flame-slash?utm_source=api>`
@@ -996,7 +996,7 @@
 
 
 :mtgtip:`Explosive Vegetation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f574a03a-c561-4eed-a053-564fcd0e8f6d.jpg?1576383014|https://scryfall.com/card/cn2/180/explosive-vegetation?utm_source=api>`
-   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Fade into Antiquity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d74b6f74-9021-467a-974f-8b04ed1bac9a.jpg?1576383020|https://scryfall.com/card/cn2/181/fade-into-antiquity?utm_source=api>`
@@ -1022,11 +1022,11 @@
 
 
 :mtgtip:`Lay of the Land<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42018b2d-b8db-4d37-b42f-15ee0d1a22ee.jpg?1576383053|https://scryfall.com/card/cn2/185/lay-of-the-land?utm_source=api>`
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Manaplasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/439d3e7e-7c4f-4e1e-a95d-7ef44972d515.jpg?1576383061|https://scryfall.com/card/cn2/186/manaplasm?utm_source=api>`
-   Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.
+   Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's mana value.
 
 
 :mtgtip:`Nessian Asp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf6eae62-5a42-42e9-ba65-84500cdff95a.jpg?1576383070|https://scryfall.com/card/cn2/187/nessian-asp?utm_source=api>`
@@ -1066,7 +1066,7 @@
 :mtgtip:`Sylvan Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7aa646d5-b48a-4c43-a6a0-1609ca4f4e2e.jpg?1576383125|https://scryfall.com/card/cn2/194/sylvan-bounty?utm_source=api>`
    Target player gains 8 life.
 
-   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Voyaging Satyr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/180773da-dadc-414a-92c6-f4e13c753718.jpg?1576383133|https://scryfall.com/card/cn2/195/voyaging-satyr?utm_source=api>`
@@ -1074,7 +1074,7 @@
 
 
 :mtgtip:`Wild Pair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3153d2c-9168-4889-9179-23faa9c48721.jpg?1576383139|https://scryfall.com/card/cn2/196/wild-pair?utm_source=api>`
-   Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.
+   Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Akroan Hoplite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04aa9d4f-37cc-4fc8-877a-6190f96eb509.jpg?1576383146|https://scryfall.com/card/cn2/197/akroan-hoplite?utm_source=api>`
@@ -1106,7 +1106,7 @@
 :mtgtip:`Duskmantle Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/4946e4f9-aab3-4f81-af44-f6b03cd07dc8.jpg?1576383191|https://scryfall.com/card/cn2/202/duskmantle-seer?utm_source=api>`
    Flying
 
-   At the beginning of your upkeep, each player reveals the top card of their library, loses life equal to that card's converted mana cost, then puts it into their hand.
+   At the beginning of your upkeep, each player reveals the top card of their library, loses life equal to that card's mana value, then puts it into their hand.
 
 
 :mtgtip:`Gruul War Chant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00cbf1b0-5aa5-4420-84ea-7ea777ae34a7.jpg?1576383198|https://scryfall.com/card/cn2/203/gruul-war-chant?utm_source=api>`
@@ -1132,7 +1132,7 @@
 :mtgtip:`Stormchaser Chimera<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/994f8a79-1df9-42e0-a0b0-c9eea47771e9.jpg?1576383233|https://scryfall.com/card/cn2/207/stormchaser-chimera?utm_source=api>`
    Flying
 
-   |mana_2|\ |mana_u|\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+   |mana_2|\ |mana_u|\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's mana value. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
 :mtgtip:`Bronze Sable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a95f8df0-3490-47ad-b452-76fe60179242.jpg?1593860898|https://scryfall.com/card/cn2/208/bronze-sable?utm_source=api>`
@@ -1140,7 +1140,7 @@
 
 
 :mtgtip:`Hedron Matrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54fef322-b214-40b4-bed5-bc867bcf280b.jpg?1576383247|https://scryfall.com/card/cn2/209/hedron-matrix?utm_source=api>`
-   Equipped creature gets +X/+X, where X is its converted mana cost.
+   Equipped creature gets +X/+X, where X is its mana value.
 
    Equip |mana_4|
 
@@ -1186,7 +1186,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f57ce48-6a2a-4033-aac0-dc0043fbd648.jpg?1576383316|https://scryfall.com/card/cn2/218/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Exotic Orchard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9083583-6fa9-4b8a-86bb-59e51ad06b33.jpg?1576383322|https://scryfall.com/card/cn2/219/exotic-orchard?utm_source=api>`

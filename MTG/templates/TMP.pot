@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -343,7 +343,7 @@ msgid ":mtgtip:`Oracle en-Vec<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../TMP.rst:155
-msgid "|tap|: Target opponent chooses any number of creatures they control. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack this turn. Activate this ability only during your turn."
+msgid "|tap|: Target opponent chooses any number of creatures they control. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack this turn. Activate only during your turn."
 msgstr ""
 
 #: ../../TMP.rst:160
@@ -419,7 +419,7 @@ msgid ":mtgtip:`Serene Offering<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../TMP.rst:195
-msgid "Destroy target enchantment. You gain life equal to its converted mana cost."
+msgid "Destroy target enchantment. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../TMP.rst:202
@@ -703,7 +703,7 @@ msgid ":mtgtip:`Intuition<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../TMP.rst:353
-msgid "Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library."
+msgid "Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle."
 msgstr ""
 
 #: ../../TMP.rst:360
@@ -731,7 +731,7 @@ msgid ":mtgtip:`Mana Severance<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../TMP.rst:367
-msgid "Search your library for any number of land cards and exile them. Then shuffle your library."
+msgid "Search your library for any number of land cards, exile them, then shuffle."
 msgstr ""
 
 #: ../../TMP.rst:372
@@ -868,7 +868,7 @@ msgid ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../TMP.rst:441
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+msgid "Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../TMP.rst:448
@@ -1060,7 +1060,7 @@ msgid ":mtgtip:`Carrionette<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../TMP.rst:561
-msgid "|mana_2|\\ |mana_b|\\ |mana_b|: Exile Carrionette and target creature unless that creature's controller pays |mana_2|. Activate this ability only if Carrionette is in your graveyard."
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|: Exile Carrionette and target creature unless that creature's controller pays |mana_2|. Activate only if Carrionette is in your graveyard."
 msgstr ""
 
 #: ../../TMP.rst:566
@@ -1332,7 +1332,7 @@ msgid ":mtgtip:`Maddening Imp<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../TMP.rst:725
-msgid "|tap|: Non-Wall creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy each of those creatures that didn't attack this turn. Activate this ability only during an opponent's turn and only before combat."
+msgid "|tap|: Non-Wall creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy each of those creatures that didn't attack this turn. Activate only during an opponent's turn and only before combat."
 msgstr ""
 
 #: ../../TMP.rst:730
@@ -1348,7 +1348,7 @@ msgid ":mtgtip:`Mindwhip Sliver<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../TMP.rst:733
-msgid "All Slivers have \"|mana_2|, Sacrifice this permanent: Target player discards a card at random. Activate this ability only any time you could cast a sorcery.\""
+msgid "All Slivers have \"|mana_2|, Sacrifice this permanent: Target player discards a card at random. Activate only as a sorcery.\""
 msgstr ""
 
 #: ../../TMP.rst:742
@@ -1380,7 +1380,7 @@ msgid ":mtgtip:`Pit Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../TMP.rst:751
-msgid "|mana_b|: Pit Imp gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_b|: Pit Imp gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../TMP.rst:756
@@ -1406,7 +1406,7 @@ msgid ":mtgtip:`Reanimate<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../TMP.rst:763
-msgid "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost."
+msgid "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value."
 msgstr ""
 
 #: ../../TMP.rst:768
@@ -1952,7 +1952,7 @@ msgid ":mtgtip:`Aluren<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../TMP.rst:1063
-msgid "Any player may cast creature spells with converted mana cost 3 or less without paying their mana costs and as though they had flash."
+msgid "Any player may cast creature spells with mana value 3 or less without paying their mana costs and as though they had flash."
 msgstr ""
 
 #: ../../TMP.rst:1068
@@ -2004,7 +2004,7 @@ msgid ":mtgtip:`Crazed Armodon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../TMP.rst:1091
-msgid "|mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate this ability only once each turn."
+msgid "|mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate only once each turn."
 msgstr ""
 
 #: ../../TMP.rst:1096
@@ -2096,7 +2096,7 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr ""
 
 #: ../../TMP.rst:1143
-msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../TMP.rst:1148
@@ -2224,7 +2224,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../TMP.rst:1207
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../TMP.rst:1214
@@ -2288,7 +2288,7 @@ msgid ":mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../TMP.rst:1241
-msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../TMP.rst:1248
@@ -2328,7 +2328,7 @@ msgid ":mtgtip:`Skyshroud Ranger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../TMP.rst:1261
-msgid "|tap|: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery."
+msgid "|tap|: You may put a land card from your hand onto the battlefield. Activate only as a sorcery."
 msgstr ""
 
 #: ../../TMP.rst:1266
@@ -2412,7 +2412,7 @@ msgid ":mtgtip:`Lobotomy<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../TMP.rst:1311
-msgid "Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library."
+msgid "Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../TMP.rst:1318
@@ -2540,7 +2540,7 @@ msgid ":mtgtip:`Echo Chamber<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../TMP.rst:1385
-msgid "|mana_4|, |tap|: An opponent chooses target creature they control. Create a token that's a copy of that creature. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_4|, |tap|: An opponent chooses target creature they control. Create a token that's a copy of that creature. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate only as a sorcery."
 msgstr ""
 
 #: ../../TMP.rst:1390
@@ -2600,7 +2600,7 @@ msgid ":mtgtip:`Fool's Tome<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../TMP.rst:1415
-msgid "|mana_2|, |tap|: Draw a card. Activate this ability only if you have no cards in hand."
+msgid "|mana_2|, |tap|: Draw a card. Activate only if you have no cards in hand."
 msgstr ""
 
 #: ../../TMP.rst:1420
@@ -2870,7 +2870,7 @@ msgid ":mtgtip:`Ghost Town<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../TMP.rst:1553
-msgid "|mana_0|: Return Ghost Town to its owner's hand. Activate this ability only if it's not your turn."
+msgid "|mana_0|: Return Ghost Town to its owner's hand. Activate only if it's not your turn."
 msgstr ""
 
 #: ../../TMP.rst:1560

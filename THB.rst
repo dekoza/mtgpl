@@ -32,7 +32,7 @@
 :mtgtip:`The Birth of Meletis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d824f8bd-58f8-4796-80b5-5cd3033d35e8.jpg?1581478957|https://scryfall.com/card/thb/5/the-birth-of-meletis?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
-   I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle your library.
+   I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
 
    II — Create a 0/4 colorless Wall artifact creature token with defender.
 
@@ -50,7 +50,7 @@
 
 
 :mtgtip:`Dawn Evangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7e152ae-43ec-4b9d-a43f-786c2f6c7366.jpg?1581478985|https://scryfall.com/card/thb/8/dawn-evangel?utm_source=api>`
-   Whenever a creature dies, if an Aura you controlled was attached to it, return target creature card with converted mana cost 2 or less from your graveyard to your hand.
+   Whenever a creature dies, if an Aura you controlled was attached to it, return target creature card with mana value 2 or less from your graveyard to your hand.
 
 
 :mtgtip:`Daxos, Blessed by the Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fd2adb3-a6f4-448e-af2a-15ca92b1de63.jpg?1581478995|https://scryfall.com/card/thb/9/daxos-blessed-by-the-sun?utm_source=api>`
@@ -82,7 +82,7 @@
 :mtgtip:`Elspeth Conquers Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea20208b-1939-4c69-8cfd-c0a42f9dc427.jpg?1586801037|https://scryfall.com/card/thb/13/elspeth-conquers-death?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
-   I — Exile target permanent an opponent controls with converted mana cost 3 or greater.
+   I — Exile target permanent an opponent controls with mana value 3 or greater.
 
    II — Noncreature spells your opponents cast cost |mana_2| more to cast until your next turn.
 
@@ -130,7 +130,7 @@
 
 
 :mtgtip:`Heliod's Pilgrim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1581479102|https://scryfall.com/card/thb/20/heliods-pilgrim?utm_source=api>`
-   When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+   When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Heliod's Punishment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1581479112|https://scryfall.com/card/thb/21/heliods-punishment?utm_source=api>`
@@ -152,7 +152,7 @@
 
 
 :mtgtip:`Idyllic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f06edd53-f3ac-44b0-a087-5670ba8f0fa5.jpg?1582021156|https://scryfall.com/card/thb/24/idyllic-tutor?utm_source=api>`
-   Search your library for an enchantment card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Indomitable Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1581479150|https://scryfall.com/card/thb/25/indomitable-will?utm_source=api>`
@@ -168,7 +168,7 @@
 
 
 :mtgtip:`Lagonna-Band Storyteller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3a87498-2c2c-411a-aa71-d594b2c6cb26.jpg?1581479163|https://scryfall.com/card/thb/27/lagonna-band-storyteller?utm_source=api>`
-   When Lagonna-Band Storyteller enters the battlefield, you may put target enchantment card from your graveyard on top of your library. If you do, you gain life equal to its converted mana cost.
+   When Lagonna-Band Storyteller enters the battlefield, you may put target enchantment card from your graveyard on top of your library. If you do, you gain life equal to its mana value.
 
 
 :mtgtip:`Leonin of the Lost Pride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1be3729-7970-45df-8c26-4fe09e56629d.jpg?1581479169|https://scryfall.com/card/thb/28/leonin-of-the-lost-pride?utm_source=api>`
@@ -446,7 +446,7 @@
 
    Flying
 
-   Spells you cast with converted mana cost 5 or greater cost |mana_1| less to cast and can't be countered.
+   Spells you cast with mana value 5 or greater cost |mana_1| less to cast and can't be countered.
 
 
 :mtgtip:`Towering-Wave Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27.jpg?1581479618|https://scryfall.com/card/thb/77/towering-wave-mystic?utm_source=api>`
@@ -572,7 +572,7 @@
 :mtgtip:`Gravebreaker Lamia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/408a2073-d068-44bc-b596-5a3a3a446ee1.jpg?1581479797|https://scryfall.com/card/thb/98/gravebreaker-lamia?utm_source=api>`
    Lifelink
 
-   When Gravebreaker Lamia enters the battlefield, search your library for a card, put it into your graveyard, then shuffle your library.
+   When Gravebreaker Lamia enters the battlefield, search your library for a card, put it into your graveyard, then shuffle.
 
    Spells you cast from your graveyard cost |mana_1| less to cast.
 
@@ -1124,7 +1124,7 @@
 :mtgtip:`Nylea's Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daa2f963-9d16-4224-b24e-b6a79f2b9d75.jpg?1581480794|https://scryfall.com/card/thb/188/nyleas-intervention?utm_source=api>`
    Choose one —
 
-   • Search your library for up to X land cards, reveal them, put them into your hand, then shuffle your library.
+   • Search your library for up to X land cards, reveal them, put them into your hand, then shuffle.
 
    • Nylea's Intervention deals twice X damage to each creature with flying.
 
@@ -1146,7 +1146,7 @@
 :mtgtip:`Omen of the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d4ebdea-78d4-4034-921b-735bdb11a716.jpg?1581480831|https://scryfall.com/card/thb/192/omen-of-the-hunt?utm_source=api>`
    Flash
 
-   When Omen of the Hunt enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   When Omen of the Hunt enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    |mana_2|\ |mana_g|, Sacrifice Omen of the Hunt: Scry 2.
 
@@ -1224,7 +1224,7 @@
 
    Whenever enchanted land is tapped for mana, its controller adds an additional |mana_g|.
 
-   |mana_4|\ |mana_g|, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf creature token. Activate this ability only during your turn.
+   |mana_4|\ |mana_g|, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf creature token. Activate only during your turn.
 
 
 :mtgtip:`Acolyte of Affliction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a14afed6-ca42-442d-ba86-621179e6957c.jpg?1581480955|https://scryfall.com/card/thb/206/acolyte-of-affliction?utm_source=api>`
@@ -1286,7 +1286,7 @@
 
 
 :mtgtip:`Enigmatic Incarnation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd116c0b-0404-42ba-978f-7044b1a03d90.jpg?1581481041|https://scryfall.com/card/thb/215/enigmatic-incarnation?utm_source=api>`
-   At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with converted mana cost equal to 1 plus the sacrificed enchantment's converted mana cost, put that card onto the battlefield, then shuffle your library.
+   At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed enchantment's mana value, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Eutropia the Twice-Favored<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2159949-3d21-448d-bc34-a3dbaf219476.jpg?1581481050|https://scryfall.com/card/thb/216/eutropia-the-twice-favored?utm_source=api>`
@@ -1306,7 +1306,7 @@
 
    As Haktos enters the battlefield, choose 2, 3, or 4 at random.
 
-   Haktos has protection from each converted mana cost other than the chosen number.
+   Haktos has protection from each mana value other than the chosen number.
 
 
 :mtgtip:`Hero of the Nyxborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9854e673-1816-4a76-b9db-bb399ac7489f.jpg?1581481079|https://scryfall.com/card/thb/219/hero-of-the-nyxborn?utm_source=api>`
@@ -1454,7 +1454,7 @@
 
 
 :mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1581481232|https://scryfall.com/card/thb/240/travelers-amulet?utm_source=api>`
-   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Wings of Hubris<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff.jpg?1581481238|https://scryfall.com/card/thb/241/wings-of-hubris?utm_source=api>`
@@ -1468,7 +1468,7 @@
 :mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243|https://scryfall.com/card/thb/242/field-of-ruin?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library.
+   |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.
 
 
 :mtgtip:`Labyrinth of Skophos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff0dd221-2660-43f6-8e28-8000e3fe72a4.jpg?1581481248|https://scryfall.com/card/thb/243/labyrinth-of-skophos?utm_source=api>`
@@ -1556,7 +1556,7 @@
 :mtgtip:`Elspeth, Undaunted Hero<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf9867e5-9d69-400c-a84f-3b085a4fd510.jpg?1581481499|https://scryfall.com/card/thb/270/elspeth-undaunted-hero?utm_source=api>`
    +2: Put a +1/+1 counter on each of up to two target creatures.
 
-   −2: Search your library and/or graveyard for a card named Sunlit Hoplite and put it onto the battlefield. If you search your library this way, shuffle it.
+   −2: Search your library and/or graveyard for a card named Sunlit Hoplite and put it onto the battlefield. If you search your library this way, shuffle.
 
    −8: Until end of turn, creatures you control gain flying and get +X/+X, where X is your devotion to white.
 
@@ -1566,7 +1566,7 @@
 
 
 :mtgtip:`Elspeth's Devotee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f82064c-b335-454c-9be6-9fbcb21aa8e5.jpg?1581481438|https://scryfall.com/card/thb/272/elspeths-devotee?utm_source=api>`
-   When Elspeth's Devotee enters the battlefield, you may search your library and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Elspeth's Devotee enters the battlefield, you may search your library and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Sunlit Hoplite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f89cf0f-f682-44f8-879c-ed1e22f849b0.jpg?1581481445|https://scryfall.com/card/thb/273/sunlit-hoplite?utm_source=api>`
@@ -1598,7 +1598,7 @@
 :mtgtip:`Ashiok's Forerunner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/781bfbae-acd9-4583-88d2-d31978eef565.jpg?1581481476|https://scryfall.com/card/thb/277/ashioks-forerunner?utm_source=api>`
    Flash
 
-   When Ashiok's Forerunner enters the battlefield, you may search your library and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Ashiok's Forerunner enters the battlefield, you may search your library and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Grasping Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a238aa9c-661e-449a-8f05-70b7954e544f.jpg?1580177955|https://scryfall.com/card/thb/288/grasping-giant?utm_source=api>`
@@ -1634,7 +1634,7 @@
 
 
 :mtgtip:`Deathbellow War Cry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf0f58ac-88ef-445c-a12b-0bb1cf482298.jpg?1582021227|https://scryfall.com/card/thb/294/deathbellow-war-cry?utm_source=api>`
-   Search your library for up to four Minotaur creature cards with different names, put them onto the battlefield, then shuffle your library.
+   Search your library for up to four Minotaur creature cards with different names, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Terror of Mount Velus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/332dc6c3-7802-4bde-aa4e-0feab70c216f.jpg?1616399631|https://scryfall.com/card/thb/295/terror-of-mount-velus?utm_source=api>`

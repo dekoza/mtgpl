@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid ":mtgtip:`Axgard Braggart<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../KHM.rst:9
-msgid "Boast — |mana_1|\\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter on it. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_w|: Untap Axgard Braggart. Put a +1/+1 counter on it. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:14
@@ -33,7 +33,7 @@ msgid ":mtgtip:`Battershield Warrior<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../KHM.rst:13
-msgid "Boast — |mana_1|\\ |mana_w|: Creatures you control get +1/+1 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_w|: Creatures you control get +1/+1 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:18
@@ -190,7 +190,7 @@ msgid ":mtgtip:`Goldmaw Champion<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../KHM.rst:77
-msgid "Boast — |mana_1|\\ |mana_w|: Tap target creature. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_w|: Tap target creature. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:84
@@ -278,7 +278,7 @@ msgid "Snow lands your opponents control enter the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:125
-msgid "Noncreature spells your opponents cast with converted mana cost 4 or greater cost |mana_2| more to cast."
+msgid "Noncreature spells your opponents cast with mana value 4 or greater cost |mana_2| more to cast."
 msgstr ""
 
 #: ../../KHM.rst:132
@@ -346,7 +346,7 @@ msgid ":mtgtip:`Runeforge Champion<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../KHM.rst:165
-msgid "When Runeforge Champion enters the battlefield, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Runeforge Champion enters the battlefield, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../KHM.rst:167
@@ -358,7 +358,7 @@ msgid ":mtgtip:`Search for Glory<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../KHM.rst:171
-msgid "Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle your library. You gain 1 life for each |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
+msgid "Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle. You gain 1 life for each |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
 msgstr ""
 
 #: ../../KHM.rst:180
@@ -366,7 +366,7 @@ msgid ":mtgtip:`Shepherd of the Cosmos<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../KHM.rst:177
-msgid "When Shepherd of the Cosmos enters the battlefield, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "When Shepherd of the Cosmos enters the battlefield, return target permanent card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../KHM.rst:188
@@ -443,7 +443,7 @@ msgid ":mtgtip:`Usher of the Fallen<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../KHM.rst:221
-msgid "Boast — |mana_1|\\ |mana_w|: Create a 1/1 white Human Warrior creature token. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_w|: Create a 1/1 white Human Warrior creature token. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:230
@@ -666,7 +666,7 @@ msgid ":mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../KHM.rst:345
-msgid "Counter target spell with converted mana cost 4 or greater."
+msgid "Counter target spell with mana value 4 or greater."
 msgstr ""
 
 #: ../../KHM.rst:350
@@ -702,7 +702,7 @@ msgid "This spell costs |mana_1| less to cast if you control a Giant or a Wizard
 msgstr ""
 
 #: ../../KHM.rst:363
-msgid "When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle your library."
+msgid "When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:372
@@ -946,7 +946,7 @@ msgid "Destroy all planeswalkers."
 msgstr ""
 
 #: ../../KHM.rst:501
-msgid "Then return a creature or planeswalker card with converted mana cost X or less from your graveyard to the battlefield, where X is the amount of |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
+msgid "Then return a creature or planeswalker card with mana value X or less from your graveyard to the battlefield, where X is the amount of |mana_s| spent to cast this spell. (|mana_s| is mana from a snow source.)"
 msgstr ""
 
 #: ../../KHM.rst:506
@@ -962,7 +962,7 @@ msgid ":mtgtip:`Burning-Rune Demon<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../KHM.rst:511
-msgid "When Burning-Rune Demon enters the battlefield, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle your library."
+msgid "When Burning-Rune Demon enters the battlefield, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:516
@@ -1014,7 +1014,7 @@ msgid ":mtgtip:`Draugr Recruiter<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../KHM.rst:537
-msgid "Boast — |mana_3|\\ |mana_b|: Return target creature card from your graveyard to your hand. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_3|\\ |mana_b|: Return target creature card from your graveyard to your hand. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:546
@@ -1054,11 +1054,11 @@ msgid "Whenever you foretell a card, Dream Devourer gets +2/+0 until end of turn
 msgstr ""
 
 #: ../../KHM.rst:560
-msgid ":mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1610560902|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`"
+msgid ":mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1618519591|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`"
 msgstr ""
 
 #: ../../KHM.rst:559
-msgid "Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:566
@@ -1104,7 +1104,7 @@ msgid "Flying, lifelink, hexproof from planeswalkers"
 msgstr ""
 
 #: ../../KHM.rst:581
-msgid "Boast — |mana_1|\\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:586
@@ -1200,7 +1200,7 @@ msgid ":mtgtip:`Priest of the Haunted Edge<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../KHM.rst:633
-msgid "|tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate this ability only any time you could cast a sorcery."
+msgid "|tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:642
@@ -1332,7 +1332,7 @@ msgid "When Valki enters the battlefield, each opponent reveals their hand. For 
 msgstr ""
 
 #: ../../KHM.rst:705
-msgid "|mana_x|: Choose a creature card exiled with Valki with converted mana cost X. Valki becomes a copy of that card."
+msgid "|mana_x|: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card."
 msgstr ""
 
 #: ../../KHM.rst:716
@@ -1360,7 +1360,7 @@ msgid ":mtgtip:`Varragoth, Bloodsky Sire<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../KHM.rst:721
-msgid "Boast — |mana_1|\\ |mana_b|: Target player searches their library for a card, then shuffles their library and puts that card on top of it. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_b|: Target player searches their library for a card, then shuffles and puts that card on top. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:728
@@ -1413,7 +1413,7 @@ msgid "Haste"
 msgstr ""
 
 #: ../../KHM.rst:751
-msgid "Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|: You may change Arni Brokenbrow's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:756
@@ -1536,7 +1536,7 @@ msgid "Boast abilities you activate cost |mana_1| less to activate for each Drag
 msgstr ""
 
 #: ../../KHM.rst:813
-msgid "Boast — |mana_4|\\ |mana_r|: Create a 5/5 red Dragon creature token with flying. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_4|\\ |mana_r|: Create a 5/5 red Dragon creature token with flying. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:820
@@ -1544,7 +1544,7 @@ msgid ":mtgtip:`Dual Strike<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../KHM.rst:817
-msgid "When you cast your next instant or sorcery spell with converted mana cost 4 or less this turn, copy that spell. You may choose new targets for the copy."
+msgid "When you cast your next instant or sorcery spell with mana value 4 or less this turn, copy that spell. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../KHM.rst:828
@@ -1576,7 +1576,7 @@ msgid ":mtgtip:`Fearless Liberator<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../KHM.rst:837
-msgid "Boast — |mana_2|\\ |mana_r|: Create a 2/1 red Dwarf Berserker creature token. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_2|\\ |mana_r|: Create a 2/1 red Dwarf Berserker creature token. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:844
@@ -1584,7 +1584,7 @@ msgid ":mtgtip:`Fearless Pup<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../KHM.rst:843
-msgid "Boast — |mana_2|\\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_2|\\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:848
@@ -1624,7 +1624,7 @@ msgid ":mtgtip:`Hagi Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../KHM.rst:863
-msgid "Boast — |mana_1|\\ |mana_r|: Hagi Mob deals 1 damage to any target. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_r|: Hagi Mob deals 1 damage to any target. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:868
@@ -1648,7 +1648,7 @@ msgid "Whenever a Dwarf you control becomes tapped, create a Treasure token."
 msgstr ""
 
 #: ../../KHM.rst:875
-msgid "Sacrifice five Treasures: Search your library for an artifact or Dragon card, put that card onto the battlefield, then shuffle your library."
+msgid "Sacrifice five Treasures: Search your library for an artifact or Dragon card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:884
@@ -1823,7 +1823,7 @@ msgid ":mtgtip:`Tuskeri Firewalker<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../KHM.rst:967
-msgid "Boast — |mana_1|: Exile the top card of your library. You may play that card this turn. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|: Exile the top card of your library. You may play that card this turn. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:972
@@ -2005,7 +2005,7 @@ msgid ":mtgtip:`Horizon Seeker<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../KHM.rst:1071
-msgid "Boast — |mana_1|\\ |mana_g|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. (Activate this ability only if this creature attacked this turn and only once each turn.)"
+msgid "Boast — |mana_1|\\ |mana_g|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
 
 #: ../../KHM.rst:1076
@@ -2021,7 +2021,7 @@ msgid ":mtgtip:`In Search of Greatness<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../KHM.rst:1079
-msgid "At the beginning of your upkeep, you may cast a permanent spell from your hand with converted mana cost equal to 1 plus the highest converted mana cost among other permanents you control without paying its mana cost. If you don't, scry 1."
+msgid "At the beginning of your upkeep, you may cast a permanent spell from your hand with mana value equal to 1 plus the highest mana value among other permanents you control without paying its mana cost. If you don't, scry 1."
 msgstr ""
 
 #: ../../KHM.rst:1086
@@ -2085,7 +2085,7 @@ msgid ":mtgtip:`Littjara Glade-Warden<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../KHM.rst:1115
-msgid "|mana_2|\\ |mana_g|, |tap|, Exile a creature card from your graveyard: Put two +1/+1 counters on target creature. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_g|, |tap|, Exile a creature card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1122
@@ -2122,7 +2122,7 @@ msgid ":mtgtip:`Path to the World Tree<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../KHM.rst:1137
-msgid "When Path to the World Tree enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Path to the World Tree enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1139
@@ -2158,7 +2158,7 @@ msgid ":mtgtip:`Rootless Yew<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../KHM.rst:1157
-msgid "When Rootless Yew dies, search your library for a creature card with power or toughness 6 or greater, reveal it, put it into your hand, then shuffle your library."
+msgid "When Rootless Yew dies, search your library for a creature card with power or toughness 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1162
@@ -2210,7 +2210,7 @@ msgid ":mtgtip:`Snakeskin Veil<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../KHM.rst:1185
-msgid "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgid "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn."
 msgstr ""
 
 #: ../../KHM.rst:1192
@@ -2218,7 +2218,7 @@ msgid ":mtgtip:`Spirit of the Aldergard<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../KHM.rst:1189
-msgid "When Spirit of the Aldergard enters the battlefield, search your library for a snow land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Spirit of the Aldergard enters the battlefield, search your library for a snow land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1191
@@ -2378,7 +2378,7 @@ msgid "II — Scry 3."
 msgstr ""
 
 #: ../../KHM.rst:1267
-msgid "III — Whenever you cast a spell with converted mana cost 5 or greater this turn, draw two cards, then discard a card."
+msgid "III — Whenever you cast a spell with mana value 5 or greater this turn, draw two cards, then discard a card."
 msgstr ""
 
 #: ../../KHM.rst:1278
@@ -2406,7 +2406,7 @@ msgid "I — Destroy target nonland permanent an opponent controls."
 msgstr ""
 
 #: ../../KHM.rst:1285
-msgid "II — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle your library."
+msgid "II — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1287
@@ -2479,7 +2479,7 @@ msgid "I, II — Create a Treasure token."
 msgstr ""
 
 #: ../../KHM.rst:1329
-msgid "III — Search your library for a card named Halvar, God of Battle or an Equipment card, reveal it, put it into your hand, then shuffle your library."
+msgid "III — Search your library for a card named Halvar, God of Battle or an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1336
@@ -2719,7 +2719,7 @@ msgid "Whenever a permanent an opponent controls is put into a graveyard from th
 msgstr ""
 
 #: ../../KHM.rst:1467
-msgid "At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with converted mana cost less than or equal to the number of counters removed this way."
+msgid "At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with mana value less than or equal to the number of counters removed this way."
 msgstr ""
 
 #: ../../KHM.rst:1476
@@ -2867,7 +2867,7 @@ msgid ":mtgtip:`Pyre of Heroes<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../KHM.rst:1559
-msgid "|mana_2|, |tap|, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has converted mana cost equal to 1 plus that creature's converted mana cost. Put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|, |tap|, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has mana value equal to 1 plus that creature's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1566
@@ -2907,7 +2907,7 @@ msgid ":mtgtip:`Runed Crown<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../KHM.rst:1581
-msgid "When Runed Crown enters the battlefield, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to Runed Crown. If you search your library this way, shuffle it."
+msgid "When Runed Crown enters the battlefield, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to Runed Crown. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1590
@@ -2969,7 +2969,7 @@ msgid "|tap|: Add |mana_w|."
 msgstr ""
 
 #: ../../KHM.rst:1615
-msgid "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle your library."
+msgid "|mana_1|\\ |mana_r|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1620
@@ -3025,7 +3025,7 @@ msgid "Bretagard Stronghold enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:1639
-msgid "|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_g|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1644
@@ -3094,7 +3094,7 @@ msgid "Great Hall of Starnheim enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:1683
-msgid "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_w|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1688
@@ -3138,7 +3138,7 @@ msgid "Immersturm Skullcairn enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:1711
-msgid "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice Immersturm Skullcairn: It deals 3 damage to target player. That player discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice Immersturm Skullcairn: It deals 3 damage to target player. That player discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1720
@@ -3150,7 +3150,7 @@ msgid "Littjara Mirrorlake enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:1719
-msgid "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Littjara Mirrorlake: Create a token that's a copy of target creature you control, except it enters the battlefield with an additional +1/+1 counter on it. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Littjara Mirrorlake: Create a token that's a copy of target creature you control, except it enters the battlefield with an additional +1/+1 counter on it. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1728
@@ -3202,7 +3202,7 @@ msgid "Skemfar Elderhall enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:1749
-msgid "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1756
@@ -3238,7 +3238,7 @@ msgid "Surtland Frostpyre enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHM.rst:1769
-msgid "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Surtland Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_u|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Surtland Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../KHM.rst:1778
@@ -3290,7 +3290,7 @@ msgid "As long as you control six or more lands, lands you control have \"|tap|:
 msgstr ""
 
 #: ../../KHM.rst:1799
-msgid "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle your library."
+msgid "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KHM.rst:1804
@@ -3363,7 +3363,7 @@ msgid ":mtgtip:`Cleaving Reaper<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../KHM.rst:1837
-msgid "Pay 3 life: Return Cleaving Reaper from your graveyard to your hand. Activate this ability only if you had an Angel or Berserker enter the battlefield under your control this turn."
+msgid "Pay 3 life: Return Cleaving Reaper from your graveyard to your hand. Activate only if you had an Angel or Berserker enter the battlefield under your control this turn."
 msgstr ""
 
 #: ../../KHM.rst:1842

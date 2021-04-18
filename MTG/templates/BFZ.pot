@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgid ":mtgtip:`Conduit of Ruin<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BFZ.rst:21
-msgid "When you cast this spell, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it."
+msgid "When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../BFZ.rst:23
@@ -65,7 +65,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../BFZ.rst:29
-msgid "Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate this ability only any time you could cast a sorcery."
+msgid "Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../BFZ.rst:34
@@ -180,11 +180,11 @@ msgid ":mtgtip:`Void Winnower<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../BFZ.rst:83
-msgid "Your opponents can't cast spells with even converted mana costs. (Zero is even.)"
+msgid "Your opponents can't cast spells with even mana values. (Zero is even.)"
 msgstr ""
 
 #: ../../BFZ.rst:85
-msgid "Your opponents can't block with creatures with even converted mana costs."
+msgid "Your opponents can't block with creatures with even mana values."
 msgstr ""
 
 #: ../../BFZ.rst:92
@@ -669,7 +669,7 @@ msgid ":mtgtip:`Horribly Awry<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../BFZ.rst:305
-msgid "Counter target creature spell with converted mana cost 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+msgid "Counter target creature spell with mana value 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
 
 #: ../../BFZ.rst:312
@@ -924,7 +924,7 @@ msgid ":mtgtip:`Ugin's Insight<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BFZ.rst:467
-msgid "Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards."
+msgid "Scry X, where X is the highest mana value among permanents you control, then draw three cards."
 msgstr ""
 
 #: ../../BFZ.rst:474
@@ -1004,7 +1004,7 @@ msgid "Skitterskin can't block."
 msgstr ""
 
 #: ../../BFZ.rst:535
-msgid "|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate this ability only if you control another colorless creature."
+msgid "|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate only if you control another colorless creature."
 msgstr ""
 
 #: ../../BFZ.rst:544
@@ -1040,7 +1040,7 @@ msgid ":mtgtip:`Transgress the Mind<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../BFZ.rst:565
-msgid "Target player reveals their hand. You choose a card from it with converted mana cost 3 or greater and exile that card."
+msgid "Target player reveals their hand. You choose a card from it with mana value 3 or greater and exile that card."
 msgstr ""
 
 #: ../../BFZ.rst:572
@@ -1270,7 +1270,7 @@ msgid ":mtgtip:`Voracious Null<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BFZ.rst:691
-msgid "|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate only as a sorcery."
 msgstr ""
 
 #: ../../BFZ.rst:696
@@ -1294,7 +1294,7 @@ msgid ":mtgtip:`Crumble to Dust<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BFZ.rst:707
-msgid "Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles their library."
+msgid "Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../BFZ.rst:714
@@ -1626,7 +1626,7 @@ msgid "At the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion cre
 msgstr ""
 
 #: ../../BFZ.rst:917
-msgid "|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:924
@@ -1732,7 +1732,7 @@ msgid ":mtgtip:`Natural Connection<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../BFZ.rst:977
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:982
@@ -1740,7 +1740,7 @@ msgid ":mtgtip:`Nissa's Renewal<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BFZ.rst:981
-msgid "Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life."
+msgid "Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle. You gain 7 life."
 msgstr ""
 
 #: ../../BFZ.rst:988
@@ -1840,7 +1840,7 @@ msgid ":mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BFZ.rst:1037
-msgid "Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1042
@@ -2008,7 +2008,7 @@ msgid ":mtgtip:`Bring to Light<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BFZ.rst:1147
-msgid "Converge — Search your library for a creature, instant, or sorcery card with converted mana cost less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle your library. You may cast that card without paying its mana cost."
+msgid "Converge — Search your library for a creature, instant, or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost."
 msgstr ""
 
 #: ../../BFZ.rst:1154
@@ -2056,7 +2056,7 @@ msgid ":mtgtip:`March from the Tomb<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../BFZ.rst:1175
-msgid "Return any number of target Ally creature cards with total converted mana cost 8 or less from your graveyard to the battlefield."
+msgid "Return any number of target Ally creature cards with total mana value 8 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../BFZ.rst:1182
@@ -2177,7 +2177,7 @@ msgid ":mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../BFZ.rst:1243
-msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1250
@@ -2249,7 +2249,7 @@ msgid ":mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../BFZ.rst:1287
-msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1294
@@ -2281,7 +2281,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BFZ.rst:1303
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1312
@@ -2365,7 +2365,7 @@ msgid ":mtgtip:`Sanctum of Ugin<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BFZ.rst:1347
-msgid "Whenever you cast a colorless spell with converted mana cost 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle your library."
+msgid "Whenever you cast a colorless spell with mana value 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BFZ.rst:1356
@@ -2405,7 +2405,7 @@ msgid ":mtgtip:`Shrine of the Forsaken Gods<https://c1.scryfall.com/file/scryfal
 msgstr ""
 
 #: ../../BFZ.rst:1369
-msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless spells. Activate only if you control seven or more lands."
 msgstr ""
 
 #: ../../BFZ.rst:1378

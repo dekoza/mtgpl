@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,7 +108,7 @@ msgid ":mtgtip:`Secret Summoning<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CNS.rst:59
-msgid "Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library."
+msgid "Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CNS.rst:66
@@ -259,7 +259,7 @@ msgid ":mtgtip:`Muzzio, Visionary Architect<https://c1.scryfall.com/file/scryfal
 msgstr ""
 
 #: ../../CNS.rst:133
-msgid "|mana_3|\\ |mana_u|, |tap|: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order."
+msgid "|mana_3|\\ |mana_u|, |tap|: Look at the top X cards of your library, where X is the highest mana value among artifacts you control. You may put an artifact card from among them onto the battlefield. Put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../CNS.rst:138
@@ -392,7 +392,7 @@ msgid "Realm Seekers enters the battlefield with X +1/+1 counters on it, where X
 msgstr ""
 
 #: ../../CNS.rst:209
-msgid "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CNS.rst:214
@@ -541,7 +541,7 @@ msgid "Reveal Aether Searcher as you draft it. Reveal the next card you draft an
 msgstr ""
 
 #: ../../CNS.rst:291
-msgid "When Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it."
+msgid "When Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle."
 msgstr ""
 
 #: ../../CNS.rst:298
@@ -787,7 +787,7 @@ msgid ":mtgtip:`Noble Templar<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CNS.rst:419
-msgid "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CNS.rst:422
@@ -911,7 +911,7 @@ msgid ":mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../CNS.rst:485
-msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control."
+msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../CNS.rst:492
@@ -971,8 +971,7 @@ msgid ":mtgtip:`Crookclaw Transmuter<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../CNS.rst:517
-#: ../../CNS.rst:843
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgid "Flash"
 msgstr ""
 
 #: ../../CNS.rst:521
@@ -1078,7 +1077,7 @@ msgid ":mtgtip:`Screaming Seahawk<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CNS.rst:579
-msgid "When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CNS.rst:586
@@ -1086,7 +1085,7 @@ msgid ":mtgtip:`Shoreline Ranger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CNS.rst:585
-msgid "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CNS.rst:594
@@ -1191,7 +1190,7 @@ msgid ":mtgtip:`Magus of the Mirror<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../CNS.rst:645
-msgid "|tap|, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep."
+msgid "|tap|, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate only during your upkeep."
 msgstr ""
 
 #: ../../CNS.rst:650
@@ -1315,7 +1314,7 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr ""
 
 #: ../../CNS.rst:709
-msgid "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CNS.rst:714
@@ -1411,7 +1410,7 @@ msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../CNS.rst:763
-msgid "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CNS.rst:770
@@ -1550,6 +1549,10 @@ msgstr ""
 msgid ":mtgtip:`Uncontrollable Anger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abd16c43-098c-4f38-b0e2-9ad84dd09eb9.jpg?1562866397|https://scryfall.com/card/cns/155/uncontrollable-anger?utm_source=api>`"
 msgstr ""
 
+#: ../../CNS.rst:843
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
 #: ../../CNS.rst:847
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
 msgstr ""
@@ -1627,7 +1630,7 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../CNS.rst:889
-msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CNS.rst:894
@@ -1663,7 +1666,7 @@ msgid ":mtgtip:`Howling Wolf<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../CNS.rst:907
-msgid "When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library."
+msgid "When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CNS.rst:914
@@ -1751,7 +1754,7 @@ msgid ":mtgtip:`Sakura-Tribe Elder<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CNS.rst:955
-msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CNS.rst:958
@@ -1875,7 +1878,7 @@ msgid ":mtgtip:`Pernicious Deed<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CNS.rst:1023
-msgid "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less."
+msgid "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with mana value X or less."
 msgstr ""
 
 #: ../../CNS.rst:1028

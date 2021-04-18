@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,11 +69,11 @@ msgid "Destroy all enchantments."
 msgstr ""
 
 #: ../../LRW.rst:29
-msgid "Destroy all creatures with converted mana cost 3 or less."
+msgid "Destroy all creatures with mana value 3 or less."
 msgstr ""
 
 #: ../../LRW.rst:31
-msgid "Destroy all creatures with converted mana cost 4 or greater."
+msgid "Destroy all creatures with mana value 4 or greater."
 msgstr ""
 
 #: ../../LRW.rst:38
@@ -256,7 +256,7 @@ msgid ":mtgtip:`Favor of the Mighty<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../LRW.rst:95
-msgid "Each creature with the highest converted mana cost has protection from all colors."
+msgid "Each creature with the highest mana value has protection from all colors."
 msgstr ""
 
 #: ../../LRW.rst:102
@@ -316,7 +316,7 @@ msgid "Whenever you draw a card, you may put a hoofprint counter on Hoofprints o
 msgstr ""
 
 #: ../../LRW.rst:127
-msgid "|mana_2|\\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn."
+msgid "|mana_2|\\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate only during your turn."
 msgstr ""
 
 #: ../../LRW.rst:132
@@ -356,7 +356,7 @@ msgid ":mtgtip:`Kithkin Harbinger<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LRW.rst:149
-msgid "When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:154
@@ -412,7 +412,7 @@ msgid ":mtgtip:`Oaken Brawler<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../LRW.rst:183
-msgid "When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:190
@@ -440,7 +440,7 @@ msgid ":mtgtip:`Pollen Lullaby<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../LRW.rst:197
-msgid "Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:206
@@ -464,7 +464,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../LRW.rst:211
-msgid "At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:218
@@ -496,7 +496,7 @@ msgid ":mtgtip:`Springjack Knight<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LRW.rst:231
-msgid "Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:238
@@ -628,7 +628,7 @@ msgid ":mtgtip:`Broken Ambitions<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:307
-msgid "Counter target spell unless its controller pays |mana_x|. Clash with an opponent. If you win, that spell's controller mills four cards. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Counter target spell unless its controller pays |mana_x|. Clash with an opponent. If you win, that spell's controller mills four cards. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:314
@@ -636,7 +636,7 @@ msgid ":mtgtip:`Captivating Glance<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../LRW.rst:313
-msgid "At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:326
@@ -702,7 +702,7 @@ msgid ":mtgtip:`Faerie Harbinger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:353
-msgid "When Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:358
@@ -824,7 +824,7 @@ msgid ":mtgtip:`Merrow Harbinger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:419
-msgid "When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:426
@@ -868,7 +868,7 @@ msgid ":mtgtip:`Paperfin Rascal<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LRW.rst:447
-msgid "When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:456
@@ -884,7 +884,7 @@ msgid ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../LRW.rst:459
-msgid "Look at the top three cards of your library, then put them back in any order. You may shuffle your library."
+msgid "Look at the top three cards of your library, then put them back in any order. You may shuffle."
 msgstr ""
 
 #: ../../LRW.rst:468
@@ -900,7 +900,7 @@ msgid ":mtgtip:`Ringskipper<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../LRW.rst:473
-msgid "When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:478
@@ -908,7 +908,7 @@ msgid ":mtgtip:`Scattering Stroke<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LRW.rst:477
-msgid "Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add an amount of |colorless| equal to that spell's converted mana cost. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add an amount of |colorless| equal to that spell's mana value. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:488
@@ -968,7 +968,7 @@ msgid ":mtgtip:`Spellstutter Sprite<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../LRW.rst:523
-msgid "When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control."
+msgid "When Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control."
 msgstr ""
 
 #: ../../LRW.rst:528
@@ -1004,7 +1004,7 @@ msgid ":mtgtip:`Tideshaper Mystic<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LRW.rst:541
-msgid "|tap|: Target land becomes the basic land type of your choice until end of turn. Activate this ability only during your turn."
+msgid "|tap|: Target land becomes the basic land type of your choice until end of turn. Activate only during your turn."
 msgstr ""
 
 #: ../../LRW.rst:548
@@ -1032,7 +1032,7 @@ msgid ":mtgtip:`Whirlpool Whelm<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LRW.rst:557
-msgid "Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:564
@@ -1068,7 +1068,7 @@ msgid "Bog Hoodlums can't block."
 msgstr ""
 
 #: ../../LRW.rst:579
-msgid "When Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "When Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:584
@@ -1084,7 +1084,7 @@ msgid ":mtgtip:`Boggart Harbinger<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LRW.rst:587
-msgid "When Boggart Harbinger enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Boggart Harbinger enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:594
@@ -1249,7 +1249,7 @@ msgid ":mtgtip:`Hoarder's Greed<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LRW.rst:675
-msgid "You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:680
@@ -1289,7 +1289,7 @@ msgid "+1: Target player discards a card."
 msgstr ""
 
 #: ../../LRW.rst:695
-msgid "−2: Search your library for a card, then shuffle your library and put that card on top of it."
+msgid "−2: Search your library for a card, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:697
@@ -1426,7 +1426,7 @@ msgid "Target player loses X life."
 msgstr ""
 
 #: ../../LRW.rst:775
-msgid "Return target creature card with converted mana cost X or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value X or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../LRW.rst:777
@@ -1534,7 +1534,7 @@ msgid ":mtgtip:`Weed Strangle<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../LRW.rst:837
-msgid "Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:842
@@ -1542,7 +1542,7 @@ msgid ":mtgtip:`Adder-Staff Boggart<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../LRW.rst:841
-msgid "When Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "When Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:846
@@ -1562,11 +1562,11 @@ msgid "As Ashling's Prerogative enters the battlefield, choose odd or even. (Zer
 msgstr ""
 
 #: ../../LRW.rst:851
-msgid "Each creature with converted mana cost of the chosen value has haste."
+msgid "Each creature with mana value of the chosen quality has haste."
 msgstr ""
 
 #: ../../LRW.rst:853
-msgid "Each creature without converted mana cost of the chosen value enters the battlefield tapped."
+msgid "Each creature without mana value of the chosen quality enters the battlefield tapped."
 msgstr ""
 
 #: ../../LRW.rst:856
@@ -1698,7 +1698,7 @@ msgid ":mtgtip:`Fire-Belly Changeling<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../LRW.rst:929
-msgid "|mana_r|: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_r|: Fire-Belly Changeling gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../LRW.rst:934
@@ -1722,7 +1722,7 @@ msgid ":mtgtip:`Flamekin Harbinger<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../LRW.rst:941
-msgid "When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:946
@@ -1738,7 +1738,7 @@ msgid ":mtgtip:`Giant Harbinger<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LRW.rst:949
-msgid "When Giant Harbinger enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Giant Harbinger enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:954
@@ -1887,7 +1887,7 @@ msgid ":mtgtip:`Lash Out<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../LRW.rst:1033
-msgid "Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:1038
@@ -2099,7 +2099,7 @@ msgid ":mtgtip:`Elvish Harbinger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:1151
-msgid "When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:1153
@@ -2147,7 +2147,7 @@ msgid ":mtgtip:`Fistful of Force<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:1179
-msgid "Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:1188
@@ -2171,7 +2171,7 @@ msgid ":mtgtip:`Gilt-Leaf Ambush<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:1191
-msgid "Create two 1/1 green Elf Warrior creature tokens. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)"
+msgid "Create two 1/1 green Elf Warrior creature tokens. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../LRW.rst:1196
@@ -2279,7 +2279,7 @@ msgid ":mtgtip:`Lammastide Weave<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LRW.rst:1247
-msgid "Choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you gain life equal to its converted mana cost."
+msgid "Choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you gain life equal to its mana value."
 msgstr ""
 
 #: ../../LRW.rst:1254
@@ -2329,7 +2329,7 @@ msgid "All creatures able to block Nath's Elite do so."
 msgstr ""
 
 #: ../../LRW.rst:1275
-msgid "When Nath's Elite enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "When Nath's Elite enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:1280
@@ -2357,7 +2357,7 @@ msgid "Target player shuffles their graveyard into their library."
 msgstr ""
 
 #: ../../LRW.rst:1291
-msgid "Search your library for a creature card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for a creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../LRW.rst:1296
@@ -2373,7 +2373,7 @@ msgid ":mtgtip:`Seedguide Ash<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../LRW.rst:1299
-msgid "When Seedguide Ash dies, you may search your library for up to three Forest cards and put them onto the battlefield tapped. If you do, shuffle your library."
+msgid "When Seedguide Ash dies, you may search your library for up to three Forest cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../LRW.rst:1304
@@ -2381,7 +2381,7 @@ msgid ":mtgtip:`Spring Cleaning<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LRW.rst:1303
-msgid "Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:1308
@@ -2409,7 +2409,7 @@ msgid ":mtgtip:`Treefolk Harbinger<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../LRW.rst:1317
-msgid "When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../LRW.rst:1326
@@ -2441,7 +2441,7 @@ msgid ":mtgtip:`Woodland Guidance<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LRW.rst:1337
-msgid "Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../LRW.rst:1339
@@ -2497,7 +2497,7 @@ msgid ":mtgtip:`Gaddock Teeg<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../LRW.rst:1367
-msgid "Noncreature spells with converted mana cost 4 or greater can't be cast."
+msgid "Noncreature spells with mana value 4 or greater can't be cast."
 msgstr ""
 
 #: ../../LRW.rst:1369
@@ -2662,7 +2662,7 @@ msgid ":mtgtip:`Wanderer's Twig<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LRW.rst:1459
-msgid "|mana_1|, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_1|, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../LRW.rst:1466

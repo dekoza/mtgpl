@@ -18,7 +18,7 @@
 
 
 :mtgtip:`Conduit of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bc855d3-817c-4748-a7f5-1533d8b0e930.jpg?1562912732|https://scryfall.com/card/bfz/4/conduit-of-ruin?utm_source=api>`
-   When you cast this spell, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.
+   When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.
 
    The first creature spell you cast each turn costs |mana_2| less to cast.
 
@@ -26,7 +26,7 @@
 :mtgtip:`Deathless Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d98f1df-f99a-43c5-81cd-9d333226857a.jpg?1562898134|https://scryfall.com/card/bfz/5/deathless-behemoth?utm_source=api>`
    Vigilance
 
-   Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.
+   Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate only as a sorcery.
 
 
 :mtgtip:`Desolation Twin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d229d8d-5e64-4403-a4ae-a0a186a83935.jpg?1562913053|https://scryfall.com/card/bfz/6/desolation-twin?utm_source=api>`
@@ -80,9 +80,9 @@
 
 
 :mtgtip:`Void Winnower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02.jpg?1587039576|https://scryfall.com/card/bfz/17/void-winnower?utm_source=api>`
-   Your opponents can't cast spells with even converted mana costs. (Zero is even.)
+   Your opponents can't cast spells with even mana values. (Zero is even.)
 
-   Your opponents can't block with creatures with even converted mana costs.
+   Your opponents can't block with creatures with even mana values.
 
 
 :mtgtip:`Angel of Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f882ac2-3cbc-4548-8c83-d2a7443991df.jpg?1562898637|https://scryfall.com/card/bfz/18/angel-of-renewal?utm_source=api>`
@@ -302,7 +302,7 @@
 :mtgtip:`Horribly Awry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cd05532-686e-40dc-858b-8a77a3628c99.jpg?1562912968|https://scryfall.com/card/bfz/59/horribly-awry?utm_source=api>`
    Devoid (This card has no color.)
 
-   Counter target creature spell with converted mana cost 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+   Counter target creature spell with mana value 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
 :mtgtip:`Incubator Drone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0855762-7068-4111-a6bf-fe6d5b092c74.jpg?1562948433|https://scryfall.com/card/bfz/60/incubator-drone?utm_source=api>`
@@ -464,7 +464,7 @@
 
 
 :mtgtip:`Ugin's Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f37d5938-9c8f-4203-8f3f-d6e89ced28ef.jpg?1562952785|https://scryfall.com/card/bfz/87/ugins-insight?utm_source=api>`
-   Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.
+   Scry X, where X is the highest mana value among permanents you control, then draw three cards.
 
 
 :mtgtip:`Wave-Wing Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11b45809-87fc-409d-942a-1f31f68d27ac.jpg?1562899270|https://scryfall.com/card/bfz/88/wave-wing-elemental?utm_source=api>`
@@ -532,7 +532,7 @@
 
    Skitterskin can't block.
 
-   |mana_1|\ |mana_b|: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.
+   |mana_1|\ |mana_b|: Regenerate Skitterskin. Activate only if you control another colorless creature.
 
 
 :mtgtip:`Sludge Crawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9782b463-0677-40f4-ab2c-4c3ff19f1168.jpg?1562930662|https://scryfall.com/card/bfz/98/sludge-crawler?utm_source=api>`
@@ -562,7 +562,7 @@
 :mtgtip:`Transgress the Mind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5742910-3d0f-4710-a5f5-f7a7908833dc.jpg?1562953195|https://scryfall.com/card/bfz/101/transgress-the-mind?utm_source=api>`
    Devoid (This card has no color.)
 
-   Target player reveals their hand. You choose a card from it with converted mana cost 3 or greater and exile that card.
+   Target player reveals their hand. You choose a card from it with mana value 3 or greater and exile that card.
 
 
 :mtgtip:`Wasteland Strangler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e215ab0-efd6-4ea2-8bd2-0a93865e1e3c.jpg?1562917153|https://scryfall.com/card/bfz/102/wasteland-strangler?utm_source=api>`
@@ -688,7 +688,7 @@
 
 
 :mtgtip:`Voracious Null<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74364056-f4ee-46d3-834d-a5157ec312b9.jpg?1562922452|https://scryfall.com/card/bfz/125/voracious-null?utm_source=api>`
-   |mana_1|\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate only as a sorcery.
 
 
 :mtgtip:`Zulaport Cutthroat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c963d97-c948-45d9-84cc-58e246d35970.jpg?1562916825|https://scryfall.com/card/bfz/126/zulaport-cutthroat?utm_source=api>`
@@ -704,7 +704,7 @@
 :mtgtip:`Crumble to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63352c11-807d-4878-a975-02ef451c3184.jpg?1562918343|https://scryfall.com/card/bfz/128/crumble-to-dust?utm_source=api>`
    Devoid (This card has no color.)
 
-   Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles their library.
+   Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles.
 
 
 :mtgtip:`Kozilek's Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/786c6a0f-3f75-45ff-aae9-5c866be279d0.jpg?1562923399|https://scryfall.com/card/bfz/129/kozileks-sentinel?utm_source=api>`
@@ -914,7 +914,7 @@
 
    At the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
-   |mana_1|\ |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|\ |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Unnatural Aggression<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8293c66d-9a9b-4817-9bc3-ffd57fda290c.jpg?1562925834|https://scryfall.com/card/bfz/168/unnatural-aggression?utm_source=api>`
@@ -974,11 +974,11 @@
 
 
 :mtgtip:`Natural Connection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e11cd83-5930-4cff-8f9b-55337ed263b7.jpg?1562932356|https://scryfall.com/card/bfz/179/natural-connection?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Nissa's Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91aa2ff1-12ea-4896-a955-a9cd76c3b49d.jpg?1562929315|https://scryfall.com/card/bfz/180/nissas-renewal?utm_source=api>`
-   Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life.
+   Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle. You gain 7 life.
 
 
 :mtgtip:`Oran-Rief Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74c3276b-2cbc-4266-b16a-bf72c044d95b.jpg?1562922553|https://scryfall.com/card/bfz/181/oran-rief-hydra?utm_source=api>`
@@ -1034,7 +1034,7 @@
 
 
 :mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1b93087-e6a0-4ba9-83ba-a0ed2e396dc7.jpg?1562944944|https://scryfall.com/card/bfz/192/sylvan-scrying?utm_source=api>`
-   Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+   Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Tajuru Beastmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3447b4af-2eb2-48ae-a12e-2fdf83d4cb70.jpg?1562907286|https://scryfall.com/card/bfz/193/tajuru-beastmaster?utm_source=api>`
@@ -1144,7 +1144,7 @@
 
 
 :mtgtip:`Bring to Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d25b13a4-6282-4426-8b01-9550f7d52d16.jpg?1562945077|https://scryfall.com/card/bfz/209/bring-to-light?utm_source=api>`
-   Converge — Search your library for a creature, instant, or sorcery card with converted mana cost less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle your library. You may cast that card without paying its mana cost.
+   Converge — Search your library for a creature, instant, or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost.
 
 
 :mtgtip:`Drana's Emissary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99e82d47-9bbb-4bf9-a935-2c0b27b64a84.jpg?1562931289|https://scryfall.com/card/bfz/210/dranas-emissary?utm_source=api>`
@@ -1172,7 +1172,7 @@
 
 
 :mtgtip:`March from the Tomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/044dd138-fc8e-4a24-ad6d-2df71f94c0c0.jpg?1562896086|https://scryfall.com/card/bfz/214/march-from-the-tomb?utm_source=api>`
-   Return any number of target Ally creature cards with total converted mana cost 8 or less from your graveyard to the battlefield.
+   Return any number of target Ally creature cards with total mana value 8 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Munda, Ambush Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8ee09fe-46d7-492b-a2f3-3fb0c3f83f07.jpg?1562946697|https://scryfall.com/card/bfz/215/munda-ambush-leader?utm_source=api>`
@@ -1240,7 +1240,7 @@
 :mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e7dbd56-95a0-4697-9599-3f6110daf6bc.jpg?1562932488|https://scryfall.com/card/bfz/226/pilgrims-eye?utm_source=api>`
    Flying
 
-   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Slab Hammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18c64671-9bdd-475f-8def-7575775bf900.jpg?1562900920|https://scryfall.com/card/bfz/227/slab-hammer?utm_source=api>`
@@ -1284,7 +1284,7 @@
 :mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7508d531-da52-41fb-a729-3f5704c9a194.jpg?1562922639|https://scryfall.com/card/bfz/233/blighted-woodland?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Canopy Vista<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3262c7f-4fdf-4648-ba59-9279c75d222d.jpg?1562933510|https://scryfall.com/card/bfz/234/canopy-vista?utm_source=api>`
@@ -1300,7 +1300,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f8c9ac8-0741-4261-b43b-d745839e11f5.jpg?1562925071|https://scryfall.com/card/bfz/236/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Fertile Thicket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15231a9b-1956-4ff6-b637-942444d3349f.jpg?1562900075|https://scryfall.com/card/bfz/237/fertile-thicket?utm_source=api>`
@@ -1344,7 +1344,7 @@
 :mtgtip:`Sanctum of Ugin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86798d03-9f2d-46bd-a660-13c8dd5535ce.jpg?1562926694|https://scryfall.com/card/bfz/242/sanctum-of-ugin?utm_source=api>`
    |tap|: Add |colorless|.
 
-   Whenever you cast a colorless spell with converted mana cost 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle your library.
+   Whenever you cast a colorless spell with mana value 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sandstone Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c781e932-4605-47aa-add1-4ee62f4e7ead.jpg?1562942137|https://scryfall.com/card/bfz/243/sandstone-bridge?utm_source=api>`
@@ -1366,7 +1366,7 @@
 :mtgtip:`Shrine of the Forsaken Gods<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9da2af9a-28c4-4edd-95c4-cc09c2de4adc.jpg?1562932238|https://scryfall.com/card/bfz/245/shrine-of-the-forsaken-gods?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |colorless|\ |colorless|. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.
+   |tap|: Add |colorless|\ |colorless|. Spend this mana only to cast colorless spells. Activate only if you control seven or more lands.
 
 
 :mtgtip:`Skyline Cascade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29b0027d-c232-4cdd-89c4-75947687aa71.jpg?1562904866|https://scryfall.com/card/bfz/246/skyline-cascade?utm_source=api>`

@@ -58,7 +58,7 @@
 
 
 :mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b84697e-d72d-4169-bf16-753144da281f.jpg?1562719259|https://scryfall.com/card/mir/11/divine-offering?utm_source=api>`
-   Destroy target artifact. You gain life equal to its converted mana cost.
+   Destroy target artifact. You gain life equal to its mana value.
 
 
 :mtgtip:`Divine Retribution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75629aa3-426e-4e25-a7ab-71e03436e061.jpg?1562720225|https://scryfall.com/card/mir/12/divine-retribution?utm_source=api>`
@@ -70,7 +70,7 @@
 
 
 :mtgtip:`Enlightened Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbac1d27-15e2-4e2f-82ab-625a16e096cb.jpg?1562721909|https://scryfall.com/card/mir/14/enlightened-tutor?utm_source=api>`
-   Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Ethereal Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88f2d15e-490b-4754-8197-ac91653698f7.jpg?1562720467|https://scryfall.com/card/mir/15/ethereal-champion?utm_source=api>`
@@ -108,7 +108,7 @@
 
 
 :mtgtip:`Illumination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb28f6e5-c9ef-416e-b315-967d857e7600.jpg?1562722393|https://scryfall.com/card/mir/21/illumination?utm_source=api>`
-   Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.
+   Counter target artifact or enchantment spell. Its controller gains life equal to its mana value.
 
 
 :mtgtip:`Iron Tusk Elephant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7c8e952-f040-4e5b-88f3-f80ad4b3f2f1.jpg?1587912370|https://scryfall.com/card/mir/22/iron-tusk-elephant?utm_source=api>`
@@ -152,7 +152,7 @@
 :mtgtip:`Mtenda Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/162dd988-0beb-48e4-9eaa-a08ddb835648.jpg?1562717857|https://scryfall.com/card/mir/28/mtenda-griffin?utm_source=api>`
    Flying
 
-   |mana_w|, |tap|: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_w|, |tap|: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Mtenda Herder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51f30a3d-1421-4706-b17f-39a9ec7a0d8b.jpg?1562719270|https://scryfall.com/card/mir/29/mtenda-herder?utm_source=api>`
@@ -300,7 +300,7 @@
 :mtgtip:`Azimaet Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854ba4e0-f6f3-4b6c-b6cb-ab2b93d64601.jpg?1562720461|https://scryfall.com/card/mir/53/azimaet-drake?utm_source=api>`
    Flying
 
-   |mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+   |mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Bay Falcon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df45268a-b757-4ad2-bab0-869058ee9186.jpg?1587912407|https://scryfall.com/card/mir/54/bay-falcon?utm_source=api>`
@@ -354,7 +354,7 @@
 
    At the beginning of the chosen player's upkeep, Energy Vortex deals 3 damage to that player unless they pay |mana_1| for each vortex counter on Energy Vortex.
 
-   |mana_x|: Put X vortex counters on Energy Vortex. Activate this ability only during your upkeep.
+   |mana_x|: Put X vortex counters on Energy Vortex. Activate only during your upkeep.
 
 
 :mtgtip:`Ether Well<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a2cf195-01bf-4076-a0c6-ca5403d84f7d.jpg?1562717833|https://scryfall.com/card/mir/65/ether-well?utm_source=api>`
@@ -376,7 +376,7 @@
 :mtgtip:`Hakim, Loreweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8192bca7-03e5-4ea1-ae77-8bc811c19417.jpg?1562720255|https://scryfall.com/card/mir/68/hakim-loreweaver?utm_source=api>`
    Flying
 
-   |mana_u|\ |mana_u|: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate this ability only during your upkeep and only if Hakim isn't enchanted.
+   |mana_u|\ |mana_u|: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate only during your upkeep and only if Hakim isn't enchanted.
 
    |mana_u|\ |mana_u|, |tap|: Destroy all Auras attached to Hakim.
 
@@ -444,7 +444,7 @@
 
 
 :mtgtip:`Mystical Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d98101f-e32a-4a4a-a649-faa920d111ee.jpg?1562719293|https://scryfall.com/card/mir/80/mystical-tutor?utm_source=api>`
-   Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Political Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e56e720-5e8b-4685-969c-e073de78b9a1.jpg?1562718790|https://scryfall.com/card/mir/81/political-trickery?utm_source=api>`
@@ -722,7 +722,7 @@
 
 
 :mtgtip:`Mire Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.jpg?1562717845|https://scryfall.com/card/mir/131/mire-shade?utm_source=api>`
-   |mana_b|, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.
+   |mana_b|, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate only as a sorcery.
 
 
 :mtgtip:`Nocturnal Raid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0015fee8-068a-421e-9143-bcb575371f9a.jpg?1562717466|https://scryfall.com/card/mir/132/nocturnal-raid?utm_source=api>`
@@ -760,7 +760,7 @@
 
 
 :mtgtip:`Sewer Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42fe08c3-5024-486c-ba03-19d371ceccb0.jpg?1562718798|https://scryfall.com/card/mir/139/sewer-rats?utm_source=api>`
-   |mana_b|, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.
+   |mana_b|, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate no more than three times each turn.
 
 
 :mtgtip:`Shadow Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba3fc11e-db36-430c-920b-31195913c16a.jpg?1562721429|https://scryfall.com/card/mir/140/shadow-guildmage?utm_source=api>`
@@ -812,7 +812,7 @@
 :mtgtip:`Tainted Specter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74feb223-784a-4540-8a8e-6007d10a9505.jpg?1562720224|https://scryfall.com/card/mir/148/tainted-specter?utm_source=api>`
    Flying
 
-   |mana_1|\ |mana_b|\ |mana_b|, |tap|: Target player discards a card unless they put a card from their hand on top of their library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|\ |mana_b|, |tap|: Target player discards a card unless they put a card from their hand on top of their library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate only as a sorcery.
 
 
 :mtgtip:`Tombstone Stairwell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8fe2f99-7ec2-490c-8ec3-aa2fb4680826.jpg?1562722862|https://scryfall.com/card/mir/149/tombstone-stairwell?utm_source=api>`
@@ -826,7 +826,7 @@
 :mtgtip:`Urborg Panther<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edc9ff0f-adec-4d39-b281-98c5862f506b.jpg?1562722402|https://scryfall.com/card/mir/150/urborg-panther?utm_source=api>`
    |mana_b|, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther.
 
-   Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.
+   Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Wall of Corpses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dde6d3d1-75db-445f-9f17-632ee0292211.jpg?1562721938|https://scryfall.com/card/mir/151/wall-of-corpses?utm_source=api>`
@@ -984,13 +984,13 @@
 
 
 :mtgtip:`Goblin Tinkerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6529852-8b3e-4a70-a4a1-029e012231c6.jpg?1562722385|https://scryfall.com/card/mir/180/goblin-tinkerer?utm_source=api>`
-   |mana_r|, |tap|: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+   |mana_r|, |tap|: Destroy target artifact. That artifact deals damage equal to its mana value to Goblin Tinkerer.
 
 
 :mtgtip:`Hammer of Bogardan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7285f52-5df0-4f90-9cf7-a57295d90fd4.jpg?1562722857|https://scryfall.com/card/mir/181/hammer-of-bogardan?utm_source=api>`
    Hammer of Bogardan deals 3 damage to any target.
 
-   |mana_2|\ |mana_r|\ |mana_r|\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_2|\ |mana_r|\ |mana_r|\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Hivis of the Scale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee84e61e-d99a-489b-a3b1-cb45fc81bce6.jpg?1562722404|https://scryfall.com/card/mir/182/hivis-of-the-scale?utm_source=api>`
@@ -1106,7 +1106,7 @@
 
 
 :mtgtip:`Zirilan of the Claw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a105b7f4-c93b-4b54-acf8-7212907d9cd6.jpg?1562720947|https://scryfall.com/card/mir/204/zirilan-of-the-claw?utm_source=api>`
-   |mana_1|\ |mana_r|\ |mana_r|, |tap|: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.
+   |mana_1|\ |mana_r|\ |mana_r|, |tap|: Search your library for a Dragon permanent card, put that card onto the battlefield, then shuffle. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.
 
 
 :mtgtip:`Afiya Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c495e1f3-0845-4556-83e6-de8b9d518d1d.jpg?1562721453|https://scryfall.com/card/mir/205/afiya-grove?utm_source=api>`
@@ -1220,7 +1220,7 @@
 
    |mana_g|: Regenerate Locust Swarm.
 
-   |mana_g|: Untap Locust Swarm. Activate this ability only once each turn.
+   |mana_g|: Untap Locust Swarm. Activate only once each turn.
 
 
 :mtgtip:`Lure of Prey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7165f1d8-7b31-4a81-aab4-c6cd4ff2e67d.jpg?1562720214|https://scryfall.com/card/mir/227/lure-of-prey?utm_source=api>`
@@ -1246,7 +1246,7 @@
 
 
 :mtgtip:`Natural Balance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0f7c47c-416e-4f73-89ec-024a29dfb5e9.jpg?1562721414|https://scryfall.com/card/mir/231/natural-balance?utm_source=api>`
-   Each player who controls six or more lands chooses five lands they control and sacrifices the rest. Each player who controls four or fewer lands may search their library for up to X basic land cards and put them onto the battlefield, where X is five minus the number of lands they control. Then each player who searched their library this way shuffles it.
+   Each player who controls six or more lands chooses five lands they control and sacrifices the rest. Each player who controls four or fewer lands may search their library for up to X basic land cards and put them onto the battlefield, where X is five minus the number of lands they control. Then each player who searched their library this way shuffles.
 
 
 :mtgtip:`Nettletooth Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b5aa60d-91aa-4eee-9d13-55a357c8eced.jpg?1562720240|https://scryfall.com/card/mir/232/nettletooth-djinn?utm_source=api>`
@@ -1266,7 +1266,7 @@
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1562720967|https://scryfall.com/card/mir/235/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Regeneration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3d7a4f-8ccc-44cf-bacc-5055c7e1edbc.jpg?1562721910|https://scryfall.com/card/mir/236/regeneration?utm_source=api>`
@@ -1300,7 +1300,7 @@
 
 
 :mtgtip:`Seeds of Innocence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9c868f5-0f90-4f7e-bafb-c45d2372fe06.jpg?1614021484|https://scryfall.com/card/mir/241/seeds-of-innocence?utm_source=api>`
-   Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its converted mana cost.
+   Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its mana value.
 
 
 :mtgtip:`Serene Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/aff19d9d-8069-4f8d-a81b-e2fcd94c13b3.jpg?1562720976|https://scryfall.com/card/mir/242/serene-heart?utm_source=api>`
@@ -1356,7 +1356,7 @@
 :mtgtip:`Wall of Roots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aeb151d2-c313-44d2-972e-33487f070c23.jpg?1562720972|https://scryfall.com/card/mir/253/wall-of-roots?utm_source=api>`
    Defender
 
-   Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate this ability only once each turn.
+   Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate only once each turn.
 
 
 :mtgtip:`Wild Elephant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7809131c-747c-4c33-a3ca-13e573a92b66.jpg?1587912718|https://scryfall.com/card/mir/254/wild-elephant?utm_source=api>`
@@ -1364,7 +1364,7 @@
 
 
 :mtgtip:`Worldly Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f00115bc-b551-4bf5-a121-bebb37201575.jpg?1562722406|https://scryfall.com/card/mir/255/worldly-tutor?utm_source=api>`
-   Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.
+   Search your library for a creature card, reveal it, then shuffle and put the card on top.
 
 
 :mtgtip:`Asmira, Holy Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7d64600-84fc-42a5-a6a6-b26f98fac0a4.jpg?1562720964|https://scryfall.com/card/mir/256/asmira-holy-avenger?utm_source=api>`
@@ -1452,7 +1452,7 @@
 
 
 :mtgtip:`Kaervek's Purge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a42ef95-92ec-40fe-ab30-a476f012a525.jpg?1562720237|https://scryfall.com/card/mir/270/kaerveks-purge?utm_source=api>`
-   Destroy target creature with converted mana cost X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.
+   Destroy target creature with mana value X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.
 
 
 :mtgtip:`Leering Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a05d1cac-7012-4d22-82d3-0f82b168fe68.jpg?1562720944|https://scryfall.com/card/mir/271/leering-gargoyle?utm_source=api>`
@@ -1508,7 +1508,7 @@
 :mtgtip:`Sawback Manticore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c24e74e9-ce88-48af-a113-b4fe76f963d4.jpg?1562721451|https://scryfall.com/card/mir/281/sawback-manticore?utm_source=api>`
    |mana_4|: Sawback Manticore gains flying until end of turn.
 
-   |mana_1|: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.
+   |mana_1|: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate only if Sawback Manticore is attacking or blocking and only once each turn.
 
 
 :mtgtip:`Sealed Fate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36cf9da8-f078-4f6e-8077-bb24a7ed487f.jpg?1562718780|https://scryfall.com/card/mir/282/sealed-fate?utm_source=api>`
@@ -1556,7 +1556,7 @@
 
 
 :mtgtip:`Acidic Dagger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dfdea79-2a7c-489d-8466-e6090c2a0919.jpg?1562719777|https://scryfall.com/card/mir/291/acidic-dagger?utm_source=api>`
-   |mana_4|, |tap|: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared.
+   |mana_4|, |tap|: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate only before blockers are declared.
 
 
 :mtgtip:`Amber Prison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/046475e5-36d1-4b5f-af31-6df715c7a368.jpg?1562717813|https://scryfall.com/card/mir/292/amber-prison?utm_source=api>`
@@ -1566,7 +1566,7 @@
 
 
 :mtgtip:`Amulet of Unmaking<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdbd94c8-611c-4b20-99ca-dd2d7661d644.jpg?1562722878|https://scryfall.com/card/mir/293/amulet-of-unmaking?utm_source=api>`
-   |mana_5|, |tap|, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery.
+   |mana_5|, |tap|, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate only as a sorcery.
 
 
 :mtgtip:`Basalt Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5ff538f9-10b4-4327-aea6-a86759daf488.jpg?1562719741|https://scryfall.com/card/mir/294/basalt-golem?utm_source=api>`
@@ -1618,7 +1618,7 @@
 
 
 :mtgtip:`Grinning Totem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3558ddf-2bc6-4870-bd24-2467d870ffe5.jpg?1562722413|https://scryfall.com/card/mir/303/grinning-totem?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles their library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.
+   |mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.
 
 
 :mtgtip:`Horrible Hordes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf04f2cd-d9f8-4e0c-adaf-6d38bc14dd7a.jpg?1562721917|https://scryfall.com/card/mir/304/horrible-hordes?utm_source=api>`
@@ -1634,7 +1634,7 @@
 
 
 :mtgtip:`Lion's Eye Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1562719750|https://scryfall.com/card/mir/307/lions-eye-diamond?utm_source=api>`
-   Discard your hand, Sacrifice Lion's Eye Diamond: Add three mana of any one color. Activate this ability only any time you could cast an instant.
+   Discard your hand, Sacrifice Lion's Eye Diamond: Add three mana of any one color. Activate only as an instant.
 
 
 :mtgtip:`Mana Prism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81137c17-18b8-484e-8334-28f143c08177.jpg?1562720252|https://scryfall.com/card/mir/308/mana-prism?utm_source=api>`
@@ -1710,7 +1710,7 @@
 
 
 :mtgtip:`Ventifact Bottle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/520f4a24-fb1a-4964-887c-2f08a752fae2.jpg?1562719271|https://scryfall.com/card/mir/323/ventifact-bottle?utm_source=api>`
-   |mana_x|\ |mana_1|, |tap|: Put X charge counters on Ventifact Bottle. Activate this ability only any time you could cast a sorcery.
+   |mana_x|\ |mana_1|, |tap|: Put X charge counters on Ventifact Bottle. Activate only as a sorcery.
 
    At the beginning of your precombat main phase, if Ventifact Bottle has a charge counter on it, tap it and remove all charge counters from it. Add |colorless| for each charge counter removed this way.
 
@@ -1718,7 +1718,7 @@
 :mtgtip:`Bad River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a78abdb-d1ac-49cb-a74b-9de21c06364a.jpg?1562720239|https://scryfall.com/card/mir/324/bad-river?utm_source=api>`
    Bad River enters the battlefield tapped.
 
-   |tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Crystal Vein<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1afb6e29-058e-44c5-a3fa-56c462f070a0.jpg?1562718299|https://scryfall.com/card/mir/325/crystal-vein?utm_source=api>`
@@ -1730,25 +1730,25 @@
 :mtgtip:`Flood Plain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b7610f3-f182-404e-80b9-ccd94e174db0.jpg?1562720242|https://scryfall.com/card/mir/326/flood-plain?utm_source=api>`
    Flood Plain enters the battlefield tapped.
 
-   |tap|, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Grasslands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65f5efac-ef98-4be2-abcc-1aa38bf66b06.jpg?1562719756|https://scryfall.com/card/mir/327/grasslands?utm_source=api>`
    Grasslands enters the battlefield tapped.
 
-   |tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Mountain Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/ded4e5c2-4f03-47c1-9843-b98c239ccfea.jpg?1562722373|https://scryfall.com/card/mir/328/mountain-valley?utm_source=api>`
    Mountain Valley enters the battlefield tapped.
 
-   |tap|, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Rocky Tar Pit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e21c347-7aaf-42ae-abf3-f1283c5b54e6.jpg?1562718309|https://scryfall.com/card/mir/329/rocky-tar-pit?utm_source=api>`
    Rocky Tar Pit enters the battlefield tapped.
 
-   |tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Teferi's Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6ed7ca8-fd91-46e3-9149-a3de23c7078e.jpg?1562721425|https://scryfall.com/card/mir/330/teferis-isle?utm_source=api>`

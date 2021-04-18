@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -116,7 +116,7 @@ msgid "Creatures you control get +1/+2 until end of turn. Untap those creatures.
 msgstr ""
 
 #: ../../CON.rst:49
-msgid "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CON.rst:54
@@ -193,7 +193,7 @@ msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CON.rst:85
-msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:90
@@ -387,7 +387,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../CON.rst:195
-msgid "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CON.rst:200
@@ -423,7 +423,7 @@ msgid "Target player loses 4 life and you gain 4 life."
 msgstr ""
 
 #: ../../CON.rst:213
-msgid "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CON.rst:220
@@ -471,7 +471,7 @@ msgid ":mtgtip:`Fleshformer<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../CON.rst:239
-msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.)"
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.)"
 msgstr ""
 
 #: ../../CON.rst:246
@@ -551,7 +551,7 @@ msgid ":mtgtip:`Scepter of Fugue<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CON.rst:281
-msgid "|mana_1|\\ |mana_b|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_1|\\ |mana_b|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../CON.rst:286
@@ -639,7 +639,7 @@ msgid "Fiery Fall deals 5 damage to target creature."
 msgstr ""
 
 #: ../../CON.rst:331
-msgid "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CON.rst:338
@@ -739,7 +739,7 @@ msgid "Double strike"
 msgstr ""
 
 #: ../../CON.rst:385
-msgid "|mana_b|\\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn."
+msgid "|mana_b|\\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../CON.rst:392
@@ -901,7 +901,7 @@ msgid ":mtgtip:`Shard Convergence<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CON.rst:473
-msgid "Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library."
+msgid "Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:478
@@ -929,7 +929,7 @@ msgid "Target player gains 8 life."
 msgstr ""
 
 #: ../../CON.rst:487
-msgid "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../CON.rst:500
@@ -1021,7 +1021,7 @@ msgid ":mtgtip:`Conflux<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../CON.rst:537
-msgid "Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library."
+msgid "Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:542
@@ -1053,7 +1053,7 @@ msgid ":mtgtip:`Exploding Borders<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CON.rst:557
-msgid "Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player or planeswalker, where X is the number of basic land types among lands you control."
+msgid "Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Exploding Borders deals X damage to target player or planeswalker, where X is the number of basic land types among lands you control."
 msgstr ""
 
 #: ../../CON.rst:560
@@ -1117,7 +1117,7 @@ msgid "Knight of the Reliquary gets +1/+1 for each land card in your graveyard."
 msgstr ""
 
 #: ../../CON.rst:595
-msgid "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:600
@@ -1249,7 +1249,7 @@ msgid ":mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CON.rst:673
-msgid "When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle."
 msgstr ""
 
 #: ../../CON.rst:678
@@ -1305,7 +1305,7 @@ msgid ":mtgtip:`Armillary Sphere<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CON.rst:701
-msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CON.rst:708

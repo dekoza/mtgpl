@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -226,7 +226,7 @@ msgid ":mtgtip:`Blood Scrivener<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DGM.rst:111
-msgid "If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life."
+msgid "If you would draw a card while you have no cards in hand, instead you draw two cards and you lose 1 life."
 msgstr ""
 
 #: ../../DGM.rst:116
@@ -531,7 +531,7 @@ msgid ":mtgtip:`Beetleform Mage<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DGM.rst:271
-msgid "|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn."
+msgid "|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../DGM.rst:276
@@ -539,7 +539,7 @@ msgid ":mtgtip:`Blast of Genius<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DGM.rst:275
-msgid "Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that permanent or player."
+msgid "Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's mana value to that permanent or player."
 msgstr ""
 
 #: ../../DGM.rst:280
@@ -707,7 +707,7 @@ msgid ":mtgtip:`Gaze of Granite<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DGM.rst:363
-msgid "Destroy each nonland permanent with converted mana cost X or less."
+msgid "Destroy each nonland permanent with mana value X or less."
 msgstr ""
 
 #: ../../DGM.rst:368
@@ -787,7 +787,7 @@ msgid "Protection from red"
 msgstr ""
 
 #: ../../DGM.rst:407
-msgid "When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
+msgid "When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with mana value 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
 
 #: ../../DGM.rst:416
@@ -899,7 +899,7 @@ msgid ":mtgtip:`Plasm Capture<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../DGM.rst:469
-msgid "Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that spell's converted mana cost."
+msgid "Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that spell's mana value."
 msgstr ""
 
 #: ../../DGM.rst:474
@@ -939,7 +939,7 @@ msgid ":mtgtip:`Reap Intellect<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../DGM.rst:489
-msgid "Target opponent reveals their hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library."
+msgid "Target opponent reveals their hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../DGM.rst:494
@@ -967,7 +967,7 @@ msgid "Rot Farm Skeleton can't block."
 msgstr ""
 
 #: ../../DGM.rst:503
-msgid "|mana_2|\\ |mana_b|\\ |mana_g|, Mill four cards: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, Mill four cards: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
 
 #: ../../DGM.rst:512
@@ -999,7 +999,7 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../DGM.rst:519
-msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery."
 msgstr ""
 
 #: ../../DGM.rst:524
@@ -1642,7 +1642,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../DGM.rst:899
-msgid "|mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game."
+msgid "|mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle. If you control ten or more Gates with different names, you win the game."
 msgstr ""
 
 #: ../../DGM.rst:906

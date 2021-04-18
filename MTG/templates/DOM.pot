@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,7 +79,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../DOM.rst:27
-msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures."
+msgid "Creatures can't attack you or planeswalkers you control unless their controller pays |mana_1| for each of those creatures."
 msgstr ""
 
 #: ../../DOM.rst:32
@@ -423,7 +423,7 @@ msgid ":mtgtip:`Teshar, Ancestor's Apostle<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../DOM.rst:201
-msgid "Whenever you cast a historic spell, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)"
+msgid "Whenever you cast a historic spell, return target creature card with mana value 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
 
 #: ../../DOM.rst:206
@@ -682,7 +682,7 @@ msgid ":mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/fron
 msgstr ""
 
 #: ../../DOM.rst:347
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../DOM.rst:358
@@ -910,7 +910,7 @@ msgid "Flying, trample"
 msgstr ""
 
 #: ../../DOM.rst:483
-msgid "When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's converted mana cost is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way."
+msgid "When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's mana value is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way."
 msgstr ""
 
 #: ../../DOM.rst:488
@@ -974,7 +974,7 @@ msgid ":mtgtip:`Final Parting<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../DOM.rst:517
-msgid "Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle your library."
+msgid "Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle."
 msgstr ""
 
 #: ../../DOM.rst:522
@@ -1706,7 +1706,7 @@ msgid ":mtgtip:`Grow from the Ashes<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../DOM.rst:921
-msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../DOM.rst:930
@@ -1726,7 +1726,7 @@ msgid ":mtgtip:`Kamahl's Druidic Vow<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../DOM.rst:935
-msgid "Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with converted mana cost X or less from among them onto the battlefield. Put the rest into your graveyard."
+msgid "Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with mana value X or less from among them onto the battlefield. Put the rest into your graveyard."
 msgstr ""
 
 #: ../../DOM.rst:942
@@ -2359,7 +2359,7 @@ msgid ":mtgtip:`Skittering Surveyor<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../DOM.rst:1291
-msgid "When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DOM.rst:1298
@@ -2652,7 +2652,7 @@ msgid ":mtgtip:`Niambi, Faithful Healer<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../DOM.rst:1447
-msgid "When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../DOM.rst:1452
@@ -2700,7 +2700,7 @@ msgid "Chandra's Outburst deals 4 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../DOM.rst:1471
-msgid "Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../DOM.rst:1476

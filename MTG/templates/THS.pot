@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,7 +213,7 @@ msgid "Target creature you control gains protection from the color of your choic
 msgstr ""
 
 #: ../../THS.rst:93
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../THS.rst:104
@@ -376,7 +376,7 @@ msgid ":mtgtip:`Setessan Griffin<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../THS.rst:177
-msgid "|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../THS.rst:180
@@ -1055,7 +1055,7 @@ msgid ":mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../THS.rst:563
-msgid "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid "Scry 2, then draw two cards. You lose 2 life."
 msgstr ""
 
 #: ../../THS.rst:570
@@ -1143,7 +1143,7 @@ msgid "Creatures you control have lifelink."
 msgstr ""
 
 #: ../../THS.rst:613
-msgid "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery."
 msgstr ""
 
 #: ../../THS.rst:618
@@ -1759,7 +1759,7 @@ msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if i
 msgstr ""
 
 #: ../../THS.rst:949
-msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../THS.rst:952
@@ -1908,7 +1908,7 @@ msgid "+2: Exile the top three cards of target opponent's library."
 msgstr ""
 
 #: ../../THS.rst:1031
-msgid "−X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types."
+msgid "−X: Put a creature card with mana value X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types."
 msgstr ""
 
 #: ../../THS.rst:1033
@@ -1940,7 +1940,7 @@ msgid "Daxos of Meletis can't be blocked by creatures with power 3 or greater."
 msgstr ""
 
 #: ../../THS.rst:1047
-msgid "Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."
+msgid "Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's mana value. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."
 msgstr ""
 
 #: ../../THS.rst:1052
@@ -2189,7 +2189,7 @@ msgid ":mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../THS.rst:1185
-msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../THS.rst:1194
@@ -2269,7 +2269,7 @@ msgid ":mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../THS.rst:1227
-msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../THS.rst:1234

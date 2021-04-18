@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgid "+1: Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
 
 #: ../../M19.rst:19
-msgid "−2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "−2: Return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../M19.rst:21
@@ -215,7 +215,7 @@ msgid ":mtgtip:`Isolate<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../M19.rst:89
-msgid "Exile target permanent with converted mana cost 1."
+msgid "Exile target permanent with mana value 1."
 msgstr ""
 
 #: ../../M19.rst:94
@@ -667,7 +667,7 @@ msgid ":mtgtip:`One with the Machine<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../M19.rst:341
-msgid "Draw cards equal to the highest converted mana cost among artifacts you control."
+msgid "Draw cards equal to the highest mana value among artifacts you control."
 msgstr ""
 
 #: ../../M19.rst:346
@@ -797,7 +797,7 @@ msgid "0: Draw a card. If you control three or more artifacts, draw two cards in
 msgstr ""
 
 #: ../../M19.rst:405
-msgid "−9: You get an emblem with \"At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library.\""
+msgid "−9: You get an emblem with \"At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle.\""
 msgstr ""
 
 #: ../../M19.rst:408
@@ -1004,7 +1004,7 @@ msgid "Deathtouch"
 msgstr ""
 
 #: ../../M19.rst:523
-msgid "Whenever Isareth the Awakener attacks, you may pay |mana_x|. When you do, return target creature card with converted mana cost X from your graveyard to the battlefield with a corpse counter on it. If that creature would leave the battlefield, exile it instead of putting it anywhere else."
+msgid "Whenever Isareth the Awakener attacks, you may pay |mana_x|. When you do, return target creature card with mana value X from your graveyard to the battlefield with a corpse counter on it. If that creature would leave the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
 
 #: ../../M19.rst:528
@@ -1666,7 +1666,7 @@ msgid "Other Elves you control get +1/+1."
 msgstr ""
 
 #: ../../M19.rst:887
-msgid "|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library."
+msgid "|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../M19.rst:892
@@ -1865,7 +1865,7 @@ msgid ":mtgtip:`Scapeshift<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../M19.rst:995
-msgid "Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M19.rst:1004
@@ -2032,7 +2032,7 @@ msgid "When Nicol Bolas, the Ravager enters the battlefield, each opponent disca
 msgstr ""
 
 #: ../../M19.rst:1097
-msgid "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate only as a sorcery."
 msgstr ""
 
 #: ../../M19.rst:1108
@@ -2317,7 +2317,7 @@ msgid "Transmogrifying Wand enters the battlefield with three charge counters on
 msgstr ""
 
 #: ../../M19.rst:1265
-msgid "|mana_1|, |tap|, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, |tap|, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate only as a sorcery."
 msgstr ""
 
 #: ../../M19.rst:1272
@@ -2682,7 +2682,7 @@ msgid "−3: Sarkhan, Dragonsoul deals 4 damage to target player or planeswalker
 msgstr ""
 
 #: ../../M19.rst:1463
-msgid "−9: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle your library."
+msgid "−9: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../M19.rst:1468
@@ -2758,7 +2758,7 @@ msgid ":mtgtip:`Ursine Champion<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../M19.rst:1507
-msgid "|mana_5|\\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate this ability only once each turn."
+msgid "|mana_5|\\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../M19.rst:1514
@@ -2766,7 +2766,7 @@ msgid ":mtgtip:`Vivien's Jaguar<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../M19.rst:1513
-msgid "|mana_2|\\ |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate this ability only if you control a Vivien planeswalker."
+msgid "|mana_2|\\ |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate only if you control a Vivien planeswalker."
 msgstr ""
 
 #: ../../M19.rst:1520

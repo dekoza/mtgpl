@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid ":mtgtip:`Baffling End<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../RIX.rst:9
-msgid "When Baffling End enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less."
+msgid "When Baffling End enters the battlefield, exile target creature an opponent controls with mana value 3 or less."
 msgstr ""
 
 #: ../../RIX.rst:11
@@ -123,7 +123,7 @@ msgid ":mtgtip:`Forerunner of the Legion<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../RIX.rst:51
-msgid "When Forerunner of the Legion enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Forerunner of the Legion enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../RIX.rst:53
@@ -143,7 +143,7 @@ msgid ":mtgtip:`Legion Conquistador<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../RIX.rst:61
-msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library."
+msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../RIX.rst:68
@@ -617,7 +617,7 @@ msgid ":mtgtip:`Timestream Navigator<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../RIX.rst:321
-msgid "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing."
+msgid "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate only if you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:328
@@ -731,7 +731,7 @@ msgid ":mtgtip:`Forerunner of the Coalition<https://c1.scryfall.com/file/scryfal
 msgstr ""
 
 #: ../../RIX.rst:387
-msgid "When Forerunner of the Coalition enters the battlefield, you may search your library for a Pirate card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Forerunner of the Coalition enters the battlefield, you may search your library for a Pirate card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../RIX.rst:389
@@ -775,7 +775,7 @@ msgid ":mtgtip:`Mastermind's Acquisition<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../RIX.rst:413
-msgid "Search your library for a card, put it into your hand, then shuffle your library."
+msgid "Search your library for a card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../RIX.rst:415
@@ -859,7 +859,7 @@ msgid ":mtgtip:`Tetzimoc, Primal Death<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../RIX.rst:463
-msgid "|mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate this ability only during your turn."
+msgid "|mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate only during your turn."
 msgstr ""
 
 #: ../../RIX.rst:465
@@ -884,7 +884,7 @@ msgid ":mtgtip:`Twilight Prophet<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../RIX.rst:479
-msgid "At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's converted mana cost."
+msgid "At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's mana value."
 msgstr ""
 
 #: ../../RIX.rst:484
@@ -1016,7 +1016,7 @@ msgid ":mtgtip:`Forerunner of the Empire<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../RIX.rst:551
-msgid "When Forerunner of the Empire enters the battlefield, you may search your library for a Dinosaur card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Forerunner of the Empire enters the battlefield, you may search your library for a Dinosaur card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../RIX.rst:553
@@ -1252,7 +1252,7 @@ msgid ":mtgtip:`Forerunner of the Heralds<https://c1.scryfall.com/file/scryfall-
 msgstr ""
 
 #: ../../RIX.rst:689
-msgid "When Forerunner of the Heralds enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Forerunner of the Heralds enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../RIX.rst:691
@@ -1420,7 +1420,7 @@ msgid "As an additional cost to cast this spell, reveal a Dinosaur card from you
 msgstr ""
 
 #: ../../RIX.rst:781
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../RIX.rst:790
@@ -1456,7 +1456,7 @@ msgid "+1: Each opponent discards a card and loses 2 life."
 msgstr ""
 
 #: ../../RIX.rst:801
-msgid "−3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less."
+msgid "−3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has mana value 3 or less."
 msgstr ""
 
 #: ../../RIX.rst:803
@@ -1785,7 +1785,7 @@ msgid ":mtgtip:`Azor's Gateway<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../RIX.rst:985
-msgid "|mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards with five or more different converted mana costs are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
+msgid "|mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards with five or more different mana values are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
 msgstr ""
 
 #: ../../RIX.rst:992
@@ -1883,7 +1883,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../RIX.rst:1037
-msgid "|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate this ability only if you have the city's blessing."
+msgid "|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate only if you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1044
@@ -1915,7 +1915,7 @@ msgid ":mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../RIX.rst:1053
-msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../RIX.rst:1062
@@ -1923,7 +1923,7 @@ msgid ":mtgtip:`Arch of Orazca<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../RIX.rst:1061
-msgid "|mana_5|, |tap|: Draw a card. Activate this ability only if you have the city's blessing."
+msgid "|mana_5|, |tap|: Draw a card. Activate only if you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1066
@@ -1931,7 +1931,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../RIX.rst:1065
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../RIX.rst:1072
@@ -2071,7 +2071,7 @@ msgid ":mtgtip:`Vraska's Scorn<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../RIX.rst:1135
-msgid "Target opponent loses 4 life. You may search your library and/or graveyard for a card named Vraska, Scheming Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Target opponent loses 4 life. You may search your library and/or graveyard for a card named Vraska, Scheming Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../RIX.rst:1144
@@ -2107,7 +2107,7 @@ msgid ":mtgtip:`Angrath's Fury<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../RIX.rst:1155
-msgid "Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../RIX.rst:1161

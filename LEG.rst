@@ -48,7 +48,7 @@
 
 
 :mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c78c2f3-2f40-48ad-9dc4-55d1fa399a56.jpg?1562860160|https://scryfall.com/card/leg/9/divine-offering?utm_source=api>`
-   Destroy target artifact. You gain life equal to its converted mana cost.
+   Destroy target artifact. You gain life equal to its mana value.
 
 
 :mtgtip:`Divine Transformation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a89ad9fd-33a6-4d31-9f4c-8bf192882f21.jpg?1562860629|https://scryfall.com/card/leg/10/divine-transformation?utm_source=api>`
@@ -82,7 +82,7 @@
 
 
 :mtgtip:`Great Defender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/879a8653-1538-4f78-a3d3-a900a4d9499b.jpg?1562859683|https://scryfall.com/card/leg/16/great-defender?utm_source=api>`
-   Target creature gets +0/+X until end of turn, where X is its converted mana cost.
+   Target creature gets +0/+X until end of turn, where X is its mana value.
 
 
 :mtgtip:`Great Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd860a1d-aa17-4579-b9b1-d101d2416387.jpg?1562860886|https://scryfall.com/card/leg/17/great-wall?utm_source=api>`
@@ -126,7 +126,7 @@
 
 
 :mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1562861343|https://scryfall.com/card/leg/26/land-tax?utm_source=api>`
-   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.
+   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Lifeblood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.jpg?1587857954|https://scryfall.com/card/leg/27/lifeblood?utm_source=api>`
@@ -246,7 +246,7 @@
 :mtgtip:`Dream Coat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07edbbf4-c3d6-4ec1-ae9b-4ae202fb6998.jpg?1587858190|https://scryfall.com/card/leg/51/dream-coat?utm_source=api>`
    Enchant creature
 
-   |mana_0|: Enchanted creature becomes the color or colors of your choice. Activate this ability only once each turn.
+   |mana_0|: Enchanted creature becomes the color or colors of your choice. Activate only once each turn.
 
 
 :mtgtip:`Elder Spawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99cc045e-01a8-4f14-a86d-0a67ec35d6b7.jpg?1562860152|https://scryfall.com/card/leg/52/elder-spawn?utm_source=api>`
@@ -260,7 +260,7 @@
 
 
 :mtgtip:`Energy Tap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37e69940-bdc8-48ff-a296-540343910adf.jpg?1562858700|https://scryfall.com/card/leg/54/energy-tap?utm_source=api>`
-   Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's converted mana cost.
+   Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's mana value.
 
 
 :mtgtip:`Field of Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a63e119-3b1b-4964-a4b9-b10170ff542b.jpg?1562859215|https://scryfall.com/card/leg/55/field-of-dreams?utm_source=api>`
@@ -294,15 +294,15 @@
 
 
 :mtgtip:`In the Eye of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/733933dd-c871-4f75-8b08-d7c010dddbe6.jpg?1562859657|https://scryfall.com/card/leg/61/in-the-eye-of-chaos?utm_source=api>`
-   Whenever a player casts an instant spell, counter it unless that player pays |mana_x|, where X is its converted mana cost.
+   Whenever a player casts an instant spell, counter it unless that player pays |mana_x|, where X is its mana value.
 
 
 :mtgtip:`Invoke Prejudice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/903d9fde-d7da-4a0e-a337-b63023c6d74b.jpg?1591988938|https://scryfall.com/card/leg/62/invoke-prejudice?utm_source=api>`
-   Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays |mana_x|, where X is its converted mana cost.
+   Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays |mana_x|, where X is its mana value.
 
 
 :mtgtip:`Juxtapose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c48d78db-d982-4c28-9308-2d57dc2b947e.jpg?1562860874|https://scryfall.com/card/leg/63/juxtapose?utm_source=api>`
-   You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+   You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them.
 
 
 :mtgtip:`Land Equilibrium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c406b25-03f8-4aaa-9ea7-48bf754166b7.jpg?1562860158|https://scryfall.com/card/leg/64/land-equilibrium?utm_source=api>`
@@ -310,7 +310,7 @@
 
 
 :mtgtip:`Mana Drain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1562861377|https://scryfall.com/card/leg/65/mana-drain?utm_source=api>`
-   Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's converted mana cost.
+   Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's mana value.
 
 
 :mtgtip:`Part Water<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b659475-c8b7-493d-af63-04f34d8cc3b1.jpg?1592364304|https://scryfall.com/card/leg/66/part-water?utm_source=api>`
@@ -508,7 +508,7 @@
 
 
 :mtgtip:`Hell's Caretaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/336b3b8f-d104-4f06-ad4f-c92b8a9038ca.jpg?1562858261|https://scryfall.com/card/leg/104/hells-caretaker?utm_source=api>`
-   |tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Hellfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/362f1fe9-20af-434c-9957-7a1a564d89e6.jpg?1592364391|https://scryfall.com/card/leg/105/hellfire?utm_source=api>`
@@ -538,7 +538,7 @@
 
 
 :mtgtip:`Lesser Werewolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.jpg?1562860862|https://scryfall.com/card/leg/110/lesser-werewolf?utm_source=api>`
-   |mana_b|: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.
+   |mana_b|: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate only during the declare blockers step.
 
 
 :mtgtip:`Lost Soul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/601eed5c-436d-425b-a45f-07881ad893c8.jpg?1562859189|https://scryfall.com/card/leg/111/lost-soul?utm_source=api>`
@@ -606,7 +606,7 @@
 :mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a6a6f50-7b86-461e-80a7-e35d0e7cf52f.jpg?1562859217|https://scryfall.com/card/leg/125/vampire-bats?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
-   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Walking Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7533a72-77d1-40cd-b3a1-7597d566c428.jpg?1562861349|https://scryfall.com/card/leg/126/walking-dead?utm_source=api>`
@@ -998,7 +998,7 @@
 
 
 :mtgtip:`Subdue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/123d6097-8021-46cd-a8c3-01013245e347.jpg?1562857754|https://scryfall.com/card/leg/206/subdue?utm_source=api>`
-   Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its converted mana cost.
+   Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its mana value.
 
 
 :mtgtip:`Sylvan Library<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f486df00-7c4a-4ff0-bb0b-c8b5432ac742.jpg?1562861845|https://scryfall.com/card/leg/207/sylvan-library?utm_source=api>`
@@ -1014,7 +1014,7 @@
 
 
 :mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/887f22af-8b92-422a-9cd5-f3977674bcdc.jpg?1562859686|https://scryfall.com/card/leg/210/untamed-wilds?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Whirling Dervish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eba294e7-7097-4bc3-b396-72e85dd4f441.jpg?1562861819|https://scryfall.com/card/leg/211/whirling-dervish?utm_source=api>`
@@ -1048,7 +1048,7 @@
 
 
 :mtgtip:`Angus Mackenzie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57264bd9-94f6-4d4d-baff-2b2900585635.jpg?1592364590|https://scryfall.com/card/leg/217/angus-mackenzie?utm_source=api>`
-   |mana_g|\ |mana_w|\ |mana_u|, |tap|: Prevent all combat damage that would be dealt this turn. Activate this ability only before the combat damage step.
+   |mana_g|\ |mana_w|\ |mana_u|, |tap|: Prevent all combat damage that would be dealt this turn. Activate only before the combat damage step.
 
 
 :mtgtip:`Arcades Sabboth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c1dbc62-ceb5-4540-ae38-901e5deafc75.jpg?1562858238|https://scryfall.com/card/leg/218/arcades-sabboth?utm_source=api>`
@@ -1110,7 +1110,7 @@
 
 
 :mtgtip:`Gwendlyn Di Corci<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/473d70b6-a88c-49f4-9415-19919c4468ae.jpg?1562858719|https://scryfall.com/card/leg/228/gwendlyn-di-corci?utm_source=api>`
-   |tap|: Target player discards a card at random. Activate this ability only during your turn.
+   |tap|: Target player discards a card at random. Activate only during your turn.
 
 
 :mtgtip:`Halfdane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e939761-3542-4044-9038-d1d30c6a38fc.jpg?1562858243|https://scryfall.com/card/leg/229/halfdane?utm_source=api>`
@@ -1184,7 +1184,7 @@
 
 
 :mtgtip:`Nebuchadnezzar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3f17ce3-711b-4bd9-addf-dd440fa7d2b7.jpg?1562861371|https://scryfall.com/card/leg/245/nebuchadnezzar?utm_source=api>`
-   |mana_x|, |tap|: Choose a card name. Target opponent reveals X cards at random from their hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.
+   |mana_x|, |tap|: Choose a card name. Target opponent reveals X cards at random from their hand. Then that player discards all cards with that name revealed this way. Activate only during your turn.
 
 
 :mtgtip:`Nicol Bolas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/729feb73-4581-4f9d-ba47-bece72481b86.jpg?1562859656|https://scryfall.com/card/leg/246/nicol-bolas?utm_source=api>`
@@ -1384,15 +1384,15 @@
 
 
 :mtgtip:`Kry Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a558f23c-c2ce-40d0-b894-f8ccbff8f622.jpg?1562860621|https://scryfall.com/card/leg/282/kry-shield?utm_source=api>`
-   |mana_2|, |tap|: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost.
+   |mana_2|, |tap|: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its mana value.
 
 
 :mtgtip:`Life Chisel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50052f9a-d667-4a96-a9b1-b4169ee495e6.jpg?1562858730|https://scryfall.com/card/leg/283/life-chisel?utm_source=api>`
-   Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep.
+   Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate only during your upkeep.
 
 
 :mtgtip:`Life Matrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877|https://scryfall.com/card/leg/284/life-matrix?utm_source=api>`
-   |mana_4|, |tap|: Put a matrix counter on target creature and that creature gains "Remove a matrix counter from this creature: Regenerate this creature." Activate this ability only during your upkeep.
+   |mana_4|, |tap|: Put a matrix counter on target creature and that creature gains "Remove a matrix counter from this creature: Regenerate this creature." Activate only during your upkeep.
 
 
 :mtgtip:`Mana Matrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3eedc11-0b47-430c-8391-577a2d05c2ae.jpg?1562860615|https://scryfall.com/card/leg/285/mana-matrix?utm_source=api>`
@@ -1406,7 +1406,7 @@
 
 
 :mtgtip:`Mirror Universe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8f05d5e-bb7d-4554-b880-f0c6b4688357.jpg?1562860630|https://scryfall.com/card/leg/287/mirror-universe?utm_source=api>`
-   |tap|, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep.
+   |tap|, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate only during your upkeep.
 
 
 :mtgtip:`North Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daac2a6b-27c8-4567-9e0c-7b262628d331.jpg?1562861354|https://scryfall.com/card/leg/288/north-star?utm_source=api>`
@@ -1452,11 +1452,11 @@
 :mtgtip:`Triassic Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce3756f7-0d99-4562-b32d-66de18a58fdf.jpg?1562860889|https://scryfall.com/card/leg/297/triassic-egg?utm_source=api>`
    |mana_3|, |tap|: Put a hatchling counter on Triassic Egg.
 
-   Sacrifice Triassic Egg: Choose one —
+   Sacrifice Triassic Egg: Choose one. Activate only if there are two or more hatchling counters on Triassic Egg.
 
-   • You may put a creature card from your hand onto the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.
+   • You may put a creature card from your hand onto the battlefield.
 
-   • Return target creature card from your graveyard to the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.
+   • Return target creature card from your graveyard to the battlefield.
 
 
 :mtgtip:`Voodoo Doll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0418672d-056e-416d-91b4-8ee6e47201dc.jpg?1562857298|https://scryfall.com/card/leg/298/voodoo-doll?utm_source=api>`
@@ -1514,7 +1514,7 @@
 :mtgtip:`Tolaria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d43c01b7-443d-4061-a934-6863d230c9b8.jpg?1616399923|https://scryfall.com/card/leg/308/tolaria?utm_source=api>`
    |tap|: Add |mana_u|.
 
-   |tap|: Target creature loses banding and all "bands with other" abilities until end of turn. Activate this ability only during any upkeep step.
+   |tap|: Target creature loses banding and all "bands with other" abilities until end of turn. Activate only during any upkeep step.
 
 
 :mtgtip:`Unholy Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9de534ff-fb48-4692-bd0f-dd237ca28502.jpg?1562860166|https://scryfall.com/card/leg/309/unholy-citadel?utm_source=api>`

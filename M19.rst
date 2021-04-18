@@ -16,7 +16,7 @@
 :mtgtip:`Ajani, Adversary of Tyrants<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.jpg?1562302134|https://scryfall.com/card/m19/3/ajani-adversary-of-tyrants?utm_source=api>`
    +1: Put a +1/+1 counter on each of up to two target creatures.
 
-   −2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   −2: Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
    −7: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."
 
@@ -86,7 +86,7 @@
 
 
 :mtgtip:`Isolate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d9ce5eb-eaeb-4c93-8d31-4aeb8fcc4cce.jpg?1562301710|https://scryfall.com/card/m19/17/isolate?utm_source=api>`
-   Exile target permanent with converted mana cost 1.
+   Exile target permanent with mana value 1.
 
 
 :mtgtip:`Knight of the Tusk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/213b4584-420a-48c2-9709-7b07458e914b.jpg?1562300796|https://scryfall.com/card/m19/18/knight-of-the-tusk?utm_source=api>`
@@ -338,7 +338,7 @@
 
 
 :mtgtip:`One with the Machine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17f2aaf5-6c1f-4663-865f-6cdd5640485a.jpg?1562300707|https://scryfall.com/card/m19/66/one-with-the-machine?utm_source=api>`
-   Draw cards equal to the highest converted mana cost among artifacts you control.
+   Draw cards equal to the highest mana value among artifacts you control.
 
 
 :mtgtip:`Patient Rebuilding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2256e07f-a35a-4393-9744-045564d5770b.jpg?1562300801|https://scryfall.com/card/m19/67/patient-rebuilding?utm_source=api>`
@@ -402,7 +402,7 @@
 
    0: Draw a card. If you control three or more artifacts, draw two cards instead.
 
-   −9: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library."
+   −9: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle."
 
 
 :mtgtip:`Tolarian Scholar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2eda67da-02b5-4ecb-9038-10e026d454ec.jpg?1562301207|https://scryfall.com/card/m19/80/tolarian-scholar?utm_source=api>`
@@ -520,7 +520,7 @@
 :mtgtip:`Isareth the Awakener<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74e49567-8ad6-4ce9-a55d-4db5e0fd9532.jpg?1562302712|https://scryfall.com/card/m19/104/isareth-the-awakener?utm_source=api>`
    Deathtouch
 
-   Whenever Isareth the Awakener attacks, you may pay |mana_x|. When you do, return target creature card with converted mana cost X from your graveyard to the battlefield with a corpse counter on it. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
+   Whenever Isareth the Awakener attacks, you may pay |mana_x|. When you do, return target creature card with mana value X from your graveyard to the battlefield with a corpse counter on it. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
 
 
 :mtgtip:`Lich's Caress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32bd3acd-aa62-4708-9336-e3430fd0e541.jpg?1562301277|https://scryfall.com/card/m19/105/lichs-caress?utm_source=api>`
@@ -884,7 +884,7 @@
 :mtgtip:`Elvish Clancaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4da3b0bc-84da-4b85-992b-d0700c97157c.jpg?1616182131|https://scryfall.com/card/m19/179/elvish-clancaller?utm_source=api>`
    Other Elves you control get +1/+1.
 
-   |mana_4|\ |mana_g|\ |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.
+   |mana_4|\ |mana_g|\ |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Elvish Rejuvenator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0299b00-b16c-4e7d-b67a-ec160ea81a54.jpg?1562304365|https://scryfall.com/card/m19/180/elvish-rejuvenator?utm_source=api>`
@@ -992,7 +992,7 @@
 
 
 :mtgtip:`Scapeshift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/175e21a3-00f7-4c51-8a8e-fbfd7089efda.jpg?1574767873|https://scryfall.com/card/m19/201/scapeshift?utm_source=api>`
-   Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.
+   Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Talons of Wildwood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9ffa2e83-bc78-4bde-9692-e5165c4ef63b.jpg?1562303419|https://scryfall.com/card/m19/202/talons-of-wildwood?utm_source=api>`
@@ -1094,7 +1094,7 @@
 
    When Nicol Bolas, the Ravager enters the battlefield, each opponent discards a card.
 
-   |mana_4|\ |mana_u|\ |mana_b|\ |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery.
+   |mana_4|\ |mana_u|\ |mana_b|\ |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate only as a sorcery.
 
 
 :mtgtip:`Nicol Bolas, the Arisen<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/b/7b215968-93a6-4278-ac61-4e3e8c3c3943.jpg?1566971561|https://scryfall.com/card/m19/218/nicol-bolas-the-ravager-nicol-bolas-the-arisen?utm_source=api>`
@@ -1262,7 +1262,7 @@
 :mtgtip:`Transmogrifying Wand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b06b670-7238-4732-85fd-ac6abebea57f.jpg?1562300746|https://scryfall.com/card/m19/247/transmogrifying-wand?utm_source=api>`
    Transmogrifying Wand enters the battlefield with three charge counters on it.
 
-   |mana_1|, |tap|, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate this ability only any time you could cast a sorcery.
+   |mana_1|, |tap|, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate only as a sorcery.
 
 
 :mtgtip:`Cinder Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db41b554-2bb1-4f11-be29-233d36cc955a.jpg?1562304773|https://scryfall.com/card/m19/248/cinder-barrens?utm_source=api>`
@@ -1460,7 +1460,7 @@
 
    −3: Sarkhan, Dragonsoul deals 4 damage to target player or planeswalker.
 
-   −9: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle your library.
+   −9: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Kargan Dragonrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34750304-c536-47d4-922d-a3654c37ffbc.jpg?1562301294|https://scryfall.com/card/m19/297/kargan-dragonrider?utm_source=api>`
@@ -1504,13 +1504,13 @@
 
 
 :mtgtip:`Ursine Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e60b6c02-c1f1-4ab9-bd62-ae3b447a898f.jpg?1562304837|https://scryfall.com/card/m19/304/ursine-champion?utm_source=api>`
-   |mana_5|\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate this ability only once each turn.
+   |mana_5|\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Vivien's Jaguar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4b406cf-738b-4e65-ac00-b1c36ded5f96.jpg?1562304415|https://scryfall.com/card/m19/305/viviens-jaguar?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
-   |mana_2|\ |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate this ability only if you control a Vivien planeswalker.
+   |mana_2|\ |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate only if you control a Vivien planeswalker.
 
 
 :mtgtip:`Nexus of Fate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f163cfbf-6df6-4af5-9fe4-23b0d511586a.jpg?1610070136|https://scryfall.com/card/m19/306/nexus-of-fate?utm_source=api>`

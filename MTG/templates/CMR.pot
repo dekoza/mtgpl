@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 13:41+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -297,11 +297,11 @@ msgid "Destroy all enchantments."
 msgstr ""
 
 #: ../../CMR.rst:93
-msgid "Destroy all creatures with converted mana cost 3 or less."
+msgid "Destroy all creatures with mana value 3 or less."
 msgstr ""
 
 #: ../../CMR.rst:95
-msgid "Destroy all creatures with converted mana cost 4 or greater."
+msgid "Destroy all creatures with mana value 4 or greater."
 msgstr ""
 
 #: ../../CMR.rst:106
@@ -464,7 +464,7 @@ msgid "At the beginning of each opponent's end step, if that player controls mor
 msgstr ""
 
 #: ../../CMR.rst:177
-msgid "At the beginning of each opponent's end step, if that player controls more lands than you, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgid "At the beginning of each opponent's end step, if that player controls more lands than you, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:184
@@ -492,7 +492,7 @@ msgid ":mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:193
-msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:202
@@ -528,7 +528,7 @@ msgid ":mtgtip:`Open the Armory<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CMR.rst:213
-msgid "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:218
@@ -536,7 +536,7 @@ msgid ":mtgtip:`Orzhov Advokist<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CMR.rst:217
-msgid "At the beginning of your upkeep, each player may put two +1/+1 counters on a creature they control. If a player does, creatures that player controls can't attack you or a planeswalker you control until your next turn."
+msgid "At the beginning of your upkeep, each player may put two +1/+1 counters on a creature they control. If a player does, creatures that player controls can't attack you or planeswalkers you control until your next turn."
 msgstr ""
 
 #: ../../CMR.rst:222
@@ -600,7 +600,7 @@ msgid ":mtgtip:`Rebbec, Architect of Ascension<https://c1.scryfall.com/file/scry
 msgstr ""
 
 #: ../../CMR.rst:257
-msgid "Artifacts you control have protection from each converted mana cost among artifacts you control."
+msgid "Artifacts you control have protection from each mana value among artifacts you control."
 msgstr ""
 
 #: ../../CMR.rst:264
@@ -717,7 +717,7 @@ msgid ":mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../CMR.rst:319
-msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control."
+msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../CMR.rst:326
@@ -797,7 +797,7 @@ msgid ":mtgtip:`Brinelin, the Moon Kraken<https://c1.scryfall.com/file/scryfall-
 msgstr ""
 
 #: ../../CMR.rst:361
-msgid "When Brinelin, the Moon Kraken enters the battlefield or whenever you cast a spell with converted mana cost 6 or greater, you may return target nonland permanent to its owner's hand."
+msgid "When Brinelin, the Moon Kraken enters the battlefield or whenever you cast a spell with mana value 6 or greater, you may return target nonland permanent to its owner's hand."
 msgstr ""
 
 #: ../../CMR.rst:368
@@ -957,7 +957,7 @@ msgid ":mtgtip:`Interpret the Signs<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../CMR.rst:455
-msgid "Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid "Scry 3, then reveal the top card of your library. Draw cards equal to that card's mana value. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 
 #: ../../CMR.rst:460
@@ -1001,7 +1001,7 @@ msgid ":mtgtip:`Mana Drain<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../CMR.rst:483
-msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's converted mana cost."
+msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's mana value."
 msgstr ""
 
 #: ../../CMR.rst:488
@@ -1241,7 +1241,7 @@ msgid ":mtgtip:`Vow of Flight<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CMR.rst:617
-msgid "Enchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control."
+msgid "Enchanted creature gets +2/+2, has flying, and can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../CMR.rst:624
@@ -1345,7 +1345,7 @@ msgid ":mtgtip:`Defiant Salvager<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:677
-msgid "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery."
+msgid "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate only as a sorcery."
 msgstr ""
 
 #: ../../CMR.rst:684
@@ -1550,7 +1550,7 @@ msgid ":mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:787
-msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+msgid "When Noxious Dragon dies, you may destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../CMR.rst:792
@@ -1722,7 +1722,7 @@ msgid ":mtgtip:`Vampiric Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:889
-msgid "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
+msgid "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
 msgstr ""
 
 #: ../../CMR.rst:894
@@ -1746,7 +1746,7 @@ msgid ":mtgtip:`Vow of Torment<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:903
-msgid "Enchanted creature gets +2/+2, has menace, and can't attack you or a planeswalker you control. (It can't be blocked except by two or more creatures.)"
+msgid "Enchanted creature gets +2/+2, has menace, and can't attack you or planeswalkers you control. (It can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../CMR.rst:912
@@ -1944,7 +1944,7 @@ msgid ":mtgtip:`Flamekin Herald<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CMR.rst:1025
-msgid "Commander spells you cast have cascade. (Whenever you cast a commander, exile cards from the top of your library until you exile a nonland card with lesser converted mana cost. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+msgid "Commander spells you cast have cascade. (Whenever you cast a commander, exile cards from the top of your library until you exile a nonland card with lesser mana value. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
 msgstr ""
 
 #: ../../CMR.rst:1032
@@ -1980,7 +1980,7 @@ msgid ":mtgtip:`Humble Defector<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CMR.rst:1049
-msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn."
+msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate only during your turn."
 msgstr ""
 
 #: ../../CMR.rst:1056
@@ -2145,7 +2145,7 @@ msgid ":mtgtip:`Soulfire Eruption<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CMR.rst:1147
-msgid "Choose any number of target creatures, planeswalkers, and/or players. For each of them, exile the top card of your library, then Soulfire Eruption deals damage equal to that card's converted mana cost to that permanent or player. You may play the exiled cards until the end of your next turn."
+msgid "Choose any number of target creatures, planeswalkers, and/or players. For each of them, exile the top card of your library, then Soulfire Eruption deals damage equal to that card's mana value to that permanent or player. You may play the exiled cards until the end of your next turn."
 msgstr ""
 
 #: ../../CMR.rst:1154
@@ -2214,7 +2214,7 @@ msgid ":mtgtip:`Vow of Lightning<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:1191
-msgid "Enchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control."
+msgid "Enchanted creature gets +2/+2, has first strike, and can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../CMR.rst:1196
@@ -2360,7 +2360,7 @@ msgid ":mtgtip:`Farhaven Elf<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../CMR.rst:1273
-msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1280
@@ -2372,7 +2372,7 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
 #: ../../CMR.rst:1279
-msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
 msgstr ""
 
 #: ../../CMR.rst:1286
@@ -2418,7 +2418,7 @@ msgid ":mtgtip:`Gilanra, Caller of Wirewood<https://c1.scryfall.com/file/scryfal
 msgstr ""
 
 #: ../../CMR.rst:1301
-msgid "|tap|: Add |mana_g|. When you spend this mana to cast a spell with converted mana cost 6 or greater, draw a card."
+msgid "|tap|: Add |mana_g|. When you spend this mana to cast a spell with mana value 6 or greater, draw a card."
 msgstr ""
 
 #: ../../CMR.rst:1312
@@ -2506,7 +2506,7 @@ msgid ":mtgtip:`Kodama of the East Tree<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../CMR.rst:1359
-msgid "Whenever another permanent enters the battlefield under your control, if it wasn't put onto the battlefield with this ability, you may put a permanent card with equal or lesser converted mana cost from your hand onto the battlefield."
+msgid "Whenever another permanent enters the battlefield under your control, if it wasn't put onto the battlefield with this ability, you may put a permanent card with equal or lesser mana value from your hand onto the battlefield."
 msgstr ""
 
 #: ../../CMR.rst:1366
@@ -2530,7 +2530,7 @@ msgid ":mtgtip:`Magus of the Order<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../CMR.rst:1375
-msgid "|mana_g|, |tap|, Sacrifice Magus of the Order and another green creature: Search your library for a green creature card, put it onto the battlefield, then shuffle your library."
+msgid "|mana_g|, |tap|, Sacrifice Magus of the Order and another green creature: Search your library for a green creature card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1382
@@ -2575,7 +2575,7 @@ msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if i
 msgstr ""
 
 #: ../../CMR.rst:1405
-msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1410
@@ -2591,7 +2591,7 @@ msgid ":mtgtip:`Reshape the Earth<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CMR.rst:1413
-msgid "Search your library for up to ten land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for up to ten land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1418
@@ -2599,7 +2599,7 @@ msgid ":mtgtip:`Rootweaver Druid<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:1417
-msgid "When Rootweaver Druid enters the battlefield, each opponent may search their library for up to three basic land cards. They each put one of those cards onto the battlefield tapped under your control and the rest onto the battlefield tapped under their control. Then each player who searched their library this way shuffles it."
+msgid "When Rootweaver Druid enters the battlefield, each opponent may search their library for up to three basic land cards. They each put one of those cards onto the battlefield tapped under your control and the rest onto the battlefield tapped under their control. Then each player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../CMR.rst:1422
@@ -2636,7 +2636,7 @@ msgid ":mtgtip:`Sifter Wurm<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../CMR.rst:1437
-msgid "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's converted mana cost."
+msgid "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's mana value."
 msgstr ""
 
 #: ../../CMR.rst:1444
@@ -2700,7 +2700,7 @@ msgid ":mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../CMR.rst:1479
-msgid "Search your library for a Forest card, put that card onto the battlefield, then shuffle your library."
+msgid "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1486
@@ -2708,7 +2708,7 @@ msgid ":mtgtip:`Vow of Wildness<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CMR.rst:1485
-msgid "Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control."
+msgid "Enchanted creature gets +3/+3, has trample, and can't attack you or planeswalkers you control."
 msgstr ""
 
 #: ../../CMR.rst:1490
@@ -2788,7 +2788,7 @@ msgid ":mtgtip:`Bell Borca, Spectral Sergeant<https://c1.scryfall.com/file/scryf
 msgstr ""
 
 #: ../../CMR.rst:1529
-msgid "Note the converted mana cost of each card as it's put into exile."
+msgid "Note the mana value of each card as it's put into exile."
 msgstr ""
 
 #: ../../CMR.rst:1531
@@ -2888,7 +2888,7 @@ msgid ":mtgtip:`Imoti, Celebrant of Bounty<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../CMR.rst:1585
-msgid "Spells you cast with converted mana cost 6 or greater have cascade."
+msgid "Spells you cast with mana value 6 or greater have cascade."
 msgstr ""
 
 #: ../../CMR.rst:1592
@@ -3081,7 +3081,7 @@ msgid ":mtgtip:`Armillary Sphere<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:1689
-msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1696
@@ -3127,7 +3127,7 @@ msgid ":mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:1713
-msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1720
@@ -3423,7 +3423,7 @@ msgid ":mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../CMR.rst:1881
-msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1890
@@ -3701,7 +3701,7 @@ msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../CMR.rst:2029
-msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2036
@@ -3817,7 +3817,7 @@ msgid ":mtgtip:`Elder Deep-Fiend<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:2097
-msgid "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)"
+msgid "Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
 
 #: ../../CMR.rst:2099
@@ -3933,7 +3933,7 @@ msgid ":mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../CMR.rst:2163
-msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library."
+msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2170
@@ -3945,7 +3945,7 @@ msgid "Renown 1 (When this creature deals combat damage to a player, if it isn't
 msgstr ""
 
 #: ../../CMR.rst:2169
-msgid "When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2176
@@ -3977,7 +3977,7 @@ msgid "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
 msgstr ""
 
 #: ../../CMR.rst:2190
-msgid ":mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1608912010|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`"
+msgid ":mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1618695835|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`"
 msgstr ""
 
 #: ../../CMR.rst:2189
@@ -4057,7 +4057,7 @@ msgid "Target player draws three cards. Then that player discards two cards unle
 msgstr ""
 
 #: ../../CMR.rst:2234
-msgid ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce30f926-bc06-46ee-9f35-0cdf09a67043.jpg?1608912086|https://scryfall.com/card/cmr/395/counterspell?utm_source=api>`"
+msgid ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce30f926-bc06-46ee-9f35-0cdf09a67043.jpg?1618695699|https://scryfall.com/card/cmr/395/counterspell?utm_source=api>`"
 msgstr ""
 
 #: ../../CMR.rst:2238
@@ -4279,7 +4279,8 @@ msgid ":mtgtip:`Temur Battle Rage<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CMR.rst:2361
-msgid "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
+#: ../../CMR.rst:2491
+msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../CMR.rst:2363
@@ -4352,7 +4353,7 @@ msgstr ""
 
 #: ../../CMR.rst:2399
 #: ../../CMR.rst:2423
-msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2404
@@ -4388,7 +4389,7 @@ msgid "Landfall — Whenever a land enters the battlefield under your control, y
 msgstr ""
 
 #: ../../CMR.rst:2419
-msgid "Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2424
@@ -4420,7 +4421,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:2439
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2444
@@ -4452,7 +4453,7 @@ msgid ":mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../CMR.rst:2455
-msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2457
@@ -4500,7 +4501,7 @@ msgid ":mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:2479
-msgid "When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2481
@@ -4517,10 +4518,6 @@ msgstr ""
 
 #: ../../CMR.rst:2489
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
-
-#: ../../CMR.rst:2491
-msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../CMR.rst:2496
@@ -4830,7 +4827,7 @@ msgid "Equipped creature gets +4/+0."
 msgstr ""
 
 #: ../../CMR.rst:2663
-msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
+msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2672
@@ -4854,7 +4851,7 @@ msgid ":mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CMR.rst:2683
-msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2692
@@ -4910,7 +4907,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../CMR.rst:2715
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2724
@@ -4974,7 +4971,7 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr ""
 
 #: ../../CMR.rst:2755
-msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2762
@@ -5158,7 +5155,7 @@ msgid "Whenever a Warrior attacks, you may have its controller create a 1/1 whit
 msgstr ""
 
 #: ../../CMR.rst:2875
-msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate this ability only during combat."
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate only during combat."
 msgstr ""
 
 #: ../../CMR.rst:2884
@@ -5243,7 +5240,7 @@ msgid "As long as your devotion to green and white is less than seven, Karametra
 msgstr ""
 
 #: ../../CMR.rst:2933
-msgid "Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:2942
@@ -5439,7 +5436,7 @@ msgid ":mtgtip:`Vial Smasher the Fierce<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../CMR.rst:3065
-msgid "Whenever you cast your first spell each turn, choose an opponent at random. Vial Smasher the Fierce deals damage equal to that spell's converted mana cost to that player or a planeswalker that player controls."
+msgid "Whenever you cast your first spell each turn, choose an opponent at random. Vial Smasher the Fierce deals damage equal to that spell's mana value to that player or a planeswalker that player controls."
 msgstr ""
 
 #: ../../CMR.rst:3076
@@ -5463,7 +5460,7 @@ msgid "Commander ninjutsu |mana_u|\\ |mana_b| (|mana_u|\\ |mana_b|, Return an un
 msgstr ""
 
 #: ../../CMR.rst:3081
-msgid "Whenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's converted mana cost."
+msgid "Whenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value."
 msgstr ""
 
 #: ../../CMR.rst:3088
@@ -5483,7 +5480,7 @@ msgid ":mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../CMR.rst:3093
-msgid "Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library."
+msgid "Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:3102
@@ -5495,7 +5492,7 @@ msgid "Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine fo
 msgstr ""
 
 #: ../../CMR.rst:3101
-msgid "Remove five +1/+1 counters from Ramos: Add |mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. Activate this ability only once each turn."
+msgid "Remove five +1/+1 counters from Ramos: Add |mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. Activate only once each turn."
 msgstr ""
 
 #: ../../CMR.rst:3105

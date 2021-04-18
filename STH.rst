@@ -190,7 +190,7 @@
 :mtgtip:`Mask of the Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09891c87-eb74-4174-ad46-11a7f79de859.jpg?1562595907|https://scryfall.com/card/sth/37/mask-of-the-mimic?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Search your library for a card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a card with the same name as target nontoken creature, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Mind Games<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4da50979-1f5d-48d1-9406-dfc785273c04.jpg?1562596405|https://scryfall.com/card/sth/38/mind-games?utm_source=api>`
@@ -330,7 +330,7 @@
 :mtgtip:`Mindwarper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebe796e1-97f9-469a-a6b6-a09161058e12.jpg?1562597839|https://scryfall.com/card/sth/64/mindwarper?utm_source=api>`
    Mindwarper enters the battlefield with three +1/+1 counters on it.
 
-   |mana_2|\ |mana_b|, Remove a +1/+1 counter from Mindwarper: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, Remove a +1/+1 counter from Mindwarper: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Morgue Thrull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/270a26ce-3435-4fef-bc34-abbc6f1cf3f4.jpg?1562595935|https://scryfall.com/card/sth/65/morgue-thrull?utm_source=api>`
@@ -492,7 +492,7 @@
 
    Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
 
-   |mana_r|\ |mana_r|\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_r|\ |mana_r|\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
 
 
 :mtgtip:`Shock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9b2ff2a-6dfe-4635-8da2-22d525e82b94.jpg?1562597849|https://scryfall.com/card/sth/98/shock?utm_source=api>`
@@ -632,7 +632,7 @@
 
 
 :mtgtip:`Volrath's Gardens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d74f7d8-10eb-4082-9b07-41de13359b8c.jpg?1562596868|https://scryfall.com/card/sth/124/volraths-gardens?utm_source=api>`
-   |mana_2|, Tap an untapped creature you control: You gain 2 life. Activate this ability only any time you could cast a sorcery.
+   |mana_2|, Tap an untapped creature you control: You gain 2 life. Activate only as a sorcery.
 
 
 :mtgtip:`Wall of Blossoms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f.jpg?1562596872|https://scryfall.com/card/sth/125/wall-of-blossoms?utm_source=api>`

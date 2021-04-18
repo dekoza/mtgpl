@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -151,7 +151,7 @@ msgid ":mtgtip:`Idyllic Tutor<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../MOR.rst:61
-msgid "Search your library for an enchantment card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for an enchantment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../MOR.rst:64
@@ -236,7 +236,7 @@ msgid ":mtgtip:`Redeem the Lost<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MOR.rst:105
-msgid "Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:114
@@ -268,7 +268,7 @@ msgid ":mtgtip:`Stonehewer Giant<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../MOR.rst:127
-msgid "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library."
+msgid "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
 
 #: ../../MOR.rst:132
@@ -423,7 +423,7 @@ msgid "Prowl |mana_3|\\ |mana_u| (You may cast this for its prowl cost if you de
 msgstr ""
 
 #: ../../MOR.rst:213
-msgid "Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles their library."
+msgid "Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles."
 msgstr ""
 
 #: ../../MOR.rst:222
@@ -500,7 +500,7 @@ msgid ":mtgtip:`Research the Deep<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MOR.rst:257
-msgid "Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:264
@@ -637,7 +637,7 @@ msgid "Prowl |mana_2|\\ |mana_b| (You may cast this for its prowl cost if you de
 msgstr ""
 
 #: ../../MOR.rst:333
-msgid "When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles their library."
+msgid "When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../MOR.rst:338
@@ -689,7 +689,7 @@ msgid "Players can't draw cards."
 msgstr ""
 
 #: ../../MOR.rst:361
-msgid "At the beginning of each player's draw step, that player loses 3 life, searches their library for a card, puts it into their hand, then shuffles their library."
+msgid "At the beginning of each player's draw step, that player loses 3 life, searches their library for a card, puts it into their hand, then shuffles."
 msgstr ""
 
 #: ../../MOR.rst:366
@@ -782,7 +782,7 @@ msgid ":mtgtip:`Pulling Teeth<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../MOR.rst:417
-msgid "Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:422
@@ -790,7 +790,7 @@ msgid ":mtgtip:`Revive the Fallen<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MOR.rst:421
-msgid "Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:426
@@ -869,7 +869,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../MOR.rst:463
-msgid "When Boldwyr Heavyweights enters the battlefield, each opponent may search their library for a creature card and put it onto the battlefield. Then each player who searched their library this way shuffles it."
+msgid "When Boldwyr Heavyweights enters the battlefield, each opponent may search their library for a creature card and put it onto the battlefield. Then each player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../MOR.rst:472
@@ -925,7 +925,7 @@ msgid ":mtgtip:`Fire Juggler<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../MOR.rst:493
-msgid "Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:500
@@ -1001,7 +1001,7 @@ msgid ":mtgtip:`Release the Ants<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../MOR.rst:531
-msgid "Release the Ants deals 1 damage to any target. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Release the Ants deals 1 damage to any target. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:536
@@ -1109,7 +1109,7 @@ msgid ":mtgtip:`Titan's Revenge<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MOR.rst:587
-msgid "Titan's Revenge deals X damage to any target. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Titan's Revenge deals X damage to any target. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:594
@@ -1209,7 +1209,7 @@ msgid ":mtgtip:`Everbark Shaman<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MOR.rst:643
-msgid "|tap|, Exile a Treefolk card from your graveyard: Search your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library."
+msgid "|tap|, Exile a Treefolk card from your graveyard: Search your library for up to two Forest cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MOR.rst:650
@@ -1221,7 +1221,7 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
 #: ../../MOR.rst:649
-msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
 msgstr ""
 
 #: ../../MOR.rst:656
@@ -1325,7 +1325,7 @@ msgid ":mtgtip:`Recross the Paths<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MOR.rst:705
-msgid "Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher converted mana cost.)"
+msgid "Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
 msgstr ""
 
 #: ../../MOR.rst:714
@@ -1357,7 +1357,7 @@ msgid ":mtgtip:`Scapeshift<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../MOR.rst:723
-msgid "Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MOR.rst:732

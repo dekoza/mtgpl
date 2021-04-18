@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,7 +217,7 @@ msgid ":mtgtip:`Gift of Estates<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../9ED.rst:109
-msgid "If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library."
+msgid "If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../9ED.rst:114
@@ -537,7 +537,7 @@ msgid ":mtgtip:`Weathered Wayfarer<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../9ED.rst:275
-msgid "|mana_w|, |tap|: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you."
+msgid "|mana_w|, |tap|: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
 msgstr ""
 
 #: ../../9ED.rst:280
@@ -1092,7 +1092,7 @@ msgid ":mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../9ED.rst:589
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../9ED.rst:594
@@ -1190,7 +1190,7 @@ msgid ":mtgtip:`Hell's Caretaker<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../9ED.rst:645
-msgid "|tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep."
+msgid "|tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../9ED.rst:650
@@ -1827,7 +1827,7 @@ msgid "Sacrifice Shard Phoenix: It deals 2 damage to each creature without flyin
 msgstr ""
 
 #: ../../9ED.rst:1007
-msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep."
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../9ED.rst:1012
@@ -2181,7 +2181,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../9ED.rst:1203
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../9ED.rst:1208
@@ -2217,7 +2217,7 @@ msgid ":mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../9ED.rst:1225
-msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../9ED.rst:1228
@@ -2321,7 +2321,7 @@ msgid ":mtgtip:`Weird Harvest<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../9ED.rst:1287
-msgid "Each player may search their library for up to X creature cards, reveal those cards, and put them into their hand. Then each player who searched their library this way shuffles it."
+msgid "Each player may search their library for up to X creature cards, reveal those cards, put them into their hand, then shuffle."
 msgstr ""
 
 #: ../../9ED.rst:1292
@@ -2329,7 +2329,7 @@ msgid ":mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../9ED.rst:1291
-msgid "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
+msgid "When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../9ED.rst:1296
@@ -2429,7 +2429,7 @@ msgid ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../9ED.rst:1343
-msgid "|mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_3|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../9ED.rst:1348
@@ -2469,7 +2469,7 @@ msgid ":mtgtip:`Jade Statue<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../9ED.rst:1363
-msgid "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat."
+msgid "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat."
 msgstr ""
 
 #: ../../9ED.rst:1368
@@ -2477,7 +2477,7 @@ msgid ":mtgtip:`Jester's Cap<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../9ED.rst:1367
-msgid "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles their library."
+msgid "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../9ED.rst:1372

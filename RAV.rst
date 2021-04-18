@@ -6,7 +6,7 @@
 
 
 :mtgtip:`Auratouched Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/942d6414-11e1-4822-9c5d-e4f96846a85f.jpg?1598913405|https://scryfall.com/card/rav/1/auratouched-mage?utm_source=api>`
-   When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.
+   When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle.
 
 
 :mtgtip:`Bathe in Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7bd976e-56c7-482e-8d2f-073b0b589274.jpg?1598913422|https://scryfall.com/card/rav/2/bathe-in-light?utm_source=api>`
@@ -164,7 +164,7 @@
 
 
 :mtgtip:`Three Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fb144b8-f2ee-4d35-814d-ceb728b2ab75.jpg?1598913939|https://scryfall.com/card/rav/32/three-dreams?utm_source=api>`
-   Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library.
+   Search your library for up to three Aura cards with different names, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Twilight Drover<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc33bb6-d71c-45f9-9030-bdef3d40a08a.jpg?1598913953|https://scryfall.com/card/rav/33/twilight-drover?utm_source=api>`
@@ -216,7 +216,7 @@
 :mtgtip:`Dizzy Spell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e0db10d-fb6d-44df-9ff2-6f1e0e8f8209.jpg?1598914105|https://scryfall.com/card/rav/43/dizzy-spell?utm_source=api>`
    Target creature gets -3/-0 until end of turn.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Drake Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4583623-e367-48cc-8e86-e6c5e35f1a9c.jpg?1598914120|https://scryfall.com/card/rav/44/drake-familiar?utm_source=api>`
@@ -238,13 +238,13 @@
 
    Flying
 
-   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Ethereal Usher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/908901b7-fb40-4358-bca5-5e71bdafcbe7.jpg?1598914166|https://scryfall.com/card/rav/47/ethereal-usher?utm_source=api>`
    |mana_u|, |tap|: Target creature can't be blocked this turn.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Eye of the Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49967eb9-5020-4f0a-8775-5114f6d96d75.jpg?1598914184|https://scryfall.com/card/rav/48/eye-of-the-storm?utm_source=api>`
@@ -276,11 +276,11 @@
 :mtgtip:`Grozoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96d81c13-93de-4cf6-bb15-d387ed259c50.jpg?1598914261|https://scryfall.com/card/rav/53/grozoth?utm_source=api>`
    Defender (This creature can't attack.)
 
-   When Grozoth enters the battlefield, you may search your library for any number of cards that have converted mana cost 9, reveal them, and put them into your hand. If you do, shuffle your library.
+   When Grozoth enters the battlefield, you may search your library for any number of cards that have mana value 9, reveal them, put them into your hand, then shuffle.
 
    |mana_4|: Grozoth loses defender until end of turn.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Halcyon Glaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fafd3018-1cfe-4c41-a08c-5c2ba3528c7e.jpg?1598914276|https://scryfall.com/card/rav/54/halcyon-glaze?utm_source=api>`
@@ -294,7 +294,7 @@
 
 
 :mtgtip:`Induce Paranoia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc462b75-8b08-47a3-be22-d7b5c062ec5b.jpg?1598914307|https://scryfall.com/card/rav/56/induce-paranoia?utm_source=api>`
-   Counter target spell. If |mana_b| was spent to cast this spell, that spell's controller mills X cards, where X is the spell's converted mana cost.
+   Counter target spell. If |mana_b| was spent to cast this spell, that spell's controller mills X cards, where X is the spell's mana value.
 
 
 :mtgtip:`Lore Broker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7935b2b-aebe-44b3-b91b-52978bb4ded5.jpg?1599056209|https://scryfall.com/card/rav/57/lore-broker?utm_source=api>`
@@ -314,7 +314,7 @@
 :mtgtip:`Muddle the Mixture<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cc785b0-0a77-4b02-b0b4-2bda2fc621cc.jpg?1598914378|https://scryfall.com/card/rav/60/muddle-the-mixture?utm_source=api>`
    Counter target instant or sorcery spell.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Peel from Reality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4e6ca71-ba17-4a16-a331-b787363874e2.jpg?1598914398|https://scryfall.com/card/rav/61/peel-from-reality?utm_source=api>`
@@ -378,7 +378,7 @@
 
 
 :mtgtip:`Tunnel Vision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae3eba31-02eb-449a-8a36-899ada5664bc.jpg?1598914579|https://scryfall.com/card/rav/72/tunnel-vision?utm_source=api>`
-   Choose a card name. Target player reveals cards from the top of their library until a card with that name is revealed. If it is, that player puts the rest of the revealed cards into their graveyard and puts the card with the chosen name on top of their library. Otherwise, the player shuffles their library.
+   Choose a card name. Target player reveals cards from the top of their library until a card with that name is revealed. If it is, that player puts the rest of the revealed cards into their graveyard and puts the card with the chosen name on top of their library. Otherwise, the player shuffles.
 
 
 :mtgtip:`Vedalken Dismisser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0656f4eb-40c5-4a21-b994-4ab07bc63981.jpg?1598914600|https://scryfall.com/card/rav/73/vedalken-dismisser?utm_source=api>`
@@ -408,7 +408,7 @@
 :mtgtip:`Brainspoil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c34fa44f-274e-4914-bbd5-71193f8d2f96.jpg?1598914670|https://scryfall.com/card/rav/78/brainspoil?utm_source=api>`
    Destroy target creature that isn't enchanted. It can't be regenerated.
 
-   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Carrion Howler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0ff031f4-df27-40de-8615-f3ea225f9830.jpg?1598914686|https://scryfall.com/card/rav/79/carrion-howler?utm_source=api>`
@@ -422,7 +422,7 @@
 
 
 :mtgtip:`Dark Confidant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9.jpg?1598914714|https://scryfall.com/card/rav/81/dark-confidant?utm_source=api>`
-   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
 
 
 :mtgtip:`Darkblast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dcaba91-06d3-4492-9e07-36a1b858ca47.jpg?1598914737|https://scryfall.com/card/rav/82/darkblast?utm_source=api>`
@@ -436,17 +436,17 @@
 
    Sacrifice a creature: Regenerate Dimir House Guard.
 
-   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Dimir Machinations<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14bfd72a-78c1-4167-89bf-ea1fccccd5b1.jpg?1598914791|https://scryfall.com/card/rav/84/dimir-machinations?utm_source=api>`
    Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.
 
-   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Disembowel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1edb79d-0031-4dc6-8881-f6d1fe4acba2.jpg?1598914806|https://scryfall.com/card/rav/85/disembowel?utm_source=api>`
-   Destroy target creature with converted mana cost X.
+   Destroy target creature with mana value X.
 
 
 :mtgtip:`Empty the Catacombs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e41cbd0b-9f54-4e8f-9a4b-fed8e435a2e0.jpg?1598914820|https://scryfall.com/card/rav/86/empty-the-catacombs?utm_source=api>`
@@ -508,7 +508,7 @@
 :mtgtip:`Necroplasm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/372424cf-85b3-4a78-bcf2-0543b0b88c0b.jpg?1598915042|https://scryfall.com/card/rav/98/necroplasm?utm_source=api>`
    At the beginning of your upkeep, put a +1/+1 counter on Necroplasm.
 
-   At the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm.
+   At the beginning of your end step, destroy each creature with mana value equal to the number of +1/+1 counters on Necroplasm.
 
    Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)
 
@@ -516,7 +516,7 @@
 :mtgtip:`Netherborn Phalanx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b665e905-cb06-48b7-9f50-5916277e237d.jpg?1598915069|https://scryfall.com/card/rav/99/netherborn-phalanx?utm_source=api>`
    When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control.
 
-   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Nightmare Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/892299e9-8ee9-4a81-b4aa-b03ad2565eb4.jpg?1598915083|https://scryfall.com/card/rav/100/nightmare-void?utm_source=api>`
@@ -546,7 +546,7 @@
 :mtgtip:`Shred Memory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e38192e5-814f-4269-bae8-13867a73e7fa.jpg?1598915176|https://scryfall.com/card/rav/105/shred-memory?utm_source=api>`
    Exile up to four target cards from a single graveyard.
 
-   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Sins of the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c518792-a50f-40b1-b6fb-674432093b6a.jpg?1598915195|https://scryfall.com/card/rav/106/sins-of-the-past?utm_source=api>`
@@ -794,11 +794,11 @@
 :mtgtip:`Chord of Calling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e064174b-8f07-4fea-9eef-c3b5d0220b1a.jpg?1598916101|https://scryfall.com/card/rav/156/chord-of-calling?utm_source=api>`
    Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)
 
-   Search your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Civic Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/654eacc9-5f80-44ea-8d7b-71cd8227fa38.jpg?1598916112|https://scryfall.com/card/rav/157/civic-wayfinder?utm_source=api>`
-   When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Doubling Season<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7e71299-98f6-494e-b187-8d22ce5f50af.jpg?1598916131|https://scryfall.com/card/rav/158/doubling-season?utm_source=api>`
@@ -824,7 +824,7 @@
 
 
 :mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8180abec-9459-4b81-987e-b1794e45d543.jpg?1598916228|https://scryfall.com/card/rav/163/farseek?utm_source=api>`
-   Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+   Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Fists of Ironwood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7193c00f-0398-485c-974d-346ee59cd4c7.jpg?1598916242|https://scryfall.com/card/rav/164/fists-of-ironwood?utm_source=api>`
@@ -898,7 +898,7 @@
 
 
 :mtgtip:`Perilous Forays<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4210a148-d16c-42de-b0d6-83c05c553dd4.jpg?1598916443|https://scryfall.com/card/rav/176/perilous-forays?utm_source=api>`
-   |mana_1|, Sacrifice a creature: Search your library for a land card with a basic land type and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, Sacrifice a creature: Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Primordial Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e11e6d8-d375-4278-8cb0-94deeecaeeca.jpg?1598916460|https://scryfall.com/card/rav/177/primordial-sage?utm_source=api>`
@@ -1004,11 +1004,11 @@
 :mtgtip:`Clutch of the Undercity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24437641-85a1-4fcd-93dc-bd19a7abf969.jpg?1598916837|https://scryfall.com/card/rav/197/clutch-of-the-undercity?utm_source=api>`
    Return target permanent to its owner's hand. Its controller loses 3 life.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Congregation at Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f1b950a-b2fe-4afc-bb79-c9f4c272ea36.jpg?1598916857|https://scryfall.com/card/rav/198/congregation-at-dawn?utm_source=api>`
-   Search your library for up to three creature cards and reveal them. Shuffle your library, then put those cards on top of it in any order.
+   Search your library for up to three creature cards, reveal them, then shuffle and put those cards on top in any order.
 
 
 :mtgtip:`Consult the Necrosages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f51484b-3bad-4332-87f8-61924e153799.jpg?1598916875|https://scryfall.com/card/rav/199/consult-the-necrosages?utm_source=api>`
@@ -1034,7 +1034,7 @@
 :mtgtip:`Dimir Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3db9204c-dde8-4241-aac2-1f090566f604.jpg?1598916970|https://scryfall.com/card/rav/203/dimir-infiltrator?utm_source=api>`
    Dimir Infiltrator can't be blocked.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Drooling Groodion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de33c222-0d74-4eb5-8794-39f3601eb8f4.jpg?1598916987|https://scryfall.com/card/rav/204/drooling-groodion?utm_source=api>`
@@ -1046,7 +1046,7 @@
 
    At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.
 
-   |mana_6|\ |mana_r|\ |mana_r|\ |mana_w|\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+   |mana_6|\ |mana_r|\ |mana_r|\ |mana_w|\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate only during your upkeep.
 
 
 :mtgtip:`Flame-Kin Zealot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.jpg?1598917019|https://scryfall.com/card/rav/206/flame-kin-zealot?utm_source=api>`
@@ -1106,7 +1106,7 @@
 :mtgtip:`Perplex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0db57459-29f0-4ef6-b256-56955036c0ef.jpg?1598917204|https://scryfall.com/card/rav/217/perplex?utm_source=api>`
    Counter target spell unless its controller discards their hand.
 
-   Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)
+   Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
 :mtgtip:`Phytohydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86c336d2-cc14-4b74-a6f9-aab7a084d0de.jpg?1598917218|https://scryfall.com/card/rav/218/phytohydra?utm_source=api>`
@@ -1256,9 +1256,9 @@
 :mtgtip:`Dimir Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69b822aa-4144-400a-b993-f146cbeed54f.jpg?1598917730|https://scryfall.com/card/rav/245/dimir-guildmage?utm_source=api>`
    (|mana_ub| can be paid with either |mana_u| or |mana_b|.)
 
-   |mana_3|\ |mana_u|: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|: Target player draws a card. Activate only as a sorcery.
 
-   |mana_3|\ |mana_b|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Gaze of the Gorgon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16c9e772-5213-4c28-9b6c-1cfa6675ee8f.jpg?1598917749|https://scryfall.com/card/rav/246/gaze-of-the-gorgon?utm_source=api>`
@@ -1416,7 +1416,7 @@
 :mtgtip:`Sunforger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8d5e027-aa74-444b-a945-1bafa9bdec4c.jpg?1598918221|https://scryfall.com/card/rav/272/sunforger?utm_source=api>`
    Equipped creature gets +4/+0.
 
-   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.
+   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.
 
    Equip |mana_3|
 

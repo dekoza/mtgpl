@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -366,7 +366,7 @@ msgid ":mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../4ED.rst:175
-msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../4ED.rst:180
@@ -617,7 +617,7 @@ msgid "Enchant artifact"
 msgstr ""
 
 #: ../../4ED.rst:299
-msgid "As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost."
+msgid "As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../4ED.rst:304
@@ -693,7 +693,7 @@ msgid ":mtgtip:`Energy Tap<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../4ED.rst:345
-msgid "Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's converted mana cost."
+msgid "Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's mana value."
 msgstr ""
 
 #: ../../4ED.rst:352
@@ -1035,7 +1035,7 @@ msgid ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../4ED.rst:529
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+msgid "Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../4ED.rst:536
@@ -1491,7 +1491,7 @@ msgid ":mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../4ED.rst:789
-msgid "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn."
+msgid "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn."
 msgstr ""
 
 #: ../../4ED.rst:794
@@ -1587,7 +1587,7 @@ msgid ":mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../4ED.rst:847
-msgid "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../4ED.rst:854
@@ -1635,7 +1635,7 @@ msgid ":mtgtip:`Xenic Poltergeist<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../4ED.rst:879
-msgid "|tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost."
+msgid "|tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../4ED.rst:886
@@ -1737,7 +1737,7 @@ msgid ":mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../4ED.rst:935
-msgid "Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller."
+msgid "Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller."
 msgstr ""
 
 #: ../../4ED.rst:940
@@ -2169,7 +2169,7 @@ msgid ":mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../4ED.rst:1195
-msgid "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost."
+msgid "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value."
 msgstr ""
 
 #: ../../4ED.rst:1200
@@ -2269,7 +2269,7 @@ msgid "Enchanted creature can attack as though it had haste."
 msgstr ""
 
 #: ../../4ED.rst:1255
-msgid "|mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn."
+msgid "|mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn."
 msgstr ""
 
 #: ../../4ED.rst:1258
@@ -2449,7 +2449,7 @@ msgid ":mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../4ED.rst:1363
-msgid "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn."
+msgid "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn."
 msgstr ""
 
 #: ../../4ED.rst:1368
@@ -2473,7 +2473,7 @@ msgid ":mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../4ED.rst:1375
-msgid "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../4ED.rst:1382
@@ -2729,7 +2729,7 @@ msgid "At end of combat, if Clockwork Avian attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../4ED.rst:1521
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep."
 msgstr ""
 
 #: ../../4ED.rst:1530
@@ -2745,7 +2745,7 @@ msgid "At end of combat, if Clockwork Beast attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../4ED.rst:1529
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep."
 msgstr ""
 
 #: ../../4ED.rst:1538
@@ -2757,7 +2757,7 @@ msgid "Colossus of Sardia doesn't untap during your untap step."
 msgstr ""
 
 #: ../../4ED.rst:1537
-msgid "|mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep."
+msgid "|mana_9|: Untap Colossus of Sardia. Activate only during your upkeep."
 msgstr ""
 
 #: ../../4ED.rst:1542
@@ -2821,7 +2821,7 @@ msgid ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../4ED.rst:1571
-msgid "|mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_3|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../4ED.rst:1576

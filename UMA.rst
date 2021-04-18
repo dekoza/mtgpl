@@ -126,11 +126,11 @@
 :mtgtip:`Gods Willing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d95d57f-daaf-49d2-b26f-2058c065f0fe.jpg?1547515544|https://scryfall.com/card/uma/18/gods-willing?utm_source=api>`
    Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
 
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
 
 :mtgtip:`Heliod's Pilgrim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/753dd235-55d3-4124-9b43-74517534bd87.jpg?1547515562|https://scryfall.com/card/uma/19/heliods-pilgrim?utm_source=api>`
-   When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+   When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Hero of Iroas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcc9a63b-e7cd-404a-8d5c-0c1396e16d0b.jpg?1547515580|https://scryfall.com/card/uma/20/hero-of-iroas?utm_source=api>`
@@ -246,7 +246,7 @@
 
 
 :mtgtip:`Tethmos High Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51baeea2-a922-4e98-8253-f395546c30c8.jpg?1547515983|https://scryfall.com/card/uma/40/tethmos-high-priest?utm_source=api>`
-   Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Wall of Reverence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/1515e039-b838-40b6-b087-eb9e9d9ff008.jpg?1547516009|https://scryfall.com/card/uma/41/wall-of-reverence?utm_source=api>`
@@ -302,13 +302,13 @@
 
 
 :mtgtip:`Disrupting Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b46b20c4-f69b-45ed-8c9e-50847f215e73.jpg?1547516197|https://scryfall.com/card/uma/51/disrupting-shoal?utm_source=api>`
-   You may exile a blue card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a blue card with mana value X from your hand rather than pay this spell's mana cost.
 
-   Counter target spell if its converted mana cost is X.
+   Counter target spell if its mana value is X.
 
 
 :mtgtip:`Dreamscape Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f527bc84-fa66-4763-a035-344e6458e54b.jpg?1547516210|https://scryfall.com/card/uma/52/dreamscape-artist?utm_source=api>`
-   |mana_2|\ |mana_u|, |tap|, Discard a card, Sacrifice a land: Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   |mana_2|\ |mana_u|, |tap|, Discard a card, Sacrifice a land: Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Eel Umbra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cc0fa64-0e2e-4f7a-8516-20c06fc57351.jpg?1547516225|https://scryfall.com/card/uma/53/eel-umbra?utm_source=api>`
@@ -372,7 +372,7 @@
 :mtgtip:`Living Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa314d92-51e5-4c09-963c-761e83dc84bc.jpg?1547516373|https://scryfall.com/card/uma/62/living-lore?utm_source=api>`
    As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.
 
-   Living Lore's power and toughness are each equal to the exiled card's converted mana cost.
+   Living Lore's power and toughness are each equal to the exiled card's mana value.
 
    Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.
 
@@ -478,7 +478,7 @@
 
 
 :mtgtip:`Appetite for Brains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58f20b88-7b48-4d3b-b836-c7aef71cd337.jpg?1547516714|https://scryfall.com/card/uma/83/appetite-for-brains?utm_source=api>`
-   Target opponent reveals their hand. You choose a card from it with converted mana cost 4 or greater and exile that card.
+   Target opponent reveals their hand. You choose a card from it with mana value 4 or greater and exile that card.
 
 
 :mtgtip:`Apprentice Necromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18d86ad3-e0a1-43da-9dc1-a9028b719c99.jpg?1547516732|https://scryfall.com/card/uma/84/apprentice-necromancer?utm_source=api>`
@@ -500,7 +500,7 @@
 
 
 :mtgtip:`Buried Alive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5f51145-aade-4955-b9e7-4a34074253d6.jpg?1547516784|https://scryfall.com/card/uma/88/buried-alive?utm_source=api>`
-   Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.
+   Search your library for up to three creature cards, put them into your graveyard, then shuffle.
 
 
 :mtgtip:`Chainer's Edict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a36a583a-d4be-4589-a43c-a2854de062c6.jpg?1547516797|https://scryfall.com/card/uma/89/chainers-edict?utm_source=api>`
@@ -525,12 +525,12 @@
    Return X target creature cards from your graveyard to your hand.
 
 
-:mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1547516843|https://scryfall.com/card/uma/93/demonic-tutor?utm_source=api>`
-   Search your library for a card, put that card into your hand, then shuffle your library.
+:mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1618695728|https://scryfall.com/card/uma/93/demonic-tutor?utm_source=api>`
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Entomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d66f864b-b1bb-4596-93b8-3b4bfe6b1332.jpg?1547516853|https://scryfall.com/card/uma/94/entomb?utm_source=api>`
-   Search your library for a card and put that card into your graveyard. Then shuffle your library.
+   Search your library for a card, put that card into your graveyard, then shuffle.
 
 
 :mtgtip:`Fume Spitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb1ef824-306c-4975-abca-19f0bd77449f.jpg?1547516861|https://scryfall.com/card/uma/95/fume-spitter?utm_source=api>`
@@ -538,7 +538,7 @@
 
 
 :mtgtip:`Ghoulcaller's Accomplice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e27974c-1279-486f-8e14-b326cd90cb06.jpg?1547516869|https://scryfall.com/card/uma/96/ghoulcallers-accomplice?utm_source=api>`
-   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate only as a sorcery.
 
 
 :mtgtip:`Ghoulsteed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b8f7cfd-88db-4cc1-b65f-3462332a2873.jpg?1547516879|https://scryfall.com/card/uma/97/ghoulsteed?utm_source=api>`
@@ -616,7 +616,7 @@
 
 
 :mtgtip:`Reanimate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04fc99dc-bfbe-4567-b791-6b1db96471ec.jpg?1547516995|https://scryfall.com/card/uma/110/reanimate?utm_source=api>`
-   Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+   Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.
 
 
 :mtgtip:`Sanitarium Skeleton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d79c616-32d7-4d20-8dd8-8f56f5c04a0a.jpg?1547517005|https://scryfall.com/card/uma/111/sanitarium-skeleton?utm_source=api>`
@@ -728,7 +728,7 @@
 
 
 :mtgtip:`Gamble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c01c9474-90a1-4c2e-bd90-471ff4fd04e5.jpg?1547517257|https://scryfall.com/card/uma/132/gamble?utm_source=api>`
-   Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.
+   Search your library for a card, put that card into your hand, discard a card at random, then shuffle.
 
 
 :mtgtip:`Generator Servant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ea15262-c00f-4865-bb6a-37ccb2ef62bd.jpg?1547517270|https://scryfall.com/card/uma/133/generator-servant?utm_source=api>`
@@ -850,7 +850,7 @@
 
 
 :mtgtip:`Basking Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26bfde99-7761-48e1-851a-522f888d0f6c.jpg?1547517482|https://scryfall.com/card/uma/156/basking-rootwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
 
    Madness |mana_0| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
@@ -898,7 +898,7 @@
 
 
 :mtgtip:`Fauna Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bddcec63-a60a-4d73-af6d-9ac978703811.jpg?1547517568|https://scryfall.com/card/uma/164/fauna-shaman?utm_source=api>`
-   |mana_g|, |tap|, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+   |mana_g|, |tap|, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Fecundity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b979578b-a82f-4d5e-8871-9e45401038a8.jpg?1547517576|https://scryfall.com/card/uma/165/fecundity?utm_source=api>`
@@ -934,7 +934,7 @@
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/102d20e6-5179-44b7-9abd-f1defc15ca6a.jpg?1547517639|https://scryfall.com/card/uma/171/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`Life from the Loam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7447c11-05a1-44e4-831a-0bacf97d447d.jpg?1547517654|https://scryfall.com/card/uma/172/life-from-the-loam?utm_source=api>`
@@ -954,7 +954,7 @@
 
 
 :mtgtip:`Nourishing Shoal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9472cd09-0b0a-49c9-ab10-ec5b73ddb74b.jpg?1547517693|https://scryfall.com/card/uma/175/nourishing-shoal?utm_source=api>`
-   You may exile a green card with converted mana cost X from your hand rather than pay this spell's mana cost.
+   You may exile a green card with mana value X from your hand rather than pay this spell's mana cost.
 
    You gain X life.
 
@@ -962,7 +962,7 @@
 :mtgtip:`Pattern of Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0e34219-9fd9-4f11-a244-670fb75ef938.jpg?1547517704|https://scryfall.com/card/uma/176/pattern-of-rebirth?utm_source=api>`
    Enchant creature
 
-   When enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle their library.
+   When enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Penumbra Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de4ce98d-0a19-42c5-9ef9-32408da1d2a1.jpg?1547517719|https://scryfall.com/card/uma/177/penumbra-wurm?utm_source=api>`
@@ -1078,7 +1078,7 @@
 
 
 :mtgtip:`Blast of Genius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a97c6e7-affd-455a-925c-332ca6b7a6a5.jpg?1547518000|https://scryfall.com/card/uma/197/blast-of-genius?utm_source=api>`
-   Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that permanent or player.
+   Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's mana value to that permanent or player.
 
 
 :mtgtip:`Countersquall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f99f864e-a10f-47f4-94c5-4571b5c11b3b.jpg?1547518010|https://scryfall.com/card/uma/198/countersquall?utm_source=api>`
@@ -1086,7 +1086,7 @@
 
 
 :mtgtip:`Gaddock Teeg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f40cfba1-08b5-4241-bd36-8ae18e584557.jpg?1559959266|https://scryfall.com/card/uma/199/gaddock-teeg?utm_source=api>`
-   Noncreature spells with converted mana cost 4 or greater can't be cast.
+   Noncreature spells with mana value 4 or greater can't be cast.
 
    Noncreature spells with |mana_x| in their mana costs can't be cast.
 
@@ -1124,7 +1124,7 @@
 
 
 :mtgtip:`Reviving Vapors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7a6c902-4705-4210-8e5e-08d6a6f67573.jpg?1547518089|https://scryfall.com/card/uma/205/reviving-vapors?utm_source=api>`
-   Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.
+   Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's mana value. Put all other cards revealed this way into your graveyard.
 
 
 :mtgtip:`Sigarda, Host of Herons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcac0cff-efa6-4068-a69c-67ea4e7acea0.jpg?1559959280|https://scryfall.com/card/uma/206/sigarda-host-of-herons?utm_source=api>`
@@ -1136,7 +1136,7 @@
 :mtgtip:`Sovereigns of Lost Alara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d68ea02-66d3-4cca-ba0c-96f4340f683c.jpg?1547518109|https://scryfall.com/card/uma/207/sovereigns-of-lost-alara?utm_source=api>`
    Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
 
-   Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.
+   Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle.
 
 
 :mtgtip:`Urban Evolution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5d74ebd-9674-4bcc-b51e-d46e7b5cbc72.jpg?1547518119|https://scryfall.com/card/uma/208/urban-evolution?utm_source=api>`
@@ -1144,7 +1144,7 @@
 
 
 :mtgtip:`Vengeful Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b03bb160-8113-409a-a130-2b3fdc476e6a.jpg?1547518128|https://scryfall.com/card/uma/209/vengeful-rebirth?utm_source=api>`
-   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to any target.
+   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.
 
    Exile Vengeful Rebirth.
 
@@ -1164,9 +1164,9 @@
 :mtgtip:`Dimir Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6822ef8f-ff27-410d-934f-c87baef03266.jpg?1547518180|https://scryfall.com/card/uma/213/dimir-guildmage?utm_source=api>`
    (|mana_ub| can be paid with either |mana_u| or |mana_b|.)
 
-   |mana_3|\ |mana_u|: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|: Target player draws a card. Activate only as a sorcery.
 
-   |mana_3|\ |mana_b|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Double Cleave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82505754-a22f-4ae9-8efd-75eff17cbed6.jpg?1547518194|https://scryfall.com/card/uma/214/double-cleave?utm_source=api>`
@@ -1244,7 +1244,7 @@
 :mtgtip:`Engineered Explosives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e2b69e-b06b-46a5-ac57-a6a180eeecc7.jpg?1547518428|https://scryfall.com/card/uma/227/engineered-explosives?utm_source=api>`
    Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
 
-   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+   |mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with mana value equal to the number of charge counters on Engineered Explosives.
 
 
 :mtgtip:`Heap Doll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d09a887-958c-4a63-81d6-f5ec484223c2.jpg?1547518441|https://scryfall.com/card/uma/228/heap-doll?utm_source=api>`
@@ -1342,7 +1342,7 @@
 :mtgtip:`Flagstones of Trokair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e93d3a9f-abc2-4f63-a74d-e5936609386f.jpg?1559959307|https://scryfall.com/card/uma/243/flagstones-of-trokair?utm_source=api>`
    |tap|: Add |mana_w|.
 
-   When Flagstones of Trokair is put into a graveyard from the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+   When Flagstones of Trokair is put into a graveyard from the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Karakas<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e52214e1-404a-405a-b08e-20e13c087338.jpg?1559959289|https://scryfall.com/card/uma/244/karakas?utm_source=api>`
@@ -1372,7 +1372,7 @@
 
    Mistveil Plains enters the battlefield tapped.
 
-   |mana_w|, |tap|: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents.
+   |mana_w|, |tap|: Put target card from your graveyard on the bottom of your library. Activate only if you control two or more white permanents.
 
 
 :mtgtip:`Phyrexian Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c25dc997-219f-44e9-9003-384f75a606a3.jpg?1559959285|https://scryfall.com/card/uma/248/phyrexian-tower?utm_source=api>`
@@ -1404,7 +1404,7 @@
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80d3fa52-93ee-40a8-a4ce-41b91ff20eb8.jpg?1547518787|https://scryfall.com/card/uma/252/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Thespian's Stage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/107492bd-b32f-4692-917c-7771986b5bf7.jpg?1547518797|https://scryfall.com/card/uma/253/thespians-stage?utm_source=api>`

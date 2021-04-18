@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -825,7 +825,7 @@ msgid ":mtgtip:`March of the Machines<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../10E.rst:425
-msgid "Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)"
+msgid "Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)"
 msgstr ""
 
 #: ../../10E.rst:430
@@ -1186,7 +1186,7 @@ msgid ":mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../10E.rst:631
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:636
@@ -1282,7 +1282,7 @@ msgid ":mtgtip:`Head Games<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../10E.rst:685
-msgid "Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles their library."
+msgid "Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles."
 msgstr ""
 
 #: ../../10E.rst:690
@@ -1578,7 +1578,7 @@ msgid ":mtgtip:`Thrull Surgeon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../10E.rst:849
-msgid "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../10E.rst:854
@@ -1602,7 +1602,7 @@ msgid ":mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../10E.rst:865
-msgid "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../10E.rst:870
@@ -2155,7 +2155,7 @@ msgid ":mtgtip:`Civic Wayfinder<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../10E.rst:1181
-msgid "When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:1186
@@ -2300,7 +2300,7 @@ msgid ":mtgtip:`Llanowar Sentinel<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../10E.rst:1261
-msgid "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library."
+msgid "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:1268
@@ -2408,7 +2408,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../10E.rst:1319
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:1324
@@ -2452,7 +2452,7 @@ msgid ":mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../10E.rst:1343
-msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../10E.rst:1348
@@ -2484,7 +2484,7 @@ msgid ":mtgtip:`Skyshroud Ranger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../10E.rst:1359
-msgid "|tap|: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery."
+msgid "|tap|: You may put a land card from your hand onto the battlefield. Activate only as a sorcery."
 msgstr ""
 
 #: ../../10E.rst:1362
@@ -2520,7 +2520,7 @@ msgid ":mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../10E.rst:1381
-msgid "Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:1388
@@ -2624,7 +2624,7 @@ msgid ":mtgtip:`Citanul Flute<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../10E.rst:1441
-msgid "|mana_x|, |tap|: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_x|, |tap|: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:1446
@@ -2644,7 +2644,7 @@ msgid "Colossus of Sardia doesn't untap during your untap step."
 msgstr ""
 
 #: ../../10E.rst:1453
-msgid "|mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep."
+msgid "|mana_9|: Untap Colossus of Sardia. Activate only during your upkeep."
 msgstr ""
 
 #: ../../10E.rst:1458
@@ -3063,7 +3063,7 @@ msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../10E.rst:1681
-msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../10E.rst:1690

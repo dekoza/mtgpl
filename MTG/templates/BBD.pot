@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -366,7 +366,7 @@ msgid ":mtgtip:`Arena Rector<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../BBD.rst:171
-msgid "When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle your library."
+msgid "When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:176
@@ -557,7 +557,7 @@ msgid ":mtgtip:`Spellseeker<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../BBD.rst:273
-msgid "When Spellseeker enters the battlefield, you may search your library for an instant or sorcery card with converted mana cost 2 or less, reveal it, put it into your hand, then shuffle your library."
+msgid "When Spellseeker enters the battlefield, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:280
@@ -764,7 +764,7 @@ msgid "Whenever a Warrior attacks, you may have its controller create a 1/1 whit
 msgstr ""
 
 #: ../../BBD.rst:383
-msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate this ability only during combat."
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate only during combat."
 msgstr ""
 
 #: ../../BBD.rst:388
@@ -858,7 +858,7 @@ msgid ":mtgtip:`Jungle Wayfinder<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../BBD.rst:433
-msgid "When Jungle Wayfinder enters the battlefield, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle their library."
+msgid "When Jungle Wayfinder enters the battlefield, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:438
@@ -866,7 +866,7 @@ msgid ":mtgtip:`Pir's Whim<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../BBD.rst:437
-msgid "For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles their library. Each foe sacrifices an artifact or enchantment they control."
+msgid "For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles. Each foe sacrifices an artifact or enchantment they control."
 msgstr ""
 
 #: ../../BBD.rst:446
@@ -1075,7 +1075,7 @@ msgid ":mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../BBD.rst:551
-msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:556
@@ -1123,7 +1123,7 @@ msgid ":mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../BBD.rst:577
-msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library."
+msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:584
@@ -1401,7 +1401,7 @@ msgid ":mtgtip:`Spell Snare<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../BBD.rst:729
-msgid "Counter target spell with converted mana cost 2."
+msgid "Counter target spell with mana value 2."
 msgstr ""
 
 #: ../../BBD.rst:734
@@ -1437,7 +1437,7 @@ msgid "As True-Name Nemesis enters the battlefield, choose a player."
 msgstr ""
 
 #: ../../BBD.rst:749
-msgid "True-Name Nemesis has protection from the chosen player. (This creature can't be blocked, targeted, dealt damage, or enchanted by anything controlled by that player.)"
+msgid "True-Name Nemesis has protection from the chosen player."
 msgstr ""
 
 #: ../../BBD.rst:754
@@ -1477,7 +1477,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
 #: ../../BBD.rst:773
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:778
@@ -1546,7 +1546,7 @@ msgid "As an additional cost to cast this spell, sacrifice an artifact or creatu
 msgstr ""
 
 #: ../../BBD.rst:807
-msgid "Draw cards equal to the converted mana cost of the sacrificed permanent."
+msgid "Draw cards equal to the mana value of the sacrificed permanent."
 msgstr ""
 
 #: ../../BBD.rst:814
@@ -1578,7 +1578,7 @@ msgid ":mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BBD.rst:825
-msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+msgid "When Noxious Dragon dies, you may destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../BBD.rst:832
@@ -1767,7 +1767,7 @@ msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../BBD.rst:927
-msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature."
+msgid "When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature."
 msgstr ""
 
 #: ../../BBD.rst:934
@@ -1996,7 +1996,7 @@ msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
 #: ../../BBD.rst:1053
-msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
 msgstr ""
 
 #: ../../BBD.rst:1058
@@ -2100,7 +2100,7 @@ msgid ":mtgtip:`Skyshroud Claim<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BBD.rst:1115
-msgid "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:1120
@@ -2108,7 +2108,7 @@ msgid ":mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../BBD.rst:1119
-msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it."
+msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BBD.rst:1128

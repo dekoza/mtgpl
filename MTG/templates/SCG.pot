@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,7 +165,7 @@ msgid "Enchanted creature gets +1/+2 and has vigilance."
 msgstr ""
 
 #: ../../SCG.rst:69
-msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature."
+msgid "When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature."
 msgstr ""
 
 #: ../../SCG.rst:74
@@ -181,12 +181,12 @@ msgid ":mtgtip:`Eternal Dragon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../SCG.rst:79
-msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../SCG.rst:81
 #: ../../SCG.rst:123
-msgid "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../SCG.rst:86
@@ -297,7 +297,7 @@ msgid ":mtgtip:`Reward the Faithful<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../SCG.rst:139
-msgid "Any number of target players each gain life equal to the highest converted mana cost among permanents you control."
+msgid "Any number of target players each gain life equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../SCG.rst:144
@@ -405,7 +405,7 @@ msgid ":mtgtip:`Dispersal Shield<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SCG.rst:197
-msgid "Counter target spell if its converted mana cost is less than or equal to the highest converted mana cost among permanents you control."
+msgid "Counter target spell if its mana value is less than or equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../SCG.rst:208
@@ -421,7 +421,7 @@ msgid "Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw
 msgstr ""
 
 #: ../../SCG.rst:207
-msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Wings from your graveyard to the battlefield attached to that creature."
+msgid "When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Wings from your graveyard to the battlefield attached to that creature."
 msgstr ""
 
 #: ../../SCG.rst:212
@@ -457,7 +457,7 @@ msgid ":mtgtip:`Long-Term Plans<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SCG.rst:229
-msgid "Search your library for a card, shuffle your library, then put that card third from the top."
+msgid "Search your library for a card, then shuffle and put that card third from the top."
 msgstr ""
 
 #: ../../SCG.rst:236
@@ -481,7 +481,7 @@ msgid ":mtgtip:`Mind's Desire<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SCG.rst:243
-msgid "Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)"
+msgid "Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost."
 msgstr ""
 
 #: ../../SCG.rst:245
@@ -585,7 +585,7 @@ msgid ":mtgtip:`Rush of Knowledge<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SCG.rst:297
-msgid "Draw cards equal to the highest converted mana cost among permanents you control."
+msgid "Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../SCG.rst:302
@@ -601,7 +601,7 @@ msgid ":mtgtip:`Shoreline Ranger<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SCG.rst:307
-msgid "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../SCG.rst:312
@@ -649,7 +649,7 @@ msgid ":mtgtip:`Cabal Conditioning<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SCG.rst:335
-msgid "Any number of target players each discard a number of cards equal to the highest converted mana cost among permanents you control."
+msgid "Any number of target players each discard a number of cards equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../SCG.rst:340
@@ -657,7 +657,7 @@ msgid ":mtgtip:`Cabal Interrogator<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SCG.rst:339
-msgid "|mana_x|\\ |mana_b|, |tap|: Target player reveals X cards from their hand and you choose one of them. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_x|\\ |mana_b|, |tap|: Target player reveals X cards from their hand and you choose one of them. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../SCG.rst:346
@@ -745,7 +745,7 @@ msgid "Enchanted creature gets +1/+0 and has fear. (It can't be blocked except b
 msgstr ""
 
 #: ../../SCG.rst:389
-msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature."
+msgid "When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature."
 msgstr ""
 
 #: ../../SCG.rst:396
@@ -849,7 +849,7 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr ""
 
 #: ../../SCG.rst:451
-msgid "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../SCG.rst:458
@@ -921,7 +921,7 @@ msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../SCG.rst:489
-msgid "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../SCG.rst:498
@@ -953,7 +953,7 @@ msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../SCG.rst:507
-msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature."
+msgid "When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature."
 msgstr ""
 
 #: ../../SCG.rst:514
@@ -997,7 +997,7 @@ msgid ":mtgtip:`Dragonstorm<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../SCG.rst:531
-msgid "Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library."
+msgid "Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../SCG.rst:538
@@ -1089,7 +1089,7 @@ msgid ":mtgtip:`Pyrostatic Pillar<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SCG.rst:581
-msgid "Whenever a player casts a spell with converted mana cost 3 or less, Pyrostatic Pillar deals 2 damage to that player."
+msgid "Whenever a player casts a spell with mana value 3 or less, Pyrostatic Pillar deals 2 damage to that player."
 msgstr ""
 
 #: ../../SCG.rst:588
@@ -1165,7 +1165,7 @@ msgid ":mtgtip:`Torrent of Fire<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SCG.rst:621
-msgid "Torrent of Fire deals damage to any target equal to the highest converted mana cost among permanents you control."
+msgid "Torrent of Fire deals damage to any target equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../SCG.rst:628
@@ -1185,7 +1185,7 @@ msgid ":mtgtip:`Accelerated Mutation<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../SCG.rst:631
-msgid "Target creature gets +X/+X until end of turn, where X is the highest converted mana cost among permanents you control."
+msgid "Target creature gets +X/+X until end of turn, where X is the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../SCG.rst:638
@@ -1213,7 +1213,7 @@ msgid ":mtgtip:`Ancient Ooze<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../SCG.rst:647
-msgid "Ancient Ooze's power and toughness are each equal to the total converted mana cost of other creatures you control."
+msgid "Ancient Ooze's power and toughness are each equal to the total mana value of other creatures you control."
 msgstr ""
 
 #: ../../SCG.rst:654
@@ -1265,7 +1265,7 @@ msgid "Enchanted creature gets +1/+1 and has trample."
 msgstr ""
 
 #: ../../SCG.rst:679
-msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Fangs from your graveyard to the battlefield attached to that creature."
+msgid "When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Fangs from your graveyard to the battlefield attached to that creature."
 msgstr ""
 
 #: ../../SCG.rst:686
@@ -1278,7 +1278,7 @@ msgstr ""
 
 #: ../../SCG.rst:685
 #: ../../SCG.rst:755
-msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../SCG.rst:690
@@ -1286,7 +1286,7 @@ msgid ":mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SCG.rst:689
-msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
+msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../SCG.rst:696
@@ -1314,7 +1314,7 @@ msgid ":mtgtip:`Krosan Drover<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SCG.rst:705
-msgid "Creature spells you cast with converted mana cost 6 or greater cost |mana_2| less to cast."
+msgid "Creature spells you cast with mana value 6 or greater cost |mana_2| less to cast."
 msgstr ""
 
 #: ../../SCG.rst:712
@@ -1334,7 +1334,7 @@ msgid ":mtgtip:`Kurgadon<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../SCG.rst:715
-msgid "Whenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon."
+msgid "Whenever you cast a creature spell with mana value 6 or greater, put three +1/+1 counters on Kurgadon."
 msgstr ""
 
 #: ../../SCG.rst:722
@@ -1342,7 +1342,7 @@ msgid ":mtgtip:`One with Nature<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SCG.rst:721
-msgid "Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../SCG.rst:726
@@ -1370,7 +1370,7 @@ msgid ":mtgtip:`Sprouting Vines<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SCG.rst:735
-msgid "Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a basic land card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../SCG.rst:744
@@ -1410,7 +1410,7 @@ msgid ":mtgtip:`Wirewood Symbiote<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SCG.rst:759
-msgid "Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn."
+msgid "Return an Elf you control to its owner's hand: Untap target creature. Activate only once each turn."
 msgstr ""
 
 #: ../../SCG.rst:766
@@ -1474,7 +1474,7 @@ msgid ":mtgtip:`Sliver Overlord<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SCG.rst:795
-msgid "|mana_3|: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "|mana_3|: Search your library for a Sliver card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../SCG.rst:797
@@ -1514,5 +1514,5 @@ msgid ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../SCG.rst:815
-msgid "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you control five or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or more lands."
 msgstr ""

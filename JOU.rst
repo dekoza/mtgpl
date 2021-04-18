@@ -36,7 +36,7 @@
 
 
 :mtgtip:`Deicide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/6012964c-eb76-4581-82ae-aec2d36f0d56.jpg?1593095208|https://scryfall.com/card/jou/7/deicide?utm_source=api>`
-   Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles their library.
+   Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Dictate of Heliod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95602d52-988c-472b-ba8e-cf25aa92f1fc.jpg?1593095214|https://scryfall.com/card/jou/8/dictate-of-heliod?utm_source=api>`
@@ -152,7 +152,7 @@
 
 
 :mtgtip:`Tethmos High Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d901b9d7-6af9-40ce-afb7-d3c9f9143c18.jpg?1593095373|https://scryfall.com/card/jou/29/tethmos-high-priest?utm_source=api>`
-   Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Aerial Formation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fce86785-bc03-451e-8422-8bb53082cc12.jpg?1593095380|https://scryfall.com/card/jou/30/aerial-formation?utm_source=api>`
@@ -228,7 +228,7 @@
 
 
 :mtgtip:`Interpret the Signs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/696f2da6-3943-4555-9610-e6b925b3d6bc.jpg?1593095476|https://scryfall.com/card/jou/43/interpret-the-signs?utm_source=api>`
-   Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Scry 3, then reveal the top card of your library. Draw cards equal to that card's mana value. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
 :mtgtip:`Kiora's Dismissal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21b040e5-651b-42ca-b487-66cf1d8180f9.jpg?1593095483|https://scryfall.com/card/jou/44/kioras-dismissal?utm_source=api>`
@@ -472,7 +472,7 @@
 
 
 :mtgtip:`Eidolon of the Great Revel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6c10816-e825-452a-90b0-80eb9f20bd6d.jpg?1593095951|https://scryfall.com/card/jou/94/eidolon-of-the-great-revel?utm_source=api>`
-   Whenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player.
+   Whenever a player casts a spell with mana value 3 or less, Eidolon of the Great Revel deals 2 damage to that player.
 
 
 :mtgtip:`Flamespeaker's Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32b5e3bb-f9e8-4a74-9798-41d8f8515e12.jpg?1593095961|https://scryfall.com/card/jou/95/flamespeakers-will?utm_source=api>`
@@ -540,7 +540,7 @@
 
 
 :mtgtip:`Riddle of Lightning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98f4250b-4493-4054-b0b2-465f76f0c2f0.jpg?1593096066|https://scryfall.com/card/jou/107/riddle-of-lightning?utm_source=api>`
-   Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that permanent or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's mana value to that permanent or player.
 
 
 :mtgtip:`Rollick of Abandon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f1a80c4-8119-437d-bf5b-549c5679c90a.jpg?1593096073|https://scryfall.com/card/jou/108/rollick-of-abandon?utm_source=api>`
@@ -618,7 +618,7 @@
 
 
 :mtgtip:`Font of Fertility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac8d1ecb-de7c-4641-81da-13117820195c.jpg?1593096189|https://scryfall.com/card/jou/123/font-of-fertility?utm_source=api>`
-   |mana_1|\ |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_1|\ |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Golden Hind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1ae883ea-191e-4571-be3d-1e3149e6965e.jpg?1593096196|https://scryfall.com/card/jou/124/golden-hind?utm_source=api>`
@@ -756,7 +756,7 @@
 
 
 :mtgtip:`Disciple of Deceit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbfe88fd-9bb9-42af-8134-96fd264b8405.jpg?1593096393|https://scryfall.com/card/jou/148/disciple-of-deceit?utm_source=api>`
-   Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library.
+   Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same mana value as that card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Fleetfeather Cockatrice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1139236e-5d71-4fc1-937d-ba1efadee031.jpg?1593096401|https://scryfall.com/card/jou/149/fleetfeather-cockatrice?utm_source=api>`
@@ -818,7 +818,7 @@
 :mtgtip:`Stormchaser Chimera<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db6621dd-7220-4b53-a30f-7dd05b2e0134.jpg?1593096464|https://scryfall.com/card/jou/156/stormchaser-chimera?utm_source=api>`
    Flying
 
-   |mana_2|\ |mana_u|\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+   |mana_2|\ |mana_u|\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's mana value. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
 :mtgtip:`Underworld Coinsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea5346e3-3fe4-47ea-a184-e237091cc4a1.jpg?1593096472|https://scryfall.com/card/jou/157/underworld-coinsmith?utm_source=api>`

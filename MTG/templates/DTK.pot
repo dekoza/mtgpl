@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -454,7 +454,7 @@ msgid ":mtgtip:`Silkwrap<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../DTK.rst:217
-msgid "When Silkwrap enters the battlefield, exile target creature with converted mana cost 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)"
+msgid "When Silkwrap enters the battlefield, exile target creature with mana value 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)"
 msgstr ""
 
 #: ../../DTK.rst:222
@@ -690,7 +690,7 @@ msgid "As Living Lore enters the battlefield, exile an instant or sorcery card f
 msgstr ""
 
 #: ../../DTK.rst:347
-msgid "Living Lore's power and toughness are each equal to the exiled card's converted mana cost."
+msgid "Living Lore's power and toughness are each equal to the exiled card's mana value."
 msgstr ""
 
 #: ../../DTK.rst:349
@@ -1231,7 +1231,7 @@ msgid "Deathtouch"
 msgstr ""
 
 #: ../../DTK.rst:667
-msgid "When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library."
+msgid "When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DTK.rst:676
@@ -1307,7 +1307,7 @@ msgid ":mtgtip:`Atarka Pummeler<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DTK.rst:715
-msgid "Formidable — |mana_3|\\ |mana_r|\\ |mana_r|: Creatures you control gain menace until end of turn. Activate this ability only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)"
+msgid "Formidable — |mana_3|\\ |mana_r|\\ |mana_r|: Creatures you control gain menace until end of turn. Activate only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../DTK.rst:720
@@ -1335,7 +1335,7 @@ msgid "|mana_r|, |tap|, Sacrifice Crater Elemental: It deals 4 damage to target 
 msgstr ""
 
 #: ../../DTK.rst:729
-msgid "Formidable — |mana_2|\\ |mana_r|: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_2|\\ |mana_r|: Crater Elemental has base power 8 until end of turn. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:734
@@ -1387,7 +1387,7 @@ msgid "|mana_1|\\ |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../DTK.rst:757
-msgid "Formidable — |mana_4|\\ |mana_r|\\ |mana_r|: Create a 4/4 red Dragon creature token with flying. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_4|\\ |mana_r|\\ |mana_r|: Create a 4/4 red Dragon creature token with flying. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:762
@@ -1556,7 +1556,7 @@ msgid ":mtgtip:`Sarkhan's Triumph<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../DTK.rst:843
-msgid "Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../DTK.rst:848
@@ -1682,7 +1682,7 @@ msgid ":mtgtip:`Volcanic Vision<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DTK.rst:911
-msgid "Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision."
+msgid "Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's mana value to each creature your opponents control. Exile Volcanic Vision."
 msgstr ""
 
 #: ../../DTK.rst:918
@@ -1755,7 +1755,7 @@ msgid ":mtgtip:`Atarka Beastbreaker<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../DTK.rst:951
-msgid "Formidable — |mana_4|\\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_4|\\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:958
@@ -1775,7 +1775,7 @@ msgid ":mtgtip:`Circle of Elders<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../DTK.rst:963
-msgid "Formidable — |tap|: Add |colorless|\\ |colorless|\\ |colorless|. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |tap|: Add |colorless|\\ |colorless|\\ |colorless|. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:968
@@ -1783,7 +1783,7 @@ msgid ":mtgtip:`Collected Company<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../DTK.rst:967
-msgid "Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order."
+msgid "Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../DTK.rst:970
@@ -1843,7 +1843,7 @@ msgid ":mtgtip:`Dragon-Scarred Bear<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../DTK.rst:1003
-msgid "Formidable — |mana_1|\\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_1|\\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:1008
@@ -1867,7 +1867,7 @@ msgid ":mtgtip:`Explosive Vegetation<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../DTK.rst:1015
-msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../DTK.rst:1024
@@ -1887,7 +1887,7 @@ msgid ":mtgtip:`Glade Watcher<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../DTK.rst:1029
-msgid "Formidable — |mana_g|: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_g|: Glade Watcher can attack this turn as though it didn't have defender. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:1036
@@ -1932,7 +1932,7 @@ msgid ":mtgtip:`Lurking Arynx<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../DTK.rst:1051
-msgid "Formidable — |mana_2|\\ |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_2|\\ |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:1056
@@ -2048,7 +2048,7 @@ msgid "|tap|: Add two mana in any combination of colors. Spend this mana only to
 msgstr ""
 
 #: ../../DTK.rst:1111
-msgid "Formidable — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Each player's life total becomes the number of creatures they control. Activate this ability only if creatures you control have total power 8 or greater."
+msgid "Formidable — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Each player's life total becomes the number of creatures they control. Activate only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:1116
@@ -2300,7 +2300,7 @@ msgid ":mtgtip:`Ojutai's Command<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../DTK.rst:1265
-msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../DTK.rst:1267
@@ -2340,7 +2340,7 @@ msgid "−2: Create a 4/4 red Dragon creature token with flying."
 msgstr ""
 
 #: ../../DTK.rst:1291
-msgid "−8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library."
+msgid "−8: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../DTK.rst:1298
@@ -2372,7 +2372,7 @@ msgid ":mtgtip:`Swift Warkite<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../DTK.rst:1315
-msgid "When Swift Warkite enters the battlefield, you may put a creature card with converted mana cost 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step."
+msgid "When Swift Warkite enters the battlefield, you may put a creature card with mana value 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step."
 msgstr ""
 
 #: ../../DTK.rst:1320
@@ -2516,7 +2516,7 @@ msgid ":mtgtip:`Tapestry of the Ages<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../DTK.rst:1389
-msgid "|mana_2|, |tap|: Draw a card. Activate this ability only if you've cast a noncreature spell this turn."
+msgid "|mana_2|, |tap|: Draw a card. Activate only if you've cast a noncreature spell this turn."
 msgstr ""
 
 #: ../../DTK.rst:1394
@@ -2532,7 +2532,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../DTK.rst:1397
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../DTK.rst:1406

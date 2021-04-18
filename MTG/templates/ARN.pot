@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -498,7 +498,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
 #: ../../ARN.rst:253
-msgid "Add X mana of any one color, where X is 1 plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells."
+msgid "Add X mana of any one color, where X is 1 plus the sacrificed creature's mana value. Spend this mana only to cast creature spells."
 msgstr ""
 
 #: ../../ARN.rst:258
@@ -696,7 +696,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../ARN.rst:351
-msgid "|tap|: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step."
+msgid "|tap|: Desert deals 1 damage to target attacking creature. Activate only during the end of combat step."
 msgstr ""
 
 #: ../../ARN.rst:356
@@ -728,7 +728,7 @@ msgid ":mtgtip:`Library of Alexandria<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../ARN.rst:371
-msgid "|tap|: Draw a card. Activate this ability only if you have exactly seven cards in hand."
+msgid "|tap|: Draw a card. Activate only if you have exactly seven cards in hand."
 msgstr ""
 
 #: ../../ARN.rst:376

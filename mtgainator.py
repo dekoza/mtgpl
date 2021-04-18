@@ -209,35 +209,27 @@ def translate_data(path: Path):
     podir = CURRENT_DIR / "translated" / "pl" / "LC_MESSAGES"
     orig_path = path / "orig"
 
-    mtga_files = (
-        i for i in os.listdir(path) if i.startswith("data_loc") and i.endswith(".mtga")
-    )
-    pofiles = ["data_loc.po"]
+    filepath = get_mtga_file("data_loc", path)
+
+    poname = "data_loc.po"
 
     os.makedirs(orig_path, exist_ok=True)
-    for filename in mtga_files:
-        filepath = path / filename
-        bak_filepath = orig_path / filename
+    bak_filepath = orig_path / filepath.name
 
-        main_name = filename.rsplit("_", 1)[0]
-        poname = f"{main_name}.po"
-        if poname not in pofiles:
-            continue
+    if not bak_filepath.exists():
+        shutil.move(filepath, bak_filepath)
+        shutil.move(f"{filepath}.dat", f"{bak_filepath}.dat")
 
-        if not bak_filepath.exists():
-            shutil.move(filepath, bak_filepath)
-            shutil.move(f"{filepath}.dat", f"{bak_filepath}.dat")
+    with open(bak_filepath) as source, open(filepath, "w") as outfile:
+        po = polib.pofile(podir / poname)
+        data = json.load(source)
 
-        with open(bak_filepath) as source, open(filepath, "w") as outfile:
-            po = polib.pofile(podir / poname)
-            data = json.load(source)
+        do_the_trans(data, po, lang=SUBSTITUTE_LANG)
+        do_the_trans(data, po, lang=SUBSTITUTE_LANG_DEBUG)
 
-            do_the_trans(data, po, lang=SUBSTITUTE_LANG)
-            do_the_trans(data, po, lang=SUBSTITUTE_LANG_DEBUG)
+        json.dump(fp=outfile, obj=data, ensure_ascii=False, indent=2)
 
-            json.dump(fp=outfile, obj=data, ensure_ascii=False, indent=2)
-
-        create_datfile(filepath)
+    create_datfile(filepath)
 
 
 def translate_loc(path: Path):

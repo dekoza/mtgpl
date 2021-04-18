@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,7 +88,7 @@ msgid ":mtgtip:`Droning Bureaucrats<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../GPT.rst:31
-msgid "|mana_x|, |tap|: Each creature with converted mana cost X can't attack or block this turn."
+msgid "|mana_x|, |tap|: Each creature with mana value X can't attack or block this turn."
 msgstr ""
 
 #: ../../GPT.rst:36
@@ -364,7 +364,7 @@ msgid "Replicate |mana_3|\\ |mana_u| (When you cast this spell, copy it for each
 msgstr ""
 
 #: ../../GPT.rst:175
-msgid "Choose target permanent an opponent controls. Search that player's library for a card with the same name and put it onto the battlefield under your control. Then that player shuffles their library."
+msgid "Choose target permanent an opponent controls. Search that player's library for a card with the same name and put it onto the battlefield under your control. Then that player shuffles."
 msgstr ""
 
 #: ../../GPT.rst:182
@@ -380,7 +380,7 @@ msgid ":mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../GPT.rst:185
-msgid "Return target nonland permanent with converted mana cost X to its owner's hand."
+msgid "Return target nonland permanent with mana value X to its owner's hand."
 msgstr ""
 
 #: ../../GPT.rst:194
@@ -516,7 +516,7 @@ msgid ":mtgtip:`Cryptwailing<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../GPT.rst:269
-msgid "|mana_1|, Exile two creature cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, Exile two creature cards from your graveyard: Target player discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../GPT.rst:276
@@ -632,7 +632,7 @@ msgid ":mtgtip:`Sanguine Praetor<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../GPT.rst:337
-msgid "|mana_b|, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature."
+msgid "|mana_b|, Sacrifice a creature: Destroy each creature with the same mana value as the sacrificed creature."
 msgstr ""
 
 #: ../../GPT.rst:346
@@ -701,7 +701,7 @@ msgid "First strike"
 msgstr ""
 
 #: ../../GPT.rst:375
-msgid "|mana_3|\\ |mana_g|: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_3|\\ |mana_g|: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../GPT.rst:384
@@ -749,7 +749,7 @@ msgid ":mtgtip:`Parallectric Feedback<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../GPT.rst:401
-msgid "Parallectric Feedback deals damage to target spell's controller equal to that spell's converted mana cost."
+msgid "Parallectric Feedback deals damage to target spell's controller equal to that spell's mana value."
 msgstr ""
 
 #: ../../GPT.rst:408
@@ -812,7 +812,7 @@ msgid "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature e
 msgstr ""
 
 #: ../../GPT.rst:437
-msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn."
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn."
 msgstr ""
 
 #: ../../GPT.rst:442
@@ -1110,7 +1110,7 @@ msgid ":mtgtip:`Culling Sun<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../GPT.rst:609
-msgid "Destroy each creature with converted mana cost 3 or less."
+msgid "Destroy each creature with mana value 3 or less."
 msgstr ""
 
 #: ../../GPT.rst:614
@@ -1479,11 +1479,11 @@ msgid ":mtgtip:`Izzet Guildmage<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../GPT.rst:817
-msgid "|mana_2|\\ |mana_u|: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy."
+msgid "|mana_2|\\ |mana_u|: Copy target instant spell you control with mana value 2 or less. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../GPT.rst:819
-msgid "|mana_2|\\ |mana_r|: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy."
+msgid "|mana_2|\\ |mana_r|: Copy target sorcery spell you control with mana value 2 or less. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../GPT.rst:828

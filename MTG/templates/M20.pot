@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -154,7 +154,7 @@ msgid ":mtgtip:`Battalion Foot Soldier<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../M20.rst:51
-msgid "When Battalion Foot Soldier enters the battlefield, you may search your library for any number of cards named Battalion Foot Soldier, reveal them, put them into your hand, then shuffle your library."
+msgid "When Battalion Foot Soldier enters the battlefield, you may search your library for any number of cards named Battalion Foot Soldier, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:58
@@ -278,7 +278,7 @@ msgid "Target creature you control gains protection from the color of your choic
 msgstr ""
 
 #: ../../M20.rst:117
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../M20.rst:124
@@ -526,7 +526,7 @@ msgid "|mana_2|\\ |mana_u|, |tap|: Draw two cards, then discard a card."
 msgstr ""
 
 #: ../../M20.rst:261
-msgid "Whenever Atemsis, All-Seeing deals damage to an opponent, you may reveal your hand. If cards with at least six different converted mana costs are revealed this way, that player loses the game."
+msgid "Whenever Atemsis, All-Seeing deals damage to an opponent, you may reveal your hand. If cards with at least six different mana values are revealed this way, that player loses the game."
 msgstr ""
 
 #: ../../M20.rst:268
@@ -763,7 +763,7 @@ msgid ":mtgtip:`Portal of Sanctuary<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../M20.rst:397
-msgid "|mana_1|, |tap|: Return target creature you control and each Aura attached to it to their owners' hands. Activate this ability only during your turn."
+msgid "|mana_1|, |tap|: Return target creature you control and each Aura attached to it to their owners' hands. Activate only during your turn."
 msgstr ""
 
 #: ../../M20.rst:404
@@ -775,7 +775,7 @@ msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifa
 msgstr ""
 
 #: ../../M20.rst:403
-msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:408
@@ -932,7 +932,7 @@ msgid ":mtgtip:`Bloodsoaked Altar<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M20.rst:493
-msgid "|tap|, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black Demon creature token with flying. Activate this ability only any time you could cast a sorcery."
+msgid "|tap|, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black Demon creature token with flying. Activate only as a sorcery."
 msgstr ""
 
 #: ../../M20.rst:500
@@ -973,7 +973,7 @@ msgid "When Cavalier of Night enters the battlefield, you may sacrifice another 
 msgstr ""
 
 #: ../../M20.rst:517
-msgid "When Cavalier of Night dies, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "When Cavalier of Night dies, return target creature card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../M20.rst:522
@@ -1088,7 +1088,7 @@ msgid ":mtgtip:`Legion's End<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../M20.rst:575
-msgid "Exile target creature an opponent controls with converted mana cost 2 or less and all other creatures that player controls with the same name as that creature. Then that player reveals their hand and exiles all cards with that name from their hand and graveyard."
+msgid "Exile target creature an opponent controls with mana value 2 or less and all other creatures that player controls with the same name as that creature. Then that player reveals their hand and exiles all cards with that name from their hand and graveyard."
 msgstr ""
 
 #: ../../M20.rst:582
@@ -1144,7 +1144,7 @@ msgid ":mtgtip:`Scheming Symmetry<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M20.rst:605
-msgid "Choose two target players. Each of them searches their library for a card, then shuffles their library and puts that card on top of it."
+msgid "Choose two target players. Each of them searches their library for a card, then shuffles and puts that card on top."
 msgstr ""
 
 #: ../../M20.rst:610
@@ -1283,7 +1283,7 @@ msgid "0: Create two 1/1 red Elemental creature tokens. They gain haste. Sacrifi
 msgstr ""
 
 #: ../../M20.rst:681
-msgid "−2: You may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard. If that spell would be put into your graveyard this turn, exile it instead."
+msgid "−2: You may cast target instant or sorcery card with mana value 3 or less from your graveyard. If that spell would be put into your graveyard this turn, exile it instead."
 msgstr ""
 
 #: ../../M20.rst:692
@@ -1428,7 +1428,7 @@ msgid "Whenever you discard a card, Glint-Horn Buccaneer deals 1 damage to each 
 msgstr ""
 
 #: ../../M20.rst:765
-msgid "|mana_1|\\ |mana_r|, Discard a card: Draw a card. Activate this ability only if Glint-Horn Buccaneer is attacking."
+msgid "|mana_1|\\ |mana_r|, Discard a card: Draw a card. Activate only if Glint-Horn Buccaneer is attacking."
 msgstr ""
 
 #: ../../M20.rst:770
@@ -1436,7 +1436,7 @@ msgid ":mtgtip:`Goblin Bird-Grabber<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../M20.rst:769
-msgid "|mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate this ability only if you control a creature with flying."
+msgid "|mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate only if you control a creature with flying."
 msgstr ""
 
 #: ../../M20.rst:776
@@ -1696,7 +1696,7 @@ msgid "Elvish Reclaimer gets +2/+2 as long as there are three or more land cards
 msgstr ""
 
 #: ../../M20.rst:909
-msgid "|mana_2|, |tap|, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:918
@@ -1921,7 +1921,7 @@ msgid ":mtgtip:`Shared Summons<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M20.rst:1033
-msgid "Search your library for up to two creature cards with different names, reveal them, put them into your hand, then shuffle your library."
+msgid "Search your library for up to two creature cards with different names, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:1042
@@ -2258,7 +2258,7 @@ msgid ":mtgtip:`Diviner's Lockbox<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M20.rst:1227
-msgid "|mana_1|, |tap|: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, |tap|: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate only as a sorcery."
 msgstr ""
 
 #: ../../M20.rst:1234
@@ -2266,7 +2266,7 @@ msgid ":mtgtip:`Golos, Tireless Pilgrim<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../M20.rst:1231
-msgid "When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:1233
@@ -2358,7 +2358,7 @@ msgid ":mtgtip:`Pattern Matcher<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../M20.rst:1281
-msgid "When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle your library."
+msgid "When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:1286
@@ -2463,7 +2463,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../M20.rst:1335
-msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands."
+msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands."
 msgstr ""
 
 #: ../../M20.rst:1344
@@ -2487,7 +2487,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M20.rst:1347
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M20.rst:1356
@@ -2772,7 +2772,7 @@ msgid ":mtgtip:`Goldmane Griffin<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../M20.rst:1503
-msgid "When Goldmane Griffin enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Inspiring Leader, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Goldmane Griffin enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Inspiring Leader, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M20.rst:1508
@@ -2836,7 +2836,7 @@ msgid ":mtgtip:`Yanling's Harbinger<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../M20.rst:1539
-msgid "When Yanling's Harbinger enters the battlefield, you may search your library and/or graveyard for a card named Mu Yanling, Celestial Wind, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Yanling's Harbinger enters the battlefield, you may search your library and/or graveyard for a card named Mu Yanling, Celestial Wind, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M20.rst:1548
@@ -2868,7 +2868,7 @@ msgid ":mtgtip:`Sorin's Guide<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../M20.rst:1557
-msgid "When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M20.rst:1562
@@ -2900,7 +2900,7 @@ msgid ":mtgtip:`Chandra's Flame Wave<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../M20.rst:1573
-msgid "Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M20.rst:1578
@@ -2940,7 +2940,7 @@ msgid ":mtgtip:`Ethereal Elk<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../M20.rst:1595
-msgid "When Ethereal Elk enters the battlefield, you may search your library and/or graveyard for a card named Vivien, Nature's Avenger, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Ethereal Elk enters the battlefield, you may search your library and/or graveyard for a card named Vivien, Nature's Avenger, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M20.rst:1602
@@ -3216,7 +3216,7 @@ msgid ":mtgtip:`Frilled Sandwalla<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M20.rst:1779
-msgid "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../M20.rst:1786

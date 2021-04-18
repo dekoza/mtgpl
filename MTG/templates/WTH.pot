@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -309,7 +309,7 @@ msgid ":mtgtip:`Tariff<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../WTH.rst:143
-msgid "Each player sacrifices the creature they control with the highest converted mana cost unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one."
+msgid "Each player sacrifices the creature they control with the highest mana value unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest, that player chooses one."
 msgstr ""
 
 #: ../../WTH.rst:150
@@ -381,7 +381,7 @@ msgid ":mtgtip:`Avizoa<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../WTH.rst:191
-msgid "|mana_0|: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn."
+msgid "|mana_0|: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate only once each turn."
 msgstr ""
 
 #: ../../WTH.rst:198
@@ -474,7 +474,7 @@ msgid ":mtgtip:`Noble Benefactor<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../WTH.rst:245
-msgid "When Noble Benefactor dies, each player may search their library for a card and put that card into their hand. Then each player who searched their library this way shuffles it."
+msgid "When Noble Benefactor dies, each player may search their library for a card and put that card into their hand. Then each player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../WTH.rst:250
@@ -630,7 +630,7 @@ msgid ":mtgtip:`Buried Alive<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../WTH.rst:333
-msgid "Search your library for up to three creature cards, put them into your graveyard, then shuffle your library."
+msgid "Search your library for up to three creature cards, put them into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../WTH.rst:342
@@ -843,7 +843,7 @@ msgid ":mtgtip:`Wave of Terror<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../WTH.rst:453
-msgid "At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can't be regenerated."
+msgid "At the beginning of your draw step, destroy each creature with mana value equal to the number of age counters on Wave of Terror. They can't be regenerated."
 msgstr ""
 
 #: ../../WTH.rst:458
@@ -1244,7 +1244,7 @@ msgid ":mtgtip:`Fungus Elemental<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../WTH.rst:661
-msgid "|mana_g|, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn."
+msgid "|mana_g|, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate only if Fungus Elemental entered the battlefield this turn."
 msgstr ""
 
 #: ../../WTH.rst:670
@@ -1296,7 +1296,7 @@ msgid ":mtgtip:`Llanowar Sentinel<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../WTH.rst:689
-msgid "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library."
+msgid "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, search your library for a card named Llanowar Sentinel, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../WTH.rst:696
@@ -1376,7 +1376,7 @@ msgid ":mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../WTH.rst:733
-msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it."
+msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../WTH.rst:738

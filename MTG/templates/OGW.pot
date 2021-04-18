@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,7 +80,7 @@ msgid "Menace"
 msgstr ""
 
 #: ../../OGW.rst:33
-msgid "Discard a card with converted mana cost X: Counter target spell with converted mana cost X."
+msgid "Discard a card with mana value X: Counter target spell with mana value X."
 msgstr ""
 
 #: ../../OGW.rst:38
@@ -96,7 +96,7 @@ msgid ":mtgtip:`Matter Reshaper<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../OGW.rst:43
-msgid "When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand."
+msgid "When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with mana value 3 or less. Otherwise, put that card into your hand."
 msgstr ""
 
 #: ../../OGW.rst:52
@@ -258,7 +258,7 @@ msgid ":mtgtip:`Call the Gatewatch<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../OGW.rst:109
-msgid "Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a planeswalker card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../OGW.rst:114
@@ -299,7 +299,7 @@ msgid ":mtgtip:`General Tazri<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../OGW.rst:123
-msgid "When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library."
+msgid "When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../OGW.rst:125
@@ -826,7 +826,7 @@ msgid ":mtgtip:`Kozilek's Translator<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../OGW.rst:447
-msgid "Pay 1 life: Add |colorless|. Activate this ability only once each turn. (|colorless| represents colorless mana.)"
+msgid "Pay 1 life: Add |colorless|. Activate only once each turn. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:454
@@ -1035,7 +1035,7 @@ msgid "|mana_2|\\ |colorless|: Each creature with toughness greater than its pow
 msgstr ""
 
 #: ../../OGW.rst:592
-msgid ":mtgtip:`Kozilek's Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72765559-0a78-4aa3-827e-cb4612720991.jpg?1562917903|https://scryfall.com/card/ogw/98/kozileks-return?utm_source=api>`"
+msgid ":mtgtip:`Kozilek's Return<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72765559-0a78-4aa3-827e-cb4612720991.jpg?1618608556|https://scryfall.com/card/ogw/98/kozileks-return?utm_source=api>`"
 msgstr ""
 
 #: ../../OGW.rst:589
@@ -1043,7 +1043,7 @@ msgid "Kozilek's Return deals 2 damage to each creature."
 msgstr ""
 
 #: ../../OGW.rst:591
-msgid "Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature."
+msgid "Whenever you cast an Eldrazi creature spell with mana value 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature."
 msgstr ""
 
 #: ../../OGW.rst:598
@@ -1166,7 +1166,7 @@ msgid ":mtgtip:`Goblin Dark-Dwellers<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../OGW.rst:663
-msgid "When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+msgid "When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
 msgstr ""
 
 #: ../../OGW.rst:670
@@ -1182,7 +1182,7 @@ msgid ":mtgtip:`Kazuul's Toll Collector<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../OGW.rst:673
-msgid "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate only as a sorcery."
 msgstr ""
 
 #: ../../OGW.rst:680
@@ -1279,7 +1279,7 @@ msgid ":mtgtip:`Ruin in Their Wake<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../OGW.rst:735
-msgid "Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle your library."
+msgid "Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle."
 msgstr ""
 
 #: ../../OGW.rst:742
@@ -1295,7 +1295,7 @@ msgid ":mtgtip:`Stalking Drone<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../OGW.rst:747
-msgid "|colorless|: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. (|colorless| represents colorless mana.)"
+msgid "|colorless|: Stalking Drone gets +1/+2 until end of turn. Activate only once each turn. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:756
@@ -1392,7 +1392,7 @@ msgid ":mtgtip:`Loam Larva<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../OGW.rst:809
-msgid "When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it."
+msgid "When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../OGW.rst:814
@@ -1400,7 +1400,7 @@ msgid ":mtgtip:`Natural State<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../OGW.rst:813
-msgid "Destroy target artifact or enchantment with converted mana cost 3 or less."
+msgid "Destroy target artifact or enchantment with mana value 3 or less."
 msgstr ""
 
 #: ../../OGW.rst:820
@@ -1528,7 +1528,7 @@ msgid "Mindmelter can't be blocked."
 msgstr ""
 
 #: ../../OGW.rst:889
-msgid "|mana_3|\\ |colorless|: Target opponent exiles a card from their hand. Activate this ability only any time you could cast a sorcery. (|colorless| represents colorless mana.)"
+msgid "|mana_3|\\ |colorless|: Target opponent exiles a card from their hand. Activate only as a sorcery. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:898
@@ -1556,7 +1556,7 @@ msgid "|mana_1|, Sacrifice another creature: You gain life equal to the sacrific
 msgstr ""
 
 #: ../../OGW.rst:905
-msgid "|mana_1|\\ |mana_w|\\ |mana_b|, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total."
+msgid "|mana_1|\\ |mana_w|\\ |mana_b|, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total."
 msgstr ""
 
 #: ../../OGW.rst:910
@@ -1829,7 +1829,7 @@ msgid ":mtgtip:`Sea Gate Wreckage<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../OGW.rst:1061
-msgid "|mana_2|\\ |colorless|, |tap|: Draw a card. Activate this ability only if you have no cards in hand."
+msgid "|mana_2|\\ |colorless|, |tap|: Draw a card. Activate only if you have no cards in hand."
 msgstr ""
 
 #: ../../OGW.rst:1068

@@ -130,7 +130,7 @@
 :mtgtip:`Hallowed Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/254d5bf0-f985-4919-a142-d4578ae9a38e.jpg?1562901960|https://scryfall.com/card/ody/25/hallowed-healer?utm_source=api>`
    |tap|: Prevent the next 2 damage that would be dealt to any target this turn.
 
-   Threshold — |tap|: Prevent the next 4 damage that would be dealt to any target this turn. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |tap|: Prevent the next 4 damage that would be dealt to any target this turn. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Karmic Justice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2ffb8e7-7ae3-4846-b3da-ca6b4598eb7c.jpg?1562931482|https://scryfall.com/card/ody/26/karmic-justice?utm_source=api>`
@@ -194,7 +194,7 @@
 :mtgtip:`Nomad Decoy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9ffef7c6-e05b-4bef-84aa-8df10be110af.jpg?1562924884|https://scryfall.com/card/ody/37/nomad-decoy?utm_source=api>`
    |mana_w|, |tap|: Tap target creature.
 
-   Threshold — |mana_w|\ |mana_w|, |tap|: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_w|\ |mana_w|, |tap|: Tap two target creatures. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Patrol Hound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e216a539-152b-4a83-98ef-1996182a5714.jpg?1562937268|https://scryfall.com/card/ody/38/patrol-hound?utm_source=api>`
@@ -434,7 +434,7 @@
 
 
 :mtgtip:`Extract<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97f99a3d-d811-4666-aac8-5957068157dc.jpg?1562923233|https://scryfall.com/card/ody/85/extract?utm_source=api>`
-   Search target player's library for a card and exile it. Then that player shuffles their library.
+   Search target player's library for a card and exile it. Then that player shuffles.
 
 
 :mtgtip:`Fervent Denial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed13fdb4-f28a-43c9-a69f-bab227806c39.jpg?1562939482|https://scryfall.com/card/ody/86/fervent-denial?utm_source=api>`
@@ -492,7 +492,7 @@
 :mtgtip:`Pulsating Illusion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3297f28-a15d-43dd-a96e-09701d5f9aed.jpg?1562934456|https://scryfall.com/card/ody/96/pulsating-illusion?utm_source=api>`
    Flying
 
-   Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate this ability only once each turn.
+   Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Puppeteer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/819d5bd2-02bf-4a22-a656-764425711c29.jpg?1562919042|https://scryfall.com/card/ody/97/puppeteer?utm_source=api>`
@@ -594,11 +594,11 @@
 
 
 :mtgtip:`Buried Alive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7db3697e-a31b-45a5-b742-fdfb00ce3929.jpg?1562918234|https://scryfall.com/card/ody/118/buried-alive?utm_source=api>`
-   Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.
+   Search your library for up to three creature cards, put them into your graveyard, then shuffle.
 
 
 :mtgtip:`Cabal Inquisitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0530e09-5206-460e-abd2-e928eca294a5.jpg?1562930913|https://scryfall.com/card/ody/119/cabal-inquisitor?utm_source=api>`
-   Threshold — |mana_1|\ |mana_b|, |tap|, Exile two cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery and only if seven or more cards are in your graveyard.
+   Threshold — |mana_1|\ |mana_b|, |tap|, Exile two cards from your graveyard: Target player discards a card. Activate only as a sorcery and only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Cabal Patriarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d2f0da3-a13e-4a45-98dc-6227cf952a5e.jpg?1562897557|https://scryfall.com/card/ody/120/cabal-patriarch?utm_source=api>`
@@ -650,7 +650,7 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6cf7e1b-00ea-46f8-a20a-76c307167854.jpg?1562941335|https://scryfall.com/card/ody/129/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Dirty Wererat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97d15534-310f-4f9d-be0d-59b0ed8a5f53.jpg?1562923205|https://scryfall.com/card/ody/130/dirty-wererat?utm_source=api>`
@@ -664,7 +664,7 @@
 
 
 :mtgtip:`Entomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f60a2091-fb97-4f04-911b-fce9b6351044.jpg?1562941198|https://scryfall.com/card/ody/132/entomb?utm_source=api>`
-   Search your library for a card and put that card into your graveyard. Then shuffle your library.
+   Search your library for a card, put that card into your graveyard, then shuffle.
 
 
 :mtgtip:`Execute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/333123bc-fb66-4b5a-bf55-045d2906c8c3.jpg?1562904481|https://scryfall.com/card/ody/133/execute?utm_source=api>`
@@ -708,7 +708,7 @@
 
 
 :mtgtip:`Haunting Echoes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/aca4c571-48b8-4150-93f8-4cb5c8e797c4.jpg?1562927203|https://scryfall.com/card/ody/142/haunting-echoes?utm_source=api>`
-   Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles their library.
+   Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Hint of Insanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6abaca0-7ce1-4024-adf6-ef6cc0fbcb75.jpg?1562935119|https://scryfall.com/card/ody/143/hint-of-insanity?utm_source=api>`
@@ -718,7 +718,7 @@
 :mtgtip:`Infected Vermin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00615487-3526-4b4c-bb06-8f2af1f101d0.jpg?1562895063|https://scryfall.com/card/ody/144/infected-vermin?utm_source=api>`
    |mana_2|\ |mana_b|: Infected Vermin deals 1 damage to each creature and each player.
 
-   Threshold — |mana_3|\ |mana_b|: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_3|\ |mana_b|: Infected Vermin deals 3 damage to each creature and each player. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Innocent Blood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d26af8f6-df64-4027-880c-f2fae2d8103f.jpg?1562934288|https://scryfall.com/card/ody/145/innocent-blood?utm_source=api>`
@@ -796,7 +796,7 @@
 
 
 :mtgtip:`Sadistic Hypnotist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98a6fba0-e5fc-4fa8-9895-8e4b8272bebe.jpg?1562923329|https://scryfall.com/card/ody/159/sadistic-hypnotist?utm_source=api>`
-   Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+   Sacrifice a creature: Target player discards two cards. Activate only as a sorcery.
 
 
 :mtgtip:`Screams of the Damned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66cc53cf-13eb-4028-944d-a670ad30dbca.jpg?1562913991|https://scryfall.com/card/ody/160/screams-of-the-damned?utm_source=api>`
@@ -821,7 +821,7 @@
    |mana_1|\ |mana_b|, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn.
 
 
-:mtgtip:`Tainted Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1562931887|https://scryfall.com/card/ody/164/tainted-pact?utm_source=api>`
+:mtgtip:`Tainted Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1618695846|https://scryfall.com/card/ody/164/tainted-pact?utm_source=api>`
    Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.
 
 
@@ -908,7 +908,7 @@
 :mtgtip:`Chainflinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/670a5bba-a10f-41f6-88cd-cef1dfe4bfa9.jpg?1562914041|https://scryfall.com/card/ody/181/chainflinger?utm_source=api>`
    |mana_1|\ |mana_r|, |tap|: Chainflinger deals 1 damage to any target.
 
-   Threshold — |mana_2|\ |mana_r|, |tap|: Chainflinger deals 2 damage to any target. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_2|\ |mana_r|, |tap|: Chainflinger deals 2 damage to any target. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Chance Encounter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57817159-de10-4a68-83e1-971fa9cfee2c.jpg?1562911131|https://scryfall.com/card/ody/182/chance-encounter?utm_source=api>`
@@ -932,7 +932,7 @@
 
 
 :mtgtip:`Dwarven Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a15d274-85b4-4f3c-b502-f6dfe7db4d37.jpg?1562914635|https://scryfall.com/card/ody/186/dwarven-recruiter?utm_source=api>`
-   When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+   When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards, reveal them, then shuffle and put those cards on top in any order.
 
 
 :mtgtip:`Dwarven Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85197997-5e1a-46ce-8f0d-6da5ce297baf.jpg?1562919664|https://scryfall.com/card/ody/187/dwarven-shrine?utm_source=api>`
@@ -1188,13 +1188,13 @@
 
 
 :mtgtip:`Deep Reconnaissance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/148ce683-3911-4b77-9e07-3985766a3777.jpg?1562898898|https://scryfall.com/card/ody/236/deep-reconnaissance?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
    Flashback |mana_4|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 :mtgtip:`Diligent Farmhand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bb40e09-6855-46d5-9bc9-bc6b2b0d7653.jpg?1562917834|https://scryfall.com/card/ody/237/diligent-farmhand?utm_source=api>`
-   |mana_1|\ |mana_g|, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_1|\ |mana_g|, Sacrifice Diligent Farmhand: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
    If Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.
 
@@ -1250,7 +1250,7 @@
 :mtgtip:`Krosan Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0afd6911-32b5-410a-afb0-fd3d2996fe59.jpg?1562897104|https://scryfall.com/card/ody/247/krosan-avenger?utm_source=api>`
    Trample
 
-   Threshold — |mana_1|\ |mana_g|: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_1|\ |mana_g|: Regenerate Krosan Avenger. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Krosan Beast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af822507-fd4c-454b-ab07-106c81c535bf.jpg?1562927648|https://scryfall.com/card/ody/248/krosan-beast?utm_source=api>`
@@ -1292,7 +1292,7 @@
 
 
 :mtgtip:`New Frontiers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd1f6cfa-9576-4bb8-83db-33c2b147206d.jpg?1562942709|https://scryfall.com/card/ody/257/new-frontiers?utm_source=api>`
-   Each player may search their library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched their library this way shuffles it.
+   Each player may search their library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched their library this way shuffles.
 
 
 :mtgtip:`Nimble Mongoose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99e5ecf5-a662-4df0-a6ba-9177c62b6503.jpg?1562923593|https://scryfall.com/card/ody/258/nimble-mongoose?utm_source=api>`
@@ -1332,7 +1332,7 @@
 
 
 :mtgtip:`Rites of Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bddb0ef-fdda-491b-a0cf-48cbdd761918.jpg?1562900220|https://scryfall.com/card/ody/265/rites-of-spring?utm_source=api>`
-   Discard any number of cards. Search your library for up to that many basic land cards, reveal those cards, and put them into your hand. Then shuffle your library.
+   Discard any number of cards. Search your library for up to that many basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Roar of the Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.jpg?1562936406|https://scryfall.com/card/ody/266/roar-of-the-wurm?utm_source=api>`
@@ -1408,7 +1408,7 @@
 
 
 :mtgtip:`Verdant Succession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd3c78de-0c2a-441e-8912-ff920fc563ef.jpg?1562930342|https://scryfall.com/card/ody/280/verdant-succession?utm_source=api>`
-   Whenever a green nontoken creature dies, that creature's controller may search their library for a card with the same name as that creature and put it onto the battlefield. If that player does, they shuffle their library.
+   Whenever a green nontoken creature dies, that creature's controller may search their library for a card with the same name as that creature, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Vivify<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8b5e7ed-a0ab-48f6-8f69-56a8bd115007.jpg?1562941739|https://scryfall.com/card/ody/281/vivify?utm_source=api>`
@@ -1504,7 +1504,7 @@
 
 
 :mtgtip:`Charmed Pendant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/701942dd-7777-436f-8076-194584be8285.jpg?1562915770|https://scryfall.com/card/ody/298/charmed-pendant?utm_source=api>`
-   |tap|, Mill a card: For each colored mana symbol in the milled card's mana cost, add one mana of that color. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is |mana_3|\ |mana_u|\ |mana_u|\ |mana_b|, you add |mana_u|\ |mana_u|\ |mana_b|.)
+   |tap|, Mill a card: For each colored mana symbol in the milled card's mana cost, add one mana of that color. Activate only as an instant. (For example, if the card's mana cost is |mana_3|\ |mana_u|\ |mana_u|\ |mana_b|, you add |mana_u|\ |mana_u|\ |mana_b|.)
 
 
 :mtgtip:`Darkwater Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb988572-1e1d-4b1d-8dc7-78bda966554e.jpg?1562942414|https://scryfall.com/card/ody/299/darkwater-egg?utm_source=api>`
@@ -1578,7 +1578,7 @@
 :mtgtip:`Barbarian Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/1809361e-ae1a-4c47-8464-e6496e94d962.jpg?1562899549|https://scryfall.com/card/ody/313/barbarian-ring?utm_source=api>`
    |tap|: Add |mana_r|. Barbarian Ring deals 1 damage to you.
 
-   Threshold — |mana_r|, |tap|, Sacrifice Barbarian Ring: It deals 2 damage to any target. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_r|, |tap|, Sacrifice Barbarian Ring: It deals 2 damage to any target. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Bog Wreckage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/189b4925-b34b-43bd-869e-1b1db99450e6.jpg?1562899643|https://scryfall.com/card/ody/314/bog-wreckage?utm_source=api>`
@@ -1592,19 +1592,19 @@
 :mtgtip:`Cabal Pit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/848d686a-e2f7-488d-947f-a555099b74b1.jpg?1562919598|https://scryfall.com/card/ody/315/cabal-pit?utm_source=api>`
    |tap|: Add |mana_b|. Cabal Pit deals 1 damage to you.
 
-   Threshold — |mana_b|, |tap|, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_b|, |tap|, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Centaur Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca041d5e-c65f-4e7e-ae4f-9c748a069aa3.jpg?1562932777|https://scryfall.com/card/ody/316/centaur-garden?utm_source=api>`
    |tap|: Add |mana_g|. Centaur Garden deals 1 damage to you.
 
-   Threshold — |mana_g|, |tap|, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_g|, |tap|, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Cephalid Coliseum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5d74112-7244-4c3f-a5eb-b6be671aefe8.jpg?1562934946|https://scryfall.com/card/ody/317/cephalid-coliseum?utm_source=api>`
    |tap|: Add |mana_u|. Cephalid Coliseum deals 1 damage to you.
 
-   Threshold — |mana_u|, |tap|, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_u|, |tap|, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Crystal Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/1012124a-5401-4bd1-a163-4633d934938f.jpg?1562898131|https://scryfall.com/card/ody/318/crystal-quarry?utm_source=api>`
@@ -1630,7 +1630,7 @@
 :mtgtip:`Nomad Stadium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64300b71-050f-47a3-83be-f24480bdc01d.jpg?1562913556|https://scryfall.com/card/ody/322/nomad-stadium?utm_source=api>`
    |tap|: Add |mana_w|. Nomad Stadium deals 1 damage to you.
 
-   Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Petrified Field<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaeaf9f2-d196-4607-a704-06f2315d8cc5.jpg?1562938986|https://scryfall.com/card/ody/323/petrified-field?utm_source=api>`

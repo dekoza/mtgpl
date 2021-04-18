@@ -214,7 +214,7 @@
 
 
 :mtgtip:`Silkwrap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68ee9009-59a7-40e6-bf1a-1d26d4b399e8.jpg?1562787647|https://scryfall.com/card/dtk/38/silkwrap?utm_source=api>`
-   When Silkwrap enters the battlefield, exile target creature with converted mana cost 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)
+   When Silkwrap enters the battlefield, exile target creature with mana value 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)
 
 
 :mtgtip:`Strongarm Monk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f5f5ead-b9e0-44c0-893f-0e3ae01933d3.jpg?1562782601|https://scryfall.com/card/dtk/39/strongarm-monk?utm_source=api>`
@@ -344,7 +344,7 @@
 :mtgtip:`Living Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f658281-1c6c-4450-8d75-81714dbd0472.jpg?1562789832|https://scryfall.com/card/dtk/61/living-lore?utm_source=api>`
    As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.
 
-   Living Lore's power and toughness are each equal to the exiled card's converted mana cost.
+   Living Lore's power and toughness are each equal to the exiled card's mana value.
 
    Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.
 
@@ -664,7 +664,7 @@
 
    Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
 
-   When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.
+   When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Silumgar Assassin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecc4693f-59fe-4671-b8c6-66fe53a76bbe.jpg?1562795170|https://scryfall.com/card/dtk/121/silumgar-assassin?utm_source=api>`
@@ -712,7 +712,7 @@
 
 
 :mtgtip:`Atarka Pummeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d55f2528-f37f-46b9-b95f-4d142f656723.jpg?1562793643|https://scryfall.com/card/dtk/129/atarka-pummeler?utm_source=api>`
-   Formidable — |mana_3|\ |mana_r|\ |mana_r|: Creatures you control gain menace until end of turn. Activate this ability only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)
+   Formidable — |mana_3|\ |mana_r|\ |mana_r|: Creatures you control gain menace until end of turn. Activate only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)
 
 
 :mtgtip:`Berserkers' Onslaught<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee571a78-16b2-40ba-92b2-87c1bf4b39bc.jpg?1562795277|https://scryfall.com/card/dtk/130/berserkers-onslaught?utm_source=api>`
@@ -726,7 +726,7 @@
 :mtgtip:`Crater Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4ee8d1f-00e8-44e3-b125-ef98e1461263.jpg?1562792745|https://scryfall.com/card/dtk/132/crater-elemental?utm_source=api>`
    |mana_r|, |tap|, Sacrifice Crater Elemental: It deals 4 damage to target creature.
 
-   Formidable — |mana_2|\ |mana_r|: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_2|\ |mana_r|: Crater Elemental has base power 8 until end of turn. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Descent of the Dragons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ab919f3-5797-406b-ae1f-7a7c27739b2d.jpg?1562786809|https://scryfall.com/card/dtk/133/descent-of-the-dragons?utm_source=api>`
@@ -754,7 +754,7 @@
 
    |mana_1|\ |mana_r|: Dragon Whisperer gets +1/+0 until end of turn.
 
-   Formidable — |mana_4|\ |mana_r|\ |mana_r|: Create a 4/4 red Dragon creature token with flying. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_4|\ |mana_r|\ |mana_r|: Create a 4/4 red Dragon creature token with flying. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Dragonlord's Servant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0ffcdd54-b6be-4d42-82c0-ae927037e859.jpg?1562782618|https://scryfall.com/card/dtk/138/dragonlords-servant?utm_source=api>`
@@ -840,7 +840,7 @@
 
 
 :mtgtip:`Sarkhan's Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9a0ff4d-060e-41dc-8b79-1fa42838adf2.jpg?1562795971|https://scryfall.com/card/dtk/154/sarkhans-triumph?utm_source=api>`
-   Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Screamreach Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bfab1c5-e267-43a9-ae16-f6b8ae531eef.jpg?1562787854|https://scryfall.com/card/dtk/155/screamreach-brawler?utm_source=api>`
@@ -908,7 +908,7 @@
 
 
 :mtgtip:`Volcanic Vision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/979da13b-9be6-49cc-a62c-67eeea289612.jpg?1562790292|https://scryfall.com/card/dtk/167/volcanic-vision?utm_source=api>`
-   Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision.
+   Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's mana value to each creature your opponents control. Exile Volcanic Vision.
 
 
 :mtgtip:`Warbringer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed4951ef-2519-4511-b952-c835cd81def7.jpg?1562795206|https://scryfall.com/card/dtk/168/warbringer?utm_source=api>`
@@ -948,7 +948,7 @@
 
 
 :mtgtip:`Atarka Beastbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8ef9a03-3044-4e90-9409-c330972fcafb.jpg?1562793019|https://scryfall.com/card/dtk/174/atarka-beastbreaker?utm_source=api>`
-   Formidable — |mana_4|\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_4|\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Avatar of the Resolute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bf18a2f-f93e-4a18-92d5-c9d2cca276d7.jpg?1562788757|https://scryfall.com/card/dtk/175/avatar-of-the-resolute?utm_source=api>`
@@ -960,11 +960,11 @@
 :mtgtip:`Circle of Elders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a99df522-cc97-41e3-8073-72e092afe8bb.jpg?1562791288|https://scryfall.com/card/dtk/176/circle-of-elders?utm_source=api>`
    Vigilance
 
-   Formidable — |tap|: Add |colorless|\ |colorless|\ |colorless|. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |tap|: Add |colorless|\ |colorless|\ |colorless|. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Collected Company<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfa7b456-7e83-4587-a875-9b35fde318c2.jpg?1582117536|https://scryfall.com/card/dtk/177/collected-company?utm_source=api>`
-   Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+   Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
 
 
 :mtgtip:`Colossodon Yearling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2c60e63-0b86-4100-a932-bb9e9b197610.jpg?1562795540|https://scryfall.com/card/dtk/178/colossodon-yearling?utm_source=api>`
@@ -1000,7 +1000,7 @@
 
 
 :mtgtip:`Dragon-Scarred Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/689a6390-894a-4d31-87c2-f9cec3b187a7.jpg?1562787624|https://scryfall.com/card/dtk/183/dragon-scarred-bear?utm_source=api>`
-   Formidable — |mana_1|\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_1|\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Dromoka's Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a356afb6-19d7-459a-84ca-090924d45387.jpg?1562790928|https://scryfall.com/card/dtk/184/dromokas-gift?utm_source=api>`
@@ -1012,7 +1012,7 @@
 
 
 :mtgtip:`Explosive Vegetation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f9d3ec9-49d2-4322-aeb1-522aac380fd3.jpg?1562785221|https://scryfall.com/card/dtk/186/explosive-vegetation?utm_source=api>`
-   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Foe-Razer Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04a266c3-de47-4e94-bdc4-210e34981de3.jpg?1562781935|https://scryfall.com/card/dtk/187/foe-razer-regent?utm_source=api>`
@@ -1026,7 +1026,7 @@
 :mtgtip:`Glade Watcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02c9c6d9-e715-4b70-a10e-8bc5a4e9e938.jpg?1562781880|https://scryfall.com/card/dtk/188/glade-watcher?utm_source=api>`
    Defender
 
-   Formidable — |mana_g|: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_g|: Glade Watcher can attack this turn as though it didn't have defender. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Guardian Shield-Bearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dcbd7958-29a0-4f59-9648-eabe0fbfb4f9.jpg?1562794106|https://scryfall.com/card/dtk/189/guardian-shield-bearer?utm_source=api>`
@@ -1048,7 +1048,7 @@
 
 
 :mtgtip:`Lurking Arynx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f59bc0b-88de-4580-bfc8-5af911d9ee99.jpg?1562788949|https://scryfall.com/card/dtk/192/lurking-arynx?utm_source=api>`
-   Formidable — |mana_2|\ |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_2|\ |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Naturalize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a766442-bbfd-4869-9cf5-918d9117c359.jpg?1562785736|https://scryfall.com/card/dtk/193/naturalize?utm_source=api>`
@@ -1108,7 +1108,7 @@
 :mtgtip:`Shaman of Forgotten Ways<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3e9c8f7-2232-4a2a-8a00-0a2908bc7543.jpg?1562790967|https://scryfall.com/card/dtk/204/shaman-of-forgotten-ways?utm_source=api>`
    |tap|: Add two mana in any combination of colors. Spend this mana only to cast creature spells.
 
-   Formidable — |mana_9|\ |mana_g|\ |mana_g|, |tap|: Each player's life total becomes the number of creatures they control. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_9|\ |mana_g|\ |mana_g|, |tap|: Each player's life total becomes the number of creatures they control. Activate only if creatures you control have total power 8 or greater.
 
 
 :mtgtip:`Shape the Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0243dde4-29c9-4e47-9129-8e01296851cc.jpg?1562781846|https://scryfall.com/card/dtk/205/shape-the-sands?utm_source=api>`
@@ -1262,7 +1262,7 @@
 :mtgtip:`Ojutai's Command<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7a7f500-594d-4c7b-80e8-54ae1ada2444.jpg?1562792959|https://scryfall.com/card/dtk/227/ojutais-command?utm_source=api>`
    Choose two —
 
-   • Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   • Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
    • You gain 4 life.
 
@@ -1288,7 +1288,7 @@
 
    −2: Create a 4/4 red Dragon creature token with flying.
 
-   −8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.
+   −8: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Savage Ventmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/690008d1-d1fe-49ad-810c-84be57cecc6c.jpg?1562787649|https://scryfall.com/card/dtk/231/savage-ventmaw?utm_source=api>`
@@ -1312,7 +1312,7 @@
 :mtgtip:`Swift Warkite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f62db9d7-3cc7-49cb-bffc-d2f9c286aa36.jpg?1562795750|https://scryfall.com/card/dtk/233/swift-warkite?utm_source=api>`
    Flying
 
-   When Swift Warkite enters the battlefield, you may put a creature card with converted mana cost 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
+   When Swift Warkite enters the battlefield, you may put a creature card with mana value 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
 
 
 :mtgtip:`Ancestral Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7124a6f-b690-4326-93b5-036a8c520c1f.jpg?1562792909|https://scryfall.com/card/dtk/234/ancestral-statue?utm_source=api>`
@@ -1386,7 +1386,7 @@
 
 
 :mtgtip:`Tapestry of the Ages<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/122e5e24-d704-4f1c-9577-0f25aaabb7ed.jpg?1562782685|https://scryfall.com/card/dtk/246/tapestry-of-the-ages?utm_source=api>`
-   |mana_2|, |tap|: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.
+   |mana_2|, |tap|: Draw a card. Activate only if you've cast a noncreature spell this turn.
 
 
 :mtgtip:`Vial of Dragonfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e50e88fe-307a-4944-9233-14df4e0bb775.jpg?1562794644|https://scryfall.com/card/dtk/247/vial-of-dragonfire?utm_source=api>`
@@ -1394,7 +1394,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb66398d-afb4-41d9-a8b8-ec115d2ad5f2.jpg?1562795079|https://scryfall.com/card/dtk/248/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Haven of the Spirit Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9910042e-091f-47da-ad29-8f76c9d3b8c1.jpg?1562790367|https://scryfall.com/card/dtk/249/haven-of-the-spirit-dragon?utm_source=api>`

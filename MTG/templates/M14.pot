@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -374,7 +374,7 @@ msgid ":mtgtip:`Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../M14.rst:185
-msgid "Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)"
+msgid "Your opponents can't cast spells this turn."
 msgstr ""
 
 #: ../../M14.rst:190
@@ -529,7 +529,7 @@ msgid "When Elite Arcanist enters the battlefield, you may exile an instant card
 msgstr ""
 
 #: ../../M14.rst:277
-msgid "|mana_x|, |tap|: Copy the exiled card. You may cast the copy without paying its mana cost. X is the converted mana cost of the exiled card."
+msgid "|mana_x|, |tap|: Copy the exiled card. You may cast the copy without paying its mana cost. X is the mana value of the exiled card."
 msgstr ""
 
 #: ../../M14.rst:282
@@ -686,7 +686,7 @@ msgid ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../M14.rst:369
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+msgid "Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../M14.rst:374
@@ -830,7 +830,7 @@ msgid ":mtgtip:`Bogbrew Witch<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../M14.rst:447
-msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M14.rst:452
@@ -891,7 +891,7 @@ msgid ":mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M14.rst:481
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../M14.rst:486
@@ -947,7 +947,7 @@ msgid ":mtgtip:`Liliana of the Dark Realms<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../M14.rst:511
-msgid "+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "+1: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M14.rst:513
@@ -1055,7 +1055,7 @@ msgid "A deck can have any number of cards named Shadowborn Apostle."
 msgstr ""
 
 #: ../../M14.rst:577
-msgid "|mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../M14.rst:586
@@ -1544,7 +1544,7 @@ msgid "−3: You may put a green creature card from your hand onto the battlefie
 msgstr ""
 
 #: ../../M14.rst:855
-msgid "−7: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\""
+msgid "−7: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle.\""
 msgstr ""
 
 #: ../../M14.rst:864
@@ -1638,7 +1638,7 @@ msgid ":mtgtip:`Lay of the Land<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../M14.rst:907
-msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M14.rst:912
@@ -1718,7 +1718,7 @@ msgid ":mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../M14.rst:947
-msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../M14.rst:950
@@ -1918,7 +1918,7 @@ msgid "Equipped creature gets +4/+4."
 msgstr ""
 
 #: ../../M14.rst:1055
-msgid "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures."
+msgid "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate only if you control no creatures."
 msgstr ""
 
 #: ../../M14.rst:1057
@@ -1950,7 +1950,7 @@ msgid "|tap|: Put a charge counter on Ratchet Bomb."
 msgstr ""
 
 #: ../../M14.rst:1071
-msgid "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb."
+msgid "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
 
 #: ../../M14.rst:1078
@@ -1962,7 +1962,7 @@ msgid "Ring of Three Wishes enters the battlefield with three wish counters on i
 msgstr ""
 
 #: ../../M14.rst:1077
-msgid "|mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "|mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../M14.rst:1082

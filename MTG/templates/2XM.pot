@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,7 +108,7 @@ msgid ":mtgtip:`Auriok Salvagers<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../2XM.rst:43
-msgid "|mana_1|\\ |mana_w|: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand."
+msgid "|mana_1|\\ |mana_w|: Return target artifact card with mana value 1 or less from your graveyard to your hand."
 msgstr ""
 
 #: ../../2XM.rst:56
@@ -128,11 +128,11 @@ msgid "Destroy all enchantments."
 msgstr ""
 
 #: ../../2XM.rst:53
-msgid "Destroy all creatures with converted mana cost 3 or less."
+msgid "Destroy all creatures with mana value 3 or less."
 msgstr ""
 
 #: ../../2XM.rst:55
-msgid "Destroy all creatures with converted mana cost 4 or greater."
+msgid "Destroy all creatures with mana value 4 or greater."
 msgstr ""
 
 #: ../../2XM.rst:62
@@ -265,7 +265,7 @@ msgid ":mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../2XM.rst:119
-msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:124
@@ -309,7 +309,7 @@ msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../2XM.rst:141
-msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:148
@@ -373,7 +373,7 @@ msgid ":mtgtip:`Stoneforge Mystic<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../2XM.rst:175
-msgid "When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:177
@@ -389,7 +389,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../2XM.rst:183
-msgid "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library."
+msgid "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:188
@@ -470,7 +470,7 @@ msgid ":mtgtip:`Arcum Dagsson<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../2XM.rst:225
-msgid "|tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle their library."
+msgid "|tap|: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:230
@@ -718,7 +718,7 @@ msgid "As an additional cost to cast this spell, sacrifice an artifact."
 msgstr ""
 
 #: ../../2XM.rst:353
-msgid "Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library."
+msgid "Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:358
@@ -734,7 +734,7 @@ msgid ":mtgtip:`Rush of Knowledge<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../2XM.rst:361
-msgid "Draw cards equal to the highest converted mana cost among permanents you control."
+msgid "Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
 
 #: ../../2XM.rst:368
@@ -799,7 +799,7 @@ msgid ":mtgtip:`Treasure Mage<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../2XM.rst:395
-msgid "When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
+msgid "When Treasure Mage enters the battlefield, you may search your library for an artifact card with mana value 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:400
@@ -831,7 +831,7 @@ msgid ":mtgtip:`Ad Nauseam<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../2XM.rst:411
-msgid "Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times."
+msgid "Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. You may repeat this process any number of times."
 msgstr ""
 
 #: ../../2XM.rst:416
@@ -880,7 +880,7 @@ msgid ":mtgtip:`Dark Confidant<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../2XM.rst:435
-msgid "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost."
+msgid "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value."
 msgstr ""
 
 #: ../../2XM.rst:440
@@ -896,7 +896,7 @@ msgid ":mtgtip:`Defiant Salvager<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../2XM.rst:443
-msgid "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery."
+msgid "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate only as a sorcery."
 msgstr ""
 
 #: ../../2XM.rst:448
@@ -956,7 +956,7 @@ msgid ":mtgtip:`Driver of the Dead<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../2XM.rst:473
-msgid "When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "When Driver of the Dead dies, return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../2XM.rst:478
@@ -980,11 +980,11 @@ msgid ":mtgtip:`Fatal Push<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../2XM.rst:485
-msgid "Destroy target creature if it has converted mana cost 2 or less."
+msgid "Destroy target creature if it has mana value 2 or less."
 msgstr ""
 
 #: ../../2XM.rst:487
-msgid "Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn."
+msgid "Revolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn."
 msgstr ""
 
 #: ../../2XM.rst:494
@@ -996,7 +996,7 @@ msgid "Intimidate (This creature can't be blocked except by artifact creatures a
 msgstr ""
 
 #: ../../2XM.rst:493
-msgid "|mana_x|\\ |mana_b|: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards."
+msgid "|mana_x|\\ |mana_b|: Put target artifact or creature card with mana value X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards."
 msgstr ""
 
 #: ../../2XM.rst:500
@@ -1108,7 +1108,7 @@ msgid ":mtgtip:`Skirsdag High Priest<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../2XM.rst:553
-msgid "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate this ability only if a creature died this turn."
+msgid "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate only if a creature died this turn."
 msgstr ""
 
 #: ../../2XM.rst:564
@@ -1164,7 +1164,7 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr ""
 
 #: ../../2XM.rst:583
-msgid "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../2XM.rst:590
@@ -1245,7 +1245,7 @@ msgid ":mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../2XM.rst:625
-msgid "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater."
+msgid "|tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater."
 msgstr ""
 
 #: ../../2XM.rst:632
@@ -1336,7 +1336,7 @@ msgid ":mtgtip:`Godo, Bandit Warlord<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../2XM.rst:673
-msgid "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library."
+msgid "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:675
@@ -1364,7 +1364,7 @@ msgid ":mtgtip:`Imperial Recruiter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../2XM.rst:687
-msgid "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library."
+msgid "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:692
@@ -1380,7 +1380,7 @@ msgid ":mtgtip:`Kazuul's Toll Collector<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../2XM.rst:695
-msgid "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. Activate only as a sorcery."
 msgstr ""
 
 #: ../../2XM.rst:700
@@ -1492,7 +1492,7 @@ msgid ":mtgtip:`Temur Battle Rage<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../2XM.rst:753
-msgid "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
+msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../2XM.rst:755
@@ -1540,7 +1540,7 @@ msgid ":mtgtip:`Ancient Stirrings<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../2XM.rst:783
-msgid "Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)"
+msgid "Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../2XM.rst:790
@@ -1617,7 +1617,7 @@ msgid "Convoke (Your creatures can help cast this spell. Each creature you tap w
 msgstr ""
 
 #: ../../2XM.rst:821
-msgid "Search your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library."
+msgid "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:826
@@ -1645,7 +1645,7 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr ""
 
 #: ../../2XM.rst:835
-msgid "Search your library for a land card, put that card onto the battlefield, then shuffle your library."
+msgid "Search your library for a land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:844
@@ -1689,7 +1689,7 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../2XM.rst:861
-msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../2XM.rst:866
@@ -1713,7 +1713,7 @@ msgid ":mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../2XM.rst:873
-msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
+msgid "When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:878
@@ -1881,7 +1881,7 @@ msgid ":mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../2XM.rst:963
-msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it."
+msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:970
@@ -1893,7 +1893,7 @@ msgid "|tap|: Add |mana_g|."
 msgstr ""
 
 #: ../../2XM.rst:969
-msgid "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if you control a creature with power 4 or greater."
+msgid "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate only if you control a creature with power 4 or greater."
 msgstr ""
 
 #: ../../2XM.rst:974
@@ -2210,7 +2210,7 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../2XM.rst:1145
-msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery."
 msgstr ""
 
 #: ../../2XM.rst:1154
@@ -2262,7 +2262,7 @@ msgid ":mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../2XM.rst:1175
-msgid "When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1180
@@ -2449,7 +2449,7 @@ msgid ":mtgtip:`Bosh, Iron Golem<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../2XM.rst:1269
-msgid "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to any target."
+msgid "|mana_3|\\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target."
 msgstr ""
 
 #: ../../2XM.rst:1274
@@ -2601,7 +2601,7 @@ msgid ":mtgtip:`Endless Atlas<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../2XM.rst:1349
-msgid "|mana_2|, |tap|: Draw a card. Activate this ability only if you control three or more lands with the same name."
+msgid "|mana_2|, |tap|: Draw a card. Activate only if you control three or more lands with the same name."
 msgstr ""
 
 #: ../../2XM.rst:1356
@@ -2614,7 +2614,7 @@ msgid "Sunburst (This enters the battlefield with a charge counter on it for eac
 msgstr ""
 
 #: ../../2XM.rst:1355
-msgid "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives."
+msgid "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent with mana value equal to the number of charge counters on Engineered Explosives."
 msgstr ""
 
 #: ../../2XM.rst:1360
@@ -2630,7 +2630,7 @@ msgid ":mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../2XM.rst:1363
-msgid "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)"
+msgid "Multikicker |mana_2|"
 msgstr ""
 
 #: ../../2XM.rst:1365
@@ -2646,7 +2646,7 @@ msgid ":mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../2XM.rst:1371
-msgid "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1380
@@ -2735,7 +2735,7 @@ msgid ":mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../2XM.rst:1425
-msgid "Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand."
+msgid "Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand."
 msgstr ""
 
 #: ../../2XM.rst:1427
@@ -2755,7 +2755,7 @@ msgid ":mtgtip:`Kuldotha Forgemaster<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../2XM.rst:1437
-msgid "|tap|, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library."
+msgid "|tap|, Sacrifice three artifacts: Search your library for an artifact card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1444
@@ -2865,7 +2865,7 @@ msgid ":mtgtip:`Mox Opal<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../2XM.rst:1483
-msgid "Metalcraft — |tap|: Add one mana of any color. Activate this ability only if you control three or more artifacts."
+msgid "Metalcraft — |tap|: Add one mana of any color. Activate only if you control three or more artifacts."
 msgstr ""
 
 #: ../../2XM.rst:1490
@@ -2965,7 +2965,7 @@ msgid "|tap|: Put a charge counter on Ratchet Bomb."
 msgstr ""
 
 #: ../../2XM.rst:1535
-msgid "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb."
+msgid "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
 
 #: ../../2XM.rst:1542
@@ -3049,7 +3049,7 @@ msgid "Equipped creature gets +4/+0."
 msgstr ""
 
 #: ../../2XM.rst:1587
-msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
+msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle."
 msgstr ""
 
 #: ../../2XM.rst:1589
@@ -3153,7 +3153,7 @@ msgid ":mtgtip:`Treasure Keeper<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../2XM.rst:1651
-msgid "When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with converted mana cost 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order."
+msgid "When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../2XM.rst:1656
@@ -3237,7 +3237,7 @@ msgid ":mtgtip:`Ash Barrens<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../2XM.rst:1697
-msgid "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../2XM.rst:1706

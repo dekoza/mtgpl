@@ -440,7 +440,7 @@
 
 
 :mtgtip:`Appetite for Brains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/062ee892-cce7-42bd-97c7-032cec61faca.jpg?1592708749|https://scryfall.com/card/avr/84/appetite-for-brains?utm_source=api>`
-   Target opponent reveals their hand. You choose a card from it with converted mana cost 4 or greater and exile that card.
+   Target opponent reveals their hand. You choose a card from it with mana value 4 or greater and exile that card.
 
 
 :mtgtip:`Barter in Blood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39b4fab6-73ce-4a56-a305-4d2e93dbb4ee.jpg?1592708755|https://scryfall.com/card/avr/85/barter-in-blood?utm_source=api>`
@@ -466,7 +466,7 @@
 
 
 :mtgtip:`Corpse Traders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df3eed10-7a8f-4c89-8be8-389f979e10b7.jpg?1592708789|https://scryfall.com/card/avr/90/corpse-traders?utm_source=api>`
-   |mana_2|\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Crypt Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/0382cb94-0836-4e23-99b7-034faa363203.jpg?1592708795|https://scryfall.com/card/avr/91/crypt-creeper?utm_source=api>`
@@ -510,7 +510,7 @@
 
 
 :mtgtip:`Driver of the Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56113cde-4210-46be-bd53-8966c36ef2a3.jpg?1592708847|https://scryfall.com/card/avr/99/driver-of-the-dead?utm_source=api>`
-   When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+   When Driver of the Dead dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Essence Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c3fac03-a019-4faa-bc1c-09e3a394fff7.jpg?1592708852|https://scryfall.com/card/avr/100/essence-harvest?utm_source=api>`
@@ -864,7 +864,7 @@
 
 
 :mtgtip:`Borderland Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f067c26-c51d-44d0-a0af-106b5778f06a.jpg?1592709289|https://scryfall.com/card/avr/169/borderland-ranger?utm_source=api>`
-   When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Bower Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9f0048f-aaa0-4597-b898-ee754d0bbe4b.jpg?1592709295|https://scryfall.com/card/avr/170/bower-passage?utm_source=api>`
@@ -884,7 +884,7 @@
 
 
 :mtgtip:`Descendants' Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ada93208-5cda-4e2d-b9a7-15345e30b831.jpg?1592709317|https://scryfall.com/card/avr/173/descendants-path?utm_source=api>`
-   At the beginning of your upkeep, reveal the top card of your library. You may cast it without paying its mana cost if it's a creature spell that shares a creature type with a creature you control. Otherwise, put that card on the bottom of your library.
+   At the beginning of your upkeep, reveal the top card of your library. If it's a creature card that shares a creature type with a creature you control, you may cast it without paying its mana cost. If you don't cast it, put it on the bottom of your library.
 
 
 :mtgtip:`Diregraf Escort<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/640e21ad-5064-41bc-886e-2c997f69a3f5.jpg?1592709325|https://scryfall.com/card/avr/174/diregraf-escort?utm_source=api>`

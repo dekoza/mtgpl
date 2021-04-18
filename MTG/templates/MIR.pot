@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,7 +137,7 @@ msgid ":mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MIR.rst:61
-msgid "Destroy target artifact. You gain life equal to its converted mana cost."
+msgid "Destroy target artifact. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../MIR.rst:66
@@ -161,7 +161,7 @@ msgid ":mtgtip:`Enlightened Tutor<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MIR.rst:73
-msgid "Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../MIR.rst:78
@@ -260,7 +260,7 @@ msgid ":mtgtip:`Illumination<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../MIR.rst:111
-msgid "Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost."
+msgid "Counter target artifact or enchantment spell. Its controller gains life equal to its mana value."
 msgstr ""
 
 #: ../../MIR.rst:116
@@ -376,7 +376,7 @@ msgid "Flying"
 msgstr ""
 
 #: ../../MIR.rst:155
-msgid "|mana_w|, |tap|: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep."
+msgid "|mana_w|, |tap|: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../MIR.rst:160
@@ -623,7 +623,7 @@ msgid ":mtgtip:`Azimaet Drake<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../MIR.rst:303
-msgid "|mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate this ability only once each turn."
+msgid "|mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../MIR.rst:308
@@ -727,7 +727,7 @@ msgid "At the beginning of the chosen player's upkeep, Energy Vortex deals 3 dam
 msgstr ""
 
 #: ../../MIR.rst:357
-msgid "|mana_x|: Put X vortex counters on Energy Vortex. Activate this ability only during your upkeep."
+msgid "|mana_x|: Put X vortex counters on Energy Vortex. Activate only during your upkeep."
 msgstr ""
 
 #: ../../MIR.rst:362
@@ -763,7 +763,7 @@ msgid ":mtgtip:`Hakim, Loreweaver<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MIR.rst:379
-msgid "|mana_u|\\ |mana_u|: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate this ability only during your upkeep and only if Hakim isn't enchanted."
+msgid "|mana_u|\\ |mana_u|: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate only during your upkeep and only if Hakim isn't enchanted."
 msgstr ""
 
 #: ../../MIR.rst:381
@@ -894,7 +894,7 @@ msgid ":mtgtip:`Mystical Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../MIR.rst:447
-msgid "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../MIR.rst:452
@@ -1383,7 +1383,7 @@ msgid ":mtgtip:`Mire Shade<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../MIR.rst:725
-msgid "|mana_b|, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_b|, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:730
@@ -1455,7 +1455,7 @@ msgid ":mtgtip:`Sewer Rats<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../MIR.rst:763
-msgid "|mana_b|, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn."
+msgid "|mana_b|, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate no more than three times each turn."
 msgstr ""
 
 #: ../../MIR.rst:770
@@ -1539,7 +1539,7 @@ msgid ":mtgtip:`Tainted Specter<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MIR.rst:815
-msgid "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Target player discards a card unless they put a card from their hand on top of their library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Target player discards a card unless they put a card from their hand on top of their library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:824
@@ -1567,7 +1567,7 @@ msgid "|mana_b|, Sacrifice Urborg Panther: Destroy target creature blocking Urbo
 msgstr ""
 
 #: ../../MIR.rst:829
-msgid "Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library."
+msgid "Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:836
@@ -1831,7 +1831,7 @@ msgid ":mtgtip:`Goblin Tinkerer<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MIR.rst:987
-msgid "|mana_r|, |tap|: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer."
+msgid "|mana_r|, |tap|: Destroy target artifact. That artifact deals damage equal to its mana value to Goblin Tinkerer."
 msgstr ""
 
 #: ../../MIR.rst:994
@@ -1843,7 +1843,7 @@ msgid "Hammer of Bogardan deals 3 damage to any target."
 msgstr ""
 
 #: ../../MIR.rst:993
-msgid "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep."
+msgid "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../MIR.rst:1000
@@ -2051,7 +2051,7 @@ msgid ":mtgtip:`Zirilan of the Claw<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../MIR.rst:1109
-msgid "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step."
+msgid "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Search your library for a Dragon permanent card, put that card onto the battlefield, then shuffle. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step."
 msgstr ""
 
 #: ../../MIR.rst:1118
@@ -2260,7 +2260,7 @@ msgid "|mana_g|: Regenerate Locust Swarm."
 msgstr ""
 
 #: ../../MIR.rst:1223
-msgid "|mana_g|: Untap Locust Swarm. Activate this ability only once each turn."
+msgid "|mana_g|: Untap Locust Swarm. Activate only once each turn."
 msgstr ""
 
 #: ../../MIR.rst:1230
@@ -2304,7 +2304,7 @@ msgid ":mtgtip:`Natural Balance<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MIR.rst:1249
-msgid "Each player who controls six or more lands chooses five lands they control and sacrifices the rest. Each player who controls four or fewer lands may search their library for up to X basic land cards and put them onto the battlefield, where X is five minus the number of lands they control. Then each player who searched their library this way shuffles it."
+msgid "Each player who controls six or more lands chooses five lands they control and sacrifices the rest. Each player who controls four or fewer lands may search their library for up to X basic land cards and put them onto the battlefield, where X is five minus the number of lands they control. Then each player who searched their library this way shuffles."
 msgstr ""
 
 #: ../../MIR.rst:1254
@@ -2345,7 +2345,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../MIR.rst:1269
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1276
@@ -2405,7 +2405,7 @@ msgid ":mtgtip:`Seeds of Innocence<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../MIR.rst:1303
-msgid "Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its converted mana cost."
+msgid "Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its mana value."
 msgstr ""
 
 #: ../../MIR.rst:1308
@@ -2513,7 +2513,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../MIR.rst:1359
-msgid "Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate this ability only once each turn."
+msgid "Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate only once each turn."
 msgstr ""
 
 #: ../../MIR.rst:1364
@@ -2525,7 +2525,7 @@ msgid ":mtgtip:`Worldly Tutor<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../MIR.rst:1367
-msgid "Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "Search your library for a creature card, reveal it, then shuffle and put the card on top."
 msgstr ""
 
 #: ../../MIR.rst:1374
@@ -2677,7 +2677,7 @@ msgid ":mtgtip:`Kaervek's Purge<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MIR.rst:1455
-msgid "Destroy target creature with converted mana cost X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller."
+msgid "Destroy target creature with mana value X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller."
 msgstr ""
 
 #: ../../MIR.rst:1462
@@ -2781,7 +2781,7 @@ msgid "|mana_4|: Sawback Manticore gains flying until end of turn."
 msgstr ""
 
 #: ../../MIR.rst:1511
-msgid "|mana_1|: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn."
+msgid "|mana_1|: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate only if Sawback Manticore is attacking or blocking and only once each turn."
 msgstr ""
 
 #: ../../MIR.rst:1516
@@ -2873,7 +2873,7 @@ msgid ":mtgtip:`Acidic Dagger<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../MIR.rst:1559
-msgid "|mana_4|, |tap|: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared."
+msgid "|mana_4|, |tap|: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate only before blockers are declared."
 msgstr ""
 
 #: ../../MIR.rst:1566
@@ -2893,7 +2893,7 @@ msgid ":mtgtip:`Amulet of Unmaking<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../MIR.rst:1569
-msgid "|mana_5|, |tap|, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_5|, |tap|, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:1576
@@ -2997,7 +2997,7 @@ msgid ":mtgtip:`Grinning Totem<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../MIR.rst:1621
-msgid "|mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles their library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard."
+msgid "|mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard."
 msgstr ""
 
 #: ../../MIR.rst:1626
@@ -3029,7 +3029,7 @@ msgid ":mtgtip:`Lion's Eye Diamond<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../MIR.rst:1637
-msgid "Discard your hand, Sacrifice Lion's Eye Diamond: Add three mana of any one color. Activate this ability only any time you could cast an instant."
+msgid "Discard your hand, Sacrifice Lion's Eye Diamond: Add three mana of any one color. Activate only as an instant."
 msgstr ""
 
 #: ../../MIR.rst:1644
@@ -3169,7 +3169,7 @@ msgid ":mtgtip:`Ventifact Bottle<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../MIR.rst:1713
-msgid "|mana_x|\\ |mana_1|, |tap|: Put X charge counters on Ventifact Bottle. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_x|\\ |mana_1|, |tap|: Put X charge counters on Ventifact Bottle. Activate only as a sorcery."
 msgstr ""
 
 #: ../../MIR.rst:1715
@@ -3185,7 +3185,7 @@ msgid "Bad River enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1721
-msgid "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1728
@@ -3205,7 +3205,7 @@ msgid "Flood Plain enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1733
-msgid "|tap|, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1740
@@ -3217,7 +3217,7 @@ msgid "Grasslands enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1739
-msgid "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1746
@@ -3229,7 +3229,7 @@ msgid "Mountain Valley enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1745
-msgid "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1752
@@ -3241,7 +3241,7 @@ msgid "Rocky Tar Pit enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1751
-msgid "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MIR.rst:1760

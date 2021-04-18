@@ -36,7 +36,7 @@
 
    Trample
 
-   When Avatar of Growth enters the battlefield, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles their library.
+   When Avatar of Growth enters the battlefield, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles.
 
 
 :mtgtip:`Aerial Responder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b94b1649-2ce7-40f3-8dff-87bf60d274df.jpg?1592764633|https://scryfall.com/card/gnt/6/aerial-responder?utm_source=api>`
@@ -192,7 +192,7 @@
 
 
 :mtgtip:`Captivating Crew<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac7c37f3-c719-404d-993d-f5bebff92edf.jpg?1592765047|https://scryfall.com/card/gnt/38/captivating-crew?utm_source=api>`
-   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Dragon Fodder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f86c2fae-4e0d-435f-a378-0231d566fbad.jpg?1592765060|https://scryfall.com/card/gnt/39/dragon-fodder?utm_source=api>`
@@ -270,7 +270,7 @@
 :mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bef04f5-4498-40c7-bfc2-0e2e619fcca1.jpg?1592765250|https://scryfall.com/card/gnt/55/pilgrims-eye?utm_source=api>`
    Flying
 
-   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Rhonas's Monument<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d24b200-5cab-406a-a0e6-71a4d33b26fb.jpg?1592765261|https://scryfall.com/card/gnt/56/rhonass-monument?utm_source=api>`

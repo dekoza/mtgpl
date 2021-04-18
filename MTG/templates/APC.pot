@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -144,7 +144,7 @@ msgid "At the beginning of your upkeep, you gain 1 life for each card in target 
 msgstr ""
 
 #: ../../APC.rst:65
-msgid "|mana_3|\\ |mana_w|: Tap target creature. Activate this ability only if Gerrard Capashen is attacking."
+msgid "|mana_3|\\ |mana_w|: Tap target creature. Activate only if Gerrard Capashen is attacking."
 msgstr ""
 
 #: ../../APC.rst:72
@@ -208,7 +208,7 @@ msgid "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spel
 msgstr ""
 
 #: ../../APC.rst:93
-msgid "Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature."
+msgid "Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's mana value to target creature."
 msgstr ""
 
 #: ../../APC.rst:100
@@ -567,7 +567,7 @@ msgid ":mtgtip:`Zombie Boa<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../APC.rst:295
-msgid "|mana_1|\\ |mana_b|: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../APC.rst:300
@@ -749,11 +749,11 @@ msgid ":mtgtip:`Wild Research<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../APC.rst:393
-msgid "|mana_1|\\ |mana_w|: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library."
+msgid "|mana_1|\\ |mana_w|: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle."
 msgstr ""
 
 #: ../../APC.rst:395
-msgid "|mana_1|\\ |mana_u|: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library."
+msgid "|mana_1|\\ |mana_u|: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle."
 msgstr ""
 
 #: ../../APC.rst:402
@@ -801,7 +801,7 @@ msgid "As an additional cost to cast this spell, sacrifice five lands."
 msgstr ""
 
 #: ../../APC.rst:423
-msgid "Search your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library."
+msgid "Search your library for a land card of each basic land type, put those cards onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../APC.rst:428
@@ -839,7 +839,7 @@ msgid ":mtgtip:`Lay of the Land<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../APC.rst:441
-msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../APC.rst:446
@@ -931,7 +931,7 @@ msgid ":mtgtip:`Aether Mutation<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../APC.rst:491
-msgid "Return target creature to its owner's hand. Create X 1/1 green Saproling creature tokens, where X is that creature's converted mana cost."
+msgid "Return target creature to its owner's hand. Create X 1/1 green Saproling creature tokens, where X is that creature's mana value."
 msgstr ""
 
 #: ../../APC.rst:496
@@ -987,7 +987,7 @@ msgid ":mtgtip:`Death Mutation<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../APC.rst:519
-msgid "Destroy target nonblack creature. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that creature's converted mana cost."
+msgid "Destroy target nonblack creature. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that creature's mana value."
 msgstr ""
 
 #: ../../APC.rst:524
@@ -1059,7 +1059,7 @@ msgid ":mtgtip:`Guided Passage<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../APC.rst:559
-msgid "Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library."
+msgid "Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle."
 msgstr ""
 
 #: ../../APC.rst:566
@@ -1143,7 +1143,7 @@ msgid ":mtgtip:`Pernicious Deed<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../APC.rst:601
-msgid "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less."
+msgid "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with mana value X or less."
 msgstr ""
 
 #: ../../APC.rst:606
@@ -1319,7 +1319,7 @@ msgid ":mtgtip:`Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/fr
 msgstr ""
 
 #: ../../APC.rst:701
-msgid "Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost."
+msgid "Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value."
 msgstr ""
 
 #: ../../APC.rst:706

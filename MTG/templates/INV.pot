@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -341,7 +341,7 @@ msgid ":mtgtip:`Pure Reflection<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../INV.rst:147
-msgid "Whenever a player casts a creature spell, destroy all Reflections. Then that player creates an X/X white Reflection creature token, where X is the converted mana cost of that spell."
+msgid "Whenever a player casts a creature spell, destroy all Reflections. Then that player creates an X/X white Reflection creature token, where X is the mana value of that spell."
 msgstr ""
 
 #: ../../INV.rst:152
@@ -675,7 +675,7 @@ msgid ":mtgtip:`Manipulate Fate<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../INV.rst:319
-msgid "Search your library for three cards, exile them, then shuffle your library."
+msgid "Search your library for three cards, exile them, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:328
@@ -683,7 +683,7 @@ msgid ":mtgtip:`Metathran Aerostat<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../INV.rst:327
-msgid "|mana_x|\\ |mana_u|: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand."
+msgid "|mana_x|\\ |mana_u|: You may put a creature card with mana value X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand."
 msgstr ""
 
 #: ../../INV.rst:336
@@ -711,7 +711,7 @@ msgid ":mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/fron
 msgstr ""
 
 #: ../../INV.rst:343
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../INV.rst:354
@@ -750,7 +750,7 @@ msgid ":mtgtip:`Prohibit<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../INV.rst:365
-msgid "Counter target spell if its converted mana cost is 2 or less. If this spell was kicked, counter that spell if its converted mana cost is 4 or less instead."
+msgid "Counter target spell if its mana value is 2 or less. If this spell was kicked, counter that spell if its mana value is 4 or less instead."
 msgstr ""
 
 #: ../../INV.rst:370
@@ -758,7 +758,7 @@ msgid ":mtgtip:`Psychic Battle<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../INV.rst:369
-msgid "Whenever a player chooses one or more targets, each player reveals the top card of their library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. Changing targets this way doesn't trigger abilities of permanents named Psychic Battle."
+msgid "Whenever a player chooses one or more targets, each player reveals the top card of their library. The player who reveals the card with the highest mana value may change the target or targets. If two or more cards are tied for highest, the target or targets remain unchanged. Changing targets this way doesn't trigger abilities of permanents named Psychic Battle."
 msgstr ""
 
 #: ../../INV.rst:376
@@ -921,7 +921,7 @@ msgid ":mtgtip:`Vodalian Hypnotist<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../INV.rst:467
-msgid "|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../INV.rst:472
@@ -1210,7 +1210,7 @@ msgid ":mtgtip:`Phyrexian Battleflies<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../INV.rst:631
-msgid "|mana_b|: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_b|: Phyrexian Battleflies gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../INV.rst:636
@@ -1218,7 +1218,7 @@ msgid ":mtgtip:`Phyrexian Delver<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../INV.rst:635
-msgid "When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's converted mana cost."
+msgid "When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's mana value."
 msgstr ""
 
 #: ../../INV.rst:640
@@ -1631,7 +1631,7 @@ msgid ":mtgtip:`Overload<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../INV.rst:859
-msgid "Destroy target artifact if its converted mana cost is 2 or less. If this spell was kicked, destroy that artifact if its converted mana cost is 5 or less instead."
+msgid "Destroy target artifact if its mana value is 2 or less. If this spell was kicked, destroy that artifact if its mana value is 5 or less instead."
 msgstr ""
 
 #: ../../INV.rst:868
@@ -1772,7 +1772,7 @@ msgid "Target creature can't block this turn."
 msgstr ""
 
 #: ../../INV.rst:942
-msgid ":mtgtip:`Tectonic Instability<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0476cc6b-ecc6-44d6-9f44-a90d4ee85daa.jpg?1562895860|https://scryfall.com/card/inv/173/tectonic-instability?utm_source=api>`"
+msgid ":mtgtip:`Tectonic Instability<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0476cc6b-ecc6-44d6-9f44-a90d4ee85daa.jpg?1618485193|https://scryfall.com/card/inv/173/tectonic-instability?utm_source=api>`"
 msgstr ""
 
 #: ../../INV.rst:941
@@ -1868,7 +1868,7 @@ msgid ":mtgtip:`Elfhame Sanctuary<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../INV.rst:1009
-msgid "At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library."
+msgid "At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. If you do, you skip your draw step this turn."
 msgstr ""
 
 #: ../../INV.rst:1014
@@ -1908,7 +1908,7 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr ""
 
 #: ../../INV.rst:1031
-msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:1036
@@ -2066,7 +2066,7 @@ msgid ":mtgtip:`Quirion Trailblazer<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../INV.rst:1113
-msgid "When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library."
+msgid "When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:1118
@@ -2110,7 +2110,7 @@ msgid ":mtgtip:`Scouting Trek<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../INV.rst:1135
-msgid "Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it."
+msgid "Search your library for any number of basic land cards, reveal those cards, then shuffle and put them on top."
 msgstr ""
 
 #: ../../INV.rst:1140
@@ -2303,7 +2303,7 @@ msgid ":mtgtip:`Artifact Mutation<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../INV.rst:1249
-msgid "Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's converted mana cost."
+msgid "Destroy target artifact. It can't be regenerated. Create X 1/1 green Saproling creature tokens, where X is that artifact's mana value."
 msgstr ""
 
 #: ../../INV.rst:1254
@@ -2311,7 +2311,7 @@ msgid ":mtgtip:`Aura Mutation<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../INV.rst:1253
-msgid "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, where X is that enchantment's converted mana cost."
+msgid "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, where X is that enchantment's mana value."
 msgstr ""
 
 #: ../../INV.rst:1258
@@ -2355,7 +2355,7 @@ msgid ":mtgtip:`Captain Sisay<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../INV.rst:1275
-msgid "|tap|: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "|tap|: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:1284
@@ -2456,7 +2456,7 @@ msgid ":mtgtip:`Frenzied Tilling<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../INV.rst:1333
-msgid "Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Destroy target land. Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:1338
@@ -2520,7 +2520,7 @@ msgid ":mtgtip:`Lobotomy<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../INV.rst:1371
-msgid "Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library."
+msgid "Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../INV.rst:1376
@@ -2604,7 +2604,7 @@ msgid ":mtgtip:`Reviving Vapors<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../INV.rst:1415
-msgid "Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard."
+msgid "Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's mana value. Put all other cards revealed this way into your graveyard."
 msgstr ""
 
 #: ../../INV.rst:1422
@@ -2652,7 +2652,7 @@ msgid "Your opponents play with their hands revealed."
 msgstr ""
 
 #: ../../INV.rst:1443
-msgid "Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../INV.rst:1448
@@ -2696,7 +2696,7 @@ msgid "At the beginning of your upkeep, target player loses 1 life."
 msgstr ""
 
 #: ../../INV.rst:1469
-msgid "Sacrifice Smoldering Tar: It deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery."
+msgid "Sacrifice Smoldering Tar: It deals 4 damage to target creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../INV.rst:1476
@@ -2728,7 +2728,7 @@ msgid "Other enchantments you control have shroud. (They can't be the targets of
 msgstr ""
 
 #: ../../INV.rst:1487
-msgid "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put the card on top."
 msgstr ""
 
 #: ../../INV.rst:1494
@@ -2808,7 +2808,7 @@ msgid ":mtgtip:`Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/fro
 msgstr ""
 
 #: ../../INV.rst:1531
-msgid "Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals their hand and discards all nonland cards with converted mana cost equal to the number."
+msgid "Choose a number. Destroy all artifacts and creatures with mana value equal to that number. Then target player reveals their hand and discards all nonland cards with mana value equal to the number."
 msgstr ""
 
 #: ../../INV.rst:1538
@@ -3018,7 +3018,7 @@ msgid ":mtgtip:`Planar Portal<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../INV.rst:1645
-msgid "|mana_6|, |tap|: Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "|mana_6|, |tap|: Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../INV.rst:1650

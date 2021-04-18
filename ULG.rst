@@ -232,7 +232,7 @@
 :mtgtip:`Tinker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7da23b15-dfb8-4267-9b33-d7a4c035c434.jpg?1562863289|https://scryfall.com/card/ulg/45/tinker?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact.
 
-   Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for an artifact card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Vigilant Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37940486-2d7f-40d9-9c19-151b9307d374.jpg?1562862789|https://scryfall.com/card/ulg/46/vigilant-drake?utm_source=api>`
@@ -366,7 +366,7 @@
 
 
 :mtgtip:`Unearth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6cb2549-e485-44d6-9d65-7605c568909e.jpg?1562864214|https://scryfall.com/card/ulg/72/unearth?utm_source=api>`
-   Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
@@ -450,7 +450,7 @@
 
 
 :mtgtip:`Pyromancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35a91a58-cc8b-47a3-8c53-43c32753a00d.jpg?1562862788|https://scryfall.com/card/ulg/88/pyromancy?utm_source=api>`
-   |mana_3|, Discard a card at random: Pyromancy deals damage to any target equal to the converted mana cost of the discarded card.
+   |mana_3|, Discard a card at random: Pyromancy deals damage to any target equal to the mana value of the discarded card.
 
 
 :mtgtip:`Rack and Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a46e8f6a-3a1a-4c30-9348-4b31882267eb.jpg?1562863778|https://scryfall.com/card/ulg/89/rack-and-ruin?utm_source=api>`
@@ -486,7 +486,7 @@
 
 
 :mtgtip:`Viashino Heretic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/143e435e-e3a1-45b0-81c3-bd47916df8ac.jpg?1562862323|https://scryfall.com/card/ulg/95/viashino-heretic?utm_source=api>`
-   |mana_1|\ |mana_r|, |tap|: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost.
+   |mana_1|\ |mana_r|, |tap|: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's mana value.
 
 
 :mtgtip:`Viashino Sandscout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12dd888a-ca98-44dd-a213-858c3539dc97.jpg?1562862319|https://scryfall.com/card/ulg/96/viashino-sandscout?utm_source=api>`
@@ -504,7 +504,7 @@
 :mtgtip:`Crop Rotation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/6563f790-862c-465a-b963-7a61f2385516.jpg?1562863277|https://scryfall.com/card/ulg/98/crop-rotation?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for a land card, put that card onto the battlefield, then shuffle your library.
+   Search your library for a land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Darkwatch Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/212a807f-d5d0-4787-b390-3351783a1ae4.jpg?1562862333|https://scryfall.com/card/ulg/99/darkwatch-elves?utm_source=api>`
@@ -514,7 +514,7 @@
 
 
 :mtgtip:`Defense of the Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e93381f-627f-41b6-b1b6-45d712a44d8e.jpg?1562863769|https://scryfall.com/card/ulg/100/defense-of-the-heart?utm_source=api>`
-   At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library.
+   At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, put those cards onto the battlefield, then shuffle.
 
 
 :mtgtip:`Deranged Hermit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf0e94c9-61c4-4cc0-b5ce-db62bc2660ee.jpg?1562864220|https://scryfall.com/card/ulg/101/deranged-hermit?utm_source=api>`
@@ -606,7 +606,7 @@
 :mtgtip:`Yavimaya Granger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05414a41-b50c-49b6-9c27-f3170017d9b0.jpg?1562862303|https://scryfall.com/card/ulg/118/yavimaya-granger?utm_source=api>`
    Echo |mana_2|\ |mana_g| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 
-   When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Yavimaya Scion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2f80036-1058-4513-8549-0557df9b5d61.jpg?1562863776|https://scryfall.com/card/ulg/119/yavimaya-scion?utm_source=api>`

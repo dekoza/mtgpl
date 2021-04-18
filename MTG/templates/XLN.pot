@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../XLN.rst:31
-msgid "Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "Whenever Bishop of Rebirth attacks, you may return target creature card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../XLN.rst:36
@@ -240,7 +240,7 @@ msgid ":mtgtip:`Legion Conquistador<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../XLN.rst:109
-msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library."
+msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:114
@@ -328,7 +328,7 @@ msgid "At the beginning of your upkeep, you may reveal a Dinosaur card from your
 msgstr ""
 
 #: ../../XLN.rst:153
-msgid "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:158
@@ -380,7 +380,7 @@ msgid ":mtgtip:`Settle the Wreckage<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../XLN.rst:183
-msgid "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library."
+msgid "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:188
@@ -504,7 +504,7 @@ msgid ":mtgtip:`Deadeye Quartermaster<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../XLN.rst:255
-msgid "When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:260
@@ -555,7 +555,7 @@ msgid ":mtgtip:`Entrancing Melody<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../XLN.rst:281
-msgid "Gain control of target creature with converted mana cost X."
+msgid "Gain control of target creature with mana value X."
 msgstr ""
 
 #: ../../XLN.rst:286
@@ -647,7 +647,7 @@ msgid ":mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/fron
 msgstr ""
 
 #: ../../XLN.rst:331
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "Scry 1."
 msgstr ""
 
 #: ../../XLN.rst:338
@@ -663,7 +663,7 @@ msgid ":mtgtip:`Perilous Voyage<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../XLN.rst:341
-msgid "Return target nonland permanent you don't control to its owner's hand. If its converted mana cost was 2 or less, scry 2."
+msgid "Return target nonland permanent you don't control to its owner's hand. If its mana value was 2 or less, scry 2."
 msgstr ""
 
 #: ../../XLN.rst:346
@@ -803,7 +803,7 @@ msgid ":mtgtip:`Spell Swindle<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../XLN.rst:415
-msgid "Counter target spell. Create X Treasure tokens, where X is that spell's converted mana cost. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgid "Counter target spell. Create X Treasure tokens, where X is that spell's mana value. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../XLN.rst:422
@@ -1143,7 +1143,7 @@ msgid ":mtgtip:`Ruin Raider<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../XLN.rst:605
-msgid "Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost."
+msgid "Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's mana value."
 msgstr ""
 
 #: ../../XLN.rst:612
@@ -1310,7 +1310,7 @@ msgid ":mtgtip:`Captivating Crew<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../XLN.rst:691
-msgid "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery."
 msgstr ""
 
 #: ../../XLN.rst:696
@@ -1474,7 +1474,7 @@ msgid "Repeating Barrage deals 3 damage to any target."
 msgstr ""
 
 #: ../../XLN.rst:783
-msgid "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked this turn."
+msgid "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate only if you attacked this turn."
 msgstr ""
 
 #: ../../XLN.rst:790
@@ -1551,7 +1551,7 @@ msgid ":mtgtip:`Sunbird's Invocation<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../XLN.rst:825
-msgid "Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a spell with converted mana cost X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order."
+msgid "Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../XLN.rst:830
@@ -1884,7 +1884,7 @@ msgid ":mtgtip:`Old-Growth Dryads<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../XLN.rst:1003
-msgid "When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library."
+msgid "When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:1008
@@ -1900,7 +1900,7 @@ msgid ":mtgtip:`Ranging Raptors<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../XLN.rst:1011
-msgid "Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:1016
@@ -2188,7 +2188,7 @@ msgid "Vigilance, lifelink"
 msgstr ""
 
 #: ../../XLN.rst:1163
-msgid "|tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn."
+msgid "|tap|, Pay 7 life: Destroy target nonland permanent. Activate only during your turn."
 msgstr ""
 
 #: ../../XLN.rst:1172
@@ -2454,7 +2454,7 @@ msgid ":mtgtip:`Thaumatic Compass<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../XLN.rst:1303
-msgid "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../XLN.rst:1305
@@ -2538,7 +2538,7 @@ msgid ":mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../XLN.rst:1351
-msgid "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library."
+msgid "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles."
 msgstr ""
 
 #: ../../XLN.rst:1358
@@ -2670,7 +2670,7 @@ msgid "Return up to two target creatures to their owner's hand."
 msgstr ""
 
 #: ../../XLN.rst:1425
-msgid "Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle it."
+msgid "Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle."
 msgstr ""
 
 #: ../../XLN.rst:1430
@@ -2730,7 +2730,7 @@ msgid ":mtgtip:`Sun-Blessed Mount<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../XLN.rst:1455
-msgid "When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle it."
+msgid "When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle."
 msgstr ""
 
 #: ../../XLN.rst:1461

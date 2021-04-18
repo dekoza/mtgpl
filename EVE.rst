@@ -24,7 +24,7 @@
 
 
 :mtgtip:`Endless Horizons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32385604-dcff-41e4-97a5-fcf230033a87.jpg?1562905505|https://scryfall.com/card/eve/4/endless-horizons?utm_source=api>`
-   When Endless Horizons enters the battlefield, search your library for any number of Plains cards and exile them. Then shuffle your library.
+   When Endless Horizons enters the battlefield, search your library for any number of Plains cards, exile them, then shuffle.
 
    At the beginning of your upkeep, you may put a card you own exiled with Endless Horizons into your hand.
 
@@ -214,7 +214,7 @@
 
 
 :mtgtip:`Nightmare Incursion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cccd244-9fd4-4f58-85da-af6d235ef7bb.jpg?1562921295|https://scryfall.com/card/eve/40/nightmare-incursion?utm_source=api>`
-   Search target player's library for up to X cards, where X is the number of Swamps you control, and exile them. Then that player shuffles their library.
+   Search target player's library for up to X cards, where X is the number of Swamps you control, and exile them. Then that player shuffles.
 
 
 :mtgtip:`Raven's Crime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ced5797-5de0-43ca-9dc9-e48912333a70.jpg?1562921320|https://scryfall.com/card/eve/41/ravens-crime?utm_source=api>`
@@ -418,7 +418,7 @@
 :mtgtip:`Twinblade Slasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0092d7a0-bd00-45e5-a052-c0a9d970bc2e.jpg?1562895101|https://scryfall.com/card/eve/79/twinblade-slasher?utm_source=api>`
    Wither (This deals damage to creatures in the form of -1/-1 counters.)
 
-   |mana_1|\ |mana_g|: Twinblade Slasher gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Twinblade Slasher gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Wickerbough Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acc283b4-9106-4a32-88b4-000f2a3bed84.jpg?1562931459|https://scryfall.com/card/eve/80/wickerbough-elder?utm_source=api>`
@@ -474,7 +474,7 @@
 
    Evershrike gets +2/+2 for each Aura attached to it.
 
-   |mana_x|\ |mana_wb|\ |mana_wb|: Return Evershrike from your graveyard to the battlefield. You may put an Aura card with converted mana cost X or less from your hand onto the battlefield attached to it. If you don't, exile Evershrike.
+   |mana_x|\ |mana_wb|\ |mana_wb|: Return Evershrike from your graveyard to the battlefield. You may put an Aura card with mana value X or less from your hand onto the battlefield attached to it. If you don't, exile Evershrike.
 
 
 :mtgtip:`Gwyllion Hedge-Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/914e6fda-808f-43fb-8024-8b8a8781a7ac.jpg?1562925646|https://scryfall.com/card/eve/89/gwyllion-hedge-mage?utm_source=api>`
@@ -846,7 +846,7 @@
 
 
 :mtgtip:`Groundling Pouncer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57e7056e-42b9-436a-8302-fcbfa0abd84f.jpg?1562913350|https://scryfall.com/card/eve/154/groundling-pouncer?utm_source=api>`
-   |mana_gu|: Groundling Pouncer gets +1/+3 and gains flying until end of turn. Activate this ability only once each turn and only if an opponent controls a creature with flying.
+   |mana_gu|: Groundling Pouncer gets +1/+3 and gains flying until end of turn. Activate only once each turn and only if an opponent controls a creature with flying.
 
 
 :mtgtip:`Invert the Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6d0a6f9-478f-43c7-8591-3b601c12ed01.jpg?1568910927|https://scryfall.com/card/eve/155/invert-the-skies?utm_source=api>`

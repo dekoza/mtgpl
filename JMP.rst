@@ -112,7 +112,7 @@
 :mtgtip:`Chained Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d4e5c23-3a7f-4a6b-99c4-6a1487a9b097.jpg?1600693874|https://scryfall.com/card/jmp/19/chained-brute?utm_source=api>`
    Chained Brute doesn't untap during your untap step.
 
-   |mana_1|, Sacrifice another creature: Untap Chained Brute. Activate this ability only during your turn.
+   |mana_1|, Sacrifice another creature: Untap Chained Brute. Activate only during your turn.
 
 
 :mtgtip:`Immolating Gyre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd0b8aee-fbfb-470f-9ac2-64fce0b4b2fb.jpg?1600693907|https://scryfall.com/card/jmp/20/immolating-gyre?utm_source=api>`
@@ -135,8 +135,8 @@
    When Living Lightning dies, return target instant or sorcery card from your graveyard to your hand.
 
 
-:mtgtip:`Muxus, Goblin Grandee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1600694046|https://scryfall.com/card/jmp/24/muxus-goblin-grandee?utm_source=api>`
-   When Muxus, Goblin Grandee enters the battlefield, reveal the top six cards of your library. Put all Goblin creature cards with converted mana cost 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.
+:mtgtip:`Muxus, Goblin Grandee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1618519471|https://scryfall.com/card/jmp/24/muxus-goblin-grandee?utm_source=api>`
+   When Muxus, Goblin Grandee enters the battlefield, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.
 
    Whenever Muxus attacks, it gets +1/+1 until end of turn for each other Goblin you control.
 
@@ -248,7 +248,7 @@
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/637ab0de-6691-4a45-95ac-9b75721c6c5a.jpg?1600715283|https://scryfall.com/card/jmp/78/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Aegis of the Heavens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a94f356d-4714-4500-8fb0-1ac68ec5c1cf.jpg?1600715302|https://scryfall.com/card/jmp/79/aegis-of-the-heavens?utm_source=api>`
@@ -508,7 +508,7 @@
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59d40386-6ea6-4b77-8c61-2a9a16a88a01.jpg?1600697119|https://scryfall.com/card/jmp/127/path-to-exile?utm_source=api>`
-   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Patron of the Valiant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.jpg?1600718389|https://scryfall.com/card/jmp/128/patron-of-the-valiant?utm_source=api>`
@@ -600,7 +600,7 @@
 
 
 :mtgtip:`Crookclaw Transmuter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac4e2977-b518-4fa3-83e4-5af326ded290.jpg?1600697716|https://scryfall.com/card/jmp/145/crookclaw-transmuter?utm_source=api>`
-   Flash (You may cast this spell any time you could cast an instant.)
+   Flash
 
    Flying
 
@@ -940,7 +940,7 @@
 
 
 :mtgtip:`Bogbrew Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6ce1aa49-fe00-4390-8c4b-d1203cc337cd.jpg?1600714297|https://scryfall.com/card/jmp/211/bogbrew-witch?utm_source=api>`
-   |mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Bone Picker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80c57801-cc6f-4f1f-b401-7f621fdcfaaa.jpg?1600714314|https://scryfall.com/card/jmp/212/bone-picker?utm_source=api>`
@@ -984,7 +984,7 @@
 
 
 :mtgtip:`Corpse Traders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cd6d782-ce5a-4994-8310-34faf9c41de2.jpg?1600714377|https://scryfall.com/card/jmp/220/corpse-traders?utm_source=api>`
-   |mana_2|\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Crow of Dark Tidings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/beed7579-f4f1-4545-9653-4c1179e88dc8.jpg?1600699974|https://scryfall.com/card/jmp/221/crow-of-dark-tidings?utm_source=api>`
@@ -1072,7 +1072,7 @@
 
 
 :mtgtip:`Ghoulcaller's Accomplice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63b62aaf-cc36-4235-b802-828b2c4d6341.jpg?1600700389|https://scryfall.com/card/jmp/237/ghoulcallers-accomplice?utm_source=api>`
-   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate only as a sorcery.
 
 
 :mtgtip:`Ghoulraiser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/850ccdcb-2cd7-4f27-aa9b-917a62a5e94d.jpg?1600826696|https://scryfall.com/card/jmp/238/ghoulraiser?utm_source=api>`
@@ -1234,7 +1234,7 @@
 
 
 :mtgtip:`Reanimate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/652271a0-80e8-4b9b-8823-26c1528378fc.jpg?1600714661|https://scryfall.com/card/jmp/270/reanimate?utm_source=api>`
-   Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+   Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.
 
 
 :mtgtip:`Rise of the Dark Realms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c0e1064-47c3-4f03-a1f2-3bcb356db82b.jpg?1600701321|https://scryfall.com/card/jmp/271/rise-of-the-dark-realms?utm_source=api>`
@@ -1374,7 +1374,7 @@
 
 
 :mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd1a398b-4551-4522-a90a-620c90bd92c7.jpg?1600714884|https://scryfall.com/card/jmp/298/bloodshot-trainee?utm_source=api>`
-   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater.
 
 
 :mtgtip:`Boggart Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d6de3a7-30a7-49d7-8e39-494355c6edae.jpg?1600714905|https://scryfall.com/card/jmp/299/boggart-brute?utm_source=api>`
@@ -1581,7 +1581,7 @@
    Lightning Axe deals 5 damage to target creature.
 
 
-:mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1601078281|https://scryfall.com/card/jmp/342/lightning-bolt?utm_source=api>`
+:mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786|https://scryfall.com/card/jmp/342/lightning-bolt?utm_source=api>`
    Lightning Bolt deals 3 damage to any target.
 
 
@@ -1664,7 +1664,7 @@
 
 
 :mtgtip:`Riddle of Lightning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e14f36e-54b8-4019-bc85-0d9218c52ad2.jpg?1601078520|https://scryfall.com/card/jmp/359/riddle-of-lightning?utm_source=api>`
-   Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that permanent or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's mana value to that permanent or player.
 
 
 :mtgtip:`Sarkhan's Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47daba07-1f1e-48e1-a500-ef94d0a3b327.jpg?1601078535|https://scryfall.com/card/jmp/360/sarkhans-rage?utm_source=api>`
@@ -1684,7 +1684,7 @@
 :mtgtip:`Sin Prodder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db89172e-0542-4858-9e65-38b1bac8cdeb.jpg?1601078601|https://scryfall.com/card/jmp/363/sin-prodder?utm_source=api>`
    Menace
 
-   At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's converted mana cost. Otherwise, put that card into your hand.
+   At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's mana value. Otherwise, put that card into your hand.
 
 
 :mtgtip:`Spitting Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de1aa8f9-8200-4ddd-9ab5-1a8181cc1792.jpg?1601078623|https://scryfall.com/card/jmp/364/spitting-earth?utm_source=api>`
@@ -1806,7 +1806,7 @@
 
 
 :mtgtip:`Dawntreader Elk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/524fab2b-ff28-4e02-9f25-e038c754b2cf.jpg?1601079210|https://scryfall.com/card/jmp/387/dawntreader-elk?utm_source=api>`
-   |mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Drover of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68f1d2e6-ffa4-4c4e-8179-671deb9f5a7f.jpg?1601082467|https://scryfall.com/card/jmp/388/drover-of-the-mighty?utm_source=api>`
@@ -1864,7 +1864,7 @@
 :mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/1858ca48-b34c-4b9f-bd58-e85e75d94508.jpg?1601079595|https://scryfall.com/card/jmp/398/fertilid?utm_source=api>`
    Fertilid enters the battlefield with two +1/+1 counters on it.
 
-   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.
+   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
 
 
 :mtgtip:`Ghalta, Primal Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c342309-aef7-4733-ac1c-ff0b704539a7.jpg?1601079606|https://scryfall.com/card/jmp/399/ghalta-primal-hunger?utm_source=api>`
@@ -2046,7 +2046,7 @@
 
 
 :mtgtip:`Sylvan Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e36a5be0-a730-4cb7-9d1e-6ae84b5bc872.jpg?1601080165|https://scryfall.com/card/jmp/435/sylvan-ranger?utm_source=api>`
-   When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Thragtusk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0594c41-0361-4a3b-a9cd-60f4e3b0cffe.jpg?1601080176|https://scryfall.com/card/jmp/436/thragtusk?utm_source=api>`
@@ -2070,7 +2070,7 @@
 
    Ulvenwald Hydra's power and toughness are each equal to the number of lands you control.
 
-   When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle your library.
+   When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Vastwood Zendikon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00cb59d-de35-45b2-a7f8-f8c1e821f6ee.jpg?1601080268|https://scryfall.com/card/jmp/440/vastwood-zendikon?utm_source=api>`
@@ -2328,7 +2328,7 @@
 
 
 :mtgtip:`Skittering Surveyor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8e9f488-db24-4bcd-bdf9-38c1e50f5504.jpg?1601081027|https://scryfall.com/card/jmp/486/skittering-surveyor?utm_source=api>`
-   When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Suspicious Bookcase<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b14ff70-6817-4539-b19b-142f8f6b6b1f.jpg?1601082941|https://scryfall.com/card/jmp/487/suspicious-bookcase?utm_source=api>`

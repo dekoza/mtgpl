@@ -160,7 +160,7 @@
 
 
 :mtgtip:`General Jarkeld<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.jpg?1562914700|https://scryfall.com/card/ice/27/general-jarkeld?utm_source=api>`
-   |tap|: Choose two target blocked attacking creatures. If each of those creatures could be blocked by all creatures that the other is blocked by, each creature that's blocking exactly one of those attacking creatures stops blocking it and is blocking the other attacking creature. Activate this ability only during the declare blockers step.
+   |tap|: Choose two target blocked attacking creatures. If each of those creatures could be blocked by all creatures that the other is blocked by, each creature that's blocking exactly one of those attacking creatures stops blocking it and is blocking the other attacking creature. Activate only during the declare blockers step.
 
 
 :mtgtip:`Green Scarab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fbf9266-c97e-4666-b0fa-1802a69a62cc.jpg?1562898062|https://scryfall.com/card/ice/28/green-scarab?utm_source=api>`
@@ -196,11 +196,11 @@
 
 
 :mtgtip:`Kjeldoran Elite Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a73bc4b6-f7d0-494c-9e60-48279c11b7b6.jpg?1562926227|https://scryfall.com/card/ice/34/kjeldoran-elite-guard?utm_source=api>`
-   |tap|: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat.
+   |tap|: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate only during combat.
 
 
 :mtgtip:`Kjeldoran Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf41f17-8f82-4a8c-adec-0f3804faff3b.jpg?1562930456|https://scryfall.com/card/ice/35/kjeldoran-guard?utm_source=api>`
-   |tap|: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands.
+   |tap|: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate only during combat and only if defending player controls no snow lands.
 
 
 :mtgtip:`Kjeldoran Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5b9db8f-93b5-44e3-9e2b-728c80dfbb37.jpg?1587911526|https://scryfall.com/card/ice/36/kjeldoran-knight?utm_source=api>`
@@ -514,7 +514,7 @@
 
 
 :mtgtip:`Portent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e040be83-3fb5-4da5-ba7a-4923b8854b74.jpg?1562936849|https://scryfall.com/card/ice/90/portent?utm_source=api>`
-   Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library.
+   Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.
 
    Draw a card at the beginning of the next turn's upkeep.
 
@@ -628,7 +628,7 @@
 
 
 :mtgtip:`Zuran Enchanter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/721edcef-f40a-4d43-9d80-26161dc425cb.jpg?1562916170|https://scryfall.com/card/ice/111/zuran-enchanter?utm_source=api>`
-   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_2|\ |mana_b|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Zuran Spellcaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/152a72b1-a7b7-4e5c-8558-fab97465f549.jpg?1562899032|https://scryfall.com/card/ice/112/zuran-spellcaster?utm_source=api>`
@@ -644,7 +644,7 @@
 :mtgtip:`Ashen Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bb83301-5662-4628-b536-6a3ee0296f2e.jpg?1562914979|https://scryfall.com/card/ice/114/ashen-ghoul?utm_source=api>`
    Haste
 
-   |mana_b|: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+   |mana_b|: Return Ashen Ghoul from your graveyard to the battlefield. Activate only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
 
 
 :mtgtip:`Brine Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f445962c-44a1-4f3f-88d4-17048f8ca9dc.jpg?1562940899|https://scryfall.com/card/ice/115/brine-shaman?utm_source=api>`
@@ -656,7 +656,7 @@
 :mtgtip:`Burnt Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1dae52a2-3af7-4b97-9d2e-2448b7c413fb.jpg?1587911693|https://scryfall.com/card/ice/116/burnt-offering?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Add X mana in any combination of |mana_b| and/or |mana_r|, where X is the sacrificed creature's converted mana cost.
+   Add X mana in any combination of |mana_b| and/or |mana_r|, where X is the sacrificed creature's mana value.
 
 
 :mtgtip:`Cloak of Confusion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc45d103-0fca-4431-a5c0-869f0f9be93e.jpg?1562936080|https://scryfall.com/card/ice/117/cloak-of-confusion?utm_source=api>`
@@ -870,7 +870,7 @@
 :mtgtip:`Norritt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35abefe6-c39b-4fe5-b2e3-d213f0c4f447.jpg?1562904940|https://scryfall.com/card/ice/155/norritt?utm_source=api>`
    |tap|: Untap target blue creature.
 
-   |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate this ability only before attackers are declared.
+   |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only before attackers are declared.
 
 
 :mtgtip:`Oath of Lim-Dûl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.jpg?1562940406|https://scryfall.com/card/ice/156/oath-of-lim-d%C3%BBl?utm_source=api>`
@@ -906,7 +906,7 @@
 :mtgtip:`Soul Kiss<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42fbf6a5-86fe-41a3-891e-f72f11ad0aee.jpg?1562907253|https://scryfall.com/card/ice/162/soul-kiss?utm_source=api>`
    Enchant creature
 
-   |mana_b|, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.
+   |mana_b|, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate no more than three times each turn.
 
 
 :mtgtip:`Spoils of Evil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd368eb6-72f0-42d4-afa5-3daa7de949ff.jpg?1562942725|https://scryfall.com/card/ice/163/spoils-of-evil?utm_source=api>`
@@ -936,7 +936,7 @@
 :mtgtip:`Withering Wisps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad1e6ae5-c972-42c0-ae78-f203873aeeb1.jpg?1562927264|https://scryfall.com/card/ice/168/withering-wisps?utm_source=api>`
    At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.
 
-   |mana_b|: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.
+   |mana_b|: Withering Wisps deals 1 damage to each creature and each player. Activate no more times each turn than the number of snow Swamps you control.
 
 
 :mtgtip:`Aggression<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3f26060-0c24-496c-b8e2-4dac7ea6166b.jpg?1562940829|https://scryfall.com/card/ice/169/aggression?utm_source=api>`
@@ -964,7 +964,7 @@
 
    Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.
 
-   |mana_r|\ |mana_r|\ |mana_r|: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.
+   |mana_r|\ |mana_r|\ |mana_r|: Put a +1/+0 counter on Balduvian Hydra. Activate only during your upkeep.
 
 
 :mtgtip:`Barbarian Guides<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe65a045-dacb-4392-bcb6-843394ef98c9.jpg?1562942981|https://scryfall.com/card/ice/174/barbarian-guides?utm_source=api>`
@@ -1014,7 +1014,7 @@
 
 
 :mtgtip:`Dwarven Armory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d14a430-6e08-40cf-970a-cae84bba6ef7.jpg?1587911905|https://scryfall.com/card/ice/182/dwarven-armory?utm_source=api>`
-   |mana_2|, Sacrifice a land: Put a +2/+2 counter on target creature. Activate this ability only during any upkeep step.
+   |mana_2|, Sacrifice a land: Put a +2/+2 counter on target creature. Activate only during any upkeep step.
 
 
 :mtgtip:`Errantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8346e741-61f8-4283-be51-f5f80e9595a5.jpg?1562919367|https://scryfall.com/card/ice/183/errantry?utm_source=api>`
@@ -1056,7 +1056,7 @@
 
 
 :mtgtip:`Goblin Ski Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fde1c8b5-1e01-4920-8d02-bf80d5b238c5.jpg?1562942854|https://scryfall.com/card/ice/190/goblin-ski-patrol?utm_source=api>`
-   |mana_1|\ |mana_r|: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.
+   |mana_1|\ |mana_r|: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate only once and only if you control a snow Mountain.
 
 
 :mtgtip:`Goblin Snowman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bbb260a-6763-4d1c-a009-4e34cd572519.jpg?1562911952|https://scryfall.com/card/ice/191/goblin-snowman?utm_source=api>`
@@ -1066,7 +1066,7 @@
 
 
 :mtgtip:`Grizzled Wolverine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95bb17b9-55c4-4cc1-83f6-75490b9a97d0.jpg?1587911913|https://scryfall.com/card/ice/192/grizzled-wolverine?utm_source=api>`
-   |mana_r|: Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.
+   |mana_r|: Grizzled Wolverine gets +2/+0 until end of turn. Activate only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.
 
 
 :mtgtip:`Imposing Visage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cca42b74-9b42-482b-b12a-79cafdcd087e.jpg?1562933282|https://scryfall.com/card/ice/193/imposing-visage?utm_source=api>`
@@ -1224,7 +1224,7 @@
 
 
 :mtgtip:`Word of Blasting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46b383c8-d604-4131-a869-9e9d13e30b94.jpg?1562907917|https://scryfall.com/card/ice/224/word-of-blasting?utm_source=api>`
-   Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.
+   Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's mana value to the Wall's controller.
 
 
 :mtgtip:`Aurochs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e973a84-7f7d-4524-9f2f-ec9a014d52ee.jpg?1562918431|https://scryfall.com/card/ice/225/aurochs?utm_source=api>`
@@ -1260,7 +1260,7 @@
 :mtgtip:`Earthlore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/319d252e-7c43-47d6-8873-f69b0e063256.jpg?1587911995|https://scryfall.com/card/ice/231/earthlore?utm_source=api>`
    Enchant land you control
 
-   Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate this ability only if enchanted land is untapped.
+   Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate only if enchanted land is untapped.
 
 
 :mtgtip:`Elder Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/210f6fab-62f0-42ab-bd01-00d647bd25e7.jpg?1562901131|https://scryfall.com/card/ice/232/elder-druid?utm_source=api>`
@@ -1378,7 +1378,7 @@
 
 
 :mtgtip:`Nature's Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/668d2969-b6b7-4507-bdd4-20bbaa68035a.jpg?1562913975|https://scryfall.com/card/ice/255/natures-lore?utm_source=api>`
-   Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a Forest card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Pale Bears<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.jpg?1587912053|https://scryfall.com/card/ice/256/pale-bears?utm_source=api>`
@@ -1452,7 +1452,7 @@
 
 
 :mtgtip:`Touch of Vitae<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48d2cd18-a24d-40e0-a654-777d9e623ae2.jpg?1562908300|https://scryfall.com/card/ice/271/touch-of-vitae?utm_source=api>`
-   Until end of turn, target creature gains haste and "|mana_0|: Untap this creature. Activate this ability only once."
+   Until end of turn, target creature gains haste and "|mana_0|: Untap this creature. Activate only once."
 
    Draw a card at the beginning of the next turn's upkeep.
 
@@ -1508,7 +1508,7 @@
 :mtgtip:`Altar of Bone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75d5b014-8675-4d91-a539-ac5c31d44b35.jpg?1562916801|https://scryfall.com/card/ice/281/altar-of-bone?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Centaur Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e275c295-72da-4a86-82c6-cfd75b38b19c.jpg?1562937371|https://scryfall.com/card/ice/282/centaur-archer?utm_source=api>`
@@ -1644,11 +1644,11 @@
 :mtgtip:`Amulet of Quoz<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/764ec6a8-a878-446c-b7e4-6026c2a3e9a4.jpg?1562916864|https://scryfall.com/card/ice/308/amulet-of-quoz?utm_source=api>`
    Remove Amulet of Quoz from your deck before playing if you're not playing for ante.
 
-   |tap|, Sacrifice Amulet of Quoz: Target opponent may ante the top card of their library. If they don't, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Activate this ability only during your upkeep.
+   |tap|, Sacrifice Amulet of Quoz: Target opponent may ante the top card of their library. If they don't, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Activate only during your upkeep.
 
 
 :mtgtip:`Arcum's Sleigh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9780ce2-756c-48e5-9936-45f6a224f61d.jpg?1587912137|https://scryfall.com/card/ice/309/arcums-sleigh?utm_source=api>`
-   |mana_2|, |tap|: Target creature gains vigilance until end of turn. Activate this ability only during combat and only if defending player controls a snow land.
+   |mana_2|, |tap|: Target creature gains vigilance until end of turn. Activate only during combat and only if defending player controls a snow land.
 
 
 :mtgtip:`Arcum's Weathervane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e142435-6930-4596-bc3b-60abde1229df.jpg?1562924422|https://scryfall.com/card/ice/310/arcums-weathervane?utm_source=api>`
@@ -1658,7 +1658,7 @@
 
 
 :mtgtip:`Arcum's Whistle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73c07c87-0e44-4a5a-92b7-728350cd02de.jpg?1562916476|https://scryfall.com/card/ice/311/arcums-whistle?utm_source=api>`
-   |mana_3|, |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay |mana_x|, where X is that creature's converted mana cost. If they don't pay, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack this turn. Activate this ability only before attackers are declared.
+   |mana_3|, |tap|: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay |mana_x|, where X is that mana value. If they don't pay, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack this turn. Activate only before attackers are declared.
 
 
 :mtgtip:`Barbed Sextant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edb82654-de12-4dce-8c6b-f28d68f0fbe1.jpg?1562939639|https://scryfall.com/card/ice/312/barbed-sextant?utm_source=api>`
@@ -1698,7 +1698,7 @@
 
 
 :mtgtip:`Ice Cauldron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a3e095a-7056-4df3-bf7d-9c217d591446.jpg?1562899914|https://scryfall.com/card/ice/321/ice-cauldron?utm_source=api>`
-   |mana_x|, |tap|: You may exile a nonland card from your hand. You may cast that card for as long as it remains exiled. Put a charge counter on Ice Cauldron and note the type and amount of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Ice Cauldron.
+   |mana_x|, |tap|: You may exile a nonland card from your hand. You may cast that card for as long as it remains exiled. Put a charge counter on Ice Cauldron and note the type and amount of mana spent to pay this activation cost. Activate only if there are no charge counters on Ice Cauldron.
 
    |tap|, Remove a charge counter from Ice Cauldron: Add Ice Cauldron's last noted type and amount of mana. Spend this mana only to cast the last card exiled with Ice Cauldron.
 
@@ -1716,17 +1716,17 @@
 
 
 :mtgtip:`Jester's Cap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ac44d0-8090-4e7b-ac47-c567294f185e.jpg?1562908134|https://scryfall.com/card/ice/324/jesters-cap?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles their library.
+   |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Jester's Mask<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.jpg?1562935848|https://scryfall.com/card/ice/325/jesters-mask?utm_source=api>`
    Jester's Mask enters the battlefield tapped.
 
-   |mana_1|, |tap|, Sacrifice Jester's Mask: Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. That player puts those cards into their hand, then shuffles their library.
+   |mana_1|, |tap|, Sacrifice Jester's Mask: Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. That player puts those cards into their hand, then shuffles.
 
 
 :mtgtip:`Jeweled Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1562904816|https://scryfall.com/card/ice/326/jeweled-amulet?utm_source=api>`
-   |mana_1|, |tap|: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.
+   |mana_1|, |tap|: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate only if there are no charge counters on Jeweled Amulet.
 
    |tap|, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type.
 
@@ -1828,7 +1828,7 @@
 :mtgtip:`Walking Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cba1238c-1969-452d-8112-124cbbd49417.jpg?1562933107|https://scryfall.com/card/ice/346/walking-wall?utm_source=api>`
    Defender
 
-   |mana_3|: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
+   |mana_3|: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn.
 
 
 :mtgtip:`Wall of Shields<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6376c7c4-aaca-4625-83d4-a49f01aec535.jpg?1587912176|https://scryfall.com/card/ice/347/wall-of-shields?utm_source=api>`

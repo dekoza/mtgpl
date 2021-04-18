@@ -46,7 +46,7 @@
 :mtgtip:`Gleam of Resistance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b9a8e0b-bee8-4b0d-b671-a5d8084d82ee.jpg?1562801190|https://scryfall.com/card/con/8/gleam-of-resistance?utm_source=api>`
    Creatures you control get +1/+2 until end of turn. Untap those creatures.
 
-   Basic landcycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Lapse of Certainty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.jpg?1562804498|https://scryfall.com/card/con/9/lapse-of-certainty?utm_source=api>`
@@ -82,7 +82,7 @@
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29b7a8b1-b98e-483a-87a4-73bd831c03d4.jpg?1562800119|https://scryfall.com/card/con/15/path-to-exile?utm_source=api>`
-   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Rhox Meditant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b74f4f8d-2191-4743-aac6-cdcb4a68379c.jpg?1562803325|https://scryfall.com/card/con/16/rhox-meditant?utm_source=api>`
@@ -192,7 +192,7 @@
 :mtgtip:`Traumatic Visions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e8b03d-9265-4699-b626-5efa73292d43.jpg?1562804612|https://scryfall.com/card/con/36/traumatic-visions?utm_source=api>`
    Counter target spell.
 
-   Basic landcycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Unsummon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65b16d7d-836c-4b15-921b-ebe53e31044e.jpg?1562801401|https://scryfall.com/card/con/37/unsummon?utm_source=api>`
@@ -210,7 +210,7 @@
 :mtgtip:`Absorb Vis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5528886e-3198-48b1-a3b0-6d41ba87bfd6.jpg?1562801058|https://scryfall.com/card/con/40/absorb-vis?utm_source=api>`
    Target player loses 4 life and you gain 4 life.
 
-   Basic landcycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Corrupted Roots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8a7fe66-db40-4eca-8953-0eb2cf98e4e8.jpg?1562803730|https://scryfall.com/card/con/41/corrupted-roots?utm_source=api>`
@@ -236,7 +236,7 @@
 
 
 :mtgtip:`Fleshformer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00c57090-c1fe-4100-a03c-95607074280e.jpg?1562799064|https://scryfall.com/card/con/45/fleshformer?utm_source=api>`
-   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.)
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.)
 
 
 :mtgtip:`Grixis Slavedriver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85e4851f-35aa-47c3-94b2-cdc166f9036f.jpg?1562802224|https://scryfall.com/card/con/46/grixis-slavedriver?utm_source=api>`
@@ -278,7 +278,7 @@
 
 
 :mtgtip:`Scepter of Fugue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21f7e17c-45df-45e9-8dcf-7fc90fa4d65d.jpg?1562799941|https://scryfall.com/card/con/53/scepter-of-fugue?utm_source=api>`
-   |mana_1|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_1|\ |mana_b|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Sedraxis Alchemist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fbbc5d7-86d0-4e09-b37c-e40eb88f3f33.jpg?1562802072|https://scryfall.com/card/con/54/sedraxis-alchemist?utm_source=api>`
@@ -328,7 +328,7 @@
 :mtgtip:`Fiery Fall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/687bb467-b447-4901-8a65-cd91fd3aa15d.jpg?1562801457|https://scryfall.com/card/con/63/fiery-fall?utm_source=api>`
    Fiery Fall deals 5 damage to target creature.
 
-   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Goblin Razerunners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ec933c-ee56-4b23-baba-699286984dee.jpg?1562804137|https://scryfall.com/card/con/64/goblin-razerunners?utm_source=api>`
@@ -382,7 +382,7 @@
 :mtgtip:`Viashino Slaughtermaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e60c30ee-616b-4b7d-97f9-cab1d6218e3a.jpg?1562804358|https://scryfall.com/card/con/73/viashino-slaughtermaster?utm_source=api>`
    Double strike
 
-   |mana_b|\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.
+   |mana_b|\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Volcanic Fallout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.jpg?1592485188|https://scryfall.com/card/con/74/volcanic-fallout?utm_source=api>`
@@ -470,7 +470,7 @@
 
 
 :mtgtip:`Shard Convergence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/285beca0-4876-426f-a4b4-ecefe79ad55d.jpg?1562800095|https://scryfall.com/card/con/91/shard-convergence?utm_source=api>`
-   Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.
+   Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Soul's Majesty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73c0d50f-7c2b-4d01-8ae0-8d945e726874.jpg?1562801749|https://scryfall.com/card/con/92/souls-majesty?utm_source=api>`
@@ -484,7 +484,7 @@
 :mtgtip:`Sylvan Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f717c573-e448-400e-a228-d438491f1754.jpg?1562804725|https://scryfall.com/card/con/94/sylvan-bounty?utm_source=api>`
    Target player gains 8 life.
 
-   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Thornling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16691f25-8d6f-4edd-84ad-3209e8a74cf3.jpg?1562799642|https://scryfall.com/card/con/95/thornling?utm_source=api>`
@@ -534,7 +534,7 @@
 
 
 :mtgtip:`Conflux<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db21da75-8d6a-4c8c-a83b-aab8290b586f.jpg?1562804154|https://scryfall.com/card/con/102/conflux?utm_source=api>`
-   Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.
+   Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Countersquall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec16e216-95e1-41f7-87e0-78b6ac3fe1df.jpg?1562804491|https://scryfall.com/card/con/103/countersquall?utm_source=api>`
@@ -554,7 +554,7 @@
 
 
 :mtgtip:`Exploding Borders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f247aaaf-4d65-4dfc-bab2-3c1331762647.jpg?1562804623|https://scryfall.com/card/con/106/exploding-borders?utm_source=api>`
-   Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player or planeswalker, where X is the number of basic land types among lands you control.
+   Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Exploding Borders deals X damage to target player or planeswalker, where X is the number of basic land types among lands you control.
 
 
 :mtgtip:`Fusion Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6712dbd-ee54-4fb7-93ab-64f8f07350f1.jpg?1562803684|https://scryfall.com/card/con/107/fusion-elemental?utm_source=api>`
@@ -592,7 +592,7 @@
 :mtgtip:`Knight of the Reliquary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8b8518-c09e-4cb7-95b2-08e4e370d89c.jpg?1562803091|https://scryfall.com/card/con/113/knight-of-the-reliquary?utm_source=api>`
    Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
 
-   |tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+   |tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Knotvine Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6372fa0-e9c8-45d0-a3b8-72eb191c6b26.jpg?1562804685|https://scryfall.com/card/con/114/knotvine-mystic?utm_source=api>`
@@ -670,7 +670,7 @@
 :mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/006b5000-2a8f-4020-9dbf-7170da13b54e.jpg?1562799057|https://scryfall.com/card/con/127/sphinx-summoner?utm_source=api>`
    Flying
 
-   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle.
 
 
 :mtgtip:`Suicidal Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9375d8c-b429-4349-bc4d-cb08799bdb58.jpg?1562803752|https://scryfall.com/card/con/128/suicidal-charge?utm_source=api>`
@@ -698,7 +698,7 @@
 
 
 :mtgtip:`Armillary Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b06cdd3b-3f8d-4b5e-882b-130b1db750a0.jpg?1562803124|https://scryfall.com/card/con/134/armillary-sphere?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Bone Saw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3bf79d6-4b4a-4fdd-a831-36eff2523661.jpg?1562802807|https://scryfall.com/card/con/135/bone-saw?utm_source=api>`

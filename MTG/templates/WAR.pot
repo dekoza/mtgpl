@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "Activated abilities of artifacts your opponents control can't be activate
 msgstr ""
 
 #: ../../WAR.rst:11
-msgid "+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost."
+msgid "+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../WAR.rst:13
@@ -228,7 +228,7 @@ msgid ":mtgtip:`Ignite the Beacon<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../WAR.rst:103
-msgid "Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library."
+msgid "Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:106
@@ -240,7 +240,7 @@ msgid ":mtgtip:`Law-Rune Enforcer<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../WAR.rst:111
-msgid "|mana_1|, |tap|: Tap target creature with converted mana cost 2 or greater."
+msgid "|mana_1|, |tap|: Tap target creature with mana value 2 or greater."
 msgstr ""
 
 #: ../../WAR.rst:118
@@ -817,7 +817,7 @@ msgid "You may look at the top card of your library any time."
 msgstr ""
 
 #: ../../WAR.rst:419
-msgid "You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost."
+msgid "You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost."
 msgstr ""
 
 #: ../../WAR.rst:421
@@ -841,7 +841,7 @@ msgid ":mtgtip:`Command the Dreadhorde<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../WAR.rst:433
-msgid "Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control."
+msgid "Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total mana value of those cards. Put them onto the battlefield under your control."
 msgstr ""
 
 #: ../../WAR.rst:440
@@ -1266,7 +1266,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../WAR.rst:651
-msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
 msgstr ""
 
 #: ../../WAR.rst:658
@@ -1286,7 +1286,7 @@ msgid ":mtgtip:`Finale of Promise<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../WAR.rst:661
-msgid "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies."
+msgid "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies."
 msgstr ""
 
 #: ../../WAR.rst:664
@@ -1614,7 +1614,7 @@ msgid ":mtgtip:`Finale of Devastation<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../WAR.rst:829
-msgid "Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
+msgid "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
 msgstr ""
 
 #: ../../WAR.rst:834
@@ -1703,7 +1703,7 @@ msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
 
 #: ../../WAR.rst:884
-msgid ":mtgtip:`Nissa, Who Shakes the World<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1610070159|https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api>`"
+msgid ":mtgtip:`Nissa, Who Shakes the World<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1618426283|https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api>`"
 msgstr ""
 
 #: ../../WAR.rst:879
@@ -1715,7 +1715,7 @@ msgid "+1: Put three +1/+1 counters on up to one target noncreature land you con
 msgstr ""
 
 #: ../../WAR.rst:883
-msgid "−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:888
@@ -1723,7 +1723,7 @@ msgid ":mtgtip:`Nissa's Triumph<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../WAR.rst:887
-msgid "Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle your library."
+msgid "Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:894
@@ -1851,7 +1851,7 @@ msgid ":mtgtip:`Vivien's Arkbow<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../WAR.rst:959
-msgid "|mana_x|, |tap|, Discard a card: Look at the top X cards of your library. You may put a creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
+msgid "|mana_x|, |tap|, Discard a card: Look at the top X cards of your library. You may put a creature card with mana value X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../WAR.rst:964
@@ -1947,7 +1947,7 @@ msgid ":mtgtip:`Deathsprout<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../WAR.rst:1015
-msgid "Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1020
@@ -1955,7 +1955,7 @@ msgid ":mtgtip:`Despark<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../WAR.rst:1019
-msgid "Exile target permanent with converted mana cost 4 or greater."
+msgid "Exile target permanent with mana value 4 or greater."
 msgstr ""
 
 #: ../../WAR.rst:1028
@@ -2111,7 +2111,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
 #: ../../WAR.rst:1111
-msgid "Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library."
+msgid "Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1122
@@ -2239,7 +2239,7 @@ msgid "+2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswa
 msgstr ""
 
 #: ../../WAR.rst:1179
-msgid "−X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types."
+msgid "−X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types."
 msgstr ""
 
 #: ../../WAR.rst:1184
@@ -2323,7 +2323,7 @@ msgid ":mtgtip:`Tyrant's Scorn<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../WAR.rst:1227
-msgid "Destroy target creature with converted mana cost 3 or less."
+msgid "Destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../WAR.rst:1229
@@ -2547,7 +2547,7 @@ msgid "|mana_x|\\ |mana_x|, |tap|: Put X charge counters on Blast Zone."
 msgstr ""
 
 #: ../../WAR.rst:1343
-msgid "|mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone."
+msgid "|mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with mana value equal to the number of charge counters on Blast Zone."
 msgstr ""
 
 #: ../../WAR.rst:1350
@@ -2667,7 +2667,7 @@ msgid ":mtgtip:`Gideon's Battle Cry<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../WAR.rst:1413
-msgid "Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1420
@@ -2735,7 +2735,7 @@ msgid ":mtgtip:`Jace's Ruse<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../WAR.rst:1449
-msgid "Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../WAR.rst:1456

@@ -110,7 +110,7 @@
 :mtgtip:`Norn's Annex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453|https://scryfall.com/card/nph/17/norns-annex?utm_source=api>`
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
-   Creatures can't attack you or a planeswalker you control unless their controller pays |mana_wp| for each of those creatures.
+   Creatures can't attack you or planeswalkers you control unless their controller pays |mana_wp| for each of those creatures.
 
 
 :mtgtip:`Phyrexian Unlife<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1562880895|https://scryfall.com/card/nph/18/phyrexian-unlife?utm_source=api>`
@@ -242,7 +242,7 @@
 :mtgtip:`Mental Misstep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61e9c6df-1c84-4eab-9076-a4feb6347c10.jpg?1566819829|https://scryfall.com/card/nph/38/mental-misstep?utm_source=api>`
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
-   Counter target spell with converted mana cost 1.
+   Counter target spell with mana value 1.
 
 
 :mtgtip:`Mindculling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6faf4372-6fb5-48aa-9b94-b0e77c867116.jpg?1562878573|https://scryfall.com/card/nph/39/mindculling?utm_source=api>`
@@ -398,7 +398,7 @@
 
 
 :mtgtip:`Life's Finale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd3fbd2-87c7-4f08-baaa-91d61c1114da.jpg?1562883140|https://scryfall.com/card/nph/65/lifes-finale?utm_source=api>`
-   Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles their library.
+   Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles.
 
 
 :mtgtip:`Mortis Dogs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cae1f40-0e43-41d8-bc5c-aa9873f7d7d5.jpg?1562876816|https://scryfall.com/card/nph/66/mortis-dogs?utm_source=api>`
@@ -428,11 +428,11 @@
 :mtgtip:`Postmortem Lunge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5f8b46e-1ad3-4c6e-aa63-376f2d222d46.jpg?1562881873|https://scryfall.com/card/nph/70/postmortem-lunge?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
-   Return target creature card with converted mana cost X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+   Return target creature card with mana value X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
 
 
 :mtgtip:`Praetor's Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9588be49-d9b5-4491-a5a0-10bcadc9f8b3.jpg?1562879913|https://scryfall.com/card/nph/71/praetors-grasp?utm_source=api>`
-   Search target opponent's library for a card and exile it face down. Then that player shuffles their library. You may look at and play that card for as long as it remains exiled.
+   Search target opponent's library for a card and exile it face down. Then that player shuffles. You may look at and play that card for as long as it remains exiled.
 
 
 :mtgtip:`Reaper of Sheoldred<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361|https://scryfall.com/card/nph/72/reaper-of-sheoldred?utm_source=api>`
@@ -452,7 +452,7 @@
 :mtgtip:`Surgical Extraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dca7e072-edb5-4f7e-bdec-a3a393053c80.jpg?1562882025|https://scryfall.com/card/nph/74/surgical-extraction?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
-   Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library.
+   Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Toxic Nim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5823990c-8d40-4352-8d34-74332934adb2.jpg?1562877774|https://scryfall.com/card/nph/75/toxic-nim?utm_source=api>`
@@ -490,7 +490,7 @@
 
 
 :mtgtip:`Bludgeon Brawl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a30fa96d-64d1-423e-a62e-d43453ea838d.jpg?1562880368|https://scryfall.com/card/nph/80/bludgeon-brawl?utm_source=api>`
-   Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| and "Equipped creature gets +X/+0," where X is that artifact's converted mana cost.
+   Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| and "Equipped creature gets +X/+0," where X is that artifact's mana value.
 
 
 :mtgtip:`Chancellor of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f.jpg?1562882041|https://scryfall.com/card/nph/81/chancellor-of-the-forge?utm_source=api>`
@@ -550,7 +550,7 @@
 :mtgtip:`Rage Extractor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8cebc2c-a46b-4459-b62b-7fce1a744b11.jpg?1562881930|https://scryfall.com/card/nph/91/rage-extractor?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
-   Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to any target.
+   Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor deals damage equal to that spell's mana value to any target.
 
 
 :mtgtip:`Razor Swine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fb022a3-5f9e-491e-8340-087e33f927d6.jpg?1562876407|https://scryfall.com/card/nph/92/razor-swine?utm_source=api>`
@@ -616,13 +616,13 @@
 :mtgtip:`Birthing Pod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1562880960|https://scryfall.com/card/nph/104/birthing-pod?utm_source=api>`
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
-   |mana_1|\ |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
 :mtgtip:`Brutalizer Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206|https://scryfall.com/card/nph/105/brutalizer-exarch?utm_source=api>`
    When Brutalizer Exarch enters the battlefield, choose one —
 
-   • Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it.
+   • Search your library for a creature card, reveal it, then shuffle and put that card on top.
 
    • Put target noncreature permanent on the bottom of its owner's library.
 
@@ -658,7 +658,7 @@
 
 
 :mtgtip:`Greenhilt Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/370f8ef5-c809-43cc-903a-077fad33cd30.jpg?1562876639|https://scryfall.com/card/nph/112/greenhilt-trainee?utm_source=api>`
-   |tap|: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.
+   |tap|: Target creature gets +4/+4 until end of turn. Activate only if Greenhilt Trainee's power is 4 or greater.
 
 
 :mtgtip:`Leeching Bite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c3bdbeb-c376-42bd-af2a-251cd7ac704c.jpg?1562875848|https://scryfall.com/card/nph/113/leeching-bite?utm_source=api>`
@@ -836,7 +836,7 @@
 
 
 :mtgtip:`Mycosynth Wellspring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/097f7ab8-01fa-4699-943a-32075aecebc2.jpg?1562875396|https://scryfall.com/card/nph/145/mycosynth-wellspring?utm_source=api>`
-   When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Myr Superion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/290c6036-02a3-43fa-b0d4-af3818794c3c.jpg?1566429927|https://scryfall.com/card/nph/146/myr-superion?utm_source=api>`

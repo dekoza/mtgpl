@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,7 +63,7 @@ msgid ":mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MBS.rst:25
-msgid "Destroy target artifact. You gain life equal to its converted mana cost."
+msgid "Destroy target artifact. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../MBS.rst:32
@@ -254,7 +254,7 @@ msgid ":mtgtip:`Distant Memories<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../MBS.rst:121
-msgid "Search your library for a card, exile it, then shuffle your library. Any opponent may have you put that card into your hand. If no player does, you draw three cards."
+msgid "Search your library for a card, exile it, then shuffle. Any opponent may have you put that card into your hand. If no player does, you draw three cards."
 msgstr ""
 
 #: ../../MBS.rst:126
@@ -351,7 +351,7 @@ msgid ":mtgtip:`Treasure Mage<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../MBS.rst:173
-msgid "When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
+msgid "When Treasure Mage enters the battlefield, you may search your library for an artifact card with mana value 6 or greater, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../MBS.rst:178
@@ -739,7 +739,7 @@ msgid ":mtgtip:`Green Sun's Zenith<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../MBS.rst:399
-msgid "Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library."
+msgid "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
 msgstr ""
 
 #: ../../MBS.rst:404
@@ -859,7 +859,7 @@ msgid ":mtgtip:`Viridian Emissary<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MBS.rst:467
-msgid "When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../MBS.rst:474
@@ -1076,7 +1076,7 @@ msgid "|tap|: Create a 1/1 colorless Myr artifact creature token."
 msgstr ""
 
 #: ../../MBS.rst:587
-msgid "|tap|, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../MBS.rst:594

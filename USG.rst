@@ -70,7 +70,7 @@
 
 
 :mtgtip:`Faith Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d51ff6a-ba1b-4015-8d0b-df1a1bb5a0c1.jpg?1562914500|https://scryfall.com/card/usg/14/faith-healer?utm_source=api>`
-   Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's converted mana cost.
+   Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's mana value.
 
 
 :mtgtip:`Glorious Anthem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61f867c5-0727-4408-b479-b81518daa0ec.jpg?1562915432|https://scryfall.com/card/usg/15/glorious-anthem?utm_source=api>`
@@ -164,7 +164,7 @@
 
 
 :mtgtip:`Remembrance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/556d334e-3ac9-45b0-98d2-aff49ada0f75.jpg?1562912810|https://scryfall.com/card/usg/34/remembrance?utm_source=api>`
-   Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, and put it into your hand. If you do, shuffle your library.
+   Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Rune of Protection: Artifacts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e18cce33-92be-4189-9f99-cb47bd617fd2.jpg?1562942567|https://scryfall.com/card/usg/35/rune-of-protection:-artifacts?utm_source=api>`
@@ -542,7 +542,7 @@
 
 
 :mtgtip:`Veiled Sentry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de458a9d-6c09-42bb-b470-c2691e95345a.jpg?1562941880|https://scryfall.com/card/usg/109/veiled-sentry?utm_source=api>`
-   When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's converted mana cost.
+   When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's mana value.
 
 
 :mtgtip:`Veiled Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25193fd6-3156-48ff-90fa-71328ee7adf5.jpg?1562902792|https://scryfall.com/card/usg/110/veiled-serpent?utm_source=api>`
@@ -842,7 +842,7 @@
 :mtgtip:`Witch Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef749290-58e2-4b40-a141-5fe294f9b995.jpg?1562945502|https://scryfall.com/card/usg/169/witch-engine?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
-   |tap|: Add |mana_b|\ |mana_b|\ |mana_b|\ |mana_b|. Target opponent gains control of Witch Engine. (Activate this ability only any time you could cast an instant.)
+   |tap|: Add |mana_b|\ |mana_b|\ |mana_b|\ |mana_b|. Target opponent gains control of Witch Engine. (Activate only as a instant.)
 
 
 :mtgtip:`Yawgmoth's Edict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f16be4b-4540-476a-b3ac-7442507ed314.jpg?1562908087|https://scryfall.com/card/usg/170/yawgmoths-edict?utm_source=api>`
@@ -932,7 +932,7 @@
 
 
 :mtgtip:`Gamble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ee0f160-7339-4d98-8a8c-f08889ee52f5.jpg?1562898053|https://scryfall.com/card/usg/188/gamble?utm_source=api>`
-   Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.
+   Search your library for a card, put that card into your hand, discard a card at random, then shuffle.
 
 
 :mtgtip:`Goblin Cadets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60081115-16bc-4924-b76d-7cfc0ad2287c.jpg?1562915085|https://scryfall.com/card/usg/189/goblin-cadets?utm_source=api>`
@@ -944,7 +944,7 @@
 
 
 :mtgtip:`Goblin Matron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e9e2e5d-ad06-4378-9afb-ffb174e6a5b4.jpg?1562928477|https://scryfall.com/card/usg/191/goblin-matron?utm_source=api>`
-   When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library.
+   When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Goblin Offensive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9813857-5527-4499-af86-758a5971e21a.jpg?1562944229|https://scryfall.com/card/usg/192/goblin-offensive?utm_source=api>`
@@ -1000,7 +1000,7 @@
 
 
 :mtgtip:`Meltdown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e7a967a-35a0-4e5c-a32b-123a9cfdb79e.jpg?1562928443|https://scryfall.com/card/usg/203/meltdown?utm_source=api>`
-   Destroy each artifact with converted mana cost X or less.
+   Destroy each artifact with mana value X or less.
 
 
 :mtgtip:`Okk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fecbdbc-dcfb-42ee-956c-a508db6eaafa.jpg?1562915063|https://scryfall.com/card/usg/204/okk?utm_source=api>`
@@ -1250,7 +1250,7 @@
 
 
 :mtgtip:`Gaea's Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66b55e37-fcad-4d50-89d4-5d88269fee66.jpg?1562916474|https://scryfall.com/card/usg/254/gaeas-bounty?utm_source=api>`
-   Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library.
+   Search your library for up to two Forest cards, reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Gaea's Embrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cce99456-d7cc-480f-b283-0ba063c89e0a.jpg?1562938294|https://scryfall.com/card/usg/255/gaeas-embrace?utm_source=api>`
@@ -1422,7 +1422,7 @@
 
 
 :mtgtip:`Citanul Flute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf71fab2-d936-40f0-bda2-b0630948e1fa.jpg?1562935483|https://scryfall.com/card/usg/289/citanul-flute?utm_source=api>`
-   |mana_x|, |tap|: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_x|, |tap|: Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Claws of Gix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78372366-8c4c-46ac-bd7c-a735c2b24b5d.jpg?1562920254|https://scryfall.com/card/usg/290/claws-of-gix?utm_source=api>`
@@ -1464,7 +1464,7 @@
 :mtgtip:`Karn, Silver Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/811a0988-2900-426c-9413-8f1778d99678.jpg?1562922231|https://scryfall.com/card/usg/298/karn-silver-golem?utm_source=api>`
    Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.
 
-   |mana_1|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
+   |mana_1|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value until end of turn.
 
 
 :mtgtip:`Lifeline<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40cee82f-36b2-48a9-930a-8e23cb2742fc.jpg?1562908426|https://scryfall.com/card/usg/299/lifeline?utm_source=api>`
@@ -1490,7 +1490,7 @@
 :mtgtip:`Mobile Fort<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f642246-5b2a-46a6-9236-524a297d7608.jpg?1562914933|https://scryfall.com/card/usg/303/mobile-fort?utm_source=api>`
    Defender (This creature can't attack.)
 
-   |mana_3|: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
+   |mana_3|: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate only once each turn.
 
 
 :mtgtip:`Noetic Scales<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18506777-cd69-42f6-99c9-cde9b0958868.jpg?1562900134|https://scryfall.com/card/usg/304/noetic-scales?utm_source=api>`

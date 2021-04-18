@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,7 @@ msgid "Flying"
 msgstr ""
 
 #: ../../NEM.rst:39
-msgid "|mana_4|, |tap|: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_4|, |tap|: Search your library for a Rebel permanent card with mana value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:46
@@ -106,7 +106,7 @@ msgid "When Defiant Vanguard blocks, at end of combat, destroy it and all creatu
 msgstr ""
 
 #: ../../NEM.rst:45
-msgid "|mana_5|, |tap|: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_5|, |tap|: Search your library for a Rebel permanent card with mana value 4 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:50
@@ -153,7 +153,7 @@ msgid ":mtgtip:`Lin Sivvi, Defiant Hero<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../NEM.rst:69
-msgid "|mana_x|, |tap|: Search your library for a Rebel permanent card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_x|, |tap|: Search your library for a Rebel permanent card with mana value X or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:71
@@ -338,7 +338,7 @@ msgid ":mtgtip:`Dominate<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../NEM.rst:165
-msgid "Gain control of target creature with converted mana cost X or less."
+msgid "Gain control of target creature with mana value X or less."
 msgstr ""
 
 #: ../../NEM.rst:172
@@ -426,7 +426,7 @@ msgid "|mana_u|: Rootwater Thief gains flying until end of turn."
 msgstr ""
 
 #: ../../NEM.rst:213
-msgid "Whenever Rootwater Thief deals combat damage to a player, you may pay |mana_2|. If you do, search that player's library for a card and exile it, then the player shuffles their library."
+msgid "Whenever Rootwater Thief deals combat damage to a player, you may pay |mana_2|. If you do, search that player's library for a card and exile it, then the player shuffles."
 msgstr ""
 
 #: ../../NEM.rst:218
@@ -434,7 +434,7 @@ msgid ":mtgtip:`Seahunter<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../NEM.rst:217
-msgid "|mana_3|, |tap|: Search your library for a Merfolk permanent card and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_3|, |tap|: Search your library for a Merfolk permanent card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:222
@@ -608,7 +608,7 @@ msgid ":mtgtip:`Mind Slash<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../NEM.rst:313
-msgid "|mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../NEM.rst:320
@@ -648,7 +648,7 @@ msgid ":mtgtip:`Parallax Nexus<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../NEM.rst:339
-msgid "Remove a fade counter from Parallax Nexus: Target opponent exiles a card from their hand. Activate this ability only any time you could cast a sorcery."
+msgid "Remove a fade counter from Parallax Nexus: Target opponent exiles a card from their hand. Activate only as a sorcery."
 msgstr ""
 
 #: ../../NEM.rst:341
@@ -689,7 +689,7 @@ msgstr ""
 
 #: ../../NEM.rst:361
 #: ../../NEM.rst:367
-msgid "|mana_3|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_3|, |tap|: Search your library for a Mercenary permanent card with mana value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:368
@@ -709,7 +709,7 @@ msgid "Fear (This creature can't be blocked except by artifact creatures and/or 
 msgstr ""
 
 #: ../../NEM.rst:373
-msgid "|mana_2|, |tap|: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_2|, |tap|: Search your library for a Mercenary permanent card with mana value 2 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:378
@@ -757,7 +757,7 @@ msgid ":mtgtip:`Volrath the Fallen<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../NEM.rst:397
-msgid "|mana_1|\\ |mana_b|, Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card's converted mana cost."
+msgid "|mana_1|\\ |mana_b|, Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card's mana value."
 msgstr ""
 
 #: ../../NEM.rst:404
@@ -950,7 +950,7 @@ msgid ":mtgtip:`Moggcatcher<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../NEM.rst:497
-msgid "|mana_3|, |tap|: Search your library for a Goblin permanent card and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_3|, |tap|: Search your library for a Goblin permanent card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:502
@@ -986,7 +986,7 @@ msgid ":mtgtip:`Stronghold Gambit<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../NEM.rst:515
-msgid "Each player chooses a card in their hand. Then each player reveals their chosen card. The owner of each creature card revealed this way with the lowest converted mana cost puts it onto the battlefield."
+msgid "Each player chooses a card in their hand. Then each player reveals their chosen card. The owner of each creature card revealed this way with the lowest mana value puts it onto the battlefield."
 msgstr ""
 
 #: ../../NEM.rst:520
@@ -1050,7 +1050,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../NEM.rst:549
-msgid "When Nesting Wurm enters the battlefield, you may search your library for up to three cards named Nesting Wurm, reveal them, and put them into your hand. If you do, shuffle your library."
+msgid "When Nesting Wurm enters the battlefield, you may search your library for up to three cards named Nesting Wurm, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:556
@@ -1070,7 +1070,7 @@ msgid ":mtgtip:`Pack Hunt<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../NEM.rst:559
-msgid "Search your library for up to three cards with the same name as target creature, reveal them, and put them into your hand. Then shuffle your library."
+msgid "Search your library for up to three cards with the same name as target creature, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:566
@@ -1159,7 +1159,7 @@ msgid ":mtgtip:`Skyshroud Claim<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../NEM.rst:603
-msgid "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle your library."
+msgid "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:608
@@ -1175,7 +1175,7 @@ msgid ":mtgtip:`Skyshroud Poacher<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../NEM.rst:611
-msgid "|mana_3|, |tap|: Search your library for an Elf permanent card and put it onto the battlefield. Then shuffle your library."
+msgid "|mana_3|, |tap|: Search your library for an Elf permanent card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:616
@@ -1187,7 +1187,7 @@ msgid ":mtgtip:`Skyshroud Sentinel<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../NEM.rst:619
-msgid "When Skyshroud Sentinel enters the battlefield, you may search your library for up to three cards named Skyshroud Sentinel, reveal them, and put them into your hand. If you do, shuffle your library."
+msgid "When Skyshroud Sentinel enters the battlefield, you may search your library for up to three cards named Skyshroud Sentinel, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../NEM.rst:624

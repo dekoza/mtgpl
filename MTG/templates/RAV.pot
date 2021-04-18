@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid ":mtgtip:`Auratouched Mage<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../RAV.rst:9
-msgid "When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library."
+msgid "When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:14
@@ -359,7 +359,7 @@ msgid ":mtgtip:`Three Dreams<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../RAV.rst:167
-msgid "Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library."
+msgid "Search your library for up to three Aura cards with different names, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:174
@@ -459,7 +459,7 @@ msgstr ""
 #: ../../RAV.rst:247
 #: ../../RAV.rst:283
 #: ../../RAV.rst:317
-msgid "Transmute |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+msgid "Transmute |mana_1|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
 msgstr ""
 
 #: ../../RAV.rst:226
@@ -544,7 +544,7 @@ msgid ":mtgtip:`Grozoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../RAV.rst:279
-msgid "When Grozoth enters the battlefield, you may search your library for any number of cards that have converted mana cost 9, reveal them, and put them into your hand. If you do, shuffle your library."
+msgid "When Grozoth enters the battlefield, you may search your library for any number of cards that have mana value 9, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:281
@@ -576,7 +576,7 @@ msgid ":mtgtip:`Induce Paranoia<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../RAV.rst:297
-msgid "Counter target spell. If |mana_b| was spent to cast this spell, that spell's controller mills X cards, where X is the spell's converted mana cost."
+msgid "Counter target spell. If |mana_b| was spent to cast this spell, that spell's controller mills X cards, where X is the spell's mana value."
 msgstr ""
 
 #: ../../RAV.rst:302
@@ -712,7 +712,7 @@ msgid ":mtgtip:`Tunnel Vision<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../RAV.rst:381
-msgid "Choose a card name. Target player reveals cards from the top of their library until a card with that name is revealed. If it is, that player puts the rest of the revealed cards into their graveyard and puts the card with the chosen name on top of their library. Otherwise, the player shuffles their library."
+msgid "Choose a card name. Target player reveals cards from the top of their library until a card with that name is revealed. If it is, that player puts the rest of the revealed cards into their graveyard and puts the card with the chosen name on top of their library. Otherwise, the player shuffles."
 msgstr ""
 
 #: ../../RAV.rst:386
@@ -770,9 +770,8 @@ msgstr ""
 #: ../../RAV.rst:411
 #: ../../RAV.rst:439
 #: ../../RAV.rst:445
-#: ../../RAV.rst:519
 #: ../../RAV.rst:549
-msgid "Transmute |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+msgid "Transmute |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
 msgstr ""
 
 #: ../../RAV.rst:416
@@ -796,7 +795,7 @@ msgid ":mtgtip:`Dark Confidant<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../RAV.rst:425
-msgid "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost."
+msgid "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value."
 msgstr ""
 
 #: ../../RAV.rst:432
@@ -840,7 +839,7 @@ msgid ":mtgtip:`Disembowel<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../RAV.rst:449
-msgid "Destroy target creature with converted mana cost X."
+msgid "Destroy target creature with mana value X."
 msgstr ""
 
 #: ../../RAV.rst:454
@@ -960,7 +959,7 @@ msgid "At the beginning of your upkeep, put a +1/+1 counter on Necroplasm."
 msgstr ""
 
 #: ../../RAV.rst:511
-msgid "At the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm."
+msgid "At the beginning of your end step, destroy each creature with mana value equal to the number of +1/+1 counters on Necroplasm."
 msgstr ""
 
 #: ../../RAV.rst:513
@@ -976,6 +975,10 @@ msgstr ""
 
 #: ../../RAV.rst:517
 msgid "When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control."
+msgstr ""
+
+#: ../../RAV.rst:519
+msgid "Transmute |mana_1|\\ |mana_b|\\ |mana_b| (|mana_1|\\ |mana_b|\\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then then shuffle. Transmute only as a sorcery.)"
 msgstr ""
 
 #: ../../RAV.rst:526
@@ -1476,7 +1479,7 @@ msgid ":mtgtip:`Chord of Calling<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../RAV.rst:797
-msgid "Search your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library."
+msgid "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:802
@@ -1484,7 +1487,7 @@ msgid ":mtgtip:`Civic Wayfinder<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../RAV.rst:801
-msgid "When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:808
@@ -1536,7 +1539,7 @@ msgid ":mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../RAV.rst:827
-msgid "Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:836
@@ -1653,7 +1656,7 @@ msgid ":mtgtip:`Perilous Forays<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../RAV.rst:901
-msgid "|mana_1|, Sacrifice a creature: Search your library for a land card with a basic land type and put it onto the battlefield tapped. Then shuffle your library."
+msgid "|mana_1|, Sacrifice a creature: Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:906
@@ -1839,7 +1842,7 @@ msgstr ""
 #: ../../RAV.rst:1007
 #: ../../RAV.rst:1037
 #: ../../RAV.rst:1109
-msgid "Transmute |mana_1|\\ |mana_u|\\ |mana_b| (|mana_1|\\ |mana_u|\\ |mana_b|, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+msgid "Transmute |mana_1|\\ |mana_u|\\ |mana_b| (|mana_1|\\ |mana_u|\\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
 msgstr ""
 
 #: ../../RAV.rst:1012
@@ -1847,7 +1850,7 @@ msgid ":mtgtip:`Congregation at Dawn<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../RAV.rst:1011
-msgid "Search your library for up to three creature cards and reveal them. Shuffle your library, then put those cards on top of it in any order."
+msgid "Search your library for up to three creature cards, reveal them, then shuffle and put those cards on top in any order."
 msgstr ""
 
 #: ../../RAV.rst:1020
@@ -1919,7 +1922,7 @@ msgid "At the beginning of your upkeep, if Firemane Angel is in your graveyard o
 msgstr ""
 
 #: ../../RAV.rst:1049
-msgid "|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep."
+msgid "|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../RAV.rst:1054
@@ -2284,11 +2287,11 @@ msgid "(|mana_ub| can be paid with either |mana_u| or |mana_b|.)"
 msgstr ""
 
 #: ../../RAV.rst:1259
-msgid "|mana_3|\\ |mana_u|: Target player draws a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_u|: Target player draws a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../RAV.rst:1261
-msgid "|mana_3|\\ |mana_b|: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_b|: Target player discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../RAV.rst:1268
@@ -2574,7 +2577,7 @@ msgid "Equipped creature gets +4/+0."
 msgstr ""
 
 #: ../../RAV.rst:1419
-msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
+msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle."
 msgstr ""
 
 #: ../../RAV.rst:1430

@@ -6,7 +6,7 @@
 
 
 :mtgtip:`Academy Rector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4367bc78-0912-4abd-8edd-bc792558d01a.jpg?1562443755|https://scryfall.com/card/uds/1/academy-rector?utm_source=api>`
-   When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.
+   When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Archery Training<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/151232e6-68cc-4cac-a532-9ade8e925961.jpg?1562443327|https://scryfall.com/card/uds/2/archery-training?utm_source=api>`
@@ -68,7 +68,7 @@
 
 
 :mtgtip:`Opalescence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c0071fb-afa5-47b5-b266-2b10a4f5a98a.jpg?1562443752|https://scryfall.com/card/uds/13/opalescence?utm_source=api>`
-   Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.
+   Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
 
 
 :mtgtip:`Reliquary Monk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/243e9386-2a7f-406a-9ed3-77d4bf1b50fd.jpg?1562443736|https://scryfall.com/card/uds/14/reliquary-monk?utm_source=api>`
@@ -88,7 +88,7 @@
 
 
 :mtgtip:`Scour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cac5162e-39ea-4f01-92eb-182fe23c1608.jpg?1562445209|https://scryfall.com/card/uds/18/scour?utm_source=api>`
-   Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles their library.
+   Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles.
 
 
 :mtgtip:`Serra Advocate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cac540c7-8b3a-4e28-96a2-d414ff613640.jpg?1562445211|https://scryfall.com/card/uds/19/serra-advocate?utm_source=api>`
@@ -208,7 +208,7 @@
 
 
 :mtgtip:`Quash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62019ac4-a5a1-4a8c-bfb4-96e818949bbe.jpg?1562444219|https://scryfall.com/card/uds/42/quash?utm_source=api>`
-   Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library.
+   Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles.
 
 
 :mtgtip:`Rayne, Academy Chancellor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8ee6480c-7697-47e2-893b-ca88c0ab3376.jpg?1562444698|https://scryfall.com/card/uds/43/rayne-academy-chancellor?utm_source=api>`
@@ -294,7 +294,7 @@
 
 
 :mtgtip:`Eradicate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fad4607-c11d-4407-b5fa-bd34f74e41b3.jpg?1562443323|https://scryfall.com/card/uds/60/eradicate?utm_source=api>`
-   Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles their library.
+   Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles.
 
 
 :mtgtip:`Festering Wound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/927eed13-510b-4b06-811d-91a6a069cb8c.jpg?1562444703|https://scryfall.com/card/uds/61/festering-wound?utm_source=api>`
@@ -482,7 +482,7 @@
 
 
 :mtgtip:`Sowing Salt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de2f7251-f71a-47d2-a779-c898d94e807c.jpg?1562445222|https://scryfall.com/card/uds/97/sowing-salt?utm_source=api>`
-   Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles their library.
+   Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles.
 
 
 :mtgtip:`Trumpet Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fcce5fd-9efb-42fa-9cd6-ed45d8ee46d7.jpg?1562444719|https://scryfall.com/card/uds/98/trumpet-blast?utm_source=api>`
@@ -566,7 +566,7 @@
 :mtgtip:`Pattern of Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f23c4f4-a191-4225-a3b7-dab5b1462922.jpg?1562444718|https://scryfall.com/card/uds/115/pattern-of-rebirth?utm_source=api>`
    Enchant creature
 
-   When enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle their library.
+   When enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Plated Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/3529f49b-7e5e-4fa8-a03d-a94877761525.jpg?1562443751|https://scryfall.com/card/uds/116/plated-spider?utm_source=api>`
@@ -590,7 +590,7 @@
 
 
 :mtgtip:`Splinter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb32175c-f2e6-460b-b4bf-dd85cac3eb4f.jpg?1562445229|https://scryfall.com/card/uds/121/splinter?utm_source=api>`
-   Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library.
+   Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles.
 
 
 :mtgtip:`Taunting Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85bfa6b9-c898-4bb6-a444-6cf336bfb260.jpg?1562444257|https://scryfall.com/card/uds/122/taunting-elf?utm_source=api>`
@@ -602,7 +602,7 @@
 
 
 :mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/325d9372-01c9-4e99-a966-13c8f8566e2e.jpg?1562443748|https://scryfall.com/card/uds/124/yavimaya-elder?utm_source=api>`
-   When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+   When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
    |mana_2|, Sacrifice Yavimaya Elder: Draw a card.
 
@@ -616,7 +616,7 @@
 
 
 :mtgtip:`Braidwood Sextant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16dc7634-8ef5-4a03-8276-7e1dae4244c2.jpg?1562443331|https://scryfall.com/card/uds/127/braidwood-sextant?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Brass Secretary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5685cff-b607-4a81-aa47-6676ab1a5782.jpg?1562445197|https://scryfall.com/card/uds/128/brass-secretary?utm_source=api>`
@@ -664,7 +664,7 @@
 :mtgtip:`Powder Keg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d9715c2-9036-4ae2-a5b4-1b190d50c963.jpg?1562443764|https://scryfall.com/card/uds/136/powder-keg?utm_source=api>`
    At the beginning of your upkeep, you may put a fuse counter on Powder Keg.
 
-   |tap|, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.
+   |tap|, Sacrifice Powder Keg: Destroy each artifact and creature with mana value equal to the number of fuse counters on Powder Keg.
 
 
 :mtgtip:`Scrying Glass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7286819f-6c57-4503-898c-528786ad86e9.jpg?1562444240|https://scryfall.com/card/uds/137/scrying-glass?utm_source=api>`

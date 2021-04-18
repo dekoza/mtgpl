@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,7 +123,7 @@ msgid "At the beginning of your upkeep, put a credit counter on Icatian Moneycha
 msgstr ""
 
 #: ../../FEM.rst:57
-msgid "Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep."
+msgid "Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate only during your upkeep."
 msgstr ""
 
 #: ../../FEM.rst:62
@@ -248,7 +248,7 @@ msgid ":mtgtip:`Homarid Spawning Bed<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../FEM.rst:119
-msgid "|mana_1|\\ |mana_u|\\ |mana_u|, Sacrifice a blue creature: Create X 1/1 blue Camarid creature tokens, where X is the sacrificed creature's converted mana cost."
+msgid "|mana_1|\\ |mana_u|\\ |mana_u|, Sacrifice a blue creature: Create X 1/1 blue Camarid creature tokens, where X is the sacrificed creature's mana value."
 msgstr ""
 
 #: ../../FEM.rst:124
@@ -304,7 +304,7 @@ msgid ":mtgtip:`Svyelunite Priest<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../FEM.rst:149
-msgid "|mana_u|\\ |mana_u|, |tap|: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. (It can't be the target of spells or abilities.)"
+msgid "|mana_u|\\ |mana_u|, |tap|: Target creature gains shroud until end of turn. Activate only during your upkeep. (It can't be the target of spells or abilities.)"
 msgstr ""
 
 #: ../../FEM.rst:154
@@ -444,7 +444,7 @@ msgid "At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor."
 msgstr ""
 
 #: ../../FEM.rst:221
-msgid "Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn."
+msgid "Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate only during your upkeep and only once each turn."
 msgstr ""
 
 #: ../../FEM.rst:226
@@ -568,7 +568,7 @@ msgid "At the beginning of your upkeep, remove a time counter from Tourach's Gat
 msgstr ""
 
 #: ../../FEM.rst:285
-msgid "Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate this ability only if enchanted land is untapped."
+msgid "Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate only if enchanted land is untapped."
 msgstr ""
 
 #: ../../FEM.rst:290

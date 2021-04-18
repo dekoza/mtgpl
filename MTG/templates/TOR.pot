@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -459,7 +459,7 @@ msgid ":mtgtip:`Liquify<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../TOR.rst:229
-msgid "Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+msgid "Counter target spell with mana value 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
 
 #: ../../TOR.rst:236
@@ -567,7 +567,7 @@ msgid "|mana_b|, |tap|: Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../TOR.rst:297
-msgid "Threshold — |mana_3|\\ |mana_b|\\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard."
+msgid "Threshold — |mana_3|\\ |mana_b|\\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn. Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../TOR.rst:302
@@ -716,7 +716,7 @@ msgid ":mtgtip:`Insidious Dreams<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../TOR.rst:377
-msgid "Search your library for X cards. Then shuffle your library and put those cards on top of it in any order."
+msgid "Search your library for X cards, then shuffle and put those cards on top in any order."
 msgstr ""
 
 #: ../../TOR.rst:386
@@ -1301,7 +1301,7 @@ msgid ":mtgtip:`Basking Rootwalla<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../TOR.rst:687
-msgid "|mana_1|\\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../TOR.rst:689
@@ -1337,11 +1337,11 @@ msgid ":mtgtip:`Far Wanderings<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../TOR.rst:709
-msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../TOR.rst:711
-msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../TOR.rst:718
@@ -1389,7 +1389,7 @@ msgid "|tap|: Untap target land."
 msgstr ""
 
 #: ../../TOR.rst:739
-msgid "Threshold — |tap|: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard."
+msgid "Threshold — |tap|: Untap up to three target lands. Activate only if seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../TOR.rst:746
@@ -1492,7 +1492,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../TOR.rst:795
-msgid "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp."
+msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../TOR.rst:802
@@ -1500,7 +1500,7 @@ msgid ":mtgtip:`Tainted Isle<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../TOR.rst:801
-msgid "|tap|: Add |mana_u| or |mana_b|. Activate this ability only if you control a Swamp."
+msgid "|tap|: Add |mana_u| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../TOR.rst:808
@@ -1508,7 +1508,7 @@ msgid ":mtgtip:`Tainted Peak<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../TOR.rst:807
-msgid "|tap|: Add |mana_b| or |mana_r|. Activate this ability only if you control a Swamp."
+msgid "|tap|: Add |mana_b| or |mana_r|. Activate only if you control a Swamp."
 msgstr ""
 
 #: ../../TOR.rst:813
@@ -1516,5 +1516,5 @@ msgid ":mtgtip:`Tainted Wood<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../TOR.rst:813
-msgid "|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you control a Swamp."
+msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""

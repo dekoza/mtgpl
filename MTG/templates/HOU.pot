@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -154,7 +154,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../HOU.rst:65
-msgid "When Djeru, With Eyes Open enters the battlefield, you may search your library for a planeswalker card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Djeru, With Eyes Open enters the battlefield, you may search your library for a planeswalker card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:67
@@ -605,7 +605,7 @@ msgid ":mtgtip:`Vizier of the Anointed<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../HOU.rst:313
-msgid "When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle your library."
+msgid "When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:315
@@ -791,7 +791,7 @@ msgid "Flying, trample"
 msgstr ""
 
 #: ../../HOU.rst:413
-msgid "Pay 2 life, Sacrifice another creature: Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Pay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:420
@@ -799,7 +799,7 @@ msgid ":mtgtip:`Razaketh's Rite<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../HOU.rst:417
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:426
@@ -995,7 +995,7 @@ msgid ":mtgtip:`Hazoret's Undying Fury<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../HOU.rst:533
-msgid "Shuffle your library, then exile the top four cards. You may cast any number of spells with converted mana cost 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step."
+msgid "Shuffle your library, then exile the top four cards. You may cast any number of spells with mana value 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step."
 msgstr ""
 
 #: ../../HOU.rst:538
@@ -1015,7 +1015,7 @@ msgid "Imminent Doom enters the battlefield with a doom counter on it."
 msgstr ""
 
 #: ../../HOU.rst:543
-msgid "Whenever you cast a spell with converted mana cost equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom."
+msgid "Whenever you cast a spell with mana value equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom."
 msgstr ""
 
 #: ../../HOU.rst:550
@@ -1127,7 +1127,7 @@ msgid ":mtgtip:`Beneath the Sands<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../HOU.rst:609
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:616
@@ -1167,7 +1167,7 @@ msgid ":mtgtip:`Frilled Sandwalla<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../HOU.rst:631
-msgid "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../HOU.rst:636
@@ -1199,7 +1199,7 @@ msgid ":mtgtip:`Hour of Promise<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../HOU.rst:649
-msgid "Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens."
+msgid "Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens."
 msgstr ""
 
 #: ../../HOU.rst:654
@@ -1345,7 +1345,7 @@ msgid ":mtgtip:`Sifter Wurm<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../HOU.rst:725
-msgid "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's converted mana cost."
+msgid "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's mana value."
 msgstr ""
 
 #: ../../HOU.rst:730
@@ -1361,7 +1361,7 @@ msgid ":mtgtip:`Uncage the Menagerie<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../HOU.rst:733
-msgid "Search your library for up to X creature cards with different names that each have converted mana cost X, reveal them, put them into your hand, then shuffle your library."
+msgid "Search your library for up to X creature cards with different names that each have mana value X, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:742
@@ -1457,7 +1457,7 @@ msgid "−2: Samut, the Tested deals 2 damage divided as you choose among one or
 msgstr ""
 
 #: ../../HOU.rst:789
-msgid "−7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library."
+msgid "−7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:798
@@ -1554,7 +1554,7 @@ msgid ":mtgtip:`Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/fr
 msgstr ""
 
 #: ../../HOU.rst:835
-msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../HOU.rst:842
@@ -1650,7 +1650,7 @@ msgid ":mtgtip:`Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../HOU.rst:895
-msgid "Refuse deals damage to target spell's controller equal to that spell's converted mana cost."
+msgid "Refuse deals damage to target spell's controller equal to that spell's mana value."
 msgstr ""
 
 #: ../../HOU.rst:902
@@ -1770,7 +1770,7 @@ msgid ":mtgtip:`Traveler's Amulet<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../HOU.rst:963
-msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:970
@@ -1778,7 +1778,7 @@ msgid ":mtgtip:`Wall of Forgotten Pharaohs<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../HOU.rst:969
-msgid "|tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate this ability only if you control a Desert or there is a Desert card in your graveyard."
+msgid "|tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate only if you control a Desert or there is a Desert card in your graveyard."
 msgstr ""
 
 #: ../../HOU.rst:978
@@ -1916,7 +1916,7 @@ msgid "|tap|, Pay 1 life: Add |mana_g|."
 msgstr ""
 
 #: ../../HOU.rst:1039
-msgid "|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate only as a sorcery."
 msgstr ""
 
 #: ../../HOU.rst:1046
@@ -1936,7 +1936,7 @@ msgid "|tap|, Pay 1 life: Add |mana_b|."
 msgstr ""
 
 #: ../../HOU.rst:1053
-msgid "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate only as a sorcery."
 msgstr ""
 
 #: ../../HOU.rst:1062
@@ -1980,7 +1980,7 @@ msgid "|tap|, Pay 1 life: Add |mana_w|."
 msgstr ""
 
 #: ../../HOU.rst:1083
-msgid "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery."
 msgstr ""
 
 #: ../../HOU.rst:1090
@@ -2068,7 +2068,7 @@ msgid ":mtgtip:`Nissa's Encouragement<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../HOU.rst:1129
-msgid "Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle your library."
+msgid "Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../HOU.rst:1136
@@ -2120,7 +2120,7 @@ msgid ":mtgtip:`Visage of Bolas<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../HOU.rst:1157
-msgid "When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../HOU.rst:1159

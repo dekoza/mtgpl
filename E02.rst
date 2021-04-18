@@ -18,7 +18,7 @@
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b68ec2-bdb8-46ab-a741-36259926fd6f.jpg?1562906397|https://scryfall.com/card/e02/3/path-to-exile?utm_source=api>`
-   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Shielded by Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/066ac822-7417-4dc4-93ba-bfba2252f47b.jpg?1562896529|https://scryfall.com/card/e02/4/shielded-by-faith?utm_source=api>`
@@ -36,7 +36,7 @@
 :mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb43ab42-0c5e-4c71-b678-a258fec3bf48.jpg?1562939178|https://scryfall.com/card/e02/6/vow-of-duty?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.
+   Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control.
 
 
 :mtgtip:`Aether Gale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1352ede2-9eb4-44db-b323-58b7b6409242.jpg?1562899588|https://scryfall.com/card/e02/7/aether-gale?utm_source=api>`
@@ -58,7 +58,7 @@
 
 
 :mtgtip:`Threads of Disloyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c4a061e-45ac-47b5-a955-5744199589b1.jpg?1593860779|https://scryfall.com/card/e02/11/threads-of-disloyalty?utm_source=api>`
-   Enchant creature with converted mana cost 2 or less
+   Enchant creature with mana value 2 or less
 
    You control enchanted creature.
 
@@ -74,7 +74,7 @@
 :mtgtip:`Vow of Flight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/940379f0-55ae-49b2-9aef-d18e509ed05b.jpg?1562929891|https://scryfall.com/card/e02/14/vow-of-flight?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control.
+   Enchanted creature gets +2/+2, has flying, and can't attack you or planeswalkers you control.
 
 
 :mtgtip:`Bloodbond Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c2b7878-d66a-437a-967d-d6070e425c2c.jpg?1592451739|https://scryfall.com/card/e02/15/bloodbond-vampire?utm_source=api>`
@@ -122,13 +122,13 @@
 
 
 :mtgtip:`Aggravated Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f9fa105-6829-431c-8386-8e3e9deff2db.jpg?1562928859|https://scryfall.com/card/e02/25/aggravated-assault?utm_source=api>`
-   |mana_3|\ |mana_r|\ |mana_r|: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|\ |mana_r|: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery.
 
 
 :mtgtip:`Disaster Radius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7a4ef98-2b74-40e6-90ff-23179fb962da.jpg?1562934725|https://scryfall.com/card/e02/26/disaster-radius?utm_source=api>`
    As an additional cost to cast this spell, reveal a creature card from your hand.
 
-   Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+   Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.
 
 
 :mtgtip:`Mass Mutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/461aaf42-9b96-4960-b6c8-ba80cf4ef349.jpg?1562911451|https://scryfall.com/card/e02/27/mass-mutiny?utm_source=api>`
@@ -146,11 +146,11 @@
 :mtgtip:`Vow of Lightning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/520762c5-ca7c-4be3-b9aa-a5ae87c00da4.jpg?1562914221|https://scryfall.com/card/e02/30/vow-of-lightning?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control.
+   Enchanted creature gets +2/+2, has first strike, and can't attack you or planeswalkers you control.
 
 
 :mtgtip:`Borderland Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12124073-518a-498c-a817-400547ae7040.jpg?1562899345|https://scryfall.com/card/e02/31/borderland-ranger?utm_source=api>`
-   When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Giant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f237ecfe-ecb0-42e6-852f-4a7c61652803.jpg?1562952508|https://scryfall.com/card/e02/32/giant-growth?utm_source=api>`
@@ -182,7 +182,7 @@
 :mtgtip:`Vow of Wildness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1c4cea1-e06b-468e-86ef-07c3958ab10b.jpg?1562948732|https://scryfall.com/card/e02/37/vow-of-wildness?utm_source=api>`
    Enchant creature
 
-   Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control.
+   Enchanted creature gets +3/+3, has trample, and can't attack you or planeswalkers you control.
 
 
 :mtgtip:`Jungle Barrier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8be6060c-f6df-451d-86cd-c4e2564095ba.jpg?1562928034|https://scryfall.com/card/e02/38/jungle-barrier?utm_source=api>`
@@ -236,5 +236,5 @@
 :mtgtip:`Tainted Field<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb4125db-b44f-49b8-b74d-e131844e5510.jpg?1562943021|https://scryfall.com/card/e02/47/tainted-field?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp.
+   |tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp.
 

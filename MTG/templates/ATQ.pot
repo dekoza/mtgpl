@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,7 +146,7 @@ msgid ":mtgtip:`Transmute Artifact<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ATQ.rst:69
-msgid "Sacrifice an artifact. If you do, search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay |mana_x|, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library."
+msgid "Sacrifice an artifact. If you do, search your library for an artifact card. If that card's mana value is less than or equal to the sacrificed artifact's mana value, put it onto the battlefield. If it's greater, you may pay |mana_x|, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle."
 msgstr ""
 
 #: ../../ATQ.rst:76
@@ -162,7 +162,7 @@ msgid ":mtgtip:`Gate to Phyrexia<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ATQ.rst:79
-msgid "Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn."
+msgid "Sacrifice a creature: Destroy target artifact. Activate only during your upkeep and only once each turn."
 msgstr ""
 
 #: ../../ATQ.rst:84
@@ -190,7 +190,7 @@ msgid ":mtgtip:`Priest of Yawgmoth<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ATQ.rst:93
-msgid "|tap|, Sacrifice an artifact: Add an amount of |mana_b| equal to the sacrificed artifact's converted mana cost."
+msgid "|tap|, Sacrifice an artifact: Add an amount of |mana_b| equal to the sacrificed artifact's mana value."
 msgstr ""
 
 #: ../../ATQ.rst:98
@@ -198,7 +198,7 @@ msgid ":mtgtip:`Xenic Poltergeist<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ATQ.rst:97
-msgid "|tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost."
+msgid "|tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
 #: ../../ATQ.rst:106
@@ -238,7 +238,7 @@ msgid ":mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../ATQ.rst:117
-msgid "Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller."
+msgid "Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller."
 msgstr ""
 
 #: ../../ATQ.rst:122
@@ -246,7 +246,7 @@ msgid ":mtgtip:`Dwarven Weaponsmith<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../ATQ.rst:121
-msgid "|tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep."
+msgid "|tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate only during your upkeep."
 msgstr ""
 
 #: ../../ATQ.rst:126
@@ -306,7 +306,7 @@ msgid ":mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../ATQ.rst:151
-msgid "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost."
+msgid "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value."
 msgstr ""
 
 #: ../../ATQ.rst:156
@@ -330,7 +330,7 @@ msgid ":mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ATQ.rst:163
-msgid "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn."
+msgid "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn."
 msgstr ""
 
 #: ../../ATQ.rst:168
@@ -448,7 +448,7 @@ msgid "At end of combat, if Clockwork Avian attacked or blocked this combat, rem
 msgstr ""
 
 #: ../../ATQ.rst:221
-msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep."
+msgid "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep."
 msgstr ""
 
 #: ../../ATQ.rst:230
@@ -464,7 +464,7 @@ msgid "Colossus of Sardia doesn't untap during your untap step."
 msgstr ""
 
 #: ../../ATQ.rst:229
-msgid "|mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep."
+msgid "|mana_9|: Untap Colossus of Sardia. Activate only during your upkeep."
 msgstr ""
 
 #: ../../ATQ.rst:234
@@ -604,7 +604,7 @@ msgid ":mtgtip:`Rocket Launcher<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../ATQ.rst:301
-msgid "|mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn."
+msgid "|mana_2|: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn."
 msgstr ""
 
 #: ../../ATQ.rst:310

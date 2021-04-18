@@ -172,7 +172,7 @@
 
 
 :mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1301e203-7d9a-4735-8db3-7882ad70d343.jpg?1559604176|https://scryfall.com/card/4ed/34/land-tax?utm_source=api>`
-   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.
+   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Mesa Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60c0faf1-0c16-441a-97fd-6d4e91c894a5.jpg?1559601288|https://scryfall.com/card/4ed/35/mesa-pegasus?utm_source=api>`
@@ -296,7 +296,7 @@
 :mtgtip:`Animate Artifact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea613c48-258b-499d-975b-f56fbef3c665.jpg?1559603702|https://scryfall.com/card/4ed/60/animate-artifact?utm_source=api>`
    Enchant artifact
 
-   As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+   As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value.
 
 
 :mtgtip:`Apprentice Wizard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9ef569e-91e7-45f5-83b0-5a820242c628.jpg?1559604221|https://scryfall.com/card/4ed/61/apprentice-wizard?utm_source=api>`
@@ -342,7 +342,7 @@
 
 
 :mtgtip:`Energy Tap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f67692d-9df6-4841-a36b-26c28110b63b.jpg?1559604235|https://scryfall.com/card/4ed/69/energy-tap?utm_source=api>`
-   Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's converted mana cost.
+   Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's mana value.
 
 
 :mtgtip:`Erosion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dc539ff-03f5-4bec-877a-061fb5d40de9.jpg?1559603772|https://scryfall.com/card/4ed/70/erosion?utm_source=api>`
@@ -526,7 +526,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/008df307-f010-47bc-8548-65a1c7b1c4b8.jpg?1559601144|https://scryfall.com/card/4ed/103/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Stasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3d29fed-248d-4547-9455-3d69b1f2787d.jpg?1559600486|https://scryfall.com/card/4ed/104/stasis?utm_source=api>`
@@ -786,7 +786,7 @@
 
 
 :mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/018a02f9-81f7-412b-8e98-d7be3eb73eca.jpg?1559603755|https://scryfall.com/card/4ed/155/rag-man?utm_source=api>`
-   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.
+   |mana_b|\ |mana_b|\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn.
 
 
 :mtgtip:`Raise Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2096e54e-1a55-4fd7-8415-a6f2fdb2a536.jpg?1559601309|https://scryfall.com/card/4ed/156/raise-dead?utm_source=api>`
@@ -844,7 +844,7 @@
 :mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2aed701-5164-4c63-9539-3d2406970f46.jpg?1559600394|https://scryfall.com/card/4ed/167/vampire-bats?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
-   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+   |mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.
 
 
 :mtgtip:`Wall of Bone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36ce3251-017f-4834-9935-0985c56cccb7.jpg?1559600408|https://scryfall.com/card/4ed/168/wall-of-bone?utm_source=api>`
@@ -876,7 +876,7 @@
 
 
 :mtgtip:`Xenic Poltergeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3c546db-0871-4a13-8654-c26ae9f9b50a.jpg?1559603828|https://scryfall.com/card/4ed/173/xenic-poltergeist?utm_source=api>`
-   |tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+   |tap|: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
 
 
 :mtgtip:`Zombie Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d86753ae-c8da-47d7-b97a-3c75f83ee929.jpg?1559600444|https://scryfall.com/card/4ed/174/zombie-master?utm_source=api>`
@@ -932,7 +932,7 @@
 
 
 :mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26e23d23-92ca-4d74-88e8-e1137d7faaf1.jpg?1559603794|https://scryfall.com/card/4ed/184/detonate?utm_source=api>`
-   Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+   Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
 
 
 :mtgtip:`Disintegrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f41f868-454e-4075-9ef4-bcf3754d421c.jpg?1559604248|https://scryfall.com/card/4ed/185/disintegrate?utm_source=api>`
@@ -1192,7 +1192,7 @@
 
 
 :mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86873be9-21eb-496c-b278-4c9847563b0f.jpg?1559600992|https://scryfall.com/card/4ed/239/crumble?utm_source=api>`
-   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.
+   Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value.
 
 
 :mtgtip:`Desert Twister<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/5603ce3f-3b39-4433-8ccf-44b44dc99de5.jpg?1559603746|https://scryfall.com/card/4ed/240/desert-twister?utm_source=api>`
@@ -1252,7 +1252,7 @@
 
    Enchanted creature can attack as though it had haste.
 
-   |mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+   |mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn.
 
 
 :mtgtip:`Ironroot Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6c93c85-5263-4770-b937-704e57912478.jpg?1559604185|https://scryfall.com/card/4ed/253/ironroot-treefolk?utm_source=api>`
@@ -1360,7 +1360,7 @@
 
 
 :mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19dd44e3-d62c-405d-a620-7dc871eef81c.jpg?1559600383|https://scryfall.com/card/4ed/276/titanias-song?utm_source=api>`
-   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+   Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn.
 
 
 :mtgtip:`Tranquility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1c8b995-f3d9-435a-8360-4047a619b23b.jpg?1559603797|https://scryfall.com/card/4ed/277/tranquility?utm_source=api>`
@@ -1372,7 +1372,7 @@
 
 
 :mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de2d276d-7a73-4a8f-9803-a37301bc2905.jpg?1559600386|https://scryfall.com/card/4ed/279/untamed-wilds?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Venom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7a314a0-14cb-4df1-8f2f-653455f13b09.jpg?1559603639|https://scryfall.com/card/4ed/280/venom?utm_source=api>`
@@ -1518,7 +1518,7 @@
 
    At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep.
 
 
 :mtgtip:`Clockwork Beast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40dc8595-32b9-4045-bae3-5078c9a17527.jpg?1559603665|https://scryfall.com/card/4ed/307/clockwork-beast?utm_source=api>`
@@ -1526,7 +1526,7 @@
 
    At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
 
-   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+   |mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.
 
 
 :mtgtip:`Colossus of Sardia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/063acc0f-8062-4461-b0f5-8c3a835e1fbf.jpg?1559601273|https://scryfall.com/card/4ed/308/colossus-of-sardia?utm_source=api>`
@@ -1534,7 +1534,7 @@
 
    Colossus of Sardia doesn't untap during your untap step.
 
-   |mana_9|: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+   |mana_9|: Untap Colossus of Sardia. Activate only during your upkeep.
 
 
 :mtgtip:`Conservator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6639eea-d0ae-4f0d-a8da-1b863b482b68.jpg?1559604203|https://scryfall.com/card/4ed/309/conservator?utm_source=api>`
@@ -1568,7 +1568,7 @@
 
 
 :mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb9b9085-6dd7-44fc-b3a5-7f797c34f8dc.jpg?1559604245|https://scryfall.com/card/4ed/316/disrupting-scepter?utm_source=api>`
-   |mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn.
+   |mana_3|, |tap|: Target player discards a card. Activate only during your turn.
 
 
 :mtgtip:`Dragon Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80ecbbb3-2d0d-49dc-90b3-1b396d47bf56.jpg?1559603649|https://scryfall.com/card/4ed/317/dragon-engine?utm_source=api>`

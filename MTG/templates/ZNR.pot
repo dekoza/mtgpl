@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -480,11 +480,11 @@ msgid ":mtgtip:`Skyclave Apparition<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../ZNR.rst:235
-msgid "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less."
+msgid "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with mana value 4 or less."
 msgstr ""
 
 #: ../../ZNR.rst:237
-msgid "When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card."
+msgid "When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the mana value of the exiled card."
 msgstr ""
 
 #: ../../ZNR.rst:242
@@ -775,7 +775,7 @@ msgid "Kicker |mana_2|"
 msgstr ""
 
 #: ../../ZNR.rst:389
-msgid "When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage except it's not legendary and its starting loyalty is 1."
+msgid "When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage, except it's not legendary and its starting loyalty is 1."
 msgstr ""
 
 #: ../../ZNR.rst:391
@@ -783,7 +783,7 @@ msgid "+1: Scry 2."
 msgstr ""
 
 #: ../../ZNR.rst:393
-msgid "0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's converted mana cost from Jace, Mirror Mage."
+msgid "0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's mana value from Jace, Mirror Mage."
 msgstr ""
 
 #: ../../ZNR.rst:398
@@ -823,7 +823,7 @@ msgid "This spell costs |mana_3| less to cast if it targets a creature whose con
 msgstr ""
 
 #: ../../ZNR.rst:415
-msgid "Gain control of target creature with converted mana cost X."
+msgid "Gain control of target creature with mana value X."
 msgstr ""
 
 #: ../../ZNR.rst:422
@@ -867,7 +867,7 @@ msgid "Whenever Merfolk Windrobber deals combat damage to a player, that player 
 msgstr ""
 
 #: ../../ZNR.rst:443
-msgid "Sacrifice Merfolk Windrobber: Draw a card. Activate this ability only if an opponent has eight or more cards in their graveyard."
+msgid "Sacrifice Merfolk Windrobber: Draw a card. Activate only if an opponent has eight or more cards in their graveyard."
 msgstr ""
 
 #: ../../ZNR.rst:448
@@ -943,7 +943,7 @@ msgid "Kicker |mana_4|\\ |mana_u|"
 msgstr ""
 
 #: ../../ZNR.rst:485
-msgid "When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies."
+msgid "When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with mana value 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies."
 msgstr ""
 
 #: ../../ZNR.rst:490
@@ -1037,7 +1037,7 @@ msgid "Kicker |mana_x|. X can't be 0. (You may pay an additional |mana_x| as you
 msgstr ""
 
 #: ../../ZNR.rst:535
-msgid "When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver."
+msgid "When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to Thieving Skydiver."
 msgstr ""
 
 #: ../../ZNR.rst:540
@@ -1085,7 +1085,7 @@ msgid ":mtgtip:`Agadeem's Awakening<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../ZNR.rst:565
-msgid "Return from your graveyard to the battlefield any number of target creature cards that each have a different converted mana cost X or less."
+msgid "Return from your graveyard to the battlefield any number of target creature cards that each have a different mana value X or less."
 msgstr ""
 
 #: ../../ZNR.rst:572
@@ -1134,6 +1134,7 @@ msgstr ""
 #: ../../ZNR.rst:587
 #: ../../ZNR.rst:1265
 #: ../../ZNR.rst:1335
+#: ../../ZNR.rst:1443
 msgid "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)"
 msgstr ""
 
@@ -1158,7 +1159,7 @@ msgid "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b|
 msgstr ""
 
 #: ../../ZNR.rst:599
-msgid "Destroy target creature or planeswalker with converted mana cost 2 or less. If this spell was kicked, instead destroy target creature or planeswalker."
+msgid "Destroy target creature or planeswalker with mana value 2 or less. If this spell was kicked, instead destroy target creature or planeswalker."
 msgstr ""
 
 #: ../../ZNR.rst:606
@@ -1166,7 +1167,7 @@ msgid ":mtgtip:`Coveted Prize<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ZNR.rst:605
-msgid "Search your library for a card, put it into your hand, then shuffle your library. If you have a full party, you may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost."
+msgid "Search your library for a card, put it into your hand, then shuffle. If you have a full party, you may cast a spell with mana value 4 or less from your hand without paying its mana cost."
 msgstr ""
 
 #: ../../ZNR.rst:612
@@ -1222,7 +1223,7 @@ msgid ":mtgtip:`Feed the Swarm<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZNR.rst:637
-msgid "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's converted mana cost."
+msgid "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value."
 msgstr ""
 
 #: ../../ZNR.rst:646
@@ -1298,11 +1299,11 @@ msgid "Target opponent discards two cards."
 msgstr ""
 
 #: ../../ZNR.rst:681
-msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ZNR.rst:683
-msgid "Destroy target creature with converted mana cost 3 or less."
+msgid "Destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../ZNR.rst:692
@@ -1427,7 +1428,7 @@ msgid ":mtgtip:`Oblivion's Hunger<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZNR.rst:751
-msgid "Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say \"destroy\" don't destroy that creature.)"
+msgid "Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say \"destroy\" don't destroy the creature.)"
 msgstr ""
 
 #: ../../ZNR.rst:756
@@ -1435,7 +1436,7 @@ msgid ":mtgtip:`Pelakka Predation<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ZNR.rst:755
-msgid "Target opponent reveals their hand. You choose a card from it with converted mana cost 3 or greater. That player discards that card."
+msgid "Target opponent reveals their hand. You choose a card from it with mana value 3 or greater. That player discards that card."
 msgstr ""
 
 #: ../../ZNR.rst:762
@@ -1487,7 +1488,7 @@ msgid ":mtgtip:`Shadows' Verdict<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ZNR.rst:785
-msgid "Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards."
+msgid "Exile all creatures and planeswalkers with mana value 3 or less from the battlefield and all creature and planeswalker cards with mana value 3 or less from all graveyards."
 msgstr ""
 
 #: ../../ZNR.rst:796
@@ -1527,7 +1528,7 @@ msgid ":mtgtip:`Soul Shatter<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ZNR.rst:805
-msgid "Each opponent sacrifices a creature or planeswalker with the highest converted mana cost among creatures and planeswalkers they control."
+msgid "Each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control."
 msgstr ""
 
 #: ../../ZNR.rst:814
@@ -1656,7 +1657,7 @@ msgid ":mtgtip:`Cleansing Wildfire<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ZNR.rst:869
-msgid "Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library."
+msgid "Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNR.rst:876
@@ -2039,7 +2040,7 @@ msgid ":mtgtip:`Thundering Sparkmage<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../ZNR.rst:1081
-msgid "When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)"
+msgid "When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
 
 #: ../../ZNR.rst:1088
@@ -2378,7 +2379,7 @@ msgid ":mtgtip:`Reclaim the Wastes<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ZNR.rst:1267
-msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. If this spell was kicked, search your library for two basic land cards instead of one."
+msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If this spell was kicked, search your library for two basic land cards instead of one."
 msgstr ""
 
 #: ../../ZNR.rst:1272
@@ -2386,7 +2387,7 @@ msgid ":mtgtip:`Roiling Regrowth<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../ZNR.rst:1271
-msgid "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ZNR.rst:1278
@@ -2524,7 +2525,7 @@ msgid ":mtgtip:`Turntimber Symbiosis<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../ZNR.rst:1351
-msgid "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has converted mana cost 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order."
+msgid "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has mana value 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../ZNR.rst:1358
@@ -2552,7 +2553,7 @@ msgid ":mtgtip:`Vastwood Surge<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ZNR.rst:1373
-msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library. If this spell was kicked, put two +1/+1 counters on each creature you control."
+msgid "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If this spell was kicked, put two +1/+1 counters on each creature you control."
 msgstr ""
 
 #: ../../ZNR.rst:1382
@@ -2675,10 +2676,6 @@ msgstr ""
 msgid ":mtgtip:`Moss-Pit Skeleton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a445dc-3aea-4281-a145-0ab3a28ec6c6.jpg?1604200221|https://scryfall.com/card/znr/228/moss-pit-skeleton?utm_source=api>`"
 msgstr ""
 
-#: ../../ZNR.rst:1443
-msgid "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell)"
-msgstr ""
-
 #: ../../ZNR.rst:1445
 msgid "If Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it."
 msgstr ""
@@ -2728,7 +2725,7 @@ msgid "+1: Untap target land you control. You may have it become a 3/3 Elemental
 msgstr ""
 
 #: ../../ZNR.rst:1471
-msgid "−5: You may put a creature card with converted mana cost less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it."
+msgid "−5: You may put a creature card with mana value less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it."
 msgstr ""
 
 #: ../../ZNR.rst:1478
@@ -2752,7 +2749,7 @@ msgid "Lifelink"
 msgstr ""
 
 #: ../../ZNR.rst:1483
-msgid "Whenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser converted mana cost from your graveyard to the battlefield."
+msgid "Whenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser mana value from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ZNR.rst:1490
@@ -2820,7 +2817,7 @@ msgid "Verazol, the Split Current enters the battlefield with a +1/+1 counter on
 msgstr ""
 
 #: ../../ZNR.rst:1525
-msgid "Whenever you cast a kicked spell, you may remove two +1/+1 counters from Verazol, the Split Current. If you do, copy that spell. You may choose new targets for that copy. (A copy of a permanent spell becomes a token.)"
+msgid "Whenever you cast a kicked spell, you may remove two +1/+1 counters from Verazol. If you do, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
 msgstr ""
 
 #: ../../ZNR.rst:1532
@@ -2828,7 +2825,7 @@ msgid ":mtgtip:`Yasharn, Implacable Earth<https://c1.scryfall.com/file/scryfall-
 msgstr ""
 
 #: ../../ZNR.rst:1529
-msgid "When Yasharn, Implacable Earth enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle your library."
+msgid "When Yasharn enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../ZNR.rst:1531

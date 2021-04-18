@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -173,7 +173,7 @@ msgstr ""
 
 #: ../../BOK.rst:77
 #: ../../BOK.rst:459
-msgid "Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)"
+msgid "Soulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:84
@@ -181,7 +181,7 @@ msgid ":mtgtip:`Kentaro, the Smiling Cat<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../BOK.rst:83
-msgid "You may pay |mana_x| rather than pay the mana cost for Samurai spells you cast, where X is that spell's converted mana cost."
+msgid "You may pay |mana_x| rather than pay the mana cost for Samurai spells you cast, where X is that spell's mana value."
 msgstr ""
 
 #: ../../BOK.rst:88
@@ -209,7 +209,7 @@ msgid "Sacrifice Moonlit Strider: Target creature you control gains protection f
 msgstr ""
 
 #: ../../BOK.rst:97
-msgid "Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)"
+msgid "Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:108
@@ -254,7 +254,7 @@ msgid ":mtgtip:`Scour<https://c1.scryfall.com/file/scryfall-cards/border_crop/fr
 msgstr ""
 
 #: ../../BOK.rst:123
-msgid "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles their library."
+msgid "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:130
@@ -262,7 +262,7 @@ msgid ":mtgtip:`Shining Shoal<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../BOK.rst:127
-msgid "You may exile a white card with converted mana cost X from your hand rather than pay this spell's mana cost."
+msgid "You may exile a white card with mana value X from your hand rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../BOK.rst:129
@@ -300,7 +300,7 @@ msgid ":mtgtip:`Tallowisp<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../BOK.rst:149
-msgid "Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BOK.rst:154
@@ -308,7 +308,7 @@ msgid ":mtgtip:`Terashi's Grasp<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BOK.rst:153
-msgid "Destroy target artifact or enchantment. You gain life equal to its converted mana cost."
+msgid "Destroy target artifact or enchantment. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../BOK.rst:158
@@ -389,11 +389,11 @@ msgid ":mtgtip:`Disrupting Shoal<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../BOK.rst:193
-msgid "You may exile a blue card with converted mana cost X from your hand rather than pay this spell's mana cost."
+msgid "You may exile a blue card with mana value X from your hand rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../BOK.rst:195
-msgid "Counter target spell if its converted mana cost is X."
+msgid "Counter target spell if its mana value is X."
 msgstr ""
 
 #: ../../BOK.rst:202
@@ -425,7 +425,7 @@ msgid ":mtgtip:`Heed the Mists<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BOK.rst:213
-msgid "Mill a card, then draw cards equal to the milled card's converted mana cost."
+msgid "Mill a card, then draw cards equal to the milled card's mana value."
 msgstr ""
 
 #: ../../BOK.rst:222
@@ -437,7 +437,7 @@ msgid "Ninjutsu |mana_2|\\ |mana_u|\\ |mana_u| (|mana_2|\\ |mana_u|\\ |mana_u|, 
 msgstr ""
 
 #: ../../BOK.rst:219
-msgid "Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgid "Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../BOK.rst:221
@@ -538,7 +538,7 @@ msgid ":mtgtip:`Quash<https://c1.scryfall.com/file/scryfall-cards/border_crop/fr
 msgstr ""
 
 #: ../../BOK.rst:279
-msgid "Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library."
+msgid "Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:286
@@ -550,7 +550,7 @@ msgid "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Q
 msgstr ""
 
 #: ../../BOK.rst:285
-msgid "|mana_1|, |tap|, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand."
+msgid "|mana_1|, |tap|, Remove X ki counters from Quillmane Baku: Return target creature with mana value X or less to its owner's hand."
 msgstr ""
 
 #: ../../BOK.rst:290
@@ -614,7 +614,7 @@ msgid ":mtgtip:`Threads of Disloyalty<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../BOK.rst:321
-msgid "Enchant creature with converted mana cost 2 or less"
+msgid "Enchant creature with mana value 2 or less"
 msgstr ""
 
 #: ../../BOK.rst:323
@@ -659,7 +659,7 @@ msgid "Whenever Walker of Secret Ways deals combat damage to a player, look at t
 msgstr ""
 
 #: ../../BOK.rst:345
-msgid "|mana_1|\\ |mana_u|: Return target Ninja you control to its owner's hand. Activate this ability only during your turn."
+msgid "|mana_1|\\ |mana_u|: Return target Ninja you control to its owner's hand. Activate only during your turn."
 msgstr ""
 
 #: ../../BOK.rst:350
@@ -703,7 +703,7 @@ msgid "Fear (This creature can't be blocked except by artifact creatures and/or 
 msgstr ""
 
 #: ../../BOK.rst:371
-msgid "Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)"
+msgid "Soulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:376
@@ -711,7 +711,7 @@ msgid ":mtgtip:`Eradicate<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../BOK.rst:375
-msgid "Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles their library."
+msgid "Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:384
@@ -891,7 +891,7 @@ msgid ":mtgtip:`Sickening Shoal<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BOK.rst:471
-msgid "You may exile a black card with converted mana cost X from your hand rather than pay this spell's mana cost."
+msgid "You may exile a black card with mana value X from your hand rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../BOK.rst:473
@@ -927,7 +927,7 @@ msgid ":mtgtip:`Stir the Grave<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../BOK.rst:489
-msgid "Return target creature card with converted mana cost X or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value X or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../BOK.rst:494
@@ -1027,7 +1027,7 @@ msgid ":mtgtip:`Blazing Shoal<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../BOK.rst:541
-msgid "You may exile a red card with converted mana cost X from your hand rather than pay this spell's mana cost."
+msgid "You may exile a red card with mana value X from your hand rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../BOK.rst:543
@@ -1239,7 +1239,7 @@ msgid ":mtgtip:`Sowing Salt<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../BOK.rst:655
-msgid "Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles their library."
+msgid "Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:662
@@ -1273,7 +1273,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../BOK.rst:671
-msgid "Soulshift 8 (When this creature dies, you may return target Spirit card with converted mana cost 8 or less from your graveyard to your hand.)"
+msgid "Soulshift 8 (When this creature dies, you may return target Spirit card with mana value 8 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:678
@@ -1317,7 +1317,7 @@ msgid ":mtgtip:`Forked-Branch Garami<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../BOK.rst:695
-msgid "Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)"
+msgid "Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with mana value 4 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:704
@@ -1349,7 +1349,7 @@ msgid "Protection from non-Spirit creatures"
 msgstr ""
 
 #: ../../BOK.rst:713
-msgid "Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)"
+msgid "Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:722
@@ -1385,7 +1385,7 @@ msgid "Kodama of the Center Tree's power and toughness are each equal to the num
 msgstr ""
 
 #: ../../BOK.rst:733
-msgid "Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)"
+msgid "Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with mana value X or less from your graveyard to your hand.)"
 msgstr ""
 
 #: ../../BOK.rst:738
@@ -1401,7 +1401,7 @@ msgid ":mtgtip:`Lifespinner<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../BOK.rst:741
-msgid "|tap|, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library."
+msgid "|tap|, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../BOK.rst:746
@@ -1437,7 +1437,7 @@ msgid ":mtgtip:`Nourishing Shoal<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../BOK.rst:761
-msgid "You may exile a green card with converted mana cost X from your hand rather than pay this spell's mana cost."
+msgid "You may exile a green card with mana value X from your hand rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../BOK.rst:763
@@ -1453,7 +1453,7 @@ msgid "Snake offering (You may cast this card any time you could cast an instant
 msgstr ""
 
 #: ../../BOK.rst:769
-msgid "|tap|: Untap all Forests and all green creatures. Activate this ability only once each turn."
+msgid "|tap|: Untap all Forests and all green creatures. Activate only once each turn."
 msgstr ""
 
 #: ../../BOK.rst:776
@@ -1529,7 +1529,7 @@ msgid ":mtgtip:`Splinter<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../BOK.rst:807
-msgid "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library."
+msgid "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../BOK.rst:814
@@ -1695,7 +1695,7 @@ msgid ":mtgtip:`Slumbering Tora<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../BOK.rst:891
-msgid "|mana_2|, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's converted mana cost."
+msgid "|mana_2|, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's mana value."
 msgstr ""
 
 #: ../../BOK.rst:898

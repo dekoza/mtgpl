@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-11 17:21+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -111,7 +111,7 @@ msgid ":mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LEG.rst:51
-msgid "Destroy target artifact. You gain life equal to its converted mana cost."
+msgid "Destroy target artifact. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../LEG.rst:58
@@ -197,7 +197,7 @@ msgid ":mtgtip:`Great Defender<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../LEG.rst:85
-msgid "Target creature gets +0/+X until end of turn, where X is its converted mana cost."
+msgid "Target creature gets +0/+X until end of turn, where X is its mana value."
 msgstr ""
 
 #: ../../LEG.rst:90
@@ -280,7 +280,7 @@ msgid ":mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../LEG.rst:129
-msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../LEG.rst:134
@@ -522,7 +522,7 @@ msgid ":mtgtip:`Dream Coat<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../LEG.rst:249
-msgid "|mana_0|: Enchanted creature becomes the color or colors of your choice. Activate this ability only once each turn."
+msgid "|mana_0|: Enchanted creature becomes the color or colors of your choice. Activate only once each turn."
 msgstr ""
 
 #: ../../LEG.rst:256
@@ -550,7 +550,7 @@ msgid ":mtgtip:`Energy Tap<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../LEG.rst:263
-msgid "Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's converted mana cost."
+msgid "Tap target untapped creature you control. If you do, add an amount of |colorless| equal to that creature's mana value."
 msgstr ""
 
 #: ../../LEG.rst:268
@@ -610,7 +610,7 @@ msgid ":mtgtip:`In the Eye of Chaos<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../LEG.rst:297
-msgid "Whenever a player casts an instant spell, counter it unless that player pays |mana_x|, where X is its converted mana cost."
+msgid "Whenever a player casts an instant spell, counter it unless that player pays |mana_x|, where X is its mana value."
 msgstr ""
 
 #: ../../LEG.rst:302
@@ -618,7 +618,7 @@ msgid ":mtgtip:`Invoke Prejudice<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LEG.rst:301
-msgid "Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays |mana_x|, where X is its converted mana cost."
+msgid "Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays |mana_x|, where X is its mana value."
 msgstr ""
 
 #: ../../LEG.rst:306
@@ -626,7 +626,7 @@ msgid ":mtgtip:`Juxtapose<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../LEG.rst:305
-msgid "You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them."
+msgid "You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them."
 msgstr ""
 
 #: ../../LEG.rst:310
@@ -642,7 +642,7 @@ msgid ":mtgtip:`Mana Drain<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../LEG.rst:313
-msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's converted mana cost."
+msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's mana value."
 msgstr ""
 
 #: ../../LEG.rst:318
@@ -1001,7 +1001,7 @@ msgid ":mtgtip:`Hell's Caretaker<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../LEG.rst:511
-msgid "|tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep."
+msgid "|tap|, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEG.rst:516
@@ -1057,7 +1057,7 @@ msgid ":mtgtip:`Lesser Werewolf<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LEG.rst:541
-msgid "|mana_b|: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step."
+msgid "|mana_b|: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate only during the declare blockers step."
 msgstr ""
 
 #: ../../LEG.rst:546
@@ -1187,7 +1187,7 @@ msgid "Flying (This creature can't be blocked except by creatures with flying or
 msgstr ""
 
 #: ../../LEG.rst:609
-msgid "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+msgid "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn."
 msgstr ""
 
 #: ../../LEG.rst:614
@@ -1859,7 +1859,7 @@ msgid ":mtgtip:`Subdue<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../LEG.rst:1001
-msgid "Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its converted mana cost."
+msgid "Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its mana value."
 msgstr ""
 
 #: ../../LEG.rst:1006
@@ -1891,7 +1891,7 @@ msgid ":mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../LEG.rst:1017
-msgid "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../LEG.rst:1024
@@ -1951,7 +1951,7 @@ msgid ":mtgtip:`Angus Mackenzie<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LEG.rst:1051
-msgid "|mana_g|\\ |mana_w|\\ |mana_u|, |tap|: Prevent all combat damage that would be dealt this turn. Activate this ability only before the combat damage step."
+msgid "|mana_g|\\ |mana_w|\\ |mana_u|, |tap|: Prevent all combat damage that would be dealt this turn. Activate only before the combat damage step."
 msgstr ""
 
 #: ../../LEG.rst:1062
@@ -2043,7 +2043,7 @@ msgid ":mtgtip:`Gwendlyn Di Corci<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../LEG.rst:1113
-msgid "|tap|: Target player discards a card at random. Activate this ability only during your turn."
+msgid "|tap|: Target player discards a card at random. Activate only during your turn."
 msgstr ""
 
 #: ../../LEG.rst:1118
@@ -2156,7 +2156,7 @@ msgid ":mtgtip:`Nebuchadnezzar<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../LEG.rst:1187
-msgid "|mana_x|, |tap|: Choose a card name. Target opponent reveals X cards at random from their hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn."
+msgid "|mana_x|, |tap|: Choose a card name. Target opponent reveals X cards at random from their hand. Then that player discards all cards with that name revealed this way. Activate only during your turn."
 msgstr ""
 
 #: ../../LEG.rst:1196
@@ -2502,7 +2502,7 @@ msgid ":mtgtip:`Kry Shield<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../LEG.rst:1387
-msgid "|mana_2|, |tap|: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost."
+msgid "|mana_2|, |tap|: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its mana value."
 msgstr ""
 
 #: ../../LEG.rst:1392
@@ -2510,7 +2510,7 @@ msgid ":mtgtip:`Life Chisel<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../LEG.rst:1391
-msgid "Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep."
+msgid "Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEG.rst:1396
@@ -2518,7 +2518,7 @@ msgid ":mtgtip:`Life Matrix<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../LEG.rst:1395
-msgid "|mana_4|, |tap|: Put a matrix counter on target creature and that creature gains \"Remove a matrix counter from this creature: Regenerate this creature.\" Activate this ability only during your upkeep."
+msgid "|mana_4|, |tap|: Put a matrix counter on target creature and that creature gains \"Remove a matrix counter from this creature: Regenerate this creature.\" Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEG.rst:1400
@@ -2546,7 +2546,7 @@ msgid ":mtgtip:`Mirror Universe<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../LEG.rst:1409
-msgid "|tap|, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep."
+msgid "|tap|, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate only during your upkeep."
 msgstr ""
 
 #: ../../LEG.rst:1414
@@ -2638,15 +2638,15 @@ msgid "|mana_3|, |tap|: Put a hatchling counter on Triassic Egg."
 msgstr ""
 
 #: ../../LEG.rst:1455
-msgid "Sacrifice Triassic Egg: Choose one —"
+msgid "Sacrifice Triassic Egg: Choose one. Activate only if there are two or more hatchling counters on Triassic Egg."
 msgstr ""
 
 #: ../../LEG.rst:1457
-msgid "You may put a creature card from your hand onto the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg."
+msgid "You may put a creature card from your hand onto the battlefield."
 msgstr ""
 
 #: ../../LEG.rst:1459
-msgid "Return target creature card from your graveyard to the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg."
+msgid "Return target creature card from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../LEG.rst:1468
@@ -2758,7 +2758,7 @@ msgid ":mtgtip:`Tolaria<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../LEG.rst:1517
-msgid "|tap|: Target creature loses banding and all \"bands with other\" abilities until end of turn. Activate this ability only during any upkeep step."
+msgid "|tap|: Target creature loses banding and all \"bands with other\" abilities until end of turn. Activate only during any upkeep step."
 msgstr ""
 
 #: ../../LEG.rst:1522

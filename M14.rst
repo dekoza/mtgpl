@@ -182,7 +182,7 @@
 
 
 :mtgtip:`Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c2b13b1-31f0-4676-88a7-53f3a190e9a2.jpg?1562826686|https://scryfall.com/card/m14/35/silence?utm_source=api>`
-   Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)
+   Your opponents can't cast spells this turn.
 
 
 :mtgtip:`Solemn Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9ca09fed-f9b3-49ee-be89-404581a4cbd2.jpg?1562832842|https://scryfall.com/card/m14/36/solemn-offering?utm_source=api>`
@@ -274,7 +274,7 @@
 :mtgtip:`Elite Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99b225fe-c07d-4d8a-bf2b-c1777bd29061.jpg?1562832740|https://scryfall.com/card/m14/54/elite-arcanist?utm_source=api>`
    When Elite Arcanist enters the battlefield, you may exile an instant card from your hand.
 
-   |mana_x|, |tap|: Copy the exiled card. You may cast the copy without paying its mana cost. X is the converted mana cost of the exiled card.
+   |mana_x|, |tap|: Copy the exiled card. You may cast the copy without paying its mana cost. X is the mana value of the exiled card.
 
 
 :mtgtip:`Essence Scatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49bd28e3-1612-41b3-88a0-bb5c1ee60ace.jpg?1562828801|https://scryfall.com/card/m14/55/essence-scatter?utm_source=api>`
@@ -366,7 +366,7 @@
 
 
 :mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42d7af6a-bfd1-4e89-965a-68336507a9ee.jpg?1562828463|https://scryfall.com/card/m14/72/spell-blast?utm_source=api>`
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
+   Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 :mtgtip:`Tidebinder Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e032d1dd-6efc-4f6c-ad3b-30fe74845edf.jpg?1562836137|https://scryfall.com/card/m14/73/tidebinder-mage?utm_source=api>`
@@ -444,7 +444,7 @@
 
 
 :mtgtip:`Bogbrew Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7559cf3e-7fad-4bcf-8551-045f9150e014.jpg?1562831047|https://scryfall.com/card/m14/88/bogbrew-witch?utm_source=api>`
-   |mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Child of Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c21b5476-5f5f-46b5-b627-398e9fcd04aa.jpg?1562834704|https://scryfall.com/card/m14/89/child-of-night?utm_source=api>`
@@ -478,7 +478,7 @@
 
 
 :mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d75a7c8b-f29f-4574-96c0-daac17fc75bb.jpg?1562835693|https://scryfall.com/card/m14/95/diabolic-tutor?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Doom Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75d96a37-bdbe-46ae-926f-8742699a0b20.jpg?1562831067|https://scryfall.com/card/m14/96/doom-blade?utm_source=api>`
@@ -508,7 +508,7 @@
 
 
 :mtgtip:`Liliana of the Dark Realms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00cbe506-7332-4d29-9404-b7c6e1e791d8.jpg?1562825281|https://scryfall.com/card/m14/102/liliana-of-the-dark-realms?utm_source=api>`
-   +1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
+   +1: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.
 
    −3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
 
@@ -574,7 +574,7 @@
 :mtgtip:`Shadowborn Apostle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/202c2323-6589-457a-af51-5528a98e7b30.jpg?1598848421|https://scryfall.com/card/m14/114/shadowborn-apostle?utm_source=api>`
    A deck can have any number of cards named Shadowborn Apostle.
 
-   |mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.
+   |mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Shadowborn Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3884c05b-c10e-4f1d-a8bd-8b5118657972.jpg?1562828005|https://scryfall.com/card/m14/115/shadowborn-demon?utm_source=api>`
@@ -852,7 +852,7 @@
 
    −3: You may put a green creature card from your hand onto the battlefield.
 
-   −7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+   −7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle."
 
 
 :mtgtip:`Garruk's Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88b24651-1814-440e-a415-a96c03e51544.jpg?1562831924|https://scryfall.com/card/m14/173/garruks-horde?utm_source=api>`
@@ -904,7 +904,7 @@
 
 
 :mtgtip:`Lay of the Land<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bb3410b-d6c3-4e42-b3c9-fb557f9a16f0.jpg?1562828146|https://scryfall.com/card/m14/183/lay-of-the-land?utm_source=api>`
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Manaweft Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe45433b-e124-44d7-9463-dada39310148.jpg?1562837768|https://scryfall.com/card/m14/184/manaweft-sliver?utm_source=api>`
@@ -944,7 +944,7 @@
 
 
 :mtgtip:`Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b84b6dc-d78d-4d6a-9e9a-2b40854a102b.jpg?1562827405|https://scryfall.com/card/m14/192/rootwalla?utm_source=api>`
-   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Rumbling Baloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8610ff1-064b-4c75-a8df-d3b076370d1e.jpg?1562835728|https://scryfall.com/card/m14/193/rumbling-baloth?utm_source=api>`
@@ -1052,7 +1052,7 @@
 :mtgtip:`Haunted Plate Mail<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2dc1e07-7894-4f22-936d-bf5df3f8d5a5.jpg?1562836284|https://scryfall.com/card/m14/212/haunted-plate-mail?utm_source=api>`
    Equipped creature gets +4/+4.
 
-   |mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.
+   |mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate only if you control no creatures.
 
    Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)
 
@@ -1068,13 +1068,13 @@
 :mtgtip:`Ratchet Bomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e9045df-3eff-4236-9bbb-77537b302e27.jpg?1562828276|https://scryfall.com/card/m14/215/ratchet-bomb?utm_source=api>`
    |tap|: Put a charge counter on Ratchet Bomb.
 
-   |tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+   |tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb.
 
 
 :mtgtip:`Ring of Three Wishes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/219ab03a-2b3b-4eef-8a42-2cbe793d2f33.jpg?1562826944|https://scryfall.com/card/m14/216/ring-of-three-wishes?utm_source=api>`
    Ring of Three Wishes enters the battlefield with three wish counters on it.
 
-   |mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search your library for a card and put that card into your hand. Then shuffle your library.
+   |mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Rod of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a0e90b8-bc38-4e1c-92ca-ac562cc57e31.jpg?1562832749|https://scryfall.com/card/m14/217/rod-of-ruin?utm_source=api>`

@@ -168,7 +168,7 @@
 
 
 :mtgtip:`Arena Rector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60a24826-55fc-4b1b-98bf-3204ad852765.jpg?1562914580|https://scryfall.com/card/bbd/23/arena-rector?utm_source=api>`
-   When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle your library.
+   When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Aurora Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35bb9e4e-3cfb-4794-bd03-04840b5fe1dc.jpg?1562905864|https://scryfall.com/card/bbd/24/aurora-champion?utm_source=api>`
@@ -270,7 +270,7 @@
 
 
 :mtgtip:`Spellseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74b4c336-5d4c-4bc5-b82a-35084a6ad808.jpg?1562918363|https://scryfall.com/card/bbd/41/spellseeker?utm_source=api>`
-   When Spellseeker enters the battlefield, you may search your library for an instant or sorcery card with converted mana cost 2 or less, reveal it, put it into your hand, then shuffle your library.
+   When Spellseeker enters the battlefield, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Spellweaver Duo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87ba22f6-5299-46c3-bd01-9140634e60ea.jpg?1562922421|https://scryfall.com/card/bbd/42/spellweaver-duo?utm_source=api>`
@@ -380,7 +380,7 @@
 :mtgtip:`Najeela, the Blade-Blossom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cb1d1da-6077-46b5-8c63-39882b8016f2.jpg?1567181270|https://scryfall.com/card/bbd/62/najeela-the-blade-blossom?utm_source=api>`
    Whenever a Warrior attacks, you may have its controller create a 1/1 white Warrior creature token that's tapped and attacking.
 
-   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate this ability only during combat.
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate only during combat.
 
 
 :mtgtip:`Stadium Vendors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d25baa1-4794-4bed-bf0c-7d99f39f9656.jpg?1562904205|https://scryfall.com/card/bbd/63/stadium-vendors?utm_source=api>`
@@ -430,11 +430,11 @@
 
 
 :mtgtip:`Jungle Wayfinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9f143f7-77e8-43c3-9da6-0d71d446a349.jpg?1562932430|https://scryfall.com/card/bbd/72/jungle-wayfinder?utm_source=api>`
-   When Jungle Wayfinder enters the battlefield, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle their library.
+   When Jungle Wayfinder enters the battlefield, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle.
 
 
 :mtgtip:`Pir's Whim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b816ce6e-d876-4c6d-83ed-e3887dcfa5d5.jpg?1562932061|https://scryfall.com/card/bbd/73/pirs-whim?utm_source=api>`
-   For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles their library. Each foe sacrifices an artifact or enchantment they control.
+   For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles. Each foe sacrifices an artifact or enchantment they control.
 
 
 :mtgtip:`Archon of Valor's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c43f47e3-ebb8-4d6e-a00c-4c190e2d3daf.jpg?1562934359|https://scryfall.com/card/bbd/74/archon-of-valors-reach?utm_source=api>`
@@ -548,7 +548,7 @@
 
 
 :mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/810a3792-a689-4849-bc14-fb3c71153aba.jpg?1562920975|https://scryfall.com/card/bbd/94/land-tax?utm_source=api>`
-   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.
+   At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Lightwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76724f0d-d588-4043-9fe9-f741599fd214.jpg?1562918747|https://scryfall.com/card/bbd/95/lightwalker?utm_source=api>`
@@ -574,7 +574,7 @@
 
 
 :mtgtip:`Oreskos Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a4eff8a-ffb0-4d6c-b942-fe417d3283aa.jpg?1562897000|https://scryfall.com/card/bbd/100/oreskos-explorer?utm_source=api>`
-   When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library.
+   When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle.
 
 
 :mtgtip:`Pacifism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73d4f469-ff5c-4122-a254-2a4a2b1b7bf7.jpg?1562918173|https://scryfall.com/card/bbd/101/pacifism?utm_source=api>`
@@ -726,7 +726,7 @@
 
 
 :mtgtip:`Spell Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72122836-a2f3-4001-9f08-93a7bf011ab1.jpg?1562917785|https://scryfall.com/card/bbd/132/spell-snare?utm_source=api>`
-   Counter target spell with converted mana cost 2.
+   Counter target spell with mana value 2.
 
 
 :mtgtip:`Switcheroo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/594c2f20-3e46-4cc6-a17c-ea1283e6d167.jpg?1562913140|https://scryfall.com/card/bbd/133/switcheroo?utm_source=api>`
@@ -746,7 +746,7 @@
 :mtgtip:`True-Name Nemesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2da0b45b-0ca9-40c4-bc7f-791039bc1876.jpg?1562904268|https://scryfall.com/card/bbd/136/true-name-nemesis?utm_source=api>`
    As True-Name Nemesis enters the battlefield, choose a player.
 
-   True-Name Nemesis has protection from the chosen player. (This creature can't be blocked, targeted, dealt damage, or enchanted by anything controlled by that player.)
+   True-Name Nemesis has protection from the chosen player.
 
 
 :mtgtip:`Watercourser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/4826219d-c9f0-4589-8b5e-32128259c374.jpg?1562909704|https://scryfall.com/card/bbd/137/watercourser?utm_source=api>`
@@ -770,7 +770,7 @@
 :mtgtip:`Diabolic Intent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b58299a8-e674-46de-ae25-c98410e0b445.jpg?1562931537|https://scryfall.com/card/bbd/141/diabolic-intent?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Doomed Dissenter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0992cacb-ba33-4f0c-a1b1-cf747f754fd3.jpg?1562896879|https://scryfall.com/card/bbd/142/doomed-dissenter?utm_source=api>`
@@ -804,7 +804,7 @@
 :mtgtip:`Morbid Curiosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03898f46-a26c-4765-8f1e-ea976fc53d7e.jpg?1562895690|https://scryfall.com/card/bbd/149/morbid-curiosity?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
-   Draw cards equal to the converted mana cost of the sacrificed permanent.
+   Draw cards equal to the mana value of the sacrificed permanent.
 
 
 :mtgtip:`Nirkana Revenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6990bf6-3b2a-44c8-b7fb-04d74249abfe.jpg?1562941305|https://scryfall.com/card/bbd/150/nirkana-revenant?utm_source=api>`
@@ -822,7 +822,7 @@
 :mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac30ef04-3075-4e2a-a30a-b754456701ce.jpg?1562929711|https://scryfall.com/card/bbd/152/noxious-dragon?utm_source=api>`
    Flying
 
-   When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.
+   When Noxious Dragon dies, you may destroy target creature with mana value 3 or less.
 
 
 :mtgtip:`Nyxathid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/303b99b9-449a-4611-8130-e7aeba42f3d1.jpg?1562904842|https://scryfall.com/card/bbd/153/nyxathid?utm_source=api>`
@@ -924,7 +924,7 @@
 
    |mana_r|: Enchanted creature gets +1/+0 until end of turn.
 
-   When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
+   When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
 
 
 :mtgtip:`Dragon Hatchling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83cb9ea2-ce64-437e-afac-5029a34bf10f.jpg?1562921689|https://scryfall.com/card/bbd/173/dragon-hatchling?utm_source=api>`
@@ -1050,7 +1050,7 @@
 :mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3244114-b854-4911-bc0d-76d18ce9d2ea.jpg?1562927948|https://scryfall.com/card/bbd/199/fertilid?utm_source=api>`
    Fertilid enters the battlefield with two +1/+1 counters on it.
 
-   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.
+   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
 
 
 :mtgtip:`Giant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a487199-3ecc-4b22-9379-1be1f8406490.jpg?1562926139|https://scryfall.com/card/bbd/200/giant-growth?utm_source=api>`
@@ -1112,11 +1112,11 @@
 
 
 :mtgtip:`Skyshroud Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f1579c8-2ec9-49af-bc2e-f4d16a0f1221.jpg?1562911007|https://scryfall.com/card/bbd/213/skyshroud-claim?utm_source=api>`
-   Search your library for up to two Forest cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two Forest cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Veteran Explorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0cb5f09-4734-435e-bb40-76c449f3b199.jpg?1562940151|https://scryfall.com/card/bbd/214/veteran-explorer?utm_source=api>`
-   When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it.
+   When Veteran Explorer dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Vigor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7047d8-8d32-48a3-829b-7eb5427ed53a.jpg?1562942114|https://scryfall.com/card/bbd/215/vigor?utm_source=api>`

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "+2: Ugin, the Spirit Dragon deals 3 damage to any target."
 msgstr ""
 
 #: ../../FRF.rst:11
-msgid "−X: Exile each permanent with converted mana cost X or less that's one or more colors."
+msgid "−X: Exile each permanent with mana value X or less that's one or more colors."
 msgstr ""
 
 #: ../../FRF.rst:13
@@ -279,7 +279,7 @@ msgid ":mtgtip:`Rally the Ancestors<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../FRF.rst:129
-msgid "Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors."
+msgid "Return each creature card with mana value X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors."
 msgstr ""
 
 #: ../../FRF.rst:138
@@ -551,7 +551,7 @@ msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifa
 msgstr ""
 
 #: ../../FRF.rst:287
-msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../FRF.rst:294
@@ -630,7 +630,7 @@ msgid "Whenever Torrent Elemental attacks, tap all creatures defending player co
 msgstr ""
 
 #: ../../FRF.rst:331
-msgid "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate only as a sorcery."
 msgstr ""
 
 #: ../../FRF.rst:336
@@ -822,7 +822,7 @@ msgid ":mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../FRF.rst:439
-msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+msgid "When Noxious Dragon dies, you may destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../FRF.rst:444
@@ -1050,7 +1050,7 @@ msgid ":mtgtip:`Friendly Fire<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../FRF.rst:565
-msgid "Target creature's controller reveals a card at random from their hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost."
+msgid "Target creature's controller reveals a card at random from their hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's mana value."
 msgstr ""
 
 #: ../../FRF.rst:572
@@ -1075,7 +1075,7 @@ msgid ":mtgtip:`Humble Defector<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../FRF.rst:579
-msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn."
+msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate only during your turn."
 msgstr ""
 
 #: ../../FRF.rst:584
@@ -1199,7 +1199,7 @@ msgid ":mtgtip:`Temur Battle Rage<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../FRF.rst:649
-msgid "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
+msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../FRF.rst:651
@@ -1255,7 +1255,7 @@ msgid "Put a +1/+1 counter on Ainok Guide."
 msgstr ""
 
 #: ../../FRF.rst:679
-msgid "Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it."
+msgid "Search your library for a basic land card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../FRF.rst:686
@@ -1372,7 +1372,7 @@ msgid ":mtgtip:`Map the Wastes<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../FRF.rst:745
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../FRF.rst:750
@@ -1480,7 +1480,7 @@ msgid "|tap|: Add |mana_g|."
 msgstr ""
 
 #: ../../FRF.rst:805
-msgid "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if you control a creature with power 4 or greater."
+msgid "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate only if you control a creature with power 4 or greater."
 msgstr ""
 
 #: ../../FRF.rst:812

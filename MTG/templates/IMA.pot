@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -158,11 +158,11 @@ msgid "Destroy all enchantments."
 msgstr ""
 
 #: ../../IMA.rst:65
-msgid "Destroy all creatures with converted mana cost 3 or less."
+msgid "Destroy all creatures with mana value 3 or less."
 msgstr ""
 
 #: ../../IMA.rst:67
-msgid "Destroy all creatures with converted mana cost 4 or greater."
+msgid "Destroy all creatures with mana value 4 or greater."
 msgstr ""
 
 #: ../../IMA.rst:74
@@ -378,6 +378,7 @@ msgstr ""
 
 #: ../../IMA.rst:169
 #: ../../IMA.rst:361
+#: ../../IMA.rst:431
 #: ../../IMA.rst:649
 msgid "Flash"
 msgstr ""
@@ -670,7 +671,6 @@ msgid ":mtgtip:`Illusory Ambusher<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../IMA.rst:337
-#: ../../IMA.rst:431
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
@@ -731,7 +731,7 @@ msgid ":mtgtip:`Mana Drain<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../IMA.rst:379
-msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's converted mana cost."
+msgid "Counter target spell. At the beginning of your next main phase, add an amount of |colorless| equal to that spell's mana value."
 msgstr ""
 
 #: ../../IMA.rst:384
@@ -767,7 +767,7 @@ msgid ":mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../IMA.rst:403
-msgid "Return target nonland permanent with converted mana cost X to its owner's hand."
+msgid "Return target nonland permanent with mana value X to its owner's hand."
 msgstr ""
 
 #: ../../IMA.rst:412
@@ -889,7 +889,7 @@ msgid ":mtgtip:`Bogbrew Witch<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../IMA.rst:479
-msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:484
@@ -1045,7 +1045,7 @@ msgid ":mtgtip:`Noxious Dragon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../IMA.rst:565
-msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+msgid "When Noxious Dragon dies, you may destroy target creature with mana value 3 or less."
 msgstr ""
 
 #: ../../IMA.rst:570
@@ -1089,7 +1089,7 @@ msgid ":mtgtip:`Rune-Scarred Demon<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../IMA.rst:593
-msgid "When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library."
+msgid "When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:598
@@ -1346,7 +1346,7 @@ msgid ":mtgtip:`Hoarding Dragon<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../IMA.rst:741
-msgid "When Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library."
+msgid "When Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:743
@@ -1560,7 +1560,7 @@ msgid "When Carven Caryatid enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../IMA.rst:872
-msgid ":mtgtip:`Channel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce54c7c1-3401-4414-8da0-5846cb0ae1b4.jpg?1562854175|https://scryfall.com/card/ima/157/channel?utm_source=api>`"
+msgid ":mtgtip:`Channel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce54c7c1-3401-4414-8da0-5846cb0ae1b4.jpg?1618695674|https://scryfall.com/card/ima/157/channel?utm_source=api>`"
 msgstr ""
 
 #: ../../IMA.rst:871
@@ -1623,7 +1623,7 @@ msgid ":mtgtip:`Genesis Hydra<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../IMA.rst:899
-msgid "When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library."
+msgid "When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield. Then shuffle the rest into your library."
 msgstr ""
 
 #: ../../IMA.rst:901
@@ -1635,7 +1635,7 @@ msgid ":mtgtip:`Genesis Wave<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../IMA.rst:905
-msgid "Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard."
+msgid "Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard."
 msgstr ""
 
 #: ../../IMA.rst:910
@@ -1811,7 +1811,7 @@ msgid ":mtgtip:`Primeval Titan<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../IMA.rst:1005
-msgid "Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:1012
@@ -1827,7 +1827,7 @@ msgid ":mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../IMA.rst:1015
-msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:1017
@@ -1875,7 +1875,7 @@ msgid ":mtgtip:`Wall of Roots<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../IMA.rst:1045
-msgid "Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate this ability only once each turn."
+msgid "Put a -0/-1 counter on Wall of Roots: Add |mana_g|. Activate only once each turn."
 msgstr ""
 
 #: ../../IMA.rst:1052
@@ -1975,7 +1975,7 @@ msgid "At the beginning of your upkeep, if Firemane Angel is in your graveyard o
 msgstr ""
 
 #: ../../IMA.rst:1107
-msgid "|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep."
+msgid "|mana_6|\\ |mana_r|\\ |mana_r|\\ |mana_w|\\ |mana_w|: Return Firemane Angel from your graveyard to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../IMA.rst:1112
@@ -2015,7 +2015,7 @@ msgid "Knight of the Reliquary gets +1/+1 for each land card in your graveyard."
 msgstr ""
 
 #: ../../IMA.rst:1129
-msgid "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library."
+msgid "|tap|, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:1134
@@ -2055,7 +2055,7 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../IMA.rst:1151
-msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery."
 msgstr ""
 
 #: ../../IMA.rst:1158
@@ -2115,7 +2115,7 @@ msgid "At the beginning of your upkeep, you may put a charge counter on Aether V
 msgstr ""
 
 #: ../../IMA.rst:1183
-msgid "|tap|: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield."
+msgid "|tap|: You may put a creature card with mana value equal to the number of charge counters on Aether Vial from your hand onto the battlefield."
 msgstr ""
 
 #: ../../IMA.rst:1190
@@ -2360,7 +2360,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../IMA.rst:1311
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../IMA.rst:1320
@@ -2444,11 +2444,11 @@ msgid ":mtgtip:`Nimbus Maze<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../IMA.rst:1359
-msgid "|tap|: Add |mana_w|. Activate this ability only if you control an Island."
+msgid "|tap|: Add |mana_w|. Activate only if you control an Island."
 msgstr ""
 
 #: ../../IMA.rst:1361
-msgid "|tap|: Add |mana_u|. Activate this ability only if you control a Plains."
+msgid "|tap|: Add |mana_u|. Activate only if you control a Plains."
 msgstr ""
 
 #: ../../IMA.rst:1370

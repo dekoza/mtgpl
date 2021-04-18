@@ -66,7 +66,7 @@
 
 
 :mtgtip:`Planeswalker's Mirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0205d094-c846-4aa0-ade8-2a52c57b11da.jpg?1562895411|https://scryfall.com/card/pls/12/planeswalkers-mirth?utm_source=api>`
-   |mana_3|\ |mana_w|: Target opponent reveals a card at random from their hand. You gain life equal to that card's converted mana cost.
+   |mana_3|\ |mana_w|: Target opponent reveals a card at random from their hand. You gain life equal to that card's mana value.
 
 
 :mtgtip:`Pollen Remedy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9797c813-0cda-44ad-ae41-330e9bde9cb9.jpg?1562927108|https://scryfall.com/card/pls/13/pollen-remedy?utm_source=api>`
@@ -130,7 +130,7 @@
 :mtgtip:`Dralnu's Pet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd5f4daf-7b54-4425-a93a-19532dfb83ca.jpg?1562938400|https://scryfall.com/card/pls/23/dralnus-pet?utm_source=api>`
    Kicker—|mana_2|\ |mana_b|, Discard a creature card. (You may pay |mana_2|\ |mana_b| and discard a creature card in addition to any other costs as you cast this spell.)
 
-   If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost.
+   If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's mana value.
 
 
 :mtgtip:`Ertai's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/544e3575-9fb6-41f7-a4e6-f8460dfae344.jpg?1562912607|https://scryfall.com/card/pls/24/ertais-trickery?utm_source=api>`
@@ -156,7 +156,7 @@
 
 
 :mtgtip:`Planeswalker's Mischief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79aa232c-3f16-4c68-99dc-09a7aeef477b.jpg?1562920574|https://scryfall.com/card/pls/29/planeswalkers-mischief?utm_source=api>`
-   |mana_3|\ |mana_u|: Target opponent reveals a card at random from their hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|: Target opponent reveals a card at random from their hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate only as a sorcery.
 
 
 :mtgtip:`Rushing River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52ddf7bf-de9c-4657-8d5b-79869d36fa63.jpg?1562912267|https://scryfall.com/card/pls/30/rushing-river?utm_source=api>`
@@ -238,7 +238,7 @@
 :mtgtip:`Diabolic Intent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76d1b5c5-cc47-465f-8549-4fd1ca4280df.jpg?1562920013|https://scryfall.com/card/pls/42/diabolic-intent?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Exotic Disease<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e9624e5-79a2-41de-997b-12d871d4be66.jpg?1562911470|https://scryfall.com/card/pls/43/exotic-disease?utm_source=api>`
@@ -288,7 +288,7 @@
 
 
 :mtgtip:`Planeswalker's Scorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8ed08376-836f-4313-83d0-481895ead9da.jpg?1603719281|https://scryfall.com/card/pls/52/planeswalkers-scorn?utm_source=api>`
-   |mana_3|\ |mana_b|: Target opponent reveals a card at random from their hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|: Target opponent reveals a card at random from their hand. Target creature gets -X/-X until end of turn, where X is the revealed card's mana value. Activate only as a sorcery.
 
 
 :mtgtip:`Shriek of Dread<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54a7fb3b-8e81-4763-b2a1-7c2108a00afe.jpg?1562912669|https://scryfall.com/card/pls/53/shriek-of-dread?utm_source=api>`
@@ -380,7 +380,7 @@
 
 
 :mtgtip:`Planeswalker's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fa09e3a-bc7e-4292-aa5d-ce97c1b1f79f.jpg?1562918470|https://scryfall.com/card/pls/70/planeswalkers-fury?utm_source=api>`
-   |mana_3|\ |mana_r|: Target opponent reveals a card at random from their hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|: Target opponent reveals a card at random from their hand. Planeswalker's Fury deals damage equal to that card's mana value to that player. Activate only as a sorcery.
 
 
 :mtgtip:`Singe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32323277-db9a-48a7-b9a4-8e6914386e26.jpg?1562905494|https://scryfall.com/card/pls/71/singe?utm_source=api>`
@@ -458,13 +458,13 @@
 
 
 :mtgtip:`Planeswalker's Favor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3387540-93bf-451e-8e7a-fc78caab42b0.jpg?1562932770|https://scryfall.com/card/pls/86/planeswalkers-favor?utm_source=api>`
-   |mana_3|\ |mana_g|: Target opponent reveals a card at random from their hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost.
+   |mana_3|\ |mana_g|: Target opponent reveals a card at random from their hand. Target creature gets +X/+X until end of turn, where X is the revealed card's mana value.
 
 
 :mtgtip:`Primal Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d4a3c83-faaa-4dd9-9349-abcaf09cc7a8.jpg?1562901164|https://scryfall.com/card/pls/87/primal-growth?utm_source=api>`
    Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
 
-   Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield, then shuffle. If this spell was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Pygmy Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b31c69ec-feb5-430a-a3e9-3a6f3fb8ee1c.jpg?1562932748|https://scryfall.com/card/pls/88/pygmy-kavu?utm_source=api>`
@@ -576,7 +576,7 @@
 
 
 :mtgtip:`Eladamri's Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dcb79f39-5ef3-4ad6-9a43-04beb27d8480.jpg?1562941589|https://scryfall.com/card/pls/106/eladamris-call?utm_source=api>`
-   Search your library for a creature card, reveal that card, put it into your hand, then shuffle your library.
+   Search your library for a creature card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Ertai, the Corrupted<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66b950d9-8fef-4deb-b51b-26edb90abc56.jpg?1586450720|https://scryfall.com/card/pls/107/ertai-the-corrupted?utm_source=api>`
@@ -734,7 +734,7 @@
 
 
 :mtgtip:`Skyship Weatherlight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63f5498b-bb12-48ec-811b-b52e45ffddaf.jpg?1586450703|https://scryfall.com/card/pls/133/skyship-weatherlight?utm_source=api>`
-   When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.
+   When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards, exile them, then shuffle.
 
    |mana_4|, |tap|: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.
 
@@ -790,7 +790,7 @@
 :mtgtip:`Terminal Moraine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/353a8ea8-3f1f-4f77-95bc-b09b96996285.jpg?1562906215|https://scryfall.com/card/pls/142/terminal-moraine?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Terminal Moraine: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Treva's Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bae2458-b54f-426a-ad40-13529a73c423.jpg?1562924537|https://scryfall.com/card/pls/143/trevas-ruins?utm_source=api>`

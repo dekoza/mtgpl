@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1292,7 +1292,7 @@ msgid ":mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../7ED.rst:703
-msgid "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn."
+msgid "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn."
 msgstr ""
 
 #: ../../7ED.rst:708
@@ -1562,7 +1562,7 @@ msgid ":mtgtip:`Goblin Matron<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../7ED.rst:853
-msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
+msgid "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../7ED.rst:858
@@ -2107,7 +2107,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../7ED.rst:1155
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../7ED.rst:1160
@@ -2235,7 +2235,7 @@ msgid ":mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../7ED.rst:1227
-msgid "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../7ED.rst:1232
@@ -2279,7 +2279,7 @@ msgid ":mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../7ED.rst:1249
-msgid "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
+msgid "When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../7ED.rst:1254
@@ -2355,7 +2355,7 @@ msgid ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../7ED.rst:1287
-msgid "|mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_3|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../7ED.rst:1292

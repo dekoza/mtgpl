@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -124,7 +124,7 @@ msgid ":mtgtip:`Oath of Lieges<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../EXO.rst:55
-msgid "At the beginning of each player's upkeep, that player chooses target player who controls more lands than they do and is their opponent. The first player may search their library for a basic land card, put that card onto the battlefield, then shuffle their library."
+msgid "At the beginning of each player's upkeep, that player chooses target player who controls more lands than they do and is their opponent. The first player may search their library for a basic land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:60
@@ -272,7 +272,7 @@ msgid ":mtgtip:`Welkin Hawk<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../EXO.rst:127
-msgid "When Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library."
+msgid "When Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:132
@@ -524,7 +524,7 @@ msgid ":mtgtip:`Cat Burglar<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../EXO.rst:265
-msgid "|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|, |tap|: Target player discards a card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:272
@@ -689,7 +689,7 @@ msgid ":mtgtip:`Plaguebearer<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../EXO.rst:359
-msgid "|mana_x|\\ |mana_x|\\ |mana_b|: Destroy target nonblack creature with converted mana cost X."
+msgid "|mana_x|\\ |mana_x|\\ |mana_b|: Destroy target nonblack creature with mana value X."
 msgstr ""
 
 #: ../../EXO.rst:364
@@ -697,7 +697,7 @@ msgid ":mtgtip:`Recurring Nightmare<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../EXO.rst:363
-msgid "Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
+msgid "Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:368
@@ -737,7 +737,7 @@ msgid ":mtgtip:`Thrull Surgeon<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../EXO.rst:383
-msgid "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:388
@@ -757,7 +757,7 @@ msgid "Pay 5 life: Destroy Volrath's Dungeon. Any player may activate this abili
 msgstr ""
 
 #: ../../EXO.rst:393
-msgid "Discard a card: Target player puts a card from their hand on top of their library. Activate this ability only any time you could cast a sorcery."
+msgid "Discard a card: Target player puts a card from their hand on top of their library. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:398
@@ -773,7 +773,7 @@ msgid ":mtgtip:`Cinder Crawler<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../EXO.rst:401
-msgid "|mana_r|: Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked."
+msgid "|mana_r|: Cinder Crawler gets +1/+0 until end of turn. Activate only if Cinder Crawler is blocked."
 msgstr ""
 
 #: ../../EXO.rst:408
@@ -1077,7 +1077,7 @@ msgid ":mtgtip:`Plated Rootwalla<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../EXO.rst:561
-msgid "|mana_2|\\ |mana_g|: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|\\ |mana_g|: Plated Rootwalla gets +3/+3 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../EXO.rst:568
@@ -1217,7 +1217,7 @@ msgid ":mtgtip:`Survival of the Fittest<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../EXO.rst:633
-msgid "|mana_g|, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library."
+msgid "|mana_g|, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:638
@@ -1225,7 +1225,7 @@ msgid ":mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../EXO.rst:637
-msgid "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
+msgid "When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../EXO.rst:642
@@ -1317,11 +1317,11 @@ msgid "Thopter Squadron enters the battlefield with three +1/+1 counters on it."
 msgstr ""
 
 #: ../../EXO.rst:685
-msgid "|mana_1|, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 colorless Thopter artifact creature token with flying. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:687
-msgid "|mana_1|, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate only as a sorcery."
 msgstr ""
 
 #: ../../EXO.rst:694

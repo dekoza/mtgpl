@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -177,7 +177,7 @@ msgid "(|mana_wu| can be paid with either |mana_w| or |mana_u|.)"
 msgstr ""
 
 #: ../../GK2.rst:77
-msgid "Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's converted mana cost."
+msgid "Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's mana value."
 msgstr ""
 
 #: ../../GK2.rst:82
@@ -193,7 +193,7 @@ msgid ":mtgtip:`Isperia the Inscrutable<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../GK2.rst:87
-msgid "Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library."
+msgid "Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../GK2.rst:94
@@ -213,7 +213,7 @@ msgid "Protection from red"
 msgstr ""
 
 #: ../../GK2.rst:99
-msgid "When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
+msgid "When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with mana value 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
 
 #: ../../GK2.rst:106
@@ -233,7 +233,7 @@ msgid "Pride of the Clouds gets +1/+1 for each other creature with flying on the
 msgstr ""
 
 #: ../../GK2.rst:113
-msgid "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate this ability only during your upkeep and only once each turn.)"
+msgid "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../GK2.rst:118
@@ -253,7 +253,7 @@ msgid "When Sky Hussar enters the battlefield, untap all creatures you control."
 msgstr ""
 
 #: ../../GK2.rst:125
-msgid "Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate this ability only during your upkeep and only once each turn.)"
+msgid "Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../GK2.rst:132
@@ -514,7 +514,7 @@ msgid "Destroy target creature and you lose life equal to its toughness."
 msgstr ""
 
 #: ../../GK2.rst:271
-msgid "Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield."
+msgid "Return target creature card with mana value 1 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../GK2.rst:282
@@ -633,7 +633,7 @@ msgid "Double strike"
 msgstr ""
 
 #: ../../GK2.rst:335
-msgid "When Crypt Champion enters the battlefield, each player puts a creature card with converted mana cost 3 or less from their graveyard onto the battlefield."
+msgid "When Crypt Champion enters the battlefield, each player puts a creature card with mana value 3 or less from their graveyard onto the battlefield."
 msgstr ""
 
 #: ../../GK2.rst:337
@@ -931,7 +931,7 @@ msgid "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature e
 msgstr ""
 
 #: ../../GK2.rst:503
-msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn."
+msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn."
 msgstr ""
 
 #: ../../GK2.rst:510
@@ -947,7 +947,7 @@ msgid ":mtgtip:`Protean Hulk<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../GK2.rst:513
-msgid "When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library."
+msgid "When Protean Hulk dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../GK2.rst:520
@@ -1105,7 +1105,7 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../GK2.rst:599
-msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate only as a sorcery."
 msgstr ""
 
 #: ../../GK2.rst:606
@@ -1313,7 +1313,7 @@ msgid ":mtgtip:`Momir Vig, Simic Visionary<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../GK2.rst:713
-msgid "Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it."
+msgid "Whenever you cast a green creature spell, you may search your library for a creature card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../GK2.rst:715

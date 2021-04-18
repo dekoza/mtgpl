@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,7 +217,7 @@ msgid ":mtgtip:`Enlightened Tutor<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../6ED.rst:91
-msgid "Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../6ED.rst:96
@@ -455,7 +455,7 @@ msgid ":mtgtip:`Tariff<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../6ED.rst:221
-msgid "Each player sacrifices the creature they control with the highest converted mana cost unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one."
+msgid "Each player sacrifices the creature they control with the highest mana value unless they pay that creature's mana cost. If two or more creatures a player controls are tied for highest, that player chooses one."
 msgstr ""
 
 #: ../../6ED.rst:226
@@ -696,7 +696,7 @@ msgid ":mtgtip:`Juxtapose<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../6ED.rst:359
-msgid "You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them."
+msgid "You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them."
 msgstr ""
 
 #: ../../6ED.rst:368
@@ -712,7 +712,7 @@ msgid "You draw three cards at the beginning of the next turn's upkeep."
 msgstr ""
 
 #: ../../6ED.rst:367
-msgid "You search your library for a card, put that card into your hand, then shuffle your library."
+msgid "You search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../6ED.rst:372
@@ -748,7 +748,7 @@ msgid ":mtgtip:`Mystical Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../6ED.rst:387
-msgid "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../6ED.rst:396
@@ -897,7 +897,7 @@ msgid ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../6ED.rst:465
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
+msgid "Counter target spell with mana value X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../6ED.rst:470
@@ -1259,7 +1259,7 @@ msgid ":mtgtip:`Necrosavant<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../6ED.rst:675
-msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate only during your upkeep."
 msgstr ""
 
 #: ../../6ED.rst:682
@@ -1307,7 +1307,7 @@ msgid ":mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../6ED.rst:703
-msgid "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn."
+msgid "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand and discards a creature card at random. Activate only during your turn."
 msgstr ""
 
 #: ../../6ED.rst:708
@@ -1387,7 +1387,7 @@ msgid ":mtgtip:`Vampiric Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../6ED.rst:745
-msgid "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
+msgid "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
 msgstr ""
 
 #: ../../6ED.rst:752
@@ -1575,7 +1575,7 @@ msgid ":mtgtip:`Goblin Recruiter<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../6ED.rst:857
-msgid "When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order."
+msgid "When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order."
 msgstr ""
 
 #: ../../6ED.rst:862
@@ -1595,7 +1595,7 @@ msgid "Hammer of Bogardan deals 3 damage to any target."
 msgstr ""
 
 #: ../../6ED.rst:867
-msgid "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep."
+msgid "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from your graveyard to your hand. Activate only during your upkeep."
 msgstr ""
 
 #: ../../6ED.rst:872
@@ -1748,7 +1748,7 @@ msgid ":mtgtip:`Spitting Drake<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../6ED.rst:945
-msgid "|mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn."
+msgid "|mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../6ED.rst:950
@@ -2049,7 +2049,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../6ED.rst:1107
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../6ED.rst:1110
@@ -2173,7 +2173,7 @@ msgid ":mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../6ED.rst:1183
-msgid "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../6ED.rst:1188
@@ -2217,7 +2217,7 @@ msgid ":mtgtip:`Worldly Tutor<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../6ED.rst:1209
-msgid "Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it."
+msgid "Search your library for a creature card, reveal it, then shuffle and put the card on top."
 msgstr ""
 
 #: ../../6ED.rst:1214
@@ -2318,7 +2318,7 @@ msgid ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../6ED.rst:1261
-msgid "|mana_3|, |tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|mana_3|, |tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../6ED.rst:1266
@@ -2379,7 +2379,7 @@ msgid ":mtgtip:`Grinning Totem<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../6ED.rst:1291
-msgid "|mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles their library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard."
+msgid "|mana_2|, |tap|, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard."
 msgstr ""
 
 #: ../../6ED.rst:1296
@@ -2583,7 +2583,7 @@ msgid ":mtgtip:`Snake Basket<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../6ED.rst:1395
-msgid "|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate only as a sorcery."
 msgstr ""
 
 #: ../../6ED.rst:1400

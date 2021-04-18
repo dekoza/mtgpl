@@ -90,7 +90,7 @@
 :mtgtip:`Razor Hippogriff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.jpg?1562825516|https://scryfall.com/card/som/17/razor-hippogriff?utm_source=api>`
    Flying
 
-   When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.
+   When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's mana value.
 
 
 :mtgtip:`Revoke Existence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18ae62f9-361c-4849-b0af-2b08fc0421c8.jpg?1562815067|https://scryfall.com/card/som/18/revoke-existence?utm_source=api>`
@@ -138,7 +138,7 @@
 :mtgtip:`Argent Sphinx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/280e75af-7e43-4c15-a8a8-bec7389c6c4e.jpg?1562815717|https://scryfall.com/card/som/28/argent-sphinx?utm_source=api>`
    Flying
 
-   Metalcraft — |mana_u|: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.
+   Metalcraft — |mana_u|: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Bonds of Quicksilver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c071dca0-fccb-48b8-b65a-74741b12e3f0.jpg?1562822608|https://scryfall.com/card/som/29/bonds-of-quicksilver?utm_source=api>`
@@ -244,7 +244,7 @@
 
 
 :mtgtip:`Trinket Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.jpg?1562823088|https://scryfall.com/card/som/48/trinket-mage?utm_source=api>`
-   When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+   When Trinket Mage enters the battlefield, you may search your library for an artifact card with mana value 1 or less, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Turn Aside<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56226f57-6ff0-430e-aba6-6b3dd51f8d3c.jpg?1562817712|https://scryfall.com/card/som/49/turn-aside?utm_source=api>`
@@ -262,7 +262,7 @@
 
 
 :mtgtip:`Vedalken Certarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffbc2a26-32f1-4d9c-8ee7-74698f64dce0.jpg?1562825640|https://scryfall.com/card/som/52/vedalken-certarch?utm_source=api>`
-   Metalcraft — |tap|: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.
+   Metalcraft — |tap|: Tap target artifact, creature, or land. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Volition Reins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa8fa025-56e6-4d24-a615-a51b6be937e9.jpg?1562821553|https://scryfall.com/card/som/53/volition-reins?utm_source=api>`
@@ -326,7 +326,7 @@
 :mtgtip:`Geth, Lord of the Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fed31f2f-370d-4bbe-aa57-82249ed1b4d4.jpg?1562825598|https://scryfall.com/card/som/64/geth-lord-of-the-vault?utm_source=api>`
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-   |mana_x|\ |mana_b|: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards.
+   |mana_x|\ |mana_b|: Put target artifact or creature card with mana value X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards.
 
 
 :mtgtip:`Grasp of Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cda628ba-19f4-4e24-9500-cca295a992bb.jpg?1562823220|https://scryfall.com/card/som/65/grasp-of-darkness?utm_source=api>`
@@ -354,7 +354,7 @@
 
 
 :mtgtip:`Memoricide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acc5b944-a9fe-4a64-bf11-51817a26f22b.jpg?1562821638|https://scryfall.com/card/som/69/memoricide?utm_source=api>`
-   Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles their library.
+   Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles.
 
 
 :mtgtip:`Moriok Reaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2a0410f-95c5-49bf-856d-dea796c96e3b.jpg?1562824241|https://scryfall.com/card/som/70/moriok-reaver?utm_source=api>`
@@ -430,11 +430,11 @@
 
 
 :mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2d5ce81-6cca-4990-a515-34ac44cae039.jpg?1562822703|https://scryfall.com/card/som/85/bloodshot-trainee?utm_source=api>`
-   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater.
 
 
 :mtgtip:`Cerebral Eruption<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77161159-ee2c-485d-8674-d8590ccc62e1.jpg?1562819165|https://scryfall.com/card/som/86/cerebral-eruption?utm_source=api>`
-   Target opponent reveals the top card of their library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature that player controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.
+   Target opponent reveals the top card of their library. Cerebral Eruption deals damage equal to the revealed card's mana value to that player and each creature that player controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.
 
 
 :mtgtip:`Embersmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee86cfc8-9faa-474c-90a9-5405f3f6037c.jpg?1562824849|https://scryfall.com/card/som/87/embersmith?utm_source=api>`
@@ -470,7 +470,7 @@
 :mtgtip:`Hoard-Smelter Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcdd1d89-719d-4552-aeae-499c09b2ec6e.jpg?1562825539|https://scryfall.com/card/som/93/hoard-smelter-dragon?utm_source=api>`
    Flying
 
-   |mana_3|\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.
+   |mana_3|\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's mana value.
 
 
 :mtgtip:`Koth of the Hammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af8b9c79-a161-4d7d-944d-82a44a5f2ab9.jpg?1562821803|https://scryfall.com/card/som/94/koth-of-the-hammer?utm_source=api>`
@@ -484,7 +484,7 @@
 :mtgtip:`Kuldotha Phoenix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bb79b56-81f1-417f-b5ad-030ad29f904b.jpg?1562818704|https://scryfall.com/card/som/95/kuldotha-phoenix?utm_source=api>`
    Flying, haste
 
-   Metalcraft — |mana_4|: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.
+   Metalcraft — |mana_4|: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate only during your upkeep and only if you control three or more artifacts.
 
 
 :mtgtip:`Kuldotha Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ee07266-a95d-4cd8-9863-1664922e9490.jpg?1562819546|https://scryfall.com/card/som/96/kuldotha-rebirth?utm_source=api>`
@@ -608,7 +608,7 @@
 
 
 :mtgtip:`Genesis Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c920236f-c3d7-421c-b021-103996da790e.jpg?1562822975|https://scryfall.com/card/som/122/genesis-wave?utm_source=api>`
-   Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.
+   Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.
 
 
 :mtgtip:`Liege of the Tangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7fc5b67-f521-4ba4-a10f-103e8b6af688.jpg?1562825299|https://scryfall.com/card/som/123/liege-of-the-tangle?utm_source=api>`
@@ -856,7 +856,7 @@
 
 
 :mtgtip:`Horizon Spellbomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d93378e-1de2-4954-9458-dd3306f2996e.jpg?1562820966|https://scryfall.com/card/som/165/horizon-spellbomb?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    When Horizon Spellbomb is put into a graveyard from the battlefield, you may pay |mana_g|. If you do, draw a card.
 
@@ -878,7 +878,7 @@
 
 
 :mtgtip:`Kuldotha Forgemaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad590bea-b872-4af7-a612-c8e8759d59df.jpg?1562821656|https://scryfall.com/card/som/169/kuldotha-forgemaster?utm_source=api>`
-   |tap|, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.
+   |tap|, Sacrifice three artifacts: Search your library for an artifact card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Leaden Myr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a709559-fec3-44f4-a2bf-3396989b9189.jpg?1562816505|https://scryfall.com/card/som/170/leaden-myr?utm_source=api>`
@@ -928,7 +928,7 @@
 
 
 :mtgtip:`Mox Opal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6be9b1d5-9ab8-4adb-ba54-2c0117e842fa.jpg?1562818716|https://scryfall.com/card/som/179/mox-opal?utm_source=api>`
-   Metalcraft — |tap|: Add one mana of any color. Activate this ability only if you control three or more artifacts.
+   Metalcraft — |tap|: Add one mana of any color. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Myr Battlesphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0ae94ed-7314-470b-baba-f2f58bbc894a.jpg?1562821858|https://scryfall.com/card/som/180/myr-battlesphere?utm_source=api>`
@@ -1016,13 +1016,13 @@
 :mtgtip:`Prototype Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10b264aa-303b-4982-a653-9573d39c28de.jpg?1562814705|https://scryfall.com/card/som/195/prototype-portal?utm_source=api>`
    Imprint — When Prototype Portal enters the battlefield, you may exile an artifact card from your hand.
 
-   |mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the converted mana cost of that card.
+   |mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the mana value of that card.
 
 
 :mtgtip:`Ratchet Bomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3db7645-20b9-4884-849b-a7d4b6d3aa00.jpg?1562822727|https://scryfall.com/card/som/196/ratchet-bomb?utm_source=api>`
    |tap|: Put a charge counter on Ratchet Bomb.
 
-   |tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+   |tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb.
 
 
 :mtgtip:`Razorfield Thresher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0a74203-d342-489d-a584-bca78ef3331d.jpg?1562821857|https://scryfall.com/card/som/197/razorfield-thresher?utm_source=api>`
@@ -1066,11 +1066,11 @@
 
    |mana_2|: Steel Hellkite gets +1/+0 until end of turn.
 
-   |mana_x|: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.
+   |mana_x|: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by Steel Hellkite this turn. Activate only once each turn.
 
 
 :mtgtip:`Strata Scythe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f2cb906-3748-4675-89b3-bde2f9a8444a.jpg?1562820260|https://scryfall.com/card/som/206/strata-scythe?utm_source=api>`
-   Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.
+   Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle.
 
    Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.
 

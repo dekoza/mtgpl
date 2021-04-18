@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgid "Flying"
 msgstr ""
 
 #: ../../ORI.rst:23
-msgid "As long as Archangel of Tithes is untapped, creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures."
+msgid "As long as Archangel of Tithes is untapped, creatures can't attack you or planeswalkers you control unless their controller pays |mana_1| for each of those creatures."
 msgstr ""
 
 #: ../../ORI.rst:25
@@ -272,7 +272,7 @@ msgid ":mtgtip:`Knight of the White Orchid<https://c1.scryfall.com/file/scryfall
 msgstr ""
 
 #: ../../ORI.rst:115
-msgid "When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library."
+msgid "When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:124
@@ -368,7 +368,7 @@ msgid ":mtgtip:`Relic Seeker<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../ORI.rst:171
-msgid "When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:178
@@ -407,7 +407,7 @@ msgid "At the beginning of your upkeep, you may return target enchantment card f
 msgstr ""
 
 #: ../../ORI.rst:193
-msgid "As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost."
+msgid "As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its mana value."
 msgstr ""
 
 #: ../../ORI.rst:200
@@ -443,7 +443,7 @@ msgid ":mtgtip:`Totem-Guide Hartebeest<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../ORI.rst:215
-msgid "When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:220
@@ -611,7 +611,7 @@ msgid ":mtgtip:`Displacement Wave<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ORI.rst:313
-msgid "Return all nonland permanents with converted mana cost X or less to their owners' hands."
+msgid "Return all nonland permanents with mana value X or less to their owners' hands."
 msgstr ""
 
 #: ../../ORI.rst:318
@@ -956,7 +956,7 @@ msgid ":mtgtip:`Dark Petition<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../ORI.rst:509
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:511
@@ -1104,7 +1104,7 @@ msgid ":mtgtip:`Infinite Obliteration<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../ORI.rst:585
-msgid "Choose a creature card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles their library."
+msgid "Choose a creature card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../ORI.rst:592
@@ -1144,7 +1144,7 @@ msgid "+2: Each player discards a card."
 msgstr ""
 
 #: ../../ORI.rst:607
-msgid "−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield."
+msgid "−X: Return target nonlegendary creature card with mana value X from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:609
@@ -1220,7 +1220,7 @@ msgid ":mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ORI.rst:647
-msgid "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid "Scry 2, then draw two cards. You lose 2 life."
 msgstr ""
 
 #: ../../ORI.rst:652
@@ -1256,7 +1256,7 @@ msgid "Whenever a creature dies, scry 1. (Look at the top card of your library. 
 msgstr ""
 
 #: ../../ORI.rst:667
-msgid "|mana_4|\\ |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard."
+msgid "|mana_4|\\ |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate only if there are four or more creature cards in your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:672
@@ -1581,7 +1581,7 @@ msgid "Enchanted creature gets +2/+1, has haste, and attacks each combat if able
 msgstr ""
 
 #: ../../ORI.rst:851
-msgid "When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle your library."
+msgid "When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:856
@@ -1913,7 +1913,7 @@ msgid ":mtgtip:`Nissa, Vastwood Seer<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../ORI.rst:1033
-msgid "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library."
+msgid "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:1035
@@ -1941,7 +1941,7 @@ msgid ":mtgtip:`Nissa's Pilgrimage<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../ORI.rst:1047
-msgid "Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle your library."
+msgid "Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:1049
@@ -2083,7 +2083,7 @@ msgid ":mtgtip:`Woodland Bellower<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../ORI.rst:1133
-msgid "When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library."
+msgid "When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with mana value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:1138
@@ -2394,7 +2394,7 @@ msgid "Equipped creature gets +1/+1."
 msgstr ""
 
 #: ../../ORI.rst:1305
-msgid "Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:1307
@@ -2461,7 +2461,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../ORI.rst:1341
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../ORI.rst:1348

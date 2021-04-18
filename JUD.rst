@@ -58,7 +58,7 @@
 :mtgtip:`Glory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a414f0e-b157-4570-8213-1c58a96bf7a5.jpg?1562630559|https://scryfall.com/card/jud/11/glory?utm_source=api>`
    Flying
 
-   |mana_2|\ |mana_w|: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
+   |mana_2|\ |mana_w|: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if Glory is in your graveyard.
 
 
 :mtgtip:`Golden Wish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc409ded-41f3-4f14-8199-72a9fe98bac0.jpg?1562632261|https://scryfall.com/card/jud/12/golden-wish?utm_source=api>`
@@ -256,7 +256,7 @@
 
 
 :mtgtip:`Quiet Speculation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a314fa-293b-486f-95d8-267d340e4d8e.jpg?1562630397|https://scryfall.com/card/jud/49/quiet-speculation?utm_source=api>`
-   Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles their library.
+   Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles.
 
 
 :mtgtip:`Scalpelexis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29c3b7fa-78e7-4a0c-bcdc-4b829638e3f6.jpg?1562629108|https://scryfall.com/card/jud/50/scalpelexis?utm_source=api>`
@@ -428,7 +428,7 @@
 
 
 :mtgtip:`Barbarian Bully<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e38f0f9f-ad7b-48da-89f3-b3e5346a3b71.jpg?1562632373|https://scryfall.com/card/jud/79/barbarian-bully?utm_source=api>`
-   Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to them. Activate this ability only once each turn.
+   Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to them. Activate only once each turn.
 
 
 :mtgtip:`Book Burning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bead678c-7b6a-4668-9919-623312e08a65.jpg?1562631756|https://scryfall.com/card/jud/80/book-burning?utm_source=api>`
@@ -570,7 +570,7 @@
 
 
 :mtgtip:`Battlefield Scrounger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5ac74bc-1198-4a9a-bcde-668cca08b274.jpg?1562632693|https://scryfall.com/card/jud/106/battlefield-scrounger?utm_source=api>`
-   Threshold — Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn and only if seven or more cards are in your graveyard.
+   Threshold — Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate only once each turn and only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Brawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9f4b7fc-8793-43af-ade3-b23846a80457.jpg?1562632439|https://scryfall.com/card/jud/107/brawn?utm_source=api>`
@@ -586,7 +586,7 @@
 
 
 :mtgtip:`Centaur Rootcaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f10dfd9-9889-4d9e-872a-07623dee6b6b.jpg?1562629502|https://scryfall.com/card/jud/109/centaur-rootcaster?utm_source=api>`
-   Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+   Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Crush of Wurms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32a924b3-3bd6-43ad-acbd-1303dd670db4.jpg?1562629260|https://scryfall.com/card/jud/110/crush-of-wurms?utm_source=api>`
@@ -758,13 +758,13 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Nantuko Monastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb870406-9d59-4493-9f81-0f4b84642001.jpg?1562631994|https://scryfall.com/card/jud/142/nantuko-monastery?utm_source=api>`
    |tap|: Add |colorless|.
 
-   Threshold — |mana_g|\ |mana_w|: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.
+   Threshold — |mana_g|\ |mana_w|: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate only if seven or more cards are in your graveyard.
 
 
 :mtgtip:`Riftstone Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92ece630-e484-4221-911f-e32048894f23.jpg?1562630998|https://scryfall.com/card/jud/143/riftstone-portal?utm_source=api>`

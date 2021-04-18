@@ -20,7 +20,7 @@
 :mtgtip:`Archangel of Tithes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1af50bf1-c51e-4592-86bf-4197ec85a45d.jpg?1562009225|https://scryfall.com/card/ori/4/archangel-of-tithes?utm_source=api>`
    Flying
 
-   As long as Archangel of Tithes is untapped, creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures.
+   As long as Archangel of Tithes is untapped, creatures can't attack you or planeswalkers you control unless their controller pays |mana_1| for each of those creatures.
 
    As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays |mana_1| for each of those creatures.
 
@@ -112,7 +112,7 @@
 :mtgtip:`Knight of the White Orchid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/049a601d-de5c-412c-87a2-69500c08809a.jpg?1562005143|https://scryfall.com/card/ori/21/knight-of-the-white-orchid?utm_source=api>`
    First strike
 
-   When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+   When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Knightly Valor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20930fab-eb4f-4179-94a7-84dc7055710a.jpg?1562010614|https://scryfall.com/card/ori/22/knightly-valor?utm_source=api>`
@@ -168,7 +168,7 @@
 :mtgtip:`Relic Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60a4b00c-5bd5-4931-be05-121f09a3fae4.jpg?1562022591|https://scryfall.com/card/ori/29/relic-seeker?utm_source=api>`
    Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
 
-   When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+   When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sentinel of the Eternal Watch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a7b01ce-2729-4b70-ae0a-b9a1007be78f.jpg?1562006549|https://scryfall.com/card/ori/30/sentinel-of-the-eternal-watch?utm_source=api>`
@@ -190,7 +190,7 @@
 :mtgtip:`Starfield of Nyx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/861dc1a5-4e84-47bc-83a2-f289804086d8.jpg?1562029318|https://scryfall.com/card/ori/33/starfield-of-nyx?utm_source=api>`
    At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield.
 
-   As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.
+   As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its mana value.
 
 
 :mtgtip:`Suppression Bonds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d34c717b-224b-4289-826d-f5b1f7c3dbfb.jpg?1562043513|https://scryfall.com/card/ori/34/suppression-bonds?utm_source=api>`
@@ -212,7 +212,7 @@
 
 
 :mtgtip:`Totem-Guide Hartebeest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/589346d3-b32b-40f2-8513-741ceb88bf7b.jpg?1562020994|https://scryfall.com/card/ori/37/totem-guide-hartebeest?utm_source=api>`
-   When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+   When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Tragic Arrogance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16acf619-0f45-4985-a8ec-074a4ec33fa7.jpg?1562008659|https://scryfall.com/card/ori/38/tragic-arrogance?utm_source=api>`
@@ -310,7 +310,7 @@
 
 
 :mtgtip:`Displacement Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad6fef1f-6cc9-4e24-a1be-fc313774f28d.jpg?1562036297|https://scryfall.com/card/ori/55/displacement-wave?utm_source=api>`
-   Return all nonland permanents with converted mana cost X or less to their owners' hands.
+   Return all nonland permanents with mana value X or less to their owners' hands.
 
 
 :mtgtip:`Dreadwaters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4c1434a-4832-4008-a091-e0703dedd0a2.jpg?1562040680|https://scryfall.com/card/ori/56/dreadwaters?utm_source=api>`
@@ -506,7 +506,7 @@
 
 
 :mtgtip:`Dark Petition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9df9c5e-7087-42b2-9001-c89d40a66c68.jpg?1562047771|https://scryfall.com/card/ori/90/dark-petition?utm_source=api>`
-   Search your library for a card and put that card into your hand. Then shuffle your library.
+   Search your library for a card, put that card into your hand, then shuffle.
 
    Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add |mana_b|\ |mana_b|\ |mana_b|.
 
@@ -582,7 +582,7 @@
 
 
 :mtgtip:`Infinite Obliteration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a6f6a0-3670-4b72-8c8e-668f47252fa0.jpg?1562025565|https://scryfall.com/card/ori/103/infinite-obliteration?utm_source=api>`
-   Choose a creature card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles their library.
+   Choose a creature card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles.
 
 
 :mtgtip:`Kothophed, Soul Hoarder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/036e696a-b2aa-40ba-9ed6-3a859c4288a0.jpg?1562005052|https://scryfall.com/card/ori/104/kothophed-soul-hoarder?utm_source=api>`
@@ -604,7 +604,7 @@
 :mtgtip:`Liliana, Defiant Necromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/f/9f25e1cf-eeb4-458d-8fb2-b3a2f86bdd54.jpg?1562033824|https://scryfall.com/card/ori/106/liliana-heretical-healer-liliana-defiant-necromancer?utm_source=api>`
    +2: Each player discards a card.
 
-   −X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.
+   −X: Return target nonlegendary creature card with mana value X from your graveyard to the battlefield.
 
    −8: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."
 
@@ -644,7 +644,7 @@
 
 
 :mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cc51b90-7f1e-4e20-bc36-e3a198bc71bf.jpg?1562006962|https://scryfall.com/card/ori/114/read-the-bones?utm_source=api>`
-   Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Scry 2, then draw two cards. You lose 2 life.
 
 
 :mtgtip:`Reave Soul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db3d5e9d-07e8-43e1-aaf0-1f9e4ed2834a.jpg?1562045144|https://scryfall.com/card/ori/115/reave-soul?utm_source=api>`
@@ -664,7 +664,7 @@
 :mtgtip:`Shadows of the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02962013-fc5a-46be-9021-8fd40ab3027c.jpg?1562005030|https://scryfall.com/card/ori/118/shadows-of-the-past?utm_source=api>`
    Whenever a creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-   |mana_4|\ |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard.
+   |mana_4|\ |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate only if there are four or more creature cards in your graveyard.
 
 
 :mtgtip:`Shambling Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd8061d2-84ce-4e4a-9911-ffc9833749da.jpg?1562051387|https://scryfall.com/card/ori/119/shambling-ghoul?utm_source=api>`
@@ -848,7 +848,7 @@
 
    Enchanted creature gets +2/+1, has haste, and attacks each combat if able.
 
-   When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle your library.
+   When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Lightning Javelin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1ccaeed-9670-4432-8a45-d5c06119fa9f.jpg?1562040115|https://scryfall.com/card/ori/153/lightning-javelin?utm_source=api>`
@@ -1030,7 +1030,7 @@
 
 
 :mtgtip:`Nissa, Vastwood Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff0063da-ab6b-499d-8e87-8b34d46f0372.jpg?1562209457|https://scryfall.com/card/ori/189/nissa-vastwood-seer-nissa-sage-animist?utm_source=api>`
-   When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.
+   When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle.
 
    Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.
 
@@ -1044,7 +1044,7 @@
 
 
 :mtgtip:`Nissa's Pilgrimage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/800cef89-e90c-4f84-a7a0-3cd203532169.jpg?1562028540|https://scryfall.com/card/ori/190/nissas-pilgrimage?utm_source=api>`
-   Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle your library.
+   Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle.
 
    Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two.
 
@@ -1130,7 +1130,7 @@
 
 
 :mtgtip:`Woodland Bellower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a706d4bb-0b44-4e43-b340-7de799c086b8.jpg?1562034880|https://scryfall.com/card/ori/207/woodland-bellower?utm_source=api>`
-   When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library.
+   When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Yeva's Forcemage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50b9fdbf-d7c3-43f7-ad4c-54a6d37440c1.jpg?1562019544|https://scryfall.com/card/ori/208/yevas-forcemage?utm_source=api>`
@@ -1302,7 +1302,7 @@
 :mtgtip:`Sword of the Animist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3687c36-c0ae-4dba-9379-b420236bf529.jpg?1562049757|https://scryfall.com/card/ori/240/sword-of-the-animist?utm_source=api>`
    Equipped creature gets +1/+1.
 
-   Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Equip |mana_2|
 
@@ -1338,7 +1338,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b14a3dd4-27bd-4825-a525-2d6cc2201046.jpg?1562037001|https://scryfall.com/card/ori/246/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Foundry of the Consuls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73f29e03-0a71-46cd-992e-7baa61f16ac5.jpg?1562025759|https://scryfall.com/card/ori/247/foundry-of-the-consuls?utm_source=api>`

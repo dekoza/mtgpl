@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 13:41+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgid "The first card you foretell each turn costs |mana_0| to foretell."
 msgstr ""
 
 #: ../../KHC.rst:21
-msgid "Whenever you exile one or more cards from your hand and/or permanents from the battlefield, create a 1/1 white Spirit creature token with flying."
+msgid "Whenever a spell or ability you control exiles one or more cards from your hand and/or permanents from the battlefield, create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
 #: ../../KHC.rst:28
@@ -70,7 +70,7 @@ msgid ":mtgtip:`Hero of Bretagard<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../KHC.rst:31
-msgid "Whenever you exile one or more cards from your hand and/or permanents from the battlefield, put that many +1/+1 counters on Hero of Bretagard."
+msgid "Whenever a spell or ability you control exiles one or more cards from your hand and/or permanents from the battlefield, put that many +1/+1 counters on Hero of Bretagard."
 msgstr ""
 
 #: ../../KHC.rst:33
@@ -86,7 +86,7 @@ msgid ":mtgtip:`Stoic Farmer<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../KHC.rst:39
-msgid "When Stoic Farmer enters the battlefield, search your library for a basic Plains card and reveal it. If an opponent controls more lands than you, put it onto the battlefield tapped. Otherwise put it into your hand. Then shuffle your library."
+msgid "When Stoic Farmer enters the battlefield, search your library for a basic Plains card and reveal it. If an opponent controls more lands than you, put it onto the battlefield tapped. Otherwise put it into your hand. Then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:50
@@ -343,7 +343,7 @@ msgid ":mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../KHC.rst:171
-msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:180
@@ -407,7 +407,7 @@ msgid ":mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../KHC.rst:207
-msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../KHC.rst:214
@@ -677,7 +677,7 @@ msgid ":mtgtip:`Farhaven Elf<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../KHC.rst:349
-msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:354
@@ -685,7 +685,7 @@ msgid ":mtgtip:`Harvest Season<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../KHC.rst:353
-msgid "Search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:360
@@ -793,7 +793,7 @@ msgid ":mtgtip:`Springbloom Druid<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../KHC.rst:409
-msgid "When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:416
@@ -845,7 +845,7 @@ msgid ":mtgtip:`Wood Elves<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../KHC.rst:435
-msgid "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
+msgid "When Wood Elves enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:442
@@ -930,7 +930,7 @@ msgid "Create four 1/1 white Bird creature tokens with flying."
 msgstr ""
 
 #: ../../KHC.rst:483
-msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+msgid "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
 
 #: ../../KHC.rst:488
@@ -1032,7 +1032,7 @@ msgid ":mtgtip:`Burnished Hart<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../KHC.rst:537
-msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:544
@@ -1150,7 +1150,7 @@ msgid ":mtgtip:`Cryptic Caves<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../KHC.rst:599
-msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands."
+msgid "|mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands."
 msgstr ""
 
 #: ../../KHC.rst:606
@@ -1220,7 +1220,7 @@ msgid "Myriad Landscape enters the battlefield tapped."
 msgstr ""
 
 #: ../../KHC.rst:641
-msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../KHC.rst:648

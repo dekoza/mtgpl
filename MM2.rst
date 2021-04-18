@@ -170,7 +170,7 @@
 :mtgtip:`Moonlit Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04fe00af-1634-45bd-bf1b-42997c4c3359.jpg?1562258525|https://scryfall.com/card/mm2/27/moonlit-strider?utm_source=api>`
    Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.
 
-   Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+   Soulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Myrsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff45f775-9d77-4a55-917e-2de57ce2cf31.jpg?1562269771|https://scryfall.com/card/mm2/28/myrsmith?utm_source=api>`
@@ -208,11 +208,11 @@
 
 
 :mtgtip:`Taj-Nar Swordsmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73949ba2-81d8-40f0-bd50-0a610c89e2fa.jpg?1562263760|https://scryfall.com/card/mm2/36/taj-nar-swordsmith?utm_source=api>`
-   When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.
+   When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle.
 
 
 :mtgtip:`Terashi's Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44f0d818-b463-4ef7-93b4-1ae341b52e2c.jpg?1562261600|https://scryfall.com/card/mm2/37/terashis-grasp?utm_source=api>`
-   Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+   Destroy target artifact or enchantment. You gain life equal to its mana value.
 
 
 :mtgtip:`Waxmane Baku<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd0c47e0-c87b-4304-b412-00496c2c289f.jpg?1562269753|https://scryfall.com/card/mm2/38/waxmane-baku?utm_source=api>`
@@ -236,7 +236,7 @@
 :mtgtip:`Argent Sphinx<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99d03f11-7448-47de-9fb4-3ceaf08dc1d4.jpg?1562265270|https://scryfall.com/card/mm2/41/argent-sphinx?utm_source=api>`
    Flying
 
-   Metalcraft — |mana_u|: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.
+   Metalcraft — |mana_u|: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Cloud Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3639ad50-6e39-48bd-9055-c32369d2f676.jpg?1562260683|https://scryfall.com/card/mm2/42/cloud-elemental?utm_source=api>`
@@ -326,7 +326,7 @@
 
 
 :mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0d67a29-a9b2-4234-ad28-35d143fe1e21.jpg?1562268385|https://scryfall.com/card/mm2/56/repeal?utm_source=api>`
-   Return target nonland permanent with converted mana cost X to its owner's hand.
+   Return target nonland permanent with mana value X to its owner's hand.
 
    Draw a card.
 
@@ -362,7 +362,7 @@
 :mtgtip:`Tezzeret the Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf339735-eb1a-46f0-8c3e-eae06f278eca.jpg?1562267436|https://scryfall.com/card/mm2/62/tezzeret-the-seeker?utm_source=api>`
    +1: Untap up to two target artifacts.
 
-   −X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+   −X: Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.
 
    −5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.
 
@@ -436,7 +436,7 @@
 
 
 :mtgtip:`Dark Confidant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05cf51d8-9f91-42ff-99e9-4397f2251c20.jpg?1562258950|https://scryfall.com/card/mm2/75/dark-confidant?utm_source=api>`
-   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+   At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
 
 
 :mtgtip:`Death Denied<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16dc323d-f30e-4463-bcf7-5d4d0df1fe98.jpg?1562259484|https://scryfall.com/card/mm2/76/death-denied?utm_source=api>`
@@ -470,7 +470,7 @@
 
 
 :mtgtip:`Endrek Sahr, Master Breeder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a97b9d0e-e150-46d5-b6fd-59793e82dae4.jpg?1562266137|https://scryfall.com/card/mm2/82/endrek-sahr-master-breeder?utm_source=api>`
-   Whenever you cast a creature spell, create X 1/1 black Thrull creature tokens, where X is that spell's converted mana cost.
+   Whenever you cast a creature spell, create X 1/1 black Thrull creature tokens, where X is that spell's mana value.
 
    When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.
 
@@ -518,7 +518,7 @@
 
    • Target player loses X life.
 
-   • Return target creature card with converted mana cost X or less from your graveyard to the battlefield.
+   • Return target creature card with mana value X or less from your graveyard to the battlefield.
 
    • Target creature gets -X/-X until end of turn.
 
@@ -546,7 +546,7 @@
 :mtgtip:`Scuttling Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f68a90c-1afb-43d3-aed2-4704f4599e75.jpg?1562264271|https://scryfall.com/card/mm2/94/scuttling-death?utm_source=api>`
    Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.
 
-   Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+   Soulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Shrivel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db5460a0-1aae-45bf-a2aa-5b95fd29d06f.jpg?1562268329|https://scryfall.com/card/mm2/95/shrivel?utm_source=api>`
@@ -568,13 +568,13 @@
 :mtgtip:`Surgical Extraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e438caf-9373-4de8-b4ac-212f5036e677.jpg?1562263333|https://scryfall.com/card/mm2/99/surgical-extraction?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
-   Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library.
+   Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
 
 
 :mtgtip:`Thief of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48304e24-9c74-4726-95ae-3b1a356f5998.jpg?1562261652|https://scryfall.com/card/mm2/100/thief-of-hope?utm_source=api>`
    Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.
 
-   Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)
+   Soulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)
 
 
 :mtgtip:`Vampire Lacerator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4403436b-2605-495b-ab08-9a2001cc7f8b.jpg?1562261573|https://scryfall.com/card/mm2/101/vampire-lacerator?utm_source=api>`
@@ -610,7 +610,7 @@
 
 
 :mtgtip:`Bloodshot Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6eb21ef9-fab4-427e-bcbf-5cbcbdacd059.jpg?1562263345|https://scryfall.com/card/mm2/107/bloodshot-trainee?utm_source=api>`
-   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+   |tap|: Bloodshot Trainee deals 4 damage to target creature. Activate only if Bloodshot Trainee's power is 4 or greater.
 
 
 :mtgtip:`Brute Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efa32b2a-ce3c-441a-88d4-1ee853a7c265.jpg?1562268903|https://scryfall.com/card/mm2/108/brute-force?utm_source=api>`
@@ -644,7 +644,7 @@
 :mtgtip:`Fiery Fall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22014836-8a81-4385-bdb0-b9a080fa57af.jpg?1562259728|https://scryfall.com/card/mm2/113/fiery-fall?utm_source=api>`
    Fiery Fall deals 5 damage to target creature.
 
-   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Goblin Fireslinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6c043b7-1eec-4d11-986c-8fb3823fc3b1.jpg?1562268807|https://scryfall.com/card/mm2/114/goblin-fireslinger?utm_source=api>`
@@ -698,7 +698,7 @@
 
    Flying
 
-   |mana_r|\ |mana_r|\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.
+   |mana_r|\ |mana_r|\ |mana_r|: Return Skarrgan Firebird from your graveyard to your hand. Activate only if an opponent was dealt damage this turn.
 
 
 :mtgtip:`Smash to Smithereens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2e1c601-5a3d-4819-ab54-2c9acc357d69.jpg?1562268403|https://scryfall.com/card/mm2/124/smash-to-smithereens?utm_source=api>`
@@ -750,7 +750,7 @@
 :mtgtip:`Viashino Slaughtermaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a441fae0-a9c7-4d91-a69e-8ea1f8fa6947.jpg?1562265707|https://scryfall.com/card/mm2/133/viashino-slaughtermaster?utm_source=api>`
    Double strike
 
-   |mana_b|\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.
+   |mana_b|\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Wildfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5924430-1904-47b9-bcf0-3379babd395c.jpg?1562266957|https://scryfall.com/card/mm2/134/wildfire?utm_source=api>`
@@ -870,11 +870,11 @@
 :mtgtip:`Primeval Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eea2bf31-4320-4605-ab5b-6b32472b82fa.jpg?1562268888|https://scryfall.com/card/mm2/156/primeval-titan?utm_source=api>`
    Trample
 
-   Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.
+   Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07954800-e3b8-4d73-a763-56a64726c384.jpg?1562258959|https://scryfall.com/card/mm2/157/rampant-growth?utm_source=api>`
-   Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Root-Kin Ally<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5840c324-4dd4-41fe-9af2-593314ab685e.jpg?1562262612|https://scryfall.com/card/mm2/158/root-kin-ally?utm_source=api>`
@@ -910,7 +910,7 @@
 :mtgtip:`Sylvan Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d9dfe0-a793-4903-a83d-dc9041a87f83.jpg?1562266739|https://scryfall.com/card/mm2/164/sylvan-bounty?utm_source=api>`
    Target player gains 8 life.
 
-   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Tarmogoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1cfdd410-391b-4b71-8139-f5a30653097a.jpg?1562259658|https://scryfall.com/card/mm2/165/tarmogoyf?utm_source=api>`
@@ -1036,7 +1036,7 @@
 
 
 :mtgtip:`Vengeful Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/270a2f52-56b9-4eb5-b2ae-8dbee42a490c.jpg?1562260138|https://scryfall.com/card/mm2/188/vengeful-rebirth?utm_source=api>`
-   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to any target.
+   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.
 
    Exile Vengeful Rebirth.
 
@@ -1060,9 +1060,9 @@
 :mtgtip:`Dimir Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02d19fbe-0f6d-4e22-b56d-a63fd17a48ef.jpg?1562258499|https://scryfall.com/card/mm2/192/dimir-guildmage?utm_source=api>`
    (|mana_ub| can be paid with either |mana_u| or |mana_b|.)
 
-   |mana_3|\ |mana_u|: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|: Target player draws a card. Activate only as a sorcery.
 
-   |mana_3|\ |mana_b|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|: Target player discards a card. Activate only as a sorcery.
 
 
 :mtgtip:`Fulminator Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b128089-ed05-4a94-b83e-a5f783b8cec8.jpg?1562264764|https://scryfall.com/card/mm2/193/fulminator-mage?utm_source=api>`
@@ -1178,7 +1178,7 @@
 
 
 :mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4477e730-6dff-44f1-97a5-8176be1b7f67.jpg?1562261588|https://scryfall.com/card/mm2/212/everflowing-chalice?utm_source=api>`
-   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
+   Multikicker |mana_2|
 
    Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
 
@@ -1186,7 +1186,7 @@
 
 
 :mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c708dbd5-1d7b-4ed3-b5a7-93a02d8355ee.jpg?1594662263|https://scryfall.com/card/mm2/213/expedition-map?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Flayer Husk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a51797a-8a37-4364-86a0-de087348bc82.jpg?1562261679|https://scryfall.com/card/mm2/214/flayer-husk?utm_source=api>`
@@ -1242,7 +1242,7 @@
 
 
 :mtgtip:`Mox Opal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b3a20ac-1860-4513-bb73-35d23b088b04.jpg?1582753015|https://scryfall.com/card/mm2/223/mox-opal?utm_source=api>`
-   Metalcraft — |tap|: Add one mana of any color. Activate this ability only if you control three or more artifacts.
+   Metalcraft — |tap|: Add one mana of any color. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Myr Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dff51ae7-4b68-4770-915b-fb6bcf9ca1ed.jpg?1562268373|https://scryfall.com/card/mm2/224/myr-enforcer?utm_source=api>`
@@ -1290,7 +1290,7 @@
 :mtgtip:`Sunforger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe6e159-f229-44a8-b542-78e3c3d6ec79.jpg?1562268371|https://scryfall.com/card/mm2/232/sunforger?utm_source=api>`
    Equipped creature gets +4/+0.
 
-   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.
+   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.
 
    Equip |mana_3|
 
@@ -1302,7 +1302,7 @@
 
 
 :mtgtip:`Wayfarer's Bauble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1272beac-71ac-4a88-bd49-a5a907c182ac.jpg?1562259421|https://scryfall.com/card/mm2/234/wayfarers-bauble?utm_source=api>`
-   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Azorius Chancery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/481a83e6-0e6c-4953-92d4-814000d19456.jpg?1562261650|https://scryfall.com/card/mm2/235/azorius-chancery?utm_source=api>`
@@ -1350,13 +1350,13 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fd49258-f7cd-4902-a17f-9a195958fc13.jpg?1562262137|https://scryfall.com/card/mm2/241/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Eye of Ugin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2d5124b-4d73-4aa9-9331-88e03779ffad.jpg?1562267867|https://scryfall.com/card/mm2/242/eye-of-ugin?utm_source=api>`
    Colorless Eldrazi spells you cast cost |mana_2| less to cast.
 
-   |mana_7|, |tap|: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.
+   |mana_7|, |tap|: Search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Golgari Rot Farm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/580063b8-9b0d-4ce0-bf2b-63299e15219e.jpg?1562262604|https://scryfall.com/card/mm2/243/golgari-rot-farm?utm_source=api>`

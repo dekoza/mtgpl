@@ -20,13 +20,13 @@
 :mtgtip:`Trove Warden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3336593c-c83c-48e7-9173-2c2b74b94d3b.jpg?1604195307|https://scryfall.com/card/znc/3/trove-warden?utm_source=api>`
    Vigilance
 
-   Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with converted mana cost 3 or less from your graveyard.
+   Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with mana value 3 or less from your graveyard.
 
    When Trove Warden dies, put each permanent card exiled with it onto the battlefield under the control of that card's owner.
 
 
 :mtgtip:`Enigma Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/3536a97f-565b-45c6-a54b-96afd2a268ec.jpg?1604197303|https://scryfall.com/card/znc/4/enigma-thief?utm_source=api>`
-   Prowl |mana_3|\ |mana_u| (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or a Rogue.)
+   Prowl |mana_3|\ |mana_u| (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or Rogue.)
 
    Flying
 
@@ -102,7 +102,7 @@
 
 
 :mtgtip:`Kor Cartographer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/975ad85f-1314-4707-974d-2f49b11b9490.jpg?1604195739|https://scryfall.com/card/znc/18/kor-cartographer?utm_source=api>`
-   When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+   When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Planar Outburst<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b72535d-16dc-4b03-a18e-0da4a7cc901e.jpg?1604195768|https://scryfall.com/card/znc/19/planar-outburst?utm_source=api>`
@@ -122,7 +122,7 @@
 :mtgtip:`Sun Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef3e7352-5768-4d4e-befb-560b9d10a178.jpg?1604195833|https://scryfall.com/card/znc/21/sun-titan?utm_source=api>`
    Vigilance
 
-   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+   Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 
 
 :mtgtip:`Together Forever<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ee24937-a282-4cf4-8daa-114e68285094.jpg?1604195848|https://scryfall.com/card/znc/22/together-forever?utm_source=api>`
@@ -340,11 +340,11 @@
 
 
 :mtgtip:`Fertile Footsteps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f4495c3-46be-4b9c-bedf-7998e313662b.jpg?1604193776|https://scryfall.com/card/znc/61/beanstalk-giant-fertile-footsteps?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)
+   Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)
 
 
 :mtgtip:`Circuitous Route<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6130036c-2cb7-4216-9bfe-0b751d653529.jpg?1604193825|https://scryfall.com/card/znc/62/circuitous-route?utm_source=api>`
-   Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library.
+   Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Elvish Rejuvenator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db9168c5-7da7-402c-91e5-734898694e22.jpg?1604193865|https://scryfall.com/card/znc/63/elvish-rejuvenator?utm_source=api>`
@@ -364,15 +364,15 @@
 
 
 :mtgtip:`Far Wanderings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db67c59e-a9fb-4580-a8cc-ac5ef6c07440.jpg?1604193960|https://scryfall.com/card/znc/66/far-wanderings?utm_source=api>`
-   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
-   Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Fertilid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4532020f-c6b5-43e6-946b-a4491c1785b3.jpg?1604194050|https://scryfall.com/card/znc/67/fertilid?utm_source=api>`
    Fertilid enters the battlefield with two +1/+1 counters on it.
 
-   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.
+   |mana_1|\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
 
 
 :mtgtip:`Harmonize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35c74267-2c54-4883-b96a-5e912e5bde32.jpg?1604194103|https://scryfall.com/card/znc/68/harmonize?utm_source=api>`
@@ -382,7 +382,7 @@
 :mtgtip:`Harrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.jpg?1604194124|https://scryfall.com/card/znc/69/harrow?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a land.
 
-   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
 
 
 :mtgtip:`Inspiring Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6221f00b-39dc-423a-bace-1bc15e1e91f7.jpg?1604194143|https://scryfall.com/card/znc/70/inspiring-call?utm_source=api>`
@@ -396,11 +396,11 @@
 :mtgtip:`Khalni Heart Expedition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc9c99e7-1e0a-4012-9b6e-6d2299b22269.jpg?1604194202|https://scryfall.com/card/znc/72/khalni-heart-expedition?utm_source=api>`
    Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.
 
-   Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1a6d4f8-31e8-46b1-a0e3-5a0f9da112fd.jpg?1604194233|https://scryfall.com/card/znc/73/kodamas-reach?utm_source=api>`
-   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+   Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
 :mtgtip:`The Mending of Dominaria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726feeb3-6403-4f23-8415-a4a6878faf61.jpg?1604194254|https://scryfall.com/card/znc/74/the-mending-of-dominaria?utm_source=api>`
@@ -420,7 +420,7 @@
 
 
 :mtgtip:`Nissa's Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/288c0c3e-48a9-4ea5-ac8b-7071fc0a3fc7.jpg?1604194312|https://scryfall.com/card/znc/76/nissas-renewal?utm_source=api>`
-   Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life.
+   Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle. You gain 7 life.
 
 
 :mtgtip:`Rampaging Baloths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c4d6cce-ef92-47b9-a65b-870024f71e83.jpg?1604194342|https://scryfall.com/card/znc/77/rampaging-baloths?utm_source=api>`
@@ -460,7 +460,7 @@
 
 
 :mtgtip:`Springbloom Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76ccbb7c-6563-4ed0-a812-f94b002b7618.jpg?1604194551|https://scryfall.com/card/znc/83/springbloom-druid?utm_source=api>`
-   When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Sylvan Advocate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f5ac7ee-52e0-4c30-83cd-d27c29c19dbc.jpg?1604194601|https://scryfall.com/card/znc/84/sylvan-advocate?utm_source=api>`
@@ -480,7 +480,7 @@
 
 
 :mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8549396b-f525-412d-9ff6-60b6a6b66a18.jpg?1604194751|https://scryfall.com/card/znc/87/yavimaya-elder?utm_source=api>`
-   When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+   When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
    |mana_2|, Sacrifice Yavimaya Elder: Draw a card.
 
@@ -592,13 +592,13 @@
 :mtgtip:`Sylvan Reclamation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7999b93a-b18d-4d82-99ec-719e481b0c00.jpg?1604195403|https://scryfall.com/card/znc/104/sylvan-reclamation?utm_source=api>`
    Exile up to two target artifacts and/or enchantments.
 
-   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Treacherous Terrain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fb6efb3-bde3-4e29-8637-265e5c1da616.jpg?1604195433|https://scryfall.com/card/znc/105/treacherous-terrain?utm_source=api>`
    Treacherous Terrain deals damage to each opponent equal to the number of lands that player controls.
 
-   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)
+   Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89ed88b1-c2b8-4c6e-87a6-168035b2f8c8.jpg?1604195451|https://scryfall.com/card/znc/106/arcane-signet?utm_source=api>`
@@ -700,7 +700,7 @@
 :mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/5005cb1a-ea29-4a5e-959c-21fdf1997575.jpg?1604195889|https://scryfall.com/card/znc/121/blighted-woodland?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Boros Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bddfae4-f928-4209-96c5-a483f9c20823.jpg?1604195938|https://scryfall.com/card/znc/122/boros-garrison?utm_source=api>`
@@ -724,7 +724,7 @@
 :mtgtip:`Cryptic Caves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/204acb48-a705-4c5f-b462-2bcb3bc75fa4.jpg?1604196024|https://scryfall.com/card/znc/125/cryptic-caves?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands.
+   |mana_1|, |tap|, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands.
 
 
 :mtgtip:`Dimir Aqueduct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e093f17a-8323-4ed7-8056-bf2563a2fa43.jpg?1604196050|https://scryfall.com/card/znc/126/dimir-aqueduct?utm_source=api>`
@@ -750,7 +750,7 @@
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46ee12e6-569e-446a-9600-b1eac394e213.jpg?1604196168|https://scryfall.com/card/znc/129/evolving-wilds?utm_source=api>`
-   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Gruul Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e62b42cf-abdb-4807-bb7d-4009faf92635.jpg?1604196211|https://scryfall.com/card/znc/130/gruul-guildgate?utm_source=api>`
@@ -786,7 +786,7 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99d861db-bb12-4fa8-9122-167e7e7898ec.jpg?1604196358|https://scryfall.com/card/znc/135/myriad-landscape?utm_source=api>`
@@ -794,13 +794,13 @@
 
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.
+   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Naya Panorama<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4ba615a5-ad3a-4ad1-ab5f-69d7a3e4cf34.jpg?1604197584|https://scryfall.com/card/znc/136/naya-panorama?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library.
+   |mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Needle Spires<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e1903c2-6b22-4e2c-99fa-8e259fff29c5.jpg?1604196420|https://scryfall.com/card/znc/137/needle-spires?utm_source=api>`
@@ -838,5 +838,5 @@
 
 
 :mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/660d83ac-e159-4f5e-936c-51ee19fed53c.jpg?1604196550|https://scryfall.com/card/znc/142/terramorphic-expanse?utm_source=api>`
-   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 

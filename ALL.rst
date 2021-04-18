@@ -104,7 +104,7 @@
 :mtgtip:`Wild Aesthir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd0decda-d77a-4b7b-8ca4-08528d476f51.jpg?1562770634|https://scryfall.com/card/all/21a/wild-aesthir?utm_source=api>`
    Flying, first strike
 
-   |mana_w|\ |mana_w|: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.
+   |mana_w|\ |mana_w|: Wild Aesthir gets +2/+0 until end of turn. Activate only once each turn.
 
 
 :mtgtip:`Arcane Denial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0c5728e-43e7-417a-ba18-5038345cec67.jpg?1562770144|https://scryfall.com/card/all/22a/arcane-denial?utm_source=api>`
@@ -144,7 +144,7 @@
 
 
 :mtgtip:`Foresight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12e624c-8879-4e60-a1be-286abc5e0106.jpg?1562769683|https://scryfall.com/card/all/29a/foresight?utm_source=api>`
-   Search your library for three cards, exile them, then shuffle your library.
+   Search your library for three cards, exile them, then shuffle.
 
    Draw a card at the beginning of the next turn's upkeep.
 
@@ -158,7 +158,7 @@
 
    • You draw three cards at the beginning of the next turn's upkeep.
 
-   • You search your library for a card, put that card into your hand, then shuffle your library.
+   • You search your library for a card, put that card into your hand, then shuffle.
 
 
 :mtgtip:`Phantasmal Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a84617c7-c70a-497c-b834-3d98346180cf.jpg?1562769695|https://scryfall.com/card/all/32/phantasmal-sphere?utm_source=api>`
@@ -300,7 +300,7 @@
 
    When Krovikan Plague enters the battlefield, draw a card at the beginning of the next turn's upkeep.
 
-   Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-1 counter on enchanted creature. Activate this ability only if enchanted creature is untapped.
+   Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-1 counter on enchanted creature. Activate only if enchanted creature is untapped.
 
 
 :mtgtip:`Lim-Dûl's High Guard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5afe9b5-3be8-472a-95c3-2c34231bc042.jpg?1562770153|https://scryfall.com/card/all/55a/lim-d%C3%BBls-high-guard?utm_source=api>`
@@ -332,7 +332,7 @@
 
 
 :mtgtip:`Soldevi Adnate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b2651b0-1ab2-4d7e-834f-7505797da474.jpg?1562769222|https://scryfall.com/card/all/60a/soldevi-adnate?utm_source=api>`
-   |tap|, Sacrifice a black or artifact creature: Add an amount of |mana_b| equal to the sacrificed creature's converted mana cost.
+   |tap|, Sacrifice a black or artifact creature: Add an amount of |mana_b| equal to the sacrificed creature's mana value.
 
 
 :mtgtip:`Stench of Decay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9a45644-549a-4eaa-8367-b170027bd5a2.jpg?1562770859|https://scryfall.com/card/all/61a/stench-of-decay?utm_source=api>`
@@ -392,7 +392,7 @@
 
 
 :mtgtip:`Gorilla Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1562770166|https://scryfall.com/card/all/72a/gorilla-shaman?utm_source=api>`
-   |mana_x|\ |mana_x|\ |mana_1|: Destroy target noncreature artifact with converted mana cost X.
+   |mana_x|\ |mana_x|\ |mana_1|: Destroy target noncreature artifact with mana value X.
 
 
 :mtgtip:`Gorilla War Cry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/613762ea-6111-4f74-bea2-c13b76e0751c.jpg?1562768727|https://scryfall.com/card/all/73a/gorilla-war-cry?utm_source=api>`
@@ -456,7 +456,7 @@
 :mtgtip:`Veteran's Voice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93babf85-eb13-4e06-b45b-8927791bcde5.jpg?1562769662|https://scryfall.com/card/all/84a/veterans-voice?utm_source=api>`
    Enchant creature you control
 
-   Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.
+   Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate only if enchanted creature is untapped.
 
 
 :mtgtip:`Bounty of the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21ed522a-cf5a-41e1-9677-1226f689ec9c.jpg?1562768223|https://scryfall.com/card/all/85/bounty-of-the-hunt?utm_source=api>`
@@ -518,9 +518,9 @@
 :mtgtip:`Nature's Chosen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bd0b831-9d7e-40ce-8514-e852daee1a9e.jpg?1562769207|https://scryfall.com/card/all/97/natures-chosen?utm_source=api>`
    Enchant creature you control
 
-   |mana_0|: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+   |mana_0|: Untap enchanted creature. Activate only during your turn and only once each turn.
 
-   Tap enchanted creature: Untap target artifact, creature, or land. Activate this ability only if enchanted creature is white and is untapped and only once each turn.
+   Tap enchanted creature: Untap target artifact, creature, or land. Activate only if enchanted creature is white and untapped and only once each turn.
 
 
 :mtgtip:`Nature's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/450759f0-5d60-4f05-9011-b0b66dbb06a7.jpg?1562768694|https://scryfall.com/card/all/98/natures-wrath?utm_source=api>`
@@ -544,7 +544,7 @@
 :mtgtip:`Tornado<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2fd58e4-eb9a-4a12-8914-0a9a8300626c.jpg?1562769686|https://scryfall.com/card/all/101/tornado?utm_source=api>`
    Cumulative upkeep |mana_g| (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 
-   |mana_2|\ |mana_g|, Pay 3 life for each velocity counter on Tornado: Destroy target permanent and put a velocity counter on Tornado. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|, Pay 3 life for each velocity counter on Tornado: Destroy target permanent and put a velocity counter on Tornado. Activate only once each turn.
 
 
 :mtgtip:`Undergrowth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ade0829-8b90-4ed2-99f3-dd748e7706b8.jpg?1562769673|https://scryfall.com/card/all/102a/undergrowth?utm_source=api>`
@@ -576,7 +576,7 @@
 
 
 :mtgtip:`Lim-Dûl's Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9b0164c-2d4e-48ab-addd-322d9b504739.jpg?1562770860|https://scryfall.com/card/all/107/lim-d%C3%BBls-vault?utm_source=api>`
-   Look at the top five cards of your library. As many times as you choose, you may pay 1 life, put those cards on the bottom of your library in any order, then look at the top five cards of your library. Then shuffle your library and put the last cards you looked at this way on top of it in any order.
+   Look at the top five cards of your library. As many times as you choose, you may pay 1 life, put those cards on the bottom of your library in any order, then look at the top five cards of your library. Then shuffle and put the last cards you looked at this way on top in any order.
 
 
 :mtgtip:`Lim-Dûl's Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44be2d66-359e-4cc1-9670-119cb9c7d5f5.jpg?1562768261|https://scryfall.com/card/all/108/lim-d%C3%BBls-paladin?utm_source=api>`
@@ -592,7 +592,7 @@
 :mtgtip:`Surge of Strength<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96fff700-af02-4861-b7ed-be9950e69bf1.jpg?1562769667|https://scryfall.com/card/all/109/surge-of-strength?utm_source=api>`
    As an additional cost to cast this spell, discard a red or green card.
 
-   Target creature gains trample and gets +X/+0 until end of turn, where X is that creature's converted mana cost.
+   Target creature gains trample and gets +X/+0 until end of turn, where X is that creature's mana value.
 
 
 :mtgtip:`Nature's Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba0e677-361d-4e03-9c2c-018d1c383456.jpg?1562768720|https://scryfall.com/card/all/110/natures-blessing?utm_source=api>`
@@ -678,7 +678,7 @@
 :mtgtip:`Phyrexian Devourer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/319430fa-11e4-426e-8297-67df8474c3cc.jpg?1562768237|https://scryfall.com/card/all/125/phyrexian-devourer?utm_source=api>`
    When Phyrexian Devourer's power is 7 or greater, sacrifice it.
 
-   Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost.
+   Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's mana value.
 
 
 :mtgtip:`Phyrexian Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f77387-1239-4ad2-b59f-d13e317477ba.jpg?1562769197|https://scryfall.com/card/all/126/phyrexian-portal?utm_source=api>`
@@ -794,5 +794,5 @@
 :mtgtip:`Thawing Glaciers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6411a8c6-010f-4863-a0fa-bbebe09d5c34.jpg?1562768736|https://scryfall.com/card/all/144/thawing-glaciers?utm_source=api>`
    Thawing Glaciers enters the battlefield tapped.
 
-   |mana_1|, |tap|: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step.
+   |mana_1|, |tap|: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step.
 

@@ -20,7 +20,7 @@
 
    Protection from white (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)
 
-   Creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures.
+   Creatures can't attack you or planeswalkers you control unless their controller pays |mana_1| for each of those creatures.
 
 
 :mtgtip:`Ardenvale Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a32fa360-6c41-4146-931b-c19e9a766803.jpg?1572489621|https://scryfall.com/card/eld/4/ardenvale-paladin?utm_source=api>`
@@ -96,7 +96,7 @@
 
 
 :mtgtip:`Glass Casket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/562f1c51-d245-4771-bf61-415297e4f9d5.jpg?1572489690|https://scryfall.com/card/eld/15/glass-casket?utm_source=api>`
-   When Glass Casket enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less until Glass Casket leaves the battlefield.
+   When Glass Casket enters the battlefield, exile target creature an opponent controls with mana value 3 or less until Glass Casket leaves the battlefield.
 
 
 :mtgtip:`Happily Ever After<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d32d85d5-a6f0-4cc5-9fd6-6b329aae2e5b.jpg?1572489697|https://scryfall.com/card/eld/16/happily-ever-after?utm_source=api>`
@@ -318,7 +318,7 @@
 
 
 :mtgtip:`Mesmeric Glare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7acbd812-b994-4e68-8f95-04222796e994.jpg?1572489901|https://scryfall.com/card/eld/49/hypnotic-sprite-mesmeric-glare?utm_source=api>`
-   Counter target spell with converted mana cost 3 or less. (Then exile this card. You may cast the creature later from exile.)
+   Counter target spell with mana value 3 or less. (Then exile this card. You may cast the creature later from exile.)
 
 
 :mtgtip:`Into the Story<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c838f08e-7fb6-46e7-83bb-dce8877d6c87.jpg?1572489909|https://scryfall.com/card/eld/50/into-the-story?utm_source=api>`
@@ -380,7 +380,7 @@
 
 
 :mtgtip:`Opt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3669391-8f64-4904-b432-0f0582f30449.jpg?1572489962|https://scryfall.com/card/eld/59/opt?utm_source=api>`
-   Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   Scry 1.
 
    Draw a card.
 
@@ -420,7 +420,7 @@
 
 
 :mtgtip:`Stolen by the Fae<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a98a7698-57fb-41f6-86d4-251c7d444c6a.jpg?1572490003|https://scryfall.com/card/eld/66/stolen-by-the-fae?utm_source=api>`
-   Return target creature with converted mana cost X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying.
+   Return target creature with mana value X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying.
 
 
 :mtgtip:`Syr Elenora, the Discerning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/050a0817-2e9c-4d98-974c-2d3e5c37e1a2.jpg?1572490008|https://scryfall.com/card/eld/67/syr-elenora-the-discerning?utm_source=api>`
@@ -520,7 +520,7 @@
 
    Whenever a creature you control dies, put it on the bottom of its owner's library.
 
-   |mana_2|\ |mana_b|, |tap|, Pay 2 life: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, |tap|, Pay 2 life: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
 
 
 :mtgtip:`Cauldron's Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5db19a94-1170-45a0-9f06-893bf58b7233.jpg?1572490110|https://scryfall.com/card/eld/83/cauldrons-gift?utm_source=api>`
@@ -538,7 +538,7 @@
 
 
 :mtgtip:`Epic Downfall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63da83fe-fa59-40cb-a42e-e1b14b650bc8.jpg?1572490122|https://scryfall.com/card/eld/85/epic-downfall?utm_source=api>`
-   Exile target creature with converted mana cost 3 or greater.
+   Exile target creature with mana value 3 or greater.
 
 
 :mtgtip:`Eye Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b9bb2f3-a7c7-4e8f-ba39-44e6acd9240b.jpg?1572490127|https://scryfall.com/card/eld/86/eye-collector?utm_source=api>`
@@ -696,7 +696,7 @@
 :mtgtip:`Wishclaw Talisman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07c17b01-ee5d-491a-8403-b3f819b778c4.jpg?1572490271|https://scryfall.com/card/eld/110/wishclaw-talisman?utm_source=api>`
    Wishclaw Talisman enters the battlefield with three wish counters on it.
 
-   |mana_1|, |tap|, Remove a wish counter from Wishclaw Talisman: Search your library for a card, put it into your hand, then shuffle your library. An opponent gains control of Wishclaw Talisman. Activate this ability only during your turn.
+   |mana_1|, |tap|, Remove a wish counter from Wishclaw Talisman: Search your library for a card, put it into your hand, then shuffle. An opponent gains control of Wishclaw Talisman. Activate only during your turn.
 
 
 :mtgtip:`Witch's Vengeance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbf16457-3444-4130-b220-834b69d9faa3.jpg?1572490276|https://scryfall.com/card/eld/111/witchs-vengeance?utm_source=api>`
@@ -738,7 +738,7 @@
 
 
 :mtgtip:`Claim the Firstborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feaf1e6c-c7d9-4ac7-9aeb-c4b5d61548ec.jpg?1572490317|https://scryfall.com/card/eld/118/claim-the-firstborn?utm_source=api>`
-   Gain control of target creature with converted mana cost 3 or less until end of turn. Untap that creature. It gains haste until end of turn.
+   Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn.
 
 
 :mtgtip:`Crystal Slipper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f738ca6-5254-4dbc-9f59-854e81c8dac2.jpg?1572490325|https://scryfall.com/card/eld/119/crystal-slipper?utm_source=api>`
@@ -788,7 +788,7 @@
 :mtgtip:`Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790|https://scryfall.com/card/eld/125/fires-of-invention?utm_source=api>`
    You can cast spells only during your turn and you can cast no more than two spells each turn.
 
-   You may cast spells with converted mana cost less than or equal to the number of lands you control without paying their mana costs.
+   You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
 
 
 :mtgtip:`Fling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb28fe03-8269-41de-b766-42c3421aeaef.jpg?1572490367|https://scryfall.com/card/eld/126/fling?utm_source=api>`
@@ -912,7 +912,7 @@
 
 
 :mtgtip:`Fertile Footsteps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1572490506|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`
-   Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)
+   Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)
 
 
 :mtgtip:`Curious Pair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1572490513|https://scryfall.com/card/eld/150/curious-pair-treats-to-share?utm_source=api>`
@@ -932,7 +932,7 @@
 
    When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens. (They're artifacts with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
-   Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate this ability only during your turn.
+   Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate only during your turn.
 
 
 :mtgtip:`Fell the Pheasant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33d3cc84-7cb6-4de2-9018-4695a3b1e099.jpg?1572490530|https://scryfall.com/card/eld/153/fell-the-pheasant?utm_source=api>`
@@ -1148,7 +1148,7 @@
 
 
 :mtgtip:`Dance of the Manse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dca90ef-1c17-4dcc-9fef-dab9ee92f590.jpg?1572490726|https://scryfall.com/card/eld/186/dance-of-the-manse?utm_source=api>`
-   Return up to X target artifact and/or non-Aura enchantment cards each with converted mana cost X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types.
+   Return up to X target artifact and/or non-Aura enchantment cards each with mana value X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types.
 
 
 :mtgtip:`Doom Foretold<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e76c0c83-3e87-474d-bc72-1677eed32cfa.jpg?1572490732|https://scryfall.com/card/eld/187/doom-foretold?utm_source=api>`
@@ -1158,9 +1158,9 @@
 :mtgtip:`Drown in the Loch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bf5df5b-164d-4ec2-a5e6-bbaea152e271.jpg?1572490739|https://scryfall.com/card/eld/188/drown-in-the-loch?utm_source=api>`
    Choose one —
 
-   • Counter target spell with converted mana cost less than or equal to the number of cards in its controller's graveyard.
+   • Counter target spell with mana value less than or equal to the number of cards in its controller's graveyard.
 
-   • Destroy target creature with converted mana cost less than or equal to the number of cards in its controller's graveyard.
+   • Destroy target creature with mana value less than or equal to the number of cards in its controller's graveyard.
 
 
 :mtgtip:`Escape to the Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e26c10b-179f-4a6e-bc8d-3ec1d6783fb9.jpg?1602499769|https://scryfall.com/card/eld/189/escape-to-the-wilds?utm_source=api>`
@@ -1206,7 +1206,7 @@
 
    |mana_b|, Sacrifice a Swamp: You gain 1 life and draw a card.
 
-   |mana_u|\ |mana_b|: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.
+   |mana_u|\ |mana_b|: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate only as a sorcery.
 
 
 :mtgtip:`Maraleaf Pixie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6d7f9c9-dd83-4684-a949-1c22f316138a.jpg?1572490787|https://scryfall.com/card/eld/196/maraleaf-pixie?utm_source=api>`
@@ -1334,7 +1334,7 @@
 
 
 :mtgtip:`Thunderous Snapper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9576d4f1-47bb-45e0-803c-93fa2cdacbe5.jpg?1572490940|https://scryfall.com/card/eld/215/thunderous-snapper?utm_source=api>`
-   Whenever you cast a spell with converted mana cost 5 or greater, draw a card.
+   Whenever you cast a spell with mana value 5 or greater, draw a card.
 
 
 :mtgtip:`Clockwork Servant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3af5942-d171-401a-9444-3b59c579e4db.jpg?1572490948|https://scryfall.com/card/eld/216/clockwork-servant?utm_source=api>`
@@ -1448,7 +1448,7 @@
 :mtgtip:`Weapon Rack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89ca22d2-3ba5-4173-9c8c-6587a901ff4a.jpg?1572491137|https://scryfall.com/card/eld/236/weapon-rack?utm_source=api>`
    Weapon Rack enters the battlefield with three +1/+1 counters on it.
 
-   |tap|: Move a +1/+1 counter from Weapon Rack onto target creature. Activate this ability only any time you could cast a sorcery.
+   |tap|: Move a +1/+1 counter from Weapon Rack onto target creature. Activate only as a sorcery.
 
 
 :mtgtip:`Witch's Oven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1572491150|https://scryfall.com/card/eld/237/witchs-oven?utm_source=api>`
@@ -1504,7 +1504,7 @@
 
 
 :mtgtip:`Fabled Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b841bfa8-7c17-4df2-8466-780ab9a4a53a.jpg?1572491204|https://scryfall.com/card/eld/244/fabled-passage?utm_source=api>`
-   |tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land.
+   |tap|, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.
 
 
 :mtgtip:`Gingerbread Cabin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b11f5296-5f7d-41ca-a67d-e976273d7386.jpg?1572491212|https://scryfall.com/card/eld/245/gingerbread-cabin?utm_source=api>`
@@ -1598,7 +1598,7 @@
 
 
 :mtgtip:`Rowan's Stalwarts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b537c4e3-88d1-430d-b4c8-16e0716d1927.jpg?1572482722|https://scryfall.com/card/eld/307/rowans-stalwarts?utm_source=api>`
-   When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Wind-Scarred Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75f5875e-487f-4586-95f3-3627050a6744.jpg?1572482730|https://scryfall.com/card/eld/308/wind-scarred-crag?utm_source=api>`
@@ -1622,11 +1622,11 @@
 
 
 :mtgtip:`Bramblefort Fink<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc83a142-9d0f-4a39-baeb-4e2f62009204.jpg?1572482742|https://scryfall.com/card/eld/311/bramblefort-fink?utm_source=api>`
-   |mana_8|: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate this ability only if you control an Oko planeswalker.
+   |mana_8|: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker.
 
 
 :mtgtip:`Oko's Hospitality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81fb103d-f07c-4113-9da7-843cc7dab340.jpg?1572482748|https://scryfall.com/card/eld/312/okos-hospitality?utm_source=api>`
-   Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+   Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
 :mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5159db6-a87f-40eb-8c5c-821dfb67ff6d.jpg?1593132275|https://scryfall.com/card/eld/313/thornwood-falls?utm_source=api>`

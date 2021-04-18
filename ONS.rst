@@ -102,7 +102,7 @@
 :mtgtip:`Daru Cavalier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb2e9b7e-434e-477f-b3e8-e85ceb913650.jpg?1562951000|https://scryfall.com/card/ons/18/daru-cavalier?utm_source=api>`
    First strike
 
-   When Daru Cavalier enters the battlefield, you may search your library for a card named Daru Cavalier, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Daru Cavalier enters the battlefield, you may search your library for a card named Daru Cavalier, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Daru Healer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e4f3eff-ac99-41e2-9003-9630cdb3ae23.jpg?1562898282|https://scryfall.com/card/ons/19/daru-healer?utm_source=api>`
@@ -328,7 +328,7 @@
 
 
 :mtgtip:`Weathered Wayfarer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6601ab1-3862-4aff-82be-be15493fe4b0.jpg?1562953394|https://scryfall.com/card/ons/59/weathered-wayfarer?utm_source=api>`
-   |mana_w|, |tap|: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.
+   |mana_w|, |tap|: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.
 
 
 :mtgtip:`Whipcorder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bf6987e-a6e4-4a88-af0b-cf3b2d2b80c7.jpg?1562909065|https://scryfall.com/card/ons/60/whipcorder?utm_source=api>`
@@ -616,7 +616,7 @@
 :mtgtip:`Screaming Seahawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc5856ac-e710-44ee-8516-6070f4f31ce5.jpg?1562943230|https://scryfall.com/card/ons/112/screaming-seahawk?utm_source=api>`
    Flying
 
-   When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Sea's Claim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb652a5c-464e-4ba4-a4ab-1181be70cf7a.jpg?1562954583|https://scryfall.com/card/ons/113/seas-claim?utm_source=api>`
@@ -640,7 +640,7 @@
 
 
 :mtgtip:`Supreme Inquisitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/867de3d2-2178-4931-823e-ff439e1a45ea.jpg?1562926695|https://scryfall.com/card/ons/117/supreme-inquisitor?utm_source=api>`
-   Tap five untapped Wizards you control: Search target player's library for up to five cards and exile them. Then that player shuffles their library.
+   Tap five untapped Wizards you control: Search target player's library for up to five cards and exile them. Then that player shuffles.
 
 
 :mtgtip:`Trade Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e92e197e-ef7e-46bb-9533-5f9819d545b2.jpg?1562950534|https://scryfall.com/card/ons/118/trade-secrets?utm_source=api>`
@@ -840,7 +840,7 @@
 
 
 :mtgtip:`Head Games<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86ecc098-aa2b-4bae-80d5-4d02128ef837.jpg?1562926804|https://scryfall.com/card/ons/155/head-games?utm_source=api>`
-   Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles their library.
+   Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles.
 
 
 :mtgtip:`Headhunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cbd82d5-d64f-4833-b1a9-9652fcfa1578.jpg?1562909285|https://scryfall.com/card/ons/156/headhunter?utm_source=api>`
@@ -914,7 +914,7 @@
 
 
 :mtgtip:`Smother<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a8321af-d667-44e7-8c03-3957286604b9.jpg?1562931422|https://scryfall.com/card/ons/170/smother?utm_source=api>`
-   Destroy target creature with converted mana cost 3 or less. It can't be regenerated.
+   Destroy target creature with mana value 3 or less. It can't be regenerated.
 
 
 :mtgtip:`Soulless One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c826d786-0d96-4f77-94ae-6907fbce51e0.jpg?1562942286|https://scryfall.com/card/ons/171/soulless-one?utm_source=api>`
@@ -950,7 +950,7 @@
 
 
 :mtgtip:`Undead Gladiator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc779d9-3200-4369-9289-1a8e90e243b9.jpg?1562939313|https://scryfall.com/card/ons/178/undead-gladiator?utm_source=api>`
-   |mana_1|\ |mana_b|, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_1|\ |mana_b|, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate only during your upkeep.
 
    Cycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Draw a card.)
 
@@ -986,7 +986,7 @@
 
 
 :mtgtip:`Aggravated Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.jpg?1562942627|https://scryfall.com/card/ons/185/aggravated-assault?utm_source=api>`
-   |mana_3|\ |mana_r|\ |mana_r|: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|\ |mana_r|: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery.
 
 
 :mtgtip:`Airdrop Condor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec9796ac-11e2-4295-bf00-f684d0111970.jpg?1562951282|https://scryfall.com/card/ons/186/airdrop-condor?utm_source=api>`
@@ -998,7 +998,7 @@
 :mtgtip:`Avarax<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae76705f-ec95-48b0-9e26-84ce40c9514b.jpg?1562936224|https://scryfall.com/card/ons/187/avarax?utm_source=api>`
    Haste
 
-   When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, put it into your hand, then shuffle.
 
    |mana_1|\ |mana_r|: Avarax gets +1/+0 until end of turn.
 
@@ -1068,13 +1068,13 @@
 
 
 :mtgtip:`Embermage Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f50f60a8-e99a-4891-b474-a21abee38970.jpg?1562953111|https://scryfall.com/card/ons/200/embermage-goblin?utm_source=api>`
-   When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, put it into your hand, then shuffle.
 
    |tap|: Embermage Goblin deals 1 damage to any target.
 
 
 :mtgtip:`Erratic Explosion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f608a7e-5555-4554-a6e7-fe00e0bbe753.jpg?1562932664|https://scryfall.com/card/ons/201/erratic-explosion?utm_source=api>`
-   Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that permanent or player. Put the revealed cards on the bottom of your library in any order.
+   Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's mana value to that permanent or player. Put the revealed cards on the bottom of your library in any order.
 
 
 :mtgtip:`Fever Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/830d1980-f460-4be2-9379-c3f74c8318f3.jpg?1562925918|https://scryfall.com/card/ons/202/fever-charm?utm_source=api>`
@@ -1094,7 +1094,7 @@
 
 
 :mtgtip:`Goblin Machinist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5874e312-1010-43f2-b330-82bc9fcc9f53.jpg?1562915797|https://scryfall.com/card/ons/204/goblin-machinist?utm_source=api>`
-   |mana_2|\ |mana_r|: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.
+   |mana_2|\ |mana_r|: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's mana value. Put the revealed cards on the bottom of your library in any order.
 
 
 :mtgtip:`Goblin Piledriver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6c4df1f-f148-42ec-8e22-e7114216927d.jpg?1562953490|https://scryfall.com/card/ons/205/goblin-piledriver?utm_source=api>`
@@ -1145,8 +1145,8 @@
    Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.
 
 
-:mtgtip:`Kaboom!<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e81e5fc-0e18-4dd8-a505-aa7dba8521a8.jpg?1562902172|https://scryfall.com/card/ons/214/kaboom!?utm_source=api>`
-   Choose any number of target players or planeswalkers. For each of them, reveal cards from the top of your library until you reveal a nonland card, Kaboom! deals damage equal to that card's converted mana cost to that player or planeswalker, then you put the revealed cards on the bottom of your library in any order.
+:mtgtip:`Kaboom!<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e81e5fc-0e18-4dd8-a505-aa7dba8521a8.jpg?1618650505|https://scryfall.com/card/ons/214/kaboom!?utm_source=api>`
+   Choose any number of target players or planeswalkers. For each of them, reveal cards from the top of your library until you reveal a nonland card, Kaboom! deals damage equal to that card's mana value to that player or planeswalker, then you put the revealed cards on the bottom of your library in any order.
 
 
 :mtgtip:`Lavamancer's Skill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d4dd156-a2c1-4fab-b9f4-3302a4e8835a.jpg?1562898074|https://scryfall.com/card/ons/215/lavamancers-skill?utm_source=api>`
@@ -1392,7 +1392,7 @@
 
 
 :mtgtip:`Explosive Vegetation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1562947030|https://scryfall.com/card/ons/263/explosive-vegetation?utm_source=api>`
-   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Gigapede<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a96a608-9237-41c1-824c-89d5fad939ad.jpg?1562897409|https://scryfall.com/card/ons/264/gigapede?utm_source=api>`
@@ -1440,7 +1440,7 @@
 :mtgtip:`Krosan Tusker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b872f85-60c5-44c4-956d-a8aa8132908b.jpg?1562897602|https://scryfall.com/card/ons/272/krosan-tusker?utm_source=api>`
    Cycling |mana_2|\ |mana_g| (|mana_2|\ |mana_g|, Discard this card: Draw a card.)
 
-   When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)
+   When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. (Do this before you draw.)
 
 
 :mtgtip:`Leery Fogbeast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56125660-2307-4270-a947-f1f4ad63841c.jpg?1562915161|https://scryfall.com/card/ons/273/leery-fogbeast?utm_source=api>`
@@ -1576,7 +1576,7 @@
 
 
 :mtgtip:`Weird Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cdfa8b3-393b-4bb6-9265-faa4ab7126d2.jpg?1562909318|https://scryfall.com/card/ons/299/weird-harvest?utm_source=api>`
-   Each player may search their library for up to X creature cards, reveal those cards, and put them into their hand. Then each player who searched their library this way shuffles it.
+   Each player may search their library for up to X creature cards, reveal those cards, put them into their hand, then shuffle.
 
 
 :mtgtip:`Wellwisher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be95ab7c-0e77-4293-aa48-ee54902a363f.jpg?1562939969|https://scryfall.com/card/ons/300/wellwisher?utm_source=api>`
@@ -1588,7 +1588,7 @@
 
 
 :mtgtip:`Wirewood Herald<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35724e9f-efa6-47e7-ab4d-7defe38ba576.jpg?1562907555|https://scryfall.com/card/ons/302/wirewood-herald?utm_source=api>`
-   When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.
+   When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle.
 
 
 :mtgtip:`Wirewood Pride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a559e844-06c9-4953-bc2c-a58e4170fe47.jpg?1562934080|https://scryfall.com/card/ons/303/wirewood-pride?utm_source=api>`
@@ -1642,7 +1642,7 @@
 
 
 :mtgtip:`Bloodstained Mire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68c72226-6f52-4322-8b14-18737293dfa0.jpg?1562919681|https://scryfall.com/card/ons/313/bloodstained-mire?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Contested Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d6363ea-3814-4014-ad9e-1066c72d907c.jpg?1562928304|https://scryfall.com/card/ons/314/contested-cliffs?utm_source=api>`
@@ -1658,7 +1658,7 @@
 
 
 :mtgtip:`Flooded Strand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4e3d844-d3b4-41d8-921d-c1cb3af343f8.jpg?1562937663|https://scryfall.com/card/ons/316/flooded-strand?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Forgotten Cave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5202668-a32c-4473-b272-e86264992576.jpg?1562941555|https://scryfall.com/card/ons/317/forgotten-cave?utm_source=api>`
@@ -1692,7 +1692,7 @@
 
 
 :mtgtip:`Polluted Delta<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f7585c8-9e21-4eef-afc1-2852de23db2f.jpg?1562898596|https://scryfall.com/card/ons/321/polluted-delta?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Riptide Laboratory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d993c973-2eb6-423c-8ee9-10749a751524.jpg?1562946819|https://scryfall.com/card/ons/322/riptide-laboratory?utm_source=api>`
@@ -1738,7 +1738,7 @@
 
 
 :mtgtip:`Windswept Heath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a7c5941-9c8a-4a40-9efb-a84f05c58e53.jpg?1562923899|https://scryfall.com/card/ons/328/windswept-heath?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Wirewood Lodge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d251490-41bb-4ad3-bfd0-a5e66ee42598.jpg?1562909365|https://scryfall.com/card/ons/329/wirewood-lodge?utm_source=api>`
@@ -1748,7 +1748,7 @@
 
 
 :mtgtip:`Wooded Foothills<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdad38f7-9dfa-4f1b-9fac-41ab2b253f53.jpg?1562943559|https://scryfall.com/card/ons/330/wooded-foothills?utm_source=api>`
-   |tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library.
+   |tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bf7d68a-dbd0-45f3-acbb-59ee38e6057e.jpg?1562924217|https://scryfall.com/card/ons/331/plains?utm_source=api>`

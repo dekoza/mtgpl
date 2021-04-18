@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -389,7 +389,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../M12.rst:195
-msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgid "Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../M12.rst:200
@@ -682,7 +682,7 @@ msgid ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../M12.rst:359
-msgid "Look at the top three cards of your library, then put them back in any order. You may shuffle your library."
+msgid "Look at the top three cards of your library, then put them back in any order. You may shuffle."
 msgstr ""
 
 #: ../../M12.rst:361
@@ -866,7 +866,7 @@ msgid ":mtgtip:`Diabolic Tutor<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M12.rst:459
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 
 #: ../../M12.rst:464
@@ -978,7 +978,7 @@ msgid ":mtgtip:`Rune-Scarred Demon<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../M12.rst:523
-msgid "When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library."
+msgid "When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../M12.rst:530
@@ -1463,7 +1463,7 @@ msgid "Reach"
 msgstr ""
 
 #: ../../M12.rst:797
-msgid "Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it."
+msgid "Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../M12.rst:806
@@ -1531,7 +1531,7 @@ msgid ":mtgtip:`Doubling Chant<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M12.rst:837
-msgid "For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library."
+msgid "For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../M12.rst:844
@@ -1675,7 +1675,7 @@ msgid ":mtgtip:`Primeval Titan<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M12.rst:927
-msgid "Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M12.rst:936
@@ -1699,7 +1699,7 @@ msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../M12.rst:939
-msgid "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M12.rst:944
@@ -1735,7 +1735,7 @@ msgid ":mtgtip:`Skinshifter<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../M12.rst:961
-msgid "|mana_g|: Choose one. Activate this ability only once each turn."
+msgid "|mana_g|: Choose one. Activate only once each turn."
 msgstr ""
 
 #: ../../M12.rst:963
@@ -1932,7 +1932,7 @@ msgid ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../M12.rst:1073
-msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+msgid "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../M12.rst:1075
@@ -1944,7 +1944,7 @@ msgid ":mtgtip:`Sundial of the Infinite<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../M12.rst:1079
-msgid "|mana_1|, |tap|: End the turn. Activate this ability only during your turn. (Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)"
+msgid "|mana_1|, |tap|: End the turn. Activate only during your turn. (Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)"
 msgstr ""
 
 #: ../../M12.rst:1086

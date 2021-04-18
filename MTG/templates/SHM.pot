@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -201,7 +201,7 @@ msgid ":mtgtip:`Mistmeadow Skulk<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SHM.rst:75
-msgid "Lifelink, protection from converted mana cost 3 or greater"
+msgid "Lifelink, protection from mana value 3 or greater"
 msgstr ""
 
 #: ../../SHM.rst:82
@@ -226,7 +226,7 @@ msgid ":mtgtip:`Order of Whiteclay<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SHM.rst:85
-msgid "|mana_1|\\ |mana_w|\\ |mana_w|, |untap|: Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. (|untap| is the untap symbol.)"
+msgid "|mana_1|\\ |mana_w|\\ |mana_w|, |untap|: Return target creature card with mana value 3 or less from your graveyard to the battlefield. (|untap| is the untap symbol.)"
 msgstr ""
 
 #: ../../SHM.rst:90
@@ -348,7 +348,7 @@ msgid ":mtgtip:`Advice from the Fae<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../SHM.rst:147
-msgid "(|mana_2u| can be paid with any two mana or with |mana_u|. This card's converted mana cost is 6.)"
+msgid "(|mana_2u| can be paid with any two mana or with |mana_u|. This card's mana value is 6.)"
 msgstr ""
 
 #: ../../SHM.rst:149
@@ -396,7 +396,7 @@ msgid ":mtgtip:`Counterbore<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../SHM.rst:177
-msgid "Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library."
+msgid "Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../SHM.rst:182
@@ -530,7 +530,7 @@ msgid ":mtgtip:`Puca's Mischief<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SHM.rst:247
-msgid "At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser converted mana cost."
+msgid "At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser mana value."
 msgstr ""
 
 #: ../../SHM.rst:252
@@ -618,11 +618,11 @@ msgid ":mtgtip:`Beseech the Queen<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SHM.rst:297
-msgid "(|mana_2b| can be paid with any two mana or with |mana_b|. This card's converted mana cost is 6.)"
+msgid "(|mana_2b| can be paid with any two mana or with |mana_b|. This card's mana value is 6.)"
 msgstr ""
 
 #: ../../SHM.rst:299
-msgid "Search your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../SHM.rst:304
@@ -662,7 +662,7 @@ msgid ":mtgtip:`Cinderhaze Wretch<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SHM.rst:313
-msgid "|tap|: Target player discards a card. Activate this ability only during your turn."
+msgid "|tap|: Target player discards a card. Activate only during your turn."
 msgstr ""
 
 #: ../../SHM.rst:315
@@ -955,7 +955,7 @@ msgid ":mtgtip:`Flame Javelin<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SHM.rst:483
-msgid "(|mana_2r| can be paid with any two mana or with |mana_r|. This card's converted mana cost is 6.)"
+msgid "(|mana_2r| can be paid with any two mana or with |mana_r|. This card's mana value is 6.)"
 msgstr ""
 
 #: ../../SHM.rst:485
@@ -1019,7 +1019,7 @@ msgid ":mtgtip:`Knollspine Invocation<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../SHM.rst:521
-msgid "|mana_x|, Discard a card with converted mana cost X: Knollspine Invocation deals X damage to any target."
+msgid "|mana_x|, Discard a card with mana value X: Knollspine Invocation deals X damage to any target."
 msgstr ""
 
 #: ../../SHM.rst:528
@@ -1142,7 +1142,7 @@ msgid ":mtgtip:`Farhaven Elf<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../SHM.rst:591
-msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../SHM.rst:596
@@ -1303,7 +1303,7 @@ msgid ":mtgtip:`Tower Above<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../SHM.rst:677
-msgid "(|mana_2g| can be paid with any two mana or with |mana_g|. This card's converted mana cost is 6.)"
+msgid "(|mana_2g| can be paid with any two mana or with |mana_g|. This card's mana value is 6.)"
 msgstr ""
 
 #: ../../SHM.rst:679
@@ -1355,7 +1355,7 @@ msgid ":mtgtip:`Augury Adept<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../SHM.rst:713
-msgid "Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its converted mana cost."
+msgid "Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its mana value."
 msgstr ""
 
 #: ../../SHM.rst:718
@@ -1836,7 +1836,7 @@ msgid ":mtgtip:`Manaforge Cinder<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SHM.rst:1003
-msgid "|mana_1|: Add |mana_b| or |mana_r|. Activate this ability no more than three times each turn."
+msgid "|mana_1|: Add |mana_b| or |mana_r|. Activate no more than three times each turn."
 msgstr ""
 
 #: ../../SHM.rst:1010
@@ -2241,7 +2241,7 @@ msgid ":mtgtip:`Safewright Quest<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SHM.rst:1245
-msgid "Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library."
+msgid "Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
 #: ../../SHM.rst:1250
@@ -2437,7 +2437,7 @@ msgid ":mtgtip:`Reaper King<https://c1.scryfall.com/file/scryfall-cards/border_c
 msgstr ""
 
 #: ../../SHM.rst:1355
-msgid "(|mana_2w| can be paid with any two mana or with |mana_w|. This card's converted mana cost is 10.)"
+msgid "(|mana_2w| can be paid with any two mana or with |mana_w|. This card's mana value is 10.)"
 msgstr ""
 
 #: ../../SHM.rst:1357
@@ -2586,7 +2586,7 @@ msgid "Leechridden Swamp enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1431
-msgid "|mana_b|, |tap|: Each opponent loses 1 life. Activate this ability only if you control two or more black permanents."
+msgid "|mana_b|, |tap|: Each opponent loses 1 life. Activate only if you control two or more black permanents."
 msgstr ""
 
 #: ../../SHM.rst:1440
@@ -2603,7 +2603,7 @@ msgid "Madblind Mountain enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1439
-msgid "|mana_r|, |tap|: Shuffle your library. Activate this ability only if you control two or more red permanents."
+msgid "|mana_r|, |tap|: Shuffle your library. Activate only if you control two or more red permanents."
 msgstr ""
 
 #: ../../SHM.rst:1448
@@ -2620,7 +2620,7 @@ msgid "Mistveil Plains enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1447
-msgid "|mana_w|, |tap|: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents."
+msgid "|mana_w|, |tap|: Put target card from your graveyard on the bottom of your library. Activate only if you control two or more white permanents."
 msgstr ""
 
 #: ../../SHM.rst:1456
@@ -2637,7 +2637,7 @@ msgid "Moonring Island enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1455
-msgid "|mana_u|, |tap|: Look at the top card of target player's library. Activate this ability only if you control two or more blue permanents."
+msgid "|mana_u|, |tap|: Look at the top card of target player's library. Activate only if you control two or more blue permanents."
 msgstr ""
 
 #: ../../SHM.rst:1462
@@ -2670,7 +2670,7 @@ msgid "Sapseep Forest enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1473
-msgid "|mana_g|, |tap|: You gain 1 life. Activate this ability only if you control two or more green permanents."
+msgid "|mana_g|, |tap|: You gain 1 life. Activate only if you control two or more green permanents."
 msgstr ""
 
 #: ../../SHM.rst:1480

@@ -118,7 +118,7 @@
 
    Whenever another creature enters the battlefield, untap Sunstrike Legionnaire.
 
-   |tap|: Tap target creature with converted mana cost 3 or less.
+   |tap|: Tap target creature with mana value 3 or less.
 
 
 :mtgtip:`Swooping Talon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34c3d19c-d4c6-4c5c-85eb-11d55959a89c.jpg?1562905654|https://scryfall.com/card/lgn/23/swooping-talon?utm_source=api>`
@@ -340,7 +340,7 @@
 
 
 :mtgtip:`Corpse Harvester<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d09c2c8-526b-4693-bbaa-109911ce5281.jpg?1562897662|https://scryfall.com/card/lgn/62/corpse-harvester?utm_source=api>`
-   |mana_1|\ |mana_b|, |tap|, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, and put them into your hand. Then shuffle your library.
+   |mana_1|\ |mana_b|, |tap|, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, put them into your hand, then shuffle.
 
 
 :mtgtip:`Crypt Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/507097eb-6b50-47ae-a545-df76b743b2bd.jpg?1562911300|https://scryfall.com/card/lgn/63/crypt-sliver?utm_source=api>`
@@ -348,11 +348,11 @@
 
 
 :mtgtip:`Dark Supplicant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb685932-5df5-4f26-9633-b1daa8925359.jpg?1562942279|https://scryfall.com/card/lgn/64/dark-supplicant?utm_source=api>`
-   |tap|, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle it.
+   |tap|, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle.
 
 
 :mtgtip:`Deathmark Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b54fb4b2-ecce-4a6c-8d76-4b5879ba836f.jpg?1562931487|https://scryfall.com/card/lgn/65/deathmark-prelate?utm_source=api>`
-   |mana_2|\ |mana_b|, |tap|, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, |tap|, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate only as a sorcery.
 
 
 :mtgtip:`Drinker of Sorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bc8758b-68cc-45ab-85d0-b870cef7dd85.jpg?1562903921|https://scryfall.com/card/lgn/66/drinker-of-sorrow?utm_source=api>`
@@ -550,7 +550,7 @@
 
    Morph |mana_6|\ |mana_r|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-   When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.
+   When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Kilnmouth Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/effe13c3-3c8b-4faa-bdd4-491039bfa82b.jpg?1562943198|https://scryfall.com/card/lgn/104/kilnmouth-dragon?utm_source=api>`

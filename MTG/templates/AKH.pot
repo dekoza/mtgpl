@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 09:04+0200\n"
+"POT-Creation-Date: 2021-04-18 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -160,7 +160,7 @@ msgid ":mtgtip:`Devoted Crop-Mate<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../AKH.rst:67
-msgid "You may exert Devoted Crop-Mate as it attacks. When you do, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield. (An exerted creature won't untap during your next untap step.)"
+msgid "You may exert Devoted Crop-Mate as it attacks. When you do, return target creature card with mana value 2 or less from your graveyard to the battlefield. (An exerted creature won't untap during your next untap step.)"
 msgstr ""
 
 #: ../../AKH.rst:74
@@ -489,7 +489,7 @@ msgid "At the beginning of your upkeep, put a time counter on As Foretold."
 msgstr ""
 
 #: ../../AKH.rst:241
-msgid "Once each turn, you may pay |mana_0| rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of time counters on As Foretold."
+msgid "Once each turn, you may pay |mana_0| rather than pay the mana cost for a spell you cast with mana value X or less, where X is the number of time counters on As Foretold."
 msgstr ""
 
 #: ../../AKH.rst:248
@@ -747,7 +747,7 @@ msgid ":mtgtip:`Seeker of Insight<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../AKH.rst:389
-msgid "|tap|: Draw a card, then discard a card. Activate this ability only if you've cast a noncreature spell this turn."
+msgid "|tap|: Draw a card, then discard a card. Activate only if you've cast a noncreature spell this turn."
 msgstr ""
 
 #: ../../AKH.rst:396
@@ -916,7 +916,7 @@ msgid ":mtgtip:`Dispossess<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../AKH.rst:489
-msgid "Choose an artifact card name. Search target opponent's graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles their library."
+msgid "Choose an artifact card name. Search target opponent's graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles."
 msgstr ""
 
 #: ../../AKH.rst:494
@@ -936,7 +936,7 @@ msgid "Dread Wanderer enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:499
-msgid "|mana_2|\\ |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand."
+msgid "|mana_2|\\ |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate only as a sorcery and only if you have one or fewer cards in hand."
 msgstr ""
 
 #: ../../AKH.rst:502
@@ -1723,7 +1723,7 @@ msgid ":mtgtip:`Harvest Season<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../AKH.rst:927
-msgid "Search your library for up to X basic land cards, where X is the number of tapped creatures you control, and put those cards onto the battlefield tapped. Then shuffle your library."
+msgid "Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../AKH.rst:934
@@ -1783,7 +1783,7 @@ msgid ":mtgtip:`Oashra Cultivator<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../AKH.rst:961
-msgid "|mana_2|\\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|\\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../AKH.rst:966
@@ -1871,7 +1871,7 @@ msgid "Cycling |mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Discard this card: Draw
 msgstr ""
 
 #: ../../AKH.rst:1007
-msgid "When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle your library. (Do this before you draw.)"
+msgid "When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle. (Do this before you draw.)"
 msgstr ""
 
 #: ../../AKH.rst:1014
@@ -2055,7 +2055,7 @@ msgid "+2: Scry 2."
 msgstr ""
 
 #: ../../AKH.rst:1109
-msgid "0: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield."
+msgid "0: Look at the top card of your library. If it's a land card or a creature card with mana value less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield."
 msgstr ""
 
 #: ../../AKH.rst:1111
@@ -2285,7 +2285,7 @@ msgid ":mtgtip:`Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/f
 msgstr ""
 
 #: ../../AKH.rst:1237
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../AKH.rst:1244
@@ -2393,7 +2393,7 @@ msgid "|mana_1|, |tap|: Target creature can't attack this turn. Put a brick coun
 msgstr ""
 
 #: ../../AKH.rst:1305
-msgid "|mana_1|, |tap|: Until your next turn, target creature can't attack or block and its activated abilities can't be activated. Activate this ability only if there are three or more brick counters on Edifice of Authority."
+msgid "|mana_1|, |tap|: Until your next turn, target creature can't attack or block and its activated abilities can't be activated. Activate only if there are three or more brick counters on Edifice of Authority."
 msgstr ""
 
 #: ../../AKH.rst:1312
@@ -2417,7 +2417,7 @@ msgid "Whenever a nontoken creature you control dies, you gain 1 life. Then you 
 msgstr ""
 
 #: ../../AKH.rst:1317
-msgid "|mana_2|, |tap|, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh's Gift and put it onto the battlefield. If you search your library this way, shuffle it. Activate this ability only if there are six or more creature cards in your graveyard."
+msgid "|mana_2|, |tap|, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh's Gift and put it onto the battlefield. If you search your library this way, shuffle. Activate only if there are six or more creature cards in your graveyard."
 msgstr ""
 
 #: ../../AKH.rst:1324
@@ -2465,7 +2465,7 @@ msgid "|mana_1|, |tap|: You gain 1 life. Put a brick counter on Luxa River Shrin
 msgstr ""
 
 #: ../../AKH.rst:1341
-msgid "|tap|: You gain 2 life. Activate this ability only if there are three or more brick counters on Luxa River Shrine."
+msgid "|tap|: You gain 2 life. Activate only if there are three or more brick counters on Luxa River Shrine."
 msgstr ""
 
 #: ../../AKH.rst:1348
@@ -2489,7 +2489,7 @@ msgid "|mana_2|, |tap|: Exile the top card of your library. Until end of turn, y
 msgstr ""
 
 #: ../../AKH.rst:1353
-msgid "|tap|: Exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. Activate this ability only if there are three or more brick counters on Oracle's Vault."
+msgid "|tap|: Exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. Activate only if there are three or more brick counters on Oracle's Vault."
 msgstr ""
 
 #: ../../AKH.rst:1360
@@ -2501,7 +2501,7 @@ msgid "|mana_2|, |tap|: Add one mana of any color. Put a brick counter on Pyrami
 msgstr ""
 
 #: ../../AKH.rst:1359
-msgid "|tap|: Add three mana of any one color. Activate this ability only if there are three or more brick counters on Pyramid of the Pantheon."
+msgid "|tap|: Add three mana of any one color. Activate only if there are three or more brick counters on Pyramid of the Pantheon."
 msgstr ""
 
 #: ../../AKH.rst:1366
@@ -2569,7 +2569,7 @@ msgid ":mtgtip:`Cradle of the Accursed<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../AKH.rst:1395
-msgid "|mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|, |tap|, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
 
 #: ../../AKH.rst:1400
@@ -2577,7 +2577,7 @@ msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../AKH.rst:1399
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../AKH.rst:1408
@@ -2597,7 +2597,7 @@ msgid ":mtgtip:`Grasping Dunes<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../AKH.rst:1413
-msgid "|mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target creature. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|, |tap|, Sacrifice Grasping Dunes: Put a -1/-1 counter on target creature. Activate only as a sorcery."
 msgstr ""
 
 #: ../../AKH.rst:1422
@@ -2713,7 +2713,7 @@ msgid ":mtgtip:`Companion of the Trials<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../AKH.rst:1483
-msgid "|mana_1|\\ |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker."
+msgid "|mana_1|\\ |mana_w|: Untap target creature. Activate only if you control a Gideon planeswalker."
 msgstr ""
 
 #: ../../AKH.rst:1490
@@ -2721,7 +2721,7 @@ msgid ":mtgtip:`Gideon's Resolve<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../AKH.rst:1487
-msgid "When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../AKH.rst:1489
@@ -2769,7 +2769,7 @@ msgid ":mtgtip:`Desiccated Naga<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../AKH.rst:1511
-msgid "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker."
+msgid "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate only if you control a Liliana planeswalker."
 msgstr ""
 
 #: ../../AKH.rst:1516
@@ -2777,7 +2777,7 @@ msgid ":mtgtip:`Liliana's Influence<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../AKH.rst:1515
-msgid "Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid "Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle."
 msgstr ""
 
 #: ../../AKH.rst:1520

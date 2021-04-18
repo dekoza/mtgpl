@@ -66,7 +66,7 @@
 
    Enchanted creature gets +1/+2 and has vigilance.
 
-   When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature.
+   When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature.
 
 
 :mtgtip:`Dragonstalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58017ff1-74d2-4be2-976a-8dff53e16150.jpg?1562529448|https://scryfall.com/card/scg/11/dragonstalker?utm_source=api>`
@@ -76,9 +76,9 @@
 :mtgtip:`Eternal Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0596928c-2b20-4dbb-aa78-3ab6c3ce0d72.jpg?1562524969|https://scryfall.com/card/scg/12/eternal-dragon?utm_source=api>`
    Flying
 
-   |mana_3|\ |mana_w|\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_3|\ |mana_w|\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep.
 
-   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)
+   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Exiled Doomsayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74aaf095-143a-43fc-a858-b1e82a4b906e.jpg?1562530656|https://scryfall.com/card/scg/13/exiled-doomsayer?utm_source=api>`
@@ -120,7 +120,7 @@
 :mtgtip:`Noble Templar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a9ede92-e64f-44a5-afb6-c7495077fb0b.jpg?1562530174|https://scryfall.com/card/scg/19/noble-templar?utm_source=api>`
    Vigilance
 
-   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)
+   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Rain of Blades<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/418476cd-94da-47a5-ba77-6bb4771e9c89.jpg?1562528049|https://scryfall.com/card/scg/20/rain-of-blades?utm_source=api>`
@@ -136,7 +136,7 @@
 
 
 :mtgtip:`Reward the Faithful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df6e8844-3736-4fb1-bedb-6a6bfa6ccdc8.jpg?1562535753|https://scryfall.com/card/scg/22/reward-the-faithful?utm_source=api>`
-   Any number of target players each gain life equal to the highest converted mana cost among permanents you control.
+   Any number of target players each gain life equal to the highest mana value among permanents you control.
 
 
 :mtgtip:`Silver Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93f559da-08ad-402d-8c6b-3050bce5867b.jpg?1562532178|https://scryfall.com/card/scg/23/silver-knight?utm_source=api>`
@@ -194,7 +194,7 @@
 
 
 :mtgtip:`Dispersal Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c257df6-f275-40db-bfe3-a9291356cdf7.jpg?1562525399|https://scryfall.com/card/scg/33/dispersal-shield?utm_source=api>`
-   Counter target spell if its converted mana cost is less than or equal to the highest converted mana cost among permanents you control.
+   Counter target spell if its mana value is less than or equal to the highest mana value among permanents you control.
 
 
 :mtgtip:`Dragon Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7674ab4d-9bc0-45c3-88e1-3fd2c947cfaa.jpg?1562530706|https://scryfall.com/card/scg/34/dragon-wings?utm_source=api>`
@@ -204,7 +204,7 @@
 
    Cycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Draw a card.)
 
-   When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Wings from your graveyard to the battlefield attached to that creature.
+   When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Wings from your graveyard to the battlefield attached to that creature.
 
 
 :mtgtip:`Faces of the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f6dc35b-eb26-498f-ae35-0e860871446e.jpg?1562525440|https://scryfall.com/card/scg/35/faces-of-the-past?utm_source=api>`
@@ -226,7 +226,7 @@
 
 
 :mtgtip:`Long-Term Plans<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e0422d9-9694-45b6-9c2b-2ca31198cebf.jpg?1562531196|https://scryfall.com/card/scg/38/long-term-plans?utm_source=api>`
-   Search your library for a card, shuffle your library, then put that card third from the top.
+   Search your library for a card, then shuffle and put that card third from the top.
 
 
 :mtgtip:`Mercurial Kite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6bc8655-ae27-40be-8d61-e80a5924e955.jpg?1562533105|https://scryfall.com/card/scg/39/mercurial-kite?utm_source=api>`
@@ -240,7 +240,7 @@
 
 
 :mtgtip:`Mind's Desire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f.jpg?1562527625|https://scryfall.com/card/scg/41/minds-desire?utm_source=api>`
-   Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)
+   Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
@@ -294,7 +294,7 @@
 
 
 :mtgtip:`Rush of Knowledge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65b03b40-671f-4973-8d75-c3fa878ef603.jpg?1562529750|https://scryfall.com/card/scg/49/rush-of-knowledge?utm_source=api>`
-   Draw cards equal to the highest converted mana cost among permanents you control.
+   Draw cards equal to the highest mana value among permanents you control.
 
 
 :mtgtip:`Scornful Egotist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fec6b189-97e7-4627-9785-a9ce2f1ad89f.jpg?1562537398|https://scryfall.com/card/scg/50/scornful-egotist?utm_source=api>`
@@ -304,7 +304,7 @@
 :mtgtip:`Shoreline Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eed813c4-fff0-43f1-bc62-cbc3a126d600.jpg?1562536698|https://scryfall.com/card/scg/51/shoreline-ranger?utm_source=api>`
    Flying
 
-   Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)
+   Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Stifle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1562527068|https://scryfall.com/card/scg/52/stifle?utm_source=api>`
@@ -332,11 +332,11 @@
 
 
 :mtgtip:`Cabal Conditioning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb81c6e6-fded-4cd3-a6fa-486419a5408a.jpg?1562536656|https://scryfall.com/card/scg/56/cabal-conditioning?utm_source=api>`
-   Any number of target players each discard a number of cards equal to the highest converted mana cost among permanents you control.
+   Any number of target players each discard a number of cards equal to the highest mana value among permanents you control.
 
 
 :mtgtip:`Cabal Interrogator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/256a7a37-6f47-47a3-b149-5692aee8b34a.jpg?1562526599|https://scryfall.com/card/scg/57/cabal-interrogator?utm_source=api>`
-   |mana_x|\ |mana_b|, |tap|: Target player reveals X cards from their hand and you choose one of them. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_x|\ |mana_b|, |tap|: Target player reveals X cards from their hand and you choose one of them. That player discards that card. Activate only as a sorcery.
 
 
 :mtgtip:`Call to the Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a346b4a-ac8a-4f99-9ed7-dd41102e56ce.jpg?1562527023|https://scryfall.com/card/scg/58/call-to-the-grave?utm_source=api>`
@@ -386,7 +386,7 @@
 
    Enchanted creature gets +1/+0 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
 
-   When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature.
+   When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature.
 
 
 :mtgtip:`Fatal Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57cf9f50-8858-44a6-8bd5-0ce1e281a584.jpg?1562529447|https://scryfall.com/card/scg/66/fatal-mutation?utm_source=api>`
@@ -448,7 +448,7 @@
 :mtgtip:`Twisted Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/446e672f-87aa-4308-98bb-d00548c5bcef.jpg?1562528106|https://scryfall.com/card/scg/76/twisted-abomination?utm_source=api>`
    |mana_b|: Regenerate Twisted Abomination.
 
-   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)
+   Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Unburden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd5fc0e0-4ee5-40eb-a9f0-9b1fff2adefc.jpg?1562533810|https://scryfall.com/card/scg/77/unburden?utm_source=api>`
@@ -486,7 +486,7 @@
 :mtgtip:`Chartooth Cougar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b2c9c07-c3db-46ca-a204-b710c3a34ae9.jpg?1562530181|https://scryfall.com/card/scg/84/chartooth-cougar?utm_source=api>`
    |mana_r|: Chartooth Cougar gets +1/+0 until end of turn.
 
-   Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)
+   Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Decree of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73744717-518c-478e-9da9-201c49124f37.jpg?1562530626|https://scryfall.com/card/scg/85/decree-of-annihilation?utm_source=api>`
@@ -504,7 +504,7 @@
 
    |mana_r|: Enchanted creature gets +1/+0 until end of turn.
 
-   When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
+   When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
 
 
 :mtgtip:`Dragon Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7687a201-0ecc-4739-86e3-3b4090d345a8.jpg?1562530729|https://scryfall.com/card/scg/87/dragon-mage?utm_source=api>`
@@ -528,7 +528,7 @@
 
 
 :mtgtip:`Dragonstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b9aa594-39e6-4824-aed9-75d1a301ac51.jpg?1562528558|https://scryfall.com/card/scg/90/dragonstorm?utm_source=api>`
-   Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.
+   Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
@@ -578,7 +578,7 @@
 
 
 :mtgtip:`Pyrostatic Pillar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5973cd53-f6cd-4edc-b952-f6d3eef97988.jpg?1562529485|https://scryfall.com/card/scg/100/pyrostatic-pillar?utm_source=api>`
-   Whenever a player casts a spell with converted mana cost 3 or less, Pyrostatic Pillar deals 2 damage to that player.
+   Whenever a player casts a spell with mana value 3 or less, Pyrostatic Pillar deals 2 damage to that player.
 
 
 :mtgtip:`Rock Jockey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f836e90-3255-48bd-a174-6a127528551e.jpg?1562532100|https://scryfall.com/card/scg/101/rock-jockey?utm_source=api>`
@@ -618,7 +618,7 @@
 
 
 :mtgtip:`Torrent of Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feeee859-f64a-4cd8-be0b-ad60cff8812e.jpg?1562537400|https://scryfall.com/card/scg/107/torrent-of-fire?utm_source=api>`
-   Torrent of Fire deals damage to any target equal to the highest converted mana cost among permanents you control.
+   Torrent of Fire deals damage to any target equal to the highest mana value among permanents you control.
 
 
 :mtgtip:`Uncontrolled Infestation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ead6c3-a4e9-43e0-ae2a-6eb73033bc49.jpg?1562535298|https://scryfall.com/card/scg/108/uncontrolled-infestation?utm_source=api>`
@@ -628,7 +628,7 @@
 
 
 :mtgtip:`Accelerated Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/282f808c-0b58-4b98-aeda-f606a10d1a4b.jpg?1562526627|https://scryfall.com/card/scg/109/accelerated-mutation?utm_source=api>`
-   Target creature gets +X/+X until end of turn, where X is the highest converted mana cost among permanents you control.
+   Target creature gets +X/+X until end of turn, where X is the highest mana value among permanents you control.
 
 
 :mtgtip:`Alpha Status<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd210c45-57f3-4d7d-93ba-81fe4298ade3.jpg?1562537375|https://scryfall.com/card/scg/110/alpha-status?utm_source=api>`
@@ -644,7 +644,7 @@
 
 
 :mtgtip:`Ancient Ooze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b57b41c-f99c-4525-8541-f025b7e31974.jpg?1562527613|https://scryfall.com/card/scg/112/ancient-ooze?utm_source=api>`
-   Ancient Ooze's power and toughness are each equal to the total converted mana cost of other creatures you control.
+   Ancient Ooze's power and toughness are each equal to the total mana value of other creatures you control.
 
 
 :mtgtip:`Break Asunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb989895-a5c7-4151-8620-ab277d826303.jpg?1562537374|https://scryfall.com/card/scg/113/break-asunder?utm_source=api>`
@@ -676,17 +676,17 @@
 
    Enchanted creature gets +1/+1 and has trample.
 
-   When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Fangs from your graveyard to the battlefield attached to that creature.
+   When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Fangs from your graveyard to the battlefield attached to that creature.
 
 
 :mtgtip:`Elvish Aberration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/137d326f-83e1-449a-b934-71c7986c64e7.jpg?1562525888|https://scryfall.com/card/scg/118/elvish-aberration?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
-   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)
+   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d237e169-f152-4ddf-a5a1-32ca46cfa16d.jpg?1562535173|https://scryfall.com/card/scg/119/fierce-empath?utm_source=api>`
-   When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+   When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Forgotten Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49d3b91d-2e4f-4574-89f8-7b804f1d21bf.jpg?1562528527|https://scryfall.com/card/scg/120/forgotten-ancient?utm_source=api>`
@@ -702,7 +702,7 @@
 
 
 :mtgtip:`Krosan Drover<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e92a7141-119f-4bf8-a82d-eb7c0c37185c.jpg?1562536633|https://scryfall.com/card/scg/122/krosan-drover?utm_source=api>`
-   Creature spells you cast with converted mana cost 6 or greater cost |mana_2| less to cast.
+   Creature spells you cast with mana value 6 or greater cost |mana_2| less to cast.
 
 
 :mtgtip:`Krosan Warchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/435b700b-2072-47c0-9725-ad04414d2474.jpg?1562528085|https://scryfall.com/card/scg/123/krosan-warchief?utm_source=api>`
@@ -712,13 +712,13 @@
 
 
 :mtgtip:`Kurgadon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52a1758c-849a-4de3-b674-857c3c9bf399.jpg?1562529070|https://scryfall.com/card/scg/124/kurgadon?utm_source=api>`
-   Whenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon.
+   Whenever you cast a creature spell with mana value 6 or greater, put three +1/+1 counters on Kurgadon.
 
 
 :mtgtip:`One with Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2321b01c-7eef-48cc-a86b-4074dfa5b86b.jpg?1562526569|https://scryfall.com/card/scg/125/one-with-nature?utm_source=api>`
    Enchant creature
 
-   Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+   Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Primitive Etchings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eae26b8d-c3af-42d1-94f4-56950ceac1c7.jpg?1562536644|https://scryfall.com/card/scg/126/primitive-etchings?utm_source=api>`
@@ -732,7 +732,7 @@
 
 
 :mtgtip:`Sprouting Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a3246a6-b604-4f9f-adb9-3692e0fa8638.jpg?1562527612|https://scryfall.com/card/scg/128/sprouting-vines?utm_source=api>`
-   Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.
+   Search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
@@ -752,11 +752,11 @@
 
 
 :mtgtip:`Wirewood Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8676b1f-e37c-4ae1-9dbe-d000369fa422.jpg?1562536268|https://scryfall.com/card/scg/132/wirewood-guardian?utm_source=api>`
-   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)
+   Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
 
 
 :mtgtip:`Wirewood Symbiote<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49488b76-abaf-4dba-b01f-7b418e4ff295.jpg?1562528525|https://scryfall.com/card/scg/133/wirewood-symbiote?utm_source=api>`
-   Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+   Return an Elf you control to its owner's hand: Untap target creature. Activate only once each turn.
 
 
 :mtgtip:`Woodcloaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4aa85e09-a1cd-473d-98cd-c6a7c7aff949.jpg?1562528540|https://scryfall.com/card/scg/134/woodcloaker?utm_source=api>`
@@ -792,7 +792,7 @@
 
 
 :mtgtip:`Sliver Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c16915b-c50d-4fb5-830f-9ca4597a9c0f.jpg?1562527622|https://scryfall.com/card/scg/139/sliver-overlord?utm_source=api>`
-   |mana_3|: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.
+   |mana_3|: Search your library for a Sliver card, reveal that card, put it into your hand, then shuffle.
 
    |mana_3|: Gain control of target Sliver. (This effect lasts indefinitely.)
 
@@ -812,5 +812,5 @@
 
 
 :mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7036f51-10a6-4036-8650-9bc12d2a55cb.jpg?1562535240|https://scryfall.com/card/scg/143/temple-of-the-false-god?utm_source=api>`
-   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate only if you control five or more lands.
 
