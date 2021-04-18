@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:47+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -179,8 +179,6 @@ msgid "Destroy all creatures with mana value 3 or less."
 msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../2XM.rst:55
-#, fuzzy
-#| msgid "Destroy all creatures with converted mana cost 4 or greater."
 msgid "Destroy all creatures with mana value 4 or greater."
 msgstr "Zniszcz wszystkie stwory o skrótach many 4 lub większych."
 
@@ -1434,11 +1432,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:435
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, reveal the top card of your library and "
-#| "put that card into your hand. You lose life equal to its converted mana "
-#| "cost."
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library and put "
 "that card into your hand. You lose life equal to its mana value."

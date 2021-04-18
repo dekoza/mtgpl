@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -1221,16 +1221,12 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:437
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to X cards and put those cards into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to X cards, put those cards into your hand, then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej X kart i umieść je w twojej ręce. "
-"Następnie przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej X kart, umieść je w twojej ręce, po "
+"czym przetasuj."
 
 #: ../../M13.rst:442
 msgid ""
@@ -1401,11 +1397,6 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:493
-#, fuzzy
-#| msgid ""
-#| "When Liliana's Shade enters the battlefield, you may search your library "
-#| "for a Swamp card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Liliana's Shade enters the battlefield, you may search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle."
@@ -1565,12 +1556,6 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:551
-#, fuzzy
-#| msgid ""
-#| "Whenever Shimian Specter deals combat damage to a player, that player "
-#| "reveals their hand. You choose a nonland card from it. Search that "
-#| "player's graveyard, hand, and library for all cards with the same name as "
-#| "that card and exile them. Then that player shuffles their library."
 msgid ""
 "Whenever Shimian Specter deals combat damage to a player, that player "
 "reveals their hand. You choose a nonland card from it. Search that player's "
@@ -1580,7 +1565,7 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia swoją "
 "rękę. Wybierz z niej nielądową kartę. Wyszukaj w cmentarzu, ręce i "
 "bibliotece owego gracza wszystkie karty o tej samej nazwie i wygnaj je. "
-"Następnie ów gracz tasuje swoją bibliotekę."
+"Następnie ów gracz tasuje."
 
 #: ../../M13.rst:556
 msgid ""
@@ -2292,18 +2277,13 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:799
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to X basic land cards, where X is the number "
-#| "of lands you control, and put them onto the battlefield tapped. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for up to X basic land cards, where X is the number of "
 "lands you control, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
-"liczbą lądów pod twoim władaniem, i umieść je przekręcone na polu bitwy. "
-"Następnie przetasuj."
+"liczbą lądów pod twoim władaniem, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../M13.rst:804
 msgid ""
@@ -2410,16 +2390,12 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:839
-#, fuzzy
-#| msgid ""
-#| "Search your library for a Plains, Island, Swamp, or Mountain card and put "
-#| "it onto the battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for a Plains, Island, Swamp, or Mountain card, put it "
 "onto the battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry i umieść "
-"ją przekręconą na polu bitwy. Następnie przetasuj."
+"Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry, umieść ją "
+"przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../M13.rst:846
 msgid ""
@@ -2527,11 +2503,6 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:875
-#, fuzzy
-#| msgid ""
-#| "When Mwonvuli Beast Tracker enters the battlefield, search your library "
-#| "for a creature card with deathtouch, hexproof, reach, or trample and "
-#| "reveal it. Shuffle your library and put that card on top of it."
 msgid ""
 "When Mwonvuli Beast Tracker enters the battlefield, search your library for "
 "a creature card with deathtouch, hexproof, reach, or trample and reveal it. "
@@ -2539,7 +2510,7 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "stwora z dotykiem śmierci, antyklątwą, zasięgiem lub tratowaniem i ujawnij "
-"ją. Przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
+"ją. Przetasuj i umieść ową kartę na wierzchu."
 
 #: ../../M13.rst:880
 msgid ""
@@ -2676,10 +2647,6 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:919
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two Forest cards and put them onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Search your library for up to two Forest cards, put them onto the "
 "battlefield tapped, then shuffle."
@@ -2951,11 +2918,6 @@ msgid ""
 msgstr ""
 
 #: ../../M13.rst:1007
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|, Sacrifice Gem of Becoming: Search your library for an "
-#| "Island card, a Swamp card, and a Mountain card. Reveal those cards and "
-#| "put them into your hand. Then shuffle your library."
 msgid ""
 "|mana_3|, |tap|, Sacrifice Gem of Becoming: Search your library for an "
 "Island card, a Swamp card, and a Mountain card. Reveal those cards, put them "
@@ -2963,7 +2925,7 @@ msgid ""
 msgstr ""
 "|mana_3|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
 "Wyspy, kartę Bagna i kartę Góry. Ujawnij owe karty i umieść je w twojej "
-"ręce. Następnie przetasuj."
+"ręce, po czym przetasuj."
 
 #: ../../M13.rst:1012
 msgid ""

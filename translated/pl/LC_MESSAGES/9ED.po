@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -1847,11 +1847,6 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:645
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice a creature: Return target creature card from your "
-#| "graveyard to the battlefield. Activate this ability only during your "
-#| "upkeep."
 msgid ""
 "|tap|, Sacrifice a creature: Return target creature card from your graveyard "
 "to the battlefield. Activate only during your upkeep."
@@ -3679,10 +3674,6 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:1291
-#, fuzzy
-#| msgid ""
-#| "When Wood Elves enters the battlefield, search your library for a Forest "
-#| "card and put that card onto the battlefield. Then shuffle your library."
 msgid ""
 "When Wood Elves enters the battlefield, search your library for a Forest "
 "card, put that card onto the battlefield, then shuffle."
@@ -3849,10 +3840,6 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:1343
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Target player discards a card. Activate this ability "
-#| "only during your turn."
 msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate only during your "
 "turn."
@@ -3920,10 +3907,6 @@ msgid ""
 msgstr ""
 
 #: ../../9ED.rst:1363
-#, fuzzy
-#| msgid ""
-#| "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
-#| "combat. Activate this ability only during combat."
 msgid ""
 "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
 "combat. Activate only during combat."

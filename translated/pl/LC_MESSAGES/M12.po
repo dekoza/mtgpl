@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -1514,10 +1514,6 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:523
-#, fuzzy
-#| msgid ""
-#| "When Rune-Scarred Demon enters the battlefield, search your library for a "
-#| "card, put it into your hand, then shuffle your library."
 msgid ""
 "When Rune-Scarred Demon enters the battlefield, search your library for a "
 "card, put it into your hand, then shuffle."
@@ -2314,11 +2310,6 @@ msgid "Reach"
 msgstr "Zasięg"
 
 #: ../../M12.rst:797
-#, fuzzy
-#| msgid ""
-#| "Tap an untapped Spider you control: Search your graveyard and/or library "
-#| "for a card named Arachnus Web and put it onto the battlefield attached to "
-#| "target creature. If you search your library this way, shuffle it."
 msgid ""
 "Tap an untapped Spider you control: Search your graveyard and/or library for "
 "a card named Arachnus Web and put it onto the battlefield attached to target "
@@ -2327,7 +2318,7 @@ msgstr ""
 "Przekręć odkręconego Pająka pod twoim władaniem: Wyszukaj w twoim cmentarzu "
 "i/lub bibliotece kartę o nazwie Arachnus Web i umieść ją na polu bitwy "
 "dołączoną do wskazanego stwora. Jeśli przeszukasz twoją bibliotekę w ten "
-"sposób, przetasuj ją."
+"sposób, przetasuj."
 
 #: ../../M12.rst:806
 msgid ""
@@ -2433,11 +2424,6 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:837
-#, fuzzy
-#| msgid ""
-#| "For each creature you control, you may search your library for a creature "
-#| "card with the same name as that creature. Put those cards onto the "
-#| "battlefield, then shuffle your library."
 msgid ""
 "For each creature you control, you may search your library for a creature "
 "card with the same name as that creature. Put those cards onto the "
@@ -2659,11 +2645,6 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:927
-#, fuzzy
-#| msgid ""
-#| "Whenever Primeval Titan enters the battlefield or attacks, you may search "
-#| "your library for up to two land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Whenever Primeval Titan enters the battlefield or attacks, you may search "
 "your library for up to two land cards, put them onto the battlefield tapped, "
@@ -2767,8 +2748,6 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:961
-#, fuzzy
-#| msgid "|mana_g|: Choose one. Activate this ability only once each turn."
 msgid "|mana_g|: Choose one. Activate only once each turn."
 msgstr "|mana_g|: Wybierz jedno. Możesz aktywować tylko raz na turę."
 
@@ -3109,12 +3088,6 @@ msgid ""
 msgstr ""
 
 #: ../../M12.rst:1079
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|: End the turn. Activate this ability only during your "
-#| "turn. (Exile all spells and abilities from the stack. Discard down to "
-#| "your maximum hand size. Damage wears off, and \"this turn\" and \"until "
-#| "end of turn\" effects end.)"
 msgid ""
 "|mana_1|, |tap|: End the turn. Activate only during your turn. (Exile all "
 "spells and abilities from the stack. Discard down to your maximum hand size. "

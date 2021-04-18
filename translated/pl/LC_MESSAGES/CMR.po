@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:47+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -288,8 +288,6 @@ msgid "Destroy all creatures with mana value 3 or less."
 msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../CMR.rst:95
-#, fuzzy
-#| msgid "Destroy all creatures with converted mana cost 4 or greater."
 msgid "Destroy all creatures with mana value 4 or greater."
 msgstr "Zniszcz wszystkie stwory o skrótach many 4 lub większych."
 
@@ -576,18 +574,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:193
-#, fuzzy
-#| msgid ""
-#| "When Farhaven Elf enters the battlefield, you may search your library for "
-#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "When Kor Cartographer enters the battlefield, you may search your library "
 "for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj."
+"kartę Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasować."
 
 #: ../../CMR.rst:202
 msgid ""
@@ -1389,10 +1381,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:483
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. At the beginning of your next main phase, add an "
-#| "amount of |colorless| equal to that spell's converted mana cost."
 msgid ""
 "Counter target spell. At the beginning of your next main phase, add an "
 "amount of |colorless| equal to that spell's mana value."
@@ -3610,11 +3598,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1273
-#, fuzzy
-#| msgid ""
-#| "When Farhaven Elf enters the battlefield, you may search your library for "
-#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
@@ -6096,11 +6079,6 @@ msgstr ""
 "sławny, umieść na nim znacznik +1/+1 i staje się sławny.)"
 
 #: ../../CMR.rst:2169
-#, fuzzy
-#| msgid ""
-#| "When Relic Seeker becomes renowned, you may search your library for an "
-#| "Equipment card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Relic Seeker becomes renowned, you may search your library for an "
 "Equipment card, reveal it, put it into your hand, then shuffle."

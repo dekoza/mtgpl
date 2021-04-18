@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -93,8 +93,6 @@ msgid "Destroy all creatures with mana value 3 or less."
 msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../LRW.rst:31
-#, fuzzy
-#| msgid "Destroy all creatures with converted mana cost 4 or greater."
 msgid "Destroy all creatures with mana value 4 or greater."
 msgstr "Zniszcz wszystkie stwory o skrótach many 4 lub większych."
 
@@ -2125,10 +2123,6 @@ msgid "Target player loses X life."
 msgstr "Wskazany gracz traci X żyć."
 
 #: ../../LRW.rst:775
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost X or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value X or less from your graveyard to "
 "the battlefield."
@@ -2559,13 +2553,12 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:929
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|: Ghostly Changeling gets +1/+1 until end of turn."
 msgid ""
 "|mana_r|: Fire-Belly Changeling gets +1/+0 until end of turn. Activate no "
 "more than twice each turn."
-msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr ""
+"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować nie więcej "
+"niż dwa razy na turę."
 
 #: ../../LRW.rst:934
 msgid ""
@@ -3578,10 +3571,6 @@ msgid "Target player shuffles their graveyard into their library."
 msgstr "Wskazany gracz wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../LRW.rst:1291
-#, fuzzy
-#| msgid ""
-#| "Search your library for a creature card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a creature card, reveal it, put it into your hand, "
 "then shuffle."
@@ -3803,12 +3792,8 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1367
-#, fuzzy
-#| msgid ""
-#| "Noncreature spells with converted mana cost 4 or greater can't be cast."
 msgid "Noncreature spells with mana value 4 or greater can't be cast."
-msgstr ""
-"Nie można rzucać nie-stworowych czarów o skrótach many 4 lub większych."
+msgstr "Nie można rzucać nie-stworowych czarów o skrótach many 4 lub większych."
 
 #: ../../LRW.rst:1369
 msgid "Noncreature spells with |mana_x| in their mana costs can't be cast."
@@ -4052,16 +4037,12 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1459
-#, fuzzy
-#| msgid ""
-#| "Search your library for a creature card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "|mana_1|, Sacrifice Wanderer's Twig: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, umieść w twojej ręce, "
-"po czym przetasuj."
+"|mana_1|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę bazowego "
+"lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../LRW.rst:1466
 msgid ""

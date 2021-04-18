@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:47+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -2512,10 +2512,6 @@ msgid "Target player loses X life."
 msgstr "Wskazany gracz traci X żyć."
 
 #: ../../C20.rst:839
-#, fuzzy
-#| msgid ""
-#| "Return target creature card with converted mana cost X or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "Return target creature card with mana value X or less from your graveyard to "
 "the battlefield."
@@ -4132,18 +4128,13 @@ msgid "Create four 1/1 white Bird creature tokens with flying."
 msgstr "Stwórz cztery żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../C20.rst:1345
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your "
-#| "library for a basic land card, reveal it, put it into your hand, then "
-#| "shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
-"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
-"na polu bitwy, po czym przetasuj."
+"Recykling bazowolądowy |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w "
+"twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w twojej ręce, "
+"po czym przetasuj.)"
 
 #: ../../C20.rst:1354
 msgid ""

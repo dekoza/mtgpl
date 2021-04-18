@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -425,12 +425,8 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:135
-#, fuzzy
-#| msgid ""
-#| "Destroy target artifact. You gain life equal to its converted mana cost."
 msgid "Destroy target artifact. You gain life equal to its mana value."
-msgstr ""
-"Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
+msgstr "Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
 
 #: ../../5ED.rst:142
 msgid ""
@@ -1361,6 +1357,10 @@ msgid ""
 "two or more permanents a player controls are tied for highest, their "
 "controller chooses one of them."
 msgstr ""
+"Ty i wskazany gracz wymieniacie się władaniem nad stworem pod swoim "
+"władaniem mającym największy skrót many. Następnie wymieńcie się władaniem "
+"nad artefaktami w ten sposób. Jeśli co najmniej dwa permanenty mają równy "
+"najwyższy skrót, ich władca wybiera jeden z nich."
 
 #: ../../5ED.rst:486
 msgid ""
@@ -1577,6 +1577,8 @@ msgid ""
 "Look at the top three cards of target player's library, then put them back "
 "in any order. You may have that player shuffle."
 msgstr ""
+"Spójrz na trzy wierzchnie karty biblioteki wskazanego gracza, następnie "
+"odłóż je w dowolnej kolejności. Możesz sprawić, że ów gracz przetasuje."
 
 #: ../../5ED.rst:564
 msgid ""
@@ -2863,15 +2865,11 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1033
-#, fuzzy
-#| msgid ""
-#| "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate this "
-#| "ability no more than twice each turn."
 msgid ""
 "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than "
 "twice each turn."
 msgstr ""
-"|mana_b|: Ten stwór dostaje do końca tury +1/+0. Nie możesz aktywować więcej "
+"|mana_b|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować nie więcej "
 "niż dwa razy na turę."
 
 #: ../../5ED.rst:1040
@@ -4539,7 +4537,6 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1661
-#, fuzzy
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield, then shuffle."
@@ -4952,10 +4949,6 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1807
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Target player discards a card. Activate this ability "
-#| "only during your turn."
 msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate only during your "
 "turn."

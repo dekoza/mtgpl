@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -654,7 +654,7 @@ msgstr ""
 
 #: ../../FUT.rst:203
 msgid "Scry 4, then draw two cards."
-msgstr ""
+msgstr "Wróż 4, po czym dobierz dwie karty."
 
 #: ../../FUT.rst:210
 msgid ""
@@ -1347,12 +1347,6 @@ msgid ""
 msgstr ""
 
 #: ../../FUT.rst:441
-#, fuzzy
-#| msgid ""
-#| "Whenever Shimian Specter deals combat damage to a player, that player "
-#| "reveals their hand. You choose a nonland card from it. Search that "
-#| "player's graveyard, hand, and library for all cards with the same name as "
-#| "that card and exile them. Then that player shuffles their library."
 msgid ""
 "Whenever Shimian Specter deals combat damage to a player, that player "
 "reveals their hand. You choose a nonland card from it. Search that player's "
@@ -1362,7 +1356,7 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz ujawnia swoją "
 "rękę. Wybierz z niej nielądową kartę. Wyszukaj w cmentarzu, ręce i "
 "bibliotece owego gracza wszystkie karty o tej samej nazwie i wygnaj je. "
-"Następnie ów gracz tasuje swoją bibliotekę."
+"Następnie ów gracz tasuje."
 
 #: ../../FUT.rst:446
 msgid ""

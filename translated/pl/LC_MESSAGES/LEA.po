@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lea/pl/>\n"
 "Language: pl\n"
@@ -2917,6 +2917,8 @@ msgid ""
 "Look at the top three cards of target player's library, then put them back "
 "in any order. You may have that player shuffle."
 msgstr ""
+"Spójrz na trzy wierzchnie karty biblioteki wskazanego gracza, następnie "
+"odłóż je w dowolnej kolejności. Możesz sprawić, że ów gracz przetasuje."
 
 #: ../../LEA.rst:1068
 msgid ""
@@ -3303,10 +3305,6 @@ msgid ""
 msgstr ""
 
 #: ../../LEA.rst:1203
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Target player discards a card. Activate this ability "
-#| "only during your turn."
 msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate only during your "
 "turn."
@@ -3467,10 +3465,6 @@ msgid ""
 msgstr ""
 
 #: ../../LEA.rst:1249
-#, fuzzy
-#| msgid ""
-#| "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
-#| "combat. Activate this ability only during combat."
 msgid ""
 "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
 "combat. Activate only during combat."

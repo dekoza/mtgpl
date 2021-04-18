@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m11/pl/>\n"
 "Language: pl\n"
@@ -452,11 +452,6 @@ msgid ""
 msgstr ""
 
 #: ../../M11.rst:165
-#, fuzzy
-#| msgid ""
-#| "When Squadron Hawk enters the battlefield, you may search your library "
-#| "for up to three cards named Squadron Hawk, reveal them, put them into "
-#| "your hand, then shuffle your library."
 msgid ""
 "When Squadron Hawk enters the battlefield, you may search your library for "
 "up to three cards named Squadron Hawk, reveal them, put them into your hand, "
@@ -728,7 +723,7 @@ msgstr ""
 
 #: ../../M11.rst:263
 msgid "Scry 4, then draw two cards."
-msgstr ""
+msgstr "Wróż 4, po czym dobierz dwie karty."
 
 #: ../../M11.rst:270
 msgid ""
@@ -1239,11 +1234,6 @@ msgid ""
 msgstr ""
 
 #: ../../M11.rst:439
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, reveal the top card of your library and "
-#| "put that card into your hand. You lose life equal to its converted mana "
-#| "cost."
 msgid ""
 "At the beginning of your upkeep, reveal the top card of your library and put "
 "that card into your hand. You lose life equal to its mana value."
@@ -1375,12 +1365,6 @@ msgid ""
 msgstr ""
 
 #: ../../M11.rst:479
-#, fuzzy
-#| msgid ""
-#| "Exile all cards from target player's graveyard other than basic land "
-#| "cards. For each card exiled this way, search that player's library for "
-#| "all cards with the same name as that card and exile them. Then that "
-#| "player shuffles their library."
 msgid ""
 "Exile all cards from target player's graveyard other than basic land cards. "
 "For each card exiled this way, search that player's library for all cards "
@@ -1389,7 +1373,7 @@ msgstr ""
 "Wygnaj wszystkie karty z wyjątkiem bazowych lądów z cmentarza wskazanego "
 "gracza. Dla każdej karty wygnanej w ten sposób, wyszukaj w bibliotece owego "
 "gracza wszystkich kart o tej samej nazwie i wygnaj je. Następnie ów gracz "
-"tasuje swoją bibliotekę."
+"tasuje."
 
 #: ../../M11.rst:486
 msgid ""
@@ -1721,11 +1705,6 @@ msgid ""
 msgstr ""
 
 #: ../../M11.rst:599
-#, fuzzy
-#| msgid ""
-#| "|mana_r|: Ancient Hellkite deals 1 damage to target creature defending "
-#| "player controls. Activate this ability only if Ancient Hellkite is "
-#| "attacking."
 msgid ""
 "|mana_r|: Ancient Hellkite deals 1 damage to target creature defending "
 "player controls. Activate only if Ancient Hellkite is attacking."
@@ -2455,11 +2434,6 @@ msgid ""
 msgstr ""
 
 #: ../../M11.rst:843
-#, fuzzy
-#| msgid ""
-#| "|mana_g|, |tap|, Discard a creature card: Search your library for a "
-#| "creature card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "|mana_g|, |tap|, Discard a creature card: Search your library for a creature "
 "card, reveal it, put it into your hand, then shuffle."
@@ -2742,11 +2716,6 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../M11.rst:943
-#, fuzzy
-#| msgid ""
-#| "Whenever Primeval Titan enters the battlefield or attacks, you may search "
-#| "your library for up to two land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Whenever Primeval Titan enters the battlefield or attacks, you may search "
 "your library for up to two land cards, put them onto the battlefield tapped, "

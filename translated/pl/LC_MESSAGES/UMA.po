@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:46+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -2823,11 +2823,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:901
-#, fuzzy
-#| msgid ""
-#| "|mana_g|, |tap|, Discard a creature card: Search your library for a "
-#| "creature card, reveal it, put it into your hand, then shuffle your "
-#| "library."
 msgid ""
 "|mana_g|, |tap|, Discard a creature card: Search your library for a creature "
 "card, reveal it, put it into your hand, then shuffle."
@@ -3396,12 +3391,8 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1089
-#, fuzzy
-#| msgid ""
-#| "Noncreature spells with converted mana cost 4 or greater can't be cast."
 msgid "Noncreature spells with mana value 4 or greater can't be cast."
-msgstr ""
-"Nie można rzucać nie-stworowych czarów o skrótach many 4 lub większych."
+msgstr "Nie można rzucać nie-stworowych czarów o skrótach many 4 lub większych."
 
 #: ../../UMA.rst:1091
 msgid "Noncreature spells with |mana_x| in their mana costs can't be cast."

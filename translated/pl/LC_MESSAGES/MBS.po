@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-18 22:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -86,12 +86,8 @@ msgid ""
 msgstr ""
 
 #: ../../MBS.rst:25
-#, fuzzy
-#| msgid ""
-#| "Destroy target artifact. You gain life equal to its converted mana cost."
 msgid "Destroy target artifact. You gain life equal to its mana value."
-msgstr ""
-"Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
+msgstr "Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
 
 #: ../../MBS.rst:32
 msgid ""
