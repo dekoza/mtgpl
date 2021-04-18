@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-13 15:35+0000\n"
+"PO-Revision-Date: 2021-04-18 22:13+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gpt/pl/>\n"
 "Language: pl\n"
@@ -507,10 +507,6 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:185
-#, fuzzy
-#| msgid ""
-#| "Return target nonland permanent with converted mana cost X to its owner's "
-#| "hand."
 msgid "Return target nonland permanent with mana value X to its owner's hand."
 msgstr ""
 "Przywróć wskazany nielądowy permanent o skrócie many X do ręki właściciela."
@@ -1010,12 +1006,12 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../GPT.rst:375
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
 msgid ""
 "|mana_3|\\ |mana_g|: Ghor-Clan Bloodscale gets +2/+2 until end of turn. "
 "Activate only once each turn."
-msgstr "|mana_3|\\ |mana_g|: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr ""
+"|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tylko raz na turę."
 
 #: ../../GPT.rst:384
 msgid ""
@@ -1188,11 +1184,6 @@ msgstr ""
 "wchodzi na pole bitwy mając trzy znaczniki +1/+1.)"
 
 #: ../../GPT.rst:437
-#, fuzzy
-#| msgid ""
-#| "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your "
-#| "graveyard to your hand. Activate this ability only if an opponent was "
-#| "dealt damage this turn."
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Return Skarrgan Firebird from your graveyard "
 "to your hand. Activate only if an opponent was dealt damage this turn."
@@ -2228,32 +2219,20 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:817
-#, fuzzy
-#| msgid ""
-#| "Replicate |mana_2|\\ |mana_u| (When you cast this spell, copy it for each "
-#| "time you paid its replicate cost. You may choose new targets for the "
-#| "copies.)"
 msgid ""
 "|mana_2|\\ |mana_u|: Copy target instant spell you control with mana value 2 "
 "or less. You may choose new targets for the copy."
 msgstr ""
-"Replikacja |mana_2|\\ |mana_u| (Kiedy rzucisz ten czar, skopiuj go tyle "
-"razy, ile razy opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla "
-"kopii.)"
+"|mana_2|\\ |mana_u|: Skopiuj wskazany czar sztuczki pod twoim władaniem o "
+"skrócie many 2 lub mniejszym. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GPT.rst:819
-#, fuzzy
-#| msgid ""
-#| "Replicate |mana_2|\\ |mana_u| (When you cast this spell, copy it for each "
-#| "time you paid its replicate cost. You may choose new targets for the "
-#| "copies.)"
 msgid ""
 "|mana_2|\\ |mana_r|: Copy target sorcery spell you control with mana value 2 "
 "or less. You may choose new targets for the copy."
 msgstr ""
-"Replikacja |mana_2|\\ |mana_u| (Kiedy rzucisz ten czar, skopiuj go tyle "
-"razy, ile razy opłaciłeś jego koszt replikacji. Możesz wskazać nowe cele dla "
-"kopii.)"
+"|mana_2|\\ |mana_r|: Skopiuj wskazany czar obrzędu pod twoim władaniem o "
+"skrócie many 2 lub mniejszym. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GPT.rst:828
 msgid ""
