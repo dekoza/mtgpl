@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-19 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -990,11 +990,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:311
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|, |tap|, Discard a card, Sacrifice a land: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield, "
-#| "then shuffle your library."
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|, Discard a card, Sacrifice a land: Search your "
 "library for up to two basic land cards, put them onto the battlefield, then "
@@ -4103,11 +4098,6 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
 #: ../../UMA.rst:1345
-#, fuzzy
-#| msgid ""
-#| "When Flagstones of Trokair is put into a graveyard from the battlefield, "
-#| "you may search your library for a Plains card, put it onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "When Flagstones of Trokair is put into a graveyard from the battlefield, you "
 "may search your library for a Plains card, put it onto the battlefield "

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-19 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -1676,11 +1676,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:691
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, you may reveal the top card of your "
-#| "library. If you do, each opponent loses life equal to that card's "
-#| "converted mana cost."
 msgid ""
 "At the beginning of your end step, you may reveal the top card of your "
 "library. If you do, each opponent loses life equal to that card's mana value."
@@ -1734,15 +1729,10 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:709
-#, fuzzy
-#| msgid ""
-#| "Destroy each creature with converted mana cost 3 or less. They can't be "
-#| "regenerated."
 msgid ""
 "Destroy each creature with mana value 3 or less. They can't be regenerated."
 msgstr ""
-"Zniszcz każdego stwora o skrócie many 3 lub mniej. Nie mogą być "
-"zregenerowane."
+"Zniszcz każdego stwora o skrócie many 3 lub mniejszym. Nie mogą zregenerować."
 
 #: ../../ROE.rst:716
 msgid ""
@@ -1971,10 +1961,6 @@ msgstr ""
 "Jako dodatkowy koszt rzucenia tego czaru, ujawnij kartę stwora z twojej ręki."
 
 #: ../../ROE.rst:797
-#, fuzzy
-#| msgid ""
-#| "Target creature gets -X/-X until end of turn, where X is the revealed "
-#| "card's converted mana cost."
 msgid ""
 "Target creature gets -X/-X until end of turn, where X is the revealed card's "
 "mana value."
@@ -1990,10 +1976,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:801
-#, fuzzy
-#| msgid ""
-#| "Target player reveals their hand. You choose a nonland card from it with "
-#| "converted mana cost 3 or less. That player discards that card."
 msgid ""
 "Target player reveals their hand. You choose a nonland card from it with "
 "mana value 3 or less. That player discards that card."
@@ -2427,13 +2409,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:977
-#, fuzzy
-#| msgid ""
-#| "Choose any target. Reveal cards from the top of your library until you "
-#| "reveal a nonland card. Explosive Revelation deals damage equal to that "
-#| "card's converted mana cost to that permanent or player. Put the nonland "
-#| "card into your hand and the rest on the bottom of your library in any "
-#| "order."
 msgid ""
 "Choose any target. Reveal cards from the top of your library until you "
 "reveal a nonland card. Explosive Revelation deals damage equal to that "
@@ -3072,11 +3047,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1221
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library. Create a 0/1 colorless Eldrazi Spawn "
-#| "creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle. Create a 0/1 colorless Eldrazi Spawn creature token. "
@@ -3228,8 +3198,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1289
-#, fuzzy
-#| msgid "You gain life equal to the revealed card's converted mana cost."
 msgid "You gain life equal to the revealed card's mana value."
 msgstr "Zyskaj życia równe skrótowi many ujawnionej karty."
 
@@ -3334,11 +3302,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1323
-#, fuzzy
-#| msgid ""
-#| "When Ondu Giant enters the battlefield, you may search your library for a "
-#| "basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "When Ondu Giant enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
@@ -3392,12 +3355,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1347
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to four land cards with different names and "
-#| "reveal them. An opponent chooses two of those cards. Put the chosen cards "
-#| "into your graveyard and the rest into your hand. Then shuffle your "
-#| "library."
 msgid ""
 "Search your library for up to four land cards with different names and "
 "reveal them. An opponent chooses two of those cards. Put the chosen cards "
@@ -3505,10 +3462,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1389
-#, fuzzy
-#| msgid ""
-#| "0: Reveal the top card of your library and put it into your hand. Sarkhan "
-#| "the Mad deals damage to himself equal to that card's converted mana cost."
 msgid ""
 "0: Reveal the top card of your library and put it into your hand. Sarkhan "
 "the Mad deals damage to himself equal to that card's mana value."
@@ -3589,8 +3542,6 @@ msgid ""
 msgstr ""
 
 #: ../../ROE.rst:1413
-#, fuzzy
-#| msgid "Equipped creature gets +X/+X, where X is its converted mana cost."
 msgid "Equipped creature gets +X/+X, where X is its mana value."
 msgstr "Wyposażony stwór dostaje +X/+X, gdzie X jest jego skrótem many."
 

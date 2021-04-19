@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-19 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1403,7 +1403,7 @@ msgstr ""
 
 #: ../../C16.rst:493
 msgid "Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0."
-msgstr ""
+msgstr "Zawieszenie X—|mana_x|\\ |mana_3|\\ |mana_u|. X nie może być 0."
 
 #: ../../C16.rst:495
 msgid ""
@@ -1713,19 +1713,14 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:593
-#, fuzzy
-#| msgid ""
-#| "When Trinket Mage enters the battlefield, you may search your library for "
-#| "an artifact card with converted mana cost 1 or less, reveal that card, "
-#| "and put it into your hand. If you do, shuffle your library."
 msgid ""
 "When Trinket Mage enters the battlefield, you may search your library for an "
 "artifact card with mana value 1 or less, reveal that card, put it into your "
 "hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją i umieść w twojej "
-"ręce. Jeśli tak zrobisz, przetasuj."
+"kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../C16.rst:598
 msgid ""

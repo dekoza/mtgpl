@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-19 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -3194,12 +3194,6 @@ msgid "Daxos of Meletis can't be blocked by creatures with power 3 or greater."
 msgstr "Ten stwór nie może być blokowany przez stwory o sile 3 lub większej."
 
 #: ../../C18.rst:1039
-#, fuzzy
-#| msgid ""
-#| "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
-#| "card of that player's library. You gain life equal to that card's "
-#| "converted mana cost. Until end of turn, you may cast that card and you "
-#| "may spend mana as though it were mana of any color to cast that spell."
 msgid ""
 "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
 "card of that player's library. You gain life equal to that card's mana "
@@ -5120,11 +5114,6 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1775
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a "
-#| "basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle."

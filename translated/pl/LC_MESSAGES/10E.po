@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-19 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
 "Language: pl\n"
@@ -1199,11 +1199,6 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:425
-#, fuzzy
-#| msgid ""
-#| "Each noncreature artifact is an artifact creature with power and "
-#| "toughness each equal to its converted mana cost. (Equipment that's a "
-#| "creature can't equip a creature.)"
 msgid ""
 "Each noncreature artifact is an artifact creature with power and toughness "
 "each equal to its mana value. (Equipment that's a creature can't equip a "
@@ -1956,11 +1951,6 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:685
-#, fuzzy
-#| msgid ""
-#| "Target opponent puts the cards from their hand on top of their library. "
-#| "Search that player's library for that many cards. The player puts those "
-#| "cards into their hand, then shuffles their library."
 msgid ""
 "Target opponent puts the cards from their hand on top of their library. "
 "Search that player's library for that many cards. The player puts those "
@@ -2450,11 +2440,6 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:849
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's "
-#| "hand and choose a card from it. That player discards that card. Activate "
-#| "this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Thrull Surgeon: Look at target player's hand "
 "and choose a card from it. That player discards that card. Activate only as "
@@ -3641,20 +3626,14 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1261
-#, fuzzy
-#| msgid ""
-#| "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |"
-#| "mana_g|. If you do, search your library for a card named Llanowar "
-#| "Sentinel and put that card onto the battlefield. Then shuffle your "
-#| "library."
 msgid ""
 "When Llanowar Sentinel enters the battlefield, you may pay |mana_1|\\ |"
 "mana_g|. If you do, search your library for a card named Llanowar Sentinel, "
 "put that card onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
-"Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie i "
-"umieść ją na polu bitwy. Następnie przetasuj."
+"Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../10E.rst:1268
 msgid ""
@@ -3964,10 +3943,6 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1359
-#, fuzzy
-#| msgid ""
-#| "|tap|: You may put a land card from your hand onto the battlefield. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|tap|: You may put a land card from your hand onto the battlefield. Activate "
 "only as a sorcery."
@@ -4196,17 +4171,12 @@ msgid ""
 msgstr ""
 
 #: ../../10E.rst:1441
-#, fuzzy
-#| msgid ""
-#| "|mana_x|, |tap|: Search your library for a creature card with converted "
-#| "mana cost X or less, reveal it, and put it into your hand. Then shuffle "
-#| "your library."
 msgid ""
 "|mana_x|, |tap|: Search your library for a creature card with mana value X "
 "or less, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_x|, |tap|: Wyszukaj w twojej bibliotece kartę stwora o skrócie many X "
-"lub mniejszym, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
+"lub mniejszym, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../10E.rst:1446
 msgid ""
@@ -4238,10 +4208,6 @@ msgid "Colossus of Sardia doesn't untap during your untap step."
 msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../10E.rst:1453
-#, fuzzy
-#| msgid ""
-#| "|mana_9|: Untap Colossus of Sardia. Activate this ability only during "
-#| "your upkeep."
 msgid "|mana_9|: Untap Colossus of Sardia. Activate only during your upkeep."
 msgstr ""
 "|mana_9|: Odkręć tego stwora. Możesz aktywować tylko w twoim kroku "
