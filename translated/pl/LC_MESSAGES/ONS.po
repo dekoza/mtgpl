@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-19 21:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -897,19 +897,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:331
-#, fuzzy
-#| msgid ""
-#| "|mana_w|, |tap|: Search your library for a land card, reveal it, and put "
-#| "it into your hand. Then shuffle your library. Activate this ability only "
-#| "if an opponent controls more lands than you."
 msgid ""
 "|mana_w|, |tap|: Search your library for a land card, reveal it, put it into "
 "your hand, then shuffle. Activate only if an opponent controls more lands "
 "than you."
 msgstr ""
-"|mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i "
-"umieść w twojej ręce, po czym przetasuj. Możesz aktywować tylko jeśli "
-"przeciwnik ma we władaniu więcej lądów niż ty."
+"|mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją, umieść "
+"ją w twojej ręce, po czym przetasuj. Możesz aktywować tylko jeśli przeciwnik "
+"ma we władaniu więcej lądów niż ty."
 
 #: ../../ONS.rst:338
 msgid ""
@@ -4448,18 +4443,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1579
-#, fuzzy
-#| msgid ""
-#| "Each player may search their library for up to X creature cards, reveal "
-#| "those cards, and put them into their hand. Then each player who searched "
-#| "their library this way shuffles it."
 msgid ""
 "Each player may search their library for up to X creature cards, reveal "
 "those cards, put them into their hand, then shuffle."
 msgstr ""
-"Każdy gracz może wyszukać w swojej bibliotece do X kart stworów, ujawnić je "
-"i umieścić je w swojej ręce. Następnie każdy gracz, który przeszukał swoją "
-"bibliotekę, tasuje."
+"Każdy gracz może wyszukać w swojej bibliotece do X kart stworów, ujawnić je, "
+"umieścić je w swojej ręce, po czym przetasować."
 
 #: ../../ONS.rst:1584
 msgid ""

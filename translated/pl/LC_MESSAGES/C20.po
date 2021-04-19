@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-19 21:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -3838,10 +3838,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1257
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature. Search your library for a basic land card, put "
-#| "it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Destroy target creature. Search your library for a basic land card, put it "
 "onto the battlefield tapped, then shuffle."
@@ -3857,8 +3853,6 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1261
-#, fuzzy
-#| msgid "Exile target permanent with converted mana cost 4 or greater."
 msgid "Exile target permanent with mana value 4 or greater."
 msgstr "Wygnaj wskazany permanent o skrócie many 4 lub większym."
 
