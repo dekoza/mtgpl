@@ -175,7 +175,8 @@
 
 .. |UDS_percent| image:: images/pie30.png        
 
-.. |9ED_percent| image:: images/pie95.png        
+.. |9ED_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |ROE_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -304,7 +305,8 @@
 
 .. |C13_percent| image:: images/pie60.png        
 
-.. |WAR_percent| image:: images/pie95.png        
+.. |WAR_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |RAV_percent| image:: images/pie50.png        
 
