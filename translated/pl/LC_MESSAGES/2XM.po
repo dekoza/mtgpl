@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-04-19 08:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -588,17 +588,12 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../2XM.rst:183
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card and "
-#| "put it onto the battlefield. Attach it to a creature you control. Then "
-#| "shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_w|, |tap|: Search your library for an Equipment card, put "
 "it onto the battlefield, attach it to a creature you control, then shuffle."
 msgstr ""
-"|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia i "
-"umieść ją na polu bitwy. Dołącz ją do stwora pod twoim władaniem. Następnie "
+"|mana_1|\\ |mana_w|, |tap|: Wyszukaj w twojej bibliotece kartę Wyposażenia, "
+"umieść ją na polu bitwy, dołącz ją do stwora pod twoim władaniem, po czym "
 "przetasuj."
 
 #: ../../2XM.rst:188
@@ -719,11 +714,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:225
-#, fuzzy
-#| msgid ""
-#| "|tap|: Target artifact creature's controller sacrifices it. That player "
-#| "may search their library for a noncreature artifact card, put it onto the "
-#| "battlefield, then shuffle their library."
 msgid ""
 "|tap|: Target artifact creature's controller sacrifices it. That player may "
 "search their library for a noncreature artifact card, put it onto the "
@@ -731,7 +721,7 @@ msgid ""
 msgstr ""
 "|tap|: Władca wskazanego artefaktu poświęca go. Ów gracz może wyszukać w "
 "swojej bibliotece kartę nie-stworowego artefaktu, umieścić ją na polu bitwy, "
-"po czym tasuje swoją bibliotekę."
+"po czym tasuje."
 
 #: ../../2XM.rst:230
 msgid ""
@@ -1178,10 +1168,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:361
-#, fuzzy
-#| msgid ""
-#| "Draw cards equal to the highest converted mana cost among permanents you "
-#| "control."
 msgid ""
 "Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
@@ -1282,11 +1268,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:395
-#, fuzzy
-#| msgid ""
-#| "When Treasure Mage enters the battlefield, you may search your library "
-#| "for an artifact card with converted mana cost 6 or greater, reveal it, "
-#| "put it into your hand, then shuffle your library."
 msgid ""
 "When Treasure Mage enters the battlefield, you may search your library for "
 "an artifact card with mana value 6 or greater, reveal it, put it into your "
@@ -1342,11 +1323,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:411
-#, fuzzy
-#| msgid ""
-#| "Reveal the top card of your library and put that card into your hand. You "
-#| "lose life equal to its converted mana cost. You may repeat this process "
-#| "any number of times."
 msgid ""
 "Reveal the top card of your library and put that card into your hand. You "
 "lose life equal to its mana value. You may repeat this process any number of "
@@ -1935,11 +1911,6 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../2XM.rst:583
-#, fuzzy
-#| msgid ""
-#| "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Swamp card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle.)"
@@ -2205,17 +2176,12 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:673
-#, fuzzy
-#| msgid ""
-#| "When Godo, Bandit Warlord enters the battlefield, you may search your "
-#| "library for an Equipment card and put it onto the battlefield. If you do, "
-#| "shuffle your library."
 msgid ""
 "When Godo, Bandit Warlord enters the battlefield, you may search your "
 "library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj."
+"kartę Wyposażenia, umieścić ją na polu bitwy, po czym przetasuj."
 
 #: ../../2XM.rst:675
 msgid ""
@@ -2264,11 +2230,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:687
-#, fuzzy
-#| msgid ""
-#| "When Imperial Recruiter enters the battlefield, search your library for a "
-#| "creature card with power 2 or less, reveal it, put it into your hand, "
-#| "then shuffle your library."
 msgid ""
 "When Imperial Recruiter enters the battlefield, search your library for a "
 "creature card with power 2 or less, reveal it, put it into your hand, then "
@@ -2301,10 +2262,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:695
-#, fuzzy
-#| msgid ""
-#| "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. "
-#| "Activate this ability only any time you could cast a sorcery."
 msgid ""
 "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector. "
 "Activate only as a sorcery."
@@ -2597,20 +2554,14 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:783
-#, fuzzy
-#| msgid ""
-#| "When Faerie Mechanist enters the battlefield, look at the top three cards "
-#| "of your library. You may reveal an artifact card from among them and put "
-#| "it into your hand. Put the rest on the bottom of your library in any "
-#| "order."
 msgid ""
 "Look at the top five cards of your library. You may reveal a colorless card "
 "from among them and put it into your hand. Then put the rest on the bottom "
 "of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
-"w twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich bezkolorową kartę i umieścić ją w twojej ręce. Następnie umieść "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../2XM.rst:790
 msgid ""
@@ -2867,11 +2818,6 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../2XM.rst:861
-#, fuzzy
-#| msgid ""
-#| "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Forest card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Forest card, reveal it, put it into your hand, then shuffle.)"
@@ -3868,18 +3814,13 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1175
-#, fuzzy
-#| msgid ""
-#| "When Sphinx Summoner enters the battlefield, you may search your library "
-#| "for an artifact creature card, reveal it, and put it into your hand. If "
-#| "you do, shuffle your library."
 msgid ""
 "When Sphinx Summoner enters the battlefield, you may search your library for "
 "an artifact creature card, reveal it, put it into your hand. then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę artefaktu lub stwora, ujawnij ją i umieść w twojej ręce. Jeśli tak "
-"zrobisz, przetasuj."
+"kartę artefaktu lub stwora, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../2XM.rst:1180
 msgid ""
@@ -4397,10 +4338,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1349
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|: Draw a card. Activate this ability only if you control "
-#| "three or more lands with the same name."
 msgid ""
 "|mana_2|, |tap|: Draw a card. Activate only if you control three or more "
 "lands with the same name."
@@ -4424,11 +4361,6 @@ msgstr ""
 "ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../2XM.rst:1355
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
-#| "with converted mana cost equal to the number of charge counters on "
-#| "Engineered Explosives."
 msgid ""
 "|mana_2|, Sacrifice Engineered Explosives: Destroy each nonland permanent "
 "with mana value equal to the number of charge counters on Engineered "
@@ -4459,10 +4391,8 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1363
-#, fuzzy
-#| msgid "Equip |mana_2|"
 msgid "Multikicker |mana_2|"
-msgstr "Wyposaż |mana_2|"
+msgstr "Wielopodbicie |mana_2|"
 
 #: ../../2XM.rst:1365
 msgid ""
@@ -4484,16 +4414,12 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1371
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land "
-#| "card, reveal it, and put it into your hand. Then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land "
 "card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
+"lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../2XM.rst:1380
 msgid ""
@@ -4638,10 +4564,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1425
-#, fuzzy
-#| msgid ""
-#| "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
-#| "instant card with converted mana cost 2 or less from your hand."
 msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
 "instant card with mana value 2 or less from your hand."
@@ -4680,16 +4602,12 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1437
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice three artifacts: Search your library for an artifact "
-#| "card and put it onto the battlefield. Then shuffle your library."
 msgid ""
 "|tap|, Sacrifice three artifacts: Search your library for an artifact card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
-"i umieść ją na polu bitwy. Następnie przetasuj."
+"|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../2XM.rst:1444
 msgid ""
@@ -4844,10 +4762,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1483
-#, fuzzy
-#| msgid ""
-#| "Metalcraft — |tap|: Add one mana of any color. Activate this ability only "
-#| "if you control three or more artifacts."
 msgid ""
 "Metalcraft — |tap|: Add one mana of any color. Activate only if you control "
 "three or more artifacts."
@@ -5143,11 +5057,6 @@ msgid "Equipped creature gets +4/+0."
 msgstr "Wyposażony stwór dostaje +4/+0."
 
 #: ../../2XM.rst:1587
-#, fuzzy
-#| msgid ""
-#| "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or "
-#| "white instant card with converted mana cost 4 or less and cast that card "
-#| "without paying its mana cost. Then shuffle your library."
 msgid ""
 "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or "
 "white instant card with mana value 4 or less and cast that card without "
@@ -5484,11 +5393,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1697
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your "
-#| "library for a basic land card, reveal it, put it into your hand, then "
-#| "shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"

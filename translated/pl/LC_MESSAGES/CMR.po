@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-04-19 08:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -2557,16 +2557,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:889
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card, then shuffle your library and put that "
-#| "card on top of it. You lose 2 life."
 msgid ""
 "Search your library for a card, then shuffle and put that card on top. You "
 "lose 2 life."
 msgstr ""
-"Wyszukaj kartę w twojej bibliotece, po czym przetasuj twoją bibliotekę i "
-"umieść ową kartę na jej wierzchu. Strać 2 życia."
+"Wyszukaj kartę w twojej bibliotece, po czym przetasuj i umieść ową kartę na "
+"wierzchu. Strać 2 życia."
 
 #: ../../CMR.rst:894
 msgid ""
@@ -7532,11 +7528,6 @@ msgid "Equipped creature gets +4/+0."
 msgstr "Wyposażony stwór dostaje +4/+0."
 
 #: ../../CMR.rst:2663
-#, fuzzy
-#| msgid ""
-#| "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or "
-#| "white instant card with converted mana cost 4 or less and cast that card "
-#| "without paying its mana cost. Then shuffle your library."
 msgid ""
 "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or "
 "white instant card with mana value 4 or less and cast that card without "

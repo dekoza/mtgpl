@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-04-19 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -391,11 +391,6 @@ msgid "Enchant nonland permanent"
 msgstr "Zaurocz nie-lądowy permanent"
 
 #: ../../RTR.rst:119
-#, fuzzy
-#| msgid ""
-#| "At the beginning of the upkeep of enchanted permanent's controller, that "
-#| "player sacrifices it unless they pay |mana_x|, where X is its converted "
-#| "mana cost."
 msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
 "player sacrifices it unless they pay |mana_x|, where X is its mana value."
@@ -411,17 +406,12 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:123
-#, fuzzy
-#| msgid ""
-#| "Creatures can't attack you or a planeswalker you control unless their "
-#| "controller pays |mana_x| for each of those creatures, where X is the "
-#| "number of enchantments you control."
 msgid ""
 "Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_x| for each of those creatures, where X is the number "
 "of enchantments you control."
 msgstr ""
-"Stwory nie mogą atakować ciebie ani wędrowca pod twoim władaniem dopóki ich "
+"Stwory nie mogą atakować ciebie ani wędrowców pod twoim władaniem dopóki ich "
 "władca nie zapłaci |mana_x| za każdego z owych stworów, gdzie X to liczba "
 "uroków pod twoim władaniem."
 
@@ -742,19 +732,14 @@ msgstr ""
 "biblioteki w dowolnej kolejności."
 
 #: ../../RTR.rst:223
-#, fuzzy
-#| msgid ""
-#| "−8: For each player, search that player's library for a nonland card and "
-#| "exile it, then that player shuffles their library. You may cast those "
-#| "cards without paying their mana costs."
 msgid ""
 "−8: For each player, search that player's library for a nonland card and "
 "exile it, then that player shuffles. You may cast those cards without paying "
 "their mana costs."
 msgstr ""
 "–8: Dla każdego gracza, wyszukaj w bibliotece owego gracza nie-lądową kartę "
-"i wygnaj ją, po czym ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
-"karty bez płacenia ich kosztów many."
+"i wygnaj ją, po czym ów gracz tasuje. Możesz rzucić owe karty bez płacenia "
+"ich kosztów many."
 
 #: ../../RTR.rst:230
 msgid ""
@@ -1894,11 +1879,6 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:625
-#, fuzzy
-#| msgid ""
-#| "When Gatecreeper Vine enters the battlefield, you may search your library "
-#| "for a basic land card or a Gate card, reveal it, put it into your hand, "
-#| "then shuffle your library."
 msgid ""
 "When Gatecreeper Vine enters the battlefield, you may search your library "
 "for a basic land card or a Gate card, reveal it, put it into your hand, then "
@@ -1996,10 +1976,6 @@ msgid "Mana Bloom enters the battlefield with X charge counters on it."
 msgstr "Mana Bloom wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../RTR.rst:655
-#, fuzzy
-#| msgid ""
-#| "Remove a charge counter from Mana Bloom: Add one mana of any color. "
-#| "Activate this ability only once each turn."
 msgid ""
 "Remove a charge counter from Mana Bloom: Add one mana of any color. Activate "
 "only once each turn."
@@ -2487,12 +2463,6 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:817
-#, fuzzy
-#| msgid ""
-#| "Search your library for an instant card with converted mana cost 3, "
-#| "reveal it, and put it into your hand. Then repeat this process for "
-#| "instant cards with converted mana costs 2 and 1. Then shuffle your "
-#| "library."
 msgid ""
 "Search your library for an instant card with mana value 3, reveal it, and "
 "put it into your hand. Then repeat this process for instant cards with mana "
@@ -2705,11 +2675,6 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:899
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two creature cards and reveal them. Put one "
-#| "into your hand and the other into your graveyard. Then shuffle your "
-#| "library."
 msgid ""
 "Search your library for up to two creature cards and reveal them. Put one "
 "into your hand and the other into your graveyard. Then shuffle."
@@ -2804,10 +2769,6 @@ msgid "|mana_u|, |tap|: Draw two cards."
 msgstr "|mana_u|, |tap|: Dobierz dwie karty."
 
 #: ../../RTR.rst:931
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to "
-#| "target creature equal to the discarded card's converted mana cost."
 msgid ""
 "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target "
 "creature equal to the discarded card's mana value."
@@ -3095,11 +3056,6 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:1037
-#, fuzzy
-#| msgid ""
-#| "Choose a nonland card name. Search target opponent's graveyard, hand, and "
-#| "library for any number of cards with that name and exile them. Then that "
-#| "player shuffles their library."
 msgid ""
 "Choose a nonland card name. Search target opponent's graveyard, hand, and "
 "library for any number of cards with that name and exile them. Then that "
@@ -3107,7 +3063,7 @@ msgid ""
 msgstr ""
 "Nazwij nie-lądową kartę. Wyszukaj w cmentarzu, ręce i bibliotece wskazanego "
 "przeciwnika dowolną liczbę kart o tej nazwie i wygnaj je. Następnie ów gracz "
-"tasuje swoją bibliotekę."
+"tasuje."
 
 #: ../../RTR.rst:1044
 msgid ""

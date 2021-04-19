@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:36+0000\n"
+"PO-Revision-Date: 2021-04-19 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scg/pl/>\n"
 "Language: pl\n"
@@ -867,10 +867,6 @@ msgid ""
 msgstr ""
 
 #: ../../SCG.rst:297
-#, fuzzy
-#| msgid ""
-#| "Draw cards equal to the highest converted mana cost among permanents you "
-#| "control."
 msgid ""
 "Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
@@ -900,11 +896,6 @@ msgid ""
 msgstr ""
 
 #: ../../SCG.rst:307
-#, fuzzy
-#| msgid ""
-#| "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for an Island card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "an Island card, reveal it, put it into your hand, then shuffle.)"
@@ -1302,11 +1293,6 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../SCG.rst:451
-#, fuzzy
-#| msgid ""
-#| "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Swamp card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle.)"
@@ -1973,11 +1959,6 @@ msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../SCG.rst:685 ../../SCG.rst:755
-#, fuzzy
-#| msgid ""
-#| "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Forest card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Forest card, reveal it, put it into your hand, then shuffle.)"
@@ -2198,10 +2179,6 @@ msgid ""
 msgstr ""
 
 #: ../../SCG.rst:759
-#, fuzzy
-#| msgid ""
-#| "Return an Elf you control to its owner's hand: Untap target creature. "
-#| "Activate this ability only once each turn."
 msgid ""
 "Return an Elf you control to its owner's hand: Untap target creature. "
 "Activate only once each turn."

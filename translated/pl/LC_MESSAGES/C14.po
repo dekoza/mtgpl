@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-04-19 08:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -2203,10 +2203,6 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:713
-#, fuzzy
-#| msgid ""
-#| "Draw cards equal to the highest converted mana cost among permanents you "
-#| "control."
 msgid ""
 "Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
@@ -3688,10 +3684,8 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:1211
-#, fuzzy
-#| msgid "Deathtouch"
 msgid "Reach, deathtouch"
-msgstr "Dotyk śmierci"
+msgstr "Zasięg, dotyk śmierci"
 
 #: ../../C14.rst:1216
 msgid ""
@@ -4005,10 +3999,8 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:1319
-#, fuzzy
-#| msgid "Equip |mana_2|"
 msgid "Multikicker |mana_2|"
-msgstr "Wyposaż |mana_2|"
+msgstr "Wielopodbicie |mana_2|"
 
 #: ../../C14.rst:1321
 msgid ""

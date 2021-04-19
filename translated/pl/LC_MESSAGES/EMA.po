@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:09+0000\n"
+"PO-Revision-Date: 2021-04-19 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -178,16 +178,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:51
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact or enchantment card and reveal that "
-#| "card. Shuffle your library, then put the card on top of it."
 msgid ""
 "Search your library for an artifact or enchantment card, reveal it, then "
 "shuffle and put that card on top."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę artefaktu lub uroku i ujawnij ją. "
-"Przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
+"Wyszukaj w twojej bibliotece kartę artefaktu lub uroku, ujawnij ją, po czym "
+"przetasuj i umieść ową kartę na wierzchu."
 
 #: ../../EMA.rst:60
 msgid ""
@@ -1013,16 +1009,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:325
-#, fuzzy
-#| msgid ""
-#| "Search your library for an instant or sorcery card and reveal that card. "
-#| "Shuffle your library, then put the card on top of it."
 msgid ""
 "Search your library for an instant or sorcery card, reveal it, then shuffle "
 "and put that card on top."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu i ujawnij ją. "
-"Przetasuj twoją bibliotekę, po czym umieść ową kartę na jej wierzchu."
+"Wyszukaj w twojej bibliotece kartę sztuczki lub obrzędu, ujawnij ją, po czym "
+"przetasuj i umieść ową kartę na wierzchu."
 
 #: ../../EMA.rst:332
 msgid ""
@@ -1103,18 +1095,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:355
-#, fuzzy
-#| msgid ""
-#| "Search target player's library for up to three cards with flashback and "
-#| "put them into that player's graveyard. Then the player shuffles their "
-#| "library."
 msgid ""
 "Search target player's library for up to three cards with flashback and put "
 "them into that player's graveyard. Then the player shuffles."
 msgstr ""
 "Wyszukaj w bibliotece wskazanego gracza co najwyżej trzy karty mające "
-"wspomnienie i umieść je w cmentarzu owego gracza. Następnie ów gracz tasuje "
-"swoją bibliotekę."
+"wspomnienie i umieść je w cmentarzu owego gracza. Następnie ów gracz tasuje."
 
 #: ../../EMA.rst:360
 msgid ""
@@ -1147,11 +1133,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:371
-#, fuzzy
-#| msgid ""
-#| "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for an Island card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "an Island card, reveal it, put it into your hand, then shuffle.)"
@@ -1408,15 +1389,11 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:459
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card and put that card into your graveyard. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your graveyard, then "
 "shuffle."
 msgstr ""
-"Wyszukaj kartę w twojej bibliotece i umieść ją w twoim cmentarzu. Następnie "
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twoim cmentarzu, po czym "
 "przetasuj."
 
 #: ../../EMA.rst:464
@@ -1757,11 +1734,6 @@ msgid "|mana_b|: Regenerate Twisted Abomination."
 msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../EMA.rst:575
-#, fuzzy
-#| msgid ""
-#| "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Swamp card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle.)"
@@ -1791,16 +1763,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:585
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card, then shuffle your library and put that "
-#| "card on top of it. You lose 2 life."
 msgid ""
 "Search your library for a card, then shuffle and put that card on top. You "
 "lose 2 life."
 msgstr ""
-"Wyszukaj kartę w twojej bibliotece, po czym przetasuj twoją bibliotekę i "
-"umieść ową kartę na jej wierzchu. Strać 2 życia."
+"Wyszukaj kartę w twojej bibliotece, po czym przetasuj i umieść ową kartę na "
+"wierzchu. Strać 2 życia."
 
 #: ../../EMA.rst:590
 msgid ""
@@ -1862,17 +1830,12 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:611
-#, fuzzy
-#| msgid ""
-#| "When Avarax enters the battlefield, you may search your library for a "
-#| "card named Avarax, reveal it, and put it into your hand. If you do, "
-#| "shuffle your library."
 msgid ""
 "When Avarax enters the battlefield, you may search your library for a card "
 "named Avarax, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
+"kartę o nazwie Avarax, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
 #: ../../EMA.rst:613
@@ -2105,10 +2068,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:691
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card, put that card into your hand, discard a "
-#| "card at random, then shuffle your library."
 msgid ""
 "Search your library for a card, put that card into your hand, discard a card "
 "at random, then shuffle."
@@ -2605,11 +2564,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:853
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Civic Wayfinder enters the battlefield, you may search your library for "
 "a basic land card, reveal it, put it into your hand, then shuffle."
@@ -2738,11 +2692,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:895
-#, fuzzy
-#| msgid ""
-#| "Search your library for a green creature card with converted mana cost X "
-#| "or less, put it onto the battlefield, then shuffle your library. Shuffle "
-#| "Green Sun's Zenith into its owner's library."
 msgid ""
 "Search your library for a green creature card with mana value X or less, put "
 "it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its "
@@ -2864,16 +2813,12 @@ msgid "As an additional cost to cast this spell, sacrifice a green creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć zielonego stwora."
 
 #: ../../EMA.rst:933
-#, fuzzy
-#| msgid ""
-#| "Search your library for a green creature card and put it onto the "
-#| "battlefield. Then shuffle your library."
 msgid ""
 "Search your library for a green creature card, put it onto the battlefield, "
 "then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę zielonego stwora i umieść ją na polu "
-"bitwy. Następnie przetasuj."
+"Wyszukaj w twojej bibliotece kartę zielonego stwora, umieść ją na polu "
+"bitwy, po czym przetasuj."
 
 #: ../../EMA.rst:938
 msgid ""
@@ -3051,10 +2996,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:997
-#, fuzzy
-#| msgid "Flying, deathtouch"
 msgid "Reach, deathtouch"
-msgstr "Latanie, dotyk śmierci"
+msgstr "Zasięg, dotyk śmierci"
 
 #: ../../EMA.rst:1002
 msgid ""
@@ -3094,10 +3037,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:1011
-#, fuzzy
-#| msgid ""
-#| "Return an Elf you control to its owner's hand: Untap target creature. "
-#| "Activate this ability only once each turn."
 msgid ""
 "Return an Elf you control to its owner's hand: Untap target creature. "
 "Activate only once each turn."
@@ -3387,11 +3326,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:1111
-#, fuzzy
-#| msgid ""
-#| "Choose a number. Destroy all artifacts and creatures with converted mana "
-#| "cost equal to that number. Then target player reveals their hand and "
-#| "discards all nonland cards with converted mana cost equal to the number."
 msgid ""
 "Choose a number. Destroy all artifacts and creatures with mana value equal "
 "to that number. Then target player reveals their hand and discards all "
@@ -3604,10 +3538,6 @@ msgid ""
 msgstr ""
 
 #: ../../EMA.rst:1173
-#, fuzzy
-#| msgid ""
-#| "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
-#| "instant card with converted mana cost 2 or less from your hand."
 msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
 "instant card with mana value 2 or less from your hand."

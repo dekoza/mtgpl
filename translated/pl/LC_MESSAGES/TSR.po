@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-04-19 08:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -4262,10 +4262,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1359
-#, fuzzy
-#| msgid ""
-#| "Search your library for a green creature card, reveal it, put it into "
-#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for a green creature card, reveal it, put it into your "
 "hand, then shuffle."
@@ -4403,10 +4399,8 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:1399
-#, fuzzy
-#| msgid "Deathtouch"
 msgid "Reach, deathtouch"
-msgstr "Dotyk śmierci"
+msgstr "Zasięg, dotyk śmierci"
 
 #: ../../TSR.rst:1406
 msgid ""
@@ -6436,21 +6430,14 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2041
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. You may reveal a colorless "
-#| "card from among them and put it into your hand. Then put the rest on the "
-#| "bottom of your library in any order. (Cards with no colored mana in their "
-#| "mana costs are colorless. Lands are also colorless.)"
 msgid ""
 "Look at the top five cards of your library. You may reveal a colorless card "
 "from among them and put it into your hand. Then put the rest on the bottom "
 "of your library in any order."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz spośród nich "
-"ujawnić bezkolorową kartę i umieścić ją w twojej ręce. Następnie umieść "
-"pozostałe dowolnie na spodzie twojej biblioteki. (Karty bez symboli "
-"kolorowej many w ich kosztach many są bezkolorowe. Lądy też są bezkolorowe.)"
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich bezkolorową kartę i umieścić ją w twojej ręce. Następnie umieść "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../TSR.rst:2046
 msgid ""
@@ -6845,10 +6832,6 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2169
-#, fuzzy
-#| msgid ""
-#| "Each opponent can't cast noncreature spells with converted mana cost "
-#| "greater than the number of lands that player controls."
 msgid ""
 "Each opponent can't cast noncreature spells with mana value greater than the "
 "number of lands that player controls."
@@ -7032,10 +7015,6 @@ msgid ""
 msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../TSR.rst:2231
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts a spell with converted mana cost equal to the "
-#| "number of charge counters on Chalice of the Void, counter that spell."
 msgid ""
 "Whenever a player casts a spell with mana value equal to the number of "
 "charge counters on Chalice of the Void, counter that spell."
@@ -7113,7 +7092,7 @@ msgstr ""
 
 #: ../../TSR.rst:2253
 msgid "Multikicker |mana_2|"
-msgstr ""
+msgstr "Wielopodbicie |mana_2|"
 
 #: ../../TSR.rst:2255
 msgid ""
@@ -7286,10 +7265,6 @@ msgstr ""
 "błogosławieństwo miasta do końca gry.)"
 
 #: ../../TSR.rst:2315
-#, fuzzy
-#| msgid ""
-#| "|mana_5|, |tap|: Draw a card. Activate this ability only if you have the "
-#| "city's blessing."
 msgid ""
 "|mana_5|, |tap|: Draw a card. Activate only if you have the city's blessing."
 msgstr ""

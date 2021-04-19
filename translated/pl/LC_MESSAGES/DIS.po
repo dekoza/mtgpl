@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-19 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -751,11 +751,6 @@ msgid "Double strike"
 msgstr "Podwójny cios"
 
 #: ../../DIS.rst:241
-#, fuzzy
-#| msgid ""
-#| "When Crypt Champion enters the battlefield, each player puts a creature "
-#| "card with converted mana cost 3 or less from their graveyard onto the "
-#| "battlefield."
 msgid ""
 "When Crypt Champion enters the battlefield, each player puts a creature card "
 "with mana value 3 or less from their graveyard onto the battlefield."
@@ -964,13 +959,12 @@ msgstr ""
 "artefaktowe lub czarne.)"
 
 #: ../../DIS.rst:305
-#, fuzzy
 msgid ""
 "At the beginning of your upkeep, you may search your library for a Rat card, "
 "reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj."
+"Na początku twojego kroku utrzymania, możesz wyszukać w twojej bibliotece "
+"kartę Szczura, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../DIS.rst:310
 msgid ""
@@ -1548,18 +1542,13 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:509
-#, fuzzy
-#| msgid ""
-#| "When Protean Hulk dies, search your library for any number of creature "
-#| "cards with total converted mana cost 6 or less and put them onto the "
-#| "battlefield. Then shuffle your library."
 msgid ""
 "When Protean Hulk dies, search your library for any number of creature cards "
 "with total mana value 6 or less, put them onto the battlefield, then shuffle."
 msgstr ""
 "Kiedy ten stwór umrze, wyszukaj w twojej bibliotece dowolną liczbę kart "
-"stworów o łącznym skrócie many 6 lub mniej i umieść je na polu bitwy. "
-"Następnie przetasuj."
+"stworów o łącznym skrócie many 6 lub mniej, umieść je na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../DIS.rst:516
 msgid ""
@@ -1909,12 +1898,6 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:635
-#, fuzzy
-#| msgid ""
-#| "Whenever Isperia the Inscrutable deals combat damage to a player, choose "
-#| "a card name. That player reveals their hand. If a card with the chosen "
-#| "name is revealed this way, search your library for a creature card with "
-#| "flying, reveal it, put it into your hand, then shuffle your library."
 msgid ""
 "Whenever Isperia the Inscrutable deals combat damage to a player, choose a "
 "card name. That player reveals their hand. If a card with the chosen name is "
@@ -1989,18 +1972,13 @@ msgid ""
 msgstr ""
 
 #: ../../DIS.rst:655
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a green creature spell, you may search your library for "
-#| "a creature card and reveal it. If you do, shuffle your library and put "
-#| "that card on top of it."
 msgid ""
 "Whenever you cast a green creature spell, you may search your library for a "
 "creature card, reveal it, then shuffle and put that card on top."
 msgstr ""
 "Ilekroć rzucisz czar zielonego stwora, możesz wyszukać w twojej bibliotece "
-"kartę stwora i ujawnić ją. Jeśli tak zrobisz, przetasuj twoją bibliotekę i "
-"umieść ową kartę na jej wierzchu."
+"kartę stwora, ujawnić ją, po czym przetasować twoją bibliotekę i umieść ową "
+"kartę na wierzchu."
 
 #: ../../DIS.rst:657
 msgid ""
@@ -2125,12 +2103,6 @@ msgstr ""
 "Ten stwór dostaje +1/+1 za każdego innego stwora z lataniem na polu bitwy."
 
 #: ../../DIS.rst:697
-#, fuzzy
-#| msgid ""
-#| "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds "
-#| "from your hand: Create a 1/1 white and blue Bird creature token with "
-#| "flying. (Activate this ability only during your upkeep and only once each "
-#| "turn.)"
 msgid ""
 "Forecast — |mana_2|\\ |mana_w|\\ |mana_u|, Reveal Pride of the Clouds from "
 "your hand: Create a 1/1 white and blue Bird creature token with flying. "
@@ -2233,11 +2205,6 @@ msgstr ""
 "władaniem."
 
 #: ../../DIS.rst:733
-#, fuzzy
-#| msgid ""
-#| "Forecast — Tap two untapped white and/or blue creatures you control, "
-#| "Reveal Sky Hussar from your hand: Draw a card. (Activate this ability "
-#| "only during your upkeep and only once each turn.)"
 msgid ""
 "Forecast — Tap two untapped white and/or blue creatures you control, Reveal "
 "Sky Hussar from your hand: Draw a card. (Activate only during your upkeep "
@@ -2435,11 +2402,6 @@ msgid "(|mana_wu| can be paid with either |mana_w| or |mana_u|.)"
 msgstr "(|mana_wu| można opłacić używając |mana_w| albo |mana_u|.)"
 
 #: ../../DIS.rst:803
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts a noncreature spell, counter that spell. That "
-#| "player creates X 1/1 white and blue Bird creature tokens with flying, "
-#| "where X is the spell's converted mana cost."
 msgid ""
 "Whenever a player casts a noncreature spell, counter that spell. That player "
 "creates X 1/1 white and blue Bird creature tokens with flying, where X is "
