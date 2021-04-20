@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-20 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -1287,16 +1287,12 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:471
-#, fuzzy
-#| msgid ""
-#| "Destroy target land. If that land was nonbasic, Molten Rain deals 2 "
-#| "damage to the land's controller."
 msgid ""
 "Destroy target artifact with mana value X. It can't be regenerated. Detonate "
 "deals X damage to that artifact's controller."
 msgstr ""
-"Zniszcz wskazany ląd. Jeśli ów ląd był niebazowy, ten czar zadaje władcy "
-"owego lądu 2 obrażenia."
+"Zniszcz wskazany artefakt o skrócie many X. Nie może on zregenerować. Ten "
+"czar zadaje władcy owego artefaktu X obrażeń."
 
 #: ../../MRD.rst:476
 msgid ""

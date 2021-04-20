@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-20 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -869,16 +869,12 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:309
-#, fuzzy
-#| msgid ""
-#| "Search your library for a legendary creature card, reveal it, and put it "
-#| "into your hand. Then shuffle your library."
 msgid ""
 "Search your library for an Arcane card, reveal that card, put it into your "
 "hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę legendarnego stwora, ujawnij ją i umieść "
-"w twojej ręce. Następnie przetasuj."
+"Wyszukaj w twojej bibliotece kartę legendarnego stwora, ujawnij ją, umieść "
+"ją w twojej ręce, po czym przetasuj."
 
 #: ../../CHK.rst:314
 msgid ""
@@ -927,12 +923,6 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:329
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to four cards with different names and reveal "
-#| "them. Target opponent chooses two of those cards. Put the chosen cards "
-#| "into your graveyard and the rest into your hand. Then shuffle your "
-#| "library."
 msgid ""
 "Search your library for up to four cards with different names and reveal "
 "them. Target opponent chooses two of those cards. Put the chosen cards into "
@@ -1699,16 +1689,12 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:609
-#, fuzzy
-#| msgid ""
-#| "Target player reveals their hand. You choose a nonland card from it. That "
-#| "player discards that card."
 msgid ""
 "|mana_1|, Sacrifice a Spirit: Target opponent reveals their hand. You choose "
 "a card from it. That player discards that card. Activate only as a sorcery."
 msgstr ""
-"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nie-lądową kartę. Ów gracz "
-"odrzuca ową kartę."
+"|mana_1|, poświęć Ducha: Wskazany przeciwnik ujawnia swoją rękę. Wybierz z "
+"niej kartę. Ów gracz odrzuca ową kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../CHK.rst:618
 msgid ""
@@ -1767,17 +1753,13 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:631
-#, fuzzy
-#| msgid ""
-#| "When Godo, Bandit Warlord enters the battlefield, you may search your "
-#| "library for an Equipment card and put it onto the battlefield. If you do, "
-#| "shuffle your library."
 msgid ""
 "When Iname, Death Aspect enters the battlefield, you may search your library "
 "for any number of Spirit cards, put them into your graveyard, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę Wyposażenia i umieścić ją na polu bitwy. Jeśli tak zrobisz, przetasuj."
+"dowolną liczbę kart Duchów, umieścić je w twoim cmentarzu, po czym "
+"przetasować."
 
 #: ../../CHK.rst:638
 msgid ""
@@ -3556,16 +3538,11 @@ msgid ""
 msgstr ""
 
 #: ../../CHK.rst:1253
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CHK.rst:1264

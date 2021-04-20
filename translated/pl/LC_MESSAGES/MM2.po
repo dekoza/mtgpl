@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-20 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -680,10 +680,6 @@ msgid ""
 msgstr ""
 
 #: ../../MM2.rst:215
-#, fuzzy
-#| msgid ""
-#| "Destroy target artifact or enchantment. You gain life equal to its "
-#| "converted mana cost."
 msgid ""
 "Destroy target artifact or enchantment. You gain life equal to its mana "
 "value."
@@ -3062,11 +3058,6 @@ msgid ""
 msgstr ""
 
 #: ../../MM2.rst:1039
-#, fuzzy
-#| msgid ""
-#| "Return target card from your graveyard to your hand. If you return a "
-#| "nonland card to your hand this way, Vengeful Rebirth deals damage equal "
-#| "to that card's converted mana cost to any target."
 msgid ""
 "Return target card from your graveyard to your hand. If you return a nonland "
 "card to your hand this way, Vengeful Rebirth deals damage equal to that "

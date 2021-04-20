@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-04-20 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1642,17 +1642,13 @@ msgstr ""
 
 # 3b20b6f30b9347c99b2ba06ec2dc544c
 #: ../../C13.rst:497
-#, fuzzy
-#| msgid ""
-#| "When Karmic Guide enters the battlefield, return target creature card "
-#| "from your graveyard to the battlefield."
 msgid ""
 "When Phyrexian Delver enters the battlefield, return target creature card "
 "from your graveyard to the battlefield. You lose life equal to that card's "
 "mana value."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
-"twojego cmentarza na pole bitwy."
+"twojego cmentarza na pole bitwy. Strać życia równe skrótowi many owej karty."
 
 #: ../../C13.rst:502
 msgid ""
@@ -3118,15 +3114,11 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:941
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C13.rst:948
@@ -3421,13 +3413,12 @@ msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1039
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with "
 "mana value X."
-msgstr "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, poświęć stwora: Dobierz kartę."
+msgstr ""
+"|mana_x|\\ |mana_x|\\ |mana_1|: Zniszcz wskazany artefakt lub stwora o "
+"skrócie many X."
 
 #: ../../C13.rst:1048
 msgid ""
@@ -4097,11 +4088,6 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1293
-#, fuzzy
-#| msgid ""
-#| "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this "
-#| "card: Search your library for a Mountain or Forest card, reveal it, put "
-#| "it into your hand, then shuffle your library.)"
 msgid ""
 "Mountaincycling |mana_2|, forestcycling |mana_2| (|mana_2|, Discard this "
 "card: Search your library for a Mountain or Forest card, reveal it, put it "

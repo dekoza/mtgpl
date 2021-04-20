@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-20 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/atq/pl/>\n"
 "Language: pl\n"
@@ -235,14 +235,6 @@ msgid ""
 msgstr ""
 
 #: ../../ATQ.rst:69
-#, fuzzy
-#| msgid ""
-#| "Sacrifice an artifact. If you do, search your library for an artifact "
-#| "card. If that card's converted mana cost is less than or equal to the "
-#| "sacrificed artifact's converted mana cost, put it onto the battlefield. "
-#| "If it's greater, you may pay |mana_x|, where X is the difference. If you "
-#| "do, put it onto the battlefield. If you don't, put it into its owner's "
-#| "graveyard. Then shuffle your library."
 msgid ""
 "Sacrifice an artifact. If you do, search your library for an artifact card. "
 "If that card's mana value is less than or equal to the sacrificed artifact's "
@@ -282,16 +274,12 @@ msgid ""
 msgstr ""
 
 #: ../../ATQ.rst:79
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a creature: Destroy target artifact. Activate this ability only "
-#| "during your upkeep and only once each turn."
 msgid ""
 "Sacrifice a creature: Destroy target artifact. Activate only during your "
 "upkeep and only once each turn."
 msgstr ""
-"Poświęć stwora: Zniszcz wskazany artefakt. Możesz zaktywować tę zdolność "
-"tylko w twoim kroku utrzymania i tylko raz na turę."
+"Poświęć stwora: Zniszcz wskazany artefakt. Możesz zaktywować tylko w twoim "
+"kroku utrzymania i tylko raz na turę."
 
 #: ../../ATQ.rst:84
 msgid ""
@@ -415,6 +403,8 @@ msgid ""
 "Destroy target artifact with mana value X. It can't be regenerated. Detonate "
 "deals X damage to that artifact's controller."
 msgstr ""
+"Zniszcz wskazany artefakt o skrócie many X. Nie może on zregenerować. Ten "
+"czar zadaje władcy owego artefaktu X obrażeń."
 
 #: ../../ATQ.rst:122
 msgid ""
@@ -424,16 +414,12 @@ msgid ""
 msgstr ""
 
 #: ../../ATQ.rst:121
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a creature: Destroy target artifact. Activate this ability only "
-#| "during your upkeep and only once each turn."
 msgid ""
 "|tap|, Sacrifice an artifact: Put a +1/+1 counter on target creature. "
 "Activate only during your upkeep."
 msgstr ""
-"Poświęć stwora: Zniszcz wskazany artefakt. Możesz zaktywować tę zdolność "
-"tylko w twoim kroku utrzymania i tylko raz na turę."
+"|tap|, poświęć artefakt: Umieść znacznik +1/+1 na wskazanym stworze. Możesz "
+"aktywować tylko w twoim kroku utrzymania."
 
 #: ../../ATQ.rst:126
 msgid ""
@@ -527,6 +513,8 @@ msgid ""
 "Destroy target artifact. It can't be regenerated. That artifact's controller "
 "gains life equal to its mana value."
 msgstr ""
+"Zniszcz wskazany artefakt. Nie może on zregenerować. Władca owego artefaktu "
+"zyskuje życia równej jego skrótowi many."
 
 #: ../../ATQ.rst:156
 msgid ""
