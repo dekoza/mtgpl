@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/apc/pl/>\n"
 "Language: pl\n"
@@ -273,6 +273,8 @@ msgid ""
 "Destroy target artifact or enchantment. If this spell was kicked, it deals "
 "damage equal to that permanent's mana value to target creature."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Jeśli ten czar został podbity, zadaje on "
+"wskazanemu stworowi obrażenia równe skrótowi many owego permanentu."
 
 #: ../../APC.rst:100
 msgid ""
@@ -1105,29 +1107,22 @@ msgid ""
 msgstr ""
 
 #: ../../APC.rst:393
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_w|: Search your library for an enchantment card and reveal "
 "that card. Put it into your hand, then discard a card at random. Then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj."
+"|mana_1|\\ |mana_w|: Wyszukaj w twojej bibliotece kartę uroku i ujawnij ją. "
+"Umieść ją w twojej ręce, po czym odrzuć losową kartę. Następnie przetasuj."
 
 #: ../../APC.rst:395
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_u|: Search your library for an instant card and reveal that "
 "card. Put it into your hand, then discard a card at random. Then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj."
+"|mana_1|\\ |mana_u|: Wyszukaj w twojej bibliotece kartę sztuczki i ujawnij "
+"ją. Umieść ją w twojej ręce, po czym odrzuć losową kartę. Następnie "
+"przetasuj."
 
 #: ../../APC.rst:402
 msgid ""
@@ -1201,16 +1196,12 @@ msgid "As an additional cost to cast this spell, sacrifice five lands."
 msgstr ""
 
 #: ../../APC.rst:423
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, reveal it, put it into your "
-#| "hand, then shuffle your library."
 msgid ""
 "Search your library for a land card of each basic land type, put those cards "
 "onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
-"twojej ręce, po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę lodu dla każdego bazowego typu lądu, "
+"umieść owe karty na polu bitwy, po czym przetasuj."
 
 #: ../../APC.rst:428
 msgid ""
@@ -1980,15 +1971,12 @@ msgid ""
 msgstr ""
 
 #: ../../APC.rst:701
-#, fuzzy
-#| msgid ""
-#| "Return up to two target creature cards from your graveyard to your hand."
 msgid ""
 "Return target creature card from your graveyard to the battlefield. You lose "
 "life equal to its mana value."
 msgstr ""
-"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
-"twojej ręki."
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Strać "
+"życia równe jej skrótowi many."
 
 #: ../../APC.rst:706
 msgid ""

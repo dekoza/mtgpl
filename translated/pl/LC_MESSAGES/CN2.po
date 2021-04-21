@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cn2/pl/>\n"
 "Language: pl\n"
@@ -315,17 +315,14 @@ msgstr ""
 "przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
 
 #: ../../CN2.rst:103
-#, fuzzy
-#| msgid ""
-#| "When Driver of the Dead dies, return target creature card with converted "
-#| "mana cost 2 or less from your graveyard to the battlefield."
 msgid ""
 "Whenever Custodi Soulcaller attacks, return target creature card with mana "
 "value X or less from your graveyard to the battlefield, where X is the "
 "number of players you attacked this combat."
 msgstr ""
-"Kiedy ten stwór umrze, przywróć wskazaną kartę stwora o skrócie many 2 lub "
-"mniejszym z twojego cmentarza na pole bitwy."
+"Ilekroć ten stwór zaatakuje, przywróć wskazaną kartę stwora o skrócie many X "
+"lub mniejszym z twojego cmentarza na pole bitwy, gdzie X jest liczbą graczy "
+"zaatakowanych przez ciebie w tej potyczce."
 
 #: ../../CN2.rst:108
 msgid ""
@@ -481,14 +478,9 @@ msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
 #: ../../CN2.rst:155
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature attacks you or a planeswalker you control, that "
-#| "creature's controller loses 1 life."
 msgid "Enchanted creature can't attack you or planeswalkers you control."
 msgstr ""
-"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, władca "
-"owego stwora traci 1 życie."
+"Zauroczony stwór nie może atakować ciebie ani wędrowców pod twoim władaniem."
 
 #: ../../CN2.rst:157
 msgid "Enchanted creature can't block creatures you control."
@@ -1119,18 +1111,15 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:377
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "When Borderland Explorer enters the battlefield, each player may discard a "
 "card. Each player who discarded a card this way may search their library for "
 "a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może odrzucić kartę. "
+"Każdy gracz, który odrzucił kartę w ten sposób może wyszukać w swojej "
+"bibliotece kartę bazowego lądu, ujawnić ją, umieścić ją w swojej ręce, po "
+"czym przetasować."
 
 #: ../../CN2.rst:384
 msgid ""
@@ -2080,7 +2069,7 @@ msgid ""
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Recykling bazowolądowy |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
 "ją w twojej ręce, po czym przetasuj.)"
 
@@ -2120,17 +2109,12 @@ msgid "Target player loses 4 life and you gain 4 life."
 msgstr "Wskazany gracz traci 4 życia, a ty zyskaj 4 życia."
 
 #: ../../CN2.rst:741
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
 "w twojej ręce, po czym przetasuj.)"
 
@@ -2562,7 +2546,7 @@ msgid ""
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Recykling bazowolądowy |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
 "ją w twojej ręce, po czym przetasuj.)"
 
@@ -2978,16 +2962,12 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:1029
-#, fuzzy
-#| msgid ""
-#| "Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X "
-#| "is the number of attacking creatures you control."
 msgid ""
 "Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X "
 "is that spell's mana value."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje on +X/+0 do końca tury, gdzie X jest "
-"liczbą atakujących stworów pod twoim władaniem."
+"Ilekroć rzucisz czar, ten stwór dostaje do końca tury +X/+X, gdzie X jest "
+"skrótem many owego czaru."
 
 #: ../../CN2.rst:1036
 msgid ""
@@ -3105,17 +3085,12 @@ msgid "Target player gains 8 life."
 msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../CN2.rst:1069
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
 "w twojej ręce, po czym przetasuj.)"
 

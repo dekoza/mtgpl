@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-20 14:47+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1165,6 +1165,9 @@ msgid ""
 "player draws a card. (Activate only during your upkeep and only once each "
 "turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_u|, ujawnij tę kartę z twojej ręki: Każdy gracz "
+"dobiera kartę. (Możesz aktywować tylko w twoim kroku utrzymania i tylko raz "
+"na turę.)"
 
 #: ../../C13.rst:354
 msgid ""
@@ -4275,11 +4278,6 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1355
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up "
-#| "to two basic land cards, reveal them, put them into your hand, then "
-#| "shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
 "two basic land cards, reveal them, put them into your hand, then shuffle."
@@ -4876,16 +4874,12 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1537
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C13.rst:1542
 msgid ""

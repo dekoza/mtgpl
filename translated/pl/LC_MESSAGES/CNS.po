@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-20 14:47+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -402,20 +402,16 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:133
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. You may reveal any number of "
-#| "creature cards from among them and put the revealed cards into your hand. "
-#| "Put the rest on the bottom of your library in any order."
 msgid ""
 "|mana_3|\\ |mana_u|, |tap|: Look at the top X cards of your library, where X "
 "is the highest mana value among artifacts you control. You may put an "
 "artifact card from among them onto the battlefield. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"nich dowolną liczbą kart stworów i umieścić owe ujawnione karty w twojej "
-"ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
+"|mana_3|\\ |mana_u|, |tap|: Spójrz na X wierzchnich kart twojej biblioteki, "
+"gdzie X jest największym skrótem many pośród artefaktów pod twoim władaniem. "
+"Możesz spośród nich umieścić na polu bitwy kartę artefaktu. Umieść pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../CNS.rst:138
 msgid ""
@@ -627,17 +623,13 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:209
-#, fuzzy
-#| msgid ""
-#| "Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for an Island card, reveal it, put it into your hand, then shuffle your "
-#| "library.)"
 msgid ""
 "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your "
 "library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
+"|mana_2|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wyszukaj w twojej "
+"bibliotece kartę lądu, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../CNS.rst:214
 msgid ""
@@ -1714,20 +1706,14 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:579
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature with the chosen name enters the battlefield under "
-#| "your control, you may search your library for any number of cards with "
-#| "that name, reveal them, put them into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Screaming Seahawk enters the battlefield, you may search your library "
 "for a card named Screaming Seahawk, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
-"przetasuj."
+"kartę o nazwie Screaming Seahawk, ujawnić ją, umieścić ją w twojej ręce, po "
+"czym przetasować."
 
 #: ../../CNS.rst:586
 msgid ""
@@ -2628,20 +2614,14 @@ msgid ""
 msgstr ""
 
 #: ../../CNS.rst:907
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature with the chosen name enters the battlefield under "
-#| "your control, you may search your library for any number of cards with "
-#| "that name, reveal them, put them into your hand, then shuffle your "
-#| "library."
 msgid ""
 "When Howling Wolf enters the battlefield, you may search your library for up "
 "to three cards named Howling Wolf, reveal them, put them into your hand, "
 "then shuffle."
 msgstr ""
-"Ilekroć stwór o wybranej nazwie wejdzie na pole bitwy pod twoim władaniem, "
-"możesz wyszukać w twojej bibliotece dowolną liczbę kart o owej nazwie, "
-"ujawnić je, umieścić w twojej ręce, po czym przetasować twoją bibliotekę."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"co najwyżej trzy karty o nazwie Howling Wolf, ujawnić je, umieścić je w "
+"twojej ręce, następnie przetasować."
 
 #: ../../CNS.rst:914
 msgid ""

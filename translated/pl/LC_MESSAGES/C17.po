@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -1392,15 +1392,14 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:467
-#, fuzzy
 msgid ""
 "When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you "
 "do, search your library for an Equipment card with mana value X or less, put "
 "that card onto the battlefield, then shuffle."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
-"twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_x|. Jeśli tak "
+"zrobisz, wyszukaj w twojej bibliotece kartę Wyposażenia o skrócie many X lub "
+"mniejszym, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C17.rst:472
 msgid ""
@@ -3548,11 +3547,6 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1193
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up "
-#| "to two basic land cards, reveal them, put them into your hand, then "
-#| "shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
 "two basic land cards, reveal them, put them into your hand, then shuffle."
@@ -3974,16 +3968,12 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1355
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C17.rst:1360
 msgid ""
@@ -4332,16 +4322,12 @@ msgid "Grasslands enters the battlefield tapped."
 msgstr ""
 
 #: ../../C17.rst:1495
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu lub Równiny, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C17.rst:1504
 msgid ""
@@ -4486,17 +4472,12 @@ msgid "Krosan Verge enters the battlefield tapped."
 msgstr ""
 
 #: ../../C17.rst:1555
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
+"kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C17.rst:1564
 msgid ""

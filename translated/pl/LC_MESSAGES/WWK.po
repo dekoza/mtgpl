@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -2131,17 +2131,12 @@ msgid "Colorless Eldrazi spells you cast cost |mana_2| less to cast."
 msgstr ""
 
 #: ../../WWK.rst:741
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "|mana_7|, |tap|: Search your library for a colorless creature card, reveal "
 "it, put it into your hand, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"lądu, ujawnij ją i umieść w twojej ręce. Następnie przetasuj."
+"|mana_7|, |tap|: Wyszukaj w twojej bibliotece kartę bezkolorowego stwora, "
+"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../WWK.rst:750
 msgid ""

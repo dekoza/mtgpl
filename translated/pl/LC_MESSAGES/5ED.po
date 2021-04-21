@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-20 14:47+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -3829,6 +3829,8 @@ msgid ""
 "Destroy target Wall. It can't be regenerated. Word of Blasting deals damage "
 "equal to that Wall's mana value to the Wall's controller."
 msgstr ""
+"Zniszcz wskazaną Ścianę. Nie może ona zregenerować. Ten czar zadaje władcy "
+"owej Ściany obrażenia równe jej skrótowi many."
 
 #: ../../5ED.rst:1396
 msgid ""
@@ -4311,13 +4313,12 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1581
-#, fuzzy
 msgid ""
 "Search your library for a Forest card, put that card onto the battlefield, "
 "then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę Lasu, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../5ED.rst:1586
 msgid ""

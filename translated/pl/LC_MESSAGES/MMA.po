@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-20 14:47+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -1191,7 +1191,7 @@ msgid ""
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Recykling bazowolądowy |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
 "ją w twojej ręce, po czym przetasuj.)"
 
@@ -1237,17 +1237,12 @@ msgid "Target player loses 4 life and you gain 4 life."
 msgstr "Wskazany gracz traci 4 życia, a ty zyskaj 4 życia."
 
 #: ../../MMA.rst:413
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
 "w twojej ręce, po czym przetasuj.)"
 
@@ -1872,16 +1867,12 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:631
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for a Dragon permanent card, put it onto the "
 "battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę permanentu typu Smok, umieść ją na polu "
+"bitwy, po czym przetasuj."
 
 #: ../../MMA.rst:633 ../../MMA.rst:639
 msgid ""
@@ -1919,7 +1910,7 @@ msgid ""
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Recykling bazowolądowy |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
 "ją w twojej ręce, po czym przetasuj.)"
 
@@ -2833,17 +2824,12 @@ msgid "Target player gains 8 life."
 msgstr "Wskazany gracz zyskuje 8 żyć."
 
 #: ../../MMA.rst:937
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this "
-#| "card: Search your library for a basic land card, reveal it, put it into "
-#| "your hand, then shuffle your library.)"
 msgid ""
 "Basic landcycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this "
 "card: Search your library for a basic land card, reveal it, put it into your "
 "hand, then shuffle.)"
 msgstr ""
-"Lądocykling bazowych |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę "
+"Lądocykling bazowych |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę "
 "kartę: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść "
 "w twojej ręce, po czym przetasuj.)"
 
@@ -2940,16 +2926,12 @@ msgid ""
 msgstr ""
 
 #: ../../MMA.rst:969
-#, fuzzy
-#| msgid ""
-#| "Search your library for a green creature card, reveal it, put it into "
-#| "your hand, then shuffle your library."
 msgid ""
 "Search your library for up to two creature cards, reveal them, put them into "
 "your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty stworów, ujawnij je, "
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../MMA.rst:971
 msgid "Put up to two creature cards from your hand onto the battlefield."
