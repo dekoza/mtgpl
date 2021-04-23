@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -398,19 +398,14 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:139
-#, fuzzy
-#| msgid ""
-#| "When Solemn Simulacrum enters the battlefield, you may search your "
-#| "library for a basic land card, put that card onto the battlefield tapped, "
-#| "then shuffle your library."
 msgid ""
 "When Taj-Nar Swordsmith enters the battlefield, you may pay |mana_x|. If you "
 "do, search your library for an Equipment card with mana value X or less, put "
 "that card onto the battlefield, then shuffle."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
-"twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_x|. Jeśli tak "
+"zrobisz, wyszukaj w twojej bibliotece kartę Wyposażenia o skrócie many X lub "
+"mniejszym, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MRD.rst:144
 msgid ""
@@ -970,11 +965,6 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:353
-#, fuzzy
-#| msgid ""
-#| "Search your library for a nonland card and reveal it. Each opponent who "
-#| "cast a spell this turn with the same name as that card loses 6 life. Then "
-#| "shuffle your library."
 msgid ""
 "Search your library for a nonland card and reveal it. Each opponent who cast "
 "a spell this turn with the same name as that card loses 6 life. Then shuffle."
@@ -1287,16 +1277,12 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:471
-#, fuzzy
-#| msgid ""
-#| "Destroy target land. If that land was nonbasic, Molten Rain deals 2 "
-#| "damage to the land's controller."
 msgid ""
 "Destroy target artifact with mana value X. It can't be regenerated. Detonate "
 "deals X damage to that artifact's controller."
 msgstr ""
-"Zniszcz wskazany ląd. Jeśli ów ląd był niebazowy, ten czar zadaje władcy "
-"owego lądu 2 obrażenia."
+"Zniszcz wskazany artefakt o skrócie many X. Nie może on zregenerować. Ten "
+"czar zadaje władcy owego artefaktu X obrażeń."
 
 #: ../../MRD.rst:476
 msgid ""
@@ -1764,16 +1750,12 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:641
-#, fuzzy
-#| msgid ""
-#| "Search your library for a land card, reveal it, and put it into your "
-#| "hand. Then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, reveal them, put them "
 "into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę lądu, ujawnij ją i umieść w twojej ręce. "
-"Następnie przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty lądów, ujawnij je, "
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../MRD.rst:643
 msgid "You may play up to two additional lands this turn."
@@ -1926,16 +1908,12 @@ msgid ""
 msgstr ""
 
 #: ../../MRD.rst:701
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact card, reveal it, and put it into your "
-#| "hand. Then shuffle your library."
 msgid ""
 "Search your library for up to two creature cards, reveal them, put them into "
 "your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę zielonego stwora, ujawnij ją, umieść w "
-"twojej ręce, po czym przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty stworów, ujawnij je, "
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../MRD.rst:703
 msgid "Put up to two creature cards from your hand onto the battlefield."
@@ -3798,18 +3776,17 @@ msgid ""
 "player reveal their hand. If you do, choose a nonland card from it and exile "
 "that card."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz sprawić, że "
+"wskazany gracz ujawni swoją rękę. Jeśli tak zrobisz, wybierz z niej "
+"nielądową kartę i wygnaj ją."
 
 #: ../../MRD.rst:1367
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts a spell with converted mana cost equal to the "
-#| "number of charge counters on Chalice of the Void, counter that spell."
 msgid ""
 "Whenever a player casts a spell that shares a color or mana value with the "
 "exiled card, Thought Prison deals 2 damage to that player."
 msgstr ""
-"Ilekroć grać rzuci czar o skrócie many równym liczbie znaczników ładunku na "
-"tym artefakcie, skontruj ów czar."
+"Ilekroć grać rzuci czar mający wspólny kolor lub skrót many z wygnaną kartą, "
+"ten artefakt zadaje owemu graczowi 2 obrażenia."
 
 #: ../../MRD.rst:1372
 msgid ""

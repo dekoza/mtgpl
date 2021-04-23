@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -467,9 +467,9 @@ msgid ""
 "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Recykling bazowolądowy |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w "
-"twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w twojej ręce, "
-"po czym przetasuj.)"
+"Lądocykling bazowych |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../C16.rst:160
 msgid ""
@@ -2785,17 +2785,13 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:917
-#, fuzzy
-#| msgid ""
-#| "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your "
-#| "library for a basic land card, reveal it, put it into your hand, then "
-#| "shuffle your library.)"
 msgid ""
 "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your "
 "library for a land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
+"|mana_2|\\ |mana_g|, usuń znacznik +1/+1 z tego stwora: Wyszukaj w twojej "
+"bibliotece kartę lądu, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../C16.rst:924
 msgid ""
@@ -2824,15 +2820,11 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:927
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C16.rst:932
@@ -3088,18 +3080,12 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1009
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_g|, Sacrifice a nontoken creature: Create X "
-#| "1/1 green Saproling creature tokens, where X is the sacrificed creature's "
-#| "toughness."
 msgid ""
 "Destroy target artifact. It can't be regenerated. Create X 1/1 green "
 "Saproling creature tokens, where X is that artifact's mana value."
 msgstr ""
-"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
-"żetonów zielonego stwora Sadzonka 1/1, gdzie X jest wytrzymałością "
-"poświęconego stwora."
+"Zniszcz wskazany artefakt. Nie może on zregenerować. Stwórz X żetonów "
+"zielonego stwora Sadzonka 1/1, gdzie X jest skrótem many owego artefaktu."
 
 #: ../../C16.rst:1014
 msgid ""
@@ -3109,18 +3095,12 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1013
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_g|, Sacrifice a nontoken creature: Create X "
-#| "1/1 green Saproling creature tokens, where X is the sacrificed creature's "
-#| "toughness."
 msgid ""
 "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, "
 "where X is that enchantment's mana value."
 msgstr ""
-"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Stwórz X "
-"żetonów zielonego stwora Sadzonka 1/1, gdzie X jest wytrzymałością "
-"poświęconego stwora."
+"Zniszcz wskazany urok. Stwórz X żetonów zielonego stwora Sadzonka 1/1, gdzie "
+"X jest skrótem many owego uroku."
 
 #: ../../C16.rst:1020
 msgid ""
@@ -5173,17 +5153,12 @@ msgid "Krosan Verge enters the battlefield tapped."
 msgstr ""
 
 #: ../../C16.rst:1767
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up "
-#| "to two basic land cards that share a land type, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
+"kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C16.rst:1776
 msgid ""

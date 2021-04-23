@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -519,19 +519,14 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:177
-#, fuzzy
-#| msgid ""
-#| "When Farhaven Elf enters the battlefield, you may search your library for "
-#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "At the beginning of each opponent's end step, if that player controls more "
 "lands than you, you may search your library for a basic Plains card, put it "
 "onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj."
+"Na początku kroku końcowego każdego z przeciwników, jeśli ów gracz ma we "
+"władaniu więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę "
+"bazowej Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasować."
 
 #: ../../CMR.rst:184
 msgid ""
@@ -2598,17 +2593,14 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:903
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
-#| "planeswalker you control."
 msgid ""
 "Enchanted creature gets +2/+2, has menace, and can't attack you or "
 "planeswalkers you control. (It can't be blocked except by two or more "
 "creatures.)"
 msgstr ""
-"Zauroczony stwór dostaje +2/+2, ma czujność i nie może atakować ciebie lub "
-"wędrowców pod twoim władaniem."
+"Zauroczony stwór dostaje +2/+2, ma złowrogość i nie może atakować ciebie lub "
+"wędrowców pod twoim władaniem. (Nie może być blokowany, chyba że przez co "
+"najmniej dwa stwory.)"
 
 #: ../../CMR.rst:912
 msgid ""
@@ -2922,22 +2914,16 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1025
-#, fuzzy
-#| msgid ""
-#| "Cascade (When you cast this spell, exile cards from the top of your "
-#| "library until you exile a nonland card that costs less. You may cast it "
-#| "without paying its mana cost. Put the exiled cards on the bottom of your "
-#| "library in a random order.)"
 msgid ""
 "Commander spells you cast have cascade. (Whenever you cast a commander, "
 "exile cards from the top of your library until you exile a nonland card with "
 "lesser mana value. You may cast it without paying its mana cost. Put the "
 "exiled cards on the bottom of your library in a random order.)"
 msgstr ""
-"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
-"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
-"płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie twojej "
-"biblioteki.)"
+"Rzucane przez ciebie czary dowódców mają kaskadę. (Ilekroć rzucisz dowódcę, "
+"wygnaj karty z wierzchu twojej biblioteki aż wygnasz nie-lądową kartę o "
+"mniejszym skrócie many. Możesz rzucić ową kartę bez płacenia jej kosztu "
+"many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
 
 #: ../../CMR.rst:1032
 msgid ""
@@ -4155,16 +4141,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1479
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for a Forest card, put that card onto the battlefield, "
 "then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę Lasu, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../CMR.rst:1486
 msgid ""
@@ -4775,11 +4757,6 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1689
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up "
-#| "to two basic land cards, reveal them, put them into your hand, then "
-#| "shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Armillary Sphere: Search your library for up to "
 "two basic land cards, reveal them, put them into your hand, then shuffle."
@@ -8544,19 +8521,14 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:3093
-#, fuzzy
-#| msgid ""
-#| "Whenever Zur the Enchanter attacks, you may search your library for an "
-#| "enchantment card with converted mana cost 3 or less and put it onto the "
-#| "battlefield. If you do, shuffle your library."
 msgid ""
 "Whenever Zur the Enchanter attacks, you may search your library for an "
 "enchantment card with mana value 3 or less, put it onto the battlefield, "
 "then shuffle."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz wyszukać w twojej bibliotece kartę uroku "
-"o skrócie many 3 lub mniejszym i umieść ją na polu bitwy. Jeśli tak zrobisz, "
-"przetasuj."
+"o skrócie many 3 lub mniejszym, umieścić ją na polu bitwy, po czym "
+"przetasować."
 
 #: ../../CMR.rst:3102
 msgid ""

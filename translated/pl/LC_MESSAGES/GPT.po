@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 22:13+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gpt/pl/>\n"
 "Language: pl\n"
@@ -97,14 +97,12 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:31
-#, fuzzy
-#| msgid ""
-#| "|mana_w|, Sacrifice a creature: Target creature can't attack this turn."
 msgid ""
 "|mana_x|, |tap|: Each creature with mana value X can't attack or block this "
 "turn."
 msgstr ""
-"|mana_w|, poświęć stwora: Wskazany stwór nie może atakować w tej turze."
+"|mana_x|, |tap|: Każdy stwór o skrócie many X nie może atakować ani blokować "
+"w tej turze."
 
 #: ../../GPT.rst:36
 msgid ""
@@ -897,14 +895,12 @@ msgid ""
 msgstr ""
 
 #: ../../GPT.rst:337
-#, fuzzy
-#| msgid ""
-#| "|mana_w|, Sacrifice a creature: Target creature can't attack this turn."
 msgid ""
 "|mana_b|, Sacrifice a creature: Destroy each creature with the same mana "
 "value as the sacrificed creature."
 msgstr ""
-"|mana_w|, poświęć stwora: Wskazany stwór nie może atakować w tej turze."
+"|mana_b|, poświęć stwora: Zniszcz każdego stwora o tym samym skrócie many co "
+"poświęcony stwór."
 
 #: ../../GPT.rst:346
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -2166,17 +2166,13 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:705
-#, fuzzy
-#| msgid ""
-#| "When Mortuary Mire enters the battlefield, you may put target creature "
-#| "card from your graveyard on top of your library."
 msgid ""
 "When Phyrexian Delver enters the battlefield, return target creature card "
 "from your graveyard to the battlefield. You lose life equal to that card's "
 "mana value."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
-"twojego cmentarza na wierzchu twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy. Strać życia równe skrótowi many owej karty."
 
 #: ../../C18.rst:714
 msgid ""
@@ -2496,18 +2492,15 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:811
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle "
-#| "your library."
 msgid ""
 "When Borderland Explorer enters the battlefield, each player may discard a "
 "card. Each player who discarded a card this way may search their library for "
 "a basic land card, reveal it, put it into their hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może odrzucić kartę. "
+"Każdy gracz, który odrzucił kartę w ten sposób może wyszukać w swojej "
+"bibliotece kartę bazowego lądu, ujawnić ją, umieścić ją w swojej ręce, po "
+"czym przetasować."
 
 #: ../../C18.rst:816
 msgid ""
@@ -2798,16 +2791,12 @@ msgid "As an additional cost to cast this spell, sacrifice a land."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../C18.rst:907
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, put them onto the "
-#| "battlefield tapped, then shuffle your library."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
 "Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
-"je przekręcone na polu bitwy, po czym przetasuj."
+"je na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:914
 msgid ""
@@ -2976,15 +2965,11 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:961
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:966
@@ -4640,17 +4625,12 @@ msgid "Krosan Verge enters the battlefield tapped."
 msgstr ""
 
 #: ../../C18.rst:1579
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a "
-#| "basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
+"kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1588
 msgid ""
@@ -4729,16 +4709,12 @@ msgid "Mountain Valley enters the battlefield tapped."
 msgstr ""
 
 #: ../../C18.rst:1615
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
 "Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Góry lub Lasu, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1624
 msgid ""
@@ -4851,16 +4827,12 @@ msgid "Rocky Tar Pit enters the battlefield tapped."
 msgstr ""
 
 #: ../../C18.rst:1659
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Bagna lub Góry, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../C18.rst:1666
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -965,10 +965,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:305
-#, fuzzy
-#| msgid ""
-#| "You may exile a blue card with converted mana cost X from your hand "
-#| "rather than pay this spell's mana cost."
 msgid ""
 "You may exile a blue card with mana value X from your hand rather than pay "
 "this spell's mana cost."
@@ -977,8 +973,6 @@ msgstr ""
 "kartę o skrócie many X."
 
 #: ../../UMA.rst:307
-#, fuzzy
-#| msgid "Counter target spell if its converted mana cost is X."
 msgid "Counter target spell if its mana value is X."
 msgstr "Skontruj wskazany czar jeśli jego skrót many to X."
 
@@ -2989,10 +2983,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:957
-#, fuzzy
-#| msgid ""
-#| "You may exile a green card with converted mana cost X from your hand "
-#| "rather than pay this spell's mana cost."
 msgid ""
 "You may exile a green card with mana value X from your hand rather than pay "
 "this spell's mana cost."
@@ -3479,11 +3469,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1127
-#, fuzzy
-#| msgid ""
-#| "Reveal the top three cards of your library and put one of them into your "
-#| "hand. You gain life equal to that card's converted mana cost. Put all "
-#| "other cards revealed this way into your graveyard."
 msgid ""
 "Reveal the top three cards of your library and put one of them into your "
 "hand. You gain life equal to that card's mana value. Put all other cards "
@@ -3521,11 +3506,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1139
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control attacks alone, you may search your "
-#| "library for an Aura card that could enchant that creature, put it onto "
-#| "the battlefield attached to that creature, then shuffle your library."
 msgid ""
 "Whenever a creature you control attacks alone, you may search your library "
 "for an Aura card that could enchant that creature, put it onto the "
@@ -3554,11 +3534,6 @@ msgid ""
 msgstr ""
 
 #: ../../UMA.rst:1147
-#, fuzzy
-#| msgid ""
-#| "Return target card from your graveyard to your hand. If you return a "
-#| "nonland card to your hand this way, Vengeful Rebirth deals damage equal "
-#| "to that card's converted mana cost to any target."
 msgid ""
 "Return target card from your graveyard to your hand. If you return a nonland "
 "card to your hand this way, Vengeful Rebirth deals damage equal to that "

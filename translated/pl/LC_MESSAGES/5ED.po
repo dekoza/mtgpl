@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 21:56+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -1533,7 +1533,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../5ED.rst:539
 msgid "As Phantasmal Terrain enters the battlefield, choose a basic land type."
-msgstr ""
+msgstr "Umieszczając ten ląd na polu bitwy, wybierz typ bazowego lądu."
 
 #: ../../5ED.rst:541
 msgid "Enchanted land is the chosen type."
@@ -2713,16 +2713,12 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:971
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Target player discards a card. Activate this ability "
-#| "only during your turn."
 msgid ""
 "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand "
 "and discards a creature card at random. Activate only during your turn."
 msgstr ""
-"|mana_3|, |tap|: Wskazany gracz odrzuca kartę. Możesz aktywować tylko w "
-"twojej turze."
+"|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Wskazany przeciwnik ujawnia swoją "
+"rękę i odrzuca losową kartę stwora. Możesz aktywować tylko w twojej turze."
 
 #: ../../5ED.rst:976
 msgid ""
@@ -3091,6 +3087,8 @@ msgid ""
 "Destroy target artifact with mana value X. It can't be regenerated. Detonate "
 "deals X damage to that artifact's controller."
 msgstr ""
+"Zniszcz wskazany artefakt o skrócie many X. Nie może on zregenerować. Ten "
+"czar zadaje władcy owego artefaktu X obrażeń."
 
 #: ../../5ED.rst:1120
 msgid ""
@@ -3831,6 +3829,8 @@ msgid ""
 "Destroy target Wall. It can't be regenerated. Word of Blasting deals damage "
 "equal to that Wall's mana value to the Wall's controller."
 msgstr ""
+"Zniszcz wskazaną Ścianę. Nie może ona zregenerować. Ten czar zadaje władcy "
+"owej Ściany obrażenia równe jej skrótowi many."
 
 #: ../../5ED.rst:1396
 msgid ""
@@ -3967,14 +3967,12 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1449
-#, fuzzy
-#| msgid ""
-#| "Destroy target artifact. You gain life equal to its converted mana cost."
 msgid ""
 "Destroy target artifact. It can't be regenerated. That artifact's controller "
 "gains life equal to its mana value."
 msgstr ""
-"Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
+"Zniszcz wskazany artefakt. Nie może on zregenerować. Władca owego artefaktu "
+"zyskuje życia równej jego skrótowi many."
 
 #: ../../5ED.rst:1454
 msgid ""
@@ -4315,13 +4313,12 @@ msgid ""
 msgstr ""
 
 #: ../../5ED.rst:1581
-#, fuzzy
 msgid ""
 "Search your library for a Forest card, put that card onto the battlefield, "
 "then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę Lasu, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../5ED.rst:1586
 msgid ""

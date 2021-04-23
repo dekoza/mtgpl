@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:44+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -350,19 +350,14 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:113
-#, fuzzy
-#| msgid ""
-#| "When Ranger of Eos enters the battlefield, you may search your library "
-#| "for up to two creature cards with converted mana cost 1 or less, reveal "
-#| "them, and put them into your hand. If you do, shuffle your library."
 msgid ""
 "When Ranger of Eos enters the battlefield, you may search your library for "
 "up to two creature cards with mana value 1 or less, reveal them, put them "
 "into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je "
-"i umieścić w twojej ręce. Jeśli tak zrobisz, przetasuj."
+"co najwyżej dwie karty stworów o skrótach many 1 lub mniejszych, ujawnij je, "
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../ALA.rst:122
 msgid ""
@@ -894,16 +889,12 @@ msgid "+1: Untap up to two target artifacts."
 msgstr "+1: Odkręć co najwyżej dwa wskazane artefakty."
 
 #: ../../ALA.rst:313
-#, fuzzy
-#| msgid ""
-#| "−X: Search your library for an artifact card with converted mana cost X "
-#| "or less and put it onto the battlefield. Then shuffle your library."
 msgid ""
 "−X: Search your library for an artifact card with mana value X or less, put "
 "it onto the battlefield, then shuffle."
 msgstr ""
 "–X: Wyszukaj w twojej bibliotece kartę artefaktu o skrócie many X lub "
-"mniejszym i umieść ją na polu bitwy. Następnie przetasuj."
+"mniejszym, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:315
 msgid ""
@@ -1027,17 +1018,12 @@ msgid ""
 msgstr ""
 
 #: ../../ALA.rst:353
-#, fuzzy
-#| msgid ""
-#| "When Corpse Connoisseur enters the battlefield, you may search your "
-#| "library for a creature card and put that card into your graveyard. If you "
-#| "do, shuffle your library."
 msgid ""
 "When Corpse Connoisseur enters the battlefield, you may search your library "
 "for a creature card, put that card into your graveyard, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę stwora i umieścić ją w twoim cmentarzu. Jeśli tak zrobisz, przetasuj."
+"kartę stwora, umieścić ją w twoim cmentarzu, po czym przetasować."
 
 #: ../../ALA.rst:355
 msgid ""
@@ -2059,6 +2045,8 @@ msgid ""
 "Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X "
 "is that spell's mana value."
 msgstr ""
+"Ilekroć rzucisz czar, ten stwór dostaje do końca tury +X/+X, gdzie X jest "
+"skrótem many owego czaru."
 
 #: ../../ALA.rst:716
 msgid ""

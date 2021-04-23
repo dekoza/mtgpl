@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -1379,18 +1379,12 @@ msgstr ""
 "Podbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |mana_r|.)"
 
 #: ../../C15.rst:477
-#, fuzzy
-#| msgid ""
-#| "Urza's Rage deals 3 damage to any target. If this spell was kicked, "
-#| "instead it deals 10 damage to that permanent or player and the damage "
-#| "can't be prevented."
 msgid ""
 "Destroy target artifact or enchantment. If this spell was kicked, it deals "
 "damage equal to that permanent's mana value to target creature."
 msgstr ""
-"Ten czar zadaje 3 obrażenia w dowolnie wskazany cel. Jeśli ten czar został "
-"podbity, zamiast tego zadaje on owemu permanentowi lub graczowi 10 obrażeń, "
-"których nie można zażegnać."
+"Zniszcz wskazany artefakt lub urok. Jeśli ten czar został podbity, zadaje on "
+"wskazanemu stworowi obrażenia równe skrótowi many owego permanentu."
 
 #: ../../C15.rst:482
 msgid ""
@@ -3435,15 +3429,11 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1123
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C15.rst:1128
@@ -3578,16 +3568,12 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1163
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "When Viridian Emissary dies, you may search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj."
+"Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę bazowego "
+"lądu, umieścić ją przekręconą na polu bitwy, po czym przetasować."
 
 #: ../../C15.rst:1168
 msgid ""
@@ -4642,16 +4628,12 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1529
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../C15.rst:1536
 msgid ""

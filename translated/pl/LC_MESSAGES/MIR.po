@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-04-21 18:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -342,14 +342,12 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:111
-#, fuzzy
-#| msgid ""
-#| "Destroy target artifact. You gain life equal to its converted mana cost."
 msgid ""
 "Counter target artifact or enchantment spell. Its controller gains life "
 "equal to its mana value."
 msgstr ""
-"Zniszcz wskazany artefakt. Zyskaj tyle żyć, ile wynosi jego skrót many."
+"Skontruj wskazany czar artefaktu lub uroku. Jeśli władca zyskuje życia równe "
+"jego skrótowi many."
 
 #: ../../MIR.rst:116
 msgid ""
@@ -472,18 +470,14 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../MIR.rst:155
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Return Hammer of Bogardan from "
-#| "your graveyard to your hand. Activate this ability only during your "
-#| "upkeep."
 msgid ""
 "|mana_w|, |tap|: Return Mtenda Griffin to its owner's hand and return target "
 "Griffin card from your graveyard to your hand. Activate only during your "
 "upkeep."
 msgstr ""
-"|mana_2|\\ |mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
-"cmentarza do twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
+"|mana_w|, |tap|: Przywróć tego stwora do ręki właściciela i przywróć "
+"wskazaną kartę Gryfa z twojego cmentarza do twojej ręki. Możesz aktywować "
+"tylko w twoim kroku utrzymania."
 
 #: ../../MIR.rst:160
 msgid ""
@@ -856,12 +850,12 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:303
-#, fuzzy
-#| msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
 msgid ""
 "|mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate only once "
 "each turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr ""
+"|mana_u|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować tylko raz "
+"na turę."
 
 #: ../../MIR.rst:308
 msgid ""
@@ -2723,16 +2717,12 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:987
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, |tap|: Tap target creature. Abyssal Hunter deals damage equal "
-#| "to Abyssal Hunter's power to that creature."
 msgid ""
 "|mana_r|, |tap|: Destroy target artifact. That artifact deals damage equal "
 "to its mana value to Goblin Tinkerer."
 msgstr ""
-"|mana_b|, |tap|: Przekręć wskazanego stwora. Niniejszy stwór zadaje owemu "
-"obrażenia równe swojej sile."
+"|mana_r|, |tap|: Zniszcz wskazany artefakt. Ów artefakt zadaje temu stworowi "
+"obrażenia równe swojemu skrótowi many."
 
 #: ../../MIR.rst:994
 msgid ""
@@ -3778,16 +3768,12 @@ msgid ""
 msgstr ""
 
 #: ../../MIR.rst:1367
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact or enchantment card and reveal that "
-#| "card. Shuffle your library, then put the card on top of it."
 msgid ""
 "Search your library for a creature card, reveal it, then shuffle and put the "
 "card on top."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę artefaktu lub uroku i ujawnij ją. "
-"Przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
+"Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, po czym przetasuj i "
+"umieść ją na wierzchu."
 
 #: ../../MIR.rst:1374
 msgid ""
@@ -4766,16 +4752,12 @@ msgid "Bad River enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1721
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1728
 msgid ""
@@ -4800,16 +4782,12 @@ msgid "Flood Plain enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1733
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Flood Plain: Search your library for a Plains or Island "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Równiny lub "
+"Wyspy, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1740
 msgid ""
@@ -4823,16 +4801,12 @@ msgid "Grasslands enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1739
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu lub Równiny, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1746
 msgid ""
@@ -4846,16 +4820,12 @@ msgid "Mountain Valley enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1745
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
 "Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Góry lub Lasu, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1752
 msgid ""
@@ -4869,16 +4839,12 @@ msgid "Rocky Tar Pit enters the battlefield tapped."
 msgstr ""
 
 #: ../../MIR.rst:1751
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Bagna lub Góry, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MIR.rst:1760
 msgid ""
