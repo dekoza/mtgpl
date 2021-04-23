@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-23 09:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -491,6 +491,9 @@ msgid ""
 "card exiled this way, copy it, and you may cast the copy without paying its "
 "mana cost. Exile Mizzix's Mastery."
 msgstr ""
+"Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza. Skopiuj "
+"każdą kartę wygnaną w ten sposób. Możesz rzucić owe kopie bez płacenia ich "
+"kosztów many. Wygnaj niniejszy czar."
 
 #: ../../C15.rst:173
 msgid ""
@@ -2401,18 +2404,13 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:795
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2, has intimidate, and can't attack you or a "
-#| "planeswalker you control. (A creature with intimidate can't be blocked "
-#| "except by artifact creatures and/or creatures that share a color with it.)"
 msgid ""
 "Enchanted creature gets +2/+2, has intimidate, and can't attack you or "
 "planeswalkers you control. (A creature with intimidate can't be blocked "
 "except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
 "Zauroczony stwór dostaje +2/+2, ma zastraszanie i nie może atakować ciebie "
-"ani wędrowca pod twoim władaniem. (Stwór z zastraszaniem nie może być "
+"ani wędrowców pod twoim władaniem. (Stwór z zastraszaniem nie może być "
 "blokowany, chyba że przez stwory artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../C15.rst:802
@@ -3392,19 +3390,16 @@ msgstr ""
 "opłacenia innych kosztów.)"
 
 #: ../../C15.rst:1115
-#, fuzzy
-#| msgid ""
-#| "When Solemn Simulacrum enters the battlefield, you may search your "
-#| "library for a basic land card, put that card onto the battlefield tapped, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield, then shuffle. If this spell was kicked, instead search your "
 "library for up to two basic land cards, put them onto the battlefield, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją polu bitwy, po "
+"czym przetasuj. Jeśli ten czar został podbity, zamiast tego wyszukaj w "
+"twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść je na polu "
+"bitwy, po czym przetasuj."
 
 #: ../../C15.rst:1120
 msgid ""
