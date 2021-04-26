@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-14 10:31+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pcy/pl/>\n"
 "Language: pl\n"
@@ -610,16 +610,12 @@ msgid ""
 msgstr ""
 
 #: ../../PCY.rst:209
-#, fuzzy
-#| msgid ""
-#| "Sacrifice Spiketail Hatchling: Counter target spell unless its controller "
-#| "pays |mana_1|."
 msgid ""
 "Counter target spell unless its controller pays |mana_x|, where X is its "
 "mana value."
 msgstr ""
-"Poświęć tego stwora: Skontruj wskazany czar, chyba że jego władca zapłaci |"
-"mana_1|."
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|, gdzie X jest "
+"jego skrótem many."
 
 #: ../../PCY.rst:214
 msgid ""

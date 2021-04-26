@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -376,19 +376,14 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:117
-#, fuzzy
-#| msgid ""
-#| "Whenever Sun Titan enters the battlefield or attacks, you may return "
-#| "target permanent card with converted mana cost 3 or less from your "
-#| "graveyard to the battlefield."
 msgid ""
 "|mana_3|, Remove three counters from among creatures you control: Mill three "
 "cards, then return a permanent card with mana value 3 or less from your "
 "graveyard to the battlefield."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz przywrócić "
-"wskazaną kartę permanentu o skrócie many 3 lub mniejszy z twojego cmentarza "
-"na pole bitwy."
+"|mana_3|, usuń trzy znaczniki spośród stworów pod twoim władaniem: Zmiel "
+"trzy karty, po czym przywróć kartę permanentu o skrócie many 3 lub mniejszym "
+"z twojego cmentarza na pole bitwy."
 
 #: ../../C20.rst:126
 msgid ""
@@ -547,20 +542,16 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:175
-#, fuzzy
-#| msgid ""
-#| "When Knight of the White Orchid enters the battlefield, if an opponent "
-#| "controls more lands than you, you may search your library for a Plains "
-#| "card, put it onto the battlefield, then shuffle your library."
 msgid ""
 "When Cartographer's Hawk deals combat damage to a player who controls more "
 "lands than you, return it to its owner's hand. If you do, you may search "
 "your library for a Plains card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
-"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"Kiedy ten stwór zada obrażenia bojowe graczowi mającemu we władaniu więcej "
+"lądów niż ty, przywróć go do ręki właściciela. Jeśli tak zrobisz, możesz "
+"wyszukać w twojej bibliotece kartę Równiny, umieścić ją przekręconą na polu "
+"bitwy, po czym przetasować."
 
 #: ../../C20.rst:184
 msgid ""
@@ -866,18 +857,12 @@ msgid "Daring Fiendbonder attacks each combat if able."
 msgstr ""
 
 #: ../../C20.rst:287
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_b|\\ |mana_b|, Exile Soul of Innistrad from your "
-#| "graveyard: Return up to three target creature cards from your graveyard "
-#| "to your hand."
 msgid ""
 "|mana_1|\\ |mana_b|, Exile Daring Fiendbonder from your graveyard: Put an "
 "indestructible counter on target creature. Activate only as a sorcery."
 msgstr ""
-"|mana_3|\\ |mana_b|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: "
-"Przywróć co najwyżej trzy wskazane karty stworów z twojego cmentarza do "
-"twojej ręki."
+"|mana_1|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Umieść znacznik "
+"niezniszczalności na wskazanym stworze. Aktywuj tylko jako obrzęd."
 
 #: ../../C20.rst:294
 msgid ""
@@ -1725,6 +1710,9 @@ msgid ""
 "Stag: Create a 4/4 white Elemental creature token with flying. Activate only "
 "during your turn."
 msgstr ""
+"|mana_2|\\ |mana_w|, usuń cztery znaczniki kopyta z tego uroku: Stwórz żeton "
+"białego stwora Żywiołak 4/4 z lataniem. Możesz aktywować tylko w twojej "
+"turze."
 
 #: ../../C20.rst:590
 msgid ""

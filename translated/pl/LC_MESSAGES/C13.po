@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2019,19 +2019,15 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:605
-#, fuzzy
-#| msgid ""
-#| "When Farhaven Elf enters the battlefield, you may search your library for "
-#| "a basic land card, put it onto the battlefield tapped, then shuffle your "
-#| "library."
 msgid ""
 "Destroy all nonbasic lands. For each land destroyed this way, its controller "
 "may search their library for a basic land card and put it onto the "
 "battlefield. Then each player who searched their library this way shuffles."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
-"przetasuj."
+"Zniszcz wszystkie niebazowe lądy. Za każdy ląd zniszczony w ten sposób, jego "
+"władca może wyszukać w swojej bibliotece kartę bazowego lądu i umieścić ją "
+"na polu bitwy. Następnie każdy gracz, który przeszukał w ten sposób swoją "
+"bibliotekę, tasuje."
 
 #: ../../C13.rst:610
 msgid ""
@@ -3179,17 +3175,12 @@ msgstr ""
 
 # 01b70e4565ca4197ade1b8e9730ca3f6
 #: ../../C13.rst:963
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for a Plains, Island, Swamp, Mountain, or Forest card "
 "and put that card onto the battlefield. Then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj."
+"Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna, Góry lub Lasu i "
+"umieść ją na polu bitwy. Następnie przetasuj."
 
 #: ../../C13.rst:970
 msgid ""
@@ -3200,17 +3191,12 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:967
-#, fuzzy
-#| msgid ""
-#| "When you cycle Krosan Tusker, you may search your library for a basic "
-#| "land card, reveal that card, put it into your hand, then shuffle your "
-#| "library. (Do this before you draw.)"
 msgid ""
 "Search your library for a basic land card, reveal that card, put it into "
 "your hand, then shuffle."
 msgstr ""
-"Wyspocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Wyspy, ujawnij ją, umieść w twojej ręce, po czym przetasuj.)"
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 # d5d360de3d3442fd866786dd69f9c070
 #: ../../C13.rst:969
@@ -3236,6 +3222,12 @@ msgid ""
 "search your library for a land card and put it onto the battlefield. Then "
 "each player who searched a library this way shuffles."
 msgstr ""
+"Kusząca oferta — Wyszukaj w twojej bibliotece karty lądu i umieść ją na polu "
+"bitwy. Każdy przeciwnik może wyszukać w swojej bibliotece kartę lądu i "
+"umieścić ją na polu bitwy. Za każdego przeciwnika, który przeszukał swoją "
+"bibliotekę w ten sposób, wyszukaj w twojej bibliotece kartę lądu i umieść ją "
+"na polu bitwy. Następnie każdy gracz, który przeszukał w ten sposób swoją "
+"bibliotekę, tasuje."
 
 #: ../../C13.rst:980
 msgid ""
@@ -4979,17 +4971,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1575
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Bant Panorama: Search your library for a basic "
 "Forest, Plains, or Island card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego Lasu, Równiny lub Wyspy, umieść ją przekręconą na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../C13.rst:1584
 msgid ""
@@ -5166,17 +5155,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1641
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Esper Panorama: Search your library for a basic "
 "Plains, Island, or Swamp card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowej "
+"Równiny, Wyspy lub Bagna, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../C13.rst:1646
 msgid ""
@@ -5306,17 +5292,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1687
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
 "Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowej "
+"Wyspy, Bagna lub Góry, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../C13.rst:1694
 msgid ""
@@ -5400,17 +5383,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1719
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Jund Panorama: Search your library for a basic "
 "Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręcona na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"bazowego Bagna, Góry lub Lasu, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../C13.rst:1726
 msgid ""
@@ -5592,17 +5572,14 @@ msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1793
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
 "Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowej "
+"Góry, Lasu lub Równiny, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../C13.rst:1802
 msgid ""

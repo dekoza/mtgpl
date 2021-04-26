@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-18 21:25+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tor/pl/>\n"
 "Language: pl\n"
@@ -2038,17 +2038,13 @@ msgstr ""
 "je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../TOR.rst:711
-#, fuzzy
-#| msgid ""
-#| "Threshold — As long as seven or more cards are in your graveyard, Pardic "
-#| "Arsonist has \"When Pardic Arsonist enters the battlefield, it deals 3 "
-#| "damage to any target.\""
 msgid ""
 "Threshold — If seven or more cards are in your graveyard, instead search "
 "your library for up to three basic land cards, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"Próg — Jeśli w twoim cmentarzu jest co najmniej siedem kart, zamiast tego "
+"wyszukaj w twojej bibliotece co najwyżej trzech kart bazowych lądów, umieść "
 "je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../TOR.rst:718

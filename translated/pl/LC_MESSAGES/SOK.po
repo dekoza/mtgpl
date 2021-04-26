@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sok/pl/>\n"
 "Language: pl\n"
@@ -1096,16 +1096,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOK.rst:377
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "|mana_4|\\ |mana_b|, |tap|: Target player discards two cards. Activate only "
 "as a sorcery."
 msgstr ""
-"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj tylko jako obrzęd.)"
+"|mana_4|\\ |mana_b|, |tap|: Wskazany gracz odrzuca dwie karty. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../SOK.rst:379
 msgid ""

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -603,18 +603,14 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:209
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "Search your library for up to X basic land cards, where X is the greatest "
 "power among creatures you control. Put those cards onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
-"jedną przekręconą na polu bitwy, a drugą w twojej ręce. Następnie przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"największą siłą pośród stworów pod twoim władaniem. Umieść owe karty "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../C17.rst:216
 msgid ""
@@ -4352,17 +4348,14 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1509
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Grixis Panorama: Search your library for a basic "
 "Island, Swamp, or Mountain card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowej "
+"Wyspy, Bagna lub Góry, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../C17.rst:1518
 msgid ""

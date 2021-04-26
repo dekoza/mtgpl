@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:39+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znc/pl/>\n"
 "Language: pl\n"
@@ -1224,17 +1224,13 @@ msgstr ""
 "je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:369
-#, fuzzy
-#| msgid ""
-#| "When Springbloom Druid enters the battlefield, you may sacrifice a land. "
-#| "If you do, search your library for up to two basic land cards, put them "
-#| "onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Threshold — If seven or more cards are in your graveyard, instead search "
 "your library for up to three basic land cards, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"Próg — Jeśli w twoim cmentarzu jest co najmniej siedem kart, zamiast tego "
+"wyszukaj w twojej bibliotece co najwyżej trzech kart bazowych lądów, umieść "
 "je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:376
@@ -1332,19 +1328,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:399
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your "
-#| "library for up to two basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle your library."
 msgid ""
 "Remove three quest counters from Khalni Heart Expedition and sacrifice it: "
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
-"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj."
+"Usuń trzy znaczniki wprawy z tego uroku i poświęć go: Wyszukaj w twojej "
+"bibliotece co najwyżej dwie karty bazowych lądów, umieść je przekręcone na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../ZNC.rst:404
 msgid ""
@@ -1621,17 +1612,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:483
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards, reveal those cards, "
-#| "and put one onto the battlefield tapped and the other into your hand. "
-#| "Then shuffle your library."
 msgid ""
 "When Yavimaya Elder dies, you may search your library for up to two basic "
 "land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
+"Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece co najwyżej dwie "
+"karty lądów, ujawnić je, umieścić je w twojej ręce, po czym przetasować."
 
 #: ../../ZNC.rst:485
 msgid "|mana_2|, Sacrifice Yavimaya Elder: Draw a card."
@@ -2476,17 +2462,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNC.rst:803
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
 "Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowej "
+"Góry, Lasu lub Równiny, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../ZNC.rst:812
 msgid ""

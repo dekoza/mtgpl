@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ody/pl/>\n"
 "Language: pl\n"
@@ -396,11 +396,6 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:133
-#, fuzzy
-#| msgid ""
-#| "Threshold — |tap|: Prevent the next 4 damage that would be dealt to any "
-#| "target this turn. Activate this ability only if seven or more cards are "
-#| "in your graveyard."
 msgid ""
 "Threshold — |tap|: Prevent the next 4 damage that would be dealt to any "
 "target this turn. Activate only if seven or more cards are in your graveyard."
@@ -599,10 +594,6 @@ msgid "|mana_w|, |tap|: Tap target creature."
 msgstr "|mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../ODY.rst:197
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_w|\\ |mana_w|, |tap|: Tap two target creatures. "
-#| "Activate this ability only if seven or more cards are in your graveyard."
 msgid ""
 "Threshold — |mana_w|\\ |mana_w|, |tap|: Tap two target creatures. Activate "
 "only if seven or more cards are in your graveyard."
@@ -1686,10 +1677,6 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:597
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to three creature cards, put them into your "
-#| "graveyard, then shuffle your library."
 msgid ""
 "Search your library for up to three creature cards, put them into your "
 "graveyard, then shuffle."
@@ -1705,20 +1692,14 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:601
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_1|\\ |mana_b|, |tap|, Exile two cards from your "
-#| "graveyard: Target player discards a card. Activate this ability only any "
-#| "time you could cast a sorcery and only if seven or more cards are in your "
-#| "graveyard."
 msgid ""
 "Threshold — |mana_1|\\ |mana_b|, |tap|, Exile two cards from your graveyard: "
 "Target player discards a card. Activate only as a sorcery and only if seven "
 "or more cards are in your graveyard."
 msgstr ""
 "Próg — |mana_1|\\ |mana_b|, |tap|, wygnaj dwie karty z twojego cmentarza: "
-"Wskazany gracz odrzuca kartę. Aktywuj tylko jako obrzęd i tylko gdy w twoim "
-"cmentarzu jest co najmniej siedem kart."
+"Wskazany gracz odrzuca kartę. Możesz aktywować tylko jako obrzęd i tylko gdy "
+"w twoim cmentarzu jest co najmniej siedem kart."
 
 #: ../../ODY.rst:608
 msgid ""
@@ -2076,11 +2057,6 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:721
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_3|\\ |mana_b|: Infected Vermin deals 3 damage to each "
-#| "creature and each player. Activate this ability only if seven or more "
-#| "cards are in your graveyard."
 msgid ""
 "Threshold — |mana_3|\\ |mana_b|: Infected Vermin deals 3 damage to each "
 "creature and each player. Activate only if seven or more cards are in your "
@@ -2642,11 +2618,6 @@ msgid "|mana_1|\\ |mana_r|, |tap|: Chainflinger deals 1 damage to any target."
 msgstr ""
 
 #: ../../ODY.rst:911
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_2|\\ |mana_r|, |tap|: Chainflinger deals 2 damage to "
-#| "any target. Activate this ability only if seven or more cards are in your "
-#| "graveyard."
 msgid ""
 "Threshold — |mana_2|\\ |mana_r|, |tap|: Chainflinger deals 2 damage to any "
 "target. Activate only if seven or more cards are in your graveyard."
@@ -3517,16 +3488,12 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:1197
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Diligent Farmhand: Search your library for a "
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj."
+"|mana_1|\\ |mana_g|, poświęć tego stwora: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ODY.rst:1199
 msgid ""
@@ -3659,10 +3626,6 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:1253
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_1|\\ |mana_g|: Regenerate Krosan Avenger. Activate this "
-#| "ability only if seven or more cards are in your graveyard."
 msgid ""
 "Threshold — |mana_1|\\ |mana_g|: Regenerate Krosan Avenger. Activate only if "
 "seven or more cards are in your graveyard."
@@ -3805,17 +3768,14 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:1295
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card and put that card onto the "
-#| "battlefield tapped. Then shuffle your library."
 msgid ""
 "Each player may search their library for up to X basic land cards and put "
 "them onto the battlefield tapped. Then each player who searched their "
 "library this way shuffles."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
-"polu bitwy. Następnie przetasuj."
+"Każdy gracz może wyszukać w swojej bibliotece co najwyżej X kart bazowych "
+"lądów i umieścić je przekręcone na polu bitwy. Następnie każdy gracz, który "
+"przeszukał w ten sposób swoją bibliotekę, tasuje."
 
 #: ../../ODY.rst:1302
 msgid ""
@@ -3924,16 +3884,12 @@ msgid ""
 msgstr ""
 
 #: ../../ODY.rst:1335
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to three creature cards, put them into your "
-#| "graveyard, then shuffle your library."
 msgid ""
 "Discard any number of cards. Search your library for up to that many basic "
 "land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej trzy karty stworów, umieść je w "
-"twoim cmentarzu, po czym przetasuj."
+"Odrzuć dowolną liczbę kart. Wyszukaj w twojej bibliotece co najwyżej tyle "
+"samo kart bazowych lądów, umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../ODY.rst:1342
 msgid ""
@@ -4613,11 +4569,6 @@ msgid "|tap|: Add |mana_r|. Barbarian Ring deals 1 damage to you."
 msgstr ""
 
 #: ../../ODY.rst:1581
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_r|, |tap|, Sacrifice Barbarian Ring: It deals 2 damage "
-#| "to any target. Activate this ability only if seven or more cards are in "
-#| "your graveyard."
 msgid ""
 "Threshold — |mana_r|, |tap|, Sacrifice Barbarian Ring: It deals 2 damage to "
 "any target. Activate only if seven or more cards are in your graveyard."
@@ -4657,11 +4608,6 @@ msgid "|tap|: Add |mana_b|. Cabal Pit deals 1 damage to you."
 msgstr ""
 
 #: ../../ODY.rst:1595
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_b|, |tap|, Sacrifice Cabal Pit: Target creature gets "
-#| "-2/-2 until end of turn. Activate this ability only if seven or more "
-#| "cards are in your graveyard."
 msgid ""
 "Threshold — |mana_b|, |tap|, Sacrifice Cabal Pit: Target creature gets -2/-2 "
 "until end of turn. Activate only if seven or more cards are in your "
@@ -4683,11 +4629,6 @@ msgid "|tap|: Add |mana_g|. Centaur Garden deals 1 damage to you."
 msgstr ""
 
 #: ../../ODY.rst:1601
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_g|, |tap|, Sacrifice Centaur Garden: Target creature "
-#| "gets +3/+3 until end of turn. Activate this ability only if seven or more "
-#| "cards are in your graveyard."
 msgid ""
 "Threshold — |mana_g|, |tap|, Sacrifice Centaur Garden: Target creature gets "
 "+3/+3 until end of turn. Activate only if seven or more cards are in your "
@@ -4709,11 +4650,6 @@ msgid "|tap|: Add |mana_u|. Cephalid Coliseum deals 1 damage to you."
 msgstr ""
 
 #: ../../ODY.rst:1607
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_u|, |tap|, Sacrifice Cephalid Coliseum: Target player "
-#| "draws three cards, then discards three cards. Activate this ability only "
-#| "if seven or more cards are in your graveyard."
 msgid ""
 "Threshold — |mana_u|, |tap|, Sacrifice Cephalid Coliseum: Target player "
 "draws three cards, then discards three cards. Activate only if seven or more "
@@ -4784,10 +4720,6 @@ msgid "|tap|: Add |mana_w|. Nomad Stadium deals 1 damage to you."
 msgstr ""
 
 #: ../../ODY.rst:1633
-#, fuzzy
-#| msgid ""
-#| "Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. "
-#| "Activate this ability only if seven or more cards are in your graveyard."
 msgid ""
 "Threshold — |mana_w|, |tap|, Sacrifice Nomad Stadium: You gain 4 life. "
 "Activate only if seven or more cards are in your graveyard."

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -3432,6 +3432,12 @@ msgid ""
 "search your library for a land card and put it onto the battlefield. Then "
 "each player who searched a library this way shuffles."
 msgstr ""
+"Kusząca oferta — Wyszukaj w twojej bibliotece karty lądu i umieść ją na polu "
+"bitwy. Każdy przeciwnik może wyszukać w swojej bibliotece kartę lądu i "
+"umieścić ją na polu bitwy. Za każdego przeciwnika, który przeszukał swoją "
+"bibliotekę w ten sposób, wyszukaj w twojej bibliotece kartę lądu i umieść ją "
+"na polu bitwy. Następnie każdy gracz, który przeszukał w ten sposób swoją "
+"bibliotekę, tasuje."
 
 #: ../../C19.rst:1080
 msgid ""
@@ -4176,16 +4182,12 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:1315
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Populate. (Create a token that's a "
-#| "copy of a creature token you control.)"
 msgid ""
 "|mana_x|, |tap|: Create a token that's a copy of the exiled card. X is the "
 "mana value of that card."
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Zaludnij. (Stwórz żeton będący kopią "
-"żetonu stwora pod twoim władaniem.)"
+"|mana_x|, |tap|: Stwórz żeton będący kopią wygnanej karty. X jest skrótem "
+"many owej karty."
 
 #: ../../C19.rst:1320
 msgid ""
@@ -4832,17 +4834,14 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:1581
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Naya Panorama: Search your library for a basic "
 "Mountain, Forest, or Plains card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_1|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowej "
+"Góry, Lasu lub Równiny, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../C19.rst:1588
 msgid ""
