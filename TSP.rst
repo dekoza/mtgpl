@@ -1061,10 +1061,10 @@
    All Slivers have "|mana_b|: Regenerate this permanent." (The next time it would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
-:mtgtip:`Subterranean Shambler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9429ec0-ff23-494d-ab1c-b88f3a0dee1b.jpg?1562947735|https://scryfall.com/card/tsp/178/subterranean-shambler?utm_source=api>`
+:mtgtip:`Subterranean Shambler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9429ec0-ff23-494d-ab1c-b88f3a0dee1b.jpg?1618940463|https://scryfall.com/card/tsp/178/subterranean-shambler?utm_source=api>`
    Echo |mana_3|\ |mana_r| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 
-   When Subterranean Shambler enters the battlefield or leaves the battlefield, it deals 1 damage to each creature without flying.
+   When Subterranean Shambler enters or leaves the battlefield, it deals 1 damage to each creature without flying.
 
 
 :mtgtip:`Sudden Shock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d2691ee-8eec-437d-9bc1-113264525fb8.jpg?1562921362|https://scryfall.com/card/tsp/179/sudden-shock?utm_source=api>`

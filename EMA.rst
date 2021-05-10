@@ -10,7 +10,7 @@
 
    Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 
-   When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.
+   When Aven Riftwatcher enters or leaves the battlefield, you gain 2 life.
 
 
 :mtgtip:`Balance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce648aa3-098b-4af0-a433-fd290bc85904.jpg?1580013606|https://scryfall.com/card/ema/2/balance?utm_source=api>`
@@ -709,10 +709,10 @@
    When Keldon Champion enters the battlefield, it deals 3 damage to target player or planeswalker.
 
 
-:mtgtip:`Keldon Marauders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf42524c-97e5-40b2-8a6d-d2a1f0a9eb65.jpg?1580014576|https://scryfall.com/card/ema/136/keldon-marauders?utm_source=api>`
+:mtgtip:`Keldon Marauders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf42524c-97e5-40b2-8a6d-d2a1f0a9eb65.jpg?1618940501|https://scryfall.com/card/ema/136/keldon-marauders?utm_source=api>`
    Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 
-   When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player or planeswalker.
+   When Keldon Marauders enters or leaves the battlefield, it deals 1 damage to target player or planeswalker.
 
 
 :mtgtip:`Kird Ape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e14a5c79-29a3-4415-9b70-b287a474a0e0.jpg?1580014582|https://scryfall.com/card/ema/137/kird-ape?utm_source=api>`
@@ -927,7 +927,7 @@
    Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token.
 
 
-:mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1618695739|https://scryfall.com/card/ema/177/natural-order?utm_source=api>`
+:mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1619461603|https://scryfall.com/card/ema/177/natural-order?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a green creature.
 
    Search your library for a green creature card, put it onto the battlefield, then shuffle.

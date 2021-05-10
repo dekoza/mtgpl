@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-10 22:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../MH2.rst:5
+msgid ":mtgexp:`MH2` Modern Horizons 2"
+msgstr ""
+
+#: ../../MH2.rst:10
+msgid ":mtgtip:`Brainstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10b9a9f6-5be5-47aa-8e2f-576d06c5abb9.jpg?1620398734|https://scryfall.com/card/mh2/223/brainstone?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:9
+msgid "|mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two cards from your hand on top of your library in any order."
+msgstr ""
+
+#: ../../MH2.rst:14
+msgid ":mtgtip:`Diamond Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/317a8ed5-1ec2-4a5d-a606-8c6ba781c8a3.jpg?1620398740|https://scryfall.com/card/mh2/225/diamond-lion?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:13
+msgid "|tap|, Discard your hand, Sacrifice Diamond Lion: Add three mana of any one color. Activate only as an instant."
+msgstr ""
+
+#: ../../MH2.rst:18
+msgid ":mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1620341257|https://scryfall.com/card/mh2/244/arid-mesa?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:17
+msgid "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../MH2.rst:22
+msgid ":mtgtip:`Marsh Flats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42.jpg?1620341288|https://scryfall.com/card/mh2/248/marsh-flats?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:21
+msgid "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../MH2.rst:26
+msgid ":mtgtip:`Misty Rainforest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1620341304|https://scryfall.com/card/mh2/250/misty-rainforest?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:25
+msgid "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../MH2.rst:30
+msgid ":mtgtip:`Scalding Tarn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71e491c5-8c07-449b-b2f1-ffa052e6d311.jpg?1620341321|https://scryfall.com/card/mh2/254/scalding-tarn?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:29
+msgid "|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../MH2.rst:40
+msgid ":mtgtip:`Urza's Saga<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1620414561|https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:33
+msgid "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+msgstr ""
+
+#: ../../MH2.rst:35
+msgid "I — Urza's Saga gains \"|tap|: Add |colorless|.\""
+msgstr ""
+
+#: ../../MH2.rst:37
+msgid "II — Urza's Saga gains \"|mana_2|, |tap|: Create a 0/0 colorless Construct artifact creature token with 'This creature gets +1/+1 for each artifact you control.'\""
+msgstr ""
+
+#: ../../MH2.rst:39
+msgid "III — Search your library for an artifact card with mana cost |mana_0| or |mana_1|, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../MH2.rst:44
+msgid ":mtgtip:`Verdant Catacombs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1620341338|https://scryfall.com/card/mh2/260/verdant-catacombs?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:43
+msgid "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../MH2.rst:48
+msgid ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1620341582|https://scryfall.com/card/mh2/267/counterspell?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:47
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../MH2.rst:53
+msgid ":mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1620346040|https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`"
+msgstr ""
+
+#: ../../MH2.rst:51
+msgid "As Sanctum Prelate enters the battlefield, choose a number."
+msgstr ""
+
+#: ../../MH2.rst:53
+msgid "Noncreature spells with mana value equal to the chosen number can't be cast."
+msgstr ""

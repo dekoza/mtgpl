@@ -17,7 +17,7 @@
    Flying, first strike
 
 
-:mtgtip:`Beskir Shieldmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfc1df84-9c47-444b-9d58-d9c7bed51c66.jpg?1614984539|https://scryfall.com/card/khm/4/beskir-shieldmate?utm_source=api>`
+:mtgtip:`Beskir Shieldmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfc1df84-9c47-444b-9d58-d9c7bed51c66.jpg?1619404383|https://scryfall.com/card/khm/4/beskir-shieldmate?utm_source=api>`
    When Beskir Shieldmate dies, create a 1/1 white Human Warrior creature token.
 
 
@@ -1927,22 +1927,22 @@
    Whenever an Angel you control dies, each other player sacrifices a creature.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cbfbafa-f58f-40b2-a374-68ac35b77d89.jpg?1615605912|https://scryfall.com/card/khm/394/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cbfbafa-f58f-40b2-a374-68ac35b77d89.jpg?1619315289|https://scryfall.com/card/khm/394/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a25a714-c7f3-4697-8b69-8f966b4d370a.jpg?1615605936|https://scryfall.com/card/khm/395/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a25a714-c7f3-4697-8b69-8f966b4d370a.jpg?1619315281|https://scryfall.com/card/khm/395/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f9e61c0-b185-4704-913f-9284ed0ce250.jpg?1615605959|https://scryfall.com/card/khm/396/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f9e61c0-b185-4704-913f-9284ed0ce250.jpg?1619315277|https://scryfall.com/card/khm/396/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69419307-53d5-40d7-82da-cab2e7bfbda4.jpg?1615605984|https://scryfall.com/card/khm/397/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69419307-53d5-40d7-82da-cab2e7bfbda4.jpg?1619315285|https://scryfall.com/card/khm/397/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/771e307c-b2e3-47ac-aac2-59f0c3542fa6.jpg?1615606007|https://scryfall.com/card/khm/398/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/771e307c-b2e3-47ac-aac2-59f0c3542fa6.jpg?1619315272|https://scryfall.com/card/khm/398/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

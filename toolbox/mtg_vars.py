@@ -1,4 +1,6 @@
 expansions = [
+    "MH2",
+    "AFR",
     "10E",
     "2ED",
     "2XM",

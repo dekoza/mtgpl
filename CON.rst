@@ -670,7 +670,7 @@
 :mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/006b5000-2a8f-4020-9dbf-7170da13b54e.jpg?1562799057|https://scryfall.com/card/con/127/sphinx-summoner?utm_source=api>`
    Flying
 
-   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle.
+   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Suicidal Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9375d8c-b429-4349-bc4d-cb08799bdb58.jpg?1562803752|https://scryfall.com/card/con/128/suicidal-charge?utm_source=api>`

@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-10 22:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../AFR.rst:5
+msgid ":mtgexp:`AFR` Adventures in the Forgotten Realms"
+msgstr ""
+
+#: ../../AFR.rst:10
+msgid ":mtgtip:`Portable Hole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1620558378|https://scryfall.com/card/afr/33/portable-hole?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:9
+msgid "When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield."
+msgstr ""
+
+#: ../../AFR.rst:14
+msgid ":mtgtip:`Power Word Kill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.jpg?1620344800|https://scryfall.com/card/afr/114/power-word-kill?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:13
+msgid "Destroy target non-Angel, non-Demon, non-Devil, non-Dragon creature."
+msgstr ""
+
+#: ../../AFR.rst:22
+msgid ":mtgtip:`Vorpal Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1620369326|https://scryfall.com/card/afr/124/vorpal-sword?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:17
+msgid "Equipped creature gets +2/+0 and has deathtouch."
+msgstr ""
+
+#: ../../AFR.rst:19
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|\\ |mana_b|: Until end of turn, Vorpal Sword gains \"Whenever equipped creature deals combat damage to a player, that player loses the game.\""
+msgstr ""
+
+#: ../../AFR.rst:21
+msgid "Equip |mana_b|\\ |mana_b|"
+msgstr ""
+
+#: ../../AFR.rst:28
+msgid ":mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:25
+msgid "When Prosperous Innkeeper enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgstr ""
+
+#: ../../AFR.rst:27
+msgid "Whenever another creature enters the battlefield under your control, you gain 1 life."
+msgstr ""
+
+#: ../../AFR.rst:34
+msgid ":mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1620383489|https://scryfall.com/card/afr/236/tiamat?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:31
+msgid "Flying"
+msgstr ""
+
+#: ../../AFR.rst:33
+msgid "When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle."
+msgstr ""
+
+#: ../../AFR.rst:38
+msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86626d69-78e0-42b9-81ed-fef46e3a89f7.jpg?1620344310|https://scryfall.com/card/afr/265/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:37
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../AFR.rst:42
+msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1afa60b6-cd0d-4c23-af81-88049ea45475.jpg?1620344337|https://scryfall.com/card/afr/269/island?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:41
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../AFR.rst:46
+msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166fc328-20d1-4158-bcb6-3cebcf788ef5.jpg?1620344378|https://scryfall.com/card/afr/273/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:45
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../AFR.rst:50
+msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf9095db-44ad-444b-bd9d-4a06102fe230.jpg?1620344421|https://scryfall.com/card/afr/277/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:49
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../AFR.rst:53
+msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee856e7a-37ee-435c-80e8-d0ac6f15892f.jpg?1620344459|https://scryfall.com/card/afr/281/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:53
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""

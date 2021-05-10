@@ -465,8 +465,8 @@
    Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.
 
 
-:mtgtip:`Raving Oni-Slave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d16271-9302-463b-938d-01dad0c3ce29.jpg?1562495151|https://scryfall.com/card/sok/86/raving-oni-slave?utm_source=api>`
-   When Raving Oni-Slave enters the battlefield or leaves the battlefield, you lose 3 life if you don't control a Demon.
+:mtgtip:`Raving Oni-Slave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d16271-9302-463b-938d-01dad0c3ce29.jpg?1618940455|https://scryfall.com/card/sok/86/raving-oni-slave?utm_source=api>`
+   When Raving Oni-Slave enters or leaves the battlefield, you lose 3 life if you don't control a Demon.
 
 
 :mtgtip:`Razorjaw Oni<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106|https://scryfall.com/card/sok/87/razorjaw-oni?utm_source=api>`

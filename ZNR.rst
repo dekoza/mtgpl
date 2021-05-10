@@ -207,7 +207,7 @@
    Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Prowling Felidar.
 
 
-:mtgtip:`Resolute Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78b82476-4320-4719-9785-af8d68503234.jpg?1604193042|https://scryfall.com/card/znr/35/resolute-strike?utm_source=api>`
+:mtgtip:`Resolute Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78b82476-4320-4719-9785-af8d68503234.jpg?1619795129|https://scryfall.com/card/znr/35/resolute-strike?utm_source=api>`
    Target creature gets +2/+2 until end of turn. If it's a Warrior, you may attach an Equipment you control to it.
 
 

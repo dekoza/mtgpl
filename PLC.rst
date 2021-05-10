@@ -10,7 +10,7 @@
 
    Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 
-   When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.
+   When Aven Riftwatcher enters or leaves the battlefield, you gain 2 life.
 
 
 :mtgtip:`Benalish Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44814da0-3bc8-423d-9b22-3fea123048fa.jpg?1562570693|https://scryfall.com/card/plc/2/benalish-commander?utm_source=api>`
@@ -598,7 +598,7 @@
 :mtgtip:`Keldon Marauders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/677c28db-34d2-4325-99d1-9b689753802f.jpg?1562573379|https://scryfall.com/card/plc/102/keldon-marauders?utm_source=api>`
    Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 
-   When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player or planeswalker.
+   When Keldon Marauders enters or leaves the battlefield, it deals 1 damage to target player or planeswalker.
 
 
 :mtgtip:`Lavacore Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6b2f4de-fc41-4e68-8655-577616b10c7e.jpg?1562583423|https://scryfall.com/card/plc/103/lavacore-elemental?utm_source=api>`
@@ -748,7 +748,7 @@
 :mtgtip:`Deadwood Treefolk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69e69c12-41f3-489c-ba30-2836b978f9dc.jpg?1562573430|https://scryfall.com/card/plc/126/deadwood-treefolk?utm_source=api>`
    Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 
-   When Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.
+   When Deadwood Treefolk enters or leaves the battlefield, return another target creature card from your graveyard to your hand.
 
 
 :mtgtip:`Evolution Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4546059-71fe-43c1-9272-3b054e668e3c.jpg?1562584649|https://scryfall.com/card/plc/127/evolution-charm?utm_source=api>`
