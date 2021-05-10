@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-18 17:09+0200\n"
+"POT-Creation-Date: 2021-05-10 22:34+0200\n"
 "PO-Revision-Date: 2021-04-19 21:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: ../../TSR.rst:10
 msgid ""
 ":mtgtip:`Amrou Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/d/a/da2b6d3a-15e7-4305-9384-3635159cb421.jpg?1616271406|https://"
+"front/d/a/da2b6d3a-15e7-4305-9384-3635159cb421.jpg?1619392457|https://"
 "scryfall.com/card/tsr/1/amrou-scout?utm_source=api>`"
 msgstr ""
 
@@ -41,7 +41,7 @@ msgstr ""
 #: ../../TSR.rst:14
 msgid ""
 ":mtgtip:`Amrou Seekers<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/7/379c3c08-a91d-48cc-8837-993614b6a32e.jpg?1616276227|"
+"border_crop/front/3/7/379c3c08-a91d-48cc-8837-993614b6a32e.jpg?1619392482|"
 "https://scryfall.com/card/tsr/2/amrou-seekers?utm_source=api>`"
 msgstr ""
 
@@ -56,7 +56,7 @@ msgstr ""
 #: ../../TSR.rst:22
 msgid ""
 ":mtgtip:`Angel of Salvation<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/5/a55cdee5-134f-4008-91ce-9e7d0fdb5750.jpg?1616282020|"
+"border_crop/front/a/5/a55cdee5-134f-4008-91ce-9e7d0fdb5750.jpg?1619392506|"
 "https://scryfall.com/card/tsr/3/angel-of-salvation?utm_source=api>`"
 msgstr ""
 
@@ -93,7 +93,7 @@ msgstr ""
 #: ../../TSR.rst:28
 msgid ""
 ":mtgtip:`Angel's Grace<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/7/e78e39ea-20be-4196-992c-7ed2cb8150c1.jpg?1616284584|"
+"border_crop/front/e/7/e78e39ea-20be-4196-992c-7ed2cb8150c1.jpg?1619392535|"
 "https://scryfall.com/card/tsr/4/angels-grace?utm_source=api>`"
 msgstr ""
 
@@ -120,7 +120,7 @@ msgstr ""
 #: ../../TSR.rst:36
 msgid ""
 ":mtgtip:`Aven Mindcensor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/6/76cf42b4-f767-48b7-b38c-b98306909f06.jpg?1616285575|"
+"border_crop/front/7/6/76cf42b4-f767-48b7-b38c-b98306909f06.jpg?1619392559|"
 "https://scryfall.com/card/tsr/5/aven-mindcensor?utm_source=api>`"
 msgstr ""
 
@@ -142,7 +142,7 @@ msgstr ""
 #: ../../TSR.rst:44
 msgid ""
 ":mtgtip:`Aven Riftwatcher<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/6/261691c8-371d-49b6-9c9b-50ece5984aa2.jpg?1616286055|"
+"border_crop/front/2/6/261691c8-371d-49b6-9c9b-50ece5984aa2.jpg?1619392584|"
 "https://scryfall.com/card/tsr/6/aven-riftwatcher?utm_source=api>`"
 msgstr ""
 
@@ -157,16 +157,19 @@ msgstr ""
 "zostanie usunięty ostatnie, poświęć go.)"
 
 #: ../../TSR.rst:43
+#, fuzzy
+#| msgid ""
+#| "When Aven Riftwatcher enters the battlefield or leaves the battlefield, "
+#| "you gain 2 life."
 msgid ""
-"When Aven Riftwatcher enters the battlefield or leaves the battlefield, you "
-"gain 2 life."
+"When Aven Riftwatcher enters or leaves the battlefield, you gain 2 life."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy lub opuści pole bitwy, zyskaj 2 życia."
 
 #: ../../TSR.rst:48
 msgid ""
 ":mtgtip:`Benalish Cavalry<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/0/a0fd40fa-4144-41b4-b441-a71d09a11305.jpg?1616286464|"
+"border_crop/front/a/0/a0fd40fa-4144-41b4-b441-a71d09a11305.jpg?1619392605|"
 "https://scryfall.com/card/tsr/7/benalish-cavalry?utm_source=api>`"
 msgstr ""
 
@@ -181,7 +184,7 @@ msgstr ""
 #: ../../TSR.rst:56
 msgid ""
 ":mtgtip:`Benalish Commander<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/a/9a8d57fb-abe1-483b-8b94-85d39a1c31e1.jpg?1616286979|"
+"border_crop/front/9/a/9a8d57fb-abe1-483b-8b94-85d39a1c31e1.jpg?1619392635|"
 "https://scryfall.com/card/tsr/8/benalish-commander?utm_source=api>`"
 msgstr ""
 
@@ -209,14 +212,14 @@ msgstr ""
 msgid ""
 ":mtgtip:`Blade of the Sixth Pride<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/d/8/d8b1b493-2dec-4816-a427-4813a00ca3e9.jpg?"
-"1617716553|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?"
+"1619392667|https://scryfall.com/card/tsr/9/blade-of-the-sixth-pride?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:66
 msgid ""
 ":mtgtip:`Bound in Silence<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/1/41a0a78e-08cc-4eb0-8891-6c3eec5b595b.jpg?1616271450|"
+"border_crop/front/4/1/41a0a78e-08cc-4eb0-8891-6c3eec5b595b.jpg?1619392690|"
 "https://scryfall.com/card/tsr/10/bound-in-silence?utm_source=api>`"
 msgstr ""
 
@@ -232,7 +235,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 #: ../../TSR.rst:72
 msgid ""
 ":mtgtip:`Calciderm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/a/5ae9641c-5792-4f72-b40c-f029af28dab9.jpg?1616271980|https://"
+"front/5/a/5ae9641c-5792-4f72-b40c-f029af28dab9.jpg?1619392714|https://"
 "scryfall.com/card/tsr/11/calciderm?utm_source=api>`"
 msgstr ""
 
@@ -253,7 +256,7 @@ msgstr ""
 #: ../../TSR.rst:78
 msgid ""
 ":mtgtip:`Castle Raptors<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/b/4b980a75-8d2d-4d56-be76-48159ef33631.jpg?1616272461|"
+"border_crop/front/4/b/4b980a75-8d2d-4d56-be76-48159ef33631.jpg?1619392740|"
 "https://scryfall.com/card/tsr/12/castle-raptors?utm_source=api>`"
 msgstr ""
 
@@ -264,7 +267,7 @@ msgstr "O ile ten stwór jest odkręcony, dostaje +0/+2."
 #: ../../TSR.rst:88
 msgid ""
 ":mtgtip:`Celestial Crusader<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/6/56f371f5-9c2a-4a00-a4d2-e4f97ac0f3e0.jpg?1616272944|"
+"border_crop/front/5/6/56f371f5-9c2a-4a00-a4d2-e4f97ac0f3e0.jpg?1619392769|"
 "https://scryfall.com/card/tsr/13/celestial-crusader?utm_source=api>`"
 msgstr ""
 
@@ -275,7 +278,7 @@ msgstr "Inne białe stwory dostają +1/+1."
 #: ../../TSR.rst:92
 msgid ""
 ":mtgtip:`Children of Korlis<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/a/1a6cbece-f9d8-4c40-b72b-dfdb86430ff2.jpg?1616273435|"
+"border_crop/front/1/a/1a6cbece-f9d8-4c40-b72b-dfdb86430ff2.jpg?1619392791|"
 "https://scryfall.com/card/tsr/14/children-of-korlis?utm_source=api>`"
 msgstr ""
 
@@ -290,7 +293,7 @@ msgstr ""
 #: ../../TSR.rst:100
 msgid ""
 ":mtgtip:`Crovax, Ascendant Hero<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/4/94a9dfa5-0e94-433e-8f4a-edfa2dac4913.jpg?1616273933|"
+"border_crop/front/9/4/94a9dfa5-0e94-433e-8f4a-edfa2dac4913.jpg?1619392815|"
 "https://scryfall.com/card/tsr/15/crovax-ascendant-hero?utm_source=api>`"
 msgstr ""
 
@@ -305,7 +308,7 @@ msgstr "Zapłać 2 życia: Przywróć tego stwora do ręki właściciela."
 #: ../../TSR.rst:106
 msgid ""
 ":mtgtip:`Duskrider Peregrine<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/2/321ff631-54f0-4501-852a-569790d05cf1.jpg?1616274502|"
+"border_crop/front/3/2/321ff631-54f0-4501-852a-569790d05cf1.jpg?1619392843|"
 "https://scryfall.com/card/tsr/16/duskrider-peregrine?utm_source=api>`"
 msgstr ""
 
@@ -329,7 +332,7 @@ msgstr ""
 #: ../../TSR.rst:110
 msgid ""
 ":mtgtip:`Errant Doomsayers<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/e/0eb5c6e6-7251-4b80-9561-742442d8a497.jpg?1616275044|"
+"border_crop/front/0/e/0eb5c6e6-7251-4b80-9561-742442d8a497.jpg?1619392875|"
 "https://scryfall.com/card/tsr/17/errant-doomsayers?utm_source=api>`"
 msgstr ""
 
@@ -340,7 +343,7 @@ msgstr "|tap|: Przekręć wskazanego stwora o wytrzymałości 2 lub mniejszej."
 #: ../../TSR.rst:118
 msgid ""
 ":mtgtip:`Fortify<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/4/b47af529-6ba1-4900-a6f6-7647c9632e11.jpg?1616275438|https://"
+"front/b/4/b47af529-6ba1-4900-a6f6-7647c9632e11.jpg?1619392902|https://"
 "scryfall.com/card/tsr/18/fortify?utm_source=api>`"
 msgstr ""
 
@@ -359,7 +362,7 @@ msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+2."
 #: ../../TSR.rst:126
 msgid ""
 ":mtgtip:`Griffin Guide<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1616275832|"
+"border_crop/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1619392926|"
 "https://scryfall.com/card/tsr/19/griffin-guide?utm_source=api>`"
 msgstr ""
 
@@ -378,7 +381,7 @@ msgstr ""
 #: ../../TSR.rst:132
 msgid ""
 ":mtgtip:`Ivory Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/1/c1b1b580-4a2c-41a4-a1e0-85b659b3a30e.jpg?1616282055|https://"
+"front/c/1/c1b1b580-4a2c-41a4-a1e0-85b659b3a30e.jpg?1619392953|https://"
 "scryfall.com/card/tsr/20/ivory-giant?utm_source=api>`"
 msgstr ""
 
@@ -402,7 +405,7 @@ msgstr ""
 #: ../../TSR.rst:136
 msgid ""
 ":mtgtip:`Judge Unworthy<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/e/ce06e910-e130-4975-92db-1399ff3d44b7.jpg?1616276658|"
+"border_crop/front/c/e/ce06e910-e130-4975-92db-1399ff3d44b7.jpg?1619392978|"
 "https://scryfall.com/card/tsr/21/judge-unworthy?utm_source=api>`"
 msgstr ""
 
@@ -419,7 +422,7 @@ msgstr ""
 #: ../../TSR.rst:142
 msgid ""
 ":mtgtip:`Knight of Sursi<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/6/8693bec1-9bd9-4840-9d7f-954f92d968c9.jpg?1616277123|"
+"border_crop/front/8/6/8693bec1-9bd9-4840-9d7f-954f92d968c9.jpg?1619393004|"
 "https://scryfall.com/card/tsr/22/knight-of-sursi?utm_source=api>`"
 msgstr ""
 
@@ -447,7 +450,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Knight of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/d/4/d4ac76c0-54ce-41b2-9000-e21eecaf7e99.jpg?"
-"1617613123|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?"
+"1619393032|https://scryfall.com/card/tsr/23/knight-of-the-holy-nimbus?"
 "utm_source=api>`"
 msgstr ""
 
@@ -470,7 +473,7 @@ msgstr ""
 #: ../../TSR.rst:156
 msgid ""
 ":mtgtip:`Lost Auramancers<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/0/c0595c72-5b32-4d7b-8efc-7ce5c83504dd.jpg?1616277835|"
+"border_crop/front/c/0/c0595c72-5b32-4d7b-8efc-7ce5c83504dd.jpg?1619393058|"
 "https://scryfall.com/card/tsr/24/lost-auramancers?utm_source=api>`"
 msgstr ""
 
@@ -487,7 +490,7 @@ msgstr ""
 #: ../../TSR.rst:160
 msgid ""
 ":mtgtip:`Lymph Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/8/48b8b4d4-4400-46cc-bd3c-e8a781cfc6f2.jpg?1616278219|"
+"border_crop/front/4/8/48b8b4d4-4400-46cc-bd3c-e8a781cfc6f2.jpg?1619393087|"
 "https://scryfall.com/card/tsr/25/lymph-sliver?utm_source=api>`"
 msgstr ""
 
@@ -502,7 +505,7 @@ msgstr ""
 #: ../../TSR.rst:164
 msgid ""
 ":mtgtip:`Mana Tithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/a/9ae707d5-d81d-4320-b947-6016dc188898.jpg?1616278618|https://"
+"front/9/a/9ae707d5-d81d-4320-b947-6016dc188898.jpg?1619393111|https://"
 "scryfall.com/card/tsr/26/mana-tithe?utm_source=api>`"
 msgstr ""
 
@@ -513,7 +516,7 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1|."
 #: ../../TSR.rst:168
 msgid ""
 ":mtgtip:`Mangara of Corondor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/b/db5686b7-4b7b-4127-9330-9282f36bd70b.jpg?1616278985|"
+"border_crop/front/d/b/db5686b7-4b7b-4127-9330-9282f36bd70b.jpg?1619393140|"
 "https://scryfall.com/card/tsr/27/mangara-of-corondor?utm_source=api>`"
 msgstr ""
 
@@ -524,7 +527,7 @@ msgstr "|tap|: Wygnaj tego stwora i wskazany permanent."
 #: ../../TSR.rst:174
 msgid ""
 ":mtgtip:`Momentary Blink<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/b/1be7ab3b-beca-411e-bc27-024f42c013e1.jpg?1616279395|"
+"border_crop/front/1/b/1be7ab3b-beca-411e-bc27-024f42c013e1.jpg?1619393166|"
 "https://scryfall.com/card/tsr/28/momentary-blink?utm_source=api>`"
 msgstr ""
 
@@ -547,7 +550,7 @@ msgstr ""
 #: ../../TSR.rst:182
 msgid ""
 ":mtgtip:`Mycologist<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/c/cca60d13-137f-4438-bc51-7ea02ec3c515.jpg?1616279779|https://"
+"front/c/c/cca60d13-137f-4438-bc51-7ea02ec3c515.jpg?1619393189|https://"
 "scryfall.com/card/tsr/29/mycologist?utm_source=api>`"
 msgstr ""
 
@@ -572,7 +575,7 @@ msgstr "Poświęć Sadzonką: Zyskaj 2 życia."
 #: ../../TSR.rst:188
 msgid ""
 ":mtgtip:`Outrider en-Kor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/e/de9b2506-ead4-49ff-a733-66f3f13dbe17.jpg?1616280208|"
+"border_crop/front/d/e/de9b2506-ead4-49ff-a733-66f3f13dbe17.jpg?1619393212|"
 "https://scryfall.com/card/tsr/30/outrider-en-kor?utm_source=api>`"
 msgstr ""
 
@@ -588,7 +591,7 @@ msgstr ""
 #: ../../TSR.rst:196
 msgid ""
 ":mtgtip:`Pallid Mycoderm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/9/29a2a28e-c241-4228-9ece-2e49d4d3733a.jpg?1616280576|"
+"border_crop/front/2/9/29a2a28e-c241-4228-9ece-2e49d4d3733a.jpg?1619393235|"
 "https://scryfall.com/card/tsr/31/pallid-mycoderm?utm_source=api>`"
 msgstr ""
 
@@ -618,7 +621,7 @@ msgstr ""
 #: ../../TSR.rst:202
 msgid ""
 ":mtgtip:`Porphyry Nodes<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/f/dfe6f333-ccb4-44ea-be59-bba6335acf99.jpg?1616280904|"
+"border_crop/front/d/f/dfe6f333-ccb4-44ea-be59-bba6335acf99.jpg?1619393260|"
 "https://scryfall.com/card/tsr/32/porphyry-nodes?utm_source=api>`"
 msgstr ""
 
@@ -640,7 +643,7 @@ msgstr "Kiedy na polu bitwy nie ma stworów, poświęć ten urok."
 #: ../../TSR.rst:206
 msgid ""
 ":mtgtip:`Poultice Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/c/bc6db2cf-5171-4791-82b4-c9fac37902a3.jpg?1616281270|"
+"border_crop/front/b/c/bc6db2cf-5171-4791-82b4-c9fac37902a3.jpg?1619393284|"
 "https://scryfall.com/card/tsr/33/poultice-sliver?utm_source=api>`"
 msgstr ""
 
@@ -658,7 +661,7 @@ msgstr ""
 #: ../../TSR.rst:212
 msgid ""
 ":mtgtip:`Pulmonic Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/c/fc4eb560-97a7-4f5f-bf12-1f9e1be63095.jpg?1616281646|"
+"border_crop/front/f/c/fc4eb560-97a7-4f5f-bf12-1f9e1be63095.jpg?1619393310|"
 "https://scryfall.com/card/tsr/34/pulmonic-sliver?utm_source=api>`"
 msgstr ""
 
@@ -677,7 +680,7 @@ msgstr ""
 #: ../../TSR.rst:216
 msgid ""
 ":mtgtip:`Rebuff the Wicked<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/6/a6ea5111-5a5c-4c40-8686-8123c822843a.jpg?1616282149|"
+"border_crop/front/a/6/a6ea5111-5a5c-4c40-8686-8123c822843a.jpg?1619393332|"
 "https://scryfall.com/card/tsr/35/rebuff-the-wicked?utm_source=api>`"
 msgstr ""
 
@@ -688,7 +691,7 @@ msgstr "Skontruj wskazany czar wskazujący permanent pod twoim władaniem."
 #: ../../TSR.rst:222
 msgid ""
 ":mtgtip:`Restore Balance<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/f/0febc7fe-4172-4285-9804-a62ce4506c39.jpg?1616282515|"
+"border_crop/front/0/f/0febc7fe-4172-4285-9804-a62ce4506c39.jpg?1619393357|"
 "https://scryfall.com/card/tsr/36/restore-balance?utm_source=api>`"
 msgstr ""
 
@@ -709,7 +712,7 @@ msgstr ""
 #: ../../TSR.rst:226
 msgid ""
 ":mtgtip:`Return to Dust<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/e/5efa90c9-ff9a-4a99-b991-8e4dc54bb131.jpg?1616283110|"
+"border_crop/front/5/e/5efa90c9-ff9a-4a99-b991-8e4dc54bb131.jpg?1619393378|"
 "https://scryfall.com/card/tsr/37/return-to-dust?utm_source=api>`"
 msgstr ""
 
@@ -724,7 +727,7 @@ msgstr ""
 #: ../../TSR.rst:234
 msgid ""
 ":mtgtip:`Riftmarked Knight<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/0/20c4cb76-c895-4862-8099-d306b1bb06e9.jpg?1616283615|"
+"border_crop/front/2/0/20c4cb76-c895-4862-8099-d306b1bb06e9.jpg?1619393402|"
 "https://scryfall.com/card/tsr/38/riftmarked-knight?utm_source=api>`"
 msgstr ""
 
@@ -753,7 +756,7 @@ msgstr ""
 #: ../../TSR.rst:238
 msgid ""
 ":mtgtip:`Saltblast<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/1/61475a0c-f33a-43a7-937c-5a63fc8a54b4.jpg?1616284091|https://"
+"front/6/1/61475a0c-f33a-43a7-937c-5a63fc8a54b4.jpg?1619393426|https://"
 "scryfall.com/card/tsr/39/saltblast?utm_source=api>`"
 msgstr ""
 
@@ -764,7 +767,7 @@ msgstr "Zniszcz wskazany nie-biały permanent."
 #: ../../TSR.rst:242
 msgid ""
 ":mtgtip:`Saltfield Recluse<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/c/ecb21c04-d3f7-4960-9b9b-2354e98becb7.jpg?1616284623|"
+"border_crop/front/e/c/ecb21c04-d3f7-4960-9b9b-2354e98becb7.jpg?1619393451|"
 "https://scryfall.com/card/tsr/40/saltfield-recluse?utm_source=api>`"
 msgstr ""
 
@@ -775,7 +778,7 @@ msgstr "|tap|: Wskazany stwór dostaje do końca tury -2/-0."
 #: ../../TSR.rst:248
 msgid ""
 ":mtgtip:`Serra Avenger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/e/8e5627de-fda7-4e39-a6ec-1e895bc353ed.jpg?1616285103|"
+"border_crop/front/8/e/8e5627de-fda7-4e39-a6ec-1e895bc353ed.jpg?1620236195|"
 "https://scryfall.com/card/tsr/41/serra-avenger?utm_source=api>`"
 msgstr ""
 
@@ -794,7 +797,7 @@ msgstr "Latanie, czujność"
 #: ../../TSR.rst:254
 msgid ""
 ":mtgtip:`Shade of Trokair<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/4/a4e4d9c6-416b-47fd-93a5-6c19d89b7c7f.jpg?1616285236|"
+"border_crop/front/a/4/a4e4d9c6-416b-47fd-93a5-6c19d89b7c7f.jpg?1619393501|"
 "https://scryfall.com/card/tsr/42/shade-of-trokair?utm_source=api>`"
 msgstr ""
 
@@ -805,7 +808,7 @@ msgstr "|mana_w|: Ten stwór dostaje do końca tury +1/+1."
 #: ../../TSR.rst:258
 msgid ""
 ":mtgtip:`Sidewinder Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/6/5616e0c7-1f1d-4716-95e5-773a8e3ae5e3.jpg?1616285282|"
+"border_crop/front/5/6/5616e0c7-1f1d-4716-95e5-773a8e3ae5e3.jpg?1619393526|"
 "https://scryfall.com/card/tsr/43/sidewinder-sliver?utm_source=api>`"
 msgstr ""
 
@@ -820,7 +823,7 @@ msgstr ""
 #: ../../TSR.rst:262
 msgid ""
 ":mtgtip:`Sinew Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/0/000edc61-b3ae-49e3-87f4-0250fa6a4501.jpg?1616285318|"
+"border_crop/front/0/0/000edc61-b3ae-49e3-87f4-0250fa6a4501.jpg?1619393551|"
 "https://scryfall.com/card/tsr/44/sinew-sliver?utm_source=api>`"
 msgstr ""
 
@@ -831,7 +834,7 @@ msgstr "Wszystkie Drzazgacze dostają +1/+1."
 #: ../../TSR.rst:272
 msgid ""
 ":mtgtip:`Stonecloaker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/d/ad0997f0-865f-422b-b34e-485ff8178625.jpg?1616285370|"
+"border_crop/front/a/d/ad0997f0-865f-422b-b34e-485ff8178625.jpg?1619393578|"
 "https://scryfall.com/card/tsr/45/stonecloaker?utm_source=api>`"
 msgstr ""
 
@@ -852,7 +855,7 @@ msgstr ""
 #: ../../TSR.rst:280
 msgid ""
 ":mtgtip:`Stormfront Riders<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/3/c3181709-42d2-4e1a-8de9-4f1d2deac232.jpg?1616285421|"
+"border_crop/front/c/3/c3181709-42d2-4e1a-8de9-4f1d2deac232.jpg?1619393604|"
 "https://scryfall.com/card/tsr/46/stormfront-riders?utm_source=api>`"
 msgstr ""
 
@@ -875,7 +878,7 @@ msgstr ""
 #: ../../TSR.rst:284
 msgid ""
 ":mtgtip:`Sunlance<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/2/82ab72c3-1f76-45ff-84b4-05f403866d44.jpg?1616285460|https://"
+"front/8/2/82ab72c3-1f76-45ff-84b4-05f403866d44.jpg?1619393630|https://"
 "scryfall.com/card/tsr/47/sunlance?utm_source=api>`"
 msgstr ""
 
@@ -886,7 +889,7 @@ msgstr "Ten czar zadaje wskazanemu nie-białemu stworowi 3 obrażenia."
 #: ../../TSR.rst:294
 msgid ""
 ":mtgtip:`Temporal Isolation<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/2/72380757-6344-43e6-a4ed-bd753f2431d5.jpg?1616285497|"
+"border_crop/front/7/2/72380757-6344-43e6-a4ed-bd753f2431d5.jpg?1619393653|"
 "https://scryfall.com/card/tsr/48/temporal-isolation?utm_source=api>`"
 msgstr ""
 
@@ -907,7 +910,7 @@ msgstr ""
 #: ../../TSR.rst:298
 msgid ""
 ":mtgtip:`Watcher Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/5/b5395039-4f1d-4b16-a8b9-b80593dbde76.jpg?1616285527|"
+"border_crop/front/b/5/b5395039-4f1d-4b16-a8b9-b80593dbde76.jpg?1619393678|"
 "https://scryfall.com/card/tsr/49/watcher-sliver?utm_source=api>`"
 msgstr ""
 
@@ -918,7 +921,7 @@ msgstr "Wszystkie Drzazgacze dostają +0/+2."
 #: ../../TSR.rst:304
 msgid ""
 ":mtgtip:`Whitemane Lion<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/d/2d243be1-b67a-44b5-9453-a9f8583c0014.jpg?1616285613|"
+"border_crop/front/2/d/2d243be1-b67a-44b5-9453-a9f8583c0014.jpg?1619393707|"
 "https://scryfall.com/card/tsr/50/whitemane-lion?utm_source=api>`"
 msgstr ""
 
@@ -933,7 +936,7 @@ msgstr ""
 #: ../../TSR.rst:312
 msgid ""
 ":mtgtip:`Aeon Chronicler<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/c/5cec8dcc-8ebb-4640-a5f3-90e6e62c27e5.jpg?1616285655|"
+"border_crop/front/5/c/5cec8dcc-8ebb-4640-a5f3-90e6e62c27e5.jpg?1619393737|"
 "https://scryfall.com/card/tsr/51/aeon-chronicler?utm_source=api>`"
 msgstr ""
 
@@ -959,7 +962,7 @@ msgstr ""
 #: ../../TSR.rst:318
 msgid ""
 ":mtgtip:`Ancestral Vision<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/0/9079c93e-3da8-442a-89d2-609a3eac83b0.jpg?1616285693|"
+"border_crop/front/9/0/9079c93e-3da8-442a-89d2-609a3eac83b0.jpg?1619393761|"
 "https://scryfall.com/card/tsr/52/ancestral-vision?utm_source=api>`"
 msgstr ""
 
@@ -982,7 +985,7 @@ msgstr "Wskazany gracz dobiera trzy karty."
 #: ../../TSR.rst:324
 msgid ""
 ":mtgtip:`Bewilder<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/9/e9aa1ab5-0085-4043-8272-64e10f3dcf2a.jpg?1616285740|https://"
+"front/e/9/e9aa1ab5-0085-4043-8272-64e10f3dcf2a.jpg?1619393786|https://"
 "scryfall.com/card/tsr/53/bewilder?utm_source=api>`"
 msgstr ""
 
@@ -998,7 +1001,7 @@ msgstr "Dobierz kartę."
 #: ../../TSR.rst:330
 msgid ""
 ":mtgtip:`Bonded Fetch<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/e/de72afaf-a4b4-431c-8831-86ddfba2403c.jpg?1616285776|"
+"border_crop/front/d/e/de72afaf-a4b4-431c-8831-86ddfba2403c.jpg?1619393815|"
 "https://scryfall.com/card/tsr/54/bonded-fetch?utm_source=api>`"
 msgstr ""
 
@@ -1013,7 +1016,7 @@ msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 #: ../../TSR.rst:336
 msgid ""
 ":mtgtip:`Brine Elemental<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/b/eb038efc-2cb2-4635-a183-42b6e0b6b5f8.jpg?1616285820|"
+"border_crop/front/e/b/eb038efc-2cb2-4635-a183-42b6e0b6b5f8.jpg?1619393843|"
 "https://scryfall.com/card/tsr/55/brine-elemental?utm_source=api>`"
 msgstr ""
 
@@ -1036,7 +1039,7 @@ msgstr ""
 #: ../../TSR.rst:340
 msgid ""
 ":mtgtip:`Careful Consideration<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/8/08b7224b-adb9-4c31-b0bb-1c498f2922fb.jpg?1616285865|"
+"border_crop/front/0/8/08b7224b-adb9-4c31-b0bb-1c498f2922fb.jpg?1619393867|"
 "https://scryfall.com/card/tsr/56/careful-consideration?utm_source=api>`"
 msgstr ""
 
@@ -1053,7 +1056,7 @@ msgstr ""
 #: ../../TSR.rst:346
 msgid ""
 ":mtgtip:`Cloudseeder<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/9/a9adcc82-0754-4cb7-ac28-e5624f563b7f.jpg?1616285905|https://"
+"front/a/9/a9adcc82-0754-4cb7-ac28-e5624f563b7f.jpg?1619393893|https://"
 "scryfall.com/card/tsr/57/cloudseeder?utm_source=api>`"
 msgstr ""
 
@@ -1070,7 +1073,7 @@ msgstr ""
 #: ../../TSR.rst:352
 msgid ""
 ":mtgtip:`Coral Trickster<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/8/b8eacbc6-362e-4257-b29f-78682f4130c1.jpg?1616285953|"
+"border_crop/front/b/8/b8eacbc6-362e-4257-b29f-78682f4130c1.jpg?1619393921|"
 "https://scryfall.com/card/tsr/58/coral-trickster?utm_source=api>`"
 msgstr ""
 
@@ -1093,7 +1096,7 @@ msgstr ""
 #: ../../TSR.rst:360
 msgid ""
 ":mtgtip:`Crookclaw Transmuter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/b/aba5f411-668b-4344-be2f-c8f6cc3255e8.jpg?1616286013|"
+"border_crop/front/a/b/aba5f411-668b-4344-be2f-c8f6cc3255e8.jpg?1619393948|"
 "https://scryfall.com/card/tsr/59/crookclaw-transmuter?utm_source=api>`"
 msgstr ""
 
@@ -1108,7 +1111,7 @@ msgstr ""
 #: ../../TSR.rst:364
 msgid ""
 ":mtgtip:`Cryptic Annelid<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/3/5377e2d9-a846-4533-aeaf-9144ca8765da.jpg?1616286096|"
+"border_crop/front/5/3/5377e2d9-a846-4533-aeaf-9144ca8765da.jpg?1619393971|"
 "https://scryfall.com/card/tsr/60/cryptic-annelid?utm_source=api>`"
 msgstr ""
 
@@ -1126,7 +1129,7 @@ msgstr ""
 #: ../../TSR.rst:368
 msgid ""
 ":mtgtip:`Delay<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/3/9/3906d538-f1ca-4799-b91c-2e0d2934f241.jpg?1616286135|https://"
+"front/3/9/3906d538-f1ca-4799-b91c-2e0d2934f241.jpg?1619393997|https://"
 "scryfall.com/card/tsr/61/delay?utm_source=api>`"
 msgstr ""
 
@@ -1149,7 +1152,7 @@ msgstr ""
 #: ../../TSR.rst:376
 msgid ""
 ":mtgtip:`Draining Whelk<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/1/51eca246-591e-4ea8-8432-9f4c1f16a65e.jpg?1616286176|"
+"border_crop/front/5/1/51eca246-591e-4ea8-8432-9f4c1f16a65e.jpg?1619394027|"
 "https://scryfall.com/card/tsr/62/draining-whelk?utm_source=api>`"
 msgstr ""
 
@@ -1164,7 +1167,7 @@ msgstr ""
 #: ../../TSR.rst:380
 msgid ""
 ":mtgtip:`Dream Stalker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/5/e59b4729-74c1-4aa9-937d-27cda960f157.jpg?1616286217|"
+"border_crop/front/e/5/e59b4729-74c1-4aa9-937d-27cda960f157.jpg?1619394056|"
 "https://scryfall.com/card/tsr/63/dream-stalker?utm_source=api>`"
 msgstr ""
 
@@ -1179,7 +1182,7 @@ msgstr ""
 #: ../../TSR.rst:384
 msgid ""
 ":mtgtip:`Dreamscape Artist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/2/f244985e-7487-44db-bd69-47c781753f2e.jpg?1616286256|"
+"border_crop/front/f/2/f244985e-7487-44db-bd69-47c781753f2e.jpg?1619394086|"
 "https://scryfall.com/card/tsr/64/dreamscape-artist?utm_source=api>`"
 msgstr ""
 
@@ -1196,7 +1199,7 @@ msgstr ""
 #: ../../TSR.rst:390
 msgid ""
 ":mtgtip:`Drifter il-Dal<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/4/d40c45e7-f157-4b3f-a627-09b5c27473ae.jpg?1616286296|"
+"border_crop/front/d/4/d40c45e7-f157-4b3f-a627-09b5c27473ae.jpg?1619394115|"
 "https://scryfall.com/card/tsr/65/drifter-il-dal?utm_source=api>`"
 msgstr ""
 
@@ -1218,7 +1221,7 @@ msgstr ""
 #: ../../TSR.rst:396
 msgid ""
 ":mtgtip:`Errant Ephemeron<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/7/3779a76a-0171-4714-9713-a65dc173a33f.jpg?1616286337|"
+"border_crop/front/3/7/3779a76a-0171-4714-9713-a65dc173a33f.jpg?1619394144|"
 "https://scryfall.com/card/tsr/66/errant-ephemeron?utm_source=api>`"
 msgstr ""
 
@@ -1238,7 +1241,7 @@ msgstr ""
 #: ../../TSR.rst:400
 msgid ""
 ":mtgtip:`Erratic Mutation<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/a/3ac93762-9377-49c3-9593-6d02bfb66903.jpg?1616286380|"
+"border_crop/front/3/a/3ac93762-9377-49c3-9593-6d02bfb66903.jpg?1619394175|"
 "https://scryfall.com/card/tsr/67/erratic-mutation?utm_source=api>`"
 msgstr ""
 
@@ -1257,7 +1260,7 @@ msgstr ""
 #: ../../TSR.rst:406
 msgid ""
 ":mtgtip:`Fathom Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/c/6c0f831e-2eb0-499f-9502-418c04ac34a0.jpg?1616286414|https://"
+"front/6/c/6c0f831e-2eb0-499f-9502-418c04ac34a0.jpg?1619394202|https://"
 "scryfall.com/card/tsr/68/fathom-seer?utm_source=api>`"
 msgstr ""
 
@@ -1278,7 +1281,7 @@ msgstr "Kiedy ten stwór zostanie odkryty, dobierz dwie karty."
 #: ../../TSR.rst:410
 msgid ""
 ":mtgtip:`Foresee<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/2/e/2ecf2ee8-6b93-4757-89c4-f1e76509a217.jpg?1616428284|https://"
+"front/2/e/2ecf2ee8-6b93-4757-89c4-f1e76509a217.jpg?1619394224|https://"
 "scryfall.com/card/tsr/69/foresee?utm_source=api>`"
 msgstr ""
 
@@ -1289,7 +1292,7 @@ msgstr "Wróż 4, po czym dobierz dwie karty."
 #: ../../TSR.rst:416
 msgid ""
 ":mtgtip:`Gossamer Phantasm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bf05ed80-8abf-4c2c-97d7-a96961c35f35.jpg?1616286492|"
+"border_crop/front/b/f/bf05ed80-8abf-4c2c-97d7-a96961c35f35.jpg?1619394252|"
 "https://scryfall.com/card/tsr/70/gossamer-phantasm?utm_source=api>`"
 msgstr ""
 
@@ -1302,7 +1305,7 @@ msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć
 #: ../../TSR.rst:422
 msgid ""
 ":mtgtip:`Infiltrator il-Kor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/3/c3ab190b-c96f-4b00-8e97-33a11bb2ed08.jpg?1616286522|"
+"border_crop/front/c/3/c3ab190b-c96f-4b00-8e97-33a11bb2ed08.jpg?1619394279|"
 "https://scryfall.com/card/tsr/71/infiltrator-il-kor?utm_source=api>`"
 msgstr ""
 
@@ -1322,7 +1325,7 @@ msgstr ""
 #: ../../TSR.rst:426
 msgid ""
 ":mtgtip:`Jodah's Avenger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/7/4707277a-f0ba-4f35-9274-7a38efbc11e8.jpg?1616286550|"
+"border_crop/front/4/7/4707277a-f0ba-4f35-9274-7a38efbc11e8.jpg?1619394303|"
 "https://scryfall.com/card/tsr/72/jodahs-avenger?utm_source=api>`"
 msgstr ""
 
@@ -1339,7 +1342,7 @@ msgstr ""
 #: ../../TSR.rst:432
 msgid ""
 ":mtgtip:`Logic Knot<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/2/624feb0e-f683-4eb6-a63b-7872d0e28f1f.jpg?1616286575|https://"
+"front/6/2/624feb0e-f683-4eb6-a63b-7872d0e28f1f.jpg?1619394325|https://"
 "scryfall.com/card/tsr/73/logic-knot?utm_source=api>`"
 msgstr ""
 
@@ -1359,7 +1362,7 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_x|."
 #: ../../TSR.rst:438
 msgid ""
 ":mtgtip:`Looter il-Kor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/d/0d891cb5-c575-4c63-b053-a2315947c3e0.jpg?1616286616|"
+"border_crop/front/0/d/0d891cb5-c575-4c63-b053-a2315947c3e0.jpg?1619394352|"
 "https://scryfall.com/card/tsr/74/looter-il-kor?utm_source=api>`"
 msgstr ""
 
@@ -1374,7 +1377,7 @@ msgstr ""
 #: ../../TSR.rst:444
 msgid ""
 ":mtgtip:`Magus of the Future<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/27ba1ea5-c861-4bb4-a681-fc0633268bd9.jpg?1616286651|"
+"border_crop/front/2/7/27ba1ea5-c861-4bb4-a681-fc0633268bd9.jpg?1619394377|"
 "https://scryfall.com/card/tsr/75/magus-of-the-future?utm_source=api>`"
 msgstr ""
 
@@ -1389,7 +1392,7 @@ msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
 #: ../../TSR.rst:450
 msgid ""
 ":mtgtip:`Mystical Teachings<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/7/f7cb51cd-8418-43ee-bf4f-6b959cc5b131.jpg?1616286815|"
+"border_crop/front/f/7/f7cb51cd-8418-43ee-bf4f-6b959cc5b131.jpg?1619394406|"
 "https://scryfall.com/card/tsr/76/mystical-teachings?utm_source=api>`"
 msgstr ""
 
@@ -1412,7 +1415,7 @@ msgstr ""
 #: ../../TSR.rst:456
 msgid ""
 ":mtgtip:`Pact of Negation<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/e/1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8.jpg?1616286872|"
+"border_crop/front/1/e/1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8.jpg?1619394428|"
 "https://scryfall.com/card/tsr/77/pact-of-negation?utm_source=api>`"
 msgstr ""
 
@@ -1431,7 +1434,7 @@ msgstr ""
 #: ../../TSR.rst:466
 msgid ""
 ":mtgtip:`Piracy Charm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/c/9cb19ac2-edf9-4f9a-b9ba-2a33ba96a4d8.jpg?1616286909|"
+"border_crop/front/9/c/9cb19ac2-edf9-4f9a-b9ba-2a33ba96a4d8.jpg?1619394455|"
 "https://scryfall.com/card/tsr/78/piracy-charm?utm_source=api>`"
 msgstr ""
 
@@ -1454,7 +1457,7 @@ msgstr "Wskazany gracz odrzuca kartę."
 #: ../../TSR.rst:470
 msgid ""
 ":mtgtip:`Pongify<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/1/a1501dea-4e0e-49b0-86b5-e8a01f77077d.jpg?1616286947|https://"
+"front/a/1/a1501dea-4e0e-49b0-86b5-e8a01f77077d.jpg?1619394479|https://"
 "scryfall.com/card/tsr/79/pongify?utm_source=api>`"
 msgstr ""
 
@@ -1469,7 +1472,7 @@ msgstr ""
 #: ../../TSR.rst:474
 msgid ""
 ":mtgtip:`Primal Plasma<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/27064d4f-aeaf-4432-964a-97dfc1db835d.jpg?1616287009|"
+"border_crop/front/2/7/27064d4f-aeaf-4432-964a-97dfc1db835d.jpg?1619394502|"
 "https://scryfall.com/card/tsr/80/primal-plasma?utm_source=api>`"
 msgstr ""
 
@@ -1484,7 +1487,7 @@ msgstr ""
 #: ../../TSR.rst:482
 msgid ""
 ":mtgtip:`Reality Acid<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/8/a8510381-e05c-4cc4-98aa-c9327e18ec02.jpg?1616287044|"
+"border_crop/front/a/8/a8510381-e05c-4cc4-98aa-c9327e18ec02.jpg?1619394529|"
 "https://scryfall.com/card/tsr/81/reality-acid?utm_source=api>`"
 msgstr ""
 
@@ -1512,7 +1515,7 @@ msgstr ""
 #: ../../TSR.rst:490
 msgid ""
 ":mtgtip:`Riftwing Cloudskate<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/a/1a2b228d-db4d-44a3-b208-6cf7a9f57da6.jpg?1616287075|"
+"border_crop/front/1/a/1a2b228d-db4d-44a3-b208-6cf7a9f57da6.jpg?1619394565|"
 "https://scryfall.com/card/tsr/82/riftwing-cloudskate?utm_source=api>`"
 msgstr ""
 
@@ -1540,7 +1543,7 @@ msgstr ""
 #: ../../TSR.rst:496
 msgid ""
 ":mtgtip:`Riptide Pilferer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/5/b5fb9744-79cc-48d6-9e3b-f16073dde1e4.jpg?1616287110|"
+"border_crop/front/b/5/b5fb9744-79cc-48d6-9e3b-f16073dde1e4.jpg?1619394589|"
 "https://scryfall.com/card/tsr/83/riptide-pilferer?utm_source=api>`"
 msgstr ""
 
@@ -1554,7 +1557,7 @@ msgstr ""
 #: ../../TSR.rst:502
 msgid ""
 ":mtgtip:`Sarcomite Myr<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/6/8636ba4f-07ef-4327-8e4a-6c2d8f90b264.jpg?1616287136|"
+"border_crop/front/8/6/8636ba4f-07ef-4327-8e4a-6c2d8f90b264.jpg?1619394620|"
 "https://scryfall.com/card/tsr/84/sarcomite-myr?utm_source=api>`"
 msgstr ""
 
@@ -1569,7 +1572,7 @@ msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 #: ../../TSR.rst:508
 msgid ""
 ":mtgtip:`Shaper Parasite<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/0/d0bc15d7-9e3f-4293-978e-809a6a5b9aa0.jpg?1616287162|"
+"border_crop/front/d/0/d0bc15d7-9e3f-4293-978e-809a6a5b9aa0.jpg?1619394646|"
 "https://scryfall.com/card/tsr/85/shaper-parasite?utm_source=api>`"
 msgstr ""
 
@@ -1592,7 +1595,7 @@ msgstr ""
 #: ../../TSR.rst:516
 msgid ""
 ":mtgtip:`Slipstream Serpent<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/1/f16dac30-52d2-4b87-90b4-4bc7f8f729ee.jpg?1616287199|"
+"border_crop/front/f/1/f16dac30-52d2-4b87-90b4-4bc7f8f729ee.jpg?1619394674|"
 "https://scryfall.com/card/tsr/86/slipstream-serpent?utm_source=api>`"
 msgstr ""
 
@@ -1616,7 +1619,7 @@ msgstr ""
 #: ../../TSR.rst:522
 msgid ""
 ":mtgtip:`Snapback<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/3/6/367d46d1-fa7a-403d-8949-b478a1f83f46.jpg?1616287240|https://"
+"front/3/6/367d46d1-fa7a-403d-8949-b478a1f83f46.jpg?1619394695|https://"
 "scryfall.com/card/tsr/87/snapback?utm_source=api>`"
 msgstr ""
 
@@ -1635,7 +1638,7 @@ msgstr "Przywróć wskazanego stwora do ręki właściciela."
 #: ../../TSR.rst:528
 msgid ""
 ":mtgtip:`Spell Burst<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/1/8169929c-641f-41c8-a48e-1a7d0c57726b.jpg?1616287282|https://"
+"front/8/1/8169929c-641f-41c8-a48e-1a7d0c57726b.jpg?1619394723|https://"
 "scryfall.com/card/tsr/88/spell-burst?utm_source=api>`"
 msgstr ""
 
@@ -1654,7 +1657,7 @@ msgstr "Skontruj wskazany czar o skrócie many X."
 #: ../../TSR.rst:534
 msgid ""
 ":mtgtip:`Spiketail Drakeling<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/4/e43a696a-11fb-4573-bf95-1fec643bf418.jpg?1616287304|"
+"border_crop/front/e/4/e43a696a-11fb-4573-bf95-1fec643bf418.jpg?1619394746|"
 "https://scryfall.com/card/tsr/89/spiketail-drakeling?utm_source=api>`"
 msgstr ""
 
@@ -1669,7 +1672,7 @@ msgstr ""
 #: ../../TSR.rst:542
 msgid ""
 ":mtgtip:`Stormcloud Djinn<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/5/25283518-cabb-4fa6-ab92-c989190ec9f3.jpg?1616287353|"
+"border_crop/front/2/5/25283518-cabb-4fa6-ab92-c989190ec9f3.jpg?1619394776|"
 "https://scryfall.com/card/tsr/90/stormcloud-djinn?utm_source=api>`"
 msgstr ""
 
@@ -1688,7 +1691,7 @@ msgstr ""
 #: ../../TSR.rst:550
 msgid ""
 ":mtgtip:`Teferi, Mage of Zhalfir<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/f/8fc5e4a8-ea7b-4803-a7ed-3b915708661f.jpg?1616287390|"
+"border_crop/front/8/f/8fc5e4a8-ea7b-4803-a7ed-3b915708661f.jpg?1619394801|"
 "https://scryfall.com/card/tsr/91/teferi-mage-of-zhalfir?utm_source=api>`"
 msgstr ""
 
@@ -1703,7 +1706,7 @@ msgstr "Każdy przeciwnik może rzucać czary tylko jako obrzędy."
 #: ../../TSR.rst:556
 msgid ""
 ":mtgtip:`Think Twice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/0/50e1d85b-f094-40e2-8811-640076d7d546.jpg?1616287421|https://"
+"front/5/0/50e1d85b-f094-40e2-8811-640076d7d546.jpg?1619394830|https://"
 "scryfall.com/card/tsr/92/think-twice?utm_source=api>`"
 msgstr ""
 
@@ -1718,7 +1721,7 @@ msgstr ""
 #: ../../TSR.rst:566
 msgid ""
 ":mtgtip:`Timebender<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/1/e/1ea286fe-0768-4e46-a8dd-a3522db844e1.jpg?1616287480|https://"
+"front/1/e/1ea286fe-0768-4e46-a8dd-a3522db844e1.jpg?1619394854|https://"
 "scryfall.com/card/tsr/93/timebender?utm_source=api>`"
 msgstr ""
 
@@ -1746,7 +1749,7 @@ msgstr ""
 #: ../../TSR.rst:572
 msgid ""
 ":mtgtip:`Tolarian Sentinel<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1616287522|"
+"border_crop/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1619394880|"
 "https://scryfall.com/card/tsr/94/tolarian-sentinel?utm_source=api>`"
 msgstr ""
 
@@ -1761,7 +1764,7 @@ msgstr ""
 #: ../../TSR.rst:578
 msgid ""
 ":mtgtip:`Veiling Oddity<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/c/2c211958-1ee2-4dda-9ef1-c59de599ebc1.jpg?1616287568|"
+"border_crop/front/2/c/2c211958-1ee2-4dda-9ef1-c59de599ebc1.jpg?1619394903|"
 "https://scryfall.com/card/tsr/95/veiling-oddity?utm_source=api>`"
 msgstr ""
 
@@ -1776,7 +1779,7 @@ msgstr ""
 #: ../../TSR.rst:584
 msgid ""
 ":mtgtip:`Venser, Shaper Savant<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/0/c08dabd1-c043-4bcf-afa8-271225a099e1.jpg?1616287607|"
+"border_crop/front/c/0/c08dabd1-c043-4bcf-afa8-271225a099e1.jpg?1619400732|"
 "https://scryfall.com/card/tsr/96/venser-shaper-savant?utm_source=api>`"
 msgstr ""
 
@@ -1791,7 +1794,7 @@ msgstr ""
 #: ../../TSR.rst:590
 msgid ""
 ":mtgtip:`Vesuvan Shapeshifter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/b/0b1b59d2-ad4b-4dc6-a730-0d19f2774ae9.jpg?1616287635|"
+"border_crop/front/0/b/0b1b59d2-ad4b-4dc6-a730-0d19f2774ae9.jpg?1619394946|"
 "https://scryfall.com/card/tsr/97/vesuvan-shapeshifter?utm_source=api>`"
 msgstr ""
 
@@ -1815,7 +1818,7 @@ msgstr "Przemiana |mana_1|\\ |mana_u|"
 #: ../../TSR.rst:596
 msgid ""
 ":mtgtip:`Walk the Aeons<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/9/794d09ae-a995-482f-848e-7f99477bd6f3.jpg?1616287669|"
+"border_crop/front/7/9/794d09ae-a995-482f-848e-7f99477bd6f3.jpg?1619394975|"
 "https://scryfall.com/card/tsr/98/walk-the-aeons?utm_source=api>`"
 msgstr ""
 
@@ -1836,7 +1839,7 @@ msgstr "Wskazany gracz bierze dodatkową turę po obecnej."
 #: ../../TSR.rst:602
 msgid ""
 ":mtgtip:`Whip-Spine Drake<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/8/a80e0723-0d0a-42df-90ac-0ba9b5c3a82d.jpg?1616287696|"
+"border_crop/front/a/8/a80e0723-0d0a-42df-90ac-0ba9b5c3a82d.jpg?1619394998|"
 "https://scryfall.com/card/tsr/99/whip-spine-drake?utm_source=api>`"
 msgstr ""
 
@@ -1851,7 +1854,7 @@ msgstr ""
 #: ../../TSR.rst:608
 msgid ""
 ":mtgtip:`Wipe Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/2/e/2ece0707-72f7-4a0a-8c37-9fbe0c694f9b.jpg?1616271492|https://"
+"front/2/e/2ece0707-72f7-4a0a-8c37-9fbe0c694f9b.jpg?1619395021|https://"
 "scryfall.com/card/tsr/100/wipe-away?utm_source=api>`"
 msgstr ""
 
@@ -1862,7 +1865,7 @@ msgstr "Przywróć wskazany permanent do ręki właściciela."
 #: ../../TSR.rst:612
 msgid ""
 ":mtgtip:`Assassinate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/c/ac0a1dc6-215f-4738-8ae4-7b6aa1c7d80b.jpg?1616271550|https://"
+"front/a/c/ac0a1dc6-215f-4738-8ae4-7b6aa1c7d80b.jpg?1620236215|https://"
 "scryfall.com/card/tsr/101/assassinate?utm_source=api>`"
 msgstr ""
 
@@ -1873,7 +1876,7 @@ msgstr "Zniszcz wskazanego przekręconego stwora."
 #: ../../TSR.rst:618
 msgid ""
 ":mtgtip:`Big Game Hunter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1616271593|"
+"border_crop/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1619395072|"
 "https://scryfall.com/card/tsr/102/big-game-hunter?utm_source=api>`"
 msgstr ""
 
@@ -1896,7 +1899,7 @@ msgstr ""
 #: ../../TSR.rst:624
 msgid ""
 ":mtgtip:`Blightspeaker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/7/17ab3455-f464-41b0-ac63-d40d27abbfb1.jpg?1616271629|"
+"border_crop/front/1/7/17ab3455-f464-41b0-ac63-d40d27abbfb1.jpg?1619395094|"
 "https://scryfall.com/card/tsr/103/blightspeaker?utm_source=api>`"
 msgstr ""
 
@@ -1907,7 +1910,7 @@ msgstr "|tap|: Wskazany gracz traci 1 życie."
 #: ../../TSR.rst:630
 msgid ""
 ":mtgtip:`Corpulent Corpse<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/8/c8680e7c-f180-45b9-9af6-a8e93037b851.jpg?1616271670|"
+"border_crop/front/c/8/c8680e7c-f180-45b9-9af6-a8e93037b851.jpg?1619395119|"
 "https://scryfall.com/card/tsr/104/corpulent-corpse?utm_source=api>`"
 msgstr ""
 
@@ -1934,7 +1937,7 @@ msgstr ""
 #: ../../TSR.rst:634
 msgid ""
 ":mtgtip:`Cutthroat il-Dal<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/4/d4123bab-d61e-4d69-b9ca-1fff3a11335a.jpg?1616271731|"
+"border_crop/front/d/4/d4123bab-d61e-4d69-b9ca-1fff3a11335a.jpg?1619395143|"
 "https://scryfall.com/card/tsr/105/cutthroat-il-dal?utm_source=api>`"
 msgstr ""
 
@@ -1949,7 +1952,7 @@ msgstr ""
 #: ../../TSR.rst:638
 msgid ""
 ":mtgtip:`Damnation<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/4/941b65da-b9b3-4e15-bab5-bcbfd20dbe05.jpg?1616271795|https://"
+"front/9/4/941b65da-b9b3-4e15-bab5-bcbfd20dbe05.jpg?1619395168|https://"
 "scryfall.com/card/tsr/106/damnation?utm_source=api>`"
 msgstr ""
 
@@ -1960,7 +1963,7 @@ msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 #: ../../TSR.rst:644
 msgid ""
 ":mtgtip:`Dark Withering<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/9/c9366fa8-f0af-4eb4-a063-7869ca85b9c2.jpg?1616271831|"
+"border_crop/front/c/9/c9366fa8-f0af-4eb4-a063-7869ca85b9c2.jpg?1619395191|"
 "https://scryfall.com/card/tsr/107/dark-withering?utm_source=api>`"
 msgstr ""
 
@@ -1971,7 +1974,7 @@ msgstr "Zniszcz wskazanego nieczarnego stwora."
 #: ../../TSR.rst:650
 msgid ""
 ":mtgtip:`Deadly Grub<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/4/44e872ae-2e41-49f5-9015-e8f9fa7da987.jpg?1616271887|https://"
+"front/4/4/44e872ae-2e41-49f5-9015-e8f9fa7da987.jpg?1619395221|https://"
 "scryfall.com/card/tsr/108/deadly-grub?utm_source=api>`"
 msgstr ""
 
@@ -1988,7 +1991,7 @@ msgstr ""
 #: ../../TSR.rst:658
 msgid ""
 ":mtgtip:`Deathspore Thallid<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/4/74c1b368-6fb0-4430-807e-d124f3077361.jpg?1616271941|"
+"border_crop/front/7/4/74c1b368-6fb0-4430-807e-d124f3077361.jpg?1619395285|"
 "https://scryfall.com/card/tsr/109/deathspore-thallid?utm_source=api>`"
 msgstr ""
 
@@ -2014,7 +2017,7 @@ msgstr "Poświęć Sadzonkę: Wskazany stwór dostaje do końca tury -1/-1."
 #: ../../TSR.rst:664
 msgid ""
 ":mtgtip:`Deepcavern Imp<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/3/13cfa5f3-495f-457b-ad44-bd2cf3414ce4.jpg?1616272025|"
+"border_crop/front/1/3/13cfa5f3-495f-457b-ad44-bd2cf3414ce4.jpg?1619395323|"
 "https://scryfall.com/card/tsr/110/deepcavern-imp?utm_source=api>`"
 msgstr ""
 
@@ -2035,7 +2038,7 @@ msgstr ""
 #: ../../TSR.rst:670
 msgid ""
 ":mtgtip:`Dread Return<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/a/3a548c9b-bdea-4c11-891e-e472fc63ae9b.jpg?1616272065|"
+"border_crop/front/3/a/3a548c9b-bdea-4c11-891e-e472fc63ae9b.jpg?1619395354|"
 "https://scryfall.com/card/tsr/111/dread-return?utm_source=api>`"
 msgstr ""
 
@@ -2054,7 +2057,7 @@ msgstr ""
 #: ../../TSR.rst:676
 msgid ""
 ":mtgtip:`Dunerider Outlaw<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/2/42f6f584-9ed3-4e93-ac1a-31878a6b7118.jpg?1616272097|"
+"border_crop/front/4/2/42f6f584-9ed3-4e93-ac1a-31878a6b7118.jpg?1619395381|"
 "https://scryfall.com/card/tsr/112/dunerider-outlaw?utm_source=api>`"
 msgstr ""
 
@@ -2073,7 +2076,7 @@ msgstr ""
 #: ../../TSR.rst:684
 msgid ""
 ":mtgtip:`Enslave<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/0/a00440fc-e3e1-4a1c-b32b-f7946a76cd62.jpg?1616272133|https://"
+"front/a/0/a00440fc-e3e1-4a1c-b32b-f7946a76cd62.jpg?1619395410|https://"
 "scryfall.com/card/tsr/113/enslave?utm_source=api>`"
 msgstr ""
 
@@ -2092,7 +2095,7 @@ msgstr ""
 #: ../../TSR.rst:690
 msgid ""
 ":mtgtip:`Extirpate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/1/4171dbd3-96d6-4e7a-afac-5b2882bf3872.jpg?1616272201|https://"
+"front/4/1/4171dbd3-96d6-4e7a-afac-5b2882bf3872.jpg?1619395440|https://"
 "scryfall.com/card/tsr/114/extirpate?utm_source=api>`"
 msgstr ""
 
@@ -2109,7 +2112,7 @@ msgstr ""
 #: ../../TSR.rst:698
 msgid ""
 ":mtgtip:`Faceless Devourer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/4/c49d6139-fc0c-41db-be08-dfa87c685092.jpg?1616272247|"
+"border_crop/front/c/4/c49d6139-fc0c-41db-be08-dfa87c685092.jpg?1619395466|"
 "https://scryfall.com/card/tsr/115/faceless-devourer?utm_source=api>`"
 msgstr ""
 
@@ -2132,7 +2135,7 @@ msgstr ""
 #: ../../TSR.rst:706
 msgid ""
 ":mtgtip:`Feebleness<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/2/6/265960a9-bea6-4111-b9a7-b6a37194b1c5.jpg?1616272289|https://"
+"front/2/6/265960a9-bea6-4111-b9a7-b6a37194b1c5.jpg?1619395493|https://"
 "scryfall.com/card/tsr/116/feebleness?utm_source=api>`"
 msgstr ""
 
@@ -2143,7 +2146,7 @@ msgstr "Zauroczony stwór dostaje -2/-1."
 #: ../../TSR.rst:712
 msgid ""
 ":mtgtip:`Gorgon Recluse<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/0/b0bf2a33-0eb6-4898-a0fb-f5afb47ea1aa.jpg?1616272345|"
+"border_crop/front/b/0/b0bf2a33-0eb6-4898-a0fb-f5afb47ea1aa.jpg?1619395524|"
 "https://scryfall.com/card/tsr/117/gorgon-recluse?utm_source=api>`"
 msgstr ""
 
@@ -2168,7 +2171,7 @@ msgstr ""
 #: ../../TSR.rst:718
 msgid ""
 ":mtgtip:`Grave Scrabbler<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/6/d6c53e52-8d63-4628-bfb9-8abe4c7c7f4a.jpg?1616272382|"
+"border_crop/front/d/6/d6c53e52-8d63-4628-bfb9-8abe4c7c7f4a.jpg?1619395549|"
 "https://scryfall.com/card/tsr/118/grave-scrabbler?utm_source=api>`"
 msgstr ""
 
@@ -2194,7 +2197,7 @@ msgstr ""
 #: ../../TSR.rst:726
 msgid ""
 ":mtgtip:`Ichor Slick<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/3/3/33faa287-2a12-4a94-8d42-77da2b24d86f.jpg?1616272424|https://"
+"front/3/3/33faa287-2a12-4a94-8d42-77da2b24d86f.jpg?1619395574|https://"
 "scryfall.com/card/tsr/119/ichor-slick?utm_source=api>`"
 msgstr ""
 
@@ -2219,7 +2222,7 @@ msgstr ""
 #: ../../TSR.rst:730
 msgid ""
 ":mtgtip:`Kor Dirge<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/5/e55cf5e9-b343-4307-a379-925d94a8a003.jpg?1616272506|https://"
+"front/e/5/e55cf5e9-b343-4307-a379-925d94a8a003.jpg?1620236321|https://"
 "scryfall.com/card/tsr/120/kor-dirge?utm_source=api>`"
 msgstr ""
 
@@ -2235,7 +2238,7 @@ msgstr ""
 #: ../../TSR.rst:736
 msgid ""
 ":mtgtip:`Living End<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/1/b1eede29-17a4-437f-a5c2-e24cccbc6a33.jpg?1616272548|https://"
+"front/b/1/b1eede29-17a4-437f-a5c2-e24cccbc6a33.jpg?1619395625|https://"
 "scryfall.com/card/tsr/121/living-end?utm_source=api>`"
 msgstr ""
 
@@ -2256,14 +2259,14 @@ msgstr ""
 #: ../../TSR.rst:738
 msgid ""
 ":mtgtip:`Mass of Ghouls<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/d/cd816d37-7a9e-485e-9ed9-20c1c15a26dd.jpg?1616272597|"
+"border_crop/front/c/d/cd816d37-7a9e-485e-9ed9-20c1c15a26dd.jpg?1619395649|"
 "https://scryfall.com/card/tsr/122/mass-of-ghouls?utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:746
 msgid ""
 ":mtgtip:`Mindstab<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/4/542f97fa-6295-4c87-86a8-7ff2bc8b5e81.jpg?1616272631|https://"
+"front/5/4/542f97fa-6295-4c87-86a8-7ff2bc8b5e81.jpg?1619395679|https://"
 "scryfall.com/card/tsr/123/mindstab?utm_source=api>`"
 msgstr ""
 
@@ -2286,7 +2289,7 @@ msgstr ""
 #: ../../TSR.rst:750
 msgid ""
 ":mtgtip:`Minions' Murmurs<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/c/0c42fded-49e8-4c69-8ade-ba5e76e44b45.jpg?1616272685|"
+"border_crop/front/0/c/0c42fded-49e8-4c69-8ade-ba5e76e44b45.jpg?1619395708|"
 "https://scryfall.com/card/tsr/124/minions-murmurs?utm_source=api>`"
 msgstr ""
 
@@ -2301,7 +2304,7 @@ msgstr ""
 #: ../../TSR.rst:756
 msgid ""
 ":mtgtip:`Mirri the Cursed<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/4/24c1706d-2faa-452b-a192-204386df29f6.jpg?1616272724|"
+"border_crop/front/2/4/24c1706d-2faa-452b-a192-204386df29f6.jpg?1619395734|"
 "https://scryfall.com/card/tsr/125/mirri-the-cursed?utm_source=api>`"
 msgstr ""
 
@@ -2320,7 +2323,7 @@ msgstr ""
 #: ../../TSR.rst:764
 msgid ""
 ":mtgtip:`Muck Drubb<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/b/cb2aaec8-43a0-4639-8190-3ce1273a2711.jpg?1616272761|https://"
+"front/c/b/cb2aaec8-43a0-4639-8190-3ce1273a2711.jpg?1619395760|https://"
 "scryfall.com/card/tsr/126/muck-drubb?utm_source=api>`"
 msgstr ""
 
@@ -2345,7 +2348,7 @@ msgstr ""
 #: ../../TSR.rst:772
 msgid ""
 ":mtgtip:`Nether Traitor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/f/8f3482ec-8466-4680-bfdc-e1029c0fbe89.jpg?1616272800|"
+"border_crop/front/8/f/8f3482ec-8466-4680-bfdc-e1029c0fbe89.jpg?1619395794|"
 "https://scryfall.com/card/tsr/127/nether-traitor?utm_source=api>`"
 msgstr ""
 
@@ -2367,7 +2370,7 @@ msgstr ""
 #: ../../TSR.rst:780
 msgid ""
 ":mtgtip:`Nightshade Assassin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/d/cd610675-f8ab-47a7-a4db-c1bfb0e9d5c8.jpg?1616272840|"
+"border_crop/front/c/d/cd610675-f8ab-47a7-a4db-c1bfb0e9d5c8.jpg?1619395818|"
 "https://scryfall.com/card/tsr/128/nightshade-assassin?utm_source=api>`"
 msgstr ""
 
@@ -2386,7 +2389,7 @@ msgstr ""
 #: ../../TSR.rst:786
 msgid ""
 ":mtgtip:`Phthisis<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/e/6e798d8e-cc01-4cd1-9325-37d1bf73e042.jpg?1616272896|https://"
+"front/6/e/6e798d8e-cc01-4cd1-9325-37d1bf73e042.jpg?1619395848|https://"
 "scryfall.com/card/tsr/129/phthisis?utm_source=api>`"
 msgstr ""
 
@@ -2413,7 +2416,7 @@ msgstr ""
 #: ../../TSR.rst:790
 msgid ""
 ":mtgtip:`Pit Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/f/5f731d16-d969-40a8-a002-4d40eb8f6bac.jpg?1616272994|https://"
+"front/5/f/5f731d16-d969-40a8-a002-4d40eb8f6bac.jpg?1619395876|https://"
 "scryfall.com/card/tsr/130/pit-keeper?utm_source=api>`"
 msgstr ""
 
@@ -2430,7 +2433,7 @@ msgstr ""
 #: ../../TSR.rst:794
 msgid ""
 ":mtgtip:`Premature Burial<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/4/b42f83e3-631b-432e-8d2f-f62d3207e95e.jpg?1616273046|"
+"border_crop/front/b/4/b42f83e3-631b-432e-8d2f-f62d3207e95e.jpg?1619395904|"
 "https://scryfall.com/card/tsr/131/premature-burial?utm_source=api>`"
 msgstr ""
 
@@ -2445,7 +2448,7 @@ msgstr ""
 #: ../../TSR.rst:800
 msgid ""
 ":mtgtip:`Psychotic Episode<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/a/fa6d8c51-bff9-4eba-8c1b-2d45b7635c52.jpg?1616273083|"
+"border_crop/front/f/a/fa6d8c51-bff9-4eba-8c1b-2d45b7635c52.jpg?1619395932|"
 "https://scryfall.com/card/tsr/132/psychotic-episode?utm_source=api>`"
 msgstr ""
 
@@ -2462,7 +2465,7 @@ msgstr ""
 #: ../../TSR.rst:804
 msgid ""
 ":mtgtip:`Rathi Trapper<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/3/e30c08c7-ff2b-40cb-93d0-18e48bf0cf4d.jpg?1616273116|"
+"border_crop/front/e/3/e30c08c7-ff2b-40cb-93d0-18e48bf0cf4d.jpg?1619395957|"
 "https://scryfall.com/card/tsr/133/rathi-trapper?utm_source=api>`"
 msgstr ""
 
@@ -2473,7 +2476,7 @@ msgstr "|mana_b|, |tap|: Przekręć wskazanego stwora."
 #: ../../TSR.rst:808
 msgid ""
 ":mtgtip:`Ridged Kusite<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/5/a51ea7d3-a9d7-4b1d-bf3b-3fcfb6a49624.jpg?1616273173|"
+"border_crop/front/a/5/a51ea7d3-a9d7-4b1d-bf3b-3fcfb6a49624.jpg?1619395982|"
 "https://scryfall.com/card/tsr/134/ridged-kusite?utm_source=api>`"
 msgstr ""
 
@@ -2488,7 +2491,7 @@ msgstr ""
 #: ../../TSR.rst:812
 msgid ""
 ":mtgtip:`Sangrophage<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/9/c9ceaa1f-4c11-4f06-aa87-2f2a0deb47e1.jpg?1616273212|https://"
+"front/c/9/c9ceaa1f-4c11-4f06-aa87-2f2a0deb47e1.jpg?1619396009|https://"
 "scryfall.com/card/tsr/135/sangrophage?utm_source=api>`"
 msgstr ""
 
@@ -2501,7 +2504,7 @@ msgstr ""
 #: ../../TSR.rst:818
 msgid ""
 ":mtgtip:`Sengir Nosferatu<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/1/71dc9f1e-b889-402d-a5a1-fa0d7d493246.jpg?1616273253|"
+"border_crop/front/7/1/71dc9f1e-b889-402d-a5a1-fa0d7d493246.jpg?1619396036|"
 "https://scryfall.com/card/tsr/136/sengir-nosferatu?utm_source=api>`"
 msgstr ""
 
@@ -2520,7 +2523,7 @@ msgstr ""
 #: ../../TSR.rst:822
 msgid ""
 ":mtgtip:`Skittering Monstrosity<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/b/fb6f872f-adfa-4d29-87df-9d39fb06b5be.jpg?1616273303|"
+"border_crop/front/f/b/fb6f872f-adfa-4d29-87df-9d39fb06b5be.jpg?1619396066|"
 "https://scryfall.com/card/tsr/137/skittering-monstrosity?utm_source=api>`"
 msgstr ""
 
@@ -2531,7 +2534,7 @@ msgstr "Kiedy rzucisz czar stwora, poświęć tego stwora."
 #: ../../TSR.rst:828
 msgid ""
 ":mtgtip:`Slaughter Pact<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/1/81e00341-030f-433e-b22b-aca42e0a88d2.jpg?1616273340|"
+"border_crop/front/8/1/81e00341-030f-433e-b22b-aca42e0a88d2.jpg?1619396090|"
 "https://scryfall.com/card/tsr/138/slaughter-pact?utm_source=api>`"
 msgstr ""
 
@@ -2546,7 +2549,7 @@ msgstr ""
 #: ../../TSR.rst:832
 msgid ""
 ":mtgtip:`Smallpox<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1616273382|https://"
+"front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1619396163|https://"
 "scryfall.com/card/tsr/139/smallpox?utm_source=api>`"
 msgstr ""
 
@@ -2561,7 +2564,7 @@ msgstr ""
 #: ../../TSR.rst:838
 msgid ""
 ":mtgtip:`Strangling Soot<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/7/872d8f4d-6ee5-4494-9900-db62d3e4cedd.jpg?1616273483|"
+"border_crop/front/8/7/872d8f4d-6ee5-4494-9900-db62d3e4cedd.jpg?1619396206|"
 "https://scryfall.com/card/tsr/140/strangling-soot?utm_source=api>`"
 msgstr ""
 
@@ -2580,7 +2583,7 @@ msgstr ""
 #: ../../TSR.rst:844
 msgid ""
 ":mtgtip:`Street Wraith<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1616273537|"
+"border_crop/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291|"
 "https://scryfall.com/card/tsr/141/street-wraith?utm_source=api>`"
 msgstr ""
 
@@ -2600,7 +2603,7 @@ msgstr ""
 #: ../../TSR.rst:850
 msgid ""
 ":mtgtip:`Stronghold Rats<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/7/87761f00-bfbc-42dc-b96d-9f4258b43a8b.jpg?1616273585|"
+"border_crop/front/8/7/87761f00-bfbc-42dc-b96d-9f4258b43a8b.jpg?1619396314|"
 "https://scryfall.com/card/tsr/142/stronghold-rats?utm_source=api>`"
 msgstr ""
 
@@ -2614,7 +2617,7 @@ msgstr ""
 #: ../../TSR.rst:856
 msgid ""
 ":mtgtip:`Sudden Death<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/d/5d724faa-a988-4c08-875d-d18f48926a0a.jpg?1616273627|"
+"border_crop/front/5/d/5d724faa-a988-4c08-875d-d18f48926a0a.jpg?1619396356|"
 "https://scryfall.com/card/tsr/143/sudden-death?utm_source=api>`"
 msgstr ""
 
@@ -2625,7 +2628,7 @@ msgstr "Wskazany stwór dostaje do końca tury -4/-4."
 #: ../../TSR.rst:862
 msgid ""
 ":mtgtip:`Sudden Spoiling<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/3/73514b51-6c19-4b3c-9cf9-2cf5028d7708.jpg?1616273665|"
+"border_crop/front/7/3/73514b51-6c19-4b3c-9cf9-2cf5028d7708.jpg?1619396405|"
 "https://scryfall.com/card/tsr/144/sudden-spoiling?utm_source=api>`"
 msgstr ""
 
@@ -2640,7 +2643,7 @@ msgstr ""
 #: ../../TSR.rst:866
 msgid ""
 ":mtgtip:`Tendrils of Corruption<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/3/c338b459-6bb8-4bc7-a6b5-945a09589c05.jpg?1616273713|"
+"border_crop/front/c/3/c338b459-6bb8-4bc7-a6b5-945a09589c05.jpg?1619396480|"
 "https://scryfall.com/card/tsr/145/tendrils-of-corruption?utm_source=api>`"
 msgstr ""
 
@@ -2655,14 +2658,14 @@ msgstr ""
 #: ../../TSR.rst:872
 msgid ""
 ":mtgtip:`Tombstalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/7/8/78f02d59-0786-41c8-940b-4ef6ef01c646.jpg?1616273772|https://"
+"front/7/8/78f02d59-0786-41c8-940b-4ef6ef01c646.jpg?1620236273|https://"
 "scryfall.com/card/tsr/146/tombstalker?utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:876
 msgid ""
 ":mtgtip:`Trespasser il-Vec<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/278421ff-5324-44e5-b24f-dfbf9aa9b604.jpg?1616273813|"
+"border_crop/front/2/7/278421ff-5324-44e5-b24f-dfbf9aa9b604.jpg?1619396542|"
 "https://scryfall.com/card/tsr/147/trespasser-il-vec?utm_source=api>`"
 msgstr ""
 
@@ -2677,7 +2680,7 @@ msgstr ""
 #: ../../TSR.rst:880
 msgid ""
 ":mtgtip:`Urborg Syphon-Mage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/2/a2c7b098-82ba-4015-aaa5-df9aa0a05e40.jpg?1616273856|"
+"border_crop/front/a/2/a2c7b098-82ba-4015-aaa5-df9aa0a05e40.jpg?1619396572|"
 "https://scryfall.com/card/tsr/148/urborg-syphon-mage?utm_source=api>`"
 msgstr ""
 
@@ -2692,7 +2695,7 @@ msgstr ""
 #: ../../TSR.rst:884
 msgid ""
 ":mtgtip:`Yixlid Jailer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/f/3f2ef91f-d113-4e8d-a164-c6e261aa9c12.jpg?1616273896|"
+"border_crop/front/3/f/3f2ef91f-d113-4e8d-a164-c6e261aa9c12.jpg?1619396601|"
 "https://scryfall.com/card/tsr/149/yixlid-jailer?utm_source=api>`"
 msgstr ""
 
@@ -2703,7 +2706,7 @@ msgstr "Karty w cmentarzach tracą wszystkie zdolności."
 #: ../../TSR.rst:894
 msgid ""
 ":mtgtip:`Akroma, Angel of Fury<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/c/8c21655e-fda4-4852-a801-c5593644044a.jpg?1616273971|"
+"border_crop/front/8/c/8c21655e-fda4-4852-a801-c5593644044a.jpg?1619396626|"
 "https://scryfall.com/card/tsr/150/akroma-angel-of-fury?utm_source=api>`"
 msgstr ""
 
@@ -2732,7 +2735,7 @@ msgstr ""
 #: ../../TSR.rst:900
 msgid ""
 ":mtgtip:`Ancient Grudge<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/f/5f28d4a2-6c75-44c2-93ac-e7159c1c623f.jpg?1616274038|"
+"border_crop/front/5/f/5f28d4a2-6c75-44c2-93ac-e7159c1c623f.jpg?1619396653|"
 "https://scryfall.com/card/tsr/151/ancient-grudge?utm_source=api>`"
 msgstr ""
 
@@ -2751,7 +2754,7 @@ msgstr ""
 #: ../../TSR.rst:906
 msgid ""
 ":mtgtip:`Arc Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/2/92b8fe7c-fe36-4f6d-9c7f-85286b745865.jpg?1616274084|https://"
+"front/9/2/92b8fe7c-fe36-4f6d-9c7f-85286b745865.jpg?1619396675|https://"
 "scryfall.com/card/tsr/152/arc-blade?utm_source=api>`"
 msgstr ""
 
@@ -2778,7 +2781,7 @@ msgstr ""
 #: ../../TSR.rst:914
 msgid ""
 ":mtgtip:`Basalt Gargoyle<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/d/9d49201b-bd41-49b7-b00e-4ab8034a3a03.jpg?1616274141|"
+"border_crop/front/9/d/9d49201b-bd41-49b7-b00e-4ab8034a3a03.jpg?1619396699|"
 "https://scryfall.com/card/tsr/153/basalt-gargoyle?utm_source=api>`"
 msgstr ""
 
@@ -2799,7 +2802,7 @@ msgstr "|mana_r|: Ten stwór dostaje do końca tury +0/+1."
 #: ../../TSR.rst:918
 msgid ""
 ":mtgtip:`Battering Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/f/7f65a72b-d24c-4016-befc-91018a1b62e1.jpg?1616274176|"
+"border_crop/front/7/f/7f65a72b-d24c-4016-befc-91018a1b62e1.jpg?1619396727|"
 "https://scryfall.com/card/tsr/154/battering-sliver?utm_source=api>`"
 msgstr ""
 
@@ -2810,7 +2813,7 @@ msgstr "Wszystkie Drzazgacze mają tratowanie."
 #: ../../TSR.rst:922
 msgid ""
 ":mtgtip:`Bonesplitter Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/9/29672365-f059-4ff2-93c5-437b9ab01297.jpg?1616274231|"
+"border_crop/front/2/9/29672365-f059-4ff2-93c5-437b9ab01297.jpg?1619396757|"
 "https://scryfall.com/card/tsr/155/bonesplitter-sliver?utm_source=api>`"
 msgstr ""
 
@@ -2821,7 +2824,7 @@ msgstr "Wszystkie Drzazgacze dostają +2/+0."
 #: ../../TSR.rst:926
 msgid ""
 ":mtgtip:`Boom<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1616274282|https://"
+"front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1619396784|https://"
 "scryfall.com/card/tsr/156/boom-bust?utm_source=api>`"
 msgstr ""
 
@@ -2833,7 +2836,7 @@ msgstr ""
 #: ../../TSR.rst:930
 msgid ""
 ":mtgtip:`Bust<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1616274282|https://"
+"front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1619396784|https://"
 "scryfall.com/card/tsr/156/boom-bust?utm_source=api>`"
 msgstr ""
 
@@ -2844,7 +2847,7 @@ msgstr "Zniszcz wszystkie lądy."
 #: ../../TSR.rst:934
 msgid ""
 ":mtgtip:`Brute Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/9/89db7256-3bd0-4c1d-9c6f-de81f7d3c1a2.jpg?1616274324|https://"
+"front/8/9/89db7256-3bd0-4c1d-9c6f-de81f7d3c1a2.jpg?1619396809|https://"
 "scryfall.com/card/tsr/157/brute-force?utm_source=api>`"
 msgstr ""
 
@@ -2855,7 +2858,7 @@ msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 #: ../../TSR.rst:940
 msgid ""
 ":mtgtip:`Char-Rumbler<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/3/13f696f9-afa2-40c4-950a-e1e01c452017.jpg?1616274380|"
+"border_crop/front/1/3/13f696f9-afa2-40c4-950a-e1e01c452017.jpg?1619396834|"
 "https://scryfall.com/card/tsr/158/char-rumbler?utm_source=api>`"
 msgstr ""
 
@@ -2870,7 +2873,7 @@ msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 #: ../../TSR.rst:944
 msgid ""
 ":mtgtip:`Coal Stoker<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/9/59871c54-7873-4fc5-8084-55918a11e6f4.jpg?1616274442|https://"
+"front/5/9/59871c54-7873-4fc5-8084-55918a11e6f4.jpg?1619396859|https://"
 "scryfall.com/card/tsr/159/coal-stoker?utm_source=api>`"
 msgstr ""
 
@@ -2885,7 +2888,7 @@ msgstr ""
 #: ../../TSR.rst:950
 msgid ""
 ":mtgtip:`Conflagrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/f/bfbbcc1a-c6cc-4671-91ab-9dcf454f62e0.jpg?1616274542|https://"
+"front/b/f/bfbbcc1a-c6cc-4671-91ab-9dcf454f62e0.jpg?1619396881|https://"
 "scryfall.com/card/tsr/160/conflagrate?utm_source=api>`"
 msgstr ""
 
@@ -2907,7 +2910,7 @@ msgstr ""
 #: ../../TSR.rst:954
 msgid ""
 ":mtgtip:`Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1616274591|https://"
+"front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1619396904|https://"
 "scryfall.com/card/tsr/161/dead-gone?utm_source=api>`"
 msgstr ""
 
@@ -2918,7 +2921,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi 2 obrażenia."
 #: ../../TSR.rst:958
 msgid ""
 ":mtgtip:`Gone<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1616274591|https://"
+"front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1619396904|https://"
 "scryfall.com/card/tsr/161/dead-gone?utm_source=api>`"
 msgstr ""
 
@@ -2929,7 +2932,7 @@ msgstr "Przywróć wskazanego stwora poza twoim władaniem do ręki właściciel
 #: ../../TSR.rst:964
 msgid ""
 ":mtgtip:`Empty the Warrens<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/6/06462b57-1b0e-4c9c-9531-c14b9f2d5a3b.jpg?1616274638|"
+"border_crop/front/0/6/06462b57-1b0e-4c9c-9531-c14b9f2d5a3b.jpg?1619396929|"
 "https://scryfall.com/card/tsr/162/empty-the-warrens?utm_source=api>`"
 msgstr ""
 
@@ -2948,7 +2951,7 @@ msgstr ""
 #: ../../TSR.rst:972
 msgid ""
 ":mtgtip:`Firemaw Kavu<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/3/2376735d-7812-4fab-baba-0d331f6e2211.jpg?1616274685|"
+"border_crop/front/2/3/2376735d-7812-4fab-baba-0d331f6e2211.jpg?1619396952|"
 "https://scryfall.com/card/tsr/163/firemaw-kavu?utm_source=api>`"
 msgstr ""
 
@@ -2980,7 +2983,7 @@ msgstr ""
 #: ../../TSR.rst:976
 msgid ""
 ":mtgtip:`Fury Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/8/a8a64329-09fc-4e0d-b7d1-378635f2801a.jpg?1616274724|https://"
+"front/a/8/a8a64329-09fc-4e0d-b7d1-378635f2801a.jpg?1619396979|https://"
 "scryfall.com/card/tsr/164/fury-sliver?utm_source=api>`"
 msgstr ""
 
@@ -2991,7 +2994,7 @@ msgstr "Wszystkie Drzazgacze mają podwójny cios."
 #: ../../TSR.rst:982
 msgid ""
 ":mtgtip:`Gathan Raiders<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/8/58c232e5-54e2-44b7-85b1-ed039a8e5a73.jpg?1616274778|"
+"border_crop/front/5/8/58c232e5-54e2-44b7-85b1-ed039a8e5a73.jpg?1619397006|"
 "https://scryfall.com/card/tsr/165/gathan-raiders?utm_source=api>`"
 msgstr ""
 
@@ -3011,7 +3014,7 @@ msgstr ""
 #: ../../TSR.rst:988
 msgid ""
 ":mtgtip:`Grapeshot<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/8/585bed40-9ca6-46a0-80c4-c769cd8e2b20.jpg?1616274832|https://"
+"front/5/8/585bed40-9ca6-46a0-80c4-c769cd8e2b20.jpg?1619397029|https://"
 "scryfall.com/card/tsr/166/grapeshot?utm_source=api>`"
 msgstr ""
 
@@ -3030,7 +3033,7 @@ msgstr ""
 #: ../../TSR.rst:994
 msgid ""
 ":mtgtip:`Greater Gargadon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/f/ef6d6eb2-beed-4c84-af6a-bf8ebdc62f50.jpg?1616274872|"
+"border_crop/front/e/f/ef6d6eb2-beed-4c84-af6a-bf8ebdc62f50.jpg?1619397056|"
 "https://scryfall.com/card/tsr/167/greater-gargadon?utm_source=api>`"
 msgstr ""
 
@@ -3049,7 +3052,7 @@ msgstr ""
 #: ../../TSR.rst:998
 msgid ""
 ":mtgtip:`Grinning Ignus<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/2/8215cb7b-9c8c-4d2b-adb1-c1d1d22bb54e.jpg?1616274920|"
+"border_crop/front/8/2/8215cb7b-9c8c-4d2b-adb1-c1d1d22bb54e.jpg?1619397089|"
 "https://scryfall.com/card/tsr/168/grinning-ignus?utm_source=api>`"
 msgstr ""
 
@@ -3058,13 +3061,13 @@ msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
 "colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
-"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
-"|colorless|\\ |mana_r|. Aktywuj tylko jako obrzęd."
+"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ |"
+"colorless|\\ |mana_r|. Aktywuj tylko jako obrzęd."
 
 #: ../../TSR.rst:1006
 msgid ""
 ":mtgtip:`Haze of Rage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/3/c344b885-68c6-43d2-b6c1-6c89b3c94983.jpg?1616274984|"
+"border_crop/front/c/3/c344b885-68c6-43d2-b6c1-6c89b3c94983.jpg?1619397115|"
 "https://scryfall.com/card/tsr/169/haze-of-rage?utm_source=api>`"
 msgstr ""
 
@@ -3083,7 +3086,7 @@ msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+0."
 #: ../../TSR.rst:1014
 msgid ""
 ":mtgtip:`Henchfiend of Ukor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/6/d6a8f7ae-bb2b-4ecc-b020-427486315855.jpg?1616275087|"
+"border_crop/front/d/6/d6a8f7ae-bb2b-4ecc-b020-427486315855.jpg?1619397148|"
 "https://scryfall.com/card/tsr/170/henchfiend-of-ukor?utm_source=api>`"
 msgstr ""
 
@@ -3104,7 +3107,7 @@ msgstr "|mana_br|: Ten stwór dostaje do końca tury +1/+0."
 #: ../../TSR.rst:1020
 msgid ""
 ":mtgtip:`Homing Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/7/a7f2073b-bc1f-4611-9bdf-73cb86892886.jpg?1616275113|"
+"border_crop/front/a/7/a7f2073b-bc1f-4611-9bdf-73cb86892886.jpg?1619397176|"
 "https://scryfall.com/card/tsr/171/homing-sliver?utm_source=api>`"
 msgstr ""
 
@@ -3125,7 +3128,7 @@ msgstr ""
 #: ../../TSR.rst:1028
 msgid ""
 ":mtgtip:`Jaya Ballard, Task Mage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/8/2890840e-da0b-40ba-b3c2-7e4af39922b3.jpg?1616275148|"
+"border_crop/front/2/8/2890840e-da0b-40ba-b3c2-7e4af39922b3.jpg?1619397203|"
 "https://scryfall.com/card/tsr/172/jaya-ballard-task-mage?utm_source=api>`"
 msgstr ""
 
@@ -3154,7 +3157,7 @@ msgstr ""
 #: ../../TSR.rst:1034
 msgid ""
 ":mtgtip:`Keldon Halberdier<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/5/55e0caef-215a-4433-8a85-322e62e3590d.jpg?1616275176|"
+"border_crop/front/5/5/55e0caef-215a-4433-8a85-322e62e3590d.jpg?1619397229|"
 "https://scryfall.com/card/tsr/173/keldon-halberdier?utm_source=api>`"
 msgstr ""
 
@@ -3173,7 +3176,7 @@ msgstr ""
 #: ../../TSR.rst:1040
 msgid ""
 ":mtgtip:`Lightning Axe<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/a/ca33c171-ab9e-4908-8f97-82cd83b173c0.jpg?1616275214|"
+"border_crop/front/c/a/ca33c171-ab9e-4908-8f97-82cd83b173c0.jpg?1619397252|"
 "https://scryfall.com/card/tsr/174/lightning-axe?utm_source=api>`"
 msgstr ""
 
@@ -3190,7 +3193,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 #: ../../TSR.rst:1044
 msgid ""
 ":mtgtip:`Magus of the Moon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/c/7c9bd75c-9606-4607-bfa6-d6acdee12820.jpg?1616275256|"
+"border_crop/front/7/c/7c9bd75c-9606-4607-bfa6-d6acdee12820.jpg?1619397276|"
 "https://scryfall.com/card/tsr/175/magus-of-the-moon?utm_source=api>`"
 msgstr ""
 
@@ -3201,7 +3204,7 @@ msgstr "Niebazowe lądy są Górami."
 #: ../../TSR.rst:1050
 msgid ""
 ":mtgtip:`Mogg War Marshal<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/f/7fb6d241-f68b-45c8-a79a-f6c274bd8512.jpg?1616275291|"
+"border_crop/front/7/f/7fb6d241-f68b-45c8-a79a-f6c274bd8512.jpg?1619400762|"
 "https://scryfall.com/card/tsr/176/mogg-war-marshal?utm_source=api>`"
 msgstr ""
 
@@ -3226,7 +3229,7 @@ msgstr ""
 #: ../../TSR.rst:1054
 msgid ""
 ":mtgtip:`Needlepeak Spider<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/0/00c7d94f-3760-4c97-b0bf-c895f4132c7f.jpg?1616275329|"
+"border_crop/front/0/0/00c7d94f-3760-4c97-b0bf-c895f4132c7f.jpg?1619397300|"
 "https://scryfall.com/card/tsr/177/needlepeak-spider?utm_source=api>`"
 msgstr ""
 
@@ -3237,7 +3240,7 @@ msgstr "Zasięg"
 #: ../../TSR.rst:1060
 msgid ""
 ":mtgtip:`Orcish Cannonade<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/a/0afae574-aa96-4500-9882-a4b10337b6f5.jpg?1616275362|"
+"border_crop/front/0/a/0afae574-aa96-4500-9882-a4b10337b6f5.jpg?1619397326|"
 "https://scryfall.com/card/tsr/178/orcish-cannonade?utm_source=api>`"
 msgstr ""
 
@@ -3248,7 +3251,7 @@ msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia oraz 3 obrażenia tobie."
 #: ../../TSR.rst:1066
 msgid ""
 ":mtgtip:`Pact of the Titan<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/6/4612effe-8ca2-4c27-90d2-d9255acc80d9.jpg?1616692347|"
+"border_crop/front/4/6/4612effe-8ca2-4c27-90d2-d9255acc80d9.jpg?1619397348|"
 "https://scryfall.com/card/tsr/179/pact-of-the-titan?utm_source=api>`"
 msgstr ""
 
@@ -3267,7 +3270,7 @@ msgstr ""
 #: ../../TSR.rst:1070
 msgid ""
 ":mtgtip:`Prodigal Pyromancer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/f/cf16600a-c2a5-49e4-89e2-260cfaf58b52.jpg?1616275469|"
+"border_crop/front/c/f/cf16600a-c2a5-49e4-89e2-260cfaf58b52.jpg?1619397370|"
 "https://scryfall.com/card/tsr/180/prodigal-pyromancer?utm_source=api>`"
 msgstr ""
 
@@ -3278,7 +3281,7 @@ msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 #: ../../TSR.rst:1076
 msgid ""
 ":mtgtip:`Reckless Wurm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/9/59243436-b55d-44c3-962b-751eff429f71.jpg?1616275503|"
+"border_crop/front/5/9/59243436-b55d-44c3-962b-751eff429f71.jpg?1619397394|"
 "https://scryfall.com/card/tsr/181/reckless-wurm?utm_source=api>`"
 msgstr ""
 
@@ -3299,7 +3302,7 @@ msgstr ""
 #: ../../TSR.rst:1082
 msgid ""
 ":mtgtip:`Reiterate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1616275551|https://"
+"front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1619397418|https://"
 "scryfall.com/card/tsr/182/reiterate?utm_source=api>`"
 msgstr ""
 
@@ -3314,7 +3317,7 @@ msgstr ""
 #: ../../TSR.rst:1086
 msgid ""
 ":mtgtip:`Riddle of Lightning<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/e/3e380151-abb6-457c-bac9-39f1a3744ed0.jpg?1616275589|"
+"border_crop/front/3/e/3e380151-abb6-457c-bac9-39f1a3744ed0.jpg?1619397446|"
 "https://scryfall.com/card/tsr/183/riddle-of-lightning?utm_source=api>`"
 msgstr ""
 
@@ -3331,7 +3334,7 @@ msgstr ""
 #: ../../TSR.rst:1092
 msgid ""
 ":mtgtip:`Rift Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/3/a3459a44-0c26-4ee1-ad7f-67be7cd7d80a.jpg?1616275619|https://"
+"front/a/3/a3459a44-0c26-4ee1-ad7f-67be7cd7d80a.jpg?1619397474|https://"
 "scryfall.com/card/tsr/184/rift-bolt?utm_source=api>`"
 msgstr ""
 
@@ -3354,7 +3357,7 @@ msgstr ""
 #: ../../TSR.rst:1096
 msgid ""
 ":mtgtip:`Rift Elemental<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/9/39dd1bc9-734b-41c6-941f-f9ed5eaa2337.jpg?1616275644|"
+"border_crop/front/3/9/39dd1bc9-734b-41c6-941f-f9ed5eaa2337.jpg?1619397496|"
 "https://scryfall.com/card/tsr/185/rift-elemental?utm_source=api>`"
 msgstr ""
 
@@ -3369,7 +3372,7 @@ msgstr ""
 #: ../../TSR.rst:1100
 msgid ""
 ":mtgtip:`Rough<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
-"e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1616275676|https://scryfall.com/"
+"e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1619397518|https://scryfall.com/"
 "card/tsr/186/rough-tumble?utm_source=api>`"
 msgstr ""
 
@@ -3380,7 +3383,7 @@ msgstr "Ten czar zadaje każdemu stworowi bez latania 2 obrażenia."
 #: ../../TSR.rst:1104
 msgid ""
 ":mtgtip:`Tumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1616275676|https://"
+"front/e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1619397518|https://"
 "scryfall.com/card/tsr/186/rough-tumble?utm_source=api>`"
 msgstr ""
 
@@ -3391,7 +3394,7 @@ msgstr "Ten czar zadaje każdemu stworowi z lataniem 6 obrażeń."
 #: ../../TSR.rst:1110
 msgid ""
 ":mtgtip:`Sedge Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/a/0af3c6b1-9139-46a3-ad41-91aabbdda55f.jpg?1616275726|"
+"border_crop/front/0/a/0af3c6b1-9139-46a3-ad41-91aabbdda55f.jpg?1620236237|"
 "https://scryfall.com/card/tsr/187/sedge-sliver?utm_source=api>`"
 msgstr ""
 
@@ -3415,7 +3418,7 @@ msgstr ""
 #: ../../TSR.rst:1116
 msgid ""
 ":mtgtip:`Shivan Meteor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/b/cb5a98f0-ceb4-4e23-b2ec-1c4f4e4e22aa.jpg?1616275758|"
+"border_crop/front/c/b/cb5a98f0-ceb4-4e23-b2ec-1c4f4e4e22aa.jpg?1619397571|"
 "https://scryfall.com/card/tsr/188/shivan-meteor?utm_source=api>`"
 msgstr ""
 
@@ -3439,7 +3442,7 @@ msgstr ""
 #: ../../TSR.rst:1126
 msgid ""
 ":mtgtip:`Shivan Sand-Mage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/2/d21beb25-09a4-4d7f-84e3-87178e1721eb.jpg?1616275805|"
+"border_crop/front/d/2/d21beb25-09a4-4d7f-84e3-87178e1721eb.jpg?1619397599|"
 "https://scryfall.com/card/tsr/189/shivan-sand-mage?utm_source=api>`"
 msgstr ""
 
@@ -3454,7 +3457,7 @@ msgstr "Zawieszenie 4—|mana_r|"
 #: ../../TSR.rst:1130
 msgid ""
 ":mtgtip:`Simian Spirit Guide<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/e/0e57335d-4066-4d73-83cd-67a215e01a4e.jpg?1616275870|"
+"border_crop/front/0/e/0e57335d-4066-4d73-83cd-67a215e01a4e.jpg?1619397622|"
 "https://scryfall.com/card/tsr/190/simian-spirit-guide?utm_source=api>`"
 msgstr ""
 
@@ -3465,7 +3468,7 @@ msgstr "Wygnaj tę kartę z twojej ręki: Weź |mana_r|."
 #: ../../TSR.rst:1134
 msgid ""
 ":mtgtip:`Skirk Shaman<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/9/59b675da-f709-4aa3-8967-c9771234f9d8.jpg?1616275905|"
+"border_crop/front/5/9/59b675da-f709-4aa3-8967-c9771234f9d8.jpg?1619397644|"
 "https://scryfall.com/card/tsr/191/skirk-shaman?utm_source=api>`"
 msgstr ""
 
@@ -3480,7 +3483,7 @@ msgstr ""
 #: ../../TSR.rst:1140
 msgid ""
 ":mtgtip:`Stingscourger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/6/d6bcc2bc-75a7-4b01-856b-4e0b8703e302.jpg?1616275932|"
+"border_crop/front/d/6/d6bcc2bc-75a7-4b01-856b-4e0b8703e302.jpg?1619397667|"
 "https://scryfall.com/card/tsr/192/stingscourger?utm_source=api>`"
 msgstr ""
 
@@ -3505,7 +3508,7 @@ msgstr ""
 #: ../../TSR.rst:1146
 msgid ""
 ":mtgtip:`Storm Entity<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/f/6f6e88a5-0d1f-4587-b855-42ab5452ddc8.jpg?1616275978|"
+"border_crop/front/6/f/6f6e88a5-0d1f-4587-b855-42ab5452ddc8.jpg?1619397691|"
 "https://scryfall.com/card/tsr/193/storm-entity?utm_source=api>`"
 msgstr ""
 
@@ -3520,7 +3523,7 @@ msgstr ""
 #: ../../TSR.rst:1152
 msgid ""
 ":mtgtip:`Sudden Shock<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/b/5b659a3b-0f66-40f2-8e2e-f13b694e270e.jpg?1616276006|"
+"border_crop/front/5/b/5b659a3b-0f66-40f2-8e2e-f13b694e270e.jpg?1619397715|"
 "https://scryfall.com/card/tsr/194/sudden-shock?utm_source=api>`"
 msgstr ""
 
@@ -3531,7 +3534,7 @@ msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 #: ../../TSR.rst:1160
 msgid ""
 ":mtgtip:`Sulfur Elemental<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/a/0aed10f9-8c52-400b-a432-a0d8c6458e87.jpg?1616276048|"
+"border_crop/front/0/a/0aed10f9-8c52-400b-a432-a0d8c6458e87.jpg?1619397746|"
 "https://scryfall.com/card/tsr/195/sulfur-elemental?utm_source=api>`"
 msgstr ""
 
@@ -3542,7 +3545,7 @@ msgstr "Białe stwory dostają +1/-1."
 #: ../../TSR.rst:1166
 msgid ""
 ":mtgtip:`Thick-Skinned Goblin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/6/96f6dfd2-f4b1-41bc-b848-5afa30b13e36.jpg?1616276084|"
+"border_crop/front/9/6/96f6dfd2-f4b1-41bc-b848-5afa30b13e36.jpg?1619402690|"
 "https://scryfall.com/card/tsr/196/thick-skinned-goblin?utm_source=api>`"
 msgstr ""
 
@@ -3562,7 +3565,7 @@ msgstr "|mana_r|: Ten stwór zyskuje do końca tury ochronę przed czerwonym."
 #: ../../TSR.rst:1170
 msgid ""
 ":mtgtip:`Two-Headed Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/6/260cf43a-f3a4-48f7-9c51-5884d106ff56.jpg?1616276109|"
+"border_crop/front/2/6/260cf43a-f3a4-48f7-9c51-5884d106ff56.jpg?1619397819|"
 "https://scryfall.com/card/tsr/197/two-headed-sliver?utm_source=api>`"
 msgstr ""
 
@@ -3577,7 +3580,7 @@ msgstr ""
 #: ../../TSR.rst:1176
 msgid ""
 ":mtgtip:`Wheel of Fate<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/7/c7937e12-76d9-4030-a68c-7a93a3c852cb.jpg?1616276167|"
+"border_crop/front/c/7/c7937e12-76d9-4030-a68c-7a93a3c852cb.jpg?1619397846|"
 "https://scryfall.com/card/tsr/198/wheel-of-fate?utm_source=api>`"
 msgstr ""
 
@@ -3600,7 +3603,7 @@ msgstr "Każdy gracz odrzuca swoją rękę, po czym dobiera siedem kart."
 #: ../../TSR.rst:1182
 msgid ""
 ":mtgtip:`Citanul Woodreaders<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/0/b0cd9af6-3729-4c9c-9669-a2800a693b39.jpg?1616276195|"
+"border_crop/front/b/0/b0cd9af6-3729-4c9c-9669-a2800a693b39.jpg?1619397870|"
 "https://scryfall.com/card/tsr/199/citanul-woodreaders?utm_source=api>`"
 msgstr ""
 
@@ -3623,7 +3626,7 @@ msgstr ""
 #: ../../TSR.rst:1186
 msgid ""
 ":mtgtip:`Durkwood Baloth<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/c/dce39dd1-ca51-420f-a627-1511192d34c2.jpg?1616276280|"
+"border_crop/front/d/c/dce39dd1-ca51-420f-a627-1511192d34c2.jpg?1619397895|"
 "https://scryfall.com/card/tsr/200/durkwood-baloth?utm_source=api>`"
 msgstr ""
 
@@ -3642,7 +3645,7 @@ msgstr ""
 #: ../../TSR.rst:1192
 msgid ""
 ":mtgtip:`Edge of Autumn<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/c/1c72229c-f3da-4e35-af79-14452efe581b.jpg?1616276323|"
+"border_crop/front/1/c/1c72229c-f3da-4e35-af79-14452efe581b.jpg?1619397925|"
 "https://scryfall.com/card/tsr/201/edge-of-autumn?utm_source=api>`"
 msgstr ""
 
@@ -3662,7 +3665,7 @@ msgstr "Recykling—Poświęć ląd (Poświęć ląd, odrzuć tę kartę: Dobier
 #: ../../TSR.rst:1202
 msgid ""
 ":mtgtip:`Evolution Charm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/2/723d21cb-f506-4ad4-89d8-ecfdaed5952f.jpg?1616276373|"
+"border_crop/front/7/2/723d21cb-f506-4ad4-89d8-ecfdaed5952f.jpg?1619397959|"
 "https://scryfall.com/card/tsr/202/evolution-charm?utm_source=api>`"
 msgstr ""
 
@@ -3685,7 +3688,7 @@ msgstr "Wskazany stwór zyskuje do końca tury latanie."
 #: ../../TSR.rst:1206
 msgid ""
 ":mtgtip:`Fungus Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/6/864a67e4-5deb-45d5-bd42-3078716e142b.jpg?1616276415|"
+"border_crop/front/8/6/864a67e4-5deb-45d5-bd42-3078716e142b.jpg?1619397986|"
 "https://scryfall.com/card/tsr/203/fungus-sliver?utm_source=api>`"
 msgstr ""
 
@@ -3700,7 +3703,7 @@ msgstr ""
 #: ../../TSR.rst:1210
 msgid ""
 ":mtgtip:`Gaea's Anthem<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/3/43febc63-597d-4392-b8ea-a00841148c45.jpg?1616276447|"
+"border_crop/front/4/3/43febc63-597d-4392-b8ea-a00841148c45.jpg?1619398011|"
 "https://scryfall.com/card/tsr/204/gaeas-anthem?utm_source=api>`"
 msgstr ""
 
@@ -3711,7 +3714,7 @@ msgstr "Stwory pod twoim władaniem dostają +1/+1."
 #: ../../TSR.rst:1214
 msgid ""
 ":mtgtip:`Gemhide Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/1/110887a5-cbfd-431f-9208-06acc4ed2602.jpg?1616276484|"
+"border_crop/front/1/1/110887a5-cbfd-431f-9208-06acc4ed2602.jpg?1619398035|"
 "https://scryfall.com/card/tsr/205/gemhide-sliver?utm_source=api>`"
 msgstr ""
 
@@ -3722,7 +3725,7 @@ msgstr "Wszystkie Drzazgacze mają \"|tap|: Weź jedną manę dowolnego koloru.\
 #: ../../TSR.rst:1220
 msgid ""
 ":mtgtip:`Giant Dustwasp<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/8/c8aec78a-9fd4-4cf9-a9ec-e234f6a552e4.jpg?1616276529|"
+"border_crop/front/c/8/c8aec78a-9fd4-4cf9-a9ec-e234f6a552e4.jpg?1619398059|"
 "https://scryfall.com/card/tsr/206/giant-dustwasp?utm_source=api>`"
 msgstr ""
 
@@ -3742,7 +3745,7 @@ msgstr ""
 #: ../../TSR.rst:1224
 msgid ""
 ":mtgtip:`Greenseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/2/423d0c1d-1791-4c80-86d1-f87f3c6a8611.jpg?1616276557|https://"
+"front/4/2/423d0c1d-1791-4c80-86d1-f87f3c6a8611.jpg?1619398093|https://"
 "scryfall.com/card/tsr/207/greenseeker?utm_source=api>`"
 msgstr ""
 
@@ -3757,7 +3760,7 @@ msgstr ""
 #: ../../TSR.rst:1228
 msgid ""
 ":mtgtip:`Harmonize<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/f/d/fdcb8138-0d0c-43bd-a3d3-1a57c0a19764.jpg?1616276598|https://"
+"front/f/d/fdcb8138-0d0c-43bd-a3d3-1a57c0a19764.jpg?1619398124|https://"
 "scryfall.com/card/tsr/208/harmonize?utm_source=api>`"
 msgstr ""
 
@@ -3768,7 +3771,7 @@ msgstr "Dobierz trzy karty."
 #: ../../TSR.rst:1232
 msgid ""
 ":mtgtip:`Heartwood Storyteller<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/a/7a5e2f7a-8cfe-4d1b-a68d-7e6d8d10bd27.jpg?1616276633|"
+"border_crop/front/7/a/7a5e2f7a-8cfe-4d1b-a68d-7e6d8d10bd27.jpg?1619398147|"
 "https://scryfall.com/card/tsr/209/heartwood-storyteller?utm_source=api>`"
 msgstr ""
 
@@ -3783,7 +3786,7 @@ msgstr ""
 #: ../../TSR.rst:1238
 msgid ""
 ":mtgtip:`Hypergenesis<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/5/65757321-2f26-44dc-a4f8-31d40fbf1681.jpg?1616276724|"
+"border_crop/front/6/5/65757321-2f26-44dc-a4f8-31d40fbf1681.jpg?1619398174|"
 "https://scryfall.com/card/tsr/210/hypergenesis?utm_source=api>`"
 msgstr ""
 
@@ -3804,7 +3807,7 @@ msgstr ""
 #: ../../TSR.rst:1242
 msgid ""
 ":mtgtip:`Imperiosaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/f/1/f189aaf0-474a-4701-9bda-e67dc057e347.jpg?1616276784|https://"
+"front/f/1/f189aaf0-474a-4701-9bda-e67dc057e347.jpg?1619398198|https://"
 "scryfall.com/card/tsr/211/imperiosaur?utm_source=api>`"
 msgstr ""
 
@@ -3815,7 +3818,7 @@ msgstr "Do rzucenia tego czaru wydaj wyłącznie manę wziętą z bazowych ląd�
 #: ../../TSR.rst:1250
 msgid ""
 ":mtgtip:`Kavu Primarch<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/7/475c3439-74a9-4a53-9e8b-c1c84b60ea35.jpg?1616276857|"
+"border_crop/front/4/7/475c3439-74a9-4a53-9e8b-c1c84b60ea35.jpg?1619398222|"
 "https://scryfall.com/card/tsr/212/kavu-primarch?utm_source=api>`"
 msgstr ""
 
@@ -3846,7 +3849,7 @@ msgstr ""
 #: ../../TSR.rst:1256
 msgid ""
 ":mtgtip:`Keen Sense<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/d/1/d16e927d-0f23-4fac-9b35-3cfcb22ebc26.jpg?1616276887|https://"
+"front/d/1/d16e927d-0f23-4fac-9b35-3cfcb22ebc26.jpg?1619398246|https://"
 "scryfall.com/card/tsr/213/keen-sense?utm_source=api>`"
 msgstr ""
 
@@ -3859,7 +3862,7 @@ msgstr ""
 #: ../../TSR.rst:1262
 msgid ""
 ":mtgtip:`Krosan Grip<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/2/5/253352d1-26e1-4074-94d8-f88c697e910e.jpg?1616276922|https://"
+"front/2/5/253352d1-26e1-4074-94d8-f88c697e910e.jpg?1619398276|https://"
 "scryfall.com/card/tsr/214/krosan-grip?utm_source=api>`"
 msgstr ""
 
@@ -3870,7 +3873,7 @@ msgstr "Zniszcz wskazany artefakt lub urok."
 #: ../../TSR.rst:1266
 msgid ""
 ":mtgtip:`Life and Limb<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/2721724d-92ae-4c0c-88dd-628888c468bf.jpg?1616276955|"
+"border_crop/front/2/7/2721724d-92ae-4c0c-88dd-628888c468bf.jpg?1619398301|"
 "https://scryfall.com/card/tsr/215/life-and-limb?utm_source=api>`"
 msgstr ""
 
@@ -3887,7 +3890,7 @@ msgstr ""
 #: ../../TSR.rst:1270
 msgid ""
 ":mtgtip:`Llanowar Mentor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/0/e0f894e7-adf7-4fe5-811a-8e2d8c8a88d6.jpg?1616276989|"
+"border_crop/front/e/0/e0f894e7-adf7-4fe5-811a-8e2d8c8a88d6.jpg?1619398329|"
 "https://scryfall.com/card/tsr/216/llanowar-mentor?utm_source=api>`"
 msgstr ""
 
@@ -3902,7 +3905,7 @@ msgstr ""
 #: ../../TSR.rst:1274
 msgid ""
 ":mtgtip:`Might of Old Krosa<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/2/4246cfd0-f150-4142-8dd4-7ebeb707b6f4.jpg?1616277018|"
+"border_crop/front/4/2/4246cfd0-f150-4142-8dd4-7ebeb707b6f4.jpg?1619398355|"
 "https://scryfall.com/card/tsr/217/might-of-old-krosa?utm_source=api>`"
 msgstr ""
 
@@ -3917,7 +3920,7 @@ msgstr ""
 #: ../../TSR.rst:1278
 msgid ""
 ":mtgtip:`Might Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/7/97c72fc3-72ac-4727-9872-33dc71049894.jpg?1616277050|"
+"border_crop/front/9/7/97c72fc3-72ac-4727-9872-33dc71049894.jpg?1619398378|"
 "https://scryfall.com/card/tsr/218/might-sliver?utm_source=api>`"
 msgstr ""
 
@@ -3928,7 +3931,7 @@ msgstr "Wszystkie Drzazgacze dostają +2/+2."
 #: ../../TSR.rst:1284
 msgid ""
 ":mtgtip:`Mire Boa<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/a/4ab20019-d4b7-4bbb-b258-c9cc14bf2b3a.jpg?1616277087|https://"
+"front/4/a/4ab20019-d4b7-4bbb-b258-c9cc14bf2b3a.jpg?1619398408|https://"
 "scryfall.com/card/tsr/219/mire-boa?utm_source=api>`"
 msgstr ""
 
@@ -3944,7 +3947,7 @@ msgstr ""
 #: ../../TSR.rst:1288
 msgid ""
 ":mtgtip:`Muraganda Petroglyphs<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/1/b103cb22-93b2-4206-9f80-5f966155e07e.jpg?1616277151|"
+"border_crop/front/b/1/b103cb22-93b2-4206-9f80-5f966155e07e.jpg?1619398431|"
 "https://scryfall.com/card/tsr/220/muraganda-petroglyphs?utm_source=api>`"
 msgstr ""
 
@@ -3955,7 +3958,7 @@ msgstr "Stwory bez zdolności dostają +2/+2."
 #: ../../TSR.rst:1294
 msgid ""
 ":mtgtip:`Nantuko Shaman<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/3/a3370c6d-a743-49b3-b869-da65b49391d9.jpg?1616277191|"
+"border_crop/front/a/3/a3370c6d-a743-49b3-b869-da65b49391d9.jpg?1619398456|"
 "https://scryfall.com/card/tsr/221/nantuko-shaman?utm_source=api>`"
 msgstr ""
 
@@ -3984,7 +3987,7 @@ msgstr ""
 #: ../../TSR.rst:1298
 msgid ""
 ":mtgtip:`Pendelhaven Elder<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/a/aafc1724-af33-491e-b834-9a3cf30039ca.jpg?1616277224|"
+"border_crop/front/a/a/aafc1724-af33-491e-b834-9a3cf30039ca.jpg?1619398479|"
 "https://scryfall.com/card/tsr/222/pendelhaven-elder?utm_source=api>`"
 msgstr ""
 
@@ -3996,7 +3999,7 @@ msgstr ""
 #: ../../TSR.rst:1304
 msgid ""
 ":mtgtip:`Penumbra Spider<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/8/c862a2f7-673e-44bd-b8ee-e4295da1e0d5.jpg?1616277248|"
+"border_crop/front/c/8/c862a2f7-673e-44bd-b8ee-e4295da1e0d5.jpg?1619398503|"
 "https://scryfall.com/card/tsr/223/penumbra-spider?utm_source=api>`"
 msgstr ""
 
@@ -4010,7 +4013,7 @@ msgstr ""
 #: ../../TSR.rst:1310
 msgid ""
 ":mtgtip:`Phantom Wurm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/8/68f48a57-5005-46c7-8b52-97e2f9112b85.jpg?1616277278|"
+"border_crop/front/6/8/68f48a57-5005-46c7-8b52-97e2f9112b85.jpg?1619398529|"
 "https://scryfall.com/card/tsr/224/phantom-wurm?utm_source=api>`"
 msgstr ""
 
@@ -4029,7 +4032,7 @@ msgstr ""
 #: ../../TSR.rst:1314
 msgid ""
 ":mtgtip:`Primal Forcemage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/5/0503078a-c5a8-4292-a573-82d062870c7f.jpg?1616277313|"
+"border_crop/front/0/5/0503078a-c5a8-4292-a573-82d062870c7f.jpg?1619398552|"
 "https://scryfall.com/card/tsr/225/primal-forcemage?utm_source=api>`"
 msgstr ""
 
@@ -4044,7 +4047,7 @@ msgstr ""
 #: ../../TSR.rst:1318
 msgid ""
 ":mtgtip:`Reflex Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/e/2e14da2f-0e35-4586-8435-de0859aad060.jpg?1616277347|"
+"border_crop/front/2/e/2e14da2f-0e35-4586-8435-de0859aad060.jpg?1619398577|"
 "https://scryfall.com/card/tsr/226/reflex-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4055,7 +4058,7 @@ msgstr "Wszystkie Drzazgacze mają pośpiech."
 #: ../../TSR.rst:1326
 msgid ""
 ":mtgtip:`Scryb Ranger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/8/885c122a-d350-420f-ba7b-4523a28e48a6.jpg?1616277374|"
+"border_crop/front/8/8/885c122a-d350-420f-ba7b-4523a28e48a6.jpg?1619398603|"
 "https://scryfall.com/card/tsr/227/scryb-ranger?utm_source=api>`"
 msgstr ""
 
@@ -4074,7 +4077,7 @@ msgstr ""
 #: ../../TSR.rst:1330
 msgid ""
 ":mtgtip:`Seal of Primordium<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/d/fd5592ab-6883-4c5a-8d50-d9530d905b19.jpg?1616277407|"
+"border_crop/front/f/d/fd5592ab-6883-4c5a-8d50-d9530d905b19.jpg?1619398626|"
 "https://scryfall.com/card/tsr/228/seal-of-primordium?utm_source=api>`"
 msgstr ""
 
@@ -4085,7 +4088,7 @@ msgstr "Poświęć ten urok: Zniszcz wskazany artefakt lub urok."
 #: ../../TSR.rst:1336
 msgid ""
 ":mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/c/0c65336f-f735-4c35-9278-ad97255eb5bb.jpg?1616277440|"
+"border_crop/front/0/c/0c65336f-f735-4c35-9278-ad97255eb5bb.jpg?1619398649|"
 "https://scryfall.com/card/tsr/229/search-for-tomorrow?utm_source=api>`"
 msgstr ""
 
@@ -4112,7 +4115,7 @@ msgstr ""
 #: ../../TSR.rst:1340
 msgid ""
 ":mtgtip:`Spinneret Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/f/7f86e30d-d9e8-48f7-8bd1-f2645f0ab3f4.jpg?1616277510|"
+"border_crop/front/7/f/7f86e30d-d9e8-48f7-8bd1-f2645f0ab3f4.jpg?1619398674|"
 "https://scryfall.com/card/tsr/230/spinneret-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4123,7 +4126,7 @@ msgstr "Wszystkie Drzazgacze mają zasięg."
 #: ../../TSR.rst:1346
 msgid ""
 ":mtgtip:`Sporesower Thallid<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/a/babc8043-bfed-45e3-9d04-1967534f77b2.jpg?1616277537|"
+"border_crop/front/b/a/babc8043-bfed-45e3-9d04-1967534f77b2.jpg?1619398694|"
 "https://scryfall.com/card/tsr/231/sporesower-thallid?utm_source=api>`"
 msgstr ""
 
@@ -4146,7 +4149,7 @@ msgstr ""
 #: ../../TSR.rst:1352
 msgid ""
 ":mtgtip:`Sporoloth Ancient<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/7/57a96041-1b20-464e-9119-93c19675ac46.jpg?1616277573|"
+"border_crop/front/5/7/57a96041-1b20-464e-9119-93c19675ac46.jpg?1619398725|"
 "https://scryfall.com/card/tsr/232/sporoloth-ancient?utm_source=api>`"
 msgstr ""
 
@@ -4168,7 +4171,7 @@ msgstr ""
 #: ../../TSR.rst:1356
 msgid ""
 ":mtgtip:`Strength in Numbers<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/1/51d900d0-3f3a-4716-bcc7-b27a0cbbc339.jpg?1616277600|"
+"border_crop/front/5/1/51d900d0-3f3a-4716-bcc7-b27a0cbbc339.jpg?1619398752|"
 "https://scryfall.com/card/tsr/233/strength-in-numbers?utm_source=api>`"
 msgstr ""
 
@@ -4183,7 +4186,7 @@ msgstr ""
 #: ../../TSR.rst:1362
 msgid ""
 ":mtgtip:`Summoner's Pact<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1616277629|"
+"border_crop/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1619398774|"
 "https://scryfall.com/card/tsr/234/summoners-pact?utm_source=api>`"
 msgstr ""
 
@@ -4206,7 +4209,7 @@ msgstr ""
 #: ../../TSR.rst:1366
 msgid ""
 ":mtgtip:`Tarmogoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/9/69daba76-96e8-4bcc-ab79-2f00189ad8fb.jpg?1616277660|https://"
+"front/6/9/69daba76-96e8-4bcc-ab79-2f00189ad8fb.jpg?1619398799|https://"
 "scryfall.com/card/tsr/235/tarmogoyf?utm_source=api>`"
 msgstr ""
 
@@ -4221,7 +4224,7 @@ msgstr ""
 #: ../../TSR.rst:1374
 msgid ""
 ":mtgtip:`Thallid Germinator<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/9/799e835b-98ad-41b2-a8a9-a7c661efd86f.jpg?1616277707|"
+"border_crop/front/7/9/799e835b-98ad-41b2-a8a9-a7c661efd86f.jpg?1619398826|"
 "https://scryfall.com/card/tsr/236/thallid-germinator?utm_source=api>`"
 msgstr ""
 
@@ -4247,7 +4250,7 @@ msgstr "Poświęć Sadzonkę: Wskazany stwór dostaje do końca tury +1/+1."
 #: ../../TSR.rst:1382
 msgid ""
 ":mtgtip:`Thallid Shell-Dweller<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/e/9e1fd5ff-79a2-43d9-bd69-94be175d19b4.jpg?1616277734|"
+"border_crop/front/9/e/9e1fd5ff-79a2-43d9-bd69-94be175d19b4.jpg?1619398849|"
 "https://scryfall.com/card/tsr/237/thallid-shell-dweller?utm_source=api>`"
 msgstr ""
 
@@ -4274,7 +4277,7 @@ msgstr ""
 #: ../../TSR.rst:1388
 msgid ""
 ":mtgtip:`Thelon of Havenwood<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/8/783f1b9f-9866-4ead-96cf-88babf459ce2.jpg?1616277766|"
+"border_crop/front/7/8/783f1b9f-9866-4ead-96cf-88babf459ce2.jpg?1619398874|"
 "https://scryfall.com/card/tsr/238/thelon-of-havenwood?utm_source=api>`"
 msgstr ""
 
@@ -4293,7 +4296,7 @@ msgstr ""
 #: ../../TSR.rst:1396
 msgid ""
 ":mtgtip:`Thelonite Hermit<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/8/f803ebda-2f6b-41e4-9ffe-b1f2888996b6.jpg?1616277805|"
+"border_crop/front/f/8/f803ebda-2f6b-41e4-9ffe-b1f2888996b6.jpg?1619403569|"
 "https://scryfall.com/card/tsr/239/thelonite-hermit?utm_source=api>`"
 msgstr ""
 
@@ -4320,7 +4323,7 @@ msgstr ""
 #: ../../TSR.rst:1400
 msgid ""
 ":mtgtip:`Thornweald Archer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/6/f61b7811-ff6c-4767-921d-e8e88913e820.jpg?1616277867|"
+"border_crop/front/f/6/f61b7811-ff6c-4767-921d-e8e88913e820.jpg?1619403587|"
 "https://scryfall.com/card/tsr/240/thornweald-archer?utm_source=api>`"
 msgstr ""
 
@@ -4331,7 +4334,7 @@ msgstr "Zasięg, dotyk śmierci"
 #: ../../TSR.rst:1406
 msgid ""
 ":mtgtip:`Thrill of the Hunt<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/b/6bed96ea-f509-40eb-80b7-71a02d9ac69f.jpg?1616277899|"
+"border_crop/front/6/b/6bed96ea-f509-40eb-80b7-71a02d9ac69f.jpg?1619403609|"
 "https://scryfall.com/card/tsr/241/thrill-of-the-hunt?utm_source=api>`"
 msgstr ""
 
@@ -4350,7 +4353,7 @@ msgstr ""
 #: ../../TSR.rst:1410
 msgid ""
 ":mtgtip:`Tromp the Domains<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/f/ef40007b-47eb-4881-9467-30ce5b9a0fa3.jpg?1616277935|"
+"border_crop/front/e/f/ef40007b-47eb-4881-9467-30ce5b9a0fa3.jpg?1619403637|"
 "https://scryfall.com/card/tsr/242/tromp-the-domains?utm_source=api>`"
 msgstr ""
 
@@ -4365,7 +4368,7 @@ msgstr ""
 #: ../../TSR.rst:1416
 msgid ""
 ":mtgtip:`Uktabi Drake<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/b/8b8c401a-8c66-4054-894f-afd866b3b95b.jpg?1616277969|"
+"border_crop/front/8/b/8b8c401a-8c66-4054-894f-afd866b3b95b.jpg?1619403665|"
 "https://scryfall.com/card/tsr/243/uktabi-drake?utm_source=api>`"
 msgstr ""
 
@@ -4382,7 +4385,7 @@ msgstr ""
 #: ../../TSR.rst:1424
 msgid ""
 ":mtgtip:`Utopia Mycon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/6/5664e121-d3f1-4ff5-9576-ef515e22bde7.jpg?1616278011|"
+"border_crop/front/5/6/5664e121-d3f1-4ff5-9576-ef515e22bde7.jpg?1619403694|"
 "https://scryfall.com/card/tsr/244/utopia-mycon?utm_source=api>`"
 msgstr ""
 
@@ -4407,7 +4410,7 @@ msgstr "Poświęć Sadzonkę: Weź jedną manę dowolnego koloru."
 #: ../../TSR.rst:1432
 msgid ""
 ":mtgtip:`Utopia Vow<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/5/55dcec32-6ff2-4f47-b3e2-ab621f58d498.jpg?1616278061|https://"
+"front/5/5/55dcec32-6ff2-4f47-b3e2-ab621f58d498.jpg?1619403713|https://"
 "scryfall.com/card/tsr/245/utopia-vow?utm_source=api>`"
 msgstr ""
 
@@ -4418,7 +4421,7 @@ msgstr "Zauroczony stwór ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 #: ../../TSR.rst:1436
 msgid ""
 ":mtgtip:`Virulent Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/5/d5082a2a-e8b1-4799-ad29-a632d95ae1da.jpg?1616278085|"
+"border_crop/front/d/5/d5082a2a-e8b1-4799-ad29-a632d95ae1da.jpg?1619403749|"
 "https://scryfall.com/card/tsr/246/virulent-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4435,7 +4438,7 @@ msgstr ""
 #: ../../TSR.rst:1442
 msgid ""
 ":mtgtip:`Yavimaya Dryad<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/8/9807f9a8-a994-4fb2-ad33-3d80d9702bfe.jpg?1616278118|"
+"border_crop/front/9/8/9807f9a8-a994-4fb2-ad33-3d80d9702bfe.jpg?1620236252|"
 "https://scryfall.com/card/tsr/247/yavimaya-dryad?utm_source=api>`"
 msgstr ""
 
@@ -4460,7 +4463,7 @@ msgstr ""
 #: ../../TSR.rst:1448
 msgid ""
 ":mtgtip:`Cautery Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/1/11df0ed7-ae08-4a95-8b79-d6be0df9e31a.jpg?1616278153|"
+"border_crop/front/1/1/11df0ed7-ae08-4a95-8b79-d6be0df9e31a.jpg?1619403808|"
 "https://scryfall.com/card/tsr/248/cautery-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4485,7 +4488,7 @@ msgstr ""
 #: ../../TSR.rst:1452
 msgid ""
 ":mtgtip:`Darkheart Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/8/78b0b1a4-5372-424f-99b0-8abf500d5ece.jpg?1616278187|"
+"border_crop/front/7/8/78b0b1a4-5372-424f-99b0-8abf500d5ece.jpg?1619403835|"
 "https://scryfall.com/card/tsr/249/darkheart-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4496,7 +4499,7 @@ msgstr "Wszystkie Drzazgacze mają \"Poświęć ten permanent: Zyskaj 3 życia.\
 #: ../../TSR.rst:1458
 msgid ""
 ":mtgtip:`Dormant Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/d/3d646252-6d42-4000-bfc1-ad12f2386b99.jpg?1616278246|"
+"border_crop/front/3/d/3d646252-6d42-4000-bfc1-ad12f2386b99.jpg?1619403865|"
 "https://scryfall.com/card/tsr/250/dormant-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4514,7 +4517,7 @@ msgstr ""
 #: ../../TSR.rst:1464
 msgid ""
 ":mtgtip:`Dralnu, Lich Lord<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/5/9554f402-35d4-43ac-9494-9d17d2a79092.jpg?1616278278|"
+"border_crop/front/9/5/9554f402-35d4-43ac-9494-9d17d2a79092.jpg?1619403892|"
 "https://scryfall.com/card/tsr/251/dralnu-lich-lord?utm_source=api>`"
 msgstr ""
 
@@ -4540,7 +4543,7 @@ msgstr ""
 #: ../../TSR.rst:1470
 msgid ""
 ":mtgtip:`Firewake Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/9/7972f0a2-eb3f-4b67-82c8-73b0ae02722b.jpg?1616278320|"
+"border_crop/front/7/9/7972f0a2-eb3f-4b67-82c8-73b0ae02722b.jpg?1619403926|"
 "https://scryfall.com/card/tsr/252/firewake-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4555,7 +4558,7 @@ msgstr ""
 #: ../../TSR.rst:1474
 msgid ""
 ":mtgtip:`Glittering Wish<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/c/0c89645b-5e53-48c0-b4bb-9f22332c7658.jpg?1616278356|"
+"border_crop/front/0/c/0c89645b-5e53-48c0-b4bb-9f22332c7658.jpg?1619403950|"
 "https://scryfall.com/card/tsr/253/glittering-wish?utm_source=api>`"
 msgstr ""
 
@@ -4570,7 +4573,7 @@ msgstr ""
 #: ../../TSR.rst:1478
 msgid ""
 ":mtgtip:`Harmonic Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/1/c1cfc5db-3fc0-428e-8d4b-f6ea6caea36d.jpg?1616278395|"
+"border_crop/front/c/1/c1cfc5db-3fc0-428e-8d4b-f6ea6caea36d.jpg?1619403980|"
 "https://scryfall.com/card/tsr/254/harmonic-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4585,7 +4588,7 @@ msgstr ""
 #: ../../TSR.rst:1486
 msgid ""
 ":mtgtip:`Ith, High Arcanist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/4/54c32735-e8e7-46a1-84ea-92806f459e84.jpg?1616278423|"
+"border_crop/front/5/4/54c32735-e8e7-46a1-84ea-92806f459e84.jpg?1619404006|"
 "https://scryfall.com/card/tsr/255/ith-high-arcanist?utm_source=api>`"
 msgstr ""
 
@@ -4609,7 +4612,7 @@ msgstr "Zawieszenie 4—|mana_w|\\ |mana_u|"
 #: ../../TSR.rst:1490
 msgid ""
 ":mtgtip:`Jhoira of the Ghitu<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/a/aa6c3c8a-aa35-46b3-8769-27b4244457b0.jpg?1616278454|"
+"border_crop/front/a/a/aa6c3c8a-aa35-46b3-8769-27b4244457b0.jpg?1619404030|"
 "https://scryfall.com/card/tsr/256/jhoira-of-the-ghitu?utm_source=api>`"
 msgstr ""
 
@@ -4630,7 +4633,7 @@ msgstr ""
 #: ../../TSR.rst:1494
 msgid ""
 ":mtgtip:`Kaervek the Merciless<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/e/4e9a163e-7896-47bf-9b9b-dcf011402ce7.jpg?1616278495|"
+"border_crop/front/4/e/4e9a163e-7896-47bf-9b9b-dcf011402ce7.jpg?1619404049|"
 "https://scryfall.com/card/tsr/257/kaervek-the-merciless?utm_source=api>`"
 msgstr ""
 
@@ -4645,7 +4648,7 @@ msgstr ""
 #: ../../TSR.rst:1498
 msgid ""
 ":mtgtip:`Necrotic Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/9/a9e57239-bbd8-49c3-acee-b7455f296c9d.jpg?1616278533|"
+"border_crop/front/a/9/a9e57239-bbd8-49c3-acee-b7455f296c9d.jpg?1619404069|"
 "https://scryfall.com/card/tsr/258/necrotic-sliver?utm_source=api>`"
 msgstr ""
 
@@ -4660,7 +4663,7 @@ msgstr ""
 #: ../../TSR.rst:1504
 msgid ""
 ":mtgtip:`Radha, Heir to Keld<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/9/7924e5a5-9614-4fd0-a621-80fa3103cc22.jpg?1616278569|"
+"border_crop/front/7/9/7924e5a5-9614-4fd0-a621-80fa3103cc22.jpg?1619404089|"
 "https://scryfall.com/card/tsr/259/radha-heir-to-keld?utm_source=api>`"
 msgstr ""
 
@@ -4675,7 +4678,7 @@ msgstr "|tap|: Weź |mana_g|."
 #: ../../TSR.rst:1508
 msgid ""
 ":mtgtip:`Saffi Eriksdotter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/1/4176dda4-ec5c-4734-bb48-0876304aa219.jpg?1616278648|"
+"border_crop/front/4/1/4176dda4-ec5c-4734-bb48-0876304aa219.jpg?1619404114|"
 "https://scryfall.com/card/tsr/260/saffi-eriksdotter?utm_source=api>`"
 msgstr ""
 
@@ -4690,7 +4693,7 @@ msgstr ""
 #: ../../TSR.rst:1512
 msgid ""
 ":mtgtip:`Sliver Legion<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/7/87545415-2e27-4841-a3af-7653af2ba6d3.jpg?1616278684|"
+"border_crop/front/8/7/87545415-2e27-4841-a3af-7653af2ba6d3.jpg?1619404140|"
 "https://scryfall.com/card/tsr/261/sliver-legion?utm_source=api>`"
 msgstr ""
 
@@ -4704,7 +4707,7 @@ msgstr ""
 #: ../../TSR.rst:1516
 msgid ""
 ":mtgtip:`Akroma's Memorial<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/5/950ee61d-0bc1-4d7b-ba68-157061aa98eb.jpg?1616278711|"
+"border_crop/front/9/5/950ee61d-0bc1-4d7b-ba68-157061aa98eb.jpg?1619404160|"
 "https://scryfall.com/card/tsr/262/akromas-memorial?utm_source=api>`"
 msgstr ""
 
@@ -4719,7 +4722,7 @@ msgstr ""
 #: ../../TSR.rst:1522
 msgid ""
 ":mtgtip:`Chromatic Star<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/2/c2e8d492-2c67-410b-b556-c157a14c4cec.jpg?1616278738|"
+"border_crop/front/c/2/c2e8d492-2c67-410b-b556-c157a14c4cec.jpg?1619404181|"
 "https://scryfall.com/card/tsr/263/chromatic-star?utm_source=api>`"
 msgstr ""
 
@@ -4737,7 +4740,7 @@ msgstr "Kiedy ten artefakt trafi do cmentarza z pola bitwy, dobierz kartę."
 #: ../../TSR.rst:1530
 msgid ""
 ":mtgtip:`Clockwork Hydra<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/a/babba9f7-86e4-4e11-9fb8-acd50fbd8031.jpg?1616278778|"
+"border_crop/front/b/a/babba9f7-86e4-4e11-9fb8-acd50fbd8031.jpg?1619404199|"
 "https://scryfall.com/card/tsr/264/clockwork-hydra?utm_source=api>`"
 msgstr ""
 
@@ -4760,7 +4763,7 @@ msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 #: ../../TSR.rst:1536
 msgid ""
 ":mtgtip:`Cloud Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/f/6f880de5-8fc5-4e4e-a4bb-cc3e61a7697b.jpg?1616278811|https://"
+"front/6/f/6f880de5-8fc5-4e4e-a4bb-cc3e61a7697b.jpg?1619404220|https://"
 "scryfall.com/card/tsr/265/cloud-key?utm_source=api>`"
 msgstr ""
 
@@ -4779,7 +4782,7 @@ msgstr "Rzucane przez ciebie czary wybranego typu kosztują o |mana_1| mniej."
 #: ../../TSR.rst:1544
 msgid ""
 ":mtgtip:`Coalition Relic<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/9/a9fae620-8fa5-44db-8326-11cb323c626e.jpg?1616278844|"
+"border_crop/front/a/9/a9fae620-8fa5-44db-8326-11cb323c626e.jpg?1619404276|"
 "https://scryfall.com/card/tsr/266/coalition-relic?utm_source=api>`"
 msgstr ""
 
@@ -4804,7 +4807,7 @@ msgstr ""
 #: ../../TSR.rst:1552
 msgid ""
 ":mtgtip:`Gauntlet of Power<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/4/14e870a0-5699-4f42-b67a-8dbd24e0c9c2.jpg?1616278878|"
+"border_crop/front/1/4/14e870a0-5699-4f42-b67a-8dbd24e0c9c2.jpg?1619404297|"
 "https://scryfall.com/card/tsr/267/gauntlet-of-power?utm_source=api>`"
 msgstr ""
 
@@ -4827,7 +4830,7 @@ msgstr ""
 #: ../../TSR.rst:1556
 msgid ""
 ":mtgtip:`Hivestone<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/9/69e62171-713c-49c0-8e16-b193ff181dcd.jpg?1616278918|https://"
+"front/6/9/69e62171-713c-49c0-8e16-b193ff181dcd.jpg?1619404347|https://"
 "scryfall.com/card/tsr/268/hivestone?utm_source=api>`"
 msgstr ""
 
@@ -4840,7 +4843,7 @@ msgstr ""
 #: ../../TSR.rst:1560
 msgid ""
 ":mtgtip:`Jhoira's Timebug<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/5/35d14746-3b57-4f8e-8155-e578cc84850d.jpg?1616278952|"
+"border_crop/front/3/5/35d14746-3b57-4f8e-8155-e578cc84850d.jpg?1619404400|"
 "https://scryfall.com/card/tsr/269/jhoiras-timebug?utm_source=api>`"
 msgstr ""
 
@@ -4857,7 +4860,7 @@ msgstr ""
 #: ../../TSR.rst:1566
 msgid ""
 ":mtgtip:`Lotus Bloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/d/b/db89ae4d-1cc2-41d8-a4de-a54b958c4429.jpg?1616279021|https://"
+"front/d/b/db89ae4d-1cc2-41d8-a4de-a54b958c4429.jpg?1619398986|https://"
 "scryfall.com/card/tsr/270/lotus-bloom?utm_source=api>`"
 msgstr ""
 
@@ -4880,7 +4883,7 @@ msgstr "|tap|, poświęć ten artefakt: Weź trzy many jednego dowolnego koloru.
 #: ../../TSR.rst:1574
 msgid ""
 ":mtgtip:`Paradise Plume<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/7/b794e97e-8b2c-4bde-8028-4348de5aec83.jpg?1616279057|"
+"border_crop/front/b/7/b794e97e-8b2c-4bde-8028-4348de5aec83.jpg?1619399015|"
 "https://scryfall.com/card/tsr/271/paradise-plume?utm_source=api>`"
 msgstr ""
 
@@ -4900,7 +4903,7 @@ msgstr "|tap|: Weź jedną manę wybranego koloru."
 #: ../../TSR.rst:1580
 msgid ""
 ":mtgtip:`Prismatic Lens<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/c/0c3be020-37a3-49ce-8604-27794175bf9d.jpg?1616279094|"
+"border_crop/front/0/c/0c3be020-37a3-49ce-8604-27794175bf9d.jpg?1619399044|"
 "https://scryfall.com/card/tsr/272/prismatic-lens?utm_source=api>`"
 msgstr ""
 
@@ -4918,7 +4921,7 @@ msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 #: ../../TSR.rst:1584
 msgid ""
 ":mtgtip:`Sliversmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/3/83458352-9634-4cd7-bed1-6f7743c56c1f.jpg?1616279129|https://"
+"front/8/3/83458352-9634-4cd7-bed1-6f7743c56c1f.jpg?1619399077|https://"
 "scryfall.com/card/tsr/273/sliversmith?utm_source=api>`"
 msgstr ""
 
@@ -4933,7 +4936,7 @@ msgstr ""
 #: ../../TSR.rst:1594
 msgid ""
 ":mtgtip:`Stuffy Doll<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/e/ce427213-4ce5-478e-83d8-fe80ec446a58.jpg?1616279180|https://"
+"front/c/e/ce427213-4ce5-478e-83d8-fe80ec446a58.jpg?1619399126|https://"
 "scryfall.com/card/tsr/274/stuffy-doll?utm_source=api>`"
 msgstr ""
 
@@ -4960,7 +4963,7 @@ msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
 #: ../../TSR.rst:1602
 msgid ""
 ":mtgtip:`Calciform Pools<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/9/297a2b09-562a-46d8-905d-0b32e854e9d2.jpg?1616279221|"
+"border_crop/front/2/9/297a2b09-562a-46d8-905d-0b32e854e9d2.jpg?1619399156|"
 "https://scryfall.com/card/tsr/275/calciform-pools?utm_source=api>`"
 msgstr ""
 
@@ -4979,7 +4982,7 @@ msgstr ""
 #: ../../TSR.rst:1610
 msgid ""
 ":mtgtip:`Dreadship Reef<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/8/18642a9e-ac45-402b-bb56-08cb6336c485.jpg?1616279255|"
+"border_crop/front/1/8/18642a9e-ac45-402b-bb56-08cb6336c485.jpg?1619399194|"
 "https://scryfall.com/card/tsr/276/dreadship-reef?utm_source=api>`"
 msgstr ""
 
@@ -4998,7 +5001,7 @@ msgstr ""
 #: ../../TSR.rst:1614
 msgid ""
 ":mtgtip:`Dryad Arbor<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/b/bb3a843b-2dea-4b44-be74-c09c18b9b969.jpg?1616279300|https://"
+"front/b/b/bb3a843b-2dea-4b44-be74-c09c18b9b969.jpg?1619399228|https://"
 "scryfall.com/card/tsr/277/dryad-arbor?utm_source=api>`"
 msgstr ""
 
@@ -5013,7 +5016,7 @@ msgstr ""
 #: ../../TSR.rst:1620
 msgid ""
 ":mtgtip:`Flagstones of Trokair<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/0/a0acea27-88de-4d27-8da2-8f82439526a1.jpg?1616279327|"
+"border_crop/front/a/0/a0acea27-88de-4d27-8da2-8f82439526a1.jpg?1619399261|"
 "https://scryfall.com/card/tsr/278/flagstones-of-trokair?utm_source=api>`"
 msgstr ""
 
@@ -5034,7 +5037,7 @@ msgstr ""
 #: ../../TSR.rst:1628
 msgid ""
 ":mtgtip:`Fungal Reaches<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/a/1a3580d6-345a-46ba-a327-0e924989d6b1.jpg?1616279367|"
+"border_crop/front/1/a/1a3580d6-345a-46ba-a327-0e924989d6b1.jpg?1619399295|"
 "https://scryfall.com/card/tsr/279/fungal-reaches?utm_source=api>`"
 msgstr ""
 
@@ -5053,7 +5056,7 @@ msgstr ""
 #: ../../TSR.rst:1634
 msgid ""
 ":mtgtip:`Gemstone Caverns<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/f/7f273641-c5f3-48bc-b89e-3cff52d26a0b.jpg?1616279428|"
+"border_crop/front/7/f/7f273641-c5f3-48bc-b89e-3cff52d26a0b.jpg?1619399338|"
 "https://scryfall.com/card/tsr/280/gemstone-caverns?utm_source=api>`"
 msgstr ""
 
@@ -5078,7 +5081,7 @@ msgstr ""
 #: ../../TSR.rst:1640
 msgid ""
 ":mtgtip:`Kher Keep<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/d/5daf0fe9-d567-4749-b649-4bfc929cb238.jpg?1616279457|https://"
+"front/5/d/5daf0fe9-d567-4749-b649-4bfc929cb238.jpg?1619399372|https://"
 "scryfall.com/card/tsr/281/kher-keep?utm_source=api>`"
 msgstr ""
 
@@ -5093,7 +5096,7 @@ msgstr ""
 #: ../../TSR.rst:1648
 msgid ""
 ":mtgtip:`Molten Slagheap<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/d/4d952491-3a33-42af-9748-d2cb9c5a2f76.jpg?1616279488|"
+"border_crop/front/4/d/4d952491-3a33-42af-9748-d2cb9c5a2f76.jpg?1619399407|"
 "https://scryfall.com/card/tsr/282/molten-slagheap?utm_source=api>`"
 msgstr ""
 
@@ -5112,7 +5115,7 @@ msgstr ""
 #: ../../TSR.rst:1656
 msgid ""
 ":mtgtip:`Saltcrusted Steppe<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/4/f4d757f1-9398-494f-9a24-b01c5c8c6db5.jpg?1616279532|"
+"border_crop/front/f/4/f4d757f1-9398-494f-9a24-b01c5c8c6db5.jpg?1619399449|"
 "https://scryfall.com/card/tsr/283/saltcrusted-steppe?utm_source=api>`"
 msgstr ""
 
@@ -5131,7 +5134,7 @@ msgstr ""
 #: ../../TSR.rst:1662
 msgid ""
 ":mtgtip:`Swarmyard<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/8/b89329f2-d386-40a7-9098-6d80beeb8843.jpg?1616279576|https://"
+"front/b/8/b89329f2-d386-40a7-9098-6d80beeb8843.jpg?1619399479|https://"
 "scryfall.com/card/tsr/284/swarmyard?utm_source=api>`"
 msgstr ""
 
@@ -5148,7 +5151,7 @@ msgstr ""
 #: ../../TSR.rst:1666
 msgid ""
 ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/a/ba2564ec-f092-45d6-a519-6f18dbcdaee6.jpg?1616279618|"
+"border_crop/front/b/a/ba2564ec-f092-45d6-a519-6f18dbcdaee6.jpg?1619399511|"
 "https://scryfall.com/card/tsr/285/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
@@ -5163,7 +5166,7 @@ msgstr ""
 #: ../../TSR.rst:1674
 msgid ""
 ":mtgtip:`Tolaria West<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/0/b005eef6-75f3-454f-a42b-d851bc84ac4e.jpg?1616279645|"
+"border_crop/front/b/0/b005eef6-75f3-454f-a42b-d851bc84ac4e.jpg?1619399546|"
 "https://scryfall.com/card/tsr/286/tolaria-west?utm_source=api>`"
 msgstr ""
 
@@ -5190,7 +5193,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Urborg, Tomb of Yawgmoth<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?"
-"1616279671|https://scryfall.com/card/tsr/287/urborg-tomb-of-yawgmoth?"
+"1619399578|https://scryfall.com/card/tsr/287/urborg-tomb-of-yawgmoth?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5201,7 +5204,7 @@ msgstr "Każdy ląd jest dodatkowo Bagnem oprócz swoich innych typów lądu."
 #: ../../TSR.rst:1684
 msgid ""
 ":mtgtip:`Urza's Factory<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/0/d03f17f1-b0fd-4b84-82ea-085c2f87eeda.jpg?1616279709|"
+"border_crop/front/d/0/d03f17f1-b0fd-4b84-82ea-085c2f87eeda.jpg?1619399610|"
 "https://scryfall.com/card/tsr/288/urzas-factory?utm_source=api>`"
 msgstr ""
 
@@ -5216,7 +5219,7 @@ msgstr ""
 #: ../../TSR.rst:1688
 msgid ""
 ":mtgtip:`Vesuva<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/0/7/0726f70a-c1c4-4edb-86fb-9be280d9ea73.jpg?1616279743|https://"
+"front/0/7/0726f70a-c1c4-4edb-86fb-9be280d9ea73.jpg?1619399642|https://"
 "scryfall.com/card/tsr/289/vesuva?utm_source=api>`"
 msgstr ""
 
@@ -5231,7 +5234,7 @@ msgstr ""
 #: ../../TSR.rst:1692
 msgid ""
 ":mtgtip:`Ajani's Pridemate<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/a/aab58d83-5930-4d28-a26c-225c7a872216.jpg?1616279822|"
+"border_crop/front/a/a/aab58d83-5930-4d28-a26c-225c7a872216.jpg?1619399676|"
 "https://scryfall.com/card/tsr/290/ajanis-pridemate?utm_source=api>`"
 msgstr ""
 
@@ -5242,7 +5245,7 @@ msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 #: ../../TSR.rst:1696
 msgid ""
 ":mtgtip:`Banishing Light<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/f/9f27dd19-a475-4024-aecf-ba6142806656.jpg?1616279859|"
+"border_crop/front/9/f/9f27dd19-a475-4024-aecf-ba6142806656.jpg?1619399706|"
 "https://scryfall.com/card/tsr/291/banishing-light?utm_source=api>`"
 msgstr ""
 
@@ -5257,7 +5260,7 @@ msgstr ""
 #: ../../TSR.rst:1702
 msgid ""
 ":mtgtip:`Containment Priest<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/5/65975f50-70b1-4d64-8d81-5ef2da479c48.jpg?1616279888|"
+"border_crop/front/6/5/65975f50-70b1-4d64-8d81-5ef2da479c48.jpg?1619399738|"
 "https://scryfall.com/card/tsr/292/containment-priest?utm_source=api>`"
 msgstr ""
 
@@ -5272,7 +5275,7 @@ msgstr ""
 #: ../../TSR.rst:1708
 msgid ""
 ":mtgtip:`Ethereal Armor<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/1/2167e245-dbdc-4a4b-b475-05b23f84a98b.jpg?1616279930|"
+"border_crop/front/2/1/2167e245-dbdc-4a4b-b475-05b23f84a98b.jpg?1619399770|"
 "https://scryfall.com/card/tsr/293/ethereal-armor?utm_source=api>`"
 msgstr ""
 
@@ -5287,7 +5290,7 @@ msgstr ""
 #: ../../TSR.rst:1714
 msgid ""
 ":mtgtip:`Flickerwisp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/9/6931aad2-aa2c-4069-9e5a-2566b9f3eae4.jpg?1616279960|https://"
+"front/6/9/6931aad2-aa2c-4069-9e5a-2566b9f3eae4.jpg?1619399797|https://"
 "scryfall.com/card/tsr/294/flickerwisp?utm_source=api>`"
 msgstr ""
 
@@ -5304,7 +5307,7 @@ msgstr ""
 #: ../../TSR.rst:1718
 msgid ""
 ":mtgtip:`Intangible Virtue<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/d/edfa180a-772d-4d4a-9c1b-22b3cf18e2b0.jpg?1616279994|"
+"border_crop/front/e/d/edfa180a-772d-4d4a-9c1b-22b3cf18e2b0.jpg?1619399829|"
 "https://scryfall.com/card/tsr/295/intangible-virtue?utm_source=api>`"
 msgstr ""
 
@@ -5315,7 +5318,7 @@ msgstr "Żetony stworów pod twoim władaniem dostają +1/+1 i mają czujność.
 #: ../../TSR.rst:1724
 msgid ""
 ":mtgtip:`Lingering Souls<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/278e97cf-312d-4e9e-bc39-023f4e547121.jpg?1616280028|"
+"border_crop/front/2/7/278e97cf-312d-4e9e-bc39-023f4e547121.jpg?1620236329|"
 "https://scryfall.com/card/tsr/296/lingering-souls?utm_source=api>`"
 msgstr ""
 
@@ -5334,7 +5337,7 @@ msgstr ""
 #: ../../TSR.rst:1730
 msgid ""
 ":mtgtip:`Mirror Entity<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/6/76f71a96-94d1-4cbb-b21c-0e5075840777.jpg?1616280071|"
+"border_crop/front/7/6/76f71a96-94d1-4cbb-b21c-0e5075840777.jpg?1619399899|"
 "https://scryfall.com/card/tsr/297/mirror-entity?utm_source=api>`"
 msgstr ""
 
@@ -5353,7 +5356,7 @@ msgstr ""
 #: ../../TSR.rst:1736
 msgid ""
 ":mtgtip:`Palace Jailer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/d/ed869151-02e9-4daa-994d-ccdf9f9dc3c8.jpg?1616280104|"
+"border_crop/front/e/d/ed869151-02e9-4daa-994d-ccdf9f9dc3c8.jpg?1619399930|"
 "https://scryfall.com/card/tsr/298/palace-jailer?utm_source=api>`"
 msgstr ""
 
@@ -5372,7 +5375,7 @@ msgstr ""
 #: ../../TSR.rst:1740
 msgid ""
 ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1616282082|"
+"border_crop/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1619399963|"
 "https://scryfall.com/card/tsr/299/path-to-exile?utm_source=api>`"
 msgstr ""
 
@@ -5388,7 +5391,7 @@ msgstr ""
 #: ../../TSR.rst:1748
 msgid ""
 ":mtgtip:`Restoration Angel<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/c/fc1266de-3a58-4579-9781-78aaf852bbac.jpg?1616280240|"
+"border_crop/front/f/c/fc1266de-3a58-4579-9781-78aaf852bbac.jpg?1619399998|"
 "https://scryfall.com/card/tsr/300/restoration-angel?utm_source=api>`"
 msgstr ""
 
@@ -5406,7 +5409,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Sigil of the Empty Throne<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/5/3584cdf0-9e46-480d-bc73-78e1180d32d3.jpg?"
-"1616280276|https://scryfall.com/card/tsr/301/sigil-of-the-empty-throne?"
+"1619400033|https://scryfall.com/card/tsr/301/sigil-of-the-empty-throne?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5420,7 +5423,7 @@ msgstr ""
 #: ../../TSR.rst:1756
 msgid ""
 ":mtgtip:`Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/d/9/d93c1860-a27e-426c-9fbb-3bd20ead1afc.jpg?1616280315|https://"
+"front/d/9/d93c1860-a27e-426c-9fbb-3bd20ead1afc.jpg?1619400062|https://"
 "scryfall.com/card/tsr/302/silence?utm_source=api>`"
 msgstr ""
 
@@ -5431,7 +5434,7 @@ msgstr "Twoi przeciwnicy nie mogą rzucać czarów w tej turze."
 #: ../../TSR.rst:1760
 msgid ""
 ":mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/d/adc08ef6-61fc-4d01-a78b-df0cf99585d9.jpg?1616280352|"
+"border_crop/front/a/d/adc08ef6-61fc-4d01-a78b-df0cf99585d9.jpg?1619400088|"
 "https://scryfall.com/card/tsr/303/sram-senior-edificer?utm_source=api>`"
 msgstr ""
 
@@ -5442,7 +5445,7 @@ msgstr "Ilekroć rzucisz czar Aury, Wyposażenia lub Pojazdu, dobierz kartę."
 #: ../../TSR.rst:1764
 msgid ""
 ":mtgtip:`Stonehorn Dignitary<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/0/e04d14bf-78dd-4a51-a8df-04636d2141f3.jpg?1616280388|"
+"border_crop/front/e/0/e04d14bf-78dd-4a51-a8df-04636d2141f3.jpg?1619400117|"
 "https://scryfall.com/card/tsr/304/stonehorn-dignitary?utm_source=api>`"
 msgstr ""
 
@@ -5457,7 +5460,7 @@ msgstr ""
 #: ../../TSR.rst:1768
 msgid ""
 ":mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/c/ec18fa41-6948-4d94-8dcc-31fb63fb53ec.jpg?1616280415|"
+"border_crop/front/e/c/ec18fa41-6948-4d94-8dcc-31fb63fb53ec.jpg?1619400151|"
 "https://scryfall.com/card/tsr/305/thraben-inspector?utm_source=api>`"
 msgstr ""
 
@@ -5475,7 +5478,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Baral, Chief of Compliance<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/1/a103a725-4750-4d9e-8792-6fbbb81bba0e.jpg?"
-"1616280447|https://scryfall.com/card/tsr/306/baral-chief-of-compliance?"
+"1619400191|https://scryfall.com/card/tsr/306/baral-chief-of-compliance?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5494,7 +5497,7 @@ msgstr ""
 #: ../../TSR.rst:1778
 msgid ""
 ":mtgtip:`Disdainful Stroke<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/8/f83fbd7f-1757-4dcf-9972-0c8f71843f03.jpg?1616280476|"
+"border_crop/front/f/8/f83fbd7f-1757-4dcf-9972-0c8f71843f03.jpg?1619400229|"
 "https://scryfall.com/card/tsr/307/disdainful-stroke?utm_source=api>`"
 msgstr ""
 
@@ -5505,7 +5508,7 @@ msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 #: ../../TSR.rst:1784
 msgid ""
 ":mtgtip:`Fblthp, the Lost<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1616280513|"
+"border_crop/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1619400271|"
 "https://scryfall.com/card/tsr/308/fblthp-the-lost?utm_source=api>`"
 msgstr ""
 
@@ -5528,7 +5531,7 @@ msgstr ""
 #: ../../TSR.rst:1788
 msgid ""
 ":mtgtip:`Laboratory Maniac<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/8/5840b48c-7a14-481e-9d21-0c68aee16020.jpg?1616280540|"
+"border_crop/front/5/8/5840b48c-7a14-481e-9d21-0c68aee16020.jpg?1619400313|"
 "https://scryfall.com/card/tsr/309/laboratory-maniac?utm_source=api>`"
 msgstr ""
 
@@ -5544,7 +5547,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Master of the Pearl Trident<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/3/3367f862-cd88-4e6d-8e87-693080e5c431.jpg?"
-"1616280606|https://scryfall.com/card/tsr/310/master-of-the-pearl-trident?"
+"1619400352|https://scryfall.com/card/tsr/310/master-of-the-pearl-trident?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5559,7 +5562,7 @@ msgstr ""
 #: ../../TSR.rst:1800
 msgid ""
 ":mtgtip:`Mulldrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/a/ea86b5bf-c38f-4168-a4dd-96859948423c.jpg?1616280634|https://"
+"front/e/a/ea86b5bf-c38f-4168-a4dd-96859948423c.jpg?1619400383|https://"
 "scryfall.com/card/tsr/311/mulldrifter?utm_source=api>`"
 msgstr ""
 
@@ -5578,7 +5581,7 @@ msgstr ""
 #: ../../TSR.rst:1810
 msgid ""
 ":mtgtip:`Mystic Confluence<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/3/337214ad-2976-4692-89c4-2c5001bf087f.jpg?1616280664|"
+"border_crop/front/3/3/337214ad-2976-4692-89c4-2c5001bf087f.jpg?1619400415|"
 "https://scryfall.com/card/tsr/312/mystic-confluence?utm_source=api>`"
 msgstr ""
 
@@ -5593,7 +5596,7 @@ msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 #: ../../TSR.rst:1816
 msgid ""
 ":mtgtip:`Ninja of the Deep Hours<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/1/2101b32f-2a7f-4cfa-80a4-fdae3756a7f1.jpg?1616280694|"
+"border_crop/front/2/1/2101b32f-2a7f-4cfa-80a4-fdae3756a7f1.jpg?1619400444|"
 "https://scryfall.com/card/tsr/313/ninja-of-the-deep-hours?utm_source=api>`"
 msgstr ""
 
@@ -5616,7 +5619,7 @@ msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kar
 #: ../../TSR.rst:1820
 msgid ""
 ":mtgtip:`Paradoxical Outcome<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/a/8ad659f3-11c8-4cc0-a716-43bb3ad18a9c.jpg?1616280722|"
+"border_crop/front/8/a/8ad659f3-11c8-4cc0-a716-43bb3ad18a9c.jpg?1619400473|"
 "https://scryfall.com/card/tsr/314/paradoxical-outcome?utm_source=api>`"
 msgstr ""
 
@@ -5633,7 +5636,7 @@ msgstr ""
 #: ../../TSR.rst:1826
 msgid ""
 ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/a/f/af450adb-23be-4332-a54c-d647a1fd0248.jpg?1616280754|https://"
+"front/a/f/af450adb-23be-4332-a54c-d647a1fd0248.jpg?1620236340|https://"
 "scryfall.com/card/tsr/315/ponder?utm_source=api>`"
 msgstr ""
 
@@ -5648,7 +5651,7 @@ msgstr ""
 #: ../../TSR.rst:1832
 msgid ""
 ":mtgtip:`Remand<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1616280785|https://"
+"front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1619400530|https://"
 "scryfall.com/card/tsr/316/remand?utm_source=api>`"
 msgstr ""
 
@@ -5663,7 +5666,7 @@ msgstr ""
 #: ../../TSR.rst:1838
 msgid ""
 ":mtgtip:`Repeal<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/7/67954eb1-1c61-432c-9113-104909511ad4.jpg?1616280815|https://"
+"front/6/7/67954eb1-1c61-432c-9113-104909511ad4.jpg?1619400570|https://"
 "scryfall.com/card/tsr/317/repeal?utm_source=api>`"
 msgstr ""
 
@@ -5675,7 +5678,7 @@ msgstr ""
 #: ../../TSR.rst:1842
 msgid ""
 ":mtgtip:`Talrand, Sky Summoner<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/4/24c7f794-71b7-433f-9d43-863058efa134.jpg?1616280849|"
+"border_crop/front/2/4/24c7f794-71b7-433f-9d43-863058efa134.jpg?1619400603|"
 "https://scryfall.com/card/tsr/318/talrand-sky-summoner?utm_source=api>`"
 msgstr ""
 
@@ -5690,14 +5693,14 @@ msgstr ""
 #: ../../TSR.rst:1848
 msgid ""
 ":mtgtip:`Treasure Cruise<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/4/84e86d8e-8d58-41e8-8c4d-b73482bcba45.jpg?1616280874|"
+"border_crop/front/8/4/84e86d8e-8d58-41e8-8c4d-b73482bcba45.jpg?1619400635|"
 "https://scryfall.com/card/tsr/319/treasure-cruise?utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:1852
 msgid ""
 ":mtgtip:`Trinket Mage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/e/2e006682-5236-4a32-9f3d-7337b2c42b21.jpg?1616280940|"
+"border_crop/front/2/e/2e006682-5236-4a32-9f3d-7337b2c42b21.jpg?1619400672|"
 "https://scryfall.com/card/tsr/320/trinket-mage?utm_source=api>`"
 msgstr ""
 
@@ -5714,7 +5717,7 @@ msgstr ""
 #: ../../TSR.rst:1858
 msgid ""
 ":mtgtip:`True-Name Nemesis<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/3/33ad086b-9bf2-4086-b820-a4ff7854a674.jpg?1616280968|"
+"border_crop/front/3/3/33ad086b-9bf2-4086-b820-a4ff7854a674.jpg?1619400698|"
 "https://scryfall.com/card/tsr/321/true-name-nemesis?utm_source=api>`"
 msgstr ""
 
@@ -5729,7 +5732,7 @@ msgstr "Ten stwór ma ochronę przed wybranym graczem."
 #: ../../TSR.rst:1864
 msgid ""
 ":mtgtip:`Dismember<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/0/8/08d405dc-180f-4edb-8c53-80a034ee622e.jpg?1616281002|https://"
+"front/0/8/08d405dc-180f-4edb-8c53-80a034ee622e.jpg?1619400792|https://"
 "scryfall.com/card/tsr/322/dismember?utm_source=api>`"
 msgstr ""
 
@@ -5745,7 +5748,7 @@ msgstr "Wskazany stwór dostaje do końca tury -5/-5."
 msgid ""
 ":mtgtip:`Gray Merchant of Asphodel<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/5/b/5be62041-fec2-44e0-aec9-5368d1c7f1da.jpg?"
-"1616281029|https://scryfall.com/card/tsr/323/gray-merchant-of-asphodel?"
+"1619400831|https://scryfall.com/card/tsr/323/gray-merchant-of-asphodel?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5764,14 +5767,14 @@ msgstr ""
 #: ../../TSR.rst:1872
 msgid ""
 ":mtgtip:`Gurmag Angler<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/6/361fe303-34a5-4d12-b927-dfb858699c6c.jpg?1616281059|"
+"border_crop/front/3/6/361fe303-34a5-4d12-b927-dfb858699c6c.jpg?1619400856|"
 "https://scryfall.com/card/tsr/324/gurmag-angler?utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:1878
 msgid ""
 ":mtgtip:`Harvester of Souls<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/d/5d222691-1eb4-407e-a94a-5a71c0f1e376.jpg?1616281089|"
+"border_crop/front/5/d/5d222691-1eb4-407e-a94a-5a71c0f1e376.jpg?1619400908|"
 "https://scryfall.com/card/tsr/325/harvester-of-souls?utm_source=api>`"
 msgstr ""
 
@@ -5786,7 +5789,7 @@ msgstr "Ilekroć umrze inny nieżetonowy stwór, możesz dobrać kartę."
 #: ../../TSR.rst:1884
 msgid ""
 ":mtgtip:`Leyline of the Void<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/8/186eea73-46c5-4532-ac94-326db7d6f0cb.jpg?1616281130|"
+"border_crop/front/1/8/186eea73-46c5-4532-ac94-326db7d6f0cb.jpg?1619400955|"
 "https://scryfall.com/card/tsr/326/leyline-of-the-void?utm_source=api>`"
 msgstr ""
 
@@ -5809,7 +5812,7 @@ msgstr ""
 #: ../../TSR.rst:1888
 msgid ""
 ":mtgtip:`Liliana's Triumph<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/e/fe1f0f9e-556c-40b7-bba9-a539c4c4fd30.jpg?1616281158|"
+"border_crop/front/f/e/fe1f0f9e-556c-40b7-bba9-a539c4c4fd30.jpg?1619400994|"
 "https://scryfall.com/card/tsr/327/lilianas-triumph?utm_source=api>`"
 msgstr ""
 
@@ -5824,7 +5827,7 @@ msgstr ""
 #: ../../TSR.rst:1892
 msgid ""
 ":mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/d/4daf00e8-f95b-410f-9e6f-a7fd6c2b8588.jpg?1616281196|"
+"border_crop/front/4/d/4daf00e8-f95b-410f-9e6f-a7fd6c2b8588.jpg?1619401035|"
 "https://scryfall.com/card/tsr/328/read-the-bones?utm_source=api>`"
 msgstr ""
 
@@ -5835,7 +5838,7 @@ msgstr "Wróż 2, po czym dobierz dwie karty. Strać 2 życia."
 #: ../../TSR.rst:1898
 msgid ""
 ":mtgtip:`Relentless Rats<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1616319199|"
+"border_crop/front/2/8/28de0281-0370-44df-9ee0-6e1bb9925a92.jpg?1619401066|"
 "https://scryfall.com/card/tsr/329/relentless-rats?utm_source=api>`"
 msgstr ""
 
@@ -5854,7 +5857,7 @@ msgstr "Talia może mieć dowolną liczbę kart o nazwie Relentless Rats."
 #: ../../TSR.rst:1902
 msgid ""
 ":mtgtip:`Sanguine Bond<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/f/ff0c16b0-bdab-44e1-b235-47fe8d32f4d2.jpg?1616281304|"
+"border_crop/front/f/f/ff0c16b0-bdab-44e1-b235-47fe8d32f4d2.jpg?1619401095|"
 "https://scryfall.com/card/tsr/330/sanguine-bond?utm_source=api>`"
 msgstr ""
 
@@ -5865,7 +5868,7 @@ msgstr "Ilekroć zyskasz życia, wskazany przeciwnik traci tyle samo żyć."
 #: ../../TSR.rst:1910
 msgid ""
 ":mtgtip:`Shriekmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/d/0/d007da5a-6bd9-433b-b04e-b740e61dfc50.jpg?1616281331|https://"
+"front/d/0/d007da5a-6bd9-433b-b04e-b740e61dfc50.jpg?1619401128|https://"
 "scryfall.com/card/tsr/331/shriekmaw?utm_source=api>`"
 msgstr ""
 
@@ -5888,7 +5891,7 @@ msgstr ""
 #: ../../TSR.rst:1918
 msgid ""
 ":mtgtip:`Stinkweed Imp<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/d/fd78ce3d-cf5a-4f1a-9a47-7872be8cf45c.jpg?1616281361|"
+"border_crop/front/f/d/fd78ce3d-cf5a-4f1a-9a47-7872be8cf45c.jpg?1619401158|"
 "https://scryfall.com/card/tsr/332/stinkweed-imp?utm_source=api>`"
 msgstr ""
 
@@ -5913,7 +5916,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Tasigur, the Golden Fang<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/0/9/095b6fd9-d0e5-4026-895a-851a462cbf90.jpg?"
-"1616281393|https://scryfall.com/card/tsr/333/tasigur-the-golden-fang?"
+"1619401191|https://scryfall.com/card/tsr/333/tasigur-the-golden-fang?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5928,7 +5931,7 @@ msgstr ""
 #: ../../TSR.rst:1928
 msgid ""
 ":mtgtip:`Thoughtseize<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/6/e6e76c6b-9d60-4bc8-b88d-6c9c7fade9a6.jpg?1616281435|"
+"border_crop/front/e/6/e6e76c6b-9d60-4bc8-b88d-6c9c7fade9a6.jpg?1619401224|"
 "https://scryfall.com/card/tsr/334/thoughtseize?utm_source=api>`"
 msgstr ""
 
@@ -5943,7 +5946,7 @@ msgstr ""
 #: ../../TSR.rst:1934
 msgid ""
 ":mtgtip:`Vampire Hexmage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/9/d945e64f-cbe9-4b72-aaec-0b97be1e12d2.jpg?1616281466|"
+"border_crop/front/d/9/d945e64f-cbe9-4b72-aaec-0b97be1e12d2.jpg?1619401253|"
 "https://scryfall.com/card/tsr/335/vampire-hexmage?utm_source=api>`"
 msgstr ""
 
@@ -5956,7 +5959,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Yawgmoth, Thran Physician<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/1/81564970-23ad-41a3-b5e0-21bdf13f6248.jpg?"
-"1616281500|https://scryfall.com/card/tsr/336/yawgmoth-thran-physician?"
+"1619401285|https://scryfall.com/card/tsr/336/yawgmoth-thran-physician?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5985,7 +5988,7 @@ msgstr ""
 #: ../../TSR.rst:1946
 msgid ""
 ":mtgtip:`Zulaport Cutthroat<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/c/bc8a6636-eab2-4aee-bd55-4d62c2e2e266.jpg?1616281529|"
+"border_crop/front/b/c/bc8a6636-eab2-4aee-bd55-4d62c2e2e266.jpg?1619401319|"
 "https://scryfall.com/card/tsr/337/zulaport-cutthroat?utm_source=api>`"
 msgstr ""
 
@@ -6001,7 +6004,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Alesha, Who Smiles at Death<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/8/88ba1276-0fe6-419f-9d91-fac9eb23cca4.jpg?"
-"1616281579|https://scryfall.com/card/tsr/338/alesha-who-smiles-at-death?"
+"1619401345|https://scryfall.com/card/tsr/338/alesha-who-smiles-at-death?"
 "utm_source=api>`"
 msgstr ""
 
@@ -6018,7 +6021,7 @@ msgstr ""
 #: ../../TSR.rst:1956
 msgid ""
 ":mtgtip:`Anger of the Gods<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/9/89888597-e9bf-431a-8664-da66f22c7ea0.jpg?1616281611|"
+"border_crop/front/8/9/89888597-e9bf-431a-8664-da66f22c7ea0.jpg?1619401372|"
 "https://scryfall.com/card/tsr/339/anger-of-the-gods?utm_source=api>`"
 msgstr ""
 
@@ -6033,7 +6036,7 @@ msgstr ""
 #: ../../TSR.rst:1964
 msgid ""
 ":mtgtip:`Bedlam Reveler<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/2/526682f2-011c-4cab-9115-ef605489ee01.jpg?1616281683|"
+"border_crop/front/5/2/526682f2-011c-4cab-9115-ef605489ee01.jpg?1619401404|"
 "https://scryfall.com/card/tsr/340/bedlam-reveler?utm_source=api>`"
 msgstr ""
 
@@ -6060,7 +6063,7 @@ msgstr ""
 #: ../../TSR.rst:1970
 msgid ""
 ":mtgtip:`Dreadhorde Arcanist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/27933adb-9c7a-4248-9908-f01e6a6bf12c.jpg?1616281720|"
+"border_crop/front/2/7/27933adb-9c7a-4248-9908-f01e6a6bf12c.jpg?1619401433|"
 "https://scryfall.com/card/tsr/341/dreadhorde-arcanist?utm_source=api>`"
 msgstr ""
 
@@ -6079,7 +6082,7 @@ msgstr ""
 #: ../../TSR.rst:1974
 msgid ""
 ":mtgtip:`Etali, Primal Storm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/0/b0f9f8b0-f0de-4dff-a8ea-857919366000.jpg?1616281749|"
+"border_crop/front/b/0/b0f9f8b0-f0de-4dff-a8ea-857919366000.jpg?1619401469|"
 "https://scryfall.com/card/tsr/342/etali-primal-storm?utm_source=api>`"
 msgstr ""
 
@@ -6096,7 +6099,7 @@ msgstr ""
 #: ../../TSR.rst:1980
 msgid ""
 ":mtgtip:`Exquisite Firecraft<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/f/4f7109a9-9eec-48fe-9081-5a0424f255ce.jpg?1616281783|"
+"border_crop/front/4/f/4f7109a9-9eec-48fe-9081-5a0424f255ce.jpg?1619401505|"
 "https://scryfall.com/card/tsr/343/exquisite-firecraft?utm_source=api>`"
 msgstr ""
 
@@ -6116,7 +6119,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Feldon of the Third Path<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/4/4/44130046-cd48-42d5-8083-5e4e7dd37a7b.jpg?"
-"1616281811|https://scryfall.com/card/tsr/344/feldon-of-the-third-path?"
+"1619401529|https://scryfall.com/card/tsr/344/feldon-of-the-third-path?"
 "utm_source=api>`"
 msgstr ""
 
@@ -6133,7 +6136,7 @@ msgstr ""
 #: ../../TSR.rst:1990
 msgid ""
 ":mtgtip:`Goblin Engineer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/1/31f675f6-df29-4b90-a5e6-26d915fdc6a1.jpg?1616281863|"
+"border_crop/front/3/1/31f675f6-df29-4b90-a5e6-26d915fdc6a1.jpg?1619401562|"
 "https://scryfall.com/card/tsr/345/goblin-engineer?utm_source=api>`"
 msgstr ""
 
@@ -6158,7 +6161,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Kiki-Jiki, Mirror Breaker<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/a/8a30fe7c-3c6b-4d05-adb7-9f87df29cd3b.jpg?"
-"1616281900|https://scryfall.com/card/tsr/346/kiki-jiki-mirror-breaker?"
+"1619401601|https://scryfall.com/card/tsr/346/kiki-jiki-mirror-breaker?"
 "utm_source=api>`"
 msgstr ""
 
@@ -6175,7 +6178,7 @@ msgstr ""
 #: ../../TSR.rst:2000
 msgid ""
 ":mtgtip:`Lava Spike<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/0/8/0852af16-f650-4293-81d8-9008882ff45a.jpg?1616281939|https://"
+"front/0/8/0852af16-f650-4293-81d8-9008882ff45a.jpg?1619401630|https://"
 "scryfall.com/card/tsr/347/lava-spike?utm_source=api>`"
 msgstr ""
 
@@ -6186,7 +6189,7 @@ msgstr "Ten czar zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 #: ../../TSR.rst:2004
 msgid ""
 ":mtgtip:`Molten Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/f/0/f0f29ab4-79f8-4bcf-ab0e-c21d3c40d63e.jpg?1616281980|https://"
+"front/f/0/f0f29ab4-79f8-4bcf-ab0e-c21d3c40d63e.jpg?1619401683|https://"
 "scryfall.com/card/tsr/348/molten-rain?utm_source=api>`"
 msgstr ""
 
@@ -6201,7 +6204,7 @@ msgstr ""
 #: ../../TSR.rst:2010
 msgid ""
 ":mtgtip:`Monastery Swiftspear<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/3/439d4ade-45c8-414b-a2fe-a57f9672bceb.jpg?1616282121|"
+"border_crop/front/4/3/439d4ade-45c8-414b-a2fe-a57f9672bceb.jpg?1619401709|"
 "https://scryfall.com/card/tsr/349/monastery-swiftspear?utm_source=api>`"
 msgstr ""
 
@@ -6216,7 +6219,7 @@ msgstr ""
 #: ../../TSR.rst:2016
 msgid ""
 ":mtgtip:`Past in Flames<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/6/e655061a-8071-4b7b-b993-27f9ea360f7c.jpg?1616282179|"
+"border_crop/front/e/6/e655061a-8071-4b7b-b993-27f9ea360f7c.jpg?1619401738|"
 "https://scryfall.com/card/tsr/350/past-in-flames?utm_source=api>`"
 msgstr ""
 
@@ -6239,7 +6242,7 @@ msgstr ""
 #: ../../TSR.rst:2022
 msgid ""
 ":mtgtip:`Temur Battle Rage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/6/d6af20a0-ef9b-4827-a9ef-4958b9d80820.jpg?1616282215|"
+"border_crop/front/d/6/d6af20a0-ef9b-4827-a9ef-4958b9d80820.jpg?1619401763|"
 "https://scryfall.com/card/tsr/351/temur-battle-rage?utm_source=api>`"
 msgstr ""
 
@@ -6258,7 +6261,7 @@ msgstr ""
 #: ../../TSR.rst:2028
 msgid ""
 ":mtgtip:`Vandalblast<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/b/bb320986-0a52-4084-a8c4-e09659432b22.jpg?1616282246|https://"
+"front/b/b/bb320986-0a52-4084-a8c4-e09659432b22.jpg?1619401791|https://"
 "scryfall.com/card/tsr/352/vandalblast?utm_source=api>`"
 msgstr ""
 
@@ -6279,7 +6282,7 @@ msgstr ""
 #: ../../TSR.rst:2032
 msgid ""
 ":mtgtip:`Young Pyromancer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1616282276|"
+"border_crop/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1619401819|"
 "https://scryfall.com/card/tsr/353/young-pyromancer?utm_source=api>`"
 msgstr ""
 
@@ -6294,7 +6297,7 @@ msgstr ""
 #: ../../TSR.rst:2038
 msgid ""
 ":mtgtip:`Zealous Conscripts<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/5/2576152c-d8c1-4412-89db-6e21295c9b18.jpg?1616282306|"
+"border_crop/front/2/5/2576152c-d8c1-4412-89db-6e21295c9b18.jpg?1619401843|"
 "https://scryfall.com/card/tsr/354/zealous-conscripts?utm_source=api>`"
 msgstr ""
 
@@ -6311,7 +6314,7 @@ msgstr ""
 #: ../../TSR.rst:2042
 msgid ""
 ":mtgtip:`Ancient Stirrings<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/e/3e2a4717-3914-46bc-886e-1eddee94e098.jpg?1616282347|"
+"border_crop/front/3/e/3e2a4717-3914-46bc-886e-1eddee94e098.jpg?1619401878|"
 "https://scryfall.com/card/tsr/355/ancient-stirrings?utm_source=api>`"
 msgstr ""
 
@@ -6328,7 +6331,7 @@ msgstr ""
 #: ../../TSR.rst:2046
 msgid ""
 ":mtgtip:`Beast Whisperer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/7/17fbebd9-9faf-4a7b-8e79-b67c074eba8c.jpg?1616282379|"
+"border_crop/front/1/7/17fbebd9-9faf-4a7b-8e79-b67c074eba8c.jpg?1619401901|"
 "https://scryfall.com/card/tsr/356/beast-whisperer?utm_source=api>`"
 msgstr ""
 
@@ -6339,7 +6342,7 @@ msgstr "Ilekroć rzucisz czar stwora, dobierz kartę."
 #: ../../TSR.rst:2050
 msgid ""
 ":mtgtip:`Beast Within<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/9/299f1f93-ecee-4ed8-a77e-6ebc4b85328d.jpg?1616282419|"
+"border_crop/front/2/9/299f1f93-ecee-4ed8-a77e-6ebc4b85328d.jpg?1619401928|"
 "https://scryfall.com/card/tsr/357/beast-within?utm_source=api>`"
 msgstr ""
 
@@ -6354,7 +6357,7 @@ msgstr ""
 #: ../../TSR.rst:2056
 msgid ""
 ":mtgtip:`Become Immense<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/2/e2cbd578-4b3c-4de8-8418-0dd6f85972ae.jpg?1616282449|"
+"border_crop/front/e/2/e2cbd578-4b3c-4de8-8418-0dd6f85972ae.jpg?1619401953|"
 "https://scryfall.com/card/tsr/358/become-immense?utm_source=api>`"
 msgstr ""
 
@@ -6365,7 +6368,7 @@ msgstr "Wskazany stwór dostaje do końca tury +6/+6."
 #: ../../TSR.rst:2064
 msgid ""
 ":mtgtip:`Courser of Kruphix<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/3/c341be76-664f-4665-a4c3-708d97605a16.jpg?1616282486|"
+"border_crop/front/c/3/c341be76-664f-4665-a4c3-708d97605a16.jpg?1619401979|"
 "https://scryfall.com/card/tsr/359/courser-of-kruphix?utm_source=api>`"
 msgstr ""
 
@@ -6381,14 +6384,14 @@ msgstr "Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życi
 #: ../../TSR.rst:2068
 msgid ""
 ":mtgtip:`Elvish Mystic<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1616282632|"
+"border_crop/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1619402005|"
 "https://scryfall.com/card/tsr/360/elvish-mystic?utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:2072
 msgid ""
 ":mtgtip:`Eternal Witness<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/8/584dfb52-4a6c-4a33-9ae1-12227b938f9a.jpg?1616282669|"
+"border_crop/front/5/8/584dfb52-4a6c-4a33-9ae1-12227b938f9a.jpg?1619402031|"
 "https://scryfall.com/card/tsr/361/eternal-witness?utm_source=api>`"
 msgstr ""
 
@@ -6403,7 +6406,7 @@ msgstr ""
 #: ../../TSR.rst:2076
 msgid ""
 ":mtgtip:`Evolutionary Leap<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/7/c731ba3b-3c48-472b-88ec-05205690e703.jpg?1616282700|"
+"border_crop/front/c/7/c731ba3b-3c48-472b-88ec-05205690e703.jpg?1619402054|"
 "https://scryfall.com/card/tsr/362/evolutionary-leap?utm_source=api>`"
 msgstr ""
 
@@ -6420,7 +6423,7 @@ msgstr ""
 #: ../../TSR.rst:2080
 msgid ""
 ":mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/7/4/74db0dd4-3bb6-41f7-803c-a04647327dec.jpg?1616282752|https://"
+"front/7/4/74db0dd4-3bb6-41f7-803c-a04647327dec.jpg?1619402087|https://"
 "scryfall.com/card/tsr/363/farseek?utm_source=api>`"
 msgstr ""
 
@@ -6435,7 +6438,7 @@ msgstr ""
 #: ../../TSR.rst:2084
 msgid ""
 ":mtgtip:`Nature's Claim<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/f/0faca514-b7f3-4d34-a259-d03bad50611b.jpg?1616428477|"
+"border_crop/front/0/f/0faca514-b7f3-4d34-a259-d03bad50611b.jpg?1619402115|"
 "https://scryfall.com/card/tsr/364/natures-claim?utm_source=api>`"
 msgstr ""
 
@@ -6446,7 +6449,7 @@ msgstr "Zniszcz wskazany artefakt lub urok. Jego władca zyskuje 4 życia."
 #: ../../TSR.rst:2090
 msgid ""
 ":mtgtip:`Primeval Titan<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/3/53760940-50e4-45d4-8297-353c9fc896e9.jpg?1616282832|"
+"border_crop/front/5/3/53760940-50e4-45d4-8297-353c9fc896e9.jpg?1619402145|"
 "https://scryfall.com/card/tsr/365/primeval-titan?utm_source=api>`"
 msgstr ""
 
@@ -6463,7 +6466,7 @@ msgstr ""
 #: ../../TSR.rst:2094
 msgid ""
 ":mtgtip:`Reclamation Sage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/6/c6fba2e4-ea27-4ef0-9b27-bc61a7c6b0ab.jpg?1616282884|"
+"border_crop/front/c/6/c6fba2e4-ea27-4ef0-9b27-bc61a7c6b0ab.jpg?1619402169|"
 "https://scryfall.com/card/tsr/366/reclamation-sage?utm_source=api>`"
 msgstr ""
 
@@ -6478,7 +6481,7 @@ msgstr ""
 #: ../../TSR.rst:2098
 msgid ""
 ":mtgtip:`Sylvan Scrying<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/f/1f882c71-dd90-4eac-9756-0bf487cba625.jpg?1616428511|"
+"border_crop/front/1/f/1f882c71-dd90-4eac-9756-0bf487cba625.jpg?1619402194|"
 "https://scryfall.com/card/tsr/367/sylvan-scrying?utm_source=api>`"
 msgstr ""
 
@@ -6493,7 +6496,7 @@ msgstr ""
 #: ../../TSR.rst:2104
 msgid ""
 ":mtgtip:`Thragtusk<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/3/c30267b1-a7ea-45cd-99a8-6b0e6ddbc395.jpg?1616282998|https://"
+"front/c/3/c30267b1-a7ea-45cd-99a8-6b0e6ddbc395.jpg?1619402217|https://"
 "scryfall.com/card/tsr/368/thragtusk?utm_source=api>`"
 msgstr ""
 
@@ -6511,7 +6514,7 @@ msgstr ""
 #: ../../TSR.rst:2108
 msgid ""
 ":mtgtip:`Time of Need<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/a/5a42d3fb-fc5b-4b8e-bc23-167bc21b5194.jpg?1616283050|"
+"border_crop/front/5/a/5a42d3fb-fc5b-4b8e-bc23-167bc21b5194.jpg?1619402251|"
 "https://scryfall.com/card/tsr/369/time-of-need?utm_source=api>`"
 msgstr ""
 
@@ -6526,7 +6529,7 @@ msgstr ""
 #: ../../TSR.rst:2114
 msgid ""
 ":mtgtip:`Abrupt Decay<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/7/57010ba9-52be-484d-9976-7576c4ce48d0.jpg?1616283151|"
+"border_crop/front/5/7/57010ba9-52be-484d-9976-7576c4ce48d0.jpg?1619402275|"
 "https://scryfall.com/card/tsr/370/abrupt-decay?utm_source=api>`"
 msgstr ""
 
@@ -6537,7 +6540,7 @@ msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
 #: ../../TSR.rst:2122
 msgid ""
 ":mtgtip:`Arcades, the Strategist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/6/0652f9e2-ba2a-4c0a-bbfc-9b00ee5d28d4.jpg?1616283189|"
+"border_crop/front/0/6/0652f9e2-ba2a-4c0a-bbfc-9b00ee5d28d4.jpg?1619402297|"
 "https://scryfall.com/card/tsr/371/arcades-the-strategist?utm_source=api>`"
 msgstr ""
 
@@ -6562,7 +6565,7 @@ msgstr ""
 #: ../../TSR.rst:2128
 msgid ""
 ":mtgtip:`Bloodbraid Elf<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/4/9445d57a-da77-4456-9e69-c898c4d57853.jpg?1616283251|"
+"border_crop/front/9/4/9445d57a-da77-4456-9e69-c898c4d57853.jpg?1619402326|"
 "https://scryfall.com/card/tsr/372/bloodbraid-elf?utm_source=api>`"
 msgstr ""
 
@@ -6581,7 +6584,7 @@ msgstr ""
 #: ../../TSR.rst:2132
 msgid ""
 ":mtgtip:`Cloudshredder Sliver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/7/f7b8521e-8706-4480-9a47-9600a015cc96.jpg?1616283290|"
+"border_crop/front/f/7/f7b8521e-8706-4480-9a47-9600a015cc96.jpg?1619402348|"
 "https://scryfall.com/card/tsr/373/cloudshredder-sliver?utm_source=api>`"
 msgstr ""
 
@@ -6592,7 +6595,7 @@ msgstr "Drzazgacze pod twoim władaniem mają latanie i pośpiech."
 #: ../../TSR.rst:2138
 msgid ""
 ":mtgtip:`Consuming Aberration<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/c/cc894fb3-011c-441c-8843-34d84b4115ef.jpg?1616283328|"
+"border_crop/front/c/c/cc894fb3-011c-441c-8843-34d84b4115ef.jpg?1619402374|"
 "https://scryfall.com/card/tsr/374/consuming-aberration?utm_source=api>`"
 msgstr ""
 
@@ -6617,7 +6620,7 @@ msgstr ""
 #: ../../TSR.rst:2144
 msgid ""
 ":mtgtip:`Dovin's Veto<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/3/2392b542-5ae6-4d0e-808c-734f1d06afa4.jpg?1616283380|"
+"border_crop/front/2/3/2392b542-5ae6-4d0e-808c-734f1d06afa4.jpg?1619402402|"
 "https://scryfall.com/card/tsr/375/dovins-veto?utm_source=api>`"
 msgstr ""
 
@@ -6628,7 +6631,7 @@ msgstr "Skontruj wskazany nie-stworowy czar."
 #: ../../TSR.rst:2148
 msgid ""
 ":mtgtip:`Epic Experiment<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/2/2212c653-0daa-4c7a-86fc-493d49db210a.jpg?1616283427|"
+"border_crop/front/2/2/2212c653-0daa-4c7a-86fc-493d49db210a.jpg?1619402433|"
 "https://scryfall.com/card/tsr/376/epic-experiment?utm_source=api>`"
 msgstr ""
 
@@ -6647,7 +6650,7 @@ msgstr ""
 #: ../../TSR.rst:2154
 msgid ""
 ":mtgtip:`Feather, the Redeemed<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/e/be4e8bb8-fa07-4858-aafb-7eab7f01ddae.jpg?1616283468|"
+"border_crop/front/b/e/be4e8bb8-fa07-4858-aafb-7eab7f01ddae.jpg?1619402462|"
 "https://scryfall.com/card/tsr/377/feather-the-redeemed?utm_source=api>`"
 msgstr ""
 
@@ -6666,7 +6669,7 @@ msgstr ""
 #: ../../TSR.rst:2160
 msgid ""
 ":mtgtip:`Grenzo, Dungeon Warden<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/3/43dba110-0319-4c64-8a96-539627e315ad.jpg?1616283518|"
+"border_crop/front/4/3/43dba110-0319-4c64-8a96-539627e315ad.jpg?1619402486|"
 "https://scryfall.com/card/tsr/378/grenzo-dungeon-warden?utm_source=api>`"
 msgstr ""
 
@@ -6688,7 +6691,7 @@ msgstr ""
 #: ../../TSR.rst:2166
 msgid ""
 ":mtgtip:`Knight of the Reliquary<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/c/fcba497e-14de-4977-9e5a-0533b6b0de60.jpg?1616283561|"
+"border_crop/front/f/c/fcba497e-14de-4977-9e5a-0533b6b0de60.jpg?1619402514|"
 "https://scryfall.com/card/tsr/379/knight-of-the-reliquary?utm_source=api>`"
 msgstr ""
 
@@ -6709,7 +6712,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Lavinia, Azorius Renegade<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/4/b/4bee8ea6-8903-4bed-977b-b6c2cd0126f9.jpg?"
-"1616283663|https://scryfall.com/card/tsr/380/lavinia-azorius-renegade?"
+"1620236394|https://scryfall.com/card/tsr/380/lavinia-azorius-renegade?"
 "utm_source=api>`"
 msgstr ""
 
@@ -6732,7 +6735,7 @@ msgstr ""
 #: ../../TSR.rst:2176
 msgid ""
 ":mtgtip:`Mortify<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/7/6/767a344e-e2ab-462f-9da3-2e1ee8868a26.jpg?1616283715|https://"
+"front/7/6/767a344e-e2ab-462f-9da3-2e1ee8868a26.jpg?1619402575|https://"
 "scryfall.com/card/tsr/381/mortify?utm_source=api>`"
 msgstr ""
 
@@ -6743,7 +6746,7 @@ msgstr "Zniszcz wskazanego stwora lub urok."
 #: ../../TSR.rst:2180
 msgid ""
 ":mtgtip:`Prized Amalgam<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/b/4bf17671-5323-4c84-8215-d58dd2189cdd.jpg?1616283749|"
+"border_crop/front/4/b/4bf17671-5323-4c84-8215-d58dd2189cdd.jpg?1620236392|"
 "https://scryfall.com/card/tsr/382/prized-amalgam?utm_source=api>`"
 msgstr ""
 
@@ -6761,7 +6764,7 @@ msgstr ""
 #: ../../TSR.rst:2186
 msgid ""
 ":mtgtip:`Qasali Pridemage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/4/74f749c4-3a00-4a9f-b8ad-5c7c3a96e8f0.jpg?1616283798|"
+"border_crop/front/7/4/74f749c4-3a00-4a9f-b8ad-5c7c3a96e8f0.jpg?1619402630|"
 "https://scryfall.com/card/tsr/383/qasali-pridemage?utm_source=api>`"
 msgstr ""
 
@@ -6781,7 +6784,7 @@ msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 #: ../../TSR.rst:2196
 msgid ""
 ":mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/5/e5cbac09-6c0c-4c5d-be20-d558815990fb.jpg?1616283853|"
+"border_crop/front/e/5/e5cbac09-6c0c-4c5d-be20-d558815990fb.jpg?1619402662|"
 "https://scryfall.com/card/tsr/384/rakdos-charm?utm_source=api>`"
 msgstr ""
 
@@ -6796,7 +6799,7 @@ msgstr "Każdy stwór zadaje swojemu władcy po 1 obrażeniu."
 #: ../../TSR.rst:2202
 msgid ""
 ":mtgtip:`Secret Plans<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/9/b921da9a-b140-463f-aeee-6d16aaa5246c.jpg?1616283896|"
+"border_crop/front/b/9/b921da9a-b140-463f-aeee-6d16aaa5246c.jpg?1619402725|"
 "https://scryfall.com/card/tsr/385/secret-plans?utm_source=api>`"
 msgstr ""
 
@@ -6811,7 +6814,7 @@ msgstr "Ilekroć permanent pod twoim władaniem zostanie odkryty, dobierz kartę
 #: ../../TSR.rst:2208
 msgid ""
 ":mtgtip:`Slimefoot, the Stowaway<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/e/7e4d684a-2de8-477c-a4d5-d7ae80d62318.jpg?1616283943|"
+"border_crop/front/7/e/7e4d684a-2de8-477c-a4d5-d7ae80d62318.jpg?1619402757|"
 "https://scryfall.com/card/tsr/386/slimefoot-the-stowaway?utm_source=api>`"
 msgstr ""
 
@@ -6830,7 +6833,7 @@ msgstr "|mana_4|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 #: ../../TSR.rst:2214
 msgid ""
 ":mtgtip:`Temur Ascendancy<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/5/4512f8d1-0d81-424a-a6e4-2a38411dc84b.jpg?1616283979|"
+"border_crop/front/4/5/4512f8d1-0d81-424a-a6e4-2a38411dc84b.jpg?1619402790|"
 "https://scryfall.com/card/tsr/387/temur-ascendancy?utm_source=api>`"
 msgstr ""
 
@@ -6849,7 +6852,7 @@ msgstr ""
 #: ../../TSR.rst:2220
 msgid ""
 ":mtgtip:`Tidehollow Sculler<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/1/b1eecfbd-00c6-435c-9d16-70db2d6872a7.jpg?1616284011|"
+"border_crop/front/b/1/b1eecfbd-00c6-435c-9d16-70db2d6872a7.jpg?1619402825|"
 "https://scryfall.com/card/tsr/388/tidehollow-sculler?utm_source=api>`"
 msgstr ""
 
@@ -6872,7 +6875,7 @@ msgstr ""
 #: ../../TSR.rst:2226
 msgid ""
 ":mtgtip:`Trygon Predator<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1616284051|"
+"border_crop/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1619402854|"
 "https://scryfall.com/card/tsr/389/trygon-predator?utm_source=api>`"
 msgstr ""
 
@@ -6887,7 +6890,7 @@ msgstr ""
 #: ../../TSR.rst:2232
 msgid ""
 ":mtgtip:`Chalice of the Void<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1616284134|"
+"border_crop/front/2/5/25674e46-e15b-4fc0-9813-39b4e1c23de4.jpg?1619402887|"
 "https://scryfall.com/card/tsr/390/chalice-of-the-void?utm_source=api>`"
 msgstr ""
 
@@ -6907,7 +6910,7 @@ msgstr ""
 #: ../../TSR.rst:2238
 msgid ""
 ":mtgtip:`Contagion Clasp<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/d/6d1f5bf0-14d8-4b47-8b94-8741d1cc8bd9.jpg?1616284182|"
+"border_crop/front/6/d/6d1f5bf0-14d8-4b47-8b94-8741d1cc8bd9.jpg?1619402915|"
 "https://scryfall.com/card/tsr/391/contagion-clasp?utm_source=api>`"
 msgstr ""
 
@@ -6931,7 +6934,7 @@ msgstr ""
 #: ../../TSR.rst:2246
 msgid ""
 ":mtgtip:`Cranial Plating<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1616284225|"
+"border_crop/front/b/d/bd26d52d-7437-44cf-90b7-b536a5b8c94d.jpg?1619402953|"
 "https://scryfall.com/card/tsr/392/cranial-plating?utm_source=api>`"
 msgstr ""
 
@@ -6953,7 +6956,7 @@ msgstr "Wyposaż |mana_1|"
 #: ../../TSR.rst:2250
 msgid ""
 ":mtgtip:`Crystal Shard<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/d/cd9b7bf9-4087-4235-a21e-33f52ae69b48.jpg?1616284263|"
+"border_crop/front/c/d/cd9b7bf9-4087-4235-a21e-33f52ae69b48.jpg?1619402984|"
 "https://scryfall.com/card/tsr/393/crystal-shard?utm_source=api>`"
 msgstr ""
 
@@ -6968,7 +6971,7 @@ msgstr ""
 #: ../../TSR.rst:2258
 msgid ""
 ":mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/27875258-47af-4105-9ded-56e03dcbd9e7.jpg?1616284300|"
+"border_crop/front/2/7/27875258-47af-4105-9ded-56e03dcbd9e7.jpg?1619403015|"
 "https://scryfall.com/card/tsr/394/everflowing-chalice?utm_source=api>`"
 msgstr ""
 
@@ -6991,7 +6994,7 @@ msgstr "|tap|: Weź |colorless| za każdy znacznik ładunku na tym artefakcie."
 #: ../../TSR.rst:2264
 msgid ""
 ":mtgtip:`Hedron Archive<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/4/a45ca366-2a43-4930-9c16-0ba72c1de3b8.jpg?1616284332|"
+"border_crop/front/a/4/a45ca366-2a43-4930-9c16-0ba72c1de3b8.jpg?1619403056|"
 "https://scryfall.com/card/tsr/395/hedron-archive?utm_source=api>`"
 msgstr ""
 
@@ -7006,7 +7009,7 @@ msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 #: ../../TSR.rst:2270
 msgid ""
 ":mtgtip:`Hollow One<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/1/b167fef0-a3ef-4e76-bd69-51ed7501cba8.jpg?1616284381|https://"
+"front/b/1/b167fef0-a3ef-4e76-bd69-51ed7501cba8.jpg?1619403094|https://"
 "scryfall.com/card/tsr/396/hollow-one?utm_source=api>`"
 msgstr ""
 
@@ -7021,7 +7024,7 @@ msgstr ""
 #: ../../TSR.rst:2274
 msgid ""
 ":mtgtip:`Leveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/4/54b9d8fa-2427-49fb-af69-3b2688dc8a8c.jpg?1616284422|https://"
+"front/5/4/54b9d8fa-2427-49fb-af69-3b2688dc8a8c.jpg?1619403132|https://"
 "scryfall.com/card/tsr/397/leveler?utm_source=api>`"
 msgstr ""
 
@@ -7034,7 +7037,7 @@ msgstr ""
 #: ../../TSR.rst:2280
 msgid ""
 ":mtgtip:`Manifold Key<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/5/15e74de1-1f1f-4886-ba33-644db34df588.jpg?1616284482|"
+"border_crop/front/1/5/15e74de1-1f1f-4886-ba33-644db34df588.jpg?1619403164|"
 "https://scryfall.com/card/tsr/398/manifold-key?utm_source=api>`"
 msgstr ""
 
@@ -7049,7 +7052,7 @@ msgstr "|mana_3|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 #: ../../TSR.rst:2284
 msgid ""
 ":mtgtip:`Panharmonicon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/c/9c88ec62-c3c9-4bb8-99f6-04c7a9d65e45.jpg?1616284524|"
+"border_crop/front/9/c/9c88ec62-c3c9-4bb8-99f6-04c7a9d65e45.jpg?1619403220|"
 "https://scryfall.com/card/tsr/399/panharmonicon?utm_source=api>`"
 msgstr ""
 
@@ -7065,7 +7068,7 @@ msgstr ""
 #: ../../TSR.rst:2290
 msgid ""
 ":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/7/f7272e1b-439b-4283-932d-e1084468c32b.jpg?1616284658|"
+"border_crop/front/f/7/f7272e1b-439b-4283-932d-e1084468c32b.jpg?1619403252|"
 "https://scryfall.com/card/tsr/400/solemn-simulacrum?utm_source=api>`"
 msgstr ""
 
@@ -7085,7 +7088,7 @@ msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 #: ../../TSR.rst:2296
 msgid ""
 ":mtgtip:`Sorcerous Spyglass<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/a/fa420ea4-93ef-44e5-ad13-c186a4451624.jpg?1616284700|"
+"border_crop/front/f/a/fa420ea4-93ef-44e5-ad13-c186a4451624.jpg?1619403288|"
 "https://scryfall.com/card/tsr/401/sorcerous-spyglass?utm_source=api>`"
 msgstr ""
 
@@ -7108,7 +7111,7 @@ msgstr ""
 #: ../../TSR.rst:2304
 msgid ""
 ":mtgtip:`Vanquisher's Banner<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/9/c92b54a7-30c9-4955-8e71-7437528de18c.jpg?1616284758|"
+"border_crop/front/c/9/c92b54a7-30c9-4955-8e71-7437528de18c.jpg?1619403324|"
 "https://scryfall.com/card/tsr/402/vanquishers-banner?utm_source=api>`"
 msgstr ""
 
@@ -7127,14 +7130,14 @@ msgstr "Ilekroć rzucisz czar stwora wybranego typu, dobierz kartę."
 #: ../../TSR.rst:2308
 msgid ""
 ":mtgtip:`Ancient Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/d/cddf6c54-d928-42f7-b2b6-7ee58be58148.jpg?1617647785|https://"
+"front/c/d/cddf6c54-d928-42f7-b2b6-7ee58be58148.jpg?1619403354|https://"
 "scryfall.com/card/tsr/403/ancient-den?utm_source=api>`"
 msgstr ""
 
 #: ../../TSR.rst:2316
 msgid ""
 ":mtgtip:`Arch of Orazca<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/2/f2216c70-91c2-43d5-9156-9b4f7828c821.jpg?1616284871|"
+"border_crop/front/f/2/f2216c70-91c2-43d5-9156-9b4f7828c821.jpg?1619403383|"
 "https://scryfall.com/card/tsr/404/arch-of-orazca?utm_source=api>`"
 msgstr ""
 
@@ -7156,7 +7159,7 @@ msgstr ""
 #: ../../TSR.rst:2322
 msgid ""
 ":mtgtip:`Blighted Woodland<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/5/15a29ec4-ec55-4754-b832-35b39e8b23ae.jpg?1616284918|"
+"border_crop/front/1/5/15a29ec4-ec55-4754-b832-35b39e8b23ae.jpg?1619403414|"
 "https://scryfall.com/card/tsr/405/blighted-woodland?utm_source=api>`"
 msgstr ""
 
@@ -7173,7 +7176,7 @@ msgstr ""
 #: ../../TSR.rst:2330
 msgid ""
 ":mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/d/4/d46ca7cb-4a04-4081-8834-6bc29e0762d2.jpg?1616284959|https://"
+"front/d/4/d46ca7cb-4a04-4081-8834-6bc29e0762d2.jpg?1619403442|https://"
 "scryfall.com/card/tsr/406/bojuka-bog?utm_source=api>`"
 msgstr ""
 
@@ -7196,7 +7199,7 @@ msgstr "|tap|: Weź |mana_b|."
 #: ../../TSR.rst:2336
 msgid ""
 ":mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/2/5284d3ba-0542-48d7-8305-bfb2775c3674.jpg?1616284995|"
+"border_crop/front/5/2/5284d3ba-0542-48d7-8305-bfb2775c3674.jpg?1619403467|"
 "https://scryfall.com/card/tsr/407/field-of-ruin?utm_source=api>`"
 msgstr ""
 
@@ -7213,7 +7216,7 @@ msgstr ""
 #: ../../TSR.rst:2344
 msgid ""
 ":mtgtip:`Mystic Sanctuary<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/1/31f83f35-c4dc-46f0-9109-9d0d0181d9c8.jpg?1616285030|"
+"border_crop/front/3/1/31f83f35-c4dc-46f0-9109-9d0d0181d9c8.jpg?1619403491|"
 "https://scryfall.com/card/tsr/408/mystic-sanctuary?utm_source=api>`"
 msgstr ""
 
@@ -7240,7 +7243,7 @@ msgstr ""
 #: ../../TSR.rst:2352
 msgid ""
 ":mtgtip:`Ramunap Ruins<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/8/f82a7ea8-aa1c-4ff9-b1f7-06452492c788.jpg?1616285070|"
+"border_crop/front/f/8/f82a7ea8-aa1c-4ff9-b1f7-06452492c788.jpg?1619450798|"
 "https://scryfall.com/card/tsr/409/ramunap-ruins?utm_source=api>`"
 msgstr ""
 
@@ -7259,7 +7262,7 @@ msgstr ""
 #: ../../TSR.rst:2355
 msgid ""
 ":mtgtip:`Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/f/bf10c264-c7f6-4ae3-b3ef-ff12bd7b64c0.jpg?1616285151|https://"
+"front/b/f/bf10c264-c7f6-4ae3-b3ef-ff12bd7b64c0.jpg?1619505113|https://"
 "scryfall.com/card/tsr/410/wastes?utm_source=api>`"
 msgstr ""
 

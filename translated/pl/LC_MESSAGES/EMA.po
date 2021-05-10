@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-18 17:09+0200\n"
+"POT-Creation-Date: 2021-05-10 22:34+0200\n"
 "PO-Revision-Date: 2021-04-19 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
@@ -52,9 +52,12 @@ msgstr ""
 "zostanie usunięty ostatnie, poświęć go.)"
 
 #: ../../EMA.rst:13
+#, fuzzy
+#| msgid ""
+#| "When Aven Riftwatcher enters the battlefield or leaves the battlefield, "
+#| "you gain 2 life."
 msgid ""
-"When Aven Riftwatcher enters the battlefield or leaves the battlefield, you "
-"gain 2 life."
+"When Aven Riftwatcher enters or leaves the battlefield, you gain 2 life."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy lub opuści pole bitwy, zyskaj 2 życia."
 
@@ -2141,7 +2144,7 @@ msgstr ""
 #: ../../EMA.rst:716
 msgid ""
 ":mtgtip:`Keldon Marauders<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bf42524c-97e5-40b2-8a6d-d2a1f0a9eb65.jpg?1580014576|"
+"border_crop/front/b/f/bf42524c-97e5-40b2-8a6d-d2a1f0a9eb65.jpg?1618940501|"
 "https://scryfall.com/card/ema/136/keldon-marauders?utm_source=api>`"
 msgstr ""
 
@@ -2156,9 +2159,13 @@ msgstr ""
 "ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../EMA.rst:715
+#, fuzzy
+#| msgid ""
+#| "When Keldon Marauders enters the battlefield or leaves the battlefield, "
+#| "it deals 1 damage to target player or planeswalker."
 msgid ""
-"When Keldon Marauders enters the battlefield or leaves the battlefield, it "
-"deals 1 damage to target player or planeswalker."
+"When Keldon Marauders enters or leaves the battlefield, it deals 1 damage to "
+"target player or planeswalker."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy lub je opuści, zadaje wskazanemu "
 "graczowi lub wędrowcowi 1 obrażenie."
@@ -2804,7 +2811,7 @@ msgstr ""
 #: ../../EMA.rst:934
 msgid ""
 ":mtgtip:`Natural Order<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1618695739|"
+"border_crop/front/b/f/bfe3329c-7faa-4925-b9d2-075a1ab27e80.jpg?1619461603|"
 "https://scryfall.com/card/ema/177/natural-order?utm_source=api>`"
 msgstr ""
 

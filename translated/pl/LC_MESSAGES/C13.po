@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-18 17:09+0200\n"
+"POT-Creation-Date: 2021-05-10 22:34+0200\n"
 "PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
@@ -2620,7 +2620,7 @@ msgstr ""
 #: ../../C13.rst:784
 msgid ""
 ":mtgtip:`Deadwood Treefolk<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/9/69983244-a9c6-4025-91c6-a4742cb1db1e.jpg?1562917088|"
+"border_crop/front/6/9/69983244-a9c6-4025-91c6-a4742cb1db1e.jpg?1618940492|"
 "https://scryfall.com/card/c13/141/deadwood-treefolk?utm_source=api>`"
 msgstr ""
 
@@ -2635,12 +2635,18 @@ msgstr ""
 "początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
 "zostanie usunięty ostatnie, poświęć go.)"
 
-# a52d7ef1d7624b74861d8ebf59f4b0bc
+# 3b20b6f30b9347c99b2ba06ec2dc544c
 #: ../../C13.rst:783
+#, fuzzy
+#| msgid ""
+#| "When Karmic Guide enters the battlefield, return target creature card "
+#| "from your graveyard to the battlefield."
 msgid ""
-"When Deadwood Treefolk enters the battlefield or leaves the battlefield, "
-"return another target creature card from your graveyard to your hand."
+"When Deadwood Treefolk enters or leaves the battlefield, return another "
+"target creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../C13.rst:790
 msgid ""
@@ -2862,8 +2868,8 @@ msgid ""
 "you draw.)"
 msgstr ""
 "Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować. ("
-"Zrób to przed dobraniem.)"
+"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować. "
+"(Zrób to przed dobraniem.)"
 
 #: ../../C13.rst:862
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-18 17:09+0200\n"
+"POT-Creation-Date: 2021-05-10 22:34+0200\n"
 "PO-Revision-Date: 2021-05-06 20:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
@@ -105,7 +105,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Zaffai, Thunder Conductor<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/e/a/ea1ab937-8647-4c83-99d5-6a40dffa4c9b.jpg?"
-"1618611117|https://scryfall.com/card/c21/4/zaffai-thunder-conductor?"
+"1619599035|https://scryfall.com/card/c21/4/zaffai-thunder-conductor?"
 "utm_source=api>`"
 msgstr ""
 
@@ -214,8 +214,8 @@ msgid ""
 "graveyard: Create two tokens that are copies of the exiled card. Activate "
 "only as a sorcery."
 msgstr ""
-"|mana_x|, |tap|, Wygnaj z twojego cmentarza kartę artefaktu o skrócie many X:"
-" Stwórz dwa żetony będące kopią owej wygnanej karty. Aktywuj tylko jako "
+"|mana_x|, |tap|, Wygnaj z twojego cmentarza kartę artefaktu o skrócie many "
+"X: Stwórz dwa żetony będące kopią owej wygnanej karty. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../C21.rst:62
@@ -2597,7 +2597,7 @@ msgstr ""
 #: ../../C21.rst:824
 msgid ""
 ":mtgtip:`Greed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
-"e/1/e149ef68-b3b1-4b7d-a5f4-1656544071f2.jpg?1618251506|https://scryfall.com/"
+"e/1/e149ef68-b3b1-4b7d-a5f4-1656544071f2.jpg?1619017642|https://scryfall.com/"
 "card/c21/145/greed?utm_source=api>`"
 msgstr ""
 
@@ -2963,8 +2963,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's mana value."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury +"
-"X/+0, gdzie X jest skrótem many owego czaru."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
+"+X/+0, gdzie X jest skrótem many owego czaru."
 
 #: ../../C21.rst:950
 msgid ""
@@ -4390,7 +4390,8 @@ msgstr ""
 
 #: ../../C21.rst:1397
 msgid "|tap|: Draw a card. Activate only if you created a token this turn."
-msgstr "|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
+msgstr ""
+"|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
 
 #: ../../C21.rst:1399
 msgid ""
@@ -5200,7 +5201,7 @@ msgstr "|tap|: Weź |mana_b| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 #: ../../C21.rst:1706
 msgid ""
 ":mtgtip:`Lonely Sandbar<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/1/81992bb6-b1c0-4c3f-b745-b700d18dec9d.jpg?1618252803|"
+"border_crop/front/8/1/81992bb6-b1c0-4c3f-b745-b700d18dec9d.jpg?1619384236|"
 "https://scryfall.com/card/c21/298/lonely-sandbar?utm_source=api>`"
 msgstr ""
 
@@ -5472,7 +5473,7 @@ msgstr ""
 #: ../../C21.rst:1826
 msgid ""
 ":mtgtip:`Secluded Steppe<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/9/69b876f8-4f4e-4eaa-904c-fa99f543e319.jpg?1618252991|"
+"border_crop/front/6/9/69b876f8-4f4e-4eaa-904c-fa99f543e319.jpg?1619384268|"
 "https://scryfall.com/card/c21/315/secluded-steppe?utm_source=api>`"
 msgstr ""
 
