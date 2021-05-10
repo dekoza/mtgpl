@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-10 22:34+0200\n"
-"PO-Revision-Date: 2021-04-26 02:23+0000\n"
+"PO-Revision-Date: 2021-05-10 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -3121,15 +3121,12 @@ msgstr ""
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSP.rst:1067
-#, fuzzy
-#| msgid ""
-#| "When Firemaw Kavu leaves the battlefield, it deals 4 damage to target "
-#| "creature."
 msgid ""
 "When Subterranean Shambler enters or leaves the battlefield, it deals 1 "
 "damage to each creature without flying."
 msgstr ""
-"Kiedy ten stwór opuści pole bitwy, zadaje wskazanemu stworowi 4 obrażenia."
+"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, zadaje każdemu stworowi "
+"bez latania po 1 obrażeniu."
 
 #: ../../TSP.rst:1074
 msgid ""

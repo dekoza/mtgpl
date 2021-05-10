@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 17:09+0200\n"
-"PO-Revision-Date: 2021-04-21 18:38+0000\n"
+"PO-Revision-Date: 2021-05-10 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -308,17 +308,12 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../ONS.rst:105
-#, fuzzy
-#| msgid ""
-#| "When Avarax enters the battlefield, you may search your library for a "
-#| "card named Avarax, reveal it, and put it into your hand. If you do, "
-#| "shuffle your library."
 msgid ""
 "When Daru Cavalier enters the battlefield, you may search your library for a "
 "card named Daru Cavalier, reveal it, put it into your hand, then shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
+"kartę o nazwie Daru Cavalier, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
 #: ../../ONS.rst:112
@@ -2558,11 +2553,11 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:917
-#, fuzzy
-#| msgid "|tap|: Destroy target creature. It can't be regenerated."
 msgid ""
 "Destroy target creature with mana value 3 or less. It can't be regenerated."
-msgstr "|tap|: Zniszcz wskazanego stwora. Nie może regenerować."
+msgstr ""
+"Zniszcz wskazanego stwora o skrócie many 3 lub mniejszym. Nie może "
+"regenerować."
 
 #: ../../ONS.rst:922
 msgid ""

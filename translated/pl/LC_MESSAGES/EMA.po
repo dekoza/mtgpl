@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-10 22:34+0200\n"
-"PO-Revision-Date: 2021-04-19 08:43+0000\n"
+"PO-Revision-Date: 2021-05-10 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ema/pl/>\n"
 "Language: pl\n"
@@ -52,14 +52,9 @@ msgstr ""
 "zostanie usunięty ostatnie, poświęć go.)"
 
 #: ../../EMA.rst:13
-#, fuzzy
-#| msgid ""
-#| "When Aven Riftwatcher enters the battlefield or leaves the battlefield, "
-#| "you gain 2 life."
 msgid ""
 "When Aven Riftwatcher enters or leaves the battlefield, you gain 2 life."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub opuści pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy lub je opuści, zyskaj 2 życia."
 
 #: ../../EMA.rst:18
 msgid ""
@@ -2159,10 +2154,6 @@ msgstr ""
 "ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../EMA.rst:715
-#, fuzzy
-#| msgid ""
-#| "When Keldon Marauders enters the battlefield or leaves the battlefield, "
-#| "it deals 1 damage to target player or planeswalker."
 msgid ""
 "When Keldon Marauders enters or leaves the battlefield, it deals 1 damage to "
 "target player or planeswalker."

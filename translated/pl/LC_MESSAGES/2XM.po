@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-10 22:34+0200\n"
-"PO-Revision-Date: 2021-05-06 20:29+0000\n"
+"PO-Revision-Date: 2021-05-10 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -3814,11 +3814,6 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1175
-#, fuzzy
-#| msgid ""
-#| "When Sphinx Summoner enters the battlefield, you may search your library "
-#| "for an artifact creature card, reveal it, put it into your hand. then "
-#| "shuffle."
 msgid ""
 "When Sphinx Summoner enters the battlefield, you may search your library for "
 "an artifact creature card, reveal it, put it into your hand, then shuffle."
@@ -5043,16 +5038,12 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:1581
-#, fuzzy
-#| msgid ""
-#| "When Sundering Titan enters the battlefield or leaves the battlefield, "
-#| "choose a land of each basic land type, then destroy those lands."
 msgid ""
 "When Sundering Titan enters or leaves the battlefield, choose a land of each "
 "basic land type, then destroy those lands."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po lądzie "
-"każdego bazowego typu, po czym zniszcz owe lądy."
+"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po jednym "
+"lądzie każdego bazowego typu, po czym zniszcz owe lądy."
 
 #: ../../2XM.rst:1590
 msgid ""
