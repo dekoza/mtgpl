@@ -1351,7 +1351,7 @@
    Hurricane deals X damage to each creature with flying and each player.
 
 
-:mtgtip:`Johtull Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1562913630|https://scryfall.com/card/ice/250/johtull-wurm?utm_source=api>`
+:mtgtip:`Johtull Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1619598910|https://scryfall.com/card/ice/250/johtull-wurm?utm_source=api>`
    Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
 
 

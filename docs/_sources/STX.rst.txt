@@ -611,7 +611,7 @@
    Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.
 
 
-:mtgtip:`Pigment Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d285a7a1-bb7e-4a78-a49f-c2add62b829a.jpg?1617406896|https://scryfall.com/card/stx/111/pigment-storm?utm_source=api>`
+:mtgtip:`Pigment Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d285a7a1-bb7e-4a78-a49f-c2add62b829a.jpg?1620509009|https://scryfall.com/card/stx/111/pigment-storm?utm_source=api>`
    Pigment Storm deals 5 damage to target creature. Excess damage is dealt to that creature's controller instead.
 
 
@@ -815,13 +815,13 @@
    Choose target creature you control. Each other creature you control becomes a copy of it until end of turn, except those creatures aren't legendary if the chosen creature is legendary.
 
 
-:mtgtip:`Blex, Vexing Pest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1617583842|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
+:mtgtip:`Blex, Vexing Pest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1619447391|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
    Other Pests, Bats, Insects, Snakes, and Spiders you control get +1/+1.
 
    When Blex, Vexing Pest dies, you gain 4 life.
 
 
-:mtgtip:`Search for Blex<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1617583842|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
+:mtgtip:`Search for Blex<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1619447391|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`
    Look at the top five cards of your library. You may put any number of them into your hand and the rest into your graveyard. You lose 3 life for each card you put into your hand this way.
 
 
@@ -995,7 +995,7 @@
    When Biomathematician enters the battlefield, create a 0/0 green and blue Fractal creature token. Put a +1/+1 counter on each Fractal you control.
 
 
-:mtgtip:`Blade Historian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a46d64ec-aca4-428e-bce6-66cd755c8cc3.jpg?1617071363|https://scryfall.com/card/stx/165/blade-historian?utm_source=api>`
+:mtgtip:`Blade Historian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a46d64ec-aca4-428e-bce6-66cd755c8cc3.jpg?1619800497|https://scryfall.com/card/stx/165/blade-historian?utm_source=api>`
    Attacking creatures you control have double strike.
 
 
@@ -1129,10 +1129,10 @@
    Exile Harness Infinity.
 
 
-:mtgtip:`Hofri Ghostforge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd8deecf-eded-418b-ac4c-5c3e8f54e86d.jpg?1617071946|https://scryfall.com/card/stx/192/hofri-ghostforge?utm_source=api>`
+:mtgtip:`Hofri Ghostforge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd8deecf-eded-418b-ac4c-5c3e8f54e86d.jpg?1618917138|https://scryfall.com/card/stx/192/hofri-ghostforge?utm_source=api>`
    Spirits you control get +1/+1 and have trample and haste.
 
-   Whenever another nontoken creature you control dies, exile it. If you do, create a token that's a copy of that creature, except it's a Spirit in addition to its other types and it has "When this creature leaves the battlefield, return the exiled card to your graveyard."
+   Whenever another nontoken creature you control dies, exile it. If you do, create a token that's a copy of that creature, except it's a Spirit in addition to its other types and it has "When this creature leaves the battlefield, return the exiled card to its owner's graveyard."
 
 
 :mtgtip:`Humiliate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc3ae8cb-fbdb-45a8-83c2-cbf4aff01f90.jpg?1617317580|https://scryfall.com/card/stx/193/humiliate?utm_source=api>`
@@ -1429,7 +1429,7 @@
    When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
 
 
-:mtgtip:`Tend the Pests<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f43ed93-008d-44db-8204-ef2cc3b7cf8a.jpg?1617408685|https://scryfall.com/card/stx/242/tend-the-pests?utm_source=api>`
+:mtgtip:`Tend the Pests<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f43ed93-008d-44db-8204-ef2cc3b7cf8a.jpg?1619439044|https://scryfall.com/card/stx/242/tend-the-pests?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Create X 1/1 black and green Pest creature tokens with "When this creature dies, you gain 1 life," where X is the sacrificed creature's power.

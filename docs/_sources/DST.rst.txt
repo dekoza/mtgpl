@@ -794,7 +794,7 @@
 
 
 :mtgtip:`Sundering Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e4bd552-e629-41a4-868f-d656187317b7.jpg?1562636418|https://scryfall.com/card/dst/146/sundering-titan?utm_source=api>`
-   When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+   When Sundering Titan enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
 
 
 :mtgtip:`Surestrike Trident<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfcb621d-5831-4b7c-b3e1-c321a6e10392.jpg?1562639704|https://scryfall.com/card/dst/147/surestrike-trident?utm_source=api>`

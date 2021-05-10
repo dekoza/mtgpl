@@ -445,7 +445,7 @@
    Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
-:mtgtip:`Disembowel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1edb79d-0031-4dc6-8881-f6d1fe4acba2.jpg?1598914806|https://scryfall.com/card/rav/85/disembowel?utm_source=api>`
+:mtgtip:`Disembowel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1edb79d-0031-4dc6-8881-f6d1fe4acba2.jpg?1619741469|https://scryfall.com/card/rav/85/disembowel?utm_source=api>`
    Destroy target creature with mana value X.
 
 
@@ -573,7 +573,7 @@
    |mana_1|, Sacrifice a creature: Look at the top two cards of target opponent's library, then exile one of them.
 
 
-:mtgtip:`Undercity Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1598915272|https://scryfall.com/card/rav/110/undercity-shade?utm_source=api>`
+:mtgtip:`Undercity Shade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1619741479|https://scryfall.com/card/rav/110/undercity-shade?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
    |mana_b|: Undercity Shade gets +1/+1 until end of turn.

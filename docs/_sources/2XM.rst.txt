@@ -1169,10 +1169,10 @@
    When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.
 
 
-:mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad955c4d-248b-4468-a975-abad97cf84a4.jpg?1599708433|https://scryfall.com/card/2xm/220/sphinx-summoner?utm_source=api>`
+:mtgtip:`Sphinx Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad955c4d-248b-4468-a975-abad97cf84a4.jpg?1619828277|https://scryfall.com/card/2xm/220/sphinx-summoner?utm_source=api>`
    Flying
 
-   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand. then shuffle.
+   When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand, then shuffle.
 
 
 :mtgtip:`Swiftblade Vindicator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2a89a8f-b3a7-4c38-80fb-b5484ddbf8ec.jpg?1599708452|https://scryfall.com/card/2xm/221/swiftblade-vindicator?utm_source=api>`
@@ -1577,8 +1577,8 @@
    |tap|, Tap an untapped creature you control: Add one mana of any color.
 
 
-:mtgtip:`Sundering Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2ebb5d3-72b1-411d-8c90-83dac5b37898.jpg?1599709973|https://scryfall.com/card/2xm/292/sundering-titan?utm_source=api>`
-   When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+:mtgtip:`Sundering Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2ebb5d3-72b1-411d-8c90-83dac5b37898.jpg?1618940470|https://scryfall.com/card/2xm/292/sundering-titan?utm_source=api>`
+   When Sundering Titan enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
 
 
 :mtgtip:`Sunforger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3945c488-6966-4c7d-a0b7-487a2c1837aa.jpg?1604303624|https://scryfall.com/card/2xm/293/sunforger?utm_source=api>`

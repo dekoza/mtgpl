@@ -2959,7 +2959,7 @@
    Cascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)
 
 
-:mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58e1033e-3d7e-451a-8e0f-1ae7f3de925a.jpg?1612231051|https://scryfall.com/card/cmr/527/marath-will-of-the-wild?utm_source=api>`
+:mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58e1033e-3d7e-451a-8e0f-1ae7f3de925a.jpg?1619394307|https://scryfall.com/card/cmr/527/marath-will-of-the-wild?utm_source=api>`
    Marath, Will of the Wild enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
 
    |mana_x|, Remove X +1/+1 counters from Marath: Choose one —
