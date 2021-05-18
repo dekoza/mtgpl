@@ -30,6 +30,10 @@ msgctxt "MainNav/EventRewards/2U"
 msgid "Cards will be at least 2 uncommons"
 msgstr "2 niepospolite lub lepsze"
 
+msgctxt "MainNav/EventRewards/Adventurous_Impulse"
+msgid "Adventurous Impulse Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Basic_Land"
 msgid "Basic Land"
 msgstr "Bazowy ląd"
@@ -144,6 +148,10 @@ msgctxt "MainNav/EventRewards/Claim_Prizes"
 msgid "Claim Prizes"
 msgstr "Odbierz nagrody"
 
+msgctxt "MainNav/EventRewards/Claim_the_Firstborn"
+msgid "Claim the Firstborn Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/CoinAndKey"
 msgid "{number1} Gold & Unlock All Events"
 msgstr ""
@@ -224,12 +232,20 @@ msgctxt "MainNav/EventRewards/CubeSealed4Wins"
 msgid "Cards will be at least 2 rares"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Cultivate"
+msgid "Cultivate Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Daily_Wins_Title"
 msgid "Daily Win Rewards"
 msgstr "Codzienne nagrody"
 
 msgctxt "MainNav/EventRewards/DeckTomorrow_Title"
 msgid "Earn a new deck tomorrow!"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Defiant_Strike"
+msgid "Defiant Strike Card Style"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Disabled_Win_Rewards"
@@ -246,6 +262,10 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Disabled_Win_Rewards_Alt3"
 msgid "Standard or Events"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Divine_Gambit"
+msgid "Divine Gambit Card Style"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/DominariaCompetitiveDraftPrize_0Wins"
@@ -300,6 +320,21 @@ msgctxt "MainNav/EventRewards/DoomBlade"
 msgid "Doom Blade"
 msgstr ""
 
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Gold_And_XP_Reward"
+#| msgid ""
+#| "{number1} Gold\n"
+#| "& {number2} Mastery XP"
+msgctxt "MainNav/EventRewards/DraftToken_and_Packs"
+msgid "{number1} Player Draft Token & {number2} Packs"
+msgstr ""
+"{number1} złota\n"
+"& {number2} XP mistrzostwa"
+
+msgctxt "MainNav/EventRewards/DraftTokens_and_Packs"
+msgid "{number1} Player Draft Tokens & {number2} Packs"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Early_ELD_Cards"
 msgid ""
 "These cards are only legal in Standard 2020 events until September 26, then "
@@ -313,6 +348,10 @@ msgstr "Zyskuj wygrane w Standardzie, trybach rankingu lub wydarzeniach."
 msgctxt "MainNav/EventRewards/Earning_Win_Rewards_Alt1"
 msgid "Earn wins with Standard decks or in Historic modes."
 msgstr "Zyskuj wygrane Standardowymi taliami lub w trybach Historycznych."
+
+msgctxt "MainNav/EventRewards/Eliminate"
+msgid "Eliminate Card Style"
+msgstr ""
 
 msgctxt "MainNav/EventRewards/Emote_Sticker_KHM_ValkyrieDark"
 msgid "Reaper Shrug Emote"
@@ -485,6 +524,13 @@ msgctxt "MainNav/EventRewards/NoReward"
 msgid "No reward"
 msgstr ""
 
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Pack_And_Skin"
+#| msgid "1 Pack & 1 Card Style"
+msgctxt "MainNav/EventRewards/Opt"
+msgid "Opt Card Style"
+msgstr "1 pakiet i 1 styl karty"
+
 msgctxt "MainNav/EventRewards/Pack"
 msgid "1 Pack"
 msgstr "1 pakiet"
@@ -545,6 +591,10 @@ msgctxt "MainNav/EventRewards/Regrowth"
 msgid "Regrowth"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Revitalize"
+msgid "Revitalize Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Reward"
 msgid "Reward:"
 msgstr "Nagroda:"
@@ -560,6 +610,13 @@ msgstr "Zwyciężaj w Standardzie, trybach z rankingiem lub wydarzeniach!"
 msgctxt "MainNav/EventRewards/Reward_Win_Bonus"
 msgid "Daily Win Rewards"
 msgstr "Codzienne nagrody"
+
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Pack_And_Skin"
+#| msgid "1 Pack & 1 Card Style"
+msgctxt "MainNav/EventRewards/Shock"
+msgid "Shock Card Style"
+msgstr "1 pakiet i 1 styl karty"
 
 msgctxt "MainNav/EventRewards/Skin"
 msgid "1 Card Style"
@@ -605,6 +662,10 @@ msgctxt "MainNav/EventRewards/Start"
 msgid "Start"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Strategic_Planning"
+msgid "Strategic Planning Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/TextEmote_DawnAdventure"
 msgid "Dawn Adventure Text Emote"
 msgstr ""
@@ -631,6 +692,14 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/THB_Pack_Single"
 msgid "1 Pack of <i>Theros Beyond Death</i>"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Thrill_of_Possibility"
+msgid "Thrill of Possibility Card Style"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Village_Rites"
+msgid "Village Rites Card Style"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/WAR_Lore_Angrath"
