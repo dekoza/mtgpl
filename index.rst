@@ -36,8 +36,8 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Standard: :mtgexp:`AFR` :doc:`Dungeons & Dragons: Adventures in the Forgotten Realms<AFR>` (Premiera: 2021-07-23)
 * Modern: :mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` (Premiera: 2021-06-11)
+* Standard: :mtgexp:`AFR` :doc:`Dungeons & Dragons: Adventures in the Forgotten Realms<AFR>` (Premiera: 2021-07-23)
 
 Standard
 --------

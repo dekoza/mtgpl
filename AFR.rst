@@ -9,6 +9,16 @@
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
 
 
+:mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621543504|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`
+   Whenever a creature you control dies, put a loyalty counter on Lolth, Spider Queen.
+
+   0: You draw a card and you lose 1 life.
+
+   −3: Create two 2/1 black Spider creature tokens with menace and reach.
+
+   −8: You get an emblem with "Whenever an opponent is dealt combat damage by one or more creatures you control, if that player lost less than 8 life this turn, they lose life equal to the difference."
+
+
 :mtgtip:`Power Word Kill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.jpg?1620344800|https://scryfall.com/card/afr/114/power-word-kill?utm_source=api>`
    Destroy target non-Angel, non-Demon, non-Devil, non-Dragon creature.
 
@@ -27,7 +37,21 @@
    Whenever another creature enters the battlefield under your control, you gain 1 life.
 
 
-:mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1620383489|https://scryfall.com/card/afr/236/tiamat?utm_source=api>`
+:mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1621544593|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`
+   Each creature you control gets +2/+0 for each Equipment attached to it.
+
+   You may pay |mana_0| rather than pay the equip cost of the first equip ability you activate each turn.
+
+
+:mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1621565811|https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`
+   Double strike
+
+   When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary 4/1 green Cat creature token with trample.
+
+   Whenever a creature dies, if it had power greater than Drizzt's power, put a number of +1/+1 counters on Drizzt equal to the difference.
+
+
+:mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1621233632|https://scryfall.com/card/afr/235/tiamat?utm_source=api>`
    Flying
 
    When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle.
@@ -41,7 +65,7 @@
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166fc328-20d1-4158-bcb6-3cebcf788ef5.jpg?1620344378|https://scryfall.com/card/afr/273/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166fc328-20d1-4158-bcb6-3cebcf788ef5.jpg?1621282500|https://scryfall.com/card/afr/273/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
