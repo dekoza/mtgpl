@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 19:09+0200\n"
+"POT-Creation-Date: 2021-05-23 16:38+0200\n"
 "PO-Revision-Date: 2021-04-18 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ptk/pl/>\n"
@@ -23,7 +23,10 @@ msgid ":mtgexp:`PTK` Portal Three Kingdoms"
 msgstr ""
 
 #: ../../PTK.rst:10
-msgid ":mtgtip:`Alert Shu Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c94a92a9-060e-42d3-a8d1-49425defc08a.jpg?1562257537|https://scryfall.com/card/ptk/1/alert-shu-infantry?utm_source=api>`"
+msgid ""
+":mtgtip:`Alert Shu Infantry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/9/c94a92a9-060e-42d3-a8d1-49425defc08a.jpg?1562257537|"
+"https://scryfall.com/card/ptk/1/alert-shu-infantry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:9
@@ -31,15 +34,17 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../PTK.rst:16
-msgid ":mtgtip:`Eightfold Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc8c377a-82c4-46ee-94c2-b970160a3205.jpg?1562257975|https://scryfall.com/card/ptk/2/eightfold-maze?utm_source=api>`"
+msgid ""
+":mtgtip:`Eightfold Maze<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/c/cc8c377a-82c4-46ee-94c2-b970160a3205.jpg?1562257975|"
+"https://scryfall.com/card/ptk/2/eightfold-maze?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:13
-#: ../../PTK.rst:75
-#: ../../PTK.rst:137
-#: ../../PTK.rst:173
+#: ../../PTK.rst:13 ../../PTK.rst:75 ../../PTK.rst:137 ../../PTK.rst:173
 #: ../../PTK.rst:585
-msgid "Cast this spell only during the declare attackers step and only if you've been attacked this step."
+msgid ""
+"Cast this spell only during the declare attackers step and only if you've "
+"been attacked this step."
 msgstr ""
 
 #: ../../PTK.rst:15
@@ -47,7 +52,10 @@ msgid "Destroy target attacking creature."
 msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../PTK.rst:20
-msgid ":mtgtip:`Empty City Ruse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d37c84c-80e5-453d-bd2e-4f77ff864c89.jpg?1562256087|https://scryfall.com/card/ptk/3/empty-city-ruse?utm_source=api>`"
+msgid ""
+":mtgtip:`Empty City Ruse<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/d/4d37c84c-80e5-453d-bd2e-4f77ff864c89.jpg?1562256087|"
+"https://scryfall.com/card/ptk/3/empty-city-ruse?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:19
@@ -55,7 +63,10 @@ msgid "Target opponent skips all combat phases of their next turn."
 msgstr ""
 
 #: ../../PTK.rst:24
-msgid ":mtgtip:`False Defeat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5ca71ce3-8633-428a-8d9e-9b807b77a8e2.jpg?1562256544|https://scryfall.com/card/ptk/4/false-defeat?utm_source=api>`"
+msgid ""
+":mtgtip:`False Defeat<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/c/5ca71ce3-8633-428a-8d9e-9b807b77a8e2.jpg?1562256544|"
+"https://scryfall.com/card/ptk/4/false-defeat?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:23
@@ -63,7 +74,10 @@ msgid "Return target creature card from your graveyard to the battlefield."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../PTK.rst:28
-msgid ":mtgtip:`Flanking Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a219a031-2466-4850-b646-79a09e30cf18.jpg?1562257506|https://scryfall.com/card/ptk/5/flanking-troops?utm_source=api>`"
+msgid ""
+":mtgtip:`Flanking Troops<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/2/a219a031-2466-4850-b646-79a09e30cf18.jpg?1562257506|"
+"https://scryfall.com/card/ptk/5/flanking-troops?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:27
@@ -71,42 +85,36 @@ msgid "Whenever Flanking Troops attacks, you may tap target creature."
 msgstr ""
 
 #: ../../PTK.rst:34
-msgid ":mtgtip:`Guan Yu, Sainted Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/1575fadf-cd5c-4b4f-8965-c006e571334b.jpg?1562255842|https://scryfall.com/card/ptk/6/guan-yu-sainted-warrior?utm_source=api>`"
+msgid ""
+":mtgtip:`Guan Yu, Sainted Warrior<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/1/5/1575fadf-cd5c-4b4f-8965-c006e571334b.jpg?"
+"1562255842|https://scryfall.com/card/ptk/6/guan-yu-sainted-warrior?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:31
-#: ../../PTK.rst:53
-#: ../../PTK.rst:89
-#: ../../PTK.rst:97
-#: ../../PTK.rst:147
-#: ../../PTK.rst:203
-#: ../../PTK.rst:211
-#: ../../PTK.rst:241
-#: ../../PTK.rst:255
-#: ../../PTK.rst:263
-#: ../../PTK.rst:271
-#: ../../PTK.rst:301
-#: ../../PTK.rst:375
-#: ../../PTK.rst:383
-#: ../../PTK.rst:389
-#: ../../PTK.rst:393
-#: ../../PTK.rst:397
-#: ../../PTK.rst:411
-#: ../../PTK.rst:433
-#: ../../PTK.rst:497
-#: ../../PTK.rst:535
-#: ../../PTK.rst:541
-#: ../../PTK.rst:551
-#: ../../PTK.rst:599
-msgid "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)"
+#: ../../PTK.rst:31 ../../PTK.rst:53 ../../PTK.rst:89 ../../PTK.rst:97
+#: ../../PTK.rst:147 ../../PTK.rst:203 ../../PTK.rst:211 ../../PTK.rst:241
+#: ../../PTK.rst:255 ../../PTK.rst:263 ../../PTK.rst:271 ../../PTK.rst:301
+#: ../../PTK.rst:375 ../../PTK.rst:383 ../../PTK.rst:389 ../../PTK.rst:393
+#: ../../PTK.rst:397 ../../PTK.rst:411 ../../PTK.rst:433 ../../PTK.rst:497
+#: ../../PTK.rst:535 ../../PTK.rst:541 ../../PTK.rst:551 ../../PTK.rst:599
+msgid ""
+"Horsemanship (This creature can't be blocked except by creatures with "
+"horsemanship.)"
 msgstr ""
 
 #: ../../PTK.rst:33
-msgid "When Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library."
+msgid ""
+"When Guan Yu, Sainted Warrior is put into your graveyard from the "
+"battlefield, you may shuffle Guan Yu into your library."
 msgstr ""
 
 #: ../../PTK.rst:38
-msgid ":mtgtip:`Guan Yu's 1,000-Li March<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?1562257048|https://scryfall.com/card/ptk/7/guan-yus-1000-li-march?utm_source=api>`"
+msgid ""
+":mtgtip:`Guan Yu's 1,000-Li March<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?"
+"1562257048|https://scryfall.com/card/ptk/7/guan-yus-1000-li-march?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:37
@@ -114,7 +122,11 @@ msgid "Destroy all tapped creatures."
 msgstr ""
 
 #: ../../PTK.rst:42
-msgid ":mtgtip:`Huang Zhong, Shu General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c079037c-f4cf-423f-ad15-ee57136d6148.jpg?1562257528|https://scryfall.com/card/ptk/8/huang-zhong-shu-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Huang Zhong, Shu General<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/c/0/c079037c-f4cf-423f-ad15-ee57136d6148.jpg?"
+"1562257528|https://scryfall.com/card/ptk/8/huang-zhong-shu-general?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:41
@@ -122,7 +134,11 @@ msgid "Huang Zhong, Shu General can't be blocked by more than one creature."
 msgstr ""
 
 #: ../../PTK.rst:46
-msgid ":mtgtip:`Kongming, \"Sleeping Dragon\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4ae0a05-1870-4f4a-b8a2-bfb5381acacb.jpg?1562258004|https://scryfall.com/card/ptk/9/kongming-sleeping-dragon?utm_source=api>`"
+msgid ""
+":mtgtip:`Kongming, \"Sleeping Dragon\"<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/f/4/f4ae0a05-1870-4f4a-b8a2-bfb5381acacb.jpg?"
+"1562258004|https://scryfall.com/card/ptk/9/kongming-sleeping-dragon?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:45
@@ -130,31 +146,51 @@ msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../PTK.rst:50
-msgid ":mtgtip:`Kongming's Contraptions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6729eb0b-5655-4191-af14-4f7e4a8dded7.jpg?1562256565|https://scryfall.com/card/ptk/10/kongmings-contraptions?utm_source=api>`"
+msgid ""
+":mtgtip:`Kongming's Contraptions<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/7/6729eb0b-5655-4191-af14-4f7e4a8dded7.jpg?1562256565|"
+"https://scryfall.com/card/ptk/10/kongmings-contraptions?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:49
-msgid "|tap|: Kongming's Contraptions deals 2 damage to target attacking creature. Activate this ability only during the declare attackers step and only if you've been attacked this step."
+msgid ""
+"|tap|: Kongming's Contraptions deals 2 damage to target attacking creature. "
+"Activate this ability only during the declare attackers step and only if "
+"you've been attacked this step."
 msgstr ""
 
 #: ../../PTK.rst:56
-msgid ":mtgtip:`Liu Bei, Lord of Shu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522|https://scryfall.com/card/ptk/11/liu-bei-lord-of-shu?utm_source=api>`"
+msgid ""
+":mtgtip:`Liu Bei, Lord of Shu<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522|"
+"https://scryfall.com/card/ptk/11/liu-bei-lord-of-shu?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:55
-msgid "Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior."
+msgid ""
+"Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named "
+"Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior."
 msgstr ""
 
 #: ../../PTK.rst:60
-msgid ":mtgtip:`Loyal Retainers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c37964-1c0d-40e6-9947-8be04fe14427.jpg?1562257509|https://scryfall.com/card/ptk/12/loyal-retainers?utm_source=api>`"
+msgid ""
+":mtgtip:`Loyal Retainers<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/2/a2c37964-1c0d-40e6-9947-8be04fe14427.jpg?1562257509|"
+"https://scryfall.com/card/ptk/12/loyal-retainers?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:59
-msgid "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"Sacrifice Loyal Retainers: Return target legendary creature card from your "
+"graveyard to the battlefield. Activate this ability only during your turn, "
+"before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:64
-msgid ":mtgtip:`Misfortune's Gain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80abd7c1-8f7a-4279-b76f-251a02624345.jpg?1562257029|https://scryfall.com/card/ptk/13/misfortunes-gain?utm_source=api>`"
+msgid ""
+":mtgtip:`Misfortune's Gain<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/0/80abd7c1-8f7a-4279-b76f-251a02624345.jpg?1562257029|"
+"https://scryfall.com/card/ptk/13/misfortunes-gain?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:63
@@ -162,15 +198,24 @@ msgid "Destroy target creature. Its owner gains 4 life."
 msgstr ""
 
 #: ../../PTK.rst:68
-msgid ":mtgtip:`Pang Tong, \"Young Phoenix\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f484d47a-fb1d-4746-8f1d-dd9d24e67c1a.jpg?1562258002|https://scryfall.com/card/ptk/14/pang-tong-young-phoenix?utm_source=api>`"
+msgid ""
+":mtgtip:`Pang Tong, \"Young Phoenix\"<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/f/4/f484d47a-fb1d-4746-8f1d-dd9d24e67c1a.jpg?"
+"1562258002|https://scryfall.com/card/ptk/14/pang-tong-young-phoenix?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:67
-msgid "|tap|: Target creature gets +0/+2 until end of turn. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Target creature gets +0/+2 until end of turn. Activate this ability "
+"only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:72
-msgid ":mtgtip:`Peach Garden Oath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41bfd51a-0aca-4686-a9c5-11288f409a22.jpg?1562256074|https://scryfall.com/card/ptk/15/peach-garden-oath?utm_source=api>`"
+msgid ""
+":mtgtip:`Peach Garden Oath<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/1/41bfd51a-0aca-4686-a9c5-11288f409a22.jpg?1562256074|"
+"https://scryfall.com/card/ptk/15/peach-garden-oath?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:71
@@ -178,7 +223,10 @@ msgid "You gain 2 life for each creature you control."
 msgstr "Zyskaj po 2 życia za każdego stwora pod twoim władaniem."
 
 #: ../../PTK.rst:78
-msgid ":mtgtip:`Rally the Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04ee74d6-bd06-48e5-89de-f926e0c9413f.jpg?1562255820|https://scryfall.com/card/ptk/16/rally-the-troops?utm_source=api>`"
+msgid ""
+":mtgtip:`Rally the Troops<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/4/04ee74d6-bd06-48e5-89de-f926e0c9413f.jpg?1562255820|"
+"https://scryfall.com/card/ptk/16/rally-the-troops?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:77
@@ -186,7 +234,10 @@ msgid "Untap all creatures you control."
 msgstr ""
 
 #: ../../PTK.rst:82
-msgid ":mtgtip:`Ravages of War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837|https://scryfall.com/card/ptk/17/ravages-of-war?utm_source=api>`"
+msgid ""
+":mtgtip:`Ravages of War<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837|"
+"https://scryfall.com/card/ptk/17/ravages-of-war?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:81
@@ -194,19 +245,30 @@ msgid "Destroy all lands."
 msgstr "Zniszcz wszystkie lądy."
 
 #: ../../PTK.rst:86
-msgid ":mtgtip:`Riding Red Hare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0504a24-4b92-471a-8da4-02ec57eb43be.jpg?1562257527|https://scryfall.com/card/ptk/18/riding-red-hare?utm_source=api>`"
+msgid ""
+":mtgtip:`Riding Red Hare<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/0/c0504a24-4b92-471a-8da4-02ec57eb43be.jpg?1562257527|"
+"https://scryfall.com/card/ptk/18/riding-red-hare?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:85
-msgid "Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.)"
+msgid ""
+"Target creature gets +3/+3 and gains horsemanship until end of turn. (It "
+"can't be blocked except by creatures with horsemanship.)"
 msgstr ""
 
 #: ../../PTK.rst:90
-msgid ":mtgtip:`Shu Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0433bee7-406d-4dd3-8d1b-dfd6cb64d038.jpg?1562255817|https://scryfall.com/card/ptk/19/shu-cavalry?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/0/4/0433bee7-406d-4dd3-8d1b-dfd6cb64d038.jpg?1562255817|https://"
+"scryfall.com/card/ptk/19/shu-cavalry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:94
-msgid ":mtgtip:`Shu Defender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee57a9ab-c385-4a51-aff7-6a654f5d7611.jpg?1562258001|https://scryfall.com/card/ptk/20/shu-defender?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Defender<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/e/ee57a9ab-c385-4a51-aff7-6a654f5d7611.jpg?1562258001|"
+"https://scryfall.com/card/ptk/20/shu-defender?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:93
@@ -214,36 +276,57 @@ msgid "Whenever Shu Defender blocks, it gets +0/+2 until end of turn."
 msgstr ""
 
 #: ../../PTK.rst:98
-msgid ":mtgtip:`Shu Elite Companions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11ac63f6-cd61-4334-902a-777410311b2d.jpg?1562255836|https://scryfall.com/card/ptk/21/shu-elite-companions?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Elite Companions<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/1/11ac63f6-cd61-4334-902a-777410311b2d.jpg?1562255836|"
+"https://scryfall.com/card/ptk/21/shu-elite-companions?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:100
-msgid ":mtgtip:`Shu Elite Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36bcd751-1142-4e72-9d87-7a25c74c038b.jpg?1562256067|https://scryfall.com/card/ptk/22/shu-elite-infantry?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Elite Infantry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/6/36bcd751-1142-4e72-9d87-7a25c74c038b.jpg?1562256067|"
+"https://scryfall.com/card/ptk/22/shu-elite-infantry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:106
-msgid ":mtgtip:`Shu Farmer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc6d6524-d8bd-4eb9-9222-747443492b8c.jpg?1562258014|https://scryfall.com/card/ptk/23/shu-farmer?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Farmer<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/c/fc6d6524-d8bd-4eb9-9222-747443492b8c.jpg?1562258014|https://"
+"scryfall.com/card/ptk/23/shu-farmer?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:105
-msgid "|tap|: You gain 1 life. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: You gain 1 life. Activate this ability only during your turn, before "
+"attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:108
-msgid ":mtgtip:`Shu Foot Soldiers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd4268d5-f27b-44a5-91f6-6c90521825fd.jpg?1562257977|https://scryfall.com/card/ptk/24/shu-foot-soldiers?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Foot Soldiers<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/d/cd4268d5-f27b-44a5-91f6-6c90521825fd.jpg?1562257977|"
+"https://scryfall.com/card/ptk/24/shu-foot-soldiers?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:114
-msgid ":mtgtip:`Shu General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538|https://scryfall.com/card/ptk/25/shu-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu General<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538|https://"
+"scryfall.com/card/ptk/25/shu-general?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:113
-#: ../../PTK.rst:143
-msgid "Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)"
+#: ../../PTK.rst:113 ../../PTK.rst:143
+msgid ""
+"Vigilance; horsemanship (This creature can't be blocked except by creatures "
+"with horsemanship.)"
 msgstr ""
 
 #: ../../PTK.rst:118
-msgid ":mtgtip:`Shu Grain Caravan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bf26eb7-8a31-4022-87bb-67394653f06a.jpg?1562257025|https://scryfall.com/card/ptk/26/shu-grain-caravan?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Grain Caravan<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/b/7bf26eb7-8a31-4022-87bb-67394653f06a.jpg?1562257025|"
+"https://scryfall.com/card/ptk/26/shu-grain-caravan?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:117
@@ -251,7 +334,10 @@ msgid "When Shu Grain Caravan enters the battlefield, you gain 2 life."
 msgstr ""
 
 #: ../../PTK.rst:122
-msgid ":mtgtip:`Shu Soldier-Farmers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edb576e9-98ba-4bd1-9d1e-e316acf2e7f5.jpg?1562257999|https://scryfall.com/card/ptk/27/shu-soldier-farmers?utm_source=api>`"
+msgid ""
+":mtgtip:`Shu Soldier-Farmers<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/d/edb576e9-98ba-4bd1-9d1e-e316acf2e7f5.jpg?1562257999|"
+"https://scryfall.com/card/ptk/27/shu-soldier-farmers?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:121
@@ -259,7 +345,10 @@ msgid "When Shu Soldier-Farmers enters the battlefield, you gain 4 life."
 msgstr ""
 
 #: ../../PTK.rst:126
-msgid ":mtgtip:`Vengeance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a882fbcc-b2b9-44f3-b5cc-56759879f473.jpg?1562257514|https://scryfall.com/card/ptk/28/vengeance?utm_source=api>`"
+msgid ""
+":mtgtip:`Vengeance<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/8/a882fbcc-b2b9-44f3-b5cc-56759879f473.jpg?1562257514|https://"
+"scryfall.com/card/ptk/28/vengeance?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:125
@@ -267,7 +356,10 @@ msgid "Destroy target tapped creature."
 msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../PTK.rst:130
-msgid ":mtgtip:`Virtuous Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72ad4c79-a85d-4fc6-95ab-5a6d6d667579.jpg?1562257014|https://scryfall.com/card/ptk/29/virtuous-charge?utm_source=api>`"
+msgid ""
+":mtgtip:`Virtuous Charge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/2/72ad4c79-a85d-4fc6-95ab-5a6d6d667579.jpg?1562257014|"
+"https://scryfall.com/card/ptk/29/virtuous-charge?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:129
@@ -275,11 +367,17 @@ msgid "Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../PTK.rst:132
-msgid ":mtgtip:`Volunteer Militia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0af243f6-ef28-49d1-afeb-ac03d568ed6a.jpg?1562255829|https://scryfall.com/card/ptk/30/volunteer-militia?utm_source=api>`"
+msgid ""
+":mtgtip:`Volunteer Militia<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/a/0af243f6-ef28-49d1-afeb-ac03d568ed6a.jpg?1562255829|"
+"https://scryfall.com/card/ptk/30/volunteer-militia?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:140
-msgid ":mtgtip:`Warrior's Stand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53bffc2e-67b6-4eb0-9742-e2a5918cc8d8.jpg?1562256535|https://scryfall.com/card/ptk/31/warriors-stand?utm_source=api>`"
+msgid ""
+":mtgtip:`Warrior's Stand<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/3/53bffc2e-67b6-4eb0-9742-e2a5918cc8d8.jpg?1562256535|"
+"https://scryfall.com/card/ptk/31/warriors-stand?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:139
@@ -287,29 +385,47 @@ msgid "Creatures you control get +2/+2 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../PTK.rst:144
-msgid ":mtgtip:`Zhang Fei, Fierce Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a58ec38-f1dc-4c69-9d26-a4599bce586a.jpg?1562256053|https://scryfall.com/card/ptk/32/zhang-fei-fierce-warrior?utm_source=api>`"
+msgid ""
+":mtgtip:`Zhang Fei, Fierce Warrior<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/2/a/2a58ec38-f1dc-4c69-9d26-a4599bce586a.jpg?"
+"1562256053|https://scryfall.com/card/ptk/32/zhang-fei-fierce-warrior?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:150
-msgid ":mtgtip:`Zhao Zilong, Tiger General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d16cf1d-a7c3-4038-a648-299c1bedae99.jpg?1562256056|https://scryfall.com/card/ptk/33/zhao-zilong-tiger-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Zhao Zilong, Tiger General<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/2/d/2d16cf1d-a7c3-4038-a648-299c1bedae99.jpg?"
+"1562256056|https://scryfall.com/card/ptk/33/zhao-zilong-tiger-general?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:149
-msgid "Whenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn."
+msgid ""
+"Whenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../PTK.rst:154
-msgid ":mtgtip:`Balance of Power<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae27edb4-424b-4a2f-a588-d3b60c8d78e5.jpg?1562257521|https://scryfall.com/card/ptk/34/balance-of-power?utm_source=api>`"
+msgid ""
+":mtgtip:`Balance of Power<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/e/ae27edb4-424b-4a2f-a588-d3b60c8d78e5.jpg?1562257521|"
+"https://scryfall.com/card/ptk/34/balance-of-power?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:153
-msgid "If target opponent has more cards in hand than you, draw cards equal to the difference."
+msgid ""
+"If target opponent has more cards in hand than you, draw cards equal to the "
+"difference."
 msgstr ""
 "Jeśli wskazany przeciwnik ma więcej kart w ręce niż ty, dobierz tyle kart, "
 "ile wynosi różnica."
 
 #: ../../PTK.rst:158
-msgid ":mtgtip:`Borrowing 100,000 Arrows<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96b5362a-bbca-4dc3-a320-3664609fe169.jpg?1562257054|https://scryfall.com/card/ptk/35/borrowing-100000-arrows?utm_source=api>`"
+msgid ""
+":mtgtip:`Borrowing 100,000 Arrows<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/9/6/96b5362a-bbca-4dc3-a320-3664609fe169.jpg?"
+"1562257054|https://scryfall.com/card/ptk/35/borrowing-100000-arrows?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:157
@@ -318,7 +434,10 @@ msgstr ""
 "Dobierz tyle kart, ile przekręconych stworów ma we władaniu wskazany gracz."
 
 #: ../../PTK.rst:162
-msgid ":mtgtip:`Brilliant Plan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6acae374-9d71-4f8d-ba75-a983756624c7.jpg?1562256569|https://scryfall.com/card/ptk/36/brilliant-plan?utm_source=api>`"
+msgid ""
+":mtgtip:`Brilliant Plan<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/a/6acae374-9d71-4f8d-ba75-a983756624c7.jpg?1562256569|"
+"https://scryfall.com/card/ptk/36/brilliant-plan?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:161
@@ -326,7 +445,10 @@ msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
 #: ../../PTK.rst:166
-msgid ":mtgtip:`Broken Dam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502|https://scryfall.com/card/ptk/37/broken-dam?utm_source=api>`"
+msgid ""
+":mtgtip:`Broken Dam<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502|https://"
+"scryfall.com/card/ptk/37/broken-dam?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:165
@@ -334,7 +456,10 @@ msgid "Tap one or two target creatures without horsemanship."
 msgstr ""
 
 #: ../../PTK.rst:170
-msgid ":mtgtip:`Capture of Jingzhou<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2df84f2-08e8-43e4-825f-dccfe096d92b.jpg?1562257980|https://scryfall.com/card/ptk/38/capture-of-jingzhou?utm_source=api>`"
+msgid ""
+":mtgtip:`Capture of Jingzhou<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/2/d2df84f2-08e8-43e4-825f-dccfe096d92b.jpg?1562257980|"
+"https://scryfall.com/card/ptk/38/capture-of-jingzhou?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:169
@@ -342,7 +467,10 @@ msgid "Take an extra turn after this one."
 msgstr "Weź dodatkową turę po obecnej."
 
 #: ../../PTK.rst:176
-msgid ":mtgtip:`Champion's Victory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/451ef657-8590-497a-9d98-a732d4de6165.jpg?1562256077|https://scryfall.com/card/ptk/39/champions-victory?utm_source=api>`"
+msgid ""
+":mtgtip:`Champion's Victory<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/5/451ef657-8590-497a-9d98-a732d4de6165.jpg?1562256077|"
+"https://scryfall.com/card/ptk/39/champions-victory?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:175
@@ -350,7 +478,10 @@ msgid "Return target attacking creature to its owner's hand."
 msgstr ""
 
 #: ../../PTK.rst:180
-msgid ":mtgtip:`Council of Advisors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830|https://scryfall.com/card/ptk/40/council-of-advisors?utm_source=api>`"
+msgid ""
+":mtgtip:`Council of Advisors<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830|"
+"https://scryfall.com/card/ptk/40/council-of-advisors?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:179
@@ -358,7 +489,10 @@ msgid "When Council of Advisors enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../PTK.rst:184
-msgid ":mtgtip:`Counterintelligence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eafbeafb-ef84-4a8d-9ca8-ca305b1feeea.jpg?1562257995|https://scryfall.com/card/ptk/41/counterintelligence?utm_source=api>`"
+msgid ""
+":mtgtip:`Counterintelligence<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/a/eafbeafb-ef84-4a8d-9ca8-ca305b1feeea.jpg?1562257995|"
+"https://scryfall.com/card/ptk/41/counterintelligence?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:183
@@ -366,17 +500,25 @@ msgid "Return one or two target creatures to their owners' hands."
 msgstr ""
 
 #: ../../PTK.rst:188
-msgid ":mtgtip:`Exhaustion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96ad34ed-c811-432d-b9c7-bff7c024cd4f.jpg?1562257053|https://scryfall.com/card/ptk/42/exhaustion?utm_source=api>`"
+msgid ""
+":mtgtip:`Exhaustion<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/9/6/96ad34ed-c811-432d-b9c7-bff7c024cd4f.jpg?1562257053|https://"
+"scryfall.com/card/ptk/42/exhaustion?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:187
-msgid "Creatures and lands target opponent controls don't untap during their next untap step."
+msgid ""
+"Creatures and lands target opponent controls don't untap during their next "
+"untap step."
 msgstr ""
 "Stwory i lądy pod władaniem wskazanego przeciwnika nie odkręcą się w "
 "najbliższym kroku odkręcania owego gracza."
 
 #: ../../PTK.rst:192
-msgid ":mtgtip:`Extinguish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21140417-09f5-4d05-b94c-355fde9b4719.jpg?1562255853|https://scryfall.com/card/ptk/43/extinguish?utm_source=api>`"
+msgid ""
+":mtgtip:`Extinguish<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/2/1/21140417-09f5-4d05-b94c-355fde9b4719.jpg?1562255853|https://"
+"scryfall.com/card/ptk/43/extinguish?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:191
@@ -384,7 +526,10 @@ msgid "Counter target sorcery spell."
 msgstr "Skontruj wskazany czar obrzędu."
 
 #: ../../PTK.rst:196
-msgid ":mtgtip:`Forced Retreat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9753d211-3436-4a9b-86d9-54a541770ec2.jpg?1562257057|https://scryfall.com/card/ptk/44/forced-retreat?utm_source=api>`"
+msgid ""
+":mtgtip:`Forced Retreat<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/7/9753d211-3436-4a9b-86d9-54a541770ec2.jpg?1562257057|"
+"https://scryfall.com/card/ptk/44/forced-retreat?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:195
@@ -392,35 +537,56 @@ msgid "Put target creature on top of its owner's library."
 msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 #: ../../PTK.rst:200
-msgid ":mtgtip:`Lady Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f45e837-7b98-46ef-b21b-e3508ce999e5.jpg?1562255833|https://scryfall.com/card/ptk/45/lady-sun?utm_source=api>`"
+msgid ""
+":mtgtip:`Lady Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/0/f/0f45e837-7b98-46ef-b21b-e3508ce999e5.jpg?1562255833|https://"
+"scryfall.com/card/ptk/45/lady-sun?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:199
-msgid "|tap|: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Return Lady Sun and another target creature to their owners' hands. "
+"Activate this ability only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:204
-msgid ":mtgtip:`Lu Meng, Wu General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77a8b376-eda5-4bf9-9093-9518c09e50e8.jpg?1562257022|https://scryfall.com/card/ptk/46/lu-meng-wu-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Lu Meng, Wu General<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/7/77a8b376-eda5-4bf9-9093-9518c09e50e8.jpg?1562257022|"
+"https://scryfall.com/card/ptk/46/lu-meng-wu-general?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:208
-msgid ":mtgtip:`Lu Su, Wu Advisor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d361823-31ce-42c4-997d-3d3b52c0599a.jpg?1562257496|https://scryfall.com/card/ptk/47/lu-su-wu-advisor?utm_source=api>`"
+msgid ""
+":mtgtip:`Lu Su, Wu Advisor<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/d/9d361823-31ce-42c4-997d-3d3b52c0599a.jpg?1562257496|"
+"https://scryfall.com/card/ptk/47/lu-su-wu-advisor?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:207
-msgid "|tap|: Draw a card. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Draw a card. Activate this ability only during your turn, before "
+"attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:214
-msgid ":mtgtip:`Lu Xun, Scholar General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0882d4c8-32f1-4d86-b5c5-75a16697004c.jpg?1562255827|https://scryfall.com/card/ptk/48/lu-xun-scholar-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Lu Xun, Scholar General<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/8/0882d4c8-32f1-4d86-b5c5-75a16697004c.jpg?1562255827|"
+"https://scryfall.com/card/ptk/48/lu-xun-scholar-general?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:213
-msgid "Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card."
+msgid ""
+"Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a "
+"card."
 msgstr ""
 
 #: ../../PTK.rst:218
-msgid ":mtgtip:`Mystic Denial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1296ddc4-300d-44f6-95d8-1b392613d379.jpg?1562255840|https://scryfall.com/card/ptk/49/mystic-denial?utm_source=api>`"
+msgid ""
+":mtgtip:`Mystic Denial<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/2/1296ddc4-300d-44f6-95d8-1b392613d379.jpg?1562255840|"
+"https://scryfall.com/card/ptk/49/mystic-denial?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:217
@@ -428,7 +594,10 @@ msgid "Counter target creature or sorcery spell."
 msgstr ""
 
 #: ../../PTK.rst:222
-msgid ":mtgtip:`Preemptive Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2314bf1-b22d-48c2-860f-e1081f56296b.jpg?1562257530|https://scryfall.com/card/ptk/50/preemptive-strike?utm_source=api>`"
+msgid ""
+":mtgtip:`Preemptive Strike<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/2/c2314bf1-b22d-48c2-860f-e1081f56296b.jpg?1562257530|"
+"https://scryfall.com/card/ptk/50/preemptive-strike?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:221
@@ -436,15 +605,22 @@ msgid "Counter target creature spell."
 msgstr "Skontruj wskazany czar stwora."
 
 #: ../../PTK.rst:226
-msgid ":mtgtip:`Red Cliffs Armada<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8fe0f33-35c7-439b-bece-4a9461b92352.jpg?1562257535|https://scryfall.com/card/ptk/51/red-cliffs-armada?utm_source=api>`"
+msgid ""
+":mtgtip:`Red Cliffs Armada<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/8/c8fe0f33-35c7-439b-bece-4a9461b92352.jpg?1562257535|"
+"https://scryfall.com/card/ptk/51/red-cliffs-armada?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:225
-msgid "Red Cliffs Armada can't attack unless defending player controls an Island."
+msgid ""
+"Red Cliffs Armada can't attack unless defending player controls an Island."
 msgstr ""
 
 #: ../../PTK.rst:230
-msgid ":mtgtip:`Sage's Knowledge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/156d7c70-6c6d-4052-9d44-029ba1bb66e4.jpg?1562255841|https://scryfall.com/card/ptk/52/sages-knowledge?utm_source=api>`"
+msgid ""
+":mtgtip:`Sage's Knowledge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/5/156d7c70-6c6d-4052-9d44-029ba1bb66e4.jpg?1562255841|"
+"https://scryfall.com/card/ptk/52/sages-knowledge?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:229
@@ -452,37 +628,58 @@ msgid "Return target sorcery card from your graveyard to your hand."
 msgstr ""
 
 #: ../../PTK.rst:234
-msgid ":mtgtip:`Strategic Planning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020|https://scryfall.com/card/ptk/53/strategic-planning?utm_source=api>`"
+msgid ""
+":mtgtip:`Strategic Planning<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020|"
+"https://scryfall.com/card/ptk/53/strategic-planning?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:233
-msgid "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
+msgid ""
+"Look at the top three cards of your library. Put one of them into your hand "
+"and the rest into your graveyard."
 msgstr ""
 "Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
 "twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../PTK.rst:236
-msgid ":mtgtip:`Straw Soldiers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ae5ba21-eb8e-4663-bfd8-3e19a0c10774.jpg?1562257041|https://scryfall.com/card/ptk/54/straw-soldiers?utm_source=api>`"
+msgid ""
+":mtgtip:`Straw Soldiers<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/a/8ae5ba21-eb8e-4663-bfd8-3e19a0c10774.jpg?1562257041|"
+"https://scryfall.com/card/ptk/54/straw-soldiers?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:244
-msgid ":mtgtip:`Sun Ce, Young Conquerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16114a68-58d1-4aad-9b3a-890e9c84b253.jpg?1562255844|https://scryfall.com/card/ptk/55/sun-ce-young-conquerer?utm_source=api>`"
+msgid ""
+":mtgtip:`Sun Ce, Young Conquerer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/6/16114a68-58d1-4aad-9b3a-890e9c84b253.jpg?1562255844|"
+"https://scryfall.com/card/ptk/55/sun-ce-young-conquerer?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:243
-msgid "When Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand."
+msgid ""
+"When Sun Ce, Young Conquerer enters the battlefield, you may return target "
+"creature to its owner's hand."
 msgstr ""
 
 #: ../../PTK.rst:248
-msgid ":mtgtip:`Sun Quan, Lord of Wu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6def4492-3f67-4cdb-8a25-c3ddebd125c7.jpg?1562256575|https://scryfall.com/card/ptk/56/sun-quan-lord-of-wu?utm_source=api>`"
+msgid ""
+":mtgtip:`Sun Quan, Lord of Wu<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6def4492-3f67-4cdb-8a25-c3ddebd125c7.jpg?1562256575|"
+"https://scryfall.com/card/ptk/56/sun-quan-lord-of-wu?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:247
-msgid "Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)"
+msgid ""
+"Creatures you control have horsemanship. (They can't be blocked except by "
+"creatures with horsemanship.)"
 msgstr ""
 
 #: ../../PTK.rst:252
-msgid ":mtgtip:`Wu Admiral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/499ae191-80ac-42bf-b49d-db343803bd56.jpg?1562256082|https://scryfall.com/card/ptk/57/wu-admiral?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Admiral<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/9/499ae191-80ac-42bf-b49d-db343803bd56.jpg?1562256082|https://"
+"scryfall.com/card/ptk/57/wu-admiral?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:251
@@ -490,27 +687,44 @@ msgid "Wu Admiral gets +1/+1 as long as an opponent controls an Island."
 msgstr ""
 
 #: ../../PTK.rst:256
-msgid ":mtgtip:`Wu Elite Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cf562e2-be8e-4514-b2c8-3268dc1ab0db.jpg?1562257026|https://scryfall.com/card/ptk/58/wu-elite-cavalry?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Elite Cavalry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/c/7cf562e2-be8e-4514-b2c8-3268dc1ab0db.jpg?1562257026|"
+"https://scryfall.com/card/ptk/58/wu-elite-cavalry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:258
-msgid ":mtgtip:`Wu Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebe4115e-7ca3-4996-a390-133c2e6d09b7.jpg?1562257996|https://scryfall.com/card/ptk/59/wu-infantry?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/b/ebe4115e-7ca3-4996-a390-133c2e6d09b7.jpg?1562257996|https://"
+"scryfall.com/card/ptk/59/wu-infantry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:264
-msgid ":mtgtip:`Wu Light Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60e55b25-fde2-4b57-b5db-65b75262ff3d.jpg?1562256556|https://scryfall.com/card/ptk/60/wu-light-cavalry?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Light Cavalry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/0/60e55b25-fde2-4b57-b5db-65b75262ff3d.jpg?1562256556|"
+"https://scryfall.com/card/ptk/60/wu-light-cavalry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:268
-msgid ":mtgtip:`Wu Longbowman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28e68635-b0ed-4a56-8b18-679f95db12b6.jpg?1562255854|https://scryfall.com/card/ptk/61/wu-longbowman?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Longbowman<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/8/28e68635-b0ed-4a56-8b18-679f95db12b6.jpg?1562255854|"
+"https://scryfall.com/card/ptk/61/wu-longbowman?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:267
-msgid "|tap|: Wu Longbowman deals 1 damage to any target. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Wu Longbowman deals 1 damage to any target. Activate this ability "
+"only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:274
-msgid ":mtgtip:`Wu Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d13330f-6e07-451f-b17a-4e1606a74c3f.jpg?1562257042|https://scryfall.com/card/ptk/62/wu-scout?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/8/d/8d13330f-6e07-451f-b17a-4e1606a74c3f.jpg?1562257042|https://"
+"scryfall.com/card/ptk/62/wu-scout?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:273
@@ -518,15 +732,23 @@ msgid "When Wu Scout enters the battlefield, look at target opponent's hand."
 msgstr ""
 
 #: ../../PTK.rst:278
-msgid ":mtgtip:`Wu Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7.jpg?1562258008|https://scryfall.com/card/ptk/63/wu-spy?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/7/f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7.jpg?1562258008|https://"
+"scryfall.com/card/ptk/63/wu-spy?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:277
-msgid "When Wu Spy enters the battlefield, look at the top two cards of target player's library. Put one of them into their graveyard."
+msgid ""
+"When Wu Spy enters the battlefield, look at the top two cards of target "
+"player's library. Put one of them into their graveyard."
 msgstr ""
 
 #: ../../PTK.rst:282
-msgid ":mtgtip:`Wu Warship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e211d47-dab4-429a-a90b-5b8489441886.jpg?1562256058|https://scryfall.com/card/ptk/64/wu-warship?utm_source=api>`"
+msgid ""
+":mtgtip:`Wu Warship<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/2/e/2e211d47-dab4-429a-a90b-5b8489441886.jpg?1562256058|https://"
+"scryfall.com/card/ptk/64/wu-warship?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:281
@@ -534,23 +756,38 @@ msgid "Wu Warship can't attack unless defending player controls an Island."
 msgstr ""
 
 #: ../../PTK.rst:286
-msgid ":mtgtip:`Zhou Yu, Chief Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e2cf83b-417d-41ca-8e65-86aa65180c40.jpg?1562256577|https://scryfall.com/card/ptk/65/zhou-yu-chief-commander?utm_source=api>`"
+msgid ""
+":mtgtip:`Zhou Yu, Chief Commander<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/6/e/6e2cf83b-417d-41ca-8e65-86aa65180c40.jpg?"
+"1562256577|https://scryfall.com/card/ptk/65/zhou-yu-chief-commander?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:285
-msgid "Zhou Yu, Chief Commander can't attack unless defending player controls an Island."
+msgid ""
+"Zhou Yu, Chief Commander can't attack unless defending player controls an "
+"Island."
 msgstr ""
 
 #: ../../PTK.rst:290
-msgid ":mtgtip:`Zhuge Jin, Wu Strategist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60790b07-53da-41fa-b9e0-e7ce22fdcb11.jpg?1562256554|https://scryfall.com/card/ptk/66/zhuge-jin-wu-strategist?utm_source=api>`"
+msgid ""
+":mtgtip:`Zhuge Jin, Wu Strategist<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/6/0/60790b07-53da-41fa-b9e0-e7ce22fdcb11.jpg?"
+"1562256554|https://scryfall.com/card/ptk/66/zhuge-jin-wu-strategist?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:289
-msgid "|tap|: Target creature can't be blocked this turn. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Target creature can't be blocked this turn. Activate this ability "
+"only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:294
-msgid ":mtgtip:`Ambition's Cost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e0b1613-e879-4c28-b27e-f3997b9ebccd.jpg?1562255832|https://scryfall.com/card/ptk/67/ambitions-cost?utm_source=api>`"
+msgid ""
+":mtgtip:`Ambition's Cost<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/e/0e0b1613-e879-4c28-b27e-f3997b9ebccd.jpg?1562255832|"
+"https://scryfall.com/card/ptk/67/ambitions-cost?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:293
@@ -558,15 +795,23 @@ msgid "You draw three cards and you lose 3 life."
 msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../PTK.rst:298
-msgid ":mtgtip:`Cao Cao, Lord of Wei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7e5a530-c954-4696-85ce-6afaf7de1808.jpg?1562257983|https://scryfall.com/card/ptk/68/cao-cao-lord-of-wei?utm_source=api>`"
+msgid ""
+":mtgtip:`Cao Cao, Lord of Wei<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/7/d7e5a530-c954-4696-85ce-6afaf7de1808.jpg?1562257983|"
+"https://scryfall.com/card/ptk/68/cao-cao-lord-of-wei?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:297
-msgid "|tap|: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Target opponent discards two cards. Activate this ability only during "
+"your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:304
-msgid ":mtgtip:`Cao Ren, Wei Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f7e8366-82ba-4df0-b9df-7d0aa9b972eb.jpg?1562256092|https://scryfall.com/card/ptk/69/cao-ren-wei-commander?utm_source=api>`"
+msgid ""
+":mtgtip:`Cao Ren, Wei Commander<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/f/4f7e8366-82ba-4df0-b9df-7d0aa9b972eb.jpg?1562256092|"
+"https://scryfall.com/card/ptk/69/cao-ren-wei-commander?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:303
@@ -574,33 +819,51 @@ msgid "When Cao Ren, Wei Commander enters the battlefield, you lose 3 life."
 msgstr ""
 
 #: ../../PTK.rst:308
-msgid ":mtgtip:`Coercion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a193b33-0db2-411d-8f91-2247cb2d924a.jpg?1562256086|https://scryfall.com/card/ptk/70/coercion?utm_source=api>`"
+msgid ""
+":mtgtip:`Coercion<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/a/4a193b33-0db2-411d-8f91-2247cb2d924a.jpg?1562256086|https://"
+"scryfall.com/card/ptk/70/coercion?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:307
-msgid "Target opponent reveals their hand. You choose a card from it. That player discards that card."
+msgid ""
+"Target opponent reveals their hand. You choose a card from it. That player "
+"discards that card."
 msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
 "odrzuca ową kartę."
 
 #: ../../PTK.rst:312
-msgid ":mtgtip:`Corrupt Court Official<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3ba2e3-e680-47cd-81c5-555deea7d00f.jpg?1562257498|https://scryfall.com/card/ptk/71/corrupt-court-official?utm_source=api>`"
+msgid ""
+":mtgtip:`Corrupt Court Official<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/d/9d3ba2e3-e680-47cd-81c5-555deea7d00f.jpg?1562257498|"
+"https://scryfall.com/card/ptk/71/corrupt-court-official?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:311
-msgid "When Corrupt Court Official enters the battlefield, target opponent discards a card."
+msgid ""
+"When Corrupt Court Official enters the battlefield, target opponent discards "
+"a card."
 msgstr ""
 
 #: ../../PTK.rst:316
-msgid ":mtgtip:`Cunning Advisor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e31ede4-b0bb-4f63-b8df-1330152611a4.jpg?1562256547|https://scryfall.com/card/ptk/72/cunning-advisor?utm_source=api>`"
+msgid ""
+":mtgtip:`Cunning Advisor<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/e/5e31ede4-b0bb-4f63-b8df-1330152611a4.jpg?1562256547|"
+"https://scryfall.com/card/ptk/72/cunning-advisor?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:315
-msgid "|tap|: Target opponent discards a card. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Target opponent discards a card. Activate this ability only during "
+"your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:320
-msgid ":mtgtip:`Deception<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb63768-2d8a-4a74-a312-b981dd462cdc.jpg?1562257524|https://scryfall.com/card/ptk/73/deception?utm_source=api>`"
+msgid ""
+":mtgtip:`Deception<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/d/bdb63768-2d8a-4a74-a312-b981dd462cdc.jpg?1562257524|https://"
+"scryfall.com/card/ptk/73/deception?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:319
@@ -608,7 +871,10 @@ msgid "Target opponent discards two cards."
 msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../PTK.rst:324
-msgid ":mtgtip:`Desperate Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5587089-b17e-4187-97aa-1c3eec070a0b.jpg?1562257511|https://scryfall.com/card/ptk/74/desperate-charge?utm_source=api>`"
+msgid ""
+":mtgtip:`Desperate Charge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/5/a5587089-b17e-4187-97aa-1c3eec070a0b.jpg?1562257511|"
+"https://scryfall.com/card/ptk/74/desperate-charge?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:323
@@ -616,7 +882,10 @@ msgid "Creatures you control get +2/+0 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../PTK.rst:328
-msgid ":mtgtip:`Famine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d6c10ca-f6d6-4322-aa17-7e874cb10bb1.jpg?1562257044|https://scryfall.com/card/ptk/75/famine?utm_source=api>`"
+msgid ""
+":mtgtip:`Famine<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/8/d/8d6c10ca-f6d6-4322-aa17-7e874cb10bb1.jpg?1562257044|https://"
+"scryfall.com/card/ptk/75/famine?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:327
@@ -624,7 +893,10 @@ msgid "Famine deals 3 damage to each creature and each player."
 msgstr "Ten czar zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
 
 #: ../../PTK.rst:332
-msgid ":mtgtip:`Ghostly Visit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06f6938a-229a-4521-b5d5-7999ce5fb372.jpg?1562255824|https://scryfall.com/card/ptk/76/ghostly-visit?utm_source=api>`"
+msgid ""
+":mtgtip:`Ghostly Visit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/6/06f6938a-229a-4521-b5d5-7999ce5fb372.jpg?1562255824|"
+"https://scryfall.com/card/ptk/76/ghostly-visit?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:331
@@ -632,7 +904,10 @@ msgid "Destroy target nonblack creature."
 msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../PTK.rst:336
-msgid ":mtgtip:`Imperial Edict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5a7f91d-b4ee-45c1-a229-bb23daf68e6b.jpg?1575874304|https://scryfall.com/card/ptk/77/imperial-edict?utm_source=api>`"
+msgid ""
+":mtgtip:`Imperial Edict<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/5/c5a7f91d-b4ee-45c1-a229-bb23daf68e6b.jpg?1575874304|"
+"https://scryfall.com/card/ptk/77/imperial-edict?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:335
@@ -640,25 +915,38 @@ msgid "Target opponent chooses a creature they control. Destroy that creature."
 msgstr ""
 
 #: ../../PTK.rst:340
-msgid ":mtgtip:`Imperial Seal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/822e30db-40c5-4099-868b-185ad9b7c7dc.jpg?1562257032|https://scryfall.com/card/ptk/78/imperial-seal?utm_source=api>`"
+msgid ""
+":mtgtip:`Imperial Seal<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/2/822e30db-40c5-4099-868b-185ad9b7c7dc.jpg?1562257032|"
+"https://scryfall.com/card/ptk/78/imperial-seal?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:339
-msgid "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
+msgid ""
+"Search your library for a card, then shuffle your library and put that card "
+"on top of it. You lose 2 life."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, po czym przetasuj twoją bibliotekę i "
 "umieść ową kartę na jej wierzchu. Strać 2 życia."
 
 #: ../../PTK.rst:344
-msgid ":mtgtip:`Overwhelming Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c56c7fb4-8b7b-40fc-879c-76cfb5d417b8.jpg?1562257531|https://scryfall.com/card/ptk/79/overwhelming-forces?utm_source=api>`"
+msgid ""
+":mtgtip:`Overwhelming Forces<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/5/c56c7fb4-8b7b-40fc-879c-76cfb5d417b8.jpg?1562257531|"
+"https://scryfall.com/card/ptk/79/overwhelming-forces?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:343
-msgid "Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way."
+msgid ""
+"Destroy all creatures target opponent controls. Draw a card for each "
+"creature destroyed this way."
 msgstr ""
 
 #: ../../PTK.rst:348
-msgid ":mtgtip:`Poison Arrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b7b5f34-c250-484e-9bae-94789b2a87fb.jpg?1562256571|https://scryfall.com/card/ptk/80/poison-arrow?utm_source=api>`"
+msgid ""
+":mtgtip:`Poison Arrow<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/b/6b7b5f34-c250-484e-9bae-94789b2a87fb.jpg?1562256571|"
+"https://scryfall.com/card/ptk/80/poison-arrow?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:347
@@ -666,7 +954,10 @@ msgid "Destroy target nonblack creature. You gain 3 life."
 msgstr ""
 
 #: ../../PTK.rst:352
-msgid ":mtgtip:`Return to Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/1841e615-fdcd-4187-bd69-d07abde0e1ae.jpg?1562255847|https://scryfall.com/card/ptk/81/return-to-battle?utm_source=api>`"
+msgid ""
+":mtgtip:`Return to Battle<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/8/1841e615-fdcd-4187-bd69-d07abde0e1ae.jpg?1562255847|"
+"https://scryfall.com/card/ptk/81/return-to-battle?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:351
@@ -674,31 +965,50 @@ msgid "Return target creature card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../PTK.rst:356
-msgid ":mtgtip:`Sima Yi, Wei Field Marshal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/6500b690-d601-4c6d-baea-552e366ea242.jpg?1562256562|https://scryfall.com/card/ptk/82/sima-yi-wei-field-marshal?utm_source=api>`"
+msgid ""
+":mtgtip:`Sima Yi, Wei Field Marshal<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/6/5/6500b690-d601-4c6d-baea-552e366ea242.jpg?"
+"1562256562|https://scryfall.com/card/ptk/82/sima-yi-wei-field-marshal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:355
-msgid "Sima Yi, Wei Field Marshal's power is equal to the number of Swamps you control."
+msgid ""
+"Sima Yi, Wei Field Marshal's power is equal to the number of Swamps you "
+"control."
 msgstr ""
 
 #: ../../PTK.rst:360
-msgid ":mtgtip:`Stolen Grain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1f08862-5107-46a0-8c14-a961a5c4b135.jpg?1562257989|https://scryfall.com/card/ptk/83/stolen-grain?utm_source=api>`"
+msgid ""
+":mtgtip:`Stolen Grain<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/1/e1f08862-5107-46a0-8c14-a961a5c4b135.jpg?1562257989|"
+"https://scryfall.com/card/ptk/83/stolen-grain?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:359
-msgid "Stolen Grain deals 5 damage to target opponent or planeswalker. You gain 5 life."
+msgid ""
+"Stolen Grain deals 5 damage to target opponent or planeswalker. You gain 5 "
+"life."
 msgstr ""
 
 #: ../../PTK.rst:364
-msgid ":mtgtip:`Stone Catapult<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60303bfe-9158-4e25-a905-6522883ab671.jpg?1562256553|https://scryfall.com/card/ptk/84/stone-catapult?utm_source=api>`"
+msgid ""
+":mtgtip:`Stone Catapult<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/0/60303bfe-9158-4e25-a905-6522883ab671.jpg?1562256553|"
+"https://scryfall.com/card/ptk/84/stone-catapult?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:363
-msgid "|tap|: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Destroy target tapped nonblack creature. Activate this ability only "
+"during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:368
-msgid ":mtgtip:`Wei Ambush Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b241ba4-cff5-48ce-83bd-d70fb5e20ff4.jpg?1562257493|https://scryfall.com/card/ptk/85/wei-ambush-force?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Ambush Force<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/b/9b241ba4-cff5-48ce-83bd-d70fb5e20ff4.jpg?1562257493|"
+"https://scryfall.com/card/ptk/85/wei-ambush-force?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:367
@@ -706,55 +1016,92 @@ msgid "Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../PTK.rst:372
-msgid ":mtgtip:`Wei Assassins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495|https://scryfall.com/card/ptk/86/wei-assassins?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Assassins<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495|"
+"https://scryfall.com/card/ptk/86/wei-assassins?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:371
-msgid "When Wei Assassins enters the battlefield, target opponent chooses a creature they control. Destroy that creature."
+msgid ""
+"When Wei Assassins enters the battlefield, target opponent chooses a "
+"creature they control. Destroy that creature."
 msgstr ""
 
 #: ../../PTK.rst:376
-msgid ":mtgtip:`Wei Elite Companions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/843cbf18-60ac-4d97-b156-874735db61c6.jpg?1562257034|https://scryfall.com/card/ptk/87/wei-elite-companions?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Elite Companions<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/4/843cbf18-60ac-4d97-b156-874735db61c6.jpg?1562257034|"
+"https://scryfall.com/card/ptk/87/wei-elite-companions?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:378
-msgid ":mtgtip:`Wei Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72c6465f-3144-4faf-b248-a9fb941dc002.jpg?1562257016|https://scryfall.com/card/ptk/88/wei-infantry?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Infantry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/2/72c6465f-3144-4faf-b248-a9fb941dc002.jpg?1562257016|"
+"https://scryfall.com/card/ptk/88/wei-infantry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:386
-msgid ":mtgtip:`Wei Night Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5a0292e-ecf4-42df-8abf-f4479f8ad6cb.jpg?1562258005|https://scryfall.com/card/ptk/89/wei-night-raiders?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Night Raiders<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/5/f5a0292e-ecf4-42df-8abf-f4479f8ad6cb.jpg?1562258005|"
+"https://scryfall.com/card/ptk/89/wei-night-raiders?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:385
-msgid "Whenever Wei Night Raiders deals damage to an opponent, that player discards a card."
+msgid ""
+"Whenever Wei Night Raiders deals damage to an opponent, that player discards "
+"a card."
 msgstr ""
 
 #: ../../PTK.rst:390
-msgid ":mtgtip:`Wei Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a11d58fb-fb70-4e8f-8f64-232ad2c1f59b.jpg?1562257504|https://scryfall.com/card/ptk/90/wei-scout?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/1/a11d58fb-fb70-4e8f-8f64-232ad2c1f59b.jpg?1562257504|https://"
+"scryfall.com/card/ptk/90/wei-scout?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:394
-msgid ":mtgtip:`Wei Strike Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6eae8ce1-b21f-4d64-91ff-e98bf6a4548a.jpg?1562256578|https://scryfall.com/card/ptk/91/wei-strike-force?utm_source=api>`"
+msgid ""
+":mtgtip:`Wei Strike Force<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/e/6eae8ce1-b21f-4d64-91ff-e98bf6a4548a.jpg?1562256578|"
+"https://scryfall.com/card/ptk/91/wei-strike-force?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:400
-msgid ":mtgtip:`Xiahou Dun, the One-Eyed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91bed8a9-ede6-4fdc-966e-d1e4261c68e4.jpg?1562257050|https://scryfall.com/card/ptk/92/xiahou-dun-the-one-eyed?utm_source=api>`"
+msgid ""
+":mtgtip:`Xiahou Dun, the One-Eyed<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/9/1/91bed8a9-ede6-4fdc-966e-d1e4261c68e4.jpg?"
+"1562257050|https://scryfall.com/card/ptk/92/xiahou-dun-the-one-eyed?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:399
-msgid "Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your "
+"graveyard to your hand. Activate this ability only during your turn, before "
+"attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:404
-msgid ":mtgtip:`Xun Yu, Wei Advisor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f0a25ea-b414-423c-94a6-8a4795d60b46.jpg?1562257045|https://scryfall.com/card/ptk/93/xun-yu-wei-advisor?utm_source=api>`"
+msgid ""
+":mtgtip:`Xun Yu, Wei Advisor<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/f/8f0a25ea-b414-423c-94a6-8a4795d60b46.jpg?1562257045|"
+"https://scryfall.com/card/ptk/93/xun-yu-wei-advisor?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:403
-msgid "|tap|: Target creature you control gets +2/+0 until end of turn. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Target creature you control gets +2/+0 until end of turn. Activate "
+"this ability only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:408
-msgid ":mtgtip:`Young Wei Recruits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11431c4c-b0bb-4747-a34a-4a90238ec9c6.jpg?1562255834|https://scryfall.com/card/ptk/94/young-wei-recruits?utm_source=api>`"
+msgid ""
+":mtgtip:`Young Wei Recruits<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/1/11431c4c-b0bb-4747-a34a-4a90238ec9c6.jpg?1562255834|"
+"https://scryfall.com/card/ptk/94/young-wei-recruits?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:407
@@ -762,52 +1109,80 @@ msgid "Young Wei Recruits can't block."
 msgstr ""
 
 #: ../../PTK.rst:414
-msgid ":mtgtip:`Zhang He, Wei General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/736e4bf1-fee9-47cc-9bbc-093f21c77297.jpg?1562257017|https://scryfall.com/card/ptk/95/zhang-he-wei-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Zhang He, Wei General<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/3/736e4bf1-fee9-47cc-9bbc-093f21c77297.jpg?1562257017|"
+"https://scryfall.com/card/ptk/95/zhang-he-wei-general?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:413
-msgid "Whenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn."
+msgid ""
+"Whenever Zhang He, Wei General attacks, each other creature you control gets "
+"+1/+0 until end of turn."
 msgstr ""
 
 #: ../../PTK.rst:418
-msgid ":mtgtip:`Zhang Liao, Hero of Hefei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f42a953-3073-4e74-9bb8-c8c5a45d1dfa.jpg?1562257047|https://scryfall.com/card/ptk/96/zhang-liao-hero-of-hefei?utm_source=api>`"
+msgid ""
+":mtgtip:`Zhang Liao, Hero of Hefei<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/8/f/8f42a953-3073-4e74-9bb8-c8c5a45d1dfa.jpg?"
+"1562257047|https://scryfall.com/card/ptk/96/zhang-liao-hero-of-hefei?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:417
-msgid "Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card."
+msgid ""
+"Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that "
+"opponent discards a card."
 msgstr ""
 
 #: ../../PTK.rst:422
-msgid ":mtgtip:`Zodiac Pig<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52e364b5-55ca-4df5-8755-6643218b0969.jpg?1562256097|https://scryfall.com/card/ptk/97/zodiac-pig?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Pig<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/5/2/52e364b5-55ca-4df5-8755-6643218b0969.jpg?1562256097|https://"
+"scryfall.com/card/ptk/97/zodiac-pig?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:421
-#: ../../PTK.rst:425
-#: ../../PTK.rst:429
-#: ../../PTK.rst:687
-msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+#: ../../PTK.rst:421 ../../PTK.rst:425 ../../PTK.rst:429 ../../PTK.rst:687
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
 msgstr ""
 "Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Bagnem.)"
 
 #: ../../PTK.rst:426
-msgid ":mtgtip:`Zodiac Rat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012|https://scryfall.com/card/ptk/98/zodiac-rat?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Rat<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012|https://"
+"scryfall.com/card/ptk/98/zodiac-rat?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:430
-msgid ":mtgtip:`Zodiac Snake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d30d6f0-ca4c-4442-a47f-ecdf52088ecc.jpg?1562256574|https://scryfall.com/card/ptk/99/zodiac-snake?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Snake<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6d30d6f0-ca4c-4442-a47f-ecdf52088ecc.jpg?1562256574|"
+"https://scryfall.com/card/ptk/99/zodiac-snake?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:434
-msgid ":mtgtip:`Barbarian General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/060da652-03c7-45e3-ad83-f0a9fa9d1049.jpg?1562255821|https://scryfall.com/card/ptk/100/barbarian-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Barbarian General<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/6/060da652-03c7-45e3-ad83-f0a9fa9d1049.jpg?1562255821|"
+"https://scryfall.com/card/ptk/100/barbarian-general?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:436
-msgid ":mtgtip:`Barbarian Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f930c2-e828-4566-b2df-3b054f311be5.jpg?1562257978|https://scryfall.com/card/ptk/101/barbarian-horde?utm_source=api>`"
+msgid ""
+":mtgtip:`Barbarian Horde<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/1/d1f930c2-e828-4566-b2df-3b054f311be5.jpg?1562257978|"
+"https://scryfall.com/card/ptk/101/barbarian-horde?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:442
-msgid ":mtgtip:`Blaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b6cfd3-4fb1-40a7-a090-de6f8b283cb3.jpg?1562257515|https://scryfall.com/card/ptk/102/blaze?utm_source=api>`"
+msgid ""
+":mtgtip:`Blaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
+"a/8/a8b6cfd3-4fb1-40a7-a090-de6f8b283cb3.jpg?1562257515|https://scryfall.com/"
+"card/ptk/102/blaze?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:441
@@ -815,7 +1190,10 @@ msgid "Blaze deals X damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../PTK.rst:446
-msgid ":mtgtip:`Burning Fields<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dee12f01-581e-4a3c-a8b5-41bef2516781.jpg?1562257986|https://scryfall.com/card/ptk/103/burning-fields?utm_source=api>`"
+msgid ""
+":mtgtip:`Burning Fields<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/e/dee12f01-581e-4a3c-a8b5-41bef2516781.jpg?1562257986|"
+"https://scryfall.com/card/ptk/103/burning-fields?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:445
@@ -823,15 +1201,23 @@ msgid "Burning Fields deals 5 damage to target opponent or planeswalker."
 msgstr ""
 
 #: ../../PTK.rst:450
-msgid ":mtgtip:`Burning of Xinye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064|https://scryfall.com/card/ptk/104/burning-of-xinye?utm_source=api>`"
+msgid ""
+":mtgtip:`Burning of Xinye<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064|"
+"https://scryfall.com/card/ptk/104/burning-of-xinye?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:449
-msgid "You destroy four lands you control, then target opponent destroys four lands they control. Then Burning of Xinye deals 4 damage to each creature."
+msgid ""
+"You destroy four lands you control, then target opponent destroys four lands "
+"they control. Then Burning of Xinye deals 4 damage to each creature."
 msgstr ""
 
 #: ../../PTK.rst:454
-msgid ":mtgtip:`Control of the Court<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e4f0005-4f19-4352-9cd2-3993ae6db879.jpg?1562256073|https://scryfall.com/card/ptk/105/control-of-the-court?utm_source=api>`"
+msgid ""
+":mtgtip:`Control of the Court<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/e/3e4f0005-4f19-4352-9cd2-3993ae6db879.jpg?1562256073|"
+"https://scryfall.com/card/ptk/105/control-of-the-court?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:453
@@ -839,15 +1225,23 @@ msgid "Draw four cards, then discard three cards at random."
 msgstr "Dobierz cztery karty, po czym odrzuć trzy losowe karty."
 
 #: ../../PTK.rst:458
-msgid ":mtgtip:`Corrupt Eunuchs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e084664-2faf-4f7a-9068-d58d3f4b8456.jpg?1562256545|https://scryfall.com/card/ptk/106/corrupt-eunuchs?utm_source=api>`"
+msgid ""
+":mtgtip:`Corrupt Eunuchs<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/e/5e084664-2faf-4f7a-9068-d58d3f4b8456.jpg?1562256545|"
+"https://scryfall.com/card/ptk/106/corrupt-eunuchs?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:457
-msgid "When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target creature."
+msgid ""
+"When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target "
+"creature."
 msgstr ""
 
 #: ../../PTK.rst:462
-msgid ":mtgtip:`Desert Sandstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/588ad2bf-405d-4c36-b485-e415c22f2703.jpg?1562256542|https://scryfall.com/card/ptk/107/desert-sandstorm?utm_source=api>`"
+msgid ""
+":mtgtip:`Desert Sandstorm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/8/588ad2bf-405d-4c36-b485-e415c22f2703.jpg?1562256542|"
+"https://scryfall.com/card/ptk/107/desert-sandstorm?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:461
@@ -855,31 +1249,50 @@ msgid "Desert Sandstorm deals 1 damage to each creature."
 msgstr ""
 
 #: ../../PTK.rst:466
-msgid ":mtgtip:`Diaochan, Artful Beauty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6180c476-dadf-4c03-ab1e-639386bd4319.jpg?1562256557|https://scryfall.com/card/ptk/108/diaochan-artful-beauty?utm_source=api>`"
+msgid ""
+":mtgtip:`Diaochan, Artful Beauty<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/1/6180c476-dadf-4c03-ab1e-639386bd4319.jpg?1562256557|"
+"https://scryfall.com/card/ptk/108/diaochan-artful-beauty?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:465
-msgid "|tap|: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Destroy target creature of your choice, then destroy target creature "
+"of an opponent's choice. Activate this ability only during your turn, before "
+"attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:470
-msgid ":mtgtip:`Dong Zhou, the Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51ccdca0-2c29-4b5c-ba5a-364cc6945801.jpg?1562256094|https://scryfall.com/card/ptk/109/dong-zhou-the-tyrant?utm_source=api>`"
+msgid ""
+":mtgtip:`Dong Zhou, the Tyrant<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/1/51ccdca0-2c29-4b5c-ba5a-364cc6945801.jpg?1562256094|"
+"https://scryfall.com/card/ptk/109/dong-zhou-the-tyrant?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:469
-msgid "When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player."
+msgid ""
+"When Dong Zhou, the Tyrant enters the battlefield, target creature an "
+"opponent controls deals damage equal to its power to that player."
 msgstr ""
 
 #: ../../PTK.rst:474
-msgid ":mtgtip:`Eunuchs' Intrigues<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e7ca92f-770d-4147-8eaf-f1fa69340dc9.jpg?1562256548|https://scryfall.com/card/ptk/110/eunuchs-intrigues?utm_source=api>`"
+msgid ""
+":mtgtip:`Eunuchs' Intrigues<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/e/5e7ca92f-770d-4147-8eaf-f1fa69340dc9.jpg?1562256548|"
+"https://scryfall.com/card/ptk/110/eunuchs-intrigues?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:473
-msgid "Target opponent chooses a creature they control. Other creatures they control can't block this turn."
+msgid ""
+"Target opponent chooses a creature they control. Other creatures they "
+"control can't block this turn."
 msgstr ""
 
 #: ../../PTK.rst:478
-msgid ":mtgtip:`Fire Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dd8bdbd-99c9-4fa7-936a-acc7f4238507.jpg?1562256089|https://scryfall.com/card/ptk/111/fire-ambush?utm_source=api>`"
+msgid ""
+":mtgtip:`Fire Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/d/4dd8bdbd-99c9-4fa7-936a-acc7f4238507.jpg?1562256089|https://"
+"scryfall.com/card/ptk/111/fire-ambush?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:477
@@ -887,55 +1300,85 @@ msgid "Fire Ambush deals 3 damage to any target."
 msgstr ""
 
 #: ../../PTK.rst:482
-msgid ":mtgtip:`Fire Bowman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18acc721-e9ae-4ba4-b435-754e41fb541e.jpg?1562255848|https://scryfall.com/card/ptk/112/fire-bowman?utm_source=api>`"
+msgid ""
+":mtgtip:`Fire Bowman<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/1/8/18acc721-e9ae-4ba4-b435-754e41fb541e.jpg?1562255848|https://"
+"scryfall.com/card/ptk/112/fire-bowman?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:481
-msgid "Sacrifice Fire Bowman: It deals 1 damage to any target. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"Sacrifice Fire Bowman: It deals 1 damage to any target. Activate this "
+"ability only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:486
-msgid ":mtgtip:`Imperial Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c473253-3992-4cc1-8b46-5d1da308c537.jpg?1562255851|https://scryfall.com/card/ptk/113/imperial-recruiter?utm_source=api>`"
+msgid ""
+":mtgtip:`Imperial Recruiter<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/c/1c473253-3992-4cc1-8b46-5d1da308c537.jpg?1562255851|"
+"https://scryfall.com/card/ptk/113/imperial-recruiter?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:485
-msgid "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library."
+msgid ""
+"When Imperial Recruiter enters the battlefield, search your library for a "
+"creature card with power 2 or less, reveal it, put it into your hand, then "
+"shuffle your library."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj."
 
 #: ../../PTK.rst:488
-msgid ":mtgtip:`Independent Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff7a4769-7a64-4016-8db0-b56c6b98aff3.jpg?1562258015|https://scryfall.com/card/ptk/114/independent-troops?utm_source=api>`"
+msgid ""
+":mtgtip:`Independent Troops<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/f/ff7a4769-7a64-4016-8db0-b56c6b98aff3.jpg?1562258015|"
+"https://scryfall.com/card/ptk/114/independent-troops?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:494
-msgid ":mtgtip:`Lu Bu, Master-at-Arms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07d60c27-8625-48eb-a3f0-1e26d6930ae7.jpg?1562255826|https://scryfall.com/card/ptk/115/lu-bu-master-at-arms?utm_source=api>`"
+msgid ""
+":mtgtip:`Lu Bu, Master-at-Arms<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/7/07d60c27-8625-48eb-a3f0-1e26d6930ae7.jpg?1562255826|"
+"https://scryfall.com/card/ptk/115/lu-bu-master-at-arms?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:493
-msgid "Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)"
+msgid ""
+"Haste; horsemanship (This creature can't be blocked except by creatures with "
+"horsemanship.)"
 msgstr ""
 
 #: ../../PTK.rst:500
-msgid ":mtgtip:`Ma Chao, Western Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39b8cf7f-8c40-40e9-8118-e8626c3c6433.jpg?1562256068|https://scryfall.com/card/ptk/116/ma-chao-western-warrior?utm_source=api>`"
+msgid ""
+":mtgtip:`Ma Chao, Western Warrior<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/3/9/39b8cf7f-8c40-40e9-8118-e8626c3c6433.jpg?"
+"1562256068|https://scryfall.com/card/ptk/116/ma-chao-western-warrior?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:499
-msgid "Whenever Ma Chao, Western Warrior attacks alone, it can't be blocked this combat."
+msgid ""
+"Whenever Ma Chao, Western Warrior attacks alone, it can't be blocked this "
+"combat."
 msgstr ""
 
 #: ../../PTK.rst:504
-msgid ":mtgtip:`Mountain Bandit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34fd541d-9956-4595-9527-a83db4c5f74f.jpg?1562256065|https://scryfall.com/card/ptk/117/mountain-bandit?utm_source=api>`"
+msgid ""
+":mtgtip:`Mountain Bandit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/4/34fd541d-9956-4595-9527-a83db4c5f74f.jpg?1562256065|"
+"https://scryfall.com/card/ptk/117/mountain-bandit?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:503
-#: ../../PTK.rst:515
+#: ../../PTK.rst:503 ../../PTK.rst:515
 msgid "Haste"
 msgstr "Pośpiech"
 
 #: ../../PTK.rst:508
-msgid ":mtgtip:`Ravaging Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6278d679-fc54-4527-ab16-90735574ab9b.jpg?1562256560|https://scryfall.com/card/ptk/118/ravaging-horde?utm_source=api>`"
+msgid ""
+":mtgtip:`Ravaging Horde<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/2/6278d679-fc54-4527-ab16-90735574ab9b.jpg?1562256560|"
+"https://scryfall.com/card/ptk/118/ravaging-horde?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:507
@@ -943,39 +1386,60 @@ msgid "When Ravaging Horde enters the battlefield, destroy target land."
 msgstr ""
 
 #: ../../PTK.rst:512
-msgid ":mtgtip:`Relentless Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57f23cc3-da79-4e08-964f-b52815c40990.jpg?1562256541|https://scryfall.com/card/ptk/119/relentless-assault?utm_source=api>`"
+msgid ""
+":mtgtip:`Relentless Assault<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/7/57f23cc3-da79-4e08-964f-b52815c40990.jpg?1562256541|"
+"https://scryfall.com/card/ptk/119/relentless-assault?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:511
-msgid "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
+msgid ""
+"Untap all creatures that attacked this turn. After this main phase, there is "
+"an additional combat phase followed by an additional main phase."
 msgstr ""
 "Odkręć wszystkie stwory, które atakowały w tej turze. Po tej fazie głównej "
 "jest dodatkowa faza potyczki, po której następuje dodatkowa faza główna."
 
 #: ../../PTK.rst:516
-msgid ":mtgtip:`Renegade Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a75095f4-a77f-4237-ae25-2e6f2f8788c1.jpg?1562257512|https://scryfall.com/card/ptk/120/renegade-troops?utm_source=api>`"
+msgid ""
+":mtgtip:`Renegade Troops<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/7/a75095f4-a77f-4237-ae25-2e6f2f8788c1.jpg?1562257512|"
+"https://scryfall.com/card/ptk/120/renegade-troops?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:520
-msgid ":mtgtip:`Rockslide Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04e5faf1-25c9-46c0-88f2-c59e7b9c08c5.jpg?1562255818|https://scryfall.com/card/ptk/121/rockslide-ambush?utm_source=api>`"
+msgid ""
+":mtgtip:`Rockslide Ambush<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/4/04e5faf1-25c9-46c0-88f2-c59e7b9c08c5.jpg?1562255818|"
+"https://scryfall.com/card/ptk/121/rockslide-ambush?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:519
-msgid "Rockslide Ambush deals damage to target creature equal to the number of Mountains you control."
+msgid ""
+"Rockslide Ambush deals damage to target creature equal to the number of "
+"Mountains you control."
 msgstr ""
 
 #: ../../PTK.rst:524
-msgid ":mtgtip:`Rolling Earthquake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070|https://scryfall.com/card/ptk/122/rolling-earthquake?utm_source=api>`"
+msgid ""
+":mtgtip:`Rolling Earthquake<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070|"
+"https://scryfall.com/card/ptk/122/rolling-earthquake?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:523
-msgid "Rolling Earthquake deals X damage to each creature without horsemanship and each player."
+msgid ""
+"Rolling Earthquake deals X damage to each creature without horsemanship and "
+"each player."
 msgstr ""
 "Ten czar zadaje każdemu stworowi bez jazdy konnej i każdemu graczowi po X "
 "obrażeń."
 
 #: ../../PTK.rst:528
-msgid ":mtgtip:`Stone Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67738ab8-75cf-4ea1-aa1d-b840d94b2601.jpg?1562256568|https://scryfall.com/card/ptk/123/stone-rain?utm_source=api>`"
+msgid ""
+":mtgtip:`Stone Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/7/67738ab8-75cf-4ea1-aa1d-b840d94b2601.jpg?1562256568|https://"
+"scryfall.com/card/ptk/123/stone-rain?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:527
@@ -983,15 +1447,23 @@ msgid "Destroy target land."
 msgstr "Zniszcz wskazany ląd."
 
 #: ../../PTK.rst:532
-msgid ":mtgtip:`Warrior's Oath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d582861a-ca6e-4b74-adf0-3eb588ea5ed2.jpg?1562257982|https://scryfall.com/card/ptk/124/warriors-oath?utm_source=api>`"
+msgid ""
+":mtgtip:`Warrior's Oath<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/5/d582861a-ca6e-4b74-adf0-3eb588ea5ed2.jpg?1562257982|"
+"https://scryfall.com/card/ptk/124/warriors-oath?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:531
-msgid "Take an extra turn after this one. At the beginning of that turn's end step, you lose the game."
+msgid ""
+"Take an extra turn after this one. At the beginning of that turn's end step, "
+"you lose the game."
 msgstr ""
 
 #: ../../PTK.rst:538
-msgid ":mtgtip:`Yellow Scarves Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84460666-4f6b-422c-b20e-dc1651c66e15.jpg?1562257035|https://scryfall.com/card/ptk/125/yellow-scarves-cavalry?utm_source=api>`"
+msgid ""
+":mtgtip:`Yellow Scarves Cavalry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/4/84460666-4f6b-422c-b20e-dc1651c66e15.jpg?1562257035|"
+"https://scryfall.com/card/ptk/125/yellow-scarves-cavalry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:537
@@ -999,7 +1471,10 @@ msgid "Yellow Scarves Cavalry can't block."
 msgstr ""
 
 #: ../../PTK.rst:544
-msgid ":mtgtip:`Yellow Scarves General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06e98691-6227-41f2-a3f4-3131b07a3a6f.jpg?1562255823|https://scryfall.com/card/ptk/126/yellow-scarves-general?utm_source=api>`"
+msgid ""
+":mtgtip:`Yellow Scarves General<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/6/06e98691-6227-41f2-a3f4-3131b07a3a6f.jpg?1562255823|"
+"https://scryfall.com/card/ptk/126/yellow-scarves-general?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:543
@@ -1007,7 +1482,10 @@ msgid "Yellow Scarves General can't block."
 msgstr ""
 
 #: ../../PTK.rst:548
-msgid ":mtgtip:`Yellow Scarves Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ca36a8d-ca44-485e-a219-85814f160c4d.jpg?1562256071|https://scryfall.com/card/ptk/127/yellow-scarves-troops?utm_source=api>`"
+msgid ""
+":mtgtip:`Yellow Scarves Troops<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/c/3ca36a8d-ca44-485e-a219-85814f160c4d.jpg?1562256071|"
+"https://scryfall.com/card/ptk/127/yellow-scarves-troops?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:547
@@ -1015,7 +1493,11 @@ msgid "Yellow Scarves Troops can't block."
 msgstr ""
 
 #: ../../PTK.rst:554
-msgid ":mtgtip:`Yuan Shao, the Indecisive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e9b3794-d0f0-4d28-85cb-22492e195ae1.jpg?1562256551|https://scryfall.com/card/ptk/128/yuan-shao-the-indecisive?utm_source=api>`"
+msgid ""
+":mtgtip:`Yuan Shao, the Indecisive<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/5/e/5e9b3794-d0f0-4d28-85cb-22492e195ae1.jpg?"
+"1562256551|https://scryfall.com/card/ptk/128/yuan-shao-the-indecisive?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:553
@@ -1023,46 +1505,71 @@ msgid "Each creature you control can't be blocked by more than one creature."
 msgstr ""
 
 #: ../../PTK.rst:558
-msgid ":mtgtip:`Yuan Shao's Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2623481-cee3-4a9d-933b-235fcde9a27b.jpg?1562257508|https://scryfall.com/card/ptk/129/yuan-shaos-infantry?utm_source=api>`"
+msgid ""
+":mtgtip:`Yuan Shao's Infantry<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/2/a2623481-cee3-4a9d-933b-235fcde9a27b.jpg?1562257508|"
+"https://scryfall.com/card/ptk/129/yuan-shaos-infantry?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:557
-msgid "Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry can't be blocked this combat."
+msgid ""
+"Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry can't be "
+"blocked this combat."
 msgstr ""
 
 #: ../../PTK.rst:562
-msgid ":mtgtip:`Zodiac Dog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc61aa62-25ee-40a4-9b6e-d6277316b464.jpg?1562257974|https://scryfall.com/card/ptk/130/zodiac-dog?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Dog<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/c/cc61aa62-25ee-40a4-9b6e-d6277316b464.jpg?1562257974|https://"
+"scryfall.com/card/ptk/130/zodiac-dog?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:561
-#: ../../PTK.rst:569
-msgid "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
+#: ../../PTK.rst:561 ../../PTK.rst:569
+msgid ""
+"Mountainwalk (This creature can't be blocked as long as defending player "
+"controls a Mountain.)"
 msgstr ""
 "Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
 "Górą.)"
 
 #: ../../PTK.rst:566
-msgid ":mtgtip:`Zodiac Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46652ae3-6572-4296-939b-0789923180d5.jpg?1562256080|https://scryfall.com/card/ptk/131/zodiac-dragon?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Dragon<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/6/46652ae3-6572-4296-939b-0789923180d5.jpg?1562256080|"
+"https://scryfall.com/card/ptk/131/zodiac-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:565
-msgid "When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand."
+msgid ""
+"When Zodiac Dragon is put into your graveyard from the battlefield, you may "
+"return it to your hand."
 msgstr ""
 
 #: ../../PTK.rst:570
-msgid ":mtgtip:`Zodiac Goat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52510462-2802-4e16-87d4-da376ee2e3be.jpg?1562256096|https://scryfall.com/card/ptk/132/zodiac-goat?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Goat<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/5/2/52510462-2802-4e16-87d4-da376ee2e3be.jpg?1562256096|https://"
+"scryfall.com/card/ptk/132/zodiac-goat?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:574
-msgid ":mtgtip:`Borrowing the East Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96ba9014-d750-4924-aa6f-8b9f421807f9.jpg?1562257056|https://scryfall.com/card/ptk/133/borrowing-the-east-wind?utm_source=api>`"
+msgid ""
+":mtgtip:`Borrowing the East Wind<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/6/96ba9014-d750-4924-aa6f-8b9f421807f9.jpg?1562257056|"
+"https://scryfall.com/card/ptk/133/borrowing-the-east-wind?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:573
-msgid "Borrowing the East Wind deals X damage to each creature with horsemanship and each player."
+msgid ""
+"Borrowing the East Wind deals X damage to each creature with horsemanship "
+"and each player."
 msgstr ""
 
 #: ../../PTK.rst:578
-msgid ":mtgtip:`False Mourning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61bdfefb-f2e2-409c-b5e1-66d24ab3ee5d.jpg?1562256559|https://scryfall.com/card/ptk/134/false-mourning?utm_source=api>`"
+msgid ""
+":mtgtip:`False Mourning<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/1/61bdfefb-f2e2-409c-b5e1-66d24ab3ee5d.jpg?1562256559|"
+"https://scryfall.com/card/ptk/134/false-mourning?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:577
@@ -1071,57 +1578,94 @@ msgstr ""
 "Umieść wskazaną kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../PTK.rst:580
-msgid ":mtgtip:`Forest Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fae9abc7-ecd3-4042-a5b0-5f2b24491fa6.jpg?1562258009|https://scryfall.com/card/ptk/135/forest-bear?utm_source=api>`"
+msgid ""
+":mtgtip:`Forest Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/a/fae9abc7-ecd3-4042-a5b0-5f2b24491fa6.jpg?1562258009|https://"
+"scryfall.com/card/ptk/135/forest-bear?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:588
-msgid ":mtgtip:`Heavy Fog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/499fee7b-1942-4eb9-b1d0-806a1f6c0cd8.jpg?1562256084|https://scryfall.com/card/ptk/136/heavy-fog?utm_source=api>`"
+msgid ""
+":mtgtip:`Heavy Fog<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/9/499fee7b-1942-4eb9-b1d0-806a1f6c0cd8.jpg?1562256084|https://"
+"scryfall.com/card/ptk/136/heavy-fog?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:587
-msgid "Prevent all damage that would be dealt to you this turn by attacking creatures."
+msgid ""
+"Prevent all damage that would be dealt to you this turn by attacking "
+"creatures."
 msgstr ""
 
 #: ../../PTK.rst:592
-msgid ":mtgtip:`Hua Tuo, Honored Physician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bee9c02e-f569-43b5-929a-ec04f661f644.jpg?1562257525|https://scryfall.com/card/ptk/137/hua-tuo-honored-physician?utm_source=api>`"
+msgid ""
+":mtgtip:`Hua Tuo, Honored Physician<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/b/e/bee9c02e-f569-43b5-929a-ec04f661f644.jpg?"
+"1562257525|https://scryfall.com/card/ptk/137/hua-tuo-honored-physician?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:591
-msgid "|tap|: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared."
+msgid ""
+"|tap|: Put target creature card from your graveyard on top of your library. "
+"Activate this ability only during your turn, before attackers are declared."
 msgstr ""
 
 #: ../../PTK.rst:596
-msgid ":mtgtip:`Hunting Cheetah<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56a63628-17e6-4845-96b4-c82c3e7e8fb5.jpg?1562256538|https://scryfall.com/card/ptk/138/hunting-cheetah?utm_source=api>`"
+msgid ""
+":mtgtip:`Hunting Cheetah<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/6/56a63628-17e6-4845-96b4-c82c3e7e8fb5.jpg?1562256538|"
+"https://scryfall.com/card/ptk/138/hunting-cheetah?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:595
-msgid "Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle your library."
+msgid ""
+"Whenever Hunting Cheetah deals damage to an opponent, you may search your "
+"library for a Forest card, reveal that card, put it into your hand, then "
+"shuffle your library."
 msgstr ""
 
 #: ../../PTK.rst:600
-msgid ":mtgtip:`Lady Zhurong, Warrior Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/009661e7-c704-43a1-82e3-7da0b609844e.jpg?1562255446|https://scryfall.com/card/ptk/139/lady-zhurong-warrior-queen?utm_source=api>`"
+msgid ""
+":mtgtip:`Lady Zhurong, Warrior Queen<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/0/0/009661e7-c704-43a1-82e3-7da0b609844e.jpg?"
+"1562255446|https://scryfall.com/card/ptk/139/lady-zhurong-warrior-queen?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:604
-msgid ":mtgtip:`Lone Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d085684-aabf-4b63-a0b3-3deb4679909b.jpg?1562256572|https://scryfall.com/card/ptk/140/lone-wolf?utm_source=api>`"
+msgid ""
+":mtgtip:`Lone Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/d/6d085684-aabf-4b63-a0b3-3deb4679909b.jpg?1562256572|https://"
+"scryfall.com/card/ptk/140/lone-wolf?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:603
-msgid "You may have Lone Wolf assign its combat damage as though it weren't blocked."
+msgid ""
+"You may have Lone Wolf assign its combat damage as though it weren't blocked."
 msgstr ""
 "Możesz sprawić, że ten stwór zada obrażenia bojowe tak, jakby nie został "
 "zablokowany."
 
 #: ../../PTK.rst:608
-msgid ":mtgtip:`Marshaling the Troops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56e4df87-7908-4274-a07f-81d42be89f18.jpg?1562256539|https://scryfall.com/card/ptk/141/marshaling-the-troops?utm_source=api>`"
+msgid ""
+":mtgtip:`Marshaling the Troops<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/6/56e4df87-7908-4274-a07f-81d42be89f18.jpg?1562256539|"
+"https://scryfall.com/card/ptk/141/marshaling-the-troops?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:607
-msgid "Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way."
+msgid ""
+"Tap any number of untapped creatures you control. You gain 4 life for each "
+"creature tapped this way."
 msgstr ""
 
 #: ../../PTK.rst:612
-msgid ":mtgtip:`Meng Huo, Barbarian King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e340647c-fb6d-45a6-9f42-235390b40337.jpg?1562257990|https://scryfall.com/card/ptk/142/meng-huo-barbarian-king?utm_source=api>`"
+msgid ""
+":mtgtip:`Meng Huo, Barbarian King<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/e/3/e340647c-fb6d-45a6-9f42-235390b40337.jpg?"
+"1562257990|https://scryfall.com/card/ptk/142/meng-huo-barbarian-king?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:611
@@ -1129,39 +1673,62 @@ msgid "Other green creatures you control get +1/+1."
 msgstr "Inne zielone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../PTK.rst:614
-msgid ":mtgtip:`Meng Huo's Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1642802-055e-44d2-a261-c2a45ad515e8.jpg?1562257987|https://scryfall.com/card/ptk/143/meng-huos-horde?utm_source=api>`"
+msgid ""
+":mtgtip:`Meng Huo's Horde<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/1/e1642802-055e-44d2-a261-c2a45ad515e8.jpg?1562257987|"
+"https://scryfall.com/card/ptk/143/meng-huos-horde?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:620
-msgid ":mtgtip:`Riding the Dilu Horse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/676fea93-7f39-4fc7-89ab-bb3ea3f15951.jpg?1562256566|https://scryfall.com/card/ptk/144/riding-the-dilu-horse?utm_source=api>`"
+msgid ""
+":mtgtip:`Riding the Dilu Horse<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/7/676fea93-7f39-4fc7-89ab-bb3ea3f15951.jpg?1562256566|"
+"https://scryfall.com/card/ptk/144/riding-the-dilu-horse?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:619
-msgid "Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.)"
+msgid ""
+"Target creature gets +2/+2 and gains horsemanship. (It can't be blocked "
+"except by creatures with horsemanship. This effect lasts indefinitely.)"
 msgstr ""
 
 #: ../../PTK.rst:624
-msgid ":mtgtip:`Slashing Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fbedd66-457a-4e1c-a9f3-fa37dec81c7a.jpg?1562256093|https://scryfall.com/card/ptk/145/slashing-tiger?utm_source=api>`"
+msgid ""
+":mtgtip:`Slashing Tiger<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/f/4fbedd66-457a-4e1c-a9f3-fa37dec81c7a.jpg?1562256093|"
+"https://scryfall.com/card/ptk/145/slashing-tiger?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:623
-msgid "Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn."
+msgid ""
+"Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../PTK.rst:626
-msgid ":mtgtip:`Southern Elephant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87e138c7-1166-4e20-b039-e94c1319ad42.jpg?1562257038|https://scryfall.com/card/ptk/146/southern-elephant?utm_source=api>`"
+msgid ""
+":mtgtip:`Southern Elephant<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/7/87e138c7-1166-4e20-b039-e94c1319ad42.jpg?1562257038|"
+"https://scryfall.com/card/ptk/146/southern-elephant?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:632
-msgid ":mtgtip:`Spoils of Victory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54ed2d85-0e28-40d1-bd44-d36caa0d4e31.jpg?1562256536|https://scryfall.com/card/ptk/147/spoils-of-victory?utm_source=api>`"
+msgid ""
+":mtgtip:`Spoils of Victory<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/4/54ed2d85-0e28-40d1-bd44-d36caa0d4e31.jpg?1562256536|"
+"https://scryfall.com/card/ptk/147/spoils-of-victory?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:631
-msgid "Search your library for a Plains, Island, Swamp, Mountain, or Forest card and put that card onto the battlefield. Then shuffle your library."
+msgid ""
+"Search your library for a Plains, Island, Swamp, Mountain, or Forest card "
+"and put that card onto the battlefield. Then shuffle your library."
 msgstr ""
 
 #: ../../PTK.rst:636
-msgid ":mtgtip:`Spring of Eternal Peace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6862d7a-04ee-48ac-a5b3-46a4e8694d5b.jpg?1562258007|https://scryfall.com/card/ptk/148/spring-of-eternal-peace?utm_source=api>`"
+msgid ""
+":mtgtip:`Spring of Eternal Peace<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/6/f6862d7a-04ee-48ac-a5b3-46a4e8694d5b.jpg?1562258007|"
+"https://scryfall.com/card/ptk/148/spring-of-eternal-peace?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:635
@@ -1169,7 +1736,10 @@ msgid "You gain 8 life."
 msgstr "Zyskaj 8 żyć."
 
 #: ../../PTK.rst:640
-msgid ":mtgtip:`Stalking Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31d39e5c-40c7-4f1a-8576-c8b4d12a4bbc.jpg?1562256062|https://scryfall.com/card/ptk/149/stalking-tiger?utm_source=api>`"
+msgid ""
+":mtgtip:`Stalking Tiger<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/1/31d39e5c-40c7-4f1a-8576-c8b4d12a4bbc.jpg?1562256062|"
+"https://scryfall.com/card/ptk/149/stalking-tiger?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:639
@@ -1177,18 +1747,25 @@ msgid "Stalking Tiger can't be blocked by more than one creature."
 msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../PTK.rst:644
-msgid ":mtgtip:`Taoist Hermit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d818c231-8d66-4024-91de-fe29f8622902.jpg?1562257985|https://scryfall.com/card/ptk/150/taoist-hermit?utm_source=api>`"
+msgid ""
+":mtgtip:`Taoist Hermit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/8/d818c231-8d66-4024-91de-fe29f8622902.jpg?1562257985|"
+"https://scryfall.com/card/ptk/150/taoist-hermit?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:643
-#: ../../PTK.rst:703
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+#: ../../PTK.rst:643 ../../PTK.rst:703
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
 msgstr ""
 "Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
 #: ../../PTK.rst:648
-msgid ":mtgtip:`Taoist Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/023ae64a-7888-4ad2-b879-0649d8e341ac.jpg?1562255815|https://scryfall.com/card/ptk/151/taoist-mystic?utm_source=api>`"
+msgid ""
+":mtgtip:`Taoist Mystic<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/2/023ae64a-7888-4ad2-b879-0649d8e341ac.jpg?1562255815|"
+"https://scryfall.com/card/ptk/151/taoist-mystic?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:647
@@ -1196,7 +1773,10 @@ msgid "Taoist Mystic can't be blocked by creatures with horsemanship."
 msgstr ""
 
 #: ../../PTK.rst:652
-msgid ":mtgtip:`Taunting Challenge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4620867c-a3a6-4c81-b923-24007367132e.jpg?1562256078|https://scryfall.com/card/ptk/152/taunting-challenge?utm_source=api>`"
+msgid ""
+":mtgtip:`Taunting Challenge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/6/4620867c-a3a6-4c81-b923-24007367132e.jpg?1562256078|"
+"https://scryfall.com/card/ptk/152/taunting-challenge?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:651
@@ -1205,27 +1785,42 @@ msgstr ""
 "Wszystkie stwory mogące blokować wskazanego stwora w tej turze, robią to."
 
 #: ../../PTK.rst:656
-msgid ":mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/306d22ae-657e-4b52-8cd9-6fc3df9e8376.jpg?1562256061|https://scryfall.com/card/ptk/153/three-visits?utm_source=api>`"
+msgid ""
+":mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/0/306d22ae-657e-4b52-8cd9-6fc3df9e8376.jpg?1562256061|"
+"https://scryfall.com/card/ptk/153/three-visits?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:655
-msgid "Search your library for a Forest card, put that card onto the battlefield, then shuffle your library."
+msgid ""
+"Search your library for a Forest card, put that card onto the battlefield, "
+"then shuffle your library."
 msgstr ""
 
 #: ../../PTK.rst:660
-msgid ":mtgtip:`Trained Cheetah<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab242eab-5cab-41a0-bcf8-93a6919e4558.jpg?1618252898|https://scryfall.com/card/ptk/154/trained-cheetah?utm_source=api>`"
+msgid ""
+":mtgtip:`Trained Cheetah<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/b/ab242eab-5cab-41a0-bcf8-93a6919e4558.jpg?1618252898|"
+"https://scryfall.com/card/ptk/154/trained-cheetah?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:659
-msgid "Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn."
+msgid ""
+"Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../PTK.rst:662
-msgid ":mtgtip:`Trained Jackal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01deb3cc-91e8-4ef3-964f-f36c6a21207c.jpg?1562255814|https://scryfall.com/card/ptk/155/trained-jackal?utm_source=api>`"
+msgid ""
+":mtgtip:`Trained Jackal<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/1/01deb3cc-91e8-4ef3-964f-f36c6a21207c.jpg?1562255814|"
+"https://scryfall.com/card/ptk/155/trained-jackal?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:668
-msgid ":mtgtip:`Trip Wire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4eb1e16f-002e-4a81-ba41-cfe41f3a9071.jpg?1562256090|https://scryfall.com/card/ptk/156/trip-wire?utm_source=api>`"
+msgid ""
+":mtgtip:`Trip Wire<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/e/4eb1e16f-002e-4a81-ba41-cfe41f3a9071.jpg?1562256090|https://"
+"scryfall.com/card/ptk/156/trip-wire?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:667
@@ -1233,7 +1828,11 @@ msgid "Destroy target creature with horsemanship."
 msgstr ""
 
 #: ../../PTK.rst:672
-msgid ":mtgtip:`Wielding the Green Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b138167-8129-4109-a58b-af26c95577e4.jpg?1562256055|https://scryfall.com/card/ptk/157/wielding-the-green-dragon?utm_source=api>`"
+msgid ""
+":mtgtip:`Wielding the Green Dragon<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/2/b/2b138167-8129-4109-a58b-af26c95577e4.jpg?"
+"1562256055|https://scryfall.com/card/ptk/157/wielding-the-green-dragon?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:671
@@ -1241,69 +1840,103 @@ msgid "Target creature gets +4/+4 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../PTK.rst:676
-msgid ":mtgtip:`Wolf Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/290f395d-0827-4f62-b117-4766d4ab5dca.jpg?1562255855|https://scryfall.com/card/ptk/158/wolf-pack?utm_source=api>`"
+msgid ""
+":mtgtip:`Wolf Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/2/9/290f395d-0827-4f62-b117-4766d4ab5dca.jpg?1562255855|https://"
+"scryfall.com/card/ptk/158/wolf-pack?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:675
-msgid "You may have Wolf Pack assign its combat damage as though it weren't blocked."
+msgid ""
+"You may have Wolf Pack assign its combat damage as though it weren't blocked."
 msgstr ""
 "Możesz sprawić, że ten stwór przypisze swoje obrażenia bojowe tak, jakby nie "
 "został zablokowany."
 
 #: ../../PTK.rst:680
-msgid ":mtgtip:`Zodiac Horse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb24cb19-3409-45f7-b0e0-7c652064d2dd.jpg?1562258011|https://scryfall.com/card/ptk/159/zodiac-horse?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Horse<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/b/fb24cb19-3409-45f7-b0e0-7c652064d2dd.jpg?1562258011|"
+"https://scryfall.com/card/ptk/159/zodiac-horse?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:679
-msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
+msgid ""
+"Islandwalk (This creature can't be blocked as long as defending player "
+"controls an Island.)"
 msgstr ""
 "Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
 "Wyspą.)"
 
 #: ../../PTK.rst:684
-msgid ":mtgtip:`Zodiac Monkey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e98eb0b-c3b5-4561-b8a2-f22bd0fe1115.jpg?1562256550|https://scryfall.com/card/ptk/160/zodiac-monkey?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Monkey<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/e/5e98eb0b-c3b5-4561-b8a2-f22bd0fe1115.jpg?1562256550|"
+"https://scryfall.com/card/ptk/160/zodiac-monkey?utm_source=api>`"
 msgstr ""
 
-#: ../../PTK.rst:683
-#: ../../PTK.rst:691
-#: ../../PTK.rst:699
-msgid "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
+#: ../../PTK.rst:683 ../../PTK.rst:691 ../../PTK.rst:699
+msgid ""
+"Forestwalk (This creature can't be blocked as long as defending player "
+"controls a Forest.)"
 msgstr ""
 "Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Lasem.)"
 
 #: ../../PTK.rst:688
-msgid ":mtgtip:`Zodiac Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a731b3a-0065-448d-841c-28700d78a4fd.jpg?1562255850|https://scryfall.com/card/ptk/161/zodiac-ox?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/1/a/1a731b3a-0065-448d-841c-28700d78a4fd.jpg?1562255850|https://"
+"scryfall.com/card/ptk/161/zodiac-ox?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:692
-msgid ":mtgtip:`Zodiac Rabbit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab4211d0-deef-4113-84e0-47ce0df7a5c6.jpg?1562257519|https://scryfall.com/card/ptk/162/zodiac-rabbit?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Rabbit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/b/ab4211d0-deef-4113-84e0-47ce0df7a5c6.jpg?1562257519|"
+"https://scryfall.com/card/ptk/162/zodiac-rabbit?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:696
-msgid ":mtgtip:`Zodiac Rooster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81dd362e-42f6-4eeb-9fe7-0d9cbeb4f21e.jpg?1618205577|https://scryfall.com/card/ptk/163/zodiac-rooster?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Rooster<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/1/81dd362e-42f6-4eeb-9fe7-0d9cbeb4f21e.jpg?1618205577|"
+"https://scryfall.com/card/ptk/163/zodiac-rooster?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:695
-msgid "Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)"
+msgid ""
+"Plainswalk (This creature can't be blocked as long as defending player "
+"controls a Plains.)"
 msgstr ""
 "Podbój równin (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Równiną.)"
 
 #: ../../PTK.rst:700
-msgid ":mtgtip:`Zodiac Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aafd78d5-df9f-46a3-a634-ebf7634a6358.jpg?1562257517|https://scryfall.com/card/ptk/164/zodiac-tiger?utm_source=api>`"
+msgid ""
+":mtgtip:`Zodiac Tiger<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/a/aafd78d5-df9f-46a3-a634-ebf7634a6358.jpg?1562257517|"
+"https://scryfall.com/card/ptk/164/zodiac-tiger?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:706
-msgid ":mtgtip:`Zuo Ci, the Mocking Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3425241-efdc-4261-a2bb-58fbf4a9fe8c.jpg?1562257992|https://scryfall.com/card/ptk/165/zuo-ci-the-mocking-sage?utm_source=api>`"
+msgid ""
+":mtgtip:`Zuo Ci, the Mocking Sage<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/e/3/e3425241-efdc-4261-a2bb-58fbf4a9fe8c.jpg?"
+"1562257992|https://scryfall.com/card/ptk/165/zuo-ci-the-mocking-sage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:705
-msgid "Zuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship."
+msgid ""
+"Zuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship."
 msgstr ""
 
 #: ../../PTK.rst:710
-msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed82f466-ee1c-4942-9b4d-a8bffd548b30.jpg?1562257998|https://scryfall.com/card/ptk/166/plains?utm_source=api>`"
+msgid ""
+":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/d/ed82f466-ee1c-4942-9b4d-a8bffd548b30.jpg?1562257998|https://"
+"scryfall.com/card/ptk/166/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:709
@@ -1311,7 +1944,10 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../PTK.rst:714
-msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76033c90-1e06-473b-ba44-a94e16ac5348.jpg?1562257019|https://scryfall.com/card/ptk/169/island?utm_source=api>`"
+msgid ""
+":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/7/6/76033c90-1e06-473b-ba44-a94e16ac5348.jpg?1562257019|https://"
+"scryfall.com/card/ptk/169/island?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:713
@@ -1319,7 +1955,10 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../PTK.rst:718
-msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17b4a8a4-caa8-472d-bf90-ee70250bc0ab.jpg?1562255845|https://scryfall.com/card/ptk/172/swamp?utm_source=api>`"
+msgid ""
+":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/1/7/17b4a8a4-caa8-472d-bf90-ee70250bc0ab.jpg?1562255845|https://"
+"scryfall.com/card/ptk/172/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:717
@@ -1327,7 +1966,10 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../PTK.rst:722
-msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95046649-bc6d-46f5-8dbc-85d3fa5097c4.jpg?1562257051|https://scryfall.com/card/ptk/175/mountain?utm_source=api>`"
+msgid ""
+":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/9/5/95046649-bc6d-46f5-8dbc-85d3fa5097c4.jpg?1562257051|https://"
+"scryfall.com/card/ptk/175/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:721
@@ -1335,7 +1977,10 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../PTK.rst:725
-msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6677baa6-a38f-48f2-9ff2-2e3321b22959.jpg?1562256563|https://scryfall.com/card/ptk/178/forest?utm_source=api>`"
+msgid ""
+":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/6/6677baa6-a38f-48f2-9ff2-2e3321b22959.jpg?1562256563|https://"
+"scryfall.com/card/ptk/178/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../PTK.rst:725
