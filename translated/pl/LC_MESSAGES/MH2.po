@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-23 16:38+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-05-23 18:30+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../../MH2.rst:5
 msgid ":mtgexp:`MH2` Modern Horizons 2"
@@ -27,15 +29,22 @@ msgstr ""
 #: ../../MH2.rst:9
 #: ../../MH2.rst:69
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../MH2.rst:11
 msgid "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
+"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../MH2.rst:13
 msgid "Eternalize |mana_2|\\ |mana_w|\\ |mana_w| (|mana_2|\\ |mana_w|\\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. Eternalize only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_2|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Smok 4/4 bez kosztu many. Uwieczniaj "
+"tylko jako obrzęd.)"
 
 #: ../../MH2.rst:20
 msgid ":mtgtip:`Rishadan Dockhand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc488a4c-2885-4727-8317-da93aee8fced.jpg?1621546689|https://scryfall.com/card/mh2/59/rishadan-dockhand?utm_source=api>`"
@@ -44,10 +53,12 @@ msgstr ""
 #: ../../MH2.rst:17
 msgid "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Wyspą.)"
 
 #: ../../MH2.rst:19
 msgid "|mana_1|, |tap|: Tap target land."
-msgstr ""
+msgstr "|mana_1|, |tap|: Przekręć wskazany ląd."
 
 #: ../../MH2.rst:28
 msgid ":mtgtip:`Grief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1621584132|https://scryfall.com/card/mh2/87/grief?utm_source=api>`"
@@ -55,15 +66,17 @@ msgstr ""
 
 #: ../../MH2.rst:23
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../MH2.rst:25
 msgid "When Grief enters the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player discards that card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej nie-lądową kartę. Ów gracz odrzuca ową kartę."
 
 #: ../../MH2.rst:27
 msgid "Evoke—Exile a black card from your hand."
-msgstr ""
+msgstr "Przyzwanie—Wygnaj czarną kartę z twojej ręki."
 
 #: ../../MH2.rst:34
 msgid ":mtgtip:`Profane Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2afc6f7d-ab59-4d64-bd11-6bd0fd4bfcd2.jpg?1621544957|https://scryfall.com/card/mh2/97/profane-tutor?utm_source=api>`"
@@ -72,10 +85,16 @@ msgstr ""
 #: ../../MH2.rst:31
 msgid "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
+"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH2.rst:33
 msgid "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../MH2.rst:38
 msgid ":mtgtip:`Unmarked Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1621545625|https://scryfall.com/card/mh2/106/unmarked-grave?utm_source=api>`"
@@ -84,6 +103,8 @@ msgstr ""
 #: ../../MH2.rst:37
 msgid "Search your library for a nonlegendary card, put that card into your graveyard, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece nielegendarną kartę, umieść ową kartę w twoim "
+"cmentarzu, po czym przetasuj."
 
 #: ../../MH2.rst:46
 msgid ":mtgtip:`Flametongue Yearling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33ab05b5-d6f5-439c-9aed-1a58ceb282ad.jpg?1621546133|https://scryfall.com/card/mh2/125/flametongue-yearling?utm_source=api>`"
@@ -92,14 +113,20 @@ msgstr ""
 #: ../../MH2.rst:41
 msgid "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_2|.)"
 
 #: ../../MH2.rst:43
 msgid "Flametongue Yearling enters the battlefield with a +1/+1 counter on it for each time it was kicked."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../MH2.rst:45
 msgid "When Flametongue Yearling enters the battlefield, it deals damage equal to its power to target creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi "
+"obrażenia równe swojej sile."
 
 #: ../../MH2.rst:56
 msgid ":mtgtip:`Thrasta, Tempest's Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6172da14-9a87-4cf9-aff5-aca3470a67ef.jpg?1621565833|https://scryfall.com/card/mh2/178/thrasta-tempests-roar?utm_source=api>`"
@@ -108,18 +135,22 @@ msgstr ""
 #: ../../MH2.rst:49
 msgid "This spell costs |mana_3| less to cast for each other spell cast this turn."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej za każdy inny czar rzucony w "
+"tej turze."
 
 #: ../../MH2.rst:51
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../MH2.rst:53
 msgid "Trample over planeswalkers (This creature can deal excess combat damage to the controller of the planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie wędrowców (Ten stwór może zadać nadmiar obrażeń bojowych władcy "
+"atakowanego przez siebie wędrowca.)"
 
 #: ../../MH2.rst:55
 msgid "Thrasta, Tempest's Roar has hexproof as long as it entered the battlefield this turn."
-msgstr ""
+msgstr "Ten stwór ma antyklątwę o ile wszedł na pole bitwy w tej turze."
 
 #: ../../MH2.rst:66
 msgid ":mtgtip:`Dakkon, Shadow Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0013a9c4-77a1-418d-85c2-bd68b65cd3d4.jpg?1621544474|https://scryfall.com/card/mh2/192/dakkon-shadow-slayer?utm_source=api>`"
@@ -128,18 +159,22 @@ msgstr ""
 #: ../../MH2.rst:59
 msgid "Dakkon, Shadow Slayer enters the battlefield with a number of loyalty counters on him equal to the number of lands you control."
 msgstr ""
+"Ten wędrowiec wchodzi na pole bitwy mając tyle znaczników lojalności, iloma "
+"lądami władasz."
 
 #: ../../MH2.rst:61
 msgid "+1: Surveil 2."
-msgstr ""
+msgstr "+1: Szpieguj 2."
 
 #: ../../MH2.rst:63
 msgid "−3: Exile target creature."
-msgstr ""
+msgstr "–3: Wygnaj wskazanego stwora."
 
 #: ../../MH2.rst:65
 msgid "−6: You may put an artifact card from your hand or graveyard onto the battlefield."
 msgstr ""
+"–6: Możesz umieścić kartę artefaktu z twojej ręki lub cmentarza na polu "
+"bitwy."
 
 #: ../../MH2.rst:72
 msgid ":mtgtip:`Yusri, Fortune's Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfab9e33-0d07-46e6-be06-1eaffe26cbfd.jpg?1621602235|https://scryfall.com/card/mh2/218/yusri-fortunes-flame?utm_source=api>`"
@@ -148,6 +183,10 @@ msgstr ""
 #: ../../MH2.rst:71
 msgid "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yursi deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór atakuje, wybierz liczbę między 1 a 5. Rzuć tyloma "
+"monetami. Za każdy wygrany rzut, dobierz kartę. Za każdy przegrany rzut, ten "
+"stwór zadaje tobie 2 obrażenia. Jeśli wygrasz pięć rzutów w ten sposób, "
+"możesz w tej turze rzucać czary z twojej ręki bez płacenia ich kosztów many."
 
 #: ../../MH2.rst:76
 msgid ":mtgtip:`Brainstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10b9a9f6-5be5-47aa-8e2f-576d06c5abb9.jpg?1620398734|https://scryfall.com/card/mh2/223/brainstone?utm_source=api>`"
@@ -156,6 +195,8 @@ msgstr ""
 #: ../../MH2.rst:75
 msgid "|mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two cards from your hand on top of your library in any order."
 msgstr ""
+"|mana_2|,|tap|, poświęć ten artefakt: Dobierz trzy karty, po czym umieść "
+"dwie karty z twojej ręki dowolnie na wierzchu twojej biblioteki."
 
 #: ../../MH2.rst:80
 msgid ":mtgtip:`Diamond Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/317a8ed5-1ec2-4a5d-a606-8c6ba781c8a3.jpg?1620398740|https://scryfall.com/card/mh2/225/diamond-lion?utm_source=api>`"
@@ -164,6 +205,8 @@ msgstr ""
 #: ../../MH2.rst:79
 msgid "|tap|, Discard your hand, Sacrifice Diamond Lion: Add three mana of any one color. Activate only as an instant."
 msgstr ""
+"|tap|, odrzuć twoją rękę, poświęć tego stwora: Weź trzy many dowolnego "
+"jednego koloru. Możesz aktywować tylko jako sztuczkę."
 
 #: ../../MH2.rst:84
 msgid ":mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1620341257|https://scryfall.com/card/mh2/244/arid-mesa?utm_source=api>`"
@@ -172,6 +215,8 @@ msgstr ""
 #: ../../MH2.rst:83
 msgid "|tap|, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Góry lub Równiny, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MH2.rst:88
 msgid ":mtgtip:`Marsh Flats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42.jpg?1620341288|https://scryfall.com/card/mh2/248/marsh-flats?utm_source=api>`"
@@ -180,6 +225,8 @@ msgstr ""
 #: ../../MH2.rst:87
 msgid "|tap|, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Równiny lub Bagna, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MH2.rst:92
 msgid ":mtgtip:`Misty Rainforest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1620341304|https://scryfall.com/card/mh2/250/misty-rainforest?utm_source=api>`"
@@ -188,6 +235,8 @@ msgstr ""
 #: ../../MH2.rst:91
 msgid "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MH2.rst:96
 msgid ":mtgtip:`Scalding Tarn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71e491c5-8c07-449b-b2f1-ffa052e6d311.jpg?1620341321|https://scryfall.com/card/mh2/254/scalding-tarn?utm_source=api>`"
@@ -196,6 +245,8 @@ msgstr ""
 #: ../../MH2.rst:95
 msgid "|tap|, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Wyspy lub Góry, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MH2.rst:106
 msgid ":mtgtip:`Urza's Saga<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1621127724|https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api>`"
@@ -204,18 +255,25 @@ msgstr ""
 #: ../../MH2.rst:99
 msgid "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
 msgstr ""
+"(Umieszczając tę Sagę oraz po kroku dobierania, dodaj znacznik opowieści. "
+"Poświęć po III.)"
 
 #: ../../MH2.rst:101
 msgid "I — Urza's Saga gains \"|tap|: Add |colorless|.\""
-msgstr ""
+msgstr "I — Ten permanent zyskuje \"|tap|: Weź |colorless|.\""
 
 #: ../../MH2.rst:103
 msgid "II — Urza's Saga gains \"|mana_2|, |tap|: Create a 0/0 colorless Construct artifact creature token with 'This creature gets +1/+1 for each artifact you control.'\""
 msgstr ""
+"II — Ten permanent zyskuje \"|mana_2|, |tap|: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Konstrukt 0/0 mający 'Ten stwór dostaje +1/+1 za każdy "
+"artefakt pod twoim władaniem.'\""
 
 #: ../../MH2.rst:105
 msgid "III — Search your library for an artifact card with mana cost |mana_0| or |mana_1|, put it onto the battlefield, then shuffle."
 msgstr ""
+"III — Wyszukaj w twojej bibliotece kartę artefaktu o koszcie |mana_0| lub "
+"|mana_1|, umieść go na polu bitwy, po czym przetasuj."
 
 #: ../../MH2.rst:110
 msgid ":mtgtip:`Verdant Catacombs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1620341338|https://scryfall.com/card/mh2/260/verdant-catacombs?utm_source=api>`"
@@ -224,6 +282,8 @@ msgstr ""
 #: ../../MH2.rst:109
 msgid "|tap|, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
+"Bagna lub Lasu, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MH2.rst:114
 msgid ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1620341582|https://scryfall.com/card/mh2/267/counterspell?utm_source=api>`"
@@ -231,7 +291,7 @@ msgstr ""
 
 #: ../../MH2.rst:113
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../MH2.rst:118
 msgid ":mtgtip:`Cabal Coffers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1621546348|https://scryfall.com/card/mh2/301/cabal-coffers?utm_source=api>`"
@@ -239,7 +299,7 @@ msgstr ""
 
 #: ../../MH2.rst:117
 msgid "|mana_2|, |tap|: Add |mana_b| for each Swamp you control."
-msgstr ""
+msgstr "|mana_2|, |tap|: Weź |mana_b| za każde Bagno pod twoim władaniem."
 
 #: ../../MH2.rst:122
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5aa2449-6b74-4319-858f-caa9282da5c1.jpg?1621618706|https://scryfall.com/card/mh2/481/plains?utm_source=api>`"
@@ -247,7 +307,7 @@ msgstr ""
 
 #: ../../MH2.rst:121
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../MH2.rst:126
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423927e6-2419-4d88-b0c4-425e5cac1a3f.jpg?1621759573|https://scryfall.com/card/mh2/483/island?utm_source=api>`"
@@ -255,7 +315,7 @@ msgstr ""
 
 #: ../../MH2.rst:125
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../MH2.rst:130
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac8546d1-bfea-4cf7-bfa1-48555ea81bd4.jpg?1621618860|https://scryfall.com/card/mh2/485/swamp?utm_source=api>`"
@@ -263,7 +323,7 @@ msgstr ""
 
 #: ../../MH2.rst:129
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../MH2.rst:134
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4be3032-c55b-43b5-9ae0-f4e7470f4f83.jpg?1621618845|https://scryfall.com/card/mh2/487/mountain?utm_source=api>`"
@@ -271,7 +331,7 @@ msgstr ""
 
 #: ../../MH2.rst:133
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../MH2.rst:138
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e93212-da68-48f8-9aeb-ee5eb92e9a54.jpg?1621618812|https://scryfall.com/card/mh2/489/forest?utm_source=api>`"
@@ -279,7 +339,7 @@ msgstr ""
 
 #: ../../MH2.rst:137
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../MH2.rst:144
 msgid ":mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1620346040|https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`"
@@ -287,11 +347,12 @@ msgstr ""
 
 #: ../../MH2.rst:141
 msgid "As Sanctum Prelate enters the battlefield, choose a number."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
 
 #: ../../MH2.rst:143
 msgid "Noncreature spells with mana value equal to the chosen number can't be cast."
 msgstr ""
+"Nie można rzucać niestworowych czarów o skrócie many równym wybranej lczbie."
 
 #: ../../MH2.rst:150
 msgid ":mtgtip:`Force of Negation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96.jpg?1621546621|https://scryfall.com/card/mh2/999-FON/force-of-negation?utm_source=api>`"
@@ -300,10 +361,14 @@ msgstr ""
 #: ../../MH2.rst:147
 msgid "If it's not your turn, you may exile a blue card from your hand rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli nie jest twoja tura, możesz wygnać niebieską kartę z twojej ręki "
+"zamiast płacić koszt many tego czaru."
 
 #: ../../MH2.rst:149
 msgid "Counter target noncreature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany nie-stworowy czar. Jeśli ów czar zostanie skontrowany w "
+"ten sposób, wygnaj go zamiast umieszczać go w cmentarzu właściciela."
 
 #: ../../MH2.rst:153
 msgid ":mtgtip:`Giver of Runes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2bdcfec-d412-442c-91c8-53022c8e316d.jpg?1621546631|https://scryfall.com/card/mh2/999-GOR/giver-of-runes?utm_source=api>`"
@@ -312,3 +377,5 @@ msgstr ""
 #: ../../MH2.rst:153
 msgid "|tap|: Another target creature you control gains protection from colorless or from the color of your choice until end of turn."
 msgstr ""
+"|tap|: Inny wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę "
+"przed bezkolorowym lub od wybranego przez ciebie koloru."
