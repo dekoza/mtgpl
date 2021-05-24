@@ -5,12 +5,24 @@
 ================================
 
 
+:mtgtip:`Prismatic Ending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/825969b9-3c70-4fca-8cab-696e9ca7cdb2.jpg?1621855411|https://scryfall.com/card/mh2/25/prismatic-ending?utm_source=api>`
+   Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.
+
+
 :mtgtip:`Timeless Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96fe8889-0ec8-421a-83a4-5d00ab4804db.jpg?1621544471|https://scryfall.com/card/mh2/35/timeless-dragon?utm_source=api>`
    Flying
 
    Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
    Eternalize |mana_2|\ |mana_w|\ |mana_w| (|mana_2|\ |mana_w|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. Eternalize only as a sorcery.)
+
+
+:mtgtip:`Fractured Sanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/413ac8fb-5156-4f90-81f5-1879e273c9e2.jpg?1621856856|https://scryfall.com/card/mh2/44/fractured-sanity?utm_source=api>`
+   Each opponent mills fourteen cards.
+
+   Cycling |mana_1|\ |mana_u|
+
+   When you cycle Fractured Sanity, each opponent mills four cards.
 
 
 :mtgtip:`Rishadan Dockhand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc488a4c-2885-4727-8317-da93aee8fced.jpg?1621546689|https://scryfall.com/card/mh2/59/rishadan-dockhand?utm_source=api>`
@@ -45,6 +57,24 @@
    When Flametongue Yearling enters the battlefield, it deals damage equal to its power to target creature.
 
 
+:mtgtip:`Chitterfang, Squirrel General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/1785cf85-1ac0-4246-9b89-1a8221a8e1b2.jpg?1621864657|https://scryfall.com/card/mh2/151/chitterfang-squirrel-general?utm_source=api>`
+   Forestwalk (This creature can't be blocked as long as defending player controls a forest.)
+
+   If one or more token would be created under your control, those tokens plus that many 1/1 green squirrel creature tokens are created instead.
+
+   |mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of turn.
+
+
+:mtgtip:`Squirrel Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed6ab503-5e9a-4339-a0e7-a909b2908f41.jpg?1621855956|https://scryfall.com/card/mh2/174/squirrel-sanctuary?utm_source=api>`
+   When Squirrel Sanctuary enters the battlefield, create a 1/1 green Squirrel creature token.
+
+   Whenever a nontoken creature you control dies, you may pay |mana_1|. If you do, return Squirrel Sanctuary to its owner's hand.
+
+
+:mtgtip:`Squirrel Sovereign<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f739d55-30d6-4879-872a-82c6778113de.jpg?1621856375|https://scryfall.com/card/mh2/175/squirrel-sovereign?utm_source=api>`
+   Other Squirrels you control get +1/+1.
+
+
 :mtgtip:`Thrasta, Tempest's Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6172da14-9a87-4cf9-aff5-aca3470a67ef.jpg?1621565833|https://scryfall.com/card/mh2/178/thrasta-tempests-roar?utm_source=api>`
    This spell costs |mana_3| less to cast for each other spell cast this turn.
 
@@ -63,6 +93,12 @@
    −3: Exile target creature.
 
    −6: You may put an artifact card from your hand or graveyard onto the battlefield.
+
+
+:mtgtip:`Ravenous Squirrel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4.jpg?1621856174|https://scryfall.com/card/mh2/211/ravenous-squirrel?utm_source=api>`
+   Whenever you sacrifice an artifact or creature, put a +1/+1 counter on Ravenous Squirrel.
+
+   |mana_1|\ |mana_b|\ |mana_g|, Sacrifice an artifact or creature: You gain one life and draw a card.
 
 
 :mtgtip:`Yusri, Fortune's Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfab9e33-0d07-46e6-be06-1eaffe26cbfd.jpg?1621602235|https://scryfall.com/card/mh2/218/yusri-fortunes-flame?utm_source=api>`
@@ -113,6 +149,10 @@
    Counter target spell.
 
 
+:mtgtip:`Squirrel Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa6bfc95-ec7e-46dd-88fd-b0e1ba48bfbc.jpg?1621855811|https://scryfall.com/card/mh2/286/squirrel-mob?utm_source=api>`
+   Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
+
+
 :mtgtip:`Cabal Coffers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1621546348|https://scryfall.com/card/mh2/301/cabal-coffers?utm_source=api>`
    |mana_2|, |tap|: Add |mana_b| for each Swamp you control.
 
@@ -141,14 +181,4 @@
    As Sanctum Prelate enters the battlefield, choose a number.
 
    Noncreature spells with mana value equal to the chosen number can't be cast.
-
-
-:mtgtip:`Force of Negation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96.jpg?1621546621|https://scryfall.com/card/mh2/999-FON/force-of-negation?utm_source=api>`
-   If it's not your turn, you may exile a blue card from your hand rather than pay this spell's mana cost.
-
-   Counter target noncreature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
-
-
-:mtgtip:`Giver of Runes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2bdcfec-d412-442c-91c8-53022c8e316d.jpg?1621546631|https://scryfall.com/card/mh2/999-GOR/giver-of-runes?utm_source=api>`
-   |tap|: Another target creature you control gains protection from colorless or from the color of your choice until end of turn.
 

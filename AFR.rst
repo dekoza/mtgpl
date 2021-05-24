@@ -9,7 +9,7 @@
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
 
 
-:mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621543504|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`
+:mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621816019|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`
    Whenever a creature you control dies, put a loyalty counter on Lolth, Spider Queen.
 
    0: You draw a card and you lose 1 life.
@@ -37,13 +37,13 @@
    Whenever another creature enters the battlefield under your control, you gain 1 life.
 
 
-:mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1621544593|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`
+:mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1621816011|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`
    Each creature you control gets +2/+0 for each Equipment attached to it.
 
    You may pay |mana_0| rather than pay the equip cost of the first equip ability you activate each turn.
 
 
-:mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1621565811|https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`
+:mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1621816003|https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`
    Double strike
 
    When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary 4/1 green Cat creature token with trample.
