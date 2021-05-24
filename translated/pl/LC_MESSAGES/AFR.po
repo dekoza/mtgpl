@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-24 20:21+0200\n"
-"PO-Revision-Date: 2021-05-23 20:22+0000\n"
+"PO-Revision-Date: 2021-05-24 19:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -35,6 +35,9 @@ msgid ""
 "opponent controls with mana value 2 or less until Portable Hole leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wskazany nielądowy "
+"permanent o skrócie many 2 lub mniejszym pod władaniem przeciwnika dopóki "
+"niniejszy artefakt nie opuści pola bitwy."
 
 #: ../../AFR.rst:20
 msgid ""
@@ -48,14 +51,17 @@ msgid ""
 "Whenever a creature you control dies, put a loyalty counter on Lolth, Spider "
 "Queen."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, umieść znacznik lojalności na tym "
+"wędrowcu."
 
 #: ../../AFR.rst:15
 msgid "0: You draw a card and you lose 1 life."
-msgstr ""
+msgstr "0: Dobierz kartę i strać 1 życie."
 
 #: ../../AFR.rst:17
 msgid "−3: Create two 2/1 black Spider creature tokens with menace and reach."
 msgstr ""
+"–3: Stwórz dwa żetony czarnego stwora Pająk 2/1 ze złowrogością i zasięgiem."
 
 #: ../../AFR.rst:19
 msgid ""
@@ -63,6 +69,9 @@ msgid ""
 "one or more creatures you control, if that player lost less than 8 life this "
 "turn, they lose life equal to the difference.\""
 msgstr ""
+"–8: Dostajesz emblemat mający \"Ilekroć przeciwnik otrzyma obrażenia od co "
+"najmniej jednego stwora pod twoim władaniem, jeśli ów gracz stracił w tej "
+"turze mniej niż 8 żyć, ów gracz traci życia równe różnicy.\""
 
 #: ../../AFR.rst:24
 msgid ""
@@ -74,6 +83,7 @@ msgstr ""
 #: ../../AFR.rst:23
 msgid "Destroy target non-Angel, non-Demon, non-Devil, non-Dragon creature."
 msgstr ""
+"Zniszcz wskazanego stwora nie będącego Aniołem, Demonem, Diabłem ani Smokiem."
 
 #: ../../AFR.rst:32
 msgid ""
@@ -84,7 +94,7 @@ msgstr ""
 
 #: ../../AFR.rst:27
 msgid "Equipped creature gets +2/+0 and has deathtouch."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0 i ma dotyk śmierci."
 
 #: ../../AFR.rst:29
 msgid ""
@@ -92,10 +102,13 @@ msgid ""
 "gains \"Whenever equipped creature deals combat damage to a player, that "
 "player loses the game.\""
 msgstr ""
+"|mana_5|\\ |mana_b|\\ |mana_b|\\ |mana_b|: Do końca tury ten artefakt "
+"zyskuje \"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ów gracz "
+"przegrywa grę.\""
 
 #: ../../AFR.rst:31
 msgid "Equip |mana_b|\\ |mana_b|"
-msgstr ""
+msgstr "Wyposaż |mana_b|\\ |mana_b"
 
 #: ../../AFR.rst:38
 msgid ""
@@ -110,6 +123,8 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:37
 msgid ""
@@ -128,12 +143,16 @@ msgstr ""
 #: ../../AFR.rst:41
 msgid "Each creature you control gets +2/+0 for each Equipment attached to it."
 msgstr ""
+"Każdy stwór pod twoim władaniem dostaje +2/+0 za każde Wyposażenie dołączone "
+"do niego."
 
 #: ../../AFR.rst:43
 msgid ""
 "You may pay |mana_0| rather than pay the equip cost of the first equip "
 "ability you activate each turn."
 msgstr ""
+"Możesz płacić |mana_0| zamiast płacić pierwszy twój koszt wyposażenia w "
+"danej turze."
 
 #: ../../AFR.rst:52
 msgid ""
@@ -151,12 +170,16 @@ msgid ""
 "When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary "
 "4/1 green Cat creature token with trample."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton legendarnego zielonego "
+"stwora Kot 4/1 z tratowaniem o nazwie Guenhwyvar."
 
 #: ../../AFR.rst:51
 msgid ""
 "Whenever a creature dies, if it had power greater than Drizzt's power, put a "
 "number of +1/+1 counters on Drizzt equal to the difference."
 msgstr ""
+"Ilekroć umrze stwór, jeśli miał siłę większą niż siłą tego stwora, umieść na "
+"niniejszym stworze tyle znaczników +1/+1, ile wynosi różnica."
 
 #: ../../AFR.rst:58
 msgid ""
@@ -175,6 +198,10 @@ msgid ""
 "up to five Dragon cards not named Tiamat that each have different names, "
 "reveal them, put them into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został przez ciebie rzucony, "
+"wyszukaj w twojej bibliotece co najwyżej pięć kart Smoków o różnych nazwach "
+"nie mających nazwy Tiamat, ujawnij je, umieść je w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../AFR.rst:62
 msgid ""
