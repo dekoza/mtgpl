@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-25 21:27+0200\n"
-"PO-Revision-Date: 2021-05-24 19:52+0000\n"
+"PO-Revision-Date: 2021-05-25 21:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -31,21 +31,19 @@ msgstr ""
 
 #: ../../MH2.rst:9
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../MH2.rst:11
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../MH2.rst:13
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../MH2.rst:15
-#, fuzzy
-#| msgid "−3: Exile target creature."
 msgid "Exile target card from a graveyard."
-msgstr "–3: Wygnaj wskazanego stwora."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../MH2.rst:17
 msgid ""
