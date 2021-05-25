@@ -5,8 +5,32 @@
 ================================
 
 
+:mtgtip:`Break Ties<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/723ec2ef-aa82-449d-88b0-405d06454fc2.jpg?1621877801|https://scryfall.com/card/mh2/8/break-ties?utm_source=api>`
+   Choose one —
+
+   • Destroy target artifact.
+
+   • Destroy target enchantment.
+
+   • Exile target card from a graveyard.
+
+   Reinforce 1—|mana_w| (|mana_w|, Discard this card: Put a +1/+1 counter on target creature.)
+
+
+:mtgtip:`Late to Dinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6633cab9-23f9-474e-96f1-ca7c0c67691c.jpg?1621877884|https://scryfall.com/card/mh2/19/late-to-dinner?utm_source=api>`
+   Return target creature card from your graveyard to the battlefield. Create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
+
+
 :mtgtip:`Prismatic Ending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/825969b9-3c70-4fca-8cab-696e9ca7cdb2.jpg?1621855411|https://scryfall.com/card/mh2/25/prismatic-ending?utm_source=api>`
    Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.
+
+
+:mtgtip:`"Serra's Emissary"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6534049-3045-4546-b1e8-e5b1b0df5f56.jpg?1621878646|https://scryfall.com/card/mh2/30/serras-emissary?utm_source=api>`
+   Flying
+
+   As "Serra's Emissary" enters the battlefield, choose a card type.
+
+   You and creatures you control have protection from the chosen card type.
 
 
 :mtgtip:`Timeless Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96fe8889-0ec8-421a-83a4-5d00ab4804db.jpg?1621544471|https://scryfall.com/card/mh2/35/timeless-dragon?utm_source=api>`
@@ -23,6 +47,16 @@
    Cycling |mana_1|\ |mana_u|
 
    When you cycle Fractured Sanity, each opponent mills four cards.
+
+
+:mtgtip:`Lucid Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98aeda3d-3741-4b80-bfef-63bcc599d75b.jpg?1621878176|https://scryfall.com/card/mh2/50/lucid-dreams?utm_source=api>`
+   Draw X cards, where X is the number of card types among cards in your graveyard.
+
+
+:mtgtip:`Rise and Shine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e658cb2-11c5-4b59-a91c-f26ac28e82af.jpg?1621932223|https://scryfall.com/card/mh2/58/rise-and-shine?utm_source=api>`
+   Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on each artifact that became a creature this way.
+
+   Overload |mana_4|\ |mana_u|\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
 
 :mtgtip:`Rishadan Dockhand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc488a4c-2885-4727-8317-da93aee8fced.jpg?1621546689|https://scryfall.com/card/mh2/59/rishadan-dockhand?utm_source=api>`
@@ -45,8 +79,16 @@
    Search your library for a card, put that card into your hand, then shuffle.
 
 
+:mtgtip:`Tourach's Canticle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d97fd7d-c29f-4db0-b909-2f6aa9c39d65.jpg?1621884951|https://scryfall.com/card/mh2/103/tourachs-canticle?utm_source=api>`
+   Target opponent reveals their hand. You choose a card from it. That player discards that card, then discards a card at random.
+
+
 :mtgtip:`Unmarked Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1621545625|https://scryfall.com/card/mh2/106/unmarked-grave?utm_source=api>`
    Search your library for a nonlegendary card, put that card into your graveyard, then shuffle.
+
+
+:mtgtip:`"Young Necromancer"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84b5f6da-5e0f-4cce-92fe-7aa69124e265.jpg?1621931791|https://scryfall.com/card/mh2/110/young-necromancer?utm_source=api>`
+   When "Young Necromancer" enters the battlefield, you may exile two cards from your graveyard. If you do, return target creature card from your graveyard to the battlefield.
 
 
 :mtgtip:`Flametongue Yearling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33ab05b5-d6f5-439c-9aed-1a58ceb282ad.jpg?1621546133|https://scryfall.com/card/mh2/125/flametongue-yearling?utm_source=api>`
@@ -57,10 +99,16 @@
    When Flametongue Yearling enters the battlefield, it deals damage equal to its power to target creature.
 
 
-:mtgtip:`Chitterfang, Squirrel General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/1785cf85-1ac0-4246-9b89-1a8221a8e1b2.jpg?1621864657|https://scryfall.com/card/mh2/151/chitterfang-squirrel-general?utm_source=api>`
+:mtgtip:`Spreading Insurrection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1c1918b-2f7a-4cab-9547-029ebc589000.jpg?1621878087|https://scryfall.com/card/mh2/142/spreading-insurrection?utm_source=api>`
+   Gain control of target creature you don't control until end of turn. Untap that creature. It gains haste until end of turn.
+
+   Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+
+
+:mtgtip:`Chatterfang, Squirrel General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/1785cf85-1ac0-4246-9b89-1a8221a8e1b2.jpg?1621877502|https://scryfall.com/card/mh2/151/chatterfang-squirrel-general?utm_source=api>`
    Forestwalk (This creature can't be blocked as long as defending player controls a forest.)
 
-   If one or more token would be created under your control, those tokens plus that many 1/1 green squirrel creature tokens are created instead.
+   If one or more token would be created under your control, those tokens plus that many 1/1 green Squirrel creature tokens are created instead.
 
    |mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of turn.
 
@@ -71,7 +119,7 @@
    Whenever a nontoken creature you control dies, you may pay |mana_1|. If you do, return Squirrel Sanctuary to its owner's hand.
 
 
-:mtgtip:`Squirrel Sovereign<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f739d55-30d6-4879-872a-82c6778113de.jpg?1621856375|https://scryfall.com/card/mh2/175/squirrel-sovereign?utm_source=api>`
+:mtgtip:`Squirrel Sovereign<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f739d55-30d6-4879-872a-82c6778113de.jpg?1621878709|https://scryfall.com/card/mh2/175/squirrel-sovereign?utm_source=api>`
    Other Squirrels you control get +1/+1.
 
 
@@ -95,10 +143,10 @@
    −6: You may put an artifact card from your hand or graveyard onto the battlefield.
 
 
-:mtgtip:`Ravenous Squirrel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4.jpg?1621856174|https://scryfall.com/card/mh2/211/ravenous-squirrel?utm_source=api>`
+:mtgtip:`Ravenous Squirrel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4.jpg?1621878696|https://scryfall.com/card/mh2/211/ravenous-squirrel?utm_source=api>`
    Whenever you sacrifice an artifact or creature, put a +1/+1 counter on Ravenous Squirrel.
 
-   |mana_1|\ |mana_b|\ |mana_g|, Sacrifice an artifact or creature: You gain one life and draw a card.
+   |mana_1|\ |mana_b|\ |mana_g|, Sacrifice an artifact or creature: You gain 1 life and draw a card.
 
 
 :mtgtip:`Yusri, Fortune's Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfab9e33-0d07-46e6-be06-1eaffe26cbfd.jpg?1621602235|https://scryfall.com/card/mh2/218/yusri-fortunes-flame?utm_source=api>`
@@ -107,12 +155,38 @@
    Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yursi deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs.
 
 
+:mtgtip:`Bottle Golems<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/513a36a1-b2e3-4779-b8a7-66f01c488bf0.jpg?1621885000|https://scryfall.com/card/mh2/222/bottle-golems?utm_source=api>`
+   Trample
+
+   When Bottle Golems dies, you gain life equal to its power.
+
+
 :mtgtip:`Brainstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10b9a9f6-5be5-47aa-8e2f-576d06c5abb9.jpg?1620398734|https://scryfall.com/card/mh2/223/brainstone?utm_source=api>`
    |mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two cards from your hand on top of your library in any order.
 
 
 :mtgtip:`Diamond Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/317a8ed5-1ec2-4a5d-a606-8c6ba781c8a3.jpg?1620398740|https://scryfall.com/card/mh2/225/diamond-lion?utm_source=api>`
    |tap|, Discard your hand, Sacrifice Diamond Lion: Add three mana of any one color. Activate only as an instant.
+
+
+:mtgtip:`"Hood Ornament"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8dcff03-0ef9-4485-80db-5447e9ca4ef9.jpg?1621920966|https://scryfall.com/card/mh2/237/hood-ornament?utm_source=api>`
+   "Hood Ornament" enters the battlefield tapped with two +1/+1 counters on it.
+
+   As long as there are +1/+1 counters on "Hood Ornament", it doesn't untap during its controller's untap step.
+
+   At the beginning of combat on your turn, you may move a +1/+1 counter from "Hood Ornament" to another target creature.
+
+
+:mtgtip:`"Sword of Hearth and Home"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a16fabbe-4557-4067-b882-f2e5dbd8b458.jpg?1621883220|https://scryfall.com/card/mh2/238/sword-of-hearth-and-home?utm_source=api>`
+   Equipped creature gets +2/+2 and has protection from green and from white.
+
+   Whenever equipped creature deals combat damage to a player, exile up to one target creature you own and search your library for a basic land card. Put both cards onto the battlefield under your control, then shuffle.
+
+   Equip |mana_2|
+
+
+:mtgtip:`Void Mirror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f906219-7a6a-427b-93c4-4d958cbd171c.jpg?1621884262|https://scryfall.com/card/mh2/242/void-mirror?utm_source=api>`
+   Whenever a player casts a spell, if no colored mana was spent to cast it, counter that spell.
 
 
 :mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1620341257|https://scryfall.com/card/mh2/244/arid-mesa?utm_source=api>`
@@ -149,7 +223,17 @@
    Counter target spell.
 
 
-:mtgtip:`Squirrel Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa6bfc95-ec7e-46dd-88fd-b0e1ba48bfbc.jpg?1621855811|https://scryfall.com/card/mh2/286/squirrel-mob?utm_source=api>`
+:mtgtip:`Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/675d6729-23da-4f0b-b222-fe54fe24dd90.jpg?1621884934|https://scryfall.com/card/mh2/271/wonder?utm_source=api>`
+   Flying
+
+   As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.
+
+
+:mtgtip:`Patriarch's Bidding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/317686d8-b762-4598-b74a-8b1fa6b899ba.jpg?1621919288|https://scryfall.com/card/mh2/275/patriarchs-bidding?utm_source=api>`
+   Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.
+
+
+:mtgtip:`Squirrel Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa6bfc95-ec7e-46dd-88fd-b0e1ba48bfbc.jpg?1621878682|https://scryfall.com/card/mh2/286/squirrel-mob?utm_source=api>`
    Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
 
 
