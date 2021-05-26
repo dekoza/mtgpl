@@ -41,10 +41,10 @@
    Eternalize |mana_2|\ |mana_w|\ |mana_w| (|mana_2|\ |mana_w|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. Eternalize only as a sorcery.)
 
 
-:mtgtip:`Fractured Sanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/413ac8fb-5156-4f90-81f5-1879e273c9e2.jpg?1621856856|https://scryfall.com/card/mh2/44/fractured-sanity?utm_source=api>`
+:mtgtip:`Fractured Sanity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/413ac8fb-5156-4f90-81f5-1879e273c9e2.jpg?1621958519|https://scryfall.com/card/mh2/44/fractured-sanity?utm_source=api>`
    Each opponent mills fourteen cards.
 
-   Cycling |mana_1|\ |mana_u|
+   Cycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Draw a card.)
 
    When you cycle Fractured Sanity, each opponent mills four cards.
 
@@ -65,12 +65,36 @@
    |mana_1|, |tap|: Tap target land.
 
 
+:mtgtip:`So Shiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/135db79f-6f07-486c-ae3a-d4244aaf6dc8.jpg?1621973904|https://scryfall.com/card/mh2/63/so-shiny?utm_source=api>`
+   Enchant creature
+
+   When So Shiny enters the battlefield, if you control a token, tap enchanted creature, then scry 2.
+
+   Enchanted creature doesn't untap during its controller's untap step.
+
+
+:mtgtip:`Subtlety<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1621988780|https://scryfall.com/card/mh2/67/subtlety?utm_source=api>`
+   Flash
+
+   Flying
+
+   When Subtlety enters the battlefield, choose up to one target creature spell or planeswalker spell. Its owner puts it on the top or bottom of their library.
+
+   Evoke—Exile a blue card from your hand.
+
+
 :mtgtip:`Grief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1621584132|https://scryfall.com/card/mh2/87/grief?utm_source=api>`
    Menace
 
    When Grief enters the battlefield, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 
    Evoke—Exile a black card from your hand.
+
+
+:mtgtip:`Kitchen Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/836ae711-e62f-49ec-850e-d25f6fd2a4d4.jpg?1621956480|https://scryfall.com/card/mh2/89/kitchen-imp?utm_source=api>`
+   Flying, haste
+
+   Madness |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 :mtgtip:`Profane Tutor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2afc6f7d-ab59-4d64-bd11-6bd0fd4bfcd2.jpg?1621544957|https://scryfall.com/card/mh2/97/profane-tutor?utm_source=api>`
@@ -83,12 +107,20 @@
    Target opponent reveals their hand. You choose a card from it. That player discards that card, then discards a card at random.
 
 
+:mtgtip:`Underworld Hermit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4f1a23a-084a-429b-823a-a8e7e5f26e0d.jpg?1622034143|https://scryfall.com/card/mh2/105/underworld-hermit?utm_source=api>`
+   When Underworld Hermit enters the battlefield, create a number of 1/1 green Squirrel creature tokens equal to your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)
+
+
 :mtgtip:`Unmarked Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1621545625|https://scryfall.com/card/mh2/106/unmarked-grave?utm_source=api>`
    Search your library for a nonlegendary card, put that card into your graveyard, then shuffle.
 
 
 :mtgtip:`"Young Necromancer"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84b5f6da-5e0f-4cce-92fe-7aa69124e265.jpg?1621931791|https://scryfall.com/card/mh2/110/young-necromancer?utm_source=api>`
    When "Young Necromancer" enters the battlefield, you may exile two cards from your graveyard. If you do, return target creature card from your graveyard to the battlefield.
+
+
+:mtgtip:`Chef's Kiss<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c936ebbd-512a-49a6-ab23-16ac34b4a3a9.jpg?1621958450|https://scryfall.com/card/mh2/120/chefs-kiss?utm_source=api>`
+   Gain control of target spell that targets only a single permanent or player. Copy it, then reselect the targets at random for the spell and the copy. The new targets can't be you or a permanent you control.
 
 
 :mtgtip:`Flametongue Yearling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33ab05b5-d6f5-439c-9aed-1a58ceb282ad.jpg?1621546133|https://scryfall.com/card/mh2/125/flametongue-yearling?utm_source=api>`
@@ -105,12 +137,30 @@
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Chatterfang, Squirrel General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/1785cf85-1ac0-4246-9b89-1a8221a8e1b2.jpg?1621877502|https://scryfall.com/card/mh2/151/chatterfang-squirrel-general?utm_source=api>`
-   Forestwalk (This creature can't be blocked as long as defending player controls a forest.)
+:mtgtip:`"Ooze the Boss"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe9b1b8-dffe-427d-be1e-2c6b8395bd54.jpg?1621970585|https://scryfall.com/card/mh2/148/ooze-the-boss?utm_source=api>`
+   Storm (When you cast this spell, copy it for each spell cast before it this turn. Each copy becomes a token when it resolves.)
 
-   If one or more token would be created under your control, those tokens plus that many 1/1 green Squirrel creature tokens are created instead.
+   "Ooze the Boss" isn't legendary as long as it's a token.
+
+   "Ooze the Boss" enters the battlefield with a +1/+1 counter on it for each other Ooze you control.
+
+
+:mtgtip:`Chatterfang, Squirrel General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/1785cf85-1ac0-4246-9b89-1a8221a8e1b2.jpg?1621958701|https://scryfall.com/card/mh2/151/chatterfang-squirrel-general?utm_source=api>`
+   Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+
+   If one or more tokens would be created under your control, those tokens plus that many 1/1 green Squirrel creature tokens are created instead.
 
    |mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of turn.
+
+
+:mtgtip:`Chatterstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b34f0ac1-6894-4761-b62c-b85d927acf09.jpg?1621988092|https://scryfall.com/card/mh2/152/chatterstorm?utm_source=api>`
+   Create a 1/1 green Squirrel creature token.
+
+   Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+
+
+:mtgtip:`"Bushitoad"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f81500be-c959-4f38-bcf2-d63519168f67.jpg?1622034233|https://scryfall.com/card/mh2/167/bushitoad?utm_source=api>`
+   Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
 
 
 :mtgtip:`Squirrel Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed6ab503-5e9a-4339-a0e7-a909b2908f41.jpg?1621855956|https://scryfall.com/card/mh2/174/squirrel-sanctuary?utm_source=api>`
@@ -119,8 +169,14 @@
    Whenever a nontoken creature you control dies, you may pay |mana_1|. If you do, return Squirrel Sanctuary to its owner's hand.
 
 
-:mtgtip:`Squirrel Sovereign<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f739d55-30d6-4879-872a-82c6778113de.jpg?1621878709|https://scryfall.com/card/mh2/175/squirrel-sovereign?utm_source=api>`
+:mtgtip:`Squirrel Sovereign<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f739d55-30d6-4879-872a-82c6778113de.jpg?1621988596|https://scryfall.com/card/mh2/175/squirrel-sovereign?utm_source=api>`
    Other Squirrels you control get +1/+1.
+
+
+:mtgtip:`"Not So Explosive Veggies"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28b08596-f6c7-4366-a4ed-21a11fbc901a.jpg?1622034398|https://scryfall.com/card/mh2/177/not-so-explosive-veggies?utm_source=api>`
+   Search your library for a basic land card, put it into the battlefield, then shuffle.
+
+   Rebound
 
 
 :mtgtip:`Thrasta, Tempest's Roar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6172da14-9a87-4cf9-aff5-aca3470a67ef.jpg?1621565833|https://scryfall.com/card/mh2/178/thrasta-tempests-roar?utm_source=api>`
@@ -133,6 +189,32 @@
    Thrasta, Tempest's Roar has hexproof as long as it entered the battlefield this turn.
 
 
+:mtgtip:`"Squirrel Command"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83031ea8-a6c9-4318-af16-bba701dd76bb.jpg?1622034614|https://scryfall.com/card/mh2/182/squirrel-command?utm_source=api>`
+   Choose two —
+
+   • Target player creates two tapped 1/1 green squirrel creature tokens.
+
+   • Counter target loyalty ability of a planeswalker.
+
+   • Exile target card from a graveyard.
+
+   • Target player gains 3 life.
+
+
+:mtgtip:`Arcbound Shikari<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d54c510-19bf-4da4-a51b-1caadf960654.jpg?1621996658|https://scryfall.com/card/mh2/184/arcbound-shikari?utm_source=api>`
+   First Strike
+
+   When Arcbound Shikari enters the battlefield, put a +1/+1 counter on each other artifact creature you control.
+
+   Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it does, you may put its counters on target artifact creature.)
+
+
+:mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1622034477|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`
+   Whenever Carth the Lion enters the battlefield or a planeswalker you control dies, look at the top seven cards of your library. You may reveal a planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+   Planeswalkers' loyalty abilities you activate cost an additional {+1} to activate.
+
+
 :mtgtip:`Dakkon, Shadow Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0013a9c4-77a1-418d-85c2-bd68b65cd3d4.jpg?1621544474|https://scryfall.com/card/mh2/192/dakkon-shadow-slayer?utm_source=api>`
    Dakkon, Shadow Slayer enters the battlefield with a number of loyalty counters on him equal to the number of lands you control.
 
@@ -141,6 +223,32 @@
    −3: Exile target creature.
 
    −6: You may put an artifact card from your hand or graveyard onto the battlefield.
+
+
+:mtgtip:`Drey Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/995529d1-e2b0-4cce-bd40-56c7ef3c33da.jpg?1621988197|https://scryfall.com/card/mh2/194/drey-keeper?utm_source=api>`
+   When Drey Keeper enters the battlefield, create two 1/1 green Squirrel creature tokens.
+
+   |mana_3|\ |mana_b|: Squirrels you control get +1/+0 and gain menace until end of turn.
+
+
+:mtgtip:`Garth One-Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23774462-9f17-4b50-a2ac-b2edd706bbfe.jpg?1621987981|https://scryfall.com/card/mh2/197/garth-one-eye?utm_source=api>`
+   |tap|: Choose a card name that hasn't been chosen from among Disenchant, Braingeyser, Terror, Shivan Dragon, Regrowth, or Black Lotus. Create a copy of the card with the chosen name. You may cast the copy. (You still pay its costs.)
+
+
+:mtgtip:`Grist, the Hunger Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69af2825-18c2-4463-b6ba-42eaa070ccc1.jpg?1621957744|https://scryfall.com/card/mh2/202/grist-the-hunger-tide?utm_source=api>`
+   As long as Grist, the Hunger Tide isn't on the battlefield, it's a 1/1 Insect creature in addition to its other types.
+
+   +1: Create a 1/1 black and green Insect creature token, then mill a card. If an Insect card was milled this way, put a loyalty counter on Grist and repeat this process.
+
+   −2: You may sacrifice a creature. When you do, destroy target creature or planeswalker.
+
+   −5: Each opponent loses life equal to the number of creature cards in your graveyard.
+
+
+:mtgtip:`Priest of Fell Rites<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d116329d-6de7-402c-821d-e9aeba9ad2b1.jpg?1621957366|https://scryfall.com/card/mh2/208/priest-of-fell-rites?utm_source=api>`
+   |tap|, Pay 3 life, Sacrifice Priest of Fell Rites: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+   Unearth |mana_3|\ |mana_w|\ |mana_b| (|mana_3|\ |mana_w|\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
 
 
 :mtgtip:`Ravenous Squirrel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4.jpg?1621878696|https://scryfall.com/card/mh2/211/ravenous-squirrel?utm_source=api>`
@@ -169,6 +277,12 @@
    |tap|, Discard your hand, Sacrifice Diamond Lion: Add three mana of any one color. Activate only as an instant.
 
 
+:mtgtip:`"Monoskelion"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/4736aae2-5136-4f8f-9283-baf6b542a6a8.jpg?1621988427|https://scryfall.com/card/mh2/229/monoskelion?utm_source=api>`
+   "Monoskelion" enters the battlefield with a +1/+1 counter on it.
+
+   |mana_1|, Remove a +1/+1 counter from "Monoskelion": "Monoskelion" deals 1 damage to any target.
+
+
 :mtgtip:`"Hood Ornament"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8dcff03-0ef9-4485-80db-5447e9ca4ef9.jpg?1621920966|https://scryfall.com/card/mh2/237/hood-ornament?utm_source=api>`
    "Hood Ornament" enters the battlefield tapped with two +1/+1 counters on it.
 
@@ -187,6 +301,16 @@
 
 :mtgtip:`Void Mirror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f906219-7a6a-427b-93c4-4d958cbd171c.jpg?1621884262|https://scryfall.com/card/mh2/242/void-mirror?utm_source=api>`
    Whenever a player casts a spell, if no colored mana was spent to cast it, counter that spell.
+
+
+:mtgtip:`Zabaz, the Glimmerwasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c1cce91-7c81-45d9-bbec-b085e794791d.jpg?1621957765|https://scryfall.com/card/mh2/243/zabaz-the-glimmerwasp?utm_source=api>`
+   Modular 1
+
+   If a modular triggered ability would put one or more +1/+1 counters on a creature you control, that many plus one +1/+1 counters are put on it instead.
+
+   |mana_r|: Destroy target artifact you control.
+
+   |mana_w|: Zabaz, the Glimmerwasp gains flying until end of turn.
 
 
 :mtgtip:`Arid Mesa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1620341257|https://scryfall.com/card/mh2/244/arid-mesa?utm_source=api>`
@@ -233,8 +357,26 @@
    Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.
 
 
+:mtgtip:`Chance Encounter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49a4b0c9-a35b-4b55-ab27-7246bbca0d16.jpg?1621988369|https://scryfall.com/card/mh2/277/chance-encounter?utm_source=api>`
+   Whenever you win a coin flip, put a luck counter on Chance Encounter.
+
+   At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.
+
+
+:mtgtip:`Mogg Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b93e65e-8a10-444f-8b0a-9327dd30cce2.jpg?1621970871|https://scryfall.com/card/mh2/282/mogg-salvage?utm_source=api>`
+   If an opponent controls an Island and you control a Mountain, you may cast this spell without paying its mana cost.
+
+   Destroy target artifact.
+
+
 :mtgtip:`Squirrel Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa6bfc95-ec7e-46dd-88fd-b0e1ba48bfbc.jpg?1621878682|https://scryfall.com/card/mh2/286/squirrel-mob?utm_source=api>`
    Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
+
+
+:mtgtip:`Extruder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e94e53f0-cfca-4b40-9867-94ea771463cd.jpg?1621957510|https://scryfall.com/card/mh2/296/extruder?utm_source=api>`
+   Echo |mana_4| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+
+   Sacrifice an artifact: Put a +1/+1 counter on target creature.
 
 
 :mtgtip:`Cabal Coffers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1efb0d3-2c72-46ff-bdc1-1069967365a0.jpg?1621546348|https://scryfall.com/card/mh2/301/cabal-coffers?utm_source=api>`
