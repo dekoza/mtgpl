@@ -138,7 +138,7 @@
 .. |KLD_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MH2_percent| image:: images/pie80.png        
+.. |MH2_percent| image:: images/pie20.png        
 
 .. |IKO_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
