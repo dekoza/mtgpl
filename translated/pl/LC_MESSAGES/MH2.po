@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-27 16:17+0200\n"
-"PO-Revision-Date: 2021-05-25 21:24+0000\n"
+"PO-Revision-Date: 2021-05-27 17:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -31,19 +31,16 @@ msgstr ""
 
 #: ../../MH2.rst:9
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../MH2.rst:11
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. "
 "When it dies, you may put its +1/+1 counters on target artifact creature.)"
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Modułowy 1 (Ten stwór wchodzi na pole bitwy mając znacznik +1/+1. Kiedy "
+"umrze, możesz umieścić jego znaczniki +1/+1 na wskazanym artefaktowym "
+"stworze.)"
 
 #: ../../MH2.rst:24
 msgid ""
@@ -100,6 +97,8 @@ msgid ""
 "Converge — Exile target nonland permanent if its mana value is less than or "
 "equal to the number of colors of mana spent to cast this spell."
 msgstr ""
+"Komasowanie — Wygnaj wskazany nielądowy permanent jeśli jego skrót many jest "
+"mniejszy lub równy liczbie kolorów many użytych do rzucenia tego czaru."
 
 #: ../../MH2.rst:40
 msgid ""
@@ -200,7 +199,7 @@ msgstr ""
 
 #: ../../MH2.rst:67
 msgid "Each opponent mills fourteen cards."
-msgstr ""
+msgstr "Każdy przeciwnik mieli po czternaście kart."
 
 #: ../../MH2.rst:69
 msgid ""
@@ -210,7 +209,7 @@ msgstr ""
 
 #: ../../MH2.rst:71
 msgid "When you cycle Fractured Sanity, each opponent mills four cards."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, każdy przeciwnik mieli po cztery karty."
 
 #: ../../MH2.rst:80
 msgid ""
@@ -995,6 +994,7 @@ msgid ""
 "|mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of "
 "turn."
 msgstr ""
+"|mana_b|, poświęć X Wiewiórów: Wskazany stwór dostaje do końca tury +X/-X."
 
 #: ../../MH2.rst:318
 msgid ""
@@ -1145,6 +1145,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, you may pay |mana_1|. If you "
 "do, return Squirrel Sanctuary to its owner's hand."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władanie, możesz zapłacić |mana_1|"
+". Jeśli tak zrobisz, przywróć ten urok do ręki właściciela."
 
 #: ../../MH2.rst:358
 msgid ""
@@ -1155,7 +1157,7 @@ msgstr ""
 
 #: ../../MH2.rst:357
 msgid "Other Squirrels you control get +1/+1."
-msgstr ""
+msgstr "Inne Wiewióry pod twoim władaniem dostają +1/+1."
 
 #: ../../MH2.rst:364
 msgid ""
@@ -1547,6 +1549,8 @@ msgid ""
 "Whenever you sacrifice an artifact or creature, put a +1/+1 counter on "
 "Ravenous Squirrel."
 msgstr ""
+"Ilekroć poświęcisz artefakt lub stwora, umieść znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../MH2.rst:467
 msgid ""
@@ -2342,7 +2346,7 @@ msgstr ""
 
 #: ../../MH2.rst:735
 msgid "Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdego innego Wiewióra na polu bitwy."
 
 #: ../../MH2.rst:742
 msgid ""
