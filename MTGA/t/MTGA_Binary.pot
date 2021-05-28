@@ -2566,6 +2566,50 @@ msgctxt "MainNav/Settings/Language_Button"
 msgid "Language"
 msgstr ""
 
+msgctxt "MainNav/Settings/LanguageNative_de"
+msgid "Deutsch"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_en"
+msgid "English"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_es"
+msgid "Español"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_fr"
+msgid "Français"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_it"
+msgid "Italiano"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_ja"
+msgid "日本語"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_ko"
+msgid "한국어"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_pt-BR"
+msgid "Português brasileiro"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_ru"
+msgid "Русский"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_zh-CN"
+msgid "简体中文"
+msgstr ""
+
+msgctxt "MainNav/Settings/LanguageNative_zh-TW"
+msgid ""
+msgstr ""
+
 msgctxt "MainNav/Settings/LogOut_Button"
 msgid "Log Out"
 msgstr ""
@@ -2584,6 +2628,18 @@ msgstr ""
 
 msgctxt "MainNav/Settings/ReportABug_Button"
 msgid "Report a Bug"
+msgstr ""
+
+msgctxt "MainNav/Settings/RestorePurchasesFail"
+msgid "No incomplete purchases found."
+msgstr ""
+
+msgctxt "MainNav/Settings/RestorePurchasesSuccess"
+msgid "Purchases successfully restored."
+msgstr ""
+
+msgctxt "MainNav/Settings/RestorePurchasesTitle"
+msgid "Restore Purchases"
 msgstr ""
 
 msgctxt "MainNav/Settings/Select_Store"
