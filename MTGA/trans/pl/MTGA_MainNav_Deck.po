@@ -137,6 +137,10 @@ msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_LessThan"
 msgid "Less Than"
 msgstr "Mniejsze niż"
 
+msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_ManaValue"
+msgid "Mana Value"
+msgstr ""
+
 msgctxt "MainNav/DeckBuilder/Advanced_Text_Search_MoreInfoText"
 msgid "More information about advanced search terms can be found here. "
 msgstr ""
@@ -405,20 +409,15 @@ msgctxt "MainNav/DeckBuilder/DeckBuilder_Header_Title"
 msgid "Deck Builder"
 msgstr ""
 
-msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Below100"
-msgid "Decks in this format must be at least 100 cards."
+#, fuzzy
+#| msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Below100"
+#| msgid "Decks in this format must be at least 100 cards."
+msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_BelowX"
+msgid "Decks in this format must be at least {MinMainDeckRequired} cards."
 msgstr "Talie w tym formacie muszą mieć co najmniej 100 kart."
 
-msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Below40"
-msgid "Decks in this format must be at least 40 cards."
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Below60"
-msgid "Decks in this format must be at least 60 cards."
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Brawl_Needs60"
-msgid "Brawl decks must contain exactly 60 cards."
+msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Brawl_NeedsX"
+msgid "Brawl decks must contain exactly {MinMainDeckRequired} cards."
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_HasBannedCards"
@@ -472,25 +471,21 @@ msgid "This deck cannot have any cards in the sideboard."
 msgstr ""
 
 msgctxt ""
-"MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThan15InSideboard"
-msgid "Decks cannot have more than 15 cards in the sideboard."
-msgstr ""
-
-msgctxt ""
 "MainNav/Deckbuilder/DeckBuilder_InvalidDeckReasons_MoreThan1CopyInSingleton"
 msgid "This deck contains too many copies of a card for the singleton format"
-msgstr ""
-
-msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThan250InMain"
-msgid "Decks cannot have more than 250 cards."
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThan4Copies"
 msgid "This deck contains too many copies of a card."
 msgstr ""
 
-msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThan60InMain"
-msgid "This deck cannot have fewer than 60 cards."
+msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThanXInMain"
+msgid "This deck cannot have fewer than {MaxTotalCards} cards."
+msgstr ""
+
+msgctxt ""
+"MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThanXInSideboard"
+msgid "Decks cannot have more than {MaxSideboardCards} cards in the sideboard."
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_NonSetCard"
@@ -504,6 +499,10 @@ msgstr ""
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_RequiresSideboard"
 msgid ""
 "It is recommended that decks in this format have 15 cards in their sideboard."
+msgstr ""
+
+msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_Uncollectible"
+msgid "Invalid cards have been removed from your deck"
 msgstr ""
 
 msgctxt ""
@@ -2109,7 +2108,11 @@ msgid "Historic"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricAprilFoolLimited"
-msgid "New Historic"
+msgid "No Limits"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/HistoricAprilFoolsLimited"
+msgid "No Limits"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricBrawl"
@@ -2134,6 +2137,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricShakeup3"
 msgid "Historic Shakeup: Week 3"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/HistoricSingleton"
+msgid "Historic Singleton"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricSingleton100"
@@ -2174,6 +2181,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/Ravnica"
 msgid "Ravnica Block"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/RebalancedHistoric"
+msgid "Mirror, Mirror"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/Renewal"

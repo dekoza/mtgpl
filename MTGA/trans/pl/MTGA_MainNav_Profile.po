@@ -661,7 +661,7 @@ msgstr "Zdania"
 
 msgctxt "MainNav/Profile/Emotes/Instructions"
 msgid ""
-"Click to select or deselect an emote. All selected emotes will be available "
+"Click to equip or unequip an emote. All equipped emotes will be available "
 "during matches."
 msgstr ""
 
@@ -683,8 +683,11 @@ msgctxt "MainNav/Profile/Emotes/Sticker_Header"
 msgid "Stickers"
 msgstr "Naklejki"
 
+#, fuzzy
+#| msgctxt "MainNav/Profile/Emotes/UnlockNewEmotes"
+#| msgid "Unlock new Emotes through the Mastery Pass."
 msgctxt "MainNav/Profile/Emotes/UnlockNewEmotes"
-msgid "Unlock new Emotes through the Mastery Pass."
+msgid "Unlock new Emotes through the Mastery Pass, Store, or Rewards."
 msgstr "Odblokuj nowe emotki dzięki Przepustce Mistrzostwa."
 
 msgctxt "MainNav/Profile/Emotes/UnsavedChanges_Body"

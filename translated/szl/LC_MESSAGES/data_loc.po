@@ -140,7 +140,8 @@ msgctxt "32"
 msgid "|mana_2|, Sacrifice this artifact: Draw a card."
 msgstr ""
 
-#. internal_ability, printed_ability, type_creature, type_enchantment
+#. internal_ability, printed_ability, type_artifact, type_creature,
+#. type_enchantment
 msgctxt "38"
 msgid "Lifelink"
 msgstr ""
@@ -295,7 +296,7 @@ msgid "Enchant"
 msgstr ""
 
 #. internal_ability, printed_ability, type_artifact, type_creature,
-#. type_instant
+#. type_instant, type_sorcery
 msgctxt "122"
 msgid "Improvise"
 msgstr ""
@@ -3599,6 +3600,11 @@ msgid ""
 "two cards."
 msgstr ""
 
+#. card_title
+msgctxt "1566"
+msgid "Stifle"
+msgstr ""
+
 #. internal_ability, printed_ability, type_instant, type_sorcery
 msgctxt "1568"
 msgid "Counter target activated or triggered ability."
@@ -3755,6 +3761,23 @@ msgstr ""
 #. internal_ability, printed_ability, type_instant, type_sorcery
 msgctxt "1652"
 msgid "Draw two cards."
+msgstr ""
+
+#. card_title
+msgctxt "1653"
+msgid "Intangible Virtue"
+msgstr ""
+
+#. flavor_text
+msgctxt "1654"
+msgid ""
+"In life, they were a motley crew: farmers, lords, cutpurses, priests. In "
+"death, they are united in singular, benevolent purpose."
+msgstr ""
+
+#. internal_ability, printed_ability, type_enchantment
+msgctxt "1655"
+msgid "Creature tokens you control get +1/+1 and have vigilance."
 msgstr ""
 
 #. card_title
@@ -5331,6 +5354,18 @@ msgctxt "2331"
 msgid "Other Elf creatures you control get +1/+1."
 msgstr ""
 
+#. card_title
+msgctxt "2336"
+msgid "Merfolk Looter"
+msgstr ""
+
+#. flavor_text
+msgctxt "2337"
+msgid ""
+"Merfolk don't always know what they're looking for, but they're certain once "
+"they find it."
+msgstr ""
+
 #. internal_ability, printed_ability, type_creature
 msgctxt "2338"
 msgid "|tap|: Draw a card, then discard a card."
@@ -6121,6 +6156,11 @@ msgctxt "3315"
 msgid "Other creatures you control get +1/+1."
 msgstr ""
 
+#. internal_ability, printed_ability, type_creature
+msgctxt "3317"
+msgid "Other creatures you control get +2/+2."
+msgstr ""
+
 #. card_title
 msgctxt "3338"
 msgid "Might of the Masses"
@@ -6179,6 +6219,11 @@ msgctxt "3377"
 msgid ""
 "If a card or token would be put into a graveyard from anywhere, exile it "
 "instead."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "3379"
+msgid "Swampwalk"
 msgstr ""
 
 #. card_title
@@ -7475,6 +7520,18 @@ msgid ""
 "At his side, humble beasts become weapons more deadly than sharpened steel."
 msgstr ""
 
+#. card_title
+msgctxt "7433"
+msgid "Relic of Progenitus"
+msgstr ""
+
+#. flavor_text
+msgctxt "7434"
+msgid ""
+"Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on "
+"forgotten magics."
+msgstr ""
+
 #. card_subtype
 msgctxt "7475"
 msgid "Ajani"
@@ -8242,6 +8299,18 @@ msgid "Triskelavite"
 msgstr ""
 
 #. card_title
+msgctxt "11168"
+msgid "Court Homunculus"
+msgstr ""
+
+#. flavor_text
+msgctxt "11169"
+msgid ""
+"Mages of Esper measure their wealth and status by the number of servants in "
+"their retinues."
+msgstr ""
+
+#. card_title
 msgctxt "11200"
 msgid "Sigil of the Empty Throne"
 msgstr ""
@@ -8362,6 +8431,11 @@ msgctxt "11557"
 msgid "Reliquary Tower"
 msgstr ""
 
+#. internal_ability
+msgctxt "11580"
+msgid "Target player discards a card."
+msgstr ""
+
 #. card_title
 msgctxt "11591"
 msgid "Coldsteel Heart"
@@ -8405,6 +8479,19 @@ msgstr ""
 #. card_title
 msgctxt "11744"
 msgid "Snow-Covered Forest"
+msgstr ""
+
+#. card_title
+msgctxt "11765"
+msgid "Into the North"
+msgstr ""
+
+#. flavor_text
+msgctxt "11766"
+msgid ""
+"\"Our border lands fall under the grip of Heidar's second winter. Go forth "
+"and reclaim them for Yavimaya.\"\n"
+"—Kaysa, elder druid of the Juniper Order"
 msgstr ""
 
 #. internal_ability, printed_ability, type_creature
@@ -8824,6 +8911,11 @@ msgstr ""
 #. maybe_hidden
 msgctxt "13418"
 msgid "Elder"
+msgstr ""
+
+#. card_title
+msgctxt "13425"
+msgid "Dragonstorm"
 msgstr ""
 
 #. card_title
@@ -9283,6 +9375,16 @@ msgstr ""
 #. card_subtype, card_title
 msgctxt "16796"
 msgid "Reflection"
+msgstr ""
+
+#. card_title
+msgctxt "16854"
+msgid "Ray of Revelation"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "16856"
+msgid "Flashback |mana_g|"
 msgstr ""
 
 #. internal_ability, printed_ability, type_instant
@@ -9754,6 +9856,18 @@ msgstr ""
 #. flavor_text
 msgctxt "19389"
 msgid "For the Phyrexians, death is not an end, nor a one-time occurrence."
+msgstr ""
+
+#. card_title
+msgctxt "19397"
+msgid "Ichor Wellspring"
+msgstr ""
+
+#. flavor_text
+msgctxt "19398"
+msgid ""
+"\"Our glorious infection has taken hold.\"\n"
+"—Elesh Norn, Grand Cenobite"
 msgstr ""
 
 #. card_title
@@ -10242,6 +10356,16 @@ msgctxt "24593"
 msgid "Destroy all creatures with power 3 or greater."
 msgstr ""
 
+#. card_title
+msgctxt "24609"
+msgid "Trash for Treasure"
+msgstr ""
+
+#. flavor_text
+msgctxt "24610"
+msgid "Goblins generally have two possessions: one per hand."
+msgstr ""
+
 #. maybe_hidden
 msgctxt "24658"
 msgid "Locus"
@@ -10324,6 +10448,18 @@ msgctxt "24916"
 msgid "Magmaquake"
 msgstr ""
 
+#. card_title
+msgctxt "24933"
+msgid "Ancient Grudge"
+msgstr ""
+
+#. flavor_text
+msgctxt "24934"
+msgid ""
+"If there's anything a werewolf hates, it's a collar—especially Avacyn's "
+"Collar, the symbol of her church."
+msgstr ""
+
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "24950"
 msgid "Flashback |mana_6|\\ |mana_b|"
@@ -10362,6 +10498,29 @@ msgstr ""
 #. card_title
 msgctxt "25016"
 msgid "Diregraf Ghoul"
+msgstr ""
+
+#. card_title
+msgctxt "25033"
+msgid "Sheoldred, Whispering One"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "25034"
+msgid ""
+"At the beginning of your upkeep, return target creature card from your "
+"graveyard to the battlefield."
+msgstr ""
+
+#. card_title
+msgctxt "25048"
+msgid "Vault Skirge"
+msgstr ""
+
+#. flavor_text
+msgctxt "25049"
+msgid ""
+"From the remnants of the dead, Geth forged a swarm to safeguard his throne."
 msgstr ""
 
 #. card_title
@@ -10493,6 +10652,18 @@ msgctxt "25873"
 msgid "Karn"
 msgstr ""
 
+#. card_title
+msgctxt "25907"
+msgid "Urabrask the Hidden"
+msgstr ""
+
+#. flavor_text
+msgctxt "25908"
+msgid ""
+"When the Mirran resistance arrived, the furnace dwellers looked to Urabrask "
+"for guidance. His decree stunned the others: \"Let them be.\""
+msgstr ""
+
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "25909"
 msgid "Creatures your opponents control enter the battlefield tapped."
@@ -10536,6 +10707,23 @@ msgid "Master Splicer"
 msgstr ""
 
 #. card_title
+msgctxt "26236"
+msgid "Elesh Norn, Grand Cenobite"
+msgstr ""
+
+#. flavor_text
+msgctxt "26237"
+msgid ""
+"\"The Gitaxians whisper among themselves of other worlds. If they exist, we "
+"must bring Phyrexia's magnificence to them.\""
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "26238"
+msgid "Creatures your opponents control get -2/-2."
+msgstr ""
+
+#. card_title
 msgctxt "26239"
 msgid "Jin-Gitaxias, Core Augur"
 msgstr ""
@@ -10550,6 +10738,11 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "26241"
 msgid "At the beginning of your end step, draw seven cards."
+msgstr ""
+
+#. card_title
+msgctxt "26248"
+msgid "Vorinclex, Voice of Hunger"
 msgstr ""
 
 #. maybe_hidden
@@ -12290,6 +12483,14 @@ msgctxt "39600"
 msgid "Devils redecorate every room with fire."
 msgstr ""
 
+#. flavor_text
+msgctxt "39648"
+msgid ""
+"\"May angels carry him into the Blessed Sleep with dreams of sunlit days and "
+"moonless nights.\"\n"
+"—Tomb inscription of Saint Raban"
+msgstr ""
+
 #. internal_ability, printed_ability, type_instant
 msgctxt "39654"
 msgid "Target creature gets +3/+1 and gains trample until end of turn."
@@ -12934,6 +13135,23 @@ msgstr ""
 #. type_planeswalker
 msgctxt "41357"
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#. card_title
+msgctxt "41361"
+msgid "Grisly Salvage"
+msgstr ""
+
+#. flavor_text
+msgctxt "41362"
+msgid "To the Golgari, anything buried is treasure."
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "41363"
+msgid ""
+"Reveal the top five cards of your library. You may put a creature or land "
+"card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
 
 #. internal_ability, printed_ability, type_sorcery
@@ -14853,14 +15071,65 @@ msgid ""
 "creatures gain indestructible until end of turn."
 msgstr ""
 
+#. card_title
+msgctxt "47493"
+msgid "Atarka's Command"
+msgstr ""
+
+#. internal_ability
+msgctxt "47494"
+msgid "Your opponents can't gain life this turn."
+msgstr ""
+
+#. internal_ability
+msgctxt "47496"
+msgid "You may put a land card from your hand onto the battlefield."
+msgstr ""
+
+#. internal_ability
+msgctxt "47497"
+msgid "Creatures you control get +1/+1 and gain reach until end of turn."
+msgstr ""
+
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "47512"
 msgid "Other creatures you control have haste."
 msgstr ""
 
+#. card_title
+msgctxt "47520"
+msgid "Dromoka's Command"
+msgstr ""
+
+#. internal_ability
+msgctxt "47521"
+msgid ""
+"Prevent all damage target instant or sorcery spell would deal this turn."
+msgstr ""
+
+#. internal_ability
+msgctxt "47522"
+msgid "Target player sacrifices an enchantment."
+msgstr ""
+
+#. card_title
+msgctxt "47531"
+msgid "Kolaghan's Command"
+msgstr ""
+
 #. card_subtype
 msgctxt "47535"
 msgid "Narset"
+msgstr ""
+
+#. card_title
+msgctxt "47542"
+msgid "Ojutai's Command"
+msgstr ""
+
+#. card_title
+msgctxt "47557"
+msgid "Silumgar's Command"
 msgstr ""
 
 #. internal_ability
@@ -14958,6 +15227,11 @@ msgstr ""
 #. flavor_text
 msgctxt "47778"
 msgid "He grants endless wishes, as long as you always wish for a blade."
+msgstr ""
+
+#. card_title
+msgctxt "47788"
+msgid "Whirler Rogue"
 msgstr ""
 
 #. card_title
@@ -17200,6 +17474,18 @@ msgctxt "51729"
 msgid ""
 "The daredevil racers of the Derby Crows, long at odds with the Consulate, "
 "were quick to join the renegades in open revolt."
+msgstr ""
+
+#. card_title
+msgctxt "51733"
+msgid "Reverse Engineer"
+msgstr ""
+
+#. flavor_text
+msgctxt "51734"
+msgid ""
+"The Hold, an illegal research facility in a derelict merchant ship, became a "
+"wellspring of renegade intelligence."
 msgstr ""
 
 #. card_title
@@ -19477,6 +19763,11 @@ msgstr ""
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "60950"
 msgid "Destroy all artifacts. They can't be regenerated."
+msgstr ""
+
+#. internal_ability
+msgctxt "60990"
+msgid "Return target permanent to its owner's hand."
 msgstr ""
 
 #. internal_ability, printed_ability, type_instant, type_sorcery
@@ -22925,6 +23216,11 @@ msgid "|mana_1|\\ |mana_r|: CARDNAME gets +2/+0 until end of turn."
 msgstr ""
 
 #. internal_ability
+msgctxt "78895"
+msgid "CARDNAME deals 3 damage to each opponent."
+msgstr ""
+
+#. internal_ability
 msgctxt "79045"
 msgid ""
 "When CARDNAME enters the battlefield, you draw two cards and you lose 2 life."
@@ -22938,6 +23234,12 @@ msgstr ""
 #. internal_ability
 msgctxt "79217"
 msgid "CARDNAME deals 3 damage to target creature."
+msgstr ""
+
+#. internal_ability
+msgctxt "79271"
+msgid ""
+"|mana_1|, Exile CARDNAME: Exile all cards from all graveyards. Draw a card."
 msgstr ""
 
 #. internal_ability
@@ -23152,6 +23454,11 @@ msgid "CARDNAME enters the battlefield with three +1/+1 counters on it."
 msgstr ""
 
 #. internal_ability
+msgctxt "82922"
+msgid "CARDNAME gets +1/+1 as long as you control another artifact."
+msgstr ""
+
+#. internal_ability
 msgctxt "83027"
 msgid "Whenever CARDNAME attacks, each opponent loses 2 life."
 msgstr ""
@@ -23270,6 +23577,11 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "84713"
 msgid "Whenever you cast a spell, return target permanent to its owner's hand."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "85093"
+msgid "Search for a Dragon permanent card."
 msgstr ""
 
 #. internal_ability
@@ -23624,6 +23936,13 @@ msgid "When CARDNAME dies, create a 1/1 colorless Myr artifact creature token."
 msgstr ""
 
 #. internal_ability
+msgctxt "90870"
+msgid ""
+"When CARDNAME enters the battlefield or is put into a graveyard from the "
+"battlefield, draw a card."
+msgstr ""
+
+#. internal_ability
 msgctxt "90880"
 msgid ""
 "When CARDNAME enters the battlefield, attach it to target creature you "
@@ -23800,6 +24119,13 @@ msgid ""
 "planeswalker."
 msgstr ""
 
+#. internal_ability, printed_ability, type_creature
+msgctxt "96195"
+msgid ""
+"At the beginning of each opponent's upkeep, that player sacrifices a "
+"creature."
+msgstr ""
+
 #. internal_ability
 msgctxt "96236"
 msgid ""
@@ -23853,6 +24179,13 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "97335"
 msgid "Each opponent's maximum hand size is reduced by seven."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "97342"
+msgid ""
+"Whenever an opponent taps a land for mana, that land doesn't untap during "
+"its controller's next untap step."
 msgstr ""
 
 #. internal_ability, printed_ability, type_artifact
@@ -24960,8 +25293,34 @@ msgid ""
 msgstr ""
 
 #. internal_ability
+msgctxt "117205"
+msgid ""
+"Choose two — • Your opponents can't gain life this turn. • CARDNAME deals 3 "
+"damage to each opponent. • You may put a land card from your hand onto the "
+"battlefield. • Creatures you control get +1/+1 and gain reach until end of "
+"turn."
+msgstr ""
+
+#. internal_ability
 msgctxt "117221"
 msgid "CARDNAME has hexproof as long as it's untapped."
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "117230"
+msgid ""
+"Choose two — • Prevent all damage target instant or sorcery spell would deal "
+"this turn. • Target player sacrifices an enchantment. • Put a +1/+1 counter "
+"on target creature. • Target creature you control fights target creature you "
+"don't control."
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "117265"
+msgid ""
+"Choose two — • Counter target noncreature spell. • Return target permanent "
+"to its owner's hand. • Target creature gets -3/-3 until end of turn. • "
+"Destroy target planeswalker."
 msgstr ""
 
 #. internal_ability
@@ -25038,6 +25397,13 @@ msgctxt "117496"
 msgid ""
 "When CARDNAME enters the battlefield, create two 1/1 colorless Thopter "
 "artifact creature tokens with flying."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "117497"
+msgid ""
+"Tap two untapped artifacts you control: Target creature can't be blocked "
+"this turn."
 msgstr ""
 
 #. internal_ability, printed_ability, type_enchantment
@@ -41317,6 +41683,14 @@ msgctxt "233686"
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr ""
 
+#. internal_ability
+msgctxt "233701"
+msgid ""
+"Choose two — • Return target creature card from your graveyard to your hand. "
+"• Target player discards a card. • Destroy target artifact. • CARDNAME deals "
+"2 damage to any target."
+msgstr ""
+
 #. internal_ability, printed_ability, type_artifact, type_land
 msgctxt "233750"
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -41859,6 +42233,11 @@ msgid ""
 "Choose target creature. You get |energy|\\ |energy|\\ |energy|, then you may "
 "pay any amount of |energy|. Harnessed Lightning deals that much damage to "
 "that creature."
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "235479"
+msgid "As an additional cost to cast this spell, sacrifice an artifact."
 msgstr ""
 
 #. printed_ability, type_creature
@@ -47502,6 +47881,19 @@ msgctxt "241298"
 msgid ""
 "When Angel of the Dire Hour enters the battlefield, if you cast it from your "
 "hand, exile all attacking creatures."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "241370"
+msgid "Kolaghan's Command deals 2 damage to any target."
+msgstr ""
+
+#. printed_ability, type_instant
+msgctxt "241372"
+msgid ""
+"Choose two — • Return target creature card from your graveyard to your hand. "
+"• Target player discards a card. • Destroy target artifact. • Kolaghan's "
+"Command deals 2 damage to any target."
 msgstr ""
 
 #. printed_ability, type_instant
@@ -61015,6 +61407,13 @@ msgid ""
 "ability."
 msgstr ""
 
+#. printed_ability, type_artifact
+msgctxt "285137"
+msgid ""
+"|mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. "
+"Draw a card."
+msgstr ""
+
 #. maybe_hidden
 msgctxt "285162"
 msgid "Target two permanents."
@@ -61251,6 +61650,11 @@ msgstr ""
 #. maybe_hidden
 msgctxt "288830"
 msgid "Target a Dragon permanent card."
+msgstr ""
+
+#. printed_ability, type_artifact, type_creature
+msgctxt "288869"
+msgid "Court Homunculus gets +1/+1 as long as you control another artifact."
 msgstr ""
 
 #. printed_ability, type_creature
@@ -61778,6 +62182,13 @@ msgstr ""
 #. card_subtype
 msgctxt "298710"
 msgid "Giant Berserker"
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "298816"
+msgid ""
+"When Ichor Wellspring enters the battlefield or is put into a graveyard from "
+"the battlefield, draw a card."
 msgstr ""
 
 #. printed_ability, type_artifact, type_creature
@@ -63407,6 +63818,20 @@ msgid ""
 "Sarkhan's Rage deals 2 damage to you."
 msgstr ""
 
+#. maybe_hidden
+msgctxt "333034"
+msgid "Atarka's Command deals 3 damage to each opponent."
+msgstr ""
+
+#. printed_ability, type_instant
+msgctxt "333038"
+msgid ""
+"Choose two — • Your opponents can't gain life this turn. • Atarka's Command "
+"deals 3 damage to each opponent. • You may put a land card from your hand "
+"onto the battlefield. • Creatures you control get +1/+1 and gain reach until "
+"end of turn."
+msgstr ""
+
 #. printed_ability, type_artifact, type_creature
 msgctxt "333114"
 msgid ""
@@ -63454,6 +63879,18 @@ msgctxt "333259"
 msgid ""
 "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on "
 "each creature you control with a +1/+1 counter on it."
+msgstr ""
+
+#. card_subtype
+msgctxt "333375"
+msgid "Human Rogue Artificer"
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "333376"
+msgid ""
+"When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter "
+"artifact creature tokens with flying."
 msgstr ""
 
 #. internal_ability
@@ -68891,11 +69328,6 @@ msgid "Pay 6 life."
 msgstr ""
 
 #. maybe_hidden
-msgctxt "345588"
-msgid "Have {1, CardId} become a copy of another target creature?"
-msgstr ""
-
-#. maybe_hidden
 msgctxt "349019"
 msgid "Pay |mana_w|."
 msgstr ""
@@ -72333,7 +72765,7 @@ msgctxt "352244"
 msgid "Field of the Dead"
 msgstr ""
 
-#. printed_ability, type_land
+#. internal_ability, printed_ability, type_land
 msgctxt "352245"
 msgid "Field of the Dead enters the battlefield tapped."
 msgstr ""
@@ -73382,6 +73814,11 @@ msgstr ""
 #. maybe_hidden
 msgctxt "405419"
 msgid "Search for a card named Vivien, Nature's Avenger."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "406806"
+msgid "Put a creature or land card into your hand?"
 msgstr ""
 
 #. maybe_hidden
@@ -79200,14 +79637,6 @@ msgstr ""
 #. maybe_hidden
 msgctxt "414597"
 msgid "Reveal a Knight, Aura, Equipment, or legendary artifact card?"
-msgstr ""
-
-#. internal_ability
-msgctxt "414598"
-msgid ""
-"Return it to the battlefield under your control at the beginning of the next "
-"end step. (Exile another target creature you own. Return it to the "
-"battlefield under your control at the beginning of the next end step.)"
 msgstr ""
 
 #. maybe_hidden
@@ -85696,6 +86125,13 @@ msgctxt "427787"
 msgid ""
 "Creatures you control have base power and toughness 3/3 and are Elks in "
 "addition to their other types."
+msgstr ""
+
+#. flavor_text
+msgctxt "427859"
+msgid ""
+"\"If I wanted your opinion, I'd have told you what it was.\"\n"
+"—Pemmin, Riptide survivor"
 msgstr ""
 
 #. maybe_hidden
@@ -122810,6 +123246,190 @@ msgstr ""
 #. maybe_hidden
 msgctxt "541105"
 msgid "Return Retriever Phoenix to the battlefield instead of learning?"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "541857"
+msgid ""
+"Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a "
+"card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "541859"
+msgid ""
+"Whenever a non-Human creature you control attacks, look at the top four "
+"cards of your library. You may put a Human creature card from among them "
+"onto the battlefield tapped and attacking. It gains indestructible until end "
+"of turn. Put the rest of the cards on the bottom of your library in a random "
+"order."
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "541868"
+msgid "+1: Create a Food token."
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "541869"
+msgid ""
+"–2: Target artifact or creature loses all abilities and becomes a green Elk "
+"creature with base power and toughness 3/3."
+msgstr ""
+
+#. internal_ability
+msgctxt "541874"
+msgid "Add Die Roll"
+msgstr ""
+
+#. internal_ability
+msgctxt "542962"
+msgid ""
+"Return it to the battlefield under your control at the beginning of the next "
+"end step. ( Exile another target creature you own. Return it to the "
+"battlefield under your control at the beginning of the next end step.)"
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "543028"
+msgid ""
+"Search your library for a Dragon permanent card, put it onto the "
+"battlefield, then shuffle."
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "543050"
+msgid ""
+"Choose two — • Return target creature card with mana value 2 or less from "
+"your graveyard to the battlefield. • You gain 4 life. • Counter target "
+"creature spell. • Draw a card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "543053"
+msgid ""
+"Search your library for a snow land card, put it onto the battlefield "
+"tapped, then shuffle."
+msgstr ""
+
+#. card_title
+msgctxt "543119"
+msgid "A-Agent of Treachery"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "543120"
+msgid ""
+"When Agent of Treachery enters the battlefield, if you cast it from your "
+"hand, gain control of target permanent."
+msgstr ""
+
+#. card_title
+msgctxt "543121"
+msgid "A-Field of the Dead"
+msgstr ""
+
+#. internal_ability, printed_ability, type_land
+msgctxt "543122"
+msgid ""
+"Whenever Field of the Dead or another land enters the battlefield under your "
+"control, if you control seven or more lands with different names, create a "
+"tapped 2/2 black Zombie creature token."
+msgstr ""
+
+#. card_title
+msgctxt "543123"
+msgid "A-Fires of Invention"
+msgstr ""
+
+#. card_title
+msgctxt "543124"
+msgid "A-Nexus of Fate"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "543125"
+msgid "Take an extra turn after this one. Exile Nexus of Fate."
+msgstr ""
+
+#. card_title
+msgctxt "543126"
+msgid "A-Oko, Thief of Crowns"
+msgstr ""
+
+#. card_title
+msgctxt "543129"
+msgid "A-Omnath, Locus of Creation"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "543130"
+msgid "When Omnath, Locus of Creation enters the battlefield, scry 1."
+msgstr ""
+
+#. card_title
+msgctxt "543131"
+msgid "A-Once Upon a Time"
+msgstr ""
+
+#. card_title
+msgctxt "543133"
+msgid "A-Teferi, Time Raveler"
+msgstr ""
+
+#. card_title
+msgctxt "543134"
+msgid "A-Uro, Titan of Nature's Wrath"
+msgstr ""
+
+#. card_title
+msgctxt "543136"
+msgid "A-Veil of Summer"
+msgstr ""
+
+#. card_title
+msgctxt "543137"
+msgid "A-Wilderness Reclamation"
+msgstr ""
+
+#. internal_ability, printed_ability, type_enchantment
+msgctxt "543138"
+msgid ""
+"At the beginning of your end step, untap up to two target lands you control."
+msgstr ""
+
+#. card_title
+msgctxt "543139"
+msgid "A-Winota, Joiner of Forces"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "545309"
+msgid "CardTypePlaceholder14"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "545310"
+msgid "CardTypePlaceholder15"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "545311"
+msgid "CardTypePlaceholder13"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "545337"
+msgid ""
+"If this spell is the first spell you've cast this game, you may pay |mana_1| "
+"rather than pay this spell's mana cost."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "547405"
+msgid ""
+"Have {1, CardId} become a copy of another target creature, except it has "
+"this ability?"
 msgstr ""
 
 #. card_subtype
