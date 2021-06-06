@@ -631,14 +631,14 @@
    Tizerus Charger escapes with your choice of a +1/+1 counter or a flying counter on it.
 
 
-:mtgtip:`Tourach, Dread Cantor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3526751-0101-4d91-a496-c53cd92326e0.jpg?1622389390|https://scryfall.com/card/mh2/102/tourach-dread-cantor?utm_source=api>`
+:mtgtip:`Tourach, Dread Cantor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3526751-0101-4d91-a496-c53cd92326e0.jpg?1622996726|https://scryfall.com/card/mh2/102/tourach-dread-cantor?utm_source=api>`
    Kicker |mana_b|\ |mana_b| (You may pay an additional |mana_b|\ |mana_b| as you cast this spell.)
 
    Protection from white
 
    Whenever an opponent discards a card, put a +1/+1 counter on Tourach, Dread Cantor.
 
-   When Tourach enters the battelfield, if it was kicked, target opponent discards two cards at random.
+   When Tourach enters the battlefield, if it was kicked, target opponent discards two cards at random.
 
 
 :mtgtip:`Tourach's Canticle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d97fd7d-c29f-4db0-b909-2f6aa9c39d65.jpg?1621884951|https://scryfall.com/card/mh2/103/tourachs-canticle?utm_source=api>`
@@ -1683,7 +1683,7 @@
    Prevent all damage that would be dealt to you.
 
 
-:mtgtip:`Soul Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5da64eec-d8a9-4156-9d26-56f81e1ffc44.jpg?1622388436|https://scryfall.com/card/mh2/266/soul-snare?utm_source=api>`
+:mtgtip:`Soul Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5da64eec-d8a9-4156-9d26-56f81e1ffc44.jpg?1622822059|https://scryfall.com/card/mh2/266/soul-snare?utm_source=api>`
    |mana_w|, Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.
 
 
@@ -1737,7 +1737,7 @@
    Discard a card: Add |mana_b|.
 
 
-:mtgtip:`Chance Encounter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49a4b0c9-a35b-4b55-ab27-7246bbca0d16.jpg?1622389884|https://scryfall.com/card/mh2/277/chance-encounter?utm_source=api>`
+:mtgtip:`Chance Encounter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49a4b0c9-a35b-4b55-ab27-7246bbca0d16.jpg?1622848758|https://scryfall.com/card/mh2/277/chance-encounter?utm_source=api>`
    Whenever you win a coin flip, put a luck counter on Chance Encounter.
 
    At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.
