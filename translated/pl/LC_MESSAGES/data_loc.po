@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-05-29 18:38+0000\n"
+"PO-Revision-Date: 2021-06-06 14:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -26697,18 +26697,13 @@ msgstr ""
 "artefaktowego stwora Topter 1/1 z lataniem."
 
 #. internal_ability, printed_ability, type_creature
-#, fuzzy
-#| msgctxt "336402"
-#| msgid ""
-#| "Put two +1/+1 counters on target creature you control. That creature "
-#| "can't be blocked this turn."
 msgctxt "117497"
 msgid ""
 "Tap two untapped artifacts you control: Target creature can't be blocked "
 "this turn."
 msgstr ""
-"Umieść dwa znaczniki +1/+1 na wskazanym stworze pod twoim władaniem. Ów "
-"stwór nie może być blokowany w tej turze."
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Wskazany stwór nie "
+"może być blokowany w tej turze."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "117542"
@@ -122370,14 +122365,10 @@ msgid "Star Pupil enters the battlefield with a +1/+1 counter on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając znacznik +1/+1."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "58816"
-#| msgid ""
-#| "When CARDNAME dies, put a +1/+1 counter on target creature you control."
 msgctxt "488238"
 msgid "When CARDNAME dies, put its counters on target creature you control."
 msgstr ""
-"Kiedy CARDNAME umrze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"Kiedy CARDNAME umrze, umieść jego znaczniki na wskazanym stworze pod twoim "
 "władaniem."
 
 #. printed_ability, type_creature
@@ -124955,12 +124946,9 @@ msgid "First in his clan to attend Strixhaven, and now first in his class."
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "351671"
-#| msgid "Angel of Vitality gets +2/+2 as long as you have 25 or more life."
 msgctxt "488591"
 msgid "CARDNAME gets +2/+1 as long as you have 25 or more life."
-msgstr "Ten stwór dostaje +2/+2 o ile masz co najmniej 25 żyć."
+msgstr "CARDNAME dostaje +2/+1 o ile masz co najmniej 25 żyć."
 
 #. printed_ability, type_creature
 msgctxt "488592"
@@ -125136,13 +125124,10 @@ msgid "\"Linear growth? What am I, a first-year?\""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "272858"
-#| msgid "|mana_4|\\ |mana_g|: CARDNAME gets +2/+2 until end of turn."
 msgctxt "488617"
 msgid ""
 "|mana_4|\\ |mana_g|: Double CARDNAME's power and toughness until end of turn."
-msgstr "|mana_4|\\ |mana_g|: CARDNAME dostaje do końca tury +2/+2."
+msgstr "|mana_4|\\ |mana_g|: Podwój do końca tury siłę i wytrzymałość CARDNAME."
 
 #. printed_ability, type_creature
 msgctxt "488618"
@@ -125427,12 +125412,9 @@ msgid "Awaken the Blood Avatar"
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "25055"
-#| msgid "Flashback |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r|"
 msgctxt "488658"
 msgid "Warlock—|mana_1|\\ |mana_w|\\ |mana_b|\\ |mana_b|"
-msgstr "Wspomnienie |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r|"
+msgstr "Czarnoksiężnik—|mana_1|\\ |mana_w|\\ |mana_b|\\ |mana_b|"
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "488659"
@@ -127092,17 +127074,11 @@ msgid "Kasmina, Enigma Sage"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "336272"
-#| msgid ""
-#| "Whenever another creature or planeswalker you control dies, put a +1/+1 "
-#| "counter on CARDNAME."
 msgctxt "488880"
 msgid ""
 "Each other planeswalker you control has the loyalty abilities of CARDNAME."
 msgstr ""
-"Ilekroć umrze inny stwór lub wędrowiec pod twoim władaniem, umieść znacznik "
-"+1/+1 na CARDNAME."
+"Każdy inny wędrowiec pod twoim władaniem ma zdolności lojalnościowe CARDNAME."
 
 #. printed_ability, type_planeswalker
 msgctxt "488881"
@@ -128842,12 +128818,9 @@ msgid "Strixhaven Stadium"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "55968"
-#| msgid "Pay |energy|\\ |energy|: Put a +1/+1 counter on CARDNAME."
 msgctxt "489109"
 msgid "|tap|: Add |colorless|. Put a point counter on CARDNAME."
-msgstr "Zapłać |energy|\\ |energy|: Umieść znacznik +1/+1 na CARDNAME."
+msgstr "|tap|: Weź |colorless|. Umieść znacznik punktu na CARDNAME."
 
 #. printed_ability, type_artifact
 msgctxt "489110"
