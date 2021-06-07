@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-07 00:48+0200\n"
-"PO-Revision-Date: 2021-06-04 10:12+0000\n"
+"PO-Revision-Date: 2021-06-07 12:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -38,15 +38,11 @@ msgid "You gain 1 life."
 msgstr "Zyskaj 1 życie."
 
 #: ../../MH2.rst:13
-#, fuzzy
-#| msgid ""
-#| "−6: You may put an artifact card from your hand or graveyard onto the "
-#| "battlefield."
 msgid ""
 "Return target creature card with mana value 1 from your graveyard to the "
 "battlefield."
 msgstr ""
-"–6: Możesz umieścić kartę artefaktu z twojej ręki lub cmentarza na polu "
+"Przywróć wskazaną kartę stwora o skrócie many 1 z twojego cmentarza na pole "
 "bitwy."
 
 #: ../../MH2.rst:20
@@ -309,16 +305,12 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../MH2.rst:99
-#, fuzzy
-#| msgid ""
-#| "Whenever you sacrifice an artifact or creature, put a +1/+1 counter on "
-#| "Ravenous Squirrel."
 msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Guardian "
 "Kirin."
 msgstr ""
-"Ilekroć poświęcisz artefakt lub stwora, umieść znacznik +1/+1 na niniejszym "
-"stworze."
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../MH2.rst:104
 msgid ""
@@ -416,13 +408,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:131
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of "
-#| "turn."
 msgid "|mana_w|: Marble Gargoyle gets +0/+1 until end of turn."
-msgstr ""
-"|mana_b|, poświęć X Wiewiórów: Wskazany stwór dostaje do końca tury +X/-X."
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../MH2.rst:136
 msgid ""
@@ -498,21 +485,15 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:155
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
-#| "pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the "
-#| "beginning of your upkeep, remove a time counter. When the last is "
-#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 2—|mana_1|\\ |mana_w| (Rather than cast this card from your hand, "
 "you may pay |mana_1|\\ |mana_w| and exile it with two time counters on it. "
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
-"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"Zawieszenie 2—|mana_1|\\ |mana_w| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_w| i wygnać ją z dwoma znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
 "znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH2.rst:157
@@ -579,10 +560,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:179
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "As Serra's Emissary enters the battlefield, choose a card type."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Umieszczając tego stwora na polu bitwy, wybierz typ karty."
 
 #: ../../MH2.rst:181
 msgid ""
@@ -625,10 +604,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:199
-#, fuzzy
-#| msgid "Evoke—Exile a black card from your hand."
 msgid "Evoke—Exile a white card from your hand."
-msgstr "Przyzwanie—Wygnaj czarną kartę z twojej ręki."
+msgstr "Przyzwanie—Wygnaj białą kartę z twojej ręki."
 
 #: ../../MH2.rst:208
 msgid ""
@@ -638,16 +615,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:205
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When Soul of Migration enters the battlefield, create two 1/1 white Bird "
 "creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora Ptak "
+"1/1 z lataniem."
 
 #: ../../MH2.rst:207
 msgid ""
@@ -669,10 +642,9 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../MH2.rst:213
-#, fuzzy
-#| msgid "Other Squirrels you control get +1/+1."
 msgid "Other nontoken creatures you control get +1/+1 and have vigilance."
-msgstr "Inne Wiewióry pod twoim władaniem dostają +1/+1."
+msgstr ""
+"Inne nieżetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../MH2.rst:222
 msgid ""
@@ -765,10 +737,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:249
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "When Dress Down enters the battlefield, draw a card."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Umieszczając ten urok na polu bitwy, dobierz kartę."
 
 #: ../../MH2.rst:251
 msgid "Creatures lose all abilities."
@@ -884,14 +854,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:295
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid "Create a 0/3 blue Crab creature token."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+msgstr "Stwórz żeton niebieskiego stwora Krab 0/3."
 
 #: ../../MH2.rst:297
 msgid ""
@@ -1020,16 +984,12 @@ msgstr ""
 "tego czaru opłaca |mana_1|.)"
 
 #: ../../MH2.rst:333
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "Murktide Regent enters the battlefield with a +1/+1 counter on it for each "
 "instant or sorcery card exiled with it."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile kart "
+"sztuczek lub obrzędów wygnano przy jego udziale."
 
 #: ../../MH2.rst:335
 msgid ""
@@ -1219,16 +1179,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:401
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When So Shiny enters the battlefield, if you control a token, tap enchanted "
 "creature, then scry 2."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy ten urok wejdzie na pole bitwy, jeśli władasz żetonem, przekręć "
+"zauroczonego stwora, po czym wróż 2."
 
 #: ../../MH2.rst:403
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1242,16 +1198,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:407
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When Specimen Collector enters the battlefield, create a 1/1 green Squirrel "
 "creature token and a 0/3 blue Crab creature token."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"1/1 oraz żeton niebieskiego stwora Krab 0/3."
 
 #: ../../MH2.rst:409
 msgid ""
@@ -1267,16 +1219,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:415
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "Whenever an artifact enters the battlefield under your control, untap "
 "Steelfin Whale."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, odkręć "
+"niniejszego stwora."
 
 #: ../../MH2.rst:422
 msgid ""
@@ -1290,16 +1238,12 @@ msgid "Return two target creatures to their owners' hands."
 msgstr ""
 
 #: ../../MH2.rst:421
-#, fuzzy
-#| msgid ""
-#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgid ""
 "Wizardcycling |mana_2| (|mana_2|, Discard this card: Search your library for "
 "a Wizard card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
+"Czarodziejocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę Czarodzieja, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj.)"
 
 #: ../../MH2.rst:432
@@ -1317,10 +1261,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:431
-#, fuzzy
-#| msgid "Evoke—Exile a black card from your hand."
 msgid "Evoke—Exile a blue card from your hand."
-msgstr "Przyzwanie—Wygnaj czarną kartę z twojej ręki."
+msgstr "Przyzwanie—Wygnaj niebieską kartę z twojej ręki."
 
 #: ../../MH2.rst:436
 msgid ""
@@ -1351,10 +1293,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:441
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Whenever Svyelun attacks, draw a card."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ilekroć ten stwór zaatakuje, dobierz kartę."
 
 #: ../../MH2.rst:443
 msgid ""
@@ -1388,10 +1328,8 @@ msgid "Affinity for artifacts"
 msgstr "Koligacja z artefaktami"
 
 #: ../../MH2.rst:455
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "When Thought Monitor enters the battlefield, draw two cards."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../MH2.rst:464
 msgid ""
@@ -1447,22 +1385,16 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:477
-#, fuzzy
-#| msgid ""
-#| "Eternalize |mana_2|\\ |mana_w|\\ |mana_w| (|mana_2|\\ |mana_w|\\ |"
-#| "mana_w|, Exile this card from your graveyard: Create a token that's a "
-#| "copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. "
-#| "Eternalize only as a sorcery.)"
 msgid ""
 "Unearth |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|: "
 "Return this card from your graveyard to the battlefield. It gains haste. "
 "Exile it at the beginning of the next end step or if it would leave the "
 "battlefield. Unearth only as a sorcery.)"
 msgstr ""
-"Uwiecznienie |mana_2|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
-"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
-"wyjątkiem tego, że jest to czarny Zombi Smok 4/4 bez kosztu many. Uwieczniaj "
-"tylko jako obrzęd.)"
+"Odkopanie |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|: "
+"Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
+"Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../MH2.rst:484
 msgid ""
@@ -1542,24 +1474,18 @@ msgid "Clattering Augur can't block."
 msgstr ""
 
 #: ../../MH2.rst:507
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid ""
 "When Clattering Augur enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../MH2.rst:509
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_b|: Return Clattering Augur from your graveyard "
 "to your hand."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"|mana_2|\\ |mana_b|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../MH2.rst:516
 msgid ""
@@ -1778,16 +1704,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:579
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "Whenever a nontoken creature is put into your graveyard from the "
 "battlefield, create a 2/2 black Zombie creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Ilekroć nieżetonowy stwór zostanie umieszczony z pola walki w twoim "
+"cmentarzu, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../MH2.rst:581
 msgid ""
@@ -1845,16 +1767,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:601
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When Nested Shambler dies, create X tapped 1/1 green Squirrel creature "
 "tokens, where X is Nested Shambler's power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy ten stwór umrze, stwórz X przekręconych żetonów zielonego stwora "
+"Wiewiór 1/1, gdzie X jest siłą tego stwora."
 
 #: ../../MH2.rst:606
 msgid ""
@@ -1864,16 +1782,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:605
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "Return target nonlegendary creature card from your graveyard to the "
 "battlefield with a -1/-1 counter on it."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"Przywróć wskazaną kartę nielegendarnego stwora z twojego cmentarza na pole "
+"bitwy ze znacznikiem -1/-1."
 
 #: ../../MH2.rst:612
 msgid ""
@@ -1909,17 +1823,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:615
-#, fuzzy
-#| msgid ""
-#| "Converge — Exile target nonland permanent if its mana value is less than "
-#| "or equal to the number of colors of mana spent to cast this spell."
 msgid ""
 "Converge — When Radiant Epicure enters the battlefield, each opponent loses "
 "X life and you gain X life, where X is the number of colors of mana spent to "
 "cast this spell."
 msgstr ""
-"Komasowanie — Wygnaj wskazany nielądowy permanent jeśli jego skrót many jest "
-"mniejszy lub równy liczbie kolorów many użytych do rzucenia tego czaru."
+"Komasowanie — Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci "
+"po X żyć, a ty zyskaj X żyć, gdzie X jest liczbą kolorów many wydanej do "
+"rzucenia tego czaru."
 
 #: ../../MH2.rst:620
 msgid ""
@@ -1980,16 +1891,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:635
-#, fuzzy
-#| msgid ""
-#| "Multikicker |mana_2| (You may pay an additional |mana_2| any number of "
-#| "times as you cast this spell.)"
 msgid ""
 "Kicker |mana_b|\\ |mana_b| (You may pay an additional |mana_b|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Wielopodbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić "
-"wielokrotność |mana_2|.)"
+"Podbicie |mana_b|\\ |mana_b| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_b|\\ |mana_b|.)"
 
 #: ../../MH2.rst:637
 msgid "Protection from white"
@@ -2002,16 +1909,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:641
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When Tourach enters the battlefield, if it was kicked, target opponent "
 "discards two cards at random."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, wskazany "
+"przeciwnik odrzuca dwie losowe karty."
 
 #: ../../MH2.rst:646
 msgid ""
@@ -2021,16 +1924,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:645
-#, fuzzy
-#| msgid ""
-#| "When Grief enters the battlefield, target opponent reveals their hand. "
-#| "You choose a nonland card from it. That player discards that card."
 msgid ""
 "Target opponent reveals their hand. You choose a card from it. That player "
 "discards that card, then discards a card at random."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
-"rękę. Wybierz z niej nie-lądową kartę. Ów gracz odrzuca ową kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"odrzuca ową kartę, po czym odrzuca losową kartę."
 
 #: ../../MH2.rst:652
 msgid ""
@@ -2104,16 +2003,12 @@ msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
 #: ../../MH2.rst:669
-#, fuzzy
-#| msgid ""
-#| "Search your library for a nonlegendary card, put that card into your "
-#| "graveyard, then shuffle."
 msgid ""
 "When Vile Entomber enters the battlefield, search your library for a card, "
 "put that card into your graveyard, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece nielegendarną kartę, umieść ową kartę w twoim "
-"cmentarzu, po czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj kartę w twojej bibliotece, "
+"umieść ową kartę w twoim cmentarzu, po czym przetasuj."
 
 #: ../../MH2.rst:678
 msgid ""
@@ -2183,16 +2078,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:695
-#, fuzzy
-#| msgid ""
-#| "Whenever you sacrifice an artifact or creature, put a +1/+1 counter on "
-#| "Ravenous Squirrel."
 msgid ""
 "Whenever you cast a spell other than your first spell each turn, put a +1/+1 "
 "counter on Arcbound Tracker."
 msgstr ""
-"Ilekroć poświęcisz artefakt lub stwora, umieść znacznik +1/+1 na niniejszym "
-"stworze."
+"Ilekroć rzucisz czar oprócz swojego pierwszego czaru w danej turze, umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../MH2.rst:704
 msgid ""
@@ -2202,13 +2093,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:701
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of "
-#| "turn."
 msgid "|mana_r|: Arcbound Whelp gets +1/+0 until end of turn."
-msgstr ""
-"|mana_b|, poświęć X Wiewiórów: Wskazany stwór dostaje do końca tury +X/-X."
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../MH2.rst:710
 msgid ""
@@ -2284,16 +2170,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:725
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When Breya's Apprentice enters the battlefield, create a 1/1 colorless "
 "Thopter artifact creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../MH2.rst:727
 msgid "|tap|, Sacrifice an artifact: Choose one —"
@@ -2472,22 +2354,16 @@ msgid "Double strike"
 msgstr "Podwójny cios"
 
 #: ../../MH2.rst:785
-#, fuzzy
-#| msgid ""
-#| "When Flametongue Yearling enters the battlefield, it deals damage equal "
-#| "to its power to target creature."
 msgid ""
 "When Fury enters the battlefield, it deals 4 damage divided as you choose "
 "among any number of target creatures and/or planeswalkers."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi "
-"obrażenia równe swojej sile."
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on 4 obrażenia rozdzielone "
+"dowolnie pomiędzy dowolną liczbę wskazanych stworów i/lub wędrowców."
 
 #: ../../MH2.rst:787
-#, fuzzy
-#| msgid "Evoke—Exile a black card from your hand."
 msgid "Evoke—Exile a red card from your hand."
-msgstr "Przyzwanie—Wygnaj czarną kartę z twojej ręki."
+msgstr "Przyzwanie—Wygnaj czerwoną kartę z twojej ręki."
 
 #: ../../MH2.rst:794
 msgid ""
@@ -2518,22 +2394,17 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:799
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
-#| "pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the "
-#| "beginning of your upkeep, remove a time counter. When the last is "
-#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 4—|mana_1|\\ |mana_r| (Rather than cast this card from your hand, "
 "you may pay |mana_1|\\ |mana_r| and exile it with four time counters on it. "
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
-"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
-"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
+"Zawieszenie 4—|mana_1|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_r| i wygnać ją z czterema znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
+"Ma pośpiech.)"
 
 #: ../../MH2.rst:806
 msgid ""
@@ -2614,16 +2485,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:825
-#, fuzzy
-#| msgid ""
-#| "Converge — Exile target nonland permanent if its mana value is less than "
-#| "or equal to the number of colors of mana spent to cast this spell."
 msgid ""
 "Converge — Kaleidoscorch deals X damage to any target, where X is the number "
 "of colors of mana spent to cast this spell."
 msgstr ""
-"Komasowanie — Wygnaj wskazany nielądowy permanent jeśli jego skrót many jest "
-"mniejszy lub równy liczbie kolorów many użytych do rzucenia tego czaru."
+"Komasowanie — Ten czar zadaje wskazanemu celowi X obrażeń, gdzie X jest "
+"liczbą kolorów many wydanej do rzucenia tego czaru."
 
 #: ../../MH2.rst:827
 msgid ""
@@ -2662,22 +2529,16 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:839
-#, fuzzy
-#| msgid ""
-#| "If it's not your turn, you may exile a blue card from your hand rather "
-#| "than pay this spell's mana cost."
 msgid ""
 "If it's your turn, you may sacrifice a Mountain rather than pay this spell's "
 "mana cost."
 msgstr ""
-"Jeśli nie jest twoja tura, możesz wygnać niebieską kartę z twojej ręki "
-"zamiast płacić koszt many tego czaru."
+"Jeśli jest twoja tura, możesz poświęcić Górę zamiast płacić koszt many tego "
+"czaru."
 
 #: ../../MH2.rst:841
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Mine Collapse deals 5 damage to target creature or planeswalker."
-msgstr "Zniszcz wskazany urok."
+msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń."
 
 #: ../../MH2.rst:846
 msgid ""
@@ -2701,16 +2562,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:849
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_3| less to cast for each other spell cast this "
-#| "turn."
 msgid ""
 "This spell costs |mana_1| less to cast for each land your opponents control "
 "that could produce |colorless|."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_3| mniej za każdy inny czar rzucony w "
-"tej turze."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy ląd pod władaniem "
+"twoich przeciwników mogący dać |colorless|."
 
 #: ../../MH2.rst:853
 msgid ""
@@ -2751,16 +2608,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:863
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "When Revolutionist enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../MH2.rst:865
 msgid ""
@@ -2874,10 +2727,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:899
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Unholy Heat deals 2 damage to target creature or planeswalker."
-msgstr "Zniszcz wskazany urok."
+msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia."
 
 #: ../../MH2.rst:901
 msgid ""
@@ -2932,16 +2783,12 @@ msgid "Aeve, Progenitor Ooze isn't legendary as long as it's a token."
 msgstr ""
 
 #: ../../MH2.rst:917
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "Aeve enters the battlefield with a +1/+1 counter on it for each other Ooze "
 "you control."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdy inny Szlam pod "
+"twoim władaniem."
 
 #: ../../MH2.rst:926
 msgid ""
@@ -2988,10 +2835,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:933
-#, fuzzy
-#| msgid ""
-#| "Forestwalk (This creature can't be blocked as long as defending player "
-#| "controls a forest.)"
 msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
@@ -3037,21 +2880,15 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:949
-#, fuzzy
-#| msgid "Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield."
 msgid ""
 "Squirrels you control get +1/+1 for each acorn counter on Chitterspitter."
-msgstr "Ten stwór dostaje +1/+1 za każdego innego Wiewióra na polu bitwy."
+msgstr ""
+"Wiewióry pod twoim władaniem dostają +1/+1 za każdy znacznik żołędzia na tym "
+"artefakcie."
 
 #: ../../MH2.rst:951
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid "|mana_g|, |tap|: Create a 1/1 green Squirrel creature token."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+msgstr "|mana_g|, |tap|: Stwórz żeton zielonego stwora Wiewiór 1/1."
 
 #: ../../MH2.rst:956
 msgid ""
@@ -3074,16 +2911,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:961
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_3| less to cast for each other spell cast this "
-#| "turn."
 msgid ""
 "|mana_5|\\ |mana_g|, |tap|: Draw a card. This ability costs |mana_1| less to "
 "activate for each +1/+1 counter on creatures you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_3| mniej za każdy inny czar rzucony w "
-"tej turze."
+"|mana_5|\\ |mana_g|, |tap|: Dobierz kartę. Aktywacja tej zdolności kosztuje "
+"o |mana_1| mniej za każdy znacznik +1/+1 na stworach pod twoim władaniem."
 
 #: ../../MH2.rst:968
 msgid ""
@@ -3093,16 +2926,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:965
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "When Duskshell Crawler enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../MH2.rst:967
 msgid "Each creature you control with a +1/+1 counter on it has trample."
@@ -3122,10 +2951,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:977
-#, fuzzy
-#| msgid "Evoke—Exile a black card from your hand."
 msgid "Evoke—Exile a green card from your hand."
-msgstr "Przyzwanie—Wygnaj czarną kartę z twojej ręki."
+msgstr "Przyzwanie—Wygnaj zieloną kartę z twojej ręki."
 
 #: ../../MH2.rst:982
 msgid ""
@@ -3168,16 +2995,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:995
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "When Foundation Breaker enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt "
+"lub urok."
 
 #: ../../MH2.rst:997
 msgid ""
@@ -3229,13 +3052,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1015
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of "
-#| "turn."
 msgid "Sacrifice a token: Glimmer Bairn gets +2/+2 until end of turn."
-msgstr ""
-"|mana_b|, poświęć X Wiewiórów: Wskazany stwór dostaje do końca tury +X/-X."
+msgstr "Poświęć żeton: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../MH2.rst:1022
 msgid ""
@@ -3245,16 +3063,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1019
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "Converge — Glinting Creeper enters the battlefield with two +1/+1 counters "
 "on it for each color of mana spent to cast it."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Komasowanie — Ten stwór wchodzi na ple bitwy mając po dwa znaczniki +1/+1 za "
+"każdy kolor many wydanej do jego rzucenia."
 
 #: ../../MH2.rst:1021
 msgid "Glinting Creeper can't be blocked by creatures with power 2 or less."
@@ -3268,16 +3082,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1025
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "Whenever one or more +1/+1 counters are put on Herd Baloth, you may create a "
 "4/4 green Beast creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Ilekroć jeden lub więcej znacznik +1/+1 zostanie umieszczonych na tym "
+"stworze, możesz utworzyć żeton zielonego stwora Bestia 4/4."
 
 #: ../../MH2.rst:1032
 msgid ""
@@ -3360,22 +3170,16 @@ msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../MH2.rst:1053
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
-#| "pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the "
-#| "beginning of your upkeep, remove a time counter. When the last is "
-#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 2—|mana_g| (Rather than cast this card from your hand, pay |mana_g| "
 "and exile it with two time counters on it. At the beginning of your upkeep, "
 "remove a time counter. When the last is removed, cast it without paying its "
 "mana cost.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
-"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
-"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_g| i wygnać ją z dwoma znacznikami czasu. Na początku twojego "
+"kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH2.rst:1058
 msgid ""
@@ -3408,16 +3212,12 @@ msgstr ""
 "na niniejszym stworze.)"
 
 #: ../../MH2.rst:1063
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "Whenever one or more +1/+1 counters are put on Scurry Oak, you may create a "
 "1/1 green Squirrel creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na tym "
+"stworze, stwórz żeton zielonego stwora Wiewiór 1/1."
 
 #: ../../MH2.rst:1070
 msgid ""
@@ -3537,34 +3337,24 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1105
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "When Timeless Witness enters the battlefield, return target card from your "
 "graveyard to your hand."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../MH2.rst:1107
-#, fuzzy
-#| msgid ""
-#| "Eternalize |mana_2|\\ |mana_w|\\ |mana_w| (|mana_2|\\ |mana_w|\\ |"
-#| "mana_w|, Exile this card from your graveyard: Create a token that's a "
-#| "copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. "
-#| "Eternalize only as a sorcery.)"
 msgid ""
 "Eternalize |mana_5|\\ |mana_g|\\ |mana_g| (|mana_5|\\ |mana_g|\\ |mana_g|, "
 "Exile this card from your graveyard: Create a token that's a copy of it, "
 "except it's a 4/4 black Zombie Human Shaman with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
-"Uwiecznienie |mana_2|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
+"Uwiecznienie |mana_5|\\ |mana_g|\\ |mana_g| (|mana_5|\\ |mana_g|\\ |mana_g|, "
 "wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
-"wyjątkiem tego, że jest to czarny Zombi Smok 4/4 bez kosztu many. Uwieczniaj "
-"tylko jako obrzęd.)"
+"wyjątkiem tego, że jest to czarny Zombi Człowiek Szaman 4/4 bez kosztu many. "
+"Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../MH2.rst:1112
 msgid ""
@@ -3607,14 +3397,9 @@ msgid "Choose two —"
 msgstr "Wybierz dwie —"
 
 #: ../../MH2.rst:1123
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid "Target player creates two tapped 1/1 green Squirrel creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Wskazany gracz tworzy dwa przekręcone żetony zielonego stwora Wiewiór 1/1."
 
 #: ../../MH2.rst:1125
 msgid "Counter target loyalty ability of a planeswalker."
@@ -3632,14 +3417,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1135
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid "Wren's Run Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../MH2.rst:1137
 msgid ""
@@ -3659,16 +3438,12 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../MH2.rst:1143
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "When Arcbound Shikari enters the battlefield, put a +1/+1 counter on each "
 "other artifact creature you control."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
+"artefaktowym stworze pod twoim władaniem."
 
 #: ../../MH2.rst:1154
 msgid ""
@@ -3678,10 +3453,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1149
-#, fuzzy
-#| msgid "Lifelink"
 msgid "Reach, lifelink"
-msgstr "Więź życia"
+msgstr "Zasięg, więź życia"
 
 #: ../../MH2.rst:1151
 msgid ""
@@ -3866,16 +3639,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1213
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "When Drey Keeper enters the battlefield, create two 1/1 green Squirrel "
 "creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
+"Wiewiór 1/1."
 
 #: ../../MH2.rst:1215
 msgid ""
@@ -3997,28 +3766,20 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1259
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "Return target creature card from your graveyard to the battlefield with an "
 "additional +1/+1 counter on it."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy z "
+"dodatkowym znacznikiem +1/+1."
 
 #: ../../MH2.rst:1261
-#, fuzzy
-#| msgid ""
-#| "−6: You may put an artifact card from your hand or graveyard onto the "
-#| "battlefield."
 msgid ""
 "Return up to two target creature cards with power 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
-"–6: Możesz umieścić kartę artefaktu z twojej ręki lub cmentarza na polu "
-"bitwy."
+"Przywróć co najwyżej dwie wskazane karty stworów o sile 2 lub mniejszej z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../MH2.rst:1272
 msgid ""
@@ -4095,10 +3856,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1285
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "When Master of Death enters the battlefield, surveil 2."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 2."
 
 #: ../../MH2.rst:1287
 msgid ""
@@ -4146,34 +3905,24 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1305
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Pay 3 life, Sacrifice Priest of Fell Rites: Return target creature "
 "card from your graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"|tap|, zapłać 3 życia, poświęć tego stwora: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../MH2.rst:1307
-#, fuzzy
-#| msgid ""
-#| "Eternalize |mana_2|\\ |mana_w|\\ |mana_w| (|mana_2|\\ |mana_w|\\ |"
-#| "mana_w|, Exile this card from your graveyard: Create a token that's a "
-#| "copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. "
-#| "Eternalize only as a sorcery.)"
 msgid ""
 "Unearth |mana_3|\\ |mana_w|\\ |mana_b| (|mana_3|\\ |mana_w|\\ |mana_b|: "
 "Return this card from your graveyard to the battlefield. It gains haste. "
 "Exile it at the beginning of the next end step or if it would leave the "
 "battlefield. Unearth only as a sorcery.)"
 msgstr ""
-"Uwiecznienie |mana_2|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
-"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
-"wyjątkiem tego, że jest to czarny Zombi Smok 4/4 bez kosztu many. Uwieczniaj "
-"tylko jako obrzęd.)"
+"Odkopanie |mana_3|\\ |mana_w|\\ |mana_b| (|mana_3|\\ |mana_w|\\ |mana_b|: "
+"Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
+"Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../MH2.rst:1316
 msgid ""
@@ -4285,13 +4034,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1341
-#, fuzzy
-#| msgid ""
-#| "|mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of "
-#| "turn."
 msgid "|mana_1|: Storm God's Oracle gets +1/-1 until end of turn."
-msgstr ""
-"|mana_b|, poświęć X Wiewiórów: Wskazany stwór dostaje do końca tury +X/-X."
+msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../MH2.rst:1343
 msgid "When Storm God's Oracle dies, it deals 3 damage to any target."
@@ -4355,10 +4099,8 @@ msgid "Discard a card. If you do, draw a card."
 msgstr "Odrzuć kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../MH2.rst:1363
-#, fuzzy
-#| msgid "Exile target card from a graveyard."
 msgid "Exile up to one target card from a graveyard."
-msgstr "Wygnaj wskazaną kartę z cmentarza."
+msgstr "Wygnaj co najwyżej jedną wskazaną kartę z cmentarza."
 
 #: ../../MH2.rst:1372
 msgid ""
