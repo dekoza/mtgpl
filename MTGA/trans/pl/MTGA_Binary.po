@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-06-08 11:17+0000\n"
+"PO-Revision-Date: 2021-06-08 17:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtga/binary/"
 "pl/>\n"
@@ -2637,12 +2637,9 @@ msgctxt "MainNav/Settings/LanguageNative_de"
 msgid "Deutsch"
 msgstr ""
 
-#, fuzzy
-#| msgctxt "MainNav/Settings/Debug/Language_en"
-#| msgid "English"
 msgctxt "MainNav/Settings/LanguageNative_en"
 msgid "English"
-msgstr "Angielski"
+msgstr "English"
 
 msgctxt "MainNav/Settings/LanguageNative_es"
 msgid "Español"
@@ -2652,12 +2649,9 @@ msgctxt "MainNav/Settings/LanguageNative_fr"
 msgid "Français"
 msgstr "Polski (DEBUG)"
 
-#, fuzzy
-#| msgctxt "MainNav/Settings/Debug/Language_it"
-#| msgid "Italian"
 msgctxt "MainNav/Settings/LanguageNative_it"
 msgid "Italiano"
-msgstr "Włoski"
+msgstr ""
 
 msgctxt "MainNav/Settings/LanguageNative_ja"
 msgid "日本語"
