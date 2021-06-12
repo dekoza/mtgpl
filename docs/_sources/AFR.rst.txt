@@ -5,8 +5,18 @@
 =================================================
 
 
+:mtgtip:`Flumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1623429735|https://scryfall.com/card/afr/15/flumph?utm_source=api>`
+   Defender, flying
+
+   Whenever Flumph is dealt damage, you and target opponent each draw a card.
+
+
 :mtgtip:`Portable Hole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1620558378|https://scryfall.com/card/afr/33/portable-hole?utm_source=api>`
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
+
+
+:mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1623436606|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`
+   Each opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or more.
 
 
 :mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621816019|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`

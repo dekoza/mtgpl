@@ -13,7 +13,7 @@
    • Return target creature card with mana value 1 from your graveyard to the battlefield.
 
 
-:mtgtip:`Arcbound Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe4a2cb0-4129-451e-a946-a21ea646cc28.jpg?1622586535|https://scryfall.com/card/mh2/2/arcbound-javelineer?utm_source=api>`
+:mtgtip:`Arcbound Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe4a2cb0-4129-451e-a946-a21ea646cc28.jpg?1623039472|https://scryfall.com/card/mh2/2/arcbound-javelineer?utm_source=api>`
    |tap|, Remove X +1/+1 counters from Arcbound Javelineer: It deals X damage to target attacking or blocking creature.
 
    Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
@@ -135,10 +135,10 @@
    Whenever you gain life, you may put that many +1/+1 counters on each creature you control. You may do this only once each turn.
 
 
-:mtgtip:`Out of Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/053d6b3b-72d4-4a55-a79e-0a601aecf108.jpg?1622140529|https://scryfall.com/card/mh2/23/out-of-time?utm_source=api>`
+:mtgtip:`Out of Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/053d6b3b-72d4-4a55-a79e-0a601aecf108.jpg?1623466445|https://scryfall.com/card/mh2/23/out-of-time?utm_source=api>`
    When Out of Time enters the battlefield, untap all creatures, then phase them out until Out of Time leaves the battlefield. Put a time counter on Out of Time for each creature phased out this way.
 
-   Vanishing (At the beginning of your upkeep, remove a time counter from this creature. When the last is removed, sacrifice it.)
+   Vanishing (At the beginning of your upkeep, remove a time counter from this enchantment. When the last is removed, sacrifice it.)
 
 
 :mtgtip:`Piercing Rays<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaeb9fd0-c46a-4246-838f-a5b7a8ea8eef.jpg?1622648630|https://scryfall.com/card/mh2/24/piercing-rays?utm_source=api>`
@@ -373,11 +373,11 @@
    |mana_1|, |tap|: Tap target land.
 
 
-:mtgtip:`Said<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1622663902|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
+:mtgtip:`Said<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1623188725|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
    Return target instant or sorcery card from your graveyard to your hand.
 
 
-:mtgtip:`Done<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1622663902|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
+:mtgtip:`Done<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1623188725|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
    Tap up to two target creatures. They don't untap during their controllers' next untap step.
 
 
@@ -757,11 +757,11 @@
    Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 
 
-:mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1622587026|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
+:mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1623188755|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
    Discard a card, then draw two cards.
 
 
-:mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1622587026|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
+:mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1623188755|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
    Furious deals 3 damage to each creature without flying.
 
 
@@ -1239,7 +1239,7 @@
    Whenever you cast a multicolored spell, create a 4/4 red and white Golem artifact creature token.
 
 
-:mtgtip:`Geyadrone Dihada<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d228005-91f1-451e-ab6f-1f86316708a7.jpg?1622296950|https://scryfall.com/card/mh2/199/geyadrone-dihada?utm_source=api>`
+:mtgtip:`Geyadrone Dihada<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d228005-91f1-451e-ab6f-1f86316708a7.jpg?1623335922|https://scryfall.com/card/mh2/199/geyadrone-dihada?utm_source=api>`
    Protection from permanents with corruption counters on them
 
    +1: Each opponent loses 2 life and you gain 2 life. Put a corruption counter on up to one other target creature or planeswalker.
@@ -1327,11 +1327,11 @@
    |mana_1|\ |mana_b|\ |mana_g|, Sacrifice an artifact or creature: You gain 1 life and draw a card.
 
 
-:mtgtip:`Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1622136952|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
+:mtgtip:`Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1623188794|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1622136952|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
+:mtgtip:`Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1623188794|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Ruin deals damage to target creature equal to the number of lands you control.
@@ -1371,7 +1371,7 @@
    Evoke |mana_g|\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
-:mtgtip:`Yusri, Fortune's Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfab9e33-0d07-46e6-be06-1eaffe26cbfd.jpg?1621602235|https://scryfall.com/card/mh2/218/yusri-fortunes-flame?utm_source=api>`
+:mtgtip:`Yusri, Fortune's Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfab9e33-0d07-46e6-be06-1eaffe26cbfd.jpg?1623188874|https://scryfall.com/card/mh2/218/yusri-fortunes-flame?utm_source=api>`
    Flying
 
    Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yursi deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs.
@@ -1759,7 +1759,7 @@
    When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Mogg Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b93e65e-8a10-444f-8b0a-9327dd30cce2.jpg?1622390159|https://scryfall.com/card/mh2/282/mogg-salvage?utm_source=api>`
+:mtgtip:`Mogg Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b93e65e-8a10-444f-8b0a-9327dd30cce2.jpg?1623188944|https://scryfall.com/card/mh2/282/mogg-salvage?utm_source=api>`
    If an opponent controls an Island and you control a Mountain, you may cast this spell without paying its mana cost.
 
    Destroy target artifact.
@@ -1775,7 +1775,7 @@
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
 
-:mtgtip:`Quirion Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/320fdf89-e158-41c5-b0bf-fee9dec36a75.jpg?1622060062|https://scryfall.com/card/mh2/285/quirion-ranger?utm_source=api>`
+:mtgtip:`Quirion Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/320fdf89-e158-41c5-b0bf-fee9dec36a75.jpg?1623189455|https://scryfall.com/card/mh2/285/quirion-ranger?utm_source=api>`
    Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn.
 
 
@@ -1801,11 +1801,11 @@
    Whenever a nontoken creature enters the battlefield under your control, if you didn't cast it from your hand, it gains haste until your next turn.
 
 
-:mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1622227187|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
+:mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1623188989|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
    Fire deals 2 damage divided as you choose among one or two targets.
 
 
-:mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1622227187|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
+:mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1623188989|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
    Tap target permanent.
 
    Draw a card.
@@ -1877,23 +1877,23 @@
    |mana_1|\ |mana_u|, |tap|: Return target Wizard you control to its owner's hand.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5aa2449-6b74-4319-858f-caa9282da5c1.jpg?1621618706|https://scryfall.com/card/mh2/481/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5aa2449-6b74-4319-858f-caa9282da5c1.jpg?1623112316|https://scryfall.com/card/mh2/481/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423927e6-2419-4d88-b0c4-425e5cac1a3f.jpg?1621759573|https://scryfall.com/card/mh2/483/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423927e6-2419-4d88-b0c4-425e5cac1a3f.jpg?1623112302|https://scryfall.com/card/mh2/483/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac8546d1-bfea-4cf7-bfa1-48555ea81bd4.jpg?1621618860|https://scryfall.com/card/mh2/485/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac8546d1-bfea-4cf7-bfa1-48555ea81bd4.jpg?1623112320|https://scryfall.com/card/mh2/485/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4be3032-c55b-43b5-9ae0-f4e7470f4f83.jpg?1621618845|https://scryfall.com/card/mh2/487/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4be3032-c55b-43b5-9ae0-f4e7470f4f83.jpg?1623112306|https://scryfall.com/card/mh2/487/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e93212-da68-48f8-9aeb-ee5eb92e9a54.jpg?1621618812|https://scryfall.com/card/mh2/489/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e93212-da68-48f8-9aeb-ee5eb92e9a54.jpg?1623112298|https://scryfall.com/card/mh2/489/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 
 
