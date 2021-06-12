@@ -263,8 +263,8 @@ def translate_loc(path: Path):
                     po_entry = po.find(key, by="msgctxt")
                     trans_list = obj["translations"]
 
-                    main_lang_key = f"MainNav/Settings/Debug/Language_{_main_lang}"
-                    debug_lang_key = f"MainNav/Settings/Debug/Language_{_debug_lang}"
+                    main_lang_key = f"MainNav/Settings/LanguageNative_{_main_lang}"
+                    debug_lang_key = f"MainNav/Settings/LanguageNative_{_debug_lang}"
 
                     if key.startswith(main_lang_key):
                         for trans_obj in obj["translations"]:
