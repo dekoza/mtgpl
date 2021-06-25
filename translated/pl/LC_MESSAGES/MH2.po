@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 19:39+0200\n"
-"PO-Revision-Date: 2021-06-07 12:32+0000\n"
+"PO-Revision-Date: 2021-06-25 20:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -103,16 +103,13 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:33
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "When Barbed Spike enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying, then attach Barbed Spike to it."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Thopter 1/1 z lataniem, po czym dołącz do niego ten "
+"artefakt."
 
 #: ../../MH2.rst:35
 msgid "Equipped creature gets +1/+0."
@@ -333,16 +330,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:109
-#, fuzzy
-#| msgid ""
-#| "When Squirrel Sanctuary enters the battlefield, create a 1/1 green "
-#| "Squirrel creature token."
 msgid ""
 "Whenever one or more +1/+1 counters are put on Knighted Myr, it gains double "
 "strike until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
-"1/1."
+"Kiedy jeden lub więcej znaczników +1/+1 zostanie umieszczonych na tym "
+"stworze, zyskuje on do końca tury podwójny cios."
 
 #: ../../MH2.rst:116
 msgid ""
@@ -485,20 +478,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:155
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
-#| "pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the "
-#| "beginning of your upkeep, remove a time counter. When the last is "
-#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 2—|mana_1|\\ |mana_w| (Rather than cast this card from your hand, "
 "pay |mana_1|\\ |mana_w| and exile it with two time counters on it. At the "
 "beginning of your upkeep, remove a time counter. When the last is removed, "
 "cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
-"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
+"Zawieszenie 2—|mana_1|\\ |mana_w| (Zamiast rzucać tę kartę z twojej ręki, "
+"zapłać |mana_1|\\ |mana_w| i wygnaj ją z dwoma znacznikami czasu. Na "
 "początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
 "znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
@@ -520,16 +507,12 @@ msgid "Protection from black and from red"
 msgstr "Ochrona przed czarnym i czerwonym"
 
 #: ../../MH2.rst:163
-#, fuzzy
-#| msgid ""
-#| "When Timeless Witness enters the battlefield, return target card from "
-#| "your graveyard to your hand."
 msgid ""
 "When Sanctifier en-Vec enters the battlefield, exile all cards that are "
 "black or red from all graveyards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę z twojego "
-"cmentarza do twojej ręki."
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie karty mające kolor "
+"czarny lub czerwony ze wszystkich cmentarzy."
 
 #: ../../MH2.rst:165
 msgid ""
@@ -885,12 +868,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:301
-#, fuzzy
-#| msgid ""
-#| "Suspend 3—|mana_1|\\ |mana_u|\\ |mana_u| (Rather than cast this card from "
-#| "your hand, you may pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with "
-#| "three time counters on it. At the beginning of your upkeep, remove a time "
-#| "counter. When the last is removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 3—|mana_1|\\ |mana_u|\\ |mana_u| (Rather than cast this card from "
 "your hand, pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with three time "
@@ -1002,16 +979,12 @@ msgstr ""
 "tego czaru opłaca |mana_1|.)"
 
 #: ../../MH2.rst:333
-#, fuzzy
-#| msgid ""
-#| "Murktide Regent enters the battlefield with a +1/+1 counter on it for "
-#| "each instant or sorcery card exiled with it."
 msgid ""
 "Murktide Regent enters the battlefield with a +1/+1 counter on it for each "
 "instant and sorcery card exiled with it."
 msgstr ""
 "Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile kart "
-"sztuczek lub obrzędów wygnano przy jego udziale."
+"sztuczek i obrzędów wygnano przy jego udziale."
 
 #: ../../MH2.rst:335
 msgid ""
@@ -1154,12 +1127,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:381
-#, fuzzy
-#| msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr ""
+"Przekręć co najwyżej dwa wskazane stwory. Owe stwory nie odkręcą się w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../MH2.rst:388
 msgid ""
@@ -5535,6 +5508,8 @@ msgid ""
 "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of "
 "your library into your graveyard.)"
 msgstr ""
+"|tap|, zmiel kartę: Weź |colorless|. (By zmielić kartę, umieść wierzchnią "
+"kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../MH2.rst:1852
 msgid ""

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-06-06 22:45+0000\n"
+"PO-Revision-Date: 2021-06-25 20:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -5518,12 +5518,9 @@ msgid "Other Elf creatures you control get +1/+1."
 msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #. card_title
-#, fuzzy
-#| msgctxt "265577"
-#| msgid "Merfolk Soldier"
 msgctxt "2336"
 msgid "Merfolk Looter"
-msgstr "Wodnik Piechur"
+msgstr ""
 
 #. flavor_text
 msgctxt "2337"
@@ -8668,12 +8665,9 @@ msgid "Reliquary Tower"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "949"
-#| msgid "Target player discards two cards."
 msgctxt "11580"
 msgid "Target player discards a card."
-msgstr "Wskazany gracz odrzuca dwie karty."
+msgstr "Wskazany gracz odrzuca kartę."
 
 #. card_title
 msgctxt "11591"
@@ -9159,12 +9153,9 @@ msgid "Elder"
 msgstr ""
 
 #. card_title
-#, fuzzy
-#| msgctxt "1318"
-#| msgid "Dragon"
 msgctxt "13425"
 msgid "Dragonstorm"
-msgstr "Smok"
+msgstr ""
 
 #. card_title
 msgctxt "13478"
@@ -10642,12 +10633,9 @@ msgid "Destroy all creatures with power 3 or greater."
 msgstr "Zniszcz wszystkie stwory o sile 3 lub większej."
 
 #. card_title
-#, fuzzy
-#| msgctxt "58177"
-#| msgid "Treasure"
 msgctxt "24609"
 msgid "Trash for Treasure"
-msgstr "Skarb"
+msgstr ""
 
 #. flavor_text
 msgctxt "24610"
@@ -15471,28 +15459,19 @@ msgid "Atarka's Command"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "437532"
-#| msgid "|mana_r|: Your opponents can't gain life this turn."
 msgctxt "47494"
 msgid "Your opponents can't gain life this turn."
-msgstr "|mana_r|: Twoi przeciwnicy nie mogą zyskać żyć w tej turze."
+msgstr "Twoi przeciwnicy nie mogą zyskać życia w tej turze."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "31908"
-#| msgid "|tap|: You may put a land card from your hand onto the battlefield."
 msgctxt "47496"
 msgid "You may put a land card from your hand onto the battlefield."
-msgstr "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
+msgstr "Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "41971"
-#| msgid "Creatures you control get +0/+5 and gain reach until end of turn."
 msgctxt "47497"
 msgid "Creatures you control get +1/+1 and gain reach until end of turn."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+5 oraz zasięg."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1 i zasięg."
 
 #. internal_ability, printed_ability, type_creature, type_enchantment
 msgctxt "47512"
@@ -15505,22 +15484,17 @@ msgid "Dromoka's Command"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "2630"
-#| msgid "Prevent all combat damage that would be dealt this turn."
 msgctxt "47521"
 msgid ""
 "Prevent all damage target instant or sorcery spell would deal this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
+"Zażegnaj wszystkie obrażenia, jakie wskazany czar sztuczki lub obrzędu "
+"mógłby zadać w tej turze."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "419993"
-#| msgid "Target opponent sacrifices an enchantment."
 msgctxt "47522"
 msgid "Target player sacrifices an enchantment."
-msgstr "Wskazany przeciwnik poświęca urok."
+msgstr "Wskazany gracz poświęca urok."
 
 #. card_title
 msgctxt "47531"
@@ -15640,12 +15614,9 @@ msgid "He grants endless wishes, as long as you always wish for a blade."
 msgstr ""
 
 #. card_title
-#, fuzzy
-#| msgctxt "266721"
-#| msgid "Vampire Rogue"
 msgctxt "47788"
 msgid "Whirler Rogue"
-msgstr "Wampir Łotrzyk"
+msgstr ""
 
 #. card_title
 msgctxt "47806"
@@ -20345,12 +20316,9 @@ msgid "Destroy all artifacts. They can't be regenerated."
 msgstr "Zniszcz wszystkie artefakty. Nie mogą być zregenerowane."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "95082"
-#| msgid "Return target nonland permanent to its owner's hand."
 msgctxt "60990"
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #. internal_ability, printed_ability, type_instant, type_sorcery
 msgctxt "61004"
@@ -24069,9 +24037,6 @@ msgid "|mana_1|\\ |mana_r|: CARDNAME gets +2/+0 until end of turn."
 msgstr "|mana_1|\\ |mana_r|: CARDNAME dostaje +2/+0 do końca tury."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "420173"
-#| msgid "CARDNAME deals 3 damage to each opponent."
 msgctxt "78895"
 msgid "CARDNAME deals 3 damage to each opponent."
 msgstr "CARDNAME zadaje każdemu przeciwnikowi po 3 obrażenia."
@@ -24344,12 +24309,9 @@ msgid "CARDNAME enters the battlefield with three +1/+1 counters on it."
 msgstr "CARDNAME wchodzi na pole bitwy mając trzy znaczniki +1/+1."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "120757"
-#| msgid "CARDNAME gets +1/+1 as long as you control an artifact."
 msgctxt "82922"
 msgid "CARDNAME gets +1/+1 as long as you control another artifact."
-msgstr "CARDNAME dostaje +1/+1 o ile władasz artefaktem."
+msgstr "CARDNAME dostaje +1/+1 o ile władasz innym artefaktem."
 
 #. internal_ability
 msgctxt "83027"
@@ -24481,12 +24443,9 @@ msgid "Whenever you cast a spell, return target permanent to its owner's hand."
 msgstr "Ilekroć rzucisz czar, przywróć wskazany permanent do ręki właściciela."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "117317"
-#| msgid "Search for a Dragon creature card."
 msgctxt "85093"
 msgid "Search for a Dragon permanent card."
-msgstr "Wyszukaj kartę stwora typu Smok."
+msgstr "Wyszukaj kartę permanentu typu Smok."
 
 #. internal_ability
 msgctxt "85138"
@@ -51699,9 +51658,6 @@ msgstr ""
 "wygnaj wszystkie atakujące stwory."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "488946"
-#| msgid "Prismari Command deals 2 damage to any target."
 msgctxt "241370"
 msgid "Kolaghan's Command deals 2 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
@@ -67439,12 +67395,9 @@ msgid "When Wall of Blossoms enters the battlefield, draw a card."
 msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "254228"
-#| msgid "Sacrifice a creature."
 msgctxt "305696"
 msgid "Sacrifice a green creature."
-msgstr "Poświęć stwora."
+msgstr "Poświęć zielonego stwora."
 
 #. printed_ability, type_enchantment
 msgctxt "306157"
@@ -67494,12 +67447,9 @@ msgid "Vampire Dragon"
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "244217"
-#| msgid "Target a creature."
 msgctxt "307583"
 msgid "Target a creature token."
-msgstr "Wskaż stwora."
+msgstr "Wskaż żeton stwora."
 
 #. card_subtype
 msgctxt "308020"
@@ -67565,12 +67515,9 @@ msgstr ""
 "cmentarza."
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "261623"
-#| msgid "Vampire Soldier"
 msgctxt "309361"
 msgid "Spirit Soldier"
-msgstr "Wampir Piechur"
+msgstr "Duch Piechur"
 
 #. maybe_hidden
 msgctxt "309519"
@@ -68133,12 +68080,9 @@ msgstr ""
 "cmentarza."
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "676"
-#| msgid "Spirit"
 msgctxt "323657"
 msgid "Spirit Bird"
-msgstr "Duch"
+msgstr "Duch Ptak"
 
 #. printed_ability, type_creature
 msgctxt "323752"
@@ -68425,12 +68369,9 @@ msgstr ""
 "właściciela, po czym ów gracz odrzuca kartę."
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "1236"
-#| msgid "Advisor"
 msgctxt "327056"
 msgid "Spirit Advisor"
-msgstr "Doradca"
+msgstr "Duch Doradca"
 
 #. internal_ability
 msgctxt "327159"
@@ -68893,12 +68834,9 @@ msgstr ""
 "tak zrobisz, odrzuć kartę."
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "50899"
-#| msgid "Human Wizard"
 msgctxt "330975"
 msgid "Djinn Wizard"
-msgstr "Człowiek Czarodziej"
+msgstr "Dżin Czarodziej"
 
 #. printed_ability, type_creature
 msgctxt "331104"
@@ -69169,12 +69107,9 @@ msgstr ""
 "czar zadaje tobie 2 obrażenia."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "420174"
-#| msgid "Tectonic Giant deals 3 damage to each opponent."
 msgctxt "333034"
 msgid "Atarka's Command deals 3 damage to each opponent."
-msgstr "Ten stwór zadaje każdemu przeciwnikowi po 3 obrażenia."
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 3 obrażenia."
 
 #. printed_ability, type_instant
 msgctxt "333038"
@@ -69219,12 +69154,9 @@ msgstr ""
 "obrażenia."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "246675"
-#| msgid "Target an instant or sorcery card."
 msgctxt "333166"
 msgid "Exile an instant or sorcery card."
-msgstr "Wskaż kartę sztuczki lub obrzędu."
+msgstr "Wygnaj kartę sztuczki lub obrzędu."
 
 #. maybe_hidden
 msgctxt "333174"
@@ -69246,12 +69178,9 @@ msgstr ""
 "stworze pod twoim władaniem posiadającym znacznik +1/+1."
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "261697"
-#| msgid "Human Artificer"
 msgctxt "333375"
 msgid "Human Rogue Artificer"
-msgstr "Człowiek Wynalazca"
+msgstr "Człowiek Łotrzyk Wynalazca"
 
 #. printed_ability, type_creature
 msgctxt "333376"
@@ -69316,12 +69245,9 @@ msgstr ""
 "stworze."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "249469"
-#| msgid "Target a nonlegendary creature."
 msgctxt "333789"
 msgid "Target a nonlegendary creature card."
-msgstr "Wskaż nielegendarnego stwora."
+msgstr "Wskaż kartę nielegendarnego stwora."
 
 #. maybe_hidden
 msgctxt "333792"
@@ -80113,12 +80039,9 @@ msgid "Discard a land card?"
 msgstr "Odrzucić kartę lądu?"
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "367362"
-#| msgid "Discard a nonland card?"
 msgctxt "395820"
 msgid "Exile a nonland card?"
-msgstr "Odrzucić nie-lądową kartę?"
+msgstr "Wygnać nie-lądową kartę?"
 
 #. maybe_hidden
 msgctxt "397215"
@@ -105116,12 +105039,9 @@ msgid "Remove eight foreshadow counters."
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "77155"
-#| msgid "Search for a land card."
 msgctxt "435145"
 msgid "Search for a card named Whisper Squad."
-msgstr "Wyszukaj kartę lądu."
+msgstr "Wyszukaj kartę o nazwie Whisper Squad."
 
 #. maybe_hidden
 msgctxt "435146"
@@ -121675,12 +121595,9 @@ msgid "\"Fly the path of nine birds.\""
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "16042"
-#| msgid "Kicker |mana_3|"
 msgctxt "488156"
 msgid "Sorcery—|mana_3|"
-msgstr "Podbicie |mana_3|"
+msgstr "Obrzęd—|mana_3|"
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "488157"
@@ -121841,12 +121758,9 @@ msgstr ""
 "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #. card_title
-#, fuzzy
-#| msgctxt "428802"
-#| msgid "Devotion to Green"
 msgctxt "488180"
 msgid "Detention Vortex"
-msgstr "Kult zielonego"
+msgstr ""
 
 #. internal_ability
 #, fuzzy
@@ -122043,12 +121957,9 @@ msgid "Mavinda, Students' Advocate"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "1236"
-#| msgid "Advisor"
 msgctxt "488206"
 msgid "Bird Advisor"
-msgstr "Doradca"
+msgstr "Ptak Doradca"
 
 #. internal_ability
 #, fuzzy
@@ -122099,14 +122010,9 @@ msgstr ""
 "przetasuj."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "119377"
-#| msgid ""
-#| "|mana_2|\\ |mana_b|: Return CARDNAME from your graveyard to your hand."
 msgctxt "488211"
 msgid "|mana_6|: Return CARDNAME from your graveyard to your hand."
-msgstr ""
-"|mana_2|\\ |mana_b|: Przywróć CARDNAME z twojego cmentarza do twojej ręki."
+msgstr "|mana_6|: Przywróć CARDNAME z twojego cmentarza do twojej ręki."
 
 #. printed_ability, type_creature
 msgctxt "488212"
@@ -122159,12 +122065,9 @@ msgid "\"A language isn't dead until we stop learning from it.\""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "486"
-#| msgid "When CARDNAME enters the battlefield, it explores."
 msgctxt "488219"
 msgid "When CARDNAME enters the battlefield, learn."
-msgstr "Kiedy CARDNAME wejdzie na pole bitwy, eksploruje."
+msgstr "Kiedy CARDNAME wejdzie na pole bitwy, ucz się."
 
 #. printed_ability, type_creature
 msgctxt "488220"
@@ -122306,12 +122209,9 @@ msgid "Stonebinder's Familiar"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "676"
-#| msgid "Spirit"
 msgctxt "488241"
 msgid "Spirit Dog"
-msgstr "Duch"
+msgstr "Duch Pies"
 
 #. flavor_text
 msgctxt "488242"
@@ -122346,12 +122246,9 @@ msgstr ""
 "znacznik +1/+1 na tym stworze. Ta zdolność wyzwala się tylko raz na turę."
 
 #. card_title
-#, fuzzy
-#| msgctxt "266657"
-#| msgid "Cat Spirit"
 msgctxt "488245"
 msgid "Stonerise Spirit"
-msgstr "Kot Duch"
+msgstr ""
 
 #. flavor_text
 msgctxt "488246"
@@ -122391,12 +122288,9 @@ msgstr ""
 "wyzwalanej, skontruj ową zdolność, chyba że jej właściciel zapłaci |mana_2|."
 
 #. card_title
-#, fuzzy
-#| msgctxt "58173"
-#| msgid "Study"
 msgctxt "488251"
 msgid "Study Break"
-msgstr "Nauki"
+msgstr ""
 
 #. flavor_text
 msgctxt "488252"
@@ -122447,12 +122341,9 @@ msgid "Arcane Subtraction"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "190"
-#| msgid "The match has ended in a draw."
 msgctxt "488257"
 msgid "The class learned little that day."
-msgstr "Mecz zakończył się remisem."
+msgstr "Klasa niewiele się nauczyła tego dnia."
 
 #. card_title
 msgctxt "488258"
@@ -122481,12 +122372,9 @@ msgid "Burrog Befuddler"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "266709"
-#| msgid "Faerie Wizard"
 msgctxt "488262"
 msgid "Frog Wizard"
-msgstr "Wróżka Czarodziej"
+msgstr "Żaba Czarodziej"
 
 #. flavor_text
 msgctxt "488263"
@@ -122496,18 +122384,13 @@ msgid ""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "279566"
-#| msgid ""
-#| "When CARDNAME enters the battlefield, target creature an opponent "
-#| "controls gets -2/-0 until end of turn."
 msgctxt "488264"
 msgid ""
 "When CARDNAME enters the battlefield, target creature an opponent controls "
 "gets -1/-0 until end of turn."
 msgstr ""
 "Kiedy CARDNAME wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-0."
+"przeciwnika dostaje do końca tury -1/-0."
 
 #. printed_ability, type_creature
 msgctxt "488265"
@@ -122539,12 +122422,9 @@ msgstr ""
 "stwora."
 
 #. card_title
-#, fuzzy
-#| msgctxt "447"
-#| msgid "Pirate"
 msgctxt "488269"
 msgid "Curate"
-msgstr "Pirat"
+msgstr ""
 
 #. flavor_text
 msgctxt "488270"
@@ -122592,12 +122472,9 @@ msgid "When Dream Strix becomes the target of a spell, sacrifice it."
 msgstr "Kiedy ten stwór zostanie wskazany przez czar, poświęć go."
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "91044"
-#| msgid "When CARDNAME dies, proliferate."
 msgctxt "488277"
 msgid "When CARDNAME dies, learn."
-msgstr "Kiedy CARDNAME umrze, rozpleń."
+msgstr "Kiedy CARDNAME umrze, ucz się."
 
 #. printed_ability, type_creature
 msgctxt "488278"
@@ -122808,12 +122685,9 @@ msgstr ""
 "czerwonego stwora Żywiołak 4/4."
 
 #. card_title
-#, fuzzy
-#| msgctxt "2378"
-#| msgid "Serpent"
 msgctxt "488309"
 msgid "Serpentine Curve"
-msgstr "Wężownik"
+msgstr ""
 
 #. flavor_text
 msgctxt "488310"
@@ -122834,12 +122708,9 @@ msgstr ""
 "obrzędów na wygnaniu i w twoim cmentarzu."
 
 #. card_title
-#, fuzzy
-#| msgctxt "289826"
-#| msgid "Snow Land"
 msgctxt "488312"
 msgid "Snow Day"
-msgstr "Śnieżny Ląd"
+msgstr ""
 
 #. flavor_text
 msgctxt "488313"
@@ -123008,12 +122879,9 @@ msgid "Ward |mana_2|"
 msgstr "Opieka |mana_2|"
 
 #. card_title
-#, fuzzy
-#| msgctxt "2378"
-#| msgid "Serpent"
 msgctxt "488337"
 msgid "Wormhole Serpent"
-msgstr "Wężownik"
+msgstr ""
 
 #. flavor_text
 msgctxt "488338"
@@ -123127,12 +122995,9 @@ msgid "Callous Bloodmage"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "266721"
-#| msgid "Vampire Rogue"
 msgctxt "488353"
 msgid "Vampire Warlock"
-msgstr "Wampir Łotrzyk"
+msgstr ""
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "488354"
@@ -124123,12 +123988,9 @@ msgid "Hall Monitor"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "266437"
-#| msgid "Elf Shaman"
 msgctxt "488491"
 msgid "Lizard Shaman"
-msgstr "Elf Szaman"
+msgstr "Jaszczur Szaman"
 
 #. flavor_text
 msgctxt "488492"
@@ -124258,18 +124120,13 @@ msgid ""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "428231"
-#| msgid ""
-#| "CARDNAME deals 4 damage to target creature. Excess damage is dealt to "
-#| "that creature's controller instead."
 msgctxt "488511"
 msgid ""
 "CARDNAME deals 5 damage to target creature. Excess damage is dealt to that "
 "creature's controller instead."
 msgstr ""
-"CARDNAME zadaje wskazanemu stworowi 4 obrażenia. Nadwyżka obrażeń jest "
-"zamiast tego zadawana władcy owego stwora."
+"CARDNAME zadaje wskazanemu stworowi 5 obrażeń. Nadwyżka obrażeń jest zamiast "
+"tego zadawana władcy owego stwora."
 
 #. printed_ability, type_sorcery
 msgctxt "488512"
@@ -124286,12 +124143,9 @@ msgid "Pillardrop Warden"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "676"
-#| msgid "Spirit"
 msgctxt "488514"
 msgid "Spirit Dwarf"
-msgstr "Duch"
+msgstr "Duch Krasnolud"
 
 #. flavor_text
 msgctxt "488515"
@@ -124299,18 +124153,13 @@ msgid "A giant statue of a dwarf is still a giant statue."
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "336398"
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice CARDNAME: Return target instant or sorcery "
-#| "card from your graveyard to your hand."
 msgctxt "488516"
 msgid ""
 "|mana_2|, |tap|, Sacrifice CARDNAME: Return target instant or sorcery card "
 "from your graveyard to your hand. Activate only as a sorcery."
 msgstr ""
 "|mana_2|, |tap|, poświęć CARDNAME: Przywróć wskazaną kartę sztuczki lub "
-"obrzędu z twojego cmentarza do twojej ręki."
+"obrzędu z twojego cmentarza do twojej ręki. Aktywuj tylko jako obrzęd."
 
 #. printed_ability, type_creature
 msgctxt "488517"
