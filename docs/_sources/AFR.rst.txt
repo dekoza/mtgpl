@@ -5,17 +5,33 @@
 =================================================
 
 
-:mtgtip:`Flumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1623429735|https://scryfall.com/card/afr/15/flumph?utm_source=api>`
+:mtgtip:`Flumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1624506073|https://scryfall.com/card/afr/15/flumph?utm_source=api>`
    Defender, flying
 
    Whenever Flumph is dealt damage, you and target opponent each draw a card.
+
+
+:mtgtip:`Gloom Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/388722ad-dcc6-41b9-afd8-a93be91b30e0.jpg?1624531212|https://scryfall.com/card/afr/16/gloom-stalker?utm_source=api>`
+   As long as you've completed a dungeon, Gloom Stalker has double strike.
+
+
+:mtgtip:`Nadaar, Selfless Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/878a0d8c-11c1-4c65-9051-78e036ac496f.jpg?1624530978|https://scryfall.com/card/afr/27/nadaar-selfless-paladin?utm_source=api>`
+   Vigilance
+
+   Whenever Nadaar, Selfless Paladin enters the battlefield or attacks, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+   Other creatures you control get +1/+1 as long as you've completed a dungeon.
 
 
 :mtgtip:`Portable Hole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1620558378|https://scryfall.com/card/afr/33/portable-hole?utm_source=api>`
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
 
 
-:mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1623436606|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`
+:mtgtip:`Shortcut Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/122d2635-c4f4-44cd-8f82-37e3016e421e.jpg?1624531226|https://scryfall.com/card/afr/73/shortcut-seeker?utm_source=api>`
+   Whenever Shortcut Seeker deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1624506086|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`
    Each opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or more.
 
 
@@ -39,6 +55,14 @@
    |mana_5|\ |mana_b|\ |mana_b|\ |mana_b|: Until end of turn, Vorpal Sword gains "Whenever equipped creature deals combat damage to a player, that player loses the game."
 
    Equip |mana_b|\ |mana_b|
+
+
+:mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`
+   +1: Venture into the dungeon. (Enter the first room or advance to the next room.)
+
+   −2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
+
+   −7: You get an emblem with "Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed."
 
 
 :mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`
@@ -67,22 +91,26 @@
    When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86626d69-78e0-42b9-81ed-fef46e3a89f7.jpg?1620344310|https://scryfall.com/card/afr/265/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://scryfall.com/card/afr/262/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1afa60b6-cd0d-4c23-af81-88049ea45475.jpg?1620344337|https://scryfall.com/card/afr/269/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e70c602-cb80-472b-9c8d-9625de084fe7.jpg?1624535609|https://scryfall.com/card/afr/266/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166fc328-20d1-4158-bcb6-3cebcf788ef5.jpg?1621282500|https://scryfall.com/card/afr/273/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab950987-d88c-4326-98f4-1b1195788921.jpg?1624535761|https://scryfall.com/card/afr/270/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf9095db-44ad-444b-bd9d-4a06102fe230.jpg?1620344421|https://scryfall.com/card/afr/277/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edabc558-2c54-4c7b-a6fa-1e75ddcf12f9.jpg?1624535760|https://scryfall.com/card/afr/274/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee856e7a-37ee-435c-80e8-d0ac6f15892f.jpg?1620344459|https://scryfall.com/card/afr/281/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624535759|https://scryfall.com/card/afr/278/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
+
+
+:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf6069f2-7a32-4cb7-b2ab-ea6b51267cca.jpg?1624544744|https://scryfall.com/card/afr/353/evolving-wilds?utm_source=api>`
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-12 13:21+0200\n"
+"POT-Creation-Date: 2021-06-25 19:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgid ":mtgtip:`Barbed Spike<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../MH2.rst:33
-msgid "When Barbed Spike enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying and attach Barbed Spike to it."
+msgid "When Barbed Spike enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying, then attach Barbed Spike to it."
 msgstr ""
 
 #: ../../MH2.rst:35
@@ -313,11 +313,11 @@ msgid "|mana_w|: Marble Gargoyle gets +0/+1 until end of turn."
 msgstr ""
 
 #: ../../MH2.rst:136
-msgid ":mtgtip:`Nykthos Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1622656933|https://scryfall.com/card/mh2/22/nykthos-paragon?utm_source=api>`"
+msgid ":mtgtip:`Nykthos Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1624107431|https://scryfall.com/card/mh2/22/nykthos-paragon?utm_source=api>`"
 msgstr ""
 
 #: ../../MH2.rst:135
-msgid "Whenever you gain life, you may put that many +1/+1 counters on each creature you control. You may do this only once each turn."
+msgid "Whenever you gain life, you may put that many +1/+1 counters on each creature you control. Do this only once each turn."
 msgstr ""
 
 #: ../../MH2.rst:142
@@ -341,7 +341,7 @@ msgid "Exile target tapped creature."
 msgstr ""
 
 #: ../../MH2.rst:147
-msgid "Forecast—|mana_2|\\ |mana_w|, Reveal Piercing Rays from your hand: Tap target untapped creature. (Activate only during your upkeep and only once each turn.)"
+msgid "Forecast — |mana_2|\\ |mana_w|, Reveal Piercing Rays from your hand: Tap target untapped creature. (Activate this ability only during your upkeep and only once each turn.)"
 msgstr ""
 
 #: ../../MH2.rst:152
@@ -357,7 +357,7 @@ msgid ":mtgtip:`Resurgent Belief<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../MH2.rst:155
-msgid "Suspend 2—|mana_1|\\ |mana_w| (Rather than cast this card from your hand, you may pay |mana_1|\\ |mana_w| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+msgid "Suspend 2—|mana_1|\\ |mana_w| (Rather than cast this card from your hand, pay |mana_1|\\ |mana_w| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
 
 #: ../../MH2.rst:157
@@ -373,7 +373,7 @@ msgid "Protection from black and from red"
 msgstr ""
 
 #: ../../MH2.rst:163
-msgid "When Sanctifier en-Vec enters the battlefield, exile all cards that are black and red from all graveyards."
+msgid "When Sanctifier en-Vec enters the battlefield, exile all cards that are black or red from all graveyards."
 msgstr ""
 
 #: ../../MH2.rst:165
@@ -562,7 +562,7 @@ msgid "When Foul Watcher enters the battlefield, surveil 1. (Look at the top car
 msgstr ""
 
 #: ../../MH2.rst:275
-msgid "Delirium — Foul Watcher gets +1/+0 as long as there are four more card types among cards in your graveyard."
+msgid "Delirium — Foul Watcher gets +1/+0 as long as there are four or more card types among cards in your graveyard."
 msgstr ""
 
 #: ../../MH2.rst:284
@@ -610,7 +610,7 @@ msgid ":mtgtip:`Inevitable Betrayal<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../MH2.rst:301
-msgid "Suspend 3—|mana_1|\\ |mana_u|\\ |mana_u| (Rather than cast this card from your hand, you may pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+msgid "Suspend 3—|mana_1|\\ |mana_u|\\ |mana_u| (Rather than cast this card from your hand, pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
 
 #: ../../MH2.rst:303
@@ -670,7 +670,7 @@ msgid "Delve (Each card you exile from your graveyard while casting this spell p
 msgstr ""
 
 #: ../../MH2.rst:333
-msgid "Murktide Regent enters the battlefield with a +1/+1 counter on it for each instant or sorcery card exiled with it."
+msgid "Murktide Regent enters the battlefield with a +1/+1 counter on it for each instant and sorcery card exiled with it."
 msgstr ""
 
 #: ../../MH2.rst:335
@@ -769,7 +769,7 @@ msgid ":mtgtip:`Done<https://c1.scryfall.com/file/scryfall-cards/border_crop/fro
 msgstr ""
 
 #: ../../MH2.rst:381
-msgid "Tap up to two target creatures. They don't untap during their controllers' next untap step."
+msgid "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step."
 msgstr ""
 
 #: ../../MH2.rst:388
@@ -857,7 +857,7 @@ msgid ":mtgtip:`Suspend<https://c1.scryfall.com/file/scryfall-cards/border_crop/
 msgstr ""
 
 #: ../../MH2.rst:435
-msgid "Exile target creature and put two time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, remove a time counter from that card. When the last is removed, the player plays it without paying its mana cost. If it's a creature, it has haste.)"
+msgid "Exile target creature and put two time counters on it. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they play it without paying its mana cost. If it's a creature, it has haste.)"
 msgstr ""
 
 #: ../../MH2.rst:444
@@ -978,7 +978,7 @@ msgid "Discard a card: Cabal Initiate gains lifelink until end of turn."
 msgstr ""
 
 #: ../../MH2.rst:501
-msgid "Threshold — Cabal Initiate get +1/+2 as long as seven or more cards are in your graveyard."
+msgid "Threshold — Cabal Initiate gets +1/+2 as long as seven or more cards are in your graveyard."
 msgstr ""
 
 #: ../../MH2.rst:510
@@ -1010,7 +1010,7 @@ msgid "Overload |mana_2|\\ |mana_w|\\ |mana_w| (You may cast this spell for its 
 msgstr ""
 
 #: ../../MH2.rst:524
-msgid ":mtgtip:`Dauthi Voidwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1622457559|https://scryfall.com/card/mh2/81/dauthi-voidwalker?utm_source=api>`"
+msgid ":mtgtip:`Dauthi Voidwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1624063971|https://scryfall.com/card/mh2/81/dauthi-voidwalker?utm_source=api>`"
 msgstr ""
 
 #: ../../MH2.rst:519
@@ -1341,7 +1341,7 @@ msgid "Modular 4 (This creature enters the battlefield with four +1/+1 counters 
 msgstr ""
 
 #: ../../MH2.rst:687
-msgid "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)"
+msgid "Riot (This creature enters the battlefield with your choice of an additional +1/+1 counter or haste.)"
 msgstr ""
 
 #: ../../MH2.rst:696
@@ -1533,6 +1533,7 @@ msgid "Exile the top card of your library. During your next turn, you may play t
 msgstr ""
 
 #: ../../MH2.rst:793
+#: ../../MH2.rst:943
 #: ../../MH2.rst:1775
 msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
 msgstr ""
@@ -1705,7 +1706,6 @@ msgid "Gain control of target creature you don't control until end of turn. Unta
 msgstr ""
 
 #: ../../MH2.rst:883
-#: ../../MH2.rst:943
 msgid "Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
 msgstr ""
 
@@ -1770,7 +1770,7 @@ msgid "Storm (When you cast this spell, copy it for each spell cast before it th
 msgstr ""
 
 #: ../../MH2.rst:915
-msgid "Aeve, Progenitor Ooze isn't legendary as long as it's a token."
+msgid "Aeve, Progenitor Ooze isn't legendary if it's a token."
 msgstr ""
 
 #: ../../MH2.rst:917
@@ -2015,7 +2015,7 @@ msgid "|tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../MH2.rst:1053
-msgid "Suspend 2—|mana_g| (Rather than cast this card from your hand, pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+msgid "Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
 
 #: ../../MH2.rst:1058
@@ -2123,7 +2123,7 @@ msgid ":mtgtip:`Tireless Provisioner<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../MH2.rst:1111
-msgid "Landfall — Whenever a land enters the battelfield under your control, create a Food token or a Treasure token. (Food is an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\" Treasure is an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgid "Landfall — Whenever a land enters the battlefield under your control, create a Food token or a Treasure token. (Food is an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\" Treasure is an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../MH2.rst:1118
@@ -2227,11 +2227,11 @@ msgid "Enchanted creature can't attack or block."
 msgstr ""
 
 #: ../../MH2.rst:1175
-msgid "When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+msgid "When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two target creatures.)"
 msgstr ""
 
 #: ../../MH2.rst:1182
-msgid ":mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1622390379|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`"
+msgid ":mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1624206659|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`"
 msgstr ""
 
 #: ../../MH2.rst:1179
@@ -2239,7 +2239,7 @@ msgid "Whenever Carth the Lion enters the battlefield or a planeswalker you cont
 msgstr ""
 
 #: ../../MH2.rst:1181
-msgid "Planeswalkers' loyalty abilities you activate cost an additional {+1} to activate."
+msgid "Planeswalkers' loyalty abilities you activate cost an additional [+1] to activate."
 msgstr ""
 
 #: ../../MH2.rst:1188
@@ -2311,8 +2311,7 @@ msgid ":mtgtip:`Ethersworn Sphinx<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MH2.rst:1223
-#: ../../MH2.rst:1821
-msgid "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+msgid "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card with lesser mana value. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
 msgstr ""
 
 #: ../../MH2.rst:1230
@@ -2360,7 +2359,7 @@ msgid "+1: Each opponent loses 2 life and you gain 2 life. Put a corruption coun
 msgstr ""
 
 #: ../../MH2.rst:1247
-msgid "−3: Gain control of target creature or planeswalker until end of tun. Untap it and put a corruption counter on it. It gains haste until end of turn."
+msgid "−3: Gain control of target creature or planeswalker until end of turn. Untap it and put a corruption counter on it. It gains haste until end of turn."
 msgstr ""
 
 #: ../../MH2.rst:1249
@@ -2604,7 +2603,7 @@ msgid ":mtgtip:`Yusri, Fortune's Flame<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../MH2.rst:1377
-msgid "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yursi deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs."
+msgid "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yusri deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs."
 msgstr ""
 
 #: ../../MH2.rst:1382
@@ -2620,7 +2619,7 @@ msgid ":mtgtip:`Altar of the Goyf<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../MH2.rst:1385
-msgid "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of card types among cards in all graveyard."
+msgid "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of card types among cards in all graveyards."
 msgstr ""
 
 #: ../../MH2.rst:1387
@@ -2657,7 +2656,7 @@ msgid ":mtgtip:`Brainstone<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../MH2.rst:1405
-msgid "|mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two cards from your hand on top of your library in any order."
+msgid "|mana_2|, |tap|, Sacrifice Brainstone: Draw three cards, then put two cards from your hand on top of your library in any order."
 msgstr ""
 
 #: ../../MH2.rst:1412
@@ -2669,7 +2668,7 @@ msgid "Imprint — As Dermotaxi enters the battlefield, exile a creature card fr
 msgstr ""
 
 #: ../../MH2.rst:1411
-msgid "Tap two untapped creatures you control: Until end of turn, Dermotaxi becomes a copy of the imprinted card, except it's a Vehicle artifact in addition to its other types."
+msgid "Tap two untapped creatures you control: Until end of turn, Dermotaxi becomes a copy of the exiled card, except it's a Vehicle artifact in addition to its other types."
 msgstr ""
 
 #: ../../MH2.rst:1416
@@ -2742,7 +2741,7 @@ msgid "Monoskelion enters the battlefield with a +1/+1 counter on it."
 msgstr ""
 
 #: ../../MH2.rst:1441
-msgid "|mana_1|, Remove a +1/+1 counter from Monoskelion: Monoskelion deals 1 damage to any target."
+msgid "|mana_1|, Remove a +1/+1 counter from Monoskelion: It deals 1 damage to any target."
 msgstr ""
 
 #: ../../MH2.rst:1446
@@ -2798,7 +2797,7 @@ msgid ":mtgtip:`Sol Talisman<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../MH2.rst:1483
-msgid "Suspend 3—|mana_1| (Rather than cast this card from your hand, you may pay |mana_1| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+msgid "Suspend 3—|mana_1| (Rather than cast this card from your hand, pay |mana_1| and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
 
 #: ../../MH2.rst:1485
@@ -3390,6 +3389,10 @@ msgstr ""
 msgid ":mtgtip:`Shardless Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0824e77-c84b-464a-aa0c-44af5f6faa50.jpg?1622657408|https://scryfall.com/card/mh2/292/shardless-agent?utm_source=api>`"
 msgstr ""
 
+#: ../../MH2.rst:1821
+msgid "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+msgstr ""
+
 #: ../../MH2.rst:1828
 msgid ":mtgtip:`Sterling Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba03e105-a76c-4769-a35a-d780448890ec.jpg?1622225359|https://scryfall.com/card/mh2/293/sterling-grove?utm_source=api>`"
 msgstr ""
@@ -3399,7 +3402,7 @@ msgid "Other enchantments you control have shroud. (They can't be the targets of
 msgstr ""
 
 #: ../../MH2.rst:1827
-msgid "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put the card on top."
+msgid "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
 #: ../../MH2.rst:1832
@@ -3435,7 +3438,7 @@ msgid ":mtgtip:`Millikin<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../MH2.rst:1845
-msgid "|tap|, Mill a card: Add |colorless|."
+msgid "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
 
 #: ../../MH2.rst:1852
@@ -3455,7 +3458,7 @@ msgid ":mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../MH2.rst:1855
-msgid "Discard a card: Regenerate Patchwork Gnomes."
+msgid "Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)"
 msgstr ""
 
 #: ../../MH2.rst:1860
@@ -3535,7 +3538,7 @@ msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
 #: ../../MH2.rst:1903
-msgid ":mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1622391124|https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`"
+msgid ":mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1624562577|https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`"
 msgstr ""
 
 #: ../../MH2.rst:1901

@@ -36,7 +36,6 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Modern: :mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` (Premiera: 2021-06-11)
 * Standard: :mtgexp:`AFR` :doc:`Dungeons & Dragons: Adventures in the Forgotten Realms<AFR>` (Premiera: 2021-07-23)
 
 Standard
@@ -69,6 +68,7 @@ Starszy format pozbawiony rotacji. Należą do niego wszystkie dodatki wydane wc
 
 Oprócz tego format otrzymał specjalny dodatek, który nigdy nie był częścią Standardu:
 
+* :mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` |MH2_percent|
 * :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |MH1_percent|
 
 Legacy / Vintage
