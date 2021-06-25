@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-12 13:21+0200\n"
+"POT-Creation-Date: 2021-06-25 19:39+0200\n"
 "PO-Revision-Date: 2021-06-07 12:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
@@ -109,7 +109,7 @@ msgstr ""
 #| "for each time it was kicked."
 msgid ""
 "When Barbed Spike enters the battlefield, create a 1/1 colorless Thopter "
-"artifact creature token with flying and attach Barbed Spike to it."
+"artifact creature token with flying, then attach Barbed Spike to it."
 msgstr ""
 "Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
 "podbity."
@@ -414,14 +414,14 @@ msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 #: ../../MH2.rst:136
 msgid ""
 ":mtgtip:`Nykthos Paragon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1622656933|"
+"border_crop/front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1624107431|"
 "https://scryfall.com/card/mh2/22/nykthos-paragon?utm_source=api>`"
 msgstr ""
 
 #: ../../MH2.rst:135
 msgid ""
 "Whenever you gain life, you may put that many +1/+1 counters on each "
-"creature you control. You may do this only once each turn."
+"creature you control. Do this only once each turn."
 msgstr ""
 
 #: ../../MH2.rst:142
@@ -457,9 +457,9 @@ msgstr "Wygnaj wskazanego przekręconego stwora."
 
 #: ../../MH2.rst:147
 msgid ""
-"Forecast—|mana_2|\\ |mana_w|, Reveal Piercing Rays from your hand: Tap "
-"target untapped creature. (Activate only during your upkeep and only once "
-"each turn.)"
+"Forecast — |mana_2|\\ |mana_w|, Reveal Piercing Rays from your hand: Tap "
+"target untapped creature. (Activate this ability only during your upkeep and "
+"only once each turn.)"
 msgstr ""
 
 #: ../../MH2.rst:152
@@ -485,15 +485,21 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:155
+#, fuzzy
+#| msgid ""
+#| "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
+#| "pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the "
+#| "beginning of your upkeep, remove a time counter. When the last is "
+#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 2—|mana_1|\\ |mana_w| (Rather than cast this card from your hand, "
-"you may pay |mana_1|\\ |mana_w| and exile it with two time counters on it. "
-"At the beginning of your upkeep, remove a time counter. When the last is "
-"removed, cast it without paying its mana cost.)"
+"pay |mana_1|\\ |mana_w| and exile it with two time counters on it. At the "
+"beginning of your upkeep, remove a time counter. When the last is removed, "
+"cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_w| (Zamiast rzucać tę kartę z twojej ręki, "
-"możesz zapłacić |mana_1|\\ |mana_w| i wygnać ją z dwoma znacznikami czasu. "
-"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
+"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
+"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
 "znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH2.rst:157
@@ -514,10 +520,16 @@ msgid "Protection from black and from red"
 msgstr "Ochrona przed czarnym i czerwonym"
 
 #: ../../MH2.rst:163
+#, fuzzy
+#| msgid ""
+#| "When Timeless Witness enters the battlefield, return target card from "
+#| "your graveyard to your hand."
 msgid ""
 "When Sanctifier en-Vec enters the battlefield, exile all cards that are "
-"black and red from all graveyards."
+"black or red from all graveyards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../MH2.rst:165
 msgid ""
@@ -801,8 +813,8 @@ msgstr ""
 
 #: ../../MH2.rst:275
 msgid ""
-"Delirium — Foul Watcher gets +1/+0 as long as there are four more card types "
-"among cards in your graveyard."
+"Delirium — Foul Watcher gets +1/+0 as long as there are four or more card "
+"types among cards in your graveyard."
 msgstr ""
 
 #: ../../MH2.rst:284
@@ -873,11 +885,17 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:301
+#, fuzzy
+#| msgid ""
+#| "Suspend 3—|mana_1|\\ |mana_u|\\ |mana_u| (Rather than cast this card from "
+#| "your hand, you may pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with "
+#| "three time counters on it. At the beginning of your upkeep, remove a time "
+#| "counter. When the last is removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 3—|mana_1|\\ |mana_u|\\ |mana_u| (Rather than cast this card from "
-"your hand, you may pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with "
-"three time counters on it. At the beginning of your upkeep, remove a time "
-"counter. When the last is removed, cast it without paying its mana cost.)"
+"your hand, pay |mana_1|\\ |mana_u|\\ |mana_u| and exile it with three time "
+"counters on it. At the beginning of your upkeep, remove a time counter. When "
+"the last is removed, cast it without paying its mana cost.)"
 msgstr ""
 "Zawieszenie 3—|mana_1|\\ |mana_u|\\ |mana_u| (Zamiast rzucać tę kartę z "
 "twojej ręki, zapłać |mana_1|\\ |mana_u|\\ |mana_u| i wygnaj ją z dwoma "
@@ -984,9 +1002,13 @@ msgstr ""
 "tego czaru opłaca |mana_1|.)"
 
 #: ../../MH2.rst:333
+#, fuzzy
+#| msgid ""
+#| "Murktide Regent enters the battlefield with a +1/+1 counter on it for "
+#| "each instant or sorcery card exiled with it."
 msgid ""
 "Murktide Regent enters the battlefield with a +1/+1 counter on it for each "
-"instant or sorcery card exiled with it."
+"instant and sorcery card exiled with it."
 msgstr ""
 "Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile kart "
 "sztuczek lub obrzędów wygnano przy jego udziale."
@@ -1132,10 +1154,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:381
+#, fuzzy
+#| msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgid ""
-"Tap up to two target creatures. They don't untap during their controllers' "
-"next untap step."
-msgstr ""
+"Tap up to two target creatures. Those creatures don't untap during their "
+"controller's next untap step."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../MH2.rst:388
 msgid ""
@@ -1272,12 +1296,23 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:435
+#, fuzzy
+#| msgid ""
+#| "Suspend 4—|mana_1|\\ |mana_r| (Rather than cast this card from your hand, "
+#| "you may pay |mana_1|\\ |mana_r| and exile it with four time counters on "
+#| "it. At the beginning of your upkeep, remove a time counter. When the last "
+#| "is removed, cast it without paying its mana cost. It has haste.)"
 msgid ""
 "Exile target creature and put two time counters on it. If it doesn't have "
-"suspend, it gains suspend. (At the beginning of its owner's upkeep, remove a "
-"time counter from that card. When the last is removed, the player plays it "
-"without paying its mana cost. If it's a creature, it has haste.)"
+"suspend, it gains suspend. (At the beginning of its owner's upkeep, they "
+"remove a time counter. When the last is removed, they play it without paying "
+"its mana cost. If it's a creature, it has haste.)"
 msgstr ""
+"Zawieszenie 4—|mana_1|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_r| i wygnać ją z czterema znacznikami "
+"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
+"Ma pośpiech.)"
 
 #: ../../MH2.rst:444
 msgid ""
@@ -1458,7 +1493,7 @@ msgstr ""
 
 #: ../../MH2.rst:501
 msgid ""
-"Threshold — Cabal Initiate get +1/+2 as long as seven or more cards are in "
+"Threshold — Cabal Initiate gets +1/+2 as long as seven or more cards are in "
 "your graveyard."
 msgstr ""
 
@@ -1509,7 +1544,7 @@ msgstr ""
 #: ../../MH2.rst:524
 msgid ""
 ":mtgtip:`Dauthi Voidwalker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1622457559|"
+"border_crop/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1624063971|"
 "https://scryfall.com/card/mh2/81/dauthi-voidwalker?utm_source=api>`"
 msgstr ""
 
@@ -2063,9 +2098,13 @@ msgstr ""
 "stworze.)"
 
 #: ../../MH2.rst:687
+#, fuzzy
+#| msgid ""
+#| "Riot (This creature enters the battlefield with your choice of a +1/+1 "
+#| "counter or haste.)"
 msgid ""
-"Riot (This creature enters the battlefield with your choice of a +1/+1 "
-"counter or haste.)"
+"Riot (This creature enters the battlefield with your choice of an additional "
+"+1/+1 counter or haste.)"
 msgstr ""
 "Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole bitwy mając znacznik "
 "+1/+1, czy pośpiech.)"
@@ -2378,7 +2417,7 @@ msgid ""
 "card."
 msgstr ""
 
-#: ../../MH2.rst:793 ../../MH2.rst:1775
+#: ../../MH2.rst:793 ../../MH2.rst:943 ../../MH2.rst:1775
 msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn.)"
@@ -2671,7 +2710,7 @@ msgid ""
 "that creature. It gains haste until end of turn."
 msgstr ""
 
-#: ../../MH2.rst:883 ../../MH2.rst:943
+#: ../../MH2.rst:883
 msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. You may choose new targets for the copies.)"
@@ -2779,7 +2818,7 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:915
-msgid "Aeve, Progenitor Ooze isn't legendary as long as it's a token."
+msgid "Aeve, Progenitor Ooze isn't legendary if it's a token."
 msgstr ""
 
 #: ../../MH2.rst:917
@@ -3170,11 +3209,17 @@ msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../MH2.rst:1053
+#, fuzzy
+#| msgid ""
+#| "Suspend 2—|mana_g| (Rather than cast this card from your hand, pay |"
+#| "mana_g| and exile it with two time counters on it. At the beginning of "
+#| "your upkeep, remove a time counter. When the last is removed, cast it "
+#| "without paying its mana cost.)"
 msgid ""
-"Suspend 2—|mana_g| (Rather than cast this card from your hand, pay |mana_g| "
-"and exile it with two time counters on it. At the beginning of your upkeep, "
-"remove a time counter. When the last is removed, cast it without paying its "
-"mana cost.)"
+"Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |"
+"mana_g| and exile it with two time counters on it. At the beginning of your "
+"upkeep, remove a time counter. When the last is removed, cast it without "
+"paying its mana cost. It has haste.)"
 msgstr ""
 "Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_g| i wygnać ją z dwoma znacznikami czasu. Na początku twojego "
@@ -3365,7 +3410,7 @@ msgstr ""
 
 #: ../../MH2.rst:1111
 msgid ""
-"Landfall — Whenever a land enters the battelfield under your control, create "
+"Landfall — Whenever a land enters the battlefield under your control, create "
 "a Food token or a Treasure token. (Food is an artifact with \"|mana_2|, |"
 "tap|, Sacrifice this artifact: You gain 3 life.\" Treasure is an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
@@ -3522,15 +3567,21 @@ msgid "Enchanted creature can't attack or block."
 msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../MH2.rst:1175
+#, fuzzy
+#| msgid ""
+#| "When Duskshell Crawler enters the battlefield, put a +1/+1 counter on "
+#| "target creature."
 msgid ""
 "When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 "
-"counter on each of up to two other target creatures.)"
+"counter on each of up to two target creatures.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../MH2.rst:1182
 msgid ""
 ":mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1622390379|"
+"border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1624206659|"
 "https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`"
 msgstr ""
 
@@ -3544,7 +3595,7 @@ msgstr ""
 
 #: ../../MH2.rst:1181
 msgid ""
-"Planeswalkers' loyalty abilities you activate cost an additional {+1} to "
+"Planeswalkers' loyalty abilities you activate cost an additional [+1] to "
 "activate."
 msgstr ""
 
@@ -3659,12 +3710,18 @@ msgid ""
 "https://scryfall.com/card/mh2/195/ethersworn-sphinx?utm_source=api>`"
 msgstr ""
 
-#: ../../MH2.rst:1223 ../../MH2.rst:1821
+#: ../../MH2.rst:1223
+#, fuzzy
+#| msgid ""
+#| "Cascade (When you cast this spell, exile cards from the top of your "
+#| "library until you exile a nonland card that costs less. You may cast it "
+#| "without paying its mana cost. Put the exiled cards on the bottom of your "
+#| "library in a random order.)"
 msgid ""
 "Cascade (When you cast this spell, exile cards from the top of your library "
-"until you exile a nonland card that costs less. You may cast it without "
-"paying its mana cost. Put the exiled cards on the bottom of your library in "
-"a random order.)"
+"until you exile a nonland card with lesser mana value. You may cast it "
+"without paying its mana cost. Put the exiled cards on the bottom of your "
+"library in a random order.)"
 msgstr ""
 "Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
 "aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
@@ -3739,7 +3796,7 @@ msgstr ""
 
 #: ../../MH2.rst:1247
 msgid ""
-"−3: Gain control of target creature or planeswalker until end of tun. Untap "
+"−3: Gain control of target creature or planeswalker until end of turn. Untap "
 "it and put a corruption counter on it. It gains haste until end of turn."
 msgstr ""
 
@@ -4130,10 +4187,17 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1377
+#, fuzzy
+#| msgid ""
+#| "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. "
+#| "Flip that many coins. For each flip you win, draw a card. For each flip "
+#| "you lose, Yursi deals 2 damage to you. If you won five flips this way, "
+#| "you may cast spells from your hand this turn without paying their mana "
+#| "costs."
 msgid ""
 "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. "
 "Flip that many coins. For each flip you win, draw a card. For each flip you "
-"lose, Yursi deals 2 damage to you. If you won five flips this way, you may "
+"lose, Yusri deals 2 damage to you. If you won five flips this way, you may "
 "cast spells from your hand this turn without paying their mana costs."
 msgstr ""
 "Ilekroć ten stwór atakuje, wybierz liczbę między 1 a 5. Rzuć tyloma "
@@ -4162,10 +4226,16 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1385
+#, fuzzy
+#| msgid ""
+#| "Exalted (Whenever a creature you control attacks alone, that creature "
+#| "gets +1/+1 until end of turn.)"
 msgid ""
 "Whenever a creature you control attacks alone, it gets +X/+X until end of "
-"turn, where X is the number of card types among cards in all graveyard."
+"turn, where X is the number of card types among cards in all graveyards."
 msgstr ""
+"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
+"dostaje +1/+1 do końca tury.)"
 
 #: ../../MH2.rst:1387
 msgid "Lhurgoyf creatures you control have trample."
@@ -4213,8 +4283,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1405
+#, fuzzy
+#| msgid ""
+#| "|mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two "
+#| "cards from your hand on top of your library in any order."
 msgid ""
-"|mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two cards "
+"|mana_2|, |tap|, Sacrifice Brainstone: Draw three cards, then put two cards "
 "from your hand on top of your library in any order."
 msgstr ""
 "|mana_2|,|tap|, poświęć ten artefakt: Dobierz trzy karty, po czym umieść "
@@ -4236,8 +4310,8 @@ msgstr ""
 #: ../../MH2.rst:1411
 msgid ""
 "Tap two untapped creatures you control: Until end of turn, Dermotaxi becomes "
-"a copy of the imprinted card, except it's a Vehicle artifact in addition to "
-"its other types."
+"a copy of the exiled card, except it's a Vehicle artifact in addition to its "
+"other types."
 msgstr ""
 
 #: ../../MH2.rst:1416
@@ -4334,8 +4408,8 @@ msgstr ""
 
 #: ../../MH2.rst:1441
 msgid ""
-"|mana_1|, Remove a +1/+1 counter from Monoskelion: Monoskelion deals 1 "
-"damage to any target."
+"|mana_1|, Remove a +1/+1 counter from Monoskelion: It deals 1 damage to any "
+"target."
 msgstr ""
 
 #: ../../MH2.rst:1446
@@ -4438,10 +4512,10 @@ msgstr ""
 #| "beginning of your upkeep, remove a time counter. When the last is "
 #| "removed, cast it without paying its mana cost.)"
 msgid ""
-"Suspend 3—|mana_1| (Rather than cast this card from your hand, you may pay |"
-"mana_1| and exile it with three time counters on it. At the beginning of "
-"your upkeep, remove a time counter. When the last is removed, cast it "
-"without paying its mana cost.)"
+"Suspend 3—|mana_1| (Rather than cast this card from your hand, pay |mana_1| "
+"and exile it with three time counters on it. At the beginning of your "
+"upkeep, remove a time counter. When the last is removed, cast it without "
+"paying its mana cost.)"
 msgstr ""
 "Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
 "zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
@@ -5372,6 +5446,18 @@ msgid ""
 "https://scryfall.com/card/mh2/292/shardless-agent?utm_source=api>`"
 msgstr ""
 
+#: ../../MH2.rst:1821
+msgid ""
+"Cascade (When you cast this spell, exile cards from the top of your library "
+"until you exile a nonland card that costs less. You may cast it without "
+"paying its mana cost. Put the exiled cards on the bottom of your library in "
+"a random order.)"
+msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie twojej "
+"biblioteki.)"
+
 #: ../../MH2.rst:1828
 msgid ""
 ":mtgtip:`Sterling Grove<https://c1.scryfall.com/file/scryfall-cards/"
@@ -5386,9 +5472,13 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1827
+#, fuzzy
+#| msgid ""
+#| "|mana_1|, Sacrifice Sterling Grove: Search your library for an "
+#| "enchantment card, reveal it, then shuffle and put the card on top."
 msgid ""
 "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment "
-"card, reveal it, then shuffle and put the card on top."
+"card, reveal it, then shuffle and put that card on top."
 msgstr ""
 "|mana_1|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę uroku, ujawnij "
 "ją, po czym przetasuj i umieść ją na wierzchu,."
@@ -5441,8 +5531,10 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1845
-msgid "|tap|, Mill a card: Add |colorless|."
-msgstr "|tap|, zmiel kartę: Weź |colorless|."
+msgid ""
+"|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of "
+"your library into your graveyard.)"
+msgstr ""
 
 #: ../../MH2.rst:1852
 msgid ""
@@ -5467,8 +5559,11 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1855
-msgid "Discard a card: Regenerate Patchwork Gnomes."
-msgstr "Odrzuć kartę: Zregeneruj tego stwora."
+msgid ""
+"Discard a card: Regenerate Patchwork Gnomes. (The next time this creature "
+"would be destroyed, instead tap it, remove it from combat, and heal all "
+"damage on it.)"
+msgstr ""
 
 #: ../../MH2.rst:1860
 msgid ""
@@ -5584,7 +5679,7 @@ msgstr "(|tap|: Weź |mana_g|.)"
 #: ../../MH2.rst:1903
 msgid ""
 ":mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1622391124|"
+"border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1624562577|"
 "https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`"
 msgstr ""
 
@@ -5597,6 +5692,24 @@ msgid ""
 "Noncreature spells with mana value equal to the chosen number can't be cast."
 msgstr ""
 "Nie można rzucać niestworowych czarów o skrócie many równym wybranej lczbie."
+
+#~ msgid ""
+#~ "Suspend 2—|mana_1|\\ |mana_w| (Rather than cast this card from your hand, "
+#~ "you may pay |mana_1|\\ |mana_w| and exile it with two time counters on "
+#~ "it. At the beginning of your upkeep, remove a time counter. When the last "
+#~ "is removed, cast it without paying its mana cost.)"
+#~ msgstr ""
+#~ "Zawieszenie 2—|mana_1|\\ |mana_w| (Zamiast rzucać tę kartę z twojej ręki, "
+#~ "możesz zapłacić |mana_1|\\ |mana_w| i wygnać ją z dwoma znacznikami "
+#~ "czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
+#~ "ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu "
+#~ "many.)"
+
+#~ msgid "|tap|, Mill a card: Add |colorless|."
+#~ msgstr "|tap|, zmiel kartę: Weź |colorless|."
+
+#~ msgid "Discard a card: Regenerate Patchwork Gnomes."
+#~ msgstr "Odrzuć kartę: Zregeneruj tego stwora."
 
 #~ msgid ""
 #~ "Counter target noncreature spell. If that spell is countered this way, "

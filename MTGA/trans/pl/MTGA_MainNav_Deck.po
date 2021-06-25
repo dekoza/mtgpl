@@ -480,7 +480,7 @@ msgid "This deck contains too many copies of a card."
 msgstr ""
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_InvalidDeckReasons_MoreThanXInMain"
-msgid "This deck cannot have fewer than {MaxTotalCards} cards."
+msgid "This deck cannot have more than {MaxTotalCards} cards."
 msgstr ""
 
 msgctxt ""
@@ -926,6 +926,22 @@ msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/ApplySleevesInDeckbuilder"
 msgid "Apply Sleeves in the Deck Builder"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_AFR_419124"
+msgid "Spider Queen Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_AFR_419140"
+msgid "Ellywick Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_AFR_419144"
+msgid "Tiamat Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_AFR_421393"
+msgid "Ancient Red Dragon Exquisite Sleeve"
 msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Basic_AllAccess_ELD"
