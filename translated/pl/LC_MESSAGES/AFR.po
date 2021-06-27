@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-25 19:39+0200\n"
+"POT-Creation-Date: 2021-06-27 19:43+0200\n"
 "PO-Revision-Date: 2021-06-25 20:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
@@ -24,32 +24,51 @@ msgstr ""
 
 #: ../../AFR.rst:12
 msgid ""
+":mtgtip:`Cloister Gargoyle<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/9/297bf274-d13d-4b75-b251-2d004b16b431.jpg?1624733746|"
+"https://scryfall.com/card/afr/7/cloister-gargoyle?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:9
+msgid ""
+"When Cloister Gargoyle enters the battlefield, venture into the dungeon. "
+"(Enter the first room or advance to the next room.)"
+msgstr ""
+
+#: ../../AFR.rst:11
+msgid ""
+"As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has "
+"flying."
+msgstr ""
+
+#: ../../AFR.rst:18
+msgid ""
 ":mtgtip:`Flumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1624506073|https://"
 "scryfall.com/card/afr/15/flumph?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:9
+#: ../../AFR.rst:15
 msgid "Defender, flying"
 msgstr "Obronność, latanie"
 
-#: ../../AFR.rst:11
+#: ../../AFR.rst:17
 msgid ""
 "Whenever Flumph is dealt damage, you and target opponent each draw a card."
 msgstr ""
 
-#: ../../AFR.rst:16
+#: ../../AFR.rst:22
 msgid ""
 ":mtgtip:`Gloom Stalker<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/8/388722ad-dcc6-41b9-afd8-a93be91b30e0.jpg?1624531212|"
 "https://scryfall.com/card/afr/16/gloom-stalker?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:15
+#: ../../AFR.rst:21
 msgid "As long as you've completed a dungeon, Gloom Stalker has double strike."
 msgstr ""
 
-#: ../../AFR.rst:24
+#: ../../AFR.rst:30
 msgid ""
 ":mtgtip:`Nadaar, Selfless Paladin<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/7/878a0d8c-11c1-4c65-9051-78e036ac496f.jpg?"
@@ -57,29 +76,29 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:19
+#: ../../AFR.rst:25
 msgid "Vigilance"
 msgstr ""
 
-#: ../../AFR.rst:21
+#: ../../AFR.rst:27
 msgid ""
 "Whenever Nadaar, Selfless Paladin enters the battlefield or attacks, venture "
 "into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:23
+#: ../../AFR.rst:29
 msgid ""
 "Other creatures you control get +1/+1 as long as you've completed a dungeon."
 msgstr ""
 
-#: ../../AFR.rst:28
+#: ../../AFR.rst:34
 msgid ""
 ":mtgtip:`Portable Hole<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1620558378|"
 "https://scryfall.com/card/afr/33/portable-hole?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:27
+#: ../../AFR.rst:33
 msgid ""
 "When Portable Hole enters the battlefield, exile target nonland permanent an "
 "opponent controls with mana value 2 or less until Portable Hole leaves the "
@@ -89,20 +108,20 @@ msgstr ""
 "permanent o skrócie many 2 lub mniejszym pod władaniem przeciwnika dopóki "
 "niniejszy artefakt nie opuści pola bitwy."
 
-#: ../../AFR.rst:32
+#: ../../AFR.rst:38
 msgid ""
 ":mtgtip:`Shortcut Seeker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/2/122d2635-c4f4-44cd-8f82-37e3016e421e.jpg?1624531226|"
+"border_crop/front/1/2/122d2635-c4f4-44cd-8f82-37e3016e421e.jpg?1624629491|"
 "https://scryfall.com/card/afr/73/shortcut-seeker?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:31
+#: ../../AFR.rst:37
 msgid ""
 "Whenever Shortcut Seeker deals combat damage to a player, venture into the "
 "dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:36
+#: ../../AFR.rst:42
 msgid ""
 ":mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?"
@@ -110,20 +129,37 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:35
+#: ../../AFR.rst:41
 msgid ""
 "Each opponent exiles cards from the top of their library until that player "
 "has exiled cards with total mana value 20 or more."
 msgstr ""
 
-#: ../../AFR.rst:46
+#: ../../AFR.rst:48
+msgid ""
+":mtgtip:`Dungeon Crawler<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/1/4138b66d-cf18-42a5-8522-241bd3969624.jpg?1624733823|"
+"https://scryfall.com/card/afr/99/dungeon-crawler?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:45
+msgid "Dungeon Crawler enters the battlefield tapped."
+msgstr ""
+
+#: ../../AFR.rst:47
+msgid ""
+"Whenever you complete a dungeon, you may return Dungeon Crawler from your "
+"graveyard to your hand."
+msgstr ""
+
+#: ../../AFR.rst:58
 msgid ""
 ":mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621816019|"
 "https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:39
+#: ../../AFR.rst:51
 msgid ""
 "Whenever a creature you control dies, put a loyalty counter on Lolth, Spider "
 "Queen."
@@ -131,16 +167,16 @@ msgstr ""
 "Ilekroć umrze stwór pod twoim władaniem, umieść znacznik lojalności na tym "
 "wędrowcu."
 
-#: ../../AFR.rst:41
+#: ../../AFR.rst:53
 msgid "0: You draw a card and you lose 1 life."
 msgstr "0: Dobierz kartę i strać 1 życie."
 
-#: ../../AFR.rst:43
+#: ../../AFR.rst:55
 msgid "−3: Create two 2/1 black Spider creature tokens with menace and reach."
 msgstr ""
 "–3: Stwórz dwa żetony czarnego stwora Pająk 2/1 ze złowrogością i zasięgiem."
 
-#: ../../AFR.rst:45
+#: ../../AFR.rst:57
 msgid ""
 "−8: You get an emblem with \"Whenever an opponent is dealt combat damage by "
 "one or more creatures you control, if that player lost less than 8 life this "
@@ -150,30 +186,30 @@ msgstr ""
 "najmniej jednego stwora pod twoim władaniem, jeśli ów gracz stracił w tej "
 "turze mniej niż 8 żyć, ów gracz traci życia równe różnicy.\""
 
-#: ../../AFR.rst:50
+#: ../../AFR.rst:62
 msgid ""
 ":mtgtip:`Power Word Kill<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.jpg?1620344800|"
 "https://scryfall.com/card/afr/114/power-word-kill?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:49
+#: ../../AFR.rst:61
 msgid "Destroy target non-Angel, non-Demon, non-Devil, non-Dragon creature."
 msgstr ""
 "Zniszcz wskazanego stwora nie będącego Aniołem, Demonem, Diabłem ani Smokiem."
 
-#: ../../AFR.rst:58
+#: ../../AFR.rst:70
 msgid ""
 ":mtgtip:`Vorpal Sword<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1620369326|"
 "https://scryfall.com/card/afr/124/vorpal-sword?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:53
+#: ../../AFR.rst:65
 msgid "Equipped creature gets +2/+0 and has deathtouch."
 msgstr "Wyposażony stwór dostaje +2/+0 i ma dotyk śmierci."
 
-#: ../../AFR.rst:55
+#: ../../AFR.rst:67
 msgid ""
 "|mana_5|\\ |mana_b|\\ |mana_b|\\ |mana_b|: Until end of turn, Vorpal Sword "
 "gains \"Whenever equipped creature deals combat damage to a player, that "
@@ -183,44 +219,44 @@ msgstr ""
 "zyskuje \"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ów gracz "
 "przegrywa grę.\""
 
-#: ../../AFR.rst:57
+#: ../../AFR.rst:69
 msgid "Equip |mana_b|\\ |mana_b|"
 msgstr "Wyposaż |mana_b|\\ |mana_b"
 
-#: ../../AFR.rst:66
+#: ../../AFR.rst:78
 msgid ""
 ":mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|"
 "https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:61
+#: ../../AFR.rst:73
 msgid ""
 "+1: Venture into the dungeon. (Enter the first room or advance to the next "
 "room.)"
 msgstr ""
 
-#: ../../AFR.rst:63
+#: ../../AFR.rst:75
 msgid ""
 "−2: Look at the top six cards of your library. You may reveal a creature "
 "card from among them and put it into your hand. If it's legendary, you gain "
 "3 life. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../AFR.rst:65
+#: ../../AFR.rst:77
 msgid ""
 "−7: You get an emblem with \"Creatures you control have trample and haste "
 "and get +2/+2 for each differently named dungeon you've completed.\""
 msgstr ""
 
-#: ../../AFR.rst:72
+#: ../../AFR.rst:84
 msgid ""
 ":mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|"
 "https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:69
+#: ../../AFR.rst:81
 msgid ""
 "When Prosperous Innkeeper enters the battlefield, create a Treasure token. "
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
@@ -229,27 +265,27 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
-#: ../../AFR.rst:71
+#: ../../AFR.rst:83
 msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
-#: ../../AFR.rst:78
+#: ../../AFR.rst:90
 msgid ""
 ":mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1621816011|"
+"border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1624735009|"
 "https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:75
+#: ../../AFR.rst:87
 msgid "Each creature you control gets +2/+0 for each Equipment attached to it."
 msgstr ""
 "Każdy stwór pod twoim władaniem dostaje +2/+0 za każde Wyposażenie dołączone "
 "do niego."
 
-#: ../../AFR.rst:77
+#: ../../AFR.rst:89
 msgid ""
 "You may pay |mana_0| rather than pay the equip cost of the first equip "
 "ability you activate each turn."
@@ -257,18 +293,18 @@ msgstr ""
 "Możesz płacić |mana_0| zamiast płacić pierwszy twój koszt wyposażenia w "
 "danej turze."
 
-#: ../../AFR.rst:86
+#: ../../AFR.rst:98
 msgid ""
 ":mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1621816003|"
 "https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:81
+#: ../../AFR.rst:93
 msgid "Double strike"
 msgstr "Podwójny cios"
 
-#: ../../AFR.rst:83
+#: ../../AFR.rst:95
 msgid ""
 "When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary "
 "4/1 green Cat creature token with trample."
@@ -276,7 +312,7 @@ msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton legendarnego zielonego "
 "stwora Kot 4/1 z tratowaniem o nazwie Guenhwyvar."
 
-#: ../../AFR.rst:85
+#: ../../AFR.rst:97
 msgid ""
 "Whenever a creature dies, if it had power greater than Drizzt's power, put a "
 "number of +1/+1 counters on Drizzt equal to the difference."
@@ -284,18 +320,18 @@ msgstr ""
 "Ilekroć umrze stwór, jeśli miał siłę większą niż siłą tego stwora, umieść na "
 "niniejszym stworze tyle znaczników +1/+1, ile wynosi różnica."
 
-#: ../../AFR.rst:92
+#: ../../AFR.rst:104
 msgid ""
 ":mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1621233632|https://"
+"front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1624735061|https://"
 "scryfall.com/card/afr/235/tiamat?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:89
+#: ../../AFR.rst:101
 msgid "Flying"
 msgstr "Latanie"
 
-#: ../../AFR.rst:91
+#: ../../AFR.rst:103
 msgid ""
 "When Tiamat enters the battlefield, if you cast it, search your library for "
 "up to five Dragon cards not named Tiamat that each have different names, "
@@ -306,72 +342,72 @@ msgstr ""
 "nie mających nazwy Tiamat, ujawnij je, umieść je w twojej ręce, po czym "
 "przetasuj."
 
-#: ../../AFR.rst:96
-msgid ""
-":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://"
-"scryfall.com/card/afr/262/plains?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:95
-msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Weź |mana_w|.)"
-
-#: ../../AFR.rst:100
-msgid ""
-":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/e/9e70c602-cb80-472b-9c8d-9625de084fe7.jpg?1624535609|https://"
-"scryfall.com/card/afr/266/island?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:99
-msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Weź |mana_u|.)"
-
-#: ../../AFR.rst:104
-msgid ""
-":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
-"a/b/ab950987-d88c-4326-98f4-1b1195788921.jpg?1624535761|https://scryfall.com/"
-"card/afr/270/swamp?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:103
-msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Weź |mana_b|.)"
-
 #: ../../AFR.rst:108
 msgid ""
-":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/d/edabc558-2c54-4c7b-a6fa-1e75ddcf12f9.jpg?1624535760|https://"
-"scryfall.com/card/afr/274/mountain?utm_source=api>`"
+":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1624734003|"
+"https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:107
-msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Weź |mana_r|.)"
-
-#: ../../AFR.rst:112
-msgid ""
-":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624535759|https://"
-"scryfall.com/card/afr/278/forest?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:111
-msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
-
-#: ../../AFR.rst:115
-msgid ""
-":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bf6069f2-7a32-4cb7-b2ab-ea6b51267cca.jpg?1624544744|"
-"https://scryfall.com/card/afr/353/evolving-wilds?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:115
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
+
+#: ../../AFR.rst:112
+msgid ""
+":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://"
+"scryfall.com/card/afr/262/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:111
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
+
+#: ../../AFR.rst:116
+msgid ""
+":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/9/e/9e70c602-cb80-472b-9c8d-9625de084fe7.jpg?1624535609|https://"
+"scryfall.com/card/afr/266/island?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:115
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
+
+#: ../../AFR.rst:120
+msgid ""
+":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
+"a/b/ab950987-d88c-4326-98f4-1b1195788921.jpg?1624535761|https://scryfall.com/"
+"card/afr/270/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:119
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
+
+#: ../../AFR.rst:124
+msgid ""
+":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/d/edabc558-2c54-4c7b-a6fa-1e75ddcf12f9.jpg?1624535760|https://"
+"scryfall.com/card/afr/274/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:123
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
+
+#: ../../AFR.rst:127
+msgid ""
+":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624535759|https://"
+"scryfall.com/card/afr/278/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:127
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
