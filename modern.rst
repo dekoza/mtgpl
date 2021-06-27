@@ -23,8 +23,9 @@ Standard jest ich podzbiorem.
 Dodatki specjalne
 -----------------
 
-Poniższy dodatek należy do formatu Modern, choć nigdy nie był częścią Standardu.
+Poniższe dodatki należą do formatu Modern, choć nigdy nie były częścią Standardu.
 
+* :mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` |MH2_percent|
 * :mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |MH1_percent|
 
 Pioneer
