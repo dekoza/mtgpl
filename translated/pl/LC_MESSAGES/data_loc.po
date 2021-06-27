@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-06-25 20:40+0000\n"
+"PO-Revision-Date: 2021-06-27 17:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -200,7 +200,7 @@ msgstr "Współpraca"
 #. card_title
 msgctxt "63"
 msgid "Recover"
-msgstr "Odzyskiwanie"
+msgstr ""
 
 #. internal_ability
 msgctxt "70"
@@ -291,7 +291,7 @@ msgstr "Szaleństwo"
 #. card_title, internal_ability
 msgctxt "114"
 msgid "Replicate"
-msgstr "Replikacja"
+msgstr ""
 
 #. internal_ability
 msgctxt "118"
@@ -358,7 +358,7 @@ msgstr "Rykoszet"
 #. card_title
 msgctxt "148"
 msgid "Absorb"
-msgstr "Absorbcja"
+msgstr ""
 
 #. internal_ability
 msgctxt "151"
@@ -2200,7 +2200,7 @@ msgstr ""
 #. card_title
 msgctxt "760"
 msgid "Counterspell"
-msgstr "Counterspell"
+msgstr ""
 
 #. internal_ability, printed_ability, type_instant
 msgctxt "762"
@@ -3637,7 +3637,7 @@ msgstr "Bóg"
 #. card_title
 msgctxt "1534"
 msgid "Response"
-msgstr "Odpowiedź"
+msgstr ""
 
 #. card_title
 msgctxt "1535"
@@ -6075,7 +6075,7 @@ msgstr ""
 #. card_title
 msgctxt "2898"
 msgid "Regrowth"
-msgstr "Regrowth"
+msgstr ""
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "2899"
@@ -10968,7 +10968,7 @@ msgstr ""
 #. card_title
 msgctxt "26108"
 msgid "Tezzeret's Gambit"
-msgstr "Tezzeret's Gambit"
+msgstr ""
 
 #. internal_ability, printed_ability, type_sorcery
 msgctxt "26109"
@@ -12312,7 +12312,7 @@ msgstr ""
 #. card_title
 msgctxt "37927"
 msgid "Explore"
-msgstr "Explore"
+msgstr ""
 
 #. flavor_text
 msgctxt "37928"
@@ -12921,7 +12921,7 @@ msgstr "Ilekroć umrze inny nieżetonowy stwór, możesz dobrać kartę."
 #. card_title
 msgctxt "40049"
 msgid "Ghostform"
-msgstr "Zjawa"
+msgstr ""
 
 #. flavor_text
 msgctxt "40067"
@@ -19864,7 +19864,7 @@ msgstr ""
 #. card_title
 msgctxt "58123"
 msgid "Feather"
-msgstr "Pióro"
+msgstr ""
 
 #. maybe_hidden
 msgctxt "58124"
@@ -36233,7 +36233,7 @@ msgstr ""
 #. card_title
 msgctxt "226962"
 msgid "City's Blessing"
-msgstr "Błogosławieństwo Miasta"
+msgstr ""
 
 #. flavor_text
 msgctxt "226963"
@@ -120350,7 +120350,7 @@ msgstr ""
 #. card_title
 msgctxt "478035"
 msgid "Icy Manalith"
-msgstr "Lodowy Manalit"
+msgstr ""
 
 #. card_type
 msgctxt "478036"
@@ -120360,7 +120360,7 @@ msgstr "Żeton Śnieżny Artefakt"
 #. card_title
 msgctxt "478037"
 msgid "Replicated Ring"
-msgstr "Powielony Pierścień"
+msgstr ""
 
 #. maybe_hidden
 msgctxt "478038"
@@ -126091,12 +126091,9 @@ msgstr ""
 "władaniem."
 
 #. card_title
-#, fuzzy
-#| msgctxt "281412"
-#| msgid "Historic"
 msgctxt "488774"
 msgid "Blade Historian"
-msgstr "Historyczny"
+msgstr ""
 
 #. flavor_text
 msgctxt "488775"
@@ -126450,12 +126447,9 @@ msgstr ""
 "gdzie X to siła poświęconego stwora."
 
 #. card_title
-#, fuzzy
-#| msgctxt "22"
-#| msgid "Double strike"
 msgctxt "488823"
 msgid "Double Major"
-msgstr "Podwójny cios"
+msgstr ""
 
 #. flavor_text
 msgctxt "488824"
@@ -126541,12 +126535,9 @@ msgid ""
 msgstr "|mana_ur|\\ |mana_ur|, odrzuć tę kartę: Stwórz żeton Skarbu."
 
 #. card_title
-#, fuzzy
-#| msgctxt "611"
-#| msgid "Elemental"
 msgctxt "488838"
 msgid "Elemental Summoning"
-msgstr "Żywiołak"
+msgstr ""
 
 #. flavor_text
 msgctxt "488839"
@@ -126644,12 +126635,9 @@ msgstr ""
 "znaczników +1/+1."
 
 #. card_title
-#, fuzzy
-#| msgctxt "8"
-#| msgid "Creature"
 msgctxt "488853"
 msgid "Fracture"
-msgstr "Stwór"
+msgstr ""
 
 #. flavor_text
 msgctxt "488854"
@@ -126742,12 +126730,9 @@ msgid "Exile Harness Infinity."
 msgstr "Wygnaj ten czar."
 
 #. card_title
-#, fuzzy
-#| msgctxt "40049"
-#| msgid "Ghostform"
 msgctxt "488867"
 msgid "Hofri Ghostforge"
-msgstr "Zjawa"
+msgstr ""
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "488868"
@@ -127148,12 +127133,9 @@ msgstr ""
 "turze, stwórz żeton czerwono-białego stwora Duch 3/2."
 
 #. card_title
-#, fuzzy
-#| msgctxt "139"
-#| msgid "Manifest"
 msgctxt "488918"
 msgid "Manifestation Sage"
-msgstr "Objawienie"
+msgstr ""
 
 #. flavor_text
 msgctxt "488919"
@@ -127930,12 +127912,9 @@ msgstr ""
 "kartę."
 
 #. card_title
-#, fuzzy
-#| msgctxt "280382"
-#| msgid "Spectacle"
 msgctxt "489025"
 msgid "Spectacle Mage"
-msgstr "Widowisko"
+msgstr ""
 
 #. flavor_text
 msgctxt "489026"
@@ -127952,12 +127931,9 @@ msgstr ""
 "cię o |mana_1| mniej."
 
 #. card_title
-#, fuzzy
-#| msgctxt "272453"
-#| msgid "Spirit Knight"
 msgctxt "489028"
 msgid "Spirit Summoning"
-msgstr "Duch Rycerz"
+msgstr ""
 
 #. flavor_text
 msgctxt "489029"
