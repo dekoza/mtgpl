@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-23 16:38+0200\n"
-"PO-Revision-Date: 2021-04-26 02:18+0000\n"
+"PO-Revision-Date: 2021-06-27 20:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -3848,17 +3848,14 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1375
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
-#| "land card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "|mana_g|, |tap|, Sacrifice Magus of the Order and another green creature: "
 "Search your library for a green creature card, put it onto the battlefield, "
 "then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_g|, |tap|, poświęć tego i innego zielonego stwora: Wyszukaj w twojej "
+"bibliotece kartę zielonego stwora, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../CMR.rst:1382
 msgid ""
@@ -3960,16 +3957,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:1413
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put it onto the battlefield, "
-#| "then shuffle your library."
 msgid ""
 "Search your library for up to ten land cards, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
-"po czym przetasuj."
+"Wyszukaj w twojej bibliotece co najwyżej dziesięć kart lądów, umieść je "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CMR.rst:1418
 msgid ""
