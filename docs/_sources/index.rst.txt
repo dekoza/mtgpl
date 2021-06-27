@@ -13,6 +13,7 @@ Po najechaniu myszką na nazwę karty można zobaczyć jej oryginalny wizerunek.
 
 Jeśli uważasz, że projekt ten jest przydatny, `wesprzyj autora na Patronite <https://patronite.pl/mtgpl>`_.
 
+:doc:`Lista osób, które wsparły projekt<patroni>` - pięknie dziękuję!
 
 Spolszczenie Magic Arena
 ========================
