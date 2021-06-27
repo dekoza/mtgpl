@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-23 20:16+0200\n"
+"POT-Creation-Date: 2021-06-27 19:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,75 +57,75 @@ msgid "Nadchodzące"
 msgstr ""
 
 #: ../../index.rst:39
-msgid "Modern: :mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` (Premiera: 2021-06-11)"
-msgstr ""
-
-#: ../../index.rst:40
 msgid "Standard: :mtgexp:`AFR` :doc:`Dungeons & Dragons: Adventures in the Forgotten Realms<AFR>` (Premiera: 2021-07-23)"
 msgstr ""
 
-#: ../../index.rst:43
+#: ../../index.rst:42
 msgid "Standard"
 msgstr ""
 
-#: ../../index.rst:45
+#: ../../index.rst:44
 msgid "Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar. Jest podzbiorem wszystkich innych formatów."
 msgstr ""
 
-#: ../../index.rst:48
+#: ../../index.rst:47
 msgid ":mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|"
 msgstr ""
 
-#: ../../index.rst:49
+#: ../../index.rst:48
 msgid ":mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|"
 msgstr ""
 
-#: ../../index.rst:50
+#: ../../index.rst:49
 msgid ":mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|"
 msgstr ""
 
-#: ../../index.rst:51
+#: ../../index.rst:50
 msgid ":mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|"
 msgstr ""
 
-#: ../../index.rst:52
+#: ../../index.rst:51
 msgid ":mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|"
 msgstr ""
 
-#: ../../index.rst:53
+#: ../../index.rst:52
 msgid ":mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|"
 msgstr ""
 
-#: ../../index.rst:54
+#: ../../index.rst:53
 msgid ":mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|"
 msgstr ""
 
-#: ../../index.rst:57
+#: ../../index.rst:56
 msgid "Pionier"
 msgstr ""
 
-#: ../../index.rst:59
+#: ../../index.rst:58
 msgid "Nowy format bez rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Return to Ravnica<RTR>` do teraz. Jest podzbiorem formatu Modern. Na poniższej liście znajdują się dodatki poza Standardem."
 msgstr ""
 
-#: ../../index.rst:61
+#: ../../index.rst:60
 msgid ":doc:`Pionier<pioneer>`"
 msgstr ""
 
-#: ../../index.rst:64
+#: ../../index.rst:63
 msgid "Modern"
 msgstr ""
 
-#: ../../index.rst:66
+#: ../../index.rst:65
 msgid "Starszy format pozbawiony rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Mirrodin<MRD>` do teraz. Na poniższej liście znajdują się dodatki nie wymienione wcześniej."
 msgstr ""
 
-#: ../../index.rst:68
+#: ../../index.rst:67
 msgid ":doc:`Pełna lista dodatków wchodzących w skład formatu Modern<modern>`"
 msgstr ""
 
-#: ../../index.rst:70
-msgid "Oprócz tego format otrzymał specjalny dodatek, który nigdy nie był częścią Standardu:"
+#: ../../index.rst:69
+msgid "Oprócz tego format otrzymał specjalne dodatki, które nigdy nie był częścią Standardu:"
+msgstr ""
+
+#: ../../index.rst:71
+msgid ":mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` |MH2_percent|"
 msgstr ""
 
 #: ../../index.rst:72
