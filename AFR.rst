@@ -61,12 +61,28 @@
    Destroy target non-Angel, non-Demon, non-Devil, non-Dragon creature.
 
 
+:mtgtip:`Sphere of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.jpg?1624964711|https://scryfall.com/card/afr/121/sphere-of-annihilation?utm_source=api>`
+   Sphere of Annihilation enters the battlefield with X void counters on it.
+
+   At the beginning of your upkeep, exile Sphere of Annihilation, all creatuers and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in all graveyards with mana value less than or equal to the number of void counters on it.
+
+
 :mtgtip:`Vorpal Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1620369326|https://scryfall.com/card/afr/124/vorpal-sword?utm_source=api>`
    Equipped creature gets +2/+0 and has deathtouch.
 
    |mana_5|\ |mana_b|\ |mana_b|\ |mana_b|: Until end of turn, Vorpal Sword gains "Whenever equipped creature deals combat damage to a player, that player loses the game."
 
    Equip |mana_b|\ |mana_b|
+
+
+:mtgtip:`Minion of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1624964343|https://scryfall.com/card/afr/156/minion-of-the-mighty?utm_source=api>`
+   Menace
+
+   Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures wih total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking.
+
+
+:mtgtip:`"Horny Bard"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.jpg?1624941387|https://scryfall.com/card/afr/165/horny-bard?utm_source=api>`
+   At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.
 
 
 :mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`
@@ -77,10 +93,28 @@
    −7: You get an emblem with "Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed."
 
 
+:mtgtip:`"Owlbear"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1624963767|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
+   Trample
+
+   Keen Senses — When "Owlbear" enters the battlefield, draw a card.
+
+
 :mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`
    When Prosperous Innkeeper enters the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
    Whenever another creature enters the battlefield under your control, you gain 1 life.
+
+
+:mtgtip:`Purple Worm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e419d58b-6241-4892-9080-f6894ac7ba89.jpg?1624964555|https://scryfall.com/card/afr/201/purple-worm?utm_source=api>`
+   This spell costs |mana_2| less to cast if a creature died this turn.
+
+   Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
+
+
+:mtgtip:`"Tarrasque"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.jpg?1624963495|https://scryfall.com/card/afr/207/tarrasque?utm_source=api>`
+   If "Tarrasque" was cast, it has haste and ward |mana_10|.
+
+   Whenever "Tarrasque" attacks, it fights target creature defending player controls.
 
 
 :mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1624735009|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`
@@ -103,8 +137,28 @@
    When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle.
 
 
+:mtgtip:`Trelasarra Moon Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.jpg?1624941354|https://scryfall.com/card/afr/236/trelasarra-moon-dancer?utm_source=api>`
+   Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and scry 1.
+
+
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1624734003|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`"Hall of the Storm Giant"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf8f052d-8840-4905-a807-9a305f4fd8f7.jpg?1624941856|https://scryfall.com/card/afr/257/hall-of-the-storm-giant?utm_source=api>`
+   If you control two or more other lands, "Hall of the Storm Giant" enters the battlefield tapped.
+
+   |tap|: Add |mana_u|.
+
+   |mana_5|\ |mana_u|: Until end of turn, "Hall of the Storm Giant" becomes a 7/7 blue Giant creature with ward |mana_3|. It's still a land.
+
+
+:mtgtip:`Hive of the Eye Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9eb391dc-0378-4793-a5de-899b09792a4b.jpg?1624941608|https://scryfall.com/card/afr/258/hive-of-the-eye-tyrant?utm_source=api>`
+   If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped.
+
+   |tap|: Add |mana_b|.
+
+   |mana_3|\ |mana_b|: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and "Whenever this creature attacks, exile target card from defending player's graveyard." It's still a land.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://scryfall.com/card/afr/262/plains?utm_source=api>`
@@ -123,6 +177,10 @@
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624535759|https://scryfall.com/card/afr/278/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624960210|https://scryfall.com/card/afr/278/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
+
+
+:mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85d4caf8-06cf-4320-a744-988a551d23e5.jpg?1624964325|https://scryfall.com/card/afr/391/xanathar-guild-kingpin?utm_source=api>`
+   At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look atthe top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.
 
