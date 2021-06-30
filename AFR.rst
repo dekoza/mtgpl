@@ -5,10 +5,28 @@
 =================================================
 
 
+:mtgtip:`Celestial Unicorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2d68812-8862-4e34-a992-7d6bbadaf316.jpg?1625004661|https://scryfall.com/card/afr/5/celestial-unicorn?utm_source=api>`
+   Whenever you gain life, put a +1/+1 counter on Celestial Unicorn.
+
+
 :mtgtip:`Cloister Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/297bf274-d13d-4b75-b251-2d004b16b431.jpg?1624733746|https://scryfall.com/card/afr/7/cloister-gargoyle?utm_source=api>`
    When Cloister Gargoyle enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 
    As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
+
+
+:mtgtip:`Dawnbringer Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c00856f7-fef5-4ba5-9079-59a81d452c82.jpg?1624991924|https://scryfall.com/card/afr/9/dawnbringer-cleric?utm_source=api>`
+   When Dawnbringer Cleric enters the battlefield, choose one —
+
+   • Cure Wounds — You gain 2 life.
+
+   • Dispel Magic — Destroy target enchantment.
+
+   • Gentle Repose — Exile target card from a graveyard.
+
+
+:mtgtip:`"Paladin of Devotion"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3620ed96-1d15-4942-b9e5-9f9a64b0cab4.jpg?1625024969|https://scryfall.com/card/afr/11/paladin-of-devotion?utm_source=api>`
+   Beacon of Hope — When "Paladin of Devotion" enters the battelfield, creatures you control get +1/+1 and gain vigilance until end of turn.
 
 
 :mtgtip:`Flumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1624506073|https://scryfall.com/card/afr/15/flumph?utm_source=api>`
@@ -21,6 +39,16 @@
    As long as you've completed a dungeon, Gloom Stalker has double strike.
 
 
+:mtgtip:`Icingdeath, Frost Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad.jpg?1624988092|https://scryfall.com/card/afr/20/icingdeath-frost-tyrant?utm_source=api>`
+   Flying, vigilance
+
+   When Icingdeath, Frost Tyrant dies, create Icingdeath, Frost Tongue, a legendary white Equipment artifact token with "Equipped creature gets +2/+0", "Whenever equipped creature attacks, tap target creature defending player controls," and equip |mana_2|.
+
+
+:mtgtip:`Moon-Blessed Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b7fea79-9600-41d2-84d2-34a61a08a0d4.jpg?1624997409|https://scryfall.com/card/afr/26/moon-blessed-cleric?utm_source=api>`
+   Divine Intervention — When Moon-Blessed Cleric enters the battlefield, you may search your library for an enchantment card, reveal it, then shuffle and put that card on top.
+
+
 :mtgtip:`Nadaar, Selfless Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/878a0d8c-11c1-4c65-9051-78e036ac496f.jpg?1624530978|https://scryfall.com/card/afr/27/nadaar-selfless-paladin?utm_source=api>`
    Vigilance
 
@@ -29,8 +57,58 @@
    Other creatures you control get +1/+1 as long as you've completed a dungeon.
 
 
+:mtgtip:`"Oswald Fiddlebender"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bba1650f-eddf-49a9-820e-489cb8d5b6fa.jpg?1625011432|https://scryfall.com/card/afr/28/oswald-fiddlebender?utm_source=api>`
+   |mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact card with mana value equal to one plus the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
+
+
 :mtgtip:`Portable Hole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1620558378|https://scryfall.com/card/afr/33/portable-hole?utm_source=api>`
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
+
+
+:mtgtip:`Ranger's Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d7a7744-e49d-4b4e-b6ae-7fc6d2892cef.jpg?1625002728|https://scryfall.com/card/afr/37/rangers-hawk?utm_source=api>`
+   Flying
+
+   |mana_3|, |tap|, Tap another target untapped creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`You Hear Something on Watch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76e939ab-9d0c-4685-805c-c8bc4e6af163.jpg?1624992353|https://scryfall.com/card/afr/42/you-hear-something-on-watch?utm_source=api>`
+   Choose one —
+
+   • Rouse the Party — Creatures you control get +1/+1 until end of turn.
+
+   • Set Off Traps — This spell deals 5 damage to target attacking creature.
+
+
+:mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1624989169|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?utm_source=api>`
+   You many choose not to untap The Blackstaff of Waterdeep during your untap step.
+
+   Animate Walking Statue — |mana_1|\ |mana_u|, |tap|: Another target artifact you control becomes a 4/4 artifact creature for as long as The Blackstaff of Waterdeep remains tapped. Activate only as a sorcery.
+
+
+:mtgtip:`Charmed Sleep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4238ad00-af9c-4535-a589-c5afb0d2ec57.jpg?1624991797|https://scryfall.com/card/afr/50/charmed-sleep?utm_source=api>`
+   Enchant creature
+
+   When Charmed Sleep enters the battlefield, tap enchanted creature.
+
+   Enchanted creature doesn't untap during its controller's untap step.
+
+
+:mtgtip:`Dragon Turtle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d436ba80-386f-40ad-b0ca-a98cc50de964.jpg?1625004002|https://scryfall.com/card/afr/56/dragon-turtle?utm_source=api>`
+   Flash
+
+   Drag Below — When Dragon Turtle enters the battlefield, tap it and up to one target creature and opponent controls. They don't untap during their controllers' next untap steps.
+
+
+:mtgtip:`Grazilaxx, Illithid Scholar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98cca453-4611-4f3d-85d8-d74d260c7598.jpg?1624995724|https://scryfall.com/card/afr/60/grazilaxx-illithid-scholar?utm_source=api>`
+   Whenever a creature you control becomes blocked, you may return it to its owner's hand.
+
+   Whenever one or more creatures you control deal combat damage to a player, draw a card.
+
+
+:mtgtip:`Guild Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4348ec-fdb1-4c3b-bec5-42513c6c0662.jpg?1624992716|https://scryfall.com/card/afr/61/guild-thief?utm_source=api>`
+   Whenever Guild Thief deals combat damage to a player, put a +1/+1 counter on it.
+
+   Cunning Action — |mana_3|\ |mana_u|: Guild Thief can't be blocked this turn.
 
 
 :mtgtip:`Shortcut Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/122d2635-c4f4-44cd-8f82-37e3016e421e.jpg?1624629491|https://scryfall.com/card/afr/73/shortcut-seeker?utm_source=api>`
@@ -41,10 +119,74 @@
    Each opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or more.
 
 
+:mtgtip:`You Come to a River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebf9bab7-98a0-4394-90c0-e7c52e14eb37.jpg?1624988423|https://scryfall.com/card/afr/83/you-come-to-a-river?utm_source=api>`
+   Choose one —
+
+   • Fight the Current — Return target nonland permanent top its owner's hand.
+
+   • Find a Crossing — Target creature gets +1/+0 until end of turn and can't be blocked this turn.
+
+
+:mtgtip:`You Find the Villains' Lair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6704458-6e9e-4795-a56d-25b68fbf9672.jpg?1624998345|https://scryfall.com/card/afr/84/you-find-the-villains-lair?utm_source=api>`
+   Choose one —
+
+   • Foil Their Scheme — Counter target spell.
+
+   • Learn Their Secrets — Draw two cards, then discard two cards.
+
+
+:mtgtip:`You See a Guard Approach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30c5fd8e-753a-45e1-bcdd-fb6e072ffbb0.jpg?1624997058|https://scryfall.com/card/afr/85/you-see-a-guard-approach?utm_source=api>`
+   Choose one —
+
+   • Distract the Guard — Tap target creature.
+
+   • Hide — Target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+
+
+:mtgtip:`Baleful Beholder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e52d6ef6-d8a3-4288-8917-4c0a179ed4e0.jpg?1625001797|https://scryfall.com/card/afr/89/baleful-beholder?utm_source=api>`
+   When Baleful Beholder enters the battlefield, choose one —
+
+   • Antimagic Cone — Each opponent sacrifices an enchantment.
+
+   • Fear Ray — Creatures you control gain menace until end of turn. (A creature with menance can't be blocked except by two or more creatures.)
+
+
+:mtgtip:`Black Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaca283a-39f1-4ae7-98fb-7821a927ef86.jpg?1624998111|https://scryfall.com/card/afr/90/black-dragon?utm_source=api>`
+   Flying
+
+   Acid Breath — When Black Dragon enters the battlefield, target creature an oppon ent controls gets -3/-3 until end of turn.
+
+
+:mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1624997312|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`
+   At the beginning of your end step, if you lost 2 or more life this turn, create a 2/2 black Zombie creature token.
+
+   |tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible. It gains all triggered abilities of the exiled cards.
+
+
+:mtgtip:`Devour Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13c34f2d-2eac-4241-8b23-9cab3268c254.jpg?1624992607|https://scryfall.com/card/afr/97/devour-intellect?utm_source=api>`
+   Target opponent discards a card. If mana from a Treasure was spent to cast this spell, instead that player reveals their hand, you choose a nonland card from it, then that player discards a card.
+
+
 :mtgtip:`Dungeon Crawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4138b66d-cf18-42a5-8522-241bd3969624.jpg?1624733823|https://scryfall.com/card/afr/99/dungeon-crawler?utm_source=api>`
    Dungeon Crawler enters the battlefield tapped.
 
    Whenever you complete a dungeon, you may return Dungeon Crawler from your graveyard to your hand.
+
+
+:mtgtip:`Ebondeath, Dracolich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b3f460-92ba-4af0-aad9-cf86615d4177.jpg?1624997541|https://scryfall.com/card/afr/100/ebondeath-dracolich?utm_source=api>`
+   Flash
+
+   Flying
+
+   Ebondeath, Dracolich enters the battlefield tapped.
+
+   You may cast Ebondeath, Dracolich from your graveyard if a creature not named Ebondeath, Dracolich died this turn.
+
+
+:mtgtip:`Gelatinous Cube<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.jpg?1624992857|https://scryfall.com/card/afr/105/gelatinous-cube?utm_source=api>`
+   Engulf — When Gelatinous Cube enters the battlefield, exile target non-Ooze creature an opponent controls until Gelatinous Cube leaves the battlefield.
+
+   Dissolve — |mana_x|\ |mana_b|: Put target creature card with mana value X exiled with Gelatinous Cube into its owner's graveyard.
 
 
 :mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621816019|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`
@@ -55,6 +197,14 @@
    −3: Create two 2/1 black Spider creature tokens with menace and reach.
 
    −8: You get an emblem with "Whenever an opponent is dealt combat damage by one or more creatures you control, if that player lost less than 8 life this turn, they lose life equal to the difference."
+
+
+:mtgtip:`Manticore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b3d9117-724a-4b67-be27-142b9c283788.jpg?1624994140|https://scryfall.com/card/afr/113/manticore?utm_source=api>`
+   Flash
+
+   Flying
+
+   Tail Spikes — When Manticore enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.
 
 
 :mtgtip:`Power Word Kill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.jpg?1620344800|https://scryfall.com/card/afr/114/power-word-kill?utm_source=api>`
@@ -75,14 +225,104 @@
    Equip |mana_b|\ |mana_b|
 
 
+:mtgtip:`Wight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f62abe9c-7599-433b-a964-10d6641f3586.jpg?1625004770|https://scryfall.com/card/afr/127/wight?utm_source=api>`
+   Wight enters the battlefield tapped.
+
+   Life Drain — Whenever a creature dealt damage by Wight this turn dies, create a tapped 2/2 black Zombie creature token and exile that card.
+
+
+:mtgtip:`Battle Cry Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9766a427-2bb3-4028-a502-d1194cdc93aa.jpg?1625000773|https://scryfall.com/card/afr/132/battle-cry-goblin?utm_source=api>`
+   |mana_1|\ |mana_r|: Goblins you control get +1/+0 and gain haste until end of turn.
+
+   Pack tactics — Whenever Battle Cry Goblin attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking.
+
+
+:mtgtip:`Dueling Rapier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c304118a-c83b-490a-b0e2-721734a996ee.jpg?1624998217|https://scryfall.com/card/afr/140/dueling-rapier?utm_source=api>`
+   Flash
+
+   When Dueling Rapier enters the battlefield, attach it to target creature you control.
+
+   Equipped creature gets +2/+0.
+
+   Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)
+
+
+:mtgtip:`Flameskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.jpg?1624988210|https://scryfall.com/card/afr/143/flameskull?utm_source=api>`
+   Flying
+
+   Flameskull can't block.
+
+   Rejuvenation — When Flameskull dies, exile it. If you do, exile the top card of your library. Until the end of your next turn, you may play one of those cards. (If you cast Flameskull this way, you can't play the other card, and vice versa.)
+
+
+:mtgtip:`Hobgoblin Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7c0aa86-fd3b-4e0f-9d37-ce1ea8922243.jpg?1625004969|https://scryfall.com/card/afr/148/hobgoblin-captain?utm_source=api>`
+   Pack tactics — Whenever Hobgoblin Captain attacks, if you attacked with creatures with total power 6 or greater this combat, Hobgoblin Captain gains first strike until end of turn.
+
+
 :mtgtip:`Minion of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1624964343|https://scryfall.com/card/afr/156/minion-of-the-mighty?utm_source=api>`
    Menace
 
    Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures wih total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking.
 
 
-:mtgtip:`"Horny Bard"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.jpg?1624941387|https://scryfall.com/card/afr/165/horny-bard?utm_source=api>`
-   At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.
+:mtgtip:`Orb of Dragonkind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a1c2cdd-353c-4747-bf0e-b995dd37ffca.jpg?1624996743|https://scryfall.com/card/afr/157/orb-of-dragonkind?utm_source=api>`
+   |mana_1|, |tap|: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells or to activate abilities of Dragons.
+
+   |mana_r|, |tap|, Sacrifice Orb of Dragonkind: Look at the top seven cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Plundering Barbarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1624990993|https://scryfall.com/card/afr/158/plundering-barbarian?utm_source=api>`
+   When Plundering Barbarian enters the battlefield, choose one —
+
+   • Smash the Chest — Destroy target artifact.
+
+   • Pry It Open — Creature a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+
+
+:mtgtip:`"Tiger-tribe Hunter"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e0c229-aa31-4c79-bafe-28a8d8e64c61.jpg?1625008740|https://scryfall.com/card/afr/163/tiger-tribe-hunter?utm_source=api>`
+   Trample
+
+   Pack tactics — Whenever "Tiger-tribe Hunter" attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice a creature. If you do, "Tiger-tribe Hunter" deals damage to target creature equal to the sacrificed creature's power.
+
+
+:mtgtip:`"Horny Bard"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.jpg?1624992091|https://scryfall.com/card/afr/165/horny-bard?utm_source=api>`
+   Bardic Inspiration — At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.
+
+
+:mtgtip:`Wish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ed021d2-e2bc-44b3-8934-4bd02e0a42ec.jpg?1625001648|https://scryfall.com/card/afr/166/wish?utm_source=api>`
+   You may play a card you own from outside the game this turn.
+
+
+:mtgtip:`You See a Pair of Goblins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b69e7200-96ea-4455-83cc-0a497d56efe5.jpg?1625004259|https://scryfall.com/card/afr/170/you-see-a-pair-of-goblins?utm_source=api>`
+   Choose one —
+
+   • Charge Them — Creatures you control get +2/+0 until end of turn.
+
+   • Befriend Them — Create two 1/1 red Goblin creature tokens.
+
+
+:mtgtip:`Zariel, Archduke of Avernus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7be5b866-d479-4698-98b2-87a973f6b8f6.jpg?1625024615|https://scryfall.com/card/afr/172/zariel-archduke-of-avernus?utm_source=api>`
+   +1: Creatures you control get +1/+0 and gain haste until end of turn.
+
+   0: Create a 1/1 red Devil creature token with "When this creature dies, it deals 1 damage to any target."
+
+   −6: You get an emblem with "At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase."
+
+
+:mtgtip:`Bull's Strength<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/092cab70-c771-4c96-a5ce-22f2e32e3ea8.jpg?1624994345|https://scryfall.com/card/afr/174/bulls-strength?utm_source=api>`
+   Target creature gets +2/+2 and gains trample until end of turn. Untap it.
+
+
+:mtgtip:`Choose Your Weapon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/213726e4-e2f5-4e52-b05a-21c4bab9927c.jpg?1624995816|https://scryfall.com/card/afr/175/choose-your-weapon?utm_source=api>`
+   Choose one —
+
+   • Two-Weapon Fighting — Double target creature's power and toughness until end of turn.
+
+   • Archery — This spell deals 5 damage to target creature with flying.
+
+
+:mtgtip:`Circle of Dreams Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.jpg?1624989444|https://scryfall.com/card/afr/176/circle-of-dreams-druid?utm_source=api>`
+   |tap|: Add |mana_g| for each creature you control.
 
 
 :mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`
@@ -93,10 +333,38 @@
    −7: You get an emblem with "Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed."
 
 
-:mtgtip:`"Owlbear"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1624963767|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
+:mtgtip:`Green Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45804134-cc04-4587-9674-2c884964083d.jpg?1624998040|https://scryfall.com/card/afr/186/green-dragon?utm_source=api>`
+   Flying
+
+   Poison Breath — When Green Dragon enters the battlefield, until end of turn, whenever a creature an opponent controls is dealt damage, destroy it.
+
+
+:mtgtip:`Inspiring Bard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b33db66-d205-4164-b168-6084df562ebb.jpg?1624999943|https://scryfall.com/card/afr/189/inspiring-bard?utm_source=api>`
+   When Inspiring Bard enters the battlefield, choose one —
+
+   • Bardic Inspiration — Target creature gets +2/+2 until end of turn.
+
+   • Song of Rest — You gain 3 life.
+
+
+:mtgtip:`Intrepid Outlander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b00777-d921-4264-9faf-5c048b656210.jpg?1625003238|https://scryfall.com/card/afr/191/intrepid-outlander?utm_source=api>`
+   Reach
+
+   Pack tactics — Whenever Intrepid Outlander attacks, if you attacked with creatures with total power 6 or greater this combat, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`Ochre Jelly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f23cfb7-c6b6-4f04-abba-5b2a6117ea12.jpg?1625000900|https://scryfall.com/card/afr/196/ochre-jelly?utm_source=api>`
    Trample
 
-   Keen Senses — When "Owlbear" enters the battlefield, draw a card.
+   Ochre Jelly enters the battlefield with X +1/+1 counters on it.
+
+   Split — When Ochre Jelly dies, if it had two more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. That token enters the battlefield with half that many +1/+1 counters on it, rounded down.
+
+
+:mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625006806|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
+   Trample
+
+   Keen senses — When Owlbear enters the battlefield, draw a card.
 
 
 :mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`
@@ -117,6 +385,16 @@
    Whenever "Tarrasque" attacks, it fights target creature defending player controls.
 
 
+:mtgtip:`Werewolf Pack Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1624997178|https://scryfall.com/card/afr/211/werewolf-pack-leader?utm_source=api>`
+   Pack tactics — Whenever Werewolf Pack Leader attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.
+
+   |mana_3|\ |mana_g|: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human.
+
+
+:mtgtip:`Adult Gold Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67a76010-d932-4727-8b5e-b8e2d14e1362.jpg?1624997941|https://scryfall.com/card/afr/216/adult-gold-dragon?utm_source=api>`
+   Flying, lifelink, haste
+
+
 :mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1624735009|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`
    Each creature you control gets +2/+0 for each Equipment attached to it.
 
@@ -131,6 +409,18 @@
    Whenever a creature dies, if it had power greater than Drizzt's power, put a number of +1/+1 counters on Drizzt equal to the difference.
 
 
+:mtgtip:`"Krydle of Baldur's Gate"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1625025311|https://scryfall.com/card/afr/226/krydle-of-baldurs-gate?utm_source=api>`
+   Whenever "Krydle of Baldur's Gate" deals combat damage to a player, that player loses 1 life and mills a card. You gain 1 life and scry 1.
+
+   Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn.
+
+
+:mtgtip:`"Targ Nar, Large Beast, Chaotic Evil"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fe57856-9d35-470e-9138-360b02ac0c90.jpg?1625025021|https://scryfall.com/card/afr/234/targ-nar-large-beast-chaotic-evil?utm_source=api>`
+   Pack tactics — Whenever "Targ Nar, Large Beast, Chaotic Evil" attacks, if you attacked with creatures with total power 6 or greater this combat, attacking creatures you control get +1/+0 until end of turn.
+
+   |mana_2|\ |mana_r|\ |mana_g|: Double Targ Nar's power and toughness until end of turn.
+
+
 :mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1624735061|https://scryfall.com/card/afr/235/tiamat?utm_source=api>`
    Flying
 
@@ -139,6 +429,36 @@
 
 :mtgtip:`Trelasarra Moon Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.jpg?1624941354|https://scryfall.com/card/afr/236/trelasarra-moon-dancer?utm_source=api>`
    Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and scry 1.
+
+
+:mtgtip:`Fifty Feet of Rope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba7ebe7b-732f-4245-a194-e087c3878f61.jpg?1624996265|https://scryfall.com/card/afr/244/fifty-feet-of-rope?utm_source=api>`
+   Climb Over — |tap|: Target Wall can't block this turn.
+
+   Tie Up — |mana_3|, |tap|: Target creature doesn't untap during its controller's next untap step.
+
+   Rappel Down — |mana_4|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9da96aab-cf84-4150-b9d0-a4b84fcf585f.jpg?1624988576|https://scryfall.com/card/afr/249/mimic?utm_source=api>`
+   |tap|, Sacrifice Mimic: Add one mana of any color.
+
+   |mana_2|: Mimic becomes a Shapeshifter artifact creature with base power and toughness 3/3 until end of turn.
+
+
+:mtgtip:`Cave of the Frost Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb41396-5008-4a5f-92ca-54ecac42e926.jpg?1624988335|https://scryfall.com/card/afr/253/cave-of-the-frost-dragon?utm_source=api>`
+   If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped.
+
+   |tap|: Add |mana_w|.
+
+   |mana_4|\ |mana_w|: Cave of the Frost Dragon becomes a 3/4 white Dragon creature with flying until end of turn. It's still a land.
+
+
+:mtgtip:`Den of the Bugbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f231caf8-56c0-4719-a90d-5e5efbee3148.jpg?1624987929|https://scryfall.com/card/afr/254/den-of-the-bugbear?utm_source=api>`
+   If you control two or more other lands, Den of the Bugbear enters the battlefield tapped.
+
+   |tap|: Add |mana_r|.
+
+   |mana_3|\ |mana_r|: Until end of turn, Den of the Bugbear becomes a 3/2 red Goblin creature with "Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking." It's still a land.
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1624734003|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`
@@ -183,4 +503,16 @@
 
 :mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85d4caf8-06cf-4320-a744-988a551d23e5.jpg?1624964325|https://scryfall.com/card/afr/391/xanathar-guild-kingpin?utm_source=api>`
    At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look atthe top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.
+
+
+:mtgtip:`Treasure Chest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41ae20c0-b056-4c4f-a6d0-bbd72c37d0fc.jpg?1624989342|https://scryfall.com/card/afr/397/treasure-chest?utm_source=api>`
+   |mana_4|, Sacrifice Treasure Chest: Roll a d20.
+
+   1 | Trapped! — You lose 3 life.
+
+   2-9 | Create five Treasure tokens.
+
+   10-19 | You gain 3 life and draw three cards.
+
+   20 | Search your library for a card. If it's an artifact card you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.
 
