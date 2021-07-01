@@ -129,7 +129,7 @@
 
 .. |ALL_percent| image:: images/pie20.png        
 
-.. |AFR_percent| image:: images/pie65.png        
+.. |AFR_percent| image:: images/pie30.png        
 
 .. |GK2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
