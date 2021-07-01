@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-01 20:43+0200\n"
-"PO-Revision-Date: 2021-07-01 20:07+0000\n"
+"PO-Revision-Date: 2021-07-01 21:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -86,15 +86,15 @@ msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:27
 msgid "Cure Wounds — You gain 2 life."
-msgstr ""
+msgstr "Leczenie ran — Zyskaj 2 życia."
 
 #: ../../AFR.rst:29
 msgid "Dispel Magic — Destroy target enchantment."
-msgstr ""
+msgstr "Rozproszenie magii — Zniszcz wskazany urok."
 
 #: ../../AFR.rst:31
 msgid "Gentle Repose — Exile target card from a graveyard."
-msgstr ""
+msgstr "Spokojny spoczynek — Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../AFR.rst:36
 msgid ""
@@ -165,6 +165,7 @@ msgstr "Czujność"
 #: ../../AFR.rst:55
 msgid "Stunning Strike — |mana_1|\\ |mana_w|, |tap|: Tap target creature."
 msgstr ""
+"Ogłuszający cios — |mana_1|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../AFR.rst:62
 msgid ""
@@ -204,6 +205,7 @@ msgstr ""
 #: ../../AFR.rst:67
 msgid "Your opponents can't venture into the dungeon more than once each turn."
 msgstr ""
+"Twoi przeciwnicy nie mogą zapuszczać się do lochu więcej niż raz na turę."
 
 #: ../../AFR.rst:72
 msgid ""
@@ -218,6 +220,9 @@ msgid ""
 "may search your library for an enchantment card, reveal it, then shuffle and "
 "put that card on top."
 msgstr ""
+"Boska interwencja — Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w "
+"twojej bibliotece kartę uroku, ujawnij ją, po czym przetasuj i umieść ową "
+"kartę na wierzchu."
 
 #: ../../AFR.rst:80
 msgid ""
@@ -232,11 +237,13 @@ msgid ""
 "Whenever Nadaar, Selfless Paladin enters the battlefield or attacks, venture "
 "into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zapuść się do lochu. ("
+"Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:79
 msgid ""
 "Other creatures you control get +1/+1 as long as you've completed a dungeon."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1 o ile ukończyłeś loch."
 
 #: ../../AFR.rst:84
 msgid ""
@@ -251,6 +258,10 @@ msgid ""
 "card with mana value equal to one plus the sacrificed artifact's mana value. "
 "Put that card onto the battlefield, then shuffle. Activate only as a sorcery."
 msgstr ""
+"|mana_w|, |tap|, poświęć artefakt: Wyszukaj w twojej bibliotece kartę "
+"artefaktu o skrócie many równym jeden plus skrót many poświęconego "
+"artefaktu. Umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../AFR.rst:88
 msgid ""
@@ -287,6 +298,9 @@ msgid ""
 "dungeon. Activate only as a sorcery. (Enter the first room or advance to the "
 "next room.)"
 msgstr ""
+"|mana_3|, |tap|, przekręć innego odkręconego stwora pod twoim władaniem: "
+"Zapuść się do lochu. Aktywuj tylko jako obrzęd. (Wejdź do pierwszej sali lub "
+"przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:102
 msgid ""
@@ -305,10 +319,13 @@ msgstr "Wybierz jedną —"
 #: ../../AFR.rst:99
 msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Zachęć drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../AFR.rst:101
 msgid "Set Off Traps — This spell deals 5 damage to target attacking creature."
 msgstr ""
+"Aktywacja pułapek — Ten czar zadaje wskazanemu atakującemu stworowi 5 "
+"obrażeń."
 
 #: ../../AFR.rst:110
 msgid ""
@@ -322,6 +339,8 @@ msgstr ""
 msgid ""
 "Make a Retreat — Return target creature you control to its owner's hand."
 msgstr ""
+"Nogi za pas — Przywróć wskazanego stwora pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../AFR.rst:109
 msgid "Stand and Fight — Target creature gets +1/+3 until end of turn."
@@ -339,6 +358,8 @@ msgid ""
 "Whirlwind — When Air-Cult Elemental enters the battlefield, return up to one "
 "other target creature to its owner's hand."
 msgstr ""
+"Trąba powietrzna — Kiedy ten stwór wejdzie na pole bitwy, przywróć co "
+"najwyżej jednego innego wskazanego stwora do ręki właściciela."
 
 #: ../../AFR.rst:120
 msgid ""
@@ -352,6 +373,8 @@ msgid ""
 "Counter target creature or planeswalker spell. Venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
+"Skontruj wskazany czar stwora lub wędrowca. Zapuść się do lochu. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:126
 msgid ""
@@ -365,7 +388,7 @@ msgstr ""
 msgid ""
 "You many choose not to untap The Blackstaff of Waterdeep during your untap "
 "step."
-msgstr ""
+msgstr "Możesz nie odkręcać tego artefaktu podczas twojego kroku odkręcania."
 
 #: ../../AFR.rst:125
 msgid ""
@@ -405,6 +428,8 @@ msgid ""
 "Mage Hand — |tap|: Untap target permanent not named Clever Conjurer. "
 "Activate only as a sorcery."
 msgstr ""
+"Ręka maga — |tap|: Odkręć wskazany permanent nie mający nazwy Clever "
+"Conjurer. Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:144
 msgid ""
@@ -418,12 +443,16 @@ msgid ""
 "When Displacer Beast enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:143
 msgid ""
 "Displacement — |mana_3|\\ |mana_u|: Return Displacer Beast to its owner's "
 "hand."
 msgstr ""
+"Przeniesienie — |mana_3|\\ |mana_u|: Przywróć tego stwora do ręki "
+"właściciela."
 
 #: ../../AFR.rst:150
 msgid ""
@@ -460,6 +489,9 @@ msgid ""
 "damage to a player, venture into the dungeon.\" (Enter the first room or "
 "advance to the next room.)"
 msgstr ""
+"Zauroczony stwór ma latanie oraz \"Ilekroć ten stwór zada graczowi obrażenia "
+"bojowe, zapuść się do lochu.\" (Wejdź do pierwszej sali lub przejdź do "
+"kolejnej sali.)"
 
 #: ../../AFR.rst:162
 msgid ""
@@ -482,6 +514,8 @@ msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
 "draw a card."
 msgstr ""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, dobierz kartę."
 
 #: ../../AFR.rst:168
 msgid ""
@@ -495,11 +529,15 @@ msgid ""
 "Whenever Guild Thief deals combat damage to a player, put a +1/+1 counter on "
 "it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../AFR.rst:167
 msgid ""
 "Cunning Action — |mana_3|\\ |mana_u|: Guild Thief can't be blocked this turn."
 msgstr ""
+"Przebiegła akcja — |mana_3|\\ |mana_u|: Ten stwór nie może być blokowany w "
+"tej turze."
 
 #: ../../AFR.rst:172
 msgid ""
@@ -514,6 +552,8 @@ msgid ""
 "Until end of turn, target creature becomes a Dragon with base power and "
 "toughness 4/4 and gains flying. (It loses all other creature types.)"
 msgstr ""
+"Do końca tury wskazany stwór staje się Smokiem o bazowej sile i "
+"wytrzymałości 4/4 i zyskuje latanie. (Traci wszystkie inne typy stwora.)"
 
 #: ../../AFR.rst:184
 msgid ""
@@ -546,6 +586,8 @@ msgid ""
 "Whenever Shortcut Seeker deals combat damage to a player, venture into the "
 "dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu. ("
+"Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:192
 msgid ""
@@ -560,6 +602,8 @@ msgid ""
 "Each opponent exiles cards from the top of their library until that player "
 "has exiled cards with total mana value 20 or more."
 msgstr ""
+"Każdy przeciwnik wygania karty z wierzchu swojej biblioteki aż wygna karty o "
+"łącznym skrócie many 20 lub więcej."
 
 #: ../../AFR.rst:200
 msgid ""
@@ -572,12 +616,16 @@ msgstr ""
 msgid ""
 "Fight the Current — Return target nonland permanent top its owner's hand."
 msgstr ""
+"Walcz z prądem — Przywróć wskazany nielądowy permanent na wierzch biblioteki "
+"właściciela."
 
 #: ../../AFR.rst:199
 msgid ""
 "Find a Crossing — Target creature gets +1/+0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
+"Znajdź rozdroże — Wskazany stwór dostaje do końca tury +1/+0 i nie może być "
+"blokowany w tej turze."
 
 #: ../../AFR.rst:208
 msgid ""
@@ -589,11 +637,11 @@ msgstr ""
 
 #: ../../AFR.rst:205
 msgid "Foil Their Scheme — Counter target spell."
-msgstr ""
+msgstr "Zniwecz ich plany — Skontruj wskazany czar."
 
 #: ../../AFR.rst:207
 msgid "Learn Their Secrets — Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Poznaj ich sekrety — Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../AFR.rst:216
 msgid ""
@@ -605,13 +653,16 @@ msgstr ""
 
 #: ../../AFR.rst:213
 msgid "Distract the Guard — Tap target creature."
-msgstr ""
+msgstr "Odwróć uwagę straży — Przekręć wskazanego stwora."
 
 #: ../../AFR.rst:215
 msgid ""
 "Hide — Target creature you control gains hexproof until end of turn. (It "
 "can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Kryj się — Wskazany stwór pod twoim władaniem zyskuje do końca tury "
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../AFR.rst:222
 msgid ""
@@ -622,13 +673,15 @@ msgstr ""
 
 #: ../../AFR.rst:219
 msgid "Yuan-Ti Malison can't be blocked as long as it's attacking alone."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany o ile atakuje samotnie."
 
 #: ../../AFR.rst:221
 msgid ""
 "Whenever Yuan-Ti Malison deals combat damage to a player, venture into the "
 "dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu. ("
+"Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:230
 msgid ""
@@ -639,17 +692,20 @@ msgstr ""
 
 #: ../../AFR.rst:225
 msgid "When Baleful Beholder enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:227
 msgid "Antimagic Cone — Each opponent sacrifices an enchantment."
-msgstr ""
+msgstr "Stożek antymagii — Każdy przeciwnik poświęca urok."
 
 #: ../../AFR.rst:229
 msgid ""
 "Fear Ray — Creatures you control gain menace until end of turn. (A creature "
 "with menance can't be blocked except by two or more creatures.)"
 msgstr ""
+"Promień strachu — Stwory pod twoim władaniem zyskują do końca tury "
+"złowrogość. (Stwór ze złowrogością nie może być blokowany, chyba że przez co "
+"najmniej dwa stwory.)"
 
 #: ../../AFR.rst:236
 msgid ""
@@ -663,6 +719,8 @@ msgid ""
 "Acid Breath — When Black Dragon enters the battlefield, target creature an "
 "oppon ent controls gets -3/-3 until end of turn."
 msgstr ""
+"Kwasowy oddech — Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod "
+"władaniem przeciwnika dostaje do końca tury -3/-3."
 
 #: ../../AFR.rst:242
 msgid ""
