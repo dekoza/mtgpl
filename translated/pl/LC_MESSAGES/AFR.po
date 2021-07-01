@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-30 14:27+0200\n"
-"PO-Revision-Date: 2021-06-27 20:57+0000\n"
+"PO-Revision-Date: 2021-07-01 13:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -124,10 +124,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:43
-#, fuzzy
-#| msgid "Vigilance"
 msgid "Flying, vigilance"
-msgstr "Czujność"
+msgstr "Latanie, czujność"
 
 #: ../../AFR.rst:45
 msgid ""
@@ -235,7 +233,7 @@ msgstr ""
 #: ../../AFR.rst:75 ../../AFR.rst:123 ../../AFR.rst:131 ../../AFR.rst:139
 #: ../../AFR.rst:297 ../../AFR.rst:317
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedną —"
 
 #: ../../AFR.rst:77
 msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
@@ -275,15 +273,15 @@ msgstr ""
 
 #: ../../AFR.rst:89
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../AFR.rst:91
 msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../AFR.rst:93
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../AFR.rst:100
 msgid ""
@@ -294,7 +292,7 @@ msgstr ""
 
 #: ../../AFR.rst:97 ../../AFR.rst:177 ../../AFR.rst:203 ../../AFR.rst:241
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../AFR.rst:99
 msgid ""
@@ -312,16 +310,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:103
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control dies, put a loyalty counter on Lolth, "
-#| "Spider Queen."
 msgid ""
 "Whenever a creature you control becomes blocked, you may return it to its "
 "owner's hand."
 msgstr ""
-"Ilekroć umrze stwór pod twoim władaniem, umieść znacznik lojalności na tym "
-"wędrowcu."
+"Ilekroć stwór pod twoim władaniem zostaje zablokowany, możesz go przywrócić "
+"do ręki właściciela."
 
 #: ../../AFR.rst:105
 msgid ""
@@ -712,10 +706,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:245
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0 and has deathtouch."
 msgid "Equipped creature gets +2/+0."
-msgstr "Wyposażony stwór dostaje +2/+0 i ma dotyk śmierci."
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../AFR.rst:247
 msgid ""
@@ -1324,10 +1316,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:451
-#, fuzzy
-#| msgid "(|tap|: Add |mana_w|.)"
 msgid "|tap|: Add |mana_w|."
-msgstr "(|tap|: Weź |mana_w|.)"
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../AFR.rst:453
 msgid ""
@@ -1349,10 +1339,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:459
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "|tap|: Add |mana_r|."
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../AFR.rst:461
 msgid ""
@@ -1391,10 +1379,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:471
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|.)"
 msgid "|tap|: Add |mana_u|."
-msgstr "(|tap|: Weź |mana_u|.)"
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../AFR.rst:473
 msgid ""
@@ -1416,10 +1402,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:479
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|.)"
 msgid "|tap|: Add |mana_b|."
-msgstr "(|tap|: Weź |mana_b|.)"
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../AFR.rst:481
 msgid ""
@@ -1522,13 +1506,10 @@ msgid "10-19 | You gain 3 life and draw three cards."
 msgstr ""
 
 #: ../../AFR.rst:517
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle."
 msgid ""
 "20 | Search your library for a card. If it's an artifact card you may put it "
 "onto the battlefield. Otherwise, put that card into your hand. Then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"20 | Wyszukaj kartę w twojej bibliotece. Jeśli to karta artefaktu, możesz "
+"umieścić ją na polu bitwy. W przeciwnym razie umieść ją w twojej ręce. "
+"Następnie przetasuj."
