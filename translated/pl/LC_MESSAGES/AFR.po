@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-01 20:43+0200\n"
-"PO-Revision-Date: 2021-07-01 21:54+0000\n"
+"PO-Revision-Date: 2021-07-02 23:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -186,6 +186,10 @@ msgid ""
 "+0\", \"Whenever equipped creature attacks, tap target creature defending "
 "player controls,\" and equip |mana_2|."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz Icingdeath, Frost Tongue, legendarny żeton "
+"białego artefaktu typu Wyposażenie mający \"Wyposażony stwór dostaje +2/+0\""
+", \"Ilekroć wyposażony stwór zaatakuje, przekręć wskazanego stwora pod "
+"władaniem broniącego się gracza\" oraz \"wyposaż |mana_2|\"."
 
 #: ../../AFR.rst:68
 msgid ""
@@ -318,14 +322,12 @@ msgstr "Wybierz jedną —"
 
 #: ../../AFR.rst:99
 msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
-msgstr ""
-"Zachęć drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "Obudź drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../AFR.rst:101
 msgid "Set Off Traps — This spell deals 5 damage to target attacking creature."
 msgstr ""
-"Aktywacja pułapek — Ten czar zadaje wskazanemu atakującemu stworowi 5 "
-"obrażeń."
+"Uruchom pułapki — Ten czar zadaje wskazanemu atakującemu stworowi 5 obrażeń."
 
 #: ../../AFR.rst:110
 msgid ""
@@ -396,6 +398,9 @@ msgid ""
 "you control becomes a 4/4 artifact creature for as long as The Blackstaff of "
 "Waterdeep remains tapped. Activate only as a sorcery."
 msgstr ""
+"Ożywienie posągu — |mana_1|\\ |mana_u|, |tap|: Inny wskazany artefakt pod "
+"twoim władaniem staje się artefaktowym stworem 4/4 na czas pozostawania "
+"niniejszego artefaktu w stanie przekręconym. Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:134
 msgid ""
@@ -624,7 +629,7 @@ msgid ""
 "Find a Crossing — Target creature gets +1/+0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
-"Znajdź rozdroże — Wskazany stwór dostaje do końca tury +1/+0 i nie może być "
+"Znajdź bród — Wskazany stwór dostaje do końca tury +1/+0 i nie może być "
 "blokowany w tej turze."
 
 #: ../../AFR.rst:208
@@ -653,7 +658,7 @@ msgstr ""
 
 #: ../../AFR.rst:213
 msgid "Distract the Guard — Tap target creature."
-msgstr "Odwróć uwagę straży — Przekręć wskazanego stwora."
+msgstr "Odwróć uwagę — Przekręć wskazanego stwora."
 
 #: ../../AFR.rst:215
 msgid ""
@@ -735,6 +740,8 @@ msgid ""
 "At the beginning of your end step, if you lost 2 or more life this turn, "
 "create a 2/2 black Zombie creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli straicłeś co najmniej 2 życia w "
+"tej turze, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../AFR.rst:241
 msgid ""
@@ -743,6 +750,10 @@ msgid ""
 "creature token with indestructible. It gains all triggered abilities of the "
 "exiled cards."
 msgstr ""
+"|tap|, wygnaj ten artefakt oraz władane przez ciebie artefakty o nazwach Eye "
+"of Vecna oraz Hand of Vecna: Stwórz legendarny żeton czarnego stwora Bóg "
+"Zombi 8/8 z niezniszczalnością. Zyskuje on wszystkie wyzwalane zdolności "
+"owych wygnanych kart."
 
 #: ../../AFR.rst:246
 msgid ""
@@ -757,6 +768,9 @@ msgid ""
 "this spell, instead that player reveals their hand, you choose a nonland "
 "card from it, then that player discards a card."
 msgstr ""
+"Wskazany przeciwnik odrzuca kartę. Jeśli do rzucenia tego czaru wydano manę "
+"ze Skarbu, zamiast tego ów gracz ujawnia swoją rękę, ty wybierasz z niej "
+"nielądową kartę, po czym ów gracz odrzuca ową kartę."
 
 #: ../../AFR.rst:252
 msgid ""
@@ -786,13 +800,15 @@ msgstr ""
 
 #: ../../AFR.rst:255
 msgid "Dungeon Crawler enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../AFR.rst:257
 msgid ""
 "Whenever you complete a dungeon, you may return Dungeon Crawler from your "
 "graveyard to your hand."
 msgstr ""
+"Ilekroć ukończysz loch, możesz przywrócić tę kartę z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../AFR.rst:268
 msgid ""
@@ -803,13 +819,15 @@ msgstr ""
 
 #: ../../AFR.rst:265
 msgid "Ebondeath, Dracolich enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../AFR.rst:267
 msgid ""
 "You may cast Ebondeath, Dracolich from your graveyard if a creature not "
 "named Ebondeath, Dracolich died this turn."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza jeśli w tej turze umarł stwór bez "
+"niniejszej nazwy."
 
 #: ../../AFR.rst:272
 msgid ""
@@ -823,6 +841,9 @@ msgid ""
 "Return up to one target creature card from your graveyard to your hand. "
 "Venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Przywróć co najwyżej jedną wskazaną kartę z twojego cmentarza do twojej "
+"ręki. Zapuść się do lochu. (Wejdź do pierwszej sali lub przejdź do kolejnej "
+"sali.)"
 
 #: ../../AFR.rst:276
 msgid ""
@@ -837,6 +858,8 @@ msgid ""
 "it to the battlefield tapped under it owner's control with a +1/+1 counter "
 "on it.\""
 msgstr ""
+"Do końca tury wskazany stwór zyskuje \"Kiedy ten stwór umrze, przywróć go na "
+"pole bitwy pod władaniem właściciela z dodatkowym znacznikiem +1/+1.\""
 
 #: ../../AFR.rst:282
 msgid ""
@@ -859,6 +882,8 @@ msgid ""
 "Dissolve — |mana_x|\\ |mana_b|: Put target creature card with mana value X "
 "exiled with Gelatinous Cube into its owner's graveyard."
 msgstr ""
+"Rozpuszczenie — |mana_x|\\ |mana_b|: Umieść wskazaną kartę stwora o skrócie "
+"many X wygnaną niniejszym stworem w cmentarzu właściciela."
 
 #: ../../AFR.rst:288
 msgid ""
@@ -869,7 +894,7 @@ msgstr ""
 
 #: ../../AFR.rst:287
 msgid "Tragic Backstory — Cast this spell only if a creature died this turn."
-msgstr ""
+msgstr "Tragiczna historia — Rzuć ten czar tylko jeśli w tej turze umarł stwór."
 
 #: ../../AFR.rst:298
 msgid ""
@@ -917,6 +942,8 @@ msgid ""
 "Tail Spikes — When Manticore enters the battlefield, destroy target creature "
 "an opponent controls that was dealt damage this turn."
 msgstr ""
+"Kolczasty ogon — Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego "
+"stwora pod władaniem przeciwnika, który otrzymał obrażenia w tej turze."
 
 #: ../../AFR.rst:310
 msgid ""
@@ -939,7 +966,7 @@ msgstr ""
 
 #: ../../AFR.rst:313
 msgid "When Shambling Ghast dies, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedną —"
 
 #: ../../AFR.rst:315
 msgid ""
@@ -976,7 +1003,7 @@ msgstr ""
 #: ../../AFR.rst:323
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć innego stwora lub Skarb: Dobierz kartę."
 
 #: ../../AFR.rst:330
 msgid ""
@@ -988,7 +1015,7 @@ msgstr ""
 #: ../../AFR.rst:327
 msgid ""
 "Sphere of Annihilation enters the battlefield with X void counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników pustki."
 
 #: ../../AFR.rst:329
 msgid ""
@@ -997,6 +1024,10 @@ msgid ""
 "counters on it, and all creature and planeswalker cards in all graveyards "
 "with mana value less than or equal to the number of void counters on it."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj ten artefakt, wszystkie stwory "
+"i wędrowców o skrócie many mniejszym lub równym liczbie znaczników pustki na "
+"nim oraz wszystkie karty stworów i wędrowców o skrótach many mniejszych lub "
+"równych liczbie znaczników pustki na nim ze wszystkich cmentarzy."
 
 #: ../../AFR.rst:338
 msgid ""
@@ -1032,13 +1063,15 @@ msgstr ""
 
 #: ../../AFR.rst:341
 msgid "Wight enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../AFR.rst:343
 msgid ""
 "Life Drain — Whenever a creature dealt damage by Wight this turn dies, "
 "create a tapped 2/2 black Zombie creature token and exile that card."
 msgstr ""
+"Wyssanie życia — Ilekroć stwór uszkodzony przez niniejszego umrze w tej "
+"turze, stwórz przekręcony żeton czarnego stwora Zombi 2/2 i wygnaj ową kartę."
 
 #: ../../AFR.rst:350
 msgid ""
@@ -1056,6 +1089,8 @@ msgid ""
 "Whenever Yuan-Ti Fang-Blade deals combat damage to a player, venture into "
 "the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu. ("
+"Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:354
 msgid ""
@@ -1069,6 +1104,8 @@ msgid ""
 "At the beginning of your end step, if a creature died this turn, venture "
 "into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, zapuść "
+"się do lochu. (Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:360
 msgid ""
@@ -1082,6 +1119,8 @@ msgid ""
 "|mana_1|\\ |mana_r|: Goblins you control get +1/+0 and gain haste until end "
 "of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|: Gobliny pod twoim władaniem dostają do końca tury +1/+0 "
+"i pośpiech."
 
 #: ../../AFR.rst:359
 msgid ""
