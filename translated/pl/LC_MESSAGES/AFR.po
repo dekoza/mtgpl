@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 13:28+0200\n"
-"PO-Revision-Date: 2021-07-02 23:21+0000\n"
+"PO-Revision-Date: 2021-07-03 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -70,23 +70,19 @@ msgid "If you would gain life, you gain that much plus 1 life instead."
 msgstr ""
 
 #: ../../AFR.rst:23
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_3|\\ |mana_w|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_3|\\ |mana_w|: Poziom 2"
 
 #: ../../AFR.rst:25
-#, fuzzy
-#| msgid "Whenever you gain life, put a +1/+1 counter on Celestial Unicorn."
 msgid ""
 "Whenever you gain life, put a +1/+1 counter on target creature you control."
-msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
+msgstr ""
+"Ilekroć zyskasz życia, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../AFR.rst:27 ../../AFR.rst:151
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_4|\\ |mana_w|: Level 3"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_4|\\ |mana_w|: Poziom 3"
 
 #: ../../AFR.rst:29
 msgid ""
@@ -123,10 +119,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:39
-#, fuzzy
-#| msgid "Equipped creature gets +2/+2."
 msgid "Equipped creature gets +2/+1."
-msgstr "Wyposażony stwór dostaje +2/+2."
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../AFR.rst:41
 msgid ""
@@ -136,10 +130,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:43
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "Equip |mana_1|"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "Wyposaż |mana_1|"
 
 #: ../../AFR.rst:54
 msgid ""
@@ -172,22 +164,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:57
-#, fuzzy
-#| msgid "Equipped creature gets +2/+2."
 msgid "Equipped creature gets +1/+1."
-msgstr "Wyposażony stwór dostaje +2/+2."
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../AFR.rst:59
-#, fuzzy
-#| msgid ""
-#| "When Displacer Beast enters the battlefield, venture into the dungeon. "
-#| "(Enter the first room or advance to the next room.)"
 msgid ""
 "Whenever equipped creature attacks, venture into the dungeon. (Enter the "
 "first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
-"pierwszej sali lub przejdź do kolejnej sali.)"
+"Ilekroć wyposażony stwór atakuje, zapuść się do lochu. (Wejdź do pierwszej "
+"sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:66
 msgid ""
@@ -219,18 +205,14 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:71
-#, fuzzy
-#| msgid ""
-#| "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
-#| "ability an opponent controls, counter it unless that player pays |"
-#| "mana_2|.)"
 msgid ""
 "Dragons you control have ward |mana_1|. (Whenever a Dragon you control "
 "becomes the target of a spell or ability an opponent controls, counter it "
 "unless that player pays |mana_1|.)"
 msgstr ""
-"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
-"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"Smoki pod twoim władaniem mają opiekę |mana_1|. (Ilekroć Smok pod twoim "
+"władaniem zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_1|.)"
 
 #: ../../AFR.rst:76
 msgid ""
@@ -381,10 +363,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:121
-#, fuzzy
-#| msgid "Enchant land"
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz ląd"
+msgstr "Zaurocz nie-lądowy permanent"
 
 #: ../../AFR.rst:123
 msgid ""
@@ -461,17 +441,12 @@ msgid "Spells your opponents cast during your turn cost |mana_1| more to cast."
 msgstr ""
 
 #: ../../AFR.rst:147
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_2|\\ |mana_w|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_2|\\ |mana_w|: Poziom 2"
 
 #: ../../AFR.rst:149
-#, fuzzy
-#| msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
 msgid "Creatures you control get +1/+1."
-msgstr ""
-"Obudź drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../AFR.rst:153
 msgid ""
@@ -487,18 +462,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:159
-#, fuzzy
-#| msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
 msgid ""
 "When Paladin's Shield enters the battlefield, attach it to target creature "
 "you control."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../AFR.rst:161
-#, fuzzy
-#| msgid "Equipped creature gets +2/+2."
 msgid "Equipped creature gets +0/+2."
-msgstr "Wyposażony stwór dostaje +2/+2."
+msgstr "Wyposażony stwór dostaje +0/+2."
 
 #: ../../AFR.rst:170
 msgid ""
@@ -515,17 +488,12 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../AFR.rst:169
-#, fuzzy
-#| msgid ""
-#| "Whenever Nadaar, Selfless Paladin enters the battlefield or attacks, "
-#| "venture into the dungeon. (Enter the first room or advance to the next "
-#| "room.)"
 msgid ""
 "Whenever Planar Ally attacks, venture into the dungeon. (Enter the first "
 "room or advance to the next room.)"
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zapuść się do lochu. "
-"(Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
+"Ilekroć ten stwór zaatakuje, zapuść się do lochu. (Wejdź do pierwszej sali "
+"lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:174
 msgid ""
@@ -583,10 +551,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:187
-#, fuzzy
-#| msgid ""
-#| "When Cloister Gargoyle enters the battlefield, venture into the dungeon. "
-#| "(Enter the first room or advance to the next room.)"
 msgid ""
 "When Veteran Dungeoneer enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
@@ -825,10 +789,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:269
-#, fuzzy
-#| msgid "When Dawnbringer Cleric enters the battlefield, choose one —"
 msgid "When Djinni Windseeker enters the battlefield, roll a d20."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:271
 msgid "1-9 | Scry 1."
@@ -867,10 +829,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:287
-#, fuzzy
-#| msgid ""
-#| "When Displacer Beast enters the battlefield, venture into the dungeon. "
-#| "(Enter the first room or advance to the next room.)"
 msgid ""
 "When Eccentric Apprentice enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
@@ -879,17 +837,14 @@ msgstr ""
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:289
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target creature becomes a Dragon with base power and "
-#| "toughness 4/4 and gains flying. (It loses all other creature types.)"
 msgid ""
 "At the beginning of combat on your turn, if you've completed a dungeon, up "
 "to one target creature becomes a Bird with base power and toughness 1/1 and "
 "flying until end of turn."
 msgstr ""
-"Do końca tury wskazany stwór staje się Smokiem o bazowej sile i "
-"wytrzymałości 4/4 i zyskuje latanie. (Traci wszystkie inne typy stwora.)"
+"Na początku potyczki w twojej turze, jeśli ukończyłeś loch, co najwyżej "
+"jeden wskazany stwór staje się do końca tury Ptakiem o bazowej sile i "
+"wytrzymałości 1/1 mającym latanie."
 
 #: ../../AFR.rst:294
 msgid ""
@@ -1021,14 +976,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:333
-#, fuzzy
-#| msgid ""
-#| "Brave the Stench — Target creature an opponent controls -1/-1 until end "
-#| "of turn."
 msgid "Choose target creature an opponent controls, then roll a d20."
-msgstr ""
-"Odważ się na smród — Wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1."
+msgstr "Wskaż stwora pod władaniem przeciwnika, po czym rzuć k20."
 
 #: ../../AFR.rst:335
 msgid "1-9 | Return it to its owner's hand."
@@ -1069,17 +1018,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:355
-#, fuzzy
-#| msgid ""
-#| "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
-#| "ability an opponent controls, counter it unless that player pays |"
-#| "mana_2|.)"
 msgid ""
 "Ward |mana_3| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_3|.)"
 msgstr ""
-"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
-"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"Opieka |mana_3| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_3|.)"
 
 #: ../../AFR.rst:366
 msgid ""
@@ -1089,30 +1033,24 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:361
-#, fuzzy
-#| msgid ""
-#| "Tail Spikes — When Manticore enters the battlefield, destroy target "
-#| "creature an opponent controls that was dealt damage this turn."
 msgid ""
 "Cone of Cold — When Scion of Stygia enters the battlefield, choose target "
 "creature an opponent controls, then roll a d20."
 msgstr ""
-"Kolczasty ogon — Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego "
-"stwora pod władaniem przeciwnika, który otrzymał obrażenia w tej turze."
+"Stożek zimna — Kiedy ten stwór wejdzie na pole bitwy, wskaż stwora pod "
+"władaniem przeciwnika, po czym rzuć k20."
 
 #: ../../AFR.rst:363
-#, fuzzy
-#| msgid "Enchant creature"
 msgid "1-9 | Tap that creature."
-msgstr "Zaurocz stwora"
+msgstr "1-9 | Przekręć owego stwora."
 
 #: ../../AFR.rst:365
-#, fuzzy
-#| msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgid ""
 "10-20 | Tap that creature. It doesn't untap during its controller's next "
 "untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr ""
+"10-20 | Przekręć owego stwora. Nie odkręci się on w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../AFR.rst:372
 msgid ""
@@ -1122,24 +1060,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:369
-#, fuzzy
-#| msgid "Defender, flying"
 msgid "Defender"
-msgstr "Obronność, latanie"
+msgstr "Obronność"
 
 #: ../../AFR.rst:371
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|, Tap another untapped creature you control: Venture into "
-#| "the dungeon. Activate only as a sorcery. (Enter the first room or advance "
-#| "to the next room.)"
 msgid ""
 "|mana_4|\\ |mana_u|: Venture into the dungeon. Activate only as a sorcery. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
-"|mana_3|, |tap|, przekręć innego odkręconego stwora pod twoim władaniem: "
-"Zapuść się do lochu. Aktywuj tylko jako obrzęd. (Wejdź do pierwszej sali lub "
-"przejdź do kolejnej sali.)"
+"|mana_4|\\ |mana_u|: Zapuść się do lochu. Aktywuj tylko jako obrzęd. (Wejdź "
+"do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:378
 msgid ""
@@ -1149,14 +1079,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:375
-#, fuzzy
-#| msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
 msgid "Target creature gets -2/-0 until end of turn."
-msgstr "Odpędź ich — Wskazany stwór dostaje do końca tury +3/+1."
+msgstr "Wskazany stwór dostaje do końca tury -2/-0."
 
 #: ../../AFR.rst:377
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../AFR.rst:382
 msgid ""
@@ -1181,15 +1109,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:385
-#, fuzzy
-#| msgid ""
-#| "Make a Retreat — Return target creature you control to its owner's hand."
 msgid ""
 "Choose target player. Return half the creatures they control to their "
 "owner's hand, rounded up."
 msgstr ""
-"Nogi za pas — Przywróć wskazanego stwora pod twoim władaniem do ręki "
-"właściciela."
+"Wskaż gracza. Przywróć połowę stworów pod jego władaniem do ręki "
+"właściciela, zaokrąglając wzwyż."
 
 #: ../../AFR.rst:390
 msgid ""
@@ -1231,10 +1156,8 @@ msgstr ""
 "kolejnej sali.)"
 
 #: ../../AFR.rst:395
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "Equip |mana_2|"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "Wyposaż |mana_2|"
 
 #: ../../AFR.rst:408
 msgid ""
@@ -1244,20 +1167,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:401
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_2|\\ |mana_u|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_2|\\ |mana_u|: Poziom 2"
 
 #: ../../AFR.rst:403
 msgid "When this Class becomes level 2, draw two cards."
 msgstr ""
 
 #: ../../AFR.rst:405
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_4|\\ |mana_u|: Level 3"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_4|\\ |mana_u|: Poziom 3"
 
 #: ../../AFR.rst:407
 #, fuzzy
@@ -1633,10 +1552,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:527
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_5|\\ |mana_b|: Roll a d20."
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_5|\\ |mana_b|: Rzuć k20."
 
 #: ../../AFR.rst:529
 msgid "1-9 | Each opponent loses 2 life."
@@ -1783,14 +1700,12 @@ msgstr ""
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:577
-#, fuzzy
-#| msgid ""
-#| "Other creatures you control get +1/+1 as long as you've completed a "
-#| "dungeon."
 msgid ""
 "Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've "
 "completed a dungeon."
-msgstr "Inne stwory pod twoim władaniem dostają +1/+1 o ile ukończyłeś loch."
+msgstr ""
+"Zauroczony stwór dostaje -2/-2. Zamiast tego dostaje on -5/-5 jeśli "
+"ukończyłeś loch."
 
 #: ../../AFR.rst:586
 msgid ""
@@ -1814,15 +1729,11 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:585
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
 #: ../../AFR.rst:590
@@ -1939,7 +1850,7 @@ msgstr ""
 
 #: ../../AFR.rst:617
 msgid "Equip |mana_b|\\ |mana_b|"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "Wyposaż |mana_b|\\ |mana_b|"
 
 #: ../../AFR.rst:632
 msgid ""
@@ -1949,22 +1860,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:623
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, if a creature died this turn, venture "
-#| "into the dungeon. (Enter the first room or advance to the next room.)"
 msgid ""
 "At the beginning of your end step, if a creature died this turn, each "
 "opponent loses 1 life."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, zapuść "
-"się do lochu. (Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, każdy "
+"przeciwnik traci po 1 życiu."
 
 #: ../../AFR.rst:625
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_1|\\ |mana_b|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_1|\\ |mana_b|: Poziom 2"
 
 #: ../../AFR.rst:627
 msgid ""
@@ -1973,22 +1878,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:629
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_6|\\ |mana_b|: Level 3"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_6|\\ |mana_b|: Poziom 3"
 
 #: ../../AFR.rst:631
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, if you lost 2 or more life this turn, "
-#| "create a 2/2 black Zombie creature token."
 msgid ""
 "At the beginning of your end step, each opponent loses life equal to the "
 "life they lost this turn. (Damage causes loss of life.)"
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli straicłeś co najmniej 2 życia w "
-"tej turze, stwórz żeton czarnego stwora Zombi 2/2."
+"Na początku twojego kroku końcowego, każdy przeciwnik traci życie równe "
+"życiu straconemu w tej turze. (Obrażenia powodują utratę żyć.)"
 
 #: ../../AFR.rst:640
 msgid ""
@@ -2091,10 +1990,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:663
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_1|\\ |mana_r|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_1|\\ |mana_r|: Poziom 2"
 
 #: ../../AFR.rst:665
 #, fuzzy
@@ -2106,14 +2003,12 @@ msgid ""
 msgstr "+1: Stwory pod twoim władaniem dostają do końca tury +1/+0 i pośpiech."
 
 #: ../../AFR.rst:667
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_2|\\ |mana_r|: Level 3"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_2|\\ |mana_r|: Poziom 3"
 
 #: ../../AFR.rst:669
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 #: ../../AFR.rst:676
 msgid ""
@@ -2183,10 +2078,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:693
-#, fuzzy
-#| msgid "Charge Them — Creatures you control get +2/+0 until end of turn."
 msgid "Target creature gains double strike until end of turn."
-msgstr "Szarża — Stwory pod twoim władaniem dostają do końca tury +2/+0."
+msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
 
 #: ../../AFR.rst:695
 msgid ""
@@ -2295,7 +2188,7 @@ msgstr ""
 
 #: ../../AFR.rst:735 ../../AFR.rst:767
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../AFR.rst:737
 msgid ""
@@ -2311,16 +2204,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:741
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0 and has deathtouch."
 msgid "Equipped creature gets +1/+0 and has trample."
-msgstr "Wyposażony stwór dostaje +2/+0 i ma dotyk śmierci."
+msgstr "Wyposażony stwór dostaje +1/+0 i ma tratowanie."
 
 #: ../../AFR.rst:743
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "Equip |mana_1|\\ |mana_r|"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "Wyposaż |mana_1|\\ |mana_r|"
 
 #: ../../AFR.rst:745
 #, fuzzy
@@ -2530,16 +2419,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:813
-#, fuzzy
-#| msgid ""
-#| "Acid Breath — When Black Dragon enters the battlefield, target creature "
-#| "an oppon ent controls gets -3/-3 until end of turn."
 msgid ""
 "Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to "
 "each opponent."
 msgstr ""
-"Kwasowy oddech — Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod "
-"władaniem przeciwnika dostaje do końca tury -3/-3."
+"Ognisty oddech — Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu "
+"przeciwnikowi po 4 obrażenia."
 
 #: ../../AFR.rst:824
 msgid ""
@@ -2549,10 +2434,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:817
-#, fuzzy
-#| msgid "When Dawnbringer Cleric enters the battlefield, choose one —"
 msgid "When Swarming Goblins enters the battlefield, roll a d20."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:821
 msgid "10-19 | Create two of those tokens."
@@ -2786,30 +2669,21 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:909
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "gain 1 life."
 msgid ""
 "Whenever a land enters the battlefield under your control, you gain 1 life."
-msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
+msgstr "Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../AFR.rst:911
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_2|\\ |mana_g|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_2|\\ |mana_g|: Poziom 2"
 
 #: ../../AFR.rst:913
 msgid "You may play an additional land on each of your turns."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 
 #: ../../AFR.rst:915
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_4|\\ |mana_g|: Level 3"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_4|\\ |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:917
 msgid ""
@@ -3061,10 +2935,8 @@ msgid "\"Lurking Roper\" doesn't untap during your untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../AFR.rst:1003
-#, fuzzy
-#| msgid "Whenever you gain life, put a +1/+1 counter on Celestial Unicorn."
 msgid "Whenever you gain life, untap \"Lurking Roper\"."
-msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć zyskasz życia, odkręć tego stwora."
 
 #: ../../AFR.rst:1012
 msgid ""
@@ -3177,10 +3049,8 @@ msgstr ""
 "2/2."
 
 #: ../../AFR.rst:1043
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_1|\\ |mana_g|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_1|\\ |mana_g|: Poziom 2"
 
 #: ../../AFR.rst:1045
 #, fuzzy
@@ -3189,18 +3059,17 @@ msgid "Whenever you attack, put a +1/+1 counter on target attacking creature."
 msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../AFR.rst:1047
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_3| |mana_g|: Level 3"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_3| |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:1049
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../AFR.rst:1051
 msgid "You may cast creature spells from the top of your library."
-msgstr ""
+msgstr "Możesz rzucać czary stworów z wierzchu twojej biblioteki."
 
 #: ../../AFR.rst:1056
 msgid ""
@@ -3211,7 +3080,7 @@ msgstr ""
 
 #: ../../AFR.rst:1055
 msgid "|tap|: You may put a land card from your hand onto the battlefield."
-msgstr ""
+msgstr "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #: ../../AFR.rst:1068
 msgid ""
@@ -3415,10 +3284,8 @@ msgid ""
 msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników pustki."
 
 #: ../../AFR.rst:1129
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_r|\\ |mana_g|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_r|\\ |mana_g|: Poziom 2"
 
 #: ../../AFR.rst:1131
 msgid ""
@@ -3658,17 +3525,14 @@ msgstr ""
 "stwora Kot 4/1 z tratowaniem o nazwie Guenhwyvar."
 
 #: ../../AFR.rst:1199
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target creature becomes a Dragon with base power and "
-#| "toughness 4/4 and gains flying. (It loses all other creature types.)"
 msgid ""
 "|mana_x|: Until end of turn, target creature you control has base power and "
 "toughness X/X and becomes a Giant in addition to its other types. Activate "
 "only a sorcery."
 msgstr ""
-"Do końca tury wskazany stwór staje się Smokiem o bazowej sile i "
-"wytrzymałości 4/4 i zyskuje latanie. (Traci wszystkie inne typy stwora.)"
+"|mana_x|: Do końca tury wskazany stwór pod twoim władaniem ma bazową siłę i "
+"wytrzymałość X/X i staje się dodatkowo Gigantem oprócz swoich innych typów. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:1214
 msgid ""
@@ -3682,21 +3546,16 @@ msgid "The second spell you cast each turn costs |mana_1| less to cast."
 msgstr ""
 
 #: ../../AFR.rst:1207
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_w|\\ |mana_u|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_w|\\ |mana_u|: Poziom 2"
 
 #: ../../AFR.rst:1209
-#, fuzzy
-#| msgid ""
-#| "Fight the Current — Return target nonland permanent top its owner's hand."
 msgid ""
 "When this Class becomes level 2, return up to one target nonalnd permanent "
 "to its owner's hand."
 msgstr ""
-"Walcz z prądem — Przywróć wskazany nielądowy permanent na wierzch biblioteki "
-"właściciela."
+"Kiedy ta Klasa osiągnie poziom 2, przywróć co najwyżej jeden wskazany "
+"nielądowy permanent do ręki właściciela."
 
 #: ../../AFR.rst:1211
 msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Level 3"
@@ -3718,10 +3577,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1217
-#, fuzzy
-#| msgid "Flying, vigilance"
 msgid "Flying, trample"
-msgstr "Latanie, czujność"
+msgstr "Latanie, tratowanie"
 
 #: ../../AFR.rst:1219
 #, fuzzy
@@ -3761,7 +3618,7 @@ msgstr ""
 
 #: ../../AFR.rst:1233
 msgid "Creatures you control have menace."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają złowrogość."
 
 #: ../../AFR.rst:1235
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Level 3"
@@ -3809,10 +3666,8 @@ msgid ""
 msgstr "Poznaj ich sekrety — Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../AFR.rst:1251
-#, fuzzy
-#| msgid "Equip |mana_b|\\ |mana_b|"
 msgid "|mana_u|\\ |mana_r|: Level 2"
-msgstr "Wyposaż |mana_b|\\ |mana_b"
+msgstr "|mana_u|\\ |mana_r|: Poziom 2"
 
 #: ../../AFR.rst:1253
 msgid ""
@@ -3937,22 +3792,20 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1293
-#, fuzzy
-#| msgid "Gentle Repose — Exile target card from a graveyard."
 msgid "Whenever you discard a card, exile that card from your graveyard."
-msgstr "Spokojny spoczynek — Wygnaj wskazaną kartę z cmentarza."
+msgstr "Ilekroć odrzucisz kartę, wygnaj ją z twojego cmentarza."
 
 #: ../../AFR.rst:1295
-#, fuzzy
-#| msgid "Learn Their Secrets — Draw two cards, then discard two cards."
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr "Poznaj ich sekrety — Dobierz dwie karty, po czym odrzuć dwie karty."
+msgstr "|mana_2|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../AFR.rst:1297
 msgid ""
 "|mana_4|, |tap|, Sacrifice Bag of Holding: Return all cards exiled with Bag "
 "of Holding to their owner's hand."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Przywróć wszystkie karty wygnane z "
+"jego pomocą do rąk ich właścicieli."
 
 #: ../../AFR.rst:1308
 msgid ""
