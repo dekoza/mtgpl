@@ -311,7 +311,7 @@
    Cunning Action — |mana_3|\ |mana_u|: Guild Thief can't be blocked this turn.
 
 
-:mtgtip:`Iymrith, Desert Doom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e6025d-d273-4ae4-9929-5e588612f1b3.jpg?1625253107|https://scryfall.com/card/afr/62/iymrith-desert-doom?utm_source=api>`
+:mtgtip:`Iymrith, Desert Doom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e6025d-d273-4ae4-9929-5e588612f1b3.jpg?1625304757|https://scryfall.com/card/afr/62/iymrith-desert-doom?utm_source=api>`
    Flying
 
    Iymrith, Desert Doom has ward |mana_4| as long as it's untapped.
