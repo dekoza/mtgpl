@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-03 13:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,21 +43,21 @@ msgid "Whenever you gain life, put a +1/+1 counter on Celestial Unicorn."
 msgstr ""
 
 #: ../../AFR.rst:30
-msgid ":mtgtip:`Cleric Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.jpg?1625250601|https://scryfall.com/card/afr/6/cleric-class?utm_source=api>`"
+msgid ":mtgtip:`Cleric Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.jpg?1625265072|https://scryfall.com/card/afr/6/cleric-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:19
 #: ../../AFR.rst:143
-#: ../../AFR.rst:385
-#: ../../AFR.rst:599
-#: ../../AFR.rst:637
-#: ../../AFR.rst:885
-#: ../../AFR.rst:1017
-#: ../../AFR.rst:1103
-#: ../../AFR.rst:1141
-#: ../../AFR.rst:1181
-#: ../../AFR.rst:1205
-#: ../../AFR.rst:1225
+#: ../../AFR.rst:399
+#: ../../AFR.rst:621
+#: ../../AFR.rst:659
+#: ../../AFR.rst:907
+#: ../../AFR.rst:1039
+#: ../../AFR.rst:1125
+#: ../../AFR.rst:1163
+#: ../../AFR.rst:1203
+#: ../../AFR.rst:1227
+#: ../../AFR.rst:1247
 msgid "(Gain the next level as a sorcery to add its ability.)"
 msgstr ""
 
@@ -196,21 +196,21 @@ msgstr ""
 
 #: ../../AFR.rst:89
 #: ../../AFR.rst:157
-#: ../../AFR.rst:275
-#: ../../AFR.rst:339
-#: ../../AFR.rst:355
-#: ../../AFR.rst:483
-#: ../../AFR.rst:507
-#: ../../AFR.rst:547
-#: ../../AFR.rst:685
-#: ../../AFR.rst:1309
+#: ../../AFR.rst:279
+#: ../../AFR.rst:343
+#: ../../AFR.rst:359
+#: ../../AFR.rst:497
+#: ../../AFR.rst:521
+#: ../../AFR.rst:561
+#: ../../AFR.rst:707
+#: ../../AFR.rst:1331
 msgid "Flash"
 msgstr ""
 
 #: ../../AFR.rst:91
 #: ../../AFR.rst:97
 #: ../../AFR.rst:131
-#: ../../AFR.rst:1037
+#: ../../AFR.rst:1059
 msgid "Vigilance"
 msgstr ""
 
@@ -303,7 +303,7 @@ msgid "|mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifa
 msgstr ""
 
 #: ../../AFR.rst:154
-msgid ":mtgtip:`Paladin Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.jpg?1625252392|https://scryfall.com/card/afr/29/paladin-class?utm_source=api>`"
+msgid ":mtgtip:`Paladin Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.jpg?1625265351|https://scryfall.com/card/afr/29/paladin-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:145
@@ -340,20 +340,20 @@ msgstr ""
 
 #: ../../AFR.rst:167
 #: ../../AFR.rst:177
-#: ../../AFR.rst:203
-#: ../../AFR.rst:263
-#: ../../AFR.rst:281
-#: ../../AFR.rst:311
-#: ../../AFR.rst:323
-#: ../../AFR.rst:445
-#: ../../AFR.rst:485
-#: ../../AFR.rst:549
-#: ../../AFR.rst:613
-#: ../../AFR.rst:705
-#: ../../AFR.rst:789
-#: ../../AFR.rst:931
-#: ../../AFR.rst:993
-#: ../../AFR.rst:1245
+#: ../../AFR.rst:207
+#: ../../AFR.rst:267
+#: ../../AFR.rst:285
+#: ../../AFR.rst:315
+#: ../../AFR.rst:327
+#: ../../AFR.rst:459
+#: ../../AFR.rst:499
+#: ../../AFR.rst:563
+#: ../../AFR.rst:635
+#: ../../AFR.rst:727
+#: ../../AFR.rst:811
+#: ../../AFR.rst:953
+#: ../../AFR.rst:1015
+#: ../../AFR.rst:1267
 msgid "Flying"
 msgstr ""
 
@@ -378,2221 +378,2274 @@ msgid "|mana_3|, |tap|, Tap another untapped creature you control: Venture into 
 msgstr ""
 
 #: ../../AFR.rst:184
-msgid ":mtgtip:`Veteran Dungeoneer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8fe33b3-afaf-4a98-ae64-7d7e0eabe993.jpg?1625163548|https://scryfall.com/card/afr/40/veteran-dungeoneer?utm_source=api>`"
+msgid ":mtgtip:`Teleportation Circle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.jpg?1625285007|https://scryfall.com/card/afr/39/teleportation-circle?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:183
-msgid "When Veteran Dungeoneer enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "At the beginning of your end step, exile up to one target artifact or creature you control, then return that card to the battlefield under its owner's control."
 msgstr ""
 
-#: ../../AFR.rst:192
-msgid ":mtgtip:`You Hear Something on Watch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76e939ab-9d0c-4685-805c-c8bc4e6af163.jpg?1624992353|https://scryfall.com/card/afr/42/you-hear-something-on-watch?utm_source=api>`"
+#: ../../AFR.rst:188
+msgid ":mtgtip:`Veteran Dungeoneer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8fe33b3-afaf-4a98-ae64-7d7e0eabe993.jpg?1625163548|https://scryfall.com/card/afr/40/veteran-dungeoneer?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:187
-#: ../../AFR.rst:195
-#: ../../AFR.rst:407
-#: ../../AFR.rst:415
-#: ../../AFR.rst:423
-#: ../../AFR.rst:823
-#: ../../AFR.rst:831
-#: ../../AFR.rst:839
-#: ../../AFR.rst:869
-#: ../../AFR.rst:1073
-#: ../../AFR.rst:1083
-#: ../../AFR.rst:1091
-msgid "Choose one —"
+msgid "When Veteran Dungeoneer enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:189
-msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
+#: ../../AFR.rst:196
+msgid ":mtgtip:`You Hear Something on Watch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76e939ab-9d0c-4685-805c-c8bc4e6af163.jpg?1624992353|https://scryfall.com/card/afr/42/you-hear-something-on-watch?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:191
+#: ../../AFR.rst:199
+#: ../../AFR.rst:421
+#: ../../AFR.rst:429
+#: ../../AFR.rst:437
+#: ../../AFR.rst:845
+#: ../../AFR.rst:853
+#: ../../AFR.rst:861
+#: ../../AFR.rst:891
+#: ../../AFR.rst:1095
+#: ../../AFR.rst:1105
+#: ../../AFR.rst:1113
+msgid "Choose one —"
+msgstr ""
+
+#: ../../AFR.rst:193
+msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../AFR.rst:195
 msgid "Set Off Traps — This spell deals 5 damage to target attacking creature."
 msgstr ""
 
-#: ../../AFR.rst:200
+#: ../../AFR.rst:204
 msgid ":mtgtip:`You're Ambushed on the Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726da84a-fdd4-46df-8ba4-f94d582bcce4.jpg?1625130193|https://scryfall.com/card/afr/43/youre-ambushed-on-the-road?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:197
+#: ../../AFR.rst:201
 msgid "Make a Retreat — Return target creature you control to its owner's hand."
 msgstr ""
 
-#: ../../AFR.rst:199
+#: ../../AFR.rst:203
 msgid "Stand and Fight — Target creature gets +1/+3 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:206
+#: ../../AFR.rst:210
 msgid ":mtgtip:`Air-Cult Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fba82564-a9a9-4ded-a5fa-0e5fab2a3faa.jpg?1625103419|https://scryfall.com/card/afr/45/air-cult-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:205
+#: ../../AFR.rst:209
 msgid "Whirlwind — When Air-Cult Elemental enters the battlefield, return up to one other target creature to its owner's hand."
 msgstr ""
 
-#: ../../AFR.rst:214
+#: ../../AFR.rst:218
 msgid ":mtgtip:`Arcane Investigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc457520-9947-4f65-bbe7-9b95bd2c23af.jpg?1625246508|https://scryfall.com/card/afr/46/arcane-investigator?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:209
+#: ../../AFR.rst:213
 msgid "Search the Room — |mana_5|\\ |mana_u|: Roll a d20."
 msgstr ""
 
-#: ../../AFR.rst:211
+#: ../../AFR.rst:215
 msgid "1-9 | Draw a card."
 msgstr ""
 
-#: ../../AFR.rst:213
+#: ../../AFR.rst:217
 msgid "10-20 | Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../AFR.rst:218
+#: ../../AFR.rst:222
 msgid ":mtgtip:`Bar the Gate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9b1e53f-1384-4860-9944-e68922afc65c.jpg?1625102390|https://scryfall.com/card/afr/47/bar-the-gate?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:217
+#: ../../AFR.rst:221
 msgid "Counter target creature or planeswalker spell. Venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:224
+#: ../../AFR.rst:228
 msgid ":mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1624989169|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:221
+#: ../../AFR.rst:225
 msgid "You many choose not to untap The Blackstaff of Waterdeep during your untap step."
 msgstr ""
 
-#: ../../AFR.rst:223
+#: ../../AFR.rst:227
 msgid "Animate Walking Statue — |mana_1|\\ |mana_u|, |tap|: Another target artifact you control becomes a 4/4 artifact creature for as long as The Blackstaff of Waterdeep remains tapped. Activate only as a sorcery."
 msgstr ""
 
-#: ../../AFR.rst:232
+#: ../../AFR.rst:236
 msgid ":mtgtip:`Charmed Sleep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4238ad00-af9c-4535-a589-c5afb0d2ec57.jpg?1624991797|https://scryfall.com/card/afr/50/charmed-sleep?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:227
-#: ../../AFR.rst:293
-#: ../../AFR.rst:341
-#: ../../AFR.rst:559
+#: ../../AFR.rst:231
+#: ../../AFR.rst:297
+#: ../../AFR.rst:345
+#: ../../AFR.rst:573
 msgid "Enchant creature"
 msgstr ""
 
-#: ../../AFR.rst:229
+#: ../../AFR.rst:233
 msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
 msgstr ""
 
-#: ../../AFR.rst:231
-#: ../../AFR.rst:347
+#: ../../AFR.rst:235
+#: ../../AFR.rst:351
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
-#: ../../AFR.rst:236
+#: ../../AFR.rst:240
 msgid ":mtgtip:`Clever Conjurer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9784c97-3839-4a4b-ae8a-965844dbeb70.jpg?1625103499|https://scryfall.com/card/afr/51/clever-conjurer?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:235
+#: ../../AFR.rst:239
 msgid "Mage Hand — |tap|: Untap target permanent not named Clever Conjurer. Activate only as a sorcery."
 msgstr ""
 
-#: ../../AFR.rst:246
+#: ../../AFR.rst:250
 msgid ":mtgtip:`Contact Other Plane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6fefb38-c6f2-43c4-a6b9-ac82f8827bc2.jpg?1625169699|https://scryfall.com/card/afr/52/contact-other-plane?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:239
+#: ../../AFR.rst:243
 msgid "Roll a d20."
 msgstr ""
 
-#: ../../AFR.rst:241
+#: ../../AFR.rst:245
 msgid "1-9 | Draw two cards."
 msgstr ""
 
-#: ../../AFR.rst:243
+#: ../../AFR.rst:247
 msgid "10-19 | Scry 2, then draw two cards."
 msgstr ""
 
-#: ../../AFR.rst:245
+#: ../../AFR.rst:249
 msgid "20 | Scry 3, then draw three cards."
 msgstr ""
 
-#: ../../AFR.rst:254
+#: ../../AFR.rst:258
 msgid ":mtgtip:`Demilich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a1351ed-b9df-4a6d-aaa1-ec6db673d265.jpg?1625172241|https://scryfall.com/card/afr/53/demilich?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:249
+#: ../../AFR.rst:253
 msgid "This spell costs |mana_u| less to cast for each instant and sorcery you've cast this turn."
 msgstr ""
 
-#: ../../AFR.rst:251
+#: ../../AFR.rst:255
 msgid "Whenever Demilich attacks, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy."
 msgstr ""
 
-#: ../../AFR.rst:253
+#: ../../AFR.rst:257
 msgid "You may cast Demilich from your graveyard by exiling four instants and/or sorcery cards from your graveyard in addition to paying its other costs."
 msgstr ""
 
-#: ../../AFR.rst:260
+#: ../../AFR.rst:264
 msgid ":mtgtip:`Displacer Beast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95d5c36c-bcc8-459c-9f4b-b265ccdb1f06.jpg?1625127408|https://scryfall.com/card/afr/54/displacer-beast?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:257
+#: ../../AFR.rst:261
 msgid "When Displacer Beast enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:259
+#: ../../AFR.rst:263
 msgid "Displacement — |mana_3|\\ |mana_u|: Return Displacer Beast to its owner's hand."
 msgstr ""
 
-#: ../../AFR.rst:272
+#: ../../AFR.rst:276
 msgid ":mtgtip:`Djinni Windseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67a42698-bf3b-4352-8178-9c98abfc5b09.jpg?1625169574|https://scryfall.com/card/afr/55/djinni-windseeker?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:265
+#: ../../AFR.rst:269
 msgid "When Djinni Windseeker enters the battlefield, roll a d20."
 msgstr ""
 
-#: ../../AFR.rst:267
+#: ../../AFR.rst:271
 msgid "1-9 | Scry 1."
 msgstr ""
 
-#: ../../AFR.rst:269
+#: ../../AFR.rst:273
 msgid "10-19 | Scry 2."
 msgstr ""
 
-#: ../../AFR.rst:271
+#: ../../AFR.rst:275
 msgid "20 | Scry 3."
 msgstr ""
 
-#: ../../AFR.rst:278
+#: ../../AFR.rst:282
 msgid ":mtgtip:`Dragon Turtle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d436ba80-386f-40ad-b0ca-a98cc50de964.jpg?1625130303|https://scryfall.com/card/afr/56/dragon-turtle?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:277
+#: ../../AFR.rst:281
 msgid "Drag Below — When Dragon Turtle enters the battlefield, tap it and up to one target creature an opponent controls. They don't untap during their controllers' next untap steps."
 msgstr ""
 
-#: ../../AFR.rst:286
+#: ../../AFR.rst:290
 msgid ":mtgtip:`Eccentric Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3baa08ac-9a94-4e22-91bb-c6966cd0a0de.jpg?1625165137|https://scryfall.com/card/afr/57/eccentric-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:283
+#: ../../AFR.rst:287
 msgid "When Eccentric Apprentice enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:285
+#: ../../AFR.rst:289
 msgid "At the beginning of combat on your turn, if you've completed a dungeon, up to one target creature becomes a Bird with base power and toughness 1/1 and flying until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:290
-msgid ":mtgtip:`Feywild Trickster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c93e0296-69e0-45e0-a1c2-0214a53c52d0.jpg?1625171032|https://scryfall.com/card/afr/58/feywild-trickster?utm_source=api>`"
+#: ../../AFR.rst:294
+msgid ":mtgtip:`Feywild Trickster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c93e0296-69e0-45e0-a1c2-0214a53c52d0.jpg?1625265849|https://scryfall.com/card/afr/58/feywild-trickster?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:289
+#: ../../AFR.rst:293
 msgid "Whenever you roll one or more dice, create a 1/1 blue Faerie Dragon creature token with flying."
 msgstr ""
 
-#: ../../AFR.rst:296
+#: ../../AFR.rst:300
 msgid ":mtgtip:`Fly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1a91cc6-67e1-4f1b-86e2-eb388a75d6ad.jpg?1625101197|https://scryfall.com/card/afr/59/fly?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:295
+#: ../../AFR.rst:299
 msgid "Enchanted creature has flying and \"Whenever this creature deals combat damage to a player, venture into the dungeon.\" (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:302
+#: ../../AFR.rst:306
 msgid ":mtgtip:`Grazilaxx, Illithid Scholar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98cca453-4611-4f3d-85d8-d74d260c7598.jpg?1624995724|https://scryfall.com/card/afr/60/grazilaxx-illithid-scholar?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:299
+#: ../../AFR.rst:303
 msgid "Whenever a creature you control becomes blocked, you may return it to its owner's hand."
 msgstr ""
 
-#: ../../AFR.rst:301
+#: ../../AFR.rst:305
 msgid "Whenever one or more creatures you control deal combat damage to a player, draw a card."
 msgstr ""
 
-#: ../../AFR.rst:308
+#: ../../AFR.rst:312
 msgid ":mtgtip:`Guild Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4348ec-fdb1-4c3b-bec5-42513c6c0662.jpg?1624992716|https://scryfall.com/card/afr/61/guild-thief?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:305
+#: ../../AFR.rst:309
 msgid "Whenever Guild Thief deals combat damage to a player, put a +1/+1 counter on it."
 msgstr ""
 
-#: ../../AFR.rst:307
+#: ../../AFR.rst:311
 msgid "Cunning Action — |mana_3|\\ |mana_u|: Guild Thief can't be blocked this turn."
 msgstr ""
 
-#: ../../AFR.rst:316
+#: ../../AFR.rst:320
 msgid ":mtgtip:`Iymrith, Desert Doom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e6025d-d273-4ae4-9929-5e588612f1b3.jpg?1625253107|https://scryfall.com/card/afr/62/iymrith-desert-doom?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:313
+#: ../../AFR.rst:317
 msgid "Iymrith, Desert Doom has ward |mana_4| as long as it's untapped."
 msgstr ""
 
-#: ../../AFR.rst:315
+#: ../../AFR.rst:319
 msgid "Whenever Iymrith deals combat damage to a player, draw a card. Then if you have fewer than three cards in hand, draw cards equal to the difference."
 msgstr ""
 
-#: ../../AFR.rst:320
+#: ../../AFR.rst:324
 msgid ":mtgtip:`Mordenkainen's Polymorph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6551442-d74c-4f16-a9de-0cfdc88208a5.jpg?1625101589|https://scryfall.com/card/afr/65/mordenkainens-polymorph?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:319
+#: ../../AFR.rst:323
 msgid "Until end of turn, target creature becomes a Dragon with base power and toughness 4/4 and gains flying. (It loses all other creature types.)"
 msgstr ""
 
-#: ../../AFR.rst:326
-msgid ":mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1625167018|https://scryfall.com/card/afr/66/pixie-guide?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:325
-msgid "Grant an Advantage — if you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll."
-msgstr ""
-
-#: ../../AFR.rst:336
-msgid ":mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625171986|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`"
+#: ../../AFR.rst:330
+msgid ":mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1625265756|https://scryfall.com/card/afr/66/pixie-guide?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:329
-msgid "Choose target creature an opponent controls, then roll a d20."
+msgid "Grant an Advantage — if you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll."
 msgstr ""
 
-#: ../../AFR.rst:331
-msgid "1-9 | Return it to its owner's hand."
+#: ../../AFR.rst:340
+msgid ":mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625265798|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:333
-msgid "10-19 | Its owner puts it on the top of bottom of their library."
+msgid "Choose target creature an opponent controls, then roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:335
-msgid "20 | Gain control of it until end of your next turn."
+msgid "1-9 | Return it to its owner's hand."
 msgstr ""
 
-#: ../../AFR.rst:348
-msgid ":mtgtip:`Ray of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7edd5058-a964-4288-937b-84df6e9ba7c4.jpg?1625102002|https://scryfall.com/card/afr/68/ray-of-frost?utm_source=api>`"
+#: ../../AFR.rst:337
+msgid "10-19 | Its owner puts it on the top of bottom of their library."
 msgstr ""
 
-#: ../../AFR.rst:343
-msgid "When Ray of Frost enters the battlefield, if enchanted creature is red, tap it."
-msgstr ""
-
-#: ../../AFR.rst:345
-msgid "Enchanted creature loses all abilities as long as it is red."
+#: ../../AFR.rst:339
+msgid "20 | Gain control of it until the end of your next turn."
 msgstr ""
 
 #: ../../AFR.rst:352
-msgid ":mtgtip:`Rimeshield Frost Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/767b499e-3bdb-4809-b430-6e965bd100d4.jpg?1625172047|https://scryfall.com/card/afr/69/rimeshield-frost-giant?utm_source=api>`"
+msgid ":mtgtip:`Ray of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7edd5058-a964-4288-937b-84df6e9ba7c4.jpg?1625102002|https://scryfall.com/card/afr/68/ray-of-frost?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:351
+#: ../../AFR.rst:347
+msgid "When Ray of Frost enters the battlefield, if enchanted creature is red, tap it."
+msgstr ""
+
+#: ../../AFR.rst:349
+msgid "Enchanted creature loses all abilities as long as it is red."
+msgstr ""
+
+#: ../../AFR.rst:356
+msgid ":mtgtip:`Rimeshield Frost Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/767b499e-3bdb-4809-b430-6e965bd100d4.jpg?1625265782|https://scryfall.com/card/afr/69/rimeshield-frost-giant?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:355
 msgid "Ward |mana_3| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_3|.)"
 msgstr ""
 
-#: ../../AFR.rst:362
+#: ../../AFR.rst:366
 msgid ":mtgtip:`Scion of Stygia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f0abdb4-4898-4818-b7e2-24a90f15e49d.jpg?1625169652|https://scryfall.com/card/afr/70/scion-of-stygia?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:357
+#: ../../AFR.rst:361
 msgid "Cone of Cold — When Scion of Stygia enters the battlefield, choose target creature an opponent controls, then roll a d20."
 msgstr ""
 
-#: ../../AFR.rst:359
+#: ../../AFR.rst:363
 msgid "1-9 | Tap that creature."
 msgstr ""
 
-#: ../../AFR.rst:361
+#: ../../AFR.rst:365
 msgid "10-20 | Tap that creature. It doesn't untap during its controller's next untap step."
 msgstr ""
 
-#: ../../AFR.rst:368
+#: ../../AFR.rst:372
 msgid ":mtgtip:`Secret Door<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3191e400-aa4e-4955-aca0-ecbe63ea240f.jpg?1625163243|https://scryfall.com/card/afr/71/secret-door?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:365
+#: ../../AFR.rst:369
 msgid "Defender"
 msgstr ""
 
-#: ../../AFR.rst:367
+#: ../../AFR.rst:371
 msgid "|mana_4|\\ |mana_u|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:374
+#: ../../AFR.rst:378
 msgid ":mtgtip:`Shocking Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab95fe13-c09b-4eed-aeae-fb1c5b6eb476.jpg?1625172499|https://scryfall.com/card/afr/72/shocking-grasp?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:371
+#: ../../AFR.rst:375
 msgid "Target creature gets -2/-0 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:373
+#: ../../AFR.rst:377
 msgid "Draw a card."
 msgstr ""
 
-#: ../../AFR.rst:378
+#: ../../AFR.rst:382
 msgid ":mtgtip:`Shortcut Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/122d2635-c4f4-44cd-8f82-37e3016e421e.jpg?1624629491|https://scryfall.com/card/afr/73/shortcut-seeker?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:377
+#: ../../AFR.rst:381
 msgid "Whenever Shortcut Seeker deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:382
+#: ../../AFR.rst:386
+msgid ":mtgtip:`Split the Party<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/743a0a96-f90a-4852-9a92-848795518e0a.jpg?1625254927|https://scryfall.com/card/afr/76/split-the-party?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:385
+msgid "Choose target player. Return half the creatures they control to their owner's hand, rounded up."
+msgstr ""
+
+#: ../../AFR.rst:390
 msgid ":mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1624506086|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:381
+#: ../../AFR.rst:389
 msgid "Each opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or more."
 msgstr ""
 
-#: ../../AFR.rst:394
-msgid ":mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625249911|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:387
-msgid "|mana_2|\\ |mana_u|: Level 2"
-msgstr ""
-
-#: ../../AFR.rst:389
-msgid "When this Class becomes level 2, draw two cards."
-msgstr ""
-
-#: ../../AFR.rst:391
-msgid "|mana_4|\\ |mana_u|: Level 3"
+#: ../../AFR.rst:396
+msgid ":mtgtip:`\"Talisman of the Trickster\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33cb9973-c9ce-48f1-9972-651092624751.jpg?1625268927|https://scryfall.com/card/afr/79/talisman-of-the-trickster?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:393
-msgid "Whenever you draw a card, put a +1/+1 counter on target creature you control."
+msgid "Equipped creature gets +1/+1 and has \"Whenever this creature deals combat damage to a player, you may sacrifice \"Talisman of the Trickster\". If you do, create a token that's a copy of this creature.\""
 msgstr ""
 
-#: ../../AFR.rst:404
-msgid ":mtgtip:`Wizard's Spellbook<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6ed0a4c-0234-4341-8dcb-5eea6a9632e7.jpg?1625172144|https://scryfall.com/card/afr/82/wizards-spellbook?utm_source=api>`"
+#: ../../AFR.rst:395
+msgid "Equip |mana_2|"
 msgstr ""
 
-#: ../../AFR.rst:397
-msgid "|tap|: Exile target instant or sorcery card from a graveyard. Roll a d20. Activate only as a sorcery."
-msgstr ""
-
-#: ../../AFR.rst:399
-msgid "1-9 | Copy that card. You may cast the copy."
+#: ../../AFR.rst:408
+msgid ":mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625265216|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:401
-msgid "10-19 | Copy that card. You may cast teh copy by paying |mana_1| rather than paying its mana cost."
+msgid "|mana_2|\\ |mana_u|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:403
-msgid "20 | Copy each card exiled with Wizard's Spellbook. You may cast any number of the copies without paying their mana costs."
+msgid "When this Class becomes level 2, draw two cards."
 msgstr ""
 
-#: ../../AFR.rst:412
-msgid ":mtgtip:`You Come to a River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebf9bab7-98a0-4394-90c0-e7c52e14eb37.jpg?1624988423|https://scryfall.com/card/afr/83/you-come-to-a-river?utm_source=api>`"
+#: ../../AFR.rst:405
+msgid "|mana_4|\\ |mana_u|: Level 3"
 msgstr ""
 
-#: ../../AFR.rst:409
-msgid "Fight the Current — Return target nonland permanent top its owner's hand."
+#: ../../AFR.rst:407
+msgid "Whenever you draw a card, put a +1/+1 counter on target creature you control."
+msgstr ""
+
+#: ../../AFR.rst:418
+msgid ":mtgtip:`Wizard's Spellbook<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6ed0a4c-0234-4341-8dcb-5eea6a9632e7.jpg?1625265769|https://scryfall.com/card/afr/82/wizards-spellbook?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:411
-msgid "Find a Crossing — Target creature gets +1/+0 until end of turn and can't be blocked this turn."
+msgid "|tap|: Exile target instant or sorcery card from a graveyard. Roll a d20. Activate only as a sorcery."
 msgstr ""
 
-#: ../../AFR.rst:420
-msgid ":mtgtip:`You Find the Villains' Lair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6704458-6e9e-4795-a56d-25b68fbf9672.jpg?1625130374|https://scryfall.com/card/afr/84/you-find-the-villains-lair?utm_source=api>`"
+#: ../../AFR.rst:413
+msgid "1-9 | Copy that card. You may cast the copy."
+msgstr ""
+
+#: ../../AFR.rst:415
+msgid "10-19 | Copy that card. You may cast the copy by paying |mana_1| rather than paying its mana cost."
 msgstr ""
 
 #: ../../AFR.rst:417
-msgid "Foil Their Scheme — Counter target spell."
+msgid "20 | Copy each card exiled with Wizard's Spellbook. You may cast any number of the copies without paying their mana costs."
 msgstr ""
 
-#: ../../AFR.rst:419
-msgid "Learn Their Secrets — Draw two cards, then discard two cards."
+#: ../../AFR.rst:426
+msgid ":mtgtip:`You Come to a River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebf9bab7-98a0-4394-90c0-e7c52e14eb37.jpg?1624988423|https://scryfall.com/card/afr/83/you-come-to-a-river?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:428
-msgid ":mtgtip:`You See a Guard Approach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30c5fd8e-753a-45e1-bcdd-fb6e072ffbb0.jpg?1624997058|https://scryfall.com/card/afr/85/you-see-a-guard-approach?utm_source=api>`"
+#: ../../AFR.rst:423
+msgid "Fight the Current — Return target nonland permanent top its owner's hand."
 msgstr ""
 
 #: ../../AFR.rst:425
-msgid "Distract the Guard — Tap target creature."
-msgstr ""
-
-#: ../../AFR.rst:427
-msgid "Hide — Target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgid "Find a Crossing — Target creature gets +1/+0 until end of turn and can't be blocked this turn."
 msgstr ""
 
 #: ../../AFR.rst:434
-msgid ":mtgtip:`Yuan-Ti Malison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f51afd9-7093-4aa3-ad5b-7383684d6285.jpg?1625103035|https://scryfall.com/card/afr/86/yuan-ti-malison?utm_source=api>`"
+msgid ":mtgtip:`You Find the Villains' Lair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6704458-6e9e-4795-a56d-25b68fbf9672.jpg?1625130374|https://scryfall.com/card/afr/84/you-find-the-villains-lair?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:431
-msgid "Yuan-Ti Malison can't be blocked as long as it's attacking alone."
+msgid "Foil Their Scheme — Counter target spell."
 msgstr ""
 
 #: ../../AFR.rst:433
-msgid "Whenever Yuan-Ti Malison deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "Learn Their Secrets — Draw two cards, then discard two cards."
 msgstr ""
 
 #: ../../AFR.rst:442
-msgid ":mtgtip:`Baleful Beholder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e52d6ef6-d8a3-4288-8917-4c0a179ed4e0.jpg?1625001797|https://scryfall.com/card/afr/89/baleful-beholder?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:437
-msgid "When Baleful Beholder enters the battlefield, choose one —"
+msgid ":mtgtip:`You See a Guard Approach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30c5fd8e-753a-45e1-bcdd-fb6e072ffbb0.jpg?1624997058|https://scryfall.com/card/afr/85/you-see-a-guard-approach?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:439
-msgid "Antimagic Cone — Each opponent sacrifices an enchantment."
+msgid "Distract the Guard — Tap target creature."
 msgstr ""
 
 #: ../../AFR.rst:441
-msgid "Fear Ray — Creatures you control gain menace until end of turn. (A creature with menance can't be blocked except by two or more creatures.)"
+msgid "Hide — Target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../AFR.rst:448
-msgid ":mtgtip:`Black Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaca283a-39f1-4ae7-98fb-7821a927ef86.jpg?1624998111|https://scryfall.com/card/afr/90/black-dragon?utm_source=api>`"
+msgid ":mtgtip:`Yuan-Ti Malison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f51afd9-7093-4aa3-ad5b-7383684d6285.jpg?1625103035|https://scryfall.com/card/afr/86/yuan-ti-malison?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:445
+msgid "Yuan-Ti Malison can't be blocked as long as it's attacking alone."
 msgstr ""
 
 #: ../../AFR.rst:447
-msgid "Acid Breath — When Black Dragon enters the battlefield, target creature an oppon ent controls gets -3/-3 until end of turn."
+msgid "Whenever Yuan-Ti Malison deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:454
-msgid ":mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1624997312|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`"
+#: ../../AFR.rst:456
+msgid ":mtgtip:`Baleful Beholder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e52d6ef6-d8a3-4288-8917-4c0a179ed4e0.jpg?1625001797|https://scryfall.com/card/afr/89/baleful-beholder?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:451
-msgid "At the beginning of your end step, if you lost 2 or more life this turn, create a 2/2 black Zombie creature token."
+msgid "When Baleful Beholder enters the battlefield, choose one —"
 msgstr ""
 
 #: ../../AFR.rst:453
-msgid "|tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible. It gains all triggered abilities of the exiled cards."
+msgid "Antimagic Cone — Each opponent sacrifices an enchantment."
 msgstr ""
 
-#: ../../AFR.rst:458
-msgid ":mtgtip:`Clattering Skeletons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09ac0b2b-d4d3-4977-b241-7788239362de.jpg?1625162925|https://scryfall.com/card/afr/93/clattering-skeletons?utm_source=api>`"
+#: ../../AFR.rst:455
+msgid "Fear Ray — Creatures you control gain menace until end of turn. (A creature with menance can't be blocked except by two or more creatures.)"
 msgstr ""
 
-#: ../../AFR.rst:457
-msgid "When Clattering Skeletons dies, venture into the dungeon. (Enter the first room or advance to the next room.)"
-msgstr ""
-
-#: ../../AFR.rst:464
-msgid ":mtgtip:`\"Deathpriest of Myrkul\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/126b2636-030a-4a0e-9307-54c3372afb52.jpg?1625169522|https://scryfall.com/card/afr/95/deathpriest-of-myrkul?utm_source=api>`"
+#: ../../AFR.rst:462
+msgid ":mtgtip:`Black Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaca283a-39f1-4ae7-98fb-7821a927ef86.jpg?1624998111|https://scryfall.com/card/afr/90/black-dragon?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:461
-msgid "Skeletons, Vampires, and Zombies you control get +1/+1."
-msgstr ""
-
-#: ../../AFR.rst:463
-msgid "At the beginning of your end step, if a creature died this turn, you may pay |mana_1|. If you do, create a 1/1 black Skeleton creature token."
+msgid "Acid Breath — When Black Dragon enters the battlefield, target creature an oppon ent controls gets -3/-3 until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:468
-msgid ":mtgtip:`Devour Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13c34f2d-2eac-4241-8b23-9cab3268c254.jpg?1624992607|https://scryfall.com/card/afr/97/devour-intellect?utm_source=api>`"
+msgid ":mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1624997312|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:465
+msgid "At the beginning of your end step, if you lost 2 or more life this turn, create a 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../AFR.rst:467
-msgid "Target opponent discards a card. If mana from a Treasure was spent to cast this spell, instead that player reveals their hand, you choose a nonland card from it, then that player discards a card."
+msgid "|tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible. It gains all triggered abilities of the exiled cards."
 msgstr ""
 
-#: ../../AFR.rst:474
-msgid ":mtgtip:`Drider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc06a88-1eb6-4edb-8f03-d8274560cc41.jpg?1625116297|https://scryfall.com/card/afr/98/drider?utm_source=api>`"
+#: ../../AFR.rst:472
+msgid ":mtgtip:`Clattering Skeletons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09ac0b2b-d4d3-4977-b241-7788239362de.jpg?1625162925|https://scryfall.com/card/afr/93/clattering-skeletons?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:471
-#: ../../AFR.rst:907
-#: ../../AFR.rst:963
-msgid "Reach"
+msgid "When Clattering Skeletons dies, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:473
-msgid "Whenever Drider deals combat damage to a player, create a 2/1 black Spider creature token with menace and reach."
+#: ../../AFR.rst:478
+msgid ":mtgtip:`\"Deathpriest of Myrkul\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/126b2636-030a-4a0e-9307-54c3372afb52.jpg?1625169522|https://scryfall.com/card/afr/95/deathpriest-of-myrkul?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:480
-msgid ":mtgtip:`Dungeon Crawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4138b66d-cf18-42a5-8522-241bd3969624.jpg?1624733823|https://scryfall.com/card/afr/99/dungeon-crawler?utm_source=api>`"
+#: ../../AFR.rst:475
+msgid "Skeletons, Vampires, and Zombies you control get +1/+1."
 msgstr ""
 
 #: ../../AFR.rst:477
-msgid "Dungeon Crawler enters the battlefield tapped."
+msgid "At the beginning of your end step, if a creature died this turn, you may pay |mana_1|. If you do, create a 1/1 black Skeleton creature token."
 msgstr ""
 
-#: ../../AFR.rst:479
-msgid "Whenever you complete a dungeon, you may return Dungeon Crawler from your graveyard to your hand."
+#: ../../AFR.rst:482
+msgid ":mtgtip:`Devour Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13c34f2d-2eac-4241-8b23-9cab3268c254.jpg?1624992607|https://scryfall.com/card/afr/97/devour-intellect?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:490
-msgid ":mtgtip:`Ebondeath, Dracolich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b3f460-92ba-4af0-aad9-cf86615d4177.jpg?1624997541|https://scryfall.com/card/afr/100/ebondeath-dracolich?utm_source=api>`"
+#: ../../AFR.rst:481
+msgid "Target opponent discards a card. If mana from a Treasure was spent to cast this spell, instead that player reveals their hand, you choose a nonland card from it, then that player discards a card."
+msgstr ""
+
+#: ../../AFR.rst:488
+msgid ":mtgtip:`Drider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc06a88-1eb6-4edb-8f03-d8274560cc41.jpg?1625116297|https://scryfall.com/card/afr/98/drider?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:485
+#: ../../AFR.rst:929
+#: ../../AFR.rst:985
+msgid "Reach"
 msgstr ""
 
 #: ../../AFR.rst:487
-msgid "Ebondeath, Dracolich enters the battlefield tapped."
-msgstr ""
-
-#: ../../AFR.rst:489
-msgid "You may cast Ebondeath, Dracolich from your graveyard if a creature not named Ebondeath, Dracolich died this turn."
+msgid "Whenever Drider deals combat damage to a player, create a 2/1 black Spider creature token with menace and reach."
 msgstr ""
 
 #: ../../AFR.rst:494
-msgid ":mtgtip:`Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19ff3d76-e985-4d8d-837e-89360cc23824.jpg?1625108091|https://scryfall.com/card/afr/102/fates-reversal?utm_source=api>`"
+msgid ":mtgtip:`Dungeon Crawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4138b66d-cf18-42a5-8522-241bd3969624.jpg?1624733823|https://scryfall.com/card/afr/99/dungeon-crawler?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:491
+msgid "Dungeon Crawler enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFR.rst:493
-msgid "Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)"
-msgstr ""
-
-#: ../../AFR.rst:498
-msgid ":mtgtip:`Feign Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.jpg?1625102776|https://scryfall.com/card/afr/103/feign-death?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:497
-msgid "Until end of turn, target creature gains \"When this creature dies, return it to the battlefield tapped under it owner's control with a +1/+1 counter on it.\""
+msgid "Whenever you complete a dungeon, you may return Dungeon Crawler from your graveyard to your hand."
 msgstr ""
 
 #: ../../AFR.rst:504
-msgid ":mtgtip:`Gelatinous Cube<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.jpg?1624992857|https://scryfall.com/card/afr/105/gelatinous-cube?utm_source=api>`"
+msgid ":mtgtip:`Ebondeath, Dracolich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b3f460-92ba-4af0-aad9-cf86615d4177.jpg?1624997541|https://scryfall.com/card/afr/100/ebondeath-dracolich?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:501
-msgid "Engulf — When Gelatinous Cube enters the battlefield, exile target non-Ooze creature an opponent controls until Gelatinous Cube leaves the battlefield."
+msgid "Ebondeath, Dracolich enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFR.rst:503
-msgid "Dissolve — |mana_x|\\ |mana_b|: Put target creature card with mana value X exiled with Gelatinous Cube into its owner's graveyard."
+msgid "You may cast Ebondeath, Dracolich from your graveyard if a creature not named Ebondeath, Dracolich died this turn."
 msgstr ""
 
-#: ../../AFR.rst:510
-msgid ":mtgtip:`Grim Wanderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e339f0f7-a79d-4947-a9c4-b9a0949dd06a.jpg?1625104155|https://scryfall.com/card/afr/107/grim-wanderer?utm_source=api>`"
+#: ../../AFR.rst:508
+msgid ":mtgtip:`Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19ff3d76-e985-4d8d-837e-89360cc23824.jpg?1625108091|https://scryfall.com/card/afr/102/fates-reversal?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:509
-msgid "Tragic Backstory — Cast this spell only if a creature died this turn."
+#: ../../AFR.rst:507
+msgid "Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:520
-msgid ":mtgtip:`Herald of Hadar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baa74204-2593-4468-856d-a5791336126a.jpg?1625246377|https://scryfall.com/card/afr/108/herald-of-hadar?utm_source=api>`"
+#: ../../AFR.rst:512
+msgid ":mtgtip:`Feign Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.jpg?1625102776|https://scryfall.com/card/afr/103/feign-death?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:513
-msgid "|mana_5|\\ |mana_b|: Roll a d20."
+#: ../../AFR.rst:511
+msgid "Until end of turn, target creature gains \"When this creature dies, return it to the battlefield tapped under it owner's control with a +1/+1 counter on it.\""
+msgstr ""
+
+#: ../../AFR.rst:518
+msgid ":mtgtip:`Gelatinous Cube<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.jpg?1624992857|https://scryfall.com/card/afr/105/gelatinous-cube?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:515
-msgid "1-9 | Each opponent loses 2 life."
+msgid "Engulf — When Gelatinous Cube enters the battlefield, exile target non-Ooze creature an opponent controls until Gelatinous Cube leaves the battlefield."
 msgstr ""
 
 #: ../../AFR.rst:517
-msgid "10-19 | Each opponent loses 2 life and you gain 2 life."
-msgstr ""
-
-#: ../../AFR.rst:519
-msgid "20 | Each opponent loses 2 life and you gain 2 life. Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgid "Dissolve — |mana_x|\\ |mana_b|: Put target creature card with mana value X exiled with Gelatinous Cube into its owner's graveyard."
 msgstr ""
 
 #: ../../AFR.rst:524
-msgid ":mtgtip:`Hired Hexblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c23cbf01-90d0-4962-92d5-5e1566e8ef4b.jpg?1625171696|https://scryfall.com/card/afr/109/hired-hexblade?utm_source=api>`"
+msgid ":mtgtip:`Grim Wanderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e339f0f7-a79d-4947-a9c4-b9a0949dd06a.jpg?1625104155|https://scryfall.com/card/afr/107/grim-wanderer?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:523
-msgid "When Hired Hexblade enters the battlefield, if mana from a Treasure was spent to cast it, you draw a card and you lose 1 life."
+msgid "Tragic Backstory — Cast this spell only if a creature died this turn."
 msgstr ""
 
 #: ../../AFR.rst:534
-msgid ":mtgtip:`Lightfoot Rogue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f88de61-8dee-46b3-91b2-d4cdb4db36bf.jpg?1625166944|https://scryfall.com/card/afr/111/lightfoot-rogue?utm_source=api>`"
+msgid ":mtgtip:`Herald of Hadar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baa74204-2593-4468-856d-a5791336126a.jpg?1625246377|https://scryfall.com/card/afr/108/herald-of-hadar?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:527
-msgid "Sneak Attack — Whenever Lightfoot Rogue attacks, roll a d20."
+msgid "|mana_5|\\ |mana_b|: Roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:529
-msgid "1-9 | Lightfoot Rogue gains deathtouch until end of turn."
+msgid "1-9 | Each opponent loses 2 life."
 msgstr ""
 
 #: ../../AFR.rst:531
-msgid "10-19 | It gets +1/+0 and gains deathtouch until end of turn."
+msgid "10-19 | Each opponent loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../AFR.rst:533
-msgid "20 | It gets +3/+0 and gains first strike and deathtouch until end of turn."
+msgid "20 | Each opponent loses 2 life and you gain 2 life. Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
-#: ../../AFR.rst:544
-msgid ":mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621816019|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`"
+#: ../../AFR.rst:538
+msgid ":mtgtip:`Hired Hexblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c23cbf01-90d0-4962-92d5-5e1566e8ef4b.jpg?1625171696|https://scryfall.com/card/afr/109/hired-hexblade?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:537
-msgid "Whenever a creature you control dies, put a loyalty counter on Lolth, Spider Queen."
+msgid "When Hired Hexblade enters the battlefield, if mana from a Treasure was spent to cast it, you draw a card and you lose 1 life."
 msgstr ""
 
-#: ../../AFR.rst:539
-msgid "0: You draw a card and you lose 1 life."
+#: ../../AFR.rst:548
+msgid ":mtgtip:`Lightfoot Rogue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f88de61-8dee-46b3-91b2-d4cdb4db36bf.jpg?1625166944|https://scryfall.com/card/afr/111/lightfoot-rogue?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:541
-msgid "−3: Create two 2/1 black Spider creature tokens with menace and reach."
+msgid "Sneak Attack — Whenever Lightfoot Rogue attacks, roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:543
-msgid "−8: You get an emblem with \"Whenever an opponent is dealt combat damage by one or more creatures you control, if that player lost less than 8 life this turn, they lose life equal to the difference.\""
+msgid "1-9 | Lightfoot Rogue gains deathtouch until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:552
-msgid ":mtgtip:`Manticore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b3d9117-724a-4b67-be27-142b9c283788.jpg?1624994140|https://scryfall.com/card/afr/113/manticore?utm_source=api>`"
+#: ../../AFR.rst:545
+msgid "10-19 | It gets +1/+0 and gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../AFR.rst:547
+msgid "20 | It gets +3/+0 and gains first strike and deathtouch until end of turn."
+msgstr ""
+
+#: ../../AFR.rst:558
+msgid ":mtgtip:`Lolth, Spider Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.jpg?1621816019|https://scryfall.com/card/afr/112/lolth-spider-queen?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:551
-msgid "Tail Spikes — When Manticore enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn."
+msgid "Whenever a creature you control dies, put a loyalty counter on Lolth, Spider Queen."
 msgstr ""
 
-#: ../../AFR.rst:556
-msgid ":mtgtip:`Power Word Kill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.jpg?1620344800|https://scryfall.com/card/afr/114/power-word-kill?utm_source=api>`"
+#: ../../AFR.rst:553
+msgid "0: You draw a card and you lose 1 life."
 msgstr ""
 
 #: ../../AFR.rst:555
+msgid "−3: Create two 2/1 black Spider creature tokens with menace and reach."
+msgstr ""
+
+#: ../../AFR.rst:557
+msgid "−8: You get an emblem with \"Whenever an opponent is dealt combat damage by one or more creatures you control, if that player lost less than 8 life this turn, they lose life equal to the difference.\""
+msgstr ""
+
+#: ../../AFR.rst:566
+msgid ":mtgtip:`Manticore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b3d9117-724a-4b67-be27-142b9c283788.jpg?1624994140|https://scryfall.com/card/afr/113/manticore?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:565
+msgid "Tail Spikes — When Manticore enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn."
+msgstr ""
+
+#: ../../AFR.rst:570
+msgid ":mtgtip:`Power Word Kill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.jpg?1620344800|https://scryfall.com/card/afr/114/power-word-kill?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:569
 msgid "Destroy target non-Angel, non-Demon, non-Devil, non-Dragon creature."
 msgstr ""
 
-#: ../../AFR.rst:564
+#: ../../AFR.rst:578
 msgid ":mtgtip:`Precipitous Drop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7293f9b4-565a-4065-940b-543f76ebecae.jpg?1625164323|https://scryfall.com/card/afr/115/precipitous-drop?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:561
+#: ../../AFR.rst:575
 msgid "When Precipitous Drop enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:563
+#: ../../AFR.rst:577
 msgid "Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon."
 msgstr ""
 
-#: ../../AFR.rst:568
-msgid ":mtgtip:`Sepulcher Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b302bc8-683f-4a26-ab86-87eaa19dce4d.jpg?1625252082|https://scryfall.com/card/afr/118/sepulcher-ghoul?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:567
-msgid "Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn."
-msgstr ""
-
-#: ../../AFR.rst:576
-msgid ":mtgtip:`Shambling Ghast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1625104234|https://scryfall.com/card/afr/119/shambling-ghast?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:571
-msgid "When Shambling Ghast dies, choose one —"
-msgstr ""
-
-#: ../../AFR.rst:573
-msgid "Brave the Stench — Target creature an opponent controls -1/-1 until end of turn."
-msgstr ""
-
-#: ../../AFR.rst:575
-msgid "Search the Body — Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
-msgstr ""
-
-#: ../../AFR.rst:582
-msgid ":mtgtip:`\"Skullport Merchant\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.jpg?1625101891|https://scryfall.com/card/afr/120/skullport-merchant?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:579
-msgid "When \"Skullport Merchant\" enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+#: ../../AFR.rst:586
+msgid ":mtgtip:`\"Talisman of Segador\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93b68168-e77d-4745-9393-726ef9fb72ec.jpg?1625268286|https://scryfall.com/card/afr/117/talisman-of-segador?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:581
-msgid "|mana_1|\\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card."
+msgid "Whenever equipped creature attacks, it gains deathtouch until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:588
-msgid ":mtgtip:`Sphere of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.jpg?1624964711|https://scryfall.com/card/afr/121/sphere-of-annihilation?utm_source=api>`"
+#: ../../AFR.rst:583
+msgid "Whenever equipped creature attacks alone, defending player loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../AFR.rst:585
-msgid "Sphere of Annihilation enters the battlefield with X void counters on it."
+msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
 
-#: ../../AFR.rst:587
-msgid "At the beginning of your upkeep, exile Sphere of Annihilation, all creatuers and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in all graveyards with mana value less than or equal to the number of void counters on it."
+#: ../../AFR.rst:590
+msgid ":mtgtip:`Sepulcher Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b302bc8-683f-4a26-ab86-87eaa19dce4d.jpg?1625252082|https://scryfall.com/card/afr/118/sepulcher-ghoul?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:596
-msgid ":mtgtip:`Vorpal Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1620369326|https://scryfall.com/card/afr/124/vorpal-sword?utm_source=api>`"
+#: ../../AFR.rst:589
+msgid "Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn."
 msgstr ""
 
-#: ../../AFR.rst:591
-msgid "Equipped creature gets +2/+0 and has deathtouch."
+#: ../../AFR.rst:598
+msgid ":mtgtip:`Shambling Ghast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1625104234|https://scryfall.com/card/afr/119/shambling-ghast?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:593
-msgid "|mana_5|\\ |mana_b|\\ |mana_b|\\ |mana_b|: Until end of turn, Vorpal Sword gains \"Whenever equipped creature deals combat damage to a player, that player loses the game.\""
+msgid "When Shambling Ghast dies, choose one —"
 msgstr ""
 
 #: ../../AFR.rst:595
-msgid "Equip |mana_b|\\ |mana_b|"
+msgid "Brave the Stench — Target creature an opponent controls -1/-1 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:610
-msgid ":mtgtip:`Warlock Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.jpg?1625247479|https://scryfall.com/card/afr/125/warlock-class?utm_source=api>`"
+#: ../../AFR.rst:597
+msgid "Search the Body — Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgstr ""
+
+#: ../../AFR.rst:604
+msgid ":mtgtip:`\"Skullport Merchant\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.jpg?1625101891|https://scryfall.com/card/afr/120/skullport-merchant?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:601
-msgid "At the beginning of your end step, if a creature died this turn, each opponent loses 1 life."
+msgid "When \"Skullport Merchant\" enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../AFR.rst:603
-msgid "|mana_1|\\ |mana_b|: Level 2"
+msgid "|mana_1|\\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card."
 msgstr ""
 
-#: ../../AFR.rst:605
-msgid "When this class becomes level 2, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
+#: ../../AFR.rst:610
+msgid ":mtgtip:`Sphere of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.jpg?1624964711|https://scryfall.com/card/afr/121/sphere-of-annihilation?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:607
-msgid "|mana_6|\\ |mana_b|: Level 3"
+msgid "Sphere of Annihilation enters the battlefield with X void counters on it."
 msgstr ""
 
 #: ../../AFR.rst:609
-msgid "At the beginning of your end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)"
+msgid "At the beginning of your upkeep, exile Sphere of Annihilation, all creatuers and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in all graveyards with mana value less than or equal to the number of void counters on it."
 msgstr ""
 
 #: ../../AFR.rst:618
-msgid ":mtgtip:`\"Moody Lord of the Night\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625252473|https://scryfall.com/card/afr/126/moody-lord-of-the-night?utm_source=api>`"
+msgid ":mtgtip:`Vorpal Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1620369326|https://scryfall.com/card/afr/124/vorpal-sword?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:613
+msgid "Equipped creature gets +2/+0 and has deathtouch."
 msgstr ""
 
 #: ../../AFR.rst:615
-msgid "Ward — Discard a card."
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|\\ |mana_b|: Until end of turn, Vorpal Sword gains \"Whenever equipped creature deals combat damage to a player, that player loses the game.\""
 msgstr ""
 
 #: ../../AFR.rst:617
-msgid "Whenever \"Moody Lord of the Night\" deals combat damage to a player, put that many +1/+1 counters on it."
+msgid "Equip |mana_b|\\ |mana_b|"
 msgstr ""
 
-#: ../../AFR.rst:624
-msgid ":mtgtip:`Wight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f62abe9c-7599-433b-a964-10d6641f3586.jpg?1625004770|https://scryfall.com/card/afr/127/wight?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:621
-msgid "Wight enters the battlefield tapped."
+#: ../../AFR.rst:632
+msgid ":mtgtip:`Warlock Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.jpg?1625265467|https://scryfall.com/card/afr/125/warlock-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:623
-msgid "Life Drain — Whenever a creature dealt damage by Wight this turn dies, create a tapped 2/2 black Zombie creature token and exile that card."
+msgid "At the beginning of your end step, if a creature died this turn, each opponent loses 1 life."
 msgstr ""
 
-#: ../../AFR.rst:630
-msgid ":mtgtip:`Yuan-Ti Fang-Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7e0e09c-ed43-4a37-85f2-c60bdfdb2624.jpg?1625102836|https://scryfall.com/card/afr/128/yuan-ti-fang-blade?utm_source=api>`"
+#: ../../AFR.rst:625
+msgid "|mana_1|\\ |mana_b|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:627
-#: ../../AFR.rst:1255
-msgid "Deathtouch"
+msgid "When this class becomes level 2, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
 
 #: ../../AFR.rst:629
-msgid "Whenever Yuan-Ti Fang-Blade deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "|mana_6|\\ |mana_b|: Level 3"
 msgstr ""
 
-#: ../../AFR.rst:634
-msgid ":mtgtip:`Zombie Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4dbed36-190c-4748-b282-409a2fb5d134.jpg?1625101734|https://scryfall.com/card/afr/129/zombie-ogre?utm_source=api>`"
+#: ../../AFR.rst:631
+msgid "At the beginning of your end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)"
 msgstr ""
 
-#: ../../AFR.rst:633
-msgid "At the beginning of your end step, if a creature died this turn, venture into the dungeon. (Enter the first room or advance to the next room.)"
+#: ../../AFR.rst:640
+msgid ":mtgtip:`\"Moody Lord of the Night\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625255543|https://scryfall.com/card/afr/126/moody-lord-of-the-night?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:648
-msgid ":mtgtip:`Barbarian Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647c2269-bdc7-4455-9158-73abbff6e50e.jpg?1625247504|https://scryfall.com/card/afr/131/barbarian-class?utm_source=api>`"
+#: ../../AFR.rst:637
+msgid "Ward — Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)"
 msgstr ""
 
 #: ../../AFR.rst:639
-msgid "If you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll."
+msgid "Whenever \"Moody Lord of the Night\" deals combat damage to a player, put that many +1/+1 counters on it."
 msgstr ""
 
-#: ../../AFR.rst:641
-msgid "|mana_1|\\ |mana_r|: Level 2"
+#: ../../AFR.rst:646
+msgid ":mtgtip:`Wight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f62abe9c-7599-433b-a964-10d6641f3586.jpg?1625004770|https://scryfall.com/card/afr/127/wight?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:643
-msgid "Whenever you roll one or more dice, target creature you control gets +2/+0 and gains menance until end of turn."
+msgid "Wight enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFR.rst:645
-msgid "|mana_2|\\ |mana_r|: Level 3"
+msgid "Life Drain — Whenever a creature dealt damage by Wight this turn dies, create a tapped 2/2 black Zombie creature token and exile that card."
 msgstr ""
 
-#: ../../AFR.rst:647
-msgid "Creatures you control have haste."
+#: ../../AFR.rst:652
+msgid ":mtgtip:`Yuan-Ti Fang-Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7e0e09c-ed43-4a37-85f2-c60bdfdb2624.jpg?1625102836|https://scryfall.com/card/afr/128/yuan-ti-fang-blade?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:654
-msgid ":mtgtip:`Battle Cry Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9766a427-2bb3-4028-a502-d1194cdc93aa.jpg?1625000773|https://scryfall.com/card/afr/132/battle-cry-goblin?utm_source=api>`"
+#: ../../AFR.rst:649
+#: ../../AFR.rst:1277
+msgid "Deathtouch"
 msgstr ""
 
 #: ../../AFR.rst:651
-msgid "|mana_1|\\ |mana_r|: Goblins you control get +1/+0 and gain haste until end of turn."
+msgid "Whenever Yuan-Ti Fang-Blade deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:653
-msgid "Pack tactics — Whenever Battle Cry Goblin attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking."
+#: ../../AFR.rst:656
+msgid ":mtgtip:`Zombie Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4dbed36-190c-4748-b282-409a2fb5d134.jpg?1625265596|https://scryfall.com/card/afr/129/zombie-ogre?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:658
-msgid ":mtgtip:`Brazen Dwarf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3658e65b-df54-4327-9104-c2f3dd65df85.jpg?1625171389|https://scryfall.com/card/afr/134/brazen-dwarf?utm_source=api>`"
+#: ../../AFR.rst:655
+msgid "At the beginning of your end step, if a creature died this turn, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:657
-msgid "Whenever you roll one or more dice, Brazen Dwarf deals 1 damage to each opponent."
-msgstr ""
-
-#: ../../AFR.rst:668
-msgid ":mtgtip:`Chaos Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b9bb587-f732-42c9-a2a7-152629889997.jpg?1625107121|https://scryfall.com/card/afr/136/chaos-channeler?utm_source=api>`"
+#: ../../AFR.rst:670
+msgid ":mtgtip:`Barbarian Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647c2269-bdc7-4455-9158-73abbff6e50e.jpg?1625265025|https://scryfall.com/card/afr/131/barbarian-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:661
-msgid "Wild Magic Surge — Whenever Chaos Channeler attacks, roll a d20."
+msgid "If you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll."
 msgstr ""
 
 #: ../../AFR.rst:663
-msgid "1-9 | Exile the top card of your library. You may play it this turn."
+msgid "|mana_1|\\ |mana_r|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:665
-msgid "10-19 | Exile the top two cards of your library. You may play them this turn."
+msgid "Whenever you roll one or more dice, target creature you control gets +2/+0 and gains menance until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:667
-msgid "20 | Exile the top three cards of your library. You may play them this turn."
+msgid "|mana_2|\\ |mana_r|: Level 3"
 msgstr ""
 
-#: ../../AFR.rst:674
-msgid ":mtgtip:`Critical Hit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2e9aaaf-0b51-4721-b75c-923892a41743.jpg?1625169959|https://scryfall.com/card/afr/137/critical-hit?utm_source=api>`"
+#: ../../AFR.rst:669
+msgid "Creatures you control have haste."
 msgstr ""
 
-#: ../../AFR.rst:671
-msgid "Target creature gains double strike until end of turn."
+#: ../../AFR.rst:676
+msgid ":mtgtip:`Battle Cry Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9766a427-2bb3-4028-a502-d1194cdc93aa.jpg?1625000773|https://scryfall.com/card/afr/132/battle-cry-goblin?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:673
-msgid "When you roll a natural 20, return Critical Hit from your graveyard to your hand. (A natural 20 is a roll that displays 20 on the die.)"
+msgid "|mana_1|\\ |mana_r|: Goblins you control get +1/+0 and gain haste until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:682
-msgid ":mtgtip:`Delina, Wild Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1625223790|https://scryfall.com/card/afr/138/delina-wild-mage?utm_source=api>`"
+#: ../../AFR.rst:675
+msgid "Pack tactics — Whenever Battle Cry Goblin attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking."
 msgstr ""
 
-#: ../../AFR.rst:677
-msgid "Whenever Delina, Wild Mage attacks, choose target creature you control, then roll a d20."
+#: ../../AFR.rst:680
+msgid ":mtgtip:`Brazen Dwarf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3658e65b-df54-4327-9104-c2f3dd65df85.jpg?1625265833|https://scryfall.com/card/afr/134/brazen-dwarf?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:679
-msgid "1-14 | Create a tapped and attacking token that's a copy of that creature except it's not legendary and it has \"Exile this creature at end of combat.\""
+msgid "Whenever you roll one or more dice, Brazen Dwarf deals 1 damage to each opponent."
 msgstr ""
 
-#: ../../AFR.rst:681
-msgid "15-20 | Create one of those tokens. You may roll again."
+#: ../../AFR.rst:690
+msgid ":mtgtip:`Chaos Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b9bb587-f732-42c9-a2a7-152629889997.jpg?1625107121|https://scryfall.com/card/afr/136/chaos-channeler?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:692
-msgid ":mtgtip:`Dueling Rapier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c304118a-c83b-490a-b0e2-721734a996ee.jpg?1624998217|https://scryfall.com/card/afr/140/dueling-rapier?utm_source=api>`"
+#: ../../AFR.rst:683
+msgid "Wild Magic Surge — Whenever Chaos Channeler attacks, roll a d20."
+msgstr ""
+
+#: ../../AFR.rst:685
+msgid "1-9 | Exile the top card of your library. You may play it this turn."
 msgstr ""
 
 #: ../../AFR.rst:687
-msgid "When Dueling Rapier enters the battlefield, attach it to target creature you control."
+msgid "10-19 | Exile the top two cards of your library. You may play them this turn."
 msgstr ""
 
 #: ../../AFR.rst:689
-msgid "Equipped creature gets +2/+0."
+msgid "20 | Exile the top three cards of your library. You may play them this turn."
 msgstr ""
 
-#: ../../AFR.rst:691
-msgid "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)"
+#: ../../AFR.rst:696
+msgid ":mtgtip:`Critical Hit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2e9aaaf-0b51-4721-b75c-923892a41743.jpg?1625169959|https://scryfall.com/card/afr/137/critical-hit?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:702
-msgid ":mtgtip:`Earth-Cult Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa05f317-b2f8-4eea-951b-0c374774764b.jpg?1625107219|https://scryfall.com/card/afr/141/earth-cult-elemental?utm_source=api>`"
+#: ../../AFR.rst:693
+msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:695
-msgid "Siege Monster — When Earth-Cult Elemental enters the battlefield, roll a d20."
+msgid "When you roll a natural 20, return Critical Hit from your graveyard to your hand. (A natural 20 is a roll that displays 20 on the die.)"
 msgstr ""
 
-#: ../../AFR.rst:697
-msgid "1-9 | Each player sacrifices a permanent."
+#: ../../AFR.rst:704
+msgid ":mtgtip:`Delina, Wild Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1625223790|https://scryfall.com/card/afr/138/delina-wild-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:699
-msgid "10-19 | Each opponent sacrifices a permanent."
+msgid "Whenever Delina, Wild Mage attacks, choose target creature you control, then roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:701
-msgid "20 | Each opponent sacrifices two permanents."
+msgid "1-14 | Create a tapped and attacking token that's a copy of that creature except it's not legendary and it has \"Exile this creature at end of combat.\""
 msgstr ""
 
-#: ../../AFR.rst:710
-msgid ":mtgtip:`Flameskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.jpg?1624988210|https://scryfall.com/card/afr/143/flameskull?utm_source=api>`"
+#: ../../AFR.rst:703
+msgid "15-20 | Create one of those tokens. You may roll again."
 msgstr ""
 
-#: ../../AFR.rst:707
-msgid "Flameskull can't block."
+#: ../../AFR.rst:714
+msgid ":mtgtip:`Dueling Rapier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c304118a-c83b-490a-b0e2-721734a996ee.jpg?1624998217|https://scryfall.com/card/afr/140/dueling-rapier?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:709
-msgid "Rejuvenation — When Flameskull dies, exile it. If you do, exile the top card of your library. Until the end of your next turn, you may play one of those cards. (If you cast Flameskull this way, you can't play the other card, and vice versa.)"
+msgid "When Dueling Rapier enters the battlefield, attach it to target creature you control."
 msgstr ""
 
-#: ../../AFR.rst:716
-msgid ":mtgtip:`Goblin Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d32b3f1b-40cb-413d-adb9-0809e4a2abdd.jpg?1625171912|https://scryfall.com/card/afr/144/goblin-javelineer?utm_source=api>`"
+#: ../../AFR.rst:711
+msgid "Equipped creature gets +2/+0."
 msgstr ""
 
 #: ../../AFR.rst:713
-#: ../../AFR.rst:745
-msgid "Haste"
+msgid "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
 
-#: ../../AFR.rst:715
-msgid "Whenever Goblin Javelineer becomes blocked, it deals 1 damage to target creature blocking it."
+#: ../../AFR.rst:724
+msgid ":mtgtip:`Earth-Cult Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa05f317-b2f8-4eea-951b-0c374774764b.jpg?1625107219|https://scryfall.com/card/afr/141/earth-cult-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:728
-msgid ":mtgtip:`Goblin Morningstar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/998f3785-c806-4848-adcb-d89ea51159c5.jpg?1625166764|https://scryfall.com/card/afr/145/goblin-morningstar?utm_source=api>`"
+#: ../../AFR.rst:717
+msgid "Siege Monster — When Earth-Cult Elemental enters the battlefield, roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:719
-msgid "Equipped creature gets +1/+0 and has trample."
+msgid "1-9 | Each player sacrifices a permanent."
 msgstr ""
 
 #: ../../AFR.rst:721
-msgid "Equip |mana_1|\\ |mana_r|"
+msgid "10-19 | Each opponent sacrifices a permanent."
 msgstr ""
 
 #: ../../AFR.rst:723
-msgid "When Goblin Morningstar enters the battlefield, roll a d20."
+msgid "20 | Each opponent sacrifices two permanents."
 msgstr ""
 
-#: ../../AFR.rst:725
-#: ../../AFR.rst:797
-msgid "1-9 | Create a 1/1 red Goblin creature token."
+#: ../../AFR.rst:732
+msgid ":mtgtip:`Flameskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.jpg?1624988210|https://scryfall.com/card/afr/143/flameskull?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:727
-msgid "10-20 | Create a 1/1 red Goblin creature token, then attach Goblin Morningstar more it."
-msgstr ""
-
-#: ../../AFR.rst:738
-msgid ":mtgtip:`Hoarding Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df39eaac-b13f-4cb3-960d-8f7a0d590663.jpg?1625171584|https://scryfall.com/card/afr/146/hoarding-ogre?utm_source=api>`"
+#: ../../AFR.rst:729
+msgid "Flameskull can't block."
 msgstr ""
 
 #: ../../AFR.rst:731
-msgid "Whenever Hoarding Ogre attacks, roll a d20."
+msgid "Rejuvenation — When Flameskull dies, exile it. If you do, exile the top card of your library. Until the end of your next turn, you may play one of those cards. (If you cast Flameskull this way, you can't play the other card, and vice versa.)"
 msgstr ""
 
-#: ../../AFR.rst:733
-msgid "1-9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+#: ../../AFR.rst:738
+msgid ":mtgtip:`Goblin Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d32b3f1b-40cb-413d-adb9-0809e4a2abdd.jpg?1625265815|https://scryfall.com/card/afr/144/goblin-javelineer?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:735
-msgid "10-19 | Create two Treasure tokens."
+#: ../../AFR.rst:767
+msgid "Haste"
 msgstr ""
 
 #: ../../AFR.rst:737
-msgid "20 | Create three Treasure tokens."
-msgstr ""
-
-#: ../../AFR.rst:742
-msgid ":mtgtip:`Hobgoblin Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7c0aa86-fd3b-4e0f-9d37-ce1ea8922243.jpg?1625004969|https://scryfall.com/card/afr/148/hobgoblin-captain?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:741
-msgid "Pack tactics — Whenever Hobgoblin Captain attacks, if you attacked with creatures with total power 6 or greater this combat, Hobgoblin Captain gains first strike until end of turn."
-msgstr ""
-
-#: ../../AFR.rst:746
-msgid ":mtgtip:`Hulking Bugbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f55d43d4-5f63-45c3-b8f8-0aebd23750a5.jpg?1625172357|https://scryfall.com/card/afr/149/hulking-bugbear?utm_source=api>`"
+msgid "Whenever Goblin Javelineer becomes blocked, it deals 1 damage to target creature blocking it."
 msgstr ""
 
 #: ../../AFR.rst:750
-msgid ":mtgtip:`Improvised Weaponry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29d5fd00-c616-4079-a91e-4da0bcaf9120.jpg?1625108176|https://scryfall.com/card/afr/150/improvised-weaponry?utm_source=api>`"
+msgid ":mtgtip:`Goblin Morningstar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/998f3785-c806-4848-adcb-d89ea51159c5.jpg?1625265745|https://scryfall.com/card/afr/145/goblin-morningstar?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:741
+msgid "Equipped creature gets +1/+0 and has trample."
+msgstr ""
+
+#: ../../AFR.rst:743
+msgid "Equip |mana_1|\\ |mana_r|"
+msgstr ""
+
+#: ../../AFR.rst:745
+msgid "When Goblin Morningstar enters the battlefield, roll a d20."
+msgstr ""
+
+#: ../../AFR.rst:747
+#: ../../AFR.rst:819
+msgid "1-9 | Create a 1/1 red Goblin creature token."
 msgstr ""
 
 #: ../../AFR.rst:749
-msgid "Improvised Weaponry deals 2 damage to any target. Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgid "10-20 | Create a 1/1 red Goblin creature token, then attach Goblin Morningstar to it."
 msgstr ""
 
-#: ../../AFR.rst:754
-msgid ":mtgtip:`Jaded Sell-Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff5219c0-fb43-47b1-b682-131ba7c70990.jpg?1625171478|https://scryfall.com/card/afr/152/jaded-sell-sword?utm_source=api>`"
+#: ../../AFR.rst:760
+msgid ":mtgtip:`Hoarding Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df39eaac-b13f-4cb3-960d-8f7a0d590663.jpg?1625171584|https://scryfall.com/card/afr/146/hoarding-ogre?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:753
-msgid "When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was spent to cast it, it gains first strike and haste until end of turn."
+msgid "Whenever Hoarding Ogre attacks, roll a d20."
 msgstr ""
 
-#: ../../AFR.rst:758
-msgid ":mtgtip:`Kick in the Door<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/222102d0-fed3-41fd-87b0-f6d22766d7fd.jpg?1625107320|https://scryfall.com/card/afr/153/kick-in-the-door?utm_source=api>`"
+#: ../../AFR.rst:755
+msgid "1-9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../AFR.rst:757
-msgid "Put a +1/+1 counter on target creature. That creature gains haste until end of turn and can't be blocked by Walls this turn. Venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "10-19 | Create two Treasure tokens."
 msgstr ""
 
-#: ../../AFR.rst:762
-msgid ":mtgtip:`Meteor Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8f5e669-4e69-4763-bbb9-e9685bde912c.jpg?1625104359|https://scryfall.com/card/afr/155/meteor-swarm?utm_source=api>`"
+#: ../../AFR.rst:759
+msgid "20 | Create three Treasure tokens."
 msgstr ""
 
-#: ../../AFR.rst:761
-msgid "Meteor Swarm deals 8 damage divided as you choose among X target creatures and/or planeswalkers."
+#: ../../AFR.rst:764
+msgid ":mtgtip:`Hobgoblin Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7c0aa86-fd3b-4e0f-9d37-ce1ea8922243.jpg?1625004969|https://scryfall.com/card/afr/148/hobgoblin-captain?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:763
+msgid "Pack tactics — Whenever Hobgoblin Captain attacks, if you attacked with creatures with total power 6 or greater this combat, Hobgoblin Captain gains first strike until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:768
-msgid ":mtgtip:`Minion of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1624964343|https://scryfall.com/card/afr/156/minion-of-the-mighty?utm_source=api>`"
+msgid ":mtgtip:`Hulking Bugbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f55d43d4-5f63-45c3-b8f8-0aebd23750a5.jpg?1625172357|https://scryfall.com/card/afr/149/hulking-bugbear?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:765
-msgid "Menace"
-msgstr ""
-
-#: ../../AFR.rst:767
-msgid "Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures wih total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking."
-msgstr ""
-
-#: ../../AFR.rst:774
-msgid ":mtgtip:`Orb of Dragonkind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a1c2cdd-353c-4747-bf0e-b995dd37ffca.jpg?1624996743|https://scryfall.com/card/afr/157/orb-of-dragonkind?utm_source=api>`"
+#: ../../AFR.rst:772
+msgid ":mtgtip:`Improvised Weaponry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29d5fd00-c616-4079-a91e-4da0bcaf9120.jpg?1625108176|https://scryfall.com/card/afr/150/improvised-weaponry?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:771
-msgid "|mana_1|, |tap|: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells or to activate abilities of Dragons."
+msgid "Improvised Weaponry deals 2 damage to any target. Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
-#: ../../AFR.rst:773
-msgid "|mana_r|, |tap|, Sacrifice Orb of Dragonkind: Look at the top seven cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+#: ../../AFR.rst:776
+msgid ":mtgtip:`Jaded Sell-Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff5219c0-fb43-47b1-b682-131ba7c70990.jpg?1625171478|https://scryfall.com/card/afr/152/jaded-sell-sword?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:782
-msgid ":mtgtip:`Plundering Barbarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1624990993|https://scryfall.com/card/afr/158/plundering-barbarian?utm_source=api>`"
+#: ../../AFR.rst:775
+msgid "When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was spent to cast it, it gains first strike and haste until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:777
-msgid "When Plundering Barbarian enters the battlefield, choose one —"
+#: ../../AFR.rst:780
+msgid ":mtgtip:`Kick in the Door<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/222102d0-fed3-41fd-87b0-f6d22766d7fd.jpg?1625107320|https://scryfall.com/card/afr/153/kick-in-the-door?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:779
-msgid "Smash the Chest — Destroy target artifact."
+msgid "Put a +1/+1 counter on target creature. That creature gains haste until end of turn and can't be blocked by Walls this turn. Venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:781
-msgid "Pry It Open — Creature a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+#: ../../AFR.rst:784
+msgid ":mtgtip:`Meteor Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8f5e669-4e69-4763-bbb9-e9685bde912c.jpg?1625265582|https://scryfall.com/card/afr/155/meteor-swarm?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:786
-msgid ":mtgtip:`Price of Loyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47634528-cc34-406a-8572-812a41d6a86a.jpg?1625251328|https://scryfall.com/card/afr/159/price-of-loyalty?utm_source=api>`"
+#: ../../AFR.rst:783
+msgid "Meteor Swarm deals 8 damage divided as you choose among X target creatures and/or planeswalkers."
 msgstr ""
 
-#: ../../AFR.rst:785
-msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If mana from a Treasure was spent to cast this spell, that creature gets +2/+0 until end of turn."
+#: ../../AFR.rst:790
+msgid ":mtgtip:`Minion of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1624964343|https://scryfall.com/card/afr/156/minion-of-the-mighty?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:792
-msgid ":mtgtip:`Red Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cf57369-b8e2-481c-89d4-c83c617499a3.jpg?1625172422|https://scryfall.com/card/afr/160/red-dragon?utm_source=api>`"
+#: ../../AFR.rst:787
+msgid "Menace"
 msgstr ""
 
-#: ../../AFR.rst:791
-msgid "Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to each opponent."
+#: ../../AFR.rst:789
+msgid "Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures wih total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking."
 msgstr ""
 
-#: ../../AFR.rst:802
-msgid ":mtgtip:`Swarming Goblins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/623c1d1b-69a4-4bc4-b388-17a7600fd960.jpg?1625172753|https://scryfall.com/card/afr/162/swarming-goblins?utm_source=api>`"
+#: ../../AFR.rst:796
+msgid ":mtgtip:`Orb of Dragonkind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a1c2cdd-353c-4747-bf0e-b995dd37ffca.jpg?1624996743|https://scryfall.com/card/afr/157/orb-of-dragonkind?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:793
+msgid "|mana_1|, |tap|: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells or to activate abilities of Dragons."
 msgstr ""
 
 #: ../../AFR.rst:795
-msgid "When Swarming Goblins enters the battlefield, roll a d20."
+msgid "|mana_r|, |tap|, Sacrifice Orb of Dragonkind: Look at the top seven cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../AFR.rst:804
+msgid ":mtgtip:`Plundering Barbarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1624990993|https://scryfall.com/card/afr/158/plundering-barbarian?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:799
-msgid "10-19 | Create two of those tokens."
+msgid "When Plundering Barbarian enters the battlefield, choose one —"
 msgstr ""
 
 #: ../../AFR.rst:801
-msgid "20 | Create three of those tokens."
+msgid "Smash the Chest — Destroy target artifact."
+msgstr ""
+
+#: ../../AFR.rst:803
+msgid "Pry It Open — Creature a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../AFR.rst:808
-msgid ":mtgtip:`\"Tiger-tribe Hunter\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e0c229-aa31-4c79-bafe-28a8d8e64c61.jpg?1625008740|https://scryfall.com/card/afr/163/tiger-tribe-hunter?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:805
-#: ../../AFR.rst:847
-#: ../../AFR.rst:985
-#: ../../AFR.rst:999
-msgid "Trample"
+msgid ":mtgtip:`Price of Loyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47634528-cc34-406a-8572-812a41d6a86a.jpg?1625251328|https://scryfall.com/card/afr/159/price-of-loyalty?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:807
-msgid "Pack tactics — Whenever \"Tiger-tribe Hunter\" attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice a creature. If you do, \"Tiger-tribe Hunter\" deals damage to target creature equal to the sacrificed creature's power."
+msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If mana from a Treasure was spent to cast this spell, that creature gets +2/+0 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:812
-msgid ":mtgtip:`\"Horny Bard\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.jpg?1624992091|https://scryfall.com/card/afr/165/horny-bard?utm_source=api>`"
+#: ../../AFR.rst:814
+msgid ":mtgtip:`Red Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cf57369-b8e2-481c-89d4-c83c617499a3.jpg?1625172422|https://scryfall.com/card/afr/160/red-dragon?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:811
-msgid "Bardic Inspiration — At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn."
+#: ../../AFR.rst:813
+msgid "Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to each opponent."
 msgstr ""
 
-#: ../../AFR.rst:816
-msgid ":mtgtip:`Wish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ed021d2-e2bc-44b3-8934-4bd02e0a42ec.jpg?1625001648|https://scryfall.com/card/afr/166/wish?utm_source=api>`"
+#: ../../AFR.rst:824
+msgid ":mtgtip:`Swarming Goblins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/623c1d1b-69a4-4bc4-b388-17a7600fd960.jpg?1625172753|https://scryfall.com/card/afr/162/swarming-goblins?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:815
-msgid "You may play a card you own from outside the game this turn."
+#: ../../AFR.rst:817
+msgid "When Swarming Goblins enters the battlefield, roll a d20."
 msgstr ""
 
-#: ../../AFR.rst:820
-msgid ":mtgtip:`Xorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1625247238|https://scryfall.com/card/afr/167/xorn?utm_source=api>`"
+#: ../../AFR.rst:821
+msgid "10-19 | Create two of those tokens."
 msgstr ""
 
-#: ../../AFR.rst:819
-msgid "If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token."
+#: ../../AFR.rst:823
+msgid "20 | Create three of those tokens."
 msgstr ""
 
-#: ../../AFR.rst:828
-msgid ":mtgtip:`You Come to the Gnoll Camp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e893613-423e-409b-9334-292bd252405b.jpg?1625104450|https://scryfall.com/card/afr/168/you-come-to-the-gnoll-camp?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:825
-msgid "Intimidate Them — Up to two target creatures can't block this turn."
+#: ../../AFR.rst:830
+msgid ":mtgtip:`\"Tiger-tribe Hunter\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e0c229-aa31-4c79-bafe-28a8d8e64c61.jpg?1625008740|https://scryfall.com/card/afr/163/tiger-tribe-hunter?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:827
-msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
+#: ../../AFR.rst:869
+#: ../../AFR.rst:1007
+#: ../../AFR.rst:1021
+msgid "Trample"
 msgstr ""
 
-#: ../../AFR.rst:836
-msgid ":mtgtip:`You Find Some Prisoners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f2a95ae-feb2-42c3-99b4-9ea7a491d326.jpg?1625106663|https://scryfall.com/card/afr/169/you-find-some-prisoners?utm_source=api>`"
+#: ../../AFR.rst:829
+msgid "Pack tactics — Whenever \"Tiger-tribe Hunter\" attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice a creature. If you do, \"Tiger-tribe Hunter\" deals damage to target creature equal to the sacrificed creature's power."
+msgstr ""
+
+#: ../../AFR.rst:834
+msgid ":mtgtip:`\"Horny Bard\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.jpg?1624992091|https://scryfall.com/card/afr/165/horny-bard?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:833
-msgid "Break Their Chains — Destroy target artifact."
+msgid "Bardic Inspiration — At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:835
-msgid "Interrogate Them — Exile the top three cards of target opponent's library. Choose one of them. Until the end of your next turn, you may play that card, and you may spend mana as through it were mana of any color to cast it."
+#: ../../AFR.rst:838
+msgid ":mtgtip:`Wish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ed021d2-e2bc-44b3-8934-4bd02e0a42ec.jpg?1625001648|https://scryfall.com/card/afr/166/wish?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:844
-msgid ":mtgtip:`You See a Pair of Goblins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b69e7200-96ea-4455-83cc-0a497d56efe5.jpg?1625004259|https://scryfall.com/card/afr/170/you-see-a-pair-of-goblins?utm_source=api>`"
+#: ../../AFR.rst:837
+msgid "You may play a card you own from outside the game this turn."
+msgstr ""
+
+#: ../../AFR.rst:842
+msgid ":mtgtip:`Xorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1625247238|https://scryfall.com/card/afr/167/xorn?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:841
-msgid "Charge Them — Creatures you control get +2/+0 until end of turn."
-msgstr ""
-
-#: ../../AFR.rst:843
-msgid "Befriend Them — Create two 1/1 red Goblin creature tokens."
+msgid "If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token."
 msgstr ""
 
 #: ../../AFR.rst:850
-msgid ":mtgtip:`Zalto, Fire Giant Duke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c6da066-accb-4c09-9acb-4de263dadad3.jpg?1625106128|https://scryfall.com/card/afr/171/zalto-fire-giant-duke?utm_source=api>`"
+msgid ":mtgtip:`You Come to the Gnoll Camp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e893613-423e-409b-9334-292bd252405b.jpg?1625104450|https://scryfall.com/card/afr/168/you-come-to-the-gnoll-camp?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:847
+msgid "Intimidate Them — Up to two target creatures can't block this turn."
 msgstr ""
 
 #: ../../AFR.rst:849
-msgid "Whenever Zalto, Fire Giant Duke is dealt damage, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:858
-msgid ":mtgtip:`Zariel, Archduke of Avernus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7be5b866-d479-4698-98b2-87a973f6b8f6.jpg?1625024615|https://scryfall.com/card/afr/172/zariel-archduke-of-avernus?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:853
-msgid "+1: Creatures you control get +1/+0 and gain haste until end of turn."
+msgid ":mtgtip:`You Find Some Prisoners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f2a95ae-feb2-42c3-99b4-9ea7a491d326.jpg?1625106663|https://scryfall.com/card/afr/169/you-find-some-prisoners?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:855
-msgid "0: Create a 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\""
+msgid "Break Their Chains — Destroy target artifact."
 msgstr ""
 
 #: ../../AFR.rst:857
-msgid "−6: You get an emblem with \"At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.\""
-msgstr ""
-
-#: ../../AFR.rst:862
-msgid ":mtgtip:`Bulette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/206a9e7b-45c1-4213-8fc4-27d90e2ab0e9.jpg?1625130240|https://scryfall.com/card/afr/173/bulette?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:861
-msgid "At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Bulette."
+msgid "Interrogate Them — Exile the top three cards of target opponent's library. Choose one of them. Until the end of your next turn, you may play that card, and you may spend mana as through it were mana of any color to cast it."
 msgstr ""
 
 #: ../../AFR.rst:866
-msgid ":mtgtip:`Bull's Strength<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/092cab70-c771-4c96-a5ce-22f2e32e3ea8.jpg?1624994345|https://scryfall.com/card/afr/174/bulls-strength?utm_source=api>`"
+msgid ":mtgtip:`You See a Pair of Goblins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b69e7200-96ea-4455-83cc-0a497d56efe5.jpg?1625004259|https://scryfall.com/card/afr/170/you-see-a-pair-of-goblins?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:863
+msgid "Charge Them — Creatures you control get +2/+0 until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:865
-msgid "Target creature gets +2/+2 and gains trample until end of turn. Untap it."
+msgid "Befriend Them — Create two 1/1 red Goblin creature tokens."
 msgstr ""
 
-#: ../../AFR.rst:874
-msgid ":mtgtip:`Choose Your Weapon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/213726e4-e2f5-4e52-b05a-21c4bab9927c.jpg?1624995816|https://scryfall.com/card/afr/175/choose-your-weapon?utm_source=api>`"
+#: ../../AFR.rst:872
+msgid ":mtgtip:`Zalto, Fire Giant Duke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c6da066-accb-4c09-9acb-4de263dadad3.jpg?1625106128|https://scryfall.com/card/afr/171/zalto-fire-giant-duke?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:871
-msgid "Two-Weapon Fighting — Double target creature's power and toughness until end of turn."
+msgid "Whenever Zalto, Fire Giant Duke is dealt damage, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:873
-msgid "Archery — This spell deals 5 damage to target creature with flying."
+#: ../../AFR.rst:880
+msgid ":mtgtip:`Zariel, Archduke of Avernus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7be5b866-d479-4698-98b2-87a973f6b8f6.jpg?1625024615|https://scryfall.com/card/afr/172/zariel-archduke-of-avernus?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:878
-msgid ":mtgtip:`Circle of Dreams Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.jpg?1624989444|https://scryfall.com/card/afr/176/circle-of-dreams-druid?utm_source=api>`"
+#: ../../AFR.rst:875
+msgid "+1: Creatures you control get +1/+0 and gain haste until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:877
-msgid "|tap|: Add |mana_g| for each creature you control."
+msgid "0: Create a 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\""
 msgstr ""
 
-#: ../../AFR.rst:882
-msgid ":mtgtip:`Dire Wolf Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.jpg?1625252891|https://scryfall.com/card/afr/179/dire-wolf-prowler?utm_source=api>`"
+#: ../../AFR.rst:879
+msgid "−6: You get an emblem with \"At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.\""
 msgstr ""
 
-#: ../../AFR.rst:881
-msgid "|mana_1|\\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn."
+#: ../../AFR.rst:884
+msgid ":mtgtip:`Bulette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/206a9e7b-45c1-4213-8fc4-27d90e2ab0e9.jpg?1625265616|https://scryfall.com/card/afr/173/bulette?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:896
-msgid ":mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1625253014|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`"
+#: ../../AFR.rst:883
+msgid "At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Bulette."
+msgstr ""
+
+#: ../../AFR.rst:888
+msgid ":mtgtip:`Bull's Strength<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/092cab70-c771-4c96-a5ce-22f2e32e3ea8.jpg?1624994345|https://scryfall.com/card/afr/174/bulls-strength?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:887
-msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
+msgid "Target creature gets +2/+2 and gains trample until end of turn. Untap it."
 msgstr ""
 
-#: ../../AFR.rst:889
-msgid "|mana_2|\\ |mana_g|: Level 2"
-msgstr ""
-
-#: ../../AFR.rst:891
-msgid "You may play an additional land on each of your turns."
+#: ../../AFR.rst:896
+msgid ":mtgtip:`Choose Your Weapon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/213726e4-e2f5-4e52-b05a-21c4bab9927c.jpg?1624995816|https://scryfall.com/card/afr/175/choose-your-weapon?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:893
-msgid "|mana_4|\\ |mana_g|: Level 3"
+msgid "Two-Weapon Fighting — Double target creature's power and toughness until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:895
-msgid "When this class becomes level 3, target land you control becomes a creature with haste and \"This creature's power and toughness are each equal to the number of lands you control.\" It's still a land."
+msgid "Archery — This spell deals 5 damage to target creature with flying."
 msgstr ""
 
-#: ../../AFR.rst:904
-msgid ":mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`"
+#: ../../AFR.rst:900
+msgid ":mtgtip:`Circle of Dreams Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.jpg?1624989444|https://scryfall.com/card/afr/176/circle-of-dreams-druid?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:899
-msgid "+1: Venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "|tap|: Add |mana_g| for each creature you control."
 msgstr ""
 
-#: ../../AFR.rst:901
-msgid "−2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order."
+#: ../../AFR.rst:904
+msgid ":mtgtip:`Dire Wolf Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.jpg?1625252891|https://scryfall.com/card/afr/179/dire-wolf-prowler?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:903
-msgid "−7: You get an emblem with \"Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.\""
-msgstr ""
-
-#: ../../AFR.rst:910
-msgid ":mtgtip:`Elturgard Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6898737-957f-44a6-bef7-fb196658176f.jpg?1625130255|https://scryfall.com/card/afr/182/elturgard-ranger?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:909
-msgid "When Elturgard Ranger enters the battlefield, create a 2/2 green Wolf creature token."
+msgid "|mana_1|\\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn."
 msgstr ""
 
 #: ../../AFR.rst:918
-msgid ":mtgtip:`Find the Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5afe37a0-ccc3-467a-b787-304465b38355.jpg?1625101513|https://scryfall.com/card/afr/183/find-the-path?utm_source=api>`"
+msgid ":mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1625265310|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:909
+msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
+msgstr ""
+
+#: ../../AFR.rst:911
+msgid "|mana_2|\\ |mana_g|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:913
-msgid "Enchant land"
+msgid "You may play an additional land on each of your turns."
 msgstr ""
 
 #: ../../AFR.rst:915
-msgid "When Find the Path enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "|mana_4|\\ |mana_g|: Level 3"
 msgstr ""
 
 #: ../../AFR.rst:917
-msgid "Enchanted land has \"|tap|: Add |mana_g|\\ |mana_g|.\""
+msgid "When this class becomes level 3, target land you control becomes a creature with haste and \"This creature's power and toughness are each equal to the number of lands you control.\" It's still a land."
 msgstr ""
 
-#: ../../AFR.rst:924
-msgid ":mtgtip:`Froghemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/728e9567-2585-4c03-99a5-3e84fd8044d2.jpg?1625106289|https://scryfall.com/card/afr/184/froghemoth?utm_source=api>`"
+#: ../../AFR.rst:926
+msgid ":mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:921
-msgid "Trample, haste"
+msgid "+1: Venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
 #: ../../AFR.rst:923
-msgid "Whenever Froghemoth deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on Froghemoth for each creature exiled this way. You gain 1 life for each noncreature card exiled this way."
+msgid "−2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../AFR.rst:928
-msgid ":mtgtip:`Gnoll Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d0634cb-e973-4f05-965e-d39b09fe57a9.jpg?1625104908|https://scryfall.com/card/afr/185/gnoll-hunter?utm_source=api>`"
+#: ../../AFR.rst:925
+msgid "−7: You get an emblem with \"Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.\""
 msgstr ""
 
-#: ../../AFR.rst:927
-msgid "Pact tactics — Whenever Gnoll Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, put a +1/+1 counter on Gnoll Hunter."
+#: ../../AFR.rst:932
+msgid ":mtgtip:`Elturgard Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6898737-957f-44a6-bef7-fb196658176f.jpg?1625130255|https://scryfall.com/card/afr/182/elturgard-ranger?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:934
-msgid ":mtgtip:`Green Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45804134-cc04-4587-9674-2c884964083d.jpg?1624998040|https://scryfall.com/card/afr/186/green-dragon?utm_source=api>`"
+#: ../../AFR.rst:931
+msgid "When Elturgard Ranger enters the battlefield, create a 2/2 green Wolf creature token."
 msgstr ""
 
-#: ../../AFR.rst:933
-msgid "Poison Breath — When Green Dragon enters the battlefield, until end of turn, whenever a creature an opponent controls is dealt damage, destroy it."
+#: ../../AFR.rst:940
+msgid ":mtgtip:`Find the Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5afe37a0-ccc3-467a-b787-304465b38355.jpg?1625101513|https://scryfall.com/card/afr/183/find-the-path?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:938
-msgid ":mtgtip:`Hill Giant Herdgorger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b69315cc-c230-4704-9d66-411f624f3e49.jpg?1625171287|https://scryfall.com/card/afr/187/hill-giant-herdgorger?utm_source=api>`"
+#: ../../AFR.rst:935
+msgid "Enchant land"
 msgstr ""
 
 #: ../../AFR.rst:937
-msgid "When Hill Giant Herdgorger enters the battlefield, you gain 3 life."
+msgid "When Find the Path enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgstr ""
+
+#: ../../AFR.rst:939
+msgid "Enchanted land has \"|tap|: Add |mana_g|\\ |mana_g|.\""
 msgstr ""
 
 #: ../../AFR.rst:946
-msgid ":mtgtip:`Hunter's Mark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62023c58-8b94-4a81-a259-a047e1edd342.jpg?1625101434|https://scryfall.com/card/afr/188/hunters-mark?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:941
-msgid "This spell costs |mana_3| less to cast if it targets a blue permanent you don't control."
+msgid ":mtgtip:`Froghemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/728e9567-2585-4c03-99a5-3e84fd8044d2.jpg?1625106289|https://scryfall.com/card/afr/184/froghemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:943
-msgid "This spell can't be countered."
+msgid "Trample, haste"
 msgstr ""
 
 #: ../../AFR.rst:945
-msgid "Target creature you control gets +1/+1 until end of turn. Then it deals damage equal to its power to target creature or planeswalker you don't control."
+msgid "Whenever Froghemoth deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on Froghemoth for each creature exiled this way. You gain 1 life for each noncreature card exiled this way."
 msgstr ""
 
-#: ../../AFR.rst:954
-msgid ":mtgtip:`Inspiring Bard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b33db66-d205-4164-b168-6084df562ebb.jpg?1624999943|https://scryfall.com/card/afr/189/inspiring-bard?utm_source=api>`"
+#: ../../AFR.rst:950
+msgid ":mtgtip:`Gnoll Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d0634cb-e973-4f05-965e-d39b09fe57a9.jpg?1625265572|https://scryfall.com/card/afr/185/gnoll-hunter?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:949
-msgid "When Inspiring Bard enters the battlefield, choose one —"
+msgid "Pack tactics — Whenever Gnoll Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, put a +1/+1 counter on Gnoll Hunter."
 msgstr ""
 
-#: ../../AFR.rst:951
-msgid "Bardic Inspiration — Target creature gets +2/+2 until end of turn."
+#: ../../AFR.rst:956
+msgid ":mtgtip:`Green Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45804134-cc04-4587-9674-2c884964083d.jpg?1624998040|https://scryfall.com/card/afr/186/green-dragon?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:953
-msgid "Song of Rest — You gain 3 life."
+#: ../../AFR.rst:955
+msgid "Poison Breath — When Green Dragon enters the battlefield, until end of turn, whenever a creature an opponent controls is dealt damage, destroy it."
 msgstr ""
 
 #: ../../AFR.rst:960
-msgid ":mtgtip:`Instrument of the Bards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d58486dc-3e78-4649-89c7-46f6210ff80f.jpg?1625166332|https://scryfall.com/card/afr/190/instrument-of-the-bards?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:957
-msgid "At the beginning of your upkeep, you may put a harmony counter on Instrument of Bards."
+msgid ":mtgtip:`Hill Giant Herdgorger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b69315cc-c230-4704-9d66-411f624f3e49.jpg?1625171287|https://scryfall.com/card/afr/187/hill-giant-herdgorger?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:959
-msgid "|mana_3|\\ |mana_g|, |tap|: Search your library for a creature card with mana value equal to the number of harmony counters on Instrument of Bards, reveal it, and put it into your hand. If that card is legendary, create a Treasure token. Then shuffle."
+msgid "When Hill Giant Herdgorger enters the battlefield, you gain 3 life."
 msgstr ""
 
-#: ../../AFR.rst:966
-msgid ":mtgtip:`Intrepid Outlander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b00777-d921-4264-9faf-5c048b656210.jpg?1625003238|https://scryfall.com/card/afr/191/intrepid-outlander?utm_source=api>`"
+#: ../../AFR.rst:968
+msgid ":mtgtip:`Hunter's Mark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62023c58-8b94-4a81-a259-a047e1edd342.jpg?1625101434|https://scryfall.com/card/afr/188/hunters-mark?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:963
+msgid "This spell costs |mana_3| less to cast if it targets a blue permanent you don't control."
 msgstr ""
 
 #: ../../AFR.rst:965
-msgid "Pack tactics — Whenever Intrepid Outlander attacks, if you attacked with creatures with total power 6 or greater this combat, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../AFR.rst:967
+msgid "Target creature you control gets +1/+1 until end of turn. Then it deals damage equal to its power to target creature or planeswalker you don't control."
 msgstr ""
 
 #: ../../AFR.rst:976
-msgid ":mtgtip:`Loathsome Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50ac66df-760d-495d-a067-13114071b7b8.jpg?1625246448|https://scryfall.com/card/afr/192/loathsome-troll?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:969
-msgid "|mana_3|\\ |mana_g|: Roll a d20. Activate only if Loathsome Troll is in your graveyard."
+msgid ":mtgtip:`Inspiring Bard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b33db66-d205-4164-b168-6084df562ebb.jpg?1624999943|https://scryfall.com/card/afr/189/inspiring-bard?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:971
-msgid "1-9 | Put Loathsome Troll on top of your library."
+msgid "When Inspiring Bard enters the battlefield, choose one —"
 msgstr ""
 
 #: ../../AFR.rst:973
-msgid "10-19 | Return Loathsome Troll to your hand."
+msgid "Bardic Inspiration — Target creature gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:975
-msgid "20 | Return Loathsome Troll to the battlefield tapped."
+msgid "Song of Rest — You gain 3 life."
 msgstr ""
 
 #: ../../AFR.rst:982
-msgid ":mtgtip:`\"Lurking Roper\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cce25d7-3f22-48ce-9428-184e661696b9.jpg?1625171798|https://scryfall.com/card/afr/194/lurking-roper?utm_source=api>`"
+msgid ":mtgtip:`Instrument of the Bards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d58486dc-3e78-4649-89c7-46f6210ff80f.jpg?1625166332|https://scryfall.com/card/afr/190/instrument-of-the-bards?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:979
-msgid "\"Lurking Roper\" doesn't untap during your untap step."
+msgid "At the beginning of your upkeep, you may put a harmony counter on Instrument of Bards."
 msgstr ""
 
 #: ../../AFR.rst:981
-msgid "Whenever you gain life, untap \"Lurking Roper\"."
+msgid "|mana_3|\\ |mana_g|, |tap|: Search your library for a creature card with mana value equal to the number of harmony counters on Instrument of Bards, reveal it, and put it into your hand. If that card is legendary, create a Treasure token. Then shuffle."
 msgstr ""
 
-#: ../../AFR.rst:990
-msgid ":mtgtip:`Ochre Jelly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f23cfb7-c6b6-4f04-abba-5b2a6117ea12.jpg?1625000900|https://scryfall.com/card/afr/196/ochre-jelly?utm_source=api>`"
+#: ../../AFR.rst:988
+msgid ":mtgtip:`Intrepid Outlander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b00777-d921-4264-9faf-5c048b656210.jpg?1625003238|https://scryfall.com/card/afr/191/intrepid-outlander?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:987
-msgid "Ochre Jelly enters the battlefield with X +1/+1 counters on it."
+msgid "Pack tactics — Whenever Intrepid Outlander attacks, if you attacked with creatures with total power 6 or greater this combat, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:989
-msgid "Split — When Ochre Jelly dies, if it had two more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. That token enters the battlefield with half that many +1/+1 counters on it, rounded down."
+#: ../../AFR.rst:998
+msgid ":mtgtip:`Loathsome Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50ac66df-760d-495d-a067-13114071b7b8.jpg?1625246448|https://scryfall.com/card/afr/192/loathsome-troll?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:996
-msgid ":mtgtip:`Old Gnawbone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1625247096|https://scryfall.com/card/afr/197/old-gnawbone?utm_source=api>`"
+#: ../../AFR.rst:991
+msgid "|mana_3|\\ |mana_g|: Roll a d20. Activate only if Loathsome Troll is in your graveyard."
+msgstr ""
+
+#: ../../AFR.rst:993
+msgid "1-9 | Put Loathsome Troll on top of your library."
 msgstr ""
 
 #: ../../AFR.rst:995
-msgid "Whenever a creature you control deals combat damage to a player, create that many Treasure tokens."
+msgid "10-19 | Return Loathsome Troll to your hand."
 msgstr ""
 
-#: ../../AFR.rst:1002
-msgid ":mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625006806|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`"
+#: ../../AFR.rst:997
+msgid "20 | Return Loathsome Troll to the battlefield tapped."
+msgstr ""
+
+#: ../../AFR.rst:1004
+msgid ":mtgtip:`\"Lurking Roper\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cce25d7-3f22-48ce-9428-184e661696b9.jpg?1625171798|https://scryfall.com/card/afr/194/lurking-roper?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1001
-msgid "Keen senses — When Owlbear enters the battlefield, draw a card."
+msgid "\"Lurking Roper\" doesn't untap during your untap step."
 msgstr ""
 
-#: ../../AFR.rst:1008
-msgid ":mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`"
+#: ../../AFR.rst:1003
+msgid "Whenever you gain life, untap \"Lurking Roper\"."
 msgstr ""
 
-#: ../../AFR.rst:1005
-msgid "When Prosperous Innkeeper enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+#: ../../AFR.rst:1012
+msgid ":mtgtip:`Ochre Jelly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f23cfb7-c6b6-4f04-abba-5b2a6117ea12.jpg?1625000900|https://scryfall.com/card/afr/196/ochre-jelly?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1007
-msgid "Whenever another creature enters the battlefield under your control, you gain 1 life."
-msgstr ""
-
-#: ../../AFR.rst:1014
-msgid ":mtgtip:`Purple Worm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e419d58b-6241-4892-9080-f6894ac7ba89.jpg?1624964555|https://scryfall.com/card/afr/201/purple-worm?utm_source=api>`"
+#: ../../AFR.rst:1009
+msgid "Ochre Jelly enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../AFR.rst:1011
-msgid "This spell costs |mana_2| less to cast if a creature died this turn."
+msgid "Split — When Ochre Jelly dies, if it had two more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. That token enters the battlefield with half that many +1/+1 counters on it, rounded down."
 msgstr ""
 
-#: ../../AFR.rst:1013
-msgid "Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)"
+#: ../../AFR.rst:1018
+msgid ":mtgtip:`Old Gnawbone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1625247096|https://scryfall.com/card/afr/197/old-gnawbone?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1030
-msgid ":mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1625250019|https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`"
+#: ../../AFR.rst:1017
+msgid "Whenever a creature you control deals combat damage to a player, create that many Treasure tokens."
 msgstr ""
 
-#: ../../AFR.rst:1019
-msgid "When Ranger Class enters the battlefield, create a 2/2 green Wolf creature token."
-msgstr ""
-
-#: ../../AFR.rst:1021
-msgid "|mana_1|\\ |mana_g|: Level 2"
+#: ../../AFR.rst:1024
+msgid ":mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625006806|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1023
-msgid "Whenever you attack, put a +1/+1 counter on target attacking creature."
+msgid "Keen senses — When Owlbear enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../AFR.rst:1025
-msgid "|mana_3| |mana_g|: Level 3"
+#: ../../AFR.rst:1030
+msgid ":mtgtip:`Prosperous Innkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1620344772|https://scryfall.com/card/afr/200/prosperous-innkeeper?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1027
-msgid "You may look at the top card of your library any time."
+msgid "When Prosperous Innkeeper enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../AFR.rst:1029
-msgid "You may cast creature spells from the top of your library."
+msgid "Whenever another creature enters the battlefield under your control, you gain 1 life."
 msgstr ""
 
-#: ../../AFR.rst:1034
-msgid ":mtgtip:`Scaled Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cb05274-5a94-44e3-889a-667cba1da033.jpg?1625246597|https://scryfall.com/card/afr/204/scaled-herbalist?utm_source=api>`"
+#: ../../AFR.rst:1036
+msgid ":mtgtip:`Purple Worm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e419d58b-6241-4892-9080-f6894ac7ba89.jpg?1624964555|https://scryfall.com/card/afr/201/purple-worm?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1033
-msgid "|tap|: You may put a land card from your hand onto the battlefield."
+msgid "This spell costs |mana_2| less to cast if a creature died this turn."
 msgstr ""
 
-#: ../../AFR.rst:1046
-msgid ":mtgtip:`\"Sylvan Shepherd\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7d608fb-35b0-498e-988a-f53986b59dd2.jpg?1625163813|https://scryfall.com/card/afr/206/sylvan-shepherd?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:1039
-msgid "Whenever \"Sylvan Shepherd\" attacks, roll a d20."
-msgstr ""
-
-#: ../../AFR.rst:1041
-msgid "1-9 | You gain 1 life."
-msgstr ""
-
-#: ../../AFR.rst:1043
-msgid "10-19 | You gain 2 life."
-msgstr ""
-
-#: ../../AFR.rst:1045
-msgid "20 | You gain 5 life."
+#: ../../AFR.rst:1035
+msgid "Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
 
 #: ../../AFR.rst:1052
-msgid ":mtgtip:`\"Tarrasque\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.jpg?1624963495|https://scryfall.com/card/afr/207/tarrasque?utm_source=api>`"
+msgid ":mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1625265387|https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1041
+msgid "When Ranger Class enters the battlefield, create a 2/2 green Wolf creature token."
+msgstr ""
+
+#: ../../AFR.rst:1043
+msgid "|mana_1|\\ |mana_g|: Level 2"
+msgstr ""
+
+#: ../../AFR.rst:1045
+msgid "Whenever you attack, put a +1/+1 counter on target attacking creature."
+msgstr ""
+
+#: ../../AFR.rst:1047
+msgid "|mana_3| |mana_g|: Level 3"
 msgstr ""
 
 #: ../../AFR.rst:1049
-msgid "If \"Tarrasque\" was cast, it has haste and ward |mana_10|."
+msgid "You may look at the top card of your library any time."
 msgstr ""
 
 #: ../../AFR.rst:1051
-msgid "Whenever \"Tarrasque\" attacks, it fights target creature defending player controls."
+msgid "You may cast creature spells from the top of your library."
 msgstr ""
 
-#: ../../AFR.rst:1060
-msgid ":mtgtip:`Varis, Silverymoon Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3bd3ea9-f06d-4df7-8b8d-ac6a0e591b09.jpg?1625106086|https://scryfall.com/card/afr/209/varis-silverymoon-ranger?utm_source=api>`"
+#: ../../AFR.rst:1056
+msgid ":mtgtip:`Scaled Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cb05274-5a94-44e3-889a-667cba1da033.jpg?1625246597|https://scryfall.com/card/afr/204/scaled-herbalist?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1055
-msgid "Reach, ward |mana_1|"
+msgid "|tap|: You may put a land card from your hand onto the battlefield."
 msgstr ""
 
-#: ../../AFR.rst:1057
-msgid "Whenever you cast a creature or planeswalker spell, venture into the dungeon. This ability triggers only once each turn. (Enter the first room or advance to the next room.)"
+#: ../../AFR.rst:1068
+msgid ":mtgtip:`\"Sylvan Shepherd\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7d608fb-35b0-498e-988a-f53986b59dd2.jpg?1625163813|https://scryfall.com/card/afr/206/sylvan-shepherd?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1059
-msgid "Whenever you complete a dungeon, create a 2/2 green Wolf creature token."
-msgstr ""
-
-#: ../../AFR.rst:1064
-msgid ":mtgtip:`Wandering Troubadour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3c7f123-31c8-469b-85e5-d20c4d21b2a0.jpg?1625163708|https://scryfall.com/card/afr/210/wandering-troubadour?utm_source=api>`"
+#: ../../AFR.rst:1061
+msgid "Whenever \"Sylvan Shepherd\" attacks, roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:1063
-msgid "At the begining of your end step, if you had a land enter the battlefield under your control this turn, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "1-9 | You gain 1 life."
 msgstr ""
 
-#: ../../AFR.rst:1070
-msgid ":mtgtip:`Werewolf Pack Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1624997178|https://scryfall.com/card/afr/211/werewolf-pack-leader?utm_source=api>`"
+#: ../../AFR.rst:1065
+msgid "10-19 | You gain 2 life."
 msgstr ""
 
 #: ../../AFR.rst:1067
-msgid "Pack tactics — Whenever Werewolf Pack Leader attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card."
+msgid "20 | You gain 5 life."
 msgstr ""
 
-#: ../../AFR.rst:1069
-msgid "|mana_3|\\ |mana_g|: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human."
+#: ../../AFR.rst:1074
+msgid ":mtgtip:`Tarrasque<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.jpg?1624963495|https://scryfall.com/card/afr/207/tarrasque?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1080
-msgid ":mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625102937|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`"
+#: ../../AFR.rst:1071
+msgid "If Tarrasque was cast, it has haste and ward |mana_10|."
 msgstr ""
 
-#: ../../AFR.rst:1075
-msgid "Smash it — Destroy target artifact."
+#: ../../AFR.rst:1073
+msgid "Whenever Tarrasque attacks, it fights target creature defending player controls."
+msgstr ""
+
+#: ../../AFR.rst:1082
+msgid ":mtgtip:`Varis, Silverymoon Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3bd3ea9-f06d-4df7-8b8d-ac6a0e591b09.jpg?1625106086|https://scryfall.com/card/afr/209/varis-silverymoon-ranger?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1077
-msgid "Life the Curse — Destroy target enchantment."
+msgid "Reach, ward |mana_1|"
 msgstr ""
 
 #: ../../AFR.rst:1079
-msgid "Steal Its Eyes — Create an Treasure token and venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "Whenever you cast a creature or planeswalker spell, venture into the dungeon. This ability triggers only once each turn. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1088
-msgid ":mtgtip:`You Happen On a Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9ae7693-a6b5-42f8-9f05-c0643b95a710.jpg?1625104646|https://scryfall.com/card/afr/214/you-happen-on-a-glade?utm_source=api>`"
+#: ../../AFR.rst:1081
+msgid "Whenever you complete a dungeon, create a 2/2 green Wolf creature token."
+msgstr ""
+
+#: ../../AFR.rst:1086
+msgid ":mtgtip:`Wandering Troubadour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3c7f123-31c8-469b-85e5-d20c4d21b2a0.jpg?1625163708|https://scryfall.com/card/afr/210/wandering-troubadour?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1085
-msgid "Journey On — Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle."
+msgid "At the begining of your end step, if you had a land enter the battlefield under your control this turn, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1087
-msgid "Make Camp — Return target permanent card from your graveyard to your hand."
+#: ../../AFR.rst:1092
+msgid ":mtgtip:`Werewolf Pack Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1624997178|https://scryfall.com/card/afr/211/werewolf-pack-leader?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1096
-msgid ":mtgtip:`You Meet in a Tavern<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/593aa59a-4025-4df8-9f27-188fc7712fde.jpg?1625253264|https://scryfall.com/card/afr/215/you-meet-in-a-tavern?utm_source=api>`"
+#: ../../AFR.rst:1089
+msgid "Pack tactics — Whenever Werewolf Pack Leader attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card."
 msgstr ""
 
-#: ../../AFR.rst:1093
-msgid "Form a Party — Look at the top five cards of your library. You may reveal any number of creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order."
+#: ../../AFR.rst:1091
+msgid "|mana_3|\\ |mana_g|: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human."
 msgstr ""
 
-#: ../../AFR.rst:1095
-msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
+#: ../../AFR.rst:1102
+msgid ":mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625265728|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1100
-msgid ":mtgtip:`Adult Gold Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67a76010-d932-4727-8b5e-b8e2d14e1362.jpg?1624997941|https://scryfall.com/card/afr/216/adult-gold-dragon?utm_source=api>`"
+#: ../../AFR.rst:1097
+msgid "Smash It — Destroy target artifact."
 msgstr ""
 
 #: ../../AFR.rst:1099
-msgid "Flying, lifelink, haste"
+msgid "Lift the Curse — Destroy target enchantment."
 msgstr ""
 
-#: ../../AFR.rst:1114
-msgid ":mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625247733|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`"
+#: ../../AFR.rst:1101
+msgid "Steal Its Eyes — Create an Treasure token and venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1105
-msgid "Legendary creatures you control enter the battlefield with an additional +1/+1 counter on them."
+#: ../../AFR.rst:1110
+msgid ":mtgtip:`You Happen On a Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9ae7693-a6b5-42f8-9f05-c0643b95a710.jpg?1625104646|https://scryfall.com/card/afr/214/you-happen-on-a-glade?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1107
-msgid "|mana_r|\\ |mana_g|: Level 2"
+msgid "Journey On — Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
 #: ../../AFR.rst:1109
-msgid "Legendary spells you cast cost |mana_r|\\ |mana_g| less to cast. This effect reduces only the amount of colored mana you pay."
+msgid "Make Camp — Return target permanent card from your graveyard to your hand."
 msgstr ""
 
-#: ../../AFR.rst:1111
-msgid "|mana_3|\\ |mana_r|\\ |mana_g|: Level 3"
+#: ../../AFR.rst:1118
+msgid ":mtgtip:`You Meet in a Tavern<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/593aa59a-4025-4df8-9f27-188fc7712fde.jpg?1625253264|https://scryfall.com/card/afr/215/you-meet-in-a-tavern?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1113
-msgid "Whenever you cast a legendary spell, exile the top two cards of your library. You may play them this turn."
-msgstr ""
-
-#: ../../AFR.rst:1120
-msgid ":mtgtip:`Barrowin of Clan Undurr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6896c311-5593-4437-b945-43ade9665e43.jpg?1625107991|https://scryfall.com/card/afr/218/barrowin-of-clan-undurr?utm_source=api>`"
+#: ../../AFR.rst:1115
+msgid "Form a Party — Look at the top five cards of your library. You may reveal any number of creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../AFR.rst:1117
-msgid "When Barrowin of Clan Undurr enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:1119
-msgid "Whenever Barrowin of Clan Undurr attacks, return up to one creature card with mana value 3 or less from your graveyard to the battlefield if you've completed a dungeon."
+#: ../../AFR.rst:1122
+msgid ":mtgtip:`Adult Gold Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67a76010-d932-4727-8b5e-b8e2d14e1362.jpg?1624997941|https://scryfall.com/card/afr/216/adult-gold-dragon?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1126
-msgid ":mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1624735009|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`"
+#: ../../AFR.rst:1121
+msgid "Flying, lifelink, haste"
 msgstr ""
 
-#: ../../AFR.rst:1123
-msgid "Each creature you control gets +2/+0 for each Equipment attached to it."
+#: ../../AFR.rst:1136
+msgid ":mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625265261|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1125
-msgid "You may pay |mana_0| rather than pay the equip cost of the first equip ability you activate each turn."
-msgstr ""
-
-#: ../../AFR.rst:1134
-msgid ":mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1621816003|https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`"
+#: ../../AFR.rst:1127
+msgid "Legendary creatures you control enter the battlefield with an additional +1/+1 counter on them."
 msgstr ""
 
 #: ../../AFR.rst:1129
-msgid "Double strike"
+msgid "|mana_r|\\ |mana_g|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:1131
-msgid "When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary 4/1 green Cat creature token with trample."
+msgid "Legendary spells you cast cost |mana_r|\\ |mana_g| less to cast. This effect reduces only the amount of colored mana you pay."
 msgstr ""
 
 #: ../../AFR.rst:1133
-msgid "Whenever a creature dies, if it had power greater than Drizzt's power, put a number of +1/+1 counters on Drizzt equal to the difference."
+msgid "|mana_3|\\ |mana_r|\\ |mana_g|: Level 3"
 msgstr ""
 
-#: ../../AFR.rst:1138
-msgid ":mtgtip:`\"Farideh, Chosen By Devils\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b2ff142-029b-4446-960a-2ff200fb9aee.jpg?1625110275|https://scryfall.com/card/afr/221/farideh-chosen-by-devils?utm_source=api>`"
+#: ../../AFR.rst:1135
+msgid "Whenever you cast a legendary spell, exile the top two cards of your library. You may play them this turn."
 msgstr ""
 
-#: ../../AFR.rst:1137
-msgid "Dark One's Own Luck — Whenever you roll one or more dice, \"Farideh, Chosen By Devils\" gains menace and flying until end of turn. If any of those die rolls are 10 or more, draw a card."
+#: ../../AFR.rst:1142
+msgid ":mtgtip:`Barrowin of Clan Undurr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6896c311-5593-4437-b945-43ade9665e43.jpg?1625107991|https://scryfall.com/card/afr/218/barrowin-of-clan-undurr?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1152
-msgid ":mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1625250312|https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`"
+#: ../../AFR.rst:1139
+msgid "When Barrowin of Clan Undurr enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1143
-msgid "When Fighter Class enters the battlefield, search your library for an Equipment card, reveal it, put it into your hand, then shuffle."
+#: ../../AFR.rst:1141
+msgid "Whenever Barrowin of Clan Undurr attacks, return up to one creature card with mana value 3 or less from your graveyard to the battlefield if you've completed a dungeon."
+msgstr ""
+
+#: ../../AFR.rst:1148
+msgid ":mtgtip:`Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.jpg?1624735009|https://scryfall.com/card/afr/219/bruenor-battlehammer?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1145
-msgid "|mana_1|\\ |mana_r|\\ |mana_w|: Level 2"
+msgid "Each creature you control gets +2/+0 for each Equipment attached to it."
 msgstr ""
 
 #: ../../AFR.rst:1147
-msgid "Equip abilities you activate cost |mana_2| less to activate."
-msgstr ""
-
-#: ../../AFR.rst:1149
-msgid "|mana_3|\\ |mana_r|\\ |mana_w|: Level 3"
-msgstr ""
-
-#: ../../AFR.rst:1151
-msgid "Whenever a creature you control attacks, up to one target creature blocks it this combat if able."
+msgid "You may pay |mana_0| rather than pay the equip cost of the first equip ability you activate each turn."
 msgstr ""
 
 #: ../../AFR.rst:1156
-msgid ":mtgtip:`Gretchen Titchwillow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c8b248e-1460-4650-9721-85c134c21b89.jpg?1625186332|https://scryfall.com/card/afr/223/gretchen-titchwillow?utm_source=api>`"
+msgid ":mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1621816003|https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1151
+msgid "Double strike"
+msgstr ""
+
+#: ../../AFR.rst:1153
+msgid "When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary 4/1 green Cat creature token with trample."
 msgstr ""
 
 #: ../../AFR.rst:1155
-msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Draw a card. You may put a land card from your hand onto the battlefield."
+msgid "Whenever a creature dies, if it had power greater than Drizzt's power, put a number of +1/+1 counters on Drizzt equal to the difference."
 msgstr ""
 
 #: ../../AFR.rst:1160
-msgid ":mtgtip:`Hama Pashar, Ruin Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020.jpg?1625119518|https://scryfall.com/card/afr/224/hama-pashar-ruin-seeker?utm_source=api>`"
+msgid ":mtgtip:`\"Farideh, Chosen By Devils\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b2ff142-029b-4446-960a-2ff200fb9aee.jpg?1625110275|https://scryfall.com/card/afr/221/farideh-chosen-by-devils?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1159
-msgid "Room abilities of dungeons your own trigger an additional time."
+msgid "Dark One's Own Luck — Whenever you roll one or more dice, \"Farideh, Chosen By Devils\" gains menace and flying until end of turn. If any of those die rolls are 10 or more, draw a card."
 msgstr ""
 
-#: ../../AFR.rst:1166
-msgid ":mtgtip:`Kalain, Reclusive Painter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e45e9552-7737-4c61-89b0-5a3bec3c8f34.jpg?1625172594|https://scryfall.com/card/afr/225/kalain-reclusive-painter?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:1163
-msgid "When Kalain, Reclusive Painter enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+#: ../../AFR.rst:1174
+msgid ":mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1625265109|https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1165
-msgid "Other creatures you control enter the battlefield with an additional +1/+1 counter on them for each mana from a Treasure spent to cast them."
+msgid "When Fighter Class enters the battlefield, search your library for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../AFR.rst:1172
-msgid ":mtgtip:`\"Krydle of Baldur's Gate\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1625025311|https://scryfall.com/card/afr/226/krydle-of-baldurs-gate?utm_source=api>`"
+#: ../../AFR.rst:1167
+msgid "|mana_1|\\ |mana_r|\\ |mana_w|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:1169
-msgid "Whenever \"Krydle of Baldur's Gate\" deals combat damage to a player, that player loses 1 life and mills a card. You gain 1 life and scry 1."
+msgid "Equip abilities you activate cost |mana_2| less to activate."
 msgstr ""
 
 #: ../../AFR.rst:1171
-msgid "Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn."
+msgid "|mana_3|\\ |mana_r|\\ |mana_w|: Level 3"
+msgstr ""
+
+#: ../../AFR.rst:1173
+msgid "Whenever a creature you control attacks, up to one target creature blocks it this combat if able."
 msgstr ""
 
 #: ../../AFR.rst:1178
-msgid ":mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1625249563|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:1175
-msgid "When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste."
+msgid ":mtgtip:`Gretchen Titchwillow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c8b248e-1460-4650-9721-85c134c21b89.jpg?1625186332|https://scryfall.com/card/afr/223/gretchen-titchwillow?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1177
-msgid "|mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only a sorcery."
+msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Draw a card. You may put a land card from your hand onto the battlefield."
 msgstr ""
 
-#: ../../AFR.rst:1192
-msgid ":mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625252214|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`"
+#: ../../AFR.rst:1182
+msgid ":mtgtip:`Hama Pashar, Ruin Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020.jpg?1625265563|https://scryfall.com/card/afr/224/hama-pashar-ruin-seeker?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1183
-msgid "The second spell you cast each turn costs |mana_1| less to cast."
+#: ../../AFR.rst:1181
+msgid "Room abilities of dungeons you own trigger an additional time."
+msgstr ""
+
+#: ../../AFR.rst:1188
+msgid ":mtgtip:`Kalain, Reclusive Painter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e45e9552-7737-4c61-89b0-5a3bec3c8f34.jpg?1625172594|https://scryfall.com/card/afr/225/kalain-reclusive-painter?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1185
-msgid "|mana_w|\\ |mana_u|: Level 2"
+msgid "When Kalain, Reclusive Painter enters the battlefield, create a Treasure token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
 
 #: ../../AFR.rst:1187
-msgid "When this Class becomes level 2, return up to one target nonalnd permanent to its owner's hand."
+msgid "Other creatures you control enter the battlefield with an additional +1/+1 counter on them for each mana from a Treasure spent to cast them."
 msgstr ""
 
-#: ../../AFR.rst:1189
-msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Level 3"
+#: ../../AFR.rst:1194
+msgid ":mtgtip:`\"Krydle of Baldur's Gate\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.jpg?1625025311|https://scryfall.com/card/afr/226/krydle-of-baldurs-gate?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1191
-msgid "At the beginning of your upkeep, exile the top card of your library. For as long as it remains exiled, it has \"You may cast this card from exile as long as you've cast another spell this turn.\""
+msgid "Whenever \"Krydle of Baldur's Gate\" deals combat damage to a player, that player loses 1 life and mills a card. You gain 1 life and scry 1."
 msgstr ""
 
-#: ../../AFR.rst:1202
-msgid ":mtgtip:`Orcus, Prince of Undeath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91f5c6d3-fb04-4a2e-87b6-9ed2314085a8.jpg?1625163139|https://scryfall.com/card/afr/229/orcus-prince-of-undeath?utm_source=api>`"
+#: ../../AFR.rst:1193
+msgid "Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn."
 msgstr ""
 
-#: ../../AFR.rst:1195
-msgid "Flying, trample"
+#: ../../AFR.rst:1200
+msgid ":mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1625249563|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1197
-msgid "When Orcus, Prince of Undeath enters the battlefield, choose one —"
+msgid "When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste."
 msgstr ""
 
 #: ../../AFR.rst:1199
-msgid "Each other creature gets -X/-X until end of turn. You lose X life."
+msgid "|mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only a sorcery."
 msgstr ""
 
-#: ../../AFR.rst:1201
-msgid "Return up to X target creature cards with total mana value X or less from your graveyard to the battlefield. They gain haste until end of turn."
+#: ../../AFR.rst:1214
+msgid ":mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625265150|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1216
-msgid ":mtgtip:`Rogue Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0727f65b-cfbe-47d5-87c6-239cf8d93ca6.jpg?1625250754|https://scryfall.com/card/afr/230/rogue-class?utm_source=api>`"
+#: ../../AFR.rst:1205
+msgid "The second spell you cast each turn costs |mana_1| less to cast."
 msgstr ""
 
 #: ../../AFR.rst:1207
-msgid "Whenever a creature you controls deals combat damage to a player, exile the top card of that player's library face down. You may look at it for as long as it remains exiled."
+msgid "|mana_w|\\ |mana_u|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:1209
-msgid "|mana_1|\\ |mana_u|\\ |mana_b|: Level 2"
+msgid "When this Class becomes level 2, return up to one target nonalnd permanent to its owner's hand."
 msgstr ""
 
 #: ../../AFR.rst:1211
-msgid "Creatures you control have menace."
+msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Level 3"
 msgstr ""
 
 #: ../../AFR.rst:1213
-msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Level 3"
+msgid "At the beginning of your upkeep, exile the top card of your library. For as long as it remains exiled, it has \"You may cast this card from exile as long as you've cast another spell this turn.\""
 msgstr ""
 
-#: ../../AFR.rst:1215
-msgid "You may play cards exiled with Rogue Class, and you may spend mana as through it were mana of any color to cast them."
+#: ../../AFR.rst:1224
+msgid ":mtgtip:`Orcus, Prince of Undeath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91f5c6d3-fb04-4a2e-87b6-9ed2314085a8.jpg?1625163139|https://scryfall.com/card/afr/229/orcus-prince-of-undeath?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1222
-msgid ":mtgtip:`Shessra, Death's Whisper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60ca5fef-af21-4e2b-9efa-61e08a638a1f.jpg?1625105043|https://scryfall.com/card/afr/231/shessra-deaths-whisper?utm_source=api>`"
+#: ../../AFR.rst:1217
+msgid "Flying, trample"
 msgstr ""
 
 #: ../../AFR.rst:1219
-msgid "Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able."
+msgid "When Orcus, Prince of Undeath enters the battlefield, choose one —"
 msgstr ""
 
 #: ../../AFR.rst:1221
-msgid "Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card."
+msgid "Each other creature gets -X/-X until end of turn. You lose X life."
 msgstr ""
 
-#: ../../AFR.rst:1236
-msgid ":mtgtip:`Sorcerer Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f754b385-a28d-48de-a91f-2b4f33cc47f7.jpg?1625250793|https://scryfall.com/card/afr/233/sorcerer-class?utm_source=api>`"
+#: ../../AFR.rst:1223
+msgid "Return up to X target creature cards with total mana value X or less from your graveyard to the battlefield. They gain haste until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:1227
-msgid "When Sorcerer Class enters the battlefield, draw two cards, then discard two cards."
+#: ../../AFR.rst:1238
+msgid ":mtgtip:`Rogue Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0727f65b-cfbe-47d5-87c6-239cf8d93ca6.jpg?1625265432|https://scryfall.com/card/afr/230/rogue-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1229
-msgid "|mana_u|\\ |mana_r|: Level 2"
+msgid "Whenever a creature you controls deals combat damage to a player, exile the top card of that player's library face down. You may look at it for as long as it remains exiled."
 msgstr ""
 
 #: ../../AFR.rst:1231
-msgid "Creatures you control have \"|tap|: Add |mana_u| or |mana_r|. Spend this mana only to cast an instant or sorcery spell or to gain a Class level.\""
+msgid "|mana_1|\\ |mana_u|\\ |mana_b|: Level 2"
 msgstr ""
 
 #: ../../AFR.rst:1233
-msgid "|mana_3|\\ |mana_u|\\ |mana_r|: Level 3"
+msgid "Creatures you control have menace."
 msgstr ""
 
 #: ../../AFR.rst:1235
-msgid "Whenever you cast an instant or sorcery spell, that spell deals damage to each opponent equal to the number of instant or sorcery spells you've cast this turn."
+msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Level 3"
 msgstr ""
 
-#: ../../AFR.rst:1242
-msgid ":mtgtip:`Targ Nar, Demon-Fang Gnoll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fe57856-9d35-470e-9138-360b02ac0c90.jpg?1625098804|https://scryfall.com/card/afr/234/targ-nar-demon-fang-gnoll?utm_source=api>`"
+#: ../../AFR.rst:1237
+msgid "You may play cards exiled with Rogue Class, and you may spend mana as through it were mana of any color to cast them."
 msgstr ""
 
-#: ../../AFR.rst:1239
-msgid "Pack tactics — Whenever Targ Nar, Demon-Fang Gnoll attacks, if you attacked with creatures with total power 6 or greater this combat, attacking creatures get +1/+0 until end of turn."
+#: ../../AFR.rst:1244
+msgid ":mtgtip:`Shessra, Death's Whisper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60ca5fef-af21-4e2b-9efa-61e08a638a1f.jpg?1625105043|https://scryfall.com/card/afr/231/shessra-deaths-whisper?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1241
-msgid "|mana_2|\\ |mana_r|\\ |mana_g|: Double Targ Nar's power and toughness until end of turn."
+msgid "Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able."
 msgstr ""
 
-#: ../../AFR.rst:1248
-msgid ":mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1624735061|https://scryfall.com/card/afr/235/tiamat?utm_source=api>`"
+#: ../../AFR.rst:1243
+msgid "Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card."
 msgstr ""
 
-#: ../../AFR.rst:1247
-msgid "When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle."
+#: ../../AFR.rst:1258
+msgid ":mtgtip:`Sorcerer Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f754b385-a28d-48de-a91f-2b4f33cc47f7.jpg?1625265180|https://scryfall.com/card/afr/233/sorcerer-class?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1252
-msgid ":mtgtip:`Trelasarra Moon Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.jpg?1624941354|https://scryfall.com/card/afr/236/trelasarra-moon-dancer?utm_source=api>`"
+#: ../../AFR.rst:1249
+msgid "When Sorcerer Class enters the battlefield, draw two cards, then discard two cards."
 msgstr ""
 
 #: ../../AFR.rst:1251
-msgid "Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and scry 1."
+msgid "|mana_u|\\ |mana_r|: Level 2"
 msgstr ""
 
-#: ../../AFR.rst:1260
-msgid ":mtgtip:`Triumphant Adventurer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/214d3167-4eea-42a1-a464-ddff59843142.jpg?1625106795|https://scryfall.com/card/afr/237/triumphant-adventurer?utm_source=api>`"
+#: ../../AFR.rst:1253
+msgid "Creatures you control have \"|tap|: Add |mana_u| or |mana_r|. Spend this mana only to cast an instant or sorcery spell or to gain a Class level.\""
+msgstr ""
+
+#: ../../AFR.rst:1255
+msgid "|mana_3|\\ |mana_u|\\ |mana_r|: Level 3"
 msgstr ""
 
 #: ../../AFR.rst:1257
-msgid "As long as it's your turn, Triumphant Adventurer has first strike."
-msgstr ""
-
-#: ../../AFR.rst:1259
-msgid "Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)"
+msgid "Whenever you cast an instant or sorcery spell, that spell deals damage to each opponent equal to the number of instant or sorcery spells you've cast this turn."
 msgstr ""
 
 #: ../../AFR.rst:1264
-msgid ":mtgtip:`Volo, Guide to Monsters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9ae01f9-7461-47b4-aa1e-93bd6ff1bf9e.jpg?1625166416|https://scryfall.com/card/afr/238/volo-guide-to-monsters?utm_source=api>`"
+msgid ":mtgtip:`Targ Nar, Demon-Fang Gnoll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fe57856-9d35-470e-9138-360b02ac0c90.jpg?1625098804|https://scryfall.com/card/afr/234/targ-nar-demon-fang-gnoll?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1261
+msgid "Pack tactics — Whenever Targ Nar, Demon-Fang Gnoll attacks, if you attacked with creatures with total power 6 or greater this combat, attacking creatures get +1/+0 until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:1263
-msgid "Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)"
+msgid "|mana_2|\\ |mana_r|\\ |mana_g|: Double Targ Nar's power and toughness until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:1268
-msgid ":mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1625106344|https://scryfall.com/card/afr/239/xanathar-guild-kingpin?utm_source=api>`"
+#: ../../AFR.rst:1270
+msgid ":mtgtip:`Tiamat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.jpg?1624735061|https://scryfall.com/card/afr/235/tiamat?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1267
-msgid "At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look atthe top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way."
+#: ../../AFR.rst:1269
+msgid "When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle."
 msgstr ""
 
-#: ../../AFR.rst:1276
-msgid ":mtgtip:`Bag of Holding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ea5e4e9-491b-4c80-8801-f4cd5225c601.jpg?1625171848|https://scryfall.com/card/afr/240/bag-of-holding?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:1271
-msgid "Whenever you discard a card, exile that card from your graveyard."
+#: ../../AFR.rst:1274
+msgid ":mtgtip:`Trelasarra Moon Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.jpg?1624941354|https://scryfall.com/card/afr/236/trelasarra-moon-dancer?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1273
-msgid "|mana_2|, |tap|: Draw a card, then discard a card."
+msgid "Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and scry 1."
 msgstr ""
 
-#: ../../AFR.rst:1275
-msgid "|mana_4|, |tap|, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand."
-msgstr ""
-
-#: ../../AFR.rst:1286
-msgid ":mtgtip:`The Deck of Many Things<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feddbdc6-0757-43cb-bb41-dc83c6cf42ea.jpg?1625166642|https://scryfall.com/card/afr/241/the-deck-of-many-things?utm_source=api>`"
+#: ../../AFR.rst:1282
+msgid ":mtgtip:`Triumphant Adventurer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/214d3167-4eea-42a1-a464-ddff59843142.jpg?1625106795|https://scryfall.com/card/afr/237/triumphant-adventurer?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1279
-msgid "|mana_2|, |tap|: Roll a d20 and subtract the number of cards in your hand. If the result is 0 or less, discard your hand."
+msgid "As long as it's your turn, Triumphant Adventurer has first strike."
 msgstr ""
 
 #: ../../AFR.rst:1281
-msgid "1-9 | Return a card at random from your graveyard to your hand."
+msgid "Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1283
-msgid "10-19 | Draw two cards."
+#: ../../AFR.rst:1286
+msgid ":mtgtip:`Volo, Guide to Monsters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9ae01f9-7461-47b4-aa1e-93bd6ff1bf9e.jpg?1625166416|https://scryfall.com/card/afr/238/volo-guide-to-monsters?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1285
-msgid "20 | Put a creature card from any graveyard onto the battlefield under your control. When that creature dies, its owner loses the game."
+msgid "Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)"
 msgstr ""
 
-#: ../../AFR.rst:1292
-msgid ":mtgtip:`Dungeon Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/028506ad-ad36-44e5-b488-d038e2d2445f.jpg?1625107447|https://scryfall.com/card/afr/242/dungeon-map?utm_source=api>`"
+#: ../../AFR.rst:1290
+msgid ":mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1625106344|https://scryfall.com/card/afr/239/xanathar-guild-kingpin?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1289
-#: ../../AFR.rst:1349
-msgid "|tap|: Add |colorless|."
+msgid "At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look atthe top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way."
 msgstr ""
 
-#: ../../AFR.rst:1291
-msgid "|mana_3|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)"
+#: ../../AFR.rst:1298
+msgid ":mtgtip:`Bag of Holding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ea5e4e9-491b-4c80-8801-f4cd5225c601.jpg?1625171848|https://scryfall.com/card/afr/240/bag-of-holding?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1300
-msgid ":mtgtip:`Fifty Feet of Rope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba7ebe7b-732f-4245-a194-e087c3878f61.jpg?1624996265|https://scryfall.com/card/afr/244/fifty-feet-of-rope?utm_source=api>`"
+#: ../../AFR.rst:1293
+msgid "Whenever you discard a card, exile that card from your graveyard."
 msgstr ""
 
 #: ../../AFR.rst:1295
-msgid "Climb Over — |tap|: Target Wall can't block this turn."
+msgid "|mana_2|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../AFR.rst:1297
-msgid "Tie Up — |mana_3|, |tap|: Target creature doesn't untap during its controller's next untap step."
+msgid "|mana_4|, |tap|, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand."
 msgstr ""
 
-#: ../../AFR.rst:1299
-msgid "Rappel Down — |mana_4|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)"
+#: ../../AFR.rst:1308
+msgid ":mtgtip:`The Deck of Many Things<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feddbdc6-0757-43cb-bb41-dc83c6cf42ea.jpg?1625166642|https://scryfall.com/card/afr/241/the-deck-of-many-things?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1306
-msgid ":mtgtip:`Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9da96aab-cf84-4150-b9d0-a4b84fcf585f.jpg?1624988576|https://scryfall.com/card/afr/249/mimic?utm_source=api>`"
+#: ../../AFR.rst:1301
+msgid "|mana_2|, |tap|: Roll a d20 and subtract the number of cards in your hand. If the result is 0 or less, discard your hand."
 msgstr ""
 
 #: ../../AFR.rst:1303
-msgid "|tap|, Sacrifice Mimic: Add one mana of any color."
+msgid "1-9 | Return a card at random from your graveyard to your hand."
 msgstr ""
 
 #: ../../AFR.rst:1305
-msgid "|mana_2|: Mimic becomes a Shapeshifter artifact creature with base power and toughness 3/3 until end of turn."
+msgid "10-19 | Draw two cards."
 msgstr ""
 
-#: ../../AFR.rst:1316
-msgid ":mtgtip:`Spike Pit Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59fbf45a-23b4-4d06-abd9-4cc3895cb29d.jpg?1625110414|https://scryfall.com/card/afr/251/spike-pit-trap?utm_source=api>`"
+#: ../../AFR.rst:1307
+msgid "20 | Put a creature card from any graveyard onto the battlefield under your control. When that creature dies, its owner loses the game."
+msgstr ""
+
+#: ../../AFR.rst:1314
+msgid ":mtgtip:`Dungeon Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/028506ad-ad36-44e5-b488-d038e2d2445f.jpg?1625265553|https://scryfall.com/card/afr/242/dungeon-map?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1311
-msgid "|mana_5|, |tap|, Sacrifice Spike Pit Trap: Choose target creature, then roll a d20."
+#: ../../AFR.rst:1371
+#: ../../AFR.rst:1397
+msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../AFR.rst:1313
-msgid "1-9 | Spiked Pit Trap deals 5 damage to that creature."
+msgid "|mana_3|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1315
-msgid "10-20 | Spike Pit Trap deals 5 damage to that creature. Create a Treasure token."
+#: ../../AFR.rst:1322
+msgid ":mtgtip:`Fifty Feet of Rope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba7ebe7b-732f-4245-a194-e087c3878f61.jpg?1624996265|https://scryfall.com/card/afr/244/fifty-feet-of-rope?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1328
-msgid ":mtgtip:`Treasure Chest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1625170023|https://scryfall.com/card/afr/252/treasure-chest?utm_source=api>`"
+#: ../../AFR.rst:1317
+msgid "Climb Over — |tap|: Target Wall can't block this turn."
 msgstr ""
 
 #: ../../AFR.rst:1319
-msgid "|mana_4|, Sacrifice Treasure Chest: Roll a d20."
+msgid "Tie Up — |mana_3|, |tap|: Target creature doesn't untap during its controller's next untap step."
 msgstr ""
 
 #: ../../AFR.rst:1321
-msgid "1 | Trapped! — You lose 3 life."
+msgid "Rappel Down — |mana_4|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1323
-msgid "2-9 | Create five Treasure tokens."
+#: ../../AFR.rst:1328
+msgid ":mtgtip:`Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9da96aab-cf84-4150-b9d0-a4b84fcf585f.jpg?1624988576|https://scryfall.com/card/afr/249/mimic?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1325
-msgid "10-19 | You gain 3 life and draw three cards."
+msgid "|tap|, Sacrifice Mimic: Add one mana of any color."
 msgstr ""
 
 #: ../../AFR.rst:1327
-msgid "20 | Search your library for a card. If it's an artifact card you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle."
+msgid "|mana_2|: Mimic becomes a Shapeshifter artifact creature with base power and toughness 3/3 until end of turn."
 msgstr ""
 
-#: ../../AFR.rst:1336
-msgid ":mtgtip:`Cave of the Frost Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb41396-5008-4a5f-92ca-54ecac42e926.jpg?1624988335|https://scryfall.com/card/afr/253/cave-of-the-frost-dragon?utm_source=api>`"
-msgstr ""
-
-#: ../../AFR.rst:1331
-msgid "If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped."
+#: ../../AFR.rst:1338
+msgid ":mtgtip:`Spike Pit Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59fbf45a-23b4-4d06-abd9-4cc3895cb29d.jpg?1625110414|https://scryfall.com/card/afr/251/spike-pit-trap?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1333
-msgid "|tap|: Add |mana_w|."
+msgid "|mana_5|, |tap|, Sacrifice Spike Pit Trap: Choose target creature, then roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:1335
-msgid "|mana_4|\\ |mana_w|: Cave of the Frost Dragon becomes a 3/4 white Dragon creature with flying until end of turn. It's still a land."
+msgid "1-9 | Spiked Pit Trap deals 5 damage to that creature."
 msgstr ""
 
-#: ../../AFR.rst:1344
-msgid ":mtgtip:`Den of the Bugbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f231caf8-56c0-4719-a90d-5e5efbee3148.jpg?1624987929|https://scryfall.com/card/afr/254/den-of-the-bugbear?utm_source=api>`"
+#: ../../AFR.rst:1337
+msgid "10-20 | Spike Pit Trap deals 5 damage to that creature. Create a Treasure token."
 msgstr ""
 
-#: ../../AFR.rst:1339
-msgid "If you control two or more other lands, Den of the Bugbear enters the battlefield tapped."
+#: ../../AFR.rst:1350
+msgid ":mtgtip:`Treasure Chest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1625265864|https://scryfall.com/card/afr/252/treasure-chest?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1341
-msgid "|tap|: Add |mana_r|."
+msgid "|mana_4|, Sacrifice Treasure Chest: Roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:1343
-msgid "|mana_3|\\ |mana_r|: Until end of turn, Den of the Bugbear becomes a 3/2 red Goblin creature with \"Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\" It's still a land."
+msgid "1 | Trapped! — You lose 3 life."
 msgstr ""
 
-#: ../../AFR.rst:1352
-msgid ":mtgtip:`Dungeon Descent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4cccdbc-f4f4-42b6-9747-6ef703ff949a.jpg?1625105367|https://scryfall.com/card/afr/255/dungeon-descent?utm_source=api>`"
+#: ../../AFR.rst:1345
+msgid "2-9 | Create five Treasure tokens."
 msgstr ""
 
 #: ../../AFR.rst:1347
-msgid "Dungeon Descent enters the battlefield tapped."
+msgid "10-19 | You gain 3 life and draw three cards."
 msgstr ""
 
-#: ../../AFR.rst:1351
-msgid "|mana_4|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. (Enter the first room or advance to the next room.)"
+#: ../../AFR.rst:1349
+msgid "20 | Search your library for a card. If it's an artifact card, you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle."
 msgstr ""
 
-#: ../../AFR.rst:1356
-msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1624734003|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`"
+#: ../../AFR.rst:1358
+msgid ":mtgtip:`Cave of the Frost Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb41396-5008-4a5f-92ca-54ecac42e926.jpg?1624988335|https://scryfall.com/card/afr/253/cave-of-the-frost-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1353
+msgid "If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFR.rst:1355
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+msgid "|tap|: Add |mana_w|."
 msgstr ""
 
-#: ../../AFR.rst:1364
-msgid ":mtgtip:`\"Hall of the Storm Giant\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf8f052d-8840-4905-a807-9a305f4fd8f7.jpg?1624941856|https://scryfall.com/card/afr/257/hall-of-the-storm-giant?utm_source=api>`"
+#: ../../AFR.rst:1357
+msgid "|mana_4|\\ |mana_w|: Cave of the Frost Dragon becomes a 3/4 white Dragon creature with flying until end of turn. It's still a land."
 msgstr ""
 
-#: ../../AFR.rst:1359
-msgid "If you control two or more other lands, \"Hall of the Storm Giant\" enters the battlefield tapped."
+#: ../../AFR.rst:1366
+msgid ":mtgtip:`Den of the Bugbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f231caf8-56c0-4719-a90d-5e5efbee3148.jpg?1624987929|https://scryfall.com/card/afr/254/den-of-the-bugbear?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1361
-msgid "|tap|: Add |mana_u|."
+msgid "If you control two or more other lands, Den of the Bugbear enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFR.rst:1363
-msgid "|mana_5|\\ |mana_u|: Until end of turn, \"Hall of the Storm Giant\" becomes a 7/7 blue Giant creature with ward |mana_3|. It's still a land."
+msgid "|tap|: Add |mana_r|."
 msgstr ""
 
-#: ../../AFR.rst:1372
-msgid ":mtgtip:`Hive of the Eye Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9eb391dc-0378-4793-a5de-899b09792a4b.jpg?1624941608|https://scryfall.com/card/afr/258/hive-of-the-eye-tyrant?utm_source=api>`"
+#: ../../AFR.rst:1365
+msgid "|mana_3|\\ |mana_r|: Until end of turn, Den of the Bugbear becomes a 3/2 red Goblin creature with \"Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\" It's still a land."
 msgstr ""
 
-#: ../../AFR.rst:1367
-msgid "If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped."
+#: ../../AFR.rst:1374
+msgid ":mtgtip:`Dungeon Descent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4cccdbc-f4f4-42b6-9747-6ef703ff949a.jpg?1625105367|https://scryfall.com/card/afr/255/dungeon-descent?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1369
-msgid "|tap|: Add |mana_b|."
+msgid "Dungeon Descent enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFR.rst:1371
-msgid "|mana_3|\\ |mana_b|: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and \"Whenever this creature attacks, exile target card from defending player's graveyard.\" It's still a land."
+#: ../../AFR.rst:1373
+msgid "|mana_4|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
 
-#: ../../AFR.rst:1376
-msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://scryfall.com/card/afr/262/plains?utm_source=api>`"
+#: ../../AFR.rst:1378
+msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1624734003|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1375
-msgid "(|tap|: Add |mana_w|.)"
+#: ../../AFR.rst:1377
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../AFR.rst:1380
-msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e70c602-cb80-472b-9c8d-9625de084fe7.jpg?1624535609|https://scryfall.com/card/afr/266/island?utm_source=api>`"
+#: ../../AFR.rst:1386
+msgid ":mtgtip:`\"Hall of the Storm Giant\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf8f052d-8840-4905-a807-9a305f4fd8f7.jpg?1624941856|https://scryfall.com/card/afr/257/hall-of-the-storm-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1379
-msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
-
-#: ../../AFR.rst:1384
-msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab950987-d88c-4326-98f4-1b1195788921.jpg?1624535761|https://scryfall.com/card/afr/270/swamp?utm_source=api>`"
+#: ../../AFR.rst:1381
+msgid "If you control two or more other lands, \"Hall of the Storm Giant\" enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFR.rst:1383
+msgid "|tap|: Add |mana_u|."
+msgstr ""
+
+#: ../../AFR.rst:1385
+msgid "|mana_5|\\ |mana_u|: Until end of turn, \"Hall of the Storm Giant\" becomes a 7/7 blue Giant creature with ward |mana_3|. It's still a land."
+msgstr ""
+
+#: ../../AFR.rst:1394
+msgid ":mtgtip:`Hive of the Eye Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9eb391dc-0378-4793-a5de-899b09792a4b.jpg?1624941608|https://scryfall.com/card/afr/258/hive-of-the-eye-tyrant?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1389
+msgid "If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped."
+msgstr ""
+
+#: ../../AFR.rst:1391
+msgid "|tap|: Add |mana_b|."
+msgstr ""
+
+#: ../../AFR.rst:1393
+msgid "|mana_3|\\ |mana_b|: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and \"Whenever this creature attacks, exile target card from defending player's graveyard.\" It's still a land."
+msgstr ""
+
+#: ../../AFR.rst:1400
+msgid ":mtgtip:`Treasure Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.jpg?1625274888|https://scryfall.com/card/afr/261/treasure-vault?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1399
+msgid "|mana_x|\\ |mana_x|, |tap|, Sacrifice Treasure Vault: Create X Treasure tokens."
+msgstr ""
+
+#: ../../AFR.rst:1404
+msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://scryfall.com/card/afr/262/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1403
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../AFR.rst:1408
+msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e70c602-cb80-472b-9c8d-9625de084fe7.jpg?1624535609|https://scryfall.com/card/afr/266/island?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1407
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../AFR.rst:1412
+msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab950987-d88c-4326-98f4-1b1195788921.jpg?1624535761|https://scryfall.com/card/afr/270/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1411
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../AFR.rst:1388
+#: ../../AFR.rst:1416
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edabc558-2c54-4c7b-a6fa-1e75ddcf12f9.jpg?1624535760|https://scryfall.com/card/afr/274/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1387
+#: ../../AFR.rst:1415
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../AFR.rst:1391
+#: ../../AFR.rst:1419
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624960210|https://scryfall.com/card/afr/278/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../AFR.rst:1391
+#: ../../AFR.rst:1419
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""

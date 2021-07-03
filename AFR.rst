@@ -15,7 +15,7 @@
    Whenever you gain life, put a +1/+1 counter on Celestial Unicorn.
 
 
-:mtgtip:`Cleric Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.jpg?1625250601|https://scryfall.com/card/afr/6/cleric-class?utm_source=api>`
+:mtgtip:`Cleric Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.jpg?1625265072|https://scryfall.com/card/afr/6/cleric-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    If you would gain life, you gain that much plus 1 life instead.
@@ -139,7 +139,7 @@
    |mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact card with mana value equal to one plus the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
-:mtgtip:`Paladin Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.jpg?1625252392|https://scryfall.com/card/afr/29/paladin-class?utm_source=api>`
+:mtgtip:`Paladin Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.jpg?1625265351|https://scryfall.com/card/afr/29/paladin-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Spells your opponents cast during your turn cost |mana_1| more to cast.
@@ -177,6 +177,10 @@
    Flying
 
    |mana_3|, |tap|, Tap another untapped creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`Teleportation Circle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.jpg?1625285007|https://scryfall.com/card/afr/39/teleportation-circle?utm_source=api>`
+   At the beginning of your end step, exile up to one target artifact or creature you control, then return that card to the battlefield under its owner's control.
 
 
 :mtgtip:`Veteran Dungeoneer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8fe33b3-afaf-4a98-ae64-7d7e0eabe993.jpg?1625163548|https://scryfall.com/card/afr/40/veteran-dungeoneer?utm_source=api>`
@@ -285,7 +289,7 @@
    At the beginning of combat on your turn, if you've completed a dungeon, up to one target creature becomes a Bird with base power and toughness 1/1 and flying until end of turn.
 
 
-:mtgtip:`Feywild Trickster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c93e0296-69e0-45e0-a1c2-0214a53c52d0.jpg?1625171032|https://scryfall.com/card/afr/58/feywild-trickster?utm_source=api>`
+:mtgtip:`Feywild Trickster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c93e0296-69e0-45e0-a1c2-0214a53c52d0.jpg?1625265849|https://scryfall.com/card/afr/58/feywild-trickster?utm_source=api>`
    Whenever you roll one or more dice, create a 1/1 blue Faerie Dragon creature token with flying.
 
 
@@ -319,20 +323,20 @@
    Until end of turn, target creature becomes a Dragon with base power and toughness 4/4 and gains flying. (It loses all other creature types.)
 
 
-:mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1625167018|https://scryfall.com/card/afr/66/pixie-guide?utm_source=api>`
+:mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1625265756|https://scryfall.com/card/afr/66/pixie-guide?utm_source=api>`
    Flying
 
    Grant an Advantage — if you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
 
 
-:mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625171986|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`
+:mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625265798|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`
    Choose target creature an opponent controls, then roll a d20.
 
    1-9 | Return it to its owner's hand.
 
    10-19 | Its owner puts it on the top of bottom of their library.
 
-   20 | Gain control of it until end of your next turn.
+   20 | Gain control of it until the end of your next turn.
 
 
 :mtgtip:`Ray of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7edd5058-a964-4288-937b-84df6e9ba7c4.jpg?1625102002|https://scryfall.com/card/afr/68/ray-of-frost?utm_source=api>`
@@ -347,7 +351,7 @@
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Rimeshield Frost Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/767b499e-3bdb-4809-b430-6e965bd100d4.jpg?1625172047|https://scryfall.com/card/afr/69/rimeshield-frost-giant?utm_source=api>`
+:mtgtip:`Rimeshield Frost Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/767b499e-3bdb-4809-b430-6e965bd100d4.jpg?1625265782|https://scryfall.com/card/afr/69/rimeshield-frost-giant?utm_source=api>`
    Ward |mana_3| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_3|.)
 
 
@@ -377,11 +381,21 @@
    Whenever Shortcut Seeker deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
+:mtgtip:`Split the Party<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/743a0a96-f90a-4852-9a92-848795518e0a.jpg?1625254927|https://scryfall.com/card/afr/76/split-the-party?utm_source=api>`
+   Choose target player. Return half the creatures they control to their owner's hand, rounded up.
+
+
 :mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1624506086|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`
    Each opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or more.
 
 
-:mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625249911|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
+:mtgtip:`"Talisman of the Trickster"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33cb9973-c9ce-48f1-9972-651092624751.jpg?1625268927|https://scryfall.com/card/afr/79/talisman-of-the-trickster?utm_source=api>`
+   Equipped creature gets +1/+1 and has "Whenever this creature deals combat damage to a player, you may sacrifice "Talisman of the Trickster". If you do, create a token that's a copy of this creature."
+
+   Equip |mana_2|
+
+
+:mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625265216|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    |mana_2|\ |mana_u|: Level 2
@@ -393,12 +407,12 @@
    Whenever you draw a card, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Wizard's Spellbook<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6ed0a4c-0234-4341-8dcb-5eea6a9632e7.jpg?1625172144|https://scryfall.com/card/afr/82/wizards-spellbook?utm_source=api>`
+:mtgtip:`Wizard's Spellbook<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6ed0a4c-0234-4341-8dcb-5eea6a9632e7.jpg?1625265769|https://scryfall.com/card/afr/82/wizards-spellbook?utm_source=api>`
    |tap|: Exile target instant or sorcery card from a graveyard. Roll a d20. Activate only as a sorcery.
 
    1-9 | Copy that card. You may cast the copy.
 
-   10-19 | Copy that card. You may cast teh copy by paying |mana_1| rather than paying its mana cost.
+   10-19 | Copy that card. You may cast the copy by paying |mana_1| rather than paying its mana cost.
 
    20 | Copy each card exiled with Wizard's Spellbook. You may cast any number of the copies without paying their mana costs.
 
@@ -563,6 +577,14 @@
    Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon.
 
 
+:mtgtip:`"Talisman of Segador"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93b68168-e77d-4745-9393-726ef9fb72ec.jpg?1625268286|https://scryfall.com/card/afr/117/talisman-of-segador?utm_source=api>`
+   Whenever equipped creature attacks, it gains deathtouch until end of turn.
+
+   Whenever equipped creature attacks alone, defending player loses 2 life and you gain 2 life.
+
+   Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
+
+
 :mtgtip:`Sepulcher Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b302bc8-683f-4a26-ab86-87eaa19dce4d.jpg?1625252082|https://scryfall.com/card/afr/118/sepulcher-ghoul?utm_source=api>`
    Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn.
 
@@ -595,7 +617,7 @@
    Equip |mana_b|\ |mana_b|
 
 
-:mtgtip:`Warlock Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.jpg?1625247479|https://scryfall.com/card/afr/125/warlock-class?utm_source=api>`
+:mtgtip:`Warlock Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.jpg?1625265467|https://scryfall.com/card/afr/125/warlock-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    At the beginning of your end step, if a creature died this turn, each opponent loses 1 life.
@@ -609,10 +631,10 @@
    At the beginning of your end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)
 
 
-:mtgtip:`"Moody Lord of the Night"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625252473|https://scryfall.com/card/afr/126/moody-lord-of-the-night?utm_source=api>`
+:mtgtip:`"Moody Lord of the Night"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625255543|https://scryfall.com/card/afr/126/moody-lord-of-the-night?utm_source=api>`
    Flying
 
-   Ward — Discard a card.
+   Ward — Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
 
    Whenever "Moody Lord of the Night" deals combat damage to a player, put that many +1/+1 counters on it.
 
@@ -629,11 +651,11 @@
    Whenever Yuan-Ti Fang-Blade deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Zombie Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4dbed36-190c-4748-b282-409a2fb5d134.jpg?1625101734|https://scryfall.com/card/afr/129/zombie-ogre?utm_source=api>`
+:mtgtip:`Zombie Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4dbed36-190c-4748-b282-409a2fb5d134.jpg?1625265596|https://scryfall.com/card/afr/129/zombie-ogre?utm_source=api>`
    At the beginning of your end step, if a creature died this turn, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Barbarian Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647c2269-bdc7-4455-9158-73abbff6e50e.jpg?1625247504|https://scryfall.com/card/afr/131/barbarian-class?utm_source=api>`
+:mtgtip:`Barbarian Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647c2269-bdc7-4455-9158-73abbff6e50e.jpg?1625265025|https://scryfall.com/card/afr/131/barbarian-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    If you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
@@ -653,7 +675,7 @@
    Pack tactics — Whenever Battle Cry Goblin attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking.
 
 
-:mtgtip:`Brazen Dwarf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3658e65b-df54-4327-9104-c2f3dd65df85.jpg?1625171389|https://scryfall.com/card/afr/134/brazen-dwarf?utm_source=api>`
+:mtgtip:`Brazen Dwarf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3658e65b-df54-4327-9104-c2f3dd65df85.jpg?1625265833|https://scryfall.com/card/afr/134/brazen-dwarf?utm_source=api>`
    Whenever you roll one or more dice, Brazen Dwarf deals 1 damage to each opponent.
 
 
@@ -709,13 +731,13 @@
    Rejuvenation — When Flameskull dies, exile it. If you do, exile the top card of your library. Until the end of your next turn, you may play one of those cards. (If you cast Flameskull this way, you can't play the other card, and vice versa.)
 
 
-:mtgtip:`Goblin Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d32b3f1b-40cb-413d-adb9-0809e4a2abdd.jpg?1625171912|https://scryfall.com/card/afr/144/goblin-javelineer?utm_source=api>`
+:mtgtip:`Goblin Javelineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d32b3f1b-40cb-413d-adb9-0809e4a2abdd.jpg?1625265815|https://scryfall.com/card/afr/144/goblin-javelineer?utm_source=api>`
    Haste
 
    Whenever Goblin Javelineer becomes blocked, it deals 1 damage to target creature blocking it.
 
 
-:mtgtip:`Goblin Morningstar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/998f3785-c806-4848-adcb-d89ea51159c5.jpg?1625166764|https://scryfall.com/card/afr/145/goblin-morningstar?utm_source=api>`
+:mtgtip:`Goblin Morningstar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/998f3785-c806-4848-adcb-d89ea51159c5.jpg?1625265745|https://scryfall.com/card/afr/145/goblin-morningstar?utm_source=api>`
    Equipped creature gets +1/+0 and has trample.
 
    Equip |mana_1|\ |mana_r|
@@ -724,7 +746,7 @@
 
    1-9 | Create a 1/1 red Goblin creature token.
 
-   10-20 | Create a 1/1 red Goblin creature token, then attach Goblin Morningstar more it.
+   10-20 | Create a 1/1 red Goblin creature token, then attach Goblin Morningstar to it.
 
 
 :mtgtip:`Hoarding Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df39eaac-b13f-4cb3-960d-8f7a0d590663.jpg?1625171584|https://scryfall.com/card/afr/146/hoarding-ogre?utm_source=api>`
@@ -757,7 +779,7 @@
    Put a +1/+1 counter on target creature. That creature gains haste until end of turn and can't be blocked by Walls this turn. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Meteor Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8f5e669-4e69-4763-bbb9-e9685bde912c.jpg?1625104359|https://scryfall.com/card/afr/155/meteor-swarm?utm_source=api>`
+:mtgtip:`Meteor Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8f5e669-4e69-4763-bbb9-e9685bde912c.jpg?1625265582|https://scryfall.com/card/afr/155/meteor-swarm?utm_source=api>`
    Meteor Swarm deals 8 damage divided as you choose among X target creatures and/or planeswalkers.
 
 
@@ -857,7 +879,7 @@
    −6: You get an emblem with "At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase."
 
 
-:mtgtip:`Bulette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/206a9e7b-45c1-4213-8fc4-27d90e2ab0e9.jpg?1625130240|https://scryfall.com/card/afr/173/bulette?utm_source=api>`
+:mtgtip:`Bulette<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/206a9e7b-45c1-4213-8fc4-27d90e2ab0e9.jpg?1625265616|https://scryfall.com/card/afr/173/bulette?utm_source=api>`
    At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Bulette.
 
 
@@ -881,7 +903,7 @@
    |mana_1|\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn.
 
 
-:mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1625253014|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
+:mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1625265310|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Whenever a land enters the battlefield under your control, you gain 1 life.
@@ -923,8 +945,8 @@
    Whenever Froghemoth deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on Froghemoth for each creature exiled this way. You gain 1 life for each noncreature card exiled this way.
 
 
-:mtgtip:`Gnoll Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d0634cb-e973-4f05-965e-d39b09fe57a9.jpg?1625104908|https://scryfall.com/card/afr/185/gnoll-hunter?utm_source=api>`
-   Pact tactics — Whenever Gnoll Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, put a +1/+1 counter on Gnoll Hunter.
+:mtgtip:`Gnoll Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d0634cb-e973-4f05-965e-d39b09fe57a9.jpg?1625265572|https://scryfall.com/card/afr/185/gnoll-hunter?utm_source=api>`
+   Pack tactics — Whenever Gnoll Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, put a +1/+1 counter on Gnoll Hunter.
 
 
 :mtgtip:`Green Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45804134-cc04-4587-9674-2c884964083d.jpg?1624998040|https://scryfall.com/card/afr/186/green-dragon?utm_source=api>`
@@ -1013,7 +1035,7 @@
    Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
 
 
-:mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1625250019|https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`
+:mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1625265387|https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    When Ranger Class enters the battlefield, create a 2/2 green Wolf creature token.
@@ -1045,10 +1067,10 @@
    20 | You gain 5 life.
 
 
-:mtgtip:`"Tarrasque"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.jpg?1624963495|https://scryfall.com/card/afr/207/tarrasque?utm_source=api>`
-   If "Tarrasque" was cast, it has haste and ward |mana_10|.
+:mtgtip:`Tarrasque<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.jpg?1624963495|https://scryfall.com/card/afr/207/tarrasque?utm_source=api>`
+   If Tarrasque was cast, it has haste and ward |mana_10|.
 
-   Whenever "Tarrasque" attacks, it fights target creature defending player controls.
+   Whenever Tarrasque attacks, it fights target creature defending player controls.
 
 
 :mtgtip:`Varis, Silverymoon Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3bd3ea9-f06d-4df7-8b8d-ac6a0e591b09.jpg?1625106086|https://scryfall.com/card/afr/209/varis-silverymoon-ranger?utm_source=api>`
@@ -1069,12 +1091,12 @@
    |mana_3|\ |mana_g|: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human.
 
 
-:mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625102937|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`
+:mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625265728|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`
    Choose one —
 
-   • Smash it — Destroy target artifact.
+   • Smash It — Destroy target artifact.
 
-   • Life the Curse — Destroy target enchantment.
+   • Lift the Curse — Destroy target enchantment.
 
    • Steal Its Eyes — Create an Treasure token and venture into the dungeon. (Enter the first room or advance to the next room.)
 
@@ -1099,7 +1121,7 @@
    Flying, lifelink, haste
 
 
-:mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625247733|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`
+:mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625265261|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Legendary creatures you control enter the battlefield with an additional +1/+1 counter on them.
@@ -1137,7 +1159,7 @@
    Dark One's Own Luck — Whenever you roll one or more dice, "Farideh, Chosen By Devils" gains menace and flying until end of turn. If any of those die rolls are 10 or more, draw a card.
 
 
-:mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1625250312|https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`
+:mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1625265109|https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    When Fighter Class enters the battlefield, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
@@ -1155,8 +1177,8 @@
    |mana_2|\ |mana_g|\ |mana_u|: Draw a card. You may put a land card from your hand onto the battlefield.
 
 
-:mtgtip:`Hama Pashar, Ruin Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020.jpg?1625119518|https://scryfall.com/card/afr/224/hama-pashar-ruin-seeker?utm_source=api>`
-   Room abilities of dungeons your own trigger an additional time.
+:mtgtip:`Hama Pashar, Ruin Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020.jpg?1625265563|https://scryfall.com/card/afr/224/hama-pashar-ruin-seeker?utm_source=api>`
+   Room abilities of dungeons you own trigger an additional time.
 
 
 :mtgtip:`Kalain, Reclusive Painter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e45e9552-7737-4c61-89b0-5a3bec3c8f34.jpg?1625172594|https://scryfall.com/card/afr/225/kalain-reclusive-painter?utm_source=api>`
@@ -1177,7 +1199,7 @@
    |mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only a sorcery.
 
 
-:mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625252214|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`
+:mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625265150|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    The second spell you cast each turn costs |mana_1| less to cast.
@@ -1201,7 +1223,7 @@
    • Return up to X target creature cards with total mana value X or less from your graveyard to the battlefield. They gain haste until end of turn.
 
 
-:mtgtip:`Rogue Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0727f65b-cfbe-47d5-87c6-239cf8d93ca6.jpg?1625250754|https://scryfall.com/card/afr/230/rogue-class?utm_source=api>`
+:mtgtip:`Rogue Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0727f65b-cfbe-47d5-87c6-239cf8d93ca6.jpg?1625265432|https://scryfall.com/card/afr/230/rogue-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Whenever a creature you controls deals combat damage to a player, exile the top card of that player's library face down. You may look at it for as long as it remains exiled.
@@ -1221,7 +1243,7 @@
    Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.
 
 
-:mtgtip:`Sorcerer Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f754b385-a28d-48de-a91f-2b4f33cc47f7.jpg?1625250793|https://scryfall.com/card/afr/233/sorcerer-class?utm_source=api>`
+:mtgtip:`Sorcerer Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f754b385-a28d-48de-a91f-2b4f33cc47f7.jpg?1625265180|https://scryfall.com/card/afr/233/sorcerer-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    When Sorcerer Class enters the battlefield, draw two cards, then discard two cards.
@@ -1285,7 +1307,7 @@
    20 | Put a creature card from any graveyard onto the battlefield under your control. When that creature dies, its owner loses the game.
 
 
-:mtgtip:`Dungeon Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/028506ad-ad36-44e5-b488-d038e2d2445f.jpg?1625107447|https://scryfall.com/card/afr/242/dungeon-map?utm_source=api>`
+:mtgtip:`Dungeon Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/028506ad-ad36-44e5-b488-d038e2d2445f.jpg?1625265553|https://scryfall.com/card/afr/242/dungeon-map?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_3|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
@@ -1315,7 +1337,7 @@
    10-20 | Spike Pit Trap deals 5 damage to that creature. Create a Treasure token.
 
 
-:mtgtip:`Treasure Chest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1625170023|https://scryfall.com/card/afr/252/treasure-chest?utm_source=api>`
+:mtgtip:`Treasure Chest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1625265864|https://scryfall.com/card/afr/252/treasure-chest?utm_source=api>`
    |mana_4|, Sacrifice Treasure Chest: Roll a d20.
 
    1 | Trapped! — You lose 3 life.
@@ -1324,7 +1346,7 @@
 
    10-19 | You gain 3 life and draw three cards.
 
-   20 | Search your library for a card. If it's an artifact card you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.
+   20 | Search your library for a card. If it's an artifact card, you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.
 
 
 :mtgtip:`Cave of the Frost Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdb41396-5008-4a5f-92ca-54ecac42e926.jpg?1624988335|https://scryfall.com/card/afr/253/cave-of-the-frost-dragon?utm_source=api>`
@@ -1369,6 +1391,12 @@
    |tap|: Add |mana_b|.
 
    |mana_3|\ |mana_b|: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and "Whenever this creature attacks, exile target card from defending player's graveyard." It's still a land.
+
+
+:mtgtip:`Treasure Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.jpg?1625274888|https://scryfall.com/card/afr/261/treasure-vault?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_x|\ |mana_x|, |tap|, Sacrifice Treasure Vault: Create X Treasure tokens.
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761|https://scryfall.com/card/afr/262/plains?utm_source=api>`
