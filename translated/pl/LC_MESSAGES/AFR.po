@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 16:04+0200\n"
-"PO-Revision-Date: 2021-07-03 14:01+0000\n"
+"PO-Revision-Date: 2021-07-03 20:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -63,11 +63,11 @@ msgstr ""
 #: ../../AFR.rst:659 ../../AFR.rst:907 ../../AFR.rst:1039 ../../AFR.rst:1125
 #: ../../AFR.rst:1163 ../../AFR.rst:1203 ../../AFR.rst:1227 ../../AFR.rst:1247
 msgid "(Gain the next level as a sorcery to add its ability.)"
-msgstr ""
+msgstr "(Zyskaj kolejny poziom jako obrzęd by dodać jego zdolność.)"
 
 #: ../../AFR.rst:21
 msgid "If you would gain life, you gain that much plus 1 life instead."
-msgstr ""
+msgstr "Jeśli masz zyskać życia, zamiast tego zyskaj tyle samo żyć plus 1."
 
 #: ../../AFR.rst:23
 msgid "|mana_3|\\ |mana_w|: Level 2"
@@ -89,6 +89,8 @@ msgid ""
 "When this Class becomes level 3, return target creature card from your "
 "graveyard to the battlefield. You gain life equal to its toughness."
 msgstr ""
+"Kiedy ta Klasa osiągnie poziom 3, przywróć wskazaną kartę stwora z twojego "
+"cmentarza na pole bitwy. Zyskaj życia równe jego wytrzymałości."
 
 #: ../../AFR.rst:36
 msgid ""
@@ -1141,19 +1143,14 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:393
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature has flying and \"Whenever this creature deals combat "
-#| "damage to a player, venture into the dungeon.\" (Enter the first room or "
-#| "advance to the next room.)"
 msgid ""
 "Equipped creature gets +1/+1 and has \"Whenever this creature deals combat "
 "damage to a player, you may sacrifice \"Talisman of the Trickster\". If you "
 "do, create a token that's a copy of this creature.\""
 msgstr ""
-"Zauroczony stwór ma latanie oraz \"Ilekroć ten stwór zada graczowi obrażenia "
-"bojowe, zapuść się do lochu.\" (Wejdź do pierwszej sali lub przejdź do "
-"kolejnej sali.)"
+"Wyposażony stwór dostaje +1/+1 i ma \"Ilekroć ten stwór zada graczowi "
+"obrażenia bojowe możesz poświęcić artefakt dający tę zdolność. Jeśli tak "
+"zrobisz, stwórz żeton będący kopią tego stwora.\""
 
 #: ../../AFR.rst:395
 msgid "Equip |mana_2|"
@@ -1179,11 +1176,11 @@ msgid "|mana_4|\\ |mana_u|: Level 3"
 msgstr "|mana_4|\\ |mana_u|: Poziom 3"
 
 #: ../../AFR.rst:407
-#, fuzzy
-#| msgid "Whenever you gain life, put a +1/+1 counter on Celestial Unicorn."
 msgid ""
 "Whenever you draw a card, put a +1/+1 counter on target creature you control."
-msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
+msgstr ""
+"Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na wskazanym stworze pod "
+"twoim władaniem."
 
 #: ../../AFR.rst:418
 msgid ""
@@ -1367,16 +1364,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:471
-#, fuzzy
-#| msgid ""
-#| "When Cloister Gargoyle enters the battlefield, venture into the dungeon. "
-#| "(Enter the first room or advance to the next room.)"
 msgid ""
 "When Clattering Skeletons dies, venture into the dungeon. (Enter the first "
 "room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
-"pierwszej sali lub przejdź do kolejnej sali.)"
+"Kiedy ten stwór umrze, zapuść się do lochu. (Wejdź do pierwszej sali lub "
+"przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:478
 msgid ""
@@ -1391,16 +1384,13 @@ msgid "Skeletons, Vampires, and Zombies you control get +1/+1."
 msgstr ""
 
 #: ../../AFR.rst:477
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, if you lost 2 or more life this turn, "
-#| "create a 2/2 black Zombie creature token."
 msgid ""
 "At the beginning of your end step, if a creature died this turn, you may pay "
 "|mana_1|. If you do, create a 1/1 black Skeleton creature token."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli straicłeś co najmniej 2 życia w "
-"tej turze, stwórz żeton czarnego stwora Zombi 2/2."
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, możesz "
+"zapłacić |mana_1|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Szkielet "
+"1/1."
 
 #: ../../AFR.rst:482
 msgid ""
@@ -1564,17 +1554,14 @@ msgid "10-19 | Each opponent loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../AFR.rst:533
-#, fuzzy
-#| msgid ""
-#| "Search the Body — Create a Treasure token. (It's an artifact with \"|"
-#| "tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgid ""
 "20 | Each opponent loses 2 life and you gain 2 life. Create a Treasure "
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
-"Przeszukaj zwłoki — Stwórz żeton skarbu. (To artefakt mający \"|tap|, "
-"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"20 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia. Stwórz żeton "
+"Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\")"
 
 #: ../../AFR.rst:538
 msgid ""
@@ -1605,19 +1592,13 @@ msgid "1-9 | Lightfoot Rogue gains deathtouch until end of turn."
 msgstr ""
 
 #: ../../AFR.rst:545
-#, fuzzy
-#| msgid ""
-#| "+1: Creatures you control get +1/+0 and gain haste until end of turn."
 msgid "10-19 | It gets +1/+0 and gains deathtouch until end of turn."
-msgstr "+1: Stwory pod twoim władaniem dostają do końca tury +1/+0 i pośpiech."
+msgstr "10-19 | Dostaje on do końca tury +1/+0 i dotyk śmierci."
 
 #: ../../AFR.rst:547
-#, fuzzy
-#| msgid ""
-#| "+1: Creatures you control get +1/+0 and gain haste until end of turn."
 msgid ""
 "20 | It gets +3/+0 and gains first strike and deathtouch until end of turn."
-msgstr "+1: Stwory pod twoim władaniem dostają do końca tury +1/+0 i pośpiech."
+msgstr "20 | Dostaje on do końca tury +3/+0 oraz pierwszy cios i dotyk śmierci."
 
 #: ../../AFR.rst:558
 msgid ""
@@ -1688,10 +1669,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:575
-#, fuzzy
-#| msgid ""
-#| "When Cloister Gargoyle enters the battlefield, venture into the dungeon. "
-#| "(Enter the first room or advance to the next room.)"
 msgid ""
 "When Precipitous Drop enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
@@ -1715,12 +1692,10 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:581
-#, fuzzy
-#| msgid ""
-#| "+1: Creatures you control get +1/+0 and gain haste until end of turn."
 msgid ""
 "Whenever equipped creature attacks, it gains deathtouch until end of turn."
-msgstr "+1: Stwory pod twoim władaniem dostają do końca tury +1/+0 i pośpiech."
+msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, zyskuje on do końca tyry dotyk śmierci."
 
 #: ../../AFR.rst:583
 msgid ""
@@ -1744,16 +1719,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:589
-#, fuzzy
-#| msgid ""
-#| "Find a Crossing — Target creature gets +1/+0 until end of turn and can't "
-#| "be blocked this turn."
 msgid ""
 "Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"Znajdź bród — Wskazany stwór dostaje do końca tury +1/+0 i nie może być "
-"blokowany w tej turze."
+"Poświęć innego stwora: Ten stwór dostaje do końca tury +2/+2. Aktywuj tylko "
+"raz na turę."
 
 #: ../../AFR.rst:598
 msgid ""
@@ -1898,30 +1869,22 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:637
-#, fuzzy
-#| msgid ""
-#| "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
-#| "ability an opponent controls, counter it unless that player pays |"
-#| "mana_2|.)"
 msgid ""
 "Ward — Discard a card. (Whenever this creature becomes the target of a spell "
 "or ability an opponent controls, counter it unless that player discards a "
 "card.)"
 msgstr ""
-"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
-"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"Opieka — Odrzuć kartę. (Ilekroć ten stwór zostanie wskazany przez czar lub "
+"zdolność pod władaniem przeciwnika, skontruj to, chyba że ów gracz odrzuci "
+"kartę.)"
 
 #: ../../AFR.rst:639
-#, fuzzy
-#| msgid ""
-#| "Whenever Guild Thief deals combat damage to a player, put a +1/+1 counter "
-#| "on it."
 msgid ""
 "Whenever \"Moody Lord of the Night\" deals combat damage to a player, put "
 "that many +1/+1 counters on it."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
-"+1."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim tyle samo "
+"znaczników +1/+1."
 
 #: ../../AFR.rst:646
 msgid ""
@@ -1994,13 +1957,12 @@ msgid "|mana_1|\\ |mana_r|: Level 2"
 msgstr "|mana_1|\\ |mana_r|: Poziom 2"
 
 #: ../../AFR.rst:665
-#, fuzzy
-#| msgid ""
-#| "+1: Creatures you control get +1/+0 and gain haste until end of turn."
 msgid ""
 "Whenever you roll one or more dice, target creature you control gets +2/+0 "
 "and gains menance until end of turn."
-msgstr "+1: Stwory pod twoim władaniem dostają do końca tury +1/+0 i pośpiech."
+msgstr ""
+"Ilekroć rzucisz co najmniej jedną kostką, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +2/+0 i złowrogość."
 
 #: ../../AFR.rst:667
 msgid "|mana_2|\\ |mana_r|: Level 3"
@@ -2212,10 +2174,8 @@ msgid "Equip |mana_1|\\ |mana_r|"
 msgstr "Wyposaż |mana_1|\\ |mana_r|"
 
 #: ../../AFR.rst:745
-#, fuzzy
-#| msgid "Wight enters the battlefield tapped."
 msgid "When Goblin Morningstar enters the battlefield, roll a d20."
-msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:747 ../../AFR.rst:819
 msgid "1-9 | Create a 1/1 red Goblin creature token."
@@ -2239,16 +2199,12 @@ msgid "Whenever Hoarding Ogre attacks, roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:755
-#, fuzzy
-#| msgid ""
-#| "Pry It Open — Creature a Treasure token. (It's an artifact with \"|tap|, "
-#| "Sacrifice this artifact: Add one mana of any color.\")"
 msgid ""
 "1-9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice "
 "this artifact: Add one mana of any color.\")"
 msgstr ""
-"Otwórz łomem — Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten "
-"artefakt: Weź jedną manę dowolnego koloru.\")"
+"1-9 | Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt:"
+" Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:757
 msgid "10-19 | Create two Treasure tokens."
@@ -2650,16 +2606,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:903
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_r|: Goblins you control get +1/+0 and gain haste until "
-#| "end of turn."
 msgid ""
 "|mana_1|\\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end "
 "of turn. Activate only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_r|: Gobliny pod twoim władaniem dostają do końca tury +1/+0 "
-"i pośpiech."
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2 i pośpiech. "
+"Aktywuj tylko raz na turę."
 
 #: ../../AFR.rst:918
 msgid ""
@@ -2808,13 +2760,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:959
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "gain 1 life."
 msgid "When Hill Giant Herdgorger enters the battlefield, you gain 3 life."
-msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../AFR.rst:968
 msgid ""
@@ -2916,10 +2863,8 @@ msgid "10-19 | Return Loathsome Troll to your hand."
 msgstr ""
 
 #: ../../AFR.rst:997
-#, fuzzy
-#| msgid "Wight enters the battlefield tapped."
 msgid "20 | Return Loathsome Troll to the battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
+msgstr "20 | Przywróć tę kartę przekręconą na pole bitwy."
 
 #: ../../AFR.rst:1004
 msgid ""
@@ -2929,10 +2874,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1001
-#, fuzzy
-#| msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgid "\"Lurking Roper\" doesn't untap during your untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../AFR.rst:1003
 msgid "Whenever you gain life, untap \"Lurking Roper\"."
@@ -2965,16 +2908,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1017
-#, fuzzy
-#| msgid ""
-#| "Whenever one or more creatures you control deal combat damage to a "
-#| "player, draw a card."
 msgid ""
 "Whenever a creature you control deals combat damage to a player, create that "
 "many Treasure tokens."
 msgstr ""
-"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
-"bojowe, dobierz kartę."
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, stwórz "
+"tyle samo żetonów Skarbu."
 
 #: ../../AFR.rst:1024
 msgid ""
@@ -3037,26 +2976,20 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1041
-#, fuzzy
-#| msgid ""
-#| "When Elturgard Ranger enters the battlefield, create a 2/2 green Wolf "
-#| "creature token."
 msgid ""
 "When Ranger Class enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk "
-"2/2."
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../AFR.rst:1043
 msgid "|mana_1|\\ |mana_g|: Level 2"
 msgstr "|mana_1|\\ |mana_g|: Poziom 2"
 
 #: ../../AFR.rst:1045
-#, fuzzy
-#| msgid "Whenever you gain life, put a +1/+1 counter on Celestial Unicorn."
 msgid "Whenever you attack, put a +1/+1 counter on target attacking creature."
-msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
+msgstr ""
+"Ilekroć zaatakujesz, umieść znacznik +1/+1 na wskazanym atakującym stworze."
 
 #: ../../AFR.rst:1047
 msgid "|mana_3| |mana_g|: Level 3"
@@ -3094,22 +3027,16 @@ msgid "Whenever \"Sylvan Shepherd\" attacks, roll a d20."
 msgstr ""
 
 #: ../../AFR.rst:1063
-#, fuzzy
-#| msgid "Cure Wounds — You gain 2 life."
 msgid "1-9 | You gain 1 life."
-msgstr "Leczenie ran — Zyskaj 2 życia."
+msgstr "1-9 | Zyskaj 1 życie."
 
 #: ../../AFR.rst:1065
-#, fuzzy
-#| msgid "Cure Wounds — You gain 2 life."
 msgid "10-19 | You gain 2 life."
-msgstr "Leczenie ran — Zyskaj 2 życia."
+msgstr "10-19 | Zyskaj 2 życia."
 
 #: ../../AFR.rst:1067
-#, fuzzy
-#| msgid "Cure Wounds — You gain 2 life."
 msgid "20 | You gain 5 life."
-msgstr "Leczenie ran — Zyskaj 2 życia."
+msgstr "20 | Zyskaj 5 żyć."
 
 #: ../../AFR.rst:1074
 msgid ""
@@ -3160,17 +3087,14 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1085
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, if a creature died this turn, venture "
-#| "into the dungeon. (Enter the first room or advance to the next room.)"
 msgid ""
 "At the begining of your end step, if you had a land enter the battlefield "
 "under your control this turn, venture into the dungeon. (Enter the first "
 "room or advance to the next room.)"
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, zapuść "
-"się do lochu. (Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
+"Na początku twojego kroku końcowego, jeśli w tej turze na pole bitwy wszedł "
+"ląd pod twoim władaniem, zapuść się do lochu. (Wejdź do pierwszej sali lub "
+"przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1092
 msgid ""
@@ -3199,16 +3123,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1097
-#, fuzzy
-#| msgid "Dispel Magic — Destroy target enchantment."
 msgid "Smash It — Destroy target artifact."
-msgstr "Rozproszenie magii — Zniszcz wskazany urok."
+msgstr "Zniszcz go — Zniszcz wskazany artefakt."
 
 #: ../../AFR.rst:1099
-#, fuzzy
-#| msgid "Dispel Magic — Destroy target enchantment."
 msgid "Lift the Curse — Destroy target enchantment."
-msgstr "Rozproszenie magii — Zniszcz wskazany urok."
+msgstr "Zdejmij klątwę — Zniszcz wskazany urok."
 
 #: ../../AFR.rst:1101
 msgid ""
@@ -3251,10 +3171,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1117
-#, fuzzy
-#| msgid "Charge Them — Creatures you control get +2/+0 until end of turn."
 msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
-msgstr "Szarża — Stwory pod twoim władaniem dostają do końca tury +2/+0."
+msgstr "Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../AFR.rst:1122
 msgid ""
@@ -3275,13 +3193,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1127
-#, fuzzy
-#| msgid ""
-#| "Sphere of Annihilation enters the battlefield with X void counters on it."
 msgid ""
 "Legendary creatures you control enter the battlefield with an additional +1/"
 "+1 counter on them."
-msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników pustki."
+msgstr ""
+"Legendarne stwory pod twoim władaniem wchodzą na pole bitwy mając dodatkowy "
+"znacznik +1/+1."
 
 #: ../../AFR.rst:1129
 msgid "|mana_r|\\ |mana_g|: Level 2"
@@ -3394,19 +3311,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1165
-#, fuzzy
-#| msgid ""
-#| "When Tiamat enters the battlefield, if you cast it, search your library "
-#| "for up to five Dragon cards not named Tiamat that each have different "
-#| "names, reveal them, put them into your hand, then shuffle."
 msgid ""
 "When Fighter Class enters the battlefield, search your library for an "
 "Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został przez ciebie rzucony, "
-"wyszukaj w twojej bibliotece co najwyżej pięć kart Smoków o różnych nazwach "
-"nie mających nazwy Tiamat, ujawnij je, umieść je w twojej ręce, po czym "
-"przetasuj."
+"Kiedy ten urok wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"typu Wyposażenie, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../AFR.rst:1167
 msgid "|mana_1|\\ |mana_r|\\ |mana_w|: Level 2"
@@ -3421,16 +3331,12 @@ msgid "|mana_3|\\ |mana_r|\\ |mana_w|: Level 3"
 msgstr ""
 
 #: ../../AFR.rst:1173
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control becomes blocked, you may return it to its "
-#| "owner's hand."
 msgid ""
 "Whenever a creature you control attacks, up to one target creature blocks it "
 "this combat if able."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zostaje zablokowany, możesz go przywrócić "
-"do ręki właściciela."
+"Ilekroć zaatakuje stwór pod twoim władaniem, co najwyżej jeden wskazany "
+"stwór blokuje go w tej potyczce jeśli może."
 
 #: ../../AFR.rst:1178
 msgid ""
@@ -3466,11 +3372,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1185
-#, fuzzy
-#| msgid ""
-#| "When Prosperous Innkeeper enters the battlefield, create a Treasure "
-#| "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "When Kalain, Reclusive Painter enters the battlefield, create a Treasure "
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
@@ -3513,16 +3414,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1197
-#, fuzzy
-#| msgid ""
-#| "When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a "
-#| "legendary 4/1 green Cat creature token with trample."
 msgid ""
 "When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary "
 "1/1 red Hamster creature token with trample and haste."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton legendarnego zielonego "
-"stwora Kot 4/1 z tratowaniem o nazwie Guenhwyvar."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz Boo, żeton legendarnego "
+"czerwonego stwora Chomik 1/1 z tratowaniem i pośpiechem."
 
 #: ../../AFR.rst:1199
 msgid ""
@@ -3581,16 +3478,12 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../AFR.rst:1219
-#, fuzzy
-#| msgid "When Baleful Beholder enters the battlefield, choose one —"
 msgid "When Orcus, Prince of Undeath enters the battlefield, choose one —"
 msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1221
-#, fuzzy
-#| msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
 msgid "Each other creature gets -X/-X until end of turn. You lose X life."
-msgstr "Odpędź ich — Wskazany stwór dostaje do końca tury +3/+1."
+msgstr "Każdy inny stwór dostaje do końca tury -X/-X. Strać X żyć."
 
 #: ../../AFR.rst:1223
 msgid ""
@@ -3658,12 +3551,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1249
-#, fuzzy
-#| msgid "Learn Their Secrets — Draw two cards, then discard two cards."
 msgid ""
 "When Sorcerer Class enters the battlefield, draw two cards, then discard two "
 "cards."
-msgstr "Poznaj ich sekrety — Dobierz dwie karty, po czym odrzuć dwie karty."
+msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć "
+"dwie karty."
 
 #: ../../AFR.rst:1251
 msgid "|mana_u|\\ |mana_r|: Level 2"
@@ -3821,14 +3714,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1303
-#, fuzzy
-#| msgid ""
-#| "Whenever you complete a dungeon, you may return Dungeon Crawler from your "
-#| "graveyard to your hand."
 msgid "1-9 | Return a card at random from your graveyard to your hand."
-msgstr ""
-"Ilekroć ukończysz loch, możesz przywrócić tę kartę z twojego cmentarza do "
-"twojej ręki."
+msgstr "1-9 | Przywróć losową kartę z twojego cmentarza do twojej ręki."
 
 #: ../../AFR.rst:1305
 msgid "10-19 | Draw two cards."
@@ -3944,11 +3831,6 @@ msgid "10-19 | You gain 3 life and draw three cards."
 msgstr ""
 
 #: ../../AFR.rst:1349
-#, fuzzy
-#| msgid ""
-#| "20 | Search your library for a card. If it's an artifact card you may put "
-#| "it onto the battlefield. Otherwise, put that card into your hand. Then "
-#| "shuffle."
 msgid ""
 "20 | Search your library for a card. If it's an artifact card, you may put "
 "it onto the battlefield. Otherwise, put that card into your hand. Then "
@@ -4094,14 +3976,11 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1399
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, Sacrifice another creature or a Treasure: Draw a "
-#| "card."
 msgid ""
 "|mana_x|\\ |mana_x|, |tap|, Sacrifice Treasure Vault: Create X Treasure "
 "tokens."
-msgstr "|mana_1|\\ |mana_b|, poświęć innego stwora lub Skarb: Dobierz kartę."
+msgstr ""
+"mana_x|\\ |mana_x|, |tap|, poświęć ten permanent: Stwórz X żetonów Skarbu."
 
 #: ../../AFR.rst:1404
 msgid ""
