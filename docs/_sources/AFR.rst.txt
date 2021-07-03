@@ -381,6 +381,10 @@
    Whenever Shortcut Seeker deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
+:mtgtip:`Soulknife Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/045c7c23-d418-42f0-b497-50c39e5321ad.jpg?1625307925|https://scryfall.com/card/afr/75/soulknife-spy?utm_source=api>`
+   Whenever Soulknife Spy deals combat damage to a player, draw a card.
+
+
 :mtgtip:`Split the Party<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/743a0a96-f90a-4852-9a92-848795518e0a.jpg?1625254927|https://scryfall.com/card/afr/76/split-the-party?utm_source=api>`
    Choose target player. Return half the creatures they control to their owner's hand, rounded up.
 
@@ -475,6 +479,10 @@
    Skeletons, Vampires, and Zombies you control get +1/+1.
 
    At the beginning of your end step, if a creature died this turn, you may pay |mana_1|. If you do, create a 1/1 black Skeleton creature token.
+
+
+:mtgtip:`Demogorgon's Clutches<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/581e7ac6-65e5-4a16-ab0b-0988c3a3cfea.jpg?1625328528|https://scryfall.com/card/afr/96/demogorgons-clutches?utm_source=api>`
+   Target opponent dsicards two cards, mills two cards, and loses 2 life. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 
 :mtgtip:`Devour Intellect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13c34f2d-2eac-4241-8b23-9cab3268c254.jpg?1624992607|https://scryfall.com/card/afr/97/devour-intellect?utm_source=api>`
@@ -1417,4 +1425,10 @@
 
 :mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624960210|https://scryfall.com/card/afr/278/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
+
+
+:mtgtip:`"Hob Boss"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7da8e543-c9ef-4f2d-99e4-ef6ba496ae75.jpg?1625328644|https://scryfall.com/card/afr/379/hob-boss?utm_source=api>`
+   Other Goblins you control get +1/+1.
+
+   |mana_r|, |tap|: "Hob Boss" deals damage to any target equal to the number of Goblins that entered the battlefield under your control this turn.
 
