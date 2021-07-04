@@ -15,10 +15,10 @@
    Whenever you gain life, put a +1/+1 counter on Celestial Unicorn.
 
 
-:mtgtip:`Cleric Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.jpg?1625265072|https://scryfall.com/card/afr/6/cleric-class?utm_source=api>`
+:mtgtip:`Cleric Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.jpg?1625398029|https://scryfall.com/card/afr/6/cleric-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
-   If you would gain life, you gain that much plus 1 life instead.
+   If you would gain life, you gain that much life plus 1 instead.
 
    |mana_3|\ |mana_w|: Level 2
 
@@ -105,7 +105,7 @@
    When Icingdeath, Frost Tyrant dies, create Icingdeath, Frost Tongue, a legendary white Equipment artifact token with "Equipped creature gets +2/+0", "Whenever equipped creature attacks, tap target creature defending player controls," and equip |mana_2|.
 
 
-:mtgtip:`Ingenious Smith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2ad29773-7c1b-410d-9f69-7aa751f6ebca.jpg?1625251029|https://scryfall.com/card/afr/21/ingenious-smith?utm_source=api>`
+:mtgtip:`Ingenious Smith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2ad29773-7c1b-410d-9f69-7aa751f6ebca.jpg?1625397952|https://scryfall.com/card/afr/21/ingenious-smith?utm_source=api>`
    When Ingenious Smith enters the battlefield, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
    Whenever one or more artifacts enter the battlefield under your control, put a +1/+1 counter on Ingenious Smith. This ability triggers only once each turn.
@@ -391,7 +391,7 @@
    Whenever Shortcut Seeker deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Soulknife Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/045c7c23-d418-42f0-b497-50c39e5321ad.jpg?1625307925|https://scryfall.com/card/afr/75/soulknife-spy?utm_source=api>`
+:mtgtip:`Soulknife Spy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/045c7c23-d418-42f0-b497-50c39e5321ad.jpg?1625397895|https://scryfall.com/card/afr/75/soulknife-spy?utm_source=api>`
    Whenever Soulknife Spy deals combat damage to a player, draw a card.
 
 
@@ -409,8 +409,10 @@
    Equip |mana_2|
 
 
-:mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625265216|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
+:mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625398046|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
+
+   You have no maximum hand size.
 
    |mana_2|\ |mana_u|: Level 2
 
@@ -549,14 +551,14 @@
    Tragic Backstory — Cast this spell only if a creature died this turn.
 
 
-:mtgtip:`Herald of Hadar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baa74204-2593-4468-856d-a5791336126a.jpg?1625246377|https://scryfall.com/card/afr/108/herald-of-hadar?utm_source=api>`
-   |mana_5|\ |mana_b|: Roll a d20.
+:mtgtip:`Herald of Hadar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/baa74204-2593-4468-856d-a5791336126a.jpg?1625397933|https://scryfall.com/card/afr/108/herald-of-hadar?utm_source=api>`
+   Circle of Death — |mana_5|\ |mana_b|: Roll a d20.
 
    1-9 | Each opponent loses 2 life.
 
    10-19 | Each opponent loses 2 life and you gain 2 life.
 
-   20 | Each opponent loses 2 life and you gain 2 life. Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+   20 | Each opponent loses 2 life and you gain 2 life. Create two Treasure tokens. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
 :mtgtip:`Hired Hexblade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c23cbf01-90d0-4962-92d5-5e1566e8ef4b.jpg?1625171696|https://scryfall.com/card/afr/109/hired-hexblade?utm_source=api>`
@@ -643,21 +645,21 @@
    Equip |mana_b|\ |mana_b|
 
 
-:mtgtip:`Warlock Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.jpg?1625265467|https://scryfall.com/card/afr/125/warlock-class?utm_source=api>`
+:mtgtip:`Warlock Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.jpg?1625398056|https://scryfall.com/card/afr/125/warlock-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    At the beginning of your end step, if a creature died this turn, each opponent loses 1 life.
 
    |mana_1|\ |mana_b|: Level 2
 
-   When this class becomes level 2, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+   When this Class becomes level 2, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
 
    |mana_6|\ |mana_b|: Level 3
 
    At the beginning of your end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)
 
 
-:mtgtip:`"Moody Lord of the Night"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625255543|https://scryfall.com/card/afr/126/moody-lord-of-the-night?utm_source=api>`
+:mtgtip:`"Moody Lord of the Night"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625397950|https://scryfall.com/card/afr/126/moody-lord-of-the-night?utm_source=api>`
    Flying
 
    Ward — Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
@@ -681,14 +683,14 @@
    At the beginning of your end step, if a creature died this turn, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Barbarian Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647c2269-bdc7-4455-9158-73abbff6e50e.jpg?1625265025|https://scryfall.com/card/afr/131/barbarian-class?utm_source=api>`
+:mtgtip:`Barbarian Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647c2269-bdc7-4455-9158-73abbff6e50e.jpg?1625398082|https://scryfall.com/card/afr/131/barbarian-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    If you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
 
    |mana_1|\ |mana_r|: Level 2
 
-   Whenever you roll one or more dice, target creature you control gets +2/+0 and gains menance until end of turn.
+   Whenever you roll one or more dice, target creature you control gets +2/+0 and gains menace until end of turn.
 
    |mana_2|\ |mana_r|: Level 3
 
@@ -829,7 +831,7 @@
    • Pry It Open — Creature a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Price of Loyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47634528-cc34-406a-8572-812a41d6a86a.jpg?1625251328|https://scryfall.com/card/afr/159/price-of-loyalty?utm_source=api>`
+:mtgtip:`Price of Loyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47634528-cc34-406a-8572-812a41d6a86a.jpg?1625397987|https://scryfall.com/card/afr/159/price-of-loyalty?utm_source=api>`
    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If mana from a Treasure was spent to cast this spell, that creature gets +2/+0 until end of turn.
 
 
@@ -931,11 +933,11 @@
    |tap|: Add |mana_g| for each creature you control.
 
 
-:mtgtip:`Dire Wolf Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.jpg?1625252891|https://scryfall.com/card/afr/179/dire-wolf-prowler?utm_source=api>`
+:mtgtip:`Dire Wolf Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.jpg?1625397963|https://scryfall.com/card/afr/179/dire-wolf-prowler?utm_source=api>`
    |mana_1|\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn.
 
 
-:mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1625265310|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
+:mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1625398071|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Whenever a land enters the battlefield under your control, you gain 1 life.
@@ -946,7 +948,7 @@
 
    |mana_4|\ |mana_g|: Level 3
 
-   When this class becomes level 3, target land you control becomes a creature with haste and "This creature's power and toughness are each equal to the number of lands you control." It's still a land.
+   When this Class becomes level 3, target land you control becomes a creature with haste and "This creature's power and toughness are each equal to the number of lands you control." It's still a land.
 
 
 :mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1624534647|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`
@@ -1043,7 +1045,7 @@
    Split — When Ochre Jelly dies, if it had two more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. That token enters the battlefield with half that many +1/+1 counters on it, rounded down.
 
 
-:mtgtip:`Old Gnawbone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1625247096|https://scryfall.com/card/afr/197/old-gnawbone?utm_source=api>`
+:mtgtip:`Old Gnawbone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1625398094|https://scryfall.com/card/afr/197/old-gnawbone?utm_source=api>`
    Flying
 
    Whenever a creature you control deals combat damage to a player, create that many Treasure tokens.
@@ -1083,7 +1085,7 @@
    You may cast creature spells from the top of your library.
 
 
-:mtgtip:`Scaled Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cb05274-5a94-44e3-889a-667cba1da033.jpg?1625246597|https://scryfall.com/card/afr/204/scaled-herbalist?utm_source=api>`
+:mtgtip:`Scaled Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cb05274-5a94-44e3-889a-667cba1da033.jpg?1625398109|https://scryfall.com/card/afr/204/scaled-herbalist?utm_source=api>`
    |tap|: You may put a land card from your hand onto the battlefield.
 
 
@@ -1229,7 +1231,7 @@
    Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn.
 
 
-:mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1625249563|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
+:mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1625398015|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
    When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
 
    |mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only a sorcery.
