@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-04 14:23+0200\n"
-"PO-Revision-Date: 2021-07-04 12:43+0000\n"
+"PO-Revision-Date: 2021-07-04 13:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -2540,6 +2540,9 @@ msgid ""
 "gains haste until end of turn. If mana from a Treasure was spent to cast "
 "this spell, that creature gets +2/+0 until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech. Jeśli do jego rzucenia wydano manę ze Skarbu, ów "
+"stwór dostaje do końca tury +2/+0."
 
 #: ../../AFR.rst:840
 msgid ""
@@ -2569,11 +2572,11 @@ msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:847
 msgid "10-19 | Create two of those tokens."
-msgstr ""
+msgstr "10-19 | Stwórz dwa takie żetony."
 
 #: ../../AFR.rst:849
 msgid "20 | Create three of those tokens."
-msgstr ""
+msgstr "20 | Stwórz trzy takie żetony."
 
 #: ../../AFR.rst:856
 msgid ""
@@ -2629,6 +2632,8 @@ msgid ""
 "Bardic Inspiration — At the beginning of combat on your turn, target "
 "creature you control gets +1/+0 until end of turn."
 msgstr ""
+"Inspiracja barda — Na początku potyczki w twojej turze, wskazany stwór pod "
+"twoim władaniem dostaje do końca tury +1/+0."
 
 #: ../../AFR.rst:870
 msgid ""
@@ -2639,7 +2644,7 @@ msgstr ""
 
 #: ../../AFR.rst:869
 msgid "You may play a card you own from outside the game this turn."
-msgstr ""
+msgstr "Możesz w tej turze zagrać własną kartę spoza gry."
 
 #: ../../AFR.rst:874
 msgid ""
@@ -2653,6 +2658,8 @@ msgid ""
 "If you would create one or more Treasure tokens, instead create those tokens "
 "plus an additional Treasure token."
 msgstr ""
+"Jeśli masz stworzyć jeden lub więcej żetonów Skarbów, zamiast tego stwórz "
+"owe żetony i jeden dodatkowy żeton Skarbu."
 
 #: ../../AFR.rst:882
 msgid ""
@@ -2665,10 +2672,11 @@ msgstr ""
 #: ../../AFR.rst:879
 msgid "Intimidate Them — Up to two target creatures can't block this turn."
 msgstr ""
+"Zastrasz ich — Co najwyżej dwa wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../AFR.rst:881
 msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
-msgstr "Odpędź ich — Wskazany stwór dostaje do końca tury +3/+1."
+msgstr "Przegoń ich — Wskazany stwór dostaje do końca tury +3/+1."
 
 #: ../../AFR.rst:890
 msgid ""
@@ -2679,7 +2687,7 @@ msgstr ""
 
 #: ../../AFR.rst:887
 msgid "Break Their Chains — Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz ich łańcuchy — Zniszcz wskazany artefakt."
 
 #: ../../AFR.rst:889
 msgid ""
@@ -2687,6 +2695,10 @@ msgid ""
 "Choose one of them. Until the end of your next turn, you may play that card, "
 "and you may spend mana as through it were mana of any color to cast it."
 msgstr ""
+"Przesłuchaj ich — Wygnaj trzy wierzchnie karty biblioteki wskazanego "
+"przeciwnika. Wybierz jedną z nich. Możesz zagrać ową kartę do końca twojej "
+"najbliższej tury i możesz do jej rzucenia wydawać manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../AFR.rst:898
 msgid ""
@@ -2702,7 +2714,7 @@ msgstr "Szarża — Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../AFR.rst:897
 msgid "Befriend Them — Create two 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Zaprzyjaźnij się — Stwórz dwa żetony czerwonego stwora Goblin 1/1."
 
 #: ../../AFR.rst:904
 msgid ""
@@ -2716,6 +2728,8 @@ msgid ""
 "Whenever Zalto, Fire Giant Duke is dealt damage, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zapuść się do lochu. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:912
 msgid ""
@@ -2734,6 +2748,8 @@ msgid ""
 "0: Create a 1/1 red Devil creature token with \"When this creature dies, it "
 "deals 1 damage to any target.\""
 msgstr ""
+"0: Stwórz żeton czerwonego stwora Diabeł 1/1 mający \"Kiedy ten stwór umrze, "
+"zadaje on wskazanemu celowi 1 obrażenie.\""
 
 #: ../../AFR.rst:911
 msgid ""
@@ -2741,6 +2757,9 @@ msgid ""
 "turn, untap target creature you control. After this phase, there is an "
 "additional combat phase.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Na koniec pierwszej fazy potyczki w twojej "
+"turze, odkręć wskazanego stwora pod twoim władaniem. Po tej fazie jest "
+"dodatkowa faza potyczki.\""
 
 #: ../../AFR.rst:916
 msgid ""
@@ -2754,6 +2773,8 @@ msgid ""
 "At the beginning of your end step, if a creature died this turn, put a +1/+1 "
 "counter on Bulette."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../AFR.rst:920
 msgid ""
@@ -2765,7 +2786,7 @@ msgstr ""
 #: ../../AFR.rst:919
 msgid ""
 "Target creature gets +2/+2 and gains trample until end of turn. Untap it."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie. Odkręć go."
 
 #: ../../AFR.rst:928
 msgid ""
@@ -2779,10 +2800,12 @@ msgid ""
 "Two-Weapon Fighting — Double target creature's power and toughness until end "
 "of turn."
 msgstr ""
+"Walka dwiema broniami — Podwój do końca tury siłę i wytrzymałość wskazanego "
+"stwora."
 
 #: ../../AFR.rst:927
 msgid "Archery — This spell deals 5 damage to target creature with flying."
-msgstr ""
+msgstr "Łucznictwo — Ten czar zadaje 5 obrażeń wskazanemu stworowi z lataniem."
 
 #: ../../AFR.rst:932
 msgid ""
@@ -2840,6 +2863,9 @@ msgid ""
 "with haste and \"This creature's power and toughness are each equal to the "
 "number of lands you control.\" It's still a land."
 msgstr ""
+"Kidy ta Klasa uzyska poziom 3, wskazany ląd pod twoim władaniem staje się "
+"stworem z pośpiechem i \"Siła i wytrzymałość tego stwora są obie równe "
+"liczbie lądów pod twoim władaniem.\" Nadal jest on lądem."
 
 #: ../../AFR.rst:958
 msgid ""
@@ -2853,6 +2879,8 @@ msgid ""
 "+1: Venture into the dungeon. (Enter the first room or advance to the next "
 "room.)"
 msgstr ""
+"+1: Zapuść się do lochu. (Wejdź do pierwszej sali lub przejdź do kolejnej "
+"sali.)"
 
 #: ../../AFR.rst:955
 msgid ""
@@ -2860,12 +2888,19 @@ msgid ""
 "card from among them and put it into your hand. If it's legendary, you gain "
 "3 life. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"–2: Spójrz na sześć wierzchnich kart twojej biblioteki. Możesz ujawnić "
+"spośród nich kartę stwora i umieścić ją w twojej ręce. Jeśli jest "
+"legendarny, zyskaj 3 życia. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../AFR.rst:957
 msgid ""
 "−7: You get an emblem with \"Creatures you control have trample and haste "
 "and get +2/+2 for each differently named dungeon you've completed.\""
 msgstr ""
+"–7: Dostajesz emblemat mający \"Stwory pod twoim władaniem mają tratowanie i "
+"pośpiech i dostają +2/+2 za każdy ukończony przez ciebie loch o innej nazwie."
+"\""
 
 #: ../../AFR.rst:964
 msgid ""
@@ -2898,10 +2933,12 @@ msgid ""
 "When Find the Path enters the battlefield, venture into the dungeon. (Enter "
 "the first room or advance to the next room.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:971
 msgid "Enchanted land has \"|tap|: Add |mana_g|\\ |mana_g|.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Weź |mana_g|\\ |mana_g|.\""
 
 #: ../../AFR.rst:978
 msgid ""
