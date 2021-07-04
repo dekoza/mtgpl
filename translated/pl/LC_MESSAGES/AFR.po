@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-04 14:23+0200\n"
-"PO-Revision-Date: 2021-07-04 13:29+0000\n"
+"PO-Revision-Date: 2021-07-04 17:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -2958,6 +2958,10 @@ msgid ""
 "each creature exiled this way. You gain 1 life for each noncreature card "
 "exiled this way."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj co najwyżej tyle "
+"samo kart z jego cmentarza. Umieść na tym znaczników znacznik +1/+1 za każdą "
+"kartę stwora wygnaną w ten sposób. Zyskaj po 1 życiu za każdą nie-stworową "
+"kartę wygnaną w ten sposób."
 
 #: ../../AFR.rst:982
 msgid ""
@@ -2988,6 +2992,8 @@ msgid ""
 "Poison Breath — When Green Dragon enters the battlefield, until end of turn, "
 "whenever a creature an opponent controls is dealt damage, destroy it."
 msgstr ""
+"Trujący oddech — Kiedy ten stwór wejdzie na pole bitwy, do końca tury "
+"ilekroć stwór pod władaniem przeciwnika otrzyma obrażenia, zniszcz go."
 
 #: ../../AFR.rst:992
 msgid ""
@@ -3012,6 +3018,8 @@ msgid ""
 "This spell costs |mana_3| less to cast if it targets a blue permanent you "
 "don't control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli wskazuje niebieski "
+"permanent poza twoim władaniem."
 
 #: ../../AFR.rst:997
 msgid "This spell can't be countered."
@@ -3023,6 +3031,9 @@ msgid ""
 "damage equal to its power to target creature or planeswalker you don't "
 "control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Następnie "
+"zadaje obrażenia równe swojej sile wskazanemu stworowi lub wędrowcowi poza "
+"twoim władaniem."
 
 #: ../../AFR.rst:1008
 msgid ""
@@ -3033,15 +3044,15 @@ msgstr ""
 
 #: ../../AFR.rst:1003
 msgid "When Inspiring Bard enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1005
 msgid "Bardic Inspiration — Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Inspiracja barda — Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../AFR.rst:1007
 msgid "Song of Rest — You gain 3 life."
-msgstr ""
+msgstr "Pieśń odpoczynku — Zyskaj 3 życia."
 
 #: ../../AFR.rst:1014
 msgid ""
@@ -3055,6 +3066,8 @@ msgid ""
 "At the beginning of your upkeep, you may put a harmony counter on Instrument "
 "of Bards."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić znacznik harmonii na "
+"tym artefakcie."
 
 #: ../../AFR.rst:1013
 msgid ""
@@ -3063,6 +3076,10 @@ msgid ""
 "reveal it, and put it into your hand. If that card is legendary, create a "
 "Treasure token. Then shuffle."
 msgstr ""
+"|mana_3|\\ |mana_g|, |tap|: Wyszukaj w twojej bibliotece kartę stwora o "
+"skrócie many równym liczbie znaczników harmonii na tym artefakcie, ujawnij "
+"ją i umieść ją w twojej ręce. Jeśli owa karta jest legendarna, stwórz żeton "
+"Skarbu. Następnie przetasuj."
 
 #: ../../AFR.rst:1020
 msgid ""
@@ -3093,14 +3110,16 @@ msgid ""
 "|mana_3|\\ |mana_g|: Roll a d20. Activate only if Loathsome Troll is in your "
 "graveyard."
 msgstr ""
+"|mana_3|\\ |mana_g|: Rzuć k20. Aktywuj tylko jeśli ta karta jest w twoim "
+"cmentarzu."
 
 #: ../../AFR.rst:1025
 msgid "1-9 | Put Loathsome Troll on top of your library."
-msgstr ""
+msgstr "1-9 | Umieść tę kartę na wierzchu twojej biblioteki."
 
 #: ../../AFR.rst:1027
 msgid "10-19 | Return Loathsome Troll to your hand."
-msgstr ""
+msgstr "10-19 | Przywróć tę kartę do twojej ręki."
 
 #: ../../AFR.rst:1029
 msgid "20 | Return Loathsome Troll to the battlefield tapped."
@@ -3130,7 +3149,7 @@ msgstr ""
 
 #: ../../AFR.rst:1041
 msgid "Ochre Jelly enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../AFR.rst:1043
 msgid ""
@@ -3139,6 +3158,10 @@ msgid ""
 "That token enters the battlefield with half that many +1/+1 counters on it, "
 "rounded down."
 msgstr ""
+"Podział — Kiedy ten stwór umrze, jeśli miał co najmniej dwa znaczniki +1/+1, "
+"stwórz żeton będący jego kopią na początku najbliższego kroku końcowego. Ów "
+"żeton wchodzi na pole bitwy mając połowę owej liczby znaczników +1/+1, "
+"zaokrąglając w dół."
 
 #: ../../AFR.rst:1050
 msgid ""
@@ -3164,7 +3187,7 @@ msgstr ""
 
 #: ../../AFR.rst:1055
 msgid "Keen senses — When Owlbear enters the battlefield, draw a card."
-msgstr ""
+msgstr "Czujne zmysły — Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AFR.rst:1062
 msgid ""
@@ -3199,6 +3222,7 @@ msgstr ""
 #: ../../AFR.rst:1065
 msgid "This spell costs |mana_2| less to cast if a creature died this turn."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli w tej turze umarł stwór."
 
 #: ../../AFR.rst:1067
 msgid ""
@@ -3278,7 +3302,7 @@ msgstr ""
 
 #: ../../AFR.rst:1097
 msgid "Whenever \"Sylvan Shepherd\" attacks, roll a d20."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, rzuć k20."
 
 #: ../../AFR.rst:1099
 msgid "1-9 | You gain 1 life."
@@ -3301,13 +3325,15 @@ msgstr ""
 
 #: ../../AFR.rst:1107
 msgid "If Tarrasque was cast, it has haste and ward |mana_10|."
-msgstr ""
+msgstr "Jeśli ten stwór został rzucony, ma pośpiech i opiekę |mana_10|."
 
 #: ../../AFR.rst:1109
 msgid ""
 "Whenever Tarrasque attacks, it fights target creature defending player "
 "controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, walczy ze wskazanym stworem pod władaniem "
+"broniącego się gracza."
 
 #: ../../AFR.rst:1118
 msgid ""
@@ -3319,7 +3345,7 @@ msgstr ""
 
 #: ../../AFR.rst:1113
 msgid "Reach, ward |mana_1|"
-msgstr ""
+msgstr "Zasięg, opieka |mana_1|"
 
 #: ../../AFR.rst:1115
 msgid ""
@@ -3327,11 +3353,14 @@ msgid ""
 "dungeon. This ability triggers only once each turn. (Enter the first room or "
 "advance to the next room.)"
 msgstr ""
+"Ilekroć rzucisz czar stwora lub wędrowca, zapuść się do lochu. Ta zdolność "
+"wyzwala się tylko raz na turę. (Wejdź do pierwszej sali lub przejdź do "
+"kolejnej sali.)"
 
 #: ../../AFR.rst:1117
 msgid ""
 "Whenever you complete a dungeon, create a 2/2 green Wolf creature token."
-msgstr ""
+msgstr "Ilekroć ukończysz loch, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../AFR.rst:1122
 msgid ""
@@ -3370,6 +3399,8 @@ msgid ""
 "|mana_3|\\ |mana_g|: Until end of turn, Werewolf Pack Leader has base power "
 "and toughness 5/3, gains trample, and isn't a Human."
 msgstr ""
+"|mana_3|\\ |mana_g|: Do końca tury ten stwór ma bazową siłę i wytrzymałość 5/"
+"3, zyskuje tratowanie i nie jest Człowiekiem."
 
 #: ../../AFR.rst:1138
 msgid ""
@@ -3391,6 +3422,8 @@ msgid ""
 "Steal Its Eyes — Create an Treasure token and venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
+"Ukradnij jego oczy — Stwórz żeton Skarbu i zapuść się do lochu. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1146
 msgid ""
@@ -3411,6 +3444,8 @@ msgstr ""
 msgid ""
 "Make Camp — Return target permanent card from your graveyard to your hand."
 msgstr ""
+"Rozbij obóz — Przywróć wskazaną kartę permanentu z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../AFR.rst:1154
 msgid ""
@@ -3425,6 +3460,9 @@ msgid ""
 "any number of creature cards from among them and put them into your hand. "
 "Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Załóż drużynę — Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz "
+"ujawnić spośród nich dowolną liczbę kart stworów i umieścić je w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../AFR.rst:1153
 msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
@@ -3440,7 +3478,7 @@ msgstr ""
 
 #: ../../AFR.rst:1157
 msgid "Flying, lifelink, haste"
-msgstr ""
+msgstr "Latanie, więź życia, pośpiech"
 
 #: ../../AFR.rst:1172
 msgid ""
@@ -3466,16 +3504,20 @@ msgid ""
 "Legendary spells you cast cost |mana_r|\\ |mana_g| less to cast. This effect "
 "reduces only the amount of colored mana you pay."
 msgstr ""
+"Rzucanie legendarnych czarów kosztuje cię o |mana_r|\\ |mana_g| mniej. Ten "
+"efekt zmniejsza tylko ilość kolorowej many."
 
 #: ../../AFR.rst:1169
 msgid "|mana_3|\\ |mana_r|\\ |mana_g|: Level 3"
-msgstr ""
+msgstr "|mana_3|\\ |mana_r|\\ |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:1171
 msgid ""
 "Whenever you cast a legendary spell, exile the top two cards of your "
 "library. You may play them this turn."
 msgstr ""
+"Ilekroć rzucisz legendarny czar, wygnaj dwie wierzchnie karty twojej "
+"biblioteki. Możesz je zagrać w tej turze."
 
 #: ../../AFR.rst:1178
 msgid ""
@@ -3489,6 +3531,8 @@ msgid ""
 "When Barrowin of Clan Undurr enters the battlefield, venture into the "
 "dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1177
 msgid ""
@@ -3496,6 +3540,9 @@ msgid ""
 "with mana value 3 or less from your graveyard to the battlefield if you've "
 "completed a dungeon."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przywróć co najwyżej jedną kartę stwora o "
+"skrócie many 3 lub mniejszym z twojego cmentarza na pole bitwy jeśli "
+"ukończyłeś loch."
 
 #: ../../AFR.rst:1184
 msgid ""
@@ -3559,6 +3606,9 @@ msgid ""
 "By Devils\" gains menace and flying until end of turn. If any of those die "
 "rolls are 10 or more, draw a card."
 msgstr ""
+"Szczęście Mrocznego — Ilekroć rzucisz co najmniej jedną kostką, ten stwór "
+"zyskuje do końca tury złowrogość i latanie. Jeśli w którykolwiek z owych "
+"rzutów wypadnie 10 lub więcej, dobierz kartę."
 
 #: ../../AFR.rst:1210
 msgid ""
@@ -3577,15 +3627,15 @@ msgstr ""
 
 #: ../../AFR.rst:1203
 msgid "|mana_1|\\ |mana_r|\\ |mana_w|: Level 2"
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|\\ |mana_w|: Poziom 2"
 
 #: ../../AFR.rst:1205
 msgid "Equip abilities you activate cost |mana_2| less to activate."
-msgstr ""
+msgstr "Aktywacja kosztów wyposażania kosztuje cię o |mana_2| mniej."
 
 #: ../../AFR.rst:1207
 msgid "|mana_3|\\ |mana_r|\\ |mana_w|: Level 3"
-msgstr ""
+msgstr "|mana_3|\\ |mana_r|\\ |mana_w|: Poziom 3"
 
 #: ../../AFR.rst:1209
 msgid ""
@@ -3607,6 +3657,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_u|: Draw a card. You may put a land card from "
 "your hand onto the battlefield."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|: Dobierz kartę. Możesz umieścić kartę lądu z "
+"twojej ręki na polu bitwy."
 
 #: ../../AFR.rst:1218
 msgid ""
@@ -3618,7 +3670,7 @@ msgstr ""
 
 #: ../../AFR.rst:1217
 msgid "Room abilities of dungeons you own trigger an additional time."
-msgstr ""
+msgstr "Zdolności sal twoich lochów wyzwalają się dodatkowy raz."
 
 #: ../../AFR.rst:1224
 msgid ""
@@ -3642,6 +3694,8 @@ msgid ""
 "Other creatures you control enter the battlefield with an additional +1/+1 "
 "counter on them for each mana from a Treasure spent to cast them."
 msgstr ""
+"Inne stwory pod twoim władaniem wchodzą na pole bitwy mając dodatkowy "
+"znacznik +1/+1 za każdą manę ze Skarbu wydaną do ich rzucenia."
 
 #: ../../AFR.rst:1230
 msgid ""
@@ -3656,12 +3710,16 @@ msgid ""
 "Whenever \"Krydle of Baldur's Gate\" deals combat damage to a player, that "
 "player loses 1 life and mills a card. You gain 1 life and scry 1."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz traci 1 życie i "
+"mieli kartę. Zyskaj 1 życie i wróż 1."
 
 #: ../../AFR.rst:1229
 msgid ""
 "Whenever you attack, you may pay |mana_2|. If you do, target creature can't "
 "be blocked this turn."
 msgstr ""
+"Ilekroć zaatakujesz, możesz zapłacić |mana_2|. Jeśli tak zrobisz, wskazany "
+"stwór nie może być blokowany w tej turze."
 
 #: ../../AFR.rst:1236
 msgid ""
@@ -3698,6 +3756,7 @@ msgstr ""
 #: ../../AFR.rst:1241
 msgid "The second spell you cast each turn costs |mana_1| less to cast."
 msgstr ""
+"Rzucenie twojego drugiego czaru w danej turze kosztuje cię o |mana_1| mniej."
 
 #: ../../AFR.rst:1243
 msgid "|mana_w|\\ |mana_u|: Level 2"
@@ -3713,7 +3772,7 @@ msgstr ""
 
 #: ../../AFR.rst:1247
 msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Level 3"
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|\\ |mana_u|: Poziom 3"
 
 #: ../../AFR.rst:1249
 msgid ""
@@ -3721,6 +3780,9 @@ msgid ""
 "long as it remains exiled, it has \"You may cast this card from exile as "
 "long as you've cast another spell this turn.\""
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
+"biblioteki. Przez cały czas, gdy jest wygnana, ma ona \"Możesz rzucić tę "
+"kartę z wygnania o ile rzuciłeś inny czar w tej turze.\""
 
 #: ../../AFR.rst:1260
 msgid ""
@@ -3747,6 +3809,9 @@ msgid ""
 "Return up to X target creature cards with total mana value X or less from "
 "your graveyard to the battlefield. They gain haste until end of turn."
 msgstr ""
+"Przywróć co najwyżej X wskazanych kart stworów o łącznym skrócie many X lub "
+"mniejszym z twojego cmentarza na pole bitwy. Do końca tury zyskują one "
+"pośpiech."
 
 #: ../../AFR.rst:1274
 msgid ""
@@ -3761,10 +3826,13 @@ msgid ""
 "top card of that player's library face down. You may look at it for as long "
 "as it remains exiled."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, wygnaj "
+"wierzchnią kartę biblioteki owego gracza zakrytą . Możesz na nią patrzeć "
+"przez cały czas gdy jest wygnana."
 
 #: ../../AFR.rst:1267
 msgid "|mana_1|\\ |mana_u|\\ |mana_b|: Level 2"
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|\\ |mana_b|: Poziom 2"
 
 #: ../../AFR.rst:1269
 msgid "Creatures you control have menace."
@@ -3772,7 +3840,7 @@ msgstr "Stwory pod twoim władaniem mają złowrogość."
 
 #: ../../AFR.rst:1271
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Level 3"
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|\\ |mana_b|: Poziom 3"
 
 #: ../../AFR.rst:1273
 msgid ""
