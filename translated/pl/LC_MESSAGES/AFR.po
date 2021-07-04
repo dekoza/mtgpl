@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-04 14:23+0200\n"
-"PO-Revision-Date: 2021-07-04 17:50+0000\n"
+"PO-Revision-Date: 2021-07-04 18:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -3847,6 +3847,8 @@ msgid ""
 "You may play cards exiled with Rogue Class, and you may spend mana as "
 "through it were mana of any color to cast them."
 msgstr ""
+"Możesz grać karty wygnane tym urokiem i to ich rzucenia możesz wydawać manę "
+"tak, jakby była maną dowolnego koloru."
 
 #: ../../AFR.rst:1280
 msgid ""
@@ -3861,12 +3863,16 @@ msgid ""
 "Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, "
 "target creature blocks this turn if able."
 msgstr ""
+"Urzekające podszepty — Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór "
+"blokuje w tej turze jeśli może."
 
 #: ../../AFR.rst:1279
 msgid ""
 "Whispers of the Grave — At the beginning of your end step, if a creature "
 "died this turn, you may pay 2 life. If you do, draw a card."
 msgstr ""
+"Szepty grobu — Na początku twojego kroku końcowego, jeśli w tej turze umarł "
+"stwór, możesz zapłacić 2 życia. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../AFR.rst:1294
 msgid ""
@@ -3892,10 +3898,13 @@ msgid ""
 "Creatures you control have \"|tap|: Add |mana_u| or |mana_r|. Spend this "
 "mana only to cast an instant or sorcery spell or to gain a Class level.\""
 msgstr ""
+"Stwory pod twoim władaniem mają \"|tap|: Weź |mana_u| lub |mana_r|. Wydaj tę "
+"manę tylko na rzucenie czaru sztuczki lub obrzędu lub zyskanie poziomu Klasy."
+"\""
 
 #: ../../AFR.rst:1291
 msgid "|mana_3|\\ |mana_u|\\ |mana_r|: Level 3"
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|\\ |mana_r|: Poziom 3"
 
 #: ../../AFR.rst:1293
 msgid ""
@@ -3903,6 +3912,9 @@ msgid ""
 "each opponent equal to the number of instant or sorcery spells you've cast "
 "this turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ów czar zadaje każdemu "
+"przeciwnikowi obrażenia równe liczbie czarów sztuczek lub obrzędów rzuconych "
+"przez ciebie w tej turze."
 
 #: ../../AFR.rst:1300
 msgid ""
@@ -3927,6 +3939,8 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_g|: Double Targ Nar's power and toughness until "
 "end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_g|: Podwój do końca tury siłę i wytrzymałość "
+"tego stwora."
 
 #: ../../AFR.rst:1306
 msgid ""
@@ -3957,7 +3971,7 @@ msgstr ""
 msgid ""
 "Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and "
 "scry 1."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze i wróż 1."
 
 #: ../../AFR.rst:1318
 msgid ""
@@ -3968,13 +3982,15 @@ msgstr ""
 
 #: ../../AFR.rst:1315
 msgid "As long as it's your turn, Triumphant Adventurer has first strike."
-msgstr ""
+msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
 
 #: ../../AFR.rst:1317
 msgid ""
 "Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the "
 "first room or advance to the next room.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zapuść się do lochu. (Wejdź do pierwszej sali "
+"lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1322
 msgid ""
@@ -3989,6 +4005,9 @@ msgid ""
 "creature you control or a creature card in your graveyard, copy that spell. "
 "(A copy of a creature spell becomes a token.)"
 msgstr ""
+"Ilekroć rzucisz czar stwora nie mającego wspólnego typu stwora ze stworem "
+"pod twoim władaniem lub kartą stwora w twoim cmentarzu, skopiuj ów czar. ("
+"Kopia czaru stwora staje się żetonem.)"
 
 #: ../../AFR.rst:1326
 msgid ""
@@ -4004,6 +4023,11 @@ msgid ""
 "any time, you may play the top card of their library, and you may spend mana "
 "as though it were mana of any color to cast spells this way."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskaż przeciwnika. Do końca tury ów "
+"gracz nie może rzucać czarów, możesz w dowolnym momencie patrzeć na "
+"wierzchnią kartę jego biblioteki, możesz grać wierzchnią kartę jego "
+"biblioteki i rzucając czar w ten sposób możesz wydawać manę jakby była maną "
+"dowolnego koloru."
 
 #: ../../AFR.rst:1334
 msgid ""
@@ -4040,6 +4064,8 @@ msgid ""
 "|mana_2|, |tap|: Roll a d20 and subtract the number of cards in your hand. "
 "If the result is 0 or less, discard your hand."
 msgstr ""
+"|mana_2|, |tap|: Rzuć k20 i odejmij liczbę kartę w twojej ręce. Jeśli "
+"wynikiem jest 0 lub mniej, odrzuć twoją rękę."
 
 #: ../../AFR.rst:1339
 msgid "1-9 | Return a card at random from your graveyard to your hand."
@@ -4047,13 +4073,15 @@ msgstr "1-9 | Przywróć losową kartę z twojego cmentarza do twojej ręki."
 
 #: ../../AFR.rst:1341
 msgid "10-19 | Draw two cards."
-msgstr ""
+msgstr "10-19 | Dobierz dwie karty."
 
 #: ../../AFR.rst:1343
 msgid ""
 "20 | Put a creature card from any graveyard onto the battlefield under your "
 "control. When that creature dies, its owner loses the game."
 msgstr ""
+"20 | Umieść kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
+"władaniem. Kiedy ów stwór umrze, jego właściciel przegrywa grę."
 
 #: ../../AFR.rst:1350
 msgid ""
@@ -4071,6 +4099,8 @@ msgid ""
 "|mana_3|, |tap|: Venture into the dungeon. Activate only as a sorcery. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
+"|mana_3|, |tap|: Zapuść się do lochu. Aktywuj tylko jako obrzęd. (Wejdź do "
+"pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1358
 msgid ""
