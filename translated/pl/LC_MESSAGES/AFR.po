@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-04 14:23+0200\n"
-"PO-Revision-Date: 2021-07-03 21:57+0000\n"
+"PO-Revision-Date: 2021-07-04 12:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -544,10 +544,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:177
-#, fuzzy
-#| msgid "When Goblin Morningstar enters the battlefield, roll a d20."
 msgid "When Potion of Healing enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, rzuć k20."
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AFR.rst:179
 msgid "|mana_w|, |tap|, Sacrifice Potion of Healing: You gain 3 life."
@@ -1614,13 +1612,8 @@ msgid "Menace"
 msgstr "Złowrogość"
 
 #: ../../AFR.rst:535
-#, fuzzy
-#| msgid ""
-#| "|mana_x|\\ |mana_x|, |tap|, Sacrifice Treasure Vault: Create X Treasure "
-#| "tokens."
 msgid "|mana_1|\\ |mana_b|, |tap|, Pay 1 life: Create a Treasure token."
-msgstr ""
-"mana_x|\\ |mana_x|, |tap|, poświęć ten permanent: Stwórz X żetonów Skarbu."
+msgstr "mana_1|\\ |mana_b|, |tap|, zapłać 1 życie: Stwórz żeton Skarbu."
 
 #: ../../AFR.rst:537
 msgid ""
@@ -2228,7 +2221,7 @@ msgstr ""
 
 #: ../../AFR.rst:729
 msgid "15-20 | Create one of those tokens. You may roll again."
-msgstr "15-20 | Stwórz jeden z owych żetonów. Możesz rzucić ponownie."
+msgstr "15-20 | Stwórz jeden z owych żetonów. Rzuć ponownie."
 
 #: ../../AFR.rst:740
 msgid ""
@@ -2434,6 +2427,8 @@ msgid ""
 "When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was "
 "spent to cast it, it gains first strike and haste until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli do jego rzucenia użyto manę ze "
+"Skarbu, zyskuje on do końca tury pierwszy cios i pośpiech."
 
 #: ../../AFR.rst:806
 msgid ""
@@ -2448,6 +2443,9 @@ msgid ""
 "of turn and can't be blocked by Walls this turn. Venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze. Ów stwór do końca tury zyskuje "
+"pośpiech i nie może być blokowany przez Ściany w tej turze. Zapuść się do "
+"lochu. (Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:810
 msgid ""
@@ -2461,6 +2459,8 @@ msgid ""
 "Meteor Swarm deals 8 damage divided as you choose among X target creatures "
 "and/or planeswalkers."
 msgstr ""
+"Ten czar zadaje 8 obrażeń rozdzielonych pomiędzy X wskazanych stwórów i/lub "
+"wędrowców."
 
 #: ../../AFR.rst:816
 msgid ""
@@ -2491,6 +2491,8 @@ msgid ""
 "|mana_1|, |tap|: Add two mana in any combination of colors. Spend this mana "
 "only to cast Dragon spells or to activate abilities of Dragons."
 msgstr ""
+"|mana_1|, |tap|: Weź dwie many w dowolnej kombinacji kolorów. Wydają ją "
+"tylko na rzucenie czarów Smoków lub aktywację zdolności Smoków."
 
 #: ../../AFR.rst:821
 msgid ""
@@ -2498,6 +2500,9 @@ msgid ""
 "your library. You may reveal a Dragon card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_r|, |tap|, poświęć ten artefakt: Spójrz na siedem wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę Smoka i umieścić ją w "
+"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../AFR.rst:830
 msgid ""
@@ -2508,11 +2513,11 @@ msgstr ""
 
 #: ../../AFR.rst:825
 msgid "When Plundering Barbarian enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:827
 msgid "Smash the Chest — Destroy target artifact."
-msgstr ""
+msgstr "Rozwal skrzynię — Zniszcz wskazany artefakt."
 
 #: ../../AFR.rst:829
 msgid ""
@@ -2602,19 +2607,15 @@ msgstr ""
 
 #: ../../AFR.rst:859
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../AFR.rst:861
-#, fuzzy
-#| msgid ""
-#| "1-9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice "
-#| "this artifact: Add one mana of any color.\")"
 msgid ""
 "Draw two cards and create two Treasure tokens. (They're artifacts with \"|"
 "tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"1-9 | Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten "
-"artefakt: Weź jedną manę dowolnego koloru.\")"
+"Dobierz dwie karty i stwórz dwa żetony Skarbu. (To artefakty mające \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:866
 msgid ""
