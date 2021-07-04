@@ -173,6 +173,16 @@
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
 
 
+:mtgtip:`Potion of Healing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5edb608-c7d7-4fa9-b969-262c9789fc17.jpg?1625331975|https://scryfall.com/card/afr/34/potion-of-healing?utm_source=api>`
+   When Potion of Healing enters the battlefield, draw a card.
+
+   |mana_w|, |tap|, Sacrifice Potion of Healing: You gain 3 life.
+
+
+:mtgtip:`Rally Maneuver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/926ce53e-8e30-4018-a9e7-7266791b5d27.jpg?1625376380|https://scryfall.com/card/afr/36/rally-maneuver?utm_source=api>`
+   Target creature get +2/+0 and gains first strike until end of turn. Up to one other target creature gets +0/+2 and gains lifelink until end of turn.
+
+
 :mtgtip:`Ranger's Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d7a7744-e49d-4b4e-b6ae-7fc6d2892cef.jpg?1625130352|https://scryfall.com/card/afr/37/rangers-hawk?utm_source=api>`
    Flying
 
@@ -519,6 +529,14 @@
    Until end of turn, target creature gains "When this creature dies, return it to the battlefield tapped under it owner's control with a +1/+1 counter on it."
 
 
+:mtgtip:`Forsworn Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4acaf396-f950-42da-85ab-149ffb31fee6.jpg?1625335708|https://scryfall.com/card/afr/104/forsworn-paladin?utm_source=api>`
+   Menace
+
+   |mana_1|\ |mana_b|, |tap|, Pay 1 life: Create a Treasure token.
+
+   |mana_2|\ |mana_b|: Target creature get +2/+0 until end of turn. If mana from a Treasure was spent to activate this ability, that creature also gains deathtouch until end of turn.
+
+
 :mtgtip:`Gelatinous Cube<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.jpg?1624992857|https://scryfall.com/card/afr/105/gelatinous-cube?utm_source=api>`
    Engulf — When Gelatinous Cube enters the battlefield, exile target non-Ooze creature an opponent controls until Gelatinous Cube leaves the battlefield.
 
@@ -837,6 +855,12 @@
    Pack tactics — Whenever "Tiger-tribe Hunter" attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice a creature. If you do, "Tiger-tribe Hunter" deals damage to target creature equal to the sacrificed creature's power.
 
 
+:mtgtip:`Unexpected Windfall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bae6a5fb-39f5-4cf8-85f7-661cb4570507.jpg?1625353320|https://scryfall.com/card/afr/164/unexpected-windfall?utm_source=api>`
+   As an additional cost to cast this spell, discard a card.
+
+   Draw two cards and create two Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+
+
 :mtgtip:`"Horny Bard"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.jpg?1624992091|https://scryfall.com/card/afr/165/horny-bard?utm_source=api>`
    Bardic Inspiration — At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.
 
@@ -1061,6 +1085,10 @@
 
 :mtgtip:`Scaled Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cb05274-5a94-44e3-889a-667cba1da033.jpg?1625246597|https://scryfall.com/card/afr/204/scaled-herbalist?utm_source=api>`
    |tap|: You may put a land card from your hand onto the battlefield.
+
+
+:mtgtip:`Spoils of the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10dfdfd4-8621-40ef-a60f-74e9c107bbaf.jpg?1625357609|https://scryfall.com/card/afr/205/spoils-of-the-hunt?utm_source=api>`
+   Target creature you control gets +1/+0 until end of turn for each mana from a Treasure that was spent to cast this spell. Then that creature deals damage equal to its power to target creature an opponent controls.
 
 
 :mtgtip:`"Sylvan Shepherd"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7d608fb-35b0-498e-988a-f53986b59dd2.jpg?1625163813|https://scryfall.com/card/afr/206/sylvan-shepherd?utm_source=api>`
@@ -1427,7 +1455,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`"Hob Boss"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7da8e543-c9ef-4f2d-99e4-ef6ba496ae75.jpg?1625328644|https://scryfall.com/card/afr/379/hob-boss?utm_source=api>`
+:mtgtip:`"Hob Boss"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7da8e543-c9ef-4f2d-99e4-ef6ba496ae75.jpg?1625353582|https://scryfall.com/card/afr/379/hob-boss?utm_source=api>`
    Other Goblins you control get +1/+1.
 
    |mana_r|, |tap|: "Hob Boss" deals damage to any target equal to the number of Goblins that entered the battlefield under your control this turn.
