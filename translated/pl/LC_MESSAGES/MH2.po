@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-03 14:01+0000\n"
+"PO-Revision-Date: 2021-07-05 12:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../MH2.rst:9
 msgid "At the beginning of your end step, choose one —"
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, wybierz jedną —"
 
 #: ../../MH2.rst:11
 msgid "You gain 1 life."
@@ -2191,7 +2191,7 @@ msgstr ""
 
 #: ../../MH2.rst:727
 msgid "|tap|, Sacrifice an artifact: Choose one —"
-msgstr ""
+msgstr "|tap|, poświęć artefakt: Wybierz jedną —"
 
 #: ../../MH2.rst:729
 msgid ""
@@ -3967,6 +3967,8 @@ msgid ""
 "are four or more card types among cards in your graveyard, choose both "
 "instead."
 msgstr ""
+"Delirium — Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną. Jeśli w "
+"twoim cmentarzu są co najmniej cztery typy kart, zamiast tego wybierz obie."
 
 #: ../../MH2.rst:1313
 msgid "Prophetic Titan deals 4 damage to any target."
@@ -4122,7 +4124,7 @@ msgstr ""
 
 #: ../../MH2.rst:1359
 msgid "Whenever Territorial Kavu attacks, choose one —"
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, wybierz jedną —"
 
 #: ../../MH2.rst:1361
 msgid "Discard a card. If you do, draw a card."

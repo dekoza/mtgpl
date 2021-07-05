@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-04-18 22:36+0000\n"
+"PO-Revision-Date: 2021-07-05 12:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -332,7 +332,7 @@ msgstr "Eskalacja |mana_2| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)
 #: ../../EMN.rst:93 ../../EMN.rst:137 ../../EMN.rst:527 ../../EMN.rst:751
 #: ../../EMN.rst:857
 msgid "Choose one or more —"
-msgstr "Wybierz jedno lub więcej —"
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../EMN.rst:95
 msgid "Target player gains 4 life."
@@ -363,7 +363,7 @@ msgstr ""
 
 #: ../../EMN.rst:105 ../../EMN.rst:509 ../../EMN.rst:737
 msgid "Choose one or both —"
-msgstr "Wybierz jedno lub oba —"
+msgstr "Wybierz jedną lub obie —"
 
 #: ../../EMN.rst:107
 msgid "Creatures you control get +2/+0 until end of turn."
