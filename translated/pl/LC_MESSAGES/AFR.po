@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-05 12:10+0200\n"
-"PO-Revision-Date: 2021-07-05 10:11+0000\n"
+"PO-Revision-Date: 2021-07-05 12:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -66,8 +66,6 @@ msgid "(Gain the next level as a sorcery to add its ability.)"
 msgstr "(Zyskaj kolejny poziom jako obrzęd by dodać jego zdolność.)"
 
 #: ../../AFR.rst:21
-#, fuzzy
-#| msgid "If you would gain life, you gain that much plus 1 life instead."
 msgid "If you would gain life, you gain that much life plus 1 instead."
 msgstr "Jeśli masz zyskać życia, zamiast tego zyskaj tyle samo żyć plus 1."
 
@@ -441,21 +439,14 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:139
-#, fuzzy
-#| msgid ""
-#| "|mana_w|, |tap|, Sacrifice an artifact: Search your library for an "
-#| "artifact card with mana value equal to one plus the sacrificed artifact's "
-#| "mana value. Put that card onto the battlefield, then shuffle. Activate "
-#| "only as a sorcery."
 msgid ""
 "|mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact "
 "card with mana value equal to 1 plus the sacrificed artifact's mana value. "
 "Put that card onto the battlefield, then shuffle. Activate only as a sorcery."
 msgstr ""
 "|mana_w|, |tap|, poświęć artefakt: Wyszukaj w twojej bibliotece kartę "
-"artefaktu o skrócie many równym jeden plus skrót many poświęconego "
-"artefaktu. Umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj tylko "
-"jako obrzęd."
+"artefaktu o skrócie many równym 1 plus skrót many poświęconego artefaktu. "
+"Umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:154
 msgid ""
@@ -557,7 +548,7 @@ msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AFR.rst:179
 msgid "|mana_w|, |tap|, Sacrifice Potion of Healing: You gain 3 life."
-msgstr ""
+msgstr "|mana_w|, |tap|, poświęć ten artefakt: Zyskaj 3 życia."
 
 #: ../../AFR.rst:184
 msgid ""
@@ -571,6 +562,8 @@ msgid ""
 "Target creature get +2/+0 and gains first strike until end of turn. Up to "
 "one other target creature gets +0/+2 and gains lifelink until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+0 i pierwszy cios. Co najwyżej "
+"jeden inny wskazany stwór dostaje do końca tury +0/+2 i więź życia."
 
 #: ../../AFR.rst:190
 msgid ""
@@ -1088,10 +1081,8 @@ msgstr ""
 "przekręć go."
 
 #: ../../AFR.rst:359
-#, fuzzy
-#| msgid "Enchanted creature loses all abilities as long as it is red."
 msgid "As long as enchanted creature is red, it loses all abilities."
-msgstr "Zauroczony stwór traci wszystkie zdolności o ile jest czerwony."
+msgstr "O ile zauroczony stwór jest czerwony, traci on wszystkie zdolności."
 
 #: ../../AFR.rst:366
 msgid ""
@@ -1222,6 +1213,8 @@ msgid ""
 "Draw a card for each different mana value among nonland cards in your "
 "graveyard."
 msgstr ""
+"Dobierz kartę za każdy różny skrót many pomiędzy nielądowymi kartami w twoim "
+"cmentarzu."
 
 #: ../../AFR.rst:408
 msgid ""
@@ -1270,7 +1263,7 @@ msgstr ""
 
 #: ../../AFR.rst:419
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../AFR.rst:421
 msgid "|mana_2|\\ |mana_u|: Level 2"
@@ -1417,18 +1410,16 @@ msgid ""
 "dungeon Tomb of Annihilation, return \"Acererak\" to its owner's hand and "
 "venture into the dungeon."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie ukończyłeś lochu Tomb of "
+"Annihilation, przywróć tego stwora do ręki właściciela i zapuść się do lochu."
 
 #: ../../AFR.rst:473
-#, fuzzy
-#| msgid ""
-#| "Whenever Drider deals combat damage to a player, create a 2/1 black "
-#| "Spider creature token with menace and reach."
 msgid ""
 "Whenever \"Acererak\" attacks, for each opponent, you create 2/2 black "
 "Zombie creature token unless that player sacrifices a creature."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton czarnego "
-"stwora Pająk 2/1 ze złowrogością i zasięgiem."
+"Ilekroć ten stwór zaatakuje, za każdego przeciwnika stwórz żeton czarnego "
+"stwora Zombi 2/2, chyba że ów gracz poświęci stwora."
 
 #: ../../AFR.rst:482
 msgid ""
@@ -1545,6 +1536,9 @@ msgid ""
 "mill a card, a player puts the top card of their library into their "
 "graveyard.)"
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty, mieli dwie karty i traci 2 życia. ("
+"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"cmentarzu.)"
 
 #: ../../AFR.rst:512
 msgid ""
@@ -1673,6 +1667,9 @@ msgid ""
 "from a Treasure was spent to activate this ability, that creature also gains "
 "deathtouch until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_b|: Wskazany stwór dostaje do końca tury +2/+0. Jeśli do "
+"aktywacji ten zdolności wydano manę ze Skarbu, ów stwór do końca tury "
+"zyskuje także dotyk śmierci."
 
 #: ../../AFR.rst:556
 msgid ""
@@ -1718,10 +1715,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:565
-#, fuzzy
-#| msgid "Search the Room — |mana_5|\\ |mana_u|: Roll a d20."
 msgid "Circle of Death — |mana_5|\\ |mana_b|: Roll a d20."
-msgstr "Przeszukaj pomieszczenie — |mana_5|\\ |mana_u|: Rzuć k20."
+msgstr "Krąg śmierci — |mana_5|\\ |mana_b|: Rzuć k20."
 
 #: ../../AFR.rst:567
 msgid "1-9 | Each opponent loses 2 life."
@@ -1732,19 +1727,14 @@ msgid "10-19 | Each opponent loses 2 life and you gain 2 life."
 msgstr "10-19 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../AFR.rst:571
-#, fuzzy
-#| msgid ""
-#| "20 | Each opponent loses 2 life and you gain 2 life. Create a Treasure "
-#| "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "20 | Each opponent loses 2 life and you gain 2 life. Create two Treasure "
 "tokens. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one "
 "mana of any color.\")"
 msgstr ""
-"20 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia. Stwórz żeton "
-"Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę "
-"dowolnego koloru.\")"
+"20 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia. Stwórz dwa "
+"żetony Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną "
+"manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:576
 msgid ""
@@ -2031,10 +2021,6 @@ msgid "|mana_1|\\ |mana_b|: Level 2"
 msgstr "|mana_1|\\ |mana_b|: Poziom 2"
 
 #: ../../AFR.rst:665
-#, fuzzy
-#| msgid ""
-#| "When this class becomes level 2, look at the top three cards of your "
-#| "library. Put one of them into your hand and the rest into your graveyard."
 msgid ""
 "When this Class becomes level 2, look at the top three cards of your "
 "library. Put one of them into your hand and the rest into your graveyard."
@@ -2153,10 +2139,6 @@ msgid "|mana_1|\\ |mana_r|: Level 2"
 msgstr "|mana_1|\\ |mana_r|: Poziom 2"
 
 #: ../../AFR.rst:703
-#, fuzzy
-#| msgid ""
-#| "Whenever you roll one or more dice, target creature you control gets +2/"
-#| "+0 and gains menance until end of turn."
 msgid ""
 "Whenever you roll one or more dice, target creature you control gets +2/+0 "
 "and gains menace until end of turn."
@@ -2224,6 +2206,8 @@ msgid ""
 "Burning Hands deals 2 damage to target creature or planeswalker. If that "
 "permanent is green, Burning Hands deals 6 damage instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów "
+"permanent jest zielony, zamiast tego ten czar zadaje 6 obrażeń."
 
 #: ../../AFR.rst:732
 msgid ""
@@ -2670,12 +2654,6 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../AFR.rst:871
-#, fuzzy
-#| msgid ""
-#| "Pack tactics — Whenever \"Tiger-tribe Hunter\" attacks, if you attacked "
-#| "with creatures with total power 6 or greater this combat, you may "
-#| "sacrifice a creature. If you do, \"Tiger-tribe Hunter\" deals damage to "
-#| "target creature equal to the sacrificed creature's power."
 msgid ""
 "Pack tactics — Whenever Tiger-Tribe Hunter attacks, if you attacked with "
 "creatures with total power 6 or greater this combat, you may sacrifice "
@@ -2683,9 +2661,9 @@ msgid ""
 "sacrificed creature's power to target creature."
 msgstr ""
 "Taktyka stada — Ilekroć ten stwór zaatakuje, jeśli w tej potyczce "
-"zaatakowałeś stworami o łącznej sile 6 lub więcej, możesz poświęcić stwora. "
-"Jeśli tak zrobisz, niniejszy stwór zadaje wskazanemu stworowi obrażenia "
-"równe sile poświęconego stwora."
+"zaatakowałeś stworami o łącznej sile 6 lub więcej, możesz poświęcić innego "
+"stwora. Jeśli tak zrobisz, niniejszy stwór zadaje wskazanemu stworowi "
+"obrażenia równe sile poświęconego stwora."
 
 #: ../../AFR.rst:878
 msgid ""
@@ -2714,16 +2692,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:881
-#, fuzzy
-#| msgid ""
-#| "Bardic Inspiration — At the beginning of combat on your turn, target "
-#| "creature you control gets +1/+0 until end of turn."
 msgid ""
 "Combat Inspiration — At the beginning of combat on your turn, target "
 "creature you control gets +1/+0 until end of turn."
 msgstr ""
-"Inspiracja barda — Na początku potyczki w twojej turze, wskazany stwór pod "
-"twoim władaniem dostaje do końca tury +1/+0."
+"Zagrzewanie do walki — Na początku potyczki w twojej turze, wskazany stwór "
+"pod twoim władaniem dostaje do końca tury +1/+0."
 
 #: ../../AFR.rst:886
 msgid ""
@@ -2948,17 +2922,12 @@ msgid "|mana_4|\\ |mana_g|: Level 3"
 msgstr "|mana_4|\\ |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:965
-#, fuzzy
-#| msgid ""
-#| "When this class becomes level 3, target land you control becomes a "
-#| "creature with haste and \"This creature's power and toughness are each "
-#| "equal to the number of lands you control.\" It's still a land."
 msgid ""
 "When this Class becomes level 3, target land you control becomes a creature "
 "with haste and \"This creature's power and toughness are each equal to the "
 "number of lands you control.\" It's still a land."
 msgstr ""
-"Kidy ta Klasa uzyska poziom 3, wskazany ląd pod twoim władaniem staje się "
+"Kiedy ta Klasa uzyska poziom 3, wskazany ląd pod twoim władaniem staje się "
 "stworem z pośpiechem i \"Siła i wytrzymałość tego stwora są obie równe "
 "liczbie lądów pod twoim władaniem.\" Nadal jest on lądem."
 
@@ -3233,6 +3202,10 @@ msgid ""
 "hand. If eight or more cards were returned to your hand this way, your life "
 "total becomes equal to your starting life total. Exile Long Rest."
 msgstr ""
+"Przywróć X wskazanych kart o różnych skrótach many z twojego cmentarza do "
+"twojej ręki. Jeśli co najmniej osiem kart zostało przywróconych do twojej "
+"ręki w ten sposób, liczba twoich żyć otrzymuje startową wartość. Wygnaj ten "
+"czar."
 
 #: ../../AFR.rst:1056
 msgid ""
@@ -3261,12 +3234,6 @@ msgid "Ochre Jelly enters the battlefield with X +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../AFR.rst:1063
-#, fuzzy
-#| msgid ""
-#| "Split — When Ochre Jelly dies, if it had two more +1/+1 counters on it, "
-#| "create a token that's a copy of it at the beginning of the next end step. "
-#| "That token enters the battlefield with half that many +1/+1 counters on "
-#| "it, rounded down."
 msgid ""
 "Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on it, "
 "create a token that's a copy of it at the beginning of the next end step. "
@@ -3407,6 +3374,9 @@ msgid ""
 "a Treasure that was spent to cast this spell. Then that creature deals "
 "damage equal to its power to target creature an opponent controls."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 za każdą manę "
+"ze Skarbu wydaną na rzucenie tego czaru. Następnie ów stwór zadaje "
+"wskazanemu stworowi pod władaniem przeciwnika obrażenia równe swojej sile."
 
 #: ../../AFR.rst:1124
 msgid ""
@@ -3416,8 +3386,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1117
-#, fuzzy
-#| msgid "Whenever \"Sylvan Shepherd\" attacks, roll a d20."
 msgid "Whenever Sylvan Shepherd attacks, roll a d20."
 msgstr "Ilekroć ten stwór zaatakuje, rzuć k20."
 
@@ -3441,16 +3409,10 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1127
-#, fuzzy
-#| msgid "If Tarrasque was cast, it has haste and ward |mana_10|."
 msgid "The Tarrasque has haste and ward |mana_10| as long as it was cast."
-msgstr "Jeśli ten stwór został rzucony, ma pośpiech i opiekę |mana_10|."
+msgstr "Ten stwór ma pośpiech i opiekę |mana_10| o ile został rzucony."
 
 #: ../../AFR.rst:1129
-#, fuzzy
-#| msgid ""
-#| "Whenever Tarrasque attacks, it fights target creature defending player "
-#| "controls."
 msgid ""
 "Whenever The Tarrasque attacks, it fights target creature defending player "
 "controls."
@@ -3723,18 +3685,13 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1215
-#, fuzzy
-#| msgid ""
-#| "Dark One's Own Luck — Whenever you roll one or more dice, \"Farideh, "
-#| "Chosen By Devils\" gains menace and flying until end of turn. If any of "
-#| "those die rolls are 10 or more, draw a card."
 msgid ""
 "Dark One's Own Luck — Whenever you roll one or more dice, Farideh, Devil's "
 "Chosen gains flying and menace until end of turn. If any of those results "
 "was 10 or higher, draw a card."
 msgstr ""
 "Szczęście Mrocznego — Ilekroć rzucisz co najmniej jedną kostką, ten stwór "
-"zyskuje do końca tury złowrogość i latanie. Jeśli w którykolwiek z owych "
+"zyskuje do końca tury latanie i złowrogość. Jeśli w którymkolwiek z owych "
 "rzutów wypadnie 10 lub więcej, dobierz kartę."
 
 #: ../../AFR.rst:1230
@@ -3832,16 +3789,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1247
-#, fuzzy
-#| msgid ""
-#| "Whenever \"Krydle of Baldur's Gate\" deals combat damage to a player, "
-#| "that player loses 1 life and mills a card. You gain 1 life and scry 1."
 msgid ""
 "Whenever Krydle of Baldur's Gate deals combat damage to a player, that "
 "player loses 1 life and mills a card, then you gain 1 life and scry 1."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz traci 1 życie i "
-"mieli kartę. Zyskaj 1 życie i wróż 1."
+"mieli kartę, po czym ty zyskaj 1 życie i wróż 1."
 
 #: ../../AFR.rst:1249
 msgid ""
@@ -4015,19 +3968,19 @@ msgid ""
 "Each Skeleton you control has trample, attacks each combat if able, and gets "
 "+X/+0, where X is the number of other Skeletons you control."
 msgstr ""
+"Każdy Szkielet pod twoim władaniem ma tratowanie, atakuje w każdej potyczce "
+"jeśli może i dostaje +X/+0, gdzie X jest liczbą Szkieletów pod twoim "
+"władaniem."
 
 #: ../../AFR.rst:1305
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, if a creature died this turn, each "
-#| "opponent loses 1 life."
 msgid ""
 "At the beginning of your end step, create a tapped 1/1 black Skeleton "
 "creature token. If a creature died this turn, create two of those tokens "
 "instead."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, każdy "
-"przeciwnik traci po 1 życiu."
+"Na początku twojego kroku końcowego, stwórz przekręcony żeton czarnego "
+"stwora Szkielet 1/1. Jeśli w tej turze umarł stwór, zamiast tego stwórz dwa "
+"takie żetony."
 
 #: ../../AFR.rst:1320
 msgid ""
@@ -4123,15 +4076,14 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1335
-#, fuzzy
-#| msgid ""
-#| "Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and "
-#| "scry 1."
 msgid ""
 "Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and "
 "scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
-msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze i wróż 1."
+msgstr ""
+"Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze i wróż 1. ("
+"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na "
+"spodzie twojej biblioteki.)"
 
 #: ../../AFR.rst:1344
 msgid ""
@@ -4319,17 +4271,18 @@ msgstr ""
 msgid ""
 "|mana_5|, |tap|, Sacrifice Spike Pit Trap: Choose target creature, then roll "
 "a d20."
-msgstr ""
+msgstr "|mana_5|, |tap|, poświęć ten artefakt: Wskaż stwora, po czym rzuć k20."
 
 #: ../../AFR.rst:1397
 msgid "1-9 | Spiked Pit Trap deals 5 damage to that creature."
-msgstr ""
+msgstr "1-9 | Ten artefakt zadaje owemu stworowi 5 obrażeń."
 
 #: ../../AFR.rst:1399
 msgid ""
 "10-20 | Spike Pit Trap deals 5 damage to that creature. Create a Treasure "
 "token."
 msgstr ""
+"10-20 | Ten artefakt zadaje owemu stworowi 5 obrażeń. Stwórz żeton Skarbu."
 
 #: ../../AFR.rst:1412
 msgid ""
@@ -4340,19 +4293,19 @@ msgstr ""
 
 #: ../../AFR.rst:1403
 msgid "|mana_4|, Sacrifice Treasure Chest: Roll a d20."
-msgstr ""
+msgstr "|mana_4|, poświęć ten artefakt: Rzuć k20."
 
 #: ../../AFR.rst:1405
 msgid "1 | Trapped! — You lose 3 life."
-msgstr ""
+msgstr "1 | Pułapka! — Strać 3 życia."
 
 #: ../../AFR.rst:1407
 msgid "2-9 | Create five Treasure tokens."
-msgstr ""
+msgstr "2-9 | Stwórz pięć żetonów Skarbu."
 
 #: ../../AFR.rst:1409
 msgid "10-19 | You gain 3 life and draw three cards."
-msgstr ""
+msgstr "10-19 | Zyskaj 3 życia i dobierz trzy karty."
 
 #: ../../AFR.rst:1411
 msgid ""
@@ -4377,6 +4330,8 @@ msgid ""
 "If you control two or more other lands, Cave of the Frost Dragon enters the "
 "battlefield tapped."
 msgstr ""
+"Jeśli władasz co najmniej dwoma innymi lądami, ten ląd wchodzi przekręcony "
+"na pole bitwy."
 
 #: ../../AFR.rst:1417
 msgid "|tap|: Add |mana_w|."
@@ -4387,6 +4342,8 @@ msgid ""
 "|mana_4|\\ |mana_w|: Cave of the Frost Dragon becomes a 3/4 white Dragon "
 "creature with flying until end of turn. It's still a land."
 msgstr ""
+"|mana_4|\\ |mana_w|: Ten ląd staje się do końca tury białym stworem Smok 3/4 "
+"z lataniem. Nadal jest lądem."
 
 #: ../../AFR.rst:1428
 msgid ""
@@ -4400,6 +4357,8 @@ msgid ""
 "If you control two or more other lands, Den of the Bugbear enters the "
 "battlefield tapped."
 msgstr ""
+"Jeśli władasz co najmniej dwoma innymi lądami, ten ląd wchodzi przekręcony "
+"na pole bitwy."
 
 #: ../../AFR.rst:1425
 msgid "|tap|: Add |mana_r|."
@@ -4411,6 +4370,9 @@ msgid ""
 "Goblin creature with \"Whenever this creature attacks, create a 1/1 red "
 "Goblin creature token that's tapped and attacking.\" It's still a land."
 msgstr ""
+"|mana_3|\\ |mana_r|: Ten ląd staje się do końca tury czerwonym stworem "
+"Goblin 3/2 mającym \"Ilekroć ten stwór zaatakuje, stwórz przekręcony i "
+"atakujący żeton czerwonego stwora Goblin 1/1.\" Nadal jest lądem."
 
 #: ../../AFR.rst:1436
 msgid ""
@@ -4428,6 +4390,9 @@ msgid ""
 "|mana_4|, |tap|, Tap an untapped legendary creature you control: Venture "
 "into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
+"|mana_4|, |tap|, przekręć odkręconego legendarnego stwora pod twoim "
+"władaniem: Zapuść się do lochu. (Wejdź do pierwszej sali lub przejdź do "
+"kolejnej sali.)"
 
 #: ../../AFR.rst:1440
 msgid ""
@@ -4456,26 +4421,24 @@ msgid ""
 "If you control two or more other lands, Hall of Storm Giants enters the "
 "battlefield tapped."
 msgstr ""
+"Jeśli władasz co najmniej dwoma innymi lądami, ten ląd wchodzi przekręcony "
+"na pole bitwy."
 
 #: ../../AFR.rst:1445
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Weź |mana_u|."
 
 #: ../../AFR.rst:1447
-#, fuzzy
-#| msgid ""
-#| "Dragons you control have ward |mana_1|. (Whenever a Dragon you control "
-#| "becomes the target of a spell or ability an opponent controls, counter it "
-#| "unless that player pays |mana_1|.)"
 msgid ""
 "|mana_5|\\ |mana_u|: Until end of turn, Hall of Storm Giants becomes a 7/7 "
 "blue Giant creature with ward |mana_3|. It's still a land. (Whenever it "
 "becomes the target of a spell or ability an opponent controls, counter it "
 "unless that player pays |mana_3|.)"
 msgstr ""
-"Smoki pod twoim władaniem mają opiekę |mana_1|. (Ilekroć Smok pod twoim "
-"władaniem zostanie wskazany przez czar lub zdolność pod władaniem "
-"przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_1|.)"
+"|mana_5|\\ |mana_u|: Do końca tury ten ląd staje się niebieskim stworem "
+"Gigant 7/7 z opieką |mana_3|. Nadal jest lądem. (Ilekroć zostanie wskazany "
+"przez czar lub zdolność pod władaniem przeciwnika, skontruj to, chyba że ów "
+"gracz zapłaci |mana_3|.)"
 
 #: ../../AFR.rst:1456
 msgid ""
@@ -4489,6 +4452,8 @@ msgid ""
 "If you control two or more other lands, Hive of the Eye Tyrant enters the "
 "battlefield tapped."
 msgstr ""
+"Jeśli władasz co najmniej dwoma innymi lądami, ten ląd wchodzi przekręcony "
+"na pole bitwy."
 
 #: ../../AFR.rst:1453
 msgid "|tap|: Add |mana_b|."
@@ -4500,6 +4465,9 @@ msgid ""
 "black Beholder creature with menace and \"Whenever this creature attacks, "
 "exile target card from defending player's graveyard.\" It's still a land."
 msgstr ""
+"|mana_3|\\ |mana_b|: Ten ląd staje się do końca tury czarnym stworem "
+"Obserwator 3/3 ze złowrogością oraz \"Ilekroć ten stwór zaatakuje, wygnaj "
+"wskazaną kartę z cmentarza broniącego się gracza.\" Nadal jest lądem."
 
 #: ../../AFR.rst:1464
 msgid ""
@@ -4509,24 +4477,24 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1459
-#, fuzzy
-#| msgid "Dungeon Crawler enters the battlefield tapped."
 msgid ""
 "If you control two or more other lands, \"Hydra Nest\" enters the "
 "battlefield tapped."
-msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
+msgstr ""
+"Jeśli władasz co najmniej dwoma innymi lądami, ten ląd wchodzi przekręcony "
+"na pole bitwy."
 
 #: ../../AFR.rst:1461
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_g|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../AFR.rst:1463
 msgid ""
 "|mana_x|\\ |mana_g|: \"Hydra Nest\" becomes an X/X green Hydra creature "
 "until end of turn. It's still a land. X can't be 0."
 msgstr ""
+"|mana_x|\\ |mana_g|: Ten ląd staje się do końca tury staje się zielonym "
+"stworem Hydra X/X. Nadal jest lądem. X nie może być 0."
 
 #: ../../AFR.rst:1470
 msgid ""
@@ -4613,6 +4581,8 @@ msgid ""
 "|mana_r|, |tap|: \"Hob Boss\" deals damage to any target equal to the number "
 "of Goblins that entered the battlefield under your control this turn."
 msgstr ""
+"|mana_r|, |tap|: Ten stwór zadaje wskazanemu celowi obrażenia równe liczbie "
+"Goblinów, które w tej turze weszły na pole bitwy pod twoim władaniem."
 
 #~ msgid "|mana_5|\\ |mana_b|: Roll a d20."
 #~ msgstr "|mana_5|\\ |mana_b|: Rzuć k20."
