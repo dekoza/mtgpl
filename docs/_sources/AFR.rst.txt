@@ -467,10 +467,10 @@
    Whenever Yuan-Ti Malison deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`"Acererak"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd52d0bd-3abd-401c-9f56-ee911613da3b.jpg?1625465231|https://scryfall.com/card/afr/87/acererak?utm_source=api>`
+:mtgtip:`"Acererak"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd52d0bd-3abd-401c-9f56-ee911613da3b.jpg?1625466058|https://scryfall.com/card/afr/87/acererak?utm_source=api>`
    When "Acererak" enters the battlefield, if you have not completed the dungeon Tomb of Annihilation, return "Acererak" to its owner's hand and venture into the dungeon.
 
-   Whenever "Acererak" attacks, for each opponent, you create 2/2 black Zombie creature token unless that player sacrifices a creature.
+   Whenever "Acererak" attacks, for each opponent, you create a 2/2 black Zombie creature token unless that player sacrifices a creature.
 
 
 :mtgtip:`Baleful Beholder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e52d6ef6-d8a3-4288-8917-4c0a179ed4e0.jpg?1625001797|https://scryfall.com/card/afr/89/baleful-beholder?utm_source=api>`
@@ -1299,7 +1299,7 @@
    Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.
 
 
-:mtgtip:`Skeletal Swarming<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/afr/232/skeletal-swarming?utm_source=api>`
+:mtgtip:`Skeletal Swarming<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3768ac68-0d87-4f99-aa77-2d009df0a567.jpg?1625465368|https://scryfall.com/card/afr/232/skeletal-swarming?utm_source=api>`
    Each Skeleton you control has trample, attacks each combat if able, and gets +X/+0, where X is the number of other Skeletons you control.
 
    At the beginning of your end step, create a tapped 1/1 black Skeleton creature token. If a creature died this turn, create two of those tokens instead.
