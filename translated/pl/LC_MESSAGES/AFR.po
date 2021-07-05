@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-04 20:03+0200\n"
-"PO-Revision-Date: 2021-07-04 18:03+0000\n"
+"PO-Revision-Date: 2021-07-05 10:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -4137,19 +4137,23 @@ msgstr ""
 
 #: ../../AFR.rst:1355
 msgid "Climb Over — |tap|: Target Wall can't block this turn."
-msgstr ""
+msgstr "Przejdź ponad — |tap|: Wskazana Ściana nie może blokować w tej turze."
 
 #: ../../AFR.rst:1357
 msgid ""
 "Tie Up — |mana_3|, |tap|: Target creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"Zwiąż — |mana_3|, |tap|: Wskazany stwór nie odkręca się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../AFR.rst:1359
 msgid ""
 "Rappel Down — |mana_4|, |tap|: Venture into the dungeon. Activate only as a "
 "sorcery. (Enter the first room or advance to the next room.)"
 msgstr ""
+"Opuść się — |mana_4|, |tap|: Zapuść się do lochu. Aktywuj tylko jako obrzęd. "
+"(Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1366
 msgid ""
@@ -4160,13 +4164,15 @@ msgstr ""
 
 #: ../../AFR.rst:1363
 msgid "|tap|, Sacrifice Mimic: Add one mana of any color."
-msgstr ""
+msgstr "|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../AFR.rst:1365
 msgid ""
 "|mana_2|: Mimic becomes a Shapeshifter artifact creature with base power and "
 "toughness 3/3 until end of turn."
 msgstr ""
+"|mana_2|: Ten artefakt do końca tury staje się artefaktowym stworem typu "
+"Przemieniec o bazowej sile i wytrzymałości 3/3."
 
 #: ../../AFR.rst:1376
 msgid ""
