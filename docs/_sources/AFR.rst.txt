@@ -65,6 +65,10 @@
    Beacon of Hope — When Devoted Paladin enters the battelfield, creatures you control get +1/+1 and gain vigilance until end of turn.
 
 
+:mtgtip:`Divine Smite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b8d0852-4df3-4b29-830d-c6975265ef53.jpg?1625509131|https://scryfall.com/card/afr/12/divine-smite?utm_source=api>`
+   Target creature or planeswalker an opponent controls phases out. If that permanent is black, exile it instead. (If it phases out, treat it and anything attached to it as though they don't exist until its controller's next turn.)
+
+
 :mtgtip:`Dragon's Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e5e6b78-3e99-49f5-9eaf-bbb2e9789fbe.jpg?1625456285|https://scryfall.com/card/afr/13/dragons-disciple?utm_source=api>`
    As Dragon's Disciple enters the battlefield, you may reveal a Dragon card from your hand. If you do, or if you control a Dragon, Dragon's Disciple enters the battlefield with a +1/+1 counter on it.
 
@@ -83,6 +87,14 @@
 
 :mtgtip:`Gloom Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/388722ad-dcc6-41b9-afd8-a93be91b30e0.jpg?1624531212|https://scryfall.com/card/afr/16/gloom-stalker?utm_source=api>`
    As long as you've completed a dungeon, Gloom Stalker has double strike.
+
+
+:mtgtip:`Grand Master of Flowers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ca4ffff-404e-4e8e-8fd6-4e64d4828fc7.jpg?1625508594|https://scryfall.com/card/afr/17/grand-master-of-flowers?utm_source=api>`
+   As long as Grand Master of Flowers has seven or more loyalty counters on him, he's a 7/7 Dragon God creature with flying and indestructible.
+
+   +1: Target creature without first strike, double strike, or vigilance can't attack or block until your next turn.
+
+   +1: Search your library and/or graveyard for a card named Monk of the Open Hand, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
 
 :mtgtip:`Guardian of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08e3dda1-a1d3-48c9-8c81-da7eae20ac8a.jpg?1625250051|https://scryfall.com/card/afr/18/guardian-of-faith?utm_source=api>`
@@ -121,6 +133,10 @@
    Enchant nonland permanent
 
    Enchanted permanent is a Treasure artifact with "|tap|, Sacrifice this artifact: Add one mana of any color," and it loses all other abilities. (If it was a creature, it's no longer a creature.)
+
+
+:mtgtip:`Monk of the Open Hand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d934765f-f490-4e8d-843d-b2b559ee0418.jpg?1625508658|https://scryfall.com/card/afr/25/monk-of-the-open-hand?utm_source=api>`
+   Flurry of Blows — Whenever you cast your second spell each turn, put a +1/+1 counter on Monk of the Open Hand.
 
 
 :mtgtip:`Moon-Blessed Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b7fea79-9600-41d2-84d2-34a61a08a0d4.jpg?1624997409|https://scryfall.com/card/afr/26/moon-blessed-cleric?utm_source=api>`
@@ -169,6 +185,12 @@
    Whenever Planar Ally attacks, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
+:mtgtip:`Plate Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad447e50-cfb1-40df-ae01-a65c46f2f572.jpg?1625509607|https://scryfall.com/card/afr/32/plate-armor?utm_source=api>`
+   Equipped creature gets +3/+3 and has ward |mana_1|. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
+
+   Equip |mana_3|. This ability costs |mana_1| less to activate for each other Equipment you control.
+
+
 :mtgtip:`Portable Hole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1620558378|https://scryfall.com/card/afr/33/portable-hole?utm_source=api>`
    When Portable Hole enters the battlefield, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.
 
@@ -195,6 +217,12 @@
 
 :mtgtip:`Veteran Dungeoneer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8fe33b3-afaf-4a98-ae64-7d7e0eabe993.jpg?1625163548|https://scryfall.com/card/afr/40/veteran-dungeoneer?utm_source=api>`
    When Veteran Dungeoneer enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`White Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21e290c4-6c94-472a-9dec-6994aade29c2.jpg?1625508959|https://scryfall.com/card/afr/41/white-dragon?utm_source=api>`
+   Flying
+
+   Cold Breath — When White Dragon enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
 
 :mtgtip:`You Hear Something on Watch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76e939ab-9d0c-4685-805c-c8bc4e6af163.jpg?1625456410|https://scryfall.com/card/afr/42/you-hear-something-on-watch?utm_source=api>`
@@ -329,6 +357,14 @@
    Whenever Iymrith deals combat damage to a player, draw a card. Then if you have fewer than three cards in hand, draw cards equal to the difference.
 
 
+:mtgtip:`Mordenkainen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fa5e4c7-12fa-4ec4-bd4b-752e367306c7.jpg?1625509490|https://scryfall.com/card/afr/64/mordenkainen?utm_source=api>`
+   +2: Draw two cards, then put a card from your hand on the bottom of your library.
+
+   −2: Create a blue Dog Illusion creature token with "This creature's power and toughness are each equal to twice the number of cards in your hand."
+
+   −10: Exchange your hand and library, then shuffle. You get an emblem with "You have no maximum hand size."
+
+
 :mtgtip:`Mordenkainen's Polymorph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6551442-d74c-4f16-a9de-0cfdc88208a5.jpg?1625101589|https://scryfall.com/card/afr/65/mordenkainens-polymorph?utm_source=api>`
    Until end of turn, target creature becomes a Dragon with base power and toughness 4/4 and gains flying. (It loses all other creature types.)
 
@@ -413,6 +449,10 @@
    Equip |mana_2|
 
 
+:mtgtip:`True Polymorph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04a1f384-9266-425c-b739-09d74871fc7b.jpg?1625515477|https://scryfall.com/card/afr/80/true-polymorph?utm_source=api>`
+   Target artifact or creature becomes a copy of another target artifact or creature.
+
+
 :mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1625398046|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
@@ -487,10 +527,14 @@
    Acid Breath — When Black Dragon enters the battlefield, target creature an oppon ent controls gets -3/-3 until end of turn.
 
 
-:mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1624997312|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`
+:mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1625515182|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`
    At the beginning of your end step, if you lost 2 or more life this turn, create a 2/2 black Zombie creature token.
 
    |tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible. It gains all triggered abilities of the exiled cards.
+
+
+:mtgtip:`Check for Traps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.jpg?1625518484|https://scryfall.com/card/afr/92/check-for-traps?utm_source=api>`
+   Target opponent reveals their hand. You. choose a nonland card from it. Exile that card. If an instant or a card with flash is exiled this way, they lose 1 life. Otherwise, you lose 1 life.
 
 
 :mtgtip:`Clattering Skeletons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09ac0b2b-d4d3-4977-b241-7788239362de.jpg?1625162925|https://scryfall.com/card/afr/93/clattering-skeletons?utm_source=api>`
@@ -531,6 +575,10 @@
    Ebondeath, Dracolich enters the battlefield tapped.
 
    You may cast Ebondeath, Dracolich from your graveyard if a creature not named Ebondeath, Dracolich died this turn.
+
+
+:mtgtip:`Eyes of the Beholder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f9e5402-690f-497d-ada3-aa41fa900fdd.jpg?1625509691|https://scryfall.com/card/afr/101/eyes-of-the-beholder?utm_source=api>`
+   Target creature gets -11/-11 until end of turn.
 
 
 :mtgtip:`Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19ff3d76-e985-4d8d-837e-89360cc23824.jpg?1625108091|https://scryfall.com/card/afr/102/fates-reversal?utm_source=api>`
@@ -615,6 +663,10 @@
    Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon.
 
 
+:mtgtip:`Ray of Enfeeblement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff5d948b-fd89-4b90-9b63-ad7da13b5f0e.jpg?1625516058|https://scryfall.com/card/afr/116/ray-of-enfeeblement?utm_source=api>`
+   Target creature gets -4/-1 until end of turn. If that creature is white, it gets -4/-4 until end of turn instead.
+
+
 :mtgtip:`"Talisman of Segador"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93b68168-e77d-4745-9393-726ef9fb72ec.jpg?1625268286|https://scryfall.com/card/afr/117/talisman-of-segador?utm_source=api>`
    Whenever equipped creature attacks, it gains deathtouch until end of turn.
 
@@ -635,8 +687,8 @@
    • Search the Body — Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`"Skullport Merchant"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.jpg?1625101891|https://scryfall.com/card/afr/120/skullport-merchant?utm_source=api>`
-   When "Skullport Merchant" enters the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+:mtgtip:`Skullport Merchant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.jpg?1625512176|https://scryfall.com/card/afr/120/skullport-merchant?utm_source=api>`
+   When Skullport Merchant enters the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
    |mana_1|\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card.
 
@@ -645,6 +697,10 @@
    Sphere of Annihilation enters the battlefield with X void counters on it.
 
    At the beginning of your upkeep, exile Sphere of Annihilation, all creatuers and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in all graveyards with mana value less than or equal to the number of void counters on it.
+
+
+:mtgtip:`Vampire Spawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8975c72-b2ec-4c5f-86a4-4e1e3bb41c15.jpg?1625510624|https://scryfall.com/card/afr/123/vampire-spawn?utm_source=api>`
+   When Vampire Spawn enters the battlefield, each opponent loses 2 life and you gain 2 life.
 
 
 :mtgtip:`Vorpal Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.jpg?1620369326|https://scryfall.com/card/afr/124/vorpal-sword?utm_source=api>`
@@ -813,6 +869,14 @@
    Improvised Weaponry deals 2 damage to any target. Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
+:mtgtip:`"Inferno of the Star Mounts"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c788c6a6-20d9-4a93-a898-330b085226c4.jpg?1625509918|https://scryfall.com/card/afr/151/inferno-of-the-star-mounts?utm_source=api>`
+   This spell can't be countered.
+
+   Flying, haste
+
+   |mana_r|: "Inferno of the Star Mounts" gets +1/+0 until end of turn. When its power becomes 20 this way, it deals 20 damage to any target.
+
+
 :mtgtip:`Jaded Sell-Sword<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff5219c0-fb43-47b1-b682-131ba7c70990.jpg?1625171478|https://scryfall.com/card/afr/152/jaded-sell-sword?utm_source=api>`
    When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was spent to cast it, it gains first strike and haste until end of turn.
 
@@ -855,6 +919,12 @@
    Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to each opponent.
 
 
+:mtgtip:`Rust Monster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a7c6b2c-9ba0-4fc1-9922-0988acf2dfde.jpg?1625516044|https://scryfall.com/card/afr/161/rust-monster?utm_source=api>`
+   First strike
+
+   Sacrifice an artifact: Rust Monster gets +2/+0 until end of turn.
+
+
 :mtgtip:`Swarming Goblins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/623c1d1b-69a4-4bc4-b388-17a7600fd960.jpg?1625456904|https://scryfall.com/card/afr/162/swarming-goblins?utm_source=api>`
    When Swarming Goblins enters the battlefield, roll a d20.
 
@@ -865,10 +935,10 @@
    20 | Create three of those tokens.
 
 
-:mtgtip:`Tiger-Tribe Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e0c229-aa31-4c79-bafe-28a8d8e64c61.jpg?1625456943|https://scryfall.com/card/afr/163/tiger-tribe-hunter?utm_source=api>`
+:mtgtip:`Tiger-Tribe Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e0c229-aa31-4c79-bafe-28a8d8e64c61.jpg?1625511184|https://scryfall.com/card/afr/163/tiger-tribe-hunter?utm_source=api>`
    Trample
 
-   Pack tactics — Whenever Tiger-Tribe Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice another creature. If you do, Tiger-Tribe Hunter deals damage equal to the sacrificed creature's power to target creature.
+   Pack tactics — Whenever Tiger-Tribe Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice another creature. When you do, Tiger-Tribe Hunter deals damage equal to the sacrificed creature's power to target creature.
 
 
 :mtgtip:`Unexpected Windfall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bae6a5fb-39f5-4cf8-85f7-661cb4570507.jpg?1625353320|https://scryfall.com/card/afr/164/unexpected-windfall?utm_source=api>`
@@ -945,6 +1015,10 @@
 
 :mtgtip:`Circle of Dreams Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.jpg?1624989444|https://scryfall.com/card/afr/176/circle-of-dreams-druid?utm_source=api>`
    |tap|: Add |mana_g| for each creature you control.
+
+
+:mtgtip:`"Circle of the Moon Druid"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.jpg?1625510399|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?utm_source=api>`
+   Bear Shape — As long as its your turn, "Circle of the Moon Druid" is a Bear with base power and toughness 4/2. (It loses all other creature types.)
 
 
 :mtgtip:`Dire Wolf Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.jpg?1625397963|https://scryfall.com/card/afr/179/dire-wolf-prowler?utm_source=api>`
@@ -1049,10 +1123,10 @@
    Return X target cards with different mana values from your graveyard to your hand. If eight or more cards were returned to your hand this way, your life total becomes equal to your starting life total. Exile Long Rest.
 
 
-:mtgtip:`"Lurking Roper"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cce25d7-3f22-48ce-9428-184e661696b9.jpg?1625171798|https://scryfall.com/card/afr/194/lurking-roper?utm_source=api>`
-   "Lurking Roper" doesn't untap during your untap step.
+:mtgtip:`Lurking Roper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cce25d7-3f22-48ce-9428-184e661696b9.jpg?1625511431|https://scryfall.com/card/afr/194/lurking-roper?utm_source=api>`
+   Lurking Roper doesn't untap during your untap step.
 
-   Whenever you gain life, untap "Lurking Roper".
+   Whenever you gain life, untap Lurking Roper.
 
 
 :mtgtip:`Ochre Jelly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f23cfb7-c6b6-4f04-abba-5b2a6117ea12.jpg?1625457091|https://scryfall.com/card/afr/196/ochre-jelly?utm_source=api>`
@@ -1069,7 +1143,7 @@
    Whenever a creature you control deals combat damage to a player, create that many Treasure tokens.
 
 
-:mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625457125|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
+:mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625511138|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
    Trample
 
    Keen senses — When Owlbear enters the battlefield, draw a card.
@@ -1145,6 +1219,16 @@
    Pack tactics — Whenever Werewolf Pack Leader attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.
 
    |mana_3|\ |mana_g|: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human.
+
+
+:mtgtip:`Wild Shape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec9738f1-b2e7-45a5-b235-290256aabed0.jpg?1625509328|https://scryfall.com/card/afr/212/wild-shape?utm_source=api>`
+   Choose one. Until end of turn, target creature you control has that base power and toughness, becomes that creature type, and gains that ability.
+
+   • 1/3 Turtle with hexproof.
+
+   • 1/5 Spider with reach.
+
+   • 3/3 Elephant with trample.
 
 
 :mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625265728|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`
@@ -1255,14 +1339,14 @@
    |mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only a sorcery.
 
 
-:mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625265150|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`
+:mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625511156|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    The second spell you cast each turn costs |mana_1| less to cast.
 
    |mana_w|\ |mana_u|: Level 2
 
-   When this Class becomes level 2, return up to one target nonalnd permanent to its owner's hand.
+   When this Class becomes level 2, return up to one target nonland permanent to its owner's hand.
 
    |mana_1|\ |mana_w|\ |mana_u|: Level 3
 
@@ -1375,6 +1459,12 @@
    |mana_3|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
 
 
+:mtgtip:`Eye of Vecna<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b91e2431-500e-441a-881d-094ebef62283.jpg?1625510145|https://scryfall.com/card/afr/243/eye-of-vecna?utm_source=api>`
+   When Eye of Vecna enters the battlefield, you draw a card and you lose 2 life.
+
+   At the beginning of your upkeep, you may pay |mana_2|. If you do, you draw a card and you lose 2 life.
+
+
 :mtgtip:`Fifty Feet of Rope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba7ebe7b-732f-4245-a194-e087c3878f61.jpg?1624996265|https://scryfall.com/card/afr/244/fifty-feet-of-rope?utm_source=api>`
    Climb Over — |tap|: Target Wall can't block this turn.
 
@@ -1455,7 +1545,7 @@
    |mana_3|\ |mana_b|: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and "Whenever this creature attacks, exile target card from defending player's graveyard." It's still a land.
 
 
-:mtgtip:`"Hydra Nest"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b670bb0f-680f-4036-bdb6-ac73e866a398.jpg?1625465096|https://scryfall.com/card/afr/259/hydra-nest?utm_source=api>`
+:mtgtip:`Lair of the Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b670bb0f-680f-4036-bdb6-ac73e866a398.jpg?1625508258|https://scryfall.com/card/afr/259/lair-of-the-hydra?utm_source=api>`
    If you control two or more other lands, "Hydra Nest" enters the battlefield tapped.
 
    |tap|: Add |mana_g|.
@@ -1493,4 +1583,12 @@
    Other Goblins you control get +1/+1.
 
    |mana_r|, |tap|: "Hob Boss" deals damage to any target equal to the number of Goblins that entered the battlefield under your control this turn.
+
+
+:mtgtip:`Hand of Vecna<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff0502e4-508a-4d78-b987-0801e6b0978c.jpg?1625510149|https://scryfall.com/card/afr/394/hand-of-vecna?utm_source=api>`
+   At the beginning of combat on your turn, equipped creature or a creature you control named Vecna gets +X/+X until end of turn, where X is the number of cards in your hand.
+
+   Equip—Pay 1 life for each card in your hand.
+
+   Equip |mana_2|
 

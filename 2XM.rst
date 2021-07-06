@@ -62,7 +62,7 @@
 
 
 :mtgtip:`Blade Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.jpg?1599254148|https://scryfall.com/card/2xm/9/blade-splicer?utm_source=api>`
-   When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control have first strike.
 
@@ -124,7 +124,7 @@
 
 
 :mtgtip:`Master Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f32e82fc-6613-462b-b11f-523db195f435.jpg?1599708394|https://scryfall.com/card/2xm/22/master-splicer?utm_source=api>`
-   When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control get +1/+1.
 
@@ -1010,7 +1010,7 @@
 :mtgtip:`Brudiclad, Telchor Engineer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25eff27a-eb58-4a95-b2df-4a341cf9bef6.jpg?1599707883|https://scryfall.com/card/2xm/193/brudiclad-telchor-engineer?utm_source=api>`
    Creature tokens you control have haste.
 
-   At the beginning of combat on your turn, create a 2/1 blue Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.
+   At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.
 
 
 :mtgtip:`Deathreap Ritual<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7ff6346a-5154-4c93-9a24-8b1936683517.jpg?1599707899|https://scryfall.com/card/2xm/194/deathreap-ritual?utm_source=api>`
@@ -1248,7 +1248,7 @@
 
 
 :mtgtip:`Batterskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7f16fdf-a3f5-462d-a64a-789d893b6ef5.jpg?1599708720|https://scryfall.com/card/2xm/234/batterskull?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +4/+4 and has vigilance and lifelink.
 
@@ -1372,7 +1372,7 @@
 
 
 :mtgtip:`Flayer Husk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20b394f9-644d-426e-801b-110774092018.jpg?1599709210|https://scryfall.com/card/2xm/256/flayer-husk?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +1/+1.
 
@@ -1421,7 +1421,7 @@
    Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)
 
 
-:mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2aa24fe0-e275-4307-b26c-2a656068a451.jpg?1599709367|https://scryfall.com/card/2xm/264/isochron-scepter?utm_source=api>`
+:mtgtip:`Isochron Scepter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2aa24fe0-e275-4307-b26c-2a656068a451.jpg?1623543821|https://scryfall.com/card/2xm/264/isochron-scepter?utm_source=api>`
    Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with mana value 2 or less from your hand.
 
    |mana_2|, |tap|: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
@@ -1546,7 +1546,7 @@
 
 
 :mtgtip:`Sickleslicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62f449cc-461e-4e89-8cd2-83e539bb40f4.jpg?1599709835|https://scryfall.com/card/2xm/287/sickleslicer?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+2.
 
@@ -1554,7 +1554,7 @@
 
 
 :mtgtip:`Skinwing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c65e0ff-7dab-4090-8a99-f42d486728c9.jpg?1599709854|https://scryfall.com/card/2xm/288/skinwing?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+2 and has flying.
 
@@ -1682,7 +1682,7 @@
 :mtgtip:`Wurmcoil Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d275f04-cc60-4e3f-95cc-3d02bc916b82.jpg?1599710280|https://scryfall.com/card/2xm/308/wurmcoil-engine?utm_source=api>`
    Deathtouch, lifelink
 
-   When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.
+   When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink.
 
 
 :mtgtip:`Academy Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a95b7645-154f-4904-bf71-db7eb24d4df2.jpg?1599710297|https://scryfall.com/card/2xm/309/academy-ruins?utm_source=api>`

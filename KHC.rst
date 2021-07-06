@@ -13,12 +13,12 @@
    |tap|, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.
 
 
-:mtgtip:`Ranar the Ever-Watchful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c8c41dd-8551-4ce8-a9be-9b9f65718852.jpg?1620528668|https://scryfall.com/card/khc/2/ranar-the-ever-watchful?utm_source=api>`
+:mtgtip:`Ranar the Ever-Watchful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c8c41dd-8551-4ce8-a9be-9b9f65718852.jpg?1623524618|https://scryfall.com/card/khc/2/ranar-the-ever-watchful?utm_source=api>`
    Flying, vigilance
 
    The first card you foretell each turn costs |mana_0| to foretell.
 
-   Whenever a spell or ability you control exiles one or more cards from your hand and/or permanents from the battlefield, create a 1/1 white Spirit creature token with flying.
+   Whenever one or more cards are put into exile from your hand or a spell or ability you control exiles one or more permanents from the battlefield, create a 1/1 white Spirit creature token with flying.
 
 
 :mtgtip:`Cosmic Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/933c4a54-5c3a-496b-aa35-edf791155d8d.jpg?1620528691|https://scryfall.com/card/khc/3/cosmic-intervention?utm_source=api>`
@@ -27,8 +27,8 @@
    Foretell |mana_1|\ |mana_w| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Hero of Bretagard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4458c16c-b71d-481d-863b-f2e3b1320178.jpg?1620528713|https://scryfall.com/card/khc/4/hero-of-bretagard?utm_source=api>`
-   Whenever a spell or ability you control exiles one or more cards from your hand and/or permanents from the battlefield, put that many +1/+1 counters on Hero of Bretagard.
+:mtgtip:`Hero of Bretagard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4458c16c-b71d-481d-863b-f2e3b1320178.jpg?1623524589|https://scryfall.com/card/khc/4/hero-of-bretagard?utm_source=api>`
+   Whenever one or more cards are put into exile from your hand or a spell or ability you control exiles one or more permanents from the battlefield, put that many +1/+1 counters on Hero of Bretagard.
 
    As long as Hero of Bretagard has five or more counters on it, it has flying and is an Angel in addition to its other types.
 
@@ -273,7 +273,7 @@
    Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.
 
 
-:mtgtip:`Ambition's Cost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4a15c15-27c2-4ede-9ecd-a28ec7cbd3fb.jpg?1620529774|https://scryfall.com/card/khc/47/ambitions-cost?utm_source=api>`
+:mtgtip:`Ambition's Cost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4a15c15-27c2-4ede-9ecd-a28ec7cbd3fb.jpg?1621282721|https://scryfall.com/card/khc/47/ambitions-cost?utm_source=api>`
    You draw three cards and you lose 3 life.
 
 
@@ -569,7 +569,7 @@
    |tap|: Add |colorless|\ |colorless|.
 
 
-:mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf700ec0-1fd3-4971-ab03-51365dc8f4f4.jpg?1620531132|https://scryfall.com/card/khc/105/swiftfoot-boots?utm_source=api>`
+:mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf700ec0-1fd3-4971-ab03-51365dc8f4f4.jpg?1621282736|https://scryfall.com/card/khc/105/swiftfoot-boots?utm_source=api>`
    Equipped creature has hexproof and haste.
 
    Equip |mana_1|

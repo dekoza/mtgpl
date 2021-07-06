@@ -614,7 +614,7 @@
 
 
 :mtgtip:`Bonehoard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d91ba59-4d52-43aa-b894-16d794a8d006.jpg?1604195530|https://scryfall.com/card/znc/108/bonehoard?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.
 
@@ -680,7 +680,7 @@
 
 
 :mtgtip:`Scytheclaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd8f1665-5884-411a-9449-08938713df6b.jpg?1604195808|https://scryfall.com/card/znc/118/scytheclaw?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +1/+1.
 

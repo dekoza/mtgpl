@@ -77,13 +77,13 @@
    Boast — |mana_1|\ |mana_w|: Tap target creature. (Activate only if this creature attacked this turn and only once each turn.)
 
 
-:mtgtip:`Halvar, God of Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1608253263|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`
+:mtgtip:`Halvar, God of Battle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1621303456|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`
    Creatures you control that are enchanted or equipped have double strike.
 
    At the beginning of each combat, you may attach target Aura or Equipment attached to a creature you control to target creature you control.
 
 
-:mtgtip:`Sword of the Realms<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1608253263|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`
+:mtgtip:`Sword of the Realms<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.jpg?1621303456|https://scryfall.com/card/khm/15/halvar-god-of-battle-sword-of-the-realms?utm_source=api>`
    Equipped creature gets +2/+0 and has vigilance.
 
    Whenever equipped creature dies, return it to its owner's hand.
@@ -117,7 +117,7 @@
    Creatures you control of the chosen type get +1/+1.
 
 
-:mtgtip:`Reidane, God of the Worthy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg?1612724106|https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api>`
+:mtgtip:`Reidane, God of the Worthy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg?1621303507|https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api>`
    Flying, vigilance
 
    Snow lands your opponents control enter the battlefield tapped.
@@ -125,7 +125,7 @@
    Noncreature spells your opponents cast with mana value 4 or greater cost |mana_2| more to cast.
 
 
-:mtgtip:`Valkmira, Protector's Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg?1612724106|https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api>`
+:mtgtip:`Valkmira, Protector's Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/3606519e-5677-4c21-a34e-be195b6669fa.jpg?1621303507|https://scryfall.com/card/khm/21/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api>`
    If a source an opponent controls would deal damage to you or a permanent you control, prevent 1 of that damage.
 
    Whenever you or another permanent you control becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays |mana_1|.
@@ -247,13 +247,13 @@
    Target creature gets +1/+3 and gains flying until end of turn. Untap it.
 
 
-:mtgtip:`Alrund, God of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1612316166|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`Alrund, God of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1621303560|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
    Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.
 
    At the beginning of your end step, choose a card type, then reveal the top two cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Hakka, Whispering Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1612316166|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`Hakka, Whispering Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1621303560|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
    Flying
 
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
@@ -311,11 +311,11 @@
    When Brinebarrow Intruder enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn.
 
 
-:mtgtip:`Cosima, God of the Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.jpg?1611862762|https://scryfall.com/card/khm/50/cosima-god-of-the-voyage-the-omenkeel?utm_source=api>`
+:mtgtip:`Cosima, God of the Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.jpg?1621303619|https://scryfall.com/card/khm/50/cosima-god-of-the-voyage-the-omenkeel?utm_source=api>`
    At the beginning of your upkeep, you may exile Cosima. If you do, it gains "Whenever a land enters the battlefield under your control, if Cosima is exiled, you may put a voyage counter on it. If you don't, return Cosima to the battlefield with X +1/+1 counters on it and draw X cards, where X is the number of voyage counters on it."
 
 
-:mtgtip:`The Omenkeel<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.jpg?1611862762|https://scryfall.com/card/khm/50/cosima-god-of-the-voyage-the-omenkeel?utm_source=api>`
+:mtgtip:`The Omenkeel<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.jpg?1621303619|https://scryfall.com/card/khm/50/cosima-god-of-the-voyage-the-omenkeel?utm_source=api>`
    Whenever a Vehicle you control deals combat damage to a player, that player exiles that many cards from the top of their library. You may play lands from among those cards for as long as they remain exiled.
 
    Crew 1
@@ -409,7 +409,7 @@
    When Littjara Kinseekers enters the battlefield, if you control three or more creatures that share a creature type, put a +1/+1 counter on Littjara Kinseekers, then scry 1.
 
 
-:mtgtip:`Mists of Littjara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cfd4944-790f-4835-a8a1-c23ef7047648.jpg?1614986705|https://scryfall.com/card/khm/67/mists-of-littjara?utm_source=api>`
+:mtgtip:`Mists of Littjara<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cfd4944-790f-4835-a8a1-c23ef7047648.jpg?1624506059|https://scryfall.com/card/khm/67/mists-of-littjara?utm_source=api>`
    Flash
 
    Enchant creature or Vehicle
@@ -505,39 +505,39 @@
    Whenever you cast your second spell each turn, put two +1/+1 counters on Bloodsky Berserker. It gains menace until end of turn. (It can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Burning-Rune Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f358a52b-8044-404e-8d04-2ec5903386cc.jpg?1611027869|https://scryfall.com/card/khm/81/burning-rune-demon?utm_source=api>`
+:mtgtip:`Burning-Rune Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f358a52b-8044-404e-8d04-2ec5903386cc.jpg?1621303640|https://scryfall.com/card/khm/81/burning-rune-demon?utm_source=api>`
    Flying
 
    When Burning-Rune Demon enters the battlefield, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle.
 
 
-:mtgtip:`Crippling Fear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d9bd181-b99f-477e-bcfb-9b78cbf51224.jpg?1611110713|https://scryfall.com/card/khm/82/crippling-fear?utm_source=api>`
+:mtgtip:`Crippling Fear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d9bd181-b99f-477e-bcfb-9b78cbf51224.jpg?1621303667|https://scryfall.com/card/khm/82/crippling-fear?utm_source=api>`
    Choose a creature type. Creatures that aren't of the chosen type get -3/-3 until end of turn.
 
 
-:mtgtip:`Deathknell Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9f2029f-ffda-4374-9a78-79866ac23fca.jpg?1610586636|https://scryfall.com/card/khm/83/deathknell-berserker?utm_source=api>`
+:mtgtip:`Deathknell Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9f2029f-ffda-4374-9a78-79866ac23fca.jpg?1621303692|https://scryfall.com/card/khm/83/deathknell-berserker?utm_source=api>`
    When Deathknell Berserker dies, if its power was 3 or greater, create a 2/2 black Zombie Berserker creature token.
 
 
-:mtgtip:`Demonic Gifts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f23c487-ac4a-475b-ad5e-ec6f8678e668.jpg?1611054452|https://scryfall.com/card/khm/84/demonic-gifts?utm_source=api>`
+:mtgtip:`Demonic Gifts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f23c487-ac4a-475b-ad5e-ec6f8678e668.jpg?1621303718|https://scryfall.com/card/khm/84/demonic-gifts?utm_source=api>`
    Until end of turn, target creature gets +2/+0 and gains "When this creature dies, return it to the battlefield under its owner's control."
 
 
-:mtgtip:`Dogged Pursuit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60f6a159-b969-4767-802e-409f8bf286fe.jpg?1610397582|https://scryfall.com/card/khm/85/dogged-pursuit?utm_source=api>`
+:mtgtip:`Dogged Pursuit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60f6a159-b969-4767-802e-409f8bf286fe.jpg?1621303745|https://scryfall.com/card/khm/85/dogged-pursuit?utm_source=api>`
    At the beginning of your end step, each opponent loses 1 life and you gain 1 life.
 
 
-:mtgtip:`Draugr Necromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76d8e0ff-e720-41ca-af69-35585a2d7ae2.jpg?1610996857|https://scryfall.com/card/khm/86/draugr-necromancer?utm_source=api>`
+:mtgtip:`Draugr Necromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76d8e0ff-e720-41ca-af69-35585a2d7ae2.jpg?1621303774|https://scryfall.com/card/khm/86/draugr-necromancer?utm_source=api>`
    If a nontoken creature an opponent controls would die, exile that card with an ice counter on it instead.
 
    You may cast spells from among cards in exile your opponents own with ice counters on them, and you may spend mana from snow sources as though it were mana of any color to cast those spells.
 
 
-:mtgtip:`Draugr Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2.jpg?1611170200|https://scryfall.com/card/khm/87/draugr-recruiter?utm_source=api>`
+:mtgtip:`Draugr Recruiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2.jpg?1621303801|https://scryfall.com/card/khm/87/draugr-recruiter?utm_source=api>`
    Boast — |mana_3|\ |mana_b|: Return target creature card from your graveyard to your hand. (Activate only if this creature attacked this turn and only once each turn.)
 
 
-:mtgtip:`Draugr's Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327.jpg?1610562272|https://scryfall.com/card/khm/88/draugrs-helm?utm_source=api>`
+:mtgtip:`Draugr's Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327.jpg?1621303828|https://scryfall.com/card/khm/88/draugrs-helm?utm_source=api>`
    When Draugr's Helm enters the battlefield, you may pay |mana_2|\ |mana_b|. If you do, create a 2/2 black Zombie Berserker creature token, then attach Draugr's Helm to it.
 
    Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
@@ -545,67 +545,67 @@
    Equip |mana_4|
 
 
-:mtgtip:`Dread Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/205eb029-68a0-4895-b142-2eb09987b5cb.jpg?1610909840|https://scryfall.com/card/khm/89/dread-rider?utm_source=api>`
+:mtgtip:`Dread Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/205eb029-68a0-4895-b142-2eb09987b5cb.jpg?1621303853|https://scryfall.com/card/khm/89/dread-rider?utm_source=api>`
    |mana_1|\ |mana_b|, |tap|, Exile a creature card from your graveyard: Target opponent loses 3 life.
 
 
-:mtgtip:`Dream Devourer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff1d88a6-a74d-44b5-b7a8-866e866807f1.jpg?1611170269|https://scryfall.com/card/khm/90/dream-devourer?utm_source=api>`
+:mtgtip:`Dream Devourer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff1d88a6-a74d-44b5-b7a8-866e866807f1.jpg?1621303880|https://scryfall.com/card/khm/90/dream-devourer?utm_source=api>`
    Each nonland card in your hand without foretell has foretell. Its foretell cost is equal to its mana cost reduced by |mana_2|. (During your turn, you may pay |mana_2| and exile it from your hand face down. Cast it on a later turn for its foretell cost.)
 
    Whenever you foretell a card, Dream Devourer gets +2/+0 until end of turn.
 
 
-:mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1618519591|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`
+:mtgtip:`Duskwielder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b5490b8-5652-40f5-8678-e1263ef69b5a.jpg?1621303912|https://scryfall.com/card/khm/91/duskwielder?utm_source=api>`
    Boast — |mana_1|: Target opponent loses 1 life and you gain 1 life. (Activate only if this creature attacked this turn and only once each turn.)
 
 
-:mtgtip:`Egon, God of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1610397419|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`
+:mtgtip:`Egon, God of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1621303969|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`
    Deathtouch
 
    At the beginning of your upkeep, exile two cards from your graveyard. If you can't, sacrifice Egon and draw a card.
 
 
-:mtgtip:`Throne of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1610397419|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`
+:mtgtip:`Throne of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.jpg?1621303969|https://scryfall.com/card/khm/92/egon-god-of-death-throne-of-death?utm_source=api>`
    At the beginning of your upkeep, mill a card.
 
    |mana_2|\ |mana_b|, |tap|, Exile a creature card from your graveyard: Draw a card.
 
 
-:mtgtip:`Elderfang Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f3a6148-d005-49c1-a7fc-867c4e8251cd.jpg?1610647871|https://scryfall.com/card/khm/93/elderfang-disciple?utm_source=api>`
+:mtgtip:`Elderfang Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f3a6148-d005-49c1-a7fc-867c4e8251cd.jpg?1621303994|https://scryfall.com/card/khm/93/elderfang-disciple?utm_source=api>`
    When Elderfang Disciple enters the battlefield, each opponent discards a card.
 
 
-:mtgtip:`Eradicator Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00edda3-ddbc-44ee-a14b-47a701445bb0.jpg?1610852419|https://scryfall.com/card/khm/94/eradicator-valkyrie?utm_source=api>`
+:mtgtip:`Eradicator Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00edda3-ddbc-44ee-a14b-47a701445bb0.jpg?1621304017|https://scryfall.com/card/khm/94/eradicator-valkyrie?utm_source=api>`
    Flying, lifelink, hexproof from planeswalkers
 
    Boast — |mana_1|\ |mana_b|, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate only if this creature attacked this turn and only once each turn.)
 
 
-:mtgtip:`Feed the Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99a1a75b-20cf-4db9-a244-cc54411446c4.jpg?1610398737|https://scryfall.com/card/khm/95/feed-the-serpent?utm_source=api>`
+:mtgtip:`Feed the Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99a1a75b-20cf-4db9-a244-cc54411446c4.jpg?1621304044|https://scryfall.com/card/khm/95/feed-the-serpent?utm_source=api>`
    Exile target creature or planeswalker.
 
 
-:mtgtip:`Grim Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54340c59-03a9-4d9d-bd27-9aed337ce75a.jpg?1610996881|https://scryfall.com/card/khm/96/grim-draugr?utm_source=api>`
+:mtgtip:`Grim Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54340c59-03a9-4d9d-bd27-9aed337ce75a.jpg?1621304069|https://scryfall.com/card/khm/96/grim-draugr?utm_source=api>`
    |mana_1|\ |mana_s|: Grim Draugr gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. |mana_s| can be paid with one mana from a snow source.)
 
 
-:mtgtip:`Hailstorm Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5a272b3-aaab-4c98-86a8-85c67a5f3d4d.jpg?1610996883|https://scryfall.com/card/khm/97/hailstorm-valkyrie?utm_source=api>`
+:mtgtip:`Hailstorm Valkyrie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5a272b3-aaab-4c98-86a8-85c67a5f3d4d.jpg?1621304098|https://scryfall.com/card/khm/97/hailstorm-valkyrie?utm_source=api>`
    Flying, trample
 
    |mana_s|\ |mana_s|: Hailstorm Valkyrie gets +2/+2 until end of turn. (|mana_s| can be paid with one mana from a snow source.)
 
 
-:mtgtip:`Haunting Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2ac5bca0-35fe-47be-a78c-d5eac68a3bfa.jpg?1611170310|https://scryfall.com/card/khm/98/haunting-voyage?utm_source=api>`
+:mtgtip:`Haunting Voyage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2ac5bca0-35fe-47be-a78c-d5eac68a3bfa.jpg?1621304133|https://scryfall.com/card/khm/98/haunting-voyage?utm_source=api>`
    Choose a creature type. Return up to two creature cards of that type from your graveyard to the battlefield. If this spell was foretold, return all creature cards of that type from your graveyard to the battlefield instead.
 
    Foretell |mana_5|\ |mana_b|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Infernal Pet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80340582-655b-4bf1-88fb-14bcbe17aa04.jpg?1610647808|https://scryfall.com/card/khm/99/infernal-pet?utm_source=api>`
+:mtgtip:`Infernal Pet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80340582-655b-4bf1-88fb-14bcbe17aa04.jpg?1621304159|https://scryfall.com/card/khm/99/infernal-pet?utm_source=api>`
    Whenever you cast your second spell each turn, put a +1/+1 counter on Infernal Pet and it gains flying until end of turn.
 
 
-:mtgtip:`Jarl of the Forsaken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5b12c6c-c3d6-4b8a-bed4-d61f67f565b9.jpg?1610999252|https://scryfall.com/card/khm/100/jarl-of-the-forsaken?utm_source=api>`
+:mtgtip:`Jarl of the Forsaken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5b12c6c-c3d6-4b8a-bed4-d61f67f565b9.jpg?1621304192|https://scryfall.com/card/khm/100/jarl-of-the-forsaken?utm_source=api>`
    Flash
 
    When Jarl of the Forsaken enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.
@@ -613,27 +613,27 @@
    Foretell |mana_1|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Karfell Kennel-Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f670c380-6faa-42ec-ab41-6be8137169b2.jpg?1611000303|https://scryfall.com/card/khm/101/karfell-kennel-master?utm_source=api>`
+:mtgtip:`Karfell Kennel-Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f670c380-6faa-42ec-ab41-6be8137169b2.jpg?1621304222|https://scryfall.com/card/khm/101/karfell-kennel-master?utm_source=api>`
    When Karfell Kennel-Master enters the battlefield, up to two target creatures each get +1/+0 and gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)
 
 
-:mtgtip:`Koma's Faithful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af0f1a90-af64-4122-9c1a-954edf8fa240.jpg?1610153051|https://scryfall.com/card/khm/102/komas-faithful?utm_source=api>`
+:mtgtip:`Koma's Faithful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af0f1a90-af64-4122-9c1a-954edf8fa240.jpg?1621304259|https://scryfall.com/card/khm/102/komas-faithful?utm_source=api>`
    Lifelink
 
    When Koma's Faithful dies, each player mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 
-:mtgtip:`Poison the Cup<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fb94456-5266-47db-b514-a0e17e34b771.jpg?1610732667|https://scryfall.com/card/khm/103/poison-the-cup?utm_source=api>`
+:mtgtip:`Poison the Cup<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fb94456-5266-47db-b514-a0e17e34b771.jpg?1621304288|https://scryfall.com/card/khm/103/poison-the-cup?utm_source=api>`
    Destroy target creature. If this spell was foretold, scry 2.
 
    Foretell |mana_1|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Priest of the Haunted Edge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cde0f4d-5acc-4a25-a3d6-c6b9b734360c.jpg?1610999428|https://scryfall.com/card/khm/104/priest-of-the-haunted-edge?utm_source=api>`
+:mtgtip:`Priest of the Haunted Edge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cde0f4d-5acc-4a25-a3d6-c6b9b734360c.jpg?1621304321|https://scryfall.com/card/khm/104/priest-of-the-haunted-edge?utm_source=api>`
    |tap|, Sacrifice Priest of the Haunted Edge: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate only as a sorcery.
 
 
-:mtgtip:`Raise the Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a67c196-632c-4c7b-a132-de07d894e634.jpg?1610586723|https://scryfall.com/card/khm/105/raise-the-draugr?utm_source=api>`
+:mtgtip:`Raise the Draugr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a67c196-632c-4c7b-a132-de07d894e634.jpg?1621304350|https://scryfall.com/card/khm/105/raise-the-draugr?utm_source=api>`
    Choose one —
 
    • Return target creature card from your graveyard to your hand.
@@ -641,19 +641,19 @@
    • Return two target creature cards that share a creature type from your graveyard to your hand.
 
 
-:mtgtip:`Return Upon the Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/470601b0-9598-487f-bb14-4bfec7ca6d61.jpg?1610733057|https://scryfall.com/card/khm/106/return-upon-the-tide?utm_source=api>`
+:mtgtip:`Return Upon the Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/470601b0-9598-487f-bb14-4bfec7ca6d61.jpg?1621304375|https://scryfall.com/card/khm/106/return-upon-the-tide?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. If it's an Elf, create two 1/1 green Elf Warrior creature tokens.
 
    Foretell |mana_3|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Rise of the Dread Marn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3a1ec1-f362-494d-a23b-6a963ce44fdd.jpg?1610586117|https://scryfall.com/card/khm/107/rise-of-the-dread-marn?utm_source=api>`
+:mtgtip:`Rise of the Dread Marn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3a1ec1-f362-494d-a23b-6a963ce44fdd.jpg?1621304401|https://scryfall.com/card/khm/107/rise-of-the-dread-marn?utm_source=api>`
    Create X 2/2 black Zombie Berserker creature tokens, where X is the number of nontoken creatures that died this turn.
 
    Foretell |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Rune of Mortality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f75a5e5-70df-49c3-abe1-8cc6975f5171.jpg?1611077142|https://scryfall.com/card/khm/108/rune-of-mortality?utm_source=api>`
+:mtgtip:`Rune of Mortality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f75a5e5-70df-49c3-abe1-8cc6975f5171.jpg?1621304430|https://scryfall.com/card/khm/108/rune-of-mortality?utm_source=api>`
    Enchant permanent
 
    When Rune of Mortality enters the battlefield, draw a card.
@@ -663,11 +663,11 @@
    As long as enchanted permanent is an Equipment, it has "Equipped creature has deathtouch."
 
 
-:mtgtip:`Skemfar Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fad2c6d4-03dd-4dab-861c-77c55bda0db7.jpg?1611798182|https://scryfall.com/card/khm/109/skemfar-avenger?utm_source=api>`
+:mtgtip:`Skemfar Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fad2c6d4-03dd-4dab-861c-77c55bda0db7.jpg?1621304453|https://scryfall.com/card/khm/109/skemfar-avenger?utm_source=api>`
    Whenever another nontoken Elf or Berserker you control dies, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Skemfar Shadowsage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c204130f-0483-49ed-8512-03a74894702e.jpg?1610585908|https://scryfall.com/card/khm/110/skemfar-shadowsage?utm_source=api>`
+:mtgtip:`Skemfar Shadowsage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c204130f-0483-49ed-8512-03a74894702e.jpg?1621304477|https://scryfall.com/card/khm/110/skemfar-shadowsage?utm_source=api>`
    When Skemfar Shadowsage enters the battlefield, choose one —
 
    • Each opponent loses X life, where X is the greatest number of creatures you control that have a creature type in common.
@@ -675,37 +675,37 @@
    • You gain X life, where X is the greatest number of creatures you control that have a creature type in common.
 
 
-:mtgtip:`Skull Raid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4589c520-4db3-47bf-bfb2-5d7e02ede4bf.jpg?1610931165|https://scryfall.com/card/khm/111/skull-raid?utm_source=api>`
+:mtgtip:`Skull Raid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4589c520-4db3-47bf-bfb2-5d7e02ede4bf.jpg?1621304500|https://scryfall.com/card/khm/111/skull-raid?utm_source=api>`
    Target opponent discards two cards. If fewer than two cards were discarded this way, you draw cards equal to the difference.
 
    Foretell |mana_1|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Tergrid, God of Fright<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14dc88ee-bba9-4625-af0d-89f3762a0ead.jpg?1610586381|https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern?utm_source=api>`
+:mtgtip:`Tergrid, God of Fright<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14dc88ee-bba9-4625-af0d-89f3762a0ead.jpg?1621304551|https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern?utm_source=api>`
    Menace
 
    Whenever an opponent sacrifices a nontoken permanent or discards a permanent card, you may put that card from a graveyard onto the battlefield under your control.
 
 
-:mtgtip:`Tergrid's Lantern<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/4/14dc88ee-bba9-4625-af0d-89f3762a0ead.jpg?1610586381|https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern?utm_source=api>`
+:mtgtip:`Tergrid's Lantern<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/4/14dc88ee-bba9-4625-af0d-89f3762a0ead.jpg?1621304551|https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern?utm_source=api>`
    |tap|: Target player loses 3 life unless they sacrifice a nonland permanent or discard a card.
 
    |mana_3|\ |mana_b|: Untap Tergrid's Lantern.
 
 
-:mtgtip:`Tergrid's Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/417f71d2-d7da-4279-8847-d27c67e9ea9d.jpg?1616399807|https://scryfall.com/card/khm/113/tergrids-shadow?utm_source=api>`
+:mtgtip:`Tergrid's Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/417f71d2-d7da-4279-8847-d27c67e9ea9d.jpg?1621304579|https://scryfall.com/card/khm/113/tergrids-shadow?utm_source=api>`
    Each player sacrifices two creatures.
 
    Foretell |mana_2|\ |mana_b|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Valki, God of Lies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1610153366|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
+:mtgtip:`Valki, God of Lies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1623022326|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
    When Valki enters the battlefield, each opponent reveals their hand. For each opponent, exile a creature card they revealed this way until Valki leaves the battlefield.
 
    |mana_x|: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card.
 
 
-:mtgtip:`Tibalt, Cosmic Impostor<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1610153366|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
+:mtgtip:`Tibalt, Cosmic Impostor<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1623022326|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
    As Tibalt enters the battlefield, you get an emblem with "You may play cards exiled with Tibalt, Cosmic Impostor, and you may spend mana as though it were mana of any color to cast those spells."
 
    +2: Exile the top card of each player's library.
@@ -715,25 +715,25 @@
    −8: Exile all cards from all graveyards. Add |mana_r|\ |mana_r|\ |mana_r|.
 
 
-:mtgtip:`Varragoth, Bloodsky Sire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efa8dbf0-4e5a-452b-826f-5813e8cd9d85.jpg?1610910043|https://scryfall.com/card/khm/115/varragoth-bloodsky-sire?utm_source=api>`
+:mtgtip:`Varragoth, Bloodsky Sire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efa8dbf0-4e5a-452b-826f-5813e8cd9d85.jpg?1621304627|https://scryfall.com/card/khm/115/varragoth-bloodsky-sire?utm_source=api>`
    Deathtouch
 
    Boast — |mana_1|\ |mana_b|: Target player searches their library for a card, then shuffles and puts that card on top. (Activate only if this creature attacked this turn and only once each turn.)
 
 
-:mtgtip:`Vengeful Reaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854c99fd-71ba-40b7-98cf-b783f01a77b4.jpg?1611078403|https://scryfall.com/card/khm/116/vengeful-reaper?utm_source=api>`
+:mtgtip:`Vengeful Reaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/854c99fd-71ba-40b7-98cf-b783f01a77b4.jpg?1621304653|https://scryfall.com/card/khm/116/vengeful-reaper?utm_source=api>`
    Flying, deathtouch, haste
 
    Foretell |mana_1|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Village Rites<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1610149348|https://scryfall.com/card/khm/117/village-rites?utm_source=api>`
+:mtgtip:`Village Rites<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1621304677|https://scryfall.com/card/khm/117/village-rites?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Draw two cards.
 
 
-:mtgtip:`Weigh Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6ffa795d-2211-49b0-a6df-812599758f7b.jpg?1611006102|https://scryfall.com/card/khm/118/weigh-down?utm_source=api>`
+:mtgtip:`Weigh Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6ffa795d-2211-49b0-a6df-812599758f7b.jpg?1621304701|https://scryfall.com/card/khm/118/weigh-down?utm_source=api>`
    As an additional cost to cast this spell, exile a creature card from your graveyard.
 
    Target creature gets -3/-3 until end of turn.
@@ -759,17 +759,17 @@
    When Basalt Ravager enters the battlefield, it deals X damage to any target, where X is the greatest number of creatures you control that have a creature type in common.
 
 
-:mtgtip:`Birgi, God of Storytelling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1616399827|https://scryfall.com/card/khm/123/birgi-god-of-storytelling-harnfel-horn-of-bounty?utm_source=api>`
+:mtgtip:`Birgi, God of Storytelling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1621304766|https://scryfall.com/card/khm/123/birgi-god-of-storytelling-harnfel-horn-of-bounty?utm_source=api>`
    Whenever you cast a spell, add |mana_r|. Until end of turn, you don't lose this mana as steps and phases end.
 
    Creatures you control can boast twice during each of your turns rather than once.
 
 
-:mtgtip:`Harnfel, Horn of Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1616399827|https://scryfall.com/card/khm/123/birgi-god-of-storytelling-harnfel-horn-of-bounty?utm_source=api>`
+:mtgtip:`Harnfel, Horn of Bounty<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1621304766|https://scryfall.com/card/khm/123/birgi-god-of-storytelling-harnfel-horn-of-bounty?utm_source=api>`
    Discard a card: Exile the top two cards of your library. You may play those cards this turn.
 
 
-:mtgtip:`Breakneck Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6eb23c9-6061-4ad1-a8f3-2c791c49f352.jpg?1614987318|https://scryfall.com/card/khm/124/breakneck-berserker?utm_source=api>`
+:mtgtip:`Breakneck Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6eb23c9-6061-4ad1-a8f3-2c791c49f352.jpg?1624733561|https://scryfall.com/card/khm/124/breakneck-berserker?utm_source=api>`
    Haste
 
 
@@ -1019,7 +1019,7 @@
    |mana_5|\ |mana_g|\ |mana_g|: Elves you control get +2/+2 and gain deathtouch until end of turn.
 
 
-:mtgtip:`Esika, God of the Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6.jpg?1610295185|https://scryfall.com/card/khm/168/esika-god-of-the-tree-the-prismatic-bridge?utm_source=api>`
+:mtgtip:`Esika, God of the Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6.jpg?1621304834|https://scryfall.com/card/khm/168/esika-god-of-the-tree-the-prismatic-bridge?utm_source=api>`
    Vigilance
 
    |tap|: Add one mana of any color.
@@ -1027,7 +1027,7 @@
    Other legendary creatures you control have vigilance and "|tap|: Add one mana of any color."
 
 
-:mtgtip:`The Prismatic Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/6/f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6.jpg?1610295185|https://scryfall.com/card/khm/168/esika-god-of-the-tree-the-prismatic-bridge?utm_source=api>`
+:mtgtip:`The Prismatic Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/6/f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6.jpg?1621304834|https://scryfall.com/card/khm/168/esika-god-of-the-tree-the-prismatic-bridge?utm_source=api>`
    At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
 
 
@@ -1085,11 +1085,11 @@
    |tap|, Tap an untapped creature you control: Add one mana of any color.
 
 
-:mtgtip:`Jorn, God of Winter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c697548f-925b-405e-970a-4e78067d5c8e.jpg?1610996900|https://scryfall.com/card/khm/179/jorn-god-of-winter-kaldring-the-rimestaff?utm_source=api>`
+:mtgtip:`Jorn, God of Winter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c697548f-925b-405e-970a-4e78067d5c8e.jpg?1623022377|https://scryfall.com/card/khm/179/jorn-god-of-winter-kaldring-the-rimestaff?utm_source=api>`
    Whenever Jorn attacks, untap each snow permanent you control.
 
 
-:mtgtip:`Kaldring, the Rimestaff<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/6/c697548f-925b-405e-970a-4e78067d5c8e.jpg?1610996900|https://scryfall.com/card/khm/179/jorn-god-of-winter-kaldring-the-rimestaff?utm_source=api>`
+:mtgtip:`Kaldring, the Rimestaff<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/6/c697548f-925b-405e-970a-4e78067d5c8e.jpg?1623022377|https://scryfall.com/card/khm/179/jorn-god-of-winter-kaldring-the-rimestaff?utm_source=api>`
    |tap|: You may play target snow permanent card from your graveyard this turn. If you do, it enters the battlefield tapped.
 
 
@@ -1097,13 +1097,13 @@
    Until end of turn, target creature gets +1/+1 for each creature you control and gains trample. It must be blocked this turn if able.
 
 
-:mtgtip:`Kolvori, God of Kinship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b76bed98-30b1-4572-b36c-684ada06826c.jpg?1610368590|https://scryfall.com/card/khm/181/kolvori-god-of-kinship-the-ringhart-crest?utm_source=api>`
+:mtgtip:`Kolvori, God of Kinship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b76bed98-30b1-4572-b36c-684ada06826c.jpg?1621304888|https://scryfall.com/card/khm/181/kolvori-god-of-kinship-the-ringhart-crest?utm_source=api>`
    As long as you control three or more legendary creatures, Kolvori gets +4/+2 and has vigilance.
 
    |mana_1|\ |mana_g|, |tap|: Look at the top six cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`The Ringhart Crest<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/7/b76bed98-30b1-4572-b36c-684ada06826c.jpg?1610368590|https://scryfall.com/card/khm/181/kolvori-god-of-kinship-the-ringhart-crest?utm_source=api>`
+:mtgtip:`The Ringhart Crest<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/7/b76bed98-30b1-4572-b36c-684ada06826c.jpg?1621304888|https://scryfall.com/card/khm/181/kolvori-god-of-kinship-the-ringhart-crest?utm_source=api>`
    As The Ringhart Crest enters the battlefield, choose a creature type.
 
    |tap|: Add |mana_g|. Spend this mana only to cast a creature spell of the chosen type or a legendary creature spell.
@@ -1413,7 +1413,7 @@
    • Koma, Cosmos Serpent gains indestructible until end of turn.
 
 
-:mtgtip:`Maja, Bretagard Protector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3707f1-ed9d-412e-a7be-b6d8b554bd6c.jpg?1615603132|https://scryfall.com/card/khm/222/maja-bretagard-protector?utm_source=api>`
+:mtgtip:`Maja, Bretagard Protector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3707f1-ed9d-412e-a7be-b6d8b554bd6c.jpg?1623141427|https://scryfall.com/card/khm/222/maja-bretagard-protector?utm_source=api>`
    Other creatures you control get +1/+1.
 
    Whenever a land enters the battlefield under your control, create a 1/1 white Human Warrior creature token.
@@ -1623,11 +1623,11 @@
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Blightstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1615648855|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
+:mtgtip:`Blightstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1621472471|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Searstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1615648855|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
+:mtgtip:`Searstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1621472471|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
