@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-06 09:25+0200\n"
-"PO-Revision-Date: 2021-07-06 08:09+0000\n"
+"PO-Revision-Date: 2021-07-06 18:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -293,12 +293,16 @@ msgid ""
 "As long as Grand Master of Flowers has seven or more loyalty counters on "
 "him, he's a 7/7 Dragon God creature with flying and indestructible."
 msgstr ""
+"O ile ten wędrowiec ma co najmniej siedem znaczników lojalności, jest "
+"stworem Smok Bóg 7/7 z lataniem i niezniszczalnością."
 
 #: ../../AFR.rst:95
 msgid ""
 "+1: Target creature without first strike, double strike, or vigilance can't "
 "attack or block until your next turn."
 msgstr ""
+"+1: Do twojej następnej tury wskazany stwór bez pierwszego ciosu, podwójnego "
+"ciosu lub czujności nie może atakować ani blokować."
 
 #: ../../AFR.rst:97
 msgid ""
@@ -306,6 +310,9 @@ msgid ""
 "Hand, reveal it, and put it into your hand. If you search your library this "
 "way, shuffle it."
 msgstr ""
+"+1: Wyszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Monk of the "
+"Open Hand, ujawnij ją, umieść ją w twojej ręce. Jeśli twoja biblioteka "
+"została w ten sposób przeszukana, przetasuj ją."
 
 #: ../../AFR.rst:106
 msgid ""
@@ -450,6 +457,8 @@ msgid ""
 "Flurry of Blows — Whenever you cast your second spell each turn, put a +1/+1 "
 "counter on Monk of the Open Hand."
 msgstr ""
+"Nawał ciosów — Ilekroć rzucisz swój drugi czar w danej turze, umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../AFR.rst:144
 msgid ""
@@ -1138,6 +1147,8 @@ msgid ""
 "−10: Exchange your hand and library, then shuffle. You get an emblem with "
 "\"You have no maximum hand size.\""
 msgstr ""
+"–10: Zamień twoją rękę z twoją bibliotekę, po czym przetasuj. Dostajesz "
+"emblemat mający \"Nie masz limitu kart na ręce.\""
 
 #: ../../AFR.rst:370
 msgid ""
@@ -1396,6 +1407,8 @@ msgid ""
 "Target artifact or creature becomes a copy of another target artifact or "
 "creature."
 msgstr ""
+"Wskazany artefakt lub stwór staje się kopią innego wskazanego artefaktu lub "
+"stwora."
 
 #: ../../AFR.rst:468
 msgid ""
@@ -1644,6 +1657,9 @@ msgid ""
 "Exile that card. If an instant or a card with flash is exiled this way, they "
 "lose 1 life. Otherwise, you lose 1 life."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądową kartę. "
+"Wygnaj ową kartę. Jeśli w ten sposób wygnano kartę sztuczki lub mającą "
+"błysk, ów gracz traci 1 życie. W przeciwnym razie strać 1 życie."
 
 #: ../../AFR.rst:542
 msgid ""
@@ -2698,6 +2714,8 @@ msgid ""
 "|mana_r|: \"Inferno of the Star Mounts\" gets +1/+0 until end of turn. When "
 "its power becomes 20 this way, it deals 20 damage to any target."
 msgstr ""
+"|mana_1|: Ten stwór dostaje do końca tury +1/+0. Kiedy jego siła osiągnie w "
+"ten sposób 20, zadaje on wskazanemu celowi 20 obrażeń."
 
 #: ../../AFR.rst:882
 msgid ""
@@ -3752,15 +3770,15 @@ msgstr ""
 
 #: ../../AFR.rst:1227
 msgid "1/3 Turtle with hexproof."
-msgstr ""
+msgstr "Żółw 1/3 z antyklątwą."
 
 #: ../../AFR.rst:1229
 msgid "1/5 Spider with reach."
-msgstr ""
+msgstr "Pająk 1/5 z zasięgiem."
 
 #: ../../AFR.rst:1231
 msgid "3/3 Elephant with trample."
-msgstr ""
+msgstr "Słoń 3/3 z tratowaniem."
 
 #: ../../AFR.rst:1242
 msgid ""
@@ -4901,7 +4919,7 @@ msgstr ""
 
 #: ../../AFR.rst:1591
 msgid "Equip—Pay 1 life for each card in your hand."
-msgstr ""
+msgstr "Wyposaż—Zapłać po 1 życiu za każdą kartę w twojej ręce."
 
 #~ msgid "|mana_5|\\ |mana_b|: Roll a d20."
 #~ msgstr "|mana_5|\\ |mana_b|: Rzuć k20."
