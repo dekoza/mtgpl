@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-07 08:48+0200\n"
-"PO-Revision-Date: 2021-07-07 08:25+0000\n"
+"PO-Revision-Date: 2021-07-07 09:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -105,6 +105,9 @@ msgid ""
 "an enlightened counter on target Angel. It gains \"You can't lose the game "
 "and your opponents can't win the game.\" Activate only as a sorcery."
 msgstr ""
+"|mana_w|\\ |mana_w|\\ |mana_w|, |tap|, wygnaj ten artefakt: Umieść znacznik "
+"oświecenia na wskazanym Aniele. Zyskuje on \"Nie możesz przegrać gry, a twoi "
+"przeciwnicy nie mogą wygrać gry.\" Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:34
 msgid ""
@@ -1757,6 +1760,8 @@ msgid ""
 "Binding Contract — If you would draw a card, exile the top card of your "
 "library face down instead."
 msgstr ""
+"Wiążący kontrakt — Jeśli masz dobrać kartę, zamiast tego wygnaj zakrytą "
+"wierzchnią kartę twojej biblioteki."
 
 #: ../../AFR.rst:575
 msgid "|mana_b|\\ |mana_b|\\ |mana_b|: Draw seven cards."
@@ -1767,6 +1772,8 @@ msgid ""
 "|mana_b|: Return all cards exiled with Asmodeus the Archfiend to their "
 "owner's hand and you lose that much life."
 msgstr ""
+"|mana_b|: Przywróć wszystkie karty wygnane tym stworem do ręki właściciela i "
+"strać tyle samo żyć."
 
 #: ../../AFR.rst:586
 msgid ""
@@ -2818,6 +2825,9 @@ msgid ""
 "revealed a Dragon card or choose a Dragon as you cast this spell, Dragon's "
 "Fire deals damage equal to the power of that card or creature instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia. Jeśli "
+"rzucając ten czar ujawniłeś kartę Smoka lub wybrałeś Smoka, zamiast tego ten "
+"czar zadaje obrażenia równe sile owej karty."
 
 #: ../../AFR.rst:914
 msgid ""
@@ -5035,7 +5045,7 @@ msgstr ""
 
 #: ../../AFR.rst:1637
 msgid "Iron Golem attacks or blocks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje lub blokuje w każdej potyczce jeśli może."
 
 #: ../../AFR.rst:1644
 msgid ""
@@ -5056,7 +5066,7 @@ msgstr ""
 
 #: ../../AFR.rst:1643
 msgid "Equip |mana_0|. Activate only once each turn."
-msgstr ""
+msgstr "Wyposaż |mana_0|. Aktywuj tylko raz na turę."
 
 #: ../../AFR.rst:1650
 msgid ""
