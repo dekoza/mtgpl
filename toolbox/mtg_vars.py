@@ -315,4 +315,7 @@ cardtype_trans = [
     "planeswalker",  # 8
     "9",  # 9
     "sorcery",  # 10
+    "11",   # 11
+    "12",   # 12
+    "13",   # 13 dungeon?
 ]

@@ -38,6 +38,10 @@ msgctxt "DuelScene/Browsers/BrowserCardInfo_ActivateAbility"
 msgid "Activate Ability"
 msgstr ""
 
+msgctxt "DuelScene/Browsers/BrowserCardInfo_ActivateWith"
+msgid "Activate With"
+msgstr ""
+
 msgctxt "DuelScene/Browsers/BrowserCardInfo_AlternateCost"
 msgid "Alternate Cost"
 msgstr ""
@@ -166,6 +170,14 @@ msgctxt "DuelScene/Browsers/CombatPhase"
 msgid ""
 "Beginning of Combat, Declare Attackers, Declare Blockers, Combat Damage, End"
 " of Combat"
+msgstr ""
+
+msgctxt "DuelScene/Browsers/DungeonRoomSelect_BrowserHeader"
+msgid "Venture"
+msgstr ""
+
+msgctxt "DuelScene/Browsers/DungeonRoomSelect_BrowserSubHeader"
+msgid "Select the next room to move into."
 msgstr ""
 
 msgctxt "DuelScene/Browsers/EndingPhase"
@@ -1176,6 +1188,10 @@ msgctxt "DuelScene/FaceHanger/References"
 msgid "References"
 msgstr ""
 
+msgctxt "DuelScene/FaceHanger/RelatedCard"
+msgid "Related Card"
+msgstr ""
+
 msgctxt "DuelScene/FaceHanger/Token"
 msgid "Creates Token"
 msgstr ""
@@ -1213,6 +1229,10 @@ msgstr ""
 
 msgctxt "DuelScene/Interaction/AutoPay/PayWithNumberButtonText"
 msgid "Pay With {number} {manaSymbol}"
+msgstr ""
+
+msgctxt "DuelScene/Interaction/AutoPay/PayWithTreasure"
+msgid "Pay With Treasure"
 msgstr ""
 
 msgctxt "DuelScene/Interaction/AutoPay/SunderingStrokeButtonText"
@@ -1515,8 +1535,16 @@ msgctxt "DuelScene/RuleText/SupplementalTextYouCountTypeZone"
 msgid "You have {count} {types} in your {zones}."
 msgstr ""
 
+msgctxt "DuelScene/RuleText/TreasureSpentToCast"
+msgid "Mana from Treasure spent: {treasureManaSpent}"
+msgstr ""
+
 msgctxt "DuelScene/ScreenSpace/ManaPool/FromSnowSourceTooltip"
 msgid "<sprite=\"SpriteSheet_ManaIcons\" name=\"xS\"> Mana from a snow source"
+msgstr ""
+
+msgctxt "DuelScene/ScreenSpace/ManaPool/FromTreasureSourceTooltip"
+msgid "Mana from Treasure"
 msgstr ""
 
 msgctxt "DuelScene/ScreenSpace/Prompts/EnterFullControl"
