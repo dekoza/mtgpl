@@ -17,7 +17,7 @@
    When Arborea Pegasus enters the battlefield, target creature gets +1/+1 and gains flying until end of turn.
 
 
-:mtgtip:`Blink Dog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc040492-7fb7-4fdb-aafe-8179e5f2b28c.jpg?1625597705|https://scryfall.com/card/afr/3/blink-dog?utm_source=api>`
+:mtgtip:`Blink Dog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc040492-7fb7-4fdb-aafe-8179e5f2b28c.jpg?1625678424|https://scryfall.com/card/afr/3/blink-dog?utm_source=api>`
    Double strike
 
    Teleport — |mana_3|\ |mana_w|: Blink Dog phases out. (Treat it and anything attached to it as though they don't exist until your next turn.)
@@ -147,7 +147,7 @@
    Your opponents can't venture into the dungeon more than once each turn.
 
 
-:mtgtip:`Loyal Warhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.jpg?1625598086|https://scryfall.com/card/afr/23/loyal-warhound?utm_source=api>`
+:mtgtip:`Loyal Warhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.jpg?1625678574|https://scryfall.com/card/afr/23/loyal-warhound?utm_source=api>`
    Vigilance
 
    When Loyal Warhound enters the battlefield, if an opponent controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.
@@ -163,7 +163,7 @@
    Flurry of Blows — Whenever you cast your second spell each turn, put a +1/+1 counter on Monk of the Open Hand.
 
 
-:mtgtip:`Moon-Blessed Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b7fea79-9600-41d2-84d2-34a61a08a0d4.jpg?1624997409|https://scryfall.com/card/afr/26/moon-blessed-cleric?utm_source=api>`
+:mtgtip:`Moon-Blessed Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b7fea79-9600-41d2-84d2-34a61a08a0d4.jpg?1625686025|https://scryfall.com/card/afr/26/moon-blessed-cleric?utm_source=api>`
    Divine Intervention — When Moon-Blessed Cleric enters the battlefield, you may search your library for an enchantment card, reveal it, then shuffle and put that card on top.
 
 
@@ -273,7 +273,7 @@
    • Stand and Fight — Target creature gets +1/+3 until end of turn.
 
 
-:mtgtip:`Aberrant Mind Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9c6401a-e152-4acf-a2ca-75c484f296d5.jpg?1625597996|https://scryfall.com/card/afr/44/aberrant-mind-sorcerer?utm_source=api>`
+:mtgtip:`Aberrant Mind Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9c6401a-e152-4acf-a2ca-75c484f296d5.jpg?1625686065|https://scryfall.com/card/afr/44/aberrant-mind-sorcerer?utm_source=api>`
    Psionic Spells — When Aberrant Mind Sorcerer enters the battlefield, choose target instant or sorcery card in your graveyard, then roll a d20.
 
    1-9 | You may put that card on top of your library.
@@ -299,10 +299,10 @@
    Counter target creature or planeswalker spell. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1624989169|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?utm_source=api>`
+:mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1625680103|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?utm_source=api>`
    You many choose not to untap The Blackstaff of Waterdeep during your untap step.
 
-   Animate Walking Statue — |mana_1|\ |mana_u|, |tap|: Another target artifact you control becomes a 4/4 artifact creature for as long as The Blackstaff of Waterdeep remains tapped. Activate only as a sorcery.
+   Animate Walking Statue — |mana_1|\ |mana_u|, |tap|: Another target nontoken artifact you control becomes a 4/4 artifact creature for as long as The Blackstaff of Waterdeep remains tapped. Activate only as a sorcery.
 
 
 :mtgtip:`Blue Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98dea71b-2778-4374-8ea2-7fa82f0f6110.jpg?1625603829|https://scryfall.com/card/afr/49/blue-dragon?utm_source=api>`
@@ -347,10 +347,10 @@
    Displacement — |mana_3|\ |mana_u|: Return Displacer Beast to its owner's hand.
 
 
-:mtgtip:`Djinni Windseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67a42698-bf3b-4352-8178-9c98abfc5b09.jpg?1625169574|https://scryfall.com/card/afr/55/djinni-windseeker?utm_source=api>`
+:mtgtip:`Djinni Windseer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67a42698-bf3b-4352-8178-9c98abfc5b09.jpg?1625706527|https://scryfall.com/card/afr/55/djinni-windseer?utm_source=api>`
    Flying
 
-   When Djinni Windseeker enters the battlefield, roll a d20.
+   When Djinni Windseer enters the battlefield, roll a d20.
 
    1-9 | Scry 1.
 
@@ -477,7 +477,7 @@
    Whenever Shortcut Seeker deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Silver Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a671ec19-32f4-4fde-8ee0-1224471e79db.jpg?1625604153|https://scryfall.com/card/afr/74/silver-raven?utm_source=api>`
+:mtgtip:`Silver Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a671ec19-32f4-4fde-8ee0-1224471e79db.jpg?1625680741|https://scryfall.com/card/afr/74/silver-raven?utm_source=api>`
    Flying
 
    When Silver Raven enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
@@ -495,7 +495,7 @@
    Draw a card for each different mana value among nonland cards in your graveyard.
 
 
-:mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1624506086|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`
+:mtgtip:`Tasha's Hideous Laughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.jpg?1625686087|https://scryfall.com/card/afr/78/tashas-hideous-laughter?utm_source=api>`
    Each opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or more.
 
 
@@ -533,10 +533,10 @@
    20 | Copy each card exiled with Wizard's Spellbook. You may cast any number of the copies without paying their mana costs.
 
 
-:mtgtip:`You Come to a River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebf9bab7-98a0-4394-90c0-e7c52e14eb37.jpg?1624988423|https://scryfall.com/card/afr/83/you-come-to-a-river?utm_source=api>`
+:mtgtip:`You Come to a River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebf9bab7-98a0-4394-90c0-e7c52e14eb37.jpg?1625679648|https://scryfall.com/card/afr/83/you-come-to-a-river?utm_source=api>`
    Choose one —
 
-   • Fight the Current — Return target nonland permanent top its owner's hand.
+   • Fight the Current — Return target nonland permanent to its owner's hand.
 
    • Find a Crossing — Target creature gets +1/+0 until end of turn and can't be blocked this turn.
 
@@ -569,7 +569,7 @@
    Whenever Acererak the Archlich attacks, for each opponent, you create a 2/2 black Zombie creature token unless that player sacrifices a creature.
 
 
-:mtgtip:`Asmodeus the Archfiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.jpg?1625597387|https://scryfall.com/card/afr/88/asmodeus-the-archfiend?utm_source=api>`
+:mtgtip:`Asmodeus the Archfiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.jpg?1625678618|https://scryfall.com/card/afr/88/asmodeus-the-archfiend?utm_source=api>`
    Binding Contract — If you would draw a card, exile the top card of your library face down instead.
 
    |mana_b|\ |mana_b|\ |mana_b|: Draw seven cards.
@@ -605,7 +605,7 @@
    When Clattering Skeletons dies, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Deadly Dispute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1625598803|https://scryfall.com/card/afr/94/deadly-dispute?utm_source=api>`
+:mtgtip:`Deadly Dispute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1625679578|https://scryfall.com/card/afr/94/deadly-dispute?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
    Draw two cards and create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
@@ -655,16 +655,16 @@
    Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Feign Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.jpg?1625102776|https://scryfall.com/card/afr/103/feign-death?utm_source=api>`
-   Until end of turn, target creature gains "When this creature dies, return it to the battlefield tapped under it owner's control with a +1/+1 counter on it."
+:mtgtip:`Feign Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.jpg?1625679768|https://scryfall.com/card/afr/103/feign-death?utm_source=api>`
+   Until end of turn, target creature gains "When this creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it."
 
 
-:mtgtip:`Forsworn Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4acaf396-f950-42da-85ab-149ffb31fee6.jpg?1625335708|https://scryfall.com/card/afr/104/forsworn-paladin?utm_source=api>`
+:mtgtip:`Forsworn Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4acaf396-f950-42da-85ab-149ffb31fee6.jpg?1625679753|https://scryfall.com/card/afr/104/forsworn-paladin?utm_source=api>`
    Menace
 
    |mana_1|\ |mana_b|, |tap|, Pay 1 life: Create a Treasure token.
 
-   |mana_2|\ |mana_b|: Target creature get +2/+0 until end of turn. If mana from a Treasure was spent to activate this ability, that creature also gains deathtouch until end of turn.
+   |mana_2|\ |mana_b|: Target creature gets +2/+0 until end of turn. If mana from a Treasure was spent to activate this ability, that creature also gains deathtouch until end of turn.
 
 
 :mtgtip:`Gelatinous Cube<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.jpg?1624992857|https://scryfall.com/card/afr/105/gelatinous-cube?utm_source=api>`
@@ -697,7 +697,7 @@
    When Hired Hexblade enters the battlefield, if mana from a Treasure was spent to cast it, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Hoard Robber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b723d9cd-05f5-4894-9f2b-52a434a3019c.jpg?1625603667|https://scryfall.com/card/afr/110/hoard-robber?utm_source=api>`
+:mtgtip:`Hoard Robber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b723d9cd-05f5-4894-9f2b-52a434a3019c.jpg?1625679592|https://scryfall.com/card/afr/110/hoard-robber?utm_source=api>`
    Whenever Hoard Robber deals combat damage to a player, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
@@ -757,10 +757,10 @@
    Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn.
 
 
-:mtgtip:`Shambling Ghast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1625104234|https://scryfall.com/card/afr/119/shambling-ghast?utm_source=api>`
+:mtgtip:`Shambling Ghast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1625679700|https://scryfall.com/card/afr/119/shambling-ghast?utm_source=api>`
    When Shambling Ghast dies, choose one —
 
-   • Brave the Stench — Target creature an opponent controls -1/-1 until end of turn.
+   • Brave the Stench — Target creature an opponent controls gets -1/-1 until end of turn.
 
    • Search the Body — Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
@@ -771,10 +771,10 @@
    |mana_1|\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card.
 
 
-:mtgtip:`Sphere of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.jpg?1624964711|https://scryfall.com/card/afr/121/sphere-of-annihilation?utm_source=api>`
+:mtgtip:`Sphere of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.jpg?1625690264|https://scryfall.com/card/afr/121/sphere-of-annihilation?utm_source=api>`
    Sphere of Annihilation enters the battlefield with X void counters on it.
 
-   At the beginning of your upkeep, exile Sphere of Annihilation, all creatuers and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in all graveyards with mana value less than or equal to the number of void counters on it.
+   At the beginning of your upkeep, exile Sphere of Annihilation, all creatures and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in all graveyards with mana value less than or equal to the number of void counters on it.
 
 
 :mtgtip:`Thieves' Tools<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f50b922e-32dd-4645-b6f4-c07d1a0c70fc.jpg?1625601021|https://scryfall.com/card/afr/122/thieves-tools?utm_source=api>`
@@ -897,10 +897,10 @@
    15-20 | Create one of those tokens. You may roll again.
 
 
-:mtgtip:`Dragon's Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/9666987a-5267-46d3-9b00-31baa92a9cbc.jpg?1625602972|https://scryfall.com/card/afr/139/dragons-fire?utm_source=api>`
+:mtgtip:`Dragon's Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/9666987a-5267-46d3-9b00-31baa92a9cbc.jpg?1625683047|https://scryfall.com/card/afr/139/dragons-fire?utm_source=api>`
    As an additional cost to cast this spell, you may reveal a Dragon card from your hand or choose a Dragon you control.
 
-   Dragon's Fire deals 3 damage to target creature or planeswalker. If you revealed a Dragon card or choose a Dragon as you cast this spell, Dragon's Fire deals damage equal to the power of that card or creature instead.
+   Dragon's Fire deals 3 damage to target creature or planeswalker. If you revealed a Dragon card or chose a Dragon as you cast this spell, Dragon's Fire deals damage equal to the power of that card or creature instead.
 
 
 :mtgtip:`Dueling Rapier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c304118a-c83b-490a-b0e2-721734a996ee.jpg?1624998217|https://scryfall.com/card/afr/140/dueling-rapier?utm_source=api>`
@@ -931,7 +931,7 @@
    10-20 | Farideh's Fireball deals 2 damage to each opponent.
 
 
-:mtgtip:`Flameskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.jpg?1624988210|https://scryfall.com/card/afr/143/flameskull?utm_source=api>`
+:mtgtip:`Flameskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.jpg?1625686168|https://scryfall.com/card/afr/143/flameskull?utm_source=api>`
    Flying
 
    Flameskull can't block.
@@ -1011,10 +1011,10 @@
    Meteor Swarm deals 8 damage divided as you choose among X target creatures and/or planeswalkers.
 
 
-:mtgtip:`Minion of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1624964343|https://scryfall.com/card/afr/156/minion-of-the-mighty?utm_source=api>`
+:mtgtip:`Minion of the Mighty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.jpg?1625679665|https://scryfall.com/card/afr/156/minion-of-the-mighty?utm_source=api>`
    Menace
 
-   Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures wih total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking.
+   Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures with total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking.
 
 
 :mtgtip:`Orb of Dragonkind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a1c2cdd-353c-4747-bf0e-b995dd37ffca.jpg?1624996743|https://scryfall.com/card/afr/157/orb-of-dragonkind?utm_source=api>`
@@ -1023,12 +1023,12 @@
    |mana_r|, |tap|, Sacrifice Orb of Dragonkind: Look at the top seven cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Plundering Barbarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1624990993|https://scryfall.com/card/afr/158/plundering-barbarian?utm_source=api>`
+:mtgtip:`Plundering Barbarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1625679713|https://scryfall.com/card/afr/158/plundering-barbarian?utm_source=api>`
    When Plundering Barbarian enters the battlefield, choose one —
 
    • Smash the Chest — Destroy target artifact.
 
-   • Pry It Open — Creature a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+   • Pry It Open — Create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
 :mtgtip:`Price of Loyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47634528-cc34-406a-8572-812a41d6a86a.jpg?1625603309|https://scryfall.com/card/afr/159/price-of-loyalty?utm_source=api>`
@@ -1139,8 +1139,8 @@
    |tap|: Add |mana_g| for each creature you control.
 
 
-:mtgtip:`Circle of the Moon Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.jpg?1625603344|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?utm_source=api>`
-   Bear Form — As long as its your turn, Circle of the Moon Druid is a Bear with base power and toughness 4/2. (It loses all other creature types.)
+:mtgtip:`Circle of the Moon Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.jpg?1625705766|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?utm_source=api>`
+   Bear Form — As long as it's your turn, Circle of the Moon Druid is a Bear with base power and toughness 4/2. (It loses all other creature types.)
 
 
 :mtgtip:`Compelled Duel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a7e501d-943e-4e6d-9d8e-6bedc32a0dd8.jpg?1625601603|https://scryfall.com/card/afr/178/compelled-duel?utm_source=api>`
@@ -1223,10 +1223,10 @@
    • Song of Rest — You gain 3 life.
 
 
-:mtgtip:`Instrument of the Bards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d58486dc-3e78-4649-89c7-46f6210ff80f.jpg?1625166332|https://scryfall.com/card/afr/190/instrument-of-the-bards?utm_source=api>`
-   At the beginning of your upkeep, you may put a harmony counter on Instrument of Bards.
+:mtgtip:`Instrument of the Bards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d58486dc-3e78-4649-89c7-46f6210ff80f.jpg?1625679745|https://scryfall.com/card/afr/190/instrument-of-the-bards?utm_source=api>`
+   At the beginning of your upkeep, you may put a harmony counter on Instrument of the Bards.
 
-   |mana_3|\ |mana_g|, |tap|: Search your library for a creature card with mana value equal to the number of harmony counters on Instrument of Bards, reveal it, and put it into your hand. If that card is legendary, create a Treasure token. Then shuffle.
+   |mana_3|\ |mana_g|, |tap|: Search your library for a creature card with mana value equal to the number of harmony counters on Instrument of the Bards, reveal it, and put it into your hand. If that card is legendary, create a Treasure token. Then shuffle.
 
 
 :mtgtip:`Intrepid Outlander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b00777-d921-4264-9faf-5c048b656210.jpg?1625003238|https://scryfall.com/card/afr/191/intrepid-outlander?utm_source=api>`
@@ -1255,7 +1255,7 @@
    Whenever you gain life, untap Lurking Roper.
 
 
-:mtgtip:`Neverwinter Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e64d7cc7-bbdd-4db3-906e-a2f7672e0f67.jpg?1625597626|https://scryfall.com/card/afr/195/neverwinter-dryad?utm_source=api>`
+:mtgtip:`Neverwinter Dryad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e64d7cc7-bbdd-4db3-906e-a2f7672e0f67.jpg?1625678474|https://scryfall.com/card/afr/195/neverwinter-dryad?utm_source=api>`
    |mana_2|, Sacrifice Neverwinter Dryad: Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.
 
 
@@ -1273,10 +1273,10 @@
    Whenever a creature you control deals combat damage to a player, create that many Treasure tokens.
 
 
-:mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625511138|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
+:mtgtip:`Owlbear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.jpg?1625679724|https://scryfall.com/card/afr/198/owlbear?utm_source=api>`
    Trample
 
-   Keen senses — When Owlbear enters the battlefield, draw a card.
+   Keen Senses — When Owlbear enters the battlefield, draw a card.
 
 
 :mtgtip:`Plummet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4be85ceb-be98-43ce-9565-a72990797437.jpg?1625601696|https://scryfall.com/card/afr/199/plummet?utm_source=api>`
@@ -1289,7 +1289,7 @@
    Whenever another creature enters the battlefield under your control, you gain 1 life.
 
 
-:mtgtip:`Purple Worm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e419d58b-6241-4892-9080-f6894ac7ba89.jpg?1624964555|https://scryfall.com/card/afr/201/purple-worm?utm_source=api>`
+:mtgtip:`Purple Worm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e419d58b-6241-4892-9080-f6894ac7ba89.jpg?1625711241|https://scryfall.com/card/afr/201/purple-worm?utm_source=api>`
    This spell costs |mana_2| less to cast if a creature died this turn.
 
    Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
@@ -1343,7 +1343,7 @@
    Whenever The Tarrasque attacks, it fights target creature defending player controls.
 
 
-:mtgtip:`Underdark Basilisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed220158-e4e3-4d46-8098-7b940a923ce9.jpg?1625601821|https://scryfall.com/card/afr/208/underdark-basilisk?utm_source=api>`
+:mtgtip:`Underdark Basilisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed220158-e4e3-4d46-8098-7b940a923ce9.jpg?1625680771|https://scryfall.com/card/afr/208/underdark-basilisk?utm_source=api>`
    Deathtouch
 
 
@@ -1355,8 +1355,8 @@
    Whenever you complete a dungeon, create a 2/2 green Wolf creature token.
 
 
-:mtgtip:`Wandering Troubadour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3c7f123-31c8-469b-85e5-d20c4d21b2a0.jpg?1625163708|https://scryfall.com/card/afr/210/wandering-troubadour?utm_source=api>`
-   At the begining of your end step, if you had a land enter the battlefield under your control this turn, venture into the dungeon. (Enter the first room or advance to the next room.)
+:mtgtip:`Wandering Troubadour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3c7f123-31c8-469b-85e5-d20c4d21b2a0.jpg?1625679674|https://scryfall.com/card/afr/210/wandering-troubadour?utm_source=api>`
+   At the beginning of your end step, if you had a land enter the battlefield under your control this turn, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
 :mtgtip:`Werewolf Pack Leader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1624997178|https://scryfall.com/card/afr/211/werewolf-pack-leader?utm_source=api>`
@@ -1375,14 +1375,14 @@
    • 3/3 Elephant with trample.
 
 
-:mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625265728|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`
+:mtgtip:`You Find a Cursed Idol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.jpg?1625679634|https://scryfall.com/card/afr/213/you-find-a-cursed-idol?utm_source=api>`
    Choose one —
 
    • Smash It — Destroy target artifact.
 
    • Lift the Curse — Destroy target enchantment.
 
-   • Steal Its Eyes — Create an Treasure token and venture into the dungeon. (Enter the first room or advance to the next room.)
+   • Steal Its Eyes — Create a Treasure token and venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
 :mtgtip:`You Happen On a Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9ae7693-a6b5-42f8-9f05-c0643b95a710.jpg?1625104646|https://scryfall.com/card/afr/214/you-happen-on-a-glade?utm_source=api>`
@@ -1559,8 +1559,8 @@
    When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle.
 
 
-:mtgtip:`Trelasarra, Moon Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.jpg?1625457314|https://scryfall.com/card/afr/236/trelasarra-moon-dancer?utm_source=api>`
-   Whenever you gain life, put a +1/+1 counter on Trelasarra Moon Dancer and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+:mtgtip:`Trelasarra, Moon Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.jpg?1625679688|https://scryfall.com/card/afr/236/trelasarra-moon-dancer?utm_source=api>`
+   Whenever you gain life, put a +1/+1 counter on Trelasarra, Moon Dancer and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
 :mtgtip:`Triumphant Adventurer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/214d3167-4eea-42a1-a464-ddff59843142.jpg?1625106795|https://scryfall.com/card/afr/237/triumphant-adventurer?utm_source=api>`
@@ -1617,7 +1617,7 @@
    Rappel Down — |mana_4|, |tap|: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Greataxe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e840aef6-eec4-40dd-bbc4-6fd0b2b57805.jpg?1625598521|https://scryfall.com/card/afr/245/greataxe?utm_source=api>`
+:mtgtip:`Greataxe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e840aef6-eec4-40dd-bbc4-6fd0b2b57805.jpg?1625686191|https://scryfall.com/card/afr/245/greataxe?utm_source=api>`
    Equipped creature gets +4/+0.
 
    Equip |mana_5| (|mana_5|: Attach to target creature you control. Equip only as a sorcery.)
@@ -1631,13 +1631,13 @@
    Equip |mana_2|
 
 
-:mtgtip:`Iron Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ae24ef5-b12c-48ee-935a-00e048fb8d0f.jpg?1625601919|https://scryfall.com/card/afr/247/iron-golem?utm_source=api>`
+:mtgtip:`Iron Golem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ae24ef5-b12c-48ee-935a-00e048fb8d0f.jpg?1625679611|https://scryfall.com/card/afr/247/iron-golem?utm_source=api>`
    Vigilance
 
    Iron Golem attacks or blocks each combat if able.
 
 
-:mtgtip:`Leather Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e62d4e76-cdb0-48c7-aa1c-b1f514057b68.jpg?1625597492|https://scryfall.com/card/afr/248/leather-armor?utm_source=api>`
+:mtgtip:`Leather Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e62d4e76-cdb0-48c7-aa1c-b1f514057b68.jpg?1625679357|https://scryfall.com/card/afr/248/leather-armor?utm_source=api>`
    Equipped creature gets +0/+1 and has ward |mana_1|. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
 
    Equip |mana_0|. Activate only once each turn.
@@ -1655,14 +1655,14 @@
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Spike Pit Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59fbf45a-23b4-4d06-abd9-4cc3895cb29d.jpg?1625110414|https://scryfall.com/card/afr/251/spike-pit-trap?utm_source=api>`
+:mtgtip:`Spiked Pit Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59fbf45a-23b4-4d06-abd9-4cc3895cb29d.jpg?1625707107|https://scryfall.com/card/afr/251/spiked-pit-trap?utm_source=api>`
    Flash
 
-   |mana_5|, |tap|, Sacrifice Spike Pit Trap: Choose target creature, then roll a d20.
+   |mana_5|, |tap|, Sacrifice Spiked Pit Trap: Choose target creature, then roll a d20.
 
    1-9 | Spiked Pit Trap deals 5 damage to that creature.
 
-   10-20 | Spike Pit Trap deals 5 damage to that creature. Create a Treasure token.
+   10-20 | Spiked Pit Trap deals 5 damage to that creature. Create a Treasure token.
 
 
 :mtgtip:`Treasure Chest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.jpg?1625265864|https://scryfall.com/card/afr/252/treasure-chest?utm_source=api>`
@@ -1693,15 +1693,15 @@
    |mana_3|\ |mana_r|: Until end of turn, Den of the Bugbear becomes a 3/2 red Goblin creature with "Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking." It's still a land.
 
 
-:mtgtip:`Dungeon Descent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4cccdbc-f4f4-42b6-9747-6ef703ff949a.jpg?1625607504|https://scryfall.com/card/afr/255/dungeon-descent?utm_source=api>`
+:mtgtip:`Dungeon Descent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4cccdbc-f4f4-42b6-9747-6ef703ff949a.jpg?1625680526|https://scryfall.com/card/afr/255/dungeon-descent?utm_source=api>`
    Dungeon Descent enters the battlefield tapped.
 
    |tap|: Add |colorless|.
 
-   |mana_4|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery.(Enter the first room or advance to the next room.)
+   |mana_4|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1624734003|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`
+:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1625711291|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
@@ -1729,7 +1729,7 @@
    |mana_x|\ |mana_g|: Until end of turn, Lair of the Hydra becomes an X/X green Hydra creature. It's still a land. X can't be 0.
 
 
-:mtgtip:`Temple of the Dragon Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c79b3c6-ccbe-48ae-a1f7-ddfd37ecdbf5.jpg?1625597837|https://scryfall.com/card/afr/260/temple-of-the-dragon-queen?utm_source=api>`
+:mtgtip:`Temple of the Dragon Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c79b3c6-ccbe-48ae-a1f7-ddfd37ecdbf5.jpg?1625678532|https://scryfall.com/card/afr/260/temple-of-the-dragon-queen?utm_source=api>`
    As Temple of the Dragon Queen enters the battlefield, you may reveal a Dragon card from your hand. Temple of the Dragon Queen enters the battlefield tapped unless you revealed a Dragon card this way or you control a Dragon.
 
    As Temple of the Dragon Queen enters the battlefield, choose a color.
