@@ -50,6 +50,13 @@ msgctxt "DuelScene/Browsers/BrowserCardInfo_ActivateAbility"
 msgid "Activate Ability"
 msgstr "Aktywuj zdolność"
 
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/BrowserCardInfo_ActivateAbility"
+#| msgid "Activate Ability"
+msgctxt "DuelScene/Browsers/BrowserCardInfo_ActivateWith"
+msgid "Activate With"
+msgstr "Aktywuj zdolność"
+
 msgctxt "DuelScene/Browsers/BrowserCardInfo_AlternateCost"
 msgid "Alternate Cost"
 msgstr "Koszt alternatywny"
@@ -181,6 +188,14 @@ msgid ""
 msgstr ""
 "Początek potyczki, deklaracja atakujących, deklaracja blokujących, obrażenia "
 "bojowe, koniec potyczki"
+
+msgctxt "DuelScene/Browsers/DungeonRoomSelect_BrowserHeader"
+msgid "Venture"
+msgstr ""
+
+msgctxt "DuelScene/Browsers/DungeonRoomSelect_BrowserSubHeader"
+msgid "Select the next room to move into."
+msgstr ""
 
 msgctxt "DuelScene/Browsers/EndingPhase"
 msgid "End, Cleanup"
@@ -1215,6 +1230,13 @@ msgctxt "DuelScene/FaceHanger/References"
 msgid "References"
 msgstr "Odnosi się do"
 
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/Revealed_Card_Title"
+#| msgid "Revealed Cards"
+msgctxt "DuelScene/FaceHanger/RelatedCard"
+msgid "Related Card"
+msgstr "Ujawnione karty"
+
 msgctxt "DuelScene/FaceHanger/Token"
 msgid "Creates Token"
 msgstr "Tworzy żeton"
@@ -1256,6 +1278,13 @@ msgstr "Opłać używając {manaSymbols}"
 msgctxt "DuelScene/Interaction/AutoPay/PayWithNumberButtonText"
 msgid "Pay With {number} {manaSymbol}"
 msgstr "Opłać używając {number} {manaSymbol}"
+
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/BrowserCardInfo_PlayWith"
+#| msgid "Play With"
+msgctxt "DuelScene/Interaction/AutoPay/PayWithTreasure"
+msgid "Pay With Treasure"
+msgstr "Zagraj z"
 
 msgctxt "DuelScene/Interaction/AutoPay/SunderingStrokeButtonText"
 msgid "Pay Seven {redManaSymbol}"
@@ -1557,10 +1586,18 @@ msgctxt "DuelScene/RuleText/SupplementalTextYouCountTypeZone"
 msgid "You have {count} {types} in your {zones}."
 msgstr "Masz {count} {types} w twoich {zones}."
 
+msgctxt "DuelScene/RuleText/TreasureSpentToCast"
+msgid "Mana from Treasure spent: {treasureManaSpent}"
+msgstr ""
+
 msgctxt "DuelScene/ScreenSpace/ManaPool/FromSnowSourceTooltip"
 msgid "<sprite=\"SpriteSheet_ManaIcons\" name=\"xS\"> Mana from a snow source"
 msgstr ""
 "<sprite=\"SpriteSheet_ManaIcons\" name=\"xS\"> Mana ze śnieżnego źródła"
+
+msgctxt "DuelScene/ScreenSpace/ManaPool/FromTreasureSourceTooltip"
+msgid "Mana from Treasure"
+msgstr ""
 
 msgctxt "DuelScene/ScreenSpace/Prompts/EnterFullControl"
 msgid "Enter Full Control"
