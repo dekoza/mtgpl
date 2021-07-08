@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-07-07
+   * Pełne tłumaczenie dodatku :doc:`Adventures in Forgotten Realms<AFR>`
+
 2021-04-19
    * Początek dużej aktualizacji słownictwa - "converted mana cost" zmienił się w "mana value" oraz
      "shuffle your library" skrócono do "shuffle". Z tego powodu

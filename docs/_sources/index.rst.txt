@@ -37,7 +37,7 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Standard: :mtgexp:`AFR` :doc:`Dungeons & Dragons: Adventures in the Forgotten Realms<AFR>` (Premiera: 2021-07-23)
+* Standard: :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent| (Premiera: 2021-07-23)
 
 Standard
 --------
