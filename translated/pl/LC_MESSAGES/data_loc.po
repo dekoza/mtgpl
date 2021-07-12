@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-07-09 14:01+0000\n"
+"PO-Revision-Date: 2021-07-12 09:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -32979,18 +32979,13 @@ msgid "Sleek Schooner"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "174018"
-#| msgid ""
-#| "The pirates had left the open sea behind, but they were still in their "
-#| "element: reckless adventure."
 msgctxt "174018"
 msgid ""
 "<i>The pirates had left the open sea behind, but they were still in their "
 "element: reckless adventure.</i>"
 msgstr ""
-"Piraci zostawili za sobą otwarte morze, ale nadal byli w swoim żywiole: "
-"brawurowej przygodzie."
+"<i>Piraci zostawili za sobą otwarte morze, ale nadal byli w swoim żywiole: "
+"brawurowej przygodzie.</i>"
 
 #. card_title
 msgctxt "174019"
@@ -33439,12 +33434,9 @@ msgid ""
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "181575"
-#| msgid "Loyal to his queen, slave to his thirst."
 msgctxt "181575"
 msgid "<i>Loyal to his queen, slave to his thirst.</i>"
-msgstr "Lojalny swojej królowej, niewolnik swego pragnienia."
+msgstr "<i>Lojalny swojej królowej, niewolnik swego pragnienia.</i>"
 
 #. internal_ability
 msgctxt "181576"
@@ -33484,16 +33476,12 @@ msgid "Luminous Bonds"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "181583"
-#| msgid ""
-#| "\"Your part in this fight is done, vampire. Get used to your thirst.\""
 msgctxt "181583"
 msgid ""
 "<i>\"Your part in this fight is done, vampire. Get used to your thirst.\"</i>"
 msgstr ""
-"\"Twoja rola w tej potyczce się zakończyła, wampirze. Przywyknij do swego "
-"pragnienia.\""
+"<i>\"Twoja rola w tej potyczce się zakończyła, wampirze. Przywyknij do swego "
+"pragnienia.\"</i>"
 
 #. card_title
 msgctxt "181584"
@@ -34805,12 +34793,9 @@ msgid "Pirate's Pillage"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "181823"
-#| msgid "Goblins can carry their body weight in loot."
 msgctxt "181823"
 msgid "<i>Goblins can carry their body weight in loot.</i>"
-msgstr "Gobliny potrafią unieść tyle łupów, ile same ważą."
+msgstr "</i>Gobliny potrafią unieść tyle łupów, ile same ważą.</i>"
 
 #. card_title
 msgctxt "181825"
@@ -34818,12 +34803,9 @@ msgid "Reckless Rage"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "181826"
-#| msgid "\"Hard to starboard! Starb— Abandon ship! Abandon ship!\""
 msgctxt "181826"
 msgid "<i>\"Hard to starboard! Starb— Abandon ship! Abandon ship!\"</i>"
-msgstr "\"Mocno na sterburtę! Sterb— Opuścić statek! Opuścić statek!\""
+msgstr "<i>\"Mocno na sterburtę! Sterb— Opuścić statek! Opuścić statek!\"</i>"
 
 #. internal_ability
 msgctxt "181827"
@@ -35971,12 +35953,9 @@ msgid "Gold-Forge Garrison"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "182018"
-#| msgid "An army of living gold for the golden city."
 msgctxt "182018"
 msgid "<i>An army of living gold for the golden city.</i>"
-msgstr "Armia żywego złota dla złotego miasta."
+msgstr "<i>Armia żywego złota dla złotego miasta.</i>"
 
 #. internal_ability, printed_ability, type_land
 msgctxt "182019"
@@ -79017,7 +78996,7 @@ msgctxt "352152"
 msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_w|: Create a 1/1 white Soldier creature token."
 msgstr ""
-"mana_3|\\ |mana_g|\\ |mana_w|: Stwórz żeton białego stwora Piechur 1/1."
+"|mana_3|\\ |mana_g|\\ |mana_w|: Stwórz żeton białego stwora Piechur 1/1."
 
 #. card_title
 msgctxt "352153"
@@ -116747,12 +116726,9 @@ msgid "Tergrid, God of Fright"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "477358"
-#| msgid "Fear is her one true companion."
 msgctxt "477358"
 msgid "<i>Fear is her one true companion.</i>"
-msgstr "Strach jest jej jedynym prawdziwym kompanem."
+msgstr "<i>Strach jest jej jedynym prawdziwym kompanem.</i>"
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "477359"
@@ -123087,12 +123063,9 @@ msgid "Arcane Subtraction"
 msgstr ""
 
 #. flavor_text
-#, fuzzy
-#| msgctxt "488257"
-#| msgid "The class learned little that day."
 msgctxt "488257"
 msgid "<i>The class learned little that day.</i>"
-msgstr "Klasa niewiele się nauczyła tego dnia."
+msgstr "<i>Klasa niewiele się nauczyła tego dnia.</i>"
 
 #. card_title
 msgctxt "488258"
@@ -134127,7 +134100,7 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "498638"
 msgid "|mana_1|\\ |mana_b|, |tap|, Pay 1 life: Create a Treasure token."
-msgstr "mana_1|\\ |mana_b|, |tap|, zapłać 1 życie: Stwórz żeton Skarbu."
+msgstr "|mana_1|\\ |mana_b|, |tap|, zapłać 1 życie: Stwórz żeton Skarbu."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "498639"
