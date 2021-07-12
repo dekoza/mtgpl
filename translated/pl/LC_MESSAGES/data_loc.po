@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-07-08 18:06+0000\n"
+"PO-Revision-Date: 2021-07-09 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -131809,13 +131809,10 @@ msgid "<i>\"You're not the first to underestimate me.\"</i>"
 msgstr ""
 
 #. internal_ability, printed_ability, type_creature
-#, fuzzy
-#| msgctxt "336371"
-#| msgid "Each opponent can't draw more than one card each turn."
 msgctxt "498301"
 msgid "Each opponent can't venture into the dungeon more than once each turn."
 msgstr ""
-"Każdy z przeciwników nie może dobrać więcej niż jednej karty w każdej turze."
+"Każdy z przeciwników nie może zapuszczać się do lochu więcej niż raz na turę."
 
 #. card_title
 msgctxt "498302"
@@ -131999,18 +131996,12 @@ msgid ""
 msgstr "Ilekroć CARDNAME wejdzie na pole bitwy lub atakuje, przyjmij |energy|."
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "414581"
-#| msgid ""
-#| "Whenever Korvold, Fae-Cursed King enters the battlefield or attacks, "
-#| "sacrifice another permanent."
 msgctxt "498322"
 msgid ""
 "Whenever Nadaar, Selfless Paladin enters the battlefield or attacks, venture "
 "into the dungeon."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, poświęć inny "
-"permanent."
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zapuść się do lochu."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "498323"
@@ -132293,18 +132284,13 @@ msgid "<i>Swift eyes to scout the way ahead.</i>"
 msgstr ""
 
 #. internal_ability, printed_ability, type_creature
-#, fuzzy
-#| msgctxt "488400"
-#| msgid ""
-#| "|mana_1|, Sacrifice another creature: Put a +1/+1 counter on target "
-#| "creature. Activate only as a sorcery."
 msgctxt "498361"
 msgid ""
 "|mana_3|, |tap|, Tap another untapped creature you control: Venture into the "
 "dungeon. Activate only as a sorcery."
 msgstr ""
-"|mana_1|, poświęć innego stwora: Umieść znacznik +1/+1 na wskazanym stworze. "
-"Aktywuj tylko jako obrzęd."
+"|mana_3|, |tap|, przekręć innego odkręconego stwora pod twoim władaniem: "
+"Zapuść się do lochu. Aktywuj tylko jako obrzęd."
 
 #. card_title
 msgctxt "498362"
@@ -132354,13 +132340,10 @@ msgid ""
 msgstr ""
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "235685"
-#| msgid "When Veteran Motorist enters the battlefield, scry 2."
 msgctxt "498369"
 msgid ""
 "When Veteran Dungeoneer enters the battlefield, venture into the dungeon."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu."
 
 #. card_title
 #, fuzzy
@@ -132558,13 +132541,10 @@ msgid "<i>\"This path is closed to you!\"</i>"
 msgstr ""
 
 #. internal_ability, printed_ability, type_instant
-#, fuzzy
-#| msgctxt "864"
-#| msgid "Exile target creature or planeswalker. You gain 2 life."
 msgctxt "498401"
 msgid ""
 "Counter target creature or planeswalker spell. Venture into the dungeon."
-msgstr "Wygnaj wskazanego stwora lub wędrowca. Zyskaj 2 życia."
+msgstr "Skontruj wskazany czar stwora lub wędrowca. Zapuść się do lochu."
 
 #. card_title
 msgctxt "498402"
@@ -132762,12 +132742,9 @@ msgid ""
 msgstr ""
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "273114"
-#| msgid "When Whisper Agent enters the battlefield, surveil 1."
 msgctxt "498429"
 msgid "When Displacer Beast enters the battlefield, venture into the dungeon."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu."
 
 #. internal_ability
 #, fuzzy
@@ -132865,13 +132842,10 @@ msgid "Tiefling Wizard"
 msgstr "Dżin Czarodziej"
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "437734"
-#| msgid "When Turntimber Ascetic enters the battlefield, you gain 3 life."
 msgctxt "498445"
 msgid ""
 "When Eccentric Apprentice enters the battlefield, venture into the dungeon."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu."
 
 #. internal_ability, printed_ability, type_creature
 msgctxt "498446"
@@ -132932,18 +132906,13 @@ msgid ""
 msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #. internal_ability, printed_ability, type_enchantment
-#, fuzzy
-#| msgctxt "420428"
-#| msgid ""
-#| "Enchanted creature gets +1/+1 and has lifelink and \"Whenever this "
-#| "creature deals combat damage to a player, draw a card.\""
 msgctxt "498453"
 msgid ""
 "Enchanted creature has flying and \"Whenever this creature deals combat "
 "damage to a player, venture into the dungeon.\""
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i ma więź życia oraz \"Ilekroć ten stwór zada "
-"graczowi obrażenia bojowe, dobierz kartę.\""
+"Zauroczony stwór ma latanie oraz \"Ilekroć ten stwór zada graczowi obrażenia "
+"bojowe, zapuść się do lochu.\""
 
 #. card_title
 msgctxt "498454"
@@ -133261,17 +133230,10 @@ msgid ""
 msgstr ""
 
 #. internal_ability, printed_ability, type_artifact, type_creature
-#, fuzzy
-#| msgctxt "517918"
-#| msgid ""
-#| "|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate only "
-#| "as a sorcery."
 msgctxt "498505"
 msgid ""
 "|mana_4|\\ |mana_u|: Venture into the dungeon. Activate only as a sorcery."
-msgstr ""
-"|mana_3|\\ |mana_b|, |tap|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako "
-"obrzęd."
+msgstr "|mana_4|\\ |mana_u|: Zapuść się do lochu. Aktywuj tylko jako obrzęd."
 
 #. card_title
 msgctxt "498506"
@@ -133310,17 +133272,11 @@ msgid ""
 msgstr "Ilekroć CARDNAME zada graczowi obrażenia bojowe, eksploruje."
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "437394"
-#| msgid ""
-#| "Whenever Shadow Stinger deals combat damage to a player, that player "
-#| "mills three cards."
 msgctxt "498512"
 msgid ""
 "Whenever Shortcut Seeker deals combat damage to a player, venture into the "
 "dungeon."
-msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz mieli trzy karty."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu."
 
 #. card_title
 msgctxt "498513"
@@ -133616,18 +133572,11 @@ msgid "Yuan-Ti Malison can't be blocked as long as it's attacking alone."
 msgstr "Ten stwór nie może być blokowany o ile atakuje samotnie."
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "236984"
-#| msgid ""
-#| "Whenever Initiate's Companion deals combat damage to a player, untap "
-#| "target creature or land."
 msgctxt "498562"
 msgid ""
 "Whenever Yuan-Ti Malison deals combat damage to a player, venture into the "
 "dungeon."
-msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, odkręć wskazanego stwora "
-"lub ląd."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu."
 
 #. card_title
 msgctxt "498563"
@@ -134128,17 +134077,13 @@ msgid "<i>A doom denied—or, perhaps, delayed.</i>"
 msgstr ""
 
 #. internal_ability, printed_ability, type_sorcery
-#, fuzzy
-#| msgctxt "946"
-#| msgid ""
-#| "Return up to one target creature card from your graveyard to your hand?"
 msgctxt "498632"
 msgid ""
 "Return up to one target creature card from your graveyard to your hand. "
 "Venture into the dungeon."
 msgstr ""
-"Przywrócić co najwyżej jedną wskazaną kartę stwora z twojego cmentarza do "
-"twojej ręki?"
+"Przywróć co najwyżej jedną wskazaną kartę stwora z twojego cmentarza do "
+"twojej ręki. Zapuść się do lochu."
 
 #. card_title
 msgctxt "498633"
@@ -134526,13 +134471,9 @@ msgid "Precipitous Drop"
 msgstr ""
 
 #. printed_ability, type_enchantment
-#, fuzzy
-#| msgctxt "352014"
-#| msgid ""
-#| "When Rapacious Dragon enters the battlefield, create two Treasure tokens."
 msgctxt "498692"
 msgid "When Precipitous Drop enters the battlefield, venture into the dungeon."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "498693"
@@ -135011,17 +134952,11 @@ msgid "<i>\"The air is sweet with the taste of your fear.\"</i>"
 msgstr ""
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "415839"
-#| msgid ""
-#| "Whenever equipped creature deals combat damage to a player, create a "
-#| "Treasure token."
 msgctxt "498751"
 msgid ""
 "Whenever Yuan-Ti Fang-Blade deals combat damage to a player, venture into "
 "the dungeon."
-msgstr ""
-"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, stwórz żeton Skarbu."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu."
 
 #. flavor_text
 msgctxt "498752"
@@ -135031,18 +134966,13 @@ msgid ""
 msgstr ""
 
 #. internal_ability, printed_ability, type_creature
-#, fuzzy
-#| msgctxt "434115"
-#| msgid ""
-#| "At the beginning of your end step, if a creature died this turn, draw a "
-#| "card."
 msgctxt "498753"
 msgid ""
 "At the beginning of your end step, if a creature died this turn, venture "
 "into the dungeon."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, dobierz "
-"kartę."
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, zapuść "
+"się do lochu."
 
 #. card_title
 msgctxt "498754"
@@ -135642,18 +135572,14 @@ msgid ""
 msgstr ""
 
 #. internal_ability, printed_ability, type_sorcery
-#, fuzzy
-#| msgctxt "336193"
-#| msgid ""
-#| "Put a +1/+1 counter on target creature. That creature gains first strike "
-#| "until end of turn. You gain 2 life."
 msgctxt "498861"
 msgid ""
 "Put a +1/+1 counter on target creature. That creature gains haste until end "
 "of turn and can't be blocked by Walls this turn. Venture into the dungeon."
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje pierwszy cios "
-"do końca tury. Zyskaj 2 życia."
+"Umieść znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje pośpiech do "
+"końca tury i nie może być w tej turze blokowany przez Ściany. Zapuść się do "
+"lochu."
 
 #. card_title
 msgctxt "498862"
@@ -136169,17 +136095,10 @@ msgstr ""
 "przeciwnikowi."
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "433891"
-#| msgid ""
-#| "Whenever Brash Taunter is dealt damage, it deals that much damage to "
-#| "target opponent."
 msgctxt "498928"
 msgid ""
 "Whenever Zalto, Fire Giant Duke is dealt damage, venture into the dungeon."
-msgstr ""
-"Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń wskazanemu "
-"przeciwnikowi."
+msgstr "Ilekroć ten stwór otrzyma obrażenia, zapuść się do lochu."
 
 #. card_title
 msgctxt "498929"
@@ -136560,12 +136479,9 @@ msgid "Find the Path"
 msgstr "Zakończ turę."
 
 #. printed_ability, type_enchantment
-#, fuzzy
-#| msgctxt "428361"
-#| msgid "When Honey Mammoth enters the battlefield, you gain 4 life."
 msgctxt "498979"
 msgid "When Find the Path enters the battlefield, venture into the dungeon."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zapuść się do lochu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "498980"
@@ -137277,19 +137193,12 @@ msgid "Ward |mana_1|"
 msgstr "Opieka |mana_1|"
 
 #. internal_ability, printed_ability, type_creature
-#, fuzzy
-#| msgctxt "494686"
-#| msgid ""
-#| "Whenever one or more other Elves enter the battlefield under your "
-#| "control, create a 1/1 green Elf Warrior creature token. This ability "
-#| "triggers only once each turn."
 msgctxt "499087"
 msgid ""
 "Whenever you cast a creature or planeswalker spell, venture into the "
 "dungeon. This ability triggers only once each turn."
 msgstr ""
-"Ilekroć co najmniej jeden inny Elf wejdzie na pole bitwy pod twoim "
-"władaniem, stwórz żeton zielonego stwora Elf Wojownik 1/1. Ta zdolność "
+"Ilekroć rzucisz czar stwora lub wędrowca, zapuść się do lochu. Ta zdolność "
 "wyzwala się tylko raz na turę."
 
 #. internal_ability, printed_ability, type_creature
@@ -137555,14 +137464,11 @@ msgid "Barrowin of Clan Undurr"
 msgstr ""
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "272704"
-#| msgid "When Barrier of Bones enters the battlefield, surveil 1."
 msgctxt "499124"
 msgid ""
 "When Barrowin of Clan Undurr enters the battlefield, venture into the "
 "dungeon."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu."
 
 #. internal_ability
 #, fuzzy
@@ -138413,13 +138319,9 @@ msgid "As long as it's your turn, Triumphant Adventurer has first strike."
 msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
 
 #. printed_ability, type_creature
-#, fuzzy
-#| msgctxt "237371"
-#| msgid "Whenever Dauntless Aven attacks, untap target creature you control."
 msgctxt "499222"
 msgid "Whenever Triumphant Adventurer attacks, venture into the dungeon."
-msgstr ""
-"Ilekroć ten stwór zaatakuje, odkręć wskazanego stwora pod twoim władaniem."
+msgstr "Ilekroć ten stwór zaatakuje, zapuść się do lochu."
 
 #. card_title
 msgctxt "499223"
@@ -138512,16 +138414,9 @@ msgid ""
 msgstr ""
 
 #. internal_ability, printed_ability, type_artifact
-#, fuzzy
-#| msgctxt "517918"
-#| msgid ""
-#| "|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate only "
-#| "as a sorcery."
 msgctxt "499237"
 msgid "|mana_3|, |tap|: Venture into the dungeon. Activate only as a sorcery."
-msgstr ""
-"|mana_3|\\ |mana_b|, |tap|: Wskazany gracz odrzuca kartę. Aktywuj tylko jako "
-"obrzęd."
+msgstr "|mana_3|, |tap|: Zapuść się do lochu. Aktywuj tylko jako obrzęd."
 
 #. card_title
 msgctxt "499238"
@@ -138878,18 +138773,13 @@ msgid "Dungeon Descent enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #. internal_ability, printed_ability, type_land
-#, fuzzy
-#| msgctxt "527273"
-#| msgid ""
-#| "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you "
-#| "control get +1/+1 until end of turn. Activate only as a sorcery."
 msgctxt "499296"
 msgid ""
 "|mana_4|, |tap|, Tap an untapped legendary creature you control: Venture "
 "into the dungeon. Activate only as a sorcery."
 msgstr ""
-"|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, poświęć Pustynię: Stwory pod twoim "
-"władaniem dostają do końca tury +1/+1. Aktywuj tylko jako obrzęd."
+"|mana_4|, |tap|, przekręć odkręconego legendarnego stwora pod twoim "
+"władaniem: Zapuść się do lochu. Aktywuj tylko jako obrzęd."
 
 #. flavor_text
 msgctxt "499297"
@@ -147704,13 +147594,10 @@ msgid "On a Quest!"
 msgstr ""
 
 #. internal_ability, printed_ability, type_artifact
-#, fuzzy
-#| msgctxt "477001"
-#| msgid "Whenever you cast your second spell each turn, you gain 2 life."
 msgctxt "541871"
 msgid ""
 "Whenever you cast your second spell each turn, venture into the dungeon."
-msgstr "Ilekroć rzucisz swój drugi czar w danej turze, zyskaj 2 życia."
+msgstr "Ilekroć rzucisz swój drugi czar w danej turze, zapuść się do lochu."
 
 #. internal_ability
 msgctxt "541874"
