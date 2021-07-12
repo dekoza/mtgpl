@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-08 08:49+0200\n"
+"POT-Creation-Date: 2021-07-12 11:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -398,7 +398,7 @@ msgid ":mtgtip:`Oswald Fiddlebender<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../AFR.rst:179
-msgid "|mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery."
+msgid "Magical Tinkering — |mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery."
 msgstr ""
 
 #: ../../AFR.rst:194
@@ -845,7 +845,7 @@ msgid "Grant an Advantage — if you would roll one or more dice, instead roll t
 msgstr ""
 
 #: ../../AFR.rst:436
-msgid ":mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625265798|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`"
+msgid ":mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625984652|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:429
@@ -857,7 +857,7 @@ msgid "1-9 | Return it to its owner's hand."
 msgstr ""
 
 #: ../../AFR.rst:433
-msgid "10-19 | Its owner puts it on the top of bottom of their library."
+msgid "10-19 | Its owner puts it on the top or bottom of their library."
 msgstr ""
 
 #: ../../AFR.rst:435
@@ -1138,7 +1138,7 @@ msgid "Acid Breath — When Black Dragon enters the battlefield, target creature
 msgstr ""
 
 #: ../../AFR.rst:598
-msgid ":mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1625515182|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`"
+msgid ":mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1625762257|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:595
@@ -1146,7 +1146,7 @@ msgid "At the beginning of your end step, if you lost 2 or more life this turn, 
 msgstr ""
 
 #: ../../AFR.rst:597
-msgid "|tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible. It gains all triggered abilities of the exiled cards."
+msgid "|tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible and all triggered abilities of the exiled cards."
 msgstr ""
 
 #: ../../AFR.rst:602
@@ -2632,7 +2632,7 @@ msgid "Flying, lifelink, haste"
 msgstr ""
 
 #: ../../AFR.rst:1420
-msgid ":mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625265261|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`"
+msgid ":mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625961754|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1411
