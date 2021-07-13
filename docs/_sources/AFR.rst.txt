@@ -176,7 +176,7 @@
 
 
 :mtgtip:`Oswald Fiddlebender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bba1650f-eddf-49a9-820e-489cb8d5b6fa.jpg?1625456373|https://scryfall.com/card/afr/28/oswald-fiddlebender?utm_source=api>`
-   |mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
+   Magical Tinkering — |mana_w|, |tap|, Sacrifice an artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
 :mtgtip:`Paladin Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.jpg?1625265351|https://scryfall.com/card/afr/29/paladin-class?utm_source=api>`
@@ -425,12 +425,12 @@
    Grant an Advantage — if you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
 
 
-:mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625265798|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`
+:mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625984652|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`
    Choose target creature an opponent controls, then roll a d20.
 
    1-9 | Return it to its owner's hand.
 
-   10-19 | Its owner puts it on the top of bottom of their library.
+   10-19 | Its owner puts it on the top or bottom of their library.
 
    20 | Gain control of it until the end of your next turn.
 
@@ -591,10 +591,10 @@
    Acid Breath — When Black Dragon enters the battlefield, target creature an opponent controls gets -3/-3 until end of turn.
 
 
-:mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1625515182|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`
+:mtgtip:`The Book of Vile Darkness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.jpg?1625762257|https://scryfall.com/card/afr/91/the-book-of-vile-darkness?utm_source=api>`
    At the beginning of your end step, if you lost 2 or more life this turn, create a 2/2 black Zombie creature token.
 
-   |tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible. It gains all triggered abilities of the exiled cards.
+   |tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible and all triggered abilities of the exiled cards.
 
 
 :mtgtip:`Check for Traps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.jpg?1625518484|https://scryfall.com/card/afr/92/check-for-traps?utm_source=api>`
@@ -1405,7 +1405,7 @@
    Flying, lifelink, haste
 
 
-:mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625265261|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`
+:mtgtip:`Bard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1625961754|https://scryfall.com/card/afr/217/bard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Legendary creatures you control enter the battlefield with an additional +1/+1 counter on them.
