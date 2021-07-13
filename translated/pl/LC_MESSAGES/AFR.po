@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-12 11:38+0200\n"
-"PO-Revision-Date: 2021-07-12 09:35+0000\n"
+"PO-Revision-Date: 2021-07-13 19:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -592,21 +592,16 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:179
-#, fuzzy
-#| msgid ""
-#| "|mana_w|, |tap|, Sacrifice an artifact: Search your library for an "
-#| "artifact card with mana value equal to 1 plus the sacrificed artifact's "
-#| "mana value. Put that card onto the battlefield, then shuffle. Activate "
-#| "only as a sorcery."
 msgid ""
 "Magical Tinkering — |mana_w|, |tap|, Sacrifice an artifact: Search your "
 "library for an artifact card with mana value equal to 1 plus the sacrificed "
 "artifact's mana value. Put that card onto the battlefield, then shuffle. "
 "Activate only as a sorcery."
 msgstr ""
-"|mana_w|, |tap|, poświęć artefakt: Wyszukaj w twojej bibliotece kartę "
-"artefaktu o skrócie many równym 1 plus skrót many poświęconego artefaktu. "
-"Umieść ową kartę na polu bitwy, po czym przetasuj. Aktywuj tylko jako obrzęd."
+"Magiczne majsterkowanie — |mana_w|, |tap|, poświęć artefakt: Wyszukaj w "
+"twojej bibliotece kartę artefaktu o skrócie many równym 1 plus skrót many "
+"poświęconego artefaktu. Umieść ową kartę na polu bitwy, po czym przetasuj. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:194
 msgid ""
@@ -873,7 +868,7 @@ msgstr ""
 
 #: ../../AFR.rst:273
 msgid "Stand and Fight — Target creature gets +1/+3 until end of turn."
-msgstr "Stań i walcz — Wskazany stwór dostaje do końca tury +1/+3."
+msgstr "Stań do walki — Wskazany stwór dostaje do końca tury +1/+3."
 
 #: ../../AFR.rst:282
 msgid ""
@@ -1362,8 +1357,6 @@ msgid "1-9 | Return it to its owner's hand."
 msgstr "1-9 | Przywróć go do ręki właściciela."
 
 #: ../../AFR.rst:433
-#, fuzzy
-#| msgid "10-19 | Its owner puts it on the top of bottom of their library."
 msgid "10-19 | Its owner puts it on the top or bottom of their library."
 msgstr ""
 "10-19 | Jego właściciel umieszcza go na wierzchu lub spodzie swojej "
@@ -1840,12 +1833,6 @@ msgstr ""
 "tej turze, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../AFR.rst:597
-#, fuzzy
-#| msgid ""
-#| "|tap|, Exile The Book of Vile Darkness and artifacts you control named "
-#| "Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black "
-#| "Zombie God creature token with indestructible. It gains all triggered "
-#| "abilities of the exiled cards."
 msgid ""
 "|tap|, Exile The Book of Vile Darkness and artifacts you control named Eye "
 "of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God "
