@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-07-14 19:11+0000\n"
+"PO-Revision-Date: 2021-07-14 20:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -131251,12 +131251,9 @@ msgid "Cloister Gargoyle"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "57394"
-#| msgid "When CARDNAME enters the battlefield, investigate."
 msgctxt "498234"
 msgid "When CARDNAME enters the battlefield, venture into the dungeon."
-msgstr "Kiedy CARDNAME wejdzie na pole bitwy, dociekaj."
+msgstr "Kiedy CARDNAME wejdzie na pole bitwy, zapuść się do lochu."
 
 #. printed_ability, type_artifact, type_creature
 msgctxt "498235"
@@ -131947,15 +131944,12 @@ msgid "Dragon Knight"
 msgstr "Człowiek Rycerz"
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "121255"
-#| msgid ""
-#| "Whenever CARDNAME enters the battlefield or attacks, you get |energy|."
 msgctxt "498321"
 msgid ""
 "Whenever CARDNAME enters the battlefield or attacks, venture into the "
 "dungeon."
-msgstr "Ilekroć CARDNAME wejdzie na pole bitwy lub atakuje, przyjmij |energy|."
+msgstr ""
+"Ilekroć CARDNAME wejdzie na pole bitwy lub zaatakuje, zapuść się do lochu."
 
 #. printed_ability, type_creature
 msgctxt "498322"
@@ -132067,13 +132061,9 @@ msgid ""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "125027"
-#| msgid "Whenever CARDNAME attacks, untap target creature you control."
 msgctxt "498338"
 msgid "Whenever CARDNAME attacks, venture into the dungeon."
-msgstr ""
-"Ilekroć CARDNAME zaatakuje, odkręć wskazanego stwora pod twoim władaniem."
+msgstr "Ilekroć CARDNAME zaatakuje, zapuść się do lochu."
 
 #. printed_ability, type_creature
 msgctxt "498339"
@@ -132829,14 +132819,11 @@ msgid "Fly"
 msgstr "Latanie"
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "43596"
-#| msgid "Whenever this creature deals combat damage to a player, draw a card."
 msgctxt "498452"
 msgid ""
 "Whenever this creature deals combat damage to a player, venture into the "
 "dungeon."
-msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, zapuść się do lochu."
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "498453"
@@ -133195,13 +133182,10 @@ msgid ""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "1044"
-#| msgid "Whenever CARDNAME deals combat damage to a player, it explores."
 msgctxt "498511"
 msgid ""
 "Whenever CARDNAME deals combat damage to a player, venture into the dungeon."
-msgstr "Ilekroć CARDNAME zada graczowi obrażenia bojowe, eksploruje."
+msgstr "Ilekroć CARDNAME zada graczowi obrażenia bojowe, zapuść się do lochu."
 
 #. printed_ability, type_creature
 msgctxt "498512"
@@ -133740,12 +133724,9 @@ msgid "<i>Those who die in the dungeon become its guardians.</i>"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "106147"
-#| msgid "When CARDNAME dies, return it to its owner's hand."
 msgctxt "498598"
 msgid "When CARDNAME dies, venture into the dungeon."
-msgstr "Kiedy CARDNAME umrze, przywróć go do ręki właściciela."
+msgstr "Kiedy CARDNAME umrze, zapuść się do lochu."
 
 #. printed_ability, type_creature
 msgctxt "498599"
@@ -135936,16 +135917,9 @@ msgid ""
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "103667"
-#| msgid ""
-#| "Whenever CARDNAME is dealt damage, it deals that much damage to target "
-#| "opponent."
 msgctxt "498927"
 msgid "Whenever CARDNAME is dealt damage, venture into the dungeon."
-msgstr ""
-"Ilekroć CARDNAME otrzyma obrażenia, zadaje on tyle samo obrażeń wskazanemu "
-"przeciwnikowi."
+msgstr "Ilekroć CARDNAME otrzyma obrażenia, zapuść się do lochu."
 
 #. printed_ability, type_creature
 msgctxt "498928"
@@ -147974,7 +147948,7 @@ msgstr ""
 msgctxt "543111"
 msgid ""
 "<i>Steal Its Eyes</i> — Create a Treasure token and venture into the dungeon."
-msgstr ""
+msgstr "<i>Ukradnij jego oczy</i> — Stwórz żeton Skarbu i zapuść się do lochu."
 
 #. maybe_hidden
 msgctxt "543112"
