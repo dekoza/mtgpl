@@ -690,7 +690,7 @@
 
 
 :mtgtip:`Lurking Evil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5ef7201-4443-4a77-b9e1-6f1f39e8f993.jpg?1562946867|https://scryfall.com/card/usg/140/lurking-evil?utm_source=api>`
-   Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying.
+   Pay half your life, rounded up: Lurking Evil becomes a 4/4 Phyrexian Horror creature with flying.
 
 
 :mtgtip:`Mana Leech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a288616-5350-43eb-b718-5bfeb5be4ed4.jpg?1562924220|https://scryfall.com/card/usg/141/mana-leech?utm_source=api>`
@@ -1508,7 +1508,7 @@
 :mtgtip:`Phyrexian Processor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6875ce99-badd-44da-8e5d-509600efa1d0.jpg?1562916849|https://scryfall.com/card/usg/306/phyrexian-processor?utm_source=api>`
    As Phyrexian Processor enters the battlefield, pay any amount of life.
 
-   |mana_4|, |tap|: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.
+   |mana_4|, |tap|: Create an X/X black Phyrexian Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.
 
 
 :mtgtip:`Pit Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e2003c1-356b-4714-9a2a-4e12f782321e.jpg?1562911373|https://scryfall.com/card/usg/307/pit-trap?utm_source=api>`

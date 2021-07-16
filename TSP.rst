@@ -1524,7 +1524,7 @@
 :mtgtip:`Phyrexian Totem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491|https://scryfall.com/card/tsp/261/phyrexian-totem?utm_source=api>`
    |tap|: Add |mana_b|.
 
-   |mana_2|\ |mana_b|: Phyrexian Totem becomes a 5/5 black Horror artifact creature with trample until end of turn.
+   |mana_2|\ |mana_b|: Phyrexian Totem becomes a 5/5 black Phyrexian Horror artifact creature with trample until end of turn.
 
    Whenever Phyrexian Totem is dealt damage, if it's a creature, sacrifice that many permanents.
 

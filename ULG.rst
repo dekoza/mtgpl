@@ -284,7 +284,7 @@
 
 
 :mtgtip:`Lurking Skirge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9063cc12-a822-4488-856e-93d70ecfe37f.jpg?1562863741|https://scryfall.com/card/ulg/55/lurking-skirge?utm_source=api>`
-   When a creature is put into an opponent's graveyard from the battlefield, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 Imp creature with flying.
+   When a creature is put into an opponent's graveyard from the battlefield, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 Phyrexian Imp creature with flying.
 
 
 :mtgtip:`No Mercy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e2fc29c-0223-4b03-864f-eb9149abc921.jpg?1562862814|https://scryfall.com/card/ulg/56/no-mercy?utm_source=api>`

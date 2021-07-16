@@ -17,11 +17,11 @@
    Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
 
 
-:mtgtip:`Syncopate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cba07c75-66fb-4de8-929e-0044184fc9fa.jpg?1541002695|https://scryfall.com/card/gk1/3/syncopate?utm_source=api>`
+:mtgtip:`Syncopate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cba07c75-66fb-4de8-929e-0044184fc9fa.jpg?1624879067|https://scryfall.com/card/gk1/3/syncopate?utm_source=api>`
    Counter target spell unless its controller pays |mana_x|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
-:mtgtip:`Telling Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b921881-6967-477e-a419-6fd7462e768a.jpg?1541002699|https://scryfall.com/card/gk1/4/telling-time?utm_source=api>`
+:mtgtip:`Telling Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b921881-6967-477e-a419-6fd7462e768a.jpg?1624879091|https://scryfall.com/card/gk1/4/telling-time?utm_source=api>`
    Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
 
 
@@ -145,7 +145,7 @@
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Niv-Mizzet, the Firemind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71d33e53-74e4-4d6e-9236-0b6c25101902.jpg?1541005764|https://scryfall.com/card/gk1/26/niv-mizzet-the-firemind?utm_source=api>`
+:mtgtip:`Niv-Mizzet, the Firemind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71d33e53-74e4-4d6e-9236-0b6c25101902.jpg?1621170975|https://scryfall.com/card/gk1/26/niv-mizzet-the-firemind?utm_source=api>`
    Flying
 
    Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target.

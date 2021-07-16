@@ -445,7 +445,7 @@
    When Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
-:mtgtip:`Hullbreacher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4df8aabc-7fcb-4b7b-980b-18f499e6c170.jpg?1608909259|https://scryfall.com/card/cmr/74/hullbreacher?utm_source=api>`
+:mtgtip:`Hullbreacher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4df8aabc-7fcb-4b7b-980b-18f499e6c170.jpg?1626088514|https://scryfall.com/card/cmr/74/hullbreacher?utm_source=api>`
    Flash
 
    If an opponent would draw a card except the first one they draw in each of their draw steps, instead you create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
@@ -1316,7 +1316,7 @@
 
 
 :mtgtip:`Ich-Tekik, Salvage Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0409a15a-7cf6-43e5-958c-d23da4304f29.jpg?1608910710|https://scryfall.com/card/cmr/233/ich-tekik-salvage-splicer?utm_source=api>`
-   When Ich-Tekik, Salvage Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Ich-Tekik, Salvage Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Whenever an artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Ich-Tekik and a +1/+1 counter on each Golem you control.
 
@@ -1869,8 +1869,8 @@
    When Perilous Myr dies, it deals 2 damage to any target.
 
 
-:mtgtip:`Phyrexian Triniform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af2a6582-2281-4f75-8103-80fcb2846805.jpg?1616447036|https://scryfall.com/card/cmr/331/phyrexian-triniform?utm_source=api>`
-   When Phyrexian Triniform dies, create three 3/3 colorless Golem artifact creature tokens.
+:mtgtip:`Phyrexian Triniform<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af2a6582-2281-4f75-8103-80fcb2846805.jpg?1623098537|https://scryfall.com/card/cmr/331/phyrexian-triniform?utm_source=api>`
+   When Phyrexian Triniform dies, create three 3/3 colorless Phyrexian Golem artifact creature tokens.
 
    Encore |mana_12| (|mana_12|, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)
 
@@ -2109,7 +2109,7 @@
    Aura and Equipment spells you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Dawn Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1610075010|https://scryfall.com/card/cmr/371/dawn-charm?utm_source=api>`
+:mtgtip:`Dawn Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1623147824|https://scryfall.com/card/cmr/371/dawn-charm?utm_source=api>`
    Choose one —
 
    • Prevent all combat damage that would be dealt this turn.
@@ -2181,7 +2181,7 @@
    Enchanted creature gets +1/+1 and has protection from creatures.
 
 
-:mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1ab1ef1-f4e8-461e-801a-a498e4946fa1.jpg?1608912002|https://scryfall.com/card/cmr/386/sram-senior-edificer?utm_source=api>`
+:mtgtip:`Sram, Senior Edificer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1ab1ef1-f4e8-461e-801a-a498e4946fa1.jpg?1626162178|https://scryfall.com/card/cmr/386/sram-senior-edificer?utm_source=api>`
    Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
 
 

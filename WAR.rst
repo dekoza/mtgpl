@@ -63,7 +63,7 @@
    Flying
 
 
-:mtgtip:`Finale of Glory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4ccacb84-2b8e-40b8-8d53-d1b97bb2971f.jpg?1557575931|https://scryfall.com/card/war/12/finale-of-glory?utm_source=api>`
+:mtgtip:`Finale of Glory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4ccacb84-2b8e-40b8-8d53-d1b97bb2971f.jpg?1620929878|https://scryfall.com/card/war/12/finale-of-glory?utm_source=api>`
    Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.
 
 
@@ -851,7 +851,7 @@
    −1: Put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Kraul Stinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46b88fe9-2450-47ee-ac1e-bbbccbf5684f.jpg?1557576936|https://scryfall.com/card/war/165/kraul-stinger?utm_source=api>`
+:mtgtip:`Kraul Stinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46b88fe9-2450-47ee-ac1e-bbbccbf5684f.jpg?1622763957|https://scryfall.com/card/war/165/kraul-stinger?utm_source=api>`
    Deathtouch
 
 
@@ -927,7 +927,7 @@
    • Exile target card from a graveyard.
 
 
-:mtgtip:`Snarespinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48a0fcc5-57d3-43ab-9e3d-0e015792239a.jpg?1557577004|https://scryfall.com/card/war/176/snarespinner?utm_source=api>`
+:mtgtip:`Snarespinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48a0fcc5-57d3-43ab-9e3d-0e015792239a.jpg?1622764182|https://scryfall.com/card/war/176/snarespinner?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
    Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn.

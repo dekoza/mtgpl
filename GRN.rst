@@ -537,7 +537,7 @@
    |mana_1|\ |mana_r|: Goblin Banneret gets +2/+0 until end of turn.
 
 
-:mtgtip:`Goblin Cratermaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86ecaedc-08f1-4de7-aae8-056df57940e0.jpg?1572893174|https://scryfall.com/card/grn/103/goblin-cratermaker?utm_source=api>`
+:mtgtip:`Goblin Cratermaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86ecaedc-08f1-4de7-aae8-056df57940e0.jpg?1622764034|https://scryfall.com/card/grn/103/goblin-cratermaker?utm_source=api>`
    |mana_1|, Sacrifice Goblin Cratermaker: Choose one —
 
    • Goblin Cratermaker deals 2 damage to target creature.

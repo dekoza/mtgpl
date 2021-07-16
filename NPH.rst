@@ -24,7 +24,7 @@
 
 
 :mtgtip:`Blade Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8e56a28-713b-4a13-a601-1128cf117539.jpg?1562880986|https://scryfall.com/card/nph/4/blade-splicer?utm_source=api>`
-   When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control have first strike.
 
@@ -102,7 +102,7 @@
 
 
 :mtgtip:`Master Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/859d2b91-63af-4700-8ca5-b1756aa6639b.jpg?1562879309|https://scryfall.com/card/nph/16/master-splicer?utm_source=api>`
-   When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control get +1/+1.
 
@@ -140,7 +140,7 @@
 
 
 :mtgtip:`Sensor Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79076264-d71c-4b30-aac9-702a4d229933.jpg?1562878908|https://scryfall.com/card/nph/22/sensor-splicer?utm_source=api>`
-   When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golem creatures you control have vigilance.
 
@@ -201,7 +201,7 @@
    Counter target spell if its controller is poisoned.
 
 
-:mtgtip:`Deceiver Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1562875933|https://scryfall.com/card/nph/33/deceiver-exarch?utm_source=api>`
+:mtgtip:`Deceiver Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1623115965|https://scryfall.com/card/nph/33/deceiver-exarch?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
    When Deceiver Exarch enters the battlefield, choose one —
@@ -308,7 +308,7 @@
 
 
 :mtgtip:`Wing Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2dbfb1b-092c-44a3-932d-a8b27be0a72b.jpg?1562882216|https://scryfall.com/card/nph/50/wing-splicer?utm_source=api>`
-   When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golem creatures you control have flying.
 
@@ -410,7 +410,7 @@
 :mtgtip:`Parasitic Implant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e34f1bf3-9f3a-47f0-9761-8b2356328a39.jpg?1562882234|https://scryfall.com/card/nph/67/parasitic-implant?utm_source=api>`
    Enchant creature
 
-   At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Myr artifact creature token.
+   At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Phyrexian Myr artifact creature token.
 
 
 :mtgtip:`Phyrexian Obliterator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44c4476d-58f9-420d-9545-f5d580c589de.jpg?1562877123|https://scryfall.com/card/nph/68/phyrexian-obliterator?utm_source=api>`
@@ -494,7 +494,7 @@
 
 
 :mtgtip:`Chancellor of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f.jpg?1562882041|https://scryfall.com/card/nph/81/chancellor-of-the-forge?utm_source=api>`
-   You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Goblin creature token with haste.
+   You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with haste.
 
    When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin creature tokens with haste, where X is the number of creatures you control.
 
@@ -666,7 +666,7 @@
 
 
 :mtgtip:`Maul Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d2c6a6d-5b59-47d7-b290-df3640d9555f.jpg?1562876329|https://scryfall.com/card/nph/114/maul-splicer?utm_source=api>`
-   When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.
+   When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian Golem artifact creature tokens.
 
    Golem creatures you control have trample.
 
@@ -698,7 +698,7 @@
 :mtgtip:`Phyrexian Swarmlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a91dea7-9792-4714-82b0-ba2c06cef304.jpg?1562879466|https://scryfall.com/card/nph/119/phyrexian-swarmlord?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-   At the beginning of your upkeep, create a 1/1 green Insect creature token with infect for each poison counter your opponents have.
+   At the beginning of your upkeep, create a 1/1 green Phyrexian Insect creature token with infect for each poison counter your opponents have.
 
 
 :mtgtip:`Rotted Hystrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bcae97d-468a-4e16-bfed-d2946f64784c.jpg?1562879013|https://scryfall.com/card/nph/120/rotted-hystrix?utm_source=api>`
@@ -732,7 +732,7 @@
 
 
 :mtgtip:`Vital Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/273b982d-bca2-4418-8618-c711d28fc901.jpg?1562876146|https://scryfall.com/card/nph/126/vital-splicer?utm_source=api>`
-   When Vital Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    |mana_1|: Regenerate target Golem you control.
 
@@ -756,7 +756,7 @@
 
 
 :mtgtip:`Batterskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd114ec3-d286-4c70-a122-3043bc53cc88.jpg?1562881615|https://scryfall.com/card/nph/130/batterskull?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +4/+4 and has vigilance and lifelink.
 
@@ -780,7 +780,7 @@
 :mtgtip:`Conversion Chamber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14d5a8f3-05b6-4bb7-bbe1-e753e22cbb50.jpg?1562875648|https://scryfall.com/card/nph/133/conversion-chamber?utm_source=api>`
    |mana_2|, |tap|: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.
 
-   |mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Golem artifact creature token.
+   |mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Phyrexian Golem artifact creature token.
 
 
 :mtgtip:`Darksteel Relic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fd8c918-62d9-41be-a3e1-32ddac71b7e7.jpg?1562875578|https://scryfall.com/card/nph/134/darksteel-relic?utm_source=api>`
@@ -824,7 +824,7 @@
 
 
 :mtgtip:`Lashwrithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c418159-b5d1-48e9-9a31-707f49d6733b.jpg?1562879552|https://scryfall.com/card/nph/143/lashwrithe?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +1/+1 for each Swamp you control.
 
@@ -844,7 +844,7 @@
 
 
 :mtgtip:`Necropouncer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ed51dbc-bbec-4c78-a71e-26322a8d2439.jpg?1562877453|https://scryfall.com/card/nph/147/necropouncer?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +3/+1 and has haste.
 
@@ -890,7 +890,7 @@
 :mtgtip:`Shrine of Loyal Legions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13563c7-abe0-4760-9b4c-841de47dbc46.jpg?1562881728|https://scryfall.com/card/nph/155/shrine-of-loyal-legions?utm_source=api>`
    At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
 
-   |mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions.
+   |mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Phyrexian Myr artifact creature token for each charge counter on Shrine of Loyal Legions.
 
 
 :mtgtip:`Shrine of Piercing Vision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b150924-f83c-410e-aaab-ff2d06c9d356.jpg?1562880090|https://scryfall.com/card/nph/156/shrine-of-piercing-vision?utm_source=api>`
@@ -900,7 +900,7 @@
 
 
 :mtgtip:`Sickleslicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d44746d5-3d34-4480-b4cd-c66de72f0622.jpg?1562881832|https://scryfall.com/card/nph/157/sickleslicer?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+2.
 

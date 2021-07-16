@@ -1188,7 +1188,7 @@
 
 
 :mtgtip:`Millikin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37757eae-e473-4d54-ab12-8ab453855e91.jpg?1580015226|https://scryfall.com/card/ema/226/millikin?utm_source=api>`
-   |tap|, Mill a card: Add |colorless|.
+   |tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)
 
 
 :mtgtip:`Mindless Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49e81c3a-663d-414f-9a4f-95c0e55b1aa1.jpg?1580015235|https://scryfall.com/card/ema/227/mindless-automaton?utm_source=api>`

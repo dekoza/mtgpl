@@ -777,7 +777,7 @@
    Attacking non-Human creatures you control get +1/+0 and have trample.
 
 
-:mtgtip:`Fervent Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c52d66db-5570-48a1-99cf-e0417517747b.jpg?1572490356|https://scryfall.com/card/eld/124/fervent-champion?utm_source=api>`
+:mtgtip:`Fervent Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c52d66db-5570-48a1-99cf-e0417517747b.jpg?1626162176|https://scryfall.com/card/eld/124/fervent-champion?utm_source=api>`
    First strike, haste
 
    Whenever Fervent Champion attacks, another target attacking Knight you control gets +1/+0 until end of turn.

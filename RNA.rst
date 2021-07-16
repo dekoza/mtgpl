@@ -1057,7 +1057,7 @@
    When Rafter Demon enters the battlefield, if its spectacle cost was paid, each opponent discards a card.
 
 
-:mtgtip:`Rakdos Firewheeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d819a944-0b3e-4e26-87da-2417081928e7.jpg?1584831732|https://scryfall.com/card/rna/197/rakdos-firewheeler?utm_source=api>`
+:mtgtip:`Rakdos Firewheeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d819a944-0b3e-4e26-87da-2417081928e7.jpg?1620928972|https://scryfall.com/card/rna/197/rakdos-firewheeler?utm_source=api>`
    When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker.
 
 

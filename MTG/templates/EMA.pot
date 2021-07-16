@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2222,7 +2222,7 @@ msgid ":mtgtip:`Millikin<https://c1.scryfall.com/file/scryfall-cards/border_crop
 msgstr ""
 
 #: ../../EMA.rst:1191
-msgid "|tap|, Mill a card: Add |colorless|."
+msgid "|tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
 
 #: ../../EMA.rst:1200

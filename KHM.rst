@@ -937,13 +937,13 @@
    Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order.
 
 
-:mtgtip:`Toralf, God of Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22a6a5f1-1405-4efb-af3e-e1f58d664e99.jpg?1610652603|https://scryfall.com/card/khm/154/toralf-god-of-fury-toralfs-hammer?utm_source=api>`
+:mtgtip:`Toralf, God of Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22a6a5f1-1405-4efb-af3e-e1f58d664e99.jpg?1626140687|https://scryfall.com/card/khm/154/toralf-god-of-fury-toralfs-hammer?utm_source=api>`
    Trample
 
    Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, Toralf deals damage equal to the excess to any target other than that permanent.
 
 
-:mtgtip:`Toralf's Hammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/2/22a6a5f1-1405-4efb-af3e-e1f58d664e99.jpg?1610652603|https://scryfall.com/card/khm/154/toralf-god-of-fury-toralfs-hammer?utm_source=api>`
+:mtgtip:`Toralf's Hammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/2/22a6a5f1-1405-4efb-af3e-e1f58d664e99.jpg?1626140687|https://scryfall.com/card/khm/154/toralf-god-of-fury-toralfs-hammer?utm_source=api>`
    Equipped creature has "|mana_1|\ |mana_r|, |tap|, Unattach Toralf's Hammer: It deals 3 damage to any target. Return Toralf's Hammer to its owner's hand."
 
    Equipped creature gets +3/+0 as long as it's legendary.

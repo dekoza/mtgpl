@@ -1460,7 +1460,7 @@
 
 
 :mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdaa9ac4-b742-4a24-a316-97538adfd361.jpg?1562056382|https://scryfall.com/card/tmp/299/patchwork-gnomes?utm_source=api>`
-   Discard a card: Regenerate Patchwork Gnomes.
+   Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
 :mtgtip:`Pearl Medallion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44588d53-7cce-406a-8e61-cd9866691966.jpg?1562053766|https://scryfall.com/card/tmp/300/pearl-medallion?utm_source=api>`

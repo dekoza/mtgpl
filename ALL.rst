@@ -503,7 +503,7 @@
    Gorilla Berserkers can't be blocked except by three or more creatures.
 
 
-:mtgtip:`Gorilla Chieftain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47f1eedd-7021-4cce-a808-2e9384a5ef15.jpg?1587914195|https://scryfall.com/card/all/94a/gorilla-chieftain?utm_source=api>`
+:mtgtip:`Gorilla Chieftain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47f1eedd-7021-4cce-a808-2e9384a5ef15.jpg?1624326710|https://scryfall.com/card/all/94a/gorilla-chieftain?utm_source=api>`
    |mana_1|\ |mana_g|: Regenerate Gorilla Chieftain.
 
 
@@ -783,12 +783,12 @@
    |tap|: Add |colorless|.
 
 
-:mtgtip:`Soldevi Excavations<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1562769653|https://scryfall.com/card/all/143/soldevi-excavations?utm_source=api>`
+:mtgtip:`Soldevi Excavations<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917|https://scryfall.com/card/all/143/soldevi-excavations?utm_source=api>`
    If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.
 
    |tap|: Add |colorless|\ |mana_u|.
 
-   |mana_1|, |tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   |mana_1|, |tap|: Scry 1.
 
 
 :mtgtip:`Thawing Glaciers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6411a8c6-010f-4863-a0fa-bbebe09d5c34.jpg?1562768736|https://scryfall.com/card/all/144/thawing-glaciers?utm_source=api>`

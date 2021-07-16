@@ -395,7 +395,7 @@
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Slither Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1543675125|https://scryfall.com/card/akh/71/slither-blade?utm_source=api>`
+:mtgtip:`Slither Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1621282323|https://scryfall.com/card/akh/71/slither-blade?utm_source=api>`
    Slither Blade can't be blocked.
 
 

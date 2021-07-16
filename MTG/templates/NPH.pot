@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,7 +65,7 @@ msgid ":mtgtip:`Blade Splicer<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../NPH.rst:27
-msgid "When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token."
+msgid "When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:29
@@ -239,7 +239,7 @@ msgid ":mtgtip:`Master Splicer<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../NPH.rst:105
-msgid "When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token."
+msgid "When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:107
@@ -310,7 +310,7 @@ msgid ":mtgtip:`Sensor Splicer<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../NPH.rst:143
-msgid "When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token."
+msgid "When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:145
@@ -402,7 +402,7 @@ msgid "Counter target spell if its controller is poisoned."
 msgstr ""
 
 #: ../../NPH.rst:212
-msgid ":mtgtip:`Deceiver Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1562875933|https://scryfall.com/card/nph/33/deceiver-exarch?utm_source=api>`"
+msgid ":mtgtip:`Deceiver Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1623115965|https://scryfall.com/card/nph/33/deceiver-exarch?utm_source=api>`"
 msgstr ""
 
 #: ../../NPH.rst:205
@@ -575,7 +575,7 @@ msgid ":mtgtip:`Wing Splicer<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../NPH.rst:311
-msgid "When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token."
+msgid "When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:313
@@ -763,7 +763,7 @@ msgid ":mtgtip:`Parasitic Implant<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../NPH.rst:413
-msgid "At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Myr artifact creature token."
+msgid "At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Phyrexian Myr artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:420
@@ -902,7 +902,7 @@ msgid ":mtgtip:`Chancellor of the Forge<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../NPH.rst:497
-msgid "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Goblin creature token with haste."
+msgid "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with haste."
 msgstr ""
 
 #: ../../NPH.rst:499
@@ -1198,7 +1198,7 @@ msgid ":mtgtip:`Maul Splicer<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../NPH.rst:669
-msgid "When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens."
+msgid "When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian Golem artifact creature tokens."
 msgstr ""
 
 #: ../../NPH.rst:671
@@ -1250,7 +1250,7 @@ msgid ":mtgtip:`Phyrexian Swarmlord<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../NPH.rst:701
-msgid "At the beginning of your upkeep, create a 1/1 green Insect creature token with infect for each poison counter your opponents have."
+msgid "At the beginning of your upkeep, create a 1/1 green Phyrexian Insect creature token with infect for each poison counter your opponents have."
 msgstr ""
 
 #: ../../NPH.rst:704
@@ -1302,7 +1302,7 @@ msgid ":mtgtip:`Vital Splicer<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../NPH.rst:735
-msgid "When Vital Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token."
+msgid "When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:737
@@ -1345,7 +1345,7 @@ msgstr ""
 #: ../../NPH.rst:827
 #: ../../NPH.rst:847
 #: ../../NPH.rst:903
-msgid "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)"
+msgid "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)"
 msgstr ""
 
 #: ../../NPH.rst:761
@@ -1393,7 +1393,7 @@ msgid "|mana_2|, |tap|: Exile target artifact card from a graveyard. Put a charg
 msgstr ""
 
 #: ../../NPH.rst:783
-msgid "|mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Golem artifact creature token."
+msgid "|mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
 #: ../../NPH.rst:788
@@ -1602,7 +1602,7 @@ msgid "At the beginning of your upkeep or whenever you cast a white spell, put a
 msgstr ""
 
 #: ../../NPH.rst:893
-msgid "|mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions."
+msgid "|mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Phyrexian Myr artifact creature token for each charge counter on Shrine of Loyal Legions."
 msgstr ""
 
 #: ../../NPH.rst:900

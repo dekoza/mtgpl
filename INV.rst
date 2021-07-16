@@ -1484,7 +1484,7 @@
 :mtgtip:`Sterling Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40b26aa3-8169-4978-9554-bd2fc8e18e3b.jpg?1562907957|https://scryfall.com/card/inv/278/sterling-grove?utm_source=api>`
    Other enchantments you control have shroud. (They can't be the targets of spells or abilities.)
 
-   |mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put the card on top.
+   |mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment card, reveal it, then shuffle and put that card on top.
 
 
 :mtgtip:`Teferi's Moat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ed5845c-ef6d-4a7b-b725-b09d3e9bbc17.jpg?1591725011|https://scryfall.com/card/inv/279/teferis-moat?utm_source=api>`

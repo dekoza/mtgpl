@@ -1277,7 +1277,7 @@
    Creatures you control with flying have "Spells your opponents cast that target this creature cost |mana_2| more to cast."
 
 
-:mtgtip:`Kaheera, the Orphanguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg?1591228410|https://scryfall.com/card/iko/224/kaheera-the-orphanguard?utm_source=api>`
+:mtgtip:`Kaheera, the Orphanguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg?1623748548|https://scryfall.com/card/iko/224/kaheera-the-orphanguard?utm_source=api>`
    Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Vigilance

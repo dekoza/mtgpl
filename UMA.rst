@@ -295,7 +295,7 @@
    |tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)
 
 
-:mtgtip:`Dig Through Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01cd4184-93ce-4005-b6d1-140afa3dd429.jpg?1547516182|https://scryfall.com/card/uma/50/dig-through-time?utm_source=api>`
+:mtgtip:`Dig Through Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01cd4184-93ce-4005-b6d1-140afa3dd429.jpg?1622764005|https://scryfall.com/card/uma/50/dig-through-time?utm_source=api>`
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
@@ -1266,7 +1266,7 @@
 
 
 :mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1ab6b8ca-2e72-4f19-b73b-08b3f9fe6966.jpg?1547518491|https://scryfall.com/card/uma/231/patchwork-gnomes?utm_source=api>`
-   Discard a card: Regenerate Patchwork Gnomes.
+   Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
 :mtgtip:`Phyrexian Altar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c66c54b-b2d1-494d-ae10-a950c184a52f.jpg?1547518505|https://scryfall.com/card/uma/232/phyrexian-altar?utm_source=api>`
