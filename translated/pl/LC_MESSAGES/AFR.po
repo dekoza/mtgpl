@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-12 11:38+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: 2021-07-14 20:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
@@ -87,7 +87,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`The Book of Exalted Deeds<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?"
-"1625597162|https://scryfall.com/card/afr/4/the-book-of-exalted-deeds?"
+"1626285954|https://scryfall.com/card/afr/4/the-book-of-exalted-deeds?"
 "utm_source=api>`"
 msgstr ""
 
@@ -251,13 +251,17 @@ msgstr ""
 #: ../../AFR.rst:84
 msgid ""
 ":mtgtip:`Devoted Paladin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/6/3620ed96-1d15-4942-b9e5-9f9a64b0cab4.jpg?1625098824|"
+"border_crop/front/3/6/3620ed96-1d15-4942-b9e5-9f9a64b0cab4.jpg?1626359711|"
 "https://scryfall.com/card/afr/11/devoted-paladin?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:83
+#, fuzzy
+#| msgid ""
+#| "Beacon of Hope — When Devoted Paladin enters the battelfield, creatures "
+#| "you control get +1/+1 and gain vigilance until end of turn."
 msgid ""
-"Beacon of Hope — When Devoted Paladin enters the battelfield, creatures you "
+"Beacon of Hope — When Devoted Paladin enters the battlefield, creatures you "
 "control get +1/+1 and gain vigilance until end of turn."
 msgstr ""
 "Promyk nadziei — Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim "
@@ -739,13 +743,17 @@ msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 1 życie i dobierz kartę
 #: ../../AFR.rst:234
 msgid ""
 ":mtgtip:`Rally Maneuver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/2/926ce53e-8e30-4018-a9e7-7266791b5d27.jpg?1625376380|"
+"border_crop/front/9/2/926ce53e-8e30-4018-a9e7-7266791b5d27.jpg?1626299770|"
 "https://scryfall.com/card/afr/36/rally-maneuver?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:233
+#, fuzzy
+#| msgid ""
+#| "Target creature get +2/+0 and gains first strike until end of turn. Up to "
+#| "one other target creature gets +0/+2 and gains lifelink until end of turn."
 msgid ""
-"Target creature get +2/+0 and gains first strike until end of turn. Up to "
+"Target creature gets +2/+0 and gains first strike until end of turn. Up to "
 "one other target creature gets +0/+2 and gains lifelink until end of turn."
 msgstr ""
 "Wskazany stwór dostaje do końca tury +2/+0 i pierwszy cios. Co najwyżej "
@@ -950,13 +958,17 @@ msgstr ""
 msgid ""
 ":mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?"
-"1625680103|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?"
+"1626204803|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:303
+#, fuzzy
+#| msgid ""
+#| "You many choose not to untap The Blackstaff of Waterdeep during your "
+#| "untap step."
 msgid ""
-"You many choose not to untap The Blackstaff of Waterdeep during your untap "
+"You may choose not to untap The Blackstaff of Waterdeep during your untap "
 "step."
 msgstr "Możesz nie odkręcać tego artefaktu podczas twojego kroku odkręcania."
 
@@ -1329,13 +1341,17 @@ msgstr ""
 #: ../../AFR.rst:426
 msgid ""
 ":mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1625265756|https://"
+"front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1626117450|https://"
 "scryfall.com/card/afr/66/pixie-guide?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:425
+#, fuzzy
+#| msgid ""
+#| "Grant an Advantage — if you would roll one or more dice, instead roll "
+#| "that many dice plus one and ignore the lowest roll."
 msgid ""
-"Grant an Advantage — if you would roll one or more dice, instead roll that "
+"Grant an Advantage — If you would roll one or more dice, instead roll that "
 "many dice plus one and ignore the lowest roll."
 msgstr ""
 "Daj przewagę — Jeśli masz wykonać rzut co najmniej jedną kostką, zamiast "
@@ -1847,15 +1863,20 @@ msgstr ""
 #: ../../AFR.rst:602
 msgid ""
 ":mtgtip:`Check for Traps<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.jpg?1625518484|"
+"border_crop/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.jpg?1626359700|"
 "https://scryfall.com/card/afr/92/check-for-traps?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:601
+#, fuzzy
+#| msgid ""
+#| "Target opponent reveals their hand. You. choose a nonland card from it. "
+#| "Exile that card. If an instant or a card with flash is exiled this way, "
+#| "they lose 1 life. Otherwise, you lose 1 life."
 msgid ""
-"Target opponent reveals their hand. You. choose a nonland card from it. "
-"Exile that card. If an instant or a card with flash is exiled this way, they "
-"lose 1 life. Otherwise, you lose 1 life."
+"Target opponent reveals their hand. You choose a nonland card from it. Exile "
+"that card. If an instant or a card with flash is exiled this way, they lose "
+"1 life. Otherwise, you lose 1 life."
 msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nielądową kartę. "
 "Wygnaj ową kartę. Jeśli w ten sposób wygnano kartę sztuczki lub mającą "
@@ -2530,13 +2551,18 @@ msgstr ""
 #: ../../AFR.rst:820
 msgid ""
 ":mtgtip:`Westgate Regent<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625603222|"
+"border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1626299998|"
 "https://scryfall.com/card/afr/126/westgate-regent?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:817
+#, fuzzy
+#| msgid ""
+#| "Ward — Discard a card. (Whenever this creature becomes the target of a "
+#| "spell or ability an opponent controls, counter it unless that player "
+#| "discards a card.)"
 msgid ""
-"Ward — Discard a card. (Whenever this creature becomes the target of a spell "
+"Ward—Discard a card. (Whenever this creature becomes the target of a spell "
 "or ability an opponent controls, counter it unless that player discards a "
 "card.)"
 msgstr ""
@@ -3527,7 +3553,7 @@ msgstr "|tap|: Weź |mana_g| za każdego stwora pod twoim władaniem."
 msgid ""
 ":mtgtip:`Circle of the Moon Druid<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.jpg?"
-"1625705766|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?"
+"1626193626|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?"
 "utm_source=api>`"
 msgstr ""
 
@@ -4011,7 +4037,7 @@ msgstr ""
 #: ../../AFR.rst:1312
 msgid ""
 ":mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1625265387|"
+"border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1626359666|"
 "https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`"
 msgstr ""
 
@@ -4032,7 +4058,9 @@ msgstr ""
 "Ilekroć zaatakujesz, umieść znacznik +1/+1 na wskazanym atakującym stworze."
 
 #: ../../AFR.rst:1307
-msgid "|mana_3| |mana_g|: Level 3"
+#, fuzzy
+#| msgid "|mana_3| |mana_g|: Level 3"
+msgid "|mana_3|\\ |mana_g|: Level 3"
 msgstr "|mana_3| |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:1309
@@ -4047,7 +4075,7 @@ msgstr "Możesz rzucać czary stworów z wierzchu twojej biblioteki."
 #: ../../AFR.rst:1318
 msgid ""
 ":mtgtip:`Ranger's Longbow<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/4/34c99b32-353c-4930-a6ee-3fb44cf70253.jpg?1625601749|"
+"border_crop/front/3/4/34c99b32-353c-4930-a6ee-3fb44cf70253.jpg?1626137403|"
 "https://scryfall.com/card/afr/203/rangers-longbow?utm_source=api>`"
 msgstr ""
 
@@ -4433,7 +4461,7 @@ msgstr ""
 #: ../../AFR.rst:1458
 msgid ""
 ":mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1625265109|"
+"border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1626162177|"
 "https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`"
 msgstr ""
 
@@ -4543,7 +4571,7 @@ msgstr ""
 #: ../../AFR.rst:1484
 msgid ""
 ":mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1625597214|"
+"border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1626359727|"
 "https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`"
 msgstr ""
 
@@ -4556,10 +4584,15 @@ msgstr ""
 "czerwonego stwora Chomik 1/1 z tratowaniem i pośpiechem."
 
 #: ../../AFR.rst:1483
+#, fuzzy
+#| msgid ""
+#| "|mana_x|: Until end of turn, target creature you control has base power "
+#| "and toughness X/X and becomes a Giant in addition to its other types. "
+#| "Activate only a sorcery."
 msgid ""
 "|mana_x|: Until end of turn, target creature you control has base power and "
 "toughness X/X and becomes a Giant in addition to its other types. Activate "
-"only a sorcery."
+"only as a sorcery."
 msgstr ""
 "|mana_x|: Do końca tury wskazany stwór pod twoim władaniem ma bazową siłę i "
 "wytrzymałość X/X i staje się dodatkowo Gigantem oprócz swoich innych typów. "
@@ -4568,7 +4601,7 @@ msgstr ""
 #: ../../AFR.rst:1498
 msgid ""
 ":mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625511156|https://"
+"front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1626203276|https://"
 "scryfall.com/card/afr/228/monk-class?utm_source=api>`"
 msgstr ""
 
@@ -4861,14 +4894,20 @@ msgstr ""
 #: ../../AFR.rst:1580
 msgid ""
 ":mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1625106344|"
+"border_crop/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1626203339|"
 "https://scryfall.com/card/afr/239/xanathar-guild-kingpin?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1579
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, choose target opponent. Until end of "
+#| "turn, that player can't cast spells, you may look atthe top card of their "
+#| "library any time, you may play the top card of their library, and you may "
+#| "spend mana as though it were mana of any color to cast spells this way."
 msgid ""
 "At the beginning of your upkeep, choose target opponent. Until end of turn, "
-"that player can't cast spells, you may look atthe top card of their library "
+"that player can't cast spells, you may look at the top card of their library "
 "any time, you may play the top card of their library, and you may spend mana "
 "as though it were mana of any color to cast spells this way."
 msgstr ""

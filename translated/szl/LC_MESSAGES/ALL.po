@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1446,7 +1446,7 @@ msgstr ""
 #: ../../ALL.rst:508
 msgid ""
 ":mtgtip:`Gorilla Chieftain<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/7/47f1eedd-7021-4cce-a808-2e9384a5ef15.jpg?1587914195|"
+"border_crop/front/4/7/47f1eedd-7021-4cce-a808-2e9384a5ef15.jpg?1624326710|"
 "https://scryfall.com/card/all/94a/gorilla-chieftain?utm_source=api>`"
 msgstr ""
 
@@ -2274,7 +2274,7 @@ msgstr ""
 #: ../../ALL.rst:792
 msgid ""
 ":mtgtip:`Soldevi Excavations<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1562769653|"
+"border_crop/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917|"
 "https://scryfall.com/card/all/143/soldevi-excavations?utm_source=api>`"
 msgstr ""
 
@@ -2290,9 +2290,7 @@ msgid "|tap|: Add |colorless|\\ |mana_u|."
 msgstr ""
 
 #: ../../ALL.rst:791
-msgid ""
-"|mana_1|, |tap|: Scry 1. (Look at the top card of your library. You may put "
-"that card on the bottom of your library.)"
+msgid "|mana_1|, |tap|: Scry 1."
 msgstr ""
 
 #: ../../ALL.rst:797

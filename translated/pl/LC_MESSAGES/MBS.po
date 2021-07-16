@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: 2021-07-01 13:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
@@ -81,7 +81,7 @@ msgstr "Umieść znacznik -1/-1 na każdym atakującym stworze."
 #: ../../MBS.rst:26
 msgid ""
 ":mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/e/fe7c7a65-5a96-4986-877b-b34583092bb6.jpg?1562616204|"
+"border_crop/front/f/e/fe7c7a65-5a96-4986-877b-b34583092bb6.jpg?1621834401|"
 "https://scryfall.com/card/mbs/5/divine-offering?utm_source=api>`"
 msgstr ""
 
@@ -220,8 +220,9 @@ msgstr ""
 
 #: ../../MBS.rst:73
 msgid ""
-"Destroy all creatures, then create an X/X colorless Horror artifact creature "
-"token, where X is the number of creatures destroyed this way."
+"Destroy all creatures, then create an X/X colorless Phyrexian Horror "
+"artifact creature token, where X is the number of creatures destroyed this "
+"way."
 msgstr ""
 
 #: ../../MBS.rst:80
@@ -674,8 +675,8 @@ msgstr ""
 
 #: ../../MBS.rst:239
 msgid ""
-"Whenever a source deals damage to Nested Ghoul, create a 2/2 black Zombie "
-"creature token."
+"Whenever a source deals damage to Nested Ghoul, create a 2/2 black Phyrexian "
+"Zombie creature token."
 msgstr ""
 
 #: ../../MBS.rst:246
@@ -1369,9 +1370,13 @@ msgstr ""
 
 #: ../../MBS.rst:495 ../../MBS.rst:535 ../../MBS.rst:573 ../../MBS.rst:673
 #: ../../MBS.rst:697
+#, fuzzy
+#| msgid ""
+#| "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
+#| "black Germ creature token, then attach this to it.)"
 msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
-"black Germ creature token, then attach this to it.)"
+"black Phyrexian Germ creature token, then attach this to it.)"
 msgstr ""
 "Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
 "stwora Bakcyl 0/0 i dołącz to do niego.)"
@@ -1591,7 +1596,12 @@ msgid ""
 msgstr ""
 
 #: ../../MBS.rst:581
-msgid "When Myr Sire dies, create a 1/1 colorless Myr artifact creature token."
+#, fuzzy
+#| msgid ""
+#| "When Myr Sire dies, create a 1/1 colorless Myr artifact creature token."
+msgid ""
+"When Myr Sire dies, create a 1/1 colorless Phyrexian Myr artifact creature "
+"token."
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Myr "
 "1/1."
@@ -2000,17 +2010,23 @@ msgstr ""
 #: ../../MBS.rst:750
 msgid ""
 ":mtgtip:`Inkmoth Nexus<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1562615687|"
+"border_crop/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1623098818|"
 "https://scryfall.com/card/mbs/145/inkmoth-nexus?utm_source=api>`"
 msgstr ""
 
 #: ../../MBS.rst:749
+#, fuzzy
+#| msgid ""
+#| "Infect (This creature deals damage to creatures in the form of -1/-1 "
+#| "counters and to players in the form of poison counters.)"
 msgid ""
-"|mana_1|: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with "
-"flying and infect until end of turn. It's still a land. (It deals damage to "
-"creatures in the form of -1/-1 counters and to players in the form of poison "
-"counters.)"
+"|mana_1|: Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature "
+"with flying and infect until end of turn. It's still a land. (It deals "
+"damage to creatures in the form of -1/-1 counters and to players in the form "
+"of poison counters.)"
 msgstr ""
+"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"graczom w postaci znaczników zatrucia.)"
 
 #: ../../MBS.rst:754
 msgid ""

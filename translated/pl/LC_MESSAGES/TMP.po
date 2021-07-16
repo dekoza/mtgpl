@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: 2021-04-26 02:23+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tmp/pl/>\n"
@@ -4028,8 +4028,11 @@ msgid ""
 msgstr ""
 
 #: ../../TMP.rst:1463
-msgid "Discard a card: Regenerate Patchwork Gnomes."
-msgstr "Odrzuć kartę: Zregeneruj tego stwora."
+msgid ""
+"Discard a card: Regenerate Patchwork Gnomes. (The next time this creature "
+"would be destroyed, instead tap it, remove it from combat, and heal all "
+"damage on it.)"
+msgstr ""
 
 #: ../../TMP.rst:1468
 msgid ""
@@ -4497,3 +4500,6 @@ msgstr ""
 #: ../../TMP.rst:1651
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid "Discard a card: Regenerate Patchwork Gnomes."
+#~ msgstr "Odrzuć kartę: Zregeneruj tego stwora."

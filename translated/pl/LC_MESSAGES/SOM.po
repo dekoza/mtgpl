@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: 2021-04-26 02:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
@@ -1641,11 +1641,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:579
+#, fuzzy
+#| msgid ""
+#| "Infect (This creature deals damage to creatures in the form of -1/-1 "
+#| "counters and to players in the form of poison counters.)"
 msgid ""
-"Create two 1/1 green Insect creature tokens with infect. (They deal damage "
-"to creatures in the form of -1/-1 counters and to players in the form of "
-"poison counters.)"
+"Create two 1/1 green Phyrexian Insect creature tokens with infect. (They "
+"deal damage to creatures in the form of -1/-1 counters and to players in the "
+"form of poison counters.)"
 msgstr ""
+"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:584
 msgid ""
@@ -3205,7 +3211,7 @@ msgstr ""
 #: ../../SOM.rst:1127
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Infestation: Create "
-"a 1/1 green Insect creature token with infect."
+"a 1/1 green Phyrexian Insect creature token with infect."
 msgstr ""
 
 #: ../../SOM.rst:1136
@@ -3365,10 +3371,15 @@ msgid "Deathtouch, lifelink"
 msgstr "Dotyk śmierci, więź życia"
 
 #: ../../SOM.rst:1183
+#, fuzzy
+#| msgid ""
+#| "When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature "
+#| "token with deathtouch and a 3/3 colorless Wurm artifact creature token "
+#| "with lifelink."
 msgid ""
-"When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature "
-"token with deathtouch and a 3/3 colorless Wurm artifact creature token with "
-"lifelink."
+"When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact "
+"creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact "
+"creature token with lifelink."
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Żmij "
 "3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij "

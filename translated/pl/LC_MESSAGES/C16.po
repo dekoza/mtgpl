@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: 2021-07-05 12:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
@@ -165,10 +165,16 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:51
+#, fuzzy
+#| msgid ""
+#| "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
+#| "black Germ creature token, then attach this to it.)"
 msgid ""
-"Gain control of target Equipment, then create a 0/0 black Germ creature "
-"token and attach that Equipment to it."
+"Gain control of target Equipment, then create a 0/0 black Phyrexian Germ "
+"creature token and attach that Equipment to it."
 msgstr ""
+"Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
+"stwora Bakcyl 0/0 i dołącz to do niego.)"
 
 #: ../../C16.rst:56
 msgid ""
@@ -1260,8 +1266,9 @@ msgstr ""
 
 #: ../../C16.rst:445
 msgid ""
-"Destroy all creatures, then create an X/X colorless Horror artifact creature "
-"token, where X is the number of creatures destroyed this way."
+"Destroy all creatures, then create an X/X colorless Phyrexian Horror "
+"artifact creature token, where X is the number of creatures destroyed this "
+"way."
 msgstr ""
 
 #: ../../C16.rst:454
@@ -4175,9 +4182,13 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1397
+#, fuzzy
+#| msgid ""
+#| "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
+#| "black Germ creature token, then attach this to it.)"
 msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
-"black Germ creature token, then attach this to it.)"
+"black Phyrexian Germ creature token, then attach this to it.)"
 msgstr ""
 "Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
 "stwora Bakcyl 0/0 i dołącz to do niego.)"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 01:23+0200\n"
+"POT-Creation-Date: 2021-07-16 14:47+0200\n"
 "PO-Revision-Date: 2021-07-05 12:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
@@ -614,8 +614,9 @@ msgstr ""
 
 #: ../../C15.rst:213
 msgid ""
-"For each creature your opponents control, create a 4/4 green Beast creature "
-"token. Each of those Beasts fights a different one of those creatures."
+"For each creature your opponents control, create a 4/4 green Phyrexian Beast "
+"creature token. Each of those Beasts fights a different one of those "
+"creatures."
 msgstr ""
 
 #: ../../C15.rst:222
@@ -920,9 +921,13 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:319 ../../C15.rst:1369
+#, fuzzy
+#| msgid ""
+#| "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
+#| "black Germ creature token, then attach this to it.)"
 msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
-"black Germ creature token, then attach this to it.)"
+"black Phyrexian Germ creature token, then attach this to it.)"
 msgstr ""
 "Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
 "stwora Bakcyl 0/0 i dołącz to do niego.)"
