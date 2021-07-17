@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-01 13:39+0000\n"
+"PO-Revision-Date: 2021-07-17 13:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SHM.rst:5
@@ -3853,16 +3853,12 @@ msgid "Leechridden Swamp enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1431
-#, fuzzy
-#| msgid ""
-#| "|mana_g|, |tap|: You gain 1 life. Activate this ability only if you "
-#| "control two or more green permanents."
 msgid ""
 "|mana_b|, |tap|: Each opponent loses 1 life. Activate only if you control "
 "two or more black permanents."
 msgstr ""
-"|mana_g|, |tap|: Zyskaj 1 życie. Możesz aktywować tylko jeśli władasz co "
-"najmniej dwoma zielonymi permanentami."
+"|mana_b|, |tap|: Każdy przeciwnik traci po 1 życiu. Możesz aktywować tylko "
+"jeśli władasz co najmniej dwoma czarnymi permanentami."
 
 #: ../../SHM.rst:1440
 msgid ""
@@ -3880,16 +3876,12 @@ msgid "Madblind Mountain enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1439
-#, fuzzy
-#| msgid ""
-#| "|mana_g|, |tap|: You gain 1 life. Activate this ability only if you "
-#| "control two or more green permanents."
 msgid ""
 "|mana_r|, |tap|: Shuffle your library. Activate only if you control two or "
 "more red permanents."
 msgstr ""
-"|mana_g|, |tap|: Zyskaj 1 życie. Możesz aktywować tylko jeśli władasz co "
-"najmniej dwoma zielonymi permanentami."
+"|mana_r|, |tap|: Przetasuj twoją bibliotekę. Możesz aktywować tylko jeśli "
+"władasz co najmniej dwoma czerwonymi permanentami."
 
 #: ../../SHM.rst:1448
 msgid ""
@@ -3931,17 +3923,12 @@ msgid "Moonring Island enters the battlefield tapped."
 msgstr ""
 
 #: ../../SHM.rst:1455
-#, fuzzy
-#| msgid ""
-#| "|mana_w|, |tap|: Put target card from your graveyard on the bottom of "
-#| "your library. Activate this ability only if you control two or more white "
-#| "permanents."
 msgid ""
 "|mana_u|, |tap|: Look at the top card of target player's library. Activate "
 "only if you control two or more blue permanents."
 msgstr ""
-"|mana_w|, |tap|: Umieść wskazaną kartę z cmentarza na spodzie twojej "
-"biblioteki. Możesz aktywować tylko jeśli władasz co najmniej dwoma białymi "
+"|mana_u|, |tap|: Spójrz na wierzchnią kartę biblioteki wskazanego gracza. "
+"Możesz aktywować tylko jeśli władasz co najmniej dwoma niebieskimi "
 "permanentami."
 
 #: ../../SHM.rst:1462

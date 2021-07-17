@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-14 20:42+0000\n"
+"PO-Revision-Date: 2021-07-17 13:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -256,10 +256,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:83
-#, fuzzy
-#| msgid ""
-#| "Beacon of Hope — When Devoted Paladin enters the battelfield, creatures "
-#| "you control get +1/+1 and gain vigilance until end of turn."
 msgid ""
 "Beacon of Hope — When Devoted Paladin enters the battlefield, creatures you "
 "control get +1/+1 and gain vigilance until end of turn."
@@ -748,10 +744,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:233
-#, fuzzy
-#| msgid ""
-#| "Target creature get +2/+0 and gains first strike until end of turn. Up to "
-#| "one other target creature gets +0/+2 and gains lifelink until end of turn."
 msgid ""
 "Target creature gets +2/+0 and gains first strike until end of turn. Up to "
 "one other target creature gets +0/+2 and gains lifelink until end of turn."
@@ -963,10 +955,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:303
-#, fuzzy
-#| msgid ""
-#| "You many choose not to untap The Blackstaff of Waterdeep during your "
-#| "untap step."
 msgid ""
 "You may choose not to untap The Blackstaff of Waterdeep during your untap "
 "step."
@@ -1346,10 +1334,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:425
-#, fuzzy
-#| msgid ""
-#| "Grant an Advantage — if you would roll one or more dice, instead roll "
-#| "that many dice plus one and ignore the lowest roll."
 msgid ""
 "Grant an Advantage — If you would roll one or more dice, instead roll that "
 "many dice plus one and ignore the lowest roll."
@@ -1868,11 +1852,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:601
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You. choose a nonland card from it. "
-#| "Exile that card. If an instant or a card with flash is exiled this way, "
-#| "they lose 1 life. Otherwise, you lose 1 life."
 msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. Exile "
 "that card. If an instant or a card with flash is exiled this way, they lose "
@@ -2556,17 +2535,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:817
-#, fuzzy
-#| msgid ""
-#| "Ward — Discard a card. (Whenever this creature becomes the target of a "
-#| "spell or ability an opponent controls, counter it unless that player "
-#| "discards a card.)"
 msgid ""
 "Ward—Discard a card. (Whenever this creature becomes the target of a spell "
 "or ability an opponent controls, counter it unless that player discards a "
 "card.)"
 msgstr ""
-"Opieka — Odrzuć kartę. (Ilekroć ten stwór zostanie wskazany przez czar lub "
+"Opieka—Odrzuć kartę. (Ilekroć ten stwór zostanie wskazany przez czar lub "
 "zdolność pod władaniem przeciwnika, skontruj to, chyba że ów gracz odrzuci "
 "kartę.)"
 
@@ -4058,10 +4032,8 @@ msgstr ""
 "Ilekroć zaatakujesz, umieść znacznik +1/+1 na wskazanym atakującym stworze."
 
 #: ../../AFR.rst:1307
-#, fuzzy
-#| msgid "|mana_3| |mana_g|: Level 3"
 msgid "|mana_3|\\ |mana_g|: Level 3"
-msgstr "|mana_3| |mana_g|: Poziom 3"
+msgstr "|mana_3|\\ |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:1309
 msgid "You may look at the top card of your library any time."
@@ -4584,11 +4556,6 @@ msgstr ""
 "czerwonego stwora Chomik 1/1 z tratowaniem i pośpiechem."
 
 #: ../../AFR.rst:1483
-#, fuzzy
-#| msgid ""
-#| "|mana_x|: Until end of turn, target creature you control has base power "
-#| "and toughness X/X and becomes a Giant in addition to its other types. "
-#| "Activate only a sorcery."
 msgid ""
 "|mana_x|: Until end of turn, target creature you control has base power and "
 "toughness X/X and becomes a Giant in addition to its other types. Activate "
@@ -4899,12 +4866,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1579
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, choose target opponent. Until end of "
-#| "turn, that player can't cast spells, you may look atthe top card of their "
-#| "library any time, you may play the top card of their library, and you may "
-#| "spend mana as though it were mana of any color to cast spells this way."
 msgid ""
 "At the beginning of your upkeep, choose target opponent. Until end of turn, "
 "that player can't cast spells, you may look at the top card of their library "

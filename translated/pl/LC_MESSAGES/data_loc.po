@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-16 08:54+0200\n"
-"PO-Revision-Date: 2021-07-16 12:43+0000\n"
+"PO-Revision-Date: 2021-07-17 13:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mtga-db/"
 "pl/>\n"
@@ -24194,12 +24194,9 @@ msgid "CARDNAME gets +1/+0 for each artifact you control."
 msgstr "CARDNAME dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "174049"
-#| msgid "Search for an Equipment or Vehicle card."
 msgctxt "77621"
 msgid "Search for an Equipment card."
-msgstr "Wyszukaj kartę Wyposażenia lub Pojazdu."
+msgstr "Wyszukaj kartę Wyposażenia."
 
 #. maybe_hidden
 msgctxt "77624"
@@ -54484,12 +54481,9 @@ msgid "Vampire Warrior"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "862"
-#| msgid "Werewolf"
 msgctxt "266963"
 msgid "Human Werewolf"
-msgstr "Wilkołak"
+msgstr "Człowiek Wilkołak"
 
 #. card_subtype
 msgctxt "267116"
@@ -54552,12 +54546,9 @@ msgid "Elf Wizard"
 msgstr ""
 
 #. card_type
-#, fuzzy
-#| msgctxt "7"
-#| msgid "Artifact"
 msgctxt "267650"
 msgid "Artifact Land"
-msgstr "Artefakt"
+msgstr "Artefaktowy Ląd"
 
 #. card_subtype
 msgctxt "267708"
@@ -54607,12 +54598,9 @@ msgid "Attach {1, CardId}."
 msgstr "Dołącz {1, CardId}."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "271723"
-#| msgid "Put up to two creature cards onto the battlefield."
 msgctxt "267957"
 msgid "Put a creature card onto the battlefield."
-msgstr "Umieść co najwyżej dwie karty stworów na polu bitwy."
+msgstr "Umieść kartę stwora na polu bitwy."
 
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "267961"
@@ -66535,12 +66523,9 @@ msgid "Zombie Crocodile"
 msgstr "Zombi Krokodyl"
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "261538"
-#| msgid "Human Warrior"
 msgctxt "281844"
 msgid "Human Barbarian"
-msgstr "Człowiek Wojownik"
+msgstr "Człowiek Barbarzyńca"
 
 #. card_subtype
 msgctxt "281866"
@@ -66719,12 +66704,9 @@ msgid "Sacrifice a Swamp."
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "245185"
-#| msgid "Target a spell."
 msgctxt "283414"
 msgid "Target a Wall."
-msgstr "Wskaż czar."
+msgstr "Wskaż Ścianę."
 
 #. maybe_hidden
 msgctxt "283417"
@@ -66732,12 +66714,9 @@ msgid "Return a land they control to its owner's hand."
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "790"
-#| msgid "Rogue"
 msgctxt "283503"
 msgid "Orc Rogue"
-msgstr "Łotrzyk"
+msgstr "Ork Łotrzyk"
 
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "283913"
@@ -66800,12 +66779,9 @@ msgid "Ape Shaman"
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "367360"
-#| msgid "Put a land card into your library?"
 msgctxt "285264"
 msgid "Put a card into your library."
-msgstr "Umieścić kartę lądu w twojej bibliotece?"
+msgstr "Umieść kartę w twojej bibliotece."
 
 #. maybe_hidden
 msgctxt "285415"
@@ -66868,12 +66844,9 @@ msgstr ""
 "cmentarzach."
 
 #. card_subtype, card_title
-#, fuzzy
-#| msgctxt "262986"
-#| msgid "Zombie Angel"
 msgctxt "286058"
 msgid "Zombie Ogre"
-msgstr "Zombi Anioł"
+msgstr "Zombi Ogr"
 
 #. card_subtype
 msgctxt "286229"
@@ -67414,12 +67387,9 @@ msgstr ""
 "Nadal jest lądem."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "257947"
-#| msgid "Sacrifice a permanent."
 msgctxt "292098"
 msgid "Sacrifice two permanents."
-msgstr "Poświęć permanent."
+msgstr "Poświęć dwa permanenty."
 
 #. maybe_hidden
 msgctxt "292117"
@@ -67484,12 +67454,9 @@ msgid "Target two creature cards."
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "1432"
-#| msgid "Skeleton"
 msgctxt "293333"
 msgid "Skeleton Wizard"
-msgstr "Szkielet"
+msgstr "Szkielet Czarodziej"
 
 #. maybe_hidden
 msgctxt "293920"
@@ -67970,12 +67937,9 @@ msgid "Untap up to five lands."
 msgstr ""
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "257936"
-#| msgid "Return a Pirate card to your hand."
 msgctxt "309019"
 msgid "Return a card at random to your hand."
-msgstr "Przywróć kartę Pirata do twojej ręki."
+msgstr "Przywróć losową kartę do twojej ręki."
 
 #. printed_ability, type_creature
 msgctxt "309079"
@@ -68258,12 +68222,9 @@ msgstr ""
 "obrażeń."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "307583"
-#| msgid "Target a creature token."
 msgctxt "313490"
 msgid "Target a creature blocking it."
-msgstr "Wskaż żeton stwora."
+msgstr "Wskaż stwora blokującego go."
 
 #. printed_ability, type_creature
 msgctxt "313738"
@@ -68310,12 +68271,9 @@ msgid "Elemental Bird"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "262461"
-#| msgid "Dwarf Warrior"
 msgctxt "315709"
 msgid "Dwarf Barbarian"
-msgstr "Krasnolud Wojownik"
+msgstr "Krasnolud Barbarzyńca"
 
 #. card_subtype
 msgctxt "315768"
@@ -68875,12 +68833,9 @@ msgid ""
 msgstr "Kiedy ten stwór wejdzie na pole bitwy, weź |mana_r|\\ |mana_g|."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "352355"
-#| msgid "Target up to two instant and/or sorcery cards."
 msgctxt "327247"
 msgid "Target up to one instant or sorcery card."
-msgstr "Wskaż co najwyżej dwie karty sztuczki i/lub obrzędu."
+msgstr "Wskaż co najwyżej jedną kartę sztuczki lub obrzędu."
 
 #. maybe_hidden
 msgctxt "327256"
@@ -69141,12 +69096,9 @@ msgid "When Temple of Plenty enters the battlefield, scry 1."
 msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #. maybe_hidden
-#, fuzzy
-#| msgctxt "257187"
-#| msgid "Tap an untapped creature you control."
 msgctxt "329434"
 msgid "Tap another untapped creature you control."
-msgstr "Przekręć odkręconego stwora pod twoim władaniem."
+msgstr "Przekręć innego odkręconego stwora pod twoim władaniem."
 
 #. card_subtype
 msgctxt "329482"
@@ -125096,12 +125048,9 @@ msgid "Bayou Groff"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "1005"
-#| msgid "Plant"
 msgctxt "488547"
 msgid "Plant Dog"
-msgstr "Roślina"
+msgstr "Roślina Pies"
 
 #. flavor_text
 msgctxt "488548"
@@ -125544,12 +125493,9 @@ msgid "Overgrown Arch"
 msgstr ""
 
 #. internal_ability
-#, fuzzy
-#| msgctxt "56923"
-#| msgid "|mana_1|, Sacrifice CARDNAME: Draw a card."
 msgctxt "488608"
 msgid "|mana_2|, Sacrifice CARDNAME: Learn."
-msgstr "|mana_1|, poświęć CARDNAME: Dobierz kartę."
+msgstr "|mana_2|, poświęć CARDNAME: Ucz się."
 
 #. printed_ability, type_creature
 msgctxt "488609"
@@ -125562,12 +125508,9 @@ msgid "Professor of Zoomancy"
 msgstr ""
 
 #. card_subtype
-#, fuzzy
-#| msgctxt "262718"
-#| msgid "Human Druid"
 msgctxt "488611"
 msgid "Bear Druid"
-msgstr "Człowiek Druid"
+msgstr "Niedźwiedź Druid"
 
 #. flavor_text
 msgctxt "488612"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-01 13:39+0000\n"
+"PO-Revision-Date: 2021-07-17 13:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.1\n"
 
 #: ../../MBS.rst:5
 msgid ":mtgexp:`MBS` Mirrodin Besieged"
@@ -1370,16 +1370,12 @@ msgstr ""
 
 #: ../../MBS.rst:495 ../../MBS.rst:535 ../../MBS.rst:573 ../../MBS.rst:673
 #: ../../MBS.rst:697
-#, fuzzy
-#| msgid ""
-#| "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
-#| "black Germ creature token, then attach this to it.)"
 msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
 "black Phyrexian Germ creature token, then attach this to it.)"
 msgstr ""
 "Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
-"stwora Bakcyl 0/0 i dołącz to do niego.)"
+"stwora Phyrexiański Bakcyl 0/0 i dołącz to do niego.)"
 
 #: ../../MBS.rst:497
 msgid ""
@@ -1596,15 +1592,12 @@ msgid ""
 msgstr ""
 
 #: ../../MBS.rst:581
-#, fuzzy
-#| msgid ""
-#| "When Myr Sire dies, create a 1/1 colorless Myr artifact creature token."
 msgid ""
 "When Myr Sire dies, create a 1/1 colorless Phyrexian Myr artifact creature "
 "token."
 msgstr ""
-"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Myr "
-"1/1."
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora "
+"Phyrexiański Myr 1/1."
 
 #: ../../MBS.rst:588
 msgid ""

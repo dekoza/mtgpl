@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-07 09:35+0000\n"
+"PO-Revision-Date: 2021-07-17 13:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -1269,23 +1269,16 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:435
-#, fuzzy
-#| msgid ""
-#| "Suspend 4—|mana_1|\\ |mana_r| (Rather than cast this card from your hand, "
-#| "you may pay |mana_1|\\ |mana_r| and exile it with four time counters on "
-#| "it. At the beginning of your upkeep, remove a time counter. When the last "
-#| "is removed, cast it without paying its mana cost. It has haste.)"
 msgid ""
 "Exile target creature and put two time counters on it. If it doesn't have "
 "suspend, it gains suspend. (At the beginning of its owner's upkeep, they "
 "remove a time counter. When the last is removed, they play it without paying "
 "its mana cost. If it's a creature, it has haste.)"
 msgstr ""
-"Zawieszenie 4—|mana_1|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
-"możesz zapłacić |mana_1|\\ |mana_r| i wygnać ją z czterema znacznikami "
-"czasu. Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy "
-"ostatni znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many. "
-"Ma pośpiech.)"
+"Wygnaj wskazanego stwora i umieść na owej karcie dwa znaczniki czasu. Jeśli "
+"nie ma zawieszenia, zyskuje zawieszenie. (Na początku kroku utrzymania jej "
+"właściciela, usuwa on znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuca ją bez płacenia kosztu many. Jeśli to stwór, ma pośpiech.)"
 
 #: ../../MH2.rst:444
 msgid ""
@@ -2071,16 +2064,12 @@ msgstr ""
 "stworze.)"
 
 #: ../../MH2.rst:687
-#, fuzzy
-#| msgid ""
-#| "Riot (This creature enters the battlefield with your choice of a +1/+1 "
-#| "counter or haste.)"
 msgid ""
 "Riot (This creature enters the battlefield with your choice of an additional "
 "+1/+1 counter or haste.)"
 msgstr ""
-"Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole bitwy mając znacznik "
-"+1/+1, czy pośpiech.)"
+"Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole bitwy mając "
+"dodatkowy znacznik +1/+1, czy pośpiech.)"
 
 #: ../../MH2.rst:696
 msgid ""
@@ -3182,12 +3171,6 @@ msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../MH2.rst:1053
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_g| (Rather than cast this card from your hand, pay |"
-#| "mana_g| and exile it with two time counters on it. At the beginning of "
-#| "your upkeep, remove a time counter. When the last is removed, cast it "
-#| "without paying its mana cost.)"
 msgid ""
 "Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |"
 "mana_g| and exile it with two time counters on it. At the beginning of your "
@@ -3197,7 +3180,7 @@ msgstr ""
 "Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, możesz "
 "zapłacić |mana_g| i wygnać ją z dwoma znacznikami czasu. Na początku twojego "
 "kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
-"usunięty, rzuć ją bez płacenia kosztu many.)"
+"usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../MH2.rst:1058
 msgid ""
@@ -3540,16 +3523,12 @@ msgid "Enchanted creature can't attack or block."
 msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../MH2.rst:1175
-#, fuzzy
-#| msgid ""
-#| "When Duskshell Crawler enters the battlefield, put a +1/+1 counter on "
-#| "target creature."
 msgid ""
 "When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 "
 "counter on each of up to two target creatures.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
-"stworze."
+"Kiedy ten urok wejdzie na pole bitwy, wesprzyj 2. (Umieść znacznik +1/+1 na "
+"każdym z co najwyżej dwóch wskazanych stworów.)"
 
 #: ../../MH2.rst:1182
 msgid ""
@@ -3684,22 +3663,16 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1223
-#, fuzzy
-#| msgid ""
-#| "Cascade (When you cast this spell, exile cards from the top of your "
-#| "library until you exile a nonland card that costs less. You may cast it "
-#| "without paying its mana cost. Put the exiled cards on the bottom of your "
-#| "library in a random order.)"
 msgid ""
 "Cascade (When you cast this spell, exile cards from the top of your library "
 "until you exile a nonland card with lesser mana value. You may cast it "
 "without paying its mana cost. Put the exiled cards on the bottom of your "
 "library in a random order.)"
 msgstr ""
-"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
-"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
-"płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie twojej "
-"biblioteki.)"
+"Kaskada (Kiedy rzucisz ten czar, wygnaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nie-lądową kartę o mniejszym skrócie many. Możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie "
+"twojej biblioteki.)"
 
 #: ../../MH2.rst:1230
 msgid ""
@@ -4111,16 +4084,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1357
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_3| less to cast for each other spell cast this "
-#| "turn."
 msgid ""
 "Domain — Territorial Kavu's power and toughness are each equal to the number "
 "of basic land types among lands you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_3| mniej za każdy inny czar rzucony w "
-"tej turze."
+"Domena — Siła i wytrzymałość tej karty są obie równe liczbie typów bazowych "
+"lądów pośród lądów pod twoim władaniem."
 
 #: ../../MH2.rst:1359
 msgid "Whenever Territorial Kavu attacks, choose one —"
@@ -4162,13 +4131,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1377
-#, fuzzy
-#| msgid ""
-#| "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. "
-#| "Flip that many coins. For each flip you win, draw a card. For each flip "
-#| "you lose, Yursi deals 2 damage to you. If you won five flips this way, "
-#| "you may cast spells from your hand this turn without paying their mana "
-#| "costs."
 msgid ""
 "Whenever Yusri, Fortune's Flame attacks, choose a number between 1 and 5. "
 "Flip that many coins. For each flip you win, draw a card. For each flip you "
@@ -4201,16 +4163,13 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1385
-#, fuzzy
-#| msgid ""
-#| "Exalted (Whenever a creature you control attacks alone, that creature "
-#| "gets +1/+1 until end of turn.)"
 msgid ""
 "Whenever a creature you control attacks alone, it gets +X/+X until end of "
 "turn, where X is the number of card types among cards in all graveyards."
 msgstr ""
-"Egzaltacja (Ilekroć stwór pod twoim władaniem atakuje samotnie, ów stwór "
-"dostaje +1/+1 do końca tury.)"
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, dostaje on do końca "
+"tury +X/+X, gdzie X jest liczbą typów kart pośród kart we wszystkich "
+"cmentarzach."
 
 #: ../../MH2.rst:1387
 msgid "Lhurgoyf creatures you control have trample."
@@ -4258,15 +4217,11 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1405
-#, fuzzy
-#| msgid ""
-#| "|mana_2|,|tap|, Sacrifice Brainstone: Draw three cards, then put two "
-#| "cards from your hand on top of your library in any order."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Brainstone: Draw three cards, then put two cards "
 "from your hand on top of your library in any order."
 msgstr ""
-"|mana_2|,|tap|, poświęć ten artefakt: Dobierz trzy karty, po czym umieść "
+"|mana_2|, |tap|, poświęć ten artefakt: Dobierz trzy karty, po czym umieść "
 "dwie karty z twojej ręki dowolnie na wierzchu twojej biblioteki."
 
 #: ../../MH2.rst:1412
@@ -4372,14 +4327,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1439
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid "Monoskelion enters the battlefield with a +1/+1 counter on it."
-msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+msgstr "Ten stwór wchodzi na pole bitwy mając znacznik +1/+1."
 
 #: ../../MH2.rst:1441
 msgid ""
@@ -4459,18 +4408,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1479
-#, fuzzy
-#| msgid ""
-#| "Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library "
-#| "for a Plains card, reveal it, put it into your hand, then shuffle.)"
 msgid ""
 "Artifact landcycling |mana_2| (|mana_2|, Discard this card: Search your "
 "library for an artifact land card, reveal it, put it into your hand, then "
 "shuffle.)"
 msgstr ""
-"Równinocykling |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
-"bibliotece kartę Równiny, ujawnij ją, umieść w twojej ręce, po czym "
-"przetasuj.)"
+"Lądocykling artefaktowych |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w "
+"twojej bibliotece kartę artefaktowego lądu, ujawnij ją, umieść w twojej "
+"ręce, po czym przetasuj.)"
 
 #: ../../MH2.rst:1486
 msgid ""
@@ -4480,22 +4425,16 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1483
-#, fuzzy
-#| msgid ""
-#| "Suspend 2—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
-#| "pay |mana_1|\\ |mana_b| and exile it with two time counters on it. At the "
-#| "beginning of your upkeep, remove a time counter. When the last is "
-#| "removed, cast it without paying its mana cost.)"
 msgid ""
 "Suspend 3—|mana_1| (Rather than cast this card from your hand, pay |mana_1| "
 "and exile it with three time counters on it. At the beginning of your "
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
-"Zawieszenie 2—|mana_1|\\ |mana_b| (Zamiast rzucać tę kartę z twojej ręki, "
-"zapłać |mana_1|\\ |mana_b| i wygnaj ją z dwoma znacznikami czasu. Na "
-"początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
-"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
+"Zawieszenie 3—|mana_1| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_1| i wygnaj ją z trzema znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu jest usunięty, "
+"rzuć ją bez płacenia kosztu many.)"
 
 #: ../../MH2.rst:1485
 msgid "|tap|: Add |colorless|\\ |colorless|."
@@ -4509,15 +4448,9 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1489
-#, fuzzy
-#| msgid ""
-#| "Flametongue Yearling enters the battlefield with a +1/+1 counter on it "
-#| "for each time it was kicked."
 msgid ""
 "Steel Dromedary enters the battlefield tapped with two +1/+1 counters on it."
-msgstr ""
-"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
-"podbity."
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../MH2.rst:1491
 msgid ""
@@ -4578,16 +4511,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1513
-#, fuzzy
-#| msgid ""
-#| "|tap|, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a "
-#| "Forest or Island card, put it onto the battlefield, then shuffle."
 msgid ""
 "|mana_4|, |tap|, Sacrifice The Underworld Cookbook: Return target creature "
 "card from your graveyard to your hand."
 msgstr ""
-"|tap|, poświęć 1 życie, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę "
-"Lasu lub Wyspy, umieść ją na polu bitwy, po czym przetasuj."
+"|mana_4|, |tap|, poświęć ten artefakt: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../MH2.rst:1520
 msgid ""
@@ -4597,16 +4526,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1517
-#, fuzzy
-#| msgid ""
-#| "Islandwalk (This creature can't be blocked as long as defending player "
-#| "controls an Island.)"
 msgid ""
 "Equipped creature gets +2/+0 and has artifact landwalk. (It can't be blocked "
 "as long as defending player controls an artifact land.)"
 msgstr ""
-"Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
-"Wyspą.)"
+"Wyposażony stwór dostaje +2/+0 i ma podbój artefaktowych lądów (Ten stwór "
+"nie może być blokowany o ile broniący się gracz włada artefaktowym lądem.)"
 
 #: ../../MH2.rst:1524
 msgid ""
@@ -4640,10 +4565,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1531
-#, fuzzy
-#| msgid "Destroy target artifact."
 msgid "|mana_r|: Destroy target artifact you control."
-msgstr "Zniszcz wskazany artefakt."
+msgstr "|mana_r|: Zniszcz wskazany artefakt pod twoim władaniem."
 
 #: ../../MH2.rst:1533
 msgid "|mana_w|: Zabaz, the Glimmerwasp gains flying until end of turn."
@@ -4672,10 +4595,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1541
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Darkmoss Bridge enters the battlefield tapped."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1545
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -4734,10 +4655,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1569
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Mistvault Bridge enters the battlefield tapped."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1573
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4766,10 +4685,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1581
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Power Depot enters the battlefield tapped."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1585
 msgid ""
@@ -4785,10 +4702,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1591
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Razortide Bridge enters the battlefield tapped."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1595
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4802,10 +4717,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1599
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Rustvale Bridge enters the battlefield tapped."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1603
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -4849,10 +4762,8 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1619
-#, fuzzy
-#| msgid "As Sanctum Prelate enters the battlefield, choose a number."
 msgid "Slagwoods Bridge enters the battlefield tapped."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz liczbę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1623
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -5447,16 +5358,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1827
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice Sterling Grove: Search your library for an "
-#| "enchantment card, reveal it, then shuffle and put the card on top."
 msgid ""
 "|mana_1|, Sacrifice Sterling Grove: Search your library for an enchantment "
 "card, reveal it, then shuffle and put that card on top."
 msgstr ""
 "|mana_1|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę uroku, ujawnij "
-"ją, po czym przetasuj i umieść ją na wierzchu,."
+"ją, po czym przetasuj i umieść ją na wierzchu."
 
 #: ../../MH2.rst:1832
 msgid ""
@@ -5541,6 +5448,9 @@ msgid ""
 "would be destroyed, instead tap it, remove it from combat, and heal all "
 "damage on it.)"
 msgstr ""
+"Odrzuć kartę: Zregeneruj tego stwora. (Następnym razem gdy miałby zostać "
+"zniszczony w tej turze, zamiast tego przekręć go, usuń go z potyczki i ulecz "
+"wszystkie jego obrażenia.)"
 
 #: ../../MH2.rst:1860
 msgid ""
