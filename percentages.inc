@@ -323,7 +323,7 @@
 
 .. |DRK_percent| image:: images/pie20.png        
 
-.. |ALA_percent| image:: images/pie50.png        
+.. |ALA_percent| image:: images/pie55.png        
 
 .. |ICE_percent| image:: images/pie25.png        
 
