@@ -223,7 +223,7 @@
 
 .. |JUD_percent| image:: images/pie30.png        
 
-.. |MBS_percent| image:: images/pie40.png        
+.. |MBS_percent| image:: images/pie70.png        
 
 .. |PLS_percent| image:: images/pie30.png        
 
