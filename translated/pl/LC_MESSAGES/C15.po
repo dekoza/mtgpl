@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-17 13:27+0000\n"
+"PO-Revision-Date: 2021-07-22 19:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../C15.rst:5
@@ -2423,13 +2423,15 @@ msgstr ""
 
 #: ../../C15.rst:799
 msgid "(|mana_rp| can be paid with either |mana_r| or 2 life.)"
-msgstr ""
+msgstr "(|mana_rp| można opłacić z użyciem |mana_r| albo 2 żyć.)"
 
 #: ../../C15.rst:801
 msgid ""
 "Gain control of target creature an opponent controls until end of turn. "
 "Untap that creature. It gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem pod władaniem "
+"przeciwnika. Odkręć owego stwora. Do końca tury zyskuje on pośpiech."
 
 #: ../../C15.rst:808
 msgid ""

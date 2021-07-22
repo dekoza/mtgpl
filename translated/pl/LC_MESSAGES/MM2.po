@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-17 13:27+0000\n"
+"PO-Revision-Date: 2021-07-22 19:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../MM2.rst:5
 msgid ":mtgexp:`MM2` Modern Masters 2015"
@@ -1683,6 +1683,9 @@ msgid ""
 "owner's graveyard, hand, and library for any number of cards with the same "
 "name as that card and exile them. Then that player shuffles."
 msgstr ""
+"Wskaż kartę w cmentarzu inną niż bazowy ląd. Wyszukaj w cmentarzu, ręce i "
+"bibliotece jej właściciela dowolną liczbę kart o tej samej nazwie i wygnaj "
+"je. Następnie ów gracz tasuje."
 
 #: ../../MM2.rst:578
 msgid ""
@@ -1956,11 +1959,11 @@ msgstr ""
 
 #: ../../MM2.rst:665
 msgid "(|mana_rp| can be paid with either |mana_r| or 2 life.)"
-msgstr ""
+msgstr "(|mana_rp| można opłacić z użyciem |mana_r| albo 2 żyć.)"
 
 #: ../../MM2.rst:667
 msgid "Gut Shot deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MM2.rst:674
 msgid ""
@@ -2454,7 +2457,7 @@ msgstr ""
 
 #: ../../MM2.rst:833
 msgid "(|mana_gp| can be paid with either |mana_g| or 2 life.)"
-msgstr ""
+msgstr "(|mana_gp| można opłacić |mana_g| lub 2 życiami.)"
 
 #: ../../MM2.rst:835
 msgid "Target creature gets +2/+2 until end of turn."
@@ -3242,6 +3245,8 @@ msgid ""
 "|mana_wp|, |tap|: Tap target creature. (|mana_wp| can be paid with either |"
 "mana_w| or 2 life.)"
 msgstr ""
+"|mana_wp|, |tap|: Przekręć wskazanego stwora. (|mana_wp| można opłacić "
+"używając |mana_w| lub 2 żyć.)"
 
 #: ../../MM2.rst:1128
 msgid ""
@@ -3376,13 +3381,15 @@ msgstr ""
 #: ../../MM2.rst:1169
 msgid ""
 "Etched Monstrosity enters the battlefield with five -1/-1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników -1/-1."
 
 #: ../../MM2.rst:1171
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, Remove five -1/-1 "
 "counters from Etched Monstrosity: Target player draws three cards."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, usuń pięć znaczników "
+"-1/-1 z tego stwora: Wskazany gracz dobiera trzy karty."
 
 #: ../../MM2.rst:1178
 msgid ""

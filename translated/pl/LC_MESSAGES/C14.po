@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-17 13:27+0000\n"
+"PO-Revision-Date: 2021-07-22 19:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../C14.rst:5
 msgid ":mtgexp:`C14` Commander 2014"
@@ -3175,7 +3175,7 @@ msgstr ""
 
 #: ../../C14.rst:1043
 msgid "Whipflare deals 2 damage to each nonartifact creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu nieartefaktowemu stworowi po 2 obrażenia."
 
 #: ../../C14.rst:1050
 msgid ""
@@ -3351,6 +3351,8 @@ msgid ""
 "Create a 3/3 green Beast creature token for each creature put into your "
 "graveyard from the battlefield this turn."
 msgstr ""
+"Stwórz tyle żetonów zielonego stwora Bestia 3/3, ile stworów zostało w tej "
+"turze umieszczonych z pola bitwy w twoim cmentarzu."
 
 #: ../../C14.rst:1110
 msgid ""
@@ -3895,7 +3897,7 @@ msgstr ""
 
 #: ../../C14.rst:1285
 msgid "As Caged Sun enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz kolor."
 
 #: ../../C14.rst:1287
 msgid "Creatures you control of the chosen color get +1/+1."
@@ -3906,6 +3908,8 @@ msgid ""
 "Whenever a land's ability causes you to add one or more mana of the chosen "
 "color, add one additional mana of that color."
 msgstr ""
+"Ilekroć zdolność lądu sprawia, że bierzesz jedną lub więcej many wybranego "
+"koloru, weź jedną dodatkową manę owego koloru."
 
 #: ../../C14.rst:1294
 msgid ""
@@ -4073,13 +4077,15 @@ msgstr ""
 
 #: ../../C14.rst:1353
 msgid "Equipped creature gets +1/+1 for each Swamp you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każde Bagno pod twoim władaniem."
 
 #: ../../C14.rst:1355
 msgid ""
 "Equip |mana_bp|\\ |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 "
 "life.)"
 msgstr ""
+"Wyposaż |mana_bp|\\ |mana_bp| (|mana_bp| można opłacić używając |mana_b| lub "
+"2 żyć.)"
 
 #: ../../C14.rst:1360
 msgid ""
@@ -5033,7 +5039,7 @@ msgstr ""
 
 #: ../../C14.rst:1729
 msgid "|mana_1|, |tap|, Sacrifice an artifact: You gain 1 life."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć artefakt: Zyskaj 1 życie."
 
 #: ../../C14.rst:1738
 msgid ""

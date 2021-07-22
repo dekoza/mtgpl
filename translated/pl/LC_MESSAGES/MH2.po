@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-17 13:27+0000\n"
+"PO-Revision-Date: 2021-07-22 19:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../MH2.rst:5
 msgid ":mtgexp:`MH2` Modern Horizons 2"
@@ -57,6 +57,8 @@ msgid ""
 "|tap|, Remove X +1/+1 counters from Arcbound Javelineer: It deals X damage "
 "to target attacking or blocking creature."
 msgstr ""
+"|tap|, usuń X znaczników +1/+1 z tego stwora: Zadaje on X obrażeń wskazanemu "
+"atakującemu lub blokującemu stworowi."
 
 #: ../../MH2.rst:19 ../../MH2.rst:25
 msgid ""
@@ -131,6 +133,8 @@ msgid ""
 "Target permanent gains hexproof and indestructible until end of turn. If "
 "it's an artifact creature, it gets +2/+2 until end of turn."
 msgstr ""
+"Wskazany permanent zyskuje do końca tury antyklątwię i niezniszczalność. "
+"Jeśli jest on artefaktowym stworem, dostaje on do końca tury +2/+2."
 
 #: ../../MH2.rst:48
 msgid ""
@@ -141,7 +145,7 @@ msgstr ""
 
 #: ../../MH2.rst:45
 msgid "You gain hexproof until your next turn. You gain 2 life."
-msgstr ""
+msgstr "Zyskujesz antyklątwę do końca tury. Zyskaj 2 życia."
 
 #: ../../MH2.rst:47 ../../MH2.rst:757 ../../MH2.rst:1091
 msgid ""
@@ -181,6 +185,8 @@ msgid ""
 "Reinforce 1—|mana_w| (|mana_w|, Discard this card: Put a +1/+1 counter on "
 "target creature.)"
 msgstr ""
+"Wzmacnianie 1—|mana_w| (|mana_w|, odrzuć tę kartę: Umieść znacznik +1/+1 na "
+"wskazanym stworze.)"
 
 #: ../../MH2.rst:68
 msgid ""
@@ -204,6 +210,9 @@ msgid ""
 "number of artifacts. This creature enters the battlefield with that many +1/"
 "+1 counters on it.)"
 msgstr ""
+"Pożarcie artefaktu 1 (Umieszczając tę kartę na polu bitwy możesz poświęcić "
+"dowolną liczbę artefaktów. Ten stwór wchodzi na pole bitwy mając tyle samo "
+"znaczników +1/+1.)"
 
 #: ../../MH2.rst:74
 msgid ""
@@ -226,6 +235,9 @@ msgid ""
 "up to one other target nonland permanent until Constable of the Realm leaves "
 "the battlefield."
 msgstr ""
+"Ilekroć co jeden lub więcej znaczników +1/+1 zostanie umieszczonych na tym "
+"stworze, wygnaj co najwyżej jeden inny wskazany nielądowy permanent dopóki "
+"ten stwór jest na polu bitwy."
 
 #: ../../MH2.rst:80
 msgid ""
@@ -239,6 +251,8 @@ msgid ""
 "When Disciple of the Sun enters the battlefield, return target permanent "
 "card with mana value 3 or less from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę permanentu o "
+"skrócie many 3 lub mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../MH2.rst:84
 msgid ""
@@ -252,6 +266,9 @@ msgid ""
 "Whenever an opponent casts their first noncreature spell each turn, draw a "
 "card unless that player pays |mana_x|, where X is Esper Sentinel's power."
 msgstr ""
+"Ilekroć przeciwnik rzuci swój pierwszy niestworowy czar w danej turze, "
+"dobierz kartę, chyba że ów gracz zapłaci |mana_x|, gdzie X jest siłą "
+"niniejszego stwora."
 
 #: ../../MH2.rst:88
 msgid ""
@@ -266,6 +283,9 @@ msgid ""
 "1/1 colorless Thopter artifact creature token with flying. Activate only as "
 "a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"bezkolorwego artefaktowego stwora Thopter 1/1 z lataniem. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../MH2.rst:94
 msgid ""
@@ -283,6 +303,8 @@ msgid ""
 "At the beginning of each combat, if you have more life than an opponent, "
 "Glorious Enforcer gains double strike until end of turn."
 msgstr ""
+"Na początku każdej potyczki, jeśli masz więcej żyć niż przeciwnik, ten stwór "
+"zyskuje do końca tury podwójny cios."
 
 #: ../../MH2.rst:100
 msgid ""
@@ -328,6 +350,8 @@ msgid ""
 "|mana_2|\\ |mana_w|: Adapt 1. (If this creature has no +1/+1 counters on it, "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"|mana_2|\\ |mana_w|: Adaptacja 1. (Jeśli ten stwór nie ma żadnego znacznika +"
+"1/+1, umieść na nim znacznik +1/+1.)"
 
 #: ../../MH2.rst:109
 msgid ""
@@ -349,6 +373,8 @@ msgid ""
 "When Landscaper Colos enters the battlefield, put target card from an "
 "opponent's graveyard on the bottom of their library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę z cmentarza "
+"przeciwnika na spodzie jego biblioteki."
 
 #: ../../MH2.rst:115
 msgid ""
@@ -373,6 +399,9 @@ msgid ""
 "Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this "
 "artifact: You gain 3 life.\")"
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Stwórz "
+"żeton Jadła. (To artefakt mający \"|mana_2|, |tap|, poświęć ten artefakt: "
+"Zyskaj 3 życia.\")"
 
 #: ../../MH2.rst:126
 msgid ""
@@ -392,6 +421,7 @@ msgstr ""
 #: ../../MH2.rst:125
 msgid "Lens Flare deals 5 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 5 obrażeń."
 
 #: ../../MH2.rst:132
 msgid ""
@@ -416,6 +446,8 @@ msgid ""
 "Whenever you gain life, you may put that many +1/+1 counters on each "
 "creature you control. Do this only once each turn."
 msgstr ""
+"Ilekroć zyskasz życia, możesz umieścić po tyle samo znaczników +1/+1 na "
+"każdym stworze pod twoim władaniem. Zrób to tylko raz na turę."
 
 #: ../../MH2.rst:142
 msgid ""
@@ -430,12 +462,17 @@ msgid ""
 "them out until Out of Time leaves the battlefield. Put a time counter on Out "
 "of Time for each creature phased out this way."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, odkręć wszystkie stwory, następnie "
+"wycofaj je na czas przebywania tego uroku na polu bitwy. Umieść znacznik "
+"czasu na tym uroku za każdego stwora wycofanego w ten sposób."
 
 #: ../../MH2.rst:141
 msgid ""
 "Vanishing (At the beginning of your upkeep, remove a time counter from this "
 "enchantment. When the last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie (Na początku twojego kroku utrzymania, usuń znacznik czasu z tego "
+"uroku. Kiedy ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../MH2.rst:148
 msgid ""
@@ -454,6 +491,9 @@ msgid ""
 "target untapped creature. (Activate this ability only during your upkeep and "
 "only once each turn.)"
 msgstr ""
+"Zapowiedź — |mana_2|\\ |mana_w|, ujawnij tę kartę z twojej ręki: Przekręć "
+"wskazanego odkręconego stwora. (Możesz aktywować tylko w twoim kroku "
+"utrzymania i tylko raz na turę.)"
 
 #: ../../MH2.rst:152
 msgid ""
@@ -494,6 +534,8 @@ msgid ""
 "Return all enchantment cards from your graveyard to the battlefield. (Auras "
 "with nothing to enchant remain in your graveyard.)"
 msgstr ""
+"Przywróć wszystkie karty uroków z twojego cmentarza na pole bitwy. (Aury nie "
+"mające niczego do zauroczenia pozostają w twoim cmentarzu.)"
 
 #: ../../MH2.rst:166
 msgid ""
@@ -519,6 +561,8 @@ msgid ""
 "If a black or red permanent, spell, or card not on the battlefield would be "
 "put into a graveyard, exile it instead."
 msgstr ""
+"Jeśli czarny lub czerwony permanent, czar lub karta nie będąca na polu bitwy "
+"miałaby zostać umieszczona w cmentarzu, zamiast tego wygnaj ją."
 
 #: ../../MH2.rst:170
 msgid ""
@@ -532,6 +576,8 @@ msgid ""
 "Exile target creature card from your graveyard. Create X 1/1 white Bird "
 "creature tokens with flying, where X is the exiled card's toughness."
 msgstr ""
+"Wygnaj wskazaną kartę stwora z twojego cmentarza. Stwórz X żetonów białego "
+"stwora Ptak 1/1 z lataniem, gdzie X jest wytrzymałością wygnanej karty."
 
 #: ../../MH2.rst:174
 msgid ""
@@ -546,6 +592,9 @@ msgid ""
 "(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, dociekaj. ("
+"Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:182
 msgid ""
@@ -562,6 +611,7 @@ msgstr "Umieszczając tego stwora na polu bitwy, wybierz typ karty."
 msgid ""
 "You and creatures you control have protection from the chosen card type."
 msgstr ""
+"Ty i stwory pod twoim władaniem macie ochronę przed wybranym typem karty."
 
 #: ../../MH2.rst:190
 msgid ""
@@ -741,7 +791,7 @@ msgstr ""
 
 #: ../../MH2.rst:253
 msgid "At the beginning of the end step, sacrifice Dress Down."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć ten urok."
 
 #: ../../MH2.rst:258
 msgid ""
@@ -755,6 +805,8 @@ msgid ""
 "Whenever you cast a spell with mana value 4 or greater, create a 1/1 "
 "colorless Thopter artifact creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar o skrócie many 4 lub większym, stwórz żeton "
+"bezkolorowego artefaktowego stwora Thopter 1/1 z lataniem."
 
 #: ../../MH2.rst:264
 msgid ""
@@ -766,7 +818,7 @@ msgstr ""
 #: ../../MH2.rst:263
 msgid ""
 "Filigree Attendant's power is equal to the number of artifacts you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie artefaktów pod twoim władaniem."
 
 #: ../../MH2.rst:268
 msgid ""
@@ -780,6 +832,8 @@ msgid ""
 "|mana_3|, |tap|: Investigate. (Create a colorless Clue artifact token with "
 "\"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"|mana_3|, |tap|: Dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka "
+"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:276
 msgid ""
@@ -5461,7 +5515,7 @@ msgstr ""
 
 #: ../../MH2.rst:1859
 msgid "Sacrifice a land: You gain 2 life."
-msgstr ""
+msgstr "Poświęć ląd: Zyskaj 2 życia."
 
 #: ../../MH2.rst:1864
 msgid ""

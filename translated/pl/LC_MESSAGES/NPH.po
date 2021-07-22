@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-17 13:27+0000\n"
+"PO-Revision-Date: 2021-07-22 19:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 "X-POOTLE-MTIME: 1391082081.559340\n"
 
 #: ../../NPH.rst:5
@@ -90,6 +90,9 @@ msgid ""
 "Equipment card from your graveyard to the battlefield. If you do, you may "
 "attach it to Auriok Survivors."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Wyposażenia z twojego cmentarza na pole bitwy. Jeśli tak zrobisz, możesz ją "
+"dołączyć do tego stwora."
 
 #: ../../NPH.rst:30
 msgid ""
@@ -353,7 +356,7 @@ msgstr ""
 # 4aa4df857a46427d997fe3ae9f3c31e3
 #: ../../NPH.rst:101
 msgid "Marrow Shards deals 1 damage to each attacking creature."
-msgstr ""
+msgstr "Ten czar zadaje po 1 obrażeniu każdemu atakującemu stworowi."
 
 #: ../../NPH.rst:108
 msgid ""
@@ -387,6 +390,8 @@ msgid ""
 "Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_wp| for each of those creatures."
 msgstr ""
+"Stwory nie mogą zaatakować ciebie lub wędrowców pod twoim władaniem, chyba "
+"że ich władca zapłaci |mana_wp| za każdego z owych stworów."
 
 #: ../../NPH.rst:120
 msgid ""
@@ -501,6 +506,8 @@ msgid ""
 "Whenever a land enters the battlefield under an opponent's control, you may "
 "gain 3 life."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy pod władaniem przeciwnika, możesz zyskać 3 "
+"życia."
 
 #: ../../NPH.rst:158
 msgid ""
@@ -522,6 +529,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you may "
 "gain 1 life."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, możesz zyskać "
+"1 życie."
 
 # 10c2dcd7c77f4aa986ae014624f46a39
 #: ../../NPH.rst:163
@@ -545,6 +554,8 @@ msgid ""
 "You gain life equal to the number of creatures on the battlefield plus the "
 "number of artifacts on the battlefield."
 msgstr ""
+"Zyskaj życia równe sumie liczby stworów na polu bitwy oraz liczby artefaktów "
+"na polu bitwy."
 
 #: ../../NPH.rst:174
 msgid ""
@@ -559,6 +570,8 @@ msgid ""
 "Target permanent becomes an artifact in addition to its other types until "
 "end of turn."
 msgstr ""
+"Wskazany permanent do końca tury staje się dodatkowo artefaktem oprócz "
+"swoich innych typów."
 
 #: ../../NPH.rst:178
 msgid ""
@@ -573,6 +586,9 @@ msgid ""
 "damage to an opponent, you may return target creature that player controls "
 "to its owner's hand.\""
 msgstr ""
+"Do końca tury stwory pod twoim władaniem zyskują \"Ilekroć ten stwór zada "
+"przeciwnikowi obrażenia, możesz przywrócić wskazanego stwora pod władaniem "
+"owego gracza do ręki właściciela.\""
 
 #: ../../NPH.rst:184
 msgid ""
@@ -584,7 +600,7 @@ msgstr ""
 # feacf3dd90fb415883452514fe155966
 #: ../../NPH.rst:183
 msgid "Blighted Agent can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../NPH.rst:190
 msgid ""
@@ -596,7 +612,7 @@ msgstr ""
 # 530e37848dd9473aac0eea763ee04074
 #: ../../NPH.rst:189
 msgid "Chained Throatseeker can't attack unless defending player is poisoned."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz jest zatruty."
 
 #: ../../NPH.rst:198
 msgid ""
@@ -621,6 +637,8 @@ msgid ""
 "instant or sorcery card from an opponent's graveyard without paying its mana "
 "cost."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
+"lub obrzędu z cmentarza przeciwnika bez płacenia jej kosztu many."
 
 #: ../../NPH.rst:202
 msgid ""
@@ -632,7 +650,7 @@ msgstr ""
 # 90fcc910caaf4013bbc874df06e74006
 #: ../../NPH.rst:201
 msgid "Counter target spell if its controller is poisoned."
-msgstr ""
+msgstr "Skontruj wskazany czar jeśli jego władca jest zatruty."
 
 #: ../../NPH.rst:212
 msgid ""
@@ -669,7 +687,7 @@ msgstr ""
 # 3e3c8e3cd1594eba9735037e18b5ed6e
 #: ../../NPH.rst:217
 msgid "Enchanted creature gets -1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -1/+1."
 
 #: ../../NPH.rst:226
 msgid ""
@@ -706,6 +724,8 @@ msgid ""
 "Whenever Impaler Shrike deals combat damage to a player, you may sacrifice "
 "it. If you do, draw three cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz go poświęcić. Jeśli "
+"tak zrobisz, dobierz trzy karty."
 
 #: ../../NPH.rst:240
 msgid ""
@@ -739,7 +759,7 @@ msgstr ""
 
 #: ../../NPH.rst:245
 msgid "Counter target spell with mana value 1."
-msgstr ""
+msgstr "Skontruj wskazany czar o skrócie many 1."
 
 #: ../../NPH.rst:250
 msgid ""
@@ -751,7 +771,7 @@ msgstr ""
 # ac76d87b87f44904b82ea708618b2959
 #: ../../NPH.rst:249
 msgid "You draw two cards and target opponent discards two cards."
-msgstr ""
+msgstr "Dobierz dwie karty i wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../NPH.rst:258
 msgid ""
@@ -777,6 +797,8 @@ msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
 "player loses 1 life."
 msgstr ""
+"Na początku kroku utrzymania władcy zauroczonego permanentu, ów gracz traci "
+"1 życie."
 
 #: ../../NPH.rst:264
 msgid ""
@@ -831,7 +853,7 @@ msgstr ""
 # 9410c13e53b041abac38d6dd5caffcd1
 #: ../../NPH.rst:273
 msgid "Counter target creature spell. Its controller loses 1 life."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora. Jego władca traci 1 życie."
 
 #: ../../NPH.rst:278
 msgid ""
@@ -846,6 +868,9 @@ msgid ""
 "cards of that library. You may exile one of those cards. Then put the rest "
 "on top of that library in any order."
 msgstr ""
+"Ilekroć przeciwnik przetasuje swoją bibliotekę, możesz spojrzeć na dwie "
+"wierzchnie karty owej biblioteki. Możesz wygnać jedną z owych kart. "
+"Następnie umieść pozostałe dowolnie na wierzchu owej biblioteki."
 
 #: ../../NPH.rst:284
 msgid ""
@@ -903,6 +928,8 @@ msgid ""
 "|mana_3|\\ |mana_u|: Proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
+"|mana_3|\\ |mana_u|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../NPH.rst:314
 msgid ""
@@ -934,13 +961,15 @@ msgstr ""
 # 17e914b8e7a04404a6f666469805f510
 #: ../../NPH.rst:317
 msgid "As Xenograft enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
 
 # a0aa26a3dcfa4b4c9772e7ba270a8209
 #: ../../NPH.rst:319
 msgid ""
 "Each creature you control is the chosen type in addition to its other types."
 msgstr ""
+"Każdy stwór pod twoim władaniem jest dodatkowo wybranego typu oprócz swoich "
+"innych typów."
 
 #: ../../NPH.rst:326
 msgid ""
@@ -964,6 +993,8 @@ msgid ""
 "Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. "
 "If you do, destroy target creature that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz go poświęcić. Jeśli "
+"tak zrobisz, zniszcz wskazanego stwora pod władaniem owego gracza."
 
 #: ../../NPH.rst:330
 msgid ""
@@ -978,6 +1009,8 @@ msgid ""
 "Target player draws three cards, loses 3 life, and gets three poison "
 "counters."
 msgstr ""
+"Wskazany gracz dobiera trzy karty, traci 3 życia i dostaje trzy znaczniki "
+"zatrucia."
 
 #: ../../NPH.rst:336
 msgid ""
@@ -993,6 +1026,9 @@ msgid ""
 "of the first upkeep, each opponent loses 3 life, then you gain life equal to "
 "the life lost this way."
 msgstr ""
+"Możesz ujawnić tę kartę z twojej startowej ręki. Jeśli tak zrobisz, na "
+"początku pierwszego kroku utrzymania, każdy przeciwnik traci po 3 życia, po "
+"czym ty zyskaj życia równe życiom straconym w ten sposób."
 
 # 96c6b86621554602a57647514bafd545
 #: ../../NPH.rst:335
@@ -1011,6 +1047,7 @@ msgid ""
 "|mana_4|\\ |mana_b|, Sacrifice Dementia Bat: Target player discards two "
 "cards."
 msgstr ""
+"|mana_4|\\ |mana_b|, poświęć tego stwora: Wskazany gracz odrzuca dwie karty."
 
 #: ../../NPH.rst:346
 msgid ""
@@ -1116,7 +1153,7 @@ msgstr ""
 # 375b923537804177ad2006a7b8eb4509
 #: ../../NPH.rst:377
 msgid "Target player sacrifices a creature and loses 1 life."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora i traci 1 życie."
 
 #: ../../NPH.rst:388
 msgid ""
@@ -1144,6 +1181,8 @@ msgid ""
 "When Glistening Oil is put into a graveyard from the battlefield, return "
 "Glistening Oil to its owner's hand."
 msgstr ""
+"Kiedy ta karta trafi do cmentarza z pola bitwy, przywróć ją do ręki "
+"właściciela."
 
 #: ../../NPH.rst:392
 msgid ""
@@ -1179,6 +1218,8 @@ msgid ""
 "All creatures get -X/-X until end of turn, where X is the sacrificed "
 "creature's power."
 msgstr ""
+"Wszystkie stwory dostają do końca tury -X/-X, gdzie X jest siłą poświęconego "
+"stwora."
 
 #: ../../NPH.rst:402
 msgid ""
@@ -1192,6 +1233,9 @@ msgid ""
 "Destroy all creatures, then search target opponent's library for up to three "
 "creature cards and put them into their graveyard. Then that player shuffles."
 msgstr ""
+"Zniszcz wszystkie stwory, po czym wyszukaj w bibliotece wskazanego "
+"przeciwnika co najwyżej trzy karty stworów i umieść je w jego cmentarzy. "
+"Następnie ów gracz tasuje."
 
 #: ../../NPH.rst:408
 msgid ""
@@ -1203,12 +1247,12 @@ msgstr ""
 # 0e5cd4d9b2dc4a908dab06f04075a0da
 #: ../../NPH.rst:405
 msgid "Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje on do końca tury +2/+0."
 
 # c5111217eb27431baab29c47751928c7
 #: ../../NPH.rst:407
 msgid "When Mortis Dogs dies, target player loses life equal to its power."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wskazany gracz traci życia równe jego sile."
 
 #: ../../NPH.rst:414
 msgid ""
@@ -1262,6 +1306,8 @@ msgid ""
 "When Pith Driller enters the battlefield, put a -1/-1 counter on target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
+"stworze."
 
 #: ../../NPH.rst:432
 msgid ""
@@ -1275,6 +1321,9 @@ msgid ""
 "Return target creature card with mana value X from your graveyard to the "
 "battlefield. It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skrócie many X z twojego cmentarza na pole "
+"bitwy. Zyskuje on pośpiech. Wygnaj go na początku najbliższego kroku "
+"końcowego."
 
 #: ../../NPH.rst:436
 msgid ""
@@ -1289,6 +1338,9 @@ msgid ""
 "that player shuffles. You may look at and play that card for as long as it "
 "remains exiled."
 msgstr ""
+"Wyszukaj kartę w bibliotece wskazanego przeciwnika i wygnaj ją zakrytą. Ów "
+"gracz tasuje. Możesz patrzeć na ową kartę i zagrać ją przez czas jej "
+"wygnania."
 
 #: ../../NPH.rst:442
 msgid ""
@@ -1303,6 +1355,8 @@ msgid ""
 "Whenever a source deals damage to Reaper of Sheoldred, that source's "
 "controller gets a poison counter."
 msgstr ""
+"Ilekroć źródło zada temu stworowi obrażenia, władca owego źródła dostaje "
+"znacznik zatrucia."
 
 #: ../../NPH.rst:450
 msgid ""
@@ -1351,6 +1405,9 @@ msgid ""
 "owner's graveyard, hand, and library for any number of cards with the same "
 "name as that card and exile them. Then that player shuffles."
 msgstr ""
+"Wskaż kartę w cmentarzu inną niż bazowy ląd. Wyszukaj w cmentarzu, ręce i "
+"bibliotece jej właściciela dowolną liczbę kart o tej samej nazwie i wygnaj "
+"je. Następnie ów gracz tasuje."
 
 #: ../../NPH.rst:462
 msgid ""
@@ -1362,7 +1419,7 @@ msgstr ""
 # f2ba1773efb041b4a05fa83355170db0
 #: ../../NPH.rst:461
 msgid "|mana_b|: Regenerate Toxic Nim."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../NPH.rst:470
 msgid ""
@@ -1393,6 +1450,8 @@ msgid ""
 "sacrifice it. If you do, that player discards a card for each poison counter "
 "they have."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz go poświęcić. Jeśli "
+"tak zrobisz, ów gracz odrzuca tyle kart, ile ma znaczników zatrucia."
 
 #: ../../NPH.rst:484
 msgid ""
@@ -1410,7 +1469,7 @@ msgstr ""
 #: ../../NPH.rst:481 ../../NPH.rst:521 ../../NPH.rst:533 ../../NPH.rst:551
 #: ../../NPH.rst:563 ../../NPH.rst:577
 msgid "(|mana_rp| can be paid with either |mana_r| or 2 life.)"
-msgstr ""
+msgstr "(|mana_rp| można opłacić z użyciem |mana_r| albo 2 żyć.)"
 
 # b5f2cb718803401cb7e2b9390f51be97
 #: ../../NPH.rst:483
@@ -1418,6 +1477,8 @@ msgid ""
 "Gain control of target creature an opponent controls until end of turn. "
 "Untap that creature. It gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem pod władaniem "
+"przeciwnika. Odkręć owego stwora. Do końca tury zyskuje on pośpiech."
 
 #: ../../NPH.rst:490
 msgid ""
@@ -1434,7 +1495,7 @@ msgstr ""
 
 #: ../../NPH.rst:489
 msgid "Artillerize deals 5 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 5 obrażeń."
 
 #: ../../NPH.rst:494
 msgid ""
@@ -1448,6 +1509,9 @@ msgid ""
 "Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| "
 "and \"Equipped creature gets +X/+0,\" where X is that artifact's mana value."
 msgstr ""
+"Każdy niestworowy artefakt nie będący Wyposażeniem jest Wyposażeniem mającym "
+"\"wyposaż |mana_x|\" oraz \"Wyposażony stwór dostaje +X/+0\", gdzie X jest "
+"skrótem many owego artefaktu."
 
 #: ../../NPH.rst:500
 msgid ""
@@ -1457,23 +1521,22 @@ msgid ""
 msgstr ""
 
 #: ../../NPH.rst:497
-#, fuzzy
-#| msgid ""
-#| "You may reveal this card from your opening hand. If you do, at the "
-#| "beginning of the first upkeep, each opponent mills seven cards."
 msgid ""
 "You may reveal this card from your opening hand. If you do, at the beginning "
 "of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with "
 "haste."
 msgstr ""
 "Możesz ujawnić tę kartę z twojej początkowej ręki. Jeśli tak zrobisz, na "
-"początku pierwszego kroku utrzymania, każdy przeciwnik mieli siedem kart."
+"początku pierwszego kroku utrzymania, stwórz żeton czerwonego stwora "
+"Phyrexiański Goblin 1/1 z pośpiechem."
 
 #: ../../NPH.rst:499
 msgid ""
 "When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin "
 "creature tokens with haste, where X is the number of creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz X żetonów czerwonego stwora "
+"Goblin 1/1 z pośpiechem, gdzie X jest liczbą stworów pod twoim władaniem."
 
 #: ../../NPH.rst:506
 msgid ""
@@ -1486,6 +1549,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../NPH.rst:508
 msgid ""
@@ -1507,6 +1571,8 @@ msgid ""
 "Whenever Furnace Scamp deals combat damage to a player, you may sacrifice "
 "it. If you do, Furnace Scamp deals 3 damage to that player."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz go poświęcić. Jeśli "
+"tak zrobisz, zadaje on owemu graczowi 3 obrażenia."
 
 #: ../../NPH.rst:518
 msgid ""
@@ -1520,6 +1586,8 @@ msgid ""
 "Add |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |"
 "mana_r|. Spend this mana only to cast artifact or creature spells."
 msgstr ""
+"Weź |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ "
+"|mana_r|. Wydaj tę manę tylko na rzucenie czarów artefaktów lub stworów."
 
 #: ../../NPH.rst:524
 msgid ""
@@ -1530,7 +1598,7 @@ msgstr ""
 
 #: ../../NPH.rst:523
 msgid "Gut Shot deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../NPH.rst:530
 msgid ""
@@ -1543,7 +1611,7 @@ msgstr ""
 #: ../../NPH.rst:527
 msgid ""
 "Imprint — When Invader Parasite enters the battlefield, exile target land."
-msgstr ""
+msgstr "Odlew — Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazany ląd."
 
 # c9ca71bd19c74872bead39bd23e3c520
 #: ../../NPH.rst:529
@@ -1551,6 +1619,8 @@ msgid ""
 "Whenever a land with the same name as the exiled card enters the battlefield "
 "under an opponent's control, Invader Parasite deals 2 damage to that player."
 msgstr ""
+"Ilekroć na pole bitwy pod władaniem przeciwnika wejdzie ląd o tej samej "
+"nazwie co wygnana karta, niniejszy stwór zadaje owemu graczowi 2 obrażenia."
 
 #: ../../NPH.rst:538
 msgid ""
@@ -1562,7 +1632,7 @@ msgstr ""
 # 068bf837f3ea4cafaea8071bac50bee6
 #: ../../NPH.rst:537
 msgid "|mana_rp|: Moltensteel Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_rp|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../NPH.rst:544
 msgid ""
@@ -1574,7 +1644,7 @@ msgstr ""
 # 3ff9c6b2295f42e8a6bae1904afae8df
 #: ../../NPH.rst:543
 msgid "|mana_r|: Ogre Menial gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../NPH.rst:548
 msgid ""
@@ -1588,6 +1658,7 @@ msgid ""
 "When Priest of Urabrask enters the battlefield, add |mana_r|\\ |mana_r|\\ |"
 "mana_r|."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, weź |mana_r|\\ |mana_r|\\ |mana_r|."
 
 #: ../../NPH.rst:554
 msgid ""
@@ -1601,6 +1672,8 @@ msgid ""
 "Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor "
 "deals damage equal to that spell's mana value to any target."
 msgstr ""
+"Ilekroć rzucisz czar mający |mana_p| w swoim koszcie many, ten stwór zadaje "
+"wskazanemu celowi obrażenia równe skrótowi many owego czaru."
 
 #: ../../NPH.rst:560
 msgid ""
@@ -1619,7 +1692,7 @@ msgstr ""
 # 68c0b58ac1994822827b611f77ff6db9
 #: ../../NPH.rst:565
 msgid "Nonartifact creatures can't block this turn."
-msgstr ""
+msgstr "Nieartefaktowe stwory nie mogą blokować w tej turze."
 
 #: ../../NPH.rst:570
 msgid ""
@@ -1633,6 +1706,8 @@ msgid ""
 "Scrapyard Salvo deals damage to target player or planeswalker equal to the "
 "number of artifact cards in your graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi obrażenia równe liczbie "
+"kart artefaktów w twoim cmentarzu."
 
 #: ../../NPH.rst:574
 msgid ""
@@ -1647,6 +1722,8 @@ msgid ""
 "Slag Fiend's power and toughness are each equal to the number of artifact "
 "cards in all graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart artefaktów we "
+"wszystkich cmentarzach."
 
 #: ../../NPH.rst:580
 msgid ""
@@ -1669,7 +1746,7 @@ msgstr ""
 
 #: ../../NPH.rst:583
 msgid "When Tormentor Exarch enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:585
 msgid "Target creature gets +2/+0 until end of turn."
@@ -1677,7 +1754,7 @@ msgstr "Wskazany stwór dostaje do końca tury +2/+0."
 
 #: ../../NPH.rst:587
 msgid "Target creature gets -0/-2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -0/-2."
 
 #: ../../NPH.rst:594
 msgid ""
@@ -1707,7 +1784,7 @@ msgstr ""
 # 0d395ddeba63471f8e78f468c3d9ff12
 #: ../../NPH.rst:597
 msgid "Destroy target artifact or land. Its controller loses 1 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd. Jego władca traci 1 życie."
 
 #: ../../NPH.rst:602
 msgid ""
@@ -1722,6 +1799,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../NPH.rst:606
 msgid ""
@@ -1745,7 +1825,7 @@ msgstr ""
 # 68b439a194e64ae69456ea45ab8dbb4a
 #: ../../NPH.rst:609
 msgid "Whipflare deals 2 damage to each nonartifact creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu nieartefaktowemu stworowi po 2 obrażenia."
 
 #: ../../NPH.rst:614
 msgid ""
@@ -1778,7 +1858,7 @@ msgstr ""
 #: ../../NPH.rst:617 ../../NPH.rst:637 ../../NPH.rst:683 ../../NPH.rst:693
 #: ../../NPH.rst:715
 msgid "(|mana_gp| can be paid with either |mana_g| or 2 life.)"
-msgstr ""
+msgstr "(|mana_gp| można opłacić |mana_g| lub 2 życiami.)"
 
 #: ../../NPH.rst:619
 msgid ""
@@ -1787,6 +1867,10 @@ msgid ""
 "value, put that card onto the battlefield, then shuffle. Activate only as a "
 "sorcery."
 msgstr ""
+"|mana_1|\\ |mana_gp|, |tap|, poświęć stwora: Wyszukaj w twojej bibliotece "
+"kartę stwora o skrócie many większym o 1 od skróconego kosztu many "
+"poświęconego stwora, umieść ową kartę na polu bitwy, po czym przetasuj. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../NPH.rst:628
 msgid ""
@@ -1797,17 +1881,20 @@ msgstr ""
 
 #: ../../NPH.rst:623
 msgid "When Brutalizer Exarch enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:625
 msgid ""
 "Search your library for a creature card, reveal it, then shuffle and put "
 "that card on top."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę stwora, ujawnij ją, po czym przetasuj i "
+"umieść ową kartę na wierzchu."
 
 #: ../../NPH.rst:627
 msgid "Put target noncreature permanent on the bottom of its owner's library."
 msgstr ""
+"Umieść wskazany niestworowy permanent na spodzie biblioteki właściciela."
 
 #: ../../NPH.rst:634
 msgid ""
@@ -1822,6 +1909,8 @@ msgid ""
 "You may reveal this card from your opening hand. If you do, at the beginning "
 "of your first main phase, add |mana_g|."
 msgstr ""
+"Możesz ujawnić tę kartę z twojej startowej ręki. Jeśli tak zrobisz, na "
+"początku twojej pierwszej fazy głównej, weź |mana_g|."
 
 # a7227790c2574dd8a8703df927694bdf
 #: ../../NPH.rst:633
@@ -1838,7 +1927,7 @@ msgstr ""
 # 1f7aff64221140969295b5874c58a209
 #: ../../NPH.rst:639
 msgid "Corrosive Gale deals X damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi mającemu latanie po X obrażeń."
 
 #: ../../NPH.rst:646
 msgid ""
@@ -1868,6 +1957,8 @@ msgid ""
 "Create a 3/3 green Beast creature token for each creature put into your "
 "graveyard from the battlefield this turn."
 msgstr ""
+"Stwórz tyle żetonów zielonego stwora Bestia 3/3, ile stworów zostało w tej "
+"turze umieszczonych z pola bitwy w twoim cmentarzu."
 
 #: ../../NPH.rst:654
 msgid ""
@@ -1879,7 +1970,7 @@ msgstr ""
 # 0d17861141c04b30bf75c75b41e44bbb
 #: ../../NPH.rst:653
 msgid "Destroy target artifact. Its controller loses 1 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt. Jego władca traci 1 życie."
 
 #: ../../NPH.rst:658
 msgid ""
@@ -1900,6 +1991,8 @@ msgid ""
 "|tap|: Target creature gets +4/+4 until end of turn. Activate only if "
 "Greenhilt Trainee's power is 4 or greater."
 msgstr ""
+"|tap|: Wskazany stwór dostaje do końca tury +4/+4. Możesz aktywować tylko "
+"jeśli ten stwór ma siłę 4 lub większą."
 
 #: ../../NPH.rst:666
 msgid ""
@@ -1914,6 +2007,8 @@ msgid ""
 "Target creature gets +1/+1 until end of turn. Another target creature gets "
 "-1/-1 until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1. Inny wskazany stwór dostaje do "
+"końca tury -1/-1."
 
 #: ../../NPH.rst:672
 msgid ""
@@ -1923,21 +2018,17 @@ msgid ""
 msgstr ""
 
 #: ../../NPH.rst:669
-#, fuzzy
-#| msgid ""
-#| "When Vital Splicer enters the battlefield, create a 3/3 colorless Golem "
-#| "artifact creature token."
 msgid ""
 "When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian "
 "Golem artifact creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
-"artefaktowego stwora Golem 3/3."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 0b564d2ceb6c4cdebc263ea274735718
 #: ../../NPH.rst:671
 msgid "Golem creatures you control have trample."
-msgstr ""
+msgstr "Golemy pod twoim władaniem mają tratowanie."
 
 #: ../../NPH.rst:680
 msgid ""
@@ -1949,11 +2040,11 @@ msgstr ""
 # 48b9651e84d64727a666b3dce53f812f
 #: ../../NPH.rst:675
 msgid "You can't get poison counters."
-msgstr ""
+msgstr "Nie możesz dostać znaczników zatrucia."
 
 #: ../../NPH.rst:677
 msgid "Creatures you control can't have -1/-1 counters put on them."
-msgstr ""
+msgstr "Nie można umieszczać znaczników -1/-1 na stworach pod twoim władaniem."
 
 # 991929f85d6145de891bcdf3c178d912
 #: ../../NPH.rst:679
@@ -1983,6 +2074,7 @@ msgstr ""
 #: ../../NPH.rst:689
 msgid "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy znacznik zatrucia u twoich przeciwników."
 
 #: ../../NPH.rst:696
 msgid ""
@@ -1994,7 +2086,7 @@ msgstr ""
 # dd2afd893065475b9c7369cec13ac503
 #: ../../NPH.rst:695
 msgid "Put target card from a graveyard on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazaną kartę z cmentarza na wierzchu biblioteki właściciela."
 
 #: ../../NPH.rst:702
 msgid ""
@@ -2005,16 +2097,13 @@ msgstr ""
 
 # edf43fe566aa469a82eba224224b7077
 #: ../../NPH.rst:701
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, create a 1/1 green Insect creature token "
-#| "with infect for each poison counter your opponents have."
 msgid ""
 "At the beginning of your upkeep, create a 1/1 green Phyrexian Insect "
 "creature token with infect for each poison counter your opponents have."
 msgstr ""
-"Na początku twojego utrzymania, stwórz tyle żetonów zielonego stwora Owad "
-"1/1 z infekcją, ile łącznie żetonów zatrucia mają twoi przeciwnicy."
+"Na początku twojego utrzymania, stwórz tyle żetonów zielonego stwora "
+"Phyrexiański Owad 1/1 z infekcją, ile łącznie żetonów zatrucia mają twoi "
+"przeciwnicy."
 
 #: ../../NPH.rst:704
 msgid ""
@@ -2036,6 +2125,8 @@ msgid ""
 "You may have Spinebiter assign its combat damage as though it weren't "
 "blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór przypisze swoje obrażenia bojowe tak, jakby nie "
+"został zablokowany."
 
 #: ../../NPH.rst:718
 msgid ""
@@ -2058,6 +2149,9 @@ msgid ""
 "infect. (Creatures with infect deal damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
 msgstr ""
+"Do końca tury stwory pod twoim władaniem dostają +1/+1 oraz tratowanie i "
+"infekcję. (Stwory z infekcją zadają obrażenia stworom w formie znaczników -1/"
+"-1, a graczom w formie znaczników zatrucia.)"
 
 #: ../../NPH.rst:726
 msgid ""
@@ -2091,7 +2185,7 @@ msgstr "Zaurocz artefakt"
 # 449780bda37942a0a52a99f9268f952d
 #: ../../NPH.rst:731
 msgid "When enchanted artifact is put into a graveyard, you gain 6 life."
-msgstr ""
+msgstr "Kiedy zauroczony artefakt trafi do cmentarza, zyskaj 6 żyć."
 
 #: ../../NPH.rst:738
 msgid ""
@@ -2210,6 +2304,8 @@ msgid ""
 "|mana_wp|, |tap|: Tap target creature. (|mana_wp| can be paid with either |"
 "mana_w| or 2 life.)"
 msgstr ""
+"|mana_wp|, |tap|: Przekręć wskazanego stwora. (|mana_wp| można opłacić "
+"używając |mana_w| lub 2 żyć.)"
 
 #: ../../NPH.rst:778
 msgid ""
@@ -2221,7 +2317,7 @@ msgstr ""
 # ce62c379dd1f4b7fbc6f6e42616fe703
 #: ../../NPH.rst:773
 msgid "As Caged Sun enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz kolor."
 
 # 83f782a7d64640f9b122a3f1629bf322
 #: ../../NPH.rst:775
@@ -2233,6 +2329,8 @@ msgid ""
 "Whenever a land's ability causes you to add one or more mana of the chosen "
 "color, add one additional mana of that color."
 msgstr ""
+"Ilekroć zdolność lądu sprawia, że bierzesz jedną lub więcej many wybranego "
+"koloru, weź jedną dodatkową manę owego koloru."
 
 #: ../../NPH.rst:784
 msgid ""
@@ -2247,19 +2345,17 @@ msgid ""
 "|mana_2|, |tap|: Exile target artifact card from a graveyard. Put a charge "
 "counter on Conversion Chamber."
 msgstr ""
+"|mana_2|, |tap|: Wygnaj wskazaną kartę artefaktu z cmentarza. Umieść "
+"znacznik ładunku na tym artefakcie."
 
 # 21b38e908fef4879bf2b5fc3468ca0d8
 #: ../../NPH.rst:783
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|, Remove a charge counter from Surge Node: Put a charge "
-#| "counter on target artifact."
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a "
 "3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
-"|mana_1|, |tap|, usuń znacznik ładunku z tego artefaktu: Umieść znacznik "
-"ładunku na wskazanym artefakcie."
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Stwórz żeton "
+"bezkolorwego artefaktowego stwora Phyrexiański Golem 3/3."
 
 #: ../../NPH.rst:788
 msgid ""
@@ -2285,13 +2381,15 @@ msgstr ""
 #: ../../NPH.rst:791
 msgid ""
 "Etched Monstrosity enters the battlefield with five -1/-1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników -1/-1."
 
 #: ../../NPH.rst:793
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, Remove five -1/-1 "
 "counters from Etched Monstrosity: Target player draws three cards."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, usuń pięć znaczników "
+"-1/-1 z tego stwora: Wskazany gracz dobiera trzy karty."
 
 #: ../../NPH.rst:800
 msgid ""
@@ -2305,6 +2403,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Gremlin Mine: It deals 4 damage to target "
 "artifact creature."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu artefaktowemu "
+"stworowi 4 obrażenia."
 
 # 45bcb0fc875a43efac686477736da97b
 #: ../../NPH.rst:799
@@ -2312,6 +2412,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Gremlin Mine: Remove up to four charge counters "
 "from target noncreature artifact."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Usuń co najwyżej cztery znaczniki "
+"ładunku ze wskazanego niestworowego artefaktu."
 
 #: ../../NPH.rst:804
 msgid ""
@@ -2326,6 +2428,9 @@ msgid ""
 "each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|"
 "mana_bp| can be paid with either |mana_b| or 2 life.)"
 msgstr ""
+"|mana_x|\\ |mana_bp|: Usuń co najwyżej X znaczników ze wskazanego "
+"permanentu. Za każdy znacznik usunięty w ten sposób, ten stwór dostaje do "
+"końca tury +1/+0. (|mana_bp| można opłacić używając |mana_b| lub 2 żyć.)"
 
 #: ../../NPH.rst:808
 msgid ""
@@ -2352,6 +2457,8 @@ msgid ""
 "|mana_rp|: Immolating Souleater gets +1/+0 until end of turn. (|mana_rp| can "
 "be paid with either |mana_r| or 2 life.)"
 msgstr ""
+"|mana_rp|: Ten stwór dostaje do końca tury +1/+0. (|mana_rp| można opłacić "
+"używając |mana_r| lub 2 żyć.)"
 
 #: ../../NPH.rst:816
 msgid ""
@@ -2366,6 +2473,8 @@ msgid ""
 "|mana_gp|: Insatiable Souleater gains trample until end of turn. (|mana_gp| "
 "can be paid with either |mana_g| or 2 life.)"
 msgstr ""
+"|mana_gp|: Ten stwór zyskuje do końca tury tratowanie. (|mana_gp| można "
+"opłacić używając |mana_g| lub 2 życia.)"
 
 #: ../../NPH.rst:820
 msgid ""
@@ -2379,6 +2488,8 @@ msgid ""
 "Whenever an opponent casts a creature spell, that player loses 2 life unless "
 "they pay |mana_2|."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar stwora, ów gracz traci 2 życia, chyba że "
+"zapłaci |mana_2|."
 
 #: ../../NPH.rst:824
 msgid ""
@@ -2390,7 +2501,7 @@ msgstr ""
 # b61d4ce6f14a4720ac541d993368fcf9
 #: ../../NPH.rst:823
 msgid "Whenever Kiln Walker attacks, it gets +3/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje on do końca tury +3/+0."
 
 #: ../../NPH.rst:832
 msgid ""
@@ -2402,13 +2513,15 @@ msgstr ""
 # e70a0717458b4626993d537827990385
 #: ../../NPH.rst:829
 msgid "Equipped creature gets +1/+1 for each Swamp you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każde Bagno pod twoim władaniem."
 
 #: ../../NPH.rst:831
 msgid ""
 "Equip |mana_bp|\\ |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 "
 "life.)"
 msgstr ""
+"Wyposaż |mana_bp|\\ |mana_bp| (|mana_bp| można opłacić używając |mana_b| lub "
+"2 żyć.)"
 
 #: ../../NPH.rst:836
 msgid ""
@@ -2453,7 +2566,7 @@ msgstr ""
 
 #: ../../NPH.rst:843
 msgid "Spend only mana produced by creatures to cast this spell."
-msgstr ""
+msgstr "Do rzucenia tego czaru wydaj wyłącznie manę wziętą ze stworów."
 
 #: ../../NPH.rst:852
 msgid ""
@@ -2465,7 +2578,7 @@ msgstr ""
 # a6ff7b769677433c809eb42883479e55
 #: ../../NPH.rst:849
 msgid "Equipped creature gets +3/+1 and has haste."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+1 i ma pośpiech."
 
 # 6a81ba5663044c759f04af358a6d407f
 # 25cdf508d6ba4c93ab646c7c139715e5
@@ -2483,7 +2596,7 @@ msgstr ""
 # dfe1e14bca3647468335e5693aeef517
 #: ../../NPH.rst:855
 msgid "Players can't draw cards."
-msgstr ""
+msgstr "Gracze nie mogą dobierać kart."
 
 #: ../../NPH.rst:857
 msgid ""
@@ -2492,6 +2605,9 @@ msgid ""
 "battlefield. Otherwise, the player casts it without paying its mana cost if "
 "able."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz wygania wierzchnią "
+"kartę swojej biblioteki. Jeśli to karta lądu, ów gracz umieszcza ją na polu "
+"bitwy. W przeciwnym razie rzuca ją bez płacenia kosztu many, jeśli może."
 
 #: ../../NPH.rst:862
 msgid ""
@@ -2508,6 +2624,9 @@ msgid ""
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
+"|mana_bp|: Ten stwór zyskuje do końca tury infekcję. (|mana_bp| można "
+"opłacić używając |mana_g| lub 2 życia. Stwór z infekcją zadaje stworom "
+"obrażenia w formie znaczników -1/-1, a graczom w formie znaczników zatrucia.)"
 
 #: ../../NPH.rst:864
 msgid ""
@@ -2541,12 +2660,16 @@ msgid ""
 "At the beginning of your upkeep or whenever you cast a green spell, put a "
 "charge counter on Shrine of Boundless Growth."
 msgstr ""
+"Na początku twojego kroku utrzymania lub ilekroć rzucisz zielony czar, "
+"umieść znacznik ładunku na tym artefakcie."
 
 #: ../../NPH.rst:875
 msgid ""
 "|tap|, Sacrifice Shrine of Boundless Growth: Add |colorless| for each charge "
 "counter on Shrine of Boundless Growth."
 msgstr ""
+"|tap|, poświęć ten artefakt: Weź |colorless| za każdy znacznik ładunku na "
+"tym artefakcie."
 
 #: ../../NPH.rst:882
 msgid ""
@@ -2561,12 +2684,16 @@ msgid ""
 "At the beginning of your upkeep or whenever you cast a red spell, put a "
 "charge counter on Shrine of Burning Rage."
 msgstr ""
+"Na początku twojego kroku utrzymania lub ilekroć rzucisz czerwony czar, "
+"umieść znacznik ładunku na tym artefakcie."
 
 #: ../../NPH.rst:881
 msgid ""
 "|mana_3|, |tap|, Sacrifice Shrine of Burning Rage: It deals damage equal to "
 "the number of charge counters on it to any target."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi obrażenia "
+"równe liczbie znaczników ładunku na nim."
 
 #: ../../NPH.rst:888
 msgid ""
@@ -2582,6 +2709,8 @@ msgid ""
 "At the beginning of your upkeep or whenever you cast a black spell, put a "
 "charge counter on Shrine of Limitless Power."
 msgstr ""
+"Na początku twojego kroku utrzymania lub ilekroć rzucisz czarny czar, umieść "
+"znacznik ładunku na tym artefakcie."
 
 # e2c905391e2a47fbb8d8fab3141324d2
 #: ../../NPH.rst:887
@@ -2589,6 +2718,8 @@ msgid ""
 "|mana_4|, |tap|, Sacrifice Shrine of Limitless Power: Target player discards "
 "a card for each charge counter on Shrine of Limitless Power."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Wskazany gracz odrzuca kartę za każdy "
+"znacznik ładunku na tym artefakcie."
 
 #: ../../NPH.rst:894
 msgid ""
@@ -2603,6 +2734,8 @@ msgid ""
 "At the beginning of your upkeep or whenever you cast a white spell, put a "
 "charge counter on Shrine of Loyal Legions."
 msgstr ""
+"Na początku twojego kroku utrzymania lub ilekroć rzucisz biały czar, umieść "
+"znacznik ładunku na tym artefakcie."
 
 #: ../../NPH.rst:893
 msgid ""
@@ -2610,6 +2743,9 @@ msgid ""
 "Phyrexian Myr artifact creature token for each charge counter on Shrine of "
 "Loyal Legions."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten artefakt: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Phyrexiański Myr 1/1 za każdy znacznik ładunku na tym "
+"artefakcie."
 
 #: ../../NPH.rst:900
 msgid ""
@@ -2625,6 +2761,8 @@ msgid ""
 "At the beginning of your upkeep or whenever you cast a blue spell, put a "
 "charge counter on Shrine of Piercing Vision."
 msgstr ""
+"Na początku twojego kroku utrzymania lub ilekroć rzucisz niebieski czar, "
+"umieść znacznik ładunku na tym artefakcie."
 
 # 18748d8133c24bbbb1f5b7659cddbdbe
 #: ../../NPH.rst:899
@@ -2634,6 +2772,9 @@ msgid ""
 "Vision. Put one of those cards into your hand and the rest on the bottom of "
 "your library in any order."
 msgstr ""
+"|tap|, poświęć ten artefakt: Spójrz na X wierzchnich kart twojej biblioteki, "
+"gdzie X jest liczbą znaczników ładunku na tym artefakcie. Umieść jedną z "
+"owych kart w twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../NPH.rst:908
 msgid ""
@@ -2662,7 +2803,7 @@ msgstr ""
 # 093790002d0b474aba6001ae5ed3ca6d
 #: ../../NPH.rst:911
 msgid "|mana_6|, |tap|: Two target players exchange life totals."
-msgstr ""
+msgstr "|mana_6|, |tap|: Dwóch wskazanych graczy wymienia się życiami."
 
 #: ../../NPH.rst:916
 msgid ""
@@ -2749,6 +2890,8 @@ msgid ""
 "|mana_up|: Trespassing Souleater can't be blocked this turn. (|mana_up| can "
 "be paid with either |mana_u| or 2 life.)"
 msgstr ""
+"|mana_up|: Ten stwór nie może być blokowany w tej turze. (|mana_up| można "
+"opłacić używając |mana_u| lub 2 żyć.)"
 
 #: ../../NPH.rst:942
 msgid ""
@@ -2761,6 +2904,8 @@ msgstr ""
 #: ../../NPH.rst:941
 msgid "Untap all artifacts you control during each other player's untap step."
 msgstr ""
+"Odkręć wszystkie artefakty pod twoim władaniem podczas kroku odkręcania "
+"każdego innego gracza."
 
 #: ../../NPH.rst:948
 msgid ""
@@ -2776,7 +2921,7 @@ msgstr "|tap|: Weź |colorless|."
 # 86c508e6cc734aeeaed60359eb891057
 #: ../../NPH.rst:947
 msgid "|mana_1|, |tap|, Sacrifice an artifact: You gain 1 life."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć artefakt: Zyskaj 1 życie."
 
 #: ../../NPH.rst:952
 msgid ""
