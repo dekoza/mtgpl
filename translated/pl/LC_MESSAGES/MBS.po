@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-17 13:27+0000\n"
+"PO-Revision-Date: 2021-07-22 21:06+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../MBS.rst:5
 msgid ":mtgexp:`MBS` Mirrodin Besieged"
@@ -66,6 +66,7 @@ msgstr ""
 msgid ""
 "Put target artifact, creature, or enchantment on top of its owner's library."
 msgstr ""
+"Umieść wskazany artefakt, stwora lub urok na wierzchu biblioteki właściciela."
 
 #: ../../MBS.rst:22
 msgid ""
@@ -102,6 +103,8 @@ msgid ""
 "Put any number of target artifact cards from your graveyard on top of your "
 "library."
 msgstr ""
+"Umieść dowolną liczbę wskazanych kart artefaktów z twojego cmentarza na "
+"wierzchu twojej biblioteki."
 
 #: ../../MBS.rst:31
 msgid "Draw a card."
@@ -119,6 +122,8 @@ msgid ""
 "Sacrifice Gore Vassal: Put a -1/-1 counter on target creature. Then if that "
 "creature's toughness is 1 or greater, regenerate it."
 msgstr ""
+"Poświęć tego stwora: Umieść znacznik -1/-1 na wskazanym stworze. Następnie "
+"jeśli wytrzymałość owego stwora jest 1 lub większa, zregeneruj go."
 
 #: ../../MBS.rst:42
 msgid ""
@@ -132,6 +137,8 @@ msgid ""
 "Whenever Hero of Bladehold attacks, create two 1/1 white Soldier creature "
 "tokens that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
+"białego stwora Piechur 1/1."
 
 #: ../../MBS.rst:48
 msgid ""
@@ -149,6 +156,8 @@ msgid ""
 "Kemba's Legion can block an additional creature each combat for each "
 "Equipment attached to Kemba's Legion."
 msgstr ""
+"Ten stwór może w każdej potyczce blokować dodatkowego stwora za każdą sztukę "
+"Wyposażenia dołączoną do niego."
 
 #: ../../MBS.rst:54
 msgid ""
@@ -162,12 +171,16 @@ msgid ""
 "When Leonin Relic-Warder enters the battlefield, you may exile target "
 "artifact or enchantment."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany artefakt lub "
+"urok."
 
 #: ../../MBS.rst:53
 msgid ""
 "When Leonin Relic-Warder leaves the battlefield, return the exiled card to "
 "the battlefield under its owner's control."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, przywróć wygnaną kartę na pole bitwy pod "
+"władaniem właściciela."
 
 #: ../../MBS.rst:58
 msgid ""
@@ -198,7 +211,7 @@ msgstr ""
 
 #: ../../MBS.rst:65
 msgid "Create two 1/1 colorless Myr artifact creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony bezkolorowego stwora Myr 1/1."
 
 #: ../../MBS.rst:70
 msgid ""
@@ -224,6 +237,9 @@ msgid ""
 "artifact creature token, where X is the number of creatures destroyed this "
 "way."
 msgstr ""
+"Zniszcz wszystkie stwory, po czym stwórz żeton bezkolorowego stwora "
+"Phyrexiański Horror X/X, gdzie X jest liczbą stworów zniszczonych w ten "
+"sposób."
 
 #: ../../MBS.rst:80
 msgid ""
@@ -262,6 +278,8 @@ msgid ""
 "Whenever Victory's Herald attacks, attacking creatures gain flying and "
 "lifelink until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, atakujące stwory do końca tury zyskują latanie "
+"i więź życia."
 
 #: ../../MBS.rst:96
 msgid ""
@@ -275,6 +293,8 @@ msgid ""
 "Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its "
 "owner's library."
 msgstr ""
+"Stwórz X żetonów białego stwora Kot 2/2. Wtasuj ten czar do biblioteki "
+"właściciela."
 
 #: ../../MBS.rst:100
 msgid ""
@@ -322,6 +342,8 @@ msgid ""
 "Enchanted creature has infect. (It deals damage to creatures in the form of "
 "-1/-1 counters and to players in the form of poison counters.)"
 msgstr ""
+"Zauroczony stwór ma infekcję. (Zadaje obrażenia stworom w postaci znaczników "
+"-1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../MBS.rst:118
 msgid ""
@@ -349,6 +371,9 @@ msgid ""
 "have you put that card into your hand. If no player does, you draw three "
 "cards."
 msgstr ""
+"Wyszukaj kartę w twojej bibliotece, wygnaj ją, po czym przetasuj. Dowolny "
+"przeciwnik może sprawić, że umieścisz ową kartę w twojej ręce. Jeśli żaden "
+"gracz tego nie zrobi, dobierz trzy karty."
 
 #: ../../MBS.rst:126
 msgid ""
@@ -362,6 +387,9 @@ msgid ""
 "Counter target spell, then proliferate. (Choose any number of permanents and/"
 "or players, then give each another counter of each kind already there.)"
 msgstr ""
+"Skontruj wskazany czar, po czym rozpleń. (Wybierz dowolną liczbę permanentów "
+"i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../MBS.rst:132
 msgid ""
@@ -372,7 +400,7 @@ msgstr ""
 
 #: ../../MBS.rst:131
 msgid "Whenever you cast an artifact spell, you may untap target creature."
-msgstr ""
+msgstr "Ilekroć rzucisz czar artefaktu, możesz odkręcić wskazanego stwora."
 
 #: ../../MBS.rst:136
 msgid ""
@@ -387,6 +415,9 @@ msgid ""
 "onto the battlefield if it has the same name as a permanent. Put the rest on "
 "the bottom of your library in any order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić jedną z "
+"owych kart na polu bitwy jeśli ma taką samą nazwę jak permanent. Umieść "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../MBS.rst:142
 msgid ""
@@ -403,7 +434,7 @@ msgstr "Antymagia (Ten stwór nie może być wskazywany przez czary i zdolności
 msgid ""
 "Whenever Neurok Commando deals combat damage to a player, you may draw a "
 "card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../MBS.rst:146
 msgid ""
@@ -414,7 +445,7 @@ msgstr ""
 
 #: ../../MBS.rst:145
 msgid "When Oculus dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../MBS.rst:150
 msgid ""
@@ -426,6 +457,8 @@ msgstr ""
 #: ../../MBS.rst:149
 msgid "Return up to two target nonland permanents to their owners' hands."
 msgstr ""
+"Przywróć co najwyżej dwa wskazane nielądowe permanenty do rąk ich "
+"właścicieli."
 
 #: ../../MBS.rst:156
 msgid ""
@@ -436,7 +469,7 @@ msgstr ""
 
 #: ../../MBS.rst:155
 msgid "When Serum Raker dies, each player discards a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy gracz odrzuca kartę."
 
 #: ../../MBS.rst:162
 msgid ""
@@ -454,6 +487,8 @@ msgid ""
 "Metalcraft — As long as you control three or more artifacts, Spire Serpent "
 "gets +2/+2 and can attack as though it didn't have defender."
 msgstr ""
+"Metalurgia — O ile władasz co najmniej trzema artefaktami, ten stwór dostaje "
+"+2/+2 i może atakować, jakby nie miał obronności."
 
 #: ../../MBS.rst:170
 msgid ""
@@ -514,6 +549,8 @@ msgid ""
 "|mana_2|\\ |mana_u|, |tap|: Put a -1/-1 counter on target creature. You may "
 "tap or untap that creature."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|: Umieść znacznik -1/-1 na wskazanym stworze. "
+"Możesz przekręcić lub odkręcić owego stwora."
 
 #: ../../MBS.rst:186
 msgid ""
@@ -557,6 +594,8 @@ msgid ""
 "Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its "
 "owner's library."
 msgstr ""
+"Umieść po X znaczników -1/-1 na każdym stworze. Wtasuj ten czar do "
+"biblioteki właściciela."
 
 #: ../../MBS.rst:200
 msgid ""
@@ -567,7 +606,7 @@ msgstr ""
 
 #: ../../MBS.rst:199
 msgid "When Caustic Hound dies, each player loses 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy gracz traci po 4 życia."
 
 #: ../../MBS.rst:206
 msgid ""
@@ -593,7 +632,7 @@ msgstr ""
 
 #: ../../MBS.rst:213
 msgid "Sacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../MBS.rst:218
 msgid ""
@@ -604,7 +643,7 @@ msgstr ""
 
 #: ../../MBS.rst:217
 msgid "Destroy target nonartifact creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieartefaktowego stwora."
 
 #: ../../MBS.rst:222
 msgid ""
@@ -620,6 +659,10 @@ msgid ""
 "end step. If that creature would leave the battlefield, exile it instead of "
 "putting it anywhere else."
 msgstr ""
+"Umieść wskazaną kartę stwora z cmentarza przeciwnika na polu bitwy pod twoim "
+"władaniem. Zyskuje on pośpiech. Wygnaj go na początku najbliższego kroku "
+"końcowego. Jeśli ów stwór miałby opuścić pole bitwy, wygnaj go zamiast "
+"umieszczać go gdziekolwiek indziej."
 
 #: ../../MBS.rst:226
 msgid ""
@@ -630,7 +673,7 @@ msgstr ""
 
 #: ../../MBS.rst:225
 msgid "Target player discards a card, then mills a card."
-msgstr ""
+msgstr "Wskazany gracz odrzuca kartę, po czym mieli kartę."
 
 #: ../../MBS.rst:232
 msgid ""
@@ -678,6 +721,8 @@ msgid ""
 "Whenever a source deals damage to Nested Ghoul, create a 2/2 black Phyrexian "
 "Zombie creature token."
 msgstr ""
+"Ilekroć źródło zada obrażenia temu stworowi, stwórz żeton czarnego stwora "
+"Phyrexiański Zombi 2/2."
 
 #: ../../MBS.rst:246
 msgid ""
@@ -695,7 +740,7 @@ msgstr ""
 
 #: ../../MBS.rst:249
 msgid "First strike, protection from red and from white"
-msgstr ""
+msgstr "Pierwszy cios, ochrona przed czerwonym i białym"
 
 #: ../../MBS.rst:256
 msgid ""
@@ -719,7 +764,7 @@ msgstr ""
 
 #: ../../MBS.rst:261
 msgid "At the beginning of your upkeep, you get a poison counter."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, dostajesz znacznik zatrucia."
 
 #: ../../MBS.rst:270
 msgid ""
@@ -755,6 +800,8 @@ msgid ""
 "Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli broniący się gracz jest zatruty, dostaje "
+"do końca tury +1/+1."
 
 #: ../../MBS.rst:284
 msgid ""
@@ -784,6 +831,8 @@ msgid ""
 "Put a -1/-1 counter on target creature. When that creature dies this turn, "
 "its controller gets a poison counter."
 msgstr ""
+"Umieść znacznik -1/-1 na wskazanym stworze. Kiedy ów stwór umrze w tej "
+"turze, jego władca dostaje znacznik zatrucia."
 
 #: ../../MBS.rst:292
 msgid ""
@@ -797,6 +846,7 @@ msgid ""
 "When Blisterstick Shaman enters the battlefield, it deals 1 damage to any "
 "target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MBS.rst:296
 msgid ""
@@ -810,6 +860,8 @@ msgid ""
 "Burn the Impure deals 3 damage to target creature. If that creature has "
 "infect, Burn the Impure deals 3 damage to that creature's controller."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Jeśli ów stwór ma infekcję, "
+"ten czar zadaje władcy owego stwora 3 obrażenia."
 
 #: ../../MBS.rst:302
 msgid ""
@@ -820,13 +872,16 @@ msgstr ""
 
 #: ../../MBS.rst:299
 msgid "Concussive Bolt deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 4 obrażenia."
 
 #: ../../MBS.rst:301
 msgid ""
 "Metalcraft — If you control three or more artifacts, creatures controlled by "
 "that player or by that planeswalker's controller can't block this turn."
 msgstr ""
+"Metalurgia — Jeśli władasz co najmniej czterema artefaktami, stwory pod "
+"władaniem owego gracza lub władcy owego wędrowca nie mogą blokować w tej "
+"turze."
 
 #: ../../MBS.rst:306
 msgid ""
@@ -837,7 +892,7 @@ msgstr ""
 
 #: ../../MBS.rst:305
 msgid "Destroy target noncreature artifact."
-msgstr ""
+msgstr "Zniszcz wskazany niestworowy artefakt."
 
 #: ../../MBS.rst:310
 msgid ""
@@ -852,6 +907,9 @@ msgid ""
 "library. You may cast it without paying its mana cost if it's an instant or "
 "sorcery spell."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz spojrzeć na wierzchnią kartę "
+"twojej biblioteki. Możesz rzucić ją bez płacenia jej kosztu many jeśli to "
+"czar sztuczki lub obrzędu."
 
 #: ../../MBS.rst:314
 msgid ""
@@ -862,7 +920,7 @@ msgstr ""
 
 #: ../../MBS.rst:313
 msgid "Sacrifice an artifact: Gnathosaur gains trample until end of turn."
-msgstr ""
+msgstr "Poświęć artefakt: Ten stwór zyskuje do końca tury tratowanie."
 
 #: ../../MBS.rst:318
 msgid ""
@@ -887,6 +945,8 @@ msgid ""
 "|mana_1|\\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X "
 "is the number of artifacts you control."
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +X/+0, gdzie X jest "
+"liczbą artefaktów pod twoim władaniem."
 
 #: ../../MBS.rst:332
 msgid ""
@@ -904,6 +964,8 @@ msgid ""
 "Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't "
 "block this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwory o sile 1 lub mniejszej nie mogą blokować "
+"w tej turze."
 
 #: ../../MBS.rst:336
 msgid ""
@@ -971,6 +1033,8 @@ msgid ""
 "Gain control of target artifact until end of turn. Untap that artifact. It "
 "gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym artefaktem. Odkręć go. Zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../MBS.rst:356
 msgid ""
@@ -988,7 +1052,7 @@ msgstr ""
 
 #: ../../MBS.rst:361
 msgid "Attacking creatures get +1/+0 and gain first strike until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają do końca tury +1/+0 i pierwszy cios."
 
 #: ../../MBS.rst:366
 msgid ""
@@ -1003,6 +1067,9 @@ msgid ""
 "this way would die this turn, exile it instead. Shuffle Red Sun's Zenith "
 "into its owner's library."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go. Wtasuj ten czar do "
+"biblioteki właściciela."
 
 #: ../../MBS.rst:374
 msgid ""
@@ -1013,11 +1080,11 @@ msgstr ""
 
 #: ../../MBS.rst:371
 msgid "Slagstorm deals 3 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 3 obrażenia."
 
 #: ../../MBS.rst:373
 msgid "Slagstorm deals 3 damage to each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu graczowi po 3 obrażenia."
 
 #: ../../MBS.rst:378
 msgid ""
@@ -1031,6 +1098,8 @@ msgid ""
 "Metalcraft — Spiraling Duelist has double strike as long as you control "
 "three or more artifacts."
 msgstr ""
+"Metalurgia — Ten stwór ma podwójny cios o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../MBS.rst:384
 msgid ""
@@ -1065,7 +1134,7 @@ msgstr ""
 msgid ""
 "Whenever an artifact is put into a graveyard from the battlefield, you may "
 "gain 5 life."
-msgstr ""
+msgstr "Ilekroć artefakt trafi do cmentarza z pola bitwy, możesz zyskać 5 żyć."
 
 #: ../../MBS.rst:396
 msgid ""
@@ -1125,7 +1194,7 @@ msgstr ""
 
 #: ../../MBS.rst:407
 msgid "Melira's Keepers can't have counters put on it."
-msgstr ""
+msgstr "Na tym stworze nie można umieszczać znaczników."
 
 #: ../../MBS.rst:414
 msgid ""
@@ -1143,6 +1212,8 @@ msgid ""
 "Metalcraft — That creature gets +4/+4 until end of turn instead if you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ów stwór zamiast tego dostaje do końca tury +4/+4 jeśli władasz "
+"co najmniej trzema artefaktami."
 
 #: ../../MBS.rst:420
 msgid ""
@@ -1156,6 +1227,8 @@ msgid ""
 "If damage would be dealt to Phyrexian Hydra, prevent that damage. Put a "
 "-1/-1 counter on Phyrexian Hydra for each 1 damage prevented this way."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane temu stworowi, zażegnaj je. Umieść "
+"znacznik -1/-1 na tym stworze za każde 1 obrażenie zażegnane w ten sposób."
 
 #: ../../MBS.rst:424
 msgid ""
@@ -1168,6 +1241,8 @@ msgstr ""
 msgid ""
 "Destroy target creature with flying. Its controller gets a poison counter."
 msgstr ""
+"Zniszcz wskazanego stwora mającego latanie. Jego władca dostaje znacznik "
+"zatrucia."
 
 #: ../../MBS.rst:428
 msgid ""
@@ -1181,6 +1256,8 @@ msgid ""
 "|tap|, Sacrifice a creature: Proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
+"|tap|, poświęć stwora: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../MBS.rst:432
 msgid ""
@@ -1194,6 +1271,8 @@ msgid ""
 "Return all cards from your graveyard to your hand. Exile Praetor's Counsel. "
 "You have no maximum hand size for the rest of the game."
 msgstr ""
+"Przywróć wszystkie karty z twojego cmentarza do twojej ręki. Wygnaj ten "
+"czar. Do końca gry nie masz limitu kart w ręce."
 
 #: ../../MBS.rst:434
 msgid ""
@@ -1214,6 +1293,8 @@ msgid ""
 "Whenever a creature dealt damage by Rot Wolf this turn dies, you may draw a "
 "card."
 msgstr ""
+"Ilekroć umrze stwór, który otrzymał od niniejszego obrażenia w tej turze, "
+"możesz dobrać kartę."
 
 #: ../../MBS.rst:446
 msgid ""
@@ -1247,7 +1328,7 @@ msgstr ""
 
 #: ../../MBS.rst:453
 msgid "|mana_1|\\ |mana_g|: Regenerate Thrun, the Last Troll."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../MBS.rst:458
 msgid ""
@@ -1270,7 +1351,7 @@ msgstr ""
 #: ../../MBS.rst:463
 msgid ""
 "When Viridian Corrupter enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../MBS.rst:468
 msgid ""
@@ -1303,6 +1384,8 @@ msgid ""
 "Whenever a creature an opponent controls dies, you may return target "
 "artifact card from your graveyard to your hand."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika, możesz przywrócić wskazaną "
+"kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../MBS.rst:482
 msgid ""
@@ -2008,18 +2091,15 @@ msgid ""
 msgstr ""
 
 #: ../../MBS.rst:749
-#, fuzzy
-#| msgid ""
-#| "Infect (This creature deals damage to creatures in the form of -1/-1 "
-#| "counters and to players in the form of poison counters.)"
 msgid ""
 "|mana_1|: Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature "
 "with flying and infect until end of turn. It's still a land. (It deals "
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
-"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
-"graczom w postaci znaczników zatrucia.)"
+"|mana_1|: Ten ląd do końca tury staje się artefaktowym stworem Phyrexiański "
+"Świetlik 1/1 z lataniem i infekcją. Nadal jest lądem. (Zadaje on obrażenia "
+"stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../MBS.rst:754
 msgid ""
