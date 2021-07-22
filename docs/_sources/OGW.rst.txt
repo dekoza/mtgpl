@@ -205,7 +205,7 @@
    |mana_1|\ |mana_w|: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.
 
 
-:mtgtip:`Stone Haven Outfitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1b98e63-f23d-432a-86ae-f88bdad2f648.jpg?1562940329|https://scryfall.com/card/ogw/37/stone-haven-outfitter?utm_source=api>`
+:mtgtip:`Stone Haven Outfitter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1b98e63-f23d-432a-86ae-f88bdad2f648.jpg?1626162180|https://scryfall.com/card/ogw/37/stone-haven-outfitter?utm_source=api>`
    Equipped creatures you control get +1/+1.
 
    Whenever an equipped creature you control dies, draw a card.

@@ -1524,7 +1524,7 @@
 
 
 :mtgtip:`Millikin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0550133b-22cf-4ecd-b89a-8c2f0beeaa22.jpg?1562896042|https://scryfall.com/card/ody/302/millikin?utm_source=api>`
-   |tap|, Mill a card: Add |colorless|.
+   |tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)
 
 
 :mtgtip:`Mirari<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cbaad4f-fb66-4e56-b383-32f55552c8b2.jpg?1562906162|https://scryfall.com/card/ody/303/mirari?utm_source=api>`
@@ -1542,7 +1542,7 @@
 
 
 :mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd8958d5-e4a9-42ee-ae82-d184c4b92c9d.jpg?1562933479|https://scryfall.com/card/ody/306/patchwork-gnomes?utm_source=api>`
-   Discard a card: Regenerate Patchwork Gnomes.
+   Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
 :mtgtip:`Sandstone Deadfall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/241ebc17-b8ae-4ca4-8413-f53501d86244.jpg?1562901720|https://scryfall.com/card/ody/307/sandstone-deadfall?utm_source=api>`

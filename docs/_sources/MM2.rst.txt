@@ -1190,7 +1190,7 @@
 
 
 :mtgtip:`Flayer Husk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a51797a-8a37-4364-86a0-de087348bc82.jpg?1562261679|https://scryfall.com/card/mm2/214/flayer-husk?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +1/+1.
 
@@ -1234,7 +1234,7 @@
 
 
 :mtgtip:`Mortarpod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e6b292-41e7-40f9-b9fe-34f27d4526af.jpg?1562269252|https://scryfall.com/card/mm2/222/mortarpod?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to any target."
 
@@ -1264,7 +1264,7 @@
 
 
 :mtgtip:`Sickleslicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb0a9736-c84d-42a6-831c-3b1a8bad50b7.jpg?1562268843|https://scryfall.com/card/mm2/228/sickleslicer?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+2.
 

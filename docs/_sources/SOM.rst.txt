@@ -576,7 +576,7 @@
 
 
 :mtgtip:`Carrion Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc3c1a8e-3bdb-42cf-9442-5de7e4670d66.jpg?1562822445|https://scryfall.com/card/som/115/carrion-call?utm_source=api>`
-   Create two 1/1 green Insect creature tokens with infect. (They deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+   Create two 1/1 green Phyrexian Insect creature tokens with infect. (They deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
 :mtgtip:`Copperhorn Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ee7f99e-7324-4d16-b163-8f1b2edb7b89.jpg?1562817435|https://scryfall.com/card/som/116/copperhorn-scout?utm_source=api>`
@@ -1124,7 +1124,7 @@
 
    |mana_g|\ |mana_g|, |tap|: Put a charge counter on Trigon of Infestation.
 
-   |mana_2|, |tap|, Remove a charge counter from Trigon of Infestation: Create a 1/1 green Insect creature token with infect.
+   |mana_2|, |tap|, Remove a charge counter from Trigon of Infestation: Create a 1/1 green Phyrexian Insect creature token with infect.
 
 
 :mtgtip:`Trigon of Mending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/241142e0-3a79-4bce-8535-18ae7e392f5e.jpg?1562815529|https://scryfall.com/card/som/215/trigon-of-mending?utm_source=api>`
@@ -1180,7 +1180,7 @@
 :mtgtip:`Wurmcoil Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33672990-4860-4aa6-ac1b-f9da66f5da59.jpg?1562816198|https://scryfall.com/card/som/223/wurmcoil-engine?utm_source=api>`
    Deathtouch, lifelink
 
-   When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.
+   When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink.
 
 
 :mtgtip:`Blackcleave Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d71be5f-0fd7-4a88-8041-f4d6bc4cc9ac.jpg?1562816648|https://scryfall.com/card/som/224/blackcleave-cliffs?utm_source=api>`

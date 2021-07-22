@@ -23,7 +23,7 @@
    Teleport — |mana_3|\ |mana_w|: Blink Dog phases out. (Treat it and anything attached to it as though they don't exist until your next turn.)
 
 
-:mtgtip:`The Book of Exalted Deeds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?1625597162|https://scryfall.com/card/afr/4/the-book-of-exalted-deeds?utm_source=api>`
+:mtgtip:`The Book of Exalted Deeds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?1626285954|https://scryfall.com/card/afr/4/the-book-of-exalted-deeds?utm_source=api>`
    At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel creature token with flying.
 
    |mana_w|\ |mana_w|\ |mana_w|, |tap|, Exile The Book of Exalted Deeds: Put an enlightened counter on target Angel. It gains "You can't lose the game and your opponents can't win the game." Activate only as a sorcery.
@@ -79,8 +79,8 @@
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Devoted Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3620ed96-1d15-4942-b9e5-9f9a64b0cab4.jpg?1625098824|https://scryfall.com/card/afr/11/devoted-paladin?utm_source=api>`
-   Beacon of Hope — When Devoted Paladin enters the battelfield, creatures you control get +1/+1 and gain vigilance until end of turn.
+:mtgtip:`Devoted Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3620ed96-1d15-4942-b9e5-9f9a64b0cab4.jpg?1626359711|https://scryfall.com/card/afr/11/devoted-paladin?utm_source=api>`
+   Beacon of Hope — When Devoted Paladin enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.
 
 
 :mtgtip:`Divine Smite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b8d0852-4df3-4b29-830d-c6975265ef53.jpg?1625509131|https://scryfall.com/card/afr/12/divine-smite?utm_source=api>`
@@ -229,8 +229,8 @@
    When Priest of Ancient Lore enters the battlefield, you gain 1 life and draw a card.
 
 
-:mtgtip:`Rally Maneuver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/926ce53e-8e30-4018-a9e7-7266791b5d27.jpg?1625376380|https://scryfall.com/card/afr/36/rally-maneuver?utm_source=api>`
-   Target creature get +2/+0 and gains first strike until end of turn. Up to one other target creature gets +0/+2 and gains lifelink until end of turn.
+:mtgtip:`Rally Maneuver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/926ce53e-8e30-4018-a9e7-7266791b5d27.jpg?1626299770|https://scryfall.com/card/afr/36/rally-maneuver?utm_source=api>`
+   Target creature gets +2/+0 and gains first strike until end of turn. Up to one other target creature gets +0/+2 and gains lifelink until end of turn.
 
 
 :mtgtip:`Ranger's Hawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d7a7744-e49d-4b4e-b6ae-7fc6d2892cef.jpg?1625130352|https://scryfall.com/card/afr/37/rangers-hawk?utm_source=api>`
@@ -299,8 +299,8 @@
    Counter target creature or planeswalker spell. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1625680103|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?utm_source=api>`
-   You many choose not to untap The Blackstaff of Waterdeep during your untap step.
+:mtgtip:`The Blackstaff of Waterdeep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.jpg?1626204803|https://scryfall.com/card/afr/48/the-blackstaff-of-waterdeep?utm_source=api>`
+   You may choose not to untap The Blackstaff of Waterdeep during your untap step.
 
    Animate Walking Statue — |mana_1|\ |mana_u|, |tap|: Another target nontoken artifact you control becomes a 4/4 artifact creature for as long as The Blackstaff of Waterdeep remains tapped. Activate only as a sorcery.
 
@@ -419,10 +419,10 @@
    Until end of turn, target creature becomes a Dragon with base power and toughness 4/4 and gains flying. (It loses all other creature types.)
 
 
-:mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1625265756|https://scryfall.com/card/afr/66/pixie-guide?utm_source=api>`
+:mtgtip:`Pixie Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.jpg?1626117450|https://scryfall.com/card/afr/66/pixie-guide?utm_source=api>`
    Flying
 
-   Grant an Advantage — if you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
+   Grant an Advantage — If you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
 
 
 :mtgtip:`Power of Persuasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.jpg?1625984652|https://scryfall.com/card/afr/67/power-of-persuasion?utm_source=api>`
@@ -597,8 +597,8 @@
    |tap|, Exile The Book of Vile Darkness and artifacts you control named Eye of Vecna and Hand of Vecna: Create Vecna, a legendary 8/8 black Zombie God creature token with indestructible and all triggered abilities of the exiled cards.
 
 
-:mtgtip:`Check for Traps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.jpg?1625518484|https://scryfall.com/card/afr/92/check-for-traps?utm_source=api>`
-   Target opponent reveals their hand. You. choose a nonland card from it. Exile that card. If an instant or a card with flash is exiled this way, they lose 1 life. Otherwise, you lose 1 life.
+:mtgtip:`Check for Traps<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.jpg?1626359700|https://scryfall.com/card/afr/92/check-for-traps?utm_source=api>`
+   Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If an instant or a card with flash is exiled this way, they lose 1 life. Otherwise, you lose 1 life.
 
 
 :mtgtip:`Clattering Skeletons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09ac0b2b-d4d3-4977-b241-7788239362de.jpg?1625162925|https://scryfall.com/card/afr/93/clattering-skeletons?utm_source=api>`
@@ -811,10 +811,10 @@
    At the beginning of your end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)
 
 
-:mtgtip:`Westgate Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1625603222|https://scryfall.com/card/afr/126/westgate-regent?utm_source=api>`
+:mtgtip:`Westgate Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.jpg?1626299998|https://scryfall.com/card/afr/126/westgate-regent?utm_source=api>`
    Flying
 
-   Ward — Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+   Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
 
    Whenever Westgate Regent deals combat damage to a player, put that many +1/+1 counters on it.
 
@@ -1139,7 +1139,7 @@
    |tap|: Add |mana_g| for each creature you control.
 
 
-:mtgtip:`Circle of the Moon Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.jpg?1625705766|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?utm_source=api>`
+:mtgtip:`Circle of the Moon Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.jpg?1626193626|https://scryfall.com/card/afr/177/circle-of-the-moon-druid?utm_source=api>`
    Bear Form — As long as it's your turn, Circle of the Moon Druid is a Bear with base power and toughness 4/2. (It loses all other creature types.)
 
 
@@ -1295,7 +1295,7 @@
    Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
 
 
-:mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1625265387|https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`
+:mtgtip:`Ranger Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.jpg?1626359666|https://scryfall.com/card/afr/202/ranger-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    When Ranger Class enters the battlefield, create a 2/2 green Wolf creature token.
@@ -1304,14 +1304,14 @@
 
    Whenever you attack, put a +1/+1 counter on target attacking creature.
 
-   |mana_3| |mana_g|: Level 3
+   |mana_3|\ |mana_g|: Level 3
 
    You may look at the top card of your library any time.
 
    You may cast creature spells from the top of your library.
 
 
-:mtgtip:`Ranger's Longbow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34c99b32-353c-4930-a6ee-3fb44cf70253.jpg?1625601749|https://scryfall.com/card/afr/203/rangers-longbow?utm_source=api>`
+:mtgtip:`Ranger's Longbow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34c99b32-353c-4930-a6ee-3fb44cf70253.jpg?1626137403|https://scryfall.com/card/afr/203/rangers-longbow?utm_source=api>`
    Equipped creature gets +2/+1 and has reach.
 
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
@@ -1443,7 +1443,7 @@
    Dark One's Own Luck — Whenever you roll one or more dice, Farideh, Devil's Chosen gains flying and menace until end of turn. If any of those results was 10 or higher, draw a card.
 
 
-:mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1625265109|https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`
+:mtgtip:`Fighter Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.jpg?1626162177|https://scryfall.com/card/afr/222/fighter-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    When Fighter Class enters the battlefield, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
@@ -1477,13 +1477,13 @@
    Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn.
 
 
-:mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1625597214|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
+:mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1626359727|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
    When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
 
-   |mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only a sorcery.
+   |mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only as a sorcery.
 
 
-:mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1625511156|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`
+:mtgtip:`Monk Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.jpg?1626203276|https://scryfall.com/card/afr/228/monk-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    The second spell you cast each turn costs |mana_1| less to cast.
@@ -1575,8 +1575,8 @@
    Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)
 
 
-:mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1625106344|https://scryfall.com/card/afr/239/xanathar-guild-kingpin?utm_source=api>`
-   At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look atthe top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.
+:mtgtip:`Xanathar, Guild Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.jpg?1626203339|https://scryfall.com/card/afr/239/xanathar-guild-kingpin?utm_source=api>`
+   At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look at the top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.
 
 
 :mtgtip:`Bag of Holding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ea5e4e9-491b-4c80-8801-f4cd5225c601.jpg?1625171848|https://scryfall.com/card/afr/240/bag-of-holding?utm_source=api>`

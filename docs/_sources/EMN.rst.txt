@@ -109,7 +109,7 @@
    • Creatures you control get +0/+2 until end of turn.
 
 
-:mtgtip:`Bruna, the Fading Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27907985-b5f6-4098-ab43-15a0c2bf94d5.jpg?1576383786|https://scryfall.com/card/emn/15a/bruna-the-fading-light?utm_source=api>`
+:mtgtip:`Bruna, the Fading Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27907985-b5f6-4098-ab43-15a0c2bf94d5.jpg?1625771736|https://scryfall.com/card/emn/15a/bruna-the-fading-light?utm_source=api>`
    When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.
 
    Flying, vigilance
@@ -117,7 +117,7 @@
    (Melds with Gisela, the Broken Blade.)
 
 
-:mtgtip:`Brisela, Voice of Nightmares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1576384299|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
+:mtgtip:`Brisela, Voice of Nightmares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1625771723|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
    Flying, first strike, vigilance, lifelink
 
    Your opponents can't cast spells with mana value 3 or less.
@@ -201,7 +201,7 @@
    Delirium — Geist of the Lonely Vigil can attack as though it didn't have defender as long as there are four or more card types among cards in your graveyard.
 
 
-:mtgtip:`Gisela, the Broken Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c75c035a-7da9-4b36-982d-fca8220b1797.jpg?1581365978|https://scryfall.com/card/emn/28/gisela-the-broken-blade?utm_source=api>`
+:mtgtip:`Gisela, the Broken Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c75c035a-7da9-4b36-982d-fca8220b1797.jpg?1625771749|https://scryfall.com/card/emn/28/gisela-the-broken-blade?utm_source=api>`
    Flying, first strike, lifelink
 
    At the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.
@@ -559,7 +559,7 @@
    |mana_3|\ |mana_b|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token.
 
 
-:mtgtip:`Graf Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dedaff6-bd69-4fe3-a301-f7ea7c2f2861.jpg?1576384331|https://scryfall.com/card/emn/91/graf-rats?utm_source=api>`
+:mtgtip:`Graf Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dedaff6-bd69-4fe3-a301-f7ea7c2f2861.jpg?1625771760|https://scryfall.com/card/emn/91/graf-rats?utm_source=api>`
    At the beginning of combat on your turn, if you both own and control Graf Rats and a creature named Midnight Scavengers, exile them, then meld them into Chittering Host.
 
 
@@ -587,13 +587,13 @@
    Markov Crusader has haste as long as you control another Vampire.
 
 
-:mtgtip:`Midnight Scavengers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a57187c-f0ec-40de-b725-786f787b00a2.jpg?1576384363|https://scryfall.com/card/emn/96a/midnight-scavengers?utm_source=api>`
+:mtgtip:`Midnight Scavengers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a57187c-f0ec-40de-b725-786f787b00a2.jpg?1625771784|https://scryfall.com/card/emn/96a/midnight-scavengers?utm_source=api>`
    When Midnight Scavengers enters the battlefield, you may return target creature card with mana value 3 or less from your graveyard to your hand.
 
    (Melds with Graf Rats.)
 
 
-:mtgtip:`Chittering Host<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70b94f21-4f01-46f8-ad50-e2bb0b68ea33.jpg?1576384298|https://scryfall.com/card/emn/96b/chittering-host?utm_source=api>`
+:mtgtip:`Chittering Host<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70b94f21-4f01-46f8-ad50-e2bb0b68ea33.jpg?1625771745|https://scryfall.com/card/emn/96b/chittering-host?utm_source=api>`
    Haste
 
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -791,13 +791,13 @@
    Galvanic Bombardment deals X damage to target creature, where X is 2 plus the number of cards named Galvanic Bombardment in your graveyard.
 
 
-:mtgtip:`Hanweir Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0900e494-962d-48c6-8e78-66a489be4bb2.jpg?1576384595|https://scryfall.com/card/emn/130a/hanweir-garrison?utm_source=api>`
+:mtgtip:`Hanweir Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0900e494-962d-48c6-8e78-66a489be4bb2.jpg?1625771770|https://scryfall.com/card/emn/130a/hanweir-garrison?utm_source=api>`
    Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens that are tapped and attacking.
 
    (Melds with Hanweir Battlements.)
 
 
-:mtgtip:`Hanweir, the Writhing Township<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/671fe14d-0070-4bc7-8983-707b570f4492.jpg?1576384296|https://scryfall.com/card/emn/130b/hanweir-the-writhing-township?utm_source=api>`
+:mtgtip:`Hanweir, the Writhing Township<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/671fe14d-0070-4bc7-8983-707b570f4492.jpg?1625771778|https://scryfall.com/card/emn/130b/hanweir-the-writhing-township?utm_source=api>`
    Trample, haste
 
    Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.
@@ -1261,7 +1261,7 @@
    |mana_2|, |tap|: Each player draws a card, then discards a card.
 
 
-:mtgtip:`Hanweir Battlements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d743ad6-6ca2-409a-9773-581cc195dbf2.jpg?1611054060|https://scryfall.com/card/emn/204/hanweir-battlements?utm_source=api>`
+:mtgtip:`Hanweir Battlements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d743ad6-6ca2-409a-9773-581cc195dbf2.jpg?1625771763|https://scryfall.com/card/emn/204/hanweir-battlements?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_r|, |tap|: Target creature gains haste until end of turn.

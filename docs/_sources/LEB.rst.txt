@@ -365,7 +365,7 @@
    Counter target spell unless its controller pays |mana_x|. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.
 
 
-:mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c420abf2-05ec-4623-8a6c-353736a4edeb.jpg?1559591736|https://scryfall.com/card/leb/74/prodigal-sorcerer?utm_source=api>`
+:mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c420abf2-05ec-4623-8a6c-353736a4edeb.jpg?1621595967|https://scryfall.com/card/leb/74/prodigal-sorcerer?utm_source=api>`
    |tap|: Prodigal Sorcerer deals 1 damage to any target.
 
 
@@ -657,7 +657,7 @@
    You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
 
 
-:mtgtip:`Sinkhole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52ea4387-f23c-430c-99d6-0248a4ab1713.jpg?1559591538|https://scryfall.com/card/leb/130/sinkhole?utm_source=api>`
+:mtgtip:`Sinkhole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52ea4387-f23c-430c-99d6-0248a4ab1713.jpg?1621596916|https://scryfall.com/card/leb/130/sinkhole?utm_source=api>`
    Destroy target land.
 
 

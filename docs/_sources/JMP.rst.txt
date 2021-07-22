@@ -1200,7 +1200,7 @@
 :mtgtip:`Parasitic Implant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43296ce8-f055-4778-a187-363a642001e4.jpg?1600701038|https://scryfall.com/card/jmp/262/parasitic-implant?utm_source=api>`
    Enchant creature
 
-   At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Myr artifact creature token.
+   At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Phyrexian Myr artifact creature token.
 
 
 :mtgtip:`Phyrexian Broodlings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/edf4c9e1-eff6-4abc-ad4e-ffd7f1895d8d.jpg?1600714610|https://scryfall.com/card/jmp/263/phyrexian-broodlings?utm_source=api>`
@@ -2268,7 +2268,7 @@
 
 
 :mtgtip:`Myr Sire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3f2e2e5-5ed2-4040-92ba-ad1ac13f03f6.jpg?1601080826|https://scryfall.com/card/jmp/475/myr-sire?utm_source=api>`
-   When Myr Sire dies, create a 1/1 colorless Myr artifact creature token.
+   When Myr Sire dies, create a 1/1 colorless Phyrexian Myr artifact creature token.
 
 
 :mtgtip:`Perilous Myr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0aa3726-038f-4522-a7bd-1877a4fef350.jpg?1601080848|https://scryfall.com/card/jmp/476/perilous-myr?utm_source=api>`

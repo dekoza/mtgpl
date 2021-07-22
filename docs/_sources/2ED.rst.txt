@@ -365,7 +365,7 @@
    Counter target spell unless its controller pays |mana_x|. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.
 
 
-:mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1559591884|https://scryfall.com/card/2ed/74/prodigal-sorcerer?utm_source=api>`
+:mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cfb5638-4502-44ed-b54c-27276d45d1ad.jpg?1621595972|https://scryfall.com/card/2ed/74/prodigal-sorcerer?utm_source=api>`
    |tap|: Prodigal Sorcerer deals 1 damage to any target.
 
 

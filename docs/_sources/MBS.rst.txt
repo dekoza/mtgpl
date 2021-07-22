@@ -21,7 +21,7 @@
    Put a -1/-1 counter on each attacking creature.
 
 
-:mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe7c7a65-5a96-4986-877b-b34583092bb6.jpg?1562616204|https://scryfall.com/card/mbs/5/divine-offering?utm_source=api>`
+:mtgtip:`Divine Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe7c7a65-5a96-4986-877b-b34583092bb6.jpg?1621834401|https://scryfall.com/card/mbs/5/divine-offering?utm_source=api>`
    Destroy target artifact. You gain life equal to its mana value.
 
 
@@ -70,7 +70,7 @@
 
 
 :mtgtip:`Phyrexian Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36b7536d-6b0b-4906-ba88-7fcfe9b854ee.jpg?1562610586|https://scryfall.com/card/mbs/15/phyrexian-rebirth?utm_source=api>`
-   Destroy all creatures, then create an X/X colorless Horror artifact creature token, where X is the number of creatures destroyed this way.
+   Destroy all creatures, then create an X/X colorless Phyrexian Horror artifact creature token, where X is the number of creatures destroyed this way.
 
 
 :mtgtip:`Priests of Norn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a978c49d-483a-42fe-971c-858288d07e40.jpg?1562613743|https://scryfall.com/card/mbs/16/priests-of-norn?utm_source=api>`
@@ -236,7 +236,7 @@
 
 
 :mtgtip:`Nested Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c035ff58-9df3-4db4-b9d0-97d58080ecfe.jpg?1562614451|https://scryfall.com/card/mbs/48/nested-ghoul?utm_source=api>`
-   Whenever a source deals damage to Nested Ghoul, create a 2/2 black Zombie creature token.
+   Whenever a source deals damage to Nested Ghoul, create a 2/2 black Phyrexian Zombie creature token.
 
 
 :mtgtip:`Phyresis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/0059d21b-0725-4806-8691-2451db36787f.jpg?1562609245|https://scryfall.com/card/mbs/49/phyresis?utm_source=api>`
@@ -492,7 +492,7 @@
 
 
 :mtgtip:`Bonehoard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e14613bc-0083-48d6-ac10-b2839657e84b.jpg?1562615479|https://scryfall.com/card/mbs/100/bonehoard?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.
 
@@ -532,7 +532,7 @@
 
 
 :mtgtip:`Flayer Husk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbd47a02-5a6e-4daa-9877-f65c8639c569.jpg?1562614832|https://scryfall.com/card/mbs/107/flayer-husk?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +1/+1.
 
@@ -570,7 +570,7 @@
 
 
 :mtgtip:`Mortarpod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fbd23da5-421f-41d0-bb60-59560da7dece.jpg?1562616112|https://scryfall.com/card/mbs/115/mortarpod?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to any target."
 
@@ -578,7 +578,7 @@
 
 
 :mtgtip:`Myr Sire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/507979fd-5459-4933-8707-adc303750ce9.jpg?1562611239|https://scryfall.com/card/mbs/116/myr-sire?utm_source=api>`
-   When Myr Sire dies, create a 1/1 colorless Myr artifact creature token.
+   When Myr Sire dies, create a 1/1 colorless Phyrexian Myr artifact creature token.
 
 
 :mtgtip:`Myr Turbine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a76840-47f7-4e1e-b68b-00cb7da98cdf.jpg?1562612196|https://scryfall.com/card/mbs/117/myr-turbine?utm_source=api>`
@@ -670,7 +670,7 @@
 
 
 :mtgtip:`Skinwing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d11bc5d8-378a-441f-b92a-a60005745f25.jpg?1562614979|https://scryfall.com/card/mbs/133/skinwing?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+2 and has flying.
 
@@ -694,7 +694,7 @@
 
 
 :mtgtip:`Strandwalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0d7ff8f-7733-4323-8575-c50b3e730dbc.jpg?1562614972|https://scryfall.com/card/mbs/137/strandwalker?utm_source=api>`
-   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
+   Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+4 and has reach.
 
@@ -743,10 +743,10 @@
    |mana_1|, |tap|: Attacking creatures get +1/+0 until end of turn.
 
 
-:mtgtip:`Inkmoth Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1562615687|https://scryfall.com/card/mbs/145/inkmoth-nexus?utm_source=api>`
+:mtgtip:`Inkmoth Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1623098818|https://scryfall.com/card/mbs/145/inkmoth-nexus?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_1|: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+   |mana_1|: Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
 :mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0eb24b22-d812-466b-b8bf-6562283ee335.jpg?1562609608|https://scryfall.com/card/mbs/146/plains?utm_source=api>`

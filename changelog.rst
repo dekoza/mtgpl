@@ -2,6 +2,12 @@
 Spis zmian
 ***********
 
+2021-07-22
+   * New Phyrexia - 100%
+
+2021-07-15
+   * Tłumaczenie AFR przeniesione do Areny.
+
 2021-07-07
    * Pełne tłumaczenie dodatku :doc:`Adventures in Forgotten Realms<AFR>`
 

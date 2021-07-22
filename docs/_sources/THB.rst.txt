@@ -425,7 +425,7 @@
    • Counter target spell unless its controller pays twice |mana_x|.
 
 
-:mtgtip:`Thassa's Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1582752984|https://scryfall.com/card/thb/73/thassas-oracle?utm_source=api>`
+:mtgtip:`Thassa's Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1621447218|https://scryfall.com/card/thb/73/thassas-oracle?utm_source=api>`
    When Thassa's Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)
 
 

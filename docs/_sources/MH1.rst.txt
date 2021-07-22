@@ -31,7 +31,7 @@
    Flashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Dismantling Blow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70edc5da-4477-49f6-bbcc-f208fdaae0d3.jpg?1592137181|https://scryfall.com/card/mh1/5/dismantling-blow?utm_source=api>`
+:mtgtip:`Dismantling Blow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70edc5da-4477-49f6-bbcc-f208fdaae0d3.jpg?1620929919|https://scryfall.com/card/mh1/5/dismantling-blow?utm_source=api>`
    Kicker |mana_2|\ |mana_u| (You may pay an additional |mana_2|\ |mana_u| as you cast this spell.)
 
    Destroy target artifact or enchantment. If this spell was kicked, draw two cards.
@@ -119,7 +119,7 @@
    When On Thin Ice enters the battlefield, exile target creature an opponent controls until On Thin Ice leaves the battlefield.
 
 
-:mtgtip:`Ranger-Captain of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af3928b4-813a-4120-8799-de34235d60ac.jpg?1578997288|https://scryfall.com/card/mh1/21/ranger-captain-of-eos?utm_source=api>`
+:mtgtip:`Ranger-Captain of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af3928b4-813a-4120-8799-de34235d60ac.jpg?1623189435|https://scryfall.com/card/mh1/21/ranger-captain-of-eos?utm_source=api>`
    When Ranger-Captain of Eos enters the battlefield, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
 
    Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature spells this turn.
@@ -184,7 +184,7 @@
 
 
 :mtgtip:`Splicer's Skill<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c59dfb0f-45c7-431f-b5a3-d9b429fc6dde.jpg?1562201239|https://scryfall.com/card/mh1/31/splicers-skill?utm_source=api>`
-   Create a 3/3 colorless Golem artifact creature token.
+   Create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Splice onto instant or sorcery |mana_3|\ |mana_w| (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
 

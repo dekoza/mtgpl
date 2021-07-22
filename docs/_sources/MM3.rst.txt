@@ -18,7 +18,7 @@
 
 
 :mtgtip:`Blade Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d53b9ef-fedc-4471-ac90-018d7033a9fc.jpg?1593812778|https://scryfall.com/card/mm3/3/blade-splicer?utm_source=api>`
-   When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control have first strike.
 
@@ -78,7 +78,7 @@
 
 
 :mtgtip:`Master Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.jpg?1593812864|https://scryfall.com/card/mm3/15/master-splicer?utm_source=api>`
-   When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control get +1/+1.
 
@@ -120,7 +120,7 @@
 
 
 :mtgtip:`Sensor Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.jpg?1593812931|https://scryfall.com/card/mm3/23/sensor-splicer?utm_source=api>`
-   When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golem creatures you control have vigilance.
 
@@ -290,7 +290,7 @@
 
 
 :mtgtip:`Wing Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6694873a-0b0c-4e9e-b9fc-249e80a09cca.jpg?1593813191|https://scryfall.com/card/mm3/57/wing-splicer?utm_source=api>`
-   When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golem creatures you control have flying.
 
@@ -752,7 +752,7 @@
 
 
 :mtgtip:`Vital Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13cf68c-b54c-46e1-a720-af57aac9e570.jpg?1593814023|https://scryfall.com/card/mm3/145/vital-splicer?utm_source=api>`
-   When Vital Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+   When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    |mana_1|: Regenerate target Golem you control.
 
@@ -1055,7 +1055,7 @@
    
 
 
-:mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/253e19db-28a1-4909-b235-e02631a38c35.jpg?1593814766|https://scryfall.com/card/mm3/204/zur-the-enchanter?utm_source=api>`
+:mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/253e19db-28a1-4909-b235-e02631a38c35.jpg?1620744530|https://scryfall.com/card/mm3/204/zur-the-enchanter?utm_source=api>`
    Flying
 
    Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.

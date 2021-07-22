@@ -19,7 +19,7 @@
    |tap|: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.
 
 
-:mtgtip:`Auriok Steelshaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dd09c01-5a77-4992-96ae-c395a5966a92.jpg?1562143334|https://scryfall.com/card/mrd/4/auriok-steelshaper?utm_source=api>`
+:mtgtip:`Auriok Steelshaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dd09c01-5a77-4992-96ae-c395a5966a92.jpg?1626162174|https://scryfall.com/card/mrd/4/auriok-steelshaper?utm_source=api>`
    Equip costs you pay cost |mana_1| less.
 
    As long as Auriok Steelshaper is equipped, each creature you control that's a Soldier or a Knight gets +1/+1.
