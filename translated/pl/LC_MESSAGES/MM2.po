@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 19:51+0000\n"
+"PO-Revision-Date: 2021-07-22 21:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -3286,7 +3286,7 @@ msgstr ""
 
 #: ../../MM2.rst:1137
 msgid "Equipped creature gets +2/+2 and can't block."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i nie może blokować."
 
 #: ../../MM2.rst:1139
 msgid ""
@@ -3503,7 +3503,7 @@ msgstr ""
 
 #: ../../MM2.rst:1211
 msgid "|mana_u|: Gust-Skimmer gains flying until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../MM2.rst:1218
 msgid ""
@@ -3575,6 +3575,8 @@ msgid ""
 "Equipped creature gets +0/+1 and has \"Sacrifice this creature: This "
 "creature deals 1 damage to any target.\""
 msgstr ""
+"Wyposażony stwór dostaje +0/+1 i ma \"Poświęć tego stwora: Zadaje on "
+"wskazanemu celowi 1 obrażenie.\""
 
 #: ../../MM2.rst:1246
 msgid ""
@@ -3691,12 +3693,15 @@ msgid ""
 "Sphere of the Suns enters the battlefield tapped and with three charge "
 "counters on it."
 msgstr ""
+"Ten artefakt wchodzi przekręcony na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../MM2.rst:1287
 msgid ""
 "|tap|, Remove a charge counter from Sphere of the Suns: Add one mana of any "
 "color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego artefaktu: Weź jedną manę dowolnego "
+"koloru."
 
 #: ../../MM2.rst:1296
 msgid ""

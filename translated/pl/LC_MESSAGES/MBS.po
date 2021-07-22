@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 21:06+0000\n"
+"PO-Revision-Date: 2021-07-22 21:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -1401,18 +1401,25 @@ msgid ""
 "card from among them and put it into your hand. Put the rest on the bottom "
 "of your library in any order."
 msgstr ""
+"+1: Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić "
+"spośród nich kartę artefaktu i umieść ją w twojej ręce. Umieść pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../MBS.rst:479
 msgid ""
 "−1: Target artifact becomes an artifact creature with base power and "
 "toughness 5/5."
 msgstr ""
+"–1: Wskazany artefakt staje się artefaktycznym stworem o bazowej sile i "
+"wytrzymałości 5/5."
 
 #: ../../MBS.rst:481
 msgid ""
 "−4: Target player loses X life and you gain X life, where X is twice the "
 "number of artifacts you control."
 msgstr ""
+"–4: Wskazany gracz traci X żyć, a ty zyskaj X żyć, gdzie X jest "
+"dwukrotnością liczby artefaktów pod twoim władaniem."
 
 #: ../../MBS.rst:486
 msgid ""
@@ -1423,7 +1430,7 @@ msgstr ""
 
 #: ../../MBS.rst:485
 msgid "|mana_w|: Bladed Sentinel gains vigilance until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje do końca tury czujność."
 
 #: ../../MBS.rst:492
 msgid ""
@@ -1465,6 +1472,8 @@ msgid ""
 "Equipped creature gets +X/+X, where X is the number of creature cards in all "
 "graveyards."
 msgstr ""
+"Wyposażony stwór dostaje +X/+X, gdzie X jest liczbą kart stworów we "
+"wszystkich cmentarzach."
 
 #: ../../MBS.rst:499 ../../MBS.rst:523 ../../MBS.rst:539 ../../MBS.rst:577
 #: ../../MBS.rst:669 ../../MBS.rst:709
@@ -1494,7 +1503,7 @@ msgstr ""
 
 #: ../../MBS.rst:507
 msgid "Equipped creature gets +2/+2 and can't block."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i nie może blokować."
 
 #: ../../MBS.rst:509
 msgid ""
@@ -1516,6 +1525,8 @@ msgid ""
 "When Core Prowler dies, proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
+"Kiedy ten stwór umrze, rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../MBS.rst:524
 msgid ""
@@ -1530,7 +1541,7 @@ msgstr "Niezniszczalność"
 
 #: ../../MBS.rst:521
 msgid "Equipped creature has indestructible."
-msgstr ""
+msgstr "Wyposażony stwór ma niezniszczalność."
 
 #: ../../MBS.rst:528
 msgid ""
@@ -1544,6 +1555,8 @@ msgid ""
 "|mana_4|, |tap|: Target opponent loses 2 life, gets a poison counter, then "
 "mills six cards."
 msgstr ""
+"|mana_4|, |tap|: Wskazany przeciwnik traci 2 życia, dostaje znacznik "
+"zatrucia, po czym mieli sześć kart."
 
 #: ../../MBS.rst:532
 msgid ""
@@ -1554,7 +1567,7 @@ msgstr ""
 
 #: ../../MBS.rst:531
 msgid "|mana_2|\\ |mana_b|: Dross Ripper gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../MBS.rst:540
 msgid ""
@@ -1576,7 +1589,7 @@ msgstr ""
 
 #: ../../MBS.rst:543
 msgid "|mana_u|: Gust-Skimmer gains flying until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../MBS.rst:546
 msgid ""
@@ -1612,6 +1625,8 @@ msgid ""
 "Imprint — When Knowledge Pool enters the battlefield, each player exiles the "
 "top three cards of their library."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, każdy gracz wygania trzy "
+"karty z wierzchu swojej biblioteki."
 
 #: ../../MBS.rst:557
 msgid ""
@@ -1619,6 +1634,9 @@ msgid ""
 "the player does, they may cast a spell from among other cards exiled with "
 "Knowledge Pool without paying its mana cost."
 msgstr ""
+"Ilekroć gracz rzuci czar z ręki, ów gracz wygania go. Jeśli ów gracz tak "
+"zrobi, może rzucić czar spośród innych czarów wygnanych z użyciem tego "
+"artefaktu bez płacenia jego kosztu many."
 
 #: ../../MBS.rst:562
 msgid ""
@@ -1639,6 +1657,8 @@ msgid ""
 "Whenever another artifact is put into a graveyard from the battlefield, "
 "Magnetic Mine deals 2 damage to that artifact's controller."
 msgstr ""
+"Ilekroć inny artefakt trafi do cmentarza z pola bitwy, ten artefakt zadaje "
+"władcy owego artefaktu 2 obrażenia."
 
 #: ../../MBS.rst:570
 msgid ""
@@ -1653,6 +1673,9 @@ msgid ""
 "control, you may pay |mana_2|. If you do, create a token that's a copy of "
 "that artifact."
 msgstr ""
+"Ilekroć inny nieżetonowy artefakt wejdzie na pole bitwy pod twoim władaniem, "
+"możesz zapłacić |mana_2|. Jeśli tak zrobisz, stwórz żeton będący kopią owego "
+"artefaktu."
 
 #: ../../MBS.rst:578
 msgid ""
@@ -1666,6 +1689,8 @@ msgid ""
 "Equipped creature gets +0/+1 and has \"Sacrifice this creature: This "
 "creature deals 1 damage to any target.\""
 msgstr ""
+"Wyposażony stwór dostaje +0/+1 i ma \"Poświęć tego stwora: Zadaje on "
+"wskazanemu celowi 1 obrażenie.\""
 
 #: ../../MBS.rst:582
 msgid ""
@@ -1691,13 +1716,16 @@ msgstr ""
 
 #: ../../MBS.rst:585
 msgid "|tap|: Create a 1/1 colorless Myr artifact creature token."
-msgstr ""
+msgstr "|tap|: Stwórz żeton bezkolorowego artefaktowego stwora Myr 1/1."
 
 #: ../../MBS.rst:587
 msgid ""
 "|tap|, Tap five untapped Myr you control: Search your library for a Myr "
 "creature card, put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, przekręć pięć odkręconych Myrów pod twoim władaniem: Wyszukaj w "
+"twojej bibliotece kartę stwora typu Myr, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../MBS.rst:594
 msgid ""
@@ -1708,11 +1736,13 @@ msgstr ""
 
 #: ../../MBS.rst:591
 msgid "Imprint — |tap|: Exile target artifact card from a graveyard."
-msgstr ""
+msgstr "Odlew — |tap|: Wygnaj wskazaną kartę artefaktu z cmentarza."
 
 #: ../../MBS.rst:593
 msgid "Myr Welder has all activated abilities of all cards exiled with it."
 msgstr ""
+"Ten stwór ma wszystkie aktywowane zdolności wszystkich kart wygnanych przez "
+"niego."
 
 #: ../../MBS.rst:598
 msgid ""
@@ -1770,6 +1800,7 @@ msgstr ""
 msgid ""
 "When Pierce Strider enters the battlefield, target opponent loses 3 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 3 życia."
 
 #: ../../MBS.rst:626
 msgid ""
@@ -1783,6 +1814,8 @@ msgid ""
 "When Piston Sledge enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../MBS.rst:623
 msgid "Equipped creature gets +3/+1."
@@ -1790,7 +1823,7 @@ msgstr "Wyposażony stwór dostaje +3/+1."
 
 #: ../../MBS.rst:625
 msgid "Equip—Sacrifice an artifact."
-msgstr ""
+msgstr "Wyposaż—Poświęć artefakt."
 
 #: ../../MBS.rst:632
 msgid ""
@@ -1814,11 +1847,11 @@ msgstr ""
 msgid ""
 "Psychosis Crawler's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../MBS.rst:637
 msgid "Whenever you draw a card, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, każdy przeciwnik traci po 1 życiu."
 
 #: ../../MBS.rst:642
 msgid ""
@@ -1832,6 +1865,8 @@ msgid ""
 "Metalcraft — Razorfield Rhino gets +2/+2 as long as you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Ten stwór dostaje +2/+2 o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../MBS.rst:646
 msgid ""
@@ -1842,7 +1877,7 @@ msgstr ""
 
 #: ../../MBS.rst:645
 msgid "Sacrifice an artifact: Regenerate Rusted Slasher."
-msgstr ""
+msgstr "Poświęć artefakt: Zregeneruj tego stwora."
 
 #: ../../MBS.rst:652
 msgid ""
@@ -1857,7 +1892,7 @@ msgstr "Błysk"
 
 #: ../../MBS.rst:651
 msgid "You may cast artifact spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary artefaktów tak, jakby miały błysk."
 
 #: ../../MBS.rst:658
 msgid ""
@@ -1868,13 +1903,15 @@ msgstr ""
 
 #: ../../MBS.rst:655
 msgid "Shriekhorn enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../MBS.rst:657
 msgid ""
 "|tap|, Remove a charge counter from Shriekhorn: Target player mills two "
 "cards."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego artefaktu: Wskazany gracz mieli dwie "
+"karty."
 
 #: ../../MBS.rst:664
 msgid ""
@@ -1886,6 +1923,8 @@ msgstr ""
 #: ../../MBS.rst:663
 msgid "Signal Pest can't be blocked except by creatures with flying or reach."
 msgstr ""
+"Ten stwór nie może być blokowany, chyba że przez stwory z lataniem lub "
+"zasięgiem."
 
 #: ../../MBS.rst:670
 msgid ""
@@ -1899,6 +1938,8 @@ msgid ""
 "Equipped creature gets +1/+1 and is an artifact in addition to its other "
 "types."
 msgstr ""
+"Wyposażony stwór dostaje +/+1 i jest dodatkowo artefaktem oprócz swoich "
+"innych typów."
 
 #: ../../MBS.rst:678
 msgid ""
@@ -1927,12 +1968,15 @@ msgid ""
 "Sphere of the Suns enters the battlefield tapped and with three charge "
 "counters on it."
 msgstr ""
+"Ten artefakt wchodzi przekręcony na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../MBS.rst:683
 msgid ""
 "|tap|, Remove a charge counter from Sphere of the Suns: Add one mana of any "
 "color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego artefaktu: Weź jedną manę dowolnego "
+"koloru."
 
 #: ../../MBS.rst:688
 msgid ""
@@ -1944,6 +1988,7 @@ msgstr ""
 #: ../../MBS.rst:687
 msgid "|mana_r|: Target creature can't block Spin Engine this turn."
 msgstr ""
+"|mana_r|L Wskazany stwór nie może w tej turze blokować niniejszego stwora."
 
 #: ../../MBS.rst:694
 msgid ""
@@ -1954,13 +1999,15 @@ msgstr ""
 
 #: ../../MBS.rst:691
 msgid "When Spine of Ish Sah enters the battlefield, destroy target permanent."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, zniszcz wskazany permanent."
 
 #: ../../MBS.rst:693
 msgid ""
 "When Spine of Ish Sah is put into a graveyard from the battlefield, return "
 "Spine of Ish Sah to its owner's hand."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, przywróć go do ręki "
+"właściciela."
 
 #: ../../MBS.rst:702
 msgid ""
@@ -1971,7 +2018,7 @@ msgstr ""
 
 #: ../../MBS.rst:699
 msgid "Equipped creature gets +2/+4 and has reach."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+4 i ma zasięg."
 
 #: ../../MBS.rst:701
 msgid "Equip |mana_4|"
@@ -2007,7 +2054,7 @@ msgstr ""
 
 #: ../../MBS.rst:713
 msgid "|mana_2|\\ |mana_g|: Regenerate Tangle Hulk."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../MBS.rst:720
 msgid ""
@@ -2022,6 +2069,9 @@ msgid ""
 "Thopter Assembly, return Thopter Assembly to its owner's hand and create "
 "five 1/1 colorless Thopter artifact creature tokens with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli nie władasz innymi Thopterami "
+"niż niniejszy, przywróć tego stwora do ręki właściciela i stwórz pięć "
+"żetonów bezkolorowego artefaktowego stowra Thopter 1/1 z lataniem."
 
 #: ../../MBS.rst:726
 msgid ""
@@ -2032,13 +2082,15 @@ msgstr ""
 
 #: ../../MBS.rst:723
 msgid "|mana_3|, |tap|: Put a charge counter on Titan Forge."
-msgstr ""
+msgstr "|mana_3|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../MBS.rst:725
 msgid ""
 "|tap|, Remove three charge counters from Titan Forge: Create a 9/9 colorless "
 "Golem artifact creature token."
 msgstr ""
+"|tap|, usuń trzy znaczniki ładunku z tego artefaktu: Stwórz żeton "
+"bezkolorowego artefaktowego stwora Golem 9/9."
 
 #: ../../MBS.rst:730
 msgid ""
@@ -2049,7 +2101,7 @@ msgstr ""
 
 #: ../../MBS.rst:729
 msgid "Training Drone can't attack or block unless it's equipped."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że jest wyposażony."
 
 #: ../../MBS.rst:736
 msgid ""
@@ -2060,7 +2112,7 @@ msgstr ""
 
 #: ../../MBS.rst:733
 msgid "Equipped creature gets +1/+0 and has first strike."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 i ma pierwszy cios."
 
 #: ../../MBS.rst:735
 msgid "Equip |mana_1|"
@@ -2078,10 +2130,12 @@ msgid ""
 "Whenever a creature deals combat damage to you, that creature's controller "
 "gains control of Contested War Zone."
 msgstr ""
+"Ilekroć stwór zada tobie obrażenia bojowe, władca owego stwora zyskuje "
+"władanie nad tym lądem."
 
 #: ../../MBS.rst:743
 msgid "|mana_1|, |tap|: Attacking creatures get +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|, |tap|: Atakujące stwory dostają do końca tury +1/+0."
 
 #: ../../MBS.rst:750
 msgid ""

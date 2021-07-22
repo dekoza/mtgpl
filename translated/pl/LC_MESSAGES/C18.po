@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 21:06+0000\n"
+"PO-Revision-Date: 2021-07-22 21:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -3763,6 +3763,9 @@ msgid ""
 "control, you may pay |mana_2|. If you do, create a token that's a copy of "
 "that artifact."
 msgstr ""
+"Ilekroć inny nieżetonowy artefakt wejdzie na pole bitwy pod twoim władaniem, "
+"możesz zapłacić |mana_2|. Jeśli tak zrobisz, stwórz żeton będący kopią owego "
+"artefaktu."
 
 #: ../../C18.rst:1250
 msgid ""
@@ -3858,11 +3861,11 @@ msgstr ""
 msgid ""
 "Psychosis Crawler's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../C18.rst:1277
 msgid "Whenever you draw a card, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, każdy przeciwnik traci po 1 życiu."
 
 #: ../../C18.rst:1284
 msgid ""
@@ -4007,6 +4010,9 @@ msgid ""
 "Thopter Assembly, return Thopter Assembly to its owner's hand and create "
 "five 1/1 colorless Thopter artifact creature tokens with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli nie władasz innymi Thopterami "
+"niż niniejszy, przywróć tego stwora do ręki właściciela i stwórz pięć "
+"żetonów bezkolorowego artefaktowego stowra Thopter 1/1 z lataniem."
 
 #: ../../C18.rst:1338
 msgid ""
