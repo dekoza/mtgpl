@@ -4,6 +4,7 @@ Spis zmian
 
 2021-07-22
    * New Phyrexia - 100%
+   * Mirrodin Besieged - 100%
 
 2021-07-15
    * Tłumaczenie AFR przeniesione do Areny.
