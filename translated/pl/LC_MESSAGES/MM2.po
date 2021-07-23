@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 21:45+0000\n"
+"PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -2126,6 +2126,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|: Spikeshot Elder deals damage equal to its "
 "power to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi obrażenia "
+"równe swojej sile."
 
 #: ../../MM2.rst:724
 msgid ""
@@ -3268,7 +3270,7 @@ msgstr ""
 
 #: ../../MM2.rst:1131
 msgid "Chimeric Mass enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../MM2.rst:1133
 msgid ""
@@ -3276,6 +3278,9 @@ msgid ""
 "creature with \"This creature's power and toughness are each equal to the "
 "number of charge counters on it.\""
 msgstr ""
+"|mana_1|: Do końca tury ten artefakt staje się artefaktowym stworem "
+"Konstrukt mającym \"Siła i wytrzymałość tego stwora są obie równe liczbie "
+"znaczników ładunku na nim.\""
 
 #: ../../MM2.rst:1140
 msgid ""
@@ -3370,6 +3375,8 @@ msgid ""
 "Metalcraft — Etched Champion has protection from all colors as long as you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ten stwór ma ochronę przed wszystkimi kolorami o ile władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../MM2.rst:1172
 msgid ""
@@ -3487,12 +3494,16 @@ msgid ""
 "have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until "
 "end of turn."
 msgstr ""
+"Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, możesz do "
+"końca tury zamienić ten artefakt w artefaktowego stwora Ptak 2/2 z lataniem."
 
 #: ../../MM2.rst:1207
 msgid ""
 "|mana_w|: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying "
 "until end of turn."
 msgstr ""
+"|mana_w|: Ten artefakt staje się do końca tury artefaktowym stworem Ptak 2/2 "
+"z lataniem."
 
 #: ../../MM2.rst:1212
 msgid ""
@@ -3612,6 +3623,8 @@ msgid ""
 "When Precursor Golem enters the battlefield, create two 3/3 colorless Golem "
 "artifact creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../MM2.rst:1255
 msgid ""
@@ -3619,6 +3632,9 @@ msgid ""
 "single Golem, that player copies that spell for each other Golem that spell "
 "could target. Each copy targets a different one of those Golems."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu wskazujący tylko jednego "
+"Golema, ów gracz kopiuje ów czar za każdego innego Golema, którego ów czar "
+"mógłby wskazywać. Każda kopia wskazuje innego z owych Golemów."
 
 #: ../../MM2.rst:1260
 msgid ""
@@ -3643,6 +3659,8 @@ msgid ""
 "Metalcraft — Rusted Relic is a 5/5 Golem artifact creature as long as you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ten artefakt jest artefaktowym stworem Golem 5/5 o ile władasz "
+"co najmniej trzema artefaktami."
 
 #: ../../MM2.rst:1272
 msgid ""

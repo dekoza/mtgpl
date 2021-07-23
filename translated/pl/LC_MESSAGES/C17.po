@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 21:06+0000\n"
+"PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -1186,6 +1186,8 @@ msgid ""
 "Players can't search libraries. Any player may pay |mana_2| for that player "
 "to ignore this effect until end of turn."
 msgstr ""
+"Gracze nie mogą przeszukiwać bibliotek. Dowolny gracz może zapłacić |mana_2|"
+", by zignorować ten efekt do końca tury."
 
 #: ../../C17.rst:406
 msgid ""
@@ -3535,11 +3537,11 @@ msgstr ""
 
 #: ../../C17.rst:1185
 msgid "Equipped creature gets +6/+6."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +6/+6."
 
 #: ../../C17.rst:1187
 msgid "Whenever equipped creature attacks, destroy target permanent."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór zaatakuje, zniszcz wskazany permanent."
 
 #: ../../C17.rst:1189
 msgid "Equip |mana_6|"
@@ -3803,12 +3805,16 @@ msgid ""
 "|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
 "graveyard."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
+"gracza."
 
 #: ../../C17.rst:1283
 msgid ""
 "When Nihil Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_b|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C17.rst:1288
 msgid ""
@@ -3895,7 +3901,7 @@ msgstr ""
 
 #: ../../C17.rst:1323
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../C17.rst:1325
 msgid ""
@@ -3903,6 +3909,9 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
+"|mana_x|: Zniszcz każdy nielądowy permanent o skrócie many X, którego władca "
+"otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
+"aktywować tylko raz na turę."
 
 #: ../../C17.rst:1332
 msgid ""

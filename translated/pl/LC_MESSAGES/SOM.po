@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-04-26 02:18+0000\n"
+"PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOM.rst:5
@@ -78,6 +78,8 @@ msgid ""
 "Metalcraft — Auriok Edgewright has double strike as long as you control "
 "three or more artifacts."
 msgstr ""
+"Metalurgia — Ten stwór ma podwójny cios o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../SOM.rst:26
 msgid ""
@@ -91,6 +93,8 @@ msgid ""
 "Metalcraft — As long as you control three or more artifacts, Auriok "
 "Sunchaser gets +2/+2 and has flying."
 msgstr ""
+"Metalurgia — O ile władasz co najmniej trzema artefaktami, ten stwór dostaje "
+"+2/+2 i ma latanie."
 
 #: ../../SOM.rst:32
 msgid ""
@@ -108,6 +112,8 @@ msgid ""
 "Metalcraft — That player sacrifices two attacking creatures instead if you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ów gracz zamiast tego poświęca dwa atakujące stwory jeśli "
+"władasz co najmniej trzema artefaktami."
 
 #: ../../SOM.rst:40
 msgid ""
@@ -122,11 +128,11 @@ msgstr "+2: Zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../SOM.rst:37
 msgid "−2: Create three 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "–2: Stwórz trzy żetony białego stwora Piechur 1/1."
 
 #: ../../SOM.rst:39
 msgid "−5: Destroy all other permanents except for lands and tokens."
-msgstr ""
+msgstr "–5: Zniszcz wszystkie inne permanenty oprócz lądów i żetonów."
 
 #: ../../SOM.rst:44
 msgid ""
@@ -140,6 +146,7 @@ msgid ""
 "Choose two target creatures. Tap those creatures, then unattach all "
 "Equipment from them."
 msgstr ""
+"Wskaż dwa stwory. Przekręć je, po czym odłącz od nich wszystkie Wyposażenia."
 
 #: ../../SOM.rst:48
 msgid ""
@@ -153,6 +160,8 @@ msgid ""
 "Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more "
 "artifacts."
 msgstr ""
+"Metalurgia — Ten stwór dostaje +2/+2 o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../SOM.rst:54
 msgid ""
@@ -195,6 +204,8 @@ msgid ""
 "When Glint Hawk enters the battlefield, sacrifice it unless you return an "
 "artifact you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że przywrócisz "
+"artefakt pod twoim władaniem do ręki właściciela."
 
 #: ../../SOM.rst:66
 msgid ""
@@ -237,7 +248,7 @@ msgstr ""
 
 #: ../../SOM.rst:75
 msgid "When Kemba's Skyguard enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../SOM.rst:80
 msgid ""
@@ -251,6 +262,8 @@ msgid ""
 "Players can't search libraries. Any player may pay |mana_2| for that player "
 "to ignore this effect until end of turn."
 msgstr ""
+"Gracze nie mogą przeszukiwać bibliotek. Dowolny gracz może zapłacić |mana_2|"
+", by zignorować ten efekt do końca tury."
 
 #: ../../SOM.rst:82
 msgid ""
@@ -314,6 +327,8 @@ msgid ""
 "|mana_w|, Sacrifice Salvage Scout: Return target artifact card from your "
 "graveyard to your hand."
 msgstr ""
+"|mana_w|, poświęć tego stwora: Przywróć wskazaną kartę artefaktu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../SOM.rst:106
 msgid ""
@@ -336,6 +351,8 @@ msgstr ""
 #: ../../SOM.rst:109
 msgid "Prevent all damage one or two target creatures would deal this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie jeden lub dwa wskazane stwory mogłyby "
+"zadać w tej turze."
 
 #: ../../SOM.rst:116
 msgid ""
@@ -348,6 +365,7 @@ msgstr ""
 msgid ""
 "When Sunblast Angel enters the battlefield, destroy all tapped creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie przekręcone stwory."
 
 #: ../../SOM.rst:120
 msgid ""
@@ -381,7 +399,7 @@ msgstr ""
 
 #: ../../SOM.rst:127
 msgid "Creatures you control have double strike and lifelink."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają podwójny cios i wieź życia."
 
 #: ../../SOM.rst:132
 msgid ""
@@ -395,6 +413,8 @@ msgid ""
 "Whenever a creature you control dies, you may pay |mana_x|. If you do, you "
 "gain X life."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, możesz zapłacić |mana_x|. Jeśli tak "
+"zrobisz, zyskaj X żyć."
 
 #: ../../SOM.rst:136
 msgid ""
@@ -448,7 +468,7 @@ msgstr ""
 
 #: ../../SOM.rst:155
 msgid "When Darkslick Drake dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../SOM.rst:160
 msgid ""
@@ -472,6 +492,7 @@ msgstr ""
 msgid ""
 "Whenever a permanent deals damage to you, return it to its owner's hand."
 msgstr ""
+"Ilekroć permanent zada tobie obrażenia, przywróć go do ręki właściciela."
 
 #: ../../SOM.rst:172
 msgid ""
@@ -542,6 +563,8 @@ msgid ""
 "Metalcraft — When Lumengrid Drake enters the battlefield, if you control "
 "three or more artifacts, return target creature to its owner's hand."
 msgstr ""
+"Metalurgia — Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co "
+"najmniej trzema artefaktami, przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../SOM.rst:194
 msgid ""
@@ -552,13 +575,15 @@ msgstr ""
 
 #: ../../SOM.rst:191
 msgid "Neurok Invisimancer can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../SOM.rst:193
 msgid ""
 "When Neurok Invisimancer enters the battlefield, target creature can't be "
 "blocked this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może być w tej "
+"turze blokowany."
 
 #: ../../SOM.rst:196
 msgid ""
@@ -579,6 +604,8 @@ msgid ""
 "You may have Quicksilver Gargantuan enter the battlefield as a copy of any "
 "creature on the battlefield, except it's 7/7."
 msgstr ""
+"Możesz sprawić, że ta karta wjedzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jest 7/7."
 
 #: ../../SOM.rst:206
 msgid ""
@@ -607,6 +634,7 @@ msgid ""
 "Scrapdiver Serpent can't be blocked as long as defending player controls an "
 "artifact."
 msgstr ""
+"Ten stwór nie może być blokowany o ile broniący się gracz włada artefaktem."
 
 #: ../../SOM.rst:216
 msgid ""
@@ -620,6 +648,8 @@ msgid ""
 "Metalcraft — Whenever Screeching Silcaw deals combat damage to a player, if "
 "you control three or more artifacts, that player mills four cards."
 msgstr ""
+"Metalurgia — Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz "
+"co najmniej trzema artefaktami, ów gracz mieli cztery karty."
 
 #: ../../SOM.rst:220
 msgid ""
@@ -635,6 +665,10 @@ msgid ""
 "that card onto the battlefield, then shuffles all other cards revealed this "
 "way into their library."
 msgstr ""
+"Władca wskazanego artefaktu poświęca go, po czym ujawnia karty z wierzchu "
+"swojej biblioteki aż ujawni kartę artefaktu. Ów gracz umieszcza ową kartę na "
+"polu bitwy, po czym tasuje pozostałe karty ujawnione w ten sposób do swojej "
+"biblioteki."
 
 #: ../../SOM.rst:226
 msgid ""
@@ -647,6 +681,7 @@ msgstr ""
 msgid ""
 "When Sky-Eel School enters the battlefield, draw a card, then discard a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../SOM.rst:232
 msgid ""
@@ -747,7 +782,7 @@ msgstr ""
 
 #: ../../SOM.rst:261
 msgid "Target creature gains flying until end of turn. Untap it."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury latanie. Odkręć go."
 
 #: ../../SOM.rst:266
 msgid ""
@@ -780,6 +815,8 @@ msgid ""
 "When Volition Reins enters the battlefield, if enchanted permanent is "
 "tapped, untap it."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli zauroczony permanent jest "
+"przekręcony, odkręć go."
 
 #: ../../SOM.rst:273
 msgid "You control enchanted permanent."
@@ -820,6 +857,9 @@ msgid ""
 "control three or more artifacts, target player loses 4 life and you gain 4 "
 "life."
 msgstr ""
+"Metalurgia — Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co "
+"najmniej trzema artefaktami, wskazany gracz traci 4 życia, a ty zyskaj 4 "
+"życia."
 
 #: ../../SOM.rst:290
 msgid ""
@@ -838,7 +878,7 @@ msgstr ""
 
 #: ../../SOM.rst:289
 msgid "When Blistergrub dies, each opponent loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci po 2 życia."
 
 #: ../../SOM.rst:298
 msgid ""
@@ -849,13 +889,15 @@ msgstr ""
 
 #: ../../SOM.rst:295
 msgid "Carnifex Demon enters the battlefield with two -1/-1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki -1/-1."
 
 #: ../../SOM.rst:297
 msgid ""
 "|mana_b|, Remove a -1/-1 counter from Carnifex Demon: Put a -1/-1 counter on "
 "each other creature."
 msgstr ""
+"|mana_b|, usuń znacznik -1/-1 z tego stwora: Umieść znacznik -1/-1 na każdym "
+"innym stworze."
 
 #: ../../SOM.rst:302
 msgid ""
@@ -873,7 +915,7 @@ msgstr ""
 
 #: ../../SOM.rst:305
 msgid "|mana_b|, Sacrifice a creature: Regenerate Corrupted Harvester."
-msgstr ""
+msgstr "|mana_b|, poświęć stwora: Zregeneruj tego stwora."
 
 #: ../../SOM.rst:310
 msgid ""
@@ -884,7 +926,7 @@ msgstr ""
 
 #: ../../SOM.rst:309
 msgid "Sacrifice a creature: Dross Hopper gains flying until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../SOM.rst:314
 msgid ""
@@ -897,6 +939,8 @@ msgstr ""
 msgid ""
 "Each opponent loses X life. You gain life equal to the life lost this way."
 msgstr ""
+"Każdy przeciwnik traci po X żyć. Zyskaj życia równe życiom straconym w ten "
+"sposób."
 
 #: ../../SOM.rst:320
 msgid ""
@@ -914,6 +958,8 @@ msgid ""
 "Destroy target creature. Its controller loses life equal to the number of "
 "creatures that died this turn."
 msgstr ""
+"Zniszcz wskazanego stwora. Jego władca traci tyle żyć, ile stworów umarło w "
+"tej turze."
 
 #: ../../SOM.rst:324
 msgid ""
@@ -971,13 +1017,15 @@ msgstr ""
 
 #: ../../SOM.rst:339
 msgid "Other creatures you control with infect get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mające infekcję dostają +1/+1."
 
 #: ../../SOM.rst:341
 msgid ""
 "Whenever you cast a creature spell with infect, target player gets a poison "
 "counter."
 msgstr ""
+"Ilekroć rzucisz czar stwora z infekcją, wskazany gracz dostaje znacznik "
+"zatrucia."
 
 #: ../../SOM.rst:348
 msgid ""
@@ -990,6 +1038,8 @@ msgstr ""
 msgid ""
 "When Ichor Rats enters the battlefield, each player gets a poison counter."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz dostaje po znaczniku "
+"zatrucia."
 
 #: ../../SOM.rst:354
 msgid ""
@@ -1049,6 +1099,8 @@ msgid ""
 "As long as Necrotic Ooze is on the battlefield, it has all activated "
 "abilities of all creature cards in all graveyards."
 msgstr ""
+"O ile ten stwór jest na polu bitwy, ma on wszystkie aktywowane zdolności "
+"wszystkich kart stworów ze wszystkich cmentarzy."
 
 #: ../../SOM.rst:376
 msgid ""
@@ -1062,6 +1114,7 @@ msgid ""
 "Whenever an opponent casts a spell, that player loses 5 life unless they "
 "discard a card."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, ów gracz traci 5 żyć, chyba że odrzuci kartę."
 
 #: ../../SOM.rst:380
 msgid ""
@@ -1097,6 +1150,8 @@ msgid ""
 "Target player discards a card. If a land card is discarded this way, return "
 "Psychic Miasma to its owner's hand."
 msgstr ""
+"Wskazany gracz odrzuca kartę. Jeśli w ten sposób zostanie odrzucona karta "
+"lądu, przywróć ten czar do ręki właściciela."
 
 #: ../../SOM.rst:396
 msgid ""
@@ -1114,6 +1169,8 @@ msgid ""
 "Whenever enchanted artifact becomes tapped, its controller gets a poison "
 "counter."
 msgstr ""
+"Ilekroć zauroczony artefakt zostanie przekręcony, jego władca dostaje "
+"znacznik zatrucia."
 
 #: ../../SOM.rst:400
 msgid ""
@@ -1127,6 +1184,8 @@ msgid ""
 "When Skinrender enters the battlefield, put three -1/-1 counters on target "
 "creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść trzy znaczniki -1/-1 na "
+"wskazanym stworze."
 
 #: ../../SOM.rst:410
 msgid ""
@@ -1157,6 +1216,8 @@ msgid ""
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+0 i infekcję. (Zadaje obrażenia "
+"stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:418
 msgid ""
@@ -1168,6 +1229,8 @@ msgstr ""
 #: ../../SOM.rst:417
 msgid "Arc Trail deals 2 damage to any target and 1 damage to another target."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia i innemu wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../SOM.rst:422
 msgid ""
@@ -1195,6 +1258,7 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice an artifact: Barrage Ogre deals 2 damage to any target."
 msgstr ""
+"|tap|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../SOM.rst:430
 msgid ""
@@ -1209,6 +1273,9 @@ msgid ""
 "control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains "
 "haste until end of turn."
 msgstr ""
+"Metalurgia — Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co "
+"najmniej trzema artefaktami, ten stwór dostaje do końca tury +3/+3 i "
+"pośpiech."
 
 #: ../../SOM.rst:434
 msgid ""
@@ -1239,6 +1306,10 @@ msgid ""
 "creature that player controls. If a land card is revealed this way, return "
 "Cerebral Eruption to its owner's hand."
 msgstr ""
+"Wskazany przeciwnik ujawnia wierzchnią kartę swojej biblioteki. Ten czar "
+"zadaje owemu graczowi oraz każdemu stworowi pod jego władaniem po tyle "
+"obrażeń, ile wynosi skrót many owej karty. Jeśli w ten sposób została "
+"ujawniona karta lądu, przywróć ten czar do ręki właściciela."
 
 #: ../../SOM.rst:442
 msgid ""
@@ -1252,6 +1323,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may pay |mana_1|. If you do, "
 "Embersmith deals 1 damage to any target."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../SOM.rst:446
 msgid ""
@@ -1263,7 +1336,7 @@ msgstr ""
 #: ../../SOM.rst:445
 msgid ""
 "|mana_r|, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|, poświęć artefakt: Ten stwór dostaje do końca tury +3/+0."
 
 #: ../../SOM.rst:452
 msgid ""
@@ -1352,16 +1425,20 @@ msgid ""
 "+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end "
 "of turn. It's still a land."
 msgstr ""
+"+1: Odkręć wskazaną Górę. Do końca tury staje się ona czerwonym stworem "
+"Żywiołak 4/4. Nadal jest lądem."
 
 #: ../../SOM.rst:479
 msgid "−2: Add |mana_r| for each Mountain you control."
-msgstr ""
+msgstr "–2: Weź |mana_r| za każdą Górę pod twoim władaniem."
 
 #: ../../SOM.rst:481
 msgid ""
 "−5: You get an emblem with \"Mountains you control have '|tap|: This land "
 "deals 1 damage to any target.'\""
 msgstr ""
+"–5: Dostajesz emblemat mający \"Góry pod twoim władaniem mają '|tap|: Ten "
+"ląd zadaje wskazanemu celowi 1 obrażenie.'\""
 
 #: ../../SOM.rst:488
 msgid ""
@@ -1375,17 +1452,14 @@ msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
 #: ../../SOM.rst:487
-#, fuzzy
-#| msgid ""
-#| "Metalcraft — |tap|: Add one mana of any color. Activate this ability only "
-#| "if you control three or more artifacts."
 msgid ""
 "Metalcraft — |mana_4|: Return Kuldotha Phoenix from your graveyard to the "
 "battlefield. Activate only during your upkeep and only if you control three "
 "or more artifacts."
 msgstr ""
-"Metalurgia — |tap|: Weź jedną manę dowolnego koloru. Możesz aktywować tylko "
-"jeśli władasz co najmniej trzema artefaktami."
+"Metalurgia — |mana_4|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
+"Możesz aktywować tylko w twoim kroku utrzymania i tylko jeśli władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../SOM.rst:494
 msgid ""
@@ -1412,7 +1486,7 @@ msgstr ""
 #: ../../SOM.rst:497
 msgid ""
 "Destroy target land. Melt Terrain deals 2 damage to that land's controller."
-msgstr ""
+msgstr "Zniszcz skazany ląd. Ten czar zadaje władcy owego lądu 2 obrażenia."
 
 #: ../../SOM.rst:504
 msgid ""
@@ -1426,6 +1500,8 @@ msgid ""
 "Each player shuffles the cards from their hand into their library, then "
 "draws that many cards."
 msgstr ""
+"Każdy gracz wtasowuje karty ze swojej ręki do swojej biblioteki, po czym "
+"dobiera tyle samo kart."
 
 #: ../../SOM.rst:503
 msgid ""
@@ -1433,6 +1509,8 @@ msgid ""
 "damage to each opponent equal to the number of cards that player has drawn "
 "this turn."
 msgstr ""
+"Metalurgia — Jeśli władasz co najmniej trzema artefaktami, ten czar zadaje "
+"każdemu przeciwnikowi tyle obrażeń, ile ów gracz dobrał w tej turze kart."
 
 #: ../../SOM.rst:508
 msgid ""
@@ -1447,6 +1525,9 @@ msgid ""
 "opponent controls until end of turn. Attach it to Ogre Geargrabber. When you "
 "lose control of that Equipment, unattach it."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zyskaj do końca tury władanie nad wskazanym "
+"Wyposażeniem pod władaniem przeciwnika. Dołącz je do tego stwora. Kiedy "
+"stracisz władanie nad owym Wyposażeniem, odłącz je."
 
 #: ../../SOM.rst:512
 msgid ""
@@ -1457,7 +1538,7 @@ msgstr ""
 
 #: ../../SOM.rst:511
 msgid "Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn."
-msgstr ""
+msgstr "Poświęć artefakt: Ten stwór zyskuje do końca tury pośpiech."
 
 #: ../../SOM.rst:516
 msgid ""
@@ -1469,7 +1550,7 @@ msgstr ""
 #: ../../SOM.rst:515
 msgid ""
 "When Oxidda Scrapmelter enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../SOM.rst:518
 msgid ""
@@ -1501,6 +1582,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|: Spikeshot Elder deals damage equal to its "
 "power to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi obrażenia "
+"równe swojej sile."
 
 #: ../../SOM.rst:532
 msgid ""
@@ -1515,6 +1598,9 @@ msgid ""
 "player had another land enter the battlefield under their control this turn, "
 "Tunnel Ignus deals 3 damage to that player."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy pod władaniem przeciwnika, jeśli w tej "
+"turze pod władaniem owego gracza wszedł inny ląd na pole bitwy, ten stwór "
+"zadaje owemu graczowi 3 obrażenia."
 
 #: ../../SOM.rst:536
 msgid ""
@@ -1543,6 +1629,8 @@ msgid ""
 "When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../SOM.rst:546
 msgid ""
@@ -1560,6 +1648,7 @@ msgid ""
 "When Acid Web Spider enters the battlefield, you may destroy target "
 "Equipment."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazane Wyposażenie."
 
 #: ../../SOM.rst:548
 msgid ""
@@ -1580,10 +1669,12 @@ msgid ""
 "Creatures you control have hexproof. (They can't be the targets of spells or "
 "abilities your opponents control.)"
 msgstr ""
+"Stwory pod twoim władaniem mają antyklątwę. (Nie mogą być wskazywane przez "
+"czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../SOM.rst:555
 msgid "|mana_1|\\ |mana_g|: Regenerate target creature."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj wskazanego stwora."
 
 #: ../../SOM.rst:562
 msgid ""
@@ -1605,7 +1696,7 @@ msgstr ""
 
 #: ../../SOM.rst:567
 msgid "|mana_1|\\ |mana_g|: Regenerate Blight Mamba."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../SOM.rst:572
 msgid ""
@@ -1619,6 +1710,8 @@ msgid ""
 "You gain 1 life for each creature on the battlefield. Prevent all combat "
 "damage that would be dealt this turn."
 msgstr ""
+"Zyskaj po 1 życiu za każdego stwora na polu bitwy. Zażegnaj wszystkie bojowe "
+"obrażenia, jakie mogłyby zostać zawarte w tej turze."
 
 #: ../../SOM.rst:576
 msgid ""
@@ -1632,6 +1725,8 @@ msgid ""
 "Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more "
 "artifacts."
 msgstr ""
+"Metalurgia — Ten stwór dostaje +2/+2 o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../SOM.rst:580
 msgid ""
@@ -1641,17 +1736,14 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:579
-#, fuzzy
-#| msgid ""
-#| "Infect (This creature deals damage to creatures in the form of -1/-1 "
-#| "counters and to players in the form of poison counters.)"
 msgid ""
 "Create two 1/1 green Phyrexian Insect creature tokens with infect. (They "
 "deal damage to creatures in the form of -1/-1 counters and to players in the "
 "form of poison counters.)"
 msgstr ""
-"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
-"graczom w postaci znaczników zatrucia.)"
+"Stwórz dwa żetony zielonego stwora Phyrexiański Owad 1/1 z infekcją. (Zadają "
+"obrażenia stworom w postaci znaczników -1/-1, a graczom w postaci znaczników "
+"zatrucia.)"
 
 #: ../../SOM.rst:584
 msgid ""
@@ -1664,6 +1756,8 @@ msgstr ""
 msgid ""
 "Whenever Copperhorn Scout attacks, untap each other creature you control."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, odkręć każdego innego stwora pod twoim "
+"władaniem."
 
 #: ../../SOM.rst:588
 msgid ""
@@ -1684,6 +1778,8 @@ msgid ""
 "Whenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy "
 "that creature. You gain life equal to that creature's toughness."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany przez stwora, zniszcz "
+"owego stwora. Zyskaj życia równe wytrzymałości owego stwora."
 
 #: ../../SOM.rst:598
 msgid ""
@@ -1694,13 +1790,15 @@ msgstr ""
 
 #: ../../SOM.rst:595
 msgid "|mana_g|: Regenerate another target Elf."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj innego wskazanego Elfa."
 
 #: ../../SOM.rst:597
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Elf creatures you control get +3/"
 "+3 and gain trample until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Elfy pod twoim władaniem dostają "
+"do końca tury +3/+3 i tratowanie."
 
 #: ../../SOM.rst:604
 msgid ""
@@ -1718,6 +1816,8 @@ msgid ""
 "Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets "
 "+3/+0 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zablokuje stwora mającego latanie, niniejszy stwór dostaje "
+"do końca tury +3/+0."
 
 #: ../../SOM.rst:608
 msgid ""
@@ -1731,6 +1831,8 @@ msgid ""
 "Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade "
 "gets +4/+4 and has trample."
 msgstr ""
+"Metalurgia — O ile władasz co najmniej trzema artefaktami, ten stwór dostaje "
+"+4/+4 i ma tratowanie."
 
 #: ../../SOM.rst:612
 msgid ""
@@ -1781,6 +1883,8 @@ msgid ""
 "Whenever you cast an artifact spell, you may pay |mana_1|. If you do, you "
 "gain 3 life."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"zyskaj 3 życia."
 
 #: ../../SOM.rst:628
 msgid ""
@@ -1794,6 +1898,8 @@ msgid ""
 "Whenever an artifact is put into a graveyard from the battlefield, Molder "
 "Beast gets +2/+0 until end of turn."
 msgstr ""
+"Ilekroć artefakt trafi do cmentarza z pola bitwy, ten stwór dostaje do końca "
+"tury +2/+0."
 
 #: ../../SOM.rst:636
 msgid ""
@@ -1808,7 +1914,7 @@ msgstr "Tratowanie, pośpiech"
 
 #: ../../SOM.rst:635
 msgid "At the beginning of the end step, sacrifice Putrefax."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../SOM.rst:642
 msgid ""
@@ -1830,7 +1936,7 @@ msgstr ""
 
 #: ../../SOM.rst:647
 msgid "|mana_g|: Target creature blocks Tangle Angler this turn if able."
-msgstr ""
+msgstr "|mana_g|: Wskazany stwór blokuje w tej turze niniejszego, jeśli może."
 
 #: ../../SOM.rst:654
 msgid ""
@@ -1841,7 +1947,7 @@ msgstr ""
 
 #: ../../SOM.rst:651
 msgid "Target creature gains protection from artifacts until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury ochronę przed artefaktami."
 
 #: ../../SOM.rst:660
 msgid ""
@@ -1852,7 +1958,7 @@ msgstr ""
 
 #: ../../SOM.rst:657
 msgid "Protection from artifacts"
-msgstr ""
+msgstr "Ochrona przed artefaktami"
 
 #: ../../SOM.rst:664
 msgid ""
@@ -1863,7 +1969,7 @@ msgstr ""
 
 #: ../../SOM.rst:663
 msgid "Target creature gets +X/+X until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +X/+X."
 
 #: ../../SOM.rst:668
 msgid ""
@@ -1877,6 +1983,8 @@ msgid ""
 "Whenever an artifact is put into an opponent's graveyard from the "
 "battlefield, you may draw a card."
 msgstr ""
+"Ilekroć artefakt trafi do cmentarza przeciwnika z pola bitwy, możesz dobrać "
+"kartę."
 
 #: ../../SOM.rst:672
 msgid ""
@@ -1890,6 +1998,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature with flying."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi mającemu latanie."
 
 #: ../../SOM.rst:676
 msgid ""
@@ -1904,6 +2014,9 @@ msgid ""
 "that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's "
 "still put into its owner's graveyard.)"
 msgstr ""
+"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie niszczą go. Jeśli jego wytrzymałość spadnie do 0 lub "
+"mniej, nadal trafi do cmentarza właściciela.)"
 
 #: ../../SOM.rst:684
 msgid ""
@@ -1917,16 +2030,20 @@ msgid ""
 "+2: Exile target permanent you own. Return it to the battlefield under your "
 "control at the beginning of the next end step."
 msgstr ""
+"+2: Wygnaj wskazany własny permanent. Przywróć go na pole bitwy pod twoim "
+"władaniem na początku najbliższego kroku końcowego."
 
 #: ../../SOM.rst:681
 msgid "−1: Creatures can't be blocked this turn."
-msgstr ""
+msgstr "–1: Stwory nie mogą być blokowane w tej turze."
 
 #: ../../SOM.rst:683
 msgid ""
 "−8: You get an emblem with \"Whenever you cast a spell, exile target "
 "permanent.\""
 msgstr ""
+"–8: Dostajesz emblemat mający \"Ilekroć rzucisz czar, wygnaj wskazany "
+"permanent.\""
 
 #: ../../SOM.rst:690
 msgid ""
@@ -1960,11 +2077,11 @@ msgstr ""
 
 #: ../../SOM.rst:693
 msgid "Equipped creature gets +6/+6."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +6/+6."
 
 #: ../../SOM.rst:695
 msgid "Whenever equipped creature attacks, destroy target permanent."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór zaatakuje, zniszcz wskazany permanent."
 
 #: ../../SOM.rst:697
 msgid "Equip |mana_6|"
@@ -1982,6 +2099,8 @@ msgid ""
 "|mana_w|, Sacrifice Auriok Replica: Prevent all damage a source of your "
 "choice would deal to you this turn."
 msgstr ""
+"|mana_w|, poświęć tego stwora: Zażegnaj wszystkie obrażenia, jakie wybrane "
+"przez ciebie źródło mogłoby zadać tobie w tej turze."
 
 #: ../../SOM.rst:708
 msgid ""
@@ -1992,7 +2111,7 @@ msgstr ""
 
 #: ../../SOM.rst:705
 msgid "Equipped creature gets +4/-1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/-1."
 
 #: ../../SOM.rst:707 ../../SOM.rst:713 ../../SOM.rst:765 ../../SOM.rst:841
 #: ../../SOM.rst:895 ../../SOM.rst:1091
@@ -2008,7 +2127,7 @@ msgstr ""
 
 #: ../../SOM.rst:711
 msgid "Equipped creature has flying and first strike."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie i pierwszy cios."
 
 #: ../../SOM.rst:720
 msgid ""
@@ -2019,7 +2138,7 @@ msgstr ""
 
 #: ../../SOM.rst:717
 msgid "Chimeric Mass enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../SOM.rst:719
 msgid ""
@@ -2027,6 +2146,9 @@ msgid ""
 "creature with \"This creature's power and toughness are each equal to the "
 "number of charge counters on it.\""
 msgstr ""
+"|mana_1|: Do końca tury ten artefakt staje się artefaktowym stworem "
+"Konstrukt mającym \"Siła i wytrzymałość tego stwora są obie równe liczbie "
+"znaczników ładunku na nim.\""
 
 #: ../../SOM.rst:724
 msgid ""
@@ -2040,6 +2162,8 @@ msgid ""
 "Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more "
 "artifacts."
 msgstr ""
+"Metalurgia — Ten stwór dostaje +2/+2 o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../SOM.rst:730
 msgid ""
@@ -2102,6 +2226,8 @@ msgid ""
 "When Contagion Engine enters the battlefield, put a -1/-1 counter on each "
 "creature target player controls."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, umieść znacznik -1/-1 na każdym "
+"stworze pod władaniem wskazanego gracza."
 
 #: ../../SOM.rst:741
 msgid ""
@@ -2109,6 +2235,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there. Then do it again.)"
 msgstr ""
+"|mana_4|, |tap|: Rozpleń, po czym rozpleń ponownie. (Wybierz dowolną liczbę "
+"permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
+"obecnych tam rodzajów. Następnie zrób to ponownie.)"
 
 #: ../../SOM.rst:746
 msgid ""
@@ -2133,6 +2262,8 @@ msgid ""
 "When Corpse Cur enters the battlefield, you may return target creature card "
 "with infect from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"stwora z infekcją z twojego cmentarza do twojej ręki."
 
 #: ../../SOM.rst:758
 msgid ""
@@ -2186,6 +2317,8 @@ msgid ""
 "Darksteel Juggernaut's power and toughness are each equal to the number of "
 "artifacts you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie artefaktów pod twoim "
+"władaniem."
 
 #: ../../SOM.rst:773
 msgid "Darksteel Juggernaut attacks each combat if able."
@@ -2224,7 +2357,7 @@ msgstr ""
 
 #: ../../SOM.rst:789
 msgid "Equipped creature can block an additional creature each combat."
-msgstr ""
+msgstr "Wyposażony stwór może blokować dodatkowego stwora w każdej potyczce."
 
 #: ../../SOM.rst:791 ../../SOM.rst:873 ../../SOM.rst:1099
 msgid "Equip |mana_1|"
@@ -2242,6 +2375,8 @@ msgid ""
 "Metalcraft — Etched Champion has protection from all colors as long as you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ten stwór ma ochronę przed wszystkimi kolorami o ile władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../SOM.rst:802
 msgid ""
@@ -2255,12 +2390,15 @@ msgid ""
 "|tap|, Sacrifice Flight Spellbomb: Target creature gains flying until end of "
 "turn."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../SOM.rst:801
 msgid ""
 "When Flight Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_u|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_u|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:808
 msgid ""
@@ -2275,12 +2413,16 @@ msgid ""
 "have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until "
 "end of turn."
 msgstr ""
+"Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, możesz do "
+"końca tury zamienić ten artefakt w artefaktowego stwora Ptak 2/2 z lataniem."
 
 #: ../../SOM.rst:807
 msgid ""
 "|mana_w|: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying "
 "until end of turn."
 msgstr ""
+"|mana_w|: Ten artefakt staje się do końca tury artefaktowym stworem Ptak 2/2 "
+"z lataniem."
 
 #: ../../SOM.rst:812
 msgid ""
@@ -2304,12 +2446,16 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, you may put a charge counter on Golden Urn."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić znacznik ładunku na "
+"tym artefakcie."
 
 #: ../../SOM.rst:817
 msgid ""
 "|tap|, Sacrifice Golden Urn: You gain life equal to the number of charge "
 "counters on Golden Urn."
 msgstr ""
+"|tap|, poświęć ten artefakt: Zyskaj życia równe liczbie znaczników ładunku "
+"na tym artefakcie."
 
 #: ../../SOM.rst:824
 msgid ""
@@ -2342,12 +2488,16 @@ msgid ""
 "Whenever you cast an artifact spell, you may put a charge counter on Golem "
 "Foundry."
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, możesz umieścić znacznik ładunku na tym "
+"artefakcie."
 
 #: ../../SOM.rst:829
 msgid ""
 "Remove three charge counters from Golem Foundry: Create a 3/3 colorless "
 "Golem artifact creature token."
 msgstr ""
+"Usuń trzy znaczniki ładunku z tego artefaktu: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../SOM.rst:834
 msgid ""
@@ -2358,7 +2508,7 @@ msgstr ""
 
 #: ../../SOM.rst:833
 msgid "Whenever a player casts an artifact spell, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć jakiś gracz rzuci czar artefaktu, możesz zyskać 1 życie."
 
 #: ../../SOM.rst:842
 msgid ""
@@ -2372,12 +2522,15 @@ msgid ""
 "Equipped creature gets +2/+2 and has infect. (It deals damage to creatures "
 "in the form of -1/-1 counters and to players in the form of poison counters.)"
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma infekcję. (Zadaje obrażenia stworom w "
+"postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:839
 msgid ""
 "Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice "
 "that permanent."
 msgstr ""
+"Ilekroć ten artefakt zostanie odłączony od permanentu, poświęć ów permanent."
 
 #: ../../SOM.rst:848
 msgid ""
@@ -2407,12 +2560,14 @@ msgstr ""
 
 #: ../../SOM.rst:851
 msgid "Equipped creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Wyposażony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../SOM.rst:853
 msgid ""
 "Equipped creature has \"|tap|: This creature deals 2 damage to any target.\""
 msgstr ""
+"Wyposażony stwór ma \"|tap|: Ten stwór zadaje wskazanemu celowi 2 obrażenia."
+"\""
 
 #: ../../SOM.rst:855 ../../SOM.rst:983
 msgid "Equip |mana_4|"
@@ -2426,22 +2581,20 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:859
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice three artifacts: Search your library for an artifact "
-#| "card and put it onto the battlefield. Then shuffle your library."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Horizon Spellbomb: Search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"|tap|, poświęć trzy artefakty: Wyszukaj w twojej bibliotece kartę artefaktu "
-"i umieść ją na polu bitwy. Następnie przetasuj."
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../SOM.rst:861
 msgid ""
 "When Horizon Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_g|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_g|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:868
 msgid ""
@@ -2453,7 +2606,7 @@ msgstr ""
 #: ../../SOM.rst:867
 msgid ""
 "Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2."
 
 #: ../../SOM.rst:874
 msgid ""
@@ -2467,6 +2620,8 @@ msgid ""
 "Whenever equipped creature becomes blocked by a creature, you may draw two "
 "cards."
 msgstr ""
+"Ilekroć wyposażony stwór zostanie zablokowany przez stwora, możesz dobrać "
+"dwie karty."
 
 #: ../../SOM.rst:878
 msgid ""
@@ -2517,6 +2672,8 @@ msgid ""
 "|tap|: Target permanent becomes an artifact in addition to its other types "
 "until end of turn."
 msgstr ""
+"|tap|: Wskazany permanent staje się dodatkowo artefaktem oprócz swoich "
+"pozostałych typów."
 
 #: ../../SOM.rst:896
 msgid ""
@@ -2530,6 +2687,8 @@ msgid ""
 "Equipped creature gets +2/+0 and has \"Whenever this creature becomes the "
 "target of a spell, this creature deals 2 damage to any target.\""
 msgstr ""
+"Wyposażony stwór dostaje +2/+0 i ma \"Ilekroć ten stwór zostanie wskazany "
+"przez czar, ten stwór zadaje wskazanemu celowi 2 obrażenia.\""
 
 #: ../../SOM.rst:902
 msgid ""
@@ -2569,12 +2728,17 @@ msgid ""
 "Imprint — Whenever a nontoken creature dies, you may exile that card. If you "
 "do, return each other card exiled with Mimic Vat to its owner's graveyard."
 msgstr ""
+"Odlew — Ilekroć umrze nieżetonowy stwór, możesz wygnać ową kartę. Jeśli tak "
+"zrobisz, przywróć każdą inną kartę wygnaną tym artefaktem do cmentarza "
+"właściciela."
 
 #: ../../SOM.rst:911
 msgid ""
 "|mana_3|, |tap|: Create a token that's a copy of a card exiled with Mimic "
 "Vat. It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
+"|mana_3|, |tap|: Stwórz żeton będący kopią karty wygnanej tym artefaktem. "
+"Zyskuje on pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../SOM.rst:916
 msgid ""
@@ -2589,6 +2753,9 @@ msgid ""
 "player's next turn. (You see all cards that player could see and make all "
 "decisions for the player.)"
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Władasz wskazanym graczem podczas "
+"najbliższej tury owego gracza. (Widzisz wszystkie karty widoczne dla owego "
+"gracza i podejmujesz wszystkie decyzje za owego gracza.)"
 
 #: ../../SOM.rst:924
 msgid ""
@@ -2602,16 +2769,20 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Molten-Tail Masticore unless you "
 "discard a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"odrzucisz kartę."
 
 #: ../../SOM.rst:921
 msgid ""
 "|mana_4|, Exile a creature card from your graveyard: Molten-Tail Masticore "
 "deals 4 damage to any target."
 msgstr ""
+"|mana_4|, wygnaj kartę stwora z twojego cmentarza: Ten stwór zadaje "
+"wskazanemu celowi 4 obrażenia."
 
 #: ../../SOM.rst:923
 msgid "|mana_2|: Regenerate Molten-Tail Masticore."
-msgstr ""
+msgstr "|mana_2|: Zregeneruj tego stwora."
 
 #: ../../SOM.rst:928
 msgid ""
@@ -2625,6 +2796,7 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice Moriok Replica: You draw two cards and you "
 "lose 2 life."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć tego stwora: Dobierz dwie karty i strać 2 życia."
 
 #: ../../SOM.rst:932
 msgid ""
@@ -2675,11 +2847,11 @@ msgstr ""
 
 #: ../../SOM.rst:941
 msgid "Other Myr creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Myry pod twoim władaniem dostają +1/+1."
 
 #: ../../SOM.rst:943
 msgid "|mana_1|, |tap|: Untap each other Myr you control."
-msgstr ""
+msgstr "|mana_1|, |tap|: Odkręć każdego innego Myra pod twoim władaniem."
 
 #: ../../SOM.rst:948
 msgid ""
@@ -2690,7 +2862,7 @@ msgstr ""
 
 #: ../../SOM.rst:947
 msgid "|mana_3|, |tap|: Create a token that's a copy of Myr Propagator."
-msgstr ""
+msgstr "|mana_3|, |tap|: Stwórz żeton będący kopią niniejszego stwora."
 
 #: ../../SOM.rst:954
 msgid ""
@@ -2704,11 +2876,15 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast Myr "
 "spells or activate abilities of Myr."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Wydaj tę manę tylko na rzucenie czaru "
+"typu Myr lub aktywację zdolności Myra."
 
 #: ../../SOM.rst:953
 msgid ""
 "|mana_3|, |tap|: Return target Myr card from your graveyard to your hand."
 msgstr ""
+"|mana_3|, |tap|: Przywróć wskazaną kartę typu Myr z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../SOM.rst:960
 msgid ""
@@ -2719,13 +2895,14 @@ msgstr ""
 
 #: ../../SOM.rst:957
 msgid "Necrogen Censer enters the battlefield with two charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../SOM.rst:959
 msgid ""
 "|tap|, Remove a charge counter from Necrogen Censer: Target player loses 2 "
 "life."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego artefaktu: Wskazany gracz traci 2 życia."
 
 #: ../../SOM.rst:966
 msgid ""
@@ -2737,6 +2914,7 @@ msgstr ""
 #: ../../SOM.rst:965
 msgid "When Necropede dies, you may put a -1/-1 counter on target creature."
 msgstr ""
+"Kiedy ten stwór umrze, możesz umieścić znacznik -1/-1 na wskazanym stworze."
 
 #: ../../SOM.rst:970
 msgid ""
@@ -2750,6 +2928,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, Sacrifice Neurok Replica: Return target creature to its "
 "owner's hand."
 msgstr ""
+"|mana_1|\\ |mana_u|, poświęć tego stwora: Przywróć wskazanego stwora do ręki "
+"właściciela."
 
 #: ../../SOM.rst:976
 msgid ""
@@ -2763,12 +2943,16 @@ msgid ""
 "|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
 "graveyard."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
+"gracza."
 
 #: ../../SOM.rst:975
 msgid ""
 "When Nihil Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_b|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:984
 msgid ""
@@ -2793,6 +2977,9 @@ msgid ""
 "battlefield, you may pay |mana_4|. If you do, return that card to the "
 "battlefield and attach Nim Deathmantle to it."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafi do cmentarza z pola bitwy, możesz zapłacić "
+"|mana_4|. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy i dołącz do "
+"niego ten artefakt."
 
 #: ../../SOM.rst:990
 msgid ""
@@ -2806,12 +2993,16 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Origin Spellbomb: Create a 1/1 colorless Myr "
 "artifact creature token."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Myr 1/1."
 
 #: ../../SOM.rst:989
 msgid ""
 "When Origin Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_w|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_w|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:994
 msgid ""
@@ -2835,12 +3026,15 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Panic Spellbomb: Target creature can't block this turn."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../SOM.rst:999
 msgid ""
 "When Panic Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_r|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_r|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:1004
 msgid ""
@@ -2880,6 +3074,8 @@ msgid ""
 "When Precursor Golem enters the battlefield, create two 3/3 colorless Golem "
 "artifact creature tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../SOM.rst:1013
 msgid ""
@@ -2887,6 +3083,9 @@ msgid ""
 "single Golem, that player copies that spell for each other Golem that spell "
 "could target. Each copy targets a different one of those Golems."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu wskazujący tylko jednego "
+"Golema, ów gracz kopiuje ów czar za każdego innego Golema, którego ów czar "
+"mógłby wskazywać. Każda kopia wskazuje innego z owych Golemów."
 
 #: ../../SOM.rst:1020
 msgid ""
@@ -2900,6 +3099,8 @@ msgid ""
 "Imprint — When Prototype Portal enters the battlefield, you may exile an "
 "artifact card from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać kartę "
+"artefaktu z twojej ręki."
 
 #: ../../SOM.rst:1019
 msgid ""
@@ -2944,13 +3145,15 @@ msgstr ""
 
 #: ../../SOM.rst:1033
 msgid "You may choose not to untap Rust Tick during your untap step."
-msgstr ""
+msgstr "Możesz nie odkręcać tego artefaktu podczas twojego kroku odkręcania."
 
 #: ../../SOM.rst:1035
 msgid ""
 "|mana_1|, |tap|: Tap target artifact. It doesn't untap during its "
 "controller's untap step for as long as Rust Tick remains tapped."
 msgstr ""
+"|mana_1|, |tap|: Przekręć wskazany artefakt. Nie odkręci się on podczas "
+"kroku odkręcania swojego władcy o ile ten artefakt pozostaje przekręcony."
 
 #: ../../SOM.rst:1040
 msgid ""
@@ -2964,6 +3167,8 @@ msgid ""
 "Metalcraft — Rusted Relic is a 5/5 Golem artifact creature as long as you "
 "control three or more artifacts."
 msgstr ""
+"Metalurgia — Ten artefakt jest artefaktowym stworem Golem 5/5 o ile władasz "
+"co najmniej trzema artefaktami."
 
 #: ../../SOM.rst:1044
 msgid ""
@@ -2974,7 +3179,7 @@ msgstr ""
 
 #: ../../SOM.rst:1043
 msgid "|mana_r|: Saberclaw Golem gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../SOM.rst:1050
 msgid ""
@@ -2988,12 +3193,16 @@ msgid ""
 "Imprint — When Semblance Anvil enters the battlefield, you may exile a "
 "nonland card from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać nielądową "
+"kartę z twojej ręki."
 
 #: ../../SOM.rst:1049
 msgid ""
 "Spells you cast that share a card type with the exiled card cost |mana_2| "
 "less to cast."
 msgstr ""
+"Rzucanie czarów mających z wygnaną kartą wspólny typ karty kosztuje cię o "
+"|mana_2| mniej."
 
 #: ../../SOM.rst:1054
 msgid ""
@@ -3018,6 +3227,8 @@ msgid ""
 "Metalcraft — Snapsail Glider has flying as long as you control three or more "
 "artifacts."
 msgstr ""
+"Metalurgia — Ten stwór ma latanie o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../SOM.rst:1062
 msgid ""
@@ -3028,7 +3239,7 @@ msgstr ""
 
 #: ../../SOM.rst:1061
 msgid "|mana_u|: Untap Soliton."
-msgstr ""
+msgstr "|mana_u|: Odkręć tego stwora."
 
 #: ../../SOM.rst:1070
 msgid ""
@@ -3039,7 +3250,7 @@ msgstr ""
 
 #: ../../SOM.rst:1067
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../SOM.rst:1069
 msgid ""
@@ -3047,6 +3258,9 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
+"|mana_x|: Zniszcz każdy nielądowy permanent o skrócie many X, którego władca "
+"otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
+"aktywować tylko raz na turę."
 
 #: ../../SOM.rst:1078
 msgid ""
@@ -3068,6 +3282,8 @@ msgid ""
 "Equipped creature gets +1/+1 for each land on the battlefield with the same "
 "name as the exiled card."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy ląd na polu bitwy mający tę samą "
+"nazwę co wygnana karta."
 
 #: ../../SOM.rst:1077
 msgid "Equip |mana_3|"
@@ -3126,7 +3342,7 @@ msgstr "Wyposażony stwór dostaje +1/+0."
 
 #: ../../SOM.rst:1097
 msgid "Whenever equipped creature dies, you gain 3 life."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór umrze, zyskaj 3 życia."
 
 #: ../../SOM.rst:1104
 msgid ""
@@ -3138,7 +3354,7 @@ msgstr ""
 #: ../../SOM.rst:1103
 msgid ""
 "|mana_g|, Sacrifice Sylvok Replica: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_g|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../SOM.rst:1108
 msgid ""
@@ -3165,7 +3381,7 @@ msgstr ""
 #: ../../SOM.rst:1111
 msgid ""
 "|mana_8|, |tap|: Tower of Calamities deals 12 damage to target creature."
-msgstr ""
+msgstr "|mana_8|, |tap|: Ten artefakt zadaje wskazanemu stworowi 12 obrażeń."
 
 #: ../../SOM.rst:1120
 msgid ""
@@ -3177,18 +3393,20 @@ msgstr ""
 #: ../../SOM.rst:1115
 msgid ""
 "Trigon of Corruption enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../SOM.rst:1117
 msgid ""
 "|mana_b|\\ |mana_b|, |tap|: Put a charge counter on Trigon of Corruption."
-msgstr ""
+msgstr "|mana_b|\\ |mana_b|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:1119
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Corruption: Put a "
 "-1/-1 counter on target creature."
 msgstr ""
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Umieść znacznik -1/-"
+"1 na wskazanym stworze."
 
 #: ../../SOM.rst:1128
 msgid ""
@@ -3201,18 +3419,20 @@ msgstr ""
 msgid ""
 "Trigon of Infestation enters the battlefield with three charge counters on "
 "it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../SOM.rst:1125
 msgid ""
 "|mana_g|\\ |mana_g|, |tap|: Put a charge counter on Trigon of Infestation."
-msgstr ""
+msgstr "|mana_g|\\ |mana_g|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:1127
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Infestation: Create "
 "a 1/1 green Phyrexian Insect creature token with infect."
 msgstr ""
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Stwórz żeton "
+"zielonego stwora Phyrexiański Owad 1/1 z infekcją."
 
 #: ../../SOM.rst:1136
 msgid ""
@@ -3224,17 +3444,19 @@ msgstr ""
 #: ../../SOM.rst:1131
 msgid ""
 "Trigon of Mending enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki ładunku."
 
 #: ../../SOM.rst:1133
 msgid "|mana_w|\\ |mana_w|, |tap|: Put a charge counter on Trigon of Mending."
-msgstr ""
+msgstr "|mana_w|\\ |mana_w|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:1135
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Mending: Target "
 "player gains 3 life."
 msgstr ""
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Wskazany gracz "
+"zyskuje 3 życia."
 
 #: ../../SOM.rst:1144
 msgid ""
@@ -3245,17 +3467,19 @@ msgstr ""
 
 #: ../../SOM.rst:1139
 msgid "Trigon of Rage enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając trzy znaczniki ładunku."
 
 #: ../../SOM.rst:1141
 msgid "|mana_r|\\ |mana_r|, |tap|: Put a charge counter on Trigon of Rage."
-msgstr ""
+msgstr "|mana_r|\\ |mana_r|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:1143
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Rage: Target "
 "creature gets +3/+0 until end of turn."
 msgstr ""
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Wskazany stwór "
+"dostaje do końca tury +3/+0."
 
 #: ../../SOM.rst:1152
 msgid ""
@@ -3267,16 +3491,16 @@ msgstr ""
 #: ../../SOM.rst:1147
 msgid ""
 "Trigon of Thought enters the battlefield with three charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole walki mając trzy znaczniki ładunku."
 
 #: ../../SOM.rst:1149
 msgid "|mana_u|\\ |mana_u|, |tap|: Put a charge counter on Trigon of Thought."
-msgstr ""
+msgstr "|mana_u|\\ |mana_u|, |tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../SOM.rst:1151
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Thought: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Dobierz kartę."
 
 #: ../../SOM.rst:1158
 msgid ""
@@ -3310,6 +3534,8 @@ msgid ""
 "creatures in the form of -1/-1 counters and to players in the form of poison "
 "counters.)"
 msgstr ""
+"|mana_b|: Ten stwór zyskuje do końca tury infekcję. (Zadaje obrażenia "
+"stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:1168
 msgid ""
@@ -3341,6 +3567,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice Vulshok Replica: It deals 3 damage to target "
 "player or planeswalker."
 msgstr ""
+"|mana_1|\\ |mana_r|, poświęć tego stwora: Zadaje on wskazanemu graczowi lub "
+"wędrowcowi 3 obrażenia."
 
 #: ../../SOM.rst:1178
 msgid ""
@@ -3358,6 +3586,8 @@ msgid ""
 "|mana_g|: Wall of Tanglecord gains reach until end of turn. (It can block "
 "creatures with flying.)"
 msgstr ""
+"|mana_g|: Ten stwór zyskuje do końca tury zasięg. (Może blokować stwory z "
+"lataniem.)"
 
 #: ../../SOM.rst:1184
 msgid ""
@@ -3371,19 +3601,14 @@ msgid "Deathtouch, lifelink"
 msgstr "Dotyk śmierci, więź życia"
 
 #: ../../SOM.rst:1183
-#, fuzzy
-#| msgid ""
-#| "When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature "
-#| "token with deathtouch and a 3/3 colorless Wurm artifact creature token "
-#| "with lifelink."
 msgid ""
 "When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact "
 "creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact "
 "creature token with lifelink."
 msgstr ""
-"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Żmij "
-"3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij "
-"3/3 z więzią życia."
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora "
+"Phyrexiański Żmij 3/3 z dotykiem śmierci oraz żeton bezkolorowego "
+"artefaktowego stwora Phyrexiański Żmij 3/3 z więzią życia."
 
 #: ../../SOM.rst:1190
 msgid ""
@@ -3397,6 +3622,8 @@ msgid ""
 "Blackcleave Cliffs enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../SOM.rst:1189
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -3414,6 +3641,8 @@ msgid ""
 "Copperline Gorge enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../SOM.rst:1195
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3431,6 +3660,8 @@ msgid ""
 "Darkslick Shores enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../SOM.rst:1201
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3448,6 +3679,8 @@ msgid ""
 "When Glimmerpost enters the battlefield, you gain 1 life for each Locus on "
 "the battlefield."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, zyskaj po 1 życiu za każdy Locus na "
+"polu bitwy."
 
 #: ../../SOM.rst:1207
 msgid "|tap|: Add |colorless|."
@@ -3465,6 +3698,8 @@ msgid ""
 "Razorverge Thicket enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../SOM.rst:1213
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3482,6 +3717,8 @@ msgid ""
 "Seachrome Coast enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole walki, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../SOM.rst:1219
 msgid "|tap|: Add |mana_w| or |mana_u|."

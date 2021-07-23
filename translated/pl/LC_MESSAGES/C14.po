@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 21:45+0000\n"
+"PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -1658,6 +1658,7 @@ msgstr ""
 msgid ""
 "When Sunblast Angel enters the battlefield, destroy all tapped creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie przekręcone stwory."
 
 #: ../../C14.rst:542
 msgid ""
@@ -1668,7 +1669,7 @@ msgstr ""
 
 #: ../../C14.rst:541
 msgid "Creatures you control have double strike and lifelink."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają podwójny cios i wieź życia."
 
 #: ../../C14.rst:550
 msgid ""
@@ -3319,13 +3320,15 @@ msgstr ""
 
 #: ../../C14.rst:1095
 msgid "|mana_g|: Regenerate another target Elf."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj innego wskazanego Elfa."
 
 #: ../../C14.rst:1097
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Elf creatures you control get +3/"
 "+3 and gain trample until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Elfy pod twoim władaniem dostają "
+"do końca tury +3/+3 i tratowanie."
 
 #: ../../C14.rst:1102
 msgid ""
@@ -3818,11 +3821,11 @@ msgstr ""
 
 #: ../../C14.rst:1255
 msgid "Equipped creature gets +6/+6."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +6/+6."
 
 #: ../../C14.rst:1257
 msgid "Whenever equipped creature attacks, destroy target permanent."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór zaatakuje, zniszcz wskazany permanent."
 
 #: ../../C14.rst:1259
 msgid "Equip |mana_6|"
@@ -4107,6 +4110,8 @@ msgid ""
 "|tap|: Target permanent becomes an artifact in addition to its other types "
 "until end of turn."
 msgstr ""
+"|tap|: Wskazany permanent staje się dodatkowo artefaktem oprócz swoich "
+"pozostałych typów."
 
 #: ../../C14.rst:1366
 msgid ""
@@ -4309,12 +4314,15 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Panic Spellbomb: Target creature can't block this turn."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../C14.rst:1431
 msgid ""
 "When Panic Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_r|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_r|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C14.rst:1436
 msgid ""
@@ -4518,7 +4526,7 @@ msgstr ""
 
 #: ../../C14.rst:1507
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../C14.rst:1509
 msgid ""
@@ -4526,6 +4534,9 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
+"|mana_x|: Zniszcz każdy nielądowy permanent o skrócie many X, którego władca "
+"otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
+"aktywować tylko raz na turę."
 
 #: ../../C14.rst:1518
 msgid ""
@@ -4547,6 +4558,8 @@ msgid ""
 "Equipped creature gets +1/+1 for each land on the battlefield with the same "
 "name as the exiled card."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy ląd na polu bitwy mający tę samą "
+"nazwę co wygnana karta."
 
 #: ../../C14.rst:1524
 msgid ""
@@ -4668,19 +4681,14 @@ msgid "Deathtouch, lifelink"
 msgstr "Dotyk śmierci, więź życia"
 
 #: ../../C14.rst:1567
-#, fuzzy
-#| msgid ""
-#| "When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature "
-#| "token with deathtouch and a 3/3 colorless Wurm artifact creature token "
-#| "with lifelink."
 msgid ""
 "When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact "
 "creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact "
 "creature token with lifelink."
 msgstr ""
-"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Żmij "
-"3/3 z dotykiem śmierci oraz żeton bezkolorowego artefaktowego stwora Żmij "
-"3/3 z więzią życia."
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora "
+"Phyrexiański Żmij 3/3 z dotykiem śmierci oraz żeton bezkolorowego "
+"artefaktowego stwora Phyrexiański Żmij 3/3 z więzią życia."
 
 #: ../../C14.rst:1576
 msgid ""

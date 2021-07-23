@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-22 21:45+0000\n"
+"PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -4533,6 +4533,8 @@ msgid ""
 "|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
 "graveyard."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
+"gracza."
 
 # d68be31fd1d443d3962c3777765dd07a
 #: ../../C13.rst:1431
@@ -4540,6 +4542,8 @@ msgid ""
 "When Nihil Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_b|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../C13.rst:1436
 msgid ""

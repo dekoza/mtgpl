@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-22 21:45+0000\n"
+"PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -3623,6 +3623,8 @@ msgid ""
 "Darksteel Juggernaut's power and toughness are each equal to the number of "
 "artifacts you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie artefaktów pod twoim "
+"władaniem."
 
 #: ../../C18.rst:1195
 msgid "Darksteel Juggernaut attacks each combat if able."
@@ -3732,12 +3734,17 @@ msgid ""
 "Imprint — Whenever a nontoken creature dies, you may exile that card. If you "
 "do, return each other card exiled with Mimic Vat to its owner's graveyard."
 msgstr ""
+"Odlew — Ilekroć umrze nieżetonowy stwór, możesz wygnać ową kartę. Jeśli tak "
+"zrobisz, przywróć każdą inną kartę wygnaną tym artefaktem do cmentarza "
+"właściciela."
 
 #: ../../C18.rst:1233
 msgid ""
 "|mana_3|, |tap|: Create a token that's a copy of a card exiled with Mimic "
 "Vat. It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
+"|mana_3|, |tap|: Stwórz żeton będący kopią karty wygnanej tym artefaktem. "
+"Zyskuje on pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../C18.rst:1240
 msgid ""
@@ -3841,6 +3848,8 @@ msgid ""
 "Imprint — When Prototype Portal enters the battlefield, you may exile an "
 "artifact card from your hand."
 msgstr ""
+"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać kartę "
+"artefaktu z twojej ręki."
 
 #: ../../C18.rst:1271
 msgid ""
@@ -3973,7 +3982,7 @@ msgstr ""
 
 #: ../../C18.rst:1317
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../C18.rst:1319
 msgid ""
@@ -3981,6 +3990,9 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
+"|mana_x|: Zniszcz każdy nielądowy permanent o skrócie many X, którego władca "
+"otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
+"aktywować tylko raz na turę."
 
 #: ../../C18.rst:1326
 msgid ""
