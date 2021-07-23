@@ -5,7 +5,8 @@
 .. |THB_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SOM_percent| image:: images/pie40.png        
+.. |SOM_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |SHM_percent| image:: images/pie30.png        
 
@@ -211,7 +212,7 @@
 .. |DKA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C17_percent| image:: images/pie65.png        
+.. |C17_percent| image:: images/pie70.png        
 
 .. |LEB_percent| image:: images/pie50.png        
 
@@ -331,7 +332,7 @@
 
 .. |CNS_percent| image:: images/pie60.png        
 
-.. |ULG_percent| image:: images/pie40.png        
+.. |ULG_percent| image:: images/pie45.png        
 
 .. |ODY_percent| image:: images/pie40.png        
 

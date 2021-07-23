@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-07-23
+   * Scars of Mirrodin - 100%
+
 2021-07-22
    * New Phyrexia - 100%
    * Mirrodin Besieged - 100%
