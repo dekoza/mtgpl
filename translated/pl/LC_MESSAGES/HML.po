@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-04-18 22:37+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hml/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HML.rst:5
@@ -707,7 +707,7 @@ msgstr ""
 
 #: ../../HML.rst:241
 msgid "Dry Spell deals 1 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
 #: ../../HML.rst:248
 msgid ""
@@ -718,7 +718,7 @@ msgstr ""
 
 #: ../../HML.rst:247
 msgid "Enchanted creature gets +4/+0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+0."
 
 #: ../../HML.rst:254
 msgid ""

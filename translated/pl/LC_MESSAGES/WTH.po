@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
 "Language: pl\n"
@@ -989,6 +989,9 @@ msgid ""
 "chosen cards on top of your library in any order. You lose half your life, "
 "rounded up."
 msgstr ""
+"Wyszukaj w twojej bibliotece i cmentarzu pięć kart i wygnaj pozostałe. "
+"Umieść wybrane karty dowolnie na wierzchu twojej biblioteki. Strać połowę "
+"swoich żyć, zaokrąglając wzwyż."
 
 #: ../../WTH.rst:358
 msgid ""
@@ -1002,6 +1005,8 @@ msgid ""
 "Destroy target creature that was dealt damage this turn. It can't be "
 "regenerated."
 msgstr ""
+"Zniszcz wskazanego stwora, który otrzymał w tej turze obrażenia. Nie może on "
+"zregenerować."
 
 #: ../../WTH.rst:364
 msgid ""
@@ -1103,7 +1108,7 @@ msgstr ""
 
 #: ../../WTH.rst:395
 msgid "Pay 1 life: Regenerate Mischievous Poltergeist."
-msgstr ""
+msgstr "Zapłać 1 życie: Zregeneruj tego stwora."
 
 #: ../../WTH.rst:402
 msgid ""
@@ -1219,6 +1224,8 @@ msgid ""
 "|mana_b|\\ |mana_b|, Pay 2 life, Sacrifice a Swamp: Return target creature "
 "card from your graveyard to the battlefield."
 msgstr ""
+"|mana_b|\\ |mana_b|, zapłać 2 życia, poświęć Bagno: Przywróć wskazaną kartę "
+"stwora z twojego cmentarza na pole bitwy."
 
 #: ../../WTH.rst:440
 msgid ""
@@ -1304,7 +1311,7 @@ msgstr ""
 msgid ""
 "Whenever a creature enters the battlefield, Aether Flash deals 2 damage to "
 "it."
-msgstr ""
+msgstr "Ilekroć stwóe wejdzie na pole bitwy, ten urok zadaje mu 2 obrażenia."
 
 #: ../../WTH.rst:470
 msgid ""
@@ -1499,7 +1506,7 @@ msgstr ""
 
 #: ../../WTH.rst:531
 msgid "Target creature gets +3/+3 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 i pierwszy cios."
 
 #: ../../WTH.rst:538
 msgid ""
@@ -1833,7 +1840,7 @@ msgstr ""
 
 #: ../../WTH.rst:643
 msgid "Creatures can't be the targets of spells."
-msgstr ""
+msgstr "Stwory nie mogą być wskazywane przez czary."
 
 #: ../../WTH.rst:650
 msgid ""
@@ -1873,6 +1880,8 @@ msgstr ""
 #: ../../WTH.rst:657
 msgid "Each creature you control can't be blocked by more than one creature."
 msgstr ""
+"Każdy stwór pod twoim władaniem nie może być blokowany przez więcej niż "
+"jednego stwora."
 
 #: ../../WTH.rst:662
 msgid ""
@@ -2022,7 +2031,7 @@ msgstr ""
 
 #: ../../WTH.rst:705
 msgid "Each player draws a card for each creature card in their graveyard."
-msgstr ""
+msgstr "Każdy gracz dobiera kartę za każdą kartę stwora w swoim cmentarzu."
 
 #: ../../WTH.rst:708
 msgid ""
@@ -2077,7 +2086,7 @@ msgstr ""
 
 #: ../../WTH.rst:725
 msgid "|mana_1|\\ |mana_g|\\ |mana_g|: Destroy all other enchantments."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|\\ |mana_g|: Zniszcz wszystkie inne uroki."
 
 #: ../../WTH.rst:730
 msgid ""
@@ -2118,7 +2127,7 @@ msgstr ""
 
 #: ../../WTH.rst:737
 msgid "Untap all creatures you control."
-msgstr ""
+msgstr "Odkręć wszystkie stwory pod twoim władaniem."
 
 #: ../../WTH.rst:742
 msgid ""

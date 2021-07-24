@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/6ed/pl/>\n"
 "Language: pl\n"
@@ -1648,6 +1648,9 @@ msgid ""
 "chosen cards on top of your library in any order. You lose half your life, "
 "rounded up."
 msgstr ""
+"Wyszukaj w twojej bibliotece i cmentarzu pięć kart i wygnaj pozostałe. "
+"Umieść wybrane karty dowolnie na wierzchu twojej biblioteki. Strać połowę "
+"swoich żyć, zaokrąglając wzwyż."
 
 #: ../../6ED.rst:564
 msgid ""
@@ -1658,7 +1661,7 @@ msgstr ""
 
 #: ../../6ED.rst:563
 msgid "White creatures get -1/-1."
-msgstr ""
+msgstr "Białe stwory dostają -1/-1."
 
 #: ../../6ED.rst:568
 msgid ""
@@ -1686,7 +1689,7 @@ msgstr ""
 
 #: ../../6ED.rst:571
 msgid "Dry Spell deals 1 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
 #: ../../6ED.rst:578
 msgid ""
@@ -1709,11 +1712,11 @@ msgstr ""
 
 #: ../../6ED.rst:581
 msgid "Non-Eye creatures you control can't attack."
-msgstr ""
+msgstr "Stwory pod twoim władaniem bez typu Oko nie mogą atakować."
 
 #: ../../6ED.rst:583
 msgid "Evil Eye of Orms-by-Gore can't be blocked except by Walls."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany, chyba że przez Ściany."
 
 #: ../../6ED.rst:590
 msgid ""
@@ -1738,6 +1741,8 @@ msgid ""
 "Destroy target creature that was dealt damage this turn. It can't be "
 "regenerated."
 msgstr ""
+"Zniszcz wskazanego stwora, który otrzymał w tej turze obrażenia. Nie może on "
+"zregenerować."
 
 #: ../../6ED.rst:600
 msgid ""
@@ -1763,7 +1768,7 @@ msgstr ""
 
 #: ../../6ED.rst:605
 msgid "Enchanted creature gets +4/+0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+0."
 
 #: ../../6ED.rst:610
 msgid ""
@@ -1784,12 +1789,16 @@ msgid ""
 "If you would draw a card, return a card from your graveyard to your hand "
 "instead. If you can't, you lose the game."
 msgstr ""
+"Jeśli masz dobrać kartę, zamiast tego przywróć kartę z twojego cmentarza do "
+"twojej ręki. Jeśli nie możesz, przegrywasz grę."
 
 #: ../../6ED.rst:615
 msgid ""
 "If a card would be put into your graveyard from anywhere, exile that card "
 "instead."
 msgstr ""
+"Jeśli karta miałaby trafić skądkolwiek do twojego cmentarza, zamiast tego "
+"wygnaj ją."
 
 #: ../../6ED.rst:620
 msgid ""
@@ -1803,6 +1812,8 @@ msgid ""
 "If Gravebane Zombie would die, put Gravebane Zombie on top of its owner's "
 "library instead."
 msgstr ""
+"Jeśli ten stwór miałby umrzeć, zamiast tego umieść go na wierzchu biblioteki "
+"właściciela."
 
 #: ../../6ED.rst:624
 msgid ""
@@ -1842,11 +1853,15 @@ msgid ""
 "When Hecatomb enters the battlefield, sacrifice Hecatomb unless you "
 "sacrifice four creatures."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, poświęć go, chyba że poświęcisz cztery "
+"stwory."
 
 #: ../../6ED.rst:633
 msgid ""
 "Tap an untapped Swamp you control: Hecatomb deals 1 damage to any target."
 msgstr ""
+"Przekręć odkręcone Bagno pod twoim władaniem: Ten urok zadaje wskazanemu "
+"celowi 1 obrażenie."
 
 #: ../../6ED.rst:638
 msgid ""
@@ -1883,7 +1898,7 @@ msgstr ""
 
 #: ../../6ED.rst:645
 msgid "Draw four cards. You lose half your life, rounded up."
-msgstr ""
+msgstr "Dobierz cztery karty. Strać połowę swoich żyć, zaokrąglając wzwyż."
 
 #: ../../6ED.rst:652
 msgid ""
@@ -1894,11 +1909,11 @@ msgstr ""
 
 #: ../../6ED.rst:649
 msgid "When Kjeldoran Dead enters the battlefield, sacrifice a creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, poświęć stwora."
 
 #: ../../6ED.rst:651
 msgid "|mana_b|: Regenerate Kjeldoran Dead."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../6ED.rst:658
 msgid ""
@@ -1912,6 +1927,8 @@ msgid ""
 "Enchanted creature has swampwalk. (It can't be blocked as long as defending "
 "player controls a Swamp.)"
 msgstr ""
+"Zauroczony stwór ma podbój bagien. (Nie może być blokowany o ile broniący "
+"się gracz włada Bagnem.)"
 
 #: ../../6ED.rst:662
 msgid ""
@@ -1932,6 +1949,8 @@ msgid ""
 "Look at target player's hand and choose X cards from it. That player "
 "discards those cards."
 msgstr ""
+"Spójrz na rękę wskazanego gracza i wybierz z niej X kart. Ów gracz odrzuca "
+"owe karty."
 
 #: ../../6ED.rst:672
 msgid ""
@@ -1942,7 +1961,7 @@ msgstr ""
 
 #: ../../6ED.rst:671
 msgid "Pay 1 life: Regenerate Mischievous Poltergeist."
-msgstr ""
+msgstr "Zapłać 1 życie: Zregeneruj tego stwora."
 
 #: ../../6ED.rst:676
 msgid ""
@@ -1986,6 +2005,8 @@ msgid ""
 "Look at target opponent's hand and choose a card from it. Put that card on "
 "top of that player's library."
 msgstr ""
+"Spójrz na rękę wskazanego gracza i wybierz z niej kartę. Umieść ową kartę na "
+"wierzchu biblioteki owego gracza."
 
 #: ../../6ED.rst:690
 msgid ""
@@ -1996,7 +2017,7 @@ msgstr ""
 
 #: ../../6ED.rst:689
 msgid "Destroy all green creatures. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie zielone stwory. Nie mogą one zregenerować."
 
 #: ../../6ED.rst:696
 msgid ""
@@ -2010,10 +2031,13 @@ msgid ""
 "At the beginning of the end step, if no creatures are on the battlefield, "
 "sacrifice Pestilence."
 msgstr ""
+"Na początku kroku końcowego, jeśli na polu bitwy nie ma stwora, poświęć ten "
+"urok."
 
 #: ../../6ED.rst:695
 msgid "|mana_b|: Pestilence deals 1 damage to each creature and each player."
 msgstr ""
+"|mana_b|: Ten urok zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
 #: ../../6ED.rst:698
 msgid ""
@@ -2101,6 +2125,8 @@ msgid ""
 "|mana_b|\\ |mana_b|, Pay 2 life, Sacrifice a Swamp: Return target creature "
 "card from your graveyard to the battlefield."
 msgstr ""
+"|mana_b|\\ |mana_b|, zapłać 2 życia, poświęć Bagno: Przywróć wskazaną kartę "
+"stwora z twojego cmentarza na pole bitwy."
 
 #: ../../6ED.rst:730
 msgid ""
@@ -2111,7 +2137,7 @@ msgstr ""
 
 #: ../../6ED.rst:729
 msgid "|tap|, Pay 1 life: Counter target white spell."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Skontruj wskazany biały czar."
 
 #: ../../6ED.rst:734
 msgid ""
@@ -2122,7 +2148,7 @@ msgstr ""
 
 #: ../../6ED.rst:733
 msgid "Target opponent discards a card at random, then discards a card."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca losową kartę, po czym odrzuca kartę."
 
 #: ../../6ED.rst:738
 msgid ""
@@ -2136,6 +2162,8 @@ msgid ""
 "Syphon Soul deals 2 damage to each other player. You gain life equal to the "
 "damage dealt this way."
 msgstr ""
+"Ten czar zadaje każdemu innemu graczowi po 2 obrażenia. Zyskaj życia równe "
+"obrażeniom zadanym w ten sposób."
 
 #: ../../6ED.rst:742
 msgid ""
@@ -2177,10 +2205,12 @@ msgid ""
 "Other Zombie creatures have swampwalk. (They can't be blocked as long as "
 "defending player controls a Swamp.)"
 msgstr ""
+"Inne Zombi mają podbój bagien. (Nie mogą być blokowane o ile broniący się "
+"gracz włada Bagnem.)"
 
 #: ../../6ED.rst:751
 msgid "Other Zombies have \"|mana_b|: Regenerate this permanent.\""
-msgstr ""
+msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten permanent.\""
 
 #: ../../6ED.rst:756
 msgid ""
@@ -2193,7 +2223,7 @@ msgstr ""
 msgid ""
 "Whenever a creature enters the battlefield, Aether Flash deals 2 damage to "
 "it."
-msgstr ""
+msgstr "Ilekroć stwóe wejdzie na pole bitwy, ten urok zadaje mu 2 obrażenia."
 
 #: ../../6ED.rst:760
 msgid ""
@@ -2232,6 +2262,8 @@ msgid ""
 "When Balduvian Horde enters the battlefield, sacrifice it unless you discard "
 "a card at random."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz losową "
+"kartę."
 
 #: ../../6ED.rst:776
 msgid ""
@@ -2267,6 +2299,8 @@ msgid ""
 "Enchanted creature has mountainwalk. (It can't be blocked as long as "
 "defending player controls a Mountain.)"
 msgstr ""
+"Zauroczony stwór ma podbój gór. (Nie może być blokowany o ile broniący się "
+"gracz włada Górą.)"
 
 #: ../../6ED.rst:792
 msgid ""
@@ -2291,6 +2325,8 @@ msgid ""
 "|mana_x|, |tap|: Crimson Hellkite deals X damage to target creature. Spend "
 "only red mana on X."
 msgstr ""
+"|mana_x|, |tap|: Ten stwór zadaje wskazanemu stworowi X obrażeń. Wydaj na X "
+"tylko czerwoną manę."
 
 #: ../../6ED.rst:802
 msgid ""
@@ -2362,7 +2398,7 @@ msgstr ""
 
 #: ../../6ED.rst:823
 msgid "Target creature gets +3/+3 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 i pierwszy cios."
 
 #: ../../6ED.rst:828
 msgid ""
@@ -2373,7 +2409,7 @@ msgstr ""
 
 #: ../../6ED.rst:827
 msgid "|mana_r|: Flame Spirit gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../6ED.rst:832
 msgid ""
@@ -2406,7 +2442,7 @@ msgstr ""
 
 #: ../../6ED.rst:841
 msgid "|tap|, Sacrifice Goblin Digging Team: Destroy target Wall."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Zniszcz wskazaną Ścianę."
 
 #: ../../6ED.rst:846
 msgid ""
@@ -2454,6 +2490,9 @@ msgid ""
 "number of Goblin cards, reveal them, then shuffle and put those cards on top "
 "in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece dowolną "
+"liczbę kart typu Goblin, ujawnij je, po czym przetasuj i umieść owe karty "
+"dowolnie na wierzchu."
 
 #: ../../6ED.rst:862
 msgid ""
@@ -2467,6 +2506,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice two Goblins: Create three 1/1 red Goblin "
 "creature tokens."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć dwa Gobliny: Stwórz trzy żetony czerwonego "
+"stwora Goblin 1/1."
 
 #: ../../6ED.rst:868
 msgid ""
@@ -2513,6 +2554,11 @@ msgid ""
 "the high bid and gains control of the creature. (This effect lasts "
 "indefinitely.)"
 msgstr ""
+"Każdy gracz może licytować życiem o władanie nad wskazanym stworem. Ty "
+"zaczynasz stawką 0. Zgodnie z kolejnością tury każdy gracz może przebić "
+"stawkę. Licytacja kończy się jeśli stawka nie zostanie przebita. Oferent "
+"najwyższej stawki traci życie równe stawce i zyskuje władanie nad owym "
+"stworem. (Ten efekt trwa stale.)"
 
 #: ../../6ED.rst:880
 msgid ""
@@ -2654,6 +2700,8 @@ msgid ""
 "|mana_1|\\ |mana_r|: Reckless Embermage deals 1 damage to any target and 1 "
 "damage to itself."
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie oraz 1 "
+"obrażenie sobie."
 
 #: ../../6ED.rst:924
 msgid ""
@@ -2789,6 +2837,8 @@ msgid ""
 "Vertigo deals 2 damage to target creature with flying. That creature loses "
 "flying until end of turn."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi mającemu latanie 2 obrażenia. Ów stwór "
+"traci do końca tury latanie."
 
 #: ../../6ED.rst:968
 msgid ""
@@ -2893,7 +2943,7 @@ msgstr ""
 
 #: ../../6ED.rst:1005
 msgid "Creatures can't be the targets of spells."
-msgstr ""
+msgstr "Stwory nie mogą być wskazywane przez czary."
 
 #: ../../6ED.rst:1010
 msgid ""
@@ -2918,6 +2968,8 @@ msgid ""
 "|mana_3|\\ |mana_g|, |tap|: You may tap or untap target artifact, creature, "
 "or land."
 msgstr ""
+"|mana_3|\\ |mana_g|, |tap|: Możesz przekręcić lub odkręcić wskazany "
+"artefakt, stwora lub ląd."
 
 #: ../../6ED.rst:1018
 msgid ""
@@ -2960,7 +3012,7 @@ msgstr ""
 
 #: ../../6ED.rst:1029
 msgid "Put target land on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazany ląd na wierzchu biblioteki właściciela."
 
 #: ../../6ED.rst:1034
 msgid ""
@@ -2972,6 +3024,8 @@ msgstr ""
 #: ../../6ED.rst:1033
 msgid "Each creature you control can't be blocked by more than one creature."
 msgstr ""
+"Każdy stwór pod twoim władaniem nie może być blokowany przez więcej niż "
+"jednego stwora."
 
 #: ../../6ED.rst:1038
 msgid ""
@@ -3009,7 +3063,7 @@ msgstr ""
 
 #: ../../6ED.rst:1045
 msgid "|mana_2|\\ |mana_g|, |tap|: Untap target creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|, |tap|: Odkręć wskazanego stwora."
 
 #: ../../6ED.rst:1050
 msgid ""
@@ -3053,7 +3107,7 @@ msgstr ""
 
 #: ../../6ED.rst:1061
 msgid "|mana_1|\\ |mana_g|: Regenerate Gorilla Chieftain."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../6ED.rst:1064
 msgid ""
@@ -3083,7 +3137,7 @@ msgstr ""
 
 #: ../../6ED.rst:1073
 msgid "All Forests are 1/1 creatures that are still lands."
-msgstr ""
+msgstr "Wszystkie Kasy są stworami 1/1 pozostając lądami."
 
 #: ../../6ED.rst:1078
 msgid ""
@@ -3130,7 +3184,7 @@ msgstr ""
 
 #: ../../6ED.rst:1091
 msgid "Each player draws a card for each creature card in their graveyard."
-msgstr ""
+msgstr "Każdy gracz dobiera kartę za każdą kartę stwora w swoim cmentarzu."
 
 #: ../../6ED.rst:1094
 msgid ""
@@ -3149,7 +3203,7 @@ msgstr ""
 #: ../../6ED.rst:1099
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury -2/-0."
 
 #: ../../6ED.rst:1104
 msgid ""
@@ -3160,7 +3214,7 @@ msgstr ""
 
 #: ../../6ED.rst:1103
 msgid "|tap|: Target creature loses flying until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór traci do końca tury latanie."
 
 #: ../../6ED.rst:1108
 msgid ""
@@ -3210,7 +3264,7 @@ msgstr ""
 
 #: ../../6ED.rst:1123
 msgid "|mana_g|: Regenerate River Boa."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj tego stwora."
 
 #: ../../6ED.rst:1128
 msgid ""
@@ -3224,6 +3278,8 @@ msgid ""
 "Reveal the first card you draw each turn. Whenever you reveal a basic land "
 "card this way, draw a card."
 msgstr ""
+"Ujawnij pierwszą kartę dobieraną przez ciebie w danej turze. Ilekroć "
+"ujawnisz w ten sposób bazowy ląd, dobierz kartę."
 
 #: ../../6ED.rst:1130
 msgid ""
@@ -3284,6 +3340,8 @@ msgid ""
 "Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, "
 "destroy that creature at end of combat."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany przez stwora bez typu "
+"Ściana, zniszcz owego stwora na końcu potyczki."
 
 #: ../../6ED.rst:1154
 msgid ""
@@ -3301,7 +3359,7 @@ msgstr ""
 
 #: ../../6ED.rst:1159
 msgid "|mana_1|\\ |mana_g|\\ |mana_g|: Destroy all other enchantments."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|\\ |mana_g|: Zniszcz wszystkie inne uroki."
 
 #: ../../6ED.rst:1164
 msgid ""
@@ -3323,7 +3381,7 @@ msgstr ""
 
 #: ../../6ED.rst:1167
 msgid "When Uktabi Orangutan enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../6ED.rst:1174
 msgid ""
@@ -3337,10 +3395,12 @@ msgid ""
 "Uktabi Wildcats's power and toughness are each equal to the number of "
 "Forests you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie Lasów pod twoim "
+"władaniem."
 
 #: ../../6ED.rst:1173
 msgid "|mana_g|, Sacrifice a Forest: Regenerate Uktabi Wildcats."
-msgstr ""
+msgstr "|mana_g|, poświęć Las: Zregeneruj tego stwora."
 
 #: ../../6ED.rst:1180
 msgid ""
@@ -3354,6 +3414,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_g|: Target creature gains forestwalk until end "
 "of turn."
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_g|: Wskazany stwór zyskuje do końca tury podbój "
+"lasów."
 
 #: ../../6ED.rst:1184
 msgid ""
@@ -3390,7 +3452,7 @@ msgstr ""
 
 #: ../../6ED.rst:1191
 msgid "Untap all creatures you control."
-msgstr ""
+msgstr "Odkręć wszystkie stwory pod twoim władaniem."
 
 #: ../../6ED.rst:1196
 msgid ""
@@ -3404,6 +3466,8 @@ msgid ""
 "Each player creates a 1/1 green Cat creature token for each untapped Forest "
 "they control."
 msgstr ""
+"Każdy gracz tworzy żeton zielonego stwora Kot 1/1 za każdy odkręcony Las pod "
+"swoim władaniem."
 
 #: ../../6ED.rst:1200
 msgid ""
@@ -3473,7 +3537,7 @@ msgstr ""
 
 #: ../../6ED.rst:1221
 msgid "You may choose not to untap Amber Prison during your untap step."
-msgstr ""
+msgstr "Możesz nie odkręcać tego artefaktu w swoim kroku odkręcania."
 
 #: ../../6ED.rst:1223
 msgid ""
@@ -3481,6 +3545,9 @@ msgid ""
 "doesn't untap during its controller's untap step for as long as Amber Prison "
 "remains tapped."
 msgstr ""
+"|mana_4|, |tap|: Przekręć wskazany artefakt, stwora lub ląd. Ów permanent "
+"nie odkręca się w kroku odkręcania swojego władcy przez czas pozostawania "
+"tego artefaktu przekręconym."
 
 #: ../../6ED.rst:1228
 msgid ""
@@ -3494,6 +3561,8 @@ msgid ""
 "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to "
 "that land's controller."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy, ten artefakt zadaje władcy owego lądu 2 "
+"obrażenia."
 
 #: ../../6ED.rst:1232
 msgid ""
@@ -3519,6 +3588,9 @@ msgid ""
 "create a 5/5 colorless Djinn artifact creature token with flying. If you "
 "lose the flip, Bottle of Suleiman deals 5 damage to you."
 msgstr ""
+"|mana_1|, poświęć ten artefakt: Rzuć monetą. Jeśli wygrasz rzut, stwórz "
+"żeton bezkolorowego artefaktowego stwora Dżin 5/5 z lataniem. Jeśli "
+"przegrasz rzut, ten artefakt zadaje tobie 5 obrażeń."
 
 #: ../../6ED.rst:1242
 msgid ""
@@ -3529,7 +3601,7 @@ msgstr ""
 
 #: ../../6ED.rst:1239
 msgid "Charcoal Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1241 ../../6ED.rst:1459
 msgid "|tap|: Add |mana_b|."
@@ -3559,7 +3631,7 @@ msgstr ""
 
 #: ../../6ED.rst:1249
 msgid "Activated abilities of creatures can't be activated."
-msgstr ""
+msgstr "Aktywowane zdolności stworów nie mogą być aktywowane."
 
 #: ../../6ED.rst:1254
 msgid ""
@@ -3607,7 +3679,7 @@ msgstr ""
 
 #: ../../6ED.rst:1265
 msgid "|mana_2|: Dragon Engine gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../6ED.rst:1270
 msgid ""
@@ -3622,6 +3694,9 @@ msgid ""
 "Return it to its owner's hand at the beginning of the next end step. (Return "
 "it only if it's on the battlefield.)"
 msgstr ""
+"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem dostaje do końca tury +2/"
+"+2. Przywróć go do ręki właściciela na początku najbliższego kroku "
+"końcowego. (Przywróć go tylko jeśli jest na polu bitwy.)"
 
 #: ../../6ED.rst:1276
 msgid ""
@@ -3632,7 +3707,7 @@ msgstr ""
 
 #: ../../6ED.rst:1273
 msgid "Fire Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1275 ../../6ED.rst:1451
 msgid "|tap|: Add |mana_r|."
@@ -3669,7 +3744,7 @@ msgstr ""
 
 #: ../../6ED.rst:1287
 msgid "|tap|: Look at target player's hand."
-msgstr ""
+msgstr "|tap|: Spójrz na rękę wskazanego gracza."
 
 #: ../../6ED.rst:1292
 msgid ""
@@ -3685,6 +3760,11 @@ msgid ""
 "your next upkeep, you may play that card. At the beginning of your next "
 "upkeep, if you haven't played it, put it into its owner's graveyard."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj kartę w bibliotece "
+"przeciwnika i wygnaj ją. Ów gracz tasuje. Do początku twojego najbliższego "
+"kroku utrzymania, możesz zagrać ową kartę. Na początku twojego najbliższego "
+"kroku utrzymania, jeśli nie zagrałeś owej karty, umieść ją w cmentarzu "
+"właściciela."
 
 #: ../../6ED.rst:1296
 msgid ""
@@ -3760,6 +3840,9 @@ msgid ""
 "|mana_1|: The next time a source of your choice would deal damage to target "
 "creature this turn, that source deals that damage to you instead."
 msgstr ""
+"|mana_1|: Najbliższy raz w tej turze, gdy wybrane przez ciebie źródło "
+"miałoby zadać obrażenia wskazanemu stworowi, zamiast tego owe źródło zadaje "
+"owe obrażenia tobie."
 
 #: ../../6ED.rst:1316
 msgid ""
@@ -3795,6 +3878,8 @@ msgid ""
 "Whenever Lead Golem attacks, it doesn't untap during its controller's next "
 "untap step."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, nie odkręca się w najbliższym kroku odkręcania "
+"swojego władcy."
 
 #: ../../6ED.rst:1330
 msgid ""
@@ -3821,7 +3906,7 @@ msgstr ""
 
 #: ../../6ED.rst:1333
 msgid "Marble Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1335 ../../6ED.rst:1481
 msgid "|tap|: Add |mana_w|."
@@ -3862,7 +3947,7 @@ msgstr ""
 
 #: ../../6ED.rst:1347
 msgid "Moss Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1354
 msgid ""
@@ -3876,6 +3961,8 @@ msgid ""
 "|mana_1|, |tap|: Target land becomes the basic land type of your choice "
 "until end of turn."
 msgstr ""
+"|mana_1|, |tap|: Wskazany ląd staje się do końca tury bazowym lądem o "
+"wybranym przez ciebie typie."
 
 #: ../../6ED.rst:1356
 msgid ""
@@ -3914,6 +4001,8 @@ msgid ""
 "|mana_4|, |tap|: The next time a source of your choice would deal damage to "
 "you this turn, prevent that damage."
 msgstr ""
+"|mana_4|, |tap|: Najbliższy raz w tej turze, gdy wybrane przez ciebie źródło "
+"miałoby zadać tobie obrażenia, zażegnaj je."
 
 #: ../../6ED.rst:1374
 msgid ""
@@ -3968,6 +4057,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice a creature: Skull Catapult deals 2 damage to any "
 "target."
 msgstr ""
+"|mana_1|, |tap|, poświęć stwora: Ten artefakt zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../6ED.rst:1392
 msgid ""
@@ -3978,7 +4069,7 @@ msgstr ""
 
 #: ../../6ED.rst:1389
 msgid "Sky Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1391 ../../6ED.rst:1495
 msgid "|tap|: Add |mana_u|."
@@ -3996,6 +4087,8 @@ msgid ""
 "|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_x|, poświęć ten artefakt: Stwórz X żetonów zielonego stwora Wąż 1/1. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../6ED.rst:1400
 msgid ""
@@ -4008,6 +4101,8 @@ msgstr ""
 msgid ""
 "Whenever a creature dies, you may pay |mana_1|. If you do, you gain 1 life."
 msgstr ""
+"Ilekroć umrze stwór, możesz zapłacić |mana_1|. Jeśli tak zrobisz, zyskaj 1 "
+"życie."
 
 #: ../../6ED.rst:1406
 msgid ""
@@ -4018,11 +4113,13 @@ msgstr ""
 
 #: ../../6ED.rst:1403
 msgid "Each player may play an additional land during each of their turns."
-msgstr ""
+msgstr "Każdy gracz może zagrać dodatkowy ląd w każdej ze swoich tur."
 
 #: ../../6ED.rst:1405
 msgid "Whenever a land is tapped for mana, return it to its owner's hand."
 msgstr ""
+"Ilekroć ląd zostanie przekręcony przy pobieraniu many, przywróć go do ręki "
+"właściciela."
 
 #: ../../6ED.rst:1410
 msgid ""
@@ -4068,6 +4165,9 @@ msgid ""
 "|tap|: Look at the top card of target player's library. If it's a nonland "
 "card, you may pay 2 life. If you do, put it into that player's graveyard."
 msgstr ""
+"|tap|: Spójrz na wierzchnią kartę biblioteki wskazanego gracza. Jeśli to "
+"nielądowa karta, możesz zapłacić 2 życia. Jeśli tak zrobisz, umieść ją w "
+"cmentarzu owego gracza."
 
 #: ../../6ED.rst:1422
 msgid ""
@@ -4126,7 +4226,7 @@ msgstr ""
 
 #: ../../6ED.rst:1445
 msgid "|tap|, Sacrifice Crystal Vein: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |colorless|\\ |colorless|."
 
 #: ../../6ED.rst:1454
 msgid ""
@@ -4137,11 +4237,11 @@ msgstr ""
 
 #: ../../6ED.rst:1449
 msgid "Dwarven Ruins enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1453
 msgid "|tap|, Sacrifice Dwarven Ruins: Add |mana_r|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |mana_r|\\ |mana_r|."
 
 #: ../../6ED.rst:1462
 msgid ""
@@ -4152,11 +4252,11 @@ msgstr ""
 
 #: ../../6ED.rst:1457
 msgid "Ebon Stronghold enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1461
 msgid "|tap|, Sacrifice Ebon Stronghold: Add |mana_b|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |mana_b|\\ |mana_b|."
 
 #: ../../6ED.rst:1470
 msgid ""
@@ -4167,11 +4267,11 @@ msgstr ""
 
 #: ../../6ED.rst:1465
 msgid "Havenwood Battleground enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1469
 msgid "|tap|, Sacrifice Havenwood Battleground: Add |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |mana_g|\\ |mana_g|."
 
 #: ../../6ED.rst:1476
 msgid ""
@@ -4194,11 +4294,11 @@ msgstr ""
 
 #: ../../6ED.rst:1479
 msgid "Ruins of Trokair enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1483
 msgid "|tap|, Sacrifice Ruins of Trokair: Add |mana_w|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |mana_w|\\ |mana_w|."
 
 #: ../../6ED.rst:1490
 msgid ""
@@ -4221,11 +4321,11 @@ msgstr ""
 
 #: ../../6ED.rst:1493
 msgid "Svyelunite Temple enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../6ED.rst:1497
 msgid "|tap|, Sacrifice Svyelunite Temple: Add |mana_u|\\ |mana_u|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |mana_u|\\ |mana_u|."
 
 #: ../../6ED.rst:1504
 msgid ""

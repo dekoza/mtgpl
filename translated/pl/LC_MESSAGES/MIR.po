@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -1928,12 +1928,16 @@ msgid ""
 "If you would draw a card, return a card from your graveyard to your hand "
 "instead. If you can't, you lose the game."
 msgstr ""
+"Jeśli masz dobrać kartę, zamiast tego przywróć kartę z twojego cmentarza do "
+"twojej ręki. Jeśli nie możesz, przegrywasz grę."
 
 #: ../../MIR.rst:689
 msgid ""
 "If a card would be put into your graveyard from anywhere, exile that card "
 "instead."
 msgstr ""
+"Jeśli karta miałaby trafić skądkolwiek do twojego cmentarza, zamiast tego "
+"wygnaj ją."
 
 #: ../../MIR.rst:698
 msgid ""
@@ -1986,6 +1990,8 @@ msgid ""
 "If Gravebane Zombie would die, put Gravebane Zombie on top of its owner's "
 "library instead."
 msgstr ""
+"Jeśli ten stwór miałby umrzeć, zamiast tego umieść go na wierzchu biblioteki "
+"właściciela."
 
 #: ../../MIR.rst:714
 msgid ""
@@ -2007,7 +2013,7 @@ msgstr ""
 
 #: ../../MIR.rst:717
 msgid "Draw four cards. You lose half your life, rounded up."
-msgstr ""
+msgstr "Dobierz cztery karty. Strać połowę swoich żyć, zaokrąglając wzwyż."
 
 #: ../../MIR.rst:722
 msgid ""
@@ -2058,6 +2064,8 @@ msgid ""
 "Look at target opponent's hand and choose a card from it. Put that card on "
 "top of that player's library."
 msgstr ""
+"Spójrz na rękę wskazanego gracza i wybierz z niej kartę. Umieść ową kartę na "
+"wierzchu biblioteki owego gracza."
 
 #: ../../MIR.rst:740
 msgid ""
@@ -2253,7 +2261,7 @@ msgstr ""
 
 #: ../../MIR.rst:809
 msgid "Target opponent discards a card at random, then discards a card."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca losową kartę, po czym odrzuca kartę."
 
 #: ../../MIR.rst:816
 msgid ""
@@ -2561,6 +2569,8 @@ msgid ""
 "|mana_x|, |tap|: Crimson Hellkite deals X damage to target creature. Spend "
 "only red mana on X."
 msgstr ""
+"|mana_x|, |tap|: Ten stwór zadaje wskazanemu stworowi X obrażeń. Wydaj na X "
+"tylko czerwoną manę."
 
 #: ../../MIR.rst:934
 msgid ""
@@ -2780,6 +2790,11 @@ msgid ""
 "the high bid and gains control of the creature. (This effect lasts "
 "indefinitely.)"
 msgstr ""
+"Każdy gracz może licytować życiem o władanie nad wskazanym stworem. Ty "
+"zaczynasz stawką 0. Zgodnie z kolejnością tury każdy gracz może przebić "
+"stawkę. Licytacja kończy się jeśli stawka nie zostanie przebita. Oferent "
+"najwyższej stawki traci życie równe stawce i zyskuje władanie nad owym "
+"stworem. (Ten efekt trwa stale.)"
 
 #: ../../MIR.rst:1008
 msgid ""
@@ -2867,6 +2882,8 @@ msgid ""
 "|mana_1|\\ |mana_r|: Reckless Embermage deals 1 damage to any target and 1 "
 "damage to itself."
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie oraz 1 "
+"obrażenie sobie."
 
 #: ../../MIR.rst:1042
 msgid ""
@@ -3212,7 +3229,7 @@ msgstr ""
 
 #: ../../MIR.rst:1165
 msgid "Put target land on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazany ląd na wierzchu biblioteki właściciela."
 
 #: ../../MIR.rst:1170
 msgid ""
@@ -3678,10 +3695,12 @@ msgid ""
 "Uktabi Wildcats's power and toughness are each equal to the number of "
 "Forests you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie Lasów pod twoim "
+"władaniem."
 
 #: ../../MIR.rst:1335
 msgid "|mana_g|, Sacrifice a Forest: Regenerate Uktabi Wildcats."
-msgstr ""
+msgstr "|mana_g|, poświęć Las: Zregeneruj tego stwora."
 
 #: ../../MIR.rst:1342
 msgid ""
@@ -3703,6 +3722,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_g|: Target creature gains forestwalk until end "
 "of turn."
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_g|: Wskazany stwór zyskuje do końca tury podbój "
+"lasów."
 
 #: ../../MIR.rst:1346
 msgid ""
@@ -3738,6 +3759,8 @@ msgid ""
 "Each player creates a 1/1 green Cat creature token for each untapped Forest "
 "they control."
 msgstr ""
+"Każdy gracz tworzy żeton zielonego stwora Kot 1/1 za każdy odkręcony Las pod "
+"swoim władaniem."
 
 #: ../../MIR.rst:1360
 msgid ""
@@ -4304,7 +4327,7 @@ msgstr ""
 
 #: ../../MIR.rst:1563
 msgid "You may choose not to untap Amber Prison during your untap step."
-msgstr ""
+msgstr "Możesz nie odkręcać tego artefaktu w swoim kroku odkręcania."
 
 #: ../../MIR.rst:1565
 msgid ""
@@ -4312,6 +4335,9 @@ msgid ""
 "doesn't untap during its controller's untap step for as long as Amber Prison "
 "remains tapped."
 msgstr ""
+"|mana_4|, |tap|: Przekręć wskazany artefakt, stwora lub ląd. Ów permanent "
+"nie odkręca się w kroku odkręcania swojego władcy przez czas pozostawania "
+"tego artefaktu przekręconym."
 
 #: ../../MIR.rst:1570
 msgid ""
@@ -4367,7 +4393,7 @@ msgstr ""
 
 #: ../../MIR.rst:1583
 msgid "Charcoal Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIR.rst:1585
 msgid "|tap|: Add |mana_b|."
@@ -4409,7 +4435,7 @@ msgstr ""
 
 #: ../../MIR.rst:1597
 msgid "Activated abilities of creatures can't be activated."
-msgstr ""
+msgstr "Aktywowane zdolności stworów nie mogą być aktywowane."
 
 #: ../../MIR.rst:1606
 msgid ""
@@ -4454,7 +4480,7 @@ msgstr ""
 
 #: ../../MIR.rst:1615
 msgid "Fire Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIR.rst:1617
 msgid "|tap|: Add |mana_r|."
@@ -4474,6 +4500,11 @@ msgid ""
 "your next upkeep, you may play that card. At the beginning of your next "
 "upkeep, if you haven't played it, put it into its owner's graveyard."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj kartę w bibliotece "
+"przeciwnika i wygnaj ją. Ów gracz tasuje. Do początku twojego najbliższego "
+"kroku utrzymania, możesz zagrać ową kartę. Na początku twojego najbliższego "
+"kroku utrzymania, jeśli nie zagrałeś owej karty, umieść ją w cmentarzu "
+"właściciela."
 
 #: ../../MIR.rst:1626
 msgid ""
@@ -4511,6 +4542,8 @@ msgid ""
 "Whenever Lead Golem attacks, it doesn't untap during its controller's next "
 "untap step."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, nie odkręca się w najbliższym kroku odkręcania "
+"swojego władcy."
 
 #: ../../MIR.rst:1638
 msgid ""
@@ -4565,7 +4598,7 @@ msgstr ""
 
 #: ../../MIR.rst:1653
 msgid "Marble Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIR.rst:1655
 msgid "|tap|: Add |mana_w|."
@@ -4593,7 +4626,7 @@ msgstr ""
 
 #: ../../MIR.rst:1663
 msgid "Moss Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIR.rst:1670
 msgid ""
@@ -4679,7 +4712,7 @@ msgstr ""
 
 #: ../../MIR.rst:1695
 msgid "Sky Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIR.rst:1697
 msgid "|tap|: Add |mana_u|."
@@ -4773,7 +4806,7 @@ msgstr ""
 
 #: ../../MIR.rst:1727
 msgid "|tap|, Sacrifice Crystal Vein: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Weź |colorless|\\ |colorless|."
 
 #: ../../MIR.rst:1734
 msgid ""

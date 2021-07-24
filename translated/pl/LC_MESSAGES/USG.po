@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -2036,10 +2036,13 @@ msgid ""
 "At the beginning of the end step, if no creatures are on the battlefield, "
 "sacrifice Pestilence."
 msgstr ""
+"Na początku kroku końcowego, jeśli na polu bitwy nie ma stwora, poświęć ten "
+"urok."
 
 #: ../../USG.rst:729
 msgid "|mana_b|: Pestilence deals 1 damage to each creature and each player."
 msgstr ""
+"|mana_b|: Ten urok zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
 #: ../../USG.rst:734
 msgid ""

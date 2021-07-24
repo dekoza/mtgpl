@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vis/pl/>\n"
 "Language: pl\n"
@@ -1231,6 +1231,9 @@ msgid ""
 "number of Goblin cards, reveal them, then shuffle and put those cards on top "
 "in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece dowolną "
+"liczbę kart typu Goblin, ujawnij je, po czym przetasuj i umieść owe karty "
+"dowolnie na wierzchu."
 
 #: ../../VIS.rst:432
 msgid ""
@@ -1780,7 +1783,7 @@ msgstr ""
 
 #: ../../VIS.rst:633
 msgid "|mana_g|: Regenerate River Boa."
-msgstr ""
+msgstr "|mana_g|: Zregeneruj tego stwora."
 
 #: ../../VIS.rst:638
 msgid ""
@@ -1794,6 +1797,8 @@ msgid ""
 "Reveal the first card you draw each turn. Whenever you reveal a basic land "
 "card this way, draw a card."
 msgstr ""
+"Ujawnij pierwszą kartę dobieraną przez ciebie w danej turze. Ilekroć "
+"ujawnisz w ten sposób bazowy ląd, dobierz kartę."
 
 #: ../../VIS.rst:646
 msgid ""
@@ -1858,7 +1863,7 @@ msgstr ""
 
 #: ../../VIS.rst:659
 msgid "When Uktabi Orangutan enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../VIS.rst:664
 msgid ""
@@ -2152,6 +2157,9 @@ msgid ""
 "Return it to its owner's hand at the beginning of the next end step. (Return "
 "it only if it's on the battlefield.)"
 msgstr ""
+"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem dostaje do końca tury +2/"
+"+2. Przywróć go do ręki właściciela na początku najbliższego kroku "
+"końcowego. (Przywróć go tylko jeśli jest na polu bitwy.)"
 
 #: ../../VIS.rst:770
 msgid ""
@@ -2308,6 +2316,8 @@ msgid ""
 "|mana_x|, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_x|, poświęć ten artefakt: Stwórz X żetonów zielonego stwora Wąż 1/1. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../VIS.rst:830
 msgid ""
@@ -2365,6 +2375,9 @@ msgid ""
 "|tap|: Look at the top card of target player's library. If it's a nonland "
 "card, you may pay 2 life. If you do, put it into that player's graveyard."
 msgstr ""
+"|tap|: Spójrz na wierzchnią kartę biblioteki wskazanego gracza. Jeśli to "
+"nielądowa karta, możesz zapłacić 2 życia. Jeśli tak zrobisz, umieść ją w "
+"cmentarzu owego gracza."
 
 #: ../../VIS.rst:852
 msgid ""

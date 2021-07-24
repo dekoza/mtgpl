@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ptk/pl/>\n"
 "Language: pl\n"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../../PTK.rst:77
 msgid "Untap all creatures you control."
-msgstr ""
+msgstr "Odkręć wszystkie stwory pod twoim władaniem."
 
 #: ../../PTK.rst:82
 msgid ""
@@ -1505,6 +1505,8 @@ msgstr ""
 #: ../../PTK.rst:553
 msgid "Each creature you control can't be blocked by more than one creature."
 msgstr ""
+"Każdy stwór pod twoim władaniem nie może być blokowany przez więcej niż "
+"jednego stwora."
 
 #: ../../PTK.rst:558
 msgid ""
