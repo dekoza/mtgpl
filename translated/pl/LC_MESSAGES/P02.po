@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-06-04 10:12+0000\n"
+"PO-Revision-Date: 2021-07-24 11:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/p02/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../P02.rst:5
 msgid ":mtgexp:`P02` Portal Second Age"
@@ -181,7 +181,7 @@ msgstr ""
 
 #: ../../P02.rst:67
 msgid "Target opponent draws a card."
-msgstr ""
+msgstr "Wskazany przeciwnik dobiera kartę."
 
 #: ../../P02.rst:69
 msgid "You gain 7 life."
@@ -236,7 +236,7 @@ msgstr ""
 
 #: ../../P02.rst:87
 msgid "Destroy target creature. Its owner gains 4 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Jego władca zyskuje 4 życia."
 
 #: ../../P02.rst:94
 msgid ""
@@ -272,6 +272,8 @@ msgid ""
 "Destroy all tapped creatures. You gain 2 life for each creature destroyed "
 "this way."
 msgstr ""
+"Zniszcz wszystkie przekręcone stwory. Zyskaj po 2 życia za każdego stwora "
+"zniszczonego w ten sposób."
 
 #: ../../P02.rst:106
 msgid ""
@@ -470,6 +472,8 @@ msgid ""
 "Look at the top card of target player's library. You may put that card into "
 "their graveyard."
 msgstr ""
+"Spójrz na wierzchnią kartę biblioteki wskazanego gracza. Możesz umieścić ową "
+"kartę w jego cmentarzu."
 
 #: ../../P02.rst:180
 msgid ""
@@ -505,6 +509,8 @@ msgid ""
 "Until end of turn, you may tap lands you don't control for mana. Spend this "
 "mana only to cast spells."
 msgstr ""
+"Do końca tury możesz przekręcać lądy poza twoim władaniem by pobrać manę. "
+"Wydaj ową manę tylko na rzucanie czarów."
 
 #: ../../P02.rst:194
 msgid ""
@@ -693,7 +699,7 @@ msgstr ""
 
 #: ../../P02.rst:263
 msgid "Return two target creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../P02.rst:268
 msgid ""
@@ -704,7 +710,7 @@ msgstr ""
 
 #: ../../P02.rst:267
 msgid "One or two target creatures gain flying until end of turn."
-msgstr ""
+msgstr "Jeden lub dwa wskazane stwory zyskują do końca tury latanie."
 
 #: ../../P02.rst:272
 msgid ""
@@ -807,7 +813,7 @@ msgstr ""
 
 #: ../../P02.rst:303
 msgid "Dakmor Plague deals 3 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 3 obrażenia."
 
 #: ../../P02.rst:306
 msgid ""
@@ -825,7 +831,7 @@ msgstr ""
 
 #: ../../P02.rst:311
 msgid "Dakmor Sorceress's power is equal to the number of Swamps you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie Bagien pod twoim władaniem."
 
 #: ../../P02.rst:316
 msgid ""
@@ -836,7 +842,7 @@ msgstr ""
 
 #: ../../P02.rst:315
 msgid "Destroy target nonblack creature. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora. Zyskaj 3 życia."
 
 #: ../../P02.rst:322
 msgid ""
@@ -1129,6 +1135,8 @@ msgid ""
 "Whenever Goblin General attacks, Goblin creatures you control get +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, Gobliny pod twoim władaniem dostają do końca "
+"tury +1/+1."
 
 #: ../../P02.rst:426
 msgid ""
@@ -1236,7 +1244,7 @@ msgstr ""
 
 #: ../../P02.rst:457
 msgid "Jagged Lightning deals 3 damage to each of two target creatures."
-msgstr ""
+msgstr "Ten czar zadaje każdemu z dwóch wskazany stworów po 3 obrażenia."
 
 #: ../../P02.rst:462
 msgid ""
@@ -1570,6 +1578,8 @@ msgid ""
 "Search your library for a Forest card and put that card onto the "
 "battlefield. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Lasu i umieść ją na polu bitwy. Następnie "
+"przetasuj."
 
 #: ../../P02.rst:580
 msgid ""
@@ -1653,6 +1663,8 @@ msgid ""
 "Shuffle any number of target creature cards from your graveyard into your "
 "library."
 msgstr ""
+"Wtasuj dowolną liczbę wskazanych kart stworów z twojego cmentarza do twojej "
+"biblioteki."
 
 #: ../../P02.rst:612
 msgid ""
@@ -1704,7 +1716,7 @@ msgstr ""
 
 #: ../../P02.rst:623
 msgid "Sylvan Yeti's power is equal to the number of cards in your hand."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie kart w twojej ręce."
 
 #: ../../P02.rst:628
 msgid ""
@@ -1725,6 +1737,8 @@ msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją na polu bitwy. "
+"Następnie przetasuj."
 
 #: ../../P02.rst:636
 msgid ""

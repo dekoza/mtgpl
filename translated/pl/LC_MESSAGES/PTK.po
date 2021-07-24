@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-04-18 21:27+0000\n"
+"PO-Revision-Date: 2021-07-24 11:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ptk/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../PTK.rst:5
 msgid ":mtgexp:`PTK` Portal Three Kingdoms"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../PTK.rst:63
 msgid "Destroy target creature. Its owner gains 4 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Jego władca zyskuje 4 życia."
 
 #: ../../PTK.rst:68
 msgid ""
@@ -951,7 +951,7 @@ msgstr ""
 
 #: ../../PTK.rst:347
 msgid "Destroy target nonblack creature. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora. Zyskaj 3 życia."
 
 #: ../../PTK.rst:352
 msgid ""
@@ -1458,6 +1458,8 @@ msgid ""
 "Take an extra turn after this one. At the beginning of that turn's end step, "
 "you lose the game."
 msgstr ""
+"Weź dodatkową turę po obecnej. Na początku kroku końcowego owej tury, "
+"przegrywasz grę."
 
 #: ../../PTK.rst:538
 msgid ""

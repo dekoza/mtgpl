@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-04-19 21:26+0000\n"
+"PO-Revision-Date: 2021-07-24 11:16+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/s99/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../S99.rst:5
 msgid ":mtgexp:`S99` Starter 1999"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ../../S99.rst:35
 msgid "Target opponent draws a card."
-msgstr ""
+msgstr "Wskazany przeciwnik dobiera kartę."
 
 #: ../../S99.rst:37
 msgid "You gain 7 life."
@@ -149,6 +149,8 @@ msgstr ""
 #: ../../S99.rst:53
 msgid "Prevent all damage that would be dealt to Champion Lancer by creatures."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane temu stworowi "
+"przez stwory."
 
 #: ../../S99.rst:58
 msgid ""
@@ -159,7 +161,7 @@ msgstr ""
 
 #: ../../S99.rst:57
 msgid "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+3."
 
 #: ../../S99.rst:60
 msgid ""
@@ -177,7 +179,7 @@ msgstr ""
 
 #: ../../S99.rst:65
 msgid "When Devout Monk enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../S99.rst:68
 msgid ""
@@ -196,6 +198,7 @@ msgstr ""
 #: ../../S99.rst:73
 msgid "Target player skips all combat phases of their next turn."
 msgstr ""
+"Wskazany gracz pomija wszystkie fazy potyczek w swojej najbliższej turze."
 
 #: ../../S99.rst:76
 msgid ""
@@ -213,7 +216,7 @@ msgstr ""
 
 #: ../../S99.rst:81
 msgid "You gain 2 life for each card in your hand."
-msgstr ""
+msgstr "Zyskaj po 2 życia za każdą kartę w twojej ręce."
 
 #: ../../S99.rst:84
 msgid ""
@@ -244,7 +247,7 @@ msgstr ""
 
 #: ../../S99.rst:93
 msgid "Destroy target creature. Its owner gains 4 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Jego władca zyskuje 4 życia."
 
 #: ../../S99.rst:98
 msgid ""
@@ -269,6 +272,8 @@ msgid ""
 "Destroy all tapped creatures. You gain 2 life for each creature destroyed "
 "this way."
 msgstr ""
+"Zniszcz wszystkie przekręcone stwory. Zyskaj po 2 życia za każdego stwora "
+"zniszczonego w ten sposób."
 
 #: ../../S99.rst:106
 msgid ""
@@ -286,7 +291,7 @@ msgstr ""
 
 #: ../../S99.rst:109
 msgid "Whenever Royal Trooper blocks, it gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór blokuje, dostaje do końca tury +2/+2."
 
 #: ../../S99.rst:114
 msgid ""
@@ -308,7 +313,7 @@ msgstr ""
 
 #: ../../S99.rst:117
 msgid "Creatures you control get +0/+3 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+3."
 
 #: ../../S99.rst:122
 msgid ""
@@ -428,6 +433,8 @@ msgid ""
 "Look at the top card of target player's library. You may put that card into "
 "their graveyard."
 msgstr ""
+"Spójrz na wierzchnią kartę biblioteki wskazanego gracza. Możesz umieścić ową "
+"kartę w jego cmentarzu."
 
 #: ../../S99.rst:164
 msgid ""
@@ -447,6 +454,7 @@ msgstr ""
 msgid ""
 "When Ingenious Thief enters the battlefield, look at target player's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego gracza."
 
 #: ../../S99.rst:176
 msgid ""
@@ -482,6 +490,7 @@ msgstr ""
 msgid ""
 "When Owl Familiar enters the battlefield, draw a card, then discard a card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../S99.rst:190
 msgid ""
@@ -506,6 +515,8 @@ msgid ""
 "Until end of turn, you may tap lands you don't control for mana. Spend this "
 "mana only to cast spells."
 msgstr ""
+"Do końca tury możesz przekręcać lądy poza twoim władaniem by pobrać manę. "
+"Wydaj ową manę tylko na rzucanie czarów."
 
 #: ../../S99.rst:198
 msgid ""
@@ -519,6 +530,8 @@ msgid ""
 "If the difference between your life total and target player's life total is "
 "5 or less, exchange life totals with that player."
 msgstr ""
+"Jeśli różnica między twoją liczbą żyć i liczbą żyć wskazanego gracza wynosi "
+"5 lub mniej, zamień się liczbą żyć z owym graczem."
 
 #: ../../S99.rst:202
 msgid ""
@@ -533,6 +546,9 @@ msgid ""
 "them on the bottom of that library in any order and the rest on top of the "
 "library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart biblioteki wskazanego gracza. Umieść dowolną "
+"liczbę z nich dowolnie na spodzie owej biblioteki, a pozostałe dowolnie na "
+"wierzchu owej biblioteki."
 
 #: ../../S99.rst:206
 msgid ""
@@ -655,7 +671,7 @@ msgstr ""
 
 #: ../../S99.rst:245
 msgid "Return two target creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../S99.rst:248
 msgid ""
@@ -687,7 +703,7 @@ msgstr ""
 
 #: ../../S99.rst:261
 msgid "One or two target creatures gain flying until end of turn."
-msgstr ""
+msgstr "Jeden lub dwa wskazane stwory zyskują do końca tury latanie."
 
 #: ../../S99.rst:268
 msgid ""
@@ -700,6 +716,7 @@ msgstr ""
 msgid ""
 "When Abyssal Horror enters the battlefield, target player discards two cards."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz odrzuca dwie karty."
 
 #: ../../S99.rst:272
 msgid ""
@@ -779,6 +796,8 @@ msgid ""
 "When Dakmor Ghoul enters the battlefield, target opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a "
+"ty zyskaj 2 życia."
 
 #: ../../S99.rst:300
 msgid ""
@@ -791,6 +810,7 @@ msgstr ""
 msgid ""
 "When Dakmor Lancer enters the battlefield, destroy target nonblack creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieczarnego stwora."
 
 #: ../../S99.rst:304
 msgid ""
@@ -801,7 +821,7 @@ msgstr ""
 
 #: ../../S99.rst:303
 msgid "Dakmor Plague deals 3 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 3 obrażenia."
 
 #: ../../S99.rst:306
 msgid ""
@@ -819,7 +839,7 @@ msgstr ""
 
 #: ../../S99.rst:311
 msgid "Dakmor Sorceress's power is equal to the number of Swamps you control."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie Bagien pod twoim władaniem."
 
 #: ../../S99.rst:316
 msgid ""
@@ -830,7 +850,7 @@ msgstr ""
 
 #: ../../S99.rst:315
 msgid "Destroy target nonblack creature. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora. Zyskaj 3 życia."
 
 #: ../../S99.rst:322
 msgid ""
@@ -841,7 +861,7 @@ msgstr ""
 
 #: ../../S99.rst:321
 msgid "When Dread Reaper enters the battlefield, you lose 5 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 5 żyć."
 
 #: ../../S99.rst:326
 msgid ""
@@ -982,7 +1002,7 @@ msgstr ""
 
 #: ../../S99.rst:375
 msgid "Whenever Shrieking Specter attacks, defending player discards a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, broniący się gracz odrzuca kartę."
 
 #: ../../S99.rst:380
 msgid ""
@@ -1004,7 +1024,7 @@ msgstr ""
 
 #: ../../S99.rst:383
 msgid "Destroy target land or nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazany ląd lub nieczarnego stwora."
 
 #: ../../S99.rst:388
 msgid ""
@@ -1015,7 +1035,7 @@ msgstr ""
 
 #: ../../S99.rst:387
 msgid "Destroy two target nonblack creatures. You lose 5 life."
-msgstr ""
+msgstr "Zniszcz dwa wskazane nieczarne stwory. Strać 5 żyć."
 
 #: ../../S99.rst:392
 msgid ""
@@ -1026,7 +1046,7 @@ msgstr ""
 
 #: ../../S99.rst:391
 msgid "Cinder Storm deals 7 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 7 obrażeń."
 
 #: ../../S99.rst:396
 msgid ""
@@ -1037,7 +1057,7 @@ msgstr ""
 
 #: ../../S99.rst:395
 msgid "Destroy all creatures and lands."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory i lądy."
 
 #: ../../S99.rst:398
 msgid ""
@@ -1062,7 +1082,7 @@ msgstr ""
 
 #: ../../S99.rst:407
 msgid "Fire Tempest deals 6 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
 #: ../../S99.rst:410
 msgid ""
@@ -1113,6 +1133,8 @@ msgid ""
 "Whenever Goblin General attacks, Goblin creatures you control get +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, Gobliny pod twoim władaniem dostają do końca "
+"tury +1/+1."
 
 #: ../../S99.rst:430
 msgid ""
@@ -1167,7 +1189,7 @@ msgstr ""
 
 #: ../../S99.rst:445
 msgid "When Goblin Settler enters the battlefield, destroy target land."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany ląd."
 
 #: ../../S99.rst:450
 msgid ""
@@ -1178,7 +1200,7 @@ msgstr ""
 
 #: ../../S99.rst:449
 msgid "Hulking Goblin can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../S99.rst:454
 msgid ""
@@ -1189,7 +1211,7 @@ msgstr ""
 
 #: ../../S99.rst:453
 msgid "Hulking Ogre can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../S99.rst:458
 msgid ""
@@ -1200,7 +1222,7 @@ msgstr ""
 
 #: ../../S99.rst:457
 msgid "Jagged Lightning deals 3 damage to each of two target creatures."
-msgstr ""
+msgstr "Ten czar zadaje każdemu z dwóch wskazany stworów po 3 obrażenia."
 
 #: ../../S99.rst:462
 msgid ""
@@ -1214,6 +1236,8 @@ msgid ""
 "Take an extra turn after this one. At the beginning of that turn's end step, "
 "you lose the game."
 msgstr ""
+"Weź dodatkową turę po obecnej. Na początku kroku końcowego owej tury, "
+"przegrywasz grę."
 
 #: ../../S99.rst:466
 msgid ""
@@ -1271,7 +1295,7 @@ msgstr ""
 
 #: ../../S99.rst:485
 msgid "Scorching Spear deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../S99.rst:490
 msgid ""
@@ -1311,6 +1335,8 @@ msgid ""
 "When Thunder Dragon enters the battlefield, it deals 3 damage to each "
 "creature without flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu stworowi nie "
+"mającemu latania po 3 obrażenia."
 
 #: ../../S99.rst:502
 msgid ""
@@ -1477,6 +1503,8 @@ msgid ""
 "Green creatures you control gain forestwalk until end of turn. (They can't "
 "be blocked as long as defending player controls a Forest.)"
 msgstr ""
+"Zielone stwory pod twoim władaniem zyskują do końca tury podbój lasów. (Nie "
+"mogą być blokowane o ile broniący się gracz włada Lasem.)"
 
 #: ../../S99.rst:568
 msgid ""
@@ -1490,6 +1518,8 @@ msgid ""
 "Search your library for a Forest card and put that card onto the "
 "battlefield. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Lasu i umieść ją na polu bitwy. Następnie "
+"przetasuj."
 
 #: ../../S99.rst:572
 msgid ""
@@ -1521,6 +1551,8 @@ msgid ""
 "You may have Pride of Lions assign its combat damage as though it weren't "
 "blocked."
 msgstr ""
+"Możesz sprawić, że ten stwór przypisze swoje obrażenia bojowe tak, jakby nie "
+"został zablokowany."
 
 #: ../../S99.rst:584
 msgid ""
@@ -1534,6 +1566,8 @@ msgid ""
 "Shuffle any number of target creature cards from your graveyard into your "
 "library."
 msgstr ""
+"Wtasuj dowolną liczbę wskazanych kart stworów z twojego cmentarza do twojej "
+"biblioteki."
 
 #: ../../S99.rst:586
 msgid ""
@@ -1558,7 +1592,7 @@ msgstr ""
 
 #: ../../S99.rst:595
 msgid "Squall deals 2 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi mającemu latanie po 2 obrażenia."
 
 #: ../../S99.rst:600
 msgid ""
@@ -1594,7 +1628,7 @@ msgstr ""
 
 #: ../../S99.rst:607
 msgid "Sylvan Yeti's power is equal to the number of cards in your hand."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie kart w twojej ręce."
 
 #: ../../S99.rst:612
 msgid ""
@@ -1623,6 +1657,8 @@ msgid ""
 "Search your library for a basic land card and put that card onto the "
 "battlefield. Then shuffle your library."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją na polu bitwy. "
+"Następnie przetasuj."
 
 #: ../../S99.rst:618
 msgid ""
@@ -1640,7 +1676,7 @@ msgstr ""
 
 #: ../../S99.rst:623
 msgid "Destroy all creatures with flying."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory mające latanie."
 
 #: ../../S99.rst:628
 msgid ""
