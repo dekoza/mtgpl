@@ -3,6 +3,7 @@ Spis zmian
 ***********
 
 2021-07-24
+   * Classic Sixth Edition - 100%
    * Starter 1999 - 100%
 
 2021-07-23
