@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-24 12:28+0000\n"
+"PO-Revision-Date: 2021-07-24 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -1601,7 +1601,7 @@ msgstr ""
 
 #: ../../USG.rst:581
 msgid "Destroy target land or nonblack creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany ląd lub nieczarnego stwora. Nie może on zregenerować."
 
 #: ../../USG.rst:586
 msgid ""
@@ -1612,7 +1612,7 @@ msgstr ""
 
 #: ../../USG.rst:585
 msgid "Whenever a green creature dies, its controller discards a card."
-msgstr ""
+msgstr "Ilekroć umrze zielony stwór, jego władca odrzuca kartę."
 
 #: ../../USG.rst:590
 msgid ""
@@ -1756,7 +1756,7 @@ msgstr ""
 
 #: ../../USG.rst:633
 msgid "All creatures are black."
-msgstr ""
+msgstr "Wszystkie stwory są czarne."
 
 #: ../../USG.rst:642
 msgid ""
@@ -1973,7 +1973,7 @@ msgstr ""
 
 #: ../../USG.rst:707
 msgid "Whenever a player casts a spell, that player discards a card."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar, ów gracz odrzuca kartę."
 
 #: ../../USG.rst:714
 msgid ""
@@ -2129,6 +2129,8 @@ msgid ""
 "Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for "
 "each permanent sacrificed this way."
 msgstr ""
+"Poświęć dowolną liczbę artefaktów, stworów i/lub lądów. Dobierz kartę za "
+"każdy permanent poświęcony w ten sposób."
 
 #: ../../USG.rst:766
 msgid ""
@@ -2221,6 +2223,7 @@ msgid ""
 "Whenever a creature enters the battlefield, its controller sacrifices a "
 "creature or land."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy, jego władca poświęca stwora lub ląd."
 
 #: ../../USG.rst:806
 msgid ""
@@ -2351,6 +2354,8 @@ msgid ""
 "Whenever an opponent casts a white spell, that player loses 1 life and you "
 "gain 1 life."
 msgstr ""
+"Ilekroć przeciwnik rzuci biały czar, ów gracz traci 1 życie, a ty zyskaj 1 "
+"życie."
 
 #: ../../USG.rst:856
 msgid ""
@@ -2420,7 +2425,7 @@ msgstr ""
 
 #: ../../USG.rst:871
 msgid "Creatures can't block."
-msgstr ""
+msgstr "Stwory nie mogą blokować."
 
 #: ../../USG.rst:878
 msgid ""
@@ -2509,6 +2514,8 @@ msgid ""
 "Disorder deals 2 damage to each white creature and each player who controls "
 "a white creature."
 msgstr ""
+"Ten czar zadaje każdemu białemu stworowi oraz każdemu graczowi władającemu "
+"białym stworem po 2 obrażenia."
 
 #: ../../USG.rst:908
 msgid ""
@@ -3815,7 +3822,7 @@ msgstr ""
 #: ../../USG.rst:1373
 msgid ""
 "Treefolk Seedlings's toughness is equal to the number of Forests you control."
-msgstr ""
+msgstr "Wytrzymałość tej karty jest równa liczbie Lasów pod twoim władaniem."
 
 #: ../../USG.rst:1378
 msgid ""
@@ -4230,6 +4237,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Pit Trap: Destroy target attacking creature "
 "without flying. It can't be regenerated."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Zniszcz wskazanego atakującego stwora "
+"nie mającego latania. Nie może on zregenerować."
 
 #: ../../USG.rst:1520
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-07-24 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/exo/pl/>\n"
 "Language: pl\n"
@@ -493,6 +493,8 @@ msgid ""
 "Whenever you cast a creature spell, you may pay |mana_1|. If you do, return "
 "target creature to its owner's hand."
 msgstr ""
+"Ilekroć rzucisz czar stwora, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../EXO.rst:172
 msgid ""
@@ -572,6 +574,8 @@ msgid ""
 "Whenever a player casts a spell, that player returns a land they control to "
 "its owner's hand."
 msgstr ""
+"Ilekroć gracz rzuci czar, ów gracz przywraca ląd pod swoim władaniem do ręki "
+"właściciela."
 
 #: ../../EXO.rst:198
 msgid ""
@@ -960,7 +964,7 @@ msgstr ""
 
 #: ../../EXO.rst:339
 msgid "Cast this spell only during your end step."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko w trakcie swojego kroku końcowego."
 
 #: ../../EXO.rst:343
 msgid "Draw X cards."

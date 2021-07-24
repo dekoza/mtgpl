@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-23 17:02+0000\n"
+"PO-Revision-Date: 2021-07-24 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ulg/pl/>\n"
 "Language: pl\n"
@@ -441,11 +441,11 @@ msgstr ""
 
 #: ../../ULG.rst:151
 msgid "When Delusions of Mediocrity enters the battlefield, you gain 10 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 10 żyć."
 
 #: ../../ULG.rst:153
 msgid "When Delusions of Mediocrity leaves the battlefield, you lose 10 life."
-msgstr ""
+msgstr "Kiedy ten urok opuści pole bitwy, strać 10 żyć."
 
 #: ../../ULG.rst:160
 msgid ""
@@ -664,7 +664,7 @@ msgstr ""
 
 #: ../../ULG.rst:241
 msgid "|mana_2|\\ |mana_u|: Untap Vigilant Drake."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Odkręć tego stwora."
 
 #: ../../ULG.rst:246
 msgid ""
@@ -734,11 +734,11 @@ msgstr ""
 
 #: ../../ULG.rst:265
 msgid "As Engineered Plague enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy, wybierz typ stwora."
 
 #: ../../ULG.rst:267
 msgid "All creatures of the chosen type get -1/-1."
-msgstr ""
+msgstr "Wszystkie stwory wybranego typu dostają -1/-1."
 
 #: ../../ULG.rst:274
 msgid ""
@@ -810,6 +810,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a creature card from it. That "
 "player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę stwora. Ów "
+"gracz odrzuca ową kartę."
 
 #: ../../ULG.rst:300
 msgid ""
@@ -1078,6 +1080,8 @@ msgid ""
 "|tap|, Sacrifice Ghitu Fire-Eater: It deals damage equal to its power to any "
 "target."
 msgstr ""
+"|tap|, poświęć tego stwora: Zadaje on wskazanemu celowi obrażenia równe "
+"swojej sile."
 
 #: ../../ULG.rst:400
 msgid ""
@@ -1148,7 +1152,7 @@ msgstr ""
 
 #: ../../ULG.rst:417
 msgid "Enchanted creature gets +1/+0 for each Mountain you control."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0 za każdą Górę pod twoim władaniem."
 
 #: ../../ULG.rst:422
 msgid ""
@@ -1232,11 +1236,11 @@ msgstr ""
 
 #: ../../ULG.rst:447
 msgid "Pygmy Pyrosaur can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ULG.rst:449
 msgid "|mana_r|: Pygmy Pyrosaur gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ULG.rst:454
 msgid ""
@@ -1454,6 +1458,8 @@ msgid ""
 "Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of turn for "
 "each creature blocking it."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2 za "
+"każdego stwora blokującego go."
 
 #: ../../ULG.rst:534
 msgid ""

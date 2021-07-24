@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-24 12:28+0000\n"
+"PO-Revision-Date: 2021-07-24 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -3338,6 +3338,8 @@ msgid ""
 "Creatures you control have menace. (They can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
+"Stwory pod twoim władaniem mają złowrogość. (Nie mogą być blokowane, chyba "
+"że przez co najmniej dwa stwory.)"
 
 #: ../../5ED.rst:1210
 msgid ""
@@ -4420,7 +4422,7 @@ msgstr ""
 
 #: ../../5ED.rst:1613
 msgid "|mana_g|, |tap|, Sacrifice Scavenger Folk: Destroy target artifact."
-msgstr ""
+msgstr "|mana_g|, |tap|, poświęć tego stwora: Zniszcz wskazany artefakt."
 
 #: ../../5ED.rst:1618
 msgid ""
@@ -5031,7 +5033,7 @@ msgstr ""
 
 #: ../../5ED.rst:1827
 msgid "Creature spells cost |mana_2| more to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów kosztuje o |mana_2| więcej."
 
 #: ../../5ED.rst:1832
 msgid ""
@@ -5092,6 +5094,7 @@ msgstr ""
 msgid ""
 "|tap|: Grapeshot Catapult deals 1 damage to target creature with flying."
 msgstr ""
+"|tap|: Ten artefakt zadaje wskazanemu stworowi mającemu latanie 1 obrażenie."
 
 #: ../../5ED.rst:1852
 msgid ""
@@ -5213,7 +5216,7 @@ msgstr ""
 
 #: ../../5ED.rst:1883
 msgid "|mana_3|, |tap|: Untap target creature."
-msgstr ""
+msgstr "|mana_3|, |tap|: Odkręć wskazanego stwora."
 
 #: ../../5ED.rst:1888
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-16 14:47+0200\n"
-"PO-Revision-Date: 2021-07-24 12:28+0000\n"
+"PO-Revision-Date: 2021-07-24 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tmp/pl/>\n"
 "Language: pl\n"
@@ -1070,7 +1070,7 @@ msgstr ""
 
 #: ../../TMP.rst:377
 msgid "|tap|: Mawcor deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TMP.rst:382
 msgid ""
@@ -1462,7 +1462,7 @@ msgstr ""
 
 #: ../../TMP.rst:527
 msgid "|tap|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../TMP.rst:532
 msgid ""
@@ -1511,6 +1511,8 @@ msgid ""
 "Whenever Bellowing Fiend deals damage to a creature, Bellowing Fiend deals 3 "
 "damage to that creature's controller and 3 damage to you."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia, zadaje on władcy owego stwora 3 "
+"obrażenia oraz 3 obrażenia tobie."
 
 #: ../../TMP.rst:552
 msgid ""
@@ -1800,7 +1802,7 @@ msgstr ""
 
 #: ../../TMP.rst:661
 msgid "Destroy X target nonblack creatures. Draw X cards."
-msgstr ""
+msgstr "Zniszcz X wskazanych nieczarnych stworów. Dobierz X kart."
 
 #: ../../TMP.rst:670
 msgid ""
@@ -3246,7 +3248,7 @@ msgstr ""
 
 #: ../../TMP.rst:1185
 msgid "All lands are 2/2 creatures that are still lands."
-msgstr ""
+msgstr "Wszystkie lądy są stworami 2/2 pozostając lądami."
 
 #: ../../TMP.rst:1190
 msgid ""
@@ -3435,7 +3437,7 @@ msgstr ""
 
 #: ../../TMP.rst:1251
 msgid "|tap|: Untap target creature."
-msgstr ""
+msgstr "|tap|: Odkręć wskazanego stwora."
 
 #: ../../TMP.rst:1258
 msgid ""
@@ -4167,6 +4169,8 @@ msgid ""
 "As long as Static Orb is untapped, players can't untap more than two "
 "permanents during their untap steps."
 msgstr ""
+"O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż dwóch "
+"permanentów podczas swoich kroków odkręcania."
 
 #: ../../TMP.rst:1512
 msgid ""
