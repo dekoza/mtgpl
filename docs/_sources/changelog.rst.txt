@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-07-24
+   * Starter 1999 - 100%
+
 2021-07-23
    * Scars of Mirrodin - 100%
 

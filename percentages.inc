@@ -14,11 +14,11 @@
 
 .. |GPT_percent| image:: images/pie50.png        
 
-.. |MIR_percent| image:: images/pie25.png        
+.. |MIR_percent| image:: images/pie30.png        
 
 .. |CM1_percent| image:: images/pie60.png        
 
-.. |USG_percent| image:: images/pie35.png        
+.. |USG_percent| image:: images/pie40.png        
 
 .. |MRD_percent| image:: images/pie40.png        
 
@@ -41,7 +41,7 @@
 
 .. |LRW_percent| image:: images/pie35.png        
 
-.. |EXO_percent| image:: images/pie25.png        
+.. |EXO_percent| image:: images/pie30.png        
 
 .. |M13_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -68,7 +68,8 @@
 
 .. |5DN_percent| image:: images/pie35.png        
 
-.. |S99_percent| image:: images/pie60.png        
+.. |S99_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |STX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -98,7 +99,7 @@
 
 .. |TOR_percent| image:: images/pie35.png        
 
-.. |P02_percent| image:: images/pie50.png        
+.. |P02_percent| image:: images/pie65.png        
 
 .. |ATQ_percent| image:: images/pie40.png        
 
@@ -121,7 +122,7 @@
 
 .. |DIS_percent| image:: images/pie45.png        
 
-.. |POR_percent| image:: images/pie50.png        
+.. |POR_percent| image:: images/pie60.png        
 
 .. |JMP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -229,7 +230,7 @@
 
 .. |PLS_percent| image:: images/pie30.png        
 
-.. |WWK_percent| image:: images/pie40.png        
+.. |WWK_percent| image:: images/pie45.png        
 
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -303,7 +304,7 @@
 
 .. |KHC_percent| image:: images/pie70.png        
 
-.. |ONS_percent| image:: images/pie30.png        
+.. |ONS_percent| image:: images/pie35.png        
 
 .. |MM2_percent| image:: images/pie80.png        
 
