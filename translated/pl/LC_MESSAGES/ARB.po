@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-05 12:21+0000\n"
+"PO-Revision-Date: 2021-07-25 16:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arb/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../ARB.rst:5
@@ -230,6 +230,8 @@ msgid ""
 "Whenever equipped creature blocks a creature, that creature doesn't untap "
 "during its controller's next untap step."
 msgstr ""
+"Ilekroć wyposażony stwór zablokuje stwora, ów stwór nie odkręci się w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../ARB.rst:71 ../../ARB.rst:153 ../../ARB.rst:617
 msgid "Equip |mana_2|"
@@ -265,6 +267,8 @@ msgid ""
 "Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of "
 "turn."
 msgstr ""
+"Poświęć tego stwora: Stwory pod twoim władaniem zyskują do końca tury "
+"latanie."
 
 #: ../../ARB.rst:88
 msgid ""
@@ -311,10 +315,12 @@ msgid ""
 "When Architects of Will enters the battlefield, look at the top three cards "
 "of target player's library, then put them back in any order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
+"biblioteki wskazanego gracza, po czym odłóż je w dowolnej kolejności."
 
 #: ../../ARB.rst:103
 msgid "Cycling |mana_ub| (|mana_ub|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_ub| (|mana_ub|, odrzuć kartę: Dobierz kartę.)"
 
 #: ../../ARB.rst:110
 msgid ""
@@ -360,6 +366,10 @@ msgid ""
 "Exile it at the beginning of the next end step or if it would leave the "
 "battlefield. Unearth only as a sorcery.)"
 msgstr ""
+"Odkopanie |mana_1|\\ |mana_u|\\ |mana_b| (|mana_1|\\ |mana_u|\\ |mana_b|: "
+"Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
+"Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ARB.rst:126
 msgid ""
@@ -370,7 +380,7 @@ msgstr ""
 
 #: ../../ARB.rst:125
 msgid "When you cast a spell, sacrifice Illusory Demon."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, poświęć tego stwora."
 
 #: ../../ARB.rst:132
 msgid ""
@@ -406,7 +416,7 @@ msgstr ""
 
 #: ../../ARB.rst:137
 msgid "|mana_b|: Regenerate Kathari Remnant."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj tego stwora."
 
 #: ../../ARB.rst:146
 msgid ""
@@ -420,12 +430,16 @@ msgid ""
 "|mana_u|\\ |mana_b|, |tap|: Create a 1/1 blue and black Zombie Wizard "
 "creature token."
 msgstr ""
+"|mana_u|\\ |mana_b|, |tap|: Stwórz żeton czarno-niebieskiego stwora "
+"Czarodziej Zombi 1/1."
 
 #: ../../ARB.rst:145
 msgid ""
 "|mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|: Target player loses X life and "
 "mills X cards, where X is the number of Zombies you control."
 msgstr ""
+"|mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|: Wskazany gracz traci X żyć i "
+"mieli X kart, gdzie X jest liczbą Zombi pod twoim władaniem."
 
 #: ../../ARB.rst:154
 msgid ""
@@ -439,6 +453,8 @@ msgid ""
 "Equipped creature has fear. (It can't be blocked except by artifact "
 "creatures and/or black creatures.)"
 msgstr ""
+"Wyposażony stwór ma postrach. (Nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../ARB.rst:151
 msgid ""
@@ -460,6 +476,9 @@ msgid ""
 "cards are revealed. That player puts all cards revealed this way into their "
 "graveyard."
 msgstr ""
+"Wskazany przeciwnik ujawnia karty z wierzchu swojej biblioteki aż ujawni "
+"cztery karty lądów. Ów gracz umieszcza wszystkie karty ujawnione w ten "
+"sposób w swoim cmentarzu."
 
 #: ../../ARB.rst:166
 msgid ""
@@ -470,7 +489,7 @@ msgstr ""
 
 #: ../../ARB.rst:163
 msgid "Mistvein Borderpost enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../ARB.rst:165
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -485,7 +504,7 @@ msgstr ""
 
 #: ../../ARB.rst:169
 msgid "Whenever Nemesis of Reason attacks, defending player mills ten cards."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, broniący się gracz mieli dziesięć kart."
 
 #: ../../ARB.rst:178
 msgid ""
@@ -518,6 +537,8 @@ msgid ""
 "Return all creatures on the battlefield and all creature cards in graveyards "
 "to their owners' hands."
 msgstr ""
+"Przywróć wszystkie stwory na polu bitwy oraz wszystkie karty stworów z "
+"cmentarzy do rąk ich właścicieli."
 
 #: ../../ARB.rst:186
 msgid ""
@@ -540,6 +561,7 @@ msgstr ""
 #: ../../ARB.rst:189
 msgid "Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, broniący się gracz traci 4 życia."
 
 #: ../../ARB.rst:196
 msgid ""
@@ -553,6 +575,8 @@ msgid ""
 "When Anathemancer enters the battlefield, it deals damage to target player "
 "equal to the number of nonbasic lands that player controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu graczowi obrażenia "
+"równe liczbie niebazowych lądów pod władaniem owego gracza."
 
 #: ../../ARB.rst:195
 msgid ""
@@ -561,6 +585,10 @@ msgid ""
 "Exile it at the beginning of the next end step or if it would leave the "
 "battlefield. Unearth only as a sorcery.)"
 msgstr ""
+"Odkopanie |mana_5|\\ |mana_b|\\ |mana_r| (|mana_5|\\ |mana_b|\\ |mana_r|: "
+"Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
+"Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../ARB.rst:202
 msgid ""
@@ -571,7 +599,7 @@ msgstr ""
 
 #: ../../ARB.rst:201
 msgid "Bituminous Blast deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../ARB.rst:206
 msgid ""
@@ -582,7 +610,7 @@ msgstr ""
 
 #: ../../ARB.rst:205
 msgid "Breath of Malfegor deals 5 damage to each opponent."
-msgstr ""
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 5 obrażeń."
 
 #: ../../ARB.rst:212
 msgid ""
@@ -596,12 +624,15 @@ msgid ""
 "Whenever another creature dies, you may put a +1/+1 counter on Deathbringer "
 "Thoctar."
 msgstr ""
+"Ilekroć umrze inny stwór, możesz umieścić znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../ARB.rst:211
 msgid ""
 "Remove a +1/+1 counter from Deathbringer Thoctar: It deals 1 damage to any "
 "target."
 msgstr ""
+"Usuń znacznik +1/+1 z tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
 
 #: ../../ARB.rst:218
 msgid ""
