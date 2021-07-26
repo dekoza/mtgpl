@@ -37,7 +37,9 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Standard: :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent| (Premiera: 2021-07-23)
+* Standard: :mtgexp:`ICV` Innistrad: Crimson Vow (Premiera: 2021-11-19)
+* Standard: :mtgexp:`IMH` Innistrad: Midnight Hunt (Premiera: 2021-09-24)
+
 
 Standard
 --------
@@ -45,6 +47,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|
 * :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|

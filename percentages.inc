@@ -128,7 +128,7 @@
 .. |JMP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ARB_percent| image:: images/pie45.png        
+.. |ARB_percent| image:: images/pie60.png        
 
 .. |ALL_percent| image:: images/pie20.png        
 
