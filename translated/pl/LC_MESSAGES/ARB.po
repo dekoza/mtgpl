@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-25 16:55+0000\n"
+"PO-Revision-Date: 2021-07-26 11:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arb/pl/>\n"
 "Language: pl\n"
@@ -646,6 +646,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player sacrifices a "
 "monocolored creature."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz poświęca "
+"jednokolorowego stwora."
 
 #: ../../ARB.rst:224
 msgid ""
@@ -667,7 +669,7 @@ msgstr ""
 
 #: ../../ARB.rst:227
 msgid "|mana_x|: Equipped creature gets +X/+0 until end of turn."
-msgstr ""
+msgstr "|mana_x|: Wyposażony stwór dostaje do końca tury +X/+0."
 
 #: ../../ARB.rst:229
 msgid "Equip |mana_1|"
@@ -733,18 +735,24 @@ msgid ""
 "Haste; fear (This creature can't be blocked except by artifact creatures and/"
 "or black creatures.)"
 msgstr ""
+"Pośpiech, postrach (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktowe i/lub czarne.)"
 
 #: ../../ARB.rst:249
 msgid ""
 "Whenever Lightning Reaver deals combat damage to a player, put a charge "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik "
+"ładunku."
 
 #: ../../ARB.rst:251
 msgid ""
 "At the beginning of your end step, Lightning Reaver deals damage equal to "
 "the number of charge counters on it to each opponent."
 msgstr ""
+"Na początku twojego kroku końcowego, ten stwór zadaje każdemu przeciwnikowi "
+"po tyle obrażeń, ile ma znaczników ładunku."
 
 #: ../../ARB.rst:258
 msgid ""
@@ -759,7 +767,7 @@ msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../ARB.rst:257
 msgid "Cycling |mana_br| (|mana_br|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_br| (|mana_br|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../ARB.rst:262
 msgid ""
@@ -773,6 +781,7 @@ msgid ""
 "When Sanity Gnawers enters the battlefield, target player discards a card at "
 "random."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz odrzuca losową kartę."
 
 #: ../../ARB.rst:266
 msgid ""
@@ -786,6 +795,8 @@ msgid ""
 "When Singe-Mind Ogre enters the battlefield, target player reveals a card at "
 "random from their hand, then loses life equal to that card's mana value."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz ujawnia losową kartę "
+"ze swojej ręki, po czym traci życia równe skrótowi many owej karty."
 
 #: ../../ARB.rst:270
 msgid ""
