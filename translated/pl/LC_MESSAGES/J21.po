@@ -1,21 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 11:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-07-27 09:51+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../J21.rst:5
 msgid ":mtgexp:`J21` Jumpstart: Historic Horizons"
@@ -88,7 +89,7 @@ msgstr ""
 
 #: ../../J21.rst:29
 msgid "Changeling"
-msgstr ""
+msgstr "Zmiennokształtny"
 
 #: ../../J21.rst:31
 msgid ""
@@ -135,10 +136,12 @@ msgid ""
 "Look at the top three cards of your library, then put them back in any "
 "order. You may shuffle."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki, po czym umieść je z "
+"powrotem w dowolnej kolejności. Możesz przetasować."
 
 #: ../../J21.rst:45
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../J21.rst:52
 msgid ""
@@ -150,7 +153,7 @@ msgstr ""
 
 #: ../../J21.rst:49
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../J21.rst:51
 msgid ""
@@ -171,12 +174,17 @@ msgid ""
 "library for a creature card with mana value 1 or less, reveal it, put it "
 "into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę stwora o skrócie many 1 lub mniejszym, ujawnij ją i umieść w twojej "
+"ręce, po czym przetasuj."
 
 #: ../../J21.rst:57
 msgid ""
 "Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature "
 "spells this turn."
 msgstr ""
+"Poświęć tego stwora: Twoi przeciwnicy nie mogą w tej turze rzucać nie-"
+"stworowych czarów."
 
 #: ../../J21.rst:64
 msgid ""
@@ -191,12 +199,17 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"swoim kolorze.)"
 
 #: ../../J21.rst:63
 msgid ""
 "Return X target creature cards with mana value 2 or less from your graveyard "
 "to the battlefield."
 msgstr ""
+"Przywróć X wskazanych kart stworów o skrócie many 2 lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../J21.rst:72
 msgid ""
@@ -229,7 +242,7 @@ msgstr ""
 
 #: ../../J21.rst:75 ../../J21.rst:83
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../J21.rst:80
 msgid ""
@@ -287,7 +300,7 @@ msgstr ""
 
 #: ../../J21.rst:97
 msgid "(|tap|: Add |mana_g| or |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g| lub |mana_u|.)"
 
 #: ../../J21.rst:104
 msgid ""
@@ -301,12 +314,16 @@ msgid ""
 "When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each "
 "other Human you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
+"Człowieku pod twoim władaniem."
 
 #: ../../J21.rst:103
 msgid ""
 "Whenever another Human enters the battlefield under your control, put a +1/"
 "+1 counter on Thalia's Lieutenant."
 msgstr ""
+"Ilekroć inny Człowiek wejdzie na pole bitwy pod twoim władaniem umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../J21.rst:108
 msgid ""

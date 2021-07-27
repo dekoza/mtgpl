@@ -1,21 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 11:33+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-07-27 09:51+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tpr/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../TPR.rst:5
 msgid ":mtgexp:`TPR` Tempest Remastered"
@@ -33,6 +34,8 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../TPR.rst:16
 msgid ""
@@ -48,13 +51,15 @@ msgstr ""
 #: ../../TPR.rst:597 ../../TPR.rst:675 ../../TPR.rst:1033 ../../TPR.rst:1045
 #: ../../TPR.rst:1149
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../TPR.rst:15
 msgid ""
 "Whenever Angelic Protector becomes the target of a spell or ability, Angelic "
 "Protector gets +0/+3 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność, dostaje on do "
+"końca tury +0/+3."
 
 #: ../../TPR.rst:22
 msgid ""
@@ -69,11 +74,15 @@ msgid ""
 "Buyback |mana_3| (You may pay an additional |mana_3| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_3| (Rzucając ten czar możesz zapłacić dodatkowo |mana_3|. Jeśli "
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../TPR.rst:21
 msgid ""
 "Prevent the next 3 damage that would be dealt to target creature this turn."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, jakie mogłyby zostać zadane w tej turze "
+"wskazanemu stworowi."
 
 #: ../../TPR.rst:26
 msgid ""
@@ -87,6 +96,8 @@ msgid ""
 "All Sliver creatures have \"|mana_2|: This creature gets +0/+1 until end of "
 "turn.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_2|: Ten stwór dostaje +0/+1 do końca tury."
+"\""
 
 #: ../../TPR.rst:30
 msgid ""
@@ -105,6 +116,7 @@ msgstr ""
 #: ../../TPR.rst:35
 msgid "When Avenging Angel dies, you may put it on top of its owner's library."
 msgstr ""
+"Kiedy ten stwór umrze, możesz umieścić go na wierzchu biblioteki właściciela."
 
 #: ../../TPR.rst:42
 msgid ""
@@ -116,12 +128,14 @@ msgstr ""
 #: ../../TPR.rst:39
 msgid "Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
+"Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej turze "
+"wskazanemu celowi."
 
 #: ../../TPR.rst:41 ../../TPR.rst:77 ../../TPR.rst:235 ../../TPR.rst:331
 #: ../../TPR.rst:381 ../../TPR.rst:401 ../../TPR.rst:815 ../../TPR.rst:919
 #: ../../TPR.rst:929
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../TPR.rst:46
 msgid ""
@@ -145,7 +159,7 @@ msgstr ""
 
 #: ../../TPR.rst:49
 msgid "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+3."
 
 #: ../../TPR.rst:58
 msgid ""
@@ -158,15 +172,15 @@ msgstr ""
 #: ../../TPR.rst:263 ../../TPR.rst:385 ../../TPR.rst:461 ../../TPR.rst:603
 #: ../../TPR.rst:663 ../../TPR.rst:711
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../TPR.rst:55
 msgid "Enchanted creature gets +1/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+3."
 
 #: ../../TPR.rst:57
 msgid "|mana_w|: Return Conviction to its owner's hand."
-msgstr ""
+msgstr "|mana_w|: Przywróć ten urok do ręki właściciela."
 
 #: ../../TPR.rst:62
 msgid ""
@@ -177,7 +191,7 @@ msgstr ""
 
 #: ../../TPR.rst:61
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../TPR.rst:68
 msgid ""
@@ -204,6 +218,8 @@ msgid ""
 "Whenever a nontoken creature is put into your graveyard from the "
 "battlefield, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafia do twojego cmentarza z pola bitwy, stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../TPR.rst:78
 msgid ""
@@ -214,7 +230,7 @@ msgstr ""
 
 #: ../../TPR.rst:75
 msgid "Target blocking creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany blokujący stwór dostaje do końca tury +4/+4."
 
 #: ../../TPR.rst:82
 msgid ""
@@ -226,6 +242,7 @@ msgstr ""
 #: ../../TPR.rst:81
 msgid "|mana_2|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../TPR.rst:86
 msgid ""
@@ -237,6 +254,8 @@ msgstr ""
 #: ../../TPR.rst:85
 msgid "All creatures lose all abilities and have base power and toughness 1/1."
 msgstr ""
+"Wsztstkie stwory tracą wszystkie zdolności i mają bazowe siłę i wytrzymałość "
+"1/1."
 
 #: ../../TPR.rst:90
 msgid ""
@@ -250,6 +269,9 @@ msgid ""
 "All damage that would be dealt this turn to target creature you control by a "
 "source of your choice is dealt to another target creature instead."
 msgstr ""
+"Wszystkie obrażenia, jakie miałyby zostać zadane w tej turze wskazanemu "
+"stworowi pod twoim władaniem przez wybrane przez ciebie źródło, są zamiast "
+"tego zadawane innemu wskazanemu stworowi."
 
 #: ../../TPR.rst:94
 msgid ""
@@ -260,7 +282,7 @@ msgstr ""
 
 #: ../../TPR.rst:93
 msgid "|mana_w|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../TPR.rst:100
 msgid ""
@@ -271,7 +293,7 @@ msgstr ""
 
 #: ../../TPR.rst:97 ../../TPR.rst:829
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../TPR.rst:99
 msgid "|mana_w|: Mounted Archers can block an additional creature this turn."
@@ -311,7 +333,7 @@ msgstr ""
 
 #: ../../TPR.rst:113
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../TPR.rst:118
 msgid ""
@@ -326,6 +348,9 @@ msgid ""
 "damage before creatures without first strike. It can't be blocked, targeted, "
 "dealt damage, or enchanted by anything black or red.)"
 msgstr ""
+"Pierwszy cios, ochrona przed czarnym i czerwonym (Ten stwór zadaje obrażenia "
+"bojowe przed stworami bez pierwszego ciosu. Nic czarnego ani czerwonego nie "
+"może zablokować, wskazywać, zadać obrażeń ani zauroczyć tego stwora.)"
 
 #: ../../TPR.rst:124
 msgid ""
@@ -354,7 +379,7 @@ msgstr ""
 
 #: ../../TPR.rst:127
 msgid "Target creature deals damage to itself equal to its power."
-msgstr ""
+msgstr "Wskazany stwór zadaje sam sobie obrażenia równe swojej sile."
 
 #: ../../TPR.rst:136
 msgid ""
@@ -365,7 +390,7 @@ msgstr ""
 
 #: ../../TPR.rst:133
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../TPR.rst:135
 msgid "|mana_w|: Return Shackles to its owner's hand."
@@ -399,7 +424,7 @@ msgstr ""
 
 #: ../../TPR.rst:145
 msgid "Destroy target blocked creature."
-msgstr ""
+msgstr "Zniszcz wskazanego zablokowanego stwora."
 
 #: ../../TPR.rst:152
 msgid ""
@@ -415,6 +440,7 @@ msgstr ""
 msgid ""
 "Shadow (This creature can block or be blocked by only creatures with shadow.)"
 msgstr ""
+"Cień (Ten stwór może blokować i być blokowany tylko przez stwory z cieniem.)"
 
 #: ../../TPR.rst:151
 msgid ""
@@ -442,7 +468,7 @@ msgstr ""
 
 #: ../../TPR.rst:161
 msgid "Protection from black"
-msgstr ""
+msgstr "Ochrona przed czarnym"
 
 #: ../../TPR.rst:170
 msgid ""
@@ -453,7 +479,7 @@ msgstr ""
 
 #: ../../TPR.rst:167
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 #: ../../TPR.rst:176
 msgid ""
@@ -505,7 +531,7 @@ msgstr ""
 
 #: ../../TPR.rst:191
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../TPR.rst:196
 msgid ""
@@ -516,7 +542,7 @@ msgstr ""
 
 #: ../../TPR.rst:195
 msgid "When Staunch Defenders enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../TPR.rst:202
 msgid ""
@@ -527,12 +553,12 @@ msgstr ""
 
 #: ../../TPR.rst:199 ../../TPR.rst:623 ../../TPR.rst:819
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../TPR.rst:201
 msgid ""
 "Whenever Wall of Essence is dealt combat damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia bojowe, zyskaj tyle samo żyć."
 
 #: ../../TPR.rst:206
 msgid ""
@@ -567,7 +593,7 @@ msgstr ""
 
 #: ../../TPR.rst:213 ../../TPR.rst:539 ../../TPR.rst:751 ../../TPR.rst:1085
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../TPR.rst:220
 msgid ""
@@ -578,7 +604,7 @@ msgstr ""
 
 #: ../../TPR.rst:219
 msgid "Return target permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent do ręki właściciela."
 
 #: ../../TPR.rst:224
 msgid ""
@@ -589,7 +615,7 @@ msgstr ""
 
 #: ../../TPR.rst:223 ../../TPR.rst:233 ../../TPR.rst:259
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../TPR.rst:230
 msgid ""
@@ -602,6 +628,7 @@ msgstr ""
 msgid ""
 "Whenever enchanted creature deals damage to an opponent, you may draw a card."
 msgstr ""
+"Ilekroć zauroczony stwór zada przeciwnikowi obrażenia, możesz dobrać kartę."
 
 #: ../../TPR.rst:236
 msgid ""
@@ -632,7 +659,7 @@ msgstr ""
 
 #: ../../TPR.rst:243
 msgid "Dream Prowler can't be blocked as long as it's attacking alone."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany o ile atakuje samotnie."
 
 #: ../../TPR.rst:250
 msgid ""
@@ -678,6 +705,8 @@ msgid ""
 "Prevent all combat damage that would be dealt to and dealt by enchanted "
 "creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie zauroczony stwór mógłby zadać lub "
+"mogłyby zostać zadane przez niego."
 
 #: ../../TPR.rst:270
 msgid ""
@@ -765,7 +794,7 @@ msgstr ""
 
 #: ../../TPR.rst:295
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../TPR.rst:302
 msgid ""
@@ -776,7 +805,7 @@ msgstr ""
 
 #: ../../TPR.rst:301
 msgid "|tap|: Mawcor deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TPR.rst:306
 msgid ""
@@ -798,7 +827,7 @@ msgstr ""
 
 #: ../../TPR.rst:309
 msgid "|tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../TPR.rst:314
 msgid ""
@@ -844,7 +873,7 @@ msgstr ""
 
 #: ../../TPR.rst:325
 msgid "Sea Monster can't attack unless defending player controls an Island."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 #: ../../TPR.rst:332
 msgid ""
@@ -868,7 +897,7 @@ msgstr ""
 
 #: ../../TPR.rst:335
 msgid "Draw three cards, then discard a card."
-msgstr ""
+msgstr "Dobierz trzy karty, po czym odrzuć kartę."
 
 #: ../../TPR.rst:342
 msgid ""
@@ -895,6 +924,8 @@ msgid ""
 "Counter target spell with mana value X. (For example, if that spell's mana "
 "cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
+"Skontruj wskazany czar o skrócie many równym X. (Np. jeśli koszt owego czaru "
+"to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
 #: ../../TPR.rst:350
 msgid ""
@@ -940,7 +971,7 @@ msgstr ""
 
 #: ../../TPR.rst:365
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki właściciela."
 
 #: ../../TPR.rst:370
 msgid ""
@@ -951,7 +982,7 @@ msgstr ""
 
 #: ../../TPR.rst:369
 msgid "Target player takes an extra turn after this one."
-msgstr ""
+msgstr "Wskazany gracz bierze dodatkową turę po obecnej."
 
 #: ../../TPR.rst:376
 msgid ""
@@ -975,7 +1006,7 @@ msgstr ""
 
 #: ../../TPR.rst:379
 msgid "You may tap or untap target artifact, creature, or land."
-msgstr ""
+msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
 #: ../../TPR.rst:390
 msgid ""
@@ -1028,7 +1059,7 @@ msgstr ""
 
 #: ../../TPR.rst:407
 msgid "|tap|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../TPR.rst:412
 msgid ""
@@ -1046,7 +1077,7 @@ msgstr ""
 
 #: ../../TPR.rst:415
 msgid "All Sliver creatures have flying."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają latanie."
 
 #: ../../TPR.rst:420
 msgid ""
@@ -1095,6 +1126,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a card from it. That player "
 "discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę. Ów gracz "
+"odrzuca ową kartę."
 
 #: ../../TPR.rst:438
 msgid ""
@@ -1126,6 +1159,8 @@ msgid ""
 "Fear (This creature can't be blocked except by artifact creatures and/or "
 "black creatures.)"
 msgstr ""
+"Postrach (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../TPR.rst:443
 msgid ""
@@ -1144,6 +1179,8 @@ msgid ""
 "Buyback |mana_2| (You may pay an additional |mana_2| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2|. Jeśli "
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../TPR.rst:449
 msgid ""
@@ -1198,6 +1235,7 @@ msgstr ""
 #: ../../TPR.rst:467
 msgid "Destroy target nonblack creature. It can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego nieczarnego stwora. Nie może on zostać zregenerowany."
 
 #: ../../TPR.rst:472
 msgid ""
@@ -1208,7 +1246,7 @@ msgstr ""
 
 #: ../../TPR.rst:471
 msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
-msgstr ""
+msgstr "Weź |mana_b|\\ |mana_b|\\ |mana_b|."
 
 #: ../../TPR.rst:478
 msgid ""
@@ -1250,7 +1288,7 @@ msgstr ""
 
 #: ../../TPR.rst:493
 msgid "Dauthi Slayer attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../TPR.rst:500
 msgid ""
@@ -1275,7 +1313,7 @@ msgstr ""
 #: ../../TPR.rst:503
 msgid ""
 "Whenever a creature is dealt damage, destroy it. It can't be regenerated."
-msgstr ""
+msgstr "Ilekroć stwór otrzyma obrażenia, zniszcz go. Nie może on zregenerować."
 
 #: ../../TPR.rst:508
 msgid ""
@@ -1286,7 +1324,7 @@ msgstr ""
 
 #: ../../TPR.rst:507
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../TPR.rst:512
 msgid ""
@@ -1308,7 +1346,7 @@ msgstr ""
 
 #: ../../TPR.rst:515
 msgid "Target player sacrifices a creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora."
 
 #: ../../TPR.rst:522
 msgid ""
@@ -1341,7 +1379,7 @@ msgstr ""
 
 #: ../../TPR.rst:531
 msgid "Target player discards three cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca trzy karty."
 
 #: ../../TPR.rst:536
 msgid ""
@@ -1355,6 +1393,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"stwora z twojego cmentarza do twojej ręki."
 
 #: ../../TPR.rst:542
 msgid ""
@@ -1381,6 +1421,8 @@ msgid ""
 "Buyback |mana_4| (You may pay an additional |mana_4| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_4| (Rzucając ten czar możesz zapłacić dodatkowo |mana_4|. Jeśli "
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../TPR.rst:547
 msgid "Create a 1/1 black Rat creature token."
@@ -1399,6 +1441,9 @@ msgid ""
 "all creatures they control, then puts all cards they exiled this way onto "
 "the battlefield."
 msgstr ""
+"Każdy gracz wygania wszystkie karty stworów ze swojego cmentarza, po czym "
+"poświęca wszystkie stwory pod swoim władaniem, po czym umieszcza wszystkie "
+"karty wygnane w ten sposób na polu bitwy."
 
 #: ../../TPR.rst:560
 msgid ""
@@ -1409,15 +1454,15 @@ msgstr ""
 
 #: ../../TPR.rst:555
 msgid "Cast this spell only during your end step."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko w trakcie swojego kroku końcowego."
 
 #: ../../TPR.rst:557
 msgid "As an additional cost to cast this spell, pay X life."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 #: ../../TPR.rst:559
 msgid "Draw X cards."
-msgstr ""
+msgstr "Dobierz X kart."
 
 #: ../../TPR.rst:564
 msgid ""
@@ -1442,6 +1487,8 @@ msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control. You lose life equal to its mana value."
 msgstr ""
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
+"władaniem. Strać tyle żyć, ile wynosi jej skrót many."
 
 #: ../../TPR.rst:572
 msgid ""
@@ -1469,6 +1516,8 @@ msgid ""
 "Revenant's power and toughness are each equal to the number of creature "
 "cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart stworów w twoim "
+"cmentarzu."
 
 #: ../../TPR.rst:584
 msgid ""
@@ -1509,7 +1558,7 @@ msgstr ""
 
 #: ../../TPR.rst:593
 msgid "When Serpent Warrior enters the battlefield, you lose 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 3 życia."
 
 #: ../../TPR.rst:600
 msgid ""
@@ -1532,7 +1581,7 @@ msgstr ""
 
 #: ../../TPR.rst:605
 msgid "Enchanted creature gets +3/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: ../../TPR.rst:607
 msgid ""
@@ -1549,7 +1598,7 @@ msgstr ""
 
 #: ../../TPR.rst:611
 msgid "|tap|, Sacrifice a creature: Destroy target nonblack creature."
-msgstr ""
+msgstr "|tap|, poświęć stwora: Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../TPR.rst:616
 msgid ""
@@ -1564,6 +1613,8 @@ msgid ""
 "and choose a card from it. That player discards that card. Activate only as "
 "a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_b|, poświęć tego stwora: Spójrz na rękę wskazanego gracza i "
+"wybierz z niej kartę. Ów gracz odrzuca ową kartę. Aktywuj tylko jako obrzęd."
 
 #: ../../TPR.rst:620
 msgid ""
@@ -1613,6 +1664,8 @@ msgid ""
 "When Anarchist enters the battlefield, you may return target sorcery card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../TPR.rst:638
 msgid ""
@@ -1639,6 +1692,8 @@ msgid ""
 "Mountainwalk (This creature can't be blocked as long as defending player "
 "controls a Mountain.)"
 msgstr ""
+"Podbój gór (Ten stwór nie może być blokowany o ile broniący się gracz włada "
+"Górą.)"
 
 #: ../../TPR.rst:646
 msgid ""
@@ -1687,6 +1742,8 @@ msgid ""
 "Flame Wave deals 4 damage to target player or planeswalker and each creature "
 "that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi oraz każdemu stworowi pod "
+"władaniem owego gracza lub władcy owego wędrowca po 4 obrażenia."
 
 #: ../../TPR.rst:666
 msgid ""
@@ -1708,7 +1765,7 @@ msgstr ""
 
 #: ../../TPR.rst:669 ../../TPR.rst:833
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../TPR.rst:671
 msgid "|mana_r|: Flowstone Mauler gets +1/-1 until end of turn."
@@ -1769,7 +1826,7 @@ msgstr ""
 
 #: ../../TPR.rst:693
 msgid "Lightning Blast deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../TPR.rst:696
 msgid ""
@@ -1818,7 +1875,7 @@ msgstr ""
 
 #: ../../TPR.rst:713
 msgid "Enchanted creature gets +2/+2 and can't block."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i nie może blokować."
 
 #: ../../TPR.rst:718
 msgid ""
@@ -1841,7 +1898,7 @@ msgstr ""
 
 #: ../../TPR.rst:721
 msgid "Sacrifice Mogg Fanatic: It deals 1 damage to any target."
-msgstr ""
+msgstr "Poświęć tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
 
 #: ../../TPR.rst:726
 msgid ""
@@ -1852,7 +1909,7 @@ msgstr ""
 
 #: ../../TPR.rst:725
 msgid "Mogg Flunkies can't attack or block alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować lub blokować samotnie."
 
 #: ../../TPR.rst:730
 msgid ""
@@ -1917,12 +1974,16 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../TPR.rst:747
 msgid ""
 "When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice "
 "two Mountains."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że poświęcisz dwie "
+"Góry."
 
 #: ../../TPR.rst:754
 msgid ""
@@ -1949,6 +2010,8 @@ msgid ""
 "Rolling Thunder deals X damage divided as you choose among any number of "
 "targets."
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielone według twojego uznania pomiędzy "
+"dowolną liczbę wskazanych celów."
 
 #: ../../TPR.rst:762
 msgid ""
@@ -1959,7 +2022,7 @@ msgstr ""
 
 #: ../../TPR.rst:761
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../TPR.rst:768
 msgid ""
@@ -1973,10 +2036,12 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../TPR.rst:767
 msgid "|mana_r|: Sandstone Warrior gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TPR.rst:774
 msgid ""
@@ -1998,7 +2063,7 @@ msgstr ""
 
 #: ../../TPR.rst:779
 msgid "Target creature gets +3/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+0."
 
 #: ../../TPR.rst:784
 msgid ""
@@ -2022,12 +2087,16 @@ msgstr ""
 msgid ""
 "Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying."
 msgstr ""
+"Poświęć tego stwora: Zadaje on każdemu stworowi nie mającemu latania po 2 "
+"obrażenia."
 
 #: ../../TPR.rst:791
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Return Shard Phoenix from your graveyard to "
 "your hand. Activate only during your upkeep."
 msgstr ""
+"|mana_r|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego cmentarza do "
+"twojej ręki. Możesz aktywować tylko w twoim kroku utrzymania."
 
 #: ../../TPR.rst:796
 msgid ""
@@ -2038,7 +2107,7 @@ msgstr ""
 
 #: ../../TPR.rst:795 ../../TPR.rst:1015
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../TPR.rst:800
 msgid ""
@@ -2091,7 +2160,7 @@ msgstr ""
 
 #: ../../TPR.rst:813
 msgid "Target creature can't block this turn."
-msgstr ""
+msgstr "Wskazany stwór nie może blokować w tej turze."
 
 #: ../../TPR.rst:822
 msgid ""
@@ -2160,6 +2229,7 @@ msgstr ""
 #: ../../TPR.rst:843
 msgid "Distribute two +1/+1 counters among one or two target creatures."
 msgstr ""
+"Rozmieść dwa znaczniki +1/+1 pomiędzy jednym lub dwoma wskazanymi stworami."
 
 #: ../../TPR.rst:850
 msgid ""
@@ -2170,7 +2240,7 @@ msgstr ""
 
 #: ../../TPR.rst:849
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../TPR.rst:854
 msgid ""
@@ -2194,13 +2264,15 @@ msgstr ""
 
 #: ../../TPR.rst:857
 msgid "As an additional cost to cast this spell, sacrifice a land."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../TPR.rst:859
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je na polu bitwy, po czym przetasuj."
 
 #: ../../TPR.rst:864
 msgid ""
@@ -2251,7 +2323,7 @@ msgstr ""
 
 #: ../../TPR.rst:875
 msgid "All Sliver creatures have trample."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają tratowanie."
 
 #: ../../TPR.rst:882
 msgid ""
@@ -2308,6 +2380,9 @@ msgid ""
 "defending player controls a Forest, and attacking doesn't cause this "
 "creature to tap.)"
 msgstr ""
+"Pierwszy cios, podbój lasów, czujność. (Ten stwór zadaje obrażenia bojowe "
+"przed stworami bez pierwszego ciosu, nie może być blokowany o ile broniący "
+"się gracz włada Lasem i atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../TPR.rst:898
 msgid ""
@@ -2321,6 +2396,8 @@ msgid ""
 "Reveal the top four cards of your library. Put all land cards revealed this "
 "way into your hand and the rest into your graveyard."
 msgstr ""
+"Ujawnij cztery wierzchnie karty twojej biblioteki. Umieść wszystkie karty "
+"lądów ujawnione w ten sposób w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../TPR.rst:902
 msgid ""
@@ -2331,7 +2408,7 @@ msgstr ""
 
 #: ../../TPR.rst:901
 msgid "All Sliver creatures get +1/+1."
-msgstr ""
+msgstr "Wszystkie Drzazgacze dostają +1/+1."
 
 #: ../../TPR.rst:906
 msgid ""
@@ -2342,7 +2419,7 @@ msgstr ""
 
 #: ../../TPR.rst:905
 msgid "Needle Storm deals 4 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi mającemu latanie po 4 obrażenia."
 
 #: ../../TPR.rst:910
 msgid ""
@@ -2369,7 +2446,7 @@ msgstr ""
 
 #: ../../TPR.rst:913
 msgid "Creatures you control get +3/+3 and gain trample until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +3/+3 i tratowanie."
 
 #: ../../TPR.rst:920
 msgid ""
@@ -2396,6 +2473,8 @@ msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../TPR.rst:930
 msgid ""
@@ -2417,7 +2496,7 @@ msgstr ""
 
 #: ../../TPR.rst:933
 msgid "Skip your draw step."
-msgstr ""
+msgstr "Pomiń swój krok dobierania."
 
 #: ../../TPR.rst:935
 msgid "Whenever you play a card, draw a card."
@@ -2439,6 +2518,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../TPR.rst:946
 msgid ""
@@ -2452,6 +2533,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only "
 "once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tylko raz na turę."
 
 #: ../../TPR.rst:952
 msgid ""
@@ -2462,7 +2545,7 @@ msgstr ""
 
 #: ../../TPR.rst:949
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../TPR.rst:951
 msgid "|mana_1|: Add |mana_r| or |mana_w|."
@@ -2599,7 +2682,7 @@ msgstr ""
 
 #: ../../TPR.rst:1001
 msgid "Destroy all enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../TPR.rst:1006
 msgid ""
@@ -2612,6 +2695,8 @@ msgstr ""
 msgid ""
 "At the beginning of each upkeep, create a 1/1 green Saproling creature token."
 msgstr ""
+"Na początku każdego kroku utrzymania, stwórz żeton zielonego stwora Sadzonka "
+"1/1."
 
 #: ../../TPR.rst:1012
 msgid ""
@@ -2642,11 +2727,11 @@ msgstr ""
 
 #: ../../TPR.rst:1019
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../TPR.rst:1021
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../TPR.rst:1026
 msgid ""
@@ -2799,7 +2884,7 @@ msgstr ""
 
 #: ../../TPR.rst:1077
 msgid "Sacrifice Bottle Gnomes: You gain 3 life."
-msgstr ""
+msgstr "Poświęć tego stwora: Zyskaj 3 życia."
 
 #: ../../TPR.rst:1082
 msgid ""
@@ -2814,6 +2899,10 @@ msgid ""
 "shares at least one creature type with it. (For example, if two Goblin "
 "Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
 msgstr ""
+"Każdy stwór dostaje +1/+1 za każdego innego stwora na polu bitwy "
+"współdzielącego z nim przynajmniej jeden typ stwora. (Na przykład jeśli na "
+"polu bitwy są dwa Gobliny Wojownicy oraz Goblin Szaman, każdy z nich dostaje "
+"+2/+2.)"
 
 #: ../../TPR.rst:1086
 msgid ""
@@ -2845,7 +2934,7 @@ msgstr ""
 
 #: ../../TPR.rst:1093
 msgid "|mana_5|, |tap|: Draw two cards, then discard a card."
-msgstr ""
+msgstr "|mana_5|, |tap|: Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../TPR.rst:1098
 msgid ""
@@ -2883,10 +2972,12 @@ msgstr ""
 #: ../../TPR.rst:1105
 msgid "At the beginning of your upkeep, Jinxed Idol deals 2 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten artefakt zadaje tobie 2 obrażenia."
 
 #: ../../TPR.rst:1107
 msgid "Sacrifice a creature: Target opponent gains control of Jinxed Idol."
 msgstr ""
+"Poświęć stwora: Wskazany przeciwnik zyskuje władanie nad tym artefaktem."
 
 #: ../../TPR.rst:1112
 msgid ""
@@ -2916,15 +3007,15 @@ msgstr ""
 #: ../../TPR.rst:1119
 msgid ""
 "Mindless Automaton enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../TPR.rst:1121
 msgid "|mana_1|, Discard a card: Put a +1/+1 counter on Mindless Automaton."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../TPR.rst:1123
 msgid "Remove two +1/+1 counters from Mindless Automaton: Draw a card."
-msgstr ""
+msgstr "Usuń dwa znaczniki +1/+1 z tego stwora: Dobierz kartę."
 
 #: ../../TPR.rst:1130
 msgid ""
@@ -2942,7 +3033,7 @@ msgstr ""
 
 #: ../../TPR.rst:1129
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../TPR.rst:1134
 msgid ""
@@ -2957,6 +3048,9 @@ msgid ""
 "would be destroyed, instead tap it, remove it from combat, and heal all "
 "damage on it.)"
 msgstr ""
+"Odrzuć kartę: Zregeneruj tego stwora. (Następnym razem gdy miałby zostać "
+"zniszczony w tej turze, zamiast tego przekręć go, usuń go z potyczki i ulecz "
+"wszystkie jego obrażenia.)"
 
 #: ../../TPR.rst:1136
 msgid ""
@@ -3049,7 +3143,7 @@ msgstr ""
 #: ../../TPR.rst:1229 ../../TPR.rst:1235 ../../TPR.rst:1241 ../../TPR.rst:1247
 #: ../../TPR.rst:1253 ../../TPR.rst:1259
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../TPR.rst:1169
 msgid "|tap|: Add |mana_u| or |mana_r|. Caldera Lake deals 1 damage to you."
@@ -3081,7 +3175,7 @@ msgstr ""
 
 #: ../../TPR.rst:1181
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../TPR.rst:1188
 msgid ""
@@ -3244,7 +3338,7 @@ msgstr ""
 
 #: ../../TPR.rst:1261
 msgid "|tap|, Sacrifice Wasteland: Destroy target nonbasic land."
-msgstr ""
+msgstr "|tap|, poświęć ten ląd: Zniszcz wskazany niebazowy ląd."
 
 #: ../../TPR.rst:1266
 msgid ""
@@ -3255,7 +3349,7 @@ msgstr ""
 
 #: ../../TPR.rst:1265
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../TPR.rst:1270
 msgid ""
@@ -3266,7 +3360,7 @@ msgstr ""
 
 #: ../../TPR.rst:1269
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../TPR.rst:1274
 msgid ""
@@ -3277,7 +3371,7 @@ msgstr ""
 
 #: ../../TPR.rst:1273
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../TPR.rst:1278
 msgid ""
@@ -3288,7 +3382,7 @@ msgstr ""
 
 #: ../../TPR.rst:1277
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../TPR.rst:1281
 msgid ""
@@ -3299,4 +3393,4 @@ msgstr ""
 
 #: ../../TPR.rst:1281
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
