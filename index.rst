@@ -39,7 +39,7 @@ Nadchodzące
 
 * Standard: :mtgexp:`ICV` Innistrad: Crimson Vow (Premiera: 2021-11-19)
 * Standard: :mtgexp:`IMH` Innistrad: Midnight Hunt (Premiera: 2021-09-24)
-
+* Arena: :mtgexp:`J21` Jumpstart: Historic Horizons (Premiera: 2021-08-12) tylko cyfrowo
 
 Standard
 --------
@@ -86,6 +86,20 @@ gry. Na poniższej liście znajdują się te dodatki, które nie znalazły się 
 
 Pozostałe produkty
 ==================
+
+MTG Arena / MTG Online
+----------------------
+
+Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejszymi są zdecydowanie MTGO oraz MTGA.
+Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały
+karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited.
+
+* :mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO)
+* :mtgexp:`AKR` :doc:`Amonkhet Remastered<AKR>` (tylko Arena)
+* :mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena)
+
+W sierpniu 2021 ma się ukazać pierwszy dodatek do Areny zawierający karty z unikalnymi mechanikami przeznaczonymi
+wyłącznie do gry cyfrowej
 
 Jumpstart
 ---------

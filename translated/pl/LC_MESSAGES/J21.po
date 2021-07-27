@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2021, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2021.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-27 11:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../J21.rst:5
+msgid ":mtgexp:`J21` Jumpstart: Historic Horizons"
+msgstr ""
+
+#: ../../J21.rst:10
+msgid ":mtgtip:`Baffling Defenses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c4df2846-67ba-4228-9e32-fec788f1eab3.jpg?1627330906|https://scryfall.com/card/j21/999-BD/baffling-defenses?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:9
+msgid "Target creature's base power perpetually becomes 0."
+msgstr ""
+
+#: ../../J21.rst:18
+msgid ":mtgtip:`Davriel, Soul Broker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6830e11-2f85-45b0-bd1f-cc66e5aa92c5.jpg?1627330936|https://scryfall.com/card/j21/999-DSB/davriel-soul-broker?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:13
+msgid "+1: Until your next turn, whenever an opponent attacks you and/or planeswalkers you control, they discard a card. If they can't, they sacrifice an attacking creature."
+msgstr ""
+
+#: ../../J21.rst:15
+msgid "−2: Accept one of Davriel's offers, then accept one of Davriel's conditions."
+msgstr ""
+
+#: ../../J21.rst:17
+msgid "−3: Target creature perpetually gets -3/-3."
+msgstr ""
+
+#: ../../J21.rst:22
+msgid ":mtgtip:`Davriel's Withering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49d1fae1-06da-40eb-adea-84babbfd94e4.jpg?1627330979|https://scryfall.com/card/j21/999-DW/davriels-withering?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:21
+msgid "Target creature perpetually gets -1/-2."
+msgstr ""
+
+#: ../../J21.rst:26
+msgid ":mtgtip:`Ethereal Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00972d59-1d92-4db2-8d05-2d1dbde46ab0.jpg?1627331020|https://scryfall.com/card/j21/999-EG/ethereal-grasp?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:25
+msgid "Tap target creature. That creature perpetually gains \"This creature doesn't untap during your untap step\" and \"|mana_8|: Untap this creature.\""
+msgstr ""
+
+#: ../../J21.rst:32
+msgid ":mtgtip:`Faceless Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99ce3a33-c7a1-411c-a320-575eacf5a682.jpg?1627331057|https://scryfall.com/card/j21/999-FA/faceless-agent?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:29
+msgid "Changeling"
+msgstr ""
+
+#: ../../J21.rst:31
+msgid "When Faceless Agent enters the battlefield, seek a creature card of the most prevalent creature type in your library."
+msgstr ""
+
+#: ../../J21.rst:36
+msgid ":mtgtip:`Lumbering Lightshield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cd64ea6-ac09-4b38-bebf-f67fb16b817d.jpg?1627331090|https://scryfall.com/card/j21/999-LL/lumbering-lightshield?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:35
+msgid "When Lumbering Lightshield enters the battelfield, target opponent reveals a nonland card at random from their hand. It perpetually gains \"This spell costs |mana_1| more to cast.\""
+msgstr ""
+
+#: ../../J21.rst:40
+msgid ":mtgtip:`Manor Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2940839a-9aa3-4e0e-801e-ef927d40dd77.jpg?1627331132|https://scryfall.com/card/j21/999-MG/manor-guardian?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:39
+msgid "When Manor Guardian dies, each player seeks a nonland card with mana value 2 or less."
+msgstr ""
+
+#: ../../J21.rst:46
+msgid ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb1724cc-8432-4ff8-ac51-b8c4f4914494.jpg?1627331195|https://scryfall.com/card/j21/999-P/ponder?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:43
+msgid "Look at the top three cards of your library, then put them back in any order. You may shuffle."
+msgstr ""
+
+#: ../../J21.rst:45
+msgid "Draw a card."
+msgstr ""
+
+#: ../../J21.rst:52
+msgid ":mtgtip:`Plaguecrafter's Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad3eddfe-bbed-41ef-b14f-25aa528fc100.jpg?1627331230|https://scryfall.com/card/j21/999-PF/plaguecrafters-familiar?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:49
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../J21.rst:51
+msgid "When Plaguecrafter's Familiar enters the battlefield, choose a creature card in your hand. It perpetually gains deathtouch."
+msgstr ""
+
+#: ../../J21.rst:58
+msgid ":mtgtip:`Ranger-Captain of Eos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1359ff2-be32-45ba-a049-c102075341b4.jpg?1627331263|https://scryfall.com/card/j21/999-RCOE/ranger-captain-of-eos?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:55
+msgid "When Ranger-Captain of Eos enters the battlefield, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle."
+msgstr ""
+
+#: ../../J21.rst:57
+msgid "Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature spells this turn."
+msgstr ""
+
+#: ../../J21.rst:64
+msgid ":mtgtip:`Return to the Ranks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b3e6ea8-87fe-4b7d-ae6e-6d578b088ac7.jpg?1627331305|https://scryfall.com/card/j21/999-RTTR/return-to-the-ranks?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:61
+msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)"
+msgstr ""
+
+#: ../../J21.rst:63
+msgid "Return X target creature cards with mana value 2 or less from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../J21.rst:72
+msgid ":mtgtip:`Subversive Acolyte<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/245dfe23-1d21-4bf8-9f45-4a845d731515.jpg?1627331332|https://scryfall.com/card/j21/999-SA/subversive-acolyte?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:67
+msgid "|mana_2|, Pay 2 life: Choose one activate only once."
+msgstr ""
+
+#: ../../J21.rst:69
+msgid "Subversive Acolyte becomes a Human Cleric It gets +1/+2 and gains lifelink."
+msgstr ""
+
+#: ../../J21.rst:71
+msgid "Becomes a Phyrexian. It gets +3/+3 and gains trample and \"Whenever this creature is dealt damage, sacrifice that many permanents.\""
+msgstr ""
+
+#: ../../J21.rst:76
+msgid ":mtgtip:`Stormfront Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bd91239-76f8-4834-874a-5428c5384f64.jpg?1627331361|https://scryfall.com/card/j21/999-SFP/stormfront-pegasus?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:75
+#: ../../J21.rst:83
+msgid "Flying"
+msgstr ""
+
+#: ../../J21.rst:80
+msgid ":mtgtip:`Sarkhan's Scorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82f1d347-4384-46e9-bacf-67af510a76d3.jpg?1627331394|https://scryfall.com/card/j21/999-SKS/sarkhans-scorn?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:79
+msgid "Sarkhan's Scorn deals damage equal to the number of turns you have begun to target creature or planeswalker."
+msgstr ""
+
+#: ../../J21.rst:86
+msgid ":mtgtip:`Scion of Shiv<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08a3774a-b7ff-48b1-82b6-736dcda75e64.jpg?1627331430|https://scryfall.com/card/j21/999-SOS/scion-of-shiv?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:85
+msgid "|mana_2|\\ |mana_r|: Scion of Shiv perpetually gets +1/+0."
+msgstr ""
+
+#: ../../J21.rst:94
+msgid ":mtgtip:`Sarkhan, Wanderer to Shiv<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a43b352-d84b-4714-bbcd-3ad282c8aa9d.jpg?1627331464|https://scryfall.com/card/j21/999-SWTS/sarkhan-wanderer-to-shiv?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:89
+msgid "+1: Dragon cards in your hand perpetually gain \"This spell costs |mana_1| less to cast,\" and \"You may pay |mana_x| rather than pay this spell's mana cost, where X is its mana value.\""
+msgstr ""
+
+#: ../../J21.rst:91
+msgid "0: Conjure a Shivan Dragon card into your hand."
+msgstr ""
+
+#: ../../J21.rst:93
+msgid "−2: Sarkhan, Wanderer to Shiv deals 3 damage to target creature."
+msgstr ""
+
+#: ../../J21.rst:98
+msgid ":mtgtip:`Tropical Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.jpg?1627331520|https://scryfall.com/card/j21/999-TI/tropical-island?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:97
+msgid "(|tap|: Add |mana_g| or |mana_u|.)"
+msgstr ""
+
+#: ../../J21.rst:104
+msgid ":mtgtip:`Thalia's Lieutenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9165906-ea78-4462-ae54-6d292708534b.jpg?1627331560|https://scryfall.com/card/j21/999-TL/thalias-lieutenant?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:101
+msgid "When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each other Human you control."
+msgstr ""
+
+#: ../../J21.rst:103
+msgid "Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Thalia's Lieutenant."
+msgstr ""
+
+#: ../../J21.rst:108
+msgid ":mtgtip:`Tome of the Infinite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac8cd054-99aa-4d6b-aa01-bfd9d25495c2.jpg?1627331596|https://scryfall.com/card/j21/999-TOTI/tome-of-the-infinite?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:107
+msgid "|mana_u|, |tap|: Conjure a random card from Tome of the Infinite's spellbook into your hand. It perpetually gains \"You may spend mana as though it were mana of any color to cast this spell.\""
+msgstr ""
+
+#: ../../J21.rst:111
+msgid ":mtgtip:`Wingsteed Trainer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d480fb3e-956f-4ba6-b527-8642db632597.jpg?1627331628|https://scryfall.com/card/j21/999-WT/wingsteed-trainer?utm_source=api>`"
+msgstr ""
+
+#: ../../J21.rst:111
+msgid "When Wingsteed Trainer enters the battlefield or attacks, conjure a Stormfront Pegasus card into your hand."
+msgstr ""
