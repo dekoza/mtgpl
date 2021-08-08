@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-24 12:28+0000\n"
+"PO-Revision-Date: 2021-07-28 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -2980,19 +2980,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1071
-#, fuzzy
-#| msgid ""
-#| "When Avarax enters the battlefield, you may search your library for a "
-#| "card named Avarax, reveal it, and put it into your hand. If you do, "
-#| "shuffle your library."
 msgid ""
 "When Embermage Goblin enters the battlefield, you may search your library "
 "for a card named Embermage Goblin, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę o nazwie Avarax, ujawnij ją i umieść w twojej ręce. Jeśli tak zrobisz, "
-"przetasuj."
+"kartę o nazwie Embermage Goblin, ujawnij ją, umieść ją w twojej ręce, po "
+"czym przetasuj."
 
 #: ../../ONS.rst:1073
 msgid "|tap|: Embermage Goblin deals 1 damage to any target."
@@ -4472,18 +4467,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONS.rst:1591
-#, fuzzy
-#| msgid ""
-#| "When you cycle Krosan Tusker, you may search your library for a basic "
-#| "land card, reveal that card, put it into your hand, then shuffle your "
-#| "library. (Do this before you draw.)"
 msgid ""
 "When Wirewood Herald dies, you may search your library for an Elf card, "
 "reveal that card, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy recyklujesz tę kartę, możesz wyszukać w twojej bibliotece kartę "
-"bazowego lądu, ujawnić ją, umieścić w twojej ręce, po czym przetasować twoją "
-"bibliotekę. (Zrób to przed dobraniem.)"
+"Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece kartę Elfa, "
+"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../ONS.rst:1596
 msgid ""

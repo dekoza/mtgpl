@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-03 01:23+0200\n"
-"PO-Revision-Date: 2021-07-05 12:21+0000\n"
+"PO-Revision-Date: 2021-07-28 21:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.7.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../FUT.rst:5
@@ -1539,17 +1539,14 @@ msgid "|mana_1|\\ |mana_b|: Regenerate Korlash."
 msgstr ""
 
 #: ../../FUT.rst:503
-#, fuzzy
-#| msgid ""
-#| "If you control four or fewer lands, search your library for a basic land "
-#| "card, put it onto the battlefield tapped, then shuffle your library."
 msgid ""
 "Grandeur — Discard another card named Korlash, Heir to Blackblade: Search "
 "your library for up to two Swamp cards, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"Jeśli władasz nie więcej niż czterema lądami, wyszukaj w twojej bibliotece "
-"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"Dostojność — Odrzuć inną kartę o nazwie Korlash, Heir to Blackblade: "
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty Bagien, umieść je "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../FUT.rst:506
 msgid ""
