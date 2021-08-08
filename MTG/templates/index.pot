@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-27 11:33+0200\n"
+"POT-Creation-Date: 2021-08-08 16:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,7 +69,7 @@ msgid "Standard: :mtgexp:`IMH` Innistrad: Midnight Hunt (Premiera: 2021-09-24)"
 msgstr ""
 
 #: ../../index.rst:42
-msgid "Arena: :mtgexp:`J21` Jumpstart: Historic Horizons (Premiera: 2021-08-12) tylko cyfrowo"
+msgid "Arena: :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` (Premiera: 2021-08-12) tylko cyfrowo"
 msgstr ""
 
 #: ../../index.rst:45
@@ -161,28 +161,27 @@ msgid ":doc:`Lista dodatków<legacy>`"
 msgstr ""
 
 #: ../../index.rst:88
-#: ../../index.rst:159
 msgid "Pozostałe produkty"
 msgstr ""
 
 #: ../../index.rst:91
-msgid "MTG Arena / MTG Online"
+msgid "Dodatki wyłącznie cyfrowe"
 msgstr ""
 
 #: ../../index.rst:93
-msgid "Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejszymi są zdecydowanie MTGO oraz MTGA. Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited."
+msgid "Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejszymi są zdecydowanie MTG Online oraz MTG Arena. Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited."
 msgstr ""
 
 #: ../../index.rst:97
-msgid ":mtgexp:`TPR` Tempest Remastered (tylko MTGO) 2015-05-06"
+msgid ":mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|"
 msgstr ""
 
 #: ../../index.rst:98
-msgid ":mtgexp:`AKR` Amonkhet Remastered (tylko Arena) 2020-08-13"
+msgid ":mtgexp:`AKR` :doc:`Amonkhet Remastered<AKR>` (tylko Arena) |AKR_percent|"
 msgstr ""
 
 #: ../../index.rst:99
-msgid ":mtgexp:`KLR` Kaladesh Remastered (tylko Arena) 2020-11-12"
+msgid ":mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena) |KLR_percent|"
 msgstr ""
 
 #: ../../index.rst:101
@@ -331,6 +330,10 @@ msgstr ""
 
 #: ../../index.rst:156
 msgid ":mtgexp:`CNS` :doc:`Conspiracy<CNS>` |CNS_percent|"
+msgstr ""
+
+#: ../../index.rst:159
+msgid "Produkty pokrewne"
 msgstr ""
 
 #: ../../index.rst:161
