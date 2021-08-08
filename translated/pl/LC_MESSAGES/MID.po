@@ -1,21 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-08 21:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-08-08 21:44+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../../MID.rst:5
 msgid ":mtgexp:`MID` Innistrad: Midnight Hunt"
@@ -33,10 +34,12 @@ msgid ""
 "Look at the top card of your library. You may put that card into your "
 "graveyard."
 msgstr ""
+"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę w "
+"twoim cmentarzu."
 
 #: ../../MID.rst:11
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../MID.rst:20
 msgid ""
@@ -47,17 +50,19 @@ msgstr ""
 
 #: ../../MID.rst:15
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../MID.rst:17
 msgid ""
 "At the beginning of your upkeep, if you have exactly thirteen cards in your "
 "hand, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli masz w ręce dokładnie trzynaście "
+"kart, wygrywasz grę."
 
 #: ../../MID.rst:19
 msgid "|mana_3|\\ |mana_u|: Draw a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
 
 #: ../../MID.rst:24
 msgid ""
@@ -72,6 +77,8 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, put a +1/"
 "+1 counter on Champion of the Perished."
 msgstr ""
+"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../MID.rst:28
 msgid ""
@@ -82,7 +89,7 @@ msgstr ""
 
 #: ../../MID.rst:27
 msgid "Destroy target creature. You lose 2 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Strać 2 życia."
 
 #: ../../MID.rst:32
 msgid ""
@@ -97,6 +104,9 @@ msgid ""
 "this way, scry 1. (Look at the top card of your library. You may put that "
 "card on the bottom of your library.)"
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia. Jeśli gracz otrzyma obrażenia "
+"w ten sposób, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../MID.rst:42
 msgid ""
@@ -110,23 +120,31 @@ msgid ""
 "+1: Reveal the top four cards of your library. Put all land cards revealed "
 "this way into your hand and the rest into your graveyard."
 msgstr ""
+"+1: Ujawnij cztery wierzchnie karty twojej biblioteki. Umieść wszystkie "
+"karty lądów ujawnione w tej sposób w twojej ręce, a pozostałe w twoim "
+"cmentarzu."
 
 #: ../../MID.rst:37
 msgid ""
 "0: Put any number of land cards from your hand onto the battlefield tapped."
 msgstr ""
+"0: Umieść dowolną liczbę kart lądów z twojej ręki przekręcone na polu bitwy."
 
 #: ../../MID.rst:39
 msgid ""
 "−3: Create a green Treefolk creature token with reach and \"This creature's "
 "power and toughness are each equal to the number of lands you control.\""
 msgstr ""
+"–3: Stwórz żeton zielonego stwora Drzewiec z zasięgiem oraz \"Siła i "
+"wytrzymałość tego stwora są obie równe liczbie lądów pod twoim władaniem.\""
 
 #: ../../MID.rst:41
 msgid ""
 "−8: Return all permanent cards from your graveyard to your hand. You get an "
 "emblem with \"You have no maximum hand size.\""
 msgstr ""
+"–8: Przywróć wszystkie karty permanentów z twojego cmetnarza do twojej ręki. "
+"Dostajesz emblemat z \"Nie masz limitu kart na ręce.\""
 
 #: ../../MID.rst:48
 msgid ""
@@ -137,13 +155,15 @@ msgstr ""
 
 #: ../../MID.rst:45
 msgid "Create two 1/1 white Human creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Człowiek 1/1."
 
 #: ../../MID.rst:47
 msgid ""
 "Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_3|\\ |mana_g|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:52
 msgid ""
@@ -154,7 +174,7 @@ msgstr ""
 
 #: ../../MID.rst:51
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../MID.rst:56
 msgid ""
@@ -165,7 +185,7 @@ msgstr ""
 
 #: ../../MID.rst:55
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../MID.rst:60
 msgid ""
@@ -176,7 +196,7 @@ msgstr ""
 
 #: ../../MID.rst:59
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../MID.rst:64
 msgid ""
@@ -187,7 +207,7 @@ msgstr ""
 
 #: ../../MID.rst:63
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../MID.rst:67
 msgid ""
@@ -198,4 +218,4 @@ msgstr ""
 
 #: ../../MID.rst:67
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
