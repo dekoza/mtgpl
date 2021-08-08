@@ -37,8 +37,8 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Standard: :mtgexp:`ICV` Innistrad: Crimson Vow (Premiera: 2021-11-19)
-* Standard: :mtgexp:`IMH` Innistrad: Midnight Hunt (Premiera: 2021-09-24)
+* Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)
+* Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` (Premiera: 2021-09-24)
 * Arena: :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` (Premiera: 2021-08-12) tylko cyfrowo
 
 Standard
