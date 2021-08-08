@@ -12,6 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +22,16 @@ msgid ":mtgexp:`MID` Innistrad: Midnight Hunt"
 msgstr ""
 
 #: ../../MID.rst:12
-msgid ":mtgtip:`Consider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1628197270|https://scryfall.com/card/mid/44/consider?utm_source=api>`"
+msgid ""
+":mtgtip:`Consider<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1628197270|https://"
+"scryfall.com/card/mid/44/consider?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:9
-msgid "Look at the top card of your library. You may put that card into your graveyard."
+msgid ""
+"Look at the top card of your library. You may put that card into your "
+"graveyard."
 msgstr ""
 
 #: ../../MID.rst:11
@@ -33,7 +39,10 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../MID.rst:20
-msgid ":mtgtip:`Triskaidekaphile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1628195931|https://scryfall.com/card/mid/81/triskaidekaphile?utm_source=api>`"
+msgid ""
+":mtgtip:`Triskaidekaphile<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1628195931|"
+"https://scryfall.com/card/mid/81/triskaidekaphile?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:15
@@ -41,7 +50,9 @@ msgid "You have no maximum hand size."
 msgstr ""
 
 #: ../../MID.rst:17
-msgid "At the beginning of your upkeep, if you have exactly thirteen cards in your hand, you win the game."
+msgid ""
+"At the beginning of your upkeep, if you have exactly thirteen cards in your "
+"hand, you win the game."
 msgstr ""
 
 #: ../../MID.rst:19
@@ -49,15 +60,24 @@ msgid "|mana_3|\\ |mana_u|: Draw a card."
 msgstr ""
 
 #: ../../MID.rst:24
-msgid ":mtgtip:`Champion of the Perished<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d8e6941-ad6e-4d2f-93c0-be79e75bdf06.jpg?1628197843|https://scryfall.com/card/mid/91/champion-of-the-perished?utm_source=api>`"
+msgid ""
+":mtgtip:`Champion of the Perished<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/8/d/8d8e6941-ad6e-4d2f-93c0-be79e75bdf06.jpg?"
+"1628197843|https://scryfall.com/card/mid/91/champion-of-the-perished?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:23
-msgid "Whenever another Zombie enters the battlefield under your control, put a +1/+1 counter on Champion of the Perished."
+msgid ""
+"Whenever another Zombie enters the battlefield under your control, put a +1/"
+"+1 counter on Champion of the Perished."
 msgstr ""
 
 #: ../../MID.rst:28
-msgid ":mtgtip:`Infernal Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17824929-f131-4b8d-addb-66c25323155e.jpg?1628195744|https://scryfall.com/card/mid/107/infernal-grasp?utm_source=api>`"
+msgid ""
+":mtgtip:`Infernal Grasp<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/7/17824929-f131-4b8d-addb-66c25323155e.jpg?1628195744|"
+"https://scryfall.com/card/mid/107/infernal-grasp?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:27
@@ -65,35 +85,54 @@ msgid "Destroy target creature. You lose 2 life."
 msgstr ""
 
 #: ../../MID.rst:32
-msgid ":mtgtip:`Play with Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1628195671|https://scryfall.com/card/mid/154/play-with-fire?utm_source=api>`"
+msgid ""
+":mtgtip:`Play with Fire<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1628195671|"
+"https://scryfall.com/card/mid/154/play-with-fire?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:31
-msgid "Play with Fire deals 2 damage to any target. If a player is dealt damage this way, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"Play with Fire deals 2 damage to any target. If a player is dealt damage "
+"this way, scry 1. (Look at the top card of your library. You may put that "
+"card on the bottom of your library.)"
 msgstr ""
 
 #: ../../MID.rst:42
-msgid ":mtgtip:`Wrenn and Seven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7757e99-8d51-4b92-b346-6961845def24.jpg?1628196510|https://scryfall.com/card/mid/208/wrenn-and-seven?utm_source=api>`"
+msgid ""
+":mtgtip:`Wrenn and Seven<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/7/a7757e99-8d51-4b92-b346-6961845def24.jpg?1628196510|"
+"https://scryfall.com/card/mid/208/wrenn-and-seven?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:35
-msgid "+1: Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard."
+msgid ""
+"+1: Reveal the top four cards of your library. Put all land cards revealed "
+"this way into your hand and the rest into your graveyard."
 msgstr ""
 
 #: ../../MID.rst:37
-msgid "0: Put any number of land cards from your hand onto the battlefield tapped."
+msgid ""
+"0: Put any number of land cards from your hand onto the battlefield tapped."
 msgstr ""
 
 #: ../../MID.rst:39
-msgid "−3: Create a green Treefolk creature token with reach and \"This creature's power and toughness are each equal to the number of lands you control.\""
+msgid ""
+"−3: Create a green Treefolk creature token with reach and \"This creature's "
+"power and toughness are each equal to the number of lands you control.\""
 msgstr ""
 
 #: ../../MID.rst:41
-msgid "−8: Return all permanent cards from your graveyard to your hand. You get an emblem with \"You have no maximum hand size.\""
+msgid ""
+"−8: Return all permanent cards from your graveyard to your hand. You get an "
+"emblem with \"You have no maximum hand size.\""
 msgstr ""
 
 #: ../../MID.rst:48
-msgid ":mtgtip:`Join the Dance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1628195546|https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`"
+msgid ""
+":mtgtip:`Join the Dance<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1628195546|"
+"https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:45
@@ -101,11 +140,16 @@ msgid "Create two 1/1 white Human creature tokens."
 msgstr ""
 
 #: ../../MID.rst:47
-msgid "Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid ""
+"Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from your "
+"graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../MID.rst:52
-msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1628277332|https://scryfall.com/card/mid/268/plains?utm_source=api>`"
+msgid ""
+":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1628277332|https://"
+"scryfall.com/card/mid/268/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:51
@@ -113,7 +157,10 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
 #: ../../MID.rst:56
-msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1628197498|https://scryfall.com/card/mid/270/island?utm_source=api>`"
+msgid ""
+":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1628197498|https://"
+"scryfall.com/card/mid/270/island?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:55
@@ -121,7 +168,10 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
 #: ../../MID.rst:60
-msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1628197523|https://scryfall.com/card/mid/272/swamp?utm_source=api>`"
+msgid ""
+":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1628197523|https://"
+"scryfall.com/card/mid/272/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:59
@@ -129,7 +179,10 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
 #: ../../MID.rst:64
-msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1628198041|https://scryfall.com/card/mid/274/mountain?utm_source=api>`"
+msgid ""
+":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1628198041|https://"
+"scryfall.com/card/mid/274/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:63
@@ -137,7 +190,10 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
 #: ../../MID.rst:67
-msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1628197648|https://scryfall.com/card/mid/276/forest?utm_source=api>`"
+msgid ""
+":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1628197648|https://"
+"scryfall.com/card/mid/276/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:67
