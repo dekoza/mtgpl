@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-08 16:04+0200\n"
+"POT-Creation-Date: 2021-08-13 13:59+0200\n"
 "PO-Revision-Date: 2021-08-08 21:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
@@ -312,7 +312,7 @@ msgstr ""
 #: ../../J21.rst:90
 msgid ""
 ":mtgtip:`Davriel, Soul Broker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/6/a6830e11-2f85-45b0-bd1f-cc66e5aa92c5.jpg?1627330936|"
+"border_crop/front/a/6/a6830e11-2f85-45b0-bd1f-cc66e5aa92c5.jpg?1628798639|"
 "https://scryfall.com/card/j21/15/davriel-soul-broker?utm_source=api>`"
 msgstr ""
 
@@ -339,7 +339,7 @@ msgstr "–3: Wskazany stwór trwale dostaje -3/-3."
 #: ../../J21.rst:94
 msgid ""
 ":mtgtip:`Davriel's Withering<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/9/49d1fae1-06da-40eb-adea-84babbfd94e4.jpg?1627330979|"
+"border_crop/front/4/9/49d1fae1-06da-40eb-adea-84babbfd94e4.jpg?1628798650|"
 "https://scryfall.com/card/j21/16/davriels-withering?utm_source=api>`"
 msgstr ""
 
@@ -434,7 +434,7 @@ msgstr ""
 #: ../../J21.rst:126
 msgid ""
 ":mtgtip:`Reckless Ringleader<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/d/dd2202a0-9c79-4ddb-b33e-a4aa01ab022b.jpg?1628190903|"
+"border_crop/front/d/d/dd2202a0-9c79-4ddb-b33e-a4aa01ab022b.jpg?1628633409|"
 "https://scryfall.com/card/j21/21/reckless-ringleader?utm_source=api>`"
 msgstr ""
 
@@ -995,8 +995,8 @@ msgid ""
 "Flashback—Tap three untapped white creatures you control. (You may cast this "
 "card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. ("
-"Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. "
+"(Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
 "Następnie wygnaj ją.)"
 
 #: ../../J21.rst:306
@@ -1297,7 +1297,8 @@ msgstr ""
 msgid ""
 "When Doomed Traveler dies, create a 1/1 white Spirit creature token with "
 "flying."
-msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Duch 1/1 z lataniem."
+msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../J21.rst:402
 msgid ""
@@ -1353,8 +1354,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego "
 "przeciwnika. Możesz wygnać z niej nielądową kartę. Przez czas wygnania owej "
-"karty jej właściciel może ją zagrać. Rzucenie czaru w ten sposób kosztuje o "
-"|mana_2| więcej."
+"karty jej właściciel może ją zagrać. Rzucenie czaru w ten sposób kosztuje o |"
+"mana_2| więcej."
 
 #: ../../J21.rst:420
 msgid ""
@@ -1484,8 +1485,8 @@ msgid ""
 "Target non-Human creature you control gets +1/+1 and gains indestructible "
 "until end of turn."
 msgstr ""
-"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury +"
-"1/+1 i niezniszczalność."
+"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury "
+"+1/+1 i niezniszczalność."
 
 #: ../../J21.rst:456
 msgid ""
@@ -2122,7 +2123,8 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../J21.rst:679
 msgid "When Roc Egg dies, create a 3/3 white Bird creature token with flying."
-msgstr "Kiedy ten stwór umrze, stwórz żeton białego stwora Ptak 3/3 z lataniem."
+msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton białego stwora Ptak 3/3 z lataniem."
 
 #: ../../J21.rst:688
 msgid ""
@@ -2339,8 +2341,8 @@ msgid ""
 "Return target permanent you control to its owner's hand. (Then exile this "
 "card. You may cast the creature later from exile.)"
 msgstr ""
-"Przywróć wskazany permanent pod twoim władaniem do ręki właściciela. ("
-"Następnie wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
+"Przywróć wskazany permanent pod twoim władaniem do ręki właściciela. "
+"(Następnie wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../J21.rst:760
 msgid ""
@@ -2605,8 +2607,8 @@ msgid ""
 "a card.\")"
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
-")"
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../J21.rst:848
 msgid ""
@@ -2694,8 +2696,8 @@ msgid ""
 "mana_w|. If you do, create a 4/4 white Angel Warrior creature token with "
 "flying and vigilance, then attach Valkyrie's Sword to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_4|\\ |mana_w|"
-". Jeśli tak zrobisz, stwórz żeton białego stwora Anioł Wojownik 4/4 z "
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_4|\\ |"
+"mana_w|. Jeśli tak zrobisz, stwórz żeton białego stwora Anioł Wojownik 4/4 z "
 "lataniem i czujnością, po czym dołącz do niego ten artefakt."
 
 #: ../../J21.rst:873
@@ -3001,8 +3003,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo "
-"|mana_2|\\ |mana_u|.)"
+"Podbicie |mana_2|\\ |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo |"
+"mana_2|\\ |mana_u|.)"
 
 #: ../../J21.rst:991
 msgid ""
@@ -3138,7 +3140,8 @@ msgstr ""
 
 #: ../../J21.rst:1039
 msgid "|mana_4|\\ |mana_u|: Target creature can't be blocked this turn."
-msgstr "|mana_4|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
+msgstr ""
+"|mana_4|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../J21.rst:1048
 msgid ""
@@ -3393,9 +3396,9 @@ msgid ""
 "If you do, create a 4/4 blue Giant Wizard creature token, then attach "
 "Giant's Amulet to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_3|\\ |mana_u|"
-". Jeśli tak zrobisz stwórz żeton niebieskiego stwora Gigant Czarodziej 4/4, "
-"po czym dołącz do niego ten artefakt."
+"Kiedy ten artefakt wejdzie na pole bitwy, możesz zapłacić |mana_3|\\ |"
+"mana_u|. Jeśli tak zrobisz stwórz żeton niebieskiego stwora Gigant "
+"Czarodziej 4/4, po czym dołącz do niego ten artefakt."
 
 #: ../../J21.rst:1145
 msgid ""
@@ -3493,8 +3496,8 @@ msgid ""
 "|mana_2|\\ |mana_wu|: Attacking creatures with flying get +1/+1 until end of "
 "turn. (|mana_wu| can be paid with either |mana_w| or |mana_u|.)"
 msgstr ""
-"|mana_2|\\ |mana_wu|: Atakujące stwory mające latanie dostają do końca tury +"
-"1/+1. (|mana_wu| można opłacić używając |mana_w| lub |mana_u|.)"
+"|mana_2|\\ |mana_wu|: Atakujące stwory mające latanie dostają do końca tury "
+"+1/+1. (|mana_wu| można opłacić używając |mana_w| lub |mana_u|.)"
 
 #: ../../J21.rst:1183
 msgid ""
@@ -3517,8 +3520,8 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
-"|mana_1|\\ |mana_u|.)"
+"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić |"
+"mana_1|\\ |mana_u|.)"
 
 #: ../../J21.rst:1189
 msgid ""
@@ -3927,7 +3930,8 @@ msgstr ""
 
 #: ../../J21.rst:1337
 msgid "|mana_2|\\ |mana_u|: Target creature can't be blocked this turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
+msgstr ""
+"|mana_2|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../J21.rst:1344
 msgid ""
@@ -4735,7 +4739,8 @@ msgstr ""
 
 #: ../../J21.rst:1627
 msgid "|mana_3|\\ |mana_u|: Target creature can't be blocked this turn."
-msgstr "|mana_3|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
+msgstr ""
+"|mana_3|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../J21.rst:1632
 msgid ""
@@ -4975,8 +4980,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
-"|mana_2|\\ |mana_g|.)"
+"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić |"
+"mana_2|\\ |mana_g|.)"
 
 #: ../../J21.rst:1699
 msgid ""
@@ -5322,8 +5327,8 @@ msgid ""
 "Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature "
 "token."
 msgstr ""
-"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi 2/"
-"2."
+"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi "
+"2/2."
 
 #: ../../J21.rst:1820
 msgid ""
@@ -7382,8 +7387,8 @@ msgid ""
 "Draw a card. Until end of turn, target creature gains trample and gets +1/+0 "
 "for each card you've drawn this turn."
 msgstr ""
-"Dobierz kartę. Do końca tury wskazany stwór zyskuje tratowanie i dostaje +1/+"
-"0 za każdą kartę, którą dobrałeś w tej turze."
+"Dobierz kartę. Do końca tury wskazany stwór zyskuje tratowanie i dostaje +1/"
+"+0 za każdą kartę, którą dobrałeś w tej turze."
 
 #: ../../J21.rst:2516
 msgid ""
@@ -7728,8 +7733,8 @@ msgid ""
 "Create two 1/1 red Goblin Wizard creature tokens with prowess. (Whenever you "
 "cast a noncreature spell, they get +1/+1 until end of turn.)"
 msgstr ""
-"Stwórz dwa żetony czerwonego stwora Goblin Czarodziej 1/1 z walecznością. ("
-"Ilekroć rzucisz nie-stworowy czar, dostaną one do końca tury +1/+1.)"
+"Stwórz dwa żetony czerwonego stwora Goblin Czarodziej 1/1 z walecznością. "
+"(Ilekroć rzucisz nie-stworowy czar, dostaną one do końca tury +1/+1.)"
 
 #: ../../J21.rst:2622
 msgid ""
@@ -7757,8 +7762,8 @@ msgid ""
 "|mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\\ |"
 "colorless|\\ |mana_r|. Activate only as a sorcery."
 msgstr ""
-"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ "
-"|colorless|\\ |mana_r|. Aktywuj tylko jako obrzęd."
+"|mana_r|, przywróć tego stwora do ręki właściciela: Weź |colorless|\\ |"
+"colorless|\\ |mana_r|. Aktywuj tylko jako obrzęd."
 
 #: ../../J21.rst:2630
 msgid ""
@@ -9072,8 +9077,8 @@ msgid ""
 "When Bristling Hydra enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ "
-"|energy| (trzy znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
+"energy| (trzy znaczniki energii)."
 
 #: ../../J21.rst:3087
 msgid ""
@@ -9442,8 +9447,8 @@ msgid ""
 "When Ferocious Pup enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/"
-"2."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk "
+"2/2."
 
 #: ../../J21.rst:3208
 msgid ""
@@ -9566,8 +9571,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
-"|mana_2|\\ |mana_g|.)"
+"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
+"mana_2|\\ |mana_g|.)"
 
 #: ../../J21.rst:3241
 msgid ""
@@ -9688,8 +9693,8 @@ msgid ""
 "Target creature gets +3/+3 until end of turn. You get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3. Przyjmij |energy|\\ |energy| ("
-"dwa znaczniki energii)."
+"Wskazany stwór dostaje do końca tury +3/+3. Przyjmij |energy|\\ |energy| "
+"(dwa znaczniki energii)."
 
 #: ../../J21.rst:3286
 msgid ""
@@ -9900,8 +9905,8 @@ msgid ""
 "Whenever Longtusk Cub deals combat damage to a player, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, przyjmij |energy|\\ "
-"|energy| (dwa znaczniki energii)."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przyjmij |energy|\\ |"
+"energy| (dwa znaczniki energii)."
 
 #: ../../J21.rst:3353
 msgid "Pay |energy|\\ |energy|: Put a +1/+1 counter on Longtusk Cub."
@@ -9932,8 +9937,8 @@ msgid ""
 "Whenever another Elf enters the battlefield under your control, put a +1/+1 "
 "counter on Marwyn, the Nurturer."
 msgstr ""
-"Ilekroć inny Elf wejdzie na pole bitwy pod twoim władaniem, umieść znacznik +"
-"1/+1 na niniejszym stworze."
+"Ilekroć inny Elf wejdzie na pole bitwy pod twoim władaniem, umieść znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../J21.rst:3363
 msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
@@ -10078,8 +10083,8 @@ msgid ""
 "can deal excess combat damage to the player or planeswalker they're "
 "attacking.)"
 msgstr ""
-"Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz tratowanie. ("
-"Mogą zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
+"Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz tratowanie. "
+"(Mogą zadać nadmiar obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../J21.rst:3414
 msgid ""
@@ -10268,8 +10273,8 @@ msgstr ""
 msgid ""
 "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.\""
 msgstr ""
-"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź "
-"|mana_g|.\""
+"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź |"
+"mana_g|.\""
 
 #: ../../J21.rst:3478
 msgid ""
@@ -10305,8 +10310,8 @@ msgid ""
 "When Sage of Shaila's Claim enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ "
-"|energy| (trzy znaczniki energii)."
+"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
+"energy| (trzy znaczniki energii)."
 
 #: ../../J21.rst:3492
 msgid ""
@@ -10616,8 +10621,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, you may pay |mana_1|. If you "
 "do, return Squirrel Sanctuary to its owner's hand."
 msgstr ""
-"Ilekroć umrze nieżetonowy stwór pod twoim władanie, możesz zapłacić |mana_1|"
-". Jeśli tak zrobisz, przywróć ten urok do ręki właściciela."
+"Ilekroć umrze nieżetonowy stwór pod twoim władanie, możesz zapłacić |"
+"mana_1|. Jeśli tak zrobisz, przywróć ten urok do ręki właściciela."
 
 #: ../../J21.rst:3596
 msgid ""
@@ -10857,8 +10862,8 @@ msgid ""
 "When Twin-Silk Spider enters the battlefield, create a 1/2 green Spider "
 "creature token with reach."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Pająk 1/"
-"2 z zasięgiem."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Pająk "
+"1/2 z zasięgiem."
 
 #: ../../J21.rst:3678
 msgid ""
@@ -10882,8 +10887,8 @@ msgid ""
 "Whenever you sacrifice a Clue, create a 1/1 white Human Soldier creature "
 "token."
 msgstr ""
-"Ilekroć poświęcisz Wskazówkę, stwórz żeton białego stwora Człowiek Piechur 1/"
-"1."
+"Ilekroć poświęcisz Wskazówkę, stwórz żeton białego stwora Człowiek Piechur "
+"1/1."
 
 #: ../../J21.rst:3684
 msgid ""
@@ -11171,8 +11176,8 @@ msgid ""
 "Each other creature you control without a +1/+1 counter on it has outlast |"
 "mana_gw|."
 msgstr ""
-"Każdy inny stwór pod twoim władaniem bez znacznika +1/+1 ma przetrwanie "
-"|mana_gw|."
+"Każdy inny stwór pod twoim władaniem bez znacznika +1/+1 ma przetrwanie |"
+"mana_gw|."
 
 #: ../../J21.rst:3796
 msgid ""
@@ -12722,8 +12727,8 @@ msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina 0/"
-"1."
+"Kiedy ten ląd wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina "
+"0/1."
 
 #: ../../J21.rst:4346
 msgid ""
@@ -12771,8 +12776,8 @@ msgid ""
 "When Rupture Spire enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz "
-"|mana_1|."
+"Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz |"
+"mana_1|."
 
 #: ../../J21.rst:4370
 msgid ""
