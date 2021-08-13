@@ -39,7 +39,7 @@ Nadchodzące
 
 * Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)
 * Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` (Premiera: 2021-09-24)
-* Arena: :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| (Premiera: 2021-08-12) tylko cyfrowo
+* Arena: :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| (Premiera: 2021-08-26) tylko cyfrowo
 
 Standard
 --------
