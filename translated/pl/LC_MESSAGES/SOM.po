@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-16 14:47+0200\n"
+"POT-Creation-Date: 2021-08-23 21:21+0200\n"
 "PO-Revision-Date: 2021-07-23 17:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
@@ -262,8 +262,8 @@ msgid ""
 "Players can't search libraries. Any player may pay |mana_2| for that player "
 "to ignore this effect until end of turn."
 msgstr ""
-"Gracze nie mogą przeszukiwać bibliotek. Dowolny gracz może zapłacić |mana_2|"
-", by zignorować ten efekt do końca tury."
+"Gracze nie mogą przeszukiwać bibliotek. Dowolny gracz może zapłacić |"
+"mana_2|, by zignorować ten efekt do końca tury."
 
 #: ../../SOM.rst:82
 msgid ""
@@ -1629,8 +1629,8 @@ msgid ""
 "When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
-"2/+0."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
+"+2/+0."
 
 #: ../../SOM.rst:546
 msgid ""
@@ -2397,8 +2397,8 @@ msgid ""
 "When Flight Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_u|. If you do, draw a card."
 msgstr ""
-"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_u|"
-". Jeśli tak zrobisz, dobierz kartę."
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_u|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:808
 msgid ""
@@ -2593,8 +2593,8 @@ msgid ""
 "When Horizon Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_g|. If you do, draw a card."
 msgstr ""
-"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_g|"
-". Jeśli tak zrobisz, dobierz kartę."
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_g|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:868
 msgid ""
@@ -2606,7 +2606,8 @@ msgstr ""
 #: ../../SOM.rst:867
 msgid ""
 "Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn."
-msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2."
+msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2."
 
 #: ../../SOM.rst:874
 msgid ""
@@ -2951,8 +2952,8 @@ msgid ""
 "When Nihil Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
-"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_b|"
-". Jeśli tak zrobisz, dobierz kartę."
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_b|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:984
 msgid ""
@@ -2977,8 +2978,8 @@ msgid ""
 "battlefield, you may pay |mana_4|. If you do, return that card to the "
 "battlefield and attach Nim Deathmantle to it."
 msgstr ""
-"Ilekroć nieżetonowy stwór trafi do cmentarza z pola bitwy, możesz zapłacić "
-"|mana_4|. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy i dołącz do "
+"Ilekroć nieżetonowy stwór trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_4|. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy i dołącz do "
 "niego ten artefakt."
 
 #: ../../SOM.rst:990
@@ -3001,8 +3002,8 @@ msgid ""
 "When Origin Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_w|. If you do, draw a card."
 msgstr ""
-"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_w|"
-". Jeśli tak zrobisz, dobierz kartę."
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_w|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:994
 msgid ""
@@ -3033,8 +3034,8 @@ msgid ""
 "When Panic Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_r|. If you do, draw a card."
 msgstr ""
-"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_r|"
-". Jeśli tak zrobisz, dobierz kartę."
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_r|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SOM.rst:1004
 msgid ""
@@ -3201,8 +3202,8 @@ msgid ""
 "Spells you cast that share a card type with the exiled card cost |mana_2| "
 "less to cast."
 msgstr ""
-"Rzucanie czarów mających z wygnaną kartą wspólny typ karty kosztuje cię o "
-"|mana_2| mniej."
+"Rzucanie czarów mających z wygnaną kartą wspólny typ karty kosztuje cię o |"
+"mana_2| mniej."
 
 #: ../../SOM.rst:1054
 msgid ""
@@ -3405,8 +3406,8 @@ msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Corruption: Put a "
 "-1/-1 counter on target creature."
 msgstr ""
-"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Umieść znacznik -1/-"
-"1 na wskazanym stworze."
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Umieść znacznik "
+"-1/-1 na wskazanym stworze."
 
 #: ../../SOM.rst:1128
 msgid ""
@@ -3500,7 +3501,8 @@ msgstr "|mana_u|\\ |mana_u|, |tap|: Umieść znacznik ładunku na tym artefakcie
 #: ../../SOM.rst:1151
 msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Thought: Draw a card."
-msgstr "|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Dobierz kartę."
+msgstr ""
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Dobierz kartę."
 
 #: ../../SOM.rst:1158
 msgid ""
