@@ -263,6 +263,79 @@ msgctxt "ZoneType_Your_Sideboard"
 msgid "Your Sideboard"
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Accept_Body"
+msgid ""
+"Choose one of three random offers, then one of three random conditions."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Accept_Title"
+msgid "Accept"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Conjure_Body"
+msgid "A conjured card is added to the game."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Conjure_Title"
+msgid "Conjure"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Perpetual_Body"
+msgid ""
+"Perpetual effects and counters are not removed from cards that change zones."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Perpetual_Title"
+msgid "Perpetual"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Seek_Body"
+msgid "To seek a card, put one at random from your library into your hand."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Seek_Title"
+msgid "Seek"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Unearth_Body"
+msgid ""
+"{abilityCost}: Return this card from your graveyard to the battlefield. It "
+"gains haste. Exile it at the beginning of the next end step or if it would "
+"leave the battlefield. Unearth only as a sorcery."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Unearth_Title"
+msgid "Unearth"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_ModPowerToughnessNegative"
+msgid "-{power}/-{toughness}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_ModPowerToughnessPositive"
+msgid "+{power}/+{toughness}"
+msgstr ""
+
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetPower"
+msgid "Base power set to {power}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetPowerToughness"
+msgid "Base power/toughness set to {power}/{toughness}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetToughness"
+msgid "Base toughness set to {toughness}"
+msgstr ""
+
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Title"
+msgid "Perpetual Power and Toughness Changes"
+msgstr ""
+
 msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body"
 msgid "Right-click for more information."
 msgstr ""
@@ -959,6 +1032,14 @@ msgctxt "Card/Subtype/AllCreatureTypes"
 msgid "All Creature Types"
 msgstr ""
 
+msgctxt "Card/Subtype/AllCreatureTypesExcept"
+msgid "All Creature Types Except {exceptions}"
+msgstr ""
+
+msgctxt "Card/Subtype/AllCreatureTypesExceptTitleBar"
+msgid "(All Except {exceptions})"
+msgstr ""
+
 msgctxt "Card/Textbox/Kicked"
 msgid "Kicked"
 msgstr ""
@@ -969,6 +1050,14 @@ msgstr ""
 
 msgctxt "Card/Textbox/NotKicked"
 msgid "Not Kicked"
+msgstr ""
+
+msgctxt "Card/TitleOverride/DavrielsCondition"
+msgid "Davriel's Condition"
+msgstr ""
+
+msgctxt "Card/TitleOverride/DavrielsOffer"
+msgid "Davriel's Offer"
 msgstr ""
 
 msgctxt "Decks/Precon/Festival_KHM_BR"
@@ -1113,6 +1202,26 @@ msgstr ""
 
 msgctxt "Decks/Precon/Precon_StarterAmazon2021_UR"
 msgid "Sneak Attack"
+msgstr ""
+
+msgctxt "Decks/Precon/YargleDay_Charix"
+msgid "Charix, the Raging Isle"
+msgstr ""
+
+msgctxt "Decks/Precon/YargleDay_Haktos"
+msgid "Haktos the Unscarred"
+msgstr ""
+
+msgctxt "Decks/Precon/YargleDay_Yargle"
+msgid "Yargle, Glutton of Urborg"
+msgstr ""
+
+msgctxt "Decks/Precon/YargleDay_Zalto"
+msgid "Zalto, Fire Giant Duke"
+msgstr ""
+
+msgctxt "Decks/Precon/YargleDay_Zilortha"
+msgid "Zilortha, Strength Incarnate"
 msgstr ""
 
 msgctxt "Draft/Autopicking_Button"
@@ -1274,6 +1383,10 @@ msgstr ""
 
 msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_CancelBlock"
 msgid "Cancel Blocks"
+msgstr ""
+
+msgctxt "DuelScene/FaceHanger/Conjure"
+msgid "Conjures"
 msgstr ""
 
 msgctxt "DuelScene/FaceHanger/Dungeon"
@@ -1440,12 +1553,84 @@ msgctxt "Events/Event_Cat_FNM_Standard_AllAccess"
 msgid "Midweek Magic"
 msgstr ""
 
+msgctxt "Events/Event_Cat_Jumpstart_J21"
+msgid "Jumpstart"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Ladder_Historic_Bo1"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Ladder_Historic_Bo3"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Ladder_Standard_Bo1"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Ladder_Standard_Bo3"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_MWM_Future"
+msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_MWM_HistoricArtisan"
+msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_MWM_HistoricPauper"
+msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_MWM_Momir"
+msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_MWM_OneForAll"
+msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Play_Brawl_Bo1"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Play_Historic_Bo1"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Play_Brawl_Historic"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Play_Renewal2022_Bo1"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Play_Standard_Bo1"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Play_Standard_Bo3"
+msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Ranked_Renewal2022_Bo1"
+msgid "Play"
+msgstr ""
+
 msgctxt "Events/Event_Cat_Sealed_AFR"
 msgid "Sealed"
 msgstr ""
 
 msgctxt "Events/Event_Cat_Trad_Sealed_AFR"
 msgid "Sealed"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Yargle_Day_2021"
+msgid "Yargle"
 msgstr ""
 
 msgctxt "Events/Event_Cat_YawningPortal"
@@ -1487,6 +1672,24 @@ msgid ""
 "win."
 msgstr ""
 
+msgctxt "Events/Event_Desc_CubeDraft_Tinkerers_Alt"
+msgid ""
+"<b><color=\"red\">This event is phantom. Cards you draft are not added to your collection.</color></b>\n"
+"<b>Player Draft - A timed draft with 7 other players</b>\n"
+"\n"
+"Welcome to the Tinkerer's Cube, a toolbox full of cogs, widgets, and spanners. This collection of cards is stuffed with themes and subthemes, giving you tons of options to mix and match. Removal is less prevalent, as the main focus is on building the best contraption you can muster. Now get to work! To see the full list of cards in this format, click <u><link=https://magic.wizards.com/mtga-cube-draft-tinker>here</link></u>."
+msgstr ""
+
+msgctxt "Events/Event_Desc_CubeDraft_TinkerersTraditional_Alt"
+msgid ""
+"<b><color=\"red\">This event is phantom. Cards you draft are not added to your collection.</color></b>\n"
+"<b>Player Draft - A timed draft with 7 other players</b>\n"
+"\n"
+"Welcome to the Tinkerer's Cube, a toolbox full of cogs, widgets, and spanners. This collection of cards is stuffed with themes and subthemes, giving you tons of options to mix and match. Removal is less prevalent, as the main focus is on building the best contraption you can muster. Now get to work! To see the full list of cards in this format, click <u><link=https://magic.wizards.com/mtga-cube-draft-tinker>here</link></u>.\n"
+"\n"
+"Play best-of-three-game matches and receive prizes based on how many matches you win."
+msgstr ""
+
 msgctxt "Events/Event_Desc_DraftChallenge_AFR"
 msgid ""
 "Prove yourself in a high-stakes Draft Challenge! Select one card at a time from rotating draft packs. The cards will be added to your collection, and you'll use them plus basic lands to build a 40-card deck. Play best-of-three matches and receive prizes based on how many you win!\n"
@@ -1516,6 +1719,59 @@ msgid ""
 "*Note: While supplies last. Not all stores are participating."
 msgstr ""
 
+msgctxt "Events/Event_Desc_Jumpstart_J21"
+msgid ""
+"Welcome to Jumpstart: Historic Horizons!\n"
+"\n"
+"When you join this event, you will get to select two different half-decks from a variety of themes inspired by Magic's history and the <i>Modern Horizons</i> sets. Combine them, and you'll have a deck that's ready to go! You'll keep all the cards from your deck, and you can play with it as much as you want.\n"
+"\n"
+"<color=\"green\"><b>Resign at any time if you wish to rejoin and pick new packets. You will have to pay the entry again, but you can also earn all rewards again as well.</b></color>"
+msgstr ""
+
+msgctxt "Events/Event_Desc_MWM_HistoricArtisan"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"This week's event is Historic Artisan: Bring a 60-card deck using only commons, uncommons, and basic lands from any set in <i>MTG Arena</i>. Without rares, the common folk can truly be heard!\n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
+msgctxt "Events/Event_Desc_MWM_HistoricPauper"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"This week's event is Historic Pauper: Bring a 60-card Historic deck that contains only commons and basic lands. Look for some common ground with all those cards you've drafted and build something new!\n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
+msgctxt "Events/Event_Desc_MWM_Momir"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"Today's event is Momir: Use the emblem, discard a card, and pay    <sprite=\"SpriteSheet_ManaIcons\" name=\"xX\"> to create a token copy of a random creature card with mana value X. Every turn is a surprise!\n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
+msgctxt "Events/Event_Desc_MWM_OneForAll"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"This week's event is One For All: Choose your deck from out of every card on Arena. Nothing is banned, but you can use only one copy of each! What's in your toolbox?\n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
 msgctxt "Events/Event_Desc_Sealed_AFR"
 msgid ""
 "You'll receive 6 fourteen-card packs. The cards will be added to your "
@@ -1531,6 +1787,13 @@ msgid ""
 " you win!"
 msgstr ""
 
+msgctxt "Events/Event_Desc_Yargle_Day_2021"
+msgid ""
+"When Belzenlok's lieutenant Yar-Kul grew too ambitious, the Demonlord transformed him into a maggot. The frog that ate the maggot grew and grew, until a ravenous spirit burst from its body. Today, we celebrate that spirit, everyone's pal, Yargle!\n"
+"\n"
+"This year, Yargle has invited several friends who share its interests and general lopsidedness, and everyone's squaring off in a Historic Brawl showdown. Of course, it's Yargle's day, so the rules might be a little lopsided to boot, but who's counting? Choose your favorite champion and celebrate in style! Happy Yargle Day, everyone!"
+msgstr ""
+
 msgctxt "Events/Event_Desc_YawningPortal"
 msgid ""
 "<i>\"Welcome to the Yawning Portal, finest tavern in Waterdeep! You look like you've come to try your luck down the Well, right? I hope you've come ready, for your sake.\"\n"
@@ -1543,7 +1806,7 @@ msgid ""
 msgstr ""
 
 msgctxt "Events/Event_Title_AFR_DraftChallenge"
-msgid "Adventures in the Forgotten Realms Draft Challenge"
+msgid "Forgotten Realms Draft Challenge"
 msgstr ""
 
 msgctxt "Events/Event_Title_AFR_Premier_Draft"
@@ -1574,12 +1837,84 @@ msgctxt "Events/Event_Title_FNM_Standard_AllAccess"
 msgid "Midweek Magic: Standard All Access"
 msgstr ""
 
+msgctxt "Events/Event_Title_Jumpstart_J21"
+msgid "Jumpstart: Historic Horizons"
+msgstr ""
+
+msgctxt "Events/Event_Title_Ladder_Historic_Bo1"
+msgid "Historic Ranked"
+msgstr ""
+
+msgctxt "Events/Event_Title_Ladder_Historic_Bo3"
+msgid "Traditional Historic Ranked"
+msgstr ""
+
+msgctxt "Events/Event_Title_Ladder_Standard_Bo1"
+msgid "Standard Ranked"
+msgstr ""
+
+msgctxt "Events/Event_Title_Ladder_Standard_Bo3"
+msgid "Traditional Standard Ranked"
+msgstr ""
+
+msgctxt "Events/Event_Title_MWM_Future"
+msgid "Midweek Magic: Standard 2022"
+msgstr ""
+
+msgctxt "Events/Event_Title_MWM_HistoricArtisan"
+msgid "Midweek Magic: Historic Artisan"
+msgstr ""
+
+msgctxt "Events/Event_Title_MWM_HistoricPauper"
+msgid "Midweek Magic: Historic Pauper"
+msgstr ""
+
+msgctxt "Events/Event_Title_MWM_Momir"
+msgid "Midweek Magic: Momir"
+msgstr ""
+
+msgctxt "Events/Event_Title_MWM_OneForAll"
+msgid "Midweek Magic: One For All"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Brawl_Bo1"
+msgid "Standard Brawl"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Historic_Bo1"
+msgid "Historic Play"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Brawl_Historic"
+msgid "Historic Brawl"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Renewal2022_Bo1"
+msgid "Standard 2022 Play"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Standard_Bo1"
+msgid "Standard Play"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Standard_Bo3"
+msgid "Traditional Standard Play"
+msgstr ""
+
+msgctxt "Events/Event_Title_Ranked_Renewal2022_Bo1"
+msgid "Standard 2022 Ranked"
+msgstr ""
+
 msgctxt "Events/Event_Title_Sealed_AFR"
 msgid "Sealed Forgotten Realms"
 msgstr ""
 
 msgctxt "Events/Event_Title_Trad_Sealed_AFR"
 msgid "Traditional Sealed Forgotten Realms"
+msgstr ""
+
+msgctxt "Events/Event_Title_Yargle_Day_2021"
+msgid "Yargle Day!"
 msgstr ""
 
 msgctxt "Events/Event_Title_YawningPortal"
@@ -1597,6 +1932,190 @@ msgid ""
 "<b><color=red>Be sure to complete your event course by August 12! That day's"
 " maintenance will result in this event shutting down, though it will be "
 "restarted afterward.</color></b>"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Above_the_Clouds"
+msgid "Above the Clouds"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Animate_Artifacts"
+msgid "Animated"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Artifact_Affinity"
+msgid "In the Machine"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Atrophy"
+msgid "Plague"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Bears"
+msgid "Bears"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Blink_of_an_Eye"
+msgid "Flickering"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Changeling"
+msgid "Many Faced"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Countermagic"
+msgid "Undone"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Cycling_Tactics"
+msgid "Cycling"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Davriel"
+msgid "Davriel"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Delirium"
+msgid "Delirium"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Draw_Two"
+msgid "On the Draw"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Enchantments"
+msgid "Enchanted"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Energy"
+msgid "Energy"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Freyalise"
+msgid "Freyalise"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Goblin_Fodder"
+msgid "Goblin Fodder"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Goblins"
+msgid "Goblins"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Humans"
+msgid "Humans"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Junk_Shop"
+msgid "Tinkerer"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Kiora"
+msgid "Kiora"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Legion"
+msgid "Legion"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Lost_and_Found"
+msgid "Lost and Found"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Madness"
+msgid "Madness"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Merfolk"
+msgid "Merfolk"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Modular_Mechanisms"
+msgid "Modular"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Ninjas"
+msgid "Ninja"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Pack_Tactics"
+msgid "Zoologist"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Plus_One"
+msgid "Scaled Up"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Power_in_Death"
+msgid "Relentless"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Pumped_Up"
+msgid "Pumped Up"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Rats"
+msgid "Rats"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Reanimator"
+msgid "Reanimated"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Sacrificial_Artifacts"
+msgid "Junkyard"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Sarkhan"
+msgid "Sarkhan"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Scavengers"
+msgid "Scavenger"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Scorched_Earth"
+msgid "Scorched Earth"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Serras_Realm"
+msgid "Serra's Realm"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Shamans"
+msgid "Spellcasting"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Simic_Evolution"
+msgid "Evolving"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Sliver_Assault"
+msgid "Sliver Assault"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Sliver_Hive"
+msgid "Sliver Hive"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Squirrels"
+msgid "Squirrels"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Storm"
+msgid "Storm"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Teyo"
+msgid "Teyo"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Vampires"
+msgid "Vampire"
+msgstr ""
+
+msgctxt "Events/Packets/JMP21_PacketName_Zombies"
+msgid "Zombie"
 msgstr ""
 
 msgctxt "General/Sets/AER"
@@ -1633,6 +2152,10 @@ msgstr ""
 
 msgctxt "General/Sets/IKO"
 msgid "Ikoria Lair of Behemoths"
+msgstr ""
+
+msgctxt "General/Sets/J21"
+msgid "Jumpstart: Historic Horizons"
 msgstr ""
 
 msgctxt "General/Sets/JMP"
@@ -2306,6 +2829,30 @@ msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_AFR_419750"
 msgid "Old Gnawbone Sleeve"
 msgstr ""
 
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_418349"
+msgid "Svyelun Of Sea and Sky Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_423988"
+msgid "Teyo, Aegis Adept Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_423989"
+msgid "Kiora, the Tide's Fury Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_423990"
+msgid "Davriel, Soul Broker Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_423991"
+msgid "Sarkhan, Wanderer to Shiv Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_423992"
+msgid "Freyalise, Skyshroud Partisan Sleeve"
+msgstr ""
+
 msgctxt "MainNav/DeckFormat/3Sets"
 msgid "Festival: 3 Sets"
 msgstr ""
@@ -2316,6 +2863,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricBrawl100"
 msgid "100-Card Historic Brawl"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/HistoricSingletonNoBans"
+msgid "One For All"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/ZombieStandard"
@@ -2428,6 +2979,10 @@ msgstr ""
 
 msgctxt "MainNav/EventPage/Event_Popup_Text_Jumpstart_1R_ICR"
 msgid "Card will be from Jumpstart and at least Rare"
+msgstr ""
+
+msgctxt "MainNav/EventPage/Event_Popup_Text_JumpstartHH_1R_ICR"
+msgid "Card will be from Jumpstart or a Modern Horizons set and at least Rare"
 msgstr ""
 
 msgctxt "MainNav/EventPage/EventEndTimer"
@@ -2744,6 +3299,12 @@ msgid ""
 "Join between 6am and 8am Pacific"
 msgstr ""
 
+msgctxt "MainNav/General/Token_OpenDay2_20210905"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
 msgctxt "MainNav/General/Token_Qualifier_Day2_20210808"
 msgid ""
 "Qualifier Weekend Day 2 Qualification\n"
@@ -2754,7 +3315,15 @@ msgctxt "MainNav/General/Token_USD_1000_20210801"
 msgid "$1,000 USD"
 msgstr ""
 
+msgctxt "MainNav/General/Token_USD_1000_20210905"
+msgid "$1,000 USD"
+msgstr ""
+
 msgctxt "MainNav/General/Token_USD_2000_20210801"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20210905"
 msgid "$2,000 USD"
 msgstr ""
 
@@ -2990,6 +3559,16 @@ msgctxt "MainNav/HomePage/Carousel/21_07_Store_Title"
 msgid "Adventures in the Forgotten Realms is now available!"
 msgstr ""
 
+msgctxt "MainNav/HomePage/Carousel/21_08_Store_Desc"
+msgid ""
+"Check out Nyx basic lands, the Thopter bundle, and depth art styles for "
+"Jumpstart: Historic Horizons!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/21_08_Store_Title"
+msgid "Nyx Lands Return!"
+msgstr ""
+
 msgctxt "MainNav/HomePage/Carousel/AFR_Sealed_Desc"
 msgid ""
 "Grab your dice and prepare for adventure by building a 40-card sealed deck "
@@ -3018,12 +3597,39 @@ msgctxt "MainNav/HomePage/Carousel/Announcements_Title"
 msgid "MTG Arena Announcements"
 msgstr ""
 
+msgctxt "MainNav/HomePage/Carousel/Jumpstart_J21_Desc"
+msgid ""
+"Choose two themed packets to form your deck while growing your Historic "
+"collection!"
+msgstr ""
+
 msgctxt "MainNav/HomePage/Carousel/Midweek_Magic_Change_Desc"
 msgid "The same weekly event you love, but now midweek instead of on Friday!"
 msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/Midweek_Magic_Change_Title"
 msgid "FNM at Home is now Midweek Magic"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SecretLair_Superdrop_Desc"
+msgid "Learn more about the latest Secret Lair Superdrop!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SecretLair_Superdrop_Last_Chance_Desc"
+msgid ""
+"Learn more about the latest Secret Lair Superdrop - Last chance to order!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SecretLair_Superdrop_Title"
+msgid "Secret Lair: Superdrop"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SecretLair_Yargle_Desc"
+msgid "Enjoy a Secret Lair themed on everyone's favorite 9/3!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SecretLair_Yargle_Title"
+msgid "Secret Lair: Yargle Day"
 msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/SOTG_Desc"
@@ -3046,12 +3652,12 @@ msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/Unification_Courses_Desc"
 msgid ""
-"Maintenance will result in events being restarted on August 12, so finish "
+"Maintenance will result in events being restarted on August 10, so finish "
 "your events before then."
 msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/Unification_Courses_Title"
-msgid "Finish in-progress events by August 12!"
+msgid "Finish in-progress events by August 10!"
 msgstr ""
 
 msgctxt "MainNav/HomePage/EventBlade/ConstructedRank"
@@ -3090,6 +3696,12 @@ msgstr ""
 
 msgctxt "MainNav/HomePage/EventBlade/Tooltip_ChooseDeck"
 msgid "Click to Choose Deck"
+msgstr ""
+
+msgctxt "MainNav/HomePage/EventBlade/Tooltip_HistoricBrawlQueue"
+msgid ""
+"Play a game with a 100-card Historic deck built around a legendary creature "
+"or planeswalker."
 msgstr ""
 
 msgctxt "MainNav/HomePage/EventBlade/Tooltip_HistoricPlayQueue"
@@ -3712,6 +4324,10 @@ msgstr ""
 
 msgctxt "MainNav/NavBar/Learn_Tooltip"
 msgid "Learn More"
+msgstr ""
+
+msgctxt "MainNav/NavBar/MasteryDisabled_Tooltip"
+msgid "Set Mastery is currently unavailable."
 msgstr ""
 
 msgctxt "MainNav/NavBar/NavBar_Decks_Text"
@@ -4566,6 +5182,18 @@ msgctxt "MainNav/ProdcutContent/ProductContent_Header_Title"
 msgid "Products"
 msgstr ""
 
+msgctxt "MainNav/Profile/Avatars/Davriel_J21_Bio"
+msgid ""
+"Davriel Cane is a simple man who enjoys simple pleasures: wealth, luxury, "
+"and fine tea. He also happens to be a talented diabolist, skilled at binding"
+" demons to his service. He detests playing the hero, yet often finds himself"
+" in the role despite his best efforts to avoid it."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Davriel_J21_Name"
+msgid "Davriel"
+msgstr ""
+
 msgctxt "MainNav/Profile/Avatars/Ellywick_AFR_Bio"
 msgid "Ellywick Tumblestrum"
 msgstr ""
@@ -4576,6 +5204,66 @@ msgid ""
 "greatest bard in the multiverse. Her enchanting music so moved the Summer "
 "Queen and the Queen of Air and Darkness that they gifted the bard with her "
 "instrument, Morningmist."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Freyalise_J21_Bio"
+msgid ""
+"A half-elven Planeswalker from a bygone era, Freyalise was a leader of elven"
+" clans who used her incredible power to protect their forest home. She "
+"heroically sacrificed her life to save her people and prevented a "
+"catastrophe that threatened to destroy Dominaria."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Freyalise_J21_Name"
+msgid "Freyalise"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Kiora_J21_Bio"
+msgid ""
+"Cocky, brash, and occasionally selfish, Kiora is a merfolk Planeswalker who "
+"wields a magical bident she once stole from a god. She shares a close bond "
+"with creatures of the ocean, especially the titanic leviathans that lurk "
+"deep beneath the waves."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Kiora_J21_Name"
+msgid "Kiora"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Sarkhan_J21_Bio"
+msgid ""
+"Sarkhan Vol is a wandering shaman whose obsessive reverence for dragons "
+"drove him into the service of an ancient evil. After years of madness, he "
+"recovered his senses and turned his draconic powers toward vengeance against"
+" his former master."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Sarkhan_J21_Name"
+msgid "Sarkhan"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Teyo_J21_Bio"
+msgid ""
+"Teyo Verada is a young, inexperienced shield mage who was unexpectedly "
+"thrust into the chaos of war, surviving deadly trials against all odds. He's"
+" still learning what it means to be a Planeswalker and has only scratched "
+"the surface of his true potential."
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Teyo_J21_Name"
+msgid "Teyo"
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Tibalt_KHM_Bio"
+msgid ""
+"A sadistic, interplanar menace who revels in the suffering of others, Tibalt"
+" brings misery and conflict wherever he goes. Though born human on "
+"Innistrad, his fascination with pain drove him to explore fiendish magic "
+"that ultimately transformed him into a half-devil. "
+msgstr ""
+
+msgctxt "MainNav/Profile/Avatars/Tibalt_KHM_Name"
+msgid "Tibalt"
 msgstr ""
 
 msgctxt "MainNav/Quest/ColorChallenge"
@@ -5067,23 +5755,27 @@ msgid "\"July 2021\""
 msgstr ""
 
 msgctxt "MainNav/Season/Season32Name"
-msgid "\"August 2021\""
+msgid "August 2021"
 msgstr ""
 
 msgctxt "MainNav/Season/Season33Name"
-msgid "\"September 2021\""
+msgid "August 2021"
 msgstr ""
 
 msgctxt "MainNav/Season/Season34Name"
-msgid "\"October 2021\""
+msgid "September 2021"
 msgstr ""
 
 msgctxt "MainNav/Season/Season35Name"
-msgid "\"November 2021\""
+msgid "October 2021"
 msgstr ""
 
 msgctxt "MainNav/Season/Season36Name"
-msgid "\"December 2021\""
+msgid "November 2021"
+msgstr ""
+
+msgctxt "MainNav/Season/Season37Name"
+msgid "December 2021"
 msgstr ""
 
 msgctxt "MainNav/Season/Season3Name"
@@ -5400,6 +6092,79 @@ msgstr ""
 
 msgctxt "MainNav/Store/Bundles/Bundle_BPW_AFR_Name"
 msgid "Adventures in the Forgotten Realms Borderless Planeswalkers Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Davriel_Desc"
+msgid ""
+"Davriel Avatar\n"
+"Davriel, Soul Broker Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Davriel_Name"
+msgid "Davriel Avatar Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Freyalise_Desc"
+msgid ""
+"Freyalise Avatar\n"
+"Freyalise, Skyshroud Partisan Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Freyalise_Name"
+msgid "Freyalise Avatar Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Kiora_Desc"
+msgid ""
+"Kiora Avatar\n"
+"Kiora, the Tide's Fury Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Kiora_Name"
+msgid "Kiora Avatar Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Sarkhan_Desc"
+msgid ""
+"Sarkhan Avatar\n"
+"Sarkhan, Wanderer to Shiv Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Sarkhan_Name"
+msgid "Sarkhan Avatar Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Teyo_Desc"
+msgid ""
+"Teyo Avatar\n"
+"Teyo, Aegis Adept Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_J21_Teyo_Name"
+msgid "Teyo Avatar Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_KLR_Thopter_Desc"
+msgid ""
+"Thopter Pet\n"
+"Thopter Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_KLR_Thopter_Name"
+msgid "Thopter Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_YargleDay_Desc"
+msgid ""
+"Opt Card Style\n"
+"Fatal Push Card Style\n"
+"Swords to Plowshares Card Style\n"
+"Anger of the Gods Card Style\n"
+"Explore Card Style"
+msgstr ""
+
+msgctxt "MainNav/Store/Bundles/Bundle_YargleDay_Name"
+msgid "Happy Yargle Day"
 msgstr ""
 
 msgctxt "MainNav/Vault/DraftProgressDescription"
@@ -6354,7 +7119,7 @@ msgid "{dateTime}"
 msgstr ""
 
 msgctxt "Renewal/UpcomingRenewal_Timing"
-msgid "Opens when <i>Innistrad: Midnight Hunt</i> releases on September 17."
+msgid "Opens when <i>Innistrad: Midnight Hunt</i> releases in September."
 msgstr ""
 
 msgctxt "Renewal/UpcomingRenewal_Title"

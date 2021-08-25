@@ -114,11 +114,12 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
         annotated[card["titleId"]]["flags"].add("card_title")
         annotated[card["flavorId"]]["flags"].add("flavor_text")
         annotated[card["cardTypeTextId"]]["flags"].add("card_type")
-        annotated[card["subtypeTextId"]]["flags"].add("card_subtype")
-        card_types = {f"type_{cardtype_trans[t]}" for t in card["types"]}
-        for ability in card["abilities"]:
-            annotated[ability["textId"]]["flags"].update(card_types)
-            annotated[ability["textId"]]["flags"].add("printed_ability")
+        if "subtypeTextId" in card:
+            annotated[card["subtypeTextId"]]["flags"].add("card_subtype")
+        card_types = {f"type_{cardtype_trans[t]}" for t in card.get("types", [])} or {"not a card?"}
+        for ability in card.get("abilities", []):
+            annotated[ability["TextId"]]["flags"].update(card_types)
+            annotated[ability["TextId"]]["flags"].add("printed_ability")
     for ability in annotated.values():
         if not ability["flags"]:
             ability["flags"].add("maybe_hidden")
