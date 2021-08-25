@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-23 21:21+0200\n"
-"PO-Revision-Date: 2021-08-08 21:44+0000\n"
+"PO-Revision-Date: 2021-08-25 07:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -859,6 +859,8 @@ msgid ""
 "Delirium — Foul Watcher gets +1/+0 as long as there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +1/+0 o ile w twoim cmentarzu są karty należące "
+"do co najmniej czterech typów kart."
 
 #: ../../MH2.rst:284
 msgid ""
@@ -893,7 +895,7 @@ msgstr ""
 #: ../../MH2.rst:289
 msgid ""
 "|mana_2|\\ |mana_u|: Another target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Inny wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../MH2.rst:291
 msgid ""
@@ -969,6 +971,9 @@ msgid ""
 "nonland permanent an opponent controls. It doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"Ilekroć żeton wejdzie na pole bitwy pod twoim władaniem, przekręć wskazany "
+"nielądowy permanent pod władaniem przeciwnika. Nie odkręci się on w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../MH2.rst:316
 msgid ""
@@ -1078,7 +1083,7 @@ msgstr ""
 
 #: ../../MH2.rst:345
 msgid "|mana_2|, Sacrifice Parcel Myr: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../MH2.rst:352
 msgid ""

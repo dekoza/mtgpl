@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-23 21:21+0200\n"
-"PO-Revision-Date: 2021-07-24 11:16+0000\n"
+"PO-Revision-Date: 2021-08-25 07:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -3095,21 +3095,15 @@ msgid "When Goblin Morningstar enters the battlefield, roll a d20."
 msgstr "Kiedy ten artefakt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:955 ../../AFR.rst:1053
-#, fuzzy
-#| msgid "1-9 | Create a 1/1 red Goblin creature token."
 msgid "1—9 | Create a 1/1 red Goblin creature token."
-msgstr "1-9 | Stwórz żeton czerwonego stwora Goblin 1/1."
+msgstr "1—9 | Stwórz żeton czerwonego stwora Goblin 1/1."
 
 #: ../../AFR.rst:957
-#, fuzzy
-#| msgid ""
-#| "10-20 | Create a 1/1 red Goblin creature token, then attach Goblin "
-#| "Morningstar to it."
 msgid ""
 "10—20 | Create a 1/1 red Goblin creature token, then attach Goblin "
 "Morningstar to it."
 msgstr ""
-"10-20 | Stwórz żeton czerwonego stwora Goblin 1/1, po czym dołącz do niego "
+"10—20 | Stwórz żeton czerwonego stwora Goblin 1/1, po czym dołącz do niego "
 "ten artefakt."
 
 #: ../../AFR.rst:968

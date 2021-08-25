@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-23 21:21+0200\n"
-"PO-Revision-Date: 2021-08-08 21:44+0000\n"
+"PO-Revision-Date: 2021-08-25 07:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -3353,6 +3353,8 @@ msgid ""
 "Delirium — Foul Watcher gets +1/+0 as long as there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +1/+0 o ile w twoim cmentarzu są karty należące "
+"do co najmniej czterech typów kart."
 
 #: ../../J21.rst:1132
 msgid ""
@@ -3375,7 +3377,7 @@ msgstr ""
 #: ../../J21.rst:1137
 msgid ""
 "|mana_2|\\ |mana_u|: Another target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Inny wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../J21.rst:1139
 msgid ""
@@ -3552,6 +3554,9 @@ msgid ""
 "nonland permanent an opponent controls. It doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"Ilekroć żeton wejdzie na pole bitwy pod twoim władaniem, przekręć wskazany "
+"nielądowy permanent pod władaniem przeciwnika. Nie odkręci się on w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../J21.rst:1202
 msgid ""
@@ -3762,6 +3767,8 @@ msgstr "Inne Wodniki pod twoim władaniem dostają +1/+1."
 msgid ""
 "Whenever you cast a Merfolk spell, you may tap or untap target permanent."
 msgstr ""
+"Ilekroć rzucisz czar Wodnika, możesz przekręcić lub odkręcić wskazany "
+"permanent."
 
 #: ../../J21.rst:1276
 msgid ""
@@ -3919,7 +3926,7 @@ msgstr ""
 
 #: ../../J21.rst:1333
 msgid "|mana_2|, Sacrifice Parcel Myr: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../J21.rst:1338
 msgid ""
@@ -7691,13 +7698,15 @@ msgstr "Kiedy ten artefakt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../J21.rst:2601
 msgid "1—9 | Create a 1/1 red Goblin creature token."
-msgstr ""
+msgstr "1—9 | Stwórz żeton czerwonego stwora Goblin 1/1."
 
 #: ../../J21.rst:2603
 msgid ""
 "10—20 | Create a 1/1 red Goblin creature token, then attach Goblin "
 "Morningstar to it."
 msgstr ""
+"10—20 | Stwórz żeton czerwonego stwora Goblin 1/1, po czym dołącz do niego "
+"ten artefakt."
 
 #: ../../J21.rst:2608
 msgid ""
