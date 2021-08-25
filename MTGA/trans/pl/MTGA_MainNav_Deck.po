@@ -551,6 +551,13 @@ msgid ""
 "This action can't be undone."
 msgstr ""
 
+#, fuzzy
+#| msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageContent_ConfirmSavingDeck"
+#| msgid "Save or discard the changes to this deck before exiting?"
+msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageDescription_DiscardChanges"
+msgid "Discard changes to this deck and exit?"
+msgstr "Chcesz przed wyjściem zapisać czy odrzucić zmiany w tej talii?"
+
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_ConfirmSavingDeck"
 msgid "Save Changes?"
 msgstr ""
@@ -566,6 +573,13 @@ msgstr "Potrzebna nazwa talii"
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_DeckNameIsTooLong"
 msgid "Deck Name Too Long"
 msgstr "Talia ma zbyt długą nazwę"
+
+#, fuzzy
+#| msgctxt "MainNav/DeckManager/Resume_Edit_Discard"
+#| msgid "Discard Deck"
+msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_DiscardChanges"
+msgid "Discard Changes?"
+msgstr "Odrzuć talię"
 
 msgctxt "MainNav/DeckBuilder/DeckBuilder_MessageTitle_InvalidDeck"
 msgid "Invalid Deck"
@@ -1437,7 +1451,7 @@ msgid "Damnation Exquisite Sleeve"
 msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Exquisite_GaeasCradle"
-msgid "Gaea's Cradle Exquisite Sleeve"
+msgid "Gaea's Cradle Sleeve"
 msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_Exquisite_LightningBolt"
@@ -2055,14 +2069,6 @@ msgctxt "MainNav/DeckFormat/ArtisanFuture"
 msgid "Future Artisan"
 msgstr ""
 
-msgctxt "MainNav/DeckFormat/ArtisanHistoric"
-msgid "Historic Artisan"
-msgstr ""
-
-msgctxt "MainNav/DeckFormat/ArtisanStandard"
-msgid "Artisan"
-msgstr ""
-
 msgctxt "MainNav/DeckFormat/Brawl"
 msgid "Brawl"
 msgstr "Bitka"
@@ -2125,6 +2131,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricAprilFoolsLimited"
 msgid "No Limits"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/HistoricArtisan"
+msgid "Historic Artisan"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/HistoricBrawl"
@@ -2209,6 +2219,10 @@ msgstr ""
 
 msgctxt "MainNav/DeckFormat/Standard"
 msgid "Standard"
+msgstr ""
+
+msgctxt "MainNav/DeckFormat/StandardArtisan"
+msgid "Artisan"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/StandardGiantMonsters"
