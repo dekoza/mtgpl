@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-03 18:33+0200\n"
-"PO-Revision-Date: 2021-08-08 21:44+0000\n"
+"PO-Revision-Date: 2021-09-03 19:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.2\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -258,13 +258,15 @@ msgstr ""
 
 #: ../../MID.rst:13
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../MID.rst:15
 msgid ""
 "If Generous Soul would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
+"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../MID.rst:22
 msgid ""
@@ -279,6 +281,9 @@ msgid ""
 "exile target creature an opponent controls until this creature leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub transformuję na tę stronę, wygnaj "
+"wskazanego stwora pod władaniem przeciwnika dopóki niniejszy stwór nie "
+"opuści pola bitwy."
 
 #: ../../MID.rst:21 ../../MID.rst:131 ../../MID.rst:153 ../../MID.rst:227
 #: ../../MID.rst:261 ../../MID.rst:279 ../../MID.rst:343
@@ -296,11 +301,11 @@ msgstr ""
 
 #: ../../MID.rst:25
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../MID.rst:27
 msgid "Ward—Pay 3 life."
-msgstr ""
+msgstr "Opieka — Zapłać 3 życia."
 
 #: ../../MID.rst:29 ../../MID.rst:139 ../../MID.rst:159 ../../MID.rst:235
 #: ../../MID.rst:265 ../../MID.rst:285 ../../MID.rst:351
@@ -318,15 +323,16 @@ msgstr ""
 
 #: ../../MID.rst:33 ../../MID.rst:81 ../../MID.rst:311
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../MID.rst:35
 msgid "Enchanted creature has defender."
-msgstr ""
+msgstr "Zauroczony stwór ma obronność."
 
 #: ../../MID.rst:37
 msgid "Prevent all combat damage that would be dealt by enchanted creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mógłby zadać zauroczony stwór."
 
 #: ../../MID.rst:39
 msgid ""
@@ -344,11 +350,11 @@ msgstr ""
 
 #: ../../MID.rst:43
 msgid "Flying, double strike"
-msgstr ""
+msgstr "Latanie, podwójny cios"
 
 #: ../../MID.rst:45 ../../MID.rst:53
 msgid "You have hexproof."
-msgstr ""
+msgstr "Masz antyklątwę."
 
 #: ../../MID.rst:47
 msgid ""
@@ -367,7 +373,7 @@ msgstr ""
 
 #: ../../MID.rst:51 ../../MID.rst:69 ../../MID.rst:113 ../../MID.rst:181
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../MID.rst:55
 msgid ""
@@ -386,16 +392,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:61
-#, fuzzy
-#| msgid ""
-#| "Whenever another Zombie enters the battlefield under your control, put a "
-#| "+1/+1 counter on Champion of the Perished."
 msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Unruly "
 "Mob."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, umieść "
-"znacznik +1/+1 na niniejszym stworze."
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../MID.rst:66
 msgid ""
@@ -466,7 +468,7 @@ msgstr ""
 
 #: ../../MID.rst:85
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../MID.rst:90
 msgid ""
@@ -498,16 +500,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:95
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you have exactly thirteen cards in "
-#| "your hand, you win the game."
 msgid ""
 "At the beginning of your upkeep, if you control three or more creature "
 "tokens, you may transform \"Geri the Cleaner\"."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli masz w ręce dokładnie trzynaście "
-"kart, wygrywasz grę."
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
+"żetonami stworów, możesz transformować tę kartę."
 
 #: ../../MID.rst:102
 msgid ""
@@ -524,14 +522,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:101
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you have exactly thirteen cards in "
-#| "your hand, you win the game."
 msgid "At the beginning of your upkeep, you may transform \"Al's Toy Barn\"."
-msgstr ""
-"Na początku twojego kroku utrzymania, jeśli masz w ręce dokładnie trzynaście "
-"kart, wygrywasz grę."
+msgstr "Na początku twojego kroku utrzymania, możesz transformować tę kartę."
 
 #: ../../MID.rst:108
 msgid ""
@@ -548,10 +540,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:107
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_u|: Draw a card."
 msgid "Flashback |mana_3|\\ |mana_u|"
-msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
+msgstr "Wspomnienie |mana_3|\\ |mana_u|"
 
 #: ../../MID.rst:114
 msgid ""
@@ -562,7 +552,7 @@ msgstr ""
 
 #: ../../MID.rst:111
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../MID.rst:122
 msgid ""
@@ -660,7 +650,7 @@ msgstr ""
 
 #: ../../MID.rst:147 ../../MID.rst:213
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../MID.rst:149
 msgid ""
@@ -672,6 +662,8 @@ msgid ""
 "At the beginning of enchanted player's upkeep, that player loses 1 life and "
 "you gain 1 life."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 1 życie, a "
+"ty zyskaj 1 życie."
 
 #: ../../MID.rst:160
 msgid ""
@@ -683,7 +675,7 @@ msgstr ""
 
 #: ../../MID.rst:157
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../MID.rst:164
 msgid ""
@@ -693,10 +685,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:163
-#, fuzzy
-#| msgid "Destroy target creature. You lose 2 life."
 msgid "Destroy target creature without flying."
-msgstr "Zniszcz wskazanego stwora. Strać 2 życia."
+msgstr "Zniszcz wskazanego stwora nie mającego latania."
 
 #: ../../MID.rst:168
 msgid ""
@@ -829,6 +819,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../MID.rst:207
 msgid ""
@@ -869,10 +861,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:221
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_u|: Draw a card."
 msgid "|mana_2|\\ |mana_r|, Discard a card: Draw a card."
-msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
+msgstr "|mana_2|\\ |mana_r|, odrzuć kartę: Dobierz kartę."
 
 #: ../../MID.rst:228
 msgid ""
@@ -939,16 +929,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:247
-#, fuzzy
-#| msgid ""
-#| "Look at the top card of your library. You may put that card into your "
-#| "graveyard."
 msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Exile the top card of your library. You may play "
 "that card this turn."
 msgstr ""
-"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę w "
-"twoim cmentarzu."
+"|mana_1|\\ |mana_r|, |tap|: Wygnaj wierzchnią kartę twojej biblioteki. "
+"Możesz zagrać ową kartę w tej turze."
 
 #: ../../MID.rst:254
 msgid ""
@@ -964,18 +950,16 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:253
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from "
-#| "your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback—|mana_3|\\ |mana_r|, Remove X loyalty counters from among "
 "planeswalkers you control. If you cast this spell this way, X can't be 0. "
 "(You may cast this card from your graveyard for its flashback cost. Then "
 "exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_g|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
-"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
+"Wspomnienie — |mana_3|\\ |mana_r|, usuń X znaczników lojalności spośród "
+"wędrowców pod twoim władaniem. Jeśli rzucasz ten czar w ten sposób, X nie "
+"może być 0. (Możesz rzucić tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:258
 msgid ""
@@ -1019,15 +1003,15 @@ msgstr ""
 
 #: ../../MID.rst:269
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../MID.rst:271
 msgid "|tap|: Thermo-Alchemist deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../MID.rst:273
 msgid "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, odkręć tego stwora."
 
 #: ../../MID.rst:280
 msgid ""
@@ -1039,7 +1023,7 @@ msgstr ""
 
 #: ../../MID.rst:277
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../MID.rst:286
 msgid ""
@@ -1079,6 +1063,8 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It deals damage "
 "equal to its power to target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Zadaje on "
+"wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
 
 #: ../../MID.rst:300
 msgid ""
@@ -1112,10 +1098,8 @@ msgid "When Dawnhart Rejuvenator enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../MID.rst:305
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "|tap|: Add one mana of any color."
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../MID.rst:316
 msgid ""
@@ -1126,7 +1110,7 @@ msgstr ""
 
 #: ../../MID.rst:309
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MID.rst:313
 msgid ""
@@ -1136,7 +1120,7 @@ msgstr ""
 
 #: ../../MID.rst:315
 msgid "Enchanted creature gets +2/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma czujność."
 
 #: ../../MID.rst:322
 msgid ""
@@ -1147,7 +1131,7 @@ msgstr ""
 
 #: ../../MID.rst:319
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../MID.rst:321
 msgid ""
@@ -1233,10 +1217,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:347
-#, fuzzy
-#| msgid "Create two 1/1 white Human creature tokens."
 msgid "−3: Create two 2/2 green Wolf creature tokens."
-msgstr "Stwórz dwa żetony białego stwora Człowiek 1/1."
+msgstr "–3: Stwórz dwa żetony zielonego stwora Wilk 2/2."
 
 #: ../../MID.rst:356
 msgid ""
@@ -1247,10 +1229,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:353
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "+2: Add |mana_r|\\ |mana_g|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "+2: Weź |mana_r|\\ |mana_g|."
 
 #: ../../MID.rst:355
 msgid ""
@@ -1270,17 +1250,15 @@ msgid ""
 "When you cast your next instant or sorcery spell this turn, copy that spell. "
 "You may choose new targets for the copy."
 msgstr ""
+"Kiedy rzucisz w tej turze swój kolejny czar sztuczki lub obrzędu, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../MID.rst:361
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from "
-#| "your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_1|\\ |mana_u|\\ |mana_r| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_g|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
+"Wspomnienie |mana_1|\\ |mana_u|\\ |mana_r| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:368
@@ -1310,27 +1288,19 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:371
-#, fuzzy
-#| msgid ""
-#| "Whenever another Zombie enters the battlefield under your control, put a "
-#| "+1/+1 counter on Champion of the Perished."
 msgid ""
 "Whenever a creature or enchantment enters the battlefield under your control "
 "this turn, draw a card."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, umieść "
-"znacznik +1/+1 na niniejszym stworze."
+"Ilekroć w tej turze na pole walki pod twoim władaniem wejdzie stwór lub "
+"urok, dobierz kartę."
 
 #: ../../MID.rst:373
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from "
-#| "your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_2|\\ |mana_g|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_g|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
+"Wspomnienie |mana_2|\\ |mana_g|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:382
@@ -1343,11 +1313,11 @@ msgstr ""
 
 #: ../../MID.rst:377
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../MID.rst:379
 msgid "Humans you control get +1/+1."
-msgstr ""
+msgstr "Stwory typu Człowiek pod twoim władaniem dostają +1/+1."
 
 #: ../../MID.rst:381
 msgid ""
@@ -1408,22 +1378,16 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:401
-#, fuzzy
-#| msgid ""
-#| "Whenever another Zombie enters the battlefield under your control, put a "
-#| "+1/+1 counter on Champion of the Perished."
 msgid ""
 "Deserted Beach enters the battlefield tapped unless you control two or more "
 "other lands."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, umieść "
-"znacznik +1/+1 na niniejszym stworze."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../MID.rst:403
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|.)"
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "(|tap|: Weź |mana_u|.)"
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../MID.rst:410
 msgid ""
@@ -1433,22 +1397,16 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:407
-#, fuzzy
-#| msgid ""
-#| "Whenever another Zombie enters the battlefield under your control, put a "
-#| "+1/+1 counter on Champion of the Perished."
 msgid ""
 "Haunted Ridge enters the battlefield tapped unless you control two or more "
 "other lands."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, umieść "
-"znacznik +1/+1 na niniejszym stworze."
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../MID.rst:409
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../MID.rst:416
 msgid ""
@@ -1462,12 +1420,12 @@ msgid ""
 "Overgrown Farmland enters the battlefield tapped unless you control two or "
 "more other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../MID.rst:415
-#, fuzzy
-#| msgid "(|tap|: Add |mana_w|.)"
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "(|tap|: Weź |mana_w|.)"
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../MID.rst:422
 msgid ""
@@ -1481,12 +1439,12 @@ msgid ""
 "Rockfall Vale enters the battlefield tapped unless you control two or more "
 "other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../MID.rst:421
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../MID.rst:428
 msgid ""
@@ -1500,12 +1458,12 @@ msgid ""
 "Shipwreck Marsh enters the battlefield tapped unless you control two or more "
 "other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../MID.rst:427
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|.)"
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "(|tap|: Weź |mana_b|.)"
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../MID.rst:432
 msgid ""
@@ -1574,7 +1532,10 @@ msgid ""
 "Return target creature card with mana value 3 or less from your graveyard to "
 "the battlefield. It gains \"If this creature would die, exile it instead.\""
 msgstr ""
+"Przywróć wskazana kartę stwora o skrócie many 3 lub mniejszym z twojego "
+"cmentarza na pole bitwy. Zyskuje ona \"Jeśli ten stwór miałby umrzeć, "
+"zamiast tego wygnaj go.\""
 
 #: ../../MID.rst:453
 msgid "Flashback |mana_3|\\ |mana_w|\\ |mana_b|"
-msgstr ""
+msgstr "Wspomnienie |mana_3|\\ |mana_w|\\ |mana_b|"
