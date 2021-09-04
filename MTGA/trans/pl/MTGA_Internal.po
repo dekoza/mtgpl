@@ -423,6 +423,25 @@ msgctxt "Apple/Preorder_AFR_2_ShortName"
 msgid "Ellywick Play Pre-order"
 msgstr ""
 
+msgctxt "Apple/Preorder_MID_1_ShortDesc"
+msgid "Pre-order featuring 50x MID Boosters"
+msgstr ""
+
+msgctxt "Apple/Preorder_MID_1_ShortName"
+msgid "Arlinn Pack Pre-order"
+msgstr ""
+
+msgctxt "Apple/Preorder_MID_2_ShortDesc"
+msgid "Pre-order featuring MID Set Mastery"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "MainNav/homepage/PlayModeArenaPlayModesText"
+#| msgid "Arena Play Modes"
+msgctxt "Apple/Preorder_MID_2_ShortName"
+msgid "Wrenn Play Pre-order"
+msgstr "Tylko tryby Areny"
+
 msgctxt "Apple/Preorder_STX_1_ShortDesc"
 msgid "Pre-order featuring 50x Strixhaven Boosters"
 msgstr ""
@@ -1673,14 +1692,14 @@ msgstr "Graj"
 #, fuzzy
 #| msgctxt "MainNav/EventPage/Button_PlayMatch"
 #| msgid "Play"
-msgctxt "Events/Event_Cat_Play_Historic_Bo1"
+msgctxt "Events/Event_Cat_Play_Brawl_Historic"
 msgid "Play"
 msgstr "Graj"
 
 #, fuzzy
 #| msgctxt "MainNav/EventPage/Button_PlayMatch"
 #| msgid "Play"
-msgctxt "Events/Event_Cat_Play_Brawl_Historic"
+msgctxt "Events/Event_Cat_Play_Historic_Bo1"
 msgid "Play"
 msgstr "Graj"
 
@@ -1926,7 +1945,11 @@ msgid ""
 "out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></"
 "u>.\n"
 "\n"
-"*Note: While supplies last. Not all stores are participating."
+"*Note: While supplies last. Not all stores are participating.\n"
+"\n"
+"One final note: For the end of <i>Adventures in the Forgotten Realms</i>, "
+"all players who enter Midweek Magic this week will receive 3000 bonus "
+"mastery XP! We hope you have enjoyed the set!"
 msgstr ""
 
 msgctxt "Events/Event_Desc_MWM_HistoricPauper"
@@ -2112,12 +2135,12 @@ msgctxt "Events/Event_Title_Play_Brawl_Bo1"
 msgid "Standard Brawl"
 msgstr ""
 
-msgctxt "Events/Event_Title_Play_Historic_Bo1"
-msgid "Historic Play"
-msgstr ""
-
 msgctxt "Events/Event_Title_Play_Brawl_Historic"
 msgid "Historic Brawl"
+msgstr ""
+
+msgctxt "Events/Event_Title_Play_Historic_Bo1"
+msgid "Historic Play"
 msgstr ""
 
 msgctxt "Events/Event_Title_Play_Renewal2022_Bo1"
@@ -2450,6 +2473,27 @@ msgstr ""
 
 msgctxt "General/Sets/ZNR"
 msgid "Zendikar Rising"
+msgstr ""
+
+msgctxt "Google/Preorder_MID_1_Description"
+msgid ""
+"Arlinn Pack Pre-order:\n"
+"50x Innistrad: Midnight Hunt Boosters\n"
+"1x Arlinn, the Pack's Hope\n"
+"Arlinn, the Pack's Hope Card Style\n"
+"The Moon's Fury Sleeve"
+msgstr ""
+
+msgctxt "Google/Preorder_MID_2_Description"
+msgid ""
+"Wrenn Play Pre-order:\n"
+"Innistrad: Midnight Hunt Mastery Pass\n"
+"3x Player Draft Token\n"
+"1x Sealed Token\n"
+"1x Wrenn and Seven\n"
+"Wrenn and Seven Card Style\n"
+"Wrenn and Seven Sleeve\n"
+"The Jailer Pet"
 msgstr ""
 
 msgctxt "Google/StarterBundle_Desc"
@@ -3085,6 +3129,25 @@ msgstr ""
 
 msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_J21_423992"
 msgid "Freyalise, Skyshroud Partisan Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_MID_419726"
+msgid "The Moon's Fury Sleeve"
+msgstr ""
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_MID_419946 "
+msgid "Wrenn and Seven Sleeve"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_AFR_418875"
+#| msgid "Gelatinous Cube Exquisite Sleeve"
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_MID_422493"
+msgid "Transforming Arlinn Exquisite Sleeve"
+msgstr "Wyjątkowa koszulka Gelatinous Cube"
+
+msgctxt "MainNav/Deckbuilder/Sleeves/CardBack_MID_423524"
+msgid "Midnight Hunt Sleeve"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/3Sets"
@@ -3841,12 +3904,32 @@ msgid ""
 "collection!"
 msgstr ""
 
+msgctxt "MainNav/HomePage/Carousel/Latest_Previews_MID_Desc"
+msgid ""
+"Prepare to encounter some werewolves when checking out preview cards from "
+"the next set!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/Latest_Previews_MID_Title"
+msgid "<i>Innistrad: Midnight Hunt</i> Previews"
+msgstr ""
+
 msgctxt "MainNav/HomePage/Carousel/Midweek_Magic_Change_Desc"
 msgid "The same weekly event you love, but now midweek instead of on Friday!"
 msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/Midweek_Magic_Change_Title"
 msgid "FNM at Home is now Midweek Magic"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/Preorder_MID_Desc"
+msgid ""
+"Get ready for <i>Innistrad: Midnight Hunt</i> with two pre-order bundles "
+"available now!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/Preorder_MID_Title"
+msgid "The Harvest Festival Approaches!"
 msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/SecretLair_Superdrop_Desc"
@@ -4853,6 +4936,14 @@ msgstr ""
 
 msgctxt "MainNav/PetNames/M21_Preorder_Dog"
 msgid "Darius Osworth Gerhardt IV"
+msgstr ""
+
+msgctxt "MainNav/PetNames/MID_Jailer"
+msgid "The Jailer"
+msgstr ""
+
+msgctxt "MainNav/PetNames/MID_Preorder"
+msgid "The Jailer"
 msgstr ""
 
 msgctxt "MainNav/PetNames/Puppet_Jace"
@@ -6096,22 +6187,18 @@ msgid "August 2021"
 msgstr ""
 
 msgctxt "MainNav/Season/Season33Name"
-msgid "August 2021"
-msgstr ""
-
-msgctxt "MainNav/Season/Season34Name"
 msgid "September 2021"
 msgstr ""
 
-msgctxt "MainNav/Season/Season35Name"
+msgctxt "MainNav/Season/Season34Name"
 msgid "October 2021"
 msgstr ""
 
-msgctxt "MainNav/Season/Season36Name"
+msgctxt "MainNav/Season/Season35Name"
 msgid "November 2021"
 msgstr ""
 
-msgctxt "MainNav/Season/Season37Name"
+msgctxt "MainNav/Season/Season36Name"
 msgid "December 2021"
 msgstr ""
 
@@ -6303,6 +6390,49 @@ msgstr ""
 
 msgctxt "MainNav/Store/AFR_Beholder_Desc"
 msgid "Beholder Pet"
+msgstr ""
+
+msgctxt "MainNav/Store/DailyXP1000"
+msgid "1000 XP"
+msgstr ""
+
+msgctxt "MainNav/Store/MID_Preorder_Desc"
+msgid "The Jailer Pet"
+msgstr ""
+
+msgctxt "MainNav/Store/mtga_preorder_mid_pack_Desc"
+msgid ""
+"Pre-order <i>Innistrad: Midnight Hunt</i> today and receive the following "
+"items on September 16, 2021:\n"
+"\n"
+"50x <i>Innistrad: Midnight Hunt</i> Boosters\n"
+"1x Arlinn, the Pack's Hope\n"
+"Arlinn, the Pack's Hope Card Style\n"
+"\n"
+"When purchased, you will immediately receive the Moon's Fury Sleeve."
+msgstr ""
+
+msgctxt "MainNav/Store/mtga_preorder_mid_pack_Name"
+msgid "Pre-order: Arlinn Pack Bundle"
+msgstr ""
+
+msgctxt "MainNav/Store/mtga_preorder_mid_play_Desc"
+msgid ""
+"Pre-order <i>Innistrad: Midnight Hunt</i> today and receive the following "
+"items on September 16, 2021:\n"
+"\n"
+"<i>Innistrad: Midnight Hunt</i> Set Mastery Pass\n"
+"3x Player Draft Token\n"
+"1x Sealed Token\n"
+"1x Wrenn and Seven\n"
+"Wrenn and Seven Card Style\n"
+"\n"
+"When purchased, you will immediately receive the Wrenn and Seven Sleeve and "
+"The Jailer Pet."
+msgstr ""
+
+msgctxt "MainNav/Store/mtga_preorder_mid_play_Name"
+msgid "Pre-order: Wrenn Play Bundle"
 msgstr ""
 
 msgctxt "MainNav/Store/Bundles/Bundle_AFR_A_Desc"
@@ -7709,6 +7839,19 @@ msgid ""
 "1x Card of Teferi, Master of Time\n"
 "1x Teferi, Master of Time Card Style\n"
 "Master of Time Sleeve"
+msgstr ""
+
+msgctxt "Xsolla/Preorder_MID_1_Description"
+msgid ""
+"Arlinn Pack Pre-order: 50x Innistrad: Midnight Hunt Boosters, 1x Arlinn, the "
+"Pack's Hope, Arlinn, the Pack's Hope Card Style, The Moon's Fury Sleeve"
+msgstr ""
+
+msgctxt "Xsolla/Preorder_MID_2_Description"
+msgid ""
+"Wrenn Play Pre-order: Innistrad: Midnight Hunt Set Mastery Pass, 3x Player "
+"Draft Token, 1x Sealed Token, 1x Wrenn and Seven, Wrenn and Seven Card "
+"Style, Wrenn and Seven Sleeve, The Jailer Pet"
 msgstr ""
 
 msgctxt "Xsolla/Preorder_STX_1_Description"
