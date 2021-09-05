@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-03 18:33+0200\n"
-"PO-Revision-Date: 2021-09-03 19:35+0000\n"
+"PO-Revision-Date: 2021-09-05 16:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -362,6 +362,9 @@ msgid ""
 "Angel and your life total becomes 3. Then if Enduring Angel didn't transform "
 "this way, you lose the game."
 msgstr ""
+"Jeśli stan twoich żyć miałby zostać zmniejszony do 0 lub mniej, zamiast tego "
+"transformuj niniejszą kartę, a stan twoich żyć ma wartość 3. Następnie jeśli "
+"niniejsza karta nie transformowała w ten sposób, przegrywasz grę."
 
 #: ../../MID.rst:58
 msgid ""
@@ -378,11 +381,11 @@ msgstr "Latanie"
 #: ../../MID.rst:55
 msgid ""
 "Angelic Enforcer's power and toughness are each equal to your life total."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie twoich żyć."
 
 #: ../../MID.rst:57
 msgid "Whenever Angelic Enforcer attacks, double your life total."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, podwój liczbę twoich żyć."
 
 #: ../../MID.rst:62
 msgid ""
@@ -432,6 +435,8 @@ msgid ""
 "If Hook-Haunt Drifter would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
+"Jeśli ta karta miałaby trafić skądkolwiek do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../MID.rst:78
 msgid ""
@@ -465,6 +470,8 @@ msgid ""
 "When \"Locked inside the Cemetary\" enters the battlefield, if there are "
 "five or more cards in your graveyard, tap enchanted creature."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli w twoim cmentarzu jest co "
+"najmniej pięć kart, przekręć zauroczonego stwora."
 
 #: ../../MID.rst:85
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -483,6 +490,9 @@ msgid ""
 "your graveyard, create a 1/1 blue Bird creature token with flying and \"This "
 "creature can block only creatures with flying.\""
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy lub ilekroć rzucisz czar z twojego "
+"cmentarza, stwórz żeton niebieskiego stwora Ptak 1/1 z lataniem oraz \"Ten "
+"stwór może blokować tylko stwory mające latanie.\""
 
 #: ../../MID.rst:96
 msgid ""
@@ -520,6 +530,8 @@ msgid ""
 "Creature tokens you control lose all abilities and have base power and "
 "toughness 3/3."
 msgstr ""
+"Żetony stworów pod twoim władaniem tracą wszystkie zdolności i mają bazową "
+"siłę i wytrzymałość 3/3."
 
 #: ../../MID.rst:101
 msgid "At the beginning of your upkeep, you may transform \"Al's Toy Barn\"."
@@ -538,6 +550,9 @@ msgid ""
 "instead. (To investigate, create a colorless Clue artifact token with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj. Jeśli ten czar został rzucony z cmentarza, zamiast tego dociekaj "
+"dwukrotnie. (By dociekać, stwórz żeton bezkolorowego artefaktu Wskazówka "
+"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../MID.rst:107
 msgid "Flashback |mana_3|\\ |mana_u|"
@@ -589,6 +604,8 @@ msgid ""
 "When Arrogant Outlaw enters the battlefield, if an opponent lost life this "
 "turn, each opponent loses 2 life and you gain 2 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik stracił życie w tej "
+"turze, każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../MID.rst:132
 msgid ""
