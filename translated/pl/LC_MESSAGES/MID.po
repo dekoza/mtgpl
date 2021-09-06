@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-05 18:37+0200\n"
-"PO-Revision-Date: 2021-09-05 19:45+0000\n"
+"PO-Revision-Date: 2021-09-06 06:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -707,6 +707,8 @@ msgid ""
 "Whenever \"Doomblade Scoundrel\" becomes blocked, creatures blocking it get "
 "-1/-1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, stwory blokujące go dostają do końca "
+"tury -1/-1."
 
 #: ../../MID.rst:164
 msgid ""
@@ -721,12 +723,14 @@ msgid ""
 "Whenever \"Doomclaw Marauder\" becomes blocked, creatures blocking it get "
 "-1/-1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, stwory blokujące go dostają do końca "
+"tury -1/-1."
 
 #: ../../MID.rst:161
 msgid ""
 "Whenever a creature blocking \"Doomclaw Marauder\" dies, its controller "
 "loses 1 life."
-msgstr ""
+msgstr "Ilekroć umrze stwór blokujący tego stwora, jego władca traci 1 życie."
 
 #: ../../MID.rst:168
 msgid ""
@@ -759,7 +763,7 @@ msgstr "Zaurocz gracza"
 #: ../../MID.rst:173
 msgid ""
 "As this permanent transforms into Curse of Leeches, attach it to a player."
-msgstr ""
+msgstr "Transformując ten permanent na tę stronę, dołącz go do gracza."
 
 #: ../../MID.rst:175
 msgid ""
@@ -805,6 +809,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
+"Zniszcz wskazanego stwora o sile 2 lub mniejszej. Dociekaj. (Stwórz żeton "
+"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../MID.rst:196
 msgid ""
@@ -832,6 +839,7 @@ msgstr ""
 #: ../../MID.rst:199
 msgid "If a creature an opponent controls would die, exile it instead."
 msgstr ""
+"Jeśli stwór pod władaniem przeciwnika miałby umrzeć, zamiast tego wygnaj go."
 
 #: ../../MID.rst:201
 msgid ""
@@ -875,17 +883,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:215
-#, fuzzy
-#| msgid ""
-#| "When Arrogant Outlaw enters the battlefield, if an opponent lost life "
-#| "this turn, each opponent loses 2 life and you gain 2 life."
 msgid ""
 "Whenever Graveyard Glutton enters the battlefield or attacks, exile up to "
 "two target cards from graveyards. For each creature card exiled this way, "
 "each opponent loses 1 life and you gain 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik stracił życie w tej "
-"turze, każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wygnaj co najwyżej "
+"dwie wskazane karty z cmentarzy. Za każdą kartę stwora wygnaną w ten sposób, "
+"każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../MID.rst:222
 msgid ""
@@ -2086,12 +2091,16 @@ msgid ""
 "Spells with the chosen name enchanted player casts cost |mana_2| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów o wybranej nazwie kosztuje zauroczonego gracza o |mana_2| "
+"więcej."
 
 #: ../../MID.rst:621
 msgid ""
 "Whenever enchanted player casts a spell with the chosen name, you may "
 "sacrifice Curse of Silence. If you do, draw a card."
 msgstr ""
+"Ilekroć zauroczony gracz rzuci czar o wybranej nazwie, możesz poświęcić ten "
+"urok. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../MID.rst:627
 msgid ""
