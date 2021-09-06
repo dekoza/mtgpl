@@ -29,6 +29,10 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
+:mtgtip:`Candlegrove Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dedfe6ea-cd43-4ec4-83a1-1f0f74e27f56.jpg?1630920927|https://scryfall.com/card/mid/8/candlegrove-witch?utm_source=api>`
+   Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlegrove Witch gains flying until end of turn.
+
+
 :mtgtip:`Candletrap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32869a36-f21e-4348-a787-871daa6151df.jpg?1630606980|https://scryfall.com/card/mid/9/candletrap?utm_source=api>`
    Enchant creature
 
@@ -37,6 +41,12 @@
    Prevent all combat damage that would be dealt by enchanted creature.
 
    Coven — |mana_2|\ |mana_w|, Sacrifice Candletrap: Exile enchanted creature. Activate only if you control three or more creatures with different powers.
+
+
+:mtgtip:`Celestus Sanctifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67547253-ab98-4d3a-bf95-3e109cf60a85.jpg?1630920842|https://scryfall.com/card/mid/12/celestus-sanctifier?utm_source=api>`
+   If it's neither day nor night, it becomes day as Celestus Sanctifier enters the battlefield.
+
+   Whenever day becomes night or night becomes day, look at the top two cards of your library. Put one of them into your graveyard.
 
 
 :mtgtip:`Enduring Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1630562155|https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer?utm_source=api>`
@@ -65,6 +75,30 @@
    Whenever day becomes night or night becomes day, look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
+:mtgtip:`Hedgewitch's Mask<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97321072-1f7f-413b-9246-e6b3ec7a8c30.jpg?1630921205|https://scryfall.com/card/mid/23/hedgewitchs-mask?utm_source=api>`
+   Equipped creature gets +1/+1.
+
+   Equipped creature can't be blocked by creatures with power 4 or greater.
+
+   Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
+
+
+:mtgtip:`"Indomitable Cathar"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/773199f9-c83b-4a77-8342-9f1552ecf595.jpg?1630909609|https://scryfall.com/card/mid/25/indomitable-cathar?utm_source=api>`
+   Lifelink
+
+   When "Indomitable Cathar" enters the battlefield, you may pay |mana_1|\ |mana_w| any number of times. When you pay that cost once or more, put that many courage counters on "Indomitable Cathar".
+
+   Creatures you control get +1/+1 for each courage counter on "Indomitable Cathar".
+
+
+:mtgtip:`Ritual Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f077f07e-4660-4483-b6ea-16cca0956892.jpg?1630921044|https://scryfall.com/card/mid/30/ritual-guardian?utm_source=api>`
+   Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Ritual Guardian gains lifelink until end of turn.
+
+
+:mtgtip:`Sungold Barrage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee507688-9890-47c4-bb04-43c51eb48e22.jpg?1630920979|https://scryfall.com/card/mid/36/sungold-barrage?utm_source=api>`
+   Destroy target creature with toughness 4 or greater.
+
+
 :mtgtip:`Unruly Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f48622a-abf3-407f-921f-77c29d59ba8e.jpg?1630593187|https://scryfall.com/card/mid/40/unruly-mob?utm_source=api>`
    Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
 
@@ -83,6 +117,20 @@
    Look at the top card of your library. You may put that card into your graveyard.
 
    Draw a card.
+
+
+:mtgtip:`"Thief of the Coast"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1630913322|https://scryfall.com/card/mid/45/thief-of-the-coast-angery-ghost?utm_source=api>`
+   When "Thief of the Coast" dies, mill three cards.
+
+   Disturb |mana_3|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`"Angery Ghost"<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1630913322|https://scryfall.com/card/mid/45/thief-of-the-coast-angery-ghost?utm_source=api>`
+   Flying
+
+   When "Angery Ghost" enters the battlefield, shuffle up to three target cards from your graveyard into your library.
+
+   If "Angery Ghost" would be put into a graveyard from anywhere, exile it instead.
 
 
 :mtgtip:`Dissipate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4689b3f2-e4b7-448e-b3d4-ab33194aafb2.jpg?1630691772|https://scryfall.com/card/mid/49/dissipate?utm_source=api>`
@@ -105,6 +153,14 @@
 
 :mtgtip:`Ominous Roost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daf2b49a-56f9-4093-960f-9ec7af8983b5.jpg?1630609278|https://scryfall.com/card/mid/65/ominous-roost?utm_source=api>`
    When Ominous Roost enters the battlefield or whenever you cast a spell from your graveyard, create a 1/1 blue Bird creature token with flying and "This creature can block only creatures with flying."
+
+
+:mtgtip:`"Geist Patrician"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de2b0c63-c929-42ec-aada-dddb2a26550c.jpg?1630912964|https://scryfall.com/card/mid/69/geist-patrician?utm_source=api>`
+   Flying
+
+   Other spirits you control get +1/+1.
+
+   Spells you cast from your graveyard cost |mana_1| less to cast.
 
 
 :mtgtip:`Poppet Stitcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1630746254|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
@@ -259,6 +315,10 @@
    Whenever enchanted player casts a spell other than the first spell they cast each turn or copies a spell, Curse of Shaken Faith deals 2 damage to them.
 
 
+:mtgtip:`"Terrible Housemate"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.jpg?1630912403|https://scryfall.com/card/mid/137/terrible-housemate?utm_source=api>`
+   |mana_1|\ |mana_r|, Discard a card, sacrifice a Vampire: Draw two cards. Activate this ability only if an opponent lost life this turn.
+
+
 :mtgtip:`Famished Foragers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdbe6937-ceda-4367-a101-562fd5e0e09d.jpg?1630695549|https://scryfall.com/card/mid/138/famished-foragers?utm_source=api>`
    When Famished Foragers enters the battlefield, if an opponent lost life this turn, add |mana_r|\ |mana_r|\ |mana_r|.
 
@@ -321,12 +381,10 @@
    Play with Fire deals 2 damage to any target. If a player is dealt damage this way, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`"#cleanTok Dragon"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.jpg?1630891789|https://scryfall.com/card/mid/155/%23cleantok-dragon?utm_source=api>`
-   Whenever "#cleanTok Dragon" attacks, it deals 1 damage to target creature defending player controls. If that creature is a zombie, "#cleanTok Dragon" deals 2 damage to that creature instead.
+:mtgtip:`"#cleanTok Dragon"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.jpg?1630934136|https://scryfall.com/card/mid/155/%23cleantok-dragon?utm_source=api>`
+   Flying
 
-
-:mtgtip:`"Terrible Housemate"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.jpg?1630729156|https://scryfall.com/card/mid/157/terrible-housemate?utm_source=api>`
-   |mana_1|\ |mana_r|, Discard a card, sacrifice a Vampire: Draw two cards. Activate this ability only if an opponent lost life this turn.
+   Whenever "#cleanTok Dragon" attacks, it deals 1 damage to target creature defending player controls. If that creature is a Zombie, "#cleanTok Dragon" deals 2 damage to that creature instead.
 
 
 :mtgtip:`Tavern Ruffian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1630658686|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
@@ -357,8 +415,16 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Voldaren Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.jpg?1630877892|https://scryfall.com/card/mid/166/voldaren-ambusher?utm_source=api>`
-   When Voldaren Ambusher enters the battlefield, it an opponent lost life this turn, it deals X damage to up to one target creature or planeswalker, where X is the number of Vampires you control.
+:mtgtip:`Voldaren Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.jpg?1630912411|https://scryfall.com/card/mid/166/voldaren-ambusher?utm_source=api>`
+   When Voldaren Ambusher enters the battlefield, if an opponent lost life this turn, it deals X damage to up to one target creature or planeswalker, where X is the number of Vampires you control.
+
+
+:mtgtip:`Augur of Autumn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6aa98767-ae27-4cf0-98ea-93e659f160f4.jpg?1630909630|https://scryfall.com/card/mid/168/augur-of-autumn?utm_source=api>`
+   You may look at the top card of your library any time.
+
+   You may play lands from the top of your library.
+
+   Coven — As long as you control three or more creatures with different powers, you may cast creature spells from the top of your library.
 
 
 :mtgtip:`Candlelit Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1630609595|https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api>`
@@ -385,6 +451,10 @@
    When Dawnhart Rejuvenator enters the battlefield, you gain 3 life.
 
    |tap|: Add one mana of any color.
+
+
+:mtgtip:`Defend the Celestus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c11e4420-06f3-48e2-91d1-a9199483add2.jpg?1630909380|https://scryfall.com/card/mid/182/defend-the-celestus?utm_source=api>`
+   Distribute three +1/+1 counters among one, two, or three target creatures you control.
 
 
 :mtgtip:`Howl of the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a48a42e-5cc5-4f9a-8745-99936f4cae5f.jpg?1630695571|https://scryfall.com/card/mid/188/howl-of-the-hunt?utm_source=api>`
@@ -419,6 +489,12 @@
    |mana_1|\ |mana_g|: Snarling Wolf gets +2/+2 until end of turn. Activate only once each turn.
 
 
+:mtgtip:`Turn the Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1630909445|https://scryfall.com/card/mid/205/turn-the-earth?utm_source=api>`
+   Choose up to three target cards in graveyards. The owners of those cards shuffle them into their libraries. You gain 2 life.
+
+   Flashback |mana_1|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
 :mtgtip:`Unnatural Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6748a844-e185-4e3b-ac1d-8a735666d8ae.jpg?1630776264|https://scryfall.com/card/mid/206/unnatural-growth?utm_source=api>`
    At the beginning of each combat, double the power and toughness of each creature you control until end of turn.
 
@@ -451,6 +527,14 @@
 
 :mtgtip:`Bladestitched Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.jpg?1630693858|https://scryfall.com/card/mid/212/bladestitched-skaab?utm_source=api>`
    Other Zombies you control get +1/+0.
+
+
+:mtgtip:`Corpse Cobble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1630912609|https://scryfall.com/card/mid/214/corpse-cobble?utm_source=api>`
+   As an additional cost to cast this spell, sacrifice any number of creatures.
+
+   Create an X/X blue and black Zombie creature token with menace, where X is the total power of the sacrificed creatures.
+
+   Flashback |mana_3|\ |mana_u|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 :mtgtip:`Croaking Counterpart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1630753062|https://scryfall.com/card/mid/215/croaking-counterpart?utm_source=api>`
