@@ -301,6 +301,12 @@
    |mana_1|\ |mana_r|, |tap|: Exile the top card of your library. You may play that card this turn.
 
 
+:mtgtip:`Immolation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/606b1148-4aa6-4d78-bedd-e31573282921.jpg?1630891700|https://scryfall.com/card/mid/144/immolation?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +2/-2.
+
+
 :mtgtip:`Light Up the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7de68154-3b82-4a94-98a6-cfc49d359e4e.jpg?1630592663|https://scryfall.com/card/mid/146/light-up-the-night?utm_source=api>`
    Light Up the Night deals X damage to any target. It deals X plus 1 damage instead if that target is a creature or planeswalker.
 
@@ -313,6 +319,10 @@
 
 :mtgtip:`Play with Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1628195671|https://scryfall.com/card/mid/154/play-with-fire?utm_source=api>`
    Play with Fire deals 2 damage to any target. If a player is dealt damage this way, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+
+
+:mtgtip:`"#cleanTok Dragon"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.jpg?1630891789|https://scryfall.com/card/mid/155/%23cleantok-dragon?utm_source=api>`
+   Whenever "#cleanTok Dragon" attacks, it deals 1 damage to target creature defending player controls. If that creature is a zombie, "#cleanTok Dragon" deals 2 damage to that creature instead.
 
 
 :mtgtip:`"Terrible Housemate"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.jpg?1630729156|https://scryfall.com/card/mid/157/terrible-housemate?utm_source=api>`
@@ -345,6 +355,10 @@
    Wolves and Werewolves you control have haste.
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
+
+
+:mtgtip:`Voldaren Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.jpg?1630877892|https://scryfall.com/card/mid/166/voldaren-ambusher?utm_source=api>`
+   When Voldaren Ambusher enters the battlefield, it an opponent lost life this turn, it deals X damage to up to one target creature or planeswalker, where X is the number of Vampires you control.
 
 
 :mtgtip:`Candlelit Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1630609595|https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api>`
@@ -445,6 +459,12 @@
    Flashback |mana_3|\ |mana_g|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
+:mtgtip:`"Fen Triplets"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.jpg?1630857044|https://scryfall.com/card/mid/216/fen-triplets?utm_source=api>`
+   Vigilance
+
+   Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, creatures you control get +1/+0 until end of turn.
+
+
 :mtgtip:`Devoted Grafkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1630828263|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
    When Devoted Grafkeeper enters the battlefield, mill two cards.
 
@@ -475,7 +495,7 @@
    Flashback |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Fleshtaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1630806539|https://scryfall.com/card/mid/222/fleshtaker?utm_source=api>`
+:mtgtip:`Fleshtaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1630855890|https://scryfall.com/card/mid/222/fleshtaker?utm_source=api>`
    Whenever you sacrifice another creature, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    |mana_1|, Sacrifice another creature: Fleshtaker gets +2/+2 until end of turn.
@@ -485,6 +505,12 @@
    When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
 
    Flashback |mana_1|\ |mana_u|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
+:mtgtip:`Ghoulcaller's Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.jpg?1630856551|https://scryfall.com/card/mid/225/ghoulcallers-harvest?utm_source=api>`
+   Create X 2/2 black Zombie creature tokens with decayed, where X is half the number of creature cards in your graveyard, rounded up. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
+
+   Flashback |mana_3|\ |mana_b|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 :mtgtip:`Join the Dance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1628195546|https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`
@@ -505,6 +531,14 @@
    Whenever Lord of the Ulvenwald attacks, add |mana_r| or |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
+
+
+:mtgtip:`Liesa, Forgotten Archangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.jpg?1630860360|https://scryfall.com/card/mid/232/liesa-forgotten-archangel?utm_source=api>`
+   Flying, lifelink
+
+   Whenever another nontoken creature you control dies, return that card to its owner's hand at the beginning of the next end step.
+
+   If a creature an opponent controls would die, exile it instead.
 
 
 :mtgtip:`Rite of Harmony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.jpg?1630647671|https://scryfall.com/card/mid/236/rite-of-harmony?utm_source=api>`
