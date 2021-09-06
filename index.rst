@@ -39,7 +39,6 @@ Nadchodzące
 
 * Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)
 * Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` (Premiera: 2021-09-24)
-* Arena: :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| (Premiera: 2021-08-26) tylko cyfrowo
 
 Standard
 --------
@@ -51,6 +50,9 @@ Jest podzbiorem wszystkich innych formatów.
 * :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
+
+Wkrótce rotują:
+
 * :mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|
 * :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|
 * :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|
@@ -106,6 +108,7 @@ Jumpstart
 
 Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021.
 
+* :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| tylko cyfrowo
 * :mtgexp:`JMP` :doc:`Jumpstart<JMP>` |JMP_percent|
 
 Zestawy gildyjne
