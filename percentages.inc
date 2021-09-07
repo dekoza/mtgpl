@@ -18,7 +18,7 @@
 
 .. |CM1_percent| image:: images/pie85.png        
 
-.. |MID_percent| image:: images/pie60.png        
+.. |MID_percent| image:: images/pie75.png        
 
 .. |USG_percent| image:: images/pie50.png        
 
@@ -134,7 +134,8 @@
 
 .. |ALL_percent| image:: images/pie35.png        
 
-.. |AFR_percent| image:: images/pie85.png        
+.. |AFR_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |GK2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
