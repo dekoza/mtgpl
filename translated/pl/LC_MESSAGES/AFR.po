@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-05 18:37+0200\n"
-"PO-Revision-Date: 2021-09-05 19:45+0000\n"
+"PO-Revision-Date: 2021-09-07 08:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -498,11 +498,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:91
-#, fuzzy
-#| msgid ""
-#| "As Dragon's Disciple enters the battlefield, you may reveal a Dragon card "
-#| "from your hand. If you do, or if you control a Dragon, Dragon's Disciple "
-#| "enters the battlefield with a +1/+1 counter on it."
 msgid ""
 "As Dragon's Disciple enters the battlefield, you may reveal a Dragon card "
 "from your hand. If you do or if you control a Dragon, Dragon's Disciple "
@@ -586,11 +581,6 @@ msgstr ""
 "ciosu lub czujności nie może atakować ani blokować."
 
 #: ../../AFR.rst:115
-#, fuzzy
-#| msgid ""
-#| "+1: Search your library and/or graveyard for a card named Monk of the "
-#| "Open Hand, reveal it, and put it into your hand. If you search your "
-#| "library this way, shuffle it."
 msgid ""
 "+1: Search your library and/or graveyard for a card named Monk of the Open "
 "Hand, reveal it, and put it into your hand. If you search your library this "
@@ -598,7 +588,7 @@ msgid ""
 msgstr ""
 "+1: Wyszukaj w twojej bibliotece i/lub cmentarzu kartę o nazwie Monk of the "
 "Open Hand, ujawnij ją, umieść ją w twojej ręce. Jeśli twoja biblioteka "
-"została w ten sposób przeszukana, przetasuj ją."
+"została w ten sposób przeszukana, przetasuj."
 
 #: ../../AFR.rst:124
 msgid ""
@@ -653,12 +643,6 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../AFR.rst:135
-#, fuzzy
-#| msgid ""
-#| "When Icingdeath, Frost Tyrant dies, create Icingdeath, Frost Tongue, a "
-#| "legendary white Equipment artifact token with \"Equipped creature gets +2/"
-#| "+0\", \"Whenever equipped creature attacks, tap target creature defending "
-#| "player controls,\" and equip |mana_2|."
 msgid ""
 "When Icingdeath, Frost Tyrant dies, create Icingdeath, Frost Tongue, a "
 "legendary white Equipment artifact token with \"Equipped creature gets +2/+0,"
@@ -666,8 +650,8 @@ msgid ""
 "player controls,\" and equip |mana_2|."
 msgstr ""
 "Kiedy ten stwór umrze, stwórz Icingdeath, Frost Tongue, legendarny żeton "
-"białego artefaktu typu Wyposażenie mający \"Wyposażony stwór dostaje +2/"
-"+0\", \"Ilekroć wyposażony stwór zaatakuje, przekręć wskazanego stwora pod "
+"białego artefaktu typu Wyposażenie mający \"Wyposażony stwór dostaje +2/+0\""
+", \"Ilekroć wyposażony stwór zaatakuje, przekręć wskazanego stwora pod "
 "władaniem broniącego się gracza\" oraz \"wyposaż |mana_2|\"."
 
 #: ../../AFR.rst:142
@@ -713,12 +697,9 @@ msgstr ""
 "mogą cię wskazywać.)"
 
 #: ../../AFR.rst:147
-#, fuzzy
-#| msgid ""
-#| "Your opponents can't venture into the dungeon more than once each turn."
 msgid "Each opponent can't venture into the dungeon more than once each turn."
 msgstr ""
-"Twoi przeciwnicy nie mogą zapuszczać się do lochu więcej niż raz na turę."
+"Każdy z przeciwników nie może zapuszczać się do lochu więcej niż raz na turę."
 
 #: ../../AFR.rst:154
 msgid ""
@@ -819,12 +800,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:179
-#, fuzzy
-#| msgid ""
-#| "Magical Tinkering — |mana_w|, |tap|, Sacrifice an artifact: Search your "
-#| "library for an artifact card with mana value equal to 1 plus the "
-#| "sacrificed artifact's mana value. Put that card onto the battlefield, "
-#| "then shuffle. Activate only as a sorcery."
 msgid ""
 "Magical Tinkering — |mana_w|, |tap|, Sacrifice an artifact: Search your "
 "library for an artifact card with mana value equal to 1 plus the sacrificed "
@@ -833,8 +808,8 @@ msgid ""
 msgstr ""
 "Magiczne majsterkowanie — |mana_w|, |tap|, poświęć artefakt: Wyszukaj w "
 "twojej bibliotece kartę artefaktu o skrócie many równym 1 plus skrót many "
-"poświęconego artefaktu. Umieść ową kartę na polu bitwy, po czym przetasuj. "
-"Aktywuj tylko jako obrzęd."
+"poświęconego artefaktu, umieść ją na polu bitwy, po czym przetasuj. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../AFR.rst:194
 msgid ""
@@ -1119,16 +1094,12 @@ msgstr ""
 "sztuczki lub obrzędu w twoim cmentarzu, po czym rzuć k20."
 
 #: ../../AFR.rst:279
-#, fuzzy
-#| msgid "1-9 | You may put that card on top of your library."
 msgid "1—9 | You may put that card on top of your library."
-msgstr "1-9 | Możesz umieścić ową kartę na wierzchu twojej biblioteki."
+msgstr "1—9 | Możesz umieścić ową kartę na wierzchu twojej biblioteki."
 
 #: ../../AFR.rst:281
-#, fuzzy
-#| msgid "10-20 | Return that card to your hand."
 msgid "10—20 | Return that card to your hand."
-msgstr "10-20 | Przywróć ową kartę do twojej ręki."
+msgstr "10—20 | Przywróć ową kartę do twojej ręki."
 
 #: ../../AFR.rst:288
 msgid ""
@@ -1157,21 +1128,15 @@ msgid "Search the Room — |mana_5|\\ |mana_u|: Roll a d20."
 msgstr "Przeszukaj pomieszczenie — |mana_5|\\ |mana_u|: Rzuć k20."
 
 #: ../../AFR.rst:293
-#, fuzzy
-#| msgid "1-9 | Draw a card."
 msgid "1—9 | Draw a card."
-msgstr "1-9 | Dobierz kartę."
+msgstr "1—9 | Dobierz kartę."
 
 #: ../../AFR.rst:295
-#, fuzzy
-#| msgid ""
-#| "10-20 | Look at the top three cards of your library. Put one of them into "
-#| "your hand and the rest on the bottom of your library in any order."
 msgid ""
 "10—20 | Look at the top three cards of your library. Put one of them into "
 "your hand and the rest on the bottom of your library in any order."
 msgstr ""
-"10-20 | Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z "
+"10—20 | Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z "
 "nich w twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../AFR.rst:300
@@ -1278,16 +1243,12 @@ msgid "Roll a d20."
 msgstr "Rzuć k20."
 
 #: ../../AFR.rst:329
-#, fuzzy
-#| msgid "1-9 | Draw two cards."
 msgid "1—9 | Draw two cards."
-msgstr "1-9 | Dobierz dwie karty."
+msgstr "1—9 | Dobierz dwie karty."
 
 #: ../../AFR.rst:331
-#, fuzzy
-#| msgid "10-19 | Scry 2, then draw two cards."
 msgid "10—19 | Scry 2, then draw two cards."
-msgstr "10-19 | Wróż 2, po czym dobierz dwie karty."
+msgstr "10—19 | Wróż 2, po czym dobierz dwie karty."
 
 #: ../../AFR.rst:333
 msgid "20 | Scry 3, then draw three cards."
@@ -1301,16 +1262,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:337
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_u| less to cast for each instant and sorcery "
-#| "you've cast this turn."
 msgid ""
 "This spell costs |mana_u| less to cast for each instant and sorcery spell "
 "you've cast this turn."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_u| mniej za każdą sztuczką lub obrzęd "
-"rzucony przez ciebie w tej turze."
+"Rzucenie tego czaru kosztuje o |mana_u| mniej za każdy czar sztuczki lub "
+"obrzędu rzucony przez ciebie w tej turze."
 
 #: ../../AFR.rst:339
 msgid ""
@@ -1322,10 +1279,6 @@ msgstr ""
 "kopię."
 
 #: ../../AFR.rst:341
-#, fuzzy
-#| msgid ""
-#| "You may cast Demilich from your graveyard by exiling four instants and/or "
-#| "sorcery cards from your graveyard in addition to paying its other costs."
 msgid ""
 "You may cast Demilich from your graveyard by exiling four instant and/or "
 "sorcery cards from your graveyard in addition to paying its other costs."
@@ -1368,16 +1321,12 @@ msgid "When Djinni Windseer enters the battlefield, roll a d20."
 msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:355
-#, fuzzy
-#| msgid "1-9 | Scry 1."
 msgid "1—9 | Scry 1."
-msgstr "1-9 | Wróż 1."
+msgstr "1—9 | Wróż 1."
 
 #: ../../AFR.rst:357
-#, fuzzy
-#| msgid "10-19 | Scry 2."
 msgid "10—19 | Scry 2."
-msgstr "10-19 | Wróż 2."
+msgstr "10—19 | Wróż 2."
 
 #: ../../AFR.rst:359
 msgid "20 | Scry 3."
@@ -1612,17 +1561,13 @@ msgid "Choose target creature an opponent controls, then roll a d20."
 msgstr "Wskaż stwora pod władaniem przeciwnika, po czym rzuć k20."
 
 #: ../../AFR.rst:431
-#, fuzzy
-#| msgid "1-9 | Return it to its owner's hand."
 msgid "1—9 | Return it to its owner's hand."
-msgstr "1-9 | Przywróć go do ręki właściciela."
+msgstr "1—9 | Przywróć go do ręki właściciela."
 
 #: ../../AFR.rst:433
-#, fuzzy
-#| msgid "10-19 | Its owner puts it on the top or bottom of their library."
 msgid "10—19 | Its owner puts it on the top or bottom of their library."
 msgstr ""
-"10-19 | Jego właściciel umieszcza go na wierzchu lub spodzie swojej "
+"10—19 | Jego właściciel umieszcza go na wierzchu lub spodzie swojej "
 "biblioteki."
 
 #: ../../AFR.rst:435
@@ -1679,21 +1624,15 @@ msgstr ""
 "władaniem przeciwnika, po czym rzuć k20."
 
 #: ../../AFR.rst:459
-#, fuzzy
-#| msgid "1-9 | Tap that creature."
 msgid "1—9 | Tap that creature."
-msgstr "1-9 | Przekręć owego stwora."
+msgstr "1—9 | Przekręć owego stwora."
 
 #: ../../AFR.rst:461
-#, fuzzy
-#| msgid ""
-#| "10-20 | Tap that creature. It doesn't untap during its controller's next "
-#| "untap step."
 msgid ""
 "10—20 | Tap that creature. It doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"10-20 | Przekręć owego stwora. Nie odkręci się on w najbliższym kroku "
+"10—20 | Przekręć owego stwora. Nie odkręci się on w najbliższym kroku "
 "odkręcania swojego władcy."
 
 #: ../../AFR.rst:468
@@ -1825,19 +1764,14 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:503
-#, fuzzy
-#| msgid ""
-#| "Equipped creature gets +1/+1 and has \"Whenever this creature deals "
-#| "combat damage to a player, you may sacrifice Trickster's Talisman. If you "
-#| "do, create a token that's a copy of this creature.\""
 msgid ""
 "Invoke Duplicity — Equipped creature gets +1/+1 and has \"Whenever this "
 "creature deals combat damage to a player, you may sacrifice Trickster's "
 "Talisman. If you do, create a token that's a copy of this creature.\""
 msgstr ""
-"Wyposażony stwór dostaje +1/+1 i ma \"Ilekroć ten stwór zada graczowi "
-"obrażenia bojowe możesz poświęcić artefakt dający tę zdolność. Jeśli tak "
-"zrobisz, stwórz żeton będący kopią tego stwora.\""
+"Przywołaj Podwójność — Wyposażony stwór dostaje +1/+1 i ma \"Ilekroć ten "
+"stwór zada graczowi obrażenia bojowe możesz poświęcić artefakt dający tę "
+"zdolność. Jeśli tak zrobisz, stwórz żeton będący kopią tego stwora.\""
 
 #: ../../AFR.rst:505 ../../AFR.rst:1631
 msgid "Equip |mana_2|"
@@ -1904,21 +1838,15 @@ msgstr ""
 "Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:529
-#, fuzzy
-#| msgid "1-9 | Copy that card. You may cast the copy."
 msgid "1—9 | Copy that card. You may cast the copy."
-msgstr "1-9 | Skopiuj ową kartę. Możesz rzucić ową kopię."
+msgstr "1—9 | Skopiuj ową kartę. Możesz rzucić ową kopię."
 
 #: ../../AFR.rst:531
-#, fuzzy
-#| msgid ""
-#| "10-19 | Copy that card. You may cast the copy by paying |mana_1| rather "
-#| "than paying its mana cost."
 msgid ""
 "10—19 | Copy that card. You may cast the copy by paying |mana_1| rather than "
 "paying its mana cost."
 msgstr ""
-"10-19 | Skopiuj ową kartę. Możesz rzucić ową kopię płacąc |mana_1| zamiast "
+"10—19 | Skopiuj ową kartę. Możesz rzucić ową kopię płacąc |mana_1| zamiast "
 "płacić jej koszt many."
 
 #: ../../AFR.rst:533
@@ -2014,11 +1942,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:567
-#, fuzzy
-#| msgid ""
-#| "When Acererak the Archlich enters the battlefield, if you have not "
-#| "completed Tomb of Annihilation, return Acererak the Archlich to its "
-#| "owner's hand and venture into the dungeon."
 msgid ""
 "When Acererak the Archlich enters the battlefield, if you haven't completed "
 "Tomb of Annihilation, return Acererak the Archlich to its owner's hand and "
@@ -2137,11 +2060,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:601
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose a nonland card from it. "
-#| "Exile that card. If an instant or a card with flash is exiled this way, "
-#| "they lose 1 life. Otherwise, you lose 1 life."
 msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. Exile "
 "that card. If an instant card or a card with flash is exiled this way, they "
@@ -2232,11 +2150,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:625
-#, fuzzy
-#| msgid ""
-#| "Target opponent discards a card. If mana from a Treasure was spent to "
-#| "cast this spell, instead that player reveals their hand, you choose a "
-#| "nonland card from it, then that player discards a card."
 msgid ""
 "Target opponent discards a card. If mana from a Treasure was spent to cast "
 "this spell, instead that player reveals their hand, you choose a nonland "
@@ -2434,30 +2347,21 @@ msgid "Circle of Death — |mana_5|\\ |mana_b|: Roll a d20."
 msgstr "Krąg śmierci — |mana_5|\\ |mana_b|: Rzuć k20."
 
 #: ../../AFR.rst:689
-#, fuzzy
-#| msgid "1-9 | Each opponent loses 2 life."
 msgid "1—9 | Each opponent loses 2 life."
-msgstr "1-9 | Każdy przeciwnik traci po 2 życia."
+msgstr "1—9 | Każdy przeciwnik traci po 2 życia."
 
 #: ../../AFR.rst:691
-#, fuzzy
-#| msgid "10-19 | Each opponent loses 2 life and you gain 2 life."
 msgid "10—19 | Each opponent loses 2 life and you gain 2 life."
-msgstr "10-19 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
+msgstr "10—19 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../AFR.rst:693
-#, fuzzy
-#| msgid ""
-#| "20 | Each opponent loses 2 life and you gain 2 life. Create two Treasure "
-#| "tokens. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "20 | Each opponent loses 2 life and you gain 2 life. Create two Treasure "
 "tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one "
 "mana of any color.\")"
 msgstr ""
 "20 | Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia. Stwórz dwa "
-"żetony Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną "
+"żetony Skarbu. (To artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną "
 "manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:698
@@ -2504,16 +2408,12 @@ msgid "Sneak Attack — Whenever Lightfoot Rogue attacks, roll a d20."
 msgstr "Podstępny atak — Ilekroć ten stwór atakuje, rzuć k20."
 
 #: ../../AFR.rst:707
-#, fuzzy
-#| msgid "1-9 | Lightfoot Rogue gains deathtouch until end of turn."
 msgid "1—9 | Lightfoot Rogue gains deathtouch until end of turn."
-msgstr "1-9 | Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "1—9 | Ten stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../AFR.rst:709
-#, fuzzy
-#| msgid "10-19 | It gets +1/+0 and gains deathtouch until end of turn."
 msgid "10—19 | It gets +1/+0 and gains deathtouch until end of turn."
-msgstr "10-19 | Dostaje on do końca tury +1/+0 i dotyk śmierci."
+msgstr "10—19 | Dostaje on do końca tury +1/+0 i dotyk śmierci."
 
 #: ../../AFR.rst:711
 msgid ""
@@ -2725,13 +2625,6 @@ msgid ""
 msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników pustki."
 
 #: ../../AFR.rst:777
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, exile Sphere of Annihilation, all "
-#| "creatures and planeswalkers with mana value less than or equal to the "
-#| "number of void counters on it, and all creature and planeswalker cards in "
-#| "all graveyards with mana value less than or equal to the number of void "
-#| "counters on it."
 msgid ""
 "At the beginning of your upkeep, exile Sphere of Annihilation, all creatures "
 "and planeswalkers with mana value less than or equal to the number of void "
@@ -3056,22 +2949,16 @@ msgid "Wild Magic Surge — Whenever Chaos Channeler attacks, roll a d20."
 msgstr "Przypływ dzikiej magii — Ilekroć ten stwór atakuje, rzuć k20."
 
 #: ../../AFR.rst:879
-#, fuzzy
-#| msgid "1-9 | Exile the top card of your library. You may play it this turn."
 msgid "1—9 | Exile the top card of your library. You may play it this turn."
 msgstr ""
-"1-9 | Wygnaj wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej "
+"1—9 | Wygnaj wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej "
 "turze."
 
 #: ../../AFR.rst:881
-#, fuzzy
-#| msgid ""
-#| "10-19 | Exile the top two cards of your library. You may play them this "
-#| "turn."
 msgid ""
 "10—19 | Exile the top two cards of your library. You may play them this turn."
 msgstr ""
-"10-19 | Wygnaj dwie wierzchnie karty twojej biblioteki. Możesz je zagrać w "
+"10—19 | Wygnaj dwie wierzchnie karty twojej biblioteki. Możesz je zagrać w "
 "tej turze."
 
 #: ../../AFR.rst:883
@@ -3116,24 +3003,17 @@ msgstr ""
 "k20."
 
 #: ../../AFR.rst:895
-#, fuzzy
-#| msgid ""
-#| "1-14 | Create a tapped and attacking token that's a copy of that creature "
-#| "except it's not legendary and it has \"Exile this creature at end of "
-#| "combat.\""
 msgid ""
 "1—14 | Create a tapped and attacking token that's a copy of that creature, "
 "except it's not legendary and it has \"Exile this creature at end of combat."
 "\""
 msgstr ""
-"1-14| Stwórz przekręcony i atakujący żeton będący kopią owego stwora, ale "
+"1—14| Stwórz przekręcony i atakujący żeton będący kopią owego stwora, ale "
 "nie jest on legendarny i ma \"Wygnaj tego stwora na koniec potyczki.\""
 
 #: ../../AFR.rst:897
-#, fuzzy
-#| msgid "15-20 | Create one of those tokens. You may roll again."
 msgid "15—20 | Create one of those tokens. You may roll again."
-msgstr "15-20 | Stwórz jeden z owych żetonów. Rzuć ponownie."
+msgstr "15—20 | Stwórz jeden z owych żetonów. Rzuć ponownie."
 
 #: ../../AFR.rst:904
 msgid ""
@@ -3200,16 +3080,12 @@ msgid ""
 msgstr "Potwór oblężniczy — Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:919
-#, fuzzy
-#| msgid "1-9 | Each player sacrifices a permanent."
 msgid "1—9 | Each player sacrifices a permanent."
-msgstr "1-9 | Każdy gracz poświęca permanent."
+msgstr "1—9 | Każdy gracz poświęca permanent."
 
 #: ../../AFR.rst:921
-#, fuzzy
-#| msgid "10-19 | Each opponent sacrifices a permanent."
 msgid "10—19 | Each opponent sacrifices a permanent."
-msgstr "10-19 | Każdy przeciwnik poświęca permanent."
+msgstr "10—19 | Każdy przeciwnik poświęca permanent."
 
 #: ../../AFR.rst:923
 msgid "20 | Each opponent sacrifices two permanents."
@@ -3230,16 +3106,12 @@ msgstr ""
 "Ten czar zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. Rzuć k20."
 
 #: ../../AFR.rst:929
-#, fuzzy
-#| msgid "1-9 | Farideh's Fireball deals 2 damage to each player."
 msgid "1—9 | Farideh's Fireball deals 2 damage to each player."
-msgstr "1-9 | Ten czar zadaje każdemu graczowi po 2 obrażenia."
+msgstr "1—9 | Ten czar zadaje każdemu graczowi po 2 obrażenia."
 
 #: ../../AFR.rst:931
-#, fuzzy
-#| msgid "10-20 | Farideh's Fireball deals 2 damage to each opponent."
 msgid "10—20 | Farideh's Fireball deals 2 damage to each opponent."
-msgstr "10-20 | Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia."
+msgstr "10—20 | Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../AFR.rst:940
 msgid ""
@@ -3326,22 +3198,16 @@ msgid "Whenever Hoarding Ogre attacks, roll a d20."
 msgstr "Ilekroć ten stwór zaatakuje, rzuć k20."
 
 #: ../../AFR.rst:963
-#, fuzzy
-#| msgid ""
-#| "1-9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice "
-#| "this artifact: Add one mana of any color.\")"
 msgid ""
 "1—9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice "
 "this artifact: Add one mana of any color.\")"
 msgstr ""
-"1-9 | Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten "
-"artefakt: Weź jedną manę dowolnego koloru.\")"
+"1—9 | Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt:"
+" Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:965
-#, fuzzy
-#| msgid "10-19 | Create two Treasure tokens."
 msgid "10—19 | Create two Treasure tokens."
-msgstr "10-19 | Stwórz dwa żetony Skarbu."
+msgstr "10—19 | Stwórz dwa żetony Skarbu."
 
 #: ../../AFR.rst:967
 msgid "20 | Create three Treasure tokens."
@@ -3519,10 +3385,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1021
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|: Add two mana in any combination of colors. Spend this "
-#| "mana only to cast Dragon spells or to activate abilities of Dragons."
 msgid ""
 "|mana_1|, |tap|: Add two mana in any combination of colors. Spend this mana "
 "only to cast Dragon spells or activate abilities of Dragons."
@@ -3622,10 +3484,8 @@ msgid "When Swarming Goblins enters the battlefield, roll a d20."
 msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:1055
-#, fuzzy
-#| msgid "10-19 | Create two of those tokens."
 msgid "10—19 | Create two of those tokens."
-msgstr "10-19 | Stwórz dwa takie żetony."
+msgstr "10—19 | Stwórz dwa takie żetony."
 
 #: ../../AFR.rst:1057
 msgid "20 | Create three of those tokens."
@@ -3743,12 +3603,6 @@ msgid "Break Their Chains — Destroy target artifact."
 msgstr "Zniszcz ich łańcuchy — Zniszcz wskazany artefakt."
 
 #: ../../AFR.rst:1097
-#, fuzzy
-#| msgid ""
-#| "Interrogate Them — Exile the top three cards of target opponent's "
-#| "library. Choose one of them. Until the end of your next turn, you may "
-#| "play that card, and you may spend mana as through it were mana of any "
-#| "color to cast it."
 msgid ""
 "Interrogate Them — Exile the top three cards of target opponent's library. "
 "Choose one of them. Until the end of your next turn, you may play that card, "
@@ -4042,12 +3896,6 @@ msgid "Trample, haste"
 msgstr "Tratowanie, pośpiech"
 
 #: ../../AFR.rst:1193
-#, fuzzy
-#| msgid ""
-#| "Whenever Froghemoth deals combat damage to a player, exile up to that "
-#| "many target cards from their graveyard. Put a +1/+1 counter on Froghemoth "
-#| "for each creature exiled this way. You gain 1 life for each noncreature "
-#| "card exiled this way."
 msgid ""
 "Whenever Froghemoth deals combat damage to a player, exile up to that many "
 "target cards from their graveyard. Put a +1/+1 counter on Froghemoth for "
@@ -4206,16 +4054,12 @@ msgstr ""
 "cmentarzu."
 
 #: ../../AFR.rst:1241
-#, fuzzy
-#| msgid "1-9 | Put Loathsome Troll on top of your library."
 msgid "1—9 | Put Loathsome Troll on top of your library."
-msgstr "1-9 | Umieść tę kartę na wierzchu twojej biblioteki."
+msgstr "1—9 | Umieść tę kartę na wierzchu twojej biblioteki."
 
 #: ../../AFR.rst:1243
-#, fuzzy
-#| msgid "10-19 | Return Loathsome Troll to your hand."
 msgid "10—19 | Return Loathsome Troll to your hand."
-msgstr "10-19 | Przywróć tę kartę do twojej ręki."
+msgstr "10—19 | Przywróć tę kartę do twojej ręki."
 
 #: ../../AFR.rst:1245
 msgid "20 | Return Loathsome Troll to the battlefield tapped."
@@ -4281,12 +4125,6 @@ msgid "Ochre Jelly enters the battlefield with X +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../AFR.rst:1267
-#, fuzzy
-#| msgid ""
-#| "Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on "
-#| "it, create a token that's a copy of it at the beginning of the next end "
-#| "step. That token enters the battlefield with half that many +1/+1 "
-#| "counters on it, rounded down."
 msgid ""
 "Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on it, "
 "create a token that's a copy of it at the beginning of the next end step. "
@@ -4465,16 +4303,12 @@ msgid "Whenever Sylvan Shepherd attacks, roll a d20."
 msgstr "Ilekroć ten stwór zaatakuje, rzuć k20."
 
 #: ../../AFR.rst:1333
-#, fuzzy
-#| msgid "1-9 | You gain 1 life."
 msgid "1—9 | You gain 1 life."
-msgstr "1-9 | Zyskaj 1 życie."
+msgstr "1—9 | Zyskaj 1 życie."
 
 #: ../../AFR.rst:1335
-#, fuzzy
-#| msgid "10-19 | You gain 2 life."
 msgid "10—19 | You gain 2 life."
-msgstr "10-19 | Zyskaj 2 życia."
+msgstr "10—19 | Zyskaj 2 życia."
 
 #: ../../AFR.rst:1337
 msgid "20 | You gain 5 life."
@@ -4519,19 +4353,14 @@ msgid "Reach, ward |mana_1|"
 msgstr "Zasięg, opieka |mana_1|"
 
 #: ../../AFR.rst:1353
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature or planeswalker spell, venture into the "
-#| "dungeon. This ability triggers only once each turn. (Enter the first room "
-#| "or advance to the next room.)"
 msgid ""
 "Whenever you cast a creature or planeswalker spell, venture into the "
 "dungeon. This ability triggers only once each turn. (To venture into the "
 "dungeon, enter the first room or advance to the next room.)"
 msgstr ""
 "Ilekroć rzucisz czar stwora lub wędrowca, zapuść się do lochu. Ta zdolność "
-"wyzwala się tylko raz na turę. (Wejdź do pierwszej sali lub przejdź do "
-"kolejnej sali.)"
+"wyzwala się tylko raz na turę. (By zapuścić się do lochu, wejdź do pierwszej "
+"sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1355
 msgid ""
@@ -5019,11 +4848,6 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1513
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you controls deals combat damage to a player, exile "
-#| "the top card of that player's library face down. You may look at it for "
-#| "as long as it remains exiled."
 msgid ""
 "Whenever a creature you control deals combat damage to a player, exile the "
 "top card of that player's library face down. You may look at it for as long "
@@ -5046,10 +4870,6 @@ msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Level 3"
 msgstr "|mana_2|\\ |mana_u|\\ |mana_b|: Poziom 3"
 
 #: ../../AFR.rst:1521
-#, fuzzy
-#| msgid ""
-#| "You may play cards exiled with Rogue Class, and you may spend mana as "
-#| "through it were mana of any color to cast them."
 msgid ""
 "You may play cards exiled with Rogue Class, and you may spend mana as though "
 "it were mana of any color to cast those spells."
@@ -5140,18 +4960,13 @@ msgid "|mana_3|\\ |mana_u|\\ |mana_r|: Level 3"
 msgstr "|mana_3|\\ |mana_u|\\ |mana_r|: Poziom 3"
 
 #: ../../AFR.rst:1547
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, that spell deals damage to "
-#| "each opponent equal to the number of instant or sorcery spells you've "
-#| "cast this turn."
 msgid ""
 "Whenever you cast an instant or sorcery spell, that spell deals damage to "
 "each opponent equal to the number of instant and sorcery spells you've cast "
 "this turn."
 msgstr ""
 "Ilekroć rzucisz czar sztuczki lub obrzędu, ów czar zadaje każdemu "
-"przeciwnikowi obrażenia równe liczbie czarów sztuczek lub obrzędów rzuconych "
+"przeciwnikowi obrażenia równe liczbie czarów sztuczek i obrzędów rzuconych "
 "przez ciebie w tej turze."
 
 #: ../../AFR.rst:1554
@@ -5310,16 +5125,12 @@ msgstr ""
 "wynikiem jest 0 lub mniej, odrzuć twoją rękę."
 
 #: ../../AFR.rst:1593
-#, fuzzy
-#| msgid "1-9 | Return a card at random from your graveyard to your hand."
 msgid "1—9 | Return a card at random from your graveyard to your hand."
-msgstr "1-9 | Przywróć losową kartę z twojego cmentarza do twojej ręki."
+msgstr "1—9 | Przywróć losową kartę z twojego cmentarza do twojej ręki."
 
 #: ../../AFR.rst:1595
-#, fuzzy
-#| msgid "10-19 | Draw two cards."
 msgid "10—19 | Draw two cards."
-msgstr "10-19 | Dobierz dwie karty."
+msgstr "10—19 | Dobierz dwie karty."
 
 #: ../../AFR.rst:1597
 msgid ""
@@ -5519,21 +5330,15 @@ msgid ""
 msgstr "|mana_5|, |tap|, poświęć ten artefakt: Wskaż stwora, po czym rzuć k20."
 
 #: ../../AFR.rst:1663
-#, fuzzy
-#| msgid "1-9 | Spiked Pit Trap deals 5 damage to that creature."
 msgid "1—9 | Spiked Pit Trap deals 5 damage to that creature."
-msgstr "1-9 | Ten artefakt zadaje owemu stworowi 5 obrażeń."
+msgstr "1—9 | Ten artefakt zadaje owemu stworowi 5 obrażeń."
 
 #: ../../AFR.rst:1665
-#, fuzzy
-#| msgid ""
-#| "10-20 | Spiked Pit Trap deals 5 damage to that creature. Create a "
-#| "Treasure token."
 msgid ""
 "10—20 | Spiked Pit Trap deals 5 damage to that creature. Create a Treasure "
 "token."
 msgstr ""
-"10-20 | Ten artefakt zadaje owemu stworowi 5 obrażeń. Stwórz żeton Skarbu."
+"10—20 | Ten artefakt zadaje owemu stworowi 5 obrażeń. Stwórz żeton Skarbu."
 
 #: ../../AFR.rst:1678
 msgid ""
@@ -5551,16 +5356,12 @@ msgid "1 | Trapped! — You lose 3 life."
 msgstr "1 | Pułapka! — Strać 3 życia."
 
 #: ../../AFR.rst:1673
-#, fuzzy
-#| msgid "2-9 | Create five Treasure tokens."
 msgid "2—9 | Create five Treasure tokens."
-msgstr "2-9 | Stwórz pięć żetonów Skarbu."
+msgstr "2—9 | Stwórz pięć żetonów Skarbu."
 
 #: ../../AFR.rst:1675
-#, fuzzy
-#| msgid "10-19 | You gain 3 life and draw three cards."
 msgid "10—19 | You gain 3 life and draw three cards."
-msgstr "10-19 | Zyskaj 3 życia i dobierz trzy karty."
+msgstr "10—19 | Zyskaj 3 życia i dobierz trzy karty."
 
 #: ../../AFR.rst:1677
 msgid ""
