@@ -23,11 +23,11 @@
    If Generous Soul would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Bereaved Survivor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1631146549|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
+:mtgtip:`Bereaved Survivor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1631198013|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
    When another creature you control dies, transform Bereaved Survivor.
 
 
-:mtgtip:`Dauntless Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1631146549|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
+:mtgtip:`Dauntless Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1631198013|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
    Whenever Dauntless Avenger attacks, return target creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking.
 
 
@@ -869,6 +869,12 @@
    |mana_1|\ |mana_g|: Snarling Wolf gets +2/+2 until end of turn. Activate only once each turn.
 
 
+:mtgtip:`"Crash the Festival"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4f1f69c-122d-472a-b82d-fed7c253a4cd.jpg?1631160283|https://scryfall.com/card/mid/200/crash-the-festival?utm_source=api>`
+   Look at the top five cards of your library. Put up to two permanent cards with mana value 5 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+   Flashback |mana_7|\ |mana_g|\ |mana_g|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
 :mtgtip:`Turn the Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1630909445|https://scryfall.com/card/mid/205/turn-the-earth?utm_source=api>`
    Choose up to three target cards in graveyards. The owners of those cards shuffle them into their libraries. You gain 2 life.
 
@@ -949,6 +955,22 @@
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, creatures you control get +1/+0 until end of turn.
 
 
+:mtgtip:`Dennick, Pious Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1631160300|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
+   Lifelink
+
+   Cards in graveyards can't be the targets of spells or abilities.
+
+   Disturb |mana_2|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`Dennick, Pious Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1631160300|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
+   Flying
+
+   Whenever one or more creature cards are put into graveyards from anywhere, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+
+   If Dennick, Pious Apparition would be put into a graveyard from anywhere, exile it instead.
+
+
 :mtgtip:`Devoted Grafkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1630828263|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
    When Devoted Grafkeeper enters the battlefield, mill two cards.
 
@@ -989,6 +1011,12 @@
    Whenever you sacrifice another creature, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    |mana_1|, Sacrifice another creature: Fleshtaker gets +2/+2 until end of turn.
+
+
+:mtgtip:`Florian, Voldaren Scion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.jpg?1631169245|https://scryfall.com/card/mid/223/florian-voldaren-scion?utm_source=api>`
+   First strike
+
+   At the beginning of your postcombat main phase, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.
 
 
 :mtgtip:`Galvanic Iteration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.jpg?1630592447|https://scryfall.com/card/mid/224/galvanic-iteration?utm_source=api>`
