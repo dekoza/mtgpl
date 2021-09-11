@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-11 01:14+0200\n"
-"PO-Revision-Date: 2021-09-10 22:45+0000\n"
+"PO-Revision-Date: 2021-09-11 23:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -815,10 +815,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:173
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on target creature."
 msgid "|mana_2|, |tap|: Tap target creature."
-msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na wskazanym stworze."
+msgstr "|mana_2|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../MID.rst:182
 msgid ""
@@ -865,16 +863,12 @@ msgstr ""
 "żetonami stworów, możesz transformować tę kartę."
 
 #: ../../MID.rst:187
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_g| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_w| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia. Następnie wygnaj ją.)"
+"Wspomnienie |mana_w| (Możesz rzucić tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:196
 msgid ""
@@ -928,16 +922,11 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:207
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature or enchantment enters the battlefield under your "
-#| "control this turn, draw a card."
 msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć w tej turze na pole walki pod twoim władaniem wejdzie stwór lub "
-"urok, dobierz kartę."
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../MID.rst:209
 #, fuzzy
@@ -1435,17 +1424,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:355
-#, fuzzy
-#| msgid ""
-#| "Counter target spell. If that spell is countered this way, exile it "
-#| "instead of putting it into its owner's graveyard."
 msgid ""
 "Counter target spell. If that spell is countered this way, exile it instead "
 "of putting it into its owner's graveyard. You may shuffle up to four target "
 "cards from your graveyard into your library."
 msgstr ""
 "Skontruj wskazany czar. Jeśli ów czar zostanie skontrowany w ten sposób, "
-"wygnaj go zamiast umieszczać go w cmentarzu właściciela."
+"wygnaj go zamiast umieszczać go w cmentarzu jego władcy. Możesz wtasować co "
+"najwyżej cztery wskazane karty z twojego cmentarza do twojej biblioteki."
 
 #: ../../MID.rst:360
 msgid ""
@@ -1778,15 +1764,11 @@ msgstr ""
 "dowolnie na spodzie twojej biblioteki."
 
 #: ../../MID.rst:451
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_u|\\ |mana_b| (You may cast this card from "
-#| "your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_u|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"Wspomnienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:456
@@ -1900,15 +1882,11 @@ msgstr ""
 "dowolnie na spodzie twojej biblioteki."
 
 #: ../../MID.rst:481
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_1|\\ |mana_g| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_1|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
+"Wspomnienie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:488
@@ -2274,10 +2252,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:601
-#, fuzzy
-#| msgid "Draw a card."
 msgid "Draw three cards."
-msgstr "Dobierz kartę."
+msgstr "Dobierz trzy karty."
 
 #: ../../MID.rst:606
 msgid ""
@@ -2379,7 +2355,7 @@ msgstr ""
 
 #: ../../MID.rst:633
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../MID.rst:642
 msgid ""
@@ -2511,15 +2487,11 @@ msgid ""
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../MID.rst:669
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_g| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_3|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
+"Wspomnienie |mana_3|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:680
@@ -2628,6 +2600,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../MID.rst:710
 msgid ""
@@ -3225,7 +3199,7 @@ msgstr ""
 
 #: ../../MID.rst:881
 msgid "Vampire Interloper can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../MID.rst:888
 msgid ""
@@ -3275,18 +3249,14 @@ msgstr ""
 
 #: ../../MID.rst:897
 msgid "Up to two target creatures can't block this turn."
-msgstr ""
+msgstr "Co najwyżej dwa wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../MID.rst:899
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_g| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
+"Wspomnienie |mana_3|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:904
@@ -3424,16 +3394,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:947
-#, fuzzy
-#| msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../MID.rst:949
-#, fuzzy
-#| msgid "Draw a card."
 msgid "Draw two cards."
-msgstr "Dobierz kartę."
+msgstr "Dobierz dwie karty."
 
 #: ../../MID.rst:951
 #, fuzzy
@@ -3865,10 +3831,8 @@ msgid "Choose one—"
 msgstr "Wybierz jedną —"
 
 #: ../../MID.rst:1081 ../../MID.rst:1353
-#, fuzzy
-#| msgid "Destroy target creature without flying."
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazanego stwora nie mającego latania."
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../MID.rst:1083
 #, fuzzy
@@ -4238,21 +4202,15 @@ msgstr ""
 "dwoma innymi lądami."
 
 #: ../../MID.rst:1207
-#, fuzzy
-#| msgid "Equipped creature gets +1/+1."
 msgid "Equipped creature gets +2/+1."
-msgstr "Wyposażony stwór dostaje +1/+1."
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../MID.rst:1209
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
 #: ../../MID.rst:1218
@@ -4673,16 +4631,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1355
-#, fuzzy
-#| msgid "Destroy target creature without flying."
 msgid "Destroy target enchantment."
-msgstr "Zniszcz wskazanego stwora nie mającego latania."
+msgstr "Zniszcz wskazany urok."
 
 #: ../../MID.rst:1357
-#, fuzzy
-#| msgid "Return target card from your graveyard to your hand."
 msgid "Exile target card from a graveyard."
-msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../MID.rst:1364
 msgid ""
@@ -4733,10 +4687,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1375
-#, fuzzy
-#| msgid "−3: Create two 2/2 green Wolf creature tokens."
 msgid "Create a 4/4 green Beast creature token."
-msgstr "–3: Stwórz dwa żetony zielonego stwora Wilk 2/2."
+msgstr "Stwórz żeton zielonego stwora Bestia 4/4."
 
 #: ../../MID.rst:1377
 #, fuzzy
@@ -4823,15 +4775,11 @@ msgstr ""
 "dowolnie na spodzie twojej biblioteki."
 
 #: ../../MID.rst:1393
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_g| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_2|\\ |mana_g| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
+"Wspomnienie |mana_2|\\ |mana_g| (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:1398
@@ -4842,16 +4790,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1397
-#, fuzzy
-#| msgid ""
-#| "Whenever Sludge Monster enters the battlefield or attacks, put a slime "
-#| "counter on up to one other target creature."
 msgid ""
 "When Timberland Guide enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, umieść znacznik "
-"szlamu na co najwyżej jednym innym wskazanym stworze."
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../MID.rst:1404
 msgid ""
@@ -5892,10 +5836,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1707
-#, fuzzy
-#| msgid "Trample"
 msgid "Trample, haste"
-msgstr "Tratowanie"
+msgstr "Tratowanie, pośpiech"
 
 #: ../../MID.rst:1709
 #, fuzzy
