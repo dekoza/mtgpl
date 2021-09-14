@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-11 01:14+0200\n"
-"PO-Revision-Date: 2021-09-11 23:45+0000\n"
+"PO-Revision-Date: 2021-09-14 21:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -243,10 +243,6 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../MID.rst:11
-#, fuzzy
-#| msgid ""
-#| "\"Adeline, Resplendent Cathar\"'s power is equal to the number of "
-#| "creatures you control."
 msgid ""
 "Adeline, Resplendent Cathar's power is equal to the number of creatures you "
 "control."
@@ -271,12 +267,17 @@ msgid ""
 "When Ambitious Farmhand enters the battlefield, you may search your library "
 "for a basic Plains card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowej Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../MID.rst:19
 msgid ""
 "Coven—|mana_1|\\ |mana_w|\\ |mana_w|: Transform Ambitious Farmhand. Activate "
 "only if you control three or more creatures with different powers."
 msgstr ""
+"Sabat — |mana_1|\\ |mana_w|\\ |mana_w|: Transformuj tego stwora. Możesz "
+"aktywować tylko jeśli władasz co najmniej trzema stworami o różnych siłach."
 
 #: ../../MID.rst:24
 msgid ""
@@ -360,17 +361,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:45
-#, fuzzy
-#| msgid ""
-#| "Target creature you control gets +1/+1 until end of turn. It deals damage "
-#| "equal to its power to target creature you don't control."
 msgid ""
 "Target creature you control gets +2/+0 and gains lifelink until end of turn. "
 "When that creature dies this turn, create a 1/1 white Spirit creature token "
 "with flying."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Zadaje on "
-"wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+0 i więź życia. "
+"Kiedy ten stwór umrze w tej turze, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../MID.rst:50
 msgid ""
@@ -380,18 +378,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:49
-#, fuzzy
-#| msgid ""
-#| "When this creature enters the battlefield or transforms into Brutal "
-#| "Cathar, exile target creature an opponent controls until this creature "
-#| "leaves the battlefield."
 msgid ""
 "When Borrowed Time enters the battlefield, exile target nonland permanent an "
 "opponent controls until Borrowed Time leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub transformuję na tę stronę, wygnaj "
-"wskazanego stwora pod władaniem przeciwnika dopóki niniejszy stwór nie "
-"opuści pola bitwy."
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany permanent pod "
+"władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../MID.rst:56
 msgid ""
@@ -453,17 +445,13 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:67
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven — At the beginning of combat on your turn, if you control three or "
 "more creatures with different powers, Candlegrove Witch gains flying until "
 "end of turn."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, ten stwór zyskuje do końca tury latanie."
 
 #: ../../MID.rst:78
 msgid ""
@@ -491,6 +479,9 @@ msgid ""
 "Coven — |mana_2|\\ |mana_w|, Sacrifice Candletrap: Exile enchanted creature. "
 "Activate only if you control three or more creatures with different powers."
 msgstr ""
+"Sabat — |mana_2|\\ |mana_w|, poświęć ten urok: Wygnaj zauroczonego stwora. "
+"Możesz aktywować tylko jeśli władasz co najmniej trzema stworami o różnych "
+"siłach."
 
 #: ../../MID.rst:84
 msgid ""
@@ -655,17 +646,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:131
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven-At the beginning of combat on your turn, if you control three or more "
 "creatures with different powers, target creature you control gains double "
 "strike until end of turn."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, wskazany stwór pod twoim władaniem zyskuje "
+"do końca tury podwójny cios."
 
 #: ../../MID.rst:140
 msgid ""
@@ -1019,17 +1007,13 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:237
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven — At the beginning of combat on your turn, if you control three or "
 "more creatures with different powers, Ritual Guardian gains lifelink until "
 "end of turn."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, ten stwór zyskuje do końca tury więź życia."
 
 #: ../../MID.rst:244
 msgid ""
@@ -1043,16 +1027,12 @@ msgid "Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../MID.rst:243
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven — If you control three or more creatures with different powers, "
 "creatures you control get +2/+1 until end of turn instead."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — Jeśli władasz co najmniej trzema stworami o różnych siłach, zamiast "
+"tego stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../MID.rst:250
 msgid ""
@@ -1182,6 +1162,10 @@ msgid ""
 "color this turn. Activate only if you control three or more creatures with "
 "different powers."
 msgstr ""
+"Sabat — |mana_1|\\ |mana_w|: Wybierz kolor. Ten stwór zyskuje do końca tury "
+"antyklątwę przed tym kolorem i do końca tury nie może być blokowany przez "
+"stwory w tym kolorze. Możesz aktywować tylko jeśli władasz co najmniej "
+"trzema stworami o różnych siłach."
 
 #: ../../MID.rst:288
 msgid ""
@@ -4146,16 +4130,12 @@ msgid "You may play lands from the top of your library."
 msgstr "Możesz zagrywać lądy z wierzchu twojej biblioteki."
 
 #: ../../MID.rst:1183
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven — As long as you control three or more creatures with different "
 "powers, you may cast creature spells from the top of your library."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — O ile władasz co najmniej trzema stworami o różnych siłach, możesz "
+"rzucać czary stworów z wierzchu twojej biblioteki."
 
 #: ../../MID.rst:1190
 msgid ""
@@ -4288,6 +4268,8 @@ msgid ""
 "more creatures with different powers, Candlelit Cavalry gains trample until "
 "end of turn."
 msgstr ""
+"Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, ten stwór zyskuje do końca tury tratowanie."
 
 #: ../../MID.rst:1244
 msgid ""
@@ -4342,6 +4324,9 @@ msgid ""
 "creatures with different powers, put a +1/+1 counter on target creature you "
 "control."
 msgstr ""
+"Sabat — Na początku twojego kroku końcowego, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, umieść znacznik +1/+1 na wskazanym stworze "
+"pod twoim władaniem."
 
 #: ../../MID.rst:1262
 msgid ""
@@ -4364,6 +4349,9 @@ msgid ""
 "gains trample until end of turn. Activate only if you control three or more "
 "creatures with different powers."
 msgstr ""
+"Sabat — |mana_5|\\ |mana_g|: Wskazany stwór pod twoim władaniem dostaje do "
+"końca tury +3/+3 i tratowanie. Możesz aktywować tylko jeśli władasz co "
+"najmniej trzema stworami o różnych siłach."
 
 #: ../../MID.rst:1268
 msgid ""
@@ -4463,6 +4451,10 @@ msgid ""
 "+1/+1 counter on the chosen creature you control. Then the chosen creatures "
 "fight each other. (They each deal damage equal to their power to the other.)"
 msgstr ""
+"Sabat — Wybierz wskazanego stwora pod twoim władaniem oraz wskazanego stwora "
+"poza twoim władaniem. Jeśli władasz co najmniej trzema stworami o różnych "
+"siłach, umieść znacznik +1/+1 na owym stworze pod twoim władaniem. Następnie "
+"wybrane stwory walczą. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../MID.rst:1294
 msgid ""
@@ -4496,17 +4488,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1297
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven — At the beginning of combat on your turn, if. you control three or "
 "more creatures with different powers, Harvesttide Sentry can't be blocked by "
 "creatures with power 2 or less this turn."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, ten stwór nie może być w tej turze "
+"blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../MID.rst:1306
 msgid ""
@@ -4565,6 +4554,8 @@ msgid ""
 "Coven — Then if you control three or more creatures with different powers, "
 "draw a card."
 msgstr ""
+"Sabat — Następnie jeśli władasz co najmniej trzema stworami o różnych "
+"siłach, dobierz kartę."
 
 #: ../../MID.rst:1338
 msgid ""
@@ -5119,17 +5110,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1497
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Coven — At the beginning of combat on your turn, if you control three or "
 "more creatures with different powers, creatures you control get +1/+0 until "
 "end of turn."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
+"trzema stworami o różnych siłach, stwory pod twoim władaniem dostają do "
+"końca tury +1/+0."
 
 #: ../../MID.rst:1506
 msgid ""
@@ -5770,6 +5758,11 @@ msgid ""
 "reveal a Human creature card from among them and put it into your hand. Put "
 "the rest on the bottom of your library in a random order."
 msgstr ""
+"Sabat — Ilekroć ten stwór zaatakuje, jeśli władasz co najmniej trzema "
+"stworami o różnych siłach, spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz ujawnić spośród nich kartę stwora typu Człowiek i "
+"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../MID.rst:1694
 msgid ""
@@ -6454,6 +6447,8 @@ msgid ""
 "Whenenver \"Frenzied Trapbreaker\" attacks, destroy target artifact or "
 "enchantment defending player controls."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zniszcz wskazany artefakt lub urok pod "
+"władaniem broniącego się gracza."
 
 #, fuzzy
 #~| msgid ""
