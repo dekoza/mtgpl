@@ -1185,7 +1185,7 @@
    Gibbering Hyenas can't block black creatures.
 
 
-:mtgtip:`Granger Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f495b27-3eed-4962-b69a-b86f9fc6a9a7.jpg?1562718792|https://scryfall.com/card/mir/220/granger-guildmage?utm_source=api>`
+:mtgtip:`Granger Guildmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f495b27-3eed-4962-b69a-b86f9fc6a9a7.jpg?1626727981|https://scryfall.com/card/mir/220/granger-guildmage?utm_source=api>`
    |mana_r|, |tap|: Granger Guildmage deals 1 damage to any target and 1 damage to you.
 
    |mana_w|, |tap|: Target creature gains first strike until end of turn.
