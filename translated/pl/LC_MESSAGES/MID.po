@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 23:47+0200\n"
-"PO-Revision-Date: 2021-09-14 21:49+0000\n"
+"PO-Revision-Date: 2021-09-15 08:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -499,7 +499,7 @@ msgstr "Błysk"
 #: ../../MID.rst:83
 msgid ""
 "|mana_1|, Sacrifice Cathar Commando: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../MID.rst:90
 msgid ""
@@ -509,12 +509,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:89
-#, fuzzy
-#| msgid "When Dawnhart Rejuvenator enters the battlefield, you gain 3 life."
 msgid ""
 "Enchanted creature has vigilance and \"At the beginning of your end step, "
 "create a 1/1 white Human creature token.\""
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr ""
+"Zauroczony stwór ma czujność oraz \"Na początku twojego kroku końcowego, "
+"stwórz żeton białego stwora Człowiek 1/1.\""
 
 #: ../../MID.rst:96
 msgid ""
@@ -601,12 +601,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:115
-#, fuzzy
-#| msgid "When Dawnhart Rejuvenator enters the battlefield, you gain 3 life."
 msgid ""
 "When Clarion Cathars enters the battlefield, create a 1/1 white Human "
 "creature token."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Człowiek "
+"1/1."
 
 #: ../../MID.rst:126
 msgid ""
@@ -647,11 +647,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:131
-#, fuzzy
-#| msgid ""
-#| "Coven-At the beginning of combat on your turn, if you control three or "
-#| "more creatures with different powers, target creature you control gains "
-#| "double strike until end of turn."
 msgid ""
 "Coven — At the beginning of combat on your turn, if you control three or "
 "more creatures with different powers, target creature you control gains "
@@ -722,17 +717,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:153
-#, fuzzy
-#| msgid ""
-#| "Destroy target creature with power 2 or less. Investigate. (Create a "
-#| "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: "
-#| "Draw a card.\")"
 msgid ""
 "Destroy target creature or planeswalker. Its controller investigates. (They "
 "create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Zniszcz wskazanego stwora o sile 2 lub mniejszej. Dociekaj. (Stwórz żeton "
+"Zniszcz wskazanego stwora lub wędrowca. Jego władca docieka. (Tworzy żeton "
 "bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
 "Dobierz kartę.\")"
 
@@ -790,16 +780,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:169
-#, fuzzy
-#| msgid ""
-#| "Whenever Sludge Monster enters the battlefield or attacks, put a slime "
-#| "counter on up to one other target creature."
 msgid ""
 "When Gavony Silversmith enters the battlefield, put a +1/+1 counter on each "
 "of up to two target creatures."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, umieść znacznik "
-"szlamu na co najwyżej jednym innym wskazanym stworze."
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
+"najwyżej dwóch wskazanych stworów."
 
 #: ../../MID.rst:174
 msgid ""
@@ -845,16 +831,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:185
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "Put a +1/+1 counter on target creature you control. It gains vigilance until "
 "end of turn."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
-"żetonami stworów, możesz transformować tę kartę."
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Do końca "
+"tury zyskuje on czujność."
 
 #: ../../MID.rst:187
 msgid ""
@@ -896,16 +878,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:203
-#, fuzzy
-#| msgid ""
-#| "Shipwreck Marsh enters the battlefield tapped unless you control two or "
-#| "more other lands."
 msgid ""
 "When Loyal Gryff enters the battlefield, you may return another creature you "
 "control to its owner's hand."
 msgstr ""
-"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
-"dwoma innymi lądami."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić innego stwora pod "
+"twoim władaniem do ręki właściciela."
 
 #: ../../MID.rst:210
 msgid ""
@@ -923,15 +901,11 @@ msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../MID.rst:209
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_1|\\ |mana_w| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_1|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../MID.rst:218
@@ -943,24 +917,19 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:215
-#, fuzzy
-#| msgid "When Dawnhart Rejuvenator enters the battlefield, you gain 3 life."
 msgid ""
 "Whenever another creature you control leaves the battlefield, you gain 1 "
 "life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr ""
+"Ilekroć inny stwór pod twoim władaniem opuści pole bitwy, zyskaj 1 życie."
 
 #: ../../MID.rst:217
-#, fuzzy
-#| msgid ""
-#| "If Generous Soul would be put into a graveyard from anywhere, exile it "
-#| "instead."
 msgid ""
 "If Luminous Phantom would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
-"ją."
+"Jeśli ta karta miałaby skądkolwiek zostać umieszczona w cmentarzu, zamiast "
+"tego wygnaj ją."
 
 #: ../../MID.rst:224
 msgid ""
@@ -979,16 +948,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:229
-#, fuzzy
-#| msgid ""
-#| "If Generous Soul would be put into a graveyard from anywhere, exile it "
-#| "instead."
 msgid ""
 "If Morning Apparition would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
-"ją."
+"Jeśli ta karta miałaby skądkolwiek zostać umieszczona w cmentarzu, zamiast "
+"tego wygnaj ją."
 
 #: ../../MID.rst:234
 msgid ""
@@ -1048,22 +1013,16 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:247
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| less to cast for each creature on the "
-#| "battlefield."
 msgid ""
 "This spell costs |mana_1| less to cast for each creature you attacked with "
 "this turn."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
-"bitwy."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora, którym "
+"zaatakowałeś w tej turze."
 
 #: ../../MID.rst:249
-#, fuzzy
-#| msgid "When Devoted Grafkeeper enters the battlefield, mill two cards."
 msgid "When Search Party Captain enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../MID.rst:258
 msgid ""
@@ -1073,10 +1032,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:253
-#, fuzzy
-#| msgid "As Curse of Silence enters the battlefield, choose a card name."
 msgid "As Sigarda's Splendor enters the battlefield, note your life total."
-msgstr "Umieszczając tę kartę na polu bitwy, nazwij kartę."
+msgstr "Umieszczając ten urok na polu bitwy, zapisz liczbę swoich żyć."
 
 #: ../../MID.rst:255
 msgid ""
@@ -1084,13 +1041,13 @@ msgid ""
 "than or equal to the last noted life total for Sigarda's Splendor. Then note "
 "your life total."
 msgstr ""
+"Na początku twojego kroku utrzymania, dobierz kartę jeśli liczba twoich żyć "
+"jest większa lub równa liczbie żyć poprzednio zapisanych tym urokiem. "
+"Następnie zanotuj liczbę twoich żyć."
 
 #: ../../MID.rst:257
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
 msgid "Whenever you cast a white spell, you gain 1 life."
-msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, odkręć tego stwora."
+msgstr "Ilekroć rzucisz biały czar, zyskaj 1 życie."
 
 #: ../../MID.rst:264
 msgid ""
@@ -1100,17 +1057,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:263
-#, fuzzy
-#| msgid ""
-#| "When \"Locked inside the Cemetary\" enters the battlefield, if there are "
-#| "five or more cards in your graveyard, tap enchanted creature."
 msgid ""
 "When Sigardian Savior enters the battlefield, if you cast it, return up to "
 "two target creature cards with mana value 2 or less from your graveyard to "
 "the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli w twoim cmentarzu jest co "
-"najmniej pięć kart, przekręć zauroczonego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, został przez ciebie rzucony, przywróć "
+"co najwyżej dwie wskazane karty stworów o koszcie many 2 lub mniejszym z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../MID.rst:270
 msgid ""
@@ -1120,16 +1074,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:269
-#, fuzzy
-#| msgid ""
-#| "Whenever Sludge Monster enters the battlefield or attacks, put a slime "
-#| "counter on up to one other target creature."
 msgid ""
 "When Soul-Guide Gryff enters the battlefield, exile up to one target card "
 "from a graveyard."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, umieść znacznik "
-"szlamu na co najwyżej jednym innym wskazanym stworze."
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej jedną wskazaną "
+"kartę z cmentarza."
 
 #: ../../MID.rst:274
 msgid ""
@@ -1150,16 +1100,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:277
-#, fuzzy
-#| msgid ""
-#| "Whenever Sludge Monster enters the battlefield or attacks, put a slime "
-#| "counter on up to one other target creature."
 msgid ""
 "Whenever Sungold Sentinel enters the battlefield or attacks, exile up to one "
 "target card from a graveyard."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, umieść znacznik "
-"szlamu na co najwyżej jednym innym wskazanym stworze."
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wygnaj co najwyżej "
+"jedną wskazaną kartę z cmentarza."
 
 #: ../../MID.rst:279
 msgid ""
@@ -1182,19 +1128,19 @@ msgstr ""
 
 #: ../../MID.rst:283
 msgid "If an opponent has more life than you, you gain 4 life."
-msgstr ""
+msgstr "Jeśli przeciwnik ma więcej żyć niż ty, zyskaj 4 życia."
 
 #: ../../MID.rst:285
-#, fuzzy
-#| msgid "Create two 1/1 white Human creature tokens."
 msgid ""
 "If an opponent controls more creatures than you, create two 1/1 white Human "
 "creature tokens."
-msgstr "Stwórz dwa żetony białego stwora Człowiek 1/1."
+msgstr ""
+"Jeśli przeciwnik włada większą liczbą stworów niż ty, stwórz dwa żetony "
+"białego stwora Człowiek 1/1."
 
 #: ../../MID.rst:287
 msgid "If an opponent has more cards in hand than you, draw a card."
-msgstr ""
+msgstr "Jeśli przeciwnik ma w ręce więcej kart niż ty, dobierz kartę."
 
 #: ../../MID.rst:292
 msgid ""
@@ -1204,10 +1150,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:291
-#, fuzzy
-#| msgid "Destroy target creature with toughness 4 or greater."
 msgid "Exile target Spirit, creature with disturb, or enchantment."
-msgstr "Zniszcz wskazanego stwora o wytrzymałości 4 lub większej."
+msgstr "Wygnaj wskazanego Ducha, stwora z niepokojeniem lub urok."
 
 #: ../../MID.rst:296
 msgid ""
@@ -1282,10 +1226,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:315
-#, fuzzy
-#| msgid ""
-#| "If it's neither day nor night, it becomes day as Brimstone Vandal enters "
-#| "the battlefield."
 msgid ""
 "If it's neither day nor night, it becomes day as Component Collector enters "
 "the battlefield."
@@ -1294,16 +1234,12 @@ msgstr ""
 "pole bitwy."
 
 #: ../../MID.rst:317
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, Brimstone Vandal deals 1 "
-#| "damage to each opponent."
 msgid ""
 "Whenever day becomes night or night becomes day, you may tap or untap target "
 "nonland permanent."
 msgstr ""
-"Ilekroć dzień stanie się nocą lub noc dniem, ten stwór zadaje każdemu "
-"przeciwnikowi po 1 obrażeniu."
+"Ilekroć dzień stanie się nocą lub noc dniem, możesz przekręcić lub odkręcić "
+"wskazany nielądowy permanent."
 
 #: ../../MID.rst:324
 msgid ""
@@ -1334,19 +1270,15 @@ msgstr ""
 
 #: ../../MID.rst:327
 msgid "When Covetous Castaway dies, mill three cards."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zmiel trzy karty."
 
 #: ../../MID.rst:329
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_g|\\ |mana_w| (You may cast this card from "
-#| "your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Disturb |mana_3|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard transformed for its disturb cost.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_g|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
-"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
+"Niepokojenie |mana_3|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę "
+"transformowaną z twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../MID.rst:338
 msgid ""
@@ -1357,28 +1289,20 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:335
-#, fuzzy
-#| msgid ""
-#| "When \"Locked inside the Cemetary\" enters the battlefield, if there are "
-#| "five or more cards in your graveyard, tap enchanted creature."
 msgid ""
 "When Ghostly Castigator enters the battlefield, shuffle up to three target "
 "cards from your graveyard into your library."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli w twoim cmentarzu jest co "
-"najmniej pięć kart, przekręć zauroczonego stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, wtasuj co najwyżej trzy wskazane "
+"karty z twojego cmentarza do twojej biblioteki."
 
 #: ../../MID.rst:337
-#, fuzzy
-#| msgid ""
-#| "If Generous Soul would be put into a graveyard from anywhere, exile it "
-#| "instead."
 msgid ""
 "If Ghostly Castigator would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
-"ją."
+"Jeśli ta karta miałaby skądkolwiek zostać umieszczona w cmentarzu, zamiast "
+"tego wygnaj ją."
 
 #: ../../MID.rst:344
 msgid ""
@@ -3116,16 +3040,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:845
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia. Następnie wygnaj ją.)"
+"Wspomnienie |mana_1|\\ |mana_b| (Możesz rzucić tę kartę z twojego cmentarza "
+"za jej koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:852
 msgid ""
@@ -3661,10 +3581,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1025
-#, fuzzy
-#| msgid "Up to two target creatures can't block this turn."
 msgid "|mana_3|\\ |mana_r|: Target creature can't block this turn."
-msgstr "Co najwyżej dwa wskazane stwory nie mogą blokować w tej turze."
+msgstr "|mana_3|\\ |mana_r|: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../MID.rst:1032
 msgid ""
@@ -4729,10 +4647,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1365
-#, fuzzy
-#| msgid "Destroy target creature without flying."
 msgid "Destroy target creature with flying."
-msgstr "Zniszcz wskazanego stwora nie mającego latania."
+msgstr "Zniszcz wskazanego stwora mającego latanie."
 
 #: ../../MID.rst:1372
 msgid ""
@@ -5990,10 +5906,8 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1745
-#, fuzzy
-#| msgid "Spells you cast from your graveyard cost |mana_1| less to cast."
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów z twojego cmentarza kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../MID.rst:1747
 #, fuzzy
@@ -6311,10 +6225,8 @@ msgstr ""
 "szlamu na co najwyżej jednym innym wskazanym stworze."
 
 #: ../../MID.rst:1829
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color."
 msgid "|mana_2|: Add one mana of any color."
-msgstr "|tap|: Weź jedną manę dowolnego koloru."
+msgstr "|mana_2|: Weź jedną manę dowolnego koloru."
 
 #: ../../MID.rst:1836
 msgid ""
@@ -6452,18 +6364,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1873
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an "
-#| "opponent controls. Each player searches their library for a basic land "
-#| "card, puts it onto the battlefield, then shuffles."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten ląd: Zniszcz wskazany nie-bazowy ląd pod "
-"władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
-"lądu, umieszcza ją na polu bitwy, po czym tasuje."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MID.rst:1880
 msgid ""
@@ -6545,7 +6451,7 @@ msgstr ""
 
 #: ../../MID.rst:1897
 msgid "|mana_4|: Creeping Inn phases out."
-msgstr ""
+msgstr "|mana_4|: Ten ląd wycofuje się."
 
 #: ../../MID.rst:1904
 msgid ""
