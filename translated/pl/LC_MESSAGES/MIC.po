@@ -1,229 +1,230 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-16 22:42+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-09-16 21:37+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mic/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:101
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:103
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:105
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../MIC.rst:5
 msgid ":mtgexp:`MIC` Midnight Hunt Commander"
@@ -326,7 +327,7 @@ msgstr ""
 #: ../../MIC.rst:35 ../../MIC.rst:71 ../../MIC.rst:111 ../../MIC.rst:149
 #: ../../MIC.rst:207
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../MIC.rst:37
 msgid ""
@@ -357,13 +358,13 @@ msgstr ""
 
 #: ../../MIC.rst:45 ../../MIC.rst:97 ../../MIC.rst:629
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MIC.rst:47 ../../MIC.rst:89 ../../MIC.rst:247 ../../MIC.rst:279
 #: ../../MIC.rst:291 ../../MIC.rst:403 ../../MIC.rst:443 ../../MIC.rst:505
 #: ../../MIC.rst:611 ../../MIC.rst:641 ../../MIC.rst:647
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../MIC.rst:49
 msgid ""
@@ -381,7 +382,7 @@ msgstr ""
 
 #: ../../MIC.rst:53 ../../MIC.rst:155 ../../MIC.rst:333
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../MIC.rst:55
 msgid ""
@@ -399,7 +400,7 @@ msgstr ""
 
 #: ../../MIC.rst:59
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../MIC.rst:61
 msgid ""
@@ -454,6 +455,8 @@ msgid ""
 "Choose one. If you control a commander as you cast this spell, you may "
 "choose both."
 msgstr ""
+"Wybierz jedną. Jeśli rzucając ten czar masz we władaniu dowódcę, możesz "
+"wybrać obie."
 
 #: ../../MIC.rst:79
 msgid "Target player draws X cards."
@@ -519,7 +522,7 @@ msgstr ""
 
 #: ../../MIC.rst:103 ../../MIC.rst:665 ../../MIC.rst:719 ../../MIC.rst:773
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../MIC.rst:105
 msgid ""
@@ -581,7 +584,7 @@ msgstr ""
 
 #: ../../MIC.rst:123 ../../MIC.rst:227 ../../MIC.rst:603
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../MIC.rst:125
 msgid ""
@@ -631,7 +634,7 @@ msgstr ""
 
 #: ../../MIC.rst:139 ../../MIC.rst:491
 msgid "Other Zombies you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają +1/+1."
 
 #: ../../MIC.rst:141
 msgid ""
@@ -761,7 +764,7 @@ msgstr ""
 
 #: ../../MIC.rst:183
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../MIC.rst:185
 msgid "Other legendary permanents you control have indestructible."
@@ -919,10 +922,12 @@ msgid ""
 "Outlast |mana_w| (|mana_w|, |tap|: Put a +1/+1 counter on this creature. "
 "Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_w| (|mana_w|, |tap|: Umieść znacznik +1/+1 na tym stworze. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../MIC.rst:237
 msgid "Each creature you control with a +1/+1 counter on it has flying."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma latanie."
 
 #: ../../MIC.rst:244
 msgid ""
@@ -936,10 +941,13 @@ msgid ""
 "Outlast |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, |tap|: Put a +1/+1 counter "
 "on this creature. Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, |tap|: Umieść znacznik "
+"+1/+1 na tym stworze. Aktywuj tylko jako obrzęd.)"
 
 #: ../../MIC.rst:243
 msgid "Each creature you control with a +1/+1 counter on it has first strike."
 msgstr ""
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma pierwszy cios."
 
 #: ../../MIC.rst:250
 msgid ""
@@ -953,6 +961,8 @@ msgid ""
 "When Angel of Glory's Rise enters the battlefield, exile all Zombies, then "
 "return all Human creature cards from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie Zombi, po czym "
+"przywróć wszystkie stwory typu Człowiek z twojego cmentarza na pole bitwy."
 
 #: ../../MIC.rst:254
 msgid ""
@@ -974,19 +984,23 @@ msgstr ""
 
 #: ../../MIC.rst:257
 msgid "As Citadel Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
 
 #: ../../MIC.rst:259
 msgid ""
 "Khans — At the beginning of combat on your turn, put two +1/+1 counters on "
 "target creature you control."
 msgstr ""
+"Chanowie — Na początku potyczki w twojej turze, umieść dwa znaczniki +1/+1 "
+"na wskazanym stworze pod twoim władaniem."
 
 #: ../../MIC.rst:261
 msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
+"Smoki — Na początku potyczki w turze każdego z przeciwników, przekręć "
+"wskazanego stwora pod władaniem owego gracza."
 
 #: ../../MIC.rst:270
 msgid ""
@@ -997,15 +1011,15 @@ msgstr ""
 
 #: ../../MIC.rst:265
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedną —"
 
 #: ../../MIC.rst:267
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../MIC.rst:269
 msgid "Destroy all artifacts and enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty i uroki."
 
 #: ../../MIC.rst:276
 msgid ""
@@ -1019,12 +1033,16 @@ msgid ""
 "Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, "
 "where X is the number of other creatures on the battlefield."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest "
+"liczbą innych stworów na polu bitwy."
 
 #: ../../MIC.rst:275
 msgid ""
 "|mana_2|\\ |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create "
 "a 1/1 white Spirit creature token with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../MIC.rst:282
 msgid ""
@@ -1038,6 +1056,8 @@ msgid ""
 "As long as Dearly Departed is in your graveyard, each Human creature you "
 "control enters the battlefield with an additional +1/+1 counter on it."
 msgstr ""
+"O ile ta karta jest w twoim cmentarzu, każdy Człowiek pod twoim władaniem "
+"wchodzi na pole bitwy mając dodatkowy znacznik +1/+1."
 
 #: ../../MIC.rst:288
 msgid ""
@@ -1052,12 +1072,17 @@ msgid ""
 "with the least toughness among creatures you control and put two +1/+1 "
 "counters on it.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
+"najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
+"nim dwa znaczniki +1/+1.)"
 
 #: ../../MIC.rst:287
 msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, tap "
 "target creature defending player controls."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zaatakuje, przekręć "
+"wskazanego stwora pod władaniem broniącego się gracza."
 
 #: ../../MIC.rst:296
 msgid ""
@@ -1068,13 +1093,15 @@ msgstr ""
 
 #: ../../MIC.rst:293
 msgid "Whenever Herald of War attacks, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, umieść na nim znacznik +1/+1."
 
 #: ../../MIC.rst:295
 msgid ""
 "Angel spells and Human spells you cast cost |mana_1| less to cast for each "
 "+1/+1 counter on Herald of War."
 msgstr ""
+"Rzucanie czarów typu Anioł i Człowiek kosztuje cię o |mana_1| mniej za każdy "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../MIC.rst:302
 msgid ""
@@ -1089,10 +1116,13 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"swoim kolorze.)"
 
 #: ../../MIC.rst:301
 msgid "Destroy all nontoken creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie nieżetonowe stwory."
 
 #: ../../MIC.rst:308
 msgid ""
@@ -1104,7 +1134,7 @@ msgstr ""
 
 #: ../../MIC.rst:305
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../MIC.rst:307
 msgid ""
@@ -1112,6 +1142,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
+"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../MIC.rst:316
 msgid ""
@@ -1123,17 +1156,19 @@ msgstr ""
 #: ../../MIC.rst:311
 msgid ""
 "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../MIC.rst:313
 msgid "|tap|: Put a +1/+1 counter on Mikaeus."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../MIC.rst:315
 msgid ""
 "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each "
 "other creature you control."
 msgstr ""
+"|tap|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na każdym "
+"innym stworze pod twoim władaniem."
 
 #: ../../MIC.rst:322
 msgid ""
@@ -1147,12 +1182,16 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
+"pierwszego ciosu.)"
 
 #: ../../MIC.rst:321
 msgid ""
 "Whenever Odric, Master Tactician and at least three other creatures attack, "
 "you choose which creatures block this combat and how those creatures block."
 msgstr ""
+"Ilekroć zaatakuje ten i przynajmniej trzy inne stwory, ty wybierasz "
+"blokujące stwory w tej potyczce oraz to, jak będą one blokować."
 
 #: ../../MIC.rst:326
 msgid ""
@@ -1180,6 +1219,8 @@ msgid ""
 "Exile target artifact or enchantment. If you cast this spell during your "
 "main phase, you may exile up to one other target artifact or enchantment."
 msgstr ""
+"Wygnaj wskazany artefakt lub urok. Jeśli rzucasz ten czar w twojej fazie "
+"głównej, możesz wygnać co najwyżej jeden inny wskazany artefakt lub urok."
 
 #: ../../MIC.rst:338
 msgid ""
@@ -1190,13 +1231,15 @@ msgstr ""
 
 #: ../../MIC.rst:335
 msgid "As Riders of Gavony enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tego stwora na polu bitwy wybierz typ stwora."
 
 #: ../../MIC.rst:337
 msgid ""
 "Human creatures you control have protection from creatures of the chosen "
 "type."
 msgstr ""
+"Stwory typu Człowiek pod twoim władaniem mają ochronę przed stworami "
+"wybranego typu."
 
 #: ../../MIC.rst:342
 msgid ""
@@ -1207,7 +1250,7 @@ msgstr ""
 
 #: ../../MIC.rst:341
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../MIC.rst:348
 msgid ""
@@ -1218,13 +1261,15 @@ msgstr ""
 
 #: ../../MIC.rst:345
 msgid "Creatures you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../MIC.rst:347
 msgid ""
 "Addendum — If you cast this spell during your main phase, put a +1/+1 "
 "counter on each of those creatures and they gain vigilance until end of turn."
 msgstr ""
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/+"
+"1 na każdym z owych stworów i zyskują one czujność do końca tury."
 
 #: ../../MIC.rst:352
 msgid ""
@@ -1238,6 +1283,8 @@ msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on each other creature "
 "you control."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na każdym innym "
+"stworze pod twoim władaniem."
 
 #: ../../MIC.rst:356
 msgid ""
@@ -1251,6 +1298,8 @@ msgid ""
 "For each attacking creature, its owner puts it on the top or bottom of their "
 "library."
 msgstr ""
+"Właściciel każdego atakującego stwora umieszcza go na wierzchu lub spodzie "
+"swojej biblioteki."
 
 #: ../../MIC.rst:360
 msgid ""
@@ -1264,6 +1313,8 @@ msgid ""
 "Choose a creature type. Draw a card for each permanent you control of that "
 "type."
 msgstr ""
+"Wybierz typ stwora. Dobierz kartę za każdy permanent pod twoim władaniem "
+"mający ów typ."
 
 #: ../../MIC.rst:366
 msgid ""
@@ -1278,10 +1329,13 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zgromadź 2. (Umieść dwa znaczniki +1/+"
+"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../MIC.rst:365
 msgid "Zombie tokens you control have flying."
-msgstr ""
+msgstr "Żetony Zombi pod twoim władaniem mają latanie."
 
 #: ../../MIC.rst:372
 msgid ""
@@ -1293,12 +1347,15 @@ msgstr ""
 #: ../../MIC.rst:369
 msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
 msgstr ""
+"Przyczajenie (Ten stwór nie może być blokowany przez stwory z większą siłą.)"
 
 #: ../../MIC.rst:371
 msgid ""
 "At the beginning of your upkeep, you may discard all the cards in your hand. "
 "If you do, draw that many cards."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz odrzucić wszystkie karty z "
+"twojej ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
 
 #: ../../MIC.rst:376
 msgid ""
@@ -1313,6 +1370,9 @@ msgid ""
 "Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each "
 "Zombie creature you control."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"żeton czarnego stwora Zombi 2/2, po czym umieść znacznik +1/+1 na każdym "
+"Zombi pod twoim władaniem."
 
 #: ../../MIC.rst:380
 msgid ""
@@ -1327,6 +1387,9 @@ msgid ""
 "way, create a token that's a copy of that card, except it's a 4/4 black "
 "Zombie."
 msgstr ""
+"Wygnaj X wskazanych kart stworów z twojego cmentarza. Za każdą kartę wygnaną "
+"w ten sposób, stwórz żeton będący jej kopią z wyjątkiem tego, że jest to "
+"czarny Zombi 4/4."
 
 #: ../../MIC.rst:384
 msgid ""
@@ -1340,6 +1403,8 @@ msgid ""
 "You may pay |mana_0| rather than pay the mana cost for Zombie creature "
 "spells you cast."
 msgstr ""
+"Rzucając czary stworów typu Zombi możesz płacić |mana_0| zamiast ich kosztu "
+"many."
 
 #: ../../MIC.rst:388
 msgid ""
@@ -1367,12 +1432,16 @@ msgid ""
 "If a Zombie you control would deal combat damage to a player, instead that "
 "player mills that many cards."
 msgstr ""
+"Jeśli Zombi pod twoim władaniem miałby zadać graczowi obrażenia bojowe, "
+"zamiast tego ów gracz mieli tyle samo kart."
 
 #: ../../MIC.rst:393
 msgid ""
 "Whenever a creature card is put into an opponent's graveyard from their "
 "library, exile that card and create a 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć karta stwora trafi z biblioteki do cmentarza przeciwnika, wygnaj ową "
+"kartę i stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../MIC.rst:400
 msgid ""
@@ -1383,13 +1452,15 @@ msgstr ""
 
 #: ../../MIC.rst:397
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Stwórz trzynaście przekręconych żetonów czarnego stwora Zombi 2/2."
 
 #: ../../MIC.rst:399
 msgid ""
 "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MIC.rst:406
 msgid ""
@@ -1413,13 +1484,15 @@ msgstr ""
 
 #: ../../MIC.rst:409 ../../MIC.rst:605
 msgid "Other Zombie creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../MIC.rst:411
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|: Exile target creature card from a graveyard. "
 "Create a 2/2 black Zombie creature token."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|: Wygnaj wskazaną kartę stwora z cmentarza. Stwórz "
+"żeton czarnego stwora Zombi 2/2."
 
 #: ../../MIC.rst:416
 msgid ""
@@ -1447,6 +1520,9 @@ msgid ""
 "target creature gets -1/-1 until end of turn for each Zombie that player "
 "controls."
 msgstr ""
+"Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, po czym co "
+"najwyżej jeden wskazany stwór dostaje do końca tury -1/-1 za każdego Zombi "
+"pod władaniem owego gracza."
 
 #: ../../MIC.rst:424
 msgid ""
@@ -1460,6 +1536,8 @@ msgid ""
 "Skeletons you control and other Zombies you control get +1/+1 and have "
 "deathtouch."
 msgstr ""
+"Szkielety pod twoim władaniem oraz inne Zombi pod twoim władaniem dostają +1/"
+"+1 i mają dotyk śmierci."
 
 #: ../../MIC.rst:430
 msgid ""
@@ -1473,12 +1551,16 @@ msgid ""
 "Diregraf Colossus enters the battlefield with a +1/+1 counter on it for each "
 "Zombie card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile kart Zombi "
+"jest w twoim cmentarzu."
 
 #: ../../MIC.rst:429
 msgid ""
 "Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature "
 "token."
 msgstr ""
+"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi 2/"
+"2."
 
 #: ../../MIC.rst:434
 msgid ""
@@ -1506,12 +1588,17 @@ msgid ""
 "counter on an Army you control. If you don't control one, create a 0/0 black "
 "Zombie Army creature token first.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, strać 1 życie i zgromadź 1. (Umieść "
+"znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz "
+"najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../MIC.rst:439
 msgid ""
 "Whenever a Zombie token you control with power 6 or greater attacks, it "
 "gains lifelink until end of turn."
 msgstr ""
+"Ilekroć atakuje żeton Zombi pod twoim władaniem o sile 6 lub większej, "
+"zyskuje on więź życia do końca tury."
 
 #: ../../MIC.rst:448
 msgid ""
@@ -1522,12 +1609,13 @@ msgstr ""
 
 #: ../../MIC.rst:445
 msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
-msgstr ""
+msgstr "|mana_b|, poświęć innego stwora: Zregeneruj tego stwora."
 
 #: ../../MIC.rst:447
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
 msgstr ""
+"|mana_2|\\ |mana_b|, poświęć dwa inne stwory: Zniszcz wskazanego stwora."
 
 #: ../../MIC.rst:452
 msgid ""
@@ -1542,6 +1630,9 @@ msgid ""
 "At the beginning of your upkeep, create X 2/2 black Zombie creature tokens, "
 "where X is half the number of Zombies you control, rounded down."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz X żetonów czarnego stwora Zombi "
+"2/2, gdzie X jest połową liczby Zombi pod twoim władaniem, zaokrąglając w "
+"dół."
 
 #: ../../MIC.rst:456
 msgid ""
@@ -1555,6 +1646,8 @@ msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's mana value."
 msgstr ""
+"Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
+"żyć, ile wynosił skrót many owego permanentu."
 
 #: ../../MIC.rst:460
 msgid ""
@@ -1567,7 +1660,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../MIC.rst:464
 msgid ""
@@ -1578,7 +1671,7 @@ msgstr ""
 
 #: ../../MIC.rst:463
 msgid "Destroy target nonartifact creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieartefaktowego stwora."
 
 #: ../../MIC.rst:468
 msgid ""
@@ -1603,17 +1696,19 @@ msgstr ""
 
 #: ../../MIC.rst:471
 msgid "+1: Create a 2/2 black Zombie creature token. Mill two cards."
-msgstr ""
+msgstr "+1: Stwórz dwa żetony czarnego stwora Zombi 2/2. Zmiel dwie karty."
 
 #: ../../MIC.rst:473
 msgid ""
 "−3: Return target creature card from your graveyard to the battlefield. That "
 "creature is a black Zombie in addition to its other colors and types."
 msgstr ""
+"–3: Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Ów "
+"stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych kolorów i typów."
 
 #: ../../MIC.rst:475
 msgid "−7: Destroy all non-Zombie creatures."
-msgstr ""
+msgstr "–7: Zniszcz wszystkie stwory nie będące Zombi."
 
 #: ../../MIC.rst:482
 msgid ""
@@ -1624,13 +1719,16 @@ msgstr ""
 
 #: ../../MIC.rst:479
 msgid "Zombies you control get +1/+0."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+0."
 
 #: ../../MIC.rst:481
 msgid ""
 "At the beginning of your end step, if a creature died this turn, you may pay "
 "|mana_1|\\ |mana_b|. If you do, create a 2/2 black Zombie creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, możesz "
+"zapłacić |mana_1|\\ |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego "
+"stwora Zombi 2/2."
 
 #: ../../MIC.rst:488
 msgid ""
@@ -1641,13 +1739,15 @@ msgstr ""
 
 #: ../../MIC.rst:485
 msgid "Zombies you control get +1/+1."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../MIC.rst:487
 msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
+"Zombi 2/2."
 
 #: ../../MIC.rst:494
 msgid ""
@@ -1659,6 +1759,7 @@ msgstr ""
 #: ../../MIC.rst:493
 msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wszystkie Zombi zyskują złowrogość do końca tury."
 
 #: ../../MIC.rst:498
 msgid ""
@@ -1672,6 +1773,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, Midnight Reaper deals 1 "
 "damage to you and you draw a card."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór, niniejszy stwór zadaje tobie 1 obrażenie, "
+"dobierz kartę."
 
 #: ../../MIC.rst:502
 msgid ""
@@ -1685,6 +1788,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Ilekroć nie-żetonowy stwór pod twoim władaniem umrze, stwórz żeton czarnego "
+"stwora Zombi 2/2."
 
 #: ../../MIC.rst:510
 msgid ""
@@ -1716,7 +1821,7 @@ msgstr ""
 msgid ""
 "|mana_3|, Sacrifice a creature or planeswalker: You gain 1 life and draw a "
 "card."
-msgstr ""
+msgstr "|mana_3|, poświęć stwora lub wędrowca: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../MIC.rst:518
 msgid ""
@@ -1743,6 +1848,8 @@ msgid ""
 "Whenever Undead Augur or another Zombie you control dies, you draw a card "
 "and you lose 1 life."
 msgstr ""
+"Ilekroć umrze ten stwór lub inny Zombi pod twoim władaniem, dobierz kartę i "
+"strać 1 życie."
 
 #: ../../MIC.rst:526
 msgid ""
@@ -1756,6 +1863,8 @@ msgid ""
 "Return all Zombie creature cards from your graveyard to the battlefield "
 "tapped, then destroy all Humans."
 msgstr ""
+"Przywróć wszystkie karty Zombi z twojego cmentarza przekręcone na pole "
+"bitwy, po czym zniszcz wszystkie stwory typu Człowiek."
 
 #: ../../MIC.rst:530
 msgid ""
@@ -1766,7 +1875,7 @@ msgstr ""
 
 #: ../../MIC.rst:529
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../MIC.rst:534
 msgid ""
@@ -1780,6 +1889,8 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
+"3/3."
 
 #: ../../MIC.rst:538
 msgid ""
@@ -1806,6 +1917,8 @@ msgid ""
 "Distribute three +1/+1 counters among one, two, or three target creatures, "
 "then double the number of +1/+1 counters on each of those creatures."
 msgstr ""
+"Rozmieść trzy znaczniki +1/+1 pomiędzy jednym, dwoma lub trzema wskazanymi "
+"stworami, po czym podwój liczbę znaczników +1/+1 na każdym z owych stworów."
 
 #: ../../MIC.rst:548
 msgid ""
@@ -1819,12 +1932,16 @@ msgid ""
 "Creatures with power less than Champion of Lambholt's power can't block "
 "creatures you control."
 msgstr ""
+"Stwory o sile mniejszej niż siła niniejszego stwora nie mogą blokować "
+"stworów pod twoim władaniem."
 
 #: ../../MIC.rst:547
 msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "+1/+1 counter on Champion of Lambholt."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../MIC.rst:552
 msgid ""
@@ -1838,6 +1955,8 @@ msgid ""
 "Whenever a creature you control dies, put X +1/+1 counters on target "
 "creature you control, where X is the power of the creature that died."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, umieść X znaczników +1/+1 na "
+"wskazanym stworze pod twoim władaniem, gdzie X to siła owego zmarłego stwora."
 
 #: ../../MIC.rst:556
 msgid ""
@@ -1851,6 +1970,8 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../MIC.rst:560
 msgid ""
@@ -1865,6 +1986,9 @@ msgid ""
 "tapped, then shuffle. Create a 0/1 colorless Eldrazi Spawn creature token. "
 "It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj. Stwórz żeton bezkolorowego stwora Pomiot "
+"Eldrazi 0/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../MIC.rst:566
 msgid ""
@@ -1879,10 +2003,13 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
+"Ewoluuje (Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, jeśli ów "
+"stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść znacznik +1/+1 "
+"na niniejszym stworze.)"
 
 #: ../../MIC.rst:565
 msgid "|tap|: Add |mana_g| for each +1/+1 counter on Gyre Sage."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| za każdy znacznik +1/+1 na tym stworze."
 
 #: ../../MIC.rst:570
 msgid ""
@@ -1896,6 +2023,8 @@ msgid ""
 "Draw a card for each creature you control with a +1/+1 counter on it. Those "
 "creatures gain indestructible until end of turn."
 msgstr ""
+"Dobierz kartę za każdego stwora pod twoim władaniem mającego znacznik +1/+1. "
+"Owe stwory zyskują niezniszczalność do końca tury."
 
 #: ../../MIC.rst:574
 msgid ""
@@ -1909,6 +2038,8 @@ msgid ""
 "Whenever Kessig Cagebreakers attacks, create a 2/2 green Wolf creature token "
 "that's tapped and attacking for each creature card in your graveyard."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz tyle przekręconych i atakujących żetonów "
+"zielonego stwora Wilk 2/2, ile masz kart stworów w twoim cmentarzu."
 
 #: ../../MIC.rst:580
 msgid ""
@@ -1919,13 +2050,15 @@ msgstr ""
 
 #: ../../MIC.rst:577
 msgid "Draw a card for each creature you control."
-msgstr ""
+msgstr "Dobierz kartę za każdego stwora pod twoim władaniem."
 
 #: ../../MIC.rst:579
 msgid ""
 "Ferocious — You gain 4 life for each creature you control with power 4 or "
 "greater."
 msgstr ""
+"Zaciekłość — Zyskaj 4 życia za każdego stwora o sile 4 lub większej pod "
+"twoim władaniem."
 
 #: ../../MIC.rst:584
 msgid ""
@@ -1939,6 +2072,8 @@ msgid ""
 "|tap|: Add three mana of any one color. Spend this mana only to cast "
 "creature spells."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Użyj tę manę tylko do rzucenia czaru "
+"stwora."
 
 #: ../../MIC.rst:590
 msgid ""
@@ -1949,13 +2084,15 @@ msgstr ""
 
 #: ../../MIC.rst:587
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../MIC.rst:589
 msgid ""
 "When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 "
 "counters among any number of target creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, rozmieść cztery znaczniki +1/+1 "
+"pomiędzy dowolną liczbę wskazanych stworów pod twoim władaniem."
 
 #: ../../MIC.rst:594
 msgid ""
@@ -1969,6 +2106,8 @@ msgid ""
 "Whenever Wild Beastmaster attacks, each other creature you control gets +X/"
 "+X until end of turn, where X is Wild Beastmaster's power."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, każdy inny stwór pod twoim władaniem dostaje do "
+"końca tury +X/+X, gdzie X to siła niniejszego stwora."
 
 #: ../../MIC.rst:600
 msgid ""
@@ -1982,6 +2121,8 @@ msgid ""
 "When Yavimaya Elder dies, you may search your library for up to two basic "
 "land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór umrze, możesz wyszukać w twojej bibliotece co najwyżej dwie "
+"karty lądów, ujawnić je, umieścić je w twojej ręce, po czym przetasować."
 
 #: ../../MIC.rst:599
 msgid "|mana_2|, Sacrifice Yavimaya Elder: Draw a card."
@@ -1997,6 +2138,8 @@ msgstr ""
 #: ../../MIC.rst:607
 msgid "Whenever another Zombie you control dies, target opponent loses 1 life."
 msgstr ""
+"Ilekroć umrze inne Zombi pod twoim władaniem, wskazany przeciwnik traci 1 "
+"życie."
 
 #: ../../MIC.rst:614
 msgid ""
@@ -2010,6 +2153,8 @@ msgid ""
 "Whenever one or more +1/+1 counters are put on another creature you control, "
 "you may put a +1/+1 counter on Enduring Scalelord."
 msgstr ""
+"Ilekroć jeden lub więcej znaczników +1/+1 zostanie umieszczonych na innym "
+"stworze pod twoim władaniem, możesz umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../MIC.rst:620
 msgid ""
@@ -2020,13 +2165,15 @@ msgstr ""
 
 #: ../../MIC.rst:617
 msgid "When Gisa and Geralf enters the battlefield, mill four cards."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../MIC.rst:619
 msgid ""
 "During each of your turns, you may cast a Zombie creature spell from your "
 "graveyard."
 msgstr ""
+"W każdej z twoich tur możesz rzucić jeden czar stwora typu Zombi z twojego "
+"cmentarza."
 
 #: ../../MIC.rst:626
 msgid ""
@@ -2041,10 +2188,13 @@ msgid ""
 "on an Army you control. If you don't control one, create a 0/0 black Zombie "
 "Army creature token first.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../MIC.rst:625
 msgid "Zombie tokens you control have hexproof and menace."
-msgstr ""
+msgstr "Żetony Zombi pod twoim władaniem mają antyklątwę i złowrogość."
 
 #: ../../MIC.rst:634
 msgid ""
@@ -2055,13 +2205,15 @@ msgstr ""
 
 #: ../../MIC.rst:631
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../MIC.rst:633
 msgid ""
 "When Heron's Grace Champion enters the battlefield, other Humans you control "
 "get +1/+1 and gain lifelink until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
+"twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../MIC.rst:638
 msgid ""
@@ -2086,7 +2238,7 @@ msgstr ""
 #: ../../MIC.rst:643
 msgid ""
 "Whenever you sacrifice a creature, target opponent sacrifices a creature."
-msgstr ""
+msgstr "Ilekroć poświęcisz stwora, wskazany przeciwnik poświęca stwora."
 
 #: ../../MIC.rst:652
 msgid ""
@@ -2097,13 +2249,15 @@ msgstr ""
 
 #: ../../MIC.rst:649
 msgid "You and Humans you control have hexproof."
-msgstr ""
+msgstr "Ty oraz stwory typu Człowiek pod twoim władaniem macie antyklątwę."
 
 #: ../../MIC.rst:651
 msgid ""
 "|mana_2|, Exile a card from your graveyard: Create a 1/1 white Human Soldier "
 "creature token."
 msgstr ""
+"|mana_2|, wygnaj kartę z twojego cmentarza: Stwórz żeton białego stwora "
+"Człowiek Piechur 1/1."
 
 #: ../../MIC.rst:656
 msgid ""
@@ -2118,6 +2272,9 @@ msgid ""
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/"
+"2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego "
+"stwora Nosorożec 4/4 z tratowaniem."
 
 #: ../../MIC.rst:660
 msgid ""
@@ -2128,7 +2285,7 @@ msgstr ""
 
 #: ../../MIC.rst:659 ../../MIC.rst:669 ../../MIC.rst:735
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../MIC.rst:666
 msgid ""
@@ -2139,7 +2296,7 @@ msgstr ""
 
 #: ../../MIC.rst:663
 msgid "Charcoal Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:672
 msgid ""
@@ -2161,13 +2318,15 @@ msgstr ""
 
 #: ../../MIC.rst:675
 msgid "At the beginning of your upkeep, scry 1."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, wróż 1."
 
 #: ../../MIC.rst:677
 msgid ""
 "Whenever you cast a creature spell, you may pay |mana_g|. If you do, draw a "
 "card."
 msgstr ""
+"Ilekroć rzucisz czar stwora, możesz zapłacić |mana_g|. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../MIC.rst:684
 msgid ""
@@ -2178,11 +2337,11 @@ msgstr ""
 
 #: ../../MIC.rst:681
 msgid "Sky Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:683
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../MIC.rst:688
 msgid ""
@@ -2193,7 +2352,7 @@ msgstr ""
 
 #: ../../MIC.rst:687
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../MIC.rst:694
 msgid ""
@@ -2204,11 +2363,11 @@ msgstr ""
 
 #: ../../MIC.rst:691
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../MIC.rst:693
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../MIC.rst:700
 msgid ""
@@ -2220,7 +2379,7 @@ msgstr ""
 #: ../../MIC.rst:697 ../../MIC.rst:703 ../../MIC.rst:709 ../../MIC.rst:763
 #: ../../MIC.rst:779 ../../MIC.rst:791 ../../MIC.rst:815 ../../MIC.rst:843
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../MIC.rst:699
 msgid ""
@@ -2252,6 +2411,9 @@ msgid ""
 "for up to two basic land cards, put them onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../MIC.rst:720
 msgid ""
@@ -2262,13 +2424,15 @@ msgstr ""
 
 #: ../../MIC.rst:715
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:717
 msgid ""
 "When Bojuka Bog enters the battlefield, exile all cards from target player's "
 "graveyard."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, wygnaj wszystkie karty z cmentarza "
+"wskazanego gracza."
 
 #: ../../MIC.rst:726
 msgid ""
@@ -2279,13 +2443,15 @@ msgstr ""
 
 #: ../../MIC.rst:723
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../MIC.rst:725
 msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../MIC.rst:732
 msgid ""
@@ -2300,10 +2466,12 @@ msgid ""
 "card from your hand. If you don't, Choked Estuary enters the battlefield "
 "tapped."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ujawnić z twojej ręki kartę Wyspy "
+"lub Bagna. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:731 ../../MIC.rst:825
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../MIC.rst:736
 msgid ""
@@ -2321,7 +2489,7 @@ msgstr ""
 
 #: ../../MIC.rst:739
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../MIC.rst:748
 msgid ""
@@ -2332,17 +2500,19 @@ msgstr ""
 
 #: ../../MIC.rst:743
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../MIC.rst:745
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../MIC.rst:747
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../MIC.rst:752
 msgid ""
@@ -2356,6 +2526,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../MIC.rst:758
 msgid ""
@@ -2370,10 +2542,13 @@ msgid ""
 "Plains card from your hand. If you don't, Fortified Village enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ujawnić z twojej ręki kartę Lasu "
+"lub Równiny. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../MIC.rst:757 ../../MIC.rst:833
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../MIC.rst:766
 msgid ""
@@ -2391,6 +2566,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
+"kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../MIC.rst:774
 msgid ""
@@ -2401,13 +2578,15 @@ msgstr ""
 
 #: ../../MIC.rst:769
 msgid "Mortuary Mire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:771
 msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
+"twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../MIC.rst:782
 msgid ""
@@ -2418,7 +2597,7 @@ msgstr ""
 
 #: ../../MIC.rst:777
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:781
 msgid ""
@@ -2426,6 +2605,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../MIC.rst:788
 msgid ""
@@ -2455,7 +2637,7 @@ msgstr ""
 
 #: ../../MIC.rst:793
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../MIC.rst:802
 msgid ""
@@ -2466,17 +2648,19 @@ msgstr ""
 
 #: ../../MIC.rst:797
 msgid "Selesnya Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:799
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../MIC.rst:801
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../MIC.rst:806
 msgid ""
@@ -2487,7 +2671,7 @@ msgstr ""
 
 #: ../../MIC.rst:805
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../MIC.rst:812
 msgid ""
@@ -2498,13 +2682,15 @@ msgstr ""
 
 #: ../../MIC.rst:809
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../MIC.rst:811
 msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../MIC.rst:818
 msgid ""
@@ -2516,6 +2702,8 @@ msgstr ""
 #: ../../MIC.rst:817
 msgid "|tap|: Add |mana_u| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
+"|tap|: Weź |mana_u| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../MIC.rst:826
 msgid ""
@@ -2526,13 +2714,15 @@ msgstr ""
 
 #: ../../MIC.rst:821
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:823
 msgid ""
 "When Temple of Deceit enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../MIC.rst:834
 msgid ""
@@ -2543,13 +2733,15 @@ msgstr ""
 
 #: ../../MIC.rst:829
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:831
 msgid ""
 "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../MIC.rst:838
 msgid ""
@@ -2563,6 +2755,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../MIC.rst:845
 msgid ""
@@ -2573,10 +2767,12 @@ msgstr ""
 
 #: ../../MIC.rst:841
 msgid "As Unclaimed Territory enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
 
 #: ../../MIC.rst:845
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type."
 msgstr ""
+"|tap|: Weź jedną manę w dowolnym kolorze. Wydaj tę manę tylko na rzucenie "
+"czaru stwora owego wybranego typu."
