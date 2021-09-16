@@ -63,10 +63,6 @@ msgid ""
 "the other."
 msgstr ""
 
-msgctxt "AbilityHanger/AbilityType/Fight_Title"
-msgid "Fight"
-msgstr ""
-
 msgctxt "AbilityHanger/AbilityType/WinsTheFight_Body"
 msgid ""
 "If two creatures fight, each deals noncombat damage equal to its power to "
@@ -84,17 +80,9 @@ msgid ""
 " color."
 msgstr ""
 
-msgctxt "AbilityHanger/AbilityWord/Adamant_Title"
-msgid "Adamant"
-msgstr ""
-
 msgctxt "AbilityHanger/AbilityWord/Addendum"
 msgid ""
 "This spell has an additional effect if you cast it during your main phase."
-msgstr ""
-
-msgctxt "AbilityHanger/AbilityWord/Addendum_Title"
-msgid "Addendum"
 msgstr ""
 
 msgctxt "AbilityHanger/AbilityWord/Ascend"
@@ -111,10 +99,6 @@ msgctxt "AbilityHanger/AbilityWord/Constellation"
 msgid ""
 "This ability triggers when an enchantment enters the battlefield under your "
 "control."
-msgstr ""
-
-msgctxt "AbilityHanger/AbilityWord/Constellation_Title"
-msgid "Constellation"
 msgstr ""
 
 msgctxt "AbilityHanger/AbilityWord/Enrage"
@@ -134,10 +118,6 @@ msgid ""
 "This ability triggers when a land enters the battlefield under your control."
 msgstr ""
 
-msgctxt "AbilityHanger/AbilityWord/Landfall_Title"
-msgid "Landfall"
-msgstr ""
-
 msgctxt "AbilityHanger/AbilityWord/LifeGainedThisTurn"
 msgid "You have gained {lifeGained} life this turn."
 msgstr ""
@@ -149,10 +129,6 @@ msgstr ""
 msgctxt "AbilityHanger/AbilityWord/Magecraft"
 msgid ""
 "This ability triggers when you cast or copy an instant or sorcery spell."
-msgstr ""
-
-msgctxt "AbilityHanger/AbilityWord/Magecraft_Title"
-msgid "Magecraft"
 msgstr ""
 
 msgctxt "AbilityHanger/AbilityWord/OtherInstantSourcerySpellsCast"
@@ -187,10 +163,6 @@ msgstr ""
 
 msgctxt "AbilityHanger/AbilityWord/Undergrowth"
 msgid "This ability checks the number of creature cards in your graveyard."
-msgstr ""
-
-msgctxt "AbilityHanger/AbilityWord/Undergrowth_Title"
-msgid "Undergrowth"
 msgstr ""
 
 msgctxt "AbilityHanger/AbilityWord/Unknown_Ability"
@@ -326,10 +298,6 @@ msgid ""
 " sorcery to put your chosen companion into your hand."
 msgstr ""
 
-msgctxt "AbilityHanger/Designation/Companion_Title"
-msgid "Companion"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Adapt"
 msgid ""
 "If this creature has no +1/+1 counters on it, put that many +1/+1 counters "
@@ -407,28 +375,16 @@ msgid ""
 "with flying."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Afterlife1_Title"
-msgid "Afterlife 1"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Afterlife2"
 msgid ""
 "When this creature dies, create two 1/1 white and black Spirit creature "
 "tokens with flying."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Afterlife2_Title"
-msgid "Afterlife 2"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Afterlife3"
 msgid ""
 "When this creature dies, create three 1/1 white and black Spirit creature "
 "tokens with flying."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Afterlife3_Title"
-msgid "Afterlife 3"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Aftermath"
@@ -501,10 +457,6 @@ msgid ""
 " each turn."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Boast_Title"
-msgid "Boast"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Cascade"
 msgid ""
 "When you cast this spell, exile cards from the top of your library until you"
@@ -515,10 +467,6 @@ msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Changeling"
 msgid "This creature is every creature type."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Changeling_Title"
-msgid "Changeling"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/ClassLevel_1"
@@ -545,18 +493,10 @@ msgid ""
 "Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Crew1_Title"
-msgid "Crew 1"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Crew2"
 msgid ""
 "Tap any number of creatures you control with total power 2 or more: This "
 "Vehicle becomes an artifact creature until end of turn."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Crew2_Title"
-msgid "Crew 2"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Crew3"
@@ -565,18 +505,10 @@ msgid ""
 "Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Crew3_Title"
-msgid "Crew 3"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Crew4"
 msgid ""
 "Tap any number of creatures you control with total power 4 or more: This "
 "Vehicle becomes an artifact creature until end of turn."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Crew4_Title"
-msgid "Crew 4"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Crew5"
@@ -585,18 +517,10 @@ msgid ""
 "Vehicle becomes an artifact creature until end of turn."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Crew5_Title"
-msgid "Crew 5"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Crew6"
 msgid ""
 "Tap any number of creatures you control with total power 6 or more: This "
 "Vehicle becomes an artifact creature until end of turn."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Crew6_Title"
-msgid "Crew 6"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Cycling"
@@ -607,6 +531,12 @@ msgctxt "AbilityHanger/Keyword/Deathtouch"
 msgid ""
 "Any amount of damage a source with deathtouch deals to a creature is enough "
 "to destroy it."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Decayed_Body"
+msgid ""
+"A creature with decayed can't block. When it attacks, sacrifice it at end of"
+" combat."
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Defender"
@@ -627,10 +557,6 @@ msgctxt "AbilityHanger/Keyword/DevotionToBlack"
 msgid ""
 "Each {oB} in the mana costs of permanents you control counts towards your "
 "devotion to black."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/DevotionToBlack_Title"
-msgid "Devotion to Black"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/DevotionToBlackAndGreen"
@@ -659,10 +585,6 @@ msgid ""
 "devotion to blue."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/DevotionToBlue_Title"
-msgid "Devotion to Blue"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/DevotionToBlueAndBlack"
 msgid ""
 "Each {oU} or {oB} in the mana costs of permanents you control counts towards"
@@ -687,10 +609,6 @@ msgctxt "AbilityHanger/Keyword/DevotionToGreen"
 msgid ""
 "Each {oG} in the mana costs of permanents you control counts towards your "
 "devotion to green."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/DevotionToGreen_Title"
-msgid "Devotion to Green"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/DevotionToGreenAndBlue"
@@ -719,18 +637,10 @@ msgid ""
 "devotion to red."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/DevotionToRed_Title"
-msgid "Devotion to Red"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/DevotionToRedAndGreen"
 msgid ""
 "Each {oR} or {oG} in the mana costs of permanents you control counts towards"
 " your devotion to red and green. (A {o(R/G)} only counts once)"
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/DevotionToRedAndGreen_Title"
-msgid "Devotion to Red And Green"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/DevotionToRedAndWhite"
@@ -749,18 +659,10 @@ msgid ""
 "devotion to white."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/DevotionToWhite_Title"
-msgid "Devotion to White"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlack"
 msgid ""
 "Each {oW} or {oB} in the mana costs of permanents you control counts towards"
 " your devotion to white and black. (A {o(W/B)} only counts once)"
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlack_Title"
-msgid "Devotion to White And Black"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlue"
@@ -771,6 +673,11 @@ msgstr ""
 
 msgctxt "AbilityHanger/Keyword/DevotionToWhiteAndBlue_Title"
 msgid "Devotion to White And Blue"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Disturb"
+msgid ""
+"You may cast this card from your graveyard transformed for its disturb cost."
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/DoubleStrike"
@@ -803,10 +710,6 @@ msgctxt "AbilityHanger/Keyword/Escape"
 msgid "You may cast this card from your graveyard for its escape cost."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Escape_Title"
-msgid "Escape"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Eternalize"
 msgid ""
 "You may pay the Eternalize cost to exile this card from your graveyard and "
@@ -834,10 +737,6 @@ msgid ""
 "turn for each instance of exalted among permanents you control."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Exalted_Title"
-msgid "Exalted"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Exert"
 msgid "An exerted creature won't untap during your next untap step."
 msgstr ""
@@ -851,10 +750,6 @@ msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Explore_Title"
 msgid "Explore"
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Fabricate Title"
-msgid "Fabricate"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Fabricate1"
@@ -879,10 +774,6 @@ msgctxt "AbilityHanger/Keyword/Fear_Body"
 msgid ""
 "This creature can't be blocked except by artifact creatures and/or black "
 "creatures."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Fear_Title"
-msgid "Fear"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/FirstStrike"
@@ -918,10 +809,6 @@ msgid ""
 "During your turn, you may pay <sprite=\"SpriteSheet_ManaIcons\" name=\"x2\">"
 " and exile this card from your hand face down. Cast it on a later turn for "
 "its foretell cost."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Foretell_Title"
-msgid "Foretell"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Haste"
@@ -986,6 +873,28 @@ msgctxt "AbilityHanger/Keyword/Hexproof_from_White_Title"
 msgid "Hexproof from White"
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/HexproofFromAColor_Body"
+msgid ""
+"A player or permanent with hexproof from a color can't be target of spells "
+"or abilities your opponents control of that color."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/HexproofFromAColor_Title"
+msgid "Hexproof from a Color"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/HexproofFromGreen_Body"
+msgid ""
+"This permanent can't be the target of green spells or abilities your "
+"opponents control."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/HexproofFromRed_Body"
+msgid ""
+"This permanent can't be the target of red spells or abilities your opponents"
+" control."
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Improvise"
 msgid ""
 "Your artifacts can help you cast this spell. Each artifact you tap pays for "
@@ -1012,10 +921,6 @@ msgctxt "AbilityHanger/Keyword/Islandwalk_Body"
 msgid ""
 "This creature can't be blocked as long as defending player controls a "
 "Island."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Islandwalk_Title"
-msgid "Islandwalk"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Jump-start"
@@ -1087,18 +992,10 @@ msgid ""
 "may put its +1/+1 counters on target artifact creature."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Modular1_Title"
-msgid "Modular 1"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Modular2"
 msgid ""
 "This enters the battlefield with two +1/+1 counters on it. When it dies, you"
 " may put its +1/+1 counters on target artifact creature."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Modular2_Title"
-msgid "Modular 2"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Modular4"
@@ -1107,19 +1004,11 @@ msgid ""
 "you may put its +1/+1 counters on target artifact creature."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Modular4_Title"
-msgid "Modular 4"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Mutate_Body"
 msgid ""
 "If you cast this spell for its mutate cost, put it under or over target non-"
 "Human creature you own. They mutate into the creature on top plus all "
 "abilities from under it."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Mutate_Title"
-msgid "Mutate"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Ninjutsu_Body"
@@ -1163,6 +1052,16 @@ msgstr ""
 
 msgctxt "AbilityHanger/Keyword/PhasedOut_Title"
 msgid "Phased Out"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Phasing_Body"
+msgid ""
+"Permanents that phase out, and anything attached to them, are treated as if "
+"they don't exist until the start of their controller's next turn."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Phasing_Title"
+msgid "Phase Out"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Proliferate"
@@ -1241,26 +1140,14 @@ msgctxt "AbilityHanger/Keyword/ProtectionFromDemons"
 msgid "This permanent can't be blocked, targeted, or dealt damage by Demons."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/ProtectionFromDemons_Title"
-msgid "Protection from Demons"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/ProtectionFromDogs"
 msgid ""
 "A permanent with protection from Dogs can't be blocked, targeted, or dealt "
 "damage by Dogs."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/ProtectionFromDogs_Title"
-msgid "Protection from Dogs"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/ProtectionFromDragons"
 msgid "This permanent can't be blocked, targeted, or dealt damage by Dragons."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/ProtectionFromDragons_Title"
-msgid "Protection from Dragons"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/ProtectionFromEven"
@@ -1345,6 +1232,11 @@ msgctxt "AbilityHanger/Keyword/ProtectionFromRed_Title"
 msgid "Protection from Red"
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/ProtectionFromWerewolf_Body"
+msgid ""
+"This permanent can't be blocked, targeted, or dealt damage by Werewolves."
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/ProtectionFromWhite"
 msgid ""
 "This permanent can't be blocked, targeted, dealt damage, enchanted, or "
@@ -1357,10 +1249,6 @@ msgstr ""
 
 msgctxt "AbilityHanger/Keyword/ProtectionFromZombies"
 msgid "This creature can't be blocked, targeted, or dealt damage by Zombies."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/ProtectionFromZombies_Title"
-msgid "Protection from Zombies"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Prowess"
@@ -1378,10 +1266,6 @@ msgid ""
 "If you cast this spell from your hand, exile it as it resolves. At the "
 "beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Rebound_Title"
-msgid "Rebound"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Reinforce2_Body"
@@ -1493,10 +1377,6 @@ msgid ""
 "abilities."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Shroud_Title"
-msgid "Shroud"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/Spectacle"
 msgid ""
 "You may cast this spell for its spectacle cost rather than its mana cost if "
@@ -1527,10 +1407,6 @@ msgctxt "AbilityHanger/Keyword/Surveil"
 msgid ""
 "Look at the top card(s) of your library, then put any number of them into "
 "your graveyard and the rest on top of your library in any order."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Surveil_Title"
-msgid "Surveil"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Surveil1"
@@ -1593,10 +1469,6 @@ msgid ""
 " battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
 
-msgctxt "AbilityHanger/Keyword/Undying_Title"
-msgid "Undying"
-msgstr ""
-
 msgctxt "AbilityHanger/Keyword/VentureIntoTheDungeon"
 msgid ""
 "Enter the first room of a dungeon. If already in a dungeon advance to the "
@@ -1619,10 +1491,6 @@ msgctxt "AbilityHanger/Keyword/Ward"
 msgid ""
 "Whenever a permanent with ward becomes the target of a spell or ability an "
 "opponent controls, counter it unless that player pays the ward cost."
-msgstr ""
-
-msgctxt "AbilityHanger/Keyword/Ward_Title"
-msgid "Ward"
 msgstr ""
 
 msgctxt "AbilityHanger/LayeredEffect/Body_CopyObject"
@@ -1970,10 +1838,6 @@ msgctxt "AbilityHanger/SpecialHangers/Party_Additional"
 msgid "Adding one of these types would increase party size:"
 msgstr ""
 
-msgctxt "AbilityHanger/SpecialHangers/Party_Title"
-msgid "Party"
-msgstr ""
-
 msgctxt "AbilityHanger/SpecialHangers/Party_Title_Count"
 msgid "Party <#FF9C01>({0})</color>"
 msgstr ""
@@ -2012,6 +1876,18 @@ msgctxt "AbilityHanger/SpecialHangers/SnowManaSource_Title"
 msgid "Mana from a Snow Source"
 msgstr ""
 
+msgctxt "AbilityHanger/SpecialHangers/SunsetRevelry_Creatures_Body"
+msgid "An opponent controls more creatures than you."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/SunsetRevelry_Hand_Body"
+msgid "An opponent has more cards in hand than you."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/SunsetRevelry_Life_Body"
+msgid "An opponent has more life than you."
+msgstr ""
+
 msgctxt "AbilityHanger/SpecialHangers/TokenAffinity_Body"
 msgid ""
 "This spell costs <sprite=\"SpriteSheet_ManaIcons\" name=\"x1\"> less to cast"
@@ -2028,10 +1904,6 @@ msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Body"
 msgid "Artifacts, legendaries, and Sagas are historic."
-msgstr ""
-
-msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Header"
-msgid "Historic"
 msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Private_Body"
