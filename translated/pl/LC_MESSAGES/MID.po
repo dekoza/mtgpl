@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 23:47+0200\n"
-"PO-Revision-Date: 2021-09-16 19:45+0000\n"
+"PO-Revision-Date: 2021-09-16 20:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -935,8 +935,8 @@ msgid ""
 "If Luminous Phantom would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek zostać umieszczona w cmentarzu, zamiast "
-"tego wygnaj ją."
+"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../MID.rst:224
 msgid ""
@@ -959,8 +959,8 @@ msgid ""
 "If Morning Apparition would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek zostać umieszczona w cmentarzu, zamiast "
-"tego wygnaj ją."
+"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../MID.rst:234
 msgid ""
@@ -1308,8 +1308,8 @@ msgid ""
 "If Ghostly Castigator would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek zostać umieszczona w cmentarzu, zamiast "
-"tego wygnaj ją."
+"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../MID.rst:344
 msgid ""
@@ -1483,15 +1483,11 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:391
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_4|\\ |mana_u| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_4|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../MID.rst:398
@@ -1502,14 +1498,10 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:397
-#, fuzzy
-#| msgid ""
-#| "If Hook-Haunt Drifter would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Waildrifter would be put into a graveyard from anywhere, exile it instead."
 msgstr ""
-"Jeśli ta karta miałaby trafić skądkolwiek do cmentarza, zamiast tego wygnaj "
+"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
 "ją."
 
 #: ../../MID.rst:402
@@ -1524,6 +1516,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If you controlled that "
 "permanent, draw a card."
 msgstr ""
+"Przywróć wskazany nielądowy permanent do ręki właściciela. Jeśli władałeś "
+"owym permanentem, dobierz kartę."
 
 #: ../../MID.rst:412
 msgid ""
@@ -1556,16 +1550,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../MID.rst:417
-#, fuzzy
-#| msgid ""
-#| "Tap three untapped creatures you control: Look at the top card of your "
-#| "library. You may put that card into your graveyard."
 msgid ""
 "Tap three untapped creatures you control: Look at the top card of your "
 "library. You may put it into your graveyard."
 msgstr ""
 "Przekręć trzy odkręcone stwory pod twoim władaniem: Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ową kartę w twoim cmentarzu."
+"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu."
 
 #: ../../MID.rst:424
 msgid ""
@@ -1577,13 +1567,15 @@ msgstr ""
 
 #: ../../MID.rst:421
 msgid "Spells can't be countered."
-msgstr ""
+msgstr "Czary nie mogą zostać skontrowane."
 
 #: ../../MID.rst:423
 msgid ""
 "Each instant and sorcery card in your graveyard has flashback. The flashback "
 "cost is equal to that card's mana cost."
 msgstr ""
+"Każda karta sztuczki i obrzędu w twoim cmentarzu ma wspomnienie. Koszt "
+"wspomnienia jest równy kosztowi many owej karty."
 
 #: ../../MID.rst:432
 msgid ""
@@ -1593,10 +1585,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:429
-#, fuzzy
-#| msgid ""
-#| "When \"Locked inside the Cemetary\" enters the battlefield, if there are "
-#| "five or more cards in your graveyard, tap enchanted creature."
 msgid ""
 "When Locked in the Cemetery enters the battlefield, if there are five or "
 "more cards in your graveyard, tap enchanted creature."
@@ -1621,17 +1609,15 @@ msgid ""
 "|mana_u|, Sacrifice Malevolent Hermit: Counter target noncreature spell "
 "unless its controller pays |mana_3|."
 msgstr ""
+"|mana_u|, poświęć tego stwora: Skontruj wskazany niestworowy czar, chyba że "
+"jego władca zapłaci |mana_3|."
 
 #: ../../MID.rst:437
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_2|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../MID.rst:446
@@ -1643,21 +1629,15 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:443
-#, fuzzy
-#| msgid "Creatures you control get +1/+1 until end of turn."
 msgid "Noncreature spells you control can't be countered."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "Niestworowe czary pod twoim władaniem nie mogą być skontrowane."
 
 #: ../../MID.rst:445
-#, fuzzy
-#| msgid ""
-#| "If Generous Soul would be put into a graveyard from anywhere, exile it "
-#| "instead."
 msgid ""
 "If Benevolent Geist would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
-"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
+"Jeśli ta karta miałby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
 "ją."
 
 #: ../../MID.rst:452
@@ -1668,21 +1648,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:449
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, look at the top four "
-#| "cards of your library. You may reveal a creature card with mana value 3 "
-#| "or less from among them and put it into your hand. Put the rest on the "
-#| "bottom of your library in any order."
 msgid ""
 "Look at the top X cards of your library, where X is the amount of mana spent "
 "to cast this spell. Put two of them into your hand and the rest on the "
 "bottom of your library in a random order."
 msgstr ""
-"Ilekroć dzień staje się nocą lub noc staje się dniem, spójrz na cztery "
-"wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
-"o skrócie many 3 lub mniejszym i umieścić ją w twojej ręce. Umieść pozostałe "
-"dowolnie na spodzie twojej biblioteki."
+"Spójrz na X wierzchnich kart twojej biblioteki, gdzie X jest liczbą many "
+"wydanej na rzucenie tego czaru. Umieść dwie z nich w twojej ręce, a "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../MID.rst:451
 msgid ""
@@ -1702,7 +1675,7 @@ msgstr ""
 
 #: ../../MID.rst:455
 msgid "|mana_2|, |tap|: Draw a card. Transform Mysterious Tome."
-msgstr ""
+msgstr "|mana_2|, |tap|: Dobierz kartę. Transformuj ten artefakt."
 
 #: ../../MID.rst:460
 msgid ""
@@ -1716,6 +1689,8 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|: Tap target nonland permanent. Transform Chilling Chronicle."
 msgstr ""
+"|mana_1|, |tap|: Przekręć wskazany nielądowy permanent. Transformuj ten "
+"artefakt."
 
 #: ../../MID.rst:468
 msgid ""
@@ -1725,18 +1700,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:467
-#, fuzzy
-#| msgid ""
-#| "When this creature enters the battlefield or transforms into Brutal "
-#| "Cathar, exile target creature an opponent controls until this creature "
-#| "leaves the battlefield."
 msgid ""
 "When Nebelgast Intruder enters the battlefield, up to one target creature an "
 "opponent controls gets -2/-0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub transformuję na tę stronę, wygnaj "
-"wskazanego stwora pod władaniem przeciwnika dopóki niniejszy stwór nie "
-"opuści pola bitwy."
+"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej jeden wskazany stwór pod "
+"władaniem przeciwnika dostaje do końca tury -2/-0."
 
 #: ../../MID.rst:472
 msgid ""
@@ -1763,21 +1732,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:475
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, look at the top four "
-#| "cards of your library. You may reveal a creature card with mana value 3 "
-#| "or less from among them and put it into your hand. Put the rest on the "
-#| "bottom of your library in any order."
 msgid ""
 "When Organ Hoarder enters the battlefield, look at the top three cards of "
 "your library, then put one of them into your hand and the rest into you "
 "graveyard."
 msgstr ""
-"Ilekroć dzień staje się nocą lub noc staje się dniem, spójrz na cztery "
-"wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
-"o skrócie many 3 lub mniejszym i umieścić ją w twojej ręce. Umieść pozostałe "
-"dowolnie na spodzie twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
+"twojej bibliotek, po czym umieść jedną z nich w twojej ręce, a pozostałe w "
+"twoim cmentarzu."
 
 #: ../../MID.rst:482
 msgid ""
@@ -1787,20 +1749,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:479
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, look at the top four "
-#| "cards of your library. You may reveal a creature card with mana value 3 "
-#| "or less from among them and put it into your hand. Put the rest on the "
-#| "bottom of your library in any order."
 msgid ""
 "Look at the top three cards of your library. Put any number of them into "
 "your graveyard and the rest back on top of your library in any order."
 msgstr ""
-"Ilekroć dzień staje się nocą lub noc staje się dniem, spójrz na cztery "
-"wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
-"o skrócie many 3 lub mniejszym i umieścić ją w twojej ręce. Umieść pozostałe "
-"dowolnie na spodzie twojej biblioteki."
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść dowolne z nich w "
+"twoim cmentarzu a pozostałe dowolnie na wierzchu twojej biblioteki."
 
 #: ../../MID.rst:481
 msgid ""
@@ -1819,27 +1773,18 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:485
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature or enchantment enters the battlefield under your "
-#| "control this turn, draw a card."
 msgid ""
 "When Overwhelmed Archivist enters the battlefield, draw a card, then discard "
 "a card."
 msgstr ""
-"Ilekroć w tej turze na pole walki pod twoim władaniem wejdzie stwór lub "
-"urok, dobierz kartę."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../MID.rst:487
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../MID.rst:496
@@ -1851,16 +1796,10 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:493
-#, fuzzy
-#| msgid "You gain 2 life, draw two cards, then discard two cards."
 msgid "Whenever Archive Haunt attacks, draw a card, then discard a card."
-msgstr "Zyskaj 2 życia, dobierz dwie karty, po czym odrzuć dwie karty."
+msgstr "Ilekroć ten stwór zaatakuje, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../MID.rst:495
-#, fuzzy
-#| msgid ""
-#| "If Generous Soul would be put into a graveyard from anywhere, exile it "
-#| "instead."
 msgid ""
 "If Archive Haunt would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -1891,19 +1830,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:509
-#, fuzzy
-#| msgid ""
-#| "When Ambitious Farmhand enters the battlefield, you may search your "
-#| "library for a basic Plains card, reveal it, put it into your hand, then "
-#| "shuffle."
 msgid ""
 "When Phantom Carriage enters the battlefield, you may search your library "
 "for a card with flashback or disturb, put it into your graveyard, then "
 "shuffle."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowej Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
-"przetasuj."
+"kartę mającą wspomnienie lub niepokojenie, umieść ją w twoim cmentarzu, po "
+"czym przetasuj."
 
 #: ../../MID.rst:516
 msgid ""
@@ -1997,28 +1931,19 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:535
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature or enchantment enters the battlefield under your "
-#| "control this turn, draw a card."
 msgid ""
 "When Shipwreck Sifters enters the battlefield, draw a card, then discard a "
 "card."
 msgstr ""
-"Ilekroć w tej turze na pole walki pod twoim władaniem wejdzie stwór lub "
-"urok, dobierz kartę."
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../MID.rst:537
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature you control dies, put a +1/+1 counter on Unruly "
-#| "Mob."
 msgid ""
 "Whenever you discard a Spirit card or a card with disturb, put a +1/+1 "
 "counter on Shipwreck Sifters."
 msgstr ""
-"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
-"niniejszym stworze."
+"Ilekroć odrzucisz kartę Ducha lub kartę z niepokojeniem, umieść znacznik +1/+"
+"1 na niniejszym stworze."
 
 #: ../../MID.rst:542
 msgid ""
@@ -2070,6 +1995,10 @@ msgid ""
 "that many +1/+1 counters on Spectral Adversary, then up to that many other "
 "target artifacts, creatures, and/or enchantments phase out."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_u| "
+"dowolną liczbę razy. Kiedy zapłacisz ten koszt co najmniej raz, umieść tyle "
+"samo znaczników +1/+1 na tym stworze, po czym co najwyżej tyle innych "
+"wskazanych artefaktów, stworów i/lub uroków wycofuje się."
 
 #: ../../MID.rst:562
 msgid ""
@@ -2109,19 +2038,15 @@ msgstr ""
 
 #: ../../MID.rst:571
 msgid "Suspicious Stowaway can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../MID.rst:573
-#, fuzzy
-#| msgid ""
-#| "Whenever a Wolf or Werewolf you control deals combat damage to a player, "
-#| "draw a card."
 msgid ""
 "Whenever Suspicious Stowaway deals combat damage to a player, draw a card, "
 "then discard a card."
 msgstr ""
-"Ilekroć Wilk lub Wilkołak pod twoim władaniem zada graczowi obrażenia "
-"bojowe, dobierz kartę."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę, po czym "
+"dobierz kartę."
 
 #: ../../MID.rst:584
 msgid ""
@@ -2133,18 +2058,12 @@ msgstr ""
 
 #: ../../MID.rst:579
 msgid "Seafaring Werewolf can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../MID.rst:581
-#, fuzzy
-#| msgid ""
-#| "Whenever a Wolf or Werewolf you control deals combat damage to a player, "
-#| "draw a card."
 msgid ""
 "Whenever Seafaring Werewolf deals combat damage to a player, draw a card."
-msgstr ""
-"Ilekroć Wilk lub Wilkołak pod twoim władaniem zada graczowi obrażenia "
-"bojowe, dobierz kartę."
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../MID.rst:592
 msgid ""
@@ -2181,6 +2100,8 @@ msgid ""
 "|tap|: Add |mana_u|. Spend this mana only to pay a disturb cost or cast an "
 "instant or sorcery spell."
 msgstr ""
+"|tap|: Weź |mana_u|. Wydaj tę maną tylko na opłacenie kosztu niepokojenia "
+"albo rzucenie czaru sztuczki lub obrzędu."
 
 #: ../../MID.rst:602
 msgid ""
@@ -2217,16 +2138,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:609
-#, fuzzy
-#| msgid ""
-#| "Whenever \"Doomblade Scoundrel\" becomes blocked, creatures blocking it "
-#| "get -1/-1 until end of turn."
 msgid ""
 "Whenever Baneblade Scoundrel becomes blocked, each creature blocking it gets "
 "-1/-1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zostanie zablokowany, stwory blokujące go dostają do końca "
-"tury -1/-1."
+"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów "
+"dostaje do końca tury -1/-1."
 
 #: ../../MID.rst:620
 msgid ""
@@ -2237,22 +2154,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:615
-#, fuzzy
-#| msgid ""
-#| "Whenever \"Doomclaw Marauder\" becomes blocked, creatures blocking it get "
-#| "-1/-1 until end of turn."
 msgid ""
 "Whenever Baneclaw Marauder becomes blocked, each creature blocking it gets "
 "-1/-1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zostanie zablokowany, stwory blokujące go dostają do końca "
-"tury -1/-1."
+"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów "
+"dostaje do końca tury -1/-1."
 
 #: ../../MID.rst:617
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature blocking \"Doomclaw Marauder\" dies, its controller "
-#| "loses 1 life."
 msgid ""
 "Whenever a creature blocking Baneclaw Marauder dies, its controller loses 1 "
 "life."
@@ -2266,16 +2175,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:623
-#, fuzzy
-#| msgid ""
-#| "When Arrogant Outlaw enters the battlefield, if an opponent lost life "
-#| "this turn, each opponent loses 2 life and you gain 2 life."
 msgid ""
 "When Bat Whisperer enters the battlefield, if an opponent lost life this "
 "turn, create a 1/1 black Bat creature token with flying."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik stracił życie w tej "
-"turze, każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
+"turze, stwórz żeton czarnego stwora Nietoperz 1/1 z lataniem."
 
 #: ../../MID.rst:630
 msgid ""
@@ -2315,10 +2220,8 @@ msgid "Target creature gets -5/-5 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury -5/-5."
 
 #: ../../MID.rst:641
-#, fuzzy
-#| msgid "Creatures you control get +1/+1 until end of turn."
 msgid "Creature tokens get -2/-2 until end of turn."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "Żetony stworów dostają do końca tury -2/-2."
 
 #: ../../MID.rst:648
 msgid ""
@@ -2328,16 +2231,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:647
-#, fuzzy
-#| msgid ""
-#| "When Arrogant Outlaw enters the battlefield, if an opponent lost life "
-#| "this turn, each opponent loses 2 life and you gain 2 life."
 msgid ""
 "When Bloodtithe Collector enters the battlefield, if an opponent lost life "
 "this turn, each opponent discards a card."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik stracił życie w tej "
-"turze, każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
+"turze, każdy przeciwnik odrzuca kartę."
 
 #: ../../MID.rst:652
 msgid ""
@@ -2364,29 +2263,19 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:655
-#, fuzzy
-#| msgid ""
-#| "When this creature enters the battlefield or transforms into Brutal "
-#| "Cathar, exile target creature an opponent controls until this creature "
-#| "leaves the battlefield."
 msgid ""
 "When Covert Cutpurse enters the battlefield, destroy target creature you "
 "don't control that was dealt damage this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub transformuję na tę stronę, wygnaj "
-"wskazanego stwora pod władaniem przeciwnika dopóki niniejszy stwór nie "
-"opuści pola bitwy."
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora poza twoim "
+"władaniem, który otrzymał obrażenia w tej turze."
 
 #: ../../MID.rst:657
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_4|\\ |mana_b| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_4|\\ |mana_b| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../MID.rst:664
@@ -2402,10 +2291,6 @@ msgid "Flying, deathtouch"
 msgstr "Latanie, dotyk śmierci"
 
 #: ../../MID.rst:663
-#, fuzzy
-#| msgid ""
-#| "If Generous Soul would be put into a graveyard from anywhere, exile it "
-#| "instead."
 msgid ""
 "If Covetous Geist would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -2421,12 +2306,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:667
-#, fuzzy
-#| msgid "Return target creature card from your graveyard to the battlefield."
 msgid ""
 "Return target creature card from your graveyard to your hand. Put a +1/+1 "
 "counter on up to one target Zombie you control."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
+msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Umieść "
+"znacznik +1/+1 na co najwyżej jednym wskazanym Zombi pod twoim władaniem."
 
 #: ../../MID.rst:669
 msgid ""
@@ -2450,16 +2335,12 @@ msgid ""
 msgstr "Transformując ten permanent na tę stronę, dołącz go do gracza."
 
 #: ../../MID.rst:677
-#, fuzzy
-#| msgid ""
-#| "At the beginning of enchanted player's upkeep, that player loses 1 life "
-#| "and you gain 1 life."
 msgid ""
 "At the beginning of enchanted player's upkeep, they lose 1 life and you gain "
 "1 life."
 msgstr ""
-"Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 1 życie, a "
-"ty zyskaj 1 życie."
+"Na początku kroku utrzymania zauroczonego gracza, traci on 1 życie, a ty "
+"zyskaj 1 życie."
 
 #: ../../MID.rst:686
 msgid ""
@@ -2507,32 +2388,20 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:697
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, look at the top four "
-#| "cards of your library. You may reveal a creature card with mana value 3 "
-#| "or less from among them and put it into your hand. Put the rest on the "
-#| "bottom of your library in any order."
 msgid ""
 "When Dreadhound enters the battlefield, mill three cards. (Put the top three "
 "cards of your library into your graveyard.)"
 msgstr ""
-"Ilekroć dzień staje się nocą lub noc staje się dniem, spójrz na cztery "
-"wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
-"o skrócie many 3 lub mniejszym i umieścić ją w twojej ręce. Umieść pozostałe "
-"dowolnie na spodzie twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty. (Umieść trzy "
+"wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../MID.rst:699
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature you control dies, put a +1/+1 counter on Unruly "
-#| "Mob."
 msgid ""
 "Whenever a creature dies or a creature card is put into a graveyard from a "
 "library, each opponent loses 1 life."
 msgstr ""
-"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
-"niniejszym stworze."
+"Ilekroć umrze stwór lub karta stwora trafi do cmentarza z biblioteki, każdy "
+"przeciwnik traci 1 życie."
 
 #: ../../MID.rst:704
 msgid ""
@@ -2581,6 +2450,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice another creature: Draw a card, then transform "
 "Ecstatic Awakener. Activate only once each turn."
 msgstr ""
+"|mana_2|\\ |mana_b|, poświęć innego stwora: Dobierz kartę, po czym "
+"transformuj tego stwora. Możesz aktywować tylko raz na turę."
 
 #: ../../MID.rst:716
 msgid ""
@@ -2700,19 +2571,15 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:751
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|, Pay 1 life, Discard a card: Draw a card, then mill a "
-#| "card. Put a ritual counter on \"Heirloom Oculus\". Then if it has 3 or "
-#| "more ritual counters on it, transform it. Activate only as a sorcery."
 msgid ""
 "|mana_1|, |tap|, Pay 1 life, Discard a card: Draw a card, mill a card, then "
 "put a ritual counter on Heirloom Mirror. Then if it has 3 or more ritual "
 "counters on it, remove them and transform it. Activate only as a sorcery."
 msgstr ""
-"|mana_1|, |tap|, zapłać 1 życie, odrzuć kartę: Dobierz kartę, zmiel kartę. "
-"Umieść znacznik rytuału na tym artefakcie. Następnie jeśli ma on co najmniej "
-"3 znaczniki rytuału, transformuj go. Aktywuj tylko jako obrzęd."
+"|mana_1|, |tap|, zapłać 1 życie, odrzuć kartę: Dobierz kartę, zmiel kartę, "
+"pocz czym umieść znacznik rytuału na tym artefakcie. Następnie jeśli ma on "
+"co najmniej 3 znaczniki rytuału, usuń je i transformuj go. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../MID.rst:758
 msgid ""
@@ -2723,10 +2590,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:757
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|: Exile target creature card from a graveyard. Put a "
-#| "+1/+1 counter on \"Ancestral Demon\"."
 msgid ""
 "|mana_2|\\ |mana_b|: Exile target creature card from a graveyard. Put a +1/"
 "+1 counter on Inherited Fiend."
@@ -2791,33 +2654,29 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:775
-#, fuzzy
-#| msgid "When Dawnhart Rejuvenator enters the battlefield, you gain 3 life."
 msgid ""
 "Whenever Jerren, Corrupted Bishop enters the battlefield or another nontoken "
 "Human you control dies, you lose 1 life and create a 1/1 white Human "
 "creature token."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub umrze inny nieżetonowy Człowiek "
+"pod twoim władaniem, strać 1 życie i stwórz żeton białego stwora Człowiek 1/"
+"1."
 
 #: ../../MID.rst:777
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_r|: Creatures you control get +2/+0 until end of turn."
 msgid "|mana_2|: Target Human you control gains lifelink until end of turn."
 msgstr ""
-"|mana_4|\\ |mana_r|: Stwory pod twoim władaniem dostają do końca tury +2/+0."
+"|mana_2|: Wskazany Człowiek pod twoim władaniem zyskuje do końca tury więź "
+"życia."
 
 #: ../../MID.rst:779
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you have exactly thirteen cards in "
-#| "your hand, you win the game."
 msgid ""
 "At the beginning of your end step, if you have exactly 13 life, you may pay |"
 "mana_4|\\ |mana_b|\\ |mana_b|. If you do, transform Jerren."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli masz w ręce dokładnie trzynaście "
-"kart, wygrywasz grę."
+"Na początku twojego kroku końcowego, jeśli masz dokładnie 13 żyć, możesz "
+"zapłacić |mana_4|\\ |mana_b|\\ |mana_b|. Jeśli tak zrobisz, transformuj tego "
+"stwora."
 
 #: ../../MID.rst:786
 msgid ""
@@ -2828,14 +2687,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:783
-#, fuzzy
-#| msgid "Flying, lifelink"
 msgid "Flying, trample, lifelink"
-msgstr "Latanie, więź życia"
+msgstr "Latanie, tratowanie, więź życia"
 
 #: ../../MID.rst:785
 msgid "Sacrifice another creature: Draw a card."
-msgstr ""
+msgstr "Poświęć innego stwora: Dobierz kartę."
 
 #: ../../MID.rst:794
 msgid ""
@@ -2849,16 +2706,16 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../MID.rst:791
-#, fuzzy
-#| msgid "Target creature gets +2/+2 until end of turn."
 msgid "|mana_b|, Sacrifice another creature: Target player mills three cards."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "|mana_b|, poświęć innego stwora: Wskazany gracz mieli trzy karty."
 
 #: ../../MID.rst:793
 msgid ""
 "Pay 1 life: Add |colorless|. Spend this mana only to cast a spell from your "
 "graveyard."
 msgstr ""
+"Zapłać 1 życie: Weź |colorless|. Możesz wydać tę manę tylko na rzucenie "
+"czaru z twojego cmentarza."
 
 #: ../../MID.rst:802
 msgid ""
@@ -2869,7 +2726,7 @@ msgstr ""
 
 #: ../../MID.rst:797
 msgid "Equipped creature has flying and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie i więź życia."
 
 #: ../../MID.rst:799
 #, fuzzy
@@ -6481,6 +6338,9 @@ msgid ""
 "graveyard. If you do, each opponent loses X life and you gain X life, where "
 "X is the number of creature cards exiled with Creeping Inn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz wygnać kartę stwora z twojego cmentarza. "
+"Jeśli tak zrobisz, każdy przeciwnik traci po X żyć, a ty zyskaj X żyć, gdzie "
+"X jest liczbą kart stworów wygnanych tym permanentem."
 
 #: ../../MID.rst:1897
 msgid "|mana_4|: Creeping Inn phases out."
