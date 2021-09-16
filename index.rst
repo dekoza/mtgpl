@@ -38,7 +38,7 @@ Nadchodzące
 -----------
 
 * Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)
-* Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` (Premiera: 2021-09-24)
+* Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent| (Premiera: 2021-09-24)
 
 Standard
 --------
@@ -136,6 +136,7 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
+* :mtgexp:`MIC` :doc:`Midnight Hung Commander<MIC> |MIC_percent|
 * :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
 * :mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|
 * :mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|

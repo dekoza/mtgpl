@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-07 11:32+0200\n"
+"POT-Creation-Date: 2021-09-16 22:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,6 +213,7 @@ msgstr ""
 msgid "CM1_percent"
 msgstr ""
 
+#: ../../percentages.inc:21
 #: ../../percentages.inc:21
 msgid "MID_percent"
 msgstr ""
@@ -600,7 +601,7 @@ msgid "Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)"
 msgstr ""
 
 #: ../../index.rst:41
-msgid "Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` (Premiera: 2021-09-24)"
+msgid "Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent| (Premiera: 2021-09-24)"
 msgstr ""
 
 #: ../../index.rst:44
@@ -800,217 +801,221 @@ msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|"
 msgstr ""
 
 #: ../../index.rst:139
-msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
+msgid ":mtgexp:`MIC` :doc:`Midnight Hung Commander<MIC> |MIC_percent|"
 msgstr ""
 
 #: ../../index.rst:140
-msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
+msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
 msgstr ""
 
 #: ../../index.rst:141
-msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
+msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
 msgstr ""
 
 #: ../../index.rst:142
-msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
+msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
 msgstr ""
 
 #: ../../index.rst:143
-msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
+msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
 msgstr ""
 
 #: ../../index.rst:144
-msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
+msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
 msgstr ""
 
 #: ../../index.rst:145
-msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
+msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
 msgstr ""
 
 #: ../../index.rst:146
-msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
+msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
 msgstr ""
 
 #: ../../index.rst:147
-msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
+msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
 msgstr ""
 
 #: ../../index.rst:148
-msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
+msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
 msgstr ""
 
 #: ../../index.rst:149
-msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
+msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
 msgstr ""
 
 #: ../../index.rst:150
-msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
+msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
 msgstr ""
 
 #: ../../index.rst:151
-msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
+msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
 msgstr ""
 
 #: ../../index.rst:152
-msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<C13>` |CM1_percent|"
+msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
 msgstr ""
 
 #: ../../index.rst:153
+msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<C13>` |CM1_percent|"
+msgstr ""
+
+#: ../../index.rst:154
 msgid ":mtgexp:`CMD` :doc:`Commander<CMD>` |CMD_percent|"
 msgstr ""
 
-#: ../../index.rst:156
+#: ../../index.rst:157
 msgid "Conspiracy"
 msgstr ""
 
-#: ../../index.rst:158
+#: ../../index.rst:159
 msgid ":mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |CN2_percent|"
 msgstr ""
 
-#: ../../index.rst:159
+#: ../../index.rst:160
 msgid ":mtgexp:`CNS` :doc:`Conspiracy<CNS>` |CNS_percent|"
 msgstr ""
 
-#: ../../index.rst:162
+#: ../../index.rst:163
 msgid "Produkty pokrewne"
 msgstr ""
 
-#: ../../index.rst:164
+#: ../../index.rst:165
 msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|"
 msgstr ""
 
-#: ../../index.rst:165
+#: ../../index.rst:166
 msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|"
 msgstr ""
 
-#: ../../index.rst:167
+#: ../../index.rst:168
 msgid "Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
 msgstr ""
 
-#: ../../index.rst:169
+#: ../../index.rst:170
 msgid ":mtgexp:`MTG` :doc:`Bohaterowie<THS_heroes>` |p100|"
 msgstr ""
 
-#: ../../index.rst:170
+#: ../../index.rst:171
 msgid ":mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p100|"
 msgstr ""
 
-#: ../../index.rst:171
+#: ../../index.rst:172
 msgid ":mtgexp:`BNG` :doc:`Walka z Hordą<BNG_horde>` |p100|"
 msgstr ""
 
-#: ../../index.rst:172
+#: ../../index.rst:173
 msgid ":mtgexp:`THS` :doc:`Staw czoła Hydrze<THS_hydra>` |p100|"
 msgstr ""
 
-#: ../../index.rst:175
+#: ../../index.rst:176
 msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:177
+#: ../../index.rst:178
 msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:178
+#: ../../index.rst:179
 msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:179
+#: ../../index.rst:180
 msgid ":doc:`Format Handicap<handicap>`"
 msgstr ""
 
-#: ../../index.rst:180
+#: ../../index.rst:181
 msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:184
+#: ../../index.rst:185
 msgid "Glosariusz"
 msgstr ""
 
-#: ../../index.rst:186
+#: ../../index.rst:187
 msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
 msgstr ""
 
-#: ../../index.rst:189
+#: ../../index.rst:190
 msgid "Ostatnie zmiany"
 msgstr ""
 
-#: ../../index.rst:190
+#: ../../index.rst:191
 msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
 msgstr ""
 
-#: ../../index.rst:193
+#: ../../index.rst:194
 msgid "Sponsorzy"
 msgstr ""
 
-#: ../../index.rst:195
+#: ../../index.rst:196
 msgid "`Centrum hobbystyczne \"Strefa\" <https://strefamarzen.pl/>`_ z Bielska-Białej."
 msgstr ""
 
-#: ../../index.rst:196
+#: ../../index.rst:197
 msgid "`Wspierający poprzez Patronite <https://patronite.pl/mtgpl>`_."
 msgstr ""
 
-#: ../../index.rst:199
+#: ../../index.rst:200
 msgid "Ekipa"
 msgstr ""
 
-#: ../../index.rst:201
+#: ../../index.rst:202
 msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
 msgstr ""
 
-#: ../../index.rst:203
+#: ../../index.rst:204
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:204
+#: ../../index.rst:205
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:205
+#: ../../index.rst:206
 msgid "Krzysztof Buniewicz - tłumacz"
 msgstr ""
 
-#: ../../index.rst:206
+#: ../../index.rst:207
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:207
+#: ../../index.rst:208
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 
-#: ../../index.rst:210
+#: ../../index.rst:211
 msgid "Kwestie prawne"
 msgstr ""
 
-#: ../../index.rst:212
+#: ../../index.rst:213
 msgid "Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie `Wizards of the Coast's Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_."
 msgstr ""
 
-#: ../../index.rst:214
+#: ../../index.rst:215
 msgid "Część materiałów w tym serwisie jest własnością Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:215
+#: ../../index.rst:216
 msgid "Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:216
+#: ../../index.rst:217
 msgid "Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed."
 msgstr ""
 
-#: ../../index.rst:217
+#: ../../index.rst:218
 msgid "Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_"
 msgstr ""
 
-#: ../../index.rst:220
+#: ../../index.rst:221
 msgid "Legal notice"
 msgstr ""
 
-#: ../../index.rst:222
+#: ../../index.rst:223
 msgid "MTGpoPolsku.pl is unofficial Fan Content permitted under the `Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:223
+#: ../../index.rst:224
 msgid "Translation work `(CC) copyleft <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>`_ Dominik Kozaczko. Some rights reversed."
 msgstr ""
