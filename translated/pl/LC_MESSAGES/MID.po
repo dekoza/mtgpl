@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 23:47+0200\n"
-"PO-Revision-Date: 2021-09-15 08:47+0000\n"
+"PO-Revision-Date: 2021-09-16 19:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -254,6 +254,9 @@ msgid ""
 "Whenever you attack, for each opponent, create a 1/1 white Human creature "
 "token that's tapped and attacking that player or a planeswalker they control."
 msgstr ""
+"Ilekroć zaatakujesz, za każdego przeciwnika, stwórz przekręcony żeton "
+"białego stwora Człowiek 1/1 atakujący owego przeciwnika lub wędrowca pod "
+"jego władaniem."
 
 #: ../../MID.rst:20
 msgid ""
@@ -412,6 +415,8 @@ msgid ""
 "Daybound (If a player casts no spells during their own turn, it becomes "
 "night next turn.)"
 msgstr ""
+"Solarny (Jeśli gracz nie rzucił czarów podczas swojej tury, w następnej "
+"turze nastaje noc.)"
 
 #: ../../MID.rst:64
 msgid ""
@@ -437,6 +442,8 @@ msgid ""
 "Nightbound (If a player casts at least two spells during their own turn, it "
 "becomes day next turn.)"
 msgstr ""
+"Lunarny (Jeśli gracz rzucił co najmniej dwa czary w swojej turze, w "
+"następnej turze nastaje dzień.)"
 
 #: ../../MID.rst:68
 msgid ""
@@ -1317,6 +1324,9 @@ msgid ""
 "other than that player each draw cards equal to the number of Curses "
 "attached to that player."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, każdy z dowolnej liczby "
+"wskazanych graczy innych niż ów gracz dobiera tyle kart, ile Klątw jest "
+"dołączonych do owego gracza."
 
 #: ../../MID.rst:348
 msgid ""
@@ -1384,24 +1394,16 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:363
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, look at the top four "
-#| "cards of your library. You may reveal a creature card with mana value 3 "
-#| "or less from among them and put it into your hand. Put the rest on the "
-#| "bottom of your library in any order."
 msgid ""
 "When Drownyard Amalgam enters the battlefield, target player mills three "
 "cards. (They put the top three cards of their library into their graveyard.)"
 msgstr ""
-"Ilekroć dzień staje się nocą lub noc staje się dniem, spójrz na cztery "
-"wierzchnie karty twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
-"o skrócie many 3 lub mniejszym i umieścić ją w twojej ręce. Umieść pozostałe "
-"dowolnie na spodzie twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli trzy karty. ("
+"Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../MID.rst:365
 msgid "|mana_2|\\ |mana_u|: Drownyard Amalgam can't be blocked this turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../MID.rst:370
 msgid ""
@@ -1411,18 +1413,13 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:369
-#, fuzzy
-#| msgid ""
-#| "Play with Fire deals 2 damage to any target. If a player is dealt damage "
-#| "this way, scry 1. (Look at the top card of your library. You may put that "
-#| "card on the bottom of your library.)"
 msgid ""
 "Return target creature to its owner's hand. If its mana value was 3 or less, "
 "scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 2 obrażenia. Jeśli gracz otrzyma obrażenia "
-"w ten sposób, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"Przywróć wskazanego stwora do ręki właściciela. Jeśli jego skrót many to 3 "
+"lub mniej, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
 "umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../MID.rst:376
@@ -1438,6 +1435,9 @@ msgid ""
 "creature token with decayed. (It can't block. When it attacks, sacrifice it "
 "at end of combat.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czarnego stwora Zombi 2/"
+"2 ze zgnilizną. (Nie może on blokować. Kiedy zaatakuje, poświęć go na końcu "
+"potyczki.)"
 
 #: ../../MID.rst:382
 msgid ""
@@ -1447,10 +1447,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:379
-#, fuzzy
-#| msgid ""
-#| "If it's neither day nor night, it becomes day as Gavony Dawnguard enters "
-#| "the battlefield."
 msgid ""
 "If it's neither day nor night, it becomes day as Firmament Sage enters the "
 "battlefield."
@@ -1459,14 +1455,8 @@ msgstr ""
 "stwora na polu bitwy."
 
 #: ../../MID.rst:381
-#, fuzzy
-#| msgid ""
-#| "Whenever day becomes night or night becomes day, Brimstone Vandal deals 1 "
-#| "damage to each opponent."
 msgid "Whenever day becomes night or night becomes day, draw a card."
-msgstr ""
-"Ilekroć dzień stanie się nocą lub noc dniem, ten stwór zadaje każdemu "
-"przeciwnikowi po 1 obrażeniu."
+msgstr "Ilekroć dzień stanie się nocą lub noc dniem, dobierz kartę."
 
 #: ../../MID.rst:386
 msgid ""
@@ -1481,6 +1471,9 @@ msgid ""
 "Zombie creature token with decayed. (It can't block. When it attacks, "
 "sacrifice it at end of combat.)"
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_4|. Stwórz żeton "
+"czarnego stwora Zombi 2/2 ze zgnilizną. (Nie może on blokować. Kiedy "
+"zaatakuje, poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:392
 msgid ""
@@ -1926,6 +1919,9 @@ msgid ""
 "creature token with decayed. (It can't block. When it attacks, sacrifice it "
 "at end of combat.)"
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędy, stwórz żeton czarnego stwora "
+"Zombi 2/2 ze zgnilizną. (Nie może on blokować. Kiedy zaatakuje, poświęć go "
+"na koniec potyczki.)"
 
 #: ../../MID.rst:515
 msgid ""
@@ -1968,6 +1964,9 @@ msgid ""
 "create a 2/2 black Zombie creature token with decayed. (It can't block. When "
 "it attacks, sacrifice it at end of combat.)"
 msgstr ""
+"Właściciel wskazanego stwora umieszcza go na wierzchu swojej biblioteki. "
+"Stwórz żeton czarnego stwora Zombi 2/2 ze zgnilizną. (Nie może on blokować. "
+"Kiedy zaatakuje, poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:532
 msgid ""
@@ -2085,6 +2084,9 @@ msgid ""
 "creature token with decayed. (It can't block. When it attacks, sacrifice it "
 "at end of combat.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury -2/-0. Stwórz żeton czarnego stwora "
+"Zombi 2/2 ze zgnilizną. (Nie może on blokować. Kiedy zaatakuje, poświęć go "
+"na koniec potyczki.)"
 
 #: ../../MID.rst:568
 msgid ""
@@ -2492,6 +2494,10 @@ msgid ""
 "graveyards. (A creature with decayed can't block. When it attacks, sacrifice "
 "it at end of combat.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
+"Zombi 2/2 ze zgnilizną. Kiedy tak zrobisz, wygnaj co najwyżej dwie wskazane "
+"karty z cmentarzy. (Stwór ze zgnilizną nie może blokować. Kiedy zaatakuje, "
+"poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:700
 msgid ""
@@ -2615,6 +2621,10 @@ msgid ""
 "creature with decayed can't block. When it attacks, sacrifice it at end of "
 "combat.)"
 msgstr ""
+"Ilekroć umrze co najmniej jeden nieżetonowy stwór, stwórz żeton czarnego "
+"stwora Zombi 2/2 ze zgnilizną. Ta zdolność wyzwala się tylko raz na turę. ("
+"Stwór ze zgnilizną nie może blokować. Kiedy zaatakuje, poświęć go na koniec "
+"potyczki.)"
 
 #: ../../MID.rst:732
 msgid ""
@@ -2636,6 +2646,10 @@ msgid ""
 "decayed. (A creature with decayed can't block. When it attacks, sacrifice it "
 "at end of combat.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść wszystkie karty stworów wygnane "
+"niniejszym stworem na polu bitwy pod twoim władaniem. Zyskują one zgniliznę. "
+"(Stwór ze zgnilizną nie może blokować. Kiedy zaatakuje, poświęć go na koniec "
+"potyczki.)"
 
 #: ../../MID.rst:740
 msgid ""
@@ -2736,6 +2750,8 @@ msgid ""
 "When Hobbling Zombie dies, create a 2/2 black Zombie creature token with "
 "decayed. (It can't block. When it attacks, sacrifice it at end of combat.)"
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton czarnego stwora Zombi 2/2 ze zgnilizną. ("
+"Nie może on blokować. Kiedy zaatakuje, poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:768
 msgid ""
@@ -2762,6 +2778,9 @@ msgid ""
 "create a 2/2 black Zombie creature token with decayed. (It can't block. When "
 "it attacks, sacrifice it at end of combat.)"
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli nie władasz stworem ze zgnilizną, "
+"stwórz żeton czarnego stwora Zombi 2/2 ze zgnilizną. (Nie może on blokować. "
+"Kiedy zaatakuje, poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:780
 msgid ""
@@ -2993,6 +3012,9 @@ msgid ""
 "token with decayed. (It can't block. When it attacks, sacrifice it at end of "
 "combat.)"
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty. Stwórz żeton czarnego stwora Zombi 2/"
+"2 ze zgnilizną. (Nie może on blokować. Kiedy zaatakuje, poświęć go na koniec "
+"potyczki.)"
 
 #: ../../MID.rst:836
 msgid ""
@@ -3038,6 +3060,9 @@ msgid ""
 "creature token with decayed. (It can't block. When it attacks, sacrifice it "
 "at end of combat.)"
 msgstr ""
+"Wygnaj co najwyżej jedną wskazaną kartę z cmentarza. Stwórz żeton czarnego "
+"stwora Zombi 2/2 ze zgnilizną. (Nie może on blokować. Kiedy zaatakuje, "
+"poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:845
 msgid ""
@@ -3137,6 +3162,11 @@ msgid ""
 "black 2/2 Zombie creature tokens with decayed. (A creature with decayed "
 "can't block. When it attacks, sacrifice it at end of combat.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_b| "
+"dowolną liczbę razy. Kiedy zapłacisz ten koszt co najmniej raz, umieść tyle "
+"samo znaczników +1/+1 na tym stworze, po czym stwórz dwukrotnie tyle żetonów "
+"czarnego stwora Zombi 2/2 ze zgnilizną. (Stwór ze zgnilizną nie może "
+"blokować. Kiedy zaatakuje, poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:884
 msgid ""
@@ -5465,6 +5495,9 @@ msgid ""
 "number of creature cards in your graveyard, rounded up. (A creature with "
 "decayed can't block. When it attacks, sacrifice it at end of combat.)"
 msgstr ""
+"Stwórz X żetonów czarnego stwora Zombi 2/2 ze zgnilizną, gdzie X jest połową "
+"liczby kart stworów w twoim cmentarzu, zaokrąglając w górę. (Stwór ze "
+"zgnilizną nie może blokować. Kiedy zaatakuje, poświęć go na koniec potyczki.)"
 
 #: ../../MID.rst:1609
 msgid ""
