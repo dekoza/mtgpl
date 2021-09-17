@@ -138,7 +138,7 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
-* :mtgexp:`MIC` :doc:`Midnight Hung Commander<MIC> |MIC_percent|
+* :mtgexp:`MIC` :doc:`Midnight Hung Commander<MIC>` |MIC_percent|
 * :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
 * :mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|
 * :mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|
