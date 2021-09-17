@@ -22,7 +22,7 @@ Spolszczenie Magic Arena
 
 
 Chcesz grać w Arenę po polsku? :doc:`Kiedyś było to możliwe<mtgapl>`. Niestety wraz z aktualizacją dodającą Innistrad: Midnight Hunt,
-w kliencie Areny pojawiło się zabezpieczenie uniemożliwiające wgranię spolszczenia. Jeśli uważasz, że spolszczenie było przydatne,
+w kliencie Areny pojawiło się zabezpieczenie uniemożliwiające wgranie spolszczenia. Jeśli uważasz, że spolszczenie było przydatne,
 `możesz zagłosować na prośbę o ponowne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
 
 
