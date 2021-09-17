@@ -1,6 +1,19 @@
 Spolszczenie do gry Magic Arena
 ===============================
 
+
+W chwili obecnej projekt został zawieszony. Najnowsza wersja Areny uniemożliwia wgrywanie spolszczenia.
+
+Jeśli uważasz, że spolszczenie było przydatne,
+`możesz zagłosować na prośbę o ponowne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
+
+
+.. image:: images/MTGA_Banned.png
+
+
+Poprzednia treść strony
+=======================
+
 Kilka uwag na sam początek:
 
 * Każda aktualizacja Areny nadpisuje część plików (najczęściej wszystkie). Wgranie tłumaczenia starej wersji może spowodować zawieszenie gry, więc proszę czekać na wydanie aktualizacji tłumaczenia. Zwykle publikowane jest w przeciągu 24 godzin. Pracuję nad metodą zabezpieczającą przed wgraniem plików do złej wersji gry.

@@ -18,10 +18,12 @@ Jeśli uważasz, że projekt ten jest przydatny, `wesprzyj autora na Patronite <
 Spolszczenie Magic Arena
 ========================
 
-.. image:: images/MTGA_Teaser.png
+.. image:: images/MTGA_Banned.png
 
 
-Chcesz grać w Arenę po polsku? :doc:`Tutaj znajdziesz instrukcję<mtgapl>`.
+Chcesz grać w Arenę po polsku? :doc:`Kiedyś było to możliwe<mtgapl>`. Niestety wraz z aktualizacją dodającą Innistrad: Midnight Hunt,
+w kliencie Areny pojawiło się zabezpieczenie uniemożliwiające wgranię spolszczenia. Jeśli uważasz, że spolszczenie było przydatne,
+`możesz zagłosować na prośbę o ponowne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
 
 
 Instrukcja gry
@@ -136,6 +138,7 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
+* :mtgexp:`MIC` :doc:`Midnight Hung Commander<MIC> |MIC_percent|
 * :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
 * :mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|
 * :mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|
