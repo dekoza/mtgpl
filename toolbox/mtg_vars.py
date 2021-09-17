@@ -93,6 +93,8 @@ expansions = [
     "M21",
     "MBS",
     "MH1",
+    "MIC",
+    "MID",
     "MIR",
     "MM2",
     "MM3",

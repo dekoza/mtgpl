@@ -24,6 +24,8 @@ assert "en-US" not in [
     SUBSTITUTE_LANG_DEBUG,
 ], "Dla własnego spokoju proszę nie usuwać angielskiego."
 
+print(f"MTGA location {MTGA_DIR}")
+
 CURRENT_DIR = Path(__file__).absolute().parent
 _main_lang = SUBSTITUTE_LANG.split("-")[0]
 _debug_lang = SUBSTITUTE_LANG_DEBUG.split("-")[0]
@@ -166,7 +168,7 @@ def find_loc_trans_obj(trans_list, lang="en-US"):
             return obj
 
 
-def create_datfile(filepath):
+def create_datfile(filepath) -> None:
     with open(filepath, "rb") as done_file, open(f"{filepath}.dat", "w") as dat_file:
         dat_file.write("1\n")
         md5_hash = hashlib.md5()
