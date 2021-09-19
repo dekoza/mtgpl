@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-05 18:37+0200\n"
+"POT-Creation-Date: 2021-09-19 20:18+0200\n"
 "PO-Revision-Date: 2021-09-05 19:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ths/pl/>\n"
@@ -1498,17 +1498,9 @@ msgid ""
 "Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it."
 msgstr "Odrzuć kartę: Ten stwór zyskuje antyklątwę do końca tury. Przekręć go."
 
-# a5c71d5c3a3344a0beecabc1a873cab3
-# ef8bdd5ca071490587a2b3b81dc3e047
 #: ../../THS.rst:339
-msgid ""
-"Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of "
-"your library, then put any number of them on the bottom of your library and "
-"the rest on top in any order.)"
-msgstr ""
-"Ilekroć ten stwór zaatakuje, wróż 3. (Spójrz na trzy wierzchnie karty twojej "
-"biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej biblioteki, "
-"a pozostałe na jej wierzchu w dowolnej kolejności.)"
+msgid "Whenever Prognostic Sphinx attacks, scry 3."
+msgstr "Ilekroć Prognostic Sphinx atakuje, wróż 3."
 
 #: ../../THS.rst:344
 msgid ""
@@ -4983,6 +4975,17 @@ msgstr ""
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
+# a5c71d5c3a3344a0beecabc1a873cab3
+# ef8bdd5ca071490587a2b3b81dc3e047
+#~ msgid ""
+#~ "Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards "
+#~ "of your library, then put any number of them on the bottom of your "
+#~ "library and the rest on top in any order.)"
+#~ msgstr ""
+#~ "Ilekroć ten stwór zaatakuje, wróż 3. (Spójrz na trzy wierzchnie karty "
+#~ "twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+#~ "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
+
 #~ msgid ""
 #~ "Scry 1. (Look at the top card of your library. You may put that card on "
 #~ "the bottom of your library.)"
@@ -6091,9 +6094,6 @@ msgstr "(|tap|: Weź |mana_g|.)"
 
 #~ msgid "Whenever you cast an instant or sorcery spell, scry 1."
 #~ msgstr "Ilekroć rzucasz czar sztuczki lub obrzędu, wróż 1."
-
-#~ msgid "Whenever Prognostic Sphinx attacks, scry 3."
-#~ msgstr "Ilekroć Prognostic Sphinx atakuje, wróż 3."
 
 #~ msgid ""
 #~ "(Look at the top three cards of your library, then put any number of them "
