@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-19 20:18+0200\n"
-"PO-Revision-Date: 2021-09-16 20:35+0000\n"
+"PO-Revision-Date: 2021-09-19 20:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -2796,6 +2796,8 @@ msgid ""
 "Whenever one or more other creatures die, draw a card. This ability triggers "
 "only once each turn."
 msgstr ""
+"Ilekroć umrze co najmniej jeden inny stwór, dobierz kartę. Ta zdolność "
+"wyzwala się tylko raz na turę."
 
 #: ../../MID.rst:820
 msgid ""
@@ -2882,7 +2884,7 @@ msgstr ""
 
 #: ../../MID.rst:835
 msgid "When Novice Occultist dies, you draw a card and you lose 1 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę i strać 1 życie."
 
 #: ../../MID.rst:840
 msgid ""
@@ -3046,7 +3048,7 @@ msgstr ""
 
 #: ../../MID.rst:887
 msgid "Vengeful Strangler can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../MID.rst:889
 msgid ""
@@ -3054,6 +3056,9 @@ msgid ""
 "your control attached to target creature or planeswalker an opponent "
 "controls."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go na pole bitwy pod twoim władaniem "
+"transformowego dołączonego do wskazanego stwora lub wędrowca pod władaniem "
+"przeciwnika."
 
 #: ../../MID.rst:896
 msgid ""
@@ -3074,6 +3079,8 @@ msgid ""
 "At the beginning of your upkeep, enchanted permanent's controller sacrifices "
 "a nonland permanent and loses 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, władca zauroczonego permanentu "
+"poświęca nielądowy permanent i traci 1 życie."
 
 #: ../../MID.rst:902
 msgid ""
@@ -3175,13 +3182,16 @@ msgstr ""
 #: ../../MID.rst:925
 msgid ""
 "Burn Down the House deals 5 damage to each creature and each planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu wędrowcowi po 5 obrażeń."
 
 #: ../../MID.rst:927
 msgid ""
 "Create three 1/1 red Devil creature tokens with \"When this creature dies, "
 "it deals 1 damage to any target.\" They gain haste until end of turn."
 msgstr ""
+"Stwórz trzy żetony czerwonego stwora Diabeł 1/1 mające \"Kiedy ten stwór "
+"umrze, zadaje on wskazanemu celowi 1 obrażenie.\" Do końca tury zyskują one "
+"pośpiech."
 
 #: ../../MID.rst:932
 msgid ""
@@ -3196,6 +3206,8 @@ msgid ""
 "creature's controller. If that creature would die this turn, exile it "
 "instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 5 obrażeń oraz 2 obrażenia władcy owego "
+"stwora. Jeśli ów stwór miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../MID.rst:940
 msgid ""
@@ -3212,7 +3224,7 @@ msgstr "Wygnaj wskazanego stwora lub wędrowca."
 
 #: ../../MID.rst:939
 msgid "Discard up to two cards, then draw that many cards."
-msgstr ""
+msgstr "Odrzuć co najwyżej dwie karty, po czym dobierz tyle samo kart."
 
 #: ../../MID.rst:946
 msgid ""
@@ -3268,6 +3280,7 @@ msgid ""
 "Whenever Falkenrath Perforator attacks, it deals 1 damage to defending "
 "player."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje on broniącemu się graczowi 1 obrażenie."
 
 #: ../../MID.rst:962
 msgid ""
@@ -3281,6 +3294,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Discard a card, Sacrifice a Vampire: Draw two cards. "
 "Activate only if an opponent lost life this turn."
 msgstr ""
+"|mana_1|\\ |mana_r|, odrzuć kartę, poświęć Wampira: Dobierz dwie karty. "
+"Możesz aktywować tylko jeśli przeciwnik stracił życie w tej turze."
 
 #: ../../MID.rst:968
 msgid ""
@@ -3532,7 +3547,7 @@ msgstr ""
 
 #: ../../MID.rst:1041
 msgid "Moonrager's Slash deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../MID.rst:1050
 msgid ""
@@ -3546,6 +3561,8 @@ msgid ""
 "Whenever you cast a spell, you may discard your hand. If you do, draw a card "
 "for each of that spell's colors."
 msgstr ""
+"Ilekroć rzucisz czar, możesz odrzucić twoją rękę. Jeśli tak zrobisz, dobierz "
+"kartę za każdy z kolorów owego czaru."
 
 #: ../../MID.rst:1049
 #, fuzzy
@@ -3597,6 +3614,8 @@ msgid ""
 "Neonate's Rush deals 1 damage to target creature and 1 damage to its "
 "controller. Draw a card."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 1 obrażenie oraz 1 obrażenie jego "
+"władcy. Dobierz kartę."
 
 #: ../../MID.rst:1068
 msgid ""
@@ -3643,6 +3662,10 @@ msgid ""
 "(Look at the top two cards of your library, then put any number of them on "
 "the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech. Jeśli władasz Wilkiem lub Wilkołakiem, wróż 2. ("
+"Spójrz na 2 wierzchnie karty twojej biblioteki, po czym umieść dowolne z "
+"nich na spodzie twojej biblioteki, a pozostałe dowolnie na jej wierzchu.)"
 
 #: ../../MID.rst:1076
 msgid ""
@@ -3674,6 +3697,9 @@ msgid ""
 "defending player controls. If that creature is a Zombie, Purifying Dragon "
 "deals 2 damage to that creature instead."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje on wskazanemu stworowi pod władaniem "
+"broniącego się gracza 1 obrażenie. Jeśli ów stwór jest Zombi, niniejszy "
+"stwór zamiast tego zadaje mu 2 obrażenia."
 
 #: ../../MID.rst:1090
 msgid ""
@@ -3787,6 +3813,10 @@ msgid ""
 "spell. Then if Smoldering Egg has seven or more ember counters on it, remove "
 "them and transform Smoldering Egg."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść tyle znaczników żaru na "
+"tym stworze, ile many wydałeś na rzucenie owego czaru. Następnie jeśli ten "
+"stwór ma co najmniej siedem znaczników żaru, usuń je i transformuj tego "
+"stwora."
 
 #: ../../MID.rst:1120
 msgid ""
@@ -3977,7 +4007,7 @@ msgstr ""
 
 #: ../../MID.rst:1179
 msgid "Voldaren Stinger has first strike as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór ma pierwszy cios o ile atakuje."
 
 #: ../../MID.rst:1181
 #, fuzzy
@@ -4091,7 +4121,7 @@ msgstr ""
 
 #: ../../MID.rst:1223
 msgid "As long as you control a token, Briarbridge Tracker gets +2/+0."
-msgstr ""
+msgstr "O ile władasz żetonem, ten stwór dostaje +2/+0."
 
 #: ../../MID.rst:1230
 msgid ""
@@ -4104,6 +4134,7 @@ msgstr ""
 msgid ""
 "When Brood Weaver dies, create a 1/2 green Spider creature token with reach."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton zielonego stwora Pająk 1/2 z zasięgiem."
 
 #: ../../MID.rst:1236
 msgid ""
@@ -4156,6 +4187,8 @@ msgid ""
 "Consuming Blob's power is equal to the number of card types among cards in "
 "your graveyard and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie typów kart pośród kart w twoim cmentarzu, "
+"a wytrzymałość jest równa tej liczbie plus 1."
 
 #: ../../MID.rst:1251
 msgid ""
@@ -4163,6 +4196,9 @@ msgid ""
 "\"This creature's power is equal to the number of card types among cards in "
 "your graveyard and its toughness is equal to that number plus 1\"."
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton zielonego stwora Szlam "
+"mający \"Siła tego stwora jest równa liczbie typów kart pośród kart w twoim "
+"cmentarzu, a wytrzymałość jest równa tej liczbie plus 1\"."
 
 #: ../../MID.rst:1258
 msgid ""
@@ -4285,6 +4321,8 @@ msgid ""
 "Distribute three +1/+1 counters among one, two, or three target creatures "
 "you control."
 msgstr ""
+"Rozmieść trzy znaczniki +1/+1 pomiędzy jednym, dwoma lub trzema wskazanymi "
+"stworami pod twoim władaniem."
 
 #: ../../MID.rst:1288
 msgid ""
@@ -4406,6 +4444,8 @@ msgid ""
 "When Howl of the Hunt enters the battlefield, if enchanted creature is a "
 "Wolf or Werewolf, untap that creature."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli zauroczony stwór jest Wilkiem "
+"lub Wilkołakiem, odkręć go."
 
 #: ../../MID.rst:1327
 msgid "Enchanted creature gets +2/+2 and has vigilance."
@@ -4442,7 +4482,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice Outland Liberator: Destroy target artifact or "
 "enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../MID.rst:1348
 msgid ""
@@ -4508,7 +4548,7 @@ msgstr ""
 
 #: ../../MID.rst:1357
 msgid "|mana_2|\\ |mana_g|: Pestilent Wolf gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|: Ten stwór zyskuje dotyk śmierci do końca tury."
 
 #: ../../MID.rst:1362
 msgid ""
@@ -4599,6 +4639,7 @@ msgstr "Inne odkręcone stwory pod twoim władaniem mają antyklątwę."
 #: ../../MID.rst:1391
 msgid "|mana_1|, |tap|: Untap another target creature or land you control."
 msgstr ""
+"|mana_1|, |tap|: Odkręć innego wskazanego stwora lub ląd pod twoim władaniem."
 
 #: ../../MID.rst:1398
 msgid ""
@@ -4635,6 +4676,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Snarling Wolf gets +2/+2 until end of turn. Activate "
 "only once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"tylko raz na turę."
 
 #: ../../MID.rst:1408
 msgid ""
@@ -4771,6 +4814,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Another target Wolf or Werewolf you control "
 "fights target creature you don't control."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|: Inny wskazany Wilk lub Wilkołak pod twoim "
+"władaniem walczy ze wskazanym stworem poza twoim władaniem."
 
 #: ../../MID.rst:1450
 msgid ""
@@ -4831,7 +4876,7 @@ msgstr ""
 
 #: ../../MID.rst:1461
 msgid "When Willow Geist dies, you gain life equal to its power."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskaj życia równe jego sile."
 
 #: ../../MID.rst:1472
 msgid ""
@@ -4883,6 +4928,8 @@ msgid ""
 "Put two +1/+1 counters on target creature. It gains vigilance, trample, "
 "lifelink, indestructible, and haste until end of turn."
 msgstr ""
+"Umieść dwa znaczniki +1/+1 na wskazanym stworze. Do końca tury zyskuje on "
+"czujność, tratowanie, więź życia, niezniszczalność i pośpiech."
 
 #: ../../MID.rst:1477
 #, fuzzy
@@ -4946,6 +4993,9 @@ msgid ""
 "flash, and each creature you control enters the battlefield with an "
 "additional +1/+1 counter on it."
 msgstr ""
+"+1: Do końca twojej następnej tury możesz rzucać czary stworów tak, jakby "
+"miały błysk i każdy stwór pod twoim władaniem wchodzi na pole bitwy mając "
+"dodatkowy znacznik +1/+1."
 
 #: ../../MID.rst:1491
 msgid "−3: Create two 2/2 green Wolf creature tokens."
@@ -4968,6 +5018,8 @@ msgid ""
 "0: Until end of turn, Arlinn, the Moon's Fury becomes a 5/5 Werewolf "
 "creature with trample, indestructible, and haste."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Wilkołak 5/5 z tratowaniem, "
+"niezniszczalnością i pośpiechem."
 
 #: ../../MID.rst:1504
 msgid ""
@@ -5018,6 +5070,8 @@ msgid ""
 "Create an X/X blue and black Zombie creature token with menace, where X is "
 "the total power of the sacrificed creatures."
 msgstr ""
+"Stwórz żeton niebiesko-czarnego stwora Zombi X/X ze złowrogością, gdzie X "
+"jest łączną siłą poświęconych stworów."
 
 #: ../../MID.rst:1517
 msgid ""
@@ -5039,6 +5093,8 @@ msgid ""
 "Create a token that's a copy of target non-Frog creature, except it's a 1/1 "
 "green Frog."
 msgstr ""
+"Stwórz żeton będący kopią wskazanego stwora bez typu Żaba, ale jest on Żabą "
+"1/1."
 
 #: ../../MID.rst:1523
 msgid ""
@@ -5166,7 +5222,7 @@ msgstr ""
 
 #: ../../MID.rst:1559
 msgid "Departed Soulkeeper can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../MID.rst:1561
 #, fuzzy
@@ -5195,6 +5251,12 @@ msgid ""
 "controller may search their library for a basic land card, put it onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Zniszcz wskazany artefakt, urok lub ląd. Jeśli w ten sposób został "
+"zniszczony ląd, jego władca może wyszukać w swojej bibliotece co najwyżej "
+"dwie karty bazowych lądów, umieścić je przekręcone na polu bitwy i "
+"przetasować. W przeciwnym razie jego władca może wyszukać w swojej "
+"bibliotece kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po "
+"czym przetasować."
 
 #: ../../MID.rst:1567
 #, fuzzy
@@ -5213,6 +5275,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each creature that died this turn."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora, który umarł "
+"w tej turze."
 
 #: ../../MID.rst:1573
 msgid "Return target creature card from your graveyard to the battlefield."
@@ -5377,6 +5441,9 @@ msgid ""
 "its owner's control. If it entered under your control, put a +1/+1 counter "
 "on it. Otherwise, tap it."
 msgstr ""
+"Wygnaj wskazanego nielegendarnego stwora, po czym przywróć go na pole bitwy "
+"pod władaniem właściciela. Jeśli wszedł pod twoim władaniem, umieść na nim "
+"znacznik +1/+1. W przeciwnym razie przekręć go."
 
 #: ../../MID.rst:1624
 msgid ""
@@ -5390,6 +5457,8 @@ msgid ""
 "Create a 3/1 black and red Vampire creature token with trample, lifelink, "
 "and haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"Stwórz żeton czarno-czerwonego stwora Wampir 3/1 mający tratowanie, więź "
+"życia i pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../MID.rst:1623
 #, fuzzy
@@ -5431,7 +5500,7 @@ msgstr ""
 
 #: ../../MID.rst:1633
 msgid "Protection from Werewolves"
-msgstr ""
+msgstr "Ochrona przed Wilkołakami"
 
 #: ../../MID.rst:1635
 #, fuzzy
@@ -5447,6 +5516,8 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature "
 "you control."
 msgstr ""
+"|mana_4|\\ |mana_g|\\ |mana_w|, |tap|: Umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../MID.rst:1644
 msgid ""
@@ -5461,6 +5532,8 @@ msgid ""
 "Whenever Kessig Naturalist attacks, add |mana_r| or |mana_g|. Until end of "
 "turn, you don't lose this mana as steps and phases end."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, weź |mana_r| lub |mana_g|. Do końca tury nie "
+"tracisz owej many podczas końców kroków i faz."
 
 #: ../../MID.rst:1652
 msgid ""
@@ -5479,6 +5552,8 @@ msgid ""
 "Whenever Lord of the Ulvenwald attacks, add |mana_r| or |mana_g|. Until end "
 "of turn, you don't lose this mana as steps and phases end."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, weź |mana_r| lub |mana_g|. Do końca tury nie "
+"tracisz owej many podczas końców kroków i faz."
 
 #: ../../MID.rst:1660
 msgid ""
@@ -5497,6 +5572,8 @@ msgid ""
 "Whenever another nontoken creature you control dies, return that card to its "
 "owner's hand at the beginning of the next end step."
 msgstr ""
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, przywróć ową kartę "
+"do ręki właściciela na początku najbliższego kroku końcowego."
 
 #: ../../MID.rst:1666
 msgid ""
@@ -5519,6 +5596,9 @@ msgid ""
 "from your graveyard: Transform Ludevic, Necrogenius. X can't be zero. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_x|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|, wygnaj X kart stworów "
+"z twojego cmentarza: Transformuj tego stwora. X nie może być zero. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../MID.rst:1670
 msgid ""
@@ -5536,6 +5616,10 @@ msgid ""
 "other colors and types. Put a number of +1/+1 counters on Olag equal to the "
 "number of creature cards exiled with it."
 msgstr ""
+"Transformując na tę stronę, ten stwór staje się kopią karty stwora wygnanego "
+"z jego użyciem, ale jego nazwa to Olag, Ludevic's Hubris, jest 4/4 i jest "
+"legendarnym niebiesko-czarnym Zombi oprócz swoich innych kolorów i typów. "
+"Umieść na nim tyle znaczników +1/+1, ile kart stworów wygnano z jego użyciem."
 
 #: ../../MID.rst:1676
 msgid ""
@@ -5588,12 +5672,16 @@ msgid ""
 "If a spell would deal damage to you or another permanent you control, "
 "prevent that damage."
 msgstr ""
+"Jeśli czar miałby zadać obrażenia tobie lub innemu permanentowi pod twoim "
+"władaniem, zażegnaj owe obrażenia."
 
 #: ../../MID.rst:1683
 msgid ""
 "If a spell would deal damage to an opponent or a permanent an opponent "
 "controls, it deals that much damage plus 1 instead."
 msgstr ""
+"Jeśli czar miałby zadać obrażenia przeciwnikowi lub permanentowi pod "
+"władaniem przeciwnika, zamiast tego zadaje on o 1 obrażenie więcej."
 
 #: ../../MID.rst:1690
 msgid ""
@@ -5634,7 +5722,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../MID.rst:1695
 msgid "Exile target nonland permanent"
-msgstr ""
+msgstr "Wygnaj wskazany nielądowy permanent"
 
 #: ../../MID.rst:1697
 #, fuzzy
@@ -5660,6 +5748,8 @@ msgid ""
 "|tap|: Add two mana of any one color. Spend this mana only to cast spells "
 "from your graveyard."
 msgstr ""
+"|tap|: Weź dwie many jednego dowolnego koloru. Wydaj tę manę tylko na "
+"rzucanie czarów z twojego cmentarza."
 
 #: ../../MID.rst:1705
 msgid ""
