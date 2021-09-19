@@ -751,17 +751,17 @@
    Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.
 
 
-:mtgtip:`Faithless Salvaging<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6ed4077-4ed5-48fb-91c9-a9195d652978.jpg?1626096527|https://scryfall.com/card/mh2/122/faithless-salvaging?utm_source=api>`
+:mtgtip:`Faithless Salvaging<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6ed4077-4ed5-48fb-91c9-a9195d652978.jpg?1630178094|https://scryfall.com/card/mh2/122/faithless-salvaging?utm_source=api>`
    Discard a card, then draw a card.
 
    Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 
 
-:mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1626096554|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
+:mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1629231952|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
    Discard a card, then draw two cards.
 
 
-:mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1626096554|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
+:mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1629231952|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
    Furious deals 3 damage to each creature without flying.
 
 
@@ -853,7 +853,7 @@
    When Obsidian Charmaw enters the battlefield, destroy target nonbasic land an opponent controls.
 
 
-:mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1626096923|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
+:mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1627449092|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
    Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
 
    Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
@@ -937,7 +937,7 @@
    |mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of turn.
 
 
-:mtgtip:`Chatterstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b34f0ac1-6894-4761-b62c-b85d927acf09.jpg?1626097260|https://scryfall.com/card/mh2/152/chatterstorm?utm_source=api>`
+:mtgtip:`Chatterstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b34f0ac1-6894-4761-b62c-b85d927acf09.jpg?1631126059|https://scryfall.com/card/mh2/152/chatterstorm?utm_source=api>`
    Create a 1/1 green Squirrel creature token.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
@@ -1353,7 +1353,7 @@
    Madness |mana_b|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-:mtgtip:`Territorial Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2605df98-0b02-4aab-bc36-01e93c693743.jpg?1626098831|https://scryfall.com/card/mh2/216/territorial-kavu?utm_source=api>`
+:mtgtip:`Territorial Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2605df98-0b02-4aab-bc36-01e93c693743.jpg?1631302949|https://scryfall.com/card/mh2/216/territorial-kavu?utm_source=api>`
    Domain — Territorial Kavu's power and toughness are each equal to the number of basic land types among lands you control.
 
    Whenever Territorial Kavu attacks, choose one —
@@ -1473,7 +1473,7 @@
    Each creature you control has vigilance if it's white, hexproof if it's blue, lifelink if it's black, first strike if it's red, and trample if it's green.
 
 
-:mtgtip:`Sojourner's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c6af084-eee7-4259-a58b-a866e0cf171b.jpg?1626099284|https://scryfall.com/card/mh2/235/sojourners-companion?utm_source=api>`
+:mtgtip:`Sojourner's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c6af084-eee7-4259-a58b-a866e0cf171b.jpg?1631126032|https://scryfall.com/card/mh2/235/sojourners-companion?utm_source=api>`
    Affinity for artifacts
 
    Artifact landcycling |mana_2| (|mana_2|, Discard this card: Search your library for an artifact land card, reveal it, put it into your hand, then shuffle.)
@@ -1687,7 +1687,7 @@
    |mana_w|, Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.
 
 
-:mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1626100154|https://scryfall.com/card/mh2/267/counterspell?utm_source=api>`
+:mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663|https://scryfall.com/card/mh2/267/counterspell?utm_source=api>`
    Counter target spell.
 
 
@@ -1705,7 +1705,7 @@
    Return all permanents to their owners' hands.
 
 
-:mtgtip:`Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/675d6729-23da-4f0b-b222-fe54fe24dd90.jpg?1626100292|https://scryfall.com/card/mh2/271/wonder?utm_source=api>`
+:mtgtip:`Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/675d6729-23da-4f0b-b222-fe54fe24dd90.jpg?1631302927|https://scryfall.com/card/mh2/271/wonder?utm_source=api>`
    Flying
 
    As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.
@@ -1855,7 +1855,7 @@
    Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
-:mtgtip:`Zuran Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/618c8ecc-686d-41de-b9b1-1a7ee9cc7c14.jpg?1626100998|https://scryfall.com/card/mh2/300/zuran-orb?utm_source=api>`
+:mtgtip:`Zuran Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/618c8ecc-686d-41de-b9b1-1a7ee9cc7c14.jpg?1631302940|https://scryfall.com/card/mh2/300/zuran-orb?utm_source=api>`
    Sacrifice a land: You gain 2 life.
 
 
@@ -1897,7 +1897,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1626139162|https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`
+:mtgtip:`Sanctum Prelate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9839e4e-94dd-4087-b7a9-3089f1828397.jpg?1631669158|https://scryfall.com/card/mh2/491/sanctum-prelate?utm_source=api>`
    As Sanctum Prelate enters the battlefield, choose a number.
 
    Noncreature spells with mana value equal to the chosen number can't be cast.

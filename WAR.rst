@@ -887,8 +887,8 @@
    Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.
 
 
-:mtgtip:`Paradise Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed8d9e7-cdad-450d-8329-fa653d387a63.jpg?1557576973|https://scryfall.com/card/war/171/paradise-druid?utm_source=api>`
-   Paradise Druid has hexproof as long as it's untapped.(It can't be the target of spells or abilities your opponents control.)
+:mtgtip:`Paradise Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed8d9e7-cdad-450d-8329-fa653d387a63.jpg?1631534611|https://scryfall.com/card/war/171/paradise-druid?utm_source=api>`
+   Paradise Druid has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)
 
    |tap|: Add one mana of any color.
 

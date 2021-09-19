@@ -821,7 +821,7 @@
    |mana_1|\ |mana_b|, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn.
 
 
-:mtgtip:`Tainted Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1618695846|https://scryfall.com/card/ody/164/tainted-pact?utm_source=api>`
+:mtgtip:`Tainted Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1628801908|https://scryfall.com/card/ody/164/tainted-pact?utm_source=api>`
    Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.
 
 
@@ -1497,7 +1497,7 @@
    |mana_1|\ |mana_r|: Vampiric Dragon deals 1 damage to target creature.
 
 
-:mtgtip:`Catalyst Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaca85d4-b4c2-4adc-a0f9-26339bacfd92.jpg?1562926894|https://scryfall.com/card/ody/297/catalyst-stone?utm_source=api>`
+:mtgtip:`Catalyst Stone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aaca85d4-b4c2-4adc-a0f9-26339bacfd92.jpg?1630772029|https://scryfall.com/card/ody/297/catalyst-stone?utm_source=api>`
    Flashback costs you pay cost up to |mana_2| less.
 
    Flashback costs your opponents pay cost |mana_2| more.

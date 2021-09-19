@@ -1103,7 +1103,7 @@
    Whenever a player sacrifices another permanent, put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Meddling Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de734753-e102-489b-9160-b3f3d10be4f1.jpg?1599708217|https://scryfall.com/card/2xm/210/meddling-mage?utm_source=api>`
+:mtgtip:`Meddling Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de734753-e102-489b-9160-b3f3d10be4f1.jpg?1628801942|https://scryfall.com/card/2xm/210/meddling-mage?utm_source=api>`
    As Meddling Mage enters the battlefield, choose a nonland card name.
 
    Spells with the chosen name can't be cast.

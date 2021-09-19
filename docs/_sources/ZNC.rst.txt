@@ -693,7 +693,7 @@
    Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_2|. If you do, draw a card.
 
 
-:mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a5edac3-855a-4820-b913-44de5b29b7d0.jpg?1604195866|https://scryfall.com/card/znc/120/sol-ring?utm_source=api>`
+:mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a5edac3-855a-4820-b913-44de5b29b7d0.jpg?1627666368|https://scryfall.com/card/znc/120/sol-ring?utm_source=api>`
    |tap|: Add |colorless|\ |colorless|.
 
 

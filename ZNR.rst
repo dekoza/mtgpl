@@ -1471,7 +1471,7 @@
    −5: You may put a creature card with mana value less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it.
 
 
-:mtgtip:`Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1610109729|https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api>`
+:mtgtip:`Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1628801807|https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api>`
    When Omnath, Locus of Creation enters the battlefield, draw a card.
 
    Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.

@@ -57,7 +57,7 @@
    Cycling |mana_1| (|mana_1|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Drannith Magistrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1591230239|https://scryfall.com/card/iko/11/drannith-magistrate?utm_source=api>`
+:mtgtip:`Drannith Magistrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1628801742|https://scryfall.com/card/iko/11/drannith-magistrate?utm_source=api>`
    Your opponents can't cast spells from anywhere other than their hands.
 
 
@@ -1233,7 +1233,7 @@
    Whenever you cast a noncreature spell, draw a card.
 
 
-:mtgtip:`Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1610109759|https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api>`
+:mtgtip:`Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1628801860|https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api>`
    Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
 
 
@@ -1299,7 +1299,7 @@
    During each of your turns, you may cast one permanent spell with mana value 2 or less from your graveyard.
 
 
-:mtgtip:`Lutri, the Spellchaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1591228440|https://scryfall.com/card/iko/227/lutri-the-spellchaser?utm_source=api>`
+:mtgtip:`Lutri, the Spellchaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1628801771|https://scryfall.com/card/iko/227/lutri-the-spellchaser?utm_source=api>`
    Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Flash

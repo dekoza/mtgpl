@@ -45,7 +45,7 @@
    Target creature you control gets +2/+0 and gains lifelink until end of turn. When that creature dies this turn, create a 1/1 white Spirit creature token with flying.
 
 
-:mtgtip:`Borrowed Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eeef24b-b937-408e-a32e-1a546d3e7b0f.jpg?1631285874|https://scryfall.com/card/mid/6/borrowed-time?utm_source=api>`
+:mtgtip:`Borrowed Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eeef24b-b937-408e-a32e-1a546d3e7b0f.jpg?1631926163|https://scryfall.com/card/mid/6/borrowed-time?utm_source=api>`
    When Borrowed Time enters the battlefield, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.
 
 
@@ -835,7 +835,7 @@
    When Novice Occultist dies, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Olivia's Midnight Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c1adede-22ad-4c1c-9501-ad731fbe1742.jpg?1631297476|https://scryfall.com/card/mid/118/olivias-midnight-ambush?utm_source=api>`
+:mtgtip:`Olivia's Midnight Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c1adede-22ad-4c1c-9501-ad731fbe1742.jpg?1632045894|https://scryfall.com/card/mid/118/olivias-midnight-ambush?utm_source=api>`
    Target creature gets -2/-2 until end of turn. If it's night, that creature gets -13/-13 until end of turn instead.
 
 
@@ -1135,12 +1135,12 @@
    Target creature gets +3/+1 until end of turn. If it's your turn, that creature gains trample until end of turn. Otherwise, it gains first strike until end of turn.
 
 
-:mtgtip:`Sunstreak Phoenix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97de6e92-e0e8-444e-baba-09c97510b1ab.jpg?1631331499|https://scryfall.com/card/mid/162/sunstreak-phoenix?utm_source=api>`
+:mtgtip:`Sunstreak Phoenix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97de6e92-e0e8-444e-baba-09c97510b1ab.jpg?1632000020|https://scryfall.com/card/mid/162/sunstreak-phoenix?utm_source=api>`
    Flying
 
    If it's neither day nor night, it becomes day as Sunstreak Phoenix enters the battlefield.
 
-   When day becomes night or night becomes day, you may pay |mana_1|\ |mana_r|. If you do, return Sunstreak Phoenix from your graveyard to the battlefield tapped.
+   Whenever day becomes night or night becomes day, you may pay |mana_1|\ |mana_r|. If you do, return Sunstreak Phoenix from your graveyard to the battlefield tapped.
 
 
 :mtgtip:`Tavern Ruffian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1630658686|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
@@ -1189,13 +1189,13 @@
    Coven — As long as you control three or more creatures with different powers, you may cast creature spells from the top of your library.
 
 
-:mtgtip:`Bird Admirer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1631300109|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
+:mtgtip:`Bird Admirer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1631797629|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
    Reach
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Wing Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1631300109|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
+:mtgtip:`Wing Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1631797629|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
    Reach
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
@@ -1239,10 +1239,6 @@
    Ward |mana_3| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_3|.)
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
-
-
-:mtgtip:`Candlelit Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1630609595|https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api>`
-   Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlelit Cavalry gains trample until end of turn.
 
 
 :mtgtip:`Clear Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27476d9c-006d-4227-a5f2-49c7234b84a1.jpg?1630666667|https://scryfall.com/card/mid/176/clear-shot?utm_source=api>`
@@ -1701,12 +1697,12 @@
    Flashback |mana_2|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Rootcoil Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1631301130|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
+:mtgtip:`Rootcoil Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1631715296|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
    |tap|: Add one mana of any color.
 
    |tap|: Add two mana of any one color. Spend this mana only to cast spells from your graveyard.
 
-   |mana_g|\ |mana_u|, |tap|, Exile Rootcoil Creeper: Return target card with flashback you own in exile to your hand.
+   |mana_g|\ |mana_u|, |tap|, Exile Rootcoil Creeper: Return target card with flashback you own from exile to your hand.
 
 
 :mtgtip:`Sacred Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.jpg?1631301151|https://scryfall.com/card/mid/239/sacred-fire?utm_source=api>`
@@ -1835,7 +1831,7 @@
    |mana_1|, Exile Jack-o'-Lantern from your graveyard: Add one mana of any color.
 
 
-:mtgtip:`Moonsilver Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1631136000|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
+:mtgtip:`Moonsilver Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1631856056|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Moonsilver Key: Search your library for an artifact card with a mana ability or a basic land card, reveal it, put it into your hand, then shuffle.
 
 

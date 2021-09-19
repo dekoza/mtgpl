@@ -55,7 +55,7 @@
    When Haazda Officer enters the battlefield, target creature you control gets +1/+1 until end of turn.
 
 
-:mtgtip:`Hero of Precinct One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87732718-1067-4e5f-a76d-409539c9ef3f.jpg?1584829910|https://scryfall.com/card/rna/11/hero-of-precinct-one?utm_source=api>`
+:mtgtip:`Hero of Precinct One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87732718-1067-4e5f-a76d-409539c9ef3f.jpg?1630189261|https://scryfall.com/card/rna/11/hero-of-precinct-one?utm_source=api>`
    Whenever you cast a multicolored spell, create a 1/1 white Human creature token.
 
 

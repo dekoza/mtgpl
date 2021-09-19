@@ -203,7 +203,7 @@
    Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.
 
 
-:mtgtip:`Gifts Ungiven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1593813064|https://scryfall.com/card/mm3/40/gifts-ungiven?utm_source=api>`
+:mtgtip:`Gifts Ungiven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1627449105|https://scryfall.com/card/mm3/40/gifts-ungiven?utm_source=api>`
    Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.
 
 

@@ -336,7 +336,7 @@
 
    Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.
 
-   Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   Whenever Prognostic Sphinx attacks, scry 3.
 
 
 :mtgtip:`Sea God's Revenge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5acdf4e4-5933-43dc-bf8b-25f89415db5b.jpg?1562818596|https://scryfall.com/card/ths/61/sea-gods-revenge?utm_source=api>`

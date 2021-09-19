@@ -91,7 +91,7 @@
    0: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."
 
 
-:mtgtip:`Gideon's Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e2524fb-ec90-4f8e-b851-f78034edef3f.jpg?1543674662|https://scryfall.com/card/akh/15/gideons-intervention?utm_source=api>`
+:mtgtip:`Gideon's Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e2524fb-ec90-4f8e-b851-f78034edef3f.jpg?1628800567|https://scryfall.com/card/akh/15/gideons-intervention?utm_source=api>`
    As Gideon's Intervention enters the battlefield, choose a card name.
 
    Your opponents can't cast spells with the chosen name.

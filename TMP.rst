@@ -35,7 +35,7 @@
    Sacrifice an enchantment: Auratog gets +2/+2 until end of turn.
 
 
-:mtgtip:`Avenging Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28333138-60bc-459b-a0cd-1b7fd19c89cd.jpg?1562053263|https://scryfall.com/card/tmp/7/avenging-angel?utm_source=api>`
+:mtgtip:`Avenging Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28333138-60bc-459b-a0cd-1b7fd19c89cd.jpg?1631747760|https://scryfall.com/card/tmp/7/avenging-angel?utm_source=api>`
    Flying
 
    When Avenging Angel dies, you may put it on top of its owner's library.
@@ -1287,7 +1287,7 @@
    |mana_1|\ |mana_g|: Target creature blocks Trumpeting Armodon this turn if able.
 
 
-:mtgtip:`Verdant Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29bd094c-fcc1-4abf-ba3e-03a5b9b6d1c2.jpg?1562053266|https://scryfall.com/card/tmp/263/verdant-force?utm_source=api>`
+:mtgtip:`Verdant Force<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29bd094c-fcc1-4abf-ba3e-03a5b9b6d1c2.jpg?1627168433|https://scryfall.com/card/tmp/263/verdant-force?utm_source=api>`
    At the beginning of each upkeep, create a 1/1 green Saproling creature token.
 
 

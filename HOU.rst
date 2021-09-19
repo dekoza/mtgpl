@@ -15,7 +15,7 @@
    Eternalize |mana_3|\ |mana_w|\ |mana_w| (|mana_3|\ |mana_w|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)
 
 
-:mtgtip:`Angel of Condemnation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90dad070-e41d-419b-ae27-ace82b9ab2c5.jpg?1562806932|https://scryfall.com/card/hou/3/angel-of-condemnation?utm_source=api>`
+:mtgtip:`Angel of Condemnation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90dad070-e41d-419b-ae27-ace82b9ab2c5.jpg?1630628666|https://scryfall.com/card/hou/3/angel-of-condemnation?utm_source=api>`
    Flying, vigilance
 
    |mana_2|\ |mana_w|, |tap|: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.

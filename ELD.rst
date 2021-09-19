@@ -785,7 +785,7 @@
    Equip abilities you activate that target Fervent Champion cost |mana_3| less to activate.
 
 
-:mtgtip:`Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790|https://scryfall.com/card/eld/125/fires-of-invention?utm_source=api>`
+:mtgtip:`Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1628801715|https://scryfall.com/card/eld/125/fires-of-invention?utm_source=api>`
    You can cast spells only during your turn and you can cast no more than two spells each turn.
 
    You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
@@ -1035,7 +1035,7 @@
    Adamant — If at least three green mana was spent to cast this spell, instead return those cards to your hand and exile Once and Future.
 
 
-:mtgtip:`Once Upon a Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734|https://scryfall.com/card/eld/169/once-upon-a-time?utm_source=api>`
+:mtgtip:`Once Upon a Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1628801815|https://scryfall.com/card/eld/169/once-upon-a-time?utm_source=api>`
    If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.
 
    Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
@@ -1427,7 +1427,7 @@
    Whenever you sacrifice another permanent, you may pay |mana_3|. If you do, create a token that's a copy of Sorcerer's Broom.
 
 
-:mtgtip:`Sorcerous Spyglass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e47e85d1-8c4a-43a9-92b3-7cb2a5b89219.jpg?1572491099|https://scryfall.com/card/eld/233/sorcerous-spyglass?utm_source=api>`
+:mtgtip:`Sorcerous Spyglass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e47e85d1-8c4a-43a9-92b3-7cb2a5b89219.jpg?1628801897|https://scryfall.com/card/eld/233/sorcerous-spyglass?utm_source=api>`
    As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
 
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.

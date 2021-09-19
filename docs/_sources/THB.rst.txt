@@ -425,7 +425,7 @@
    • Counter target spell unless its controller pays twice |mana_x|.
 
 
-:mtgtip:`Thassa's Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1621447218|https://scryfall.com/card/thb/73/thassas-oracle?utm_source=api>`
+:mtgtip:`Thassa's Oracle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1628801828|https://scryfall.com/card/thb/73/thassas-oracle?utm_source=api>`
    When Thassa's Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)
 
 
@@ -1047,7 +1047,7 @@
    When Hyrax Tower Scout enters the battlefield, untap target creature.
 
 
-:mtgtip:`Ilysian Caryatid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cdf8ab8-f221-4f7b-9af9-3849cad1f596.jpg?1581480645|https://scryfall.com/card/thb/174/ilysian-caryatid?utm_source=api>`
+:mtgtip:`Ilysian Caryatid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cdf8ab8-f221-4f7b-9af9-3849cad1f596.jpg?1631136183|https://scryfall.com/card/thb/174/ilysian-caryatid?utm_source=api>`
    |tap|: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.
 
 
@@ -1381,7 +1381,7 @@
    Enchanted creature gets +1/+1 and has lifelink and "Whenever this creature deals combat damage to a player, draw a card."
 
 
-:mtgtip:`Uro, Titan of Nature's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d.jpg?1613386754|https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath?utm_source=api>`
+:mtgtip:`Uro, Titan of Nature's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d.jpg?1628801843|https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath?utm_source=api>`
    When Uro enters the battlefield, sacrifice it unless it escaped.
 
    Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.

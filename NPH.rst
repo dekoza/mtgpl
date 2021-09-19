@@ -493,10 +493,10 @@
    Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| and "Equipped creature gets +X/+0," where X is that artifact's mana value.
 
 
-:mtgtip:`Chancellor of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f.jpg?1562882041|https://scryfall.com/card/nph/81/chancellor-of-the-forge?utm_source=api>`
+:mtgtip:`Chancellor of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f.jpg?1627006822|https://scryfall.com/card/nph/81/chancellor-of-the-forge?utm_source=api>`
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with haste.
 
-   When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin creature tokens with haste, where X is the number of creatures you control.
+   When Chancellor of the Forge enters the battlefield, create X 1/1 red Phyrexian Goblin creature tokens with haste, where X is the number of creatures you control.
 
 
 :mtgtip:`Fallen Ferromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b200986-f553-4156-8f5e-37678db09687.jpg?1562878979|https://scryfall.com/card/nph/82/fallen-ferromancer?utm_source=api>`

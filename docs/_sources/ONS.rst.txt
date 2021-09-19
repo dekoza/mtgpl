@@ -1319,7 +1319,7 @@
    Each player's life total becomes the number of creatures they control.
 
 
-:mtgtip:`Birchlore Rangers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ce3a3a1-3569-4909-a604-f78d4888781e.jpg?1562928197|https://scryfall.com/card/ons/248/birchlore-rangers?utm_source=api>`
+:mtgtip:`Birchlore Rangers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ce3a3a1-3569-4909-a604-f78d4888781e.jpg?1626726613|https://scryfall.com/card/ons/248/birchlore-rangers?utm_source=api>`
    Tap two untapped Elves you control: Add one mana of any color.
 
    Morph |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)

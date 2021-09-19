@@ -129,7 +129,7 @@
    Stunning Strike — |mana_1|\ |mana_w|, |tap|: Tap target creature.
 
 
-:mtgtip:`Icingdeath, Frost Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad.jpg?1627701883|https://scryfall.com/card/afr/20/icingdeath-frost-tyrant?utm_source=api>`
+:mtgtip:`Icingdeath, Frost Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad.jpg?1630107263|https://scryfall.com/card/afr/20/icingdeath-frost-tyrant?utm_source=api>`
    Flying, vigilance
 
    When Icingdeath, Frost Tyrant dies, create Icingdeath, Frost Tongue, a legendary white Equipment artifact token with "Equipped creature gets +2/+0," "Whenever equipped creature attacks, tap target creature defending player controls," and equip |mana_2|.

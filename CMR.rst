@@ -2185,7 +2185,7 @@
    Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
 
 
-:mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1618695835|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`
+:mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1628801823|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`
    Exile target creature. Its controller gains life equal to its power.
 
 
@@ -2653,7 +2653,7 @@
    |mana_1|, |tap|: Add |mana_g|\ |mana_u|.
 
 
-:mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58b26011-e103-45c4-a253-900f4e6b2eeb.jpg?1608917895|https://scryfall.com/card/cmr/472/sol-ring?utm_source=api>`
+:mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58b26011-e103-45c4-a253-900f4e6b2eeb.jpg?1627501347|https://scryfall.com/card/cmr/472/sol-ring?utm_source=api>`
    |tap|: Add |colorless|\ |colorless|.
 
 

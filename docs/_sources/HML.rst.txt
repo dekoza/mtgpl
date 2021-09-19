@@ -17,7 +17,7 @@
    |tap|: Tap target creature with power 2 or less.
 
 
-:mtgtip:`Aysen Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7908cfdc-5ed6-48a8-a5b9-351864f8b4fd.jpg?1562587735|https://scryfall.com/card/hml/4/aysen-crusader?utm_source=api>`
+:mtgtip:`Aysen Crusader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/7908cfdc-5ed6-48a8-a5b9-351864f8b4fd.jpg?1627305785|https://scryfall.com/card/hml/4/aysen-crusader?utm_source=api>`
    Aysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.
 
 
@@ -287,7 +287,7 @@
    Creatures can't attack you unless their controller pays |mana_2| for each creature they control that's attacking you.
 
 
-:mtgtip:`Sengir Autocrat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d16e024-7865-43d0-8cd8-8933ef741d05.jpg?1562587044|https://scryfall.com/card/hml/56/sengir-autocrat?utm_source=api>`
+:mtgtip:`Sengir Autocrat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d16e024-7865-43d0-8cd8-8933ef741d05.jpg?1629338108|https://scryfall.com/card/hml/56/sengir-autocrat?utm_source=api>`
    When Sengir Autocrat enters the battlefield, create three 0/1 black Serf creature tokens.
 
    When Sengir Autocrat leaves the battlefield, exile all Serf tokens.

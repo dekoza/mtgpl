@@ -1581,7 +1581,7 @@
    Lightning Axe deals 5 damage to target creature.
 
 
-:mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786|https://scryfall.com/card/jmp/342/lightning-bolt?utm_source=api>`
+:mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1628801721|https://scryfall.com/card/jmp/342/lightning-bolt?utm_source=api>`
    Lightning Bolt deals 3 damage to any target.
 
 

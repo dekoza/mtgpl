@@ -189,7 +189,7 @@
    Draw a card.
 
 
-:mtgtip:`Resurrection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a176b295-9406-4d6b-b15c-e81a72e66874.jpg?1547515773|https://scryfall.com/card/uma/30/resurrection?utm_source=api>`
+:mtgtip:`Resurrection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a176b295-9406-4d6b-b15c-e81a72e66874.jpg?1629745911|https://scryfall.com/card/uma/30/resurrection?utm_source=api>`
    Return target creature card from your graveyard to the battlefield.
 
 
