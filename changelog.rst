@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2021-09-20
+   * Innistrad: Midnight Hunt - 100%
+
 2021-07-24
    * Seventh Edition - 100%
    * Classic Sixth Edition - 100%
