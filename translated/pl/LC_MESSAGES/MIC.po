@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-16 22:42+0200\n"
-"PO-Revision-Date: 2021-09-16 21:37+0000\n"
+"PO-Revision-Date: 2021-09-21 13:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mic/pl/>\n"
 "Language: pl\n"
@@ -244,6 +244,9 @@ msgid ""
 "to one target creature you control. Then if you control three or more "
 "creatures with different powers, draw a card."
 msgstr ""
+"Sabat — Na początku potyczki w twojej turze, umieść znacznik +1/+1 na co "
+"najwyżej jednym wskazanym stworze pod twoim władaniem. Następnie jeśli "
+"władasz co najmniej trzema stworami o różnych siłach, dobierz kartę."
 
 #: ../../MIC.rst:16
 msgid ""
@@ -258,12 +261,17 @@ msgid ""
 "a 2/2 black Zombie creature token with decayed. (It can't block. When it "
 "attacks, sacrifice it at end of combat.)"
 msgstr ""
+"Ilekroć umrze inny Zombi pod twoim władaniem, jeśli nie miał on zgnilizny, "
+"stwórz żeton czarnego stwora Zombi 2/2 ze zgnilizną. (Nie może blokować. "
+"Kiedy zaatakuje, poświęć go na końcu potyczki.)"
 
 #: ../../MIC.rst:15
 msgid ""
 "At the beginning of your end step, you may sacrifice a Zombie. If you do, "
 "draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz poświęcić Zombi. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../MIC.rst:22
 msgid ""
@@ -277,12 +285,17 @@ msgid ""
 "Whenever another creature you control dies, investigate. (Create a colorless "
 "Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, dociekaj. (Stwórz żeton "
+"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../MIC.rst:21
 msgid ""
 "Whenever you sacrifice a token, surveil 1. (Look at the top card of your "
 "library. You may put that card into your graveyard.)"
 msgstr ""
+"Ilekroć poświęcisz żeton, szpieguj 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../MIC.rst:28
 msgid ""
@@ -297,12 +310,16 @@ msgid ""
 "Whenever another Human enters the battlefield under your control, put a +1/"
 "+1 counter on Kyler, Sigardian Emissary."
 msgstr ""
+"Ilekroć inny Człowiek wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../MIC.rst:27
 msgid ""
 "Other Humans you control get +1/+1 for each counter on Kyler, Sigardian "
 "Emissary."
 msgstr ""
+"Inne stwory typu Człowiek pod twoim władaniem dostają +1/+1 za każdy "
+"znacznik na niniejszym stworze."
 
 #: ../../MIC.rst:32
 msgid ""
@@ -316,6 +333,8 @@ msgid ""
 "For each different power among creatures on the battlefield, choose a "
 "creature with that power. Destroy each creature not chosen this way."
 msgstr ""
+"Za każdą różną wartość siły pośród stworów na polu bitwy, wybierz stwora z "
+"ową siłą. Zniszcz wszystkie stwory nie wybrane w ten sposób."
 
 #: ../../MIC.rst:38
 msgid ""
@@ -334,6 +353,8 @@ msgid ""
 "Nonlegendary creatures enchanted player controls have base power and "
 "toughness 3/3 and lose all creature types."
 msgstr ""
+"Nielegendarne stwory pod władaniem zauroczonego gracza mają bazowe siłę i "
+"wytrzymałość 3/3 i tracą wszystkie typy stworów."
 
 #: ../../MIC.rst:42
 msgid ""
