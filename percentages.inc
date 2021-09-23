@@ -128,7 +128,7 @@
 
 .. |POR_percent| image:: images/pie70.png        
 
-.. |MIC_percent| image:: images/pie70.png        
+.. |MIC_percent| image:: images/pie75.png        
 
 .. |JMP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

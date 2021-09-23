@@ -1781,7 +1781,7 @@
    Flashback |mana_2|\ |mana_r|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Vadrik, Astral Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1631136211|https://scryfall.com/card/mid/248/vadrik-astral-archmage?utm_source=api>`
+:mtgtip:`Vadrik, Astral Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1632156188|https://scryfall.com/card/mid/248/vadrik-astral-archmage?utm_source=api>`
    If it's neither day nor night, it becomes day as Vadrik, Astral Archmage enters the battlefield.
 
    Instant and sorcery spells you cast cost |mana_x| less to cast, where X is Vadrik's power.
