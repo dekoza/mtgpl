@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-27 13:58+0200\n"
-"PO-Revision-Date: 2021-09-20 19:07+0000\n"
+"PO-Revision-Date: 2021-09-27 12:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -276,11 +276,6 @@ msgstr ""
 "przetasuj."
 
 #: ../../MID.rst:19
-#, fuzzy
-#| msgid ""
-#| "Coven—|mana_1|\\ |mana_w|\\ |mana_w|: Transform Ambitious Farmhand. "
-#| "Activate only if you control three or more creatures with different "
-#| "powers."
 msgid ""
 "Coven — |mana_1|\\ |mana_w|\\ |mana_w|: Transform Ambitious Farmhand. "
 "Activate only if you control three or more creatures with different powers."
@@ -746,10 +741,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:157
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. If it is a Human, it gets "
-#| "+3/+3 and gains indestructible until end of turn instead."
 msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Human, it gets +3/+3 "
 "and gains indestructible until end of turn instead."
@@ -870,11 +861,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:193
-#, fuzzy
-#| msgid ""
-#| "When Intrepid Adversary enters the battlefield, you may pay |mana_1|\\ |"
-#| "mana_w| any number of times. When you pay this cost once or more times, "
-#| "put that many valor counters on Intrepid Adversary."
 msgid ""
 "When Intrepid Adversary enters the battlefield, you may pay |mana_1|\\ |"
 "mana_w| any number of times. When you pay this cost one or more times, put "
@@ -1310,16 +1296,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:335
-#, fuzzy
-#| msgid ""
-#| "When Ghostly Castigator enters the battlefield, shuffle up to three "
-#| "target cards from your graveyard into your library."
 msgid ""
 "When Ghostly Castigator enters the battlefield, you may shuffle up to three "
 "target cards from your graveyard into your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wtasuj co najwyżej trzy wskazane "
-"karty z twojego cmentarza do twojej biblioteki."
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wtasować co najwyżej trzy "
+"wskazane karty z twojego cmentarza do twojej biblioteki."
 
 #: ../../MID.rst:337
 msgid ""
@@ -2180,14 +2162,11 @@ msgstr ""
 "dostaje do końca tury -1/-1."
 
 #: ../../MID.rst:617
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature blocking Baneclaw Marauder dies, its controller loses "
-#| "1 life."
 msgid ""
 "Whenever a creature blocking Baneclaw Marauder dies, that creature's "
 "controller loses 1 life."
-msgstr "Ilekroć umrze stwór blokujący tego stwora, jego władca traci 1 życie."
+msgstr ""
+"Ilekroć umrze stwór blokujący tego stwora, władca owego stwora traci 1 życie."
 
 #: ../../MID.rst:624
 msgid ""
@@ -2594,12 +2573,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:751
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, |tap|, Pay 1 life, Discard a card: Draw a card, mill a card, "
-#| "then put a ritual counter on Heirloom Mirror. Then if it has 3 or more "
-#| "ritual counters on it, remove them and transform it. Activate only as a "
-#| "sorcery."
 msgid ""
 "|mana_1|, |tap|, Pay 1 life, Discard a card: Draw a card, mill a card, then "
 "put a ritual counter on Heirloom Mirror. Then if it has three or more ritual "
@@ -2607,7 +2580,7 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|, zapłać 1 życie, odrzuć kartę: Dobierz kartę, zmiel kartę, "
 "pocz czym umieść znacznik rytuału na tym artefakcie. Następnie jeśli ma on "
-"co najmniej 3 znaczniki rytuału, usuń je i transformuj go. Aktywuj tylko "
+"co najmniej trzy znaczniki rytuału, usuń je i transformuj go. Aktywuj tylko "
 "jako obrzęd."
 
 #: ../../MID.rst:758
@@ -3179,11 +3152,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:931
-#, fuzzy
-#| msgid ""
-#| "Burn the Accused deals 5 damage to target creature and 2 damage to that "
-#| "creature's controller. If that creature would die this turn, exile it "
-#| "instead."
 msgid ""
 "Burn the Accursed deals 5 damage to target creature and 2 damage to that "
 "creature's controller. If that creature would die this turn, exile it "
@@ -3636,11 +3604,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1081
-#, fuzzy
-#| msgid ""
-#| "Whenever Purifying Dragon attacks, it deals 1 damage to target creature "
-#| "defending player controls. If that creature is a Zombie, Purifying Dragon "
-#| "deals 2 damage to that creature instead."
 msgid ""
 "Whenever Purifying Dragon attacks, it deals 1 damage to target creature "
 "defending player controls. If that creature is a Zombie, Purifying Dragon "
@@ -4394,12 +4357,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1355
-#, fuzzy
-#| msgid ""
-#| "Search your library for a basic land card, put that card onto the "
-#| "battlefield tapped, then shuffle. Then if there are three or more basic "
-#| "land types among lands you control, scry 1. (Lok at the top card of your "
-#| "library. You may put that card on the bottom of your library.)"
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield tapped, then shuffle. Then if there are three or more basic land "
@@ -4551,19 +4508,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1409
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. Put up to two permanent cards "
-#| "with mana value 5 or less from among them onto the battlefield. Put the "
-#| "rest on the bottom of your library in a random order."
 msgid ""
 "Look at the top five cards of your library. You may put up to two permanent "
 "cards with mana value 5 or less from among them onto the battlefield. Put "
 "the rest on the bottom of your library in a random order."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść co najwyżej dwie "
-"karty permanentów o skrótach many 5 lub mniejszych spośród nich na polu "
-"bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz umieścić co "
+"najwyżej dwie karty permanentów o skrótach many 5 lub mniejszych spośród "
+"nich na polu bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../MID.rst:1411
 msgid ""
@@ -5382,11 +5334,6 @@ msgid ""
 msgstr "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zmiel kartę."
 
 #: ../../MID.rst:1669
-#, fuzzy
-#| msgid ""
-#| "|mana_x|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|, Exile X creature "
-#| "cards from your graveyard: Transform Ludevic, Necrogenius. X can't be "
-#| "zero. Activate only as a sorcery."
 msgid ""
 "|mana_x|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|, Exile X creature cards "
 "from your graveyard: Transform Ludevic. X can't be 0. Activate only as a "
@@ -5425,12 +5372,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1677
-#, fuzzy
-#| msgid ""
-#| "When you cast this spell, reveal cards from the top of your library until "
-#| "you reveal X creature cards. Put all the creature cards revealed this way "
-#| "into your graveyard and the rest on the bottom of your library in a "
-#| "random order."
 msgid ""
 "When you cast this spell, reveal cards from the top of your library until "
 "you reveal X creature cards. Put all creature cards revealed this way into "
@@ -5441,10 +5382,6 @@ msgstr ""
 "sposób w twoim cmentarzu, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../MID.rst:1679
-#, fuzzy
-#| msgid ""
-#| "Old Stickfingers' power and toughness are each equal to the number of "
-#| "creature cards in your graveyard."
 msgid ""
 "Old Stickfingers's power and toughness are each equal to the number of "
 "creature cards in your graveyard."
@@ -5517,10 +5454,8 @@ msgstr ""
 "Jako dodatkowy koszt rzucenia tego czaru — poświęć nielądowy permanent."
 
 #: ../../MID.rst:1699
-#, fuzzy
-#| msgid "Exile target nonland permanent"
 msgid "Exile target nonland permanent."
-msgstr "Wygnaj wskazany nielądowy permanent"
+msgstr "Wygnaj wskazany nielądowy permanent."
 
 #: ../../MID.rst:1701
 msgid ""
@@ -5790,11 +5725,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1783
-#, fuzzy
-#| msgid ""
-#| "It becomes night. Until end of turn, target creature gets +1/+0 and gains "
-#| "trample and has \"Whenever this creature deals combat damage to a player, "
-#| "draw a card.\""
 msgid ""
 "It becomes night. Until end of turn, target creature gets +1/+0 and gains "
 "trample and \"Whenever this creature deals combat damage to a player, draw a "
