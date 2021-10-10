@@ -154,7 +154,7 @@
 
 
 :mtgtip:`Flare of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b4354c6-ea21-46c0-93c4-744dbacbfcf4.jpg?1632661124|https://scryfall.com/card/mid/19/flare-of-faith?utm_source=api>`
-   Target creature gets +2/+2 until end of turn. If it's a Human, it gets +3/+3 and gains indestructible until end of turn instead.
+   Target creature gets +2/+2 until end of turn. If it's a Human, instead it gets +3/+3 and gains indestructible until end of turn.
 
 
 :mtgtip:`Gavony Dawnguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58891dae-1c59-4f53-82ec-5b4c47133182.jpg?1630694302|https://scryfall.com/card/mid/20/gavony-dawnguard?utm_source=api>`
@@ -324,7 +324,7 @@
 
 
 :mtgtip:`Covetous Castaway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1632660815|https://scryfall.com/card/mid/45/covetous-castaway-ghostly-castigator?utm_source=api>`
-   When Covetous Castaway dies, mill three cards.
+   When Covetous Castaway dies, mill three cards. (Put the top three cards of your library into your graveyard.)
 
    Disturb |mana_3|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
@@ -472,7 +472,7 @@
 
 
 :mtgtip:`Organ Hoarder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9716d384-88d1-415e-882f-7fed9be1adc6.jpg?1631132452|https://scryfall.com/card/mid/66/organ-hoarder?utm_source=api>`
-   When Organ Hoarder enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest into you graveyard.
+   When Organ Hoarder enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest into your graveyard.
 
 
 :mtgtip:`Otherworldly Gaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1631294190|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`
@@ -512,7 +512,7 @@
 :mtgtip:`Poppet Stitcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1630746254|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
    Whenever you cast an instant or sorcery spell, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
-   At the beginning of your upkeep, if you control three or more creature tokens, you may transform Poppet Sticher.
+   At the beginning of your upkeep, if you control three or more creature tokens, you may transform Poppet Stitcher.
 
 
 :mtgtip:`Poppet Factory<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1630746254|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
@@ -562,7 +562,7 @@
 
 
 :mtgtip:`Stormrider Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.jpg?1631296237|https://scryfall.com/card/mid/79/stormrider-spirit?utm_source=api>`
-   Flash (You may cast this spell any time you could cast an instant.)
+   Flash
 
    Flying
 
@@ -663,7 +663,7 @@
    If Covetous Geist would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Crawl from the Cellar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1631296930|https://scryfall.com/card/mid/93/crawl-from-the-cellar?utm_source=api>`
+:mtgtip:`Crawl from the Cellar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1633065264|https://scryfall.com/card/mid/93/crawl-from-the-cellar?utm_source=api>`
    Return target creature card from your graveyard to your hand. Put a +1/+1 counter on up to one target Zombie you control.
 
    Flashback |mana_3|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
@@ -874,7 +874,7 @@
 :mtgtip:`Tainted Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b9b8fc-c30d-49e7-bb6c-219380d73a82.jpg?1630958224|https://scryfall.com/card/mid/124/tainted-adversary?utm_source=api>`
    Deathtouch
 
-   When Tainted Adversary enters the battlefield, you may pay |mana_2|\ |mana_b| any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Tainted Adversary, then create twice that many black 2/2 Zombie creature tokens with decayed. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
+   When Tainted Adversary enters the battlefield, you may pay |mana_2|\ |mana_b| any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Tainted Adversary, then create twice that many 2/2 black Zombie creature tokens with decayed. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
 
 :mtgtip:`Vampire Interloper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e2ea59-36f1-4e95-bfe8-7008b085194f.jpg?1631297589|https://scryfall.com/card/mid/125/vampire-interloper?utm_source=api>`
@@ -892,7 +892,7 @@
 :mtgtip:`Strangling Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1631223080|https://scryfall.com/card/mid/126/vengeful-strangler-strangling-grasp?utm_source=api>`
    Enchant creature or planeswalker an opponent controls
 
-   At the beginning of your upkeep, enchanted permanent's controller sacrifices a nonland permanent and loses 1 life.
+   At the beginning of your upkeep, enchanted permanent's controller sacrifices a nonland permanent, then that player loses 1 life.
 
 
 :mtgtip:`Abandon the Post<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/983da138-f0f5-46c4-90c2-d3c34cc37d1f.jpg?1631297982|https://scryfall.com/card/mid/127/abandon-the-post?utm_source=api>`
@@ -1102,7 +1102,7 @@
 
 
 :mtgtip:`Seize the Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532e079f-55b7-4b92-b489-aed4d3becae7.jpg?1631298813|https://scryfall.com/card/mid/158/seize-the-storm?utm_source=api>`
-   Create a red Elemental creature token with trample and "This creature's power and toughness are each equal to the number of instant and sorcery cards in your graveyard, plus the number of cards with flashback you own in exile."
+   Create a red Elemental creature token with trample and "This creature's power and toughness are each equal to the number of instant and sorcery cards in your graveyard plus the number of cards with flashback you own in exile."
 
    Flashback |mana_6|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
@@ -1241,10 +1241,6 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Candlelit Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1630609595|https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api>`
-   Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlelit Cavalry gains trample until end of turn.
-
-
 :mtgtip:`Clear Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27476d9c-006d-4227-a5f2-49c7234b84a1.jpg?1630666667|https://scryfall.com/card/mid/176/clear-shot?utm_source=api>`
    Target creature you control gets +1/+1 until end of turn. It deals damage equal to its power to target creature you don't control.
 
@@ -1252,7 +1248,7 @@
 :mtgtip:`Consuming Blob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4540fa4b-93e8-4749-a839-9a6e816c1145.jpg?1631300292|https://scryfall.com/card/mid/177/consuming-blob?utm_source=api>`
    Consuming Blob's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.
 
-   At the beginning of your end step, create a green Ooze creature token with "This creature's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1".
+   At the beginning of your end step, create a green Ooze creature token with "This creature's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1."
 
 
 :mtgtip:`Contortionist Troupe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c81da535-04e4-4dc8-9e12-7b417aba2f39.jpg?1630695592|https://scryfall.com/card/mid/178/contortionist-troupe?utm_source=api>`
@@ -1434,7 +1430,7 @@
 
 
 :mtgtip:`Tovolar's Huntmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1631300854|https://scryfall.com/card/mid/204/tovolars-huntmaster-tovolars-packleader?utm_source=api>`
-   Whenever Tovolar's Huntmaster enters the battlefield, create two 2/2 green Wolf creature tokens.
+   When Tovolar's Huntmaster enters the battlefield, create two 2/2 green Wolf creature tokens.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
@@ -1510,7 +1506,7 @@
 :mtgtip:`Can't Stay Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.jpg?1631054340|https://scryfall.com/card/mid/213/cant-stay-away?utm_source=api>`
    Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains "If this creature would die, exile it instead."
 
-   Flashback |mana_3|\ |mana_w|\ |mana_b|
+   Flashback |mana_3|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 :mtgtip:`Corpse Cobble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1631300960|https://scryfall.com/card/mid/214/corpse-cobble?utm_source=api>`
@@ -1518,7 +1514,7 @@
 
    Create an X/X blue and black Zombie creature token with menace, where X is the total power of the sacrificed creatures.
 
-   Flashback |mana_3|\ |mana_u|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_u|\ |mana_b| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
 :mtgtip:`Croaking Counterpart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1630753062|https://scryfall.com/card/mid/215/croaking-counterpart?utm_source=api>`
@@ -1670,11 +1666,11 @@
 
 
 :mtgtip:`Olag, Ludevic's Hubris<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1631607468|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
-   As this creature transforms in Olag, Ludevic's Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic's Hubris, it's 4/4, and it's a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it.
+   As this creature transforms into Olag, Ludevic's Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic's Hubris, it's 4/4, and it's a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it.
 
 
 :mtgtip:`Old Stickfingers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.jpg?1631501130|https://scryfall.com/card/mid/234/old-stickfingers?utm_source=api>`
-   When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard and the rest on the bottom of your library in a random order.
+   When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard, then put the rest on the bottom of your library in a random order.
 
    Old Stickfingers's power and toughness are each equal to the number of creature cards in your graveyard.
 
@@ -1698,7 +1694,7 @@
 
    Exile target nonland permanent.
 
-   Flashback |mana_2|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
 :mtgtip:`Rootcoil Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1631715296|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
