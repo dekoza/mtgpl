@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-16 22:42+0200\n"
+"POT-Creation-Date: 2021-10-10 22:16+0200\n"
 "PO-Revision-Date: 2021-09-25 09:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mic/pl/>\n"
@@ -234,7 +234,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Leinore, Autumn Sovereign<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/b/d/bd7e1645-ea8f-41c4-b3ee-58f44fc5c574.jpg?"
-"1631659672|https://scryfall.com/card/mic/1/leinore-autumn-sovereign?"
+"1633072521|https://scryfall.com/card/mic/1/leinore-autumn-sovereign?"
 "utm_source=api>`"
 msgstr ""
 
@@ -251,7 +251,7 @@ msgstr ""
 #: ../../MIC.rst:16
 msgid ""
 ":mtgtip:`Wilhelt, the Rotcleaver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/5/2501a911-d072-436d-ae3b-a5164e3b30aa.jpg?1631659674|"
+"border_crop/front/2/5/2501a911-d072-436d-ae3b-a5164e3b30aa.jpg?1633073400|"
 "https://scryfall.com/card/mic/2/wilhelt-the-rotcleaver?utm_source=api>`"
 msgstr ""
 
@@ -276,7 +276,7 @@ msgstr ""
 #: ../../MIC.rst:22
 msgid ""
 ":mtgtip:`Eloise, Nephalia Sleuth<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bf81da34-4c2b-4e54-a60b-46ab41f72431.jpg?1631659677|"
+"border_crop/front/b/f/bf81da34-4c2b-4e54-a60b-46ab41f72431.jpg?1633072217|"
 "https://scryfall.com/card/mic/3/eloise-nephalia-sleuth?utm_source=api>`"
 msgstr ""
 
@@ -301,7 +301,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Kyler, Sigardian Emissary<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/6/2/62a78aae-598e-4f2b-a7bc-c3afc1d0d191.jpg?"
-"1631659680|https://scryfall.com/card/mic/4/kyler-sigardian-emissary?"
+"1633072512|https://scryfall.com/card/mic/4/kyler-sigardian-emissary?"
 "utm_source=api>`"
 msgstr ""
 
@@ -314,9 +314,11 @@ msgstr ""
 "znacznik +1/+1 na niniejszym stworze."
 
 #: ../../MIC.rst:27
-msgid ""
-"Other Humans you control get +1/+1 for each counter on Kyler, Sigardian "
-"Emissary."
+#, fuzzy
+#| msgid ""
+#| "Other Humans you control get +1/+1 for each counter on Kyler, Sigardian "
+#| "Emissary."
+msgid "Other Humans you control get +1/+1 for each counter on Kyler."
 msgstr ""
 "Inne stwory typu Człowiek pod twoim władaniem dostają +1/+1 za każdy "
 "znacznik na niniejszym stworze."
@@ -324,7 +326,7 @@ msgstr ""
 #: ../../MIC.rst:32
 msgid ""
 ":mtgtip:`Celestial Judgment<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/f/5fd29cd7-9950-49c0-9e71-d6b0f944292c.jpg?1631660335|"
+"border_crop/front/5/f/5fd29cd7-9950-49c0-9e71-d6b0f944292c.jpg?1633071920|"
 "https://scryfall.com/card/mic/5/celestial-judgment?utm_source=api>`"
 msgstr ""
 
@@ -339,7 +341,7 @@ msgstr ""
 #: ../../MIC.rst:38
 msgid ""
 ":mtgtip:`Curse of Conformity<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/a/0a88083d-726a-4239-b849-2a4431ef1cd7.jpg?1631660358|"
+"border_crop/front/0/a/0a88083d-726a-4239-b849-2a4431ef1cd7.jpg?1633072117|"
 "https://scryfall.com/card/mic/6/curse-of-conformity?utm_source=api>`"
 msgstr ""
 
@@ -359,7 +361,7 @@ msgstr ""
 #: ../../MIC.rst:42
 msgid ""
 ":mtgtip:`Moorland Rescuer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/c/0c293b8c-3ebc-4d14-b0a6-5e41d966cba1.jpg?1631660382|"
+"border_crop/front/0/c/0c293b8c-3ebc-4d14-b0a6-5e41d966cba1.jpg?1633073067|"
 "https://scryfall.com/card/mic/7/moorland-rescuer?utm_source=api>`"
 msgstr ""
 
@@ -376,7 +378,7 @@ msgstr ""
 #: ../../MIC.rst:50
 msgid ""
 ":mtgtip:`Sigarda's Vanguard<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/8/d81da23b-b0c1-4e28-ab87-2aaac9b12bb3.jpg?1631660408|"
+"border_crop/front/d/8/d81da23b-b0c1-4e28-ab87-2aaac9b12bb3.jpg?1633073210|"
 "https://scryfall.com/card/mic/8/sigardas-vanguard?utm_source=api>`"
 msgstr ""
 
@@ -403,7 +405,7 @@ msgstr ""
 #: ../../MIC.rst:56
 msgid ""
 ":mtgtip:`Stalwart Pathlighter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/5/a5bf9336-80d6-4751-9630-1d28e24cc0cf.jpg?1631660429|"
+"border_crop/front/a/5/a5bf9336-80d6-4751-9630-1d28e24cc0cf.jpg?1633073250|"
 "https://scryfall.com/card/mic/9/stalwart-pathlighter?utm_source=api>`"
 msgstr ""
 
@@ -424,7 +426,7 @@ msgstr ""
 #: ../../MIC.rst:64
 msgid ""
 ":mtgtip:`Wall of Mourning<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/8/98692a19-c9d4-48bf-9315-d88c44136f8b.jpg?1631660452|"
+"border_crop/front/9/8/98692a19-c9d4-48bf-9315-d88c44136f8b.jpg?1633073395|"
 "https://scryfall.com/card/mic/10/wall-of-mourning?utm_source=api>`"
 msgstr ""
 
@@ -453,7 +455,7 @@ msgstr ""
 #: ../../MIC.rst:68
 msgid ""
 ":mtgtip:`Cleaver Skaab<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/0/30498d6c-29e2-4d05-a5bc-e2e623c5704d.jpg?1631659958|"
+"border_crop/front/3/0/30498d6c-29e2-4d05-a5bc-e2e623c5704d.jpg?1633071951|"
 "https://scryfall.com/card/mic/11/cleaver-skaab?utm_source=api>`"
 msgstr ""
 
@@ -468,7 +470,7 @@ msgstr ""
 #: ../../MIC.rst:74
 msgid ""
 ":mtgtip:`Curse of Unbinding<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/b/6b56ccbc-efc7-4c5c-84be-b63f8c4cd63c.jpg?1631659934|"
+"border_crop/front/6/b/6b56ccbc-efc7-4c5c-84be-b63f8c4cd63c.jpg?1633072136|"
 "https://scryfall.com/card/mic/12/curse-of-unbinding?utm_source=api>`"
 msgstr ""
 
@@ -483,7 +485,7 @@ msgstr ""
 #: ../../MIC.rst:82
 msgid ""
 ":mtgtip:`Drown in Dreams<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/f/af4d5acb-12d6-46d7-aaf9-3ace1520825a.jpg?1631659913|"
+"border_crop/front/a/f/af4d5acb-12d6-46d7-aaf9-3ace1520825a.jpg?1633072211|"
 "https://scryfall.com/card/mic/13/drown-in-dreams?utm_source=api>`"
 msgstr ""
 
@@ -506,7 +508,7 @@ msgstr ""
 #: ../../MIC.rst:86
 msgid ""
 ":mtgtip:`Empty the Laboratory<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/9/191f6693-32d9-448d-8889-f98cf13c2277.jpg?1631659888|"
+"border_crop/front/1/9/191f6693-32d9-448d-8889-f98cf13c2277.jpg?1633072225|"
 "https://scryfall.com/card/mic/14/empty-the-laboratory?utm_source=api>`"
 msgstr ""
 
@@ -521,7 +523,7 @@ msgstr ""
 #: ../../MIC.rst:94
 msgid ""
 ":mtgtip:`Hordewing Skaab<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/e/6e67802e-e0d9-4989-b1c2-77ef2ff69796.jpg?1631659865|"
+"border_crop/front/6/e/6e67802e-e0d9-4989-b1c2-77ef2ff69796.jpg?1633072454|"
 "https://scryfall.com/card/mic/15/hordewing-skaab?utm_source=api>`"
 msgstr ""
 
@@ -539,7 +541,7 @@ msgstr ""
 #: ../../MIC.rst:100
 msgid ""
 ":mtgtip:`Shadow Kin<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/0/0/00ca621f-c409-4255-828b-c9957e82c06f.jpg?1631659841|https://"
+"front/0/0/00ca621f-c409-4255-828b-c9957e82c06f.jpg?1633073203|https://"
 "scryfall.com/card/mic/16/shadow-kin?utm_source=api>`"
 msgstr ""
 
@@ -553,7 +555,7 @@ msgstr ""
 #: ../../MIC.rst:108
 msgid ""
 ":mtgtip:`Crowded Crypt<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/d/3d6114bd-d5d3-441a-80a5-67eb7a355506.jpg?1631659619|"
+"border_crop/front/3/d/3d6114bd-d5d3-441a-80a5-67eb7a355506.jpg?1633072100|"
 "https://scryfall.com/card/mic/17/crowded-crypt?utm_source=api>`"
 msgstr ""
 
@@ -578,7 +580,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Curse of the Restless Dead<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/c/d/cdde244a-d2f4-44b3-badd-d6142785e25c.jpg?"
-"1631659593|https://scryfall.com/card/mic/18/curse-of-the-restless-dead?"
+"1633072129|https://scryfall.com/card/mic/18/curse-of-the-restless-dead?"
 "utm_source=api>`"
 msgstr ""
 
@@ -592,7 +594,7 @@ msgstr ""
 #: ../../MIC.rst:118
 msgid ""
 ":mtgtip:`Ghouls' Night Out<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/5/f532dce5-66b7-4f42-87c3-c7cb8d47d10e.jpg?1631659565|"
+"border_crop/front/f/5/f532dce5-66b7-4f42-87c3-c7cb8d47d10e.jpg?1633072405|"
 "https://scryfall.com/card/mic/19/ghouls-night-out?utm_source=api>`"
 msgstr ""
 
@@ -608,15 +610,15 @@ msgstr ""
 #: ../../MIC.rst:126
 msgid ""
 ":mtgtip:`Gorex, the Tombshell<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/9/398ecf98-b36b-45e1-8ac1-9d364e12d79e.jpg?1631659541|"
+"border_crop/front/3/9/398ecf98-b36b-45e1-8ac1-9d364e12d79e.jpg?1633072419|"
 "https://scryfall.com/card/mic/20/gorex-the-tombshell?utm_source=api>`"
 msgstr ""
 
 #: ../../MIC.rst:121
 msgid ""
-"As an additional cost to cast this spell, you may exile a number of creature "
-"cards from your graveyard. This spell costs |mana_2| less to cast for each "
-"card exiled this way."
+"As an additional cost to cast this spell, you may exile any number of "
+"creature cards from your graveyard. This spell costs |mana_2| less to cast "
+"for each card exiled this way."
 msgstr ""
 
 #: ../../MIC.rst:123 ../../MIC.rst:227 ../../MIC.rst:603
@@ -632,7 +634,7 @@ msgstr ""
 #: ../../MIC.rst:132
 msgid ""
 ":mtgtip:`Prowling Geistcatcher<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/4/84ed5b16-273a-432b-895b-791ffaa5148d.jpg?1631659516|"
+"border_crop/front/8/4/84ed5b16-273a-432b-895b-791ffaa5148d.jpg?1633073162|"
 "https://scryfall.com/card/mic/21/prowling-geistcatcher?utm_source=api>`"
 msgstr ""
 
@@ -651,7 +653,7 @@ msgstr ""
 #: ../../MIC.rst:136
 msgid ""
 ":mtgtip:`Ravenous Rotbelly<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/5/d58d8968-825b-453d-b109-8f975cd99322.jpg?1631659492|"
+"border_crop/front/d/5/d58d8968-825b-453d-b109-8f975cd99322.jpg?1633073170|"
 "https://scryfall.com/card/mic/22/ravenous-rotbelly?utm_source=api>`"
 msgstr ""
 
@@ -665,7 +667,7 @@ msgstr ""
 #: ../../MIC.rst:142
 msgid ""
 ":mtgtip:`Tomb Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/7/3/73315f75-252e-4db2-b48c-a60eafaf25e3.jpg?1631659467|https://"
+"front/7/3/73315f75-252e-4db2-b48c-a60eafaf25e3.jpg?1633073342|https://"
 "scryfall.com/card/mic/23/tomb-tyrant?utm_source=api>`"
 msgstr ""
 
@@ -684,7 +686,7 @@ msgstr ""
 #: ../../MIC.rst:146
 msgid ""
 ":mtgtip:`Celebrate the Harvest<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/0/70432583-33c1-4d1a-bb94-765f6d71fed3.jpg?1631658918|"
+"border_crop/front/7/0/70432583-33c1-4d1a-bb94-765f6d71fed3.jpg?1633071912|"
 "https://scryfall.com/card/mic/24/celebrate-the-harvest?utm_source=api>`"
 msgstr ""
 
@@ -698,7 +700,7 @@ msgstr ""
 #: ../../MIC.rst:152
 msgid ""
 ":mtgtip:`Curse of Clinging Webs<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/e/5e2d349e-fe5f-4627-84b7-2f01982603d2.jpg?1631658893|"
+"border_crop/front/5/e/5e2d349e-fe5f-4627-84b7-2f01982603d2.jpg?1633072107|"
 "https://scryfall.com/card/mic/25/curse-of-clinging-webs?utm_source=api>`"
 msgstr ""
 
@@ -711,7 +713,7 @@ msgstr ""
 #: ../../MIC.rst:160
 msgid ""
 ":mtgtip:`Heronblade Elite<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/6/36938a8e-8da0-4f27-86c3-6032aa7642b5.jpg?1631658871|"
+"border_crop/front/3/6/36938a8e-8da0-4f27-86c3-6032aa7642b5.jpg?1633072446|"
 "https://scryfall.com/card/mic/26/heronblade-elite?utm_source=api>`"
 msgstr ""
 
@@ -730,7 +732,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Kurbis, Harvest Celebrant<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/5/e/5ea94e69-36f0-47a6-b7f7-1379625a6955.jpg?"
-"1631658846|https://scryfall.com/card/mic/27/kurbis-harvest-celebrant?"
+"1633072503|https://scryfall.com/card/mic/27/kurbis-harvest-celebrant?"
 "utm_source=api>`"
 msgstr ""
 
@@ -749,7 +751,7 @@ msgstr ""
 #: ../../MIC.rst:170
 msgid ""
 ":mtgtip:`Ruinous Intrusion<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/4/842bbf88-f579-4f98-a08f-17ae60a6784b.jpg?1631658822|"
+"border_crop/front/8/4/842bbf88-f579-4f98-a08f-17ae60a6784b.jpg?1633073186|"
 "https://scryfall.com/card/mic/28/ruinous-intrusion?utm_source=api>`"
 msgstr ""
 
@@ -763,7 +765,7 @@ msgstr ""
 #: ../../MIC.rst:174
 msgid ""
 ":mtgtip:`Sigardian Zealot<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/8/98adcc86-debd-4aa8-86e5-c51ec08dab5a.jpg?1631658800|"
+"border_crop/front/9/8/98adcc86-debd-4aa8-86e5-c51ec08dab5a.jpg?1633073219|"
 "https://scryfall.com/card/mic/29/sigardian-zealot?utm_source=api>`"
 msgstr ""
 
@@ -777,7 +779,7 @@ msgstr ""
 #: ../../MIC.rst:180
 msgid ""
 ":mtgtip:`Somberwald Beastmaster<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/a/5a4ba28b-a6c6-4268-8dc2-542d203f91a6.jpg?1631658776|"
+"border_crop/front/5/a/5a4ba28b-a6c6-4268-8dc2-542d203f91a6.jpg?1633073240|"
 "https://scryfall.com/card/mic/30/somberwald-beastmaster?utm_source=api>`"
 msgstr ""
 
@@ -795,7 +797,7 @@ msgstr ""
 #: ../../MIC.rst:186
 msgid ""
 ":mtgtip:`Avacyn's Memorial<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/8/c8134a08-4c7f-419e-940d-95bc9f630ae2.jpg?1631660502|"
+"border_crop/front/c/8/c8134a08-4c7f-419e-940d-95bc9f630ae2.jpg?1633071081|"
 "https://scryfall.com/card/mic/31/avacyns-memorial?utm_source=api>`"
 msgstr ""
 
@@ -810,7 +812,7 @@ msgstr ""
 #: ../../MIC.rst:192
 msgid ""
 ":mtgtip:`Visions of Glory<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/1/11675d8a-cd81-4055-bdbd-2e709e12ba66.jpg?1631660476|"
+"border_crop/front/1/1/11675d8a-cd81-4055-bdbd-2e709e12ba66.jpg?1633073382|"
 "https://scryfall.com/card/mic/32/visions-of-glory?utm_source=api>`"
 msgstr ""
 
@@ -829,7 +831,7 @@ msgstr ""
 #: ../../MIC.rst:198
 msgid ""
 ":mtgtip:`Visions of Duplicity<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/2/f2b7a2ab-4b1b-4ab4-92b6-b6fc842fbea6.jpg?1631659815|"
+"border_crop/front/f/2/f2b7a2ab-4b1b-4ab4-92b6-b6fc842fbea6.jpg?1633073365|"
 "https://scryfall.com/card/mic/33/visions-of-duplicity?utm_source=api>`"
 msgstr ""
 
@@ -848,7 +850,7 @@ msgstr ""
 #: ../../MIC.rst:204
 msgid ""
 ":mtgtip:`Visions of Dread<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/7/2716d5b6-9ca7-4c8f-a363-1934221606a6.jpg?1631659443|"
+"border_crop/front/2/7/2716d5b6-9ca7-4c8f-a363-1934221606a6.jpg?1633073360|"
 "https://scryfall.com/card/mic/34/visions-of-dread?utm_source=api>`"
 msgstr ""
 
@@ -869,7 +871,7 @@ msgstr ""
 #: ../../MIC.rst:212
 msgid ""
 ":mtgtip:`Curse of Obsession<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/9/69ba6262-a3b1-4009-b2ed-ae684dfae022.jpg?1631658965|"
+"border_crop/front/6/9/69ba6262-a3b1-4009-b2ed-ae684dfae022.jpg?1633072123|"
 "https://scryfall.com/card/mic/35/curse-of-obsession?utm_source=api>`"
 msgstr ""
 
@@ -888,7 +890,7 @@ msgstr ""
 #: ../../MIC.rst:218
 msgid ""
 ":mtgtip:`Visions of Ruin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/0/803a93c7-d8e4-4cda-8fa0-d9cd50b7d977.jpg?1631658944|"
+"border_crop/front/8/0/803a93c7-d8e4-4cda-8fa0-d9cd50b7d977.jpg?1633073389|"
 "https://scryfall.com/card/mic/36/visions-of-ruin?utm_source=api>`"
 msgstr ""
 
@@ -909,7 +911,7 @@ msgstr ""
 #: ../../MIC.rst:224
 msgid ""
 ":mtgtip:`Visions of Dominance<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/5/15947810-9a38-417f-84dc-5a83446deb81.jpg?1630607917|"
+"border_crop/front/1/5/15947810-9a38-417f-84dc-5a83446deb81.jpg?1633073353|"
 "https://scryfall.com/card/mic/37/visions-of-dominance?utm_source=api>`"
 msgstr ""
 
@@ -931,7 +933,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Lynde, Cheerful Tormentor<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/4/d/4df484de-4d9b-4a4b-9d10-df993e36f1a8.jpg?"
-"1631495884|https://scryfall.com/card/mic/38/lynde-cheerful-tormentor?"
+"1633073051|https://scryfall.com/card/mic/38/lynde-cheerful-tormentor?"
 "utm_source=api>`"
 msgstr ""
 
@@ -1004,7 +1006,7 @@ msgstr ""
 #: ../../MIC.rst:254
 msgid ""
 ":mtgtip:`Bastion Protector<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/4/1480725e-efad-45e8-b46c-8a1d8da661aa.jpg?1631660263|"
+"border_crop/front/1/4/1480725e-efad-45e8-b46c-8a1d8da661aa.jpg?1633071806|"
 "https://scryfall.com/card/mic/80/bastion-protector?utm_source=api>`"
 msgstr ""
 
@@ -1061,7 +1063,7 @@ msgstr "Zniszcz wszystkie artefakty i uroki."
 #: ../../MIC.rst:276
 msgid ""
 ":mtgtip:`Custodi Soulbinders<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1631660208|"
+"border_crop/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1633072145|"
 "https://scryfall.com/card/mic/83/custodi-soulbinders?utm_source=api>`"
 msgstr ""
 
@@ -1233,7 +1235,7 @@ msgstr ""
 #: ../../MIC.rst:326
 msgid ""
 ":mtgtip:`Orzhov Advokist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/c/0cf0aff6-ad6f-4475-b714-6b4afce7d868.jpg?1631660069|"
+"border_crop/front/0/c/0cf0aff6-ad6f-4475-b714-6b4afce7d868.jpg?1633073112|"
 "https://scryfall.com/card/mic/91/orzhov-advokist?utm_source=api>`"
 msgstr ""
 
@@ -1305,8 +1307,8 @@ msgid ""
 "Addendum — If you cast this spell during your main phase, put a +1/+1 "
 "counter on each of those creatures and they gain vigilance until end of turn."
 msgstr ""
-"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/+"
-"1 na każdym z owych stworów i zyskują one czujność do końca tury."
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/"
+"+1 na każdym z owych stworów i zyskują one czujność do końca tury."
 
 #: ../../MIC.rst:352
 msgid ""
@@ -1366,8 +1368,8 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zgromadź 2. (Umieść dwa znaczniki +1/+"
-"1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
+"Kiedy ten stwór wejdzie na pole bitwy, zgromadź 2. (Umieść dwa znaczniki +1/"
+"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
 "żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../MIC.rst:365
@@ -1446,7 +1448,7 @@ msgstr ""
 #: ../../MIC.rst:388
 msgid ""
 ":mtgtip:`Stitcher Geralf<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/7/b7a1dc81-6bfd-4919-8d30-ec47ba7dd51d.jpg?1631659662|"
+"border_crop/front/b/7/b7a1dc81-6bfd-4919-8d30-ec47ba7dd51d.jpg?1633073258|"
 "https://scryfall.com/card/mic/104/stitcher-geralf?utm_source=api>`"
 msgstr ""
 
@@ -1534,7 +1536,7 @@ msgstr ""
 #: ../../MIC.rst:416
 msgid ""
 ":mtgtip:`Corpse Augur<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/f/1fc6a2f2-42d9-4d2a-aa3b-f6ce973cd409.jpg?1631659374|"
+"border_crop/front/1/f/1fc6a2f2-42d9-4d2a-aa3b-f6ce973cd409.jpg?1633072092|"
 "https://scryfall.com/card/mic/109/corpse-augur?utm_source=api>`"
 msgstr ""
 
@@ -1596,13 +1598,13 @@ msgid ""
 "Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature "
 "token."
 msgstr ""
-"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi 2/"
-"2."
+"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi "
+"2/2."
 
 #: ../../MIC.rst:434
 msgid ""
 ":mtgtip:`Dread Summons<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/5/85dd3f34-56c6-4499-9661-8cbadb09c7fc.jpg?1631659302|"
+"border_crop/front/8/5/85dd3f34-56c6-4499-9661-8cbadb09c7fc.jpg?1633072197|"
 "https://scryfall.com/card/mic/113/dread-summons?utm_source=api>`"
 msgstr ""
 
@@ -1713,7 +1715,7 @@ msgstr "Zniszcz wskazanego nieartefaktowego stwora."
 #: ../../MIC.rst:468
 msgid ""
 ":mtgtip:`Gravespawn Sovereign<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/8/58d36326-882e-46bb-a00c-5ea0f6515f65.jpg?1631659175|"
+"border_crop/front/5/8/58d36326-882e-46bb-a00c-5ea0f6515f65.jpg?1633072426|"
 "https://scryfall.com/card/mic/120/gravespawn-sovereign?utm_source=api>`"
 msgstr ""
 
@@ -1831,7 +1833,7 @@ msgstr ""
 #: ../../MIC.rst:510
 msgid ""
 ":mtgtip:`Overseer of the Damned<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/0/908e0ae3-6ef2-4110-9674-eb6c7eef0fa8.jpg?1631659059|"
+"border_crop/front/9/0/908e0ae3-6ef2-4110-9674-eb6c7eef0fa8.jpg?1633073130|"
 "https://scryfall.com/card/mic/127/overseer-of-the-damned?utm_source=api>`"
 msgstr ""
 
@@ -1863,7 +1865,7 @@ msgstr "|mana_3|, poświęć stwora lub wędrowca: Zyskaj 1 życie i dobierz kar
 #: ../../MIC.rst:518
 msgid ""
 ":mtgtip:`Syphon Flesh<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/3/63124d37-d16c-48d6-b1a2-a1a3834b3dc1.jpg?1631659025|"
+"border_crop/front/6/3/63124d37-d16c-48d6-b1a2-a1a3834b3dc1.jpg?1633073288|"
 "https://scryfall.com/card/mic/129/syphon-flesh?utm_source=api>`"
 msgstr ""
 
@@ -2149,7 +2151,7 @@ msgstr ""
 #: ../../MIC.rst:600
 msgid ""
 ":mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/6/1612bf83-c800-41de-ab06-fb1732d5b5a6.jpg?1631671009|"
+"border_crop/front/1/6/1612bf83-c800-41de-ab06-fb1732d5b5a6.jpg?1633073415|"
 "https://scryfall.com/card/mic/147/yavimaya-elder?utm_source=api>`"
 msgstr ""
 
@@ -2309,8 +2311,8 @@ msgid ""
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/"
-"2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego "
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz "
+"2/2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego "
 "stwora Nosorożec 4/4 z tratowaniem."
 
 #: ../../MIC.rst:660
@@ -2327,7 +2329,7 @@ msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowód
 #: ../../MIC.rst:666
 msgid ""
 ":mtgtip:`Charcoal Diamond<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/8/587a881f-cec1-4d36-9db1-614bec439167.jpg?1631658201|"
+"border_crop/front/5/8/587a881f-cec1-4d36-9db1-614bec439167.jpg?1633071933|"
 "https://scryfall.com/card/mic/158/charcoal-diamond?utm_source=api>`"
 msgstr ""
 
@@ -2338,7 +2340,7 @@ msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 #: ../../MIC.rst:672
 msgid ""
 ":mtgtip:`Commander's Sphere<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/8/38551b28-bdbe-4177-9dcb-8d2da2879115.jpg?1631658183|"
+"border_crop/front/3/8/38551b28-bdbe-4177-9dcb-8d2da2879115.jpg?1633072085|"
 "https://scryfall.com/card/mic/159/commanders-sphere?utm_source=api>`"
 msgstr ""
 
@@ -2368,7 +2370,7 @@ msgstr ""
 #: ../../MIC.rst:684
 msgid ""
 ":mtgtip:`Sky Diamond<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/1/e18a2b70-4090-42b5-9351-2140e9eae10b.jpg?1631658148|https://"
+"front/e/1/e18a2b70-4090-42b5-9351-2140e9eae10b.jpg?1633073231|https://"
 "scryfall.com/card/mic/161/sky-diamond?utm_source=api>`"
 msgstr ""
 
@@ -2520,7 +2522,7 @@ msgstr ""
 #: ../../MIC.rst:740
 msgid ""
 ":mtgtip:`Darkwater Catacombs<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/8/28dfe97d-76d5-4c61-9b83-fdd780fbe4c6.jpg?1631657967|"
+"border_crop/front/2/8/28dfe97d-76d5-4c61-9b83-fdd780fbe4c6.jpg?1633072153|"
 "https://scryfall.com/card/mic/171/darkwater-catacombs?utm_source=api>`"
 msgstr ""
 
@@ -2590,7 +2592,7 @@ msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 #: ../../MIC.rst:766
 msgid ""
 ":mtgtip:`Krosan Verge<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/0/00a9814a-51f7-43b4-8835-91309b0c9d31.jpg?1631657898|"
+"border_crop/front/0/0/00a9814a-51f7-43b4-8835-91309b0c9d31.jpg?1633072491|"
 "https://scryfall.com/card/mic/175/krosan-verge?utm_source=api>`"
 msgstr ""
 
@@ -2628,7 +2630,7 @@ msgstr ""
 #: ../../MIC.rst:782
 msgid ""
 ":mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/b/0b5656ed-19a1-40be-a057-b8d90665582a.jpg?1631657860|"
+"border_crop/front/0/b/0b5656ed-19a1-40be-a057-b8d90665582a.jpg?1633073095|"
 "https://scryfall.com/card/mic/177/myriad-landscape?utm_source=api>`"
 msgstr ""
 
@@ -2649,7 +2651,7 @@ msgstr ""
 #: ../../MIC.rst:788
 msgid ""
 ":mtgtip:`Path of Ancestry<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/a/2a8b1ff6-7d01-46b1-aaf0-2f2271fdeb5a.jpg?1631657844|"
+"border_crop/front/2/a/2a8b1ff6-7d01-46b1-aaf0-2f2271fdeb5a.jpg?1633073153|"
 "https://scryfall.com/card/mic/178/path-of-ancestry?utm_source=api>`"
 msgstr ""
 
@@ -2702,7 +2704,7 @@ msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 #: ../../MIC.rst:806
 msgid ""
 ":mtgtip:`Sungrass Prairie<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/7/778cf871-a934-46f5-8595-a6f457162374.jpg?1631657784|"
+"border_crop/front/7/7/778cf871-a934-46f5-8595-a6f457162374.jpg?1633073267|"
 "https://scryfall.com/card/mic/181/sungrass-prairie?utm_source=api>`"
 msgstr ""
 
@@ -2732,7 +2734,7 @@ msgstr ""
 #: ../../MIC.rst:818
 msgid ""
 ":mtgtip:`Tainted Isle<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/4/c4a3bcf6-4495-4b12-940a-f7703d8646d3.jpg?1631657752|"
+"border_crop/front/c/4/c4a3bcf6-4495-4b12-940a-f7703d8646d3.jpg?1633073296|"
 "https://scryfall.com/card/mic/183/tainted-isle?utm_source=api>`"
 msgstr ""
 
@@ -2754,12 +2756,10 @@ msgid "Temple of Deceit enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:823
-msgid ""
-"When Temple of Deceit enters the battlefield, scry 1. (Look at the top card "
-"of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
+#, fuzzy
+#| msgid "Temple of Deceit enters the battlefield tapped."
+msgid "When Temple of Deceit enters the battlefield, scry 1."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:834
 msgid ""
@@ -2773,17 +2773,15 @@ msgid "Temple of Plenty enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:831
-msgid ""
-"When Temple of Plenty enters the battlefield, scry 1. (Look at the top card "
-"of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
+#, fuzzy
+#| msgid "Temple of Plenty enters the battlefield tapped."
+msgid "When Temple of Plenty enters the battlefield, scry 1."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:838
 msgid ""
 ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/2/327ddb20-ab88-42e0-b61f-e502b3022da5.jpg?1631657700|"
+"border_crop/front/3/2/327ddb20-ab88-42e0-b61f-e502b3022da5.jpg?1633073333|"
 "https://scryfall.com/card/mic/186/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
@@ -2813,3 +2811,20 @@ msgid ""
 msgstr ""
 "|tap|: Weź jedną manę w dowolnym kolorze. Wydaj tę manę tylko na rzucenie "
 "czaru stwora owego wybranego typu."
+
+#~ msgid ""
+#~ "When Temple of Deceit enters the battlefield, scry 1. (Look at the top "
+#~ "card of your library. You may put that card on the bottom of your "
+#~ "library.)"
+#~ msgstr ""
+#~ "Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+#~ "twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej "
+#~ "biblioteki.)"
+
+#~ msgid ""
+#~ "When Temple of Plenty enters the battlefield, scry 1. (Look at the top "
+#~ "card of your library. You may put that card on the bottom of your "
+#~ "library.)"
+#~ msgstr ""
+#~ "Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+#~ "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
