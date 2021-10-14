@@ -66,7 +66,7 @@ def get_mtga_file(prefix: str, path: Path) -> Path:
 
 
 def extract_data_pots(path: Path):
-    filename = get_mtga_file("data_loc", path)
+    filename = get_mtga_file("Data_loc", path)
     pot_path = CURRENT_DIR / "MTG" / "templates"
 
     po = polib.POFile()
@@ -103,13 +103,13 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
     for o in annotated.values():
         o["flags"] = set()
     path = get_valid_mtga_dl_path()
-    abilities_filepath = get_mtga_file("data_abilities", path / "Data")
+    abilities_filepath = get_mtga_file("Data_abilities", path / "Data")
     with open(abilities_filepath) as infile:
         abilities = json.load(infile)
     for ability in abilities:
         text_id = ability["text"]
         annotated[text_id]["flags"].add("internal_ability")
-    cards_filepath = get_mtga_file("data_cards", path / "Data")
+    cards_filepath = get_mtga_file("Data_cards", path / "Data")
     with open(cards_filepath) as infile:
         cards = json.load(infile)
     for card in cards:
@@ -212,7 +212,7 @@ def translate_data(path: Path):
     podir = CURRENT_DIR / "translated" / "pl" / "LC_MESSAGES"
     orig_path = path / "orig"
 
-    filepath = get_mtga_file("data_loc", path)
+    filepath = get_mtga_file("Data_loc", path)
 
     poname = "data_loc.po"
 
@@ -336,7 +336,7 @@ def build():
     with zipfile.ZipFile(
             filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9
     ) as archive:
-        for filename in (i for i in os.listdir(data_path) if i.startswith("data_loc_")):
+        for filename in (i for i in os.listdir(data_path) if i.startswith("Data_loc_")):
             archive.write(
                 data_path / filename, arcname=f"MTGA_Data/Downloads/Data/{filename}"
             )
@@ -363,7 +363,7 @@ def add_tag_to_dat_files(path, version=""):
     data_files = (
         i
         for i in os.listdir(data_path)
-        if i.startswith("data_loc_") and i.endswith(".dat")
+        if i.startswith("Data_loc_") and i.endswith(".dat")
     )
     tag_dats_in_path(loc_files, loc_path, version)
     tag_dats_in_path(data_files, data_path, version)

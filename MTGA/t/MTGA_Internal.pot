@@ -1132,6 +1132,34 @@ msgctxt "Decks/Precon/Festival_KHM_WU"
 msgid "A Call for Aid"
 msgstr ""
 
+msgctxt "Decks/Precon/MWM_Brawl_Hofri"
+msgid "Hofri Ghostforge"
+msgstr ""
+
+msgctxt "Decks/Precon/MWM_Brawl_Oko"
+msgid "Oko, the Trickster"
+msgstr ""
+
+msgctxt "Decks/Precon/MWM_Brawl_OldStickfingers"
+msgid "Old Stickfingers"
+msgstr ""
+
+msgctxt "Decks/Precon/MWM_Brawl_Sorin"
+msgid "Sorin, Imperious Bloodlord"
+msgstr ""
+
+msgctxt "Decks/Precon/MWM_Brawl_Tinybones"
+msgid "Tinybones, Trinket Thief"
+msgstr ""
+
+msgctxt "Decks/Precon/MWM_Brawl_Valki"
+msgid "Valki, God of Lies"
+msgstr ""
+
+msgctxt "Decks/Precon/MWM_Omniscience"
+msgid "Midweek Magic"
+msgstr ""
+
 msgctxt "Decks/Precon/Precon_EPP2022_BG"
 msgid "Growing Hunger"
 msgstr ""
@@ -1704,6 +1732,10 @@ msgctxt "Events/Event_Cat_DraftChallenge_MID"
 msgid "Challenge"
 msgstr ""
 
+msgctxt "Events/Event_Cat_EternalNightMID"
+msgid "Night"
+msgstr ""
+
 msgctxt "Events/Event_Cat_Festival_MID_Emblem"
 msgid "Festival"
 msgstr ""
@@ -1718,6 +1750,10 @@ msgstr ""
 
 msgctxt "Events/Event_Cat_FNM_Standard_AllAccess"
 msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_Jump_In"
+msgid "Jumpstart"
 msgstr ""
 
 msgctxt "Events/Event_Cat_Jumpstart_J21"
@@ -1752,6 +1788,10 @@ msgctxt "Events/Event_Cat_MID_Trad_Draft"
 msgid "Traditional Draft"
 msgstr ""
 
+msgctxt "Events/Event_Cat_MWM_3Sets"
+msgid "Midweek Magic"
+msgstr ""
+
 msgctxt "Events/Event_Cat_MWM_Artisan"
 msgid "Midweek Magic"
 msgstr ""
@@ -1772,6 +1812,10 @@ msgctxt "Events/Event_Cat_MWM_HistoricArtisan"
 msgid "Midweek Magic"
 msgstr ""
 
+msgctxt "Events/Event_Cat_MWM_HistoricBrawlPrecon"
+msgid "Midweek Magic"
+msgstr ""
+
 msgctxt "Events/Event_Cat_MWM_HistoricPauper"
 msgid "Midweek Magic"
 msgstr ""
@@ -1781,6 +1825,10 @@ msgid "Midweek Magic"
 msgstr ""
 
 msgctxt "Events/Event_Cat_MWM_Momir"
+msgid "Midweek Magic"
+msgstr ""
+
+msgctxt "Events/Event_Cat_MWM_Omniscience"
 msgid "Midweek Magic"
 msgstr ""
 
@@ -1822,6 +1870,10 @@ msgstr ""
 
 msgctxt "Events/Event_Cat_Ranked_Renewal2022_Bo1"
 msgid "Play"
+msgstr ""
+
+msgctxt "Events/Event_Cat_RAVM_Premier_Draft"
+msgid "Premier Draft"
 msgstr ""
 
 msgctxt "Events/Event_Cat_Sealed_AFR"
@@ -1895,11 +1947,10 @@ msgstr ""
 
 msgctxt "Events/Event_Desc_Crafters_Challenge"
 msgid ""
-"In the Crafter's Challenge, you can sculpt your Standard experience in two "
-"ways: First, build any Standard deck you can think of - whether you own the "
-"cards or not. Second, if you perform well, you can win the wildcards to "
-"craft the very deck you've been playing (or anything else) and use it "
-"wherever you wish!"
+"In the Crafter's Challenge, you can build any Standard deck you can think of"
+" - whether you own the cards or not. Then, if you perform well, you can win "
+"the wildcards to craft the very deck you've been playing (or anything else) "
+"and use it wherever you wish!"
 msgstr ""
 
 msgctxt "Events/Event_Desc_CubeDraft_Tinkerers_Alt"
@@ -1934,13 +1985,22 @@ msgid ""
 "<b>Player Draft - A timed draft with 7 other players</b>"
 msgstr ""
 
+msgctxt "Events/Event_Desc_EternalNightMID"
+msgid ""
+"<i>The turn of the season draws near, and darkness falls across the land. Out there, in the impenetrable shadows, strange and terrible things are stirring. Lurking. Hunting. Keep your wits about you, or else risk becoming lost in the night. If you can survive the hungry wolves and grisly ghouls, you may yet see another sunrise...</i>\n"
+"\n"
+"Bring a 60-card Singleton deck that's not afraid of the dark: each time night falls, you will lose 1 life and draw a card. At the end of your run, you'll bring Eternal Night card styles from <i>Innistrad: Midnight Hunt</i> back from out of the darkness. There are 14 styles to collect!\n"
+"\n"
+"For more details on this format, including a full list of card styles available to find out in the darkness, click <u><link=https://magic.wizards.com/mtga-mid-eternal-night>here</link></u>."
+msgstr ""
+
 msgctxt "Events/Event_Desc_Festival_MID_Emblem"
 msgid ""
 "<i>The Harvest Festival is winding down, but there's still time for one more party! This season of plenty means there's plenty to go around, so come right in! Dig into a delicious dish, tickle your brain with a clever puzzle, or just enjoy the shine of a pretty bauble. Actually, how about all three?</i>\n"
 "\n"
 "At the Harvest Bash, everyone gets a few treats to celebrate the season: you'll get a Clue token, a Treasure token, and a Food token. Bring a 60-card Singleton deck and win Equinox card styles for your collection! Play as much as you want until the event ends.\n"
 "\n"
-"For more details on this event, including a list of banned cards, click <u><link=https://magic.wizards.com/mtga-mid-festival</link></u>."
+"For more details on this event, including a list of banned cards, click <u><link=https://magic.wizards.com/mtga-mid-festival>here</link></u>."
 msgstr ""
 
 msgctxt "Events/Event_Desc_Festival_MID_Precon"
@@ -1951,7 +2011,7 @@ msgid ""
 "\n"
 "Enjoy the attractions of the Festival with these preconstructed decks, and win Equinox card styles for your collection! You can change decks as often as you like and play as much as you want until the event ends.\n"
 "\n"
-"For more details on this event, including a list of banned cards, click <u><link=https://magic.wizards.com/mtga-mid-festival</link></u>."
+"For more details on this event, including a list of banned cards, click <u><link=https://magic.wizards.com/mtga-mid-festival>here</link></u>."
 msgstr ""
 
 msgctxt "Events/Event_Desc_FNM_FuturePrecon"
@@ -1974,6 +2034,15 @@ msgid ""
 "You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
 "\n"
 "*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
+msgctxt "Events/Event_Desc_Jump_In"
+msgid ""
+"Welcome to the world of MTG Arena! Here you can explore popular cards and strategies, and maybe even find a new favorite. It's time to <b>Jump In!</b>\n"
+"\n"
+"When you join this event, you will get to select two different half-decks from a variety of themes in Standard. Combine them, and you'll have a deck that's ready to go. Play as much as you want here, or use the cards to build new decks for other modes - they're yours to keep!\n"
+"\n"
+"<color=\"green\"><b>Resign at any time if you wish to rejoin and pick new packets. You will have to pay the entry again, but you will keep all cards from the decks you choose.</b></color>"
 msgstr ""
 
 msgctxt "Events/Event_Desc_Jumpstart_J21"
@@ -2004,6 +2073,17 @@ msgid ""
 "Select one card at a time from rotating draft packs. The cards will be added to your collection, and you'll use them plus basic lands to build a 40-card deck. Play best-of-three-game matches and receive prizes based on how many matches you win!\n"
 "\n"
 "<b>Player Draft - A timed draft with 7 other players </b>"
+msgstr ""
+
+msgctxt "Events/Event_Desc_MWM_3Sets"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"This week's event is On the Edge: Bring a 60-card deck using only cards from <i>Strixhaven: School of Mages</i>, <i>Adventures in the Forgotten Realms</i>, and <i>Innistrad: Midnight Hunt</i>. With only three sets to work with, you'll need cutting-edge strategies to find victory! \n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
 msgstr ""
 
 msgctxt "Events/Event_Desc_MWM_Artisan"
@@ -2050,6 +2130,17 @@ msgid ""
 "*Note: While supplies last. Not all stores are participating."
 msgstr ""
 
+msgctxt "Events/Event_Desc_MWM_HistoricBrawlPrecon"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"This week's event is Historic Brawl Showcase: Take these Historic Brawl preconstructed decks for a spin, and see if you find a new favorite! Change decks as often as you like.\n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
 msgctxt "Events/Event_Desc_MWM_HistoricPauper"
 msgid ""
 "Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
@@ -2077,6 +2168,17 @@ msgid ""
 "Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
 "\n"
 "Today's event is Momir: Use the emblem, discard a card, and pay    <sprite=\"SpriteSheet_ManaIcons\" name=\"xX\"> to create a token copy of a random creature card with mana value X. Every turn is a surprise!\n"
+"\n"
+"You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
+"\n"
+"*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
+msgctxt "Events/Event_Desc_MWM_Omniscience"
+msgid ""
+"Welcome to Midweek Magic! Each week, try out a different way to play MTG Arena!\n"
+"\n"
+"This week's event is Omniscience: We'll provide a deck for you to play... but it has no lands in it. Instead, every card can be cast for free! You only get a three-card opening hand, so make them count!\n"
 "\n"
 "You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
 "\n"
@@ -2114,6 +2216,13 @@ msgid ""
 "You can receive a code for a Midweek Magic Promo Pack containing two cosmetic items when you share your results with your local game store. Find out how <u><link=https://magic.wizards.com/mtga-midweek-magic>HERE</link></u>.\n"
 "\n"
 "*Note: While supplies last. Not all stores are participating."
+msgstr ""
+
+msgctxt "Events/Event_Desc_RAVM_Premier_Draft"
+msgid ""
+"Select one card at a time from rotating draft packs. The cards will be added to your collection, and you'll use them plus basic lands to build a 40-card deck. Play games and receive prizes based on how many games you win!\n"
+"\n"
+"<b>Player Draft - A timed draft with 7 other players</b>"
 msgstr ""
 
 msgctxt "Events/Event_Desc_Sealed_AFR"
@@ -2207,6 +2316,10 @@ msgctxt "Events/Event_Title_DraftChallenge_MID"
 msgid "Midnight Hunt Draft Challenge"
 msgstr ""
 
+msgctxt "Events/Event_Title_EternalNightMID"
+msgid "The Edge of Night"
+msgstr ""
+
 msgctxt "Events/Event_Title_Festival_MID_Emblem"
 msgid "Festival: Harvest Bash"
 msgstr ""
@@ -2221,6 +2334,10 @@ msgstr ""
 
 msgctxt "Events/Event_Title_FNM_Standard_AllAccess"
 msgid "Midweek Magic: Standard All Access"
+msgstr ""
+
+msgctxt "Events/Event_Title_Jump_In"
+msgid "Jump In!"
 msgstr ""
 
 msgctxt "Events/Event_Title_Jumpstart_J21"
@@ -2255,6 +2372,10 @@ msgctxt "Events/Event_Title_MID_Trad_Draft"
 msgid "Traditional Draft Midnight Hunt"
 msgstr ""
 
+msgctxt "Events/Event_Title_MWM_3Sets"
+msgid "Midweek Magic: On the Edge"
+msgstr ""
+
 msgctxt "Events/Event_Title_MWM_Artisan"
 msgid "Midweek Magic: Artisan"
 msgstr ""
@@ -2275,6 +2396,10 @@ msgctxt "Events/Event_Title_MWM_HistoricArtisan"
 msgid "Midweek Magic: Historic Artisan"
 msgstr ""
 
+msgctxt "Events/Event_Title_MWM_HistoricBrawlPrecon"
+msgid "Midweek Magic: Historic Brawl Showcase"
+msgstr ""
+
 msgctxt "Events/Event_Title_MWM_HistoricPauper"
 msgid "Midweek Magic: Historic Pauper"
 msgstr ""
@@ -2285,6 +2410,10 @@ msgstr ""
 
 msgctxt "Events/Event_Title_MWM_Momir"
 msgid "Midweek Magic: Momir"
+msgstr ""
+
+msgctxt "Events/Event_Title_MWM_Omniscience"
+msgid "Midweek Magic: Omniscience"
 msgstr ""
 
 msgctxt "Events/Event_Title_MWM_OneForAll"
@@ -2325,6 +2454,10 @@ msgstr ""
 
 msgctxt "Events/Event_Title_Ranked_Renewal2022_Bo1"
 msgid "Standard 2022 Ranked"
+msgstr ""
+
+msgctxt "Events/Event_Title_RAVM_Premier_Draft"
+msgid "Premier Draft Ravnica Mixer"
 msgstr ""
 
 msgctxt "Events/Event_Title_Sealed_AFR"
@@ -2550,6 +2683,166 @@ msgstr ""
 
 msgctxt "Events/Packets/JMP21_PacketName_Zombies"
 msgid "Zombie"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Armory"
+msgid "Armory"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Bewitching"
+msgid "Bewitching"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Celestial"
+msgid "Celestial"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Clerics"
+msgid "Clerics"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Dead_and_Buried"
+msgid "Dead and Buried"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Doctor"
+msgid "Doctor"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Dungeon_of_the_Mad_Mage"
+msgid "Dungeon of the Mad Mage"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Educated"
+msgid "Educated"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Elves"
+msgid "Elves"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Flashback"
+msgid "Flashback"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Goblins"
+msgid "Goblins"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_High_Rolling"
+msgid "High Rolling"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Humans"
+msgid "Humans"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Kicker"
+msgid "Kicker"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Landfall"
+msgid "Landfall"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Legion"
+msgid "Legion"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Lorehold"
+msgid "Lorehold"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Lost_Mine_of_Phandelver"
+msgid "Lost Mine of Phandelver"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Morbid"
+msgid "Morbid"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Ordained"
+msgid "Ordained"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Party"
+msgid "Party"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Powered_Up"
+msgid "Powered Up"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Prismari"
+msgid "Prismari"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Quandrix"
+msgid "Quandrix"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Rock_and_Roll"
+msgid "Rock and Roll"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Roguish"
+msgid "Roguish"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Roiling"
+msgid "Roiling"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Sacrificial"
+msgid "Sacrificial"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Shambling"
+msgid "Shambling"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Silverquill"
+msgid "Silverquill"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Sorcerous"
+msgid "Sorcerous"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Spellcraft"
+msgid "Spellcraft"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Spirits"
+msgid "Spirits"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Tomb_of_Annihilation"
+msgid "Tomb of Annihilation"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Vampires"
+msgid "Vampires"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Warriors"
+msgid "Warriors"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Werewolves"
+msgid "Werewolves"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Witherbloom"
+msgid "Witherbloom"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Wizards"
+msgid "Wizards"
+msgstr ""
+
+msgctxt "Events/Packets/SJMP_PacketName_Zombies"
+msgid "Zombies"
 msgstr ""
 
 msgctxt "General/Sets/AER"
@@ -3353,7 +3646,7 @@ msgid "World Championship XXVII Sleeve"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/3Sets"
-msgid "Festival: 3 Sets"
+msgid "On the Edge"
 msgstr ""
 
 msgctxt "MainNav/DeckFormat/AdventuresintheForgottenRealms"
@@ -3516,6 +3809,10 @@ msgctxt "MainNav/EventPage/LossText_Singular"
 msgid "{qty} Loss"
 msgstr ""
 
+msgctxt "MainNav/EventPage/MaxMatches"
+msgid "Play {matchCount} matches regardless of record."
+msgstr ""
+
 msgctxt "MainNav/EventPage/RemainingGamesCountPlural"
 msgid "{number1} Games Remaining"
 msgstr ""
@@ -3536,10 +3833,6 @@ msgstr ""
 
 msgctxt "MainNav/EventPage/SignUpEndTimer"
 msgid "Sign-up ends in {timeLeft}"
-msgstr ""
-
-msgctxt "MainNav/EventPage/SingleEntry"
-msgid "Play 3 matches regardless of record."
 msgstr ""
 
 msgctxt "MainNav/EventPage/SingleEntryAlt"
@@ -3869,6 +4162,22 @@ msgctxt "MainNav/General/EntryReward"
 msgid "All players who enter the event receive this reward."
 msgstr ""
 
+msgctxt "MainNav/General/Token_Esports_Qualifier_Day2_20211031"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Esports_Qualifier_Day2_20211107"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_JumpIn"
+msgid "Jump In Token"
+msgstr ""
+
 msgctxt "MainNav/General/Token_OpenDay2_20210801"
 msgid ""
 "Open Day 2 Qualification\n"
@@ -3900,6 +4209,18 @@ msgid ""
 msgstr ""
 
 msgctxt "MainNav/General/Token_Qualifier_Day2_20211010"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20211031"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20211107"
 msgid ""
 "Qualifier Weekend Day 2 Qualification\n"
 "Join between 6am and 8am Pacific"
@@ -4217,6 +4538,22 @@ msgctxt "MainNav/HomePage/Carousel/Announcements_Title"
 msgid "MTG Arena Announcements"
 msgstr ""
 
+msgctxt "MainNav/HomePage/Carousel/CraftersChallenge_Desc"
+msgid "Play any Standard deck you want - and win wildcards!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/CraftersChallenge_Title"
+msgid "Crafter's Challenge"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/EdgeOfNight_Desc"
+msgid "Win Eternal Night card styles in this emblem event."
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/EdgeOfNight_Title"
+msgid "Night Comes to Innistrad"
+msgstr ""
+
 msgctxt "MainNav/HomePage/Carousel/Jumpstart_J21_Desc"
 msgid ""
 "Choose two themed packets to form your deck while growing your Historic "
@@ -4259,6 +4596,14 @@ msgctxt "MainNav/HomePage/Carousel/Midweek_Magic_Change_Title"
 msgid "FNM at Home is now Midweek Magic"
 msgstr ""
 
+msgctxt "MainNav/HomePage/Carousel/MWMOneForAll_Desc"
+msgid "In this week's Midweek Magic, every single card in MTG Arena is legal!"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/MWMOneForAll_Title"
+msgid "One For All"
+msgstr ""
+
 msgctxt "MainNav/HomePage/Carousel/Preorder_MID_Desc"
 msgid ""
 "Get ready for <i>Innistrad: Midnight Hunt</i> with two pre-order bundles "
@@ -4296,6 +4641,14 @@ msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/SOTG_Title"
 msgid "State of the Game"
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SpookySleeves_Desc"
+msgid "Find some seasonal cosmetics haunting today's Daily Deals."
+msgstr ""
+
+msgctxt "MainNav/HomePage/Carousel/SpookySleeves_Title"
+msgid "Spooky Sleeves"
 msgstr ""
 
 msgctxt "MainNav/HomePage/Carousel/The_Yawning_Portal_Desc"

@@ -2,12 +2,20 @@
 msgid ""
 msgstr ""
 
+msgctxt "DuelScene/Selection_LocalPlayer"
+msgid "Do you want to select yourself?"
+msgstr ""
+
 msgctxt "DuelScene/SelectTargets_Ability"
 msgid "this ability"
 msgstr ""
 
 msgctxt "DuelScene/SelectTargets_LocalPlayer"
 msgid "Do you want to target yourself with {source}?"
+msgstr ""
+
+msgctxt "DuelScene/SelectTargets_LocalPlayer_Curse"
+msgid "Do you want to enchant yourself with a Curse?"
 msgstr ""
 
 msgctxt "DuelScene/SelectTargets_Opponent"
