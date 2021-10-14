@@ -549,7 +549,7 @@ msgctxt "AbilityHanger/Keyword/Cascade"
 msgid ""
 "When you cast this spell, exile cards from the top of your library until you "
 "exile a nonland card that costs less. You may cast that card without paying "
-"its mana cost if it's mana value is less than this spell's. Put the exiled "
+"its mana cost if its mana value is less than this spell's. Put the exiled "
 "cards on the bottom of your library in a random order."
 msgstr ""
 
@@ -1525,6 +1525,14 @@ msgstr ""
 msgctxt "AbilityHanger/Keyword/ProtectionFromGreen_Title"
 msgid "Protection from Green"
 msgstr "Ochrona przed zielonym"
+
+#, fuzzy
+#| msgctxt "AbilityHanger/Keyword/ProtectionFromDemons"
+#| msgid ""
+#| "This permanent can't be blocked, targeted, or dealt damage by Demons."
+msgctxt "AbilityHanger/Keyword/ProtectionFromHumans_Body"
+msgid "This permanent can't be blocked, targeted, or dealt damage by Humans."
+msgstr "Demony nie mogą zadać obrażeń, blokować ani wskazywać tego permanentu."
 
 msgctxt "AbilityHanger/Keyword/ProtectionFromMulticolored"
 msgid ""

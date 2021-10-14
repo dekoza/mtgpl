@@ -14,12 +14,26 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.5.1\n"
 
+#, fuzzy
+#| msgctxt "DuelScene/SelectTargets_LocalPlayer"
+#| msgid "Do you want to target yourself with {source}?"
+msgctxt "DuelScene/Selection_LocalPlayer"
+msgid "Do you want to select yourself?"
+msgstr "Czy chcesz wskazać siebie z {source}?"
+
 msgctxt "DuelScene/SelectTargets_Ability"
 msgid "this ability"
 msgstr "ta zdolność"
 
 msgctxt "DuelScene/SelectTargets_LocalPlayer"
 msgid "Do you want to target yourself with {source}?"
+msgstr "Czy chcesz wskazać siebie z {source}?"
+
+#, fuzzy
+#| msgctxt "DuelScene/SelectTargets_LocalPlayer"
+#| msgid "Do you want to target yourself with {source}?"
+msgctxt "DuelScene/SelectTargets_LocalPlayer_Curse"
+msgid "Do you want to enchant yourself with a Curse?"
 msgstr "Czy chcesz wskazać siebie z {source}?"
 
 msgctxt "DuelScene/SelectTargets_Opponent"
