@@ -2,7 +2,7 @@ Spolszczenie do gry Magic Arena
 ===============================
 
 
-W chwili obecnej projekt został zawieszony. Najnowsza wersja Areny uniemożliwia wgrywanie spolszczenia.
+W chwili obecnej projekt został zawieszony. Najnowsza wersja Areny całkowicie uniemożliwia wgrywanie spolszczenia.
 
 Jeśli uważasz, że spolszczenie było przydatne,
 `możesz zagłosować na prośbę o ponowne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.

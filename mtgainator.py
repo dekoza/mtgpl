@@ -169,13 +169,14 @@ def find_loc_trans_obj(trans_list, lang="en-US"):
 
 
 def create_datfile(filepath) -> None:
-    with open(filepath, "rb") as done_file, open(f"{filepath}.dat", "w") as dat_file:
-        dat_file.write("1\n")
-        md5_hash = hashlib.md5()
-        done_content = done_file.read()
-        dat_file.write(f"{len(done_content)}\n")
-        md5_hash.update(done_content)
-        dat_file.write(f"{md5_hash.hexdigest()}\n")
+    return
+    # with open(filepath, "rb") as done_file, open(f"{filepath}.dat", "w") as dat_file:
+    #     dat_file.write("1\n")
+    #     md5_hash = hashlib.md5()
+    #     done_content = done_file.read()
+    #     dat_file.write(f"{len(done_content)}\n")
+    #     md5_hash.update(done_content)
+    #     dat_file.write(f"{md5_hash.hexdigest()}\n")
 
 
 def convert_mana_costs(string: str) -> str:
@@ -221,7 +222,7 @@ def translate_data(path: Path):
 
     if not bak_filepath.exists():
         shutil.move(filepath, bak_filepath)
-        shutil.move(f"{filepath}.dat", f"{bak_filepath}.dat")
+        # shutil.move(f"{filepath}.dat", f"{bak_filepath}.dat")
 
     with open(bak_filepath) as source, open(filepath, "w") as outfile:
         po = polib.pofile(podir / poname)
@@ -252,10 +253,9 @@ def translate_loc(path: Path):
 
             if poname not in pofiles:
                 continue
-
             if not bak_filepath.exists():
                 shutil.move(filepath, bak_filepath)
-                shutil.move(f"{filepath}.dat", f"{bak_filepath}.dat")
+                # shutil.move(f"{filepath}.dat", f"{bak_filepath}.dat")
 
             with open(bak_filepath) as source, open(filepath, "w") as outfile:
                 po = polib.pofile(popath / poname)
@@ -340,7 +340,7 @@ def build():
             archive.write(
                 data_path / filename, arcname=f"MTGA_Data/Downloads/Data/{filename}"
             )
-        for filename in (i for i in os.listdir(loc_path) if i.startswith("loc_")):
+        for filename in (i for i in os.listdir(loc_path) if i.startswith("Loc_")):
             archive.write(
                 loc_path / filename, arcname=f"MTGA_Data/Downloads/Loc/{filename}"
             )
@@ -355,18 +355,19 @@ def tag_dats_in_path(filelist, path, version):
 
 
 def add_tag_to_dat_files(path, version=""):
-    loc_path = path / "Loc"
-    data_path = path / "Data"
-    loc_files = (
-        i for i in os.listdir(loc_path) if i.startswith("loc_") and i.endswith(".dat")
-    )
-    data_files = (
-        i
-        for i in os.listdir(data_path)
-        if i.startswith("Data_loc_") and i.endswith(".dat")
-    )
-    tag_dats_in_path(loc_files, loc_path, version)
-    tag_dats_in_path(data_files, data_path, version)
+    return
+    # loc_path = path / "Loc"
+    # data_path = path / "Data"
+    # loc_files = (
+    #     i for i in os.listdir(loc_path) if i.startswith("Loc_") and i.endswith(".dat")
+    # )
+    # data_files = (
+    #     i
+    #     for i in os.listdir(data_path)
+    #     if i.startswith("Data_loc_") and i.endswith(".dat")
+    # )
+    # tag_dats_in_path(loc_files, loc_path, version)
+    # tag_dats_in_path(data_files, data_path, version)
 
 
 def find_data_trans_obj(trans_list, lang="en-US"):
