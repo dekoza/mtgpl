@@ -1,229 +1,230 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-30 20:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-10-31 19:26+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:101
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:103
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:105
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../VOW.rst:5
 msgid ":mtgexp:`VOW` Innistrad: Crimson Vow"
@@ -239,7 +240,7 @@ msgstr ""
 #: ../../VOW.rst:9
 msgid ""
 "Choose a number between 0 and 13. Each player sacrifices that many creatures."
-msgstr ""
+msgstr "Wybierz liczbę między 0 a 13. Każdy gracz poświęca tyle stworów."
 
 #: ../../VOW.rst:14
 msgid ""
@@ -250,7 +251,7 @@ msgstr ""
 
 #: ../../VOW.rst:13
 msgid "Whenever you cast an enchantment spell, you gain 2 life."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, zyskaj 2 życia."
 
 #: ../../VOW.rst:18
 msgid ""
@@ -265,6 +266,8 @@ msgid ""
 "Disturb |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
+"Niepokojenie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
+"twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:26
 msgid ""
@@ -276,17 +279,19 @@ msgstr ""
 
 #: ../../VOW.rst:21 ../../VOW.rst:93 ../../VOW.rst:271
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../VOW.rst:23
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../VOW.rst:25
 msgid ""
 "If Drogskol Armaments would be put into a graveyard from anywhere, exile it "
 "instead."
 msgstr ""
+"Jeśli ta karta miałaby trafić skądkolwiek do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../VOW.rst:32
 msgid ""
@@ -298,13 +303,15 @@ msgstr ""
 #: ../../VOW.rst:29 ../../VOW.rst:103 ../../VOW.rst:171 ../../VOW.rst:179
 #: ../../VOW.rst:193 ../../VOW.rst:263 ../../VOW.rst:299 ../../VOW.rst:307
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../VOW.rst:31 ../../VOW.rst:41 ../../VOW.rst:233 ../../VOW.rst:313
 msgid ""
 "Training (Whenever this creature attacks with another creature with greater "
 "power, put a +1/+1 counter on this creature.)"
 msgstr ""
+"Trening (Ilekroć ten stwór zaatakuje wraz z innym stworem o większej sile, "
+"umieść znacznik +1/+1 na niniejszym stworze.)"
 
 #: ../../VOW.rst:38
 msgid ""
@@ -318,6 +325,8 @@ msgid ""
 "As long as you control seven or more enchantments, creatures you control "
 "have flying and vigilance."
 msgstr ""
+"O ile władasz co najmniej siedmioma urokami, stwory pod twoim władaniem mają "
+"latanie i czujność."
 
 #: ../../VOW.rst:37
 msgid ""
@@ -325,6 +334,9 @@ msgid ""
 "creature token with \"This creature's power and toughness are each equal to "
 "the number of Spirits you control.\""
 msgstr ""
+"Ilekroć rzucisz czar uroku, stwórz żeton białego stwora Duch Kleryk mający "
+"\"Siła i wytrzymałość tego stwora są obie równe liczbie Duchów pod twoim "
+"władaniem.\""
 
 #: ../../VOW.rst:46
 msgid ""
@@ -338,12 +350,16 @@ msgid ""
 "Whenever Savior of Ollenblock trains, exile up to one other target creature "
 "from the battlefield or creature card from a graveyard."
 msgstr ""
+"Ilekroć ten stwór trenuje, wygnaj co najwyżej jednego wskazanego stwora z "
+"pola bitwy lub kartę stwora z cmentarza."
 
 #: ../../VOW.rst:45
 msgid ""
 "When Savior of Ollenblock leaves the battlefield, put the exiled cards onto "
 "the battlefield under their owners' control."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, umieść wygnane karty na polu bitwy pod "
+"władaniem ich właścicieli."
 
 #: ../../VOW.rst:50
 msgid ""
@@ -357,6 +373,9 @@ msgid ""
 "Creatures you control with +1/+1 counters on them have base power and "
 "toughness 4/4, have flying, and are Angels in addition to their other types."
 msgstr ""
+"Stwory pod twoim władaniem mające znaczniki +1/+1 mają bazową siłę i "
+"wytrzymałość 4/4, mają latanie i są dodatkowo Aniołami oprócz swoich innych "
+"typów."
 
 #: ../../VOW.rst:56
 msgid ""
@@ -368,11 +387,11 @@ msgstr ""
 
 #: ../../VOW.rst:53
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../VOW.rst:55
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie nie-stworowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../VOW.rst:64
 msgid ""
@@ -383,19 +402,22 @@ msgstr ""
 
 #: ../../VOW.rst:59
 msgid "Whenever you gain life, put a +1/+1 counter on \"Bedsheet Elemental\"."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../VOW.rst:61
 msgid ""
 "As long as \"Bedsheet Elemental\" has four or more +1/+1 counters on it, it "
 "has flying and vigilance."
 msgstr ""
+"O ile ten stwór ma co najmniej cztery znaczniki +!/+1, ma latanie i czujność."
 
 #: ../../VOW.rst:63
 msgid ""
 "As long as \"Bedsheet Elemental\" has ten or more +1/+1 counters on it, it "
 "has indestructible."
 msgstr ""
+"O ile ten stwór ma co najmniej dziesięć znaczników +1/+1, ma "
+"niezniszczalność."
 
 #: ../../VOW.rst:68
 msgid ""
@@ -423,7 +445,7 @@ msgstr ""
 
 #: ../../VOW.rst:71
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../VOW.rst:78
 msgid ""
@@ -440,7 +462,7 @@ msgstr ""
 
 #: ../../VOW.rst:77
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../VOW.rst:84
 msgid ""
@@ -476,6 +498,8 @@ msgid ""
 "Disturb |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
+"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
+"twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:98
 msgid ""
@@ -503,13 +527,14 @@ msgstr ""
 
 #: ../../VOW.rst:101
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../VOW.rst:105 ../../VOW.rst:133 ../../VOW.rst:145 ../../VOW.rst:157
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
 msgstr ""
+"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
 
 #: ../../VOW.rst:107
 msgid ""
@@ -542,7 +567,7 @@ msgstr ""
 
 #: ../../VOW.rst:115 ../../VOW.rst:219
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../VOW.rst:117
 msgid ""
@@ -560,7 +585,7 @@ msgstr ""
 
 #: ../../VOW.rst:121
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../VOW.rst:123
 msgid ""
@@ -591,7 +616,7 @@ msgstr ""
 
 #: ../../VOW.rst:131
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../VOW.rst:135
 msgid ""
@@ -797,6 +822,8 @@ msgid ""
 "Daybound (If a player casts no spells during their own turn, it becomes "
 "night next turn.)"
 msgstr ""
+"Solarny (Jeśli gracz nie rzucił czarów podczas swojej tury, w następnej "
+"turze nastaje noc.)"
 
 #: ../../VOW.rst:216
 msgid ""
@@ -818,6 +845,8 @@ msgid ""
 "Nightbound (If a player casts at least two spells during their own turn, it "
 "becomes day next turn.)"
 msgstr ""
+"Lunarny (Jeśli gracz rzucił co najmniej dwa czary w swojej turze, w "
+"następnej turze nastaje dzień.)"
 
 #: ../../VOW.rst:222
 msgid ""
@@ -848,7 +877,7 @@ msgstr ""
 
 #: ../../VOW.rst:231
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../VOW.rst:240
 msgid ""
@@ -894,11 +923,11 @@ msgstr ""
 
 #: ../../VOW.rst:247
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../VOW.rst:249
 msgid "Other creatures you control have vigilance."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają czujność."
 
 #: ../../VOW.rst:254
 msgid ""
@@ -909,7 +938,7 @@ msgstr ""
 
 #: ../../VOW.rst:253
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
 
 #: ../../VOW.rst:260
 msgid ""
@@ -951,6 +980,8 @@ msgid ""
 "Disturb |mana_1|\\ |mana_w|\\ |mana_u| (You may cast this card from your "
 "graveyard transformed for its disturb cost.)"
 msgstr ""
+"Niepokojenie |mana_1|\\ |mana_w|\\ |mana_u| (Możesz rzucić tę kartę "
+"transformowaną z twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:276
 msgid ""
@@ -1024,7 +1055,7 @@ msgstr ""
 
 #: ../../VOW.rst:293
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../VOW.rst:295
 msgid ""
@@ -1116,7 +1147,7 @@ msgstr ""
 
 #: ../../VOW.rst:327
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../VOW.rst:334
 msgid ""
@@ -1133,7 +1164,7 @@ msgstr ""
 
 #: ../../VOW.rst:333
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../VOW.rst:340
 msgid ""
@@ -1150,7 +1181,7 @@ msgstr ""
 
 #: ../../VOW.rst:339
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../VOW.rst:346
 msgid ""
@@ -1167,7 +1198,7 @@ msgstr ""
 
 #: ../../VOW.rst:345
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../VOW.rst:352
 msgid ""
@@ -1184,7 +1215,7 @@ msgstr ""
 
 #: ../../VOW.rst:351
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../VOW.rst:360
 msgid ""
@@ -1195,7 +1226,7 @@ msgstr ""
 
 #: ../../VOW.rst:355
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../VOW.rst:357
 msgid ""
@@ -1219,7 +1250,7 @@ msgstr ""
 
 #: ../../VOW.rst:363
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../VOW.rst:368
 msgid ""
@@ -1230,7 +1261,7 @@ msgstr ""
 
 #: ../../VOW.rst:367
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../VOW.rst:372
 msgid ""
@@ -1241,7 +1272,7 @@ msgstr ""
 
 #: ../../VOW.rst:371
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../VOW.rst:376
 msgid ""
@@ -1252,7 +1283,7 @@ msgstr ""
 
 #: ../../VOW.rst:375
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../VOW.rst:379
 msgid ""
@@ -1263,4 +1294,4 @@ msgstr ""
 
 #: ../../VOW.rst:379
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
