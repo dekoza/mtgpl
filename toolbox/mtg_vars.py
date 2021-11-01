@@ -134,6 +134,7 @@ expansions = [
     "UMA",
     "USG",
     "VIS",
+    "VOW",
     "WAR",
     "WTH",
     "WWK",

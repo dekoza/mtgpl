@@ -40,7 +40,6 @@ Nadchodzące
 -----------
 
 * Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)
-* Standard: :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent| (Premiera: 2021-09-24)
 
 Standard
 --------
@@ -48,6 +47,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|
 * :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|
 * :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
