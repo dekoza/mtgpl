@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2021.9\n"
+"Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 13:22+0100\n"
+"POT-Creation-Date: 2021-11-01 23:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,6 +165,10 @@ msgstr ""
 #: ../../percentages.inc:361
 #: ../../percentages.inc:366
 #: ../../percentages.inc:373
+#: ../../percentages.inc:290
+#: ../../percentages.inc:153
+#: ../../percentages.inc:5
+#: ../../percentages.inc:234
 #: ../../percentages.inc:329
 #: ../../percentages.inc:334
 #: ../../percentages.inc:257
@@ -560,114 +564,130 @@ msgstr ""
 msgid "Dodatki poza Standardem"
 msgstr ""
 
+#: ../../pioneer.rst:24
+msgid ":mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|"
+msgstr ""
+
 #: ../../pioneer.rst:25
-msgid ":mtgexp:`M20` :doc:`Core Set 2020<M20>` |M20_percent|"
+msgid ":mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:26
-msgid ":mtgexp:`WAR` :doc:`War of the Spark<WAR>` |WAR_percent|"
+msgid ":mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:27
-msgid ":mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |RNA_percent|"
+msgid ":mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:28
-msgid ":mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |GRN_percent|"
+msgid ":mtgexp:`M20` :doc:`Core Set 2020<M20>` |M20_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:29
-msgid ":mtgexp:`M19` :doc:`Core Set 2019<M19>` |M19_percent|"
+msgid ":mtgexp:`WAR` :doc:`War of the Spark<WAR>` |WAR_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:30
-msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |DOM_percent|"
+msgid ":mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |RNA_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:31
-msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |RIX_percent|"
+msgid ":mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |GRN_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:32
-msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` |XLN_percent|"
+msgid ":mtgexp:`M19` :doc:`Core Set 2019<M19>` |M19_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:33
-msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |HOU_percent|"
+msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` |DOM_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:34
-msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` |AKH_percent|"
+msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |RIX_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:35
-msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` |AER_percent|"
+msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` |XLN_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:36
-msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` |KLD_percent|"
+msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |HOU_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:37
-msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |EMN_percent|"
+msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` |AKH_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:38
-msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |SOI_percent|"
+msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` |AER_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:39
-msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |OGW_percent|"
+msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` |KLD_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:40
-msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |BFZ_percent|"
+msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |EMN_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:41
-msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` |ORI_percent|"
+msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |SOI_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:42
-msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |DTK_percent|"
+msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |OGW_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:43
-msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |FRF_percent|"
+msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |BFZ_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:44
-msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |KTK_percent|"
+msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` |ORI_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:45
-msgid ":mtgexp:`M15` :doc:`Magic 2015<M15>` |M15_percent|"
+msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |DTK_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:46
-msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |JOU_percent|"
+msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |FRF_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:47
-msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |BNG_percent|"
+msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |KTK_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:48
-msgid ":mtgexp:`THS` :doc:`Theros<THS>` |THS_percent|"
+msgid ":mtgexp:`M15` :doc:`Magic 2015<M15>` |M15_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:49
-msgid ":mtgexp:`M14` :doc:`Magic 2014<M14>` |M14_percent|"
+msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |JOU_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:50
-msgid ":mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |DGM_percent|"
+msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |BNG_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:51
-msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` |GTC_percent|"
+msgid ":mtgexp:`THS` :doc:`Theros<THS>` |THS_percent|"
 msgstr ""
 
 #: ../../pioneer.rst:52
+msgid ":mtgexp:`M14` :doc:`Magic 2014<M14>` |M14_percent|"
+msgstr ""
+
+#: ../../pioneer.rst:53
+msgid ":mtgexp:`DGM` :doc:`Dragon's Maze<DGM>` |DGM_percent|"
+msgstr ""
+
+#: ../../pioneer.rst:54
+msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` |GTC_percent|"
+msgstr ""
+
+#: ../../pioneer.rst:55
 msgid ":mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |RTR_percent|"
 msgstr ""
