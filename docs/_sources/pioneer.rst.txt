@@ -21,7 +21,10 @@ Standard jest ich podzbiorem.
 
 Dodatki poza Standardem
 -----------------------
-
+* :mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|
+* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|
+* :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|
+* :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|
 * :mtgexp:`M20` :doc:`Core Set 2020<M20>` |M20_percent|
 * :mtgexp:`WAR` :doc:`War of the Spark<WAR>` |WAR_percent|
 * :mtgexp:`RNA` :doc:`Ravnica Allegiance<RNA>` |RNA_percent|

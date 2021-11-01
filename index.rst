@@ -53,13 +53,6 @@ Jest podzbiorem wszystkich innych formatów.
 * :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
 * :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
 
-Wkrótce rotują:
-
-* :mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|
-* :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|
-* :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|
-* :mtgexp:`ELD` :doc:`Throne of Eldraine<ELD>` |ELD_percent|
-
 Pionier
 -------
 
