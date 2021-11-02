@@ -39,7 +39,7 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* Standard: :mtgexp:`VOW` Innistrad: Crimson Vow (Premiera: 2021-11-19)
+* Standard: :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` (Premiera: 2021-11-19)
 
 Standard
 --------

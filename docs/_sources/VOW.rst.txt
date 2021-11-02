@@ -65,6 +65,26 @@
    If Ancestor's Embrace would be put into a graveyard from anywhere, exile it instead.
 
 
+:mtgtip:`Lantern Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfd59300-7b5c-4263-a7fd-775c9fcb05ad.jpg?1635788641|https://scryfall.com/card/vow/23/lantern-flare?utm_source=api>`
+   Cleave |mana_x|\ |mana_r|\ |mana_w| (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+
+   Lantern Flare deals X damage to target creature or planeswalker and you gain X life. [X is the number of creatures you control.]
+
+
+:mtgtip:`Radiant Grace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a708243-42a1-4fa7-8b0b-9d5163da84bb.jpg?1635787289|https://scryfall.com/card/vow/31/radiant-grace-radiant-restraints?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +1/+0 and has vigilance.
+
+   When enchanted creature dies, return Radiant Grace to the battlefield transformed under your control attached to target opponent.
+
+
+:mtgtip:`Radiant Restraints<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/a/4a708243-42a1-4fa7-8b0b-9d5163da84bb.jpg?1635787289|https://scryfall.com/card/vow/31/radiant-grace-radiant-restraints?utm_source=api>`
+   Enchant player
+
+   Creatures enchanted player controls enter the battlefield tapped.
+
+
 :mtgtip:`Savior of Ollenbock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba77e83b-1846-4c42-bea0-2e304429fbe0.jpg?1635454505|https://scryfall.com/card/vow/34/savior-of-ollenbock?utm_source=api>`
    Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
 
@@ -137,6 +157,12 @@
    Each player chooses a nonland permanent they control. Return each other nonland permanent to its owner's hand, then draw a card for each opponent with more cards in hand than you.
 
 
+:mtgtip:`Diver Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38b5fdf4-3884-436f-8066-bc7593e72b02.jpg?1635789403|https://scryfall.com/card/vow/56/diver-skaab?utm_source=api>`
+   Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+
+   Whenever Diver Skaab exploits a creature, target creature's owner puts it on the top or bottom of their library.
+
+
 :mtgtip:`Geistlight Snare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7302b5da-cac5-4ce7-ad38-2ff4e410891b.jpg?1635454609|https://scryfall.com/card/vow/60/geistlight-snare?utm_source=api>`
    This spell costs |mana_1| less to cast if you control a Spirit. It also costs |mana_1| less to cast if you control an enchantment.
 
@@ -171,6 +197,10 @@
    Draw a card.
 
 
+:mtgtip:`Necroduality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b674053-1f0f-436d-b106-f91f41cf3959.jpg?1635786979|https://scryfall.com/card/vow/70/necroduality?utm_source=api>`
+   Whenever a nontoken Zombie enters the battlefield under your control, create a token that's a copy of that creature.
+
+
 :mtgtip:`Overcharged Amalgam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbbcd63d-6c25-47a6-a76c-ac53bf12949c.jpg?1635446176|https://scryfall.com/card/vow/71/overcharged-amalgam?utm_source=api>`
    Flash
 
@@ -183,6 +213,16 @@
 
 :mtgtip:`Archghoul of Thraben<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cf81c9d-ddb2-470e-8a4a-590049713e95.jpg?1635532299|https://scryfall.com/card/vow/93/archghoul-of-thraben?utm_source=api>`
    Whenever Archghoul of Thraben or another Zombie you control dies, look at the top card of your library. If it's a Zombie card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.
+
+
+:mtgtip:`Bloodsworn Squire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7cbdd54-7685-4921-ab60-dc36e647a4c5.jpg?1635787947|https://scryfall.com/card/vow/97/bloodsworn-squire-bloodsworn-knight?utm_source=api>`
+   |mana_1|\ |mana_b|, Discard a card: Bloodsworn Squire gains indestructible until end of turn. Tap it. Then if there are four or more creature cards in your graveyard, transform Bloodsworn Squire. (Damage and effects that say "destroy" don't destroy it.)
+
+
+:mtgtip:`Bloodsworn Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/7/a7cbdd54-7685-4921-ab60-dc36e647a4c5.jpg?1635787947|https://scryfall.com/card/vow/97/bloodsworn-squire-bloodsworn-knight?utm_source=api>`
+   Bloodsworn Knight's power and toughness are each equal to the number of creature cards in your graveyard.
+
+   |mana_1|\ |mana_b|, Discard a card: Bloodsworn Knight gains indestructible until end of turn. Tap it. (Damage and effects that say "destroy" don't destroy it.)
 
 
 :mtgtip:`"Closed Curtains"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1.jpg?1635533261|https://scryfall.com/card/vow/101/closed-curtains-uncovered-eye?utm_source=api>`
@@ -219,6 +259,12 @@
    When Gluttonous Guest enters the battlefield, create a Blood token. (It's an artifact with "|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Blood token, you gain 1 life.
+
+
+:mtgtip:`Groom's Finery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43bc65cf-4444-4db3-9bb3-a7d91e560470.jpg?1635787630|https://scryfall.com/card/vow/117/grooms-finery?utm_source=api>`
+   Equipped creature gets +2/+0. It gets an additional +0/+2 and has deathtouch as long as an Equipment named Bride's Gown is attached to a creature you control.
+
+   Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
 :mtgtip:`Innocent Traveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13a5e5fd-a67a-4c0e-97ae-923bdbc1be20.jpg?1635606507|https://scryfall.com/card/vow/121/innocent-traveler-malicious-invader?utm_source=api>`
@@ -291,6 +337,14 @@
    Discard your hand, then draw a card for each card you've discarded this turn.
 
 
+:mtgtip:`Curse of Hospitality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45bcb839-4cff-4349-9892-0c76ae81929c.jpg?1635788112|https://scryfall.com/card/vow/152/curse-of-hospitality?utm_source=api>`
+   Enchant player
+
+   Creatures attacking enchanted player have trample.
+
+   Whenever a creature deals combat damage to enchanted player, that player exiles the top card of their library. Until end of turn, that creature's controller may play that card and they may spend mana as though it were mana of any color to cast that spell.
+
+
 :mtgtip:`Dominating Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b11d234-c6e4-45b2-a3c2-dcacc77cc084.jpg?1635453196|https://scryfall.com/card/vow/154/dominating-vampire?utm_source=api>`
    When Dominating Vampire enters the battlefield, gain control of target creature with mana value less than or equal to the number of Vampires you control until end of turn. Untap that creature. It gains haste until end of turn.
 
@@ -307,7 +361,7 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`"Frenetic Devils"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7912206-6de3-4085-b5f6-a2e90ea55b90.jpg?1635640142|https://scryfall.com/card/vow/159/frenetic-devils?utm_source=api>`
+:mtgtip:`"Frenetic Devils"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7912206-6de3-4085-b5f6-a2e90ea55b90.jpg?1635787417|https://scryfall.com/card/vow/159/frenetic-devils?utm_source=api>`
    Haste
 
    Whenever you cast a noncreature spell, "Frenetic Devils" gets +2/+2 until end of turn.
@@ -367,6 +421,14 @@
    Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
 
 
+:mtgtip:`Cemetery Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b124ccc4-76e3-41a4-92b2-8f1d06ea9cb8.jpg?1635789082|https://scryfall.com/card/vow/191/cemetery-prowler?utm_source=api>`
+   Vigilance
+
+   Whenever Cemetery Prowler enters the battlefield or attacks, exile a card from a graveyard.
+
+   Spells you cast cost |mana_1| less to cast for each card type they share with cards exiled with Cemetery Prowler.
+
+
 :mtgtip:`Cloaked Cadet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06d86c79-d2c7-4900-9474-4d4bc4c74d44.jpg?1635704665|https://scryfall.com/card/vow/192/cloaked-cadet?utm_source=api>`
    Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
 
@@ -389,6 +451,12 @@
    Other creatures you control have vigilance.
 
 
+:mtgtip:`Laid to Rest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.jpg?1635788887|https://scryfall.com/card/vow/207/laid-to-rest?utm_source=api>`
+   Whenever a Human you control dies, draw a card.
+
+   Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.
+
+
 :mtgtip:`Massive Might<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a5cd50b-4825-4d85-b0f9-e2a51d2a7df1.jpg?1635453101|https://scryfall.com/card/vow/208/massive-might?utm_source=api>`
    Target creature gets +2/+2 and gains trample until end of turn.
 
@@ -397,6 +465,10 @@
    At the beginning of combat on your turn, if you control another Wolf or Werewolf, put a +1/+1 counter on Packsong Pup.
 
    When Packsong Pup dies, you gain life equal to its power.
+
+
+:mtgtip:`Retrieve<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e997f78-22a2-4b66-ac10-1adc9a72ce3b.jpg?1635789200|https://scryfall.com/card/vow/215/retrieve?utm_source=api>`
+   Return up to one target creature card and up to one target noncreature permanent card from your graveyard to your hand. Exile Retrieve.
 
 
 :mtgtip:`Anje, Maid of Dishonor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bfac4ab-97f1-448c-8554-42ed03eb5656.jpg?1635454585|https://scryfall.com/card/vow/231/anje-maid-of-dishonor?utm_source=api>`
