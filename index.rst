@@ -18,12 +18,15 @@ Jeśli uważasz, że projekt ten jest przydatny, `wesprzyj autora na Patronite <
 Spolszczenie Magic Arena
 ========================
 
-.. image:: images/MTGA_Banned.png
+.. image:: images/MTGA_Teaser.png
 
 
-Chcesz grać w Arenę po polsku? :doc:`Kiedyś było to możliwe<mtgapl>`. Niestety wraz z aktualizacją dodającą Innistrad: Midnight Hunt,
-w kliencie Areny pojawiło się zabezpieczenie uniemożliwiające wgranie spolszczenia. Jeśli uważasz, że spolszczenie było przydatne,
-`możesz zagłosować na prośbę o ponowne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
+Chcesz grać w Arenę po polsku? :doc:`Da się to zrobić<mtgapl>`. Niestety producent gry
+coraz bardziej utrudnia ten proces z każdym większym wydaniem. Po premierze dodatku Innistrad Midnight Hunt
+nie można już używać spolszczenia grając pod Linuksem (poprzez WINE). Niewykluczone, że nawet pod Windows
+tłumaczenie nie będzie działać, choć na razie dostaję informację, że mimo wszystko działa.
+Jeśli uważasz, że amatorskie tłumaczenie gry jest przydatnym projektem,
+`możesz zagłosować na prośbę o oficjalne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
 
 
 Instrukcja gry
