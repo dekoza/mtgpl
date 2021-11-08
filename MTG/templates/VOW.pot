@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-05 22:17+0100\n"
+"POT-Creation-Date: 2021-11-08 11:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -568,10 +568,10 @@ msgstr ""
 #: ../../VOW.rst:993
 #: ../../VOW.rst:1001
 #: ../../VOW.rst:1221
-#: ../../VOW.rst:1685
-#: ../../VOW.rst:1763
-#: ../../VOW.rst:1771
-#: ../../VOW.rst:1803
+#: ../../VOW.rst:1687
+#: ../../VOW.rst:1765
+#: ../../VOW.rst:1773
+#: ../../VOW.rst:1805
 msgid "Flying"
 msgstr ""
 
@@ -580,7 +580,7 @@ msgid "When Angelic Quartermaster enters the battlefield, put a +1/+1 counter on
 msgstr ""
 
 #: ../../VOW.rst:20
-msgid ":mtgtip:`Arm the Cathars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2004a20c-e434-4691-8ef2-740846ce6a51.jpg?1635928672|https://scryfall.com/card/vow/3/arm-the-cathars?utm_source=api>`"
+msgid ":mtgtip:`Arm the Cathars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2004a20c-e434-4691-8ef2-740846ce6a51.jpg?1636208251|https://scryfall.com/card/vow/3/arm-the-cathars?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:19
@@ -588,16 +588,16 @@ msgid "Until end of turn, target creature gets +3/+3, up to one other target cre
 msgstr ""
 
 #: ../../VOW.rst:26
-msgid ":mtgtip:`Bride's Gown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3e5dbbe-ca99-41a5-901d-511b9f3ccea6.jpg?1636042874|https://scryfall.com/card/vow/4/brides-gown?utm_source=api>`"
+msgid ":mtgtip:`Bride's Gown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3e5dbbe-ca99-41a5-901d-511b9f3ccea6.jpg?1636208262|https://scryfall.com/card/vow/4/brides-gown?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:23
-msgid "Equipped creature gets +2/+0. It gets an additional +0/+2 and has first strike as long as an equipment named Groom's Finery is attached to a creature you control."
+msgid "Equipped creature gets +2/+0. It gets an additional +0/+2 and has first strike as long as an Equipment named Groom's Finery is attached to a creature you control."
 msgstr ""
 
 #: ../../VOW.rst:25
 #: ../../VOW.rst:861
-#: ../../VOW.rst:1821
+#: ../../VOW.rst:1823
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
 
@@ -649,7 +649,7 @@ msgid "Whenever you cast an enchantment spell, you gain 2 life."
 msgstr ""
 
 #: ../../VOW.rst:54
-msgid ":mtgtip:`Distracting Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1635793180|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`"
+msgid ":mtgtip:`Distracting Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1636208375|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:51
@@ -661,7 +661,7 @@ msgid "Disturb |mana_4|\\ |mana_w| (You may cast this card from your graveyard t
 msgstr ""
 
 #: ../../VOW.rst:62
-msgid ":mtgtip:`Clever Distraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1635793180|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`"
+msgid ":mtgtip:`Clever Distraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1636208375|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:57
@@ -680,8 +680,8 @@ msgstr ""
 #: ../../VOW.rst:551
 #: ../../VOW.rst:835
 #: ../../VOW.rst:1561
-#: ../../VOW.rst:1663
-#: ../../VOW.rst:1693
+#: ../../VOW.rst:1665
+#: ../../VOW.rst:1695
 msgid "Enchant creature"
 msgstr ""
 
@@ -690,7 +690,7 @@ msgid "Enchanted creature has \"Whenever this creature attacks, tap target creat
 msgstr ""
 
 #: ../../VOW.rst:61
-msgid "If Clever Distracting would be put into a graveyard from anywhere, exile it instead."
+msgid "If Clever Distraction would be put into a graveyard from anywhere, exile it instead."
 msgstr ""
 
 #: ../../VOW.rst:66
@@ -714,7 +714,7 @@ msgid "If Drogskol Armaments would be put into a graveyard from anywhere, exile 
 msgstr ""
 
 #: ../../VOW.rst:78
-msgid ":mtgtip:`Estwald Shieldbasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61c7d889-8cc0-4e80-b6d5-d41961820224.jpg?1636112639|https://scryfall.com/card/vow/11/estwald-shieldbasher?utm_source=api>`"
+msgid ":mtgtip:`Estwald Shieldbasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61c7d889-8cc0-4e80-b6d5-d41961820224.jpg?1636208241|https://scryfall.com/card/vow/11/estwald-shieldbasher?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:77
@@ -795,7 +795,7 @@ msgstr ""
 #: ../../VOW.rst:1321
 #: ../../VOW.rst:1377
 #: ../../VOW.rst:1547
-#: ../../VOW.rst:1789
+#: ../../VOW.rst:1791
 msgid "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)"
 msgstr ""
 
@@ -848,7 +848,7 @@ msgid "|mana_2|\\ |mana_w|, Remove two +1/+1 counters from among creatures you c
 msgstr ""
 
 #: ../../VOW.rst:156
-msgid ":mtgtip:`Katilda, Dawnhart Martyr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1635985798|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`"
+msgid ":mtgtip:`Katilda, Dawnhart Martyr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1636208387|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:151
@@ -864,11 +864,11 @@ msgid "Disturb |mana_3|\\ |mana_w|\\ |mana_w| (You may cast this card from your 
 msgstr ""
 
 #: ../../VOW.rst:164
-msgid ":mtgtip:`Katilda's Rising Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1635985798|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`"
+msgid ":mtgtip:`Katilda's Rising Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1636208387|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:161
-msgid "Enchanted creature has flying, lifelink, and protection from Vampires, and it gets +X/+X where X is the number of permanents you control that are Spirits and/or enchantments."
+msgid "Enchanted creature has flying, lifelink, and protection from Vampires, and it gets +X/+X, where X is the number of permanents you control that are Spirits and/or enchantments."
 msgstr ""
 
 #: ../../VOW.rst:163
@@ -882,7 +882,7 @@ msgstr ""
 #: ../../VOW.rst:167
 #: ../../VOW.rst:775
 #: ../../VOW.rst:781
-#: ../../VOW.rst:1737
+#: ../../VOW.rst:1739
 msgid "Lifelink"
 msgstr ""
 
@@ -962,7 +962,7 @@ msgid "Sacrifice Ollenbock Escort: Target creature you control with a +1/+1 coun
 msgstr ""
 
 #: ../../VOW.rst:214
-msgid ":mtgtip:`Panicked Bystander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/031c5cff-e579-432a-bcee-864b12eb0558.jpg?1636119444|https://scryfall.com/card/vow/28/panicked-bystander-cackling-culprit?utm_source=api>`"
+msgid ":mtgtip:`Panicked Bystander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/031c5cff-e579-432a-bcee-864b12eb0558.jpg?1636208398|https://scryfall.com/card/vow/28/panicked-bystander-cackling-culprit?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:211
@@ -974,7 +974,7 @@ msgid "At the beginning of your end step, if you gained 3 or more life this turn
 msgstr ""
 
 #: ../../VOW.rst:220
-msgid ":mtgtip:`Cackling Culprit<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/3/031c5cff-e579-432a-bcee-864b12eb0558.jpg?1636119444|https://scryfall.com/card/vow/28/panicked-bystander-cackling-culprit?utm_source=api>`"
+msgid ":mtgtip:`Cackling Culprit<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/3/031c5cff-e579-432a-bcee-864b12eb0558.jpg?1636208398|https://scryfall.com/card/vow/28/panicked-bystander-cackling-culprit?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:217
@@ -1038,15 +1038,15 @@ msgid "Destroy target artifact or enchantment. You gain 3 life."
 msgstr ""
 
 #: ../../VOW.rst:260
-msgid ":mtgtip:`Savior of Ollenbock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba77e83b-1846-4c42-bea0-2e304429fbe0.jpg?1635454505|https://scryfall.com/card/vow/34/savior-of-ollenbock?utm_source=api>`"
+msgid ":mtgtip:`Savior of Ollenbock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba77e83b-1846-4c42-bea0-2e304429fbe0.jpg?1636208428|https://scryfall.com/card/vow/34/savior-of-ollenbock?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:257
-msgid "Whenever Savior of Ollenblock trains, exile up to one other target creature from the battlefield or creature card from a graveyard."
+msgid "Whenever Savior of Ollenbock trains, exile up to one other target creature from the battlefield or creature card from a graveyard."
 msgstr ""
 
 #: ../../VOW.rst:259
-msgid "When Savior of Ollenblock leaves the battlefield, put the exiled cards onto the battlefield under their owners' control."
+msgid "When Savior of Ollenbock leaves the battlefield, put the exiled cards onto the battlefield under their owners' control."
 msgstr ""
 
 #: ../../VOW.rst:268
@@ -1163,11 +1163,11 @@ msgid "Destroy target creature with toughness 4 or greater."
 msgstr ""
 
 #: ../../VOW.rst:324
-msgid ":mtgtip:`Vampire Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8f6f03b-5a4e-4532-9c9e-24c75df2769f.jpg?1636119123|https://scryfall.com/card/vow/43/vampire-slayer?utm_source=api>`"
+msgid ":mtgtip:`Vampire Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8f6f03b-5a4e-4532-9c9e-24c75df2769f.jpg?1636208362|https://scryfall.com/card/vow/43/vampire-slayer?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:323
-msgid "Whenever Vampire Slayer deal damage to a Vampire, destroy that creature."
+msgid "Whenever Vampire Slayer deals damage to a Vampire, destroy that creature."
 msgstr ""
 
 #: ../../VOW.rst:332
@@ -1247,7 +1247,7 @@ msgid "If Spectral Binding would be put into a graveyard from anywhere, exile it
 msgstr ""
 
 #: ../../VOW.rst:374
-msgid ":mtgtip:`Biolume Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.jpg?1635606014|https://scryfall.com/card/vow/49/biolume-egg-biolume-serpent?utm_source=api>`"
+msgid ":mtgtip:`Biolume Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.jpg?1636208442|https://scryfall.com/card/vow/49/biolume-egg-biolume-serpent?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:369
@@ -1266,7 +1266,7 @@ msgid "When you sacrifice Biolume Egg, return it to the battlefield transformed 
 msgstr ""
 
 #: ../../VOW.rst:378
-msgid ":mtgtip:`Biolume Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.jpg?1635606014|https://scryfall.com/card/vow/49/biolume-egg-biolume-serpent?utm_source=api>`"
+msgid ":mtgtip:`Biolume Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.jpg?1636208442|https://scryfall.com/card/vow/49/biolume-egg-biolume-serpent?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:377
@@ -1359,7 +1359,7 @@ msgstr ""
 #: ../../VOW.rst:847
 #: ../../VOW.rst:901
 #: ../../VOW.rst:947
-#: ../../VOW.rst:1783
+#: ../../VOW.rst:1785
 msgid "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)"
 msgstr ""
 
@@ -1490,7 +1490,7 @@ msgid "Draw three cards. [Your maximum hand size is reduced by three for the res
 msgstr ""
 
 #: ../../VOW.rst:500
-msgid ":mtgtip:`Jacob Hauken, Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b4529c3-8edb-4909-b910-806450a39d2e.jpg?1636129991|https://scryfall.com/card/vow/65/jacob-hauken-inspector-haukens-insight?utm_source=api>`"
+msgid ":mtgtip:`Jacob Hauken, Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b4529c3-8edb-4909-b910-806450a39d2e.jpg?1636208458|https://scryfall.com/card/vow/65/jacob-hauken-inspector-haukens-insight?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:499
@@ -1498,7 +1498,7 @@ msgid "|tap|: Draw a card, then exile a card from your hand face down. You may l
 msgstr ""
 
 #: ../../VOW.rst:506
-msgid ":mtgtip:`Hauken's Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/b/6b4529c3-8edb-4909-b910-806450a39d2e.jpg?1636129991|https://scryfall.com/card/vow/65/jacob-hauken-inspector-haukens-insight?utm_source=api>`"
+msgid ":mtgtip:`Hauken's Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/b/6b4529c3-8edb-4909-b910-806450a39d2e.jpg?1636208458|https://scryfall.com/card/vow/65/jacob-hauken-inspector-haukens-insight?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:503
@@ -1506,7 +1506,7 @@ msgid "At the beginning of your upkeep, exile the top card of your library face 
 msgstr ""
 
 #: ../../VOW.rst:505
-msgid "Once during each of your turns, you may play a land or cast a spell from the cards exiled with this permanent without paying its mana cost."
+msgid "Once during each of your turns, you may play a land or cast a spell from among the cards exiled with this permanent without paying its mana cost."
 msgstr ""
 
 #: ../../VOW.rst:512
@@ -1567,15 +1567,15 @@ msgid "If Ghastly Mimicry would be put into a graveyard from anywhere, exile it 
 msgstr ""
 
 #: ../../VOW.rst:548
-msgid ":mtgtip:`Mischievous Catgeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636129969|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`"
+msgid ":mtgtip:`Mischievous Catgeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636208485|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:545
-msgid "Whenever Mischievous Catgeist deals combat damage to a player, draw card."
+msgid "Whenever Mischievous Catgeist deals combat damage to a player, draw a card."
 msgstr ""
 
 #: ../../VOW.rst:556
-msgid ":mtgtip:`Catlike Curiosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636129969|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`"
+msgid ":mtgtip:`Catlike Curiosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636208485|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:553
@@ -1695,7 +1695,7 @@ msgid "|mana_3|\\ |mana_u|: Draw two cards, then discard a card."
 msgstr ""
 
 #: ../../VOW.rst:630
-msgid ":mtgtip:`Steelclad Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55fb1426-5a6f-48dd-938b-c64b1a28ee59.jpg?1636114536|https://scryfall.com/card/vow/80/steelclad-spirit?utm_source=api>`"
+msgid ":mtgtip:`Steelclad Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55fb1426-5a6f-48dd-938b-c64b1a28ee59.jpg?1636208518|https://scryfall.com/card/vow/80/steelclad-spirit?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:629
@@ -1993,7 +1993,7 @@ msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../VOW.rst:798
-msgid ":mtgtip:`Dread Fugue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ad4c472-b8ce-4ae0-a6f0-726ea74722c5.jpg?1636124695|https://scryfall.com/card/vow/107/dread-fugue?utm_source=api>`"
+msgid ":mtgtip:`Dread Fugue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ad4c472-b8ce-4ae0-a6f0-726ea74722c5.jpg?1636208534|https://scryfall.com/card/vow/107/dread-fugue?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:795
@@ -2001,7 +2001,7 @@ msgid "Cleave |mana_2|\\ |mana_b| (You may cast this spell for its cleave cost. 
 msgstr ""
 
 #: ../../VOW.rst:797
-msgid "Target player reveals their hand. You may choose a nonland card from it [with mana value 2 or less]. That player discards that card."
+msgid "Target player reveals their hand. You choose a nonland card from it [with mana value 2 or less]. That player discards that card."
 msgstr ""
 
 #: ../../VOW.rst:804
@@ -2113,7 +2113,7 @@ msgid "Whenever Headless Rider or another nontoken Zombie you control dies, crea
 msgstr ""
 
 #: ../../VOW.rst:878
-msgid ":mtgtip:`Henrika Domnathi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/946ca338-5f43-4cff-bd93-1b28449c5fdc.jpg?1635862622|https://scryfall.com/card/vow/119/henrika-domnathi-henrika-infernal-seer?utm_source=api>`"
+msgid ":mtgtip:`Henrika Domnathi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/946ca338-5f43-4cff-bd93-1b28449c5fdc.jpg?1636208584|https://scryfall.com/card/vow/119/henrika-domnathi-henrika-infernal-seer?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:871
@@ -2133,7 +2133,7 @@ msgid "Transform Henrika Domnathi."
 msgstr ""
 
 #: ../../VOW.rst:884
-msgid ":mtgtip:`Henrika, Infernal Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/4/946ca338-5f43-4cff-bd93-1b28449c5fdc.jpg?1635862622|https://scryfall.com/card/vow/119/henrika-domnathi-henrika-infernal-seer?utm_source=api>`"
+msgid ":mtgtip:`Henrika, Infernal Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/4/946ca338-5f43-4cff-bd93-1b28449c5fdc.jpg?1636208584|https://scryfall.com/card/vow/119/henrika-domnathi-henrika-infernal-seer?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:881
@@ -2413,7 +2413,7 @@ msgstr ""
 #: ../../VOW.rst:1057
 #: ../../VOW.rst:1155
 #: ../../VOW.rst:1397
-#: ../../VOW.rst:1677
+#: ../../VOW.rst:1679
 msgid "Trample"
 msgstr ""
 
@@ -2454,7 +2454,7 @@ msgstr ""
 #: ../../VOW.rst:1523
 #: ../../VOW.rst:1613
 #: ../../VOW.rst:1633
-#: ../../VOW.rst:1673
+#: ../../VOW.rst:1675
 msgid "Daybound (If a player casts no spells during their own turn, it becomes night next turn.)"
 msgstr ""
 
@@ -2478,7 +2478,8 @@ msgstr ""
 #: ../../VOW.rst:1491
 #: ../../VOW.rst:1527
 #: ../../VOW.rst:1619
-#: ../../VOW.rst:1681
+#: ../../VOW.rst:1639
+#: ../../VOW.rst:1683
 msgid "Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)"
 msgstr ""
 
@@ -2601,7 +2602,7 @@ msgid "When Dominating Vampire enters the battlefield, gain control of target cr
 msgstr ""
 
 #: ../../VOW.rst:1124
-msgid ":mtgtip:`End the Festivities<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bec748e6-7245-4a71-aeee-cefed8346948.jpg?1636116228|https://scryfall.com/card/vow/155/end-the-festivities?utm_source=api>`"
+msgid ":mtgtip:`End the Festivities<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bec748e6-7245-4a71-aeee-cefed8346948.jpg?1636208598|https://scryfall.com/card/vow/155/end-the-festivities?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1123
@@ -2639,7 +2640,7 @@ msgid "Flame-Blessed Bolt deals 2 damage to target creature or planeswalker. If 
 msgstr ""
 
 #: ../../VOW.rst:1152
-msgid ":mtgtip:`Frenzied Devils<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7912206-6de3-4085-b5f6-a2e90ea55b90.jpg?1635930097|https://scryfall.com/card/vow/159/frenzied-devils?utm_source=api>`"
+msgid ":mtgtip:`Frenzied Devils<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7912206-6de3-4085-b5f6-a2e90ea55b90.jpg?1636208609|https://scryfall.com/card/vow/159/frenzied-devils?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1151
@@ -2647,7 +2648,7 @@ msgid "Whenever you cast a noncreature spell, Frenzied Devils gets +2/+2 until e
 msgstr ""
 
 #: ../../VOW.rst:1158
-msgid ":mtgtip:`Honeymoon Hearse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04e491a1-b195-45bb-bf06-345eaee30b81.jpg?1635861860|https://scryfall.com/card/vow/160/honeymoon-hearse?utm_source=api>`"
+msgid ":mtgtip:`Honeymoon Hearse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04e491a1-b195-45bb-bf06-345eaee30b81.jpg?1636208674|https://scryfall.com/card/vow/160/honeymoon-hearse?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1157
@@ -2687,11 +2688,11 @@ msgid "|mana_1|\\ |mana_r|: Howlpack Avenger gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../VOW.rst:1182
-msgid ":mtgtip:`Into the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5a96286-0dda-4761-a1c5-241288c36275.jpg?1635890812|https://scryfall.com/card/vow/163/into-the-night?utm_source=api>`"
+msgid ":mtgtip:`Into the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5a96286-0dda-4761-a1c5-241288c36275.jpg?1636142461|https://scryfall.com/card/vow/163/into-the-night?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1181
-msgid "It becomes night. Discard any number of cards, then draw that many cards."
+msgid "It becomes night. Discard any number of cards, then draw that many cards plus one."
 msgstr ""
 
 #: ../../VOW.rst:1186
@@ -2711,11 +2712,11 @@ msgid "|mana_2|\\ |mana_r|, |tap|, Exile three cards from your graveyard: Create
 msgstr ""
 
 #: ../../VOW.rst:1196
-msgid ":mtgtip:`Lacerate Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7e0c0dc-2d35-4e5a-81da-dd5f35b8e579.jpg?1636116411|https://scryfall.com/card/vow/166/lacerate-flesh?utm_source=api>`"
+msgid ":mtgtip:`Lacerate Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7e0c0dc-2d35-4e5a-81da-dd5f35b8e579.jpg?1636207804|https://scryfall.com/card/vow/166/lacerate-flesh?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1195
-msgid "Lacerate flesh deals 4 damage to target creature. Create a number of Blood tokens equal to the amount of excess damage dealt to that creature this way. (They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
+msgid "Lacerate Flesh deals 4 damage to target creature. Create a number of Blood tokens equal to the amount of excess damage dealt to that creature this way. (They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../VOW.rst:1202
@@ -2807,7 +2808,7 @@ msgid "Exile the top two cards of your library. Until the end of your next turn,
 msgstr ""
 
 #: ../../VOW.rst:1252
-msgid ":mtgtip:`Rending Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51332c31-41df-4379-aa63-6a734a4df618.jpg?1635636541|https://scryfall.com/card/vow/175/rending-flame?utm_source=api>`"
+msgid ":mtgtip:`Rending Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51332c31-41df-4379-aa63-6a734a4df618.jpg?1636208685|https://scryfall.com/card/vow/175/rending-flame?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1251
@@ -2888,7 +2889,7 @@ msgid "When Voldaren Epicure enters the battlefield, it deals 1 damage to each o
 msgstr ""
 
 #: ../../VOW.rst:1300
-msgid ":mtgtip:`Voltaic Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b85386-462b-46f8-9412-fd47ed1dc1da.jpg?1636110806|https://scryfall.com/card/vow/183/voltaic-visionary-volt-charged-berserker?utm_source=api>`"
+msgid ":mtgtip:`Voltaic Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b85386-462b-46f8-9412-fd47ed1dc1da.jpg?1636208706|https://scryfall.com/card/vow/183/voltaic-visionary-volt-charged-berserker?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1297
@@ -2896,11 +2897,11 @@ msgid "|tap|: Voltaic Visionary deals 2 damage to you. Exile the top card of you
 msgstr ""
 
 #: ../../VOW.rst:1299
-msgid "Whenever you play a card exiled with Voltaic Visionary, transform it."
+msgid "When you play a card exiled with Voltaic Visionary, transform Voltaic Visionary."
 msgstr ""
 
 #: ../../VOW.rst:1304
-msgid ":mtgtip:`Volt-Charged Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/8/a8b85386-462b-46f8-9412-fd47ed1dc1da.jpg?1636110806|https://scryfall.com/card/vow/183/voltaic-visionary-volt-charged-berserker?utm_source=api>`"
+msgid ":mtgtip:`Volt-Charged Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/8/a8b85386-462b-46f8-9412-fd47ed1dc1da.jpg?1636208706|https://scryfall.com/card/vow/183/voltaic-visionary-volt-charged-berserker?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1303
@@ -2924,7 +2925,7 @@ msgid ":mtgtip:`Apprentice Sharpshooter<https://c1.scryfall.com/file/scryfall-ca
 msgstr ""
 
 #: ../../VOW.rst:1319
-#: ../../VOW.rst:1795
+#: ../../VOW.rst:1797
 msgid "Reach"
 msgstr ""
 
@@ -3138,11 +3139,11 @@ msgid "Hamlet Vanguard enters the battlefield with two +1/+1 counters on it for 
 msgstr ""
 
 #: ../../VOW.rst:1450
-msgid ":mtgtip:`Hiveheart Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33efdb5a-7667-4475-9905-95f8fc9be2d3.jpg?1636057593|https://scryfall.com/card/vow/202/hiveheart-shaman?utm_source=api>`"
+msgid ":mtgtip:`Hiveheart Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33efdb5a-7667-4475-9905-95f8fc9be2d3.jpg?1636208722|https://scryfall.com/card/vow/202/hiveheart-shaman?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1447
-msgid "Whenever Hiveheart Shaman attacks, you may search your library for a basic land card that doesn't share a land type with any land you control, put that card onto the battlefield, then shuffle."
+msgid "Whenever Hiveheart Shaman attacks, you may search your library for a basic land card that doesn't share a land type with a land you control, put that card onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../VOW.rst:1449
@@ -3150,11 +3151,11 @@ msgid "|mana_5|\\ |mana_g|: Create a 1/1 green Insect creature token. Put X +1/+
 msgstr ""
 
 #: ../../VOW.rst:1454
-msgid ":mtgtip:`Hookhand Mariner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1636118915|https://scryfall.com/card/vow/203/hookhand-mariner-riphook-raider?utm_source=api>`"
+msgid ":mtgtip:`Hookhand Mariner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1636208735|https://scryfall.com/card/vow/203/hookhand-mariner-riphook-raider?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1460
-msgid ":mtgtip:`Riphook Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1636118915|https://scryfall.com/card/vow/203/hookhand-mariner-riphook-raider?utm_source=api>`"
+msgid ":mtgtip:`Riphook Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1636208735|https://scryfall.com/card/vow/203/hookhand-mariner-riphook-raider?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1457
@@ -3190,7 +3191,7 @@ msgid "Whenever this creature enters the battlefield or transforms into Wildsong
 msgstr ""
 
 #: ../../VOW.rst:1486
-msgid ":mtgtip:`Infestation Expert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0936761c-7cdc-49ef-8a0d-ed79219f1056.jpg?1635992683|https://scryfall.com/card/vow/206/infestation-expert-infested-werewolf?utm_source=api>`"
+msgid ":mtgtip:`Infestation Expert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0936761c-7cdc-49ef-8a0d-ed79219f1056.jpg?1636208747|https://scryfall.com/card/vow/206/infestation-expert-infested-werewolf?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1483
@@ -3198,11 +3199,11 @@ msgid "Whenever Infestation Expert enters the battlefield or attacks, create a 1
 msgstr ""
 
 #: ../../VOW.rst:1492
-msgid ":mtgtip:`Infested Werewolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/9/0936761c-7cdc-49ef-8a0d-ed79219f1056.jpg?1635992683|https://scryfall.com/card/vow/206/infestation-expert-infested-werewolf?utm_source=api>`"
+msgid ":mtgtip:`Infested Werewolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/9/0936761c-7cdc-49ef-8a0d-ed79219f1056.jpg?1636208747|https://scryfall.com/card/vow/206/infestation-expert-infested-werewolf?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1489
-msgid "Whenever Infested Werewolf enters the battlefield or attacks, create two 1/1 green Insect creature token."
+msgid "Whenever Infested Werewolf enters the battlefield or attacks, create two 1/1 green Insect creature tokens."
 msgstr ""
 
 #: ../../VOW.rst:1498
@@ -3258,7 +3259,7 @@ msgid "As long as enchanted permanent is a land, it has \"|tap|: Add two mana of
 msgstr ""
 
 #: ../../VOW.rst:1524
-msgid ":mtgtip:`Oakshade Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bcaa944-4e45-457c-be9c-07377b6ed08b.jpg?1636064538|https://scryfall.com/card/vow/212/oakshade-stalker-moonlit-ambusher?utm_source=api>`"
+msgid ":mtgtip:`Oakshade Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bcaa944-4e45-457c-be9c-07377b6ed08b.jpg?1636208764|https://scryfall.com/card/vow/212/oakshade-stalker-moonlit-ambusher?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1521
@@ -3266,7 +3267,7 @@ msgid "You may cast this spell as though it had flash if you pay |mana_2| more t
 msgstr ""
 
 #: ../../VOW.rst:1528
-msgid ":mtgtip:`Moonlit Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/b/8bcaa944-4e45-457c-be9c-07377b6ed08b.jpg?1636064538|https://scryfall.com/card/vow/212/oakshade-stalker-moonlit-ambusher?utm_source=api>`"
+msgid ":mtgtip:`Moonlit Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/b/8bcaa944-4e45-457c-be9c-07377b6ed08b.jpg?1636208764|https://scryfall.com/card/vow/212/oakshade-stalker-moonlit-ambusher?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1534
@@ -3291,7 +3292,7 @@ msgstr ""
 
 #: ../../VOW.rst:1539
 #: ../../VOW.rst:1611
-#: ../../VOW.rst:1839
+#: ../../VOW.rst:1841
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
@@ -3304,11 +3305,11 @@ msgid "Return up to one target creature card and up to one target noncreature pe
 msgstr ""
 
 #: ../../VOW.rst:1550
-msgid ":mtgtip:`Rural Recruit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bf35971-f1c4-4ccb-af5c-fd396391bb4b.jpg?1636117263|https://scryfall.com/card/vow/216/rural-recruit?utm_source=api>`"
+msgid ":mtgtip:`Rural Recruit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bf35971-f1c4-4ccb-af5c-fd396391bb4b.jpg?1636208775|https://scryfall.com/card/vow/216/rural-recruit?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1549
-msgid "When Rural Recruit enters the battlefield, create a 3/1 Boar creature token."
+msgid "When Rural Recruit enters the battlefield, create a 3/1 green Boar creature token."
 msgstr ""
 
 #: ../../VOW.rst:1558
@@ -3380,7 +3381,7 @@ msgid "When Spore Crawler dies, draw a card."
 msgstr ""
 
 #: ../../VOW.rst:1590
-msgid ":mtgtip:`Sporeback Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fb04879-9348-4d4f-9a23-c82fd99d04c6.jpg?1636119307|https://scryfall.com/card/vow/223/sporeback-wolf?utm_source=api>`"
+msgid ":mtgtip:`Sporeback Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fb04879-9348-4d4f-9a23-c82fd99d04c6.jpg?1636208789|https://scryfall.com/card/vow/223/sporeback-wolf?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1589
@@ -3388,7 +3389,7 @@ msgid "As long as it's your turn, Sporeback Wolf gets +0/+2."
 msgstr ""
 
 #: ../../VOW.rst:1596
-msgid ":mtgtip:`Toxic Scorpion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cfca481-cf2d-435d-b4b6-07b1fe2a8e5d.jpg?1636117675|https://scryfall.com/card/vow/224/toxic-scorpion?utm_source=api>`"
+msgid ":mtgtip:`Toxic Scorpion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cfca481-cf2d-435d-b4b6-07b1fe2a8e5d.jpg?1636208801|https://scryfall.com/card/vow/224/toxic-scorpion?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1595
@@ -3396,7 +3397,7 @@ msgid "When Toxic Scorpion enters the battlefield, another target creature you c
 msgstr ""
 
 #: ../../VOW.rst:1602
-msgid ":mtgtip:`Ulvenwald Oddity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg?1635842465|https://scryfall.com/card/vow/225/ulvenwald-oddity-ulvenwald-behemoth?utm_source=api>`"
+msgid ":mtgtip:`Ulvenwald Oddity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg?1636208826|https://scryfall.com/card/vow/225/ulvenwald-oddity-ulvenwald-behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1599
@@ -3409,7 +3410,7 @@ msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Oddity."
 msgstr ""
 
 #: ../../VOW.rst:1608
-msgid ":mtgtip:`Ulvenwald Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg?1635842465|https://scryfall.com/card/vow/225/ulvenwald-oddity-ulvenwald-behemoth?utm_source=api>`"
+msgid ":mtgtip:`Ulvenwald Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg?1636208826|https://scryfall.com/card/vow/225/ulvenwald-oddity-ulvenwald-behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1607
@@ -3445,526 +3446,526 @@ msgid "Target creature you control gets +2/+0 until end of turn if it's night. T
 msgstr ""
 
 #: ../../VOW.rst:1634
-msgid ":mtgtip:`Wolfkin Outcast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a743426-6333-4ca6-9207-163b325ba435.jpg?1635992879|https://scryfall.com/card/vow/229/wolfkin-outcast-wedding-crasher?utm_source=api>`"
+msgid ":mtgtip:`Wolfkin Outcast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a743426-6333-4ca6-9207-163b325ba435.jpg?1636208844|https://scryfall.com/card/vow/229/wolfkin-outcast-wedding-crasher?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1631
 msgid "This spell costs |mana_2| less to cast if you control a Wolf or Werewolf."
 msgstr ""
 
-#: ../../VOW.rst:1638
-msgid ":mtgtip:`Wedding Crasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/a/7a743426-6333-4ca6-9207-163b325ba435.jpg?1635992879|https://scryfall.com/card/vow/229/wolfkin-outcast-wedding-crasher?utm_source=api>`"
+#: ../../VOW.rst:1640
+msgid ":mtgtip:`Wedding Crasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/a/7a743426-6333-4ca6-9207-163b325ba435.jpg?1636208844|https://scryfall.com/card/vow/229/wolfkin-outcast-wedding-crasher?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1637
 msgid "Whenever Wedding Crasher or another Wolf or Werewolf you control dies, draw a card."
 msgstr ""
 
-#: ../../VOW.rst:1642
-msgid ":mtgtip:`Ancient Lumberknot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22264087-bac4-4746-b6ce-0d44cce163e6.jpg?1636110942|https://scryfall.com/card/vow/230/ancient-lumberknot?utm_source=api>`"
+#: ../../VOW.rst:1644
+msgid ":mtgtip:`Ancient Lumberknot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22264087-bac4-4746-b6ce-0d44cce163e6.jpg?1636208854|https://scryfall.com/card/vow/230/ancient-lumberknot?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1641
+#: ../../VOW.rst:1643
 msgid "Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power."
 msgstr ""
 
-#: ../../VOW.rst:1648
-msgid ":mtgtip:`Anje, Maid of Dishonor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bfac4ab-97f1-448c-8554-42ed03eb5656.jpg?1636110987|https://scryfall.com/card/vow/231/anje-maid-of-dishonor?utm_source=api>`"
-msgstr ""
-
-#: ../../VOW.rst:1645
-msgid "Whenever Anje, Maid of Dishonor and/or one or more other Vampires enter the battlefield under your control, create a Blood token. This ability triggers only once per turn. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
+#: ../../VOW.rst:1650
+msgid ":mtgtip:`Anje, Maid of Dishonor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bfac4ab-97f1-448c-8554-42ed03eb5656.jpg?1636208871|https://scryfall.com/card/vow/231/anje-maid-of-dishonor?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1647
+msgid "Whenever Anje, Maid of Dishonor and/or one or more other Vampires enter the battlefield under your control, create a Blood token. This ability triggers only once each turn. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
+msgstr ""
+
+#: ../../VOW.rst:1649
 msgid "|mana_2|, Sacrifice another creature or a Blood token: Each opponent loses 2 life and you gain 2 life."
 msgstr ""
 
-#: ../../VOW.rst:1654
+#: ../../VOW.rst:1656
 msgid ":mtgtip:`Bloodtithe Harvester<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.jpg?1636022649|https://scryfall.com/card/vow/232/bloodtithe-harvester?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1651
+#: ../../VOW.rst:1653
 msgid "When Bloodtithe Harvester enters the battlefield, create a Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../VOW.rst:1653
+#: ../../VOW.rst:1655
 msgid "|tap|, Sacrifice Bloodtithe Harvester: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery."
 msgstr ""
 
-#: ../../VOW.rst:1660
+#: ../../VOW.rst:1662
 msgid ":mtgtip:`Brine Comber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.jpg?1635706141|https://scryfall.com/card/vow/233/brine-comber-brinebound-gift?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1657
+#: ../../VOW.rst:1659
 msgid "Whenever Brine Comber enters the battlefield or becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
-#: ../../VOW.rst:1659
+#: ../../VOW.rst:1661
 msgid "Disturb |mana_w|\\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)"
 msgstr ""
 
-#: ../../VOW.rst:1668
+#: ../../VOW.rst:1670
 msgid ":mtgtip:`Brinebound Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.jpg?1635706141|https://scryfall.com/card/vow/233/brine-comber-brinebound-gift?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1665
+#: ../../VOW.rst:1667
 msgid "Whenever Brinebound Gift enters the battlefield or enchanted creature becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
-#: ../../VOW.rst:1667
+#: ../../VOW.rst:1669
 msgid "If Brinebound Gift would be put into a graveyard from anywhere, exile it instead."
 msgstr ""
 
-#: ../../VOW.rst:1674
+#: ../../VOW.rst:1676
 msgid ":mtgtip:`Child of the Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb168e3c-2c78-4e70-a39b-06aa6a47998c.jpg?1635985380|https://scryfall.com/card/vow/234/child-of-the-pack-savage-packmate?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1671
+#: ../../VOW.rst:1673
 msgid "|mana_2|\\ |mana_r|\\ |mana_g|: Create a 2/2 green Wolf creature token."
 msgstr ""
 
-#: ../../VOW.rst:1682
+#: ../../VOW.rst:1684
 msgid ":mtgtip:`Savage Packmate<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/b/cb168e3c-2c78-4e70-a39b-06aa6a47998c.jpg?1635985380|https://scryfall.com/card/vow/234/child-of-the-pack-savage-packmate?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1679
+#: ../../VOW.rst:1681
 msgid "Other creatures you control get +1/+0."
 msgstr ""
 
-#: ../../VOW.rst:1690
+#: ../../VOW.rst:1692
 msgid ":mtgtip:`Dorothea, Vengeful Victim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1635454482|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1687
+#: ../../VOW.rst:1689
 msgid "When Dorothea, Vengeful Victim attacks or blocks, sacrifice it at end of combat."
 msgstr ""
 
-#: ../../VOW.rst:1689
+#: ../../VOW.rst:1691
 msgid "Disturb |mana_1|\\ |mana_w|\\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)"
 msgstr ""
 
-#: ../../VOW.rst:1698
+#: ../../VOW.rst:1700
 msgid ":mtgtip:`Dorothea's Retribution<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1635454482|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1695
+#: ../../VOW.rst:1697
 msgid "Enchanted creature has \"Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat.\""
 msgstr ""
 
-#: ../../VOW.rst:1697
+#: ../../VOW.rst:1699
 msgid "If Dorothea's Retribution would be put into a graveyard from anywhere, exile it instead."
 msgstr ""
 
-#: ../../VOW.rst:1704
-msgid ":mtgtip:`Edgar, Charmed Groom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1636022479|https://scryfall.com/card/vow/236/edgar-charmed-groom-edgar-markovs-coffin?utm_source=api>`"
-msgstr ""
-
-#: ../../VOW.rst:1701
-msgid "Other vampires you control get +1/+1."
+#: ../../VOW.rst:1706
+msgid ":mtgtip:`Edgar, Charmed Groom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1636208884|https://scryfall.com/card/vow/236/edgar-charmed-groom-edgar-markovs-coffin?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1703
+msgid "Other Vampires you control get +1/+1."
+msgstr ""
+
+#: ../../VOW.rst:1705
 msgid "When Edgar, Charmed Groom dies, return it to the battlefield transformed under its owner's control."
 msgstr ""
 
-#: ../../VOW.rst:1708
-msgid ":mtgtip:`Edgar Markov's Coffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1636022479|https://scryfall.com/card/vow/236/edgar-charmed-groom-edgar-markovs-coffin?utm_source=api>`"
+#: ../../VOW.rst:1710
+msgid ":mtgtip:`Edgar Markov's Coffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1636208884|https://scryfall.com/card/vow/236/edgar-charmed-groom-edgar-markovs-coffin?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1707
+#: ../../VOW.rst:1709
 msgid "At the beginning of your upkeep, create a 1/1 white and black Vampire creature token with lifelink and put a bloodline counter on Edgar Markov's Coffin. Then if there are three or more bloodline counters on it, remove those counters and transform it."
 msgstr ""
 
-#: ../../VOW.rst:1712
+#: ../../VOW.rst:1714
 msgid ":mtgtip:`Eruth, Tormented Prophet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f764077-df2d-4ac7-b507-2c8e08386d49.jpg?1635939687|https://scryfall.com/card/vow/237/eruth-tormented-prophet?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1711
+#: ../../VOW.rst:1713
 msgid "If you would draw a card, exile the top two cards of your library instead. You may play those cards this turn."
 msgstr ""
 
-#: ../../VOW.rst:1720
+#: ../../VOW.rst:1722
 msgid ":mtgtip:`Grolnok, the Omnivore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7aaba76b-9cec-4c2b-b0eb-8f44201f6422.jpg?1635454593|https://scryfall.com/card/vow/238/grolnok-the-omnivore?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1715
+#: ../../VOW.rst:1717
 msgid "Whenever a Frog you control attacks, mill three cards."
 msgstr ""
 
-#: ../../VOW.rst:1717
+#: ../../VOW.rst:1719
 msgid "Whenever a permanent card is put into your graveyard from your library, exile it with a croak counter on it."
 msgstr ""
 
-#: ../../VOW.rst:1719
+#: ../../VOW.rst:1721
 msgid "You may play lands and cast spells from among cards you own in exile with croak counters on them."
 msgstr ""
 
-#: ../../VOW.rst:1726
+#: ../../VOW.rst:1728
 msgid ":mtgtip:`Halana and Alena, Partners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/608fa232-f5fe-4c58-9efe-fb780f454b19.jpg?1635532390|https://scryfall.com/card/vow/239/halana-and-alena-partners?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1723
+#: ../../VOW.rst:1725
 msgid "First strike, reach"
 msgstr ""
 
-#: ../../VOW.rst:1725
+#: ../../VOW.rst:1727
 msgid "At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn."
 msgstr ""
 
-#: ../../VOW.rst:1734
+#: ../../VOW.rst:1736
 msgid ":mtgtip:`Kaya, Geist Hunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a98a208c-ee2b-4672-a43b-f4a708585b1a.jpg?1636061422|https://scryfall.com/card/vow/240/kaya-geist-hunter?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1729
+#: ../../VOW.rst:1731
 msgid "+1: Creatures you control gain deathtouch until end of turn. Put a +1/+1 counter on up to one target creature token you control."
 msgstr ""
 
-#: ../../VOW.rst:1731
+#: ../../VOW.rst:1733
 msgid "−2: Until end of turn, if one or more tokens would be created under your control, twice that many of those tokens are created instead."
 msgstr ""
 
-#: ../../VOW.rst:1733
+#: ../../VOW.rst:1735
 msgid "−6: Exile all cards from all graveyards, then create a 1/1 white Spirit creature token with flying for each card exiled this way."
 msgstr ""
 
-#: ../../VOW.rst:1740
+#: ../../VOW.rst:1742
 msgid ":mtgtip:`Markov Purifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb95d34a-0b13-4533-9efc-08381c81e6cd.jpg?1635892496|https://scryfall.com/card/vow/241/markov-purifier?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1739
+#: ../../VOW.rst:1741
 msgid "At the beginning of your end step, if you gained life this turn, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
 
-#: ../../VOW.rst:1746
+#: ../../VOW.rst:1748
 msgid ":mtgtip:`Markov Waltzer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2f45bc0-36ed-44ec-9bc8-31ea7c7fafdb.jpg?1636020493|https://scryfall.com/card/vow/242/markov-waltzer?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1743
-#: ../../VOW.rst:1757
+#: ../../VOW.rst:1745
+#: ../../VOW.rst:1759
 msgid "Flying, haste"
 msgstr ""
 
-#: ../../VOW.rst:1745
+#: ../../VOW.rst:1747
 msgid "At the beginning of combat on your turn, up to two target creatures you control each get +1/+0 until end of turn."
 msgstr ""
 
-#: ../../VOW.rst:1750
+#: ../../VOW.rst:1752
 msgid ":mtgtip:`Odric, Blood-Cursed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81a79f5f-a65a-4b43-b58c-cdfa09cc7855.jpg?1636060472|https://scryfall.com/card/vow/243/odric-blood-cursed?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1749
+#: ../../VOW.rst:1751
 msgid "When Odric, Blood-Cursed enters the battlefield, create X Blood tokens, where X is the number of abilities from among flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance found among creatures you control. (Count each ability only once.)"
 msgstr ""
 
-#: ../../VOW.rst:1754
+#: ../../VOW.rst:1756
 msgid ":mtgtip:`Old Rutstein<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/625b8023-2ef1-4b7b-9e48-4f774fee14e0.jpg?1635926724|https://scryfall.com/card/vow/244/old-rutstein?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1753
+#: ../../VOW.rst:1755
 msgid "When Old Rutstein enters the battlefield or at the beginning of your upkeep, mill a card. If a land card is milled this way, create a Treasure token. If a creature card is milled this way, create a 1/1 green Insect creature token. If a noncreature, nonland card is milled this way, create a Blood token."
 msgstr ""
 
-#: ../../VOW.rst:1760
+#: ../../VOW.rst:1762
 msgid ":mtgtip:`Olivia, Crimson Bride<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/301dacc9-ef92-4515-b907-a70d6c3fd73e.jpg?1635454448|https://scryfall.com/card/vow/245/olivia-crimson-bride?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1759
+#: ../../VOW.rst:1761
 msgid "Whenever Olivia, Crimson Bride attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\""
 msgstr ""
 
-#: ../../VOW.rst:1768
+#: ../../VOW.rst:1770
 msgid ":mtgtip:`Runo Stromkirk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6c0fca5-b759-4543-95e2-8d712aae5281.jpg?1635567834|https://scryfall.com/card/vow/246/runo-stromkirk-krothuss-lord-of-the-deep?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1765
+#: ../../VOW.rst:1767
 msgid "When Runo Stromkirk enters the battlefield, put up to one target creature card from your graveyard on top of your library."
 msgstr ""
 
-#: ../../VOW.rst:1767
+#: ../../VOW.rst:1769
 msgid "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a creature card with mana value 6 or greater is revealed this way, transform Runo Stromkirk."
 msgstr ""
 
-#: ../../VOW.rst:1774
+#: ../../VOW.rst:1776
 msgid ":mtgtip:`Krothuss, Lord of the Deep<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/6/f6c0fca5-b759-4543-95e2-8d712aae5281.jpg?1635567834|https://scryfall.com/card/vow/246/runo-stromkirk-krothuss-lord-of-the-deep?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1773
+#: ../../VOW.rst:1775
 msgid "Whenever Krothuss, Lord of the Deep attacks, create a tapped and attacking token that's a copy of another target attacking creature. If that creature is a Kraken, Leviathan, Octopus, or Serpent, create two of those tokens instead."
 msgstr ""
 
-#: ../../VOW.rst:1780
+#: ../../VOW.rst:1782
 msgid ":mtgtip:`Sigardian Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34228fdd-e466-488e-84b2-4c595e758688.jpg?1636102136|https://scryfall.com/card/vow/247/sigardian-paladin?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1777
+#: ../../VOW.rst:1779
 msgid "As long as you've put one or more +1/+1 counters on a creature this turn, Sigardian Paladin has trample and lifelink."
 msgstr ""
 
-#: ../../VOW.rst:1779
+#: ../../VOW.rst:1781
 msgid "|mana_1|\\ |mana_g|\\ |mana_w|: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn."
 msgstr ""
 
-#: ../../VOW.rst:1786
+#: ../../VOW.rst:1788
 msgid ":mtgtip:`Skull Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/268fd7e7-0105-4c39-a3ea-77ed32214ff3.jpg?1636111018|https://scryfall.com/card/vow/248/skull-skaab?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1785
+#: ../../VOW.rst:1787
 msgid "Whenever a creature you control exploits a nontoken creature, create a 2/2 black Zombie creature token."
 msgstr ""
 
-#: ../../VOW.rst:1792
+#: ../../VOW.rst:1794
 msgid ":mtgtip:`Torens, Fist of the Angels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd111dc9-b8de-4e92-a63d-75a961b2db3b.jpg?1635932920|https://scryfall.com/card/vow/249/torens-fist-of-the-angels?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1791
+#: ../../VOW.rst:1793
 msgid "Whenever you cast a creature spell, create a 1/1 green and white Human Soldier creature token with training."
 msgstr ""
 
-#: ../../VOW.rst:1800
+#: ../../VOW.rst:1802
 msgid ":mtgtip:`Vilespawn Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6ad9ae64-6526-4747-9b0c-77d113f58c33.jpg?1635709505|https://scryfall.com/card/vow/250/vilespawn-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1797
+#: ../../VOW.rst:1799
 msgid "At the beginning of your upkeep, mill a card. (Put the top card of your library into your graveyard.)"
 msgstr ""
 
-#: ../../VOW.rst:1799
+#: ../../VOW.rst:1801
 msgid "|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Vilespawn Spider: Create a 1/1 green Insect creature token for each creature card in your graveyard. Activate only as a sorcery."
 msgstr ""
 
-#: ../../VOW.rst:1806
+#: ../../VOW.rst:1808
 msgid ":mtgtip:`Wandering Mind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b9a1096-6313-4245-be18-1588c219b842.jpg?1635891542|https://scryfall.com/card/vow/251/wandering-mind?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1805
+#: ../../VOW.rst:1807
 msgid "When Wandering Mind enters the battlefield, look at the top six cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../VOW.rst:1810
-msgid ":mtgtip:`Blood Servitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87845cc2-bf5d-491d-bfa2-b33b034557a4.jpg?1636117917|https://scryfall.com/card/vow/252/blood-servitor?utm_source=api>`"
+#: ../../VOW.rst:1812
+msgid ":mtgtip:`Blood Servitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87845cc2-bf5d-491d-bfa2-b33b034557a4.jpg?1636208894|https://scryfall.com/card/vow/252/blood-servitor?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1809
+#: ../../VOW.rst:1811
 msgid "When Blood Servitor enters the battlefield, create a Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../VOW.rst:1816
+#: ../../VOW.rst:1818
 msgid ":mtgtip:`Boarded Window<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f02cf94c-94d3-4c4c-a7ae-b4d48ef5b14e.jpg?1636111046|https://scryfall.com/card/vow/253/boarded-window?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1813
+#: ../../VOW.rst:1815
 msgid "Creatures attacking you get -1/-0."
 msgstr ""
 
-#: ../../VOW.rst:1815
+#: ../../VOW.rst:1817
 msgid "At the beginning of each end step, if you were dealt 4 or more damage this turn, exile Boarded Window."
 msgstr ""
 
-#: ../../VOW.rst:1822
+#: ../../VOW.rst:1824
 msgid ":mtgtip:`Ceremonial Knife<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7.jpg?1636118049|https://scryfall.com/card/vow/254/ceremonial-knife?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1819
+#: ../../VOW.rst:1821
 msgid "Equipped creature gets +1/+0 and has \"Whenever this creature deals combat damage, create a Blood token.\" (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../VOW.rst:1826
-msgid ":mtgtip:`Dollhouse of Horrors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1635930821|https://scryfall.com/card/vow/255/dollhouse-of-horrors?utm_source=api>`"
+#: ../../VOW.rst:1828
+msgid ":mtgtip:`Dollhouse of Horrors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1636208975|https://scryfall.com/card/vow/255/dollhouse-of-horrors?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1825
-msgid "|mana_1|, |tap|: Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has \"This creature gets +1/+1 for each Construct you control.\" That creature gains haste until end of turn. Activate only as a sorcery."
+#: ../../VOW.rst:1827
+msgid "|mana_1|, |tap|, Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has \"This creature gets +1/+1 for each Construct you control.\" It gains haste until end of turn. Activate only as a sorcery."
 msgstr ""
 
-#: ../../VOW.rst:1832
-msgid ":mtgtip:`Foreboding Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.jpg?1636102171|https://scryfall.com/card/vow/256/foreboding-statue-forsaken-thresher?utm_source=api>`"
-msgstr ""
-
-#: ../../VOW.rst:1829
-msgid "|tap|: Add one mana of any color. Put an omen counter on Foreboding Statue."
+#: ../../VOW.rst:1834
+msgid ":mtgtip:`Foreboding Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.jpg?1636208929|https://scryfall.com/card/vow/256/foreboding-statue-forsaken-thresher?utm_source=api>`"
 msgstr ""
 
 #: ../../VOW.rst:1831
-msgid "At the beginning of your end step, if there are three or more omen counters on Foreboding Statue, uptap it, then transform it."
+msgid "|tap|: Add one mana of any color. Put an omen counter on Foreboding Statue."
 msgstr ""
 
-#: ../../VOW.rst:1836
-msgid ":mtgtip:`Forsaken Thresher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.jpg?1636102171|https://scryfall.com/card/vow/256/foreboding-statue-forsaken-thresher?utm_source=api>`"
+#: ../../VOW.rst:1833
+msgid "At the beginning of your end step, if there are three or more omen counters on Foreboding Statue, untap it, then transform it."
 msgstr ""
 
-#: ../../VOW.rst:1835
+#: ../../VOW.rst:1838
+msgid ":mtgtip:`Forsaken Thresher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.jpg?1636208929|https://scryfall.com/card/vow/256/foreboding-statue-forsaken-thresher?utm_source=api>`"
+msgstr ""
+
+#: ../../VOW.rst:1837
 msgid "At the beginning of your precombat main phase, add one mana of any color."
 msgstr ""
 
-#: ../../VOW.rst:1842
-msgid ":mtgtip:`Honored Heirloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3390e4d-9137-40ff-b998-bdb19c90b7d5.jpg?1636111082|https://scryfall.com/card/vow/257/honored-heirloom?utm_source=api>`"
+#: ../../VOW.rst:1844
+msgid ":mtgtip:`Honored Heirloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3390e4d-9137-40ff-b998-bdb19c90b7d5.jpg?1636208994|https://scryfall.com/card/vow/257/honored-heirloom?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1841
+#: ../../VOW.rst:1843
 msgid "|mana_2|, |tap|: Exile target card from a graveyard."
 msgstr ""
 
-#: ../../VOW.rst:1850
+#: ../../VOW.rst:1852
 msgid ":mtgtip:`Investigator's Journal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8a606e5-7a90-4a89-b51a-7f4e68705f97.jpg?1635606125|https://scryfall.com/card/vow/258/investigators-journal?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1845
+#: ../../VOW.rst:1847
 msgid "Investigator's Journal enters the battlefield with a number of suspect counters on it equal to the greatest number of creatures a player controls."
 msgstr ""
 
-#: ../../VOW.rst:1847
+#: ../../VOW.rst:1849
 msgid "|mana_2|, |tap|, Remove a suspect counter from Investigator's Journal: Draw a card."
 msgstr ""
 
-#: ../../VOW.rst:1849
+#: ../../VOW.rst:1851
 msgid "|mana_2|, Sacrifice Investigator's Journal: Draw a card."
 msgstr ""
 
-#: ../../VOW.rst:1856
+#: ../../VOW.rst:1858
 msgid ":mtgtip:`Lantern of the Lost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2303f11-2c82-44d5-893a-8e71dece7746.jpg?1636124667|https://scryfall.com/card/vow/259/lantern-of-the-lost?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1853
+#: ../../VOW.rst:1855
 msgid "When Lantern of the Lost enters the battlefield, exile target card from a graveyard."
 msgstr ""
 
-#: ../../VOW.rst:1855
+#: ../../VOW.rst:1857
 msgid "|mana_1|, |tap|, Exile Lantern of the Lost: Exile all cards from all graveyards, then draw a card."
 msgstr ""
 
-#: ../../VOW.rst:1862
+#: ../../VOW.rst:1864
 msgid ":mtgtip:`Wedding Invitation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddc22ff6-4081-47ce-bc8a-e063f5f4d044.jpg?1635452696|https://scryfall.com/card/vow/260/wedding-invitation?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1859
+#: ../../VOW.rst:1861
 msgid "When Wedding Invitation enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../VOW.rst:1861
+#: ../../VOW.rst:1863
 msgid "|tap|, Sacrifice Wedding Invitation: Target creature can't be blocked this turn. If it's a Vampire, it also gains lifelink until end of turn."
 msgstr ""
 
-#: ../../VOW.rst:1868
+#: ../../VOW.rst:1870
 msgid ":mtgtip:`Deathcap Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5523659-98a8-4ae2-9ec7-d77e7352c374.jpg?1635449738|https://scryfall.com/card/vow/261/deathcap-glade?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1865
+#: ../../VOW.rst:1867
 msgid "Deathcap Glade enters the battlefield tapped unless you control two or more other lands."
 msgstr ""
 
-#: ../../VOW.rst:1867
+#: ../../VOW.rst:1869
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
-#: ../../VOW.rst:1874
+#: ../../VOW.rst:1876
 msgid ":mtgtip:`Dreamroot Cascade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb604455-c411-414d-a2ef-e7567ee86a4d.jpg?1635533452|https://scryfall.com/card/vow/262/dreamroot-cascade?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1871
+#: ../../VOW.rst:1873
 msgid "Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands."
 msgstr ""
 
-#: ../../VOW.rst:1873
+#: ../../VOW.rst:1875
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../VOW.rst:1878
+#: ../../VOW.rst:1880
 msgid ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e80fe230-745d-42ae-a1f5-a8cc950783d0.jpg?1636118155|https://scryfall.com/card/vow/263/evolving-wilds?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1877
+#: ../../VOW.rst:1879
 msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../VOW.rst:1884
+#: ../../VOW.rst:1886
 msgid ":mtgtip:`Shattered Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad44c9aa-eb8f-4200-8dfe-2af728d80083.jpg?1635449783|https://scryfall.com/card/vow/264/shattered-sanctum?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1881
+#: ../../VOW.rst:1883
 msgid "Shattered Sanctum enters the battlefield tapped unless you control two or more other lands."
 msgstr ""
 
-#: ../../VOW.rst:1883
+#: ../../VOW.rst:1885
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
-#: ../../VOW.rst:1890
+#: ../../VOW.rst:1892
 msgid ":mtgtip:`Stormcarved Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/299f1dee-b3d7-472b-aa0b-2f9b46a96da5.jpg?1635533434|https://scryfall.com/card/vow/265/stormcarved-coast?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1887
+#: ../../VOW.rst:1889
 msgid "Stormcarved Coast enters the battlefield tapped unless you control two or more other lands."
 msgstr ""
 
-#: ../../VOW.rst:1889
+#: ../../VOW.rst:1891
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
-#: ../../VOW.rst:1896
+#: ../../VOW.rst:1898
 msgid ":mtgtip:`Sundown Pass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f3fddd7-ede4-41c7-a645-a6af298a3d35.jpg?1635449927|https://scryfall.com/card/vow/266/sundown-pass?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1893
+#: ../../VOW.rst:1895
 msgid "Sundown Pass enters the battlefield tapped unless you control two or more other lands."
 msgstr ""
 
-#: ../../VOW.rst:1895
+#: ../../VOW.rst:1897
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
-#: ../../VOW.rst:1904
+#: ../../VOW.rst:1906
 msgid ":mtgtip:`Voldaren Estate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2577e5fd-903a-44ce-989a-d53d56511ad3.jpg?1635449325|https://scryfall.com/card/vow/267/voldaren-estate?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1899
+#: ../../VOW.rst:1901
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../VOW.rst:1901
+#: ../../VOW.rst:1903
 msgid "|tap|, Pay 1 life: Add one mana of any color. Spend this mana only to cast a Vampire spell."
 msgstr ""
 
-#: ../../VOW.rst:1903
+#: ../../VOW.rst:1905
 msgid "|mana_5|, |tap|: Create a Blood token. This ability costs |mana_1| less to activate for each Vampire you control. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../VOW.rst:1908
+#: ../../VOW.rst:1910
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1636041378|https://scryfall.com/card/vow/268/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1907
+#: ../../VOW.rst:1909
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../VOW.rst:1912
+#: ../../VOW.rst:1914
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54ddd3aa-593c-4adb-b591-33c15d02131c.jpg?1636041372|https://scryfall.com/card/vow/270/island?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1911
+#: ../../VOW.rst:1913
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../VOW.rst:1916
+#: ../../VOW.rst:1918
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1636041382|https://scryfall.com/card/vow/272/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1915
+#: ../../VOW.rst:1917
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../VOW.rst:1920
+#: ../../VOW.rst:1922
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1636041375|https://scryfall.com/card/vow/274/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1919
+#: ../../VOW.rst:1921
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../VOW.rst:1923
+#: ../../VOW.rst:1925
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1636021905|https://scryfall.com/card/vow/276/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1923
+#: ../../VOW.rst:1925
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
