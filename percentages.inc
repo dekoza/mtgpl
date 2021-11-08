@@ -341,7 +341,7 @@
 
 .. |DRK_percent| image:: images/pie40.png        
 
-.. |VOW_percent| image:: images/pie60.png        
+.. |VOW_percent| image:: images/pie30.png        
 
 .. |ALA_percent| image:: images/pie60.png        
 
