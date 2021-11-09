@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-08 11:49+0100\n"
-"PO-Revision-Date: 2021-11-08 10:47+0000\n"
+"PO-Revision-Date: 2021-11-09 21:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -267,6 +267,8 @@ msgid ""
 "When Angelic Quartermaster enters the battlefield, put a +1/+1 counter on "
 "each of up to two other target creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
+"najwyżej dwóch innych wskazanych stworów."
 
 #: ../../VOW.rst:20
 msgid ""
@@ -281,6 +283,9 @@ msgid ""
 "creature gets +2/+2, and up to one other target creature gets +1/+1. Those "
 "creatures gain vigilance until end of turn."
 msgstr ""
+"Do końca tury wskazany stwór dostaje +3/+3, co najwyżej jeden inny wskazany "
+"stwór dostaje +2/+2 i co najwyżej jeden inny wskazany stwór dostaje +1/+1. "
+"Owe stwory zyskują do końca tury czujność."
 
 #: ../../VOW.rst:26
 msgid ""
@@ -295,6 +300,9 @@ msgid ""
 "strike as long as an Equipment named Groom's Finery is attached to a "
 "creature you control."
 msgstr ""
+"Wyposażony stwór dostaje +2/+0. Dostaje on dodatkowo +0/+2 i ma pierwszy "
+"cios o ile Wyposażenie o nazwie Groom's Finery jest dołączone do stwora pod "
+"twoim władaniem."
 
 #: ../../VOW.rst:25 ../../VOW.rst:861 ../../VOW.rst:1823
 msgid ""
@@ -338,6 +346,8 @@ msgid ""
 "Whenever you play a land or cast a spell, if it shares a card type with the "
 "exiled card, create a 1/1 white Human creature token."
 msgstr ""
+"Ilekroć zagrasz ląd lub rzucisz czar, jeśli ma on wspólny typ karty z "
+"wygnaną kartą, stwórz żeton białego stwora Człowiek 1/1."
 
 #: ../../VOW.rst:44
 msgid ""
@@ -352,12 +362,17 @@ msgid ""
 "opponent controls with mana value 3 or less until Circle of Confinement "
 "leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora o skrócie "
+"many 3 lub mniejszym spod władania przeciwnika dopóki ten urok nie opuści "
+"pola bitwy."
 
 #: ../../VOW.rst:43
 msgid ""
 "Whenever an opponent casts a Vampire spell with the same name as a card "
 "exiled with Circle of Confinement, you gain 2 life."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar Wampira o takiej samej nazwie jak karta "
+"wygnana tym urokiem, zyskaj 2 życia."
 
 #: ../../VOW.rst:48
 msgid ""
@@ -383,17 +398,15 @@ msgid ""
 "Whenever Distracting Geist attacks, tap target creature defending player "
 "controls."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
+"broniącego się gracza."
 
 #: ../../VOW.rst:53
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_4|\\ |mana_w| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_4|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:62
@@ -417,12 +430,10 @@ msgid ""
 "Enchanted creature has \"Whenever this creature attacks, tap target creature "
 "defending player controls.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór zaatakuje, przekręć wskazanego "
+"stwora pod władaniem broniącego się gracza.\""
 
 #: ../../VOW.rst:61
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Clever Distraction would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -479,6 +490,9 @@ msgid ""
 "gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"zyskuje on do końca tury niezniszczalność. (Obrażenia i efekty mówiące "
+"\"zniszcz\" nie niszczą go.)"
 
 #: ../../VOW.rst:88
 msgid ""
@@ -490,23 +504,27 @@ msgstr ""
 
 #: ../../VOW.rst:81
 msgid "Defender, flying, vigilance"
-msgstr ""
+msgstr "Obronność, latanie, czujność"
 
 #: ../../VOW.rst:83
 msgid ""
 "At the beginning of your upkeep, if Faithbound Judge has two or fewer "
 "judgment counters on it, put a judgment counter on it."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ten stwór ma co najwyżej dwa "
+"znaczniki sądu, umieść na nim znacznik sądu."
 
 #: ../../VOW.rst:85
 msgid ""
 "As long as Faithbound Judge has three or more judgment counters on it, it "
 "can attack as though it didn't have defender."
 msgstr ""
+"O ile ten stwór ma co najmniej trzy znaczniki sądu, może on atakować tak, "
+"jakby nie miał obronności."
 
 #: ../../VOW.rst:87
 msgid "Disturb |mana_5|\\ |mana_w|\\ |mana_w|"
-msgstr ""
+msgstr "Niepokojenie |mana_5|\\ |mana_w|\\ |mana_w|"
 
 #: ../../VOW.rst:96
 msgid ""
@@ -526,12 +544,11 @@ msgid ""
 "Judgment. Then if there are three or more judgment counters on it, enchanted "
 "player loses the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik sądu na tym uroku. "
+"Następnie jeśli są na nim co najmniej trzy znaczniki sądu, zauroczony gracz "
+"przegrywa grę."
 
 #: ../../VOW.rst:95
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Sinner's Judgment would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -5094,10 +5111,8 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:1703
-#, fuzzy
-#| msgid "Creatures you control get +1/+1."
 msgid "Other Vampires you control get +1/+1."
-msgstr "Stwory pod twoim władaniem dostają +1/+1."
+msgstr "Inne Wampiry pod twoim władaniem dostają +1/+1."
 
 #: ../../VOW.rst:1705
 msgid ""
