@@ -329,7 +329,7 @@
 .. |M20_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |VOC_percent| image:: images/pie05.png        
+.. |VOC_percent| image:: images/pie70.png        
 
 .. |C13_percent| image:: images/pie70.png        
 
