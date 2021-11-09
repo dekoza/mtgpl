@@ -1,229 +1,230 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-09 10:27+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-11-09 15:05+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:101
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:103
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:105
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../VOC.rst:5
 msgid ":mtgexp:`VOC` Crimson Vow Commander"
@@ -240,6 +241,8 @@ msgstr ""
 #: ../../VOC.rst:9
 msgid "This spell costs |mana_1| less to cast for each Spirit you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego Ducha pod twoim "
+"władaniem."
 
 #: ../../VOC.rst:11 ../../VOC.rst:17 ../../VOC.rst:73 ../../VOC.rst:89
 #: ../../VOC.rst:97 ../../VOC.rst:233 ../../VOC.rst:245 ../../VOC.rst:251
@@ -250,7 +253,7 @@ msgstr ""
 #: ../../VOC.rst:557 ../../VOC.rst:573 ../../VOC.rst:623 ../../VOC.rst:687
 #: ../../VOC.rst:715
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../VOC.rst:13
 msgid ""
@@ -303,7 +306,7 @@ msgstr ""
 
 #: ../../VOC.rst:29
 msgid "Ward—Discard a card."
-msgstr ""
+msgstr "Opieka—Odrzuć kartę."
 
 #: ../../VOC.rst:31
 msgid ""
@@ -325,6 +328,8 @@ msgid ""
 "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
 "each opponent you attacked this combat.)"
 msgstr ""
+"Bijatyka (Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego "
+"przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
 
 #: ../../VOC.rst:37
 msgid "Other Spirits you control have melee."
@@ -379,7 +384,7 @@ msgstr ""
 
 #: ../../VOC.rst:53 ../../VOC.rst:295
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../VOC.rst:55
 msgid ""
@@ -425,7 +430,7 @@ msgstr ""
 
 #: ../../VOC.rst:67 ../../VOC.rst:433
 msgid "You may cast Spirit spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary Duchów tak, jakby miały błysk."
 
 #: ../../VOC.rst:69
 msgid ""
@@ -575,7 +580,7 @@ msgstr ""
 
 #: ../../VOC.rst:119 ../../VOC.rst:489 ../../VOC.rst:545
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../VOC.rst:121
 msgid ""
@@ -683,7 +688,7 @@ msgstr ""
 
 #: ../../VOC.rst:151 ../../VOC.rst:323 ../../VOC.rst:709
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../VOC.rst:153
 msgid ""
@@ -834,6 +839,8 @@ msgid ""
 "either enters the battlefield. They remain paired for as long as you control "
 "both of them.)"
 msgstr ""
+"Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
+"którykolwiek wejdzie na pole bitwy. Pozostają parą dopóki władasz oboma.)"
 
 #: ../../VOC.rst:197
 msgid ""
@@ -851,7 +858,7 @@ msgstr ""
 
 #: ../../VOC.rst:201
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../VOC.rst:205
 msgid ""
@@ -883,7 +890,7 @@ msgstr ""
 
 #: ../../VOC.rst:215 ../../VOC.rst:427
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../VOC.rst:217
 msgid ""
@@ -937,6 +944,8 @@ msgid ""
 "At the beginning of your upkeep, return target Spirit card from your "
 "graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć wskazaną kartę Ducha z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../VOC.rst:242
 msgid ""
@@ -950,12 +959,16 @@ msgid ""
 "Choose an opponent. You and that player each create three 1/1 white Spirit "
 "creature tokens with flying."
 msgstr ""
+"Wybierz przeciwnika. Ty oraz ów gracz tworzycie po trzy żetony białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../VOC.rst:241
 msgid ""
 "Choose an opponent. You gain 2 life for each creature you control and that "
 "player gains 2 life for each creature they control."
 msgstr ""
+"Wybierz przeciwnika. Ty zyskaj 2 życia za każdego stwora pod twoim "
+"władaniem, a ów gracz zyskuje 2 życia za każdego stwora pod jego władaniem."
 
 #: ../../VOC.rst:248
 msgid ""
@@ -971,6 +984,10 @@ msgid ""
 "to the difference, reveal those cards, put one of them onto the battlefield "
 "tapped and the rest into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, wybierz przeciwnika mającego pod "
+"władaniem więcej lądów niż ty. Wyszukaj w twojej bibliotece tyle kart "
+"Równin, ile wynosi różnica, ujawnij owe karty, umieść jedną z nich "
+"przekręconą na polu bitwy, a pozostałe w twojej ręce, po czym przetasuj."
 
 #: ../../VOC.rst:254
 msgid ""
@@ -985,6 +1002,9 @@ msgid ""
 "(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. ("
+"Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:262
 msgid ""
@@ -995,15 +1015,15 @@ msgstr ""
 
 #: ../../VOC.rst:257
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedną lub obie —"
 
 #: ../../VOC.rst:259
 msgid "Exile target artifact."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt."
 
 #: ../../VOC.rst:261
 msgid "Exile target enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany urok."
 
 #: ../../VOC.rst:268
 msgid ""
@@ -1017,12 +1037,16 @@ msgid ""
 "Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, "
 "where X is the number of other creatures on the battlefield."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest "
+"liczbą innych stworów na polu bitwy."
 
 #: ../../VOC.rst:267
 msgid ""
 "|mana_2|\\ |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create "
 "a 1/1 white Spirit creature token with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../VOC.rst:274
 msgid ""
@@ -1048,7 +1072,7 @@ msgstr ""
 
 #: ../../VOC.rst:277
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../VOC.rst:279
 msgid ""
@@ -1056,6 +1080,9 @@ msgid ""
 "toughness 0/1 and has indestructible, and it loses all other abilities, card "
 "types, and creature types."
 msgstr ""
+"Zauroczony stwór jest artefaktowym stworem Owad o bazowych sile i "
+"wytrzymałości 0/1, ma niezniszczalność, traci wszystkie inne zdolności, typy "
+"karty i typy stwora."
 
 #: ../../VOC.rst:284
 msgid ""
@@ -1066,7 +1093,7 @@ msgstr ""
 
 #: ../../VOC.rst:283
 msgid "Destroy all creatures with power greater than target creature's power."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory z siłą większą niż siła wskazanego stwora."
 
 #: ../../VOC.rst:288
 msgid ""
@@ -1080,6 +1107,8 @@ msgid ""
 "Whenever a nontoken creature is put into your graveyard from the "
 "battlefield, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć nieżetonowy stwór trafia do twojego cmentarza z pola bitwy, stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../VOC.rst:292
 msgid ""
@@ -1093,6 +1122,8 @@ msgid ""
 "Creatures can't attack you unless their controller pays |mana_2| for each "
 "creature they control that's attacking you."
 msgstr ""
+"Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
+"każdego stwora pod swoim władaniem atakującego ciebie."
 
 #: ../../VOC.rst:298
 msgid ""
@@ -1106,6 +1137,8 @@ msgid ""
 "When Hallowed Spiritkeeper dies, create X 1/1 white Spirit creature tokens "
 "with flying, where X is the number of creature cards in your graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz X żetonów białego stwora Duch 1/1 z lataniem, "
+"gdzie X jest liczbą kart stworów w twoim cmentarzu."
 
 #: ../../VOC.rst:306
 msgid ""
@@ -1119,10 +1152,12 @@ msgid ""
 "When Hanged Executioner enters the battlefield, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 "
+"z lataniem."
 
 #: ../../VOC.rst:305
 msgid "|mana_3|\\ |mana_w|, Exile Hanged Executioner: Exile target creature."
-msgstr ""
+msgstr "|mana_3|\\ |mana_w|, wygnaj tego stwora: Wygnaj wskazanego stwora."
 
 #: ../../VOC.rst:314
 msgid ""
@@ -1133,7 +1168,7 @@ msgstr ""
 
 #: ../../VOC.rst:309
 msgid "Flying, protection from black"
-msgstr ""
+msgstr "Latanie, ochrona przed czarnym"
 
 #: ../../VOC.rst:311
 msgid ""
@@ -1141,12 +1176,17 @@ msgid ""
 "this came under your control since the beginning of your last upkeep, "
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_3|\\ |mana_w|\\ |mana_w| (Na początku twojego kroku utrzymania, "
+"jeśli ten permanent wszedł pod twoje władanie po twoim poprzednim kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../VOC.rst:313
 msgid ""
 "When Karmic Guide enters the battlefield, return target creature card from "
 "your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../VOC.rst:320
 msgid ""
@@ -1157,7 +1197,7 @@ msgstr ""
 
 #: ../../VOC.rst:317
 msgid "Destroy all creatures. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
 #: ../../VOC.rst:319
 msgid ""
@@ -1165,6 +1205,9 @@ msgid ""
 "all creatures, then create two 1/1 white Spirit creature tokens with flying. "
 "Creatures destroyed this way can't be regenerated."
 msgstr ""
+"Próg — Jeśli w twoim cmentarzu jest co najmniej siedem kart, zamiast tego "
+"zniszcz wszystkie stwory, po czym stwórz dwa żetony białego stwora Duch 1/1 "
+"z lataniem. Stwory zniszczone w ten sposób nie mogą regenerować."
 
 #: ../../VOC.rst:326
 msgid ""
@@ -1180,6 +1223,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
+"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../VOC.rst:330
 msgid ""
@@ -1193,6 +1239,8 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../VOC.rst:336
 msgid ""
@@ -1203,13 +1251,15 @@ msgstr ""
 
 #: ../../VOC.rst:333
 msgid "Changeling (This card is every creature type.)"
-msgstr ""
+msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
 #: ../../VOC.rst:335
 msgid ""
 "|mana_x|: Until end of turn, creatures you control have base power and "
 "toughness X/X and gain all creature types."
 msgstr ""
+"|mana_x|: Do końca tury stwory pod twoim władaniem mają bazowe siłę i "
+"wytrzymałość X/X i zyskują wszystkie typy stwora."
 
 #: ../../VOC.rst:342
 msgid ""
@@ -1249,6 +1299,7 @@ msgstr ""
 msgid ""
 "Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard."
 msgstr ""
+"Poświęć tego stwora: Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../VOC.rst:358
 msgid ""
@@ -1261,6 +1312,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|: Return target Spirit you control to its owner's hand."
 msgstr ""
+"|mana_1|\\ |mana_u|: Przywróć wskazanego Ducha pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../VOC.rst:362
 msgid ""
@@ -1271,7 +1324,7 @@ msgstr ""
 
 #: ../../VOC.rst:361
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../VOC.rst:368
 msgid ""
@@ -1311,10 +1364,12 @@ msgid ""
 "Counter target spell. Its controller may draw up to two cards at the "
 "beginning of the next turn's upkeep."
 msgstr ""
+"Skontruj wskazany czar. Jego władca może dobrać co najwyżej dwie karty na "
+"początku kroku utrzymania następnej tury."
 
 #: ../../VOC.rst:379
 msgid "You draw a card at the beginning of the next turn's upkeep."
-msgstr ""
+msgstr "Dobierz kartę na początku kroku utrzymania najbliższej tury."
 
 #: ../../VOC.rst:384
 msgid ""
@@ -1328,6 +1383,8 @@ msgid ""
 "Choose a creature type. Draw a card for each permanent you control of that "
 "type."
 msgstr ""
+"Wybierz typ stwora. Dobierz kartę za każdy permanent pod twoim władaniem "
+"mający ów typ."
 
 #: ../../VOC.rst:388
 msgid ""
@@ -1342,6 +1399,9 @@ msgid ""
 "more nontoken permanents you control this way, you may put a permanent card "
 "from your hand onto the battlefield."
 msgstr ""
+"Przywróć wszystkie nie-lądowe permanenty do rąk ich właścicieli. Jeśli "
+"przywrócisz w ten sposób co najmniej cztery nieżetonowe permanenty pod twoim "
+"władaniem, możesz umieścić kartę permanentu z twojej ręki na polu bitwy."
 
 #: ../../VOC.rst:396
 msgid ""
@@ -1355,16 +1415,19 @@ msgid ""
 "Whenever Ghostly Pilferer becomes untapped, you may pay |mana_2|. If you do, "
 "draw a card."
 msgstr ""
+"Ilekroć ten stwór zostaje odkręcony, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../VOC.rst:393
 msgid ""
 "Whenever an opponent casts a spell from anywhere other than their hand, draw "
 "a card."
 msgstr ""
+"Ilekroć przeciwnik rzuca czar skądkolwiek poza swoją ręką, dobierz kartę."
 
 #: ../../VOC.rst:395
 msgid "Discard a card: Ghostly Pilferer can't be blocked this turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../VOC.rst:402
 msgid ""
@@ -1375,13 +1438,15 @@ msgstr ""
 
 #: ../../VOC.rst:399
 msgid "Enchant creature, land, or planeswalker"
-msgstr ""
+msgstr "Zaurocz stwora, ląd lub wędrowca"
 
 #: ../../VOC.rst:401
 msgid ""
 "Enchanted permanent is a colorless land with \"|tap|: Add |colorless|\" and "
 "loses all other card types and abilities."
 msgstr ""
+"Zauroczony permanent jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|"
+"\" i traci wszystkie inne typy karty oraz zdolności."
 
 #: ../../VOC.rst:406
 msgid ""
@@ -1396,6 +1461,8 @@ msgid ""
 "At the beginning of each player's draw step, that player draws an additional "
 "card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz dobiera dodatkową "
+"kartę."
 
 #: ../../VOC.rst:416
 msgid ""
@@ -1406,21 +1473,26 @@ msgstr ""
 
 #: ../../VOC.rst:409 ../../VOC.rst:767
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../VOC.rst:411
 msgid "|mana_2|\\ |mana_u|: Put an hour counter on Midnight Clock."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Umieść znacznik godziny na tym artefakcie."
 
 #: ../../VOC.rst:413
 msgid "At the beginning of each upkeep, put an hour counter on Midnight Clock."
 msgstr ""
+"Na początku każdego kroku utrzymania umieść znacznik godziny na tym "
+"artefakcie."
 
 #: ../../VOC.rst:415
 msgid ""
 "When the twelfth hour counter is put on Midnight Clock, shuffle your hand "
 "and graveyard into your library, then draw seven cards. Exile Midnight Clock."
 msgstr ""
+"Kiedy dwunasty znacznik godziny zostanie umieszczony na tym artefakcie, "
+"wtasuj swoją rękę i cmentarz do twojej biblioteki, po czym dobierz siedem "
+"kart. Wygnaj ten artefakt."
 
 #: ../../VOC.rst:424
 msgid ""
@@ -1431,13 +1503,15 @@ msgstr ""
 
 #: ../../VOC.rst:419 ../../VOC.rst:457
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../VOC.rst:423
 msgid ""
 "Whenever Nebelgast Herald or another Spirit enters the battlefield under "
 "your control, tap target creature an opponent controls."
 msgstr ""
+"Ilekroć ten stwór lub inny Duch wejdzie na pole bitwy pod twoim władaniem, "
+"przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../VOC.rst:434
 msgid ""
@@ -1451,6 +1525,8 @@ msgid ""
 "When Rattlechains enters the battlefield, target Spirit gains hexproof until "
 "end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
+"końca tury."
 
 #: ../../VOC.rst:440
 msgid ""
@@ -1464,10 +1540,12 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"dobrać kartę."
 
 #: ../../VOC.rst:439
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../VOC.rst:448
 msgid ""
@@ -1478,12 +1556,14 @@ msgstr ""
 
 #: ../../VOC.rst:445
 msgid "Shacklegeist can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory mające latanie."
 
 #: ../../VOC.rst:447
 msgid ""
 "Tap two untapped Spirits you control: Tap target creature you don't control."
 msgstr ""
+"Przekręć dwa Duchy pod twoim władaniem: Przekręć wskazanego stwora poza "
+"twoim władaniem."
 
 #: ../../VOC.rst:454
 msgid ""
@@ -1505,7 +1585,7 @@ msgstr ""
 
 #: ../../VOC.rst:461
 msgid "|mana_3|\\ |mana_u|: Draw a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
 
 #: ../../VOC.rst:468
 msgid ""
@@ -1516,7 +1596,7 @@ msgstr ""
 
 #: ../../VOC.rst:467
 msgid "Other Spirits you control get +1/+1."
-msgstr ""
+msgstr "Inne Duchy pod twoim władaniem dostają +1/+1."
 
 #: ../../VOC.rst:474
 msgid ""
@@ -1530,10 +1610,12 @@ msgid ""
 "Whenever a creature an opponent controls becomes tapped, if it isn't being "
 "declared as an attacker, you may draw a card."
 msgstr ""
+"Ilekroć stwór pod władaniem przeciwnika zostaje przekręcony, jeśli nie jest "
+"deklarowany jako atakujący, możesz dobrać kartę."
 
 #: ../../VOC.rst:473
 msgid "|mana_4|\\ |mana_u|: Tap target creature without flying."
-msgstr ""
+msgstr "|mana_4|\\ |mana_u|: Przekręć wskazanego stwora bez latania."
 
 #: ../../VOC.rst:478
 msgid ""
@@ -1544,7 +1626,7 @@ msgstr ""
 
 #: ../../VOC.rst:477
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../VOC.rst:482
 msgid ""
@@ -1571,6 +1653,8 @@ msgid ""
 "Whenever Blood Artist or another creature dies, target player loses 1 life "
 "and you gain 1 life."
 msgstr ""
+"Ilekroć umrze ten lub inny stwór, wskazany gracz traci 1 życie, a ty zyskaj "
+"1 życie."
 
 #: ../../VOC.rst:492
 msgid ""
@@ -1597,10 +1681,12 @@ msgid ""
 "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature "
 "enters the battlefield with three +1/+1 counters on it.)"
 msgstr ""
+"Głód krwi 3 (Jeśli przeciwnik otrzymał obrażenia w tej turze, ten stwór "
+"wchodzi na pole bitwy mając trzy znaczniki +1/+1.)"
 
 #: ../../VOC.rst:499
 msgid "Whenever you cast a Vampire creature spell, it gains bloodthirst 3."
-msgstr ""
+msgstr "Ilekroć rzucisz czar Wampira, zyskuje on głód krwi 3."
 
 #: ../../VOC.rst:508
 msgid ""
@@ -1611,13 +1697,15 @@ msgstr ""
 
 #: ../../VOC.rst:505
 msgid "|mana_b|, Pay 2 life: Put a +1/+1 counter on Bloodtracker."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../VOC.rst:507
 msgid ""
 "When Bloodtracker leaves the battlefield, draw a card for each +1/+1 counter "
 "on it."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, dobierz kartę za każdy znacznik +1/+1 na "
+"nim."
 
 #: ../../VOC.rst:514
 msgid ""
@@ -1644,6 +1732,8 @@ msgid ""
 "When Champion of Dusk enters the battlefield, you draw X cards and you lose "
 "X life, where X is the number of Vampires you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz X kart i strać X żyć, gdzie X "
+"jest liczbą Wampirów pod twoim władaniem."
 
 #: ../../VOC.rst:522
 msgid ""
@@ -1657,6 +1747,8 @@ msgid ""
 "Whenever Cordial Vampire or another creature dies, put a +1/+1 counter on "
 "each Vampire you control."
 msgstr ""
+"Ilekroć ten lub inny stwór umrze, umieść znacznik +1/+1 na każdym Wampirze "
+"pod twoim władaniem."
 
 #: ../../VOC.rst:526
 msgid ""
@@ -1667,7 +1759,7 @@ msgstr ""
 
 #: ../../VOC.rst:525
 msgid "Target player draws X cards and loses X life."
-msgstr ""
+msgstr "Wskazany gracz dobiera X kart i traci X żyć."
 
 #: ../../VOC.rst:532
 msgid ""
@@ -1681,12 +1773,15 @@ msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 "
 "counter on Dark Impostor."
 msgstr ""
+"|mana_4|\\ |mana_b|\\ |mana_b|: Wygnaj wskazanego stwora i umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../VOC.rst:531
 msgid ""
 "Dark Impostor has all activated abilities of all creature cards exiled with "
 "it."
 msgstr ""
+"Ten stwór ma wszystkie aktywowane zdolności stworów przez siebie wygnanych."
 
 #: ../../VOC.rst:538
 msgid ""
@@ -1700,6 +1795,8 @@ msgid ""
 "Whenever Falkenrath Noble or another creature dies, target player loses 1 "
 "life and you gain 1 life."
 msgstr ""
+"Ilekroć ten lub inny stwór umrze, wskazany gracz traci 1 życie, a ty zyskaj "
+"1 życie."
 
 #: ../../VOC.rst:542
 msgid ""
@@ -1713,6 +1810,8 @@ msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's mana value."
 msgstr ""
+"Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
+"żyć, ile wynosił skrót many owego permanentu."
 
 #: ../../VOC.rst:548
 msgid ""
@@ -1726,6 +1825,8 @@ msgid ""
 "|mana_2|, Sacrifice a creature: Put a +1/+1 counter on each Vampire you "
 "control."
 msgstr ""
+"|mana_2|, poświęć stwora: Umieść znacznik +1/+1 na każdym Wampirze pod twoim "
+"władaniem."
 
 #: ../../VOC.rst:554
 msgid ""
@@ -1757,6 +1858,8 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, put that "
 "many +1/+1 counters on it."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
+"nim tyle samo znaczników +1/+1."
 
 #: ../../VOC.rst:564
 msgid ""
@@ -1767,7 +1870,7 @@ msgstr ""
 
 #: ../../VOC.rst:563
 msgid "You draw two cards and you lose 2 life."
-msgstr ""
+msgstr "Dobierz dwie karty i strać 2 życia."
 
 #: ../../VOC.rst:570
 msgid ""
@@ -1778,11 +1881,11 @@ msgstr ""
 
 #: ../../VOC.rst:567
 msgid "Whenever you tap a Swamp for mana, add an additional |mana_b|."
-msgstr ""
+msgstr "Ilekroć przekręcisz Bagno pobierając manę, weź dodatkowo |mana_b|."
 
 #: ../../VOC.rst:569
 msgid "|mana_b|: Nirkana Revenant gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../VOC.rst:578
 msgid ""
@@ -1815,6 +1918,8 @@ msgid ""
 "Whenever a Vampire you control attacks, each opponent loses 1 life and you "
 "gain 1 life."
 msgstr ""
+"Ilekroć atakuje Wampir pod twoim władaniem, każdy przeciwnik traci po 1 "
+"życiu, a ty zyskaj 1 życie."
 
 #: ../../VOC.rst:586
 msgid ""
@@ -1828,6 +1933,8 @@ msgid ""
 "Discard a card: Vampires you control get +1/+1 until end of turn. Activate "
 "only once each turn."
 msgstr ""
+"Odrzuć kartę: Wampiry pod twoim władaniem dostają do końca tury +1/+1. "
+"Możesz aktywować tylko raz na turę."
 
 #: ../../VOC.rst:592
 msgid ""
@@ -1838,11 +1945,11 @@ msgstr ""
 
 #: ../../VOC.rst:589
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../VOC.rst:591
 msgid "Enchanted land has \"|tap|, Pay 1 life: Draw a card.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|, zapłać 1 życie: Dobierz kartę.\""
 
 #: ../../VOC.rst:596
 msgid ""
@@ -1857,6 +1964,9 @@ msgid ""
 "untapped Vampire creatures you control. If you do, put a +1/+1 counter on "
 "each of those Vampires."
 msgstr ""
+"Wskazany stwór dostaje -3/-3 do końca tury. Możesz przekręcić dowolną liczbę "
+"odkręconych Wampirów pod twoim władaniem. Jeśli tak zrobisz, umieść znacznik "
+"+1/+1 na każdym z owych Wampirów."
 
 #: ../../VOC.rst:600
 msgid ""
@@ -1867,7 +1977,7 @@ msgstr ""
 
 #: ../../VOC.rst:599
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../VOC.rst:608
 msgid ""
@@ -1891,6 +2001,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../VOC.rst:614
 msgid ""
@@ -1905,6 +2018,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_x|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../VOC.rst:613
 msgid ""
@@ -1912,6 +2028,9 @@ msgid ""
 "targets. If this spell's madness cost was paid, it deals X damage divided as "
 "you choose among those permanents and/or players instead."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie pomiędzy dowolną liczbę "
+"wskazanych celów. Jeśli opłacono koszt szaleństwa tego czaru, zamiast tego "
+"zadaje on X obrażeń rozdzielonych dowolnie pomiędzy owe cele."
 
 #: ../../VOC.rst:620
 msgid ""
@@ -1924,10 +2043,12 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each creature on the battlefield."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
+"bitwy."
 
 #: ../../VOC.rst:619
 msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 13 obrażeń."
 
 #: ../../VOC.rst:626
 msgid ""
@@ -1949,7 +2070,7 @@ msgstr ""
 
 #: ../../VOC.rst:629 ../../VOC.rst:665
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../VOC.rst:631
 msgid ""
@@ -1971,6 +2092,10 @@ msgid ""
 "with madness, discard it into exile. When you do, cast it for its madness "
 "cost or put it into your graveyard.)"
 msgstr ""
+"Każda twoja karta stwora typu Wampir nie będąca na polu bitwy ma szaleństwo. "
+"Jej koszt szaleństwa jest równy jej kosztowi many. (Odrzucając kartę z "
+"szaleństwem, odrzuć ją na wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt "
+"szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../VOC.rst:644
 msgid ""
@@ -1981,19 +2106,23 @@ msgstr ""
 
 #: ../../VOC.rst:639 ../../VOC.rst:699
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedną —"
 
 #: ../../VOC.rst:641
 msgid ""
 "Gain control of all creatures with power 4 or greater until end of turn. "
 "Untap those creatures. They gain haste until end of turn."
 msgstr ""
+"Przejmij do końca tury władanie nad wszystkimi stworami o sile 4 lub "
+"większej. Odkręć owe stwory. Zyskują one pośpiech do końca tury."
 
 #: ../../VOC.rst:643
 msgid ""
 "Gain control of all creatures with power 3 or less until end of turn. Untap "
 "those creatures. They gain haste until end of turn."
 msgstr ""
+"Przejmij do końca tury władanie nad wszystkimi stworami o sile 3 lub "
+"mniejszej. Odkręć owe stwory. Zyskują one pośpiech do końca tury."
 
 #: ../../VOC.rst:650
 msgid ""
@@ -2025,6 +2154,8 @@ msgid ""
 "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć Wampir pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
+"nim znacznik +1/+1."
 
 #: ../../VOC.rst:662
 msgid ""
@@ -2035,7 +2166,7 @@ msgstr ""
 
 #: ../../VOC.rst:657
 msgid "Attacking creatures you control have first strike."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem mają pierwszy cios."
 
 #: ../../VOC.rst:661
 msgid ""
@@ -2043,6 +2174,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../VOC.rst:670
 msgid ""
@@ -2056,6 +2190,8 @@ msgid ""
 "Whenever Stromkirk Occultist deals combat damage to a player, exile the top "
 "card of your library. Until end of turn, you may play that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../VOC.rst:676
 msgid ""
@@ -2066,7 +2202,7 @@ msgstr ""
 
 #: ../../VOC.rst:673
 msgid "Destroy target artifact you don't control."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt poza twoim władaniem."
 
 #: ../../VOC.rst:675
 msgid ""
@@ -2074,6 +2210,9 @@ msgid ""
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
+"Przeciążenie |mana_4|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../VOC.rst:684
 msgid ""
@@ -2087,18 +2226,24 @@ msgid ""
 "+1: Until end of turn, whenever a creature you control deals combat damage "
 "to a player, put a loyalty counter on Dovin, Grand Arbiter."
 msgstr ""
+"+1: Do końca tury, ilekroć stwór pod twoim władaniem zada graczowi obrażenia "
+"bojowe, umieść znacznik lojalności na tym wędrowcu."
 
 #: ../../VOC.rst:681
 msgid ""
 "−1: Create a 1/1 colorless Thopter artifact creature token with flying. You "
 "gain 1 life."
 msgstr ""
+"–1: Stwórz żeton bezkolorowego artefaktowego stwora Thopter 1/1 z lataniem. "
+"Zyskaj 1 życie."
 
 #: ../../VOC.rst:683
 msgid ""
 "−7: Look at the top ten cards of your library. Put three of them into your "
 "hand and the rest on the bottom of your library in a random order."
 msgstr ""
+"–7: Spójrz na dziesięć wierzchnich kart twojej biblioteki. Umieść trzy z "
+"nich w twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../VOC.rst:690
 msgid ""
@@ -2112,6 +2257,8 @@ msgid ""
 "Other Spirit creatures you control get +1/+1 and have hexproof. (They can't "
 "be the targets of spells or abilities your opponents control.)"
 msgstr ""
+"Inne Duchy pod twoim władaniem dostają +1/+1 i mają antyklątwę. (Nie mogą "
+"być wskazywane przez czary i zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../VOC.rst:696
 msgid ""
@@ -2125,6 +2272,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../VOC.rst:695
 msgid ""
@@ -2132,6 +2281,8 @@ msgid ""
 "token with flying that's tapped and attacking. Exile that token at end of "
 "combat."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz przekręcony i atakujący żeton białego "
+"stwora Anioł 4/4 z lataniem. Wygnaj ów żeton na końcu potyczki."
 
 #: ../../VOC.rst:706
 msgid ""
@@ -2142,15 +2293,15 @@ msgstr ""
 
 #: ../../VOC.rst:701
 msgid "Exile all cards from target player's graveyard."
-msgstr ""
+msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../VOC.rst:703
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../VOC.rst:705
 msgid "Each creature deals 1 damage to its controller."
-msgstr ""
+msgstr "Każdy stwór zadaje swojemu władcy po 1 obrażeniu."
 
 #: ../../VOC.rst:712
 msgid ""
@@ -2161,7 +2312,7 @@ msgstr ""
 
 #: ../../VOC.rst:711
 msgid "Other Vampire creatures you control get +1/+1 and have first strike."
-msgstr ""
+msgstr "Inne Wampiry pod twoim władaniem dostają +1/+1 i mają pierwszy cios."
 
 #: ../../VOC.rst:720
 msgid ""
@@ -2189,7 +2340,7 @@ msgstr ""
 
 #: ../../VOC.rst:723 ../../VOC.rst:743 ../../VOC.rst:795
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../VOC.rst:730
 msgid ""
@@ -2200,13 +2351,15 @@ msgstr ""
 
 #: ../../VOC.rst:727 ../../VOC.rst:831 ../../VOC.rst:873
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../VOC.rst:729
 msgid ""
 "|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, Sacrifice Azorius "
 "Locket: Draw two cards."
 msgstr ""
+"|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, poświęć tego stwora: "
+"Dobierz dwie karty."
 
 #: ../../VOC.rst:734
 msgid ""
@@ -2217,7 +2370,7 @@ msgstr ""
 
 #: ../../VOC.rst:733 ../../VOC.rst:853
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../VOC.rst:740
 msgid ""
@@ -2228,11 +2381,11 @@ msgstr ""
 
 #: ../../VOC.rst:737
 msgid "Charcoal Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:739
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../VOC.rst:746
 msgid ""
@@ -2254,11 +2407,11 @@ msgstr ""
 
 #: ../../VOC.rst:749
 msgid "Fire Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:751
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../VOC.rst:758
 msgid ""
@@ -2269,11 +2422,11 @@ msgstr ""
 
 #: ../../VOC.rst:755
 msgid "Marble Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:757
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../VOC.rst:762
 msgid ""
@@ -2284,7 +2437,7 @@ msgstr ""
 
 #: ../../VOC.rst:761 ../../VOC.rst:849
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../VOC.rst:768
 msgid ""
@@ -2295,7 +2448,7 @@ msgstr ""
 
 #: ../../VOC.rst:765
 msgid "Sky Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:772
 msgid ""
@@ -2306,7 +2459,7 @@ msgstr ""
 
 #: ../../VOC.rst:771
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../VOC.rst:778
 msgid ""
@@ -2317,11 +2470,11 @@ msgstr ""
 
 #: ../../VOC.rst:775
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../VOC.rst:777
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../VOC.rst:784
 msgid ""
@@ -2333,11 +2486,11 @@ msgstr ""
 #: ../../VOC.rst:781 ../../VOC.rst:809 ../../VOC.rst:817 ../../VOC.rst:863
 #: ../../VOC.rst:891
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../VOC.rst:783
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
-msgstr ""
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany permanent."
 
 #: ../../VOC.rst:792
 msgid ""
@@ -2348,17 +2501,19 @@ msgstr ""
 
 #: ../../VOC.rst:787
 msgid "Azorius Chancery enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:789
 msgid ""
 "When Azorius Chancery enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../VOC.rst:791
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../VOC.rst:796
 msgid ""
@@ -2379,6 +2534,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../VOC.rst:806
 msgid ""
@@ -2393,10 +2550,12 @@ msgid ""
 "Mountain card from your hand. If you don't, Foreboding Ruins enters the "
 "battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ujawnić z twojej ręki kartę Bagna "
+"lub Góry. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:805 ../../VOC.rst:881
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../VOC.rst:812
 msgid ""
@@ -2410,6 +2569,8 @@ msgid ""
 "|mana_w|\\ |mana_u|, |tap|, Exile a creature card from your graveyard: "
 "Create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"|mana_w|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../VOC.rst:820
 msgid ""
@@ -2420,7 +2581,7 @@ msgstr ""
 
 #: ../../VOC.rst:815
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:819
 msgid ""
@@ -2428,6 +2589,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../VOC.rst:826
 msgid ""
@@ -2460,6 +2624,9 @@ msgid ""
 "As Port Town enters the battlefield, you may reveal a Plains or Island card "
 "from your hand. If you don't, Port Town enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu bitwy możesz ujawnić z twojej ręki kartę "
+"Równiny lub Wyspy. Jeśli tak nie zrobisz, ten ląd wchodzi przekręcony na "
+"pole bitwy."
 
 #: ../../VOC.rst:838
 msgid ""
@@ -2470,13 +2637,15 @@ msgstr ""
 
 #: ../../VOC.rst:835
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../VOC.rst:837
 msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../VOC.rst:846
 msgid ""
@@ -2487,17 +2656,19 @@ msgstr ""
 
 #: ../../VOC.rst:841
 msgid "Rakdos Carnarium enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:843
 msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../VOC.rst:845
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../VOC.rst:850
 msgid ""
@@ -2522,13 +2693,15 @@ msgstr ""
 
 #: ../../VOC.rst:857
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../VOC.rst:859
 msgid ""
 "Smoldering Marsh enters the battlefield tapped unless you control two or "
 "more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../VOC.rst:866
 msgid ""
@@ -2540,6 +2713,8 @@ msgstr ""
 #: ../../VOC.rst:865
 msgid "|tap|: Add |mana_b| or |mana_r|. Activate only if you control a Swamp."
 msgstr ""
+"|tap|: Weź |mana_b| lub |mana_r|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../VOC.rst:874
 msgid ""
@@ -2550,11 +2725,11 @@ msgstr ""
 
 #: ../../VOC.rst:869
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:871
 msgid "When Temple of Enlightenment enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../VOC.rst:882
 msgid ""
@@ -2565,11 +2740,11 @@ msgstr ""
 
 #: ../../VOC.rst:877
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:879
 msgid "When Temple of Malice enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../VOC.rst:886
 msgid ""
@@ -2583,6 +2758,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../VOC.rst:893
 msgid ""
@@ -2593,10 +2770,12 @@ msgstr ""
 
 #: ../../VOC.rst:889
 msgid "As Unclaimed Territory enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
 
 #: ../../VOC.rst:893
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type."
 msgstr ""
+"|tap|: Weź jedną manę w dowolnym kolorze. Wydaj tę manę tylko na rzucenie "
+"czaru stwora owego wybranego typu."
