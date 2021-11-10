@@ -47,13 +47,13 @@
    Whenever you cast an enchantment spell, you gain 2 life.
 
 
-:mtgtip:`Distracting Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1636208375|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`
+:mtgtip:`Distracting Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1636494229|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`
    Whenever Distracting Geist attacks, tap target creature defending player controls.
 
    Disturb |mana_4|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Clever Distraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1636208375|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`
+:mtgtip:`Clever Distraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.jpg?1636494229|https://scryfall.com/card/vow/9/distracting-geist-clever-distraction?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever this creature attacks, tap target creature defending player controls."
@@ -61,11 +61,11 @@
    If Clever Distraction would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Drogskol Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f88e269e-ff3d-4775-8520-5b7a6dddf23d.jpg?1635454525|https://scryfall.com/card/vow/10/drogskol-infantry-drogskol-armaments?utm_source=api>`
+:mtgtip:`Drogskol Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f88e269e-ff3d-4775-8520-5b7a6dddf23d.jpg?1636494344|https://scryfall.com/card/vow/10/drogskol-infantry-drogskol-armaments?utm_source=api>`
    Disturb |mana_3|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Drogskol Armaments<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/8/f88e269e-ff3d-4775-8520-5b7a6dddf23d.jpg?1635454525|https://scryfall.com/card/vow/10/drogskol-infantry-drogskol-armaments?utm_source=api>`
+:mtgtip:`Drogskol Armaments<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/8/f88e269e-ff3d-4775-8520-5b7a6dddf23d.jpg?1636494344|https://scryfall.com/card/vow/10/drogskol-infantry-drogskol-armaments?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+2.
@@ -77,7 +77,7 @@
    Whenever Estwald Shieldbasher attacks, you may pay |mana_1|. If you do, it gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Faithbound Judge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db791fb6-b0ff-4ded-bd3d-9447cf398312.jpg?1635956709|https://scryfall.com/card/vow/12/faithbound-judge-sinners-judgment?utm_source=api>`
+:mtgtip:`Faithbound Judge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db791fb6-b0ff-4ded-bd3d-9447cf398312.jpg?1636494357|https://scryfall.com/card/vow/12/faithbound-judge-sinners-judgment?utm_source=api>`
    Defender, flying, vigilance
 
    At the beginning of your upkeep, if Faithbound Judge has two or fewer judgment counters on it, put a judgment counter on it.
@@ -87,7 +87,7 @@
    Disturb |mana_5|\ |mana_w|\ |mana_w|
 
 
-:mtgtip:`Sinner's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/b/db791fb6-b0ff-4ded-bd3d-9447cf398312.jpg?1635956709|https://scryfall.com/card/vow/12/faithbound-judge-sinners-judgment?utm_source=api>`
+:mtgtip:`Sinner's Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/b/db791fb6-b0ff-4ded-bd3d-9447cf398312.jpg?1636494357|https://scryfall.com/card/vow/12/faithbound-judge-sinners-judgment?utm_source=api>`
    Enchant player
 
    At the beginning of your upkeep, put a judgment counter on Sinner's Judgment. Then if there are three or more judgment counters on it, enchanted player loses the game.
@@ -147,7 +147,7 @@
    |mana_2|\ |mana_w|, Remove two +1/+1 counters from among creatures you control: Destroy target artifact or enchantment.
 
 
-:mtgtip:`Katilda, Dawnhart Martyr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1636208387|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`
+:mtgtip:`Katilda, Dawnhart Martyr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1636494418|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`
    Flying, lifelink, protection from Vampires
 
    Katilda, Dawnhart Martyr's power and toughness are each equal to the number of permanents you control that are Spirits and/or enchantments.
@@ -155,7 +155,7 @@
    Disturb |mana_3|\ |mana_w|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Katilda's Rising Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1636208387|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`
+:mtgtip:`Katilda's Rising Dawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.jpg?1636494418|https://scryfall.com/card/vow/21/katilda-dawnhart-martyr-katildas-rising-dawn?utm_source=api>`
    Enchant creature
 
    Enchanted creature has flying, lifelink, and protection from Vampires, and it gets +X/+X, where X is the number of permanents you control that are Spirits and/or enchantments.
@@ -163,13 +163,13 @@
    If Katilda's Rising Dawn would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Kindly Ancestor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25193485-7f41-4b05-9a69-4c112679f97c.jpg?1635605839|https://scryfall.com/card/vow/22/kindly-ancestor-ancestors-embrace?utm_source=api>`
+:mtgtip:`Kindly Ancestor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25193485-7f41-4b05-9a69-4c112679f97c.jpg?1636494442|https://scryfall.com/card/vow/22/kindly-ancestor-ancestors-embrace?utm_source=api>`
    Lifelink
 
    Disturb |mana_1|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Ancestor's Embrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/5/25193485-7f41-4b05-9a69-4c112679f97c.jpg?1635605839|https://scryfall.com/card/vow/22/kindly-ancestor-ancestors-embrace?utm_source=api>`
+:mtgtip:`Ancestor's Embrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/5/25193485-7f41-4b05-9a69-4c112679f97c.jpg?1636494442|https://scryfall.com/card/vow/22/kindly-ancestor-ancestors-embrace?utm_source=api>`
    Enchant creature
 
    Enchanted creature has lifelink.
@@ -291,13 +291,13 @@
    |tap|: Target creature gets +1/+0 until end of turn. You gain 1 life. Activate only as a sorcery.
 
 
-:mtgtip:`Twinblade Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1deb24b-3d8f-4251-a901-85eeb891f26f.jpg?1635702566|https://scryfall.com/card/vow/40/twinblade-geist-twinblade-invocation?utm_source=api>`
+:mtgtip:`Twinblade Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1deb24b-3d8f-4251-a901-85eeb891f26f.jpg?1636494571|https://scryfall.com/card/vow/40/twinblade-geist-twinblade-invocation?utm_source=api>`
    Double strike
 
    Disturb |mana_2|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Twinblade Invocation<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/1/f1deb24b-3d8f-4251-a901-85eeb891f26f.jpg?1635702566|https://scryfall.com/card/vow/40/twinblade-geist-twinblade-invocation?utm_source=api>`
+:mtgtip:`Twinblade Invocation<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/1/f1deb24b-3d8f-4251-a901-85eeb891f26f.jpg?1636494571|https://scryfall.com/card/vow/40/twinblade-geist-twinblade-invocation?utm_source=api>`
    Enchant creature
 
    Enchanted creature has double strike.
@@ -351,13 +351,13 @@
    Return target nonland permanent [you control] to its owner's hand.
 
 
-:mtgtip:`Binding Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/730e4629-dc54-415d-9493-88885788ca19.jpg?1636118444|https://scryfall.com/card/vow/48/binding-geist-spectral-binding?utm_source=api>`
+:mtgtip:`Binding Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/730e4629-dc54-415d-9493-88885788ca19.jpg?1636494265|https://scryfall.com/card/vow/48/binding-geist-spectral-binding?utm_source=api>`
    Whenever Binding Geist attacks, target creature an opponent controls gets -2/-0 until end of turn.
 
    Disturb |mana_1|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb c ost.)
 
 
-:mtgtip:`Spectral Binding<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/3/730e4629-dc54-415d-9493-88885788ca19.jpg?1636118444|https://scryfall.com/card/vow/48/binding-geist-spectral-binding?utm_source=api>`
+:mtgtip:`Spectral Binding<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/3/730e4629-dc54-415d-9493-88885788ca19.jpg?1636494265|https://scryfall.com/card/vow/48/binding-geist-spectral-binding?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets -2/-0.
@@ -463,13 +463,13 @@
    |mana_u|, |tap|, Sacrifice another nontoken creature: Create an X/X blue Zombie creature token, where X is the sacrificed creature's toughness.
 
 
-:mtgtip:`Gutter Skulker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.jpg?1635935430|https://scryfall.com/card/vow/62/gutter-skulker-gutter-shortcut?utm_source=api>`
+:mtgtip:`Gutter Skulker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.jpg?1636494396|https://scryfall.com/card/vow/62/gutter-skulker-gutter-shortcut?utm_source=api>`
    Gutter Skulker can't be blocked as long as it's attacking alone.
 
    Disturb |mana_3|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Gutter Shortcut<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.jpg?1635935430|https://scryfall.com/card/vow/62/gutter-skulker-gutter-shortcut?utm_source=api>`
+:mtgtip:`Gutter Shortcut<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.jpg?1636494396|https://scryfall.com/card/vow/62/gutter-skulker-gutter-shortcut?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't be blocked as long as it's attacking alone.
@@ -505,13 +505,13 @@
    Once during each of your turns, you may play a land or cast a spell from among the cards exiled with this permanent without paying its mana cost.
 
 
-:mtgtip:`Lantern Bearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d3652a-6774-4b16-aa8b-cb11d72ec7aa.jpg?1635842501|https://scryfall.com/card/vow/66/lantern-bearer-lanterns-lift?utm_source=api>`
+:mtgtip:`Lantern Bearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4d3652a-6774-4b16-aa8b-cb11d72ec7aa.jpg?1636494521|https://scryfall.com/card/vow/66/lantern-bearer-lanterns-lift?utm_source=api>`
    Flying
 
    Disturb |mana_2|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Lanterns' Lift<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/4/a4d3652a-6774-4b16-aa8b-cb11d72ec7aa.jpg?1635842501|https://scryfall.com/card/vow/66/lantern-bearer-lanterns-lift?utm_source=api>`
+:mtgtip:`Lanterns' Lift<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/4/a4d3652a-6774-4b16-aa8b-cb11d72ec7aa.jpg?1636494521|https://scryfall.com/card/vow/66/lantern-bearer-lanterns-lift?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 and has flying.
@@ -527,13 +527,13 @@
    Draw a card.
 
 
-:mtgtip:`Mirrorhall Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1635892271|https://scryfall.com/card/vow/68/mirrorhall-mimic-ghastly-mimicry?utm_source=api>`
+:mtgtip:`Mirrorhall Mimic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1636494541|https://scryfall.com/card/vow/68/mirrorhall-mimic-ghastly-mimicry?utm_source=api>`
    You may have Mirrorhall Mimic enter the battlefield as a copy of any creature on the battlefield, except it's a Spirit in addition to its other types.
 
    Disturb |mana_3|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Ghastly Mimicry<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1635892271|https://scryfall.com/card/vow/68/mirrorhall-mimic-ghastly-mimicry?utm_source=api>`
+:mtgtip:`Ghastly Mimicry<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1636494541|https://scryfall.com/card/vow/68/mirrorhall-mimic-ghastly-mimicry?utm_source=api>`
    Enchant creature
 
    At the beginning of your upkeep, create a token that's a copy of enchanted creature, except it's a Spirit in addition to its other types.
@@ -541,13 +541,13 @@
    If Ghastly Mimicry would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Mischievous Catgeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636208485|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`
+:mtgtip:`Mischievous Catgeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636494565|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`
    Whenever Mischievous Catgeist deals combat damage to a player, draw a card.
 
    Disturb |mana_2|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Catlike Curiosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636208485|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`
+:mtgtip:`Catlike Curiosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1636494565|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever this creature deals combat damage to a player, draw a card."
@@ -1655,13 +1655,13 @@
    |tap|, Sacrifice Bloodtithe Harvester: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery.
 
 
-:mtgtip:`Brine Comber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.jpg?1635706141|https://scryfall.com/card/vow/233/brine-comber-brinebound-gift?utm_source=api>`
+:mtgtip:`Brine Comber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.jpg?1636494288|https://scryfall.com/card/vow/233/brine-comber-brinebound-gift?utm_source=api>`
    Whenever Brine Comber enters the battlefield or becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
 
    Disturb |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Brinebound Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.jpg?1635706141|https://scryfall.com/card/vow/233/brine-comber-brinebound-gift?utm_source=api>`
+:mtgtip:`Brinebound Gift<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.jpg?1636494288|https://scryfall.com/card/vow/233/brine-comber-brinebound-gift?utm_source=api>`
    Enchant creature
 
    Whenever Brinebound Gift enters the battlefield or enchanted creature becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
@@ -1683,7 +1683,7 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Dorothea, Vengeful Victim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1635454482|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`
+:mtgtip:`Dorothea, Vengeful Victim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1636494313|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`
    Flying
 
    When Dorothea, Vengeful Victim attacks or blocks, sacrifice it at end of combat.
@@ -1691,7 +1691,7 @@
    Disturb |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Dorothea's Retribution<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1635454482|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`
+:mtgtip:`Dorothea's Retribution<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1636494313|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat."
