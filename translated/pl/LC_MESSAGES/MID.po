@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2021-09-27 12:43+0000\n"
+"PO-Revision-Date: 2021-11-10 21:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -741,10 +741,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:157
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. If it's a Human, it gets +3/"
-#| "+3 and gains indestructible until end of turn instead."
 msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Human, instead it "
 "gets +3/+3 and gains indestructible until end of turn."
@@ -1280,16 +1276,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:327
-#, fuzzy
-#| msgid ""
-#| "When Dreadhound enters the battlefield, mill three cards. (Put the top "
-#| "three cards of your library into your graveyard.)"
 msgid ""
 "When Covetous Castaway dies, mill three cards. (Put the top three cards of "
 "your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty. (Umieść trzy "
-"wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
+"Kiedy ten stwór umrze, zmiel trzy karty. (Umieść trzy wierzchnie karty "
+"twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../MID.rst:329
 msgid ""
@@ -1744,11 +1736,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:475
-#, fuzzy
-#| msgid ""
-#| "When Organ Hoarder enters the battlefield, look at the top three cards of "
-#| "your library, then put one of them into your hand and the rest into you "
-#| "graveyard."
 msgid ""
 "When Organ Hoarder enters the battlefield, look at the top three cards of "
 "your library, then put one of them into your hand and the rest into your "
@@ -1875,10 +1862,6 @@ msgstr ""
 "na koniec potyczki.)"
 
 #: ../../MID.rst:515
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, if you control three or more creature "
-#| "tokens, you may transform Poppet Sticher."
 msgid ""
 "At the beginning of your upkeep, if you control three or more creature "
 "tokens, you may transform Poppet Stitcher."
@@ -2990,13 +2973,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:877
-#, fuzzy
-#| msgid ""
-#| "When Tainted Adversary enters the battlefield, you may pay |mana_2|\\ |"
-#| "mana_b| any number of times. When you pay this cost one or more times, "
-#| "put that many +1/+1 counters on Tainted Adversary, then create twice that "
-#| "many black 2/2 Zombie creature tokens with decayed. (A creature with "
-#| "decayed can't block. When it attacks, sacrifice it at end of combat.)"
 msgid ""
 "When Tainted Adversary enters the battlefield, you may pay |mana_2|\\ |"
 "mana_b| any number of times. When you pay this cost one or more times, put "
@@ -3056,16 +3032,12 @@ msgid "Enchant creature or planeswalker an opponent controls"
 msgstr "Zaurocz stwora lub wędrowca pod władaniem przeciwnika"
 
 #: ../../MID.rst:895
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, enchanted permanent's controller "
-#| "sacrifices a nonland permanent and loses 1 life."
 msgid ""
 "At the beginning of your upkeep, enchanted permanent's controller sacrifices "
 "a nonland permanent, then that player loses 1 life."
 msgstr ""
 "Na początku twojego kroku utrzymania, władca zauroczonego permanentu "
-"poświęca nielądowy permanent i traci 1 życie."
+"poświęca nielądowy permanent, po czym ów gracz traci 1 życie."
 
 #: ../../MID.rst:902
 msgid ""
@@ -3696,12 +3668,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1105
-#, fuzzy
-#| msgid ""
-#| "Create a red Elemental creature token with trample and \"This creature's "
-#| "power and toughness are each equal to the number of instant and sorcery "
-#| "cards in your graveyard, plus the number of cards with flashback you own "
-#| "in exile.\""
 msgid ""
 "Create a red Elemental creature token with trample and \"This creature's "
 "power and toughness are each equal to the number of instant and sorcery "
@@ -4094,12 +4060,6 @@ msgstr ""
 "a wytrzymałość jest równa tej liczbie plus 1."
 
 #: ../../MID.rst:1255
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, create a green Ooze creature token "
-#| "with \"This creature's power is equal to the number of card types among "
-#| "cards in your graveyard and its toughness is equal to that number plus "
-#| "1\"."
 msgid ""
 "At the beginning of your end step, create a green Ooze creature token with "
 "\"This creature's power is equal to the number of card types among cards in "
@@ -4107,7 +4067,7 @@ msgid ""
 msgstr ""
 "Na początku twojego kroku końcowego, stwórz żeton zielonego stwora Szlam "
 "mający \"Siła tego stwora jest równa liczbie typów kart pośród kart w twoim "
-"cmentarzu, a wytrzymałość jest równa tej liczbie plus 1\"."
+"cmentarzu, a wytrzymałość jest równa tej liczbie plus 1.\""
 
 #: ../../MID.rst:1262
 msgid ""
@@ -4629,10 +4589,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1437
-#, fuzzy
-#| msgid ""
-#| "Whenever Tovolar's Huntmaster enters the battlefield, create two 2/2 "
-#| "green Wolf creature tokens."
 msgid ""
 "When Tovolar's Huntmaster enters the battlefield, create two 2/2 green Wolf "
 "creature tokens."
@@ -4877,15 +4833,11 @@ msgstr ""
 "zamiast tego wygnaj go.\""
 
 #: ../../MID.rst:1513
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_u|\\ |mana_b| (You may cast this card from "
-#| "your graveyard for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback |mana_3|\\ |mana_w|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_u|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"Wspomnienie |mana_3|\\ |mana_w|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:1522
@@ -4910,16 +4862,12 @@ msgstr ""
 "jest łączną siłą poświęconych stworów."
 
 #: ../../MID.rst:1521
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost and any additional costs. Then exile it.)"
 msgid ""
 "Flashback |mana_3|\\ |mana_u|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost and any additional costs. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia i dodatkowe koszty. Następnie wygnaj ją.)"
+"Wspomnienie |mana_3|\\ |mana_u|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia i dodatkowe koszty. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:1528
 msgid ""
@@ -5408,13 +5356,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1673
-#, fuzzy
-#| msgid ""
-#| "As this creature transforms in Olag, Ludevic's Hubris, it becomes a copy "
-#| "of a creature card exiled with it, except its name is Olag, Ludevic's "
-#| "Hubris, it's 4/4, and it's a legendary blue and black Zombie in addition "
-#| "to its other colors and types. Put a number of +1/+1 counters on Olag "
-#| "equal to the number of creature cards exiled with it."
 msgid ""
 "As this creature transforms into Olag, Ludevic's Hubris, it becomes a copy "
 "of a creature card exiled with it, except its name is Olag, Ludevic's "
@@ -5435,12 +5376,6 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:1677
-#, fuzzy
-#| msgid ""
-#| "When you cast this spell, reveal cards from the top of your library until "
-#| "you reveal X creature cards. Put all creature cards revealed this way "
-#| "into your graveyard and the rest on the bottom of your library in a "
-#| "random order."
 msgid ""
 "When you cast this spell, reveal cards from the top of your library until "
 "you reveal X creature cards. Put all creature cards revealed this way into "
@@ -5449,7 +5384,8 @@ msgid ""
 msgstr ""
 "Kiedy rzucisz ten czar, ujawniaj karty z wierzchu twojej biblioteki, aż "
 "ujawnisz X kart stworów. Umieść wszystkie karty stworów ujawnione w ten "
-"sposób w twoim cmentarzu, a pozostałe losowo na spodzie twojej biblioteki."
+"sposób w twoim cmentarzu, po czym umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../MID.rst:1679
 msgid ""
@@ -5528,16 +5464,12 @@ msgid "Exile target nonland permanent."
 msgstr "Wygnaj wskazany nielądowy permanent."
 
 #: ../../MID.rst:1701
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost and any additional costs. Then exile it.)"
 msgid ""
 "Flashback |mana_2|\\ |mana_w|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost and any additional costs. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_3|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia i dodatkowe koszty. Następnie wygnaj ją.)"
+"Wspomnienie |mana_2|\\ |mana_w|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia i dodatkowe koszty. Następnie wygnaj ją.)"
 
 #: ../../MID.rst:1710
 msgid ""
