@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-09 10:27+0100\n"
+"POT-Creation-Date: 2021-11-10 22:44+0100\n"
 "PO-Revision-Date: 2021-11-09 15:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
@@ -351,7 +351,7 @@ msgstr ""
 #: ../../VOC.rst:44
 msgid ""
 ":mtgtip:`Haunted Library<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/0/b0193151-0f5f-457b-a6b2-08f66b53c9b2.jpg?1636417153|"
+"border_crop/front/b/0/b0193151-0f5f-457b-a6b2-08f66b53c9b2.jpg?1636551076|"
 "https://scryfall.com/card/voc/6/haunted-library?utm_source=api>`"
 msgstr ""
 
@@ -379,7 +379,7 @@ msgstr ""
 #: ../../VOC.rst:56
 msgid ""
 ":mtgtip:`Rhoda, Geist Avenger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/4/c434e774-c908-46b9-ba18-52e1efe092de.jpg?1636418951|"
+"border_crop/front/c/4/c434e774-c908-46b9-ba18-52e1efe092de.jpg?1636551030|"
 "https://scryfall.com/card/voc/8/rhoda-geist-avenger?utm_source=api>`"
 msgstr ""
 
@@ -449,17 +449,25 @@ msgstr ""
 #: ../../VOC.rst:78
 msgid ""
 ":mtgtip:`Ethereal Investigator<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/8/a81b1492-ef70-4d8d-9458-c25a084107a7.jpg?1636416475|"
+"border_crop/front/a/8/a81b1492-ef70-4d8d-9458-c25a084107a7.jpg?1636538132|"
 "https://scryfall.com/card/voc/12/ethereal-investigator?utm_source=api>`"
 msgstr ""
 
 #: ../../VOC.rst:75
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a creature spell with mana value 3 or less, "
+#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "When Ethereal Investigator enters the battlefield, investigate X times, "
 "where X is the number of opponents you have. (To investigate, create a "
-"colorless Clue artifact token with \"2, Sacrifice this artifact: Draw a card."
-"\")"
+"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
+"a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
+"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:77
 msgid ""
@@ -514,7 +522,7 @@ msgstr ""
 #: ../../VOC.rst:100
 msgid ""
 ":mtgtip:`Timin, Youthful Geist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/3/a3d4102e-b48c-4da8-b181-092c7ab1849a.jpg?1636419762|"
+"border_crop/front/a/3/a3d4102e-b48c-4da8-b181-092c7ab1849a.jpg?1636551016|"
 "https://scryfall.com/card/voc/16/timin-youthful-geist?utm_source=api>`"
 msgstr ""
 
@@ -532,7 +540,7 @@ msgstr ""
 #: ../../VOC.rst:106
 msgid ""
 ":mtgtip:`Crossway Troublemakers<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/3/431711c5-c04f-4d34-97c9-5199cfbf9da9.jpg?1636416070|"
+"border_crop/front/4/3/431711c5-c04f-4d34-97c9-5199cfbf9da9.jpg?1636551067|"
 "https://scryfall.com/card/voc/17/crossway-troublemakers?utm_source=api>`"
 msgstr ""
 
@@ -575,7 +583,7 @@ msgstr ""
 #: ../../VOC.rst:122
 msgid ""
 ":mtgtip:`Kamber, the Plunderer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/2/c2e932f7-1a72-44e7-89f7-b853eada74f0.jpg?1636417325|"
+"border_crop/front/c/2/c2e932f7-1a72-44e7-89f7-b853eada74f0.jpg?1636490934|"
 "https://scryfall.com/card/voc/19/kamber-the-plunderer?utm_source=api>`"
 msgstr ""
 
@@ -613,7 +621,7 @@ msgstr ""
 #: ../../VOC.rst:130
 msgid ""
 ":mtgtip:`Predators' Hour<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/e/dea6d749-d2a9-43f0-8ab4-ff83ba294564.jpg?1636418391|"
+"border_crop/front/d/e/dea6d749-d2a9-43f0-8ab4-ff83ba294564.jpg?1636477439|"
 "https://scryfall.com/card/voc/21/predators-hour?utm_source=api>`"
 msgstr ""
 
@@ -708,7 +716,7 @@ msgstr ""
 #: ../../VOC.rst:160
 msgid ""
 ":mtgtip:`Markov Enforcer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/9/597bc4ae-335d-4d1d-8a57-530291abc540.jpg?1636417652|"
+"border_crop/front/5/9/597bc4ae-335d-4d1d-8a57-530291abc540.jpg?1636550980|"
 "https://scryfall.com/card/voc/26/markov-enforcer?utm_source=api>`"
 msgstr ""
 
@@ -743,7 +751,7 @@ msgstr ""
 #: ../../VOC.rst:170
 msgid ""
 ":mtgtip:`Scion of Opulence<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/c/dc0296ec-0401-49c6-82c3-9d7e8aa5ee25.jpg?1636419015|"
+"border_crop/front/d/c/dc0296ec-0401-49c6-82c3-9d7e8aa5ee25.jpg?1636550994|"
 "https://scryfall.com/card/voc/28/scion-of-opulence?utm_source=api>`"
 msgstr ""
 
@@ -837,7 +845,7 @@ msgstr ""
 #: ../../VOC.rst:198
 msgid ""
 ":mtgtip:`Imperious Mindbreaker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/5/95a9e722-d7a3-4a19-afd6-6c617aaf8eda.jpg?1636050100|"
+"border_crop/front/9/5/95a9e722-d7a3-4a19-afd6-6c617aaf8eda.jpg?1636551057|"
 "https://scryfall.com/card/voc/33/imperious-mindbreaker?utm_source=api>`"
 msgstr ""
 
@@ -909,7 +917,7 @@ msgstr ""
 #: ../../VOC.rst:224
 msgid ""
 ":mtgtip:`Thundering Mightmare<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/3/a37fbffb-4ed0-4c61-9cef-2cd55ad67f9c.jpg?1636050796|"
+"border_crop/front/a/3/a37fbffb-4ed0-4c61-9cef-2cd55ad67f9c.jpg?1636551042|"
 "https://scryfall.com/card/voc/37/thundering-mightmare?utm_source=api>`"
 msgstr ""
 
@@ -1010,8 +1018,8 @@ msgid ""
 "(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. ("
-"Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
+"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
 "artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:262
@@ -1286,7 +1294,7 @@ msgstr ""
 #: ../../VOC.rst:346
 msgid ""
 ":mtgtip:`Promise of Bunrei<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/4/a40e9071-7b27-4070-bc3a-c095c2128953.jpg?1636418486|"
+"border_crop/front/a/4/a40e9071-7b27-4070-bc3a-c095c2128953.jpg?1636455175|"
 "https://scryfall.com/card/voc/96/promise-of-bunrei?utm_source=api>`"
 msgstr ""
 
@@ -1539,7 +1547,7 @@ msgstr ""
 #: ../../VOC.rst:440
 msgid ""
 ":mtgtip:`Reconnaissance Mission<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1636424746|"
+"border_crop/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1636433154|"
 "https://scryfall.com/card/voc/111/reconnaissance-mission?utm_source=api>`"
 msgstr ""
 
@@ -1781,8 +1789,8 @@ msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 "
 "counter on Dark Impostor."
 msgstr ""
-"|mana_4|\\ |mana_b|\\ |mana_b|: Wygnaj wskazanego stwora i umieść znacznik +"
-"1/+1 na niniejszym stworze."
+"|mana_4|\\ |mana_b|\\ |mana_b|: Wygnaj wskazanego stwora i umieść znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../VOC.rst:531
 msgid ""
@@ -1883,7 +1891,7 @@ msgstr "Dobierz dwie karty i strać 2 życia."
 #: ../../VOC.rst:570
 msgid ""
 ":mtgtip:`Nirkana Revenant<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/6/96da0a4c-2865-4383-875a-9f5d6503baee.jpg?1636418913|"
+"border_crop/front/9/6/96da0a4c-2865-4383-875a-9f5d6503baee.jpg?1636538198|"
 "https://scryfall.com/card/voc/134/nirkana-revenant?utm_source=api>`"
 msgstr ""
 
@@ -2658,7 +2666,7 @@ msgstr ""
 #: ../../VOC.rst:846
 msgid ""
 ":mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/8/385e7ce2-0484-4763-949a-10082cd60e46.jpg?1636418505|"
+"border_crop/front/3/8/385e7ce2-0484-4763-949a-10082cd60e46.jpg?1636538143|"
 "https://scryfall.com/card/voc/180/rakdos-carnarium?utm_source=api>`"
 msgstr ""
 
