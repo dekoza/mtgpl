@@ -39,7 +39,7 @@
    Prevent all noncombat damage that would be dealt to Spirits you control.
 
 
-:mtgtip:`Haunted Library<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0193151-0f5f-457b-a6b2-08f66b53c9b2.jpg?1636417153|https://scryfall.com/card/voc/6/haunted-library?utm_source=api>`
+:mtgtip:`Haunted Library<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0193151-0f5f-457b-a6b2-08f66b53c9b2.jpg?1636551076|https://scryfall.com/card/voc/6/haunted-library?utm_source=api>`
    Whenever a creature an opponent controls dies, you may pay |mana_1|. If you do, create a 1/1 white Spirit creature token with flying.
 
 
@@ -47,7 +47,7 @@
    At the beginning of your end step, create X 1/1 white Spirit creature tokens with flying, where X is the number of opponents who control more lands than you.
 
 
-:mtgtip:`Rhoda, Geist Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c434e774-c908-46b9-ba18-52e1efe092de.jpg?1636418951|https://scryfall.com/card/voc/8/rhoda-geist-avenger?utm_source=api>`
+:mtgtip:`Rhoda, Geist Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c434e774-c908-46b9-ba18-52e1efe092de.jpg?1636551030|https://scryfall.com/card/voc/8/rhoda-geist-avenger?utm_source=api>`
    Partner with Timin, Youthful Geist (When this creature enters the battlefield, target player may put Timin into their hand from their library, then shuffle.)
 
    Vigilance
@@ -69,10 +69,10 @@
    Whenever you cast a creature spell during an opponent's turn, tap up to one target creature.
 
 
-:mtgtip:`Ethereal Investigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a81b1492-ef70-4d8d-9458-c25a084107a7.jpg?1636416475|https://scryfall.com/card/voc/12/ethereal-investigator?utm_source=api>`
+:mtgtip:`Ethereal Investigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a81b1492-ef70-4d8d-9458-c25a084107a7.jpg?1636538132|https://scryfall.com/card/voc/12/ethereal-investigator?utm_source=api>`
    Flying
 
-   When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a colorless Clue artifact token with "2, Sacrifice this artifact: Draw a card.")
+   When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you draw your second card each turn, create a 1/1 white Spirit creature token with flying.
 
@@ -91,7 +91,7 @@
    When Spectral Arcanist enters the battlefield, you may cast an instant or sorcery spell with mana value less than or equal to the number of Spirits you control from a graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.
 
 
-:mtgtip:`Timin, Youthful Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3d4102e-b48c-4da8-b181-092c7ab1849a.jpg?1636419762|https://scryfall.com/card/voc/16/timin-youthful-geist?utm_source=api>`
+:mtgtip:`Timin, Youthful Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3d4102e-b48c-4da8-b181-092c7ab1849a.jpg?1636551016|https://scryfall.com/card/voc/16/timin-youthful-geist?utm_source=api>`
    Partner with Rhoda, Geist Avenger (When this creature enters the battlefield, target player may put Rhoda into their hand from their library, then shuffle.)
 
    Flying
@@ -99,7 +99,7 @@
    At the beginning of each combat, tap up to one target creature.
 
 
-:mtgtip:`Crossway Troublemakers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/431711c5-c04f-4d34-97c9-5199cfbf9da9.jpg?1636416070|https://scryfall.com/card/voc/17/crossway-troublemakers?utm_source=api>`
+:mtgtip:`Crossway Troublemakers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/431711c5-c04f-4d34-97c9-5199cfbf9da9.jpg?1636551067|https://scryfall.com/card/voc/17/crossway-troublemakers?utm_source=api>`
    Attacking Vampires you control have deathtouch and lifelink.
 
    Whenever a Vampire you control dies, you may pay 2 life. If you do, draw a card.
@@ -113,7 +113,7 @@
    |mana_b|{B, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life.
 
 
-:mtgtip:`Kamber, the Plunderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2e932f7-1a72-44e7-89f7-b853eada74f0.jpg?1636417325|https://scryfall.com/card/voc/19/kamber-the-plunderer?utm_source=api>`
+:mtgtip:`Kamber, the Plunderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2e932f7-1a72-44e7-89f7-b853eada74f0.jpg?1636490934|https://scryfall.com/card/voc/19/kamber-the-plunderer?utm_source=api>`
    Partner with Laurine, the Diversion (When this creature enters the battlefield, target player may put Laurine into their hand from their library, then shuffle.)
 
    Lifelink
@@ -125,7 +125,7 @@
    Each non-Vampire creature gets -X/-X until end of turn, where X is the number of Vampires you control.
 
 
-:mtgtip:`Predators' Hour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dea6d749-d2a9-43f0-8ab4-ff83ba294564.jpg?1636418391|https://scryfall.com/card/voc/21/predators-hour?utm_source=api>`
+:mtgtip:`Predators' Hour<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dea6d749-d2a9-43f0-8ab4-ff83ba294564.jpg?1636477439|https://scryfall.com/card/voc/21/predators-hour?utm_source=api>`
    Until end of turn, creatures you control gain menace and "Whenever this creature deals combat damage to a player, exile the top card of that player's library face down. You may look at and play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell."
 
 
@@ -153,7 +153,7 @@
    |mana_2|, Sacrifice an artifact or creature: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
 
 
-:mtgtip:`Markov Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/597bc4ae-335d-4d1d-8a57-530291abc540.jpg?1636417652|https://scryfall.com/card/voc/26/markov-enforcer?utm_source=api>`
+:mtgtip:`Markov Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/597bc4ae-335d-4d1d-8a57-530291abc540.jpg?1636550980|https://scryfall.com/card/voc/26/markov-enforcer?utm_source=api>`
    Whenever Markov Enforcer or another Vampire enters the battlefield under your control, Markov Enforcer fights up to one target creature an opponent controls.
 
    Whenever a creature dealt damage by Markov Enforcer this turn dies, create a Blood token. (It's an artifact with "|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.")
@@ -163,7 +163,7 @@
    When Midnight Arsonist enters the battlefield, destroy up to X target artifacts without mana abilities, where X is the number of Vampires you control.
 
 
-:mtgtip:`Scion of Opulence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc0296ec-0401-49c6-82c3-9d7e8aa5ee25.jpg?1636419015|https://scryfall.com/card/voc/28/scion-of-opulence?utm_source=api>`
+:mtgtip:`Scion of Opulence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc0296ec-0401-49c6-82c3-9d7e8aa5ee25.jpg?1636550994|https://scryfall.com/card/voc/28/scion-of-opulence?utm_source=api>`
    Whenever Scion of Opulence or another nontoken Vampire you control dies, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
    |mana_r|, Sacrifice two artifacts: Exile the top card of your library. You may play that card this turn.
@@ -191,7 +191,7 @@
    Whenever an opponent who controls an artifact named Wedding Ring gains life during their turn, you gain that much life.
 
 
-:mtgtip:`Imperious Mindbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a9e722-d7a3-4a19-afd6-6c617aaf8eda.jpg?1636050100|https://scryfall.com/card/voc/33/imperious-mindbreaker?utm_source=api>`
+:mtgtip:`Imperious Mindbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a9e722-d7a3-4a19-afd6-6c617aaf8eda.jpg?1636551057|https://scryfall.com/card/voc/33/imperious-mindbreaker?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Imperious Mindbreaker is paired with another creature, each of those creatures has "Whenever this creature attacks, each opponent mills cards equal to its toughness."
@@ -217,7 +217,7 @@
    At the beginning of your upkeep, for each creature you control that's a Wolf or a Werewolf, create a 2/2 green Wolf creature token.
 
 
-:mtgtip:`Thundering Mightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a37fbffb-4ed0-4c61-9cef-2cd55ad67f9c.jpg?1636050796|https://scryfall.com/card/voc/37/thundering-mightmare?utm_source=api>`
+:mtgtip:`Thundering Mightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a37fbffb-4ed0-4c61-9cef-2cd55ad67f9c.jpg?1636551042|https://scryfall.com/card/voc/37/thundering-mightmare?utm_source=api>`
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Thundering Mightmare is paired with another creature, each of those creatures has "Whenever an opponent casts a spell, put a +1/+1 counter on this creature."
@@ -341,7 +341,7 @@
    Whenever you cast a Spirit or Arcane spell, create a 3/3 white Spirit creature token with flying.
 
 
-:mtgtip:`Promise of Bunrei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a40e9071-7b27-4070-bc3a-c095c2128953.jpg?1636418486|https://scryfall.com/card/voc/96/promise-of-bunrei?utm_source=api>`
+:mtgtip:`Promise of Bunrei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a40e9071-7b27-4070-bc3a-c095c2128953.jpg?1636455175|https://scryfall.com/card/voc/96/promise-of-bunrei?utm_source=api>`
    When a creature you control dies, sacrifice Promise of Bunrei. If you do, create four 1/1 colorless Spirit creature tokens.
 
 
@@ -433,7 +433,7 @@
    You may cast Spirit spells as though they had flash.
 
 
-:mtgtip:`Reconnaissance Mission<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1636424746|https://scryfall.com/card/voc/111/reconnaissance-mission?utm_source=api>`
+:mtgtip:`Reconnaissance Mission<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1636433154|https://scryfall.com/card/voc/111/reconnaissance-mission?utm_source=api>`
    Whenever a creature you control deals combat damage to a player, you may draw a card.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
@@ -563,7 +563,7 @@
    You draw two cards and you lose 2 life.
 
 
-:mtgtip:`Nirkana Revenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96da0a4c-2865-4383-875a-9f5d6503baee.jpg?1636418913|https://scryfall.com/card/voc/134/nirkana-revenant?utm_source=api>`
+:mtgtip:`Nirkana Revenant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96da0a4c-2865-4383-875a-9f5d6503baee.jpg?1636538198|https://scryfall.com/card/voc/134/nirkana-revenant?utm_source=api>`
    Whenever you tap a Swamp for mana, add an additional |mana_b|.
 
    |mana_b|: Nirkana Revenant gets +1/+1 until end of turn.
@@ -837,7 +837,7 @@
    Prairie Stream enters the battlefield tapped unless you control two or more basic lands.
 
 
-:mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/385e7ce2-0484-4763-949a-10082cd60e46.jpg?1636418505|https://scryfall.com/card/voc/180/rakdos-carnarium?utm_source=api>`
+:mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/385e7ce2-0484-4763-949a-10082cd60e46.jpg?1636538143|https://scryfall.com/card/voc/180/rakdos-carnarium?utm_source=api>`
    Rakdos Carnarium enters the battlefield tapped.
 
    When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.

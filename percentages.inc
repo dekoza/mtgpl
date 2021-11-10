@@ -18,7 +18,8 @@
 
 .. |CM1_percent| image:: images/pie85.png        
 
-.. |MID_percent| image:: images/pie95.png        
+.. |MID_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |USG_percent| image:: images/pie50.png        
 
