@@ -1143,11 +1143,11 @@
    Whenever day becomes night or night becomes day, you may pay |mana_1|\ |mana_r|. If you do, return Sunstreak Phoenix from your graveyard to the battlefield tapped.
 
 
-:mtgtip:`Tavern Ruffian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636223686|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
+:mtgtip:`Tavern Ruffian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636682934|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Tavern Smasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636223686|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
+:mtgtip:`Tavern Smasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636682934|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
@@ -1487,7 +1487,7 @@
    Flashback |mana_3|\ |mana_u|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Arlinn, the Pack's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1630658672|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
+:mtgtip:`Arlinn, the Pack's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1636683747|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
    +1: Until your next turn, you may cast creature spells as though they had flash, and each creature you control enters the battlefield with an additional +1/+1 counter on it.
@@ -1495,7 +1495,7 @@
    −3: Create two 2/2 green Wolf creature tokens.
 
 
-:mtgtip:`Arlinn, the Moon's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1630658672|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
+:mtgtip:`Arlinn, the Moon's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1636683747|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
    +2: Add |mana_r|\ |mana_g|.
@@ -1503,17 +1503,17 @@
    0: Until end of turn, Arlinn, the Moon's Fury becomes a 5/5 Werewolf creature with trample, indestructible, and haste.
 
 
-:mtgtip:`Bladestitched Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.jpg?1631300939|https://scryfall.com/card/mid/212/bladestitched-skaab?utm_source=api>`
+:mtgtip:`Bladestitched Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.jpg?1636683786|https://scryfall.com/card/mid/212/bladestitched-skaab?utm_source=api>`
    Other Zombies you control get +1/+0.
 
 
-:mtgtip:`Can't Stay Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.jpg?1631054340|https://scryfall.com/card/mid/213/cant-stay-away?utm_source=api>`
+:mtgtip:`Can't Stay Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.jpg?1636683827|https://scryfall.com/card/mid/213/cant-stay-away?utm_source=api>`
    Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains "If this creature would die, exile it instead."
 
    Flashback |mana_3|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Corpse Cobble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1631300960|https://scryfall.com/card/mid/214/corpse-cobble?utm_source=api>`
+:mtgtip:`Corpse Cobble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1636683863|https://scryfall.com/card/mid/214/corpse-cobble?utm_source=api>`
    As an additional cost to cast this spell, sacrifice any number of creatures.
 
    Create an X/X blue and black Zombie creature token with menace, where X is the total power of the sacrificed creatures.
@@ -1521,19 +1521,19 @@
    Flashback |mana_3|\ |mana_u|\ |mana_b| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
-:mtgtip:`Croaking Counterpart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1630753062|https://scryfall.com/card/mid/215/croaking-counterpart?utm_source=api>`
+:mtgtip:`Croaking Counterpart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1636683905|https://scryfall.com/card/mid/215/croaking-counterpart?utm_source=api>`
    Create a token that's a copy of target non-Frog creature, except it's a 1/1 green Frog.
 
    Flashback |mana_3|\ |mana_g|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Dawnhart Wardens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.jpg?1631300981|https://scryfall.com/card/mid/216/dawnhart-wardens?utm_source=api>`
+:mtgtip:`Dawnhart Wardens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.jpg?1636683941|https://scryfall.com/card/mid/216/dawnhart-wardens?utm_source=api>`
    Vigilance
 
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, creatures you control get +1/+0 until end of turn.
 
 
-:mtgtip:`Dennick, Pious Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636244787|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
+:mtgtip:`Dennick, Pious Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
    Lifelink
 
    Cards in graveyards can't be the targets of spells or abilities.
@@ -1541,7 +1541,7 @@
    Disturb |mana_2|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Dennick, Pious Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636244787|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
+:mtgtip:`Dennick, Pious Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
    Flying
 
    Whenever one or more creature cards are put into graveyards from anywhere, investigate. This ability triggers only once each turn. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -1549,7 +1549,7 @@
    If Dennick, Pious Apparition would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Devoted Grafkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1630828263|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
+:mtgtip:`Devoted Grafkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1636684052|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
    When Devoted Grafkeeper enters the battlefield, mill two cards.
 
    Whenever you cast a spell from your graveyard, tap target creature you don't control.
@@ -1557,7 +1557,7 @@
    Disturb |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Departed Soulkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1630828263|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
+:mtgtip:`Departed Soulkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1636684052|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
    Flying
 
    Departed Soulkeeper can block only creatures with flying.
@@ -1565,13 +1565,13 @@
    If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Dire-Strain Rampage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f4a7c01-95ca-43bf-bc53-875cfb4bffa1.jpg?1631058162|https://scryfall.com/card/mid/219/dire-strain-rampage?utm_source=api>`
+:mtgtip:`Dire-Strain Rampage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f4a7c01-95ca-43bf-bc53-875cfb4bffa1.jpg?1636684088|https://scryfall.com/card/mid/219/dire-strain-rampage?utm_source=api>`
    Destroy target artifact, enchantment, or land. If a land was destroyed this way, its controller may search their library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Otherwise, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Flashback |mana_3|\ |mana_r|\ |mana_g|
 
 
-:mtgtip:`Diregraf Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b51ed1ea-661e-49c6-9751-1eb7bb651bb1.jpg?1630778365|https://scryfall.com/card/mid/220/diregraf-rebirth?utm_source=api>`
+:mtgtip:`Diregraf Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b51ed1ea-661e-49c6-9751-1eb7bb651bb1.jpg?1636684125|https://scryfall.com/card/mid/220/diregraf-rebirth?utm_source=api>`
    This spell costs |mana_1| less to cast for each creature that died this turn.
 
    Return target creature card from your graveyard to the battlefield.
@@ -1579,61 +1579,61 @@
    Flashback |mana_5|\ |mana_b|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Faithful Mending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50752ca9-ea85-4c4b-9bf5-4f8759a7dcec.jpg?1631301003|https://scryfall.com/card/mid/221/faithful-mending?utm_source=api>`
+:mtgtip:`Faithful Mending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50752ca9-ea85-4c4b-9bf5-4f8759a7dcec.jpg?1636684159|https://scryfall.com/card/mid/221/faithful-mending?utm_source=api>`
    You gain 2 life, draw two cards, then discard two cards.
 
    Flashback |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Fleshtaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1631301024|https://scryfall.com/card/mid/222/fleshtaker?utm_source=api>`
+:mtgtip:`Fleshtaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1636684197|https://scryfall.com/card/mid/222/fleshtaker?utm_source=api>`
    Whenever you sacrifice another creature, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    |mana_1|, Sacrifice another creature: Fleshtaker gets +2/+2 until end of turn.
 
 
-:mtgtip:`Florian, Voldaren Scion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.jpg?1631169245|https://scryfall.com/card/mid/223/florian-voldaren-scion?utm_source=api>`
+:mtgtip:`Florian, Voldaren Scion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.jpg?1636684231|https://scryfall.com/card/mid/223/florian-voldaren-scion?utm_source=api>`
    First strike
 
    At the beginning of your postcombat main phase, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.
 
 
-:mtgtip:`Galvanic Iteration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.jpg?1631301047|https://scryfall.com/card/mid/224/galvanic-iteration?utm_source=api>`
+:mtgtip:`Galvanic Iteration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.jpg?1636684270|https://scryfall.com/card/mid/224/galvanic-iteration?utm_source=api>`
    When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
 
    Flashback |mana_1|\ |mana_u|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Ghoulcaller's Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.jpg?1630856551|https://scryfall.com/card/mid/225/ghoulcallers-harvest?utm_source=api>`
+:mtgtip:`Ghoulcaller's Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.jpg?1636684311|https://scryfall.com/card/mid/225/ghoulcallers-harvest?utm_source=api>`
    Create X 2/2 black Zombie creature tokens with decayed, where X is half the number of creature cards in your graveyard, rounded up. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
    Flashback |mana_3|\ |mana_b|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Grizzly Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eec421f1-4ee8-4816-ab5c-372e87aae231.jpg?1631230272|https://scryfall.com/card/mid/226/grizzly-ghoul?utm_source=api>`
+:mtgtip:`Grizzly Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eec421f1-4ee8-4816-ab5c-372e87aae231.jpg?1636684344|https://scryfall.com/card/mid/226/grizzly-ghoul?utm_source=api>`
    Trample
 
    Grizzly Ghoul enters the battlefield with a +1/+1 counter on it for each creature that died this turn.
 
 
-:mtgtip:`Hallowed Respite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2877523-6321-47e6-8be4-755ec21676c6.jpg?1631227529|https://scryfall.com/card/mid/227/hallowed-respite?utm_source=api>`
+:mtgtip:`Hallowed Respite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2877523-6321-47e6-8be4-755ec21676c6.jpg?1636684393|https://scryfall.com/card/mid/227/hallowed-respite?utm_source=api>`
    Exile target nonlegendary creature, then return it to the battlefield under its owner's control. If it entered under your control, put a +1/+1 counter on it. Otherwise, tap it.
 
    Flashback |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Hungry for More<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce09c0df-d022-4ebf-8f7f-8a913249e75f.jpg?1631039942|https://scryfall.com/card/mid/228/hungry-for-more?utm_source=api>`
+:mtgtip:`Hungry for More<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce09c0df-d022-4ebf-8f7f-8a913249e75f.jpg?1636684429|https://scryfall.com/card/mid/228/hungry-for-more?utm_source=api>`
    Create a 3/1 black and red Vampire creature token with trample, lifelink, and haste. Sacrifice it at the beginning of the next end step.
 
    Flashback |mana_1|\ |mana_b|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Join the Dance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1628195546|https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`
+:mtgtip:`Join the Dance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1636684458|https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`
    Create two 1/1 white Human creature tokens.
 
    Flashback |mana_3|\ |mana_g|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Katilda, Dawnhart Prime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1631301068|https://scryfall.com/card/mid/230/katilda-dawnhart-prime?utm_source=api>`
+:mtgtip:`Katilda, Dawnhart Prime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1636684486|https://scryfall.com/card/mid/230/katilda-dawnhart-prime?utm_source=api>`
    Protection from Werewolves
 
    Human creatures you control have "|tap|: Add one mana of any of this creature's colors."

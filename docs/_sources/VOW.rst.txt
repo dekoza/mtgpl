@@ -1023,11 +1023,11 @@
    Exile Alchemist's Gambit.
 
 
-:mtgtip:`Alluring Suitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/397ffd01-c090-4233-9f5a-5f765886d498.jpg?1635890914|https://scryfall.com/card/vow/141/alluring-suitor-deadly-dancer?utm_source=api>`
+:mtgtip:`Alluring Suitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/397ffd01-c090-4233-9f5a-5f765886d498.jpg?1636584765|https://scryfall.com/card/vow/141/alluring-suitor-deadly-dancer?utm_source=api>`
    When you attack with exactly two creatures, transform Alluring Suitor.
 
 
-:mtgtip:`Deadly Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/9/397ffd01-c090-4233-9f5a-5f765886d498.jpg?1635890914|https://scryfall.com/card/vow/141/alluring-suitor-deadly-dancer?utm_source=api>`
+:mtgtip:`Deadly Dancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/9/397ffd01-c090-4233-9f5a-5f765886d498.jpg?1636584765|https://scryfall.com/card/vow/141/alluring-suitor-deadly-dancer?utm_source=api>`
    Trample
 
    When this creature transforms into Deadly Dancer, add |mana_r|\ |mana_r|. Until end of turn, you don't lose this mana as steps and phases end.
