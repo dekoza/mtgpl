@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-10 22:44+0100\n"
-"PO-Revision-Date: 2021-11-09 21:41+0000\n"
+"PO-Revision-Date: 2021-11-12 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -591,12 +591,16 @@ msgid ""
 "|mana_w|, Exile three cards from your graveyard: Fleeting Spirit gains first "
 "strike until end of turn."
 msgstr ""
+"|mana_w|, wygnaj trzy karty z twojego cmentarza: Do końca tury ten stwór "
+"zyskuje pierwszy cios."
 
 #: ../../VOW.rst:107
 msgid ""
 "Discard a card: Exile Fleeting Spirit. Return it to the battlefield under "
 "its owner's control at the beginning of the next end step."
 msgstr ""
+"Odrzuć kartę: Wygnaj tego stwora. Przywróć go na pole bitwy pod władaniem "
+"właściciela na początku najbliższego kroku końcowego."
 
 #: ../../VOW.rst:114
 msgid ""
@@ -627,6 +631,9 @@ msgid ""
 "Whenever Gryffwing Cavalry attacks, you may pay |mana_1|\\ |mana_w|. If you "
 "do, target attacking creature without flying gains flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli tak "
+"zrobisz, wskazany atakujący stwór nie mający latanie zyskuje do końca tury "
+"latanie."
 
 #: ../../VOW.rst:128
 msgid ""
@@ -666,7 +673,7 @@ msgstr "Jeśli masz zyskać życia, zamiast tego zyskaj tyle samo żyć plus 1."
 
 #: ../../VOW.rst:135
 msgid "|mana_1|\\ |mana_w|: Heron of Hope gains lifelink until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Do końca tury ten stwór zyskuje więź życia."
 
 #: ../../VOW.rst:142
 msgid ""
@@ -681,6 +688,9 @@ msgid ""
 "two 1/1 white Spirit creature tokens with flying. Activate only if you "
 "control an enchantment and only as a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz dwa żetony "
+"białego stwora Duch 1/1 z lataniem. Możesz aktywować tylko jeśli władasz "
+"urokiem i tylko jako obrzęd."
 
 #: ../../VOW.rst:148
 msgid ""
@@ -694,6 +704,8 @@ msgid ""
 "|mana_2|\\ |mana_w|, Remove two +1/+1 counters from among creatures you "
 "control: Destroy target artifact or enchantment."
 msgstr ""
+"|mana_2|\\ |mana_w|, usuń dwa znaczniki +1/+1 spomiędzy stworów pod twoim "
+"władaniem: Zniszcz wskazany artefakt lub urok."
 
 #: ../../VOW.rst:156
 msgid ""
@@ -705,24 +717,22 @@ msgstr ""
 
 #: ../../VOW.rst:151
 msgid "Flying, lifelink, protection from Vampires"
-msgstr ""
+msgstr "Latanie, więź życia, ochrona przed Wampirami"
 
 #: ../../VOW.rst:153
 msgid ""
 "Katilda, Dawnhart Martyr's power and toughness are each equal to the number "
 "of permanents you control that are Spirits and/or enchantments."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie permanentów pod twoim "
+"władaniem będących Duchem i/lub urokiem."
 
 #: ../../VOW.rst:155
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_1|\\ |mana_w|\\ |mana_u| (You may cast this card from your "
-#| "graveyard transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_3|\\ |mana_w|\\ |mana_w| (You may cast this card from your "
 "graveyard transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_1|\\ |mana_w|\\ |mana_u| (Możesz rzucić tę kartę "
+"Niepokojenie |mana_3|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę "
 "transformowaną z twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:164
@@ -739,12 +749,11 @@ msgid ""
 "it gets +X/+X, where X is the number of permanents you control that are "
 "Spirits and/or enchantments."
 msgstr ""
+"Zauroczony stwór ma latanie, więź życia i ochronę przed Wampirami oraz "
+"dostaje +X/+X, gdzie X jest liczbą permanentów pod twoim władaniem będących "
+"Duchem i/lub urokiem."
 
 #: ../../VOW.rst:163
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Katilda's Rising Dawn would be put into a graveyard from anywhere, exile "
 "it instead."
@@ -785,10 +794,6 @@ msgid "Enchanted creature has lifelink."
 msgstr "Zauroczony stwór ma więź życia."
 
 #: ../../VOW.rst:177
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Ancestor's Embrace would be put into a graveyard from anywhere, exile it "
 "instead."
