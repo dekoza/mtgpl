@@ -126,9 +126,13 @@ msgctxt "AbilityHanger/AbilityWord/LifeGainedThisTurnOpponent"
 msgid "Your opponent has gained {lifeGained} life this turn."
 msgstr ""
 
-msgctxt "AbilityHanger/AbilityWord/Magecraft"
+msgctxt "AbilityHanger/AbilityWord/Magecraft_Body"
 msgid ""
 "This ability triggers when you cast or copy an instant or sorcery spell."
+msgstr ""
+
+msgctxt "AbilityHanger/AbilityWord/Magecraft_Title"
+msgid "Magecraft"
 msgstr ""
 
 msgctxt "AbilityHanger/AbilityWord/OtherInstantSourcerySpellsCast"
@@ -481,6 +485,12 @@ msgctxt "AbilityHanger/Keyword/ClassLevel_3"
 msgid "Level 3"
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Cleave_Body"
+msgid ""
+"You may cast this spell for its cleave cost. If you do, remove the words in "
+"square brackets."
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Convoke"
 msgid ""
 "Your creatures can help you cast this spell. Each creature you tap while "
@@ -739,6 +749,11 @@ msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Exert"
 msgid "An exerted creature won't untap during your next untap step."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Exploit_Body"
+msgid ""
+"When this creature enters the battlefield, you may sacrifice a creature."
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Explore"
@@ -1236,6 +1251,11 @@ msgctxt "AbilityHanger/Keyword/ProtectionFromRed_Title"
 msgid "Protection from Red"
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/ProtectionFromVampires_Body"
+msgid ""
+"This permanent can't be blocked, targeted, or dealt damage by Vampires."
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/ProtectionFromWerewolf_Body"
 msgid ""
 "This permanent can't be blocked, targeted, or dealt damage by Werewolves."
@@ -1455,6 +1475,12 @@ msgstr ""
 msgctxt "AbilityHanger/Keyword/Swampwalk"
 msgid ""
 "This creature can't be blocked as long as defending player controls a Swamp."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Training_Body"
+msgid ""
+"Whenever this creature attacks with another creature with greater power, put"
+" a +1/+1 counter on this creature."
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Trample"
@@ -1994,7 +2020,7 @@ msgid "Amount: {durability}"
 msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/ExileOnDeath_Text"
-msgid "If this creature would die this turn, exile it instead."
+msgid "If this permanent would die this turn, exile it instead."
 msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/ReplacementEffect/PreventDamageHeader"
