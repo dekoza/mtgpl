@@ -14,6 +14,13 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.5.1\n"
 
+msgctxt "DuelScene/Selection_ExploitMissingSource"
+msgid ""
+"Do you want to sacrifice {selectedCardName}? {sourceCardName} has left the "
+"battlefield, any abilities that trigger when it exploits a creature won't "
+"trigger."
+msgstr ""
+
 #, fuzzy
 #| msgctxt "DuelScene/SelectTargets_LocalPlayer"
 #| msgid "Do you want to target yourself with {source}?"
@@ -82,6 +89,13 @@ msgstr "Rzuć z"
 msgctxt "DuelScene/Browsers/BrowserCardInfo_PlayWith"
 msgid "Play With"
 msgstr "Zagraj z"
+
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/OrderRequest_Generic_SubHeader"
+#| msgid "Drag cards to order them."
+msgctxt "DuelScene/Browsers/BrowserSubheader_DragToGraveyard"
+msgid "Drag a card into your graveyard."
+msgstr "Przeciągaj karty by je uszeregować."
 
 msgctxt "DuelScene/Browsers/Card_Text"
 msgid "{numCards} Card"
@@ -202,6 +216,12 @@ msgid ""
 msgstr ""
 "Początek potyczki, deklaracja atakujących, deklaracja blokujących, obrażenia "
 "bojowe, koniec potyczki"
+
+msgctxt "DuelScene/Browsers/Confirmation_SubHeader_PatchworkCrawler"
+msgid ""
+"{CardName} will not gain the activated abilities of creature cards exiled by "
+"this ability."
+msgstr ""
 
 msgctxt "DuelScene/Browsers/DungeonRoomSelect_BrowserHeader"
 msgid "Venture"
@@ -663,6 +683,17 @@ msgctxt "DuelScene/ClientPrompt/Cast_Normally_Text"
 msgid "Cast Normally"
 msgstr "Rzuć normalnie"
 
+msgctxt "DuelScene/ClientPrompt/Cast_With_Selection"
+msgid "({CastWith}) Select 1."
+msgstr ""
+
+#, fuzzy
+#| msgctxt "DuelScene/ClientPrompt/Confirm_Quantity_Button_Text"
+#| msgid "Confirm {quantity}"
+msgctxt "DuelScene/ClientPrompt/ChooseX_Choose"
+msgid "Choose {quantity}"
+msgstr "Potwierdź {quantity}"
+
 msgctxt "DuelScene/ClientPrompt/ChooseX_Default"
 msgid "X = {quantity}"
 msgstr "X = {quantity}"
@@ -911,6 +942,13 @@ msgctxt "DuelScene/ClientPrompt/OptionalAction_Reveal"
 msgid "Reveal"
 msgstr "Ujawnij"
 
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/Transform"
+#| msgid " Transform?"
+msgctxt "DuelScene/ClientPrompt/OptionalAction_Transform"
+msgid "Transform"
+msgstr " Transformować?"
+
 msgctxt "DuelScene/ClientPrompt/Over_Max_HandSize_Discard_Multiple_Text"
 msgid ""
 "Your maximum hand size is ({maxHandSize}). You will need to discard {number} "
@@ -950,6 +988,10 @@ msgstr "Zapłać 3 życia"
 msgctxt "DuelScene/ClientPrompt/PayAdamant"
 msgid "Pay Adamant"
 msgstr "Zapłać nieugiętość"
+
+msgctxt "DuelScene/ClientPrompt/Prompt_Transform"
+msgid "Transform {CardName} into {BackFaceName}?"
+msgstr ""
 
 msgctxt "DuelScene/ClientPrompt/Remaining_Selection_Prompt"
 msgid " ({count} remaining)"

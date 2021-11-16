@@ -2996,10 +2996,6 @@ msgctxt "MainNav/Settings/Graphics/FullScreen_Label"
 msgid "Full Screen"
 msgstr "Pełny ekran"
 
-msgctxt "MainNav/Settings/Graphics/FullScreenDisabled"
-msgid "Disabled on non-16:9 resolutions."
-msgstr "Wyłączone na rozdzielczościach o innych proporcjach niż 16:9."
-
 msgctxt "MainNav/Settings/Graphics/Graphics_Title"
 msgid "Graphics"
 msgstr "Wyświetlanie"
@@ -4459,6 +4455,10 @@ msgid ""
 "information. 60 minutes prior to downtime, players will not be able to start "
 "new matches or log in."
 msgstr ""
+
+#~ msgctxt "MainNav/Settings/Graphics/FullScreenDisabled"
+#~ msgid "Disabled on non-16:9 resolutions."
+#~ msgstr "Wyłączone na rozdzielczościach o innych proporcjach niż 16:9."
 
 #~ msgctxt "MainNav/Login/Minimum_Age_Feedback"
 #~ msgid ""
