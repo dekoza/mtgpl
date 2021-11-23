@@ -1641,13 +1641,13 @@
    |mana_4|\ |mana_g|\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Kessig Naturalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1631331050|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
+:mtgtip:`Kessig Naturalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1636684556|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
    Whenever Kessig Naturalist attacks, add |mana_r| or |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Lord of the Ulvenwald<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1631331050|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
+:mtgtip:`Lord of the Ulvenwald<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1636684556|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
    Other Wolves and Werewolves you control get +1/+1.
 
    Whenever Lord of the Ulvenwald attacks, add |mana_r| or |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
@@ -1655,7 +1655,7 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Liesa, Forgotten Archangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.jpg?1630860360|https://scryfall.com/card/mid/232/liesa-forgotten-archangel?utm_source=api>`
+:mtgtip:`Liesa, Forgotten Archangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.jpg?1636684609|https://scryfall.com/card/mid/232/liesa-forgotten-archangel?utm_source=api>`
    Flying, lifelink
 
    Whenever another nontoken creature you control dies, return that card to its owner's hand at the beginning of the next end step.
@@ -1663,23 +1663,23 @@
    If a creature an opponent controls would die, exile it instead.
 
 
-:mtgtip:`Ludevic, Necrogenius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636244817|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
+:mtgtip:`Ludevic, Necrogenius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
    Whenever Ludevic, Necrogenius enters the battlefield or attacks, mill a card.
 
    |mana_x|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|, Exile X creature cards from your graveyard: Transform Ludevic. X can't be 0. Activate only as a sorcery.
 
 
-:mtgtip:`Olag, Ludevic's Hubris<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636244817|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
+:mtgtip:`Olag, Ludevic's Hubris<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
    As this creature transforms into Olag, Ludevic's Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic's Hubris, it's 4/4, and it's a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it.
 
 
-:mtgtip:`Old Stickfingers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.jpg?1631501130|https://scryfall.com/card/mid/234/old-stickfingers?utm_source=api>`
+:mtgtip:`Old Stickfingers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.jpg?1636684695|https://scryfall.com/card/mid/234/old-stickfingers?utm_source=api>`
    When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard, then put the rest on the bottom of your library in a random order.
 
    Old Stickfingers's power and toughness are each equal to the number of creature cards in your graveyard.
 
 
-:mtgtip:`Rem Karolus, Stalwart Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b31e307a-9689-4e11-8c5f-96b7a4b50bed.jpg?1631226307|https://scryfall.com/card/mid/235/rem-karolus-stalwart-slayer?utm_source=api>`
+:mtgtip:`Rem Karolus, Stalwart Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b31e307a-9689-4e11-8c5f-96b7a4b50bed.jpg?1636684729|https://scryfall.com/card/mid/235/rem-karolus-stalwart-slayer?utm_source=api>`
    Flying, haste
 
    If a spell would deal damage to you or another permanent you control, prevent that damage.
@@ -1687,13 +1687,13 @@
    If a spell would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
 
 
-:mtgtip:`Rite of Harmony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.jpg?1631054389|https://scryfall.com/card/mid/236/rite-of-harmony?utm_source=api>`
+:mtgtip:`Rite of Harmony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.jpg?1636684763|https://scryfall.com/card/mid/236/rite-of-harmony?utm_source=api>`
    Whenever a creature or enchantment enters the battlefield under your control this turn, draw a card.
 
    Flashback |mana_2|\ |mana_g|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Rite of Oblivion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe1f8d52-565e-4900-8357-fd29f2022dc1.jpg?1632661395|https://scryfall.com/card/mid/237/rite-of-oblivion?utm_source=api>`
+:mtgtip:`Rite of Oblivion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe1f8d52-565e-4900-8357-fd29f2022dc1.jpg?1636684799|https://scryfall.com/card/mid/237/rite-of-oblivion?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a nonland permanent.
 
    Exile target nonland permanent.
@@ -1701,7 +1701,7 @@
    Flashback |mana_2|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
-:mtgtip:`Rootcoil Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1631715296|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
+:mtgtip:`Rootcoil Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1636684840|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
    |tap|: Add one mana of any color.
 
    |tap|: Add two mana of any one color. Spend this mana only to cast spells from your graveyard.
@@ -1709,13 +1709,13 @@
    |mana_g|\ |mana_u|, |tap|, Exile Rootcoil Creeper: Return target card with flashback you own from exile to your hand.
 
 
-:mtgtip:`Sacred Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.jpg?1631301151|https://scryfall.com/card/mid/239/sacred-fire?utm_source=api>`
+:mtgtip:`Sacred Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.jpg?1636684880|https://scryfall.com/card/mid/239/sacred-fire?utm_source=api>`
    Sacred Fire deals 2 damage to any target and you gain 2 life.
 
    Flashback |mana_4|\ |mana_r|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Sigarda, Champion of Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c6cf357-c231-4512-aa9a-ab4a60007136.jpg?1630979037|https://scryfall.com/card/mid/240/sigarda-champion-of-light?utm_source=api>`
+:mtgtip:`Sigarda, Champion of Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c6cf357-c231-4512-aa9a-ab4a60007136.jpg?1636684917|https://scryfall.com/card/mid/240/sigarda-champion-of-light?utm_source=api>`
    Flying, trample
 
    Humans you control get +1/+1.
@@ -1723,13 +1723,13 @@
    Coven — Whenever Sigarda attacks, if you control three or more creatures with different powers, look at the top five cards of your library. You may reveal a Human creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Siphon Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d329e2d4-e483-4981-8a0b-6a9a717d50cd.jpg?1631134122|https://scryfall.com/card/mid/241/siphon-insight?utm_source=api>`
+:mtgtip:`Siphon Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d329e2d4-e483-4981-8a0b-6a9a717d50cd.jpg?1636684959|https://scryfall.com/card/mid/241/siphon-insight?utm_source=api>`
    Look at the top two cards of target opponent's library. Exile one of them face down and put the other on the bottom of that library. You may look at and play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
 
    Flashback |mana_1|\ |mana_u|\ |mana_b|
 
 
-:mtgtip:`Slogurk, the Overslime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3.jpg?1631136009|https://scryfall.com/card/mid/242/slogurk-the-overslime?utm_source=api>`
+:mtgtip:`Slogurk, the Overslime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3.jpg?1637114233|https://scryfall.com/card/mid/242/slogurk-the-overslime?utm_source=api>`
    Trample
 
    Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Slogurk, the Overslime.
@@ -1739,7 +1739,7 @@
    When Slogurk leaves the battlefield, return up to three target land cards from your graveyard to your hand.
 
 
-:mtgtip:`Storm Skreelix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.jpg?1631302439|https://scryfall.com/card/mid/243/storm-skreelix?utm_source=api>`
+:mtgtip:`Storm Skreelix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.jpg?1637114260|https://scryfall.com/card/mid/243/storm-skreelix?utm_source=api>`
    Flying
 
    Instant and sorcery spells you cast cost |mana_1| less to cast.
@@ -1747,7 +1747,7 @@
    Whenever you cast an instant or sorcery spell, Storm Skreelix gets +2/+0 until end of turn.
 
 
-:mtgtip:`Sunrise Cavalier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d0081b1-40fd-44ad-b154-efe2f27fed6b.jpg?1631301173|https://scryfall.com/card/mid/244/sunrise-cavalier?utm_source=api>`
+:mtgtip:`Sunrise Cavalier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d0081b1-40fd-44ad-b154-efe2f27fed6b.jpg?1637114286|https://scryfall.com/card/mid/244/sunrise-cavalier?utm_source=api>`
    Trample, haste
 
    If it's neither day nor night, it becomes day as Sunrise Cavalier enters the battlefield.
@@ -1755,7 +1755,7 @@
    Whenever day becomes night or night becomes day, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Teferi, Who Slows the Sunset<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad2e18d4-986c-4a44-8f26-1b8689339cfb.jpg?1631134302|https://scryfall.com/card/mid/245/teferi-who-slows-the-sunset?utm_source=api>`
+:mtgtip:`Teferi, Who Slows the Sunset<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad2e18d4-986c-4a44-8f26-1b8689339cfb.jpg?1637114314|https://scryfall.com/card/mid/245/teferi-who-slows-the-sunset?utm_source=api>`
    +1: Choose up to one target artifact, up to one target creature, and up to one target land. Untap the chosen permanents you control. Tap the chosen permanents you don't control. You gain 2 life.
 
    −2: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
@@ -1763,7 +1763,7 @@
    −7: You get an emblem with "Untap all permanents you control during each opponent's untap step" and "You draw a card during each opponent's draw step."
 
 
-:mtgtip:`Tovolar, Dire Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1636244847|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
+:mtgtip:`Tovolar, Dire Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1637114341|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
    Whenever a Wolf or Werewolf you control deals combat damage to a player, draw a card.
 
    At the beginning of your upkeep, if you control three or more Wolves and/or Werewolves, it becomes night. Then transform any number of Human Werewolves you control.
@@ -1771,7 +1771,7 @@
    Daybound
 
 
-:mtgtip:`Tovolar, the Midnight Scourge<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1636244847|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
+:mtgtip:`Tovolar, the Midnight Scourge<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1637114341|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
    Whenever a Wolf or Werewolf you control deals combat damage to a player, draw a card.
 
    |mana_x|\ |mana_r|\ |mana_g|: Target Wolf or Werewolf you control gets +X/+0 and gains trample until end of turn.
@@ -1779,13 +1779,13 @@
    Nightbound
 
 
-:mtgtip:`Unnatural Moonrise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfdd9df1-6a3b-4f03-8eca-00ed22c02566.jpg?1632668718|https://scryfall.com/card/mid/247/unnatural-moonrise?utm_source=api>`
+:mtgtip:`Unnatural Moonrise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfdd9df1-6a3b-4f03-8eca-00ed22c02566.jpg?1637114368|https://scryfall.com/card/mid/247/unnatural-moonrise?utm_source=api>`
    It becomes night. Until end of turn, target creature gets +1/+0 and gains trample and "Whenever this creature deals combat damage to a player, draw a card."
 
    Flashback |mana_2|\ |mana_r|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Vadrik, Astral Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1632156188|https://scryfall.com/card/mid/248/vadrik-astral-archmage?utm_source=api>`
+:mtgtip:`Vadrik, Astral Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1637114399|https://scryfall.com/card/mid/248/vadrik-astral-archmage?utm_source=api>`
    If it's neither day nor night, it becomes day as Vadrik, Astral Archmage enters the battlefield.
 
    Instant and sorcery spells you cast cost |mana_x| less to cast, where X is Vadrik's power.
@@ -1793,7 +1793,7 @@
    Whenever day becomes night or night becomes day, put a +1/+1 counter on Vadrik.
 
 
-:mtgtip:`Vampire Socialite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f07cbf04-2864-4407-800e-4d55c10d3426.jpg?1630695644|https://scryfall.com/card/mid/249/vampire-socialite?utm_source=api>`
+:mtgtip:`Vampire Socialite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f07cbf04-2864-4407-800e-4d55c10d3426.jpg?1637114433|https://scryfall.com/card/mid/249/vampire-socialite?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    When Vampire Socialite enters the battlefield, if an opponent lost life this turn, put a +1/+1 counter on each other Vampire you control.
@@ -1801,19 +1801,19 @@
    As long as an opponent lost life this turn, each other Vampire you control enters the battlefield with an additional +1/+1 counter on it.
 
 
-:mtgtip:`Wake to Slaughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f02a544-716c-4f09-8ae9-dbfe7ef136d7.jpg?1631057305|https://scryfall.com/card/mid/250/wake-to-slaughter?utm_source=api>`
+:mtgtip:`Wake to Slaughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f02a544-716c-4f09-8ae9-dbfe7ef136d7.jpg?1637114457|https://scryfall.com/card/mid/250/wake-to-slaughter?utm_source=api>`
    Choose up to two target creature cards in your graveyard. An opponent chooses one of them. Return that card to your hand. Return the other to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step.
 
    Flashback |mana_4|\ |mana_b|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Winterthorn Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e9edd3-151d-4bf6-b491-03db9db32234.jpg?1631228184|https://scryfall.com/card/mid/251/winterthorn-blessing?utm_source=api>`
+:mtgtip:`Winterthorn Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e9edd3-151d-4bf6-b491-03db9db32234.jpg?1637114483|https://scryfall.com/card/mid/251/winterthorn-blessing?utm_source=api>`
    Put a +1/+1 counter on up to one target creature you control. Tap up to one target creature you don't control, and that creature doesn't untap during its controller's next untap step.
 
    Flashback |mana_1|\ |mana_g|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`The Celestus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39226a07-d44e-41a6-b9f1-685ef505d015.jpg?1630692453|https://scryfall.com/card/mid/252/the-celestus?utm_source=api>`
+:mtgtip:`The Celestus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39226a07-d44e-41a6-b9f1-685ef505d015.jpg?1637114509|https://scryfall.com/card/mid/252/the-celestus?utm_source=api>`
    If it's neither day nor night, it becomes day as The Celestus enters the battlefield.
 
    |tap|: Add one mana of any color.
@@ -1823,114 +1823,114 @@
    Whenever day becomes night or night becomes day, you gain 1 life. You may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Crossroads Candleguide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cad1524-9e75-47e0-b817-47110634802a.jpg?1631304870|https://scryfall.com/card/mid/253/crossroads-candleguide?utm_source=api>`
+:mtgtip:`Crossroads Candleguide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cad1524-9e75-47e0-b817-47110634802a.jpg?1637114536|https://scryfall.com/card/mid/253/crossroads-candleguide?utm_source=api>`
    When Crossroads Candleguide enters the battlefield, exile up to one target card from a graveyard.
 
    |mana_2|: Add one mana of any color.
 
 
-:mtgtip:`Jack-o'-Lantern<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.jpg?1631134107|https://scryfall.com/card/mid/254/jack-o-lantern?utm_source=api>`
+:mtgtip:`Jack-o'-Lantern<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.jpg?1637114561|https://scryfall.com/card/mid/254/jack-o-lantern?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Jack-o'-Lantern: Exile up to one target card from a graveyard. Draw a card.
 
    |mana_1|, Exile Jack-o'-Lantern from your graveyard: Add one mana of any color.
 
 
-:mtgtip:`Moonsilver Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1631856056|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
+:mtgtip:`Moonsilver Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1637114586|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Moonsilver Key: Search your library for an artifact card with a mana ability or a basic land card, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Mystic Skull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1631055774|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
+:mtgtip:`Mystic Skull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1637114632|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
    |mana_1|, |tap|: Add one mana of any color.
 
    |mana_5|, |tap|: Transform Mystic Skull.
 
 
-:mtgtip:`Mystic Monstrosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1631055774|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
+:mtgtip:`Mystic Monstrosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1637114632|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
    Lands you control have "|tap|: Add one mana of any color."
 
 
-:mtgtip:`Pithing Needle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/556ec6ab-a19f-4caa-8bfa-145555402caf.jpg?1630692697|https://scryfall.com/card/mid/257/pithing-needle?utm_source=api>`
+:mtgtip:`Pithing Needle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/556ec6ab-a19f-4caa-8bfa-145555402caf.jpg?1637114660|https://scryfall.com/card/mid/257/pithing-needle?utm_source=api>`
    As Pithing Needle enters the battlefield, choose a card name.
 
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
 
 
-:mtgtip:`Silver Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb2c05a8-db56-4397-9b6c-5accb2d3f81f.jpg?1631301323|https://scryfall.com/card/mid/258/silver-bolt?utm_source=api>`
+:mtgtip:`Silver Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb2c05a8-db56-4397-9b6c-5accb2d3f81f.jpg?1637114684|https://scryfall.com/card/mid/258/silver-bolt?utm_source=api>`
    |mana_3|, |tap|, Sacrifice Silver Bolt: It deals 3 damage to target creature. If a Werewolf is dealt damage this way, destroy it.
 
 
-:mtgtip:`Stuffed Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cd40276-016b-475f-906f-74d31dceaf70.jpg?1631061121|https://scryfall.com/card/mid/259/stuffed-bear?utm_source=api>`
+:mtgtip:`Stuffed Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cd40276-016b-475f-906f-74d31dceaf70.jpg?1637114713|https://scryfall.com/card/mid/259/stuffed-bear?utm_source=api>`
    |mana_2|: Stuffed Bear becomes a 4/4 green Bear artifact creature until end of turn.
 
 
-:mtgtip:`Deserted Beach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1630695755|https://scryfall.com/card/mid/260/deserted-beach?utm_source=api>`
+:mtgtip:`Deserted Beach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1637114746|https://scryfall.com/card/mid/260/deserted-beach?utm_source=api>`
    Deserted Beach enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb471f90-46f2-4037-87fc-f523fc9d004f.jpg?1631301410|https://scryfall.com/card/mid/261/evolving-wilds?utm_source=api>`
+:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb471f90-46f2-4037-87fc-f523fc9d004f.jpg?1637114771|https://scryfall.com/card/mid/261/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.jpg?1631134352|https://scryfall.com/card/mid/262/field-of-ruin?utm_source=api>`
+:mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.jpg?1637114800|https://scryfall.com/card/mid/262/field-of-ruin?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.
 
 
-:mtgtip:`Haunted Ridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1630695839|https://scryfall.com/card/mid/263/haunted-ridge?utm_source=api>`
+:mtgtip:`Haunted Ridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1637114828|https://scryfall.com/card/mid/263/haunted-ridge?utm_source=api>`
    Haunted Ridge enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Hostile Hostel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1631342331|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
+:mtgtip:`Hostile Hostel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1637114882|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|, Sacrifice a creature: Put a soul counter on Hostile Hostel. Then if there are three or more soul counters on it, remove those counters, transform it, then untap it. Activate only as a sorcery.
 
 
-:mtgtip:`Creeping Inn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1631342331|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
+:mtgtip:`Creeping Inn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1637114882|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
    Whenever Creeping Inn attacks, you may exile a creature card from your graveyard. If you do, each opponent loses X life and you gain X life, where X is the number of creature cards exiled with Creeping Inn.
 
    |mana_4|: Creeping Inn phases out.
 
 
-:mtgtip:`Overgrown Farmland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1630695775|https://scryfall.com/card/mid/265/overgrown-farmland?utm_source=api>`
+:mtgtip:`Overgrown Farmland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1637114907|https://scryfall.com/card/mid/265/overgrown-farmland?utm_source=api>`
    Overgrown Farmland enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Rockfall Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1631301627|https://scryfall.com/card/mid/266/rockfall-vale?utm_source=api>`
+:mtgtip:`Rockfall Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1637114937|https://scryfall.com/card/mid/266/rockfall-vale?utm_source=api>`
    Rockfall Vale enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Shipwreck Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1630695819|https://scryfall.com/card/mid/267/shipwreck-marsh?utm_source=api>`
+:mtgtip:`Shipwreck Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1637114960|https://scryfall.com/card/mid/267/shipwreck-marsh?utm_source=api>`
    Shipwreck Marsh enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1628277332|https://scryfall.com/card/mid/268/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1637114983|https://scryfall.com/card/mid/268/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1628197498|https://scryfall.com/card/mid/270/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1637115033|https://scryfall.com/card/mid/270/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1628197523|https://scryfall.com/card/mid/272/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1637115080|https://scryfall.com/card/mid/272/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1628198041|https://scryfall.com/card/mid/274/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1637115137|https://scryfall.com/card/mid/274/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1628197648|https://scryfall.com/card/mid/276/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1637115191|https://scryfall.com/card/mid/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

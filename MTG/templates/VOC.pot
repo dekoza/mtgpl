@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-10 22:44+0100\n"
+"POT-Creation-Date: 2021-11-23 15:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,6 +30,8 @@ msgstr ""
 msgid "{C}"
 msgstr ""
 
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
@@ -133,6 +135,8 @@ msgstr ""
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
+#: ../../symbols.rst:13
+#: ../../symbols.rst:13
 msgid "{B}"
 msgstr ""
 
@@ -213,6 +217,7 @@ msgstr ""
 msgid "{0}"
 msgstr ""
 
+#: ../../symbols.rst:45
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
@@ -512,7 +517,7 @@ msgid "Whenever a creature an opponent controls becomes tapped, if it isn't bein
 msgstr ""
 
 #: ../../VOC.rst:60
-msgid ":mtgtip:`Storm of Souls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30cb1c3f-19d4-47d3-960e-f2de828e6feb.jpg?1636419450|https://scryfall.com/card/voc/9/storm-of-souls?utm_source=api>`"
+msgid ":mtgtip:`Storm of Souls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30cb1c3f-19d4-47d3-960e-f2de828e6feb.jpg?1637080961|https://scryfall.com/card/voc/9/storm-of-souls?utm_source=api>`"
 msgstr ""
 
 #: ../../VOC.rst:59
@@ -601,7 +606,7 @@ msgid "Whenever a Vampire you control dies, you may pay 2 life. If you do, draw 
 msgstr ""
 
 #: ../../VOC.rst:114
-msgid ":mtgtip:`Glass-Cast Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e649110b-9ede-47d8-9fe4-9ef0dd17b19d.jpg?1636417065|https://scryfall.com/card/voc/18/glass-cast-heart?utm_source=api>`"
+msgid ":mtgtip:`Glass-Cast Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e649110b-9ede-47d8-9fe4-9ef0dd17b19d.jpg?1636721219|https://scryfall.com/card/voc/18/glass-cast-heart?utm_source=api>`"
 msgstr ""
 
 #: ../../VOC.rst:109
@@ -613,7 +618,7 @@ msgid "|mana_b|, |tap|, Pay 1 life: Create a 1/1 white and black Vampire creatur
 msgstr ""
 
 #: ../../VOC.rst:113
-msgid "|mana_b|{B, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life."
+msgid "|mana_b|\\ |mana_b|, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life."
 msgstr ""
 
 #: ../../VOC.rst:122
@@ -631,7 +636,7 @@ msgid "Lifelink"
 msgstr ""
 
 #: ../../VOC.rst:121
-msgid "Whenever a creature an opponent controls dies, you gain 1 life and create a Blood token. (It's an artifact with \"1, Tap, Discard a card, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever a creature an opponent controls dies, you gain 1 life and create a Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../VOC.rst:126
@@ -1050,7 +1055,7 @@ msgid ":mtgtip:`Remorseful Cleric<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../VOC.rst:351
-msgid "Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard."
+msgid "Sacrifice Remorseful Cleric: Exile target player's graveyard."
 msgstr ""
 
 #: ../../VOC.rst:358
@@ -1652,7 +1657,7 @@ msgid ":mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../VOC.rst:701
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../VOC.rst:703
