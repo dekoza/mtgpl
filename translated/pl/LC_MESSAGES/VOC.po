@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-10 22:44+0100\n"
+"POT-Creation-Date: 2021-11-23 15:41+0100\n"
 "PO-Revision-Date: 2021-11-09 15:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
@@ -403,7 +403,7 @@ msgstr ""
 #: ../../VOC.rst:60
 msgid ""
 ":mtgtip:`Storm of Souls<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/0/30cb1c3f-19d4-47d3-960e-f2de828e6feb.jpg?1636419450|"
+"border_crop/front/3/0/30cb1c3f-19d4-47d3-960e-f2de828e6feb.jpg?1637080961|"
 "https://scryfall.com/card/voc/9/storm-of-souls?utm_source=api>`"
 msgstr ""
 
@@ -557,7 +557,7 @@ msgstr ""
 #: ../../VOC.rst:114
 msgid ""
 ":mtgtip:`Glass-Cast Heart<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/6/e649110b-9ede-47d8-9fe4-9ef0dd17b19d.jpg?1636417065|"
+"border_crop/front/e/6/e649110b-9ede-47d8-9fe4-9ef0dd17b19d.jpg?1636721219|"
 "https://scryfall.com/card/voc/18/glass-cast-heart?utm_source=api>`"
 msgstr ""
 
@@ -576,8 +576,8 @@ msgstr ""
 
 #: ../../VOC.rst:113
 msgid ""
-"|mana_b|{B, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood tokens: "
-"Each opponent loses 13 life and you gain 13 life."
+"|mana_b|\\ |mana_b|, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood "
+"tokens: Each opponent loses 13 life and you gain 13 life."
 msgstr ""
 
 #: ../../VOC.rst:122
@@ -599,11 +599,19 @@ msgid "Lifelink"
 msgstr "Więź życia"
 
 #: ../../VOC.rst:121
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a creature spell with mana value 3 or less, "
+#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Whenever a creature an opponent controls dies, you gain 1 life and create a "
-"Blood token. (It's an artifact with \"1, Tap, Discard a card, Sacrifice this "
-"artifact: Draw a card.\")"
+"Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, "
+"Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
+"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:126
 msgid ""
@@ -1312,8 +1320,11 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:351
-msgid ""
-"Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard."
+#, fuzzy
+#| msgid ""
+#| "Sacrifice Remorseful Cleric: Exile all cards from target player's "
+#| "graveyard."
+msgid "Sacrifice Remorseful Cleric: Exile target player's graveyard."
 msgstr ""
 "Poświęć tego stwora: Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
@@ -2308,7 +2319,9 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:701
-msgid "Exile all cards from target player's graveyard."
+#, fuzzy
+#| msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../VOC.rst:703
