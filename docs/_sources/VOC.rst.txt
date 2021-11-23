@@ -55,7 +55,7 @@
    Whenever a creature an opponent controls becomes tapped, if it isn't being declared as an attacker, put a +1/+1 counter on Rhoda, Geist Avenger.
 
 
-:mtgtip:`Storm of Souls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30cb1c3f-19d4-47d3-960e-f2de828e6feb.jpg?1636419450|https://scryfall.com/card/voc/9/storm-of-souls?utm_source=api>`
+:mtgtip:`Storm of Souls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30cb1c3f-19d4-47d3-960e-f2de828e6feb.jpg?1637080961|https://scryfall.com/card/voc/9/storm-of-souls?utm_source=api>`
    Return all creature cards from your graveyard to the battlefield. Each of them is a 1/1 Spirit with flying in addition to its other types. Exile Storm of Souls.
 
 
@@ -105,12 +105,12 @@
    Whenever a Vampire you control dies, you may pay 2 life. If you do, draw a card.
 
 
-:mtgtip:`Glass-Cast Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e649110b-9ede-47d8-9fe4-9ef0dd17b19d.jpg?1636417065|https://scryfall.com/card/voc/18/glass-cast-heart?utm_source=api>`
+:mtgtip:`Glass-Cast Heart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e649110b-9ede-47d8-9fe4-9ef0dd17b19d.jpg?1636721219|https://scryfall.com/card/voc/18/glass-cast-heart?utm_source=api>`
    Whenever one or more Vampires you control attack, create a Blood token. (It's an artifact with "|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.")
 
    |mana_b|, |tap|, Pay 1 life: Create a 1/1 white and black Vampire creature token with lifelink.
 
-   |mana_b|{B, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life.
+   |mana_b|\ |mana_b|, |tap|, Sacrifice Glass-Cast Heart and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life.
 
 
 :mtgtip:`Kamber, the Plunderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2e932f7-1a72-44e7-89f7-b853eada74f0.jpg?1636490934|https://scryfall.com/card/voc/19/kamber-the-plunderer?utm_source=api>`
@@ -118,7 +118,7 @@
 
    Lifelink
 
-   Whenever a creature an opponent controls dies, you gain 1 life and create a Blood token. (It's an artifact with "1, Tap, Discard a card, Sacrifice this artifact: Draw a card.")
+   Whenever a creature an opponent controls dies, you gain 1 life and create a Blood token. (It's an artifact with "|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Olivia's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98893cc1-f502-4ca6-b6c1-e09fa1f4ef7a.jpg?1636418229|https://scryfall.com/card/voc/20/olivias-wrath?utm_source=api>`
@@ -348,7 +348,7 @@
 :mtgtip:`Remorseful Cleric<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/defa1a8f-8a4d-45fc-90fb-8378b844dfdb.jpg?1636418809|https://scryfall.com/card/voc/97/remorseful-cleric?utm_source=api>`
    Flying
 
-   Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard.
+   Sacrifice Remorseful Cleric: Exile target player's graveyard.
 
 
 :mtgtip:`Spectral Shepherd<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6eb29718-0bdf-4a8e-9d5c-9e3f486762cc.jpg?1636419409|https://scryfall.com/card/voc/98/spectral-shepherd?utm_source=api>`
@@ -698,7 +698,7 @@
 :mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/179d2088-2032-41c2-953e-f8ecbe135d77.jpg?1636418525|https://scryfall.com/card/voc/156/rakdos-charm?utm_source=api>`
    Choose one —
 
-   • Exile all cards from target player's graveyard.
+   • Exile target player's graveyard.
 
    • Destroy target artifact.
 

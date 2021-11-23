@@ -39,10 +39,9 @@ Instrukcja gry
 Tłumaczenie dodatków
 ====================
 
-Nadchodzące
------------
+.. Nadchodzące
+.. -----------
 
-* Standard: :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` (Premiera: 2021-11-19)
 
 Standard
 --------
@@ -50,6 +49,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|
 * :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|
 * :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|
 * :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
