@@ -30,8 +30,16 @@ msgctxt "MainNav/EventRewards/2U"
 msgid "Cards will be at least 2 uncommons"
 msgstr "2 niepospolite lub lepsze"
 
+msgctxt "MainNav/EventRewards/AdditiveReward"
+msgid "All players who reach this many wins will earn this reward."
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Adventurous_Impulse"
 msgid "Adventurous Impulse Card Style"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Avatar"
+msgid "1 Avatar"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Basic_Land"
@@ -52,6 +60,17 @@ msgstr ""
 "Po zdobyciu możesz w swoich taliach umieścić dowolną liczbę kart danego "
 "bazowego lądu."
 
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Basic_Land"
+#| msgid "Basic Land"
+msgctxt "MainNav/EventRewards/Basic_Lands"
+msgid "{number1} Basic Lands"
+msgstr "Bazowy ląd"
+
+msgctxt "MainNav/EventRewards/Bird_Admirer"
+msgid "Bird Admirer Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Booster_Pack_Generic"
 msgid "Pack"
 msgstr "Pakiet"
@@ -59,6 +78,10 @@ msgstr "Pakiet"
 msgctxt "MainNav/EventRewards/Booster_Pack_Set"
 msgid "{setName} Pack"
 msgstr "Pakiet z dodatku {setName}"
+
+msgctxt "MainNav/EventRewards/Brainstorm"
+msgid "Brainstorm"
+msgstr ""
 
 msgctxt "MainNav/EventRewards/Brewers_0Win"
 msgid "2 uncommons outside the current meta to make fun decks for Quick Play"
@@ -80,6 +103,10 @@ msgctxt "MainNav/EventRewards/Brewers_3Win"
 msgid ""
 "4 rares and 2 uncommons outside the current meta to make fun decks for Quick "
 "Play"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Candlegrove_Witch"
+msgid "Candlegrove Witch Card Style"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Card"
@@ -132,12 +159,26 @@ msgctxt "MainNav/EventRewards/Cards_And_Skins"
 msgid "{number1} Cards & {number2} Card Styles"
 msgstr ""
 
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Pack_And_Skin"
+#| msgid "1 Pack & 1 Card Style"
+msgctxt "MainNav/EventRewards/CardSleeve"
+msgid "1 Card Sleeve"
+msgstr "1 pakiet i 1 styl karty"
+
 msgctxt "MainNav/EventRewards/Cash1"
 msgid "$1,000 USD"
 msgstr "$1,000 USD"
 
 msgctxt "MainNav/EventRewards/Cash2"
 msgid "$2,000 USD"
+msgstr "$2,000 USD"
+
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Cash2"
+#| msgid "$2,000 USD"
+msgctxt "MainNav/EventRewards/Cash3"
+msgid "$2,500 USD"
 msgstr "$2,000 USD"
 
 msgctxt "MainNav/EventRewards/Claim_Prizes"
@@ -236,6 +277,25 @@ msgctxt "MainNav/EventRewards/Daily_Wins_Title"
 msgid "Daily Win Rewards"
 msgstr "Codzienne nagrody"
 
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Pack_And_Skin"
+#| msgid "1 Pack & 1 Card Style"
+msgctxt "MainNav/EventRewards/Dawnhart_Mentor"
+msgid "Dawnhart Mentor Card Style"
+msgstr "1 pakiet i 1 styl karty"
+
+msgctxt "MainNav/EventRewards/Day2"
+msgid "Qualify for Day 2"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/DecathlonPrelim_MaxWins"
+msgid "3 Packs and Decathlon Token"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/DecathlonPrelim_MaxWins_Gold"
+msgid "3000 Gold and Decathlon Token"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/DeckTomorrow_Title"
 msgid "Earn a new deck tomorrow!"
 msgstr ""
@@ -312,6 +372,10 @@ msgctxt "MainNav/EventRewards/DominariaFestivalPrize_5Wins"
 msgid "Cards will be at least 3 rares"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/DoomBlade"
+msgid "Doom Blade"
+msgstr ""
+
 #, fuzzy
 #| msgctxt "MainNav/EventRewards/Gold_And_XP_Reward"
 #| msgid ""
@@ -319,6 +383,17 @@ msgstr ""
 #| "& {number2} Mastery XP"
 msgctxt "MainNav/EventRewards/DraftToken_and_Packs"
 msgid "{number1} Player Draft Token & {number2} Packs"
+msgstr ""
+"{number1} złota\n"
+"& {number2} XP mistrzostwa"
+
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Gold_And_XP_Reward"
+#| msgid ""
+#| "{number1} Gold\n"
+#| "& {number2} Mastery XP"
+msgctxt "MainNav/EventRewards/DraftTokens"
+msgid "{number1} Player Draft Tokens"
 msgstr ""
 "{number1} złota\n"
 "& {number2} XP mistrzostwa"
@@ -345,12 +420,44 @@ msgctxt "MainNav/EventRewards/Eliminate"
 msgid "Eliminate Card Style"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Emote_Sticker_AFR_Beholder"
+msgid "Beholder Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_AFR_Ellywick"
+msgid "Ellywick Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_AFR_Mindflayer"
+msgid "Mindflayer Sticker Emote"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Emote_Sticker_KHM_ValkyrieDark"
 msgid "Reaper Shrug Emote"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Emote_Sticker_KHM_ValkyrieLight"
 msgid "Shepherd Glee Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_MID_Doge"
+msgid "Much Moon, Very Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_MID_Gisa"
+msgid "Gisa Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_MID_Teferi"
+msgid "Teferi Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_OkoBae"
+msgid "Magic Bae Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_OkoKiss"
+msgid "Oko Kiss Sticker Emote"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Emote_Sticker_STX_ProfOnyx"
@@ -365,11 +472,27 @@ msgctxt "MainNav/EventRewards/Emote_Sticker_STX_Will"
 msgid "Will Sticker Emote"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Emote_Sticker_VOW_GG"
+msgid "Good Game Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_VOW_Olivia"
+msgid "Olivia Sticker Emote"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Emote_Sticker_VOW_Sorin"
+msgid "Sorin Sticker Emote"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/EntryLimitReached_MythicQualifierDay1"
 msgid ""
 "You have completed the Mythic Championship Qualifier Day 1 event. The "
 "players advancing to day 2 will be announced after the event completes. "
 "Thank you for participating!"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/EntryReward_Decathlon"
+msgid "Enter any Decathlon event to receive this reward."
 msgstr ""
 
 msgctxt "MainNav/EventRewards/EventRewards_Top_GrowingBar_Text"
@@ -378,6 +501,10 @@ msgstr "KONTYNUUJ"
 
 msgctxt "MainNav/EventRewards/EventRewards_Top_TitleBar_Title"
 msgid "{[LeagueName]} Completed"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/FaithlessLooting"
+msgid "Faithless Looting"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/FiremindResearchAltArt"
@@ -420,12 +547,36 @@ msgctxt "MainNav/EventRewards/Gems_And_Packs"
 msgid "{number1} Gems & {number2} Packs"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Gems_And_RWC"
+msgid "{number1} Gems & 1 Rare Wildcard"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Gold_And_XP_Reward"
+#| msgid ""
+#| "{number1} Gold\n"
+#| "& {number2} Mastery XP"
+msgctxt "MainNav/EventRewards/Gems_And_RWCs"
+msgid "{number1} Gems & {number2} Rare Wildcards"
+msgstr ""
+"{number1} złota\n"
+"& {number2} XP mistrzostwa"
+
 msgctxt "MainNav/EventRewards/Gems_And_Skin"
 msgid "{number1} Gems & 1 Card Style"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Gems_And_Skins"
 msgid "{number1} Gems & {number2} Card Styles"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Gems_RWCs_And_MWC"
+msgid "{number1} Gems, {number2} Rare Wildcards, and 1 Mythic Wildcard"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Gems_RWCs_And_MWCs"
+msgid ""
+"{number1} Gems, {number2} Rare Wildcards, and {number3} Mythic Wildcards"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Gems_Sleeve_Day2"
@@ -438,6 +589,10 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/Glass_Styles"
 msgid "{number1} Glass Style"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/GodsWilling"
+msgid "Gods Willing"
 msgstr ""
 
 msgctxt "MainNav/EventRewards/Gold_And_Card"
@@ -476,6 +631,14 @@ msgctxt "MainNav/EventRewards/Gold_Reward"
 msgid "{number1} Gold"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Graveyard_Tresspasser"
+msgid "Graveyard Trespasser Card Style"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Harvesttide_Infiltrator"
+msgid "Harvesttide Infiltrator Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/HaversackOfFavor"
 msgid "Haversack of Favor"
 msgstr ""
@@ -486,6 +649,14 @@ msgstr ""
 msgctxt "MainNav/EventRewards/HistoricICR_4RM"
 msgid "Cards will be at least 4 rares not in Standard"
 msgstr "2 rzadkie i 1 niepospolita lub lepsze"
+
+msgctxt "MainNav/EventRewards/Katilda_Dawnhart_Prime"
+msgid "Katilda, Dawnhart Prime Card Style"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Kessig_Naturalist"
+msgid "Kessig Naturalist Card Style"
+msgstr ""
 
 msgctxt "MainNav/EventRewards/LlanowarElvesFullArt"
 msgid "Card is a full art Llanowar Elves"
@@ -509,6 +680,22 @@ msgstr ""
 
 msgctxt "MainNav/EventRewards/M19_3Rare"
 msgid "Cards will be at least 3 M19 rares"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/MWCs"
+msgid "{number1} Mythic Wildcards"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/Mystery_Pack_Desc"
+msgid "Packs can be from any set on MTG Arena."
+msgstr ""
+
+msgctxt "MainNav/EventRewards/NEOSet_Voucher"
+msgid "1x Each card in Kamigawa: Neon Dynasty"
+msgstr ""
+
+msgctxt "MainNav/EventRewards/NEOSet_Voucher_Desc"
+msgid "Delivered upon set release. Limit 1 per player."
 msgstr ""
 
 msgctxt "MainNav/EventRewards/NoReward"
@@ -554,6 +741,10 @@ msgctxt "MainNav/EventRewards/Packs_And_Cards"
 msgid "{number1} Packs & {number2} Cards"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Packs_And_Qualification_Token"
+msgid "{number1} Packs and Qualification Token"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Packs_And_Skin"
 msgid "{number1} Packs & 1 Card Style"
 msgstr ""
@@ -578,6 +769,10 @@ msgctxt "MainNav/EventRewards/Qualification_Token_Desc"
 msgid "Use this token to join the next event!"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Regrowth"
+msgid "Regrowth"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Revitalize"
 msgid "Revitalize Card Style"
 msgstr ""
@@ -597,6 +792,10 @@ msgstr "Zwyciężaj w Standardzie, trybach z rankingiem lub wydarzeniach!"
 msgctxt "MainNav/EventRewards/Reward_Win_Bonus"
 msgid "Daily Win Rewards"
 msgstr "Codzienne nagrody"
+
+msgctxt "MainNav/EventRewards/RWCs"
+msgid "{number1} Rare Wildcards"
+msgstr ""
 
 #, fuzzy
 #| msgctxt "MainNav/EventRewards/Pack_And_Skin"
@@ -653,6 +852,10 @@ msgctxt "MainNav/EventRewards/Strategic_Planning"
 msgid "Strategic Planning Card Style"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Suspicious_Stowaway"
+msgid "Suspicious Stowaway Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/TextEmote_DawnAdventure"
 msgid "Dawn Adventure Text Emote"
 msgstr ""
@@ -685,9 +888,20 @@ msgctxt "MainNav/EventRewards/Thrill_of_Possibility"
 msgid "Thrill of Possibility Card Style"
 msgstr ""
 
+msgctxt "MainNav/EventRewards/Tolovars_Huntmaster"
+msgid "Tovolar's Huntmaster Card Style"
+msgstr ""
+
 msgctxt "MainNav/EventRewards/Village_Rites"
 msgid "Village Rites Card Style"
 msgstr ""
+
+#, fuzzy
+#| msgctxt "MainNav/EventRewards/Pack_And_Skin"
+#| msgid "1 Pack & 1 Card Style"
+msgctxt "MainNav/EventRewards/Village_Watch"
+msgid "Village Watch Card Style"
+msgstr "1 pakiet i 1 styl karty"
 
 msgctxt "MainNav/EventRewards/WAR_Lore_Angrath"
 msgid "Glass Style will be Angarth, Captain of Chaos"

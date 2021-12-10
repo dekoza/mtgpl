@@ -7029,6 +7029,11 @@ msgid ""
 "At the beginning of each upkeep, create a 1/1 green Saproling creature token."
 msgstr ""
 
+#. card_title
+msgctxt "4504"
+msgid "Suntail Hawk"
+msgstr ""
+
 #. internal_ability, printed_ability, type_enchantment
 msgctxt "4517"
 msgid "Creatures you control have trample."
@@ -10712,6 +10717,11 @@ msgctxt "20817"
 msgid "Caribou"
 msgstr ""
 
+#. maybe_hidden
+msgctxt "20843"
+msgid "Shuffle it into its owner's library?"
+msgstr ""
+
 #. card_title
 msgctxt "20851"
 msgid "Hurloon Minotaur"
@@ -13489,6 +13499,18 @@ msgid ""
 msgstr ""
 
 #. card_title
+msgctxt "39382"
+msgid "Spidery Grasp"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "39384"
+msgid ""
+"Untap target creature. It gets <nobr>+2/+4</nobr> and gains reach until end "
+"of turn."
+msgstr ""
+
+#. card_title
 msgctxt "39452"
 msgid "Parallel Lives"
 msgstr ""
@@ -13610,6 +13632,16 @@ msgctxt "39894"
 msgid ""
 "<i>Cats prowl the corridors of Avacyn's churches in search of devils or "
 "signs of their mischief.</i>"
+msgstr ""
+
+#. card_title
+msgctxt "39903"
+msgid "Hollowhenge Beast"
+msgstr ""
+
+#. flavor_text
+msgctxt "39904"
+msgid "<i>In a world of monsters, it's the stuff of nightmares.</i>"
 msgstr ""
 
 #. card_title
@@ -14123,6 +14155,11 @@ msgid ""
 "<i>\"Your first reaction may be to stand very still and hope she didn't see "
 "you. Trust me, she did.\"\n"
 "—</i>Endril, Kalonian naturalist<i></i>"
+msgstr ""
+
+#. internal_ability, printed_ability, type_artifact
+msgctxt "40884"
+msgid "Equipped creature has trample."
 msgstr ""
 
 #. flavor_text
@@ -14767,6 +14804,14 @@ msgstr ""
 #. internal_ability, printed_ability, type_creature
 msgctxt "42789"
 msgid "Sliver creatures you control get <nobr>+0/+1</nobr>."
+msgstr ""
+
+#. flavor_text
+msgctxt "42793"
+msgid ""
+"<i>\"They are the finest companions in the realm. Swift, clever, and easily "
+"trained to hunt intruders.\"\n"
+"—</i>Almira, falconer<i></i>"
 msgstr ""
 
 #. flavor_text
@@ -17012,6 +17057,13 @@ msgstr ""
 #. card_title
 msgctxt "48218"
 msgid "Angelic Gift"
+msgstr ""
+
+#. flavor_text
+msgctxt "48219"
+msgid ""
+"<i>\"Zendikar will triumph this day, and our armies will fly with angels.\"</"
+"i>"
 msgstr ""
 
 #. card_title
@@ -24337,6 +24389,11 @@ msgctxt "76781"
 msgid ""
 "Enchanted creature has \"Whenever this creature deals combat damage to a "
 "player, you may draw a card.\""
+msgstr ""
+
+#. flavor_text
+msgctxt "76782"
+msgid "<i>There are no safe paths through the Trial of Strength.</i>"
 msgstr ""
 
 #. card_title
@@ -44255,6 +44312,11 @@ msgid ""
 "Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
+#. maybe_hidden
+msgctxt "232773"
+msgid "Have {1, CardId} deal 3 damage to them?"
+msgstr ""
+
 #. internal_ability, printed_ability, type_artifact, type_creature,
 #. type_instant, type_sorcery
 msgctxt "232893"
@@ -53481,6 +53543,11 @@ msgctxt "272416"
 msgid "Target a permanent you don't control."
 msgstr ""
 
+#. maybe_hidden
+msgctxt "272417"
+msgid "Have {1, CardId} deal 3 damage to you?"
+msgstr ""
+
 #. card_title
 msgctxt "272418"
 msgid "Tactical Advantage"
@@ -57294,6 +57361,11 @@ msgstr ""
 #. internal_ability
 msgctxt "273255"
 msgid "CARDNAME deals 4 damage to target creature."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "273257"
+msgid "Discard a nonland card."
 msgstr ""
 
 #. maybe_hidden
@@ -77318,6 +77390,11 @@ msgid "Distribute counters among up to two target creatures."
 msgstr ""
 
 #. maybe_hidden
+msgctxt "352370"
+msgid "Choose a creature card you own."
+msgstr ""
+
+#. maybe_hidden
 msgctxt "352372"
 msgid "Exile two legendary cards."
 msgstr ""
@@ -77649,6 +77726,11 @@ msgstr ""
 #. printed_ability, type_creature
 msgctxt "382269"
 msgid "|mana_1|, Sacrifice Ember Hauler: It deals 2 damage to any target."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "382720"
+msgid "Choose a card in your hand."
 msgstr ""
 
 #. maybe_hidden
@@ -93403,8 +93485,8 @@ msgctxt "428405"
 msgid "Vivien, Monsters' Advocate"
 msgstr ""
 
-#. internal_ability, printed_ability, type_creature, type_enchantment,
-#. type_planeswalker
+#. internal_ability, printed_ability, type_artifact, type_creature,
+#. type_enchantment, type_planeswalker
 msgctxt "428406"
 msgid "You may cast creature spells from the top of your library."
 msgstr ""
@@ -108174,6 +108256,11 @@ msgstr ""
 #. card_subtype, card_title
 msgctxt "437934"
 msgid "Goblin Construct"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "437936"
+msgid "Token"
 msgstr ""
 
 #. maybe_hidden
@@ -145916,6 +146003,17 @@ msgid "Start a Brawl"
 msgstr ""
 
 #. card_title
+msgctxt "543129"
+msgid ""
+"<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Omnath, Locus of Creation"
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "543130"
+msgid "When Omnath, Locus of Creation enters the battlefield, scry 1."
+msgstr ""
+
+#. card_title
 msgctxt "543140"
 msgid "Dungeon of the Mad Mage"
 msgstr ""
@@ -155410,6 +155508,1244 @@ msgid ""
 "battlefield tapped."
 msgstr ""
 
+#. card_title
+msgctxt "566288"
+msgid "Angel of Eternal Dawn"
+msgstr ""
+
+#. internal_ability
+msgctxt "566289"
+msgid "When CARDNAME enters the battlefield, it becomes day."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566290"
+msgid "When Angel of Eternal Dawn enters the battlefield, it becomes day."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566291"
+msgid "It can't become night."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566292"
+msgid ""
+"Your opponents can't cast spells with mana value greater than the number of "
+"turns they have begun."
+msgstr ""
+
+#. card_title
+msgctxt "566293"
+msgid "Angel of Unity"
+msgstr ""
+
+#. internal_ability
+msgctxt "566294"
+msgid ""
+"Whenever CARDNAME enters the battlefield or you cast a party spell, choose a "
+"party creature card in your hand. It perpetually gets <nobr>+1/+1</nobr>."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566295"
+msgid ""
+"Whenever Angel of Unity enters the battlefield or you cast a party spell, "
+"choose a party creature card in your hand. It perpetually gets <nobr>+1/+1</"
+"nobr>. <i>(A party card or spell is a Cleric, Rogue, Warrior, or Wizard.)</i>"
+msgstr ""
+
+#. card_title
+msgctxt "566296"
+msgid "Captain Eberhart"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566297"
+msgid ""
+"Spells cast from among cards you drew this turn cost |mana_1| less to cast."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566298"
+msgid ""
+"Spells cast from among cards your opponents drew this turn cost |mana_1| "
+"more to cast."
+msgstr ""
+
+#. card_title
+msgctxt "566299"
+msgid "Divine Purge"
+msgstr ""
+
+#. internal_ability
+msgctxt "566300"
+msgid "This spell costs |mana_2| more to cast."
+msgstr ""
+
+#. internal_ability
+msgctxt "566301"
+msgid "This permanent enters the battlefield tapped."
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "566302"
+msgid ""
+"Exile all artifacts and creatures with mana value 3 or less. They "
+"perpetually gain \"This spell costs |mana_2| more to cast\" and \"This "
+"permanent enters the battlefield tapped.\" For as long as each of them "
+"remain exiled, its owner may play it."
+msgstr ""
+
+#. card_title
+msgctxt "566303"
+msgid "Ethereal Escort"
+msgstr ""
+
+#. internal_ability
+msgctxt "566304"
+msgid ""
+"Whenever CARDNAME enters the battlefield or attacks, choose a card in your "
+"hand. It perpetually gains lifelink."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566305"
+msgid ""
+"Whenever Ethereal Escort enters the battlefield or attacks, choose a card in "
+"your hand. It perpetually gains lifelink."
+msgstr ""
+
+#. card_title
+msgctxt "566306"
+msgid "Expedition Supplier"
+msgstr ""
+
+#. internal_ability
+msgctxt "566307"
+msgid ""
+"Whenever CARDNAME or another Human enters the battlefield under your "
+"control, conjure a card named Utility Knife onto the battlefield. This "
+"ability triggers only once each turn."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566308"
+msgid ""
+"Whenever Expedition Supplier or another Human enters the battlefield under "
+"your control, conjure a card named Utility Knife onto the battlefield. This "
+"ability triggers only once each turn."
+msgstr ""
+
+#. card_title
+msgctxt "566309"
+msgid "Faithful Disciple"
+msgstr ""
+
+#. internal_ability
+msgctxt "566310"
+msgid "When CARDNAME dies, draft a card from Faithful Disciple's spellbook."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566311"
+msgid ""
+"When Faithful Disciple dies, draft a card from Faithful Disciple's spellbook."
+msgstr ""
+
+#. card_title
+msgctxt "566312"
+msgid "Inquisitor Captain"
+msgstr ""
+
+#. internal_ability
+msgctxt "566313"
+msgid ""
+"When CARDNAME enters the battlefield, if there are twenty or more creature "
+"cards with mana value 3 or less among cards in your graveyard, hand, and "
+"library, seek two creature cards with mana value 3 or less. Put one of them "
+"onto the battlefield and shuffle the other into your library."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566314"
+msgid ""
+"When Inquisitor Captain enters the battlefield, if there are twenty or more "
+"creature cards with mana value 3 or less among cards in your graveyard, "
+"hand, and library, seek two creature cards with mana value 3 or less. Put "
+"one of them onto the battlefield and shuffle the other into your library."
+msgstr ""
+
+#. card_title
+msgctxt "566315"
+msgid "Sigardian Evangel"
+msgstr ""
+
+#. internal_ability
+msgctxt "566316"
+msgid ""
+"When CARDNAME enters the battlefield, conjure a card named Sigardian Evangel "
+"into your hand. Discard that card at the beginning of the next end step."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566317"
+msgid ""
+"When Sigardian Evangel enters the battlefield, conjure a card named "
+"Sigardian Evangel into your hand. Discard that card at the beginning of the "
+"next end step."
+msgstr ""
+
+#. internal_ability
+msgctxt "566318"
+msgid ""
+"When CARDNAME enters the battlefield, tap target permanent you don't control."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566319"
+msgid ""
+"When Sigardian Evangel enters the battlefield, tap target permanent you "
+"don't control."
+msgstr ""
+
+#. card_title
+msgctxt "566320"
+msgid "Slayer's Bounty"
+msgstr ""
+
+#. internal_ability
+msgctxt "566321"
+msgid ""
+"When CARDNAME enters the battlefield, look at the creature cards in target "
+"opponent's hand."
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "566322"
+msgid ""
+"When Slayer's Bounty enters the battlefield, look at the creature cards in "
+"target opponent's hand."
+msgstr ""
+
+#. internal_ability
+msgctxt "566323"
+msgid ""
+"Whenever you sacrifice CARDNAME or another Clue, draft a card from Slayer's "
+"Bounty's spellbook."
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "566324"
+msgid ""
+"Whenever you sacrifice Slayer's Bounty or another Clue, draft a card from "
+"Slayer's Bounty's spellbook."
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "566325"
+msgid "|mana_2|, Sacrifice Slayer's Bounty: Draw a card."
+msgstr ""
+
+#. card_title
+msgctxt "566326"
+msgid "Suntail Squadron"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "566327"
+msgid ""
+"Conjure a card named Suntail Hawk into your hand. If you have fewer than 7 "
+"cards in hand, repeat this process."
+msgstr ""
+
+#. card_title
+msgctxt "566328"
+msgid "Absorb Energy"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "566329"
+msgid ""
+"Counter target spell. Cards in your hand that share a card type with that "
+"spell perpetually gain \"This spell costs |mana_1| less to cast.\""
+msgstr ""
+
+#. card_title
+msgctxt "566330"
+msgid "Unexpected Conversion"
+msgstr ""
+
+#. card_title
+msgctxt "566332"
+msgid "Clone Crafter"
+msgstr ""
+
+#. card_title
+msgctxt "566335"
+msgid "Discover the Formula"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "566336"
+msgid ""
+"Seek three nonland cards, then nonland cards in your hand perpetually gain "
+"\"This spell costs |mana_1| less to cast.\""
+msgstr ""
+
+#. card_title
+msgctxt "566337"
+msgid "Geist of Regret"
+msgstr ""
+
+#. card_title
+msgctxt "566341"
+msgid "Geistchanneler"
+msgstr ""
+
+#. internal_ability
+msgctxt "566342"
+msgid "This spell costs |mana_2| less to cast."
+msgstr ""
+
+#. internal_ability
+msgctxt "566343"
+msgid ""
+"When CARDNAME enters the battlefield, choose an instant or sorcery card in "
+"your hand with mana value 3 or greater. It perpetually gains \"This spell "
+"costs |mana_2| less to cast.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566344"
+msgid ""
+"When Geistchanneler enters the battlefield, choose an instant or sorcery "
+"card in your hand with mana value 3 or greater. It perpetually gains \"This "
+"spell costs |mana_2| less to cast.\""
+msgstr ""
+
+#. card_title
+msgctxt "566345"
+msgid "Kindred Denial"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "566346"
+msgid ""
+"Counter target spell. Seek a card with the same mana value as that spell."
+msgstr ""
+
+#. card_title
+msgctxt "566347"
+msgid "Obsessive Collector"
+msgstr ""
+
+#. internal_ability
+msgctxt "566348"
+msgid ""
+"Whenever CARDNAME deals combat damage to a player, seek a card with mana "
+"value equal to the number of cards in your hand."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566349"
+msgid ""
+"Whenever Obsessive Collector deals combat damage to a player, seek a card "
+"with mana value equal to the number of cards in your hand."
+msgstr ""
+
+#. card_title
+msgctxt "566350"
+msgid "Oglor, Devoted Assistant"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566351"
+msgid ""
+"At the beginning of your upkeep, look at the top two cards of your library, "
+"then put one of them into your graveyard."
+msgstr ""
+
+#. internal_ability
+msgctxt "566352"
+msgid ""
+"When this card leaves your graveyard, create a tapped 2/2 black Zombie "
+"creature token."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566353"
+msgid ""
+"Whenever a creature card is put into your graveyard from your library or "
+"hand, it perpetually gains \"When this card leaves your graveyard, create a "
+"tapped 2/2 black Zombie creature token.\""
+msgstr ""
+
+#. card_title
+msgctxt "566354"
+msgid "Rimewall Protector"
+msgstr ""
+
+#. internal_ability
+msgctxt "566355"
+msgid ""
+"When CARDNAME enters the battlefield, each other Giant or Wizard you control "
+"and each Giant or Wizard card in your hand perpetually gains ward |mana_1|."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566356"
+msgid ""
+"When Rimewall Protector enters the battlefield, each other Giant or Wizard "
+"you control and each Giant or Wizard card in your hand perpetually gains "
+"ward |mana_1|."
+msgstr ""
+
+#. card_title
+msgctxt "566357"
+msgid "Sinister Reflections"
+msgstr ""
+
+#. card_title
+msgctxt "566359"
+msgid "Tireless Angler"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566360"
+msgid ""
+"Whenever an Island enters the battlefield under your control, draft a card "
+"from Tireless Angler's spellbook."
+msgstr ""
+
+#. card_title
+msgctxt "566361"
+msgid "Cursebound Witch"
+msgstr ""
+
+#. internal_ability
+msgctxt "566362"
+msgid "When CARDNAME dies, draft a card from Cursebound Witch's spellbook."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566363"
+msgid ""
+"When Cursebound Witch dies, draft a card from Cursebound Witch's spellbook."
+msgstr ""
+
+#. card_title
+msgctxt "566364"
+msgid "Assemble from Parts"
+msgstr ""
+
+#. card_title
+msgctxt "566367"
+msgid "Break Expectations"
+msgstr ""
+
+#. card_title
+msgctxt "566369"
+msgid "Citystalker Connoisseur"
+msgstr ""
+
+#. internal_ability
+msgctxt "566370"
+msgid ""
+"When CARDNAME enters the battlefield, target opponent discards a card with "
+"the greatest mana value among cards in their hand. Create a Blood token."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566371"
+msgid ""
+"When Citystalker Connoisseur enters the battlefield, target opponent "
+"discards a card with the greatest mana value among cards in their hand. "
+"Create a Blood token."
+msgstr ""
+
+#. card_title
+msgctxt "566372"
+msgid "Gutmorn, Pactbound Servant"
+msgstr ""
+
+#. internal_ability
+msgctxt "566373"
+msgid ""
+"Whenever CARDNAME enters the battlefield, each player discards a nonland "
+"card."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566374"
+msgid ""
+"Whenever Gutmorn, Pactbound Servant enters the battlefield, each player "
+"discards a nonland card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566375"
+msgid ""
+"Whenever a player discards a card during your turn, they choose another "
+"player. That player conjures a duplicate of that card into their hand. It "
+"perpetually gains \"You may spend mana as though it were mana of any color "
+"to cast this spell.\""
+msgstr ""
+
+#. card_title
+msgctxt "566376"
+msgid "Patient Zero"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566377"
+msgid ""
+"Damage isn't removed from creatures your opponents control during cleanup "
+"steps."
+msgstr ""
+
+#. card_title
+msgctxt "566378"
+msgid "Predatory Sludge"
+msgstr ""
+
+#. internal_ability
+msgctxt "566379"
+msgid ""
+"As CARDNAME enters the battlefield, choose a permanent you don't control. "
+"When the chosen permanent is put into a graveyard from the battlefield, "
+"conjure a card named Predatory Sludge into your hand."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566380"
+msgid ""
+"As Predatory Sludge enters the battlefield, choose a permanent you don't "
+"control. When the chosen permanent is put into a graveyard from the "
+"battlefield, conjure a card named Predatory Sludge into your hand."
+msgstr ""
+
+#. card_title
+msgctxt "566381"
+msgid "Puppet Raiser"
+msgstr ""
+
+#. card_title
+msgctxt "566383"
+msgid "Sanguine Brushstroke"
+msgstr ""
+
+#. internal_ability
+msgctxt "566384"
+msgid ""
+"When CARDNAME enters the battlefield, create a Blood token and conjure a "
+"card named Blood Artist onto the battlefield."
+msgstr ""
+
+#. printed_ability, type_enchantment
+msgctxt "566385"
+msgid ""
+"When Sanguine Brushstroke enters the battlefield, create a Blood token and "
+"conjure a card named Blood Artist onto the battlefield."
+msgstr ""
+
+#. internal_ability, printed_ability, type_enchantment
+msgctxt "566386"
+msgid ""
+"Whenever you sacrifice a Blood token, each opponent loses 1 life and you "
+"gain 1 life."
+msgstr ""
+
+#. card_title
+msgctxt "566387"
+msgid "Sap Vitality"
+msgstr ""
+
+#. internal_ability
+msgctxt "566388"
+msgid ""
+"CARDNAME deals 3 damage to target creature or planeswalker. Choose a "
+"creature card in your hand. It perpetually gets <nobr>+3/+0</nobr>."
+msgstr ""
+
+#. printed_ability, type_instant
+msgctxt "566389"
+msgid ""
+"Sap Vitality deals 3 damage to target creature or planeswalker. Choose a "
+"creature card in your hand. It perpetually gets <nobr>+3/+0</nobr>."
+msgstr ""
+
+#. card_title
+msgctxt "566390"
+msgid "Veteran Ghoulcaller"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566391"
+msgid ""
+"Whenever a card in your graveyard is put into your hand, conjure a duplicate "
+"of that card into your hand."
+msgstr ""
+
+#. card_title
+msgctxt "566392"
+msgid "Arms Scavenger"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566393"
+msgid ""
+"At the beginning of your upkeep, draft a card from Arms Scavenger's "
+"spellbook, then exile it. Until end of turn, you may play that card."
+msgstr ""
+
+#. card_title
+msgctxt "566394"
+msgid "Bloodrage Alpha"
+msgstr ""
+
+#. internal_ability
+msgctxt "566395"
+msgid ""
+"Another target Wolf or Werewolf you control fights target creature you don't "
+"control."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566396"
+msgid ""
+"Another target Wolf or Werewolf you control fights target creature you don't "
+"control."
+msgstr ""
+
+#. internal_ability
+msgctxt "566397"
+msgid ""
+"When this creature enters the battlefield, it fights up to one target "
+"creature you don't control."
+msgstr ""
+
+#. internal_ability
+msgctxt "566398"
+msgid ""
+"When you cast your next Wolf or Werewolf spell, it gains \"When this "
+"creature enters the battlefield, it fights up to one target creature you "
+"don't control.\""
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566399"
+msgid ""
+"When you cast your next Wolf or Werewolf spell, it gains \"When this "
+"creature enters the battlefield, it fights up to one target creature you "
+"don't control.\""
+msgstr ""
+
+#. internal_ability
+msgctxt "566400"
+msgid ""
+"When CARDNAME enters the battlefield, choose one<nobr> —</nobr> • Another "
+"target Wolf or Werewolf you control fights target creature you don't "
+"control. • When you cast your next Wolf or Werewolf spell, it gains \"When "
+"this creature enters the battlefield, it fights up to one target creature "
+"you don't control.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566401"
+msgid ""
+"When Bloodrage Alpha enters the battlefield, choose one<nobr> —</nobr> • "
+"Another target Wolf or Werewolf you control fights target creature you don't "
+"control. • When you cast your next Wolf or Werewolf spell, it gains \"When "
+"this creature enters the battlefield, it fights up to one target creature "
+"you don't control.\""
+msgstr ""
+
+#. card_title
+msgctxt "566402"
+msgid "Brittle Blast"
+msgstr ""
+
+#. internal_ability
+msgctxt "566403"
+msgid "If this permanent would die, exile it instead."
+msgstr ""
+
+#. internal_ability
+msgctxt "566404"
+msgid ""
+"Creatures and planeswalkers your opponents control perpetually gain \"If "
+"this permanent would die, exile it instead.\" CARDNAME deals 5 damage to "
+"target creature or planeswalker."
+msgstr ""
+
+#. printed_ability, type_instant
+msgctxt "566405"
+msgid ""
+"Creatures and planeswalkers your opponents control perpetually gain \"If "
+"this permanent would die, exile it instead.\" Brittle Blast deals 5 damage "
+"to target creature or planeswalker."
+msgstr ""
+
+#. card_title
+msgctxt "566406"
+msgid "Conductive Current"
+msgstr ""
+
+#. internal_ability
+msgctxt "566407"
+msgid ""
+"If this spell would deal noncombat damage to a permanent or player, it deals "
+"that much damage plus 2 instead."
+msgstr ""
+
+#. internal_ability
+msgctxt "566408"
+msgid ""
+"CARDNAME deals 3 damage to each creature. Choose an instant or sorcery card "
+"in your hand. It perpetually gains \"If this spell would deal noncombat "
+"damage to a permanent or player, it deals that much damage plus 2 instead.\""
+msgstr ""
+
+#. printed_ability, type_sorcery
+msgctxt "566409"
+msgid ""
+"Conductive Current deals 3 damage to each creature. Choose an instant or "
+"sorcery card in your hand. It perpetually gains \"If this spell would deal "
+"noncombat damage to a permanent or player, it deals that much damage plus 2 "
+"instead.\""
+msgstr ""
+
+#. card_title
+msgctxt "566410"
+msgid "Electrostatic Blast"
+msgstr ""
+
+#. card_title
+msgctxt "566413"
+msgid "Fearsome Whelp"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566414"
+msgid ""
+"At the beginning of your end step, each Dragon card in your hand perpetually "
+"gains \"This spell costs |mana_1| less to cast.\""
+msgstr ""
+
+#. card_title
+msgctxt "566415"
+msgid "Frenzied Geistblaster"
+msgstr ""
+
+#. internal_ability
+msgctxt "566416"
+msgid ""
+"When CARDNAME enters the battlefield, if there are twenty or more instant "
+"and/or sorcery cards among cards in your graveyard, hand, and library, you "
+"may discard a card. If you do, seek an instant or sorcery card."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566417"
+msgid ""
+"When Frenzied Geistblaster enters the battlefield, if there are twenty or "
+"more instant and/or sorcery cards among cards in your graveyard, hand, and "
+"library, you may discard a card. If you do, seek an instant or sorcery card."
+msgstr ""
+
+#. card_title
+msgctxt "566418"
+msgid "Rahilda, Wanted Cutthroat"
+msgstr ""
+
+#. internal_ability
+msgctxt "566419"
+msgid ""
+"When CARDNAME deals combat damage to a player, exile a nonland card from "
+"their library at random. During any turn you attacked with a Wolf or "
+"Werewolf, you may cast that card and you may spend mana as though it were "
+"mana of any color to cast that spell."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566420"
+msgid ""
+"When Rahilda, Wanted Cutthroat deals combat damage to a player, exile a "
+"nonland card from their library at random. During any turn you attacked with "
+"a Wolf or Werewolf, you may cast that card and you may spend mana as though "
+"it were mana of any color to cast that spell."
+msgstr ""
+
+#. card_title
+msgctxt "566421"
+msgid "Rahilda, Feral Outlaw"
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566422"
+msgid ""
+"When Rahilda, Feral Outlaw deals combat damage to a player, exile a nonland "
+"card from their library at random. During any turn you attacked with a Wolf "
+"or Werewolf, you may cast that card and you may spend mana as though it were "
+"mana of any color to cast that spell."
+msgstr ""
+
+#. card_title
+msgctxt "566423"
+msgid "Tibalt, Wicked Tormentor"
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "566424"
+msgid ""
+"+1: Add |mana_r|\\ |mana_r|. Draft a card from Tibalt, Wicked Tormentor's "
+"spellbook, then exile it. Until end of turn, you may cast that card."
+msgstr ""
+
+#. internal_ability
+msgctxt "566425"
+msgid ""
+"+1: CARDNAME deals 3 damage to target creature or planeswalker unless its "
+"controller has Tibalt deal 3 damage to them. If they do, you may discard a "
+"card. If you do, draw a card."
+msgstr ""
+
+#. printed_ability, type_planeswalker
+msgctxt "566426"
+msgid ""
+"+1: Tibalt, Wicked Tormentor deals 3 damage to target creature or "
+"planeswalker unless its controller has Tibalt deal 3 damage to them. If they "
+"do, you may discard a card. If you do, draw a card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "566427"
+msgid ""
+"–X: Create X 1/1 red Devil creature tokens with \"When this creature dies, "
+"it deals 1 damage to any target.\""
+msgstr ""
+
+#. card_title
+msgctxt "566428"
+msgid "Toralf's Disciple"
+msgstr ""
+
+#. internal_ability
+msgctxt "566429"
+msgid ""
+"Whenever CARDNAME attacks, conjure four cards named Lightning Bolt into your "
+"library, then shuffle."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566430"
+msgid ""
+"Whenever Toralf's Disciple attacks, conjure four cards named Lightning Bolt "
+"into your library, then shuffle."
+msgstr ""
+
+#. card_title
+msgctxt "566431"
+msgid "<nobr>Town-razer</nobr> Tyrant"
+msgstr ""
+
+#. card_title
+msgctxt "566435"
+msgid "Antique Collector"
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566436"
+msgid "Antique Collector can't be blocked by creatures with power 2 or less."
+msgstr ""
+
+#. card_title
+msgctxt "566440"
+msgid "Garruk, Wrath of the Wilds"
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "566441"
+msgid ""
+"+1: Choose a creature card in your hand. It perpetually gets <nobr>+1/+1</"
+"nobr> and perpetually gains \"This spell costs |mana_1| less to cast.\""
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "566442"
+msgid ""
+"–1: Draft a card from Garruk, Wrath of the Wilds's spellbook and put it onto "
+"the battlefield."
+msgstr ""
+
+#. internal_ability, printed_ability, type_planeswalker
+msgctxt "566443"
+msgid ""
+"–5: Until end of turn, creatures you control get <nobr>+3/+3</nobr> and gain "
+"trample."
+msgstr ""
+
+#. card_title
+msgctxt "566444"
+msgid "Geistpack Alpha"
+msgstr ""
+
+#. internal_ability
+msgctxt "566445"
+msgid ""
+"When CARDNAME dies, seek a permanent card with mana value equal to the "
+"number of lands you control."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566446"
+msgid ""
+"When Geistpack Alpha dies, seek a permanent card with mana value equal to "
+"the number of lands you control."
+msgstr ""
+
+#. card_title
+msgctxt "566447"
+msgid "Grizzled Huntmaster"
+msgstr ""
+
+#. card_title
+msgctxt "566450"
+msgid "Hinterland Chef"
+msgstr ""
+
+#. internal_ability
+msgctxt "566451"
+msgid "|mana_2|, |tap|, Sacrifice this creature: You gain 3 life."
+msgstr ""
+
+#. internal_ability
+msgctxt "566452"
+msgid ""
+"When CARDNAME enters the battlefield, draft a card from Hinterland Chef's "
+"spellbook. It perpetually becomes a Food artifact in addition to its other "
+"types and perpetually gains \"|mana_2|, |tap|, Sacrifice this creature: You "
+"gain 3 life.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566453"
+msgid ""
+"When Hinterland Chef enters the battlefield, draft a card from Hinterland "
+"Chef's spellbook. It perpetually becomes a Food artifact in addition to its "
+"other types and perpetually gains \"|mana_2|, |tap|, Sacrifice this "
+"creature: You gain 3 life.\""
+msgstr ""
+
+#. card_title
+msgctxt "566454"
+msgid "Hollowhenge Wrangler"
+msgstr ""
+
+#. internal_ability
+msgctxt "566455"
+msgid "When CARDNAME enters the battlefield, seek a land card."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566456"
+msgid "When Hollowhenge Wrangler enters the battlefield, seek a land card."
+msgstr ""
+
+#. card_title
+msgctxt "566459"
+msgid "Ishkanah, Broodmother"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566460"
+msgid "Other Spiders you control get <nobr>+1/+2</nobr>."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566461"
+msgid ""
+"|mana_1|\\ |mana_bg|, Exile two cards from your graveyard: Draft a card from "
+"Ishkanah, Broodmother's spellbook."
+msgstr ""
+
+#. card_title
+msgctxt "566462"
+msgid "Lupine Harbingers"
+msgstr ""
+
+#. internal_ability
+msgctxt "566463"
+msgid ""
+"CARDNAME enters the battlefield with X <nobr>+1/+1</nobr> counters on it, "
+"where X is the number of turns you've begun since it was foretold."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566464"
+msgid ""
+"Lupine Harbingers enters the battlefield with X <nobr>+1/+1</nobr> counters "
+"on it, where X is the number of turns you've begun since it was foretold."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566465"
+msgid "Foretell |mana_4|\\ |mana_g|\\ |mana_g|"
+msgstr ""
+
+#. card_title
+msgctxt "566466"
+msgid "Ravenous Pursuit"
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "566467"
+msgid ""
+"Target creature you control deals damage equal to its power to target "
+"creature you don't control. Choose a creature card in your hand. It "
+"perpetually gets <nobr>+X/+X</nobr>, where X is the amount of excess damage "
+"dealt this way."
+msgstr ""
+
+#. card_title
+msgctxt "566468"
+msgid "Settle the Wilds"
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "566469"
+msgid ""
+"Seek a basic land card and put it onto the battlefield tapped. Then seek a "
+"permanent card with mana value equal to the number of lands you control."
+msgstr ""
+
+#. card_title
+msgctxt "566470"
+msgid "Tenacious Pup"
+msgstr ""
+
+#. internal_ability
+msgctxt "566471"
+msgid ""
+"When CARDNAME enters the battlefield, you gain 1 life. When you cast your "
+"next creature spell, that creature enters the battlefield with an additional "
+"<nobr>+1/+1</nobr> counter, trample counter, and vigilance counter on it."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566472"
+msgid ""
+"When Tenacious Pup enters the battlefield, you gain 1 life. When you cast "
+"your next creature spell, that creature enters the battlefield with an "
+"additional <nobr>+1/+1</nobr> counter, trample counter, and vigilance "
+"counter on it."
+msgstr ""
+
+#. card_title
+msgctxt "566473"
+msgid "Begin Anew"
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "566474"
+msgid ""
+"Destroy all creatures. Creature cards in your hand perpetually get <nobr>+1/"
+"+1</nobr>."
+msgstr ""
+
+#. card_title
+msgctxt "566475"
+msgid "Gitrog, Horror of Zhava"
+msgstr ""
+
+#. internal_ability
+msgctxt "566476"
+msgid ""
+"At the beginning of each combat, if CARDNAME is untapped, any opponent may "
+"sacrifice a creature. If they do, tap CARDNAME, then seek a land card and "
+"put it onto the battlefield tapped."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566477"
+msgid ""
+"At the beginning of each combat, if Gitrog, Horror of Zhava is untapped, any "
+"opponent may sacrifice a creature. If they do, tap Gitrog, Horror of Zhava, "
+"then seek a land card and put it onto the battlefield tapped."
+msgstr ""
+
+#. internal_ability
+msgctxt "566478"
+msgid "|mana_b|\\ |mana_g|, |tap|, Sacrifice this land: Draw a card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566479"
+msgid ""
+"Whenever a land enters the battlefield under your control, it perpetually "
+"gains \"|mana_b|\\ |mana_g|, |tap|, Sacrifice this land: Draw a card.\""
+msgstr ""
+
+#. card_title
+msgctxt "566480"
+msgid "Key to the Archive"
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "566481"
+msgid "Key to the Archive enters the battlefield tapped."
+msgstr ""
+
+#. internal_ability
+msgctxt "566482"
+msgid ""
+"When CARDNAME enters the battlefield, draft a card from Key to the Archive's "
+"spellbook, then discard a card."
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "566483"
+msgid ""
+"When Key to the Archive enters the battlefield, draft a card from Key to the "
+"Archive's spellbook, then discard a card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_artifact
+msgctxt "566484"
+msgid "|tap|: Add two mana in any combination of colors."
+msgstr ""
+
+#. card_title
+msgctxt "566485"
+msgid "Soulstealer Axe"
+msgstr ""
+
+#. card_title
+msgctxt "566487"
+msgid "Wickerwing Effigy"
+msgstr ""
+
+#. card_title
+msgctxt "566489"
+msgid "Ominous Traveler"
+msgstr ""
+
+#. internal_ability
+msgctxt "566490"
+msgid ""
+"When you cast this spell, return a creature named Ominous Traveler you "
+"control to its owner's hand."
+msgstr ""
+
+#. internal_ability
+msgctxt "566491"
+msgid ""
+"When CARDNAME enters the battlefield, draft a card from Ominous Traveler's "
+"spellbook. That card perpetually gains \"You may spend mana as though it "
+"were mana of any color to cast this spell\" and \"When you cast this spell, "
+"return a creature named Ominous Traveler you control to its owner's hand.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566492"
+msgid ""
+"When Ominous Traveler enters the battlefield, draft a card from Ominous "
+"Traveler's spellbook. That card perpetually gains \"You may spend mana as "
+"though it were mana of any color to cast this spell\" and \"When you cast "
+"this spell, return a creature named Ominous Traveler you control to its "
+"owner's hand.\""
+msgstr ""
+
+#. card_title
+msgctxt "566493"
+msgid "Forsaken Crossroads"
+msgstr ""
+
+#. printed_ability, type_land
+msgctxt "566494"
+msgid "Forsaken Crossroads enters the battlefield tapped."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566498"
+msgid ""
+"Choose an instant or sorcery card in your hand with mana value 3 or greater."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566499"
+msgid "Seek a card with mana value equal to the number of cards in your hand."
+msgstr ""
+
+#. internal_ability
+msgctxt "566501"
+msgid ""
+"When the chosen permanent is put into a graveyard from the battlefield, "
+"conjure a card named Predatory Sludge into your hand."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566503"
+msgid "Choose an instant or sorcery card in your hand."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566505"
+msgid "Target a land you don't control."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566506"
+msgid ""
+"Seek a permanent card with mana value equal to the number of lands you "
+"control."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566507"
+msgid "Seek a land card."
+msgstr ""
+
+#. internal_ability
+msgctxt "566508"
+msgid ""
+"When you cast your next creature spell, that creature enters the battlefield "
+"with an additional <nobr>+1/+1</nobr> counter, trample counter, and "
+"vigilance counter on it."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566510"
+msgid ""
+"Return a creature named Ominous Traveler you control to its owner's hand."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566511"
+msgid "Seek three nonland cards."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566512"
+msgid "Choose a permanent you don't control."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566513"
+msgid "Seek a card with mana value equal to that damage."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566514"
+msgid "Seek a basic land card."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566515"
+msgid "Choose a party creature card in your hand."
+msgstr ""
+
 #. internal_ability, printed_ability, type_planeswalker
 msgctxt "566516"
 msgid ""
@@ -155494,6 +156830,1535 @@ msgstr ""
 #. maybe_hidden
 msgctxt "566764"
 msgid "Suspect"
+msgstr ""
+
+#. flavor_text
+msgctxt "566765"
+msgid ""
+"<i>\"The Captain's seen it all. Most of it bad.\"\n"
+"—</i>Lieutenant Traken<i></i>"
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "566766"
+msgid ""
+"Draw two cards. Then you may exile an instant or sorcery card from your "
+"hand. If you do, search your hand and library for any number of cards with "
+"the same name, exile them, then shuffle. Seek an instant or sorcery card for "
+"each card exiled from your hand this way."
+msgstr ""
+
+#. internal_ability
+msgctxt "566767"
+msgid ""
+"When CARDNAME enters the battlefield, conjure a duplicate of a random "
+"creature card from your opponent's library into your hand. It perpetually "
+"gains \"You may spend mana as though it were mana of any color to cast this "
+"spell.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566768"
+msgid ""
+"When Clone Crafter enters the battlefield, conjure a duplicate of a random "
+"creature card from your opponent's library into your hand. It perpetually "
+"gains \"You may spend mana as though it were mana of any color to cast this "
+"spell.\""
+msgstr ""
+
+#. internal_ability
+msgctxt "566769"
+msgid ""
+"When CARDNAME enters the battlefield, put a random instant card from your "
+"library into your graveyard. Then put a random sorcery card from your "
+"library into your graveyard."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566770"
+msgid ""
+"When Geist of Regret enters the battlefield, put a random instant card from "
+"your library into your graveyard. Then put a random sorcery card from your "
+"library into your graveyard."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566771"
+msgid ""
+"Whenever you cast an instant or sorcery spell from your graveyard, copy that "
+"spell. You may choose new targets for the copy."
+msgstr ""
+
+#. flavor_text
+msgctxt "566772"
+msgid ""
+"<i>\"Carefully, Oglor. I'd prefer not to waste time reviving you again.\"\n"
+"—</i>Ludevic, <nobr>necro-alchemist</nobr><i></i>"
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "566773"
+msgid ""
+"Conjure a duplicate of each of up to two target nontoken creatures you "
+"control into your hand."
+msgstr ""
+
+#. internal_ability
+msgctxt "566774"
+msgid ""
+"|mana_3|\\ |mana_b|, Exile this card from your graveyard: Shuffle it into "
+"your library. Create a token that's a copy of it, except it's a 4/4 black "
+"Zombie in addition to its other types. Activate only as a sorcery."
+msgstr ""
+
+#. internal_ability, printed_ability, type_instant
+msgctxt "566775"
+msgid ""
+"Target creature card in your graveyard perpetually gains \"|mana_3|\\ |"
+"mana_b|, Exile this card from your graveyard: Shuffle it into your library. "
+"Create a token that's a copy of it, except it's a 4/4 black Zombie in "
+"addition to its other types. Activate only as a sorcery.\""
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "566776"
+msgid ""
+"Target player reveals all cards with mana value 2 or greater in their hand. "
+"You choose a card from among those cards. Exile that card. If a card was "
+"exiled this way, that player drafts a card from Break Expectations's "
+"spellbook and reveals it."
+msgstr ""
+
+#. flavor_text
+msgctxt "566777"
+msgid ""
+"<i>For the right price, he's willing to serve. Just don't talk to him about "
+"tea.</i>"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "566778"
+msgid ""
+"At the beginning of your end step, exile up to one target creature card from "
+"your graveyard. If you do, seek a creature card with mana value equal to the "
+"mana value of that card plus one. That card perpetually gains menace."
+msgstr ""
+
+#. internal_ability
+msgctxt "566779"
+msgid ""
+"CARDNAME deals 2 damage to any target. When you cast your next instant or "
+"sorcery spell, exile the top three cards of your library. You may play one "
+"of those cards until end of turn."
+msgstr ""
+
+#. printed_ability, type_instant
+msgctxt "566780"
+msgid ""
+"Electrostatic Blast deals 2 damage to any target. When you cast your next "
+"instant or sorcery spell, exile the top three cards of your library. You may "
+"play one of those cards until end of turn."
+msgstr ""
+
+#. flavor_text
+msgctxt "566781"
+msgid "<i>\"The coin is good...\"</i>"
+msgstr ""
+
+#. flavor_text
+msgctxt "566782"
+msgid "<i>\"But the hunt is better.\"</i>"
+msgstr ""
+
+#. internal_ability
+msgctxt "566783"
+msgid ""
+"At the beginning of your upkeep, this permanent deals 2 damage to you unless "
+"you sacrifice it."
+msgstr ""
+
+#. internal_ability
+msgctxt "566784"
+msgid ""
+"When CARDNAME enters the battlefield, target land you don't control loses "
+"all abilities except mana abilities and gains \"At the beginning of your "
+"upkeep, this permanent deals 2 damage to you unless you sacrifice it.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566785"
+msgid ""
+"When <nobr>Town-razer</nobr> Tyrant enters the battlefield, target land you "
+"don't control loses all abilities except mana abilities and gains \"At the "
+"beginning of your upkeep, this permanent deals 2 damage to you unless you "
+"sacrifice it.\""
+msgstr ""
+
+#. internal_ability
+msgctxt "566786"
+msgid ""
+"When this creature dies, you may shuffle it into its owner's library if it's "
+"in your graveyard. If you do, investigate."
+msgstr ""
+
+#. internal_ability
+msgctxt "566787"
+msgid ""
+"When CARDNAME enters the battlefield, creatures you control perpetually gain "
+"\"When this creature dies, you may shuffle it into its owner's library if "
+"it's in your graveyard. If you do, investigate.\""
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566788"
+msgid ""
+"When Antique Collector enters the battlefield, creatures you control "
+"perpetually gain \"When this creature dies, you may shuffle it into its "
+"owner's library if it's in your graveyard. If you do, investigate.\""
+msgstr ""
+
+#. internal_ability
+msgctxt "566789"
+msgid ""
+"When CARDNAME enters the battlefield, you may exile a creature card from "
+"your hand. If you do, search your hand and library for any number of cards "
+"with the same name, exile them, then shuffle. Choose a creature card you own "
+"from outside the game. Conjure a duplicate of that card into your hand for "
+"each card exiled from your hand this way."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566790"
+msgid ""
+"When Grizzled Huntmaster enters the battlefield, you may exile a creature "
+"card from your hand. If you do, search your hand and library for any number "
+"of cards with the same name, exile them, then shuffle. Choose a creature "
+"card you own from outside the game. Conjure a duplicate of that card into "
+"your hand for each card exiled from your hand this way."
+msgstr ""
+
+#. internal_ability
+msgctxt "566791"
+msgid ""
+"Discard a land card: Conjure a card named Hollowhenge Beast into your hand. "
+"You may also activate this ability while CARDNAME is in your graveyard."
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "566792"
+msgid ""
+"Discard a land card: Conjure a card named Hollowhenge Beast into your hand. "
+"You may also activate this ability while Hollowhenge Wrangler is in your "
+"graveyard."
+msgstr ""
+
+#. flavor_text
+msgctxt "566793"
+msgid ""
+"<i>As werewolves, vampires, and humans contend for power, Ishkanah builds "
+"her own army in the shadows.</i>"
+msgstr ""
+
+#. internal_ability, printed_ability, type_artifact
+msgctxt "566794"
+msgid ""
+"Whenever equipped creature deals combat damage to a player, seek a card with "
+"mana value equal to that damage."
+msgstr ""
+
+#. printed_ability, type_land
+msgctxt "566795"
+msgid "As Forsaken Crossroads enters the battlefield, choose a color."
+msgstr ""
+
+#. internal_ability
+msgctxt "566796"
+msgid ""
+"When CARDNAME enters the battlefield, scry 1. If you weren't the starting "
+"player, you may untap CARDNAME instead."
+msgstr ""
+
+#. printed_ability, type_land
+msgctxt "566797"
+msgid ""
+"When Forsaken Crossroads enters the battlefield, scry 1. If you weren't the "
+"starting player, you may untap Forsaken Crossroads instead."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566798"
+msgid "Choose a random creature card."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566800"
+msgid "Target up to two nontoken creatures you control."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566801"
+msgid "Choose another player."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566802"
+msgid ""
+"Seek a creature card with mana value equal to the mana value of that card "
+"plus one."
+msgstr ""
+
+#. internal_ability
+msgctxt "566803"
+msgid ""
+"When you cast your next instant or sorcery spell, exile the top three cards "
+"of your library. You may play one of those cards until end of turn."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566804"
+msgid "Search for any number of cards with the same name."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "566805"
+msgid "Seek two creature cards with mana value 3 or less."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "567008"
+msgid "Seek an instant or sorcery card."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "567964"
+msgid "PlaceholderSubType406"
+msgstr ""
+
+#. internal_ability
+msgctxt "567966"
+msgid "Discard that card at the beginning of the next end step."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "567969"
+msgid ""
+"Seek {2, plural, =1 {{2, Number} instant or sorcery card} other {{2, Number} "
+"instant or sorcery cards}}."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "568053"
+msgid "Seek a card with the same mana value as that spell."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "568055"
+msgid "Draft a card."
+msgstr ""
+
+#. internal_ability, printed_ability, type_artifact, type_creature
+msgctxt "568056"
+msgid ""
+"Whenever you cast a creature spell from your library, it becomes a black "
+"Bird in addition to its other colors and types, has flying, and has base "
+"power and toughness 1/1."
+msgstr ""
+
+#. internal_ability
+msgctxt "568193"
+msgid ""
+"When you cast your next Wolf or Werewolf spell, it gains \"When this "
+"creature enters the battlefield, it fights up to one target creature you "
+"don't control.\""
+msgstr ""
+
+#. card_title
+msgctxt "569093"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Alrund's Epiphany"
+msgstr ""
+
+#. internal_ability
+msgctxt "569094"
+msgid ""
+"Take an extra turn after this one. If this spell was foretold, create two "
+"1/1 blue Bird creature tokens with flying. Exile CARDNAME."
+msgstr ""
+
+#. printed_ability, type_sorcery
+msgctxt "569095"
+msgid ""
+"Take an extra turn after this one. If this spell was foretold, create two "
+"1/1 blue Bird creature tokens with flying. Exile Alrund's Epiphany."
+msgstr ""
+
+#. internal_ability, printed_ability, type_sorcery
+msgctxt "569096"
+msgid "Foretell |mana_5|\\ |mana_u|\\ |mana_u|"
+msgstr ""
+
+#. card_title
+msgctxt "569097"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Goldspan Dragon"
+msgstr ""
+
+#. printed_ability, type_creature
+msgctxt "569098"
+msgid "Whenever Goldspan Dragon attacks, create a Treasure token."
+msgstr ""
+
+#. card_title
+msgctxt "569099"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Esika's Chariot"
+msgstr ""
+
+#. internal_ability
+msgctxt "569100"
+msgid ""
+"When CARDNAME enters the battlefield, create a 2/2 green Cat creature token."
+msgstr ""
+
+#. printed_ability, type_artifact
+msgctxt "569101"
+msgid ""
+"When Esika's Chariot enters the battlefield, create a 2/2 green Cat creature "
+"token."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569102"
+msgid "Put a random instant card into your graveyard."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569103"
+msgid "Put a random sorcery card into your graveyard."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569104"
+msgid "Exile this card."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569105"
+msgid "Discard a card with the greatest mana value among cards in your hand."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569106"
+msgid "Exile a nonland card from their library at random."
+msgstr ""
+
+#. card_title
+msgctxt "569107"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Demilich"
+msgstr ""
+
+#. card_title
+msgctxt "569108"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Wizard Class"
+msgstr ""
+
+#. internal_ability, printed_ability, type_enchantment
+msgctxt "569109"
+msgid "|mana_2|\\ |mana_u|: Level 3"
+msgstr ""
+
+#. card_title
+msgctxt "569110"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Druid Class"
+msgstr ""
+
+#. internal_ability, printed_ability, type_enchantment
+msgctxt "569111"
+msgid "|mana_2|\\ |mana_g|: Level 3"
+msgstr ""
+
+#. card_title
+msgctxt "569113"
+msgid ""
+"<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Phylath, World Sculptor"
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "569114"
+msgid ""
+"<i>Landfall</i><nobr> —</nobr> Whenever a land enters the battlefield under "
+"your control, put four <nobr>+1/+1</nobr> counters on target Plant you "
+"control. It gains trample until end of turn."
+msgstr ""
+
+#. card_title
+msgctxt "569116"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Cosmos Elixir"
+msgstr ""
+
+#. internal_ability, printed_ability, type_artifact
+msgctxt "569117"
+msgid ""
+"At the beginning of your end step, draw a card if your life total is greater "
+"than your starting life total. Otherwise, you gain 2 life and scry 1."
+msgstr ""
+
+#. card_title
+msgctxt "569118"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Faceless Haven"
+msgstr ""
+
+#. internal_ability
+msgctxt "569119"
+msgid ""
+"|mana_s|\\ |mana_s|\\ |mana_s|: CARDNAME becomes a 3/3 creature with "
+"vigilance and all creature types until end of turn. It's still a land."
+msgstr ""
+
+#. printed_ability, type_land
+msgctxt "569120"
+msgid ""
+"|mana_s|\\ |mana_s|\\ |mana_s|: Faceless Haven becomes a 3/3 creature with "
+"vigilance and all creature types until end of turn. It's still a land."
+msgstr ""
+
+#. internal_ability, printed_ability, type_creature
+msgctxt "569121"
+msgid ""
+"At the beginning of your end step, put a <nobr>+1/+1</nobr> counter on "
+"target creature you control."
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569856"
+msgid "Soldier Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569857"
+msgid "Beast Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569858"
+msgid "Wurm Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569859"
+msgid "Saproling Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569860"
+msgid "Zombie Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "569865"
+msgid "Spirit Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570421"
+msgid "Devil Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570424"
+msgid "Clue Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570431"
+msgid "Human Cleric Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570470"
+msgid "Insect Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570471"
+msgid "Wolf Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570482"
+msgid "Human Soldier Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570585"
+msgid "Human Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570944"
+msgid "Servo Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570976"
+msgid "Construct Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "570995"
+msgid "Thopter Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571486"
+msgid "Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571494"
+msgid "Drake Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571522"
+msgid "Hippo Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571691"
+msgid "Horse Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571956"
+msgid "Treasure Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571963"
+msgid "Vampire Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571967"
+msgid "Illusion Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "571974"
+msgid "Pirate Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572192"
+msgid "Elemental Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572464"
+msgid "Knight Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572467"
+msgid "Nightmare Horror Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572479"
+msgid "Goblin Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572609"
+msgid "Avatar Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572610"
+msgid "Angel Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "572892"
+msgid "Elf Knight Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573176"
+msgid "Zombie Army Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573201"
+msgid "Wizard Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573222"
+msgid "Dragon Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573228"
+msgid "Citizen Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573512"
+msgid "Human Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573513"
+msgid "Food Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573575"
+msgid "Human Rogue Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573577"
+msgid "Dwarf Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573876"
+msgid "Kraken Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573898"
+msgid "Gold Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "573902"
+msgid "Nightmare Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574174"
+msgid "Cat Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574181"
+msgid "Shark Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574205"
+msgid "Dinosaur Beast Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574213"
+msgid "Rhino Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574416"
+msgid "Demon Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574791"
+msgid "Goblin Construct Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "574797"
+msgid "Kor Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575221"
+msgid "Shard Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575236"
+msgid "Angel Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575238"
+msgid "Bird Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575259"
+msgid "Dwarf Berserker Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575264"
+msgid "Elf Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575268"
+msgid "Troll Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575273"
+msgid "Shapeshifter Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575642"
+msgid "Fractal Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575658"
+msgid "Pest Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575691"
+msgid "Inkling Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "575770"
+msgid "Squirrel Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576183"
+msgid "Faerie Dragon Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576220"
+msgid "Dog Illusion Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576230"
+msgid "Spider Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576253"
+msgid "Skeleton Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576417"
+msgid "Centaur Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576551"
+msgid "Snake Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "576858"
+msgid "Ooze Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577094"
+msgid "Blood Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577220"
+msgid "Giant Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577348"
+msgid "Phyrexian Germ Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577351"
+msgid "Myr Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577480"
+msgid "Elephant Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577691"
+msgid "Cat Beast Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577692"
+msgid "Plant Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "577693"
+msgid "Hydra Token"
+msgstr ""
+
+#. card_title
+msgctxt "577694"
+msgid "<sprite=\"SpriteSheet_MiscIcons\" name=\"arena_a\">Luminarch Aspirant"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "578649"
+msgid "Merfolk Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "578651"
+msgid "Dinosaur Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "579324"
+msgid "Golem Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "580243"
+msgid "Cleric Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "580244"
+msgid "Zombie Knight Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581075"
+msgid "Ox Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581076"
+msgid "Bat Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581923"
+msgid "Boros Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581926"
+msgid "Boros Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581929"
+msgid "Dimir Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581932"
+msgid "Dimir Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581939"
+msgid "Golgari Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581942"
+msgid "Golgari Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581947"
+msgid "Izzet Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581950"
+msgid "Izzet Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581962"
+msgid "Selesnya Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "581965"
+msgid "Selesnya Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582004"
+msgid "Bird Illusion Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582881"
+msgid "Azorius Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582884"
+msgid "Azorius Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582899"
+msgid "Gruul Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582902"
+msgid "Gruul Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582908"
+msgid "Orzhov Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582911"
+msgid "Orzhov Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582918"
+msgid "Rakdos Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582921"
+msgid "Rakdos Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582924"
+msgid "Simic Guildgate (a)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582927"
+msgid "Simic Guildgate (b)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582969"
+msgid "Frog Lizard Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "582971"
+msgid "Sphinx Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "583823"
+msgid "Wall Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "583825"
+msgid "Assassin Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "583827"
+msgid "Zombie Warrior Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "584707"
+msgid "Elemental Bird Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "584712"
+msgid "Phyrexian Golem Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "585662"
+msgid "Goat Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "585663"
+msgid "Mouse Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "585664"
+msgid "Faerie Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "585665"
+msgid "Rat Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "585667"
+msgid "Bear Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "585668"
+msgid "Boar Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "586675"
+msgid "Pegasus Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "586677"
+msgid "Reflection Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "586678"
+msgid "Tentacle Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "586679"
+msgid "Satyr Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "586689"
+msgid "Mysterious Egg (alt)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "587535"
+msgid "Cat Bird Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "587760"
+msgid "Teferi, Master of Time 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "587761"
+msgid "Teferi, Master of Time 3"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "587762"
+msgid "Teferi, Master of Time 4"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "588324"
+msgid "Griffin Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "588325"
+msgid "Goblin Wizard Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "588326"
+msgid "Weird Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "588327"
+msgid "Dog Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589375"
+msgid "Legion Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589376"
+msgid "Doctor Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589377"
+msgid "Angels Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589378"
+msgid "Unicorns Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589379"
+msgid "Enchanted Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589380"
+msgid "Heavily Armed Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589381"
+msgid "Feathered Friends Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589382"
+msgid "Dogs Plains"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589383"
+msgid "Under the Sea Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589384"
+msgid "Wizards Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589385"
+msgid "Above the Clouds Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589386"
+msgid "Archaeology Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589387"
+msgid "Milling Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589388"
+msgid "Spirits Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589389"
+msgid "Pirates Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589390"
+msgid "<nobr>Well-Read</nobr> Island"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589391"
+msgid "Minions Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589392"
+msgid "Discard Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589393"
+msgid "Reanimated Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589394"
+msgid "Rogues Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589395"
+msgid "Phyrexian Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589396"
+msgid "Witchcraft Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589397"
+msgid "Vampires Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589398"
+msgid "Spooky Swamp"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589399"
+msgid "Dragons Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589400"
+msgid "Devilish Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589401"
+msgid "Seismic Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589402"
+msgid "Goblins Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589403"
+msgid "Spellcasting Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589404"
+msgid "Smashing Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589405"
+msgid "Lightning Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589406"
+msgid "Minotaurs Mountain"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589407"
+msgid "Tree Hugging Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589408"
+msgid "Lands Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589409"
+msgid "Plus One Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589410"
+msgid "Dinosaurs Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589411"
+msgid "Cats Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589412"
+msgid "Walls Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589413"
+msgid "Time to Feed Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589414"
+msgid "Elves Forest"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589416"
+msgid "Rainbow Terramorphic Expanse"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589420"
+msgid "Unicorn Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589421"
+msgid "Minotaur Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "589445"
+msgid "Phyrexian Myr Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "590571"
+msgid "Giant Wizard Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "590573"
+msgid "Zombie Berserker Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "590574"
+msgid "Demon Berserker Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591672"
+msgid "Crab Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591673"
+msgid "Plains 1"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591674"
+msgid "Plains 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591675"
+msgid "Plains - Dracula Lands SLD"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591676"
+msgid "Island 1"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591677"
+msgid "Island 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591678"
+msgid "Island - Dracula Lands SLD"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591679"
+msgid "Swamp 1"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591680"
+msgid "Swamp 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591681"
+msgid "Swamp - Dracula Lands SLD"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591682"
+msgid "Mountain 1"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591683"
+msgid "Mountain 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591684"
+msgid "Mountain - Dracula Lands SLD"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591685"
+msgid "Forest 1"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591686"
+msgid "Forest 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591687"
+msgid "Forest - Dracula Lands SLD"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591688"
+msgid "Thalia, Guardian of Thraben 1"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591690"
+msgid "Thalia, Guardian of Thraben 4"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591692"
+msgid "Thalia, Guardian of Thraben 3"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591694"
+msgid "Thalia, Guardian of Thraben 2"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591705"
+msgid "Mulldrifter (Young Artist)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591707"
+msgid "Craterhoof Behemoth (Young Artist)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "591709"
+msgid "Metalwork Colossus (Young Artist)"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "592793"
+msgid "Treefolk Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "593940"
+msgid "Spirit Cleric Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "593941"
+msgid "Slug Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "593943"
+msgid "Dragon Illusion Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "594446"
+msgid "Eldrazi Scion Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "594447"
+msgid "Sliver Token"
+msgstr ""
+
+#. maybe_hidden
+msgctxt "594449"
+msgid "Djinn Monk Token"
 msgstr ""
 
 #. maybe_hidden

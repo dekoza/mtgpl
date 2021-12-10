@@ -97,6 +97,16 @@ msgctxt "DuelScene/Browsers/BrowserSubheader_DragToGraveyard"
 msgid "Drag a card into your graveyard."
 msgstr "Przeciągaj karty by je uszeregować."
 
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/Surveil_Browser_Subtitle"
+#| msgid ""
+#| "Drag cards to put them on the top of your library or into your graveyard."
+msgctxt "DuelScene/Browsers/BrowserSubheader_DragToLibraryOrGraveyard"
+msgid "Drag the card to put it on top of your library or into your graveyard."
+msgstr ""
+"Przeciągnij karty by umieścić je na wierzchu twojej biblioteki lub w twoim "
+"cmentarzu."
+
 msgctxt "DuelScene/Browsers/Card_Text"
 msgid "{numCards} Card"
 msgstr "{numCards} karta"
@@ -104,6 +114,13 @@ msgstr "{numCards} karta"
 msgctxt "DuelScene/Browsers/Cards_Text"
 msgid "{numCards} Cards"
 msgstr "{numCards} kart(y)"
+
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/Select_Deck"
+#| msgid "Choose a Deck"
+msgctxt "DuelScene/Browsers/Choose_A_Dungeon"
+msgid "Choose a Dungeon"
+msgstr "Wybierz talię"
 
 msgctxt "DuelScene/Browsers/Choose_Color"
 msgid "Choose Color"
@@ -758,6 +775,13 @@ msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_CancelAttack"
 msgid "Cancel Attacks"
 msgstr "Anuluj ataki"
 
+#, fuzzy
+#| msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_CancelAttack"
+#| msgid "Cancel Attacks"
+msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_CancelBlock"
+msgid "Cancel Blocks"
+msgstr "Anuluj ataki"
+
 msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_Confirm_Action"
 msgid "Confirm {[InputInteraction]}?"
 msgstr "Potwierdzić {[InputInteraction]}?"
@@ -1257,6 +1281,10 @@ msgctxt "DuelScene/FaceHanger/CardName"
 msgid "{cardName}"
 msgstr "{cardName}"
 
+msgctxt "DuelScene/FaceHanger/Conjure"
+msgid "Conjures"
+msgstr ""
+
 msgctxt "DuelScene/FaceHanger/DFC_Back_TransformsInto"
 msgid "Transforms Into"
 msgstr "Transformuje w"
@@ -1264,6 +1292,10 @@ msgstr "Transformuje w"
 msgctxt "DuelScene/FaceHanger/DFC_Front_TransformedFrom"
 msgid "Transformed From"
 msgstr "Transformowane z"
+
+msgctxt "DuelScene/FaceHanger/Dungeon"
+msgid "Dungeon"
+msgstr ""
 
 msgctxt "DuelScene/FaceHanger/FrontSide"
 msgid "Front Side"
@@ -1306,6 +1338,10 @@ msgstr "Ujawnione karty"
 msgctxt "DuelScene/FaceHanger/RelatedCard"
 msgid "Related Card"
 msgstr "Ujawnione karty"
+
+msgctxt "DuelScene/FaceHanger/Spellbook"
+msgid "Spellbook"
+msgstr ""
 
 msgctxt "DuelScene/FaceHanger/Token"
 msgid "Creates Token"
@@ -1608,6 +1644,14 @@ msgctxt "DuelScene/Prompt/ManaRider/SpendOnly"
 msgid "Spend only on"
 msgstr "Wydaj tylko na"
 
+msgctxt "DuelScene/RuleText/AbilityStacking"
+msgid "{abilityText}<nobr> (x{count})</nobr>"
+msgstr ""
+
+msgctxt "DuelScene/RuleText/CantBeBlockedByColorCreaturesThisTurn"
+msgid "Can't be blocked by {color} creatures this turn."
+msgstr ""
+
 msgctxt "DuelScene/RuleText/CastAsType"
 msgid "Cast as {type}"
 msgstr "Rzucone jako {type}"
@@ -1639,6 +1683,17 @@ msgstr "Twój limit kart na ręce wynosi {count}."
 msgctxt "DuelScene/RuleText/NoMaximumHandSize"
 msgid "You have no maximum hand size."
 msgstr "Nie masz limitu kart na ręce."
+
+msgctxt "DuelScene/RuleText/PendingEffect_InspiredIdea"
+msgid "Maximum hand size reduced by three."
+msgstr ""
+
+#, fuzzy
+#| msgctxt "DuelScene/Browsers/OrderRequest_Generic_SubHeader"
+#| msgid "Drag cards to order them."
+msgctxt "DuelScene/RuleText/PlayCardFromSideboard"
+msgid "Play a card from your sideboard."
+msgstr "Przeciągaj karty by je uszeregować."
 
 msgctxt "DuelScene/RuleText/PredictedDamage"
 msgid "{value} Damage"

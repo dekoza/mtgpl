@@ -367,6 +367,14 @@ msgstr ""
 "jako swojego kompana. Raz na grę możesz zapłacić {o3} w trybie obrzędu, by "
 "umieścić wybranego kompana w twojej ręce."
 
+msgctxt "AbilityHanger/Keyword/Accept_Body"
+msgid "Choose one of three random offers, then one of three random conditions."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Accept_Title"
+msgid "Accept"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Adapt"
 msgid ""
 "If this creature has no +1/+1 counters on it, put that many +1/+1 counters "
@@ -590,6 +598,14 @@ msgstr ""
 "Możesz rzucić ten czar za jego koszt przeciążenia. Jeśli tak zrobisz, zmień "
 "jego tekst zastępując wszystkie wystąpienia słowa \"wskazany\" słowem "
 "\"każdy.\""
+
+msgctxt "AbilityHanger/Keyword/Conjure_Body"
+msgid "A conjured card is added to the game."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Conjure_Title"
+msgid "Conjure"
+msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Convoke"
 msgid ""
@@ -859,6 +875,16 @@ msgid ""
 msgstr ""
 "Ten stwór zadaje obrażenia bojowe zarówno w pierwszym ciosie jak i "
 "normalnie. (Nie działa gdy stwory \"walczą\")"
+
+msgctxt "AbilityHanger/Keyword/DraftFromSpellbook_Body"
+msgid ""
+"To draft from a spellbook select one of three random cards from this card's "
+"spellbook to add to your hand."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/DraftFromSpellbook_Title"
+msgid "Draft from a Spellbook"
+msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Echo_Body"
 msgid ""
@@ -1360,6 +1386,15 @@ msgstr ""
 "jego tekst zastępując wszystkie wystąpienia słowa \"wskazany\" słowem "
 "\"każdy.\""
 
+msgctxt "AbilityHanger/Keyword/Perpetual_Body"
+msgid ""
+"Perpetual effects and counters are not removed from cards that change zones."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Perpetual_Title"
+msgid "Perpetual"
+msgstr ""
+
 #, fuzzy
 #| msgctxt "AbilityHanger/Keyword/Adapt"
 #| msgid ""
@@ -1821,6 +1856,14 @@ msgctxt "AbilityHanger/Keyword/ScryX_Title"
 msgid "Scry X"
 msgstr "Wróż X"
 
+msgctxt "AbilityHanger/Keyword/Seek_Body"
+msgid "To seek a card, put one at random from your library into your hand."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Seek_Title"
+msgid "Seek"
+msgstr ""
+
 #, fuzzy
 #| msgctxt "AbilityHanger/Keyword/Hexproof"
 #| msgid ""
@@ -1973,6 +2016,17 @@ msgid ""
 msgstr ""
 "Jeśli ten stwór nie ma znacznika +1/+1, umieść na nim tyle znaczników +1/+1."
 
+msgctxt "AbilityHanger/Keyword/Unearth_Body"
+msgid ""
+"{abilityCost}: Return this card from your graveyard to the battlefield. It "
+"gains haste. Exile it at the beginning of the next end step or if it would "
+"leave the battlefield. Unearth only as a sorcery."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Unearth_Title"
+msgid "Unearth"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/VentureIntoTheDungeon"
 msgid ""
 "Enter the first room of a dungeon. If already in a dungeon advance to the "
@@ -2008,6 +2062,38 @@ msgstr "Kopia [OVERLAYCARDNAME] do [PROMPTID]."
 msgctxt "AbilityHanger/LayeredEffect/Body_CopyObject_NOPROMPT"
 msgid "Copy of [OVERLAYCARDNAME]."
 msgstr "Kopia [OVERLAYCARDNAME]."
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/"
+"PerpetualPowerToughness_Body_ModPowerToughnessNegative"
+msgid "-{power}/-{toughness}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/"
+"PerpetualPowerToughness_Body_ModPowerToughnessPositive"
+msgid "+{power}/+{toughness}"
+msgstr ""
+
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetPower"
+msgid "Base power set to {power}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetPowerToughness"
+msgid "Base power/toughness set to {power}/{toughness}"
+msgstr ""
+
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetToughness"
+msgid "Base toughness set to {toughness}"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "AbilityHanger/SpecialHangers/PowerToughnessInverted_Title"
+#| msgid "Power & Toughness Inverted"
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Title"
+msgid "Perpetual Power and Toughness Changes"
+msgstr "Zamiana siły i wytrzymałości"
 
 msgctxt "AbilityHanger/LayeredEffect/Type_CopyObject"
 msgid "Temporary Copy"
@@ -2105,6 +2191,10 @@ msgstr ""
 "Masz już kopię tej legendy w grze. Zagranie tej wymusi wybór, którą z nich "
 "zachować."
 
+msgctxt "AbilityHanger/PlayWarning/Body_StartingPlayer"
+msgid "You were the starting player."
+msgstr ""
+
 msgctxt "AbilityHanger/PlayWarning/Body_Undefined"
 msgid "Playing this card right now may not be the best choice."
 msgstr "Zagranie tej karty w tym momencie może nie być najlepszym wyborem."
@@ -2146,6 +2236,13 @@ msgstr "Wchodzi przekręcony"
 msgctxt "AbilityHanger/PlayWarning/Header_Legendary"
 msgid "Duplicate Legendary"
 msgstr "Duplikat legendarnego"
+
+#, fuzzy
+#| msgctxt "AbilityHanger/PlayWarning/Header_EntersTapped"
+#| msgid "Enters Tapped"
+msgctxt "AbilityHanger/PlayWarning/Header_StartingPlayer"
+msgid "Enters Tapped"
+msgstr "Wchodzi przekręcony"
 
 msgctxt "AbilityHanger/PlayWarning/Header_Undefined"
 msgid "Warning"
@@ -2450,6 +2547,16 @@ msgctxt "AbilityHanger/SpecialHangers/TokenAffinity_Header"
 msgid "Affinity for Tokens"
 msgstr "Koligacja z artefaktami"
 
+msgctxt "AbilityHanger/SpecialHangers/CardStyle/Body"
+msgid ""
+"Card styles are cosmetic changes to cards that can change the art, frame, "
+"and more."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/CardStyle/Header"
+msgid "Card Style"
+msgstr ""
+
 msgctxt "AbilityHanger/SpecialHangers/Controller/Header"
 msgid "Controller"
 msgstr "Władca"
@@ -2457,6 +2564,10 @@ msgstr "Władca"
 msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Body"
 msgid "Artifacts, legendaries, and Sagas are historic."
 msgstr "Artefakty, legendy i Sagi są historyczne."
+
+msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Header"
+msgid "Historic"
+msgstr "Historyczny"
 
 msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Private_Body"
 msgid "Only you can see this card. It's hidden to your opponent."
@@ -2485,6 +2596,26 @@ msgstr ""
 msgctxt "AbilityHanger/SpecialHangers/LegendarySorcery/Header"
 msgid "Legendary Sorcery"
 msgstr "Legendarny obrzęd"
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body"
+msgid "Right-click for more information."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_Craftable"
+msgid "Right-click for more information and crafting options."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_DeckBuilder"
+msgid "Right-click for more information and crafting options."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_DuelScene"
+msgid "Right-click for more information."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_Examine"
+msgid "Right-click {cardName} to view another related card or token."
+msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/NPE/ExplainPower"
 msgid "Damage dealt when attacking or blocking."
@@ -2737,10 +2868,6 @@ msgstr "Typ"
 #~ msgctxt "AbilityHanger/SpecialHangers/Party_Title"
 #~ msgid "Party"
 #~ msgstr "Drużyna"
-
-#~ msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Header"
-#~ msgid "Historic"
-#~ msgstr "Historyczny"
 
 #~ msgctxt "AbilityHanger/Keyword/ProtectionFromOddText"
 #~ msgid "Protection from odd converted mana costs."
