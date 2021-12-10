@@ -1073,6 +1073,38 @@ msgctxt "EPP/RewardWeb/SuggestPick"
 msgid "Suggest Pick"
 msgstr ""
 
+msgctxt "EPP/Sparky/challengesDone_01"
+msgid "Wow, you've beaten all of the Color Challenges."
+msgstr ""
+
+msgctxt "EPP/Sparky/challengesDone_02"
+msgid "I knew you could do it!"
+msgstr ""
+
+msgctxt "EPP/Sparky/challengesDone_03"
+msgid "And now, a new quest has appeared."
+msgstr ""
+
+msgctxt "EPP/Sparky/challengesDone_04"
+msgid "With new decks as rewards."
+msgstr ""
+
+msgctxt "EPP/Sparky/challengesDone_05"
+msgid "You can earn ten new decks by completing it."
+msgstr ""
+
+msgctxt "EPP/Sparky/colorChallengeIntro_01"
+msgid "You'll upgrade your decks by beating Color Challenges."
+msgstr ""
+
+msgctxt "EPP/Sparky/colorChallengeIntro_02"
+msgid "You're well on your way to being a great planeswalker."
+msgstr ""
+
+msgctxt "EPP/Sparky/colorChallengeIntro_03"
+msgid "So, what's next?"
+msgstr ""
+
 msgctxt "EPP/Sparky/firstcolorchoice_157"
 msgid "But which path to choose? "
 msgstr ""
@@ -1142,6 +1174,18 @@ msgctxt "EPP/Sparky/momentofgraduation_164"
 msgid "You made it! You're quite the formidable opponent!"
 msgstr ""
 
+msgctxt "EPP/Sparky/praise_01"
+msgid "Wow, great job."
+msgstr ""
+
+msgctxt "EPP/Sparky/praise_02"
+msgid "Well done."
+msgstr ""
+
+msgctxt "EPP/Sparky/praise_03"
+msgid "That's quite a feat!"
+msgstr ""
+
 msgctxt "EPP/Sparky/removingbotxp_165"
 msgid ""
 "I'll be around if you want to practice a new deck, but from now on, you'll "
@@ -1207,12 +1251,54 @@ msgctxt "NPE/Deckbuilder/addcard_135"
 msgid "You can drag cards in and out of a deck."
 msgstr ""
 
+msgctxt "NPE/Deckbuilder/autocomplete_01"
+msgid "Add a card you'd like to use."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/autocomplete_02"
+msgid "Try using this one."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/autocomplete_03"
+msgid "Use this button to complete your deck."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/autocomplete_04"
+msgid "Your deck is ready to go!"
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/explanation_01"
+msgid "A card doesn't have to be in your collection to add it to your deck."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/explanation_02"
+msgid ""
+"But you can't play with a deck unless all of those cards are in your "
+"collection."
+msgstr ""
+
 msgctxt "NPE/Deckbuilder/filters_134"
 msgid "Use the filters to narrow down what cards are shown."
 msgstr ""
 
 msgctxt "NPE/Deckbuilder/graph_137"
 msgid "Want more details about your deck? Check out the \"Deck Details\" section"
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/inspectCards_01"
+msgid "You can inspect cards here too."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/inspectCards_02"
+msgid "... by right-clicking on them."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/inspectCards_03"
+msgid "... by tapping-and-holding them."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/inspectCards_04"
+msgid "... or by hovering over them."
 msgstr ""
 
 msgctxt "NPE/Deckbuilder/intro_132"
@@ -1223,12 +1309,44 @@ msgctxt "NPE/Deckbuilder/intro_133"
 msgid "This is where ideas become reality!"
 msgstr ""
 
+msgctxt "NPE/Deckbuilder/lands_01"
+msgid "Every deck needs lands."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/lands_02"
+msgid "Use the 'Suggest Lands' button to add some."
+msgstr ""
+
 msgctxt "NPE/Deckbuilder/learnmore_140"
 msgid "If you want tips on building a great deck, come by the learn page."
 msgstr ""
 
+msgctxt "NPE/Deckbuilder/search_01"
+msgid "Type in some of a card's name or rules to search for it."
+msgstr ""
+
 msgctxt "NPE/Deckbuilder/sideboard_136"
 msgid "Sideboards are only used in traditional best-of-three  matches"
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/testDeck_01"
+msgid "Let's see your new deck in action."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/testDeck_02"
+msgid "Test a deck you're working on right in the deckbuilder!"
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/testDeck_03"
+msgid "You can even try out cards that aren't in your collection yet."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/view_01"
+msgid "Cards are sorted by their mana cost."
+msgstr ""
+
+msgctxt "NPE/Deckbuilder/view_02"
+msgid "Use the button in the top right to change your deck view."
 msgstr ""
 
 msgctxt "NPE/Deckbuilder/wildcard_138"
@@ -1352,6 +1470,26 @@ msgstr ""
 
 msgctxt "NPE/Game01/g1_142_Handheld"
 msgid "Touch and hold cards to inspect their details"
+msgstr ""
+
+msgctxt "NPE/Game01/g1_Handheld_01"
+msgid "Drag cards to the battlefield to use them."
+msgstr ""
+
+msgctxt "NPE/Game01/g1_LandsAndSpells_01"
+msgid "There are two types of cards: lands and spells."
+msgstr ""
+
+msgctxt "NPE/Game01/g1_LandsAndSpells_02"
+msgid "You'll need lands to cast your spells."
+msgstr ""
+
+msgctxt "NPE/Game01/g1_LandsAndSpells_03"
+msgid "And bigger spells require more lands."
+msgstr ""
+
+msgctxt "NPE/Game01/g1_LandsAndSpells_04"
+msgid "Anything that's not a land is a spell."
 msgstr ""
 
 msgctxt "NPE/Game01/End/ElfDefeat/Kylea_09"
@@ -2822,6 +2960,14 @@ msgctxt "NPE/PLP/MS1/Landing/Sparky_09"
 msgid "Ready?"
 msgstr ""
 
+msgctxt "NPE/PLP/MS1/Profile/customize_01"
+msgid "And this is where you'll find options on how to customize your look."
+msgstr ""
+
+msgctxt "NPE/PLP/MS1/Profile/customize_02"
+msgid "You can also choose your avatar and more."
+msgstr ""
+
 msgctxt "NPE/PLP/MS1/Profile/Sparky_01"
 msgid "Pick one!"
 msgstr ""
@@ -2918,6 +3064,38 @@ msgctxt "NPE/PLP/MS3/Store/Sparky_03a"
 msgid "Come on! This way!"
 msgstr ""
 
+msgctxt "NPE/PLP/MS4/Events/jumpIn_01"
+msgid "This one is perfect for new planeswalkers."
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_02"
+msgid "And you've got what you need to try it out now."
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_03"
+msgid "If you want to try something new"
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_04"
+msgid "I'd suggest this one for you."
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_05"
+msgid "You can even try it now, if you'd like."
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_06"
+msgid "Give it a shot!"
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_07"
+msgid "Go on, jump in!"
+msgstr ""
+
+msgctxt "NPE/PLP/MS4/Events/jumpIn_08"
+msgid "There's even events for fledgling planeswalkers."
+msgstr ""
+
 msgctxt "NPE/PLP/MS4/Events/Sparky_02"
 msgid "You'll need to earn more gold to play in events."
 msgstr ""
@@ -2944,6 +3122,159 @@ msgstr ""
 
 msgctxt "NPE/PLP/MS4/Landing/Sparky_05b"
 msgid "Until we meet again, Planeswalker!"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_01"
+msgid "Doing some exploring?"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_02"
+msgid "That's great!"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_03"
+msgid "This is a great place for it."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_04"
+msgid "Alchemy mixes things up."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_05"
+msgid "Like Standard, it features the latest sets."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_06"
+msgid "Quite the explorer, aren't you?"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_07"
+msgid "Ah, the curious type, I like that."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_08"
+msgid ""
+"Alchemy is a fresh take on the Standard format where some cards get "
+"rebalanced."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroAlchemy_09"
+msgid "This is the place for it."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroBrawl_01"
+msgid "You'll have a Brawl!"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroBrawl_02"
+msgid "But first, you'll need to build a deck with a commander."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroBrawl_03"
+msgid "Which can be your favorite legendary creature or planeswalker."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_01"
+msgid ""
+"While other formats focus on new cards, Historic is all about... well, "
+"History!"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_02"
+msgid "You can always play your old cards here."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_03"
+msgid "With so many options, the possibilities are endless."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_04"
+msgid "Historic includes just about every card you can collect on Arena."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_05"
+msgid "Old cards never go out of style here."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_06"
+msgid "There's so many cards and combos and every kind of strategy too!"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_07"
+msgid "Cards never rotate out of the Historic format."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_08"
+msgid "Which means there's so much more to do!"
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_09"
+msgid "There are so many cards to choose from..."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_10"
+msgid "The possibilities are endless."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroHistoric_11"
+msgid "If you want to make history, this is the right format for you."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_01"
+msgid "This one is called Standard."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_02"
+msgid "Because its the most common way to play."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_03"
+msgid ""
+"It only uses cards from the last couple of years, to keep things spicy."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_04"
+msgid "Ah, Standard."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_05"
+msgid "It's a great way to check out what's new."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_06"
+msgid "New cards, new decks, new strategies."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroStandard_07"
+msgid "All around the multiverse."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsExisting01"
+msgid "Whatever you played last time will show up here."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsExisting02"
+msgid "Use the \"Find Match\" tab to try out a new format."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsExisting03"
+msgid "Or the \"Events\" tab to see both Limited and Constructed events."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsNew01"
+msgid "You can use the \"Find Match\" tab to find an opponent."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsNew02"
+msgid "Or try facing new opponents with the \"Find Match\" tab."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsNew03"
+msgid "Or use the \"Events\" tab to continue playing the Color Challenges."
+msgstr ""
+
+msgctxt "NPE/PLP/Playblade/sparkyIntroTabsNew04"
+msgid "You'll find the Color Challenges under the \"Events\" tab."
 msgstr ""
 
 msgctxt "NPE/PW/planeswalkers_171"
@@ -2988,6 +3319,104 @@ msgstr ""
 
 msgctxt "NPE/PW/planeswalkers_180"
 msgid "Try attacking your opponent's planeswalker."
+msgstr ""
+
+msgctxt "NPE/QuestChain/colorNames_01"
+msgid "It's two colors, Red and Green."
+msgstr ""
+
+msgctxt "NPE/QuestChain/colorNames_02"
+msgid "It's two colors, White and Blue."
+msgstr ""
+
+msgctxt "NPE/QuestChain/colorNames_03"
+msgid "It's two colors, Blue and Black."
+msgstr ""
+
+msgctxt "NPE/QuestChain/colorNames_04"
+msgid "It's two colors, Green and White."
+msgstr ""
+
+msgctxt "NPE/QuestChain/colorNames_05"
+msgid "It's two colors, Black and Red."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckAll_01"
+msgid "You've collected all ten decks."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckOne_01"
+msgid "You just got a new deck!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckOne_02"
+msgid "It's two colors."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckOne_03"
+msgid "You can complete your next quest by trying it out."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckOne_04"
+msgid "You just got a dualcolor deck!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckOne_05"
+msgid "It's a two-color or \"dualcolor\" deck."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_01"
+msgid "You've got another two-color deck!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_02"
+msgid "Keep completing quests and you'll get ten decks in total."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_03"
+msgid ""
+"You might have to wait until tomorrow for your next quest though, so come "
+"back then."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_04"
+msgid "See you tomorrow, my friend!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_05"
+msgid "You've got another dualcolor deck!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_06"
+msgid "There are ten of these two-color decks you can get through quests."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_07"
+msgid "I can't wait to see you again tomorrow."
+msgstr ""
+
+msgctxt "NPE/QuestChain/deckTwo_08"
+msgid "The cards just keep coming, don't they?"
+msgstr ""
+
+msgctxt "NPE/QuestChain/praise_01"
+msgid "That's fantastic!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/praise_02"
+msgid "New deck alert!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/praise_03"
+msgid "What the what?!"
+msgstr ""
+
+msgctxt "NPE/QuestChain/praise_04"
+msgid "Great job."
+msgstr ""
+
+msgctxt "NPE/QuestChain/praise_05"
+msgid "Keep it up."
 msgstr ""
 
 msgctxt "NPE/Rank/rankprofile_50"
@@ -3036,6 +3465,10 @@ msgstr ""
 
 msgctxt "NPE/Rank/seasonrewards_49"
 msgid "The higher the rank, the better the rewards."
+msgstr ""
+
+msgctxt "NPE/Rank/sparkyIntroRank_01"
+msgid "The competition can be fierce, but rewarding."
 msgstr ""
 
 msgctxt "NPE/Rewards/NewDecksUnlocked"
@@ -3158,4 +3591,16 @@ msgstr ""
 
 msgctxt "NPE/Wildcards/39"
 msgid "Looking for a specific card? That's what wildcards are for."
+msgstr ""
+
+msgctxt "NPE/Wildcards/craftAll_01"
+msgid "The 'Craft All' button makes it easy to use them."
+msgstr ""
+
+msgctxt "NPE/Wildcards/craftAll_02"
+msgid "Just click on 'Craft All'."
+msgstr ""
+
+msgctxt "NPE/Wildcards/craftAll_03"
+msgid "Just tap on 'Craft All'."
 msgstr ""

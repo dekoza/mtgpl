@@ -302,6 +302,15 @@ msgid ""
 " sorcery to put your chosen companion into your hand."
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Accept_Body"
+msgid ""
+"Choose one of three random offers, then one of three random conditions."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Accept_Title"
+msgid "Accept"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Adapt"
 msgid ""
 "If this creature has no +1/+1 counters on it, put that many +1/+1 counters "
@@ -489,6 +498,14 @@ msgctxt "AbilityHanger/Keyword/Cleave_Body"
 msgid ""
 "You may cast this spell for its cleave cost. If you do, remove the words in "
 "square brackets."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Conjure_Body"
+msgid "A conjured card is added to the game."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Conjure_Title"
+msgid "Conjure"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Convoke"
@@ -694,6 +711,16 @@ msgctxt "AbilityHanger/Keyword/DoubleStrike"
 msgid ""
 "This creature deals both first-strike and regular combat damage. (Does not "
 "apply when creatures \"fight\")"
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/DraftFromSpellbook_Body"
+msgid ""
+"To draft from a spellbook select one of three random cards from this card's "
+"spellbook to add to your hand."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/DraftFromSpellbook_Title"
+msgid "Draft from a Spellbook"
 msgstr ""
 
 msgctxt "AbilityHanger/Keyword/Echo_Body"
@@ -1053,6 +1080,15 @@ msgid ""
 " replacing all instances of \"target\" with \"each.\""
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Perpetual_Body"
+msgid ""
+"Perpetual effects and counters are not removed from cards that change zones."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Perpetual_Title"
+msgid "Perpetual"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Persist"
 msgid ""
 "When this creature dies, if it had no -1/-1 counters on it, return it to the"
@@ -1395,6 +1431,14 @@ msgctxt "AbilityHanger/Keyword/ScryX_Title"
 msgid "Scry X"
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Seek_Body"
+msgid "To seek a card, put one at random from your library into your hand."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Seek_Title"
+msgid "Seek"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/Shroud_Body"
 msgid ""
 "A player or permanent with shroud can't be the target of spells of "
@@ -1499,6 +1543,17 @@ msgid ""
 " battlefield under its owner's control with a +1/+1 counter on it."
 msgstr ""
 
+msgctxt "AbilityHanger/Keyword/Unearth_Body"
+msgid ""
+"{abilityCost}: Return this card from your graveyard to the battlefield. It "
+"gains haste. Exile it at the beginning of the next end step or if it would "
+"leave the battlefield. Unearth only as a sorcery."
+msgstr ""
+
+msgctxt "AbilityHanger/Keyword/Unearth_Title"
+msgid "Unearth"
+msgstr ""
+
 msgctxt "AbilityHanger/Keyword/VentureIntoTheDungeon"
 msgid ""
 "Enter the first room of a dungeon. If already in a dungeon advance to the "
@@ -1529,6 +1584,34 @@ msgstr ""
 
 msgctxt "AbilityHanger/LayeredEffect/Body_CopyObject_NOPROMPT"
 msgid "Copy of [OVERLAYCARDNAME]."
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_ModPowerToughnessNegative"
+msgid "-{power}/-{toughness}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_ModPowerToughnessPositive"
+msgid "+{power}/+{toughness}"
+msgstr ""
+
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetPower"
+msgid "Base power set to {power}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetPowerToughness"
+msgid "Base power/toughness set to {power}/{toughness}"
+msgstr ""
+
+msgctxt ""
+"AbilityHanger/LayeredEffect/PerpetualPowerToughness_Body_SetToughness"
+msgid "Base toughness set to {toughness}"
+msgstr ""
+
+msgctxt "AbilityHanger/LayeredEffect/PerpetualPowerToughness_Title"
+msgid "Perpetual Power and Toughness Changes"
 msgstr ""
 
 msgctxt "AbilityHanger/LayeredEffect/Type_CopyObject"
@@ -1618,6 +1701,10 @@ msgid ""
 "require you to choose which copy to keep."
 msgstr ""
 
+msgctxt "AbilityHanger/PlayWarning/Body_StartingPlayer"
+msgid "You were the starting player."
+msgstr ""
+
 msgctxt "AbilityHanger/PlayWarning/Body_Undefined"
 msgid "Playing this card right now may not be the best choice."
 msgstr ""
@@ -1655,6 +1742,10 @@ msgstr ""
 
 msgctxt "AbilityHanger/PlayWarning/Header_Legendary"
 msgid "Duplicate Legendary"
+msgstr ""
+
+msgctxt "AbilityHanger/PlayWarning/Header_StartingPlayer"
+msgid "Enters Tapped"
 msgstr ""
 
 msgctxt "AbilityHanger/PlayWarning/Header_Undefined"
@@ -1928,12 +2019,26 @@ msgctxt "AbilityHanger/SpecialHangers/TokenAffinity_Header"
 msgid "Affinity for Tokens"
 msgstr ""
 
+msgctxt "AbilityHanger/SpecialHangers/CardStyle/Body"
+msgid ""
+"Card styles are cosmetic changes to cards that can change the art, frame, "
+"and more."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/CardStyle/Header"
+msgid "Card Style"
+msgstr ""
+
 msgctxt "AbilityHanger/SpecialHangers/Controller/Header"
 msgid "Controller"
 msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Body"
 msgid "Artifacts, legendaries, and Sagas are historic."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/Historic/Historic_Header"
+msgid "Historic"
 msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/InformationVisibility/Private_Body"
@@ -1960,6 +2065,26 @@ msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/LegendarySorcery/Header"
 msgid "Legendary Sorcery"
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body"
+msgid "Right-click for more information."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_Craftable"
+msgid "Right-click for more information and crafting options."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_DeckBuilder"
+msgid "Right-click for more information and crafting options."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_DuelScene"
+msgid "Right-click for more information."
+msgstr ""
+
+msgctxt "AbilityHanger/SpecialHangers/MultipleFaceHangers/Body_Examine"
+msgid "Right-click {cardName} to view another related card or token."
 msgstr ""
 
 msgctxt "AbilityHanger/SpecialHangers/NPE/ExplainPower"

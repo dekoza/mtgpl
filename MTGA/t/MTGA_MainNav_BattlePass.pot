@@ -10,6 +10,14 @@ msgctxt "MainNav/BattlePass/AccountMastery"
 msgid "Account Mastery"
 msgstr ""
 
+msgctxt "MainNav/BattlePass/BattlePass_AFR"
+msgid "Adventures in the Forgotten Realms"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/BattlePass_AFR_alt"
+msgid "Dungeons & Dragons: Adventures in the Forgotten Realms"
+msgstr ""
+
 msgctxt "MainNav/BattlePass/BattlePass_ELD"
 msgid "Eldraine"
 msgstr ""
@@ -38,6 +46,14 @@ msgctxt "MainNav/BattlePass/BattlePass_M21_alt"
 msgid "Core Set 2021"
 msgstr ""
 
+msgctxt "MainNav/BattlePass/BattlePass_MID"
+msgid "Midnight Hunt"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/BattlePass_MID_alt"
+msgid "Innistrad: Midnight Hunt"
+msgstr ""
+
 msgctxt "MainNav/BattlePass/BattlePass_STX"
 msgid "Strixhaven"
 msgstr ""
@@ -48,6 +64,14 @@ msgstr ""
 
 msgctxt "MainNav/BattlePass/BattlePass_THB"
 msgid "Theros"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/BattlePass_VOW"
+msgid "Crimson Vow"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/BattlePass_VOW_alt"
+msgid "Innistrad: Crimson Vow"
 msgstr ""
 
 msgctxt "MainNav/BattlePass/BattlePass_ZNR"
@@ -142,8 +166,20 @@ msgid ""
 "Mastery Pass levels."
 msgstr ""
 
+msgctxt "MainNav/BattlePass/Mastery_Header_AFR"
+msgid "Adventures in the Forgotten Realms Mastery Pass"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/Mastery_Header_MID"
+msgid "Innistrad: Midnight Hunt Mastery Pass"
+msgstr ""
+
 msgctxt "MainNav/BattlePass/Mastery_Header_STX"
 msgid "Strixhaven Set Mastery Pass"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/Mastery_Header_VOW"
+msgid "Innistrad: Crimson Vow Mastery Pass"
 msgstr ""
 
 msgctxt "MainNav/BattlePass/Mastery_Text"
@@ -293,6 +329,10 @@ msgstr ""
 
 msgctxt "MainNav/BattlePass/XSetMastery"
 msgid "{setName} Set Mastery"
+msgstr ""
+
+msgctxt "MainNav/BattlePass/AFR/Pet_Hover"
+msgid "White Dragon: Mastery Pass Level 60"
 msgstr ""
 
 msgctxt "MainNav/BattlePass/ELD/Pet_Hover"

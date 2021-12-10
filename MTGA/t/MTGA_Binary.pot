@@ -531,6 +531,106 @@ msgid ""
 "your opponent."
 msgstr ""
 
+msgctxt "Decks/Precon/Precon_EPP2022_BG"
+msgid "Growing Hunger"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_BG_Desc"
+msgid ""
+"Even the humblest creature can grow to be a real terror - and this deck is "
+"far from humble!"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_BR"
+msgid "Treasure Hunt"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_BR_Desc"
+msgid ""
+"It's time to collect the price on your opponent's head. Just don't spend it "
+"all in one place!"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_GU"
+msgid "Avalanche!"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_GU_Desc"
+msgid ""
+"Get ready to ramp! When this snowstorm hits, it'll be all downhill for "
+"anyone in your way."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_GW"
+msgid "Lifeline"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_GW_Desc"
+msgid ""
+"Live long and beat down! Build up your army and your life total, then bring "
+"down the house."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_RG"
+msgid "Savage Lands"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_RG_Desc"
+msgid ""
+"It's a jungle out there! Every new land you discover will help power your "
+"creatures to victory."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_RW"
+msgid "Armed and Dangerous"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_RW_Desc"
+msgid ""
+"Eyes open, there's danger afoot! Use your equipment to get a leg up, then "
+"kick your opponents to the curb."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_UB"
+msgid "Control Center"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_UB_Desc"
+msgid ""
+"Keep the battlefield clear until the late game. Then you'll be taking "
+"control while they're wondering where it all went wrong."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_UR"
+msgid "Fireworks"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_UR_Desc"
+msgid ""
+"It's showtime! Show off some flashy moves with these crafty wizards and "
+"their powerful spells."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_WB"
+msgid "Dungeon Delving"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_WB_Desc"
+msgid ""
+"Adventurers, assemble! Get your party together, then head into the dungeon. "
+"The only danger is to your enemies."
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_WU"
+msgid "Sky Patrol"
+msgstr ""
+
+msgctxt "Decks/Precon/Precon_EPP2022_WU_Desc"
+msgid ""
+"The sky is the limit! Plan your moves carefully, and your air game will "
+"reign supreme."
+msgstr ""
+
 msgctxt "DuelScene/EscapeMenu/AutoTapMana_Button_Text"
 msgid "Auto-Tap Mana"
 msgstr ""
@@ -1837,6 +1937,44 @@ msgctxt "MainNav/Countries/Zimbabwe"
 msgid "Zimbabwe"
 msgstr ""
 
+msgctxt "MainNav/General/AlchemySplash_Button"
+msgid "Get Started!"
+msgstr ""
+
+msgctxt "MainNav/General/AlchemySplash_EverySet"
+msgid ""
+"About a month after each set, an Alchemy pack for the set will come out "
+"adding new digital-only cards for it. These are legal in Alchemy and "
+"Historic, and in the future could be rebalanced."
+msgstr ""
+
+msgctxt "MainNav/General/AlchemySplash_ForMore"
+msgid ""
+"For more information on Alchemy, click "
+"<link=https://magic.wizards.com/en/mtga-alchemy><u>here</u></link>"
+msgstr ""
+
+msgctxt "MainNav/General/AlchemySplash_Grant"
+msgid ""
+"To help you get started in Alchemy, you'll receive three Alchemy: Innistrad "
+"packs, plus six rare and one mythic individual card reward from Alchemy: "
+"Innistrad!"
+msgstr ""
+
+msgctxt "MainNav/General/AlchemySplash_NewFormat"
+msgid "Alchemy is a new format to Arena, like Standard or Historic."
+msgstr ""
+
+msgctxt "MainNav/General/AlchemySplash_RotationAndQueues"
+msgid ""
+"Alchemy rotates every year, following the pattern of Standard. It has Play "
+"and Ranked support, and is available in best-of-one and best-of-three.\n"
+msgstr ""
+
+msgctxt "MainNav/General/AlchemySplash_Title"
+msgid "What is Alchemy?"
+msgstr ""
+
 msgctxt "MainNav/General/CommonWildcard"
 msgid "Common Wildcard"
 msgstr ""
@@ -1845,8 +1983,16 @@ msgctxt "MainNav/General/Complete"
 msgid "Complete"
 msgstr ""
 
+msgctxt "MainNav/General/DraftToken"
+msgid "{quantity} Player Draft Token"
+msgstr ""
+
 msgctxt "MainNav/General/Empty_String"
 msgid " "
+msgstr ""
+
+msgctxt "MainNav/General/EntryReward"
+msgid "All players who enter the event receive this reward."
 msgstr ""
 
 msgctxt "MainNav/General/ErrorTitle"
@@ -1865,8 +2011,84 @@ msgctxt "MainNav/General/RestartButton"
 msgid "Restart"
 msgstr ""
 
+msgctxt "MainNav/General/SealedToken"
+msgid "{quantity} Sealed Entry"
+msgstr ""
+
 msgctxt "MainNav/General/Simple_Number"
 msgid "{number}"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_1"
+msgid "Decathlon 1: Alchemy"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_10"
+msgid "Decathlon 10: Turbo Draft"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_2"
+msgid "Decathlon 2: Sealed"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_3"
+msgid "Decathlon 3: Traditional Draft"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_4"
+msgid "Decathlon 4: New Player Decks"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_5"
+msgid "Decathlon 5: Bot Draft"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_6"
+msgid "Decathlon 6: Historic Artisan"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_7"
+msgid "Decathlon 7: Historic"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_8"
+msgid "Decathlon 8: Singleton"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_9"
+msgid "Decathlon 9: Traditional Standard"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Decathlon_Finals"
+msgid "{quantity} Decathlon Finals Qualification"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Esports_Qualifier_Day2_20211031"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Esports_Qualifier_Day2_20211107"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Esports_Qualifier_Day2_20211219"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Esports_Qualifier_Day2_20220123"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_JumpIn"
+msgid "{quantity} Jump In Token"
 msgstr ""
 
 msgctxt "MainNav/General/Token_OpenDay2_20200531"
@@ -1890,6 +2112,42 @@ msgid "Open Day 2 Qualification"
 msgstr ""
 
 msgctxt "MainNav/General/Token_OpenDay2_20210509"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20210801"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20210905"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20211003"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20211017"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20211205"
+msgid ""
+"Open Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_OpenDay2_20220116"
 msgid ""
 "Open Day 2 Qualification\n"
 "Join between 6am and 8am Pacific"
@@ -1933,6 +2191,38 @@ msgid ""
 "Join between 6am and 8am Pacific"
 msgstr ""
 
+msgctxt "MainNav/General/Token_Qualifier_Day2_20210808"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20211010"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20211031"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_Qualifier_Day2_20211107"
+msgid ""
+"Qualifier Weekend Day 2 Qualification\n"
+"Join between 6am and 8am Pacific"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_ 20211003"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_ 20211017"
+msgid "$1,000 USD"
+msgstr ""
+
 msgctxt "MainNav/General/Token_USD_1000_20200531"
 msgid "$1,000 USD"
 msgstr ""
@@ -1957,6 +2247,34 @@ msgctxt "MainNav/General/Token_USD_1000_20210509"
 msgid "$1,000 USD"
 msgstr ""
 
+msgctxt "MainNav/General/Token_USD_1000_20210801"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20210905"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20211017"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20211205"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_1000_20220116"
+msgid "$1,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_ 20211003"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_ 20211017"
+msgid "$2,000 USD"
+msgstr ""
+
 msgctxt "MainNav/General/Token_USD_2000_20200531"
 msgid "$2,000 USD"
 msgstr ""
@@ -1979,6 +2297,38 @@ msgstr ""
 
 msgctxt "MainNav/General/Token_USD_2000_20210509"
 msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20210801"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20210905"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20211017"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20211205"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2000_20220116"
+msgid "$2,000 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2500_20211205"
+msgid "$2,500 USD"
+msgstr ""
+
+msgctxt "MainNav/General/Token_USD_2500_20220116"
+msgid "$2,500 USD"
+msgstr ""
+
+msgctxt "MainNav/General/TokenJumpInDescription"
+msgid "Jump In Token"
 msgstr ""
 
 msgctxt "MainNav/General/UncommonWildcard"
@@ -2527,10 +2877,6 @@ msgctxt "MainNav/Popups/Modal/ModalOptions_SaveAndExit"
 msgid "Save & Exit"
 msgstr ""
 
-msgctxt "MainNav/Profile/MythicQualifier/QualifierLink"
-msgid "https://magic.gg/events/qualifier-weekend"
-msgstr ""
-
 msgctxt "MainNav/Settings/Account_Button"
 msgid "Account"
 msgstr ""
@@ -2553,6 +2899,10 @@ msgstr ""
 
 msgctxt "MainNav/Settings/Debug_Button"
 msgid "DEBUG"
+msgstr ""
+
+msgctxt "MainNav/Settings/DeleteAccount"
+msgid "Delete Account"
 msgstr ""
 
 msgctxt "MainNav/Settings/DropRates"
@@ -3065,6 +3415,10 @@ msgctxt "MainNav/Settings/ReportABug/Support_URL"
 msgid "https://mtgarena-support.wizards.com/hc/en-us/requests/new"
 msgstr ""
 
+msgctxt "MainNav/Settings/ReportABug/Version"
+msgid "Version {version}"
+msgstr ""
+
 msgctxt "MainNav/Shared/Cancel"
 msgid "Cancel"
 msgstr ""
@@ -3097,12 +3451,26 @@ msgctxt "MainNav/Store/CurrencyLabel"
 msgid "Currency"
 msgstr ""
 
+msgctxt "MainNav/WebLink/AccountPreferences"
+msgid "https://myaccounts.wizards.com"
+msgstr ""
+
 msgctxt "MainNav/WebLink/CodeOfConduct"
 msgid "https://company.wizards.com/legal/code-conduct"
 msgstr ""
 
 msgctxt "MainNav/WebLink/CustomerSupport"
 msgid "https://mtgarena-support.wizards.com/hc/en-us"
+msgstr ""
+
+msgctxt "MainNav/WebLink/DeleteAccount"
+msgid ""
+"https://support.wizards.com/hc/en-"
+"us/requests/new?ticket_form_id=360000108786"
+msgstr ""
+
+msgctxt "MainNav/WebLink/DropRates"
+msgid "https://magic.wizards.com/en/promotions/drop-rates"
 msgstr ""
 
 msgctxt "MainNav/WebLink/PrivacyPolicy"

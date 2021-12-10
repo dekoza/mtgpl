@@ -73,12 +73,20 @@ msgctxt "DuelScene/Browsers/BrowserSubheader_DragToGraveyard"
 msgid "Drag a card into your graveyard."
 msgstr ""
 
+msgctxt "DuelScene/Browsers/BrowserSubheader_DragToLibraryOrGraveyard"
+msgid "Drag the card to put it on top of your library or into your graveyard."
+msgstr ""
+
 msgctxt "DuelScene/Browsers/Card_Text"
 msgid "{numCards} Card"
 msgstr ""
 
 msgctxt "DuelScene/Browsers/Cards_Text"
 msgid "{numCards} Cards"
+msgstr ""
+
+msgctxt "DuelScene/Browsers/Choose_A_Dungeon"
+msgid "Choose a Dungeon"
 msgstr ""
 
 msgctxt "DuelScene/Browsers/Choose_Color"
@@ -709,6 +717,10 @@ msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_CancelAttack"
 msgid "Cancel Attacks"
 msgstr ""
 
+msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_CancelBlock"
+msgid "Cancel Blocks"
+msgstr ""
+
 msgctxt "DuelScene/ClientPrompt/ClientPrompt_Button_Confirm_Action"
 msgid "Confirm {[InputInteraction]}?"
 msgstr ""
@@ -1197,12 +1209,20 @@ msgctxt "DuelScene/FaceHanger/CardName"
 msgid "{cardName}"
 msgstr ""
 
+msgctxt "DuelScene/FaceHanger/Conjure"
+msgid "Conjures"
+msgstr ""
+
 msgctxt "DuelScene/FaceHanger/DFC_Back_TransformsInto"
 msgid "Transforms Into"
 msgstr ""
 
 msgctxt "DuelScene/FaceHanger/DFC_Front_TransformedFrom"
 msgid "Transformed From"
+msgstr ""
+
+msgctxt "DuelScene/FaceHanger/Dungeon"
+msgid "Dungeon"
 msgstr ""
 
 msgctxt "DuelScene/FaceHanger/FrontSide"
@@ -1239,6 +1259,10 @@ msgstr ""
 
 msgctxt "DuelScene/FaceHanger/RelatedCard"
 msgid "Related Card"
+msgstr ""
+
+msgctxt "DuelScene/FaceHanger/Spellbook"
+msgid "Spellbook"
 msgstr ""
 
 msgctxt "DuelScene/FaceHanger/Token"
@@ -1536,6 +1560,14 @@ msgctxt "DuelScene/Prompt/ManaRider/SpendOnly"
 msgid "Spend only on"
 msgstr ""
 
+msgctxt "DuelScene/RuleText/AbilityStacking"
+msgid "{abilityText}<nobr> (x{count})</nobr>"
+msgstr ""
+
+msgctxt "DuelScene/RuleText/CantBeBlockedByColorCreaturesThisTurn"
+msgid "Can't be blocked by {color} creatures this turn."
+msgstr ""
+
 msgctxt "DuelScene/RuleText/CastAsType"
 msgid "Cast as {type}"
 msgstr ""
@@ -1566,6 +1598,14 @@ msgstr ""
 
 msgctxt "DuelScene/RuleText/NoMaximumHandSize"
 msgid "You have no maximum hand size."
+msgstr ""
+
+msgctxt "DuelScene/RuleText/PendingEffect_InspiredIdea"
+msgid "Maximum hand size reduced by three."
+msgstr ""
+
+msgctxt "DuelScene/RuleText/PlayCardFromSideboard"
+msgid "Play a card from your sideboard."
 msgstr ""
 
 msgctxt "DuelScene/RuleText/PredictedDamage"
