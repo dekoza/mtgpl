@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-10 22:44+0100\n"
+"POT-Creation-Date: 2022-02-14 22:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -515,6 +515,7 @@ msgid "DRK_percent"
 msgstr ""
 
 #: ../../percentages.inc:347
+#: ../../percentages.inc:347
 msgid "VOW_percent"
 msgstr ""
 
@@ -599,104 +600,100 @@ msgstr ""
 msgid "Tłumaczenie dodatków"
 msgstr ""
 
-#: ../../index.rst:43
-msgid "Nadchodzące"
-msgstr ""
-
-#: ../../index.rst:45
-msgid "Standard: :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` (Premiera: 2021-11-19)"
-msgstr ""
-
-#: ../../index.rst:48
+#: ../../index.rst:47
 msgid "Standard"
 msgstr ""
 
-#: ../../index.rst:50
+#: ../../index.rst:49
 msgid "Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar. Jest podzbiorem wszystkich innych formatów."
 msgstr ""
 
+#: ../../index.rst:52
+msgid ":mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|"
+msgstr ""
+
 #: ../../index.rst:53
-msgid ":mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|"
+msgid ":mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|"
 msgstr ""
 
 #: ../../index.rst:54
-msgid ":mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|"
+msgid ":mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|"
 msgstr ""
 
 #: ../../index.rst:55
-msgid ":mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|"
+msgid ":mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|"
 msgstr ""
 
 #: ../../index.rst:56
-msgid ":mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|"
+msgid ":mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|"
 msgstr ""
 
 #: ../../index.rst:57
+msgid ":mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|"
+msgstr ""
+
+#: ../../index.rst:58
 msgid ":mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|"
 msgstr ""
 
-#: ../../index.rst:60
+#: ../../index.rst:61
 msgid "Pionier"
 msgstr ""
 
-#: ../../index.rst:62
+#: ../../index.rst:63
 msgid "Nowy format bez rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Return to Ravnica<RTR>` do teraz. Jest podzbiorem formatu Modern. Na poniższej liście znajdują się dodatki poza Standardem."
 msgstr ""
 
-#: ../../index.rst:64
+#: ../../index.rst:65
 msgid ":doc:`Pionier<pioneer>`"
 msgstr ""
 
-#: ../../index.rst:67
+#: ../../index.rst:68
 msgid "Modern"
 msgstr ""
 
-#: ../../index.rst:69
+#: ../../index.rst:70
 msgid "Starszy format pozbawiony rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Mirrodin<MRD>` do teraz. Na poniższej liście znajdują się dodatki nie wymienione wcześniej."
 msgstr ""
 
-#: ../../index.rst:71
+#: ../../index.rst:72
 msgid ":doc:`Pełna lista dodatków wchodzących w skład formatu Modern<modern>`"
 msgstr ""
 
-#: ../../index.rst:73
+#: ../../index.rst:74
 msgid "Oprócz tego format otrzymał specjalne dodatki, które nigdy nie był częścią Standardu:"
 msgstr ""
 
-#: ../../index.rst:75
+#: ../../index.rst:76
 msgid ":mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` |MH2_percent|"
 msgstr ""
 
-#: ../../index.rst:76
+#: ../../index.rst:77
 msgid ":mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |MH1_percent|"
 msgstr ""
 
-#: ../../index.rst:79
+#: ../../index.rst:80
 msgid "Legacy / Vintage"
 msgstr ""
 
-#: ../../index.rst:81
+#: ../../index.rst:82
 msgid "Formaty Legacy i Vintage zawierają wszystkie karty wydane od początku istnienia gry. Na poniższej liście znajdują się te dodatki, które nie znalazły się na wcześniejszych listach."
 msgstr ""
 
-#: ../../index.rst:84
+#: ../../index.rst:85
 msgid ":doc:`Lista dodatków<legacy>`"
 msgstr ""
 
-#: ../../index.rst:88
+#: ../../index.rst:89
 msgid "Pozostałe produkty"
 msgstr ""
 
-#: ../../index.rst:91
+#: ../../index.rst:92
 msgid "Dodatki wyłącznie cyfrowe"
 msgstr ""
 
-#: ../../index.rst:93
+#: ../../index.rst:94
 msgid "Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejszymi są zdecydowanie MTG Online oraz MTG Arena. Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited."
-msgstr ""
-
-#: ../../index.rst:97
-msgid ":mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|"
 msgstr ""
 
 #: ../../index.rst:98
@@ -707,306 +704,310 @@ msgstr ""
 msgid ":mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena) |KLR_percent|"
 msgstr ""
 
-#: ../../index.rst:101
+#: ../../index.rst:100
+msgid ":mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|"
+msgstr ""
+
+#: ../../index.rst:102
 msgid "W sierpniu 2021 ma się ukazać pierwszy dodatek do Areny zawierający karty z unikalnymi mechanikami przeznaczonymi wyłącznie do gry cyfrowej"
 msgstr ""
 
-#: ../../index.rst:105
+#: ../../index.rst:106
 msgid "Jumpstart"
 msgstr ""
 
-#: ../../index.rst:107
+#: ../../index.rst:108
 msgid "Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021."
 msgstr ""
 
-#: ../../index.rst:109
+#: ../../index.rst:110
 msgid ":mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| tylko cyfrowo"
 msgstr ""
 
-#: ../../index.rst:110
+#: ../../index.rst:111
 msgid ":mtgexp:`JMP` :doc:`Jumpstart<JMP>` |JMP_percent|"
 msgstr ""
 
-#: ../../index.rst:113
+#: ../../index.rst:114
 msgid "Zestawy gildyjne"
 msgstr ""
 
-#: ../../index.rst:115
+#: ../../index.rst:116
 msgid ":mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |GK2_percent|"
 msgstr ""
 
-#: ../../index.rst:116
+#: ../../index.rst:117
 msgid ":mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |GK1_percent|"
 msgstr ""
 
-#: ../../index.rst:120
+#: ../../index.rst:121
 msgid "Seria 'Masters'"
 msgstr ""
 
-#: ../../index.rst:122
+#: ../../index.rst:123
 msgid ":mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent|"
 msgstr ""
 
-#: ../../index.rst:123
+#: ../../index.rst:124
 msgid ":mtgexp:`2XM` :doc:`Double Masters<2XM>` |2XM_percent|"
 msgstr ""
 
-#: ../../index.rst:124
+#: ../../index.rst:125
 msgid ":mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |UMA_percent|"
 msgstr ""
 
-#: ../../index.rst:125
+#: ../../index.rst:126
 msgid ":mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |A25_percent|"
 msgstr ""
 
-#: ../../index.rst:126
+#: ../../index.rst:127
 msgid ":mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 |IMA_percent|"
 msgstr ""
 
-#: ../../index.rst:127
+#: ../../index.rst:128
 msgid ":mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` |MM3_percent|"
 msgstr ""
 
-#: ../../index.rst:128
+#: ../../index.rst:129
 msgid ":mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 |EMA_percent|"
 msgstr ""
 
-#: ../../index.rst:129
+#: ../../index.rst:130
 msgid ":mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` |MM2_percent|"
 msgstr ""
 
-#: ../../index.rst:130
+#: ../../index.rst:131
 msgid ":mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 |MMA_percent|"
 msgstr ""
 
-#: ../../index.rst:133
+#: ../../index.rst:134
 msgid "Commander i pokrewne"
 msgstr ""
 
-#: ../../index.rst:135
+#: ../../index.rst:136
 msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|"
 msgstr ""
 
-#: ../../index.rst:137
+#: ../../index.rst:138
 msgid ":mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|"
 msgstr ""
 
-#: ../../index.rst:138
+#: ../../index.rst:139
 msgid ":mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|"
 msgstr ""
 
-#: ../../index.rst:139
+#: ../../index.rst:140
 msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
 msgstr ""
 
-#: ../../index.rst:140
+#: ../../index.rst:141
 msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
 msgstr ""
 
-#: ../../index.rst:141
+#: ../../index.rst:142
 msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
 msgstr ""
 
-#: ../../index.rst:142
+#: ../../index.rst:143
 msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
 msgstr ""
 
-#: ../../index.rst:143
+#: ../../index.rst:144
 msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
 msgstr ""
 
-#: ../../index.rst:144
+#: ../../index.rst:145
 msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
 msgstr ""
 
-#: ../../index.rst:145
+#: ../../index.rst:146
 msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
 msgstr ""
 
-#: ../../index.rst:146
+#: ../../index.rst:147
 msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
 msgstr ""
 
-#: ../../index.rst:147
+#: ../../index.rst:148
 msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
 msgstr ""
 
-#: ../../index.rst:148
+#: ../../index.rst:149
 msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
 msgstr ""
 
-#: ../../index.rst:149
+#: ../../index.rst:150
 msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
 msgstr ""
 
-#: ../../index.rst:150
+#: ../../index.rst:151
 msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
 msgstr ""
 
-#: ../../index.rst:151
+#: ../../index.rst:152
 msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
 msgstr ""
 
-#: ../../index.rst:152
+#: ../../index.rst:153
 msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<C13>` |CM1_percent|"
 msgstr ""
 
-#: ../../index.rst:153
+#: ../../index.rst:154
 msgid ":mtgexp:`CMD` :doc:`Commander<CMD>` |CMD_percent|"
 msgstr ""
 
-#: ../../index.rst:156
+#: ../../index.rst:157
 msgid "Conspiracy"
 msgstr ""
 
-#: ../../index.rst:158
+#: ../../index.rst:159
 msgid ":mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |CN2_percent|"
 msgstr ""
 
-#: ../../index.rst:159
+#: ../../index.rst:160
 msgid ":mtgexp:`CNS` :doc:`Conspiracy<CNS>` |CNS_percent|"
 msgstr ""
 
-#: ../../index.rst:162
+#: ../../index.rst:163
 msgid "Produkty pokrewne"
 msgstr ""
 
-#: ../../index.rst:164
+#: ../../index.rst:165
 msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|"
 msgstr ""
 
-#: ../../index.rst:165
+#: ../../index.rst:166
 msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|"
 msgstr ""
 
-#: ../../index.rst:167
+#: ../../index.rst:168
 msgid "Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
 msgstr ""
 
-#: ../../index.rst:169
+#: ../../index.rst:170
 msgid ":mtgexp:`MTG` :doc:`Bohaterowie<THS_heroes>` |p100|"
 msgstr ""
 
-#: ../../index.rst:170
+#: ../../index.rst:171
 msgid ":mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p100|"
 msgstr ""
 
-#: ../../index.rst:171
+#: ../../index.rst:172
 msgid ":mtgexp:`BNG` :doc:`Walka z Hordą<BNG_horde>` |p100|"
 msgstr ""
 
-#: ../../index.rst:172
+#: ../../index.rst:173
 msgid ":mtgexp:`THS` :doc:`Staw czoła Hydrze<THS_hydra>` |p100|"
 msgstr ""
 
-#: ../../index.rst:175
+#: ../../index.rst:176
 msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:177
+#: ../../index.rst:178
 msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:178
+#: ../../index.rst:179
 msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:179
+#: ../../index.rst:180
 msgid ":doc:`Format Handicap<handicap>`"
 msgstr ""
 
-#: ../../index.rst:180
+#: ../../index.rst:181
 msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:184
+#: ../../index.rst:185
 msgid "Glosariusz"
 msgstr ""
 
-#: ../../index.rst:186
+#: ../../index.rst:187
 msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
 msgstr ""
 
-#: ../../index.rst:189
+#: ../../index.rst:190
 msgid "Ostatnie zmiany"
 msgstr ""
 
-#: ../../index.rst:190
+#: ../../index.rst:191
 msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
 msgstr ""
 
-#: ../../index.rst:193
+#: ../../index.rst:194
 msgid "Sponsorzy"
 msgstr ""
 
-#: ../../index.rst:195
+#: ../../index.rst:196
 msgid "`Centrum hobbystyczne \"Strefa\" <https://strefamarzen.pl/>`_ z Bielska-Białej."
 msgstr ""
 
-#: ../../index.rst:196
+#: ../../index.rst:197
 msgid "`Wspierający poprzez Patronite <https://patronite.pl/mtgpl>`_."
 msgstr ""
 
-#: ../../index.rst:199
+#: ../../index.rst:200
 msgid "Ekipa"
 msgstr ""
 
-#: ../../index.rst:201
+#: ../../index.rst:202
 msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
 msgstr ""
 
-#: ../../index.rst:203
+#: ../../index.rst:204
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:204
+#: ../../index.rst:205
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:205
+#: ../../index.rst:206
 msgid "Krzysztof Buniewicz - tłumacz"
 msgstr ""
 
-#: ../../index.rst:206
+#: ../../index.rst:207
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:207
+#: ../../index.rst:208
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 
-#: ../../index.rst:210
+#: ../../index.rst:211
 msgid "Kwestie prawne"
 msgstr ""
 
-#: ../../index.rst:212
+#: ../../index.rst:213
 msgid "Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie `Wizards of the Coast's Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_."
 msgstr ""
 
-#: ../../index.rst:214
+#: ../../index.rst:215
 msgid "Część materiałów w tym serwisie jest własnością Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:215
+#: ../../index.rst:216
 msgid "Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:216
+#: ../../index.rst:217
 msgid "Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed."
 msgstr ""
 
-#: ../../index.rst:217
+#: ../../index.rst:218
 msgid "Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_"
 msgstr ""
 
-#: ../../index.rst:220
+#: ../../index.rst:221
 msgid "Legal notice"
 msgstr ""
 
-#: ../../index.rst:222
+#: ../../index.rst:223
 msgid "MTGpoPolsku.pl is unofficial Fan Content permitted under the `Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:223
+#: ../../index.rst:224
 msgid "Translation work `(CC) copyleft <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>`_ Dominik Kozaczko. Some rights reversed."
 msgstr ""
