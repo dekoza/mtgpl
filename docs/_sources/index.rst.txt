@@ -49,6 +49,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|
 * :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|
 * :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|
 * :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|
@@ -94,9 +95,9 @@ Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejsz
 Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały
 karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited.
 
-* :mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|
 * :mtgexp:`AKR` :doc:`Amonkhet Remastered<AKR>` (tylko Arena) |AKR_percent|
 * :mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena) |KLR_percent|
+* :mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|
 
 W sierpniu 2021 ma się ukazać pierwszy dodatek do Areny zawierający karty z unikalnymi mechanikami przeznaczonymi
 wyłącznie do gry cyfrowej
