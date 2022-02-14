@@ -1,229 +1,230 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-02-14 21:53+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:101
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:103
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:105
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../NEO.rst:5
 msgid ":mtgexp:`NEO` Kamigawa: Neon Dynasty"
@@ -244,13 +245,15 @@ msgstr ""
 
 #: ../../NEO.rst:11
 msgid "Equipped creature gets +2/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../NEO.rst:13
 msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../NEO.rst:24
 msgid ""
@@ -261,11 +264,11 @@ msgstr ""
 
 #: ../../NEO.rst:17
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../NEO.rst:19
 msgid "When Ao, the Dawn Sky dies, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedno —"
 
 #: ../../NEO.rst:21
 msgid ""
@@ -343,7 +346,7 @@ msgstr ""
 #: ../../NEO.rst:677 ../../NEO.rst:689 ../../NEO.rst:1323 ../../NEO.rst:1497
 #: ../../NEO.rst:1707 ../../NEO.rst:1779
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../NEO.rst:46
 msgid ""
@@ -361,7 +364,7 @@ msgstr ""
 
 #: ../../NEO.rst:45 ../../NEO.rst:1047
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../NEO.rst:54
 msgid ""
@@ -374,13 +377,15 @@ msgstr ""
 #: ../../NEO.rst:907 ../../NEO.rst:983 ../../NEO.rst:1215 ../../NEO.rst:1253
 #: ../../NEO.rst:1301
 msgid "Enchant artifact or creature"
-msgstr ""
+msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../NEO.rst:51
 msgid ""
 "As long as enchanted permanent is a creature, it gets +1/+1 for each "
 "creature and/or Vehicle you control."
 msgstr ""
+"O ile zauroczony permanent jest stworem, dostaje +1/+1 za każdego innego "
+"stwora i/lub Pojazd pod twoim władaniem."
 
 #: ../../NEO.rst:53
 msgid ""
@@ -434,6 +439,8 @@ msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 1: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../NEO.rst:76
 msgid ""
@@ -458,11 +465,11 @@ msgstr ""
 
 #: ../../NEO.rst:81
 msgid "I — Scry 2."
-msgstr ""
+msgstr "I — Wróż 2."
 
 #: ../../NEO.rst:83
 msgid "II — You gain 2 life."
-msgstr ""
+msgstr "II — Zyskaj 2 życia."
 
 #: ../../NEO.rst:90
 msgid ""
@@ -474,7 +481,7 @@ msgstr ""
 
 #: ../../NEO.rst:89 ../../NEO.rst:991 ../../NEO.rst:1607
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../NEO.rst:100
 msgid ""
@@ -503,7 +510,7 @@ msgstr ""
 
 #: ../../NEO.rst:103 ../../NEO.rst:391 ../../NEO.rst:1765
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../NEO.rst:105
 msgid "When Fragment of Konda dies, draw a card."
@@ -518,23 +525,23 @@ msgstr ""
 
 #: ../../NEO.rst:109
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../NEO.rst:111
 msgid "Exile all artifacts."
-msgstr ""
+msgstr "Wygnaj wszystkie artefakty."
 
 #: ../../NEO.rst:113
 msgid "Exile all creatures."
-msgstr ""
+msgstr "Wygnaj wszystkie stwory."
 
 #: ../../NEO.rst:115
 msgid "Exile all enchantments."
-msgstr ""
+msgstr "Wygnaj wszystkie uroki."
 
 #: ../../NEO.rst:117
 msgid "Exile all graveyards."
-msgstr ""
+msgstr "Wygnaj wszystkie cmentarze."
 
 #: ../../NEO.rst:124
 msgid ""
@@ -547,7 +554,7 @@ msgstr ""
 #: ../../NEO.rst:121 ../../NEO.rst:225 ../../NEO.rst:253 ../../NEO.rst:279
 #: ../../NEO.rst:1669
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../NEO.rst:123
 msgid ""
@@ -564,7 +571,7 @@ msgstr ""
 
 #: ../../NEO.rst:127 ../../NEO.rst:725 ../../NEO.rst:781 ../../NEO.rst:1553
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../NEO.rst:132
 msgid ""
@@ -606,6 +613,8 @@ msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 2: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../NEO.rst:146
 msgid ""
@@ -629,7 +638,7 @@ msgstr ""
 
 #: ../../NEO.rst:149
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../NEO.rst:151
 msgid ""
@@ -681,7 +690,7 @@ msgstr ""
 #: ../../NEO.rst:167 ../../NEO.rst:295 ../../NEO.rst:543 ../../NEO.rst:573
 #: ../../NEO.rst:1705
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../NEO.rst:171
 msgid ""
@@ -704,7 +713,7 @@ msgstr ""
 
 #: ../../NEO.rst:177 ../../NEO.rst:235 ../../NEO.rst:641 ../../NEO.rst:1421
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedną —"
 
 #: ../../NEO.rst:179
 msgid "Put a +1/+1 counter on target creature or Vehicle. Untap it."
@@ -712,7 +721,7 @@ msgstr ""
 
 #: ../../NEO.rst:181
 msgid "Return target permanent you control to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany permanent pod twoim władaniem do ręki właściciela."
 
 #: ../../NEO.rst:186
 msgid ""
@@ -863,11 +872,11 @@ msgstr ""
 
 #: ../../NEO.rst:237
 msgid "Exile target creature with power 4 or greater."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora o sile 4 lub większej."
 
 #: ../../NEO.rst:239
 msgid "Exile target enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany urok."
 
 #: ../../NEO.rst:250
 msgid ""
@@ -882,6 +891,8 @@ msgid ""
 "I — Search your library for a basic Plains card, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
+"I — Wyszukaj w twojej bibliotece kartę bazowej Równiny, ujawnij ją, umieść "
+"ją w twojej ręce, po czym przetasuj."
 
 #: ../../NEO.rst:247
 msgid ""
@@ -947,6 +958,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each enchantment you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy urok pod twoim "
+"władaniem."
 
 #: ../../NEO.rst:276
 msgid ""
@@ -1070,7 +1083,7 @@ msgstr ""
 #: ../../NEO.rst:317 ../../NEO.rst:831
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../NEO.rst:319
 msgid ""
@@ -1091,6 +1104,8 @@ msgid ""
 "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
+"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
 
 #: ../../NEO.rst:325
 msgid "Equipped creature gets +2/+1 and has ward |mana_2|."
@@ -1150,7 +1165,7 @@ msgstr ""
 
 #: ../../NEO.rst:349 ../../NEO.rst:917 ../../NEO.rst:1533 ../../NEO.rst:1581
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../NEO.rst:351
 msgid "Vision of the Unspeakable gets +1/+1 for each card in your hand."
@@ -1169,6 +1184,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę z twojej ręki na "
+"polu bitwy przekręconą i atakującą.)"
 
 #: ../../NEO.rst:357
 msgid ""
@@ -1207,7 +1225,7 @@ msgstr ""
 
 #: ../../NEO.rst:367
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../NEO.rst:372
 msgid ""
@@ -1221,6 +1239,8 @@ msgid ""
 "Counter target creature spell. Put a +1/+1 counter on up to one target "
 "creature you control."
 msgstr ""
+"Skontruj wskazany czar stwora. Umieść znacznik +1/+1 na co najwyżej jednym "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../NEO.rst:378
 msgid ""
@@ -1251,6 +1271,8 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 3: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../NEO.rst:388
 msgid ""
@@ -1410,7 +1432,7 @@ msgstr ""
 
 #: ../../NEO.rst:443
 msgid "Crew 1"
-msgstr ""
+msgstr "Załoga 1"
 
 #: ../../NEO.rst:450
 msgid ""
@@ -1424,6 +1446,8 @@ msgid ""
 "Ward |mana_3| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_3|.)"
 msgstr ""
+"Opieka |mana_3| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_3|.)"
 
 #: ../../NEO.rst:449
 msgid ""
@@ -1542,6 +1566,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę na polu bitwy z "
+"twojej ręki przekręconą i atakującą.)"
 
 #: ../../NEO.rst:499
 msgid ""
@@ -1597,6 +1624,7 @@ msgstr ""
 #: ../../NEO.rst:519
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../NEO.rst:521
 msgid ""
@@ -1621,6 +1649,8 @@ msgstr ""
 #: ../../NEO.rst:527
 msgid "This spell costs |mana_1| less to cast for each artifact you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy artefakt pod twoim "
+"władaniem."
 
 #: ../../NEO.rst:529
 msgid ""
@@ -1692,6 +1722,7 @@ msgstr ""
 #: ../../NEO.rst:557
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
+"Skontruj wskazany nie-stworowy czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../NEO.rst:564
 msgid ""
@@ -1708,7 +1739,7 @@ msgstr ""
 
 #: ../../NEO.rst:563 ../../NEO.rst:895
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../NEO.rst:570
 msgid ""
@@ -1797,6 +1828,8 @@ msgstr ""
 msgid ""
 "Draw three cards. Then discard two cards unless you discard an artifact card."
 msgstr ""
+"Dobierz trzy karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
+"artefaktu."
 
 #: ../../NEO.rst:602
 msgid ""
@@ -1834,7 +1867,7 @@ msgstr ""
 
 #: ../../NEO.rst:607
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../NEO.rst:616
 msgid ""
@@ -1867,7 +1900,7 @@ msgstr ""
 
 #: ../../NEO.rst:619 ../../NEO.rst:817 ../../NEO.rst:1789
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../NEO.rst:621
 msgid ""
@@ -1921,7 +1954,7 @@ msgstr ""
 
 #: ../../NEO.rst:643
 msgid "Target opponent exiles a creature they control."
-msgstr ""
+msgstr "Wskazany przeciwnik wygania stwora pod swoim władaniem."
 
 #: ../../NEO.rst:645
 msgid "Target opponent exiles an enchantment they control."
@@ -1951,6 +1984,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę na polu bitwy z "
+"twojej ręki przekręconą i atakującą.)"
 
 #: ../../NEO.rst:660
 msgid ""
@@ -1965,6 +2001,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę na polu bitwy z "
+"twojej ręki przekręconą i atakującą.)"
 
 #: ../../NEO.rst:659
 msgid ""
@@ -1982,7 +2021,7 @@ msgstr ""
 
 #: ../../NEO.rst:663
 msgid "Equipped creature gets +4/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+0."
 
 #: ../../NEO.rst:665
 msgid ""
@@ -1995,6 +2034,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../NEO.rst:674
 msgid ""
@@ -2006,7 +2047,7 @@ msgstr ""
 
 #: ../../NEO.rst:671 ../../NEO.rst:1249
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../NEO.rst:673
 msgid ""
@@ -2082,7 +2123,7 @@ msgstr ""
 
 #: ../../NEO.rst:699
 msgid "Flying, menace"
-msgstr ""
+msgstr "Latanie, złowrogość"
 
 #: ../../NEO.rst:701
 msgid "When Junji, the Midnight Sky dies, choose one —"
@@ -2156,7 +2197,7 @@ msgstr ""
 
 #: ../../NEO.rst:727
 msgid "Equipped creature has lifelink."
-msgstr ""
+msgstr "Wyposażony stwór ma więź życia."
 
 #: ../../NEO.rst:734
 msgid ""
@@ -2186,15 +2227,15 @@ msgstr ""
 
 #: ../../NEO.rst:741
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../NEO.rst:743
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../NEO.rst:745
 msgid "You gain 2 life."
-msgstr ""
+msgstr "Zyskaj 2 życia."
 
 #: ../../NEO.rst:752
 msgid ""
@@ -2234,6 +2275,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../NEO.rst:765
 msgid ""
@@ -2253,6 +2296,8 @@ msgid ""
 "All creatures get -2/-2 until end of turn. If a creature would die this "
 "turn, exile it instead."
 msgstr ""
+"Wszystkie stwory dostają do końca tury -2/-2. Jeśli stwór miałby umrzeć w "
+"tej turze, zamiast tego wygnaj go."
 
 #: ../../NEO.rst:776
 msgid ""
@@ -2437,7 +2482,7 @@ msgstr ""
 
 #: ../../NEO.rst:843
 msgid "Exile target creature or planeswalker."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora lub wędrowca."
 
 #: ../../NEO.rst:845
 msgid ""
@@ -2487,7 +2532,7 @@ msgstr ""
 
 #: ../../NEO.rst:863
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../NEO.rst:865
 msgid ""
@@ -2572,7 +2617,7 @@ msgstr ""
 
 #: ../../NEO.rst:893
 msgid "Destroy target creature that was dealt damage this turn."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora, który otrzymał obrażenia w tej turze."
 
 #: ../../NEO.rst:900
 msgid ""
@@ -2643,6 +2688,8 @@ msgid ""
 "Exile the top two cards of your library. Until the end of your next turn, "
 "you may play those cards."
 msgstr ""
+"Wygnaj dwie wierzchnie karty twojej biblioteki. Do końca twojej następnej "
+"tury możesz zagrać owe karty."
 
 #: ../../NEO.rst:923
 msgid "Create three Treasure tokens."
@@ -2658,7 +2705,7 @@ msgstr ""
 #: ../../NEO.rst:927 ../../NEO.rst:1003 ../../NEO.rst:1269 ../../NEO.rst:1283
 #: ../../NEO.rst:1341 ../../NEO.rst:1525 ../../NEO.rst:1773 ../../NEO.rst:1811
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../NEO.rst:929
 msgid "Equipped creature gets +3/+2 and has trample."
@@ -2673,7 +2720,7 @@ msgstr ""
 
 #: ../../NEO.rst:935 ../../NEO.rst:1289
 msgid "Enchant land you control"
-msgstr ""
+msgstr "Zaurocz ląd pod twoim władaniem"
 
 #: ../../NEO.rst:937
 msgid ""
@@ -2896,7 +2943,7 @@ msgstr ""
 
 #: ../../NEO.rst:1013 ../../NEO.rst:1113 ../../NEO.rst:1797
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../NEO.rst:1015
 msgid ""
@@ -2941,7 +2988,7 @@ msgstr ""
 
 #: ../../NEO.rst:1027
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../NEO.rst:1038
 msgid ""
@@ -2974,7 +3021,7 @@ msgstr ""
 #: ../../NEO.rst:1041 ../../NEO.rst:1075 ../../NEO.rst:1083 ../../NEO.rst:1133
 #: ../../NEO.rst:1477 ../../NEO.rst:1613
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../NEO.rst:1043
 msgid ""
@@ -3022,7 +3069,7 @@ msgstr ""
 
 #: ../../NEO.rst:1061
 msgid "Equipped creature gets +2/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../NEO.rst:1063
 msgid ""
@@ -3060,7 +3107,7 @@ msgstr ""
 
 #: ../../NEO.rst:1077
 msgid "Equipped creature gets +1/+1 and has haste."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i ma pośpiech."
 
 #: ../../NEO.rst:1079
 msgid ""
@@ -3161,7 +3208,7 @@ msgstr ""
 
 #: ../../NEO.rst:1117
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../NEO.rst:1119
 msgid ""
@@ -3234,7 +3281,7 @@ msgstr ""
 #: ../../NEO.rst:1143 ../../NEO.rst:1189 ../../NEO.rst:1209 ../../NEO.rst:1357
 #: ../../NEO.rst:1469
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../NEO.rst:1145
 msgid ""
@@ -3330,7 +3377,7 @@ msgstr ""
 
 #: ../../NEO.rst:1179
 msgid "Defender, reach"
-msgstr ""
+msgstr "Obronność, zasięg"
 
 #: ../../NEO.rst:1181
 msgid ""
@@ -3505,7 +3552,7 @@ msgstr ""
 
 #: ../../NEO.rst:1245
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../NEO.rst:1250
 msgid ""
@@ -3581,7 +3628,7 @@ msgstr ""
 
 #: ../../NEO.rst:1275
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../NEO.rst:1277
 msgid ""
@@ -3591,7 +3638,7 @@ msgstr ""
 
 #: ../../NEO.rst:1279
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../NEO.rst:1286
 msgid ""
@@ -3810,7 +3857,7 @@ msgstr ""
 
 #: ../../NEO.rst:1365
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../NEO.rst:1367
 msgid "When Kura, the Boundless Sky dies, choose one —"
@@ -3862,6 +3909,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature or planeswalker you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi lub wędrowcowi poza twoim władaniem."
 
 #: ../../NEO.rst:1388
 msgid ""
@@ -3872,7 +3921,7 @@ msgstr ""
 
 #: ../../NEO.rst:1385 ../../NEO.rst:1833
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../NEO.rst:1387
 msgid ""
@@ -3909,15 +3958,15 @@ msgstr ""
 
 #: ../../NEO.rst:1397
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedną lub obie —"
 
 #: ../../NEO.rst:1399
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1401
 msgid "Return target enchantment card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę uroku z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1408
 msgid ""
@@ -4166,7 +4215,7 @@ msgstr ""
 
 #: ../../NEO.rst:1499
 msgid "Artifact spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów artefaktów kosztuje cię o |mana_1| mniej."
 
 #: ../../NEO.rst:1508
 msgid ""
@@ -4298,7 +4347,7 @@ msgstr ""
 
 #: ../../NEO.rst:1555
 msgid "Enchantment spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów uroków kosztuje cię o |mana_1| mniej."
 
 #: ../../NEO.rst:1566
 msgid ""
@@ -4527,6 +4576,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_u|\\ |mana_b| (|mana_u|\\ |mana_b|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę na polu bitwy z "
+"twojej ręki przekręconą i atakującą.)"
 
 #: ../../NEO.rst:1639
 msgid "Ninjutsu abilities you activate cost |mana_1| less to activate."
@@ -4614,6 +4666,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../NEO.rst:1672
 msgid ""
@@ -4677,7 +4731,7 @@ msgstr ""
 
 #: ../../NEO.rst:1691
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../NEO.rst:1693
 msgid ""
@@ -4689,7 +4743,7 @@ msgstr ""
 
 #: ../../NEO.rst:1695
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../NEO.rst:1702
 msgid ""
@@ -4760,7 +4814,7 @@ msgstr ""
 
 #: ../../NEO.rst:1723
 msgid "Crew 2"
-msgstr ""
+msgstr "Załoga 2"
 
 #: ../../NEO.rst:1732
 msgid ""
@@ -4792,7 +4846,7 @@ msgstr ""
 
 #: ../../NEO.rst:1735
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../NEO.rst:1737
 msgid ""
@@ -4861,7 +4915,7 @@ msgstr ""
 
 #: ../../NEO.rst:1761
 msgid "Crew 3"
-msgstr ""
+msgstr "Załoga 3"
 
 #: ../../NEO.rst:1770
 msgid ""
@@ -4937,7 +4991,7 @@ msgstr ""
 
 #: ../../NEO.rst:1793
 msgid "Crew 4"
-msgstr ""
+msgstr "Załoga 4"
 
 #: ../../NEO.rst:1800
 msgid ""
@@ -4994,15 +5048,15 @@ msgstr ""
 
 #: ../../NEO.rst:1817
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1819
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1821
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../NEO.rst:1830
 msgid ""
@@ -5013,15 +5067,15 @@ msgstr ""
 
 #: ../../NEO.rst:1825
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1827
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1829
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../NEO.rst:1836
 msgid ""
@@ -5048,15 +5102,15 @@ msgstr ""
 
 #: ../../NEO.rst:1839
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1841
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1843
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../NEO.rst:1850
 msgid ""
@@ -5068,7 +5122,7 @@ msgstr ""
 
 #: ../../NEO.rst:1847
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../NEO.rst:1849
 msgid ""
@@ -5086,15 +5140,15 @@ msgstr ""
 
 #: ../../NEO.rst:1853
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1855
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1857
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../NEO.rst:1866
 msgid ""
@@ -5105,7 +5159,7 @@ msgstr ""
 
 #: ../../NEO.rst:1861 ../../NEO.rst:1875 ../../NEO.rst:1899
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../NEO.rst:1863
 msgid ""
@@ -5128,7 +5182,7 @@ msgstr ""
 
 #: ../../NEO.rst:1869
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../NEO.rst:1871
 msgid ""
@@ -5160,15 +5214,15 @@ msgstr ""
 
 #: ../../NEO.rst:1881
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1883
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1885
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../NEO.rst:1894
 msgid ""
@@ -5179,15 +5233,15 @@ msgstr ""
 
 #: ../../NEO.rst:1889
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1891
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1893
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../NEO.rst:1902
 msgid ""
@@ -5217,7 +5271,7 @@ msgstr ""
 
 #: ../../NEO.rst:1905
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../NEO.rst:1907
 msgid ""
@@ -5236,15 +5290,15 @@ msgstr ""
 
 #: ../../NEO.rst:1911
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1913
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1915
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../NEO.rst:1922
 msgid ""
@@ -5256,7 +5310,7 @@ msgstr ""
 
 #: ../../NEO.rst:1919
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../NEO.rst:1921
 msgid ""
@@ -5275,15 +5329,15 @@ msgstr ""
 
 #: ../../NEO.rst:1925
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1927
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1929
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../NEO.rst:1938
 msgid ""
@@ -5294,15 +5348,15 @@ msgstr ""
 
 #: ../../NEO.rst:1933
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1935
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1937
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../NEO.rst:1946
 msgid ""
@@ -5321,7 +5375,7 @@ msgstr ""
 
 #: ../../NEO.rst:1945
 msgid "|tap|: Add one mana of the chosen color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę wybranego koloru."
 
 #: ../../NEO.rst:1954
 msgid ""
@@ -5332,15 +5386,15 @@ msgstr ""
 
 #: ../../NEO.rst:1949
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1951
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1953
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../NEO.rst:1958
 msgid ""
@@ -5351,7 +5405,7 @@ msgstr ""
 
 #: ../../NEO.rst:1957
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../NEO.rst:1962
 msgid ""
@@ -5362,7 +5416,7 @@ msgstr ""
 
 #: ../../NEO.rst:1961
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../NEO.rst:1966
 msgid ""
@@ -5373,7 +5427,7 @@ msgstr ""
 
 #: ../../NEO.rst:1965
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../NEO.rst:1970
 msgid ""
@@ -5384,7 +5438,7 @@ msgstr ""
 
 #: ../../NEO.rst:1969
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../NEO.rst:1973
 msgid ""
@@ -5395,4 +5449,4 @@ msgstr ""
 
 #: ../../NEO.rst:1973
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
