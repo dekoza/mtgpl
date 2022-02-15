@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-02-15 11:07+0000\n"
+"PO-Revision-Date: 2022-02-15 19:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -242,7 +242,7 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, you may pay |"
 "mana_1|. When you do, attach Ancestral Katana to it."
 msgstr ""
-"Ilekroć Samuraj lub Wojownik pod twoim władaniem atakuje samotnie, możesz "
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, możesz "
 "zapłacić |mana_1|. Kiedy tak zrobisz, dołącz do niego ten permanent."
 
 #: ../../NEO.rst:11
@@ -424,6 +424,8 @@ msgid ""
 "Return all artifact and enchantment cards from your graveyard to the "
 "battlefield."
 msgstr ""
+"Przywróć wszystkie karty artefaktów i uroków z twojego cmentarza na pole "
+"bitwy."
 
 #: ../../NEO.rst:66
 msgid ""
@@ -437,6 +439,8 @@ msgid ""
 "Equipped creature has flying and \"You can't lose the game and your "
 "opponents can't win the game.\""
 msgstr ""
+"Wyposażony stwór ma latanie oraz \"Nie możesz przegrać, a twoi przeciwnicy "
+"nie mogą wygrać.\""
 
 #: ../../NEO.rst:65 ../../NEO.rst:931
 msgid ""
@@ -472,6 +476,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until "
 "end of turn."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, dostaje "
+"on do końca tury +1/+1."
 
 #: ../../NEO.rst:86
 msgid ""
@@ -513,10 +519,12 @@ msgstr ""
 msgid ""
 "I — Exile target creature an opponent controls with mana value 4 or greater."
 msgstr ""
+"I — Wygnaj wskazanego stwora pod władaniem przeciwnika o skrócie many 4 lub "
+"większym."
 
 #: ../../NEO.rst:97
 msgid "II — Each player gains control of all permanents they own."
-msgstr ""
+msgstr "II — Każdy gracz zyskuje władanie nad wszystkimi własnymi permanentami."
 
 #: ../../NEO.rst:106
 msgid ""
@@ -532,7 +540,7 @@ msgstr "Obronność"
 
 #: ../../NEO.rst:105
 msgid "When Fragment of Konda dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../NEO.rst:118
 msgid ""
@@ -579,6 +587,9 @@ msgid ""
 "At the beginning of your end step, you may pay |mana_1|. If you do, create a "
 "1/1 colorless Spirit creature token for each Shrine you control."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, stwórz po żetonie bezkolorowego stwora Duch 1/1 za każdą Kapliczkę "
+"pod twoim władaniem."
 
 #: ../../NEO.rst:128
 msgid ""
@@ -600,7 +611,7 @@ msgstr ""
 
 #: ../../NEO.rst:131
 msgid "Hotshot Mechanic crews Vehicles as though its power were 2 greater."
-msgstr ""
+msgstr "Ten stwór załoguje Pojazdy jakby miał siłę o 2 większą."
 
 #: ../../NEO.rst:136
 msgid ""
@@ -611,7 +622,7 @@ msgstr ""
 
 #: ../../NEO.rst:135
 msgid "Create three 2/2 white Samurai creature tokens with vigilance. Scry 3."
-msgstr ""
+msgstr "Stwórz trzy żetony białego stwora Samuraj 2/2 z czujnością. Wróż 3."
 
 #: ../../NEO.rst:142
 msgid ""
@@ -625,6 +636,8 @@ msgid ""
 "Whenever Imperial Recovery Unit attacks, return target creature or Vehicle "
 "card with mana value 2 or less from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór zaatakuj, przywróć wskazaną kartę stwora lub Pojazdu o "
+"skrócie many 2 lub mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:141 ../../NEO.rst:787 ../../NEO.rst:1603 ../../NEO.rst:1799
 msgid ""
@@ -646,6 +659,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, tap target creature "
 "you don't control."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, "
+"przekręć wskazanego stwora poza twoim władaniem."
 
 #: ../../NEO.rst:152
 msgid ""
@@ -663,6 +678,8 @@ msgid ""
 "Enchanted permanent can't attack, block, or crew Vehicles. Its activated "
 "abilities can't be activated unless they're mana abilities."
 msgstr ""
+"Zauroczony permanent nie może atakować, blokować ani załogować Pojazdów. "
+"Jego aktywowane zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../NEO.rst:156
 msgid ""
@@ -677,6 +694,9 @@ msgid ""
 "distribute four +1/+1 counters among any number of creatures and/or Vehicles "
 "target player controls."
 msgstr ""
+"Przywróć wskazaną kartę permanentu z twojego cmentarza na pole bitwy, po "
+"czym rozmieść cztery znaczniki +1/+1 pomiędzy dowolną liczbą stworów i/lub "
+"Pojazdów pod władaniem wskazanego gracza."
 
 #: ../../NEO.rst:164
 msgid ""
@@ -687,15 +707,15 @@ msgstr ""
 
 #: ../../NEO.rst:159
 msgid "Whenever a Vehicle you control attacks, choose one —"
-msgstr ""
+msgstr "Ilekroć Pojazd pod twoim władaniem zaatakuje, wybierze jedno —"
 
 #: ../../NEO.rst:161
 msgid "That Vehicle gains first strike until end of turn."
-msgstr ""
+msgstr "Ów Pojazd zyskuje do końca tury pierwszy cios."
 
 #: ../../NEO.rst:163
 msgid "Untap Kitsune Ace."
-msgstr ""
+msgstr "Odkręć tego stwora."
 
 #: ../../NEO.rst:174
 msgid ""
@@ -715,12 +735,16 @@ msgid ""
 "When Kyodai, Soul of Kamigawa enters the battlefield, another target "
 "permanent gains indestructible for as long as you control Kyodai."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, inny wskazany permanent zyskuje "
+"niezniszczalność na czas twojego władania niniejszym stworem."
 
 #: ../../NEO.rst:173
 msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Kyodai, Soul of "
 "Kamigawa gets +5/+5 until end of turn."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do "
+"końca tury +5/+5."
 
 #: ../../NEO.rst:182
 msgid ""
@@ -735,7 +759,7 @@ msgstr "Wybierz jedną —"
 
 #: ../../NEO.rst:179
 msgid "Put a +1/+1 counter on target creature or Vehicle. Untap it."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze lub Pojeździe. Odkręć go."
 
 #: ../../NEO.rst:181
 msgid "Return target permanent you control to its owner's hand."
@@ -757,6 +781,10 @@ msgid ""
 "that card onto the battlefield attached to Light-Paws, Emperor's Voice, then "
 "shuffle."
 msgstr ""
+"Ilekroć Aura wejdzie na pole bitwy pod twoim władaniem, jeśli ją rzuciłeś, "
+"możesz wyszukać w twojej bibliotece kartę Aury o mniejszym lub równym "
+"skrócie many i o innej nazwie niż każda Aura pod twoim władaniem. Umieść ową "
+"kartę na polu bitwy dołączoną do niniejszego stwora, po czym przetasuj."
 
 #: ../../NEO.rst:194
 msgid ""
@@ -770,10 +798,13 @@ msgid ""
 "|mana_w|: Exile target card from a graveyard. If it was a permanent card, "
 "put a +1/+1 counter on Lion Sash."
 msgstr ""
+"|mana_w|: Wygnaj wskazaną kartę z cmentarza. Jeśli to karta permanentu, "
+"umieść znacznik +1/+1 na tym permanencie."
 
 #: ../../NEO.rst:191
 msgid "Equipped creature gets +1/+1 for each +1/+1 counter on Lion Sash."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy znacznik +1/+1 na tym permanencie."
 
 #: ../../NEO.rst:193 ../../NEO.rst:313 ../../NEO.rst:629 ../../NEO.rst:1051
 #: ../../NEO.rst:1121
@@ -793,6 +824,7 @@ msgstr ""
 #: ../../NEO.rst:197
 msgid "Destroy target artifact with mana value 3 or less. You gain 3 life."
 msgstr ""
+"Zniszcz wskazany artefakt o skrócie many 3 lub mniejszym. Zyskaj 3 życia."
 
 #: ../../NEO.rst:204
 msgid ""
@@ -808,11 +840,15 @@ msgid ""
 "cards from your hand. This spell costs |mana_2| less to cast for each card "
 "exiled this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz wygnać dowolną liczbę "
+"białych kart z twojej ręki. Rzucenie tego czaru kosztuje o |mana_2| mniej za "
+"każdą kartę wygnaną w ten sposób."
 
 #: ../../NEO.rst:203
 msgid ""
 "Exile target artifact, creature, or enchantment with mana value X or less."
 msgstr ""
+"Wygnaj wskazany artefakt, stwora lub urok o skrócie many X lub mniejszym."
 
 #: ../../NEO.rst:212
 msgid ""
@@ -827,6 +863,8 @@ msgid ""
 "I, II — Target creature gets +1/+1 until end of turn for each artifact and/"
 "or enchantment you control."
 msgstr ""
+"I, II — Wskazany stwór dostaje do końca tury +1/+1 za każdy artefakt i/lub "
+"urok pod twoim władaniem."
 
 #: ../../NEO.rst:216
 msgid ""
@@ -841,6 +879,7 @@ msgid ""
 "Portrait of Michiko gets +1/+1 for each artifact and/or enchantment you "
 "control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy artefakt i/lub urok pod twoim władaniem."
 
 #: ../../NEO.rst:222
 msgid ""
@@ -851,7 +890,7 @@ msgstr ""
 
 #: ../../NEO.rst:221
 msgid "|mana_3|\\ |mana_w|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_3|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../NEO.rst:228
 msgid ""
@@ -866,6 +905,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, you may cast target "
 "enchantment card from your graveyard this turn."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, możesz "
+"w tej turze rzucić wskazaną kartę uroku z twojego cmentarza."
 
 #: ../../NEO.rst:232
 msgid ""
@@ -880,6 +921,9 @@ msgid ""
 "creature or legendary creature, instead put a +1/+1 counter on it and it "
 "gets +1/+1 until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest stworem-urokiem lub "
+"legendarnym stworem, zamiast tego umieść na nim znacznik +1/+1 i dostaje on "
+"do końca tury +1/+1."
 
 #: ../../NEO.rst:240
 msgid ""
@@ -917,6 +961,9 @@ msgid ""
 "II — You may discard a card. When you do, return target permanent card with "
 "mana value 2 or less from your graveyard to the battlefield tapped."
 msgstr ""
+"II — Możesz odrzucić kartę. Kiedy tak zrobisz, przywróć wskazaną kartę "
+"permanentu o skrócie many 2 lub mniejszym z twojego cmentarza przekręconą na "
+"pole bitwy."
 
 #: ../../NEO.rst:256
 msgid ""
@@ -931,6 +978,8 @@ msgid ""
 "Whenever Architect of Restoration attacks or blocks, create a 1/1 colorless "
 "Spirit creature token."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, stwórz żeton bezkolorowego stwora "
+"Duch 1/1."
 
 #: ../../NEO.rst:262
 msgid ""
@@ -944,6 +993,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, it gains lifelink "
 "until end of turn."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, zyskuje "
+"on do końca tury więź życia."
 
 #: ../../NEO.rst:261
 msgid ""
@@ -951,6 +1002,9 @@ msgid ""
 "indestructible until end of turn. (Damage and effects that say \"destroy\" "
 "don't destroy it.)"
 msgstr ""
+"Poświęć tego stwora: Inny wskazany stwór pod twoim władaniem zyskuje do "
+"końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą go.)"
 
 #: ../../NEO.rst:266
 msgid ""
@@ -964,6 +1018,8 @@ msgid ""
 "When Seven-Tail Mentor enters the battlefield or dies, put a +1/+1 counter "
 "on target creature or Vehicle you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy lub umrze, umieść znacznik +1/+1 na "
+"wskazanym stworze lub Pojeździe pod twoim władaniem."
 
 #: ../../NEO.rst:272
 msgid ""
@@ -988,7 +1044,7 @@ msgstr ""
 
 #: ../../NEO.rst:275
 msgid "When Spirited Companion enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../NEO.rst:282
 msgid ""
@@ -1016,6 +1072,8 @@ msgid ""
 "When Touch the Spirit Realm enters the battlefield, exile up to one target "
 "artifact or creature until Touch the Spirit Realm leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, wygnaj co najwyżej jeden wskazany "
+"artefakt lub stwora dopóki ten urok nie opuści pola bitwy."
 
 #: ../../NEO.rst:287
 msgid ""
@@ -1036,6 +1094,7 @@ msgid ""
 "Wanderer's Intervention deals 4 damage to target attacking or blocking "
 "creature."
 msgstr ""
+"Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../NEO.rst:304
 msgid ""
@@ -1049,20 +1108,24 @@ msgid ""
 "As long as The Wandering Emperor entered the battlefield this turn, you may "
 "activate her loyalty abilities any time you could cast an instant."
 msgstr ""
+"O ile ten wędrowiec wszedł na pole bitwy w tej turze, możesz aktywować jego "
+"zdolności lojalnościowe jako sztuczkę."
 
 #: ../../NEO.rst:299
 msgid ""
 "+1: Put a +1/+1 counter on up to one target creature. It gains first strike "
 "until end of turn."
 msgstr ""
+"+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym stworze. Do końca "
+"tury zyskuje on pierwszy cios."
 
 #: ../../NEO.rst:301
 msgid "−1: Create a 2/2 white Samurai creature token with vigilance."
-msgstr ""
+msgstr "–1: Stwórz dwa żetony białego stwora Samuraj 2/2 z czujnością."
 
 #: ../../NEO.rst:303
 msgid "−2: Exile target tapped creature. You gain 2 life."
-msgstr ""
+msgstr "–2: Wygnaj wskazanego przekręconego stwora. Zyskaj 2 życia."
 
 #: ../../NEO.rst:308
 msgid ""
@@ -5401,7 +5464,7 @@ msgstr ""
 
 #: ../../NEO.rst:1941
 msgid "Uncharted Haven enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1943
 msgid "As Uncharted Haven enters the battlefield, choose a color."
