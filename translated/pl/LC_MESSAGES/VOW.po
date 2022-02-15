@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-23 15:41+0100\n"
-"PO-Revision-Date: 2021-11-12 08:43+0000\n"
+"PO-Revision-Date: 2022-02-15 20:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8.1\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -564,16 +564,12 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:99
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Cleave |mana_5|\\ |mana_w| (You may cast this spell for its cleave cost. If "
 "you do, remove the words in square brackets.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
-"twojego cmentarza za koszt niepokojenia.)"
+"Rozłupanie |mana_5|\\ |mana_w| (Możesz rzucić ten czar za jego koszt "
+"rozłupania. Jeśli tak zrobisz, usuń wyrazy w kwadratowych nawiasach.)"
 
 #: ../../VOW.rst:101
 msgid "Destroy target [attacking] creature."
@@ -817,14 +813,16 @@ msgid ""
 "Cleave |mana_x|\\ |mana_r|\\ |mana_w| (You may cast this spell for its "
 "cleave cost. If you do, remove the words in square brackets.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
-"twojego cmentarza za koszt niepokojenia.)"
+"Rozłupanie |mana_x|\\ |mana_r|\\ |mana_w| (Możesz rzucić ten czar za jego "
+"koszt rozłupania. Jeśli tak zrobisz, usuń wyrazy w kwadratowych nawiasach.)"
 
 #: ../../VOW.rst:183
 msgid ""
 "Lantern Flare deals X damage to target creature or planeswalker and you gain "
 "X life. [X is the number of creatures you control.]"
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi X obrażeń, a ty zyskaj X "
+"żyć. [X jest liczbą stworów pod twoim władaniem.]"
 
 #: ../../VOW.rst:190
 msgid ""
@@ -835,11 +833,11 @@ msgstr ""
 
 #: ../../VOW.rst:187
 msgid "Militia Rallier can't attack alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować samotnie."
 
 #: ../../VOW.rst:189
 msgid "Whenever Militia Rallier attacks, untap target creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, odkręć wskazanego stwora."
 
 #: ../../VOW.rst:194
 msgid ""
@@ -864,17 +862,16 @@ msgid ""
 "Enchanted creature has \"Whenever a creature enters the battlefield under "
 "your control, this creature gets +1/+1 until end of turn.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć stwór wejdzie na pole bitwy pod twoim "
+"władaniem, ten stwór dostaje do końca tury +1/+1.\""
 
 #: ../../VOW.rst:201
-#, fuzzy
-#| msgid ""
-#| "Exploit (When this creature enters the battlefield, you may sacrifice a "
-#| "creature.)"
 msgid ""
 "When Nurturing Presence enters the battlefield, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 "
+"z lataniem."
 
 #: ../../VOW.rst:208
 msgid ""
@@ -888,12 +885,12 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../VOW.rst:207
-#, fuzzy
-#| msgid "Whenever you cast an enchantment spell, you gain 2 life."
 msgid ""
 "Sacrifice Ollenbock Escort: Target creature you control with a +1/+1 counter "
 "on it gains lifelink and indestructible until end of turn."
-msgstr "Ilekroć rzucisz czar uroku, zyskaj 2 życia."
+msgstr ""
+"Poświęć tego stwora: Wskazany stwór pod twoim władaniem mający znacznik +1/+"
+"1 zyskuje do końca tury więź życia i niezniszczalność."
 
 #: ../../VOW.rst:214
 msgid ""
@@ -904,18 +901,18 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:211
-#, fuzzy
-#| msgid "Whenever you cast an enchantment spell, you gain 2 life."
 msgid ""
 "Whenever Panicked Bystander or another creature you control dies, you gain 1 "
 "life."
-msgstr "Ilekroć rzucisz czar uroku, zyskaj 2 życia."
+msgstr "Ilekroć umrze ten lub inny stwór pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../VOW.rst:213
 msgid ""
 "At the beginning of your end step, if you gained 3 or more life this turn, "
 "transform Panicked Bystander."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli zyskałeś co najmniej 3 życia w "
+"tej turze, transformuj tego stwora."
 
 #: ../../VOW.rst:220
 msgid ""
@@ -926,17 +923,15 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:217
-#, fuzzy
-#| msgid "Whenever you cast an enchantment spell, you gain 2 life."
 msgid ""
 "Whenever Cackling Culprit or another creature you control dies, you gain 1 "
 "life."
-msgstr "Ilekroć rzucisz czar uroku, zyskaj 2 życia."
+msgstr "Ilekroć umrze ten lub inny stwór pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../VOW.rst:219
 msgid ""
 "|mana_1|\\ |mana_b|: Cackling Culprit gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Ten stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../VOW.rst:226
 msgid ""
@@ -950,6 +945,8 @@ msgid ""
 "When Parish-Blade Trainee dies, put its counters on target creature you "
 "control."
 msgstr ""
+"Kiedy ten stwór umrze, umieść jego znaczniki na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../VOW.rst:230
 msgid ""
@@ -964,6 +961,9 @@ msgid ""
 "1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 2 obrażenia. "
+"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz ją umieścić na "
+"spodzie twojej biblioteki.)"
 
 #: ../../VOW.rst:238
 msgid ""
@@ -982,6 +982,8 @@ msgid ""
 "When enchanted creature dies, return Radiant Grace to the battlefield "
 "transformed under your control attached to target opponent."
 msgstr ""
+"Kiedy zauroczony stwór umrze, przywróć ten urok transformowany na pole bitwy "
+"pod twoim władaniem dołączony do wskazanego przeciwnika."
 
 #: ../../VOW.rst:244
 msgid ""
@@ -994,6 +996,7 @@ msgstr ""
 #: ../../VOW.rst:243
 msgid "Creatures enchanted player controls enter the battlefield tapped."
 msgstr ""
+"Stwory pod władaniem zauroczonego gracza wchodzą przekręcone na pole bitwy."
 
 #: ../../VOW.rst:248
 msgid ""
@@ -1029,10 +1032,6 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:257
-#, fuzzy
-#| msgid ""
-#| "Whenever Savior of Ollenblock trains, exile up to one other target "
-#| "creature from the battlefield or creature card from a graveyard."
 msgid ""
 "Whenever Savior of Ollenbock trains, exile up to one other target creature "
 "from the battlefield or creature card from a graveyard."
@@ -1041,10 +1040,6 @@ msgstr ""
 "pola bitwy lub kartę stwora z cmentarza."
 
 #: ../../VOW.rst:259
-#, fuzzy
-#| msgid ""
-#| "When Savior of Ollenblock leaves the battlefield, put the exiled cards "
-#| "onto the battlefield under their owners' control."
 msgid ""
 "When Savior of Ollenbock leaves the battlefield, put the exiled cards onto "
 "the battlefield under their owners' control."
@@ -1069,6 +1064,9 @@ msgid ""
 "an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
+"|mana_4|\\ |mana_w|: Wygnaj zauroczonego stwora. Stwórz żeton Krwi. (To "
+"artefakt mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../VOW.rst:272
 msgid ""
@@ -1095,12 +1093,14 @@ msgstr ""
 
 #: ../../VOW.rst:275
 msgid "This spell has flash as long as you control a Spirit."
-msgstr ""
+msgstr "Ten czar ma błysk o ile władasz Duchem."
 
 #: ../../VOW.rst:277
 msgid ""
 "When you cast this spell, tap up to two target creatures you don't control."
 msgstr ""
+"Kiedy rzucisz ten czar, przekręć co najwyżej dwa wskazane stwory poza twoim "
+"władaniem."
 
 #: ../../VOW.rst:279 ../../VOW.rst:411
 msgid "Enchant creature you control"
@@ -1138,6 +1138,8 @@ msgid ""
 "|tap|: Target creature gets +1/+0 until end of turn. You gain 1 life. "
 "Activate only as a sorcery."
 msgstr ""
+"|tap|: Wskazany stwór dostaje do końca tury +1/+0. Zyskaj 1 życie. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../VOW.rst:298
 msgid ""
@@ -1152,15 +1154,11 @@ msgid "Double strike"
 msgstr "Podwójny cios"
 
 #: ../../VOW.rst:297
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_2|\\ |mana_w| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_2|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:306
@@ -1176,10 +1174,6 @@ msgid "Enchanted creature has double strike."
 msgstr "Zauroczony stwór ma podwójny cios."
 
 #: ../../VOW.rst:305
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Twinblade Invocation would be put into a graveyard from anywhere, exile "
 "it instead."
@@ -1196,7 +1190,7 @@ msgstr ""
 
 #: ../../VOW.rst:311
 msgid "|mana_4|\\ |mana_w|: Put a +1/+1 counter on Unholy Officiant."
-msgstr ""
+msgstr "|mana_4|\\ |mana_w|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../VOW.rst:320
 msgid ""
@@ -1210,16 +1204,12 @@ msgid "Choose one —"
 msgstr "Wybierz jedną —"
 
 #: ../../VOW.rst:317
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 and gains indestructible until end of turn. "
-#| "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 i niezniszczalność. (Obrażenia i "
-"efekty mówiące \"zniszcz\" nie niszczą go.)"
+"Wskazany stwór dostaje do końca tury niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../VOW.rst:319
 msgid "Destroy target creature with toughness 4 or greater."
@@ -1235,7 +1225,7 @@ msgstr ""
 #: ../../VOW.rst:323
 msgid ""
 "Whenever Vampire Slayer deals damage to a Vampire, destroy that creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zada obrażenia Wampirowi, zniszcz owego stwora."
 
 #: ../../VOW.rst:332
 msgid ""
@@ -1245,17 +1235,10 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:327
-#, fuzzy
-#| msgid ""
-#| "Whenever you gain life, put a +1/+1 counter on \"Bedsheet Elemental\"."
 msgid "Whenever you gain life, put a +1/+1 counter on Voice of the Blessed."
 msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../VOW.rst:329
-#, fuzzy
-#| msgid ""
-#| "As long as \"Bedsheet Elemental\" has four or more +1/+1 counters on it, "
-#| "it has flying and vigilance."
 msgid ""
 "As long as Voice of the Blessed has four or more +1/+1 counters on it, it "
 "has flying and vigilance."
@@ -1263,10 +1246,6 @@ msgstr ""
 "O ile ten stwór ma co najmniej cztery znaczniki +!/+1, ma latanie i czujność."
 
 #: ../../VOW.rst:331
-#, fuzzy
-#| msgid ""
-#| "As long as \"Bedsheet Elemental\" has ten or more +1/+1 counters on it, "
-#| "it has indestructible."
 msgid ""
 "As long as Voice of the Blessed has ten or more +1/+1 counters on it, it has "
 "indestructible."
@@ -1327,22 +1306,18 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:349
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Cleave |mana_1|\\ |mana_u| (You may cast this spell for its cleave cost. If "
 "you do, remove the words in square brackets.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
-"twojego cmentarza za koszt niepokojenia.)"
+"Rozłupanie |mana_1|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"rozłupania. Jeśli tak zrobisz, usuń wyrazy w kwadratowych nawiasach.)"
 
 #: ../../VOW.rst:351
-#, fuzzy
-#| msgid "Counter target spell unless its controller pays |mana_3|."
 msgid "Return target nonland permanent [you control] to its owner's hand."
-msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
+msgstr ""
+"Przywróć wskazany nielądowy permanent [pod twoim władaniem] do ręki "
+"właściciela."
 
 #: ../../VOW.rst:358
 msgid ""
@@ -1357,17 +1332,15 @@ msgid ""
 "Whenever Binding Geist attacks, target creature an opponent controls gets "
 "-2/-0 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika "
+"dostaje do końca tury -2/-0."
 
 #: ../../VOW.rst:357
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
 "transformed for its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_w| (Możesz rzucić tę kartę transformowaną z "
+"Niepokojenie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
 "twojego cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:366
@@ -1383,10 +1356,6 @@ msgid "Enchanted creature gets -2/-0."
 msgstr "Zauroczony stwór dostaje -2/-0."
 
 #: ../../VOW.rst:365
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Spectral Binding would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -1407,13 +1376,15 @@ msgstr "Obronność"
 
 #: ../../VOW.rst:371
 msgid "When Biolume Egg enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
 
 #: ../../VOW.rst:373
 msgid ""
 "When you sacrifice Biolume Egg, return it to the battlefield transformed "
 "under its owner's control at the beginning of the next end step."
 msgstr ""
+"Kiedy poświęcisz tego stwora, na początku najbliższego kroku końcowego "
+"przywróć go transformowanego na pole bitwy pod władaniem właściciela."
 
 #: ../../VOW.rst:378
 msgid ""
@@ -1424,7 +1395,7 @@ msgstr ""
 
 #: ../../VOW.rst:377
 msgid "Sacrifice two Islands: Biolume Serpent can't be blocked this turn."
-msgstr ""
+msgstr "Poświęć dwie Wyspy: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../VOW.rst:388
 msgid ""
@@ -1451,6 +1422,8 @@ msgid ""
 "Once each turn, you may cast a spell from the top of your library if it "
 "shares a card type with a card exiled with Cemetery Illuminator."
 msgstr ""
+"Raz na turę możesz rzucić czar z wierzchu twojej biblioteki jeśli ma on "
+"wspólny typ karty z kartą wygnaną tym stworem."
 
 #: ../../VOW.rst:396
 msgid ""
@@ -1461,7 +1434,7 @@ msgstr ""
 
 #: ../../VOW.rst:391
 msgid "This spell costs |mana_1| less to cast if you control a Zombie."
-msgstr ""
+msgstr "Rzucenie tego czaru kosztuje o |mana_1| jeśli władasz Zombi."
 
 #: ../../VOW.rst:393
 msgid ""
@@ -1494,6 +1467,8 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_u|, Exile Cobbled Lancer from your graveyard: Draw a card."
 msgstr ""
+"|mana_3|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Dobierz "
+"kartę."
 
 #: ../../VOW.rst:406
 msgid ""
@@ -1508,6 +1483,9 @@ msgid ""
 "permanents not chosen this way to their owners' hands. Then you draw a card "
 "for each opponent who has more cards in their hand than you."
 msgstr ""
+"Każdy gracz wybiera nielądowy permanent pod swoim władaniem. Przywróć "
+"wszystkie nie wybrane nielądowe permanenty do rąk ich właścicieli. Następnie "
+"dobierz kartę za każdego przeciwnika mającego więcej kart w ręce niż ty."
 
 #: ../../VOW.rst:416
 msgid ""
@@ -1522,6 +1500,9 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór zyskuje do końca tury "
+"antyklątwę. (Nie może być on wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../VOW.rst:415
 msgid "Enchanted creature gets +1/+1."
@@ -1584,6 +1565,8 @@ msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Dreadlight Monstrosity can't be blocked this "
 "turn. Activate only if you own a card in exile."
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_u|: Ten stwór nie może być blokowany w tej "
+"turze. Możesz aktywować tylko jeśli posiadasz kartę na wygnaniu."
 
 #: ../../VOW.rst:444
 msgid ""
@@ -1594,7 +1577,7 @@ msgstr ""
 
 #: ../../VOW.rst:439
 msgid "At the beginning of combat on your turn, choose up to one —"
-msgstr ""
+msgstr "Na początku potyczki w twojej turze, wybierz co najwyżej jedno —"
 
 #: ../../VOW.rst:441
 msgid "Tap target creature."
@@ -1602,7 +1585,7 @@ msgstr "Przekręć wskazanego stwora."
 
 #: ../../VOW.rst:443
 msgid "Target creature doesn't untap during its controller's next untap step."
-msgstr ""
+msgstr "Wskazany stwór nie odkręca się podczas kroku odkręcania jego władcy."
 
 #: ../../VOW.rst:452
 msgid ""
@@ -1612,15 +1595,12 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:449
-#, fuzzy
-#| msgid ""
-#| "Exploit (When this creature enters the battlefield, you may sacrifice a "
-#| "creature.)"
 msgid ""
 "When Fear of Death enters the battlefield, mill two cards. (Put the top two "
 "cards of your library into your graveyard.)"
 msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+"Kiedy ten urok wejdzie na pole bitwy, zmiel dwie karty. (Umieść dwie "
+"wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../VOW.rst:451
 msgid ""
@@ -1641,6 +1621,8 @@ msgid ""
 "This spell costs |mana_1| less to cast if you control a Spirit. It also "
 "costs |mana_1| less to cast if you control an enchantment."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz Duchem. Rzucenie "
+"go kosztuje także o |mana_1| mniej jeśli władasz urokiem."
 
 #: ../../VOW.rst:457
 msgid "Counter target spell unless its controller pays |mana_3|."
@@ -1656,13 +1638,16 @@ msgstr ""
 
 #: ../../VOW.rst:461
 msgid "Zombies you control have flying."
-msgstr ""
+msgstr "Zombi pod twoim władaniem mają latanie."
 
 #: ../../VOW.rst:463
 msgid ""
 "|mana_u|, |tap|, Sacrifice another nontoken creature: Create an X/X blue "
 "Zombie creature token, where X is the sacrificed creature's toughness."
 msgstr ""
+"|mana_u|, |tap|, poświęć innego nieżetonowego stwora: Stwórz żeton "
+"niebieskiego stwora Zombi X/X, gdzie X jest wytrzymałością poświęconego "
+"stwora."
 
 #: ../../VOW.rst:470
 msgid ""
@@ -1674,7 +1659,7 @@ msgstr ""
 
 #: ../../VOW.rst:467
 msgid "Gutter Skulker can't be blocked as long as it's attacking alone."
-msgstr ""
+msgstr "Ten stwór nie może być zablokowany o ile atakuje samotnie."
 
 #: ../../VOW.rst:469
 msgid ""
@@ -1694,13 +1679,9 @@ msgstr ""
 
 #: ../../VOW.rst:475
 msgid "Enchanted creature can't be blocked as long as it's attacking alone."
-msgstr ""
+msgstr "Zauroczony stwór nie może być zablokowany o ile atakuje samotnie."
 
 #: ../../VOW.rst:477
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Gutter Shortcut would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -1724,10 +1705,8 @@ msgid "Whenever you cast a spell, choose up to one —"
 msgstr "Ilekroć rzucisz czar, wybierz co najwyżej jedno —"
 
 #: ../../VOW.rst:487
-#, fuzzy
-#| msgid "Counter target spell unless its controller pays |mana_3|."
 msgid "Return target spell you don't control to its owner's hand."
-msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
+msgstr "Przywróć wskazany czar poza twoim władaniem do ręki właściciela."
 
 #: ../../VOW.rst:489
 msgid "Return target nonland permanent to its owner's hand."
@@ -1749,14 +1728,16 @@ msgid ""
 "Cleave |mana_3|\\ |mana_u|\\ |mana_u| (You may cast this spell for its "
 "cleave cost. If you do, remove the words in square brackets.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
-"twojego cmentarza za koszt niepokojenia.)"
+"Rozłupanie |mana_3|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
+"koszt rozłupania. Jeśli tak zrobisz, usuń wyrazy w kwadratowych nawiasach.)"
 
 #: ../../VOW.rst:495
 msgid ""
 "Draw three cards. [Your maximum hand size is reduced by three for the rest "
 "of the game.]"
 msgstr ""
+"Dobierz trzy karty. [Twój limit kart na ręce jest do końca gry zmniejszony o "
+"trzy.]"
 
 #: ../../VOW.rst:500
 msgid ""
@@ -1772,6 +1753,9 @@ msgid ""
 "at that card for as long as it remains exiled. You may pay |mana_4|\\ |"
 "mana_u|\\ |mana_u|. If you do, transform Jacob Hauken, Inspector."
 msgstr ""
+"|tap|: Dobierz kartę, po czym wygnaj kartę zakrytą z twojej ręki. Możesz "
+"patrzeć na ową kartę przez czas jej wygnania. Możesz zapłacić |mana_4|\\ "
+"|mana_u|\\ |mana_u|. Jeśli tak zrobisz, transformuj tego stwora."
 
 #: ../../VOW.rst:506
 msgid ""
@@ -1786,12 +1770,16 @@ msgid ""
 "At the beginning of your upkeep, exile the top card of your library face "
 "down. You may look at that card for as long as it remains exiled."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj zakrytą wierzchnią kartę twojej "
+"biblioteki. Możesz patrzeć na ową kartę przez czas jej wygnania."
 
 #: ../../VOW.rst:505
 msgid ""
 "Once during each of your turns, you may play a land or cast a spell from "
 "among the cards exiled with this permanent without paying its mana cost."
 msgstr ""
+"Raz na każdą z twoich tur możesz zagrać kartę lądu lub rzucić czar spośród "
+"kart wygnanych tym permanentem bez płacenia jego kosztu many."
 
 #: ../../VOW.rst:512
 msgid ""
@@ -1822,10 +1810,6 @@ msgid "Enchanted creature gets +1/+1 and has flying."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../VOW.rst:519
-#, fuzzy
-#| msgid ""
-#| "If Drogskol Armaments would be put into a graveyard from anywhere, exile "
-#| "it instead."
 msgid ""
 "If Lanterns' Lift would be put into a graveyard from anywhere, exile it "
 "instead."
@@ -1841,20 +1825,17 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:523
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_3|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Cleave |mana_3|\\ |mana_u| (You may cast this spell for its cleave cost. If "
 "you do, remove the words in square brackets.)"
 msgstr ""
-"Niepokojenie |mana_3|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
-"twojego cmentarza za koszt niepokojenia.)"
+"Rozłupanie |mana_3|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"rozłupania. Jeśli tak zrobisz, usuń wyrazy w kwadratowych nawiasach.)"
 
 #: ../../VOW.rst:525
 msgid "Return target [Wolf or Werewolf] creature to its owner's hand."
 msgstr ""
+"Przywróć wskazanego stwora [typu Wilk lub Wilkołak] do ręki właściciela."
 
 #: ../../VOW.rst:534
 msgid ""
@@ -3954,10 +3935,8 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:1269
-#, fuzzy
-#| msgid "Target creature gets +2/+2 and gains trample until end of turn."
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór dostaje do końca tury +3/+0 i pierwszy cios."
 
 #: ../../VOW.rst:1274
 msgid ""
@@ -4736,13 +4715,8 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:1563
-#, fuzzy
-#| msgid ""
-#| "Exploit (When this creature enters the battlefield, you may sacrifice a "
-#| "creature.)"
 msgid "When Sheltering Boughs enters the battlefield, draw a card."
-msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../VOW.rst:1565
 msgid "Enchanted creature gets +1/+3."
