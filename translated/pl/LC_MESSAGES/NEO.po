@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-02-14 22:29+0000\n"
+"PO-Revision-Date: 2022-02-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -1534,6 +1534,9 @@ msgid ""
 "hand: Put this card onto the battlefield from your hand tapped and "
 "attacking.)"
 msgstr ""
+"Ninjutsu |mana_u| (|mana_u|, przywróć niezablokowanego atakującego pod twoim "
+"władaniem do ręki: Umieść tę kartę z twojej ręki na polu bitwy przekręconą i "
+"atakującą.)"
 
 #: ../../NEO.rst:481
 msgid ""
@@ -1862,6 +1865,9 @@ msgid ""
 "Return an unblocked attacker you control to hand: Put this card onto the "
 "battlefield from your hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_2|\\ |mana_u|\\ |mana_u| (|mana_2|\\ |mana_u|\\ |mana_u|, "
+"przywróć niezablokowanego atakującego pod twoim władaniem do ręki: Umieść tę "
+"kartę z twojej ręki na polu bitwy przekręconą i atakującą.)"
 
 #: ../../NEO.rst:601
 msgid ""
@@ -1896,7 +1902,7 @@ msgstr ""
 
 #: ../../NEO.rst:611
 msgid "Ninjutsu |mana_2|\\ |mana_b|"
-msgstr ""
+msgstr "Ninjutsu |mana_2|\\ |mana_b|"
 
 #: ../../NEO.rst:613
 msgid "Biting-Palm Ninja enters the battlefield with a menace counter on it."
@@ -3509,6 +3515,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę z twojej ręki na "
+"polu bitwy przekręconą i atakującą.)"
 
 #: ../../NEO.rst:1225
 msgid ""
@@ -3832,7 +3841,7 @@ msgstr ""
 
 #: ../../NEO.rst:1349
 msgid "Ninjutsu |mana_1|\\ |mana_g|"
-msgstr ""
+msgstr "Ninjutsu |mana_1|\\ |mana_g|"
 
 #: ../../NEO.rst:1351
 msgid ""
@@ -4034,6 +4043,9 @@ msgid ""
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, przywróć niezablokowanego "
+"atakującego pod twoim władaniem do ręki: Umieść tę kartę z twojej ręki na "
+"polu bitwy przekręconą i atakującą.)"
 
 #: ../../NEO.rst:1417
 msgid ""
@@ -4548,11 +4560,15 @@ msgid ""
 "your library. Put one of them into your hand and the rest on the bottom of "
 "your library in any order. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć aktywujesz zdolność ninjutsu, spójrz na trzy wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe dowolnie na "
+"spodzie twojej biblioteki. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../NEO.rst:1623
 msgid ""
 "Each creature card in your hand has ninjutsu |mana_2|\\ |mana_u|\\ |mana_b|."
 msgstr ""
+"Każda karta stwora w twojej ręce ma ninjutsu |mana_2|\\ |mana_u|\\ |mana_b|."
 
 #: ../../NEO.rst:1634
 msgid ""
@@ -4600,7 +4616,7 @@ msgstr ""
 
 #: ../../NEO.rst:1639
 msgid "Ninjutsu abilities you activate cost |mana_1| less to activate."
-msgstr ""
+msgstr "Aktywacja zdolności ninjutsu kosztuje cię o |mana_1| mniej."
 
 #: ../../NEO.rst:1641
 msgid "Other Ninja and Rogue creatures you control get +1/+1."
@@ -5389,7 +5405,7 @@ msgstr ""
 
 #: ../../NEO.rst:1943
 msgid "As Uncharted Haven enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten ląd na polu bitwy, wybierz kolor."
 
 #: ../../NEO.rst:1945
 msgid "|tap|: Add one mana of the chosen color."

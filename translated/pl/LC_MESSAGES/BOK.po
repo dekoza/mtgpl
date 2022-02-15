@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # Dominik Kozaczko <dominik@kozaczko.info>, 2019.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2021-09-05 19:44+0000\n"
+"PO-Revision-Date: 2022-02-15 11:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bok/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -867,6 +867,9 @@ msgid ""
 "Return an unblocked attacker you control to hand: Put this card onto the "
 "battlefield from your hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_2|\\ |mana_u|\\ |mana_u| (|mana_2|\\ |mana_u|\\ |mana_u|, "
+"przywróć niezablokowanego atakującego pod twoim władaniem do ręki: Umieść tę "
+"kartę z twojej ręki na polu bitwy przekręconą i atakującą.)"
 
 #: ../../BOK.rst:219
 msgid ""
@@ -966,6 +969,9 @@ msgid ""
 "hand: Put this card onto the battlefield from your hand tapped and "
 "attacking.)"
 msgstr ""
+"Ninjutsu |mana_u| (|mana_u|, przywróć niezablokowanego atakującego pod twoim "
+"władaniem do ręki: Umieść tę kartę z twojej ręki na polu bitwy przekręconą i "
+"atakującą.)"
 
 #: ../../BOK.rst:253
 msgid ""
