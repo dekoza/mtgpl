@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-23 15:41+0100\n"
-"PO-Revision-Date: 2022-02-15 21:21+0000\n"
+"PO-Revision-Date: 2022-02-17 15:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -1264,6 +1264,11 @@ msgid ""
 "card. Otherwise, create a 1/1 white Human creature token. Then if Wedding "
 "Announcement has three or more invitation counters on it, transform it."
 msgstr ""
+"Na początku twojego kroku końcowego, umieść znacznik zaproszenia na tym "
+"uroku. Jeśli w tej turze zaatakowałeś co najmniej dwoma stworami, dobierz "
+"kartę. W przeciwnym razie stwórz żeton białego stwora Człowiek 1/1. "
+"Następnie jeśli ten urok ma co najmniej trzy znaczniki zaproszenia, "
+"transformuj go."
 
 #: ../../VOW.rst:340
 msgid ""
@@ -1845,6 +1850,9 @@ msgid ""
 "creature on the battlefield, except it's a Spirit in addition to its other "
 "types."
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jest dodatkowo Duchem oprócz swoich pozostałych "
+"typów."
 
 #: ../../VOW.rst:533
 msgid ""
@@ -1867,6 +1875,8 @@ msgid ""
 "At the beginning of your upkeep, create a token that's a copy of enchanted "
 "creature, except it's a Spirit in addition to its other types."
 msgstr ""
+"Na początku twojego kroku utrzymania stwórz żeton będący kopią zauroczonego "
+"stwora, ale jest on dodatkowo duchem oprócz swoich innych typów."
 
 #: ../../VOW.rst:541
 msgid ""
@@ -1887,7 +1897,7 @@ msgstr ""
 #: ../../VOW.rst:545
 msgid ""
 "Whenever Mischievous Catgeist deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../VOW.rst:556
 msgid ""
@@ -1902,6 +1912,8 @@ msgid ""
 "Enchanted creature has \"Whenever this creature deals combat damage to a "
 "player, draw a card.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór zada graczowi obrażenia bojowe, "
+"dobierz kartę.\""
 
 #: ../../VOW.rst:555
 msgid ""
@@ -1923,6 +1935,8 @@ msgid ""
 "Whenever a nontoken Zombie enters the battlefield under your control, create "
 "a token that's a copy of that creature."
 msgstr ""
+"Ilekroć nieżetonowy Zombi wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton będący kopią owego stwora."
 
 #: ../../VOW.rst:570
 msgid ""
@@ -1951,12 +1965,16 @@ msgid ""
 "|mana_2|\\ |mana_u|: Exile target creature card from your graveyard and put "
 "a +1/+1 counter on Patchwork Crawler."
 msgstr ""
+"|mana_2|\\ |mana_u|: Wygnaj wskazaną kartę stwora z twojego cmentarza i "
+"umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../VOW.rst:575
 msgid ""
 "Patchwork Crawler has all activated abilities of all creature cards exiled "
 "with it."
 msgstr ""
+"Ten stwór ma wszystkie aktywowane zdolności wszystkich kart stworów "
+"wygnanych z jego użyciem."
 
 #: ../../VOW.rst:582
 msgid ""
@@ -1985,6 +2003,8 @@ msgid ""
 "Look at the top four cards of your library. Put two of those cards into your "
 "hand and the rest into your graveyard."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce a pozostałe w twoim cmentarzu."
 
 #: ../../VOW.rst:594
 msgid ""
@@ -1999,6 +2019,9 @@ msgid ""
 "many cards. (To mill a card, a player puts the top card of their library "
 "into their graveyard.)"
 msgstr ""
+"Ilekroć zaatakujesz co najmniej jednym stworem, wskazany gracz mieli tyle "
+"samo kart. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki "
+"w swoim cmentarzu.)"
 
 #: ../../VOW.rst:593
 msgid ""
@@ -2017,7 +2040,7 @@ msgstr ""
 
 #: ../../VOW.rst:597
 msgid "|tap|, Discard a creature card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę stwora: Dobierz kartę."
 
 #: ../../VOW.rst:602
 msgid ""
@@ -2031,6 +2054,8 @@ msgid ""
 "Until end of turn, target creature becomes a blue Serpent with base power "
 "and toughness 5/5."
 msgstr ""
+"Do końca tury wskazany stwór staje się niebieskim Wężownikiem z bazową siłą "
+"i wytrzymałością 5/5."
 
 #: ../../VOW.rst:608
 msgid ""
@@ -2057,13 +2082,15 @@ msgstr ""
 
 #: ../../VOW.rst:611
 msgid "Soulcipher Board enters the battlefield with three omen counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając trzy znaczniki omenu."
 
 #: ../../VOW.rst:613
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Look at the top two cards of your library. Put "
 "one of them into your graveyard."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twoim cmentarzu."
 
 #: ../../VOW.rst:615
 msgid ""
@@ -2071,6 +2098,9 @@ msgid ""
 "omen counter from Soulcipher Board. Then if it has no omen counters on it, "
 "transform it."
 msgstr ""
+"Ilekroć karta stwora trafi skądkolwiek do twojego cmentarza, usuń znacznik "
+"omenu z tego artefaktu. Następnie jeśli nie ma on znaczników omenu, "
+"transformuj go."
 
 #: ../../VOW.rst:624
 msgid ""
@@ -2082,11 +2112,11 @@ msgstr ""
 
 #: ../../VOW.rst:621
 msgid "Cipherbound Spirit can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory mające latanie."
 
 #: ../../VOW.rst:623
 msgid "|mana_3|\\ |mana_u|: Draw two cards, then discard a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../VOW.rst:630
 msgid ""
@@ -2100,6 +2130,8 @@ msgid ""
 "Whenever an enchantment enters the battlefield under your control, Steelclad "
 "Spirit can attack this turn as though it didn't have defender."
 msgstr ""
+"Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten stwór może w tej "
+"turze atakować jakby nie miał obronności."
 
 #: ../../VOW.rst:636
 msgid ""
@@ -2130,6 +2162,8 @@ msgid ""
 "Whenever Stormchaser Drake becomes the target of a spell you control, draw a "
 "card."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar pod twoim władaniem, dobierz "
+"kartę."
 
 #: ../../VOW.rst:646
 msgid ""
@@ -2161,6 +2195,9 @@ msgid ""
 "an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
+"Skontruj wskazany czar stwora lub wędrowca. Stwórz żeton Krwi. (To artefakt "
+"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:654
 msgid ""
@@ -2174,6 +2211,8 @@ msgid ""
 "Draw three cards. Then discard two cards unless you discard a basic land "
 "card."
 msgstr ""
+"Dobierz trzy karty. Następnie odrzuć dwie karty, chyba że odrzucisz kartę "
+"bazowego lądu."
 
 #: ../../VOW.rst:660
 msgid ""
@@ -2184,7 +2223,7 @@ msgstr ""
 
 #: ../../VOW.rst:659
 msgid "Wanderlight Spirit can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory mające latanie."
 
 #: ../../VOW.rst:666
 msgid ""
@@ -2237,7 +2276,7 @@ msgstr ""
 
 #: ../../VOW.rst:675
 msgid "Draw a card for each creature [with flying] you control."
-msgstr ""
+msgstr "Dobierz kartę za każdego stwora pod twoim władaniem [mającego latanie]."
 
 #: ../../VOW.rst:680
 msgid ""
@@ -2266,6 +2305,8 @@ msgid ""
 "When Wretched Throng dies, you may search your library for a card named "
 "Wretched Throng, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten stwór umrze, możesz wyszukać w swojej bibliotece kartę o tej samej "
+"nazwie, ujawnij ją i umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../VOW.rst:692
 msgid ""
@@ -2276,11 +2317,11 @@ msgstr ""
 
 #: ../../VOW.rst:689
 msgid "Exile target Zombie."
-msgstr ""
+msgstr "Wygnaj wskazanego Zombi."
 
 #: ../../VOW.rst:691
 msgid "Target opponent exiles two cards from their hand."
-msgstr ""
+msgstr "Wskazany przeciwnik wygania dwie karty ze swojej ręki."
 
 #: ../../VOW.rst:696
 msgid ""
@@ -2296,6 +2337,10 @@ msgid ""
 "put it into your hand. If you don't put the card into your hand, you may put "
 "it into your graveyard."
 msgstr ""
+"Ilekroć umrze ten stwór lub inny Zombi pod twoim władaniem, spójrz na "
+"wierzchnią kartę twojej biblioteki. Jeśli to karta Zombi, możesz ujawnić ją "
+"i umieścić ją w twojej ręce. Jeśli nie umieścisz owej karty w twojej ręce, "
+"możesz umieścić ją w twoim cmentarzu."
 
 #: ../../VOW.rst:700
 msgid ""
@@ -2309,6 +2354,8 @@ msgid ""
 "Target creature gets -13/-13 until end of turn. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -13/-13. Jeśli ów stwór miałby umrzeć w "
+"tej turze, zamiast tego wygnaj go."
 
 #: ../../VOW.rst:706
 msgid ""
@@ -2323,12 +2370,17 @@ msgid ""
 "artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
+"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:705
 msgid ""
 "|mana_3|\\ |mana_b|, |tap|, Sacrifice Blood Fountain: Return up to two "
 "target creature cards from your graveyard to your hand."
 msgstr ""
+"|mana_3|\\ |mana_b|, |tap|, poświęć ten artefakt: Przywróć co najwyżej dwie "
+"wskazane karty stworów z twojego cmentarza do twojej ręki."
 
 #: ../../VOW.rst:714
 msgid ""
@@ -2348,12 +2400,17 @@ msgid ""
 "(It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
+"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:713
 msgid ""
 "Whenever Bloodcrazed Socialite attacks, you may sacrifice a Blood token. If "
 "you do, it gets +2/+2 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz poświęcić żeton Krwi. Jeśli tak zrobisz, "
+"dostaje on do końca tury +2/+2."
 
 #: ../../VOW.rst:718
 msgid ""
