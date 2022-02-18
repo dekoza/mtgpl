@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-23 15:41+0100\n"
-"PO-Revision-Date: 2022-02-18 16:11+0000\n"
+"PO-Revision-Date: 2022-02-19 16:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -2292,6 +2292,10 @@ msgid ""
 "of those cards into your hand and the rest on the bottom of your library in "
 "a random order."
 msgstr ""
+"Wskazany gracz wtasowuje co najwyżej cztery wskazane karty ze swojego "
+"cmentarza do swojej biblioteki. Spójrz na cztery wierzchnie karty twojej "
+"biblioteki, po czym umieść jedną z owych kart w twojej ręce, a pozostałe "
+"losowo na spodzie twojej biblioteki."
 
 #: ../../VOW.rst:684
 msgid ""
@@ -3921,6 +3925,10 @@ msgid ""
 "(They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 4 obrażenia. Stwórz tyle żetonów Krwi, "
+"ile nadmiarowych obrażeń otrzymał ów stwór w ten sposób. (To artefakty "
+"mające \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:1202
 msgid ""
@@ -3935,6 +3943,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Lambholt Raconteur deals 1 damage to "
 "each opponent."
 msgstr ""
+"Ilekroć rzucisz niestworowy czar, ten stwór zadaje każdemu przeciwnikowi po "
+"1 obrażeniu."
 
 #: ../../VOW.rst:1208
 msgid ""
@@ -3949,6 +3959,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Lambholt Ravager deals 2 damage to "
 "each opponent."
 msgstr ""
+"Ilekroć rzucisz niestworowy czar, ten stwór zadaje każdemu przeciwnikowi po "
+"2 obrażenia."
 
 #: ../../VOW.rst:1212
 msgid ""
@@ -3962,6 +3974,8 @@ msgid ""
 "|mana_1|\\ |mana_r|: Lightning Wolf gains first strike until end of turn. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_r|: Ten stwór zyskuje do końca tury pierwszy cios. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../VOW.rst:1218
 msgid ""
@@ -3972,7 +3986,7 @@ msgstr ""
 
 #: ../../VOW.rst:1215
 msgid "Magma Pummeler enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../VOW.rst:1217
 msgid ""
@@ -3981,6 +3995,10 @@ msgid ""
 "one or more counters are removed from Magma Pummeler this way, it deals that "
 "much damage to any target."
 msgstr ""
+"Jeśli ten stwór miałby otrzymać obrażenia, gdy ma on znacznik +1/+1, "
+"zażegnaj owe obrażenia i usuń z niego tyle samo znaczników +1/+1. Kiedy co "
+"najmniej jeden znacznik zostaje zdjęty z tego stwora w ten sposób, zadaje on "
+"wskazanemu celowi tyle samo obrażeń."
 
 #: ../../VOW.rst:1224
 msgid ""
@@ -3995,6 +4013,9 @@ msgid ""
 "creature token with flying and haste, where X is the amount of mana spent to "
 "cast that spell. Exile that token at the beginning of the next end step."
 msgstr ""
+"Ilekroć rzucisz niestworowy czar, stwórz żeton czerwonego stwora Smok Iluzja "
+"X/X z lataniem i pośpiechem, gdzie X jest liczbą many wydanej na rzucenie "
+"owego czaru. Wygnaj ów żeton na początku najbliższego kroku końcowego."
 
 #: ../../VOW.rst:1232
 msgid ""
@@ -4016,6 +4037,8 @@ msgid ""
 "Target Vampire you control deals damage equal to its power to another target "
 "creature."
 msgstr ""
+"Wskazany Wampir pod twoim władaniem zadaje obrażenia równe swojej sile "
+"innemu wskazanemu stworowi."
 
 #: ../../VOW.rst:1240
 msgid ""
@@ -4030,10 +4053,13 @@ msgid ""
 "(They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór zada obrażenia, stwórz tyle samo żetonów Krwi. (To "
+"artefakty mające \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../VOW.rst:1239
 msgid "|mana_2|\\ |mana_r|: Olivia's Attendants deals 1 damage to any target."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../VOW.rst:1244
 msgid ""
@@ -4044,7 +4070,7 @@ msgstr ""
 
 #: ../../VOW.rst:1243
 msgid "When Pyre Spawn dies, it deals 3 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../VOW.rst:1248
 msgid ""
@@ -4074,6 +4100,9 @@ msgid ""
 "permanent is a Spirit, Rending Flame also deals 2 damage to that permanent's "
 "controller."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń. Jeśli ów "
+"permanent jest Duchem, ten czar zadaje dodatkowo 2 obrażenia władcy owego "
+"permanentu."
 
 #: ../../VOW.rst:1256
 msgid ""
@@ -4087,6 +4116,8 @@ msgid ""
 "|mana_3|\\ |mana_r|, |tap|: Runebound Wolf deals damage equal to the number "
 "of Wolves and Werewolves you control to target opponent."
 msgstr ""
+"|mana_3|\\ |mana_r|, |tap|: Ten stwór zadaje wskazanemu przeciwnikowi "
+"obrażenia równe liczbie Wilków i Wilkołaków pod twoim władaniem."
 
 #: ../../VOW.rst:1262
 msgid ""
@@ -4101,12 +4132,17 @@ msgid ""
 "an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
+"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:1261
 msgid ""
 "Whenever you sacrifice a Blood token, you may have Sanguine Statuette become "
 "a 3/3 Vampire artifact creature with haste until end of turn."
 msgstr ""
+"Ilekroć poświęcisz żeton Krwi, możesz sprawić, że ten artefakt stanie się do "
+"końca tury artefaktowym stworem Wampir 3/3 z pośpiechem."
 
 #: ../../VOW.rst:1266
 msgid ""
@@ -4121,6 +4157,9 @@ msgid ""
 "Then if you control exactly thirteen permanents, you may sacrifice Stensia "
 "Uprising. When you do, it deals 7 damage to any target."
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton czerwonego stwora Człowiek "
+"1/1. Następnie jeśli władasz dokładnie trzynastoma permanentami, możesz "
+"poświęcić ten urok. Kiedy to zrobisz, zadaje on wskazanemu celowi 7 obrażeń."
 
 #: ../../VOW.rst:1270
 msgid ""
@@ -4146,6 +4185,9 @@ msgid ""
 "Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez typu Wampir po 2 obrażenia. Stwórz "
+"żeton Krwi. (To artefakt mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1282
 msgid ""
@@ -4157,7 +4199,7 @@ msgstr ""
 
 #: ../../VOW.rst:1277 ../../VOW.rst:1285
 msgid "Menace, haste"
-msgstr ""
+msgstr "Złowrogość, pośpiech"
 
 #: ../../VOW.rst:1279
 msgid ""
@@ -4165,6 +4207,9 @@ msgid ""
 "target creature, up to one target player, and/or up to one target "
 "planeswalker."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje co najwyżej jednemu wskazanemu stworowi, "
+"co najwyżej jednemu wskazanemu graczowi i/lub co najwyżej jednemu wskazanemu "
+"wędrowcowi po 1 obrażeniu."
 
 #: ../../VOW.rst:1290
 msgid ""
@@ -4180,6 +4225,9 @@ msgid ""
 "one target creature, up to one target player, and/or up to one target "
 "planeswalker."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje co najwyżej jednemu wskazanemu stworowi, "
+"co najwyżej jednemu wskazanemu graczowi i/lub co najwyżej jednemu wskazanemu "
+"wędrowcowi po 2 obrażenia."
 
 #: ../../VOW.rst:1294
 msgid ""
@@ -4194,6 +4242,9 @@ msgid ""
 "opponent. Create a Blood token. (It's an artifact with \"|mana_1|, |tap|, "
 "Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 1 "
+"obrażeniu. Stwórz żeton Krwi. (To artefakt mający \"|mana_1|, |tap|, odrzuć "
+"kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1300
 msgid ""
