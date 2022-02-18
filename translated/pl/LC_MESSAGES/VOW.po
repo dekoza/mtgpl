@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-23 15:41+0100\n"
-"PO-Revision-Date: 2022-02-17 19:24+0000\n"
+"PO-Revision-Date: 2022-02-18 16:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -3167,15 +3167,18 @@ msgid ""
 "+1: Look at the top card of your library. You may reveal that card and put "
 "it into your hand. If you do, you lose life equal to its mana value."
 msgstr ""
+"+1: Spójrz na wierzchnią kartę twojej biblioteki. Możesz ujawnić ową kartę i "
+"umieścić ją w twojej ręce. Jeśli tak zrobisz, strać życia równe jej skrótowi "
+"many."
 
 #: ../../VOW.rst:959
 msgid "−2: Create a 2/3 black Vampire creature token with flying and lifelink."
-msgstr ""
+msgstr "–2: Stwórz żeton czarnego stwora Wampir 2/3 z lataniem i więzią życia."
 
 #: ../../VOW.rst:961
 msgid ""
 "−7: Sorin the Mirthless deals 13 damage to any target. You gain 13 life."
-msgstr ""
+msgstr "–7: Ten wędrowiec zadaje wskazanemu celowi 13 obrażeń. Zyskaj 13 żyć."
 
 #: ../../VOW.rst:972
 msgid ""
@@ -3189,20 +3192,25 @@ msgid ""
 "At the beginning of each end step, put a slime counter on each creature you "
 "don't control."
 msgstr ""
+"Na początku każdego kroku końcowego, umieść znacznik szlamu na każdym "
+"stworze poza twoim władaniem."
 
 #: ../../VOW.rst:967
 msgid "Creatures you don't control get -1/-1 for each slime counter on them."
 msgstr ""
+"Stwory poza twoim władaniem dostają -1/-1 za każdy posiadany znacznik szlamu."
 
 #: ../../VOW.rst:969
 msgid ""
 "Whenever a creature you don't control with a slime counter on it dies, "
 "create a 1/1 black Slug creature token."
 msgstr ""
+"Ilekroć umrze stwór poza twoim władaniem mający znacznik szlamu, stwórz "
+"żeton czarnego stwora Ślimak 1/1."
 
 #: ../../VOW.rst:971
 msgid "|mana_u|\\ |mana_b|, Sacrifice a Slug: Draw a card."
-msgstr ""
+msgstr "|mana_u|\\ |mana_b|, poświęć Ślimaka: Dobierz kartę."
 
 #: ../../VOW.rst:978
 msgid ""
@@ -3224,6 +3232,8 @@ msgid ""
 "When Undead Butler dies, you may exile it. When you do, return target "
 "creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, możesz go wygnać. Kiedy tak zrobisz, przywróć "
+"wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../VOW.rst:982
 msgid ""
@@ -3250,7 +3260,7 @@ msgstr ""
 
 #: ../../VOW.rst:985
 msgid "Unhallowed Phalanx enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../VOW.rst:990
 msgid ""
@@ -3265,6 +3275,9 @@ msgid ""
 "(They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Wskazany gracz traci 2 życia, a ty zyskaj 2 życia. Stwórz dwa żetony Krwi. ("
+"To artefakty mające \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../VOW.rst:998
 msgid ""
@@ -3280,12 +3293,17 @@ msgid ""
 "create a Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a "
 "card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć umrze ten lub inny nieżetonowy stwór pod twoim władaniem, stwórz "
+"żeton Krwi. (To artefakt mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:997
 msgid ""
 "Whenever you create a Blood token, if you control five or more Blood tokens, "
 "transform Voldaren Bloodcaster."
 msgstr ""
+"Ilekroć stworzysz żeton Krwi, jeśli władasz co najmniej pięcioma żetonami "
+"Krwi, transformuj tego stwora."
 
 #: ../../VOW.rst:1004
 msgid ""
@@ -3301,6 +3319,9 @@ msgid ""
 "control becomes a 2/2 black Bat creature with flying and haste in addition "
 "to its other types."
 msgstr ""
+"Na początku potyczki w twojej turze, co najwyżej jeden wskazany żeton Krwi "
+"pod twoim władaniem staje się dodatkowo czarnym stworem Nietoperz 2/2 z "
+"lataniem i pośpiechem oprócz swoich innych typów."
 
 #: ../../VOW.rst:1008
 msgid ""
@@ -3314,6 +3335,8 @@ msgid ""
 "Whenever Wedding Security attacks, you may sacrifice a Blood token. If you "
 "do, put a +1/+1 counter on Wedding Security and draw a card."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz poświęcić żeton Krwi. Jeśli tak zrobisz, "
+"umieść znacznik +1/+1 na tym stworze i dobierz kartę."
 
 #: ../../VOW.rst:1016
 msgid ""
@@ -3351,10 +3374,12 @@ msgid ""
 "Take an extra turn after this one. During that turn, damage can't be "
 "prevented. [At the beginning of that turn's end step, you lose the game.]"
 msgstr ""
+"Weź dodatkową turę po obecnej. Podczas owej tury obrażenia nie mogą zostać "
+"zażegnane. [Na początku kroku końcowego owej tury przegrywasz.]"
 
 #: ../../VOW.rst:1023
 msgid "Exile Alchemist's Gambit."
-msgstr ""
+msgstr "Wygnaj ten czar."
 
 #: ../../VOW.rst:1028
 msgid ""
@@ -3366,7 +3391,7 @@ msgstr ""
 
 #: ../../VOW.rst:1027
 msgid "When you attack with exactly two creatures, transform Alluring Suitor."
-msgstr ""
+msgstr "Kiedy zaatakujesz dokładnie dwoma stworami, transformuj tego stwora."
 
 #: ../../VOW.rst:1036
 msgid ""
@@ -3386,12 +3411,16 @@ msgid ""
 "When this creature transforms into Deadly Dancer, add |mana_r|\\ |mana_r|. "
 "Until end of turn, you don't lose this mana as steps and phases end."
 msgstr ""
+"Kiedy ten stwór transformuje na tę stronę, weź |mana_r|\\ |mana_r|. Do końca "
+"tury nie tracisz owej many podczas końców kroków i faz."
 
 #: ../../VOW.rst:1035
 msgid ""
 "|mana_r|\\ |mana_r|: Deadly Dancer and another target creature each get +1/"
 "+0 until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_r|: Ten stwór oraz inny wskazany stwór dostają do końca "
+"tury +1/+0 każdy."
 
 #: ../../VOW.rst:1042
 msgid ""
@@ -3405,6 +3434,8 @@ msgid ""
 "Target creature gains trample and gets +X/+0 until end of turn, where X is 1 "
 "plus the number of cards named Ancestral Anger in your graveyard."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +X/+0 oraz tratowanie, gdzie X wynosi 1 "
+"plus liczba kart o nazwie Ancestral Anger w twoim cmentarzu."
 
 #: ../../VOW.rst:1048
 msgid ""
@@ -3418,6 +3449,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Ballista Watcher deals 1 damage to any target."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../VOW.rst:1047 ../../VOW.rst:1135 ../../VOW.rst:1169 ../../VOW.rst:1201
 #: ../../VOW.rst:1281 ../../VOW.rst:1309 ../../VOW.rst:1335 ../../VOW.rst:1453
@@ -3443,6 +3475,8 @@ msgid ""
 "|mana_2|\\ |mana_r|: Ballista Wielder deals 1 damage to any target. A "
 "creature dealt damage this way can't block this turn."
 msgstr ""
+"|mana_2|\\ |mana_r|: Ten stwór zadaje wskazanemu celowi 1 obrażenie. Stwór "
+"uszkodzony w ten sposób nie może blokować w tej turze."
 
 #: ../../VOW.rst:1053 ../../VOW.rst:1141 ../../VOW.rst:1177 ../../VOW.rst:1207
 #: ../../VOW.rst:1289 ../../VOW.rst:1315 ../../VOW.rst:1345 ../../VOW.rst:1459
@@ -3468,6 +3502,9 @@ msgid ""
 "token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice "
 "this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton Krwi. (To "
+"artefakt mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../VOW.rst:1066
 msgid ""
@@ -3478,13 +3515,15 @@ msgstr ""
 
 #: ../../VOW.rst:1063
 msgid "Blood Hypnotist can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../VOW.rst:1065
 msgid ""
 "Whenever you sacrifice one or more Blood tokens, target creature can't block "
 "this turn. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć poświęcisz co najmniej jeden żeton Krwi, wskazany stwór nie może "
+"blokować w tej turze. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../VOW.rst:1072
 msgid ""
@@ -3495,7 +3534,7 @@ msgstr ""
 
 #: ../../VOW.rst:1069
 msgid "Blood Petal Celebrant has first strike as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór ma pierwszy cios o ile atakuje."
 
 #: ../../VOW.rst:1071
 msgid ""
@@ -3503,6 +3542,8 @@ msgid ""
 "with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card."
 "\")"
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton Krwi. (To artefakt mający \"|mana_1|, "
+"|tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1076
 msgid ""
@@ -3517,6 +3558,9 @@ msgid ""
 "gains haste until end of turn. Create a Blood token. (It's an artifact with "
 "\"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Zyskaj władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. Do "
+"końca tury zyskuje on pośpiech. Stwórz żeton Krwi. (To artefakt mający \""
+"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1084
 msgid ""
@@ -3536,6 +3580,8 @@ msgid ""
 "Whenever a player plays a land or casts a spell, if it shares a card type "
 "with the exiled card, Cemetery Gatekeeper deals 2 damage to that player."
 msgstr ""
+"Ilekroć gracz zagra ląd lub rzuci czar, jeśli ma on wspólny typ karty z "
+"wygnaną kartą, ten stwór zadaje owemu graczowi 2 obrażenia."
 
 #: ../../VOW.rst:1092
 msgid ""
@@ -3550,12 +3596,16 @@ msgid ""
 "+1: Add |mana_r|. Chandra, Dressed to Kill deals 1 damage to up to one "
 "target player or planeswalker."
 msgstr ""
+"+1: Weź |mana_r|. Ten wędrowiec zadaje co najwyżej jednemu wskazanemu "
+"graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../VOW.rst:1089
 msgid ""
 "+1: Exile the top card of your library. If it's red, you may cast it this "
 "turn."
 msgstr ""
+"+1: Wygnaj wierzchnią kartę twojej biblioteki. Jeśli jest ona czerwona, "
+"możesz ją rzucić w tej turze."
 
 #: ../../VOW.rst:1091
 msgid ""
@@ -3564,6 +3614,10 @@ msgid ""
 "spell, this emblem deals X damage to any target, where X is the amount of "
 "mana spent to cast that spell.\""
 msgstr ""
+"–7: Wygnaj pięć wierzchnich kart twojej biblioteki. Możesz w tej turze "
+"rzucać spośród nich czerwone czary. Dostajesz emblemat mający \"Ilekroć "
+"rzucisz czerwony czar, ten emblemat zadaje wskazanemu celowi X obrażeń, "
+"gdzie X jest wartością many wydanej na ów czar.\""
 
 #: ../../VOW.rst:1096
 msgid ""
@@ -3576,6 +3630,7 @@ msgstr ""
 msgid ""
 "Discard your hand, then draw a card for each card you've discarded this turn."
 msgstr ""
+"Odrzuć twoją rękę, po czym dobierz tyle kart, ile odrzuciłeś w tej turze."
 
 #: ../../VOW.rst:1102
 msgid ""
@@ -3594,6 +3649,9 @@ msgid ""
 "creature this combat, you may have that creature's base power and toughness "
 "become 4/3 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli w tej potyczce zaatakowałeś dokładnie "
+"jednym innym stworem, możesz sprawić, że do końca tury bazowa siła i "
+"wytrzymałość owego stwora będą 4/3."
 
 #: ../../VOW.rst:1110
 msgid ""
@@ -3604,7 +3662,7 @@ msgstr ""
 
 #: ../../VOW.rst:1107
 msgid "Creatures attacking enchanted player have trample."
-msgstr ""
+msgstr "Stwory atakujące zauroczonego gracza mają tratowanie."
 
 #: ../../VOW.rst:1109
 msgid ""
@@ -3613,6 +3671,10 @@ msgid ""
 "controller may play that card and they may spend mana as though it were mana "
 "of any color to cast that spell."
 msgstr ""
+"Ilekroć stwór zada zauroczonemu graczowi obrażenia bojowe, ów gracz wygania "
+"wierzchnią kartę swojej biblioteki. Do końca tury władca owego stwora może "
+"zagrać ową kartę i do rzucenia owego czaru może wydawać manę tak, jakby była "
+"maną dowolnego koloru."
 
 #: ../../VOW.rst:1116
 msgid ""
@@ -3626,6 +3688,8 @@ msgid ""
 "When Daybreak Combatants enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +"
+"2/+0."
 
 #: ../../VOW.rst:1120
 msgid ""
@@ -3641,6 +3705,9 @@ msgid ""
 "control until end of turn. Untap that creature. It gains haste until end of "
 "turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"wskazanym stworem o skrócie many mniejszym lub równym liczbie Wampirów pod "
+"twoim władaniem. Odkręć owego stwora. Do końca tury zyskuje on pośpiech."
 
 #: ../../VOW.rst:1124
 msgid ""
@@ -3654,6 +3721,8 @@ msgid ""
 "End the Festivities deals 1 damage to each opponent and each creature and "
 "planeswalker they control."
 msgstr ""
+"Ten czar zadaje każdemu przeciwnikowi i każdemu stworowi oraz wędrowcowi pod "
+"ich władaniem po 1 obrażeniu."
 
 #: ../../VOW.rst:1130
 msgid ""
@@ -3675,6 +3744,9 @@ msgid ""
 "(They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Krwi. (To artefakty "
+"mające \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:1136
 msgid ""
@@ -3704,6 +3776,8 @@ msgid ""
 "Flame-Blessed Bolt deals 2 damage to target creature or planeswalker. If "
 "that creature or planeswalker would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów "
+"stwór lub wędrowiec miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../VOW.rst:1152
 msgid ""
@@ -3717,6 +3791,7 @@ msgid ""
 "Whenever you cast a noncreature spell, Frenzied Devils gets +2/+2 until end "
 "of turn."
 msgstr ""
+"Ilekroć rzucisz niestworowy czar, ten stwór dostaje do końca tury +2/+2."
 
 #: ../../VOW.rst:1158
 msgid ""
@@ -3730,6 +3805,8 @@ msgid ""
 "Tap two untapped creatures you control: Honeymoon Hearse becomes an artifact "
 "creature until end of turn."
 msgstr ""
+"Przekręć dwa odkręcone stwory pod twoim władaniem: Ten artefakt staje się do "
+"końca tury artefaktowym stworem."
 
 #: ../../VOW.rst:1162
 msgid ""
@@ -3743,6 +3820,8 @@ msgid ""
 "As long as you control another Wolf or Werewolf, Hungry Ridgewolf gets +1/+0 "
 "and has trample."
 msgstr ""
+"O ile władasz innym Wilkiem lub Wilkołakiem, ten stwór dostaje +1/+0 i ma "
+"tratowanie."
 
 #: ../../VOW.rst:1170
 msgid ""
@@ -3757,6 +3836,8 @@ msgid ""
 "Whenever Ill-Tempered Loner is dealt damage, it deals that much damage to "
 "any target."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje wskazanemu celowi tyle samo "
+"obrażeń."
 
 #: ../../VOW.rst:1167
 msgid "|mana_1|\\ |mana_r|: Ill-Tempered Loner gets +2/+0 until end of turn."
@@ -3775,6 +3856,8 @@ msgid ""
 "Whenever a permanent you control is dealt damage, Howlpack Avenger deals "
 "that much damage to any target."
 msgstr ""
+"Ilekroć permanent pod twoim władaniem otrzyma obrażenia, ten stwór zadaje "
+"wskazanemu celowi tyle samo obrażeń."
 
 #: ../../VOW.rst:1175
 msgid "|mana_1|\\ |mana_r|: Howlpack Avenger gets +2/+0 until end of turn."
@@ -3792,6 +3875,7 @@ msgid ""
 "It becomes night. Discard any number of cards, then draw that many cards "
 "plus one."
 msgstr ""
+"Nastaje noc. Odrzuć dowolną liczbę kart, po czym dobierz o jedną więcej."
 
 #: ../../VOW.rst:1186
 msgid ""
@@ -3805,6 +3889,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage "
 "to each opponent."
 msgstr ""
+"Ilekroć rzucisz niestworowy czar, ten stwór zadaje każdemu przeciwnikowi po "
+"1 obrażeniu."
 
 #: ../../VOW.rst:1192
 msgid ""
@@ -3818,6 +3904,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, |tap|, Exile three cards from your graveyard: Create a "
 "3/2 red Wolf creature token."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|, wygnaj trzy karty z twojego cmentarza: Stwórz "
+"dwa żetony czerwonego stwora Wilk 3/2."
 
 #: ../../VOW.rst:1196
 msgid ""
@@ -5773,6 +5861,9 @@ msgid ""
 "activate for each Vampire you control. (It's an artifact with \"|mana_1|, |"
 "tap|, Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton Krwi. Aktywacja tej zdolności kosztuje o "
+"|mana_1| mniej za każdego Wampira pod twoim władaniem. (To artefakt mający \""
+"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1910
 msgid ""
