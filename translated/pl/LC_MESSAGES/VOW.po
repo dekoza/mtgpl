@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-23 15:41+0100\n"
-"PO-Revision-Date: 2022-02-22 17:51+0000\n"
+"PO-Revision-Date: 2022-02-22 18:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -5253,12 +5253,18 @@ msgid ""
 "only once each turn. (It's an artifact with \"|mana_1|, |tap|, Discard a "
 "card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór i/lub co najmniej jeden inny Wampir wejdzie na pole bitwy "
+"pod twoim władaniem, stwórz żeton Krwi. Ta zdolność wyzwala się tylko raz na "
+"turę. (To artefakt mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1649
 msgid ""
 "|mana_2|, Sacrifice another creature or a Blood token: Each opponent loses 2 "
 "life and you gain 2 life."
 msgstr ""
+"|mana_2|, poświęć innego stwora lub żeton Krwi: Każdy przeciwnik traci po 2 "
+"życia, a ty zyskaj 2 życia."
 
 #: ../../VOW.rst:1656
 msgid ""
@@ -5273,6 +5279,9 @@ msgid ""
 "(It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
+"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:1655
 msgid ""
@@ -5280,6 +5289,9 @@ msgid ""
 "of turn, where X is twice the number of Blood tokens you control. Activate "
 "only as a sorcery."
 msgstr ""
+"|tap|, poświęć tego stwora: Wskazany stwór dostaje do końca tury -X/-X, "
+"gdzie X to dwukrotność liczby żetonów Krwi pod twoim władaniem. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../VOW.rst:1662
 msgid ""
@@ -5294,6 +5306,8 @@ msgid ""
 "Whenever Brine Comber enters the battlefield or becomes the target of an "
 "Aura spell, create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zostanie wskazany przez czar "
+"Aury, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../VOW.rst:1661
 msgid ""
@@ -5317,6 +5331,8 @@ msgid ""
 "becomes the target of an Aura spell, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
+"Ilekroć ten urok wejdzie na pole bitwy lub zauroczony stwór zostanie "
+"wskazany przez czar Aury, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../VOW.rst:1669
 msgid ""
@@ -5336,7 +5352,7 @@ msgstr ""
 
 #: ../../VOW.rst:1673
 msgid "|mana_2|\\ |mana_r|\\ |mana_g|: Create a 2/2 green Wolf creature token."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|\\ |mana_g|: Stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../VOW.rst:1684
 msgid ""
@@ -5362,7 +5378,7 @@ msgstr ""
 msgid ""
 "When Dorothea, Vengeful Victim attacks or blocks, sacrifice it at end of "
 "combat."
-msgstr ""
+msgstr "Kiedy ten stwór zaatakuje lub zablokuje, poświęć go na końcu potyczki."
 
 #: ../../VOW.rst:1691
 msgid ""
@@ -5386,12 +5402,17 @@ msgid ""
 "Spirit creature token with flying that's tapped and attacking. Sacrifice "
 "that token at end of combat.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór zaatakuje, stwórz przekręcony i "
+"atakujący żeton białego stwora Duch 4/4 z lataniem. Poświęć ów żeton na "
+"końcu potyczki.\""
 
 #: ../../VOW.rst:1699
 msgid ""
 "If Dorothea's Retribution would be put into a graveyard from anywhere, exile "
 "it instead."
 msgstr ""
+"Jeśli ta karta miałaby skądkolwiek trafić do cmentarza, zamiast tego wygnaj "
+"ją."
 
 #: ../../VOW.rst:1706
 msgid ""
@@ -5410,6 +5431,8 @@ msgid ""
 "When Edgar, Charmed Groom dies, return it to the battlefield transformed "
 "under its owner's control."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go transformowanego na pole bitwy pod "
+"władaniem jego właściciela."
 
 #: ../../VOW.rst:1710
 msgid ""
@@ -5426,6 +5449,10 @@ msgid ""
 "Coffin. Then if there are three or more bloodline counters on it, remove "
 "those counters and transform it."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton biało-czarnego stwora "
+"Wampir 1/1 z więzią życia i umieść znacznik rodowodu na tym artefakcie. "
+"Następnie jeśli są na nim co najmniej trzy znaczniki rodowodu, usuń owe "
+"znaczniki i transformuj go."
 
 #: ../../VOW.rst:1714
 msgid ""
@@ -5440,6 +5467,8 @@ msgid ""
 "If you would draw a card, exile the top two cards of your library instead. "
 "You may play those cards this turn."
 msgstr ""
+"Jeśli miałbyś dobrać kartę, zamiast tego wygnaj dwie wierzchnie karty twojej "
+"biblioteki. Możesz zagrać owe karty w tej turze."
 
 #: ../../VOW.rst:1722
 msgid ""
@@ -5450,19 +5479,23 @@ msgstr ""
 
 #: ../../VOW.rst:1717
 msgid "Whenever a Frog you control attacks, mill three cards."
-msgstr ""
+msgstr "Ilekroć Żaba pod twoim władaniem zaatakuje, zmiel trzy karty."
 
 #: ../../VOW.rst:1719
 msgid ""
 "Whenever a permanent card is put into your graveyard from your library, "
 "exile it with a croak counter on it."
 msgstr ""
+"Ilekroć karta permanentu trafi z twojej biblioteki do twojego cmentarza, "
+"wygnaj ją ze znacznikiem rechotu."
 
 #: ../../VOW.rst:1721
 msgid ""
 "You may play lands and cast spells from among cards you own in exile with "
 "croak counters on them."
 msgstr ""
+"Możesz zagrywać karty lądów i rzucać karty czarów spośród własnych kart z "
+"wygnania mających znacznik rechotu."
 
 #: ../../VOW.rst:1728
 msgid ""
@@ -5474,7 +5507,7 @@ msgstr ""
 
 #: ../../VOW.rst:1725
 msgid "First strike, reach"
-msgstr ""
+msgstr "Pierwszy cios, zasięg"
 
 #: ../../VOW.rst:1727
 msgid ""
@@ -5482,6 +5515,9 @@ msgid ""
 "target creature you control, where X is Halana and Alena's power. That "
 "creature gains haste until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, umieść X znaczników +1/+1 na innym "
+"wskazanym stworze pod twoim władaniem, gdzie X jest siłą niniejszego stwora. "
+"Ów stwór do końca tury zyskuje pośpiech."
 
 #: ../../VOW.rst:1736
 msgid ""
@@ -5495,12 +5531,16 @@ msgid ""
 "+1: Creatures you control gain deathtouch until end of turn. Put a +1/+1 "
 "counter on up to one target creature token you control."
 msgstr ""
+"+1: Stwory pod twoim władaniem zyskują do końca tury dotyk śmierci. Umieść "
+"znacznik +1/+1 na co najwyżej jednym wskazanym stworze pod twoim władaniem."
 
 #: ../../VOW.rst:1733
 msgid ""
 "−2: Until end of turn, if one or more tokens would be created under your "
 "control, twice that many of those tokens are created instead."
 msgstr ""
+"–2: Do końca tury, jeśli co najmniej jeden żeton miałby zostać stworzony pod "
+"twoim władaniem, zamiast tego tworzona jest dwukrotność owych żetonów."
 
 #: ../../VOW.rst:1735
 msgid ""
@@ -5522,6 +5562,8 @@ msgid ""
 "At the beginning of your end step, if you gained life this turn, you may pay "
 "|mana_2|. If you do, draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli zyskałeś życia w tej turze, "
+"możesz zapłacić |mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../VOW.rst:1748
 msgid ""
@@ -5539,6 +5581,8 @@ msgid ""
 "At the beginning of combat on your turn, up to two target creatures you "
 "control each get +1/+0 until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, każdy z co najwyżej dwóch wskazanych "
+"stworów pod twoim władaniem dostaje do końca tury +1/+0."
 
 #: ../../VOW.rst:1752
 msgid ""
@@ -5555,6 +5599,11 @@ msgid ""
 "reach, trample, and vigilance found among creatures you control. (Count each "
 "ability only once.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz X żetonów Krwi, gdzie X jest "
+"liczbą zdolności latanie, pierwszy cios, podwójny cios, dotyk śmierci, "
+"pośpiech, antyklątwa, niezniszczalność, więź życia, złowrogość, zasięg, "
+"tratowanie i czujność pośród stworów pod twoim władaniem. (Każda zdolność "
+"liczy się tylko raz.)"
 
 #: ../../VOW.rst:1756
 msgid ""
@@ -5571,6 +5620,11 @@ msgid ""
 "token. If a noncreature, nonland card is milled this way, create a Blood "
 "token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy oraz na początku twojego kroku "
+"utrzymania, zmiel kartę. Jeśli karta lądu zostanie zmielona w ten sposób, "
+"stwórz żeton Skarbu. Jeśli karta stwora zostanie zmielona w ten sposób, "
+"stwórz żeton zielonego stwora Owad 1/1. Jeśli niestworowa nielądowa karta "
+"zostanie zmielona w ten sposób, stwórz żeton Krwi."
 
 #: ../../VOW.rst:1762
 msgid ""
@@ -5585,6 +5639,9 @@ msgid ""
 "your graveyard to the battlefield tapped and attacking. It gains \"When you "
 "don't control a legendary Vampire, exile this creature.\""
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przywróć na pole bitwy przekręconą i atakującą "
+"wskazaną kartę stwora z twojego cmentarza. Zyskuje ona \"Kiedy nie władasz "
+"legendarnym Wampirem, wygnaj tego stwora.\""
 
 #: ../../VOW.rst:1770
 msgid ""
@@ -5599,6 +5656,8 @@ msgid ""
 "When Runo Stromkirk enters the battlefield, put up to one target creature "
 "card from your graveyard on top of your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść co najwyżej jedną wskazaną "
+"kartę stwora z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../VOW.rst:1769
 msgid ""
@@ -5606,6 +5665,9 @@ msgid ""
 "may reveal that card. If a creature card with mana value 6 or greater is "
 "revealed this way, transform Runo Stromkirk."
 msgstr ""
+"Na początku twojego kroku utrzymania, spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz ujawnią ową kartę. Jeśli w ten sposób zostanie ujawniona "
+"karta stwora o skrócie many 6 lub większym, transformuj tego stwora."
 
 #: ../../VOW.rst:1776
 msgid ""
@@ -5622,6 +5684,9 @@ msgid ""
 "is a Kraken, Leviathan, Octopus, or Serpent, create two of those tokens "
 "instead."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz przekręcony i atakujący żeton będący "
+"kopią innego wskazanego atakującego stwora. Jeśli ów stwór jest Krakenem, "
+"Lewiatanem, Ośmiornicą lub Wężownikiem, zamiast tego stwórz dwa takie żetony."
 
 #: ../../VOW.rst:1782
 msgid ""
@@ -5635,12 +5700,16 @@ msgid ""
 "As long as you've put one or more +1/+1 counters on a creature this turn, "
 "Sigardian Paladin has trample and lifelink."
 msgstr ""
+"O ile umieściłeś w tej turze co najmniej jeden żeton +1/+1 na stworze, "
+"niniejszy stwór ma tratowanie i więź życia."
 
 #: ../../VOW.rst:1781
 msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_w|: Target creature you control with a +1/+1 "
 "counter on it gains trample and lifelink until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_w|: Wskazany stwór pod twoim władaniem mający "
+"znacznik +1/+1 zyskuje do końca tury tratowanie i więź życia."
 
 #: ../../VOW.rst:1788
 msgid ""
@@ -5670,6 +5739,8 @@ msgid ""
 "Whenever you cast a creature spell, create a 1/1 green and white Human "
 "Soldier creature token with training."
 msgstr ""
+"Ilekroć rzucisz czar stwora, stwórz żeton zielono-białego stwora Człowiek "
+"Piechur 1/1 z treningiem."
 
 #: ../../VOW.rst:1802
 msgid ""
@@ -5683,6 +5754,8 @@ msgid ""
 "At the beginning of your upkeep, mill a card. (Put the top card of your "
 "library into your graveyard.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, zmiel kartę. (Umieść wierzchnią kartę "
+"twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../VOW.rst:1801
 msgid ""
@@ -5690,6 +5763,9 @@ msgid ""
 "1/1 green Insect creature token for each creature card in your graveyard. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, poświęć tego stwora: Stwórz po "
+"żetonie zielonego stwora Owad 1/1 za każdą kartę stwora w twoim cmentarzu. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../VOW.rst:1808
 msgid ""
@@ -5705,6 +5781,10 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na sześć wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich niestworową nielądową kartę i "
+"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../VOW.rst:1812
 msgid ""
@@ -5719,6 +5799,9 @@ msgid ""
 "artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
+"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../VOW.rst:1818
 msgid ""
@@ -5736,6 +5819,8 @@ msgid ""
 "At the beginning of each end step, if you were dealt 4 or more damage this "
 "turn, exile Boarded Window."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze otrzymałeś co "
+"najmniej 4 obrażenia, wygnaj ten artefakt."
 
 #: ../../VOW.rst:1824
 msgid ""
@@ -5750,6 +5835,9 @@ msgid ""
 "damage, create a Blood token.\" (It's an artifact with \"|mana_1|, |tap|, "
 "Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Wyposażony stwór dostaje +1/+0 i ma \"Ilekroć ten stwór zada obrażenia "
+"bojowe, stwórz żeton Krwi.\" (To artefakt mający \"|mana_1|, |tap|, odrzuć "
+"kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1828
 msgid ""
@@ -5766,6 +5854,11 @@ msgid ""
 "Construct you control.\" It gains haste until end of turn. Activate only as "
 "a sorcery."
 msgstr ""
+"|mana_1|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
+"będący kopią owej wygnanej karty, ale jest to dodatkowo artefakt Konstrukt 0/"
+"0 oprócz swoich innych typów i ma \"Ten stwór dostaje +1/+1 za każdego "
+"Konstrukta pod twoim władaniem.\" Do końca tury zyskuje on pośpiech. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../VOW.rst:1834
 msgid ""
@@ -5787,6 +5880,8 @@ msgid ""
 "At the beginning of your end step, if there are three or more omen counters "
 "on Foreboding Statue, untap it, then transform it."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli na tym artefakcie są co najmniej "
+"trzy znaczniki omenu, odkręć go, po czym transformuj go."
 
 #: ../../VOW.rst:1838
 msgid ""
@@ -5800,6 +5895,8 @@ msgstr ""
 msgid ""
 "At the beginning of your precombat main phase, add one mana of any color."
 msgstr ""
+"Na początku twojej fazy głównej przed potyczką, weź jedną manę dowolnego "
+"koloru."
 
 #: ../../VOW.rst:1844
 msgid ""
@@ -5810,7 +5907,7 @@ msgstr ""
 
 #: ../../VOW.rst:1843
 msgid "|mana_2|, |tap|: Exile target card from a graveyard."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../VOW.rst:1852
 msgid ""
@@ -5824,16 +5921,19 @@ msgid ""
 "Investigator's Journal enters the battlefield with a number of suspect "
 "counters on it equal to the greatest number of creatures a player controls."
 msgstr ""
+"Ten artefakt wchodzi na pole bitwy mając tyle zaczników podejrzanych, ile "
+"wynosi największa liczba stworów pod władaniem jednego gracza."
 
 #: ../../VOW.rst:1849
 msgid ""
 "|mana_2|, |tap|, Remove a suspect counter from Investigator's Journal: Draw "
 "a card."
 msgstr ""
+"|mana_2|, |tap|, usuń znacznik podejrzanego z tego artefaktu: Dobierz kartę."
 
 #: ../../VOW.rst:1851
 msgid "|mana_2|, Sacrifice Investigator's Journal: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../VOW.rst:1858
 msgid ""
@@ -5854,6 +5954,8 @@ msgid ""
 "|mana_1|, |tap|, Exile Lantern of the Lost: Exile all cards from all "
 "graveyards, then draw a card."
 msgstr ""
+"|mana_1|, |tap|, wygnaj ten artefakt: Wygnaj wszystkie karty ze wszystkich "
+"cmentarzy, po czym dobierz kartę."
 
 #: ../../VOW.rst:1864
 msgid ""
@@ -5864,13 +5966,15 @@ msgstr ""
 
 #: ../../VOW.rst:1861
 msgid "When Wedding Invitation enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../VOW.rst:1863
 msgid ""
 "|tap|, Sacrifice Wedding Invitation: Target creature can't be blocked this "
 "turn. If it's a Vampire, it also gains lifelink until end of turn."
 msgstr ""
+"|tap|, poświęć ten artefakt: Wskazany stwór nie może być blokowany w tej "
+"turze. Jeśli jest on Wampirem do końca tury zyskuje on też więź życia."
 
 #: ../../VOW.rst:1870
 msgid ""
@@ -5937,6 +6041,8 @@ msgid ""
 "Shattered Sanctum enters the battlefield tapped unless you control two or "
 "more other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../VOW.rst:1885
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -5954,6 +6060,8 @@ msgid ""
 "Stormcarved Coast enters the battlefield tapped unless you control two or "
 "more other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../VOW.rst:1891
 msgid "|tap|: Add |mana_u| or |mana_r|."
