@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-23 15:41+0100\n"
-"PO-Revision-Date: 2022-02-19 16:57+0000\n"
+"PO-Revision-Date: 2022-02-22 17:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -4259,12 +4259,14 @@ msgid ""
 "|tap|: Voltaic Visionary deals 2 damage to you. Exile the top card of your "
 "library. You may play that card this turn. Activate only as a sorcery."
 msgstr ""
+"|tap|: Ten stwór zadaje tobie 2 obrażenia. Wygnaj wierzchnią kartę twojej "
+"biblioteki. Możesz zagrać ową kartę w tej turze. Aktywuj tylko jako obrzęd."
 
 #: ../../VOW.rst:1299
 msgid ""
 "When you play a card exiled with Voltaic Visionary, transform Voltaic "
 "Visionary."
-msgstr ""
+msgstr "Kiedy zagrasz kartę wygnaną tym stworem, transformuj go."
 
 #: ../../VOW.rst:1304
 msgid ""
@@ -4276,7 +4278,7 @@ msgstr ""
 
 #: ../../VOW.rst:1303
 msgid "Volt-Charged Berserker can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../VOW.rst:1310
 msgid ""
@@ -4296,7 +4298,7 @@ msgstr ""
 
 #: ../../VOW.rst:1313
 msgid "Wrathful Jailbreaker attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../VOW.rst:1322
 msgid ""
@@ -4321,6 +4323,8 @@ msgid ""
 "Ascendant Packleader enters the battlefield with a +1/+1 counter on it if "
 "you control a permanent with mana value 4 or greater."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 jeśli władasz "
+"permanentem o skrócie many 4 lub większym."
 
 #: ../../VOW.rst:1327
 msgid ""
@@ -4347,6 +4351,8 @@ msgid ""
 "At the beginning of combat on your turn, put two +1/+1 counters on another "
 "target creature you control."
 msgstr ""
+"Na początku potyczki w twojej turze, umieść dwa znaczniki +1/+1 na innym "
+"wskazanym stworze pod twoim władaniem."
 
 #: ../../VOW.rst:1346
 msgid ""
@@ -4365,6 +4371,8 @@ msgid ""
 "At the beginning of combat on your turn, put two +1/+1 counters on each "
 "creature you control."
 msgstr ""
+"Na początku potyczki w twojej turze, umieść po dwa znaczniki +1/+1 na każdym "
+"stworze pod twoim władaniem."
 
 #: ../../VOW.rst:1354
 msgid ""
@@ -4411,7 +4419,7 @@ msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
 #: ../../VOW.rst:1361
 msgid ""
 "|mana_2|\\ |mana_g|, Exile Bramble Wurm from your graveyard: You gain 5 life."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|, wygnaj tę kartę z twojego cmentarza: Zyskaj 5 żyć."
 
 #: ../../VOW.rst:1366
 msgid ""
@@ -4426,6 +4434,9 @@ msgid ""
 "among them onto the battlefield tapped. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść spośród nich co "
+"najwyżej dwie karty lądów przekręcone na polu bitwy. Umieść pozostałe losowo "
+"na spodzie twojej biblioteki."
 
 #: ../../VOW.rst:1374
 msgid ""
@@ -4447,6 +4458,8 @@ msgid ""
 "Spells you cast cost |mana_1| less to cast for each card type they share "
 "with cards exiled with Cemetery Prowler."
 msgstr ""
+"Rzucanie czarów kosztuje cię o |mana_1| mniej za każdy typ karty "
+"współdzielony przez nie z kartami wygnanymi tym stworem."
 
 #: ../../VOW.rst:1380
 msgid ""
@@ -4460,6 +4473,9 @@ msgid ""
 "Whenever one or more +1/+1 counters are put on one or more Humans you "
 "control, draw a card. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć co najmniej jeden znacznik +1/+1 jest umieszczany na co najmniej "
+"jednym Człowieku pod twoim władaniem, dobierz kartę. Ta zdolność wyzwala się "
+"tylko raz na turę."
 
 #: ../../VOW.rst:1386
 msgid ""
@@ -4473,6 +4489,8 @@ msgid ""
 "At the beginning of your upkeep, you may mill two cards. (You may put the "
 "top two cards of your library into your graveyard.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz zmielić dwie karty. (Możesz "
+"umieścić dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../VOW.rst:1385
 msgid ""
@@ -4480,6 +4498,9 @@ msgid ""
 "anywhere during your turn, create a 1/1 green Insect creature token. This "
 "ability triggers only once each turn."
 msgstr ""
+"Ilekroć co najmniej jedna karta stwora trafia skądkolwiek do twojego "
+"cmentarza, stwórz żeton zielonego stwora Owad 1/1. Ta zdolność wyzwala się "
+"tylko raz na turę."
 
 #: ../../VOW.rst:1394
 msgid ""
@@ -4508,6 +4529,8 @@ msgid ""
 "Cultivator Colossus's power and toughness are each equal to the number of "
 "lands you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../VOW.rst:1401
 msgid ""
@@ -4515,6 +4538,9 @@ msgid ""
 "from your hand onto the battlefield tapped. If you do, draw a card and "
 "repeat this process."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić z twojej ręki na polu "
+"bitwy przekręconą kartę lądu. Jeśli tak zrobisz, dobierz kartę i powtórz ten "
+"proces."
 
 #: ../../VOW.rst:1406
 msgid ""
@@ -4528,6 +4554,8 @@ msgid ""
 "Whenever another Human enters the battlefield under your control, Dawnhart "
 "Disciple gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny Człowiek wejdzie na pole bitwy pod twoim władaniem, niniejszy "
+"stwór dostaje do końca tury +1/+1."
 
 #: ../../VOW.rst:1412
 msgid ""
@@ -4541,12 +4569,17 @@ msgid ""
 "Cleave |mana_1|\\ |mana_b|\\ |mana_b|\\ |mana_g| (You may cast this spell "
 "for its cleave cost. If you do, remove the words in square brackets.)"
 msgstr ""
+"Rozłupanie |mana_1|\\ |mana_b|\\ |mana_b|\\ |mana_g| (Możesz rzucić ten czar "
+"za jego koszt rozłupania. Jeśli tak zrobisz, usuń wyrazy w kwadratowych "
+"nawiasach.)"
 
 #: ../../VOW.rst:1411
 msgid ""
 "Search your library for a [basic land] card, [reveal it,] put it into your "
 "hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę [bazowego lądu, ujawnij ją] i umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../VOW.rst:1416
 msgid ""
@@ -4562,6 +4595,9 @@ msgid ""
 "creature you control. Then if that creature has toughness 6 or greater, "
 "transform Dormant Grove."
 msgstr ""
+"Na początku potyczki w twojej turze, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem. Następnie jeśli ów stwór ma wytrzymałość 6 lub "
+"większą, transformuj ten urok."
 
 #: ../../VOW.rst:1422
 msgid ""
@@ -4587,6 +4623,8 @@ msgid ""
 "When Flourishing Hunter enters the battlefield, you gain life equal to the "
 "greatest toughness among other creatures you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi "
+"największa wytrzymałość pośród stworów pod twoim władaniem."
 
 #: ../../VOW.rst:1438
 msgid ""
@@ -4597,7 +4635,7 @@ msgstr ""
 
 #: ../../VOW.rst:1429
 msgid "At the beginning of combat on your turn, choose one —"
-msgstr ""
+msgstr "Na początku potyczki w twojej turze, wybierz jedno —"
 
 #: ../../VOW.rst:1431
 msgid "Creatures you control get +1/+1 and gain trample until end of turn."
@@ -4608,10 +4646,12 @@ msgid ""
 "Target land gains \"|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|\" until end of "
 "turn."
 msgstr ""
+"Wskazany ląd zyskuje do końca tury \"|tap|: Weź |mana_g|\\ |mana_g|\\ "
+"|mana_g|\"."
 
 #: ../../VOW.rst:1435
 msgid "Draw a card if you control a creature with power 3 or greater."
-msgstr ""
+msgstr "Dobierz kartę jeśli władasz stworem o sile 3 lub większej."
 
 #: ../../VOW.rst:1437
 msgid "You gain 3 life."
@@ -4629,6 +4669,8 @@ msgid ""
 "Hamlet Vanguard enters the battlefield with two +1/+1 counters on it for "
 "each other nontoken Human you control."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając po dwa znaczniki +1/+1 za każdego "
+"innego nieżetonowego Człowieka pod twoim władaniem."
 
 #: ../../VOW.rst:1450
 msgid ""
@@ -4643,6 +4685,9 @@ msgid ""
 "land card that doesn't share a land type with a land you control, put that "
 "card onto the battlefield, then shuffle."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz wyszukać w twojej bibliotece kartę "
+"bazowego lądu nie mającej wspólnego typu lądu z lądami pod twoim władaniem, "
+"umieść ową kartę na polu bitwy, po czym przetasuj."
 
 #: ../../VOW.rst:1449
 msgid ""
@@ -4650,6 +4695,9 @@ msgid ""
 "counters on it, where X is the number of basic land types among lands you "
 "control. Activate only as a sorcery."
 msgstr ""
+"|mana_5|\\ |mana_g|: Stwórz żeton zielonego stwora Owad 1/1. Umieść na nim X "
+"znaczników +1/+1, gdzie X jest liczbą typów bazowych lądów pośród lądów pod "
+"twoim władaniem. Aktywuj tylko jako obrzęd."
 
 #: ../../VOW.rst:1454
 msgid ""
@@ -4669,7 +4717,7 @@ msgstr ""
 
 #: ../../VOW.rst:1457
 msgid "Riphook Raider can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../VOW.rst:1466
 msgid ""
@@ -4683,6 +4731,8 @@ msgid ""
 "At the beginning of combat on your turn, target Wolf or Werewolf you control "
 "gets +2/+2 until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, wskazany Wilk lub Wilkołak pod twoim "
+"władaniem dostaje do końca tury +2/+2."
 
 #: ../../VOW.rst:1465
 msgid ""
@@ -4706,6 +4756,9 @@ msgid ""
 "the battlefield. If it's a Wolf or Werewolf, untap Howlpack Piper. Activate "
 "only as a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_g|, |tap|: Możesz umieścić kartę stwora z twojej ręki na "
+"polu bitwy. Jeśli to Wilk lub Wilkołak, odkręć niniejszego stwora. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../VOW.rst:1480
 msgid ""
@@ -4722,6 +4775,10 @@ msgid ""
 "card from among them and put it into your hand. Put the rest on the bottom "
 "of your library in a random order."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub transformuje na tę stronę, "
+"spójrz na sześć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../VOW.rst:1486
 msgid ""
@@ -4764,7 +4821,7 @@ msgstr ""
 
 #: ../../VOW.rst:1495
 msgid "Whenever a Human you control dies, draw a card."
-msgstr ""
+msgstr "Ilekroć umrze Człowiek pod twoim władaniem, dobierz kartę."
 
 #: ../../VOW.rst:1497
 msgid ""
@@ -4799,6 +4856,10 @@ msgid ""
 "graveyard. (To mill a card, put the top card of your library into your "
 "graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty, po czym umieść po "
+"znaczniku +1/+1 na tym stworze za każdą kartę stwora w twoim cmentarzu. ("
+"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"cmentarzu.)"
 
 #: ../../VOW.rst:1510
 msgid ""
@@ -4835,6 +4896,8 @@ msgid ""
 "As long as enchanted permanent is a land, it has \"|tap|: Add two mana of "
 "any one color.\""
 msgstr ""
+"O ile zauroczony permanent jest lądem, ma on \"|tap|: Weź dwie many w "
+"dowolnym jednym kolorze.\""
 
 #: ../../VOW.rst:1524
 msgid ""
@@ -4849,6 +4912,8 @@ msgid ""
 "You may cast this spell as though it had flash if you pay |mana_2| more to "
 "cast it."
 msgstr ""
+"Możesz rzucić ten czar, jakby miał błysk jeśli rzucając go zapłacisz o "
+"|mana_2| więcej."
 
 #: ../../VOW.rst:1528
 msgid ""
@@ -4870,10 +4935,12 @@ msgid ""
 "At the beginning of combat on your turn, if you control another Wolf or "
 "Werewolf, put a +1/+1 counter on Packsong Pup."
 msgstr ""
+"Na początku potyczki w twojej turze, jeśli władasz innym Wilkiem lub "
+"Wilkołakiem, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../VOW.rst:1533
 msgid "When Packsong Pup dies, you gain life equal to its power."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskaj życia równe jego sile."
 
 #: ../../VOW.rst:1540
 msgid ""
@@ -4887,6 +4954,8 @@ msgid ""
 "Reclusive Taxidermist gets +3/+2 as long as there are four or more creature "
 "cards in your graveyard."
 msgstr ""
+"Ten stwór dostaje +3/+2 o ile w twoim cmentarzu są co najmniej cztery karty "
+"stworów."
 
 #: ../../VOW.rst:1539 ../../VOW.rst:1611 ../../VOW.rst:1841
 msgid "|tap|: Add one mana of any color."
@@ -4904,6 +4973,9 @@ msgid ""
 "Return up to one target creature card and up to one target noncreature "
 "permanent card from your graveyard to your hand. Exile Retrieve."
 msgstr ""
+"Przywróć co najwyżej jedną wskazaną kartę stwora i co najwyżej jedną "
+"wskazaną kartę nie-stworowego permanentu z twojego cmentarza do twojej ręki. "
+"Wygnaj ten czar."
 
 #: ../../VOW.rst:1550
 msgid ""
@@ -4929,15 +5001,15 @@ msgstr ""
 
 #: ../../VOW.rst:1553
 msgid "When Sawblade Slinger enters the battlefield, choose up to one —"
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz co najwyżej jedno —"
 
 #: ../../VOW.rst:1555
 msgid "Destroy target artifact an opponent controls."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt pod władaniem przeciwnika."
 
 #: ../../VOW.rst:1557
 msgid "Sawblade Slinger fights target Zombie an opponent controls."
-msgstr ""
+msgstr "Ten stwór walczy ze wskazanym Zombim pod władaniem przeciwnika."
 
 #: ../../VOW.rst:1566
 msgid ""
@@ -4985,6 +5057,8 @@ msgid ""
 "Whenever equipped creature attacks, you may sacrifice a Forest. If you do, "
 "that creature gains trample until end of turn."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, możesz poświęcić Las. Jeśli tak zrobisz, "
+"ów stwór zyskuje do końca tury tratowanie."
 
 #: ../../VOW.rst:1577
 msgid ""
@@ -5015,7 +5089,7 @@ msgstr ""
 
 #: ../../VOW.rst:1585
 msgid "When Spore Crawler dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../VOW.rst:1590
 msgid ""
@@ -5026,7 +5100,7 @@ msgstr ""
 
 #: ../../VOW.rst:1589
 msgid "As long as it's your turn, Sporeback Wolf gets +0/+2."
-msgstr ""
+msgstr "O ile jest twoja tura, ten stwór dostaje +0/+2."
 
 #: ../../VOW.rst:1596
 msgid ""
@@ -5040,6 +5114,8 @@ msgid ""
 "When Toxic Scorpion enters the battlefield, another target creature you "
 "control gains deathtouch until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"zyskuje do końca tury dotyk śmierci."
 
 #: ../../VOW.rst:1602
 msgid ""
@@ -5055,7 +5131,7 @@ msgstr "Tratowanie, pośpiech"
 
 #: ../../VOW.rst:1601
 msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Oddity."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../VOW.rst:1608
 msgid ""
@@ -5113,6 +5189,9 @@ msgid ""
 "Target creature you control gets +2/+0 until end of turn if it's night. Then "
 "it deals damage equal to its power to target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+0 o ile jest "
+"noc. Następnie zadaje obrażenia równe swojej sile wskazanemu stworowi poza "
+"twoim władaniem."
 
 #: ../../VOW.rst:1634
 msgid ""
@@ -5126,6 +5205,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_2| less to cast if you control a Wolf or Werewolf."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli władasz Wilkiem lub "
+"Wilkołakiem."
 
 #: ../../VOW.rst:1640
 msgid ""
@@ -5140,6 +5221,8 @@ msgid ""
 "Whenever Wedding Crasher or another Wolf or Werewolf you control dies, draw "
 "a card."
 msgstr ""
+"Ilekroć umrze ten stwór lub inny Wilk lub Wilkołak pod twoim władaniem, "
+"dobierz kartę."
 
 #: ../../VOW.rst:1644
 msgid ""
@@ -5153,6 +5236,8 @@ msgid ""
 "Each creature you control with toughness greater than its power assigns "
 "combat damage equal to its toughness rather than its power."
 msgstr ""
+"Każdy stwór pod twoim władaniem o wytrzymałości większej niż jego siła "
+"przypisuje obrażenia bojowe równe swojej wytrzymałości, a nie sile."
 
 #: ../../VOW.rst:1650
 msgid ""
@@ -5882,6 +5967,8 @@ msgid ""
 "Sundown Pass enters the battlefield tapped unless you control two or more "
 "other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma innymi lądami."
 
 #: ../../VOW.rst:1897
 msgid "|tap|: Add |mana_r| or |mana_w|."
