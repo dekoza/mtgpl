@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2022-02-22
+   * Innistrad: Crimson Vow - 100%
+
 2021-09-20
    * Innistrad: Midnight Hunt - 100%
 

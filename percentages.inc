@@ -346,7 +346,8 @@
 
 .. |DRK_percent| image:: images/pie40.png        
 
-.. |VOW_percent| image:: images/pie90.png        
+.. |VOW_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |ALA_percent| image:: images/pie60.png        
 
