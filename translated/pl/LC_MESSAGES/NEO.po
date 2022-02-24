@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-02-15 19:33+0000\n"
+"PO-Revision-Date: 2022-02-24 09:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -1140,6 +1140,9 @@ msgid ""
 "an artifact and an enchantment, those creatures also gain lifelink until end "
 "of turn."
 msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+2. "
+"Jeśli władasz artefaktem lub urokiem, owe stwory także zyskują do końca tury "
+"więź życia."
 
 #: ../../NEO.rst:314
 msgid ""
@@ -1153,6 +1156,8 @@ msgid ""
 "Whenever Acquisition Octopus or equipped creature deals combat damage to a "
 "player, draw a card."
 msgstr ""
+"Ilekroć ten lub wyposażony stwór zada graczowi obrażenia bojowe, dobierz "
+"kartę."
 
 #: ../../NEO.rst:320
 msgid ""
@@ -1172,6 +1177,9 @@ msgid ""
 "battlefield, then shuffle. If it has mana value less than the sacrificed "
 "permanent's mana value, scry 2."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Wyposażenia lub Pojazdu, umieść ją na "
+"polu bitwy, po czym przetasuj. Jeśli ma ona skrót many mniejszy niż skrót "
+"many poświęconego permanentu, wróż 2."
 
 #: ../../NEO.rst:328
 msgid ""
@@ -1190,7 +1198,7 @@ msgstr ""
 
 #: ../../NEO.rst:325
 msgid "Equipped creature gets +2/+1 and has ward |mana_2|."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1 i ma opiekę |mana_2|."
 
 #: ../../NEO.rst:327 ../../NEO.rst:729 ../../NEO.rst:1473
 msgid ""
@@ -1211,12 +1219,16 @@ msgid ""
 "When Awakened Awareness enters the battlefield, put X +1/+1 counters on "
 "enchanted permanent."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, umieść X znaczników +1/+1 na "
+"zauroczonym permanencie."
 
 #: ../../NEO.rst:335
 msgid ""
 "As long as enchanted permanent is a creature, it has base power and "
 "toughness 1/1."
 msgstr ""
+"O ile zauroczony permanent jest stworem, ma on bazową siłę i wytrzymałość 1/"
+"1."
 
 #: ../../NEO.rst:346
 msgid ""
@@ -1228,13 +1240,15 @@ msgstr ""
 
 #: ../../NEO.rst:341
 msgid "I — Creatures you don't control get -2/-0 until your next turn."
-msgstr ""
+msgstr "I — Stwory poza twoim władaniem dostają do końca tury -2/-0."
 
 #: ../../NEO.rst:343
 msgid ""
 "II — If you have one or fewer cards in hand, draw four cards. Otherwise, "
 "scry 2, then draw two cards."
 msgstr ""
+"II — Jeśli masz nie więcej niż jedną kartę w ręce, dobierz cztery karty. W "
+"przeciwnym razie wróż 2, po czym dobierz dwie karty."
 
 #: ../../NEO.rst:352
 msgid ""
@@ -1250,7 +1264,7 @@ msgstr "Latanie, tratowanie"
 
 #: ../../NEO.rst:351
 msgid "Vision of the Unspeakable gets +1/+1 for each card in your hand."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdą kartę w twojej ręce."
 
 #: ../../NEO.rst:358
 msgid ""
@@ -1275,6 +1289,9 @@ msgid ""
 "artifact card with mana value less than or equal to that damage from your "
 "hand onto the battlefield."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz umieścić z twojej "
+"ręki na polu bitwy kartę artefaktu o skrócie many mniejszym lub równym owym "
+"obrażeniom."
 
 #: ../../NEO.rst:362
 msgid ""
@@ -1290,6 +1307,11 @@ msgid ""
 "the exiled card without paying its mana cost if it's an instant spell with "
 "mana value 2 or less. If you don't, put that card into your hand."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Wygnaj zakrytą jedną z "
+"nich, a pozostałe umieść losowo na spodzie twojej biblioteki. Możesz rzucić "
+"ową wygnaną kartę bez płacenia jej kosztu many jeśli jest czarem sztuczki o "
+"skrócie many 2 lub mniejszym. Jeśli tego nie zrobisz, umieść ową kartę w "
+"twojej ręce."
 
 #: ../../NEO.rst:368
 msgid ""
@@ -1303,6 +1325,8 @@ msgid ""
 "As an additional cost to cast this spell, tap an untapped artifact you "
 "control or pay |mana_1|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — przekręć odkręcony artefakt pod "
+"twoim władaniem lub zapłać |mana_1|."
 
 #: ../../NEO.rst:367
 msgid "Counter target spell."
@@ -1335,10 +1359,12 @@ msgid ""
 "As long as Futurist Operative is tapped, it's a Human Citizen with base "
 "power and toughness 1/1 and can't be blocked."
 msgstr ""
+"O ile ten stwór jest przekręcony jest Człowiekiem Mieszczaninem o bazowej "
+"sile i wytrzymałości 1/1 i nie może być blokowany."
 
 #: ../../NEO.rst:377
 msgid "|mana_2|\\ |mana_u|: Untap Futurist Operative."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Odkręć tego stwora."
 
 #: ../../NEO.rst:382
 msgid ""
@@ -1369,6 +1395,10 @@ msgid ""
 "player mills X cards, where X is the number of Shrines you control. (To mill "
 "a card, a player puts the top card of their library into their graveyard.)"
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zapłacić |mana_1|. Kiedy tak "
+"zrobisz, wskazany gracz mieli X kart, gdzie X jest liczbą Kapliczek pod "
+"twoim władaniem. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu.)"
 
 #: ../../NEO.rst:394
 msgid ""
@@ -1382,6 +1412,9 @@ msgid ""
 "Modified creatures you control can attack as though they didn't have "
 "defender. (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"Modyfikowane stwory pod twoim władaniem mogą atakować jakby nie miały "
+"obronności. (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są "
+"modyfikacjami.)"
 
 #: ../../NEO.rst:404
 msgid ""
@@ -1395,12 +1428,16 @@ msgstr ""
 msgid ""
 "I — Return up to one target creature or planeswalker to its owner's hand."
 msgstr ""
+"I — Przywróć co najwyżej jednego wskazanego stwora lub wędrowca do ręki "
+"właściciela."
 
 #: ../../NEO.rst:401
 msgid ""
 "II — Return an artifact card from your graveyard to your hand. If you can't, "
 "draw a card."
 msgstr ""
+"II — Przywróć kartę artefaktu z twojego cmentarza do twojej ręki. Jeśli nie "
+"możesz, dobierz kartę."
 
 #: ../../NEO.rst:410
 msgid ""
@@ -1415,6 +1452,8 @@ msgid ""
 "Whenever you cast a spell, your opponents can't cast spells with the same "
 "mana value as that spell until your next turn."
 msgstr ""
+"Ilekroć rzucisz czar, do twojej następnej tury twoi przeciwnicy nie mogą "
+"rzucać czarów o takim samym skrócie many co ów czar."
 
 #: ../../NEO.rst:414
 msgid ""
@@ -1425,7 +1464,7 @@ msgstr ""
 
 #: ../../NEO.rst:413
 msgid "Gain control of target artifact or creature. Untap it."
-msgstr ""
+msgstr "Zyskaj władanie nad wskazanym artefaktem. Odkręć go."
 
 #: ../../NEO.rst:420
 msgid ""
@@ -1441,12 +1480,17 @@ msgid ""
 "You may choose new targets for the copy. This ability triggers only once "
 "each turn. (A copy of a permanent spell becomes a token.)"
 msgstr ""
+"Ilekroć rzucisz czar artefaktu, sztuczki lub obrzędu, skopiuj ów czar. "
+"Możesz wskazać nowe cele dla kopii. Ta zdolność wyzwala się tylko raz na "
+"turę. (Kopia czaru permanentu staje się żetonem.)"
 
 #: ../../NEO.rst:419
 msgid ""
 "Whenever an opponent casts an artifact, instant, or sorcery spell, counter "
 "that spell. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar artefaktu, sztuczki lub obrzędu, skontruj ów "
+"czar. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../NEO.rst:430
 msgid ""
@@ -1457,23 +1501,27 @@ msgstr ""
 
 #: ../../NEO.rst:423
 msgid "Flying, ward |mana_3|"
-msgstr ""
+msgstr "Latanie, opieka |mana_3|"
 
 #: ../../NEO.rst:425
 msgid "When Kairi, the Swirling Sky dies, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedno —"
 
 #: ../../NEO.rst:427
 msgid ""
 "Return any number of target nonland permanents with total mana value 6 or "
 "less to their owners' hands."
 msgstr ""
+"Przywróć dowolną liczbę wskazanych nielądowych permanentów o łącznym skrócie "
+"many 6 lub mniej do rąk ich właścicieli."
 
 #: ../../NEO.rst:429
 msgid ""
 "Mill six cards, then return up to two instant and/or sorcery cards from your "
 "graveyard to your hand."
 msgstr ""
+"Zmiel sześć kart, po czym przywróć co najwyżej dwie karty sztuczek i/lub "
+"obrzędów z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:436
 msgid ""
@@ -1488,6 +1536,9 @@ msgid ""
 "cards from your hand. This spell costs |mana_2| less to cast for each card "
 "exiled this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz wygnać dowolną liczbę "
+"niebieskich kart z twojej ręki. Rzucenie tego czaru kosztuje o |mana_2| "
+"mniej za każdą kartę wygnaną w ten sposób."
 
 #: ../../NEO.rst:435
 msgid ""
@@ -1495,6 +1546,9 @@ msgid ""
 "treated as though they don't exist. Each one phases in before its controller "
 "untaps during their next untap step.)"
 msgstr ""
+"Co najwyżej X wskazanych stworów wycofuje się. (Podczas wycofania są "
+"traktowane, jakby nie istniały. Kończą wycofanie zanim ich władca odkręci "
+"podczas swojego najbliższego kroku odkręcania.)"
 
 #: ../../NEO.rst:444
 msgid ""
@@ -1510,6 +1564,10 @@ msgid ""
 "that crewed it this turn, except it's 4/3, it's a Vehicle artifact in "
 "addition to its other types, and it has flying."
 msgstr ""
+"Ilekroć ten artefakt zostanie załogowany po raz pierwszy w turze, staje się "
+"on kopią wskazanego nielegendarnego stwora, który go załogował w tej turze, "
+"ale jest on 4/3, jest dodatkowo artefaktowym Pojazdem oprócz swoich innych "
+"typów i ma latanie."
 
 #: ../../NEO.rst:443
 msgid "Crew 1"
@@ -1545,7 +1603,7 @@ msgstr ""
 
 #: ../../NEO.rst:453
 msgid "|mana_1|\\ |mana_u|, Sacrifice Mnemonic Sphere: Draw two cards."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../NEO.rst:455
 msgid "Channel — |mana_u|, Discard Mnemonic Sphere: Draw a card."
@@ -1563,6 +1621,8 @@ msgid ""
 "Whenever Mobilizer Mech becomes crewed, up to one other target Vehicle you "
 "control becomes an artifact creature until end of turn."
 msgstr ""
+"Ilekroć ten artefakt zostanie załogowany, co najwyżej jeden inny wskazany "
+"Pojazd pod twoim władaniem staje się do końca tury artefaktowym stworem."
 
 #: ../../NEO.rst:472
 msgid ""
@@ -1574,7 +1634,7 @@ msgstr ""
 
 #: ../../NEO.rst:469
 msgid "I, II — Draw a card, then discard a card."
-msgstr ""
+msgstr "I, II — Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../NEO.rst:476
 msgid ""
@@ -1607,6 +1667,9 @@ msgid ""
 "card. If you do, discard a card unless Moon-Circuit Hacker entered the "
 "battlefield this turn."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę, chyba że ten stwór wszedł na pole bitwy w tej "
+"turze."
 
 #: ../../NEO.rst:488
 msgid ""
@@ -1617,7 +1680,7 @@ msgstr ""
 
 #: ../../NEO.rst:487
 msgid "Whenever Moonfolk Puzzlemaker becomes tapped, scry 1."
-msgstr ""
+msgstr "Ilekroć ten stwór zostanie przekręcony, wróż 1."
 
 #: ../../NEO.rst:494
 msgid ""
@@ -1630,6 +1693,8 @@ msgstr ""
 msgid ""
 "|tap|, Tap an untapped artifact or creature you control: Add |colorless|."
 msgstr ""
+"|tap|, przekręć odkręcony artefakt lub stwora pod twoim władaniem: Weź "
+"|colorless|."
 
 #: ../../NEO.rst:493
 msgid ""
@@ -1659,6 +1724,8 @@ msgid ""
 "When Moonsnare Specialist enters the battlefield, return up to one target "
 "creature to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej jednego "
+"wskazanego stwora do ręki właściciela."
 
 #: ../../NEO.rst:506
 msgid ""
@@ -1669,7 +1736,7 @@ msgstr ""
 
 #: ../../NEO.rst:505
 msgid "When Network Disruptor enters the battlefield, tap target permanent."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazany permanent."
 
 #: ../../NEO.rst:510
 msgid ""
@@ -1683,6 +1750,8 @@ msgid ""
 "Exile target artifact or creature, then return it to the battlefield under "
 "its owner's control with a +1/+1 counter on it."
 msgstr ""
+"Wygnaj wskazany artefakt lub stwora, po czym przywróć go na pole bitwy ze "
+"znacznikiem +1/+1 pod władaniem właściciela."
 
 #: ../../NEO.rst:516
 msgid ""
@@ -1697,6 +1766,9 @@ msgid ""
 "to a player, create a Treasure token. (It's an artifact with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć co najmniej jeden Ninja lub Łotrzyk pod twoim władaniem zada "
+"graczowi obrażenia bojowe, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../NEO.rst:524
 msgid ""
@@ -1715,6 +1787,8 @@ msgid ""
 "As long as The Reality Chip is attached to a creature, you may play lands "
 "and cast spells from the top of your library."
 msgstr ""
+"O ile ten permanent jest dołączony do stwora, możesz grać lądy i rzucać "
+"czary z wierzchu twojej biblioteki."
 
 #: ../../NEO.rst:523
 msgid ""
@@ -1742,6 +1816,9 @@ msgid ""
 "artifact cards from among them and put them into your hand. Put the rest on "
 "the bottom of your library in a random order."
 msgstr ""
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich co najwyżej dwie karty artefaktów i umieścić je w twojej ręce. Umieść "
+"pozostało losowo na spodzie twojej biblioteki."
 
 #: ../../NEO.rst:536
 msgid ""
@@ -1756,6 +1833,9 @@ msgid ""
 "may pay |mana_1|\\ |mana_u|. If you do, create a token that's a copy of that "
 "artifact."
 msgstr ""
+"Ilekroć nieżeontowy artefakt wejdzie na pole bitwy pod twoim władaniem, "
+"możesz zapłacić |mana_1|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton będący "
+"kopią owego artefaktu."
 
 #: ../../NEO.rst:540
 msgid ""
@@ -1782,6 +1862,7 @@ msgstr ""
 msgid ""
 "As long as enchanted permanent is a creature, it gets -3/-0 and loses flying."
 msgstr ""
+"O ile zauroczony permanent jest stworem, dostaje on -3/-0 i traci latanie."
 
 #: ../../NEO.rst:554
 msgid ""
@@ -1795,6 +1876,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, you may draw "
 "a card. If you do, discard a card."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, możesz dobrać "
+"kartę, Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../NEO.rst:558
 msgid ""
@@ -1820,6 +1903,8 @@ msgid ""
 "Until end of turn, target creature or Vehicle becomes an artifact creature "
 "with base power and toughness 4/5."
 msgstr ""
+"Do końca tury, wskazany stwór lub Pojazd staje się artefaktowym stworem o "
+"bazowej sile i wytrzymałości 4/5."
 
 #: ../../NEO.rst:563 ../../NEO.rst:895
 msgid "Draw a card."
@@ -1838,6 +1923,8 @@ msgid ""
 "Whenever one or more noncreature permanents are returned to hand, draw a "
 "card. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć co najmniej jeden niestworowy permanent zostanie przywrócony do "
+"ręki, dobierz kartę. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../NEO.rst:569
 msgid ""
@@ -1845,6 +1932,9 @@ msgid ""
 "target artifact or enchantment card with mana value X or less from your "
 "graveyard to the battlefield. Activate only as a sorcery."
 msgstr ""
+"|mana_x|\\ |mana_w|, przywróć ląd pod twoim władaniem do ręki właściciela: "
+"Przywróć wskazaną kartę artefaktu lub uroku o skrócie many X lub mniejszym z "
+"twojego cmentarza na pole bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../NEO.rst:580
 msgid ""
@@ -1855,19 +1945,23 @@ msgstr ""
 
 #: ../../NEO.rst:575
 msgid "Enchant artifact, creature, or planeswalker"
-msgstr ""
+msgstr "Zaurocz artefakt, stwora lub wędrowca"
 
 #: ../../NEO.rst:577
 msgid ""
 "When Tamiyo's Compleation enters the battlefield, tap enchanted permanent. "
 "If it's an Equipment, unattach it."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczony permanent. Jeśli "
+"jest Wyposażeniem, odłącz go."
 
 #: ../../NEO.rst:579
 msgid ""
 "Enchanted permanent loses all abilities and doesn't untap during its "
 "controller's untap step."
 msgstr ""
+"Zauroczony permanent traci wszystkie zdolności i nie odkręca się w kroku "
+"odkręcania jego władcy."
 
 #: ../../NEO.rst:590
 msgid ""
@@ -1882,24 +1976,32 @@ msgid ""
 "The first activated ability of an artifact you activate each turn costs |"
 "mana_2| less to activate."
 msgstr ""
+"Aktywacja pierwszej zdolności artefaktu w danej turze kosztuje cię o |mana_2|"
+" mniej."
 
 #: ../../NEO.rst:585
 msgid ""
 "+1: Draw two cards. Then discard two cards unless you discard an artifact "
 "card."
 msgstr ""
+"+1: Dobierz dwie karty. Następnie odrzuć dwie karty, chyba że odrzucisz "
+"kartę artefaktu."
 
 #: ../../NEO.rst:587
 msgid ""
 "−2: Target artifact becomes an artifact creature. If it isn't a Vehicle, it "
 "has base power and toughness 4/4."
 msgstr ""
+"–2: Wskazany artefakt staje się artefaktycznym stworem. Jeśli jest Pojazdem, "
+"ma bazową siłę i wytrzymałość 4/4."
 
 #: ../../NEO.rst:589
 msgid ""
 "−6: You get an emblem with \"Whenever an artifact you control becomes "
 "tapped, draw a card.\""
 msgstr ""
+"–6: Dostajesz emblemat \"Ilekroć artefakt pod twoim władaniem zostanie "
+"przekręcony, dobierz kartę.\""
 
 #: ../../NEO.rst:594
 msgid ""
@@ -1938,6 +2040,9 @@ msgid ""
 "attacking, create a token that's a copy of another target attacking "
 "creature. The token enters the battlefield tapped and attacking."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy z twojej ręki, jeśli atakuje, stwórz "
+"żeton będący kopią innego wskazanego atakującego stwora. Ów żeton wchodzi na "
+"pole bitwy przekręcony i atakujący."
 
 #: ../../NEO.rst:608
 msgid ""
@@ -1951,6 +2056,8 @@ msgid ""
 "This spell costs |mana_1| less to cast if you control an artifact and |"
 "mana_1| less to cast if you control an enchantment."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz artefaktem i o "
+"|mana_1| mniej jeśli władasz urokiem."
 
 #: ../../NEO.rst:607
 msgid "Destroy target creature or planeswalker."
@@ -1969,7 +2076,7 @@ msgstr "Ninjutsu |mana_2|\\ |mana_b|"
 
 #: ../../NEO.rst:613
 msgid "Biting-Palm Ninja enters the battlefield with a menace counter on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając znacznik złowrogości."
 
 #: ../../NEO.rst:615
 msgid ""
@@ -1977,6 +2084,9 @@ msgid ""
 "menace counter from it. When you do, that player reveals their hand and you "
 "choose a nonland card from it. Exile that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz usunąć z niego "
+"znacznik złowrogości. Kiedy tak zrobisz, ów gracz ujawnia swoją rękę, a ty "
+"wybierz z niej nielądową kartę. Wygnaj ową kartę."
 
 #: ../../NEO.rst:624
 msgid ""
@@ -1994,6 +2104,8 @@ msgid ""
 "Equipped creature has base power and toughness 5/5, has menace, and is a "
 "black Demon in addition to its other colors and types."
 msgstr ""
+"Wyposażony stwór ma bazową siłę i wytrzymałość 5/5, ma złowrogość i jest "
+"dodatkowo czarnym Demonem oprócz swoich innych kolorów i typów."
 
 #: ../../NEO.rst:623
 msgid ""
@@ -2014,6 +2126,7 @@ msgid ""
 "Whenever Chainflail Centipede or equipped creature attacks, it gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten lub wyposażony stwór zaatakuje, dostaje on do końca tury +2/+0."
 
 #: ../../NEO.rst:638
 msgid ""
@@ -2026,11 +2139,15 @@ msgstr ""
 msgid ""
 "As long as enchanted permanent is a creature, it gets -1/-1 and can't block."
 msgstr ""
+"O ile zauroczony permanent jest stworem, dostaje on -1/-1 i nie może "
+"blokować."
 
 #: ../../NEO.rst:637
 msgid ""
 "Enchanted permanent has \"At the beginning of your upkeep, you lose 1 life.\""
 msgstr ""
+"Zauroczony permanent ma \"Na początku twojego kroku utrzymania, strać 1 "
+"życie.\""
 
 #: ../../NEO.rst:646
 msgid ""
@@ -2045,7 +2162,7 @@ msgstr "Wskazany przeciwnik wygania stwora pod swoim władaniem."
 
 #: ../../NEO.rst:645
 msgid "Target opponent exiles an enchantment they control."
-msgstr ""
+msgstr "Wskazany przeciwnik wygania urok pod swoim władaniem."
 
 #: ../../NEO.rst:650
 msgid ""
@@ -2056,7 +2173,7 @@ msgstr ""
 
 #: ../../NEO.rst:649
 msgid "|mana_1|\\ |mana_b|, Sacrifice an artifact or creature: Draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć artefakt lub stwora: Dobierz kartę."
 
 #: ../../NEO.rst:654
 msgid ""
@@ -2098,6 +2215,9 @@ msgid ""
 "creature card. When you do, destroy target creature or planeswalker that "
 "player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz odrzucić kartę "
+"stwora. Kiedy tak zrobisz, zniszcz wskazanego stwora lub wędrowca pod "
+"władaniem owego gracza."
 
 #: ../../NEO.rst:668
 msgid ""
@@ -2115,6 +2235,7 @@ msgid ""
 "Whenever Enormous Energy Blade becomes attached to a creature, tap that "
 "creature."
 msgstr ""
+"Ilekroć ten artefakt zostanie dołączony do stwora, przekręć owego stwora."
 
 #: ../../NEO.rst:667
 msgid ""
@@ -2142,6 +2263,9 @@ msgid ""
 "destroy target creature with toughness X or less, where X is the number of "
 "Shrines you control."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zapłacić |mana_1|. Kiedy tak "
+"zrobisz, zniszcz wskazanego stwora o wytrzymałości X lub mniej, gdzie X jest "
+"liczbą Kapliczek pod twoim władaniem."
 
 #: ../../NEO.rst:680
 msgid ""
@@ -2155,6 +2279,8 @@ msgid ""
 "When Gravelighter enters the battlefield, draw a card if a creature died "
 "this turn. Otherwise, each player sacrifices a creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę jeśli w tej turze umarł "
+"stwór. W przeciwnym razie, każdy gracz poświęca stwora."
 
 #: ../../NEO.rst:686
 msgid ""
@@ -2166,7 +2292,7 @@ msgstr ""
 
 #: ../../NEO.rst:683
 msgid "|mana_b|, Sacrifice a creature: Scry 2."
-msgstr ""
+msgstr "|mana_b|, poświęć stwora: Wróż 2."
 
 #: ../../NEO.rst:685
 msgid ""
