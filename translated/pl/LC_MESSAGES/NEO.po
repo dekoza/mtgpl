@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-18 15:27+0000\n"
+"PO-Revision-Date: 2022-03-18 16:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -3142,10 +3142,13 @@ msgid ""
 "creatures you control. This spell costs |mana_1| less to cast for each "
 "creature tapped this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz przekręcić dowolną liczbę "
+"odkręconych stworów pod twoim władaniem. Rzucenie tego czaru kosztuje o "
+"|mana_1| mniej za każdego stwora przekręconego w ten sposób."
 
 #: ../../NEO.rst:961
 msgid "Explosive Singularity deals 10 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 10 obrażeń."
 
 #: ../../NEO.rst:972
 msgid ""
@@ -3160,10 +3163,14 @@ msgid ""
 "I — Create a 2/2 red Goblin Shaman creature token with \"Whenever this "
 "creature attacks, create a Treasure token.\""
 msgstr ""
+"I — Stwórz żeton czerwonego stwora Goblin Szaman 2/2 z \"Ilekroć ten stwór "
+"zaatakuje, stwórz żeton Skarbu.\""
 
 #: ../../NEO.rst:969
 msgid "II — You may discard up to two cards. If you do, draw that many cards."
 msgstr ""
+"II — Możesz odrzucić co najwyżej dwie karty. Jeśli tak zrobisz, dobierz tyle "
+"samo kart."
 
 #: ../../NEO.rst:976
 msgid ""
@@ -3179,6 +3186,9 @@ msgid ""
 "creature you control, except it has haste. Sacrifice it at the beginning of "
 "the next end step."
 msgstr ""
+"|mana_1|, |tap|: Stwórz żeton będący kopią innego wskazanego nielegendarnego "
+"stwora pod twoim władaniem, ale ma on pośpiech. Poświęć go na początku "
+"najbliższego kroku końcowego."
 
 #: ../../NEO.rst:980
 msgid ""
@@ -3194,6 +3204,10 @@ msgid ""
 "damage instead. (Equipment, Auras you control, and counters are "
 "modifications.)"
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi X obrażeń. Jeśli podczas "
+"rzucania tego czaru władałeś zmodyfikowanym stworem, ten czar zamiast tego "
+"zadaje X plus 2 obrażenia. (Wyposażenie, Aury pod twoim władaniem oraz "
+"znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:988
 msgid ""
@@ -3207,12 +3221,16 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +2/+2 and has menace. "
 "(It can't be blocked except by two or more creatures.)"
 msgstr ""
+"O ile zauroczony permanent jest stworem, dostaje on +2/+2 i ma złowrogość. ("
+"Nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../NEO.rst:987
 msgid ""
 "When Gift of Wrath leaves the battlefield, create a 2/2 red Spirit creature "
 "token with menace."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton czerwonego stwora Duch 2/"
+"2 ze złowrogością."
 
 #: ../../NEO.rst:994
 msgid ""
@@ -3228,6 +3246,9 @@ msgid ""
 "Shintai of Ancient Wars deals X damage to target player or planeswalker, "
 "where X is the number of Shrines you control."
 msgstr ""
+"Na początku twojego kroku końcowego możesz zapłacić |mana_1|. Kiedy tak "
+"zrobisz, ten stwór zadaje wskazanemu graczowi lub wędrowcowi X obrażeń, "
+"gdzie X jest liczbą Kapliczek pod twoim władaniem."
 
 #: ../../NEO.rst:1000
 msgid ""
@@ -3239,7 +3260,7 @@ msgstr ""
 
 #: ../../NEO.rst:997
 msgid "|mana_r|: Creatures you control gain haste until end of turn."
-msgstr ""
+msgstr "|mana_r|: Stwory pod twoim władaniem zyskują do końca tury pośpiech."
 
 #: ../../NEO.rst:999
 msgid ""
@@ -3247,6 +3268,9 @@ msgid ""
 "token with flying. Activate only if you control an attacking modified "
 "creature. (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_r|: Stwórz żeton czerwonego stwora Smok Duch 5/5 "
+"z lataniem. Aktywuj tylko jeśli władasz atakującym zmodyfikowanym stworem. ("
+"Wyposażenie, Aury pod twoim władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1006
 msgid ""
@@ -3261,6 +3285,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, you may cast target "
 "artifact card from your graveyard this turn."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, możesz "
+"w tej turze rzucić wskazaną kartę artefaktu z twojego cmentarza."
 
 #: ../../NEO.rst:1010
 msgid ""
