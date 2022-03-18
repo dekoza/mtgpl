@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-17 10:43+0000\n"
+"PO-Revision-Date: 2022-03-18 11:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -2442,6 +2442,10 @@ msgid ""
 "until end of turn for each modified creature you controlled as you cast this "
 "spell. (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury -2/-2. Dostaje on do końca tury "
+"dodatkowe -1/-1 za każdego zmodyfikowanego stwora pod twoim władaniem w "
+"momencie rzucenia tego czaru. (Wyposażenie, Aury pod twoim władaniem oraz "
+"znaczniki, są modyfikacjami.)"
 
 #: ../../NEO.rst:748
 msgid ""
@@ -2453,7 +2457,7 @@ msgstr ""
 
 #: ../../NEO.rst:739
 msgid "I, II — Choose one —"
-msgstr ""
+msgstr "I, II — Wybierz jedno —"
 
 #: ../../NEO.rst:741
 msgid "Target creature gets +2/+2 until end of turn."
@@ -2480,6 +2484,8 @@ msgid ""
 "|tap|, Pay 1 life: Add |mana_b|. Spend this mana only to cast an instant or "
 "sorcery spell."
 msgstr ""
+"|tap|, zapłać 1 życie: Weź |mana_b|. Wydaj tę manę tylko na rzucenie czaru "
+"sztuczki lub obrzędu."
 
 #: ../../NEO.rst:760
 msgid ""
@@ -2491,7 +2497,7 @@ msgstr ""
 
 #: ../../NEO.rst:757
 msgid "I, II — Each opponent sacrifices a creature unless they discard a card."
-msgstr ""
+msgstr "I, II — Każdy przeciwnik poświęca stwora, chyba że odrzuci kartę."
 
 #: ../../NEO.rst:766
 msgid ""
@@ -2513,6 +2519,8 @@ msgid ""
 "Whenever Animus of Night's Reach attacks, it gets +X/+0 until end of turn, "
 "where X is the number of creature cards in defending player's graveyard."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, dostaje on do końca tury +X/+0, gdzie X jest "
+"liczbą kart stworów w cmentarzu broniącego się gracza."
 
 #: ../../NEO.rst:770
 msgid ""
@@ -2543,12 +2551,17 @@ msgid ""
 "cards from your hand. This spell costs |mana_2| less to cast for each card "
 "exiled this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz wygnać dowolną liczbą "
+"czarnych kart z twojej ręki. Rzucenie tego czaru kosztuje o |mana_2| mniej "
+"za każdą kartę wygnaną w ten sposób."
 
 #: ../../NEO.rst:775
 msgid ""
 "March of Wretched Sorrow deals X damage to target creature or planeswalker "
 "and you gain X life."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi X obrażeń, a ty zyskaj X "
+"żyć."
 
 #: ../../NEO.rst:782
 msgid ""
@@ -2570,6 +2583,9 @@ msgid ""
 "creature. If you do, put a +1/+1 counter on Mukotai Soulripper and it gains "
 "menace until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora lub artefakt. "
+"Jeśli tak zrobisz, umieść znacznik +1/+1 na tym stworze i zyskuje on do "
+"końca tury złowrogość."
 
 #: ../../NEO.rst:794
 msgid ""
@@ -2586,6 +2602,10 @@ msgid ""
 "those cards. If you cast a spell this way, pay life equal to its mana value "
 "rather than paying its mana cost."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
+"biblioteki każdego z graczy. Do końca tury możesz grać owe karty. Rzucając "
+"czar w ten sposób zapłać życia równe jego skrótowi many zamiast płacić jego "
+"koszt many."
 
 #: ../../NEO.rst:800
 msgid ""
@@ -2596,13 +2616,15 @@ msgstr ""
 
 #: ../../NEO.rst:797
 msgid "Nezumi Bladeblesser has deathtouch as long as you control an artifact."
-msgstr ""
+msgstr "Ten stwór ma dotyk śmierci o ile władasz artefaktem."
 
 #: ../../NEO.rst:799
 msgid ""
 "Nezumi Bladeblesser has menace as long as you control an enchantment. (It "
 "can't be blocked except by two or more creatures.)"
 msgstr ""
+"Ten stwór ma złowrogość o ile władasz urokiem. (Nie może być blokowany, "
+"chyba że przez co najmniej dwa stwory.)"
 
 #: ../../NEO.rst:806
 msgid ""
@@ -2616,6 +2638,8 @@ msgid ""
 "When Nezumi Prowler enters the battlefield, target creature you control "
 "gains deathtouch and lifelink until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"zyskuje do końca tury dotyk śmierci i więź życia."
 
 #: ../../NEO.rst:814
 msgid ""
@@ -2627,7 +2651,7 @@ msgstr ""
 
 #: ../../NEO.rst:811
 msgid "I, II — Each opponent loses 1 life and you gain 1 life."
-msgstr ""
+msgstr "I, II — Każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../NEO.rst:820
 msgid ""
@@ -2642,6 +2666,8 @@ msgid ""
 "Vehicles you control have menace. (This creature can't be blocked except by "
 "two or more creatures.)"
 msgstr ""
+"Pojazdy pod twoim władaniem mają złowrogość. (Ten stwór nie może być "
+"blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../NEO.rst:824
 msgid ""
@@ -2656,6 +2682,9 @@ msgid ""
 "battlefield. Then put two +1/+1 counters on that permanent if you control an "
 "artifact and an enchantment."
 msgstr ""
+"Przywróć wskazaną kartę stwora lub Pojazdu z twojego cmentarza na pole "
+"bitwy. Następnie umieść dwa znaczniki +1/+1 na owym permanencie jeśli "
+"władasz artefaktem i urokiem."
 
 #: ../../NEO.rst:828
 msgid ""
@@ -2670,6 +2699,9 @@ msgid ""
 "If you do, that player discards that card. If you don't, put two +1/+1 "
 "counters on a creature or Vehicle you control."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Możesz wybrać z niej nielądową "
+"kartę. Jeśli tak zrobisz, ów gracz odrzuca ową kartę. Jeśli tak nie zrobisz, "
+"umieść dwa znaczniki +1/+1 na stworze lub Pojeździe pod twoim władaniem."
 
 #: ../../NEO.rst:834
 msgid ""
@@ -2682,6 +2714,7 @@ msgstr ""
 msgid ""
 "You gain life equal to the sacrificed permanent's mana value. Draw two cards."
 msgstr ""
+"Zyskaj życia równe skrótowi many poświęconego permanentu. Dobierz dwie karty."
 
 #: ../../NEO.rst:838
 msgid ""
@@ -2696,6 +2729,9 @@ msgid ""
 "this creature dies, return it to the battlefield tapped under its owner's "
 "control.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +1/+0 i zyskuje więź życia oraz \"Kiedy "
+"ten stwór umrze, przywróć go przekręconego na pole bitwy pod władaniem "
+"właściciela.\""
 
 #: ../../NEO.rst:846
 msgid ""
@@ -2709,6 +2745,8 @@ msgid ""
 "Choose one. If you control an artifact and an enchantment as you cast this "
 "spell, you may choose both."
 msgstr ""
+"Wybierz jedno. Jeśli władasz artefaktem i urokiem podczas rzucenia tego "
+"czaru, możesz wybrać oba."
 
 #: ../../NEO.rst:843
 msgid "Exile target creature or planeswalker."
@@ -2718,6 +2756,8 @@ msgstr "Wygnaj wskazanego stwora lub wędrowca."
 msgid ""
 "Return target creature or planeswalker card from your graveyard to your hand."
 msgstr ""
+"Przywróć wskazaną kartę stwora lub wędrowca z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../NEO.rst:852
 msgid ""
@@ -2733,12 +2773,17 @@ msgid ""
 "token with \"Whenever you cast an enchantment spell, each opponent loses 1 "
 "life and you gain 1 life.\""
 msgstr ""
+"Ilekroć rzucisz czar uroku, jeśli nie władasz stworem o nazwie Keimi, stwórz "
+"Keimi, żeton legendardnego czarno-zielonego stwora Żaba 3/3 mający \"Ilekroć "
+"rzucisz czar uroku, każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 życie.\""
 
 #: ../../NEO.rst:851
 msgid ""
 "|mana_1|\\ |mana_gu|: Tatsunari, Toad Rider and target Frog you control "
 "can't be blocked this turn except by creatures with flying or reach."
 msgstr ""
+"|mana_1|\\ |mana_gu|: Ten stwór i wskazana Żaba pod twoim władaniem nie mogą "
+"być zablokowane w tej turze, chyba że przez stwory z lataniem lub zasięgiem."
 
 #: ../../NEO.rst:860
 msgid ""
@@ -2751,6 +2796,7 @@ msgstr ""
 #: ../../NEO.rst:857
 msgid "I, II — Each opponent creates a 1/1 black Rat Rogue creature token."
 msgstr ""
+"I, II — Każdy przeciwnik tworzy żeton czarnego stwora Szczur Łotrzyk 1/1."
 
 #: ../../NEO.rst:868
 msgid ""
@@ -2769,12 +2815,16 @@ msgid ""
 "When Echo of Death's Wail enters the battlefield, gain control of all Rat "
 "tokens."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wszystkimi "
+"żetonami Szczurów."
 
 #: ../../NEO.rst:867
 msgid ""
 "Whenever Echo of Death's Wail attacks, you may sacrifice another creature. "
 "If you do, draw a card."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../NEO.rst:876
 msgid ""
@@ -2785,17 +2835,19 @@ msgstr ""
 
 #: ../../NEO.rst:871
 msgid "Enchant artifact or creature you control"
-msgstr ""
+msgstr "Zaurocz artefakt lub stwora pod twoim władaniem"
 
 #: ../../NEO.rst:873
 msgid ""
 "When Twisted Embrace enters the battlefield, destroy target creature or "
 "planeswalker an opponent controls."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, zniszcz wskazanego stwora lub wędrowca "
+"pod władaniem przeciwnika."
 
 #: ../../NEO.rst:875
 msgid "As long as enchanted permanent is a creature, it gets +1/+1."
-msgstr ""
+msgstr "O ile zauroczony permanent jest stworem, dostaje +1/+1."
 
 #: ../../NEO.rst:880
 msgid ""
@@ -2810,6 +2862,9 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
+"|tap|: Stwórz żeton Skarbu. Aktywuj tylko jeśli w tej turze umarł stwór. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../NEO.rst:886
 msgid ""
