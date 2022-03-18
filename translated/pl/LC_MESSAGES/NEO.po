@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-18 11:19+0000\n"
+"PO-Revision-Date: 2022-03-18 14:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -411,6 +411,9 @@ msgid ""
 "colorless Pilot creature tokens with \"This creature crews Vehicles as "
 "though its power were 2 greater.\""
 msgstr ""
+"Przepust — |mana_2|\\ |mana_w|, odrzuć tę kartę: Stwórz dwa żetony "
+"bezkolorowego stwora Pilot 1/1 z \"Ten stwór załoguje Pojazdy jakby jego "
+"siła była o 2 większa.\""
 
 #: ../../NEO.rst:58
 msgid ""
@@ -1059,6 +1062,9 @@ msgid ""
 "basic Plains card, reveal it, put it into your hand, then shuffle. You gain "
 "2 life."
 msgstr ""
+"Przepust — |mana_2|, odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę "
+"bazowej Równiny, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. "
+"Zyskaj 2 życia."
 
 #: ../../NEO.rst:288
 msgid ""
@@ -1081,6 +1087,9 @@ msgid ""
 "artifact or creature. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
+"Przepust — |mana_1|\\ |mana_w|, odrzuć tę kartę: Wygnaj wskazany artefakt "
+"lub stwora. Przywróć go na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../NEO.rst:292
 msgid ""
@@ -1593,6 +1602,8 @@ msgid ""
 "Channel — |mana_2|\\ |mana_u|, Discard Mirrorshell Crab: Counter target "
 "spell or ability unless its controller pays |mana_3|."
 msgstr ""
+"Przepust — |mana_2|\\ |mana_u|, odrzuć tę kartę: Skontruj wskazany czar lub "
+"zdolność, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../NEO.rst:456
 msgid ""
@@ -1607,7 +1618,7 @@ msgstr "|mana_1|\\ |mana_u|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../NEO.rst:455
 msgid "Channel — |mana_u|, Discard Mnemonic Sphere: Draw a card."
-msgstr ""
+msgstr "Przepust — |mana_u|, odrzuć tę kartę: Dobierz kartę."
 
 #: ../../NEO.rst:464
 msgid ""
@@ -1701,6 +1712,8 @@ msgid ""
 "Channel — |mana_4|\\ |mana_u|, Discard Moonsnare Prototype: The owner of "
 "target nonland permanent puts it on the top or bottom of their library."
 msgstr ""
+"Przepust — |mana_4|\\ |mana_u|, odrzuć tę kartę: Właściciel wskazanego "
+"nielądowego permanentu umieszcza go na wierzchu swojej biblioteki."
 
 #: ../../NEO.rst:500
 msgid ""
@@ -1850,6 +1863,9 @@ msgid ""
 "target creatures you don't control. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
+"Przepust — |mana_3|\\ |mana_u|, odrzuć tę kartę: Przekręć co najwyżej dwa "
+"wskazane stwory poza twoim władaniem. Owe stwory nie odkręcą się podczas "
+"najbliższego kroku odkręcania swojego władcy."
 
 #: ../../NEO.rst:548
 msgid ""
@@ -3235,6 +3251,8 @@ msgid ""
 "Channel — |mana_1|\\ |mana_r|, Discard Ironhoof Boar: Target creature gets "
 "+3/+1 and gains trample until end of turn."
 msgstr ""
+"Przepust — |mana_1|\\ |mana_r|, odrzuć tę kartę: Wskazany stwór do końca "
+"tury dostaje +3/+1 oraz tratowanie."
 
 #: ../../NEO.rst:1020
 msgid ""
@@ -3416,7 +3434,7 @@ msgstr ""
 
 #: ../../NEO.rst:1087
 msgid "Channel — |mana_1|\\ |mana_r|, Discard Reinforced Ronin: Draw a card."
-msgstr ""
+msgstr "Przepust — |mana_1|\\ |mana_r|, odrzuć tę kartę: Dobierz kartę."
 
 #: ../../NEO.rst:1092
 msgid ""
@@ -3578,6 +3596,8 @@ msgid ""
 "Channel — |mana_1|\\ |mana_r|, Discard Twinshot Sniper: It deals 2 damage to "
 "any target."
 msgstr ""
+"Przepust — |mana_1|\\ |mana_r|, odrzuć tę kartę: Ta karta zadaje wskazanemu "
+"celowi 2 obrażenia."
 
 #: ../../NEO.rst:1152
 msgid ""
@@ -3669,6 +3689,8 @@ msgid ""
 "Channel — |mana_4|\\ |mana_g|, Discard Bamboo Grove Archer: Destroy target "
 "creature with flying."
 msgstr ""
+"Przepust — |mana_4|\\ |mana_g|, odrzuć tę kartę: Zniszcz wskazanego stwora z "
+"lataniem."
 
 #: ../../NEO.rst:1186
 msgid ""
@@ -3762,6 +3784,8 @@ msgid ""
 "Channel — |mana_1|\\ |mana_g|, Discard Careful Cultivation: Create a 1/1 "
 "green Human Monk creature token with \"|tap|: Add |mana_g|.\""
 msgstr ""
+"Przepust — |mana_1|\\ |mana_g|, odrzuć tę kartę: Stwórz żeton zielonego "
+"stwora Człowiek Mnich 1/1 z \"|tap|: Weź |mana_g|.\""
 
 #: ../../NEO.rst:1226
 msgid ""
@@ -3866,6 +3890,8 @@ msgid ""
 "Channel — |mana_1|\\ |mana_g|, Discard Favor of Jukai: Target creature gets "
 "+3/+3 and gains reach until end of turn."
 msgstr ""
+"Przepust — |mana_1|\\ |mana_g|, odrzuć tę kartę: Wskazany stwór dostaje do "
+"końca tury +3/+3 oraz zasięg."
 
 #: ../../NEO.rst:1262
 msgid ""
@@ -3940,6 +3966,9 @@ msgid ""
 "Channel — |mana_2|\\ |mana_g|, Discard Greater Tanuki: Search your library "
 "for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"Przepust — |mana_2|\\ |mana_g|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../NEO.rst:1294
 msgid ""
@@ -4059,6 +4088,8 @@ msgid ""
 "Channel — |mana_2|\\ |mana_g|, Discard Jukai Preserver: Put a +1/+1 counter "
 "on each of up to two target creatures you control."
 msgstr ""
+"Przepust — |mana_2|\\ |mana_g|, odrzuć tę kartę: Umieść znacznik +1/+1 na "
+"każdym z co najwyżej dwóch wskazanych stworów pod twoim władaniem."
 
 #: ../../NEO.rst:1338
 msgid ""
@@ -4236,6 +4267,9 @@ msgid ""
 "counters on target land you control. It becomes a 0/0 green Spirit creature "
 "with haste. It's still a land."
 msgstr ""
+"Przepust — |mana_x|\\ |mana_g|\\ |mana_g|, odrzuć tę kartę: Umieść X "
+"znaczników +1/+1 na wskazanym lądzie pod twoim władaniem. Staje się on "
+"zielonym stworem Duch 0/0 z pośpiechem. Nadal jest lądem."
 
 #: ../../NEO.rst:1402
 msgid ""
@@ -4277,6 +4311,9 @@ msgid ""
 "Channel — |mana_x|\\ |mana_x|\\ |mana_g|\\ |mana_g|, Discard Shigeki: Return "
 "X target nonlegendary cards from your graveyard to your hand."
 msgstr ""
+"Przepust — |mana_x|\\ |mana_x|\\ |mana_g|\\ |mana_g|, odrzuć tę kartę: "
+"Przywróć X wskazanych nielegendarnych kart z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../NEO.rst:1412
 msgid ""
@@ -4471,12 +4508,16 @@ msgid ""
 "Channel — |mana_2|\\ |mana_g|, Discard Colossal Skyturtle: Return target "
 "card from your graveyard to your hand."
 msgstr ""
+"Przepust — |mana_2|\\ |mana_g|, odrzuć tę kartę: Przywróć wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1487
 msgid ""
 "Channel — |mana_1|\\ |mana_u|, Discard Colossal Skyturtle: Return target "
 "creature to its owner's hand."
 msgstr ""
+"Przepust — |mana_1|\\ |mana_u|, odrzuć tę kartę: Przywróć wskazanego stwora "
+"do ręki właściciela."
 
 #: ../../NEO.rst:1494
 msgid ""
@@ -5387,6 +5428,11 @@ msgid ""
 "the battlefield, then shuffle. This ability costs |mana_1| less to activate "
 "for each legendary creature you control."
 msgstr ""
+"Przepust — |mana_1|\\ |mana_g|, odrzuć tę kartę: Zniszcz wskazany artefakt, "
+"urok lub niebazowy ląd pod władaniem przeciwnika. Ów gracz może wyszukać w "
+"swojej bibliotece kartę lądu mającą bazowy typ lądu, umieścić ją na polu "
+"bitwy, po czym przetasować. Aktywacja tej zdolności kosztuje o |mana_1| "
+"mniej za każdego legendarnego stwora pod twoim władaniem."
 
 #: ../../NEO.rst:1844
 msgid ""
@@ -5425,6 +5471,9 @@ msgid ""
 "4 damage to target attacking or blocking creature. This ability costs |"
 "mana_1| less to activate for each legendary creature you control."
 msgstr ""
+"Przepust — |mana_2|\\ |mana_w|, odrzuć tę kartę: Ta karta zadaje wskazanemu "
+"atakującemu lub blokującemu stworowi 4 obrażenia. Aktywacja tej zdolności "
+"kosztuje o |mana_1| mniej za każdego legendarnego stwora pod twoim władaniem."
 
 #: ../../NEO.rst:1858
 msgid ""
@@ -5486,6 +5535,9 @@ msgid ""
 "ability costs |mana_1| less to activate for each legendary creature you "
 "control."
 msgstr ""
+"Przepust — |mana_3|\\ |mana_u|, odrzuć tę kartę: Przywróć wskazany artefakt, "
+"stwora, urok lub wędrowca do ręki właściciela. Aktywacja tej zdolności "
+"kosztuje o |mana_1| mniej za każdego legendarnego stwora pod twoim władaniem."
 
 #: ../../NEO.rst:1878
 msgid ""
@@ -5575,6 +5627,10 @@ msgid ""
 "of turn. This ability costs |mana_1| less to activate for each legendary "
 "creature you control."
 msgstr ""
+"Przepust — |mana_3|\\ |mana_r|, odrzuć tę kartę: Stwórz dwa żetony "
+"bezkolorowego stwora Duch 1/1. Do końca tury zyskują one pośpiech. Aktywacja "
+"tej zdolności kosztuje o |mana_1| mniej za każdego legendarnego stwora pod "
+"twoim władaniem."
 
 #: ../../NEO.rst:1916
 msgid ""
@@ -5614,6 +5670,10 @@ msgid ""
 "your hand. This ability costs |mana_1| less to activate for each legendary "
 "creature you control."
 msgstr ""
+"Przepust — |mana_3|\\ |mana_b|, odrzuć tę kartę: Zmiel trzy karty, po czym "
+"przywróć kartę stwora lub wędrowca z twojego cmentarza do twojej ręki. "
+"Aktywacja tej zdolności kosztuje o |mana_1| mniej za każdego legendarnego "
+"stwora pod twoim władaniem."
 
 #: ../../NEO.rst:1930
 msgid ""
