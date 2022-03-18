@@ -317,7 +317,7 @@
 .. |AVR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |NEO_percent| image:: images/pie60.png        
+.. |NEO_percent| image:: images/pie65.png        
 
 .. |FUT_percent| image:: images/pie65.png        
 
