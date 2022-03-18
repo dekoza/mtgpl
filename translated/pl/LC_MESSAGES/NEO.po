@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-18 15:04+0000\n"
+"PO-Revision-Date: 2022-03-18 15:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -2911,6 +2911,10 @@ msgid ""
 "number of modified creatures you control. (Equipment, Auras you control, and "
 "counters are modifications.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przywróć wskazaną kartę stwora o skrócie many X "
+"lub mniejszym z twojego cmentarza na pole bitwy, gdzie X jest liczbą "
+"zmodyfikowanych stworów pod twoim władaniem. (Wyposażenie, Aury pod twoim "
+"władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:890
 msgid ""
@@ -2922,7 +2926,7 @@ msgstr ""
 #: ../../NEO.rst:889
 msgid ""
 "When Virus Beetle enters the battlefield, each opponent discards a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../NEO.rst:896
 msgid ""
@@ -2948,6 +2952,9 @@ msgid ""
 "colorless Spirit creature token. (Equipment, Auras you control, and counters "
 "are modifications.)"
 msgstr ""
+"Ilekroć umrze nieżetonowy zmodyfikowany stwór pod twoim władaniem, stwórz "
+"żeton bezkolorowego stwora Duch 1/1. (Wyposażenie, Aury pod twoim władaniem "
+"oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:904
 msgid ""
@@ -2961,6 +2968,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, you may discard a "
 "card. If you do, draw a card."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, możesz "
+"odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../NEO.rst:910
 msgid ""
@@ -2971,7 +2980,7 @@ msgstr ""
 
 #: ../../NEO.rst:909 ../../NEO.rst:1305
 msgid "As long as enchanted permanent is a creature, it gets +2/+1."
-msgstr ""
+msgstr "O ile zauroczony permanent jest stworem, dostaje on +2/+1."
 
 #: ../../NEO.rst:914
 msgid ""
@@ -2986,6 +2995,9 @@ msgid ""
 "creature, draw a card. (Equipment, Auras you control, and counters are "
 "modifications.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +2/+0. Jeśli władasz "
+"zmodyfikowanym stworem, dobierz kartę. (Wyposażenie, Aury pod twoim "
+"władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:924
 msgid ""
@@ -2997,7 +3009,7 @@ msgstr ""
 
 #: ../../NEO.rst:919
 msgid "When Atsushi, the Blazing Sky dies, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedno —"
 
 #: ../../NEO.rst:921
 msgid ""
@@ -3009,7 +3021,7 @@ msgstr ""
 
 #: ../../NEO.rst:923
 msgid "Create three Treasure tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony Skarbu."
 
 #: ../../NEO.rst:932
 msgid ""
@@ -3025,7 +3037,7 @@ msgstr "Tratowanie"
 
 #: ../../NEO.rst:929
 msgid "Equipped creature gets +3/+2 and has trample."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+2 i ma tratowanie."
 
 #: ../../NEO.rst:940
 msgid ""
@@ -3042,12 +3054,16 @@ msgstr "Zaurocz ląd pod twoim władaniem"
 msgid ""
 "Enchanted land is a 3/3 red Spirit creature with haste. It's still a land."
 msgstr ""
+"Zauroczony ląd jest czerwonym stworem Duch 3/3 z pośpiechem. Nadal jest "
+"lądem."
 
 #: ../../NEO.rst:939
 msgid ""
 "If enchanted land would be destroyed, instead sacrifice Crackling Emergence "
 "and that land gains indestructible until end of turn."
 msgstr ""
+"Jeśli zauroczony ląd miałby zostać zniszczony, zamiast tego poświęć ten urok "
+"i ów ląd zyskuje do końca tury niezniszczalność."
 
 #: ../../NEO.rst:946
 msgid ""
@@ -3061,6 +3077,8 @@ msgid ""
 "Whenever Dragonspark Reactor or another artifact enters the battlefield "
 "under your control, put a charge counter on Dragonspark Reactor."
 msgstr ""
+"Ilekroć ten lub inny artefakt wejdzie na pole bitwy pod twoim władaniem, "
+"umieść znacznik ładunku na niniejszym artefakcie."
 
 #: ../../NEO.rst:945
 msgid ""
@@ -3068,6 +3086,9 @@ msgid ""
 "of charge counters on it to target player and that much damage to up to one "
 "target creature."
 msgstr ""
+"|mana_4|, poświęć ten artefakt: Zadaje on wskazanemu graczowi obrażenia "
+"równe liczbie znaczników ładunku na nim oraz tyle samo obrażeń co najwyżej "
+"jednemu wskazanemu stworowi."
 
 #: ../../NEO.rst:952
 msgid ""
@@ -3082,12 +3103,16 @@ msgid ""
 "When Experimental Synthesizer enters or leaves the battlefield, exile the "
 "top card of your library. Until end of turn, you may play that card."
 msgstr ""
+"Kiedy ten artefakt wejdzie na lub opuści pole bitwy, wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../NEO.rst:951
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Experimental Synthesizer: Create a 2/2 white "
 "Samurai creature token with vigilance. Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć ten artefakt: Stwórz dwa żetony białego stwora "
+"Samuraj 2/2 z czujnością. Aktywuj tylko jako obrzęd."
 
 #: ../../NEO.rst:956
 msgid ""
@@ -3101,6 +3126,8 @@ msgid ""
 "Destroy up to one target artifact. Put a +1/+1 counter on up to one target "
 "creature."
 msgstr ""
+"Zniszcz co najwyżej jeden wskazany artefakt. Umieść znacznik +1/+1 na co "
+"najwyżej jednym wskazanym stworze."
 
 #: ../../NEO.rst:962
 msgid ""
