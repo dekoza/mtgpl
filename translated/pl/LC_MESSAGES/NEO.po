@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-20 20:00+0000\n"
+"PO-Revision-Date: 2022-03-20 23:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -4776,12 +4776,16 @@ msgid ""
 "Create X 2/2 white Samurai creature tokens with vigilance. They gain menace "
 "and haste until end of turn."
 msgstr ""
+"Stwórz X żetonów białego stwora Samuraj 2/2 z czujnością. Do końca tury "
+"zyskują one złowrogość i pośpiech."
 
 #: ../../NEO.rst:1493
 msgid ""
 "Each opponent creates X minus one 2/2 white Samurai creature tokens with "
 "vigilance."
 msgstr ""
+"Każdy przeciwnik tworzy X minus jeden żetonów białego stwora Samuraj 2/2 z "
+"czujnością."
 
 #: ../../NEO.rst:1500
 msgid ""
@@ -4806,10 +4810,12 @@ msgid ""
 "When Gloomshrieker enters the battlefield, return target permanent card from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę permanentu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1507
 msgid "If Gloomshrieker would die, exile it instead."
-msgstr ""
+msgstr "Jeśli ten stwór miałby umrzeć, zamiast tego wygnaj go."
 
 #: ../../NEO.rst:1512
 msgid ""
@@ -4824,6 +4830,9 @@ msgid ""
 "your graveyard to the battlefield. It gains haste. Return it to its owner's "
 "hand at the beginning of your next end step."
 msgstr ""
+"Na początku potyczki w twojej turze, przywróć wskazaną kartę Pojazdu z "
+"twojego cmentarza na pole bitwy. Zyskuje on pośpiech. Przywróć go do ręki "
+"właściciela na początku twojego najbliższego kroku końcowego."
 
 #: ../../NEO.rst:1522
 msgid ""
@@ -4835,11 +4844,11 @@ msgstr ""
 
 #: ../../NEO.rst:1517
 msgid "I — Destroy each nonland permanent with mana value 1 or less."
-msgstr ""
+msgstr "I — Zniszcz każdy nielądowy permanent o skrócie many 1 lub mniejszym."
 
 #: ../../NEO.rst:1519
 msgid "II — Exile all graveyards."
-msgstr ""
+msgstr "II — Wygnaj wszystkie cmentarze."
 
 #: ../../NEO.rst:1530
 msgid ""
@@ -4852,13 +4861,15 @@ msgstr ""
 #: ../../NEO.rst:1527
 msgid ""
 "Whenever Vessel of the All-Consuming deals damage, put a +1/+1 counter on it."
-msgstr ""
+msgstr "Ilekroć ten stwór zada obrażenia, umieść na nim znacznik +1/+1."
 
 #: ../../NEO.rst:1529
 msgid ""
 "Whenever Vessel of the All-Consuming deals damage to a player, if it has "
 "dealt 10 or more damage to that player this turn, they lose the game."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia graczowi, jeśli w tej turze zadał on owemu "
+"graczowi co najmniej 10 obrażeń, ów gracz przegrywa grę."
 
 #: ../../NEO.rst:1538
 msgid ""
@@ -4869,11 +4880,13 @@ msgstr ""
 
 #: ../../NEO.rst:1535
 msgid "Spells you cast cost |mana_1| less to cast for each target."
-msgstr ""
+msgstr "Rzucanie czarów kosztuje cię o |mana_1| mniej za każdy wskazany cel."
 
 #: ../../NEO.rst:1537
 msgid "Spells your opponents cast cost |mana_1| more to cast for each target."
 msgstr ""
+"Rzucanie czarów kosztuje twoich przeciwników o |mana_1| więcej za każdy "
+"wskazany cel."
 
 #: ../../NEO.rst:1546
 msgid ""
@@ -4886,13 +4899,15 @@ msgstr ""
 msgid ""
 "Invigorating Hot Spring enters the battlefield with four +1/+1 counters on "
 "it."
-msgstr ""
+msgstr "Ten urok wchodzi na pole bitwy z czterema znacznikami +1/1."
 
 #: ../../NEO.rst:1543
 msgid ""
 "Modified creatures you control have haste. (Equipment, Auras you control, "
 "and counters are modifications.)"
 msgstr ""
+"Zmodyfikowane stwory pod twoim władaniem mają pośpiech. (Wyposażenie, Aury "
+"pod twoim władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1545
 msgid ""
@@ -4900,6 +4915,8 @@ msgid ""
 "target creature you control. Activate only as a sorcery and only once each "
 "turn."
 msgstr ""
+"Usuń znacznik +1/+1 z tego uroku: Umieść znacznik +1/+1 na wskazanym stworze "
+"pod twoim władaniem. Aktywuj tylko jako obrzęd i tylko raz na turę."
 
 #: ../../NEO.rst:1550
 msgid ""
@@ -4914,6 +4931,8 @@ msgid ""
 "If a creature attacking causes a triggered ability of a permanent you "
 "control to trigger, that ability triggers an additional time."
 msgstr ""
+"Jeśli atak stwora powoduje wyzwolenie zdolności permanentu pod twoim "
+"władaniem, owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../NEO.rst:1556
 msgid ""
@@ -4938,16 +4957,21 @@ msgid ""
 "At the beginning of your end step, if Kaito Shizuki entered the battlefield "
 "this turn, he phases out."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli ten stwór wszedł na pole bitwy w "
+"tej turze, wycofuje się on."
 
 #: ../../NEO.rst:1561
 msgid "+1: Draw a card. Then discard a card unless you attacked this turn."
 msgstr ""
+"+1: Dobierz kartę. Następnie odrzuć kartę, chyba że atakowałeś w tej turze."
 
 #: ../../NEO.rst:1563
 msgid ""
 "−2: Create a 1/1 blue Ninja creature token with \"This creature can't be "
 "blocked.\""
 msgstr ""
+"–2: Stwórz żeton niebieskiego stwora Ninja 1/1 z \"Ten stwór nie może być "
+"blokowany.\""
 
 #: ../../NEO.rst:1565
 msgid ""
@@ -4955,6 +4979,9 @@ msgid ""
 "damage to a player, search your library for a blue or black creature card, "
 "put it onto the battlefield, then shuffle.\""
 msgstr ""
+"–7: Dostajesz emblemat z \"Ilekroć stwór pod twoim władaniem zada graczowi "
+"obrażenia bojowe, wyszukaj w twojej bibliotece kartę niebieskiego lub "
+"czarnego stwora, umieść ją na polu bitwy, po czym przetasuj.\""
 
 #: ../../NEO.rst:1576
 msgid ""
@@ -4966,13 +4993,15 @@ msgstr ""
 
 #: ../../NEO.rst:1571
 msgid "I — Exile target nonland permanent an opponent controls."
-msgstr ""
+msgstr "I — Wygnaj wskazany nielądowy permanent pod władaniem przeciwnika."
 
 #: ../../NEO.rst:1573
 msgid ""
 "II — Return up to one other target nonland permanent to its owner's hand. "
 "Then each opponent discards a card."
 msgstr ""
+"II — Przywróć co najwyżej jeden inny wskazany nielądowy permanent do ręki "
+"właściciela. Następnie każdy przeciwnik odrzuca kartę."
 
 #: ../../NEO.rst:1584
 msgid ""
@@ -4984,7 +5013,7 @@ msgstr ""
 
 #: ../../NEO.rst:1579
 msgid "O-Kagachi Made Manifest is all colors."
-msgstr ""
+msgstr "Ta karta jest każdego koloru."
 
 #: ../../NEO.rst:1583
 msgid ""
@@ -4993,6 +5022,9 @@ msgid ""
 "Manifest gets +X/+0 until end of turn, where X is the mana value of that "
 "card."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, broniący się gracz wybiera nielądową kartę w "
+"twoim cmentarzu. Przywróć ową kartę do twojej ręki. Ten stwór dostaje do "
+"końca tury +X/+0, gdzie X jest skrótem many owej karty."
 
 #: ../../NEO.rst:1588
 msgid ""
@@ -5011,6 +5043,12 @@ msgid ""
 "you control Kotose, you may play one of the exiled cards, and you may spend "
 "mana as though it were mana of any color to cast it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj z cmentarza przeciwnika "
+"wskazaną kartę inną niż bazowy ląd. Wyszukaj w cmentarzu, ręce i bibliotece "
+"owego gracza dowolną liczbę kart o tej samej nazwie co owa karta i wygnaj "
+"je. Następnie ów gracz tasuje. Przez czas twojego władania tym stworem, "
+"możesz zagrać jedną z owych wygnanych kart i do jej rzucenia możesz wydawać "
+"manę tak, jakby była maną dowolnego koloru."
 
 #: ../../NEO.rst:1592
 msgid ""
@@ -5025,6 +5063,8 @@ msgid ""
 "control an artifact and an enchantment, create a 2/2 white Samurai creature "
 "token with vigilance."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, jeśli władasz "
+"artefaktem i urokiem, stwórz żeton białego stwora Samuraj 2/2 z czujnością."
 
 #: ../../NEO.rst:1598
 msgid ""
@@ -5039,12 +5079,17 @@ msgid ""
 "turn, create a 1/1 colorless Construct artifact creature token. This ability "
 "triggers only once each turn."
 msgstr ""
+"Ilekroć jeden lub więcej artefaktów pod twoim władaniem opuści pole bitwy w "
+"tej turze, stwórz żeton bezkolorowego artefaktowego stwora Konstrukt 1/1. Ta "
+"zdolność wyzwala się tylko raz na turę."
 
 #: ../../NEO.rst:1597
 msgid ""
 "|tap|, Sacrifice an artifact: Oni-Cult Anvil deals 1 damage to each "
 "opponent. You gain 1 life."
 msgstr ""
+"|tap|, poświęć artefakt: Niniejszy artefakt zadaje każdemu przeciwnikowi po "
+"1 obrażeniu. Zyskaj 1 życie."
 
 #: ../../NEO.rst:1604
 msgid ""
@@ -5059,6 +5104,9 @@ msgid ""
 "Pilot creature token with \"This creature crews Vehicles as though its power "
 "were 2 greater.\""
 msgstr ""
+"Ilekroć co najmniej jeden Pojazd pod twoim władaniem zaatakuje, stwórz żeton "
+"bezkolorowego stwora Pilot 1/1 z \"Ten stwór załoguje pojazdy jakby jego "
+"siła była o 2 większa.\""
 
 #: ../../NEO.rst:1610
 msgid ""
@@ -5073,6 +5121,9 @@ msgid ""
 "the first combat phase of the turn, there is an additional combat phase "
 "after this phase."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem atakuje samotnie, odkręć "
+"go. Jeśli to pierwsza faza potyczki w turze, następuje po niej dodatkowa "
+"faza potyczki."
 
 #: ../../NEO.rst:1618
 msgid ""
@@ -5087,12 +5138,16 @@ msgid ""
 "doesn't have an indestructible counter on it, put an indestructible counter "
 "on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli nie ma on znacznika "
+"niezniszczalności, umieść na nim znacznik niezniszczalności."
 
 #: ../../NEO.rst:1617
 msgid ""
 "Whenever combat damage is dealt to you, remove an indestructible counter "
 "from Risona."
 msgstr ""
+"Ilekroć zostaną tobie zadane obrażenia bojowe, usuń znacznik "
+"niezniszczalności z tego stwora."
 
 #: ../../NEO.rst:1624
 msgid ""
@@ -5130,19 +5185,23 @@ msgid ""
 "|tap|: Put a lore counter on each Saga you control. Activate only as a "
 "sorcery."
 msgstr ""
+"|tap|: Umieść znacznik opowieści na każdej Sadze pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../NEO.rst:1629
 msgid "When Satsuki, the Living Lore dies, choose up to one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedno —"
 
 #: ../../NEO.rst:1631
 msgid ""
 "Return target Saga or enchantment creature you control to its owner's hand."
 msgstr ""
+"Przywróć wskazaną Sagę lub uroko-stwora pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../NEO.rst:1633
 msgid "Return target Saga card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę Sagi z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1642
 msgid ""
@@ -5167,7 +5226,7 @@ msgstr "Aktywacja zdolności ninjutsu kosztuje cię o |mana_1| mniej."
 
 #: ../../NEO.rst:1641
 msgid "Other Ninja and Rogue creatures you control get +1/+1."
-msgstr ""
+msgstr "Inni Ninja i Łotrzykowie pod twoim władaniem dostają +1/+1."
 
 #: ../../NEO.rst:1646
 msgid ""
