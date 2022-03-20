@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-20 17:49+0000\n"
+"PO-Revision-Date: 2022-03-20 20:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -4315,6 +4315,9 @@ msgid ""
 "graveyard from the battlefield this turn, you may return Kami of Transience "
 "from your graveyard to your hand."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze urok został "
+"umieszczony w twoim cmentarzu z pola bitwy, możesz przywrócić niniejszą "
+"kartę z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1354
 msgid ""
@@ -4330,7 +4333,7 @@ msgstr "Ninjutsu |mana_1|\\ |mana_g|"
 #: ../../NEO.rst:1351
 msgid ""
 "Kappa Tech-Wrecker enters the battlefield with a deathtouch counter on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy ze znacznikiem dotyku śmierci."
 
 #: ../../NEO.rst:1353
 msgid ""
@@ -4338,6 +4341,9 @@ msgid ""
 "a deathtouch counter from it. When you do, exile target artifact or "
 "enchantment that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz usunąć z niego "
+"znacznik dotyku śmierci. Kiedy tak zrobisz, wygnaj wskazany artefakt lub "
+"urok pod władaniem owego gracza."
 
 #: ../../NEO.rst:1362
 msgid ""
@@ -4351,6 +4357,8 @@ msgid ""
 "Modified creatures you control have trample. (Equipment, Auras you control, "
 "and counters are modifications.)"
 msgstr ""
+"Zmodyfikowane stwory pod twoim władaniem mają tratowanie. (Wyposażenie, Aury "
+"pod twoim władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1361
 msgid ""
@@ -4358,6 +4366,9 @@ msgid ""
 "search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"Ilekroć zmodyfikowany stwór pod twoim władaniem zada graczowi obrażenia "
+"bojowe, wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją "
+"przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../NEO.rst:1372
 msgid ""
@@ -4372,19 +4383,23 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../NEO.rst:1367
 msgid "When Kura, the Boundless Sky dies, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedno —"
 
 #: ../../NEO.rst:1369
 msgid ""
 "Search your library for up to three land cards, reveal them, put them into "
 "your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej trzy karty lądów, ujawnij je, "
+"umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../NEO.rst:1371
 msgid ""
 "Create an X/X green Spirit creature token, where X is the number of lands "
 "you control."
 msgstr ""
+"Stwórz żeton zielonego stwora Duch X/X, gdzie X jest liczbą lądów pod twoim "
+"władaniem."
 
 #: ../../NEO.rst:1378
 msgid ""
@@ -4400,6 +4415,9 @@ msgid ""
 "cards from your hand. This spell costs |mana_2| less to cast for each card "
 "exiled this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz wygnać dowolną liczbę "
+"zielonych kart z twojej ręki. Rzucenie tego czaru kosztuje o |mana_2| mniej "
+"za każdą kartę wygnaną w ten sposób."
 
 #: ../../NEO.rst:1377
 msgid ""
@@ -4407,6 +4425,9 @@ msgid ""
 "a creature card with the same name as that creature, put it onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Wskaż stwora o skrócie many mniejszym niż X. Wyszukaj w twojej bibliotece "
+"kartę stwora o tej samej nazwie, co ów stwór, umieść go przekręconego na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../NEO.rst:1382
 msgid ""
@@ -4439,6 +4460,8 @@ msgid ""
 "As long as Orochi Merge-Keeper is modified, it has \"|tap|: Add |mana_g|\\ |"
 "mana_g|.\" (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"O ile ten stwór jest zmodyfikowany, ma on \"|tap|: Weź |mana_g|\\ |mana_g|.\""
+" (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1394
 msgid ""
@@ -4452,6 +4475,8 @@ msgid ""
 "Whenever a land enters the battlefield under your control, put a +1/+1 "
 "counter on target creature or Vehicle you control."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść znacznik +1/+1 "
+"na wskazanym stworze lub Pojeździe pod twoim władaniem."
 
 #: ../../NEO.rst:1393
 msgid ""
@@ -4497,6 +4522,10 @@ msgid ""
 "from among them onto the battlefield tapped. Put the rest into your "
 "graveyard."
 msgstr ""
+"|mana_1|\\ |mana_g|, |tap|, przywróć tego stwora do ręki właściciela: "
+"Ujawnij cztery wierzchnie karty twojej biblioteki. Możesz umieścić kartę "
+"lądu spośród nich przekręconą na polu bitwy. Umieść pozostałe w twoim "
+"cmentarzu."
 
 #: ../../NEO.rst:1407
 msgid ""
@@ -4519,6 +4548,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to each of X "
 "target creatures and/or planeswalkers."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"każdemu z X wskazanych stworów i/lub wędrowców."
 
 #: ../../NEO.rst:1418
 msgid ""
@@ -4542,6 +4573,8 @@ msgid ""
 "Whenever Spring-Leaf Avenger deals combat damage to a player, return target "
 "permanent card from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przywróć wskazaną kartę "
+"permanentu z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1426
 msgid ""
@@ -4552,7 +4585,7 @@ msgstr ""
 
 #: ../../NEO.rst:1423
 msgid "Put two +1/+1 counters on target creature you control."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../NEO.rst:1425
 msgid ""
@@ -4560,6 +4593,10 @@ msgid ""
 "enchantment creatures enter the battlefield under your control this turn, "
 "each enters with two additional +1/+1 counters on it."
 msgstr ""
+"Umieść dwa znaczniki opowieści na wskazanej Sadze pod twoim władaniem. "
+"Najbliższym razem w tej turze gdy jeden lub więcej uroko-stworów wejdzie na "
+"pole bitwy pod twoim władaniem, każdy z nich wchodzi z dwoma dodatkowymi "
+"znacznikami +1/+1."
 
 #: ../../NEO.rst:1434
 msgid ""
@@ -4574,6 +4611,8 @@ msgid ""
 "I, II — Put a +1/+1 counter on target creature or Vehicle you control. It "
 "gains vigilance until end of turn."
 msgstr ""
+"I, II — Umieść znacznik +1/+1 na wskazanym stworze lub Pojeździe pod twoim "
+"władaniem. Do końca tury zyskuje on czujność."
 
 #: ../../NEO.rst:1438
 msgid ""
@@ -4585,7 +4624,7 @@ msgstr ""
 
 #: ../../NEO.rst:1437
 msgid "Vigilance, haste"
-msgstr ""
+msgstr "Czujność, pośpiech"
 
 #: ../../NEO.rst:1442
 msgid ""
@@ -4601,6 +4640,11 @@ msgid ""
 "be the target of spells or abilities your opponents control. Damage and "
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany permanent pod twoim władaniem zyskuje do końca tury antyklątwę i "
+"niezniszczalność. Zyskaj 2 życia. (Permanent z antyklątwą i "
+"niezniszczalnością nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą go.)"
 
 #: ../../NEO.rst:1452
 msgid ""
@@ -4612,11 +4656,11 @@ msgstr ""
 
 #: ../../NEO.rst:1447
 msgid "I — Mill three cards. Create a 1/1 colorless Spirit creature token."
-msgstr ""
+msgstr "I — Zmiel trzy karty. Stwórz żeton bezkolorowego stwora Duch 1/1."
 
 #: ../../NEO.rst:1449
 msgid "II — Put a +1/+1 counter on target creature you control."
-msgstr ""
+msgstr "II — Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../NEO.rst:1460
 msgid ""
@@ -4628,19 +4672,23 @@ msgstr ""
 
 #: ../../NEO.rst:1455
 msgid "Whenever Kirin-Touched Orochi attacks, choose one —"
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, wybierz jedno —"
 
 #: ../../NEO.rst:1457
 msgid ""
 "Exile target creature card from a graveyard. When you do, create a 1/1 "
 "colorless Spirit creature token."
 msgstr ""
+"Wygnaj wskazaną kartę stwora z twojego cmentarza. Kiedy tak zrobisz, stwórz "
+"żeton bezkolorowego stwora Duch 1/1."
 
 #: ../../NEO.rst:1459
 msgid ""
 "Exile target noncreature card from a graveyard. When you do, put a +1/+1 "
 "counter on target creature you control."
 msgstr ""
+"Wygnaj wskazaną nie-stworową kartę z twojego cmentarza. Kiedy tak zrobisz, "
+"umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../NEO.rst:1466
 msgid ""
@@ -4651,7 +4699,7 @@ msgstr ""
 
 #: ../../NEO.rst:1463
 msgid "Other enchantment creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne uroko-stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../NEO.rst:1465
 msgid ""
@@ -4659,6 +4707,9 @@ msgid ""
 "an enchantment source. You may choose new targets for the copy. (Mana "
 "abilities can't be targeted.)"
 msgstr ""
+"|mana_g|, |tap|: Skopiuj wskazaną aktywowaną lub wyzwalaną zdolność pod "
+"twoim władaniem ze źródła będącego urokiem. Możesz wskazać nowe cele dla "
+"kopii. (Zdolności dające maną nie mogą zostać wskazane.)"
 
 #: ../../NEO.rst:1474
 msgid ""
@@ -4669,7 +4720,7 @@ msgstr ""
 
 #: ../../NEO.rst:1471
 msgid "Equipped creature gets +1/+4 and has reach."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+4 i ma zasięg."
 
 #: ../../NEO.rst:1480
 msgid ""
@@ -4683,6 +4734,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until "
 "end of turn for each Samurai or Warrior you control."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem atakuje samotnie, dostaje "
+"on do końca tury +1/+0 za każdego Samuraja i Wojownika pod twoim władaniem."
 
 #: ../../NEO.rst:1488
 msgid ""
@@ -4693,7 +4746,7 @@ msgstr ""
 
 #: ../../NEO.rst:1483
 msgid "Flying, ward |mana_2|"
-msgstr ""
+msgstr "Latanie, opieka |mana_2|"
 
 #: ../../NEO.rst:1485
 msgid ""
