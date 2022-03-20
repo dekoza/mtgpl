@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-14 22:38+0100\n"
-"PO-Revision-Date: 2022-03-18 16:36+0000\n"
+"PO-Revision-Date: 2022-03-20 17:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -3302,6 +3302,10 @@ msgid ""
 "those spells would be put into your graveyard, exile them instead. Exile "
 "Invoke Calamity."
 msgstr ""
+"Możesz rzucić co najwyżej dwa czary sztuczki lub obrzędu o łącznym skrócie "
+"many 6 lub mniej z twojego cmentarza i/lub ręki bez płacenia ich kosztów "
+"many. Jeśli owe czary miałyby trafić do twojego cmentarza, zamiast tego "
+"wygnaj je. Wygnaj ten czar."
 
 #: ../../NEO.rst:1016
 msgid ""
@@ -3335,6 +3339,9 @@ msgid ""
 "with mana value 3 or less from your graveyard to the battlefield. It gains "
 "haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu o "
+"skrócie many 3 lub mniejszym z twojego cmentarza na pole bitwy. Zyskuje on "
+"pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../NEO.rst:1024
 msgid ""
@@ -3349,6 +3356,10 @@ msgid ""
 "also deals 2 damage to that permanent's controller if you control a modified "
 "creature. (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia. Tan czar "
+"zadaje także 2 obrażenia władcy owego permanentu jeśli władasz "
+"zmodyfikowanym stworem. (Wyposażenie, Aury pod twoim władaniem oraz "
+"znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1028
 msgid ""
@@ -3374,12 +3385,16 @@ msgid ""
 "I — Kumano Faces Kakkazan deals 1 damage to each opponent and each "
 "planeswalker they control."
 msgstr ""
+"I — Ten urok zadaje po 1 obrażeniu każdemu przeciwnikowi i każdemu "
+"wędrowcowi pod ich władaniem."
 
 #: ../../NEO.rst:1035
 msgid ""
 "II — When you cast your next creature spell this turn, that creature enters "
 "the battlefield with an additional +1/+1 counter on it."
 msgstr ""
+"II — Kiedy rzucisz swój najbliższy czar stwora w tej turze, ów stwór wchodzi "
+"na pole bitwy z dodatkowym znacznikiem +1/+1."
 
 #: ../../NEO.rst:1044
 msgid ""
@@ -3399,6 +3414,8 @@ msgid ""
 "If a creature dealt damage this turn by a source you controlled would die, "
 "exile it instead."
 msgstr ""
+"Jeśli stwór uszkodzony w tej turze przez źródło pod twoim władaniem miałby "
+"umrzeć, zamiast tego wygnaj go."
 
 #: ../../NEO.rst:1052
 msgid ""
@@ -3409,7 +3426,7 @@ msgstr ""
 
 #: ../../NEO.rst:1049
 msgid "Equipped creature has double strike."
-msgstr ""
+msgstr "Wyposażony stwór ma podwójny cios."
 
 #: ../../NEO.rst:1058
 msgid ""
@@ -3424,12 +3441,17 @@ msgid ""
 "cards from your hand. This spell costs |mana_2| less to cast for each card "
 "exiled this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz wygnać dowolną liczbę "
+"czerwonych kart z twojej ręki. Rzucenie tego czaru kosztuje o |mana_2| mniej "
+"za każdą kartę wygnaną w ten sposób."
 
 #: ../../NEO.rst:1057
 msgid ""
 "Exile the top X cards of your library. You may play up to two of those cards "
 "until the end of your next turn."
 msgstr ""
+"Wygnaj X wierzchnich kart twojej biblioteki. Możesz zagrać co najwyżej dwie "
+"z owych kart do końca twojej następnej tury."
 
 #: ../../NEO.rst:1066
 msgid ""
@@ -3448,6 +3470,9 @@ msgid ""
 "player, you may sacrifice it. If you do, discard your hand, then draw three "
 "cards."
 msgstr ""
+"Ilekroć ten stwór lub wyposażony przezeń stwór zada graczowi obrażenia "
+"bojowe, możesz go poświęcić. Jeśli tak zrobisz, odrzuć twoją rękę, po czym "
+"dobierz trzy karty."
 
 #: ../../NEO.rst:1065
 msgid ""
@@ -3471,6 +3496,8 @@ msgid ""
 "Whenever a Samurai or Warrior you control attacks alone, the next spell you "
 "cast this turn costs |mana_1| less to cast."
 msgstr ""
+"Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, "
+"rzucenie twojego następnego czaru w tej turze kosztuje cię o |mana_1| mniej."
 
 #: ../../NEO.rst:1080
 msgid ""
@@ -3505,6 +3532,8 @@ msgid ""
 "At the beginning of your end step, return Reinforced Ronin to its owner's "
 "hand."
 msgstr ""
+"Na początku twojego kroku końcowego, przywróć tego stwora do ręki "
+"właściciela."
 
 #: ../../NEO.rst:1087
 msgid "Channel — |mana_1|\\ |mana_r|, Discard Reinforced Ronin: Draw a card."
@@ -3523,6 +3552,9 @@ msgid ""
 "with mana value less than X from your graveyard to the battlefield. It gains "
 "haste until end of turn."
 msgstr ""
+"|tap|, poświęć artefakt o skrócie many X: Przywróć wskazaną kartę artefaktu "
+"o skrócie many mniejszym niż X z twojego cmentarza na pole bitwy. Zyskuje on "
+"pośpiech do końca tury."
 
 #: ../../NEO.rst:1096
 msgid ""
@@ -3535,7 +3567,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice another artifact: Scrapyard Steelbreaker gets +2/+1 "
 "until end of turn."
-msgstr ""
+msgstr "|mana_1|, poświęć inny artefakt: Ten stwór dostaje do końca tury +2/+1."
 
 #: ../../NEO.rst:1100
 msgid ""
@@ -3549,6 +3581,8 @@ msgid ""
 "Seismic Wave deals 2 damage to any target and 1 damage to each nonartifact "
 "creature target opponent controls."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia oraz po 1 obrażeniu każdemu "
+"nieartefaktowemu stworowi pod władaniem wskazanego przeciwnika."
 
 #: ../../NEO.rst:1110
 msgid ""
@@ -3563,10 +3597,12 @@ msgid ""
 "I — Gain control of target creature until end of turn. Untap it. It gains "
 "haste until end of turn."
 msgstr ""
+"I — Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech."
 
 #: ../../NEO.rst:1107
 msgid "II — Creatures you control get +1/+0 until end of turn."
-msgstr ""
+msgstr "II — Stwory pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../NEO.rst:1114
 msgid ""
@@ -3592,6 +3628,8 @@ msgid ""
 "Whenever Simian Sling or equipped creature becomes blocked, it deals 1 "
 "damage to defending player."
 msgstr ""
+"Ilekroć ten artefakt lub wyposażony przezeń stwór zostanie zablokowany, "
+"zadaje on broniącemu się graczowi 1 obrażenie."
 
 #: ../../NEO.rst:1126
 msgid ""
@@ -3606,6 +3644,9 @@ msgid ""
 "an artifact. If you do, create a 3/1 red Construct artifact creature token "
 "with haste."
 msgstr ""
+"Na początku potyczki w twojej turze, możesz zapłacić |mana_1| i poświęcić "
+"artefakt. Jeśli tak zrobisz, stwórz żeton czerwonego artefaktowego stwora "
+"Konstrukt 3/1 z pośpiechem."
 
 #: ../../NEO.rst:1130
 msgid ""
@@ -3619,6 +3660,8 @@ msgid ""
 "Whenever a creature you control attacks alone, exile the top card of your "
 "library. You may play that card this turn."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, wygnaj wierzchnią "
+"kratę twojej biblioteki. Możesz zagrać ową kartę w tej turze."
 
 #: ../../NEO.rst:1136
 msgid ""
@@ -3634,6 +3677,11 @@ msgid ""
 "is the number of modified creatures you control other than Thundering Raiju. "
 "(Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, umieść znacznik +1/+1 na wskazanym stworze pod "
+"twoim władaniem. Następnie niniejszy stwór zadaje każdemu przeciwnikowi po X "
+"obrażeń, gdzie X jest liczbą zmodyfikowanych stworów pod twoim władaniem "
+"poza niniejszym. (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są "
+"modyfikacjami.)"
 
 #: ../../NEO.rst:1140
 msgid ""
@@ -3647,6 +3695,8 @@ msgid ""
 "Whenever another artifact enters the battlefield under your control, Towashi "
 "Songshaper gets +1/+0 until end of turn."
 msgstr ""
+"Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
+"dostaje do końca tury +1/+0."
 
 #: ../../NEO.rst:1148
 msgid ""
@@ -3664,6 +3714,8 @@ msgstr "Zasięg"
 msgid ""
 "When Twinshot Sniper enters the battlefield, it deals 2 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../NEO.rst:1147
 msgid ""
@@ -3685,6 +3737,8 @@ msgid ""
 "When Unstoppable Ogre enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
+"tej turze."
 
 #: ../../NEO.rst:1156
 msgid ""
@@ -3698,6 +3752,9 @@ msgid ""
 "Upriser Renegade gets +2/+0 for each other modified creature you control. "
 "(Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
+"Ten stwór dostaje +2/+0 za każdego innego zmodyfikowanego stwora pod twoim "
+"władaniem. (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są "
+"modyfikacjami.)"
 
 #: ../../NEO.rst:1162
 msgid ""
@@ -3709,13 +3766,15 @@ msgstr ""
 #: ../../NEO.rst:1159
 msgid ""
 "As an additional cost to cast this spell, you may sacrifice an artifact."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — możesz poświęcić artefakt."
 
 #: ../../NEO.rst:1161
 msgid ""
 "Voltage Surge deals 2 damage to target creature or planeswalker. If this "
 "spell's additional cost was paid, Voltage Surge deals 4 damage instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli został "
+"zapłacony dodatkowy koszt tego czaru, zadaje on zamiast tego 4 obrażenia."
 
 #: ../../NEO.rst:1172
 msgid ""
@@ -3727,11 +3786,11 @@ msgstr ""
 
 #: ../../NEO.rst:1167
 msgid "I — You may play an additional land this turn."
-msgstr ""
+msgstr "I — Możesz zagrać dodatkowy ląd w tej turze."
 
 #: ../../NEO.rst:1169
 msgid "II — You gain 3 life."
-msgstr ""
+msgstr "II — Zyskaj 3 życia."
 
 #: ../../NEO.rst:1176
 msgid ""
@@ -3746,6 +3805,8 @@ msgid ""
 "Whenever Likeness of the Seeker becomes blocked, untap up to three lands you "
 "control."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, odkręć co najwyżej trzy lądy pod "
+"twoim władaniem."
 
 #: ../../NEO.rst:1182
 msgid ""
@@ -3778,6 +3839,8 @@ msgid ""
 "|mana_5|\\ |mana_g|: Put a +1/+1 counter on target enchantment creature. It "
 "gains trample until end of turn."
 msgstr ""
+"|mana_5|\\ |mana_g|: Umieść znacznik +1/+1 na wskazanym uroko-stworze. Do "
+"końca tury zyskuje on tratowanie."
 
 #: ../../NEO.rst:1192
 msgid ""
@@ -3794,6 +3857,11 @@ msgid ""
 "random order. If you didn't put a card into your hand this way, you gain 4 "
 "life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i "
+"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki. Jeśli nie umieściłeś w ten sposób karty w twojej ręce, zyskaj 4 "
+"życia."
 
 #: ../../NEO.rst:1196
 msgid ""
@@ -3807,6 +3875,8 @@ msgid ""
 "Target creature gets +X/+X until end of turn, where X is the greatest mana "
 "value among permanents you control. Untap it."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest największym skrótem "
+"many spośród permanentów pod twoim władaniem. Odkręć go."
 
 #: ../../NEO.rst:1206
 msgid ""
@@ -3821,12 +3891,16 @@ msgid ""
 "I — Search your library for up to two basic Forest cards, reveal them, put "
 "them into your hand, then shuffle."
 msgstr ""
+"I — Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowego Lasu, "
+"ujawnij je, umieść je w twojej ręce, po czym przetasuj."
 
 #: ../../NEO.rst:1203
 msgid ""
 "II — Put up to one target land card from your graveyard on top of your "
 "library."
 msgstr ""
+"II — Umieść co najwyżej jedną wskazaną kartę lądu z twojego cmentarza na "
+"wierzchu twojej biblioteki."
 
 #: ../../NEO.rst:1212
 msgid ""
@@ -3838,7 +3912,7 @@ msgstr ""
 
 #: ../../NEO.rst:1211
 msgid "Branch of Boseiju gets +1/+1 for each land you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdy ląd pod twoim władaniem."
 
 #: ../../NEO.rst:1220
 msgid ""
@@ -3852,6 +3926,8 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +1/+3 and has reach "
 "and \"|tap|: Add |mana_g|\\ |mana_g|.\""
 msgstr ""
+"O ile zauroczony permanent jest stworem, dostaje on +1/+3, ma zasięg oraz \""
+"|tap|: Weź |mana_g|\\ |mana_g|.\""
 
 #: ../../NEO.rst:1219
 msgid ""
@@ -3884,6 +3960,8 @@ msgid ""
 "counter on target creature you control that doesn't have a +1/+1 counter on "
 "it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +!/+1 na "
+"wskazanym stworze pod twoim władaniem nie mającym znacznika +1/+1."
 
 #: ../../NEO.rst:1230
 msgid ""
@@ -3898,6 +3976,9 @@ msgid ""
 "land card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in a random order."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę uroku lub lądu i umieścić ją w twojej ręce. Umieść pozostałe "
+"losowo na spodzie twojej biblioteki."
 
 #: ../../NEO.rst:1238
 msgid ""
@@ -3913,6 +3994,9 @@ msgid ""
 "one of them face down with a hatching counter on it, then put the rest on "
 "the bottom of your library in any order."
 msgstr ""
+"I, II — Zyskaj 2 życia. Spójrz na trzy wierzchnie karty twojej biblioteki. "
+"Wygnaj zakrytą jedną z nich ze znacznikiem wyklucia, po czym umieść "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../NEO.rst:1242
 msgid ""
@@ -3928,6 +4012,9 @@ msgid ""
 "creature spell from among cards you own in exile with hatching counters on "
 "them without paying its mana cost."
 msgstr ""
+"Ilekroć umrze ten stwór lub Smok pod twoim władaniem, możesz rzucić bez "
+"płacenia kosztu many czar stwora spośród własnych wygnanych kart mających "
+"znacznik wyklucia."
 
 #: ../../NEO.rst:1246
 msgid ""
@@ -3957,7 +4044,7 @@ msgstr ""
 #: ../../NEO.rst:1255
 msgid ""
 "As long as enchanted permanent is a creature, it gets +3/+3 and has reach."
-msgstr ""
+msgstr "O ile zauroczony permanent jest stworem, dostaje on +3/+3 i ma zasięg."
 
 #: ../../NEO.rst:1257
 msgid ""
@@ -3978,7 +4065,7 @@ msgstr ""
 msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on target "
 "creature."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../NEO.rst:1266
 msgid ""
@@ -3992,6 +4079,8 @@ msgid ""
 "When Geothermal Kami enters the battlefield, you may return an enchantment "
 "you control to its owner's hand. If you do, you gain 3 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić urok pod swoim "
+"władaniem do ręki właściciela. Jeśli tak zrobisz, zyskaj 3 życia."
 
 #: ../../NEO.rst:1272
 msgid ""
@@ -4006,6 +4095,9 @@ msgid ""
 "At the beginning of your end step, you may pay |mana_1|. When you do, put a "
 "+1/+1 counter on target Shrine for each Shrine you control."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zapłacić |mana_1|. Kiedy tak "
+"zrobisz, umieść znacznik +1/+1 na wskazanej Kapliczce za każdą Kapliczkę pod "
+"twoim władaniem."
 
 #: ../../NEO.rst:1280
 msgid ""
@@ -4023,6 +4115,8 @@ msgid ""
 "When Grafted Growth enters the battlefield, put a +1/+1 counter on target "
 "creature or Vehicle you control."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze lub Pojeździe pod twoim władaniem."
 
 #: ../../NEO.rst:1279
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -4056,12 +4150,16 @@ msgid ""
 "Enchanted land is a 4/5 green Spirit creature with vigilance and haste. It's "
 "still a land."
 msgstr ""
+"Zauroczony ląd jest zielonym Duchem 4/5 z czujnością i pośpiechem. Nadal "
+"jest lądem."
 
 #: ../../NEO.rst:1293
 msgid ""
 "If enchanted land would be destroyed, instead sacrifice Harmonious Emergence "
 "and that land gains indestructible until end of turn."
 msgstr ""
+"Jeśli zauroczony ląd miałby zostać zniszczony, zamiast tego poświęć ten urok "
+"i ów ląd zyskuje do końca tury niezniszczalność."
 
 #: ../../NEO.rst:1298
 msgid ""
@@ -4077,6 +4175,9 @@ msgid ""
 "if you control a modified creature. (Equipment, Auras you control, and "
 "counters are modifications.)"
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 jeśli władasz "
+"zmodyfikowanym stworem. (Wyposażenie, Aury pod twoim władaniem oraz "
+"znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1306
 msgid ""
@@ -4091,6 +4192,8 @@ msgid ""
 "creature with the greatest power among creatures on the battlefield, draw a "
 "card."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, jeśli zauroczony permanent jest "
+"stworem o największej sile spośród stworów na polu bitwy, dobierz kartę."
 
 #: ../../NEO.rst:1310
 msgid ""
@@ -4104,6 +4207,8 @@ msgid ""
 "Create two 4/5 green Spirit creature tokens. For each of them, put your "
 "choice of a vigilance counter, a reach counter, or a trample counter on it."
 msgstr ""
+"Stwórz dwa żetony zielonego stwora Duch 4/5. Na każdym z nich umieść "
+"znacznik wybrany spośród czujności, zasięgu i tratowania."
 
 #: ../../NEO.rst:1320
 msgid ""
@@ -4118,10 +4223,13 @@ msgid ""
 "I — Create a 1/1 green Human Monk creature token with \"|tap|: Add |mana_g|."
 "\""
 msgstr ""
+"I — Stwórz żeton zielonego stwora Człowiek Mnich 1/1 z \"|tap|: Weź |mana_g|."
+"\""
 
 #: ../../NEO.rst:1317
 msgid "II — Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
+"II — Umieść znacznik +1/+1 na każdym z co najwyżej dwóch wskazanych stworów."
 
 #: ../../NEO.rst:1328
 msgid ""
@@ -4136,6 +4244,9 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you may "
 "pay |mana_x|. When you do, put X +1/+1 counters on that creature."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
+"zapłacić |mana_x|. Kiedy tak zrobisz, umieść X znaczników +1/+1 na owym "
+"stworze."
 
 #: ../../NEO.rst:1327
 msgid ""
@@ -4143,6 +4254,9 @@ msgid ""
 "Rising Star gets +5/+5 and has trample. (Equipment, Auras you control, and "
 "counters are modifications.)"
 msgstr ""
+"O ile władasz co najmniej pięcioma zmodyfikowanymi stworami, niniejszy stwór "
+"dostaje +5/+5 i ma tratowanie. (Wyposażenie, Aury pod twoim władaniem oraz "
+"znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1334
 msgid ""
@@ -4156,6 +4270,8 @@ msgid ""
 "When Jukai Preserver enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../NEO.rst:1333
 msgid ""
@@ -4177,6 +4293,8 @@ msgid ""
 "Whenever Jukai Trainee blocks or becomes blocked, it gets +1/+1 until end of "
 "turn."
 msgstr ""
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany, dostaje on do końca "
+"tury +1/+1."
 
 #: ../../NEO.rst:1346
 msgid ""
@@ -4189,7 +4307,7 @@ msgstr ""
 msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on Kami of "
 "Transience."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../NEO.rst:1345
 msgid ""

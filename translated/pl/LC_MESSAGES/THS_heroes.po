@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <Kozaczko>, 2013.
 # Dominik <dominik@kozaczko.info>, 2013, 2014.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2021.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2021-09-05 19:44+0000\n"
+"PO-Revision-Date: 2022-03-20 17:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/"
 "ths_heroes/pl/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.10.1\n"
 "X-POOTLE-MTIME: 1380514800.90390\n"
 
 #: ../../symbols.rst:3
@@ -496,7 +496,7 @@ msgstr ""
 
 #: ../../THS_heroes.rst:97
 msgid "Equipped creature has double strike."
-msgstr ""
+msgstr "Wyposażony stwór ma podwójny cios."
 
 #: ../../THS_heroes.rst:98
 msgid "Whenever equipped creature deals damage, untap two target lands."
