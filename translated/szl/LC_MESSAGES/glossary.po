@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-21 08:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -242,21 +246,6 @@ msgid ""
 "its owner's scheme deck. See :mtgrule:`rule 701.25, \"Abandon.\"`"
 msgstr ""
 
-#: ../../glossary.rst:19
-msgid "Ability"
-msgstr ""
-
-#: ../../glossary.rst:21
-msgid "Text on an object that explains what that object does or can do."
-msgstr ""
-
-#: ../../glossary.rst:22
-msgid ""
-"An activated or triggered ability on the stack. This kind of ability is an "
-"object. See :mtgrule:`rule 112, \"Abilities,\"` and :mtgrule:`section 6, "
-"\"Spells, Abilities, and Effects.\"`"
-msgstr ""
-
 #: ../../glossary.rst:23
 msgid "Ability Word"
 msgstr ""
@@ -275,47 +264,6 @@ msgstr ""
 msgid ""
 "A keyword ability that prevents damage. See :mtgrule:`rule 702.63, \"Absorb."
 "\"`"
-msgstr ""
-
-#: ../../glossary.rst:29
-msgid "Activate"
-msgstr ""
-
-#: ../../glossary.rst:31
-msgid ""
-"To put an activated ability onto the stack and pay its costs, so that it "
-"will eventually resolve and have its effect. See :mtgrule:`rule 602, "
-"\"Activating Activated Abilities.\"`"
-msgstr ""
-
-#: ../../glossary.rst:32
-msgid "Activated Ability"
-msgstr ""
-
-#: ../../glossary.rst:34
-msgid ""
-"A kind of ability. Activated abilities are written as \"[Cost]: [Effect.] "
-"[Activation instructions (if any).]\" See :mtgrule:`rule 112, \"Abilities,"
-"\"` and :mtgrule:`rule 602, \"Activating Activated Abilities.\"`"
-msgstr ""
-
-#: ../../glossary.rst:35
-msgid "Activation Cost"
-msgstr ""
-
-#: ../../glossary.rst:37
-msgid ""
-"Everything that appears before the colon in an activated ability's text. It "
-"must be paid to activate the ability. See :mtgrule:`rule 117, \"Costs,\"` "
-"and :mtgrule:`rule 602, \"Activating Activated Abilities.\"`"
-msgstr ""
-
-#: ../../glossary.rst:38
-msgid "Active Player"
-msgstr ""
-
-#: ../../glossary.rst:40
-msgid "The player whose turn it is. See :mtgrule:`rule 102.1.`"
 msgstr ""
 
 #: ../../glossary.rst:41
@@ -371,14 +319,23 @@ msgid ""
 "See :mtgrule:`rule 702.129, \"Afflict.\"`"
 msgstr ""
 
-#: ../../glossary.rst:56
-msgid "Aftermath"
+#: ../../glossary.rst:38
+msgid "Active Player"
 msgstr ""
 
-#: ../../glossary.rst:58
+#: ../../glossary.rst:40
+msgid "The player whose turn it is. See :mtgrule:`rule 102.1.`"
+msgstr ""
+
+#: ../../glossary.rst:29
+msgid "Activate"
+msgstr ""
+
+#: ../../glossary.rst:31
 msgid ""
-"A keyword ability that lets a player cast one half of a split card only from "
-"their graveyard. See :mtgrule:`rule 702.126, \"Aftermath.\"`"
+"To put an activated ability onto the stack and pay its costs, so that it "
+"will eventually resolve and have its effect. See :mtgrule:`rule 602, "
+"\"Activating Activated Abilities.\"`"
 msgstr ""
 
 #: ../../glossary.rst:59
@@ -442,6 +399,16 @@ msgstr ""
 
 #: ../../glossary.rst:77
 msgid "To put a card into the ante zone. See :mtgrule:`rule 407, \"Ante.\"`"
+msgstr ""
+
+#: ../../glossary.rst:723
+msgid "Hexproof"
+msgstr ""
+
+#: ../../glossary.rst:725
+msgid ""
+"A keyword ability that precludes a permanent or player from being targeted "
+"by an opponent. See :mtgrule:`rule 702.11, \"Hexproof.\"`"
 msgstr ""
 
 #: ../../glossary.rst:78
@@ -940,6 +907,16 @@ msgid ""
 "its owner's hand as it resolves. See :mtgrule:`rule 702.26, \"Buyback.\"`"
 msgstr ""
 
+#: ../../glossary.rst:634
+msgid "Flash"
+msgstr ""
+
+#: ../../glossary.rst:636
+msgid ""
+"A keyword ability that lets a player play a card any time they could cast an "
+"instant. See :mtgrule:`rule 702.8, \"Flash.\"`"
+msgstr ""
+
 #: ../../glossary.rst:218
 msgid "Card"
 msgstr ""
@@ -973,16 +950,6 @@ msgid ""
 "type, even if that object isn't a card. Each card type has its own rules. "
 "See :mtgrule:`rule 205, \"Type Line,\"` and :mtgrule:`section 3, \"Card "
 "Types.\"`"
-msgstr ""
-
-#: ../../glossary.rst:227
-msgid "Cascade"
-msgstr ""
-
-#: ../../glossary.rst:229
-msgid ""
-"A keyword ability that may let a player cast a random extra spell for no "
-"cost. See :mtgrule:`rule 702.84, \"Cascade.\"`"
 msgstr ""
 
 #: ../../glossary.rst:230
@@ -1041,16 +1008,6 @@ msgstr ""
 msgid ""
 "To choose a new, legal target for a spell or ability. See :mtgrule:`rule "
 "114.7.`"
-msgstr ""
-
-#: ../../glossary.rst:246
-msgid "Changeling"
-msgstr ""
-
-#: ../../glossary.rst:248
-msgid ""
-"A characteristic-defining ability that grants the object it's on every "
-"creature type. See :mtgrule:`rule 702.72, \"Changeling.\"`"
 msgstr ""
 
 #: ../../glossary.rst:249
@@ -1527,6 +1484,16 @@ msgid ""
 "card. See :mtgrule:`rule 702.28, \"Cycling.\"`"
 msgstr ""
 
+#: ../../glossary.rst:1661
+msgid "Vigilance"
+msgstr ""
+
+#: ../../glossary.rst:1663
+msgid ""
+"A keyword ability that lets a creature attack without tapping. See :mtgrule:"
+"`rule 702.20, \"Vigilance.\"`"
+msgstr ""
+
 #: ../../glossary.rst:385
 msgid "Damage"
 msgstr ""
@@ -1567,16 +1534,6 @@ msgstr ""
 
 #: ../../glossary.rst:396
 msgid "See :term:`Damage`."
-msgstr ""
-
-#: ../../glossary.rst:397
-msgid "Deathtouch"
-msgstr ""
-
-#: ../../glossary.rst:399
-msgid ""
-"A keyword ability that causes damage dealt by an object to be especially "
-"effective. See :mtgrule:`rule 702.2, \"Deathtouch.\"`"
 msgstr ""
 
 #: ../../glossary.rst:400
@@ -1631,16 +1588,6 @@ msgstr ""
 msgid ""
 "Part of the turn. This step is the third step of the combat phase. See :"
 "mtgrule:`rule 509, \"Declare Blockers Step.\"`"
-msgstr ""
-
-#: ../../glossary.rst:415
-msgid "Defender"
-msgstr ""
-
-#: ../../glossary.rst:417
-msgid ""
-"A keyword ability that prohibits a creature from attacking. See :mtgrule:"
-"`rule 702.3, \"Defender.\"`"
 msgstr ""
 
 #: ../../glossary.rst:418
@@ -1789,6 +1736,16 @@ msgstr ""
 msgid ""
 "To move a card from its owner's hand to that player's graveyard. See :"
 "mtgrule:`rule 701.8, \"Discard.\"`"
+msgstr ""
+
+#: ../../glossary.rst:397
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../glossary.rst:399
+msgid ""
+"A keyword ability that causes damage dealt by an object to be especially "
+"effective. See :mtgrule:`rule 702.2, \"Deathtouch.\"`"
 msgstr ""
 
 #: ../../glossary.rst:460
@@ -2404,16 +2361,6 @@ msgid ""
 "`rule 702.24, \"Flanking.\"`"
 msgstr ""
 
-#: ../../glossary.rst:634
-msgid "Flash"
-msgstr ""
-
-#: ../../glossary.rst:636
-msgid ""
-"A keyword ability that lets a player play a card any time they could cast an "
-"instant. See :mtgrule:`rule 702.8, \"Flash.\"`"
-msgstr ""
-
 #: ../../glossary.rst:637
 msgid "Flashback"
 msgstr ""
@@ -2462,16 +2409,6 @@ msgstr ""
 msgid ""
 "A method of randomization with two possible outcomes of equal likelihood. "
 "See :mtgrule:`rule 705, \"Flipping a Coin.\"`"
-msgstr ""
-
-#: ../../glossary.rst:652
-msgid "Flying"
-msgstr ""
-
-#: ../../glossary.rst:654
-msgid ""
-"A keyword ability that restricts how a creature may be blocked. See :mtgrule:"
-"`rule 702.9, \"Flying.\"`"
 msgstr ""
 
 #: ../../glossary.rst:655
@@ -2679,37 +2616,6 @@ msgid ""
 "Modifier.\"`"
 msgstr ""
 
-#: ../../glossary.rst:717
-msgid "Haste"
-msgstr ""
-
-#: ../../glossary.rst:719
-msgid ""
-"A keyword ability that lets a creature ignore the \"summoning sickness\" "
-"rule. See :mtgrule:`rule 702.10, \"Haste,\"` and :mtgrule:`rule 302.6.`"
-msgstr ""
-
-#: ../../glossary.rst:720
-msgid "Haunt"
-msgstr ""
-
-#: ../../glossary.rst:722
-msgid ""
-"A keyword ability that exiles cards. A card exiled this way \"haunts\" a "
-"creature targeted by the haunt ability. See :mtgrule:`rule 702.54, \"Haunt."
-"\"`"
-msgstr ""
-
-#: ../../glossary.rst:723
-msgid "Hexproof"
-msgstr ""
-
-#: ../../glossary.rst:725
-msgid ""
-"A keyword ability that precludes a permanent or player from being targeted "
-"by an opponent. See :mtgrule:`rule 702.11, \"Hexproof.\"`"
-msgstr ""
-
 #: ../../glossary.rst:726
 msgid "Hidden Agenda"
 msgstr ""
@@ -2882,16 +2788,6 @@ msgstr ""
 msgid "See :term:`Dependency`."
 msgstr ""
 
-#: ../../glossary.rst:778
-msgid "Indestructible"
-msgstr ""
-
-#: ../../glossary.rst:780
-msgid ""
-"A keyword ability that precludes a permanent from being destroyed. See :"
-"mtgrule:`rule 702.12.`"
-msgstr ""
-
 #: ../../glossary.rst:781
 msgid "Infect"
 msgstr ""
@@ -3017,6 +2913,16 @@ msgid ""
 "discarding a card. See :mtgrule:`rule 702.132, \"Jump-Start.\"`"
 msgstr ""
 
+#: ../../glossary.rst:227
+msgid "Cascade"
+msgstr ""
+
+#: ../../glossary.rst:229
+msgid ""
+"A keyword ability that may let a player cast a random extra spell for no "
+"cost. See :mtgrule:`rule 702.84, \"Cascade.\"`"
+msgstr ""
+
 #: ../../glossary.rst:820
 msgid "Keyword Ability"
 msgstr ""
@@ -3051,6 +2957,17 @@ msgid ""
 "Kicker is a keyword ability that represents an optional additional cost. A "
 "spell has been kicked if its controller declared the intention to pay any or "
 "all of its kicker costs. See :mtgrule:`rule 702.32, \"Kicker.\"`"
+msgstr ""
+
+#: ../../glossary.rst:35
+msgid "Activation Cost"
+msgstr ""
+
+#: ../../glossary.rst:37
+msgid ""
+"Everything that appears before the colon in an activated ability's text. It "
+"must be paid to activate the ability. See :mtgrule:`rule 117, \"Costs,\"` "
+"and :mtgrule:`rule 602, \"Activating Activated Abilities.\"`"
 msgstr ""
 
 #: ../../glossary.rst:830
@@ -3092,6 +3009,16 @@ msgid ""
 "information captures that object's last existence in that zone or that "
 "player's last existence in the game. See rules :mtgrule:`112.7a,` :mtgrule:"
 "`608.2b,` :mtgrule:`608.2g,` and :mtgrule:`800.4h.`"
+msgstr ""
+
+#: ../../glossary.rst:652
+msgid "Flying"
+msgstr ""
+
+#: ../../glossary.rst:654
+msgid ""
+"A keyword ability that restricts how a creature may be blocked. See :mtgrule:"
+"`rule 702.9, \"Flying.\"`"
 msgstr ""
 
 #: ../../glossary.rst:842
@@ -3221,16 +3148,6 @@ msgstr ""
 msgid ""
 "Each player has an amount of \"life,\" represented by that player's \"life "
 "total.\" Life may be gained or lost. See :mtgrule:`rule 118, \"Life.\"`"
-msgstr ""
-
-#: ../../glossary.rst:882
-msgid "Lifelink"
-msgstr ""
-
-#: ../../glossary.rst:884
-msgid ""
-"A keyword ability that causes a player to gain life. See :mtgrule:`rule "
-"702.15, \"Lifelink.\"`"
 msgstr ""
 
 #: ../../glossary.rst:885
@@ -3509,16 +3426,6 @@ msgid ""
 "opponents you attacked. See :mtgrule:`rule 702.120, \"Melee.\"`"
 msgstr ""
 
-#: ../../glossary.rst:964
-msgid "Menace"
-msgstr ""
-
-#: ../../glossary.rst:966
-msgid ""
-"An evasion ability that makes creatures unblockable by a single creature. "
-"See :mtgrule:`rule 702.110, \"Menace.\"`"
-msgstr ""
-
 #: ../../glossary.rst:967
 msgid "Mentor"
 msgstr ""
@@ -3728,6 +3635,27 @@ msgid ""
 "left corner. See :mtgrule:`rule 201, \"Name.\"`"
 msgstr ""
 
+#: ../../glossary.rst:720
+msgid "Haunt"
+msgstr ""
+
+#: ../../glossary.rst:722
+msgid ""
+"A keyword ability that exiles cards. A card exiled this way \"haunts\" a "
+"creature targeted by the haunt ability. See :mtgrule:`rule 702.54, \"Haunt."
+"\"`"
+msgstr ""
+
+#: ../../glossary.rst:778
+msgid "Indestructible"
+msgstr ""
+
+#: ../../glossary.rst:780
+msgid ""
+"A keyword ability that precludes a permanent from being destroyed. See :"
+"mtgrule:`rule 702.12.`"
+msgstr ""
+
 #: ../../glossary.rst:1030
 msgid "Ninjutsu"
 msgstr ""
@@ -3766,6 +3694,16 @@ msgstr ""
 msgid ""
 "An ability on the stack, a card, a copy of a card, a token, a spell, or a "
 "permanent. See :mtgrule:`rule 109, \"Objects.\"`"
+msgstr ""
+
+#: ../../glossary.rst:415
+msgid "Defender"
+msgstr ""
+
+#: ../../glossary.rst:417
+msgid ""
+"A keyword ability that prohibits a creature from attacking. See :mtgrule:"
+"`rule 702.3, \"Defender.\"`"
 msgstr ""
 
 #: ../../glossary.rst:1042
@@ -4273,6 +4211,16 @@ msgid ""
 "`rule 702.69, \"Poisonous.\"`"
 msgstr ""
 
+#: ../../glossary.rst:56
+msgid "Aftermath"
+msgstr ""
+
+#: ../../glossary.rst:58
+msgid ""
+"A keyword ability that lets a player cast one half of a split card only from "
+"their graveyard. See :mtgrule:`rule 702.126, \"Aftermath.\"`"
+msgstr ""
+
 #: ../../glossary.rst:1187
 msgid "Poly Artifact"
 msgstr ""
@@ -4301,6 +4249,16 @@ msgstr ""
 
 #: ../../glossary.rst:1195
 msgid "A main phase that occurs after a combat phase. See :term:`Main Phase`."
+msgstr ""
+
+#: ../../glossary.rst:717
+msgid "Haste"
+msgstr ""
+
+#: ../../glossary.rst:719
+msgid ""
+"A keyword ability that lets a creature ignore the \"summoning sickness\" "
+"rule. See :mtgrule:`rule 702.10, \"Haste,\"` and :mtgrule:`rule 302.6.`"
 msgstr ""
 
 #: ../../glossary.rst:1196
@@ -4387,17 +4345,6 @@ msgid ""
 "702.38, \"Provoke.\"`"
 msgstr ""
 
-#: ../../glossary.rst:1221
-msgid "Prowess"
-msgstr ""
-
-#: ../../glossary.rst:1223
-msgid ""
-"A keyword ability that causes a creature to get +1/+1 whenever its "
-"controller casts a noncreature spell. See :mtgrule:`rule 702.107, \"Prowess."
-"\"`"
-msgstr ""
-
 #: ../../glossary.rst:1224
 msgid "Prowl"
 msgstr ""
@@ -4434,16 +4381,6 @@ msgstr ""
 
 #: ../../glossary.rst:1235
 msgid "See :term:`Limited Range of Influence`."
-msgstr ""
-
-#: ../../glossary.rst:1236
-msgid "Reach"
-msgstr ""
-
-#: ../../glossary.rst:1238
-msgid ""
-"A keyword ability that allows a creature to block an attacking creature with "
-"flying. See :mtgrule:`rule 702.17, \"Reach.\"` See also :term:`Flying`."
 msgstr ""
 
 #: ../../glossary.rst:1239
@@ -5501,16 +5438,6 @@ msgid ""
 "inches (8.8 centimeters). See :mtgrule:`rule 108.2.`"
 msgstr ""
 
-#: ../../glossary.rst:1551
-msgid "Trample"
-msgstr ""
-
-#: ../../glossary.rst:1553
-msgid ""
-"A keyword ability that modifies how a creature assigns combat damage. See :"
-"mtgrule:`rule 702.19, \"Trample.\"`"
-msgstr ""
-
 #: ../../glossary.rst:1554
 msgid "Transfigure"
 msgstr ""
@@ -5539,6 +5466,16 @@ msgstr ""
 msgid ""
 "A keyword ability that lets a player search their library for a replacement "
 "card. See :mtgrule:`rule 702.52, \"Transmute.\"`"
+msgstr ""
+
+#: ../../glossary.rst:1551
+msgid "Trample"
+msgstr ""
+
+#: ../../glossary.rst:1553
+msgid ""
+"A keyword ability that modifies how a creature assigns combat damage. See :"
+"mtgrule:`rule 702.19, \"Trample.\"`"
 msgstr ""
 
 #: ../../glossary.rst:1563
@@ -5885,16 +5822,6 @@ msgid ""
 "`rule 301, \"Artifacts,\"` and :mtgrule:`rule 702.121, \"Crew.\"`"
 msgstr ""
 
-#: ../../glossary.rst:1661
-msgid "Vigilance"
-msgstr ""
-
-#: ../../glossary.rst:1663
-msgid ""
-"A keyword ability that lets a creature attack without tapping. See :mtgrule:"
-"`rule 702.20, \"Vigilance.\"`"
-msgstr ""
-
 #: ../../glossary.rst:1664
 msgid "Vote"
 msgstr ""
@@ -5903,6 +5830,17 @@ msgstr ""
 msgid ""
 "Some cards instruct players to vote from among given options. See :mtgrule:"
 "`rule 701.31, \"Vote.\"`"
+msgstr ""
+
+#: ../../glossary.rst:1221
+msgid "Prowess"
+msgstr ""
+
+#: ../../glossary.rst:1223
+msgid ""
+"A keyword ability that causes a creature to get +1/+1 whenever its "
+"controller casts a noncreature spell. See :mtgrule:`rule 702.107, \"Prowess."
+"\"`"
 msgstr ""
 
 #: ../../glossary.rst:1667
@@ -5916,6 +5854,16 @@ msgid ""
 "them from attacking. Those cards have received errata in the Oracle card "
 "reference to have defender. Some older cards that referenced the Wall "
 "creature type have also received errata. See :term:`Defender`."
+msgstr ""
+
+#: ../../glossary.rst:882
+msgid "Lifelink"
+msgstr ""
+
+#: ../../glossary.rst:884
+msgid ""
+"A keyword ability that causes a player to gain life. See :mtgrule:`rule "
+"702.15, \"Lifelink.\"`"
 msgstr ""
 
 #: ../../glossary.rst:1670
@@ -5994,6 +5942,52 @@ msgid ""
 "controller). See :mtgrule:`rule 109.5.`"
 msgstr ""
 
+#: ../../glossary.rst:1236
+msgid "Reach"
+msgstr ""
+
+#: ../../glossary.rst:1238
+msgid ""
+"A keyword ability that allows a creature to block an attacking creature with "
+"flying. See :mtgrule:`rule 702.17, \"Reach.\"` See also :term:`Flying`."
+msgstr ""
+
+#: ../../glossary.rst:19
+msgid "Ability"
+msgstr ""
+
+#: ../../glossary.rst:21
+msgid "Text on an object that explains what that object does or can do."
+msgstr ""
+
+#: ../../glossary.rst:22
+msgid ""
+"An activated or triggered ability on the stack. This kind of ability is an "
+"object. See :mtgrule:`rule 112, \"Abilities,\"` and :mtgrule:`section 6, "
+"\"Spells, Abilities, and Effects.\"`"
+msgstr ""
+
+#: ../../glossary.rst:32
+msgid "Activated Ability"
+msgstr ""
+
+#: ../../glossary.rst:34
+msgid ""
+"A kind of ability. Activated abilities are written as \"[Cost]: [Effect.] "
+"[Activation instructions (if any).]\" See :mtgrule:`rule 112, \"Abilities,"
+"\"` and :mtgrule:`rule 602, \"Activating Activated Abilities.\"`"
+msgstr ""
+
+#: ../../glossary.rst:246
+msgid "Changeling"
+msgstr ""
+
+#: ../../glossary.rst:248
+msgid ""
+"A characteristic-defining ability that grants the object it's on every "
+"creature type. See :mtgrule:`rule 702.72, \"Changeling.\"`"
+msgstr ""
+
 #: ../../glossary.rst:1694
 msgid "Zone"
 msgstr ""
@@ -6012,4 +6006,14 @@ msgstr ""
 msgid ""
 "Trigger events that involve objects changing zones. See :mtgrule:`rule 603.6."
 "`"
+msgstr ""
+
+#: ../../glossary.rst:964
+msgid "Menace"
+msgstr ""
+
+#: ../../glossary.rst:966
+msgid ""
+"An evasion ability that makes creatures unblockable by a single creature. "
+"See :mtgrule:`rule 702.110, \"Menace.\"`"
 msgstr ""

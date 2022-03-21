@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-14 22:38+0100\n"
+"POT-Creation-Date: 2022-03-21 08:59+0100\n"
 "PO-Revision-Date: 2022-03-21 07:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
@@ -211,18 +211,24 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
+#, fuzzy
+#| msgid "{(g/u)}"
+msgid "{(g/u/p)}"
+msgstr "{(g/u)}"
+
+#: ../../symbols.rst:101
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:101
+#: ../../symbols.rst:103
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -530,7 +536,8 @@ msgstr ""
 
 #: ../../NEO.rst:97
 msgid "II — Each player gains control of all permanents they own."
-msgstr "II — Każdy gracz zyskuje władanie nad wszystkimi własnymi permanentami."
+msgstr ""
+"II — Każdy gracz zyskuje władanie nad wszystkimi własnymi permanentami."
 
 #: ../../NEO.rst:106
 msgid ""
@@ -1184,7 +1191,8 @@ msgstr ""
 #: ../../NEO.rst:317 ../../NEO.rst:831
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
+msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../NEO.rst:319
 msgid ""
@@ -1245,8 +1253,8 @@ msgid ""
 "As long as enchanted permanent is a creature, it has base power and "
 "toughness 1/1."
 msgstr ""
-"O ile zauroczony permanent jest stworem, ma on bazową siłę i wytrzymałość 1/"
-"1."
+"O ile zauroczony permanent jest stworem, ma on bazową siłę i wytrzymałość "
+"1/1."
 
 #: ../../NEO.rst:346
 msgid ""
@@ -1713,8 +1721,8 @@ msgstr ""
 msgid ""
 "|tap|, Tap an untapped artifact or creature you control: Add |colorless|."
 msgstr ""
-"|tap|, przekręć odkręcony artefakt lub stwora pod twoim władaniem: Weź "
-"|colorless|."
+"|tap|, przekręć odkręcony artefakt lub stwora pod twoim władaniem: Weź |"
+"colorless|."
 
 #: ../../NEO.rst:493
 msgid ""
@@ -2004,8 +2012,8 @@ msgid ""
 "The first activated ability of an artifact you activate each turn costs |"
 "mana_2| less to activate."
 msgstr ""
-"Aktywacja pierwszej zdolności artefaktu w danej turze kosztuje cię o |mana_2|"
-" mniej."
+"Aktywacja pierwszej zdolności artefaktu w danej turze kosztuje cię o |"
+"mana_2| mniej."
 
 #: ../../NEO.rst:585
 msgid ""
@@ -2084,8 +2092,8 @@ msgid ""
 "This spell costs |mana_1| less to cast if you control an artifact and |"
 "mana_1| less to cast if you control an enchantment."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz artefaktem i o "
-"|mana_1| mniej jeśli władasz urokiem."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz artefaktem i o |"
+"mana_1| mniej jeśli władasz urokiem."
 
 #: ../../NEO.rst:607
 msgid "Destroy target creature or planeswalker."
@@ -2141,8 +2149,8 @@ msgid ""
 "Attach to target creature you control; or unattach from a creature. "
 "Reconfigure only as a sorcery. While attached, this isn't a creature.)"
 msgstr ""
-"Rekonfiguracja |mana_2|\\ |mana_b|\\ |mana_b| (|mana_2|\\ |mana_b|\\ "
-"|mana_b|: Dołącz do wskazanego stwora pod twoim władaniem; lub odłącz od "
+"Rekonfiguracja |mana_2|\\ |mana_b|\\ |mana_b| (|mana_2|\\ |mana_b|\\ |"
+"mana_b|: Dołącz do wskazanego stwora pod twoim władaniem; lub odłącz od "
 "stwora. Rekonfiguruj tylko jako obrzęd. Będąc dołączonym, nie jest stworem.)"
 
 #: ../../NEO.rst:630
@@ -3143,8 +3151,8 @@ msgid ""
 "creature tapped this way."
 msgstr ""
 "Jako dodatkowy koszt rzucenia tego czaru — możesz przekręcić dowolną liczbę "
-"odkręconych stworów pod twoim władaniem. Rzucenie tego czaru kosztuje o "
-"|mana_1| mniej za każdego stwora przekręconego w ten sposób."
+"odkręconych stworów pod twoim władaniem. Rzucenie tego czaru kosztuje o |"
+"mana_1| mniej za każdego stwora przekręconego w ten sposób."
 
 #: ../../NEO.rst:961
 msgid "Explosive Singularity deals 10 damage to any target."
@@ -3221,16 +3229,16 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +2/+2 and has menace. "
 "(It can't be blocked except by two or more creatures.)"
 msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje on +2/+2 i ma złowrogość. ("
-"Nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
+"O ile zauroczony permanent jest stworem, dostaje on +2/+2 i ma złowrogość. "
+"(Nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../NEO.rst:987
 msgid ""
 "When Gift of Wrath leaves the battlefield, create a 2/2 red Spirit creature "
 "token with menace."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton czerwonego stwora Duch 2/"
-"2 ze złowrogością."
+"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton czerwonego stwora Duch "
+"2/2 ze złowrogością."
 
 #: ../../NEO.rst:994
 msgid ""
@@ -3269,8 +3277,8 @@ msgid ""
 "creature. (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
 "|mana_3|\\ |mana_r|\\ |mana_r|: Stwórz żeton czerwonego stwora Smok Duch 5/5 "
-"z lataniem. Aktywuj tylko jeśli władasz atakującym zmodyfikowanym stworem. ("
-"Wyposażenie, Aury pod twoim władaniem oraz znaczniki są modyfikacjami.)"
+"z lataniem. Aktywuj tylko jeśli władasz atakującym zmodyfikowanym stworem. "
+"(Wyposażenie, Aury pod twoim władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1006
 msgid ""
@@ -3567,7 +3575,8 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice another artifact: Scrapyard Steelbreaker gets +2/+1 "
 "until end of turn."
-msgstr "|mana_1|, poświęć inny artefakt: Ten stwór dostaje do końca tury +2/+1."
+msgstr ""
+"|mana_1|, poświęć inny artefakt: Ten stwór dostaje do końca tury +2/+1."
 
 #: ../../NEO.rst:1100
 msgid ""
@@ -3926,8 +3935,8 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +1/+3 and has reach "
 "and \"|tap|: Add |mana_g|\\ |mana_g|.\""
 msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje on +1/+3, ma zasięg oraz \""
-"|tap|: Weź |mana_g|\\ |mana_g|.\""
+"O ile zauroczony permanent jest stworem, dostaje on +1/+3, ma zasięg oraz \"|"
+"tap|: Weź |mana_g|\\ |mana_g|.\""
 
 #: ../../NEO.rst:1219
 msgid ""
@@ -4065,7 +4074,8 @@ msgstr ""
 msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on target "
 "creature."
-msgstr "Ilekroć rzucisz czar uroku, umieść znacznik +1/+1 na wskazanym stworze."
+msgstr ""
+"Ilekroć rzucisz czar uroku, umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../NEO.rst:1266
 msgid ""
@@ -4460,8 +4470,8 @@ msgid ""
 "As long as Orochi Merge-Keeper is modified, it has \"|tap|: Add |mana_g|\\ |"
 "mana_g|.\" (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
-"O ile ten stwór jest zmodyfikowany, ma on \"|tap|: Weź |mana_g|\\ |mana_g|.\""
-" (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są modyfikacjami.)"
+"O ile ten stwór jest zmodyfikowany, ma on \"|tap|: Weź |mana_g|\\ |mana_g|."
+"\" (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są modyfikacjami.)"
 
 #: ../../NEO.rst:1394
 msgid ""
@@ -5624,8 +5634,8 @@ msgid ""
 "When Reito Sentinel enters the battlefield, target player mills three cards. "
 "(They put the top three cards of their library into their graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli trzy karty. ("
-"Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
+"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli trzy karty. "
+"(Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../NEO.rst:1769
 msgid ""
