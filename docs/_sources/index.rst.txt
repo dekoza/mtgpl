@@ -39,8 +39,10 @@ Instrukcja gry
 Tłumaczenie dodatków
 ====================
 
-.. Nadchodzące
-.. -----------
+Nadchodzące
+-----------
+
+* :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` 2022-04-29
 
 
 Standard

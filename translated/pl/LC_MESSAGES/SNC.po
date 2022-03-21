@@ -1,0 +1,389 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2022.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+#: ../../symbols.rst:9
+#: ../../symbols.rst:9
+#: ../../symbols.rst:9
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+#: ../../symbols.rst:11
+#: ../../symbols.rst:11
+#: ../../symbols.rst:11
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+#: ../../symbols.rst:13
+#: ../../symbols.rst:13
+#: ../../symbols.rst:13
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+#: ../../symbols.rst:15
+#: ../../symbols.rst:15
+#: ../../symbols.rst:15
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+#: ../../symbols.rst:17
+#: ../../symbols.rst:17
+#: ../../symbols.rst:17
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{PW}"
+msgstr ""
+
+#: ../../SNC.rst:5
+msgid ":mtgexp:`SNC` Streets of New Capenna"
+msgstr ""
+
+#: ../../SNC.rst:10
+msgid ":mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1646591371|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:9
+msgid "At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control."
+msgstr ""
+
+#: ../../SNC.rst:18
+msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:13
+msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
+msgstr ""
+
+#: ../../SNC.rst:15
+msgid "Jetmir's Garden enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:17
+#: ../../SNC.rst:25
+#: ../../SNC.rst:33
+#: ../../SNC.rst:41
+#: ../../SNC.rst:49
+msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../SNC.rst:26
+msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:21
+msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
+msgstr ""
+
+#: ../../SNC.rst:23
+msgid "Raffine's Tower enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:34
+msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:29
+msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
+msgstr ""
+
+#: ../../SNC.rst:31
+msgid "Spara's Headquarters enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:42
+msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:37
+msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
+msgstr ""
+
+#: ../../SNC.rst:39
+msgid "Xander's Lounge enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:50
+msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:45
+msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
+msgstr ""
+
+#: ../../SNC.rst:47
+msgid "Ziatora's Proving Ground enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:54
+msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1646347891|https://scryfall.com/card/snc/272/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:53
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../SNC.rst:58
+msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1646347909|https://scryfall.com/card/snc/274/island?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:57
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../SNC.rst:62
+msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1646347875|https://scryfall.com/card/snc/276/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:61
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../SNC.rst:66
+msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a58066e-f9a2-4508-9cc0-908b1cf747e3.jpg?1646347883|https://scryfall.com/card/snc/278/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:65
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../SNC.rst:69
+msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c726424a-3336-4e15-9055-4a26371df361.jpg?1646347900|https://scryfall.com/card/snc/280/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:69
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""

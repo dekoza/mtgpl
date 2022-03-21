@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2022-03-21
+   * Kamigawa: Neon Dynasty - 100%
+
 2022-02-22
    * Innistrad: Crimson Vow - 100%
 
