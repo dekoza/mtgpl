@@ -137,6 +137,7 @@ Commander i pokrewne
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
+* :mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|
 * :mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|
 * :mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|
 * :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
