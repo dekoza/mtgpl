@@ -42,7 +42,7 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` 2022-04-29
+* :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` Premiera: 2022-04-29
 
 
 Standard
