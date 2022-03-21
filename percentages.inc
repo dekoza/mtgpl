@@ -95,6 +95,8 @@
 
 .. |DST_percent| image:: images/pie45.png        
 
+.. |NEC_percent| image:: images/pie05.png        
+
 .. |MH1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -372,6 +374,8 @@
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |SNC_percent| image:: images/pie05.png        
 
 .. |ARN_percent| image:: images/pie50.png        
 
