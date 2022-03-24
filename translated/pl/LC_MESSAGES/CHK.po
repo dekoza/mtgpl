@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-24 12:20+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -2055,13 +2055,15 @@ msgstr ""
 
 #: ../../CHK.rst:663
 msgid "All Rats have fear."
-msgstr ""
+msgstr "Wszystkie Szczury mają postrach."
 
 #: ../../CHK.rst:665
 msgid ""
 "|tap|, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is "
 "the number of Rats you control."
 msgstr ""
+"|tap|, poświęć Szczura: Stwórz X żetonów czarnego stwora Szczur 1/1, gdzie X "
+"jest liczbą Szczurów pod twoim władaniem."
 
 #: ../../CHK.rst:672
 msgid ""
@@ -2131,7 +2133,7 @@ msgstr ""
 
 #: ../../CHK.rst:689
 msgid "Nezumi Cutthroat can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../CHK.rst:694
 msgid ""

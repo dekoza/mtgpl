@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-24 11:46+0000\n"
+"PO-Revision-Date: 2022-03-24 12:23+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -6188,13 +6188,15 @@ msgstr ""
 
 #: ../../J21.rst:2021
 msgid "All Rats have fear."
-msgstr ""
+msgstr "Wszystkie Szczury mają postrach."
 
 #: ../../J21.rst:2023
 msgid ""
 "|tap|, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is "
 "the number of Rats you control."
 msgstr ""
+"|tap|, poświęć Szczura: Stwórz X żetonów czarnego stwora Szczur 1/1, gdzie X "
+"jest liczbą Szczurów pod twoim władaniem."
 
 #: ../../J21.rst:2028
 msgid ""
@@ -6307,10 +6309,11 @@ msgstr ""
 msgid ""
 "Necrogoyf's power is equal to the number of creature cards in all graveyards."
 msgstr ""
+"Siła tej karty jest równa liczbie kart stworów we wszystkich cmentarzach."
 
 #: ../../J21.rst:2069
 msgid "At the beginning of each player's upkeep, that player discards a card."
-msgstr ""
+msgstr "Na początku kroku utrzymania każdego gracza, ów gracz odrzuca kartę."
 
 #: ../../J21.rst:2071
 msgid ""
@@ -6318,6 +6321,9 @@ msgid ""
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b|\\ |mana_b| (Jeśli odrzucisz tę kartę, odrzuć "
+"ją na wygnanie. Kiedy tak zrobisz, rzuć ją za jej koszt szaleństwa lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../J21.rst:2080
 msgid ""
@@ -6330,13 +6336,15 @@ msgstr ""
 msgid ""
 "Hellbent — Necromancer's Familiar has lifelink as long as you have no cards "
 "in hand."
-msgstr ""
+msgstr "Zaślepienie — Ten stwór ma więź życia o ile nie masz kart w ręce."
 
 #: ../../J21.rst:2079
 msgid ""
 "|mana_b|, Discard a card: Necromancer's Familiar gains indestructible until "
 "end of turn. Tap it."
 msgstr ""
+"|mana_b|, odrzuć kartę: Ten stwór zyskuje do końca tury niezniszczalność. "
+"Przekręć go."
 
 #: ../../J21.rst:2084
 msgid ""
@@ -6385,7 +6393,7 @@ msgstr ""
 
 #: ../../J21.rst:2093
 msgid "Nezumi Cutthroat can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../J21.rst:2102
 msgid ""
@@ -6447,6 +6455,8 @@ msgid ""
 "Whenever Okiba-Gang Shinobi deals combat damage to a player, that player "
 "discards two cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca dwie "
+"karty."
 
 #: ../../J21.rst:2116
 msgid ""
@@ -6686,6 +6696,8 @@ msgid ""
 "|tap|: Surveil 1. (Look at the top card of your library. You may put that "
 "card into your graveyard.)"
 msgstr ""
+"|tap|: Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../J21.rst:2194
 msgid ""
@@ -6700,12 +6712,17 @@ msgid ""
 "hand: Put this card onto the battlefield from your hand tapped and "
 "attacking.)"
 msgstr ""
+"Ninjutsu |mana_b| (|mana_b|, przywróć niezablokowanego atakującego pod twoim "
+"władaniem do ręki: Umieść tę kartę z twojej ręki na polu bitwy przekręconą i "
+"atakującą.)"
 
 #: ../../J21.rst:2193
 msgid ""
 "Whenever Skullsnatcher deals combat damage to a player, exile up to two "
 "target cards from that player's graveyard."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj co najwyżej dwie "
+"wskazane karty z cmentarza owego gracza."
 
 #: ../../J21.rst:2200
 msgid ""
@@ -6929,6 +6946,8 @@ msgid ""
 "|tap|, Sacrifice another creature: Each opponent loses 2 life and you gain 2 "
 "life."
 msgstr ""
+"|tap|, poświęć innego stwora: Każdy przeciwnik traci po 2 życia, a ty zyskaj "
+"2 życia."
 
 #: ../../J21.rst:2286
 msgid ""
@@ -7014,6 +7033,9 @@ msgid ""
 "your graveyard. When you do, return target creature card from your graveyard "
 "to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać dwie karty z twojego "
+"cmentarza. Kiedy tak zrobisz, przywróć wskazaną kartę stwora z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../J21.rst:2316
 msgid ""
@@ -7235,6 +7257,8 @@ msgid ""
 "|mana_r|: Blazing Rootwalla gets +2/+0 until end of turn. Activate only once "
 "each turn."
 msgstr ""
+"|mana_r|: Ten stwór dostaje do końca tury +2/+0. Możesz aktywować tylko raz "
+"na turę."
 
 #: ../../J21.rst:2379
 msgid ""
@@ -7267,7 +7291,7 @@ msgstr ""
 
 #: ../../J21.rst:2387
 msgid "Bloodbraid Marauder can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../J21.rst:2389
 msgid ""
@@ -7347,6 +7371,8 @@ msgid ""
 "Exile the top card of your library. Until the end of your next turn, you may "
 "play that card."
 msgstr ""
+"Wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę do końca "
+"twojej następnej tury."
 
 #: ../../J21.rst:2411
 msgid "Target creature gets +2/+0 until end of turn."
@@ -7394,6 +7420,8 @@ msgid ""
 "Whenever you cast your third spell each turn, put a +1/+1 counter on Captain "
 "Ripley Vance, then it deals damage equal to its power to any target."
 msgstr ""
+"Ilekroć rzucisz swój trzeci czar danej tury, umieść znacznik +1/+1 na tym "
+"stworze, po czym zadaje on wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../J21.rst:2432
 msgid ""
@@ -7552,6 +7580,8 @@ msgid ""
 "Whenever you cast a noncreature spell, surveil 1. (Look at the top card of "
 "your library. You may put that card into your graveyard.)"
 msgstr ""
+"Ilekroć rzucisz niestworowy czar, szpieguj 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../J21.rst:2485
 msgid ""
@@ -7758,6 +7788,8 @@ msgid ""
 "Exile the top card of your library. During your next turn, you may play that "
 "card."
 msgstr ""
+"Wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę podczas "
+"twojej następnej tury."
 
 #: ../../J21.rst:2549 ../../J21.rst:3113 ../../J21.rst:3291
 msgid ""
@@ -8047,6 +8079,8 @@ msgid ""
 "If an ability of a Shaman or another Wizard you control triggers, that "
 "ability triggers an additional time."
 msgstr ""
+"Jeśli zostanie wyzwolona zdolność Szamana lub innego Czarodzieja, owa "
+"zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../J21.rst:2642
 msgid ""
@@ -8329,6 +8363,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Lightning Spear: It deals 3 damage to any "
 "target."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć ten artefakt: Zadaje on wskazanemu celowi 3 "
+"obrażenia."
 
 #: ../../J21.rst:2731
 msgid "Equip |mana_1|"
@@ -8520,6 +8556,8 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, you may "
 "have that creature deal 1 damage to target player or planeswalker."
 msgstr ""
+"Ilekroć zaatakuje stwór pod twoim władaniem mający znacznik +1/+1, możesz "
+"sprawić, że ów stwór zada wskazanemu stworowi lub wędrowcowi 1 obrażenie."
 
 #: ../../J21.rst:2802
 msgid ""
@@ -8762,7 +8800,7 @@ msgstr ""
 
 #: ../../J21.rst:2887
 msgid "As long as it's your turn, Skophos Reaver gets +2/+0."
-msgstr ""
+msgstr "O ile jest twoje tura, ten stwór dostaje +2/+0."
 
 #: ../../J21.rst:2896
 msgid ""
@@ -8775,6 +8813,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice an artifact: Slag Strider deals 1 damage to any target."
 msgstr ""
+"|mana_1|, poświęć artefakt: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../J21.rst:2902
 msgid ""
