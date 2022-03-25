@@ -1,4 +1,6 @@
 
+.. |CLB_percent| image:: images/pie80.png        
+
 .. |M12_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -205,7 +207,7 @@
 .. |RTR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MMA_percent| image:: images/pie70.png        
+.. |MMA_percent| image:: images/pie75.png        
 
 .. |AER_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
