@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-25 11:52+0000\n"
+"PO-Revision-Date: 2022-03-25 12:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -1664,10 +1664,12 @@ msgid ""
 "When Tide Shaper enters the battlefield, if it was kicked, target land "
 "becomes an Island for as long as Tide Shaper remains on the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, wskazany ląd "
+"staje się Wyspą na czas przebywania tego stwora na polu bitwy."
 
 #: ../../MH2.rst:463
 msgid "Tide Shaper gets +1/+1 as long as an opponent controls an Island."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile przeciwnik włada Wyspą."
 
 #: ../../MH2.rst:470
 msgid ""
@@ -1678,13 +1680,15 @@ msgstr ""
 
 #: ../../MH2.rst:467
 msgid "Vedalken Infiltrator can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../MH2.rst:469
 msgid ""
 "Metalcraft — Vedalken Infiltrator gets +1/+0 as long as you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Ten stwór dostaje +1/+0 o ile władasz co najmniej trzema "
+"artefaktami."
 
 #: ../../MH2.rst:478
 msgid ""
@@ -1726,6 +1730,9 @@ msgid ""
 "opponent sacrifices a creature or planeswalker, discards a card, and loses 3 "
 "life. You draw a card and gain 3 life."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wskazany przeciwnik "
+"poświęca stwora lub wędrowca, odrzuca kartę i traci 3 życia. Dobierz kartę i "
+"zyskaj 3 życia."
 
 #: ../../MH2.rst:490
 msgid ""
@@ -1754,7 +1761,7 @@ msgstr ""
 
 #: ../../MH2.rst:493
 msgid "Destroy target land that is snow or could produce |colorless|."
-msgstr ""
+msgstr "Zniszcz wskazany ląd, który jest śnieżny lub mógłby dać |colorless|."
 
 #: ../../MH2.rst:495
 msgid ""
@@ -1762,6 +1769,9 @@ msgid ""
 "overload cost. If you do, change its text by replacing all instances of "
 "\"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie |mana_4|\\ |mana_b|\\ |mana_b| (Możesz rzucić ten czar za jego "
+"koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH2.rst:502
 msgid ""
@@ -1779,6 +1789,8 @@ msgid ""
 "Threshold — Cabal Initiate gets +1/+2 as long as seven or more cards are in "
 "your graveyard."
 msgstr ""
+"Próg — Ten stwór dostaje +1/+2 o ile co najmniej siedem kart jest w twoim "
+"cmentarzu."
 
 #: ../../MH2.rst:510
 msgid ""
@@ -1816,6 +1828,8 @@ msgstr ""
 msgid ""
 "Destroy target creature. A creature destroyed this way can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego stwora. Stwór zniszczony w ten sposób nie może "
+"regenerować."
 
 #: ../../MH2.rst:515
 msgid ""
@@ -1823,6 +1837,9 @@ msgid ""
 "overload cost. If you do, change its text by replacing all instances of "
 "\"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie |mana_2|\\ |mana_w|\\ |mana_w| (Możesz rzucić ten czar za jego "
+"koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../MH2.rst:524
 msgid ""
@@ -1842,6 +1859,8 @@ msgid ""
 "If a card would be put into an opponent's graveyard from anywhere, instead "
 "exile it with a void counter on it."
 msgstr ""
+"Jeśli karta miałaby trafić skądkolwiek do cmentarza przeciwnika, zamiast "
+"tego wygnaj ją ze znacznikiem pustki."
 
 #: ../../MH2.rst:523
 msgid ""
@@ -1849,6 +1868,9 @@ msgid ""
 "with a void counter on it. You may play it this turn without paying its mana "
 "cost."
 msgstr ""
+"|tap|, poświęć tego stwora: Wybierz wygnaną kartę własności przeciwnika "
+"mającą znacznik pustki. W tej turze możesz zagrać ową kartę bez płacenia jej "
+"kosztu many."
 
 #: ../../MH2.rst:528
 msgid ""
@@ -1894,6 +1916,8 @@ msgid ""
 "Whenever you discard a card, Feast of Sanity deals 1 damage to any target "
 "and you gain 1 life."
 msgstr ""
+"Ilekroć odrzucisz kartę, ten urok zadaje wskazanemu celowi 1 obrażenie, a ty "
+"zyskaj 1 życie."
 
 #: ../../MH2.rst:540
 msgid ""
@@ -1907,6 +1931,8 @@ msgid ""
 "Exile target creature or planeswalker. You gain life equal to the number of "
 "counters on it."
 msgstr ""
+"Wygnaj wskazanego stwora lub wędrowca. Zyskaj życia równe liczbie znaczników "
+"na nim."
 
 #: ../../MH2.rst:544
 msgid ""
@@ -5762,7 +5788,7 @@ msgstr ""
 
 #: ../../MH2.rst:1841
 msgid "Sacrifice an artifact: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Poświęć artefakt: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../MH2.rst:1846
 msgid ""
