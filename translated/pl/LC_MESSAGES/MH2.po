@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-24 12:23+0000\n"
+"PO-Revision-Date: 2022-03-25 11:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -322,7 +322,7 @@ msgid ""
 "artifact creature token with flying, then attach Barbed Spike to it."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
-"artefaktowego stwora Thopter 1/1 z lataniem, po czym dołącz do niego ten "
+"artefaktowego stwora Kopter 1/1 z lataniem, po czym dołącz do niego ten "
 "artefakt."
 
 #: ../../MH2.rst:35
@@ -496,7 +496,7 @@ msgid ""
 "a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"bezkolorwego artefaktowego stwora Thopter 1/1 z lataniem. Aktywuj tylko jako "
+"bezkolorwego artefaktowego stwora Kopter 1/1 z lataniem. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../MH2.rst:94
@@ -861,6 +861,8 @@ msgid ""
 "When Solitude enters the battlefield, exile up to one other target creature. "
 "That creature's controller gains life equal to its power."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej jednego wskazanego "
+"stwora. Władca owego stwora zyskuje życia równe jego sile."
 
 #: ../../MH2.rst:199
 msgid "Evoke—Exile a white card from your hand."
@@ -1003,7 +1005,7 @@ msgstr "Umieszczając ten urok na polu bitwy, dobierz kartę."
 
 #: ../../MH2.rst:251
 msgid "Creatures lose all abilities."
-msgstr ""
+msgstr "Stwory tracą wszystkie zdolności."
 
 #: ../../MH2.rst:253
 msgid "At the beginning of the end step, sacrifice Dress Down."
@@ -1022,7 +1024,7 @@ msgid ""
 "colorless Thopter artifact creature token with flying."
 msgstr ""
 "Ilekroć rzucisz czar o skrócie many 4 lub większym, stwórz żeton "
-"bezkolorowego artefaktowego stwora Thopter 1/1 z lataniem."
+"bezkolorowego artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../MH2.rst:264
 msgid ""
@@ -1221,6 +1223,8 @@ msgid ""
 "Draw X cards, where X is the number of card types among cards in your "
 "graveyard."
 msgstr ""
+"Dobierz X kart, gdzie X jest liczbą typów kart spośród kart w twoim "
+"cmentarzu."
 
 #: ../../MH2.rst:326
 msgid ""
@@ -1271,6 +1275,8 @@ msgid ""
 "Whenever an instant or sorcery card leaves your graveyard, put a +1/+1 "
 "counter on Murktide Regent."
 msgstr ""
+"Ilekroć karta sztuczki lub obrzędu opuszcza twój cmentarza, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../MH2.rst:342
 msgid ""
@@ -1288,6 +1294,8 @@ msgid ""
 "Whenever you discard a card, each opponent mills two cards. (They put the "
 "top two cards of their library into their graveyard.)"
 msgstr ""
+"Ilekroć odrzucisz kartę, każdy przeciwnik mieli po dwie karty. (Umieszcza "
+"dwie wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../MH2.rst:346
 msgid ""
@@ -1315,7 +1323,7 @@ msgstr "Tratowanie"
 msgid ""
 "When Phantasmal Dreadmaw becomes the target of a spell or ability, sacrifice "
 "it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar lub zdolność, poświęć go."
 
 #: ../../MH2.rst:358
 msgid ""
@@ -1333,6 +1341,8 @@ msgid ""
 "Delirium — |mana_2|\\ |mana_u|, |tap|: Draw a card. Activate only if there "
 "are four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — |mana_2|\\ |mana_u|, |tap|: Dobierz kartę. Aktywuj tylko jeśli co "
+"najmniej cztery typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../MH2.rst:362
 msgid ""
@@ -1438,6 +1448,8 @@ msgid ""
 "Delirium — Crabs you control get +1/+1 as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Kraby pod twoim władaniem dostają +1/+1 o ile co najmniej cztery "
+"typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../MH2.rst:396
 msgid ""
@@ -1455,6 +1467,8 @@ msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Put enchanted creature into its owner's "
 "library third from the top."
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_u|: Umieść zauroczonego stwora w bibliotece "
+"właściciela jako trzecią kartę od wierzchu."
 
 #: ../../MH2.rst:404
 msgid ""
@@ -1546,6 +1560,9 @@ msgid ""
 "or planeswalker spell. Its owner puts it on the top or bottom of their "
 "library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wybierz co najwyżej jeden wskazany "
+"czar stwora lub czar wędrowca. Jego właściciel umieszcza go na spodzie "
+"swojej biblioteki."
 
 #: ../../MH2.rst:431
 msgid "Evoke—Exile a blue card from your hand."
@@ -1611,6 +1628,8 @@ msgid ""
 "Converge — Create a 1/1 colorless Thopter artifact creature token with "
 "flying for each color of mana spent to cast this spell."
 msgstr ""
+"Komasowanie — Stwórz żeton bezkolorowego artefaktowego stwora Kopter 1/1 z "
+"lataniem za każdy kolor many użyty do rzucenia tego czaru."
 
 #: ../../MH2.rst:456
 msgid ""
@@ -2496,7 +2515,7 @@ msgid ""
 "Thopter artifact creature token with flying."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
-"artefaktowego stwora Thopter 1/1 z lataniem."
+"artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../MH2.rst:727
 msgid "|tap|, Sacrifice an artifact: Choose one —"

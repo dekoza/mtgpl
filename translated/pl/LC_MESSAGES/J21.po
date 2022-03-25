@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-24 12:23+0000\n"
+"PO-Revision-Date: 2022-03-25 11:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -1154,7 +1154,7 @@ msgid ""
 "artifact creature token with flying, then attach Barbed Spike to it."
 msgstr ""
 "Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
-"artefaktowego stwora Thopter 1/1 z lataniem, po czym dołącz do niego ten "
+"artefaktowego stwora Kopter 1/1 z lataniem, po czym dołącz do niego ten "
 "artefakt."
 
 #: ../../J21.rst:283
@@ -1642,7 +1642,7 @@ msgid ""
 "a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
-"bezkolorwego artefaktowego stwora Thopter 1/1 z lataniem. Aktywuj tylko jako "
+"bezkolorwego artefaktowego stwora Kopter 1/1 z lataniem. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../J21.rst:440
@@ -3151,7 +3151,7 @@ msgid ""
 "artifact creature token with flying."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
-"artefaktowego stwora Thopter 1/1 z lataniem."
+"artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../J21.rst:972
 msgid ""
@@ -3422,7 +3422,7 @@ msgid ""
 "colorless Thopter artifact creature token with flying."
 msgstr ""
 "Ilekroć rzucisz czar o skrócie many 4 lub większym, stwórz żeton "
-"bezkolorowego artefaktowego stwora Thopter 1/1 z lataniem."
+"bezkolorowego artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../J21.rst:1072
 msgid ""
@@ -4243,6 +4243,8 @@ msgid ""
 "Delirium — |mana_2|\\ |mana_u|, |tap|: Draw a card. Activate only if there "
 "are four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — |mana_2|\\ |mana_u|, |tap|: Dobierz kartę. Aktywuj tylko jeśli co "
+"najmniej cztery typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../J21.rst:1370
 msgid ""
@@ -4411,6 +4413,8 @@ msgid ""
 "Delirium — Crabs you control get +1/+1 as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Kraby pod twoim władaniem dostają +1/+1 o ile co najmniej cztery "
+"typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../J21.rst:1424
 msgid ""
@@ -7360,7 +7364,7 @@ msgid ""
 "Thopter artifact creature token with flying."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
-"artefaktowego stwora Thopter 1/1 z lataniem."
+"artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../J21.rst:2407
 msgid "|tap|, Sacrifice an artifact: Choose one —"
