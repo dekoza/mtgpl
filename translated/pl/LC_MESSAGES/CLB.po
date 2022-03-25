@@ -1,24 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-25 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-25 19:54+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/clb/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
@@ -29,223 +31,223 @@ msgstr ""
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 #: ../../symbols.rst:9
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 #: ../../symbols.rst:11
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 #: ../../symbols.rst:15
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 #: ../../symbols.rst:17
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:103
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:105
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:107
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../CLB.rst:5
 msgid ":mtgexp:`CLB` Commander Legends: Battle for Baldur's Gate"
@@ -257,7 +259,7 @@ msgstr ""
 
 #: ../../CLB.rst:9
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../CLB.rst:11
 msgid "Whenever Ancient Brass Dragon deals combat damage to a player, roll a d20. When you do, put any number of target creature cards with mana value X or less from graveyards onto the battlefield under your control, where X is the result."
@@ -269,7 +271,7 @@ msgstr ""
 
 #: ../../CLB.rst:15
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../CLB.rst:17
 msgid "Whenever Elder Brain attacks a player, exile all cards from that player's hand, then they draw that many cards. You may play lands and cast spells from among the exiled cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it."
@@ -282,10 +284,13 @@ msgstr ""
 #: ../../CLB.rst:21
 msgid "This spell costs |mana_1| more to cast for each target beyond the first."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy cel poza pierwszym."
 
 #: ../../CLB.rst:23
 msgid "Fireball deals X damage divided evenly, rounded down, among any number of targets."
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielonych po równo, zaokrąglając w dół, "
+"pomiędzy dowolną liczbę wskazanych celów."
 
 #: ../../CLB.rst:28
 msgid ":mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae5f9fb1-5a55-4db3-98a1-2628e3598c18.jpg?1648155765|https://scryfall.com/card/clb/187/lightning-bolt?utm_source=api>`"
@@ -293,7 +298,7 @@ msgstr ""
 
 #: ../../CLB.rst:27
 msgid "Lightning Bolt deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../CLB.rst:38
 msgid ":mtgtip:`Wand of Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df67ec01-9d4c-4ae1-9c8a-f94d649c81bc.jpg?1648156214|https://scryfall.com/card/clb/204/wand-of-wonder?utm_source=api>`"
@@ -345,7 +350,7 @@ msgstr ""
 
 #: ../../CLB.rst:53
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../CLB.rst:60
 msgid ":mtgtip:`Luxury Suite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fc5fc38-4054-4663-9061-df5455788c4a.jpg?1648155289|https://scryfall.com/card/clb/355/luxury-suite?utm_source=api>`"
@@ -357,7 +362,7 @@ msgstr ""
 
 #: ../../CLB.rst:59
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../CLB.rst:66
 msgid ":mtgtip:`Morphic Pool<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e40927-dd87-42ed-b805-0ae8ba81f5fb.jpg?1648155391|https://scryfall.com/card/clb/357/morphic-pool?utm_source=api>`"
@@ -369,7 +374,7 @@ msgstr ""
 
 #: ../../CLB.rst:65
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../CLB.rst:70
 msgid ":mtgtip:`Reflecting Pool<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a1b3f5-473d-45ca-be0d-e67e77ba30ce.jpg?1648155540|https://scryfall.com/card/clb/358/reflecting-pool?utm_source=api>`"
@@ -378,6 +383,7 @@ msgstr ""
 #: ../../CLB.rst:69
 msgid "|tap|: Add one mana of any type that a land you control could produce."
 msgstr ""
+"|tap|: Weź jedną manę takiego typu, jaki mógłby dać ląd pod twoim władaniem."
 
 #: ../../CLB.rst:76
 msgid ":mtgtip:`Sea of Clouds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4fb722f-40af-4bd1-b660-e8186b98f233.jpg?1648155451|https://scryfall.com/card/clb/360/sea-of-clouds?utm_source=api>`"
@@ -389,7 +395,7 @@ msgstr ""
 
 #: ../../CLB.rst:75
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../CLB.rst:81
 msgid ":mtgtip:`Spire Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72aed540-7833-4442-90a9-aa5468014c65.jpg?1648155497|https://scryfall.com/card/clb/361/spire-garden?utm_source=api>`"
@@ -401,4 +407,4 @@ msgstr ""
 
 #: ../../CLB.rst:81
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
