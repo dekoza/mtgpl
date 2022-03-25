@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-25 12:19+0000\n"
+"PO-Revision-Date: 2022-03-25 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -957,6 +957,7 @@ msgstr ""
 #: ../../MH2.rst:231
 msgid "Entwine |mana_3|\\ |mana_w| (Choose both if you pay the entwine cost.)"
 msgstr ""
+"Splątanie |mana_3|\\ |mana_w| (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../MH2.rst:238
 msgid ""
@@ -2067,6 +2068,8 @@ msgid ""
 "When a creature is put into an opponent's graveyard from the battlefield, "
 "exile Magus of the Bridge."
 msgstr ""
+"Kiedy stwór trafi z pola bitwy do cmentarza przeciwnika, wygnaj niniejszego "
+"stwora."
 
 #: ../../MH2.rst:590
 msgid ""
@@ -2235,12 +2238,15 @@ msgid ""
 "Escape—|mana_4|\\ |mana_b|, Exile five other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_4|\\ |mana_b|, wygnaj pięć innych kart z twojego cmentarza. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../MH2.rst:631
 msgid ""
 "Tizerus Charger escapes with your choice of a +1/+1 counter or a flying "
 "counter on it."
 msgstr ""
+"Ten stwór ucieka mając znacznik wybrany przez ciebie spośród +1/+1 i latania."
 
 #: ../../MH2.rst:642
 msgid ""
@@ -2265,7 +2271,7 @@ msgstr "Ochrona przed białym"
 msgid ""
 "Whenever an opponent discards a card, put a +1/+1 counter on Tourach, Dread "
 "Cantor."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuca kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../MH2.rst:641
 msgid ""
@@ -2306,6 +2312,8 @@ msgid ""
 "Hellbent — That creature gets -13/-13 until end of turn instead if you have "
 "no cards in hand."
 msgstr ""
+"Zaślepienie — Ów stwór zamiast tego dostaje do końca tury -13/-13 jeśli nie "
+"masz kart w ręce."
 
 #: ../../MH2.rst:656
 msgid ""
@@ -2321,6 +2329,9 @@ msgid ""
 "the mana costs of permanents you control counts toward your devotion to "
 "black.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Wiewiór 1/1, ile wynosi twój kult czarnego. (Każdy |mana_b| w kosztach many "
+"permanentów pod twoim władaniem wlicza się do twojego kultu czarnego.)"
 
 #: ../../MH2.rst:660
 msgid ""
@@ -2380,7 +2391,7 @@ msgstr ""
 
 #: ../../MH2.rst:675
 msgid "Enchanted creature gets -4/-4."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -4/-4."
 
 #: ../../MH2.rst:677
 msgid ""
@@ -2527,6 +2538,11 @@ msgid ""
 "You may cast it without paying its mana cost. Put the exiled cards on the "
 "bottom of your library in a random order.)"
 msgstr ""
+"Delirium — Ten czar ma kaskadę o ile co najmniej cztery typy kart są wśród "
+"kart w twoim cmentarzu.(Kiedy rzucisz ten czar, wygnaj karty z wierzchu "
+"twojej biblioteki aż wygnasz nie-lądową kartę o mniejszym skrócie many. "
+"Możesz rzucić ową kartę bez płacenia jej kosztu many. Umieść wygnane karty "
+"losowo na spodzie twojej biblioteki.)"
 
 #: ../../MH2.rst:732
 msgid ""
@@ -3365,6 +3381,7 @@ msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 #: ../../MH2.rst:991
 msgid "Entwine |mana_2|\\ |mana_g| (Choose both if you pay the entwine cost.)"
 msgstr ""
+"Splątanie |mana_2|\\ |mana_g| (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../MH2.rst:998
 msgid ""
