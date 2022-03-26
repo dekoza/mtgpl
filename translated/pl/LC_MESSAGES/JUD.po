@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-21 12:32+0000\n"
+"PO-Revision-Date: 2022-03-26 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jud/pl/>\n"
 "Language: pl\n"
@@ -598,6 +598,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Solitary Confinement unless you "
 "discard a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten urok, chyba że odrzucisz "
+"kartę."
 
 #: ../../JUD.rst:129
 msgid "Skip your draw step."
@@ -609,7 +611,7 @@ msgstr "Masz antymagię. (Nie możesz być wskazywany przez czary i zdolności.)
 
 #: ../../JUD.rst:133
 msgid "Prevent all damage that would be dealt to you."
-msgstr ""
+msgstr "Zażegnaj wszelkie obrażenia, jakie mogłyby zostać tobie zadane."
 
 #: ../../JUD.rst:140
 msgid ""

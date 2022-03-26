@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-26 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nem/pl/>\n"
 "Language: pl\n"
@@ -861,7 +861,7 @@ msgstr ""
 
 #: ../../NEM.rst:221
 msgid "Sacrifice Seal of Removal: Return target creature to its owner's hand."
-msgstr ""
+msgstr "Poświęć ten urok: Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../NEM.rst:226
 msgid ""
@@ -1413,7 +1413,7 @@ msgstr ""
 
 #: ../../NEM.rst:421
 msgid "Flame Rift deals 4 damage to each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu graczowi po 4 obrażenia."
 
 #: ../../NEM.rst:426
 msgid ""
@@ -1597,6 +1597,8 @@ msgid ""
 "If an opponent controls an Island and you control a Mountain, you may cast "
 "this spell without paying its mana cost."
 msgstr ""
+"Jeśli przeciwnik włada Wyspą, a ty władasz Górą, możesz rzucić ten czar bez "
+"płacenia jego kosztu many."
 
 #: ../../NEM.rst:487
 msgid "Destroy target artifact."

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-26 17:50+0000\n"
+"PO-Revision-Date: 2022-03-26 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -4040,12 +4040,16 @@ msgid ""
 "planeswalker card from among them and put it into your hand. Put the rest on "
 "the bottom of your library in a random order."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub umrze wędrowiec pod twoim "
+"władaniem, spójrz na siedem wierzchnich kart twojej biblioteki. Możesz "
+"ujawnić spośród nich kartę wędrowca i umieścić ją w twojej ręce. Umieść "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../MH2.rst:1181
 msgid ""
 "Planeswalkers' loyalty abilities you activate cost an additional [+1] to "
 "activate."
-msgstr ""
+msgstr "Aktywacja zdolności wędrowców kosztuje cię dodatkowe [+1]."
 
 #: ../../MH2.rst:1188
 msgid ""
@@ -4126,6 +4130,8 @@ msgid ""
 "Draw two cards, then discard a card. You gain life equal to the number of "
 "cards you've discarded this turn."
 msgstr ""
+"Dobierz dwie karty, po czym odrzuć kartę. Zyskaj życia równe liczbie kart "
+"odrzuconych przez ciebie w tej turze."
 
 #: ../../MH2.rst:1209
 msgid ""
@@ -4193,6 +4199,8 @@ msgid ""
 "Foundry Helix deals 4 damage to any target. If the sacrificed permanent was "
 "an artifact, you gain 4 life."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 4 obrażenia. Jeśli poświęcony permanent "
+"był artefaktem, zyskaj 4 życia."
 
 #: ../../MH2.rst:1234
 msgid ""
@@ -4208,6 +4216,9 @@ msgid ""
 "of the card with the chosen name. You may cast the copy. (You still pay its "
 "costs.)"
 msgstr ""
+"|tap|: Nazwij kartę, która jeszcze nie została nazwana spośród Disenchant, "
+"Braingeyser, Terror, Shivan Dragon, Regrowth oraz Black Lotus. Stwórz kopię "
+"karty o wybranej nazwie. Możesz rzucić ową kopię. (Nadal płacisz jej koszty.)"
 
 #: ../../MH2.rst:1240
 msgid ""
@@ -4225,6 +4236,8 @@ msgid ""
 "Whenever you cast a multicolored spell, create a 4/4 red and white Golem "
 "artifact creature token."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, stwórz żeton czerwono-białego "
+"artefaktowego stwora Golem 4/4."
 
 #: ../../MH2.rst:1250
 msgid ""
@@ -4235,23 +4248,28 @@ msgstr ""
 
 #: ../../MH2.rst:1243
 msgid "Protection from permanents with corruption counters on them"
-msgstr ""
+msgstr "Ochrona przed permanentami mającymi znacznik rozkładu"
 
 #: ../../MH2.rst:1245
 msgid ""
 "+1: Each opponent loses 2 life and you gain 2 life. Put a corruption counter "
 "on up to one other target creature or planeswalker."
 msgstr ""
+"+1: Każdy przeciwnik traci 2 życia, a ty zyskaj 2 życia. Umieść znacznik "
+"rozkładu na co najwyżej jednym wskazanym stworze lub wędrowcu."
 
 #: ../../MH2.rst:1247
 msgid ""
 "−3: Gain control of target creature or planeswalker until end of turn. Untap "
 "it and put a corruption counter on it. It gains haste until end of turn."
 msgstr ""
+"–3: Zyskaj do końca tury władanie nad wskazanym stworem lub wędrowcem. "
+"Odkręć go i umieść na nim znacznik rozkładu. Do końca tury zyskuje on "
+"pośpiech."
 
 #: ../../MH2.rst:1249
 msgid "−7: Gain control of each permanent with a corruption counter on it."
-msgstr ""
+msgstr "–7: Zyskaj władanie nad każdym permanentem mający znacznik rozkładu."
 
 #: ../../MH2.rst:1254
 msgid ""
@@ -4299,6 +4317,8 @@ msgid ""
 "As long as Grist, the Hunger Tide isn't on the battlefield, it's a 1/1 "
 "Insect creature in addition to its other types."
 msgstr ""
+"O ile ta karta nie jest na polu bitwy, jest dodatkowo stworem Owad 1/1 "
+"oprócz swoich innych typów."
 
 #: ../../MH2.rst:1267
 msgid ""
@@ -4306,18 +4326,25 @@ msgid ""
 "an Insect card was milled this way, put a loyalty counter on Grist and "
 "repeat this process."
 msgstr ""
+"+1: Stwórz żeton czarno-zielonego stwora Owad 1/1, po czym zmiel kartę. "
+"Jeśli w ten sposób zmielono kartę Owada, umieść znacznik lojalności na tym "
+"wędrowcu i powtórz ten proces."
 
 #: ../../MH2.rst:1269
 msgid ""
 "−2: You may sacrifice a creature. When you do, destroy target creature or "
 "planeswalker."
 msgstr ""
+"–2: Możesz poświęcić stwora. Kiedy tak zrobisz, zniszcz wskazanego stwora "
+"lub wędrowca."
 
 #: ../../MH2.rst:1271
 msgid ""
 "−5: Each opponent loses life equal to the number of creature cards in your "
 "graveyard."
 msgstr ""
+"–5: Każdy przeciwnik traci tyle żyć, ile wynosi liczba kart stworów w twoim "
+"cmentarzu."
 
 #: ../../MH2.rst:1276
 msgid ""
@@ -4379,6 +4406,8 @@ msgid ""
 "At the beginning of your upkeep, if Master of Death is in your graveyard, "
 "you may pay 1 life. If you do, return it to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ta karta jest w twoim cmentarzu, "
+"możesz zapłacić 1 życie. Jeśli tak zrobisz, przywróć ją do twojej ręki."
 
 #: ../../MH2.rst:1294
 msgid ""
@@ -4389,11 +4418,11 @@ msgstr ""
 
 #: ../../MH2.rst:1291
 msgid "You can't cast more than one spell each turn."
-msgstr ""
+msgstr "Nie możesz rzucić więcej niż jednego czaru na turę."
 
 #: ../../MH2.rst:1293
 msgid "Whenever you cast a spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, dobierz kartę."
 
 #: ../../MH2.rst:1302
 msgid ""
@@ -4407,10 +4436,14 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Piru, the Volatile unless you pay "
 "|mana_r|\\ |mana_w|\\ |mana_b|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"zapłacisz |mana_r|\\ |mana_w|\\ |mana_b|."
 
 #: ../../MH2.rst:1301
 msgid "When Piru dies, it deals 7 damage to each nonlegendary creature."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on każdemu nielegendarnemu stworowi po 7 "
+"obrażeń."
 
 #: ../../MH2.rst:1308
 msgid ""
@@ -4544,6 +4577,8 @@ msgid ""
 "Ruin deals damage to target creature equal to the number of lands you "
 "control."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi obrażenia równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../MH2.rst:1344
 msgid ""
@@ -4676,6 +4711,8 @@ msgid ""
 "If you would create a Clue, Food, or Treasure token, instead create one of "
 "each."
 msgstr ""
+"Jeśli miałbyś stworzyć żeton Wskazówki, Jadła lub Skarbu, zamiast stwórz po "
+"jednym z każdego."
 
 #: ../../MH2.rst:1388
 msgid ""
@@ -4729,7 +4766,7 @@ msgstr ""
 
 #: ../../MH2.rst:1401
 msgid "When Bottle Golems dies, you gain life equal to its power."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskaj życia równe jego sile."
 
 #: ../../MH2.rst:1406
 msgid ""
@@ -4758,6 +4795,7 @@ msgid ""
 "Imprint — As Dermotaxi enters the battlefield, exile a creature card from a "
 "graveyard."
 msgstr ""
+"Odlew — Umieszczając tę kartę na polu bitwy, wygnaj kartę stwora z cmentarza."
 
 #: ../../MH2.rst:1411
 msgid ""
@@ -4765,6 +4803,9 @@ msgid ""
 "a copy of the exiled card, except it's a Vehicle artifact in addition to its "
 "other types."
 msgstr ""
+"Przekręć dwa odkręcone stwory pod twoim władaniem: Do końca tury ten "
+"artefakt staje się kopią wygnanej karty, ale jest dodatkowo artefaktowym "
+"Pojazdem oprócz swoich innych typów."
 
 #: ../../MH2.rst:1416
 msgid ""
@@ -4793,6 +4834,8 @@ msgid ""
 "|tap|, Discard a card: Fodder Tosser deals 2 damage to target player or "
 "planeswalker."
 msgstr ""
+"|tap|, odrzuć kartę: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 2 "
+"obrażenia."
 
 #: ../../MH2.rst:1430
 msgid ""
@@ -4819,6 +4862,9 @@ msgid ""
 "haste, and \"Whenever this creature deals combat damage to a creature, exile "
 "that creature.\""
 msgstr ""
+"Wyposażony stwór dostaje +5/+5 i ma pierwszy cios, tratowanie, "
+"niezniszczalność, pośpiech oraz \"Ilekroć ten stwór zada stworowi obrażenia "
+"bojowe, wygnaj owego stwora.\""
 
 #: ../../MH2.rst:1429
 msgid "Equip |mana_7|"
@@ -4840,6 +4886,8 @@ msgid ""
 "|tap|: Target nonland permanent becomes an artifact in addition to its other "
 "types until end of turn."
 msgstr ""
+"|tap|: Wskazany nielądowy permanent staje się do końca tury dodatkowo "
+"artefaktem oprócz swoich innych typów."
 
 #: ../../MH2.rst:1442
 msgid ""
@@ -4920,6 +4968,8 @@ msgid ""
 "Domain — This spell costs |mana_2| less to cast for each basic land type "
 "among lands you control."
 msgstr ""
+"Domena — Rzucenie tego czaru kosztuje |mana_2| mniej za każdy typ bazowego "
+"lądu pośród lądów pod twoim władaniem."
 
 #: ../../MH2.rst:1473
 msgid ""
@@ -4927,6 +4977,9 @@ msgid ""
 "blue, lifelink if it's black, first strike if it's red, and trample if it's "
 "green."
 msgstr ""
+"Każdy stwór pod twoim władaniem ma czujność jeśli jest biały, antyklątwę "
+"jeśli jest niebieski, więź życia jeśli jest czarny, pierwszy cios jeśli jest "
+"czerwony i tratowanie jeśli jest zielony."
 
 #: ../../MH2.rst:1480
 msgid ""
@@ -4985,12 +5038,16 @@ msgid ""
 "Steel Dromedary doesn't untap during your untap step if it has a +1/+1 "
 "counter on it."
 msgstr ""
+"Ten stwór nie odkręca się podczas twojego kroku odkręcania jeśli ma znacznik "
+"+1/+1."
 
 #: ../../MH2.rst:1493
 msgid ""
 "At the beginning of combat on your turn, you may move a +1/+1 counter from "
 "Steel Dromedary onto target creature."
 msgstr ""
+"Na początku potyczki w twojej turze, możesz przenieść znacznik +1/+1 z tego "
+"stwora na wskazanego stwora."
 
 #: ../../MH2.rst:1502
 msgid ""
@@ -5004,6 +5061,7 @@ msgstr ""
 msgid ""
 "Equipped creature gets +2/+2 and has protection from green and from white."
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma ochronę przed zielonym i przed białym."
 
 #: ../../MH2.rst:1499
 msgid ""
@@ -5011,6 +5069,10 @@ msgid ""
 "target creature you own, then search your library for a basic land card. Put "
 "both cards onto the battlefield under your control, then shuffle."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, wygnaj co najwyżej "
+"jednego własnego wskazanego stwora, po czym wyszukaj w twojej bibliotece "
+"kartę bazowego lądu. Umieść obie karty na polu bitwy pod twoim władaniem, po "
+"czym przetasuj."
 
 #: ../../MH2.rst:1508
 msgid ""
@@ -5023,7 +5085,7 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Tormod's Cryptkeeper: Exile all cards from target player's "
 "graveyard."
-msgstr ""
+msgstr "|tap|, poświęć tego stwora: Wygnaj cmentarz wskazanego gracza."
 
 #: ../../MH2.rst:1514
 msgid ""
@@ -5037,6 +5099,8 @@ msgid ""
 "|tap|, Discard a card: Create a Food token. (It's an artifact with \"|"
 "mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
+"|tap|, odrzuć kartę: Stwórz żeton Jadła. (To artefakt mający \"|mana_2|, "
+"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../MH2.rst:1513
 msgid ""
@@ -5073,6 +5137,8 @@ msgid ""
 "Whenever a player casts a spell, if no colored mana was spent to cast it, "
 "counter that spell."
 msgstr ""
+"Ilekroć gracz rzuci czar, jeśli do rzucenia go nie była użyta kolorowa mana, "
+"skontruj ów czar."
 
 #: ../../MH2.rst:1534
 msgid ""
@@ -5142,7 +5208,7 @@ msgstr ""
 
 #: ../../MH2.rst:1549
 msgid "Drossforge Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1553
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -5157,7 +5223,7 @@ msgstr ""
 
 #: ../../MH2.rst:1557
 msgid "Goldmire Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1561
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -5224,6 +5290,8 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast artifact "
 "spells or activate abilities of artifacts."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj tę manę tylko na rzucenie "
+"czarów artefaktów lub aktywację zdolności artefaktów."
 
 #: ../../MH2.rst:1596
 msgid ""
@@ -5279,7 +5347,7 @@ msgstr ""
 
 #: ../../MH2.rst:1611
 msgid "Silverbluff Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1615
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -5309,7 +5377,7 @@ msgstr ""
 
 #: ../../MH2.rst:1627
 msgid "Tanglepool Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1631
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -5324,7 +5392,7 @@ msgstr ""
 
 #: ../../MH2.rst:1635
 msgid "Thornglint Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MH2.rst:1639
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -5392,7 +5460,7 @@ msgstr ""
 
 #: ../../MH2.rst:1657
 msgid "Each land is a Forest in addition to its other land types."
-msgstr ""
+msgstr "Każdy ląd jest dodatkowo Lasem oprócz swoich innych typów."
 
 #: ../../MH2.rst:1662
 msgid ""
@@ -5403,7 +5471,7 @@ msgstr ""
 
 #: ../../MH2.rst:1661
 msgid "Flying, protection from artifacts"
-msgstr ""
+msgstr "Latanie, ochrona przed artefaktami"
 
 #: ../../MH2.rst:1670
 msgid ""
@@ -5457,6 +5525,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Solitary Confinement unless you "
 "discard a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten urok, chyba że odrzucisz "
+"kartę."
 
 #: ../../MH2.rst:1679
 msgid "Skip your draw step."
@@ -5468,7 +5538,7 @@ msgstr "Masz antymagię. (Nie możesz być wskazywany przez czary i zdolności.)
 
 #: ../../MH2.rst:1683
 msgid "Prevent all damage that would be dealt to you."
-msgstr ""
+msgstr "Zażegnaj wszelkie obrażenia, jakie mogłyby zostać tobie zadane."
 
 #: ../../MH2.rst:1688
 msgid ""
@@ -5482,6 +5552,8 @@ msgid ""
 "|mana_w|, Sacrifice Soul Snare: Exile target creature that's attacking you "
 "or a planeswalker you control."
 msgstr ""
+"|mana_w|, poświęć ten urok: Wygnaj wskazanego stwora atakującego ciebie lub "
+"wędrowca pod twoim władaniem."
 
 #: ../../MH2.rst:1692
 msgid ""
@@ -5518,7 +5590,7 @@ msgstr ""
 
 #: ../../MH2.rst:1701
 msgid "Sacrifice Seal of Removal: Return target creature to its owner's hand."
-msgstr ""
+msgstr "Poświęć ten urok: Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../MH2.rst:1706
 msgid ""
@@ -5529,7 +5601,7 @@ msgstr ""
 
 #: ../../MH2.rst:1705
 msgid "Return all permanents to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie permanenty do rąk ich właścicieli."
 
 #: ../../MH2.rst:1712
 msgid ""
@@ -5559,6 +5631,9 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_2|\\ |mana_b| (Na początku twojego kroku utrzymania, jeśli ten "
+"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../MH2.rst:1719
 msgid ""
@@ -5606,6 +5681,8 @@ msgid ""
 "Each player chooses a creature type. Each player returns all creature cards "
 "of a type chosen this way from their graveyard to the battlefield."
 msgstr ""
+"Każdy gracz wybiera typ stwora. Każdy gracz przywraca wszystkie karty "
+"stworów o typie wybranym w ten sposób ze swojego cmentarza na pole bitwy."
 
 #: ../../MH2.rst:1738
 msgid ""
@@ -5627,13 +5704,15 @@ msgstr ""
 
 #: ../../MH2.rst:1741
 msgid "Whenever you win a coin flip, put a luck counter on Chance Encounter."
-msgstr ""
+msgstr "Ilekroć wygrasz rzut monetą, umieść znacznik szczęścia na tym uroku."
 
 #: ../../MH2.rst:1743
 msgid ""
 "At the beginning of your upkeep, if Chance Encounter has ten or more luck "
 "counters on it, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ten urok ma co najmniiej "
+"dziesięć znaczników szczęścia, wygrywasz."
 
 #: ../../MH2.rst:1748
 msgid ""
@@ -5644,7 +5723,7 @@ msgstr ""
 
 #: ../../MH2.rst:1747
 msgid "Flame Rift deals 4 damage to each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu graczowi po 4 obrażenia."
 
 #: ../../MH2.rst:1752
 msgid ""
@@ -5655,7 +5734,7 @@ msgstr ""
 
 #: ../../MH2.rst:1751
 msgid "Sacrifice a creature: Goblin Bombardment deals 1 damage to any target."
-msgstr ""
+msgstr "Poświęć stwora: Ten urok zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MH2.rst:1756
 msgid ""
@@ -5669,6 +5748,8 @@ msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target noncreature artifact with "
 "mana value X."
 msgstr ""
+"|mana_x|\\ |mana_x|\\ |mana_1|: Zniszcz wskazany niestworowy artefakt o "
+"skrócie many X."
 
 #: ../../MH2.rst:1760
 msgid ""
@@ -5699,6 +5780,8 @@ msgid ""
 "If an opponent controls an Island and you control a Mountain, you may cast "
 "this spell without paying its mana cost."
 msgstr ""
+"Jeśli przeciwnik włada Wyspą, a ty władasz Górą, możesz rzucić ten czar bez "
+"płacenia jego kosztu many."
 
 #: ../../MH2.rst:1770
 msgid ""
@@ -5761,6 +5844,8 @@ msgid ""
 "When Titania, Protector of Argoth enters the battlefield, return target land "
 "card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę lądu z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../MH2.rst:1789
 msgid ""
@@ -5787,7 +5872,7 @@ msgstr ""
 
 #: ../../MH2.rst:1795
 msgid "|mana_2|, Sacrifice Yavimaya Elder: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 
 #: ../../MH2.rst:1802
 msgid ""
@@ -5937,6 +6022,9 @@ msgid ""
 "control since the beginning of your last upkeep, sacrifice it unless you pay "
 "its echo cost.)"
 msgstr ""
+"Echo |mana_4| (Na początku twojego kroku utrzymania, jeśli ten permanent "
+"wszedł pod twoje władanie po początku twojego poprzedniego kroku utrzymania, "
+"poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../MH2.rst:1841
 msgid "Sacrifice an artifact: Put a +1/+1 counter on target creature."
