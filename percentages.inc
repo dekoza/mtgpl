@@ -153,14 +153,14 @@
 .. |KLD_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MH2_percent| image:: images/pie75.png        
+.. |MH2_percent| image:: images/pie85.png        
 
 .. |IKO_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
 .. |INV_percent| image:: images/pie40.png        
 
-.. |WTH_percent| image:: images/pie45.png        
+.. |WTH_percent| image:: images/pie50.png        
 
 .. |SCG_percent| image:: images/pie50.png        
 
@@ -181,7 +181,8 @@
 .. |E02_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |J21_percent| image:: images/pie95.png        
+.. |J21_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |KHM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
