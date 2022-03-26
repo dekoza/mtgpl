@@ -1242,7 +1242,7 @@
 :mtgtip:`Temple of Abandon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46febc5d-1625-4e48-bb3f-31ee06fc13dd.jpg?1562817494|https://scryfall.com/card/ths/224/temple-of-abandon?utm_source=api>`
    Temple of Abandon enters the battlefield tapped.
 
-   When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Abandon enters the battlefield, scry 1.
 
    |tap|: Add |mana_r| or |mana_g|.
 
@@ -1250,7 +1250,7 @@
 :mtgtip:`Temple of Deceit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/686559d7-8ac1-496b-a5a6-1467bf8fc7c5.jpg?1562819288|https://scryfall.com/card/ths/225/temple-of-deceit?utm_source=api>`
    Temple of Deceit enters the battlefield tapped.
 
-   When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Deceit enters the battlefield, scry 1.
 
    |tap|: Add |mana_u| or |mana_b|.
 

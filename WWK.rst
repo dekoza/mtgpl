@@ -708,7 +708,7 @@
 :mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/529c38b3-7397-4dac-9859-acd9cd451c32.jpg?1562287264|https://scryfall.com/card/wwk/132/bojuka-bog?utm_source=api>`
    Bojuka Bog enters the battlefield tapped.
 
-   When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+   When Bojuka Bog enters the battlefield, exile target player's graveyard.
 
    |tap|: Add |mana_b|.
 

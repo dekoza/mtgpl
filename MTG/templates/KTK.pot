@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1582,7 +1582,7 @@ msgid ":mtgtip:`Burn Away<https://c1.scryfall.com/file/scryfall-cards/border_cro
 msgstr ""
 
 #: ../../KTK.rst:563
-msgid "Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard."
+msgid "Burn Away deals 6 damage to target creature. When that creature dies this turn, exile its controller's graveyard."
 msgstr ""
 
 #: ../../KTK.rst:568

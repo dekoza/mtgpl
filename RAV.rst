@@ -723,7 +723,7 @@
    |mana_1|\ |mana_r|: Creatures without defender can't block Sabertooth Alley Cat this turn.
 
 
-:mtgtip:`Seismic Spike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9caddbe-1329-4ac2-9071-6fc5059d4dec.jpg?1598915852|https://scryfall.com/card/rav/141/seismic-spike?utm_source=api>`
+:mtgtip:`Seismic Spike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9caddbe-1329-4ac2-9071-6fc5059d4dec.jpg?1636283728|https://scryfall.com/card/rav/141/seismic-spike?utm_source=api>`
    Destroy target land. Add |mana_r|\ |mana_r|.
 
 

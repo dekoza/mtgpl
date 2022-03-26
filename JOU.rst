@@ -304,7 +304,7 @@
 
 
 :mtgtip:`Agent of Erebos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620|https://scryfall.com/card/jou/59/agent-of-erebos?utm_source=api>`
-   Constellation — Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard.
+   Constellation — Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile target player's graveyard.
 
 
 :mtgtip:`Aspect of Gorgon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be8956d0-5502-415d-bead-d8bbddf9871d.jpg?1593095628|https://scryfall.com/card/jou/60/aspect-of-gorgon?utm_source=api>`

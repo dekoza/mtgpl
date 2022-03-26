@@ -560,7 +560,7 @@
 
 
 :mtgtip:`Burn Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4b24e40-c0f0-4472-973e-d3b0e88fc93e.jpg?1562795996|https://scryfall.com/card/ktk/104/burn-away?utm_source=api>`
-   Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.
+   Burn Away deals 6 damage to target creature. When that creature dies this turn, exile its controller's graveyard.
 
 
 :mtgtip:`Canyon Lurkers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef6c56d1-6eca-43be-9834-0478bea67b48.jpg?1562795756|https://scryfall.com/card/ktk/105/canyon-lurkers?utm_source=api>`

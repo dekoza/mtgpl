@@ -586,7 +586,7 @@
 :mtgtip:`Ravenous Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4540013-11f9-4a8b-ad54-61f467f04756.jpg?1562618344|https://scryfall.com/card/zen/109/ravenous-trap?utm_source=api>`
    If an opponent had three or more cards put into their graveyard from anywhere this turn, you may pay |mana_0| rather than pay this spell's mana cost.
 
-   Exile all cards from target player's graveyard.
+   Exile target player's graveyard.
 
 
 :mtgtip:`Sadistic Sacrament<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3d82fd7-6af1-4a97-9d51-486a41224b35.jpg?1562618318|https://scryfall.com/card/zen/110/sadistic-sacrament?utm_source=api>`

@@ -911,7 +911,7 @@
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Selesnya Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90198725-0cd3-4650-9575-c22674aa4185.jpg?1562921766|https://scryfall.com/card/dgm/155/selesnya-guildgate?utm_source=api>`
+:mtgtip:`Selesnya Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90198725-0cd3-4650-9575-c22674aa4185.jpg?1636491223|https://scryfall.com/card/dgm/155/selesnya-guildgate?utm_source=api>`
    Selesnya Guildgate enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_w|.

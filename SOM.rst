@@ -441,7 +441,7 @@
    Whenever you cast an artifact spell, you may pay |mana_1|. If you do, Embersmith deals 1 damage to any target.
 
 
-:mtgtip:`Ferrovore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dcc7170-38d9-4b9e-a5f9-73ac1208c439.jpg?1562820193|https://scryfall.com/card/som/88/ferrovore?utm_source=api>`
+:mtgtip:`Ferrovore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dcc7170-38d9-4b9e-a5f9-73ac1208c439.jpg?1636491206|https://scryfall.com/card/som/88/ferrovore?utm_source=api>`
    |mana_r|, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.
 
 
@@ -970,7 +970,7 @@
 
 
 :mtgtip:`Nihil Spellbomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/603d217b-6375-46fc-992a-8dbd779da1e5.jpg?1562818207|https://scryfall.com/card/som/187/nihil-spellbomb?utm_source=api>`
-   |tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+   |tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard.
 
    When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay |mana_b|. If you do, draw a card.
 
