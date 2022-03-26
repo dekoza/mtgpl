@@ -43,7 +43,7 @@ Nadchodzące
 -----------
 
 * :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` Premiera: 2022-04-29
-
+* :mtgexp:`CLB` :doc:`Commander Legends: Battle for Baldur's Gate<CLB>` Premiera: 2022-06-10
 
 Standard
 --------
