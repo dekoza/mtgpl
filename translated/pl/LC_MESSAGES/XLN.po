@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-26 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/xln/pl/>\n"
 "Language: pl\n"
@@ -4259,11 +4259,8 @@ msgstr ""
 "biblioteki.)"
 
 #: ../../XLN.rst:1283
-#, fuzzy
-#| msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
 msgid "|tap|, Exile Sentinel Totem: Exile all graveyards."
-msgstr ""
-"|tap|: Wygnaj tę kartę: Wygnaj wszystkie karty ze wszystkich cmentarzy."
+msgstr "|tap|: Wygnaj tę kartę: Wygnaj wszystkie cmentarze."
 
 #: ../../XLN.rst:1290
 msgid ""

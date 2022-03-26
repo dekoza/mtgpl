@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-26 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -1932,10 +1932,8 @@ msgstr ""
 "czaru."
 
 #: ../../ZEN.rst:589
-#, fuzzy
-#| msgid "Exile all cards from target player's graveyard."
 msgid "Exile target player's graveyard."
-msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
+msgstr "Wygnaj cmentarz wskazanego gracza."
 
 #: ../../ZEN.rst:596
 msgid ""

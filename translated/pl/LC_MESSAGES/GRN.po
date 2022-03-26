@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:33+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-26 19:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/grn/pl/>\n"
 "Language: pl\n"
@@ -1996,10 +1996,8 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:621
-#, fuzzy
-#| msgid "Target creature gets +1/+1 and gains haste until end of turn."
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +1/+1 oraz pośpiech."
+msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
 
 #: ../../GRN.rst:628
 msgid ""
