@@ -547,7 +547,7 @@
    Whenever Eye Collector deals combat damage to a player, each player mills a card.
 
 
-:mtgtip:`Festive Funeral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90a90af0-eb40-40da-bf4b-f0af687c6430.jpg?1572490133|https://scryfall.com/card/eld/87/festive-funeral?utm_source=api>`
+:mtgtip:`Festive Funeral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90a90af0-eb40-40da-bf4b-f0af687c6430.jpg?1636491510|https://scryfall.com/card/eld/87/festive-funeral?utm_source=api>`
    Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.
 
 
@@ -777,7 +777,7 @@
    Attacking non-Human creatures you control get +1/+0 and have trample.
 
 
-:mtgtip:`Fervent Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c52d66db-5570-48a1-99cf-e0417517747b.jpg?1626162176|https://scryfall.com/card/eld/124/fervent-champion?utm_source=api>`
+:mtgtip:`Fervent Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c52d66db-5570-48a1-99cf-e0417517747b.jpg?1636491502|https://scryfall.com/card/eld/124/fervent-champion?utm_source=api>`
    First strike, haste
 
    Whenever Fervent Champion attacks, another target attacking Knight you control gets +1/+0 until end of turn.
@@ -786,6 +786,12 @@
 
 
 :mtgtip:`Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1628801715|https://scryfall.com/card/eld/125/fires-of-invention?utm_source=api>`
+   You can cast spells only during your turn and you can cast no more than two spells each turn.
+
+   You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
+
+
+:mtgtip:`A-Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24729f25-e900-4a71-a304-7346eb17990a.jpg?1646219063|https://scryfall.com/card/eld/A-125/a-fires-of-invention?utm_source=api>`
    You can cast spells only during your turn and you can cast no more than two spells each turn.
 
    You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
@@ -857,7 +863,7 @@
    Whenever Robber of the Rich attacks, if defending player has more cards in hand than you, exile the top card of their library. During any turn you attacked with a Rogue, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.
 
 
-:mtgtip:`Scorching Dragonfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b74a806-ed74-458e-8903-d3d084e9f507.jpg?1572490445|https://scryfall.com/card/eld/139/scorching-dragonfire?utm_source=api>`
+:mtgtip:`Scorching Dragonfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b74a806-ed74-458e-8903-d3d084e9f507.jpg?1636491470|https://scryfall.com/card/eld/139/scorching-dragonfire?utm_source=api>`
    Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.
 
 
@@ -1565,7 +1571,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Kenrith, the Returned King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1571282458|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`
+:mtgtip:`Kenrith, the Returned King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1637568481|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`
    |mana_r|: All creatures gain trample and haste until end of turn.
 
    |mana_1|\ |mana_g|: Put a +1/+1 counter on target creature.

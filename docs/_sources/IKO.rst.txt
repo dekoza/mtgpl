@@ -17,7 +17,7 @@
    When Farfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Mysterious Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1591230186|https://scryfall.com/card/iko/3/mysterious-egg?utm_source=api>`
+:mtgtip:`Mysterious Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1636491428|https://scryfall.com/card/iko/3/mysterious-egg?utm_source=api>`
    Whenever this creature mutates, put a +1/+1 counter on it.
 
 
@@ -29,7 +29,7 @@
    |mana_1|\ |mana_w|, |tap|: Tap target creature.
 
 
-:mtgtip:`Coordinated Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/129c404b-2c1e-4f0b-bb4e-7e8e627a69a8.jpg?1591230207|https://scryfall.com/card/iko/6/coordinated-charge?utm_source=api>`
+:mtgtip:`Coordinated Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/129c404b-2c1e-4f0b-bb4e-7e8e627a69a8.jpg?1636491416|https://scryfall.com/card/iko/6/coordinated-charge?utm_source=api>`
    Creatures you control get +2/+1 until end of turn.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
@@ -281,7 +281,7 @@
    Whenever you cycle a card, you may pay |mana_1|. When you do, exile target artifact or creature you control, then return it to the battlefield under its owner's control.
 
 
-:mtgtip:`Essence Scatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f79c8a0-291e-4e13-b765-4cf8c726cf30.jpg?1591291406|https://scryfall.com/card/iko/49/essence-scatter?utm_source=api>`
+:mtgtip:`Essence Scatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f79c8a0-291e-4e13-b765-4cf8c726cf30.jpg?1636491405|https://scryfall.com/card/iko/49/essence-scatter?utm_source=api>`
    Counter target creature spell.
 
 
@@ -829,7 +829,7 @@
    Bristling Boar can't be blocked by more than one creature.
 
 
-:mtgtip:`Charge of the Forever-Beast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bf147a6-2282-4120-9cbd-d0309fc9b02b.jpg?1591227553|https://scryfall.com/card/iko/147/charge-of-the-forever-beast?utm_source=api>`
+:mtgtip:`Charge of the Forever-Beast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4bf147a6-2282-4120-9cbd-d0309fc9b02b.jpg?1636491395|https://scryfall.com/card/iko/147/charge-of-the-forever-beast?utm_source=api>`
    As an additional cost to cast this spell, reveal a creature card from your hand.
 
    Charge of the Forever-Beast deals damage to target creature or planeswalker equal to the revealed card's power.
@@ -1233,7 +1233,7 @@
    Whenever you cast a noncreature spell, draw a card.
 
 
-:mtgtip:`Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1628801860|https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api>`
+:mtgtip:`Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1632831221|https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api>`
    Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
 
 
@@ -1247,7 +1247,7 @@
    At the beginning of your end step, you gain 1 life for each creature you control with vigilance.
 
 
-:mtgtip:`Cunning Nightbonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1614877603|https://scryfall.com/card/iko/219/cunning-nightbonder?utm_source=api>`
+:mtgtip:`Cunning Nightbonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1636491385|https://scryfall.com/card/iko/219/cunning-nightbonder?utm_source=api>`
    Flash
 
    Spells with flash you cast cost |mana_1| less to cast and can't be countered.
@@ -1291,7 +1291,7 @@
    When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with mana value 3 or greater.
 
 
-:mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1616182245|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
+:mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1646666246|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
    Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Lifelink
@@ -1435,7 +1435,7 @@
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Indatha Triome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b74bb81-fb9a-40e5-a941-e517430b52f5.jpg?1591228641|https://scryfall.com/card/iko/248/indatha-triome?utm_source=api>`
+:mtgtip:`Indatha Triome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b74bb81-fb9a-40e5-a941-e517430b52f5.jpg?1636491374|https://scryfall.com/card/iko/248/indatha-triome?utm_source=api>`
    (|tap|: Add |mana_w|, |mana_b|, or |mana_g|.)
 
    Indatha Triome enters the battlefield tapped.

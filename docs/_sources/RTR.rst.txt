@@ -88,7 +88,7 @@
 
 
 :mtgtip:`Rest in Peace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1562784882|https://scryfall.com/card/rtr/18/rest-in-peace?utm_source=api>`
-   When Rest in Peace enters the battlefield, exile all cards from all graveyards.
+   When Rest in Peace enters the battlefield, exile all graveyards.
 
    If a card or token would be put into a graveyard from anywhere, exile it instead.
 
@@ -954,7 +954,7 @@
 :mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fcd4394-d22d-4eec-ad73-ffaf10ad60de.jpg?1562782720|https://scryfall.com/card/rtr/184/rakdos-charm?utm_source=api>`
    Choose one —
 
-   • Exile all cards from target player's graveyard.
+   • Exile target player's graveyard.
 
    • Destroy target artifact.
 
@@ -1213,7 +1213,7 @@
    Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Pithing Needle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/786c1e91-9d75-46a3-9e0d-56d29fcb01a7.jpg?1562788458|https://scryfall.com/card/rtr/231/pithing-needle?utm_source=api>`
+:mtgtip:`Pithing Needle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/786c1e91-9d75-46a3-9e0d-56d29fcb01a7.jpg?1633160927|https://scryfall.com/card/rtr/231/pithing-needle?utm_source=api>`
    As Pithing Needle enters the battlefield, choose a card name.
 
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.

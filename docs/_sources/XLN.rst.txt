@@ -826,7 +826,7 @@
 
 
 :mtgtip:`Sure Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/5370060a-653b-453d-8daf-bef46f9bb4d5.jpg?1562555467|https://scryfall.com/card/xln/166/sure-strike?utm_source=api>`
-   Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+   Target creature gets +3/+0 and gains first strike until end of turn.
 
 
 :mtgtip:`Swashbuckling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01ed59b1-968b-4297-9e98-42d940f9478c.jpg?1562549791|https://scryfall.com/card/xln/167/swashbuckling?utm_source=api>`
@@ -1280,7 +1280,7 @@
 :mtgtip:`Sentinel Totem<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d8097eb-518a-4b8e-8d6a-a139d4ddcc8f.jpg?1562550594|https://scryfall.com/card/xln/245/sentinel-totem?utm_source=api>`
    When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-   |tap|, Exile Sentinel Totem: Exile all cards from all graveyards.
+   |tap|, Exile Sentinel Totem: Exile all graveyards.
 
 
 :mtgtip:`Shadowed Caravel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b28ab3ed-32cd-4168-9763-96884491aaa1.jpg?1562562453|https://scryfall.com/card/xln/246/shadowed-caravel?utm_source=api>`

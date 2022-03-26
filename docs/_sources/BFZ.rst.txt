@@ -862,7 +862,7 @@
 
 
 :mtgtip:`Sure Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/074dd176-4608-42ca-8fc3-c7040cd7b32e.jpg?1562896719|https://scryfall.com/card/bfz/157/sure-strike?utm_source=api>`
-   Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+   Target creature gets +3/+0 and gains first strike until end of turn.
 
 
 :mtgtip:`Tunneling Geopede<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4071152-5e64-4133-88a2-8fa5cb0eeb6c.jpg?1562945525|https://scryfall.com/card/bfz/158/tunneling-geopede?utm_source=api>`

@@ -1177,7 +1177,7 @@
    You gain X life if |mana_g| was spent to cast this spell and X life if |mana_w| was spent to cast this spell. (Do both if |mana_g|\ |mana_w| was spent.)
 
 
-:mtgtip:`Elvish Hexhunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2b7f4d7-278b-45fc-98aa-b7c8b9162bcd.jpg?1562835591|https://scryfall.com/card/shm/226/elvish-hexhunter?utm_source=api>`
+:mtgtip:`Elvish Hexhunter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2b7f4d7-278b-45fc-98aa-b7c8b9162bcd.jpg?1636491193|https://scryfall.com/card/shm/226/elvish-hexhunter?utm_source=api>`
    |mana_gw|, |tap|, Sacrifice Elvish Hexhunter: Destroy target enchantment.
 
 

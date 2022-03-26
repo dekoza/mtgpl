@@ -43,7 +43,7 @@
    Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.
 
 
-:mtgtip:`Citadel Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/239c373a-465c-4cda-9895-624871d8606e.jpg?1562823344|https://scryfall.com/card/frf/8/citadel-siege?utm_source=api>`
+:mtgtip:`Citadel Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/239c373a-465c-4cda-9895-624871d8606e.jpg?1648060693|https://scryfall.com/card/frf/8/citadel-siege?utm_source=api>`
    As Citadel Siege enters the battlefield, choose Khans or Dragons.
 
    • Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.
@@ -164,7 +164,7 @@
 :mtgtip:`Valorous Stance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65998e94-15a0-41f1-8288-730b957f81df.jpg?1562825972|https://scryfall.com/card/frf/28/valorous-stance?utm_source=api>`
    Choose one —
 
-   • Target creature gains indestructible until end of turn.
+   • Target creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
    • Destroy target creature with toughness 4 or greater.
 
@@ -255,7 +255,7 @@
    Whenever you cast a noncreature spell, target creature gains flying until end of turn.
 
 
-:mtgtip:`Monastery Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eef398b5-38f7-4a11-8fcf-d4e0d27267cf.jpg?1562831376|https://scryfall.com/card/frf/43/monastery-siege?utm_source=api>`
+:mtgtip:`Monastery Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eef398b5-38f7-4a11-8fcf-d4e0d27267cf.jpg?1648060707|https://scryfall.com/card/frf/43/monastery-siege?utm_source=api>`
    As Monastery Siege enters the battlefield, choose Khans or Dragons.
 
    • Khans — At the beginning of your draw step, draw an additional card, then discard a card.
@@ -373,7 +373,7 @@
    |mana_3|\ |mana_rw|\ |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block.
 
 
-:mtgtip:`Crux of Fate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1d45374-a41b-4b3f-a7c8-3eb5ca767cf6.jpg?1562830753|https://scryfall.com/card/frf/65/crux-of-fate?utm_source=api>`
+:mtgtip:`Crux of Fate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1d45374-a41b-4b3f-a7c8-3eb5ca767cf6.jpg?1648060698|https://scryfall.com/card/frf/65/crux-of-fate?utm_source=api>`
    Choose one —
 
    • Destroy all Dragon creatures.
@@ -443,7 +443,7 @@
    Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.
 
 
-:mtgtip:`Palace Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ee5a83-7096-4cbd-ad16-eb839d293d88.jpg?1562830433|https://scryfall.com/card/frf/79/palace-siege?utm_source=api>`
+:mtgtip:`Palace Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ee5a83-7096-4cbd-ad16-eb839d293d88.jpg?1648060718|https://scryfall.com/card/frf/79/palace-siege?utm_source=api>`
    As Palace Siege enters the battlefield, choose Khans or Dragons.
 
    • Khans — At the beginning of your upkeep, return target creature card from your graveyard to your hand.
@@ -609,7 +609,7 @@
    • Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.
 
 
-:mtgtip:`Outpost Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/880f6602-f335-4ad8-9e2f-f32b6d715f72.jpg?1562827344|https://scryfall.com/card/frf/110/outpost-siege?utm_source=api>`
+:mtgtip:`Outpost Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/880f6602-f335-4ad8-9e2f-f32b6d715f72.jpg?1648060713|https://scryfall.com/card/frf/110/outpost-siege?utm_source=api>`
    As Outpost Siege enters the battlefield, choose Khans or Dragons.
 
    • Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.
@@ -723,7 +723,7 @@
    Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater.
 
 
-:mtgtip:`Frontier Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a474981a-581a-49c0-a036-87afaaeea7ef.jpg?1562828387|https://scryfall.com/card/frf/131/frontier-siege?utm_source=api>`
+:mtgtip:`Frontier Siege<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a474981a-581a-49c0-a036-87afaaeea7ef.jpg?1648060702|https://scryfall.com/card/frf/131/frontier-siege?utm_source=api>`
    As Frontier Siege enters the battlefield, choose Khans or Dragons.
 
    • Khans — At the beginning of each of your main phases, add |mana_g|\ |mana_g|.

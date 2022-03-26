@@ -920,7 +920,7 @@
 :mtgtip:`Crook of Condemnation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78f6d7c2-ee4f-4cd0-a9a2-d8469ff89291.jpg?1562804264|https://scryfall.com/card/hou/159/crook-of-condemnation?utm_source=api>`
    |mana_1|, |tap|: Exile target card from a graveyard.
 
-   |mana_1|, Exile Crook of Condemnation: Exile all cards from all graveyards.
+   |mana_1|, Exile Crook of Condemnation: Exile all graveyards.
 
 
 :mtgtip:`Dagger of the Worthy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abe9d9d7-bc4e-4367-b27c-e8d6e430467e.jpg?1562810453|https://scryfall.com/card/hou/160/dagger-of-the-worthy?utm_source=api>`
@@ -1072,7 +1072,7 @@
 :mtgtip:`Scavenger Grounds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6cd91eeb-7abf-4538-91dc-47c736dfc237.jpg?1562802684|https://scryfall.com/card/hou/182/scavenger-grounds?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards.
+   |mana_2|, |tap|, Sacrifice a Desert: Exile all graveyards.
 
 
 :mtgtip:`Shefet Dunes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/6077f4e9-5717-4048-b798-4f8d535a4170.jpg?1562801103|https://scryfall.com/card/hou/183/shefet-dunes?utm_source=api>`

@@ -892,7 +892,7 @@
 :mtgtip:`Temple of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c657a645-f454-4eaf-be0d-15c9989fa4ef.jpg?1593092908|https://scryfall.com/card/bng/163/temple-of-enlightenment?utm_source=api>`
    Temple of Enlightenment enters the battlefield tapped.
 
-   When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Enlightenment enters the battlefield, scry 1.
 
    |tap|: Add |mana_w| or |mana_u|.
 
@@ -900,7 +900,7 @@
 :mtgtip:`Temple of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52f50818-aede-4667-883a-e0339d86d870.jpg?1593092918|https://scryfall.com/card/bng/164/temple-of-malice?utm_source=api>`
    Temple of Malice enters the battlefield tapped.
 
-   When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Malice enters the battlefield, scry 1.
 
    |tap|: Add |mana_b| or |mana_r|.
 
@@ -908,7 +908,7 @@
 :mtgtip:`Temple of Plenty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0830054-b140-49c3-90cb-24e2502757be.jpg?1593092928|https://scryfall.com/card/bng/165/temple-of-plenty?utm_source=api>`
    Temple of Plenty enters the battlefield tapped.
 
-   When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Plenty enters the battlefield, scry 1.
 
    |tap|: Add |mana_g| or |mana_w|.
 

@@ -528,7 +528,7 @@
 
 
 :mtgtip:`Stormrider Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0fb4be-df73-43a9-bd48-fd47a4190fc1.jpg?1576384269|https://scryfall.com/card/soi/91/stormrider-spirit?utm_source=api>`
-   Flash (You may cast this spell any time you could cast an instant.)
+   Flash
 
    Flying
 

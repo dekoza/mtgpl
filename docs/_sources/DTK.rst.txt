@@ -582,7 +582,7 @@
 
 
 :mtgtip:`Hedonist's Trove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2b73bbf-39a8-4358-9af6-8f4f0b57c028.jpg?1562791761|https://scryfall.com/card/dtk/106/hedonists-trove?utm_source=api>`
-   When Hedonist's Trove enters the battlefield, exile all cards from target opponent's graveyard.
+   When Hedonist's Trove enters the battlefield, exile target opponent's graveyard.
 
    You may play lands from among cards exiled with Hedonist's Trove.
 

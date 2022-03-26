@@ -487,7 +487,7 @@
    Target opponent sacrifices a creature. If you control a creature with power 4 or greater, you gain 4 life.
 
 
-:mtgtip:`Vindictive Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c0bfb47-c753-42fa-969b-7b10b87b0462.jpg?1584830759|https://scryfall.com/card/rna/90/vindictive-vampire?utm_source=api>`
+:mtgtip:`Vindictive Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c0bfb47-c753-42fa-969b-7b10b87b0462.jpg?1636202774|https://scryfall.com/card/rna/90/vindictive-vampire?utm_source=api>`
    Whenever another creature you control dies, Vindictive Vampire deals 1 damage to each opponent and you gain 1 life.
 
 
@@ -583,7 +583,7 @@
    When Rix Maadi Reveler enters the battlefield, discard a card, then draw a card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your hand, then draw three cards.
 
 
-:mtgtip:`Rubble Reading<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ace095a-3ea9-4121-8ffb-5b3612b96985.jpg?1584830987|https://scryfall.com/card/rna/110/rubble-reading?utm_source=api>`
+:mtgtip:`Rubble Reading<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ace095a-3ea9-4121-8ffb-5b3612b96985.jpg?1636202796|https://scryfall.com/card/rna/110/rubble-reading?utm_source=api>`
    Destroy target land. Scry 2.
 
 
@@ -797,7 +797,7 @@
    • Return target creature to its owner's hand.
 
 
-:mtgtip:`Azorius Knight-Arbiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60befc28-2ab8-4b59-a33f-0328c5d2f995.jpg?1584831378|https://scryfall.com/card/rna/154/azorius-knight-arbiter?utm_source=api>`
+:mtgtip:`Azorius Knight-Arbiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60befc28-2ab8-4b59-a33f-0328c5d2f995.jpg?1636491577|https://scryfall.com/card/rna/154/azorius-knight-arbiter?utm_source=api>`
    Vigilance
 
    Azorius Knight-Arbiter can't be blocked.

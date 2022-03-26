@@ -5,7 +5,7 @@
 ==============================
 
 
-:mtgtip:`Allied Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1604195342|https://scryfall.com/card/znr/1/allied-assault?utm_source=api>`
+:mtgtip:`Allied Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1647939343|https://scryfall.com/card/znr/1/allied-assault?utm_source=api>`
    Up to two target creatures each get +X/+X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 
 
@@ -141,8 +141,12 @@
    When Legion Angel enters the battlefield, you may reveal a card you own named Legion Angel from outside the game and put it into your hand.
 
 
-:mtgtip:`Luminarch Aspirant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe964e7e-e2c5-4263-889d-0a531eb51442.jpg?1604192525|https://scryfall.com/card/znr/24/luminarch-aspirant?utm_source=api>`
+:mtgtip:`Luminarch Aspirant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe964e7e-e2c5-4263-889d-0a531eb51442.jpg?1639436761|https://scryfall.com/card/znr/24/luminarch-aspirant?utm_source=api>`
    At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+
+
+:mtgtip:`A-Luminarch Aspirant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c36abc6-4ba6-4fa8-a8c0-cf5a4d2f98d8.jpg?1645415383|https://scryfall.com/card/znr/A-24/a-luminarch-aspirant?utm_source=api>`
+   At the beginning of your end step, put a +1/+1 counter on target creature you control.
 
 
 :mtgtip:`Makindi Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd0d164a-bce2-4474-abe0-b735eb6c9442.jpg?1604192569|https://scryfall.com/card/znr/25/makindi-ox?utm_source=api>`
@@ -751,11 +755,11 @@
    Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say "destroy" don't destroy the creature.)
 
 
-:mtgtip:`Pelakka Predation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`
+:mtgtip:`Pelakka Predation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1636491324|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`
    Target opponent reveals their hand. You choose a card from it with mana value 3 or greater. That player discards that card.
 
 
-:mtgtip:`Pelakka Caverns<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`
+:mtgtip:`Pelakka Caverns<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1636491324|https://scryfall.com/card/znr/120/pelakka-predation-pelakka-caverns?utm_source=api>`
    Pelakka Caverns enters the battlefield tapped.
 
    |tap|: Add |mana_b|.
@@ -915,13 +919,13 @@
    • Target Warrior gains trample until end of turn.
 
 
-:mtgtip:`Kazuul's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1611609326|https://scryfall.com/card/znr/146/kazuuls-fury-kazuuls-cliffs?utm_source=api>`
+:mtgtip:`Kazuul's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1636491308|https://scryfall.com/card/znr/146/kazuuls-fury-kazuuls-cliffs?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Kazuul's Fury deals damage equal to the sacrificed creature's power to any target.
 
 
-:mtgtip:`Kazuul's Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1611609326|https://scryfall.com/card/znr/146/kazuuls-fury-kazuuls-cliffs?utm_source=api>`
+:mtgtip:`Kazuul's Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1636491308|https://scryfall.com/card/znr/146/kazuuls-fury-kazuuls-cliffs?utm_source=api>`
    Kazuul's Cliffs enters the battlefield tapped.
 
    |tap|: Add |mana_r|.
@@ -1073,7 +1077,7 @@
    |mana_2|\ |mana_r|: Teeterpeak Ambusher gets +2/+0 until end of turn.
 
 
-:mtgtip:`Thundering Rebuke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc671707-4708-44d8-8ec8-d5332599adf9.jpg?1604198187|https://scryfall.com/card/znr/170/thundering-rebuke?utm_source=api>`
+:mtgtip:`Thundering Rebuke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc671707-4708-44d8-8ec8-d5332599adf9.jpg?1636491293|https://scryfall.com/card/znr/170/thundering-rebuke?utm_source=api>`
    Thundering Rebuke deals 4 damage to target creature or planeswalker.
 
 
@@ -1471,8 +1475,14 @@
    −5: You may put a creature card with mana value less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it.
 
 
-:mtgtip:`Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1628801807|https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api>`
+:mtgtip:`Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1639436752|https://scryfall.com/card/znr/232/omnath-locus-of-creation?utm_source=api>`
    When Omnath, Locus of Creation enters the battlefield, draw a card.
+
+   Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.
+
+
+:mtgtip:`A-Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5f5fbd5-b045-4da7-a996-54f163b35b8d.jpg?1645415634|https://scryfall.com/card/znr/A-232/a-omnath-locus-of-creation?utm_source=api>`
+   When Omnath, Locus of Creation enters the battlefield, scry 1.
 
    Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.
 
@@ -1483,10 +1493,18 @@
    Whenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser mana value from your graveyard to the battlefield.
 
 
-:mtgtip:`Phylath, World Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1604200396|https://scryfall.com/card/znr/234/phylath-world-sculptor?utm_source=api>`
+:mtgtip:`Phylath, World Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1639436741|https://scryfall.com/card/znr/234/phylath-world-sculptor?utm_source=api>`
    When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control.
 
    Landfall — Whenever a land enters the battlefield under your control, put four +1/+1 counters on target Plant you control.
+
+
+:mtgtip:`A-Phylath, World Sculptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0c4a2f5-b942-4c94-b28c-e04d0609cfb3.jpg?1645415658|https://scryfall.com/card/znr/A-234/a-phylath-world-sculptor?utm_source=api>`
+   Trample
+
+   When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control.
+
+   Landfall — Whenever a land enters the battlefield under your control, put four +1/+1 counters on target Plant you control. It gains trample until end of turn.
 
 
 :mtgtip:`Ravager's Mace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af484140-57d6-4505-9960-5e7b0306cc9b.jpg?1604200419|https://scryfall.com/card/znr/235/ravagers-mace?utm_source=api>`
@@ -1661,35 +1679,35 @@
    |tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.
 
 
-:mtgtip:`Branchloft Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1604264312|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
+:mtgtip:`Branchloft Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1637022382|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Boulderloft Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1604264312|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
+:mtgtip:`Boulderloft Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1637022382|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Brightclimb Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1604264326|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
+:mtgtip:`Brightclimb Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1637022391|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Grimclimb Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1604264326|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
+:mtgtip:`Grimclimb Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1637022391|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Clearwater Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1604264337|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
+:mtgtip:`Clearwater Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1637022400|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Murkwater Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1604264337|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
+:mtgtip:`Murkwater Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1637022400|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Cragcrown Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1604264349|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
+:mtgtip:`Cragcrown Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1637022407|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
-:mtgtip:`Timbercrown Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1604264349|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
+:mtgtip:`Timbercrown Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1637022407|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
@@ -1699,19 +1717,19 @@
    |mana_4|: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.
 
 
-:mtgtip:`Needleverge Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1604264370|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
+:mtgtip:`Needleverge Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1637022419|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
-:mtgtip:`Pillarverge Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1604264370|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
+:mtgtip:`Pillarverge Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1637022419|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Riverglide Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1604867502|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
+:mtgtip:`Riverglide Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1637022427|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Lavaglide Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1604867502|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
+:mtgtip:`Lavaglide Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1637022427|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 

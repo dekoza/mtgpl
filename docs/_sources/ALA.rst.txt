@@ -926,7 +926,7 @@
 :mtgtip:`Jund Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a0ddf00-926c-4283-a8b2-daa02fa99b8b.jpg?1562705657|https://scryfall.com/card/ala/175/jund-charm?utm_source=api>`
    Choose one —
 
-   • Exile all cards from target player's graveyard.
+   • Exile target player's graveyard.
 
    • Jund Charm deals 2 damage to each creature.
 
@@ -1146,7 +1146,7 @@
 :mtgtip:`Relic of Progenitus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90c41192-64ef-43aa-9af0-75f0d3f56688.jpg?1562706585|https://scryfall.com/card/ala/218/relic-of-progenitus?utm_source=api>`
    |tap|: Target player exiles a card from their graveyard.
 
-   |mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+   |mana_1|, Exile Relic of Progenitus: Exile all graveyards. Draw a card.
 
 
 :mtgtip:`Sigil of Distinction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4ac2d98-bc5d-4823-9903-b880988ff0f4.jpg?1562707377|https://scryfall.com/card/ala/219/sigil-of-distinction?utm_source=api>`
