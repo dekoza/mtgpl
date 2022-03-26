@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -293,8 +293,8 @@ msgstr ""
 
 #: ../../C13.rst:27
 msgid ""
-"When Angel of Finality enters the battlefield, exile all cards from target "
-"player's graveyard."
+"When Angel of Finality enters the battlefield, exile target player's "
+"graveyard."
 msgstr ""
 
 #: ../../C13.rst:32
@@ -3246,7 +3246,7 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:1111
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:1113
@@ -3289,7 +3289,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/5/7/57afa796-db46-45ff-91bd-f02922e5f33d.jpg?"
-"1562913313|https://scryfall.com/card/c13/198/marath-will-of-the-wild?"
+"1643645446|https://scryfall.com/card/c13/198/marath-will-of-the-wild?"
 "utm_source=api>`"
 msgstr ""
 
@@ -4094,9 +4094,7 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:1429
-msgid ""
-"|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
-"graveyard."
+msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:1431
@@ -4521,8 +4519,7 @@ msgstr ""
 
 #: ../../C13.rst:1589
 msgid ""
-"When Bojuka Bog enters the battlefield, exile all cards from target player's "
-"graveyard."
+"When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:1600

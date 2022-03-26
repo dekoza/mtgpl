@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -2413,7 +2417,7 @@ msgstr ""
 #: ../../TSR.rst:832
 msgid ""
 ":mtgtip:`Smallpox<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1619396163|https://"
+"front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1636283762|https://"
 "scryfall.com/card/tsr/139/smallpox?utm_source=api>`"
 msgstr ""
 
@@ -6134,7 +6138,7 @@ msgid ""
 msgstr ""
 
 #: ../../TSR.rst:2191
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../TSR.rst:2195
@@ -6489,8 +6493,7 @@ msgstr ""
 
 #: ../../TSR.rst:2327
 msgid ""
-"When Bojuka Bog enters the battlefield, exile all cards from target player's "
-"graveyard."
+"When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../TSR.rst:2329

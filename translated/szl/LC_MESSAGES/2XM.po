@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -814,7 +814,9 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:211
-msgid "Target creature gains indestructible until end of turn."
+msgid ""
+"Target creature gains indestructible until end of turn. (Damage and effects "
+"that say \"destroy\" don't destroy it.)"
 msgstr ""
 
 #: ../../2XM.rst:213
@@ -1509,7 +1511,7 @@ msgstr ""
 #: ../../2XM.rst:456
 msgid ""
 ":mtgtip:`Disciple of the Vault<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1598304605|"
+"border_crop/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1646666263|"
 "https://scryfall.com/card/2xm/86/disciple-of-the-vault?utm_source=api>`"
 msgstr ""
 
@@ -1764,7 +1766,7 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:535
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../2XM.rst:542
@@ -4090,7 +4092,7 @@ msgstr ""
 #: ../../2XM.rst:1372
 msgid ""
 ":mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/5/551c0a45-9515-4e51-84e5-79703832a661.jpg?1599709184|"
+"border_crop/front/5/5/551c0a45-9515-4e51-84e5-79703832a661.jpg?1646666270|"
 "https://scryfall.com/card/2xm/255/expedition-map?utm_source=api>`"
 msgstr ""
 
@@ -5269,7 +5271,7 @@ msgstr ""
 #: ../../2XM.rst:1832
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/c/c/cc3db531-3f21-49a2-8aeb-d98b7db94397.jpg?1597118248|https://"
+"front/c/c/cc3db531-3f21-49a2-8aeb-d98b7db94397.jpg?1641305927|https://"
 "scryfall.com/card/2xm/373/plains?utm_source=api>`"
 msgstr ""
 
@@ -5280,7 +5282,7 @@ msgstr ""
 #: ../../2XM.rst:1836
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1597115911|https://"
+"front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846|https://"
 "scryfall.com/card/2xm/375/island?utm_source=api>`"
 msgstr ""
 
@@ -5291,7 +5293,7 @@ msgstr ""
 #: ../../2XM.rst:1840
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/e/8e5eef83-a3d4-44c7-a6cb-7f6803825b9e.jpg?1597116662|https://"
+"front/8/e/8e5eef83-a3d4-44c7-a6cb-7f6803825b9e.jpg?1641305774|https://"
 "scryfall.com/card/2xm/377/swamp?utm_source=api>`"
 msgstr ""
 
@@ -5302,7 +5304,7 @@ msgstr ""
 #: ../../2XM.rst:1844
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1597117048|https://"
+"front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698|https://"
 "scryfall.com/card/2xm/379/mountain?utm_source=api>`"
 msgstr ""
 
@@ -5313,7 +5315,7 @@ msgstr ""
 #: ../../2XM.rst:1847
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1597117694|https://"
+"front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617|https://"
 "scryfall.com/card/2xm/381/forest?utm_source=api>`"
 msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1443,7 +1443,7 @@ msgstr ""
 #: ../../C20.rst:444
 msgid ""
 ":mtgtip:`Bonder's Ornament<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/a/5afe425c-50a7-4d29-ac14-0edb094fc770.jpg?1594696192|"
+"border_crop/front/5/a/5afe425c-50a7-4d29-ac14-0edb094fc770.jpg?1642716757|"
 "https://scryfall.com/card/c20/67/bonders-ornament?utm_source=api>`"
 msgstr ""
 
@@ -1588,8 +1588,8 @@ msgstr ""
 
 #: ../../C20.rst:491
 msgid ""
-"When Angel of Finality enters the battlefield, exile all cards from target "
-"player's graveyard."
+"When Angel of Finality enters the battlefield, exile target player's "
+"graveyard."
 msgstr ""
 
 #: ../../C20.rst:498
@@ -2843,7 +2843,7 @@ msgstr ""
 #: ../../C20.rst:952
 msgid ""
 ":mtgtip:`Lightning Rift<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/6/c6d8746d-3a8c-48a9-91ad-354b69a402c6.jpg?1591320650|"
+"border_crop/front/c/6/c6d8746d-3a8c-48a9-91ad-354b69a402c6.jpg?1644254604|"
 "https://scryfall.com/card/c20/155/lightning-rift?utm_source=api>`"
 msgstr ""
 
@@ -4483,8 +4483,7 @@ msgstr ""
 
 #: ../../C20.rst:1561
 msgid ""
-"When Bojuka Bog enters the battlefield, exile all cards from target player's "
-"graveyard."
+"When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../C20.rst:1563 ../../C20.rst:1761 ../../C20.rst:1771
@@ -5218,8 +5217,7 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1885
-msgid ""
-"|mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards."
+msgid "|mana_2|, |tap|, Sacrifice a Desert: Exile all graveyards."
 msgstr ""
 
 #: ../../C20.rst:1894

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -899,9 +903,9 @@ msgstr ""
 
 #: ../../C17.rst:239
 msgid ""
-"During each of your turns, you may cast an instant or sorcery spell from "
-"your graveyard. If a spell cast this way would be put into your graveyard, "
-"exile it instead."
+"Once during each of your turns, you may cast an instant or sorcery spell "
+"from your graveyard. If a spell cast this way would be put into your "
+"graveyard, exile it instead."
 msgstr ""
 
 #: ../../C17.rst:248
@@ -3305,7 +3309,7 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1105
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../C17.rst:1109
@@ -3742,9 +3746,7 @@ msgid ""
 msgstr ""
 
 #: ../../C17.rst:1281
-msgid ""
-"|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
-"graveyard."
+msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
 msgstr ""
 
 #: ../../C17.rst:1283
@@ -4039,8 +4041,7 @@ msgstr ""
 
 #: ../../C17.rst:1407
 msgid ""
-"When Bojuka Bog enters the battlefield, exile all cards from target player's "
-"graveyard."
+"When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../C17.rst:1409 ../../C17.rst:1771
@@ -4676,7 +4677,7 @@ msgstr ""
 #: ../../C17.rst:1684
 msgid ""
 ":mtgtip:`Selesnya Guildgate<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/c/4c1d26ae-d775-4cd4-afc1-139021d77543.jpg?1621281474|"
+"border_crop/front/4/c/4c1d26ae-d775-4cd4-afc1-139021d77543.jpg?1644254593|"
 "https://scryfall.com/card/c17/279/selesnya-guildgate?utm_source=api>`"
 msgstr ""
 

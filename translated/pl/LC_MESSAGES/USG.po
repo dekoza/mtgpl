@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: 2022-03-26 17:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
@@ -214,18 +214,24 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
+#, fuzzy
+#| msgid "{(g/u)}"
+msgid "{(g/u/p)}"
+msgstr "{(g/u)}"
+
+#: ../../symbols.rst:101
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:101
+#: ../../symbols.rst:103
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -2536,14 +2542,14 @@ msgstr "|mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego białego stwora."
 #: ../../USG.rst:846
 msgid ""
 ":mtgtip:`Witch Engine<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/f/ef749290-58e2-4b40-a141-5fe294f9b995.jpg?1562945502|"
+"border_crop/front/e/f/ef749290-58e2-4b40-a141-5fe294f9b995.jpg?1642038766|"
 "https://scryfall.com/card/usg/169/witch-engine?utm_source=api>`"
 msgstr ""
 
 #: ../../USG.rst:845
 msgid ""
 "|tap|: Add |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|. Target opponent gains "
-"control of Witch Engine. (Activate only as a instant.)"
+"control of Witch Engine. (Activate only as an instant.)"
 msgstr ""
 
 #: ../../USG.rst:850

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -712,7 +716,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Bruse Tarl, Boorish Herder<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/2/125b552b-45ea-4e0b-94a9-8131c97a04c0.jpg?"
-"1562389071|https://scryfall.com/card/c16/30/bruse-tarl-boorish-herder?"
+"1644853018|https://scryfall.com/card/c16/30/bruse-tarl-boorish-herder?"
 "utm_source=api>`"
 msgstr ""
 
@@ -771,7 +775,7 @@ msgstr ""
 #: ../../C16.rst:208
 msgid ""
 ":mtgtip:`Kraum, Ludevic's Opus<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/5/557fcd17-6cb3-414a-b2b1-ea9ae32e5aec.jpg?1562400560|"
+"border_crop/front/5/5/557fcd17-6cb3-414a-b2b1-ea9ae32e5aec.jpg?1644853032|"
 "https://scryfall.com/card/c16/34/kraum-ludevics-opus?utm_source=api>`"
 msgstr ""
 
@@ -799,7 +803,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Kynaios and Tiro of Meletis<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/7/97fa8615-2b6c-445a-bcaf-44a7e847bf65.jpg?"
-"1562411365|https://scryfall.com/card/c16/36/kynaios-and-tiro-of-meletis?"
+"1633190298|https://scryfall.com/card/c16/36/kynaios-and-tiro-of-meletis?"
 "utm_source=api>`"
 msgstr ""
 
@@ -814,7 +818,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Ludevic, Necro-Alchemist<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/f/3/f3e7a886-2593-4e6e-b9da-d7cb417cba08.jpg?"
-"1617148351|https://scryfall.com/card/c16/37/ludevic-necro-alchemist?"
+"1644853036|https://scryfall.com/card/c16/37/ludevic-necro-alchemist?"
 "utm_source=api>`"
 msgstr ""
 
@@ -989,7 +993,7 @@ msgstr ""
 #: ../../C16.rst:306
 msgid ""
 ":mtgtip:`Tymna the Weaver<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/c/bc7cbe9b-324e-42b8-94e2-36e91cb32163.jpg?1606762188|"
+"border_crop/front/b/c/bc7cbe9b-324e-42b8-94e2-36e91cb32163.jpg?1644853048|"
 "https://scryfall.com/card/c16/48/tymna-the-weaver?utm_source=api>`"
 msgstr ""
 
@@ -3612,7 +3616,7 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1237
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../C16.rst:1239

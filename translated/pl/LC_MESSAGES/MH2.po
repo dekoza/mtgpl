@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: 2022-03-26 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
@@ -1276,8 +1276,8 @@ msgid ""
 "Whenever an instant or sorcery card leaves your graveyard, put a +1/+1 "
 "counter on Murktide Regent."
 msgstr ""
-"Ilekroć karta sztuczki lub obrzędu opuszcza twój cmentarza, umieść znacznik +"
-"1/+1 na tym stworze."
+"Ilekroć karta sztuczki lub obrzędu opuszcza twój cmentarza, umieść znacznik "
+"+1/+1 na tym stworze."
 
 #: ../../MH2.rst:342
 msgid ""
@@ -1312,7 +1312,7 @@ msgstr "|mana_2|, poświęć tego stwora: Dobierz kartę."
 #: ../../MH2.rst:352
 msgid ""
 ":mtgtip:`Phantasmal Dreadmaw<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/7/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c.jpg?1626094727|"
+"border_crop/front/a/7/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c.jpg?1632168649|"
 "https://scryfall.com/card/mh2/55/phantasmal-dreadmaw?utm_source=api>`"
 msgstr ""
 
@@ -1408,7 +1408,7 @@ msgstr "|mana_1|, |tap|: Przekręć wskazany ląd."
 #: ../../MH2.rst:378
 msgid ""
 ":mtgtip:`Said<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1626094863|https://"
+"front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1633332987|https://"
 "scryfall.com/card/mh2/60/said-done?utm_source=api>`"
 msgstr ""
 
@@ -1421,7 +1421,7 @@ msgstr ""
 #: ../../MH2.rst:382
 msgid ""
 ":mtgtip:`Done<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1626094863|https://"
+"front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1633332987|https://"
 "scryfall.com/card/mh2/60/said-done?utm_source=api>`"
 msgstr ""
 
@@ -2244,8 +2244,8 @@ msgid ""
 "Escape—|mana_4|\\ |mana_b|, Exile five other cards from your graveyard. (You "
 "may cast this card from your graveyard for its escape cost.)"
 msgstr ""
-"Ucieczka—|mana_4|\\ |mana_b|, wygnaj pięć innych kart z twojego cmentarza. ("
-"Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
+"Ucieczka—|mana_4|\\ |mana_b|, wygnaj pięć innych kart z twojego cmentarza. "
+"(Możesz rzucić tę kartę z twojego cmentarza za jej koszt ucieczki.)"
 
 #: ../../MH2.rst:631
 msgid ""
@@ -2277,7 +2277,8 @@ msgstr "Ochrona przed białym"
 msgid ""
 "Whenever an opponent discards a card, put a +1/+1 counter on Tourach, Dread "
 "Cantor."
-msgstr "Ilekroć przeciwnik odrzuca kartę, umieść znacznik +1/+1 na tym stworze."
+msgstr ""
+"Ilekroć przeciwnik odrzuca kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../MH2.rst:641
 msgid ""
@@ -2679,7 +2680,7 @@ msgstr "Odrzuć kartę, po czym dobierz kartę."
 #: ../../MH2.rst:762
 msgid ""
 ":mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1629231952|https://"
+"front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1633332976|https://"
 "scryfall.com/card/mh2/123/fast-furious?utm_source=api>`"
 msgstr ""
 
@@ -2690,7 +2691,7 @@ msgstr "Odrzuć kartę, po czym dobierz dwie karty."
 #: ../../MH2.rst:766
 msgid ""
 ":mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1629231952|https://"
+"front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1633332976|https://"
 "scryfall.com/card/mh2/123/fast-furious?utm_source=api>`"
 msgstr ""
 
@@ -2774,7 +2775,7 @@ msgstr "Przyzwanie—Wygnaj czerwoną kartę z twojej ręki."
 #: ../../MH2.rst:794
 msgid ""
 ":mtgtip:`Galvanic Relay<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/6/06373318-e548-4664-b227-17e3b6fd0a88.jpg?1626096649|"
+"border_crop/front/0/6/06373318-e548-4664-b227-17e3b6fd0a88.jpg?1646666265|"
 "https://scryfall.com/card/mh2/127/galvanic-relay?utm_source=api>`"
 msgstr ""
 
@@ -3006,7 +3007,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?"
-"1627449092|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?"
+"1643112412|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?"
 "utm_source=api>`"
 msgstr ""
 
@@ -3483,8 +3484,8 @@ msgid ""
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 "Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \""
-"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|"
+"mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:1012
 msgid ""
@@ -3911,8 +3912,8 @@ msgid ""
 "Reinforce X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|, "
 "Discard this card: Put X +1/+1 counters on target creature.)"
 msgstr ""
-"Wzmacnianie X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|"
-", odrzuć tę kartę: Umieść X znaczników +1/+1 na wskazanym stworze.)"
+"Wzmacnianie X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |"
+"mana_g|, odrzuć tę kartę: Umieść X znaczników +1/+1 na wskazanym stworze.)"
 
 #: ../../MH2.rst:1146
 msgid ""
@@ -3964,7 +3965,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Asmoranomardicadaistinaculdacar<https://c1.scryfall.com/file/"
 "scryfall-cards/border_crop/front/d/9/d99a9a7d-d9ca-4c11-80ab-e39d5943a315."
-"jpg?1626098080|https://scryfall.com/card/mh2/186/"
+"jpg?1632831210|https://scryfall.com/card/mh2/186/"
 "asmoranomardicadaistinaculdacar?utm_source=api>`"
 msgstr ""
 
@@ -4004,8 +4005,8 @@ msgid ""
 "a graveyard, put a +1/+1 counter on Breathless Knight."
 msgstr ""
 "Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, jeśli "
-"ów stwór wszedł z cmentarza lub został rzucony z cmentarza, umieść znacznik +"
-"1/+1 na niniejszym stworze."
+"ów stwór wszedł z cmentarza lub został rzucony z cmentarza, umieść znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../MH2.rst:1176
 msgid ""
@@ -4029,7 +4030,7 @@ msgstr ""
 #: ../../MH2.rst:1182
 msgid ""
 ":mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1626099571|"
+"border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1635612022|"
 "https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`"
 msgstr ""
 
@@ -4046,8 +4047,12 @@ msgstr ""
 "pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../MH2.rst:1181
+#, fuzzy
+#| msgid ""
+#| "Planeswalkers' loyalty abilities you activate cost an additional [+1] to "
+#| "activate."
 msgid ""
-"Planeswalkers' loyalty abilities you activate cost an additional [+1] to "
+"Planeswalkers' loyalty abilities you activate cost an additional +1 to "
 "activate."
 msgstr "Aktywacja zdolności wędrowców kosztuje cię dodatkowe [+1]."
 
@@ -4161,8 +4166,8 @@ msgid ""
 "|mana_3|\\ |mana_b|: Squirrels you control get +1/+0 and gain menace until "
 "end of turn."
 msgstr ""
-"|mana_3|\\ |mana_b|: Wiewióry pod twoim władaniem dostają do końca tury +1/+"
-"0 i złowrogość."
+"|mana_3|\\ |mana_b|: Wiewióry pod twoim władaniem dostają do końca tury +1/"
+"+0 i złowrogość."
 
 #: ../../MH2.rst:1224
 msgid ""
@@ -4280,7 +4285,8 @@ msgstr ""
 
 #: ../../MH2.rst:1253
 msgid "Each spell you cast that's red or green costs |mana_1| less to cast."
-msgstr "Rzucanie czerwonych lub zielonych czarów kosztuje cię o |mana_1| mniej."
+msgstr ""
+"Rzucanie czerwonych lub zielonych czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../MH2.rst:1262
 msgid ""
@@ -4547,7 +4553,7 @@ msgstr ""
 #: ../../MH2.rst:1332
 msgid ""
 ":mtgtip:`Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
-"f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1626098731|https://scryfall.com/"
+"f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1633332983|https://scryfall.com/"
 "card/mh2/212/road-ruin?utm_source=api>`"
 msgstr ""
 
@@ -4562,7 +4568,7 @@ msgstr ""
 #: ../../MH2.rst:1338
 msgid ""
 ":mtgtip:`Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
-"f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1626098731|https://scryfall.com/"
+"f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1633332983|https://scryfall.com/"
 "card/mh2/212/road-ruin?utm_source=api>`"
 msgstr ""
 
@@ -4631,7 +4637,7 @@ msgstr ""
 #: ../../MH2.rst:1364
 msgid ""
 ":mtgtip:`Territorial Kavu<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/6/2605df98-0b02-4aab-bc36-01e93c693743.jpg?1631302949|"
+"border_crop/front/2/6/2605df98-0b02-4aab-bc36-01e93c693743.jpg?1634366740|"
 "https://scryfall.com/card/mh2/216/territorial-kavu?utm_source=api>`"
 msgstr ""
 
@@ -4984,7 +4990,7 @@ msgstr ""
 #: ../../MH2.rst:1480
 msgid ""
 ":mtgtip:`Sojourner's Companion<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/c/8c6af084-eee7-4259-a58b-a866e0cf171b.jpg?1631126032|"
+"border_crop/front/8/c/8c6af084-eee7-4259-a58b-a866e0cf171b.jpg?1639440497|"
 "https://scryfall.com/card/mh2/235/sojourners-companion?utm_source=api>`"
 msgstr ""
 
@@ -5082,9 +5088,11 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1507
-msgid ""
-"|tap|, Sacrifice Tormod's Cryptkeeper: Exile all cards from target player's "
-"graveyard."
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Tormod's Cryptkeeper: Exile all cards from target "
+#| "player's graveyard."
+msgid "|tap|, Sacrifice Tormod's Cryptkeeper: Exile target player's graveyard."
 msgstr "|tap|, poświęć tego stwora: Wygnaj cmentarz wskazanego gracza."
 
 #: ../../MH2.rst:1514
@@ -5099,8 +5107,8 @@ msgid ""
 "|tap|, Discard a card: Create a Food token. (It's an artifact with \"|"
 "mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"|tap|, odrzuć kartę: Stwórz żeton Jadła. (To artefakt mający \"|mana_2|, "
-"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"|tap|, odrzuć kartę: Stwórz żeton Jadła. (To artefakt mający \"|mana_2|, |"
+"tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../MH2.rst:1513
 msgid ""
@@ -5797,7 +5805,7 @@ msgstr "Ilekroć rzucisz urok, dobierz kartę."
 #: ../../MH2.rst:1776
 msgid ""
 ":mtgtip:`Hunting Pack<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/c/8c9eb595-e8fa-4a5e-abca-d30613c0e28f.jpg?1626100599|"
+"border_crop/front/8/c/8c9eb595-e8fa-4a5e-abca-d30613c0e28f.jpg?1633679448|"
 "https://scryfall.com/card/mh2/284/hunting-pack?utm_source=api>`"
 msgstr ""
 
@@ -5858,7 +5866,7 @@ msgstr ""
 #: ../../MH2.rst:1796
 msgid ""
 ":mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/8/c8511fe7-63f9-4942-8972-d40bf5d7e949.jpg?1626100691|"
+"border_crop/front/c/8/c8511fe7-63f9-4942-8972-d40bf5d7e949.jpg?1633281721|"
 "https://scryfall.com/card/mh2/288/yavimaya-elder?utm_source=api>`"
 msgstr ""
 
@@ -5901,7 +5909,7 @@ msgstr ""
 #: ../../MH2.rst:1806
 msgid ""
 ":mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1626100737|https://"
+"front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980|https://"
 "scryfall.com/card/mh2/290/fire-ice?utm_source=api>`"
 msgstr ""
 
@@ -5914,7 +5922,7 @@ msgstr ""
 #: ../../MH2.rst:1812
 msgid ""
 ":mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/"
-"e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1626100737|https://scryfall.com/"
+"e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980|https://scryfall.com/"
 "card/mh2/290/fire-ice?utm_source=api>`"
 msgstr ""
 
@@ -6063,7 +6071,7 @@ msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 #: ../../MH2.rst:1856
 msgid ""
 ":mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/0/3002ccef-5322-4f99-9fce-3b4303347240.jpg?1626100975|"
+"border_crop/front/3/0/3002ccef-5322-4f99-9fce-3b4303347240.jpg?1632159130|"
 "https://scryfall.com/card/mh2/299/patchwork-gnomes?utm_source=api>`"
 msgstr ""
 

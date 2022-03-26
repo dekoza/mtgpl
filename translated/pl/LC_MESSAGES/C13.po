@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: 2022-03-26 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
@@ -331,9 +331,13 @@ msgstr ""
 
 # bf2ad8ba50bd4094bfdeb4b73a3a5802
 #: ../../C13.rst:27
+#, fuzzy
+#| msgid ""
+#| "When Angel of Finality enters the battlefield, exile all cards from "
+#| "target player's graveyard."
 msgid ""
-"When Angel of Finality enters the battlefield, exile all cards from target "
-"player's graveyard."
+"When Angel of Finality enters the battlefield, exile target player's "
+"graveyard."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie karty z cmentarza "
 "wskazanego gracza."
@@ -3790,7 +3794,9 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:1111
-msgid "Exile all cards from target player's graveyard."
+#, fuzzy
+#| msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
@@ -3834,7 +3840,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/5/7/57afa796-db46-45ff-91bd-f02922e5f33d.jpg?"
-"1562913313|https://scryfall.com/card/c13/198/marath-will-of-the-wild?"
+"1643645446|https://scryfall.com/card/c13/198/marath-will-of-the-wild?"
 "utm_source=api>`"
 msgstr ""
 
@@ -4744,9 +4750,11 @@ msgstr ""
 
 # 19edbd4a13754ddcb01c42080973b980
 #: ../../C13.rst:1429
-msgid ""
-"|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
-"graveyard."
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
+#| "graveyard."
+msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
 msgstr ""
 "|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
 "gracza."
@@ -5238,9 +5246,12 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # 19444b90e96f48deb3c6db4b7b7071d1
 #: ../../C13.rst:1589
+#, fuzzy
+#| msgid ""
+#| "When Bojuka Bog enters the battlefield, exile all cards from target "
+#| "player's graveyard."
 msgid ""
-"When Bojuka Bog enters the battlefield, exile all cards from target player's "
-"graveyard."
+"When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 "Kiedy ten ląd wejdzie na pole bitwy, wygnaj wszystkie karty z cmentarza "
 "wskazanego gracza."
