@@ -860,7 +860,7 @@
 
 
 :mtgtip:`Burn Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b09c774a-0ea0-4bb8-9195-ea2d83461e75.jpg?1576382785|https://scryfall.com/card/cn2/151/burn-away?utm_source=api>`
-   Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.
+   Burn Away deals 6 damage to target creature. When that creature dies this turn, exile its controller's graveyard.
 
 
 :mtgtip:`Burning Wish<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3abb0b65-b3de-4193-ae60-9b8ba55636b4.jpg?1576382796|https://scryfall.com/card/cn2/152/burning-wish?utm_source=api>`

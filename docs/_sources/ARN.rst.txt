@@ -23,7 +23,7 @@
    The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
 
 
-:mtgtip:`Jihad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6c7705a-2987-4ef1-92b1-2c55d989ec6f.jpg?1591989175|https://scryfall.com/card/arn/5/jihad?utm_source=api>`
+:mtgtip:`Jihad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6c7705a-2987-4ef1-92b1-2c55d989ec6f.jpg?1644608192|https://scryfall.com/card/arn/5/jihad?utm_source=api>`
    As Jihad enters the battlefield, choose a color and an opponent.
 
    White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color.
@@ -351,7 +351,7 @@
    |tap|: Desert deals 1 damage to target attacking creature. Activate only during the end of combat step.
 
 
-:mtgtip:`Diamond Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e85f6f21-15a0-4a36-be95-5a0299cd01a5.jpg?1562938500|https://scryfall.com/card/arn/73/diamond-valley?utm_source=api>`
+:mtgtip:`Diamond Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e85f6f21-15a0-4a36-be95-5a0299cd01a5.jpg?1646034346|https://scryfall.com/card/arn/73/diamond-valley?utm_source=api>`
    |tap|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
 
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -806,7 +806,7 @@ msgid ":mtgtip:`Angel of Finality<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../C13.rst:27
-msgid "When Angel of Finality enters the battlefield, exile all cards from target player's graveyard."
+msgid "When Angel of Finality enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:32
@@ -2834,7 +2834,7 @@ msgid ":mtgtip:`Jund Charm<https://c1.scryfall.com/file/scryfall-cards/border_cr
 msgstr ""
 
 #: ../../C13.rst:1111
-msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:1113
@@ -2862,7 +2862,7 @@ msgid "Look at the top five cards of your library. As many times as you choose, 
 msgstr ""
 
 #: ../../C13.rst:1138
-msgid ":mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57afa796-db46-45ff-91bd-f02922e5f33d.jpg?1562913313|https://scryfall.com/card/c13/198/marath-will-of-the-wild?utm_source=api>`"
+msgid ":mtgtip:`Marath, Will of the Wild<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57afa796-db46-45ff-91bd-f02922e5f33d.jpg?1643645446|https://scryfall.com/card/c13/198/marath-will-of-the-wild?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1129
@@ -3415,7 +3415,7 @@ msgid ":mtgtip:`Nihil Spellbomb<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C13.rst:1429
-msgid "|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard."
+msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:1431
@@ -3721,7 +3721,7 @@ msgid "Bojuka Bog enters the battlefield tapped."
 msgstr ""
 
 #: ../../C13.rst:1589
-msgid "When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard."
+msgid "When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../C13.rst:1600

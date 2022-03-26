@@ -1067,7 +1067,7 @@
    Morph |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Embermage Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f50f60a8-e99a-4891-b474-a21abee38970.jpg?1562953111|https://scryfall.com/card/ons/200/embermage-goblin?utm_source=api>`
+:mtgtip:`Embermage Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f50f60a8-e99a-4891-b474-a21abee38970.jpg?1643753588|https://scryfall.com/card/ons/200/embermage-goblin?utm_source=api>`
    When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, put it into your hand, then shuffle.
 
    |tap|: Embermage Goblin deals 1 damage to any target.

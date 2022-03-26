@@ -1095,7 +1095,7 @@
    
 
 
-:mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c9b18c-4993-4ce1-b2bd-ab14c9f3aad7.jpg?1591989043|https://scryfall.com/card/6ed/244/pradesh-gypsies?utm_source=api>`
+:mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c9b18c-4993-4ce1-b2bd-ab14c9f3aad7.jpg?1644608181|https://scryfall.com/card/6ed/244/pradesh-gypsies?utm_source=api>`
    |mana_1|\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn.
 
 

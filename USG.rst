@@ -839,10 +839,10 @@
    |mana_b|\ |mana_b|, |tap|: Destroy target white creature.
 
 
-:mtgtip:`Witch Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef749290-58e2-4b40-a141-5fe294f9b995.jpg?1562945502|https://scryfall.com/card/usg/169/witch-engine?utm_source=api>`
+:mtgtip:`Witch Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef749290-58e2-4b40-a141-5fe294f9b995.jpg?1642038766|https://scryfall.com/card/usg/169/witch-engine?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
-   |tap|: Add |mana_b|\ |mana_b|\ |mana_b|\ |mana_b|. Target opponent gains control of Witch Engine. (Activate only as a instant.)
+   |tap|: Add |mana_b|\ |mana_b|\ |mana_b|\ |mana_b|. Target opponent gains control of Witch Engine. (Activate only as an instant.)
 
 
 :mtgtip:`Yawgmoth's Edict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f16be4b-4540-476a-b3ac-7442507ed314.jpg?1562908087|https://scryfall.com/card/usg/170/yawgmoths-edict?utm_source=api>`

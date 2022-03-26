@@ -422,7 +422,7 @@
 :mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05741d2b-4aed-47f5-899e-7ed38e84ea39.jpg?1551119533|https://scryfall.com/card/gk2/68/rakdos-charm?utm_source=api>`
    Choose one —
 
-   • Exile all cards from target player's graveyard.
+   • Exile target player's graveyard.
 
    • Destroy target artifact.
 

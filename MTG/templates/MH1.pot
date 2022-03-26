@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 20:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2802,7 +2802,7 @@ msgid "Each opponent sacrifices a creature."
 msgstr ""
 
 #: ../../MH1.rst:1203
-msgid "Exile all cards from each opponent's graveyard."
+msgid "Exile all opponents' graveyards."
 msgstr ""
 
 #: ../../MH1.rst:1205
@@ -2822,7 +2822,7 @@ msgid ":mtgtip:`Kess, Dissident Mage<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../MH1.rst:1215
-msgid "During each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead."
+msgid "Once during each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead."
 msgstr ""
 
 #: ../../MH1.rst:1220

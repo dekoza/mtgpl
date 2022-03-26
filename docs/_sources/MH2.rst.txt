@@ -345,7 +345,7 @@
    |mana_2|, Sacrifice Parcel Myr: Draw a card.
 
 
-:mtgtip:`Phantasmal Dreadmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c.jpg?1626094727|https://scryfall.com/card/mh2/55/phantasmal-dreadmaw?utm_source=api>`
+:mtgtip:`Phantasmal Dreadmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c.jpg?1632168649|https://scryfall.com/card/mh2/55/phantasmal-dreadmaw?utm_source=api>`
    Trample
 
    When Phantasmal Dreadmaw becomes the target of a spell or ability, sacrifice it.
@@ -373,11 +373,11 @@
    |mana_1|, |tap|: Tap target land.
 
 
-:mtgtip:`Said<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1626094863|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
+:mtgtip:`Said<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1633332987|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
    Return target instant or sorcery card from your graveyard to your hand.
 
 
-:mtgtip:`Done<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1626094863|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
+:mtgtip:`Done<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43ab3ed2-2b50-4488-a21f-60965222970a.jpg?1633332987|https://scryfall.com/card/mh2/60/said-done?utm_source=api>`
    Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
 
 
@@ -757,11 +757,11 @@
    Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 
 
-:mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1629231952|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
+:mtgtip:`Fast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1633332976|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
    Discard a card, then draw two cards.
 
 
-:mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1629231952|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
+:mtgtip:`Furious<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b209759-6215-49e8-a6a0-a6c94040adb2.jpg?1633332976|https://scryfall.com/card/mh2/123/fast-furious?utm_source=api>`
    Furious deals 3 damage to each creature without flying.
 
 
@@ -787,7 +787,7 @@
    Evoke—Exile a red card from your hand.
 
 
-:mtgtip:`Galvanic Relay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06373318-e548-4664-b227-17e3b6fd0a88.jpg?1626096649|https://scryfall.com/card/mh2/127/galvanic-relay?utm_source=api>`
+:mtgtip:`Galvanic Relay<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06373318-e548-4664-b227-17e3b6fd0a88.jpg?1646666265|https://scryfall.com/card/mh2/127/galvanic-relay?utm_source=api>`
    Exile the top card of your library. During your next turn, you may play that card.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
@@ -853,7 +853,7 @@
    When Obsidian Charmaw enters the battlefield, destroy target nonbasic land an opponent controls.
 
 
-:mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1627449092|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
+:mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1643112412|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
    Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
 
    Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
@@ -1153,7 +1153,7 @@
    Each other creature you control without a +1/+1 counter on it has outlast |mana_gw|.
 
 
-:mtgtip:`Asmoranomardicadaistinaculdacar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d99a9a7d-d9ca-4c11-80ab-e39d5943a315.jpg?1626098080|https://scryfall.com/card/mh2/186/asmoranomardicadaistinaculdacar?utm_source=api>`
+:mtgtip:`Asmoranomardicadaistinaculdacar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d99a9a7d-d9ca-4c11-80ab-e39d5943a315.jpg?1632831210|https://scryfall.com/card/mh2/186/asmoranomardicadaistinaculdacar?utm_source=api>`
    As long as you've discarded a card this turn, you may pay |mana_br| to cast this spell.
 
    When Asmoranomardicadaistinaculdacar enters the battlefield, you may search your library for a card named The Underworld Cookbook, reveal it, put it into your hand, then shuffle.
@@ -1175,10 +1175,10 @@
    When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two target creatures.)
 
 
-:mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1626099571|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`
+:mtgtip:`Carth the Lion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1635612022|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`
    Whenever Carth the Lion enters the battlefield or a planeswalker you control dies, look at the top seven cards of your library. You may reveal a planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
-   Planeswalkers' loyalty abilities you activate cost an additional [+1] to activate.
+   Planeswalkers' loyalty abilities you activate cost an additional +1 to activate.
 
 
 :mtgtip:`Chrome Courier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a11d8da1-a183-470a-b4ed-2e35ac5ab9a9.jpg?1626098185|https://scryfall.com/card/mh2/190/chrome-courier?utm_source=api>`
@@ -1327,11 +1327,11 @@
    |mana_1|\ |mana_b|\ |mana_g|, Sacrifice an artifact or creature: You gain 1 life and draw a card.
 
 
-:mtgtip:`Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1626098731|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
+:mtgtip:`Road<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1633332983|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1626098731|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
+:mtgtip:`Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f336b4d4-9a84-4a87-a8ea-a83a842890ee.jpg?1633332983|https://scryfall.com/card/mh2/212/road-ruin?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Ruin deals damage to target creature equal to the number of lands you control.
@@ -1353,7 +1353,7 @@
    Madness |mana_b|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-:mtgtip:`Territorial Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2605df98-0b02-4aab-bc36-01e93c693743.jpg?1631302949|https://scryfall.com/card/mh2/216/territorial-kavu?utm_source=api>`
+:mtgtip:`Territorial Kavu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2605df98-0b02-4aab-bc36-01e93c693743.jpg?1634366740|https://scryfall.com/card/mh2/216/territorial-kavu?utm_source=api>`
    Domain — Territorial Kavu's power and toughness are each equal to the number of basic land types among lands you control.
 
    Whenever Territorial Kavu attacks, choose one —
@@ -1473,7 +1473,7 @@
    Each creature you control has vigilance if it's white, hexproof if it's blue, lifelink if it's black, first strike if it's red, and trample if it's green.
 
 
-:mtgtip:`Sojourner's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c6af084-eee7-4259-a58b-a866e0cf171b.jpg?1631126032|https://scryfall.com/card/mh2/235/sojourners-companion?utm_source=api>`
+:mtgtip:`Sojourner's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c6af084-eee7-4259-a58b-a866e0cf171b.jpg?1639440497|https://scryfall.com/card/mh2/235/sojourners-companion?utm_source=api>`
    Affinity for artifacts
 
    Artifact landcycling |mana_2| (|mana_2|, Discard this card: Search your library for an artifact land card, reveal it, put it into your hand, then shuffle.)
@@ -1504,7 +1504,7 @@
 :mtgtip:`Tormod's Cryptkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05900f1d-f065-4656-a8a2-2f719d3fdea8.jpg?1626099378|https://scryfall.com/card/mh2/239/tormods-cryptkeeper?utm_source=api>`
    Vigilance
 
-   |tap|, Sacrifice Tormod's Cryptkeeper: Exile all cards from target player's graveyard.
+   |tap|, Sacrifice Tormod's Cryptkeeper: Exile target player's graveyard.
 
 
 :mtgtip:`The Underworld Cookbook<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/039d62b0-3309-4424-a2ea-5a0d88d4bd72.jpg?1626099402|https://scryfall.com/card/mh2/240/the-underworld-cookbook?utm_source=api>`
@@ -1769,7 +1769,7 @@
    Whenever you cast an enchantment spell, draw a card.
 
 
-:mtgtip:`Hunting Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c9eb595-e8fa-4a5e-abca-d30613c0e28f.jpg?1626100599|https://scryfall.com/card/mh2/284/hunting-pack?utm_source=api>`
+:mtgtip:`Hunting Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c9eb595-e8fa-4a5e-abca-d30613c0e28f.jpg?1633679448|https://scryfall.com/card/mh2/284/hunting-pack?utm_source=api>`
    Create a 4/4 green Beast creature token.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
@@ -1789,7 +1789,7 @@
    Whenever a land you control is put into a graveyard from the battlefield, create a 5/3 green Elemental creature token.
 
 
-:mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8511fe7-63f9-4942-8972-d40bf5d7e949.jpg?1626100691|https://scryfall.com/card/mh2/288/yavimaya-elder?utm_source=api>`
+:mtgtip:`Yavimaya Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8511fe7-63f9-4942-8972-d40bf5d7e949.jpg?1633281721|https://scryfall.com/card/mh2/288/yavimaya-elder?utm_source=api>`
    When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 
    |mana_2|, Sacrifice Yavimaya Elder: Draw a card.
@@ -1801,11 +1801,11 @@
    Whenever a nontoken creature enters the battlefield under your control, if you didn't cast it from your hand, it gains haste until your next turn.
 
 
-:mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1626100737|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
+:mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
    Fire deals 2 damage divided as you choose among one or two targets.
 
 
-:mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1626100737|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
+:mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
    Tap target permanent.
 
    Draw a card.
@@ -1851,7 +1851,7 @@
    |mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments.
 
 
-:mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3002ccef-5322-4f99-9fce-3b4303347240.jpg?1626100975|https://scryfall.com/card/mh2/299/patchwork-gnomes?utm_source=api>`
+:mtgtip:`Patchwork Gnomes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3002ccef-5322-4f99-9fce-3b4303347240.jpg?1632159130|https://scryfall.com/card/mh2/299/patchwork-gnomes?utm_source=api>`
    Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 

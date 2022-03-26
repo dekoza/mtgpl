@@ -236,7 +236,7 @@
 :mtgtip:`Kess, Dissident Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01711ff6-475c-48c4-91f4-438433f88a95.jpg?1562598121|https://scryfall.com/card/c17/39/kess-dissident-mage?utm_source=api>`
    Flying
 
-   During each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.
+   Once during each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Licia, Sanguine Tribune<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64eab2ba-ed5e-4757-b42d-c0fc71a96c4c.jpg?1562610809|https://scryfall.com/card/c17/40/licia-sanguine-tribune?utm_source=api>`
@@ -1102,7 +1102,7 @@
 :mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a65cfd49-3df7-4c75-832f-657958a27de3.jpg?1562619414|https://scryfall.com/card/c17/190/rakdos-charm?utm_source=api>`
    Choose one —
 
-   • Exile all cards from target player's graveyard.
+   • Exile target player's graveyard.
 
    • Destroy target artifact.
 
@@ -1278,7 +1278,7 @@
 
 
 :mtgtip:`Nihil Spellbomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/7012494f-0b9b-4634-b608-328649bec97c.jpg?1562612263|https://scryfall.com/card/c17/218/nihil-spellbomb?utm_source=api>`
-   |tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+   |tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard.
 
    When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay |mana_b|. If you do, draw a card.
 
@@ -1404,7 +1404,7 @@
 :mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e379c13b-88c6-46ef-b3f6-d35ed2e8860b.jpg?1562626869|https://scryfall.com/card/c17/238/bojuka-bog?utm_source=api>`
    Bojuka Bog enters the battlefield tapped.
 
-   When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+   When Bojuka Bog enters the battlefield, exile target player's graveyard.
 
    |tap|: Add |mana_b|.
 
@@ -1677,7 +1677,7 @@
    Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Selesnya Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c1d26ae-d775-4cd4-afc1-139021d77543.jpg?1621281474|https://scryfall.com/card/c17/279/selesnya-guildgate?utm_source=api>`
+:mtgtip:`Selesnya Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c1d26ae-d775-4cd4-afc1-139021d77543.jpg?1644254593|https://scryfall.com/card/c17/279/selesnya-guildgate?utm_source=api>`
    Selesnya Guildgate enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_w|.

@@ -177,7 +177,7 @@
    At the beginning of each opponent's end step, if that player controls more lands than you, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Keleth, Sunmane Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de0ba512-b6c3-4931-be05-cb6bd03a4b7c.jpg?1617148325|https://scryfall.com/card/cmr/28/keleth-sunmane-familiar?utm_source=api>`
+:mtgtip:`Keleth, Sunmane Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de0ba512-b6c3-4931-be05-cb6bd03a4b7c.jpg?1644853028|https://scryfall.com/card/cmr/28/keleth-sunmane-familiar?utm_source=api>`
    Whenever a commander you control attacks, put a +1/+1 counter on it.
 
    Partner (You can have two commanders if both have partner.)
@@ -193,7 +193,7 @@
    When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Livio, Oathsworn Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02bce846-8049-4d5c-b0ad-8abd484e5a27.jpg?1608908866|https://scryfall.com/card/cmr/31/livio-oathsworn-sentinel?utm_source=api>`
+:mtgtip:`Livio, Oathsworn Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02bce846-8049-4d5c-b0ad-8abd484e5a27.jpg?1644853034|https://scryfall.com/card/cmr/31/livio-oathsworn-sentinel?utm_source=api>`
    |mana_1|\ |mana_w|: Choose another target creature. Its controller may exile it with an aegis counter on it.
 
    |mana_2|\ |mana_w|, |tap|: Return all exiled cards with aegis counters on them to the battlefield under their owners' control.
@@ -858,7 +858,7 @@
 
    • Each opponent sacrifices a creature they control with the greatest power.
 
-   • Exile all cards from all opponents' graveyards, then create X 0/1 black Thrull creature tokens, where X is the greatest power among creature cards exiled this way.
+   • Exile all opponents' graveyards, then create X 0/1 black Thrull creature tokens, where X is the greatest power among creature cards exiled this way.
 
 
 :mtgtip:`Tevesh Szat, Doom of Fools<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f244716-78ab-46f5-b6e9-fc1e6db28052.jpg?1608909980|https://scryfall.com/card/cmr/153/tevesh-szat-doom-of-fools?utm_source=api>`
@@ -1055,7 +1055,7 @@
    Encore |mana_3|\ |mana_r| (|mana_3|\ |mana_r|, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)
 
 
-:mtgtip:`Jeska, Thrice Reborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48caf4c4-745c-4072-bf3d-1a3fa7c3bc9c.jpg?1612316315|https://scryfall.com/card/cmr/186/jeska-thrice-reborn?utm_source=api>`
+:mtgtip:`Jeska, Thrice Reborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48caf4c4-745c-4072-bf3d-1a3fa7c3bc9c.jpg?1644853023|https://scryfall.com/card/cmr/186/jeska-thrice-reborn?utm_source=api>`
    Jeska, Thrice Reborn enters the battlefield with a loyalty counter on her for each time you've cast a commander from the command zone this game.
 
    0: Choose target creature. Until your next turn, if that creature would deal combat damage to one of your opponents, it deals triple that damage to that player instead.
@@ -1125,7 +1125,7 @@
    Menace (This creature can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Rograkh, Son of Rohgahh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4fab67f-00c2-4125-9262-d21a29411797.jpg?1617148376|https://scryfall.com/card/cmr/197/rograkh-son-of-rohgahh?utm_source=api>`
+:mtgtip:`Rograkh, Son of Rohgahh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4fab67f-00c2-4125-9262-d21a29411797.jpg?1644853041|https://scryfall.com/card/cmr/197/rograkh-son-of-rohgahh?utm_source=api>`
    First strike, menace, trample
 
    Partner (You can have two commanders if both have partner.)
@@ -1889,7 +1889,7 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644|https://scryfall.com/card/cmr/334/prophetic-prism?utm_source=api>`
+:mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1642716718|https://scryfall.com/card/cmr/334/prophetic-prism?utm_source=api>`
    When Prophetic Prism enters the battlefield, draw a card.
 
    |mana_1|, |tap|: Add one mana of any color.
@@ -2059,7 +2059,7 @@
    Whenever Wyleth, Soul of Steel attacks, draw a card for each Aura and Equipment attached to it.
 
 
-:mtgtip:`Timely Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5de08a92-9b60-4672-9f3b-3ceb53ca82ca.jpg?1610074826|https://scryfall.com/card/cmr/363/timely-ward?utm_source=api>`
+:mtgtip:`Timely Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5de08a92-9b60-4672-9f3b-3ceb53ca82ca.jpg?1641579157|https://scryfall.com/card/cmr/363/timely-ward?utm_source=api>`
    You may cast this spell as though it had flash if it targets a commander.
 
    Enchant creature
@@ -2185,7 +2185,7 @@
    Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
 
 
-:mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1628801823|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`
+:mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1641203956|https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api>`
    Exile target creature. Its controller gains life equal to its power.
 
 
@@ -2206,7 +2206,7 @@
 :mtgtip:`Valorous Stance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c87066f6-a5c3-4855-bee5-05931f421d34.jpg?1608912040|https://scryfall.com/card/cmr/390/valorous-stance?utm_source=api>`
    Choose one —
 
-   • Target creature gains indestructible until end of turn.
+   • Target creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
    • Destroy target creature with toughness 4 or greater.
 
@@ -2255,7 +2255,7 @@
    |mana_1|, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying.
 
 
-:mtgtip:`Mulldrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e06fc13-6a58-40f8-a3e6-5558a7a0d18f.jpg?1608912131|https://scryfall.com/card/cmr/400/mulldrifter?utm_source=api>`
+:mtgtip:`Mulldrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e06fc13-6a58-40f8-a3e6-5558a7a0d18f.jpg?1641578972|https://scryfall.com/card/cmr/400/mulldrifter?utm_source=api>`
    Flying
 
    When Mulldrifter enters the battlefield, draw two cards.
@@ -2385,7 +2385,7 @@
    When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
 
 
-:mtgtip:`Avenger of Zendikar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03dea775-bbb3-4e9c-8514-0605b5ad2e8b.jpg?1608919621|https://scryfall.com/card/cmr/422/avenger-of-zendikar?utm_source=api>`
+:mtgtip:`Avenger of Zendikar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03dea775-bbb3-4e9c-8514-0605b5ad2e8b.jpg?1632467938|https://scryfall.com/card/cmr/422/avenger-of-zendikar?utm_source=api>`
    When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant creature token for each land you control.
 
    Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.
@@ -2875,7 +2875,7 @@
    |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate only during combat.
 
 
-:mtgtip:`Akiri, Line-Slinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccf9923a-ad50-49e5-bf96-c669a39b84fd.jpg?1612229905|https://scryfall.com/card/cmr/515/akiri-line-slinger?utm_source=api>`
+:mtgtip:`Akiri, Line-Slinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccf9923a-ad50-49e5-bf96-c669a39b84fd.jpg?1632430949|https://scryfall.com/card/cmr/515/akiri-line-slinger?utm_source=api>`
    First strike, vigilance
 
    Akiri, Line-Slinger gets +1/+0 for each artifact you control.

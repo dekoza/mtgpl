@@ -313,7 +313,7 @@
    When Man-o'-War enters the battlefield, return target creature to its owner's hand.
 
 
-:mtgtip:`Memory Lapse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30202613-d05f-4f47-af97-d0b75ccac293.jpg?1580014031|https://scryfall.com/card/ema/60/memory-lapse?utm_source=api>`
+:mtgtip:`Memory Lapse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30202613-d05f-4f47-af97-d0b75ccac293.jpg?1634131658|https://scryfall.com/card/ema/60/memory-lapse?utm_source=api>`
    Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
 
 
@@ -1220,7 +1220,7 @@
 :mtgtip:`Relic of Progenitus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265|https://scryfall.com/card/ema/231/relic-of-progenitus?utm_source=api>`
    |tap|: Target player exiles a card from their graveyard.
 
-   |mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+   |mana_1|, Exile Relic of Progenitus: Exile all graveyards. Draw a card.
 
 
 :mtgtip:`Sensei's Divining Top<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83c01c91-ea01-46c7-b94c-97777b968459.jpg?1580015272|https://scryfall.com/card/ema/232/senseis-divining-top?utm_source=api>`

@@ -62,7 +62,7 @@
 
 
 :mtgtip:`Morningtide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a62e17a7-3602-45af-bdb6-fa5f2a9f1155.jpg?1574250416|https://scryfall.com/card/tor/10/morningtide?utm_source=api>`
-   Exile all cards from all graveyards.
+   Exile all graveyards.
 
 
 :mtgtip:`Mystic Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b235567a-424e-48da-a94b-c6674a73b3fa.jpg?1574250420|https://scryfall.com/card/tor/11/mystic-familiar?utm_source=api>`

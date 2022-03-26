@@ -601,11 +601,11 @@
    Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89ed88b1-c2b8-4c6e-87a6-168035b2f8c8.jpg?1604195451|https://scryfall.com/card/znc/106/arcane-signet?utm_source=api>`
+:mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89ed88b1-c2b8-4c6e-87a6-168035b2f8c8.jpg?1638976239|https://scryfall.com/card/znc/106/arcane-signet?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
 
 
-:mtgtip:`Blackblade Reforged<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa4146f0-0c8c-4b8a-8d24-b6c5e33eba3d.jpg?1604195491|https://scryfall.com/card/znc/107/blackblade-reforged?utm_source=api>`
+:mtgtip:`Blackblade Reforged<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa4146f0-0c8c-4b8a-8d24-b6c5e33eba3d.jpg?1646830053|https://scryfall.com/card/znc/107/blackblade-reforged?utm_source=api>`
    Equipped creature gets +1/+1 for each land you control.
 
    Equip legendary creature |mana_3|
@@ -703,7 +703,7 @@
    |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Boros Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bddfae4-f928-4209-96c5-a483f9c20823.jpg?1604195938|https://scryfall.com/card/znc/122/boros-garrison?utm_source=api>`
+:mtgtip:`Boros Garrison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bddfae4-f928-4209-96c5-a483f9c20823.jpg?1636971010|https://scryfall.com/card/znc/122/boros-garrison?utm_source=api>`
    Boros Garrison enters the battlefield tapped.
 
    When Boros Garrison enters the battlefield, return a land you control to its owner's hand.
@@ -823,7 +823,7 @@
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Selesnya Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6d7a00e-f828-43c1-bcbe-ea04589dc4ed.jpg?1604196496|https://scryfall.com/card/znc/140/selesnya-sanctuary?utm_source=api>`
+:mtgtip:`Selesnya Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6d7a00e-f828-43c1-bcbe-ea04589dc4ed.jpg?1636971013|https://scryfall.com/card/znc/140/selesnya-sanctuary?utm_source=api>`
    Selesnya Sanctuary enters the battlefield tapped.
 
    When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.

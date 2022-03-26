@@ -827,7 +827,7 @@
    At the beginning of your next upkeep, pay |mana_2|\ |mana_b|. If you don't, you lose the game.
 
 
-:mtgtip:`Smallpox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1619396163|https://scryfall.com/card/tsr/139/smallpox?utm_source=api>`
+:mtgtip:`Smallpox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c28db9a4-6696-460b-a9d3-98f4a31abe75.jpg?1636283762|https://scryfall.com/card/tsr/139/smallpox?utm_source=api>`
    Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.
 
 
@@ -2188,7 +2188,7 @@
 :mtgtip:`Rakdos Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5cbac09-6c0c-4c5d-be20-d558815990fb.jpg?1619402662|https://scryfall.com/card/tsr/384/rakdos-charm?utm_source=api>`
    Choose one —
 
-   • Exile all cards from target player's graveyard.
+   • Exile target player's graveyard.
 
    • Destroy target artifact.
 
@@ -2324,7 +2324,7 @@
 :mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d46ca7cb-4a04-4081-8834-6bc29e0762d2.jpg?1619403442|https://scryfall.com/card/tsr/406/bojuka-bog?utm_source=api>`
    Bojuka Bog enters the battlefield tapped.
 
-   When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+   When Bojuka Bog enters the battlefield, exile target player's graveyard.
 
    |tap|: Add |mana_b|.
 

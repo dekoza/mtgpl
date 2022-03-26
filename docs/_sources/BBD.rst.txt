@@ -955,7 +955,7 @@
    |mana_7|\ |mana_r|: Flamewave Invoker deals 5 damage to target player or planeswalker.
 
 
-:mtgtip:`Goblin Razerunners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d55da0b4-92a5-48a3-bec1-24baf190e91a.jpg?1562937781|https://scryfall.com/card/bbd/179/goblin-razerunners?utm_source=api>`
+:mtgtip:`Goblin Razerunners<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d55da0b4-92a5-48a3-bec1-24baf190e91a.jpg?1645036102|https://scryfall.com/card/bbd/179/goblin-razerunners?utm_source=api>`
    |mana_1|\ |mana_r|, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.
 
    At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker.

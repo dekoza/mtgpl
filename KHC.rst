@@ -108,7 +108,7 @@
 :mtgtip:`Angel of Finality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fef86cfe-6e4a-4ff7-bb6d-914d8c1e0782.jpg?1631233851|https://scryfall.com/card/khc/17/angel-of-finality?utm_source=api>`
    Flying
 
-   When Angel of Finality enters the battlefield, exile all cards from target player's graveyard.
+   When Angel of Finality enters the battlefield, exile target player's graveyard.
 
 
 :mtgtip:`Angel of Serenity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c175b50d-81cc-45dd-854f-7f8ca31cffa4.jpg?1631233873|https://scryfall.com/card/khc/18/angel-of-serenity?utm_source=api>`

@@ -208,7 +208,7 @@
 :mtgtip:`Valorous Stance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c72729e-d2fa-4bbb-8524-8c88acb30850.jpg?1598303670|https://scryfall.com/card/2xm/38/valorous-stance?utm_source=api>`
    Choose one —
 
-   • Target creature gains indestructible until end of turn.
+   • Target creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
    • Destroy target creature with toughness 4 or greater.
 
@@ -451,7 +451,7 @@
    When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature's power.
 
 
-:mtgtip:`Disciple of the Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1598304605|https://scryfall.com/card/2xm/86/disciple-of-the-vault?utm_source=api>`
+:mtgtip:`Disciple of the Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1646666263|https://scryfall.com/card/2xm/86/disciple-of-the-vault?utm_source=api>`
    Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.
 
 
@@ -532,7 +532,7 @@
 :mtgtip:`Ravenous Trap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce0fae06-1a93-43ac-a349-f3719e60076e.jpg?1599705879|https://scryfall.com/card/2xm/103/ravenous-trap?utm_source=api>`
    If an opponent had three or more cards put into their graveyard from anywhere this turn, you may pay |mana_0| rather than pay this spell's mana cost.
 
-   Exile all cards from target player's graveyard.
+   Exile target player's graveyard.
 
 
 :mtgtip:`Salvage Titan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/7175febd-ae8e-4945-91ab-b6c67c40f04b.jpg?1599705900|https://scryfall.com/card/2xm/104/salvage-titan?utm_source=api>`
@@ -1367,7 +1367,7 @@
    |tap|: Add |colorless| for each charge counter on Everflowing Chalice.
 
 
-:mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/551c0a45-9515-4e51-84e5-79703832a661.jpg?1599709184|https://scryfall.com/card/2xm/255/expedition-map?utm_source=api>`
+:mtgtip:`Expedition Map<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/551c0a45-9515-4e51-84e5-79703832a661.jpg?1646666270|https://scryfall.com/card/2xm/255/expedition-map?utm_source=api>`
    |mana_2|, |tap|, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.
 
 
@@ -1827,22 +1827,22 @@
    |mana_gw|, |tap|: Add |mana_g|\ |mana_g|, |mana_g|\ |mana_w|, or |mana_w|\ |mana_w|.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3db531-3f21-49a2-8aeb-d98b7db94397.jpg?1597118248|https://scryfall.com/card/2xm/373/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3db531-3f21-49a2-8aeb-d98b7db94397.jpg?1641305927|https://scryfall.com/card/2xm/373/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1597115911|https://scryfall.com/card/2xm/375/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846|https://scryfall.com/card/2xm/375/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e5eef83-a3d4-44c7-a6cb-7f6803825b9e.jpg?1597116662|https://scryfall.com/card/2xm/377/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e5eef83-a3d4-44c7-a6cb-7f6803825b9e.jpg?1641305774|https://scryfall.com/card/2xm/377/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1597117048|https://scryfall.com/card/2xm/379/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698|https://scryfall.com/card/2xm/379/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1597117694|https://scryfall.com/card/2xm/381/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617|https://scryfall.com/card/2xm/381/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

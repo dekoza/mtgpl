@@ -1218,7 +1218,7 @@
 :mtgtip:`Relic of Progenitus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c285b3a0-a27c-4416-a1b5-90219a5c7800.jpg?1561968548|https://scryfall.com/card/mma/213/relic-of-progenitus?utm_source=api>`
    |tap|: Target player exiles a card from their graveyard.
 
-   |mana_1|, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+   |mana_1|, Exile Relic of Progenitus: Exile all graveyards. Draw a card.
 
 
 :mtgtip:`Runed Stalactite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a54f50fe-d4c0-49ba-9063-853c76ae3e19.jpg?1561968070|https://scryfall.com/card/mma/214/runed-stalactite?utm_source=api>`

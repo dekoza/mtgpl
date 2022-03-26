@@ -546,7 +546,7 @@
 
 
 :mtgtip:`Tormod's Crypt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f9668ba-d26d-4484-b4b8-6fb91fbfb617.jpg?1562898664|https://scryfall.com/card/drk/112/tormods-crypt?utm_source=api>`
-   |tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.
+   |tap|, Sacrifice Tormod's Crypt: Exile target player's graveyard.
 
 
 :mtgtip:`Tower of Coireall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64c19977-ac7d-4ce7-925c-33a7503420f5.jpg?1562918738|https://scryfall.com/card/drk/113/tower-of-coireall?utm_source=api>`

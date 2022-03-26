@@ -519,7 +519,7 @@
    Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
-:mtgtip:`Imprison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12671381-beb7-41b8-9484-97f8aca5c981.jpg?1591989149|https://scryfall.com/card/leg/107/imprison?utm_source=api>`
+:mtgtip:`Imprison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12671381-beb7-41b8-9484-97f8aca5c981.jpg?1644608203|https://scryfall.com/card/leg/107/imprison?utm_source=api>`
    Enchant creature
 
    Whenever a player activates an ability of enchanted creature with |tap| in its activation cost that isn't a mana ability, you may pay |mana_1|. If you do, counter that ability. If you don't, destroy Imprison.

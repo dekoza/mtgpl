@@ -1200,7 +1200,7 @@
 
    • Each opponent sacrifices a creature.
 
-   • Exile all cards from each opponent's graveyard.
+   • Exile all opponents' graveyards.
 
    • Create a 1/1 white and black Spirit creature token with flying.
 
@@ -1212,7 +1212,7 @@
 :mtgtip:`Kess, Dissident Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3651483f-6077-4b4e-b2c7-9d57f22c65dc.jpg?1562202361|https://scryfall.com/card/mh1/206/kess-dissident-mage?utm_source=api>`
    Flying
 
-   During each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.
+   Once during each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Lavabelly Sliver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6f0c9d6-cffc-4d8c-b455-e9feb8748aa7.jpg?1562202366|https://scryfall.com/card/mh1/207/lavabelly-sliver?utm_source=api>`

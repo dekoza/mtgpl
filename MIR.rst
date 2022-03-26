@@ -308,7 +308,7 @@
 
 
 :mtgtip:`Bazaar of Wonders<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78e7a165-e135-4b85-943d-8352b6e65870.jpg?1562720232|https://scryfall.com/card/mir/55/bazaar-of-wonders?utm_source=api>`
-   When Bazaar of Wonders enters the battlefield, exile all cards from all graveyards.
+   When Bazaar of Wonders enters the battlefield, exile all graveyards.
 
    Whenever a player casts a spell, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield.
 
