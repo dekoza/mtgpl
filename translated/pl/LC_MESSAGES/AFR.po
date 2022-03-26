@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:30+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-26 19:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -1850,10 +1850,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:549
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Level 2"
 msgid "|mana_2|\\ |mana_u|: Level 3"
-msgstr "|mana_2|\\ |mana_u|: Poziom 2"
+msgstr "|mana_2|\\ |mana_u|: Poziom 3"
 
 #: ../../AFR.rst:562
 msgid ""
@@ -1999,16 +1997,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:603
-#, fuzzy
-#| msgid ""
-#| "Whenever Acererak the Archlich attacks, for each opponent, you create a "
-#| "2/2 black Zombie creature token unless that player sacrifices a creature."
 msgid ""
 "Whenever Acererak the Archlich attacks, create a number of 2/2 black Zombie "
 "creature tokens equal to the number of opponents you have."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, za każdego przeciwnika stwórz żeton czarnego "
-"stwora Zombi 2/2, chyba że ów gracz poświęci stwora."
+"Ilekroć ten stwór zaatakuje, stwórz tyle żetonów czarnego stwora Zombi 2/2, "
+"ilu posiadasz przeciwników."
 
 #: ../../AFR.rst:612
 msgid ""
@@ -2186,17 +2180,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:657
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, if a creature died this turn, you may "
-#| "pay |mana_1|. If you do, create a 1/1 black Skeleton creature token."
 msgid ""
 "At the beginning of your end step, if a creature died this turn, create a "
 "1/1 black Skeleton creature token."
 msgstr ""
-"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, możesz "
-"zapłacić |mana_1|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Szkielet "
-"1/1."
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, stwórz "
+"żeton czarnego stwora Szkielet 1/1."
 
 #: ../../AFR.rst:662
 msgid ""
@@ -3913,10 +3902,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1233
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_g|: Level 2"
 msgid "|mana_2|\\ |mana_g|: Level 3"
-msgstr "|mana_2|\\ |mana_g|: Poziom 2"
+msgstr "|mana_2|\\ |mana_g|: Poziom 3"
 
 #: ../../AFR.rst:1244
 msgid ""
@@ -3961,15 +3948,11 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1251
-#, fuzzy
-#| msgid ""
-#| "−7: You get an emblem with \"Creatures you control have trample and haste "
-#| "and get +2/+2 for each differently named dungeon you've completed.\""
 msgid ""
 "−6: You get an emblem with \"Creatures you control have trample and haste "
 "and get +2/+2 for each differently named dungeon you've completed.\""
 msgstr ""
-"–7: Dostajesz emblemat mający \"Stwory pod twoim władaniem mają tratowanie i "
+"–6: Dostajesz emblemat z \"Stwory pod twoim władaniem mają tratowanie i "
 "pośpiech i dostają +2/+2 za każdy ukończony przez ciebie loch o innej nazwie."
 "\""
 
@@ -4019,20 +4002,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1271
-#, fuzzy
-#| msgid ""
-#| "When Find the Path enters the battlefield, venture into the dungeon. "
-#| "(Enter the first room or advance to the next room.)"
 msgid "When Find the Path enters the battlefield, venture into the dungeon."
-msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
-"pierwszej sali lub przejdź do kolejnej sali.)"
+msgstr "Kiedy ten urok wejdzie na pole bitwy, zapuść się do lochu."
 
 #: ../../AFR.rst:1273
-#, fuzzy
-#| msgid "Enchanted land has \"|tap|: Add |mana_g|\\ |mana_g|.\""
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr "Zauroczony ląd ma \"|tap|: Weź |mana_g|\\ |mana_g|.\""
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../AFR.rst:1280
 msgid ""
@@ -5616,18 +5591,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1801
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|, Tap an untapped legendary creature you control: Venture "
-#| "into the dungeon. Activate only as a sorcery. (Enter the first room or "
-#| "advance to the next room.)"
 msgid ""
 "|mana_1|, |tap|, Tap an untapped legendary creature you control: Venture "
 "into the dungeon. Activate only as a sorcery."
 msgstr ""
-"|mana_4|, |tap|, przekręć odkręconego legendarnego stwora pod twoim "
-"władaniem: Zapuść się do lochu. Aktywuj tylko jako obrzęd. (Wejdź do "
-"pierwszej sali lub przejdź do kolejnej sali.)"
+"|mana_1|, |tap|, przekręć odkręconego legendarnego stwora pod twoim "
+"władaniem: Zapuść się do lochu. Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:1806
 msgid ""

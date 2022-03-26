@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:30+0100\n"
-"PO-Revision-Date: 2022-03-21 12:32+0000\n"
+"PO-Revision-Date: 2022-03-26 19:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -211,10 +211,8 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
-#, fuzzy
-#| msgid "{(g/u)}"
 msgid "{(g/u/p)}"
-msgstr "{(g/u)}"
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
@@ -1031,18 +1029,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:265
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, choose a card type, then reveal the "
-#| "top two cards of your library. Put all cards of the chosen type revealed "
-#| "this way into your hand and the rest on the bottom of your library in any "
-#| "order."
 msgid ""
 "At the beginning of your end step, choose a card type, then reveal the top "
 "three cards of your library. Put all cards of the chosen type revealed this "
 "way into your hand and the rest on the bottom of your library in any order."
 msgstr ""
-"Na początku twojego kroku końcowego wybierz typ karty, po czym ujawnij dwie "
+"Na początku twojego kroku końcowego wybierz typ karty, po czym ujawnij trzy "
 "wierzchnie karty twojej biblioteki. Umieść spośród nich wszystkie karty "
 "wybranego typu w twojej ręce, a pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
@@ -1088,22 +1080,16 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:281
-#, fuzzy
-#| msgid ""
-#| "Exile target artifact or creature. Its controller creates a 1/1 blue Bird "
-#| "creature token with flying."
 msgid ""
 "Take an extra turn after this one. If this spell was foretold, create two "
 "1/1 blue Bird creature tokens with flying. Exile Alrund's Epiphany."
 msgstr ""
-"Wygnaj wskazany artefakt lub stwora. Jego właściciel tworzy żeton "
-"niebieskiego stwora Ptak 1/1 z lataniem."
+"Weź dodatkową turę po obecnej. Jeśli ten czar był przepowiedziany, stwórz "
+"dwa żetony niebieskiego stwora Ptak 1/1 z lataniem. Wygnaj ten czar."
 
 #: ../../KHM.rst:283
-#, fuzzy
-#| msgid "Foretell |mana_2|\\ |mana_r|\\ |mana_r|"
 msgid "Foretell |mana_5|\\ |mana_u|\\ |mana_u|"
-msgstr "Przepowiednia |mana_2|\\ |mana_r|\\ |mana_r|"
+msgstr "Przepowiednia |mana_5|\\ |mana_u|\\ |mana_u|"
 
 #: ../../KHM.rst:288
 msgid ""
@@ -1327,10 +1313,8 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:359
-#, fuzzy
-#| msgid "Foretell |mana_2|\\ |mana_w|"
 msgid "Foretell |mana_1|\\ |mana_u|"
-msgstr "Przepowiednia |mana_2|\\ |mana_w|"
+msgstr "Przepowiednia |mana_1|\\ |mana_u|"
 
 #: ../../KHM.rst:364
 msgid ""
@@ -2589,14 +2573,8 @@ msgid "−3: Exile target artifact or creature."
 msgstr "–3: Wygnaj wskazany artefakt lub stwora."
 
 #: ../../KHM.rst:743
-#, fuzzy
-#| msgid ""
-#| "−8: Exile all cards from all graveyards. Add |mana_r|\\ |mana_r|\\ |"
-#| "mana_r|."
 msgid "−8: Exile all graveyards. Add |mana_r|\\ |mana_r|\\ |mana_r|."
-msgstr ""
-"–8: Wygnaj wszystkie karty z wszystkich cmentarzy. Weź |mana_r|\\ |mana_r|\\ "
-"|mana_r|."
+msgstr "–8: Wygnaj wszystkie cmentarze. Weź |mana_r|\\ |mana_r|\\ |mana_r|."
 
 #: ../../KHM.rst:750
 msgid ""
@@ -3064,14 +3042,8 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:893
-#, fuzzy
-#| msgid ""
-#| "Whenever Goldspan Dragon attacks or becomes the target of a spell, create "
-#| "a Treasure token."
 msgid "Whenever A-Goldspan Dragon attacks, create a Treasure token."
-msgstr ""
-"Ilekroć ten stwór zaatakuje lub zostaniee wskazany przez czar, stwórz żeton "
-"Skarbu."
+msgstr "Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu."
 
 #: ../../KHM.rst:900
 msgid ""
@@ -3690,22 +3662,16 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1079
-#, fuzzy
-#| msgid ""
-#| "When Esika's Chariot enters the battlefield, create two 2/2 green Cat "
-#| "creature tokens."
 msgid ""
 "When Esika's Chariot enters the battlefield, create a 2/2 green Cat creature "
 "token."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
-"Kot 2/2."
+"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton zielonego stwora Kot "
+"2/2."
 
 #: ../../KHM.rst:1083
-#, fuzzy
-#| msgid "Crew 1"
 msgid "Crew 2"
-msgstr "Załoga 1"
+msgstr "Załoga 2"
 
 #: ../../KHM.rst:1090
 msgid ""
@@ -5171,10 +5137,8 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1563
-#, fuzzy
-#| msgid "Equip |mana_2|"
 msgid "Ward |mana_2|"
-msgstr "Wyposaż |mana_2|"
+msgstr "Opieka |mana_2|"
 
 #: ../../KHM.rst:1576
 msgid ""
@@ -5271,16 +5235,13 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1597
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, draw a card if your life total is "
-#| "greater than your starting life total. Otherwise, you gain 2 life."
 msgid ""
 "At the beginning of your end step, draw a card if your life total is greater "
 "than your starting life total. Otherwise, you gain 2 life and scry 1."
 msgstr ""
 "Na początku twojego kroku końcowego, dobierz kartę jeśli twoje życia mają "
-"większą wartość niż ich startowa wartość. W przeciwnym razie zyskaj 2 życia."
+"większą wartość niż ich startowa wartość. W przeciwnym razie zyskaj 2 życia "
+"i wróż 1."
 
 #: ../../KHM.rst:1604
 msgid ""
@@ -5644,17 +5605,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1721
-#, fuzzy
-#| msgid ""
-#| "|mana_s|\\ |mana_s|\\ |mana_s|: Faceless Haven becomes a 4/3 creature "
-#| "with vigilance and all creature types until end of turn. It's still a "
-#| "land. (|mana_s| can be paid with one mana from a snow source.)"
 msgid ""
 "|mana_s|\\ |mana_s|\\ |mana_s|: Faceless Haven becomes a 3/3 creature with "
 "vigilance and all creature types until end of turn. It's still a land. (|"
 "mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
-"|mana_s|\\ |mana_s|\\ |mana_s|: Ten ląd staje się do końca tury stworem 4/3 "
+"|mana_s|\\ |mana_s|\\ |mana_s|: Ten ląd staje się do końca tury stworem 3/3 "
 "z czujnością i każdym typem stwora. Nadal jest lądem. (|mana_s| może być "
 "opłacona jedną maną ze śnieżnego źródła.)"
 

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:33+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-26 19:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/thb/pl/>\n"
 "Language: pl\n"
@@ -4728,10 +4728,8 @@ msgid "Temple of Abandon enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1483
-#, fuzzy
-#| msgid "Temple of Abandon enters the battlefield tapped."
 msgid "When Temple of Abandon enters the battlefield, scry 1."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:1485
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -4749,10 +4747,8 @@ msgid "Temple of Deceit enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1491
-#, fuzzy
-#| msgid "Temple of Deceit enters the battlefield tapped."
 msgid "When Temple of Deceit enters the battlefield, scry 1."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:1493
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4770,10 +4766,8 @@ msgid "Temple of Enlightenment enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1499
-#, fuzzy
-#| msgid "Temple of Enlightenment enters the battlefield tapped."
 msgid "When Temple of Enlightenment enters the battlefield, scry 1."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:1501
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4791,10 +4785,8 @@ msgid "Temple of Malice enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1507
-#, fuzzy
-#| msgid "Temple of Malice enters the battlefield tapped."
 msgid "When Temple of Malice enters the battlefield, scry 1."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:1509
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -4812,10 +4804,8 @@ msgid "Temple of Plenty enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THB.rst:1515
-#, fuzzy
-#| msgid "When Rumbling Sentry enters the battlefield, scry 1."
 msgid "When Temple of Plenty enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
 
 #: ../../THB.rst:1517
 msgid "|tap|: Add |mana_g| or |mana_w|."

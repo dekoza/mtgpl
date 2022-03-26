@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:30+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-26 19:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -718,15 +718,11 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:149
-#, fuzzy
-#| msgid ""
-#| "At the beginning of combat on your turn, put a +1/+1 counter on target "
-#| "creature you control."
 msgid ""
 "At the beginning of your end step, put a +1/+1 counter on target creature "
 "you control."
 msgstr ""
-"Na początku potyczki w twojej turze, umieść znacznik +1/+1 na wskazanym "
+"Na początku twojego kroku końcowego, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../ZNR.rst:154
@@ -4883,10 +4879,8 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1485
-#, fuzzy
-#| msgid "When Omnath, Locus of Creation enters the battlefield, draw a card."
 msgid "When Omnath, Locus of Creation enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
 
 #: ../../ZNR.rst:1494
 msgid ""
@@ -4942,17 +4936,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1507
-#, fuzzy
-#| msgid ""
-#| "Landfall — Whenever a land enters the battlefield under your control, put "
-#| "four +1/+1 counters on target Plant you control."
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, put "
 "four +1/+1 counters on target Plant you control. It gains trample until end "
 "of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
-"cztery znaczniki +1/+1 na wskazanej Roślinie pod twoim władaniem."
+"cztery znaczniki +1/+1 na wskazanym stworze typu Roślina pod twoim "
+"władaniem. Do końca tury zyskuje on tratowanie."
 
 #: ../../ZNR.rst:1516
 msgid ""
