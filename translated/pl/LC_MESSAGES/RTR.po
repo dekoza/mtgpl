@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: 2022-03-21 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
@@ -507,9 +507,11 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:91
-msgid ""
-"When Rest in Peace enters the battlefield, exile all cards from all "
-"graveyards."
+#, fuzzy
+#| msgid ""
+#| "When Rest in Peace enters the battlefield, exile all cards from all "
+#| "graveyards."
+msgid "When Rest in Peace enters the battlefield, exile all graveyards."
 msgstr ""
 "Kiedy ten urok wejdzie na pole bitwy, wygnaj wszystkie karty ze wszystkich "
 "cmentarzy."
@@ -3054,7 +3056,9 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:957
-msgid "Exile all cards from target player's graveyard."
+#, fuzzy
+#| msgid "Exile all cards from target player's graveyard."
+msgid "Exile target player's graveyard."
 msgstr "Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../RTR.rst:959
@@ -3814,7 +3818,7 @@ msgstr ""
 #: ../../RTR.rst:1220
 msgid ""
 ":mtgtip:`Pithing Needle<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/8/786c1e91-9d75-46a3-9e0d-56d29fcb01a7.jpg?1562788458|"
+"border_crop/front/7/8/786c1e91-9d75-46a3-9e0d-56d29fcb01a7.jpg?1633160927|"
 "https://scryfall.com/card/rtr/231/pithing-needle?utm_source=api>`"
 msgstr ""
 

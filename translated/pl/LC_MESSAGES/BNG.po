@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: 2022-03-21 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
@@ -3581,16 +3581,13 @@ msgstr ""
 msgid "Temple of Enlightenment enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-# b801a48502e745119d66c2c5fb0b7528
-# e43902eacf5243ed95714f2313a430f2
+# 68f34423508e4a3fad0f471facb8a351
+# 7c4876bccf344fae850ad5f79843a225
 #: ../../BNG.rst:895
-msgid ""
-"When Temple of Enlightenment enters the battlefield, scry 1. (Look at the "
-"top card of your library. You may put that card on the bottom of your "
-"library.)"
-msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
+#, fuzzy
+#| msgid "Temple of Enlightenment enters the battlefield tapped."
+msgid "When Temple of Enlightenment enters the battlefield, scry 1."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # f596b33634df4613883696b88e96b943
 # 59dbde6caef54c9882ee8de59b74285b
@@ -3611,15 +3608,13 @@ msgstr ""
 msgid "Temple of Malice enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-# 8f25788fefff4ae5b297ba96c4ab45f2
-# 739718a7d265455d8c7a0db3031d6ce7
+# 3a41f649b28a4ddc9a793addabea0c0e
+# c480987f8be44e6d8873a6e90cda6c4e
 #: ../../BNG.rst:903
-msgid ""
-"When Temple of Malice enters the battlefield, scry 1. (Look at the top card "
-"of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
+#, fuzzy
+#| msgid "Temple of Malice enters the battlefield tapped."
+msgid "When Temple of Malice enters the battlefield, scry 1."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # f017992900704dad9038ee42469f42de
 # 0f3249c8d25e4c3889b9ab4e27a7c087
@@ -3640,21 +3635,49 @@ msgstr ""
 msgid "Temple of Plenty enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-# 27365b13de4a4a37a7598567ccac8690
-# 79fe9ae300354fe0b59f45ac7e0ce58f
+# 9d307e1e0148493bbbcf5188a6ae297a
+# 6914742025a945fcad1df6a1d0092b5f
 #: ../../BNG.rst:911
-msgid ""
-"When Temple of Plenty enters the battlefield, scry 1. (Look at the top card "
-"of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
-"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
+#, fuzzy
+#| msgid "Temple of Plenty enters the battlefield tapped."
+msgid "When Temple of Plenty enters the battlefield, scry 1."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 # f45703f6c4f84505a92b3071f1e4a611
 # d4afa495da1e406d96538697e0149979
 #: ../../BNG.rst:913
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Weź |mana_g| lub |mana_w|."
+
+# b801a48502e745119d66c2c5fb0b7528
+# e43902eacf5243ed95714f2313a430f2
+#~ msgid ""
+#~ "When Temple of Enlightenment enters the battlefield, scry 1. (Look at the "
+#~ "top card of your library. You may put that card on the bottom of your "
+#~ "library.)"
+#~ msgstr ""
+#~ "Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+#~ "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
+
+# 8f25788fefff4ae5b297ba96c4ab45f2
+# 739718a7d265455d8c7a0db3031d6ce7
+#~ msgid ""
+#~ "When Temple of Malice enters the battlefield, scry 1. (Look at the top "
+#~ "card of your library. You may put that card on the bottom of your "
+#~ "library.)"
+#~ msgstr ""
+#~ "Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+#~ "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
+
+# 27365b13de4a4a37a7598567ccac8690
+# 79fe9ae300354fe0b59f45ac7e0ce58f
+#~ msgid ""
+#~ "When Temple of Plenty enters the battlefield, scry 1. (Look at the top "
+#~ "card of your library. You may put that card on the bottom of your "
+#~ "library.)"
+#~ msgstr ""
+#~ "Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+#~ "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 # 93606a958e7547adad9228af876360bf
 # 081a08777b714acaa111d6184f4628a9

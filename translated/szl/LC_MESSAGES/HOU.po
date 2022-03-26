@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -2709,8 +2713,7 @@ msgid "|mana_1|, |tap|: Exile target card from a graveyard."
 msgstr ""
 
 #: ../../HOU.rst:923
-msgid ""
-"|mana_1|, Exile Crook of Condemnation: Exile all cards from all graveyards."
+msgid "|mana_1|, Exile Crook of Condemnation: Exile all graveyards."
 msgstr ""
 
 #: ../../HOU.rst:930
@@ -3086,8 +3089,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1075
-msgid ""
-"|mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards."
+msgid "|mana_2|, |tap|, Sacrifice a Desert: Exile all graveyards."
 msgstr ""
 
 #: ../../HOU.rst:1084

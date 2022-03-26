@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1403,7 +1403,7 @@ msgstr ""
 #: ../../SOM.rst:446
 msgid ""
 ":mtgtip:`Ferrovore<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/8/d/8dcc7170-38d9-4b9e-a5f9-73ac1208c439.jpg?1562820193|https://"
+"front/8/d/8dcc7170-38d9-4b9e-a5f9-73ac1208c439.jpg?1636491206|https://"
 "scryfall.com/card/som/88/ferrovore?utm_source=api>`"
 msgstr ""
 
@@ -2838,9 +2838,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOM.rst:973
-msgid ""
-"|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
-"graveyard."
+msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
 msgstr ""
 
 #: ../../SOM.rst:975

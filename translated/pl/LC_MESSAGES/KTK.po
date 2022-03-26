@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: 2022-03-21 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
@@ -2028,9 +2028,13 @@ msgstr ""
 
 # 1a6a5cc02b314453a7559e53d101d271
 #: ../../KTK.rst:563
+#, fuzzy
+#| msgid ""
+#| "Burn Away deals 6 damage to target creature. When that creature dies this "
+#| "turn, exile all cards from its controller's graveyard."
 msgid ""
 "Burn Away deals 6 damage to target creature. When that creature dies this "
-"turn, exile all cards from its controller's graveyard."
+"turn, exile its controller's graveyard."
 msgstr ""
 "Ten czar zadaje wskazanemu stworowi 6 obrażeń. Kiedy ten stwór umrze w tej "
 "turze, wygnaj wszystkie karty z cmentarza jego władcy."

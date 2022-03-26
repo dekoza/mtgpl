@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: 2022-03-21 12:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/frf/pl/>\n"
@@ -213,18 +213,24 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
+#, fuzzy
+#| msgid "{(g/u)}"
+msgid "{(g/u/p)}"
+msgstr "{(g/u)}"
+
+#: ../../symbols.rst:101
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:101
+#: ../../symbols.rst:103
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -396,7 +402,7 @@ msgstr ""
 #: ../../FRF.rst:52
 msgid ""
 ":mtgtip:`Citadel Siege<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/3/239c373a-465c-4cda-9895-624871d8606e.jpg?1562823344|"
+"border_crop/front/2/3/239c373a-465c-4cda-9895-624871d8606e.jpg?1648060693|"
 "https://scryfall.com/card/frf/8/citadel-siege?utm_source=api>`"
 msgstr ""
 
@@ -836,7 +842,11 @@ msgstr "Wybierz jedną —"
 
 # bb75f20e5e264d8e94e5581446706c57
 #: ../../FRF.rst:167
-msgid "Target creature gains indestructible until end of turn."
+#, fuzzy
+#| msgid "Target creature gains indestructible until end of turn."
+msgid ""
+"Target creature gains indestructible until end of turn. (Damage and effects "
+"that say \"destroy\" don't destroy it.)"
 msgstr "Wskazany stwór do końca tury zyskuje niezniszczalność."
 
 # d07b4ab45f7e4858b6c06afdbcf5f422
@@ -1086,7 +1096,7 @@ msgstr ""
 #: ../../FRF.rst:264
 msgid ""
 ":mtgtip:`Monastery Siege<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/e/eef398b5-38f7-4a11-8fcf-d4e0d27267cf.jpg?1562831376|"
+"border_crop/front/e/e/eef398b5-38f7-4a11-8fcf-d4e0d27267cf.jpg?1648060707|"
 "https://scryfall.com/card/frf/43/monastery-siege?utm_source=api>`"
 msgstr ""
 
@@ -1495,7 +1505,7 @@ msgstr ""
 #: ../../FRF.rst:382
 msgid ""
 ":mtgtip:`Crux of Fate<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/1/e1d45374-a41b-4b3f-a7c8-3eb5ca767cf6.jpg?1562830753|"
+"border_crop/front/e/1/e1d45374-a41b-4b3f-a7c8-3eb5ca767cf6.jpg?1648060698|"
 "https://scryfall.com/card/frf/65/crux-of-fate?utm_source=api>`"
 msgstr ""
 
@@ -1733,7 +1743,7 @@ msgstr ""
 #: ../../FRF.rst:452
 msgid ""
 ":mtgtip:`Palace Siege<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/9/d9ee5a83-7096-4cbd-ad16-eb839d293d88.jpg?1562830433|"
+"border_crop/front/d/9/d9ee5a83-7096-4cbd-ad16-eb839d293d88.jpg?1648060718|"
 "https://scryfall.com/card/frf/79/palace-siege?utm_source=api>`"
 msgstr ""
 
@@ -2306,7 +2316,7 @@ msgstr ""
 #: ../../FRF.rst:618
 msgid ""
 ":mtgtip:`Outpost Siege<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/8/880f6602-f335-4ad8-9e2f-f32b6d715f72.jpg?1562827344|"
+"border_crop/front/8/8/880f6602-f335-4ad8-9e2f-f32b6d715f72.jpg?1648060713|"
 "https://scryfall.com/card/frf/110/outpost-siege?utm_source=api>`"
 msgstr ""
 
@@ -2698,7 +2708,7 @@ msgstr ""
 #: ../../FRF.rst:732
 msgid ""
 ":mtgtip:`Frontier Siege<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/4/a474981a-581a-49c0-a036-87afaaeea7ef.jpg?1562828387|"
+"border_crop/front/a/4/a474981a-581a-49c0-a036-87afaaeea7ef.jpg?1648060702|"
 "https://scryfall.com/card/frf/131/frontier-siege?utm_source=api>`"
 msgstr ""
 

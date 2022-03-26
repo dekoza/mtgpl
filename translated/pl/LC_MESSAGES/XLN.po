@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: 2022-03-21 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/xln/pl/>\n"
@@ -2802,12 +2802,8 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:829
-msgid ""
-"Target creature gets +3/+0 and gains first strike until end of turn. (It "
-"deals combat damage before creatures without first strike.)"
-msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
-"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
+msgid "Target creature gets +3/+0 and gains first strike until end of turn."
+msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
 
 #: ../../XLN.rst:836
 msgid ""
@@ -4263,7 +4259,9 @@ msgstr ""
 "biblioteki.)"
 
 #: ../../XLN.rst:1283
-msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
+#, fuzzy
+#| msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
+msgid "|tap|, Exile Sentinel Totem: Exile all graveyards."
 msgstr ""
 "|tap|: Wygnaj tę kartę: Wygnaj wszystkie karty ze wszystkich cmentarzy."
 
@@ -4774,6 +4772,13 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #~ msgid ""
+#~ "Target creature gets +3/+0 and gains first strike until end of turn. (It "
+#~ "deals combat damage before creatures without first strike.)"
+#~ msgstr ""
+#~ "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+#~ "obrażenia bojowe przez stworami bez pierwszego ciosu.)"
+
+#~ msgid ""
 #~ "Scry 1. (Look at the top card of your library. You may put that card on "
 #~ "the bottom of your library.)"
 #~ msgstr ""
@@ -4788,9 +4793,6 @@ msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 #~ "Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w "
 #~ "tej turze, wskazany przeciwnik umieszcza cztery wierzchnie karty swojej "
 #~ "biblioteki w swoim cmentarzu."
-
-#~ msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-#~ msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
 
 #~ msgid ""
 #~ "Flying (This creature can't be blocked except by creatures with flying or "

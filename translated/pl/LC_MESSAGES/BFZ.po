@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: 2022-03-21 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bfz/pl/>\n"
@@ -2704,12 +2704,10 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:865
-msgid ""
-"Target creature gets +3/+0 and gains first strike until end of turn. (It "
-"deals combat damage before creatures without first strike.)"
-msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
-"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
+#, fuzzy
+#| msgid "Target creature gets +1/+0 and gains deathtouch until end of turn."
+msgid "Target creature gets +3/+0 and gains first strike until end of turn."
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz dotyk śmierci."
 
 #: ../../BFZ.rst:870
 msgid ""
@@ -4368,6 +4366,13 @@ msgstr ""
 #: ../../BFZ.rst:1415
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid ""
+#~ "Target creature gets +3/+0 and gains first strike until end of turn. (It "
+#~ "deals combat damage before creatures without first strike.)"
+#~ msgstr ""
+#~ "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+#~ "obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #, fuzzy
 #~ msgid "Dispel"

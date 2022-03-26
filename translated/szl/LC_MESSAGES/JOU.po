@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -1099,8 +1103,7 @@ msgstr ""
 #: ../../JOU.rst:307
 msgid ""
 "Constellation — Whenever Agent of Erebos or another enchantment enters the "
-"battlefield under your control, exile all cards from target player's "
-"graveyard."
+"battlefield under your control, exile target player's graveyard."
 msgstr ""
 
 #: ../../JOU.rst:314

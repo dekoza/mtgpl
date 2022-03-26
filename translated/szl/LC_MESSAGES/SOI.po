@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 19:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -299,7 +303,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:31 ../../SOI.rst:469
+#: ../../SOI.rst:31 ../../SOI.rst:469 ../../SOI.rst:531
 msgid "Flash"
 msgstr ""
 
@@ -1654,10 +1658,6 @@ msgid ""
 ":mtgtip:`Stormrider Spirit<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9c0fb4be-df73-43a9-bd48-fd47a4190fc1.jpg?1576384269|"
 "https://scryfall.com/card/soi/91/stormrider-spirit?utm_source=api>`"
-msgstr ""
-
-#: ../../SOI.rst:531 ../../SOI.rst:1077 ../../SOI.rst:1251 ../../SOI.rst:1305
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
 #: ../../SOI.rst:542
@@ -3186,6 +3186,10 @@ msgid ""
 ":mtgtip:`Spiteful Motives<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/9/592d7349-d066-49b0-9920-c1ec1595e00d.jpg?1576384918|"
 "https://scryfall.com/card/soi/183/spiteful-motives?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1077 ../../SOI.rst:1251 ../../SOI.rst:1305
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
 #: ../../SOI.rst:1081
