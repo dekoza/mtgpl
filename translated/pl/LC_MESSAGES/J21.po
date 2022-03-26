@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-25 19:42+0000\n"
+"PO-Revision-Date: 2022-03-26 17:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -6067,6 +6067,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
+"|mana_1|, poświęć innego stwora: Ten stwór eksploruje. (Ujawnij wierzchnią "
+"kartę twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W "
+"przeciwnym razie umieść znacznik +1/+1 na tym stworze, po czym umieść ową "
+"kartę z powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../J21.rst:1980
 msgid ""
@@ -7600,6 +7604,9 @@ msgid ""
 "graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each "
 "combat if able."
 msgstr ""
+"Delirium — O ile co najmniej cztery typy kart są wśród kart w twoim "
+"cmentarzu, ten stwór dostaje +2/+2, ma latanie i atakuje w każdej potyczce, "
+"jeśli może."
 
 #: ../../J21.rst:2492
 msgid ""
@@ -8039,6 +8046,9 @@ msgid ""
 "types among cards in your graveyard, Gouged Zealot deals 1 damage to each "
 "creature defending player controls."
 msgstr ""
+"Delirium — Ilekroć ten stwór zaatakuje, jeśli co najmniej cztery typy kart "
+"są wśród kart w twoim cmentarzu, ten stwór zadaje każdemu stworowi pod "
+"władaniem broniącego się gracza po 1 obrażeniu."
 
 #: ../../J21.rst:2626
 msgid ""
@@ -8883,6 +8893,8 @@ msgid ""
 "Gain control of target creature you don't control until end of turn. Untap "
 "that creature. It gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem poza twoim władaniem. "
+"Odkręć go. Zyskuje on pośpiech do końca tury."
 
 #: ../../J21.rst:2915
 msgid ""
@@ -9061,6 +9073,8 @@ msgid ""
 "Delirium — Unholy Heat deals 6 damage instead if there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten czar zamiast tego zadaje 6 obrażeń jeśli co najmniej cztery "
+"typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../J21.rst:2982
 msgid ""
@@ -9073,6 +9087,8 @@ msgstr ""
 msgid ""
 "|tap|, Discard a card: Creatures you control gain haste until end of turn."
 msgstr ""
+"|tap|, odrzuć kartę: Stwory pod twoim władaniem zyskują do końca tury "
+"pośpiech."
 
 #: ../../J21.rst:2986
 msgid ""
@@ -9201,10 +9217,12 @@ msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. Copies become tokens.)"
 msgstr ""
+"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
+"turze. Kopie stają się żetonami.)"
 
 #: ../../J21.rst:3029
 msgid "Aeve, Progenitor Ooze isn't legendary if it's a token."
-msgstr ""
+msgstr "Ten stwór nie jest legendarny jeśli jest żetonem."
 
 #: ../../J21.rst:3031
 msgid ""
@@ -9292,6 +9310,8 @@ msgid ""
 "Reinforce 2—|mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Put "
 "two +1/+1 counters on target creature.)"
 msgstr ""
+"Wzmacnianie 2—|mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: "
+"Umieść dwa znaczniki +1/+1 na wskazanym stworze.)"
 
 #: ../../J21.rst:3059
 msgid ""
@@ -9329,6 +9349,8 @@ msgid ""
 "Create a 1/1 green Snake creature token, a 2/2 green Wolf creature token, "
 "and a 3/3 green Elephant creature token."
 msgstr ""
+"Stwórz żeton zielonego stwora Wąż 1/1, żeton zielonego stwora Wilk 2/2 oraz "
+"żeton zielonego stwora Słoń 3/3."
 
 #: ../../J21.rst:3078
 msgid ""
@@ -9417,6 +9439,9 @@ msgid ""
 "If one or more tokens would be created under your control, those tokens plus "
 "that many 1/1 green Squirrel creature tokens are created instead."
 msgstr ""
+"Jeśli jeden lub więcej żetonów miałoby zostać stworzonych pod twoim "
+"władaniem, zamiast tego tworzone są owe żetony plus tyle samo żetonów "
+"zielonego stwora Wiewiór 1/1."
 
 #: ../../J21.rst:3101
 msgid ""
@@ -9463,6 +9488,8 @@ msgid ""
 "At the beginning of your upkeep, you may sacrifice a token. If you do, put "
 "an acorn counter on Chitterspitter."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz poświęcić żeton. Jeśli tak "
+"zrobisz, umieść znacznik żołędzia na tym artefakcie."
 
 #: ../../J21.rst:3119
 msgid ""
@@ -9808,6 +9835,9 @@ msgid ""
 "this turn, investigate. (Create a colorless Clue artifact token with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \""
+"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../J21.rst:3226
 msgid ""
@@ -10093,6 +10123,8 @@ msgid ""
 "When Jewel-Eyed Cobra dies, create a Treasure token. (It's an artifact with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../J21.rst:3318
 msgid ""
@@ -10622,6 +10654,8 @@ msgid ""
 "|tap|: Add X mana of any one color, where X is the number of enchantments "
 "you control."
 msgstr ""
+"|tap|: Weź X many jednego dowolnego koloru, gdzie X jest liczbą uroków pod "
+"twoim władaniem."
 
 #: ../../J21.rst:3498
 msgid ""
@@ -10805,6 +10839,8 @@ msgid ""
 "Target creature you control fights up to one target creature you don't "
 "control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy z co najwyżej jednym wskazanym "
+"stworem poza twoim władaniem."
 
 #: ../../J21.rst:3556
 msgid ""
@@ -10944,12 +10980,14 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice a land: Create two 1/1 green Squirrel "
 "creature tokens."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ląd: Stwórz dwa żetony zielonego stwora Wiewiór "
+"1/1."
 
 #: ../../J21.rst:3601
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice a land: Squirrel creatures get +1/+1 until "
 "end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|, poświęć ląd: Wiewióry dostają do końca tury +1/+1."
 
 #: ../../J21.rst:3606
 msgid ""
@@ -10960,7 +10998,7 @@ msgstr ""
 
 #: ../../J21.rst:3605
 msgid "When Striped Bears enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../J21.rst:3612
 msgid ""
@@ -10971,7 +11009,7 @@ msgstr ""
 
 #: ../../J21.rst:3609
 msgid "Green creatures you control get +1/+1."
-msgstr ""
+msgstr "Zielone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../J21.rst:3611
 msgid ""
@@ -11086,6 +11124,10 @@ msgid ""
 "tap|, Sacrifice this artifact: You gain 3 life.\" Treasure is an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton Jadła lub żeton Skarbu. (Jadło to artefakt z \"|mana_2|, |tap|, "
+"poświęć ten artefakt: Zyskaj 3 życia\". Skarb to artefakt z \"|tap|, poświęć "
+"ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../J21.rst:3648
 msgid ""
@@ -11200,6 +11242,9 @@ msgid ""
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, rozpleń. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../J21.rst:3688
 msgid ""
@@ -11239,7 +11284,7 @@ msgstr ""
 
 #: ../../J21.rst:3701
 msgid "Counter target loyalty ability of a planeswalker."
-msgstr ""
+msgstr "Skontruj wskazaną zdolność lojalnościową wędrowca."
 
 #: ../../J21.rst:3703
 msgid "Exile target card from a graveyard."
@@ -11379,6 +11424,8 @@ msgid ""
 "Reinforce X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|, "
 "Discard this card: Put X +1/+1 counters on target creature.)"
 msgstr ""
+"Wzmacnianie X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|"
+", odrzuć tę kartę: Umieść X znaczników +1/+1 na wskazanym stworze.)"
 
 #: ../../J21.rst:3754
 msgid ""
@@ -11467,6 +11514,8 @@ msgid ""
 "Outlast |mana_gw| (|mana_gw|, |tap|: Put a +1/+1 counter on this creature. "
 "Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_gw| (|mana_gw|, |tap|: Umieść znacznik +1/+1 na tym "
+"stworze. Aktywuj tylko jako obrzęd.)"
 
 #: ../../J21.rst:3787
 msgid ""
@@ -11515,6 +11564,9 @@ msgid ""
 "your control, if that creature entered from a graveyard or you cast it from "
 "a graveyard, put a +1/+1 counter on Breathless Knight."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, jeśli "
+"ów stwór wszedł z cmentarza lub został rzucony z cmentarza, umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../J21.rst:3806
 msgid ""
@@ -11559,6 +11611,8 @@ msgid ""
 "Discard a card: You may cast a creature spell from your graveyard this turn. "
 "Activate only once each turn."
 msgstr ""
+"Odrzuć kartę: Możesz w tej turze rzucić czar stwora z twojego cmentarza. "
+"Aktywuj tylko raz na turę."
 
 #: ../../J21.rst:3819
 msgid ""
@@ -11581,6 +11635,9 @@ msgid ""
 "library. Put one of them into your hand and the other into your graveyard. "
 "If you put an artifact card into your hand this way, you gain 3 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a drugą w twoim cmentarzu. "
+"Jeśli umieściłeś w ten sposób kartę artefaktu w twojej ręce, zyskaj 3 życia."
 
 #: ../../J21.rst:3830
 msgid ""
@@ -11602,13 +11659,15 @@ msgstr ""
 
 #: ../../J21.rst:3833
 msgid "Creature tokens you control have flying."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem mają latanie."
 
 #: ../../J21.rst:3835
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice a token: Create a 4/4 green "
 "Beast creature token. Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, poświęć żeton: Stwórz żeton zielonego "
+"stwora Bestia 4/4. Aktywuj tylko jako obrzęd."
 
 #: ../../J21.rst:3842
 msgid ""
@@ -11630,6 +11689,8 @@ msgid ""
 "|mana_3|\\ |mana_b|: Squirrels you control get +1/+0 and gain menace until "
 "end of turn."
 msgstr ""
+"|mana_3|\\ |mana_b|: Wiewióry pod twoim władaniem dostają do końca tury +1/+"
+"0 i złowrogość."
 
 #: ../../J21.rst:3848
 msgid ""
@@ -11720,7 +11781,7 @@ msgstr ""
 
 #: ../../J21.rst:3877
 msgid "Each spell you cast that's red or green costs |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czerwonych lub zielonych czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../J21.rst:3882
 msgid ""
@@ -11873,6 +11934,9 @@ msgid ""
 "two +1/+1 counters on an Army you control. If you don't control one, create "
 "a 0/0 black Zombie Army creature token first.)"
 msgstr ""
+"Ilekroć odrzucisz kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
+"nie władasz żadną, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../J21.rst:3934
 msgid ""
@@ -11896,6 +11960,10 @@ msgid ""
 "among them onto the battlefield under your control. That player puts the "
 "rest on the bottom of their library in a random order."
 msgstr ""
+"|tap|, poświęć X Wskazówek: Wskazany przeciwnik ujawnia X wierzchnich kart "
+"swojej biblioteki. Możesz spośród nich umieścić kartę nielądowego permanentu "
+"o skrócie many X lub mniejszym na polu bitwy pod twoim władaniem. Ów gracz "
+"umieszcza pozostałe losowo na spodzie swojej biblioteki."
 
 #: ../../J21.rst:3938
 msgid ""
@@ -11983,7 +12051,7 @@ msgstr ""
 
 #: ../../J21.rst:3961
 msgid "Prophetic Titan deals 4 damage to any target."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../J21.rst:3963
 msgid ""
@@ -12191,6 +12259,8 @@ msgid ""
 "Other enchantments you control have shroud. (They can't be the targets of "
 "spells or abilities.)"
 msgstr ""
+"Inne uroki pod twoim władaniem mają antymagię. (Nie mogą być wskazywane "
+"przez czary lub zdolności.)"
 
 #: ../../J21.rst:4035
 msgid ""
@@ -12213,7 +12283,7 @@ msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../J21.rst:4041
 msgid "When Storm God's Oracle dies, it deals 3 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../J21.rst:4046
 msgid ""
@@ -12225,7 +12295,7 @@ msgstr ""
 #: ../../J21.rst:4045
 msgid ""
 "Whenever you cast an enchantment spell, you gain 1 life and draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, zyskaj 1 życie i dobierz kartę."
 
 #: ../../J21.rst:4052
 msgid ""
@@ -12240,6 +12310,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Kiedy tak zrobisz, rzuć ją za jej koszt szaleństwa lub umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../J21.rst:4062
 msgid ""
@@ -12296,12 +12369,17 @@ msgid ""
 "create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dociekaj dwukrotnie. (Dociekając "
+"stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../J21.rst:4075
 msgid ""
 "Evoke |mana_g|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_g|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../J21.rst:4082
 msgid ""
@@ -12338,6 +12416,8 @@ msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_g|, Sacrifice an artifact or creature: You gain "
 "1 life and draw a card."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|, poświęć artefakt lub stwora: Zyskaj 1 życie "
+"i dobierz kartę."
 
 #: ../../J21.rst:4096
 msgid ""
@@ -12370,7 +12450,7 @@ msgstr ""
 
 #: ../../J21.rst:4099
 msgid "Discard a card, then draw two cards."
-msgstr ""
+msgstr "Odrzuć kartę, po czym dobierz dwie karty."
 
 #: ../../J21.rst:4104
 msgid ""
@@ -12381,7 +12461,7 @@ msgstr ""
 
 #: ../../J21.rst:4103
 msgid "Furious deals 3 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem po 3 obrażenia."
 
 #: ../../J21.rst:4108
 msgid ""
@@ -12438,7 +12518,7 @@ msgstr ""
 
 #: ../../J21.rst:4123
 msgid "Lhurgoyf creatures you control have trample."
-msgstr ""
+msgstr "Stwory typu Lhurgoyf pod twoim władaniem mają tratowanie."
 
 #: ../../J21.rst:4130
 msgid ""
@@ -12468,7 +12548,7 @@ msgstr ""
 
 #: ../../J21.rst:4135
 msgid "Equipped creature gets +1/+1 and has vigilance and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i ma czujność i więź życia."
 
 #: ../../J21.rst:4137
 msgid "Equip |mana_5|"
@@ -12684,6 +12764,8 @@ msgid ""
 "|mana_1|, Remove a +1/+1 counter from Monoskelion: It deals 1 damage to any "
 "target."
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 z tego stwora: Zadaje on wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../J21.rst:4208
 msgid ""
@@ -12701,7 +12783,7 @@ msgstr ""
 
 #: ../../J21.rst:4211
 msgid "Sacrifice Myr Scrapling: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Poświęć tego stwora: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../J21.rst:4216
 msgid ""
@@ -12730,6 +12812,8 @@ msgid ""
 "Equipped creature gets +1/+1 for each artifact and/or enchantment you "
 "control."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy artefakt i/lub urok pod twoim "
+"władaniem."
 
 #: ../../J21.rst:4230
 msgid ""
@@ -12765,6 +12849,8 @@ msgid ""
 "Whenever Sanctuary Raptor attacks, if you control three or more tokens, "
 "Sanctuary Raptor gets +2/+0 and gains first strike until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli władasz co najmniej trzema żetonami, "
+"dostaje on do końca tury +2/+0 i pierwszy cios."
 
 #: ../../J21.rst:4246
 msgid ""
@@ -12870,7 +12956,7 @@ msgstr ""
 
 #: ../../J21.rst:4271
 msgid "Modular 1"
-msgstr ""
+msgstr "Modułowy 1"
 
 #: ../../J21.rst:4273
 msgid ""
@@ -12878,6 +12964,9 @@ msgid ""
 "creature you control, that many plus one +1/+1 counters are put on it "
 "instead."
 msgstr ""
+"Jeśli wyzwalana zdolność modułowości miałaby umieścić jeden lub więcej "
+"znaczników +1/+1 na stworze pod twoim władaniem, zamiast tego umieszczone "
+"zostanie tyle samo plus jeden znaczników +1/+1."
 
 #: ../../J21.rst:4275
 msgid "|mana_r|: Destroy target artifact you control."
@@ -12885,7 +12974,7 @@ msgstr "|mana_r|: Zniszcz wskazany artefakt pod twoim władaniem."
 
 #: ../../J21.rst:4277
 msgid "|mana_w|: Zabaz, the Glimmerwasp gains flying until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../J21.rst:4286
 msgid ""

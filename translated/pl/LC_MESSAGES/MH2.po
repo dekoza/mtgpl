@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-25 19:42+0000\n"
+"PO-Revision-Date: 2022-03-26 17:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -2027,6 +2027,10 @@ msgid ""
 "Otherwise, put a +1/+1 counter on this creature, then put the card back or "
 "put it into your graveyard.)"
 msgstr ""
+"|mana_1|, poświęć innego stwora: Ten stwór eksploruje. (Ujawnij wierzchnią "
+"kartę twojej biblioteki. Umieść ową kartę w twojej ręce jeśli to ląd. W "
+"przeciwnym razie umieść znacznik +1/+1 na tym stworze, po czym umieść ową "
+"kartę z powrotem lub umieść ją w twoim cmentarzu.)"
 
 #: ../../MH2.rst:576
 msgid ""
@@ -2648,6 +2652,9 @@ msgid ""
 "graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each "
 "combat if able."
 msgstr ""
+"Delirium — O ile co najmniej cztery typy kart są wśród kart w twoim "
+"cmentarzu, ten stwór dostaje +2/+2, ma latanie i atakuje w każdej potyczce, "
+"jeśli może."
 
 #: ../../MH2.rst:758
 msgid ""
@@ -2669,7 +2676,7 @@ msgstr ""
 
 #: ../../MH2.rst:761
 msgid "Discard a card, then draw two cards."
-msgstr ""
+msgstr "Odrzuć kartę, po czym dobierz dwie karty."
 
 #: ../../MH2.rst:766
 msgid ""
@@ -2680,7 +2687,7 @@ msgstr ""
 
 #: ../../MH2.rst:765
 msgid "Furious deals 3 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem po 3 obrażenia."
 
 #: ../../MH2.rst:772
 msgid ""
@@ -2845,6 +2852,9 @@ msgid ""
 "types among cards in your graveyard, Gouged Zealot deals 1 damage to each "
 "creature defending player controls."
 msgstr ""
+"Delirium — Ilekroć ten stwór zaatakuje, jeśli co najmniej cztery typy kart "
+"są wśród kart w twoim cmentarzu, ten stwór zadaje każdemu stworowi pod "
+"władaniem broniącego się gracza po 1 obrażeniu."
 
 #: ../../MH2.rst:822
 msgid ""
@@ -3065,6 +3075,8 @@ msgid ""
 "Gain control of target creature you don't control until end of turn. Untap "
 "that creature. It gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem poza twoim władaniem. "
+"Odkręć go. Zyskuje on pośpiech do końca tury."
 
 #: ../../MH2.rst:883
 msgid ""
@@ -3130,6 +3142,8 @@ msgid ""
 "Delirium — Unholy Heat deals 6 damage instead if there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten czar zamiast tego zadaje 6 obrażeń jeśli co najmniej cztery "
+"typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../MH2.rst:906
 msgid ""
@@ -3142,6 +3156,8 @@ msgstr ""
 msgid ""
 "|tap|, Discard a card: Creatures you control gain haste until end of turn."
 msgstr ""
+"|tap|, odrzuć kartę: Stwory pod twoim władaniem zyskują do końca tury "
+"pośpiech."
 
 #: ../../MH2.rst:910
 msgid ""
@@ -3172,10 +3188,12 @@ msgid ""
 "Storm (When you cast this spell, copy it for each spell cast before it this "
 "turn. Copies become tokens.)"
 msgstr ""
+"Sztorm (Rzucając ten czar skopiuj go za każdy czar rzucony przed nim w tej "
+"turze. Kopie stają się żetonami.)"
 
 #: ../../MH2.rst:915
 msgid "Aeve, Progenitor Ooze isn't legendary if it's a token."
-msgstr ""
+msgstr "Ten stwór nie jest legendarny jeśli jest żetonem."
 
 #: ../../MH2.rst:917
 msgid ""
@@ -3197,6 +3215,8 @@ msgid ""
 "Reinforce 2—|mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Put "
 "two +1/+1 counters on target creature.)"
 msgstr ""
+"Wzmacnianie 2—|mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: "
+"Umieść dwa znaczniki +1/+1 na wskazanym stworze.)"
 
 #: ../../MH2.rst:925
 msgid ""
@@ -3242,6 +3262,9 @@ msgid ""
 "If one or more tokens would be created under your control, those tokens plus "
 "that many 1/1 green Squirrel creature tokens are created instead."
 msgstr ""
+"Jeśli jeden lub więcej żetonów miałoby zostać stworzonych pod twoim "
+"władaniem, zamiast tego tworzone są owe żetony plus tyle samo żetonów "
+"zielonego stwora Wiewiór 1/1."
 
 #: ../../MH2.rst:937
 msgid ""
@@ -3273,6 +3296,8 @@ msgid ""
 "At the beginning of your upkeep, you may sacrifice a token. If you do, put "
 "an acorn counter on Chitterspitter."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz poświęcić żeton. Jeśli tak "
+"zrobisz, umieść znacznik żołędzia na tym artefakcie."
 
 #: ../../MH2.rst:949
 msgid ""
@@ -3417,6 +3442,9 @@ msgid ""
 "this turn, investigate. (Create a colorless Clue artifact token with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \""
+"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:1012
 msgid ""
@@ -3529,6 +3557,8 @@ msgid ""
 "When Jewel-Eyed Cobra dies, create a Treasure token. (It's an artifact with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../MH2.rst:1048
 msgid ""
@@ -3589,6 +3619,8 @@ msgid ""
 "|tap|: Add X mana of any one color, where X is the number of enchantments "
 "you control."
 msgstr ""
+"|tap|: Weź X many jednego dowolnego koloru, gdzie X jest liczbą uroków pod "
+"twoim władaniem."
 
 #: ../../MH2.rst:1064
 msgid ""
@@ -3627,6 +3659,8 @@ msgid ""
 "Target creature you control fights up to one target creature you don't "
 "control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy z co najwyżej jednym wskazanym "
+"stworem poza twoim władaniem."
 
 #: ../../MH2.rst:1076
 msgid ""
@@ -3671,7 +3705,7 @@ msgstr ""
 
 #: ../../MH2.rst:1083
 msgid "Green creatures you control get +1/+1."
-msgstr ""
+msgstr "Zielone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../MH2.rst:1085
 msgid ""
@@ -3767,6 +3801,10 @@ msgid ""
 "tap|, Sacrifice this artifact: You gain 3 life.\" Treasure is an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton Jadła lub żeton Skarbu. (Jadło to artefakt z \"|mana_2|, |tap|, "
+"poświęć ten artefakt: Zyskaj 3 życia\". Skarb to artefakt z \"|tap|, poświęć "
+"ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../MH2.rst:1118
 msgid ""
@@ -3781,6 +3819,9 @@ msgid ""
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, rozpleń. (Wybierz dowolną "
+"liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../MH2.rst:1130
 msgid ""
@@ -3800,7 +3841,7 @@ msgstr ""
 
 #: ../../MH2.rst:1125
 msgid "Counter target loyalty ability of a planeswalker."
-msgstr ""
+msgstr "Skontruj wskazaną zdolność lojalnościową wędrowca."
 
 #: ../../MH2.rst:1129
 msgid "Target player gains 3 life."
@@ -3822,6 +3863,8 @@ msgid ""
 "Reinforce X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|, "
 "Discard this card: Put X +1/+1 counters on target creature.)"
 msgstr ""
+"Wzmacnianie X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|"
+", odrzuć tę kartę: Umieść X znaczników +1/+1 na wskazanym stworze.)"
 
 #: ../../MH2.rst:1146
 msgid ""
@@ -3858,6 +3901,8 @@ msgid ""
 "Outlast |mana_gw| (|mana_gw|, |tap|: Put a +1/+1 counter on this creature. "
 "Outlast only as a sorcery.)"
 msgstr ""
+"Przetrwanie |mana_gw| (|mana_gw|, |tap|: Umieść znacznik +1/+1 na tym "
+"stworze. Aktywuj tylko jako obrzęd.)"
 
 #: ../../MH2.rst:1153
 msgid ""
@@ -3908,6 +3953,9 @@ msgid ""
 "your control, if that creature entered from a graveyard or you cast it from "
 "a graveyard, put a +1/+1 counter on Breathless Knight."
 msgstr ""
+"Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, jeśli "
+"ów stwór wszedł z cmentarza lub został rzucony z cmentarza, umieść znacznik +"
+"1/+1 na niniejszym stworze."
 
 #: ../../MH2.rst:1176
 msgid ""
@@ -3962,6 +4010,9 @@ msgid ""
 "library. Put one of them into your hand and the other into your graveyard. "
 "If you put an artifact card into your hand this way, you gain 3 life."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, ujawnij dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a drugą w twoim cmentarzu. "
+"Jeśli umieściłeś w ten sposób kartę artefaktu w twojej ręce, zyskaj 3 życia."
 
 #: ../../MH2.rst:1194
 msgid ""
@@ -3972,13 +4023,15 @@ msgstr ""
 
 #: ../../MH2.rst:1191
 msgid "Creature tokens you control have flying."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem mają latanie."
 
 #: ../../MH2.rst:1193
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice a token: Create a 4/4 green "
 "Beast creature token. Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, poświęć żeton: Stwórz żeton zielonego "
+"stwora Bestia 4/4. Aktywuj tylko jako obrzęd."
 
 #: ../../MH2.rst:1204
 msgid ""
@@ -4052,6 +4105,8 @@ msgid ""
 "|mana_3|\\ |mana_b|: Squirrels you control get +1/+0 and gain menace until "
 "end of turn."
 msgstr ""
+"|mana_3|\\ |mana_b|: Wiewióry pod twoim władaniem dostają do końca tury +1/+"
+"0 i złowrogość."
 
 #: ../../MH2.rst:1224
 msgid ""
@@ -4157,7 +4212,7 @@ msgstr ""
 
 #: ../../MH2.rst:1253
 msgid "Each spell you cast that's red or green costs |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czerwonych lub zielonych czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../MH2.rst:1262
 msgid ""
@@ -4227,6 +4282,9 @@ msgid ""
 "two +1/+1 counters on an Army you control. If you don't control one, create "
 "a 0/0 black Zombie Army creature token first.)"
 msgstr ""
+"Ilekroć odrzucisz kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"zgromadź 2. (Umieść dwa znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli "
+"nie władasz żadną, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../MH2.rst:1282
 msgid ""
@@ -4250,6 +4308,10 @@ msgid ""
 "among them onto the battlefield under your control. That player puts the "
 "rest on the bottom of their library in a random order."
 msgstr ""
+"|tap|, poświęć X Wskazówek: Wskazany przeciwnik ujawnia X wierzchnich kart "
+"swojej biblioteki. Możesz spośród nich umieścić kartę nielądowego permanentu "
+"o skrócie many X lub mniejszym na polu bitwy pod twoim władaniem. Ów gracz "
+"umieszcza pozostałe losowo na spodzie swojej biblioteki."
 
 #: ../../MH2.rst:1288
 msgid ""
@@ -4345,7 +4407,7 @@ msgstr ""
 
 #: ../../MH2.rst:1313
 msgid "Prophetic Titan deals 4 damage to any target."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../MH2.rst:1315
 msgid ""
@@ -4396,6 +4458,8 @@ msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_g|, Sacrifice an artifact or creature: You gain "
 "1 life and draw a card."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|, poświęć artefakt lub stwora: Zyskaj 1 życie "
+"i dobierz kartę."
 
 #: ../../MH2.rst:1332
 msgid ""
@@ -4444,7 +4508,7 @@ msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../MH2.rst:1343
 msgid "When Storm God's Oracle dies, it deals 3 damage to any target."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../MH2.rst:1348
 msgid ""
@@ -4456,7 +4520,7 @@ msgstr ""
 #: ../../MH2.rst:1347
 msgid ""
 "Whenever you cast an enchantment spell, you gain 1 life and draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, zyskaj 1 życie i dobierz kartę."
 
 #: ../../MH2.rst:1354
 msgid ""
@@ -4475,6 +4539,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Kiedy tak zrobisz, rzuć ją za jej koszt szaleństwa lub umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../MH2.rst:1364
 msgid ""
@@ -4516,12 +4583,17 @@ msgid ""
 "create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, dociekaj dwukrotnie. (Dociekając "
+"stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:1371
 msgid ""
 "Evoke |mana_g|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_g|\\ |mana_u| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../MH2.rst:1378
 msgid ""
@@ -4573,7 +4645,7 @@ msgstr ""
 
 #: ../../MH2.rst:1387
 msgid "Lhurgoyf creatures you control have trample."
-msgstr ""
+msgstr "Stwory typu Lhurgoyf pod twoim władaniem mają tratowanie."
 
 #: ../../MH2.rst:1396
 msgid ""
@@ -4592,7 +4664,7 @@ msgstr ""
 
 #: ../../MH2.rst:1393
 msgid "Equipped creature gets +1/+1 and has vigilance and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i ma czujność i więź życia."
 
 #: ../../MH2.rst:1395
 msgid "Equip |mana_5|"
@@ -4735,6 +4807,8 @@ msgid ""
 "|mana_1|, Remove a +1/+1 counter from Monoskelion: It deals 1 damage to any "
 "target."
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 z tego stwora: Zadaje on wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../MH2.rst:1446
 msgid ""
@@ -4745,7 +4819,7 @@ msgstr ""
 
 #: ../../MH2.rst:1445
 msgid "Sacrifice Myr Scrapling: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Poświęć tego stwora: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../MH2.rst:1454
 msgid ""
@@ -4759,6 +4833,8 @@ msgid ""
 "Equipped creature gets +1/+1 for each artifact and/or enchantment you "
 "control."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy artefakt i/lub urok pod twoim "
+"władaniem."
 
 #: ../../MH2.rst:1460
 msgid ""
@@ -4779,6 +4855,8 @@ msgid ""
 "Whenever Sanctuary Raptor attacks, if you control three or more tokens, "
 "Sanctuary Raptor gets +2/+0 and gains first strike until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli władasz co najmniej trzema żetonami, "
+"dostaje on do końca tury +2/+0 i pierwszy cios."
 
 #: ../../MH2.rst:1474
 msgid ""
@@ -4955,7 +5033,7 @@ msgstr ""
 
 #: ../../MH2.rst:1527 ../../MH2.rst:1587
 msgid "Modular 1"
-msgstr ""
+msgstr "Modułowy 1"
 
 #: ../../MH2.rst:1529
 msgid ""
@@ -4963,6 +5041,9 @@ msgid ""
 "creature you control, that many plus one +1/+1 counters are put on it "
 "instead."
 msgstr ""
+"Jeśli wyzwalana zdolność modułowości miałaby umieścić jeden lub więcej "
+"znaczników +1/+1 na stworze pod twoim władaniem, zamiast tego umieszczone "
+"zostanie tyle samo plus jeden znaczników +1/+1."
 
 #: ../../MH2.rst:1531
 msgid "|mana_r|: Destroy target artifact you control."
@@ -4970,7 +5051,7 @@ msgstr "|mana_r|: Zniszcz wskazany artefakt pod twoim władaniem."
 
 #: ../../MH2.rst:1533
 msgid "|mana_w|: Zabaz, the Glimmerwasp gains flying until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../MH2.rst:1538
 msgid ""
@@ -5671,6 +5752,8 @@ msgid ""
 "Discard a card: You may cast a creature spell from your graveyard this turn. "
 "Activate only once each turn."
 msgstr ""
+"Odrzuć kartę: Możesz w tej turze rzucić czar stwora z twojego cmentarza. "
+"Aktywuj tylko raz na turę."
 
 #: ../../MH2.rst:1801
 msgid ""
@@ -5758,6 +5841,8 @@ msgid ""
 "Other enchantments you control have shroud. (They can't be the targets of "
 "spells or abilities.)"
 msgstr ""
+"Inne uroki pod twoim władaniem mają antymagię. (Nie mogą być wskazywane "
+"przez czary lub zdolności.)"
 
 #: ../../MH2.rst:1827
 msgid ""
