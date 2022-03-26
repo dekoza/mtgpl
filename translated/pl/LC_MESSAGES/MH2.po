@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-26 17:21+0000\n"
+"PO-Revision-Date: 2022-03-26 17:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -2051,6 +2051,8 @@ msgid ""
 "When Loathsome Curator exploits a creature, destroy target creature you "
 "don't control with mana value 3 or less."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, zniszcz wskazanego stwora poza twoim "
+"władaniem o skrócie many 3 lub mniejszym."
 
 #: ../../MH2.rst:582
 msgid ""
@@ -2593,6 +2595,10 @@ msgid ""
 "you reveal a nonland card this way, Calibrated Blast deals damage equal to "
 "that card's mana value to any target."
 msgstr ""
+"Ujawniaj karty z wierzchu twojej biblioteki aż ujawnisz nielądową kartę. "
+"Umieść ujawnione karty losowo na spodzie twojej biblioteki. Kiedy ujawnisz "
+"nielądową kartę w ten sposób, ten czar zadaje wskazanemu celowi obrażenia "
+"równe skrótowi many ujawnionej karty."
 
 #: ../../MH2.rst:737
 msgid ""
@@ -2630,6 +2636,9 @@ msgid ""
 "Copy it, then reselect the targets at random for the spell and the copy. The "
 "new targets can't be you or a permanent you control."
 msgstr ""
+"Zyskaj władanie nad wskazanym czarem wskazującym tylko jeden permanent lub "
+"gracza. Skopiuj go, po czym losowo zmień wskazanie celu owego czaru i kopii. "
+"Nowymi celami nie możesz być ty ani permanent pod twoim władaniem."
 
 #: ../../MH2.rst:752
 msgid ""
@@ -2701,6 +2710,8 @@ msgid ""
 "At the beginning of your end step, Flame Blitz deals 5 damage to each "
 "planeswalker."
 msgstr ""
+"Na początku twojego kroku końcowego, ten urok zadaje każdemu wędrowcowi po 5 "
+"obrażeń."
 
 #: ../../MH2.rst:771
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
@@ -2812,7 +2823,7 @@ msgstr ""
 
 #: ../../MH2.rst:803
 msgid "Suspend 3—|mana_r|\\ |mana_r|"
-msgstr ""
+msgstr "Zawieszenie 3—|mana_r|\\ |mana_r|"
 
 #: ../../MH2.rst:805
 msgid ""
@@ -2821,6 +2832,11 @@ msgid ""
 "revealed this way onto the battlefield, then do the same for Aura cards, "
 "then put the rest on the bottom of your library in a random order."
 msgstr ""
+"Wtasuj wszystkie własne permanenty do twojej biblioteki, po czym ujawnij "
+"tyle samo kart z wierzchu twojej biblioteki. Umieść wszystkie karty "
+"permanentów bez typu Aura ujawnione w ten sposób na polu bitwy, po czym zrób "
+"to samo z kartami Aur, po czym umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../MH2.rst:810
 msgid ""
@@ -2834,6 +2850,8 @@ msgid ""
 "Whenever Goblin Traprunner attacks, flip three coins. For each flip you win, "
 "create a 1/1 red Goblin creature token that's tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, rzuć trzema monetami. Za każdy wygrany rzut, "
+"stwórz przekręcony i atakujący żeton czerwonego stwora Goblin 1/1."
 
 #: ../../MH2.rst:816
 msgid ""
@@ -2957,6 +2975,9 @@ msgid ""
 "do, Mount Velus Manticore deals X damage to any target, where X is the "
 "number of card types the discarded card has."
 msgstr ""
+"Na początku potyczki w twojej turze, możesz odrzucić kartę. Kiedy tak "
+"zrobisz, ten stwór zadaje wskazanemu celowi X obrażeń, gdzie X jest liczbą "
+"typów kart, jakie miała odrzucona karta."
 
 #: ../../MH2.rst:854
 msgid ""
@@ -2978,6 +2999,8 @@ msgid ""
 "When Obsidian Charmaw enters the battlefield, destroy target nonbasic land "
 "an opponent controls."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany niebazowy ląd pod "
+"władaniem przeciwnika."
 
 #: ../../MH2.rst:860
 msgid ""
@@ -2993,6 +3016,9 @@ msgid ""
 "Treasure token and exile the top card of that player's library. Until end of "
 "turn, you may cast that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton Skarbu i "
+"wygnaj wierzchnią kartę biblioteki owego gracza. Do końca tury możesz rzucić "
+"ową kartę."
 
 #: ../../MH2.rst:859
 msgid ""
@@ -3121,10 +3147,12 @@ msgid ""
 "Whenever you win a coin flip, create two Treasure tokens. (They're artifacts "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć wygrasz rzut monetą, stwórz dwa żetony Skarbu. (To artefakty mające "
+"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../MH2.rst:895
 msgid "|mana_1|, |tap|, Sacrifice another permanent: Flip a coin."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć inny permanent: Rzuć monetą."
 
 #: ../../MH2.rst:902
 msgid ""
@@ -3240,6 +3268,8 @@ msgid ""
 "Target player shuffles their graveyard into their library. Prevent all "
 "combat damage that would be dealt this turn."
 msgstr ""
+"Wskazany gracz wtasowuje swój cmentarz do swojej biblioteki. Zażegnaj "
+"wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 #: ../../MH2.rst:938
 msgid ""
@@ -3322,6 +3352,8 @@ msgid ""
 "Destroy target artifact or enchantment. Create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Stwórz żeton Skarbu. (To artefakt mający "
+"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../MH2.rst:962
 msgid ""
@@ -3369,6 +3401,9 @@ msgid ""
 "When Endurance enters the battlefield, up to one target player puts all the "
 "cards from their graveyard on the bottom of their library in a random order."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej jeden wskazany gracz "
+"umieszcza wszystkie karty ze swojego cmentarza losowo na spodzie swojej "
+"biblioteki."
 
 #: ../../MH2.rst:977
 msgid "Evoke—Exile a green card from your hand."
@@ -3387,6 +3422,9 @@ msgid ""
 "a noncreature spell this turn, create a Clue token, a Food token, and a "
 "Treasure token."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze rzuciłeś zarówno czar "
+"stwora jak i czar niestworowy, stwórz żeton Wskazówki, żeton Jadła i żeton "
+"Skarbu."
 
 #: ../../MH2.rst:992
 msgid ""
@@ -3397,7 +3435,7 @@ msgstr ""
 
 #: ../../MH2.rst:987
 msgid "Flourishing Strike deals 5 damage to target creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi z lataniem 5 obrażeń."
 
 #: ../../MH2.rst:989
 msgid "Target creature gets +3/+3 until end of turn."
@@ -3428,6 +3466,8 @@ msgid ""
 "Evoke |mana_1|\\ |mana_g| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_1|\\ |mana_g| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../MH2.rst:1004
 msgid ""
@@ -3455,18 +3495,22 @@ msgstr ""
 
 #: ../../MH2.rst:1007
 msgid "Suspend 4—|mana_g|"
-msgstr ""
+msgstr "Zawieszenie 4—|mana_g|"
 
 #: ../../MH2.rst:1009
 msgid ""
 "Until end of turn, you may play lands and cast spells from your graveyard."
 msgstr ""
+"Do końca tury możesz zagrać karty lądów i rzucać karty czarów z twojego "
+"cmentarza."
 
 #: ../../MH2.rst:1011
 msgid ""
 "If a card would be put into your graveyard from anywhere this turn, exile "
 "that card instead."
 msgstr ""
+"Jeśli w tej turze karta miałaby skądkolwiek trafić do twojego cmentarza, "
+"zamiast tego wygnaj ją."
 
 #: ../../MH2.rst:1016
 msgid ""
@@ -3496,7 +3540,7 @@ msgstr ""
 
 #: ../../MH2.rst:1021
 msgid "Glinting Creeper can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwor o sile 2 lub mniejszej."
 
 #: ../../MH2.rst:1026
 msgid ""
@@ -3544,6 +3588,8 @@ msgid ""
 "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 "
 "until end of turn.)"
 msgstr ""
+"Bushido 2 (Ilekroć ten stwór zablokuje lub zostanie zablokowany, dostaje on "
+"do końca tury +2/+2.)"
 
 #: ../../MH2.rst:1042
 msgid ""
@@ -3573,6 +3619,8 @@ msgid ""
 "(They're artifacts with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Jadła. (To "
+"artefakty mające \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../MH2.rst:1047
 msgid ""
@@ -3925,6 +3973,8 @@ msgid ""
 "As long as you've discarded a card this turn, you may pay |mana_br| to cast "
 "this spell."
 msgstr ""
+"O ile odrzuciłeś kartę w tej turze, możesz zapłacić |mana_br| za rzucenie "
+"tego czaru."
 
 #: ../../MH2.rst:1159
 msgid ""
@@ -3938,7 +3988,7 @@ msgstr ""
 
 #: ../../MH2.rst:1161
 msgid "Sacrifice two Foods: Target creature deals 6 damage to itself."
-msgstr ""
+msgstr "Poświęć dwa Jadła: Wskazany stwór zadaje sobie 6 obrażeń."
 
 #: ../../MH2.rst:1168
 msgid ""
