@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:33+0100\n"
 "PO-Revision-Date: 2022-03-21 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/grn/pl/>\n"
@@ -276,7 +276,7 @@ msgstr ""
 #: ../../GRN.rst:22
 msgid ""
 ":mtgtip:`Candlelight Vigil<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/9/e920a75f-7dec-4815-a358-e174401da83b.jpg?1572892479|"
+"border_crop/front/e/9/e920a75f-7dec-4815-a358-e174401da83b.jpg?1636491648|"
 "https://scryfall.com/card/grn/3/candlelight-vigil?utm_source=api>`"
 msgstr ""
 
@@ -565,7 +565,7 @@ msgstr "Latanie, czujność"
 #: ../../GRN.rst:126
 msgid ""
 ":mtgtip:`Righteous Blow<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/4/b4501520-acf4-438f-9e96-4a649875ffdd.jpg?1572892626|"
+"border_crop/front/b/4/b4501520-acf4-438f-9e96-4a649875ffdd.jpg?1636491639|"
 "https://scryfall.com/card/grn/23/righteous-blow?utm_source=api>`"
 msgstr ""
 
@@ -752,7 +752,7 @@ msgstr ""
 #: ../../GRN.rst:192
 msgid ""
 ":mtgtip:`Devious Cover-Up<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/1/21ac6b0a-b1a5-439d-b65e-5f04e1826c80.jpg?1572892710|"
+"border_crop/front/2/1/21ac6b0a-b1a5-439d-b65e-5f04e1826c80.jpg?1636491628|"
 "https://scryfall.com/card/grn/35/devious-cover-up?utm_source=api>`"
 msgstr ""
 
@@ -823,7 +823,7 @@ msgstr ""
 #: ../../GRN.rst:212
 msgid ""
 ":mtgtip:`Drowned Secrets<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/f/bfc98428-7a0f-445f-9d48-eeb76c3e10d6.jpg?1572892737|"
+"border_crop/front/b/f/bfc98428-7a0f-445f-9d48-eeb76c3e10d6.jpg?1636491608|"
 "https://scryfall.com/card/grn/39/drowned-secrets?utm_source=api>`"
 msgstr ""
 
@@ -1996,12 +1996,10 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:621
-msgid ""
-"Target creature gets +3/+0 and gains first strike until end of turn. (It "
-"deals combat damage before creatures without first strike.)"
-msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
-"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
+#, fuzzy
+#| msgid "Target creature gets +1/+1 and gains haste until end of turn."
+msgid "Target creature gets +3/+0 and gains first strike until end of turn."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 oraz pośpiech."
 
 #: ../../GRN.rst:628
 msgid ""
@@ -3141,11 +3139,18 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1015
+#, fuzzy
+#| msgid ""
+#| "Exile all cards from all opponents' graveyards. You may cast spells from "
+#| "among those cards this turn, and you may spend mana as though it were "
+#| "mana of any type to cast those spells. At the beginning of the next end "
+#| "step, if any of those cards remain exiled, return them to their owners' "
+#| "graveyards."
 msgid ""
-"Exile all cards from all opponents' graveyards. You may cast spells from "
-"among those cards this turn, and you may spend mana as though it were mana "
-"of any type to cast those spells. At the beginning of the next end step, if "
-"any of those cards remain exiled, return them to their owners' graveyards."
+"Exile all opponents' graveyards. You may cast spells from among those cards "
+"this turn, and you may spend mana as though it were mana of any type to cast "
+"those spells. At the beginning of the next end step, if any of those cards "
+"remain exiled, return them to their owners' graveyards."
 msgstr ""
 "Wygnaj wszystkie karty z cmentarzy wszystkich przeciwników. Możesz rzucać "
 "czary spośród owych kart, a do ich rzucenia możesz wydawać manę tak, jakby "
@@ -3229,7 +3234,7 @@ msgstr ""
 #: ../../GRN.rst:1050
 msgid ""
 ":mtgtip:`Ochran Assassin<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/4/541ef933-64f8-4075-9bd3-97149ac84b2b.jpg?1572893780|"
+"border_crop/front/5/4/541ef933-64f8-4075-9bd3-97149ac84b2b.jpg?1636491586|"
 "https://scryfall.com/card/grn/194/ochran-assassin?utm_source=api>`"
 msgstr ""
 
@@ -4573,6 +4578,13 @@ msgstr ""
 #: ../../GRN.rst:1491
 msgid "Indestructible"
 msgstr "Niezniszczalność"
+
+#~ msgid ""
+#~ "Target creature gets +3/+0 and gains first strike until end of turn. (It "
+#~ "deals combat damage before creatures without first strike.)"
+#~ msgstr ""
+#~ "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+#~ "obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #~ msgid ""
 #~ "Convoke (Your creatures can help cast this spell. Each creature you tap "

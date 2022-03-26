@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:33+0100\n"
 "PO-Revision-Date: 2022-03-21 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
@@ -237,7 +237,7 @@ msgstr ""
 #: ../../M21.rst:14
 msgid ""
 ":mtgtip:`Ugin, the Spirit Dragon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/c/9c017fa9-7021-417a-9c2e-3df409644fcf.jpg?1594734662|"
+"border_crop/front/9/c/9c017fa9-7021-417a-9c2e-3df409644fcf.jpg?1639052473|"
 "https://scryfall.com/card/m21/1/ugin-the-spirit-dragon?utm_source=api>`"
 msgstr ""
 
@@ -2884,7 +2884,7 @@ msgstr ""
 #: ../../M21.rst:876
 msgid ""
 ":mtgtip:`Scorching Dragonfire<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/9/a9a1cce7-1472-42fc-bfd3-c9ed9e563f03.jpg?1594736756|"
+"border_crop/front/a/9/a9a1cce7-1472-42fc-bfd3-c9ed9e563f03.jpg?1636491464|"
 "https://scryfall.com/card/m21/158/scorching-dragonfire?utm_source=api>`"
 msgstr ""
 
@@ -2899,7 +2899,7 @@ msgstr ""
 #: ../../M21.rst:880
 msgid ""
 ":mtgtip:`Shock<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.jpg?1594736765|https://"
+"front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.jpg?1641847379|https://"
 "scryfall.com/card/m21/159/shock?utm_source=api>`"
 msgstr ""
 
@@ -2974,12 +2974,14 @@ msgid ""
 msgstr ""
 
 #: ../../M21.rst:899
-msgid ""
-"Target creature gets +3/+0 and gains first strike until end of turn. (It "
-"deals combat damage before creatures without first strike.)"
+#, fuzzy
+#| msgid ""
+#| "+1: Up to one target creature gets +3/+3 and gains trample until end of "
+#| "turn."
+msgid "Target creature gets +3/+0 and gains first strike until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
-"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
+"+1: Co najwyżej jeden wskazany stwór dostaje do końca tury +3/+3 i "
+"tratowanie."
 
 #: ../../M21.rst:908
 msgid ""
@@ -3662,7 +3664,7 @@ msgstr ""
 #: ../../M21.rst:1124
 msgid ""
 ":mtgtip:`Setessan Training<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/9/1947f64a-5ca0-4dda-8bbd-8472e72ecf18.jpg?1594737216|"
+"border_crop/front/1/9/1947f64a-5ca0-4dda-8bbd-8472e72ecf18.jpg?1644254571|"
 "https://scryfall.com/card/m21/205/setessan-training?utm_source=api>`"
 msgstr ""
 
@@ -4302,9 +4304,11 @@ msgid ""
 msgstr ""
 
 #: ../../M21.rst:1329
-msgid ""
-"|tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's "
-"graveyard."
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's "
+#| "graveyard."
+msgid "|tap|, Sacrifice Tormod's Crypt: Exile target player's graveyard."
 msgstr ""
 "|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
 "gracza."
@@ -5064,6 +5068,13 @@ msgid ""
 "border_crop/front/c/c/cceaf927-261e-4d61-9fac-eb8abbe87593.jpg?1596250214|"
 "https://scryfall.com/card/m21/339/wildwood-patrol?utm_source=api>`"
 msgstr ""
+
+#~ msgid ""
+#~ "Target creature gets +3/+0 and gains first strike until end of turn. (It "
+#~ "deals combat damage before creatures without first strike.)"
+#~ msgstr ""
+#~ "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+#~ "obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #~ msgid ""
 #~ "Scry 1. (Look at the top card of your library. You may put that card on "

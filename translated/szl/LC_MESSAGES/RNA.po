@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-01 23:01+0100\n"
+"POT-Creation-Date: 2022-03-26 19:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -209,18 +209,22 @@ msgid "{(g/u)}"
 msgstr ""
 
 #: ../../symbols.rst:99
-msgid "{S}"
+msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
 msgid "{PW}"
 msgstr ""
 
@@ -1477,7 +1481,7 @@ msgstr ""
 #: ../../RNA.rst:492
 msgid ""
 ":mtgtip:`Vindictive Vampire<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/c/7c0bfb47-c753-42fa-969b-7b10b87b0462.jpg?1584830759|"
+"border_crop/front/7/c/7c0bfb47-c753-42fa-969b-7b10b87b0462.jpg?1636202774|"
 "https://scryfall.com/card/rna/90/vindictive-vampire?utm_source=api>`"
 msgstr ""
 
@@ -1761,7 +1765,7 @@ msgstr ""
 #: ../../RNA.rst:588
 msgid ""
 ":mtgtip:`Rubble Reading<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/a/8ace095a-3ea9-4121-8ffb-5b3612b96985.jpg?1584830987|"
+"border_crop/front/8/a/8ace095a-3ea9-4121-8ffb-5b3612b96985.jpg?1636202796|"
 "https://scryfall.com/card/rna/110/rubble-reading?utm_source=api>`"
 msgstr ""
 
@@ -2336,7 +2340,7 @@ msgstr ""
 #: ../../RNA.rst:804
 msgid ""
 ":mtgtip:`Azorius Knight-Arbiter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/0/60befc28-2ab8-4b59-a33f-0328c5d2f995.jpg?1584831378|"
+"border_crop/front/6/0/60befc28-2ab8-4b59-a33f-0328c5d2f995.jpg?1636491577|"
 "https://scryfall.com/card/rna/154/azorius-knight-arbiter?utm_source=api>`"
 msgstr ""
 
