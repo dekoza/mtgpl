@@ -15,7 +15,7 @@
    |tap|, Sacrifice Bounty Agent: Destroy target legendary permanent that's an artifact, creature, or enchantment.
 
 
-:mtgtip:`Candlelight Vigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e920a75f-7dec-4815-a358-e174401da83b.jpg?1572892479|https://scryfall.com/card/grn/3/candlelight-vigil?utm_source=api>`
+:mtgtip:`Candlelight Vigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e920a75f-7dec-4815-a358-e174401da83b.jpg?1636491648|https://scryfall.com/card/grn/3/candlelight-vigil?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +3/+2 and has vigilance.
@@ -121,7 +121,7 @@
    Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
 
 
-:mtgtip:`Righteous Blow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4501520-acf4-438f-9e96-4a649875ffdd.jpg?1572892626|https://scryfall.com/card/grn/23/righteous-blow?utm_source=api>`
+:mtgtip:`Righteous Blow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4501520-acf4-438f-9e96-4a649875ffdd.jpg?1636491639|https://scryfall.com/card/grn/23/righteous-blow?utm_source=api>`
    Righteous Blow deals 2 damage to target attacking or blocking creature.
 
 
@@ -187,7 +187,7 @@
    Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
-:mtgtip:`Devious Cover-Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21ac6b0a-b1a5-439d-b65e-5f04e1826c80.jpg?1572892710|https://scryfall.com/card/grn/35/devious-cover-up?utm_source=api>`
+:mtgtip:`Devious Cover-Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21ac6b0a-b1a5-439d-b65e-5f04e1826c80.jpg?1636491628|https://scryfall.com/card/grn/35/devious-cover-up?utm_source=api>`
    Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to four target cards from your graveyard into your library.
 
 
@@ -207,7 +207,7 @@
    When Dream Eater enters the battlefield, surveil 4. When you do, you may return target nonland permanent an opponent controls to its owner's hand. (To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
-:mtgtip:`Drowned Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfc98428-7a0f-445f-9d48-eeb76c3e10d6.jpg?1572892737|https://scryfall.com/card/grn/39/drowned-secrets?utm_source=api>`
+:mtgtip:`Drowned Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfc98428-7a0f-445f-9d48-eeb76c3e10d6.jpg?1636491608|https://scryfall.com/card/grn/39/drowned-secrets?utm_source=api>`
    Whenever you cast a blue spell, target player mills two cards.
 
 
@@ -618,7 +618,7 @@
 
 
 :mtgtip:`Sure Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d01f1ce-9931-4712-a907-72c2c6d5ee76.jpg?1572893274|https://scryfall.com/card/grn/118/sure-strike?utm_source=api>`
-   Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+   Target creature gets +3/+0 and gains first strike until end of turn.
 
 
 :mtgtip:`Torch Courier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4c9fc8c-e68f-4636-84b8-877f6ec04b09.jpg?1572893280|https://scryfall.com/card/grn/119/torch-courier?utm_source=api>`
@@ -1012,7 +1012,7 @@
 
 
 :mtgtip:`Mnemonic Betrayal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5cf45aa-ed34-4add-a2ec-fc11f8c15ffa.jpg?1572893747|https://scryfall.com/card/grn/189/mnemonic-betrayal?utm_source=api>`
-   Exile all cards from all opponents' graveyards. You may cast spells from among those cards this turn, and you may spend mana as though it were mana of any type to cast those spells. At the beginning of the next end step, if any of those cards remain exiled, return them to their owners' graveyards.
+   Exile all opponents' graveyards. You may cast spells from among those cards this turn, and you may spend mana as though it were mana of any type to cast those spells. At the beginning of the next end step, if any of those cards remain exiled, return them to their owners' graveyards.
 
    Exile Mnemonic Betrayal.
 
@@ -1043,7 +1043,7 @@
    Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
-:mtgtip:`Ochran Assassin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/541ef933-64f8-4075-9bd3-97149ac84b2b.jpg?1572893780|https://scryfall.com/card/grn/194/ochran-assassin?utm_source=api>`
+:mtgtip:`Ochran Assassin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/541ef933-64f8-4075-9bd3-97149ac84b2b.jpg?1636491586|https://scryfall.com/card/grn/194/ochran-assassin?utm_source=api>`
    Deathtouch
 
    All creatures able to block Ochran Assassin do so.

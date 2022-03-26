@@ -375,6 +375,14 @@
    When Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
+:mtgtip:`A-Falcon Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1645740110|https://scryfall.com/card/mid/A-52/a-falcon-abomination?utm_source=api>`
+   Flash
+
+   Flying
+
+   When Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
+
+
 :mtgtip:`Firmament Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9db186a1-3dc5-4ed2-8cd4-1e4f13094885.jpg?1634348872|https://scryfall.com/card/mid/53/firmament-sage?utm_source=api>`
    If it's neither day nor night, it becomes day as Firmament Sage enters the battlefield.
 
@@ -421,6 +429,12 @@
    Spells can't be countered.
 
    Each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.
+
+
+:mtgtip:`A-Lier, Disciple of the Drowned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1645415764|https://scryfall.com/card/mid/A-59/a-lier-disciple-of-the-drowned?utm_source=api>`
+   Spells can't be countered.
+
+   As long as it's your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.
 
 
 :mtgtip:`Locked in the Cemetery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68593c6d-8d1b-4c36-84a1-f1144669825e.jpg?1634349012|https://scryfall.com/card/mid/60/locked-in-the-cemetery?utm_source=api>`
@@ -709,11 +723,11 @@
    Exile target creature or planeswalker.
 
 
-:mtgtip:`Ecstatic Awakener<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1634347857|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
+:mtgtip:`Ecstatic Awakener<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1646412434|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
    |mana_2|\ |mana_b|, Sacrifice another creature: Draw a card, then transform Ecstatic Awakener. Activate only once each turn.
 
 
-:mtgtip:`Awoken Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1634347857|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
+:mtgtip:`Awoken Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1646412434|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
    
 
 
@@ -758,6 +772,12 @@
 
 
 :mtgtip:`Hobbling Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68284193-a38e-40d2-8d15-92d223756751.jpg?1634349884|https://scryfall.com/card/mid/106/hobbling-zombie?utm_source=api>`
+   Deathtouch
+
+   When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
+
+
+:mtgtip:`A-Hobbling Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1645740181|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
    Deathtouch
 
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
@@ -1003,13 +1023,13 @@
    |mana_1|\ |mana_r|, |tap|: Exile the top card of your library. You may play that card this turn.
 
 
-:mtgtip:`Harvesttide Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1636223073|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
+:mtgtip:`Harvesttide Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1644879429|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
    Trample
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Harvesttide Assailant<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1636223073|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
+:mtgtip:`Harvesttide Assailant<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1644879429|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
    Trample
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
@@ -1487,7 +1507,7 @@
    Flashback |mana_3|\ |mana_u|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Arlinn, the Pack's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1636683747|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
+:mtgtip:`Arlinn, the Pack's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1644855247|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
    +1: Until your next turn, you may cast creature spells as though they had flash, and each creature you control enters the battlefield with an additional +1/+1 counter on it.
@@ -1495,7 +1515,7 @@
    −3: Create two 2/2 green Wolf creature tokens.
 
 
-:mtgtip:`Arlinn, the Moon's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1636683747|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
+:mtgtip:`Arlinn, the Moon's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1644855247|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
    +2: Add |mana_r|\ |mana_g|.

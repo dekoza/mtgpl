@@ -373,7 +373,7 @@
    At the beginning of your upkeep, return up to one other target enchantment you control to its owner's hand.
 
 
-:mtgtip:`Shoal Kraken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec538182-efba-48d0-91ad-457461b44748.jpg?1581479511|https://scryfall.com/card/thb/65/shoal-kraken?utm_source=api>`
+:mtgtip:`Shoal Kraken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec538182-efba-48d0-91ad-457461b44748.jpg?1636491452|https://scryfall.com/card/thb/65/shoal-kraken?utm_source=api>`
    Constellation — Whenever an enchantment enters the battlefield under your control, you may draw a card. If you do, discard a card.
 
 
@@ -1477,10 +1477,10 @@
    |mana_4|, |tap|: Remove target attacking or blocking creature from combat.
 
 
-:mtgtip:`Temple of Abandon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d5f8481-47f7-4531-9dad-686cdfb5d2ad.jpg?1581481254|https://scryfall.com/card/thb/244/temple-of-abandon?utm_source=api>`
+:mtgtip:`Temple of Abandon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d5f8481-47f7-4531-9dad-686cdfb5d2ad.jpg?1635326015|https://scryfall.com/card/thb/244/temple-of-abandon?utm_source=api>`
    Temple of Abandon enters the battlefield tapped.
 
-   When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Abandon enters the battlefield, scry 1.
 
    |tap|: Add |mana_r| or |mana_g|.
 
@@ -1488,23 +1488,23 @@
 :mtgtip:`Temple of Deceit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3d4fd29-dab5-481f-94c9-eeb70f3c29dd.jpg?1581481259|https://scryfall.com/card/thb/245/temple-of-deceit?utm_source=api>`
    Temple of Deceit enters the battlefield tapped.
 
-   When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Deceit enters the battlefield, scry 1.
 
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Temple of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adad8390-66d8-4022-a059-c68e44e718fe.jpg?1581481265|https://scryfall.com/card/thb/246/temple-of-enlightenment?utm_source=api>`
+:mtgtip:`Temple of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adad8390-66d8-4022-a059-c68e44e718fe.jpg?1635326004|https://scryfall.com/card/thb/246/temple-of-enlightenment?utm_source=api>`
    Temple of Enlightenment enters the battlefield tapped.
 
-   When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Enlightenment enters the battlefield, scry 1.
 
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Temple of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9490a495-9f17-45a8-b10c-7de4fcbd2778.jpg?1581481271|https://scryfall.com/card/thb/247/temple-of-malice?utm_source=api>`
+:mtgtip:`Temple of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/9490a495-9f17-45a8-b10c-7de4fcbd2778.jpg?1635325983|https://scryfall.com/card/thb/247/temple-of-malice?utm_source=api>`
    Temple of Malice enters the battlefield tapped.
 
-   When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Malice enters the battlefield, scry 1.
 
    |tap|: Add |mana_b| or |mana_r|.
 
@@ -1512,7 +1512,7 @@
 :mtgtip:`Temple of Plenty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e6256ea-ccb5-4595-8278-44266f922e31.jpg?1581481279|https://scryfall.com/card/thb/248/temple-of-plenty?utm_source=api>`
    Temple of Plenty enters the battlefield tapped.
 
-   When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   When Temple of Plenty enters the battlefield, scry 1.
 
    |tap|: Add |mana_g| or |mana_w|.
 
@@ -1523,23 +1523,23 @@
    |mana_1|, |tap|: Add one mana of any color.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1581719749|https://scryfall.com/card/thb/250/plains?utm_source=api>`
+:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1641306232|https://scryfall.com/card/thb/250/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1582126055|https://scryfall.com/card/thb/251/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1641306192|https://scryfall.com/card/thb/251/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02cb5cfd-018e-4c5e-bef1-166262aa5f1d.jpg?1582126067|https://scryfall.com/card/thb/252/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02cb5cfd-018e-4c5e-bef1-166262aa5f1d.jpg?1641306156|https://scryfall.com/card/thb/252/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1582126072|https://scryfall.com/card/thb/253/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1641306121|https://scryfall.com/card/thb/253/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1582126077|https://scryfall.com/card/thb/254/forest?utm_source=api>`
+:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082|https://scryfall.com/card/thb/254/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 
 
@@ -1621,7 +1621,7 @@
    Krakens, Leviathans, Octopuses, and Serpents you control can't be blocked except by Krakens, Leviathans, Octopuses, and Serpents.
 
 
-:mtgtip:`Demon of Loathing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57564f6f-7c99-4325-8a0e-22342e73767b.jpg?1607534905|https://scryfall.com/card/thb/292/demon-of-loathing?utm_source=api>`
+:mtgtip:`Demon of Loathing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57564f6f-7c99-4325-8a0e-22342e73767b.jpg?1645131269|https://scryfall.com/card/thb/292/demon-of-loathing?utm_source=api>`
    Flying, trample
 
    Whenever Demon of Loathing deals combat damage to a player, that player sacrifices a creature.

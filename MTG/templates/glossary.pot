@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-03-26 19:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1778,14 +1778,6 @@ msgstr ""
 
 #: ../../glossary.rst:591
 msgid "A card's expansion symbol is a small icon normally printed below the right edge of the illustration that has no effect on game play. See :mtgrule:`rule 206, \"Expansion Symbol.\"`"
-msgstr ""
-
-#: ../../glossary.rst:592
-msgid "Exploit"
-msgstr ""
-
-#: ../../glossary.rst:594
-msgid "A keyword ability that lets you sacrifice a creature for a benefit. See :mtgrule:`rule 702.109, \"Exploit.\"`"
 msgstr ""
 
 #: ../../glossary.rst:595
@@ -4660,6 +4652,14 @@ msgstr ""
 
 #: ../../glossary.rst:1684
 msgid "A state-based action that causes all permanents with the world supertype except the one that has had the world supertype for the shortest amount of time are put into their owners' graveyards. See :mtgrule:`rule 704.5k.`"
+msgstr ""
+
+#: ../../glossary.rst:592
+msgid "Exploit"
+msgstr ""
+
+#: ../../glossary.rst:594
+msgid "A keyword ability that lets you sacrifice a creature for a benefit. See :mtgrule:`rule 702.109, \"Exploit.\"`"
 msgstr ""
 
 #: ../../glossary.rst:1685

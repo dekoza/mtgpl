@@ -568,7 +568,7 @@
 
    II — Destroy all nonartifact creatures.
 
-   III — Exile all cards from all opponents' graveyards.
+   III — Exile all opponents' graveyards.
 
 
 :mtgtip:`Rat Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f618e07-f06f-45d2-8512-e6cef88c0434.jpg?1562735454|https://scryfall.com/card/dom/101/rat-colony?utm_source=api>`
@@ -773,7 +773,7 @@
    When Keldon Raider enters the battlefield, you may discard a card. If you do, draw a card.
 
 
-:mtgtip:`Keldon Warcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22d2e230-2d60-402d-98e4-0f33d2f27c56.jpg?1562732635|https://scryfall.com/card/dom/136/keldon-warcaller?utm_source=api>`
+:mtgtip:`Keldon Warcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22d2e230-2d60-402d-98e4-0f33d2f27c56.jpg?1636491681|https://scryfall.com/card/dom/136/keldon-warcaller?utm_source=api>`
    Whenever Keldon Warcaller attacks, put a lore counter on target Saga you control.
 
 
@@ -1215,7 +1215,7 @@
    |tap|: Add three mana of any one color.
 
 
-:mtgtip:`Guardians of Koilos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbbc615a-708a-444b-acab-871cce22694d.jpg?1562741989|https://scryfall.com/card/dom/216/guardians-of-koilos?utm_source=api>`
+:mtgtip:`Guardians of Koilos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbbc615a-708a-444b-acab-871cce22694d.jpg?1636491669|https://scryfall.com/card/dom/216/guardians-of-koilos?utm_source=api>`
    When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)
 
 
@@ -1471,7 +1471,7 @@
    Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle.
 
 
-:mtgtip:`Karplusan Hound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95179b31-8cb5-4dd9-ad93-782b8774534d.jpg?1562739783|https://scryfall.com/card/dom/277/karplusan-hound?utm_source=api>`
+:mtgtip:`Karplusan Hound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95179b31-8cb5-4dd9-ad93-782b8774534d.jpg?1636491658|https://scryfall.com/card/dom/277/karplusan-hound?utm_source=api>`
    Whenever Karplusan Hound attacks, if you control a Chandra planeswalker, this creature deals 2 damage to any target.
 
 

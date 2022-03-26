@@ -27,7 +27,7 @@
    Destroy up to one target artifact, enchantment, or tapped creature. Then if you control an artifact and an enchantment, create a 2/2 white Samurai creature token with vigilance.
 
 
-:mtgtip:`Befriending the Moths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1643398633|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
+:mtgtip:`Befriending the Moths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1645325692|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Target creature you control gets +1/+1 and gains flying until end of turn.
@@ -35,7 +35,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Imperial Moth<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1643398633|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
+:mtgtip:`Imperial Moth<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1645325692|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
    Flying
 
 
@@ -75,7 +75,7 @@
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Era of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1643318950|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
+:mtgtip:`Era of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1645325706|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Scry 2.
@@ -85,11 +85,11 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Hand of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1643318950|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
+:mtgtip:`Hand of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1645325706|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
    First strike
 
 
-:mtgtip:`The Fall of Lord Konda<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1644002782|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
+:mtgtip:`The Fall of Lord Konda<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1645325720|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Exile target creature an opponent controls with mana value 4 or greater.
@@ -99,7 +99,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Fragment of Konda<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1644002782|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
+:mtgtip:`Fragment of Konda<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1645325720|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
    Defender
 
    When Fragment of Konda dies, draw a card.
@@ -163,14 +163,14 @@
    • Untap Kitsune Ace.
 
 
-:mtgtip:`Kyodai, Soul of Kamigawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbbfd21e-96f1-4e5b-8546-73bb5a887b98.jpg?1643990653|https://scryfall.com/card/neo/23/kyodai-soul-of-kamigawa?utm_source=api>`
+:mtgtip:`Kyodai, Soul of Kamigawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbbfd21e-96f1-4e5b-8546-73bb5a887b98.jpg?1645264554|https://scryfall.com/card/neo/23/kyodai-soul-of-kamigawa?utm_source=api>`
    Flash
 
    Flying
 
    When Kyodai, Soul of Kamigawa enters the battlefield, another target permanent gains indestructible for as long as you control Kyodai.
 
-   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Kyodai, Soul of Kamigawa gets +5/+5 until end of turn.
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Kyodai gets +5/+5 until end of turn.
 
 
 :mtgtip:`Light the Way<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a2fd960-c4ec-4dfa-a61d-f8577b9d3519.jpg?1643665512|https://scryfall.com/card/neo/24/light-the-way?utm_source=api>`
@@ -203,7 +203,7 @@
    Exile target artifact, creature, or enchantment with mana value X or less.
 
 
-:mtgtip:`Michiko's Reign of Truth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1643671147|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
+:mtgtip:`Michiko's Reign of Truth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1645325741|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Target creature gets +1/+1 until end of turn for each artifact and/or enchantment you control.
@@ -211,7 +211,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Portrait of Michiko<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1643671147|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
+:mtgtip:`Portrait of Michiko<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1645325741|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
    Portrait of Michiko gets +1/+1 for each artifact and/or enchantment you control.
 
 
@@ -239,7 +239,7 @@
    • Exile target enchantment.
 
 
-:mtgtip:`The Restoration of Eiganjo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1644078492|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
+:mtgtip:`The Restoration of Eiganjo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1645325777|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
@@ -249,7 +249,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Architect of Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1644078492|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
+:mtgtip:`Architect of Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1645325777|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
    Vigilance
 
    Whenever Architect of Restoration attacks or blocks, create a 1/1 colorless Spirit creature token.
@@ -291,7 +291,7 @@
    Wanderer's Intervention deals 4 damage to target attacking or blocking creature.
 
 
-:mtgtip:`The Wandering Emperor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab2d8a9-ab4c-4225-a570-22636293c17d.jpg?1643320086|https://scryfall.com/card/neo/42/the-wandering-emperor?utm_source=api>`
+:mtgtip:`The Wandering Emperor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab2d8a9-ab4c-4225-a570-22636293c17d.jpg?1644931244|https://scryfall.com/card/neo/42/the-wandering-emperor?utm_source=api>`
    Flash
 
    As long as The Wandering Emperor entered the battlefield this turn, you may activate her loyalty abilities any time you could cast an instant.
@@ -579,7 +579,7 @@
    Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Tezzeret, Betrayer of Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2174d16e-4a78-4d27-b220-1086c40db83e.jpg?1643670756|https://scryfall.com/card/neo/84/tezzeret-betrayer-of-flesh?utm_source=api>`
+:mtgtip:`Tezzeret, Betrayer of Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2174d16e-4a78-4d27-b220-1086c40db83e.jpg?1644862830|https://scryfall.com/card/neo/84/tezzeret-betrayer-of-flesh?utm_source=api>`
    The first activated ability of an artifact you activate each turn costs |mana_2| less to activate.
 
    +1: Draw two cards. Then discard two cards unless you discard an artifact card.
@@ -975,7 +975,7 @@
    |mana_1|, |tap|: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.
 
 
-:mtgtip:`Flame Discharge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b44534f-d10c-4754-8585-5fe9db5fd4ea.jpg?1644088650|https://scryfall.com/card/neo/142/flame-discharge?utm_source=api>`
+:mtgtip:`Flame Discharge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b44534f-d10c-4754-8585-5fe9db5fd4ea.jpg?1645071785|https://scryfall.com/card/neo/142/flame-discharge?utm_source=api>`
    Flame Discharge deals X damage to target creature or planeswalker. If you controlled a modified creature as you cast this spell, it deals X plus 2 damage instead. (Equipment, Auras you control, and counters are modifications.)
 
 
@@ -1155,7 +1155,7 @@
    Upriser Renegade gets +2/+0 for each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Voltage Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a9b7141-45b9-4629-a4e4-b50f93929717.jpg?1644088701|https://scryfall.com/card/neo/171/voltage-surge?utm_source=api>`
+:mtgtip:`Voltage Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a9b7141-45b9-4629-a4e4-b50f93929717.jpg?1645475665|https://scryfall.com/card/neo/171/voltage-surge?utm_source=api>`
    As an additional cost to cast this spell, you may sacrifice an artifact.
 
    Voltage Surge deals 2 damage to target creature or planeswalker. If this spell's additional cost was paid, Voltage Surge deals 4 damage instead.
@@ -1555,7 +1555,7 @@
    Enchantment spells you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Kaito Shizuki<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d35a710-3008-4e27-8afd-6e83329f9917.jpg?1639729904|https://scryfall.com/card/neo/226/kaito-shizuki?utm_source=api>`
+:mtgtip:`Kaito Shizuki<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d35a710-3008-4e27-8afd-6e83329f9917.jpg?1644862847|https://scryfall.com/card/neo/226/kaito-shizuki?utm_source=api>`
    At the beginning of your end step, if Kaito Shizuki entered the battlefield this turn, he phases out.
 
    +1: Draw a card. Then discard a card unless you attacked this turn.
@@ -1565,7 +1565,7 @@
    −7: You get an emblem with "Whenever a creature you control deals combat damage to a player, search your library for a blue or black creature card, put it onto the battlefield, then shuffle."
 
 
-:mtgtip:`The Kami War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1643493517|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
+:mtgtip:`The Kami War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1645895905|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Exile target nonland permanent an opponent controls.
@@ -1575,7 +1575,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`O-Kagachi Made Manifest<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1643493517|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
+:mtgtip:`O-Kagachi Made Manifest<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1645895905|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
    O-Kagachi Made Manifest is all colors.
 
    Flying, trample
@@ -1645,7 +1645,7 @@
    At the beginning of your end step, choose target permanent card in your graveyard. You may sacrifice a permanent that shares a card type with the chosen card. If you do, return the chosen card from your graveyard to the battlefield and it gains "If this permanent would leave the battlefield, exile it instead of putting it anywhere else."
 
 
-:mtgtip:`Tamiyo, Compleated Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/222a736e-d819-452d-aeda-eb848c4b2302.jpg?1643335245|https://scryfall.com/card/neo/238/tamiyo-compleated-sage?utm_source=api>`
+:mtgtip:`Tamiyo, Compleated Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/222a736e-d819-452d-aeda-eb848c4b2302.jpg?1644862859|https://scryfall.com/card/neo/238/tamiyo-compleated-sage?utm_source=api>`
    Compleated ({G/U/P} can be paid with |mana_g|, |mana_u|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 
    +1: Tap up to one target artifact or creature. It doesn't untap during its controller's next untap step.

@@ -259,10 +259,28 @@
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
 
 
-:mtgtip:`Alrund's Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c94fcb53-a7bd-4a80-a536-9fb0eb24261a.jpg?1631046603|https://scryfall.com/card/khm/41/alrunds-epiphany?utm_source=api>`
+:mtgtip:`A-Alrund, God of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1645758046|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
+   Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.
+
+   At the beginning of your end step, choose a card type, then reveal the top three cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
+
+
+:mtgtip:`A-Hakka, Whispering Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1645758046|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
+   Flying
+
+   Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
+
+
+:mtgtip:`Alrund's Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c94fcb53-a7bd-4a80-a536-9fb0eb24261a.jpg?1644607558|https://scryfall.com/card/khm/41/alrunds-epiphany?utm_source=api>`
    Create two 1/1 blue Bird creature tokens with flying. Take an extra turn after this one. Exile Alrund's Epiphany.
 
    Foretell |mana_4|\ |mana_u|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
+
+
+:mtgtip:`A-Alrund's Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df2f81dc-2346-4bd9-aa3b-aaa2d3873415.jpg?1645415678|https://scryfall.com/card/khm/A-41/a-alrunds-epiphany?utm_source=api>`
+   Take an extra turn after this one. If this spell was foretold, create two 1/1 blue Bird creature tokens with flying. Exile Alrund's Epiphany.
+
+   Foretell |mana_5|\ |mana_u|\ |mana_u|
 
 
 :mtgtip:`Annul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b1d4a59-11a0-4a55-8ac0-07377a9e6dc8.jpg?1631046631|https://scryfall.com/card/khm/42/annul?utm_source=api>`
@@ -329,6 +347,16 @@
    Foretelling cards from your hand costs |mana_1| less and can be done on any player's turn.
 
    Foretell |mana_2|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
+
+
+:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1645740443|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
+   Flash
+
+   Flying
+
+   Foretelling cards from your hand costs |mana_1| less and can be done on any player's turn.
+
+   Foretell |mana_1|\ |mana_u|
 
 
 :mtgtip:`Cyclone Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2d40071-cadf-48de-a8ed-d55adbfab632.jpg?1631046953|https://scryfall.com/card/khm/52/cyclone-summoner?utm_source=api>`
@@ -699,20 +727,20 @@
    Foretell |mana_2|\ |mana_b|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Valki, God of Lies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1631048701|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
+:mtgtip:`Valki, God of Lies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1636100811|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
    When Valki enters the battlefield, each opponent reveals their hand. For each opponent, exile a creature card they revealed this way until Valki leaves the battlefield.
 
    |mana_x|: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card.
 
 
-:mtgtip:`Tibalt, Cosmic Impostor<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1631048701|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
+:mtgtip:`Tibalt, Cosmic Impostor<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.jpg?1636100811|https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?utm_source=api>`
    As Tibalt enters the battlefield, you get an emblem with "You may play cards exiled with Tibalt, Cosmic Impostor, and you may spend mana as though it were mana of any color to cast those spells."
 
    +2: Exile the top card of each player's library.
 
    −3: Exile target artifact or creature.
 
-   −8: Exile all cards from all graveyards. Add |mana_r|\ |mana_r|\ |mana_r|.
+   −8: Exile all graveyards. Add |mana_r|\ |mana_r|\ |mana_r|.
 
 
 :mtgtip:`Varragoth, Bloodsky Sire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efa8dbf0-4e5a-452b-826f-5813e8cd9d85.jpg?1631048726|https://scryfall.com/card/khm/115/varragoth-bloodsky-sire?utm_source=api>`
@@ -851,10 +879,18 @@
    Frost Bite deals 2 damage to target creature or planeswalker. If you control three or more snow permanents, it deals 3 damage instead.
 
 
-:mtgtip:`Goldspan Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1631049376|https://scryfall.com/card/khm/139/goldspan-dragon?utm_source=api>`
+:mtgtip:`Goldspan Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1639436640|https://scryfall.com/card/khm/139/goldspan-dragon?utm_source=api>`
    Flying, haste
 
    Whenever Goldspan Dragon attacks or becomes the target of a spell, create a Treasure token.
+
+   Treasures you control have "|tap|, Sacrifice this artifact: Add two mana of any one color."
+
+
+:mtgtip:`A-Goldspan Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2dc90624-2914-4d1f-91a6-3079586f27c7.jpg?1647770466|https://scryfall.com/card/khm/A-139/a-goldspan-dragon?utm_source=api>`
+   Flying, haste
+
+   Whenever A-Goldspan Dragon attacks, create a Treasure token.
 
    Treasures you control have "|tap|, Sacrifice this artifact: Add two mana of any one color."
 
@@ -933,7 +969,7 @@
    Squash deals 6 damage to target creature or planeswalker.
 
 
-:mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1631049733|https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`
+:mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1634131612|https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`
    Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order.
 
 
@@ -1031,12 +1067,20 @@
    At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Esika's Chariot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a87606cc-fbf0-4e2c-9798-f1c935d0573d.jpg?1631050215|https://scryfall.com/card/khm/169/esikas-chariot?utm_source=api>`
+:mtgtip:`Esika's Chariot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a87606cc-fbf0-4e2c-9798-f1c935d0573d.jpg?1639436653|https://scryfall.com/card/khm/169/esikas-chariot?utm_source=api>`
    When Esika's Chariot enters the battlefield, create two 2/2 green Cat creature tokens.
 
    Whenever Esika's Chariot attacks, create a token that's a copy of target token you control.
 
    Crew 4
+
+
+:mtgtip:`A-Esika's Chariot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44e09a40-3b9d-4b41-a6b9-c20373572341.jpg?1645415546|https://scryfall.com/card/khm/A-169/a-esikas-chariot?utm_source=api>`
+   When Esika's Chariot enters the battlefield, create a 2/2 green Cat creature token.
+
+   Whenever Esika's Chariot attacks, create a token that's a copy of target token you control.
+
+   Crew 2
 
 
 :mtgtip:`Fynn, the Fangbearer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9.jpg?1631050242|https://scryfall.com/card/khm/170/fynn-the-fangbearer?utm_source=api>`
@@ -1431,6 +1475,12 @@
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
 
 
+:mtgtip:`A-Narfi, Betrayer King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1645740244|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
+   Other snow and Zombie creatures you control get +1/+1.
+
+   |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
+
+
 :mtgtip:`Niko Aris<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c4e9cfe-e72e-46a1-a8d8-9fda5f2bae73.jpg?1631051773|https://scryfall.com/card/khm/225/niko-aris?utm_source=api>`
    When Niko Aris enters the battlefield, create X Shard tokens. (They're enchantments with "|mana_2|, Sacrifice this enchantment: Scry 1, then draw a card.")
 
@@ -1507,6 +1557,14 @@
    Whenever you cast a spell from anywhere other than your hand, draw a card.
 
 
+:mtgtip:`A-Vega, the Watcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f471133-db82-4610-81fb-736fbd3b1c6c.jpg?1645740909|https://scryfall.com/card/khm/A-233/a-vega-the-watcher?utm_source=api>`
+   Flying
+
+   Ward |mana_2|
+
+   Whenever you cast a spell from anywhere other than your hand, draw a card.
+
+
 :mtgtip:`Waking the Trolls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36016324-384c-4c68-8f73-8f39a244c879.jpg?1631052008|https://scryfall.com/card/khm/234/waking-the-trolls?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
@@ -1531,8 +1589,12 @@
    Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Cosmos Elixir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bf084fe-7762-49c5-974a-cdecc10666b3.jpg?1631052112|https://scryfall.com/card/khm/237/cosmos-elixir?utm_source=api>`
+:mtgtip:`Cosmos Elixir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bf084fe-7762-49c5-974a-cdecc10666b3.jpg?1639436665|https://scryfall.com/card/khm/237/cosmos-elixir?utm_source=api>`
    At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.
+
+
+:mtgtip:`A-Cosmos Elixir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7f1ce0b-6668-4d16-8fe0-07c65ce4bc82.jpg?1645415589|https://scryfall.com/card/khm/A-237/a-cosmos-elixir?utm_source=api>`
+   At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life and scry 1.
 
 
 :mtgtip:`Funeral Longboat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45c48042-178f-432e-9eee-10bfa1e0795f.jpg?1631052137|https://scryfall.com/card/khm/238/funeral-longboat?utm_source=api>`
@@ -1615,19 +1677,19 @@
    |mana_1|\ |mana_r|\ |mana_r|\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle.
 
 
-:mtgtip:`Barkchannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1631052540|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
+:mtgtip:`Barkchannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1636773926|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Tidechannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1631052540|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
+:mtgtip:`Tidechannel Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1636773926|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Blightstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1631052598|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
+:mtgtip:`Blightstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1636057723|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Searstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1631052598|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
+:mtgtip:`Searstep Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1636057723|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
@@ -1639,18 +1701,24 @@
    |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.
 
 
-:mtgtip:`Darkbore Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1631052683|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
+:mtgtip:`Darkbore Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1636057741|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Slitherbore Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1631052683|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
+:mtgtip:`Slitherbore Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1636057741|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Faceless Haven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3cd82e5-6072-4334-a493-01ca4ad6b4eb.jpg?1631052709|https://scryfall.com/card/khm/255/faceless-haven?utm_source=api>`
+:mtgtip:`Faceless Haven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3cd82e5-6072-4334-a493-01ca4ad6b4eb.jpg?1644607571|https://scryfall.com/card/khm/255/faceless-haven?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_s|\ |mana_s|\ |mana_s|: Faceless Haven becomes a 4/3 creature with vigilance and all creature types until end of turn. It's still a land. (|mana_s| can be paid with one mana from a snow source.)
+
+
+:mtgtip:`A-Faceless Haven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/728d7bd8-251f-4f94-8487-64bf88baaabc.jpg?1645415743|https://scryfall.com/card/khm/A-255/a-faceless-haven?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_s|\ |mana_s|\ |mana_s|: Faceless Haven becomes a 3/3 creature with vigilance and all creature types until end of turn. It's still a land. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Gates of Istfell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2627acb7-57d9-4429-9bc5-e7dd444d8d48.jpg?1631052735|https://scryfall.com/card/khm/256/gates-of-istfell?utm_source=api>`
@@ -1683,11 +1751,11 @@
    |mana_w|\ |mana_w|\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate only as a sorcery.
 
 
-:mtgtip:`Hengegate Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1631052880|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
+:mtgtip:`Hengegate Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1636057744|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Mistgate Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1631052880|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
+:mtgtip:`Mistgate Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1636057744|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 

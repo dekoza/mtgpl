@@ -23,7 +23,7 @@
    Teleport — |mana_3|\ |mana_w|: Blink Dog phases out. (Treat it and anything attached to it as though they don't exist until your next turn.)
 
 
-:mtgtip:`The Book of Exalted Deeds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?1627701325|https://scryfall.com/card/afr/4/the-book-of-exalted-deeds?utm_source=api>`
+:mtgtip:`The Book of Exalted Deeds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?1632261616|https://scryfall.com/card/afr/4/the-book-of-exalted-deeds?utm_source=api>`
    At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel creature token with flying.
 
    |mana_w|\ |mana_w|\ |mana_w|, |tap|, Exile The Book of Exalted Deeds: Put an enlightened counter on target Angel. It gains "You can't lose the game and your opponents can't win the game." Activate only as a sorcery.
@@ -48,6 +48,12 @@
 
 
 :mtgtip:`Cloister Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/297bf274-d13d-4b75-b251-2d004b16b431.jpg?1627701438|https://scryfall.com/card/afr/7/cloister-gargoyle?utm_source=api>`
+   When Cloister Gargoyle enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+   As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
+
+
+:mtgtip:`A-Cloister Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/735b16a4-c35a-4eec-94ed-8df6720240e0.jpg?1645415339|https://scryfall.com/card/afr/A-7/a-cloister-gargoyle?utm_source=api>`
    When Cloister Gargoyle enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 
    As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
@@ -333,7 +339,15 @@
    20 | Scry 3, then draw three cards.
 
 
-:mtgtip:`Demilich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a1351ed-b9df-4a6d-aaa1-ec6db673d265.jpg?1627703081|https://scryfall.com/card/afr/53/demilich?utm_source=api>`
+:mtgtip:`Demilich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a1351ed-b9df-4a6d-aaa1-ec6db673d265.jpg?1639436596|https://scryfall.com/card/afr/53/demilich?utm_source=api>`
+   This spell costs |mana_u| less to cast for each instant and sorcery spell you've cast this turn.
+
+   Whenever Demilich attacks, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+
+   You may cast Demilich from your graveyard by exiling four instant and/or sorcery cards from your graveyard in addition to paying its other costs.
+
+
+:mtgtip:`A-Demilich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e200b8f1-3738-4db4-a2b3-7aeb4c2fd59b.jpg?1645415502|https://scryfall.com/card/afr/A-53/a-demilich?utm_source=api>`
    This spell costs |mana_u| less to cast for each instant and sorcery spell you've cast this turn.
 
    Whenever Demilich attacks, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
@@ -509,7 +523,7 @@
    Target artifact or creature becomes a copy of another target artifact or creature.
 
 
-:mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1627704026|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
+:mtgtip:`Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1639436605|https://scryfall.com/card/afr/81/wizard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    You have no maximum hand size.
@@ -519,6 +533,20 @@
    When this Class becomes level 2, draw two cards.
 
    |mana_4|\ |mana_u|: Level 3
+
+   Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+
+:mtgtip:`A-Wizard Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab73fa2c-b89f-4f1c-b8bf-f00c024a00bd.jpg?1645415261|https://scryfall.com/card/afr/A-81/a-wizard-class?utm_source=api>`
+   (Gain the next level as a sorcery to add its ability.)
+
+   You have no maximum hand size.
+
+   |mana_2|\ |mana_u|: Level 2
+
+   When this Class becomes level 2, draw two cards.
+
+   |mana_2|\ |mana_u|: Level 3
 
    Whenever you draw a card, put a +1/+1 counter on target creature you control.
 
@@ -569,6 +597,12 @@
    Whenever Acererak the Archlich attacks, for each opponent, you create a 2/2 black Zombie creature token unless that player sacrifices a creature.
 
 
+:mtgtip:`A-Acererak the Archlich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb363654-2004-4db8-bbd2-5b121da4f2a0.jpg?1645415464|https://scryfall.com/card/afr/A-87/a-acererak-the-archlich?utm_source=api>`
+   When Acererak the Archlich enters the battlefield, if you haven't completed Tomb of Annihilation, return Acererak the Archlich to its owner's hand and venture into the dungeon.
+
+   Whenever Acererak the Archlich attacks, create a number of 2/2 black Zombie creature tokens equal to the number of opponents you have.
+
+
 :mtgtip:`Asmodeus the Archfiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.jpg?1627704325|https://scryfall.com/card/afr/88/asmodeus-the-archfiend?utm_source=api>`
    Binding Contract — If you would draw a card, exile the top card of your library face down instead.
 
@@ -617,6 +651,12 @@
    At the beginning of your end step, if a creature died this turn, you may pay |mana_1|. If you do, create a 1/1 black Skeleton creature token.
 
 
+:mtgtip:`A-Death-Priest of Myrkul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f756f0c8-bab6-45cf-a433-409b3c999263.jpg?1645739974|https://scryfall.com/card/afr/A-95/a-death-priest-of-myrkul?utm_source=api>`
+   Skeletons, Vampires, and Zombies you control get +1/+1.
+
+   At the beginning of your end step, if a creature died this turn, create a 1/1 black Skeleton creature token.
+
+
 :mtgtip:`Demogorgon's Clutches<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/581e7ac6-65e5-4a16-ab0b-0988c3a3cfea.jpg?1627704588|https://scryfall.com/card/afr/96/demogorgons-clutches?utm_source=api>`
    Target opponent discards two cards, mills two cards, and loses 2 life. (To mill a card, a player puts the top card of their library into their graveyard.)
 
@@ -652,6 +692,10 @@
 
 
 :mtgtip:`Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19ff3d76-e985-4d8d-837e-89360cc23824.jpg?1627704784|https://scryfall.com/card/afr/102/fates-reversal?utm_source=api>`
+   Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`A-Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca09f699-c3e9-436e-b1b3-0fcd1ef3273f.jpg?1645415284|https://scryfall.com/card/afr/A-102/a-fates-reversal?utm_source=api>`
    Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
@@ -741,6 +785,14 @@
    Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon.
 
 
+:mtgtip:`A-Precipitous Drop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77808663-2511-4495-a779-d4294a621c7f.jpg?1645415403|https://scryfall.com/card/afr/A-115/a-precipitous-drop?utm_source=api>`
+   Enchant creature
+
+   When Precipitous Drop enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+   Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon.
+
+
 :mtgtip:`Ray of Enfeeblement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff5d948b-fd89-4b90-9b63-ad7da13b5f0e.jpg?1627705288|https://scryfall.com/card/afr/116/ray-of-enfeeblement?utm_source=api>`
    Target creature gets -4/-1 until end of turn. If that creature is white, it gets -4/-4 until end of turn instead.
 
@@ -754,6 +806,10 @@
 
 
 :mtgtip:`Sepulcher Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b302bc8-683f-4a26-ab86-87eaa19dce4d.jpg?1627705347|https://scryfall.com/card/afr/118/sepulcher-ghoul?utm_source=api>`
+   Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn.
+
+
+:mtgtip:`A-Sepulcher Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6af167ef-40f9-4734-a14b-6024ddf93871.jpg?1645740334|https://scryfall.com/card/afr/A-118/a-sepulcher-ghoul?utm_source=api>`
    Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn.
 
 
@@ -1151,7 +1207,7 @@
    |mana_1|\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn.
 
 
-:mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1627707390|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
+:mtgtip:`Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1639436614|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Whenever a land enters the battlefield under your control, you gain 1 life.
@@ -1165,12 +1221,34 @@
    When this Class becomes level 3, target land you control becomes a creature with haste and "This creature's power and toughness are each equal to the number of lands you control." It's still a land.
 
 
+:mtgtip:`A-Druid Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cbd3554-0096-470d-ba9d-011f5c8212c4.jpg?1645415423|https://scryfall.com/card/afr/A-180/a-druid-class?utm_source=api>`
+   (Gain the next level as a sorcery to add its ability.)
+
+   Whenever a land enters the battlefield under your control, you gain 1 life.
+
+   |mana_2|\ |mana_g|: Level 2
+
+   You may play an additional land on each of your turns.
+
+   |mana_2|\ |mana_g|: Level 3
+
+   When this Class becomes level 3, target land you control becomes a creature with haste and "This creature's power and toughness are each equal to the number of lands you control." It's still a land.
+
+
 :mtgtip:`Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.jpg?1627707422|https://scryfall.com/card/afr/181/ellywick-tumblestrum?utm_source=api>`
    +1: Venture into the dungeon. (Enter the first room or advance to the next room.)
 
    −2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
 
    −7: You get an emblem with "Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed."
+
+
+:mtgtip:`A-Ellywick Tumblestrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49215be1-88ed-4302-a708-99496d90d175.jpg?1645415483|https://scryfall.com/card/afr/A-181/a-ellywick-tumblestrum?utm_source=api>`
+   +1: Venture into the dungeon. (Enter the first room or advance to the next room.)
+
+   −2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
+
+   −6: You get an emblem with "Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed."
 
 
 :mtgtip:`Elturgard Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6898737-957f-44a6-bef7-fb196658176f.jpg?1627707474|https://scryfall.com/card/afr/182/elturgard-ranger?utm_source=api>`
@@ -1185,6 +1263,14 @@
    When Find the Path enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 
    Enchanted land has "|tap|: Add |mana_g|\ |mana_g|."
+
+
+:mtgtip:`A-Find the Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50a223fc-ded8-4675-a72a-74ca6a44a642.jpg?1647770408|https://scryfall.com/card/afr/A-183/a-find-the-path?utm_source=api>`
+   Enchant land
+
+   When Find the Path enters the battlefield, venture into the dungeon.
+
+   Enchanted land has "|tap|: Add two mana of any one color."
 
 
 :mtgtip:`Froghemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/728e9567-2585-4c03-99a5-3e84fd8044d2.jpg?1627707629|https://scryfall.com/card/afr/184/froghemoth?utm_source=api>`
@@ -1571,6 +1657,14 @@
    Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
+:mtgtip:`A-Triumphant Adventurer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6a95341-168b-4a97-90dc-9a444f5de8e6.jpg?1645415442|https://scryfall.com/card/afr/A-237/a-triumphant-adventurer?utm_source=api>`
+   Deathtouch
+
+   As long as it's your turn, Triumphant Adventurer has first strike.
+
+   Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)
+
+
 :mtgtip:`Volo, Guide to Monsters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9ae01f9-7461-47b4-aa1e-93bd6ff1bf9e.jpg?1627709617|https://scryfall.com/card/afr/238/volo-guide-to-monsters?utm_source=api>`
    Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)
 
@@ -1699,6 +1793,12 @@
    |tap|: Add |colorless|.
 
    |mana_4|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
+
+
+:mtgtip:`A-Dungeon Descent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7673def9-9f27-4382-b65b-ec616fae1768.jpg?1645415723|https://scryfall.com/card/afr/A-255/a-dungeon-descent?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_1|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery.
 
 
 :mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.jpg?1627710206|https://scryfall.com/card/afr/256/evolving-wilds?utm_source=api>`

@@ -169,7 +169,7 @@
    −2: Create a 0/3 white Wall creature token with defender.
 
 
-:mtgtip:`Teyo's Lightshield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfffe235-98b1-43db-9461-1b2da5f0690e.jpg?1557576085|https://scryfall.com/card/war/33/teyos-lightshield?utm_source=api>`
+:mtgtip:`Teyo's Lightshield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfffe235-98b1-43db-9461-1b2da5f0690e.jpg?1636491565|https://scryfall.com/card/war/33/teyos-lightshield?utm_source=api>`
    When Teyo's Lightshield enters the battlefield, put a +1/+1 counter on target creature you control.
 
 
@@ -187,7 +187,7 @@
    Draw a card.
 
 
-:mtgtip:`Trusted Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bbcaf5-80e9-43f2-b470-de6cbed6a95a.jpg?1557576107|https://scryfall.com/card/war/36/trusted-pegasus?utm_source=api>`
+:mtgtip:`Trusted Pegasus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89bbcaf5-80e9-43f2-b470-de6cbed6a95a.jpg?1636491554|https://scryfall.com/card/war/36/trusted-pegasus?utm_source=api>`
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
    Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.
@@ -239,7 +239,7 @@
    Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
 
 
-:mtgtip:`Contentious Plan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1557576180|https://scryfall.com/card/war/46/contentious-plan?utm_source=api>`
+:mtgtip:`Contentious Plan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1636491537|https://scryfall.com/card/war/46/contentious-plan?utm_source=api>`
    Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
    Draw a card.
@@ -629,7 +629,7 @@
    Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.
 
 
-:mtgtip:`Chandra's Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70f43c17-7022-4052-86b8-90b74382b7bf.jpg?1557576654|https://scryfall.com/card/war/121/chandras-triumph?utm_source=api>`
+:mtgtip:`Chandra's Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70f43c17-7022-4052-86b8-90b74382b7bf.jpg?1636491527|https://scryfall.com/card/war/121/chandras-triumph?utm_source=api>`
    Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage instead if you control a Chandra planeswalker.
 
 
@@ -1197,8 +1197,16 @@
    −3: Return target card from your graveyard to your hand.
 
 
-:mtgtip:`Teferi, Time Raveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1613386796|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`
+:mtgtip:`Teferi, Time Raveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1647659892|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`
    Each opponent can cast spells only any time they could cast a sorcery.
+
+   +1: Until your next turn, you may cast sorcery spells as though they had flash.
+
+   −3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.
+
+
+:mtgtip:`A-Teferi, Time Raveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01091bfd-e9b8-4a9b-89a9-56da625a5d18.jpg?1647659886|https://scryfall.com/card/war/A-221/a-teferi-time-raveler?utm_source=api>`
+   Your opponents can't cast spells during your turn.
 
    +1: Until your next turn, you may cast sorcery spells as though they had flash.
 
