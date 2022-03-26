@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-21 12:32+0000\n"
+"PO-Revision-Date: 2022-03-26 23:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cn2/pl/>\n"
 "Language: pl\n"
@@ -214,10 +214,8 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
-#, fuzzy
-#| msgid "{(g/u)}"
 msgid "{(g/u/p)}"
-msgstr "{(g/u)}"
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
@@ -2678,16 +2676,12 @@ msgid ""
 msgstr ""
 
 #: ../../CN2.rst:863
-#, fuzzy
-#| msgid ""
-#| "Burn Away deals 6 damage to target creature. When that creature dies this "
-#| "turn, exile all cards from its controller's graveyard."
 msgid ""
 "Burn Away deals 6 damage to target creature. When that creature dies this "
 "turn, exile its controller's graveyard."
 msgstr ""
 "Ten czar zadaje wskazanemu stworowi 6 obrażeń. Kiedy ten stwór umrze w tej "
-"turze, wygnaj wszystkie karty z cmentarza jego władcy."
+"turze, wygnaj cmentarz jego władcy."
 
 #: ../../CN2.rst:868
 msgid ""

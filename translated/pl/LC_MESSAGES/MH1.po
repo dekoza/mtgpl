@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-26 23:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -4021,10 +4021,8 @@ msgid "Each opponent sacrifices a creature."
 msgstr "Każdy przeciwnik poświęca stwora."
 
 #: ../../MH1.rst:1203
-#, fuzzy
-#| msgid "Exile all cards from each opponent's graveyard."
 msgid "Exile all opponents' graveyards."
-msgstr "Wygnaj wszystkie karty z cmentarza każdego przeciwnika."
+msgstr "Wygnaj cmentarze przeciwników."
 
 #: ../../MH1.rst:1205
 msgid "Create a 1/1 white and black Spirit creature token with flying."
@@ -4046,19 +4044,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:1215
-#, fuzzy
-#| msgid ""
-#| "During each of your turns, you may cast an instant or sorcery spell from "
-#| "your graveyard. If a spell cast this way would be put into your "
-#| "graveyard, exile it instead."
 msgid ""
 "Once during each of your turns, you may cast an instant or sorcery spell "
 "from your graveyard. If a spell cast this way would be put into your "
 "graveyard, exile it instead."
 msgstr ""
-"W trakcie każdej ze swoich tur możesz rzucić czar sztuczki lub obrzędu z "
-"twojego cmentarza. Jeśli czar rzucony w ten sposób miałby zostać umieszczona "
-"w twoim cmentarzu, zamiast tego wygnaj ją."
+"Raz w każdej ze swoich tur możesz rzucić czar sztuczki lub obrzędu z twojego "
+"cmentarza. Jeśli czar rzucony w ten sposób miałby zostać umieszczona w twoim "
+"cmentarzu, zamiast tego wygnaj ją."
 
 #: ../../MH1.rst:1220
 msgid ""

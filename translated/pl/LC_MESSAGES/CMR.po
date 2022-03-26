@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-26 21:11+0000\n"
+"PO-Revision-Date: 2022-03-26 23:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -6368,16 +6368,12 @@ msgid ""
 msgstr ""
 
 #: ../../CMR.rst:2209
-#, fuzzy
-#| msgid ""
-#| "Creatures you control get +1/+0 and gain indestructible until end of "
-#| "turn. (Damage and effects that say \"destroy\" don't destroy them.)"
 msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Stwory pod twoim władaniem dostają do końca tury +1/+0 oraz "
-"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą ich.)"
+"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../CMR.rst:2211
 msgid "Destroy target creature with toughness 4 or greater."

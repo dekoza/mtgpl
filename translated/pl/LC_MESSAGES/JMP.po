@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-25 11:52+0000\n"
+"PO-Revision-Date: 2022-03-26 23:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -1919,17 +1919,12 @@ msgid ""
 msgstr ""
 
 #: ../../JMP.rst:555
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a noncreature spell, Cathar's Companion gains "
-#| "indestructible until end of turn. (Damage and effects that say \"destroy"
-#| "\" don't destroy it.)"
 msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, ten stwór zyskuje niezniszczalność do "
-"końca tury. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
+"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../JMP.rst:557
 msgid "Destroy target creature with toughness 4 or greater."

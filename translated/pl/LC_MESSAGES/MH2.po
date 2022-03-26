@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-26 21:11+0000\n"
+"PO-Revision-Date: 2022-03-26 23:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -4047,14 +4047,10 @@ msgstr ""
 "pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../MH2.rst:1181
-#, fuzzy
-#| msgid ""
-#| "Planeswalkers' loyalty abilities you activate cost an additional [+1] to "
-#| "activate."
 msgid ""
 "Planeswalkers' loyalty abilities you activate cost an additional +1 to "
 "activate."
-msgstr "Aktywacja zdolności wędrowców kosztuje cię dodatkowe [+1]."
+msgstr "Aktywacja zdolności wędrowców kosztuje cię dodatkowe +1."
 
 #: ../../MH2.rst:1188
 msgid ""
@@ -5088,10 +5084,6 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1507
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Tormod's Cryptkeeper: Exile all cards from target "
-#| "player's graveyard."
 msgid "|tap|, Sacrifice Tormod's Cryptkeeper: Exile target player's graveyard."
 msgstr "|tap|, poświęć tego stwora: Wygnaj cmentarz wskazanego gracza."
 
