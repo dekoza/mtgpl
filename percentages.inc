@@ -382,7 +382,7 @@
 .. |SNC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ARN_percent| image:: images/pie50.png        
+.. |ARN_percent| image:: images/pie55.png        
 
 .. |PTK_percent| image:: images/pie55.png        
 
