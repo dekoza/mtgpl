@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 09:53+0000\n"
+"PO-Revision-Date: 2022-03-28 10:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -216,10 +216,8 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
-#, fuzzy
-#| msgid "{(g/u)}"
 msgid "{(g/u/p)}"
-msgstr "{(g/u)}"
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"

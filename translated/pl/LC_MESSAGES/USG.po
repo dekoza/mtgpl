@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 09:52+0000\n"
+"PO-Revision-Date: 2022-03-28 10:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/usg/pl/>\n"
 "Language: pl\n"
@@ -214,10 +214,8 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
-#, fuzzy
-#| msgid "{(g/u)}"
 msgid "{(g/u/p)}"
-msgstr "{(g/u)}"
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
@@ -2947,7 +2945,7 @@ msgstr ""
 
 #: ../../USG.rst:973
 msgid "Protection from blue"
-msgstr ""
+msgstr "Ochrona przed niebieskim"
 
 #: ../../USG.rst:978
 msgid ""
