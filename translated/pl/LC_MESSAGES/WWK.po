@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 06:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -400,7 +400,7 @@ msgstr ""
 #: ../../WWK.rst:59
 msgid ""
 "As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying."
-msgstr ""
+msgstr "O ile ten stwór jest wyposażony, dostaje on +1/+1 i ma latanie."
 
 #: ../../WWK.rst:66
 msgid ""
@@ -449,7 +449,7 @@ msgstr ""
 
 #: ../../WWK.rst:77
 msgid "Loam Lion gets +1/+2 as long as you control a Forest."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+2 o ile władasz Lasem."
 
 #: ../../WWK.rst:82
 msgid ""
@@ -483,6 +483,9 @@ msgid ""
 "cards from your graveyard to the battlefield, where X is the number of times "
 "Marshal's Anthem was kicked."
 msgstr ""
+"Kiedy ten urok wejdzie na pole bitwy, przywróć co najwyżej X wskazanych kart "
+"stworów z twojego cmentarza na pole bitwy, gdzie X jest liczbą podbić tego "
+"uroku."
 
 #: ../../WWK.rst:96
 msgid ""
@@ -499,6 +502,8 @@ msgstr "Obronność"
 msgid ""
 "Whenever a creature you control with defender blocks, you may gain 2 life."
 msgstr ""
+"Ilekroć zablokuje stwór pod twoim władaniem mający obronność, możesz zyskać "
+"2 życia."
 
 #: ../../WWK.rst:102
 msgid ""
@@ -512,6 +517,8 @@ msgid ""
 "If an opponent cast a red instant or sorcery spell this turn, you may pay |"
 "mana_w| rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli przeciwnik rzucił w tej turze czerwony czar sztuczki lub obrzędu, "
+"możesz zapłacić |mana_w| zamiast płacić koszt many tego czaru."
 
 #: ../../WWK.rst:101
 msgid ""
@@ -519,6 +526,10 @@ msgid ""
 "or permanents you control this turn. If damage is prevented this way, "
 "Refraction Trap deals that much damage to any target."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, jakie w tej turze miałoby zadać tobie i/lub "
+"permanentom pod twoim władaniem wybrane przez ciebie źródło. Jeśli obrażenia "
+"zostaną zażegnane w ten sposób, ten czar zadaje wskazanemu celowi tyle samo "
+"obrażeń."
 
 #: ../../WWK.rst:108
 msgid ""
@@ -536,6 +547,8 @@ msgid ""
 "Landfall — If you had a land enter the battlefield under your control this "
 "turn, that player gains 8 life instead."
 msgstr ""
+"Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
+"ów gracz zamiast tego zyskuje 8 żyć."
 
 #: ../../WWK.rst:112
 msgid ""
@@ -549,6 +562,8 @@ msgid ""
 "|mana_w|, |tap|: Exile target land you control, then return it to the "
 "battlefield under your control."
 msgstr ""
+"|mana_w|, |tap|: Wygnaj wskazany ląd pod twoim władaniem, po czym przywróć "
+"go na pole bitwy pod twoim władaniem."
 
 #: ../../WWK.rst:118
 msgid ""
@@ -596,7 +611,7 @@ msgstr ""
 
 #: ../../WWK.rst:125
 msgid "All lands have indestructible."
-msgstr ""
+msgstr "Wszystkie lądy mają niezniszczalność."
 
 #: ../../WWK.rst:130
 msgid ""
@@ -640,6 +655,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may switch Calcite Snapper's power and toughness until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz do "
+"końca tury zamienić siłę z wytrzymałością tego stwora."
 
 #: ../../WWK.rst:144
 msgid ""
@@ -678,6 +695,8 @@ msgid ""
 "Enclave Elite enters the battlefield with a +1/+1 counter on it for each "
 "time it was kicked."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../WWK.rst:156
 msgid ""
@@ -709,7 +728,7 @@ msgstr ""
 
 #: ../../WWK.rst:163
 msgid "Flying, protection from lands"
-msgstr ""
+msgstr "Latanie, ochrona przed lądami"
 
 #: ../../WWK.rst:174
 msgid ""
@@ -775,6 +794,8 @@ msgid ""
 "Landfall — If you had a land enter the battlefield under your control this "
 "turn, draw three cards instead."
 msgstr ""
+"Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
+"zamiast tego dobierz trzy karty."
 
 #: ../../WWK.rst:190
 msgid ""
@@ -789,6 +810,8 @@ msgid ""
 "control this turn, you may pay |mana_u| rather than pay this spell's mana "
 "cost."
 msgstr ""
+"Jeśli w tej turze na pole bitwy pod władaniem przeciwnika wszedł zielony "
+"stwór, możesz zapłacić |mana_u| zamiast płacić koszt many tego czaru."
 
 #: ../../WWK.rst:189
 msgid ""
