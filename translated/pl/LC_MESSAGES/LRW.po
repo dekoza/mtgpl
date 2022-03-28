@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 09:53+0000\n"
+"PO-Revision-Date: 2022-03-28 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -2350,6 +2350,8 @@ msgid ""
 "Up to X target creatures gain fear until end of turn. (They can't be blocked "
 "except by artifact creatures and/or black creatures.)"
 msgstr ""
+"Co najwyżej X wskazanych stworów zyskuje do końca tury postrach. (Nie mogą "
+"być blokowane, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../LRW.rst:784
 msgid ""
@@ -2594,6 +2596,8 @@ msgid ""
 "Up to two target creatures each get +2/+0 and gain all creature types until "
 "end of turn."
 msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+0 "
+"oraz wszystkie typy stwora."
 
 #: ../../LRW.rst:868
 msgid ""
@@ -2969,7 +2973,7 @@ msgstr ""
 
 #: ../../LRW.rst:999
 msgid "Other Elemental creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory typu Żywiołak pod twoim władaniem dostają +1/+1."
 
 #: ../../LRW.rst:1001
 msgid ""
@@ -2977,6 +2981,9 @@ msgid ""
 "hand onto the battlefield. That creature gains haste until end of turn. "
 "Sacrifice it at the beginning of the next end step."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Możesz umieścić kartę stwora typu Żywiołak z "
+"twojej ręki na polu bitwy. Ów stwór do końca tury zyskuje pośpiech. Poświęć "
+"go na początku najbliższego kroku końcowego."
 
 #: ../../LRW.rst:1014
 msgid ""
@@ -3047,6 +3054,9 @@ msgid ""
 "this is the third time this ability has resolved this turn, creatures you "
 "control gain first strike until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|: Stwory pod twoim władaniem dostają do końca tury +1/+0. "
+"Jeśli jest to trzecie rozpatrzenie tej zdolności w tej turze, stwory pod "
+"twoim władaniem do końca tury zyskują pierwszy cios."
 
 #: ../../LRW.rst:1034
 msgid ""
@@ -3140,6 +3150,8 @@ msgid ""
 "|tap|: Add two mana in any combination of colors. Spend this mana only to "
 "cast Elemental spells or activate abilities of Elementals."
 msgstr ""
+"|tap|: Weź dwie many w dowolnej kombinacji kolorów. Wydaj tę manę tylko na "
+"rzucanie czarów Żywiołaków lub aktywację zdolności Żywiołaków."
 
 #: ../../LRW.rst:1066
 msgid ""
@@ -3154,6 +3166,9 @@ msgid ""
 "third time this ability has resolved this turn, you may add |mana_r|\\ |"
 "mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
+"|mana_2|: Wskazany stwór do końca tury zyskuje tratowanie. Jeśli jest to "
+"trzecie rozpatrzenie tej zdolności w tej turze, możesz wziąć |mana_r|\\ "
+"|mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|."
 
 #: ../../LRW.rst:1070
 msgid ""
