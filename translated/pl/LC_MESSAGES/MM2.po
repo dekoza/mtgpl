@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 10:38+0000\n"
+"PO-Revision-Date: 2022-03-28 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm2/pl/>\n"
 "Language: pl\n"
@@ -2709,6 +2709,8 @@ msgid ""
 "Domain — Matca Rioters's power and toughness are each equal to the number of "
 "basic land types among lands you control."
 msgstr ""
+"Domena — Siła i wytrzymałość tej karty są obie równe liczbie bazowych typów "
+"lądów pośród lądów pod twoim władaniem."
 
 #: ../../MM2.rst:836
 msgid ""
@@ -2851,6 +2853,8 @@ msgid ""
 "Tap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end "
 "of turn."
 msgstr ""
+"Przekręć dwa odkręcone stwory pod twoim władaniem: Niniejszy stwór dostaje "
+"do końca tury +2/+2."
 
 #: ../../MM2.rst:890
 msgid ""
@@ -2890,6 +2894,8 @@ msgid ""
 "At the beginning of your upkeep, if you control five or more lands, put four "
 "+1/+1 counters on Scute Mob."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej pięcioma "
+"lądami, umieść cztery znaczniki +1/+1 na tym stworze."
 
 #: ../../MM2.rst:902
 msgid ""
@@ -2904,6 +2910,9 @@ msgid ""
 "Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 1 (Ten stwór wchodzi na pole bitwy mając znacznik +1/+1. Ilekroć "
+"inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora znacznik +"
+"1/+1 z niniejszego.)"
 
 #: ../../MM2.rst:908
 msgid ""
@@ -2961,7 +2970,7 @@ msgstr ""
 
 #: ../../MM2.rst:921
 msgid "Put a +1/+1 counter on each of X target creatures."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na każdym z X wskazanych stworów."
 
 #: ../../MM2.rst:926
 msgid ""
@@ -2973,7 +2982,7 @@ msgstr ""
 #: ../../MM2.rst:925
 msgid ""
 "When Tukatongue Thallid dies, create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../MM2.rst:932
 msgid ""
@@ -2995,6 +3004,9 @@ msgid ""
 "control this turn. If this spell was kicked, that creature gets +4/+4 until "
 "end of turn."
 msgstr ""
+"Wskazany stwór nie może być w tej turze wskazywany przez czary lub zdolności "
+"pod władaniem twoich przeciwników. Jeśli ten czar został podbity, ów stwór "
+"dostaje do końca tury +4/+4."
 
 #: ../../MM2.rst:938
 msgid ""
@@ -3008,12 +3020,16 @@ msgid ""
 "Multikicker |mana_g| (You may pay an additional |mana_g| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_g|.)"
 
 #: ../../MM2.rst:937
 msgid ""
 "When Wolfbriar Elemental enters the battlefield, create a 2/2 green Wolf "
 "creature token for each time it was kicked."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Wilk 2/2, ile razy został on podbity."
 
 #: ../../MM2.rst:944
 msgid ""
@@ -3043,12 +3059,16 @@ msgid ""
 "5 or more, it enters the battlefield with an additional X +1/+1 counters on "
 "it."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników +1/+1. Jeśli X wynosi 5 lub "
+"więcej, wchodzi on na pole bitwy z dodatkowymi X znacznikami +1/+1."
 
 #: ../../MM2.rst:949
 msgid ""
 "|mana_1|\\ |mana_r|, Remove a +1/+1 counter from Apocalypse Hydra: It deals "
 "1 damage to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|, usuń znacznik +1/+1 z tego bytu: Zadaje on wskazanemu "
+"celowi 1 obrażenie."
 
 #: ../../MM2.rst:954
 msgid ""
@@ -3070,6 +3090,8 @@ msgid ""
 "+2/+2 until end of turn. Another target creature gets -2/-2 until end of "
 "turn."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć stwora: Wskazany stwór dostaje do "
+"końca tury +2/+2. Inny wskazany stwór dostaje do końca tury -2/-2."
 
 #: ../../MM2.rst:964
 msgid ""
@@ -3152,6 +3174,8 @@ msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: You may play target "
 "Elemental card from your graveyard without paying its mana cost."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Możesz zagrać wskazaną "
+"kartę Żywiołaka z twojego cmentarza bez płacenia jej kosztów many."
 
 #: ../../MM2.rst:990
 msgid ""
@@ -3173,7 +3197,7 @@ msgstr ""
 
 #: ../../MM2.rst:995
 msgid "When Mystic Snake enters the battlefield, counter target spell."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, skontruj wskazany czar."
 
 #: ../../MM2.rst:1000
 msgid ""
@@ -3187,6 +3211,8 @@ msgid ""
 "|mana_2|: Exile target creature card from a graveyard. Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"|mana_2|: Wygnaj wskazaną kartę stwora z cmentarza. Stwórz żeton zielonego "
+"stwora Sadzonka 1/1."
 
 #: ../../MM2.rst:1008
 msgid ""
@@ -3270,7 +3296,7 @@ msgstr ""
 msgid ""
 "Whenever Shadowmage Infiltrator deals combat damage to a player, you may "
 "draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../MM2.rst:1036
 msgid ""
@@ -3284,6 +3310,8 @@ msgid ""
 "Until end of turn, target creature you control gets +3/+3 and other "
 "creatures you control get +1/+1."
 msgstr ""
+"Do końca try wskazany stwór pod twoim władaniem dostaje +3/3+, a inne stwory "
+"pod twoim władaniem dostają +1/+1."
 
 #: ../../MM2.rst:1042
 msgid ""
@@ -3326,7 +3354,7 @@ msgstr ""
 
 #: ../../MM2.rst:1049
 msgid "Ashenmoor Gouger can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../MM2.rst:1058
 msgid ""
@@ -3348,6 +3376,8 @@ msgid ""
 "At the beginning of your upkeep, you may create a 1/1 black and green Worm "
 "creature token."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz stworzyć żeton czarno-zielonego "
+"stwora Robal 1/1."
 
 #: ../../MM2.rst:1066
 msgid ""
@@ -3400,7 +3430,7 @@ msgstr ""
 
 #: ../../MM2.rst:1079
 msgid "Attacking creatures you control get +2/+0."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem dostają +2/+0."
 
 #: ../../MM2.rst:1086
 msgid ""
@@ -3414,6 +3444,7 @@ msgid ""
 "|mana_wb|\\ |mana_wb|\\ |mana_wb|: Restless Apparition gets +3/+3 until end "
 "of turn."
 msgstr ""
+"|mana_wb|\\ |mana_wb|\\ |mana_wb|: Ten stwór dostaje do końca tury +3/+3."
 
 #: ../../MM2.rst:1092
 msgid ""
@@ -3440,21 +3471,21 @@ msgstr ""
 
 #: ../../MM2.rst:1095
 msgid "Shrewd Hatchling enters the battlefield with four -1/-1 counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając cztery znaczniki -1/-1."
 
 #: ../../MM2.rst:1097
 msgid "|mana_ur|: Target creature can't block Shrewd Hatchling this turn."
-msgstr ""
+msgstr "|mana_ur|: Wskazany stwór nie może w tej turze blokować niniejszego."
 
 #: ../../MM2.rst:1099
 msgid ""
 "Whenever you cast a blue spell, remove a -1/-1 counter from Shrewd Hatchling."
-msgstr ""
+msgstr "Ilekroć rzucisz niebieski czar, usuń znacznik -1/-1 z tego stwora."
 
 #: ../../MM2.rst:1101
 msgid ""
 "Whenever you cast a red spell, remove a -1/-1 counter from Shrewd Hatchling."
-msgstr ""
+msgstr "Ilekroć rzucisz czerwony czar, usuń znacznik -1/-1 z tego stwora."
 
 #: ../../MM2.rst:1108
 msgid ""
@@ -3468,6 +3499,8 @@ msgid ""
 "If a source would deal damage to Swans of Bryn Argoll, prevent that damage. "
 "The source's controller draws cards equal to the damage prevented this way."
 msgstr ""
+"Jeśli źródło miałoby zadać obrażenia temu stworowi, zażegnaj owe obrażenia. "
+"Władca owego źródła dobiera tyle kart, ile obrażeń zażegnano w ten sposób."
 
 #: ../../MM2.rst:1116
 msgid ""
@@ -3485,6 +3518,9 @@ msgid ""
 "If a spell or ability an opponent controls causes you to discard Wilt-Leaf "
 "Liege, put it onto the battlefield instead of putting it into your graveyard."
 msgstr ""
+"Jeśli czar lub zdolność pod władaniem przeciwnika powoduje odrzucenie przez "
+"ciebie tej karty, umieść ją na polu bitwy zamiast umieszczać ją w twoim "
+"cmentarzu."
 
 #: ../../MM2.rst:1120
 msgid ""
@@ -3672,12 +3708,16 @@ msgid ""
 "Sunburst (This enters the battlefield with a +1/+1 counter on it for each "
 "color of mana spent to cast it.)"
 msgstr ""
+"Rozbłysk słońca (Ten byt wchodzi na pole bitwy mając tyle znaczników "
+"ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../MM2.rst:1177
 msgid ""
 "|mana_1|, Remove four +1/+1 counters from Etched Oracle: Target player draws "
 "three cards."
 msgstr ""
+"|mana_1|, usuń cztery znaczniki +1/+1 z tego bytu: Wskazany gracz dobiera "
+"trzy karty."
 
 #: ../../MM2.rst:1186
 msgid ""
@@ -3806,7 +3846,7 @@ msgstr ""
 
 #: ../../MM2.rst:1221
 msgid "Nonartifact spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie nieartefaktowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../MM2.rst:1228
 msgid ""
@@ -3820,6 +3860,8 @@ msgid ""
 "Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of "
 "turn."
 msgstr ""
+"Przekręć odkręcony artefakt pod twoim władaniem: Ten stwór dostaje do końca "
+"tury +1/+1."
 
 #: ../../MM2.rst:1234
 msgid ""
@@ -3830,11 +3872,11 @@ msgstr ""
 
 #: ../../MM2.rst:1231
 msgid "Arcane spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Arkanów kosztuje cię o |mana_1| mniej."
 
 #: ../../MM2.rst:1233
 msgid "Spirit creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory typu Duch pod twoim władaniem dostają +1/+1."
 
 #: ../../MM2.rst:1242
 msgid ""
@@ -4182,7 +4224,7 @@ msgstr ""
 
 #: ../../MM2.rst:1357
 msgid "Colorless Eldrazi spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie bezkolorowych czarów Eldrazi kosztuje cię o |mana_2| mniej."
 
 #: ../../MM2.rst:1359
 msgid ""

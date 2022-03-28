@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-03-28 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -2359,6 +2359,8 @@ msgid ""
 "If a source would deal damage to Swans of Bryn Argoll, prevent that damage. "
 "The source's controller draws cards equal to the damage prevented this way."
 msgstr ""
+"Jeśli źródło miałoby zadać obrażenia temu stworowi, zażegnaj owe obrażenia. "
+"Władca owego źródła dobiera tyle kart, ile obrażeń zażegnano w ten sposób."
 
 #: ../../SHM.rst:794
 msgid ""
@@ -2739,7 +2741,7 @@ msgstr ""
 
 #: ../../SHM.rst:937
 msgid "Ashenmoor Gouger can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../SHM.rst:946
 msgid ""
@@ -3622,6 +3624,9 @@ msgid ""
 "If a spell or ability an opponent controls causes you to discard Wilt-Leaf "
 "Liege, put it onto the battlefield instead of putting it into your graveyard."
 msgstr ""
+"Jeśli czar lub zdolność pod władaniem przeciwnika powoduje odrzucenie przez "
+"ciebie tej karty, umieść ją na polu bitwy zamiast umieszczać ją w twoim "
+"cmentarzu."
 
 #: ../../SHM.rst:1282
 msgid ""

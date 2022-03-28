@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 10:38+0000\n"
+"PO-Revision-Date: 2022-03-28 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -2079,12 +2079,16 @@ msgid ""
 "Multikicker |mana_g| (You may pay an additional |mana_g| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_g|.)"
 
 #: ../../WWK.rst:635
 msgid ""
 "When Wolfbriar Elemental enters the battlefield, create a 2/2 green Wolf "
 "creature token for each time it was kicked."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Wilk 2/2, ile razy został on podbity."
 
 #: ../../WWK.rst:640
 msgid ""
@@ -2227,7 +2231,7 @@ msgstr ""
 
 #: ../../WWK.rst:685
 msgid "Nonartifact spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie nieartefaktowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../WWK.rst:692
 msgid ""
@@ -2377,7 +2381,7 @@ msgstr ""
 
 #: ../../WWK.rst:739
 msgid "Colorless Eldrazi spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie bezkolorowych czarów Eldrazi kosztuje cię o |mana_2| mniej."
 
 #: ../../WWK.rst:741
 msgid ""

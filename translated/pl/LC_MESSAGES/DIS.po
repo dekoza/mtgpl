@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 10:38+0000\n"
+"PO-Revision-Date: 2022-03-28 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -1737,6 +1737,9 @@ msgid ""
 "Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 1 (Ten stwór wchodzi na pole bitwy mając znacznik +1/+1. Ilekroć "
+"inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora znacznik +"
+"1/+1 z niniejszego.)"
 
 #: ../../DIS.rst:524
 msgid ""
@@ -1807,7 +1810,7 @@ msgstr ""
 
 #: ../../DIS.rst:549
 msgid "Put a +1/+1 counter on each of X target creatures."
-msgstr ""
+msgstr "Umieść znacznik +1/+1 na każdym z X wskazanych stworów."
 
 #: ../../DIS.rst:558
 msgid ""
