@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-03-28 14:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sok/pl/>\n"
 "Language: pl\n"
@@ -601,6 +601,8 @@ msgid ""
 "When a creature you control dies, sacrifice Promise of Bunrei. If you do, "
 "create four 1/1 colorless Spirit creature tokens."
 msgstr ""
+"Kiedy umrze stwór pod twoim władaniem, poświęć ten byt. Jeśli tak zrobisz, "
+"stwórz cztery żetony bezkolorowego stwora Duch 1/1."
 
 #: ../../SOK.rst:140
 msgid ""
@@ -841,11 +843,11 @@ msgstr ""
 
 #: ../../SOK.rst:217
 msgid "|mana_u|: Tap enchanted creature."
-msgstr ""
+msgstr "|mana_u|: Przekręć zauroczonego stwora."
 
 #: ../../SOK.rst:219
 msgid "|mana_u|: Untap enchanted creature."
-msgstr ""
+msgstr "|mana_u|: Odkręć zauroczonego stwora."
 
 #: ../../SOK.rst:226
 msgid ""

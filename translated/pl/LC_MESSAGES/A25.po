@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 11:28+0000\n"
+"PO-Revision-Date: 2022-03-28 14:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -366,6 +366,8 @@ msgid ""
 "Whenever you're dealt damage, you may create that many 1/1 white Soldier "
 "creature tokens."
 msgstr ""
+"Ilekroć otrzymasz obrażenia, możesz stworzyć tyle samo żetonów białego "
+"stwora Piechur 1/1."
 
 #: ../../A25.rst:50
 msgid ""
@@ -516,6 +518,8 @@ msgid ""
 "When Karona's Zealot is turned face up, all damage that would be dealt to it "
 "this turn is dealt to target creature instead."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, wszystkie obrażenia, jakie mogłyby mu zostać "
+"zadane w tej turze są zamiast tego zadane wskazanemu stworowi."
 
 #: ../../A25.rst:98
 msgid ""
@@ -586,12 +590,17 @@ msgid ""
 "turn, you may put a quest counter on Luminarch Ascension. (Damage causes "
 "loss of life.)"
 msgstr ""
+"Na początku kroku końcowego każdego przeciwnika, jeśli nie straciłeś żyć w "
+"tej turze, możesz umieścić znacznik wyprawy na tym bycie. (Obrażenia "
+"powodują utratę żyć.)"
 
 #: ../../A25.rst:117
 msgid ""
 "|mana_1|\\ |mana_w|: Create a 4/4 white Angel creature token with flying. "
 "Activate only if Luminarch Ascension has four or more quest counters on it."
 msgstr ""
+"|mana_1|\\ |mana_w|: Stwórz żeton białego stwora Anioł 4/4 z lataniem. "
+"Aktywuj tylko jeśli ten byt ma co najmniej cztery żetony wyprawy."
 
 #: ../../A25.rst:124
 msgid ""
@@ -698,6 +707,8 @@ msgid ""
 "When a creature you control dies, sacrifice Promise of Bunrei. If you do, "
 "create four 1/1 colorless Spirit creature tokens."
 msgstr ""
+"Kiedy umrze stwór pod twoim władaniem, poświęć ten byt. Jeśli tak zrobisz, "
+"stwórz cztery żetony bezkolorowego stwora Duch 1/1."
 
 #: ../../A25.rst:164
 msgid ""
@@ -730,14 +741,8 @@ msgid ""
 msgstr ""
 
 #: ../../A25.rst:167
-#, fuzzy
-#| msgid ""
-#| "When Rest in Peace enters the battlefield, exile all cards from all "
-#| "graveyards."
 msgid "When Rest in Peace enters the battlefield, exile all graveyards."
-msgstr ""
-"Kiedy ten permanent wejdzie na pole bitwy, wygnaj wszystkie karty ze "
-"wszystkich cmentarzy."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie cmentarze."
 
 #: ../../A25.rst:169
 msgid ""
@@ -859,6 +864,8 @@ msgid ""
 "Draw a card, then draw cards equal to the number of cards named Accumulated "
 "Knowledge in all graveyards."
 msgstr ""
+"Dobierz kartę, po czym dobierz tyle kart, ile kart o niniejszej nazwie jest "
+"we wszystkich cmentarzach."
 
 #: ../../A25.rst:214
 msgid ""
@@ -915,11 +922,11 @@ msgstr "Wybierz jedną —"
 
 #: ../../A25.rst:225
 msgid "Counter target red spell."
-msgstr ""
+msgstr "Skontruj wskazany czerwony czar."
 
 #: ../../A25.rst:227
 msgid "Destroy target red permanent."
-msgstr ""
+msgstr "Zniszcz wskazany czerwony byt."
 
 #: ../../A25.rst:232
 msgid ""
@@ -1083,6 +1090,8 @@ msgid ""
 "Sacrifice Cursecatcher: Counter target instant or sorcery spell unless its "
 "controller pays |mana_1|."
 msgstr ""
+"Poświęć ten byt: Skontruj wskazany czar sztuczki lub obrzędu, chyba że jego "
+"władca zapłaci |mana_1|."
 
 #: ../../A25.rst:286
 msgid ""
@@ -1167,11 +1176,11 @@ msgstr ""
 
 #: ../../A25.rst:307
 msgid "|mana_u|: Tap enchanted creature."
-msgstr ""
+msgstr "|mana_u|: Przekręć zauroczonego stwora."
 
 #: ../../A25.rst:309
 msgid "|mana_u|: Untap enchanted creature."
-msgstr ""
+msgstr "|mana_u|: Odkręć zauroczonego stwora."
 
 #: ../../A25.rst:318
 msgid ""
@@ -1182,19 +1191,23 @@ msgstr ""
 
 #: ../../A25.rst:313
 msgid "Enchant Island"
-msgstr ""
+msgstr "Zaurocz Wyspę"
 
 #: ../../A25.rst:315
 msgid ""
 "|mana_2|: Enchanted Island becomes a 3/2 blue Spirit creature with flying "
 "until end of turn. It's still a land."
 msgstr ""
+"|mana_2|: Zauroczona Wyspa do końca tury staje się niebieskim stworem Duch 3/"
+"2 z lataniem. Nadal jest lądem."
 
 #: ../../A25.rst:317
 msgid ""
 "When enchanted Island is put into a graveyard, you may return Genju of the "
 "Falls from your graveyard to your hand."
 msgstr ""
+"Kiedy zauroczony ląd trafi do cmentarza, możesz przywrócić niniejszą kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:324
 msgid ""
@@ -1205,7 +1218,7 @@ msgstr ""
 
 #: ../../A25.rst:323
 msgid "|mana_u|\\ |mana_u|\\ |mana_u|: Regenerate Ghost Ship."
-msgstr ""
+msgstr "|mana_u|\\ |mana_u|\\ |mana_u|: Zregeneruj ten byt."
 
 #: ../../A25.rst:328
 msgid ""
@@ -1373,6 +1386,9 @@ msgid ""
 "creature dies, create a 6/6 blue Whale creature token with 'When this "
 "creature dies, create a 9/9 blue Kraken creature token.'\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton niebieskiego stwora Ryba 3/3 z \"Kiedy "
+"ten stwór umrze, stwórz żeton niebieskiego stwora Wieloryb 6/6 z 'Kiedy ten "
+"stwór umrze, stwórz żeton niebieskiego stwora Kraken 9/9.'\""
 
 #: ../../A25.rst:380
 msgid ""
@@ -1498,6 +1514,8 @@ msgid ""
 "When Willbender is turned face up, change the target of target spell or "
 "ability with a single target."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, zmień wskazanie wskazanego czaru lub "
+"zdolności na wskazany pojedynczy cel."
 
 #: ../../A25.rst:424
 msgid ""
@@ -1563,12 +1581,16 @@ msgid ""
 "|mana_2|: Put a plot counter on Deadly Designs. Any player may activate this "
 "ability."
 msgstr ""
+"|mana_2|: Umieść znacznik spisku na tym bycie. Dowolny gracz może aktywować "
+"tę zdolność."
 
 #: ../../A25.rst:445
 msgid ""
 "When there are five or more plot counters on Deadly Designs, sacrifice it. "
 "If you do, destroy up to two target creatures."
 msgstr ""
+"Kiedy na tym bycie jest co najmniej pięć znaczników spisku, poświęć go. "
+"Jeśli tak zrobisz, zniszcz co najwyżej dwa wskazane stwory."
 
 #: ../../A25.rst:452
 msgid ""
@@ -1580,7 +1602,7 @@ msgstr ""
 #: ../../A25.rst:451
 msgid ""
 "When Death's-Head Buzzard dies, all creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wszystkie stwory dostają do końca tury -1/-1."
 
 #: ../../A25.rst:456
 msgid ""
@@ -1605,6 +1627,8 @@ msgid ""
 "All creatures gain fear until end of turn. (They can't be blocked except by "
 "artifact creatures and/or black creatures.)"
 msgstr ""
+"Wszystkie stwory zyskują do końca tury postrach. (Nie mogą być blokowane, "
+"chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../A25.rst:461 ../../A25.rst:601
 msgid ""
@@ -1619,6 +1643,8 @@ msgid ""
 "When you cycle Dirge of Dread, you may have target creature gain fear until "
 "end of turn."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz sprawić, że wskazany stwór zyska do końca "
+"tury postrach."
 
 #: ../../A25.rst:468
 msgid ""
@@ -1674,6 +1700,9 @@ msgid ""
 "Erg Raiders deals 2 damage to you unless it came under your control this "
 "turn."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli ten stwór nie zaatakował w tej "
+"turze, zadaje on tobie 2 obrażenia, chyba że wszedł pod twoje władanie w tej "
+"turze."
 
 #: ../../A25.rst:486
 msgid ""
@@ -1742,16 +1771,16 @@ msgstr ""
 #: ../../A25.rst:503
 msgid ""
 "When Laquatus's Champion enters the battlefield, target player loses 6 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz traci 6 żyć."
 
 #: ../../A25.rst:505
 msgid ""
 "When Laquatus's Champion leaves the battlefield, that player gains 6 life."
-msgstr ""
+msgstr "Kiedy ten byt opuści pole bitwy, ów gracz zyskuje 6 żyć."
 
 #: ../../A25.rst:507
 msgid "|mana_b|: Regenerate Laquatus's Champion."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj ten byt."
 
 #: ../../A25.rst:512
 msgid ""
@@ -1782,12 +1811,15 @@ msgid ""
 "When Mesmeric Fiend enters the battlefield, target opponent reveals their "
 "hand and you choose a nonland card from it. Exile that card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją rękę, "
+"a ty wybierz z niej nielądową kartę. Wygnaj ową kartę."
 
 #: ../../A25.rst:517
 msgid ""
 "When Mesmeric Fiend leaves the battlefield, return the exiled card to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten byt opuści pole bitwy, przywróć wygnaną kartę do ręki właściciela."
 
 #: ../../A25.rst:522
 msgid ""
@@ -1828,7 +1860,7 @@ msgstr ""
 
 #: ../../A25.rst:531
 msgid "Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../A25.rst:538
 msgid ""
@@ -2243,6 +2275,8 @@ msgid ""
 "Any player may have Browbeat deal 5 damage to them. If no one does, target "
 "player draws three cards."
 msgstr ""
+"Dowolny gracz może zdecydować, że ten czar zada my 5 obrażeń. Jeśli nikt się "
+"nie zdecyduje, wskazany gracz dobiera trzy karty."
 
 #: ../../A25.rst:664
 msgid ""
@@ -2268,7 +2302,7 @@ msgstr ""
 
 #: ../../A25.rst:667
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../A25.rst:669
 msgid ""
@@ -2351,12 +2385,16 @@ msgid ""
 "Damage that would reduce your life total to less than 1 reduces it to 1 "
 "instead."
 msgstr ""
+"Obrażenia, które miałyby zredukować twoje życia poniżej 1, zamiast tego "
+"redukują je do 1."
 
 #: ../../A25.rst:691
 msgid ""
 "Morph |mana_r|\\ |mana_r| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_r|\\ |mana_r| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:696
 msgid ""
@@ -2389,12 +2427,16 @@ msgid ""
 "|mana_2|: Enchanted Mountain becomes a 6/1 red Spirit creature until end of "
 "turn. It's still a land."
 msgstr ""
+"|mana_2|: Zauroczona Góra staje się do końca tury czerwonym stworem Duch 6/"
+"1. Nadal jest lądem."
 
 #: ../../A25.rst:703
 msgid ""
 "When enchanted Mountain is put into a graveyard, you may return Genju of the "
 "Spires from your graveyard to your hand."
 msgstr ""
+"Kiedy zauroczona góra zostanie umieszczona w cmentarzu, możesz przywrócić "
+"niniejszą kartę z twojego cmentarza do twojej ręki."
 
 #: ../../A25.rst:708
 msgid ""
@@ -2501,12 +2543,16 @@ msgstr "Pośpiech"
 msgid ""
 "|mana_r|, |tap|: Exile target instant or sorcery card from your graveyard."
 msgstr ""
+"|mana_r|, |tap|: Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego "
+"cmentarza."
 
 #: ../../A25.rst:735
 msgid ""
 "|mana_1|\\ |mana_r|, |tap|, Sacrifice Izzet Chemister: Cast any number of "
 "cards exiled with Izzet Chemister without paying their mana costs."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, poświęć ten byt: Rzuć dowolną liczbę kart "
+"wygnanych tym bytem bez płacenia ich kosztów many."
 
 #: ../../A25.rst:740
 msgid ""
@@ -2517,7 +2563,7 @@ msgstr ""
 
 #: ../../A25.rst:739
 msgid "Whenever Jackal Pup is dealt damage, it deals that much damage to you."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzyma obrażenia, zadaje tobie tyle samo obrażeń."
 
 #: ../../A25.rst:744
 msgid ""
@@ -2531,6 +2577,8 @@ msgid ""
 "Kindle deals X damage to any target, where X is 2 plus the number of cards "
 "named Kindle in all graveyards."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń, gdzie X wynosi 2 plus liczba "
+"kart o niniejszej nazwie we wszystkich cmentarzach."
 
 #: ../../A25.rst:748
 msgid ""
@@ -2555,6 +2603,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|, Sacrifice Magus of the Wheel: Each player "
 "discards their hand, then draws seven cards."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, poświęć ten byt: Każdy gracz odrzuca swoją rękę, "
+"po czym dobiera siedem kart."
 
 #: ../../A25.rst:756
 msgid ""
@@ -2617,7 +2667,7 @@ msgstr "Skontruj wskazany niebieski czar."
 
 #: ../../A25.rst:777
 msgid "Destroy target blue permanent."
-msgstr ""
+msgstr "Zniszcz wskazany niebieski byt."
 
 #: ../../A25.rst:782
 msgid ""
@@ -2643,6 +2693,9 @@ msgid ""
 "this way dies this turn, create a 1/1 black Skeleton creature token with \"|"
 "mana_b|: Regenerate this creature.\""
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 3 obrażenia. Kiedy stwór uszkodzony w "
+"ten sposób umrze w tej turze, stwórz żeton czarnego stwora Szkielet 1/1 z \""
+"|mana_b|: Zregeneruj tego stwora.\""
 
 #: ../../A25.rst:792
 msgid ""
@@ -2656,6 +2709,8 @@ msgid ""
 "Whenever Skirk Commando deals combat damage to a player, you may have it "
 "deal 2 damage to target creature that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zdecydować, że zada "
+"on 2 obrażenia wskazanemu stworowi pod władaniem owego gracza."
 
 #: ../../A25.rst:791
 msgid ""
@@ -2694,6 +2749,8 @@ msgid ""
 "|mana_r|, |tap|: Spikeshot Goblin deals damage equal to its power to any "
 "target."
 msgstr ""
+"|mana_r|, |tap|: Ten stwór zadaje wskazanemu celowi obrażenia równe swojej "
+"sile."
 
 #: ../../A25.rst:804
 msgid ""
@@ -2841,12 +2898,16 @@ msgid ""
 "Whenever Broodhatch Nantuko is dealt damage, you may create that many 1/1 "
 "green Insect creature tokens."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, możesz stworzyć tyle samo żetonów "
+"zielonego stwora Owad 1/1."
 
 #: ../../A25.rst:843
 msgid ""
 "Morph |mana_2|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:848
 msgid ""
@@ -2902,6 +2963,8 @@ msgid ""
 "Target creature and all other creatures with the same name as that creature "
 "get +2/+2 until end of turn."
 msgstr ""
+"Wskazany stwór i wszystkie stwory o tej samej nazwie co on dostają do końca "
+"tury +2/+2."
 
 #: ../../A25.rst:870
 msgid ""
@@ -2952,6 +3015,7 @@ msgid ""
 "As long as you control a red permanent, Ember Weaver gets +1/+0 and has "
 "first strike."
 msgstr ""
+"O ile władasz czerwonym bytem, ten stwór dostaje +1/+0 i ma pierwszy cios."
 
 #: ../../A25.rst:884
 msgid ""
@@ -3030,6 +3094,8 @@ msgid ""
 "When Iwamori of the Open Fist enters the battlefield, each opponent may put "
 "a legendary creature card from their hand onto the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik może umieścić kartę "
+"legendarnego stwora ze swojej ręki na polu bitwy."
 
 #: ../../A25.rst:908
 msgid ""
@@ -3054,6 +3120,8 @@ msgid ""
 "Whenever an opponent gains life, put that many +1/+1 counters on Kavu "
 "Predator."
 msgstr ""
+"Ilekroć przeciwnik zyskuje życia, umieść tyle samo znaczników +1/+1 na tym "
+"stworze."
 
 #: ../../A25.rst:918
 msgid ""
@@ -3067,6 +3135,8 @@ msgid ""
 "Morph |mana_6|\\ |mana_g|\\ |mana_g| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_6|\\ |mana_g|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../A25.rst:924
 msgid ""
@@ -3105,6 +3175,8 @@ msgid ""
 "You may reveal a creature or land card you own from outside the game and put "
 "it into your hand. Exile Living Wish."
 msgstr ""
+"Możesz ujawnić własną kartę stwora lub lądu spoza gry i umieścić ją w twojej "
+"ręce. Wygnaj niniejszy czar."
 
 #: ../../A25.rst:934
 msgid ""
@@ -3152,11 +3224,11 @@ msgstr ""
 
 #: ../../A25.rst:943
 msgid "Nettle Sentinel doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się podczas twojego kroku odkręcania."
 
 #: ../../A25.rst:945
 msgid "Whenever you cast a green spell, you may untap Nettle Sentinel."
-msgstr ""
+msgstr "Ilekroć rzucisz zielony czar, możesz odkręcić tego stwora."
 
 #: ../../A25.rst:950
 msgid ""
@@ -3242,6 +3314,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, |tap|, Discard a card: Creatures you control get +1/+1 "
 "and gain trample until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_g|, |tap|, odrzuć kartę: Stwory pod twoim władaniem dostają "
+"do końca tury +1/+1 i tratowanie."
 
 #: ../../A25.rst:982
 msgid ""
@@ -3301,17 +3375,19 @@ msgstr ""
 
 #: ../../A25.rst:995
 msgid "Enchant Forest"
-msgstr ""
+msgstr "Zaurocz Las"
 
 #: ../../A25.rst:997
 msgid "As Utopia Sprawl enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz kolor."
 
 #: ../../A25.rst:999
 msgid ""
 "Whenever enchanted Forest is tapped for mana, its controller adds an "
 "additional one mana of the chosen color."
 msgstr ""
+"Ilekroć zauroczony Las jest przekręcany przy pobieraniu many, jego władca "
+"bierze dodatkową manę w wybranym kolorze."
 
 #: ../../A25.rst:1004
 msgid ""
@@ -3368,19 +3444,22 @@ msgstr ""
 
 #: ../../A25.rst:1015
 msgid "Protection from white and from black"
-msgstr ""
+msgstr "Ochrona przed białym i przed czarnym"
 
 #: ../../A25.rst:1017
 msgid ""
 "Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of "
 "Elements."
 msgstr ""
+"Ilekroć rzucisz czar stwora, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../A25.rst:1019
 msgid ""
 "Creature spells you cast cost |mana_1| less to cast for each +1/+1 counter "
 "on Animar."
 msgstr ""
+"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każdy znacznik +1/+"
+"1 na tym stworze."
 
 #: ../../A25.rst:1024
 msgid ""
@@ -3409,6 +3488,8 @@ msgid ""
 "Blightning deals 3 damage to target player or planeswalker. That player or "
 "that planeswalker's controller discards two cards."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia. Ów gracz lub "
+"władca owego wędrowca odrzuca dwie karty."
 
 #: ../../A25.rst:1038
 msgid ""
@@ -3445,6 +3526,8 @@ msgid ""
 "|mana_r|, |tap|, Sacrifice another creature: Brion Stoutarm deals damage "
 "equal to the sacrificed creature's power to target player or planeswalker."
 msgstr ""
+"|mana_r|, |tap|, poświęć innego stwora: Ten byt zadaje wskazanemu graczowi "
+"lub wędrowcowi obrażenia równe sile poświęconego stwora."
 
 #: ../../A25.rst:1050
 msgid ""
@@ -3590,12 +3673,15 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay |"
 "mana_u|\\ |mana_b|\\ |mana_r|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz "
+"|mana_u|\\ |mana_b|\\ |mana_r|."
 
 #: ../../A25.rst:1093
 msgid ""
 "Whenever Nicol Bolas deals damage to an opponent, that player discards their "
 "hand."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia, ów gracz odrzuca swoją rękę."
 
 #: ../../A25.rst:1102
 msgid ""
@@ -3643,6 +3729,8 @@ msgid ""
 "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and "
 "enchantment with mana value X or less."
 msgstr ""
+"|mana_x|, poświęć ten byt: Zniszcz każdy artefakt, stwora i urok o skrócie "
+"many X lub mniejszym."
 
 #: ../../A25.rst:1120
 msgid ""
@@ -3671,12 +3759,15 @@ msgid ""
 "When you cast this spell, create X 0/1 red Kobold creature tokens named "
 "Kobolds of Kher Keep, where X is the amount of mana spent to cast it."
 msgstr ""
+"Kiedy rzucisz ten czar, stwórz X żetonów czerwonego stwora Kobold 0/1 o "
+"nazwie Kobolds of Kher Keep, gdzie X jest liczbą many wydanej na rzucenie "
+"tego czaru."
 
 #: ../../A25.rst:1127
 msgid ""
 "Sacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end "
 "of turn."
-msgstr ""
+msgstr "Poświęć innego stwora: Niniejszy stwór dostaje do końca tury +1/+0."
 
 #: ../../A25.rst:1134
 msgid ""
@@ -3690,6 +3781,8 @@ msgid ""
 "Enchanted creature has \"|tap|: This creature deals 1 damage to target "
 "player or planeswalker. You draw a card.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Ten stwór zadaje wskazanemu graczowi lub "
+"wędrowcowi 1 obrażenie. Dobierz kartę.\""
 
 #: ../../A25.rst:1142
 msgid ""
@@ -3740,6 +3833,10 @@ msgid ""
 "and green Human Warrior creature token. Exile that token when Stangg leaves "
 "the battlefield. Sacrifice Stangg when that token leaves the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz legendarny żeton czerwono-"
+"zielonego stwora Człowiek Wojownik 3/4 o nazwie Stangg Twin. Wygnaj ów żeton "
+"kiedy niniejszy stwór opuści pole bitwy. Poświęć niniejszego stwora jeśli ów "
+"żeton opuści pole bitwy."
 
 #: ../../A25.rst:1156
 msgid ""
@@ -3931,6 +4028,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, you may "
 "attach Sai of the Shinobi to it."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, możesz dołączyć ten "
+"byt do niego."
 
 #: ../../A25.rst:1217
 msgid "Equip |mana_2|"
@@ -4163,7 +4262,7 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../A25.rst:1297
 msgid "|tap|: Target 1/1 creature gets +1/+2 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór 1/1 dostaje do końca tury +1/+2."
 
 #: ../../A25.rst:1304
 msgid ""

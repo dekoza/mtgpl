@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 10:53+0000\n"
+"PO-Revision-Date: 2022-03-28 14:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eve/pl/>\n"
 "Language: pl\n"
@@ -1240,11 +1240,11 @@ msgstr ""
 
 #: ../../EVE.rst:379
 msgid "Nettle Sentinel doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się podczas twojego kroku odkręcania."
 
 #: ../../EVE.rst:381
 msgid "Whenever you cast a green spell, you may untap Nettle Sentinel."
-msgstr ""
+msgstr "Ilekroć rzucisz zielony czar, możesz odkręcić tego stwora."
 
 #: ../../EVE.rst:386
 msgid ""
@@ -1590,7 +1590,7 @@ msgstr ""
 
 #: ../../EVE.rst:509
 msgid "Protection from white and from black"
-msgstr ""
+msgstr "Ochrona przed białym i przed czarnym"
 
 #: ../../EVE.rst:511
 msgid "|mana_wb|: Stillmoon Cavalier gains flying until end of turn."

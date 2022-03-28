@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 10:38+0000\n"
+"PO-Revision-Date: 2022-03-28 14:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bok/pl/>\n"
 "Language: pl\n"
@@ -832,19 +832,23 @@ msgstr ""
 
 #: ../../BOK.rst:205
 msgid "Enchant Island"
-msgstr ""
+msgstr "Zaurocz Wyspę"
 
 #: ../../BOK.rst:207
 msgid ""
 "|mana_2|: Enchanted Island becomes a 3/2 blue Spirit creature with flying "
 "until end of turn. It's still a land."
 msgstr ""
+"|mana_2|: Zauroczona Wyspa do końca tury staje się niebieskim stworem Duch 3/"
+"2 z lataniem. Nadal jest lądem."
 
 #: ../../BOK.rst:209
 msgid ""
 "When enchanted Island is put into a graveyard, you may return Genju of the "
 "Falls from your graveyard to your hand."
 msgstr ""
+"Kiedy zauroczony ląd trafi do cmentarza, możesz przywrócić niniejszą kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../BOK.rst:214
 msgid ""
@@ -2005,12 +2009,16 @@ msgid ""
 "|mana_2|: Enchanted Mountain becomes a 6/1 red Spirit creature until end of "
 "turn. It's still a land."
 msgstr ""
+"|mana_2|: Zauroczona Góra staje się do końca tury czerwonym stworem Duch 6/"
+"1. Nadal jest lądem."
 
 #: ../../BOK.rst:593
 msgid ""
 "When enchanted Mountain is put into a graveyard, you may return Genju of the "
 "Spires from your graveyard to your hand."
 msgstr ""
+"Kiedy zauroczona góra zostanie umieszczona w cmentarzu, możesz przywrócić "
+"niniejszą kartę z twojego cmentarza do twojej ręki."
 
 #: ../../BOK.rst:598
 msgid ""
@@ -2336,7 +2344,7 @@ msgstr ""
 
 #: ../../BOK.rst:699
 msgid "Enchant Forest"
-msgstr ""
+msgstr "Zaurocz Las"
 
 #: ../../BOK.rst:701
 msgid ""
@@ -2412,6 +2420,8 @@ msgid ""
 "When Iwamori of the Open Fist enters the battlefield, each opponent may put "
 "a legendary creature card from their hand onto the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik może umieścić kartę "
+"legendarnego stwora ze swojej ręki na polu bitwy."
 
 #: ../../BOK.rst:734
 msgid ""

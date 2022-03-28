@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 11:28+0000\n"
+"PO-Revision-Date: 2022-03-28 14:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -2079,7 +2079,7 @@ msgstr ""
 
 #: ../../CMD.rst:613
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../CMD.rst:615
 msgid ""
@@ -3144,19 +3144,22 @@ msgstr ""
 
 #: ../../CMD.rst:957
 msgid "Protection from white and from black"
-msgstr ""
+msgstr "Ochrona przed białym i przed czarnym"
 
 #: ../../CMD.rst:959
 msgid ""
 "Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of "
 "Elements."
 msgstr ""
+"Ilekroć rzucisz czar stwora, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../CMD.rst:961
 msgid ""
 "Creature spells you cast cost |mana_1| less to cast for each +1/+1 counter "
 "on Animar."
 msgstr ""
+"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każdy znacznik +1/+"
+"1 na tym stworze."
 
 #: ../../CMD.rst:966
 msgid ""
@@ -3256,6 +3259,8 @@ msgid ""
 "|mana_r|, |tap|, Sacrifice another creature: Brion Stoutarm deals damage "
 "equal to the sacrificed creature's power to target player or planeswalker."
 msgstr ""
+"|mana_r|, |tap|, poświęć innego stwora: Ten byt zadaje wskazanemu graczowi "
+"lub wędrowcowi obrażenia równe sile poświęconego stwora."
 
 #: ../../CMD.rst:1006
 msgid ""

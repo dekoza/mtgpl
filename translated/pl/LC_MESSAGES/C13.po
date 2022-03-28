@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 11:28+0000\n"
+"PO-Revision-Date: 2022-03-28 14:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1640,6 +1640,8 @@ msgid ""
 "All creatures gain fear until end of turn. (They can't be blocked except by "
 "artifact creatures and/or black creatures.)"
 msgstr ""
+"Wszystkie stwory zyskują do końca tury postrach. (Nie mogą być blokowane, "
+"chyba że przez stwory artefaktowe lub czarne.)"
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:433
@@ -1656,6 +1658,8 @@ msgid ""
 "When you cycle Dirge of Dread, you may have target creature gain fear until "
 "end of turn."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz sprawić, że wskazany stwór zyska do końca "
+"tury postrach."
 
 #: ../../C13.rst:440
 msgid ""
@@ -3983,12 +3987,15 @@ msgid ""
 "When you cast this spell, create X 0/1 red Kobold creature tokens named "
 "Kobolds of Kher Keep, where X is the amount of mana spent to cast it."
 msgstr ""
+"Kiedy rzucisz ten czar, stwórz X żetonów czerwonego stwora Kobold 0/1 o "
+"nazwie Kobolds of Kher Keep, gdzie X jest liczbą many wydanej na rzucenie "
+"tego czaru."
 
 #: ../../C13.rst:1179
 msgid ""
 "Sacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end "
 "of turn."
-msgstr ""
+msgstr "Poświęć innego stwora: Niniejszy stwór dostaje do końca tury +1/+0."
 
 #: ../../C13.rst:1184
 msgid ""

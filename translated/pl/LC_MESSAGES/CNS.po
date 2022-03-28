@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 11:28+0000\n"
+"PO-Revision-Date: 2022-03-28 14:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -2436,7 +2436,7 @@ msgstr ""
 
 #: ../../CNS.rst:761
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../CNS.rst:763
 msgid ""
@@ -2739,6 +2739,8 @@ msgid ""
 "Target creature and all other creatures with the same name as that creature "
 "get +2/+2 until end of turn."
 msgstr ""
+"Wskazany stwór i wszystkie stwory o tej samej nazwie co on dostają do końca "
+"tury +2/+2."
 
 #: ../../CNS.rst:884
 msgid ""
@@ -3180,6 +3182,8 @@ msgid ""
 "|mana_x|, Sacrifice Pernicious Deed: Destroy each artifact, creature, and "
 "enchantment with mana value X or less."
 msgstr ""
+"|mana_x|, poświęć ten byt: Zniszcz każdy artefakt, stwora i urok o skrócie "
+"many X lub mniejszym."
 
 #: ../../CNS.rst:1028
 msgid ""

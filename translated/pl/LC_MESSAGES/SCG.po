@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 11:28+0000\n"
+"PO-Revision-Date: 2022-03-28 14:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scg/pl/>\n"
 "Language: pl\n"
@@ -568,6 +568,8 @@ msgid ""
 "When Karona's Zealot is turned face up, all damage that would be dealt to it "
 "this turn is dealt to target creature instead."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, wszystkie obrażenia, jakie mogłyby mu zostać "
+"zadane w tej turze są zamiast tego zadane wskazanemu stworowi."
 
 #: ../../SCG.rst:124
 msgid ""
@@ -1009,7 +1011,7 @@ msgstr ""
 
 #: ../../SCG.rst:271
 msgid "|mana_u|: Untap enchanted creature."
-msgstr ""
+msgstr "|mana_u|: Odkręć zauroczonego stwora."
 
 #: ../../SCG.rst:273
 msgid "|mana_u|: Enchanted creature gains flying until end of turn."
@@ -1299,7 +1301,7 @@ msgstr ""
 #: ../../SCG.rst:373
 msgid ""
 "When Death's-Head Buzzard dies, all creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wszystkie stwory dostają do końca tury -1/-1."
 
 #: ../../SCG.rst:382
 msgid ""
@@ -1614,7 +1616,7 @@ msgstr ""
 
 #: ../../SCG.rst:487
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../SCG.rst:489
 msgid ""

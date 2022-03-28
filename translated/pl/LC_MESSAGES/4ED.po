@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-03-28 14:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
 "Language: pl\n"
@@ -1132,11 +1132,11 @@ msgstr ""
 
 #: ../../4ED.rst:315
 msgid "Counter target red spell."
-msgstr ""
+msgstr "Skontruj wskazany czerwony czar."
 
 #: ../../4ED.rst:317
 msgid "Destroy target red permanent."
-msgstr ""
+msgstr "Zniszcz wskazany czerwony byt."
 
 #: ../../4ED.rst:324
 msgid ""
@@ -1297,7 +1297,7 @@ msgstr ""
 
 #: ../../4ED.rst:379
 msgid "|mana_u|\\ |mana_u|\\ |mana_u|: Regenerate Ghost Ship."
-msgstr ""
+msgstr "|mana_u|\\ |mana_u|\\ |mana_u|: Zregeneruj ten byt."
 
 #: ../../4ED.rst:384
 msgid ""
@@ -2149,6 +2149,9 @@ msgid ""
 "Erg Raiders deals 2 damage to you unless it came under your control this "
 "turn."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli ten stwór nie zaatakował w tej "
+"turze, zadaje on tobie 2 obrażenia, chyba że wszedł pod twoje władanie w tej "
+"turze."
 
 #: ../../4ED.rst:692
 msgid ""
@@ -3238,7 +3241,7 @@ msgstr "Skontruj wskazany niebieski czar."
 
 #: ../../4ED.rst:1093
 msgid "Destroy target blue permanent."
-msgstr ""
+msgstr "Zniszcz wskazany niebieski byt."
 
 #: ../../4ED.rst:1098
 msgid ""

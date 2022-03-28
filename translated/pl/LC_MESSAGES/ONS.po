@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-03-28 14:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -2296,6 +2296,8 @@ msgid ""
 "All creatures gain fear until end of turn. (They can't be blocked except by "
 "artifact creatures and/or black creatures.)"
 msgstr ""
+"Wszystkie stwory zyskują do końca tury postrach. (Nie mogą być blokowane, "
+"chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../ONS.rst:755 ../../ONS.rst:955
 msgid ""
@@ -2310,6 +2312,8 @@ msgid ""
 "When you cycle Dirge of Dread, you may have target creature gain fear until "
 "end of turn."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz sprawić, że wskazany stwór zyska do końca "
+"tury postrach."
 
 #: ../../ONS.rst:764
 msgid ""
@@ -3040,6 +3044,8 @@ msgid ""
 "Morph |mana_r|\\ |mana_r| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_r|\\ |mana_r| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../ONS.rst:1022
 msgid ""
@@ -3612,6 +3618,8 @@ msgid ""
 "Whenever Skirk Commando deals combat damage to a player, you may have it "
 "deal 2 damage to target creature that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zdecydować, że zada "
+"on 2 obrażenia wskazanemu stworowi pod władaniem owego gracza."
 
 #: ../../ONS.rst:1221
 msgid ""
@@ -3954,12 +3962,16 @@ msgid ""
 "Whenever Broodhatch Nantuko is dealt damage, you may create that many 1/1 "
 "green Insect creature tokens."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, możesz stworzyć tyle samo żetonów "
+"zielonego stwora Owad 1/1."
 
 #: ../../ONS.rst:1335
 msgid ""
 "Morph |mana_2|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../ONS.rst:1340
 msgid ""
@@ -4244,6 +4256,8 @@ msgid ""
 "Morph |mana_6|\\ |mana_g|\\ |mana_g| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_6|\\ |mana_g|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../ONS.rst:1438
 msgid ""

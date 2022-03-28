@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-03-28 14:25+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -507,11 +507,8 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:91
-#, fuzzy
 msgid "When Rest in Peace enters the battlefield, exile all graveyards."
-msgstr ""
-"Kiedy ten permanent wejdzie na pole bitwy, wygnaj wszystkie karty ze "
-"wszystkich cmentarzy."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie cmentarze."
 
 #: ../../RTR.rst:93
 msgid ""
