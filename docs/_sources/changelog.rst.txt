@@ -2,6 +2,12 @@
 Spis zmian
 ***********
 
+2022-03-28
+   * Dokonałem najdłużej odwlekanej i pewnie najbardziej kontrowersyjnej zmiany w tłuaczeniach: słowo "permanent" otrzymało tłumaczenie "byt".
+     Jednocześnie wiele kart posiadających zdolność wyzwalaną przy ich wejściu na pole bitwy ("Kiedy ten ... wejdzie na pole bitwy") otrzymało
+     zbiorcze tłumaczenie mówiące "Kiedy ten byt wejdzie na pole bitwy" - oryginalne słownictwo zostanie utrzymane tylko tam, gdzie będzie to
+     miało semantyczne uzasadnienie.
+
 2022-03-21
    * Kamigawa: Neon Dynasty - 100%
 

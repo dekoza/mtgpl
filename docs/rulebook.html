@@ -83,7 +83,7 @@
 <img alt="_images/readingcard.png" class="align-center" src="_images/readingcard.png" />
 <div class="section" id="name">
 <span id="card-name"></span><h3>Nazwa<a class="headerlink" href="#name" title="Stały odnośnik do tego nagłówka">¶</a></h3>
-<p>Każda karta posiada nazwę, która służy za jej unikalny identyfikator. Dana karta mogła być przedrukowana w różnych dodatkach do gry, jednak nigdy nie będzie różnicy w działaniu kart mających tę samą nazwę. W większości formatów rozgrywki możesz mieć co najwyżej cztery kopie karty o tej samej nazwie w talii (wyjątkiem są bazowe lądy, na które nie ma ograniczenia). Jeśli nazwa karty pojawia się w jej polu tekstu, to karta odnosi się sama do siebie, a nie innej karty o tej samej nazwie. [przyp. tłumacza:] Zasada ta jest konieczna w języku angielskim, gdyż mało jest tam zaimków wskazujących - funkcjonują w zasadzie tylko „this” i „that”. Podczas tłumaczenia - na razie eksperymentalnie - zmieniłem tę zasadę i karta odwołuje się do siebie w sposób „ta karta”, „ten czar” albo „ten permanent”. W szczególnie zawiłych sytuacjach użyte jest słowo „niniejszy”, które jest dobitnym wskazaniem że karta odwołuje się sama do siebie.</p>
+<p>Każda karta posiada nazwę, która służy za jej unikalny identyfikator. Dana karta mogła być przedrukowana w różnych dodatkach do gry, jednak nigdy nie będzie różnicy w działaniu kart mających tę samą nazwę. W większości formatów rozgrywki możesz mieć co najwyżej cztery kopie karty o tej samej nazwie w talii (wyjątkiem są bazowe lądy, na które nie ma ograniczenia). Jeśli nazwa karty pojawia się w jej polu tekstu, to karta odnosi się sama do siebie, a nie innej karty o tej samej nazwie. [przyp. tłumacza:] Zasada ta jest konieczna w języku angielskim, gdyż mało jest tam zaimków wskazujących - funkcjonują w zasadzie tylko „this” i „that”. Podczas tłumaczenia - na razie eksperymentalnie - zmieniłem tę zasadę i karta odwołuje się do siebie w sposób „ta karta”, „ten czar” albo „ten byt”. W szczególnie zawiłych sytuacjach użyte jest słowo „niniejszy”, które jest dobitnym wskazaniem że karta odwołuje się sama do siebie.</p>
 </div>
 <div class="section" id="mana-cost">
 <span id="card-mana-cost"></span><h3>Koszt many<a class="headerlink" href="#mana-cost" title="Stały odnośnik do tego nagłówka">¶</a></h3>
@@ -99,7 +99,7 @@
 <p>Możesz  zagrywać jeden ląd w każdej z twoich tury. Aby zagrać ląd, umieść go na polu bitwy z twojej ręki podczas jednej z faz głównych w twojej turze.</p>
 <div class="line-block">
 <div class="line"><strong>Stwory</strong> (Creature)</div>
-<div class="line">Stwory walczą dla ciebie; mogą atakować w fazie potyczki w twojej turze albo blokować w fazie potyczki w turze przeciwnika. Możesz rzucić czar stwora podczas twojej fazy głównej i pozostanie on na polu bitwy jako <a class="reference internal" href="glossary.html#term-Permanent"><span class="xref std std-term">permanent</span></a>. Stwory wchodzą na pole bitwy z „chorobą przywołania”, tzn. nie mogą atakować (oraz używać zdolności mających <img alt="{T}" src="_images/tap.png" /> w koszcie) dopóki nie zaczną twojej tury pod twoim władaniem. Możesz blokować stworem niezależnie od kiedy przebywa on na polu bitwy.</div>
+<div class="line">Stwory walczą dla ciebie; mogą atakować w fazie potyczki w twojej turze albo blokować w fazie potyczki w turze przeciwnika. Możesz rzucić czar stwora podczas twojej fazy głównej i pozostanie on na polu bitwy jako <span class="xref std std-term">byt</span>. Stwory wchodzą na pole bitwy z „chorobą przywołania”, tzn. nie mogą atakować (oraz używać zdolności mających <img alt="{T}" src="_images/tap.png" /> w koszcie) dopóki nie zaczną twojej tury pod twoim władaniem. Możesz blokować stworem niezależnie od kiedy przebywa on na polu bitwy.</div>
 </div>
 <div class="line-block">
 <div class="line"><strong>Artefakty</strong> (Artifact)</div>
@@ -121,7 +121,7 @@
 <div class="section" id="text-box">
 <span id="card-text-box"></span><h3>Pole tekstu<a class="headerlink" href="#text-box" title="Stały odnośnik do tego nagłówka">¶</a></h3>
 <p>Niektóre karty mają specjalne zdolności, które wypisane są tutaj (w polu powyżej linii). Czasami zdolności mają w nawiasie tekst przypominający ich działanie. Na karcie może się pojawić także „tekst klimatyczny”, poniżej linii. Ów tekst nie ma żadnego wpływu na rozgrywkę, ale pozwala lepiej wczuć się w klimat karty i samej gry.</p>
-<p>Zdolności stworów i innych permanentów na polu bitwy zwykle należą do jednej z trzech kategorii: zdolności statycznych, zdolności wyzwalanych oraz zdolności aktywowanych.</p>
+<p>Zdolności stworów i innych bytów na polu bitwy zwykle należą do jednej z trzech kategorii: zdolności statycznych, zdolności wyzwalanych oraz zdolności aktywowanych.</p>
 <div class="line-block">
 <div class="line"><strong>Zdolności statyczne</strong></div>
 <div class="line">Zdolność statyczna to tekst, który jest zawsze prawdziwy, gdy dana karta jest polu bitwy. Przykładowo, Favorable Winds jest urokiem ze zdolnością statyczną „Stwory pod twoim władaniem mające latanie dostają +1/+1.” Nie musisz aktywować zdolności statycznej; po prostu dzieje się to, co jest w jej treści.</div>
@@ -132,7 +132,7 @@
 </div>
 <div class="line-block">
 <div class="line"><strong>Zdolności aktywowane</strong></div>
-<div class="line">Zdolność aktywowana to zdolność, której można użyć w dowolnym momencie (zupełnie jak rzucenie sztuczki), o ile opłaci się jej koszt. Każda tego typu zdolność ma ten sam format: „Koszt: Efekt”. Przykładowo: Inspired Sphinx jest stworem ze zdolnością aktywowaną „<img alt="{3}" src="_images/mana_3.png" /><img alt="{U}" src="_images/mana_u.png" />: Stwórz żeton bezkolorowego artefaktycznego stwora Kopter 1/1 z lataniem.” Niektóre aktywowane zdolności zawierają w swoim koszcie symbol <img alt="{T}" src="_images/tap.png" /> (<a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">przekręcenie</span></a>); oznacza to, że musisz <a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">przekręcić</span></a> ową kartę, by aktywować jej zdolność. Nie możesz aktywować tego typu zdolności jeśli <a class="reference internal" href="glossary.html#term-Permanent"><span class="xref std std-term">permanent</span></a> jest już przekręcony albo jeśli stwór ma <span class="xref std std-term">chorobę przywołania</span>.</div>
+<div class="line">Zdolność aktywowana to zdolność, której można użyć w dowolnym momencie (zupełnie jak rzucenie sztuczki), o ile opłaci się jej koszt. Każda tego typu zdolność ma ten sam format: „Koszt: Efekt”. Przykładowo: Inspired Sphinx jest stworem ze zdolnością aktywowaną „<img alt="{3}" src="_images/mana_3.png" /><img alt="{U}" src="_images/mana_u.png" />: Stwórz żeton bezkolorowego artefaktycznego stwora Kopter 1/1 z lataniem.” Niektóre aktywowane zdolności zawierają w swoim koszcie symbol <img alt="{T}" src="_images/tap.png" /> (<a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">przekręcenie</span></a>); oznacza to, że musisz <a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">przekręcić</span></a> ową kartę, by aktywować jej zdolność. Nie możesz aktywować tego typu zdolności jeśli <span class="xref std std-term">byt</span> jest już przekręcony albo jeśli stwór ma <span class="xref std std-term">chorobę przywołania</span>.</div>
 </div>
 </div>
 <div class="section" id="power-toughness">
@@ -160,7 +160,7 @@
 </div>
 <div class="section" id="battlefield">
 <span id="zone-battlefield"></span><h3>Pole bitwy<a class="headerlink" href="#battlefield" title="Stały odnośnik do tego nagłówka">¶</a></h3>
-<p>Ty i twoi przeciwnicy współdzielicie pole bitwy. Karty trafiające na nie (między innymi lądy, stwory, artefakty i uroki) nazywa się permanentami. Sztuczki i obrzędy nigdy nie trafiają na pole bitwy. Możesz rozmieszczać twoje permanenty jak tylko chcesz (zalecamy umieszczać lądy bliżej ciebie), ale twój przeciwnik musi mieć możliwość zobaczenia ich wszystkich.</p>
+<p>Ty i twoi przeciwnicy współdzielicie pole bitwy. Karty trafiające na nie (między innymi lądy, stwory, artefakty i uroki) nazywa się bytami. Sztuczki i obrzędy nigdy nie trafiają na pole bitwy. Możesz rozmieszczać twoje byty jak tylko chcesz (zalecamy umieszczać lądy bliżej ciebie), ale twój przeciwnik musi mieć możliwość zobaczenia ich wszystkich.</p>
 </div>
 <div class="section" id="graveyard">
 <span id="zone-graveyard"></span><h3>Cmentarz<a class="headerlink" href="#graveyard" title="Stały odnośnik do tego nagłówka">¶</a></h3>
@@ -176,13 +176,13 @@
 <p>Ta sekcja opisuje akcje, które można wykonać podczas gry - przekręcanie kart, rzucanie czarów oraz atakowanie i blokowanie stworami w potyczce.</p>
 <div class="section" id="tapping-and-untapping">
 <span id="actions-tapping-untappings"></span><h3>Przekręcanie i odkręcanie<a class="headerlink" href="#tapping-and-untapping" title="Stały odnośnik do tego nagłówka">¶</a></h3>
-<p>Aby przekręcić (zaznaczyć) kartę należy obrócić ją prostopadle, by zaznaczyć, że ta karta już została użyta w danej turze. Robisz to używając lądów do uzyskania many, czy atakując stworem albo używając zdolności posiadającej symbol <img alt="{T}" src="_images/tap.png" /> w jej koszcie (<img alt="{T}" src="_images/tap.png" /> oznacza „przekręć ten <a class="reference internal" href="glossary.html#term-Permanent"><span class="xref std std-term">permanent</span></a>”). Kiedy permanent jest przekręcony, nie możesz go przekręcić ponownie dopóki nie zostanie odkręcony (ponownie odwrócony pionowo). Z początkiem twojej tury odkręcasz swoje przekręcone karty, by móc ich użyć ponownie.</p>
+<p>Aby przekręcić (zaznaczyć) kartę należy obrócić ją prostopadle, by zaznaczyć, że ta karta już została użyta w danej turze. Robisz to używając lądów do uzyskania many, czy atakując stworem albo używając zdolności posiadającej symbol <img alt="{T}" src="_images/tap.png" /> w jej koszcie (<img alt="{T}" src="_images/tap.png" /> oznacza „przekręć ten <span class="xref std std-term">byt</span>”). Kiedy byt jest przekręcony, nie możesz go przekręcić ponownie dopóki nie zostanie odkręcony (ponownie odwrócony pionowo). Z początkiem twojej tury odkręcasz swoje przekręcone karty, by móc ich użyć ponownie.</p>
 </div>
 <div class="section" id="casting-spells">
 <span id="actions-casting-spells"></span><h3>Rzucanie czarów<a class="headerlink" href="#casting-spells" title="Stały odnośnik do tego nagłówka">¶</a></h3>
-<p>Aby rzucić czar, musisz opłacić jego koszt many (umieszczony w prawym górnym rogu karty) poprzez przekręcenie lądów (lub innych permanentów), by wytworzyć liczbę i rodzaj many wymaganą przez ów czar. Przykładowo: jeśli chcesz rzucić Serra Angel kosztujący <img alt="{3}" src="_images/mana_3.png" /><img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" /> możesz przekręcić trzy bazowe lądy dowolnego typu, by zapłacić za <img alt="{3}" src="_images/mana_3.png" /> oraz dwie Równiny (Plains), by zapłacić za <img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" />.</p>
+<p>Aby rzucić czar, musisz opłacić jego koszt many (umieszczony w prawym górnym rogu karty) poprzez przekręcenie lądów (lub innych bytów), by wytworzyć liczbę i rodzaj many wymaganą przez ów czar. Przykładowo: jeśli chcesz rzucić Serra Angel kosztujący <img alt="{3}" src="_images/mana_3.png" /><img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" /> możesz przekręcić trzy bazowe lądy dowolnego typu, by zapłacić za <img alt="{3}" src="_images/mana_3.png" /> oraz dwie Równiny (Plains), by zapłacić za <img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" />.</p>
 <p>Gdy czar został już rzucony może się zdarzyć jedna z dwóch rzeczy. Jeśli czar jest sztuczką lub obrzędem, podążasz za instrukcjami na karcie, a po czym umieszczasz owa kartę w twoim cmentarzu. Jeśli czar jest stworem, artefaktem lub urokiem, umieszczasz kartę na stole przed sobą. Owa karta jest teraz na polu bitwy.</p>
-<p>Karty na polu bitwy nazywane są permanentami, by odróżnić je od sztuczek i obrzędów, które nigdy nie znajdują się na polu bitwy.</p>
+<p>Karty na polu bitwy nazywane są bytami, by odróżnić je od sztuczek i obrzędów, które nigdy nie znajdują się na polu bitwy.</p>
 <img alt="_images/castingex.png" class="align-center" src="_images/castingex.png" />
 </div>
 <div class="section" id="attacking-and-blocking">
@@ -267,7 +267,7 @@
 <div class="section" id="beginning-phase">
 <span id="turn-beginning"></span><h3>Faza początkowa<a class="headerlink" href="#beginning-phase" title="Stały odnośnik do tego nagłówka">¶</a></h3>
 <ul class="simple">
-<li><p><strong>Krok odkręcania</strong> Odkręcasz wszystkie twoje przekręcone permanenty. W pierwszej turze gry nie masz żadnych permanentów, więc po prostu pomijasz ten krok. Nikt nie może rzucać czarów ani aktywować zdolności podczas tego kroku.</p></li>
+<li><p><strong>Krok odkręcania</strong> Odkręcasz wszystkie twoje przekręcone byty. W pierwszej turze gry nie masz żadnych bytów, więc po prostu pomijasz ten krok. Nikt nie może rzucać czarów ani aktywować zdolności podczas tego kroku.</p></li>
 <li><p><strong>Krok utrzymania</strong> Gracze mogą rzucać czary i aktywować zdolności. Ta część tury jest wymieniona na niektórych kartach. Jeśli coś ma się wydarzyć raz na turę, zaraz na jej początku, zdolność będzie wyzwalana „na początku twojego kroku utrzymania.”</p></li>
 <li><p><strong>Krok dobierania</strong> Musisz dobrać kartę z twojej biblioteki (nawet jeśli nie chcesz). Gracz, który rozpoczyna grę dwuosobową pomija ten krok w swojej turze, by wyrównać korzyść wynikającą z rozpoczęcia gry. Gracze po czym mogą rzucać sztuczki i aktywować zdolności.</p></li>
 </ul>
@@ -397,7 +397,7 @@
 
     <div class="footer" role="contentinfo">
         &#169; Copyright 2013-2022, Dominik Kozaczko.
-      Ostatnia modyfikacja 2022-03-26.
+      Ostatnia modyfikacja 2022-03-28.
       Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.4.0.
     </div>
 <!-- Piwik -->
