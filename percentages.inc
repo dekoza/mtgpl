@@ -30,7 +30,7 @@
 .. |EMN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |CHK_percent| image:: images/pie40.png        
+.. |CHK_percent| image:: images/pie45.png        
 
 .. |CMR_percent| image:: images/pie60.png        
 
@@ -45,7 +45,7 @@
 .. |6ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |LRW_percent| image:: images/pie40.png        
+.. |LRW_percent| image:: images/pie45.png        
 
 .. |EXO_percent| image:: images/pie45.png        
 
@@ -72,7 +72,7 @@
 .. |GRN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |5DN_percent| image:: images/pie45.png        
+.. |5DN_percent| image:: images/pie50.png        
 
 .. |S99_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -117,7 +117,7 @@
 .. |THS_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MOR_percent| image:: images/pie40.png        
+.. |MOR_percent| image:: images/pie45.png        
 
 .. |ORI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -218,7 +218,7 @@
 
 .. |C16_percent| image:: images/pie75.png        
 
-.. |ZEN_percent| image:: images/pie50.png        
+.. |ZEN_percent| image:: images/pie55.png        
 
 .. |AKR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -332,7 +332,8 @@
 
 .. |ONS_percent| image:: images/pie40.png        
 
-.. |MM2_percent| image:: images/pie85.png        
+.. |MM2_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |4ED_percent| image:: images/pie55.png        
 
@@ -356,7 +357,7 @@
 .. |VOW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ALA_percent| image:: images/pie60.png        
+.. |ALA_percent| image:: images/pie65.png        
 
 .. |ICE_percent| image:: images/pie35.png        
 
@@ -366,7 +367,7 @@
 
 .. |ULG_percent| image:: images/pie60.png        
 
-.. |ODY_percent| image:: images/pie45.png        
+.. |ODY_percent| image:: images/pie50.png        
 
 .. |ZNR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
