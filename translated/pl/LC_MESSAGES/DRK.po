@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 07:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/drk/pl/>\n"
 "Language: pl\n"
@@ -1827,14 +1827,8 @@ msgid ""
 msgstr ""
 
 #: ../../DRK.rst:549
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's "
-#| "graveyard."
 msgid "|tap|, Sacrifice Tormod's Crypt: Exile target player's graveyard."
-msgstr ""
-"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
-"gracza."
+msgstr "|tap|, poświęć ten artefakt: Wygnaj cmentarz wskazanego gracza."
 
 #: ../../DRK.rst:554
 msgid ""

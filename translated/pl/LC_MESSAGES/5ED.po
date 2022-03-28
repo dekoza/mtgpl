@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 07:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -399,6 +399,11 @@ msgid ""
 "creature's combat damage, not its controller, among any of the creatures "
 "it's being blocked by or is blocking.)"
 msgstr ""
+"Zrzeszanie (Dowolne stwory ze zrzeszaniem, oraz co najwyżej jedna bez, mogą "
+"atakować jako rzesza. Rzesze są blokowane jako grupa. Jeśli dowolne stwory "
+"ze zrzeszaniem pod twoim władaniem blokują lub są blokowane przez stwora, to "
+"ty rozdzielasz obrażenia bojowe owego stwora zamiast jego władcy, między "
+"dowolne stwory, które blokuje lub przez które jest blokowany.)"
 
 #: ../../5ED.rst:66
 msgid ""
@@ -676,6 +681,9 @@ msgid ""
 "instead that source deals that much damage to you and Eye for an Eye deals "
 "that much damage to that source's controller."
 msgstr ""
+"Kiedy następnym razem źródło wybrane przez ciebie miałoby zadać obrażenia w "
+"tej turze, zamiast tego owe źródło zadaje tobie tyle samo obrażeń, a ten "
+"urok zadaje tyle samo obrażeń władcy owego źródła."
 
 #: ../../5ED.rst:154
 msgid ""
@@ -690,6 +698,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: The next time a black or red source of your choice "
 "would deal damage to you this turn, prevent that damage."
 msgstr ""
+"|mana_1|\\ |mana_w|: Kiedy następnym razem czarne lub czerwone źródło "
+"wybrane przez ciebie miałoby zadać obrażenia w tej turze, zażegnaj je."
 
 #: ../../5ED.rst:160
 msgid ""
@@ -733,6 +743,8 @@ msgid ""
 "Hipparion can't block creatures with power 3 or greater unless you pay |"
 "mana_1|."
 msgstr ""
+"Ten stwór nie może blokować stworów o sile 3 lub większej, chyba że "
+"zapłacisz |mana_1|."
 
 #: ../../5ED.rst:178
 msgid ""
@@ -761,7 +773,7 @@ msgstr ""
 
 #: ../../5ED.rst:185
 msgid "|mana_1|, |tap|: Target creature gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_1|, |tap|: Wskazany stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../5ED.rst:190
 msgid ""
