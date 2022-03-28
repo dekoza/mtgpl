@@ -153,7 +153,7 @@ Commander i pokrewne
 * :mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|
 * :mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|
 * :mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|
-* :mtgexp:`CM1` :doc:`Commander's Arsenal<C13>` |CM1_percent|
+* :mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` |CM1_percent|
 * :mtgexp:`CMD` :doc:`Commander<CMD>` |CMD_percent|
 
 Conspiracy

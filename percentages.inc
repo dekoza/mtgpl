@@ -18,7 +18,8 @@
 
 .. |MIR_percent| image:: images/pie40.png        
 
-.. |CM1_percent| image:: images/pie85.png        
+.. |CM1_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |MID_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
