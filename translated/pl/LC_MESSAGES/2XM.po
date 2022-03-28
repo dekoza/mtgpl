@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -247,7 +247,7 @@ msgstr "+4: Wskazany gracz wygania kartę ze swojej ręki."
 
 #: ../../2XM.rst:11
 msgid "−3: Exile target permanent."
-msgstr "–3: Wygnaj wskazany permanent."
+msgstr "–3: Wygnaj wskazany byt."
 
 #: ../../2XM.rst:13
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "with Karn Liberated. Then put those cards onto the battlefield under your "
 "control."
 msgstr ""
-"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie byty nie "
 "będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
 "karty na polu bitwy pod twoim władaniem."
 
@@ -288,8 +288,8 @@ msgid ""
 "When Ancestral Blade enters the battlefield, create a 1/1 white Soldier "
 "creature token, then attach Ancestral Blade to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton białego stwora "
-"Piechur 1/1, po czym dołącz ten artefakt do niego."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
+"1, po czym dołącz ten artefakt do niego."
 
 #: ../../2XM.rst:23 ../../2XM.rst:1377
 msgid "Equipped creature gets +1/+1."
@@ -323,7 +323,7 @@ msgid ""
 "When Angel of the Dawn enters the battlefield, creatures you control get +1/"
 "+1 and gain vigilance until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1 oraz czujność."
 
 #: ../../2XM.rst:40
@@ -403,7 +403,7 @@ msgstr "Latanie, czujność, niezniszczalność"
 
 #: ../../2XM.rst:61
 msgid "Other permanents you control have indestructible."
-msgstr "Inne permanenty pod twoim władaniem mają niezniszczalność."
+msgstr "Inne byty pod twoim władaniem mają niezniszczalność."
 
 #: ../../2XM.rst:68
 msgid ""
@@ -417,7 +417,7 @@ msgid ""
 "When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 #: ../../2XM.rst:67
@@ -448,9 +448,9 @@ msgid ""
 "permanent you don't control. Exile each permanent with the most votes or "
 "tied for most votes."
 msgstr ""
-"Wola rady — Zaczynając od ciebie, każdy gracz głosuje na nielądowy permanent "
-"poza twoim władaniem. Wygnaj każdy permanent mający najwięcej głosów lub "
-"równą ich liczbą."
+"Wola rady — Zaczynając od ciebie, każdy gracz głosuje na nielądowy byt poza "
+"twoim władaniem. Wygnaj każdy byt mający najwięcej głosów lub równą ich "
+"liczbą."
 
 #: ../../2XM.rst:82
 msgid ""
@@ -525,9 +525,9 @@ msgid ""
 "Return that card to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
-"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
-"najbliższego kroku końcowego."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj inny wskazany byt. Przywróć ową "
+"kartę na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../2XM.rst:108
 msgid ""
@@ -561,8 +561,8 @@ msgid ""
 "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter "
 "on it or create a 1/1 colorless Servo artifact creature token.)"
 msgstr ""
-"Produkcja 1 (Kiedy ten stwór wejdzie na pole bitwy, umieść na nim znacznik "
-"+1/+1 albo stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1.)"
+"Produkcja 1 (Kiedy ten byt wejdzie na pole bitwy, umieść na nim znacznik +1/+"
+"1 albo stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1.)"
 
 #: ../../2XM.rst:116
 msgid ""
@@ -623,7 +623,7 @@ msgid ""
 "When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 #: ../../2XM.rst:129
@@ -743,7 +743,7 @@ msgid ""
 "When Sanctum Gargoyle enters the battlefield, you may return target artifact "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../2XM.rst:172
@@ -777,7 +777,7 @@ msgid ""
 "When Stoneforge Mystic enters the battlefield, you may search your library "
 "for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, po czym przetasuj."
 
 #: ../../2XM.rst:177
@@ -847,9 +847,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../2XM.rst:202
 msgid ""
@@ -860,7 +860,7 @@ msgstr ""
 
 #: ../../2XM.rst:199
 msgid "Tap target permanent. If it's an artifact, destroy it."
-msgstr "Przekręć wskazany permanent. Jeśli to artefakt, zniszcz go."
+msgstr "Przekręć wskazany byt. Jeśli to artefakt, zniszcz go."
 
 #: ../../2XM.rst:201 ../../2XM.rst:1097
 msgid "Draw a card."
@@ -993,7 +993,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1009,8 +1009,8 @@ msgid ""
 "When Corridor Monitor enters the battlefield, untap target artifact or "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odkręć wskazany artefakt lub stwora "
-"pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, odkręć wskazany artefakt lub stwora pod "
+"twoim władaniem."
 
 #: ../../2XM.rst:254
 msgid ""
@@ -1022,8 +1022,7 @@ msgstr ""
 #: ../../2XM.rst:251
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent poza twoim władaniem do ręki "
-"właściciela."
+"Przywróć wskazany nie-lądowy byt poza twoim władaniem do ręki właściciela."
 
 #: ../../2XM.rst:253
 msgid ""
@@ -1047,8 +1046,8 @@ msgid ""
 "When Deepglow Skate enters the battlefield, double the number of each kind "
 "of counter on any number of target permanents."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, podwój liczbę znaczników każdego "
-"rodzaju na dowolnej liczbie wskazanych permanentów."
+"Kiedy ten byt wejdzie na pole bitwy, podwój liczbę znaczników każdego "
+"rodzaju na dowolnej liczbie wskazanych bytów."
 
 #: ../../2XM.rst:264
 msgid ""
@@ -1078,9 +1077,9 @@ msgid ""
 "your library. You may reveal an artifact card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
-"w twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją w "
+"twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../2XM.rst:276
 msgid ""
@@ -1288,8 +1287,8 @@ msgid ""
 "When Parasitic Strix enters the battlefield, if you control a black "
 "permanent, target player loses 2 life and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz czarnym permanentem, "
-"wskazany gracz traci 2 życia, zyskaj 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz czarnym bytem, wskazany "
+"gracz traci 2 życia, zyskaj 2 życia."
 
 #: ../../2XM.rst:340
 msgid ""
@@ -1387,8 +1386,8 @@ msgstr ""
 msgid ""
 "Draw cards equal to the highest mana value among permanents you control."
 msgstr ""
-"Dobierz tyle kart, ile wynosi największy skrót many spośród permanentów pod "
-"twoim władaniem."
+"Dobierz tyle kart, ile wynosi największy skrót many spośród bytów pod twoim "
+"władaniem."
 
 #: ../../2XM.rst:368
 msgid ""
@@ -1409,10 +1408,10 @@ msgid ""
 "battlefield under its owner's control at the beginning of the next end step. "
 "(Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany historyczny "
-"permanent pod twoim władaniem. Jeśli tak zrobisz, przywróć ową kartę na pole "
-"bitwy pod władaniem jej właściciela na początku najbliższego kroku "
-"końcowego. (Artefakty, legendy i Sagi są historyczne.)"
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazany historyczny byt "
+"pod twoim władaniem. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy pod "
+"władaniem jej właściciela na początku najbliższego kroku końcowego. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../2XM.rst:372
 msgid ""
@@ -1489,7 +1488,7 @@ msgid ""
 "an artifact card with mana value 6 or greater, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, po "
 "czym przetasuj."
 
@@ -1517,7 +1516,7 @@ msgstr ""
 
 #: ../../2XM.rst:403
 msgid "When Well of Ideas enters the battlefield, draw two cards."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../2XM.rst:405
 msgid ""
@@ -1676,7 +1675,7 @@ msgid ""
 "When Disciple of Bolas enters the battlefield, sacrifice another creature. "
 "You gain X life and draw X cards, where X is that creature's power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć innego stwora. Zyskaj X żyć i "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć innego stwora. Zyskaj X żyć i "
 "dobierz X kart, gdzie X jest siłą owego stwora."
 
 #: ../../2XM.rst:456
@@ -1805,9 +1804,9 @@ msgid ""
 "Revolt — Destroy that creature if it has mana value 4 or less instead if a "
 "permanent you controlled left the battlefield this turn."
 msgstr ""
-"Rewolta — Jeśli permanent pod twoim władaniem opuścił pole bitwy w tej "
-"turze, zamiast tego zniszcz owego stwora jeśli jego skrót many jest mniejszy "
-"lub równy 4."
+"Rewolta — Jeśli byt pod twoim władaniem opuścił pole bitwy w tej turze, "
+"zamiast tego zniszcz owego stwora jeśli jego skrót many jest mniejszy lub "
+"równy 4."
 
 #: ../../2XM.rst:494
 msgid ""
@@ -1914,7 +1913,7 @@ msgid ""
 "Morbid — When Morkrut Banshee enters the battlefield, if a creature died "
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../2XM.rst:522
@@ -1931,10 +1930,10 @@ msgid ""
 "way. (Auras and Equipment phase out with it. While permanents are phased "
 "out, they're treated as though they don't exist.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wskazany stwór wycofuje się dopóki ten "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór wycofuje się dopóki ten "
 "urok jest na polu bitwy. Przekręć owego stwora podczas wycofywania w ten "
-"sposób. (Aury i Ekwipunek wyofuje się razem z nim. Wycofane permanenty "
-"traktuję się tak, jakby nie istniały.)"
+"sposób. (Aury i Ekwipunek wyofuje się razem z nim. Wycofane byty traktuję "
+"się tak, jakby nie istniały.)"
 
 #: ../../2XM.rst:526
 msgid ""
@@ -2018,8 +2017,7 @@ msgstr ""
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
-msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+msgstr "Wyzysk (Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić stwora.)"
 
 #: ../../2XM.rst:549
 msgid ""
@@ -2147,8 +2145,7 @@ msgstr "Pierwszy cios"
 
 #: ../../2XM.rst:589
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
-"Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego bytu."
 
 #: ../../2XM.rst:594
 msgid ""
@@ -2301,8 +2298,8 @@ msgid ""
 "If you discard a creature card this way, Cragganwick Cremator deals damage "
 "equal to that card's power to target player or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć losową kartę. Jeśli odrzucisz "
-"w ten sposób kartę stwora, niniejszy stwór zadaje wskazanemu graczowi lub "
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć losową kartę. Jeśli odrzucisz w "
+"ten sposób kartę stwora, niniejszy stwór zadaje wskazanemu graczowi lub "
 "wędrowcowi obrażenia równe sile owej karty."
 
 #: ../../2XM.rst:646
@@ -2332,7 +2329,7 @@ msgid ""
 "When Dualcaster Mage enters the battlefield, copy target instant or sorcery "
 "spell. You may choose new targets for the copy."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
 "obrzędu. Możesz wskazać nowe cele dla kopii."
 
 #: ../../2XM.rst:658
@@ -2396,7 +2393,7 @@ msgid ""
 "When Godo, Bandit Warlord enters the battlefield, you may search your "
 "library for an Equipment card, put it onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia, umieścić ją na polu bitwy, po czym przetasuj."
 
 #: ../../2XM.rst:675
@@ -2436,7 +2433,7 @@ msgid ""
 "\"At the beginning of the end step, exile this permanent.\""
 msgstr ""
 "Stwórz żeton będący kopią wskazanego stwora, ale ma pośpiech oraz \"Na "
-"początku kroku końcowego, wygnaj ten permanent.\""
+"początku kroku końcowego, wygnaj ten byt.\""
 
 #: ../../2XM.rst:688
 msgid ""
@@ -2451,7 +2448,7 @@ msgid ""
 "creature card with power 2 or less, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "stwora o sile 2 lub mniejszej, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj."
 
@@ -2467,8 +2464,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Remove a +1/+1 counter or a charge counter from a "
 "permanent you control: Ion Storm deals 2 damage to any target."
 msgstr ""
-"|mana_1|\\ |mana_r|, usuń znacznik +1/+1 lub znacznik ładunku z permanentu "
-"pod twoim władaniem: Ten urok zadaje wskazanemu celowi 2 obrażenia."
+"|mana_1|\\ |mana_r|, usuń znacznik +1/+1 lub znacznik ładunku z bytu pod "
+"twoim władaniem: Ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../2XM.rst:696
 msgid ""
@@ -2498,7 +2495,7 @@ msgid ""
 "artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you "
 "choose among any number of targets."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić artefakt. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić artefakt. Jeśli tak "
 "zrobisz, ten stwór zadaje 4 obrażenia rozdzielone dowolnie pomiędzy "
 "jakiekolwiek wskazane cele."
 
@@ -2597,7 +2594,7 @@ msgid ""
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (Są "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (Są "
 "artefaktami ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
 "dowolnego koloru.\")"
 
@@ -2704,7 +2701,7 @@ msgid ""
 "When Thopter Engineer enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../2XM.rst:761
@@ -2791,7 +2788,7 @@ msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
 "Roślina 0/1, iloma lądami władasz."
 
 #: ../../2XM.rst:789
@@ -2827,8 +2824,7 @@ msgstr ""
 #: ../../2XM.rst:797
 msgid ""
 "Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar."
-msgstr ""
-"Ilekroć poświęcisz inny permanent, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć poświęcisz inny byt, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../2XM.rst:804
 msgid ""
@@ -2950,8 +2946,8 @@ msgid ""
 "When Conclave Naturalists enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt "
-"lub urok."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt lub "
+"urok."
 
 #: ../../2XM.rst:836
 msgid ""
@@ -3082,7 +3078,7 @@ msgid ""
 "creature card with mana value 6 or greater, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 6 lub większym, ujawnij ją, umieść w twojej "
 "ręce, po czym przetasuj."
 
@@ -3159,7 +3155,7 @@ msgid ""
 "Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorwego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorwego stwora "
 "Pomiot Eldrazi 0/1 mającego \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../2XM.rst:902
@@ -3193,8 +3189,8 @@ msgid ""
 "If you tap a permanent for mana, it produces twice as much of that mana "
 "instead."
 msgstr ""
-"Jeśli przekręcisz permanent biorąc manę, zamiast tego produkuje on "
-"dwukrotność owej many."
+"Jeśli przekręcisz byt biorąc manę, zamiast tego produkuje on dwukrotność "
+"owej many."
 
 #: ../../2XM.rst:910
 msgid ""
@@ -3275,7 +3271,7 @@ msgid ""
 "When Skullmulcher enters the battlefield, draw a card for each creature it "
 "devoured."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdego stwora, "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę za każdego stwora, "
 "którego pożarł."
 
 #: ../../2XM.rst:938
@@ -3310,9 +3306,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
-"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
-"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy byt umieszczony w cmentarzu w ten "
+"sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../2XM.rst:948
 msgid ""
@@ -3323,7 +3319,7 @@ msgstr ""
 
 #: ../../2XM.rst:945
 msgid "When Thragtusk enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../2XM.rst:947
 msgid ""
@@ -3435,21 +3431,18 @@ msgid ""
 "Arixmethes, Slumbering Isle enters the battlefield tapped with five slumber "
 "counters on it."
 msgstr ""
-"Ten permanent wchodzi przekręcony na pole bitwy z pięcioma znacznikami "
-"drzemki."
+"Ten byt wchodzi przekręcony na pole bitwy z pięcioma znacznikami drzemki."
 
 #: ../../2XM.rst:979
 msgid ""
 "As long as Arixmethes has a slumber counter on it, it's a land. (It's not a "
 "creature.)"
-msgstr ""
-"O ile ten permanent ma znacznik drzemki, jest lądem. (Nie jest stworem.)"
+msgstr "O ile ten byt ma znacznik drzemki, jest lądem. (Nie jest stworem.)"
 
 #: ../../2XM.rst:981
 msgid ""
 "Whenever you cast a spell, you may remove a slumber counter from Arixmethes."
-msgstr ""
-"Ilekroć rzucisz czar, możesz usunąć znacznik drzemki z tego permanentu."
+msgstr "Ilekroć rzucisz czar, możesz usunąć znacznik drzemki z tego bytu."
 
 #: ../../2XM.rst:983
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
@@ -3472,9 +3465,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
-"Na początku twojego kroku końcowego, rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, po czym daj każdemu kolejny znacznik każdego "
-"posiadanego przezeń rodzaju.)"
+"Na początku twojego kroku końcowego, rozpleń. (Wybierz dowolną liczbę bytów "
+"i/lub graczy, po czym daj każdemu kolejny znacznik każdego posiadanego "
+"przezeń rodzaju.)"
 
 #: ../../2XM.rst:996
 msgid ""
@@ -3485,7 +3478,7 @@ msgstr ""
 
 #: ../../2XM.rst:995
 msgid "When Baleful Strix enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../2XM.rst:1008
 msgid ""
@@ -3499,7 +3492,7 @@ msgid ""
 "When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue "
 "Thopter artifact creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony niebieskiego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony niebieskiego "
 "artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../2XM.rst:1001
@@ -3674,9 +3667,9 @@ msgid ""
 "left the battlefield this turn, create a 1/1 colorless Servo artifact "
 "creature token."
 msgstr ""
-"Rewolta — Na początku twojego kroku końcowego, jeśli permanent pod twoim "
-"władaniem opuścił pole bitwy w tej turze, stwórz żeton bezkolorowego "
-"artefaktowego stwora Serwo 1/1."
+"Rewolta — Na początku twojego kroku końcowego, jeśli byt pod twoim władaniem "
+"opuścił pole bitwy w tej turze, stwórz żeton bezkolorowego artefaktowego "
+"stwora Serwo 1/1."
 
 #: ../../2XM.rst:1055
 msgid "|mana_1|, Sacrifice a creature: Scry 1."
@@ -3748,8 +3741,8 @@ msgid ""
 "When Karrthus, Tyrant of Jund enters the battlefield, gain control of all "
 "Dragons, then untap all Dragons."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wszystkimi "
-"Smokami, po czym odkręć wszystkie Smoki."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj władanie nad wszystkimi Smokami, "
+"po czym odkręć wszystkie Smoki."
 
 #: ../../2XM.rst:1083
 msgid "Other Dragon creatures you control have haste."
@@ -3786,8 +3779,8 @@ msgid ""
 "Destroy target nonland permanent and all other permanents with the same name "
 "as that permanent."
 msgstr ""
-"Zniszcz wskazany nielądowy permanent i wszystkie inne permanenty mające tę "
-"samą nazwę co on."
+"Zniszcz wskazany nielądowy byt i wszystkie inne byty mające tę samą nazwę co "
+"on."
 
 #: ../../2XM.rst:1098
 msgid ""
@@ -3813,8 +3806,8 @@ msgid ""
 "Whenever a player sacrifices another permanent, put a +1/+1 counter on each "
 "creature you control."
 msgstr ""
-"Ilekroć gracz poświęci inny permanent, umieść znacznik +1/+1 na każdym "
-"stworze pod twoim władaniem."
+"Ilekroć gracz poświęci inny byt, umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem."
 
 #: ../../2XM.rst:1110
 msgid ""
@@ -3869,8 +3862,8 @@ msgid ""
 "upkeep, if this creature isn't a token, create a token that's a copy of this "
 "creature.\""
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
-"stwora na polu bitwy, ale dodatkowo ma zdolność \"Na początku twojego kroku "
+"Możesz sprawić, że ten byt wejdzie na pole bitwy jako kopia dowolnego stwora "
+"na polu bitwy, ale dodatkowo ma zdolność \"Na początku twojego kroku "
 "utrzymania, jeśli ten stwór nie jest żetonem, stwórz żeton będący kopią tego "
 "stwora.\""
 
@@ -4019,7 +4012,7 @@ msgid ""
 "When Sharuum the Hegemon enters the battlefield, you may return target "
 "artifact card from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "artefaktu z twojego cmentarza na pole bitwy."
 
 #: ../../2XM.rst:1176
@@ -4034,7 +4027,7 @@ msgid ""
 "When Sphinx Summoner enters the battlefield, you may search your library for "
 "an artifact creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu lub stwora, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
@@ -4350,8 +4343,8 @@ msgid ""
 "Imprint — When Chrome Mox enters the battlefield, you may exile a "
 "nonartifact, nonland card from your hand."
 msgstr ""
-"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać "
-"nieartefaktową, nielądową kartę z twojej ręki."
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, możesz wygnać nieartefaktową, "
+"nielądową kartę z twojej ręki."
 
 #: ../../2XM.rst:1289
 msgid "|tap|: Add one mana of any of the exiled card's colors."
@@ -4370,7 +4363,7 @@ msgid ""
 "cards of your library, exile one face down, then put the rest on the bottom "
 "of your library in any order."
 msgstr ""
-"Odlew — Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
 "karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
 "dowolnie na spodzie twojej biblioteki."
 
@@ -4516,7 +4509,7 @@ msgid ""
 "Imprint — When Duplicant enters the battlefield, you may exile target "
 "nontoken creature."
 msgstr ""
-"Odlew — Kiedy ten stwór wejdzie na pole bitwy możesz wygnać wskazanego "
+"Odlew — Kiedy ten byt wejdzie na pole bitwy możesz wygnać wskazanego "
 "nieżetonowego stwora."
 
 #: ../../2XM.rst:1341
@@ -4542,7 +4535,7 @@ msgid ""
 "scry 1, look at the top card of your library, then you may put that card on "
 "the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
 "1, spójrz na wierzchnią kartę twojej biblioteki, po czym możesz umieścić ową "
 "kartę na spodzie twojej biblioteki.)"
 
@@ -4573,7 +4566,7 @@ msgid ""
 "Sunburst (This enters the battlefield with a charge counter on it for each "
 "color of mana spent to cast it.)"
 msgstr ""
-"Rozbłysk słońca (Ten permanent wchodzi na pole bitwy mając tyle znaczników "
+"Rozbłysk słońca (Ten byt wchodzi na pole bitwy mając tyle znaczników "
 "ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../2XM.rst:1355
@@ -4582,8 +4575,8 @@ msgid ""
 "with mana value equal to the number of charge counters on Engineered "
 "Explosives."
 msgstr ""
-"|mana_2|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent o skrócie "
-"many równym liczbie znaczników ładowania na tym artefakcie."
+"|mana_2|, poświęć ten artefakt: Zniszcz każdy nielądowy byt o skrócie many "
+"równym liczbie znaczników ładowania na tym artefakcie."
 
 #: ../../2XM.rst:1360
 msgid ""
@@ -4762,7 +4755,7 @@ msgid ""
 "When Iron Bully enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../2XM.rst:1422
@@ -4784,8 +4777,8 @@ msgid ""
 "Imprint — When Isochron Scepter enters the battlefield, you may exile an "
 "instant card with mana value 2 or less from your hand."
 msgstr ""
-"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, możesz wygnać kartę "
-"sztuczki o skrócie many 2 lub mniejszym z twojej ręki."
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, możesz wygnać kartę sztuczki o "
+"skrócie many 2 lub mniejszym z twojej ręki."
 
 #: ../../2XM.rst:1427
 msgid ""
@@ -4860,8 +4853,7 @@ msgid ""
 "|tap|, Remove three charge counters from Lux Cannon: Destroy target "
 "permanent."
 msgstr ""
-"|tap|, usuń trzy znaczniki ładunku z tego artefaktu: Zniszcz wskazany "
-"permanent."
+"|tap|, usuń trzy znaczniki ładunku z tego artefaktu: Zniszcz wskazany byt."
 
 #: ../../2XM.rst:1456
 msgid ""
@@ -4931,7 +4923,7 @@ msgstr ""
 msgid ""
 "Whenever a permanent becomes untapped, that permanent's controller mills a "
 "card."
-msgstr "Ilekroć permanent zostanie odkręcony, jego władca mieli kartę."
+msgstr "Ilekroć byt zostanie odkręcony, jego władca mieli kartę."
 
 #: ../../2XM.rst:1476
 msgid ""
@@ -4945,8 +4937,7 @@ msgstr ""
 msgid ""
 "When Metalspinner's Puzzleknot enters the battlefield, you draw a card and "
 "you lose 1 life."
-msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../2XM.rst:1475
 msgid ""
@@ -4997,7 +4988,7 @@ msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
 "artefaktowego stwora Myr 1/1."
 
 #: ../../2XM.rst:1489
@@ -5065,9 +5056,8 @@ msgid ""
 "without a fate counter on it, then remove all fate counters from all "
 "permanents."
 msgstr ""
-"|mana_5|, |tap|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent bez "
-"znacznika losu, po czym usuń wszystkie znaczniki losu ze wszystkich "
-"permanentów."
+"|mana_5|, |tap|, poświęć ten artefakt: Zniszcz każdy nielądowy byt bez "
+"znacznika losu, po czym usuń wszystkie znaczniki losu ze wszystkich bytów."
 
 #: ../../2XM.rst:1512
 msgid ""
@@ -5078,7 +5068,7 @@ msgstr ""
 
 #: ../../2XM.rst:1511
 msgid "When Peace Strider enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../2XM.rst:1518
 msgid ""
@@ -5140,8 +5130,8 @@ msgid ""
 "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana "
 "value equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
-"|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy permanent, o skrócie "
-"many równym liczbie znaczników ładunku na tym artefakcie."
+"|tap|, poświęć ten artefakt: Zniszcz każdy nie-lądowy byt, o skrócie many "
+"równym liczbie znaczników ładunku na tym artefakcie."
 
 #: ../../2XM.rst:1542
 msgid ""
@@ -5155,8 +5145,8 @@ msgid ""
 "When Sandstone Oracle enters the battlefield, choose an opponent. If that "
 "player has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz "
-"ma więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
+"Kiedy ten byt wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz ma "
+"więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
 
 #: ../../2XM.rst:1546
 msgid ""
@@ -5258,8 +5248,8 @@ msgid ""
 "When Sundering Titan enters or leaves the battlefield, choose a land of each "
 "basic land type, then destroy those lands."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po jednym "
-"lądzie każdego bazowego typu, po czym zniszcz owe lądy."
+"Kiedy ten byt wejdzie na pole bitwy lub je opuści, wybierz po jednym lądzie "
+"każdego bazowego typu, po czym zniszcz owe lądy."
 
 #: ../../2XM.rst:1590
 msgid ""
@@ -5445,7 +5435,7 @@ msgid ""
 "|tap|, Sacrifice an artifact: Proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
-"|tap|, poświęć artefakt: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
+"|tap|, poświęć artefakt: Rozpleń. (Wybierz dowolną liczbę bytów i/lub "
 "graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../2XM.rst:1652

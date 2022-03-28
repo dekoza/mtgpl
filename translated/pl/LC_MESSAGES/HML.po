@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hml/pl/>\n"
 "Language: pl\n"
@@ -1055,7 +1055,7 @@ msgid ""
 "When Sengir Autocrat enters the battlefield, create three 0/1 black Serf "
 "creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czarnego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony czarnego stwora "
 "Kmieć 0/1."
 
 #: ../../HML.rst:293
@@ -1608,7 +1608,7 @@ msgstr "Zaurocz stwora bez latania"
 
 #: ../../HML.rst:493
 msgid "When Roots enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../HML.rst:495
 msgid "Enchanted creature doesn't untap during its controller's untap step."

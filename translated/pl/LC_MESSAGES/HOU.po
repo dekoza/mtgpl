@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hou/pl/>\n"
 "Language: pl\n"
@@ -337,7 +337,7 @@ msgstr ""
 
 #: ../../HOU.rst:35
 msgid "When Aven of Enduring Hope enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../HOU.rst:42
 msgid ""
@@ -386,7 +386,7 @@ msgid ""
 "When Desert's Hold enters the battlefield, if you control a Desert or there "
 "is a Desert card in your graveyard, you gain 3 life."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
 "cmentarzu jest karta Pustyni, zyskaj 3 życia."
 
 #: ../../HOU.rst:55
@@ -409,7 +409,7 @@ msgid ""
 "When Disposal Mummy enters the battlefield, exile target card from an "
 "opponent's graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza "
 "przeciwnika."
 
 #: ../../HOU.rst:68
@@ -429,7 +429,7 @@ msgid ""
 "library for a planeswalker card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę wędrowca, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../HOU.rst:67
@@ -501,11 +501,11 @@ msgid ""
 "permanents on the battlefield."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_3| mniej, jeśli na polu bitwy jest co "
-"najmniej dziesięć nie-lądowych permanentów."
+"najmniej dziesięć nie-lądowych bytów."
 
 #: ../../HOU.rst:91
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nielądowe permanenty."
+msgstr "Zniszcz wszystkie nielądowe byty."
 
 #: ../../HOU.rst:96
 msgid ""
@@ -614,9 +614,9 @@ msgid ""
 "this turn to you and permanents you control is dealt to enchanted creature "
 "instead."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wszystkie obrażenia, jakie miałyby "
-"zostać w tej turze zadane tobie i permanentom pod twoim władaniem, zamiast "
-"tego zostają zadane zauroczonemu stworowi."
+"Kiedy ten byt wejdzie na pole bitwy, wszystkie obrażenia, jakie miałyby "
+"zostać w tej turze zadane tobie i bytom pod twoim władaniem, zamiast tego "
+"zostają zadane zauroczonemu stworowi."
 
 #: ../../HOU.rst:125
 msgid "Enchanted creature gets +0/+3."
@@ -704,7 +704,7 @@ msgid ""
 "When Sunscourge Champion enters the battlefield, you gain life equal to its "
 "power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi jego siła."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi jego siła."
 
 #: ../../HOU.rst:151
 msgid ""
@@ -795,7 +795,7 @@ msgid ""
 "When Champion of Wits enters the battlefield, you may draw cards equal to "
 "its power. If you do, discard two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz dobrać tyle kart, ile wynosi "
+"Kiedy ten byt wejdzie na pole bitwy, możesz dobrać tyle kart, ile wynosi "
 "jego siła. Jeśli tak zrobisz, odrzuć dwie karty."
 
 #: ../../HOU.rst:181
@@ -1189,7 +1189,7 @@ msgid ""
 "When Unquenchable Thirst enters the battlefield, if you control a Desert or "
 "there is a Desert card in your graveyard, tap enchanted creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
 "cmentarzu jest karta Pustyni, przekręć zauroczonego stwora."
 
 #: ../../HOU.rst:305
@@ -1220,7 +1220,7 @@ msgid ""
 "library for a creature card with eternalize or embalm, put that card into "
 "your graveyard, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora z uwiecznieniem lub balsamowaniem, umieść ową kartę w twoim "
 "cmentarzu, po czym przetasuj."
 
@@ -1309,7 +1309,7 @@ msgid ""
 "When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter "
 "on target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić znacznik -1/-1 na "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić znacznik -1/-1 na "
 "wskazanym stworze."
 
 #: ../../HOU.rst:341
@@ -1468,8 +1468,8 @@ msgid ""
 "Destroy target black creature or black planeswalker. If that permanent was a "
 "Liliana planeswalker, her controller loses 3 life."
 msgstr ""
-"Zniszcz wskazanego czarnego stwora lub czarnego wędrowca. Jeśli ów permanent "
-"był wędrowcem o typie Liliana, jego władca traci 3 życia."
+"Zniszcz wskazanego czarnego stwora lub czarnego wędrowca. Jeśli ów byt był "
+"wędrowcem o typie Liliana, jego władca traci 3 życia."
 
 #: ../../HOU.rst:392
 msgid ""
@@ -1595,7 +1595,7 @@ msgid ""
 "player sacrifices a nonland permanent or discards a card."
 msgstr ""
 "Powtórz następujący proces X razy. Każdy przeciwnik traci 3 życia, chyba że "
-"poświęci nie-lądowy permanent lub odrzuci kartę."
+"poświęci nie-lądowy byt lub odrzuci kartę."
 
 #: ../../HOU.rst:440
 msgid ""
@@ -1610,7 +1610,7 @@ msgid ""
 "unless they sacrifice a nonland permanent or discard a card."
 msgstr ""
 "Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 3 życia, "
-"chyba że poświęci nie-lądowy permanent lub odrzuci kartę."
+"chyba że poświęci nie-lądowy byt lub odrzuci kartę."
 
 #: ../../HOU.rst:444
 msgid ""
@@ -1625,7 +1625,7 @@ msgid ""
 "unless they sacrifice another nonland permanent or discards a card."
 msgstr ""
 "Umieść trzy znaczniki -1/-1 na wskazanym stworze. Jego władca traci 3 życia, "
-"chyba że poświęci nie-lądowy permanent lub odrzuci kartę."
+"chyba że poświęci nie-lądowy byt lub odrzuci kartę."
 
 #: ../../HOU.rst:450
 msgid ""
@@ -1735,8 +1735,8 @@ msgid ""
 "do, draw a card."
 msgstr ""
 "Ten czar zadaje wskazanemu czerwonemu stworowi lub czerwonemu wędrowcowi 5 "
-"obrażeń. Jeśli ów permanent jest wędrowcem o typie Chandra, możesz odrzucić "
-"kartę. Jeśli tak zrobisz, dobierz kartę."
+"obrażeń. Jeśli ów byt jest wędrowcem o typie Chandra, możesz odrzucić kartę. "
+"Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../HOU.rst:486
 msgid ""
@@ -1750,7 +1750,7 @@ msgid ""
 "When Chaos Maw enters the battlefield, it deals 3 damage to each other "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje każdemu innemu stworowi po 3 "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje każdemu innemu stworowi po 3 "
 "obrażenia."
 
 #: ../../HOU.rst:492
@@ -1797,7 +1797,7 @@ msgid ""
 "When Earthshaker Khenra enters the battlefield, target creature with power "
 "less than or equal to Earthshaker Khenra's power can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór o sile mniejszej lub "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór o sile mniejszej lub "
 "równej sile tego stwora nie może blokować w tej turze."
 
 #: ../../HOU.rst:503
@@ -2056,7 +2056,7 @@ msgid ""
 "is a Desert card in your graveyard, you may have Sand Strangler deal 3 "
 "damage to target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz Pustynią lub w twoim "
 "cmentarzu jest karta Pustyni, możesz sprawić, by ten stwór zadał wskazanemu "
 "stworowi 3 obrażenia."
 
@@ -2290,8 +2290,8 @@ msgid ""
 "Destroy target Forest, green enchantment, or green planeswalker. If that "
 "permanent was a Nissa planeswalker, draw a card."
 msgstr ""
-"Zniszcz wskazany Las, zielony urok, lub zielonego wędrowca. Jeśli ów "
-"permanent był wędrowcem o typie Nissa, dobierz kartę."
+"Zniszcz wskazany Las, zielony urok, lub zielonego wędrowca. Jeśli ów byt był "
+"wędrowcem o typie Nissa, dobierz kartę."
 
 #: ../../HOU.rst:670
 msgid ""
@@ -2361,8 +2361,8 @@ msgid ""
 "When Quarry Beetle enters the battlefield, you may return target land card "
 "from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę lądu "
-"z twojego cmentarza na pole bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę lądu z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../HOU.rst:690
 msgid ""
@@ -2418,7 +2418,7 @@ msgid ""
 "When Resilient Khenra enters the battlefield, you may have target creature "
 "get +X/+X until end of turn, where X is Resilient Khenra's power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, by wskazany stwór "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, by wskazany stwór "
 "dostał do końca tury +X/+X , gdzie X jest siłą niniejszego stwora."
 
 #: ../../HOU.rst:707
@@ -2493,7 +2493,7 @@ msgid ""
 "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
 "your library. You gain life equal to that card's mana value."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 3, po czym ujawnij wierzchnią "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 3, po czym ujawnij wierzchnią "
 "kartę twojej biblioteki. Zyskaj tyle żyć, ile wynosi skrót many owej karty."
 
 #: ../../HOU.rst:730
@@ -2538,8 +2538,8 @@ msgid ""
 "When Bloodwater Entity enters the battlefield, you may put target instant or "
 "sorcery card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić wskazaną kartę "
-"sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić wskazaną kartę sztuczki "
+"lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../HOU.rst:752
 msgid ""
@@ -2601,8 +2601,7 @@ msgstr ""
 #: ../../HOU.rst:761
 msgid "−12: Exile each nonland permanent your opponents control."
 msgstr ""
-"–12: Wygnaj wszystkie nie-lądowe permanenty pod władaniem twoich "
-"przeciwników."
+"–12: Wygnaj wszystkie nie-lądowe byty pod władaniem twoich przeciwników."
 
 #: ../../HOU.rst:770
 msgid ""
@@ -2813,7 +2812,7 @@ msgstr ""
 
 #: ../../HOU.rst:825
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
 #: ../../HOU.rst:832
 msgid ""
@@ -2917,8 +2916,7 @@ msgstr ""
 
 #: ../../HOU.rst:865
 msgid "Return any number of target permanents you own to your hand."
-msgstr ""
-"Przywróć dowolną liczbę wskazanych własnych permanentów do twojej ręki."
+msgstr "Przywróć dowolną liczbę wskazanych własnych bytów do twojej ręki."
 
 #: ../../HOU.rst:872
 msgid ""
@@ -3228,7 +3226,7 @@ msgstr ""
 
 #: ../../HOU.rst:973
 msgid "When Crypt of the Eternals enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../HOU.rst:975 ../../HOU.rst:1021 ../../HOU.rst:1027 ../../HOU.rst:1035
 #: ../../HOU.rst:1043 ../../HOU.rst:1049 ../../HOU.rst:1057 ../../HOU.rst:1065
@@ -3740,10 +3738,9 @@ msgid ""
 "or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put "
 "it into your hand. If you search your library this way, shuffle."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
-"bibliotece i/lub cmentarzu kartę o nazwie Nicol Bolas, the Deceiver, ujawnij "
-"ją i umieść w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, "
-"przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
+"lub cmentarzu kartę o nazwie Nicol Bolas, the Deceiver, ujawnij ją i umieść "
+"w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../HOU.rst:1159
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."

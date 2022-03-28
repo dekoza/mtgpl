@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 07:29+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
 "Language: pl\n"
@@ -639,7 +639,7 @@ msgstr ""
 
 #: ../../WTH.rst:139
 msgid "|mana_w|\\ |mana_w|, |tap|: Destroy target red permanent."
-msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany czerwony permanent."
+msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany czerwony byt."
 
 #: ../../WTH.rst:144
 msgid ""
@@ -674,7 +674,7 @@ msgstr ""
 
 #: ../../WTH.rst:155
 msgid "When Abduction enters the battlefield, untap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, odkręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, odkręć zauroczonego stwora."
 
 #: ../../WTH.rst:157
 msgid "You control enchanted creature."
@@ -1016,7 +1016,7 @@ msgid ""
 "When Sage Owl enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności."
 
 #: ../../WTH.rst:290
@@ -1302,7 +1302,7 @@ msgid ""
 "When Hidden Horror enters the battlefield, sacrifice it unless you discard a "
 "creature card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz kartę "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że odrzucisz kartę "
 "stwora."
 
 #: ../../WTH.rst:390
@@ -1834,7 +1834,7 @@ msgstr "Pośpiech"
 
 #: ../../WTH.rst:565
 msgid "When Lava Hounds enters the battlefield, it deals 4 damage to you."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zadaje on tobie 4 obrażenia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zadaje on tobie 4 obrażenia."
 
 #: ../../WTH.rst:570
 msgid ""
@@ -1946,7 +1946,7 @@ msgstr ""
 
 #: ../../WTH.rst:603
 msgid "When Thundermare enters the battlefield, tap all other creatures."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie inne stwory."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć wszystkie inne stwory."
 
 #: ../../WTH.rst:608
 msgid ""
@@ -2202,7 +2202,7 @@ msgid ""
 "mana_g|. If you do, search your library for a card named Llanowar Sentinel, "
 "put that card onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
 "Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę o tej samej nazwie, "
 "umieść ją na polu bitwy, po czym przetasuj."
 
@@ -2279,7 +2279,7 @@ msgstr ""
 
 #: ../../WTH.rst:717
 msgid "When Striped Bears enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../WTH.rst:722
 msgid ""

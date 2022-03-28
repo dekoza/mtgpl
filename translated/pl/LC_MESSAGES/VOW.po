@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-25 20:40+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -271,7 +271,7 @@ msgid ""
 "When Angelic Quartermaster enters the battlefield, put a +1/+1 counter on "
 "each of up to two other target creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
 "najwyżej dwóch innych wskazanych stworów."
 
 #: ../../VOW.rst:20
@@ -344,7 +344,7 @@ msgstr "Błysk"
 msgid ""
 "When Cemetery Protector enters the battlefield, exile a card from a "
 "graveyard."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wygnaj kartę z cmentarza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj kartę z cmentarza."
 
 #: ../../VOW.rst:37
 msgid ""
@@ -367,9 +367,9 @@ msgid ""
 "opponent controls with mana value 3 or less until Circle of Confinement "
 "leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora o skrócie "
-"many 3 lub mniejszym spod władania przeciwnika dopóki ten urok nie opuści "
-"pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora o skrócie many "
+"3 lub mniejszym spod władania przeciwnika dopóki ten urok nie opuści pola "
+"bitwy."
 
 #: ../../VOW.rst:43
 msgid ""
@@ -725,7 +725,7 @@ msgid ""
 "Katilda, Dawnhart Martyr's power and toughness are each equal to the number "
 "of permanents you control that are Spirits and/or enchantments."
 msgstr ""
-"Siła i wytrzymałość tej karty są obie równe liczbie permanentów pod twoim "
+"Siła i wytrzymałość tej karty są obie równe liczbie bytów pod twoim "
 "władaniem będących Duchem i/lub urokiem."
 
 #: ../../VOW.rst:155
@@ -751,8 +751,8 @@ msgid ""
 "Spirits and/or enchantments."
 msgstr ""
 "Zauroczony stwór ma latanie, więź życia i ochronę przed Wampirami oraz "
-"dostaje +X/+X, gdzie X jest liczbą permanentów pod twoim władaniem będących "
-"Duchem i/lub urokiem."
+"dostaje +X/+X, gdzie X jest liczbą bytów pod twoim władaniem będących Duchem "
+"i/lub urokiem."
 
 #: ../../VOW.rst:163
 msgid ""
@@ -871,8 +871,8 @@ msgid ""
 "When Nurturing Presence enters the battlefield, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 "
-"z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../VOW.rst:208
 msgid ""
@@ -1011,7 +1011,7 @@ msgid ""
 "When Resistance Squad enters the battlefield, if you control another Human, "
 "draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym Człowiekiem, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Człowiekiem, "
 "dobierz kartę."
 
 #: ../../VOW.rst:252
@@ -1322,8 +1322,7 @@ msgstr ""
 #: ../../VOW.rst:351
 msgid "Return target nonland permanent [you control] to its owner's hand."
 msgstr ""
-"Przywróć wskazany nielądowy permanent [pod twoim władaniem] do ręki "
-"właściciela."
+"Przywróć wskazany nielądowy byt [pod twoim władaniem] do ręki właściciela."
 
 #: ../../VOW.rst:358
 msgid ""
@@ -1382,7 +1381,7 @@ msgstr "Obronność"
 
 #: ../../VOW.rst:371
 msgid "When Biolume Egg enters the battlefield, scry 2."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 2."
 
 #: ../../VOW.rst:373
 msgid ""
@@ -1415,7 +1414,7 @@ msgid ""
 "Whenever Cemetery Illuminator enters the battlefield or attacks, exile a "
 "card from a graveyard."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wygnaj kartę z "
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, wygnaj kartę z "
 "cmentarza."
 
 #: ../../VOW.rst:385
@@ -1502,9 +1501,9 @@ msgid ""
 "permanents not chosen this way to their owners' hands. Then you draw a card "
 "for each opponent who has more cards in their hand than you."
 msgstr ""
-"Każdy gracz wybiera nielądowy permanent pod swoim władaniem. Przywróć "
-"wszystkie nie wybrane nielądowe permanenty do rąk ich właścicieli. Następnie "
-"dobierz kartę za każdego przeciwnika mającego więcej kart w ręce niż ty."
+"Każdy gracz wybiera nielądowy byt pod swoim władaniem. Przywróć wszystkie "
+"nie wybrane nielądowe byty do rąk ich właścicieli. Następnie dobierz kartę "
+"za każdego przeciwnika mającego więcej kart w ręce niż ty."
 
 #: ../../VOW.rst:422
 msgid ""
@@ -1519,7 +1518,7 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, zauroczony stwór zyskuje do końca tury "
+"Kiedy ten byt wejdzie na pole bitwy, zauroczony stwór zyskuje do końca tury "
 "antyklątwę. (Nie może być on wskazywany przez czary lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
@@ -1555,8 +1554,7 @@ msgstr ""
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
-msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+msgstr "Wyzysk (Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić stwora.)"
 
 #: ../../VOW.rst:433
 msgid ""
@@ -1620,7 +1618,7 @@ msgid ""
 "When Fear of Death enters the battlefield, mill two cards. (Put the top two "
 "cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, zmiel dwie karty. (Umieść dwie "
+"Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty. (Umieść dwie "
 "wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../VOW.rst:457
@@ -1731,7 +1729,7 @@ msgstr "Przywróć wskazany czar poza twoim władaniem do ręki właściciela."
 
 #: ../../VOW.rst:495 ../../VOW.rst:505
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
 #: ../../VOW.rst:506
 msgid ""
@@ -1803,7 +1801,7 @@ msgid ""
 "among the cards exiled with this permanent without paying its mana cost."
 msgstr ""
 "Raz na każdą z twoich tur możesz zagrać kartę lądu lub rzucić czar spośród "
-"kart wygnanych tym permanentem bez płacenia jego kosztu many."
+"kart wygnanych tym bytem bez płacenia jego kosztu many."
 
 #: ../../VOW.rst:528
 msgid ""
@@ -2094,7 +2092,7 @@ msgid ""
 "When Skywarp Skaab enters the battlefield, you may exile two creature cards "
 "from your graveyard. If you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać dwie karty stworów z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać dwie karty stworów z "
 "twojego cmentarza. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../VOW.rst:632
@@ -2415,9 +2413,8 @@ msgid ""
 "artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
-"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
+"\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:727
 msgid ""
@@ -2445,9 +2442,8 @@ msgid ""
 "(It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
-"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
+"\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:735
 msgid ""
@@ -2578,7 +2574,7 @@ msgid ""
 "When Cemetery Desecrator enters the battlefield or dies, exile another card "
 "from a graveyard. When you do, choose one —"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, wygnaj inną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, wygnaj inną kartę z "
 "cmentarza. Kiedy tak zrobisz, wybierz jedno —"
 
 #: ../../VOW.rst:769
@@ -2586,8 +2582,8 @@ msgid ""
 "Remove X counters from target permanent, where X is the mana value of the "
 "exiled card."
 msgstr ""
-"Usuń X znaczników ze wskazanego permanentu, gdzie X jest skrótem many "
-"wygnanej karty."
+"Usuń X znaczników ze wskazanego bytu, gdzie X jest skrótem many wygnanej "
+"karty."
 
 #: ../../VOW.rst:771
 msgid ""
@@ -2642,7 +2638,7 @@ msgid ""
 "When Courier Bat enters the battlefield, if you gained life this turn, "
 "return up to one target creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli zyskałeś życie w tej turze, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli zyskałeś życie w tej turze, "
 "przywróć co najwyżej jedną wskazaną kartę stwora z twojego cmentarza do "
 "twojej ręki."
 
@@ -2699,9 +2695,9 @@ msgid ""
 "from a graveyard. If a creature card was exiled this way, each opponent "
 "loses 2 life and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj co najwyżej jedną wskazaną "
-"kartę z cmentarza. Jeśli wygnano w ten sposób kartę stwora, każdy przeciwnik "
-"traci po 2 życia, a ty zyskaj 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj co najwyżej jedną wskazaną kartę "
+"z cmentarza. Jeśli wygnano w ten sposób kartę stwora, każdy przeciwnik traci "
+"po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../VOW.rst:814
 msgid ""
@@ -2854,9 +2850,8 @@ msgid ""
 "artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
-"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
+"\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:865
 msgid "Whenever you sacrifice a Blood token, you gain 1 life."
@@ -3196,7 +3191,7 @@ msgid ""
 "controls gets -2/-2 until end of turn if that opponent controls no other "
 "creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -2/-2 jeśli ów przeciwnik nie ma innych "
 "stworów we władaniu."
 
@@ -3269,7 +3264,7 @@ msgid ""
 "When Undead Butler enters the battlefield, mill three cards. (Put the top "
 "three cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty. (Umieść trzy "
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. (Umieść trzy "
 "wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../VOW.rst:999
@@ -3618,7 +3613,7 @@ msgstr ""
 msgid ""
 "When Cemetery Gatekeeper enters the battlefield, exile a card from a "
 "graveyard."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wygnaj kartę z cmentarza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj kartę z cmentarza."
 
 #: ../../VOW.rst:1105
 msgid ""
@@ -3733,8 +3728,8 @@ msgid ""
 "When Daybreak Combatants enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+2/+0."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+0."
 
 #: ../../VOW.rst:1142
 msgid ""
@@ -3750,7 +3745,7 @@ msgid ""
 "control until end of turn. Untap that creature. It gains haste until end of "
 "turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
 "wskazanym stworem o skrócie many mniejszym lub równym liczbie Wampirów pod "
 "twoim władaniem. Odkręć owego stwora. Do końca tury zyskuje on pośpiech."
 
@@ -3789,7 +3784,7 @@ msgid ""
 "(They're artifacts with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Krwi. (To artefakty "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony Krwi. (To artefakty "
 "mające \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
 "\")"
 
@@ -3901,7 +3896,7 @@ msgid ""
 "Whenever a permanent you control is dealt damage, Howlpack Avenger deals "
 "that much damage to any target."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem otrzyma obrażenia, ten stwór zadaje "
+"Ilekroć byt pod twoim władaniem otrzyma obrażenia, ten stwór zadaje "
 "wskazanemu celowi tyle samo obrażeń."
 
 #: ../../VOW.rst:1197
@@ -4141,9 +4136,8 @@ msgid ""
 "permanent is a Spirit, Rending Flame also deals 2 damage to that permanent's "
 "controller."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń. Jeśli ów "
-"permanent jest Duchem, ten czar zadaje dodatkowo 2 obrażenia władcy owego "
-"permanentu."
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń. Jeśli ów byt "
+"jest Duchem, ten czar zadaje dodatkowo 2 obrażenia władcy owego bytu."
 
 #: ../../VOW.rst:1278
 msgid ""
@@ -4173,9 +4167,8 @@ msgid ""
 "an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
-"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
+"\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1283
 msgid ""
@@ -4199,8 +4192,8 @@ msgid ""
 "Uprising. When you do, it deals 7 damage to any target."
 msgstr ""
 "Na początku twojego kroku końcowego, stwórz żeton czerwonego stwora Człowiek "
-"1/1. Następnie jeśli władasz dokładnie trzynastoma permanentami, możesz "
-"poświęcić ten urok. Kiedy to zrobisz, zadaje on wskazanemu celowi 7 obrażeń."
+"1/1. Następnie jeśli władasz dokładnie trzynastoma bytami, możesz poświęcić "
+"ten urok. Kiedy to zrobisz, zadaje on wskazanemu celowi 7 obrażeń."
 
 #: ../../VOW.rst:1292
 msgid ""
@@ -4283,7 +4276,7 @@ msgid ""
 "opponent. Create a Blood token. (It's an artifact with \"|mana_1|, |tap|, "
 "Discard a card, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 1 "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 1 "
 "obrażeniu. Stwórz żeton Krwi. (To artefakt mający \"|mana_1|, |tap|, odrzuć "
 "kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
@@ -4364,8 +4357,8 @@ msgid ""
 "Ascendant Packleader enters the battlefield with a +1/+1 counter on it if "
 "you control a permanent with mana value 4 or greater."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 jeśli władasz "
-"permanentem o skrócie many 4 lub większym."
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 jeśli władasz bytem o "
+"skrócie many 4 lub większym."
 
 #: ../../VOW.rst:1349
 msgid ""
@@ -4405,7 +4398,7 @@ msgstr ""
 
 #: ../../VOW.rst:1363
 msgid "Other permanents you control have hexproof."
-msgstr "Inne permanenty pod twoim władaniem mają antyklątwę."
+msgstr "Inne byty pod twoim władaniem mają antyklątwę."
 
 #: ../../VOW.rst:1365
 msgid ""
@@ -4427,7 +4420,7 @@ msgid ""
 "When Bramble Armor enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../VOW.rst:1373
@@ -4455,7 +4448,7 @@ msgstr "Zasięg, tratowanie"
 
 #: ../../VOW.rst:1381
 msgid "When Bramble Wurm enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../VOW.rst:1383
 msgid ""
@@ -4492,7 +4485,7 @@ msgid ""
 "Whenever Cemetery Prowler enters the battlefield or attacks, exile a card "
 "from a graveyard."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wygnaj kartę z "
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, wygnaj kartę z "
 "cmentarza."
 
 #: ../../VOW.rst:1395
@@ -4580,7 +4573,7 @@ msgid ""
 "from your hand onto the battlefield tapped. If you do, draw a card and "
 "repeat this process."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić z twojej ręki na polu "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić z twojej ręki na polu "
 "bitwy przekręconą kartę lądu. Jeśli tak zrobisz, dobierz kartę i powtórz ten "
 "proces."
 
@@ -4665,8 +4658,8 @@ msgid ""
 "When Flourishing Hunter enters the battlefield, you gain life equal to the "
 "greatest toughness among other creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi "
-"największa wytrzymałość pośród stworów pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi największa "
+"wytrzymałość pośród stworów pod twoim władaniem."
 
 #: ../../VOW.rst:1460
 msgid ""
@@ -4817,10 +4810,10 @@ msgid ""
 "card from among them and put it into your hand. Put the rest on the bottom "
 "of your library in a random order."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub transformuje na tę stronę, "
-"spójrz na sześć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"nich kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
-"spodzie twojej biblioteki."
+"Ilekroć ten byt wejdzie na pole bitwy lub transformuje na tę stronę, spójrz "
+"na sześć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich "
+"kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie "
+"twojej biblioteki."
 
 #: ../../VOW.rst:1508
 msgid ""
@@ -4835,8 +4828,8 @@ msgid ""
 "Whenever Infestation Expert enters the battlefield or attacks, create a 1/1 "
 "green Insect creature token."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, stwórz żeton "
-"zielonego stwora Owad 1/1."
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, stwórz żeton zielonego "
+"stwora Owad 1/1."
 
 #: ../../VOW.rst:1514
 msgid ""
@@ -4851,7 +4844,7 @@ msgid ""
 "Whenever Infested Werewolf enters the battlefield or attacks, create two 1/1 "
 "green Insect creature tokens."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, stwórz dwa żetony "
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, stwórz dwa żetony "
 "zielonego stwora Owad 1/1."
 
 #: ../../VOW.rst:1520
@@ -4898,9 +4891,9 @@ msgid ""
 "graveyard. (To mill a card, put the top card of your library into your "
 "graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty, po czym umieść po "
-"znaczniku +1/+1 na tym stworze za każdą kartę stwora w twoim cmentarzu. "
-"(Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty, po czym umieść po "
+"znaczniku +1/+1 na tym stworze za każdą kartę stwora w twoim cmentarzu. ("
+"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
 "cmentarzu.)"
 
 #: ../../VOW.rst:1532
@@ -4931,15 +4924,15 @@ msgstr "Zaurocz stwora lub ląd"
 
 #: ../../VOW.rst:1537
 msgid "As long as enchanted permanent is a creature, it gets +2/+2."
-msgstr "O ile zauroczony permanent jest stworem, dostaje on +2/+2."
+msgstr "O ile zauroczony byt jest stworem, dostaje on +2/+2."
 
 #: ../../VOW.rst:1539
 msgid ""
 "As long as enchanted permanent is a land, it has \"|tap|: Add two mana of "
 "any one color.\""
 msgstr ""
-"O ile zauroczony permanent jest lądem, ma on \"|tap|: Weź dwie many w "
-"dowolnym jednym kolorze.\""
+"O ile zauroczony byt jest lądem, ma on \"|tap|: Weź dwie many w dowolnym "
+"jednym kolorze.\""
 
 #: ../../VOW.rst:1546
 msgid ""
@@ -5016,7 +5009,7 @@ msgid ""
 "permanent card from your graveyard to your hand. Exile Retrieve."
 msgstr ""
 "Przywróć co najwyżej jedną wskazaną kartę stwora i co najwyżej jedną "
-"wskazaną kartę nie-stworowego permanentu z twojego cmentarza do twojej ręki. "
+"wskazaną kartę nie-stworowego bytu z twojego cmentarza do twojej ręki. "
 "Wygnaj ten czar."
 
 #: ../../VOW.rst:1572
@@ -5031,8 +5024,7 @@ msgid ""
 "When Rural Recruit enters the battlefield, create a 3/1 green Boar creature "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Knur "
-"3/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Knur 3/1."
 
 #: ../../VOW.rst:1580
 msgid ""
@@ -5043,7 +5035,7 @@ msgstr ""
 
 #: ../../VOW.rst:1575
 msgid "When Sawblade Slinger enters the battlefield, choose up to one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz co najwyżej jedno —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz co najwyżej jedno —"
 
 #: ../../VOW.rst:1577
 msgid "Destroy target artifact an opponent controls."
@@ -5062,7 +5054,7 @@ msgstr ""
 
 #: ../../VOW.rst:1585
 msgid "When Sheltering Boughs enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../VOW.rst:1587
 msgid "Enchanted creature gets +1/+3."
@@ -5156,7 +5148,7 @@ msgid ""
 "When Toxic Scorpion enters the battlefield, another target creature you "
 "control gains deathtouch until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury dotyk śmierci."
 
 #: ../../VOW.rst:1624
@@ -5321,9 +5313,8 @@ msgid ""
 "(It's an artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
-"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
+"\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1677
 msgid ""
@@ -5348,8 +5339,8 @@ msgid ""
 "Whenever Brine Comber enters the battlefield or becomes the target of an "
 "Aura spell, create a 1/1 white Spirit creature token with flying."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zostanie wskazany przez czar "
-"Aury, stwórz żeton białego stwora Duch 1/1 z lataniem."
+"Ilekroć ten byt wejdzie na pole bitwy lub zostanie wskazany przez czar Aury, "
+"stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../VOW.rst:1683
 msgid ""
@@ -5373,8 +5364,8 @@ msgid ""
 "becomes the target of an Aura spell, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
-"Ilekroć ten urok wejdzie na pole bitwy lub zauroczony stwór zostanie "
-"wskazany przez czar Aury, stwórz żeton białego stwora Duch 1/1 z lataniem."
+"Ilekroć ten byt wejdzie na pole bitwy lub zauroczony stwór zostanie wskazany "
+"przez czar Aury, stwórz żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../VOW.rst:1691
 msgid ""
@@ -5529,8 +5520,8 @@ msgid ""
 "Whenever a permanent card is put into your graveyard from your library, "
 "exile it with a croak counter on it."
 msgstr ""
-"Ilekroć karta permanentu trafi z twojej biblioteki do twojego cmentarza, "
-"wygnaj ją ze znacznikiem rechotu."
+"Ilekroć karta bytu trafi z twojej biblioteki do twojego cmentarza, wygnaj ją "
+"ze znacznikiem rechotu."
 
 #: ../../VOW.rst:1743
 msgid ""
@@ -5642,7 +5633,7 @@ msgid ""
 "reach, trample, and vigilance found among creatures you control. (Count each "
 "ability only once.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz X żetonów Krwi, gdzie X jest "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz X żetonów Krwi, gdzie X jest "
 "liczbą zdolności latanie, pierwszy cios, podwójny cios, dotyk śmierci, "
 "pośpiech, antyklątwa, niezniszczalność, więź życia, złowrogość, zasięg, "
 "tratowanie i czujność pośród stworów pod twoim władaniem. (Każda zdolność "
@@ -5663,7 +5654,7 @@ msgid ""
 "token. If a noncreature, nonland card is milled this way, create a Blood "
 "token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy oraz na początku twojego kroku "
+"Kiedy ten byt wejdzie na pole bitwy oraz na początku twojego kroku "
 "utrzymania, zmiel kartę. Jeśli karta lądu zostanie zmielona w ten sposób, "
 "stwórz żeton Skarbu. Jeśli karta stwora zostanie zmielona w ten sposób, "
 "stwórz żeton zielonego stwora Owad 1/1. Jeśli niestworowa nielądowa karta "
@@ -5699,8 +5690,8 @@ msgid ""
 "When Runo Stromkirk enters the battlefield, put up to one target creature "
 "card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść co najwyżej jedną wskazaną "
-"kartę stwora z twojego cmentarza na wierzchu twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, umieść co najwyżej jedną wskazaną kartę "
+"stwora z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../VOW.rst:1791
 msgid ""
@@ -5839,8 +5830,8 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na sześć wierzchnich kart "
-"twojej biblioteki. Możesz ujawnić spośród nich niestworową nielądową kartę i "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na sześć wierzchnich kart twojej "
+"biblioteki. Możesz ujawnić spośród nich niestworową nielądową kartę i "
 "umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
 "biblioteki."
 
@@ -5857,9 +5848,8 @@ msgid ""
 "artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
 "Draw a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt "
-"mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
+"\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOW.rst:1846
 msgid ""
@@ -6004,8 +5994,7 @@ msgstr ""
 msgid ""
 "When Lantern of the Lost enters the battlefield, exile target card from a "
 "graveyard."
-msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../VOW.rst:1885
 msgid ""
@@ -6024,7 +6013,7 @@ msgstr ""
 
 #: ../../VOW.rst:1889
 msgid "When Wedding Invitation enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../VOW.rst:1891
 msgid ""

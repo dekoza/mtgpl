@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -365,8 +365,7 @@ msgstr ""
 
 #: ../../EMN.rst:41
 msgid "When you cast this spell, tap up to four target permanents."
-msgstr ""
-"Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane permanenty."
+msgstr "Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane byty."
 
 #: ../../EMN.rst:50
 msgid ""
@@ -456,8 +455,8 @@ msgid ""
 "When you cast this spell, you may put target nonland permanent on top of its "
 "owner's library."
 msgstr ""
-"Kiedy rzucisz ten czar, możesz umieścić wskazany nie-lądowy permanent na "
-"wierzchu biblioteki właściciela."
+"Kiedy rzucisz ten czar, możesz umieścić wskazany nie-lądowy byt na wierzchu "
+"biblioteki właściciela."
 
 #: ../../EMN.rst:74
 msgid ""
@@ -689,7 +688,7 @@ msgid ""
 "of your library. You may reveal a Human card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę Człowieka i umieścić ją "
 "w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -752,8 +751,8 @@ msgid ""
 "When Drogskol Shieldmate enters the battlefield, other creatures you control "
 "get +0/+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
-"dostają do końca tury +0/+1."
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"do końca tury +0/+1."
 
 #: ../../EMN.rst:174
 msgid ""
@@ -768,8 +767,8 @@ msgid ""
 "When Extricator of Sin enters the battlefield, you may sacrifice another "
 "permanent. If you do, create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić inny permanent. "
-"Jeśli tak zrobisz, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
+"Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić inny byt. Jeśli tak "
+"zrobisz, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:173
 msgid ""
@@ -815,7 +814,7 @@ msgid ""
 "When Faith Unbroken enters the battlefield, exile target creature an "
 "opponent controls until Faith Unbroken leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
 "przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../EMN.rst:187 ../../EMN.rst:1095
@@ -921,8 +920,8 @@ msgid ""
 "When Guardian of Pilgrims enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+1/+1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"+1."
 
 #: ../../EMN.rst:220
 msgid ""
@@ -936,7 +935,7 @@ msgid ""
 "When Ironclad Slayer enters the battlefield, you may return target Aura or "
 "Equipment card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
 "lub Wyposażenia z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:224
@@ -1009,7 +1008,7 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_1|, Sacrifice a permanent: "
 "This creature gains flying until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć permanent: Ten stwór "
+"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć byt: Ten stwór "
 "zyskuje do końca tury latanie.\""
 
 #: ../../EMN.rst:248
@@ -1158,8 +1157,8 @@ msgid ""
 "When Subjugator Angel enters the battlefield, tap all creatures your "
 "opponents control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie stwory pod "
-"władaniem twoich przeciwników."
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wszystkie stwory pod władaniem "
+"twoich przeciwników."
 
 #: ../../EMN.rst:300
 msgid ""
@@ -1192,7 +1191,7 @@ msgid ""
 "When Thalia's Lancers enters the battlefield, you may search your library "
 "for a legendary card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "legendarną kartę, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../EMN.rst:310
@@ -1417,7 +1416,7 @@ msgid ""
 "When Enlightened Maniac enters the battlefield, create a 3/2 colorless "
 "Eldrazi Horror creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:378
@@ -1448,7 +1447,7 @@ msgid ""
 "When Fogwalker enters the battlefield, target creature an opponent controls "
 "doesn't untap during its controller's next untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika nie odkręci się podczas następnego kroku odkręcania swojego "
 "władcy."
 
@@ -1553,8 +1552,8 @@ msgid ""
 "Enchanted permanent is a colorless land with \"|tap|: Add |colorless|\" and "
 "loses all other card types and abilities."
 msgstr ""
-"Zauroczony permanent jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|"
-"\" i traci wszystkie inne typy karty oraz zdolności."
+"Zauroczony byt jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|\" i "
+"traci wszystkie inne typy karty oraz zdolności."
 
 #: ../../EMN.rst:418
 msgid ""
@@ -1576,7 +1575,7 @@ msgstr ""
 
 #: ../../EMN.rst:421
 msgid "When Laboratory Brute enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../EMN.rst:426
 msgid ""
@@ -1741,7 +1740,7 @@ msgstr ""
 
 #: ../../EMN.rst:485
 msgid "Counter target spell that targets a permanent you control."
-msgstr "Skontruj wskazany czar wskazujący permanent pod twoim władaniem."
+msgstr "Skontruj wskazany czar wskazujący byt pod twoim władaniem."
 
 #: ../../EMN.rst:490
 msgid ""
@@ -1974,8 +1973,8 @@ msgid ""
 "When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 "
-"z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../EMN.rst:569
 msgid ""
@@ -2053,8 +2052,8 @@ msgid ""
 "When Midnight Scavengers enters the battlefield, you may return target "
 "creature card with mana value 3 or less from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora o skrócie many 3 lub mniejszym z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"o skrócie many 3 lub mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../EMN.rst:593
 msgid "(Melds with Graf Rats.)"
@@ -2083,8 +2082,8 @@ msgid ""
 "When Chittering Host enters the battlefield, other creatures you control get "
 "+1/+0 and gain menace until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
-"dostają do końca tury +1/+0 oraz złowrogość."
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"do końca tury +1/+0 oraz złowrogość."
 
 #: ../../EMN.rst:606
 msgid ""
@@ -2127,8 +2126,7 @@ msgstr ""
 msgid ""
 "When Oath of Liliana enters the battlefield, each opponent sacrifices a "
 "creature."
-msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, każdy przeciwnik poświęca stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik poświęca stwora."
 
 #: ../../EMN.rst:617
 msgid ""
@@ -2340,7 +2338,7 @@ msgstr ""
 
 #: ../../EMN.rst:689
 msgid "When Wailing Ghoul enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../EMN.rst:694
 msgid ""
@@ -2454,8 +2452,8 @@ msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz "
-"trzy karty."
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz trzy "
+"karty."
 
 #: ../../EMN.rst:728
 msgid ""
@@ -2691,8 +2689,7 @@ msgstr ""
 #: ../../EMN.rst:807
 msgid "Target opponent gains control of target permanent you control."
 msgstr ""
-"Wskazany przeciwnik zyskuje władanie nad wskazanym permanentem pod twoim "
-"władaniem."
+"Wskazany przeciwnik zyskuje władanie nad wskazanym bytem pod twoim władaniem."
 
 #: ../../EMN.rst:816
 msgid ""
@@ -2883,7 +2880,7 @@ msgid ""
 "When Smoldering Werewolf enters the battlefield, it deals 1 damage to each "
 "of up to two target creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu z co najwyżej dwóch "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu z co najwyżej dwóch "
 "wskazanych stworów po 1 obrażeniu."
 
 #: ../../EMN.rst:873
@@ -2944,7 +2941,7 @@ msgid ""
 "When Stensia Innkeeper enters the battlefield, tap target land an opponent "
 "controls. That land doesn't untap during its controller's next untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazany ląd pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazany ląd pod władaniem "
 "przeciwnika. Ów ląd nie odkręci się podczas najbliższego kroku odkręcania "
 "swojego władcy."
 
@@ -3050,8 +3047,7 @@ msgstr ""
 #: ../../EMN.rst:935
 msgid ""
 "Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar."
-msgstr ""
-"Ilekroć poświęcisz inny permanent, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć poświęcisz inny byt, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../EMN.rst:940
 msgid ""
@@ -3169,7 +3165,7 @@ msgid ""
 "your library. You may reveal a creature card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
 "twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -3244,7 +3240,7 @@ msgid ""
 "four or more card types among cards in your graveyard, create three 1/2 "
 "green Spider creature tokens with reach."
 msgstr ""
-"Delirium — Kiedy ten stwór wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
+"Delirium — Kiedy ten byt wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
 "karty należące do przynajmniej czterech typów kart, stwórz trzy żetony "
 "zielonego stwora Pająk 1/2 z zasięgiem."
 
@@ -3384,7 +3380,7 @@ msgid ""
 "When Somberwald Stag enters the battlefield, you may have it fight target "
 "creature you don't control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że będzie walczyć ze "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że będzie walczyć ze "
 "wskazanym stworem poza twoim władaniem."
 
 #: ../../EMN.rst:1040
@@ -3399,7 +3395,7 @@ msgid ""
 "When Spirit of the Hunt enters the battlefield, each other creature you "
 "control that's a Wolf or a Werewolf gets +0/+3 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy inny stwór pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, każdy inny stwór pod twoim władaniem "
 "będący Wilkiem lub Wilkołakiem dostaje do końca tury +0/+3."
 
 #: ../../EMN.rst:1044
@@ -3542,7 +3538,7 @@ msgid ""
 "When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../EMN.rst:1100
 msgid ""
@@ -3578,7 +3574,7 @@ msgid ""
 "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no "
 "cards in hand, Bloodhall Priest deals 2 damage to any target."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, jeśli nie masz kart w "
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, jeśli nie masz kart w "
 "ręce, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../EMN.rst:1109
@@ -3615,7 +3611,7 @@ msgstr ""
 
 #: ../../EMN.rst:1117
 msgid "When Gisa and Geralf enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../EMN.rst:1119
 msgid ""
@@ -3662,7 +3658,7 @@ msgid ""
 "When Heron's Grace Champion enters the battlefield, other Humans you control "
 "get +1/+1 and gain lifelink until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
+"Kiedy ten byt wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
 "twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../EMN.rst:1142
@@ -3693,7 +3689,7 @@ msgid ""
 "more card types among cards in your graveyard, creatures with power 2 or "
 "less can't block this turn."
 msgstr ""
-"Delirium — Kiedy ten stwór wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
+"Delirium — Kiedy ten byt wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
 "karty należące do przynajmniej czterech typów kart, stwory o sile 2 lub "
 "mniejszej nie mogą blokować w tej turze."
 
@@ -3724,7 +3720,7 @@ msgid ""
 "When Spell Queller enters the battlefield, exile target spell with mana "
 "value 4 or less."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazany czar o skrócie many 4 "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany czar o skrócie many 4 "
 "lub mniejszym."
 
 #: ../../EMN.rst:1161
@@ -3756,7 +3752,7 @@ msgid ""
 "−2: Tap up to two target nonland permanents. They don't untap during their "
 "controller's next untap step."
 msgstr ""
-"–2: Przekręć co najwyżej dwa nie-lądowe permanenty. Nie odkręcą się one w "
+"–2: Przekręć co najwyżej dwa nie-lądowe byty. Nie odkręcą się one w "
 "najbliższych krokach odkręcania swoich władców."
 
 #: ../../EMN.rst:1169
@@ -3780,8 +3776,8 @@ msgid ""
 "Whenever this creature enters the battlefield or transforms into Ulrich of "
 "the Krallenhorde, target creature gets +4/+4 until end of turn."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub transformuje w tę formę, "
-"wskazany stwór dostaje do końca tury +4/+4."
+"Ilekroć ten byt wejdzie na pole bitwy lub transformuje w tę formę, wskazany "
+"stwór dostaje do końca tury +4/+4."
 
 #: ../../EMN.rst:1175
 msgid ""
@@ -3978,8 +3974,7 @@ msgstr ""
 msgid ""
 "Whenever Stitcher's Graft becomes unattached from a permanent, sacrifice "
 "that permanent."
-msgstr ""
-"Ilekroć ten artefakt zostanie odłączony od permanentu, poświęć ów permanent."
+msgstr "Ilekroć ten artefakt zostanie odłączony od bytu, poświęć ów byt."
 
 #: ../../EMN.rst:1239 ../../EMN.rst:1255
 msgid "Equip |mana_2|"

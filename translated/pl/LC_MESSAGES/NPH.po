@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -250,7 +250,7 @@ msgstr "+4: Wskazany gracz wygania kartę ze swojej ręki."
 
 #: ../../NPH.rst:11
 msgid "−3: Exile target permanent."
-msgstr "–3: Wygnaj wskazany permanent."
+msgstr "–3: Wygnaj wskazany byt."
 
 #: ../../NPH.rst:13
 msgid ""
@@ -258,7 +258,7 @@ msgid ""
 "with Karn Liberated. Then put those cards onto the battlefield under your "
 "control."
 msgstr ""
-"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie byty nie "
 "będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
 "karty na polu bitwy pod twoim władaniem."
 
@@ -302,7 +302,7 @@ msgid ""
 "Equipment card from your graveyard to the battlefield. If you do, you may "
 "attach it to Auriok Survivors."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "Wyposażenia z twojego cmentarza na pole bitwy. Jeśli tak zrobisz, możesz ją "
 "dołączyć do tego stwora."
 
@@ -318,7 +318,7 @@ msgid ""
 "When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 780f0cbf1c33448fba5a772868d314c8
@@ -421,7 +421,7 @@ msgstr ""
 # 7026f0838a074e42a5656c2797ff5a85
 #: ../../NPH.rst:55
 msgid "Permanents enter the battlefield tapped this turn."
-msgstr "W tej turze permanenty wchodzą na pole bitwy przekręcone."
+msgstr "W tej turze byty wchodzą na pole bitwy przekręcone."
 
 # bebfab61af8a4746aca95624c8ac5d80
 # b4445deb78854be58856e88455303bc0
@@ -466,8 +466,8 @@ msgid ""
 "Imprint — When Exclusion Ritual enters the battlefield, exile target nonland "
 "permanent."
 msgstr ""
-"Odlew — Kiedy ta karta wejdzie na pole bitwy, wygnaj wskazany permanent nie "
-"będący lądem."
+"Odlew — Kiedy ta karta wejdzie na pole bitwy, wygnaj wskazany byt nie będący "
+"lądem."
 
 # 25d8b2283e4e4792b6db6536f862803a
 #: ../../NPH.rst:71
@@ -582,7 +582,7 @@ msgid ""
 "When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 87ba05e1ace247cfa26b2e3b39bd8081
@@ -697,7 +697,7 @@ msgid ""
 "When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 29d1393776d740e6a2d6d90cba92d2aa
@@ -782,8 +782,8 @@ msgid ""
 "Target permanent becomes an artifact in addition to its other types until "
 "end of turn."
 msgstr ""
-"Wskazany permanent do końca tury staje się dodatkowo artefaktem oprócz "
-"swoich innych typów."
+"Wskazany byt do końca tury staje się dodatkowo artefaktem oprócz swoich "
+"innych typów."
 
 #: ../../NPH.rst:178
 msgid ""
@@ -849,7 +849,7 @@ msgid ""
 "instant or sorcery card from an opponent's graveyard without paying its mana "
 "cost."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
+"Kiedy ten byt wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
 "lub obrzędu z cmentarza przeciwnika bez płacenia jej kosztu many."
 
 #: ../../NPH.rst:202
@@ -879,15 +879,15 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../NPH.rst:207
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:209
 msgid "Untap target permanent you control."
-msgstr "Odkręć wskazany permanent pod twoim władaniem."
+msgstr "Odkręć wskazany byt pod twoim władaniem."
 
 #: ../../NPH.rst:211
 msgid "Tap target permanent an opponent controls."
-msgstr "Przekręć wskazany permanent pod władaniem przeciwnika."
+msgstr "Przekręć wskazany byt pod władaniem przeciwnika."
 
 #: ../../NPH.rst:218
 msgid ""
@@ -1000,8 +1000,7 @@ msgstr "Zaurocz artefakt lub stwora"
 # cae497c974d441f6b4c673e408755897
 #: ../../NPH.rst:255
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
-msgstr ""
-"Zauroczony permanent nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony byt nie odkręca się w kroku odkręcania swojego władcy."
 
 # 679208707d3a4b60842048bdef9d5b97
 #: ../../NPH.rst:257
@@ -1009,8 +1008,8 @@ msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
 "player loses 1 life."
 msgstr ""
-"Na początku kroku utrzymania władcy zauroczonego permanentu, ów gracz traci "
-"1 życie."
+"Na początku kroku utrzymania władcy zauroczonego bytu, ów gracz traci 1 "
+"życie."
 
 #: ../../NPH.rst:264
 msgid ""
@@ -1025,7 +1024,7 @@ msgid ""
 "Imprint — When Phyrexian Ingester enters the battlefield, you may exile "
 "target nontoken creature."
 msgstr ""
-"Odlew — Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazanego "
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazanego "
 "nieżetonowego stwora."
 
 # f92a126fea994c72b437f15bcb0561fc
@@ -1110,9 +1109,8 @@ msgid ""
 "Draw two cards, then proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Dobierz dwie karty, po czym rozpleń. (Wybierz dowolną liczbę permanentów i/"
-"lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
-"rodzajów.)"
+"Dobierz dwie karty, po czym rozpleń. (Wybierz dowolną liczbę bytów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../NPH.rst:300
 msgid ""
@@ -1140,8 +1138,8 @@ msgid ""
 "|mana_3|\\ |mana_u|: Proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"|mana_3|\\ |mana_u|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"|mana_3|\\ |mana_u|: Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po "
+"czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../NPH.rst:314
 msgid ""
@@ -1155,7 +1153,7 @@ msgid ""
 "When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 953181bcb305477f827600c6820e0e1c
@@ -1328,7 +1326,7 @@ msgstr ""
 
 #: ../../NPH.rst:363
 msgid "When Entomber Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:367
 msgid ""
@@ -1410,8 +1408,8 @@ msgid ""
 "already there.)"
 msgstr ""
 "Umieść znacznik -1/-1 na wskazanym stworze, po czym rozpleń. (Wybierz "
-"dowolną liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik "
-"każdego z już obecnych tam rodzajów.)"
+"dowolną liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../NPH.rst:398
 msgid ""
@@ -1503,7 +1501,7 @@ msgid ""
 "controller sacrifices that many permanents."
 msgstr ""
 "Ilekroć jakieś źródło zada obrażenia temu stworowi, władca owego źródła "
-"poświęca tyle samo permanentów."
+"poświęca tyle samo bytów."
 
 #: ../../NPH.rst:426
 msgid ""
@@ -1518,7 +1516,7 @@ msgid ""
 "When Pith Driller enters the battlefield, put a -1/-1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze."
 
 #: ../../NPH.rst:432
@@ -1748,7 +1746,7 @@ msgid ""
 "Phyrexian Goblin creature tokens with haste, where X is the number of "
 "creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz X żetonów czerwonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz X żetonów czerwonego stwora "
 "Phyrexiański Goblin 1/1 z pośpiechem, gdzie X jest liczbą stworów pod twoim "
 "władaniem."
 
@@ -1825,7 +1823,7 @@ msgstr ""
 #: ../../NPH.rst:527
 msgid ""
 "Imprint — When Invader Parasite enters the battlefield, exile target land."
-msgstr "Odlew — Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazany ląd."
+msgstr "Odlew — Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany ląd."
 
 # c9ca71bd19c74872bead39bd23e3c520
 #: ../../NPH.rst:529
@@ -1872,7 +1870,7 @@ msgid ""
 "When Priest of Urabrask enters the battlefield, add |mana_r|\\ |mana_r|\\ |"
 "mana_r|."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, weź |mana_r|\\ |mana_r|\\ |mana_r|."
+"Kiedy ten byt wejdzie na pole bitwy, weź |mana_r|\\ |mana_r|\\ |mana_r|."
 
 #: ../../NPH.rst:554
 msgid ""
@@ -1960,7 +1958,7 @@ msgstr ""
 
 #: ../../NPH.rst:583
 msgid "When Tormentor Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:585
 msgid "Target creature gets +2/+0 until end of turn."
@@ -2014,8 +2012,8 @@ msgid ""
 "already there.)"
 msgstr ""
 "Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z "
-"już obecnych tam rodzajów.)"
+"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
+"obecnych tam rodzajów.)"
 
 #: ../../NPH.rst:606
 msgid ""
@@ -2054,8 +2052,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
-"3/3."
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../NPH.rst:620
 msgid ""
@@ -2095,7 +2092,7 @@ msgstr ""
 
 #: ../../NPH.rst:623
 msgid "When Brutalizer Exarch enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:625
 msgid ""
@@ -2107,8 +2104,7 @@ msgstr ""
 
 #: ../../NPH.rst:627
 msgid "Put target noncreature permanent on the bottom of its owner's library."
-msgstr ""
-"Umieść wskazany niestworowy permanent na spodzie biblioteki właściciela."
+msgstr "Umieść wskazany niestworowy byt na spodzie biblioteki właściciela."
 
 #: ../../NPH.rst:634
 msgid ""
@@ -2236,7 +2232,7 @@ msgid ""
 "When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian "
 "Golem artifact creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 0b564d2ceb6c4cdebc263ea274735718
@@ -2413,7 +2409,7 @@ msgid ""
 "When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian "
 "Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Phyrexiański Golem 3/3."
 
 # 45e9d1c9c57a4cf18d1826fc0a72d23b
@@ -2642,9 +2638,9 @@ msgid ""
 "each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|"
 "mana_bp| can be paid with either |mana_b| or 2 life.)"
 msgstr ""
-"|mana_x|\\ |mana_bp|: Usuń co najwyżej X znaczników ze wskazanego "
-"permanentu. Za każdy znacznik usunięty w ten sposób, ten stwór dostaje do "
-"końca tury +1/+0. (|mana_bp| można opłacić używając |mana_b| lub 2 żyć.)"
+"|mana_x|\\ |mana_bp|: Usuń co najwyżej X znaczników ze wskazanego bytu. Za "
+"każdy znacznik usunięty w ten sposób, ten stwór dostaje do końca tury +1/+0. "
+"(|mana_bp| można opłacić używając |mana_b| lub 2 żyć.)"
 
 #: ../../NPH.rst:808
 msgid ""
@@ -2767,7 +2763,7 @@ msgid ""
 "from the battlefield, you may search your library for a basic land card, "
 "reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub trafi do cmentarza z pola bitwy, "
+"Kiedy ten byt wejdzie na pole bitwy lub trafi do cmentarza z pola bitwy, "
 "możesz wyszukać w twojej bibliotece kartę bazowego lądu, ujawnij ją, umieść "
 "w twojej ręce, po czym przetasuj."
 

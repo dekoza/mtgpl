@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -246,9 +246,8 @@ msgid ""
 "|mana_4|, |tap|: Search your library for a Rebel permanent card with mana "
 "value 3 or less, put it onto the battlefield, then shuffle."
 msgstr ""
-"|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę permanentu typu "
-"Rebeliant o skrócie many 3 lub mniejszym, umieść ją na polu bitwy, po czym "
-"przetasuj."
+"|mana_4|, |tap|: Wyszukaj w twojej bibliotece kartę bytu typu Rebeliant o "
+"skrócie many 3 lub mniejszym, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../TSR.rst:14
 msgid ""
@@ -298,7 +297,7 @@ msgid ""
 "that would be dealt this turn to any number of targets, divided as you "
 "choose."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zażegnaj najbliższe 5 obrażeń, jakie "
+"Kiedy ten byt wejdzie na pole bitwy, zażegnaj najbliższe 5 obrażeń, jakie "
 "miałyby zostać zadane w tej turze dowolnej liczbie wskazanych celów, "
 "rozdzielone według twojego uznania."
 
@@ -371,7 +370,7 @@ msgstr ""
 #: ../../TSR.rst:43
 msgid ""
 "When Aven Riftwatcher enters or leaves the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy lub je opuści, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy lub je opuści, zyskaj 2 życia."
 
 #: ../../TSR.rst:48
 msgid ""
@@ -595,7 +594,7 @@ msgstr ""
 #: ../../TSR.rst:129
 msgid "When Ivory Giant enters the battlefield, tap all nonwhite creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie nie-białe stwory."
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wszystkie nie-białe stwory."
 
 #: ../../TSR.rst:131
 msgid ""
@@ -729,7 +728,7 @@ msgstr ""
 
 #: ../../TSR.rst:167
 msgid "|tap|: Exile Mangara of Corondor and target permanent."
-msgstr "|tap|: Wygnaj tego stwora i wskazany permanent."
+msgstr "|tap|: Wygnaj tego stwora i wskazany byt."
 
 #: ../../TSR.rst:174
 msgid ""
@@ -881,7 +880,7 @@ msgid ""
 "All Slivers have \"If this permanent would be put into a graveyard, you may "
 "put it on top of its owner's library instead.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"Jeśli ten permanent miałby trafić do cmentarza, "
+"Wszystkie Drzazgacze mają \"Jeśli ten byt miałby trafić do cmentarza, "
 "zamiast tego możesz go umieścić na wierzchu biblioteki właściciela.\""
 
 #: ../../TSR.rst:216
@@ -893,7 +892,7 @@ msgstr ""
 
 #: ../../TSR.rst:215
 msgid "Counter target spell that targets a permanent you control."
-msgstr "Skontruj wskazany czar wskazujący permanent pod twoim władaniem."
+msgstr "Skontruj wskazany czar wskazujący byt pod twoim władaniem."
 
 #: ../../TSR.rst:222
 msgid ""
@@ -969,7 +968,7 @@ msgstr ""
 
 #: ../../TSR.rst:237
 msgid "Destroy target nonwhite permanent."
-msgstr "Zniszcz wskazany nie-biały permanent."
+msgstr "Zniszcz wskazany nie-biały byt."
 
 #: ../../TSR.rst:242
 msgid ""
@@ -1050,14 +1049,13 @@ msgid ""
 "When Stonecloaker enters the battlefield, return a creature you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
-"do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć stwora pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../TSR.rst:271
 msgid ""
 "When Stonecloaker enters the battlefield, exile target card from a graveyard."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../TSR.rst:280
 msgid ""
@@ -1071,8 +1069,8 @@ msgid ""
 "When Stormfront Riders enters the battlefield, return two creatures you "
 "control to their owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć dwa stwory pod twoim "
-"władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć dwa stwory pod twoim władaniem "
+"do ręki właściciela."
 
 #: ../../TSR.rst:279
 msgid ""
@@ -1137,8 +1135,8 @@ msgid ""
 "When Whitemane Lion enters the battlefield, return a creature you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
-"do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć stwora pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../TSR.rst:312
 msgid ""
@@ -1297,8 +1295,7 @@ msgid ""
 "When Coral Trickster is turned face up, you may tap or untap target "
 "permanent."
 msgstr ""
-"Kiedy ten stwór zostaje odkryty, możesz przekręcić lub odkręcić wskazany "
-"permanent."
+"Kiedy ten stwór zostaje odkryty, możesz przekręcić lub odkręcić wskazany byt."
 
 #: ../../TSR.rst:360
 msgid ""
@@ -1312,7 +1309,7 @@ msgid ""
 "When Crookclaw Transmuter enters the battlefield, switch target creature's "
 "power and toughness until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zamień do końca tury siłę z "
+"Kiedy ten byt wejdzie na pole bitwy, zamień do końca tury siłę z "
 "wytrzymałością wskazanego stwora."
 
 #: ../../TSR.rst:364
@@ -1328,10 +1325,10 @@ msgid ""
 "3. (To scry X, look at the top X cards of your library, then put any number "
 "of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 1, po czym wróż 2, po czym wróż "
-"3. (By wróżyć X, spójrz na X wierzchnich kart twojej biblioteki, po czym "
-"umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na jej "
-"wierzchu w dowolnej kolejności.)"
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1, po czym wróż 2, po czym wróż 3. "
+"(By wróżyć X, spójrz na X wierzchnich kart twojej biblioteki, po czym umieść "
+"dowolne z nich na spodzie twojej biblioteki, a pozostałe na jej wierzchu w "
+"dowolnej kolejności.)"
 
 #: ../../TSR.rst:368
 msgid ""
@@ -1368,7 +1365,7 @@ msgid ""
 "When Draining Whelk enters the battlefield, counter target spell. Put X +1/"
 "+1 counters on Draining Whelk, where X is that spell's mana value."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, skontruj wskazany czar. Umieść X "
+"Kiedy ten byt wejdzie na pole bitwy, skontruj wskazany czar. Umieść X "
 "znaczników +1/+1 na tym stworze, gdzie X jest skrótem many owego czaru."
 
 #: ../../TSR.rst:380
@@ -1383,8 +1380,8 @@ msgid ""
 "When Dream Stalker enters the battlefield, return a permanent you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
-"władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć byt pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../TSR.rst:384
 msgid ""
@@ -1700,7 +1697,7 @@ msgstr ""
 
 #: ../../TSR.rst:477
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../TSR.rst:479
 msgid ""
@@ -1716,8 +1713,7 @@ msgstr ""
 msgid ""
 "When Reality Acid leaves the battlefield, enchanted permanent's controller "
 "sacrifices it."
-msgstr ""
-"Kiedy ten urok opuści pole bitwy, władca zauroczonego permanentu poświęca go."
+msgstr "Kiedy ten urok opuści pole bitwy, władca zauroczonego bytu poświęca go."
 
 #: ../../TSR.rst:490
 msgid ""
@@ -1731,7 +1727,7 @@ msgid ""
 "When Riftwing Cloudskate enters the battlefield, return target permanent to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazany byt do ręki "
 "właściciela."
 
 #: ../../TSR.rst:489
@@ -1942,8 +1938,7 @@ msgstr "Kiedy ten stwór zostanie odkryty, wybierz jedno —"
 
 #: ../../TSR.rst:563 ../../TSR.rst:1121
 msgid "Remove two time counters from target permanent or suspended card."
-msgstr ""
-"Usuń dwa znaczniki czasu ze wskazanego permanentu lub zawieszonej karty."
+msgstr "Usuń dwa znaczniki czasu ze wskazanego bytu lub zawieszonej karty."
 
 #: ../../TSR.rst:565 ../../TSR.rst:1123
 msgid ""
@@ -1965,8 +1960,8 @@ msgid ""
 "|mana_u|, |tap|, Discard a card: Return target permanent you control to its "
 "owner's hand."
 msgstr ""
-"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany permanent pod twoim "
-"władaniem do ręki właściciela."
+"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany byt pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../TSR.rst:578
 msgid ""
@@ -1995,8 +1990,8 @@ msgid ""
 "When Venser, Shaper Savant enters the battlefield, return target spell or "
 "permanent to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany czar lub permanent "
-"do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazany czar lub byt do ręki "
+"właściciela."
 
 #: ../../TSR.rst:590
 msgid ""
@@ -2067,7 +2062,7 @@ msgstr ""
 
 #: ../../TSR.rst:607
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../TSR.rst:612
 msgid ""
@@ -2092,8 +2087,8 @@ msgid ""
 "When Big Game Hunter enters the battlefield, destroy target creature with "
 "power 4 or greater. It can't be regenerated."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego stwora o sile 4 "
-"lub większej. Nie może być zregenerowany."
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora o sile 4 lub "
+"większej. Nie może być zregenerowany."
 
 #: ../../TSR.rst:617 ../../TSR.rst:643
 msgid ""
@@ -2238,9 +2233,9 @@ msgid ""
 "your control since the beginning of your last upkeep, sacrifice it unless "
 "you pay its echo cost.)"
 msgstr ""
-"Echo—Odrzuć kartę. (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
-"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
+"Echo—Odrzuć kartę. (Na początku twojego kroku utrzymania, jeśli ten byt "
+"wszedł pod twoje władanie po początku twojego poprzednego kroku utrzymania, "
+"poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:670
 msgid ""
@@ -2328,7 +2323,7 @@ msgid ""
 "When Faceless Devourer enters the battlefield, exile another target creature "
 "with shadow."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj innego wskazanego stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj innego wskazanego stwora z "
 "cieniem."
 
 #: ../../TSR.rst:697
@@ -2397,9 +2392,8 @@ msgid ""
 "When Grave Scrabbler enters the battlefield, if its madness cost was paid, "
 "you may return target creature card from a graveyard to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli zapłacono jego koszt "
-"szaleństwa, możesz przywrócić wskazaną kartę stwora z cmentarza do ręki "
-"właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli zapłacono jego koszt szaleństwa, "
+"możesz przywrócić wskazaną kartę stwora z cmentarza do ręki właściciela."
 
 #: ../../TSR.rst:726
 msgid ""
@@ -2539,7 +2533,7 @@ msgid ""
 "When Muck Drubb enters the battlefield, change the target of target spell "
 "that targets only a single creature to Muck Drubb."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zmień wskazanie wskazanego czaru "
+"Kiedy ten byt wejdzie na pole bitwy, zmień wskazanie wskazanego czaru "
 "wskazującego tylko jednego stwora na niniejszego stwora."
 
 #: ../../TSR.rst:763
@@ -2590,8 +2584,8 @@ msgid ""
 "When Nightshade Assassin enters the battlefield, you may reveal X black "
 "cards in your hand. If you do, target creature gets -X/-X until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz ujawnić X czarnych kart z "
-"twojej ręki. Jeśli tak zrobisz, wskazany stwór dostaje do końca tury -X/-X."
+"Kiedy ten byt wejdzie na pole bitwy, możesz ujawnić X czarnych kart z twojej "
+"ręki. Jeśli tak zrobisz, wskazany stwór dostaje do końca tury -X/-X."
 
 #: ../../TSR.rst:786
 msgid ""
@@ -2633,7 +2627,7 @@ msgid ""
 "cards in your graveyard, you may return target creature card from your "
 "graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli masz co najmniej cztery karty "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli masz co najmniej cztery karty "
 "stworów w cmentarzu, możesz przywrócić wskazana kartę stwora z twojego "
 "cmentarza do twojej ręki."
 
@@ -2999,7 +2993,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_2|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzednego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:913
@@ -3089,8 +3083,8 @@ msgid ""
 "When Coal Stoker enters the battlefield, if you cast it from your hand, add |"
 "mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|"
-"\\ |mana_r|\\ |mana_r|."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|\\"
+" |mana_r|\\ |mana_r|."
 
 #: ../../TSR.rst:950
 msgid ""
@@ -3169,7 +3163,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_5|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzednego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:969
@@ -3177,8 +3171,7 @@ msgid ""
 "When Firemaw Kavu enters the battlefield, it deals 2 damage to target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 2 "
-"obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../TSR.rst:971
 msgid ""
@@ -3304,7 +3297,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_1|\\ |mana_b| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzedniego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:1013
@@ -3341,7 +3334,7 @@ msgstr ""
 
 #: ../../TSR.rst:1023
 msgid "|mana_r|, |tap|, Discard a card: Destroy target blue permanent."
-msgstr "|mana_r|, |tap|, odrzuć kartę: Zniszcz wskazany niebieski permanent."
+msgstr "|mana_r|, |tap|, odrzuć kartę: Zniszcz wskazany niebieski byt."
 
 #: ../../TSR.rst:1025
 msgid ""
@@ -3422,7 +3415,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_1|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzedniego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:1049
@@ -3430,7 +3423,7 @@ msgid ""
 "When Mogg War Marshal enters the battlefield or dies, create a 1/1 red "
 "Goblin creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, stwórz żeton czerwonego "
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, stwórz żeton czerwonego "
 "stwora Goblin 1/1."
 
 #: ../../TSR.rst:1054
@@ -3573,8 +3566,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Remove a time counter from a permanent you control or "
 "suspended card you own: Rift Elemental gets +2/+0 until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|, usuń znacznik czasu z permanentu pod twoim władaniem "
-"lub własnej zawieszonej karty: Ten stwór dostaje do końca tury +2/+0."
+"|mana_1|\\ |mana_r|, usuń znacznik czasu z bytu pod twoim władaniem lub "
+"własnej zawieszonej karty: Ten stwór dostaje do końca tury +2/+0."
 
 #: ../../TSR.rst:1100
 msgid ""
@@ -3618,7 +3611,7 @@ msgid ""
 "would be destroyed, instead tap it, remove it from combat, and heal all "
 "damage on it.)"
 msgstr ""
-"Wszystkie Drzazgacze mają \"|mana_b|: Zregeneruj ten permanent.\" (Następnym "
+"Wszystkie Drzazgacze mają \"|mana_b|: Zregeneruj ten byt.\" (Następnym "
 "razem, gdy miałby zostać zniszczony w tej turze, zamiast tego przekręć go, "
 "usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
@@ -3655,7 +3648,7 @@ msgstr ""
 
 #: ../../TSR.rst:1119
 msgid "When Shivan Sand-Mage enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../TSR.rst:1125
 msgid "Suspend 4—|mana_r|"
@@ -3701,7 +3694,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_3|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzedniego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:1139
@@ -3709,7 +3702,7 @@ msgid ""
 "When Stingscourger enters the battlefield, return target creature an "
 "opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazanego stwora pod "
 "władaniem przeciwnika do ręki właściciela."
 
 #: ../../TSR.rst:1146
@@ -3761,8 +3754,7 @@ msgid ""
 "You may pay |mana_0| rather than pay the echo cost for permanents you "
 "control."
 msgstr ""
-"Możesz płacić |mana_0| zamiast płacić koszt echa permanentów pod twoim "
-"władaniem."
+"Możesz płacić |mana_0| zamiast płacić koszt echa bytów pod twoim władaniem."
 
 #: ../../TSR.rst:1165
 msgid ""
@@ -3827,7 +3819,7 @@ msgid ""
 "When Citanul Woodreaders enters the battlefield, if it was kicked, draw two "
 "cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, dobierz dwie "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, dobierz dwie "
 "karty."
 
 #: ../../TSR.rst:1186
@@ -4174,7 +4166,7 @@ msgid ""
 "When Nantuko Shaman enters the battlefield, if you control no tapped lands, "
 "draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie masz we władaniu "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli nie masz we władaniu "
 "przekręconych lądów, dobierz kartę."
 
 #: ../../TSR.rst:1293
@@ -4586,8 +4578,8 @@ msgid ""
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_1|\\ |mana_g|\\ |mana_g| (Na początku twojego kroku utrzymania, "
-"jeśli ten permanent wszedł pod twoje władanie po początku twojego "
-"poprzedniego kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
+"jeśli ten byt wszedł pod twoje władanie po początku twojego poprzedniego "
+"kroku utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../TSR.rst:1424
 msgid ""
@@ -4663,7 +4655,7 @@ msgid ""
 "a Forest card, put it onto the battlefield tapped under target player's "
 "control, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Lasu, umieścić ją przekręconą na polu bitwy pod władaniem wskazanego "
 "gracza, po czym przetasować."
 
@@ -4679,8 +4671,8 @@ msgid ""
 "All Slivers have \"|mana_1|, Sacrifice this permanent: This permanent deals "
 "1 damage to any target.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten permanent: Zadaje on "
-"wskazanemu celowi 1 obrażenie.\""
+"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten byt: Zadaje on wskazanemu "
+"celowi 1 obrażenie.\""
 
 #: ../../TSR.rst:1447
 msgid ""
@@ -4688,9 +4680,9 @@ msgid ""
 "damage that would be dealt to target player, planeswalker, or Sliver "
 "creature this turn.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten permanent: Zażegnaj "
-"najbliższe 1 obrażenie jakie mogłoby zostać zadane w tej turze wskazanemu "
-"graczowi, wędrowcowi lub Drzazgaczowi.\""
+"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten byt: Zażegnaj najbliższe 1 "
+"obrażenie jakie mogłoby zostać zadane w tej turze wskazanemu graczowi, "
+"wędrowcowi lub Drzazgaczowi.\""
 
 #: ../../TSR.rst:1452
 msgid ""
@@ -4701,7 +4693,7 @@ msgstr ""
 
 #: ../../TSR.rst:1451
 msgid "All Slivers have \"Sacrifice this permanent: You gain 3 life.\""
-msgstr "Wszystkie Drzazgacze mają \"Poświęć ten permanent: Zyskaj 3 życia.\""
+msgstr "Wszystkie Drzazgacze mają \"Poświęć ten byt: Zyskaj 3 życia.\""
 
 #: ../../TSR.rst:1458
 msgid ""
@@ -4718,8 +4710,8 @@ msgstr "Wszystkie Drzazgacze mają obronność."
 msgid ""
 "All Slivers have \"When this permanent enters the battlefield, draw a card.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"Kiedy ten permanent wejdzie na pole bitwy, "
-"dobierz kartę.\""
+"Wszystkie Drzazgacze mają \"Kiedy ten byt wejdzie na pole bitwy, dobierz "
+"kartę.\""
 
 #: ../../TSR.rst:1464
 msgid ""
@@ -4734,7 +4726,7 @@ msgid ""
 "permanents instead."
 msgstr ""
 "Jeśli ten stwór miałby otrzymać obrażenia, zamiast tego poświęć tyle samo "
-"permanentów."
+"bytów."
 
 #: ../../TSR.rst:1463
 msgid ""
@@ -4759,8 +4751,8 @@ msgid ""
 "All Slivers have \"|mana_1|, Sacrifice this permanent: Target Sliver "
 "creature gets +2/+2 until end of turn.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten permanent: Wskazany "
-"Drzazgacz dostaje do końca tury +2/+2.\""
+"Wszystkie Drzazgacze mają \"|mana_1|, poświęć ten byt: Wskazany Drzazgacz "
+"dostaje do końca tury +2/+2.\""
 
 #: ../../TSR.rst:1474
 msgid ""
@@ -4789,8 +4781,8 @@ msgid ""
 "All Slivers have \"When this permanent enters the battlefield, destroy "
 "target artifact or enchantment.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"Kiedy ten permanent wejdzie na pole bitwy, "
-"zniszcz wskazany artefakt lub urok.\""
+"Wszystkie Drzazgacze mają \"Kiedy ten byt wejdzie na pole bitwy, zniszcz "
+"wskazany artefakt lub urok.\""
 
 #: ../../TSR.rst:1486
 msgid ""
@@ -4864,8 +4856,8 @@ msgid ""
 "All Slivers have \"|mana_3|, Sacrifice this permanent: Destroy target "
 "permanent.\""
 msgstr ""
-"Wszystkie Drzazgacze mają \"|mana_3|, poświęć ten permanent: Zniszcz "
-"wskazany permanent.\""
+"Wszystkie Drzazgacze mają \"|mana_3|, poświęć ten byt: Zniszcz wskazany byt."
+"\""
 
 #: ../../TSR.rst:1504
 msgid ""
@@ -5060,9 +5052,9 @@ msgid ""
 "that permanent or card has a time counter on it, you may remove a time "
 "counter from it or put another time counter on it."
 msgstr ""
-"|tap|: Wskaż permanent pod twoim władaniem lub wybierz własną zawieszoną "
-"kartę. Jeśli ów permanent lub karta ma znacznik czasu, możesz zeń usunąć lub "
-"dodać kolejny znacznik czasu."
+"|tap|: Wskaż byt pod twoim władaniem lub wybierz własną zawieszoną kartę. "
+"Jeśli ów byt lub karta ma znacznik czasu, możesz zeń usunąć lub dodać "
+"kolejny znacznik czasu."
 
 #: ../../TSR.rst:1566
 msgid ""
@@ -5461,8 +5453,8 @@ msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt pod "
+"władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../TSR.rst:1702
 msgid ""
@@ -5507,9 +5499,9 @@ msgid ""
 "Return that card to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
-"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
-"najbliższego kroku końcowego."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj inny wskazany byt. Przywróć ową "
+"kartę na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../TSR.rst:1718
 msgid ""
@@ -5569,15 +5561,15 @@ msgstr ""
 
 #: ../../TSR.rst:1733
 msgid "When Palace Jailer enters the battlefield, you become the monarch."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, stajesz się monarchą."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, stajesz się monarchą."
 
 #: ../../TSR.rst:1735
 msgid ""
 "When Palace Jailer enters the battlefield, exile target creature an opponent "
 "controls until an opponent becomes the monarch."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazanego stwora pod "
-"władaniem przeciwnika dopóki przeciwnik nie zostanie monarchą."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki przeciwnik nie zostanie monarchą."
 
 #: ../../TSR.rst:1740
 msgid ""
@@ -5608,7 +5600,7 @@ msgid ""
 "Angel creature you control, then return that card to the battlefield under "
 "your control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego nie będącego "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać innego nie będącego "
 "Aniołem stwora pod twoim władaniem, po czym przywróć ową kartę na pole bitwy "
 "pod twoim władaniem."
 
@@ -5661,7 +5653,7 @@ msgid ""
 "When Stonehorn Dignitary enters the battlefield, target opponent skips their "
 "next combat phase."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik pomija swoją "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik pomija swoją "
 "najbliższą fazę potyczki."
 
 #: ../../TSR.rst:1768
@@ -5677,9 +5669,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../TSR.rst:1774
 msgid ""
@@ -5724,7 +5716,7 @@ msgid ""
 "When Fblthp, the Lost enters the battlefield, draw a card. If it entered "
 "from your library or was cast from your library, draw two cards instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę. Jeśli wszedł z twojej "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę. Jeśli wszedł z twojej "
 "biblioteki albo został rzucony z twojej biblioteki, zamiast tego dobierz "
 "dwie karty."
 
@@ -5775,7 +5767,7 @@ msgstr ""
 
 #: ../../TSR.rst:1797
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../TSR.rst:1799
 msgid ""
@@ -5836,9 +5828,9 @@ msgid ""
 "their owners' hands. Draw a card for each card returned to your hand this "
 "way."
 msgstr ""
-"Przywróć dowolną liczbę wskazanych nie-lądowych nieżetonowych permanentów do "
-"rąk ich właścicieli. Dobierz kartę za każdy z nich przywrócony do twojej "
-"ręki w ten sposób."
+"Przywróć dowolną liczbę wskazanych nie-lądowych nieżetonowych bytów do rąk "
+"ich właścicieli. Dobierz kartę za każdy z nich przywrócony do twojej ręki w "
+"ten sposób."
 
 #: ../../TSR.rst:1826
 msgid ""
@@ -5879,8 +5871,7 @@ msgstr ""
 
 #: ../../TSR.rst:1835
 msgid "Return target nonland permanent with mana value X to its owner's hand."
-msgstr ""
-"Przywróć wskazany nielądowy permanent o skrócie many X do ręki właściciela."
+msgstr "Przywróć wskazany nielądowy byt o skrócie many X do ręki właściciela."
 
 #: ../../TSR.rst:1842
 msgid ""
@@ -5917,7 +5908,7 @@ msgid ""
 "artifact card with mana value 1 or less, reveal that card, put it into your "
 "hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many 1 lub mniejszy, ujawnij ją, umieść ją w "
 "twojej ręce, po czym przetasuj."
 
@@ -5966,10 +5957,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, "
-"gdzie X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten "
-"sposób. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
-"wlicza się do twojego kultu czarnego.)"
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, gdzie "
+"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. ("
+"Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
+"twojego kultu czarnego.)"
 
 #: ../../TSR.rst:1872
 msgid ""
@@ -6084,7 +6075,7 @@ msgid ""
 "When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
 "nie-czarnego stwora."
 
 #: ../../TSR.rst:1909
@@ -6159,8 +6150,7 @@ msgstr ""
 
 #: ../../TSR.rst:1933
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
-"Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego bytu."
 
 #: ../../TSR.rst:1942
 msgid ""
@@ -6188,9 +6178,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
-"|mana_b|\\ |mana_b|, odrzuć kartę: Rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
-"każdego z już obecnych tam rodzajów.)"
+"|mana_b|\\ |mana_b|, odrzuć kartę: Rozpleń. (Wybierz dowolną liczbę bytów i/"
+"lub graczy, po czym daj każdemu z nich kolejny znacznik każdego z już "
+"obecnych tam rodzajów.)"
 
 #: ../../TSR.rst:1946
 msgid ""
@@ -6264,8 +6254,8 @@ msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz "
-"trzy karty."
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz trzy "
+"karty."
 
 #: ../../TSR.rst:1970
 msgid ""
@@ -6352,7 +6342,7 @@ msgid ""
 "When Goblin Engineer enters the battlefield, you may search your library for "
 "an artifact card, put it into your graveyard, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, po czym "
 "przetasować."
 
@@ -6514,9 +6504,8 @@ msgid ""
 "permanent until end of turn. Untap that permanent. It gains haste until end "
 "of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
-"wskazanym permanentem. Odkręć ów permanent. Zyskuje on pośpiech do końca "
-"tury."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"wskazanym bytem. Odkręć ów byt. Zyskuje on pośpiech do końca tury."
 
 #: ../../TSR.rst:2042
 msgid ""
@@ -6558,8 +6547,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
-"3/3."
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../TSR.rst:2056
 msgid ""
@@ -6607,7 +6595,7 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../TSR.rst:2076
@@ -6666,7 +6654,7 @@ msgid ""
 "your library for up to two land cards, put them onto the battlefield tapped, "
 "then shuffle."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
 "twojej bibliotece dwie karty lądów, umieść je przekręcone na polu bitwy, po "
 "czym przetasuj."
 
@@ -6709,7 +6697,7 @@ msgstr ""
 
 #: ../../TSR.rst:2101
 msgid "When Thragtusk enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../TSR.rst:2103
 msgid ""
@@ -6742,7 +6730,7 @@ msgstr ""
 
 #: ../../TSR.rst:2113
 msgid "Destroy target nonland permanent with mana value 3 or less."
-msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
+msgstr "Zniszcz wskazany nie-lądowy byt o skrócie many 3 lub mniejszym."
 
 #: ../../TSR.rst:2122
 msgid ""
@@ -7016,7 +7004,7 @@ msgstr "Zakryte stwory pod twoim władaniem dostają +0/+1."
 
 #: ../../TSR.rst:2201
 msgid "Whenever a permanent you control is turned face up, draw a card."
-msgstr "Ilekroć permanent pod twoim władaniem zostanie odkryty, dobierz kartę."
+msgstr "Ilekroć byt pod twoim władaniem zostanie odkryty, dobierz kartę."
 
 #: ../../TSR.rst:2208
 msgid ""
@@ -7068,8 +7056,8 @@ msgid ""
 "When Tidehollow Sculler enters the battlefield, target opponent reveals "
 "their hand and you choose a nonland card from it. Exile that card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
-"rękę, a ty wybierz z niej nielądową kartę. Wygnaj ową kartę."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją rękę, "
+"a ty wybierz z niej nielądową kartę. Wygnaj ową kartę."
 
 #: ../../TSR.rst:2219
 msgid ""
@@ -7126,7 +7114,7 @@ msgid ""
 "When Contagion Clasp enters the battlefield, put a -1/-1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze."
 
 #: ../../TSR.rst:2237
@@ -7134,8 +7122,8 @@ msgid ""
 "|mana_4|, |tap|: Proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub graczy, "
-"po czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
+"|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po "
+"czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
 #: ../../TSR.rst:2246
@@ -7238,7 +7226,7 @@ msgstr ""
 #: ../../TSR.rst:2273
 msgid "When Leveler enters the battlefield, exile all cards from your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie karty z twojej "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie karty z twojej "
 "biblioteki."
 
 #: ../../TSR.rst:2280
@@ -7270,7 +7258,7 @@ msgid ""
 "additional time."
 msgstr ""
 "Jeśli wejście na pole bitwy artefaktu lub stwora wyzwoli zdolność wyzwalaną "
-"permanentu pod twoim władaniem, owa zdolność jest wyzwalana dodatkowy raz."
+"bytu pod twoim władaniem, owa zdolność jest wyzwalana dodatkowy raz."
 
 #: ../../TSR.rst:2290
 msgid ""
@@ -7285,7 +7273,7 @@ msgid ""
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../TSR.rst:2289
@@ -7353,7 +7341,7 @@ msgid ""
 "Ascend (If you control ten or more permanents, you get the city's blessing "
 "for the rest of the game.)"
 msgstr ""
-"Zaszczyt (Jeśli władasz co najmniej dziesięcioma permanentami, dostajesz "
+"Zaszczyt (Jeśli władasz co najmniej dziesięcioma bytami, dostajesz "
 "błogosławieństwo miasta do końca gry.)"
 
 #: ../../TSR.rst:2315
@@ -7394,7 +7382,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../TSR.rst:2327
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../TSR.rst:2329
 msgid "|tap|: Add |mana_b|."
@@ -7441,7 +7429,7 @@ msgid ""
 "When Mystic Sanctuary enters the battlefield untapped, you may put target "
 "instant or sorcery card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy odkręcony, możesz umieścić wskazaną "
+"Kiedy ten byt wejdzie na pole bitwy odkręcony, możesz umieścić wskazaną "
 "kartę sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../TSR.rst:2352

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:33+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -249,10 +249,10 @@ msgid ""
 "Aura, Equipment, or legendary artifact card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym Rycerzem, spójrz "
-"na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich "
-"kartę Rycerza, Aury, Wyposażenia lub legendarnego artefaktu i umieścić ją w "
-"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Rycerzem, spójrz na "
+"pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich kartę "
+"Rycerza, Aury, Wyposażenia lub legendarnego artefaktu i umieścić ją w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../ELD.rst:16
 msgid ""
@@ -385,7 +385,7 @@ msgstr ""
 
 #: ../../ELD.rst:49
 msgid "When Charming Prince enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../ELD.rst:51
 msgid "Scry 2."
@@ -501,8 +501,8 @@ msgid ""
 "(It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt "
-"mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt mający "
+"\"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:92
 msgid ""
@@ -542,7 +542,7 @@ msgid ""
 "When Glass Casket enters the battlefield, exile target creature an opponent "
 "controls with mana value 3 or less until Glass Casket leaves the battlefield."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wskazanego władanego przez "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego władanego przez "
 "przeciwnika stwora o skrócie many 3 lub mniejszym dopóki ten artefakt nie "
 "opuści pola bitwy."
 
@@ -558,7 +558,7 @@ msgid ""
 "When Happily Ever After enters the battlefield, each player gains 5 life and "
 "draws a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, każdy gracz zyskuje po 5 żyć oraz "
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz zyskuje po 5 żyć oraz "
 "dobiera kartę."
 
 #: ../../ELD.rst:105
@@ -568,10 +568,10 @@ msgid ""
 "and/or cards in your graveyard, and your life total is greater than or equal "
 "to your starting life total, you win the game."
 msgstr ""
-"Na początku twojego kroku utrzymania, jeśli pośród permanentów pod twoim "
-"władaniem jest pięć kolorów oraz co najmniej sześć typów kart pośród kart "
-"pod twoim władaniem i/lub w twoim cmentarzu oraz twoja liczba żyć jest nie "
-"mniejsza niż początkowa, wygrywasz grę."
+"Na początku twojego kroku utrzymania, jeśli pośród bytów pod twoim władaniem "
+"jest pięć kolorów oraz co najmniej sześć typów kart pośród kart pod twoim "
+"władaniem i/lub w twoim cmentarzu oraz twoja liczba żyć jest nie mniejsza "
+"niż początkowa, wygrywasz grę."
 
 #: ../../ELD.rst:114
 msgid ""
@@ -589,7 +589,7 @@ msgid ""
 "When Harmonious Archon enters the battlefield, create two 1/1 white Human "
 "creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
 "Człowiek 1/1."
 
 #: ../../ELD.rst:120
@@ -770,8 +770,8 @@ msgid ""
 "Return target permanent you control to its owner's hand. (Then exile this "
 "card. You may cast the creature later from exile.)"
 msgstr ""
-"Przywróć wskazany permanent pod twoim władaniem do ręki właściciela. "
-"(Następnie wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
+"Przywróć wskazany byt pod twoim władaniem do ręki właściciela. (Następnie "
+"wygnaj tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:188
 msgid ""
@@ -790,8 +790,8 @@ msgid ""
 "When Shining Armor enters the battlefield, attach it to target Knight you "
 "control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego Rycerza "
-"pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego Rycerza pod "
+"twoim władaniem."
 
 #: ../../ELD.rst:185
 msgid "Equipped creature gets +0/+2 and has vigilance."
@@ -980,7 +980,7 @@ msgstr ""
 msgid ""
 "Return target nonland permanent an opponent controls to its owner's hand."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent pod władaniem przeciwnika do ręki "
+"Przywróć wskazany nie-lądowy byt pod władaniem przeciwnika do ręki "
 "właściciela."
 
 #: ../../ELD.rst:260
@@ -992,7 +992,7 @@ msgstr ""
 
 #: ../../ELD.rst:257
 msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../ELD.rst:259
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1010,8 +1010,8 @@ msgid ""
 "When Corridor Monitor enters the battlefield, untap target artifact or "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odkręć wskazany artefakt lub stwora "
-"pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, odkręć wskazany artefakt lub stwora pod "
+"twoim władaniem."
 
 #: ../../ELD.rst:268
 msgid ""
@@ -1040,7 +1040,7 @@ msgstr ""
 
 #: ../../ELD.rst:273
 msgid "When Emry, Lurker of the Loch enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../ELD.rst:275
 msgid ""
@@ -1142,14 +1142,14 @@ msgstr ""
 
 #: ../../ELD.rst:311
 msgid "When Gadwick, the Wizened enters the battlefield, draw X cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz X kart."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz X kart."
 
 #: ../../ELD.rst:313
 msgid ""
 "Whenever you cast a blue spell, tap target nonland permanent an opponent "
 "controls."
 msgstr ""
-"Ilekroć rzucisz niebieski czar, przekręć wskazany nie-lądowy permanent pod "
+"Ilekroć rzucisz niebieski czar, przekręć wskazany nie-lądowy byt pod "
 "władaniem przeciwnika."
 
 #: ../../ELD.rst:318
@@ -1307,7 +1307,7 @@ msgid ""
 "You may have Mirrormade enter the battlefield as a copy of any artifact or "
 "enchantment on the battlefield."
 msgstr ""
-"Możesz sprawić, że ten urok wejdzie na pole bitwy jako kopia dowolnego "
+"Możesz sprawić, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
 "artefaktu lub stwora na polu bitwy."
 
 #: ../../ELD.rst:370
@@ -1338,7 +1338,7 @@ msgid ""
 "or enchantment, return target creature an opponent controls to its owner's "
 "hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz artefaktem lub urokiem, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz artefaktem lub urokiem, "
 "przywróć wskazanego stwora pod władaniem przeciwnika do ręki właściciela."
 
 #: ../../ELD.rst:380
@@ -1382,7 +1382,7 @@ msgid ""
 "any number of them on the bottom of your library and the rest on top in any "
 "order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik mieli dwie karty. "
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik mieli dwie karty. "
 "Następnie wróż 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, po "
 "czym umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na jej "
 "wierzchu w dowolnej kolejności.)"
@@ -1510,7 +1510,7 @@ msgstr "Siła tej karty jest równa liczbie kart w twojej ręce."
 
 #: ../../ELD.rst:429
 msgid "When Syr Elenora enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ELD.rst:431
 msgid ""
@@ -1529,7 +1529,7 @@ msgstr ""
 
 #: ../../ELD.rst:437
 msgid "When Tome Raider enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ELD.rst:444
 msgid ""
@@ -1540,8 +1540,7 @@ msgstr ""
 
 #: ../../ELD.rst:441
 msgid "Return target nonland permanent to its owner's hand. Draw a card."
-msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Dobierz kartę."
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela. Dobierz kartę."
 
 #: ../../ELD.rst:443
 msgid ""
@@ -1643,7 +1642,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1699,7 +1698,7 @@ msgid ""
 "When Barrow Witches enters the battlefield, return target Knight card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę Rycerza z "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę Rycerza z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../ELD.rst:498
@@ -1736,7 +1735,7 @@ msgid ""
 "When Blacklance Paragon enters the battlefield, target Knight gains "
 "deathtouch and lifelink until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany Rycerz zyskuje do końca tury "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany Rycerz zyskuje do końca tury "
 "dotyk śmierci i więź życia."
 
 #: ../../ELD.rst:510
@@ -1766,8 +1765,8 @@ msgid ""
 "When Cauldron Familiar enters the battlefield, each opponent loses 1 life "
 "and you gain 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu, a "
-"ty zyskaj 1 życie."
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu, a ty "
+"zyskaj 1 życie."
 
 #: ../../ELD.rst:515
 msgid ""
@@ -1846,8 +1845,8 @@ msgid ""
 "When Clackbridge Troll enters the battlefield, target opponent creates three "
 "0/1 white Goat creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik tworzy trzy "
-"żetony białego stwora Koza 0/1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik tworzy trzy żetony "
+"białego stwora Koza 0/1."
 
 #: ../../ELD.rst:537
 msgid ""
@@ -2023,7 +2022,7 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -2320,8 +2319,8 @@ msgid ""
 "When Tempting Witch enters the battlefield, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt "
-"mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt mający "
+"\"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:689
 msgid "|mana_2|, |tap|, Sacrifice a Food: Target player loses 3 life."
@@ -2339,7 +2338,7 @@ msgid ""
 "When Wicked Guardian enters the battlefield, you may have it deal 2 damage "
 "to another creature you control. If you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że zada on innemu "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że zada on innemu "
 "wskazanemu stworowi pod twoim władaniem 2 obrażenia. Jeśli tak zrobisz, "
 "dobierz kartę."
 
@@ -2487,7 +2486,7 @@ msgid ""
 "When Burning-Yard Trainer enters the battlefield, another target Knight you "
 "control gets +2/+2 and gains trample and haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, inny wskazany Rycerz pod twoim "
+"Kiedy ten byt wejdzie na pole bitwy, inny wskazany Rycerz pod twoim "
 "władaniem dostaje do końca tury +2/+2 oraz tratowanie i pośpiech."
 
 #: ../../ELD.rst:742
@@ -2544,7 +2543,7 @@ msgid ""
 "When Embercleave enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../ELD.rst:757
@@ -2803,10 +2802,10 @@ msgid ""
 "on the battlefield, gain control of that permanent, it loses all abilities, "
 "and it can't attack or block."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskaż Człowieka lub artefakt pod "
+"Kiedy ten byt wejdzie na pole bitwy, wskaż Człowieka lub artefakt pod "
 "władaniem przeciwnika. Na czas pozostawania niniejszego stwora na polu bitwy "
-"zyskaj władanie nad owym permanentem, traci on wszystkie zdolności i nie "
-"może atakować ani blokować."
+"zyskaj władanie nad owym bytem, traci on wszystkie zdolności i nie może "
+"atakować ani blokować."
 
 #: ../../ELD.rst:842
 msgid ""
@@ -2832,7 +2831,7 @@ msgid ""
 "permanent is dealt damage this way, you sacrifice a land."
 msgstr ""
 "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 4 obrażenia. Jeśli "
-"nieczerwony permanent otrzyma obrażenia w ten sposób, poświęć ląd."
+"nieczerwony byt otrzyma obrażenia w ten sposób, poświęć ląd."
 
 #: ../../ELD.rst:850
 msgid ""
@@ -3058,8 +3057,8 @@ msgid ""
 "an opponent controls, it deals that much damage plus 2 instead."
 msgstr ""
 "Jeśli czerwone źródło pod twoim władaniem miałoby zadać obrażenia "
-"przeciwnikowi lub permanentowi pod władaniem przeciwnika, zamiast tego "
-"zadaje ono o 2 obrażenia więcej."
+"przeciwnikowi lub bytowi pod władaniem przeciwnika, zamiast tego zadaje ono "
+"o 2 obrażenia więcej."
 
 #: ../../ELD.rst:914
 msgid ""
@@ -3163,9 +3162,9 @@ msgid ""
 "hand, create three Food tokens. (They're artifacts with \"|mana_2|, |tap|, "
 "Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli rzuciłeś go z twojej ręki, "
-"stwórz trzy żetony Jadła. (Są to artefakty ze zdolnością \"|mana_2|, |tap|, "
-"poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z twojej ręki, stwórz "
+"trzy żetony Jadła. (Są to artefakty ze zdolnością \"|mana_2|, |tap|, poświęć "
+"ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:941
 msgid ""
@@ -3209,8 +3208,8 @@ msgid ""
 "an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life."
 "\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt "
-"mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt mający "
+"\"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:956
 msgid ""
@@ -3333,8 +3332,8 @@ msgid ""
 "When Gilded Goose enters the battlefield, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt "
-"mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt mający "
+"\"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:989
 msgid "|mana_1|\\ |mana_g|, |tap|: Create a Food token."
@@ -3411,7 +3410,7 @@ msgstr ""
 
 #: ../../ELD.rst:1013
 msgid "When Kenrith's Transformation enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ELD.rst:1015
 msgid ""
@@ -3477,7 +3476,7 @@ msgid ""
 "permanent."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli przeciwnik włada "
-"zielonym permanentem."
+"zielonym bytem."
 
 #: ../../ELD.rst:1035
 msgid ""
@@ -3673,8 +3672,8 @@ msgid ""
 "When Rosethorn Halberd enters the battlefield, attach it to target non-Human "
 "creature you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora bez "
-"typu Człowiek pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora bez typu "
+"Człowiek pod twoim władaniem."
 
 #: ../../ELD.rst:1097
 msgid ""
@@ -3738,8 +3737,8 @@ msgid ""
 "When Trail of Crumbs enters the battlefield, create a Food token. (It's an "
 "artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt "
-"mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Jadła. (To artefakt mający "
+"\"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1117
 msgid ""
@@ -3750,8 +3749,8 @@ msgid ""
 msgstr ""
 "Ilekroć poświęcisz Jadło, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
 "spójrz na dwie wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
-"nich kartę permanentu i umieścić ją w twojej ręce. Umieść pozostałe w "
-"dowolnej kolejności na spodzie twojej biblioteki."
+"nich kartę bytu i umieścić ją w twojej ręce. Umieść pozostałe w dowolnej "
+"kolejności na spodzie twojej biblioteki."
 
 #: ../../ELD.rst:1120
 msgid ""
@@ -3788,7 +3787,7 @@ msgid ""
 "When Wicked Wolf enters the battlefield, it fights up to one target creature "
 "you don't control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, walczy z co najwyżej jednym wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, walczy z co najwyżej jednym wskazanym "
 "stworem poza twoim władaniem."
 
 #: ../../ELD.rst:1131
@@ -3888,8 +3887,8 @@ msgid ""
 msgstr ""
 "Przywróć co najwyżej X wskazanych kart artefaktu i/lub uroku bez typu Aura o "
 "skrócie many X lub mniejszym z twojego cmentarza na pole bitwy. Jeśli X "
-"wynosi 6 lub więcej, owe permanenty są dodatkowo stworami 4/4 oprócz swoich "
-"innych typów."
+"wynosi 6 lub więcej, owe byty są dodatkowo stworami 4/4 oprócz swoich innych "
+"typów."
 
 #: ../../ELD.rst:1162
 msgid ""
@@ -3906,9 +3905,9 @@ msgid ""
 "creature token with vigilance, then you sacrifice Doom Foretold."
 msgstr ""
 "Na początku kroku utrzymania każdego gracza, ów gracz poświęca nie-lądowy, "
-"nieżetonowy permanent. Jeśli ów gracz nie może, odrzuca kartę i traci 2 "
-"życia, a ty dobierz kartę, zyskaj 2 życia, stwórz żeton białego stwora "
-"Rycerz 2/2 z czujnością, po czym poświęć niniejszy urok."
+"nieżetonowy byt. Jeśli ów gracz nie może, odrzuca kartę i traci 2 życia, a "
+"ty dobierz kartę, zyskaj 2 życia, stwórz żeton białego stwora Rycerz 2/2 z "
+"czujnością, po czym poświęć niniejszy urok."
 
 #: ../../ELD.rst:1170
 msgid ""
@@ -3962,16 +3961,15 @@ msgstr ""
 #: ../../ELD.rst:1181
 msgid "Faeburrow Elder gets +1/+1 for each color among permanents you control."
 msgstr ""
-"Ten stwór dostaje +1/+1 za każdy kolor spośród permanentów pod twoim "
-"władaniem."
+"Ten stwór dostaje +1/+1 za każdy kolor spośród bytów pod twoim władaniem."
 
 #: ../../ELD.rst:1183
 msgid ""
 "|tap|: For each color among permanents you control, add one mana of that "
 "color."
 msgstr ""
-"|tap|: Za każdy kolor spośród permanentów pod twoim władaniem, weź jedną "
-"manę owego koloru."
+"|tap|: Za każdy kolor spośród bytów pod twoim władaniem, weź jedną manę "
+"owego koloru."
 
 #: ../../ELD.rst:1192
 msgid ""
@@ -4142,7 +4140,7 @@ msgid ""
 "1/2 Human Rogue with haste and \"When this creature enters the battlefield, "
 "it deals 1 damage to any target.\""
 msgstr ""
-"Człowiek Łotrzyk 1/2 z pośpiechem oraz \"Kiedy ten stwór wejdzie na pole "
+"Człowiek Łotrzyk 1/2 z pośpiechem oraz \"Kiedy ten byt wejdzie na pole "
 "bitwy, zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../ELD.rst:1248
@@ -4295,7 +4293,7 @@ msgid ""
 "and put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu lub uroku i "
 "umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
 "biblioteki."
@@ -4375,8 +4373,8 @@ msgid ""
 "Whenever Loch Dragon enters the battlefield or attacks, you may discard a "
 "card. If you do, draw a card."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz odrzucić "
-"kartę. Jeśli tak zrobisz, dobierz kartę."
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, możesz odrzucić kartę. "
+"Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../ELD.rst:1326
 msgid ""
@@ -4457,7 +4455,7 @@ msgid ""
 "Adamant — When Clockwork Servant enters the battlefield, if at least three "
 "mana of the same color was spent to cast it, draw a card."
 msgstr ""
-"Nieugiętość — Kiedy ten stwór wejdzie na pole bitwy, jeśli na jego rzucenie "
+"Nieugiętość — Kiedy ten byt wejdzie na pole bitwy, jeśli na jego rzucenie "
 "wydano przynajmniej trzy many tego samego koloru, dobierz kartę."
 
 #: ../../ELD.rst:1354
@@ -4483,8 +4481,8 @@ msgid ""
 "When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse "
 "creature tokens."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
-"Mysz 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora Mysz 1/"
+"1."
 
 #: ../../ELD.rst:1359
 msgid ""
@@ -4522,7 +4520,7 @@ msgstr ""
 
 #: ../../ELD.rst:1371
 msgid "When Golden Egg enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ELD.rst:1373
 msgid "|mana_1|, |tap|, Sacrifice Golden Egg: Add one mana of any color."
@@ -4576,7 +4574,7 @@ msgstr ""
 
 #: ../../ELD.rst:1391
 msgid "When Inquisitive Puppet enters the battlefield, scry 1."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../ELD.rst:1393
 msgid "Exile Inquisitive Puppet: Create a 1/1 white Human creature token."
@@ -4633,7 +4631,7 @@ msgid ""
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -4705,8 +4703,8 @@ msgid ""
 "Whenever you sacrifice another permanent, you may pay |mana_3|. If you do, "
 "create a token that's a copy of Sorcerer's Broom."
 msgstr ""
-"Ilekroć poświęcisz inny permanent, możesz zapłacić |mana_3|. Jeśli tak "
-"zrobisz, stwórz żeton będący kopią niniejszego stwora."
+"Ilekroć poświęcisz inny byt, możesz zapłacić |mana_3|. Jeśli tak zrobisz, "
+"stwórz żeton będący kopią niniejszego stwora."
 
 #: ../../ELD.rst:1440
 msgid ""
@@ -4930,7 +4928,7 @@ msgid ""
 "When Dwarven Mine enters the battlefield untapped, create a 1/1 red Dwarf "
 "creature token."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy odkręcony, stwórz żeton czerwonego "
+"Kiedy ten byt wejdzie na pole bitwy odkręcony, stwórz żeton czerwonego "
 "stwora Krasnolud 1/1."
 
 #: ../../ELD.rst:1514
@@ -4975,7 +4973,7 @@ msgid ""
 "(It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain "
 "3 life.\")"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy odkręcony, stwórz żeton Jadła. (To "
+"Kiedy ten byt wejdzie na pole bitwy odkręcony, stwórz żeton Jadła. (To "
 "artefakt mający \"|mana_2|, |tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1530
@@ -5002,7 +5000,7 @@ msgid ""
 "When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy odkręcony, umieść znacznik +1/+1 na "
+"Kiedy ten byt wejdzie na pole bitwy odkręcony, umieść znacznik +1/+1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../ELD.rst:1538
@@ -5029,7 +5027,7 @@ msgid ""
 "When Mystic Sanctuary enters the battlefield untapped, you may put target "
 "instant or sorcery card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy odkręcony, możesz umieścić wskazaną "
+"Kiedy ten byt wejdzie na pole bitwy odkręcony, możesz umieścić wskazaną "
 "kartę sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../ELD.rst:1544
@@ -5075,7 +5073,7 @@ msgid ""
 "When Witch's Cottage enters the battlefield untapped, you may put target "
 "creature card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy odkręcony, możesz umieścić wskazaną "
+"Kiedy ten byt wejdzie na pole bitwy odkręcony, możesz umieścić wskazaną "
 "kartę stwora z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../ELD.rst:1556
@@ -5218,7 +5216,7 @@ msgid ""
 "and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece i/"
 "lub cmentarzu kartę o nazwie Rowan, Fearless Sparkmage, ujawnij ją i umieść "
 "w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 
@@ -5235,7 +5233,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ELD.rst:1613
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../ELD.rst:1615
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -5325,7 +5323,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ELD.rst:1641
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../ELD.rst:1652
 msgid ""
@@ -5438,7 +5436,7 @@ msgid ""
 "When Chittering Witch enters the battlefield, create a number of 1/1 black "
 "Rat creature tokens equal to the number of opponents you have."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów czarnego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów czarnego stwora "
 "Szczur 1/1, ilu masz przeciwników."
 
 #: ../../ELD.rst:1685
@@ -5567,8 +5565,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. You create a 2/2 white "
 "Knight creature token with vigilance."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Stwórz żeton "
-"białego stwora Rycerz 2/2 z czujnością."
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Stwórz żeton białego "
+"stwora Rycerz 2/2 z czujnością."
 
 #: ../../ELD.rst:1730
 msgid ""
@@ -5606,17 +5604,17 @@ msgid ""
 "equal to the number of opponents you have. (Food tokens are artifacts with "
 "\"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów Jedzenia, ilu "
-"masz przeciwników. (Żetony Jedzenia są artefaktami ze zdolnością \"|mana_2|, "
-"|tap|, poświęć ten artefakt: Zyskaj 3 życia.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów Jedzenia, ilu masz "
+"przeciwników. (Żetony Jedzenia są artefaktami ze zdolnością \"|mana_2|, |tap|"
+", poświęć ten artefakt: Zyskaj 3 życia.\")"
 
 #: ../../ELD.rst:1737
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice another nonland permanent: Gluttonous Troll "
 "gets +2/+2 until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_g|, poświęć inny nie-lądowy permanent: Ten stwór dostaje do "
-"końca tury +2/+2."
+"|mana_1|\\ |mana_g|, poświęć inny nie-lądowy byt: Ten stwór dostaje do końca "
+"tury +2/+2."
 
 #: ../../ELD.rst:1744
 msgid ""
@@ -5653,17 +5651,14 @@ msgstr ""
 msgid ""
 "Whenever Korvold, Fae-Cursed King enters the battlefield or attacks, "
 "sacrifice another permanent."
-msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, poświęć inny "
-"permanent."
+msgstr "Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, poświęć inny byt."
 
 #: ../../ELD.rst:1751
 msgid ""
 "Whenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw "
 "a card."
 msgstr ""
-"Ilekroć poświęcisz permanent, umieść znacznik +1/+1 na tym stworze i dobierz "
-"kartę."
+"Ilekroć poświęcisz byt, umieść znacznik +1/+1 na tym stworze i dobierz kartę."
 
 #: ../../ELD.rst:1760
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-25 20:40+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
 "Language: pl\n"
@@ -1180,8 +1180,8 @@ msgid ""
 "When Hanged Executioner enters the battlefield, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 "
-"z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../VOC.rst:305
 msgid "|mana_3|\\ |mana_w|, Exile Hanged Executioner: Exile target creature."
@@ -1205,7 +1205,7 @@ msgid ""
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_3|\\ |mana_w|\\ |mana_w| (Na początku twojego kroku utrzymania, "
-"jeśli ten permanent wszedł pod twoje władanie po twoim poprzednim kroku "
+"jeśli ten byt wszedł pod twoje władanie po twoim poprzednim kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../VOC.rst:313
@@ -1213,7 +1213,7 @@ msgid ""
 "When Karmic Guide enters the battlefield, return target creature card from "
 "your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
 "twojego cmentarza na pole bitwy."
 
 #: ../../VOC.rst:320
@@ -1251,9 +1251,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
-"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu więcej "
+"lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, umieść ją na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../VOC.rst:330
 msgid ""
@@ -1414,8 +1414,8 @@ msgid ""
 "Choose a creature type. Draw a card for each permanent you control of that "
 "type."
 msgstr ""
-"Wybierz typ stwora. Dobierz kartę za każdy permanent pod twoim władaniem "
-"mający ów typ."
+"Wybierz typ stwora. Dobierz kartę za każdy byt pod twoim władaniem mający ów "
+"typ."
 
 #: ../../VOC.rst:388
 msgid ""
@@ -1430,9 +1430,9 @@ msgid ""
 "more nontoken permanents you control this way, you may put a permanent card "
 "from your hand onto the battlefield."
 msgstr ""
-"Przywróć wszystkie nie-lądowe permanenty do rąk ich właścicieli. Jeśli "
-"przywrócisz w ten sposób co najmniej cztery nieżetonowe permanenty pod twoim "
-"władaniem, możesz umieścić kartę permanentu z twojej ręki na polu bitwy."
+"Przywróć wszystkie nie-lądowe byty do rąk ich właścicieli. Jeśli przywrócisz "
+"w ten sposób co najmniej cztery nieżetonowe byty pod twoim władaniem, możesz "
+"umieścić kartę bytu z twojej ręki na polu bitwy."
 
 #: ../../VOC.rst:396
 msgid ""
@@ -1476,8 +1476,8 @@ msgid ""
 "Enchanted permanent is a colorless land with \"|tap|: Add |colorless|\" and "
 "loses all other card types and abilities."
 msgstr ""
-"Zauroczony permanent jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|"
-"\" i traci wszystkie inne typy karty oraz zdolności."
+"Zauroczony byt jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|\" i "
+"traci wszystkie inne typy karty oraz zdolności."
 
 #: ../../VOC.rst:406
 msgid ""
@@ -1556,7 +1556,7 @@ msgid ""
 "When Rattlechains enters the battlefield, target Spirit gains hexproof until "
 "end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
 "końca tury."
 
 #: ../../VOC.rst:440
@@ -1763,7 +1763,7 @@ msgid ""
 "When Champion of Dusk enters the battlefield, you draw X cards and you lose "
 "X life, where X is the number of Vampires you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz X kart i strać X żyć, gdzie X "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz X kart i strać X żyć, gdzie X "
 "jest liczbą Wampirów pod twoim władaniem."
 
 #: ../../VOC.rst:522
@@ -1842,7 +1842,7 @@ msgid ""
 "equal to that permanent's mana value."
 msgstr ""
 "Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
-"żyć, ile wynosił skrót many owego permanentu."
+"żyć, ile wynosił skrót many owego bytu."
 
 #: ../../VOC.rst:548
 msgid ""
@@ -2521,7 +2521,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../VOC.rst:783
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
-msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany permanent."
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany byt."
 
 #: ../../VOC.rst:792
 msgid ""
@@ -2539,7 +2539,7 @@ msgid ""
 "When Azorius Chancery enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../VOC.rst:791
@@ -2694,7 +2694,7 @@ msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../VOC.rst:845
@@ -2760,7 +2760,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:871
 msgid "When Temple of Enlightenment enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../VOC.rst:882
 msgid ""
@@ -2775,7 +2775,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../VOC.rst:879
 msgid "When Temple of Malice enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../VOC.rst:886
 msgid ""

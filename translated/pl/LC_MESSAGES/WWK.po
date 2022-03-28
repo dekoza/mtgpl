@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 06:56+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -256,7 +256,7 @@ msgid ""
 "may exile target nonland permanent other than Admonition Angel."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
-"wygnać wskazany nielądowy permanent inny niż niniejszy stwór."
+"wygnać wskazany nielądowy byt inny niż niniejszy stwór."
 
 #: ../../WWK.rst:13
 msgid ""
@@ -437,8 +437,7 @@ msgid ""
 "When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each "
 "time it was kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 2 życia za każde podbicie "
-"go."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 2 życia za każde podbicie go."
 
 #: ../../WWK.rst:78
 msgid ""
@@ -483,7 +482,7 @@ msgid ""
 "cards from your graveyard to the battlefield, where X is the number of times "
 "Marshal's Anthem was kicked."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, przywróć co najwyżej X wskazanych kart "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć co najwyżej X wskazanych kart "
 "stworów z twojego cmentarza na pole bitwy, gdzie X jest liczbą podbić tego "
 "uroku."
 
@@ -527,7 +526,7 @@ msgid ""
 "Refraction Trap deals that much damage to any target."
 msgstr ""
 "Zażegnaj najbliższe 3 obrażenia, jakie w tej turze miałoby zadać tobie i/lub "
-"permanentom pod twoim władaniem wybrane przez ciebie źródło. Jeśli obrażenia "
+"bytom pod twoim władaniem wybrane przez ciebie źródło. Jeśli obrażenia "
 "zostaną zażegnane w ten sposób, ten czar zadaje wskazanemu celowi tyle samo "
 "obrażeń."
 
@@ -577,7 +576,7 @@ msgid ""
 "When Stoneforge Mystic enters the battlefield, you may search your library "
 "for an Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Wyposażenia, ujawnić ją, umieścić w twojej ręce, po czym przetasuj."
 
 #: ../../WWK.rst:117
@@ -636,8 +635,8 @@ msgid ""
 "Return target permanent you control and target permanent you don't control "
 "to their owners' hands."
 msgstr ""
-"Przywróć wskazany permanent pod twoim władaniem oraz wskazany permanent poza "
-"twoim władaniem do rąk właścicieli."
+"Przywróć wskazany byt pod twoim władaniem oraz wskazany byt poza twoim "
+"władaniem do rąk właścicieli."
 
 #: ../../WWK.rst:140
 msgid ""
@@ -996,7 +995,7 @@ msgid ""
 "flying until end of turn, where X is the number of times Voyager Drake was "
 "kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej X wskazanych stworów "
+"Kiedy ten byt wejdzie na pole bitwy, co najwyżej X wskazanych stworów "
 "zyskuje latanie do końca tury, gdzie X jest liczbą podbić niniejszego stwora."
 
 #: ../../WWK.rst:260
@@ -1074,8 +1073,8 @@ msgid ""
 "When Bloodhusk Ritualist enters the battlefield, target opponent discards a "
 "card for each time it was kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca tyle "
-"kart, ile razy został podibty."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca tyle kart, "
+"ile razy został podibty."
 
 #: ../../WWK.rst:286
 msgid ""
@@ -1107,7 +1106,7 @@ msgstr "Zaurocz stwora lub ląd"
 
 #: ../../WWK.rst:291
 msgid "When enchanted permanent becomes tapped, destroy it."
-msgstr "Kiedy zauroczony permanent zostanie przekręcony, zniszcz go."
+msgstr "Kiedy zauroczony byt zostanie przekręcony, zniszcz go."
 
 #: ../../WWK.rst:298
 msgid ""
@@ -1745,7 +1744,7 @@ msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
 "Roślina 0/1, iloma lądami władasz."
 
 #: ../../WWK.rst:517
@@ -2034,9 +2033,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
-"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
-"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy byt umieszczony w cmentarzu w ten "
+"sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../WWK.rst:622
 msgid ""
@@ -2236,7 +2235,7 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../WWK.rst:698
@@ -2292,7 +2291,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../WWK.rst:711
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../WWK.rst:713
 msgid "|tap|: Add |mana_b|."
@@ -2419,8 +2418,8 @@ msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina "
-"0/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina 0/"
+"1."
 
 #: ../../WWK.rst:757
 msgid "|tap|: Add |mana_g|."

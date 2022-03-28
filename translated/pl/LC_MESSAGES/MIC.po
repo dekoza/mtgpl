@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-26 21:11+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mic/pl/>\n"
 "Language: pl\n"
@@ -398,9 +398,8 @@ msgid ""
 "number of creatures with different powers. Those creatures gain double "
 "strike until end of turn."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wybierz dowolną "
-"liczbę stworów o różnych siłach. Owe stwory do końca tury zyskują podwójny "
-"cios."
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, wybierz dowolną liczbę "
+"stworów o różnych siłach. Owe stwory do końca tury zyskują podwójny cios."
 
 #: ../../MIC.rst:56
 msgid ""
@@ -439,8 +438,8 @@ msgid ""
 "When Wall of Mourning enters the battlefield, exile a card from the top of "
 "your library face down for each opponent you have."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, za każdego twojego przeciwnika, "
-"wygnaj kartę z wierzchu twojej biblioteki jako zakrytą."
+"Kiedy ten byt wejdzie na pole bitwy, za każdego twojego przeciwnika, wygnaj "
+"kartę z wierzchu twojej biblioteki jako zakrytą."
 
 #: ../../MIC.rst:63
 msgid ""
@@ -1000,7 +999,7 @@ msgid ""
 "When Angel of Glory's Rise enters the battlefield, exile all Zombies, then "
 "return all Human creature cards from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wszystkie Zombi, po czym "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie Zombi, po czym "
 "przywróć wszystkie stwory typu Człowiek z twojego cmentarza na pole bitwy."
 
 #: ../../MIC.rst:254
@@ -1111,7 +1110,7 @@ msgid ""
 "with the least toughness among creatures you control and put two +1/+1 "
 "counters on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim dwa znaczniki +1/+1.)"
 
@@ -1181,9 +1180,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
-"więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu więcej "
+"lądów niż ty, możesz wyszukać w twojej bibliotece kartę Równin, umieść ją na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../MIC.rst:316
 msgid ""
@@ -1352,8 +1351,8 @@ msgid ""
 "Choose a creature type. Draw a card for each permanent you control of that "
 "type."
 msgstr ""
-"Wybierz typ stwora. Dobierz kartę za każdy permanent pod twoim władaniem "
-"mający ów typ."
+"Wybierz typ stwora. Dobierz kartę za każdy byt pod twoim władaniem mający ów "
+"typ."
 
 #: ../../MIC.rst:366
 msgid ""
@@ -1368,9 +1367,9 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zgromadź 2. (Umieść dwa znaczniki +1/"
-"+1 na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw "
-"żeton czarnego stwora Armia Zombi 0/0.)"
+"Kiedy ten byt wejdzie na pole bitwy, zgromadź 2. (Umieść dwa znaczniki +1/+1 "
+"na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../MIC.rst:365
 msgid "Zombie tokens you control have flying."
@@ -1686,7 +1685,7 @@ msgid ""
 "equal to that permanent's mana value."
 msgstr ""
 "Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
-"żyć, ile wynosił skrót many owego permanentu."
+"żyć, ile wynosił skrót many owego bytu."
 
 #: ../../MIC.rst:460
 msgid ""
@@ -1699,7 +1698,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../MIC.rst:464
 msgid ""
@@ -1785,8 +1784,8 @@ msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
-"Zombi 2/2."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora Zombi "
+"2/2."
 
 #: ../../MIC.rst:494
 msgid ""
@@ -1928,8 +1927,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
-"3/3."
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../MIC.rst:538
 msgid ""
@@ -2011,7 +2009,7 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../MIC.rst:560
@@ -2132,7 +2130,7 @@ msgid ""
 "When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 "
 "counters among any number of target creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, rozmieść cztery znaczniki +1/+1 "
+"Kiedy ten byt wejdzie na pole bitwy, rozmieść cztery znaczniki +1/+1 "
 "pomiędzy dowolną liczbę wskazanych stworów pod twoim władaniem."
 
 #: ../../MIC.rst:594
@@ -2206,7 +2204,7 @@ msgstr ""
 
 #: ../../MIC.rst:617
 msgid "When Gisa and Geralf enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../MIC.rst:619
 msgid ""
@@ -2229,7 +2227,7 @@ msgid ""
 "on an Army you control. If you don't control one, create a 0/0 black Zombie "
 "Army creature token first.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Kiedy ten byt wejdzie na pole bitwy, zgromadź 1. (Umieść znacznik +1/+1 na "
 "Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
 "czarnego stwora Armia Zombi 0/0.)"
 
@@ -2253,7 +2251,7 @@ msgid ""
 "When Heron's Grace Champion enters the battlefield, other Humans you control "
 "get +1/+1 and gain lifelink until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
+"Kiedy ten byt wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
 "twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../MIC.rst:638
@@ -2313,9 +2311,9 @@ msgid ""
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz "
-"2/2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego "
-"stwora Nosorożec 4/4 z tratowaniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
+"z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego stwora "
+"Nosorożec 4/4 z tratowaniem."
 
 #: ../../MIC.rst:660
 msgid ""
@@ -2470,7 +2468,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../MIC.rst:717
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../MIC.rst:726
 msgid ""
@@ -2545,7 +2543,7 @@ msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MIC.rst:747
@@ -2623,7 +2621,7 @@ msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
 "twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../MIC.rst:782
@@ -2693,7 +2691,7 @@ msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../MIC.rst:801
@@ -2756,7 +2754,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:823
 msgid "When Temple of Deceit enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../MIC.rst:834
 msgid ""
@@ -2771,7 +2769,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MIC.rst:831
 msgid "When Temple of Plenty enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../MIC.rst:838
 msgid ""

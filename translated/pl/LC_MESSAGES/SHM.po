@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -1329,7 +1329,7 @@ msgid ""
 "an opponent's graveyard onto the battlefield under your control. It gains "
 "haste. At the beginning of your next end step, exile it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
 "cmentarza przeciwnika na polu bitwy pod twoim władaniem. Zyskuje on "
 "pośpiech. Na początku twojego najbliższego kroku końcowego, wygnaj go."
 
@@ -1496,8 +1496,8 @@ msgid ""
 "If you discard a creature card this way, Cragganwick Cremator deals damage "
 "equal to that card's power to target player or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć losową kartę. Jeśli odrzucisz "
-"w ten sposób kartę stwora, niniejszy stwór zadaje wskazanemu graczowi lub "
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć losową kartę. Jeśli odrzucisz w "
+"ten sposób kartę stwora, niniejszy stwór zadaje wskazanemu graczowi lub "
 "wędrowcowi obrażenia równe sile owej karty."
 
 #: ../../SHM.rst:462
@@ -1848,7 +1848,7 @@ msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
 "przetasuj."
 
@@ -1968,8 +1968,8 @@ msgid ""
 "If you tap a permanent for mana, it produces twice as much of that mana "
 "instead."
 msgstr ""
-"Jeśli przekręcisz permanent biorąc manę, zamiast tego produkuje on "
-"dwukrotność owej many."
+"Jeśli przekręcisz byt biorąc manę, zamiast tego produkuje on dwukrotność "
+"owej many."
 
 #: ../../SHM.rst:642
 msgid ""
@@ -2149,9 +2149,7 @@ msgstr ""
 msgid ""
 "When Woodfall Primus enters the battlefield, destroy target noncreature "
 "permanent."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-stworowy "
-"permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-stworowy byt."
 
 #: ../../SHM.rst:710
 msgid ""
@@ -2927,7 +2925,7 @@ msgid ""
 "When Murderous Redcap enters the battlefield, it deals damage equal to its "
 "power to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
 "równe swojej sile."
 
 #: ../../SHM.rst:1014
@@ -3330,7 +3328,7 @@ msgid ""
 "When Wort, the Raidmother enters the battlefield, create two 1/1 red and "
 "green Goblin Warrior creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czerwono-zielonego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czerwono-zielonego "
 "stwora Goblin Wojownik 1/1."
 
 #: ../../SHM.rst:1167
@@ -3417,7 +3415,7 @@ msgstr ""
 
 #: ../../SHM.rst:1195
 msgid "When Kitchen Finks enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../SHM.rst:1202
 msgid ""
@@ -4070,7 +4068,7 @@ msgid ""
 "two or more black permanents."
 msgstr ""
 "|mana_b|, |tap|: Każdy przeciwnik traci po 1 życiu. Możesz aktywować tylko "
-"jeśli władasz co najmniej dwoma czarnymi permanentami."
+"jeśli władasz co najmniej dwoma czarnymi bytami."
 
 #: ../../SHM.rst:1440
 msgid ""
@@ -4093,7 +4091,7 @@ msgid ""
 "more red permanents."
 msgstr ""
 "|mana_r|, |tap|: Przetasuj twoją bibliotekę. Możesz aktywować tylko jeśli "
-"władasz co najmniej dwoma czerwonymi permanentami."
+"władasz co najmniej dwoma czerwonymi bytami."
 
 #: ../../SHM.rst:1448
 msgid ""
@@ -4117,7 +4115,7 @@ msgid ""
 msgstr ""
 "|mana_w|, |tap|: Umieść wskazaną kartę z cmentarza na spodzie twojej "
 "biblioteki. Możesz aktywować tylko jeśli władasz co najmniej dwoma białymi "
-"permanentami."
+"bytami."
 
 #: ../../SHM.rst:1456
 msgid ""
@@ -4140,8 +4138,7 @@ msgid ""
 "only if you control two or more blue permanents."
 msgstr ""
 "|mana_u|, |tap|: Spójrz na wierzchnią kartę biblioteki wskazanego gracza. "
-"Możesz aktywować tylko jeśli władasz co najmniej dwoma niebieskimi "
-"permanentami."
+"Możesz aktywować tylko jeśli władasz co najmniej dwoma niebieskimi bytami."
 
 #: ../../SHM.rst:1462
 msgid ""
@@ -4191,7 +4188,7 @@ msgid ""
 "green permanents."
 msgstr ""
 "|mana_g|, |tap|: Zyskaj 1 życie. Możesz aktywować tylko jeśli władasz co "
-"najmniej dwoma zielonymi permanentami."
+"najmniej dwoma zielonymi bytami."
 
 #: ../../SHM.rst:1480
 msgid ""

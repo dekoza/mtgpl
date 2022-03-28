@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -350,8 +350,8 @@ msgid ""
 "When Ancestral Blade enters the battlefield, create a 1/1 white Soldier "
 "creature token, then attach Ancestral Blade to it."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton białego stwora "
-"Piechur 1/1, po czym dołącz ten artefakt do niego."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
+"1, po czym dołącz ten artefakt do niego."
 
 #: ../../CMR.rst:41
 msgid "Equipped creature gets +1/+1."
@@ -392,7 +392,7 @@ msgid ""
 "When Angel of the Dawn enters the battlefield, creatures you control get +1/"
 "+1 and gain vigilance until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1 oraz czujność."
 
 #: ../../CMR.rst:58
@@ -412,7 +412,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../CMR.rst:55
 msgid "When Angelic Gift enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:57
 msgid "Enchanted creature has flying."
@@ -629,19 +629,19 @@ msgstr ""
 
 #: ../../CMR.rst:139 ../../CMR.rst:371
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../CMR.rst:141
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../CMR.rst:143
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated unless they're mana abilities."
 msgstr ""
-"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
-"zdolności nie mogą być aktywowane, chyba że dają manę."
+"Zauroczony byt nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../CMR.rst:148
 msgid ""
@@ -791,7 +791,7 @@ msgid ""
 "When Kor Cartographer enters the battlefield, you may search your library "
 "for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasować."
 
 #: ../../CMR.rst:202
@@ -1141,7 +1141,7 @@ msgid ""
 "When Trusty Packbeast enters the battlefield, return target artifact card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:320
@@ -1209,7 +1209,7 @@ msgstr ""
 
 #: ../../CMR.rst:339
 msgid "When Aven Surveyor enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../CMR.rst:341
 msgid "Put a +1/+1 counter on Aven Surveyor."
@@ -1295,7 +1295,7 @@ msgstr ""
 
 #: ../../CMR.rst:373
 msgid "You control enchanted permanent."
-msgstr "Władasz zauroczonym permanentem."
+msgstr "Władasz zauroczonym bytem."
 
 #: ../../CMR.rst:380
 msgid ""
@@ -1485,7 +1485,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1639,7 +1639,7 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1673,9 +1673,8 @@ msgid ""
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (To "
-"artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (To artefakty "
+"mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CMR.rst:508
 msgid ""
@@ -1716,7 +1715,7 @@ msgid ""
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CMR.rst:524
@@ -1736,7 +1735,7 @@ msgstr ""
 
 #: ../../CMR.rst:521
 msgid "The \"legend rule\" doesn't apply to permanents you control."
-msgstr "\"Zasada legend\" nie odnosi się do permanentów pod twoim władaniem."
+msgstr "\"Zasada legend\" nie odnosi się do bytów pod twoim władaniem."
 
 #: ../../CMR.rst:532
 msgid ""
@@ -1781,8 +1780,7 @@ msgid ""
 "When Scholar of Stars enters the battlefield, if you control an artifact, "
 "draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz artefaktem, dobierz "
-"kartę."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz artefaktem, dobierz kartę."
 
 #: ../../CMR.rst:548
 msgid ""
@@ -1796,7 +1794,7 @@ msgid ""
 "When Scholar of the Ages enters the battlefield, return up to two target "
 "instant and/or sorcery cards from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej dwie wskazane "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć co najwyżej dwie wskazane "
 "karty sztuczek i/lub obrzędów z twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:552
@@ -1875,7 +1873,7 @@ msgid ""
 "becomes an artifact creature with base power and toughness 5/5 for as long "
 "as Skilled Animator remains on the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany artefakt pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany artefakt pod twoim władaniem "
 "staje się artefaktowym stworem z bazową siłą i wytrzymałością 5/5 na czas "
 "przebywania niniejszego stwora na polu bitwy."
 
@@ -2141,7 +2139,7 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
 "dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../CMR.rst:674
@@ -2270,7 +2268,7 @@ msgid ""
 "When Eyeblight Assassin enters the battlefield, target creature an opponent "
 "controls gets -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../CMR.rst:714
@@ -2332,7 +2330,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../CMR.rst:736
 msgid ""
@@ -2366,8 +2364,8 @@ msgid ""
 "When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-"
 "Elf creature whose power and toughness aren't equal."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora "
-"bez typu Elf, którego siła i wytrzymałość nie są sobie równe."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora bez "
+"typu Elf, którego siła i wytrzymałość nie są sobie równe."
 
 #: ../../CMR.rst:748
 msgid ""
@@ -2538,7 +2536,7 @@ msgstr ""
 msgid ""
 "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../CMR.rst:810
 msgid ""
@@ -2892,7 +2890,7 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CMR.rst:944
@@ -3051,7 +3049,7 @@ msgstr ""
 
 #: ../../CMR.rst:999
 msgid "When Dragon Mantle enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:1001
 msgid ""
@@ -3168,8 +3166,8 @@ msgid ""
 "Whenever you sacrifice another permanent, you may pay |mana_2|. If you do, "
 "Furnace Celebration deals 2 damage to any target."
 msgstr ""
-"Ilekroć poświęcisz inny permanent, możesz zapłacić |mana_2|. Jeśli tak "
-"zrobisz, ten urok zadaje wskazanemu celowi 2 obrażenia."
+"Ilekroć poświęcisz inny byt, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../CMR.rst:1040
 msgid ""
@@ -3467,7 +3465,7 @@ msgid ""
 "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |"
 "mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_r|. "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_r|. "
 "Kiedy to zrobisz, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../CMR.rst:1158
@@ -3611,7 +3609,7 @@ msgstr ""
 msgid ""
 "When Wild Celebrants enters the battlefield, you may destroy target artifact."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
 
 #: ../../CMR.rst:1210
 msgid ""
@@ -3690,7 +3688,7 @@ msgid ""
 "When Armorcraft Judge enters the battlefield, draw a card for each creature "
 "you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę za każdego stwora pod "
 "twoim władaniem mającego znacznik +1/+1."
 
 #: ../../CMR.rst:1240
@@ -3767,7 +3765,7 @@ msgstr ""
 
 #: ../../CMR.rst:1263
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:1270
 msgid ""
@@ -3798,7 +3796,7 @@ msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
 "przetasuj."
 
@@ -3866,7 +3864,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../CMR.rst:1295
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../CMR.rst:1297
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -3932,8 +3930,8 @@ msgid ""
 "When Ich-Tekik, Salvage Splicer enters the battlefield, create a 3/3 "
 "colorless Phyrexian Golem artifact creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
-"Roślina 0/1, iloma lądami władasz."
+"Kiedy ten permanent wejdzie na pole bitwy, stwórz tyle żetonów zielonego "
+"stwora Roślina 0/1, iloma lądami władasz."
 
 #: ../../CMR.rst:1321
 msgid ""
@@ -4263,7 +4261,7 @@ msgid ""
 "When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
 "your library. You gain life equal to that card's mana value."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 3, po czym ujawnij wierzchnią "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 3, po czym ujawnij wierzchnią "
 "kartę twojej biblioteki. Zyskaj tyle żyć, ile wynosi skrót many owej karty."
 
 #: ../../CMR.rst:1444
@@ -4320,7 +4318,7 @@ msgid ""
 "When Stingerfling Spider enters the battlefield, you may destroy target "
 "creature with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora z "
 "lataniem."
 
 #: ../../CMR.rst:1466
@@ -5036,9 +5034,9 @@ msgid ""
 "library. Put all creature cards of the chosen type revealed this way into "
 "your hand and the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
-"twojej biblioteki. Umieść wszystkie karty stworów wybranego typu ujawnione w "
-"ten sposób w twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij cztery wierzchnie karty twojej "
+"biblioteki. Umieść wszystkie karty stworów wybranego typu ujawnione w ten "
+"sposób w twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../CMR.rst:1709
 msgid "Creatures of the chosen type get +1/+1."
@@ -5153,7 +5151,7 @@ msgstr ""
 
 #: ../../CMR.rst:1749
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../CMR.rst:1751
 msgid "When Filigree Familiar dies, draw a card."
@@ -5381,8 +5379,8 @@ msgid ""
 "When Meteor Golem enters the battlefield, destroy target nonland permanent "
 "an opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
+"władaniem przeciwnika."
 
 #: ../../CMR.rst:1848
 msgid ""
@@ -5488,7 +5486,7 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../CMR.rst:1890
@@ -5503,7 +5501,7 @@ msgid ""
 "When Pirate's Cutlass enters the battlefield, attach it to target Pirate you "
 "control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego Pirata pod "
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego Pirata pod "
 "twoim władaniem."
 
 #: ../../CMR.rst:1887
@@ -5519,7 +5517,7 @@ msgstr ""
 
 #: ../../CMR.rst:1893
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:1895
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -5551,8 +5549,8 @@ msgid ""
 "When Sandstone Oracle enters the battlefield, choose an opponent. If that "
 "player has more cards in hand than you, draw cards equal to the difference."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz "
-"ma więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
+"Kiedy ten byt wejdzie na pole bitwy, wybierz przeciwnika. Jeśli ów gracz ma "
+"więcej kart w ręce niż ty, dobierz tyle kart, ile wynosi różnica."
 
 #: ../../CMR.rst:1910
 msgid ""
@@ -5713,7 +5711,7 @@ msgstr ""
 
 #: ../../CMR.rst:1971
 msgid "|mana_7|, |tap|, Sacrifice Universal Solvent: Destroy target permanent."
-msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany permanent."
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany byt."
 
 #: ../../CMR.rst:1976
 msgid ""
@@ -6054,8 +6052,7 @@ msgstr ""
 
 #: ../../CMR.rst:2099
 msgid "When you cast this spell, tap up to four target permanents."
-msgstr ""
-"Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane permanenty."
+msgstr "Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane byty."
 
 #: ../../CMR.rst:2104
 msgid ""
@@ -6131,7 +6128,7 @@ msgid ""
 "When Faith Unbroken enters the battlefield, exile target creature an "
 "opponent controls until Faith Unbroken leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
 "przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../CMR.rst:2131
@@ -6151,9 +6148,9 @@ msgid ""
 "Return that card to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
-"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
-"najbliższego kroku końcowego."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj inny wskazany byt. Przywróć ową "
+"kartę na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../CMR.rst:2142
 msgid ""
@@ -6167,8 +6164,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Elephant "
 "creature token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Słoń "
-"3/3."
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../CMR.rst:2146
 msgid ""
@@ -6182,7 +6178,7 @@ msgid ""
 "When Ironclad Slayer enters the battlefield, you may return target Aura or "
 "Equipment card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
 "lub Wyposażenia z twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:2150
@@ -6246,7 +6242,7 @@ msgid ""
 "X Plains cards, where X is the number of players who control more lands than "
 "you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
 "najwyżej X kart Równin, gdzie X jest liczbą gracz mających we władaniu "
 "więcej lądów niż ty. Ujawnij owe karty, umieść je w twojej ręce, po czym "
 "przetasuj."
@@ -6483,8 +6479,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
-"został podbity, dobierz kartę."
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Jeśli ten czar został "
+"podbity, dobierz kartę."
 
 #: ../../CMR.rst:2250
 msgid ""
@@ -6528,7 +6524,7 @@ msgstr ""
 
 #: ../../CMR.rst:2261
 msgid "When Mulldrifter enters the battlefield, draw two cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../CMR.rst:2263
 msgid ""
@@ -6590,7 +6586,7 @@ msgid ""
 "opponents control with toughness X or less to its owner's hand, where X is "
 "the number of Islands you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć każdego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć każdego stwora pod władaniem "
 "twoich przeciwników o wytrzymałości X lub mniejszej do rąk właścicieli, "
 "gdzie X jest liczbą Wysp pod twoim władaniem."
 
@@ -6634,7 +6630,7 @@ msgid ""
 "return all creatures to their owners' hands except for Merfolk, Krakens, "
 "Leviathans, Octopuses, and Serpents."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć "
 "wszystkie stwory do rąk właścicieli za wyjątkiem Wodników, Krakenów, "
 "Lewiatanów, Ośmiornic i Wężowników."
 
@@ -6651,7 +6647,7 @@ msgid ""
 "your library. An opponent separates those cards into two piles. Put one pile "
 "into your hand and the other into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij pięć wierzchnich kart twojej "
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij pięć wierzchnich kart twojej "
 "biblioteki. Przeciwnik dzieli owe karty na dwa stosy. Umieść jeden stos w "
 "twojej ręce, a pozostały w twoim cmentarzu."
 
@@ -6756,7 +6752,7 @@ msgid ""
 "When Dualcaster Mage enters the battlefield, copy target instant or sorcery "
 "spell. You may choose new targets for the copy."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
 "obrzędu. Możesz wskazać nowe cele dla kopii."
 
 #: ../../CMR.rst:2344
@@ -6908,7 +6904,7 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
 "ląd."
 
 #: ../../CMR.rst:2392
@@ -6923,7 +6919,7 @@ msgid ""
 "When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant "
 "creature token for each land you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów zielonego stwora "
 "Roślina 0/1, iloma lądami władasz."
 
 #: ../../CMR.rst:2391
@@ -6946,8 +6942,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Bestia "
-"3/3."
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../CMR.rst:2400
 msgid ""
@@ -6976,7 +6971,7 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:2410
@@ -7173,9 +7168,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
-"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
-"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy byt umieszczony w cmentarzu w ten "
+"sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../CMR.rst:2470
 msgid ""
@@ -7258,7 +7253,7 @@ msgid ""
 "library. If it's a land card, put it onto the battlefield. Otherwise, put "
 "that card into your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
 "biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
 "umieść ją w twojej ręce."
 
@@ -7784,7 +7779,7 @@ msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../CMR.rst:2691
@@ -7988,7 +7983,7 @@ msgid ""
 "When Simic Growth Chamber enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../CMR.rst:2783
@@ -8061,7 +8056,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2813
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../CMR.rst:2824
 msgid ""
@@ -8079,7 +8074,7 @@ msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
 "pay |mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten byt wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../CMR.rst:2832
 msgid ""
@@ -8128,7 +8123,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CMR.rst:2845
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../CMR.rst:2854
 msgid ""
@@ -8235,8 +8230,8 @@ msgid ""
 "the battlefield under their owner's control."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
-"wskazanych nielądowych permanentów pod twoim władaniem, po czym przywróć owe "
-"karty na pole bitwy pod władaniem ich właścicieli."
+"wskazanych nielądowych bytów pod twoim władaniem, po czym przywróć owe karty "
+"na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../CMR.rst:2896
 msgid ""
@@ -8456,8 +8451,8 @@ msgid ""
 "types, choose one as you play it.)"
 msgstr ""
 "W trakcie każdej z twoich tur możesz zagrać z twojego cmentarza co najwyżej "
-"po jednej karcie spośród każdego typu permanentu. (Jeśli karta ma kilka "
-"typów permanentu, wybierz jeden podczas zagrywania jej.)"
+"po jednej karcie spośród każdego typu bytu. (Jeśli karta ma kilka typów "
+"bytu, wybierz jeden podczas zagrywania jej.)"
 
 #: ../../CMR.rst:2982
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -324,8 +324,7 @@ msgid ""
 "When Attended Knight enters the battlefield, create a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../M13.rst:40
 msgid ""
@@ -354,8 +353,8 @@ msgid ""
 "When Battleflight Eagle enters the battlefield, target creature gets +2/+2 "
 "and gains flying until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+2/+2 i latanie."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+2 i latanie."
 
 #: ../../M13.rst:54
 msgid ""
@@ -377,7 +376,7 @@ msgid ""
 "When Captain of the Watch enters the battlefield, create three 1/1 white "
 "Soldier creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony białego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony białego stwora "
 "Piechur 1/1."
 
 #: ../../M13.rst:58
@@ -420,7 +419,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../M13.rst:67
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../M13.rst:69
 msgid "Enchanted creature gets +1/+3."
@@ -460,8 +459,8 @@ msgid ""
 "Return to the battlefield all permanent cards in your graveyard that were "
 "put there from the battlefield this turn."
 msgstr ""
-"Przywróć na pole bitwy wszystkie karty permanentów z twojego cmentarza, "
-"które trafiły tam z pola bitwy w tej turze."
+"Przywróć na pole bitwy wszystkie karty bytów z twojego cmentarza, które "
+"trafiły tam z pola bitwy w tej turze."
 
 #: ../../M13.rst:86
 msgid ""
@@ -559,8 +558,7 @@ msgid ""
 "When Oblivion Ring enters the battlefield, exile another target nonland "
 "permanent."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj inny wskazany nielądowy "
-"permanent."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj inny wskazany nielądowy byt."
 
 #: ../../M13.rst:121
 msgid ""
@@ -620,7 +618,7 @@ msgstr ""
 
 #: ../../M13.rst:141
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nielądowe permanenty."
+msgstr "Zniszcz wszystkie nielądowe byty."
 
 #: ../../M13.rst:148
 msgid ""
@@ -768,7 +766,7 @@ msgid ""
 "At the beginning of your upkeep, count the number of permanents you control. "
 "Your life total becomes that number."
 msgstr ""
-"Na początku twojego kroku utrzymania, ustal liczbę permanentów pod twoim "
+"Na początku twojego kroku utrzymania, ustal liczbę bytów pod twoim "
 "władaniem. Liczba twoich żyć przyjmuje tę wartość."
 
 #: ../../M13.rst:204
@@ -793,7 +791,7 @@ msgstr ""
 msgid ""
 "When War Priest of Thune enters the battlefield, you may destroy target "
 "enchantment."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany urok."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazany urok."
 
 #: ../../M13.rst:212
 msgid ""
@@ -814,7 +812,7 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M13.rst:224
@@ -850,8 +848,8 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in any "
 "order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki. Możesz ujawnić spośród nich kartę sztuczki lub obrzędu i "
 "umieścić ją w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
 
@@ -938,8 +936,8 @@ msgid ""
 "Enchanted permanent doesn't untap during its controller's untap step and its "
 "activated abilities can't be activated."
 msgstr ""
-"Zauroczony permanent nie odkręca się podczas kroku odkręcania swojego "
-"władcy, a jego zdolności aktywowane nie mogą być używane."
+"Zauroczony byt nie odkręca się podczas kroku odkręcania swojego władcy, a "
+"jego zdolności aktywowane nie mogą być używane."
 
 #: ../../M13.rst:260
 msgid ""
@@ -1205,7 +1203,7 @@ msgid ""
 "your library. An opponent separates those cards into two piles. Put one pile "
 "into your hand and the other into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij pięć wierzchnich kart twojej "
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij pięć wierzchnich kart twojej "
 "biblioteki. Przeciwnik dzieli owe karty na dwa stosy. Umieść jeden stos w "
 "twojej ręce, a pozostały w twoim cmentarzu."
 
@@ -1374,7 +1372,7 @@ msgid ""
 "When Bloodhunter Bat enters the battlefield, target player loses 2 life and "
 "you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz traci 2 życia, a ty "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz traci 2 życia, a ty "
 "zyskaj 2 życia."
 
 #: ../../M13.rst:416
@@ -1419,7 +1417,7 @@ msgstr ""
 
 #: ../../M13.rst:431
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, strać 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, strać 1 życie."
 
 #: ../../M13.rst:433
 msgid "Enchanted creature gets +3/+1."
@@ -1452,7 +1450,7 @@ msgid ""
 "When Disciple of Bolas enters the battlefield, sacrifice another creature. "
 "You gain X life and draw X cards, where X is that creature's power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć innego stwora. Zyskaj X żyć i "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć innego stwora. Zyskaj X żyć i "
 "dobierz X kart, gdzie X jest siłą owego stwora."
 
 #: ../../M13.rst:446
@@ -1613,7 +1611,7 @@ msgid ""
 "When Liliana's Shade enters the battlefield, you may search your library for "
 "a Swamp card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Bagna, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../M13.rst:495
@@ -1705,7 +1703,7 @@ msgid ""
 "When you control no permanents with phylactery counters on them, sacrifice "
 "Phylactery Lich."
 msgstr ""
-"Kiedy nie masz we władaniu żadnego permanentu mającego znacznik filakterium, "
+"Kiedy nie masz we władaniu żadnego bytu mającego znacznik filakterium, "
 "poświęć tego stwora."
 
 #: ../../M13.rst:534
@@ -1733,8 +1731,7 @@ msgstr ""
 #: ../../M13.rst:537
 msgid ""
 "When Ravenous Rats enters the battlefield, target opponent discards a card."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../M13.rst:542
 msgid ""
@@ -2228,9 +2225,9 @@ msgid ""
 "hand. You may cast an instant or sorcery spell from among those cards "
 "without paying its mana cost."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
-"rękę. Możesz spośród owych kart rzucić czar sztuczki lub obrzędu bez "
-"płacenia jego kosztu many."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją rękę. "
+"Możesz spośród owych kart rzucić czar sztuczki lub obrzędu bez płacenia jego "
+"kosztu many."
 
 #: ../../M13.rst:706
 msgid ""
@@ -2337,8 +2334,8 @@ msgid ""
 "When Thundermaw Hellkite enters the battlefield, it deals 1 damage to each "
 "creature with flying your opponents control. Tap those creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje każdemu stworowi z lataniem "
-"pod władaniem twoich przeciwników po 1 obrażeniu. Przekręć owe stwory."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje każdemu stworowi z lataniem pod "
+"władaniem twoich przeciwników po 1 obrażeniu. Przekręć owe stwory."
 
 #: ../../M13.rst:748
 msgid ""
@@ -2437,8 +2434,8 @@ msgid ""
 "Exile all permanents. Exile all cards from all hands and graveyards. Each "
 "player's life total becomes 1."
 msgstr ""
-"Wygnaj wszystkie permanenty. Wygnaj wszystkie karty ze wszystkich rąk i "
-"cmentarzy. Każdy gracz ma 1 życie."
+"Wygnaj wszystkie byty. Wygnaj wszystkie karty ze wszystkich rąk i cmentarzy. "
+"Każdy gracz ma 1 życie."
 
 #: ../../M13.rst:788
 msgid ""
@@ -2452,7 +2449,7 @@ msgid ""
 "When Acidic Slime enters the battlefield, destroy target artifact, "
 "enchantment, or land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt, urok albo "
 "ląd."
 
 #: ../../M13.rst:792
@@ -2478,7 +2475,7 @@ msgid ""
 "When Bond Beetle enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../M13.rst:800
@@ -2557,7 +2554,7 @@ msgid ""
 "When Elderscale Wurm enters the battlefield, if your life total is less than "
 "7, your life total becomes 7."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli masz mniej niż 7 żyć, liczba "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli masz mniej niż 7 żyć, liczba "
 "twoich żyć ma wartość 7."
 
 #: ../../M13.rst:825
@@ -2592,7 +2589,7 @@ msgstr ""
 
 #: ../../M13.rst:835
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M13.rst:840
 msgid ""
@@ -2701,7 +2698,7 @@ msgstr ""
 
 #: ../../M13.rst:869
 msgid "When Ground Seal enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M13.rst:871
 msgid "Cards in graveyards can't be the targets of spells or abilities."
@@ -2720,7 +2717,7 @@ msgid ""
 "a creature card with deathtouch, hexproof, reach, or trample and reveal it. "
 "Shuffle and put that card on top."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
 "stwora z dotykiem śmierci, antyklątwą, zasięgiem lub tratowaniem i ujawnij "
 "ją. Przetasuj i umieść ową kartę na wierzchu."
 
@@ -2953,7 +2950,7 @@ msgstr ""
 
 #: ../../M13.rst:949
 msgid "When Thragtusk enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../M13.rst:951
 msgid ""
@@ -3018,8 +3015,8 @@ msgid ""
 "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+2/+2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+2."
 
 #: ../../M13.rst:982
 msgid ""
@@ -3031,7 +3028,7 @@ msgstr ""
 
 #: ../../M13.rst:977
 msgid "+3: Destroy target noncreature permanent."
-msgstr "+3: Zniszcz wskazany nie-stworowy permanent."
+msgstr "+3: Zniszcz wskazany nie-stworowy byt."
 
 #: ../../M13.rst:979
 msgid "−2: Gain control of target creature."
@@ -3045,7 +3042,7 @@ msgid ""
 msgstr ""
 "–9: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 7 obrażeń. Ów "
 "gracz lub władca owego wędrowca odrzuca siedem kart, po czym poświęca siedem "
-"permanentów."
+"bytów."
 
 #: ../../M13.rst:986
 msgid ""

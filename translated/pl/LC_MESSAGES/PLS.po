@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 07:05+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pls/pl/>\n"
 "Language: pl\n"
@@ -268,7 +268,7 @@ msgstr "Latanie"
 
 #: ../../PLS.rst:17
 msgid "|mana_w|: Target permanent becomes white until end of turn."
-msgstr "|mana_w|: Wskazany permanent staje się do końca tury biały."
+msgstr "|mana_w|: Wskazany byt staje się do końca tury biały."
 
 #: ../../PLS.rst:22
 msgid ""
@@ -727,7 +727,7 @@ msgstr "Umieszczając ten urok na polu bitwy wybierz kolor."
 
 #: ../../PLS.rst:175
 msgid "All nonland permanents are the chosen color."
-msgstr "Wszystkie nielądowe permanenty są wybranego koloru."
+msgstr "Wszystkie nielądowe byty są wybranego koloru."
 
 #: ../../PLS.rst:184
 msgid ""
@@ -944,7 +944,7 @@ msgstr ""
 
 #: ../../PLS.rst:255
 msgid "When Maggot Carrier enters the battlefield, each player loses 1 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz traci po 1 życiu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz traci po 1 życiu."
 
 #: ../../PLS.rst:260
 msgid ""
@@ -1116,8 +1116,7 @@ msgid ""
 "Whenever a permanent is returned to a player's hand, that player discards a "
 "card."
 msgstr ""
-"Ilekroć permanent zostanie przywrócony do ręki gracza, ów gracz odrzuca "
-"kartę."
+"Ilekroć byt zostanie przywrócony do ręki gracza, ów gracz odrzuca kartę."
 
 #: ../../PLS.rst:324
 msgid ""
@@ -1158,7 +1157,7 @@ msgid ""
 "When Flametongue Kavu enters the battlefield, it deals 4 damage to target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi 4 "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu stworowi 4 "
 "obrażenia."
 
 #: ../../PLS.rst:336
@@ -1648,7 +1647,7 @@ msgid ""
 "When Thornscape Battlemage enters the battlefield, if it was kicked with its "
 "|mana_r| kicker, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity przez |mana_r|, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity przez |mana_r|, "
 "zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../PLS.rst:503
@@ -1656,7 +1655,7 @@ msgid ""
 "When Thornscape Battlemage enters the battlefield, if it was kicked with its "
 "|mana_w| kicker, destroy target artifact."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity przez |mana_w|, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity przez |mana_w|, "
 "zniszcz wskazany artefakt."
 
 #: ../../PLS.rst:508
@@ -1726,7 +1725,7 @@ msgstr "Wybierz jedną —"
 
 #: ../../PLS.rst:529
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../PLS.rst:531
 msgid "Destroy target nonblack creature. It can't be regenerated."

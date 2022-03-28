@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 07:05+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -368,7 +368,7 @@ msgstr ""
 #: ../../C17.rst:47
 msgid ""
 "When Stalking Leonin enters the battlefield, secretly choose an opponent."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, potajemnie wybierz przeciwnika."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, potajemnie wybierz przeciwnika."
 
 #: ../../C17.rst:49
 msgid ""
@@ -391,9 +391,9 @@ msgid ""
 "untap during your untap step.)"
 msgstr ""
 "Do twojej następnej tury twoja liczba żyć nie może się zmienić i zyskujesz "
-"ochronę przed wszystkim. Wszystkie permanenty pod twoim władaniem wycofują "
-"się. (Gdy są wycofane, są traktowane jakby nie istniały. Są wprowadzane "
-"przed odkręcaniem w kroku odkręcania.)"
+"ochronę przed wszystkim. Wszystkie byty pod twoim władaniem wycofują się. ("
+"Gdy są wycofane, są traktowane jakby nie istniały. Są wprowadzane przed "
+"odkręcaniem w kroku odkręcania.)"
 
 #: ../../C17.rst:55
 msgid "Exile Teferi's Protection."
@@ -1415,7 +1415,7 @@ msgid ""
 "When Leonin Relic-Warder enters the battlefield, you may exile target "
 "artifact or enchantment."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany artefakt lub "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazany artefakt lub "
 "urok."
 
 #: ../../C17.rst:405
@@ -1461,7 +1461,7 @@ msgid ""
 "When Orator of Ojutai enters the battlefield, if you revealed a Dragon card "
 "or controlled a Dragon as you cast this spell, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli podczas jego rzucania ujawniłeś "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli podczas jego rzucania ujawniłeś "
 "kartę Smoka lub Smok był pod twoim władaniem, dobierz kartę."
 
 #: ../../C17.rst:422
@@ -1477,7 +1477,7 @@ msgid ""
 "X Plains cards, where X is the number of players who control more lands than "
 "you. Reveal those cards, put them into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
 "najwyżej X kart Równin, gdzie X jest liczbą gracz mających we władaniu "
 "więcej lądów niż ty. Ujawnij owe karty, umieść je w twojej ręce, po czym "
 "przetasuj."
@@ -1617,7 +1617,7 @@ msgid ""
 "do, search your library for an Equipment card with mana value X or less, put "
 "that card onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_x|. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_x|. Jeśli tak "
 "zrobisz, wyszukaj w twojej bibliotece kartę Wyposażenia o skrócie many X lub "
 "mniejszym, umieść ją na polu bitwy, po czym przetasuj."
 
@@ -1685,7 +1685,7 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../C17.rst:492
@@ -1750,7 +1750,7 @@ msgid ""
 "When Harbinger of the Tides enters the battlefield, you may return target "
 "tapped creature an opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazanego "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazanego "
 "przekręconego stwora pod władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../C17.rst:512
@@ -1773,8 +1773,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
-"został podbity, dobierz kartę."
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Jeśli ten czar został "
+"podbity, dobierz kartę."
 
 #: ../../C17.rst:516
 msgid ""
@@ -1785,7 +1785,7 @@ msgstr ""
 
 #: ../../C17.rst:515
 msgid "When Merchant of Secrets enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../C17.rst:524
 msgid ""
@@ -1811,8 +1811,8 @@ msgid ""
 "Dragons — Spells your opponents cast that target you or a permanent you "
 "control cost |mana_2| more to cast."
 msgstr ""
-"Smoki — Rzucanie czarów wskazujących ciebie lub permanent pod twoim "
-"władaniem kosztuje twoich przeciwników o |mana_2| więcej."
+"Smoki — Rzucanie czarów wskazujących ciebie lub byt pod twoim władaniem "
+"kosztuje twoich przeciwników o |mana_2| więcej."
 
 #: ../../C17.rst:528
 msgid ""
@@ -1872,9 +1872,9 @@ msgid ""
 "your library. Put one of them into your hand and the other on the bottom of "
 "your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na dwie wierzchnie karty "
-"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie "
-"twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie twojej "
+"biblioteki."
 
 #: ../../C17.rst:544
 msgid ""
@@ -2023,8 +2023,8 @@ msgid ""
 "When Bloodhusk Ritualist enters the battlefield, target opponent discards a "
 "card for each time it was kicked."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca tyle "
-"kart, ile razy został podibty."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca tyle kart, "
+"ile razy został podibty."
 
 #: ../../C17.rst:590
 msgid ""
@@ -2181,7 +2181,7 @@ msgid ""
 "hand and there are five or more other creatures on the battlefield, destroy "
 "all other creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z ręki i na polu "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został rzucony z ręki i na polu "
 "bitwy jest co najmniej pięć innych stworów, zniszcz wszystkie inne stwory."
 
 #: ../../C17.rst:644
@@ -2372,7 +2372,7 @@ msgid ""
 "an opponent's graveyard onto the battlefield under your control. It gains "
 "haste. At the beginning of your next end step, exile it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
 "cmentarza przeciwnika na polu bitwy pod twoim władaniem. Zyskuje on "
 "pośpiech. Na początku twojego najbliższego kroku końcowego, wygnaj go."
 
@@ -2450,7 +2450,7 @@ msgid ""
 "When Skeletal Vampire enters the battlefield, create two 1/1 black Bat "
 "creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
 "Nietoperz 1/1 z lataniem."
 
 #: ../../C17.rst:727
@@ -2536,6 +2536,9 @@ msgid ""
 "the top card of their library. If it's a permanent card, they put it onto "
 "the battlefield."
 msgstr ""
+"Właściciel wskazanego bytu wtasowuje go do swojej biblioteki, po czym "
+"ujawnia wierzchnią kartę swojej biblioteki. Jeśli to karta bytu, umieszcza "
+"ją na polu bitwy."
 
 #: ../../C17.rst:762
 msgid ""
@@ -3057,8 +3060,8 @@ msgid ""
 "When Bladewing the Risen enters the battlefield, you may return target "
 "Dragon permanent card from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"Smoka z twojego cmentarza na pole bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Smoka "
+"z twojego cmentarza na pole bitwy."
 
 #: ../../C17.rst:931
 msgid "|mana_b|\\ |mana_r|: Dragon creatures get +1/+1 until end of turn."
@@ -3095,8 +3098,8 @@ msgid ""
 "When Broodmate Dragon enters the battlefield, create a 4/4 red Dragon "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czerwonego stwora Smok "
-"4/4 z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czerwonego stwora Smok 4/4 "
+"z lataniem."
 
 #: ../../C17.rst:952
 msgid ""
@@ -3161,7 +3164,7 @@ msgstr ""
 
 #: ../../C17.rst:967 ../../C17.rst:1141
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../C17.rst:969
 msgid "Destroy target nonblack creature. It can't be regenerated."
@@ -3498,9 +3501,9 @@ msgid ""
 "opponent controls. That permanent doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Ilekroć Smok pod twoim władaniem zaatakuje, przekręć wskazany nie-lądowy "
-"permanent pod władaniem przeciwnika. Ów permanent nie odkręci się w "
-"najbliższym kroku odkręcania swojego władcy."
+"Ilekroć Smok pod twoim władaniem zaatakuje, przekręć wskazany nie-lądowy byt "
+"pod władaniem przeciwnika. Ów byt nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../C17.rst:1094
 msgid ""
@@ -3758,7 +3761,7 @@ msgstr "Wyposażony stwór dostaje +6/+6."
 
 #: ../../C17.rst:1187
 msgid "Whenever equipped creature attacks, destroy target permanent."
-msgstr "Ilekroć wyposażony stwór zaatakuje, zniszcz wskazany permanent."
+msgstr "Ilekroć wyposażony stwór zaatakuje, zniszcz wskazany byt."
 
 #: ../../C17.rst:1189
 msgid "Equip |mana_6|"
@@ -4128,7 +4131,7 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
-"|mana_x|: Zniszcz każdy nielądowy permanent o skrócie many X, którego władca "
+"|mana_x|: Zniszcz każdy nielądowy byt o skrócie many X, którego władca "
 "otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
 "aktywować tylko raz na turę."
 
@@ -4192,7 +4195,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../C17.rst:1351
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
-msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany permanent."
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany byt."
 
 #: ../../C17.rst:1356
 msgid ""
@@ -4300,7 +4303,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1391
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C17.rst:1402
 msgid ""
@@ -4315,7 +4318,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1399
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C17.rst:1401 ../../C17.rst:1469 ../../C17.rst:1503 ../../C17.rst:1683
 #: ../../C17.rst:1697 ../../C17.rst:1727
@@ -4336,7 +4339,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../C17.rst:1407
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../C17.rst:1409 ../../C17.rst:1771
 msgid "|tap|: Add |mana_b|."
@@ -4358,7 +4361,7 @@ msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C17.rst:1417
@@ -4452,7 +4455,7 @@ msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C17.rst:1455
@@ -4472,7 +4475,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1461
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C17.rst:1463 ../../C17.rst:1539
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -4632,7 +4635,7 @@ msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C17.rst:1525
@@ -4845,7 +4848,7 @@ msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C17.rst:1609
@@ -4879,7 +4882,7 @@ msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C17.rst:1623
@@ -4970,7 +4973,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1661
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C17.rst:1670
 msgid ""
@@ -5029,7 +5032,7 @@ msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../C17.rst:1691
@@ -5079,7 +5082,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1711
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C17.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -5258,7 +5261,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1787
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C17.rst:1794
 msgid ""

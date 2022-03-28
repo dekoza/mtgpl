@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-26 21:11+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ulg/pl/>\n"
 "Language: pl\n"
@@ -384,7 +384,7 @@ msgid ""
 "sacrifice it unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_3|\\ |mana_w|\\ |mana_w| (Na początku twojego kroku utrzymania, "
-"jeśli ten permanent wszedł pod twoje władanie po twoim poprzednim kroku "
+"jeśli ten byt wszedł pod twoje władanie po twoim poprzednim kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../ULG.rst:61
@@ -392,7 +392,7 @@ msgid ""
 "When Karmic Guide enters the battlefield, return target creature card from "
 "your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
 "twojego cmentarza na pole bitwy."
 
 #: ../../ULG.rst:66
@@ -649,7 +649,7 @@ msgstr ""
 
 #: ../../ULG.rst:151
 msgid "When Delusions of Mediocrity enters the battlefield, you gain 10 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 10 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 10 żyć."
 
 #: ../../ULG.rst:153
 msgid "When Delusions of Mediocrity leaves the battlefield, you lose 10 life."
@@ -912,7 +912,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_2|\\ |mana_b| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzedniego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../ULG.rst:257
@@ -920,7 +920,7 @@ msgid ""
 "When Bone Shredder enters the battlefield, destroy target nonartifact, "
 "nonblack creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego "
 "nieczarnego stwora."
 
 #: ../../ULG.rst:262
@@ -1265,7 +1265,7 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_3|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzedniego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../ULG.rst:383
@@ -1308,14 +1308,14 @@ msgid ""
 "unless you pay its echo cost.)"
 msgstr ""
 "Echo |mana_2|\\ |mana_r| (Na początku twojego kroku utrzymania, jeśli ten "
-"permanent wszedł pod twoje władanie po początku twojego poprzednego kroku "
+"byt wszedł pod twoje władanie po początku twojego poprzednego kroku "
 "utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../ULG.rst:399
 msgid ""
 "When Ghitu Slinger enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../ULG.rst:404
 msgid ""
@@ -1893,7 +1893,7 @@ msgid ""
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ULG.rst:614
@@ -2079,8 +2079,8 @@ msgid ""
 "control since the beginning of your last upkeep, sacrifice it unless you pay "
 "its echo cost.)"
 msgstr ""
-"Echo |mana_3| (Na początku twojego kroku utrzymania, jeśli ten permanent "
-"wszedł pod twoje władanie po początku twojego poprzedniego kroku utrzymania, "
+"Echo |mana_3| (Na początku twojego kroku utrzymania, jeśli ten byt wszedł "
+"pod twoje władanie po początku twojego poprzedniego kroku utrzymania, "
 "poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../ULG.rst:669
@@ -2124,8 +2124,8 @@ msgid ""
 "control since the beginning of your last upkeep, sacrifice it unless you pay "
 "its echo cost.)"
 msgstr ""
-"Echo |mana_4| (Na początku twojego kroku utrzymania, jeśli ten permanent "
-"wszedł pod twoje władanie po początku twojego poprzedniego kroku utrzymania, "
+"Echo |mana_4| (Na początku twojego kroku utrzymania, jeśli ten byt wszedł "
+"pod twoje władanie po początku twojego poprzedniego kroku utrzymania, "
 "poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../ULG.rst:683

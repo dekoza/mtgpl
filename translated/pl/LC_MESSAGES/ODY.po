@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-26 21:11+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ody/pl/>\n"
 "Language: pl\n"
@@ -316,8 +316,8 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"uroku z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę uroku "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../ODY.rst:38
 msgid ""
@@ -350,7 +350,7 @@ msgstr ""
 #: ../../ODY.rst:43
 msgid ""
 "When Aven Cloudchaser enters the battlefield, destroy target enchantment."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany urok."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../ODY.rst:50
 msgid ""
@@ -1161,8 +1161,8 @@ msgid ""
 "Gain control of target Aura that's attached to a permanent. Attach it to "
 "another permanent it can enchant."
 msgstr ""
-"Zyskaj władanie nad wskazaną Aurą dołączoną do permanentu. Dołącz ją do "
-"innego permanentu możliwego do zauroczenia."
+"Zyskaj władanie nad wskazaną Aurą dołączoną do bytu. Dołącz ją do innego "
+"bytu możliwego do zauroczenia."
 
 #: ../../ODY.rst:334
 msgid ""
@@ -1396,7 +1396,7 @@ msgstr ""
 
 #: ../../ODY.rst:415
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../ODY.rst:417 ../../ODY.rst:443
 msgid ""
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: ../../ODY.rst:571
 msgid "Return all permanents to their owners' hands."
-msgstr "Przywróć wszystkie permanenty do rąk ich właścicieli."
+msgstr "Przywróć wszystkie byty do rąk ich właścicieli."
 
 #: ../../ODY.rst:576
 msgid ""
@@ -2208,8 +2208,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../ODY.rst:708
 msgid ""
@@ -2715,7 +2715,7 @@ msgid ""
 "When Anarchist enters the battlefield, you may return target sorcery card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../ODY.rst:876
@@ -3783,7 +3783,7 @@ msgstr ""
 
 #: ../../ODY.rst:1225
 msgid "When Ground Seal enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ODY.rst:1227
 msgid "Cards in graveyards can't be the targets of spells or abilities."

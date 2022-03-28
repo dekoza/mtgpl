@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dtk/pl/>\n"
 "Language: pl\n"
@@ -286,8 +286,8 @@ msgid ""
 "Whenever Arashin Foremost enters the battlefield or attacks, another target "
 "Warrior creature you control gains double strike until end of turn."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, inny wskazany "
-"Wojownik pod twoim władaniem zyskuje podwójny cios do końca tury."
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, inny wskazany Wojownik "
+"pod twoim władaniem zyskuje podwójny cios do końca tury."
 
 #: ../../DTK.rst:26
 msgid ""
@@ -350,7 +350,7 @@ msgid ""
 "with the least toughness among creatures you control and put a +1/+1 counter "
 "on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 1. (Wybierz stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wzmocnij 1. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim znacznik +1/+1.)"
 
@@ -524,7 +524,7 @@ msgid ""
 "When Glaring Aegis enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../DTK.rst:99
@@ -733,7 +733,7 @@ msgid ""
 "When Orator of Ojutai enters the battlefield, if you revealed a Dragon card "
 "or controlled a Dragon as you cast this spell, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli podczas jego rzucania ujawniłeś "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli podczas jego rzucania ujawniłeś "
 "kartę Smoka lub Smok był pod twoim władaniem, dobierz kartę."
 
 #: ../../DTK.rst:174
@@ -756,7 +756,7 @@ msgstr ""
 
 #: ../../DTK.rst:177
 msgid "Return target permanent card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę permanentu z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę bytu z twojego cmentarza na pole bitwy."
 
 #: ../../DTK.rst:184
 msgid ""
@@ -798,7 +798,7 @@ msgid ""
 "with the least toughness among creatures you control and put a +1/+1 counter "
 "on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 1. (Wybierz stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wzmocnij 1. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim znacznik +1/+1.)"
 
@@ -880,9 +880,9 @@ msgid ""
 "3 or less an opponent controls until Silkwrap leaves the battlefield. (That "
 "creature returns under its owner's control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora o skrócie "
-"many 3 lub mniejszym pod władaniem przeciwnika, dopóki ten urok nie opuści "
-"pola bitwy. (Ów stwór wraca pod władaniem swojego właściciela.)"
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora o skrócie many "
+"3 lub mniejszym pod władaniem przeciwnika, dopóki ten urok nie opuści pola "
+"bitwy. (Ów stwór wraca pod władaniem swojego właściciela.)"
 
 #: ../../DTK.rst:222
 msgid ""
@@ -1131,7 +1131,7 @@ msgstr "Zaurocz czerwonego lub zielonego stwora"
 
 #: ../../DTK.rst:301
 msgid "When Encase in Ice enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../DTK.rst:303
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1187,8 +1187,7 @@ msgstr ""
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
-msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+msgstr "Wyzysk (Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić stwora.)"
 
 #: ../../DTK.rst:319
 msgid ""
@@ -1211,7 +1210,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's untap step for "
 "as long as you control Icefall Regent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręca się podczas kroku odkręcania "
 "swojego władcy dopóki władasz niniejszym stworem."
 
@@ -1621,7 +1620,7 @@ msgstr ""
 
 #: ../../DTK.rst:477
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
 #: ../../DTK.rst:484
 msgid ""
@@ -1833,7 +1832,7 @@ msgid ""
 "hand and there are five or more other creatures on the battlefield, destroy "
 "all other creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z ręki i na polu "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został rzucony z ręki i na polu "
 "bitwy jest co najmniej pięć innych stworów, zniszcz wszystkie inne stwory."
 
 #: ../../DTK.rst:546
@@ -1973,11 +1972,13 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:585
+#, fuzzy
 msgid ""
 "When Hedonist's Trove enters the battlefield, exile target opponent's "
 "graveyard."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj cmentarz wskazanego przeciwnika."
+"Kiedy ten permanent wejdzie na pole bitwy, wygnaj wszystkie karty z "
+"cmentarza wskazanego przeciwnika."
 
 #: ../../DTK.rst:587
 msgid "You may play lands from among cards exiled with Hedonist's Trove."
@@ -2206,7 +2207,7 @@ msgstr ""
 #: ../../DTK.rst:659
 msgid ""
 "When Sibsig Icebreakers enters the battlefield, each player discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz odrzuca kartę."
 
 #: ../../DTK.rst:668
 msgid ""
@@ -3205,8 +3206,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, you may return Deathmist "
 "Raptor from your graveyard to the battlefield face up or face down."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostanie odkryty, możesz przywrócić tę "
-"kartę z twojego cmentarza na pole bitwy, odkrytą lub zakrytą."
+"Ilekroć byt pod twoim władaniem zostanie odkryty, możesz przywrócić tę kartę "
+"z twojego cmentarza na pole bitwy, odkrytą lub zakrytą."
 
 #: ../../DTK.rst:983
 msgid ""
@@ -3250,14 +3251,14 @@ msgstr "Wybierz jedną —"
 
 #: ../../DTK.rst:997
 msgid "Destroy target blue or black noncreature permanent."
-msgstr "Zniszcz wskazany niebieski lub czarny permanent nie będący stworem."
+msgstr "Zniszcz wskazany niebieski lub czarny byt nie będący stworem."
 
 #: ../../DTK.rst:999
 msgid ""
 "Permanents you control can't be the targets of blue or black spells your "
 "opponents control this turn."
 msgstr ""
-"W tej turze permanenty pod twoim władaniem nie mogą być wskazywane przez "
+"W tej turze byty pod twoim władaniem nie mogą być wskazywane przez "
 "niebieskie lub czarne czary pod władaniem twoich przeciwników."
 
 #: ../../DTK.rst:1004
@@ -3334,7 +3335,7 @@ msgid ""
 "When Foe-Razer Regent enters the battlefield, you may have it fight target "
 "creature you don't control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że będzie walczył ze "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że będzie walczył ze "
 "wskazanym stworem poza twoim władaniem."
 
 #: ../../DTK.rst:1023
@@ -3535,8 +3536,8 @@ msgid ""
 "Whenever another permanent you control is turned face up, if it's a "
 "creature, put two +1/+1 counters on it."
 msgstr ""
-"Ilekroć inny permanent pod twoim władaniem zostanie odkryty, jeśli jest "
-"stworem, umieść na nim dwa znaczniki +1/+1."
+"Ilekroć inny byt pod twoim władaniem zostanie odkryty, jeśli jest stworem, "
+"umieść na nim dwa znaczniki +1/+1."
 
 #: ../../DTK.rst:1079
 msgid ""
@@ -3583,7 +3584,7 @@ msgid ""
 "creature with the least toughness among creatures you control and put two +1/"
 "+1 counters on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim dwa znaczniki +1/+1.)"
 
@@ -3859,9 +3860,9 @@ msgid ""
 "you choose among any number of target creatures and/or planeswalkers your "
 "opponents control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje 5 obrażeń rozdzielonych "
-"dowolnie pomiędzy dowolną liczbę wskazanych stworów i/lub wedrowców pod "
-"władaniem twoich przeciwników."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje 5 obrażeń rozdzielonych dowolnie "
+"pomiędzy dowolną liczbę wskazanych stworów i/lub wedrowców pod władaniem "
+"twoich przeciwników."
 
 #: ../../DTK.rst:1186
 msgid ""
@@ -3930,7 +3931,7 @@ msgid ""
 "When Dragonlord Silumgar enters the battlefield, gain control of target "
 "creature or planeswalker for as long as you control Dragonlord Silumgar."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wskazanym stworem "
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj władanie nad wskazanym stworem "
 "lub wędrowcem dopóki władasz niniejszym stworem."
 
 #: ../../DTK.rst:1220
@@ -4168,7 +4169,7 @@ msgstr ""
 
 #: ../../DTK.rst:1305
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../DTK.rst:1307
 msgid "Target creature gets -3/-3 until end of turn."
@@ -4192,10 +4193,10 @@ msgid ""
 "creature gains haste. Return it to your hand at the beginning of the next "
 "end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę stwora o "
-"skrócie many 3 lub mniejszym z twojej ręki lub cmentarza na polu bitwy. Ów "
-"stwór zyskuje pośpiech. Przywróć go do twojej ręki na początku najbliższego "
-"kroku końcowego."
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę stwora o skrócie "
+"many 3 lub mniejszym z twojej ręki lub cmentarza na polu bitwy. Ów stwór "
+"zyskuje pośpiech. Przywróć go do twojej ręki na początku najbliższego kroku "
+"końcowego."
 
 #: ../../DTK.rst:1320
 msgid ""
@@ -4209,8 +4210,8 @@ msgid ""
 "When Ancestral Statue enters the battlefield, return a nonland permanent you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć nie-lądowy permanent pod "
-"twoim władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć nie-lądowy byt pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../DTK.rst:1326
 msgid ""

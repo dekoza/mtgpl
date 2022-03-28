@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: ../../CON.rst:33
 msgid "Exile target black or red permanent."
-msgstr "Wygnaj wskazany czarny lub czerwony permanent."
+msgstr "Wygnaj wskazany czarny lub czerwony byt."
 
 #: ../../CON.rst:38
 msgid ""
@@ -642,9 +642,9 @@ msgid ""
 "your library. You may reveal an artifact card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
-"w twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją w "
+"twojej ręce. Umieść pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../CON.rst:156
 msgid ""
@@ -716,8 +716,8 @@ msgid ""
 "When Parasitic Strix enters the battlefield, if you control a black "
 "permanent, target player loses 2 life and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz czarnym permanentem, "
-"wskazany gracz traci 2 życia, zyskaj 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz czarnym bytem, wskazany "
+"gracz traci 2 życia, zyskaj 2 życia."
 
 #: ../../CON.rst:182
 msgid ""
@@ -1982,7 +1982,7 @@ msgid ""
 "When Malfegor enters the battlefield, discard your hand. Each opponent "
 "sacrifices a creature for each card discarded this way."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć twoją rękę. Każdy przeciwnik "
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć twoją rękę. Każdy przeciwnik "
 "poświęca stwora za każdą kartę odrzuconą w ten sposób."
 
 #: ../../CON.rst:624
@@ -2023,7 +2023,7 @@ msgstr ""
 
 #: ../../CON.rst:631
 msgid "+3: Destroy target noncreature permanent."
-msgstr "+3: Zniszcz wskazany nie-stworowy permanent."
+msgstr "+3: Zniszcz wskazany nie-stworowy byt."
 
 #: ../../CON.rst:633
 msgid "−2: Gain control of target creature."
@@ -2037,7 +2037,7 @@ msgid ""
 msgstr ""
 "–9: Ten wędrowiec zadaje wskazanemu graczowi lub wędrowcowi 7 obrażeń. Ów "
 "gracz lub władca owego wędrowca odrzuca siedem kart, po czym poświęca siedem "
-"permanentów."
+"bytów."
 
 #: ../../CON.rst:642
 msgid ""
@@ -2136,7 +2136,7 @@ msgid ""
 "When Sphinx Summoner enters the battlefield, you may search your library for "
 "an artifact creature card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu lub stwora, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 

@@ -2,13 +2,13 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng_horde/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.10.1\n"
 
 # 29e1cf1561cf4240a695ee2a05529858
 #: ../../BNG_horde.rst:5
@@ -165,8 +165,8 @@ msgid ""
 "If on of the Horde's permanents would move to any zone other than its "
 "library or graveyard, that card is put into the Horde's graveyard."
 msgstr ""
-"Jeśli permanenty Hordy miałyby zostać przeniesione do jakiejkolwiek innej "
-"strefy niż biblioteka czy cmentarz, zostają umieszczone w cmentarzu Hordy."
+"Jeśli byty Hordy miałyby zostać przeniesione do jakiejkolwiek innej strefy "
+"niż biblioteka czy cmentarz, zostają umieszczone w cmentarzu Hordy."
 
 # 7f551ac6ef214c7aa8a1257597170630
 #: ../../BNG_horde.rst:47

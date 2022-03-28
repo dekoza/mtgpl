@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dst/pl/>\n"
 "Language: pl\n"
@@ -420,7 +420,7 @@ msgstr ""
 
 #: ../../DST.rst:71
 msgid "Destroy all nonartifact permanents."
-msgstr "Zniszcz wszystkie nieartefaktowe permanenty."
+msgstr "Zniszcz wszystkie nieartefaktowe byty."
 
 #: ../../DST.rst:76
 msgid ""
@@ -635,7 +635,7 @@ msgstr ""
 
 #: ../../DST.rst:149
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../DST.rst:151
 msgid "When Psychic Overload enters the battlefield, tap enchanted permanent."
@@ -643,8 +643,7 @@ msgstr ""
 
 #: ../../DST.rst:153
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
-msgstr ""
-"Zauroczony permanent nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony byt nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../DST.rst:155
 msgid ""
@@ -2434,8 +2433,8 @@ msgid ""
 "When Sundering Titan enters or leaves the battlefield, choose a land of each "
 "basic land type, then destroy those lands."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub je opuści, wybierz po jednym "
-"lądzie każdego bazowego typu, po czym zniszcz owe lądy."
+"Kiedy ten byt wejdzie na pole bitwy lub je opuści, wybierz po jednym lądzie "
+"każdego bazowego typu, po czym zniszcz owe lądy."
 
 #: ../../DST.rst:804
 msgid ""

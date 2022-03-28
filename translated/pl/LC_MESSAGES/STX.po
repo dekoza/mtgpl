@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:30+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -274,7 +274,7 @@ msgstr ""
 
 #: ../../STX.rst:17
 msgid "Exile target nonland permanent. Its controller draws a card."
-msgstr "Wygnaj wskazany nielądowy permanent. Jego władca dobiera kartę."
+msgstr "Wygnaj wskazany nielądowy byt. Jego władca dobiera kartę."
 
 #: ../../STX.rst:22
 msgid ""
@@ -368,7 +368,7 @@ msgid ""
 "Choose target nonland permanent. Until your next turn, it can't attack or "
 "block, and its activated abilities can't be activated."
 msgstr ""
-"Wskaż nielądowy permanent. Do twojej następnej tury nie może on atakować lub "
+"Wskaż nielądowy byt. Do twojej następnej tury nie może on atakować lub "
 "blokować i nie można aktywować jego aktywowanych zdolności."
 
 #: ../../STX.rst:44
@@ -457,15 +457,15 @@ msgstr ""
 
 #: ../../STX.rst:71
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz nie-lądowy permanent"
+msgstr "Zaurocz nie-lądowy byt"
 
 #: ../../STX.rst:73
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
-"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
-"zdolności nie mogą być aktywowane."
+"Zauroczony byt nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../STX.rst:75
 msgid ""
@@ -497,12 +497,12 @@ msgid ""
 "hand."
 msgstr ""
 "Jeśli został zapłacony koszt |mana_2|\\ |mana_w|\\ |mana_w|, przeciwnik "
-"wybiera co najwyżej dwa nielądowe permanenty pod swoim władaniem i przywraca "
-"je do ręki właściciela."
+"wybiera co najwyżej dwa nielądowe byty pod swoim władaniem i przywraca je do "
+"ręki właściciela."
 
 #: ../../STX.rst:83
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nielądowe permanenty."
+msgstr "Zniszcz wszystkie nielądowe byty."
 
 #: ../../STX.rst:90
 msgid ""
@@ -516,7 +516,7 @@ msgid ""
 "When Dueling Coach enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../STX.rst:89
@@ -556,10 +556,10 @@ msgid ""
 "exiled, its owner may play it. A spell cast this way costs |mana_2| more to "
 "cast."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego "
-"przeciwnika. Możesz wygnać z niej nielądową kartę. Przez czas wygnania owej "
-"karty jej właściciel może ją zagrać. Rzucenie czaru w ten sposób kosztuje o |"
-"mana_2| więcej."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na rękę wskazanego przeciwnika. "
+"Możesz wygnać z niej nielądową kartę. Przez czas wygnania owej karty jej "
+"właściciel może ją zagrać. Rzucenie czaru w ten sposób kosztuje o |mana_2| "
+"więcej."
 
 #: ../../STX.rst:104
 msgid ""
@@ -644,7 +644,7 @@ msgid ""
 "When Pilgrim of the Ages enters the battlefield, you may search your library "
 "for a basic Plains card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowej Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
@@ -664,7 +664,7 @@ msgid ""
 "When Pillardrop Rescuer enters the battlefield, return target creature card "
 "with mana value 3 or less from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora o "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora o "
 "skrócie many 3 lub mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../STX.rst:136
@@ -680,7 +680,7 @@ msgid ""
 "Lesson card you own from outside the game and put it into your hand, or "
 "discard a card to draw a card.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
+"Kiedy ten byt wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
 "kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
 "dobrać kartę.)"
 
@@ -696,8 +696,8 @@ msgid ""
 "Exile target nonland permanent. Its controller creates a 3/2 red and white "
 "Spirit creature token."
 msgstr ""
-"Wygnaj wskazany nielądowy permanent. Jego władca tworzy żeton czerwono-"
-"białego stwora Duch 3/2."
+"Wygnaj wskazany nielądowy byt. Jego władca tworzy żeton czerwono-białego "
+"stwora Duch 3/2."
 
 #: ../../STX.rst:144
 msgid ""
@@ -766,7 +766,7 @@ msgid ""
 "Lesson card you own from outside the game and put it into your hand, or "
 "discard a card to draw a card.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
+"Kiedy ten byt wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
 "kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
 "dobrać kartę.)"
 
@@ -837,7 +837,7 @@ msgid ""
 "Whenever a permanent entering the battlefield causes a triggered ability to "
 "trigger, counter that ability unless its controller pays |mana_2|."
 msgstr ""
-"Ilekroć permanent wchodzący na pole bitwy powoduje wyzwolenie zdolności "
+"Ilekroć byt wchodzący na pole bitwy powoduje wyzwolenie zdolności "
 "wyzwalanej, skontruj ową zdolność, chyba że jej właściciel zapłaci |mana_2|."
 
 #: ../../STX.rst:188
@@ -915,7 +915,7 @@ msgid ""
 "When Burrog Befuddler enters the battlefield, target creature an opponent "
 "controls gets -1/-0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -1/-0."
 
 #: ../../STX.rst:216
@@ -969,7 +969,7 @@ msgid ""
 "Return target spell or permanent with mana value 1 or greater to its owner's "
 "hand."
 msgstr ""
-"Przywróć wskazany czar lub permanent o skrócie many 1 lub większym do ręki "
+"Przywróć wskazany czar lub byt o skrócie many 1 lub większym do ręki "
 "właściciela."
 
 #: ../../STX.rst:232
@@ -984,7 +984,7 @@ msgid ""
 "Return target spell or permanent with mana value 1 or greater to its owner's "
 "hand. If its mana value was 4 or less, learn."
 msgstr ""
-"Przywróć wskazany czar lub permanent o skrócie many 1 lub większym do ręki "
+"Przywróć wskazany czar lub byt o skrócie many 1 lub większym do ręki "
 "właściciela. Jeśli jego skrót many wynosi 4 lub mniej, ucz się."
 
 #: ../../STX.rst:240
@@ -1020,7 +1020,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania swojego władcy."
 
@@ -1055,14 +1055,14 @@ msgstr ""
 
 #: ../../STX.rst:255
 msgid "|tap|: Untap another target permanent you control."
-msgstr "|tap|: Odkręć inny wskazany permanent pod twoim władaniem."
+msgstr "|tap|: Odkręć inny wskazany byt pod twoim władaniem."
 
 #: ../../STX.rst:257
 msgid ""
 "|tap|: Tap target permanent. Activate only if you control eight or more "
 "lands."
 msgstr ""
-"|tap|: Przekręć wskazany permanent. Możesz aktywować tylko jeśli władasz co "
+"|tap|: Przekręć wskazany byt. Możesz aktywować tylko jeśli władasz co "
 "najmniej ośmioma lądami."
 
 #: ../../STX.rst:264
@@ -1098,8 +1098,8 @@ msgid ""
 "your choice of a blue Frog creature with base power and toughness 1/1 or a "
 "blue Octopus creature with base power and toughness 4/4."
 msgstr ""
-"Do końca tury wskazany nielądowy permanent traci wszystkie zdolności i staje "
-"się według twojego wyboru albo niebieskim stworem Żaba o bazowej sile i "
+"Do końca tury wskazany nielądowy byt traci wszystkie zdolności i staje się "
+"według twojego wyboru albo niebieskim stworem Żaba o bazowej sile i "
 "wytrzymałości 1/1, albo niebieskim stworem Ośmiornica o bazowej sile i "
 "wytrzymałości 4/4."
 
@@ -1404,7 +1404,7 @@ msgstr ""
 
 #: ../../STX.rst:363
 msgid "When Callous Bloodmage enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../STX.rst:365 ../../STX.rst:403
 msgid ""
@@ -1647,9 +1647,9 @@ msgid ""
 "card you own from outside the game and put it into your hand, or discard a "
 "card to draw a card.)"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić "
-"własną kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić "
-"kartę by dobrać kartę.)"
+"Kiedy ten byt wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
+"kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
+"dobrać kartę.)"
 
 #: ../../STX.rst:449
 msgid "Equipped creature gets +1/+1 and has lifelink."
@@ -1779,7 +1779,7 @@ msgid ""
 "When Tenured Inkcaster enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../STX.rst:493
@@ -2230,9 +2230,9 @@ msgid ""
 "may reveal a Lesson card you own from outside the game and put it into your "
 "hand, or discard a card to draw a card.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony, ucz się. "
-"(Możesz albo ujawnić własną kartę Lekcji spoza gry i umieścić ją w twojej "
-"ręce, albo odrzucić kartę by dobrać kartę.)"
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został rzucony, ucz się. (Możesz "
+"albo ujawnić własną kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo "
+"odrzucić kartę by dobrać kartę.)"
 
 #: ../../STX.rst:633
 msgid ""
@@ -2396,7 +2396,7 @@ msgstr "Tratowanie"
 
 #: ../../STX.rst:687
 msgid "When Bookwurm enters the battlefield, you gain 3 life and draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia i dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia i dobierz kartę."
 
 #: ../../STX.rst:689
 msgid ""
@@ -2448,8 +2448,8 @@ msgid ""
 "control dies this turn, you gain 2 life."
 msgstr ""
 "Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
-"wskazanemu stworowi lub wędrowcowi poza twoim władaniem. Kiedy ów permanent "
-"poza twoim władaniem umrze w tej turze, zyskaj 2 życia."
+"wskazanemu stworowi lub wędrowcowi poza twoim władaniem. Kiedy ów byt poza "
+"twoim władaniem umrze w tej turze, zyskaj 2 życia."
 
 #: ../../STX.rst:710
 msgid ""
@@ -2566,7 +2566,7 @@ msgid ""
 "Lesson card you own from outside the game and put it into your hand, or "
 "discard a card to draw a card.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
+"Kiedy ten byt wejdzie na pole bitwy, ucz się. (Możesz albo ujawnić własną "
 "kartę Lekcji spoza gry i umieścić ją w twojej ręce, albo odrzucić kartę by "
 "dobrać kartę.)"
 
@@ -2692,7 +2692,7 @@ msgid ""
 "When Professor of Zoomancy enters the battlefield, create a 1/1 black and "
 "green Pest creature token with \"When this creature dies, you gain 1 life.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czarno-zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czarno-zielonego stwora "
 "Szkodnik 1/1 mające \"Gdy ten stwór umrze, zyskaj 1 życie.\""
 
 #: ../../STX.rst:782
@@ -2736,7 +2736,7 @@ msgstr ""
 
 #: ../../STX.rst:795
 msgid "When Springmane Cervin enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../STX.rst:804
 msgid ""
@@ -3034,8 +3034,8 @@ msgid ""
 "Whenever a permanent you control becomes the target of a spell or ability an "
 "opponent controls, you may draw a card."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostanie wskazany przez czar lub "
-"zdolność pod władaniem przeciwnika, możesz dobrać kartę."
+"Ilekroć byt pod twoim władaniem zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, możesz dobrać kartę."
 
 #: ../../STX.rst:890
 msgid ""
@@ -3223,9 +3223,8 @@ msgid ""
 "−7: Exile up to five target permanents. For each permanent exiled this way, "
 "its controller creates a 4/4 blue and red Elemental creature token."
 msgstr ""
-"–7: Wygnaj co najwyżej pięć wskazanych permanentów. Za każdy permanent "
-"wygnany w ten sposób, jego władca tworzy żeton niebiesko-czerwonego stwora "
-"Żywiołak 4/4."
+"–7: Wygnaj co najwyżej pięć wskazanych bytów. Za każdy byt wygnany w ten "
+"sposób, jego władca tworzy żeton niebiesko-czerwonego stwora Żywiołak 4/4."
 
 #: ../../STX.rst:938
 msgid ""
@@ -3315,7 +3314,7 @@ msgid ""
 "card from your graveyard. Put a number of +1/+1 counters on Torrent Sculptor "
 "equal to half that card's mana value, rounded up."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj kartę sztuczki lub obrzędu z "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj kartę sztuczki lub obrzędu z "
 "twojego cmentarza. Umieść na tym stworze tyle znaczników +1/+1, ile wynosi "
 "połowa skrótu many owej karty, zaokrąglając w górę."
 
@@ -3439,8 +3438,8 @@ msgid ""
 "Return target permanent to its owner's hand. Return target permanent card "
 "from your graveyard to your hand."
 msgstr ""
-"Przywróć wskazany permanent do ręki właściciela. Przywróć wskazaną kartę "
-"permanentu z twojego cmentarza do twojej ręki."
+"Przywróć wskazany byt do ręki właściciela. Przywróć wskazaną kartę bytu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../STX.rst:996
 msgid ""
@@ -3475,7 +3474,7 @@ msgid ""
 "When Biomathematician enters the battlefield, create a 0/0 green and blue "
 "Fractal creature token. Put a +1/+1 counter on each Fractal you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
 "stwora Fraktal 0/0. Umieść znacznik +1/+1 na każdym Fraktalu pod twoim "
 "władaniem."
 
@@ -3515,7 +3514,7 @@ msgid ""
 msgstr ""
 "Stwórz X przekręconych żetonów biało-czarnego stwora Kleks 2/1 z lataniem. "
 "Jeśli X wynosi co najmniej 6, zniszcz wszystkie nie-stworowe, nie-lądowe "
-"permanenty."
+"byty."
 
 #: ../../STX.rst:1018
 msgid ""
@@ -3598,8 +3597,8 @@ msgid ""
 "Destroy each nonland permanent with mana value 2 or less. Add |mana_b| or |"
 "mana_g| for each permanent destroyed this way."
 msgstr ""
-"Zniszcz każdy nielądowy permanent o skrócie many 2 lub mniejszym. Weź |"
-"mana_b| lub |mana_g| za każdy permanent zniszczony w ten sposób."
+"Zniszcz każdy nielądowy byt o skrócie many 2 lub mniejszym. Weź |mana_b| lub "
+"|mana_g| za każdy byt zniszczony w ten sposób."
 
 #: ../../STX.rst:1044
 msgid ""
@@ -3663,9 +3662,9 @@ msgid ""
 "permanent this way, you may return another permanent card from your "
 "graveyard to your hand."
 msgstr ""
-"Każdy gracz poświęca stwora lub wędrowca. Jeśli poświęciłeś permanent w ten "
-"sposób, możesz przywrócić kartę innego permanentu z twojego cmentarza do "
-"twojej ręki."
+"Każdy gracz poświęca stwora lub wędrowca. Jeśli poświęciłeś byt w ten "
+"sposób, możesz przywrócić kartę innego bytu z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../STX.rst:1066
 msgid ""
@@ -3876,7 +3875,7 @@ msgstr ""
 
 #: ../../STX.rst:1121
 msgid "When Galazeth Prismari enters the battlefield, create a Treasure token."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu."
 
 #: ../../STX.rst:1123
 msgid ""
@@ -4082,7 +4081,7 @@ msgstr ""
 
 #: ../../STX.rst:1187
 msgid "Sacrifice a permanent, then draw two cards."
-msgstr "Poświęć permanent, po czym dobierz dwie karty."
+msgstr "Poświęć byt, po czym dobierz dwie karty."
 
 #: ../../STX.rst:1194
 msgid ""
@@ -4161,8 +4160,8 @@ msgid ""
 "token. Draw two cards."
 msgstr ""
 "Ten czar zadaje 4 obrażenia rozdzielone dowolnie między dowolną liczbę "
-"wskazanych celów. Przekręć dwa wskazane permanenty. Stwórz żeton "
-"niebieskiego stwora Żywiołak 4/4. Dobierz dwie karty."
+"wskazanych celów. Przekręć dwa wskazane byty. Stwórz żeton niebieskiego "
+"stwora Żywiołak 4/4. Dobierz dwie karty."
 
 #: ../../STX.rst:1211
 msgid "|mana_ur|\\ |mana_ur|, Discard Magma Opus: Create a Treasure token."
@@ -4196,7 +4195,7 @@ msgid ""
 "Fractal creature token. Put X +1/+1 counters on it, where X is the number of "
 "cards in your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
 "stwora Fraktal 0/0. Umieść na nim X znaczników +1/+1, gdzie X jest liczbą "
 "kart w twojej ręce."
 
@@ -4226,7 +4225,7 @@ msgstr ""
 
 #: ../../STX.rst:1229
 msgid "Destroy target nonland permanent."
-msgstr "Zniszcz wskazany nielądowy permanent."
+msgstr "Zniszcz wskazany nielądowy byt."
 
 #: ../../STX.rst:1234
 msgid ""
@@ -4396,7 +4395,7 @@ msgid ""
 "When Quandrix Cultivator enters the battlefield, you may search your library "
 "for a basic Forest or Island card, put it onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego Lasu lub Wyspy, ujawnij ją, umieść na polu bitwy, po czym "
 "przetasuj."
 
@@ -4498,8 +4497,8 @@ msgid ""
 "When Returned Pastcaller enters the battlefield, return target Spirit, "
 "instant, or sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę Ducha, "
-"sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę Ducha, sztuczki "
+"lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../STX.rst:1338
 msgid ""
@@ -4681,7 +4680,7 @@ msgstr ""
 #: ../../STX.rst:1393
 msgid ""
 "As Silverquill Silencer enters the battlefield, choose a nonland card name."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, nazwij nielądową kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, nazwij nielądową kartę."
 
 #: ../../STX.rst:1395
 msgid ""
@@ -4773,7 +4772,7 @@ msgid ""
 "When Tanazir Quandrix enters the battlefield, double the number of +1/+1 "
 "counters on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, podwój liczbę znaczników +1/+1 na "
+"Kiedy ten byt wejdzie na pole bitwy, podwój liczbę znaczników +1/+1 na "
 "wskazanym stworze pod twoim władaniem."
 
 #: ../../STX.rst:1429
@@ -4843,7 +4842,7 @@ msgstr ""
 
 #: ../../STX.rst:1447
 msgid "Exile target monocolored permanent."
-msgstr "Wygnaj wskazany jednokolorowy permanent."
+msgstr "Wygnaj wskazany jednokolorowy byt."
 
 #: ../../STX.rst:1454
 msgid ""
@@ -4925,8 +4924,7 @@ msgstr ""
 msgid ""
 "Destroy target noncreature, nonland permanent with mana value 2 or less."
 msgstr ""
-"Zniszcz wskazany nie-stworowy, nie-lądowy permanent o skrócie many 2 lub "
-"mniejszym."
+"Zniszcz wskazany nie-stworowy, nie-lądowy byt o skrócie many 2 lub mniejszym."
 
 #: ../../STX.rst:1473
 msgid "Target creature gets -3/-1 until end of turn."
@@ -4987,8 +4985,8 @@ msgid ""
 "When Biblioplex Assistant enters the battlefield, put up to one target "
 "instant or sorcery card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść co najwyżej jedną wskazaną "
-"kartę sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, umieść co najwyżej jedną wskazaną kartę "
+"sztuczki lub obrzędu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../STX.rst:1496
 msgid ""
@@ -5002,7 +5000,7 @@ msgid ""
 "When Campus Guide enters the battlefield, you may search your library for a "
 "basic land card, reveal it, then shuffle and put that card on top."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, po czym przetasuj i umieść ją na wierzchu."
 
 #: ../../STX.rst:1502
@@ -5014,7 +5012,7 @@ msgstr ""
 
 #: ../../STX.rst:1499
 msgid "You can't cast permanent spells."
-msgstr "Nie możesz rzucać czarów permanentów."
+msgstr "Nie możesz rzucać czarów bytów."
 
 #: ../../STX.rst:1501
 msgid ""
@@ -5223,7 +5221,7 @@ msgid ""
 "When Archway Commons enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../STX.rst:1576
 msgid ""

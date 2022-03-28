@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:33+0100\n"
-"PO-Revision-Date: 2022-03-26 19:46+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/grn/pl/>\n"
 "Language: pl\n"
@@ -270,7 +270,7 @@ msgid ""
 "|tap|, Sacrifice Bounty Agent: Destroy target legendary permanent that's an "
 "artifact, creature, or enchantment."
 msgstr ""
-"|tap|, poświęć tego stwora: Zniszcz wskazany legendarny permanent będący "
+"|tap|, poświęć tego stwora: Zniszcz wskazany legendarny byt będący "
 "artefaktem, stworem lub urokiem."
 
 #: ../../GRN.rst:22
@@ -337,8 +337,8 @@ msgid ""
 "permanent an opponent controls until Conclave Tribunal leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
-"dopóki ten urok nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt dopóki "
+"ten urok nie opuści pola bitwy."
 
 #: ../../GRN.rst:44
 msgid ""
@@ -504,7 +504,7 @@ msgid ""
 "When Intrusive Packbeast enters the battlefield, tap up to two target "
 "creatures your opponents control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć co najwyżej dwa wskazane "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć co najwyżej dwa wskazane "
 "stwory pod władaniem przeciwnika."
 
 #: ../../GRN.rst:96
@@ -538,7 +538,7 @@ msgstr ""
 
 #: ../../GRN.rst:109
 msgid "When Loxodon Restorer enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../GRN.rst:116
 msgid ""
@@ -653,8 +653,8 @@ msgid ""
 "When Tenth District Guard enters the battlefield, target creature gets +0/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+0/+1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +0/"
+"+1."
 
 #: ../../GRN.rst:160
 msgid ""
@@ -668,7 +668,7 @@ msgid ""
 "When Venerated Loxodon enters the battlefield, put a +1/+1 counter on each "
 "creature that convoked it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
 "stworze, który przy nim współpracował."
 
 #: ../../GRN.rst:170
@@ -684,7 +684,7 @@ msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../GRN.rst:167
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../GRN.rst:169
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -779,10 +779,9 @@ msgid ""
 "cards of your library, then put any number of them into your graveyard and "
 "the rest on top of your library in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 2. (Spójrz na dwie "
-"wierzchnie karty twojej biblioteki, po czym umieść dowolną ich liczbę w "
-"twoim cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej "
-"kolejności.)"
+"Kiedy ten byt wejdzie na pole bitwy, szpieguj 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę w twoim "
+"cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:200
 msgid ""
@@ -814,8 +813,8 @@ msgid ""
 "number of them into your graveyard and the rest on top of your library in "
 "any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 4. Kiedy to zrobisz, możesz "
-"przywrócić wskazany nie-lądowy permanent pod władaniem przeciwnika do ręki "
+"Kiedy ten byt wejdzie na pole bitwy, szpieguj 4. Kiedy to zrobisz, możesz "
+"przywrócić wskazany nie-lądowy byt pod władaniem przeciwnika do ręki "
 "właściciela. (Aby szpiegować 4, spójrz na cztery wierzchnie karty twojej "
 "biblioteki, po czym umieść dowolną ich liczbę w twoim cmentarzu, a pozostałe "
 "na wierzchu twojej biblioteki w dowolnej kolejności.)"
@@ -858,7 +857,7 @@ msgid ""
 "When Guild Summit enters the battlefield, you may tap any number of untapped "
 "Gates you control. Draw a card for each Gate tapped this way."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, możesz przekręcić dowolną liczbę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przekręcić dowolną liczbę "
 "odkręconych Bram pod twoim władaniem. Dobierz kartę za każdą Bramę "
 "przekręconą w ten sposób."
 
@@ -938,7 +937,7 @@ msgstr ""
 
 #: ../../GRN.rst:247
 msgid "When Muse Drake enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../GRN.rst:254
 msgid ""
@@ -1124,10 +1123,9 @@ msgid ""
 "two cards of your library, then put any number of them into your graveyard "
 "and the rest on top of your library in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 2. (Spójrz na dwie "
-"wierzchnie karty twojej biblioteki, po czym umieść dowolną ich liczbę w "
-"twoim cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej "
-"kolejności.)"
+"Kiedy ten byt wejdzie na pole bitwy, szpieguj 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę w twoim "
+"cmentarzu, a pozostałe na wierzchu twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:320
 msgid ""
@@ -1148,8 +1146,8 @@ msgid ""
 "When Barrier of Bones enters the battlefield, surveil 1. (Look at the top "
 "card of your library. You may put that card into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
+"Kiedy ten byt wejdzie na pole bitwy, szpieguj 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:332
 msgid ""
@@ -1182,7 +1180,7 @@ msgid ""
 "When Blood Operative enters the battlefield, you may exile target card from "
 "a graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazaną kartę z "
 "cmentarza."
 
 #: ../../GRN.rst:339
@@ -1202,7 +1200,7 @@ msgstr ""
 
 #: ../../GRN.rst:343
 msgid "When Burglar Rat enters the battlefield, each opponent discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../GRN.rst:348
 msgid ""
@@ -1338,7 +1336,7 @@ msgid ""
 "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage "
 "to target opponent for each creature card in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu "
+"Ściółka — Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu "
 "przeciwnikowi po 1 obrażeniu za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:398
@@ -1463,7 +1461,7 @@ msgid ""
 "When Plaguecrafter enters the battlefield, each player sacrifices a creature "
 "or planeswalker. Each player who can't discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora lub "
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora lub "
 "wędrowca. Każdy gracz nie mogący tego zrobić odrzuca kartę."
 
 #: ../../GRN.rst:438
@@ -1777,7 +1775,7 @@ msgstr "Ten stwór zadaje wskazanemu stworowi 2 obrażenia."
 
 #: ../../GRN.rst:545
 msgid "Destroy target colorless nonland permanent."
-msgstr "Zniszcz wskazany bezkolorowy nie-lądowy permanent."
+msgstr "Zniszcz wskazany bezkolorowy nie-lądowy byt."
 
 #: ../../GRN.rst:550
 msgid ""
@@ -1934,8 +1932,8 @@ msgid ""
 "When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+2/+0."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+0."
 
 #: ../../GRN.rst:610
 msgid ""
@@ -2037,7 +2035,7 @@ msgid ""
 "target creature you don't control. (Each deals damage equal to its power to "
 "the other.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz kazać mu walczyć ze wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, możesz kazać mu walczyć ze wskazanym "
 "stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia równe swojej "
 "sile.)"
 
@@ -2136,7 +2134,7 @@ msgid ""
 "a basic land card or Gate card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu lub Bramę, ujawnij ją, umieść w twojej ręce, po czym "
 "przetasuj."
 
@@ -2149,7 +2147,7 @@ msgstr ""
 
 #: ../../GRN.rst:679
 msgid "When Generous Stray enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../GRN.rst:686
 msgid ""
@@ -2206,9 +2204,8 @@ msgid ""
 msgstr ""
 "Ściółka — Kiedy rzucisz ten czar, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród "
-"owych kart możesz umieścić na polu bitwy kartę zielonego permanentu o "
-"skrócie many X lub mniejszym. Umieść pozostałe losowo na spodzie twojej "
-"biblioteki."
+"owych kart możesz umieścić na polu bitwy kartę zielonego bytu o skrócie many "
+"X lub mniejszym. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../GRN.rst:702
 msgid ""
@@ -2229,7 +2226,7 @@ msgid ""
 "When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../GRN.rst:710
@@ -2244,7 +2241,7 @@ msgid ""
 "Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life "
 "for each creature card in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 1 życiu za każdą "
+"Ściółka — Kiedy ten byt wejdzie na pole bitwy, zyskaj po 1 życiu za każdą "
 "kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:716
@@ -2261,7 +2258,7 @@ msgid ""
 "until end of turn, where X is the number of creature cards in your "
 "graveyard, then you may have Kraul Harpooner fight that creature."
 msgstr ""
-"Ściółka — Kiedy ten stwór wejdzie na pole bitwy, wskaż co najwyżej jednego "
+"Ściółka — Kiedy ten byt wejdzie na pole bitwy, wskaż co najwyżej jednego "
 "stwora z lataniem poza twoim władaniem. Niniejszy stwór dostaje do końca "
 "tury +X/+0, gdzie X jest liczbą kart stworów w twoim cmentarzu, po czym "
 "możesz kazać mu walczyć z owym stworem."
@@ -2419,7 +2416,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../GRN.rst:779
 msgid "When Urban Utopia enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../GRN.rst:781
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
@@ -2438,8 +2435,8 @@ msgid ""
 "gains vigilance and gets +X/+X until end of turn, where X is the number of "
 "creature cards in your graveyard."
 msgstr ""
-"Ściółka — Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór do końca "
-"tury zyskuje czujność oraz +X/+X, gdzie X jest liczbą kart stworów w twoim "
+"Ściółka — Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury "
+"zyskuje czujność oraz +X/+X, gdzie X jest liczbą kart stworów w twoim "
 "cmentarzu."
 
 #: ../../GRN.rst:787
@@ -2503,9 +2500,9 @@ msgid ""
 "their library for a basic land card, put it onto the battlefield, then "
 "shuffle."
 msgstr ""
-"Zniszcz wskazany permanent pod władaniem przeciwnika. Jego władca może "
-"wyszukać w swojej bibliotece kartę bazowego lądu, umieszcza ją na polu "
-"bitwy, po czym tasuje."
+"Zniszcz wskazany byt pod władaniem przeciwnika. Jego władca może wyszukać w "
+"swojej bibliotece kartę bazowego lądu, umieszcza ją na polu bitwy, po czym "
+"tasuje."
 
 #: ../../GRN.rst:820
 msgid ""
@@ -2597,7 +2594,7 @@ msgstr ""
 #: ../../GRN.rst:843
 msgid ""
 "When Centaur Peacemaker enters the battlefield, each player gains 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz zyskuje po 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz zyskuje po 4 życia."
 
 #: ../../GRN.rst:848
 msgid ""
@@ -2690,7 +2687,7 @@ msgstr ""
 
 #: ../../GRN.rst:875
 msgid "When Crackling Drake enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../GRN.rst:880
 msgid ""
@@ -2752,7 +2749,7 @@ msgid ""
 "When Disinformation Campaign enters the battlefield, you draw a card and "
 "each opponent discards a card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dobierz kartę i każdy z twoich "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i każdy z twoich "
 "przeciwników odrzuca kartę."
 
 #: ../../GRN.rst:901
@@ -2868,8 +2865,8 @@ msgid ""
 "When Glowspore Shaman enters the battlefield, mill three cards. You may put "
 "a land card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty. Możesz umieścić "
-"kartę lądu z twojego cmentarza na wierzchu twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Możesz umieścić kartę "
+"lądu z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../GRN.rst:936
 msgid ""
@@ -2894,8 +2891,8 @@ msgid ""
 "When Golgari Findbroker enters the battlefield, return target permanent card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę permanentu z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę bytu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../GRN.rst:944
 msgid ""
@@ -2969,7 +2966,7 @@ msgid ""
 "black and green Insect creature token for each creature card in your "
 "graveyard."
 msgstr ""
-"Ściółka — Kiedy ten stwór wejdzie na pole bitwy, stwórz po jednym żetonie "
+"Ściółka — Kiedy ten byt wejdzie na pole bitwy, stwórz po jednym żetonie "
 "czarno-zielonego stwora Owad 1/1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:963
@@ -3019,7 +3016,7 @@ msgstr ""
 
 #: ../../GRN.rst:975
 msgid "When Knight of Autumn enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../GRN.rst:977
 msgid "Put two +1/+1 counters on Knight of Autumn."
@@ -3041,8 +3038,8 @@ msgid ""
 "When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the "
 "top card of your library. You may put it into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
+"Kiedy ten byt wejdzie na pole bitwy, szpieguj 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:987
 msgid ""
@@ -3320,7 +3317,7 @@ msgid ""
 "and put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i "
 "umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
 "biblioteki."
@@ -3468,7 +3465,7 @@ msgid ""
 "When Trostani Discordant enters the battlefield, create two 1/1 white "
 "Soldier creature tokens with lifelink."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
 "Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:1131
@@ -3564,13 +3561,12 @@ msgid ""
 "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw "
 "a card."
 msgstr ""
-"+2: Możesz poświęcić inny permanent. Jeśli tak zrobisz, zyskaj 1 życie i "
-"dobierz kartę."
+"+2: Możesz poświęcić inny byt. Jeśli tak zrobisz, zyskaj 1 życie i dobierz "
+"kartę."
 
 #: ../../GRN.rst:1157
 msgid "−3: Destroy target nonland permanent with mana value 3 or less."
-msgstr ""
-"–3: Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
+msgstr "–3: Zniszcz wskazany nie-lądowy byt o skrócie many 3 lub mniejszym."
 
 #: ../../GRN.rst:1159
 msgid ""
@@ -3658,8 +3654,8 @@ msgid ""
 "When Whisper Agent enters the battlefield, surveil 1. (Look at the top card "
 "of your library. You may put it into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, szpieguj 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
+"Kiedy ten byt wejdzie na pole bitwy, szpieguj 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../GRN.rst:1200
 msgid ""
@@ -3744,9 +3740,8 @@ msgid ""
 "value among permanents they control to its owner's hand, then discards a "
 "card."
 msgstr ""
-"Każdy przeciwnik przywraca nie-lądowy permanent o najwyższym skrócie many "
-"spośród permanentów pod swoim władaniem do ręki właścicela, po czym odrzuca "
-"kartę."
+"Każdy przeciwnik przywraca nie-lądowy byt o najwyższym skrócie many spośród "
+"bytów pod swoim władaniem do ręki właścicela, po czym odrzuca kartę."
 
 #: ../../GRN.rst:1224
 msgid ""
@@ -4205,7 +4200,7 @@ msgid ""
 "When Gateway Plaza enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../GRN.rst:1376
 msgid ""

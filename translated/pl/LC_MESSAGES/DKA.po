@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -367,7 +367,7 @@ msgid ""
 "Target permanent you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany permanent pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany byt pod twoim władaniem zyskuje do końca tury ochronę przed "
 "wybranym przez ciebie kolorem."
 
 # 9fa5cb2f49dc4692b1db8bd9db20bd86
@@ -376,9 +376,9 @@ msgid ""
 "Fateful hour — If you have 5 or less life, instead you and each permanent "
 "you control gain protection from the color of your choice until end of turn."
 msgstr ""
-"Pamiętna godzina — Jeśli masz 5 żyć lub mniej, zamiast tego ty i każdy "
-"permanent pod twoim władaniem zyskuje do końca tury ochronę przed wybranym "
-"przez ciebie kolorem."
+"Pamiętna godzina — Jeśli masz 5 żyć lub mniej, zamiast tego ty i każdy byt "
+"pod twoim władaniem zyskuje do końca tury ochronę przed wybranym przez "
+"ciebie kolorem."
 
 #: ../../DKA.rst:50
 msgid ""
@@ -458,7 +458,7 @@ msgid ""
 "When Hollowhenge Spirit enters the battlefield, remove target attacking or "
 "blocking creature from combat."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, usuń wskazanego atakującego lub "
+"Kiedy ten byt wejdzie na pole bitwy, usuń wskazanego atakującego lub "
 "blokującego stwora z potyczki."
 
 #: ../../DKA.rst:68
@@ -564,7 +564,7 @@ msgstr ""
 msgid ""
 "When Niblis of the Mist enters the battlefield, you may tap target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przekręcić wskazanego stwora."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przekręcić wskazanego stwora."
 
 #: ../../DKA.rst:100
 msgid ""
@@ -679,9 +679,9 @@ msgid ""
 "to the battlefield under their owner's control at the beginning of the next "
 "end step."
 msgstr ""
-"Wygnaj wszystkie nielądowe permanenty pod władaniem wskazanego gracza. "
-"Przywróć owe karty na pole bitwy pod władaniem właściciela na początku "
-"najbliższego kroku końcowego."
+"Wygnaj wszystkie nielądowe byty pod władaniem wskazanego gracza. Przywróć "
+"owe karty na pole bitwy pod władaniem właściciela na początku najbliższego "
+"kroku końcowego."
 
 #: ../../DKA.rst:138
 msgid ""
@@ -900,7 +900,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's untap step for "
 "as long as you control Dungeon Geists."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręca się w kroku odkręcania swojego "
 "władcy dopóki władasz niniejszym stworem."
 
@@ -916,7 +916,7 @@ msgstr ""
 msgid ""
 "When Geralf's Mindcrusher enters the battlefield, target player mills five "
 "cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli pięć kart."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz mieli pięć kart."
 
 # 8e03ba834d904d708fea93b998a03e14
 # 3eac7452db5b4489b67f789376476917
@@ -1091,7 +1091,7 @@ msgstr ""
 # b2c4618ab86b47e8a5c73aa49a2e9ea1
 #: ../../DKA.rst:261
 msgid "When Screeching Skaab enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../DKA.rst:266
 msgid ""
@@ -1185,9 +1185,8 @@ msgid ""
 "When Tower Geist enters the battlefield, look at the top two cards of your "
 "library. Put one of them into your hand and the other into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na dwie wierzchnie karty "
-"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą w twoim "
-"cmentarzu."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą w twoim cmentarzu."
 
 #: ../../DKA.rst:308
 msgid ""
@@ -1319,8 +1318,8 @@ msgid ""
 "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"-2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury -2/"
+"-2."
 
 #: ../../DKA.rst:354
 msgid ""
@@ -1359,8 +1358,7 @@ msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 #: ../../DKA.rst:359
 msgid ""
 "When Geralf's Messenger enters the battlefield, target opponent loses 2 life."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia."
 
 #: ../../DKA.rst:368
 msgid ""
@@ -1648,7 +1646,7 @@ msgid ""
 "Morbid — When Wakedancer enters the battlefield, if a creature died this "
 "turn, create a 2/2 black Zombie creature token."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../DKA.rst:458
@@ -1884,8 +1882,8 @@ msgid ""
 "When Forge Devil enters the battlefield, it deals 1 damage to target "
 "creature and 1 damage to you."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi 1 "
-"obrażenie oraz tobie 1 obrażenie."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu stworowi 1 obrażenie "
+"oraz tobie 1 obrażenie."
 
 #: ../../DKA.rst:526
 msgid ""
@@ -2011,7 +2009,7 @@ msgid ""
 "When Markov Warlord enters the battlefield, up to two target creatures can't "
 "block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej dwa wskazane stwory nie "
+"Kiedy ten byt wejdzie na pole bitwy, co najwyżej dwa wskazane stwory nie "
 "mogą blokować w tej turze."
 
 #: ../../DKA.rst:564
@@ -2184,8 +2182,8 @@ msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+2/+2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+2."
 
 #: ../../DKA.rst:628
 msgid ""
@@ -2598,7 +2596,7 @@ msgid ""
 "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this "
 "turn, put two +1/+1 counters on target creature."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, umieść na wskazanym stworze dwa znaczniki +1/+1."
 
 #: ../../DKA.rst:752
@@ -2816,8 +2814,8 @@ msgid ""
 "Whenever this creature enters the battlefield or transforms into Huntmaster "
 "of the Fells, create a 2/2 green Wolf creature token and you gain 2 life."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub transformuje na tę stronę, "
-"stwórz żeton zielonego stwora Wilk 2/2 i zyskaj 2 życia."
+"Ilekroć ten byt wejdzie na pole bitwy lub transformuje na tę stronę, stwórz "
+"żeton zielonego stwora Wilk 2/2 i zyskaj 2 życia."
 
 # 3fd6ae1017d14daa9969162f9aaeff98
 #: ../../DKA.rst:815

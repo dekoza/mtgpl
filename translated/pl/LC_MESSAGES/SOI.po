@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
 "Language: pl\n"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: ../../SOI.rst:19
 msgid "As an additional cost to cast this spell, sacrifice a permanent."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć permanent."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć byt."
 
 #: ../../SOI.rst:21
 msgid "Exile target artifact, creature, or enchantment."
@@ -302,7 +302,7 @@ msgid ""
 "When Apothecary Geist enters the battlefield, if you control another Spirit, "
 "you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym Duchem, zyskaj 3 "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Duchem, zyskaj 3 "
 "życia."
 
 #: ../../SOI.rst:38
@@ -326,7 +326,7 @@ msgid ""
 "When Archangel Avacyn enters the battlefield, creatures you control gain "
 "indestructible until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem zyskują "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem zyskują "
 "niezniszczalność do końca tury."
 
 #: ../../SOI.rst:37
@@ -407,8 +407,8 @@ msgid ""
 "Sacrifice another permanent: Attach Bound by Moonsilver to target creature. "
 "Activate only as a sorcery and only once each turn."
 msgstr ""
-"Poświęć inny permanent: Dołącz ten urok do wskazanego stwora. Aktywuj tylko "
-"jako obrzęd i co najwyżej raz na turę."
+"Poświęć inny byt: Dołącz ten urok do wskazanego stwora. Aktywuj tylko jako "
+"obrzęd i co najwyżej raz na turę."
 
 #: ../../SOI.rst:66
 msgid ""
@@ -561,7 +561,7 @@ msgid ""
 "When Emissary of the Sleepless enters the battlefield, if a creature died "
 "this turn, create a 1/1 white Spirit creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł stwór, stwórz "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł stwór, stwórz "
 "żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../SOI.rst:114
@@ -707,7 +707,7 @@ msgid ""
 "When Inspiring Captain enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1."
 
 #: ../../SOI.rst:164
@@ -861,7 +861,7 @@ msgstr ""
 
 #: ../../SOI.rst:201
 msgid "|mana_2|, |tap|, Sacrifice another permanent: Transform Pious Evangel."
-msgstr "|mana_2|, |tap|, poświęć inny permanent: Transformuj tego stwora."
+msgstr "|mana_2|, |tap|, poświęć inny byt: Transformuj tego stwora."
 
 #: ../../SOI.rst:206
 msgid ""
@@ -1002,7 +1002,7 @@ msgid ""
 "When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each "
 "other Human you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
 "Człowieku pod twoim władaniem."
 
 #: ../../SOI.rst:249
@@ -1026,9 +1026,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:262
 msgid ""
@@ -1042,7 +1042,7 @@ msgid ""
 "When Topplegeist enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../SOI.rst:261
@@ -1184,8 +1184,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. Then that player "
 "discards a card if you control a Zombie."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Następnie ów "
-"gracz odrzuca kartę jeśli władasz Zombi."
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Następnie ów gracz "
+"odrzuca kartę jeśli władasz Zombi."
 
 #: ../../SOI.rst:310
 msgid ""
@@ -1268,9 +1268,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:334
 msgid ""
@@ -1284,8 +1284,7 @@ msgid ""
 "When Drunau Corpse Trawler enters the battlefield, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czarnego stwora Zombi "
-"2/2."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../SOI.rst:333
 msgid "|mana_2|\\ |mana_b|: Target Zombie gains deathtouch until end of turn."
@@ -1368,9 +1367,9 @@ msgid ""
 "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
 "a card.\")"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:357
 msgid "Whenever you sacrifice a Clue, target player mills three cards."
@@ -1447,7 +1446,7 @@ msgstr ""
 
 #: ../../SOI.rst:387
 msgid "Put target permanent on top of its owner's library."
-msgstr "Umieść wskazany permanent na wierzchu biblioteki właściciela."
+msgstr "Umieść wskazany byt na wierzchu biblioteki właściciela."
 
 #: ../../SOI.rst:396
 msgid ""
@@ -1538,7 +1537,7 @@ msgid ""
 "When Lamplighter of Selhoff enters the battlefield, if you control another "
 "Zombie, you may draw a card. If you do, discard a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym Zombi, możesz "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Zombi, możesz "
 "dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../SOI.rst:426
@@ -1552,7 +1551,7 @@ msgstr ""
 msgid ""
 "When Manic Scribe enters the battlefield, each opponent mills three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik mieli po trzy karty."
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik mieli po trzy karty."
 
 #: ../../SOI.rst:425
 msgid ""
@@ -1600,7 +1599,7 @@ msgid ""
 "When Nephalia Moondrakes enters the battlefield, target creature gains "
 "flying until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór zyskuje do końca tury "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór zyskuje do końca tury "
 "latanie."
 
 #: ../../SOI.rst:439
@@ -1698,7 +1697,7 @@ msgid ""
 "When Rattlechains enters the battlefield, target Spirit gains hexproof until "
 "end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
 "końca tury."
 
 #: ../../SOI.rst:475
@@ -1768,7 +1767,7 @@ msgstr ""
 
 #: ../../SOI.rst:501
 msgid "When Sleep Paralysis enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../SOI.rst:503
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1827,7 +1826,7 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania swojego władcy."
 
@@ -2170,7 +2169,7 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
 "dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../SOI.rst:632
@@ -2519,7 +2518,7 @@ msgstr "Latanie, tratowanie"
 
 #: ../../SOI.rst:735
 msgid "When Mindwrack Demon enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../SOI.rst:737
 msgid ""
@@ -2586,7 +2585,7 @@ msgstr ""
 
 #: ../../SOI.rst:763
 msgid "When Pale Rider of Trostad enters the battlefield, discard a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, odrzuć kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, odrzuć kartę."
 
 #: ../../SOI.rst:770
 msgid ""
@@ -2738,7 +2737,7 @@ msgid ""
 "When Stromkirk Mentor enters the battlefield, put a +1/+1 counter on another "
 "target Vampire you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na innym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na innym "
 "wskazanym Wampirze pod twoim władaniem."
 
 #: ../../SOI.rst:812
@@ -2783,7 +2782,7 @@ msgid ""
 "When Tooth Collector enters the battlefield, target creature an opponent "
 "controls gets -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika dostaje do końca tury -1/-1."
 
 #: ../../SOI.rst:823
@@ -3111,8 +3110,8 @@ msgid ""
 "controller."
 msgstr ""
 "Ilekroć źródło pod władaniem przeciwnika miałoby zadać obrażenia tobie lub "
-"permanentom pod twoim władaniem, możesz sprawić, że niniejszy stwór zada "
-"władcy owego źródła 1 obrażenie."
+"bytom pod twoim władaniem, możesz sprawić, że niniejszy stwór zada władcy "
+"owego źródła 1 obrażenie."
 
 #: ../../SOI.rst:920
 msgid ""
@@ -3219,7 +3218,7 @@ msgid ""
 "When Gibbering Fiend enters the battlefield, it deals 1 damage to each "
 "opponent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 1 "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 1 "
 "obrażeniu."
 
 #: ../../SOI.rst:949
@@ -3636,7 +3635,7 @@ msgid ""
 "Exile target artifact or land. Structural Distortion deals 2 damage to that "
 "permanent's controller."
 msgstr ""
-"Wygnaj wskazany artefakt lub ląd. Ten czar zadaje władcy owego permanentu 2 "
+"Wygnaj wskazany artefakt lub ląd. Ten czar zadaje władcy owego bytu 2 "
 "obrażenia."
 
 #: ../../SOI.rst:1100
@@ -3739,8 +3738,8 @@ msgid ""
 "When Voldaren Duelist enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
-"tej turze."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../SOI.rst:1136
 msgid ""
@@ -3920,8 +3919,8 @@ msgid ""
 "Whenever a permanent you control transforms into a non-Human creature, "
 "create a 2/2 green Wolf creature token."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem transformuje w stwora bez typu "
-"Człowiek, stwórz żeton zielonego stwora Wilk 2/2."
+"Ilekroć byt pod twoim władaniem transformuje w stwora bez typu Człowiek, "
+"stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SOI.rst:1188
 msgid ""
@@ -4176,7 +4175,7 @@ msgid ""
 "When Intrepid Provisioner enters the battlefield, another target Human you "
 "control gets +2/+2 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, inny wskazany Człowiek pod twoim "
+"Kiedy ten byt wejdzie na pole bitwy, inny wskazany Człowiek pod twoim "
 "władaniem dostaje do końca tury +2/+2."
 
 #: ../../SOI.rst:1268
@@ -4307,7 +4306,7 @@ msgid ""
 "When Obsessive Skinner enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../SOI.rst:1301
@@ -4332,7 +4331,7 @@ msgid ""
 "When Pack Guardian enters the battlefield, you may discard a land card. If "
 "you do, create a 2/2 green Wolf creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz odrzucić kartę lądu. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę lądu. Jeśli tak "
 "zrobisz, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SOI.rst:1312
@@ -4389,7 +4388,7 @@ msgstr ""
 
 #: ../../SOI.rst:1327
 msgid "When Sage of Ancient Lore enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../SOI.rst:1329
 msgid ""
@@ -4607,7 +4606,7 @@ msgid ""
 "When Ulvenwald Hydra enters the battlefield, you may search your library for "
 "a land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SOI.rst:1400
@@ -4697,9 +4696,9 @@ msgid ""
 "When Weirding Wood enters the battlefield, investigate. (Create a colorless "
 "Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
+")"
 
 #: ../../SOI.rst:1421
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -4721,8 +4720,8 @@ msgid ""
 "You may have Altered Ego enter the battlefield as a copy of any creature on "
 "the battlefield, except it enters with X additional +1/+1 counters on it."
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
-"stwora na polu bitwy z tą różnicą, że wejdzie mając X znaczników +1/+1."
+"Możesz sprawić, że ten byt wejdzie na pole bitwy jako kopia dowolnego stwora "
+"na polu bitwy z tą różnicą, że wejdzie mając X znaczników +1/+1."
 
 #: ../../SOI.rst:1432
 msgid ""
@@ -4733,7 +4732,7 @@ msgstr ""
 
 #: ../../SOI.rst:1431
 msgid "Exile target nonland permanent. You lose 3 life."
-msgstr "Wygnaj wskazany nie-lądowy permanent. Strać 3 życia."
+msgstr "Wygnaj wskazany nie-lądowy byt. Strać 3 życia."
 
 #: ../../SOI.rst:1438
 msgid ""

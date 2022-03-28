@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:30+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -247,7 +247,7 @@ msgid ""
 "mana_1|. When you do, attach Ancestral Katana to it."
 msgstr ""
 "Ilekroć Samuraj lub Wojownik pod twoim władaniem zaatakuje samotnie, możesz "
-"zapłacić |mana_1|. Kiedy tak zrobisz, dołącz do niego ten permanent."
+"zapłacić |mana_1|. Kiedy tak zrobisz, dołącz do niego ten byt."
 
 #: ../../NEO.rst:11
 msgid "Equipped creature gets +2/+1."
@@ -283,8 +283,8 @@ msgid ""
 "battlefield. Put the rest on the bottom of your library in a random order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść spośród nich "
-"dowolną liczbę kart nielądowych permanentów o całkowitym skrócie many 4 lub "
-"mniej na polu bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"dowolną liczbę kart nielądowych bytów o całkowitym skrócie many 4 lub mniej "
+"na polu bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../NEO.rst:23
 msgid ""
@@ -406,8 +406,8 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +1/+1 for each "
 "creature and/or Vehicle you control."
 msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje +1/+1 za każdego innego "
-"stwora i/lub Pojazd pod twoim władaniem."
+"O ile zauroczony byt jest stworem, dostaje +1/+1 za każdego innego stwora i/"
+"lub Pojazd pod twoim władaniem."
 
 #: ../../NEO.rst:53
 msgid ""
@@ -534,8 +534,7 @@ msgstr ""
 
 #: ../../NEO.rst:97
 msgid "II — Each player gains control of all permanents they own."
-msgstr ""
-"II — Każdy gracz zyskuje władanie nad wszystkimi własnymi permanentami."
+msgstr "II — Każdy gracz zyskuje władanie nad wszystkimi własnymi bytami."
 
 #: ../../NEO.rst:106
 msgid ""
@@ -682,15 +681,15 @@ msgstr ""
 
 #: ../../NEO.rst:149
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../NEO.rst:151
 msgid ""
 "Enchanted permanent can't attack, block, or crew Vehicles. Its activated "
 "abilities can't be activated unless they're mana abilities."
 msgstr ""
-"Zauroczony permanent nie może atakować, blokować ani załogować Pojazdów. "
-"Jego aktywowane zdolności nie mogą być aktywowane, chyba że dają manę."
+"Zauroczony byt nie może atakować, blokować ani załogować Pojazdów. Jego "
+"aktywowane zdolności nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../NEO.rst:156
 msgid ""
@@ -705,8 +704,8 @@ msgid ""
 "distribute four +1/+1 counters among any number of creatures and/or Vehicles "
 "target player controls."
 msgstr ""
-"Przywróć wskazaną kartę permanentu z twojego cmentarza na pole bitwy, po "
-"czym rozmieść cztery znaczniki +1/+1 pomiędzy dowolną liczbą stworów i/lub "
+"Przywróć wskazaną kartę bytu z twojego cmentarza na pole bitwy, po czym "
+"rozmieść cztery znaczniki +1/+1 pomiędzy dowolną liczbą stworów i/lub "
 "Pojazdów pod władaniem wskazanego gracza."
 
 #: ../../NEO.rst:164
@@ -746,7 +745,7 @@ msgid ""
 "When Kyodai, Soul of Kamigawa enters the battlefield, another target "
 "permanent gains indestructible for as long as you control Kyodai."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, inny wskazany permanent zyskuje "
+"Kiedy ten byt wejdzie na pole bitwy, inny wskazany byt zyskuje "
 "niezniszczalność na czas twojego władania niniejszym stworem."
 
 #: ../../NEO.rst:173
@@ -774,7 +773,7 @@ msgstr "Umieść znacznik +1/+1 na wskazanym stworze lub Pojeździe. Odkręć go
 
 #: ../../NEO.rst:181
 msgid "Return target permanent you control to its owner's hand."
-msgstr "Przywróć wskazany permanent pod twoim władaniem do ręki właściciela."
+msgstr "Przywróć wskazany byt pod twoim władaniem do ręki właściciela."
 
 #: ../../NEO.rst:186
 msgid ""
@@ -809,8 +808,8 @@ msgid ""
 "|mana_w|: Exile target card from a graveyard. If it was a permanent card, "
 "put a +1/+1 counter on Lion Sash."
 msgstr ""
-"|mana_w|: Wygnaj wskazaną kartę z cmentarza. Jeśli to karta permanentu, "
-"umieść znacznik +1/+1 na tym permanencie."
+"|mana_w|: Wygnaj wskazaną kartę z cmentarza. Jeśli to karta bytu, umieść "
+"znacznik +1/+1 na tym permanencie."
 
 #: ../../NEO.rst:191
 msgid "Equipped creature gets +1/+1 for each +1/+1 counter on Lion Sash."
@@ -975,9 +974,8 @@ msgid ""
 "II — You may discard a card. When you do, return target permanent card with "
 "mana value 2 or less from your graveyard to the battlefield tapped."
 msgstr ""
-"II — Możesz odrzucić kartę. Kiedy tak zrobisz, przywróć wskazaną kartę "
-"permanentu o skrócie many 2 lub mniejszym z twojego cmentarza przekręconą na "
-"pole bitwy."
+"II — Możesz odrzucić kartę. Kiedy tak zrobisz, przywróć wskazaną kartę bytu "
+"o skrócie many 2 lub mniejszym z twojego cmentarza przekręconą na pole bitwy."
 
 #: ../../NEO.rst:256
 msgid ""
@@ -1032,7 +1030,7 @@ msgid ""
 "When Seven-Tail Mentor enters the battlefield or dies, put a +1/+1 counter "
 "on target creature or Vehicle you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, umieść znacznik +1/+1 na "
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, umieść znacznik +1/+1 na "
 "wskazanym stworze lub Pojeździe pod twoim władaniem."
 
 #: ../../NEO.rst:272
@@ -1058,7 +1056,7 @@ msgstr ""
 
 #: ../../NEO.rst:275
 msgid "When Spirited Companion enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../NEO.rst:282
 msgid ""
@@ -1089,7 +1087,7 @@ msgid ""
 "When Touch the Spirit Realm enters the battlefield, exile up to one target "
 "artifact or creature until Touch the Spirit Realm leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj co najwyżej jeden wskazany "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj co najwyżej jeden wskazany "
 "artefakt lub stwora dopóki ten urok nie opuści pola bitwy."
 
 #: ../../NEO.rst:287
@@ -1200,7 +1198,7 @@ msgid ""
 msgstr ""
 "Wyszukaj w twojej bibliotece kartę Wyposażenia lub Pojazdu, umieść ją na "
 "polu bitwy, po czym przetasuj. Jeśli ma ona skrót many mniejszy niż skrót "
-"many poświęconego permanentu, wróż 2."
+"many poświęconego bytu, wróż 2."
 
 #: ../../NEO.rst:328
 msgid ""
@@ -1243,7 +1241,7 @@ msgid ""
 "When Awakened Awareness enters the battlefield, put X +1/+1 counters on "
 "enchanted permanent."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, umieść X znaczników +1/+1 na "
+"Kiedy ten byt wejdzie na pole bitwy, umieść X znaczników +1/+1 na "
 "zauroczonym permanencie."
 
 #: ../../NEO.rst:335
@@ -1251,8 +1249,7 @@ msgid ""
 "As long as enchanted permanent is a creature, it has base power and "
 "toughness 1/1."
 msgstr ""
-"O ile zauroczony permanent jest stworem, ma on bazową siłę i wytrzymałość "
-"1/1."
+"O ile zauroczony byt jest stworem, ma on bazową siłę i wytrzymałość 1/1."
 
 #: ../../NEO.rst:346
 msgid ""
@@ -1506,7 +1503,7 @@ msgid ""
 msgstr ""
 "Ilekroć rzucisz czar artefaktu, sztuczki lub obrzędu, skopiuj ów czar. "
 "Możesz wskazać nowe cele dla kopii. Ta zdolność wyzwala się tylko raz na "
-"turę. (Kopia czaru permanentu staje się żetonem.)"
+"turę. (Kopia czaru bytu staje się żetonem.)"
 
 #: ../../NEO.rst:419
 msgid ""
@@ -1536,8 +1533,8 @@ msgid ""
 "Return any number of target nonland permanents with total mana value 6 or "
 "less to their owners' hands."
 msgstr ""
-"Przywróć dowolną liczbę wskazanych nielądowych permanentów o łącznym skrócie "
-"many 6 lub mniej do rąk ich właścicieli."
+"Przywróć dowolną liczbę wskazanych nielądowych bytów o łącznym skrócie many "
+"6 lub mniej do rąk ich właścicieli."
 
 #: ../../NEO.rst:429
 msgid ""
@@ -1728,7 +1725,7 @@ msgid ""
 "target nonland permanent puts it on the top or bottom of their library."
 msgstr ""
 "Przepust — |mana_4|\\ |mana_u|, odrzuć tę kartę: Właściciel wskazanego "
-"nielądowego permanentu umieszcza go na wierzchu swojej biblioteki."
+"nielądowego bytu umieszcza go na wierzchu swojej biblioteki."
 
 #: ../../NEO.rst:500
 msgid ""
@@ -1752,8 +1749,8 @@ msgid ""
 "When Moonsnare Specialist enters the battlefield, return up to one target "
 "creature to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć co najwyżej jednego "
-"wskazanego stwora do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć co najwyżej jednego wskazanego "
+"stwora do ręki właściciela."
 
 #: ../../NEO.rst:506
 msgid ""
@@ -1764,7 +1761,7 @@ msgstr ""
 
 #: ../../NEO.rst:505
 msgid "When Network Disruptor enters the battlefield, tap target permanent."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazany permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć wskazany byt."
 
 #: ../../NEO.rst:510
 msgid ""
@@ -1815,8 +1812,8 @@ msgid ""
 "As long as The Reality Chip is attached to a creature, you may play lands "
 "and cast spells from the top of your library."
 msgstr ""
-"O ile ten permanent jest dołączony do stwora, możesz grać lądy i rzucać "
-"czary z wierzchu twojej biblioteki."
+"O ile ten byt jest dołączony do stwora, możesz grać lądy i rzucać czary z "
+"wierzchu twojej biblioteki."
 
 #: ../../NEO.rst:523
 msgid ""
@@ -1895,8 +1892,7 @@ msgstr ""
 #: ../../NEO.rst:547
 msgid ""
 "As long as enchanted permanent is a creature, it gets -3/-0 and loses flying."
-msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje on -3/-0 i traci latanie."
+msgstr "O ile zauroczony byt jest stworem, dostaje on -3/-0 i traci latanie."
 
 #: ../../NEO.rst:554
 msgid ""
@@ -1957,8 +1953,8 @@ msgid ""
 "Whenever one or more noncreature permanents are returned to hand, draw a "
 "card. This ability triggers only once each turn."
 msgstr ""
-"Ilekroć co najmniej jeden niestworowy permanent zostanie przywrócony do "
-"ręki, dobierz kartę. Ta zdolność wyzwala się tylko raz na turę."
+"Ilekroć co najmniej jeden niestworowy byt zostanie przywrócony do ręki, "
+"dobierz kartę. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../NEO.rst:569
 msgid ""
@@ -1986,15 +1982,15 @@ msgid ""
 "When Tamiyo's Compleation enters the battlefield, tap enchanted permanent. "
 "If it's an Equipment, unattach it."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczony permanent. Jeśli "
-"jest Wyposażeniem, odłącz go."
+"Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczony byt. Jeśli jest "
+"Wyposażeniem, odłącz go."
 
 #: ../../NEO.rst:579
 msgid ""
 "Enchanted permanent loses all abilities and doesn't untap during its "
 "controller's untap step."
 msgstr ""
-"Zauroczony permanent traci wszystkie zdolności i nie odkręca się w kroku "
+"Zauroczony byt traci wszystkie zdolności i nie odkręca się w kroku "
 "odkręcania jego władcy."
 
 #: ../../NEO.rst:590
@@ -2074,7 +2070,7 @@ msgid ""
 "attacking, create a token that's a copy of another target attacking "
 "creature. The token enters the battlefield tapped and attacking."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy z twojej ręki, jeśli atakuje, stwórz "
+"Kiedy ten byt wejdzie na pole bitwy z twojej ręki, jeśli atakuje, stwórz "
 "żeton będący kopią innego wskazanego atakującego stwora. Ów żeton wchodzi na "
 "pole bitwy przekręcony i atakujący."
 
@@ -2176,15 +2172,13 @@ msgstr ""
 msgid ""
 "As long as enchanted permanent is a creature, it gets -1/-1 and can't block."
 msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje on -1/-1 i nie może "
-"blokować."
+"O ile zauroczony byt jest stworem, dostaje on -1/-1 i nie może blokować."
 
 #: ../../NEO.rst:637
 msgid ""
 "Enchanted permanent has \"At the beginning of your upkeep, you lose 1 life.\""
 msgstr ""
-"Zauroczony permanent ma \"Na początku twojego kroku utrzymania, strać 1 "
-"życie.\""
+"Zauroczony byt ma \"Na początku twojego kroku utrzymania, strać 1 życie.\""
 
 #: ../../NEO.rst:646
 msgid ""
@@ -2316,7 +2310,7 @@ msgid ""
 "When Gravelighter enters the battlefield, draw a card if a creature died "
 "this turn. Otherwise, each player sacrifices a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę jeśli w tej turze umarł "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę jeśli w tej turze umarł "
 "stwór. W przeciwnym razie, każdy gracz poświęca stwora."
 
 #: ../../NEO.rst:686
@@ -2423,7 +2417,7 @@ msgstr ""
 
 #: ../../NEO.rst:713
 msgid "When Kami of Restless Shadows enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedno —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../NEO.rst:715
 msgid ""
@@ -2452,7 +2446,7 @@ msgid ""
 "When Kami of Terrible Secrets enters the battlefield, if you control an "
 "artifact and an enchantment, you draw a card and you gain 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz artefaktem i urokiem, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz artefaktem i urokiem, "
 "dobierz kartę i zyskaj 1 życie."
 
 #: ../../NEO.rst:730
@@ -2675,7 +2669,7 @@ msgid ""
 "When Nezumi Prowler enters the battlefield, target creature you control "
 "gains deathtouch and lifelink until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury dotyk śmierci i więź życia."
 
 #: ../../NEO.rst:814
@@ -2750,8 +2744,7 @@ msgstr ""
 #: ../../NEO.rst:833
 msgid ""
 "You gain life equal to the sacrificed permanent's mana value. Draw two cards."
-msgstr ""
-"Zyskaj życia równe skrótowi many poświęconego permanentu. Dobierz dwie karty."
+msgstr "Zyskaj życia równe skrótowi many poświęconego bytu. Dobierz dwie karty."
 
 #: ../../NEO.rst:838
 msgid ""
@@ -2852,8 +2845,8 @@ msgid ""
 "When Echo of Death's Wail enters the battlefield, gain control of all Rat "
 "tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie nad wszystkimi "
-"żetonami Szczurów."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj władanie nad wszystkimi żetonami "
+"Szczurów."
 
 #: ../../NEO.rst:867
 msgid ""
@@ -2879,12 +2872,12 @@ msgid ""
 "When Twisted Embrace enters the battlefield, destroy target creature or "
 "planeswalker an opponent controls."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, zniszcz wskazanego stwora lub wędrowca "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora lub wędrowca "
 "pod władaniem przeciwnika."
 
 #: ../../NEO.rst:875
 msgid "As long as enchanted permanent is a creature, it gets +1/+1."
-msgstr "O ile zauroczony permanent jest stworem, dostaje +1/+1."
+msgstr "O ile zauroczony byt jest stworem, dostaje +1/+1."
 
 #: ../../NEO.rst:880
 msgid ""
@@ -2932,7 +2925,7 @@ msgstr ""
 #: ../../NEO.rst:889
 msgid ""
 "When Virus Beetle enters the battlefield, each opponent discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../NEO.rst:896
 msgid ""
@@ -2986,7 +2979,7 @@ msgstr ""
 
 #: ../../NEO.rst:909 ../../NEO.rst:1305
 msgid "As long as enchanted permanent is a creature, it gets +2/+1."
-msgstr "O ile zauroczony permanent jest stworem, dostaje on +2/+1."
+msgstr "O ile zauroczony byt jest stworem, dostaje on +2/+1."
 
 #: ../../NEO.rst:914
 msgid ""
@@ -3227,16 +3220,16 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +2/+2 and has menace. "
 "(It can't be blocked except by two or more creatures.)"
 msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje on +2/+2 i ma złowrogość. "
-"(Nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
+"O ile zauroczony byt jest stworem, dostaje on +2/+2 i ma złowrogość. (Nie "
+"może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../NEO.rst:987
 msgid ""
 "When Gift of Wrath leaves the battlefield, create a 2/2 red Spirit creature "
 "token with menace."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton czerwonego stwora Duch "
-"2/2 ze złowrogością."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czerwonego stwora Duch 2/2 "
+"ze złowrogością."
 
 #: ../../NEO.rst:994
 msgid ""
@@ -3345,7 +3338,7 @@ msgid ""
 "with mana value 3 or less from your graveyard to the battlefield. It gains "
 "haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu o "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu o "
 "skrócie many 3 lub mniejszym z twojego cmentarza na pole bitwy. Zyskuje on "
 "pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
@@ -3363,9 +3356,9 @@ msgid ""
 "creature. (Equipment, Auras you control, and counters are modifications.)"
 msgstr ""
 "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia. Tan czar "
-"zadaje także 2 obrażenia władcy owego permanentu jeśli władasz "
-"zmodyfikowanym stworem. (Wyposażenie, Aury pod twoim władaniem oraz "
-"znaczniki są modyfikacjami.)"
+"zadaje także 2 obrażenia władcy owego bytu jeśli władasz zmodyfikowanym "
+"stworem. (Wyposażenie, Aury pod twoim władaniem oraz znaczniki są "
+"modyfikacjami.)"
 
 #: ../../NEO.rst:1028
 msgid ""
@@ -3721,8 +3714,7 @@ msgstr "Zasięg"
 msgid ""
 "When Twinshot Sniper enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu celowi 2 "
-"obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../NEO.rst:1147
 msgid ""
@@ -3744,8 +3736,8 @@ msgid ""
 "When Unstoppable Ogre enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
-"tej turze."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../NEO.rst:1156
 msgid ""
@@ -3864,11 +3856,10 @@ msgid ""
 "random order. If you didn't put a card into your hand this way, you gain 4 "
 "life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
-"twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i "
-"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
-"biblioteki. Jeśli nie umieściłeś w ten sposób karty w twojej ręce, zyskaj 4 "
-"życia."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i umieścić ją "
+"w twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki. Jeśli "
+"nie umieściłeś w ten sposób karty w twojej ręce, zyskaj 4 życia."
 
 #: ../../NEO.rst:1196
 msgid ""
@@ -3883,7 +3874,7 @@ msgid ""
 "value among permanents you control. Untap it."
 msgstr ""
 "Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest największym skrótem "
-"many spośród permanentów pod twoim władaniem. Odkręć go."
+"many spośród bytów pod twoim władaniem. Odkręć go."
 
 #: ../../NEO.rst:1206
 msgid ""
@@ -3933,8 +3924,8 @@ msgid ""
 "As long as enchanted permanent is a creature, it gets +1/+3 and has reach "
 "and \"|tap|: Add |mana_g|\\ |mana_g|.\""
 msgstr ""
-"O ile zauroczony permanent jest stworem, dostaje on +1/+3, ma zasięg oraz \"|"
-"tap|: Weź |mana_g|\\ |mana_g|.\""
+"O ile zauroczony byt jest stworem, dostaje on +1/+3, ma zasięg oraz \"|tap|: "
+"Weź |mana_g|\\ |mana_g|.\""
 
 #: ../../NEO.rst:1219
 msgid ""
@@ -4051,7 +4042,7 @@ msgstr ""
 #: ../../NEO.rst:1255
 msgid ""
 "As long as enchanted permanent is a creature, it gets +3/+3 and has reach."
-msgstr "O ile zauroczony permanent jest stworem, dostaje on +3/+3 i ma zasięg."
+msgstr "O ile zauroczony byt jest stworem, dostaje on +3/+3 i ma zasięg."
 
 #: ../../NEO.rst:1257
 msgid ""
@@ -4087,7 +4078,7 @@ msgid ""
 "When Geothermal Kami enters the battlefield, you may return an enchantment "
 "you control to its owner's hand. If you do, you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić urok pod swoim "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić urok pod swoim "
 "władaniem do ręki właściciela. Jeśli tak zrobisz, zyskaj 3 życia."
 
 #: ../../NEO.rst:1272
@@ -4123,7 +4114,7 @@ msgid ""
 "When Grafted Growth enters the battlefield, put a +1/+1 counter on target "
 "creature or Vehicle you control."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze lub Pojeździe pod twoim władaniem."
 
 #: ../../NEO.rst:1279
@@ -4200,8 +4191,8 @@ msgid ""
 "creature with the greatest power among creatures on the battlefield, draw a "
 "card."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli zauroczony permanent jest "
-"stworem o największej sile spośród stworów na polu bitwy, dobierz kartę."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli zauroczony byt jest stworem o "
+"największej sile spośród stworów na polu bitwy, dobierz kartę."
 
 #: ../../NEO.rst:1310
 msgid ""
@@ -4278,7 +4269,7 @@ msgid ""
 "When Jukai Preserver enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../NEO.rst:1333
@@ -4582,7 +4573,7 @@ msgid ""
 "permanent card from your graveyard to your hand."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, przywróć wskazaną kartę "
-"permanentu z twojego cmentarza do twojej ręki."
+"bytu z twojego cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1426
 msgid ""
@@ -4648,7 +4639,7 @@ msgid ""
 "be the target of spells or abilities your opponents control. Damage and "
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany permanent pod twoim władaniem zyskuje do końca tury antyklątwę i "
+"Wskazany byt pod twoim władaniem zyskuje do końca tury antyklątwę i "
 "niezniszczalność. Zyskaj 2 życia. (Permanent z antyklątwą i "
 "niezniszczalnością nie może być wskazywany przez czary lub zdolności pod "
 "władaniem twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\" nie "
@@ -4818,8 +4809,8 @@ msgid ""
 "When Gloomshrieker enters the battlefield, return target permanent card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę permanentu z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę bytu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../NEO.rst:1507
 msgid "If Gloomshrieker would die, exile it instead."
@@ -4852,7 +4843,7 @@ msgstr ""
 
 #: ../../NEO.rst:1517
 msgid "I — Destroy each nonland permanent with mana value 1 or less."
-msgstr "I — Zniszcz każdy nielądowy permanent o skrócie many 1 lub mniejszym."
+msgstr "I — Zniszcz każdy nielądowy byt o skrócie many 1 lub mniejszym."
 
 #: ../../NEO.rst:1519
 msgid "II — Exile all graveyards."
@@ -4939,8 +4930,8 @@ msgid ""
 "If a creature attacking causes a triggered ability of a permanent you "
 "control to trigger, that ability triggers an additional time."
 msgstr ""
-"Jeśli atak stwora powoduje wyzwolenie zdolności permanentu pod twoim "
-"władaniem, owa zdolność wyzwalana jest dodatkowy raz."
+"Jeśli atak stwora powoduje wyzwolenie zdolności bytu pod twoim władaniem, "
+"owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../NEO.rst:1556
 msgid ""
@@ -5001,14 +4992,14 @@ msgstr ""
 
 #: ../../NEO.rst:1571
 msgid "I — Exile target nonland permanent an opponent controls."
-msgstr "I — Wygnaj wskazany nielądowy permanent pod władaniem przeciwnika."
+msgstr "I — Wygnaj wskazany nielądowy byt pod władaniem przeciwnika."
 
 #: ../../NEO.rst:1573
 msgid ""
 "II — Return up to one other target nonland permanent to its owner's hand. "
 "Then each opponent discards a card."
 msgstr ""
-"II — Przywróć co najwyżej jeden inny wskazany nielądowy permanent do ręki "
+"II — Przywróć co najwyżej jeden inny wskazany nielądowy byt do ręki "
 "właściciela. Następnie każdy przeciwnik odrzuca kartę."
 
 #: ../../NEO.rst:1584
@@ -5051,12 +5042,12 @@ msgid ""
 "you control Kotose, you may play one of the exiled cards, and you may spend "
 "mana as though it were mana of any color to cast it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj z cmentarza przeciwnika "
-"wskazaną kartę inną niż bazowy ląd. Wyszukaj w cmentarzu, ręce i bibliotece "
-"owego gracza dowolną liczbę kart o tej samej nazwie co owa karta i wygnaj "
-"je. Następnie ów gracz tasuje. Przez czas twojego władania tym stworem, "
-"możesz zagrać jedną z owych wygnanych kart i do jej rzucenia możesz wydawać "
-"manę tak, jakby była maną dowolnego koloru."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj z cmentarza przeciwnika wskazaną "
+"kartę inną niż bazowy ląd. Wyszukaj w cmentarzu, ręce i bibliotece owego "
+"gracza dowolną liczbę kart o tej samej nazwie co owa karta i wygnaj je. "
+"Następnie ów gracz tasuje. Przez czas twojego władania tym stworem, możesz "
+"zagrać jedną z owych wygnanych kart i do jej rzucenia możesz wydawać manę "
+"tak, jakby była maną dowolnego koloru."
 
 #: ../../NEO.rst:1592
 msgid ""
@@ -5071,7 +5062,7 @@ msgid ""
 "control an artifact and an enchantment, create a 2/2 white Samurai creature "
 "token with vigilance."
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, jeśli władasz "
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, jeśli władasz "
 "artefaktem i urokiem, stwórz żeton białego stwora Samuraj 2/2 z czujnością."
 
 #: ../../NEO.rst:1598
@@ -5251,11 +5242,11 @@ msgid ""
 "battlefield and it gains \"If this permanent would leave the battlefield, "
 "exile it instead of putting it anywhere else.\""
 msgstr ""
-"Na początku twojego kroku końcowego, wybierz wskazaną kartę permanentu w "
-"twoim cmentarzu. Możesz poświęcić permanent współdzielący z ową kartą typ "
-"karty. Jeśli tak zrobisz, przywróć ową kartę z twojego cmentarza na pole "
-"bitwy i zyskuje ona \"Jeśli ten permanent miałby opuścić pole bitwy, wygnaj "
-"go zamiast umieszczać go gdziekolwiek indziej.\""
+"Na początku twojego kroku końcowego, wybierz wskazaną kartę bytu w twoim "
+"cmentarzu. Możesz poświęcić byt współdzielący z ową kartą typ karty. Jeśli "
+"tak zrobisz, przywróć ową kartę z twojego cmentarza na pole bitwy i zyskuje "
+"ona \"Jeśli ten byt miałby opuścić pole bitwy, wygnaj go zamiast umieszczać "
+"go gdziekolwiek indziej.\""
 
 #: ../../NEO.rst:1656
 msgid ""
@@ -5286,8 +5277,8 @@ msgid ""
 "−X: Exile target nonland permanent card with mana value X from your "
 "graveyard. Create a token that's a copy of that card."
 msgstr ""
-"–X: Wygnaj z twojego cmentarza wskazaną kartę nielądowego permanentu o "
-"skrócie many X. Stwórz żeton będący kopią owej karty."
+"–X: Wygnaj z twojego cmentarza wskazaną kartę nielądowego bytu o skrócie "
+"many X. Stwórz żeton będący kopią owej karty."
 
 #: ../../NEO.rst:1655
 msgid ""
@@ -5352,7 +5343,7 @@ msgstr ""
 
 #: ../../NEO.rst:1675
 msgid "When Circuit Mender enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../NEO.rst:1677
 msgid "When Circuit Mender leaves the battlefield, draw a card."
@@ -5386,7 +5377,7 @@ msgid ""
 "target permanent, put another counter of that kind on it or remove one from "
 "it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dla każdego rodzaju znacznika na "
+"Kiedy ten byt wejdzie na pole bitwy, dla każdego rodzaju znacznika na "
 "wskazanym permanencie, umieść na nim kolejny taki znacznik lub usuń z niego "
 "jeden."
 
@@ -5434,9 +5425,9 @@ msgid ""
 "library for a basic land card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, możesz wyszukać w twojej "
-"bibliotece kartę bazowego lądu, ujawnić ją, umieścić ją w twojej ręce, po "
-"czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnić ją, umieścić ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../NEO.rst:1701
 msgid ""
@@ -5458,8 +5449,8 @@ msgid ""
 "When High-Speed Hoverbike enters the battlefield, tap up to one target "
 "creature."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, przekręć co najwyżej jednego "
-"wskazanego stwora."
+"Kiedy ten byt wejdzie na pole bitwy, przekręć co najwyżej jednego wskazanego "
+"stwora."
 
 #: ../../NEO.rst:1718
 msgid ""
@@ -5500,7 +5491,7 @@ msgstr ""
 "pod twoim władaniem: Stwórz Mechtytana, żeton legendarnego artefaktowego "
 "stwora Konstrukt 10/10 z lataniem, czujnością, tratowaniem, więzią życia i "
 "pośpiechem mający wszystkie kolory. Kiedy ów żeton opuści pole bitwy, "
-"przywróć wszystkie karty wygnane tym permanentem z wyjątkiem niego samego "
+"przywróć wszystkie karty wygnane tym bytem z wyjątkiem niego samego "
 "przekręcone na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../NEO.rst:1723
@@ -5516,7 +5507,7 @@ msgstr ""
 
 #: ../../NEO.rst:1727
 msgid "The \"legend rule\" doesn't apply to permanents you control."
-msgstr "\"Zasada legend\" nie odnosi się do permanentów pod twoim władaniem."
+msgstr "\"Zasada legend\" nie odnosi się do bytów pod twoim władaniem."
 
 #: ../../NEO.rst:1729
 msgid "Each legendary creature you control gets +1/+1."
@@ -5632,8 +5623,8 @@ msgid ""
 "When Reito Sentinel enters the battlefield, target player mills three cards. "
 "(They put the top three cards of their library into their graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli trzy karty. "
-"(Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz mieli trzy karty. ("
+"Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../NEO.rst:1769
 msgid ""
@@ -5670,8 +5661,8 @@ msgid ""
 "When Searchlight Companion enters the battlefield, create a 1/1 colorless "
 "Spirit creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
-"Duch 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora Duch "
+"1/1."
 
 #: ../../NEO.rst:1786
 msgid ""
@@ -5685,7 +5676,7 @@ msgid ""
 "When Shrine Steward enters the battlefield, you may search your library for "
 "an Aura or Shrine card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury lub Kapliczki, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
@@ -5702,7 +5693,7 @@ msgid ""
 "the number of Vehicles you control to target creature or planeswalker an "
 "opponent controls."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, zadaje on wskazanemu stworowi lub "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu stworowi lub "
 "wędrowcowi pod władaniem przeciwnika obrażenia równe dwukrotności liczby "
 "Pojazdów pod twoim władaniem."
 
@@ -5729,7 +5720,7 @@ msgid ""
 "When Towashi Guide-Bot enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../NEO.rst:1805
@@ -5779,7 +5770,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1819
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1821
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -5798,7 +5789,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1827
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1829
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -5838,7 +5829,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1841
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1843
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -5879,7 +5870,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1855
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1857
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -5962,7 +5953,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1883
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1885
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -5981,7 +5972,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1891
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1893
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -6045,7 +6036,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1913
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1915
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -6088,7 +6079,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1927
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1929
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -6107,7 +6098,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1935
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1937
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -6145,7 +6136,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../NEO.rst:1951
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../NEO.rst:1953
 msgid "|tap|: Add |mana_r| or |mana_w|."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 07:05+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -416,8 +416,7 @@ msgstr "Ochrona przed czarnym"
 #: ../../ZEN.rst:57
 msgid ""
 "When Devout Lightcaster enters the battlefield, exile target black permanent."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazany czarny permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany czarny byt."
 
 #: ../../ZEN.rst:64
 msgid ""
@@ -484,7 +483,7 @@ msgstr ""
 
 #: ../../ZEN.rst:81
 msgid "When Journey to Nowhere enters the battlefield, exile target creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora."
 
 #: ../../ZEN.rst:83
 msgid ""
@@ -545,7 +544,7 @@ msgid ""
 "When Kor Aeronaut enters the battlefield, if it was kicked, target creature "
 "gains flying until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, wskazany stwór "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, wskazany stwór "
 "zyskuje do końca tury latanie."
 
 #: ../../ZEN.rst:106
@@ -560,7 +559,7 @@ msgid ""
 "When Kor Cartographer enters the battlefield, you may search your library "
 "for a Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Równiny, umieścić ją przekręconą na polu bitwy, po czym przetasować."
 
 #: ../../ZEN.rst:110
@@ -591,7 +590,7 @@ msgid ""
 "controls. That creature doesn't untap during its controller's next untap "
 "step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania swojego władcy."
 
@@ -607,7 +606,7 @@ msgid ""
 "When Kor Outfitter enters the battlefield, you may attach target Equipment "
 "you control to target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz dołączyć wskazane Wyposażenie "
+"Kiedy ten byt wejdzie na pole bitwy, możesz dołączyć wskazane Wyposażenie "
 "pod twoim władaniem do wskazanego stwora pod twoim władaniem."
 
 #: ../../ZEN.rst:124
@@ -629,8 +628,8 @@ msgid ""
 "When Kor Sanctifiers enters the battlefield, if it was kicked, destroy "
 "target artifact or enchantment."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zniszcz "
-"wskazany artefakt lub urok."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zniszcz wskazany "
+"artefakt lub urok."
 
 #: ../../ZEN.rst:130
 msgid ""
@@ -644,8 +643,8 @@ msgid ""
 "When Kor Skyfisher enters the battlefield, return a permanent you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
-"władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć byt pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../ZEN.rst:134
 msgid ""
@@ -1021,8 +1020,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
-"został podbity, dobierz kartę."
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Jeśli ten czar został "
+"podbity, dobierz kartę."
 
 #: ../../ZEN.rst:262
 msgid ""
@@ -2054,8 +2053,7 @@ msgstr "Pierwszy cios"
 
 #: ../../ZEN.rst:619
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
-"Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego bytu."
 
 #: ../../ZEN.rst:624
 msgid ""
@@ -2255,8 +2253,8 @@ msgid ""
 "When Goblin Shortcutter enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
-"tej turze."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../ZEN.rst:700
 msgid ""
@@ -2802,8 +2800,8 @@ msgid ""
 "your library for a card named Gigantiform, put it onto the battlefield, then "
 "shuffle."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli został podbity, możesz wyszukać "
-"w twojej bibliotece kartę o nazwie Gigantiform, umieść ją na polu bitwy, po "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, możesz wyszukać w "
+"twojej bibliotece kartę o nazwie Gigantiform, umieść ją na polu bitwy, po "
 "czym przetasuj."
 
 #: ../../ZEN.rst:876

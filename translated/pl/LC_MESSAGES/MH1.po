@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -436,7 +436,7 @@ msgid ""
 msgstr ""
 "Drzazgacze pod twoim władaniem maja egzaltację. (Ilekroć stwór pod twoim "
 "władaniem atakuje samotnie, dostaje +1/+1 do końca tury za każde wystąpienie "
-"egzaltacji wśród permanentów pod twoim władaniem.)"
+"egzaltacji wśród bytów pod twoim władaniem.)"
 
 #: ../../MH1.rst:70
 msgid ""
@@ -473,8 +473,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Elephant "
 "creature token."
 msgstr ""
-"Zniszcz wskazany permanent. Jego władca tworzy żeton zielonego stwora Słoń "
-"3/3."
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../MH1.rst:80
 msgid ""
@@ -530,7 +529,7 @@ msgid ""
 "When Irregular Cohort enters the battlefield, create a 2/2 colorless "
 "Shapeshifter creature token with changeling."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Przemieniec 2/2 ze zmiennokształtnością."
 
 #: ../../MH1.rst:98
@@ -568,8 +567,8 @@ msgid ""
 "When Knight of Old Benalia enters the battlefield, other creatures you "
 "control get +1/+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, inne stwory pod twoim władaniem "
-"dostają +1/+1 do końca tury."
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"+1/+1 do końca tury."
 
 #: ../../MH1.rst:108
 msgid ""
@@ -604,8 +603,8 @@ msgid ""
 "When Martyr's Soul enters the battlefield, if you control no tapped lands, "
 "put two +1/+1 counters on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie władasz przekręconymi "
-"lądami, umieść na nim dwa znaczniki +1/+1."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli nie władasz przekręconymi lądami, "
+"umieść na nim dwa znaczniki +1/+1."
 
 #: ../../MH1.rst:120
 msgid ""
@@ -623,7 +622,7 @@ msgid ""
 "When On Thin Ice enters the battlefield, exile target creature an opponent "
 "controls until On Thin Ice leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
 "przeciwnika dopóki ten urok nie opuści pola bitwy."
 
 #: ../../MH1.rst:126
@@ -639,7 +638,7 @@ msgid ""
 "library for a creature card with mana value 1 or less, reveal it, put it "
 "into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora o skrócie many 1 lub mniejszym, ujawnij ją i umieść w twojej "
 "ręce, po czym przetasuj."
 
@@ -791,8 +790,8 @@ msgid ""
 "Sisay, Weatherlight Captain gets +1/+1 for each color among other legendary "
 "permanents you control."
 msgstr ""
-"Ten stwór dostaje +1/+1 za każdy kolor spośród innych legendarnych "
-"permanentów pod twoim władaniem."
+"Ten stwór dostaje +1/+1 za każdy kolor spośród innych legendarnych bytów pod "
+"twoim władaniem."
 
 #: ../../MH1.rst:175
 msgid ""
@@ -801,8 +800,8 @@ msgid ""
 "that card onto the battlefield, then shuffle."
 msgstr ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Wyszukaj w twojej "
-"bibliotece kartę legendarnego permanentu o skrócie many mniejszym niż siła "
-"tego stwora, umieść ową kartę na polu bitwy, po czym przetasuj."
+"bibliotece kartę legendarnego bytu o skrócie many mniejszym niż siła tego "
+"stwora, umieść ową kartę na polu bitwy, po czym przetasuj."
 
 #: ../../MH1.rst:184
 msgid ""
@@ -1039,7 +1038,7 @@ msgstr "Wskazany gracz dobiera dwie karty."
 #: ../../MH1.rst:247
 msgid "Gain control of target nonland permanent with mana value 1 or less."
 msgstr ""
-"Przejmij władanie nad wskazanym nie-lądowym permanentem o skrócie many 1 lub "
+"Przejmij władanie nad wskazanym nie-lądowym bytem o skrócie many 1 lub "
 "mniejszym."
 
 #: ../../MH1.rst:254
@@ -1054,8 +1053,8 @@ msgid ""
 "When Bazaar Trademage enters the battlefield, draw two cards, then discard "
 "three cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć "
-"trzy karty."
+"Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć trzy "
+"karty."
 
 #: ../../MH1.rst:262
 msgid ""
@@ -1071,10 +1070,9 @@ msgid ""
 "card to the battlefield under its owner's control at the beginning of the "
 "next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym śnieżnym "
-"permanentem, wygnaj wskazany permanent nie będący niniejszym. Przywróć ową "
-"kartę na pole bitwy pod władaniem jej właściciela na początku najbliższego "
-"kroku końcowego."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym śnieżnym bytem, "
+"wygnaj wskazany byt nie będący niniejszym. Przywróć ową kartę na pole bitwy "
+"pod władaniem jej właściciela na początku najbliższego kroku końcowego."
 
 #: ../../MH1.rst:268
 msgid ""
@@ -1224,7 +1222,7 @@ msgstr ""
 
 #: ../../MH1.rst:313
 msgid "When Faerie Seer enters the battlefield, scry 2."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 2."
 
 #: ../../MH1.rst:320
 msgid ""
@@ -1276,8 +1274,8 @@ msgid ""
 "Whenever another snow permanent enters the battlefield under your control, "
 "you may have target player mill two cards."
 msgstr ""
-"Ilekroć inny śnieżny permanent wejdzie na pole bitwy pod twoim władaniem, "
-"możesz sprawić, że wskazany gracz zmieli dwie karty."
+"Ilekroć inny śnieżny byt wejdzie na pole bitwy pod twoim władaniem, możesz "
+"sprawić, że wskazany gracz zmieli dwie karty."
 
 #: ../../MH1.rst:334
 msgid ""
@@ -1291,7 +1289,7 @@ msgid ""
 "When Man-o'-War enters the battlefield, return target creature to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora do ręki "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazanego stwora do ręki "
 "właściciela."
 
 #: ../../MH1.rst:340
@@ -1306,8 +1304,8 @@ msgid ""
 "Whenever Marit Lage's Slumber or another snow permanent enters the "
 "battlefield under your control, scry 1."
 msgstr ""
-"Ilekroć ten lub inny śnieżny permanent wejdzie na pole bitwy pod twoim "
-"władaniem, wróż 1."
+"Ilekroć ten lub inny śnieżny byt wejdzie na pole bitwy pod twoim władaniem, "
+"wróż 1."
 
 #: ../../MH1.rst:339
 msgid ""
@@ -1316,8 +1314,8 @@ msgid ""
 "20/20 black Avatar creature token with flying and indestructible."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli władasz co najmniej dziesięcioma "
-"śnieżnymi permanentami, poświęć ten urok. Jeśli tak zrobisz, stwórz żeton "
-"czarnego legendarnego stwora Awatar 20/20 z lataniem i niezniszczalnością."
+"śnieżnymi bytami, poświęć ten urok. Jeśli tak zrobisz, stwórz żeton czarnego "
+"legendarnego stwora Awatar 20/20 z lataniem i niezniszczalnością."
 
 #: ../../MH1.rst:348
 msgid ""
@@ -1440,9 +1438,9 @@ msgid ""
 "When Pondering Mage enters the battlefield, look at the top three cards of "
 "your library, then put them back in any order. You may shuffle. Draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności. "
-"Możesz przetasować. Dobierz kartę."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, po czym umieść je z powrotem w dowolnej kolejności. Możesz "
+"przetasować. Dobierz kartę."
 
 #: ../../MH1.rst:386
 msgid ""
@@ -1604,7 +1602,7 @@ msgid ""
 "artifact card with mana value 2, reveal that card, put it into your hand, "
 "then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu o skrócie many równym 2, ujawnić ją, umieścić w twojej ręce, "
 "po czym przetasuj."
 
@@ -1641,7 +1639,7 @@ msgid ""
 "colorless Construct artifact creature token with \"This creature gets +1/+1 "
 "for each artifact you control.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Konstrukt 0/0 ze zdolnością \"Ten stwór dostaje +1/+1 "
 "za każdy artefakt pod twoim władaniem.\""
 
@@ -1709,15 +1707,15 @@ msgstr ""
 
 #: ../../MH1.rst:471
 msgid "When Winter's Rest enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../MH1.rst:473
 msgid ""
 "As long as you control another snow permanent, enchanted creature doesn't "
 "untap during its controller's untap step."
 msgstr ""
-"O ile władasz innym snieżnym permanentem, zauroczony stwór nie odkręca się w "
-"kroku odkręcania swojego władcy."
+"O ile władasz innym snieżnym bytem, zauroczony stwór nie odkręca się w kroku "
+"odkręcania swojego władcy."
 
 #: ../../MH1.rst:480
 msgid ""
@@ -1741,7 +1739,7 @@ msgid ""
 "When Azra Smokeshaper enters the battlefield, target creature you control "
 "gains indestructible until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury niezniszczalność."
 
 #: ../../MH1.rst:486
@@ -1834,7 +1832,7 @@ msgid ""
 "snow permanents you control."
 msgstr ""
 "Wszystkie nieśnieżne stwory dostają do końca tury -X/-X, gdzie X jest liczbą "
-"śnieżnych permanentów pod twoim władaniem."
+"śnieżnych bytów pod twoim władaniem."
 
 #: ../../MH1.rst:514
 msgid ""
@@ -1939,7 +1937,7 @@ msgstr ""
 msgid ""
 "When First-Sphere Gargantua enters the battlefield, you draw a card and you "
 "lose 1 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../MH1.rst:547
 msgid ""
@@ -2001,8 +1999,8 @@ msgid ""
 "When Graveshifter enters the battlefield, you may return target creature "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../MH1.rst:572
 msgid ""
@@ -2129,7 +2127,7 @@ msgid ""
 "When Rank Officer enters the battlefield, you may discard a card. If you do, "
 "create a 2/2 black Zombie creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../MH1.rst:609
@@ -2220,8 +2218,7 @@ msgstr ""
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
-msgstr ""
-"Wyzysk (Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić stwora.)"
+msgstr "Wyzysk (Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić stwora.)"
 
 #: ../../MH1.rst:643
 msgid ""
@@ -2244,7 +2241,7 @@ msgid ""
 "When Sling-Gang Lieutenant enters the battlefield, create two 1/1 red Goblin "
 "creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony czerwonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czerwonego stwora "
 "Goblin 1/1."
 
 #: ../../MH1.rst:649
@@ -2375,9 +2372,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
-"|mana_b|\\ |mana_b|, odrzuć kartę: Rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
-"każdego z już obecnych tam rodzajów.)"
+"|mana_b|\\ |mana_b|, odrzuć kartę: Rozpleń. (Wybierz dowolną liczbę bytów i/"
+"lub graczy, po czym daj każdemu z nich kolejny znacznik każdego z już "
+"obecnych tam rodzajów.)"
 
 #: ../../MH1.rst:706
 msgid ""
@@ -2391,7 +2388,7 @@ msgid ""
 "When Alpine Guide enters the battlefield, you may search your library for a "
 "Mountain card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w swojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w swojej bibliotece "
 "kartę Góry, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../MH1.rst:703
@@ -2411,7 +2408,7 @@ msgstr ""
 
 #: ../../MH1.rst:709
 msgid "When Aria of Flame enters the battlefield, each opponent gains 10 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, każdy przeciwnik zyskuje 10 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik zyskuje 10 żyć."
 
 #: ../../MH1.rst:711
 msgid ""
@@ -2587,7 +2584,7 @@ msgid ""
 "When Goblin Engineer enters the battlefield, you may search your library for "
 "an artifact card, put it into your graveyard, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę artefaktu, ujawnić ją, umieścić ją w twoim cmentarzu, po czym "
 "przetasować."
 
@@ -2611,7 +2608,7 @@ msgid ""
 "When Goblin Matron enters the battlefield, you may search your library for a "
 "Goblin card, reveal that card, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Goblina, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../MH1.rst:770
@@ -2679,7 +2676,7 @@ msgid ""
 "When Igneous Elemental enters the battlefield, you may have it deal 2 damage "
 "to target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, by zadał 2 obrażenia "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, by zadał 2 obrażenia "
 "wskazanemu stworowi."
 
 #: ../../MH1.rst:796
@@ -2838,7 +2835,7 @@ msgid ""
 "When Quakefoot Cyclops enters the battlefield, up to two target creatures "
 "can't block this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, co najwyżej dwa wskazane stwory nie "
+"Kiedy ten byt wejdzie na pole bitwy, co najwyżej dwa wskazane stwory nie "
 "mogą blokować w tej turze."
 
 #: ../../MH1.rst:837
@@ -2899,8 +2896,8 @@ msgid ""
 "draw two cards. For each nonland card discarded this way, create a 1/1 red "
 "Elemental creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odrzuć dwie karty, po czym dobierz "
-"dwie karty. Za każdą nie-lądową kartę odrzuconą w ten sposób, stwórz żeton "
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć dwie karty, po czym dobierz dwie "
+"karty. Za każdą nie-lądową kartę odrzuconą w ten sposób, stwórz żeton "
 "czerwonego stwora Żywiołak 1/1."
 
 #: ../../MH1.rst:855
@@ -3025,7 +3022,7 @@ msgid ""
 "prevented."
 msgstr ""
 "Ten czar zadaje 3 obrażenia w dowolnie wskazany cel. Jeśli ten czar został "
-"podbity, zamiast tego zadaje on owemu permanentowi lub graczowi 10 obrażeń, "
+"podbity, zamiast tego zadaje on owemu bytowi lub graczowi 10 obrażeń, "
 "których nie można zażegnać."
 
 #: ../../MH1.rst:896
@@ -3160,7 +3157,7 @@ msgid ""
 "the number of snow permanents you control."
 msgstr ""
 "|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +X/+X, gdzie X jest "
-"liczbą śnieżnych permanentów pod twoim władaniem."
+"liczbą śnieżnych bytów pod twoim władaniem."
 
 #: ../../MH1.rst:940
 msgid ""
@@ -3207,7 +3204,7 @@ msgid ""
 "When Deep Forest Hermit enters the battlefield, create four 1/1 green "
 "Squirrel creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz cztery żetony zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony zielonego stwora "
 "Wiewiór 1/1."
 
 #: ../../MH1.rst:947
@@ -3241,7 +3238,7 @@ msgid ""
 "When Excavating Anurid enters the battlefield, you may sacrifice a land. If "
 "you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
 "zrobisz, dobierz kartę."
 
 #: ../../MH1.rst:959
@@ -3317,8 +3314,8 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ujawnij sześć wierzchnich kart twojej biblioteki. Możesz umieścić dowolną "
-"liczbę kart śnieżnych permanentów spośród nich w twojej ręce. Umieść "
-"pozostałe w twoim cmentarzu."
+"liczbę kart śnieżnych bytów spośród nich w twojej ręce. Umieść pozostałe w "
+"twoim cmentarzu."
 
 #: ../../MH1.rst:994
 msgid ""
@@ -3435,7 +3432,7 @@ msgid ""
 "of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw "
 "that many cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz odrzucić dowolną liczbę kart "
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić dowolną liczbę kart "
 "lądów. Umieść tyle samo znaczników +1/+1 na tym stworze i dobierz tyle samo "
 "kart."
 
@@ -3478,7 +3475,7 @@ msgstr ""
 
 #: ../../MH1.rst:1031
 msgid "|tap|: Untap another target snow permanent."
-msgstr "|tap|: Odkręć inny wskazany śnieżny permanent."
+msgstr "|tap|: Odkręć inny wskazany śnieżny byt."
 
 #: ../../MH1.rst:1036
 msgid ""
@@ -3565,7 +3562,7 @@ msgid ""
 "you do, search your library for up to two basic land cards, put them onto "
 "the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić ląd. Jeśli tak "
 "zrobisz, wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, "
 "umieść je przekręcone na polu bitwy, po czym przetasuj."
 
@@ -3695,8 +3692,8 @@ msgid ""
 "When Twin-Silk Spider enters the battlefield, create a 1/2 green Spider "
 "creature token with reach."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Pająk "
-"1/2 z zasięgiem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Pająk 1/2 "
+"z zasięgiem."
 
 #: ../../MH1.rst:1102
 msgid ""
@@ -3710,7 +3707,7 @@ msgid ""
 "Whenever you cast a permanent spell with a mana cost that contains |mana_x|, "
 "double the value of X."
 msgstr ""
-"Ilekroć rzucisz czar permanentu o koszcie many zawierającym |mana_x|, podwój "
+"Ilekroć rzucisz czar bytu o koszcie many zawierającym |mana_x|, podwój "
 "wartość X."
 
 #: ../../MH1.rst:1101
@@ -3736,7 +3733,7 @@ msgstr "Obronność"
 
 #: ../../MH1.rst:1107
 msgid "When Wall of Blossoms enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../MH1.rst:1114
 msgid ""
@@ -3769,8 +3766,8 @@ msgid ""
 "When Webweaver Changeling enters the battlefield, if there are three or more "
 "creature cards in your graveyard, you gain 5 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli w twoim cmentarzu są co "
-"najmniej trzy karty stworów, zyskaj 5 żyć."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli w twoim cmentarzu są co najmniej "
+"trzy karty stworów, zyskaj 5 żyć."
 
 #: ../../MH1.rst:1126
 msgid ""
@@ -3801,8 +3798,8 @@ msgid ""
 "Abominable Treefolk's power and toughness are each equal to the number of "
 "snow permanents you control."
 msgstr ""
-"Siła i wytrzymałość tego stwora są równe liczbie śnieżnych permanentów pod "
-"twoim władaniem każda."
+"Siła i wytrzymałość tego stwora są równe liczbie śnieżnych bytów pod twoim "
+"władaniem każda."
 
 #: ../../MH1.rst:1133
 msgid ""
@@ -3810,7 +3807,7 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Ów stwór nie odkręci się w najbliższym kroku "
 "odkręcania swojego władcy."
 
@@ -3971,7 +3968,7 @@ msgstr ""
 
 #: ../../MH1.rst:1187
 msgid "When Ice-Fang Coatl enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../MH1.rst:1189
 msgid ""
@@ -3979,7 +3976,7 @@ msgid ""
 "snow permanents."
 msgstr ""
 "Ten stwór ma dotyk śmierci o ile władasz przynajmniej trzema innymi "
-"śnieżnymi permanentami."
+"śnieżnymi bytami."
 
 #: ../../MH1.rst:1196
 msgid ""
@@ -4066,7 +4063,7 @@ msgid ""
 "battlefield, it deals 1 damage to target player or planeswalker and you gain "
 "1 life.\""
 msgstr ""
-"Drzazgacze pod twoim władaniem mają \"Kiedy ten stwór wejdzie na pole bitwy, "
+"Drzazgacze pod twoim władaniem mają \"Kiedy ten byt wejdzie na pole bitwy, "
 "zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie, a ty zyskaj 1 życie.\""
 
 #: ../../MH1.rst:1228
@@ -4100,7 +4097,7 @@ msgid ""
 "When Munitions Expert enters the battlefield, you may have it deal damage to "
 "target creature or planeswalker equal to the number of Goblins you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że zada wskazanemu "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że zada wskazanemu "
 "graczowi lub wędrowcowi obrażenia równe liczbie Goblinów pod twoim władaniem."
 
 #: ../../MH1.rst:1238
@@ -4213,9 +4210,9 @@ msgid ""
 "ability an opponent controls, counter that spell or ability unless its "
 "controller pays |mana_1|."
 msgstr ""
-"Ilekroć ty lub permanent pod twoim władaniem zostaniecie wskazani przez czar "
-"lub zdolność pod władaniem przeciwnika, skontruj ów czar lub zdolność, chyba "
-"że ich władca zapłaci |mana_1|."
+"Ilekroć ty lub byt pod twoim władaniem zostaniecie wskazani przez czar lub "
+"zdolność pod władaniem przeciwnika, skontruj ów czar lub zdolność, chyba że "
+"ich władca zapłaci |mana_1|."
 
 #: ../../MH1.rst:1278
 msgid ""
@@ -4292,7 +4289,7 @@ msgstr "(|mana_s| można opłacić jedną maną pobraną ze śnieżnego źródł
 
 #: ../../MH1.rst:1293
 msgid "When Arcum's Astrolabe enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../MH1.rst:1295 ../../MH1.rst:1399
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -4462,10 +4459,10 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
-"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, umieść znacznik +1/"
-"+1 na stworze pod twoim władaniem, po czym rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, po czym daj każdemu z nich kolejny znacznik "
-"każdego z już obecnych tam rodzajów.)"
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+"
+"1 na stworze pod twoim władaniem, po czym rozpleń. (Wybierz dowolną liczbę "
+"bytów i/lub graczy, po czym daj każdemu z nich kolejny znacznik każdego z "
+"już obecnych tam rodzajów.)"
 
 #: ../../MH1.rst:1358
 msgid ""

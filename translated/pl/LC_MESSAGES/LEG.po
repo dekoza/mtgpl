@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 07:29+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leg/pl/>\n"
 "Language: pl\n"
@@ -926,7 +926,7 @@ msgstr ""
 
 #: ../../LEG.rst:235
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../LEG.rst:240
 msgid ""
@@ -1136,7 +1136,7 @@ msgid ""
 msgstr ""
 "Ty i wskazany gracz wymieniacie się władaniem nad stworem pod swoim "
 "władaniem mającym największy skrót many. Następnie wymieńcie się władaniem "
-"nad artefaktami w ten sposób. Jeśli co najmniej dwa permanenty mają równy "
+"nad artefaktami w ten sposób. Jeśli co najmniej dwa byty mają równy "
 "najwyższy skrót, ich władca wybiera jeden z nich."
 
 #: ../../LEG.rst:310
@@ -2191,8 +2191,8 @@ msgid ""
 "may copy this spell and may choose a new target for that copy."
 msgstr ""
 "Ten czar zadaje wskazanemu celowi 3 obrażenia. Następnie ów gracz lub władca "
-"owego permanentu może zapłacić |mana_r|\\ |mana_r|. Jeśli ów gracz tak "
-"zrobi, może skopiować ten czar i może wskazać nowe cele dla owej kopii."
+"owego bytu może zapłacić |mana_r|\\ |mana_r|. Jeśli ów gracz tak zrobi, może "
+"skopiować ten czar i może wskazać nowe cele dla owej kopii."
 
 #: ../../LEG.rst:680
 msgid ""

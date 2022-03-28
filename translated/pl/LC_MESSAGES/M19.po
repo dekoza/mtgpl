@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:33+0100\n"
-"PO-Revision-Date: 2022-03-25 11:52+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m19/pl/>\n"
 "Language: pl\n"
@@ -366,7 +366,7 @@ msgid ""
 "When Angel of the Dawn enters the battlefield, creatures you control get +1/"
 "+1 and gain vigilance until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1 oraz czujność."
 
 #: ../../M19.rst:46
@@ -382,8 +382,8 @@ msgid ""
 "and gains first strike until end of turn. (It deals combat damage before "
 "creatures without first strike.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+2/+0 oraz pierwszy cios. (Zadaje obrażenia bojowe przed stworami bez "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+0 oraz pierwszy cios. (Zadaje obrażenia bojowe przed stworami bez "
 "pierwszego ciosu.)"
 
 #: ../../M19.rst:54
@@ -432,8 +432,8 @@ msgid ""
 "When Dwarven Priest enters the battlefield, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 1 życiu za każdego stwora "
-"pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 1 życiu za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../M19.rst:68
 msgid ""
@@ -452,8 +452,8 @@ msgid ""
 "When Gallant Cavalry enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz "
-"2/2 z czujnością."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
+"z czujnością."
 
 #: ../../M19.rst:74
 msgid ""
@@ -479,8 +479,8 @@ msgid ""
 "permanent an opponent controls until Hieromancer's Cage leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki ta karta nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt pod "
+"władaniem przeciwnika dopóki ta karta nie opuści pola bitwy."
 
 #: ../../M19.rst:82
 msgid ""
@@ -513,7 +513,7 @@ msgstr ""
 
 #: ../../M19.rst:89
 msgid "Exile target permanent with mana value 1."
-msgstr "Wygnaj wskazany permanent o skrócie many równym 1."
+msgstr "Wygnaj wskazany byt o skrócie many równym 1."
 
 #: ../../M19.rst:94
 msgid ""
@@ -551,7 +551,7 @@ msgid ""
 "When Knightly Valor enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
 "z czujnością. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../M19.rst:107
@@ -570,8 +570,8 @@ msgid ""
 "When Lena, Selfless Champion enters the battlefield, create a 1/1 white "
 "Soldier creature token for each nontoken creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1 za każdego nieżetonowego stwora pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/1 "
+"za każdego nieżetonowego stwora pod twoim władaniem."
 
 #: ../../M19.rst:113
 msgid ""
@@ -808,7 +808,7 @@ msgid ""
 "When Shield Mare enters the battlefield or becomes the target of a spell or "
 "ability an opponent controls, you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub zostanie wskazany przez czar lub "
+"Kiedy ten byt wejdzie na pole bitwy lub zostanie wskazany przez czar lub "
 "zdolność pod władaniem przeciwnika, zyskaj 3 życia."
 
 #: ../../M19.rst:200
@@ -876,7 +876,7 @@ msgid ""
 "When Trusty Packbeast enters the battlefield, return target artifact card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:222
@@ -951,7 +951,7 @@ msgid ""
 "When Aviation Pioneer enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../M19.rst:248
@@ -1008,7 +1008,7 @@ msgstr ""
 
 #: ../../M19.rst:263
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
 #: ../../M19.rst:268
 msgid ""
@@ -1132,7 +1132,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1205,7 +1205,7 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1291,7 +1291,7 @@ msgid ""
 "When Salvager of Secrets enters the battlefield, return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:364
@@ -1306,8 +1306,7 @@ msgid ""
 "When Scholar of Stars enters the battlefield, if you control an artifact, "
 "draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz artefaktem, dobierz "
-"kartę."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz artefaktem, dobierz kartę."
 
 #: ../../M19.rst:368
 msgid ""
@@ -1333,7 +1332,7 @@ msgid ""
 "becomes an artifact creature with base power and toughness 5/5 for as long "
 "as Skilled Animator remains on the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany artefakt pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany artefakt pod twoim władaniem "
 "staje się artefaktowym stworem z bazową siłą i wytrzymałością 5/5 na czas "
 "przebywania niniejszego stwora na polu bitwy."
 
@@ -1440,8 +1439,7 @@ msgid ""
 "library for a permanent card, put it onto the battlefield, then shuffle.\""
 msgstr ""
 "–9: Dostajesz emblemat mający \"Na początku twojego kroku końcowego wyszukaj "
-"w twojej bibliotece kartę permanentu, umieść ją na polu bitwy, po czym "
-"przetasuj.\""
+"w twojej bibliotece kartę bytu, umieść ją na polu bitwy, po czym przetasuj.\""
 
 #: ../../M19.rst:408
 msgid ""
@@ -1459,8 +1457,7 @@ msgstr ""
 
 #: ../../M19.rst:413
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr ""
-"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
+msgstr "Umieść wskazany nie-lądowy byt na wierzchu biblioteki właściciela."
 
 #: ../../M19.rst:420
 msgid ""
@@ -1642,8 +1639,7 @@ msgstr ""
 #: ../../M19.rst:485
 msgid ""
 "When Fell Specter enters the battlefield, target opponent discards a card."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../M19.rst:487
 msgid "Whenever an opponent discards a card, that player loses 2 life."
@@ -1677,8 +1673,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:500
 msgid ""
@@ -1816,7 +1812,7 @@ msgid ""
 "When Liliana's Contract enters the battlefield, you draw four cards and you "
 "lose 4 life."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dobierz cztery karty i strać 4 życia."
+"Kiedy ten byt wejdzie na pole bitwy, dobierz cztery karty i strać 4 życia."
 
 #: ../../M19.rst:541
 msgid ""
@@ -1917,7 +1913,7 @@ msgid ""
 "When you control no permanents with phylactery counters on them, sacrifice "
 "Phylactery Lich."
 msgstr ""
-"Kiedy nie masz we władaniu żadnego permanentu mającego znacznik filakterium, "
+"Kiedy nie masz we władaniu żadnego bytu mającego znacznik filakterium, "
 "poświęć tego stwora."
 
 #: ../../M19.rst:576
@@ -1936,7 +1932,7 @@ msgid ""
 "When Plague Mare enters the battlefield, creatures your opponents control "
 "get -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod władaniem twoich "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod władaniem twoich "
 "przeciwników dostają do końca tury -1/-1."
 
 #: ../../M19.rst:582
@@ -1995,7 +1991,7 @@ msgstr ""
 msgid ""
 "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../M19.rst:600
 msgid ""
@@ -2009,8 +2005,8 @@ msgid ""
 "When Skymarch Bloodletter enters the battlefield, target opponent loses 1 "
 "life and you gain 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 1 życie, a "
-"ty zyskaj 1 życie."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik traci 1 życie, a ty "
+"zyskaj 1 życie."
 
 #: ../../M19.rst:604
 msgid ""
@@ -2033,7 +2029,7 @@ msgstr ""
 #: ../../M19.rst:607
 msgid ""
 "When Stitcher's Supplier enters the battlefield or dies, mill three cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel trzy karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy lub umrze, zmiel trzy karty."
 
 #: ../../M19.rst:612
 msgid ""
@@ -2084,8 +2080,8 @@ msgid ""
 "When Vampire Sovereign enters the battlefield, target opponent loses 3 life "
 "and you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 3 życia, a "
-"ty zyskaj 3 życia."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik traci 3 życia, a ty "
+"zyskaj 3 życia."
 
 #: ../../M19.rst:628
 msgid ""
@@ -2235,7 +2231,7 @@ msgid ""
 "When Demanding Dragon enters the battlefield, it deals 5 damage to target "
 "opponent unless that player sacrifices a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu przeciwnikowi 5 "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu przeciwnikowi 5 "
 "obrażeń, chyba że ów gracz poświęci stwora."
 
 #: ../../M19.rst:682
@@ -2328,8 +2324,8 @@ msgid ""
 "When Goblin Instigator enters the battlefield, create a 1/1 red Goblin "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton czerwonego stwora Goblin "
-"1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czerwonego stwora Goblin 1/"
+"1."
 
 #: ../../M19.rst:712
 msgid ""
@@ -2583,7 +2579,7 @@ msgid ""
 "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |"
 "mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_r|. "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_r|. "
 "Kiedy to zrobisz, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../M19.rst:804
@@ -2676,7 +2672,7 @@ msgid ""
 "When Viashino Pyromancer enters the battlefield, it deals 2 damage to target "
 "player or planeswalker."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu graczowi lub "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu graczowi lub "
 "wędrowcowi 2 obrażenia."
 
 #: ../../M19.rst:836
@@ -2702,7 +2698,7 @@ msgid ""
 "When Volley Veteran enters the battlefield, it deals damage to target "
 "creature an opponent controls equal to the number of Goblins you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu stworowi pod "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu stworowi pod "
 "władaniem przeciwnika tyle obrażeń, iloma Goblinami władasz."
 
 #: ../../M19.rst:846
@@ -2860,8 +2856,8 @@ msgid ""
 "battlefield tapped. Put the rest on the bottom of your library in a random "
 "order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
-"twojej biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
 "przekręconą. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M19.rst:898
@@ -2914,7 +2910,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../M19.rst:911
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../M19.rst:913
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -3024,7 +3020,7 @@ msgstr "Tratowanie"
 
 #: ../../M19.rst:955
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 7 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 7 żyć."
 
 #: ../../M19.rst:957
 msgid "When Pelakka Wurm dies, draw a card."
@@ -3102,7 +3098,7 @@ msgstr ""
 
 #: ../../M19.rst:983
 msgid "When Rhox Oracle enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M19.rst:988
 msgid ""
@@ -3425,7 +3421,7 @@ msgstr ""
 msgid ""
 "When Nicol Bolas, the Ravager enters the battlefield, each opponent discards "
 "a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../M19.rst:1097
 msgid ""
@@ -3433,9 +3429,9 @@ msgid ""
 "then return him to the battlefield transformed under his owner's control. "
 "Activate only as a sorcery."
 msgstr ""
-"|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten permanent i przywróć "
-"go transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj "
-"tylko jako obrzęd."
+"|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten byt i przywróć go "
+"transformowany na pole bitwy pod władaniem jego właściciela. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../M19.rst:1108
 msgid ""
@@ -3508,8 +3504,8 @@ msgid ""
 "When Psychic Symbiont enters the battlefield, target opponent discards a "
 "card and you draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę, a "
-"ty dobierz kartę."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę, a ty "
+"dobierz kartę."
 
 #: ../../M19.rst:1134
 msgid ""
@@ -3569,11 +3565,10 @@ msgid ""
 "Each player who sacrificed a permanent this way reveals the top card of "
 "their library, then puts it onto the battlefield if it's a permanent card."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, u każdego z graczy wskaż permanent pod "
-"władaniem danego gracza. Owi gracze poświęcają owe permanenty. Każdy gracz, "
-"który poświęcił permanent w ten sposób, ujawnia wierzchnią kartę swojej "
-"biblioteki, po czym umieszcza ją na polu bitwy jeśli jest to karta "
-"permanentu."
+"Ilekroć ten stwór zaatakuje, u każdego z graczy wskaż byt pod władaniem "
+"danego gracza. Owi gracze poświęcają owe byty. Każdy gracz, który poświęcił "
+"byt w ten sposób, ujawnia wierzchnią kartę swojej biblioteki, po czym "
+"umieszcza ją na polu bitwy jeśli jest to karta bytu."
 
 #: ../../M19.rst:1156
 msgid ""
@@ -3803,8 +3798,8 @@ msgid ""
 "When Meteor Golem enters the battlefield, destroy target nonland permanent "
 "an opponent controls."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
+"władaniem przeciwnika."
 
 #: ../../M19.rst:1234
 msgid ""
@@ -3868,7 +3863,7 @@ msgstr ""
 
 #: ../../M19.rst:1253
 msgid "When Skyscanner enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../M19.rst:1260
 msgid ""
@@ -4271,8 +4266,8 @@ msgid ""
 "When Riddlemaster Sphinx enters the battlefield, you may return target "
 "creature an opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazanego stwora "
-"pod władaniem przeciwnika do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazanego stwora pod "
+"władaniem przeciwnika do ręki właściciela."
 
 #: ../../M19.rst:1418
 msgid ""
@@ -4283,7 +4278,7 @@ msgstr ""
 
 #: ../../M19.rst:1415
 msgid "When Pendulum of Patterns enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../M19.rst:1417
 msgid "|mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card."
@@ -4303,7 +4298,7 @@ msgid ""
 "them and put it into your hand. Put the rest on the bottom of your library "
 "in a random order."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić niebieską lub artefaktową "
 "kartę i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
 "biblioteki."
@@ -4558,9 +4553,9 @@ msgid ""
 "library. You may reveal a green card from among them and put it into your "
 "hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na pięć wierzchnich kart "
-"twojej biblioteki. Możesz spośród nich ujawnić zieloną kartę i umieścić ją w "
-"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz spośród nich ujawnić zieloną kartę i umieścić ją w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../M19.rst:1508
 msgid ""
@@ -4656,7 +4651,7 @@ msgstr ""
 
 #: ../../M19.rst:1543
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../M19.rst:1545
 msgid "Enchanted creature doesn't untap during its controller's untap step."

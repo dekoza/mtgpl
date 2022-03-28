@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dgm/pl/>\n"
 "Language: pl\n"
@@ -316,7 +316,7 @@ msgstr ""
 # 2df3cdd53bec41da8b106ea19de8cf1e
 #: ../../DGM.rst:27
 msgid "Each player sacrifices a multicolored permanent."
-msgstr "Każdy gracz poświęca wielokolorowy permanent."
+msgstr "Każdy gracz poświęca wielokolorowy byt."
 
 #: ../../DGM.rst:32
 msgid ""
@@ -348,7 +348,7 @@ msgid ""
 "hand, create a 1/1 white Bird creature token with flying, then populate. "
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
 "stwórz żeton białego stwora Ptak 1/1 z lataniem, po czym zaludnij. (Stwórz "
 "żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
@@ -377,7 +377,7 @@ msgid ""
 "When Sunspire Gatekeepers enters the battlefield, if you control two or more "
 "Gates, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
 "Bramami, stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../DGM.rst:48
@@ -438,8 +438,8 @@ msgid ""
 "You may tap or untap target permanent, then you may tap or untap another "
 "target permanent."
 msgstr ""
-"Możesz przekręcić lub odkręcić wskazany permanent, po czym możesz przekręcić "
-"lub odkręcić inny wskazany permanent."
+"Możesz przekręcić lub odkręcić wskazany byt, po czym możesz przekręcić lub "
+"odkręcić inny wskazany byt."
 
 # 3576509679dd4ce98f6ef39bd77ab45b
 # 9b655120a3e84d7885705e695d21ddae
@@ -515,7 +515,7 @@ msgid ""
 "When Opal Lake Gatekeepers enters the battlefield, if you control two or "
 "more Gates, you may draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz co najmniej dwiema "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz co najmniej dwiema "
 "Bramami, możesz dobrać kartę."
 
 #: ../../DGM.rst:90
@@ -533,7 +533,7 @@ msgstr "Zaurocz stwora o sile nie większej niż 3"
 # 4a18bb8e348c482697ad7c690b7616f2
 #: ../../DGM.rst:87
 msgid "When Runner's Bane enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 # b11b8bdc1868491595ad7792ee959a9b
 #: ../../DGM.rst:89
@@ -553,7 +553,7 @@ msgid ""
 "Change the text of target permanent by replacing all instances of one color "
 "word with another or one basic land type with another until end of turn."
 msgstr ""
-"Zmień do końca tury tekst wskazanego permanentu poprzez zmianę wszystkich "
+"Zmień do końca tury tekst wskazanego bytu poprzez zmianę wszystkich "
 "wystąpień jednego koloru innym albo jednego typu bazowego lądu innym."
 
 #: ../../DGM.rst:100
@@ -746,9 +746,9 @@ msgid ""
 "When Ubul Sar Gatekeepers enters the battlefield, if you control two or more "
 "Gates, target creature an opponent controls gets -2/-2 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
-"Bramami, wskazany stwór pod władaniem przeciwnika dostaje do końca tury "
-"-2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
+"Bramami, wskazany stwór pod władaniem przeciwnika dostaje do końca tury -2/"
+"-2."
 
 #: ../../DGM.rst:158
 msgid ""
@@ -905,7 +905,7 @@ msgid ""
 "more Gates, gain control of target creature an opponent controls until end "
 "of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
 "Bramami, zyskaj do końca tury władanie nad wskazanym stworem pod władaniem "
 "przeciwnika. Odkręć owego stwora. Zyskuje on pośpiech do końca tury."
 
@@ -1055,7 +1055,7 @@ msgid ""
 "When Saruli Gatekeepers enters the battlefield, if you control two or more "
 "Gates, you gain 7 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz przynajmniej dwiema "
 "Bramami, zyskaj 7 żyć."
 
 #: ../../DGM.rst:248
@@ -1359,7 +1359,7 @@ msgid ""
 "When Deputy of Acquittals enters the battlefield, you may return another "
 "target creature you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić innego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić innego stwora pod "
 "twoim władaniem do ręki właściciela."
 
 #: ../../DGM.rst:334
@@ -1478,7 +1478,7 @@ msgstr ""
 # 5b9ad1c7fe9943558be9f3d8f9bde34b
 #: ../../DGM.rst:363
 msgid "Destroy each nonland permanent with mana value X or less."
-msgstr "Zniszcz każdy nie-lądowy permanent o skrócie many X lub mniejszym."
+msgstr "Zniszcz każdy nie-lądowy byt o skrócie many X lub mniejszym."
 
 #: ../../DGM.rst:368
 msgid ""
@@ -1616,10 +1616,10 @@ msgid ""
 "turn, those permanents can't attack or block and their activated abilities "
 "can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, uwięź każdy nie-lądowy permanent pod "
+"Kiedy ten byt wejdzie na pole bitwy, uwięź każdy nie-lądowy byt pod "
 "władaniem twoich przeciwników mający skrót many 4 lub mniejszy. (Do twojej "
-"następnej tury owe permanenty nie mogą atakować ani blokować, a ich "
-"aktywowane zdolności nie mogą być aktywowane.)"
+"następnej tury owe byty nie mogą atakować ani blokować, a ich aktywowane "
+"zdolności nie mogą być aktywowane.)"
 
 #: ../../DGM.rst:416
 msgid ""
@@ -1795,7 +1795,7 @@ msgstr ""
 # bc6c32faed6246248f207d0179320b73
 #: ../../DGM.rst:461
 msgid "Return target permanent card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną kartę permanentu z twojego cmentarza na pole bitwy."
+msgstr "Przywróć wskazaną kartę bytu z twojego cmentarza na pole bitwy."
 
 #: ../../DGM.rst:466
 msgid ""
@@ -1840,8 +1840,8 @@ msgid ""
 "upkeep, if this creature isn't a token, create a token that's a copy of this "
 "creature.\""
 msgstr ""
-"Możesz sprawić, że ten stwór wejdzie na pole bitwy jako kopia dowolnego "
-"stwora na polu bitwy, ale dodatkowo ma zdolność \"Na początku twojego kroku "
+"Możesz sprawić, że ten byt wejdzie na pole bitwy jako kopia dowolnego stwora "
+"na polu bitwy, ale dodatkowo ma zdolność \"Na początku twojego kroku "
 "utrzymania, jeśli ten stwór nie jest żetonem, stwórz żeton będący kopią tego "
 "stwora.\""
 
@@ -1868,8 +1868,7 @@ msgstr ""
 # 5e7f9ae81aa84df6a70f02d717380c35
 #: ../../DGM.rst:481
 msgid "+1: Tap target permanent, then untap another target permanent."
-msgstr ""
-"+1: Przekręć wskazany permanent, po czym odkręć inny wskazany permanent."
+msgstr "+1: Przekręć wskazany byt, po czym odkręć inny wskazany byt."
 
 # 42853b986aaa4f54b1d3b5b109bbe409
 #: ../../DGM.rst:483
@@ -2017,7 +2016,7 @@ msgid ""
 "When Scab-Clan Giant enters the battlefield, it fights target creature an "
 "opponent controls chosen at random."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, walczy z losowo wskazanym stworem pod "
+"Kiedy ten byt wejdzie na pole bitwy, walczy z losowo wskazanym stworem pod "
 "władaniem przeciwnika."
 
 #: ../../DGM.rst:528
@@ -2048,8 +2047,8 @@ msgid ""
 "When Sin Collector enters the battlefield, target opponent reveals their "
 "hand. You choose an instant or sorcery card from it and exile that card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
-"rękę. Wybierz z niej kartę sztuczki lub obrzędu i wygnaj ją."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją rękę. "
+"Wybierz z niej kartę sztuczki lub obrzędu i wygnaj ją."
 
 #: ../../DGM.rst:536
 msgid ""
@@ -2159,9 +2158,9 @@ msgid ""
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz "
-"2/2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego "
-"stwora Nosorożec 4/4 z tratowaniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
+"z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton zielonego stwora "
+"Nosorożec 4/4 z tratowaniem."
 
 #: ../../DGM.rst:572
 msgid ""
@@ -2218,7 +2217,7 @@ msgstr ""
 msgid ""
 "When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of "
 "turn."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dostaje do końca tury +2/+2."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dostaje do końca tury +2/+2."
 
 #: ../../DGM.rst:588
 msgid ""
@@ -2494,8 +2493,8 @@ msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Zyskaj do końca tury władanie nad wskazanym permanentem. Odkręć go. Zyskuje "
-"on pośpiech do końca tury."
+"Zyskaj do końca tury władanie nad wskazanym bytem. Odkręć go. Zyskuje on "
+"pośpiech do końca tury."
 
 #: ../../DGM.rst:676
 msgid ""

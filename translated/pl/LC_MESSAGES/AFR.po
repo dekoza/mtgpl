@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:30+0100\n"
-"PO-Revision-Date: 2022-03-26 19:03+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -273,8 +273,8 @@ msgid ""
 "When Arborea Pegasus enters the battlefield, target creature gets +1/+1 and "
 "gains flying until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+1/+1 i latanie."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"+1 i latanie."
 
 #: ../../AFR.rst:24
 msgid ""
@@ -385,7 +385,7 @@ msgid ""
 "When Cloister Gargoyle enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:53 ../../AFR.rst:59
@@ -435,7 +435,7 @@ msgstr ""
 
 #: ../../AFR.rst:71
 msgid "When Dawnbringer Cleric enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:73
 msgid "Cure Wounds — You gain 2 life."
@@ -480,7 +480,7 @@ msgid ""
 "Beacon of Hope — When Devoted Paladin enters the battlefield, creatures you "
 "control get +1/+1 and gain vigilance until end of turn."
 msgstr ""
-"Promyk nadziei — Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim "
+"Promyk nadziei — Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim "
 "władaniem dostają do końca tury +1/+1 i czujność."
 
 #: ../../AFR.rst:94
@@ -498,8 +498,8 @@ msgid ""
 "next turn.)"
 msgstr ""
 "Wskazany stwór lub wędrowiec pod władaniem przeciwnika wycofuje się. Jeśli "
-"ów permanent jest czarny, zamiast tego wygnaj go. (Jeśli zostanie wycofany, "
-"do następnej tury jego władcy traktuj go oraz wszystko do niego dołączone, "
+"ów byt jest czarny, zamiast tego wygnaj go. (Jeśli zostanie wycofany, do "
+"następnej tury jego władcy traktuj go oraz wszystko do niego dołączone, "
 "jakby nie istniało.)"
 
 #: ../../AFR.rst:100
@@ -626,7 +626,7 @@ msgid ""
 "creatures you control phase out. (Treat them and anything attached to them "
 "as though they don't exist until their controller's next turn.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dowolna liczba innych wskazanych "
+"Kiedy ten byt wejdzie na pole bitwy, dowolna liczba innych wskazanych "
 "stworów pod twoim władaniem wycofuje się. (Do następnej tury ich władcy "
 "traktuj je oraz wszystko do nich dołączone, jakby nie istniało.)"
 
@@ -679,7 +679,7 @@ msgid ""
 "your library. You may reveal an artifact card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
 "w twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
@@ -726,9 +726,9 @@ msgid ""
 "lands than you, search your library for a basic Plains card, put it onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu "
-"więcej lądów niż ty, wyszukaj w twojej bibliotece kartę bazowej Równiny, "
-"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli przeciwnik ma we władaniu więcej "
+"lądów niż ty, wyszukaj w twojej bibliotece kartę bazowej Równiny, umieść ją "
+"przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../AFR.rst:166
 msgid ""
@@ -739,7 +739,7 @@ msgstr ""
 
 #: ../../AFR.rst:163
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz nie-lądowy permanent"
+msgstr "Zaurocz nie-lądowy byt"
 
 #: ../../AFR.rst:165
 msgid ""
@@ -747,7 +747,7 @@ msgid ""
 "artifact: Add one mana of any color,\" and it loses all other abilities. (If "
 "it was a creature, it's no longer a creature.)"
 msgstr ""
-"Zauroczony permanent jest artefaktem typu Skarb mającym \"|tap|, poświęć ten "
+"Zauroczony byt jest artefaktem typu Skarb mającym \"|tap|, poświęć ten "
 "artefakt: Weź jedną manę dowolnego koloru\" i traci wszystkie inne "
 "zdolności. (Jeśli był stworem, to już nie jest stworem.)"
 
@@ -779,7 +779,7 @@ msgid ""
 "may search your library for an enchantment card, reveal it, then shuffle and "
 "put that card on top."
 msgstr ""
-"Boska interwencja — Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w "
+"Boska interwencja — Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w "
 "twojej bibliotece kartę uroku, ujawnij ją, po czym przetasuj i umieść ową "
 "kartę na wierzchu."
 
@@ -796,8 +796,8 @@ msgid ""
 "Whenever Nadaar, Selfless Paladin enters the battlefield or attacks, venture "
 "into the dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zapuść się do lochu. "
-"(Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, zapuść się do lochu. ("
+"Wejdź do pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:181
 msgid ""
@@ -864,7 +864,7 @@ msgid ""
 "When Paladin's Shield enters the battlefield, attach it to target creature "
 "you control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../AFR.rst:207
@@ -924,9 +924,9 @@ msgid ""
 "opponent controls with mana value 2 or less until Portable Hole leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wskazany nielądowy "
-"permanent o skrócie many 2 lub mniejszym pod władaniem przeciwnika dopóki "
-"niniejszy artefakt nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nielądowy byt o skrócie "
+"many 2 lub mniejszym pod władaniem przeciwnika dopóki niniejszy artefakt nie "
+"opuści pola bitwy."
 
 #: ../../AFR.rst:232
 msgid ""
@@ -937,7 +937,7 @@ msgstr ""
 
 #: ../../AFR.rst:229
 msgid "When Potion of Healing enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AFR.rst:231
 msgid "|mana_w|, |tap|, Sacrifice Potion of Healing: You gain 3 life."
@@ -954,7 +954,7 @@ msgstr ""
 msgid ""
 "When Priest of Ancient Lore enters the battlefield, you gain 1 life and draw "
 "a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 1 życie i dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie i dobierz kartę."
 
 #: ../../AFR.rst:240
 msgid ""
@@ -1028,7 +1028,7 @@ msgid ""
 "When Veteran Dungeoneer enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:264
@@ -1044,7 +1044,7 @@ msgid ""
 "an opponent controls. That creature doesn't untap during its controller's "
 "next untap step."
 msgstr ""
-"Zimny oddech — Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego "
+"Zimny oddech — Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego "
 "stwora pod władaniem przeciwnika. Ów stwór nie odkręca się w najbliższym "
 "kroku odkręcania swojego władcy."
 
@@ -1102,8 +1102,8 @@ msgid ""
 "Psionic Spells — When Aberrant Mind Sorcerer enters the battlefield, choose "
 "target instant or sorcery card in your graveyard, then roll a d20."
 msgstr ""
-"Psioniczne czary — Kiedy ten stwór wejdzie na pole bitwy, wskaż kartę "
-"sztuczki lub obrzędu w twoim cmentarzu, po czym rzuć k20."
+"Psioniczne czary — Kiedy ten byt wejdzie na pole bitwy, wskaż kartę sztuczki "
+"lub obrzędu w twoim cmentarzu, po czym rzuć k20."
 
 #: ../../AFR.rst:285
 msgid "1—9 | You may put that card on top of your library."
@@ -1125,8 +1125,8 @@ msgid ""
 "Whirlwind — When Air-Cult Elemental enters the battlefield, return up to one "
 "other target creature to its owner's hand."
 msgstr ""
-"Trąba powietrzna — Kiedy ten stwór wejdzie na pole bitwy, przywróć co "
-"najwyżej jednego innego wskazanego stwora do ręki właściciela."
+"Trąba powietrzna — Kiedy ten byt wejdzie na pole bitwy, przywróć co najwyżej "
+"jednego innego wskazanego stwora do ręki właściciela."
 
 #: ../../AFR.rst:302
 msgid ""
@@ -1204,7 +1204,7 @@ msgid ""
 "turn, target creature an opponent controls gets -3/-0, up to one other "
 "target creature gets -2/-0, and up to one other target creature gets -1/-0."
 msgstr ""
-"Błyskawicowy oddech — Kiedy ten stwór wejdzie na pole bitwy, do twojej "
+"Błyskawicowy oddech — Kiedy ten byt wejdzie na pole bitwy, do twojej "
 "następnej tury wskazany stwór pod władaniem przeciwnika dostaje -3/-0, co "
 "najwyżej jeden inny wskazany stwór dostaje -2/-0 i co najwyżej jeden inny "
 "wskazany stwór dostaje -1/-0."
@@ -1223,7 +1223,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../AFR.rst:323
 msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../AFR.rst:325 ../../AFR.rst:461
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1241,8 +1241,8 @@ msgid ""
 "Mage Hand — |tap|: Untap target permanent not named Clever Conjurer. "
 "Activate only as a sorcery."
 msgstr ""
-"Ręka maga — |tap|: Odkręć wskazany permanent nie mający nazwy Clever "
-"Conjurer. Aktywuj tylko jako obrzęd."
+"Ręka maga — |tap|: Odkręć wskazany byt nie mający nazwy Clever Conjurer. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../AFR.rst:340
 msgid ""
@@ -1318,7 +1318,7 @@ msgid ""
 "When Displacer Beast enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:361
@@ -1338,7 +1338,7 @@ msgstr ""
 
 #: ../../AFR.rst:367
 msgid "When Djinni Windseer enters the battlefield, roll a d20."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:369
 msgid "1—9 | Scry 1."
@@ -1365,9 +1365,9 @@ msgid ""
 "target creature an opponent controls. They don't untap during their "
 "controllers' next untap steps."
 msgstr ""
-"Ściągnięcie — Kiedy ten stwór wejdzie na pole bitwy, przekręć go i co "
-"najwyżej jednego wskazanego stwora pod władaniem przeciwnika. Nie odkręcają "
-"się w najbliższym kroku odkręcania swoich właścicieli."
+"Ściągnięcie — Kiedy ten byt wejdzie na pole bitwy, przekręć go i co najwyżej "
+"jednego wskazanego stwora pod władaniem przeciwnika. Nie odkręcają się w "
+"najbliższym kroku odkręcania swoich właścicieli."
 
 #: ../../AFR.rst:388
 msgid ""
@@ -1381,7 +1381,7 @@ msgid ""
 "When Eccentric Apprentice enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:387
@@ -1504,8 +1504,8 @@ msgid ""
 "Dominate Monster — When Mind Flayer enters the battlefield, gain control of "
 "target creature for as long as you control Mind Flayer."
 msgstr ""
-"Dominacja potwora — Kiedy ten stwór wejdzie na pole bitwy, zyskaj władanie "
-"nad wskazanym stworem na czas twojego władania niniejszym stworem."
+"Dominacja potwora — Kiedy ten byt wejdzie na pole bitwy, zyskaj władanie nad "
+"wskazanym stworem na czas twojego władania niniejszym stworem."
 
 #: ../../AFR.rst:430
 msgid ""
@@ -1606,7 +1606,7 @@ msgid ""
 "When Ray of Frost enters the battlefield, if enchanted creature is red, tap "
 "it."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli zauroczony stwór jest czerwony, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli zauroczony stwór jest czerwony, "
 "przekręć go."
 
 #: ../../AFR.rst:459
@@ -1640,7 +1640,7 @@ msgid ""
 "Cone of Cold — When Scion of Stygia enters the battlefield, choose target "
 "creature an opponent controls, then roll a d20."
 msgstr ""
-"Stożek zimna — Kiedy ten stwór wejdzie na pole bitwy, wskaż stwora pod "
+"Stożek zimna — Kiedy ten byt wejdzie na pole bitwy, wskaż stwora pod "
 "władaniem przeciwnika, po czym rzuć k20."
 
 #: ../../AFR.rst:473
@@ -1716,7 +1716,7 @@ msgid ""
 "When Silver Raven enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../AFR.rst:502
@@ -1885,8 +1885,8 @@ msgid ""
 "20 | Copy each card exiled with Wizard's Spellbook. You may cast any number "
 "of the copies without paying their mana costs."
 msgstr ""
-"20 | Skopiuj każdą kartę wygnaną tym permanentem. Możesz rzucić dowolną "
-"liczbę owych kopii bez płacenia ich kosztów many."
+"20 | Skopiuj każdą kartę wygnaną tym bytem. Możesz rzucić dowolną liczbę "
+"owych kopii bez płacenia ich kosztów many."
 
 #: ../../AFR.rst:570
 msgid ""
@@ -1898,8 +1898,7 @@ msgstr ""
 #: ../../AFR.rst:567
 msgid ""
 "Fight the Current — Return target nonland permanent to its owner's hand."
-msgstr ""
-"Walcz z prądem — Przywróć wskazany nielądowy permanent do ręki właściciela."
+msgstr "Walcz z prądem — Przywróć wskazany nielądowy byt do ręki właściciela."
 
 #: ../../AFR.rst:569
 msgid ""
@@ -1978,7 +1977,7 @@ msgid ""
 "Tomb of Annihilation, return Acererak the Archlich to its owner's hand and "
 "venture into the dungeon."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie ukończyłeś lochu Tomb of "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli nie ukończyłeś lochu Tomb of "
 "Annihilation, przywróć tego stwora do ręki właściciela i zapuść się do lochu."
 
 #: ../../AFR.rst:597
@@ -2040,7 +2039,7 @@ msgstr ""
 
 #: ../../AFR.rst:615
 msgid "When Baleful Beholder enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:617
 msgid "Antimagic Cone — Each opponent sacrifices an enchantment."
@@ -2067,7 +2066,7 @@ msgid ""
 "Acid Breath — When Black Dragon enters the battlefield, target creature an "
 "opponent controls gets -3/-3 until end of turn."
 msgstr ""
-"Kwasowy oddech — Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod "
+"Kwasowy oddech — Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod "
 "władaniem przeciwnika dostaje do końca tury -3/-3."
 
 #: ../../AFR.rst:632
@@ -2365,9 +2364,9 @@ msgid ""
 "Engulf — When Gelatinous Cube enters the battlefield, exile target non-Ooze "
 "creature an opponent controls until Gelatinous Cube leaves the battlefield."
 msgstr ""
-"Pochłonięcie — Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazanego "
-"stwora nie będącego Szlamem pod władaniem przeciwnika dopóki niniejszy stwór "
-"nie opuści pola bitwy."
+"Pochłonięcie — Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora "
+"nie będącego Szlamem pod władaniem przeciwnika dopóki niniejszy stwór nie "
+"opuści pola bitwy."
 
 #: ../../AFR.rst:717
 msgid ""
@@ -2445,7 +2444,7 @@ msgid ""
 "When Hired Hexblade enters the battlefield, if mana from a Treasure was "
 "spent to cast it, you draw a card and you lose 1 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli do rzucenia go została wydana "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli do rzucenia go została wydana "
 "mana ze Skarbu, dobierz kartę i strać 1 życie."
 
 #: ../../AFR.rst:746
@@ -2536,7 +2535,7 @@ msgid ""
 "Tail Spikes — When Manticore enters the battlefield, destroy target creature "
 "an opponent controls that was dealt damage this turn."
 msgstr ""
-"Kolczasty ogon — Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego "
+"Kolczasty ogon — Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego "
 "stwora pod władaniem przeciwnika, który otrzymał obrażenia w tej turze."
 
 #: ../../AFR.rst:778
@@ -2563,7 +2562,7 @@ msgid ""
 "When Precipitous Drop enters the battlefield, venture into the dungeon. "
 "(Enter the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:785 ../../AFR.rst:793
@@ -2687,7 +2686,7 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:827
@@ -2732,7 +2731,7 @@ msgid ""
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:839
@@ -2751,8 +2750,8 @@ msgid ""
 "When Vampire Spawn enters the battlefield, each opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 2 życia, a "
-"ty zyskaj 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po 2 życia, a ty "
+"zyskaj 2 życia."
 
 #: ../../AFR.rst:854
 msgid ""
@@ -3017,8 +3016,8 @@ msgid ""
 "Burning Hands deals 2 damage to target creature or planeswalker. If that "
 "permanent is green, Burning Hands deals 6 damage instead."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów "
-"permanent jest zielony, zamiast tego ten czar zadaje 6 obrażeń."
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów byt "
+"jest zielony, zamiast tego ten czar zadaje 6 obrażeń."
 
 #: ../../AFR.rst:940
 msgid ""
@@ -3135,7 +3134,7 @@ msgid ""
 "When Dueling Rapier enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../AFR.rst:967
@@ -3160,19 +3159,19 @@ msgstr ""
 #: ../../AFR.rst:973
 msgid ""
 "Siege Monster — When Earth-Cult Elemental enters the battlefield, roll a d20."
-msgstr "Potwór oblężniczy — Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
+msgstr "Potwór oblężniczy — Kiedy ten byt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:975
 msgid "1—9 | Each player sacrifices a permanent."
-msgstr "1—9 | Każdy gracz poświęca permanent."
+msgstr "1—9 | Każdy gracz poświęca byt."
 
 #: ../../AFR.rst:977
 msgid "10—19 | Each opponent sacrifices a permanent."
-msgstr "10—19 | Każdy przeciwnik poświęca permanent."
+msgstr "10—19 | Każdy przeciwnik poświęca byt."
 
 #: ../../AFR.rst:979
 msgid "20 | Each opponent sacrifices two permanents."
-msgstr "20 | Każdy przeciwnik poświęca dwa permanenty."
+msgstr "20 | Każdy przeciwnik poświęca dwa byty."
 
 #: ../../AFR.rst:988
 msgid ""
@@ -3255,7 +3254,7 @@ msgstr "Wyposaż |mana_1|\\ |mana_r|"
 
 #: ../../AFR.rst:1009
 msgid "When Goblin Morningstar enters the battlefield, roll a d20."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, rzuć k20."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:1011 ../../AFR.rst:1109
 msgid "1—9 | Create a 1/1 red Goblin creature token."
@@ -3393,7 +3392,7 @@ msgid ""
 "When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was "
 "spent to cast it, it gains first strike and haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli do jego rzucenia użyto manę ze "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli do jego rzucenia użyto manę ze "
 "Skarbu, zyskuje on do końca tury pierwszy cios i pośpiech."
 
 #: ../../AFR.rst:1058
@@ -3494,7 +3493,7 @@ msgstr ""
 
 #: ../../AFR.rst:1083
 msgid "When Plundering Barbarian enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1085
 msgid "Smash the Chest — Destroy target artifact."
@@ -3537,7 +3536,7 @@ msgid ""
 "Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to "
 "each opponent."
 msgstr ""
-"Ognisty oddech — Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu "
+"Ognisty oddech — Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu "
 "przeciwnikowi po 4 obrażenia."
 
 #: ../../AFR.rst:1104
@@ -3564,7 +3563,7 @@ msgstr ""
 
 #: ../../AFR.rst:1107
 msgid "When Swarming Goblins enters the battlefield, roll a d20."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, rzuć k20."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../AFR.rst:1111
 msgid "10—19 | Create two of those tokens."
@@ -3968,8 +3967,7 @@ msgid ""
 "When Elturgard Ranger enters the battlefield, create a 2/2 green Wolf "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk "
-"2/2."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../AFR.rst:1266
 msgid ""
@@ -3987,7 +3985,7 @@ msgid ""
 "When Find the Path enters the battlefield, venture into the dungeon. (Enter "
 "the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1265
@@ -4003,7 +4001,7 @@ msgstr ""
 
 #: ../../AFR.rst:1271
 msgid "When Find the Path enters the battlefield, venture into the dungeon."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zapuść się do lochu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu."
 
 #: ../../AFR.rst:1273
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -4061,8 +4059,8 @@ msgid ""
 "Poison Breath — When Green Dragon enters the battlefield, until end of turn, "
 "whenever a creature an opponent controls is dealt damage, destroy it."
 msgstr ""
-"Trujący oddech — Kiedy ten stwór wejdzie na pole bitwy, do końca tury "
-"ilekroć stwór pod władaniem przeciwnika otrzyma obrażenia, zniszcz go."
+"Trujący oddech — Kiedy ten byt wejdzie na pole bitwy, do końca tury ilekroć "
+"stwór pod władaniem przeciwnika otrzyma obrażenia, zniszcz go."
 
 #: ../../AFR.rst:1294
 msgid ""
@@ -4073,7 +4071,7 @@ msgstr ""
 
 #: ../../AFR.rst:1293
 msgid "When Hill Giant Herdgorger enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../AFR.rst:1302
 msgid ""
@@ -4087,8 +4085,8 @@ msgid ""
 "This spell costs |mana_3| less to cast if it targets a blue permanent you "
 "don't control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli wskazuje niebieski "
-"permanent poza twoim władaniem."
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli wskazuje niebieski byt "
+"poza twoim władaniem."
 
 #: ../../AFR.rst:1301
 msgid ""
@@ -4109,7 +4107,7 @@ msgstr ""
 
 #: ../../AFR.rst:1305
 msgid "When Inspiring Bard enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1307
 msgid "Bardic Inspiration — Target creature gets +2/+2 until end of turn."
@@ -4285,7 +4283,7 @@ msgstr ""
 
 #: ../../AFR.rst:1365
 msgid "Keen Senses — When Owlbear enters the battlefield, draw a card."
-msgstr "Czujne zmysły — Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Czujne zmysły — Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../AFR.rst:1370
 msgid ""
@@ -4311,7 +4309,7 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:1375
@@ -4353,7 +4351,7 @@ msgid ""
 "When Ranger Class enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../AFR.rst:1389
 msgid "|mana_1|\\ |mana_g|: Level 2"
@@ -4602,8 +4600,8 @@ msgstr ""
 msgid ""
 "Make Camp — Return target permanent card from your graveyard to your hand."
 msgstr ""
-"Rozbij obóz — Przywróć wskazaną kartę permanentu z twojego cmentarza do "
-"twojej ręki."
+"Rozbij obóz — Przywróć wskazaną kartę bytu z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../AFR.rst:1488
 msgid ""
@@ -4689,7 +4687,7 @@ msgid ""
 "When Barrowin of Clan Undurr enters the battlefield, venture into the "
 "dungeon. (Enter the first room or advance to the next room.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
+"Kiedy ten byt wejdzie na pole bitwy, zapuść się do lochu. (Wejdź do "
 "pierwszej sali lub przejdź do kolejnej sali.)"
 
 #: ../../AFR.rst:1511
@@ -4735,7 +4733,7 @@ msgid ""
 "When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary "
 "4/1 green Cat creature token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton legendarnego zielonego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton legendarnego zielonego "
 "stwora Kot 4/1 z tratowaniem o nazwie Guenhwyvar."
 
 #: ../../AFR.rst:1525
@@ -4775,8 +4773,8 @@ msgid ""
 "When Fighter Class enters the battlefield, search your library for an "
 "Equipment card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
-"typu Wyposażenie, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę typu "
+"Wyposażenie, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../AFR.rst:1537
 msgid "|mana_1|\\ |mana_r|\\ |mana_w|: Level 2"
@@ -4839,7 +4837,7 @@ msgid ""
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../AFR.rst:1557
@@ -4885,7 +4883,7 @@ msgid ""
 "When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary "
 "1/1 red Hamster creature token with trample and haste."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz Boo, żeton legendarnego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz Boo, żeton legendarnego "
 "czerwonego stwora Chomik 1/1 z tratowaniem i pośpiechem."
 
 #: ../../AFR.rst:1569
@@ -4920,7 +4918,7 @@ msgid ""
 "to its owner's hand."
 msgstr ""
 "Kiedy ta Klasa osiągnie poziom 2, przywróć co najwyżej jeden wskazany "
-"nielądowy permanent do ręki właściciela."
+"nielądowy byt do ręki właściciela."
 
 #: ../../AFR.rst:1581
 msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Level 3"
@@ -4950,7 +4948,7 @@ msgstr "Latanie, tratowanie"
 
 #: ../../AFR.rst:1589
 msgid "When Orcus, Prince of Undeath enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1591
 msgid "Each other creature gets -X/-X until end of turn. You lose X life."
@@ -5015,7 +5013,7 @@ msgid ""
 "Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, "
 "target creature blocks this turn if able."
 msgstr ""
-"Urzekające podszepty — Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór "
+"Urzekające podszepty — Kiedy ten byt wejdzie na pole bitwy, wskazany stwór "
 "blokuje w tej turze jeśli może."
 
 #: ../../AFR.rst:1613
@@ -5064,8 +5062,8 @@ msgid ""
 "When Sorcerer Class enters the battlefield, draw two cards, then discard two "
 "cards."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć "
-"dwie karty."
+"Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty, po czym odrzuć dwie "
+"karty."
 
 #: ../../AFR.rst:1627
 msgid "|mana_u|\\ |mana_r|: Level 2"
@@ -5133,7 +5131,7 @@ msgid ""
 "up to five Dragon cards not named Tiamat that each have different names, "
 "reveal them, put them into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został przez ciebie rzucony, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został przez ciebie rzucony, "
 "wyszukaj w twojej bibliotece co najwyżej pięć kart Smoków o różnych nazwach "
 "nie mających nazwy Tiamat, ujawnij je, umieść je w twojej ręce, po czym "
 "przetasuj."
@@ -5302,8 +5300,7 @@ msgstr ""
 msgid ""
 "When Eye of Vecna enters the battlefield, you draw a card and you lose 2 "
 "life."
-msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę i strać 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 2 życia."
 
 #: ../../AFR.rst:1703
 msgid ""
@@ -5738,8 +5735,7 @@ msgstr ""
 msgid ""
 "|mana_x|\\ |mana_x|, |tap|, Sacrifice Treasure Vault: Create X Treasure "
 "tokens."
-msgstr ""
-"|mana_x|\\ |mana_x|, |tap|, poświęć ten permanent: Stwórz X żetonów Skarbu."
+msgstr "|mana_x|\\ |mana_x|, |tap|, poświęć ten byt: Stwórz X żetonów Skarbu."
 
 #: ../../AFR.rst:1848
 msgid ""

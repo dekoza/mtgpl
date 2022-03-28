@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bfz/pl/>\n"
 "Language: pl\n"
@@ -247,8 +247,8 @@ msgid ""
 "Whenever Bane of Bala Ged attacks, defending player exiles two permanents "
 "they control."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, broniący się gracz wygania dwa permanenty pod "
-"swoim władaniem."
+"Ilekroć ten stwór zaatakuje, broniący się gracz wygania dwa byty pod swoim "
+"władaniem."
 
 #: ../../BFZ.rst:14
 msgid ""
@@ -425,7 +425,7 @@ msgstr ""
 
 #: ../../BFZ.rst:61
 msgid "Exile target permanent."
-msgstr "Wygnaj wskazany permanent."
+msgstr "Wygnaj wskazany byt."
 
 #: ../../BFZ.rst:68
 msgid ""
@@ -460,7 +460,7 @@ msgstr ""
 
 #: ../../BFZ.rst:71
 msgid "When you cast this spell, exile two target permanents."
-msgstr "Kiedy rzucisz ten czar, wygnaj dwa wskazane permanenty."
+msgstr "Kiedy rzucisz ten czar, wygnaj dwa wskazane byty."
 
 #: ../../BFZ.rst:73
 msgid "Indestructible"
@@ -530,8 +530,8 @@ msgid ""
 "When Angel of Renewal enters the battlefield, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyska po 1 życiu za każdego stwora "
-"pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, zyska po 1 życiu za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../BFZ.rst:100
 msgid ""
@@ -546,7 +546,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../BFZ.rst:97
 msgid "When Angelic Gift enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../BFZ.rst:99
 msgid "Enchanted creature has flying."
@@ -573,7 +573,7 @@ msgstr ""
 
 #: ../../BFZ.rst:109
 msgid "When Courier Griffin enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../BFZ.rst:116
 msgid ""
@@ -590,9 +590,9 @@ msgid ""
 "battlefield instead."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
-"przywrócić wskazaną kartę nie-lądowego permanentu z twojego cmentarza do "
-"twojej reki. Jeśli ów ląd jest Równiną, możesz zamiast tego przywrócić ową "
-"kartę na pole bitwy."
+"przywrócić wskazaną kartę nie-lądowego bytu z twojego cmentarza do twojej "
+"reki. Jeśli ów ląd jest Równiną, możesz zamiast tego przywrócić ową kartę na "
+"pole bitwy."
 
 #: ../../BFZ.rst:122
 msgid ""
@@ -924,9 +924,9 @@ msgid ""
 "it, exile up to one target nonland permanent an opponent controls until "
 "Quarantine Field leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, za każdy znacznik izolacji na nim, "
-"wygnaj co najwyżej jeden wskazany nie-lądowy permanent pod władaniem "
-"przeciwnika do czasu opuszczenia pola bitwy przez ten urok."
+"Kiedy ten byt wejdzie na pole bitwy, za każdy znacznik izolacji na nim, "
+"wygnaj co najwyżej jeden wskazany nie-lądowy byt pod władaniem przeciwnika "
+"do czasu opuszczenia pola bitwy przez ten urok."
 
 #: ../../BFZ.rst:224
 msgid ""
@@ -1039,7 +1039,7 @@ msgid ""
 "controls until Stasis Snare leaves the battlefield. (That creature returns "
 "under its owner's control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
 "przeciwnika dopóki ten urok nie opuści pola bitwy. (Ów stwór wraca pod "
 "władanie właściciela.)"
 
@@ -1166,8 +1166,8 @@ msgid ""
 "Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
-"stwora Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:291
 msgid "Sacrifice an Eldrazi Scion: Tap target creature."
@@ -1186,7 +1186,7 @@ msgid ""
 "Eldrazi Scion creature token. It has \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:306
@@ -1218,7 +1218,7 @@ msgid ""
 "When Incubator Drone enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:320
@@ -1241,7 +1241,7 @@ msgid ""
 "owns from exile into that player's graveyard. If you do, return target "
 "creature to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
 "wygnania w cmentarzu owego gracza. Jeśli tak zrobisz, przywróć wskazanego "
 "stwora do ręki właściciela."
 
@@ -1325,7 +1325,7 @@ msgid ""
 "opponent owns from exile into that player's graveyard. If you do, return "
 "target instant or sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
 "wygnania w cmentarzu owego gracza. Jeśli tak zrobisz, przywróć wskazaną "
 "kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
@@ -1488,7 +1488,7 @@ msgid ""
 "When Halimar Tidecaller enters the battlefield, you may return target card "
 "with awaken from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
 "przebudzeniem z twojego cmentarza do twojej ręki."
 
 #: ../../BFZ.rst:417
@@ -1647,7 +1647,7 @@ msgid ""
 "Scry X, where X is the highest mana value among permanents you control, then "
 "draw three cards."
 msgstr ""
-"Wróż X, gdzie X jest największym skrótem many spośród permanentów pod twoim "
+"Wróż X, gdzie X jest największym skrótem many spośród bytów pod twoim "
 "władaniem, po czym dobierz trzy karty."
 
 #: ../../BFZ.rst:474
@@ -1713,7 +1713,7 @@ msgid ""
 "When Dominator Drone enters the battlefield, if you control another "
 "colorless creature, each opponent loses 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym bezkolorowym "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym bezkolorowym "
 "stworem, każdy przeciwnik traci 2 życia."
 
 #: ../../BFZ.rst:508
@@ -1757,7 +1757,7 @@ msgid ""
 "from exile into that player's graveyard. If you do, each opponent discards a "
 "card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
 "wygnania w cmentarzu owego gracza. Jeśli tak zrobisz, każdy przeciwnik "
 "odrzuca kartę."
 
@@ -1860,7 +1860,7 @@ msgid ""
 "opponent owns from exile into that player's graveyard. If you do, target "
 "creature gets -3/-3 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
 "wygnania w cmentarzu owego gracza. Jeśli tak zrobisz, wskazany stwór dostaje "
 "do końca tury -3/-3."
 
@@ -2804,8 +2804,8 @@ msgid ""
 "Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony bezkolorowego "
-"stwora Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:904
 msgid ""
@@ -2835,8 +2835,8 @@ msgid ""
 "Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
-"stwora Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego stwora "
+"Pomiot Eldrazi 1/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:918
 msgid ""
@@ -2965,7 +2965,7 @@ msgid ""
 "When Greenwarden of Murasa enters the battlefield, you may return target "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../BFZ.rst:955
@@ -3355,7 +3355,7 @@ msgid ""
 "When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:1073
@@ -3386,8 +3386,8 @@ msgid ""
 "Brutal Expulsion deals 2 damage to target creature or planeswalker. If that "
 "creature or planeswalker would die this turn, exile it instead."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów "
-"permanent miałby umrzeć w tej turze, zamiast tego wygnaj go."
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 2 obrażenia. Jeśli ów byt "
+"miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../BFZ.rst:1092
 msgid ""
@@ -3401,7 +3401,7 @@ msgid ""
 "When Catacomb Sifter enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Pomiot Eldrazi 1/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../BFZ.rst:1091
@@ -3500,9 +3500,9 @@ msgid ""
 "opponents own from exile into their owners' graveyards. If you do, counter "
 "target spell."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić dwie karty "
-"przeciwników z wygnania w cmentarzach owych graczy. Jeśli tak zrobisz, "
-"skontruj wskazany czar."
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić dwie karty przeciwników "
+"z wygnania w cmentarzach owych graczy. Jeśli tak zrobisz, skontruj wskazany "
+"czar."
 
 #: ../../BFZ.rst:1144
 msgid ""
@@ -3788,9 +3788,9 @@ msgid ""
 "power 5 or greater until Aligned Hedron Network leaves the battlefield. "
 "(Those creatures return under their owners' control.)"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, wygnaj wszystkie stwory o sile 5 "
-"lub większej dopóki ten artefakt nie opuści pola bitwy. (Owe stwory wrócą "
-"pod władanie swoich właścicieli.)"
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie stwory o sile 5 lub "
+"większej dopóki ten artefakt nie opuści pola bitwy. (Owe stwory wrócą pod "
+"władanie swoich właścicieli.)"
 
 #: ../../BFZ.rst:1224
 msgid ""
@@ -3864,7 +3864,7 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../BFZ.rst:1250
@@ -4056,7 +4056,7 @@ msgid ""
 "among them, then put that card on top of your library and the rest on the "
 "bottom in any order."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, możesz spojrzeć na pięć wierzchnich "
+"Kiedy ten byt wejdzie na pole bitwy, możesz spojrzeć na pięć wierzchnich "
 "kart twojej biblioteki. Jeśli tak zrobisz, ujawnij spośród nich co najwyżej "
 "jedną kartę bazowego lądu, po czym umieść ową kartę na wierzchu twojej "
 "biblioteki, a pozostałe na jej spodzie w dowolnej kolejności."
@@ -4081,7 +4081,7 @@ msgid ""
 "When Looming Spires enters the battlefield, target creature gets +1/+1 and "
 "gains first strike until end of turn."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
 "+1 i pierwszy cios."
 
 #: ../../BFZ.rst:1319
@@ -4127,7 +4127,7 @@ msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
 "twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../BFZ.rst:1335
@@ -4186,7 +4186,7 @@ msgid ""
 "When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and "
 "gains vigilance until end of turn."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
 "+1 oraz czujność."
 
 #: ../../BFZ.rst:1355
@@ -4249,7 +4249,7 @@ msgid ""
 "When Skyline Cascade enters the battlefield, target creature an opponent "
 "controls doesn't untap during its controller's next untap step."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
 "przeciwnika nie odkręci się w najbliższym kroku odkręcania swojego władcy."
 
 #: ../../BFZ.rst:1377

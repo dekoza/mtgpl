@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 07:29+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
 "Language: pl\n"
@@ -785,7 +785,7 @@ msgstr ""
 
 #: ../../4ED.rst:187
 msgid "|mana_w|\\ |mana_w|, |tap|: Destroy target black permanent."
-msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany czarny permanent."
+msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany czarny byt."
 
 #: ../../4ED.rst:196
 msgid ""
@@ -1920,7 +1920,7 @@ msgid ""
 "Animate Dead leaves the battlefield, that creature's controller sacrifices "
 "it."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, jeśli jest na polu bitwy, traci "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli jest na polu bitwy, traci "
 "\"zaurocz kartę stwora w cmentarzu\" i zyskuje \"zaurocz kartę stwora "
 "umieszczonego tą kartą na polu bitwy.\" Przywróć zauroczoną kartę stwora z "
 "cmentarza na pole bitwy pod twoim władaniem i dołącz do niego ten urok. "
@@ -2678,7 +2678,7 @@ msgstr ""
 
 #: ../../4ED.rst:885
 msgid "Other Zombies have \"|mana_b|: Regenerate this permanent.\""
-msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten permanent.\""
+msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten byt.\""
 
 #: ../../4ED.rst:890
 msgid ""
@@ -3513,7 +3513,7 @@ msgstr ""
 
 #: ../../4ED.rst:1199
 msgid "Destroy target permanent."
-msgstr "Zniszcz wskazany permanent."
+msgstr "Zniszcz wskazany byt."
 
 #: ../../4ED.rst:1202
 msgid ""

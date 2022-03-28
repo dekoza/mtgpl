@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/6ed/pl/>\n"
 "Language: pl\n"
@@ -328,8 +328,8 @@ msgid ""
 "Nonland permanents you control are white. The same is true for spells you "
 "control and nonland cards you own that aren't on the battlefield."
 msgstr ""
-"Nielądowe permanenty pod twoim władaniem są białe. To samo dotyczy czarów "
-"pod twoim władaniem oraz twoich nielądowych kart poza polem bitwy."
+"Nielądowe byty pod twoim władaniem są białe. To samo dotyczy czarów pod "
+"twoim władaniem oraz twoich nielądowych kart poza polem bitwy."
 
 #: ../../6ED.rst:39
 msgid ""
@@ -850,7 +850,7 @@ msgstr ""
 
 #: ../../6ED.rst:209
 msgid "When Staunch Defenders enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../6ED.rst:218
 msgid ""
@@ -920,7 +920,7 @@ msgstr ""
 
 #: ../../6ED.rst:235
 msgid "When Venerable Monk enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../6ED.rst:242
 msgid ""
@@ -971,7 +971,7 @@ msgstr ""
 
 #: ../../6ED.rst:259
 msgid "When Abduction enters the battlefield, untap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, odkręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, odkręć zauroczonego stwora."
 
 #: ../../6ED.rst:261
 msgid "You control enchanted creature."
@@ -1016,7 +1016,7 @@ msgstr ""
 
 #: ../../6ED.rst:275
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../6ED.rst:280
 msgid ""
@@ -1268,7 +1268,7 @@ msgid ""
 msgstr ""
 "Ty i wskazany gracz wymieniacie się władaniem nad stworem pod swoim "
 "władaniem mającym największy skrót many. Następnie wymieńcie się władaniem "
-"nad artefaktami w ten sposób. Jeśli co najmniej dwa permanenty mają równy "
+"nad artefaktami w ten sposób. Jeśli co najmniej dwa byty mają równy "
 "najwyższy skrót, ich władca wybiera jeden z nich."
 
 #: ../../6ED.rst:368
@@ -1532,7 +1532,7 @@ msgid ""
 "When Sage Owl enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności."
 
 #: ../../6ED.rst:448
@@ -2039,8 +2039,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../6ED.rst:628
 msgid ""
@@ -2065,7 +2065,7 @@ msgid ""
 "When Hecatomb enters the battlefield, sacrifice Hecatomb unless you "
 "sacrifice four creatures."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, poświęć go, chyba że poświęcisz cztery "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że poświęcisz cztery "
 "stwory."
 
 #: ../../6ED.rst:633
@@ -2087,7 +2087,7 @@ msgid ""
 "When Hidden Horror enters the battlefield, sacrifice it unless you discard a "
 "creature card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz kartę "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że odrzucisz kartę "
 "stwora."
 
 #: ../../6ED.rst:642
@@ -2121,7 +2121,7 @@ msgstr ""
 
 #: ../../6ED.rst:649
 msgid "When Kjeldoran Dead enters the battlefield, sacrifice a creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, poświęć stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, poświęć stwora."
 
 #: ../../6ED.rst:651
 msgid "|mana_b|: Regenerate Kjeldoran Dead."
@@ -2318,7 +2318,7 @@ msgid ""
 "When Sengir Autocrat enters the battlefield, create three 0/1 black Serf "
 "creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czarnego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony czarnego stwora "
 "Kmieć 0/1."
 
 #: ../../6ED.rst:721
@@ -2422,7 +2422,7 @@ msgstr ""
 
 #: ../../6ED.rst:751
 msgid "Other Zombies have \"|mana_b|: Regenerate this permanent.\""
-msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten permanent.\""
+msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten byt.\""
 
 #: ../../6ED.rst:756
 msgid ""
@@ -2474,7 +2474,7 @@ msgid ""
 "When Balduvian Horde enters the battlefield, sacrifice it unless you discard "
 "a card at random."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz losową "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że odrzucisz losową "
 "kartę."
 
 #: ../../6ED.rst:776
@@ -2702,7 +2702,7 @@ msgid ""
 "number of Goblin cards, reveal them, then shuffle and put those cards on top "
 "in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece dowolną "
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece dowolną "
 "liczbę kart typu Goblin, ujawnij je, po czym przetasuj i umieść owe karty "
 "dowolnie na wierzchu."
 
@@ -3594,7 +3594,7 @@ msgstr ""
 
 #: ../../6ED.rst:1167
 msgid "When Uktabi Orangutan enters the battlefield, destroy target artifact."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../6ED.rst:1174
 msgid ""
@@ -3758,9 +3758,9 @@ msgid ""
 "doesn't untap during its controller's untap step for as long as Amber Prison "
 "remains tapped."
 msgstr ""
-"|mana_4|, |tap|: Przekręć wskazany artefakt, stwora lub ląd. Ów permanent "
-"nie odkręca się w kroku odkręcania swojego władcy przez czas pozostawania "
-"tego artefaktu przekręconym."
+"|mana_4|, |tap|: Przekręć wskazany artefakt, stwora lub ląd. Ów byt nie "
+"odkręca się w kroku odkręcania swojego władcy przez czas pozostawania tego "
+"artefaktu przekręconym."
 
 #: ../../6ED.rst:1228
 msgid ""

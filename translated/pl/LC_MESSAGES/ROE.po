@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-21 12:32+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/roe/pl/>\n"
 "Language: pl\n"
@@ -245,8 +245,7 @@ msgid ""
 "Each player sacrifices all permanents they control that are one or more "
 "colors."
 msgstr ""
-"Każdy gracz poświęca wszystkie posiadające kolor permanenty pod swoim "
-"władaniem."
+"Każdy gracz poświęca wszystkie posiadające kolor byty pod swoim władaniem."
 
 #: ../../ROE.rst:16
 msgid ""
@@ -269,7 +268,7 @@ msgid ""
 "two permanents.)"
 msgstr ""
 "Anihilacja 2 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca dwa "
-"permanenty.)"
+"byty.)"
 
 #: ../../ROE.rst:22
 msgid ""
@@ -292,7 +291,7 @@ msgid ""
 "it attacks, defending player sacrifices two permanents.)"
 msgstr ""
 "Zauroczony stwór dostaje +10/+10, i ma tratowanie i anihilację 2. (Ilekroć "
-"zaatakuje, broniący się gracz poświęca dwa permanenty.)"
+"zaatakuje, broniący się gracz poświęca dwa byty.)"
 
 #: ../../ROE.rst:32
 msgid ""
@@ -340,8 +339,7 @@ msgid ""
 "Annihilator 1 (Whenever this creature attacks, defending player sacrifices a "
 "permanent.)"
 msgstr ""
-"Anihilacja 1 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca "
-"permanent.)"
+"Anihilacja 1 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca byt.)"
 
 #: ../../ROE.rst:46
 msgid ""
@@ -361,7 +359,7 @@ msgid ""
 "four permanents.)"
 msgstr ""
 "Anihilacja 4 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca "
-"cztery permanenty.)"
+"cztery byty.)"
 
 #: ../../ROE.rst:45
 msgid ""
@@ -383,8 +381,8 @@ msgid ""
 "Whenever an opponent sacrifices a nontoken permanent, put that card onto the "
 "battlefield under your control."
 msgstr ""
-"Ilekroć przeciwnik poświęci nieżetonowy permanent, umieść ową kartę na polu "
-"bitwy pod twoim władaniem."
+"Ilekroć przeciwnik poświęci nieżetonowy byt, umieść ową kartę na polu bitwy "
+"pod twoim władaniem."
 
 #: ../../ROE.rst:58
 msgid ""
@@ -396,8 +394,7 @@ msgstr ""
 #: ../../ROE.rst:55
 msgid "Counter target spell or ability that targets a permanent you control."
 msgstr ""
-"Skontruj wskazany czar lub zdolność, które wskazuje permanent pod twoim "
-"władaniem."
+"Skontruj wskazany czar lub zdolność, które wskazuje byt pod twoim władaniem."
 
 #: ../../ROE.rst:57
 msgid ""
@@ -420,7 +417,7 @@ msgid ""
 "three permanents.)"
 msgstr ""
 "Anihilacja 3 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca trzy "
-"permanenty.)"
+"byty.)"
 
 #: ../../ROE.rst:63
 msgid "Pathrazer of Ulamog can't be blocked except by three or more creatures."
@@ -475,7 +472,7 @@ msgstr ""
 
 #: ../../ROE.rst:79
 msgid "When you cast this spell, destroy target permanent."
-msgstr "Kiedy rzucisz ten czar, zniszcz wskazany permanent."
+msgstr "Kiedy rzucisz ten czar, zniszcz wskazany byt."
 
 #: ../../ROE.rst:81
 msgid "Indestructible"
@@ -516,8 +513,8 @@ msgid ""
 "When Affa Guard Hound enters the battlefield, target creature gets +0/+3 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"+0/+3."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +0/"
+"+3."
 
 #: ../../ROE.rst:112
 msgid ""
@@ -915,7 +912,7 @@ msgstr ""
 
 #: ../../ROE.rst:259
 msgid "When Lone Missionary enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../ROE.rst:266
 msgid ""
@@ -1136,7 +1133,7 @@ msgid ""
 "When Totem-Guide Hartebeest enters the battlefield, you may search your "
 "library for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../ROE.rst:366
@@ -1192,9 +1189,9 @@ msgid ""
 "permanent you control would be destroyed, instead remove all damage from it "
 "and destroy an Aura attached to it.)"
 msgstr ""
-"Aury dołączone do permanentów pod twoim władaniem mają zbroję totemową. "
-"(Jeśli zauroczony permanent pod twoim władaniem miałby zostać zniszczony, "
-"zamiast tego usuń z niego obrażenia i zniszcz dołączoną do niego Aurę.)"
+"Aury dołączone do bytów pod twoim władaniem mają zbroję totemową. (Jeśli "
+"zauroczony byt pod twoim władaniem miałby zostać zniszczony, zamiast tego "
+"usuń z niego obrażenia i zniszcz dołączoną do niego Aurę.)"
 
 #: ../../ROE.rst:376
 msgid ""
@@ -1205,7 +1202,7 @@ msgstr ""
 
 #: ../../ROE.rst:375
 msgid "When Wall of Omens enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ROE.rst:382
 msgid ""
@@ -1588,7 +1585,7 @@ msgid ""
 "When Merfolk Observer enters the battlefield, look at the top card of target "
 "player's library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na wierzchnią kartę biblioteki "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na wierzchnią kartę biblioteki "
 "wskazanego gracza."
 
 #: ../../ROE.rst:586
@@ -1600,7 +1597,7 @@ msgstr ""
 
 #: ../../ROE.rst:585
 msgid "Whenever Merfolk Skyscout attacks or blocks, untap target permanent."
-msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, odkręć wskazany permanent."
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, odkręć wskazany byt."
 
 #: ../../ROE.rst:592
 msgid ""
@@ -1614,7 +1611,7 @@ msgid ""
 "When Mnemonic Wall enters the battlefield, you may return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../ROE.rst:598
@@ -1657,11 +1654,11 @@ msgstr "Wybierz jedną —"
 
 #: ../../ROE.rst:609
 msgid "Tap X target permanents."
-msgstr "Przekręć X wskazanych permanentów."
+msgstr "Przekręć X wskazanych bytów."
 
 #: ../../ROE.rst:611
 msgid "Untap X target permanents."
-msgstr "Odkręć X wskazanych permanentów."
+msgstr "Odkręć X wskazanych bytów."
 
 #: ../../ROE.rst:618
 msgid ""
@@ -1683,7 +1680,7 @@ msgstr ""
 
 #: ../../ROE.rst:621
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../ROE.rst:626
 msgid ""
@@ -1715,9 +1712,9 @@ msgid ""
 "your library. Put one of them into your hand and the other on the bottom of "
 "your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na dwie wierzchnie karty "
-"twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie "
-"twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie twojej "
+"biblioteki."
 
 #: ../../ROE.rst:634
 msgid ""
@@ -1843,8 +1840,8 @@ msgid ""
 "When Venerated Teacher enters the battlefield, put two level counters on "
 "each creature you control with level up."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść dwa znaczniki poziomu na "
-"każdym stworze pod twoim władaniem mającym podniesienie poziomu."
+"Kiedy ten byt wejdzie na pole bitwy, umieść dwa znaczniki poziomu na każdym "
+"stworze pod twoim władaniem mającym podniesienie poziomu."
 
 #: ../../ROE.rst:684
 msgid ""
@@ -1873,7 +1870,7 @@ msgid ""
 "When Bala Ged Scorpion enters the battlefield, you may destroy target "
 "creature with power 1 or less."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora o "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora o "
 "sile 1 lub mniejszej."
 
 #: ../../ROE.rst:692
@@ -1926,8 +1923,8 @@ msgid ""
 "When Cadaver Imp enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../ROE.rst:710
 msgid ""
@@ -2070,8 +2067,8 @@ msgid ""
 "Spawn creature tokens. They have \"Sacrifice this creature: Add |colorless|."
 "\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
-"stwora Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego stwora "
+"Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:762
 msgid ""
@@ -2407,7 +2404,7 @@ msgid ""
 "When Thought Gorger enters the battlefield, put a +1/+1 counter on it for "
 "each card in your hand. If you do, discard your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść na nim tyle znacznikó1 +1/+1, "
+"Kiedy ten byt wejdzie na pole bitwy, umieść na nim tyle znacznikó1 +1/+1, "
 "ile masz kart w ręce. Jeśli tak zrobisz, odrzuć twoją rękę."
 
 #: ../../ROE.rst:889
@@ -2478,7 +2475,7 @@ msgid ""
 "When Akoum Boulderfoot enters the battlefield, it deals 1 damage to any "
 "target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../ROE.rst:928
 msgid ""
@@ -2559,7 +2556,7 @@ msgid ""
 "creature an opponent controls until end of turn. Untap that creature. It "
 "gains haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj do końca tury władanie nad "
 "wskazanym stworem pod władaniem przeciwnika. Odkręć go. Do końca tury "
 "zyskuje on pośpiech."
 
@@ -2606,8 +2603,8 @@ msgid ""
 "Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony bezkolorowego "
-"stwora Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony bezkolorowego stwora "
+"Pomiot Eldrazi 0/1 mające \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:978
 msgid ""
@@ -2868,7 +2865,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice a nonland permanent: Magmaw deals 1 damage to any target."
 msgstr ""
-"|mana_1|, poświęć nielądowy permanent: Ten stwór zadaje wskazanemu celowi 1 "
+"|mana_1|, poświęć nielądowy byt: Ten stwór zadaje wskazanemu celowi 1 "
 "obrażeń."
 
 #: ../../ROE.rst:1074
@@ -3276,7 +3273,7 @@ msgid ""
 "When Haze Frog enters the battlefield, prevent all combat damage that other "
 "creatures would deal this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zażegnaj wszystkie obrażenia bojowe, "
+"Kiedy ten byt wejdzie na pole bitwy, zażegnaj wszystkie obrażenia bojowe, "
 "które mogłyby zostać zadane w tej turze przez inne stwory."
 
 #: ../../ROE.rst:1234
@@ -3303,7 +3300,7 @@ msgid ""
 "untapped creatures you control. You gain 2 life for each creature tapped "
 "this way."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przekręcić dowolną liczbę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przekręcić dowolną liczbę "
 "odkręconych stworów pod twoim władaniem. Zyskaj po 2 życia za każdego stwora "
 "przekręconego w ten sposób."
 
@@ -3384,7 +3381,7 @@ msgid ""
 "Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add |"
 "colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorwego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorwego stwora "
 "Pomiot Eldrazi 0/1 mającego \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:1284
@@ -3499,7 +3496,7 @@ msgid ""
 "When Nest Invader enters the battlefield, create a 0/1 colorless Eldrazi "
 "Spawn creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
 "Pomiot Eldrazi 0/1 mający \"Poświęć tego stwora: Weź |colorless|.\""
 
 #: ../../ROE.rst:1324
@@ -3514,7 +3511,7 @@ msgid ""
 "When Ondu Giant enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ROE.rst:1330
@@ -3538,7 +3535,7 @@ msgstr ""
 
 #: ../../ROE.rst:1335
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 7 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 7 żyć."
 
 #: ../../ROE.rst:1337
 msgid "When Pelakka Wurm dies, draw a card."
@@ -3633,7 +3630,7 @@ msgid ""
 "permanents."
 msgstr ""
 "Czary i zdolności pod władaniem twoich przeciwników nie mogą sprawiać, że "
-"poświęcisz permanent."
+"poświęcisz byt."
 
 #: ../../ROE.rst:1382
 msgid ""
@@ -3815,7 +3812,7 @@ msgstr ""
 
 #: ../../ROE.rst:1435
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ROE.rst:1437
 msgid "|mana_1|, |tap|: Add one mana of any color."

@@ -2,13 +2,13 @@
 # Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
 # This file is distributed under the same license as the MTG-pl package.
 # Dominik <dominik@kozaczko.info>, 2014.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2020, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2021-02-25 12:03+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jou_god/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.10.1\n"
 
 # b60b8ca86c0541ea959d5419ab33df4c
 #: ../../JOU_god.rst:5
@@ -150,9 +150,8 @@ msgid ""
 "If on of Xenagos's permanents would move to any zone other than its library "
 "or graveyard, that card is put into Xenagos's graveyard."
 msgstr ""
-"Jeśli permanenty Xenagosa miałyby zostać umieszczone w jakiejkolwiek innej "
-"strefie niż biblioteka czy cmentarz, zostają umieszczone w cmentarzu "
-"Xenagosa."
+"Jeśli byty Xenagosa miałyby zostać umieszczone w jakiejkolwiek innej strefie "
+"niż biblioteka czy cmentarz, zostają umieszczone w cmentarzu Xenagosa."
 
 # ec4d1acb558e4db2a16c871102962c95
 #: ../../JOU_god.rst:45
@@ -234,7 +233,7 @@ msgid ""
 "Xenagos's library and Xenagos casts that card. (This ability doesn't trigger "
 "as the game begins.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę biblioteki "
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij wierzchnią kartę biblioteki "
 "Xenagosa i Xenagos rzuca ową kartę. (Ta zdolność nie jest wyzwalana na "
 "początku gry.)"
 
@@ -249,8 +248,8 @@ msgid ""
 "When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this "
 "turn if able."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, Xenagos Wyniesiony atakuje w tej "
-"turze, jeśli może."
+"Kiedy ten byt wejdzie na pole bitwy, Xenagos Wyniesiony atakuje w tej turze, "
+"jeśli może."
 
 #: ../../JOU_god.rst:76
 msgid ""
@@ -362,7 +361,7 @@ msgid ""
 "deals 3 damage to each player who didn't sacrifice a permanent this way."
 msgstr ""
 "Każdy gracz może poświęcić artefakt lub urok. Ten czar zadaje 3 obrażenia "
-"każdemu graczowi, który nie poświęcił permanentu w ten sposób."
+"każdemu graczowi, który nie poświęcił bytu w ten sposób."
 
 # bb38c0928bc348a481979f62c56270ba
 #: ../../JOU_god.rst:108

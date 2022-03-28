@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:01+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
@@ -501,7 +501,7 @@ msgstr ""
 # c1ab6f9ca1664c3fb7c2c0939d3a4217
 #: ../../GTC.rst:71
 msgid "−15: Exile all other permanents."
-msgstr "–15: Wygnaj wszystkie inne permanenty."
+msgstr "–15: Wygnaj wszystkie inne byty."
 
 #: ../../GTC.rst:80
 msgid ""
@@ -622,7 +622,7 @@ msgid ""
 "to one target creature that player controls and that player gains life equal "
 "to its power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, u każdego z przeciwników wygnaj co "
+"Kiedy ten byt wejdzie na pole bitwy, u każdego z przeciwników wygnaj co "
 "najwyżej jednego stwora pod władaniem owego gracza i ów gracz zyskuje tyle "
 "żyć, ile siły miał wygnany stwór."
 
@@ -722,8 +722,8 @@ msgid ""
 "When Urbis Protector enters the battlefield, create a 4/4 white Angel "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Anioł 4/4 "
-"z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Anioł 4/4 z "
+"lataniem."
 
 #: ../../GTC.rst:146
 msgid ""
@@ -818,8 +818,8 @@ msgid ""
 "without paying its mana cost. If a spell cast this way would be put into a "
 "graveyard this turn, exile it instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić "
-"co najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
+"Kiedy ten byt wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić co "
+"najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
 "płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miałby trafić do "
 "cmentarza w tej turze, zamiast tego wygnaj go."
 
@@ -867,7 +867,7 @@ msgstr ""
 # 52cb7d6cf6e34900b1e03734063266c9
 #: ../../GTC.rst:187
 msgid "Tap X target nonland permanents."
-msgstr "Przekręć X wskazanych nie-lądowych permanentów."
+msgstr "Przekręć X wskazanych nie-lądowych bytów."
 
 #: ../../GTC.rst:194
 msgid ""
@@ -942,8 +942,8 @@ msgid ""
 "When Keymaster Rogue enters the battlefield, return a creature you control "
 "to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć stwora pod twoim władaniem "
-"do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć stwora pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../GTC.rst:210
 msgid ""
@@ -1161,8 +1161,7 @@ msgstr ""
 # b9e1ee8a730c4d4087789b39a782d508
 #: ../../GTC.rst:283
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr ""
-"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
+msgstr "Umieść wskazany nie-lądowy byt na wierzchu biblioteki właściciela."
 
 #: ../../GTC.rst:290
 msgid ""
@@ -1211,9 +1210,9 @@ msgid ""
 "the top of their library until they reveal a land card, then puts those "
 "cards into their graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz ujawnia karty z "
-"wierzchu swojej biblioteki, aż ujawni kartę lądu, po czym umieszcza owe "
-"karty w swoim cmentarzu."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz ujawnia karty z wierzchu "
+"swojej biblioteki, aż ujawni kartę lądu, po czym umieszcza owe karty w swoim "
+"cmentarzu."
 
 #: ../../GTC.rst:310
 msgid ""
@@ -1484,7 +1483,7 @@ msgid ""
 "may put up to one target creature card from that player's graveyard onto the "
 "battlefield under your control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników możesz "
+"Kiedy ten byt wejdzie na pole bitwy, za każdego z przeciwników możesz "
 "umieścić na polu bitwy pod twoim władaniem co najwyżej jedną wskazaną kartę "
 "stwora z cmentarza owego gracza."
 
@@ -1561,8 +1560,7 @@ msgstr ""
 # 568d175922844485ab7e85a2f161a7d4
 #: ../../GTC.rst:431
 msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
-msgstr ""
-"|tap|, zapłać 2 życia: Usuń znacznik ze wskazanego nie-lądowego permanentu."
+msgstr "|tap|, zapłać 2 życia: Usuń znacznik ze wskazanego nie-lądowego bytu."
 
 #: ../../GTC.rst:436
 msgid ""
@@ -1593,8 +1591,7 @@ msgstr ""
 #: ../../GTC.rst:439
 msgid ""
 "Target player loses 1 life, discards a card, then sacrifices a permanent."
-msgstr ""
-"Wskazany gracz traci 1 życie, odrzuca kartę, po czym poświęca permanent."
+msgstr "Wskazany gracz traci 1 życie, odrzuca kartę, po czym poświęca byt."
 
 #: ../../GTC.rst:446
 msgid ""
@@ -1901,7 +1898,7 @@ msgid ""
 "control of up to one target creature that player controls until end of turn. "
 "Untap those creatures. They gain haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników zyskaj do "
+"Kiedy ten byt wejdzie na pole bitwy, za każdego z przeciwników zyskaj do "
 "końca tury władanie nad co najwyżej jednym wskazanym stworem pod władaniem "
 "owego gracza. Odkręć owe stwory. Zyskują one pośpiech do końca tury."
 
@@ -2440,10 +2437,10 @@ msgid ""
 "destroyed this way, search your library for a Forest card and put that card "
 "onto the battlefield tapped. Then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, za każdego z przeciwników, zniszcz "
-"wskazany permanent nie będący stworem pod władaniem owego gracza. Za każdy "
-"permanent zniszczony w ten sposób, wyszukaj w twojej bibliotece kartę Lasu i "
-"umieść ją przekręconą na polu bitwy. Następnie przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, za każdego z przeciwników, zniszcz "
+"wskazany byt nie będący stworem pod władaniem owego gracza. Za każdy byt "
+"zniszczony w ten sposób, wyszukaj w twojej bibliotece kartę Lasu i umieść ją "
+"przekręconą na polu bitwy. Następnie przetasuj."
 
 #: ../../GTC.rst:694
 msgid ""
@@ -2467,7 +2464,7 @@ msgstr ""
 # fcc6ddb6342e4e25bb97ae8cb14f2751
 #: ../../GTC.rst:699
 msgid "When Verdant Haven enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 # 6a881fe9c11c486eb540515f0fd7ac8c
 #: ../../GTC.rst:701
@@ -2801,7 +2798,7 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to its "
 "owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany permanent do ręki "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazany byt do ręki "
 "właściciela, po czym ów gracz odrzuca kartę."
 
 #: ../../GTC.rst:814
@@ -2968,7 +2965,7 @@ msgid ""
 "When Foundry Champion enters the battlefield, it deals damage to any target "
 "equal to the number of creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
 "równe liczbie stworów pod twoim władaniem."
 
 # ea9f515a109740d1a8d2be7d88613854
@@ -3041,7 +3038,7 @@ msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../GTC.rst:887
 msgid "Gain control of all permanents you own."
-msgstr "Zyskaj władanie nad wszystkimi własnymi permanentami."
+msgstr "Zyskaj władanie nad wszystkimi własnymi bytami."
 
 #: ../../GTC.rst:889
 msgid "Gruul Charm deals 3 damage to each creature with flying."
@@ -3077,7 +3074,7 @@ msgid ""
 "nonland permanent."
 msgstr ""
 "Ilekroć ten stwór otrzyma obrażenia, możesz zniszczyć wskazany nie-lądowy "
-"permanent."
+"byt."
 
 #: ../../GTC.rst:902
 msgid ""
@@ -3256,8 +3253,8 @@ msgid ""
 "When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 "
 "life and you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a "
-"ty zyskaj 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a ty "
+"zyskaj 2 życia."
 
 # 218d1d9a594d4575b2b037924e7b4149
 #: ../../GTC.rst:959
@@ -3390,8 +3387,7 @@ msgid ""
 "When Prime Speaker Zegana enters the battlefield, draw cards equal to its "
 "power."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz tyle kart, ile wynosi jego "
-"siła."
+"Kiedy ten byt wejdzie na pole bitwy, dobierz tyle kart, ile wynosi jego siła."
 
 #: ../../GTC.rst:1004
 msgid ""
@@ -3680,7 +3676,7 @@ msgid ""
 "Target opponent reveals that many cards from their hand. You choose one of "
 "them and exile it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zapłać dowolną liczbę żyć. Wskazany "
+"Kiedy ten byt wejdzie na pole bitwy, zapłać dowolną liczbę żyć. Wskazany "
 "gracz ujawnia tyle samo kart ze swojej ręki. Wybierz jedną z nich i wygnaj "
 "ją."
 
@@ -3874,7 +3870,7 @@ msgstr ""
 #: ../../GTC.rst:1147
 msgid ""
 "When Burning-Tree Emissary enters the battlefield, add |mana_r|\\ |mana_g|."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, weź |mana_r|\\ |mana_g|."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, weź |mana_r|\\ |mana_g|."
 
 #: ../../GTC.rst:1152
 msgid ""
@@ -4177,7 +4173,7 @@ msgstr ""
 # 178504c1a45242178270a1f52daf207e
 #: ../../GTC.rst:1237
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 3133e8ee159b4d3baf96351c170914f4
 #: ../../GTC.rst:1239

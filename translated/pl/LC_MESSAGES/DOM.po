@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:33+0100\n"
-"PO-Revision-Date: 2022-03-26 19:46+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dom/pl/>\n"
 "Language: pl\n"
@@ -434,7 +434,7 @@ msgid ""
 "When Daring Archaeologist enters the battlefield, you may return target "
 "artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:67
@@ -525,8 +525,8 @@ msgid ""
 "When Excavation Elephant enters the battlefield, if it was kicked, return "
 "target artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
-"wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
+"kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:100
 msgid ""
@@ -634,7 +634,7 @@ msgstr ""
 #: ../../DOM.rst:127
 msgid ""
 "Knight of Grace gets +1/+0 as long as any player controls a black permanent."
-msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada czarnym permanentnem."
+msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada czarnym bytnem."
 
 #: ../../DOM.rst:130
 msgid ""
@@ -743,7 +743,7 @@ msgid ""
 "When Seal Away enters the battlefield, exile target tapped creature an "
 "opponent controls until Seal Away leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego przekręconego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego przekręconego stwora "
 "pod władaniem przeciwnika dopóki ta karta nie opuści pola bitwy."
 
 #: ../../DOM.rst:178
@@ -766,8 +766,8 @@ msgid ""
 "When Sergeant-at-Arms enters the battlefield, if it was kicked, create two "
 "1/1 white Soldier creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, stwórz dwa "
-"żetony białego stwora Piechur 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz dwa żetony "
+"białego stwora Piechur 1/1."
 
 #: ../../DOM.rst:182
 msgid ""
@@ -896,7 +896,7 @@ msgstr ""
 
 #: ../../DOM.rst:219
 msgid "Exile all nonland permanents that aren't legendary."
-msgstr "Wygnaj wszystkie nie-lądowe permanenty, które nie są legendarne."
+msgstr "Wygnaj wszystkie nie-lądowe byty, które nie są legendarne."
 
 #: ../../DOM.rst:228
 msgid ""
@@ -937,7 +937,7 @@ msgid ""
 "When Academy Journeymage enters the battlefield, return target creature an "
 "opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazanego stwora pod "
 "władaniem przeciwnika do ręki właściciela."
 
 #: ../../DOM.rst:242
@@ -1028,8 +1028,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. If this spell was "
 "kicked, draw a card."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent do ręki właściciela. Jeśli ten czar "
-"został podbity, dobierz kartę."
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Jeśli ten czar został "
+"podbity, dobierz kartę."
 
 #: ../../DOM.rst:272
 msgid ""
@@ -1044,7 +1044,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1072,19 +1072,19 @@ msgstr ""
 
 #: ../../DOM.rst:279 ../../DOM.rst:305
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../DOM.rst:281
 msgid "Enchanted permanent has hexproof."
-msgstr "Zauroczony permanent ma antyklątwę."
+msgstr "Zauroczony byt ma antyklątwę."
 
 #: ../../DOM.rst:283
 msgid ""
 "When enchanted permanent leaves the battlefield, if it was historic, draw "
 "two cards. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Kiedy zauroczony permanent opuści pole bitwy, jeśli był historyczny, dobierz "
-"dwie karty. (Artefakty, legendy i Sagi są historyczne.)"
+"Kiedy zauroczony byt opuści pole bitwy, jeśli był historyczny, dobierz dwie "
+"karty. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:290
 msgid ""
@@ -1139,8 +1139,7 @@ msgstr ""
 #: ../../DOM.rst:301
 msgid ""
 "When Homarid Explorer enters the battlefield, target player mills four cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz mieli cztery karty."
 
 #: ../../DOM.rst:310
 msgid ""
@@ -1151,11 +1150,11 @@ msgstr ""
 
 #: ../../DOM.rst:307
 msgid "You control enchanted permanent."
-msgstr "Władasz zauroczonym permanentem."
+msgstr "Władasz zauroczonym bytem."
 
 #: ../../DOM.rst:309
 msgid "Enchanted permanent is legendary."
-msgstr "Zauroczony permanent jest legendarny."
+msgstr "Zauroczony byt jest legendarny."
 
 #: ../../DOM.rst:316
 msgid ""
@@ -1171,7 +1170,7 @@ msgid ""
 "nonland permanent to its owner's hand. Exile Karn's Temporal Sundering."
 msgstr ""
 "Wskazany gracz bierze dodatkową turę po obecnej. Przywróć co najwyżej jeden "
-"wskazany nie-lądowy permanent do ręki właściciela. Wygnaj niniejszy czar."
+"wskazany nie-lądowy byt do ręki właściciela. Wygnaj niniejszy czar."
 
 #: ../../DOM.rst:322
 msgid ""
@@ -1185,7 +1184,7 @@ msgid ""
 "When Merfolk Trickster enters the battlefield, tap target creature an "
 "opponent controls. It loses all abilities until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika. Traci on wszystkie zdolności do końca tury."
 
 #: ../../DOM.rst:332
@@ -1228,8 +1227,8 @@ msgid ""
 "additional time."
 msgstr ""
 "Jeśli Czarodziej wchodzący na pole bitwy pod twoim władaniem powoduje "
-"wyzwolenie zdolności permanentu pod twoim władaniem, owa zdolność jest "
-"wyzwalana dodatkowy raz."
+"wyzwolenie zdolności bytu pod twoim władaniem, owa zdolność jest wyzwalana "
+"dodatkowy raz."
 
 #: ../../DOM.rst:344
 msgid ""
@@ -1244,7 +1243,7 @@ msgid ""
 "When Naru Meha, Master Wizard enters the battlefield, copy target instant or "
 "sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, skopiuj wskazany czar sztuczki lub "
 "obrzędu pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../DOM.rst:343
@@ -1306,7 +1305,7 @@ msgstr ""
 
 #: ../../DOM.rst:365
 msgid "Return target permanent you control to its owner's hand."
-msgstr "Przywróć wskazany permanent pod twoim władaniem do ręki właściciela."
+msgstr "Przywróć wskazany byt pod twoim władaniem do ręki właściciela."
 
 #: ../../DOM.rst:370
 msgid ""
@@ -1334,10 +1333,10 @@ msgid ""
 "battlefield under its owner's control at the beginning of the next end step. "
 "(Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany historyczny "
-"permanent pod twoim władaniem. Jeśli tak zrobisz, przywróć ową kartę na pole "
-"bitwy pod władaniem jej właściciela na początku najbliższego kroku "
-"końcowego. (Artefakty, legendy i Sagi są historyczne.)"
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazany historyczny byt "
+"pod twoim władaniem. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy pod "
+"władaniem jej właściciela na początku najbliższego kroku końcowego. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:382
 msgid ""
@@ -1353,7 +1352,7 @@ msgid ""
 "return all creatures to their owners' hands except for Merfolk, Krakens, "
 "Leviathans, Octopuses, and Serpents."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć "
 "wszystkie stwory do rąk właścicieli za wyjątkiem Wodników, Krakenów, "
 "Lewiatanów, Ośmiornic i Wężowników."
 
@@ -1413,7 +1412,7 @@ msgid ""
 "its controller's untap step for as long as you control Time of Ice."
 msgstr ""
 "I, II — Przekręć wskazanego stwora pod władaniem przeciwnika. Nie odkręci "
-"się on w kroku odkręcania jego władcy dopóki władasz niniejszym permanentem."
+"się on w kroku odkręcania jego władcy dopóki władasz niniejszym bytem."
 
 #: ../../DOM.rst:403
 msgid "III — Return all tapped creatures to their owners' hands."
@@ -1547,8 +1546,8 @@ msgid ""
 "When Caligo Skin-Witch enters the battlefield, if it was kicked, each "
 "opponent discards two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, każdy "
-"przeciwnik odrzuca dwie karty."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, każdy przeciwnik "
+"odrzuca dwie karty."
 
 #: ../../DOM.rst:454
 msgid ""
@@ -1646,7 +1645,7 @@ msgid ""
 "Demonlord Belzenlok deals 1 damage to you for each card put into your hand "
 "this way."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyganiaj karty z wierzchu twojej "
+"Kiedy ten byt wejdzie na pole bitwy, wyganiaj karty z wierzchu twojej "
 "biblioteki aż wygnasz nie-lądową kartę, po czym umieść ową kartę w twojej "
 "ręce. Jeśli skrót many owej karty wynosi 4 lub więcej, powtórz ten proces. "
 "Ten stwór zadaje tobie 1 obrażenie za każdą kartę umieszczoną w twojej ręce "
@@ -1796,7 +1795,7 @@ msgid ""
 "When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create "
 "eight 2/2 black Zombie Knight creature tokens with menace."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, stwórz osiem "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz osiem "
 "żetonów czarnego stwora Rycerz Zombi 2/2 ze złowrogością."
 
 #: ../../DOM.rst:538
@@ -1837,7 +1836,7 @@ msgstr ""
 #: ../../DOM.rst:545
 msgid ""
 "Knight of Malice gets +1/+0 as long as any player controls a white permanent."
-msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada białym permanentem."
+msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada białym bytem."
 
 #: ../../DOM.rst:558
 msgid ""
@@ -1863,12 +1862,12 @@ msgid ""
 "Whenever you lose life, for each 1 life you lost, exile a permanent you "
 "control or a card from your hand or graveyard."
 msgstr ""
-"Ilekroć tracisz życia, za każde stracone życie wygnaj permanent pod twoim "
+"Ilekroć tracisz życia, za każde stracone życie wygnaj byt pod twoim "
 "władaniem lub kartę z twojej ręki lub cmentarza."
 
 #: ../../DOM.rst:557
 msgid "When Lich's Mastery leaves the battlefield, you lose the game."
-msgstr "Kiedy ten permanent opuści pole bitwy, przegrywasz grę."
+msgstr "Kiedy ten byt opuści pole bitwy, przegrywasz grę."
 
 #: ../../DOM.rst:562
 msgid ""
@@ -2052,7 +2051,7 @@ msgid ""
 "When Torgaar, Famine Incarnate enters the battlefield, up to one target "
 "player's life total becomes half their starting life total, rounded down."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, punkty życia co najwyżej jednego "
+"Kiedy ten byt wejdzie na pole bitwy, punkty życia co najwyżej jednego "
 "wskazanego gracza przyjmują wartość połowy ich startowej wartości, "
 "zaokrąglając w dół."
 
@@ -2122,7 +2121,7 @@ msgid ""
 "When Windgrace Acolyte enters the battlefield, mill three cards and you gain "
 "3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zmiel trzy karty oraz zyskaj 3 życia."
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty oraz zyskaj 3 życia."
 
 #: ../../DOM.rst:640
 msgid ""
@@ -2260,7 +2259,7 @@ msgid ""
 "When Firefist Adept enters the battlefield, it deals X damage to target "
 "creature an opponent controls, where X is the number of Wizards you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu stworowi pod "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu stworowi pod "
 "władaniem przeciwnika X obrażeń, gdzie X jest liczbą Czarodzejów pod twoim "
 "władaniem."
 
@@ -2273,7 +2272,7 @@ msgstr ""
 
 #: ../../DOM.rst:689
 msgid "I — The First Eruption deals 1 damage to each creature without flying."
-msgstr "I — Ten permanent zadaje każdemu stworowi bez latania po 1 obrażeniu."
+msgstr "I — Ten byt zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../DOM.rst:691
 msgid "II — Add |mana_r|\\ |mana_r|."
@@ -2309,8 +2308,8 @@ msgid ""
 "instead."
 msgstr ""
 "III — Jeśli czerwone źródło pod twoim władaniem miałoby w tej turze zadać "
-"obrażenia permanentowi lub graczowi, zamiast tego zadaje ono owemu celowi o "
-"2 obrażenia więcej."
+"obrażenia bytowi lub graczowi, zamiast tego zadaje ono owemu celowi o 2 "
+"obrażenia więcej."
 
 #: ../../DOM.rst:710
 msgid ""
@@ -2347,8 +2346,8 @@ msgid ""
 "When Ghitu Chronicler enters the battlefield, if it was kicked, return "
 "target instant or sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, przywróć "
-"wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
+"kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:720
 msgid ""
@@ -2362,7 +2361,7 @@ msgid ""
 "When Ghitu Journeymage enters the battlefield, if you control another "
 "Wizard, Ghitu Journeymage deals 2 damage to each opponent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz innym Czarodziejem, ten "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Czarodziejem, ten "
 "stwór zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../DOM.rst:724
@@ -2415,7 +2414,7 @@ msgid ""
 "When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each "
 "opponent and each creature and planeswalker they control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje po 1 obrażeniu każdemu "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje po 1 obrażeniu każdemu "
 "przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich władaniem."
 
 #: ../../DOM.rst:742
@@ -2446,7 +2445,7 @@ msgid ""
 "nonenchantment permanents you don't control and put an aim counter on each "
 "of them."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wybierz cztery permanenty poza twoim "
+"Kiedy ten byt wejdzie na pole bitwy, wybierz cztery byty poza twoim "
 "władaniem nie będące urokami i umieść na każdym z nich znacznik celowania."
 
 #: ../../DOM.rst:747
@@ -2455,9 +2454,8 @@ msgid ""
 "control have an aim counter on them, destroy one of those permanents at "
 "random."
 msgstr ""
-"Na początku twojego kroku końcowego jeśli co najmniej dwa permanenty poza "
-"twoim władaniem mają znacznik celowania, zniszcz jeden losowy z owych "
-"permanentów."
+"Na początku twojego kroku końcowego jeśli co najmniej dwa byty poza twoim "
+"władaniem mają znacznik celowania, zniszcz jeden losowy z owych bytów."
 
 #: ../../DOM.rst:756
 msgid ""
@@ -2519,7 +2517,7 @@ msgid ""
 "of target creature until end of turn. Untap that creature. It gains haste "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zyskaj do końca "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zyskaj do końca "
 "tury władanie nad wskazanym stworem. Odkręć owego stwora. Zyskuje on "
 "pośpiech do końca tury."
 
@@ -2535,7 +2533,7 @@ msgid ""
 "When Keldon Raider enters the battlefield, you may discard a card. If you "
 "do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz kartę."
 
 #: ../../DOM.rst:778
@@ -2646,7 +2644,7 @@ msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz trzy żetony czerwonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony czerwonego stwora "
 "Goblin 1/1."
 
 #: ../../DOM.rst:809
@@ -2751,7 +2749,7 @@ msgid ""
 "When Verix Bladewing enters the battlefield, if it was kicked, create Karox "
 "Bladewing, a legendary 4/4 red Dragon creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
 "legendarnego czerwonego stwora Smok 4/4 z lataniem o nazwie Karox Bladewing."
 
 #: ../../DOM.rst:848
@@ -3044,8 +3042,8 @@ msgid ""
 "the battlefield. Put the rest into your graveyard."
 msgstr ""
 "Spójrz na X wierzchnich kart twojej biblioteki. Możesz spośród nich umieścić "
-"na polu bitwy dowolną liczbę kart lądów i/lub legendarnych permanentów o "
-"skrócie many co najwyżej X. Umieść pozostałe w twoim cmentarzu."
+"na polu bitwy dowolną liczbę kart lądów i/lub legendarnych bytów o skrócie "
+"many co najwyżej X. Umieść pozostałe w twoim cmentarzu."
 
 #: ../../DOM.rst:942
 msgid ""
@@ -3066,7 +3064,7 @@ msgstr ""
 msgid ""
 "When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został pobity, zyskaj 10 żyć."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został pobity, zyskaj 10 żyć."
 
 #: ../../DOM.rst:946
 msgid ""
@@ -3188,7 +3186,7 @@ msgstr ""
 
 #: ../../DOM.rst:983
 msgid "Return target permanent card from your graveyard to your hand."
-msgstr "Przywróć wskazaną kartę permanentu z twojego cmentarza do twojej ręki."
+msgstr "Przywróć wskazaną kartę bytu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:988
 msgid ""
@@ -3318,7 +3316,7 @@ msgid ""
 "When Territorial Allosaurus enters the battlefield, if it was kicked, it "
 "fights another target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, walczy z innym "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, walczy z innym "
 "wskazanym stworem."
 
 #: ../../DOM.rst:1032
@@ -3397,8 +3395,8 @@ msgid ""
 "When Yavimaya Sapherd enters the battlefield, create a 1/1 green Saproling "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora "
-"Sadzonka 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Sadzonka "
+"1/1."
 
 #: ../../DOM.rst:1060
 msgid ""
@@ -3495,9 +3493,9 @@ msgid ""
 "When Garna, the Bloodflame enters the battlefield, return to your hand all "
 "creature cards in your graveyard that were put there from anywhere this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć do twojej ręki wszystkie "
-"karty stworów z twojego cmentarza, które został tam umieszczone skądkolwiek "
-"w tej turze."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć do twojej ręki wszystkie karty "
+"stworów z twojego cmentarza, które został tam umieszczone skądkolwiek w tej "
+"turze."
 
 #: ../../DOM.rst:1089
 msgid "Other creatures you control have haste."
@@ -3584,8 +3582,8 @@ msgid ""
 "types, choose one as you play it.)"
 msgstr ""
 "W trakcie każdej z twoich tur możesz zagrać z twojego cmentarza co najwyżej "
-"po jednej karcie spośród każdego typu permanentu. (Jeśli karta ma kilka "
-"typów permanentu, wybierz jeden podczas zagrywania jej.)"
+"po jednej karcie spośród każdego typu bytu. (Jeśli karta ma kilka typów "
+"bytu, wybierz jeden podczas zagrywania jej.)"
 
 #: ../../DOM.rst:1122
 msgid ""
@@ -3600,9 +3598,9 @@ msgid ""
 "you control. Return it to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
-"Kiedy ta karta wejdzie na pole bitwy, wygnaj inny wskazany permanent pod "
-"twoim władaniem. Przywróć go na pole bitwy pod władaniem właściciela na "
-"początku najbliższego kroku końcowego."
+"Kiedy ta karta wejdzie na pole bitwy, wygnaj inny wskazany byt pod twoim "
+"władaniem. Przywróć go na pole bitwy pod władaniem właściciela na początku "
+"najbliższego kroku końcowego."
 
 #: ../../DOM.rst:1121
 msgid ""
@@ -3624,8 +3622,8 @@ msgstr ""
 msgid ""
 "Return all legendary permanent cards from your graveyard to the battlefield."
 msgstr ""
-"Przywróć wszystkie karty legendarnych permanentów z twojego cmentarza na "
-"pole bitwy."
+"Przywróć wszystkie karty legendarnych bytów z twojego cmentarza na pole "
+"bitwy."
 
 #: ../../DOM.rst:1136
 msgid ""
@@ -3656,7 +3654,7 @@ msgid ""
 "historic card from your graveyard. (Artifacts, legendaries, and Sagas are "
 "historic.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazaną historyczną "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazaną historyczną "
 "kartę z twojego cmentarza. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1141
@@ -3739,8 +3737,8 @@ msgstr ""
 msgid ""
 "−3: Put target nonland permanent into its owner's library third from the top."
 msgstr ""
-"–3: Umieść wskazany nie-lądowy permanent w bibliotece jego właściciela jako "
-"trzeci od wierzchu."
+"–3: Umieść wskazany nie-lądowy byt w bibliotece jego właściciela jako trzeci "
+"od wierzchu."
 
 #: ../../DOM.rst:1167
 msgid ""
@@ -3748,7 +3746,7 @@ msgid ""
 "permanent an opponent controls.\""
 msgstr ""
 "–8: Dostajesz emblemat mający \"Ilekroć dobierzesz kartę, wygnaj wskazany "
-"permanent pod władaniem przeciwnika.\""
+"byt pod władaniem przeciwnika.\""
 
 #: ../../DOM.rst:1174
 msgid ""
@@ -3901,9 +3899,9 @@ msgid ""
 "target historic permanent you control to its owner's hand. (Artifacts, "
 "legendaries, and Sagas are historic.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić inny wskazany "
-"historyczny permanent pod twoim władaniem do ręki właściciela. (Artefakty, "
-"legendy i Sagi są historyczne.)"
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić inny wskazany "
+"historyczny byt pod twoim władaniem do ręki właściciela. (Artefakty, legendy "
+"i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1226
 msgid ""
@@ -4043,7 +4041,7 @@ msgstr ""
 
 #: ../../DOM.rst:1265
 msgid "When Navigator's Compass enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../DOM.rst:1267
 msgid ""
@@ -4123,7 +4121,7 @@ msgid ""
 "When Skittering Surveyor enters the battlefield, you may search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../DOM.rst:1298
@@ -4169,8 +4167,8 @@ msgid ""
 "|mana_4|, |tap|: You may put a historic permanent card from your hand onto "
 "the battlefield. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"|mana_4|, |tap|: Możesz umieścić kartę historycznego permanentu z twojej "
-"ręki na polu bitwy. (Artefakty, legendy i Sagi są historyczne.)"
+"|mana_4|, |tap|: Możesz umieścić kartę historycznego bytu z twojej ręki na "
+"polu bitwy. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1314
 msgid ""
@@ -4474,7 +4472,7 @@ msgid ""
 "When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../DOM.rst:1416
@@ -4579,7 +4577,7 @@ msgid ""
 "library and/or graveyard for a card named Teferi, Timebender, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "oraz/lub cmentarzu kartę o nazwie Teferi, Timebender, ujawnij ją i umieść w "
 "twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, przetasuj."
 

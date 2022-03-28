@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
 "Language: pl\n"
@@ -258,8 +258,8 @@ msgstr ""
 "Zażegnaj najbliższe X obrażeń, jakie mogłyby zostać zadane wskazanemu "
 "stworowi w tej turze, gdzie X jest twoim kultem białego. Jeśli obrażenia "
 "zostaną zażegnane w ten sposób, ten czar zadaje wskazanemu celowi tyle samo "
-"obrażeń. (Każdy symbol |mana_w| w kosztach many permanentów pod twoim "
-"władaniem wlicza się do twojego kultu białego.)"
+"obrażeń. (Każdy symbol |mana_w| w kosztach many bytów pod twoim władaniem "
+"wlicza się do twojego kultu białego.)"
 
 #: ../../BNG.rst:16
 msgid ""
@@ -633,8 +633,8 @@ msgid ""
 "When Griffin Dreamfinder enters the battlefield, return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę uroku z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../BNG.rst:100
 msgid ""
@@ -776,7 +776,7 @@ msgid ""
 "When Ornitharch enters the battlefield, if tribute wasn't paid, create two "
 "1/1 white Bird creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "stwórz dwa żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../BNG.rst:136
@@ -909,8 +909,8 @@ msgid ""
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, ujawnij wierzchnią kartę "
 "twojej biblioteki. Jeśli jest to karta artefaktu, stwora lub lądu, możesz "
-"umieścić ją na polu bitwy ze znacznikiem manifestacji. Ów permanent jest "
-"dodatkowo urokiem oprócz swoich innych typów."
+"umieścić ją na polu bitwy ze znacznikiem manifestacji. Ów byt jest dodatkowo "
+"urokiem oprócz swoich innych typów."
 
 #: ../../BNG.rst:178
 msgid ""
@@ -1012,7 +1012,7 @@ msgstr ""
 # 67ea6b02a30e4addb5b700719066225e
 #: ../../BNG.rst:201
 msgid "When Eternity Snare enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # a5c0468167944ed78d2aca3d65eda3fb
 # 209c6fc406084fb1a47f761ed0a99140
@@ -1243,8 +1243,8 @@ msgid ""
 "(If the spell becomes a permanent, you control that permanent.)"
 msgstr ""
 "Ilekroć przeciwnik rzuci czar, możesz zamienić władanie nad tym stworem i "
-"owym czarem. Jeśli tak zrobisz, możesz wskazać nowe cele dla owego czaru. "
-"(Jeśli ów czar stanie się permanentem, masz nad nim władanie.)"
+"owym czarem. Jeśli tak zrobisz, możesz wskazać nowe cele dla owego czaru. ("
+"Jeśli ów czar stanie się bytem, masz nad nim władanie.)"
 
 #: ../../BNG.rst:264
 msgid ""
@@ -1260,8 +1260,8 @@ msgid ""
 "Until end of turn, target creature gains \"|tap|: Return target nonland "
 "permanent to its owner's hand.\""
 msgstr ""
-"Wskazany stwór zyskuje do końca tury \"|tap|: Zwróć wskazany nie-lądowy "
-"permanent do ręki właściciela.\""
+"Wskazany stwór zyskuje do końca tury \"|tap|: Zwróć wskazany nie-lądowy byt "
+"do ręki właściciela.\""
 
 #: ../../BNG.rst:272
 msgid ""
@@ -1294,7 +1294,7 @@ msgid ""
 "When Siren of the Fanged Coast enters the battlefield, if tribute wasn't "
 "paid, gain control of target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "zyskaj władanie nad wskazanym stworem."
 
 #: ../../BNG.rst:278
@@ -1321,7 +1321,7 @@ msgstr ""
 # 0a55683cf937461e8419d21fca8edc51
 #: ../../BNG.rst:283
 msgid "When Stratus Walk enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # fe4081e6b6dc498a83a9a2b4cb7e8941
 # c60834759b5543daaeb89b5c22acfeac
@@ -1374,8 +1374,8 @@ msgid ""
 "counts toward your devotion to blue.)"
 msgstr ""
 "Skontruj wskazany czar, chyba że jego władca dopłaci |mana_x|, gdzie X jest "
-"twoim kultem niebieskiego (Każdy symbol |mana_u| w kosztach many permanentów "
-"pod twoim władaniem wlicza się do twojego kultu niebieskiego.)"
+"twoim kultem niebieskiego (Każdy symbol |mana_u| w kosztach many bytów pod "
+"twoim władaniem wlicza się do twojego kultu niebieskiego.)"
 
 #: ../../BNG.rst:302
 msgid ""
@@ -1759,7 +1759,7 @@ msgstr ""
 # 2101eaeed91f4d2a9f590b7ae517649f
 #: ../../BNG.rst:395
 msgid "When Grisly Transformation enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 1b1c553b1f8344059f69953763669255
 # c24f237093c64769bb134da6320c4b45
@@ -1818,8 +1818,8 @@ msgid ""
 "your devotion to black.)"
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest twoim kultem "
-"czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
-"wlicza się w twój kult czarnego.)"
+"czarnego. (Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza "
+"się w twój kult czarnego.)"
 
 #: ../../BNG.rst:416
 msgid ""
@@ -1880,8 +1880,8 @@ msgid ""
 "When Odunos River Trawler enters the battlefield, return target enchantment "
 "creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę uroku z twojego "
+"cmentarza do twojej ręki."
 
 # 24dc57589a5244a1a4a0d3c10641ee88
 # de86b69b843547e5ae77cdb83a009c18
@@ -1927,8 +1927,8 @@ msgid ""
 "your devotion to black.)"
 msgstr ""
 "Dobierz X kart i strać X żyć, gdzie X jest twoim kultem czarnego. (Każdy "
-"symbol |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się "
-"do twojego kultu czarnego.)"
+"symbol |mana_b| w kosztach many bytów pod twoim władaniem wlicza się do "
+"twojego kultu czarnego.)"
 
 #: ../../BNG.rst:442
 msgid ""
@@ -1967,7 +1967,7 @@ msgid ""
 "When Shrike Harpy enters the battlefield, if tribute wasn't paid, target "
 "opponent sacrifices a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "wskazany przeciwnik poświęca stwora."
 
 #: ../../BNG.rst:458
@@ -2245,7 +2245,7 @@ msgid ""
 "it gains haste and \"When this creature dies, return it to its owner's hand."
 "\""
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, przywróć go do ręki "
 "właściciela.\""
 
@@ -2364,7 +2364,7 @@ msgid ""
 "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may "
 "cast an instant or sorcery spell from your hand without paying its mana cost."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "możesz rzucić czar sztuczki lub obrzędu z twojej ręki bez płacenia jego "
 "kosztu many."
 
@@ -2382,7 +2382,7 @@ msgid ""
 "When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax "
 "Giant deals 5 damage to each opponent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "zadaje on każdemu przeciwnikowi po 5 obrażeń."
 
 #: ../../BNG.rst:570
@@ -2540,7 +2540,7 @@ msgid ""
 "When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains "
 "haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "zyskuje on pośpiech do końca tury."
 
 #: ../../BNG.rst:616
@@ -2559,8 +2559,8 @@ msgid ""
 "you control counts toward your devotion to red.)"
 msgstr ""
 "Ilekroć zauroczony stwór zaatakuje, dostaje do końca tury +X/+0, gdzie X "
-"jest twoim kultem czerwonego. (Każdy symbol |mana_r| w kosztach many "
-"permanentów pod twoim władaniem wlicza się do twojego kultu czerwonego.)"
+"jest twoim kultem czerwonego. (Każdy symbol |mana_r| w kosztach many bytów "
+"pod twoim władaniem wlicza się do twojego kultu czerwonego.)"
 
 #: ../../BNG.rst:620
 msgid ""
@@ -2577,9 +2577,9 @@ msgid ""
 "three piles. Then each player chooses one of their piles at random and "
 "sacrifices those permanents. (Piles can be empty.)"
 msgstr ""
-"Począwszy od ciebie, każdy gracz dzieli wszystkie permanenty pod swoim "
-"władaniem na trzy stosy. Następnie każdy gracz wybiera losowo jeden ze "
-"swoich stosów i poświęca owe permanenty. (Stosy mogą być puste.)"
+"Począwszy od ciebie, każdy gracz dzieli wszystkie byty pod swoim władaniem "
+"na trzy stosy. Następnie każdy gracz wybiera losowo jeden ze swoich stosów i "
+"poświęca owe byty. (Stosy mogą być puste.)"
 
 #: ../../BNG.rst:626
 msgid ""
@@ -2620,8 +2620,8 @@ msgid ""
 "toward your devotion to green.)"
 msgstr ""
 "Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest twoim kultem "
-"zielonego. (Każde |mana_g| w kosztach many permanentów pod twoim władaniem "
-"wlicza się do twojego kultu zielonego.)"
+"zielonego. (Każde |mana_g| w kosztach many bytów pod twoim władaniem wlicza "
+"się do twojego kultu zielonego.)"
 
 #: ../../BNG.rst:634
 msgid ""
@@ -2759,7 +2759,7 @@ msgstr ""
 # 2f8dfa2b46de4befa71e676afcc94fa8
 #: ../../BNG.rst:669
 msgid "When Karametra's Favor enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 0796b8220efb4d38a1c913d6c6c458bf
 # 2b37cb244a80416ab865998986cf3629
@@ -2812,8 +2812,8 @@ msgid ""
 "When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy "
 "target noncreature permanent."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
-"zniszcz wskazany permanent nie będący stworem."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"zniszcz wskazany byt nie będący stworem."
 
 #: ../../BNG.rst:692
 msgid ""
@@ -2840,7 +2840,7 @@ msgid ""
 "you may have Nessian Wilds Ravager fight another target creature. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "możesz sprawić, że walczy on z innym wskazanym stworem. (Każdy zada drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -2965,8 +2965,8 @@ msgid ""
 "When Raised by Wolves enters the battlefield, create two 2/2 green Wolf "
 "creature tokens."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
-"Wilk 2/2."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora Wilk "
+"2/2."
 
 # 8357e19ddf53448fa0c8755248c6b08f
 # 07b0c155749d4055b4a8c2e8018e5514
@@ -2989,9 +2989,9 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
-"twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
-"Umieść pozostałe w twoim cmentarzu."
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij cztery wierzchnie karty twojej "
+"biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. Umieść "
+"pozostałe w twoim cmentarzu."
 
 #: ../../BNG.rst:738
 msgid ""
@@ -3061,7 +3061,7 @@ msgid ""
 "toward your devotion to green.)"
 msgstr ""
 "Ten czar zadaje każdemu stworowi z lataniem po tyle obrażeń, ile wynosi twój "
-"kult zielonego. (Każdy symbol |mana_g| w kosztach many permanentów pod twoim "
+"kult zielonego. (Każdy symbol |mana_g| w kosztach many bytów pod twoim "
 "władaniem wlicza się do twojego kultu zielonego.)"
 
 #: ../../BNG.rst:756
@@ -3079,7 +3079,7 @@ msgid ""
 "When Snake of the Golden Grove enters the battlefield, if tribute wasn't "
 "paid, you gain 4 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "zyskaj 4 życia."
 
 #: ../../BNG.rst:758
@@ -3198,7 +3198,7 @@ msgid ""
 "When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on "
 "enchanted creature."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na zauroczonym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na zauroczonym "
 "stworze."
 
 # a1f4b6a939a74138b7c88686388933c0
@@ -3243,7 +3243,7 @@ msgid ""
 "When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it "
 "gets +1/+1 and gains haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli danina nie została zapłacona, "
 "dostaje on do końca tury +1/+1 i pośpiech."
 
 #: ../../BNG.rst:806
@@ -3290,8 +3290,7 @@ msgid ""
 "dealt by target permanent an opponent controls."
 msgstr ""
 "+1: Do twojej następnej tury zażegnaj wszystkie obrażenia, jakie mogłyby "
-"zostać zadane lub otrzymane przez wskazany permanent pod władaniem "
-"przeciwnika."
+"zostać zadane lub otrzymane przez wskazany byt pod władaniem przeciwnika."
 
 # 3d859db5a7854991b877c1bb99b9f90c
 # 0d883b4667124e309770e258ff5f39e9
@@ -3320,7 +3319,7 @@ msgstr ""
 # 5983cfba893047f881f9cfb96a3ac09c
 #: ../../BNG.rst:817
 msgid "|tap|: Untap another target permanent."
-msgstr "|tap|: Odkręć inny wskazany permanent."
+msgstr "|tap|: Odkręć inny wskazany byt."
 
 #: ../../BNG.rst:826
 msgid ""
@@ -3585,7 +3584,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 7c4876bccf344fae850ad5f79843a225
 #: ../../BNG.rst:895
 msgid "When Temple of Enlightenment enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # f596b33634df4613883696b88e96b943
 # 59dbde6caef54c9882ee8de59b74285b
@@ -3610,7 +3609,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # c480987f8be44e6d8873a6e90cda6c4e
 #: ../../BNG.rst:903
 msgid "When Temple of Malice enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # f017992900704dad9038ee42469f42de
 # 0f3249c8d25e4c3889b9ab4e27a7c087
@@ -3635,7 +3634,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 6914742025a945fcad1df6a1d0092b5f
 #: ../../BNG.rst:911
 msgid "When Temple of Plenty enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # f45703f6c4f84505a92b3071f1e4a611
 # d4afa495da1e406d96538697e0149979

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/isd/pl/>\n"
 "Language: pl\n"
@@ -526,7 +526,7 @@ msgid ""
 "When Fiend Hunter enters the battlefield, you may exile another target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy możesz wygnać innego wskazanego stwora."
+"Kiedy ten byt wejdzie na pole bitwy możesz wygnać innego wskazanego stwora."
 
 # 0a4021a6c4574f1f9de8e95dfedfc3c3
 #: ../../ISD.rst:85
@@ -576,8 +576,8 @@ msgid ""
 "When Geist-Honored Monk enters the battlefield, create two 1/1 white Spirit "
 "creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony białego stwora Duch "
-"1/1 z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora Duch 1/"
+"1 z lataniem."
 
 #: ../../ISD.rst:108
 msgid ""
@@ -823,7 +823,7 @@ msgid ""
 "When Slayer of the Wicked enters the battlefield, you may destroy target "
 "Vampire, Werewolf, or Zombie."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego Wampira, "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego Wampira, "
 "Wilkołaka lub Zombi."
 
 #: ../../ISD.rst:178
@@ -975,7 +975,7 @@ msgid ""
 "When Village Bell-Ringer enters the battlefield, untap all creatures you "
 "control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
+"Kiedy ten byt wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
 "władaniem."
 
 #: ../../ISD.rst:222
@@ -1000,7 +1000,7 @@ msgstr ""
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:225
 msgid "When Armored Skaab enters the battlefield, mill four cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../ISD.rst:230
 msgid ""
@@ -1093,7 +1093,7 @@ msgstr ""
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:255
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 # c68bb78ced1649828c33d67784cb0ca0
 #: ../../ISD.rst:257
@@ -1350,8 +1350,7 @@ msgstr ""
 # 653918f4c1dc423ba6763b1d52f58adf
 #: ../../ISD.rst:335
 msgid "Counter target spell. Return target permanent to its owner's hand."
-msgstr ""
-"Skontruj wskazany czar. Przywróć wskazany permanent do ręki właściciela."
+msgstr "Skontruj wskazany czar. Przywróć wskazany byt do ręki właściciela."
 
 #: ../../ISD.rst:342
 msgid ""
@@ -1616,7 +1615,7 @@ msgid ""
 "equal to its mana cost. (You may cast that card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
+"Kiedy ten byt wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
 "twoim cmentarzu zyskuje do końca tury wspomnienie. Koszt wspomnienia jest "
 "równy jej kosztowi many. (Możesz rzucić ową kartę z twojego cmentarza za "
 "koszt wspomnienia. Następnie wygnaj ją.)"
@@ -2037,7 +2036,7 @@ msgid ""
 "When Ghoulraiser enters the battlefield, return a Zombie card at random from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć losową kartę Zombi z twojego "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć losową kartę Zombi z twojego "
 "cmentarza do twojej ręki."
 
 #: ../../ISD.rst:576
@@ -2094,8 +2093,8 @@ msgid ""
 "−6: Separate all permanents target player controls into two piles. That "
 "player sacrifices all permanents in the pile of their choice."
 msgstr ""
-"–6: Rozdziel wszystkie permanenty pod władaniem wskazanego gracza na dwa "
-"stosy. Ów gracz poświęca wszystkie permanenty w wybranym przez siebie stosie."
+"–6: Rozdziel wszystkie byty pod władaniem wskazanego gracza na dwa stosy. Ów "
+"gracz poświęca wszystkie byty w wybranym przez siebie stosie."
 
 #: ../../ISD.rst:596
 msgid ""
@@ -2175,7 +2174,7 @@ msgid ""
 "Morbid — When Morkrut Banshee enters the battlefield, if a creature died "
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../ISD.rst:618
@@ -2586,8 +2585,8 @@ msgid ""
 "When Crossway Vampire enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór nie może blokować w "
-"tej turze."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../ISD.rst:750
 msgid ""
@@ -2803,8 +2802,8 @@ msgid ""
 "mana value among the milled cards."
 msgstr ""
 "|mana_3|\\ |mana_r|: Wskaż dowolny cel, po czym zmiel trzy karty. Ten urok "
-"zadaje owemu permanentowi lub graczowi tyle obrażeń, ile wynosił największy "
-"skrót many spośród owych zmielonych kart."
+"zadaje owemu bytowi lub graczowi tyle obrażeń, ile wynosił największy skrót "
+"many spośród owych zmielonych kart."
 
 #: ../../ISD.rst:826
 msgid ""
@@ -3278,7 +3277,7 @@ msgstr ""
 # 28d09e7d45cc4688bffec695691ea5aa
 #: ../../ISD.rst:967
 msgid "Destroy target noncreature permanent."
-msgstr "Zniszcz wskazany permanent nie będący stworem."
+msgstr "Zniszcz wskazany byt nie będący stworem."
 
 #: ../../ISD.rst:974
 msgid ""
@@ -3318,7 +3317,7 @@ msgid ""
 "Choose a permanent type. Return all cards of the chosen type from your "
 "graveyard to your hand."
 msgstr ""
-"Wybierz typ permanentu. Przywróć wszystkie karty wybranego typu z twojego "
+"Wybierz typ bytu. Przywróć wszystkie karty wybranego typu z twojego "
 "cmentarza do twojej ręki."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
@@ -3663,7 +3662,7 @@ msgid ""
 "Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature "
 "died this turn, you gain 5 life."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, zyskaj 5 żyć."
 
 #: ../../ISD.rst:1076
@@ -4080,7 +4079,7 @@ msgid ""
 "Morbid — When Woodland Sleuth enters the battlefield, if a creature died "
 "this turn, return a creature card at random from your graveyard to your hand."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, przywróć losową kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ISD.rst:1202
@@ -4344,7 +4343,7 @@ msgid ""
 "When Geistcatcher's Rig enters the battlefield, you may have it deal 4 "
 "damage to target creature with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz sprawić, że zada wskazanemu "
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że zada wskazanemu "
 "stworowi z lataniem 4 obrażenia."
 
 #: ../../ISD.rst:1282
@@ -4580,8 +4579,8 @@ msgid ""
 "When Witchbane Orb enters the battlefield, destroy all Curses attached to "
 "you."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, zniszcz wszystkie Klątwy dołączone "
-"do ciebie."
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wszystkie Klątwy dołączone do "
+"ciebie."
 
 # 42c8dec81b0e4659b65fde230ae0489a
 #: ../../ISD.rst:1357

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jou/pl/>\n"
 "Language: pl\n"
@@ -337,8 +337,8 @@ msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt pod "
+"władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../JOU.rst:36
 msgid ""
@@ -657,7 +657,7 @@ msgid ""
 "owner's library just beneath the top X cards of that library, where X is the "
 "number of Plains you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazanego stwora w bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazanego stwora w bibliotece "
 "właściciela tuż pod X wierzchnimi kartami owej biblioteki, gdzie X jest "
 "liczbą Równin pod twoim władaniem."
 
@@ -718,8 +718,8 @@ msgid ""
 "beginning of the next end step."
 msgstr ""
 "Konstelacja — Ilekroć ten lub inny urok wejdzie na pole bitwy pod twoim "
-"władaniem, wygnaj wskazany nie-lądowy permanent. Przywróć ową kartę na pole "
-"bitwy pod władaniem jej właściciela na początku najbliższego kroku końcowego."
+"władaniem, wygnaj wskazany nie-lądowy byt. Przywróć ową kartę na pole bitwy "
+"pod władaniem jej właściciela na początku najbliższego kroku końcowego."
 
 #: ../../JOU.rst:142
 msgid ""
@@ -781,7 +781,7 @@ msgid ""
 "When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on "
 "target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../JOU.rst:156
@@ -942,8 +942,8 @@ msgid ""
 "controls that shares a card type with it."
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, możesz zamienić władanie "
-"nad wskazanym nie-lądowym permanentem pod twoim władaniem oraz wskazanym "
-"permanentem pod władaniem przeciwnika, z którym współdzieli typ karty."
+"nad wskazanym nie-lądowym bytem pod twoim władaniem oraz wskazanym bytem pod "
+"władaniem przeciwnika, z którym współdzieli typ karty."
 
 #: ../../JOU.rst:200
 msgid ""
@@ -986,7 +986,7 @@ msgid ""
 "enchantment or an enchanted permanent."
 msgstr ""
 "Ten stwór nie może atakować, chyba że broniący się gracz włada urokiem lub "
-"zauroczonym permanentem."
+"zauroczonym bytem."
 
 #: ../../JOU.rst:214
 msgid ""
@@ -1211,7 +1211,7 @@ msgid ""
 "opponents control with toughness X or less to its owner's hand, where X is "
 "the number of Islands you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć każdego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć każdego stwora pod władaniem "
 "twoich przeciwników o wytrzymałości X lub mniejszej do rąk właścicieli, "
 "gdzie X jest liczbą Wysp pod twoim władaniem."
 
@@ -1390,9 +1390,9 @@ msgid ""
 "and you choose a nonland card from it. Exile that card until Brain Maggot "
 "leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją "
-"rękę, a ty wybierz z niej nie-lądową kartę. Wygnaj ową kartę dopóki ten "
-"stwór nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik ujawnia swoją rękę, "
+"a ty wybierz z niej nie-lądową kartę. Wygnaj ową kartę dopóki ten stwór nie "
+"opuści pola bitwy."
 
 #: ../../JOU.rst:330
 msgid ""
@@ -1825,8 +1825,8 @@ msgid ""
 "When Bearer of the Heavens dies, destroy all permanents at the beginning of "
 "the next end step."
 msgstr ""
-"Kiedy ten stwór umrze, zniszcz wszystkie permanenty na początku najbliższego "
-"kroku końcowego."
+"Kiedy ten stwór umrze, zniszcz wszystkie byty na początku najbliższego kroku "
+"końcowego."
 
 #: ../../JOU.rst:456
 msgid ""
@@ -1892,8 +1892,8 @@ msgid ""
 "If a source would deal damage to a permanent or player, it deals double that "
 "damage to that permanent or player instead."
 msgstr ""
-"Jeśli jakieś źródło miałoby zadać obrażenia permanentowi lub graczowi, "
-"zamiast tego zadaje w ów cel dwukrotność tych obrażeń."
+"Jeśli jakieś źródło miałoby zadać obrażenia bytowi lub graczowi, zamiast "
+"tego zadaje w ów cel dwukrotność tych obrażeń."
 
 #: ../../JOU.rst:476
 msgid ""
@@ -2040,7 +2040,7 @@ msgid ""
 "When Lightning Diadem enters the battlefield, it deals 2 damage to any "
 "target."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
 
 # 2aacdc202217492eac3ecaabad9a1b38
 #: ../../JOU.rst:517
@@ -2208,7 +2208,7 @@ msgid ""
 "When Spawn of Thraxes enters the battlefield, it deals damage to any target "
 "equal to the number of Mountains you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on wskazanemu celowi tyle "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu celowi tyle "
 "obrażeń, ile masz Gór pod władaniem."
 
 #: ../../JOU.rst:572
@@ -2561,7 +2561,7 @@ msgid ""
 "creature card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na X wierzchnich kart twojej "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na X wierzchnich kart twojej "
 "biblioteki, gdzie X jest liczbą Lasów pod twoim władaniem. Możesz ujawnić "
 "spośród nich kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe na "
 "spodzie twojej biblioteki w dowolnej kolejności."
@@ -2688,7 +2688,7 @@ msgid ""
 "When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze."
 
 #: ../../JOU.rst:708
@@ -2988,7 +2988,7 @@ msgid ""
 msgstr ""
 "Ujawnij pierwszą kartę dobieraną przez ciebie w każdej z twoich tur. Ilekroć "
 "ujawnisz w ten sposób kartę lądu, dobierz kartę. Ilekroć ujawnisz nie-lądową "
-"kartę w ten sposób, ten permanent zadaje wskazanemu celowi 3 obrażenia."
+"kartę w ten sposób, ten byt zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../JOU.rst:796
 msgid ""
@@ -3233,7 +3233,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 51884cd91f7d42ab978e11bed8e4f0cb
 #: ../../JOU.rst:865
 msgid "When Temple of Epiphany enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # 3316b2f43b754b7d84e2ab467e2e2325
 #: ../../JOU.rst:867
@@ -3255,7 +3255,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 66e0cd425eea41b4b85d48585dfff6fc
 #: ../../JOU.rst:873
 msgid "When Temple of Malady enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # 3316b2f43b754b7d84e2ab467e2e2325
 #: ../../JOU.rst:875

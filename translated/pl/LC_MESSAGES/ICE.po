@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 07:29+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -337,8 +337,7 @@ msgstr "Zauroczony stwór nie może być blokowany przez czarne stwory."
 msgid ""
 "Enchanted creature gets +2/+2 as long as an opponent controls a black "
 "permanent."
-msgstr ""
-"Zauroczony stwór dostaje +2/+2 o ile przeciwnik włada czarnym permanentem."
+msgstr "Zauroczony stwór dostaje +2/+2 o ile przeciwnik włada czarnym bytem."
 
 #: ../../ICE.rst:48
 msgid ""
@@ -385,8 +384,7 @@ msgstr "Zauroczony stwór nie może być blokowany przez niebieskie stwory."
 msgid ""
 "Enchanted creature gets +2/+2 as long as an opponent controls a blue "
 "permanent."
-msgstr ""
-"Zauroczony stwór dostaje +2/+2 o ile przeciwnik włada niebieskim permanentem."
+msgstr "Zauroczony stwór dostaje +2/+2 o ile przeciwnik włada niebieskim bytem."
 
 #: ../../ICE.rst:68
 msgid ""
@@ -1403,7 +1401,7 @@ msgstr "Skontruj wskazany czar jeśli jest czerwony."
 
 #: ../../ICE.rst:403
 msgid "Destroy target permanent if it's red."
-msgstr "Zniszcz wskazany permanent jeśli jest czerwony."
+msgstr "Zniszcz wskazany byt jeśli jest czerwony."
 
 #: ../../ICE.rst:412
 msgid ""
@@ -1934,7 +1932,7 @@ msgstr ""
 #: ../../ICE.rst:619
 msgid "When Wrath of Marit Lage enters the battlefield, tap all red creatures."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, przekręć wszystkie czerwone stwory."
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wszystkie czerwone stwory."
 
 #: ../../ICE.rst:621
 msgid "Red creatures don't untap during their controllers' untap steps."
@@ -2270,7 +2268,7 @@ msgid ""
 "When Hecatomb enters the battlefield, sacrifice Hecatomb unless you "
 "sacrifice four creatures."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, poświęć go, chyba że poświęcisz cztery "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że poświęcisz cztery "
 "stwory."
 
 #: ../../ICE.rst:735
@@ -2375,7 +2373,7 @@ msgstr ""
 
 #: ../../ICE.rst:767
 msgid "When Kjeldoran Dead enters the battlefield, sacrifice a creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, poświęć stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, poświęć stwora."
 
 #: ../../ICE.rst:769
 msgid "|mana_b|: Regenerate Kjeldoran Dead."
@@ -3526,7 +3524,7 @@ msgstr "Skontruj wskazany czar jeśli jest niebieski."
 
 #: ../../ICE.rst:1177
 msgid "Destroy target permanent if it's blue."
-msgstr "Zniszcz wskazany permanent jeśli jest niebieski."
+msgstr "Zniszcz wskazany byt jeśli jest niebieski."
 
 #: ../../ICE.rst:1182
 msgid ""

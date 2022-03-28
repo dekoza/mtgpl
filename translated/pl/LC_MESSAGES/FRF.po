@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 23:25+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/frf/pl/>\n"
 "Language: pl\n"
@@ -254,8 +254,8 @@ msgstr "+2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia."
 msgid ""
 "−X: Exile each permanent with mana value X or less that's one or more colors."
 msgstr ""
-"–X: Wygnaj każdy permanent o skrócie many X lub mniejszym mający "
-"przynajmniej jeden kolor."
+"–X: Wygnaj każdy byt o skrócie many X lub mniejszym mający przynajmniej "
+"jeden kolor."
 
 # 119a7a98bdf142bb876c9f024448e1ae
 #: ../../FRF.rst:13
@@ -264,7 +264,7 @@ msgid ""
 "from your hand onto the battlefield."
 msgstr ""
 "–10: Zyskaj 7 żyć, dobierz siedem kart, po czym umieść na polu bitwy co "
-"najwyżej siedem kart permanentów z twojej ręki."
+"najwyżej siedem kart bytów z twojej ręki."
 
 #: ../../FRF.rst:18
 msgid ""
@@ -319,8 +319,7 @@ msgstr "Zauroczony stwór dostaje +2/+2."
 msgid ""
 "Enchanted creature has vigilance as long as you control a black or green "
 "permanent."
-msgstr ""
-"Zauroczony stwór ma czujność o ile władasz czarnym lub zielonym permanentem."
+msgstr "Zauroczony stwór ma czujność o ile władasz czarnym lub zielonym bytem."
 
 #: ../../FRF.rst:32
 msgid ""
@@ -369,7 +368,7 @@ msgstr ""
 # d9b3abc9e3934f9b9ffbbcae1b4dc963
 #: ../../FRF.rst:35
 msgid "When Arashin Cleric enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../FRF.rst:40
 msgid ""
@@ -393,7 +392,7 @@ msgid ""
 "may have Channel Harm deal that much damage to target creature."
 msgstr ""
 "Zażegnaj wszystkie obrażenia, jakie mogłyby zostać w tej turze zadane tobie "
-"lub permanentom pod twoim władaniem przez źródła poza twoim władaniem. Jeśli "
+"lub bytom pod twoim władaniem przez źródła poza twoim władaniem. Jeśli "
 "obrażenia zostaną zażegnane w ten sposób, możesz sprawić, by ten czar zadał "
 "tyle samo obrażeń wskazanemu stworowi."
 
@@ -512,7 +511,7 @@ msgid ""
 "with the least toughness among creatures you control and put two +1/+1 "
 "counters on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wzmocnij 2. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim dwa znaczniki +1/+1.)"
 
@@ -572,7 +571,7 @@ msgid ""
 "When Jeskai Barricade enters the battlefield, you may return another target "
 "creature you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić innego wskazanego "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić innego wskazanego "
 "stwora pod twoim władaniem do ręki właściciela."
 
 #: ../../FRF.rst:98
@@ -591,9 +590,9 @@ msgid ""
 "creature. Turn it face up any time for its mana cost if it's a creature "
 "card.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, staje się Aurą z \"zaurocz stwora\". "
-"Objaw wierzchnią kartę twojej biblioteki i dołącz do niej niniejszy urok. "
-"(Aby objawić kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj "
+"Kiedy ten byt wejdzie na pole bitwy, staje się Aurą z \"zaurocz stwora\". "
+"Objaw wierzchnią kartę twojej biblioteki i dołącz do niej niniejszy urok. ("
+"Aby objawić kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj "
 "ją w dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 # 2a7ba69e0f694715adfba123d8fb460b
@@ -614,8 +613,8 @@ msgid ""
 "When Lotus-Eye Mystics enters the battlefield, return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę uroku z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../FRF.rst:108
 msgid ""
@@ -648,8 +647,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostanie odkryty, zyskaj 1 życie za "
-"każdego stwora pod twoim władaniem."
+"Ilekroć byt pod twoim władaniem zostanie odkryty, zyskaj 1 życie za każdego "
+"stwora pod twoim władaniem."
 
 # 5a653eeea4764dec870ba0a41d223d71
 #: ../../FRF.rst:113
@@ -728,7 +727,7 @@ msgid ""
 "When Sage's Reverie enters the battlefield, draw a card for each Aura you "
 "control that's attached to a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz tyle kart, ile masz Aur pod "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz tyle kart, ile masz Aur pod "
 "twoim władaniem dołączonych do stworów."
 
 # 3bd6d4b5988b4ce18f5dbd2ffc3f1a8a
@@ -763,7 +762,7 @@ msgstr ""
 # 1235b885a48c46889f3fb34526949631
 #: ../../FRF.rst:145
 msgid "When Sandsteppe Outcast enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 # e683eea8c99b422c83abb584bb328051
 #: ../../FRF.rst:147
@@ -866,8 +865,7 @@ msgid ""
 "a blue or red permanent, you may discard a card. If you do, draw a card."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz niebieskim "
-"lub czerwonym permanentem, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
-"kartę."
+"lub czerwonym bytem, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../FRF.rst:180
 msgid ""
@@ -892,7 +890,7 @@ msgstr ""
 # 9042d8e50a3d449db768a6b5b04d8263
 #: ../../FRF.rst:185
 msgid "When Aven Surveyor enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 # 26d7f84996dd4aebac63458611c7fa1c
 #: ../../FRF.rst:187
@@ -920,9 +918,9 @@ msgid ""
 "creature. Turn it face up any time for its mana cost if it's a creature "
 "card.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, staje się Aurą z \"zaurocz stwora\". "
-"Objaw wierzchnią kartę twojej biblioteki i dołącz do niej niniejszy urok. "
-"(Aby objawić kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj "
+"Kiedy ten byt wejdzie na pole bitwy, staje się Aurą z \"zaurocz stwora\". "
+"Objaw wierzchnią kartę twojej biblioteki i dołącz do niej niniejszy urok. ("
+"Aby objawić kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj "
 "ją w dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 # 4ccf69ac9c3b4ea3affa64275f1c3314
@@ -1016,8 +1014,7 @@ msgstr ""
 msgid ""
 "Enchanted creature has flying as long as you control a red or white "
 "permanent."
-msgstr ""
-"Zauroczony stwór ma latanie o ile władasz czerwonym lub białym permanentem."
+msgstr "Zauroczony stwór ma latanie o ile władasz czerwonym lub białym bytem."
 
 #: ../../FRF.rst:232
 msgid ""
@@ -1057,7 +1054,7 @@ msgid ""
 "a black or green permanent."
 msgstr ""
 "Możesz rzucić tego stwora z twojego cmentarza o ile władasz czarnym lub "
-"zielonym permanentem."
+"zielonym bytem."
 
 #: ../../FRF.rst:250
 msgid ""
@@ -1118,8 +1115,8 @@ msgid ""
 "Dragons — Spells your opponents cast that target you or a permanent you "
 "control cost |mana_2| more to cast."
 msgstr ""
-"Smoki — Rzucanie czarów wskazujących ciebie lub permanent pod twoim "
-"władaniem kosztuje twoich przeciwników o |mana_2| więcej."
+"Smoki — Rzucanie czarów wskazujących ciebie lub byt pod twoim władaniem "
+"kosztuje twoich przeciwników o |mana_2| więcej."
 
 #: ../../FRF.rst:268
 msgid ""
@@ -1237,8 +1234,8 @@ msgid ""
 "Return target nonland permanent you control and target nonland permanent you "
 "don't control to their owners' hands."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent pod twoim władaniem oraz wskazany nie-"
-"lądowy permanent poza twoim władaniem do rąk właścicieli."
+"Przywróć wskazany nie-lądowy byt pod twoim władaniem oraz wskazany nie-"
+"lądowy byt poza twoim władaniem do rąk właścicieli."
 
 #: ../../FRF.rst:300
 msgid ""
@@ -1269,8 +1266,8 @@ msgid ""
 "Exchange control of two target permanents that share a card type. (Artifact, "
 "creature, enchantment, land, and planeswalker are card types.)"
 msgstr ""
-"Zamień władanie nad dwoma wskazanymi permanentami współdzielących typ karty. "
-"(Typy karty to: artefakt, stwór, urok, ląd i wędrowiec.)"
+"Zamień władanie nad dwoma wskazanymi bytami współdzielących typ karty. (Typy "
+"karty to: artefakt, stwór, urok, ląd i wędrowiec.)"
 
 #: ../../FRF.rst:310
 msgid ""
@@ -1299,7 +1296,7 @@ msgstr ""
 # 60144ba00fc44a06bcd116a4aafc920c
 #: ../../FRF.rst:313
 msgid "When Sultai Skullkeeper enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../FRF.rst:318
 msgid ""
@@ -1435,7 +1432,7 @@ msgid ""
 "When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 # 41b44f917a5e4867a0fa1173c0331b46
@@ -1472,7 +1469,7 @@ msgid ""
 "As long as you control a red or white permanent, Battle Brawler gets +1/+0 "
 "and has first strike."
 msgstr ""
-"O ile władasz czerwonym lub białym permanentem, ten stwór dostaje +1/+0 i ma "
+"O ile władasz czerwonym lub białym bytem, ten stwór dostaje +1/+0 i ma "
 "pierwszy cios."
 
 #: ../../FRF.rst:374
@@ -1631,7 +1628,7 @@ msgstr ""
 # 4ebe764196104a0baabfb42af3c0cc21
 #: ../../FRF.rst:413
 msgid "When Hooded Assassin enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 # cfd56186012449578076f14446896c65
 #: ../../FRF.rst:415
@@ -1704,7 +1701,7 @@ msgstr ""
 msgid ""
 "When Merciless Executioner enters the battlefield, each player sacrifices a "
 "creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../FRF.rst:440
 msgid ""
@@ -1809,8 +1806,7 @@ msgstr ""
 # 87009acf8686417ea0f685245f18cfa4
 #: ../../FRF.rst:463
 msgid "When Sibsig Host enters the battlefield, each player mills three cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz mieli po trzy karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz mieli po trzy karty."
 
 #: ../../FRF.rst:470
 msgid ""
@@ -1825,7 +1821,7 @@ msgid ""
 "When Sibsig Muckdraggers enters the battlefield, return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../FRF.rst:476
@@ -1881,8 +1877,8 @@ msgid ""
 "it.)"
 msgstr ""
 "Zauroczony stwór ma dotyk śmierci o ile władasz zielonym lub niebieskim "
-"permanentem. (Dowolna ilość obrażeń zadana stworowi przez ową kartę "
-"wystarcza, aby został on zniszczony.)"
+"bytem. (Dowolna ilość obrażeń zadana stworowi przez ową kartę wystarcza, aby "
+"został on zniszczony.)"
 
 #: ../../FRF.rst:494
 msgid ""
@@ -2040,7 +2036,7 @@ msgstr ""
 # ddb2e717307b40589f431c1034f8debc
 #: ../../FRF.rst:535
 msgid "When Defiant Ogre enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 # 41e2da4e55614d968bf447c0b72b5de9
 #: ../../FRF.rst:537
@@ -2228,8 +2224,8 @@ msgid ""
 "Yeti as though it had flash. (You may cast it any time you could cast an "
 "instant.)"
 msgstr ""
-"O ile władasz zielonym lub niebieskim permanentem, możesz rzucić tego stwora "
-"jakby miał błysk. (Może być zagrany jako sztuczka.)"
+"O ile władasz zielonym lub niebieskim bytem, możesz rzucić tego stwora jakby "
+"miał błysk. (Może być zagrany jako sztuczka.)"
 
 #: ../../FRF.rst:590
 msgid ""
@@ -2265,8 +2261,7 @@ msgid ""
 "Enchanted creature has first strike as long as you control a white or black "
 "permanent."
 msgstr ""
-"Zauroczony stwór ma pierwszy cios o ile władasz białym lub czarnym "
-"permanentem."
+"Zauroczony stwór ma pierwszy cios o ile władasz białym lub czarnym bytem."
 
 #: ../../FRF.rst:602
 msgid ""
@@ -2373,9 +2368,9 @@ msgid ""
 "creature. Turn it face up any time for its mana cost if it's a creature "
 "card.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, staje się Aurą z \"zaurocz stwora\". "
-"Objaw wierzchnią kartę twojej biblioteki i dołącz do niej niniejszy urok . "
-"(Aby objawić kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj "
+"Kiedy ten byt wejdzie na pole bitwy, staje się Aurą z \"zaurocz stwora\". "
+"Objaw wierzchnią kartę twojej biblioteki i dołącz do niej niniejszy urok . ("
+"Aby objawić kartę, umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj "
 "ją w dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 # 891c8bccb9df4cc2b552d6b692f51a88
@@ -2531,7 +2526,7 @@ msgstr ""
 msgid ""
 "Abzan Kin-Guard has lifelink as long as you control a white or black "
 "permanent."
-msgstr "Ten stwór ma więź życia o ile władasz białym lub czarnym permanentem."
+msgstr "Ten stwór ma więź życia o ile władasz białym lub czarnym bytem."
 
 #: ../../FRF.rst:680
 msgid ""
@@ -2543,7 +2538,7 @@ msgstr ""
 # 3390c6233c044b5682ca536cbf2196a8
 #: ../../FRF.rst:675
 msgid "When Ainok Guide enters the battlefield, choose one —"
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wybierz jedną —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 # dab6dd37b22f4d0d929ae3782e0ac963
 #: ../../FRF.rst:677
@@ -2578,7 +2573,7 @@ msgid ""
 "When Ambush Krotiq enters the battlefield, return another creature you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć innego stwora pod twoim "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć innego stwora pod twoim "
 "władaniem do ręki właściciela."
 
 #: ../../FRF.rst:690
@@ -2660,7 +2655,7 @@ msgstr ""
 # 9b3eee59039c47f981aa4021223278a7
 #: ../../FRF.rst:711
 msgid "When Destructor Dragon dies, destroy target noncreature permanent."
-msgstr "Kiedy ten stwór umrze, zniszcz wskazany permanent nie będący stworem."
+msgstr "Kiedy ten stwór umrze, zniszcz wskazany byt nie będący stworem."
 
 #: ../../FRF.rst:714
 msgid ""
@@ -2839,7 +2834,7 @@ msgid ""
 "creature with the least toughness among creatures you control and put five "
 "+1/+1 counters on it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wzmocnij 5. (Wybierz stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, wzmocnij 5. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów pod twoim władaniem i umieść na "
 "nim pięć znaczników +1/+1.)"
 
@@ -2893,8 +2888,7 @@ msgid ""
 "Enchanted creature has trample as long as you control a blue or red "
 "permanent."
 msgstr ""
-"Zauroczony stwór ma tratowanie o ile władasz niebieskim lub czerwonym "
-"permanentem."
+"Zauroczony stwór ma tratowanie o ile władasz niebieskim lub czerwonym bytem."
 
 #: ../../FRF.rst:786
 msgid ""
@@ -2928,7 +2922,7 @@ msgid ""
 "library. (Put that card onto the battlefield face down as a 2/2 creature. "
 "Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, objaw wierzchnią kartę twojej "
+"Kiedy ten byt wejdzie na pole bitwy, objaw wierzchnią kartę twojej "
 "biblioteki. (Umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj ją w "
 "dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
@@ -2938,8 +2932,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, if it's a creature, you "
 "may have it fight target creature you don't control."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostanie odkryty, jeśli to stwór, "
-"możesz sprawić, aby walczył ze wskazanym stworem poza twoim władaniem."
+"Ilekroć byt pod twoim władaniem zostanie odkryty, jeśli to stwór, możesz "
+"sprawić, aby walczył ze wskazanym stworem poza twoim władaniem."
 
 #: ../../FRF.rst:800
 msgid ""
@@ -3237,9 +3231,9 @@ msgid ""
 "opponent controls. That permanent doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Ilekroć Smok pod twoim władaniem zaatakuje, przekręć wskazany nie-lądowy "
-"permanent pod władaniem przeciwnika. Ów permanent nie odkręci się w "
-"najbliższym kroku odkręcania swojego władcy."
+"Ilekroć Smok pod twoim władaniem zaatakuje, przekręć wskazany nie-lądowy byt "
+"pod władaniem przeciwnika. Ów byt nie odkręci się w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../FRF.rst:878
 msgid ""
@@ -3387,8 +3381,8 @@ msgid ""
 "When Ugin's Construct enters the battlefield, sacrifice a permanent that's "
 "one or more colors."
 msgstr ""
-"Kiedy ta karta wejdzie na pole bitwy, poświęć permanent mający przynajmniej "
-"jeden kolor."
+"Kiedy ta karta wejdzie na pole bitwy, poświęć byt mający przynajmniej jeden "
+"kolor."
 
 #: ../../FRF.rst:922
 msgid ""
@@ -3405,7 +3399,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 584bee6d1d0d49c2b7649bba8f8416ad
 #: ../../FRF.rst:919
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # da5d7af39b4d4e1e93c10f01d7d47fdb
 #: ../../FRF.rst:921
@@ -3427,7 +3421,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # e8c2e9e3435d43a281c76d0639755643
 #: ../../FRF.rst:927
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:929
@@ -3478,7 +3472,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 8dba136075de4fe3980f88e244be9be2
 #: ../../FRF.rst:943
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 4daf11d211054d209a644c0c4a1dd665
 #: ../../FRF.rst:945
@@ -3500,7 +3494,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 1d16d7b3084347979e4a7487f5d6c97a
 #: ../../FRF.rst:951
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 298af8ad32384d06997041fe369a02ff
 #: ../../FRF.rst:953
@@ -3522,7 +3516,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # d9b82f48e7584558867a6e8381afde32
 #: ../../FRF.rst:959
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # f079dfdf9aad4305a2137b7f25636a16
 #: ../../FRF.rst:961
@@ -3544,7 +3538,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 3dd74a44cca44190b11b59a089bbc427
 #: ../../FRF.rst:967
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 29c9db40b05f4a00af9937d91ca0bf84
 #: ../../FRF.rst:969
@@ -3566,7 +3560,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 8259dcf56cc74dfba803390479b1252f
 #: ../../FRF.rst:975
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 1920a00e207543fa8f7d3c20dee7f113
 #: ../../FRF.rst:977
@@ -3588,7 +3582,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 57dc8898743346868fa6b65f9a75e68c
 #: ../../FRF.rst:983
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:985
@@ -3610,7 +3604,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 6c32109ad01f4ac8a66ecf0785d84077
 #: ../../FRF.rst:991
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 68e08fa3841d42d2a339a5c7d9d710fd
 #: ../../FRF.rst:993
@@ -3632,7 +3626,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 679607247ece46babc5be820e5b837e4
 #: ../../FRF.rst:999
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 66c21d25dec049808f911c7fe9df5922
 #: ../../FRF.rst:1001

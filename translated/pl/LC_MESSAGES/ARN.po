@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 07:29+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arn/pl/>\n"
 "Language: pl\n"
@@ -710,10 +710,10 @@ msgid ""
 "way. (Auras and Equipment phase out with it. While permanents are phased "
 "out, they're treated as though they don't exist.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wskazany stwór wycofuje się dopóki ten "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór wycofuje się dopóki ten "
 "urok jest na polu bitwy. Przekręć owego stwora podczas wycofywania w ten "
-"sposób. (Aury i Ekwipunek wyofuje się razem z nim. Wycofane permanenty "
-"traktuję się tak, jakby nie istniały.)"
+"sposób. (Aury i Ekwipunek wyofuje się razem z nim. Wycofane byty traktuję "
+"się tak, jakby nie istniały.)"
 
 #: ../../ARN.rst:168
 msgid ""
@@ -905,7 +905,7 @@ msgstr ""
 
 #: ../../ARN.rst:227
 msgid "Destroy target permanent."
-msgstr "Zniszcz wskazany permanent."
+msgstr "Zniszcz wskazany byt."
 
 #: ../../ARN.rst:234
 msgid ""

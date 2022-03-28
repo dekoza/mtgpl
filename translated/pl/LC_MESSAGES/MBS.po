@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-25 11:52+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -383,7 +383,7 @@ msgid ""
 "When Leonin Relic-Warder enters the battlefield, you may exile target "
 "artifact or enchantment."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać wskazany artefakt lub "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazany artefakt lub "
 "urok."
 
 #: ../../MBS.rst:53
@@ -601,9 +601,8 @@ msgid ""
 "Counter target spell, then proliferate. (Choose any number of permanents and/"
 "or players, then give each another counter of each kind already there.)"
 msgstr ""
-"Skontruj wskazany czar, po czym rozpleń. (Wybierz dowolną liczbę permanentów "
-"i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
-"rodzajów.)"
+"Skontruj wskazany czar, po czym rozpleń. (Wybierz dowolną liczbę bytów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../MBS.rst:132
 msgid ""
@@ -630,8 +629,8 @@ msgid ""
 "the bottom of your library in any order."
 msgstr ""
 "Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić jedną z "
-"owych kart na polu bitwy jeśli ma taką samą nazwę jak permanent. Umieść "
-"pozostałe dowolnie na spodzie twojej biblioteki."
+"owych kart na polu bitwy jeśli ma taką samą nazwę jak byt. Umieść pozostałe "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../MBS.rst:142
 msgid ""
@@ -671,8 +670,7 @@ msgstr ""
 #: ../../MBS.rst:149
 msgid "Return up to two target nonland permanents to their owners' hands."
 msgstr ""
-"Przywróć co najwyżej dwa wskazane nielądowe permanenty do rąk ich "
-"właścicieli."
+"Przywróć co najwyżej dwa wskazane nielądowe byty do rąk ich właścicieli."
 
 #: ../../MBS.rst:156
 msgid ""
@@ -736,7 +734,7 @@ msgid ""
 "an artifact card with mana value 6 or greater, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "karę o skrócie many 3 lub większym, ujawnij ją, umieść ją w twojej ręce, po "
 "czym przetasuj."
 
@@ -901,7 +899,7 @@ msgid ""
 "When Massacre Wurm enters the battlefield, creatures your opponents control "
 "get -2/-2 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod władaniem twoich "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod władaniem twoich "
 "przeciwników dostają do końca tury -2/-2."
 
 #: ../../MBS.rst:231
@@ -967,7 +965,7 @@ msgstr ""
 msgid ""
 "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../MBS.rst:262
 msgid ""
@@ -1029,9 +1027,9 @@ msgid ""
 "Destroy target creature, then proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
-"Zniszcz wskazanego stwora, po czym rozpleń. (Wybierz dowolną liczbę "
-"permanentów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Zniszcz wskazanego stwora, po czym rozpleń. (Wybierz dowolną liczbę bytów i/"
+"lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../MBS.rst:288
 msgid ""
@@ -1060,7 +1058,7 @@ msgid ""
 "When Blisterstick Shaman enters the battlefield, it deals 1 damage to any "
 "target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../MBS.rst:296
 msgid ""
@@ -1220,7 +1218,7 @@ msgid ""
 "artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you "
 "choose among any number of targets."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz poświęcić artefakt. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić artefakt. Jeśli tak "
 "zrobisz, ten stwór zadaje 4 obrażenia rozdzielone dowolnie pomiędzy "
 "jakiekolwiek wskazane cele."
 
@@ -1470,8 +1468,8 @@ msgid ""
 "|tap|, Sacrifice a creature: Proliferate. (Choose any number of permanents "
 "and/or players, then give each another counter of each kind already there.)"
 msgstr ""
-"|tap|, poświęć stwora: Rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"|tap|, poświęć stwora: Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, "
+"po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../MBS.rst:432
 msgid ""
@@ -1565,7 +1563,7 @@ msgstr ""
 #: ../../MBS.rst:463
 msgid ""
 "When Viridian Corrupter enters the battlefield, destroy target artifact."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../MBS.rst:468
 msgid ""
@@ -1739,8 +1737,8 @@ msgid ""
 "When Core Prowler dies, proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Kiedy ten stwór umrze, rozpleń. (Wybierz dowolną liczbę permanentów i/lub "
-"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"Kiedy ten stwór umrze, rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, "
+"po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../MBS.rst:524
 msgid ""
@@ -1839,8 +1837,8 @@ msgid ""
 "Imprint — When Knowledge Pool enters the battlefield, each player exiles the "
 "top three cards of their library."
 msgstr ""
-"Odlew — Kiedy ten artefakt wejdzie na pole bitwy, każdy gracz wygania trzy "
-"karty z wierzchu swojej biblioteki."
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, każdy gracz wygania trzy karty "
+"z wierzchu swojej biblioteki."
 
 #: ../../MBS.rst:557
 msgid ""
@@ -1967,7 +1965,7 @@ msgstr ""
 
 #: ../../MBS.rst:597
 msgid "When Peace Strider enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../MBS.rst:602
 msgid ""
@@ -2013,8 +2011,7 @@ msgstr ""
 #: ../../MBS.rst:617
 msgid ""
 "When Pierce Strider enters the battlefield, target opponent loses 3 life."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik traci 3 życia."
 
 #: ../../MBS.rst:626
 msgid ""
@@ -2028,7 +2025,7 @@ msgid ""
 "When Piston Sledge enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../MBS.rst:623
@@ -2214,7 +2211,7 @@ msgstr ""
 
 #: ../../MBS.rst:691
 msgid "When Spine of Ish Sah enters the battlefield, destroy target permanent."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, zniszcz wskazany permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany byt."
 
 #: ../../MBS.rst:693
 msgid ""

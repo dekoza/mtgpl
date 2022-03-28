@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -269,14 +269,14 @@ msgstr "Ten stwór nie może być blokowany."
 
 #: ../../DIS.rst:17
 msgid "When Azorius Herald enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../DIS.rst:19
 msgid ""
 "When Azorius Herald enters the battlefield, sacrifice it unless |mana_u| was "
 "spent to cast it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
 "użyto |mana_u|."
 
 #: ../../DIS.rst:28
@@ -597,16 +597,16 @@ msgid ""
 "your library, then put one of them into your hand and the rest on the bottom "
 "of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na trzy wierzchnie karty "
-"twojej biblioteki, po czym umieść jedną z nich w twojej ręce, a pozostałe "
-"dowolnie na spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, po czym umieść jedną z nich w twojej ręce, a pozostałe dowolnie "
+"na spodzie twojej biblioteki."
 
 #: ../../DIS.rst:131
 msgid ""
 "When Court Hussar enters the battlefield, sacrifice it unless |mana_w| was "
 "spent to cast it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
 "została wydana |mana_w|."
 
 #: ../../DIS.rst:138
@@ -923,15 +923,15 @@ msgid ""
 "When Crypt Champion enters the battlefield, each player puts a creature card "
 "with mana value 3 or less from their graveyard onto the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz umieszcza na polu bitwy "
-"ze swojego cmentarza kartę stwora o skrócie many 3 lub mniejszym."
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz umieszcza na polu bitwy ze "
+"swojego cmentarza kartę stwora o skrócie many 3 lub mniejszym."
 
 #: ../../DIS.rst:243
 msgid ""
 "When Crypt Champion enters the battlefield, sacrifice it unless |mana_r| was "
 "spent to cast it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
 "użyto |mana_r|."
 
 #: ../../DIS.rst:248
@@ -1553,7 +1553,7 @@ msgid ""
 "When Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each "
 "other creature you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
 "stworze pod twoim władaniem mającym znacznik +1/+1."
 
 #: ../../DIS.rst:461
@@ -1593,7 +1593,7 @@ msgstr ""
 
 #: ../../DIS.rst:471
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../DIS.rst:473
 msgid ""
@@ -1659,8 +1659,8 @@ msgid ""
 "When Loaming Shaman enters the battlefield, target player shuffles any "
 "number of target cards from their graveyard into their library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz wtasowuje dowolną "
-"liczbę wskazanych kart ze swojego cmentarza do swojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz wtasowuje dowolną liczbę "
+"wskazanych kart ze swojego cmentarza do swojej biblioteki."
 
 #: ../../DIS.rst:498
 msgid ""
@@ -1951,7 +1951,7 @@ msgid ""
 "library. If it's a land card, put it onto the battlefield. Otherwise, put "
 "that card into your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
 "biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
 "umieść ją w twojej ręce."
 
@@ -2320,8 +2320,8 @@ msgid ""
 "Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents "
 "you control, rounded up."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, poświęć połowę permanentów bez typu Demon pod "
-"twoim władaniem, zaokrąglając w górę."
+"Ilekroć ten stwór zaatakuje, poświęć połowę bytów bez typu Demon pod twoim "
+"władaniem, zaokrąglając w górę."
 
 #: ../../DIS.rst:719
 msgid ""
@@ -2329,7 +2329,7 @@ msgid ""
 "the non-Demon permanents they control, rounded up."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz poświęca połowę "
-"permanentów bez typu Demon pod swoim władaniem, zaokrąglając w górę."
+"bytów bez typu Demon pod swoim władaniem, zaokrąglając w górę."
 
 #: ../../DIS.rst:726
 msgid ""
@@ -2353,7 +2353,7 @@ msgstr ""
 msgid ""
 "When Sky Hussar enters the battlefield, untap all creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
+"Kiedy ten byt wejdzie na pole bitwy, odkręć wszystkie stwory pod twoim "
 "władaniem."
 
 #: ../../DIS.rst:733
@@ -2507,7 +2507,7 @@ msgid ""
 "When Avatar of Discord enters the battlefield, sacrifice it unless you "
 "discard two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że odrzucisz dwie "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że odrzucisz dwie "
 "karty."
 
 #: ../../DIS.rst:794
@@ -2621,7 +2621,7 @@ msgstr "(|mana_gu| można opłacić używając |mana_g| albo |mana_u|.)"
 
 #: ../../DIS.rst:833
 msgid "When Shielding Plax enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../DIS.rst:835
 msgid ""
@@ -3074,7 +3074,7 @@ msgid ""
 "When Azorius Chancery enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../DIS.rst:991
@@ -3217,7 +3217,7 @@ msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../DIS.rst:1039
@@ -3256,7 +3256,7 @@ msgid ""
 "When Simic Growth Chamber enters the battlefield, return a land you control "
 "to its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../DIS.rst:1053

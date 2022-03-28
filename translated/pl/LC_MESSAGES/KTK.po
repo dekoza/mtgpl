@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
 "Language: pl\n"
@@ -374,7 +374,7 @@ msgstr ""
 # a56e99a8360844348f87d6de9eb3a132
 #: ../../KTK.rst:49
 msgid "Destroy all creatures and all permanents attached to creatures."
-msgstr "Zniszcz wszystkie stwory i wszystkie permanenty dołączone do stworów."
+msgstr "Zniszcz wszystkie stwory i wszystkie byty dołączone do stworów."
 
 #: ../../KTK.rst:54
 msgid ""
@@ -562,8 +562,8 @@ msgid ""
 "Raid — When Mardu Hordechief enters the battlefield, if you attacked this "
 "turn, create a 1/1 white Warrior creature token."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
-"turze, stwórz żeton białego stwora Wojownik 1/1."
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, jeśli atakowałeś w tej turze, "
+"stwórz żeton białego stwora Wojownik 1/1."
 
 #: ../../KTK.rst:98
 msgid ""
@@ -695,7 +695,7 @@ msgid ""
 "with toughness 3 or greater until Suspension Field leaves the battlefield. "
 "(That creature returns under its owner's control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, możesz wygnać wskazanego stwora o "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazanego stwora o "
 "wytrzymałości 3 lub większej dopóki ta karta nie opuści pola bitwy. (Ów "
 "stwór wraca pod władanie swojego właściciela.)"
 
@@ -724,9 +724,9 @@ msgid ""
 "turn, return target creature card with mana value 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
-"turze, przywróć wskazaną kartę stwora o skrócie many 2 lub mniejszym z "
-"twojego cmentarza na pole bitwy."
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, jeśli atakowałeś w tej turze, "
+"przywróć wskazaną kartę stwora o skrócie many 2 lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../KTK.rst:144
 msgid ""
@@ -785,8 +785,8 @@ msgid ""
 "Raid — When Wingmate Roc enters the battlefield, if you attacked this turn, "
 "create a 3/4 white Bird creature token with flying."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
-"turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, jeśli atakowałeś w tej turze, "
+"stwórz żeton białego stwora Ptak 3/4 z lataniem."
 
 # 7b9bd28ac8f040179077c1c14b068a1d
 #: ../../KTK.rst:163
@@ -832,8 +832,8 @@ msgid ""
 "You may have Clever Impersonator enter the battlefield as a copy of any "
 "nonland permanent on the battlefield."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy możesz uczynić ją kopią nielądowego "
-"permanentu obecnego na polu bitwy."
+"Umieszczając tę kartę na polu bitwy możesz uczynić ją kopią nielądowego bytu "
+"obecnego na polu bitwy."
 
 #: ../../KTK.rst:184
 msgid ""
@@ -1200,8 +1200,7 @@ msgstr ""
 # cb40e6afcceb49bf8fed4b5483b4139a
 #: ../../KTK.rst:293
 msgid "Put target nonland permanent on top of its owner's library."
-msgstr ""
-"Umieść wskazany nie-lądowy permanent na wierzchu biblioteki właściciela."
+msgstr "Umieść wskazany nie-lądowy byt na wierzchu biblioteki właściciela."
 
 #: ../../KTK.rst:304
 msgid ""
@@ -1363,7 +1362,7 @@ msgid ""
 "Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life "
 "unless you attacked this turn."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, strać 4 życia, chyba że "
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, strać 4 życia, chyba że "
 "atakowałeś w tej turze."
 
 #: ../../KTK.rst:354
@@ -1595,8 +1594,8 @@ msgid ""
 "Raid — When Mardu Skullhunter enters the battlefield, if you attacked this "
 "turn, target opponent discards a card."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
-"turze, wskazany przeciwnik odrzuca kartę."
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, jeśli atakowałeś w tej turze, "
+"wskazany przeciwnik odrzuca kartę."
 
 #: ../../KTK.rst:428
 msgid ""
@@ -2257,8 +2256,8 @@ msgid ""
 "Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked this "
 "turn, Mardu Heart-Piercer deals 2 damage to any target."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
-"turze, niniejszy stwór zadaje wskazanemu celowi 2 obrażenia."
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, jeśli atakowałeś w tej turze, "
+"niniejszy stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../KTK.rst:632
 msgid ""
@@ -2273,8 +2272,8 @@ msgid ""
 "Raid — When Mardu Warshrieker enters the battlefield, if you attacked this "
 "turn, add |mana_r|\\ |mana_w|\\ |mana_b|."
 msgstr ""
-"Najazd — Kiedy ten stwór wejdzie na pole bitwy, jeśli atakowałeś w tej "
-"turze, weź |mana_r|\\ |mana_w|\\ |mana_b|."
+"Najazd — Kiedy ten byt wejdzie na pole bitwy, jeśli atakowałeś w tej turze, "
+"weź |mana_r|\\ |mana_w|\\ |mana_b|."
 
 #: ../../KTK.rst:638
 msgid ""
@@ -2929,8 +2928,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, if it's a creature, it "
 "gets +2/+2 until end of turn."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostanie odkryty, jeśli jest on "
-"stworem, dostaje do końca tury +2/+2."
+"Ilekroć byt pod twoim władaniem zostanie odkryty, jeśli jest on stworem, "
+"dostaje do końca tury +2/+2."
 
 #: ../../KTK.rst:834
 msgid ""
@@ -3028,8 +3027,8 @@ msgid ""
 "When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each "
 "creature you control."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
-"stworze pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym stworze "
+"pod twoim władaniem."
 
 # a2a9603f7cc949cb934d6b23f5ce4093
 #: ../../KTK.rst:863
@@ -3147,7 +3146,7 @@ msgid ""
 "When Armament Corps enters the battlefield, distribute two +1/+1 counters "
 "among one or two target creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, rozmieść dwa znaczniki +1/+1 pomiędzy "
+"Kiedy ten byt wejdzie na pole bitwy, rozmieść dwa znaczniki +1/+1 pomiędzy "
 "jednym lub dwoma wskazanymi stworami."
 
 #: ../../KTK.rst:900
@@ -3179,7 +3178,7 @@ msgid ""
 "When Bear's Companion enters the battlefield, create a 4/4 green Bear "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora "
 "Niedźwiedź 4/4."
 
 #: ../../KTK.rst:910
@@ -3297,7 +3296,7 @@ msgid ""
 "When Efreet Weaponmaster enters the battlefield or is turned face up, "
 "another target creature you control gets +3/+0 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub zostanie odkryty, inny wskazany "
+"Kiedy ten byt wejdzie na pole bitwy lub zostanie odkryty, inny wskazany "
 "stwór pod twoim władaniem dostaje do końca tury +3/+0."
 
 # 3167b6294b724608aea758acee935d60
@@ -3613,8 +3612,8 @@ msgid ""
 "When Ponyback Brigade enters the battlefield or is turned face up, create "
 "three 1/1 red Goblin creature tokens."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub zostanie odkryty, stwórz trzy "
-"żetony czerwonego stwora Goblin 1/1."
+"Kiedy ten byt wejdzie na pole bitwy lub zostanie odkryty, stwórz trzy żetony "
+"czerwonego stwora Goblin 1/1."
 
 # 329cb94d29714db1a8318aafe367d5d3
 #: ../../KTK.rst:1029
@@ -3752,7 +3751,7 @@ msgstr "Zakryte stwory pod twoim władaniem dostają +0/+1."
 # e183cad683294d9d97391fa722fdcc78
 #: ../../KTK.rst:1069
 msgid "Whenever a permanent you control is turned face up, draw a card."
-msgstr "Ilekroć permanent pod twoim władaniem zostanie odkryty, dobierz kartę."
+msgstr "Ilekroć byt pod twoim władaniem zostanie odkryty, dobierz kartę."
 
 #: ../../KTK.rst:1076
 msgid ""
@@ -3766,8 +3765,7 @@ msgstr ""
 msgid ""
 "Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, mill three "
 "cards."
-msgstr ""
-"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, zmiel trzy karty."
+msgstr "Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, zmiel trzy karty."
 
 #: ../../KTK.rst:1075
 msgid ""
@@ -3790,8 +3788,8 @@ msgid ""
 "When Siege Rhino enters the battlefield, each opponent loses 3 life and you "
 "gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 3 życia, a "
-"ty zyskaj 3 życia."
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po 3 życia, a ty "
+"zyskaj 3 życia."
 
 #: ../../KTK.rst:1088
 msgid ""
@@ -3887,7 +3885,7 @@ msgid ""
 "your library. Put one of them into your hand and the rest into your "
 "graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe w twoim "
 "cmentarzu."
 
@@ -3981,7 +3979,7 @@ msgstr ""
 # e1fc7ad1b65346f28e3d17aaa68620b4
 #: ../../KTK.rst:1147
 msgid "Exile target nonland permanent."
-msgstr "Wygnaj wskazany nielądowy permanent."
+msgstr "Wygnaj wskazany nielądowy byt."
 
 #: ../../KTK.rst:1152
 msgid ""
@@ -4013,7 +4011,7 @@ msgid ""
 "When Warden of the Eye enters the battlefield, return target noncreature, "
 "nonland card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę nie będącą "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę nie będącą "
 "stworem ani lądem z twojego cmentarza do twojej ręki."
 
 #: ../../KTK.rst:1164
@@ -4097,8 +4095,8 @@ msgid ""
 "Whenever another permanent enters the battlefield under your control, each "
 "opponent mills a card."
 msgstr ""
-"Ilekroć inny permanent wejdzie na pole bitwy pod twoim władaniem, każdy "
-"przeciwnik mieli kartę."
+"Ilekroć inny byt wejdzie na pole bitwy pod twoim władaniem, każdy przeciwnik "
+"mieli kartę."
 
 #: ../../KTK.rst:1190
 msgid ""
@@ -4351,7 +4349,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 6aee438aa87349108877a43956cb7d94
 #: ../../KTK.rst:1257
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1259
@@ -4389,7 +4387,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # ad31a86a0c334636aee0a615069cce39
 #: ../../KTK.rst:1269
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1271
@@ -4411,7 +4409,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # e1de3becc9c743ca8707b10f80fc6576
 #: ../../KTK.rst:1277
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1279
@@ -4461,7 +4459,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 32a10229e69c42268c2e98ca356a4fc2
 #: ../../KTK.rst:1295
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1297
@@ -4535,7 +4533,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # bfae6e27e7094952b99a40a1a256682d
 #: ../../KTK.rst:1325
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1327
@@ -4569,7 +4567,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 15c7a02bc8a64ccc93ca4cdf5b1b0805
 #: ../../KTK.rst:1339
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1341
@@ -4591,7 +4589,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # cf85e3dffacc432297868cc04c295e78
 #: ../../KTK.rst:1347
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1349
@@ -4613,7 +4611,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 4516f755067e49d29c62df5ceda5d634
 #: ../../KTK.rst:1355
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1357
@@ -4655,7 +4653,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 4d796bdcaec44b55874c269a24eb1e94
 #: ../../KTK.rst:1369
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1371
@@ -4677,7 +4675,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 # 80c306433ff64aa59708c5c58fc1f086
 #: ../../KTK.rst:1377
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1379

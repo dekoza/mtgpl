@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -391,8 +391,8 @@ msgid ""
 "When Conclave Phalanx enters the battlefield, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj po 1 życiu za każdego stwora "
-"pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 1 życiu za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../RAV.rst:64
 msgid ""
@@ -467,19 +467,19 @@ msgstr ""
 
 #: ../../RAV.rst:87 ../../RAV.rst:229
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../RAV.rst:89
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../RAV.rst:91
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated unless they're mana abilities."
 msgstr ""
-"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
-"zdolności nie mogą być aktywowane, chyba że dają manę."
+"Zauroczony byt nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../RAV.rst:98
 msgid ""
@@ -567,7 +567,7 @@ msgid ""
 "When Hunted Lammasu enters the battlefield, target opponent creates a 4/4 "
 "black Horror creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik tworzy żeton "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik tworzy żeton "
 "czarnego stwora Horror 4/4."
 
 #: ../../RAV.rst:128
@@ -887,7 +887,7 @@ msgstr ""
 
 #: ../../RAV.rst:233
 msgid "You control enchanted permanent."
-msgstr "Władasz zauroczonym permanentem."
+msgstr "Władasz zauroczonym bytem."
 
 #: ../../RAV.rst:242
 msgid ""
@@ -930,7 +930,7 @@ msgstr ""
 
 #: ../../RAV.rst:257
 msgid "When Flight of Fancy enters the battlefield, draw two cards."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../RAV.rst:259 ../../RAV.rst:1119
 msgid "Enchanted creature has flying."
@@ -988,7 +988,7 @@ msgid ""
 "number of cards that have mana value 9, reveal them, put them into your "
 "hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "dowolną liczbą kart mających skrót many 9, ujawnij je, umieść je w twojej "
 "ręce, po czym przetasuj."
 
@@ -1540,8 +1540,8 @@ msgid ""
 "When Keening Banshee enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"-2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury -2/"
+"-2."
 
 #: ../../RAV.rst:488
 msgid ""
@@ -1566,8 +1566,8 @@ msgid ""
 "When Mausoleum Turnkey enters the battlefield, return target creature card "
 "of an opponent's choice from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę stwora "
-"wybraną przez przeciwnika z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora wybraną "
+"przez przeciwnika z twojego cmentarza do twojej ręki."
 
 #: ../../RAV.rst:496
 msgid ""
@@ -1647,7 +1647,7 @@ msgid ""
 "When Netherborn Phalanx enters the battlefield, each opponent loses 1 life "
 "for each creature they control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu za "
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po 1 życiu za "
 "każdego stwora pod swoim władaniem."
 
 #: ../../RAV.rst:519
@@ -2285,7 +2285,7 @@ msgid ""
 "When Sparkmage Apprentice enters the battlefield, it deals 1 damage to any "
 "target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../RAV.rst:746
 msgid ""
@@ -2361,11 +2361,11 @@ msgid ""
 "then does the same for enchantment cards, then puts all cards revealed this "
 "way that weren't put onto the battlefield on the bottom of their library."
 msgstr ""
-"Każdy gracz wtasowuje wszystkie własne permanenty do swojej biblioteki, po "
-"czym ujawnia tyle samo kart z wierzchu swojej biblioteki. Każdy gracz "
-"umieszcza wszystkie karty artefaktów, stworów i lądów ujawnione w ten sposób "
-"na polu bitwy, po czym robi to samo z kartami uroków, po czym umieszcza "
-"pozostałe ujawnione w ten sposób karty na spodzie swojej biblioteki."
+"Każdy gracz wtasowuje wszystkie własne byty do swojej biblioteki, po czym "
+"ujawnia tyle samo kart z wierzchu swojej biblioteki. Każdy gracz umieszcza "
+"wszystkie karty artefaktów, stworów i lądów ujawnione w ten sposób na polu "
+"bitwy, po czym robi to samo z kartami uroków, po czym umieszcza pozostałe "
+"ujawnione w ten sposób karty na spodzie swojej biblioteki."
 
 #: ../../RAV.rst:772
 msgid ""
@@ -2426,7 +2426,7 @@ msgstr ""
 
 #: ../../RAV.rst:791
 msgid "When Carven Caryatid enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../RAV.rst:798
 msgid ""
@@ -2455,7 +2455,7 @@ msgid ""
 "When Civic Wayfinder enters the battlefield, you may search your library for "
 "a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../RAV.rst:808
@@ -2558,7 +2558,7 @@ msgid ""
 "When Fists of Ironwood enters the battlefield, create two 1/1 green "
 "Saproling creature tokens."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
 "Sadzonka 1/1."
 
 #: ../../RAV.rst:835
@@ -3176,7 +3176,7 @@ msgid ""
 "When Flame-Kin Zealot enters the battlefield, creatures you control get +1/"
 "+1 and gain haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem dostają do "
 "końca tury +1/+1 i pośpiech."
 
 #: ../../RAV.rst:1058
@@ -3276,7 +3276,7 @@ msgstr ""
 
 #: ../../RAV.rst:1089
 msgid "When Loxodon Hierarch enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../RAV.rst:1091
 msgid ""
@@ -3819,8 +3819,8 @@ msgid ""
 "Other permanents you control have hexproof. (They can't be the targets of "
 "spells or abilities your opponents control.)"
 msgstr ""
-"Inne permanenty pod twoim władaniem mają antyklątwę. (Nie mogą być "
-"wskazywane przez czary lub zdolności pod władaniem twoich przeciwników.)"
+"Inne byty pod twoim władaniem mają antyklątwę. (Nie mogą być wskazywane "
+"przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../RAV.rst:1308
 msgid ""
@@ -4197,7 +4197,7 @@ msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1441
@@ -4220,7 +4220,7 @@ msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1449
@@ -4259,7 +4259,7 @@ msgid ""
 "When Golgari Rot Farm enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1463
@@ -4320,7 +4320,7 @@ msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
 #: ../../RAV.rst:1483

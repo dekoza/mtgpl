@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rtr/pl/>\n"
 "Language: pl\n"
@@ -257,7 +257,7 @@ msgid ""
 "other target creatures from the battlefield and/or creature cards from "
 "graveyards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać co najwyżej trzy inne "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać co najwyżej trzy inne "
 "wskazane stwory z pola bitwy lub karty stworów z cmentarzy."
 
 #: ../../RTR.rst:13
@@ -323,7 +323,7 @@ msgid ""
 "opponent controls. (Until your next turn, that creature can't attack or "
 "block and its activated abilities can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, uwięź wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, uwięź wskazanego stwora pod władaniem "
 "przeciwnika. (Do twojej następnej tury ów stwór nie może atakować ani "
 "blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
@@ -340,7 +340,7 @@ msgid ""
 "creatures your opponents control. (Until your next turn, those creatures "
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, uwięź co najwyżej dwa wskazane stwory "
+"Kiedy ten byt wejdzie na pole bitwy, uwięź co najwyżej dwa wskazane stwory "
 "pod władaniem przeciwników. (Do twojej następnej tury owe stwory nie mogą "
 "atakować ani blokować, a ich aktywowane zdolności nie mogą być aktywowane.)"
 
@@ -430,7 +430,7 @@ msgid ""
 "When Knightly Valor enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
 "z czujnością. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../RTR.rst:69
@@ -466,7 +466,7 @@ msgid ""
 "All damage that would be dealt to you and other permanents you control is "
 "dealt to Palisade Giant instead."
 msgstr ""
-"Wszelkie obrażenia, jakie mogłyby zostać zadane innym permanentom pod twoim "
+"Wszelkie obrażenia, jakie mogłyby zostać zadane innym bytom pod twoim "
 "władaniem lub tobie, zamiast tego zostają zadane niniejszemu stworowi."
 
 #: ../../RTR.rst:82
@@ -507,8 +507,11 @@ msgid ""
 msgstr ""
 
 #: ../../RTR.rst:91
+#, fuzzy
 msgid "When Rest in Peace enters the battlefield, exile all graveyards."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, wygnaj wszystkie cmentarze."
+msgstr ""
+"Kiedy ten permanent wejdzie na pole bitwy, wygnaj wszystkie karty ze "
+"wszystkich cmentarzy."
 
 #: ../../RTR.rst:93
 msgid ""
@@ -550,7 +553,7 @@ msgid ""
 "When Security Blockade enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Rycerz 2/2 "
 "z czujnością."
 
 #: ../../RTR.rst:105
@@ -584,8 +587,8 @@ msgid ""
 "When Seller of Songbirds enters the battlefield, create a 1/1 white Bird "
 "creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Ptak 1/1 "
-"z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Ptak 1/1 z "
+"lataniem."
 
 #: ../../RTR.rst:120
 msgid ""
@@ -596,15 +599,15 @@ msgstr ""
 
 #: ../../RTR.rst:117
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz nie-lądowy permanent"
+msgstr "Zaurocz nie-lądowy byt"
 
 #: ../../RTR.rst:119
 msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
 "player sacrifices it unless they pay |mana_x|, where X is its mana value."
 msgstr ""
-"Na początku kroku utrzymania władcy zauroczonego permanentu, ów gracz "
-"poświęca go, chyba że zapłaci |mana_x|, gdzie X jest jego skrótem many."
+"Na początku kroku utrzymania władcy zauroczonego bytu, ów gracz poświęca go, "
+"chyba że zapłaci |mana_x|, gdzie X jest jego skrótem many."
 
 #: ../../RTR.rst:124
 msgid ""
@@ -745,8 +748,8 @@ msgid ""
 "Currency and target permanent you neither own nor control."
 msgstr ""
 "Na początku twojego kroku utrzymania możesz zamienić władanie nad tym "
-"urokiem na władanie nad wskazanym permanentem poza twoim władaniem i nie "
-"będącym twoją własnością."
+"urokiem na władanie nad wskazanym bytem poza twoim władaniem i nie będącym "
+"twoją własnością."
 
 #: ../../RTR.rst:168
 msgid ""
@@ -773,8 +776,7 @@ msgstr ""
 #: ../../RTR.rst:171
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
-"Przywróć wskazany nie-lądowy permanent poza twoim władaniem do ręki "
-"właściciela."
+"Przywróć wskazany nie-lądowy byt poza twoim władaniem do ręki właściciela."
 
 #: ../../RTR.rst:173
 msgid ""
@@ -850,8 +852,8 @@ msgid ""
 "When Faerie Impostor enters the battlefield, sacrifice it unless you return "
 "another creature you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że przywrócisz "
-"innego stwora pod twoim władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że przywrócisz innego "
+"stwora pod twoim władaniem do ręki właściciela."
 
 #: ../../RTR.rst:200
 msgid ""
@@ -909,7 +911,7 @@ msgid ""
 "opponent controls. (Until your next turn, that creature can't attack or "
 "block and its activated abilities can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, uwięź wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, uwięź wskazanego stwora pod władaniem "
 "przeciwnika. (Do twojej następnej tury ów stwór nie może atakować ani "
 "blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
@@ -1022,7 +1024,7 @@ msgid ""
 "When Search the City enters the battlefield, exile the top five cards of "
 "your library."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj pięć wierzchnich kart twojej "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj pięć wierzchnich kart twojej "
 "biblioteki."
 
 #: ../../RTR.rst:251
@@ -1065,7 +1067,7 @@ msgid ""
 "opponent controls. (Until your next turn, that creature can't attack or "
 "block and its activated abilities can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, uwięź wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, uwięź wskazanego stwora pod władaniem "
 "przeciwnika. (Do twojej następnej tury ów stwór nie może atakować ani "
 "blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
@@ -1133,8 +1135,8 @@ msgid ""
 "When Voidwielder enters the battlefield, you may return target creature to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazanego stwora "
-"do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazanego stwora do "
+"ręki właściciela."
 
 #: ../../RTR.rst:292
 msgid ""
@@ -1429,7 +1431,7 @@ msgstr ""
 #: ../../RTR.rst:393
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../RTR.rst:402
 msgid ""
@@ -1573,7 +1575,7 @@ msgstr ""
 msgid ""
 "When Batterhorn enters the battlefield, you may destroy target artifact."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
 
 #: ../../RTR.rst:450
 msgid ""
@@ -1926,7 +1928,7 @@ msgid ""
 "When Viashino Racketeer enters the battlefield, you may discard a card. If "
 "you do, draw a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz kartę."
 
 #: ../../RTR.rst:578
@@ -2092,7 +2094,7 @@ msgid ""
 "for a basic land card or a Gate card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu lub Bramy, ujawnij ją i umieść w twojej ręce, po czym "
 "przetasuj."
 
@@ -2357,7 +2359,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../RTR.rst:709
 msgid "Destroy target nonland permanent with mana value 3 or less."
-msgstr "Zniszcz wskazany nie-lądowy permanent o skrócie many 3 lub mniejszym."
+msgstr "Zniszcz wskazany nie-lądowy byt o skrócie many 3 lub mniejszym."
 
 #: ../../RTR.rst:716
 msgid ""
@@ -2373,10 +2375,10 @@ msgid ""
 "permanents your opponents control. (Until your next turn, those permanents "
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Ilekroć ten stwór zaatakuje, uwięź co najwyżej dwa wskazane nie-lądowe "
-"permanenty pod władaniem twoich przeciwników. (Do twojej następnej tury owe "
-"permanenty nie mogą atakować ani blokować, a ich aktywowane zdolności nie "
-"mogą być aktywowane.)"
+"Ilekroć ten stwór zaatakuje, uwięź co najwyżej dwa wskazane nie-lądowe byty "
+"pod władaniem twoich przeciwników. (Do twojej następnej tury owe byty nie "
+"mogą atakować ani blokować, a ich aktywowane zdolności nie mogą być "
+"aktywowane.)"
 
 #: ../../RTR.rst:722
 msgid ""
@@ -2390,8 +2392,8 @@ msgid ""
 "When Armada Wurm enters the battlefield, create a 5/5 green Wurm creature "
 "token with trample."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Żmij "
-"5/5 z tratowaniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Żmij 5/5 "
+"z tratowaniem."
 
 #: ../../RTR.rst:726
 msgid ""
@@ -2454,7 +2456,7 @@ msgstr ""
 
 #: ../../RTR.rst:749
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../RTR.rst:756
 msgid ""
@@ -2567,9 +2569,9 @@ msgid ""
 "permanent not named Detention Sphere and all other permanents with the same "
 "name as that permanent."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, możesz wygnać wskazany nie-lądowy "
-"permanent o innej nazwie niż Detention Sphere oraz wszystkie inne permanenty "
-"o takiej samej nazwie jak ów permanent."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać wskazany nie-lądowy byt o "
+"innej nazwie niż Detention Sphere oraz wszystkie inne byty o takiej samej "
+"nazwie jak ów byt."
 
 #: ../../RTR.rst:787
 msgid ""
@@ -2961,9 +2963,9 @@ msgid ""
 "an opponent controls. (Until your next turn, that permanent can't attack or "
 "block and its activated abilities can't be activated.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, uwięź wskazany nie-lądowy permanent "
-"pod władaniem przeciwnika. (Do twojej następnej tury ów permanent nie może "
-"atakować ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
+"Kiedy ten byt wejdzie na pole bitwy, uwięź wskazany nie-lądowy byt pod "
+"władaniem przeciwnika. (Do twojej następnej tury ów byt nie może atakować "
+"ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 #: ../../RTR.rst:932
 msgid ""
@@ -3001,9 +3003,9 @@ msgid ""
 "controls. (Until your next turn, that permanent can't attack or block and "
 "its activated abilities can't be activated.)"
 msgstr ""
-"|mana_3|\\ |mana_w|\\ |mana_u|: Uwięź wskazany nie-lądowy permanent pod "
-"władaniem przeciwnika. (Do twojej następnej tury ów permanent nie może "
-"atakować ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
+"|mana_3|\\ |mana_w|\\ |mana_u|: Uwięź wskazany nie-lądowy byt pod władaniem "
+"przeciwnika. (Do twojej następnej tury ów byt nie może atakować ani "
+"blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 #: ../../RTR.rst:944
 msgid ""
@@ -3440,7 +3442,7 @@ msgstr ""
 
 #: ../../RTR.rst:1097
 msgid "−3: Destroy target nonland permanent."
-msgstr "–3: Zniszcz wskazany nie-lądowy permanent."
+msgstr "–3: Zniszcz wskazany nie-lądowy byt."
 
 #: ../../RTR.rst:1099
 msgid ""
@@ -3804,8 +3806,8 @@ msgid ""
 "Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. "
 "If you do, discard a card."
 msgstr ""
-"Ilekroć ten permanent zada graczowi obrażenia bojowe, możesz dobrać kartę. "
-"Jeśli tak zrobisz, odrzuć kartę."
+"Ilekroć ten byt zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../RTR.rst:1220
 msgid ""
@@ -4122,7 +4124,7 @@ msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
 "pay |mana_1|."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
+"Kiedy ten byt wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
 
 #: ../../RTR.rst:1336
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-25 11:52+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/kld/pl/>\n"
 "Language: pl\n"
@@ -313,7 +313,7 @@ msgid ""
 "Fabricate 2 (When this creature enters the battlefield, put two +1/+1 "
 "counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
-"Produkcja 2 (Kiedy ten stwór wejdzie na pole bitwy, umieść na nim dwa "
+"Produkcja 2 (Kiedy ten byt wejdzie na pole bitwy, umieść na nim dwa "
 "znaczniki +1/+1 albo stwórz dwa żetony bezkolorowego artefaktowego stwora "
 "Serwo 1/1.)"
 
@@ -354,8 +354,8 @@ msgid ""
 "When Aviary Mechanic enters the battlefield, you may return another "
 "permanent you control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić inny permanent pod "
-"twoim władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić inny byt pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../KLD.rst:46
 msgid ""
@@ -415,9 +415,9 @@ msgid ""
 "artifact, a creature, an enchantment, and a planeswalker from among the "
 "nonland permanents they control, then sacrifices the rest."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz wybiera spośród nie-"
-"lądowych permanentów pod swoim władaniem artefakt, stwora, urok i wędrowca , "
-"po czym poświęca pozostałe."
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz wybiera spośród nie-"
+"lądowych bytów pod swoim władaniem artefakt, stwora, urok i wędrowca , po "
+"czym poświęca pozostałe."
 
 #: ../../KLD.rst:66
 msgid ""
@@ -431,7 +431,7 @@ msgid ""
 "When Consulate Surveillance enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy|\\ |energy| (four energy counters)."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy|"
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy|"
 "\\ |energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:65
@@ -454,7 +454,7 @@ msgid ""
 "When Consul's Shieldguard enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:71
@@ -477,7 +477,7 @@ msgid ""
 "When Eddytrail Hawk enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:79
@@ -500,8 +500,8 @@ msgid ""
 "When Fairgrounds Warden enters the battlefield, exile target creature an "
 "opponent controls until Fairgrounds Warden leaves the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj wskazanego stwora pod "
-"władaniem przeciwnika dopóki niniejszy stwór nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki niniejszy stwór nie opuści pola bitwy."
 
 #: ../../KLD.rst:88
 msgid ""
@@ -560,8 +560,8 @@ msgid ""
 "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter "
 "on it or create a 1/1 colorless Servo artifact creature token.)"
 msgstr ""
-"Produkcja 1 (Kiedy ten stwór wejdzie na pole bitwy, umieść na nim znacznik "
-"+1/+1 albo stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1.)"
+"Produkcja 1 (Kiedy ten byt wejdzie na pole bitwy, umieść na nim znacznik +1/+"
+"1 albo stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1.)"
 
 #: ../../KLD.rst:106
 msgid ""
@@ -575,7 +575,7 @@ msgid ""
 "When Herald of the Fair enters the battlefield, target creature you control "
 "gets +1/+1 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
 "dostaje do końca tury +1/+1."
 
 #: ../../KLD.rst:110
@@ -732,7 +732,7 @@ msgid ""
 "When Thriving Ibex enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:167
@@ -791,9 +791,9 @@ msgid ""
 "creature you control, then return that card to the battlefield under its "
 "owner's control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wygnać innego wskazanego "
-"stwora pod twoim władaniem, po czym przywróć ową kartę na pole bitwy pod "
-"władaniem właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać innego wskazanego stwora "
+"pod twoim władaniem, po czym przywróć ową kartę na pole bitwy pod władaniem "
+"właściciela."
 
 #: ../../KLD.rst:198
 msgid ""
@@ -815,7 +815,7 @@ msgid ""
 "When Aether Meltdown enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:197
@@ -834,8 +834,8 @@ msgid ""
 "When Aether Theorist enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
-"energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
+"(trzy znaczniki energii)."
 
 #: ../../KLD.rst:203
 msgid ""
@@ -857,8 +857,8 @@ msgid ""
 "Return target permanent you control and target permanent you don't control "
 "to their owners' hands."
 msgstr ""
-"Przywróć wskazany permanent pod twoim władaniem oraz wskazany permanent poza "
-"twoim władaniem do rąk właścicieli."
+"Przywróć wskazany byt pod twoim władaniem oraz wskazany byt poza twoim "
+"władaniem do rąk właścicieli."
 
 #: ../../KLD.rst:216
 msgid ""
@@ -909,10 +909,9 @@ msgid ""
 "|energy| (four energy counters), then you may pay an amount of |energy| "
 "equal to that permanent's mana value. If you do, gain control of it."
 msgstr ""
-"Wskaż artefakt lub stwora. Przyjmij |energy|\\ |energy|\\ |energy|\\ |"
-"energy| (cztery znaczniki energii), po czym możesz zapłacić tyle |energy|, "
-"ile wynosi skrót many owego permanentu. Jeśli tak zrobisz, zyskaj władanie "
-"nad nim."
+"Wskaż artefakt lub stwora. Przyjmij |energy|\\ |energy|\\ |energy|\\ |energy|"
+" (cztery znaczniki energii), po czym możesz zapłacić tyle |energy|, ile "
+"wynosi skrót many owego bytu. Jeśli tak zrobisz, zyskaj władanie nad nim."
 
 #: ../../KLD.rst:226
 msgid ""
@@ -933,8 +932,8 @@ msgid ""
 "As an additional cost to cast this spell, return a permanent you control to "
 "its owner's hand."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru — przywróć permanent pod twoim "
-"władaniem do ręki właściciela."
+"Jako dodatkowy koszt rzucenia tego czaru — przywróć byt pod twoim władaniem "
+"do ręki właściciela."
 
 #: ../../KLD.rst:233 ../../KLD.rst:283
 msgid "Counter target spell."
@@ -949,7 +948,7 @@ msgstr ""
 
 #: ../../KLD.rst:237
 msgid "Untap all nonland permanents you control."
-msgstr "Odkręć wszystkie nie-lądowe permanenty pod twoim władaniem."
+msgstr "Odkręć wszystkie nie-lądowe byty pod twoim władaniem."
 
 #: ../../KLD.rst:244
 msgid ""
@@ -988,7 +987,7 @@ msgid ""
 "When Experimental Aviator enters the battlefield, create two 1/1 colorless "
 "Thopter artifact creature tokens with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
 "artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../KLD.rst:254
@@ -1047,7 +1046,7 @@ msgid ""
 "your library. You may reveal an artifact card from among them and put it "
 "into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz ujawnić spośród nich kartę artefaktu i umieścić ją "
 "w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
@@ -1068,8 +1067,8 @@ msgid ""
 "When Hightide Hermit enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy|\\ |energy| (four energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj |energy|\\ |energy|\\ |energy|"
-"\\ |energy| (cztery znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj |energy|\\ |energy|\\ |energy|\\ "
+"|energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:277
 msgid ""
@@ -1114,7 +1113,7 @@ msgid ""
 "When Janjeet Sentry enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:293
@@ -1149,12 +1148,11 @@ msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../KLD.rst:305
 msgid "When Malfunction enters the battlefield, tap enchanted permanent."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczony permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczony byt."
 
 #: ../../KLD.rst:307
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
-msgstr ""
-"Zauroczony permanent nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Zauroczony byt nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../KLD.rst:314
 msgid ""
@@ -1193,7 +1191,7 @@ msgid ""
 "When Minister of Inquiries enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:319
@@ -1209,7 +1207,7 @@ msgstr ""
 
 #: ../../KLD.rst:323
 msgid "When Nimble Innovator enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KLD.rst:330
 msgid ""
@@ -1244,9 +1242,9 @@ msgid ""
 "their owners' hands. Draw a card for each card returned to your hand this "
 "way."
 msgstr ""
-"Przywróć dowolną liczbę wskazanych nie-lądowych nieżetonowych permanentów do "
-"rąk ich właścicieli. Dobierz kartę za każdy z nich przywrócony do twojej "
-"ręki w ten sposób."
+"Przywróć dowolną liczbę wskazanych nie-lądowych nieżetonowych bytów do rąk "
+"ich właścicieli. Dobierz kartę za każdy z nich przywrócony do twojej ręki w "
+"ten sposób."
 
 #: ../../KLD.rst:338
 msgid ""
@@ -1337,7 +1335,7 @@ msgid ""
 "When Thriving Turtle enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:363
@@ -1365,9 +1363,9 @@ msgid ""
 "card from your graveyard without paying its mana cost. If that spell would "
 "be put into your graveyard this turn, exile it instead."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
-"z twojego cmentarza bez płacenia jej kosztu many. Jeśli ów czar miałby "
-"zostać umieszczony w cmentarzu w tej turze, wygnaj go."
+"Kiedy ten byt wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki z "
+"twojego cmentarza bez płacenia jej kosztu many. Jeśli ów czar miałby zostać "
+"umieszczony w cmentarzu w tej turze, wygnaj go."
 
 #: ../../KLD.rst:374
 msgid ""
@@ -1422,8 +1420,8 @@ msgid ""
 "When Aetherborn Marauder enters the battlefield, move any number of +1/+1 "
 "counters from other permanents you control onto Aetherborn Marauder."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przenieś dowolną liczbę znaczników +1/"
-"+1 z innych permanentów pod twoim władaniem na tego stwora."
+"Kiedy ten byt wejdzie na pole bitwy, przenieś dowolną liczbę znaczników +1/+"
+"1 z innych bytów pod twoim władaniem na tego stwora."
 
 #: ../../KLD.rst:392
 msgid ""
@@ -1444,8 +1442,8 @@ msgid ""
 "When Demon of Dark Schemes enters the battlefield, all other creatures get "
 "-2/-2 until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wszystkie inne stwory dostają do "
-"końca tury -2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, wszystkie inne stwory dostają do końca "
+"tury -2/-2."
 
 #: ../../KLD.rst:399
 msgid "Whenever another creature dies, you get |energy| (an energy counter)."
@@ -1517,7 +1515,7 @@ msgid ""
 "When Dukhara Scavenger enters the battlefield, you may put target artifact "
 "or creature card from your graveyard on top of your library."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić wskazaną kartę "
 "artefaktu lub stwora z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../KLD.rst:424
@@ -1627,7 +1625,7 @@ msgid ""
 "and cast that card for as long as it remains exiled, and you may spend mana "
 "as though it were mana of any type to cast that spell."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "biblioteki wskazanego przeciwnika, wygnaj jedną z nich zakrytą, po czym "
 "umieść pozostałe losowo na spodzie owej biblioteki. Przez czas jej wygnania "
 "możesz patrzeć na ową kartę oraz rzucić ją wydając manę tak, jakby była maną "
@@ -1719,7 +1717,7 @@ msgid ""
 "Fabricate 3 (When this creature enters the battlefield, put three +1/+1 "
 "counters on it or create three 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
-"Produkcja 3 (Kiedy ten stwór wejdzie na pole bitwy, umieść na nim trzy "
+"Produkcja 3 (Kiedy ten byt wejdzie na pole bitwy, umieść na nim trzy "
 "znaczniki +1/+1 albo stwórz trzy żetony bezkolorowego artefaktowego stwora "
 "Serwo 1/1.)"
 
@@ -1798,7 +1796,7 @@ msgstr ""
 
 #: ../../KLD.rst:511
 msgid "Draw cards equal to the mana value of the sacrificed permanent."
-msgstr "Dobierz tyle kart, ile wynosił skrót many poświęconego permanentu."
+msgstr "Dobierz tyle kart, ile wynosił skrót many poświęconego bytu."
 
 #: ../../KLD.rst:516
 msgid ""
@@ -1828,7 +1826,7 @@ msgid ""
 "creature. If a creature is destroyed this way, you gain life equal to its "
 "toughness."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora. "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora. "
 "Jeśli stwór zostanie zniszczony w ten sposób, zyskaj tyle żyć, ile wynosiła "
 "jego wytrzymałość."
 
@@ -1915,7 +1913,7 @@ msgid ""
 "When Thriving Rats enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:551
@@ -1982,8 +1980,8 @@ msgid ""
 "When Aethertorch Renegade enters the battlefield, you get |energy|\\ |energy|"
 "\\ |energy|\\ |energy| (four energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
-"energy|\\ |energy| (cztery znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy|"
+"\\ |energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:571
 msgid ""
@@ -2107,7 +2105,7 @@ msgid ""
 "Combustible Gearhulk deals damage to that player equal to the total mana "
 "value of those cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik może sprawić, że "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik może sprawić, że "
 "dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, zmiel trzy karty, po "
 "czym ten stwór zadaje owemu graczowi tyle obrażeń, ile wynosi suma skrótów "
 "many owych kart."
@@ -2231,7 +2229,7 @@ msgid ""
 "When Lathnu Hellion enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:651
@@ -2273,7 +2271,7 @@ msgid ""
 "When Maulfist Doorbuster enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:661
@@ -2296,7 +2294,7 @@ msgid ""
 "When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../KLD.rst:667
@@ -2455,7 +2453,7 @@ msgid ""
 "When Spontaneous Artist enters the battlefield, you get |energy| (an energy "
 "counter)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy| (znacznik energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:721
 msgid "Pay |energy|: Target creature gains haste until end of turn."
@@ -2516,7 +2514,7 @@ msgid ""
 "When Thriving Grubs enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:741
@@ -2570,7 +2568,7 @@ msgstr ""
 
 #: ../../KLD.rst:759
 msgid "When Arborback Stomper enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 5 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../KLD.rst:766
 msgid ""
@@ -2609,7 +2607,7 @@ msgid ""
 "When Armorcraft Judge enters the battlefield, draw a card for each creature "
 "you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę za każdego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę za każdego stwora pod "
 "twoim władaniem mającego znacznik +1/+1."
 
 #: ../../KLD.rst:774
@@ -2653,8 +2651,8 @@ msgid ""
 "When Bristling Hydra enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
-"energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
+"(trzy znaczniki energii)."
 
 #: ../../KLD.rst:783
 msgid ""
@@ -2836,7 +2834,7 @@ msgid ""
 "When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../KLD.rst:844
@@ -2902,8 +2900,7 @@ msgstr ""
 
 #: ../../KLD.rst:859
 msgid "−3: Return target permanent card from your graveyard to your hand."
-msgstr ""
-"–3: Przywróć wskazaną kartę permanentu z twojego cmentarza do twojej ręki."
+msgstr "–3: Przywróć wskazaną kartę bytu z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:861
 msgid ""
@@ -2967,7 +2964,7 @@ msgid ""
 "When Riparian Tiger enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:885
@@ -2990,8 +2987,8 @@ msgid ""
 "When Sage of Shaila's Claim enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
-"energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
+"(trzy znaczniki energii)."
 
 #: ../../KLD.rst:896
 msgid ""
@@ -3005,7 +3002,7 @@ msgid ""
 "When Servant of the Conduit enters the battlefield, you get |energy|\\ |"
 "energy| (two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:895 ../../KLD.rst:1315
@@ -3039,7 +3036,7 @@ msgid ""
 "When Thriving Rhino enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:909
@@ -3062,7 +3059,7 @@ msgid ""
 "When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 "
 "counters among any number of target creatures you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, rozmieść cztery znaczniki +1/+1 "
+"Kiedy ten byt wejdzie na pole bitwy, rozmieść cztery znaczniki +1/+1 "
 "pomiędzy dowolną liczbę wskazanych stworów pod twoim władaniem."
 
 #: ../../KLD.rst:920
@@ -3077,7 +3074,7 @@ msgid ""
 "When Wild Wanderer enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../KLD.rst:924
@@ -3120,7 +3117,7 @@ msgstr ""
 msgid ""
 "When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia i dobierz dwie karty."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia i dobierz dwie karty."
 
 #: ../../KLD.rst:940
 msgid ""
@@ -3189,7 +3186,7 @@ msgid ""
 "permanents during their untap steps.\""
 msgstr ""
 "–7: Dostajesz emblemat mający \"Twoi przeciwnicy nie mogą odkręcić więcej "
-"niż dwóch permanentów podczas swoich kroków odkręcania.\""
+"niż dwóch bytów podczas swoich kroków odkręcania.\""
 
 #: ../../KLD.rst:962
 msgid ""
@@ -3283,7 +3280,7 @@ msgid ""
 "When Restoration Gearsmith enters the battlefield, return target artifact or "
 "creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu lub "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu lub "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:994
@@ -3340,7 +3337,7 @@ msgstr ""
 
 #: ../../KLD.rst:1001
 msgid "When Veteran Motorist enters the battlefield, scry 2."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, wróż 2."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 2."
 
 #: ../../KLD.rst:1003
 msgid ""
@@ -3361,7 +3358,7 @@ msgid ""
 "When Voltaic Brawler enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:1009
@@ -3384,8 +3381,8 @@ msgid ""
 "When Whirler Virtuoso enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
-"energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
+"(trzy znaczniki energii)."
 
 #: ../../KLD.rst:1015
 msgid ""
@@ -3432,8 +3429,8 @@ msgid ""
 "Whenever a permanent you control is put into a graveyard, you get |energy| "
 "(an energy counter)."
 msgstr ""
-"Ilekroć permanent pod twoim władaniem zostanie umieszczony w cmentarzu, "
-"przyjmij |energy| (znacznik energii)."
+"Ilekroć byt pod twoim władaniem zostanie umieszczony w cmentarzu, przyjmij "
+"|energy| (znacznik energii)."
 
 #: ../../KLD.rst:1031
 msgid ""
@@ -3526,7 +3523,7 @@ msgstr ""
 
 #: ../../KLD.rst:1057
 msgid "When Bomat Bazaar Barge enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KLD.rst:1068
 msgid ""
@@ -3574,7 +3571,7 @@ msgid ""
 "When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless "
 "Servo artifact creature token."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Serwo 1/1."
 
 #: ../../KLD.rst:1077
@@ -3619,7 +3616,7 @@ msgid ""
 "When Deadlock Trap enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
 #: ../../KLD.rst:1097
@@ -3718,7 +3715,7 @@ msgid ""
 "scry 1, look at the top card of your library, then you may put that card on "
 "the bottom of your library.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz może wróżyć 1. (By wróżyć "
 "1, spójrz na wierzchnią kartę twojej biblioteki, po czym możesz umieścić ową "
 "kartę na spodzie twojej biblioteki.)"
 
@@ -3734,8 +3731,8 @@ msgid ""
 "When Electrostatic Pummeler enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\|"
-"energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\|energy| ("
+"trzy znaczniki energii)."
 
 #: ../../KLD.rst:1129
 msgid ""
@@ -3773,7 +3770,7 @@ msgstr ""
 
 #: ../../KLD.rst:1139
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../KLD.rst:1141
 msgid "When Filigree Familiar dies, draw a card."
@@ -3791,8 +3788,7 @@ msgid ""
 "When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to "
 "any target."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, zadaje on wskazanemu celowi 1 "
-"obrażenie."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu celowi 1 obrażenie."
 
 #: ../../KLD.rst:1147
 msgid ""
@@ -3818,8 +3814,8 @@ msgid ""
 "When Fleetwheel Cruiser enters the battlefield, it becomes an artifact "
 "creature until end of turn."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, do końca tury staje się "
-"artefaktowym stworem."
+"Kiedy ten byt wejdzie na pole bitwy, do końca tury staje się artefaktowym "
+"stworem."
 
 #: ../../KLD.rst:1155 ../../KLD.rst:1247
 msgid ""
@@ -3874,8 +3870,8 @@ msgid ""
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, wróż 2, po czym przyjmij |energy|"
-"\\ |energy|. (Dostajesz dwa znaczniki energii. By wróżyć 2, spójrz na dwie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2, po czym przyjmij |energy|\\ "
+"|energy|. (Dostajesz dwa znaczniki energii. By wróżyć 2, spójrz na dwie "
 "wierzchnie karty twojej biblioteki, po czym umieść dowolną ich liczbę na "
 "spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
@@ -3956,8 +3952,7 @@ msgstr ""
 msgid ""
 "When Metalspinner's Puzzleknot enters the battlefield, you draw a card and "
 "you lose 1 life."
-msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../KLD.rst:1197
 msgid ""
@@ -4000,8 +3995,8 @@ msgid ""
 "When Multiform Wonder enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |"
-"energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
+"(trzy znaczniki energii)."
 
 #: ../../KLD.rst:1209
 msgid ""
@@ -4059,7 +4054,7 @@ msgid ""
 "additional time."
 msgstr ""
 "Jeśli wejście na pole bitwy artefaktu lub stwora wyzwoli zdolność wyzwalaną "
-"permanentu pod twoim władaniem, owa zdolność jest wyzwalana dodatkowy raz."
+"bytu pod twoim władaniem, owa zdolność jest wyzwalana dodatkowy raz."
 
 #: ../../KLD.rst:1232
 msgid ""
@@ -4104,7 +4099,7 @@ msgstr ""
 
 #: ../../KLD.rst:1239
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr "Kiedy ten artefakt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../KLD.rst:1241
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -4156,7 +4151,7 @@ msgid ""
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę stwora typu Składacz, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
@@ -4258,8 +4253,8 @@ msgid ""
 "When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get "
 "|energy|\\ |energy|\\ |energy| (three energy counters)."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, zyskaj 3 życia i przyjmij |energy|"
-"\\ |energy|\\ |energy| (trzy znaczniki energii)."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia i przyjmij |energy|\\ "
+"|energy|\\ |energy| (trzy znaczniki energii)."
 
 #: ../../KLD.rst:1303
 msgid ""
@@ -4295,7 +4290,7 @@ msgstr ""
 msgid ""
 "When Aether Hub enters the battlefield, you get |energy| (an energy counter)."
 msgstr ""
-"Kiedy ten ląd wejdzie na pole bitwy, przyjmij |energy| (znacznik energii)."
+"Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy| (znacznik energii)."
 
 #: ../../KLD.rst:1313 ../../KLD.rst:1345 ../../KLD.rst:1351
 msgid "|tap|: Add |colorless|."

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 06:56+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -480,9 +480,9 @@ msgid ""
 "permanent you don't control. Exile each permanent with the most votes or "
 "tied for most votes."
 msgstr ""
-"Wola rady — Zaczynając od ciebie, każdy gracz głosuje na nielądowy permanent "
-"poza twoim władaniem. Wygnaj każdy permanent mający najwięcej głosów lub "
-"równą ich liczbą."
+"Wola rady — Zaczynając od ciebie, każdy gracz głosuje na nielądowy byt poza "
+"twoim władaniem. Wygnaj każdy byt mający najwięcej głosów lub równą ich "
+"liczbą."
 
 #: ../../CNS.rst:102
 msgid ""
@@ -881,8 +881,8 @@ msgid ""
 "the battlefield under their owner's control."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj dowolną liczbę "
-"wskazanych nielądowych permanentów pod twoim władaniem, po czym przywróć owe "
-"karty na pole bitwy pod władaniem ich właścicieli."
+"wskazanych nielądowych bytów pod twoim władaniem, po czym przywróć owe karty "
+"na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../CNS.rst:232
 msgid ""
@@ -905,7 +905,7 @@ msgid ""
 "more permanents, gain control of those permanents.\""
 msgstr ""
 "–6: Dostajesz emblemat mający \"Ilekroć rzucisz czar wskazujący jeden lub "
-"więcej permanentów, zyskaj władanie nad owymi permanentami.\""
+"więcej bytów, zyskaj władanie nad owymi bytami.\""
 
 #: ../../CNS.rst:236
 msgid ""
@@ -1402,9 +1402,9 @@ msgid ""
 "permanent. Return that card to the battlefield under its owner's control at "
 "the beginning of the next end step."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wygnaj inny wskazany permanent. "
-"Przywróć ową kartę na pole bitwy pod władaniem właściciela na początku "
-"najbliższego kroku końcowego."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj inny wskazany byt. Przywróć ową "
+"kartę na pole bitwy pod władaniem właściciela na początku najbliższego kroku "
+"końcowego."
 
 #: ../../CNS.rst:402
 msgid ""
@@ -1688,8 +1688,8 @@ msgid ""
 "Return target permanent you control and target permanent you don't control "
 "to their owners' hands."
 msgstr ""
-"Przywróć wskazany permanent pod twoim władaniem oraz wskazany permanent poza "
-"twoim władaniem do rąk właścicieli."
+"Przywróć wskazany byt pod twoim władaniem oraz wskazany byt poza twoim "
+"władaniem do rąk właścicieli."
 
 #: ../../CNS.rst:502
 msgid ""
@@ -1759,7 +1759,7 @@ msgid ""
 "When Crookclaw Transmuter enters the battlefield, switch target creature's "
 "power and toughness until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zamień do końca tury siłę z "
+"Kiedy ten byt wejdzie na pole bitwy, zamień do końca tury siłę z "
 "wytrzymałością wskazanego stwora."
 
 #: ../../CNS.rst:528
@@ -1923,7 +1923,7 @@ msgid ""
 "for a card named Screaming Seahawk, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę o nazwie Screaming Seahawk, ujawnić ją, umieścić ją w twojej ręce, po "
 "czym przetasować."
 
@@ -2075,7 +2075,7 @@ msgstr ""
 #: ../../CNS.rst:641
 msgid ""
 "When Liliana's Specter enters the battlefield, each opponent discards a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../CNS.rst:646
 msgid ""
@@ -2102,7 +2102,7 @@ msgid ""
 "Morbid — When Morkrut Banshee enters the battlefield, if a creature died "
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../CNS.rst:656
@@ -2130,7 +2130,7 @@ msgid ""
 "When Phage the Untouchable enters the battlefield, if you didn't cast it "
 "from your hand, you lose the game."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli nie rzuciłeś go ze swojej ręki, "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli nie rzuciłeś go ze swojej ręki, "
 "przegrywasz grę."
 
 #: ../../CNS.rst:661
@@ -2332,8 +2332,7 @@ msgstr ""
 
 #: ../../CNS.rst:725
 msgid "Sacrifice Vampire Hexmage: Remove all counters from target permanent."
-msgstr ""
-"Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego permanentu."
+msgstr "Poświęć tego stwora: Usuń wszystkie znaczniki ze wskazanego bytu."
 
 #: ../../CNS.rst:730
 msgid ""
@@ -2362,7 +2361,7 @@ msgid ""
 "Morbid — When Wakedancer enters the battlefield, if a creature died this "
 "turn, create a 2/2 black Zombie creature token."
 msgstr ""
-"Okropność — Kiedy ten stwór wejdzie na pole bitwy, jeśli w tej turze umarł "
+"Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
 "stwór, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../CNS.rst:736
@@ -2835,9 +2834,9 @@ msgid ""
 "to three cards named Howling Wolf, reveal them, put them into your hand, "
 "then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"co najwyżej trzy karty o nazwie Howling Wolf, ujawnić je, umieścić je w "
-"twojej ręce, następnie przetasować."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece co "
+"najwyżej trzy karty o nazwie Howling Wolf, ujawnić je, umieścić je w twojej "
+"ręce, następnie przetasować."
 
 #: ../../CNS.rst:914
 msgid ""
@@ -2908,7 +2907,7 @@ msgstr ""
 
 #: ../../CNS.rst:931
 msgid "When Pelakka Wurm enters the battlefield, you gain 7 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 7 żyć."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 7 żyć."
 
 #: ../../CNS.rst:933
 msgid "When Pelakka Wurm dies, draw a card."
@@ -3023,9 +3022,9 @@ msgid ""
 "noncreature permanents. For each permanent put into a graveyard this way, "
 "its controller creates a 3/3 green Elephant creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
-"wskazane nie-stworowe peranenty. Za każdy permanent umieszczony w cmentarzu "
-"w ten sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć co najwyżej trzy "
+"wskazane nie-stworowe peranenty. Za każdy byt umieszczony w cmentarzu w ten "
+"sposób, jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../CNS.rst:980
 msgid ""
@@ -3342,7 +3341,7 @@ msgstr ""
 
 #: ../../CNS.rst:1081
 msgid "When Peace Strider enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../CNS.rst:1086
 msgid ""

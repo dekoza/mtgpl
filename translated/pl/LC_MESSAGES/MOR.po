@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-24 12:20+0000\n"
+"PO-Revision-Date: 2022-03-28 09:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mor/pl/>\n"
 "Language: pl\n"
@@ -712,7 +712,7 @@ msgstr ""
 
 #: ../../MOR.rst:167
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Przywróć wskazany nie-lądowy permanent do ręki właściciela."
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
 #: ../../MOR.rst:172
 msgid ""
@@ -726,8 +726,8 @@ msgid ""
 "Choose a creature type. Draw a card for each permanent you control of that "
 "type."
 msgstr ""
-"Wybierz typ stwora. Dobierz kartę za każdy permanent pod twoim władaniem "
-"mający ów typ."
+"Wybierz typ stwora. Dobierz kartę za każdy byt pod twoim władaniem mający ów "
+"typ."
 
 #: ../../MOR.rst:178
 msgid ""
@@ -1092,7 +1092,7 @@ msgid ""
 "You may choose a nonland card from it. If you do, that player reveals the "
 "chosen card, puts it on the bottom of their library, then draws a card."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego gracza. "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na rękę wskazanego gracza. "
 "Możesz wybrać z niej nielądową kartę. Jeśli tak zrobisz, ów gracz ujawnia "
 "ową kartę, umieszcza ją na spodzie swojej biblioteki, po czym dobiera kartę."
 
@@ -1731,7 +1731,7 @@ msgid ""
 "When Rage Forger enters the battlefield, put a +1/+1 counter on each other "
 "Shaman creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
 "Szamanie pod twoim władaniem."
 
 #: ../../MOR.rst:527
@@ -1974,7 +1974,7 @@ msgid ""
 "When Ambassador Oak enters the battlefield, create a 1/1 green Elf Warrior "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton zielonego stwora Elf "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Elf "
 "Wojownik 1/1."
 
 #: ../../MOR.rst:608

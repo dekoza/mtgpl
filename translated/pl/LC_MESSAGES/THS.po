@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-26 19:42+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ths/pl/>\n"
 "Language: pl\n"
@@ -361,7 +361,7 @@ msgid ""
 "opponent controls until Chained to the Rocks leaves the battlefield. (That "
 "creature returns under its owner's control.)"
 msgstr ""
-"Kiedy ten urok wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
 "przeciwnika dopóki ten urok nie opuści pola bitwy. (Ów stwór wraca pod "
 "władanie swojego właściciela.)"
 
@@ -411,7 +411,7 @@ msgstr "Zaurocz stwora"
 # 4ec7b63c24b948f28b9a7208d9279816
 #: ../../THS.rst:35
 msgid "When Chosen by Heliod enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 836790c508bb4f7cbedaf570990fb7f2
 # 7fd0e2d0d42e41af94dd21521c2f8e55
@@ -519,9 +519,9 @@ msgid ""
 "the mana costs of permanents you control counts toward your devotion to "
 "white.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów białego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów białego stwora "
 "Piechur 1/1, ile wynosi twój kult białego. (Każda |mana_w| w kosztach many "
-"permanentów pod twoim władaniem wlicza się do twojego kultu białego.)"
+"bytów pod twoim władaniem wlicza się do twojego kultu białego.)"
 
 #: ../../THS.rst:74
 msgid ""
@@ -595,7 +595,7 @@ msgstr ""
 # 80c52a09f38640db914f732667287565
 #: ../../THS.rst:87
 msgid "Exile target white permanent."
-msgstr "Wygnaj wskazany biały permanent."
+msgstr "Wygnaj wskazany biały byt."
 
 #: ../../THS.rst:94
 msgid ""
@@ -650,9 +650,9 @@ msgid ""
 "creature. (Each |mana_w| in the mana costs of permanents you control counts "
 "toward your devotion to white.)"
 msgstr ""
-"O ile twój kult białego jest mniejszy niż pięć, ta karta nie jest stworem. "
-"(Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się "
-"do twojego kultu białego.)"
+"O ile twój kult białego jest mniejszy niż pięć, ta karta nie jest stworem. ("
+"Każda |mana_w| w kosztach many bytów pod twoim władaniem wlicza się do "
+"twojego kultu białego.)"
 
 # 2d76ba454cd840c293d1e9c33ec2dd40
 # 2af1a23ba7c04359b3f50c22ccdf47aa
@@ -793,7 +793,7 @@ msgid ""
 "When Lagonna-Band Elder enters the battlefield, if you control an "
 "enchantment, you gain 3 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli władasz urokiem, zyskaj 3 życia."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz urokiem, zyskaj 3 życia."
 
 #: ../../THS.rst:136
 msgid ""
@@ -823,7 +823,7 @@ msgstr ""
 msgid ""
 "When Leonin Snarecaster enters the battlefield, you may tap target creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przekręcić wskazanego stwora."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przekręcić wskazanego stwora."
 
 #: ../../THS.rst:148
 msgid ""
@@ -1172,7 +1172,7 @@ msgid ""
 "When Breaching Hippocamp enters the battlefield, untap another target "
 "creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, odkręć innego wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, odkręć innego wskazanego stwora pod "
 "twoim władaniem."
 
 #: ../../THS.rst:250
@@ -1253,7 +1253,7 @@ msgstr ""
 # fcff03c224df40ccaef92d51823645a5
 #: ../../THS.rst:267
 msgid "When Fate Foretold enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 0721603d8fef4c438461b51a7c9d9d0a
 # c5de2d4c79224b6292c296b7e07e76a4
@@ -1302,7 +1302,7 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1352,10 +1352,9 @@ msgid ""
 "the mana costs of permanents you control counts toward your devotion to "
 "blue.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów niebieskiego "
-"stwora Żywiołak 1/0, ile wynosi twój kult niebieskiego. (Każda |mana_u| w "
-"kosztach many permanentów, którymi władasz wlicza się do twojego kultu "
-"niebieskiego.)"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów niebieskiego stwora "
+"Żywiołak 1/0, ile wynosi twój kult niebieskiego. (Każda |mana_u| w kosztach "
+"many bytów, którymi władasz wlicza się do twojego kultu niebieskiego.)"
 
 #: ../../THS.rst:300
 msgid ""
@@ -1400,7 +1399,7 @@ msgid ""
 "When Mnemonic Wall enters the battlefield, you may return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../THS.rst:314
@@ -1443,7 +1442,7 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
 "karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
@@ -1641,8 +1640,8 @@ msgid ""
 "your devotion to blue.)"
 msgstr ""
 "O ile twój kult niebieskiego jest mniejszy niż pięć, ta karta nie jest "
-"stworem. (Każda |mana_u| w kosztach many permanentów pod twoim władaniem "
-"wlicza się do twojego kultu niebieskiego.)"
+"stworem. (Każda |mana_u| w kosztach many bytów pod twoim władaniem wlicza "
+"się do twojego kultu niebieskiego.)"
 
 # e7948d64b2d047ddb351e0aeb689c483
 # cc9014a1800a432ea1293ee77b6bb7f8
@@ -1810,10 +1809,9 @@ msgid ""
 "mana_b| in the mana costs of permanents you control counts toward your "
 "devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz tyle żetonów czarnego stwora "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów czarnego stwora "
 "Harpia 1/1 z lataniem, ile wynosi twój kult czarnego. (Każda |mana_b| w "
-"kosztach many permanentów, którymi władasz wlicza się do twojego kultu "
-"czarnego.)"
+"kosztach many bytów, którymi władasz wlicza się do twojego kultu czarnego.)"
 
 # 1647ae0eb32842e59e0145e4473fb55e
 # 037a941063374f6b81e63346b65b36ff
@@ -1909,7 +1907,7 @@ msgstr ""
 # 668a74fb2ced4f489d48e9ca78043d7a
 #: ../../THS.rst:445
 msgid "When Blood-Toll Harpy enters the battlefield, each player loses 1 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz traci po 1 życiu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz traci po 1 życiu."
 
 #: ../../THS.rst:450
 msgid ""
@@ -2009,8 +2007,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór na pole bitwy, wskazany gracz ujawnia tyle kart ze swojej "
 "ręki, ile wynosi twój kult czarnego. Wybierz jedną z nich. Ów gracz odrzuca "
-"ową kartę. (Każda |mana_b| w kosztach many permanentów pod twoim władaniem "
-"wlicza się do twojego kultu czarnego.)"
+"ową kartę. (Każda |mana_b| w kosztach many bytów pod twoim władaniem wlicza "
+"się do twojego kultu czarnego.)"
 
 #: ../../THS.rst:480
 msgid ""
@@ -2027,9 +2025,9 @@ msgid ""
 "creature. (Each |mana_b| in the mana costs of permanents you control counts "
 "toward your devotion to black.)"
 msgstr ""
-"O ile twój kult czarnego jest mniejszy niż pięć, ta karta nie jest stworem "
-"(Każda |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się "
-"do twojego kultu czarnego.)"
+"O ile twój kult czarnego jest mniejszy niż pięć, ta karta nie jest stworem ("
+"Każda |mana_b| w kosztach many bytów pod twoim władaniem wlicza się do "
+"twojego kultu czarnego.)"
 
 # 9f87f00ae09f4b0ebc78f44779e31ba5
 # 4f94fdc8b9134a5f85f00e46bb4828db
@@ -2098,10 +2096,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, "
-"gdzie X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten "
-"sposób. (Każdy symbol |mana_b| w kosztach permanentów pod twoim władaniem "
-"wlicza się do twojego kultu czarnego.)"
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, gdzie "
+"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. ("
+"Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
+"twojego kultu czarnego.)"
 
 #: ../../THS.rst:504
 msgid ""
@@ -2254,10 +2252,10 @@ msgid ""
 "creatures and/or creatures that share a color with it. Each |mana_b| in the "
 "mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy z co najwyżej X wskazanych "
+"Kiedy ten byt wejdzie na pole bitwy, każdy z co najwyżej X wskazanych "
 "stworów zyskuje do końca tury zastraszanie i pośpiech, gdzie X jest twoim "
-"kultem czarnego. (Każda |mana_b| w kosztach many permanentów, którymi "
-"władasz wlicza się do twojego kultu czarnego.)"
+"kultem czarnego. (Każda |mana_b| w kosztach many bytów, którymi władasz "
+"wlicza się do twojego kultu czarnego.)"
 
 #: ../../THS.rst:548
 msgid ""
@@ -2373,8 +2371,7 @@ msgstr ""
 #: ../../THS.rst:573
 msgid ""
 "When Returned Centaur enters the battlefield, target player mills four cards."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany gracz mieli cztery karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz mieli cztery karty."
 
 #: ../../THS.rst:580
 msgid ""
@@ -2404,7 +2401,7 @@ msgstr ""
 # c4f6f9a7b1764ee3b9373cc86ef7bf7d
 #: ../../THS.rst:585
 msgid "When Scourgemark enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 216b9ce328254832a5e719d92d41c126
 # 048387e873694263a2999e9f7f663698
@@ -2643,7 +2640,7 @@ msgstr ""
 # 6c01dec0300e48be8bc2565f741c44f4
 #: ../../THS.rst:653
 msgid "When Dragon Mantle enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 02981b7b80b44b26af1389e3193832ae
 # c5fbb69e81354e35987cb1a6251c7863
@@ -2696,9 +2693,9 @@ msgid ""
 "opponent equal to your devotion to red. (Each |mana_r| in the mana costs of "
 "permanents you control counts toward your devotion to red.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po "
-"tyle obrażeń, ile wynosi twój kult czerwonego. (Każda |mana_r| w kosztach "
-"many permanentów, którymi władasz wlicza się do twojego kultu czerwonego.)"
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po tyle "
+"obrażeń, ile wynosi twój kult czerwonego. (Każda |mana_r| w kosztach many "
+"bytów, którymi władasz wlicza się do twojego kultu czerwonego.)"
 
 #: ../../THS.rst:672
 msgid ""
@@ -2869,7 +2866,7 @@ msgstr "Pośpiech"
 msgid ""
 "When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end "
 "of turn."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dostaje do końca tury +2/+0."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dostaje do końca tury +2/+0."
 
 #: ../../THS.rst:720
 msgid ""
@@ -2967,7 +2964,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Purphoros deals 2 damage to each opponent."
 msgstr ""
-"Ilekroć na pole bitwy pod twoim władaniem wejdzie stwór, niniejszy permanent "
+"Ilekroć na pole bitwy pod twoim władaniem wejdzie stwór, niniejszy byt "
 "zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 # f3822299d17a40849f38eb96be0b2461
@@ -3213,7 +3210,7 @@ msgstr ""
 msgid ""
 "When Wild Celebrants enters the battlefield, you may destroy target artifact."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt."
 
 #: ../../THS.rst:810
 msgid ""
@@ -3483,8 +3480,7 @@ msgid ""
 "devotion to green.)"
 msgstr ""
 "|tap|: Weź tyle |mana_g|, ile wynosi twój kult zielonego. (Każda |mana_g| w "
-"kosztach many permanentów, którymi władasz wlicza się do twojego kultu "
-"zielonego.)"
+"kosztach many bytów, którymi władasz wlicza się do twojego kultu zielonego.)"
 
 #: ../../THS.rst:888
 msgid ""
@@ -3605,9 +3601,9 @@ msgid ""
 "(Each |mana_g| in the mana costs of permanents you control counts toward "
 "your devotion to green.)"
 msgstr ""
-"O ile twój kult zielonego jest mniejszy niż pięć, ta karta nie jest stworem "
-"(Każda |mana_g| w kosztach many permanentów pod twoim władaniem wlicza się "
-"do twojego kultu zielonego.)"
+"O ile twój kult zielonego jest mniejszy niż pięć, ta karta nie jest stworem ("
+"Każda |mana_g| w kosztach many bytów pod twoim władaniem wlicza się do "
+"twojego kultu zielonego.)"
 
 # 4d5861638c5f4028a2a62a850c1994a7
 # d5b0c9f521644fa1a38af5c054fabfa9
@@ -3636,9 +3632,9 @@ msgid ""
 "devotion to green. (Each |mana_g| in the mana costs of permanents you "
 "control counts toward your devotion to green.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi twój kult "
-"zielonego. (Każda |mana_g| w kosztach many permanentów, którymi władasz "
-"wlicza się do twojego kultu zielonego.)"
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj tyle żyć, ile wynosi twój kult "
+"zielonego. (Każda |mana_g| w kosztach many bytów, którymi władasz wlicza się "
+"do twojego kultu zielonego.)"
 
 #: ../../THS.rst:934
 msgid ""
@@ -3682,7 +3678,7 @@ msgstr "Zaurocz ląd"
 # a86a5f4926f54b4896fb9b2d9abb2d86
 #: ../../THS.rst:939
 msgid "When Nylea's Presence enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 # 0a617b5addea4c0e9284c9e65cfe95f2
 # 8b69d128c1b549eea8815c91db0325c6
@@ -3771,8 +3767,8 @@ msgid ""
 "on it equal to your devotion to green. (Each |mana_g| in the mana costs of "
 "permanents you control counts toward your devotion to green.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść na nim tyle znaczników +1/+1, "
-"ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many permanentów, "
+"Kiedy ten byt wejdzie na pole bitwy, umieść na nim tyle znaczników +1/+1, "
+"ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many bytów, "
 "którymi władasz wlicza się do twojego kultu zielonego.)"
 
 #: ../../THS.rst:968
@@ -3978,8 +3974,7 @@ msgstr ""
 #: ../../THS.rst:1025
 msgid ""
 "When Ashen Rider enters the battlefield or dies, exile target permanent."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, wygnaj wskazany permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy lub umrze, wygnaj wskazany byt."
 
 #: ../../THS.rst:1034
 msgid ""
@@ -4047,7 +4042,7 @@ msgid ""
 "When Chronicler of Heroes enters the battlefield, draw a card if you control "
 "a creature with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę jeśli władasz stworem "
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę jeśli władasz stworem "
 "mającym znacznik +1/+1."
 
 #: ../../THS.rst:1048
@@ -4091,8 +4086,8 @@ msgid ""
 "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage "
 "to that permanent's controller."
 msgstr ""
-"Zniszcz wskazany artefakt lub urok. Ten czar zadaje władcy owego permanentu "
-"2 obrażenia."
+"Zniszcz wskazany artefakt lub urok. Ten czar zadaje władcy owego bytu 2 "
+"obrażenia."
 
 #: ../../THS.rst:1058
 msgid ""
@@ -4198,8 +4193,8 @@ msgid ""
 "When Pharika's Mender enters the battlefield, you may return target creature "
 "or enchantment card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora lub uroku z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"lub uroku z twojego cmentarza do twojej ręki."
 
 #: ../../THS.rst:1092
 msgid ""
@@ -4524,7 +4519,7 @@ msgstr ""
 msgid ""
 "When Akroan Horse enters the battlefield, an opponent gains control of it."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przeciwnik zyskuje nad nim władanie."
+"Kiedy ten byt wejdzie na pole bitwy, przeciwnik zyskuje nad nim władanie."
 
 # e1be33c7eac04e73ba1f02b1a2d6656f
 # d84a6b0fed004152ac3737da5f97ccec
@@ -4707,7 +4702,7 @@ msgid ""
 msgstr ""
 "|mana_7|, |tap|: poświęć ten artefakt: Każdy gracz odkrywa wszystkie własne "
 "karty wygnane z użyciem tego artefaktu, po czym umieszcza wszystkie karty "
-"permanentów spośród nich na polu bitwy."
+"bytów spośród nich na polu bitwy."
 
 #: ../../THS.rst:1228
 msgid ""
@@ -4772,7 +4767,7 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|: Wybierz kolor. Weź tyle many wybranego koloru, ile wynosi "
 "twój kult tego koloru. (Twój kult koloru jest liczbą symboli many tego "
-"koloru w kosztach permanentów pod twoim władaniem.)"
+"koloru w kosztach bytów pod twoim władaniem.)"
 
 #: ../../THS.rst:1248
 msgid ""
@@ -4789,7 +4784,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THS.rst:1245
 msgid "When Temple of Abandon enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # e46764f3aff84f7fa505dca28f961cb6
 # 74f28075af4642879170deb2ad5a7839
@@ -4812,7 +4807,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THS.rst:1253
 msgid "When Temple of Deceit enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # 76bd4645501f4b8b8e98800903d443c3
 # fb834ee568ba41d396836e0f88e4edda
@@ -4835,7 +4830,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THS.rst:1261
 msgid "When Temple of Mystery enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # a7c1c3c46b6d4579b3f87817ef23e8bd
 # bae965a474ec41f4bc9cda0bfd41180a
@@ -4858,7 +4853,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THS.rst:1269
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # 8963c0acfd8546b09a7aa95e791cef2b
 # 0c1a722b59284718ba41fdae8f3276a6
@@ -4881,7 +4876,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../THS.rst:1277
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr "Kiedy ten ląd wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 # a7cb8981229b4072b35262b19517af3c
 # d63db26bd91346d5babc001fbe168910

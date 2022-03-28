@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-21 12:32+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -248,7 +248,7 @@ msgstr "Latanie"
 
 #: ../../9ED.rst:11
 msgid "When Angel of Mercy enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../9ED.rst:14
 msgid ""
@@ -306,7 +306,7 @@ msgstr ""
 #: ../../9ED.rst:29
 msgid ""
 "When Aven Cloudchaser enters the battlefield, destroy target enchantment."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany urok."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../9ED.rst:32
 msgid ""
@@ -969,7 +969,7 @@ msgstr ""
 
 #: ../../9ED.rst:263
 msgid "When Venerable Monk enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../9ED.rst:268
 msgid ""
@@ -1159,7 +1159,7 @@ msgstr ""
 
 #: ../../9ED.rst:329
 msgid "Return target permanent to its owner's hand."
-msgstr "Przywróć wskazany permanent do ręki właściciela."
+msgstr "Przywróć wskazany byt do ręki właściciela."
 
 #: ../../9ED.rst:334
 msgid ""
@@ -1185,11 +1185,11 @@ msgstr ""
 
 #: ../../9ED.rst:337
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../9ED.rst:339
 msgid "You control enchanted permanent."
-msgstr "Władasz zauroczonym permanentem."
+msgstr "Władasz zauroczonym bytem."
 
 #: ../../9ED.rst:344
 msgid ""
@@ -1406,10 +1406,10 @@ msgid ""
 "change \"nonblack creature\" to \"nongreen creature\" or \"forestwalk\" to "
 "\"islandwalk.\" This effect lasts indefinitely.)"
 msgstr ""
-"Zmień tekst wskazanego permanentu zamieniając wszystkie wystąpienia jednego "
-"słowa określającego kolor innym lub jeden typ bazowego lądu innym. (Np. "
-"możesz zamienić \"nieczarny stwór\" na \"niezielony stwór\" albo \"podbój "
-"lasów\" na \"podbój wysp\". Ten efekt jet trwały.)"
+"Zmień tekst wskazanego bytu zamieniając wszystkie wystąpienia jednego słowa "
+"określającego kolor innym lub jeden typ bazowego lądu innym. (Np. możesz "
+"zamienić \"nieczarny stwór\" na \"niezielony stwór\" albo \"podbój lasów\" "
+"na \"podbój wysp\". Ten efekt jet trwały.)"
 
 #: ../../9ED.rst:428
 msgid ""
@@ -1512,7 +1512,7 @@ msgid ""
 "When Sage Aven enters the battlefield, look at the top four cards of your "
 "library, then put them back in any order."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
 "twojej biblioteki, po czym umieść je z powrotem w dowolnej kolejności."
 
 #: ../../9ED.rst:462
@@ -1593,7 +1593,7 @@ msgid ""
 "|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Return target permanent to its "
 "owner's hand."
 msgstr ""
-"|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Przywróć wskazany permanent do ręki "
+"|mana_u|\\ |mana_u|\\ |mana_u|, |tap|: Przywróć wskazany byt do ręki "
 "właściciela."
 
 #: ../../9ED.rst:494
@@ -1701,7 +1701,7 @@ msgid ""
 "When Wanderguard Sentry enters the battlefield, look at target opponent's "
 "hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, spójrz na rękę wskazanego przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na rękę wskazanego przeciwnika."
 
 #: ../../9ED.rst:532
 msgid ""
@@ -1984,7 +1984,7 @@ msgstr ""
 
 #: ../../9ED.rst:625
 msgid "When Foul Imp enters the battlefield, you lose 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, strać 2 życia."
 
 #: ../../9ED.rst:628
 msgid ""
@@ -2034,8 +2034,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
-"stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 #: ../../9ED.rst:646
 msgid ""
@@ -2064,8 +2064,8 @@ msgid ""
 "When Highway Robber enters the battlefield, target opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a "
-"ty zyskaj 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik traci 2 życia, a ty "
+"zyskaj 2 życia."
 
 #: ../../9ED.rst:654
 msgid ""
@@ -2221,7 +2221,7 @@ msgid ""
 "When Nekrataal enters the battlefield, destroy target nonartifact, nonblack "
 "creature. That creature can't be regenerated."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
 "nieczarnego stwora. Ów stwór nie może zregenerować."
 
 #: ../../9ED.rst:708
@@ -2277,7 +2277,7 @@ msgid ""
 "When Phyrexian Gargantua enters the battlefield, you draw two cards and you "
 "lose 2 life."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dobierz dwie karty i strać 2 życia."
+"Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty i strać 2 życia."
 
 #: ../../9ED.rst:724
 msgid ""
@@ -2319,8 +2319,7 @@ msgstr ""
 #: ../../9ED.rst:735
 msgid ""
 "When Ravenous Rats enters the battlefield, target opponent discards a card."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../9ED.rst:740
 msgid ""
@@ -2371,7 +2370,7 @@ msgstr ""
 
 #: ../../9ED.rst:757
 msgid "When Serpent Warrior enters the battlefield, you lose 3 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, strać 3 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, strać 3 życia."
 
 #: ../../9ED.rst:764
 msgid ""
@@ -2509,7 +2508,7 @@ msgid ""
 "When Anarchist enters the battlefield, you may return target sorcery card "
 "from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../9ED.rst:814
@@ -2694,8 +2693,8 @@ msgid ""
 "If a source would deal damage to a permanent or player, it deals double that "
 "damage to that permanent or player instead."
 msgstr ""
-"Jeśli jakieś źródło miałoby zadać obrażenia permanentowi lub graczowi, "
-"zamiast tego zadaje w ów cel dwukrotność tych obrażeń."
+"Jeśli jakieś źródło miałoby zadać obrażenia bytowi lub graczowi, zamiast "
+"tego zadaje w ów cel dwukrotność tych obrażeń."
 
 #: ../../9ED.rst:882
 msgid ""
@@ -2954,7 +2953,7 @@ msgid ""
 "When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice "
 "two Mountains."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, poświęć go, chyba że poświęcisz dwie "
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że poświęcisz dwie "
 "Góry."
 
 #: ../../9ED.rst:978
@@ -3140,7 +3139,7 @@ msgstr ""
 
 #: ../../9ED.rst:1039
 msgid "When Thundermare enters the battlefield, tap all other creatures."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie inne stwory."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć wszystkie inne stwory."
 
 #: ../../9ED.rst:1046
 msgid ""
@@ -3441,7 +3440,7 @@ msgid ""
 "When Hunted Wumpus enters the battlefield, each other player may put a "
 "creature card from their hand onto the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, każdy inny gracz może umieścić kartę "
+"Kiedy ten byt wejdzie na pole bitwy, każdy inny gracz może umieścić kartę "
 "stwora ze swojej ręki na polu bitwy."
 
 #: ../../9ED.rst:1146
@@ -3453,7 +3452,7 @@ msgstr ""
 
 #: ../../9ED.rst:1145
 msgid "When Kavu Climber enters the battlefield, draw a card."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../9ED.rst:1150
 msgid ""
@@ -3704,8 +3703,8 @@ msgstr ""
 #: ../../9ED.rst:1233
 msgid "Untap all permanents you control during each other player's untap step."
 msgstr ""
-"Odkręć wszystkie permanenty pod twoim władaniem podczas kroku odkręcania "
-"każdego innego gracza."
+"Odkręć wszystkie byty pod twoim władaniem podczas kroku odkręcania każdego "
+"innego gracza."
 
 #: ../../9ED.rst:1240
 msgid ""
@@ -3822,7 +3821,7 @@ msgstr ""
 
 #: ../../9ED.rst:1277
 msgid "When Viridian Shaman enters the battlefield, destroy target artifact."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../9ED.rst:1284
 msgid ""
@@ -3866,8 +3865,8 @@ msgid ""
 "When Wood Elves enters the battlefield, search your library for a Forest "
 "card, put that card onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
-"Lasu i umieść ją na polu bitwy, po czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę Lasu "
+"i umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../9ED.rst:1296
 msgid ""
@@ -4220,7 +4219,7 @@ msgid ""
 msgstr ""
 "O ile ten artefakt jest odkręcony, każdy gracz podczas swojego kroku "
 "odkręcania wybiera typ karty spośród artefaktu, stwora albo lądu. Ów gracz "
-"może w tym kroku odkręcić tylko permanenty wybranego typu."
+"może w tym kroku odkręcić tylko byty wybranego typu."
 
 #: ../../9ED.rst:1410
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-21 14:00+0000\n"
+"PO-Revision-Date: 2022-03-28 09:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -249,8 +249,7 @@ msgid ""
 "Each player sacrifices all permanents they control that are one or more "
 "colors."
 msgstr ""
-"Każdy gracz poświęca wszystkie posiadające kolor permanenty pod swoim "
-"władaniem."
+"Każdy gracz poświęca wszystkie posiadające kolor byty pod swoim władaniem."
 
 #: ../../UMA.rst:16
 msgid ""
@@ -273,7 +272,7 @@ msgid ""
 "two permanents.)"
 msgstr ""
 "Anihilacja 2 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca dwa "
-"permanenty.)"
+"byty.)"
 
 #: ../../UMA.rst:22
 msgid ""
@@ -295,7 +294,7 @@ msgid ""
 "it attacks, defending player sacrifices two permanents.)"
 msgstr ""
 "Zauroczony stwór dostaje +10/+10, i ma tratowanie i anihilację 2. (Ilekroć "
-"zaatakuje, broniący się gracz poświęca dwa permanenty.)"
+"zaatakuje, broniący się gracz poświęca dwa byty.)"
 
 #: ../../UMA.rst:32
 msgid ""
@@ -338,7 +337,7 @@ msgstr "+4: Wskazany gracz wygania kartę ze swojej ręki."
 
 #: ../../UMA.rst:37
 msgid "−3: Exile target permanent."
-msgstr "–3: Wygnaj wskazany permanent."
+msgstr "–3: Wygnaj wskazany byt."
 
 #: ../../UMA.rst:39
 msgid ""
@@ -346,7 +345,7 @@ msgid ""
 "with Karn Liberated. Then put those cards onto the battlefield under your "
 "control."
 msgstr ""
-"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie permanenty nie "
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie byty nie "
 "będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
 "karty na polu bitwy pod twoim władaniem."
 
@@ -368,7 +367,7 @@ msgid ""
 "four permanents.)"
 msgstr ""
 "Anihilacja 4 (Ilekroć ten stwór zaatakuje, broniący się gracz poświęca "
-"cztery permanenty.)"
+"cztery byty.)"
 
 #: ../../UMA.rst:47
 msgid ""
@@ -388,7 +387,7 @@ msgstr ""
 
 #: ../../UMA.rst:51
 msgid "When you cast this spell, destroy target permanent."
-msgstr "Kiedy rzucisz ten czar, zniszcz wskazany permanent."
+msgstr "Kiedy rzucisz ten czar, zniszcz wskazany byt."
 
 #: ../../UMA.rst:53
 msgid "Indestructible"
@@ -433,7 +432,7 @@ msgid ""
 "When Ancestor's Chosen enters the battlefield, you gain 1 life for each card "
 "in your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zyskaj 1 życie za każdą kartę w twoim "
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie za każdą kartę w twoim "
 "cmentarzu."
 
 #: ../../UMA.rst:74
@@ -550,8 +549,8 @@ msgid ""
 "When Emancipation Angel enters the battlefield, return a permanent you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć permanent pod twoim "
-"władaniem do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć byt pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../UMA.rst:118
 msgid ""
@@ -562,19 +561,19 @@ msgstr ""
 
 #: ../../UMA.rst:113
 msgid "Enchant permanent"
-msgstr "Zaurocz permanent"
+msgstr "Zaurocz byt"
 
 #: ../../UMA.rst:115
 msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, zyskaj 4 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../UMA.rst:117
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated unless they're mana abilities."
 msgstr ""
-"Zauroczony permanent nie może atakować ani blokować, a jego aktywowane "
-"zdolności nie mogą być aktywowane, chyba że dają manę."
+"Zauroczony byt nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane, chyba że dają manę."
 
 #: ../../UMA.rst:124
 msgid ""
@@ -588,7 +587,7 @@ msgid ""
 "When Fiend Hunter enters the battlefield, you may exile another target "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy możesz wygnać innego wskazanego stwora."
+"Kiedy ten byt wejdzie na pole bitwy możesz wygnać innego wskazanego stwora."
 
 #: ../../UMA.rst:123
 msgid ""
@@ -631,7 +630,7 @@ msgid ""
 "When Heliod's Pilgrim enters the battlefield, you may search your library "
 "for an Aura card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę Aury, ujawnij ją i umieść w twojej ręce, po czym przetasuj."
 
 #: ../../UMA.rst:140
@@ -708,8 +707,8 @@ msgid ""
 "When Lotus-Eye Mystics enters the battlefield, return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę uroku z "
-"twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę uroku z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../UMA.rst:166
 msgid ""
@@ -1019,8 +1018,7 @@ msgid ""
 "a blue or red permanent, you may discard a card. If you do, draw a card."
 msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz niebieskim "
-"lub czerwonym permanentem, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
-"kartę."
+"lub czerwonym bytem, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../UMA.rst:266
 msgid ""
@@ -1049,8 +1047,8 @@ msgid ""
 "When Aethersnipe enters the battlefield, return target nonland permanent to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazany nie-lądowy "
-"permanent do ręki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazany nie-lądowy byt do "
+"ręki właściciela."
 
 #: ../../UMA.rst:271
 msgid ""
@@ -1073,7 +1071,7 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../UMA.rst:280
@@ -1229,7 +1227,7 @@ msgstr ""
 
 #: ../../UMA.rst:327
 msgid "When Flight of Fancy enters the battlefield, draw two cards."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
 
 #: ../../UMA.rst:329
 msgid "Enchanted creature has flying."
@@ -1323,8 +1321,8 @@ msgid ""
 "graveyard onto the battlefield under your control attached to Iridescent "
 "Drake."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, umieść wskazaną kartę Aury z "
-"cmentarza na pole bitwy pod twoim władaniem dołączoną do tego stwora."
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazaną kartę Aury z cmentarza "
+"na pole bitwy pod twoim władaniem dołączoną do tego stwora."
 
 #: ../../UMA.rst:366
 msgid ""
@@ -1425,7 +1423,7 @@ msgid ""
 "a black or green permanent."
 msgstr ""
 "Możesz rzucić tego stwora z twojego cmentarza o ile władasz czarnym lub "
-"zielonym permanentem."
+"zielonym bytem."
 
 #: ../../UMA.rst:398
 msgid ""
@@ -1510,7 +1508,7 @@ msgid ""
 "equal to its mana cost. (You may cast that card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
+"Kiedy ten byt wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
 "twoim cmentarzu zyskuje do końca tury wspomnienie. Koszt wspomnienia jest "
 "równy jej kosztowi many. (Możesz rzucić ową kartę z twojego cmentarza za "
 "koszt wspomnienia. Następnie wygnaj ją.)"
@@ -1569,7 +1567,7 @@ msgstr ""
 
 #: ../../UMA.rst:439
 msgid "When Sultai Skullkeeper enters the battlefield, mill two cards."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zmiel dwie karty."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty."
 
 #: ../../UMA.rst:444
 msgid ""
@@ -1800,7 +1798,7 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
 "dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../UMA.rst:522
@@ -1984,9 +1982,8 @@ msgid ""
 "When Grave Scrabbler enters the battlefield, if its madness cost was paid, "
 "you may return target creature card from a graveyard to its owner's hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli zapłacono jego koszt "
-"szaleństwa, możesz przywrócić wskazaną kartę stwora z cmentarza do ręki "
-"właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli zapłacono jego koszt szaleństwa, "
+"możesz przywrócić wskazaną kartę stwora z cmentarza do ręki właściciela."
 
 #: ../../UMA.rst:568
 msgid ""
@@ -2041,8 +2038,8 @@ msgid ""
 "−6: Separate all permanents target player controls into two piles. That "
 "player sacrifices all permanents in the pile of their choice."
 msgstr ""
-"–6: Rozdziel wszystkie permanenty pod władaniem wskazanego gracza na dwa "
-"stosy. Ów gracz poświęca wszystkie permanenty w wybranym przez siebie stosie."
+"–6: Rozdziel wszystkie byty pod władaniem wskazanego gracza na dwa stosy. Ów "
+"gracz poświęca wszystkie byty w wybranym przez siebie stosie."
 
 #: ../../UMA.rst:590
 msgid ""
@@ -2193,7 +2190,7 @@ msgid ""
 "When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack "
 "creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego nieartefaktowego, "
 "nie-czarnego stwora."
 
 #: ../../UMA.rst:635
@@ -2214,7 +2211,7 @@ msgstr ""
 #: ../../UMA.rst:639
 msgid ""
 "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, każdy gracz poświęca stwora."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../UMA.rst:644
 msgid ""
@@ -2485,8 +2482,8 @@ msgid ""
 "Whenever you sacrifice another permanent, you may pay |mana_2|. If you do, "
 "Furnace Celebration deals 2 damage to any target."
 msgstr ""
-"Ilekroć poświęcisz inny permanent, możesz zapłacić |mana_2|. Jeśli tak "
-"zrobisz, ten urok zadaje wskazanemu celowi 2 obrażenia."
+"Ilekroć poświęcisz inny byt, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"ten urok zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../UMA.rst:732
 msgid ""
@@ -2544,7 +2541,7 @@ msgstr ""
 
 #: ../../UMA.rst:743
 msgid "When Ingot Chewer enters the battlefield, destroy target artifact."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany artefakt."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../UMA.rst:745
 msgid ""
@@ -2587,7 +2584,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice a nonland permanent: Magmaw deals 1 damage to any target."
 msgstr ""
-"|mana_1|, poświęć nielądowy permanent: Ten stwór zadaje wskazanemu celowi 1 "
+"|mana_1|, poświęć nielądowy byt: Ten stwór zadaje wskazanemu celowi 1 "
 "obrażeń."
 
 #: ../../UMA.rst:766
@@ -2866,7 +2863,7 @@ msgid ""
 "When Vexing Devil enters the battlefield, any opponent may have it deal 4 "
 "damage to them. If a player does, sacrifice Vexing Devil."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, dowolny przeciwnik może zechcieć "
+"Kiedy ten byt wejdzie na pole bitwy, dowolny przeciwnik może zechcieć "
 "otrzymać od niego 4 obrażenia. Jeśli gracz to zrobi, poświęć tego stwora."
 
 #: ../../UMA.rst:850
@@ -2997,7 +2994,7 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../UMA.rst:902
@@ -3270,9 +3267,9 @@ msgid ""
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, ujawnij cztery wierzchnie karty "
-"twojej biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. "
-"Umieść pozostałe w twoim cmentarzu."
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij cztery wierzchnie karty twojej "
+"biblioteki. Możesz umieścić kartę lądu spośród nich w twojej ręce. Umieść "
+"pozostałe w twoim cmentarzu."
 
 #: ../../UMA.rst:988
 msgid ""
@@ -3365,7 +3362,7 @@ msgid ""
 "When Stingerfling Spider enters the battlefield, you may destroy target "
 "creature with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora z "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora z "
 "lataniem."
 
 #: ../../UMA.rst:1024
@@ -3516,9 +3513,7 @@ msgstr ""
 msgid ""
 "When Woodfall Primus enters the battlefield, destroy target noncreature "
 "permanent."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany nie-stworowy "
-"permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-stworowy byt."
 
 #: ../../UMA.rst:1078
 msgid ""
@@ -3529,7 +3524,7 @@ msgstr ""
 
 #: ../../UMA.rst:1077
 msgid "When Angel of Despair enters the battlefield, destroy target permanent."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zniszcz wskazany permanent."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany byt."
 
 #: ../../UMA.rst:1082
 msgid ""
@@ -3586,9 +3581,9 @@ msgid ""
 "When Garna, the Bloodflame enters the battlefield, return to your hand all "
 "creature cards in your graveyard that were put there from anywhere this turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przywróć do twojej ręki wszystkie "
-"karty stworów z twojego cmentarza, które został tam umieszczone skądkolwiek "
-"w tej turze."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć do twojej ręki wszystkie karty "
+"stworów z twojego cmentarza, które został tam umieszczone skądkolwiek w tej "
+"turze."
 
 #: ../../UMA.rst:1099
 msgid "Other creatures you control have haste."
@@ -3627,8 +3622,8 @@ msgid ""
 "Whenever you or a permanent you control becomes the target of a spell or "
 "ability an opponent controls, you may draw a card."
 msgstr ""
-"Ilekroć ty lub permanent pod twoim władaniem zostanie wskazany przez czar "
-"lub zdolność pod władaniem przeciwnika, możesz dobrać kartę."
+"Ilekroć ty lub byt pod twoim władaniem zostanie wskazany przez czar lub "
+"zdolność pod władaniem przeciwnika, możesz dobrać kartę."
 
 #: ../../UMA.rst:1120
 msgid ""
@@ -3657,8 +3652,8 @@ msgid ""
 "Destroy target nonland permanent and all other permanents with the same name "
 "as that permanent."
 msgstr ""
-"Zniszcz wskazany nielądowy permanent i wszystkie inne permanenty mające tę "
-"samą nazwę co on."
+"Zniszcz wskazany nielądowy byt i wszystkie inne byty mające tę samą nazwę co "
+"on."
 
 #: ../../UMA.rst:1128
 msgid ""
@@ -3694,7 +3689,7 @@ msgid ""
 "permanents."
 msgstr ""
 "Czary i zdolności pod władaniem twoich przeciwników nie mogą sprawiać, że "
-"poświęcisz permanent."
+"poświęcisz byt."
 
 #: ../../UMA.rst:1140
 msgid ""
@@ -3847,7 +3842,7 @@ msgstr ""
 
 #: ../../UMA.rst:1181
 msgid "When Kitchen Finks enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../UMA.rst:1190
 msgid ""
@@ -3861,7 +3856,7 @@ msgid ""
 "When Murderous Redcap enters the battlefield, it deals damage equal to its "
 "power to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi obrażenia "
 "równe swojej sile."
 
 #: ../../UMA.rst:1196
@@ -3905,7 +3900,7 @@ msgstr "(|mana_gu| można opłacić używając |mana_g| albo |mana_u|.)"
 
 #: ../../UMA.rst:1217
 msgid "When Shielding Plax enters the battlefield, draw a card."
-msgstr "Kiedy ten urok wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../UMA.rst:1219
 msgid ""
@@ -3959,7 +3954,7 @@ msgstr ""
 
 #: ../../UMA.rst:1235
 msgid "Tap target permanent."
-msgstr "Przekręć wskazany permanent."
+msgstr "Przekręć wskazany byt."
 
 #: ../../UMA.rst:1242
 msgid ""
@@ -3984,7 +3979,7 @@ msgid ""
 "Sunburst (This enters the battlefield with a charge counter on it for each "
 "color of mana spent to cast it.)"
 msgstr ""
-"Rozbłysk słońca (Ten permanent wchodzi na pole bitwy mając tyle znaczników "
+"Rozbłysk słońca (Ten byt wchodzi na pole bitwy mając tyle znaczników "
 "ładunku, ile kolorów many użyto do rzucenia go.)"
 
 #: ../../UMA.rst:1247
@@ -3993,8 +3988,8 @@ msgid ""
 "with mana value equal to the number of charge counters on Engineered "
 "Explosives."
 msgstr ""
-"|mana_2|, poświęć ten artefakt: Zniszcz każdy nielądowy permanent o skrócie "
-"many równym liczbie znaczników ładowania na tym artefakcie."
+"|mana_2|, poświęć ten artefakt: Zniszcz każdy nielądowy byt o skrócie many "
+"równym liczbie znaczników ładowania na tym artefakcie."
 
 #: ../../UMA.rst:1252
 msgid ""
@@ -4126,8 +4121,8 @@ msgid ""
 "When Vessel of Endless Rest enters the battlefield, put target card from a "
 "graveyard on the bottom of its owner's library."
 msgstr ""
-"Kiedy ten artefakt wejdzie na pole bitwy, umieść wskazaną kartę z cmentarza "
-"na spodzie biblioteki właściciela."
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazaną kartę z cmentarza na "
+"spodzie biblioteki właściciela."
 
 #: ../../UMA.rst:1289
 msgid "|tap|: Add one mana of any color."
@@ -4364,7 +4359,7 @@ msgid ""
 msgstr ""
 "|mana_w|, |tap|: Umieść wskazaną kartę z cmentarza na spodzie twojej "
 "biblioteki. Możesz aktywować tylko jeśli władasz co najmniej dwoma białymi "
-"permanentami."
+"bytami."
 
 #: ../../UMA.rst:1382
 msgid ""
