@@ -7,7 +7,9 @@ Spis zmian
      Jednocześnie wiele kart posiadających zdolność wyzwalaną przy ich wejściu na pole bitwy ("Kiedy ten ... wejdzie na pole bitwy") otrzymało
      zbiorcze tłumaczenie mówiące "Kiedy ten byt wejdzie na pole bitwy" - oryginalne słownictwo zostanie utrzymane tylko tam, gdzie będzie to
      miało semantyczne uzasadnienie.
-   * MM2 - 100%
+   * Modern Master 2015 - 100%
+   * Commander Arsenal - 100%
+   * Masters 25 - 100%
 
 2022-03-21
    * Kamigawa: Neon Dynasty - 100%

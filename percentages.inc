@@ -96,7 +96,7 @@
 
 .. |SOK_percent| image:: images/pie35.png        
 
-.. |DST_percent| image:: images/pie45.png        
+.. |DST_percent| image:: images/pie50.png        
 
 .. |NEC_percent| image:: images/pie70.png        
 
@@ -140,7 +140,7 @@
 
 .. |ARB_percent| image:: images/pie70.png        
 
-.. |ALL_percent| image:: images/pie35.png        
+.. |ALL_percent| image:: images/pie40.png        
 
 .. |AFR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -164,19 +164,19 @@
 
 .. |WTH_percent| image:: images/pie50.png        
 
-.. |SCG_percent| image:: images/pie50.png        
+.. |SCG_percent| image:: images/pie55.png        
 
 .. |TSP_percent| image:: images/pie70.png        
 
 .. |10E_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |3ED_percent| image:: images/pie60.png        
+.. |3ED_percent| image:: images/pie65.png        
 
 .. |HOU_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |BOK_percent| image:: images/pie40.png        
+.. |BOK_percent| image:: images/pie45.png        
 
 .. |HML_percent| image:: images/pie40.png        
 
@@ -224,7 +224,8 @@
 .. |AKR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |A25_percent| image:: images/pie80.png        
+.. |A25_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |IMA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -235,7 +236,7 @@
 .. |DKA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C17_percent| image:: images/pie70.png        
+.. |C17_percent| image:: images/pie75.png        
 
 .. |LEB_percent| image:: images/pie60.png        
 
@@ -364,7 +365,7 @@
 
 .. |NEM_percent| image:: images/pie45.png        
 
-.. |CNS_percent| image:: images/pie65.png        
+.. |CNS_percent| image:: images/pie70.png        
 
 .. |ULG_percent| image:: images/pie60.png        
 
@@ -391,4 +392,4 @@
 .. |UMA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |LEG_percent| image:: images/pie30.png        
+.. |LEG_percent| image:: images/pie35.png        
