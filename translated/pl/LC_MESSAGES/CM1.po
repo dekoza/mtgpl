@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-03-28 11:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cm1/pl/>\n"
 "Language: pl\n"
@@ -274,6 +274,8 @@ msgid ""
 "Destroy all creatures. They can't be regenerated. Draw a card for each "
 "creature destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Nie mogą one regenerować. Dobierz kartę za każdego "
+"stwora zniszczonego w ten sposób."
 
 #: ../../CM1.rst:19
 msgid ""
@@ -287,6 +289,7 @@ msgstr ""
 msgid ""
 "When you cycle Decree of Pain, all creatures get -2/-2 until end of turn."
 msgstr ""
+"Kiedy recyklujesz tę kartę, wszystkie stwory dostają do końca tury -2/-2."
 
 #: ../../CM1.rst:26
 msgid ""
@@ -318,6 +321,9 @@ msgid ""
 "of an opponent's choice. Activate this ability only during your turn, before "
 "attackers are declared."
 msgstr ""
+"|tap|: Zniszcz wskazanego stwora wybranego przez ciebie, po czym zniszcz "
+"wskazanego stwora wybranego przez przeciwnika. Możesz aktywować tylko w "
+"twojej turze, przed deklaracją atakujących."
 
 #: ../../CM1.rst:36
 msgid ""
@@ -333,7 +339,7 @@ msgstr "Zasięg"
 #: ../../CM1.rst:35
 msgid ""
 "Whenever an opponent casts a spell, create a 1/1 green Insect creature token."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci czar, stwórz żeton zielonego stwora Owad 1/1."
 
 #: ../../CM1.rst:42
 msgid ""
@@ -373,6 +379,8 @@ msgid ""
 "Whenever a creature deals combat damage to one of your opponents, its "
 "controller may draw a card."
 msgstr ""
+"Ilekroć stwór zada obrażenia bojowe jednemu z twoich przeciwników, jego "
+"władca może dobrać kartę."
 
 #: ../../CM1.rst:52
 msgid ""
@@ -408,6 +416,9 @@ msgid ""
 "graveyard to the battlefield. Activate this ability only during your turn, "
 "before attackers are declared."
 msgstr ""
+"Poświęć ten byt: Przywróć wskazaną legendarną kartę stwora z twojego "
+"cmentarza na pole bitwy. Możesz aktywować tylko w twojej turze, przed "
+"deklaracją atakujących."
 
 #: ../../CM1.rst:62
 msgid ""
@@ -446,6 +457,9 @@ msgid ""
 "those cards with a number of additional +1/+1 counters on it equal to the "
 "power of the other card."
 msgstr ""
+"Umieszczając ten byt na polu bitwy, możesz wygnać dwie karty stworów z "
+"cmentarzy. Jeśli tak zrobisz, wchodzi on na pole bitwy jako kopia jednej z "
+"owych kart z tyloma znacznikami +1/+1, ile wynosi siła drugiej z owych kart."
 
 #: ../../CM1.rst:70
 msgid ""
@@ -459,6 +473,8 @@ msgid ""
 "Whenever an opponent draws a card, you may pay |mana_1|. If you do, draw a "
 "card."
 msgstr ""
+"Ilekroć przeciwnik dobiera kartę, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../CM1.rst:76
 msgid ""
@@ -507,6 +523,9 @@ msgid ""
 "that many cards from the top of your library into your hand. Then look at "
 "the exiled cards and put them on top of your library in any order."
 msgstr ""
+"|mana_1|, |tap|: Wygnaj zakryte dowolne karty z twojej ręki. Umieść tyle "
+"samo kart z wierzchu twojej biblioteki w twojej ręce. Następnie spójrz na "
+"wygnane karty u mieść je dowolnie na wierzchu twojej biblioteki."
 
 #: ../../CM1.rst:88
 msgid ""

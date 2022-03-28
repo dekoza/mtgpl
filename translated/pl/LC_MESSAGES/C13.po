@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 10:38+0000\n"
+"PO-Revision-Date: 2022-03-28 11:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -331,16 +331,10 @@ msgstr ""
 
 # bf2ad8ba50bd4094bfdeb4b73a3a5802
 #: ../../C13.rst:27
-#, fuzzy
-#| msgid ""
-#| "When Angel of Finality enters the battlefield, exile all cards from "
-#| "target player's graveyard."
 msgid ""
 "When Angel of Finality enters the battlefield, exile target player's "
 "graveyard."
-msgstr ""
-"Kiedy ten permanent wejdzie na pole bitwy, wygnaj wszystkie karty z "
-"cmentarza wskazanego gracza."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../C13.rst:32
 msgid ""
@@ -1246,13 +1240,15 @@ msgid ""
 "Horsemanship (This creature can't be blocked except by creatures with "
 "horsemanship.)"
 msgstr ""
+"Jazda konna (Ten stwór nie może być blokowany, chyba że przez stwory z jazdą "
+"konną.)"
 
 # 211afad048db422e8df0f5a29e367f5d
 #: ../../C13.rst:303
 msgid ""
 "Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a "
 "card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia, możesz dobrać kartę."
 
 #: ../../C13.rst:310
 msgid ""
@@ -1612,6 +1608,8 @@ msgid ""
 "Destroy all creatures. They can't be regenerated. Draw a card for each "
 "creature destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Nie mogą one regenerować. Dobierz kartę za każdego "
+"stwora zniszczonego w ten sposób."
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:425
@@ -1627,6 +1625,7 @@ msgstr ""
 msgid ""
 "When you cycle Decree of Pain, all creatures get -2/-2 until end of turn."
 msgstr ""
+"Kiedy recyklujesz tę kartę, wszystkie stwory dostają do końca tury -2/-2."
 
 #: ../../C13.rst:436
 msgid ""
@@ -4748,14 +4747,8 @@ msgstr ""
 
 # 19edbd4a13754ddcb01c42080973b980
 #: ../../C13.rst:1429
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Nihil Spellbomb: Exile all cards from target player's "
-#| "graveyard."
 msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
-msgstr ""
-"|tap|, poświęć ten artefakt: Wygnaj wszystkie karty z cmentarza wskazanego "
-"gracza."
+msgstr "|tap|, poświęć ten byt: Wygnaj cmentarz wskazanego gracza."
 
 # d68be31fd1d443d3962c3777765dd07a
 #: ../../C13.rst:1431
