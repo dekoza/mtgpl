@@ -218,7 +218,7 @@
 
 .. |C16_percent| image:: images/pie75.png        
 
-.. |ZEN_percent| image:: images/pie45.png        
+.. |ZEN_percent| image:: images/pie50.png        
 
 .. |AKR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -251,7 +251,7 @@
 
 .. |PLS_percent| image:: images/pie45.png        
 
-.. |WWK_percent| image:: images/pie55.png        
+.. |WWK_percent| image:: images/pie60.png        
 
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
