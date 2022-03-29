@@ -81,7 +81,7 @@
 .. |STX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C19_percent| image:: images/pie80.png        
+.. |C19_percent| image:: images/pie85.png        
 
 .. |M10_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
