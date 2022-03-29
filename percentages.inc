@@ -81,7 +81,7 @@
 .. |STX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C19_percent| image:: images/pie85.png        
+.. |C19_percent| image:: images/pie90.png        
 
 .. |M10_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -333,7 +333,7 @@
 
 .. |FUT_percent| image:: images/pie65.png        
 
-.. |KHC_percent| image:: images/pie75.png        
+.. |KHC_percent| image:: images/pie80.png        
 
 .. |ONS_percent| image:: images/pie40.png        
 
