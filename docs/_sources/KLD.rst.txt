@@ -915,18 +915,6 @@
    When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control.
 
 
-:mtgtip:`Wild Wanderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d20e020-30e1-4deb-8dfc-4c5fe056193d.jpg?1576382724|https://scryfall.com/card/kld/173/wild-wanderer?utm_source=api>`
-   When Wild Wanderer enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
-
-
-:mtgtip:`Wildest Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fedd63c-22e4-4c36-8a7a-a167a070678f.jpg?1576382736|https://scryfall.com/card/kld/174/wildest-dreams?utm_source=api>`
-   Return X target cards from your graveyard to your hand. Exile Wildest Dreams.
-
-
-:mtgtip:`Wily Bandar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cac6ece3-9889-47fa-9140-420b4f31dd1b.jpg?1576382748|https://scryfall.com/card/kld/175/wily-bandar?utm_source=api>`
-   |mana_2|\ |mana_g|: Wily Bandar gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
-
-
 :mtgtip:`Cloudblazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cb12355-abd8-4bf3-aac1-f710ac162585.jpg?1576382761|https://scryfall.com/card/kld/176/cloudblazer?utm_source=api>`
    Flying
 

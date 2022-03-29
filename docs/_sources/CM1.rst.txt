@@ -26,7 +26,7 @@
 
 
 :mtgtip:`Diaochan, Artful Beauty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d5da41e-61a2-41fd-9d8e-83d51234cc71.jpg?1568580278|https://scryfall.com/card/cm1/5/diaochan-artful-beauty?utm_source=api>`
-   |tap|: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.
+   |tap|: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate only during your turn, before attackers are declared.
 
 
 :mtgtip:`Dragonlair Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c2d4e3e-2c4c-41ec-9e0b-4c70a6bdbdfd.jpg?1568580279|https://scryfall.com/card/cm1/6/dragonlair-spider?utm_source=api>`
@@ -52,7 +52,7 @@
 
 
 :mtgtip:`Loyal Retainers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b573ef7-4fce-44d6-91ec-48a62be8d21c.jpg?1568580345|https://scryfall.com/card/cm1/10/loyal-retainers?utm_source=api>`
-   Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.
+   Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate only during your turn, before attackers are declared.
 
 
 :mtgtip:`Maelstrom Wanderer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/754994fa-cb29-487e-8772-1aa697716b35.jpg?1568580347|https://scryfall.com/card/cm1/11/maelstrom-wanderer?utm_source=api>`

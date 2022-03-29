@@ -1,4 +1,7 @@
 expansions = [
+    "CLB",
+    "CM1",
+    "SNC",
     "NEO",
     "MH2",
     "AFR",
