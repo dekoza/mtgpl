@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-03-29 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -2206,6 +2206,8 @@ msgid ""
 "|mana_1|: Choose target creature with a counter on it. When that creature "
 "dies this turn, return that card to its owner's hand."
 msgstr ""
+"|mana_1|: Wybierz wskazanego stwora mającego znacznik. Kiedy ów stwór umrze "
+"w tej turze, przywróć ową kartę do ręki właściciela."
 
 #: ../../C20.rst:680
 msgid ""
@@ -4614,7 +4616,7 @@ msgstr ""
 
 #: ../../C20.rst:1451
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../C20.rst:1456
 msgid ""
@@ -4645,6 +4647,10 @@ msgid ""
 "it. Put that card into your hand and the rest on the bottom of your library "
 "in a random order."
 msgstr ""
+"Ilekroć umrze wyposażony stwór, możesz ujawniać karty z wierzchu twojej "
+"biblioteki aż ujawnisz kartę stwora mającego z nim wspólny typ stwora. "
+"Umieść ową kartę w twojej ręce, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../C20.rst:1463 ../../C20.rst:1513 ../../C20.rst:1529
 msgid "Equip |mana_1|"
@@ -5353,7 +5359,7 @@ msgstr ""
 
 #: ../../C20.rst:1737
 msgid "Krosan Verge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C20.rst:1741
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-03-29 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -722,6 +722,9 @@ msgid ""
 "way to the battlefield under your control. It's a black Zombie in addition "
 "to its other colors and types. Exile Necromantic Selection."
 msgstr ""
+"Zniszcz wszystkie stwory, po czym przywróć na pole bitwy pod twoim władaniem "
+"kartę stwora umieszczoną w ten sposób w cmentarzu. Jest ona dodatkowo Zombi "
+"oprócz swoich innych typów. Wygnaj ten czar."
 
 #: ../../C14.rst:166
 msgid ""
@@ -1227,7 +1230,7 @@ msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowód
 
 #: ../../C14.rst:329
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../C14.rst:336
 msgid ""

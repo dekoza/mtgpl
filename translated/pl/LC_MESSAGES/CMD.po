@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-03-29 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -4751,11 +4751,11 @@ msgstr ""
 
 #: ../../CMD.rst:1529
 msgid "Jwar Isle Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CMD.rst:1531
 msgid "When Jwar Isle Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kidy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../CMD.rst:1533
 msgid "|tap|: Add |mana_u| or |mana_b|."

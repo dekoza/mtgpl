@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-03-29 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znc/pl/>\n"
 "Language: pl\n"
@@ -252,6 +252,11 @@ msgid ""
 "least one creature card this way, you draw a card. (To mill a card, a player "
 "puts the top card of their library into their graveyard.)"
 msgstr ""
+"Ilekroć jeden lub więcej Łotrzyków pod twoim władaniem zada graczowi "
+"obrażenia bojowe, ów gracz mieli kartę za każde 1 obrażenie mu zadane. Jeśli "
+"ów gracz zmieli co najmniej jedną kartę stwora w ten sposób, dobierz kartę. ("
+"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"cmentarzu.)"
 
 #: ../../ZNC.rst:18
 msgid ""
@@ -267,12 +272,17 @@ msgid ""
 "becomes an X/X Elemental creature with trample and haste until end of turn, "
 "where X is Obuun's power. It's still a land."
 msgstr ""
+"Na początku potyczki w twojej turze, co najwyżej jeden wskazany ląd pod "
+"twoim władaniem staje się do końca tury stworem Żywiołak X/X z tratowaniem i "
+"pośpiechem, gdzie X jest siłą niniejszego stwora. Nadal jest lądem."
 
 #: ../../ZNC.rst:17
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, put a "
 "+1/+1 counter on target creature."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na wskazanym stworze."
 
 #: ../../ZNC.rst:26
 msgid ""
@@ -298,6 +308,8 @@ msgid ""
 "When Trove Warden dies, put each permanent card exiled with it onto the "
 "battlefield under the control of that card's owner."
 msgstr ""
+"Kiedy ten stwór umrze, umieść na polu bitwy każdą kartę bytu wygnaną z jego "
+"użyciem pod władaniem właściciela owej karty."
 
 #: ../../ZNC.rst:34
 msgid ""
@@ -311,6 +323,8 @@ msgid ""
 "Prowl |mana_3|\\ |mana_u| (You may cast this spell for its prowl cost if you "
 "dealt combat damage to a player this turn with a Sphinx or Rogue.)"
 msgstr ""
+"Grasowanie |mana_3|\\ |mana_u| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../ZNC.rst:31 ../../ZNC.rst:57 ../../ZNC.rst:87 ../../ZNC.rst:93
 #: ../../ZNC.rst:149 ../../ZNC.rst:161 ../../ZNC.rst:183 ../../ZNC.rst:255
@@ -323,6 +337,9 @@ msgid ""
 "When Enigma Thief enters the battlefield, for each opponent, return up to "
 "one target nonland permanent that player controls to its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, u każdego przeciwnika, przywróć co "
+"najwyżej jeden wskazany nielądowy byt pod władaniem owego gracza do ręki "
+"właściciela."
 
 #: ../../ZNC.rst:42
 msgid ""
@@ -341,6 +358,9 @@ msgid ""
 "creature spell from that player's graveyard this turn, and you may spend "
 "mana as though it were mana of any color to cast that spell."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz w tej turze "
+"rzucić kartę stwora z cmentarza owego gracza i do jej rzucenia możesz "
+"wydawać manę tak, jakby była maną dowolnego koloru."
 
 #: ../../ZNC.rst:41 ../../ZNC.rst:689
 msgid "Equip |mana_3|"
@@ -363,6 +383,10 @@ msgid ""
 "each creature target player controls. (Until your next turn, those creatures "
 "attack each combat if able and attack a player other than you if able.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ponaglij "
+"każdego stwora pod władaniem owego gracza. (Do twojej następnej tury, owe "
+"stwory atakują w każdej potyczce jeśli mogą i atakują gracza innego niż ty "
+"jeśli mogą.)"
 
 #: ../../ZNC.rst:54
 msgid ""
@@ -631,6 +655,8 @@ msgid ""
 "|mana_1|: Choose target creature with a counter on it. When that creature "
 "dies this turn, return that card to its owner's hand."
 msgstr ""
+"|mana_1|: Wybierz wskazanego stwora mającego znacznik. Kiedy ów stwór umrze "
+"w tej turze, przywróć ową kartę do ręki właściciela."
 
 #: ../../ZNC.rst:136
 msgid ""
@@ -808,6 +834,8 @@ msgid ""
 "Prowl |mana_5|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Rogue.)"
 msgstr ""
+"Grasowanie |mana_5|\\ |mana_u| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../ZNC.rst:191
 msgid ""
@@ -815,6 +843,9 @@ msgid ""
 "damage dealt to your opponents this turn. If this spell's prowl cost was "
 "paid, take an extra turn after this one."
 msgstr ""
+"Stwórz X żetonów czarnego stwora Wróżka Łotrzyk z lataniem, gdzie X jest "
+"liczbą obrażeń zadanych twoim przeciwnikom w tej turze. Jeśli opłacono koszt "
+"grasowania tego czaru, weź dodatkową turę po obecnej."
 
 #: ../../ZNC.rst:196
 msgid ""
@@ -990,6 +1021,7 @@ msgstr "Pośpiech"
 #: ../../ZNC.rst:241
 msgid "Goblin spells and Rogue spells you cast cost |mana_1| less to cast."
 msgstr ""
+"Rzucanie czarów Goblinów oraz czarów Łotrzyków kosztuje cię o |mana_1| mniej."
 
 #: ../../ZNC.rst:248
 msgid ""
@@ -1077,6 +1109,9 @@ msgid ""
 "way to the battlefield under your control. It's a black Zombie in addition "
 "to its other colors and types. Exile Necromantic Selection."
 msgstr ""
+"Zniszcz wszystkie stwory, po czym przywróć na pole bitwy pod twoim władaniem "
+"kartę stwora umieszczoną w ten sposób w cmentarzu. Jest ona dodatkowo Zombi "
+"oprócz swoich innych typów. Wygnaj ten czar."
 
 #: ../../ZNC.rst:274
 msgid ""
@@ -1231,6 +1266,8 @@ msgid ""
 "Whenever a Rogue you control attacks and isn't blocked, it gets +2/+1 until "
 "end of turn."
 msgstr ""
+"Ilekroć Łotrzyk pod twoim władaniem zaatakuje i nie jest blokowany, dostaje "
+"on do końca tury +2/+1."
 
 #: ../../ZNC.rst:318
 msgid ""
@@ -1547,6 +1584,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may put a quest counter on Khalni Heart Expedition."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"umieścić znacznik wyprawy na tym bycie."
 
 #: ../../ZNC.rst:399
 msgid ""
@@ -1991,7 +2030,7 @@ msgstr "Przywróć wskazaną kartę z cmentarza do ręki właściciela."
 
 #: ../../ZNC.rst:531
 msgid "Tap all creatures target player controls."
-msgstr ""
+msgstr "Przekręć wszystkie stwory pod władaniem wskazanego gracza."
 
 #: ../../ZNC.rst:538
 msgid ""
@@ -2108,6 +2147,9 @@ msgid ""
 "haste until end of turn. At the beginning of the next end step, sacrifice "
 "it. If you do, you gain life equal to its toughness."
 msgstr ""
+"Odkręć wskazanego stwora poza twoim władaniem i zyskaj nad nim władaniem. Do "
+"końca tury zyskuje on pośpiech. Na początku najbliższego kroku końcowego, "
+"poświęć go. Jeśli tak zrobisz, zyskaj życia równe jego wytrzymałości."
 
 #: ../../ZNC.rst:580
 msgid ""
@@ -2153,6 +2195,8 @@ msgid ""
 "At the beginning of each end step, if an opponent lost 3 or more life this "
 "turn, you may draw a card. (Damage causes loss of life.)"
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli przeciwnik stracił w tej turze co "
+"najmniej 3 życia, możesz dobrać kartę. (Obrażenia powodują utratę żyć.)"
 
 #: ../../ZNC.rst:596
 msgid ""
@@ -2163,7 +2207,7 @@ msgstr ""
 
 #: ../../ZNC.rst:593
 msgid "Exile up to two target artifacts and/or enchantments."
-msgstr ""
+msgstr "Wygnaj co najwyżej dwa wskazane artefakty i/lub uroki."
 
 #: ../../ZNC.rst:595 ../../ZNC.rst:601
 msgid ""
@@ -2186,6 +2230,8 @@ msgid ""
 "Treacherous Terrain deals damage to each opponent equal to the number of "
 "lands that player controls."
 msgstr ""
+"Ten byt zadaje każdemu przeciwnikowi po tyle obrażeń, iloma lądami ów gracz "
+"włada."
 
 #: ../../ZNC.rst:606
 msgid ""
@@ -2253,7 +2299,7 @@ msgstr ""
 
 #: ../../ZNC.rst:627
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../ZNC.rst:634
 msgid ""
@@ -2319,6 +2365,10 @@ msgid ""
 "it. Put that card into your hand and the rest on the bottom of your library "
 "in a random order."
 msgstr ""
+"Ilekroć umrze wyposażony stwór, możesz ujawniać karty z wierzchu twojej "
+"biblioteki aż ujawnisz kartę stwora mającego z nim wspólny typ stwora. "
+"Umieść ową kartę w twojej ręce, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../ZNC.rst:651
 msgid "Equip |mana_1|"
@@ -2379,15 +2429,16 @@ msgstr ""
 
 #: ../../ZNC.rst:675
 msgid "Whenever Scaretiller becomes tapped, choose one —"
-msgstr ""
+msgstr "Ilekroć ten byt zostanie przekręcony, wybierz jedno —"
 
 #: ../../ZNC.rst:677
 msgid "You may put a land card from your hand onto the battlefield tapped."
-msgstr ""
+msgstr "Możesz umieścić kartę lądu z twojej ręki przekręconą na polu bitwy."
 
 #: ../../ZNC.rst:679
 msgid "Return target land card from your graveyard to the battlefield tapped."
 msgstr ""
+"Przywróć wskazaną kartę lądu z twojego cmentarza przekręconą na pole bitwy."
 
 #: ../../ZNC.rst:690
 msgid ""
@@ -2405,6 +2456,8 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, that player "
 "loses half their life, rounded up."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ów gracz traci "
+"połowę swoich żyć, zaokrąglając wzwyż."
 
 #: ../../ZNC.rst:694
 msgid ""
@@ -2635,11 +2688,11 @@ msgstr ""
 
 #: ../../ZNC.rst:777
 msgid "Jwar Isle Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNC.rst:779
 msgid "When Jwar Isle Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kidy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../ZNC.rst:790
 msgid ""
@@ -2650,7 +2703,7 @@ msgstr ""
 
 #: ../../ZNC.rst:785
 msgid "Krosan Verge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZNC.rst:789
 msgid ""

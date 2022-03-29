@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 14:26+0000\n"
+"PO-Revision-Date: 2022-03-29 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -2243,6 +2243,8 @@ msgid ""
 "|mana_1|: Choose target creature with a counter on it. When that creature "
 "dies this turn, return that card to its owner's hand."
 msgstr ""
+"|mana_1|: Wybierz wskazanego stwora mającego znacznik. Kiedy ów stwór umrze "
+"w tej turze, przywróć ową kartę do ręki właściciela."
 
 #: ../../C21.rst:636
 msgid ""
@@ -4488,7 +4490,7 @@ msgstr ""
 
 #: ../../C21.rst:1361
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../C21.rst:1370
 msgid ""

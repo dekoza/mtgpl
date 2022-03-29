@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-03-29 10:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -3906,7 +3906,7 @@ msgstr "Przywróć wskazaną kartę z cmentarza do ręki właściciela."
 
 #: ../../C13.rst:1151
 msgid "Tap all creatures target player controls."
-msgstr ""
+msgstr "Przekręć wszystkie stwory pod władaniem wskazanego gracza."
 
 #: ../../C13.rst:1158
 msgid ""
@@ -4238,6 +4238,9 @@ msgid ""
 "haste until end of turn. At the beginning of the next end step, sacrifice "
 "it. If you do, you gain life equal to its toughness."
 msgstr ""
+"Odkręć wskazanego stwora poza twoim władaniem i zyskaj nad nim władaniem. Do "
+"końca tury zyskuje on pośpiech. Na początku najbliższego kroku końcowego, "
+"poświęć go. Jeśli tak zrobisz, zyskaj życia równe jego wytrzymałości."
 
 #: ../../C13.rst:1266
 msgid ""
@@ -5649,12 +5652,12 @@ msgstr ""
 # 2437074903f24a13a1cbbd30e13c6c9e
 #: ../../C13.rst:1729
 msgid "Jwar Isle Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 # 11a334f1efb54679b6f8b125b52166c6
 #: ../../C13.rst:1731
 msgid "When Jwar Isle Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kidy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../C13.rst:1742
 msgid ""
