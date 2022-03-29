@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-29 10:53+0000\n"
+"PO-Revision-Date: 2022-03-29 11:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -4168,10 +4168,13 @@ msgid ""
 "from target player's graveyard, then create a 2/2 black Zombie creature "
 "token for each card exiled this way."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie karty stworów z "
+"cmentarza wskazanego gracza, po czym stwórz żeton czarnego stwora Zombi 2/2 "
+"za każdą kartę wygnaną w ten sposób."
 
 #: ../../C15.rst:1283
 msgid "Zombies you control have lifelink."
-msgstr ""
+msgstr "Zombi pod twoim władaniem mają więź życia."
 
 #: ../../C15.rst:1290
 msgid ""

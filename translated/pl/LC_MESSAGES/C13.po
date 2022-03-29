@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 10:54+0000\n"
+"PO-Revision-Date: 2022-03-29 11:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -4203,6 +4203,8 @@ msgstr "Ten czar nie może być skontrowany."
 #: ../../C13.rst:1251
 msgid "Creature spells you control with power 5 or greater can't be countered."
 msgstr ""
+"Czary stworów o sile 5 lub większej pod twoim władaniem nie mogą być "
+"skontrowane."
 
 #: ../../C13.rst:1256
 msgid ""
@@ -4285,7 +4287,7 @@ msgstr ""
 # ee273cedc34d46058beacd9b1bab2ee1
 #: ../../C13.rst:1277
 msgid "Whenever Thraximundar attacks, defending player sacrifices a creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, broniący się gracz poświęca stwora."
 
 # 5900065075ee449db1e01a63299052d5
 #: ../../C13.rst:1279
@@ -4293,6 +4295,7 @@ msgid ""
 "Whenever a player sacrifices a creature, you may put a +1/+1 counter on "
 "Thraximundar."
 msgstr ""
+"Ilekroć gracz poświęci stwora, możesz umieścić znacznik +1/+1 na tym bycie."
 
 #: ../../C13.rst:1286
 msgid ""
