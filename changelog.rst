@@ -3,8 +3,9 @@ Spis zmian
 ***********
 
 2022-03-29
-   * :mtgexp:`MMA` :doc:`Modern Masters<MMA>` - 100%
+   * :mtgexp:`ARB` :doc:`Alara Reborn<ARB>` - 100%
    * :mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` - 100%
+   * :mtgexp:`MMA` :doc:`Modern Masters<MMA>` - 100%
 
 2022-03-28
    * Dokonałem najdłużej odwlekanej i pewnie najbardziej kontrowersyjnej zmiany w tłuaczeniach: słowo "permanent" otrzymało tłumaczenie "byt".
