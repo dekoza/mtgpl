@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 10:54+0000\n"
+"PO-Revision-Date: 2022-03-29 15:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -510,6 +510,11 @@ msgid ""
 "untap during its controller's untap step for as long as you control Wall of "
 "Stolen Identity."
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jest dodatkowo Ścianą oprócz swoich innych typów i "
+"ma obronność. Kiedy tak zrobisz, przekręć skopiowanego stwora i nie odkręci "
+"się on podczas kroku odkręcania swojego władcy przez czas twojego władania "
+"niniejszym bytem."
 
 #: ../../C19.rst:92
 msgid ""
@@ -530,6 +535,8 @@ msgid ""
 "that source's controller loses that much life unless they sacrifice that "
 "many permanents."
 msgstr ""
+"Ilekroć źródło pod władaniem przeciwnika zada temu stworowi obrażenia, "
+"władca owego źródła traci tyle samo żyć, chyba że poświęci tyle samo bytów."
 
 #: ../../C19.rst:91
 msgid ""
@@ -561,7 +568,7 @@ msgstr "Ilekroć odrzucisz kartę lądu, weź |mana_b|\\ |mana_b|."
 
 #: ../../C19.rst:99
 msgid "Whenever you discard a noncreature, nonland card, draw a card."
-msgstr ""
+msgstr "Ilekroć odrzucisz niestworową, nielądową kartę, dobierz kartę."
 
 #: ../../C19.rst:108
 msgid ""
@@ -578,6 +585,8 @@ msgstr "Zaurocz gracza"
 msgid ""
 "Whenever enchanted player draws a card, they lose 2 life and you gain 2 life."
 msgstr ""
+"Ilekroć zauroczony gracz dobierze kartę, traci on 2 życia, a ty zyskaj 2 "
+"życia."
 
 #: ../../C19.rst:107
 msgid ""
@@ -609,10 +618,12 @@ msgid ""
 "Morph—Sacrifice another creature. (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana—Poświęć innego stwora. (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C19.rst:117
 msgid "As Gift of Doom is turned face up, you may attach it to a creature."
-msgstr ""
+msgstr "Odkrywając ten byt, możesz dołączyć go do stwora."
 
 #: ../../C19.rst:128
 msgid ""
@@ -629,12 +640,13 @@ msgstr "(|mana_bp| można opłacić |mana_b| lub 2 życiami.)"
 msgid ""
 "For each |mana_b| in a cost, you may pay 2 life rather than pay that mana."
 msgstr ""
+"Za każdy |mana_b| w koszcie, możesz zapłacić 2 życia zamiast płacić ową manę."
 
 #: ../../C19.rst:127
 msgid ""
 "Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of "
 "Yawgmoth."
-msgstr ""
+msgstr "Ilekroć rzucisz czarny czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C19.rst:132
 msgid ""
@@ -661,12 +673,12 @@ msgstr "Wybierz jedno —"
 #: ../../C19.rst:137
 msgid ""
 "Exile each creature with power greater than the number of cards in your hand."
-msgstr ""
+msgstr "Wygnaj każdego stwora o sile większej niż liczba kart w twojej ręce."
 
 #: ../../C19.rst:139
 msgid ""
 "Exile each creature with power less than the number of cards in your hand."
-msgstr ""
+msgstr "Wygnaj każdego stwora o sile mniejszej niż liczba kart w twojej ręce."
 
 #: ../../C19.rst:146
 msgid ""
@@ -682,12 +694,17 @@ msgid ""
 "creature. Turn it face up any time for its mana cost if it's a creature "
 "card.)"
 msgstr ""
+"Na początku kroku utrzymania każdego przeciwnika, manifestuj wierzchnią "
+"kartę biblioteki owego gracza. (Umieść ją zakrytą na polu bitwy jako stwora "
+"2/2. Odkryj ją w dowolnej chwili za koszt many jeśli jest kartą stwora.)"
 
 #: ../../C19.rst:145
 msgid ""
 "Whenever a creature you control but don't own dies, its owner loses 2 life "
 "and you gain 2 life."
 msgstr ""
+"Ilekroć nie twój własny stwór pod twoim władaniem umrze, jego właściciel "
+"traci 2 życia, a ty zyskaj 2 życia."
 
 #: ../../C19.rst:154
 msgid ""
@@ -698,12 +715,13 @@ msgstr ""
 
 #: ../../C19.rst:149
 msgid "Anje's Ravager attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej potyczce jeśli może."
 
 #: ../../C19.rst:151
 msgid ""
 "Whenever Anje's Ravager attacks, discard your hand, then draw three cards."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, odrzuć twoją rękę, po czym dobierz trzy karty."
 
 #: ../../C19.rst:153 ../../C19.rst:801 ../../C19.rst:907
 msgid ""
@@ -728,6 +746,9 @@ msgid ""
 "graveyard gains flashback until end of turn. The flashback cost is equal to "
 "its mana cost."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, każda karta sztuczki i obrzędu w twoim "
+"cmentarzu zyskuje do końca tury wspomnienie. Koszt wspomnienia jest równy "
+"jej kosztowi many."
 
 #: ../../C19.rst:164
 msgid ""
@@ -743,6 +764,10 @@ msgid ""
 "(Treasure tokens are artifacts with \"|tap|, Sacrifice this artifact: Add "
 "one mana of any color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz X żetonów Skarbu, gdzie X jest "
+"liczbą artefaktów i uroków pod władaniem twoich przeciwników. (Żetony Skarbu "
+"to artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../C19.rst:168
 msgid ""
@@ -758,6 +783,9 @@ msgid ""
 "turn, populate. (Create a token that's a copy of a creature token you "
 "control.)"
 msgstr ""
+"Ten czar zadaje X obrażeń rozdzielonych jak wolisz pomiędzy dowolną liczbę "
+"wskazanych stworów. Ilekroć umrze stwór uszkodzony w ten sposób, zaludnij. ("
+"Stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../C19.rst:172
 msgid ""
@@ -772,6 +800,9 @@ msgid ""
 "creatures, create a token that's a copy of that creature. Those tokens gain "
 "haste. Exile them at the beginning of the next end step."
 msgstr ""
+"Wybierz co najwyżej dwa wskazane stwory poza twoim władaniem. Dla każdego z "
+"owych stworów, stwórz żeton będący kopią owego stwora. Owe żetony zyskują "
+"pośpiech. Wygnaj je na początku najbliższego kroku końcowego."
 
 #: ../../C19.rst:178
 msgid ""
@@ -786,6 +817,9 @@ msgid ""
 "you may play those cards. If this spell was cast from a graveyard, you may "
 "play cards this way without paying their mana costs."
 msgstr ""
+"Wygnaj trzy wierzchnie karty twojej biblioteki. Do końca twojej następnej "
+"tury możesz zagrać owe karty. Jeśli ten czar został rzucony z cmentarza, "
+"możesz zagrywać karty w ten sposób bez płacenia ich kosztów many."
 
 #: ../../C19.rst:177
 msgid ""
@@ -811,6 +845,8 @@ msgid ""
 "When you cast your commander, return Skyfire Phoenix from your graveyard to "
 "the battlefield."
 msgstr ""
+"Kiedy rzucisz swojego dowódcę, przywróć tę kartę z twojego cmentarza na pole "
+"bitwy."
 
 #: ../../C19.rst:190
 msgid ""
@@ -828,6 +864,8 @@ msgid ""
 "Whenever Tectonic Hellion attacks, each player who controls the most lands "
 "sacrifices two lands."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, każdy gracz władający największą liczbą lądów "
+"poświęca dwa lądy."
 
 #: ../../C19.rst:194
 msgid ""
@@ -843,6 +881,10 @@ msgid ""
 "card from their graveyard. Copy that card. You may cast the copy without "
 "paying its mana cost."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy oraz na początku twojego kroku "
+"utrzymania, wybierz losowego gracza. Ów gracz wygania kartę sztuczki lub "
+"obrzędu ze swojego cmentarza. Skopiuj ową kartę. Możesz rzucić ową kopię bez "
+"płacenia jej kosztu many."
 
 #: ../../C19.rst:200
 msgid ""
@@ -856,12 +898,16 @@ msgid ""
 "When Apex Altisaur enters the battlefield, it fights up to one target "
 "creature you don't control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, walczy on z co najwyżej jednym "
+"wskazanym stworem poza twoim władaniem."
 
 #: ../../C19.rst:199
 msgid ""
 "Enrage — Whenever Apex Altisaur is dealt damage, it fights up to one target "
 "creature you don't control."
 msgstr ""
+"Rozjuszenie—Ilekroć ten stwór otrzyma obrażenia, walczy on z co najwyżej "
+"jednym wskazanym stworem poza twoim władaniem."
 
 #: ../../C19.rst:204
 msgid ""
@@ -875,6 +921,8 @@ msgid ""
 "Populate X times. (To populate, create a token that's a copy of a creature "
 "token you control. Do this X times.)"
 msgstr ""
+"Zaludnij X razy. (Zaludniasz tworząc żeton będący kopią żetonu stwora pod "
+"twoim władaniem. Zrób to X razy.)"
 
 #: ../../C19.rst:210
 msgid ""
@@ -907,7 +955,7 @@ msgstr "Przywróć wskazaną kartę bytu z twojego cmentarza do twojej ręki."
 
 #: ../../C19.rst:217
 msgid "Put your commander into your hand from the command zone."
-msgstr ""
+msgstr "Umieść swojego dowódcę w twojej ręce ze strefy dowodzenia."
 
 #: ../../C19.rst:219
 msgid "Entwine |mana_2| (Choose both if you pay the entwine cost.)"
@@ -2511,16 +2559,11 @@ msgid ""
 msgstr ""
 
 #: ../../C19.rst:709
-#, fuzzy
-#| msgid ""
-#| "When Hedonist's Trove enters the battlefield, exile all cards from target "
-#| "opponent's graveyard."
 msgid ""
 "When Hedonist's Trove enters the battlefield, exile target opponent's "
 "graveyard."
 msgstr ""
-"Kiedy ten permanent wejdzie na pole bitwy, wygnaj wszystkie karty z "
-"cmentarza wskazanego przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego przeciwnika."
 
 #: ../../C19.rst:711
 msgid "You may play lands from among cards exiled with Hedonist's Trove."
