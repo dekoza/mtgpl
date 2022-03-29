@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 10:53+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
 "Language: pl\n"
@@ -1519,13 +1519,15 @@ msgstr ""
 
 #: ../../5DN.rst:467
 msgid "Untap all lands you control."
-msgstr ""
+msgstr "Odkręć wszystkie lądy pod twoim władaniem."
 
 #: ../../5DN.rst:469
 msgid ""
 "Until end of turn, lands you control become 2/2 creatures that are still "
 "lands."
 msgstr ""
+"Do końca tury lądy pod twoim władaniem stają się stworami 2/2, które nadal "
+"są lądami."
 
 #: ../../5DN.rst:471
 msgid "Entwine |mana_2|\\ |mana_g| (Choose both if you pay the entwine cost.)"
@@ -1676,6 +1678,9 @@ msgid ""
 "on it for each color of mana spent to cast it. When it dies, you may put its "
 "+1/+1 counters on target artifact creature.)"
 msgstr ""
+"Modułowy—Rozbłysk słońca (Ten stwór wchodzi na pole bitwy mając tyle "
+"znaczników ładunku, ile kolorów many użyto do rzucenia go. Kiedy umrze, "
+"możesz umieścić jego znaczniki +1/+1 na wskazanym artefaktowym stworze.)"
 
 #: ../../5DN.rst:522
 msgid ""
@@ -2312,7 +2317,7 @@ msgstr ""
 
 #: ../../5DN.rst:745
 msgid "Equipped creature has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Wyposażony stwór ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../5DN.rst:754
 msgid ""
@@ -2639,7 +2644,7 @@ msgstr ""
 
 #: ../../5DN.rst:877
 msgid "You may choose not to untap Vedalken Shackles during your untap step."
-msgstr ""
+msgstr "Możesz nie odkręcać tego bytu w twoim kroku odkręcania."
 
 #: ../../5DN.rst:879
 msgid ""
@@ -2647,6 +2652,9 @@ msgid ""
 "equal to the number of Islands you control for as long as Vedalken Shackles "
 "remains tapped."
 msgstr ""
+"|mana_2|, |tap|: Zyskaj władanie nad wskazanym stworze o sile mniejszej lub "
+"równej liczbie Wysp pod twoim władaniem dopóki niniejszy byt jest "
+"przekręcony."
 
 #: ../../5DN.rst:883
 msgid ""

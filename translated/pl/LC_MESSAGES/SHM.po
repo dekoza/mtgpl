@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 14:26+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -1205,7 +1205,7 @@ msgstr ""
 
 #: ../../SHM.rst:347
 msgid "Discard Faerie Macabre: Exile up to two target cards from graveyards."
-msgstr ""
+msgstr "Odrzuć tę kartę: Wygnaj co najwyżej dwie wskazane karty z cmentarzy."
 
 #: ../../SHM.rst:352
 msgid ""
@@ -2650,6 +2650,10 @@ msgid ""
 "of their library. For each card of the chosen color exiled this way, create "
 "a 1/1 blue and black Faerie Rogue creature token with flying."
 msgstr ""
+"|mana_x|\\ |mana_ub|: Wybierz kolor. Wskazany przeciwnik wygania X "
+"wierzchnich kart swojej biblioteki. Za każdą kartę wybranego koloru wygnaną "
+"w ten sposób, stwórz żeton niebiesko-czarnego stwora Wróżka Łotrzyk 1/1 z "
+"lataniem."
 
 #: ../../SHM.rst:904
 msgid ""
@@ -2787,6 +2791,8 @@ msgid ""
 "When you cast this spell, return all cards named Demigod of Revenge from "
 "your graveyard to the battlefield."
 msgstr ""
+"Kiedy rzucisz ten czar, przywróć wszystkie karty o nazwie Demigod of Revenge "
+"z twojego cmentarza na pole bitwy."
 
 #: ../../SHM.rst:955
 msgid "Flying, haste"

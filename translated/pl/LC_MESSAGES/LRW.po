@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 14:26+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -1482,6 +1482,8 @@ msgid ""
 "When Pestermite enters the battlefield, you may tap or untap target "
 "permanent."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przekręcić lub odkręcić wskazany "
+"byt."
 
 #: ../../LRW.rst:462
 msgid ""
@@ -1551,13 +1553,15 @@ msgstr ""
 
 #: ../../LRW.rst:485
 msgid "Other Faerie creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Wróżki pod twoim władaniem dostają +1/+1."
 
 #: ../../LRW.rst:487
 msgid ""
 "Other Faeries you control have shroud. (They can't be the targets of spells "
 "or abilities.)"
 msgstr ""
+"Inne wróżki pod twoim władaniem mają antymagię. (Nie mogą być wskazywane "
+"przez czary lub zdolności.)"
 
 #: ../../LRW.rst:494
 msgid ""
@@ -1637,6 +1641,8 @@ msgid ""
 "When Spellstutter Sprite enters the battlefield, counter target spell with "
 "mana value X or less, where X is the number of Faeries you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, skontruj wskazany czar o skrócie many X "
+"lub mniejszym, gdzie X jest liczbą Wróżek pod twoim władaniem."
 
 #: ../../LRW.rst:528
 msgid ""
@@ -1940,6 +1946,8 @@ msgid ""
 "Whenever you cast a spell during an opponent's turn, you may have target "
 "creature get -1/-1 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar podczas tury przeciwnika, możesz zdecydować, że "
+"wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../LRW.rst:634
 msgid ""
@@ -2157,11 +2165,11 @@ msgstr ""
 
 #: ../../LRW.rst:705
 msgid "Other Goblin creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
 
 #: ../../LRW.rst:707
 msgid "|tap|: Regenerate another target Goblin."
-msgstr ""
+msgstr "|tap|: Zregeneruj innego wskazanego Goblina."
 
 #: ../../LRW.rst:712
 msgid ""
@@ -2190,12 +2198,15 @@ msgid ""
 "When Marsh Flitter enters the battlefield, create two 1/1 black Goblin Rogue "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
+"Goblin Łotrzyk 1/1."
 
 #: ../../LRW.rst:719
 msgid ""
 "Sacrifice a Goblin: Marsh Flitter has base power and toughness 3/3 until end "
 "of turn."
 msgstr ""
+"Poświęć Goblina: Ten stwór ma do końca tury bazową siłę i wytrzymałość 3/3."
 
 #: ../../LRW.rst:724
 msgid ""
@@ -2321,6 +2332,8 @@ msgid ""
 "Target creature gets -1/-1 until end of turn. If you control a Faerie, draw "
 "a card."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -1/-1. Jeśli władasz Wróżką, dobierz "
+"kartę."
 
 #: ../../LRW.rst:780
 msgid ""
@@ -2466,6 +2479,9 @@ msgid ""
 "from their hand, where X is the number of Faeries you control. You choose "
 "one of those cards. That player discards that card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz ujawnia X kart ze swojej "
+"ręki, gdzie X jest liczbą Wróżek pod twoim władaniem. Wybierz jedną z owych "
+"kart. Ów gracz odrzuca ową kartę."
 
 #: ../../LRW.rst:826
 msgid ""
@@ -2508,6 +2524,9 @@ msgid ""
 "from your graveyard to your hand. If that card is a Goblin card, Warren "
 "Pilferers gains haste until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki. Jeśli owa karta ma typ Goblin, ten stwór "
+"dostaje do końca tury pośpiech."
 
 #: ../../LRW.rst:838
 msgid ""
@@ -2610,6 +2629,7 @@ msgstr ""
 msgid ""
 "Blind-Spot Giant can't attack or block unless you control another Giant."
 msgstr ""
+"Ten stwór nie może atakować ani blokować, chyba że władasz innym Gigantem."
 
 #: ../../LRW.rst:872
 msgid ""
@@ -2738,6 +2758,8 @@ msgid ""
 "Choose a Giant creature you control. It deals damage equal to its power to "
 "target creature."
 msgstr ""
+"Wybierz stwora typu Gigant pod twoim władaniem. Zadaje on wskazanemu "
+"stworowi obrażenia równe swojej sile."
 
 #: ../../LRW.rst:924
 msgid ""
@@ -3179,7 +3201,7 @@ msgstr ""
 
 #: ../../LRW.rst:1069
 msgid "Giant spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Gigantów kosztuje cię o |mana_2| mniej."
 
 #: ../../LRW.rst:1074
 msgid ""
@@ -3201,7 +3223,7 @@ msgstr ""
 
 #: ../../LRW.rst:1077
 msgid "|tap|, Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target."
-msgstr ""
+msgstr "|tap|, poświęć Goblina: Ten byt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../LRW.rst:1082
 msgid ""
@@ -3226,6 +3248,8 @@ msgid ""
 "When Thundercloud Shaman enters the battlefield, it deals damage equal to "
 "the number of Giants you control to each non-Giant creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi bez typu "
+"Gigant obrażenia równe liczbie Gigantów pod twoim władaniem."
 
 #: ../../LRW.rst:1090
 msgid ""
@@ -3738,7 +3762,7 @@ msgstr ""
 
 #: ../../LRW.rst:1267
 msgid "When Masked Admirers enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../LRW.rst:1269
 msgid ""
@@ -4205,7 +4229,7 @@ msgstr ""
 
 #: ../../LRW.rst:1435
 msgid "Equipped creature gets +1/+1 and is every creature type."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i jest każdego typu stwora."
 
 #: ../../LRW.rst:1442
 msgid ""
@@ -4442,12 +4466,13 @@ msgstr ""
 #: ../../LRW.rst:1525
 msgid ""
 "Vivid Crag enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../LRW.rst:1529
 msgid ""
 "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../LRW.rst:1538
 msgid ""
@@ -4459,12 +4484,13 @@ msgstr ""
 #: ../../LRW.rst:1533
 msgid ""
 "Vivid Creek enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../LRW.rst:1537
 msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../LRW.rst:1546
 msgid ""
@@ -4476,12 +4502,13 @@ msgstr ""
 #: ../../LRW.rst:1541
 msgid ""
 "Vivid Grove enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../LRW.rst:1545
 msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../LRW.rst:1554
 msgid ""
@@ -4493,12 +4520,13 @@ msgstr ""
 #: ../../LRW.rst:1549
 msgid ""
 "Vivid Marsh enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../LRW.rst:1553
 msgid ""
 "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../LRW.rst:1562
 msgid ""
@@ -4510,7 +4538,7 @@ msgstr ""
 #: ../../LRW.rst:1557
 msgid ""
 "Vivid Meadow enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../LRW.rst:1559 ../../LRW.rst:1573
 msgid "|tap|: Add |mana_w|."
@@ -4520,6 +4548,7 @@ msgstr "|tap|: Weź |mana_w|."
 msgid ""
 "|tap|, Remove a charge counter from Vivid Meadow: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../LRW.rst:1568
 msgid ""

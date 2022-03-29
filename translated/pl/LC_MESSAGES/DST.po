@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 14:25+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dst/pl/>\n"
 "Language: pl\n"
@@ -477,6 +477,9 @@ msgid ""
 "Prevent the next 3 damage that would be dealt to target creature this turn. "
 "For each 1 damage prevented this way, put a +1/+1 counter on that creature."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, jakie mogłyby zostać zadane w tej turze "
+"wskazanemu stworowi. Za każde 1 obrażenie zażegnane w ten sposób, umieść "
+"znacznik +1/+1 na owym stworze."
 
 #: ../../DST.rst:94
 msgid ""
@@ -544,6 +547,8 @@ msgid ""
 "Return target nonland permanent and all other permanents with the same name "
 "as that permanent to their owners' hands."
 msgstr ""
+"Przywróć wskazany nielądowy byt i wszystkie inne byty mające tę samą nazwę "
+"do rąk ich właścicieli."
 
 #: ../../DST.rst:120
 msgid ""
@@ -816,6 +821,8 @@ msgid ""
 "Each player loses X life, discards X cards, sacrifices X creatures, then "
 "sacrifices X lands."
 msgstr ""
+"Każdy gracz traci po X żyć, odrzuca X kart, poświęca X stworów, po czym "
+"poświęca X lądów."
 
 #: ../../DST.rst:220
 msgid ""
@@ -1704,7 +1711,7 @@ msgstr ""
 
 #: ../../DST.rst:527
 msgid "Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager."
-msgstr ""
+msgstr "Poświęć artefakt: Umieść znacznik +1/+1 na tym bycie."
 
 #: ../../DST.rst:536
 msgid ""

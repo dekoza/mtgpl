@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 14:26+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2407,6 +2407,9 @@ msgid ""
 "the stack, players can't cast spells or activate abilities that aren't mana "
 "abilities.)"
 msgstr ""
+"Jeśli ten czar został podbity, ma on ułamek sekundy. (O ile ten czar jest na "
+"stosie, gracze nie mogą rzucać czarów ani aktywować zdolności nie dających "
+"many.)"
 
 # d952cb33052b4d528d87eec699e86b1c
 #: ../../C13.rst:659
@@ -2414,6 +2417,7 @@ msgid ""
 "Molten Disaster deals X damage to each creature without flying and each "
 "player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po X obrażeń."
 
 #: ../../C13.rst:664
 msgid ""
@@ -4379,7 +4383,7 @@ msgstr "Latanie, więź życia"
 # f0e87d17c3de449c85c692e645730299
 #: ../../C13.rst:1317
 msgid "Divinity of Pride gets +4/+4 as long as you have 25 or more life."
-msgstr ""
+msgstr "Ten stwór dostaje +4/+4 o ile masz co najmniej 25 żyć."
 
 #: ../../C13.rst:1324
 msgid ""
@@ -6239,12 +6243,13 @@ msgstr ""
 #: ../../C13.rst:1963
 msgid ""
 "Vivid Crag enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C13.rst:1967
 msgid ""
 "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C13.rst:1976
 msgid ""
@@ -6257,12 +6262,13 @@ msgstr ""
 #: ../../C13.rst:1971
 msgid ""
 "Vivid Creek enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C13.rst:1975
 msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C13.rst:1984
 msgid ""
@@ -6275,12 +6281,13 @@ msgstr ""
 #: ../../C13.rst:1979
 msgid ""
 "Vivid Grove enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C13.rst:1983
 msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C13.rst:1992
 msgid ""
@@ -6293,12 +6300,13 @@ msgstr ""
 #: ../../C13.rst:1987
 msgid ""
 "Vivid Marsh enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C13.rst:1991
 msgid ""
 "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C13.rst:1996
 msgid ""

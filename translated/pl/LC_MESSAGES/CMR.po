@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 14:26+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -6510,6 +6510,8 @@ msgid ""
 "|mana_1|, Return a land you control to its owner's hand: Create a 1/1 blue "
 "Illusion creature token with flying."
 msgstr ""
+"|mana_1|, przywróć ląd pod twoim władaniem do ręki właściciela: Stwórz żeton "
+"niebieskiego stwora Iluzja 1/1 z lataniem."
 
 #: ../../CMR.rst:2264
 msgid ""
@@ -8086,12 +8088,13 @@ msgstr ""
 #: ../../CMR.rst:2827
 msgid ""
 "Vivid Creek enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../CMR.rst:2831
 msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../CMR.rst:2840
 msgid ""
@@ -8103,12 +8106,13 @@ msgstr ""
 #: ../../CMR.rst:2835
 msgid ""
 "Vivid Grove enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../CMR.rst:2839
 msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../CMR.rst:2848
 msgid ""

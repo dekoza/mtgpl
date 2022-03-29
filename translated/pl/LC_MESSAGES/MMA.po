@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 14:28+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mma/pl/>\n"
 "Language: pl\n"
@@ -835,6 +835,9 @@ msgid ""
 "Prevent the next 3 damage that would be dealt to target creature this turn. "
 "For each 1 damage prevented this way, put a +1/+1 counter on that creature."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, jakie mogłyby zostać zadane w tej turze "
+"wskazanemu stworowi. Za każde 1 obrażenie zażegnane w ten sposób, umieść "
+"znacznik +1/+1 na owym stworze."
 
 #: ../../MMA.rst:190
 msgid ""
@@ -964,6 +967,8 @@ msgid ""
 "Return target nonland permanent and all other permanents with the same name "
 "as that permanent to their owners' hands."
 msgstr ""
+"Przywróć wskazany nielądowy byt i wszystkie inne byty mające tę samą nazwę "
+"do rąk ich właścicieli."
 
 #: ../../MMA.rst:234
 msgid ""
@@ -1125,12 +1130,16 @@ msgid ""
 "Prowl |mana_2|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Faerie or Rogue.)"
 msgstr ""
+"Grasowanie |mana_2|\\ |mana_u| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../MMA.rst:285
 msgid ""
 "When Latchkey Faerie enters the battlefield, if its prowl cost was paid, "
 "draw a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli opłacono jego koszt grasowania, "
+"dobierz kartę."
 
 #: ../../MMA.rst:292
 msgid ""
@@ -1164,6 +1173,8 @@ msgid ""
 "|mana_1|, Return a land you control to its owner's hand: Create a 1/1 blue "
 "Illusion creature token with flying."
 msgstr ""
+"|mana_1|, przywróć ląd pod twoim władaniem do ręki właściciela: Stwórz żeton "
+"niebieskiego stwora Iluzja 1/1 z lataniem."
 
 #: ../../MMA.rst:304
 msgid ""
@@ -1177,6 +1188,8 @@ msgid ""
 "Tap an untapped creature you control: Mothdust Changeling gains flying until "
 "end of turn."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór zyskuje do końca "
+"tury latanie."
 
 #: ../../MMA.rst:312
 msgid ""
@@ -1240,6 +1253,9 @@ msgid ""
 "sorcery card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę sztuczki lub obrzędu i umieścić ją w twojej ręce. Umieść "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../MMA.rst:332
 msgid ""
@@ -1250,7 +1266,7 @@ msgstr ""
 
 #: ../../MMA.rst:331
 msgid "Draw two cards, then sacrifice a permanent."
-msgstr ""
+msgstr "Dobierz dwie karty, po czym poświęć byt."
 
 #: ../../MMA.rst:340
 msgid ""
@@ -1269,6 +1285,8 @@ msgid ""
 "When Pestermite enters the battlefield, you may tap or untap target "
 "permanent."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przekręcić lub odkręcić wskazany "
+"byt."
 
 #: ../../MMA.rst:344
 msgid ""
@@ -1283,6 +1301,9 @@ msgid ""
 "bottom of your library in any order. If you do, return Petals of Insight to "
 "its owner's hand. Otherwise, draw three cards."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Możesz umieścić owe karty "
+"dowolnie na spodzie twojej biblioteki. Jeśli tak zrobisz, przywróć ten byt "
+"do ręki właściciela. W przeciwnym razie dobierz trzy karty."
 
 #: ../../MMA.rst:348
 msgid ""
@@ -1328,13 +1349,15 @@ msgstr ""
 
 #: ../../MMA.rst:363
 msgid "Other Faerie creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Wróżki pod twoim władaniem dostają +1/+1."
 
 #: ../../MMA.rst:365
 msgid ""
 "Other Faeries you control have shroud. (They can't be the targets of spells "
 "or abilities.)"
 msgstr ""
+"Inne wróżki pod twoim władaniem mają antymagię. (Nie mogą być wskazywane "
+"przez czary lub zdolności.)"
 
 #: ../../MMA.rst:370
 msgid ""
@@ -1359,6 +1382,8 @@ msgid ""
 "When Spellstutter Sprite enters the battlefield, counter target spell with "
 "mana value X or less, where X is the number of Faeries you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, skontruj wskazany czar o skrócie many X "
+"lub mniejszym, gdzie X jest liczbą Wróżek pod twoim władaniem."
 
 #: ../../MMA.rst:386
 msgid ""
@@ -1418,6 +1443,8 @@ msgid ""
 "When Vedalken Dismisser enters the battlefield, put target creature on top "
 "of its owner's library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazanego stwora na wierzchu "
+"biblioteki właściciela."
 
 #: ../../MMA.rst:408
 msgid ""
@@ -1466,13 +1493,15 @@ msgstr ""
 
 #: ../../MMA.rst:417
 msgid "Auntie's Snitch can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../MMA.rst:419
 msgid ""
 "Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
+"Grasowanie |mana_1|\\ |mana_b| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../MMA.rst:421
 msgid ""
@@ -1480,6 +1509,9 @@ msgid ""
 "Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your "
 "hand."
 msgstr ""
+"Ilekroć Goblin lub Łotrzyk pod twoim władaniem zada graczowi obrażenia "
+"bojowe, jeśli ta karta jest w twoim cmentarzu, możesz przywrócić tę kartę do "
+"twojej ręki."
 
 #: ../../MMA.rst:428
 msgid ""
@@ -1544,6 +1576,8 @@ msgid ""
 "Each player loses X life, discards X cards, sacrifices X creatures, then "
 "sacrifices X lands."
 msgstr ""
+"Każdy gracz traci po X żyć, odrzuca X kart, poświęca X stworów, po czym "
+"poświęca X lądów."
 
 #: ../../MMA.rst:446
 msgid ""
@@ -1565,7 +1599,7 @@ msgstr ""
 
 #: ../../MMA.rst:451
 msgid "Destroy target nongreen creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazanego niezielonego stwora. Nie może on regenerować."
 
 #: ../../MMA.rst:458
 msgid ""
@@ -1600,6 +1634,8 @@ msgid ""
 "Domain — Target creature gets -1/-1 until end of turn for each basic land "
 "type among lands you control."
 msgstr ""
+"Domena — Wskazany stwór dostaje do końca tury -1/-1 za każdy bazowy typ lądy "
+"wśród lądów pod twoim władaniem."
 
 #: ../../MMA.rst:468
 msgid ""
@@ -1613,6 +1649,8 @@ msgid ""
 "Whenever you cast a spell during an opponent's turn, you may have target "
 "creature get -1/-1 until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar podczas tury przeciwnika, możesz zdecydować, że "
+"wskazany stwór dostaje do końca tury -1/-1."
 
 #: ../../MMA.rst:474
 msgid ""
@@ -1626,6 +1664,8 @@ msgid ""
 "Prowl |mana_2|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
+"Grasowanie |mana_2|\\ |mana_b| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../MMA.rst:473
 msgid ""
@@ -1633,6 +1673,9 @@ msgid ""
 "target opponent's library for three cards and exile them. Then that player "
 "shuffles."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli opłacono jego koszt grasowania, "
+"wyszukaj w bibliotece wskazanego przeciwnika trzy karty i wygnaj je. "
+"Następnie ów gracz tasuje."
 
 #: ../../MMA.rst:478
 msgid ""
@@ -1686,7 +1729,7 @@ msgstr ""
 
 #: ../../MMA.rst:493
 msgid "Discard Faerie Macabre: Exile up to two target cards from graveyards."
-msgstr ""
+msgstr "Odrzuć tę kartę: Wygnaj co najwyżej dwie wskazane karty z cmentarzy."
 
 #: ../../MMA.rst:498
 msgid ""
@@ -1709,7 +1752,7 @@ msgstr ""
 
 #: ../../MMA.rst:501
 msgid "If you control a Swamp, destroy target nonblack creature."
-msgstr ""
+msgstr "Jeśli władasz Bagnem, zniszcz wskazanego nieczarnego stwora."
 
 #: ../../MMA.rst:503
 msgid ""
@@ -1746,11 +1789,11 @@ msgstr ""
 
 #: ../../MMA.rst:513
 msgid "Other Goblin creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
 
 #: ../../MMA.rst:515
 msgid "|tap|: Regenerate another target Goblin."
-msgstr ""
+msgstr "|tap|: Zregeneruj innego wskazanego Goblina."
 
 #: ../../MMA.rst:524
 msgid ""
@@ -1764,12 +1807,15 @@ msgid ""
 "When Marsh Flitter enters the battlefield, create two 1/1 black Goblin Rogue "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
+"Goblin Łotrzyk 1/1."
 
 #: ../../MMA.rst:523
 msgid ""
 "Sacrifice a Goblin: Marsh Flitter has base power and toughness 3/3 until end "
 "of turn."
 msgstr ""
+"Poświęć Goblina: Ten stwór ma do końca tury bazową siłę i wytrzymałość 3/3."
 
 #: ../../MMA.rst:528
 msgid ""
@@ -1783,6 +1829,8 @@ msgid ""
 "Target creature gets -1/-1 until end of turn. If you control a Faerie, draw "
 "a card."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -1/-1. Jeśli władasz Wróżką, dobierz "
+"kartę."
 
 #: ../../MMA.rst:534
 msgid ""
@@ -1947,6 +1995,9 @@ msgid ""
 "from their hand, where X is the number of Faeries you control. You choose "
 "one of those cards. That player discards that card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz ujawnia X kart ze swojej "
+"ręki, gdzie X jest liczbą Wróżek pod twoim władaniem. Wybierz jedną z owych "
+"kart. Ów gracz odrzuca ową kartę."
 
 #: ../../MMA.rst:592
 msgid ""
@@ -1968,6 +2019,9 @@ msgid ""
 "from your graveyard to your hand. If that card is a Goblin card, Warren "
 "Pilferers gains haste until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki. Jeśli owa karta ma typ Goblin, ten stwór "
+"dostaje do końca tury pośpiech."
 
 #: ../../MMA.rst:600
 msgid ""
@@ -1982,6 +2036,9 @@ msgid ""
 "that player creates two 1/1 black Goblin Rogue creature tokens, and those "
 "tokens gain haste until end of turn."
 msgstr ""
+"Wskazany gracz poświęca stwora. Jeśli w ten sposób poświęcono Goblina, ów "
+"gracz tworzy dwa żetony czarnego stwora Goblin Łotrzyk 1/1 i owe żetony "
+"zyskują do końca tury pośpiech."
 
 #: ../../MMA.rst:604
 msgid ""
@@ -1994,6 +2051,7 @@ msgstr ""
 msgid ""
 "Blind-Spot Giant can't attack or block unless you control another Giant."
 msgstr ""
+"Ten stwór nie może atakować ani blokować, chyba że władasz innym Gigantem."
 
 #: ../../MMA.rst:608
 msgid ""
@@ -2029,12 +2087,17 @@ msgid ""
 "At the beginning of your upkeep, reveal the top card of your library. If "
 "it's a land card, put it into your graveyard and repeat this process."
 msgstr ""
+"Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli jest kartą lądu, umieść ją w twoim cmentarzu i powtórz ten "
+"proces."
 
 #: ../../MMA.rst:617
 msgid ""
 "Whenever a land card is put into your graveyard from anywhere, put a +1/+1 "
 "counter on Countryside Crusher."
 msgstr ""
+"Ilekroć karta lądu trafi skądkolwiek do twojego cmentarza, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../MMA.rst:622
 msgid ""
@@ -2048,6 +2111,8 @@ msgid ""
 "Choose a Giant creature you control. It deals damage equal to its power to "
 "target creature."
 msgstr ""
+"Wybierz stwora typu Gigant pod twoim władaniem. Zadaje on wskazanemu "
+"stworowi obrażenia równe swojej sile."
 
 #: ../../MMA.rst:628
 msgid ""
@@ -2153,7 +2218,7 @@ msgstr ""
 
 #: ../../MMA.rst:659
 msgid "Glacial Ray deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../MMA.rst:668
 msgid ""
@@ -2230,6 +2295,7 @@ msgid ""
 "When Hammerheim Deadeye enters the battlefield, destroy target creature with "
 "flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora z lataniem."
 
 #: ../../MMA.rst:690
 msgid ""
@@ -2308,12 +2374,16 @@ msgid ""
 "the stack, players can't cast spells or activate abilities that aren't mana "
 "abilities.)"
 msgstr ""
+"Jeśli ten czar został podbity, ma on ułamek sekundy. (O ile ten czar jest na "
+"stosie, gracze nie mogą rzucać czarów ani aktywować zdolności nie dających "
+"many.)"
 
 #: ../../MMA.rst:707
 msgid ""
 "Molten Disaster deals X damage to each creature without flying and each "
 "player."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po X obrażeń."
 
 #: ../../MMA.rst:718
 msgid ""
@@ -2324,17 +2394,19 @@ msgstr ""
 
 #: ../../MMA.rst:713
 msgid "|mana_r|: Pardic Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../MMA.rst:715
 msgid "Suspend 2—|mana_r|\\ |mana_r|"
-msgstr ""
+msgstr "Zawieszenie 2—|mana_r|\\ |mana_r|"
 
 #: ../../MMA.rst:717
 msgid ""
 "Whenever an opponent casts a spell, if Pardic Dragon is suspended, that "
 "player may put a time counter on Pardic Dragon."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, jeśli ta karta jest zawieszona, ów gracz może "
+"umieścić na niej znacznik czasu."
 
 #: ../../MMA.rst:724
 msgid ""
@@ -2349,10 +2421,13 @@ msgid ""
 "or player, it deals that much damage plus 2 to that permanent or player "
 "instead."
 msgstr ""
+"Jeśli źródło będące sztuczką lub obrzędem pod twoim władaniem miałoby zadać "
+"obrażenia bytowi lub graczowi, zamiast tego zadaje ono owemu celowi o 2 "
+"obrażenia więcej."
 
 #: ../../MMA.rst:723
 msgid "At the beginning of each end step, discard your hand."
-msgstr ""
+msgstr "Na początku każdego kroku końcowego, odrzuć twoją rękę."
 
 #: ../../MMA.rst:730
 msgid ""
@@ -2471,7 +2546,7 @@ msgstr ""
 
 #: ../../MMA.rst:759
 msgid "Giant spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Gigantów kosztuje cię o |mana_2| mniej."
 
 #: ../../MMA.rst:766
 msgid ""
@@ -2493,7 +2568,7 @@ msgstr ""
 
 #: ../../MMA.rst:769
 msgid "|tap|, Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target."
-msgstr ""
+msgstr "|tap|, poświęć Goblina: Ten byt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../MMA.rst:774
 msgid ""
@@ -2507,6 +2582,8 @@ msgid ""
 "When Thundercloud Shaman enters the battlefield, it deals damage equal to "
 "the number of Giants you control to each non-Giant creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi bez typu "
+"Gigant obrażenia równe liczbie Gigantów pod twoim władaniem."
 
 #: ../../MMA.rst:778
 msgid ""
@@ -2532,7 +2609,7 @@ msgstr ""
 
 #: ../../MMA.rst:781
 msgid "Torrent of Stone deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../MMA.rst:783
 msgid ""
@@ -2568,7 +2645,7 @@ msgstr ""
 
 #: ../../MMA.rst:793
 msgid "|mana_r|: War-Spike Changeling gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../MMA.rst:800
 msgid ""
@@ -2713,6 +2790,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Hana Kami: Return target Arcane card from "
 "your graveyard to your hand."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ten byt: Przywróć wskazaną kartę Arkanów z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../MMA.rst:836
 msgid ""
@@ -2803,7 +2882,7 @@ msgstr ""
 
 #: ../../MMA.rst:865
 msgid "When Masked Admirers enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../MMA.rst:867
 msgid ""
@@ -2889,13 +2968,15 @@ msgstr ""
 
 #: ../../MMA.rst:891
 msgid "Create a 2/5 green Treefolk Shaman creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Drzewiec Szaman 2/5."
 
 #: ../../MMA.rst:893
 msgid ""
 "Whenever a Forest enters the battlefield under your control, you may return "
 "Reach of Branches from your graveyard to your hand."
 msgstr ""
+"Ilekroć Las wejdzie na pole bitwy pod twoim władaniem, możesz przywrócić tę "
+"kartę z twojego cmentarza do twojej ręki."
 
 #: ../../MMA.rst:898
 msgid ""
@@ -2909,6 +2990,8 @@ msgid ""
 "When Riftsweeper enters the battlefield, choose target face-up exiled card. "
 "Its owner shuffles it into their library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wybierz wskazaną odkrytą wygnaną kartę. "
+"Jej właściciel wtasowuje ją do swojej biblioteki."
 
 #: ../../MMA.rst:908
 msgid ""
@@ -2919,13 +3002,15 @@ msgstr ""
 
 #: ../../MMA.rst:903
 msgid "Untap all lands you control."
-msgstr ""
+msgstr "Odkręć wszystkie lądy pod twoim władaniem."
 
 #: ../../MMA.rst:905
 msgid ""
 "Until end of turn, lands you control become 2/2 creatures that are still "
 "lands."
 msgstr ""
+"Do końca tury lądy pod twoim władaniem stają się stworami 2/2, które nadal "
+"są lądami."
 
 #: ../../MMA.rst:907
 msgid "Entwine |mana_2|\\ |mana_g| (Choose both if you pay the entwine cost.)"
@@ -3073,12 +3158,15 @@ msgstr ""
 #: ../../MMA.rst:945
 msgid "At the beginning of your upkeep, put a spore counter on Thallid."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym bycie."
 
 #: ../../MMA.rst:947
 msgid ""
 "Remove three spore counters from Thallid: Create a 1/1 green Saproling "
 "creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego bytu: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../MMA.rst:956
 msgid ""
@@ -3150,7 +3238,7 @@ msgstr ""
 
 #: ../../MMA.rst:971
 msgid "Put up to two creature cards from your hand onto the battlefield."
-msgstr ""
+msgstr "Umieść co najwyżej dwie karty stwora z twojej ręki na polu bitwy."
 
 #: ../../MMA.rst:973
 msgid "Entwine |mana_2| (Choose both if you pay the entwine cost.)"
@@ -3182,16 +3270,20 @@ msgstr ""
 msgid ""
 "Kicker |mana_x| (You may pay an additional |mana_x| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_x| (Możesz zapłacić dodatkowe |mana_x| podczas rzucania tego "
+"czaru.)"
 
 #: ../../MMA.rst:983
 msgid "Saproling creatures and other Treefolk creatures get +1/+1."
-msgstr ""
+msgstr "Sadzonki i inne Drzewce dostają +1/+1."
 
 #: ../../MMA.rst:985
 msgid ""
 "When Verdeloth the Ancient enters the battlefield, if it was kicked, create "
 "X 1/1 green Saproling creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz X żetonów "
+"zielonego stwora Sadzonka 1/1."
 
 #: ../../MMA.rst:992
 msgid ""
@@ -3257,15 +3349,15 @@ msgstr ""
 
 #: ../../MMA.rst:1009
 msgid "White spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie białych czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../MMA.rst:1011
 msgid "Blue spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie niebieskich czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../MMA.rst:1013
 msgid "Spells your opponents cast cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie czarów kosztuje twoich przeciwników o |mana_1| więcej."
 
 #: ../../MMA.rst:1018
 msgid ""
@@ -3367,6 +3459,8 @@ msgid ""
 "If Progenitus would be put into a graveyard from anywhere, reveal Progenitus "
 "and shuffle it into its owner's library instead."
 msgstr ""
+"Jeśli ta karta miałaby trafić skądkolwiek do cmentarza, zamiast tego ujawnij "
+"tę kartę i wtasuj ją do biblioteki właściciela."
 
 #: ../../MMA.rst:1050
 msgid ""
@@ -3377,17 +3471,19 @@ msgstr ""
 
 #: ../../MMA.rst:1045
 msgid "+1: Creatures you control get +1/+1 and gain haste until end of turn."
-msgstr ""
+msgstr "+1: Stwory pod twoim władaniem dostają do końca tury +1/+1 i pośpiech."
 
 #: ../../MMA.rst:1047
 msgid ""
 "−2: Gain control of target creature until end of turn. Untap that creature. "
 "It gains haste until end of turn."
 msgstr ""
+"–2: Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech."
 
 #: ../../MMA.rst:1049
 msgid "−6: Create five 4/4 red Dragon creature tokens with flying."
-msgstr ""
+msgstr "–6: Stwórz pięć żetonów czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../MMA.rst:1056
 msgid ""
@@ -3447,6 +3543,8 @@ msgid ""
 "Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that "
 "many cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać tyle samo "
+"kart."
 
 #: ../../MMA.rst:1074
 msgid ""
@@ -3460,6 +3558,8 @@ msgid ""
 "When you cast this spell, return all cards named Demigod of Revenge from "
 "your graveyard to the battlefield."
 msgstr ""
+"Kiedy rzucisz ten czar, przywróć wszystkie karty o nazwie Demigod of Revenge "
+"z twojego cmentarza na pole bitwy."
 
 #: ../../MMA.rst:1080
 msgid ""
@@ -3474,7 +3574,7 @@ msgstr "Latanie, więź życia"
 
 #: ../../MMA.rst:1079
 msgid "Divinity of Pride gets +4/+4 as long as you have 25 or more life."
-msgstr ""
+msgstr "Ten stwór dostaje +4/+4 o ile masz co najmniej 25 żyć."
 
 #: ../../MMA.rst:1088
 msgid ""
@@ -3488,12 +3588,16 @@ msgid ""
 "|mana_rw|: Figure of Destiny becomes a Kithkin Spirit with base power and "
 "toughness 2/2."
 msgstr ""
+"|mana_rw|: Ten stwór staje się typu Krewniołek Duch o bazowych sile i "
+"wytrzymałości 2/2."
 
 #: ../../MMA.rst:1085
 msgid ""
 "|mana_rw|\\ |mana_rw|\\ |mana_rw|: If Figure of Destiny is a Spirit, it "
 "becomes a Kithkin Spirit Warrior with base power and toughness 4/4."
 msgstr ""
+"|mana_rw|\\ |mana_rw|\\ |mana_rw|: Jeśli ten stwór jest Duchem, staje się "
+"typu Krewniołek Duch Wojownik o bazowych sile i wytrzymałości 4/4."
 
 #: ../../MMA.rst:1087
 msgid ""
@@ -3501,6 +3605,9 @@ msgid ""
 "Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar "
 "with base power and toughness 8/8, flying, and first strike."
 msgstr ""
+"|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Jeśli "
+"ten stwór jest Wojownikiem, staje się typu Krewniołek Duch Wojownik Awatar o "
+"bazowych sile i wytrzymałości 8/8, lataniem i pierwszym ciosem."
 
 #: ../../MMA.rst:1094
 msgid ""
@@ -3552,6 +3659,10 @@ msgid ""
 "of their library. For each card of the chosen color exiled this way, create "
 "a 1/1 blue and black Faerie Rogue creature token with flying."
 msgstr ""
+"|mana_x|\\ |mana_ub|: Wybierz kolor. Wskazany przeciwnik wygania X "
+"wierzchnich kart swojej biblioteki. Za każdą kartę wybranego koloru wygnaną "
+"w ten sposób, stwórz żeton niebiesko-czarnego stwora Wróżka Łotrzyk 1/1 z "
+"lataniem."
 
 #: ../../MMA.rst:1118
 msgid ""
@@ -3576,6 +3687,8 @@ msgid ""
 "Create a 1/1 black and green Worm creature token for each land card in your "
 "graveyard."
 msgstr ""
+"Stwórz żeton czarno-zielonego stwora Robal 1/1 za każdą kartę lądu w twoim "
+"cmentarzu."
 
 #: ../../MMA.rst:1130
 msgid ""
@@ -3627,7 +3740,7 @@ msgstr ""
 
 #: ../../MMA.rst:1139
 msgid "Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager."
-msgstr ""
+msgstr "Poświęć artefakt: Umieść znacznik +1/+1 na tym bycie."
 
 #: ../../MMA.rst:1141 ../../MMA.rst:1147 ../../MMA.rst:1155
 msgid ""
@@ -3658,6 +3771,9 @@ msgid ""
 "on it for each color of mana spent to cast it. When it dies, you may put its "
 "+1/+1 counters on target artifact creature.)"
 msgstr ""
+"Modułowy—Rozbłysk słońca (Ten stwór wchodzi na pole bitwy mając tyle "
+"znaczników ładunku, ile kolorów many użyto do rzucenia go. Kiedy umrze, "
+"możesz umieścić jego znaczniki +1/+1 na wskazanym artefaktowym stworze.)"
 
 #: ../../MMA.rst:1156
 msgid ""
@@ -3737,6 +3853,8 @@ msgid ""
 "Epochrasite enters the battlefield with three +1/+1 counters on it if you "
 "didn't cast it from your hand."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając trzy znaczniki +1/+1 jeśli nie rzuciłeś "
+"go z twojej ręki."
 
 #: ../../MMA.rst:1179
 msgid ""
@@ -3744,6 +3862,10 @@ msgid ""
 "suspend. (At the beginning of your upkeep, remove a time counter. When the "
 "last is removed, cast this card without paying its mana cost. It has haste.)"
 msgstr ""
+"Kiedy ten stwór umrze, wygnaj go z trzema znacznikami czasu i zyskuje on "
+"zawieszenie. (Na początku twojego kroku utrzymania, usuń znacznik czasu. "
+"Kiedy ostatni znacznik czasu zostanie usunięty, rzuć tę kartę bez płacenia "
+"kosztu jej many. Ma pośpiech.)"
 
 #: ../../MMA.rst:1186
 msgid ""
@@ -3837,7 +3959,7 @@ msgstr ""
 
 #: ../../MMA.rst:1207
 msgid "Equipped creature has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Wyposażony stwór ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../MMA.rst:1216
 msgid ""
@@ -3880,7 +4002,7 @@ msgstr ""
 
 #: ../../MMA.rst:1225
 msgid "Equipped creature gets +1/+1 and is every creature type."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i jest każdego typu stwora."
 
 #: ../../MMA.rst:1227 ../../MMA.rst:1241 ../../MMA.rst:1249
 msgid "Equip |mana_2|"
@@ -3945,7 +4067,7 @@ msgstr ""
 
 #: ../../MMA.rst:1253
 msgid "You may choose not to untap Vedalken Shackles during your untap step."
-msgstr ""
+msgstr "Możesz nie odkręcać tego bytu w twoim kroku odkręcania."
 
 #: ../../MMA.rst:1255
 msgid ""
@@ -3953,6 +4075,9 @@ msgid ""
 "equal to the number of Islands you control for as long as Vedalken Shackles "
 "remains tapped."
 msgstr ""
+"|mana_2|, |tap|: Zyskaj władanie nad wskazanym stworze o sile mniejszej lub "
+"równej liczbie Wysp pod twoim władaniem dopóki niniejszy byt jest "
+"przekręcony."
 
 #: ../../MMA.rst:1262
 msgid ""
@@ -4063,7 +4188,7 @@ msgstr ""
 #: ../../MMA.rst:1297
 msgid ""
 "Vivid Crag enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../MMA.rst:1299
 msgid "|tap|: Add |mana_r|."
@@ -4073,6 +4198,7 @@ msgstr "|tap|: Weź |mana_r|."
 msgid ""
 "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../MMA.rst:1310
 msgid ""
@@ -4084,7 +4210,7 @@ msgstr ""
 #: ../../MMA.rst:1305
 msgid ""
 "Vivid Creek enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../MMA.rst:1307
 msgid "|tap|: Add |mana_u|."
@@ -4094,6 +4220,7 @@ msgstr "|tap|: Weź |mana_u|."
 msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../MMA.rst:1318
 msgid ""
@@ -4105,7 +4232,7 @@ msgstr ""
 #: ../../MMA.rst:1313
 msgid ""
 "Vivid Grove enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../MMA.rst:1315
 msgid "|tap|: Add |mana_g|."
@@ -4115,6 +4242,7 @@ msgstr "|tap|: Weź |mana_g|."
 msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../MMA.rst:1326
 msgid ""
@@ -4126,12 +4254,13 @@ msgstr ""
 #: ../../MMA.rst:1321
 msgid ""
 "Vivid Marsh enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../MMA.rst:1325
 msgid ""
 "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../MMA.rst:1333
 msgid ""
@@ -4143,7 +4272,7 @@ msgstr ""
 #: ../../MMA.rst:1329
 msgid ""
 "Vivid Meadow enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../MMA.rst:1331
 msgid "|tap|: Add |mana_w|."
@@ -4153,6 +4282,7 @@ msgstr "|tap|: Weź |mana_w|."
 msgid ""
 "|tap|, Remove a charge counter from Vivid Meadow: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #~ msgid ""
 #~ "Target player puts the top four cards of their library into their "

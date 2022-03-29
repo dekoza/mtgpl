@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 14:25+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -1846,6 +1846,8 @@ msgid ""
 "Return target nonland permanent and all other permanents with the same name "
 "as that permanent to their owners' hands."
 msgstr ""
+"Przywróć wskazany nielądowy byt i wszystkie inne byty mające tę samą nazwę "
+"do rąk ich właścicieli."
 
 #: ../../C15.rst:556
 msgid ""
@@ -3039,7 +3041,7 @@ msgstr ""
 
 #: ../../C15.rst:925
 msgid "Giant spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Gigantów kosztuje cię o |mana_2| mniej."
 
 #: ../../C15.rst:932
 msgid ""
@@ -3100,6 +3102,8 @@ msgid ""
 "When Thundercloud Shaman enters the battlefield, it deals damage equal to "
 "the number of Giants you control to each non-Giant creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi bez typu "
+"Gigant obrażenia równe liczbie Gigantów pod twoim władaniem."
 
 #: ../../C15.rst:954
 msgid ""
@@ -4374,6 +4378,8 @@ msgid ""
 "Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that "
 "many cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać tyle samo "
+"kart."
 
 #: ../../C15.rst:1354
 msgid ""
@@ -5494,12 +5500,13 @@ msgstr ""
 #: ../../C15.rst:1813
 msgid ""
 "Vivid Crag enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C15.rst:1817
 msgid ""
 "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C15.rst:1826
 msgid ""
@@ -5511,7 +5518,7 @@ msgstr ""
 #: ../../C15.rst:1821
 msgid ""
 "Vivid Creek enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C15.rst:1823
 msgid "|tap|: Add |mana_u|."
@@ -5521,6 +5528,7 @@ msgstr "|tap|: Weź |mana_u|."
 msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C15.rst:1834
 msgid ""
@@ -5532,12 +5540,13 @@ msgstr ""
 #: ../../C15.rst:1829
 msgid ""
 "Vivid Grove enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C15.rst:1833
 msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C15.rst:1842
 msgid ""
@@ -5549,12 +5558,13 @@ msgstr ""
 #: ../../C15.rst:1837
 msgid ""
 "Vivid Marsh enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C15.rst:1841
 msgid ""
 "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C15.rst:1850
 msgid ""
@@ -5566,12 +5576,13 @@ msgstr ""
 #: ../../C15.rst:1845
 msgid ""
 "Vivid Meadow enters the battlefield tapped with two charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
 #: ../../C15.rst:1849
 msgid ""
 "|tap|, Remove a charge counter from Vivid Meadow: Add one mana of any color."
 msgstr ""
+"|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
 #: ../../C15.rst:1858
 msgid ""

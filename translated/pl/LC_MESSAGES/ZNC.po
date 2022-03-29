@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-28 11:28+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znc/pl/>\n"
 "Language: pl\n"
@@ -725,12 +725,16 @@ msgid ""
 "Prowl |mana_2|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Faerie or Rogue.)"
 msgstr ""
+"Grasowanie |mana_2|\\ |mana_u| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../ZNC.rst:165
 msgid ""
 "When Latchkey Faerie enters the battlefield, if its prowl cost was paid, "
 "draw a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli opłacono jego koszt grasowania, "
+"dobierz kartę."
 
 #: ../../ZNC.rst:172
 msgid ""
@@ -1039,12 +1043,15 @@ msgid ""
 "When Marsh Flitter enters the battlefield, create two 1/1 black Goblin Rogue "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora "
+"Goblin Łotrzyk 1/1."
 
 #: ../../ZNC.rst:259
 msgid ""
 "Sacrifice a Goblin: Marsh Flitter has base power and toughness 3/3 until end "
 "of turn."
 msgstr ""
+"Poświęć Goblina: Ten stwór ma do końca tury bazową siłę i wytrzymałość 3/3."
 
 #: ../../ZNC.rst:264
 msgid ""
@@ -1216,6 +1223,8 @@ msgid ""
 "Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
+"Grasowanie |mana_1|\\ |mana_b| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../ZNC.rst:311
 msgid ""
@@ -2035,6 +2044,10 @@ msgid ""
 "of their library. For each card of the chosen color exiled this way, create "
 "a 1/1 blue and black Faerie Rogue creature token with flying."
 msgstr ""
+"|mana_x|\\ |mana_ub|: Wybierz kolor. Wskazany przeciwnik wygania X "
+"wierzchnich kart swojej biblioteki. Za każdą kartę wybranego koloru wygnaną "
+"w ten sposób, stwórz żeton niebiesko-czarnego stwora Wróżka Łotrzyk 1/1 z "
+"lataniem."
 
 #: ../../ZNC.rst:562
 msgid ""

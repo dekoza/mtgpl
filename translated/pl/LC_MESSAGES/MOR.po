@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 10:38+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mor/pl/>\n"
 "Language: pl\n"
@@ -844,12 +844,16 @@ msgid ""
 "Prowl |mana_2|\\ |mana_u| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Faerie or Rogue.)"
 msgstr ""
+"Grasowanie |mana_2|\\ |mana_u| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../MOR.rst:221
 msgid ""
 "When Latchkey Faerie enters the battlefield, if its prowl cost was paid, "
 "draw a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli opłacono jego koszt grasowania, "
+"dobierz kartę."
 
 #: ../../MOR.rst:226
 msgid ""
@@ -886,6 +890,8 @@ msgid ""
 "Tap an untapped creature you control: Mothdust Changeling gains flying until "
 "end of turn."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór zyskuje do końca "
+"tury latanie."
 
 #: ../../MOR.rst:240
 msgid ""
@@ -1120,13 +1126,15 @@ msgstr ""
 
 #: ../../MOR.rst:315
 msgid "Auntie's Snitch can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../MOR.rst:317 ../../MOR.rst:439
 msgid ""
 "Prowl |mana_1|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
+"Grasowanie |mana_1|\\ |mana_b| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../MOR.rst:319
 msgid ""
@@ -1134,6 +1142,9 @@ msgid ""
 "Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your "
 "hand."
 msgstr ""
+"Ilekroć Goblin lub Łotrzyk pod twoim władaniem zada graczowi obrażenia "
+"bojowe, jeśli ta karta jest w twoim cmentarzu, możesz przywrócić tę kartę do "
+"twojej ręki."
 
 #: ../../MOR.rst:324
 msgid ""
@@ -1173,6 +1184,8 @@ msgid ""
 "Prowl |mana_2|\\ |mana_b| (You may cast this for its prowl cost if you dealt "
 "combat damage to a player this turn with a Goblin or Rogue.)"
 msgstr ""
+"Grasowanie |mana_2|\\ |mana_b| (Możesz rzucić to za koszt grasowania jeśli w "
+"tej turze zadałeś graczowi obrażenia bojowe Wróżką lub Łotrzykiem.)"
 
 #: ../../MOR.rst:333
 msgid ""
@@ -1180,6 +1193,9 @@ msgid ""
 "target opponent's library for three cards and exile them. Then that player "
 "shuffles."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli opłacono jego koszt grasowania, "
+"wyszukaj w bibliotece wskazanego przeciwnika trzy karty i wygnaj je. "
+"Następnie ów gracz tasuje."
 
 #: ../../MOR.rst:338
 msgid ""
@@ -1506,6 +1522,9 @@ msgid ""
 "that player creates two 1/1 black Goblin Rogue creature tokens, and those "
 "tokens gain haste until end of turn."
 msgstr ""
+"Wskazany gracz poświęca stwora. Jeśli w ten sposób poświęcono Goblina, ów "
+"gracz tworzy dwa żetony czarnego stwora Goblin Łotrzyk 1/1 i owe żetony "
+"zyskują do końca tury pośpiech."
 
 #: ../../MOR.rst:454
 msgid ""
@@ -1612,12 +1631,17 @@ msgid ""
 "At the beginning of your upkeep, reveal the top card of your library. If "
 "it's a land card, put it into your graveyard and repeat this process."
 msgstr ""
+"Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli jest kartą lądu, umieść ją w twoim cmentarzu i powtórz ten "
+"proces."
 
 #: ../../MOR.rst:489
 msgid ""
 "Whenever a land card is put into your graveyard from anywhere, put a +1/+1 "
 "counter on Countryside Crusher."
 msgstr ""
+"Ilekroć karta lądu trafi skądkolwiek do twojego cmentarza, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../MOR.rst:494
 msgid ""
@@ -1961,7 +1985,7 @@ msgstr ""
 
 #: ../../MOR.rst:599
 msgid "|mana_r|: War-Spike Changeling gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../MOR.rst:604
 msgid ""
@@ -2253,13 +2277,15 @@ msgstr ""
 
 #: ../../MOR.rst:699
 msgid "Create a 2/5 green Treefolk Shaman creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Drzewiec Szaman 2/5."
 
 #: ../../MOR.rst:701
 msgid ""
 "Whenever a Forest enters the battlefield under your control, you may return "
 "Reach of Branches from your graveyard to your hand."
 msgstr ""
+"Ilekroć Las wejdzie na pole bitwy pod twoim władaniem, możesz przywrócić tę "
+"kartę z twojego cmentarza do twojej ręki."
 
 #: ../../MOR.rst:706
 msgid ""

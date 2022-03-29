@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-28 14:26+0000\n"
+"PO-Revision-Date: 2022-03-29 10:14+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -3223,17 +3223,19 @@ msgstr ""
 
 #: ../../TSP.rst:1033
 msgid "|mana_r|: Pardic Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TSP.rst:1035
 msgid "Suspend 2—|mana_r|\\ |mana_r|"
-msgstr ""
+msgstr "Zawieszenie 2—|mana_r|\\ |mana_r|"
 
 #: ../../TSP.rst:1037
 msgid ""
 "Whenever an opponent casts a spell, if Pardic Dragon is suspended, that "
 "player may put a time counter on Pardic Dragon."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, jeśli ta karta jest zawieszona, ów gracz może "
+"umieścić na niej znacznik czasu."
 
 #: ../../TSP.rst:1044
 msgid ""
