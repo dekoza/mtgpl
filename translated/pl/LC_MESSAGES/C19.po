@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 15:35+0000\n"
+"PO-Revision-Date: 2022-03-29 20:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -973,6 +973,8 @@ msgid ""
 "|mana_2|\\ |mana_g|: Exile target creature card from a graveyard, then "
 "populate. (Create a token that's a copy of a creature token you control.)"
 msgstr ""
+"|mana_2|\\ |mana_g|: Wygnaj wskazaną kartę stwora z cmentarza, po czym "
+"zaludnij. (Stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../C19.rst:228
 msgid ""
@@ -986,6 +988,8 @@ msgid ""
 "When Voice of Many enters the battlefield, draw a card for each opponent who "
 "controls fewer creatures than you."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę za każdego przeciwnika, "
+"który ma we władaniu mniej stworów niż ty."
 
 #: ../../C19.rst:236
 msgid ""
@@ -1000,7 +1004,7 @@ msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../C19.rst:235
 msgid "Whenever you discard a card, if it has madness, untap Anje Falkenrath."
-msgstr ""
+msgstr "Ilekroć odrzucisz kartę, jeśli ma ona szaleństwo, odkręć tego stwora."
 
 #: ../../C19.rst:242
 msgid ""
@@ -1012,7 +1016,7 @@ msgstr ""
 
 #: ../../C19.rst:239
 msgid "|mana_2|, |tap|: Create a 0/1 green Egg creature token with defender."
-msgstr ""
+msgstr "|mana_2|, |tap|: Stwórz żeton zielonego stwora Jajo 0/1 z obronnością."
 
 #: ../../C19.rst:241
 msgid ""
@@ -1020,6 +1024,9 @@ msgid ""
 "until you reveal a creature card. Put that card onto the battlefield and the "
 "rest on the bottom of your library in a random order."
 msgstr ""
+"Ilekroć umrze Jajo pod twoim władaniem, ujawniaj karty z wierzchu twojej "
+"biblioteki, aż ujawnisz kartę stwora. Umieść ową kartę na polu bitwy, a "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../C19.rst:248
 msgid ""
@@ -1070,6 +1077,8 @@ msgid ""
 "You may cast noncreature spells from the top of your library. If you cast a "
 "spell this way, you may cast it as though it had flash."
 msgstr ""
+"Możesz rzucać niestworowe czary z wierzchu twojej biblioteki. Rzucając czar "
+"w ten sposób, możesz go rzucić tak, jakby miał błysk."
 
 #: ../../C19.rst:262
 msgid ""
@@ -1089,6 +1098,9 @@ msgid ""
 "all artifact and creature cards in your graveyard that were put there from "
 "the battlefield this turn."
 msgstr ""
+"Kiedy ten stwór umrze, wygnaj go i przywróć na pole bitwy wszystkie karty "
+"artefaktów i stworów z twojego cmentarza, które trafiły tam z pola bitwy w "
+"tej turze."
 
 #: ../../C19.rst:268
 msgid ""
@@ -1102,6 +1114,8 @@ msgid ""
 "When Ghired, Conclave Exile enters the battlefield, create a 4/4 green Rhino "
 "creature token with trample."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Nosorożec "
+"4/4 z tratowaniem."
 
 #: ../../C19.rst:267
 msgid ""
@@ -1109,6 +1123,9 @@ msgid ""
 "and attacking. (To populate, create a token that's a copy of a creature "
 "token you control.)"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zaludnij. Ów żeton wchodzi na pole bitwy "
+"przekręcony i atakujący. (Zaludniając stwórz żeton będący kopią żetonu "
+"stwora pod twoim władaniem.)"
 
 #: ../../C19.rst:276
 msgid ""
@@ -1127,6 +1144,8 @@ msgid ""
 "Greven, Predator Captain gets +X/+0, where X is the amount of life you've "
 "lost this turn."
 msgstr ""
+"Ten stwór dostaje +X/+0, gdzie X jest liczbą żyć straconych przez ciebie w "
+"tej turze."
 
 #: ../../C19.rst:275
 msgid ""
@@ -1134,6 +1153,9 @@ msgid ""
 "draw cards equal to that creature's power and you lose life equal to that "
 "creature's toughness."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
+"zrobisz, dobierz tyle kart, ile siły miał ów stwór i strać tyle żyć, ile "
+"miał on wytrzymałości."
 
 #: ../../C19.rst:284
 msgid ""
@@ -1152,12 +1174,15 @@ msgid ""
 "At the beginning of your end step, each player creates a 1/1 green Plant "
 "creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, każdy gracz tworzy żeton zielonego "
+"stwora Roślina 1/1."
 
 #: ../../C19.rst:283
 msgid ""
 "Whenever a creature token dies, put a +1/+1 counter on Grismold, the "
 "Dreadsower."
 msgstr ""
+"Ilekroć umrze żeton stwora, umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../C19.rst:290
 msgid ""
@@ -1172,12 +1197,16 @@ msgid ""
 "The first face-down creature spell you cast each turn costs |mana_3| less to "
 "cast."
 msgstr ""
+"Rzucenie pierwszego w danej turze czaru zakrytego stwora kosztuje cię o "
+"|mana_3| mniej."
 
 #: ../../C19.rst:289
 msgid ""
 "Whenever a face-down creature enters the battlefield under your control, "
 "draw a card."
 msgstr ""
+"Ilekroć zakryty stwór wejdzie na pole bitwy pod twoim władaniem, dobierz "
+"kartę."
 
 #: ../../C19.rst:296
 msgid ""
@@ -1189,7 +1218,7 @@ msgstr ""
 
 #: ../../C19.rst:293
 msgid "Your opponents can't cast spells during combat."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą rzucać czarów podczas potyczki."
 
 #: ../../C19.rst:295
 msgid ""
@@ -1197,6 +1226,10 @@ msgid ""
 "creature that player controls. (Until your next turn, those creatures attack "
 "each combat if able and attack a player other than you if able.)"
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, ponaglij "
+"każdego stwora pod władaniem owego gracza. (Do twojej następnej tury, owe "
+"stwory atakują w każdej potyczce jeśli mogą i atakują gracza innego niż ty "
+"jeśli mogą.)"
 
 #: ../../C19.rst:304
 msgid ""
@@ -1211,13 +1244,15 @@ msgstr "Latanie, obronność"
 
 #: ../../C19.rst:301
 msgid "As Pramikon, Sky Rampart enters the battlefield, choose left or right."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz lewo lub prawo."
 
 #: ../../C19.rst:303
 msgid ""
 "Each player may attack only the nearest opponent in the chosen direction and "
 "planeswalkers controlled by that opponent."
 msgstr ""
+"Każdy gracz może atakować tylko najbliższego przeciwnika w wybranym kierunku "
+"oraz wędrowców pod władaniem owego przeciwnika."
 
 #: ../../C19.rst:310
 msgid ""
@@ -1232,6 +1267,8 @@ msgid ""
 "If a nontoken creature would die, exile that card with a blood counter on it "
 "instead."
 msgstr ""
+"Jeśli miałby umrzeć nieżetonowy stwór, zamiast tego wygnaj ową kartę ze "
+"znacznikiem krwi."
 
 #: ../../C19.rst:309
 msgid ""
@@ -1240,6 +1277,10 @@ msgid ""
 "double strike, deathtouch, haste, hexproof, indestructible, lifelink, "
 "menace, protection, reach, trample, and vigilance."
 msgstr ""
+"O ile wygnana karta stwora ze znacznikiem krwi ma latanie, niniejszy stwór "
+"ma latanie. To samo tyczy się pierwszego ciosu, podwójnego ciosu, dotyku "
+"śmierci, pośpiechu, antyklątwy, niezniszczalności, więzi życia, złowrogości, "
+"ochrony, zasięgu, tratowania i czujności."
 
 #: ../../C19.rst:316
 msgid ""
@@ -1252,12 +1293,15 @@ msgstr ""
 #: ../../C19.rst:313
 msgid "Prevent all damage that would be dealt to Sevinne, the Chronoclasm."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane temu stworowi."
 
 #: ../../C19.rst:315
 msgid ""
 "Whenever you cast your first instant or sorcery spell from your graveyard "
 "each turn, copy that spell. You may choose new targets for the copy."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy w danej turze czar sztuczki lub obrzędu z "
+"cmentarza, skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C19.rst:322
 msgid ""
@@ -1268,7 +1312,7 @@ msgstr ""
 
 #: ../../C19.rst:319
 msgid "Tahngarth, First Mate can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../C19.rst:321
 msgid ""
@@ -1277,6 +1321,11 @@ msgid ""
 "combat. If you do, choose a player or planeswalker that opponent is "
 "attacking. Tahngarth is attacking that player or planeswalker."
 msgstr ""
+"Ilekroć przeciwnik zaatakuje co najmniej jednym stworem, jeśli niniejszy "
+"stwór jest przekręcony, możesz zdecydować, że przeciwnik zyska władanie do "
+"końca potyczki nad niniejszym stworem. Jeśli tak zrobisz, wybierz gracza lub "
+"wędrowca atakowanego przez tego przeciwnika. Niniejszy stwór atakuje owego "
+"gracza lub wędrowca."
 
 #: ../../C19.rst:328
 msgid ""
@@ -1291,6 +1340,8 @@ msgid ""
 "At the beginning of combat on your turn, put a -1/-1 counter on up to one "
 "target creature."
 msgstr ""
+"Na początku potyczki w twojej turze, umieść znacznik -1/-1 na co najwyżej "
+"jednym wskazanym stworze."
 
 #: ../../C19.rst:327
 msgid ""
