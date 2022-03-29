@@ -10,7 +10,7 @@
 .. |SOM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SHM_percent| image:: images/pie40.png        
+.. |SHM_percent| image:: images/pie45.png        
 
 .. |2ED_percent| image:: images/pie60.png        
 
@@ -35,7 +35,7 @@
 
 .. |CMR_percent| image:: images/pie60.png        
 
-.. |CMD_percent| image:: images/pie65.png        
+.. |CMD_percent| image:: images/pie70.png        
 
 .. |AKH_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -46,7 +46,7 @@
 .. |6ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |LRW_percent| image:: images/pie45.png        
+.. |LRW_percent| image:: images/pie50.png        
 
 .. |EXO_percent| image:: images/pie45.png        
 
@@ -118,7 +118,7 @@
 .. |THS_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MOR_percent| image:: images/pie45.png        
+.. |MOR_percent| image:: images/pie50.png        
 
 .. |ORI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -133,7 +133,7 @@
 
 .. |POR_percent| image:: images/pie70.png        
 
-.. |MIC_percent| image:: images/pie75.png        
+.. |MIC_percent| image:: images/pie80.png        
 
 .. |JMP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -210,7 +210,8 @@
 .. |RTR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MMA_percent| image:: images/pie75.png        
+.. |MMA_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |AER_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -258,7 +259,7 @@
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C15_percent| image:: images/pie70.png        
+.. |C15_percent| image:: images/pie75.png        
 
 .. |GNT_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -272,7 +273,7 @@
 .. |BNG_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C14_percent| image:: images/pie70.png        
+.. |C14_percent| image:: images/pie75.png        
 
 .. |LEA_percent| image:: images/pie60.png        
 
@@ -291,7 +292,8 @@
 .. |2XM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ZNC_percent| image:: images/pie85.png        
+.. |ZNC_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |DTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -303,7 +305,7 @@
 
 .. |APC_percent| image:: images/pie45.png        
 
-.. |EVE_percent| image:: images/pie45.png        
+.. |EVE_percent| image:: images/pie50.png        
 
 .. |S00_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -344,7 +346,7 @@
 
 .. |VOC_percent| image:: images/pie70.png        
 
-.. |C13_percent| image:: images/pie70.png        
+.. |C13_percent| image:: images/pie75.png        
 
 .. |WAR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

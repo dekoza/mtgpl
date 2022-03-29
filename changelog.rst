@@ -2,23 +2,27 @@
 Spis zmian
 ***********
 
+2022-03-29
+   * :mtgexp:`MMA` :doc:`Modern Masters<MMA>` - 100%
+   * :mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` - 100%
+
 2022-03-28
    * Dokonałem najdłużej odwlekanej i pewnie najbardziej kontrowersyjnej zmiany w tłuaczeniach: słowo "permanent" otrzymało tłumaczenie "byt".
      Jednocześnie wiele kart posiadających zdolność wyzwalaną przy ich wejściu na pole bitwy ("Kiedy ten ... wejdzie na pole bitwy") otrzymało
      zbiorcze tłumaczenie mówiące "Kiedy ten byt wejdzie na pole bitwy" - oryginalne słownictwo zostanie utrzymane tylko tam, gdzie będzie to
      miało semantyczne uzasadnienie.
-   * Modern Master 2015 - 100%
-   * Commander Arsenal - 100%
-   * Masters 25 - 100%
+   * :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` - 100%
+   * :mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` - 100%
+   * :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 - 100%
 
 2022-03-21
-   * Kamigawa: Neon Dynasty - 100%
+   * :mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` - 100%
 
 2022-02-22
-   * Innistrad: Crimson Vow - 100%
+   * :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` - 100%
 
 2021-09-20
-   * Innistrad: Midnight Hunt - 100%
+   * :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` - 100%
 
 2021-07-24
    * Seventh Edition - 100%
@@ -36,7 +40,7 @@ Spis zmian
    * Tłumaczenie AFR przeniesione do Areny.
 
 2021-07-07
-   * Pełne tłumaczenie dodatku :doc:`Adventures in Forgotten Realms<AFR>`
+   * :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` - 100%
 
 2021-04-19
    * Początek dużej aktualizacji słownictwa - "converted mana cost" zmienił się w "mana value" oraz
@@ -56,11 +60,11 @@ Spis zmian
    * Przetłumaczone wszystkie karty dostępne w MTG Arena.
 
 2021-03-24
-   * Ultimate Masters - 100%
+   * :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` - 100%
    * Uzupełnienie braków w TSR
 
 2021-03-23
-   * Double Masters - 100%
+   * :mtgexp:`2XM` :doc:`Double Masters<2XM>` - 100%
 
 2021-03-22
    * Rise of the Eldrazi - 100%
@@ -88,11 +92,11 @@ Spis zmian
    * Magic 2010 - 100%
    * Magic 2011 - 100%
    * Magic 2012 - 100%
-   * Eternal Masters - 100%
-   * Iconic Masters - 100%
+   * :mtgexp:`EMA` :doc:`Eternal Masters<EMA>` - 100%
+   * :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` - 100%
 
 2021-03-01
-   * Modern Masters 2017 - 100%
+   * :mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` - 100%
    * Avacyn Restored - 100%
 
 2021-02-22

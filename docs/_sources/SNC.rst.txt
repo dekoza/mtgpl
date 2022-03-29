@@ -9,6 +9,16 @@
    At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
 
 
+:mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56.jpg?1648488388|https://scryfall.com/card/snc/199/maestros-charm?utm_source=api>`
+   Choose one —
+
+   • Look at the top five cards of your library. Put one of those cards into your hand and the rest into your graveyard.
+
+   • Each opponent loses 3 life and you gain 3 life.
+
+   • Maestros Charm deals 5 damage to target creature or planeswalker.
+
+
 :mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
    (|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)
 
