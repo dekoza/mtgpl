@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-30 18:05+0000\n"
+"PO-Revision-Date: 2022-03-30 18:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -861,6 +861,8 @@ msgid ""
 "If a spell would deal damage to a permanent or player, prevent 1 damage that "
 "spell would deal to that permanent or player."
 msgstr ""
+"Jeśli czar miałby zadać obrażenia bytowi lub graczowi, zażegnaj 1 obrażenie "
+"ów czar mógłby zadać owemu bytowi lub graczowi."
 
 #: ../../TSP.rst:224
 msgid ""
@@ -871,7 +873,7 @@ msgstr ""
 
 #: ../../TSP.rst:223
 msgid "Put target face-up exiled card into its owner's graveyard."
-msgstr ""
+msgstr "Umieść wskazaną odkrytą wygnaną kartę w cmentarzu jej właściciela."
 
 #: ../../TSP.rst:230
 msgid ""
@@ -904,6 +906,8 @@ msgid ""
 "All Slivers have \"|tap|: This permanent deals 1 damage to target attacking "
 "or blocking creature.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|tap|: Ten byt zadaje wskazanemu atakującemu lub "
+"blokującemu stworowi 1 obrażenie.\""
 
 #: ../../TSP.rst:240
 msgid ""
@@ -995,6 +999,8 @@ msgid ""
 "When Spirit Loop is put into a graveyard from the battlefield, return Spirit "
 "Loop to its owner's hand."
 msgstr ""
+"Kiedy ta karta trafi do cmentarza z pola bitwy, przywróć ją do ręki "
+"właściciela."
 
 #: ../../TSP.rst:272
 msgid ""
@@ -1026,11 +1032,11 @@ msgstr ""
 
 #: ../../TSP.rst:275
 msgid "First strike, protection from red"
-msgstr ""
+msgstr "Pierwszy cios, ochrona przed czerwonym"
 
 #: ../../TSP.rst:277
 msgid "When Tivadar of Thorn enters the battlefield, destroy target Goblin."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego Goblina."
 
 #: ../../TSP.rst:282
 msgid ""
