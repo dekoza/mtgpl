@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-30 12:59+0000\n"
+"PO-Revision-Date: 2022-03-30 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -847,6 +847,9 @@ msgid ""
 "basic land types among lands you control. Put one of those cards into your "
 "hand and the rest on the bottom of your library in any order."
 msgstr ""
+"Domena — Spójrz na X wierzchnich kart twojej biblioteki, gdzie X jest liczbą "
+"typów bazowych lądów pośród lądów pod twoim władaniem. Umieść jedną z owych "
+"kart w twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../CON.rst:214
 msgid ""
@@ -878,7 +881,7 @@ msgstr ""
 
 #: ../../CON.rst:217
 msgid "Enchant Forest or Plains"
-msgstr ""
+msgstr "Zaurocz Las lub Równinę"
 
 #: ../../CON.rst:219
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
@@ -912,6 +915,8 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|: Dreadwing gets +3/+0 and gains flying until "
 "end of turn."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_r|: Ten stwór dostaje do końca tury +3/+0 i "
+"latanie."
 
 #: ../../CON.rst:236
 msgid ""
@@ -954,6 +959,10 @@ msgid ""
 "turn. Activate only during your turn. (A creature with fear can't be blocked "
 "except by artifact creatures and/or black creatures.)"
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do "
+"końca tury +2/+2 i postrach. Wskazany stwór dostaje do końca tury -2/-2. "
+"Możesz aktywować tylko w twojej turze. (Stwór z postrachem nie może być "
+"blokowany, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../CON.rst:246
 msgid ""
@@ -1004,6 +1013,8 @@ msgid ""
 "Whenever an opponent draws a card, if you control a red permanent, you may "
 "have Kederekt Parasite deal 1 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik dobierze kartę, jeśli władasz czerwonym bytem, możesz "
+"zdecydować, że ten stwór zada owemu graczowi 1 obrażenie."
 
 #: ../../CON.rst:260
 msgid ""
@@ -1038,7 +1049,7 @@ msgstr ""
 #: ../../CON.rst:267
 msgid ""
 "|mana_2|\\ |mana_r|: Pestilent Kathari gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|: Ten stwór zyskuje od końca tury pierwszy cios."
 
 #: ../../CON.rst:274
 msgid ""
@@ -1049,7 +1060,7 @@ msgstr ""
 
 #: ../../CON.rst:271
 msgid "When Rotting Rats enters the battlefield, each player discards a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz odrzuca kartę."
 
 #: ../../CON.rst:273
 msgid ""
@@ -1072,7 +1083,7 @@ msgstr ""
 
 #: ../../CON.rst:277
 msgid "Salvage Slasher gets +1/+0 for each artifact card in your graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdą kartę artefaktu w twoim cmentarzu."
 
 #: ../../CON.rst:282
 msgid ""
@@ -1101,6 +1112,8 @@ msgid ""
 "When Sedraxis Alchemist enters the battlefield, if you control a blue "
 "permanent, return target nonland permanent to its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz niebieskim bytem, "
+"przywróć wskazany nielądowy byt do ręki właściciela."
 
 #: ../../CON.rst:290
 msgid ""
@@ -1114,6 +1127,8 @@ msgid ""
 "Domain — Target player discards a card for each basic land type among lands "
 "you control."
 msgstr ""
+"Domena — Wskazany kart odrzuca kartę za każdy typ bazowego lądu pośród lądów "
+"pod twoim władaniem."
 
 #: ../../CON.rst:294
 msgid ""
@@ -1127,6 +1142,8 @@ msgid ""
 "Destroy target creature if it has the least power or is tied for least power "
 "among creatures on the battlefield."
 msgstr ""
+"Zniszcz wskazanego stwora jeśli ma najmniejszą siłę lub jest jednym z "
+"mających najmniejszą siłę pośród stworów na polu bitwy."
 
 #: ../../CON.rst:300
 msgid ""
@@ -1137,7 +1154,7 @@ msgstr ""
 
 #: ../../CON.rst:299
 msgid "When a creature dies, destroy enchanted creature."
-msgstr ""
+msgstr "Kiedy umrze stwór, zniszcz zauroczonego stwora."
 
 #: ../../CON.rst:306
 msgid ""
@@ -1170,12 +1187,16 @@ msgid ""
 "At the beginning of your upkeep, if you control a black permanent, you may "
 "put a +1/+1 counter on Bloodhall Ooze."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz czarnym bytem, możesz "
+"umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../CON.rst:311
 msgid ""
 "At the beginning of your upkeep, if you control a green permanent, you may "
 "put a +1/+1 counter on Bloodhall Ooze."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz zielonym bytem, możesz "
+"umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../CON.rst:314
 msgid ""
@@ -1196,6 +1217,8 @@ msgid ""
 "Dark Temper deals 2 damage to target creature. If you control a black "
 "permanent, destroy the creature instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia. Jeśli władasz czarnym "
+"bytem, zamiast tego zniszcz owego stwora."
 
 #: ../../CON.rst:326
 msgid ""
@@ -1244,7 +1267,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a land: Put a +1/+1 counter on Goblin "
 "Razerunners."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|, poświęć ląd: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CON.rst:337
 msgid ""
@@ -1252,6 +1275,9 @@ msgid ""
 "damage equal to the number of +1/+1 counters on it to target player or "
 "planeswalker."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zdecydować, że ten stwór zada "
+"wskazanemu graczowi lub wędrowcowi obrażenia równe liczbie znaczników +1/+1 "
+"na nim."
 
 #: ../../CON.rst:346
 msgid ""
@@ -1266,7 +1292,7 @@ msgstr "Tratowanie, pośpiech"
 
 #: ../../CON.rst:343
 msgid "At the beginning of the end step, sacrifice Hellspark Elemental."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
 #: ../../CON.rst:345
 msgid ""
@@ -1304,7 +1330,7 @@ msgstr ""
 
 #: ../../CON.rst:353
 msgid "|mana_1|\\ |mana_w|: Kranioceros gets +0/+3 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +0/+3."
 
 #: ../../CON.rst:360
 msgid ""
@@ -1326,7 +1352,7 @@ msgstr ""
 
 #: ../../CON.rst:363
 msgid "Destroy target artifact creature."
-msgstr ""
+msgstr "Zniszcz wskazanego artefaktowego stwora."
 
 #: ../../CON.rst:370
 msgid ""
@@ -1342,6 +1368,10 @@ msgid ""
 "next upkeep step unless that player or that planeswalker's controller pays |"
 "mana_u| before that step."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia. Zadaje on "
+"owemu celowi dodatkowe 3 obrażenia na początku twojego najbliższego kroku "
+"utrzymania, chyba że ów gracz lub władca owego wędrowca zapłaci |mana_u| "
+"przed owym krokiem."
 
 #: ../../CON.rst:376
 msgid ""
@@ -1357,6 +1387,7 @@ msgstr "Pośpiech"
 #: ../../CON.rst:375
 msgid "|mana_r|, |tap|: Create a 3/1 red Elemental creature token with haste."
 msgstr ""
+"|mana_r|, |tap|: Stwórz żeton czerwonego stwora Żywiołak 3/1 z pośpiechem."
 
 #: ../../CON.rst:380
 msgid ""
@@ -1371,6 +1402,8 @@ msgid ""
 "amount of damage a creature with deathtouch deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Ten stwór ma dotyk śmierci o ile władasz zielonym bytem. (Stwór otrzymujący "
+"jakiekolwiek obrażenia od stwora z dotykiem śmierci zostaje zniszczony.)"
 
 #: ../../CON.rst:386
 msgid ""
@@ -1429,6 +1462,8 @@ msgid ""
 "When Voracious Dragon enters the battlefield, it deals damage to any target "
 "equal to twice the number of Goblins it devoured."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu celowi obrażenia "
+"równe dwukrotności liczby pożartych Goblinów."
 
 #: ../../CON.rst:404
 msgid ""

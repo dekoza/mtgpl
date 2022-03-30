@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 09:07+0100\n"
-"PO-Revision-Date: 2022-03-29 11:41+0000\n"
+"PO-Revision-Date: 2022-03-30 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nec/pl/>\n"
 "Language: pl\n"
@@ -1177,11 +1177,14 @@ msgstr ""
 
 #: ../../NEC.rst:393
 msgid "|mana_1|\\ |mana_r|, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|, poświęć ląd: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../NEC.rst:395
 msgid "At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zdecydować, że ten stwór zada "
+"wskazanemu graczowi lub wędrowcowi obrażenia równe liczbie znaczników +1/+1 "
+"na nim."
 
 #: ../../NEC.rst:400
 msgid ":mtgtip:`Krenko, Tin Street Kingpin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f51d53fc-8e62-45fd-b2cd-8f93d7f9e1fa.jpg?1644344198|https://scryfall.com/card/nec/107/krenko-tin-street-kingpin?utm_source=api>`"
