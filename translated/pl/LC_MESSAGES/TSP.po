@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-30 17:51+0000\n"
+"PO-Revision-Date: 2022-03-30 18:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsp/pl/>\n"
 "Language: pl\n"
@@ -543,6 +543,8 @@ msgid ""
 "|mana_3|\\ |mana_w|: Exile Flickering Spirit, then return it to the "
 "battlefield under its owner's control."
 msgstr ""
+"|mana_3|\\ |mana_w|: Wygnaj tego stwora, po czym przywróć go na pole bitwy "
+"pod władaniem właściciela."
 
 #: ../../TSP.rst:112
 msgid ""
@@ -563,7 +565,7 @@ msgstr "Obronność"
 
 #: ../../TSP.rst:111
 msgid "Foriysian Interceptor can block an additional creature each combat."
-msgstr ""
+msgstr "Ten stwór może w każdej potyczce blokować dodatkowego stwora."
 
 #: ../../TSP.rst:120
 msgid ""
@@ -596,6 +598,8 @@ msgid ""
 "As an additional cost to cast this spell, tap three untapped white creatures "
 "you control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — przekręć trzy odkręcone białe "
+"stwory pod twoim władaniem."
 
 #: ../../TSP.rst:125
 msgid "Exile target creature."
@@ -606,6 +610,8 @@ msgid ""
 "Flashback |mana_5|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost and any additional costs. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_w| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia i dodatkowe koszty. Następnie wygnaj ją.)"
 
 #: ../../TSP.rst:136
 msgid ""
@@ -635,13 +641,15 @@ msgstr ""
 
 #: ../../TSP.rst:141
 msgid "Whenever Gustcloak Cavalier attacks, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, możesz przekręcić wskazanego stwora."
 
 #: ../../TSP.rst:143
 msgid ""
 "Whenever Gustcloak Cavalier becomes blocked, you may untap Gustcloak "
 "Cavalier and remove it from combat."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, możesz go odkręcić i usunąć z "
+"potyczki."
 
 #: ../../TSP.rst:148
 msgid ""
@@ -695,7 +703,7 @@ msgstr "Czujność"
 
 #: ../../TSP.rst:159
 msgid "When Jedit's Dragoons enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../TSP.rst:168
 msgid ""
@@ -730,7 +738,7 @@ msgstr ""
 
 #: ../../TSP.rst:171
 msgid "Magus of the Disk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../TSP.rst:173
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
@@ -783,6 +791,8 @@ msgid ""
 "Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection "
 "from red."
 msgstr ""
+"Kiedy przeciwnik rzuci czar stwora, jeśli ten byt jest urokiem, ten byt "
+"staje się stworem Gargulec 3/4 z lataniem i ochroną przed czerwonym."
 
 #: ../../TSP.rst:194
 msgid ""
@@ -809,12 +819,12 @@ msgstr ""
 
 #: ../../TSP.rst:199
 msgid "As Pentarch Paladin enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz kolor."
 
 #: ../../TSP.rst:201
 msgid ""
 "|mana_w|\\ |mana_w|, |tap|: Destroy target permanent of the chosen color."
-msgstr ""
+msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany byt wybranego koloru."
 
 #: ../../TSP.rst:212
 msgid ""
