@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-30 12:59+0000\n"
+"PO-Revision-Date: 2022-03-30 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -3359,11 +3359,13 @@ msgid ""
 "At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 "
 "counter on Blood Tyrant for each 1 life lost this way."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy gracz traci po 1 życiu. Umieść "
+"znacznik +1/+1 na tym stworze za każde 1 życie stracone w ten sposób."
 
 #: ../../C16.rst:1033
 msgid ""
 "Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant."
-msgstr ""
+msgstr "Ilekroć gracz przegra grę, umieść pięć znaczników +1/+1 na tym stworze."
 
 #: ../../C16.rst:1040
 msgid ""
@@ -3674,10 +3676,12 @@ msgid ""
 "|mana_w|\\ |mana_u|, |tap|: Put a bribery counter on target creature you "
 "don't control. Its controller draws a card."
 msgstr ""
+"|mana_w|\\ |mana_u|, |tap|: Umieść znacznik przekupstwa na wskazanym stworze "
+"poza twoim władaniem. Jego władca dobiera kartę."
 
 #: ../../C16.rst:1141
 msgid "Creatures with bribery counters on them can't attack or block."
-msgstr ""
+msgstr "Stwory ze znacznikiem przekupstwa nie mogą atakować ani blokować."
 
 #: ../../C16.rst:1146
 msgid ""

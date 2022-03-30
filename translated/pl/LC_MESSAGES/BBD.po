@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-30 14:01+0000\n"
+"PO-Revision-Date: 2022-03-30 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bbd/pl/>\n"
 "Language: pl\n"
@@ -3575,10 +3575,12 @@ msgid ""
 "|mana_w|\\ |mana_u|, |tap|: Put a bribery counter on target creature you "
 "don't control. Its controller draws a card."
 msgstr ""
+"|mana_w|\\ |mana_u|, |tap|: Umieść znacznik przekupstwa na wskazanym stworze "
+"poza twoim władaniem. Jego władca dobiera kartę."
 
 #: ../../BBD.rst:1165
 msgid "Creatures with bribery counters on them can't attack or block."
-msgstr ""
+msgstr "Stwory ze znacznikiem przekupstwa nie mogą atakować ani blokować."
 
 #: ../../BBD.rst:1172
 msgid ""

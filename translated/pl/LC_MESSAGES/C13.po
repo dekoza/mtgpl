@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 21:28+0000\n"
+"PO-Revision-Date: 2022-03-30 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -3563,6 +3563,8 @@ msgid ""
 "Whenever Charnelhoard Wurm deals damage to an opponent, you may return "
 "target card from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia, możesz przywrócić wskazaną "
+"kartę z twojego cmentarza do twojej ręki."
 
 #: ../../C13.rst:1022
 msgid ""
@@ -4076,7 +4078,7 @@ msgstr ""
 # 0ce9a569281c4846907ae39684736b39
 #: ../../C13.rst:1203
 msgid "Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax."
-msgstr ""
+msgstr "Poświęć stwora: Umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../C13.rst:1208
 msgid ""
@@ -4170,6 +4172,8 @@ msgid ""
 "|tap|: Reveal the top card of your library. If it's a land card, put it onto "
 "the battlefield. Otherwise, put it into your hand."
 msgstr ""
+"|tap|: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta lądu, "
+"umieść ją na polu bitwy. W przeciwnym razie umieść ją w twojej ręce."
 
 #: ../../C13.rst:1246
 msgid ""
