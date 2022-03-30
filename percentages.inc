@@ -167,7 +167,8 @@
 
 .. |SCG_percent| image:: images/pie55.png        
 
-.. |TSP_percent| image:: images/pie70.png        
+.. |TSP_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |10E_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
