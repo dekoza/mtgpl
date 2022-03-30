@@ -1,6 +1,8 @@
 ***********
 Spis zmian
 ***********
+2022-03-30
+   * :mtgexp:`CON` :doc:`Conflux<CON>` - 100%
 
 2022-03-29
    * :mtgexp:`ARB` :doc:`Alara Reborn<ARB>` - 100%
