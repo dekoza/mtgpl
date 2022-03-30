@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-29 21:28+0000\n"
+"PO-Revision-Date: 2022-03-30 12:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5ed/pl/>\n"
 "Language: pl\n"
@@ -2555,7 +2555,7 @@ msgstr ""
 
 #: ../../5ED.rst:823
 msgid "|mana_b|: Frozen Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../5ED.rst:830
 msgid ""
@@ -2579,12 +2579,13 @@ msgstr ""
 
 #: ../../5ED.rst:833
 msgid "White spells cost |mana_3| more to cast."
-msgstr ""
+msgstr "Rzucanie białych czarów kosztuje o |mana_3| więcej."
 
 #: ../../5ED.rst:835
 msgid ""
 "Activated abilities of white enchantments cost |mana_3| more to activate."
 msgstr ""
+"Aktywacja aktywowanych zdolności białych uroków kosztuje o |mana_3| więcej."
 
 #: ../../5ED.rst:840
 msgid ""
@@ -2882,7 +2883,7 @@ msgstr ""
 
 #: ../../5ED.rst:945
 msgid "When Paralyze enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../5ED.rst:947
 msgid "Enchanted creature doesn't untap during its controller's untap step."

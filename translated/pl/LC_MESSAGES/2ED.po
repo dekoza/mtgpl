@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-29 21:28+0000\n"
+"PO-Revision-Date: 2022-03-30 12:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2ed/pl/>\n"
 "Language: pl\n"
@@ -1706,7 +1706,7 @@ msgstr ""
 
 #: ../../2ED.rst:517
 msgid "|tap|: Destroy target land."
-msgstr ""
+msgstr "|tap|: Zniszcz wskazany ląd."
 
 #: ../../2ED.rst:519
 msgid ""
@@ -1807,7 +1807,7 @@ msgstr ""
 
 #: ../../2ED.rst:549
 msgid "|mana_b|: Frozen Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../2ED.rst:556
 msgid ""
@@ -1818,12 +1818,13 @@ msgstr ""
 
 #: ../../2ED.rst:553
 msgid "White spells cost |mana_3| more to cast."
-msgstr ""
+msgstr "Rzucanie białych czarów kosztuje o |mana_3| więcej."
 
 #: ../../2ED.rst:555
 msgid ""
 "Activated abilities of white enchantments cost |mana_3| more to activate."
 msgstr ""
+"Aktywacja aktywowanych zdolności białych uroków kosztuje o |mana_3| więcej."
 
 #: ../../2ED.rst:560
 msgid ""
@@ -1860,7 +1861,7 @@ msgstr ""
 
 #: ../../2ED.rst:569
 msgid "As Lich enters the battlefield, you lose life equal to your life total."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, strać tyle żyć, ile masz żyć."
 
 #: ../../2ED.rst:571
 msgid "You don't lose the game for having 0 or less life."
@@ -1879,7 +1880,7 @@ msgstr ""
 #: ../../2ED.rst:577
 msgid ""
 "When Lich is put into a graveyard from the battlefield, you lose the game."
-msgstr ""
+msgstr "Kiedy ten byt trafi do cmentarza z pola bitwy, przegrywasz grę."
 
 #: ../../2ED.rst:584
 msgid ""
@@ -1969,7 +1970,7 @@ msgstr ""
 
 #: ../../2ED.rst:609
 msgid "When Paralyze enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../2ED.rst:611
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -2050,7 +2051,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 #: ../../2ED.rst:637
 msgid ""
 "Add an amount of |mana_b| equal to the sacrificed creature's mana value."
-msgstr ""
+msgstr "Weź tyle |mana_b|, ile wynosił skrót many poświęconego stwora."
 
 #: ../../2ED.rst:640
 msgid ""

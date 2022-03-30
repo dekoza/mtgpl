@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-29 21:28+0000\n"
+"PO-Revision-Date: 2022-03-30 12:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/3ed/pl/>\n"
 "Language: pl\n"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: ../../3ED.rst:523
 msgid "|tap|: Destroy target land."
-msgstr ""
+msgstr "|tap|: Zniszcz wskazany ląd."
 
 #: ../../3ED.rst:525
 msgid ""
@@ -1861,7 +1861,7 @@ msgstr ""
 
 #: ../../3ED.rst:563
 msgid "|mana_b|: Frozen Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../3ED.rst:570
 msgid ""
@@ -1872,12 +1872,13 @@ msgstr ""
 
 #: ../../3ED.rst:567
 msgid "White spells cost |mana_3| more to cast."
-msgstr ""
+msgstr "Rzucanie białych czarów kosztuje o |mana_3| więcej."
 
 #: ../../3ED.rst:569
 msgid ""
 "Activated abilities of white enchantments cost |mana_3| more to activate."
 msgstr ""
+"Aktywacja aktywowanych zdolności białych uroków kosztuje o |mana_3| więcej."
 
 #: ../../3ED.rst:574
 msgid ""
@@ -1993,7 +1994,7 @@ msgstr ""
 
 #: ../../3ED.rst:611
 msgid "When Paralyze enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../3ED.rst:613
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -2074,7 +2075,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 #: ../../3ED.rst:639
 msgid ""
 "Add an amount of |mana_b| equal to the sacrificed creature's mana value."
-msgstr ""
+msgstr "Weź tyle |mana_b|, ile wynosił skrót many poświęconego stwora."
 
 #: ../../3ED.rst:642
 msgid ""

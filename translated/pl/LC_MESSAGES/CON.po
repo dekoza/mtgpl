@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-03-30 12:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -303,6 +303,8 @@ msgid ""
 "Domain — Aven Trailblazer's toughness is equal to the number of basic land "
 "types among lands you control."
 msgstr ""
+"Domena — Wytrzymałość tej karty jest równa liczbie bazowych typów lądów "
+"pośród lądów pod twoim władaniem."
 
 #: ../../CON.rst:34
 msgid ""
@@ -386,6 +388,8 @@ msgstr ""
 msgid ""
 "Prevent all noncombat damage that would be dealt to creatures you control."
 msgstr ""
+"Zażegnaj wszystkie niebojowe obrażenia, jakie mogłyby zostać zadane stworom "
+"pod twoim władaniem."
 
 #: ../../CON.rst:62
 msgid ""
@@ -399,6 +403,8 @@ msgid ""
 "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all "
 "other creatures."
 msgstr ""
+"Stwórz X żetonów białego stwora Piechur 1/1. Jeśli X jest co najmniej 5, "
+"zniszcz wszystkie inne stwory."
 
 #: ../../CON.rst:68
 msgid ""
@@ -416,6 +422,8 @@ msgid ""
 "At the beginning of your upkeep, if you control a blue permanent, you may "
 "create a token that's a copy of Mirror-Sigil Sergeant."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz niebieskim bytem, możesz "
+"stworzyć żeton będący kopią niniejszego stwora."
 
 #: ../../CON.rst:76
 msgid ""
@@ -430,11 +438,11 @@ msgstr "Czujność"
 
 #: ../../CON.rst:73
 msgid "|mana_r|, |tap|: Target creature can't block this turn."
-msgstr ""
+msgstr "|mana_r|, |tap|: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../CON.rst:75
 msgid "|mana_g|, |tap|: Target creature blocks this turn if able."
-msgstr ""
+msgstr "|mana_g|, |tap|: Wskazany stwór blokuje w tej turze jeśli może."
 
 #: ../../CON.rst:82
 msgid ""
@@ -453,6 +461,8 @@ msgid ""
 "Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and "
 "lifelink."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Do końca tury ten "
+"stwór staje się Aniołem, dostaje +3/+3 i zyskuje latanie oraz więź życia."
 
 #: ../../CON.rst:86
 msgid ""
@@ -482,6 +492,8 @@ msgid ""
 "When Rhox Meditant enters the battlefield, if you control a green permanent, "
 "draw a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz zielonym bytem, dobierz "
+"kartę."
 
 #: ../../CON.rst:94
 msgid ""
@@ -492,7 +504,7 @@ msgstr ""
 
 #: ../../CON.rst:93
 msgid "|mana_w|, |tap|: Tap target permanent."
-msgstr ""
+msgstr "|mana_w|, |tap|: Przekręć wskazany byt."
 
 #: ../../CON.rst:98
 msgid ""
@@ -547,6 +559,8 @@ msgid ""
 "When Brackwater Elemental attacks or blocks, sacrifice it at the beginning "
 "of the next end step."
 msgstr ""
+"Kiedy ten stwór zaatakuje lub zablokuje, poświęć go na początku najbliższego "
+"kroku końcowego."
 
 #: ../../CON.rst:113
 msgid ""
@@ -555,6 +569,10 @@ msgid ""
 "the next end step or if it would leave the battlefield. Unearth only as a "
 "sorcery.)"
 msgstr ""
+"Odkopanie |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
 
 #: ../../CON.rst:120
 msgid ""
@@ -624,10 +642,11 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|, |tap|: Destroy target creature or "
 "enchantment."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|, |tap|: Zniszcz wskazanego stwora lub urok."
 
 #: ../../CON.rst:143
 msgid "|mana_2|\\ |mana_u|: Untap Ethersworn Adjudicator."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Odkręć ten byt."
 
 #: ../../CON.rst:150
 msgid ""
@@ -669,6 +688,8 @@ msgid ""
 "|tap|: Target land you control becomes the basic land type of your choice "
 "until end of turn."
 msgstr ""
+"|tap|: Lądy pod twoim władaniem do końca tury stają się bazowymi lądami "
+"wybranego przez ciebie typu."
 
 #: ../../CON.rst:168
 msgid ""
@@ -743,6 +764,9 @@ msgid ""
 "of turn. (Attacking doesn't cause it to tap, and it can't be blocked except "
 "by artifact creatures and/or black creatures.)"
 msgstr ""
+"|mana_w|\\ |mana_b|: Ten stwór zyskuje do końca tury postrach i czujność. ("
+"Atakowanie nie powoduje jego przekręcenia oraz nie może być on blokowany, "
+"chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../CON.rst:190
 msgid ""
@@ -758,6 +782,10 @@ msgid ""
 "way into their graveyard, then you put the creature card onto the "
 "battlefield under your control."
 msgstr ""
+"Wskazany przeciwnik ujawnia karty z wierzchu swojej biblioteki aż ujawni "
+"kartę stwora. Ów gracz umieszcza wszystkie niestworowe karty ujawnione w ten "
+"sposób w swoim cmentarzu, po czym ty umieść ową kartę stwora na polu bitwy "
+"pod twoim władaniem."
 
 #: ../../CON.rst:196
 msgid ""
@@ -803,6 +831,8 @@ msgid ""
 "Target creature gains flying until end of turn. If you control a white "
 "permanent, return View from Above to its owner's hand."
 msgstr ""
+"Wskazany stwór zyskuje do końca tury latanie. Jeśli władasz białym bytem, "
+"przywróć ten czar do ręki właściciela."
 
 #: ../../CON.rst:208
 msgid ""

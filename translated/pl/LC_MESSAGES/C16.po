@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-29 11:41+0000\n"
+"PO-Revision-Date: 2022-03-30 12:59+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -1750,10 +1750,11 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|, |tap|: Destroy target creature or "
 "enchantment."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|, |tap|: Zniszcz wskazanego stwora lub urok."
 
 #: ../../C16.rst:537
 msgid "|mana_2|\\ |mana_u|: Untap Ethersworn Adjudicator."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Odkręć ten byt."
 
 #: ../../C16.rst:542
 msgid ""
