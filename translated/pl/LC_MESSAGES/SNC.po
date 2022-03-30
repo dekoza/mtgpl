@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-30 18:04+0200\n"
-"PO-Revision-Date: 2022-03-29 10:54+0000\n"
+"PO-Revision-Date: 2022-03-30 16:12+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -289,14 +289,16 @@ msgid ""
 "Return target multicolored permanent card with mana value 3 or less from "
 "your graveyard to the battlefield tapped."
 msgstr ""
+"Przywróć wskazaną wielokolorową kartę bytu o skrócie many 3 lub mniejszym z "
+"twojego cmentarza przekręconą na pole bitwy."
 
 #: ../../SNC.rst:27
 msgid "Counter target instant or sorcery spell."
-msgstr ""
+msgstr "Skontruj wskazany czar sztuczki lub obrzędu."
 
 #: ../../SNC.rst:29
 msgid "Destroy target creature or planeswalker with mana value 3 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca o skrócie many 3 lub mniejszym."
 
 #: ../../SNC.rst:38
 msgid ""
