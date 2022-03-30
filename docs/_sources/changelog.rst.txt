@@ -2,6 +2,7 @@
 Spis zmian
 ***********
 2022-03-30
+   * :mtgexp:`ALA` :doc:`Shards of Alara<ALA>` - 100%
    * :mtgexp:`CON` :doc:`Conflux<CON>` - 100%
 
 2022-03-29

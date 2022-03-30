@@ -363,7 +363,8 @@
 .. |VOW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ALA_percent| image:: images/pie70.png        
+.. |ALA_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |ICE_percent| image:: images/pie35.png        
 

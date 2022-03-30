@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-29 12:54+0200\n"
+"POT-Creation-Date: 2022-03-30 18:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -273,7 +273,7 @@ msgid ":mtgexp:`SNC` Streets of New Capenna"
 msgstr ""
 
 #: ../../SNC.rst:10
-msgid ":mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1646591371|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`"
+msgid ":mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1648555799|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:9
@@ -285,6 +285,7 @@ msgid ":mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../SNC.rst:13
+#: ../../SNC.rst:23
 msgid "Choose one —"
 msgstr ""
 
@@ -300,110 +301,126 @@ msgstr ""
 msgid "Maestros Charm deals 5 damage to target creature or planeswalker."
 msgstr ""
 
-#: ../../SNC.rst:28
-msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:23
-msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
+#: ../../SNC.rst:30
+msgid ":mtgtip:`Obscura Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9961562d-cad9-40e5-afae-3ebce77a2260.jpg?1648583418|https://scryfall.com/card/snc/208/obscura-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:25
-msgid "Jetmir's Garden enters the battlefield tapped."
+msgid "Return target multicolored permanent card with mana value 3 or less from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../SNC.rst:27
-#: ../../SNC.rst:35
-#: ../../SNC.rst:43
-#: ../../SNC.rst:51
-#: ../../SNC.rst:59
-msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
+msgid "Counter target instant or sorcery spell."
 msgstr ""
 
-#: ../../SNC.rst:36
-msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+#: ../../SNC.rst:29
+msgid "Destroy target creature or planeswalker with mana value 3 or less."
 msgstr ""
 
-#: ../../SNC.rst:31
-msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
+#: ../../SNC.rst:38
+msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:33
-msgid "Raffine's Tower enters the battlefield tapped."
+msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
 msgstr ""
 
-#: ../../SNC.rst:44
-msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
+#: ../../SNC.rst:35
+msgid "Jetmir's Garden enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:39
-msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
+#: ../../SNC.rst:37
+#: ../../SNC.rst:45
+#: ../../SNC.rst:53
+#: ../../SNC.rst:61
+#: ../../SNC.rst:69
+msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../SNC.rst:46
+msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:41
-msgid "Spara's Headquarters enters the battlefield tapped."
+msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
 msgstr ""
 
-#: ../../SNC.rst:52
-msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
+#: ../../SNC.rst:43
+msgid "Raffine's Tower enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:47
-msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
+#: ../../SNC.rst:54
+msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:49
-msgid "Xander's Lounge enters the battlefield tapped."
+msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
 msgstr ""
 
-#: ../../SNC.rst:60
-msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
+#: ../../SNC.rst:51
+msgid "Spara's Headquarters enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:55
-msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
+#: ../../SNC.rst:62
+msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:57
-msgid "Ziatora's Proving Ground enters the battlefield tapped."
+msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
 msgstr ""
 
-#: ../../SNC.rst:64
-msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1646347891|https://scryfall.com/card/snc/272/plains?utm_source=api>`"
+#: ../../SNC.rst:59
+msgid "Xander's Lounge enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:63
-msgid "(|tap|: Add |mana_w|.)"
+#: ../../SNC.rst:70
+msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:68
-msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1646347909|https://scryfall.com/card/snc/274/island?utm_source=api>`"
+#: ../../SNC.rst:65
+msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
 msgstr ""
 
 #: ../../SNC.rst:67
+msgid "Ziatora's Proving Ground enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:74
+msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1646347891|https://scryfall.com/card/snc/272/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:73
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../SNC.rst:78
+msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1646347909|https://scryfall.com/card/snc/274/island?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:77
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../SNC.rst:72
+#: ../../SNC.rst:82
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1646347875|https://scryfall.com/card/snc/276/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:71
+#: ../../SNC.rst:81
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../SNC.rst:76
+#: ../../SNC.rst:86
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a58066e-f9a2-4508-9cc0-908b1cf747e3.jpg?1646347883|https://scryfall.com/card/snc/278/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:75
+#: ../../SNC.rst:85
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../SNC.rst:79
+#: ../../SNC.rst:89
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c726424a-3336-4e15-9055-4a26371df361.jpg?1646347900|https://scryfall.com/card/snc/280/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:79
+#: ../../SNC.rst:89
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""

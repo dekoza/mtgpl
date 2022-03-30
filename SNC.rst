@@ -19,6 +19,16 @@
    • Maestros Charm deals 5 damage to target creature or planeswalker.
 
 
+:mtgtip:`Obscura Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9961562d-cad9-40e5-afae-3ebce77a2260.jpg?1648583418|https://scryfall.com/card/snc/208/obscura-charm?utm_source=api>`
+   Choose one —
+
+   • Return target multicolored permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+
+   • Counter target instant or sorcery spell.
+
+   • Destroy target creature or planeswalker with mana value 3 or less.
+
+
 :mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
    (|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)
 
