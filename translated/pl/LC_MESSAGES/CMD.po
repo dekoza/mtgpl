@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-03-30 14:56+0000\n"
+"PO-Revision-Date: 2022-03-30 20:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -2441,6 +2441,9 @@ msgid ""
 "this spell during your main phase, Sulfurous Blast deals 3 damage to each "
 "creature and each player instead."
 msgstr ""
+"Ten czar zadaje każdemu stworowi i każdemu graczowi po 2 obrażenia. Jeśli "
+"rzuciłeś ten czar podczas swojej fazy głównej, zamiast tego ten czar zadaje "
+"po 3 obrażenia."
 
 #: ../../CMD.rst:736
 msgid ""
@@ -4441,7 +4444,7 @@ msgstr ""
 
 #: ../../CMD.rst:1413
 msgid "Triskelavus enters the battlefield with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając trzy znaczniki +1/+1."
 
 #: ../../CMD.rst:1415
 msgid ""
@@ -4449,6 +4452,9 @@ msgid ""
 "Triskelavite artifact creature token with flying. It has \"Sacrifice this "
 "creature: This creature deals 1 damage to any target.\""
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 z tego bytu: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Triskelawit 1/1 z lataniem. Ma on \"Poświęć tego stwora:"
+" Zadaje on wskazanemu celowi 1 obrażenie.\""
 
 #: ../../CMD.rst:1424
 msgid ""
