@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-30 14:47+0000\n"
+"PO-Revision-Date: 2022-03-30 16:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2880,6 +2880,8 @@ msgid ""
 "At the beginning of your end step, if you control a creature with power 5 or "
 "greater, you may draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz stworem o sile 5 lub "
+"większej, możesz dobrać kartę."
 
 #: ../../C13.rst:789 ../../C13.rst:1573 ../../C13.rst:1613 ../../C13.rst:1639
 #: ../../C13.rst:1679 ../../C13.rst:1685 ../../C13.rst:1697 ../../C13.rst:1717
@@ -3888,6 +3890,10 @@ msgid ""
 "among them onto the battlefield. Put the rest on the bottom of your library "
 "in any order."
 msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_g|\\ |mana_w|, |tap|: Spójrz na pięć wierzchnich "
+"kart twojej biblioteki. Możesz umieścić spośród nich na polu bitwy kartę "
+"stwora o sile 5 lub większej. Umieść pozostałe dowolnie na spodzie twojej "
+"biblioteki."
 
 #: ../../C13.rst:1152
 msgid ""
@@ -4016,6 +4022,8 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains first strike until "
 "end of turn."
 msgstr ""
+"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"pierwszy cios."
 
 #: ../../C13.rst:1190
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-30 14:56+0000\n"
+"PO-Revision-Date: 2022-03-30 16:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -1066,6 +1066,8 @@ msgid ""
 "When you cycle Resounding Wave, return two target permanents to their "
 "owners' hands."
 msgstr ""
+"Kiedy recyklujesz tę kartę, przywróć dwa wskazane byty do rąk ich "
+"właścicieli."
 
 #: ../../ALA.rst:288
 msgid ""
@@ -1100,6 +1102,9 @@ msgid ""
 "Skill Borrower has all activated abilities of that card. (If any of the "
 "abilities use that card's name, use this creature's name instead.)"
 msgstr ""
+"O ile wierzchnią kartą twojej biblioteki jest karta artefaktu lub stwora, "
+"niniejszy byt ma wszystkie aktywowane zdolności tej karty. (Wszelkie "
+"odwołania do siebie odnoszą się do niniejszego bytu.)"
 
 #: ../../ALA.rst:300
 msgid ""
@@ -1125,6 +1130,9 @@ msgid ""
 "a black creature: Search your library for a card named Sphinx Sovereign, put "
 "it onto the battlefield, then shuffle."
 msgstr ""
+"|mana_2|\\ |mana_u|, |tap|, poświęć białego stwora, niebieskiego stwora i "
+"czarnego stwora: Wyszukaj w twojej bibliotece kartę o nazwie Sphinx "
+"Sovereign, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:308
 msgid ""
@@ -1135,7 +1143,7 @@ msgstr ""
 
 #: ../../ALA.rst:307
 msgid "Steelclad Serpent can't attack unless you control another artifact."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że władasz innym artefaktem."
 
 #: ../../ALA.rst:316
 msgid ""
@@ -1176,6 +1184,8 @@ msgid ""
 "Creatures you control gain shroud until end of turn. (They can't be the "
 "targets of spells or abilities.)"
 msgstr ""
+"Stwory pod twoim władaniem zyskują do końca tury antymagię. (Nie mogą być "
+"wskazywane przez czary lub zdolności.)"
 
 #: ../../ALA.rst:324
 msgid ""
@@ -1190,6 +1200,8 @@ msgid ""
 "(Any amount of damage it deals to a creature is enough to destroy that "
 "creature.)"
 msgstr ""
+"|mana_2|\\ |mana_b|: Ten stwór zyskuje do końca tury dotyk śmierci. (Stwór "
+"otrzymujący od niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../ALA.rst:328
 msgid ""
@@ -1224,6 +1236,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice a non-Zombie creature, then "
 "create a 2/2 black Zombie creature token."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć stwora bez typu Zombi, po czym "
+"stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../ALA.rst:340
 msgid ""
@@ -1241,6 +1255,8 @@ msgid ""
 "When enchanted creature dies, that creature's controller loses life equal to "
 "its toughness."
 msgstr ""
+"Kiedy zauroczony stwór umrze, władca owego stwora traci życia równe jego "
+"wytrzymałości."
 
 #: ../../ALA.rst:344
 msgid ""
@@ -1254,6 +1270,8 @@ msgid ""
 "When Blister Beetle enters the battlefield, target creature gets -1/-1 until "
 "end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury -1/"
+"-1."
 
 #: ../../ALA.rst:350
 msgid ""
@@ -1332,7 +1350,7 @@ msgstr ""
 
 #: ../../ALA.rst:367
 msgid "Whenever another creature dies, you may gain 1 life."
-msgstr ""
+msgstr "Ilekroć umrze inny stwór, możesz zyskać 1 życie."
 
 #: ../../ALA.rst:372
 msgid ""
@@ -1347,6 +1365,9 @@ msgid ""
 "a red creature: Search your library for a card named Prince of Thralls, put "
 "it onto the battlefield, then shuffle."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|, poświęć niebieskiego stwora, czarnego stwora i "
+"czerwonego stwora: Wyszukaj w twojej bibliotece kartę o nazwie Prince of "
+"Thralls, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:374
 msgid ""
@@ -1439,17 +1460,19 @@ msgstr ""
 
 #: ../../ALA.rst:403
 msgid "|tap|, Exile two cards from your graveyard: Draw a card."
-msgstr ""
+msgstr "|tap|, wygnaj dwie karty z twojego cmentarza: Dobierz kartę."
 
 #: ../../ALA.rst:405
 msgid ""
 "If damage would be dealt to you, prevent that damage. Exile a card from your "
 "graveyard for each 1 damage prevented this way."
 msgstr ""
+"Jeśli miałyby zostać tobie zadane obrażenia, zażegnaj je. Wygnaj kartę z "
+"twojego cmentarza za każde 1 obrażenia zażegnane w ten sposób."
 
 #: ../../ALA.rst:407
 msgid "When there are no cards in your graveyard, you lose the game."
-msgstr ""
+msgstr "Kiedy nie ma kart w twoim cmentarzu, przegrywasz grę."
 
 #: ../../ALA.rst:412
 msgid ""
@@ -1482,11 +1505,11 @@ msgstr ""
 
 #: ../../ALA.rst:419
 msgid "|mana_u|, |tap|: Create a 0/1 blue Homunculus artifact creature token."
-msgstr ""
+msgstr "|mana_u|, |tap|: Stwórz żeton niebieskiego stwora Homunkulus 0/1."
 
 #: ../../ALA.rst:421
 msgid "At the beginning of your upkeep, sacrifice a Homunculus."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, poświęć Homunkulusa."
 
 #: ../../ALA.rst:430
 msgid ""
@@ -1497,7 +1520,7 @@ msgstr ""
 
 #: ../../ALA.rst:425
 msgid "Target player discards a card at random."
-msgstr ""
+msgstr "Wskazany gracz odrzuca losową kartę."
 
 #: ../../ALA.rst:427
 msgid ""
@@ -1510,7 +1533,7 @@ msgstr ""
 #: ../../ALA.rst:429
 msgid ""
 "When you cycle Resounding Scream, target player discards two cards at random."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, wskazany gracz odrzuca dwie losowe karty."
 
 #: ../../ALA.rst:436
 msgid ""
@@ -1555,7 +1578,7 @@ msgstr ""
 
 #: ../../ALA.rst:445
 msgid "Exile target card from a graveyard. You gain 3 life."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z cmentarza. Zyskaj 3 życia."
 
 #: ../../ALA.rst:450
 msgid ""
@@ -1569,6 +1592,8 @@ msgid ""
 "|mana_u|: Shore Snapper gains islandwalk until end of turn. (It can't be "
 "blocked as long as defending player controls an Island.)"
 msgstr ""
+"|mana_u|: Ten stwór zyskuje do końca tury podbój wysp. (Nie może być "
+"blokowany o ile broniący się gracz włada Wyspą.)"
 
 #: ../../ALA.rst:456
 msgid ""
@@ -1579,7 +1604,7 @@ msgstr ""
 
 #: ../../ALA.rst:455
 msgid "|mana_b|, Sacrifice a creature: Regenerate Skeletal Kathari."
-msgstr ""
+msgstr "|mana_b|, poświęć stwora: Zregeneruj ten byt."
 
 #: ../../ALA.rst:462
 msgid ""
@@ -1603,6 +1628,8 @@ msgid ""
 "When Tar Fiend enters the battlefield, target player discards a card for "
 "each creature it devoured."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz odrzuca kartę za każdego "
+"stwora, którego pożarł."
 
 #: ../../ALA.rst:468
 msgid ""
@@ -1613,7 +1640,7 @@ msgstr ""
 
 #: ../../ALA.rst:465
 msgid "|mana_r|: Undead Leotau gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../ALA.rst:467
 msgid ""
@@ -1639,12 +1666,16 @@ msgid ""
 "|mana_r|, |tap|: Vein Drinker deals damage equal to its power to target "
 "creature. That creature deals damage equal to its power to Vein Drinker."
 msgstr ""
+"|mana_r|, |tap|: Ten stwór zadaje wskazanemu stworowi obrażenia równe swojej "
+"sile. Ów stwór zadaje obrażenia równe swojej sile niniejszemu."
 
 #: ../../ALA.rst:475
 msgid ""
 "Whenever a creature dealt damage by Vein Drinker this turn dies, put a +1/+1 "
 "counter on Vein Drinker."
 msgstr ""
+"Ilekroć umrze stwór, któremu niniejszy zadał w tej turze obrażenia, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../ALA.rst:482
 msgid ""
@@ -1677,6 +1708,8 @@ msgid ""
 "Sacrifice Bloodpyre Elemental: It deals 4 damage to target creature. "
 "Activate only as a sorcery."
 msgstr ""
+"Poświęć tego stwora: Zadaje on wskazanemu stworowi 4 obrażenia. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../ALA.rst:492
 msgid ""
@@ -1693,6 +1726,7 @@ msgstr "Pośpiech"
 msgid ""
 "|tap|: Target creature with power 5 or greater gains haste until end of turn."
 msgstr ""
+"|tap|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury pośpiech."
 
 #: ../../ALA.rst:498
 msgid ""
@@ -1716,6 +1750,8 @@ msgid ""
 "When Caldera Hellion enters the battlefield, it deals 3 damage to each "
 "creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi po 3 "
+"obrażenia."
 
 #: ../../ALA.rst:502
 msgid ""
@@ -1752,6 +1788,9 @@ msgid ""
 "a green creature: Search your library for a card named Hellkite Overlord, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|, poświęć czarnego stwora, czerwonego stwora i "
+"zielonego stwora: Wyszukaj w twojej bibliotece kartę o nazwie Hellkite "
+"Overlord, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:516
 msgid ""
@@ -1766,6 +1805,9 @@ msgid ""
 "greater, you may have Exuberant Firestoker deal 2 damage to target player or "
 "planeswalker."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz stworem o sile 5 lub "
+"większej, możesz zdecydować, że niniejszy byt zada wskazanemu graczowi lub "
+"wędrowcowi 2 obrażenia."
 
 #: ../../ALA.rst:522
 msgid ""
@@ -1829,7 +1871,7 @@ msgstr "Latanie, pośpiech"
 
 #: ../../ALA.rst:537
 msgid "At the beginning of the end step, sacrifice Hell's Thunder."
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, poświęć ten byt."
 
 #: ../../ALA.rst:539
 msgid ""
@@ -1874,11 +1916,11 @@ msgstr ""
 
 #: ../../ALA.rst:551
 msgid "|mana_b|, |tap|: Target player loses 1 life."
-msgstr ""
+msgstr "|mana_b|, |tap|: Wskazany gracz traci 1 życie."
 
 #: ../../ALA.rst:553
 msgid "|mana_g|, |tap|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_g|, |tap|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../ALA.rst:560
 msgid ""
@@ -1926,7 +1968,7 @@ msgstr ""
 
 #: ../../ALA.rst:573
 msgid "Resounding Thunder deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../ALA.rst:575
 msgid ""
@@ -1938,7 +1980,7 @@ msgstr ""
 
 #: ../../ALA.rst:577
 msgid "When you cycle Resounding Thunder, it deals 6 damage to any target."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, zadaje ona wskazanemu celowi 6 obrażeń."
 
 #: ../../ALA.rst:582
 msgid ""
@@ -1959,6 +2001,8 @@ msgid ""
 "Whenever another creature dies, you may put a +1/+1 counter on Rockslide "
 "Elemental."
 msgstr ""
+"Ilekroć umrze inny stwór, możesz umieścić znacznik +1/+1 na niniejszym "
+"stworze."
 
 #: ../../ALA.rst:594
 msgid ""
@@ -2027,7 +2071,7 @@ msgstr ""
 
 #: ../../ALA.rst:607
 msgid "|mana_g|: Thorn-Thrash Viashino gains trample until end of turn."
-msgstr ""
+msgstr "|mana_g|: Ten stwór zyskuje do końca tury tratowanie."
 
 #: ../../ALA.rst:612
 msgid ""
@@ -2042,6 +2086,9 @@ msgid ""
 "creatures. This creature enters the battlefield with three times that many "
 "+1/+1 counters on it.)"
 msgstr ""
+"Pożarcie 3 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
+"liczbę stworów. Ten stwór wchodzi na pole bitwy mając trzykrotnie tyle "
+"znaczników +1/+1.)"
 
 #: ../../ALA.rst:616
 msgid ""
@@ -2052,7 +2099,7 @@ msgstr ""
 
 #: ../../ALA.rst:615
 msgid "|mana_1|\\ |mana_b|, Discard a card: Regenerate Viashino Skeleton."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, odrzuć kartę: Zregeneruj ten byt."
 
 #: ../../ALA.rst:620
 msgid ""
@@ -2066,6 +2113,8 @@ msgid ""
 "Whenever a creature dies, you may have Vicious Shadows deal damage to target "
 "player equal to the number of cards in that player's hand."
 msgstr ""
+"Ilekroć umrze stwór, możesz zdecydować, że ten byt zada wskazanemu graczowi "
+"obrażenia równe liczbie kart w ręce owego gracza."
 
 #: ../../ALA.rst:626
 msgid ""
@@ -2147,6 +2196,9 @@ msgid ""
 "a white creature: Search your library for a card named Godsire, put it onto "
 "the battlefield, then shuffle."
 msgstr ""
+"|mana_2|\\ |mana_g|, |tap|, poświęć czerwonego stwora, zielonego stwora i "
+"białego stwora: Wyszukaj w twojej bibliotece kartę o nazwie Godsire, umieść "
+"ją na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:650
 msgid ""
@@ -2157,7 +2209,7 @@ msgstr ""
 
 #: ../../ALA.rst:649
 msgid "|mana_1|\\ |mana_r|: Cavern Thoctar gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ALA.rst:656
 msgid ""
@@ -2200,6 +2252,8 @@ msgid ""
 "At the beginning of your end step, if you control a creature with power 5 or "
 "greater, you may draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz stworem o sile 5 lub "
+"większej, możesz dobrać kartę."
 
 #: ../../ALA.rst:674
 msgid ""
@@ -2244,6 +2298,9 @@ msgid ""
 "and/or a land card from among them and put the revealed cards into your "
 "hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę stwora i/lub kartę lądu i umieścić ujawnione karty w twojej ręce. "
+"Umieść pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../ALA.rst:688
 msgid ""
@@ -2257,6 +2314,8 @@ msgid ""
 "|mana_1|\\ |mana_w|, |tap|: Prevent all damage that would be dealt to target "
 "creature with power 5 or greater this turn."
 msgstr ""
+"|mana_1|\\ |mana_w|, |tap|: Zażegnaj wszystkie obrażenia, jakie miałyby w "
+"tej turze zostać zadane wskazanemu stworowi o sile 5 lub większej."
 
 #: ../../ALA.rst:694
 msgid ""
@@ -2277,6 +2336,8 @@ msgid ""
 "Whenever a player taps a Mountain, Forest, or Plains for mana, that player "
 "adds one mana of any type that land produced."
 msgstr ""
+"Ilekroć gracz przekręci Górę, Las lub Równinę pobierając manę, ów gracz "
+"bierze jedną manę koloru danego przez ów ląd."
 
 #: ../../ALA.rst:704
 msgid ""
@@ -2291,7 +2352,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../ALA.rst:703
 msgid "Enchanted land is a Mountain, Forest, and Plains."
-msgstr ""
+msgstr "Zauroczony ląd jest Górą, Lasem i Równiną."
 
 #: ../../ALA.rst:708
 msgid ""
@@ -2305,6 +2366,8 @@ msgid ""
 "Whenever a creature with power 5 or greater enters the battlefield under "
 "your control, you may put two +1/+1 counters on it."
 msgstr ""
+"Ilekroć stwór o sile 5 lub większej wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić na nim dwa znaczniki +1/+1."
 
 #: ../../ALA.rst:712
 msgid ""
@@ -2333,6 +2396,8 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains trample until end of "
 "turn."
 msgstr ""
+"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"tratowanie."
 
 #: ../../ALA.rst:722
 msgid ""
@@ -2346,6 +2411,8 @@ msgid ""
 "At the beginning of your upkeep, create a 1/1 green Saproling creature token "
 "for each +1/+1 counter on Mycoloth."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton zielonego stwora Sadzonka "
+"1/1 za każdy znacznik +1/+1 na niniejszym stworze."
 
 #: ../../ALA.rst:726
 msgid ""
@@ -2367,7 +2434,7 @@ msgstr ""
 
 #: ../../ALA.rst:729
 msgid "|mana_r|, |tap|: Target creature gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|, |tap|: Wskazany stwór dostaje do końca tury +2/+0."
 
 #: ../../ALA.rst:731
 msgid "|mana_w|, |tap|: Tap target creature."
@@ -2386,6 +2453,9 @@ msgid ""
 "creature token, where X is the sacrificed creature's power. Activate only as "
 "a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć stwora bez typu Szlam: Stwórz żeton zielonego "
+"stwora Szlam X/X, gdzie X jest siłą poświęconego stwora. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../ALA.rst:744
 msgid ""
@@ -2409,7 +2479,7 @@ msgstr ""
 #: ../../ALA.rst:743
 msgid ""
 "When you cycle Resounding Roar, target creature gets +6/+6 until end of turn."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, wskazany stwór dostaje do końca tury +6/+6."
 
 #: ../../ALA.rst:750
 msgid ""
@@ -2434,6 +2504,8 @@ msgid ""
 "|tap|: Reveal any number of creature cards with power 5 or greater from your "
 "hand. Add |mana_g| for each card revealed this way."
 msgstr ""
+"|tap|: Ujawnij dowolną liczbę kart stworów o sile 5 lub większej z twojej "
+"ręki. Weź |mana_g| za każdą kartę ujawnioną w ten sposób."
 
 #: ../../ALA.rst:762
 msgid ""
@@ -2472,6 +2544,8 @@ msgstr ""
 msgid ""
 "Put X +1/+1 counters on target creature, where X is that creature's power."
 msgstr ""
+"Umieść X znaczników +1/+1 na wskazanym stworze, gdzie X jest siłą owego "
+"stwora."
 
 #: ../../ALA.rst:778
 msgid ""
@@ -2489,6 +2563,8 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains indestructible until "
 "end of turn."
 msgstr ""
+"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"niezniszczalność."
 
 #: ../../ALA.rst:782
 msgid ""
@@ -2502,6 +2578,8 @@ msgid ""
 "Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of "
 "turn."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Niniejszy stwór dostaje do "
+"końca tury +1/+1."
 
 #: ../../ALA.rst:788
 msgid ""
@@ -2512,11 +2590,11 @@ msgstr ""
 
 #: ../../ALA.rst:785
 msgid "Wild Nacatl gets +1/+1 as long as you control a Mountain."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz Górą."
 
 #: ../../ALA.rst:787
 msgid "Wild Nacatl gets +1/+1 as long as you control a Plains."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz Równiną."
 
 #: ../../ALA.rst:794
 msgid ""
@@ -2544,14 +2622,16 @@ msgstr ""
 msgid ""
 "+1: Target permanent doesn't untap during its controller's next untap step."
 msgstr ""
+"+1: Wskazany byt nie odkręca się w najbliższym kroku odrkęcania jego władcy."
 
 #: ../../ALA.rst:799
 msgid "−2: Ajani Vengeant deals 3 damage to any target and you gain 3 life."
 msgstr ""
+"–2: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia, a ty zyskaj 3 życia."
 
 #: ../../ALA.rst:801
 msgid "−7: Destroy all lands target player controls."
-msgstr ""
+msgstr "–7: Zniszcz wszystkie lądy pod władaniem wskazanego gracza."
 
 #: ../../ALA.rst:812
 msgid ""
@@ -2571,7 +2651,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../ALA.rst:809
 msgid "Put target creature on the bottom of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na spodzie biblioteki właściciela."
 
 #: ../../ALA.rst:811
 msgid "Counter target instant spell."
@@ -2601,13 +2681,15 @@ msgstr ""
 
 #: ../../ALA.rst:819
 msgid "|tap|: Blood Cultist deals 1 damage to target creature."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje wskazanemu stworowi 1 obrażenie."
 
 #: ../../ALA.rst:821
 msgid ""
 "Whenever a creature dealt damage by Blood Cultist this turn dies, put a +1/"
 "+1 counter on Blood Cultist."
 msgstr ""
+"Ilekroć umrze stwór, który w tej turze otrzymał od niniejszego obrażenia, "
+"umieść znacznik +1/+1 na niniejszym stworze."
 
 #: ../../ALA.rst:830
 msgid ""
@@ -2622,11 +2704,11 @@ msgstr "Wybierz jedną lub obie —"
 
 #: ../../ALA.rst:827
 msgid "Branching Bolt deals 3 damage to target creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi z lataniem 3 obrażenia."
 
 #: ../../ALA.rst:829
 msgid "Branching Bolt deals 3 damage to target creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi bez latania 3 obrażenia."
 
 #: ../../ALA.rst:834
 msgid ""
@@ -2641,6 +2723,10 @@ msgid ""
 "into two piles. You may play lands and cast spells from one of those piles. "
 "If you cast a spell this way, you cast it without paying its mana cost."
 msgstr ""
+"Wygnaj pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Możesz grać lądy i rzucać czaru z jednego z owych "
+"stosów. Jeśli rzucisz czar w ten sposób, rzuć go bez płacenia jego kosztu "
+"many."
 
 #: ../../ALA.rst:840
 msgid ""
@@ -2680,6 +2766,8 @@ msgid ""
 "When Carrion Thrash dies, you may pay |mana_2|. If you do, return another "
 "target creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, możesz zapłacić |mana_2|. Jeśli to zrobisz, przywróć "
+"inną wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ALA.rst:852
 msgid ""
@@ -2694,6 +2782,9 @@ msgid ""
 "search your library for a card with the same name as that permanent. Put "
 "those cards onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wybierz pięć bytów pod twoim władaniem. Dla każdego z owych bytów możesz "
+"wyszukać w twojej bibliotece kartę o tej samej nazwie co ów byt. Umieść owe "
+"karty na polu bitwy, po czym przetasuj."
 
 #: ../../ALA.rst:856
 msgid ""
@@ -2730,6 +2821,8 @@ msgstr ""
 msgid ""
 "All damage that would be dealt to you is dealt to Empyrial Archangel instead."
 msgstr ""
+"Wszystkie obrażenia, jakie mogłyby zostać zadane tobie, zamiast tego są "
+"zadawane temu stworowi."
 
 #: ../../ALA.rst:880
 msgid ""
@@ -2789,7 +2882,7 @@ msgstr "Czujność"
 
 #: ../../ALA.rst:895
 msgid "|tap|: Create an 8/8 Beast creature token that's red, green, and white."
-msgstr ""
+msgstr "|tap|: Stwórz żeton czerwono-zielono-białego stwora Bestia 8/8."
 
 #: ../../ALA.rst:906
 msgid ""
@@ -2819,11 +2912,11 @@ msgstr "Latanie, tratowanie, pośpiech"
 
 #: ../../ALA.rst:911
 msgid "|mana_r|: Hellkite Overlord gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ALA.rst:913
 msgid "|mana_b|\\ |mana_g|: Regenerate Hellkite Overlord."
-msgstr ""
+msgstr "|mana_b|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../ALA.rst:920
 msgid ""
@@ -2834,7 +2927,7 @@ msgstr ""
 
 #: ../../ALA.rst:917
 msgid "Counter target spell that targets you or a permanent you control."
-msgstr ""
+msgstr "Skontruj wskazany czar wskazujący ciebie lub byt pod twoim władaniem."
 
 #: ../../ALA.rst:919
 msgid "Draw a card."
@@ -2849,7 +2942,7 @@ msgstr ""
 
 #: ../../ALA.rst:923
 msgid "Jhessian Infiltrator can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../ALA.rst:934
 msgid ""
@@ -2901,7 +2994,7 @@ msgstr ""
 
 #: ../../ALA.rst:943
 msgid "Target player gains 7 life and draws two cards."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 7 żyć i dobiera dwie karty."
 
 #: ../../ALA.rst:948
 msgid ""
@@ -2915,6 +3008,8 @@ msgid ""
 "Whenever another creature dies, you may put X +1/+1 counters on Kresh the "
 "Bloodbraided, where X is that creature's power."
 msgstr ""
+"Ilekroć umrze inny stwór, możesz umieścić X znaczników +1/+1 na niniejszym "
+"stworze, gdzie X jest siłą owego stwora."
 
 #: ../../ALA.rst:952
 msgid ""
@@ -2930,6 +3025,10 @@ msgid ""
 "among them onto the battlefield. Put the rest on the bottom of your library "
 "in any order."
 msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_g|\\ |mana_w|, |tap|: Spójrz na pięć wierzchnich "
+"kart twojej biblioteki. Możesz umieścić spośród nich na polu bitwy kartę "
+"stwora o sile 5 lub większej. Umieść pozostałe dowolnie na spodzie twojej "
+"biblioteki."
 
 #: ../../ALA.rst:962
 msgid ""
@@ -2978,6 +3077,9 @@ msgid ""
 "card onto the battlefield under your control unless that opponent pays 3 "
 "life."
 msgstr ""
+"Ilekroć byt pod władaniem przeciwnika zostanie umieszczony w cmentarzu, "
+"umieść ową kartę na polu bitwy pod twoim władaniem, chyba że ów przeciwnik "
+"zapłaci 3 życia."
 
 #: ../../ALA.rst:974
 msgid ""
@@ -2988,7 +3090,7 @@ msgstr ""
 
 #: ../../ALA.rst:973
 msgid "Counter target spell. Its controller loses 3 life and you gain 3 life."
-msgstr ""
+msgstr "Skontruj wskazany czar. Jego władca traci 3 życia, a ty zyskaj 3 życia."
 
 #: ../../ALA.rst:980
 msgid ""
@@ -3007,6 +3109,8 @@ msgid ""
 "may cast Qasali Ambusher without paying its mana cost and as though it had "
 "flash."
 msgstr ""
+"Jeśli stwór atakuje ciebie, a ty władasz Lasem i Równiną, możesz rzucić ten "
+"czar jakby miał błysk i bez płacenia jego kosztu many."
 
 #: ../../ALA.rst:986
 msgid ""
@@ -3020,6 +3124,8 @@ msgid ""
 "Whenever a creature you control attacks alone, it gains double strike until "
 "end of turn."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, zyskuje on do końca "
+"tury podwójny cios."
 
 #: ../../ALA.rst:990
 msgid ""
@@ -3033,6 +3139,8 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains first strike until "
 "end of turn."
 msgstr ""
+"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"pierwszy cios."
 
 #: ../../ALA.rst:996
 msgid ""
@@ -3043,13 +3151,15 @@ msgstr ""
 
 #: ../../ALA.rst:993
 msgid "When Realm Razer enters the battlefield, exile all lands."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wszystkie lądy."
 
 #: ../../ALA.rst:995
 msgid ""
 "When Realm Razer leaves the battlefield, return the exiled cards to the "
 "battlefield tapped under their owners' control."
 msgstr ""
+"Kiedy ten byt opuści pole bitwy, przywróć wygnane karty przekręcone na pole "
+"bitwy pod władaniem ich właścicieli."
 
 #: ../../ALA.rst:1000
 msgid ""
@@ -3078,7 +3188,7 @@ msgstr ""
 
 #: ../../ALA.rst:1007
 msgid "Target creature gets +3/+3 and gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz podwójny cios."
 
 #: ../../ALA.rst:1016
 msgid ""
@@ -3179,6 +3289,8 @@ msgid ""
 "At the beginning of your end step, you gain 3 life if Sphinx Sovereign is "
 "untapped. Otherwise, each opponent loses 3 life."
 msgstr ""
+"Na początku twojego kroku końcowego, zyskaj 3 życia jeśli ten stwór jest "
+"odkręcony. W przeciwnym razie każdy przeciwnik traci po 3 życia."
 
 #: ../../ALA.rst:1048
 msgid ""
@@ -3244,6 +3356,8 @@ msgid ""
 "|mana_u|\\ |mana_b|, |tap|: Target player loses 1 life and reveals their "
 "hand."
 msgstr ""
+"|mana_u|\\ |mana_b|, |tap|: Wskazany gracz traci 1 życie i ujawnia swoją "
+"rękę."
 
 #: ../../ALA.rst:1074
 msgid ""
@@ -3287,6 +3401,8 @@ msgid ""
 "Until end of turn, creatures you control get +5/+5 and gain first strike, "
 "trample, and lifelink."
 msgstr ""
+"Do końca tury stwory pod twoim władaniem dostają +5/+5, pierwszy cios, "
+"tratowanie i więź życia."
 
 #: ../../ALA.rst:1088
 msgid ""
@@ -3304,7 +3420,7 @@ msgstr ""
 
 #: ../../ALA.rst:1091
 msgid "Destroy three target permanents."
-msgstr ""
+msgstr "Zniszcz wskazane trzy byty."
 
 #: ../../ALA.rst:1098
 msgid ""
@@ -3331,7 +3447,7 @@ msgstr ""
 #: ../../ALA.rst:1103
 msgid ""
 "Windwright Mage has flying as long as an artifact card is in your graveyard."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile w twoim cmentarzu jest karta artefaktu."
 
 #: ../../ALA.rst:1106
 msgid ""
@@ -3353,6 +3469,9 @@ msgid ""
 "all permanents you own into your library, then draw seven cards and your "
 "life total becomes 20."
 msgstr ""
+"Jeśli miałbyś przegrać grę, zamiast tego wtasuj swoją rękę, swój cmentarz i "
+"wszystkie własne permanenty do twojej biblioteki, po czym dobierz siedem "
+"kart, a twoja liczba żyć wynosi 20."
 
 #: ../../ALA.rst:1116
 msgid ""
@@ -3368,6 +3487,10 @@ msgid ""
 "except it has haste and \"At the beginning of the end step, sacrifice this "
 "permanent.\""
 msgstr ""
+"Ilekroć nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
+"zapłacić |mana_2|. Jeśli tak zrobisz, stwórz żeton będący kopią owego "
+"stwora, ale ma on pośpiech oraz \"Na początku kroku końcowego, poświęć ten "
+"byt.\""
 
 #: ../../ALA.rst:1120
 msgid ""
