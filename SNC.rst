@@ -5,7 +5,7 @@
 =====================================
 
 
-:mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1646591371|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`
+:mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1648555799|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`
    At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
 
 

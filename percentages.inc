@@ -196,7 +196,7 @@
 .. |SOI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |CON_percent| image:: images/pie60.png        
+.. |CON_percent| image:: images/pie70.png        
 
 .. |STH_percent| image:: images/pie45.png        
 
@@ -285,7 +285,7 @@
 
 .. |LGN_percent| image:: images/pie40.png        
 
-.. |5ED_percent| image:: images/pie60.png        
+.. |5ED_percent| image:: images/pie65.png        
 
 .. |DGM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
