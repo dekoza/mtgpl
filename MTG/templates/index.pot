@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-31 11:06+0200\n"
+"POT-Creation-Date: 2022-03-31 11:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -202,8 +202,6 @@ msgstr ""
 #: ../../percentages.inc:273
 #: ../../percentages.inc:342
 #: ../../percentages.inc:216
-#: ../../percentages.inc:298
-#: ../../percentages.inc:21
 #: ../../percentages.inc:267
 #: ../../percentages.inc:185
 #: ../../progress.rst:20
@@ -246,11 +244,9 @@ msgid "CHK_percent"
 msgstr ""
 
 #: ../../percentages.inc:36
-#: ../../percentages.inc:36
 msgid "CMR_percent"
 msgstr ""
 
-#: ../../percentages.inc:38
 #: ../../percentages.inc:38
 msgid "CMD_percent"
 msgstr ""
@@ -264,11 +260,9 @@ msgid "EXO_percent"
 msgstr ""
 
 #: ../../percentages.inc:56
-#: ../../percentages.inc:56
 msgid "C20_percent"
 msgstr ""
 
-#: ../../percentages.inc:58
 #: ../../percentages.inc:58
 msgid "BBD_percent"
 msgstr ""
@@ -278,7 +272,6 @@ msgid "PCY_percent"
 msgstr ""
 
 #: ../../percentages.inc:68
-#: ../../percentages.inc:68
 msgid "C18_percent"
 msgstr ""
 
@@ -287,11 +280,9 @@ msgid "5DN_percent"
 msgstr ""
 
 #: ../../percentages.inc:84
-#: ../../percentages.inc:84
 msgid "C19_percent"
 msgstr ""
 
-#: ../../percentages.inc:89
 #: ../../percentages.inc:89
 msgid "C21_percent"
 msgstr ""
@@ -304,7 +295,6 @@ msgstr ""
 msgid "DST_percent"
 msgstr ""
 
-#: ../../percentages.inc:101
 #: ../../percentages.inc:101
 msgid "NEC_percent"
 msgstr ""
@@ -333,7 +323,6 @@ msgstr ""
 msgid "POR_percent"
 msgstr ""
 
-#: ../../percentages.inc:136
 #: ../../percentages.inc:136
 msgid "MIC_percent"
 msgstr ""
@@ -379,7 +368,6 @@ msgid "CSP_percent"
 msgstr ""
 
 #: ../../percentages.inc:224
-#: ../../percentages.inc:224
 msgid "C16_percent"
 msgstr ""
 
@@ -387,7 +375,6 @@ msgstr ""
 msgid "ZEN_percent"
 msgstr ""
 
-#: ../../percentages.inc:243
 #: ../../percentages.inc:243
 msgid "C17_percent"
 msgstr ""
@@ -409,11 +396,9 @@ msgid "WWK_percent"
 msgstr ""
 
 #: ../../percentages.inc:265
-#: ../../percentages.inc:265
 msgid "C15_percent"
 msgstr ""
 
-#: ../../percentages.inc:279
 #: ../../percentages.inc:279
 msgid "C14_percent"
 msgstr ""
@@ -469,7 +454,6 @@ msgid "FUT_percent"
 msgstr ""
 
 #: ../../percentages.inc:338
-#: ../../percentages.inc:338
 msgid "KHC_percent"
 msgstr ""
 
@@ -482,11 +466,9 @@ msgid "4ED_percent"
 msgstr ""
 
 #: ../../percentages.inc:350
-#: ../../percentages.inc:350
 msgid "VOC_percent"
 msgstr ""
 
-#: ../../percentages.inc:352
 #: ../../percentages.inc:352
 msgid "C13_percent"
 msgstr ""
@@ -773,233 +755,165 @@ msgid "Commander i pokrewne"
 msgstr ""
 
 #: ../../index.rst:138
-msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|"
+msgid ":doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p25|"
 msgstr ""
 
 #: ../../index.rst:140
-msgid ":mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|"
-msgstr ""
-
-#: ../../index.rst:141
-msgid ":mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|"
-msgstr ""
-
-#: ../../index.rst:142
-msgid ":mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|"
+msgid ":doc:`Lista dodatków dla formatu Commander<commander>`"
 msgstr ""
 
 #: ../../index.rst:143
-msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
-msgstr ""
-
-#: ../../index.rst:144
-msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
-msgstr ""
-
-#: ../../index.rst:145
-msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
-msgstr ""
-
-#: ../../index.rst:146
-msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
-msgstr ""
-
-#: ../../index.rst:147
-msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
-msgstr ""
-
-#: ../../index.rst:148
-msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
-msgstr ""
-
-#: ../../index.rst:149
-msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
-msgstr ""
-
-#: ../../index.rst:150
-msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
-msgstr ""
-
-#: ../../index.rst:151
-msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
-msgstr ""
-
-#: ../../index.rst:152
-msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
-msgstr ""
-
-#: ../../index.rst:153
-msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
-msgstr ""
-
-#: ../../index.rst:154
-msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
-msgstr ""
-
-#: ../../index.rst:155
-msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
-msgstr ""
-
-#: ../../index.rst:156
-msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` |CM1_percent|"
-msgstr ""
-
-#: ../../index.rst:157
-msgid ":mtgexp:`CMD` :doc:`Commander<CMD>` |CMD_percent|"
-msgstr ""
-
-#: ../../index.rst:160
 msgid "Conspiracy"
 msgstr ""
 
-#: ../../index.rst:162
+#: ../../index.rst:145
 msgid ":mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` |CN2_percent|"
 msgstr ""
 
-#: ../../index.rst:163
+#: ../../index.rst:146
 msgid ":mtgexp:`CNS` :doc:`Conspiracy<CNS>` |CNS_percent|"
 msgstr ""
 
-#: ../../index.rst:166
+#: ../../index.rst:149
 msgid "Produkty pokrewne"
 msgstr ""
 
-#: ../../index.rst:168
+#: ../../index.rst:151
 msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|"
 msgstr ""
 
-#: ../../index.rst:169
+#: ../../index.rst:152
 msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|"
 msgstr ""
 
-#: ../../index.rst:171
+#: ../../index.rst:154
 msgid "Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
 msgstr ""
 
-#: ../../index.rst:173
+#: ../../index.rst:156
 msgid ":mtgexp:`MTG` :doc:`Bohaterowie<THS_heroes>` |p100|"
 msgstr ""
 
-#: ../../index.rst:174
+#: ../../index.rst:157
 msgid ":mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p100|"
 msgstr ""
 
-#: ../../index.rst:175
+#: ../../index.rst:158
 msgid ":mtgexp:`BNG` :doc:`Walka z Hordą<BNG_horde>` |p100|"
 msgstr ""
 
-#: ../../index.rst:176
+#: ../../index.rst:159
 msgid ":mtgexp:`THS` :doc:`Staw czoła Hydrze<THS_hydra>` |p100|"
 msgstr ""
 
-#: ../../index.rst:179
+#: ../../index.rst:162
 msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:181
+#: ../../index.rst:164
 msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:182
+#: ../../index.rst:165
 msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:183
+#: ../../index.rst:166
 msgid ":doc:`Format Handicap<handicap>`"
 msgstr ""
 
-#: ../../index.rst:184
+#: ../../index.rst:167
 msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:188
+#: ../../index.rst:171
 msgid "Glosariusz"
 msgstr ""
 
-#: ../../index.rst:190
+#: ../../index.rst:173
 msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
 msgstr ""
 
-#: ../../index.rst:193
+#: ../../index.rst:176
 msgid "Ostatnie zmiany"
 msgstr ""
 
-#: ../../index.rst:194
+#: ../../index.rst:177
 msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
 msgstr ""
 
-#: ../../index.rst:197
+#: ../../index.rst:180
 msgid "Sponsorzy"
 msgstr ""
 
-#: ../../index.rst:199
+#: ../../index.rst:182
 msgid "`Centrum hobbystyczne \"Strefa\" <https://strefamarzen.pl/>`_ z Bielska-Białej."
 msgstr ""
 
-#: ../../index.rst:200
+#: ../../index.rst:183
 msgid "`Wspierający poprzez Patronite <https://patronite.pl/mtgpl>`_."
 msgstr ""
 
-#: ../../index.rst:203
+#: ../../index.rst:186
 msgid "Ekipa"
 msgstr ""
 
-#: ../../index.rst:205
+#: ../../index.rst:188
 msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
 msgstr ""
 
-#: ../../index.rst:207
+#: ../../index.rst:190
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:208
+#: ../../index.rst:191
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:209
+#: ../../index.rst:192
 msgid "Krzysztof Buniewicz - tłumacz"
 msgstr ""
 
-#: ../../index.rst:210
+#: ../../index.rst:193
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:211
+#: ../../index.rst:194
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 
-#: ../../index.rst:214
+#: ../../index.rst:197
 msgid "Kwestie prawne"
 msgstr ""
 
-#: ../../index.rst:216
+#: ../../index.rst:199
 msgid "Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie `Wizards of the Coast's Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_."
 msgstr ""
 
-#: ../../index.rst:218
+#: ../../index.rst:201
 msgid "Część materiałów w tym serwisie jest własnością Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:219
+#: ../../index.rst:202
 msgid "Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:220
+#: ../../index.rst:203
 msgid "Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed."
 msgstr ""
 
-#: ../../index.rst:221
+#: ../../index.rst:204
 msgid "Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_"
 msgstr ""
 
-#: ../../index.rst:224
+#: ../../index.rst:207
 msgid "Legal notice"
 msgstr ""
 
-#: ../../index.rst:226
+#: ../../index.rst:209
 msgid "MTGpoPolsku.pl is unofficial Fan Content permitted under the `Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:227
+#: ../../index.rst:210
 msgid "Translation work `(CC) copyleft <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>`_ Dominik Kozaczko. Some rights reversed."
 msgstr ""
