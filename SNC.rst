@@ -19,6 +19,22 @@
    • Create two 1/1 green and white Citizen creature tokens.
 
 
+:mtgtip:`Jetmir, Nexus of Revels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1648740317|https://scryfall.com/card/snc/193/jetmir-nexus-of-revels?utm_source=api>`
+   Creatures you control get +1/+0 and have vigilance as long as you control three or more creatures.
+
+   Creatures you control also get +1/+0 and have trample as long as you control six or more creatures.
+
+   Creatures you control also get +1/+0 and have double strike as long as you control nine or more creatures.
+
+
+:mtgtip:`Lord Xander, the Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1648740308|https://scryfall.com/card/snc/197/lord-xander-the-collector?utm_source=api>`
+   When Lord Xander, the Collector enters the battlefield, target opponent discards half the cards in their hand, rounded down.
+
+   Whenever Lord Xander attacks, defending player mills half their library, rounded down.
+
+   When Lord Xander dies, target opponent sacrifices half the nonland permanents they control, rounded down.
+
+
 :mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56.jpg?1648500160|https://scryfall.com/card/snc/199/maestros-charm?utm_source=api>`
    Choose one —
 
@@ -37,6 +53,12 @@
    • Counter target instant or sorcery spell.
 
    • Destroy target creature or planeswalker with mana value 3 or less.
+
+
+:mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648740316|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`
+   Flying, ward |mana_1|
+
+   Whenever you attack, target creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)
 
 
 :mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
