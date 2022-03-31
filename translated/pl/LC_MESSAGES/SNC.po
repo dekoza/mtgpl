@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-31 11:06+0200\n"
-"PO-Revision-Date: 2022-03-30 16:12+0000\n"
+"PO-Revision-Date: 2022-03-31 09:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -262,20 +262,20 @@ msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
 #: ../../SNC.rst:15
-#, fuzzy
-#| msgid "Maestros Charm deals 5 damage to target creature or planeswalker."
 msgid ""
 "Cabaretti Charm deals damage equal to the number of creatures you control to "
 "target creature or planeswalker."
-msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń."
+msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia równe liczbie "
+"stworów pod twoim władaniem."
 
 #: ../../SNC.rst:17
 msgid "Creatures you control get +1/+1 and gain trample until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem do końca tury dostają +1/+1 i tratowanie."
 
 #: ../../SNC.rst:19
 msgid "Create two 1/1 green and white Citizen creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony zielono-białego stwora Mieszczanin 1/1."
 
 #: ../../SNC.rst:30
 msgid ""
