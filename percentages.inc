@@ -257,7 +257,8 @@
 
 .. |PLS_percent| image:: images/pie45.png        
 
-.. |WWK_percent| image:: images/pie60.png        
+.. |WWK_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -347,7 +348,7 @@
 .. |M20_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |VOC_percent| image:: images/pie70.png        
+.. |VOC_percent| image:: images/pie75.png        
 
 .. |C13_percent| image:: images/pie75.png        
 
