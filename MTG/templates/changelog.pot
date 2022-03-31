@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-30 18:04+0200\n"
+"POT-Creation-Date: 2022-03-31 11:06+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Spis zmian"
 msgstr ""
 
-#: ../../changelog.rst:5
+#: ../../changelog.rst:7
 msgid "2022-03-30"
 msgstr ""
 
@@ -28,750 +28,758 @@ msgstr ""
 msgid ":mtgexp:`CON` :doc:`Conflux<CON>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:10
+#: ../../changelog.rst:6
+msgid ":mtgexp:`ALA` :doc:`Shards of Alara<ALA>` - 100%"
+msgstr ""
+
+#: ../../changelog.rst:7
+msgid ":mtgexp:`TSP` :doc:`Time Spiral<TSP>` - 100%"
+msgstr ""
+
+#: ../../changelog.rst:12
 msgid "2022-03-29"
 msgstr ""
 
-#: ../../changelog.rst:8
+#: ../../changelog.rst:10
 msgid ":mtgexp:`ARB` :doc:`Alara Reborn<ARB>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:9
+#: ../../changelog.rst:11
 msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:10
+#: ../../changelog.rst:12
 msgid ":mtgexp:`MMA` :doc:`Modern Masters<MMA>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:19
+#: ../../changelog.rst:21
 msgid "2022-03-28"
 msgstr ""
 
-#: ../../changelog.rst:13
+#: ../../changelog.rst:15
 msgid "Dokonałem najdłużej odwlekanej i pewnie najbardziej kontrowersyjnej zmiany w tłuaczeniach: słowo \"permanent\" otrzymało tłumaczenie \"byt\". Jednocześnie wiele kart posiadających zdolność wyzwalaną przy ich wejściu na pole bitwy (\"Kiedy ten ... wejdzie na pole bitwy\") otrzymało zbiorcze tłumaczenie mówiące \"Kiedy ten byt wejdzie na pole bitwy\" - oryginalne słownictwo zostanie utrzymane tylko tam, gdzie będzie to miało semantyczne uzasadnienie."
 msgstr ""
 
-#: ../../changelog.rst:17
+#: ../../changelog.rst:19
 msgid ":mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:18
+#: ../../changelog.rst:20
 msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:19
+#: ../../changelog.rst:21
 msgid ":mtgexp:`A25` :doc:`Masters 25<A25>` 2018 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:22
+#: ../../changelog.rst:24
 msgid "2022-03-21"
 msgstr ""
 
-#: ../../changelog.rst:22
+#: ../../changelog.rst:24
 msgid ":mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:25
+#: ../../changelog.rst:27
 msgid "2022-02-22"
 msgstr ""
 
-#: ../../changelog.rst:25
+#: ../../changelog.rst:27
 msgid ":mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:28
+#: ../../changelog.rst:30
 msgid "2021-09-20"
 msgstr ""
 
-#: ../../changelog.rst:28
+#: ../../changelog.rst:30
 msgid ":mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:33
+#: ../../changelog.rst:35
 msgid "2021-07-24"
 msgstr ""
 
-#: ../../changelog.rst:31
+#: ../../changelog.rst:33
 msgid "Seventh Edition - 100%"
 msgstr ""
 
-#: ../../changelog.rst:32
+#: ../../changelog.rst:34
 msgid "Classic Sixth Edition - 100%"
 msgstr ""
 
-#: ../../changelog.rst:33
+#: ../../changelog.rst:35
 msgid "Starter 1999 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:36
+#: ../../changelog.rst:38
 msgid "2021-07-23"
 msgstr ""
 
-#: ../../changelog.rst:36
+#: ../../changelog.rst:38
 msgid "Scars of Mirrodin - 100%"
 msgstr ""
 
-#: ../../changelog.rst:40
+#: ../../changelog.rst:42
 msgid "2021-07-22"
 msgstr ""
 
-#: ../../changelog.rst:39
+#: ../../changelog.rst:41
 msgid "New Phyrexia - 100%"
 msgstr ""
 
-#: ../../changelog.rst:40
+#: ../../changelog.rst:42
 msgid "Mirrodin Besieged - 100%"
 msgstr ""
 
-#: ../../changelog.rst:43
+#: ../../changelog.rst:45
 msgid "2021-07-15"
 msgstr ""
 
-#: ../../changelog.rst:43
+#: ../../changelog.rst:45
 msgid "Tłumaczenie AFR przeniesione do Areny."
 msgstr ""
 
-#: ../../changelog.rst:46
+#: ../../changelog.rst:48
 msgid "2021-07-07"
 msgstr ""
 
-#: ../../changelog.rst:46
+#: ../../changelog.rst:48
 msgid ":mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:53
+#: ../../changelog.rst:55
 msgid "2021-04-19"
 msgstr ""
 
-#: ../../changelog.rst:49
+#: ../../changelog.rst:51
 msgid "Początek dużej aktualizacji słownictwa - \"converted mana cost\" zmienił się w \"mana value\" oraz \"shuffle your library\" skrócono do \"shuffle\". Z tego powodu sporo napisów ma zmienione źródła, przez co narzędzia oznaczają takie tłumaczenie jako \"do sprawdzenia\". To z kolei skutkuje usunięciem takiego tłumaczenia z plików wynikowych. Sporo jest już poprawione, ale ponieważ zmianą dotknięte są dosłownie wszystkie dodatki, prace jeszcze trwają."
 msgstr ""
 
-#: ../../changelog.rst:57
+#: ../../changelog.rst:59
 msgid "2021-04-14"
 msgstr ""
 
-#: ../../changelog.rst:56
+#: ../../changelog.rst:58
 msgid "Ninth Edition - 100%"
 msgstr ""
 
-#: ../../changelog.rst:57
+#: ../../changelog.rst:59
 msgid "Eighth Edition - 100%"
 msgstr ""
 
-#: ../../changelog.rst:60
+#: ../../changelog.rst:62
 msgid "2021-04-13"
 msgstr ""
 
-#: ../../changelog.rst:60
+#: ../../changelog.rst:62
 msgid "Tenth Edition - 100%"
 msgstr ""
 
-#: ../../changelog.rst:63
+#: ../../changelog.rst:65
 msgid "2021-04-07"
 msgstr ""
 
-#: ../../changelog.rst:63
+#: ../../changelog.rst:65
 msgid "Przetłumaczone wszystkie karty dostępne w MTG Arena."
 msgstr ""
 
-#: ../../changelog.rst:67
+#: ../../changelog.rst:69
 msgid "2021-03-24"
 msgstr ""
 
-#: ../../changelog.rst:66
+#: ../../changelog.rst:68
 msgid ":mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:67
+#: ../../changelog.rst:69
 msgid "Uzupełnienie braków w TSR"
 msgstr ""
 
-#: ../../changelog.rst:70
+#: ../../changelog.rst:72
 msgid "2021-03-23"
 msgstr ""
 
-#: ../../changelog.rst:70
+#: ../../changelog.rst:72
 msgid ":mtgexp:`2XM` :doc:`Double Masters<2XM>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:73
+#: ../../changelog.rst:75
 msgid "2021-03-22"
 msgstr ""
 
-#: ../../changelog.rst:73
+#: ../../changelog.rst:75
 msgid "Rise of the Eldrazi - 100%"
 msgstr ""
 
-#: ../../changelog.rst:76
+#: ../../changelog.rst:78
 msgid "2021-03-21"
 msgstr ""
 
-#: ../../changelog.rst:76
+#: ../../changelog.rst:78
 msgid "Dark Ascension - 100%"
 msgstr ""
 
-#: ../../changelog.rst:79
+#: ../../changelog.rst:81
 msgid "2021-03-11"
 msgstr ""
 
-#: ../../changelog.rst:79
+#: ../../changelog.rst:81
 msgid "Innistrad - 100%"
 msgstr ""
 
-#: ../../changelog.rst:83
+#: ../../changelog.rst:85
 msgid "2021-03-10"
 msgstr ""
 
-#: ../../changelog.rst:82
+#: ../../changelog.rst:84
 msgid "Ravnica Allegiance Kits - 100%"
 msgstr ""
 
-#: ../../changelog.rst:83
+#: ../../changelog.rst:85
 msgid "Magic 2013 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:86
+#: ../../changelog.rst:88
 msgid "2021-03-09"
 msgstr ""
 
-#: ../../changelog.rst:86
+#: ../../changelog.rst:88
 msgid "Aktualizacja spolszczenia Areny"
 msgstr ""
 
-#: ../../changelog.rst:89
+#: ../../changelog.rst:91
 msgid "2021-03-07"
 msgstr ""
 
-#: ../../changelog.rst:89
+#: ../../changelog.rst:91
 msgid "Publikacja :doc:`programu instalującego spolszczenie<mtgapl>`."
 msgstr ""
 
-#: ../../changelog.rst:92
+#: ../../changelog.rst:94
 msgid "2021-03-06"
 msgstr ""
 
-#: ../../changelog.rst:92
+#: ../../changelog.rst:94
 msgid "Time Spiral Remastered - 100%"
 msgstr ""
 
-#: ../../changelog.rst:99
+#: ../../changelog.rst:101
 msgid "2021-03-04"
 msgstr ""
 
-#: ../../changelog.rst:95
+#: ../../changelog.rst:97
 msgid "Magic 2010 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:96
+#: ../../changelog.rst:98
 msgid "Magic 2011 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:97
+#: ../../changelog.rst:99
 msgid "Magic 2012 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:98
+#: ../../changelog.rst:100
 msgid ":mtgexp:`EMA` :doc:`Eternal Masters<EMA>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:99
+#: ../../changelog.rst:101
 msgid ":mtgexp:`IMA` :doc:`Iconic Masters<IMA>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:103
+#: ../../changelog.rst:105
 msgid "2021-03-01"
 msgstr ""
 
-#: ../../changelog.rst:102
+#: ../../changelog.rst:104
 msgid ":mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` - 100%"
 msgstr ""
 
-#: ../../changelog.rst:103
+#: ../../changelog.rst:105
 msgid "Avacyn Restored - 100%"
 msgstr ""
 
-#: ../../changelog.rst:111
+#: ../../changelog.rst:113
 msgid "2021-02-22"
 msgstr ""
 
-#: ../../changelog.rst:106
+#: ../../changelog.rst:108
 msgid "Duża zmiana słownictwa. Combat to teraz \"potyczka\", battlefield to \"pole bitwy\", a fight to \"walka\". Dzięki temu znika konflikt nazw między tłumaczeniami combat i fight."
 msgstr ""
 
-#: ../../changelog.rst:109
+#: ../../changelog.rst:111
 msgid "Pełna instrukcja spolszczenia gry Magic Arena. Tłumaczenie nie jest jeszcze kompletne ze względu na sporo tekstów pobocznych, jak np. komunikaty dotyczące potiwerdzania rozpatrywania zdolności. Tym niemniej działa."
 msgstr ""
 
-#: ../../changelog.rst:114
+#: ../../changelog.rst:116
 msgid "2021-02-19"
 msgstr ""
 
-#: ../../changelog.rst:114
+#: ../../changelog.rst:116
 msgid "Zendikar Rising - 100%"
 msgstr ""
 
-#: ../../changelog.rst:118
+#: ../../changelog.rst:120
 msgid "2021-02-18"
 msgstr ""
 
-#: ../../changelog.rst:117
+#: ../../changelog.rst:119
 msgid "Kaldheim - 100%"
 msgstr ""
 
-#: ../../changelog.rst:118
+#: ../../changelog.rst:120
 msgid "Jumpstart - 100%"
 msgstr ""
 
-#: ../../changelog.rst:122
+#: ../../changelog.rst:124
 msgid "2021-02-15"
 msgstr ""
 
-#: ../../changelog.rst:121
+#: ../../changelog.rst:123
 msgid "Ikoria - 100%"
 msgstr ""
 
-#: ../../changelog.rst:122
+#: ../../changelog.rst:124
 msgid "Core Set 2021 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:125
+#: ../../changelog.rst:127
 msgid "2020-03-02"
 msgstr ""
 
-#: ../../changelog.rst:125
+#: ../../changelog.rst:127
 msgid "Zaktualizowne tłumaczenia: ELD, THB"
 msgstr ""
 
-#: ../../changelog.rst:128
+#: ../../changelog.rst:130
 msgid "2020-02-27"
 msgstr ""
 
-#: ../../changelog.rst:128
+#: ../../changelog.rst:130
 msgid "Zaktualizowane tłumaczenia: WAR, M20"
 msgstr ""
 
-#: ../../changelog.rst:131
+#: ../../changelog.rst:133
 msgid "2020-02-25"
 msgstr ""
 
-#: ../../changelog.rst:131
+#: ../../changelog.rst:133
 msgid "Zaktualizowane tłumaczenia: GRN, RNA"
 msgstr ""
 
-#: ../../changelog.rst:135
+#: ../../changelog.rst:137
 msgid "2020-02-24"
 msgstr ""
 
-#: ../../changelog.rst:134
+#: ../../changelog.rst:136
 msgid "Kaladesh - 100%"
 msgstr ""
 
-#: ../../changelog.rst:135
+#: ../../changelog.rst:137
 msgid "Zmiana znaczników postępu tłumaczeń"
 msgstr ""
 
-#: ../../changelog.rst:140
+#: ../../changelog.rst:142
 msgid "2020-02-23"
 msgstr ""
 
-#: ../../changelog.rst:138
+#: ../../changelog.rst:140
 msgid "Aether Revolt - 100%"
 msgstr ""
 
-#: ../../changelog.rst:139
+#: ../../changelog.rst:141
 msgid "Kaladesh - 50%"
 msgstr ""
 
-#: ../../changelog.rst:140
+#: ../../changelog.rst:142
 msgid "Zaktualizowane tłumaczenia: RIX, DOM"
 msgstr ""
 
-#: ../../changelog.rst:143
+#: ../../changelog.rst:145
 msgid "2020-02-21"
 msgstr ""
 
-#: ../../changelog.rst:143
+#: ../../changelog.rst:145
 msgid "Zaktualizowane tłumaczenia: XLN"
 msgstr ""
 
-#: ../../changelog.rst:147
+#: ../../changelog.rst:149
 msgid "2020-02-20"
 msgstr ""
 
-#: ../../changelog.rst:146
+#: ../../changelog.rst:148
 msgid "Amonkhet - 100%"
 msgstr ""
 
-#: ../../changelog.rst:147
+#: ../../changelog.rst:149
 msgid "Hour of Devastation - 100% + aktualizacja"
 msgstr ""
 
-#: ../../changelog.rst:150
+#: ../../changelog.rst:152
 msgid "2020-02-18"
 msgstr ""
 
-#: ../../changelog.rst:150
+#: ../../changelog.rst:152
 msgid "Eldritch Moon - 100%"
 msgstr ""
 
-#: ../../changelog.rst:154
+#: ../../changelog.rst:156
 msgid "2020-02-17"
 msgstr ""
 
-#: ../../changelog.rst:153
+#: ../../changelog.rst:155
 msgid "Shadows over innistrad - 100%"
 msgstr ""
 
-#: ../../changelog.rst:154
+#: ../../changelog.rst:156
 msgid "Oatch of the Gatewatch - 100%"
 msgstr ""
 
-#: ../../changelog.rst:157
+#: ../../changelog.rst:159
 msgid "2020-02-15"
 msgstr ""
 
-#: ../../changelog.rst:157
+#: ../../changelog.rst:159
 msgid "Battle for Zendikar - 100%"
 msgstr ""
 
-#: ../../changelog.rst:160
+#: ../../changelog.rst:162
 msgid "2020-02-04"
 msgstr ""
 
-#: ../../changelog.rst:160
+#: ../../changelog.rst:162
 msgid "Origins - 100%"
 msgstr ""
 
-#: ../../changelog.rst:165
+#: ../../changelog.rst:167
 msgid "2020-01-30"
 msgstr ""
 
-#: ../../changelog.rst:163
+#: ../../changelog.rst:165
 msgid "Nowy dodatek: Commander 2019 - 50%"
 msgstr ""
 
-#: ../../changelog.rst:164
+#: ../../changelog.rst:166
 msgid "Wyzwanie \"Pokonaj Bóstwo\" - 100%"
 msgstr ""
 
-#: ../../changelog.rst:165
+#: ../../changelog.rst:167
 msgid "Zaktualizowane tłumaczenia do dwóch wyzwań z bloku Therosa (Hydra i Horda)"
 msgstr ""
 
-#: ../../changelog.rst:169
+#: ../../changelog.rst:171
 msgid "2020-01-28"
 msgstr ""
 
-#: ../../changelog.rst:168
+#: ../../changelog.rst:170
 msgid "Core Set 2015 - 100%"
 msgstr ""
 
-#: ../../changelog.rst:169
+#: ../../changelog.rst:171
 msgid "Zaktualizowane tłumaczenia: M19"
 msgstr ""
 
-#: ../../changelog.rst:174
+#: ../../changelog.rst:176
 msgid "2020-01-27"
 msgstr ""
 
-#: ../../changelog.rst:172
+#: ../../changelog.rst:174
 msgid "Dragons of Tarkir - 100%"
 msgstr ""
 
-#: ../../changelog.rst:173
+#: ../../changelog.rst:175
 msgid "Khans of Tarkir - 100%"
 msgstr ""
 
-#: ../../changelog.rst:174
+#: ../../changelog.rst:176
 msgid "Zaktualizowane tłumaczenia: FRF, M14"
 msgstr ""
 
-#: ../../changelog.rst:178
+#: ../../changelog.rst:180
 msgid "2020-01-25"
 msgstr ""
 
-#: ../../changelog.rst:177
+#: ../../changelog.rst:179
 msgid "Journey into Nyx - 100%"
 msgstr ""
 
-#: ../../changelog.rst:178
+#: ../../changelog.rst:180
 msgid "Zaktualizowane tłumaczenia: RTR, GTC, DGM, THS, BNG"
 msgstr ""
 
-#: ../../changelog.rst:182
+#: ../../changelog.rst:184
 msgid "2020-01-20"
 msgstr ""
 
-#: ../../changelog.rst:181
+#: ../../changelog.rst:183
 msgid "Throne of Eldraine - 100%"
 msgstr ""
 
-#: ../../changelog.rst:186
+#: ../../changelog.rst:188
 msgid "2020-01-19"
 msgstr ""
 
-#: ../../changelog.rst:185
+#: ../../changelog.rst:187
 msgid "Theros: Beyond Death - 100%"
 msgstr ""
 
-#: ../../changelog.rst:186
+#: ../../changelog.rst:188
 msgid "Throne of Eldraine - 60%"
 msgstr ""
 
-#: ../../changelog.rst:190
+#: ../../changelog.rst:192
 msgid "2020-01-12"
 msgstr ""
 
-#: ../../changelog.rst:189
+#: ../../changelog.rst:191
 msgid "Throne of Eldraine - 50%"
 msgstr ""
 
-#: ../../changelog.rst:190
+#: ../../changelog.rst:192
 msgid "Theros: Beyond Death - 25%"
 msgstr ""
 
-#: ../../changelog.rst:193
+#: ../../changelog.rst:195
 msgid "2019-04-30"
 msgstr ""
 
-#: ../../changelog.rst:193
+#: ../../changelog.rst:195
 msgid "War of the Spark - 100%"
 msgstr ""
 
-#: ../../changelog.rst:197
+#: ../../changelog.rst:199
 msgid "2019-03-31"
 msgstr ""
 
-#: ../../changelog.rst:196
+#: ../../changelog.rst:198
 msgid "Guild Kits 2 - 0%"
 msgstr ""
 
-#: ../../changelog.rst:197
+#: ../../changelog.rst:199
 msgid "Modern Horizons - 0%"
 msgstr ""
 
-#: ../../changelog.rst:201
+#: ../../changelog.rst:203
 msgid "2019-02-10"
 msgstr ""
 
-#: ../../changelog.rst:200
+#: ../../changelog.rst:202
 msgid "Explorers of Ixalan - 100%"
 msgstr ""
 
-#: ../../changelog.rst:201
+#: ../../changelog.rst:203
 msgid "Amonkhet - 50%"
 msgstr ""
 
-#: ../../changelog.rst:213
+#: ../../changelog.rst:215
 msgid "2019-01-13"
 msgstr ""
 
-#: ../../changelog.rst:204
+#: ../../changelog.rst:206
 msgid "Wystawienie seriwsu dla tłumaczy: https://weblate.mtgpopolsku.pl"
 msgstr ""
 
-#: ../../changelog.rst:205
+#: ../../changelog.rst:207
 msgid "Aktywacja SSL w całym serwisie, wyłączenie możliwości przeglądania serwisu bez HTTPS."
 msgstr ""
 
-#: ../../changelog.rst:206
+#: ../../changelog.rst:208
 msgid "Ustalenie ostatecznej wersji tlumaczenia słów 'tap/untap'."
 msgstr ""
 
-#: ../../changelog.rst:207
+#: ../../changelog.rst:209
 msgid "Dodanie symboli zestawów przy linkach i w nagłówkach stron."
 msgstr ""
 
-#: ../../changelog.rst:208
+#: ../../changelog.rst:210
 msgid "Przywrócenie możliwości podglądu kart przy najechaniu myszą na nazwę."
 msgstr ""
 
-#: ../../changelog.rst:209
+#: ../../changelog.rst:211
 msgid "Dodanie do :doc:`glosariusza<glossary>` linków do zasad w serwisie yawgatog.com"
 msgstr ""
 
-#: ../../changelog.rst:210
+#: ../../changelog.rst:212
 msgid "Drobna reorganizacja strony startowej."
 msgstr ""
 
-#: ../../changelog.rst:211
+#: ../../changelog.rst:213
 msgid "Dodanie opisu formatu :doc:`Handicap<handicap>`."
 msgstr ""
 
-#: ../../changelog.rst:212
+#: ../../changelog.rst:214
 msgid "Pełne tłumaczenie :doc:`Ravnica Allegiance<RNA>`."
 msgstr ""
 
-#: ../../changelog.rst:213
+#: ../../changelog.rst:215
 msgid "Zmiana źródła danych na Scryfall, lepsze obrazki w tooltipach."
 msgstr ""
 
-#: ../../changelog.rst:216
+#: ../../changelog.rst:218
 msgid "2019-01-06"
 msgstr ""
 
-#: ../../changelog.rst:216
+#: ../../changelog.rst:218
 msgid "Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)"
 msgstr ""
 
-#: ../../changelog.rst:219
+#: ../../changelog.rst:221
 msgid "2019-01-04"
 msgstr ""
 
-#: ../../changelog.rst:219
+#: ../../changelog.rst:221
 msgid "Nowy :doc:`podręcznik gry<rulebook>` (edycja Dominaria). Drobne porządki."
 msgstr ""
 
-#: ../../changelog.rst:222
+#: ../../changelog.rst:224
 msgid "2018-12-30"
 msgstr ""
 
-#: ../../changelog.rst:222
+#: ../../changelog.rst:224
 msgid ":doc:`Dominaria<DOM>` 100%. :doc:`Core Set 2019<M19>` 100%."
 msgstr ""
 
-#: ../../changelog.rst:225
+#: ../../changelog.rst:227
 msgid "2018-12-29"
 msgstr ""
 
-#: ../../changelog.rst:225
+#: ../../changelog.rst:227
 msgid ":doc:`Ixalan<XLN>` 100%, :doc:`Dominaria<DOM>` 66%."
 msgstr ""
 
-#: ../../changelog.rst:229
+#: ../../changelog.rst:231
 msgid "2018-12-28"
 msgstr ""
 
-#: ../../changelog.rst:228
+#: ../../changelog.rst:230
 msgid "Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do :doc:`New Phyrexia<NPH>`."
 msgstr ""
 
-#: ../../changelog.rst:229
+#: ../../changelog.rst:231
 msgid "Zmiana tłumaczenia słowa \"tap\" - mimo że \"zaznaczyć\" (i analogicznie \"odznaczyć\" dla \"untap\") jest bardziej po polsku, to akurat to słowo jest mocno zakorzenione w slangu i występuje niezmienione w innych lokalizacjach gry."
 msgstr ""
 
-#: ../../changelog.rst:232
+#: ../../changelog.rst:234
 msgid "2014-01-29"
 msgstr ""
 
-#: ../../changelog.rst:232
+#: ../../changelog.rst:234
 msgid "Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark Ascension<DKA>`, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`."
 msgstr ""
 
-#: ../../changelog.rst:235
+#: ../../changelog.rst:237
 msgid "2014-01-27"
 msgstr ""
 
-#: ../../changelog.rst:235
+#: ../../changelog.rst:237
 msgid "Zmiana kolejności wyświetlania dodatków. Dodanie podziału na Standard/Modern/Pozostałe/Specjalne."
 msgstr ""
 
-#: ../../changelog.rst:238
+#: ../../changelog.rst:240
 msgid "2014-01-24"
 msgstr ""
 
-#: ../../changelog.rst:238
+#: ../../changelog.rst:240
 msgid "Dodano talię wyzwania :doc:`Walka z Hordą<BNG_horde>`."
 msgstr ""
 
-#: ../../changelog.rst:242
+#: ../../changelog.rst:244
 msgid "2013-11-26"
 msgstr ""
 
-#: ../../changelog.rst:241
+#: ../../changelog.rst:243
 msgid "Dodano surową wersję pełnej instrukcji do gry (Comprehensive Rules) (bez tłumaczenia)"
 msgstr ""
 
-#: ../../changelog.rst:242
+#: ../../changelog.rst:244
 msgid "Zmiana tłumaczenia słowa \"permanent\"."
 msgstr ""
 
-#: ../../changelog.rst:247
+#: ../../changelog.rst:249
 msgid "2013-11-03"
 msgstr ""
 
-#: ../../changelog.rst:245
+#: ../../changelog.rst:247
 msgid "Dodano :doc:`zasady formatu Commander<commander>` (bez tłumaczenia)."
 msgstr ""
 
-#: ../../changelog.rst:246
+#: ../../changelog.rst:248
 msgid "Reorganizacja strony tytułowej."
 msgstr ""
 
-#: ../../changelog.rst:247
+#: ../../changelog.rst:249
 msgid "Dodana możliwość włączania podglądu kart w formie tooltip."
 msgstr ""
 
-#: ../../changelog.rst:250
+#: ../../changelog.rst:252
 msgid "2013-10-07"
 msgstr ""
 
-#: ../../changelog.rst:250
+#: ../../changelog.rst:252
 msgid "Zakończenie tłumaczenia: :doc:`RTR<RTR>`, :doc:`GTC<GTC>`, :doc:`DGM<DGM>`."
 msgstr ""
 
-#: ../../changelog.rst:254
+#: ../../changelog.rst:256
 msgid "2013-09-29"
 msgstr ""
 
-#: ../../changelog.rst:253
+#: ../../changelog.rst:255
 msgid "Dodano artykuł opisujący dodatkowe warianty gry nie ujęte w Skróconej Instrukcji."
 msgstr ""
 
-#: ../../changelog.rst:254
+#: ../../changelog.rst:256
 msgid "Dodano polskie żetony stworów oraz lądy."
 msgstr ""
 
-#: ../../changelog.rst:258
+#: ../../changelog.rst:260
 msgid "2013-09-28"
 msgstr ""
 
-#: ../../changelog.rst:257
+#: ../../changelog.rst:259
 msgid "Dodanie kart z decku :doc:`Face the Hydra<THS_hydra>` wraz z instrukcją gry."
 msgstr ""
 
-#: ../../changelog.rst:258
+#: ../../changelog.rst:260
 msgid "Dodano :doc:`uzasadnienie<rationale>` tłumaczeń określonych słów kluczowych i ogólnej koncepcji projektu."
 msgstr ""
 
-#: ../../changelog.rst:261
+#: ../../changelog.rst:263
 msgid "2013-09-17"
 msgstr ""
 
-#: ../../changelog.rst:261
+#: ../../changelog.rst:263
 msgid "Zakończenie tłumaczenia :doc:`THS<THS>`."
 msgstr ""
 
-#: ../../changelog.rst:264
+#: ../../changelog.rst:266
 msgid "2013-09-08"
 msgstr ""
 
-#: ../../changelog.rst:264
+#: ../../changelog.rst:266
 msgid "Adaptacja skróconej instrukcji do formatu używanego podczas tłumaczenia."
 msgstr ""
 
-#: ../../changelog.rst:267
+#: ../../changelog.rst:269
 msgid "2013-09-03"
 msgstr ""
 
-#: ../../changelog.rst:267
+#: ../../changelog.rst:269
 msgid "Zakończenie tłumaczenia :doc:`M14<M14>`."
 msgstr ""
 
-#: ../../changelog.rst:270
+#: ../../changelog.rst:272
 msgid "2013-09-01"
 msgstr ""
 
-#: ../../changelog.rst:270
+#: ../../changelog.rst:272
 msgid "Start serwisu."
 msgstr ""
 
-#: ../../changelog.rst:273
+#: ../../changelog.rst:275
 msgid "2012-12-01"
 msgstr ""
 
-#: ../../changelog.rst:273
+#: ../../changelog.rst:275
 msgid "Rozpoczęcie procesu tłumaczenia na `forum Strefy Gry <http://strefa-gry.pl/index.php?/topic/6-tlumaczenie-mtg-czesc-1-typy-cechy-i-zdolnosci-kart/>`_"
 msgstr ""

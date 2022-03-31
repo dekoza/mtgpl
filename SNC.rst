@@ -9,6 +9,16 @@
    At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
 
 
+:mtgtip:`Cabaretti Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08f33c8a-8e93-4296-964b-da132a854b3b.jpg?1648677718|https://scryfall.com/card/snc/173/cabaretti-charm?utm_source=api>`
+   Choose one —
+
+   • Cabaretti Charm deals damage equal to the number of creatures you control to target creature or planeswalker.
+
+   • Creatures you control get +1/+1 and gain trample until end of turn.
+
+   • Create two 1/1 green and white Citizen creature tokens.
+
+
 :mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56.jpg?1648500160|https://scryfall.com/card/snc/199/maestros-charm?utm_source=api>`
    Choose one —
 
