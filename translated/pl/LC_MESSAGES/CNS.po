@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-30 20:46+0000\n"
+"PO-Revision-Date: 2022-03-31 22:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -1789,6 +1789,8 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |"
 "mana_u| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_u|.)"
 
 #: ../../CNS.rst:533
 msgid ""
@@ -2175,6 +2177,8 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_b| (You may pay an additional |mana_1|\\ |"
 "mana_b| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_b| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_b|.)"
 
 #: ../../CNS.rst:673
 msgid ""
@@ -2189,6 +2193,8 @@ msgid ""
 "Quag Vampires enters the battlefield with a +1/+1 counter on it for each "
 "time it was kicked."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../CNS.rst:680
 msgid ""
@@ -2475,12 +2481,16 @@ msgid ""
 "Multikicker |mana_r| (You may pay an additional |mana_r| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_r|.)"
 
 #: ../../CNS.rst:775
 msgid ""
 "When Deathforge Shaman enters the battlefield, it deals damage to target "
 "player or planeswalker equal to twice the number of times it was kicked."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu graczowi lub "
+"wędrowcowi obrażenia równe dwukrotnie tyle, ile razy został podbity."
 
 #: ../../CNS.rst:780
 msgid ""
@@ -2594,6 +2604,8 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |"
 "mana_r| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_r|.)"
 
 #: ../../CNS.rst:823
 msgid "Haste"
@@ -2604,6 +2616,8 @@ msgid ""
 "Skitter of Lizards enters the battlefield with a +1/+1 counter on it for "
 "each time it was kicked."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../CNS.rst:832
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 19:45+0100\n"
-"PO-Revision-Date: 2022-03-28 10:53+0000\n"
+"PO-Revision-Date: 2022-03-31 22:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -367,6 +367,8 @@ msgid ""
 "Whenever Hada Freeblade or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on Hada Freeblade."
 msgstr ""
+"Kiedy ten byt albo inny Sojusznik wejdzie na pole bitwy pod twoim władaniem, "
+"możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../WWK.rst:52
 msgid ""
@@ -388,7 +390,7 @@ msgstr ""
 
 #: ../../WWK.rst:55
 msgid "Create two 1/1 white Soldier Ally creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Piechur Sojusznik 1/1."
 
 #: ../../WWK.rst:60
 msgid ""
@@ -600,6 +602,9 @@ msgid ""
 "control, you may have Allies you control gain lifelink until end of turn, "
 "and you may put a +1/+1 counter on Talus Paladin."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że Sojusznicy pod twoim władaniem do końca "
+"tury zyskają więź życia i możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../WWK.rst:126
 msgid ""
@@ -680,6 +685,8 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |"
 "mana_u| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_u|.)"
 
 #: ../../WWK.rst:149 ../../WWK.rst:217
 msgid ""
@@ -717,6 +724,9 @@ msgid ""
 "control, target player mills X cards, where X is the number of Allies you "
 "control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, wskazany gracz mieli X kart, gdzie X jest liczbą Sojuszników pod "
+"twoim władaniem."
 
 #: ../../WWK.rst:164
 msgid ""
@@ -776,6 +786,8 @@ msgid ""
 "You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally "
 "creature on the battlefield."
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwora typu Sojusznik na polu bitwy."
 
 #: ../../WWK.rst:184
 msgid ""
@@ -833,6 +845,9 @@ msgid ""
 "library. If it's a creature card, you may reveal it and put a quest counter "
 "on Quest for Ula's Temple."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz spojrzeć na wierzchnią kartę "
+"twojej biblioteki. Jeśli to karta stwora, możesz ujawnić ją i umieścić "
+"znacznik wyprawy na tym bycie."
 
 #: ../../WWK.rst:195
 msgid ""
@@ -840,6 +855,9 @@ msgid ""
 "on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or "
 "Serpent creature card from your hand onto the battlefield."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli na tym bycie są co najmniej trzy "
+"znaczniki wyprawy, możesz umieścić na polu bitwy kartę stwora typu Kraken, "
+"Lewiatan, Ośmiornica lub Wężownik z twojej ręki."
 
 #: ../../WWK.rst:200
 msgid ""
@@ -854,6 +872,9 @@ msgid ""
 "lifelink. (Damage dealt by a creature with lifelink also causes its "
 "controller to gain that much life.)"
 msgstr ""
+"O ile władasz Równiną, ten stwór ma pierwszy cios i wieź życia. (Obrażenia "
+"zadane przez stwora z więzią życia także powodują, że jego władca zyskuje "
+"tyle samo żyć.)"
 
 #: ../../WWK.rst:204
 msgid ""
@@ -867,6 +888,8 @@ msgid ""
 "Search your library for any number of nonland cards, exile them, then "
 "shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece dowolną liczbę nielądowych kart, wygnaj je, po "
+"czym przetasuj."
 
 #: ../../WWK.rst:210
 msgid ""
@@ -880,6 +903,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_2|. Draw a card for "
 "each time Spell Contortion was kicked."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|. Dobierz kartę "
+"za każde podbicie tego czaru."
 
 #: ../../WWK.rst:214
 msgid ""
@@ -893,6 +918,8 @@ msgid ""
 "When Surrakar Banisher enters the battlefield, you may return target tapped "
 "creature to its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazanego "
+"przekręconego stwora do ręki właściciela."
 
 #: ../../WWK.rst:220
 msgid ""
@@ -907,6 +934,9 @@ msgid ""
 "player's library for an artifact card and exile it. Then that player "
 "shuffles. Until end of turn, you may play that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wyszukaj w bibliotece "
+"owego gracza kartę artefaktu i wygnaj ją. Następnie ów gracz tasuje. Do "
+"końca tury możesz zagrać ową kartę."
 
 #: ../../WWK.rst:226
 msgid ""
@@ -918,12 +948,15 @@ msgstr ""
 #: ../../WWK.rst:223
 msgid "|mana_u|, |tap|: You may tap or untap another target creature."
 msgstr ""
+"|mana_u|, |tap|: Możesz przekręcić lub odkręcić innego wskazanego stwora."
 
 #: ../../WWK.rst:225
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may untap Tideforce Elemental."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"odkręcić tego stwora."
 
 #: ../../WWK.rst:230
 msgid ""
@@ -937,6 +970,8 @@ msgid ""
 "Reveal cards from the top of your library until you reveal a nonland card, "
 "then put all cards revealed this way into your hand."
 msgstr ""
+"Ujawniaj karty z wierzchu twojej biblioteki aż ujawnisz nielądową kartę, po "
+"czym umieść wszystkie ujawnione tak karty w twojej ręce."
 
 #: ../../WWK.rst:236
 msgid ""
@@ -973,6 +1008,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Vapor Snare unless you return a "
 "land you control to its owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć tego stwora, chyba że "
+"przywrócisz ląd pod twoim władaniem do ręki właściciela."
 
 #: ../../WWK.rst:252
 msgid ""
@@ -1010,6 +1047,8 @@ msgid ""
 "Enchanted land is a 2/2 blue Elemental creature with flying. It's still a "
 "land."
 msgstr ""
+"Zauroczony ląd jest niebieskim stworem Żywiołak 2/2 z lataniem. Nadal jest "
+"lądem."
 
 #: ../../WWK.rst:266
 msgid ""
@@ -1039,6 +1078,9 @@ msgid ""
 "battlefield under your control if its mana value is less than or equal to "
 "the number of Allies you control."
 msgstr ""
+"|tap|: Umieść wskazaną kartę stwora z cmentarza przeciwnika na polu bitwy "
+"pod twoim władaniem jeśli jej skrót many jest mniejszy lub równy liczbie "
+"Sojuszników pod twoim władaniem."
 
 #: ../../WWK.rst:274
 msgid ""
@@ -1052,6 +1094,8 @@ msgid ""
 "At the beginning of your upkeep, each player sacrifices a non-Vampire "
 "creature."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy gracz poświęca stwora bez typu "
+"Wampir."
 
 #: ../../WWK.rst:280
 msgid ""
@@ -1085,13 +1129,15 @@ msgstr ""
 
 #: ../../WWK.rst:283
 msgid "Bojuka Brigand can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../WWK.rst:285
 msgid ""
 "Whenever Bojuka Brigand or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on Bojuka Brigand."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../WWK.rst:292
 msgid ""
@@ -1120,6 +1166,8 @@ msgid ""
 "Whenever Butcher of Malakir or another creature you control dies, each "
 "opponent sacrifices a creature."
 msgstr ""
+"Ilekroć umrze ten lub inny stwór pod twoim władaniem, każdy przeciwnik "
+"poświęca stwora."
 
 #: ../../WWK.rst:302
 msgid ""
@@ -1133,6 +1181,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may have target creature get -1/-1 until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"zdecydować, że wskazany stwór dostanie do końca tury -1/-1."
 
 #: ../../WWK.rst:310
 msgid ""
@@ -1143,7 +1193,7 @@ msgstr ""
 
 #: ../../WWK.rst:307
 msgid "Enchanted land is a 3/3 black Ooze creature. It's still a land."
-msgstr ""
+msgstr "Zauroczony ląd jest czarnym stworem Szlam 3/3. Nadal jest lądem."
 
 #: ../../WWK.rst:314
 msgid ""
@@ -1158,6 +1208,9 @@ msgid ""
 "If you do, Dead Reckoning deals damage equal to that card's power to target "
 "creature."
 msgstr ""
+"Możesz umieścić wskazaną kartę stwora z twojego cmentarza na wierzchu twojej "
+"biblioteki. Jeśli tak zrobisz, ten byt zadaje wskazanemu stworowi obrażenia "
+"równe sile owej karty."
 
 #: ../../WWK.rst:318
 msgid ""
@@ -1189,6 +1242,9 @@ msgid ""
 "Whenever Kalastria Highborn or another Vampire you control dies, you may pay "
 "|mana_b|. If you do, target player loses 2 life and you gain 2 life."
 msgstr ""
+"Ilekroć umrze ten stwór lub inny Wampir pod twoim władaniem, możesz zapłacić "
+"|mana_b|. Jeśli tak zrobisz, wskazany gracz traci 2 życia, a ty zyskaj 2 "
+"życia."
 
 #: ../../WWK.rst:330
 msgid ""
@@ -1203,6 +1259,8 @@ msgid ""
 "of Swamps you control. You choose one of them. That player discards that "
 "card."
 msgstr ""
+"Wskazany gracz ujawnia tyle kart ze swojej ręki, iloma Bagnami władasz. "
+"Wybierz jedną z nich. Ów gracz odrzuca ową kartę."
 
 #: ../../WWK.rst:336
 msgid ""
@@ -1216,12 +1274,16 @@ msgid ""
 "If a white creature is attacking, you may pay |mana_b|\\ |mana_b| rather "
 "than pay this spell's mana cost."
 msgstr ""
+"Jeśli atakuje biały stwór, możesz zapłacić |mana_b|\\ |mana_b| zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../WWK.rst:335
 msgid ""
 "Exile target attacking creature. Create a token that's a copy of that "
 "creature. Exile it at the beginning of the next end step."
 msgstr ""
+"Wygnaj wskazanego atakującego stwora. Stwórz żeton będący kopią owego "
+"stwora. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../WWK.rst:340
 msgid ""
@@ -1232,7 +1294,7 @@ msgstr ""
 
 #: ../../WWK.rst:339
 msgid "Whenever Pulse Tracker attacks, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 1 życiu."
 
 #: ../../WWK.rst:348
 msgid ""
@@ -1246,12 +1308,16 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_b| (You may pay an additional |mana_1|\\ |"
 "mana_b| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_b| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_b|.)"
 
 #: ../../WWK.rst:347
 msgid ""
 "Quag Vampires enters the battlefield with a +1/+1 counter on it for each "
 "time it was kicked."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../WWK.rst:354
 msgid ""
@@ -1266,6 +1332,8 @@ msgid ""
 "Whenever an opponent discards a card, you may put a quest counter on Quest "
 "for the Nihil Stone."
 msgstr ""
+"Ilekroć przeciwnik odrzuci kartę, możesz umieścić znacznik wyprawy na tym "
+"bycie."
 
 #: ../../WWK.rst:353
 msgid ""
@@ -1273,6 +1341,9 @@ msgid ""
 "hand and Quest for the Nihil Stone has two or more quest counters on it, you "
 "may have that player lose 5 life."
 msgstr ""
+"Na początku kroku utrzymania każdego przeciwnika, jeśli ów gracz nie ma kart "
+"w ręce a ten byt ma co najmniej dwa znaczniki wyprawy, możesz zdecydować, że "
+"ów gracz straci 5 żyć."
 
 #: ../../WWK.rst:358
 msgid ""
@@ -1284,7 +1355,7 @@ msgstr ""
 #: ../../WWK.rst:357
 msgid ""
 "Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+1 o ile przeciwnik ma co najwyżej 10 żyć."
 
 #: ../../WWK.rst:364
 msgid ""
@@ -1298,12 +1369,16 @@ msgid ""
 "|tap|: Exile the top card of target player's library. If it's a land card, "
 "you gain 1 life."
 msgstr ""
+"|tap|: Wygnaj wierzchnią kartę biblioteki wskazanego gracza. Jeśli to karta "
+"lądu, zyskaj 1 życie."
 
 #: ../../WWK.rst:363
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may untap Scrib Nibblers."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"odkręcić ten byt."
 
 #: ../../WWK.rst:368
 msgid ""
@@ -1317,6 +1392,8 @@ msgid ""
 "Whenever Shoreline Salvager deals combat damage to a player, if you control "
 "an Island, you may draw a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz Wyspą, "
+"możesz dobrać kartę."
 
 #: ../../WWK.rst:372
 msgid ""
@@ -1348,6 +1425,8 @@ msgid ""
 "Landfall — If you had a land enter the battlefield under your control this "
 "turn, that creature gets -4/-4 until end of turn instead."
 msgstr ""
+"Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
+"zamiast tego ów stwór dostaje do końca tury -4/-4."
 
 #: ../../WWK.rst:382
 msgid ""
@@ -1383,6 +1462,9 @@ msgid ""
 "your control, you may have Ally creatures you control get +1/+0 until end of "
 "turn."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że Sojusznicy pod twoim władaniem dostają do "
+"końca tury +1/+0."
 
 #: ../../WWK.rst:392
 msgid ""
@@ -1396,6 +1478,8 @@ msgid ""
 "|tap|: Target player gains control of target artifact, creature, or land you "
 "control."
 msgstr ""
+"|tap|: Wskazany gracz zyskuje władanie nad wskazanym artefaktem, stworem lub "
+"lądem pod twoim władaniem."
 
 #: ../../WWK.rst:396
 msgid ""
@@ -1420,6 +1504,8 @@ msgid ""
 "Chain Reaction deals X damage to each creature, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest liczbą stworów "
+"na polu bitwy."
 
 #: ../../WWK.rst:406
 msgid ""
@@ -1433,6 +1519,8 @@ msgid ""
 "Enchanted creature gets +1/+0 for each Mountain you control and has first "
 "strike."
 msgstr ""
+"Zauroczony stwór dostaje +1/+0 za każdą Górę pod twoim władaniem i ma "
+"pierwszy cios."
 
 #: ../../WWK.rst:412
 msgid ""
@@ -1469,6 +1557,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may have Cosi's Ravager deal 1 damage to target player or planeswalker."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"sprawić, że ten byt zada wskazanemu graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../WWK.rst:424
 msgid ""
@@ -1481,6 +1571,8 @@ msgstr ""
 msgid ""
 "Enchanted land is a 4/2 red Beast creature with trample. It's still a land."
 msgstr ""
+"Zauroczony ląd jest czerwonym stworem Bestia 4/2 z tratowaniem. Nadal jest "
+"lądem."
 
 #: ../../WWK.rst:430
 msgid ""
@@ -1491,7 +1583,7 @@ msgstr ""
 
 #: ../../WWK.rst:429
 msgid "|tap|: Cunning Sparkmage deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten byt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../WWK.rst:436
 msgid ""
@@ -1505,12 +1597,16 @@ msgid ""
 "Multikicker |mana_r| (You may pay an additional |mana_r| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"wielokrotność |mana_r|.)"
 
 #: ../../WWK.rst:435
 msgid ""
 "When Deathforge Shaman enters the battlefield, it deals damage to target "
 "player or planeswalker equal to twice the number of times it was kicked."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu graczowi lub "
+"wędrowcowi obrażenia równe dwukrotnie tyle, ile razy został podbity."
 
 #: ../../WWK.rst:440
 msgid ""
@@ -1545,6 +1641,7 @@ msgstr ""
 msgid ""
 "Whenever Grotag Thrasher attacks, target creature can't block this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wskazany stwór nie może blokować w tej turze."
 
 #: ../../WWK.rst:452
 msgid ""
@@ -1560,6 +1657,9 @@ msgid ""
 "player, create a 3/3 red Ogre creature token unless that creature's "
 "controller pays |mana_3|."
 msgstr ""
+"Ilekroć zaatakuje stwór pod władaniem przeciwnika, jeśli jesteś broniącym "
+"się graczem, stwórz żeton czerwonego stwora Ogr 3/3 chyba że władca owego "
+"stwora zapłaci |mana_3|."
 
 #: ../../WWK.rst:460
 msgid ""
@@ -1570,13 +1670,15 @@ msgstr ""
 
 #: ../../WWK.rst:457
 msgid "|mana_1|\\ |mana_r|: Mordant Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../WWK.rst:459
 msgid ""
 "Whenever Mordant Dragon deals combat damage to a player, you may have it "
 "deal that much damage to target creature that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zdecydować, że zada "
+"on wskazanemu stworowi pod władaniem owego gracza tyle samo obrażeń."
 
 #: ../../WWK.rst:466
 msgid ""
@@ -1591,12 +1693,16 @@ msgid ""
 "Whenever a Goblin enters the battlefield under your control, you may put a "
 "quest counter on Quest for the Goblin Lord."
 msgstr ""
+"Ilekroć Goblin wejdzie na pole bitwy pod twoim władaniem, możesz umieścić "
+"żeton wyprawy na tym bycie."
 
 #: ../../WWK.rst:465
 msgid ""
 "As long as Quest for the Goblin Lord has five or more quest counters on it, "
 "creatures you control get +2/+0."
 msgstr ""
+"O ile ten byt ma co najmniej pięć znaczników wyprawy, stwory pod twoim "
+"władaniem dostają +2/+0."
 
 #: ../../WWK.rst:472
 msgid ""
@@ -1610,6 +1716,8 @@ msgid ""
 "If an opponent cast a blue spell this turn, you may pay |mana_r| rather than "
 "pay this spell's mana cost."
 msgstr ""
+"Jeśli przeciwnik rzucił niebieski czar w tej turze, możesz zapłacić |mana_r| "
+"zamiast płacić koszt many tego czaru."
 
 #: ../../WWK.rst:471
 msgid "Change the target of target spell with a single target."
@@ -1627,6 +1735,8 @@ msgid ""
 "Destroy target land, then Roiling Terrain deals damage to that land's "
 "controller equal to the number of land cards in that player's graveyard."
 msgstr ""
+"Zniszcz wskazany ląd, po czym ten czar zadaje władcy owego lądu obrażenia "
+"równe liczbie kart lądów w cmentarzu owego gracza."
 
 #: ../../WWK.rst:480
 msgid ""
@@ -1640,6 +1750,8 @@ msgid ""
 "Whenever you cast a kicked spell, you may have Rumbling Aftershocks deal "
 "damage to any target equal to the number of times that spell was kicked."
 msgstr ""
+"Ilekroć rzucisz podbity czar, możesz zdecydować, że ten byt zada wskazanemu "
+"celowi obrażenia równe liczbie podbić owego czaru."
 
 #: ../../WWK.rst:486
 msgid ""
@@ -1653,6 +1765,9 @@ msgid ""
 "Searing Blaze deals 1 damage to target player or planeswalker and 1 damage "
 "to target creature that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenia oraz 1 "
+"obrażenie wskazanemu stworowi pod władaniem owego gracza lub władcy owego "
+"wędrowca."
 
 #: ../../WWK.rst:485
 msgid ""
@@ -1660,6 +1775,9 @@ msgid ""
 "turn, Searing Blaze deals 3 damage to that player or planeswalker and 3 "
 "damage to that creature instead."
 msgstr ""
+"Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
+"zamiast tego ten czar zadaje owemu graczowi lub wędrowcowi 3 obrażenia oraz "
+"3 obrażenia owemu stworowi."
 
 #: ../../WWK.rst:494
 msgid ""
@@ -1673,12 +1791,16 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |"
 "mana_r| any number of times as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo "
+"zapłacić wielokrotność |mana_1|\\ |mana_r|.)"
 
 #: ../../WWK.rst:493
 msgid ""
 "Skitter of Lizards enters the battlefield with a +1/+1 counter on it for "
 "each time it was kicked."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../WWK.rst:498
 msgid ""
@@ -1692,6 +1814,8 @@ msgid ""
 "Whenever Slavering Nulls deals combat damage to a player, if you control a "
 "Swamp, you may have that player discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli władasz Bagnem, "
+"możesz zdecydować, że ów gracz odrzuci kartę."
 
 #: ../../WWK.rst:504
 msgid ""
@@ -1703,12 +1827,15 @@ msgstr ""
 #: ../../WWK.rst:501
 msgid "This spell costs |mana_1| less to cast for each attacking creature."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego atakującego stwora."
 
 #: ../../WWK.rst:503
 msgid ""
 "Create a 6/12 colorless Construct artifact creature token with trample. "
 "Exile it at the beginning of your next end step."
 msgstr ""
+"Stwórz żeton bezkolorowego artefaktycznego stwora Konstrukt 6/12 z "
+"tratowaniem. Wygnaj go na początku twojego najbliższego kroku końcowego."
 
 #: ../../WWK.rst:508
 msgid ""
@@ -1724,6 +1851,10 @@ msgid ""
 "graveyard this way, Tuktuk Scrapper deals damage to that artifact's "
 "controller equal to the number of Allies you control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zniszczyć wskazany artefakt. Jeśli ów artefakt trafi w ten "
+"sposób do cmentarza, ten byt zadaje władcy owego artefaktu obrażenia równe "
+"liczbie Sojuszników pod twoim władaniem."
 
 #: ../../WWK.rst:512
 msgid ""
@@ -1785,6 +1916,8 @@ msgstr ""
 msgid ""
 "Enchanted creature can't be blocked except by creatures with flying or reach."
 msgstr ""
+"Zauroczony stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem."
 
 #: ../../WWK.rst:529
 msgid ""
@@ -1817,6 +1950,8 @@ msgid ""
 "Put a +1/+1 counter on target creature you control. Another target creature "
 "blocks it this turn if able."
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Inny "
+"wskazany stwór blokuje w tej turze jeśli może."
 
 #: ../../WWK.rst:546
 msgid ""
@@ -1868,6 +2003,8 @@ msgid ""
 "Whenever Graypelt Hunter or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on Graypelt Hunter."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../WWK.rst:562
 msgid ""
@@ -1885,6 +2022,8 @@ msgid ""
 "Landfall — If you had a land enter the battlefield under your control this "
 "turn, that creature gets +4/+4 until end of turn instead."
 msgstr ""
+"Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
+"zamiast tego ów stwór dostaje do końca tury +4/+4."
 
 #: ../../WWK.rst:566
 msgid ""
@@ -1898,6 +2037,8 @@ msgid ""
 "|tap|: Add X mana of any one color, where X is the number of Allies you "
 "control."
 msgstr ""
+"|tap|: Weź X many dowolnego jednego koloru, gdzie X jest liczbą Sojuszników "
+"pod twoim władaniem."
 
 #: ../../WWK.rst:574
 msgid ""
@@ -1911,12 +2052,16 @@ msgid ""
 "Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each "
 "time it was kicked."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../WWK.rst:573
 msgid ""
 "Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga "
 "Warcaller."
 msgstr ""
+"Inne Elfy pod twoim władaniem dostają +1/+1 za każdy znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../WWK.rst:576
 msgid ""
@@ -1945,11 +2090,12 @@ msgstr ""
 
 #: ../../WWK.rst:585
 msgid "You don't lose unspent green mana as steps and phases end."
-msgstr ""
+msgstr "Nie tracisz niewydanej many podczas końców kroków i faz."
 
 #: ../../WWK.rst:587
 msgid "Omnath, Locus of Mana gets +1/+1 for each unspent green mana you have."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdą niewydaną zieloną manę, jaką posiadasz."
 
 #: ../../WWK.rst:594
 msgid ""
@@ -1963,12 +2109,16 @@ msgid ""
 "Whenever a creature you control becomes tapped, you may put a quest counter "
 "on Quest for Renewal."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zostanie przekręcony, możesz umieścić "
+"znacznik wyprawy na tym bycie."
 
 #: ../../WWK.rst:593
 msgid ""
 "As long as there are four or more quest counters on Quest for Renewal, untap "
 "all creatures you control during each other player's untap step."
 msgstr ""
+"O ile na tym bycie są co najmniej cztery znaczniki wyprawy, odkręć wszystkie "
+"stwory pod twoim władaniem podczas kroku odkręcania każdego z graczy."
 
 #: ../../WWK.rst:600
 msgid ""
@@ -1982,10 +2132,12 @@ msgid ""
 "If a black creature with flying is attacking, you may pay |mana_g| rather "
 "than pay this spell's mana cost."
 msgstr ""
+"Jeśli atakuje czarny stwór z lataniem, możesz zapłacić |mana_g| zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../WWK.rst:599
 msgid "Destroy target attacking creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora z lataniem."
 
 #: ../../WWK.rst:604
 msgid ""
@@ -1999,6 +2151,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, "
 "Snapping Creeper gains vigilance until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
+"zyskuje do końca tury czujność."
 
 #: ../../WWK.rst:610
 msgid ""
@@ -2012,6 +2166,8 @@ msgid ""
 "Choose target creature, then choose another target creature for each time "
 "this spell was kicked. Put X +1/+1 counters on each of them."
 msgstr ""
+"Wskaż stwora, po czym wskaż innego stwora za każde podbicie tego czaru. "
+"Umieść X znaczników +1/+1 na każdym z nich."
 
 #: ../../WWK.rst:614
 msgid ""
@@ -2025,6 +2181,8 @@ msgid ""
 "As long as you control a Mountain, Summit Apes has menace. (It can't be "
 "blocked except by two or more creatures.)"
 msgstr ""
+"O ile władasz Górą, ten stwór ma złowrogość. (Nie może być blokowany, chyba "
+"że przez co najmniej dwa stwory.)"
 
 #: ../../WWK.rst:618
 msgid ""
@@ -2055,6 +2213,9 @@ msgid ""
 "|tap|: Target land you control becomes an X/X Elemental creature until end "
 "of turn, where X is the number of Allies you control. It's still a land."
 msgstr ""
+"|tap|: Wskazany ląd pod twoim władaniem do końca tury staje się stworem "
+"Żywiołak X/X, gdzie X jest liczbą Sojuszników pod twoim władaniem. Nadal "
+"jest lądem."
 
 #: ../../WWK.rst:630
 msgid ""
@@ -2099,7 +2260,7 @@ msgstr ""
 
 #: ../../WWK.rst:639
 msgid "Whenever Novablast Wurm attacks, destroy all other creatures."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, zniszcz wszystkie inne stwory."
 
 #: ../../WWK.rst:646
 msgid ""
@@ -2113,6 +2274,8 @@ msgid ""
 "Islandwalk, swampwalk (This creature can't be blocked as long as defending "
 "player controls an Island or a Swamp.)"
 msgstr ""
+"Podbój wysp, podbój bagien (Ten stwór nie może być blokowany o ile broniący "
+"się gracz włada Wyspą lub Bagnem.)"
 
 #: ../../WWK.rst:645
 msgid ""
@@ -2121,6 +2284,10 @@ msgid ""
 "paying its mana cost. If that spell would be put into a graveyard this turn, "
 "exile it instead."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz rzucić wskazaną "
+"kartę sztuczki lub obrzędu z cmentarza owego gracza bez płacenia jej kosztu "
+"many. Jeśli ów czar miałby trafić do cmentarza w tej turze, zamiast tego "
+"wygnaj ją."
 
 #: ../../WWK.rst:650
 msgid ""
@@ -2134,6 +2301,8 @@ msgid ""
 "Whenever a permanent enters the battlefield tapped and under your control, "
 "untap it."
 msgstr ""
+"Ilekroć byt wejdzie przekręcony na pole bitwy i pod twoim władaniem, odkręć "
+"go."
 
 #: ../../WWK.rst:656
 msgid ""
@@ -2189,6 +2358,8 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, you may destroy "
 "target Equipment that player controls."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz zniszczyć "
+"wskazane Wyposażenie pod władaniem owego gracza."
 
 #: ../../WWK.rst:676
 msgid ""
@@ -2202,6 +2373,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, Hedron "
 "Rover gets +2/+2 until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
+"dostaje do końca tury +2/+2."
 
 #: ../../WWK.rst:682
 msgid ""
@@ -2260,6 +2433,8 @@ msgid ""
 "Equipped creature has \"|tap|, Unattach Razor Boomerang: It deals 1 damage "
 "to any target. Return Razor Boomerang to its owner's hand.\""
 msgstr ""
+"Wyposażony stwór ma \"|tap|, odłącz Razor Boomerang: Zadaje on wskazanemu "
+"celowi 1 obrażenie. Przywróć Razor Boomerang do ręki właściciela.\""
 
 #: ../../WWK.rst:702
 msgid ""
@@ -2371,6 +2546,8 @@ msgid ""
 "|mana_4|: Dread Statuary becomes a 4/2 Golem artifact creature until end of "
 "turn. It's still a land."
 msgstr ""
+"|mana_4|: Ten byt staje się do końca tury artefaktowym stworem Golem 4/2. "
+"Nadal jest lądem."
 
 #: ../../WWK.rst:742
 msgid ""
@@ -2400,13 +2577,15 @@ msgstr ""
 
 #: ../../WWK.rst:745
 msgid "Halimar Depths enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../WWK.rst:747
 msgid ""
 "When Halimar Depths enters the battlefield, look at the top three cards of "
 "your library, then put them back in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, po czym umieść je dowolnie z powrotem."
 
 #: ../../WWK.rst:749
 msgid "|tap|: Add |mana_u|."
@@ -2509,13 +2688,15 @@ msgstr ""
 
 #: ../../WWK.rst:783
 msgid "Sejiri Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../WWK.rst:785
 msgid ""
 "When Sejiri Steppe enters the battlefield, target creature you control gains "
 "protection from the color of your choice until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
+"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../WWK.rst:787
 msgid "|tap|: Add |mana_w|."
@@ -2530,13 +2711,15 @@ msgstr ""
 
 #: ../../WWK.rst:791
 msgid "Smoldering Spires enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../WWK.rst:793
 msgid ""
 "When Smoldering Spires enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../WWK.rst:795
 msgid "|tap|: Add |mana_r|."
@@ -2577,6 +2760,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Tectonic Edge: Destroy target nonbasic land. "
 "Activate only if an opponent controls four or more lands."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten byt: Zniszcz wskazany niebazowy ląd. Aktywuj "
+"tylko jeśli przeciwnik włada co najmniej czterema lądami."
 
 #~ msgid ""
 #~ "Multikicker |mana_2| (You may pay an additional |mana_2| any number of "

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-30 18:05+0000\n"
+"PO-Revision-Date: 2022-03-31 22:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -3739,6 +3739,8 @@ msgid ""
 "Choose target creature, then choose another target creature for each time "
 "this spell was kicked. Put X +1/+1 counters on each of them."
 msgstr ""
+"Wskaż stwora, po czym wskaż innego stwora za każde podbicie tego czaru. "
+"Umieść X znaczników +1/+1 na każdym z nich."
 
 #: ../../C20.rst:1166
 msgid ""
@@ -5277,13 +5279,15 @@ msgstr ""
 
 #: ../../C20.rst:1701
 msgid "Halimar Depths enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C20.rst:1703
 msgid ""
 "When Halimar Depths enters the battlefield, look at the top three cards of "
 "your library, then put them back in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, po czym umieść je dowolnie z powrotem."
 
 #: ../../C20.rst:1712
 msgid ""

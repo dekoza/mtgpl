@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-30 16:03+0000\n"
+"PO-Revision-Date: 2022-03-31 22:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -1270,6 +1270,7 @@ msgstr "Błysk"
 #: ../../C18.rst:345
 msgid "This spell costs |mana_1| less to cast for each attacking creature."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego atakującego stwora."
 
 #: ../../C18.rst:349
 msgid ""
@@ -2274,6 +2275,8 @@ msgid ""
 "Reveal cards from the top of your library until you reveal a nonland card, "
 "then put all cards revealed this way into your hand."
 msgstr ""
+"Ujawniaj karty z wierzchu twojej biblioteki aż ujawnisz nielądową kartę, po "
+"czym umieść wszystkie ujawnione tak karty w twojej ręce."
 
 #: ../../C18.rst:682
 msgid ""
@@ -2493,6 +2496,8 @@ msgid ""
 "Chain Reaction deals X damage to each creature, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest liczbą stworów "
+"na polu bitwy."
 
 #: ../../C18.rst:748
 msgid ""
@@ -4671,13 +4676,15 @@ msgstr ""
 
 #: ../../C18.rst:1503
 msgid "Halimar Depths enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1505
 msgid ""
 "When Halimar Depths enters the battlefield, look at the top three cards of "
 "your library, then put them back in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na trzy wierzchnie karty twojej "
+"biblioteki, po czym umieść je dowolnie z powrotem."
 
 #: ../../C18.rst:1507 ../../C18.rst:1585 ../../C18.rst:1685
 msgid "|tap|: Add |mana_u|."

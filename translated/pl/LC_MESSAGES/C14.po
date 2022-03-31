@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-30 20:46+0000\n"
+"PO-Revision-Date: 2022-03-31 22:56+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -2673,6 +2673,8 @@ msgid ""
 "Whenever Butcher of Malakir or another creature you control dies, each "
 "opponent sacrifices a creature."
 msgstr ""
+"Ilekroć umrze ten lub inny stwór pod twoim władaniem, każdy przeciwnik "
+"poświęca stwora."
 
 #: ../../C14.rst:800
 msgid ""
@@ -3705,12 +3707,16 @@ msgid ""
 "Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each "
 "time it was kicked."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając tyle znaczników +1/+1, ile razy został "
+"podbity."
 
 #: ../../C14.rst:1139
 msgid ""
 "Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga "
 "Warcaller."
 msgstr ""
+"Inne Elfy pod twoim władaniem dostają +1/+1 za każdy znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../C14.rst:1144
 msgid ""
@@ -5393,6 +5399,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice Tectonic Edge: Destroy target nonbasic land. "
 "Activate only if an opponent controls four or more lands."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten byt: Zniszcz wskazany niebazowy ląd. Aktywuj "
+"tylko jeśli przeciwnik włada co najmniej czterema lądami."
 
 #: ../../C14.rst:1786
 msgid ""
