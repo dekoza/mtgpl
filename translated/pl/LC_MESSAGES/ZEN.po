@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 08:17+0000\n"
+"PO-Revision-Date: 2022-04-01 08:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -743,6 +743,8 @@ msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to target player or "
 "planeswalker this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 1 obrażenia, jakie mogłoby w tej turze zostać "
+"zadane wskazanemu graczowi lub wędrowcowi."
 
 #: ../../ZEN.rst:166
 msgid ""
@@ -756,6 +758,8 @@ msgid ""
 "Whenever Ondu Cleric or another Ally enters the battlefield under your "
 "control, you may gain life equal to the number of Allies you control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zyskać życia równe liczbie Sojuszników pod twoim władaniem."
 
 #: ../../ZEN.rst:168
 msgid ""
@@ -1273,6 +1277,9 @@ msgid ""
 "your control, you may have Ally creatures you control gain flying until end "
 "of turn."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że Sojusznicy pod twoim władanie zyskają do "
+"końca tury latanie."
 
 #: ../../ZEN.rst:348
 msgid ""
@@ -1425,6 +1432,8 @@ msgid ""
 "Whenever Umara Raptor or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on Umara Raptor."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:412
 msgid ""
@@ -1490,6 +1499,9 @@ msgid ""
 "the number of Allies you control. You choose one of them. That player "
 "discards that card."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, wskazany gracz ujawnia tyle kart ze swojej ręki, iloma "
+"Sojusznikami władasz. Wybierz jedną z nich. Ów gracz odrzuca ową kartę."
 
 #: ../../ZEN.rst:432
 msgid ""
@@ -1758,6 +1770,9 @@ msgid ""
 "control, you may have target player lose life equal to the number of Allies "
 "you control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że wskazany gracz straci życia równe liczbie "
+"Sojuszników pod twoim władaniem."
 
 #: ../../ZEN.rst:522
 msgid ""
@@ -1919,6 +1934,8 @@ msgid ""
 "Whenever Nimana Sell-Sword or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on Nimana Sell-Sword."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:578
 msgid ""
@@ -2332,6 +2349,9 @@ msgid ""
 "your control, you may have Ally creatures you control gain first strike "
 "until end of turn."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że Sojusznicy pod twoim władaniem zyskują do "
+"końca tury pierwszy cios."
 
 #: ../../ZEN.rst:720
 msgid ""
@@ -2362,6 +2382,9 @@ msgid ""
 "Whenever Kazuul Warlord or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on each Ally creature you control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na każdym Sojuszniku pod twoim "
+"władaniem."
 
 #: ../../ZEN.rst:730
 msgid ""
@@ -2438,6 +2461,9 @@ msgid ""
 "control, you may have Murasa Pyromancer deal damage to target creature equal "
 "to the number of Allies you control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że niniejszy byt zada wskazanemu stworowi "
+"obrażenia równe liczbie Sojuszników pod twoim władaniem."
 
 #: ../../ZEN.rst:752
 msgid ""
@@ -2640,6 +2666,8 @@ msgid ""
 "Whenever Tuktuk Grunts or another Ally enters the battlefield under your "
 "control, you may put a +1/+1 counter on Tuktuk Grunts."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:820
 msgid ""
@@ -2879,6 +2907,9 @@ msgid ""
 "control, you may have Ally creatures you control gain vigilance until end of "
 "turn."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że Sojusznicy pod twoim władaniem zyskają do "
+"końca tury czujność."
 
 #: ../../ZEN.rst:896
 msgid ""
@@ -3037,6 +3068,8 @@ msgid ""
 "Whenever Oran-Rief Survivalist or another Ally enters the battlefield under "
 "your control, you may put a +1/+1 counter on Oran-Rief Survivalist."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:944
 msgid ""
@@ -3207,6 +3240,9 @@ msgid ""
 "control, you may have Tajuru Archer deal damage to target creature with "
 "flying equal to the number of Allies you control."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zdecydować, że niniejszy byt zada wskazanemu stworowi z "
+"lataniem obrażenia równe liczbie Sojuszników pod twoim władaniem."
 
 #: ../../ZEN.rst:1000
 msgid ""
@@ -3294,6 +3330,8 @@ msgid ""
 "control, you may create a 2/2 green Wolf creature token. If you do, put a +1/"
 "+1 counter on Turntimber Ranger."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:1026
 msgid ""
@@ -3926,7 +3964,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1257
 msgid "Valakut, the Molten Pinnacle enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1259
 msgid ""
