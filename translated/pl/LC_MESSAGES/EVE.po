@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-04-01 21:13+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eve/pl/>\n"
 "Language: pl\n"
@@ -577,6 +577,8 @@ msgid ""
 "Change the text of target spell or permanent by replacing all instances of "
 "one color word with another."
 msgstr ""
+"Zmień tekst wskazanego czaru lub bytu poprzez zamianę wszystkich wystąpień "
+"jednego słowa określającego kolor, innym."
 
 #: ../../EVE.rst:128
 msgid ""
@@ -599,7 +601,7 @@ msgstr ""
 
 #: ../../EVE.rst:131
 msgid "|mana_2|: Draw a card if you have no cards in hand."
-msgstr ""
+msgstr "|mana_2|: Dobierz kartę jeśli nie masz kart w ręce."
 
 #: ../../EVE.rst:138
 msgid ""
@@ -613,6 +615,8 @@ msgid ""
 "|mana_u|: Target permanent becomes blue in addition to its other colors "
 "until end of turn."
 msgstr ""
+"|mana_u|: Wskazany byt staje się do końca tury dodatkowo niebieski oprócz "
+"jego innych kolorów."
 
 #: ../../EVE.rst:142
 msgid ""
@@ -623,7 +627,7 @@ msgstr ""
 
 #: ../../EVE.rst:141
 msgid "Return all nonblue creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie nie-niebieskie stwory do rąk ich właścicieli."
 
 #: ../../EVE.rst:148
 msgid ""
@@ -638,7 +642,7 @@ msgstr "|tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../EVE.rst:147
 msgid "Whenever you cast a blue spell, you may untap Merrow Levitator."
-msgstr ""
+msgstr "Ilekroć rzucisz niebieski czar, możesz odkręcić ten byt."
 
 #: ../../EVE.rst:154
 msgid ""
@@ -663,6 +667,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Return target creature with a counter on it to "
 "its owner's hand."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Przywróć wskazanego stwora mającego znacznik do "
+"ręki właściciela."
 
 #: ../../EVE.rst:162
 msgid ""
@@ -678,6 +684,9 @@ msgid ""
 "put the cards you revealed this way on the bottom of your library in any "
 "order."
 msgstr ""
+"Barwa — Ujawnij dziesięć wierzchnich kart twojej biblioteki. Za każdy symbol "
+"niebieskiej many pośród nich, wskazany przeciwnik mieli kartę. Następnie "
+"umieść karty ujawnione w ten sposób dowolnie na spodzie twojej biblioteki."
 
 #: ../../EVE.rst:168
 msgid ""
@@ -688,7 +697,7 @@ msgstr ""
 
 #: ../../EVE.rst:167
 msgid "|mana_ur|: Talonrend gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_ur|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../EVE.rst:172
 msgid ""
@@ -702,6 +711,8 @@ msgid ""
 "Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć byt pod twoim władaniem zostanie odkręcony, ten stwór dostaje do "
+"końca tury +1/+1."
 
 #: ../../EVE.rst:176
 msgid ""
@@ -712,7 +723,7 @@ msgstr ""
 
 #: ../../EVE.rst:175
 msgid "|tap|: Target red or green creature gets -2/-0 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany czerwony lub zielony stwór dostaje do końca tury -2/-0."
 
 #: ../../EVE.rst:180
 msgid ""
@@ -727,6 +738,8 @@ msgid ""
 "Whenever Ashling, the Extinguisher deals combat damage to a player, choose "
 "target creature that player controls. The player sacrifices that creature."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wskaż stwora pod władaniem "
+"owego gracza. Ów gracz poświęca owego stwora."
 
 #: ../../EVE.rst:184
 msgid ""
@@ -739,6 +752,7 @@ msgstr ""
 msgid ""
 "|mana_bg|\\ |mana_bg|: Exile target card from a graveyard. You gain 1 life."
 msgstr ""
+"|mana_bg|\\ |mana_bg|: Wygnaj wskazaną kartę z cmentarza. Zyskaj 1 życie."
 
 #: ../../EVE.rst:188
 msgid ""
@@ -752,6 +766,8 @@ msgid ""
 "At the beginning of your upkeep, destroy target creature with a -1/-1 "
 "counter on it."
 msgstr ""
+"Na początku twojego kroku utrzymania, zniszcz wskazanego stwora ze "
+"znacznikiem -1/-1."
 
 #: ../../EVE.rst:194
 msgid ""
@@ -781,7 +797,7 @@ msgstr "|tap|: Wskazany gracz wygania kartę ze swojego cmentarza."
 
 #: ../../EVE.rst:199
 msgid "Whenever you cast a black spell, you may untap Merrow Bonegnawer."
-msgstr ""
+msgstr "Ilekroć rzucisz czarny czar, możesz odkręcić ten byt."
 
 #: ../../EVE.rst:206
 msgid ""
@@ -816,6 +832,8 @@ msgid ""
 "Whenever Needle Specter deals combat damage to a player, that player "
 "discards that many cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca tyle samo "
+"kart."
 
 #: ../../EVE.rst:218
 msgid ""
@@ -829,6 +847,8 @@ msgid ""
 "Search target player's library for up to X cards, where X is the number of "
 "Swamps you control, and exile them. Then that player shuffles."
 msgstr ""
+"Wyszukaj w bibliotece wskazanego gracza co najwyżej X kart, gdzie X jest "
+"liczbą Bagien pod twoim władaniem, i wygnaj je. Następnie ów gracz tasuje."
 
 #: ../../EVE.rst:224
 msgid ""
@@ -857,7 +877,7 @@ msgstr ""
 
 #: ../../EVE.rst:233
 msgid "Whenever a player casts a nonblack spell, that player loses 1 life."
-msgstr ""
+msgstr "Ilekroć gracz rzuci nieczarny czar, ów gracz traci 1 życie."
 
 #: ../../EVE.rst:238
 msgid ""
@@ -871,6 +891,8 @@ msgid ""
 "Destroy target nongreen creature. Its controller loses 3 life if you've cast "
 "another black spell this turn."
 msgstr ""
+"Zniszcz wskazanego niezielonego stwora. Jego władca traci 3 życia jeśli w "
+"tej turze rzuciłeś inny czarny czar."
 
 #: ../../EVE.rst:242
 msgid ""
@@ -884,6 +906,7 @@ msgid ""
 "When Soul Snuffers enters the battlefield, put a -1/-1 counter on each "
 "creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik -1/-1 na każdym stworze."
 
 #: ../../EVE.rst:248
 msgid ""
@@ -909,6 +932,9 @@ msgid ""
 "card from it. You gain life equal to that creature card's toughness, then "
 "that player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę zielonego lub "
+"białego stwora. Zyskaj życia równe wytrzymałości owej karty, po czym ów "
+"gracz odrzuca ową kartę."
 
 #: ../../EVE.rst:256
 msgid ""
@@ -922,6 +948,8 @@ msgid ""
 "Chroma — Umbra Stalker's power and toughness are each equal to the number of "
 "black mana symbols in the mana costs of cards in your graveyard."
 msgstr ""
+"Barwa — Siła i wytrzymałość tej karty są obie równe liczbie symboli czarnej "
+"many w kosztach many kart w twoim cmentarzu."
 
 #: ../../EVE.rst:260
 msgid ""
@@ -935,6 +963,8 @@ msgid ""
 "Chaotic Backlash deals damage to target player equal to twice the number of "
 "white and/or blue permanents they control."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi obrażenia równe dwukrotności liczby "
+"białych i/lub niebieskich bytów pod jego władaniem."
 
 #: ../../EVE.rst:266
 msgid ""
@@ -946,11 +976,11 @@ msgstr ""
 #: ../../EVE.rst:263
 msgid ""
 "|tap|: Cinder Pyromancer deals 1 damage to target player or planeswalker."
-msgstr ""
+msgstr "|tap|: Ten byt zadaje wskazanemu graczowi lub wędrowcowi 1 obrażenie."
 
 #: ../../EVE.rst:265
 msgid "Whenever you cast a red spell, you may untap Cinder Pyromancer."
-msgstr ""
+msgstr "Ilekroć rzucisz czerwony czar, możesz odkręcić ten byt."
 
 #: ../../EVE.rst:272
 msgid ""
@@ -961,7 +991,7 @@ msgstr ""
 
 #: ../../EVE.rst:271
 msgid "|mana_rw|: Duergar Cave-Guard gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_rw|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../EVE.rst:276
 msgid ""
@@ -976,6 +1006,8 @@ msgid ""
 "any target equal to the number of red mana symbols in the sacrificed "
 "creature's mana cost."
 msgstr ""
+"Barwa — |mana_2|, poświęć stwora: Ten byt zadaje dowolnemu celowi obrażenia "
+"równe liczbie symboli czerwonej many w koszcie many poświęconego stwora."
 
 #: ../../EVE.rst:282
 msgid ""
@@ -1000,6 +1032,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, |tap|, Put a -1/-1 counter on a creature you control: "
 "Hatchet Bully deals 2 damage to any target."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|, umieść znacznik -1/-1 na stworze pod twoim "
+"władaniem: Ten byt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../EVE.rst:292
 msgid ""
@@ -1013,6 +1047,8 @@ msgid ""
 "|mana_2|\\ |mana_r|, |untap|: Hateflayer deals damage equal to its power to "
 "any target. (|untap| is the untap symbol.)"
 msgstr ""
+"|mana_2|\\ |mana_r|, |untap|: Ten byt zadaje wskazanemu celowi obrażenia "
+"równe swojej sile. (|untap| jest symbolem odkręcenia.)"
 
 #: ../../EVE.rst:298
 msgid ""
@@ -1031,6 +1067,9 @@ msgid ""
 "end of turn, where X is the number of red mana symbols in the mana costs of "
 "permanents you control."
 msgstr ""
+"Barwa — Kiedy ten stwór wejdzie na pole bitwy, dostaje on do końca tury +X/+"
+"0, gdzie X jest liczbą symboli czerwonej many w kosztach many bytów pod "
+"twoim władaniem."
 
 #: ../../EVE.rst:304
 msgid ""
@@ -1044,6 +1083,8 @@ msgid ""
 "Hotheaded Giant enters the battlefield with two -1/-1 counters on it unless "
 "you've cast another red spell this turn."
 msgstr ""
+"Ten byt wchodzi na pole bitwy z dwoma znacznikami -1/-1, chyba że rzuciłeś w "
+"tej turze inny czerwony czar."
 
 #: ../../EVE.rst:310
 msgid ""
@@ -1063,6 +1104,9 @@ msgid ""
 "Giant gets +X/+0 until end of turn, where X is the power of the creature "
 "tapped this way."
 msgstr ""
+"Przekręć odkręconego czerwonego stwora pod twoim władaniem innego niż "
+"niniejszy: Niniejszy stwór dostaje do końca tury +X/+0, gdzie X jest siłą "
+"stwora przekręconego w ten sposób."
 
 #: ../../EVE.rst:314
 msgid ""
@@ -1077,6 +1121,9 @@ msgid ""
 "target creature equal to the number of red mana symbols in the mana costs of "
 "permanents you control."
 msgstr ""
+"Barwa — Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu stworowi "
+"obrażenia równe liczbie symboli czerwonej many w kosztach many bytów pod "
+"twoim władaniem."
 
 #: ../../EVE.rst:320
 msgid ""
@@ -1087,7 +1134,7 @@ msgstr ""
 
 #: ../../EVE.rst:319
 msgid "Puncture Blast deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../EVE.rst:326
 msgid ""
@@ -1098,13 +1145,15 @@ msgstr ""
 
 #: ../../EVE.rst:323
 msgid "Rekindled Flame deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../EVE.rst:325
 msgid ""
 "At the beginning of your upkeep, if an opponent has no cards in hand, you "
 "may return Rekindled Flame from your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli przeciwnik nie ma kart w ręce, "
+"możesz przywrócić tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../EVE.rst:332
 msgid ""
@@ -1118,6 +1167,8 @@ msgid ""
 "Whenever Stigma Lasher deals damage to a player, that player can't gain life "
 "for the rest of the game."
 msgstr ""
+"Ilekroć ten byt zada graczowi obrażenia, ów gracz do końca gry nie może "
+"zyskać żyć."
 
 #: ../../EVE.rst:340
 msgid ""
@@ -1142,6 +1193,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gets +X/+0 and gains haste until end of turn."
 msgstr ""
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć owego stwora. "
+"Dostaje on do końca tury +X/+0 i pośpiech."
 
 #: ../../EVE.rst:350
 msgid ""
@@ -1155,6 +1208,8 @@ msgid ""
 "Sacrifice Aerie Ouphes: It deals damage equal to its power to target "
 "creature with flying."
 msgstr ""
+"Poświęć tego stwora: Zadaje on wskazanemu stworowi bez latania obrażenia "
+"równe swojej sile."
 
 #: ../../EVE.rst:354
 msgid ""
@@ -1195,17 +1250,19 @@ msgstr ""
 
 #: ../../EVE.rst:361
 msgid "Shroud (This enchantment can't be the target of spells or abilities.)"
-msgstr ""
+msgstr "Antymagia (Ten urok nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../EVE.rst:363
 msgid "|mana_x|: Put X tower counters on Helix Pinnacle."
-msgstr ""
+msgstr "|mana_x|: Umieść X znaczników wieży na tym bycie."
 
 #: ../../EVE.rst:365
 msgid ""
 "At the beginning of your upkeep, if there are 100 or more tower counters on "
 "Helix Pinnacle, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli na tym bycie jest co najmniej "
+"100 znaczników wieży, wygrywasz grę."
 
 #: ../../EVE.rst:370
 msgid ""
@@ -1219,6 +1276,8 @@ msgid ""
 "When Marshdrinker Giant enters the battlefield, destroy target Island or "
 "Swamp an opponent controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną Wyspę lub Bagno pod "
+"władaniem przeciwnika."
 
 #: ../../EVE.rst:376
 msgid ""
@@ -1258,6 +1317,8 @@ msgid ""
 "Chroma — Reveal any number of cards in your hand. You gain 2 life for each "
 "green mana symbol in those cards' mana costs."
 msgstr ""
+"Barwa — Ujawnij dowolną liczbę kart z twojej ręki. Zyskaj 2 życia za każdy "
+"symbol zielonej many w kosztach many owych kart."
 
 #: ../../EVE.rst:392
 msgid ""
@@ -1271,6 +1332,8 @@ msgid ""
 "Chroma — Primalcrux's power and toughness are each equal to the number of "
 "green mana symbols in the mana costs of permanents you control."
 msgstr ""
+"Barwa — Siła i wytrzymałość tej karty są obie równe liczbie symboli zielonej "
+"many w kosztach many bytów pod twoim władaniem."
 
 #: ../../EVE.rst:396
 msgid ""
@@ -1310,6 +1373,8 @@ msgid ""
 "|mana_gu|\\ |mana_gu|: Target creature you control becomes the color or "
 "colors of your choice until end of turn."
 msgstr ""
+"|mana_gu|\\ |mana_gu|: Wskazany stwór pod twoim władaniem staje się do końca "
+"tury wybranego koloru lub kolorów."
 
 #: ../../EVE.rst:412
 msgid ""
@@ -1321,6 +1386,7 @@ msgstr ""
 #: ../../EVE.rst:409
 msgid "Cast this spell only if you've cast another green spell this turn."
 msgstr ""
+"Możesz rzucić ten czar tylko jeśli w tej turze rzuciłeś inny zielony czar."
 
 #: ../../EVE.rst:416
 msgid ""
@@ -1334,6 +1400,8 @@ msgid ""
 "When Tilling Treefolk enters the battlefield, you may return up to two "
 "target land cards from your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić co najwyżej dwie "
+"wskazane karty lądów z twojego cmentarza do twojej ręki."
 
 #: ../../EVE.rst:422
 msgid ""
@@ -1347,6 +1415,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Twinblade Slasher gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
+"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Aktywuj tylko "
+"raz na turę."
 
 #: ../../EVE.rst:428
 msgid ""
