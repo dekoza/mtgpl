@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-26 20:58+0100\n"
+"POT-Creation-Date: 2022-04-01 01:05+0200\n"
 "PO-Revision-Date: 2022-03-29 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
@@ -1055,7 +1055,8 @@ msgstr ""
 #: ../../TSR.rst:271
 msgid ""
 "When Stonecloaker enters the battlefield, exile target card from a graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../TSR.rst:280
 msgid ""
@@ -1713,7 +1714,8 @@ msgstr ""
 msgid ""
 "When Reality Acid leaves the battlefield, enchanted permanent's controller "
 "sacrifices it."
-msgstr "Kiedy ten urok opuści pole bitwy, władca zauroczonego bytu poświęca go."
+msgstr ""
+"Kiedy ten urok opuści pole bitwy, władca zauroczonego bytu poświęca go."
 
 #: ../../TSR.rst:490
 msgid ""
@@ -3083,8 +3085,8 @@ msgid ""
 "When Coal Stoker enters the battlefield, if you cast it from your hand, add |"
 "mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|\\"
-" |mana_r|\\ |mana_r|."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|"
+"\\ |mana_r|\\ |mana_r|."
 
 #: ../../TSR.rst:950
 msgid ""
@@ -5670,8 +5672,8 @@ msgid ""
 "a card.\")"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
-")"
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../TSR.rst:1774
 msgid ""
@@ -5958,8 +5960,8 @@ msgid ""
 "counts toward your devotion to black.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, gdzie "
-"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. ("
-"Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
+"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. "
+"(Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
 "twojego kultu czarnego.)"
 
 #: ../../TSR.rst:1872
@@ -7382,7 +7384,8 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../TSR.rst:2327
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../TSR.rst:2329
 msgid "|tap|: Add |mana_b|."

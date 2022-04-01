@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-04-01 01:05+0200\n"
 "PO-Revision-Date: 2022-03-29 10:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
@@ -2615,8 +2615,8 @@ msgid ""
 "When Soul of Migration enters the battlefield, create two 1/1 white Bird "
 "creature tokens with flying."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora Ptak 1/"
-"1 z lataniem."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora Ptak "
+"1/1 z lataniem."
 
 #: ../../J21.rst:779
 msgid ""
@@ -2819,8 +2819,8 @@ msgid ""
 "a card.\")"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\""
-")"
+"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
+"\")"
 
 #: ../../J21.rst:848
 msgid ""
@@ -4547,8 +4547,8 @@ msgid ""
 "When Specimen Collector enters the battlefield, create a 1/1 green Squirrel "
 "creature token and a 0/3 blue Crab creature token."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór 1/"
-"1 oraz żeton niebieskiego stwora Krab 0/3."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
+"1/1 oraz żeton niebieskiego stwora Krab 0/3."
 
 #: ../../J21.rst:1467
 msgid ""
@@ -5774,7 +5774,8 @@ msgstr ""
 #: ../../J21.rst:1879
 msgid ""
 "When Fell Specter enters the battlefield, target opponent discards a card."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca kartę."
 
 #: ../../J21.rst:1881
 msgid "Whenever an opponent discards a card, that player loses 2 life."
@@ -6244,7 +6245,8 @@ msgstr ""
 #: ../../J21.rst:2039
 msgid ""
 "When Mire Triton enters the battlefield, mill two cards and you gain 2 life."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
 
 #: ../../J21.rst:2046
 msgid ""
@@ -7405,8 +7407,8 @@ msgid ""
 "Riot (This creature enters the battlefield with your choice of a +1/+1 "
 "counter or haste.)"
 msgstr ""
-"Zamieszki (Możesz wybrać, czy ten byt wejdzie na pole bitwy mając znacznik +"
-"1/+1, czy pośpiech.)"
+"Zamieszki (Możesz wybrać, czy ten byt wejdzie na pole bitwy mając znacznik "
+"+1/+1, czy pośpiech.)"
 
 #: ../../J21.rst:2421
 msgid ""
@@ -9828,8 +9830,8 @@ msgid ""
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 "Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \""
-"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|"
+"mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../J21.rst:3226
 msgid ""
@@ -10938,8 +10940,8 @@ msgid ""
 "When Squirrel Sanctuary enters the battlefield, create a 1/1 green Squirrel "
 "creature token."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór 1/"
-"1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wiewiór "
+"1/1."
 
 #: ../../J21.rst:3591
 msgid ""
@@ -10979,7 +10981,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice a land: Squirrel creatures get +1/+1 until "
 "end of turn."
-msgstr "|mana_1|\\ |mana_g|, poświęć ląd: Wiewióry dostają do końca tury +1/+1."
+msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ląd: Wiewióry dostają do końca tury +1/+1."
 
 #: ../../J21.rst:3606
 msgid ""
@@ -11416,8 +11419,8 @@ msgid ""
 "Reinforce X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|, "
 "Discard this card: Put X +1/+1 counters on target creature.)"
 msgstr ""
-"Wzmacnianie X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |mana_g|"
-", odrzuć tę kartę: Umieść X znaczników +1/+1 na wskazanym stworze.)"
+"Wzmacnianie X—|mana_x|\\ |mana_g|\\ |mana_g| (|mana_x|\\ |mana_g|\\ |"
+"mana_g|, odrzuć tę kartę: Umieść X znaczników +1/+1 na wskazanym stworze.)"
 
 #: ../../J21.rst:3754
 msgid ""
@@ -11557,8 +11560,8 @@ msgid ""
 "a graveyard, put a +1/+1 counter on Breathless Knight."
 msgstr ""
 "Ilekroć ten lub inny stwór wejdzie na pole bitwy pod twoim władaniem, jeśli "
-"ów stwór wszedł z cmentarza lub został rzucony z cmentarza, umieść znacznik +"
-"1/+1 na niniejszym stworze."
+"ów stwór wszedł z cmentarza lub został rzucony z cmentarza, umieść znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../J21.rst:3806
 msgid ""
@@ -11681,8 +11684,8 @@ msgid ""
 "|mana_3|\\ |mana_b|: Squirrels you control get +1/+0 and gain menace until "
 "end of turn."
 msgstr ""
-"|mana_3|\\ |mana_b|: Wiewióry pod twoim władaniem dostają do końca tury +1/+"
-"0 i złowrogość."
+"|mana_3|\\ |mana_b|: Wiewióry pod twoim władaniem dostają do końca tury +1/"
+"+0 i złowrogość."
 
 #: ../../J21.rst:3848
 msgid ""
@@ -11773,7 +11776,8 @@ msgstr ""
 
 #: ../../J21.rst:3877
 msgid "Each spell you cast that's red or green costs |mana_1| less to cast."
-msgstr "Rzucanie czerwonych lub zielonych czarów kosztuje cię o |mana_1| mniej."
+msgstr ""
+"Rzucanie czerwonych lub zielonych czarów kosztuje cię o |mana_1| mniej."
 
 #: ../../J21.rst:3882
 msgid ""
@@ -13105,8 +13109,8 @@ msgid ""
 "When Khalni Garden enters the battlefield, create a 0/1 green Plant creature "
 "token."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina 0/"
-"1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Roślina "
+"0/1."
 
 #: ../../J21.rst:4346
 msgid ""

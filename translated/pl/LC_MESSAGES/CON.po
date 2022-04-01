@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21 08:59+0100\n"
+"POT-Creation-Date: 2022-04-01 01:05+0200\n"
 "PO-Revision-Date: 2022-03-30 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
@@ -764,8 +764,8 @@ msgid ""
 "of turn. (Attacking doesn't cause it to tap, and it can't be blocked except "
 "by artifact creatures and/or black creatures.)"
 msgstr ""
-"|mana_w|\\ |mana_b|: Ten stwór zyskuje do końca tury postrach i czujność. ("
-"Atakowanie nie powoduje jego przekręcenia oraz nie może być on blokowany, "
+"|mana_w|\\ |mana_b|: Ten stwór zyskuje do końca tury postrach i czujność. "
+"(Atakowanie nie powoduje jego przekręcenia oraz nie może być on blokowany, "
 "chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../CON.rst:190
@@ -1267,7 +1267,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a land: Put a +1/+1 counter on Goblin "
 "Razerunners."
-msgstr "|mana_1|\\ |mana_r|, poświęć ląd: Umieść znacznik +1/+1 na tym stworze."
+msgstr ""
+"|mana_1|\\ |mana_r|, poświęć ląd: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CON.rst:337
 msgid ""
@@ -1493,8 +1494,8 @@ msgid ""
 "mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| rather than paying its mana cost. "
 "If you do, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
-"Możesz rzucić tę kartę z twojego cmentarza płacąc |mana_w|\\ |mana_u|\\ "
-"|mana_b|\\ |mana_r|\\ |mana_g| zamiast płacenia jej kosztu many. Jeśli tak "
+"Możesz rzucić tę kartę z twojego cmentarza płacąc |mana_w|\\ |mana_u|\\ |"
+"mana_b|\\ |mana_r|\\ |mana_g| zamiast płacenia jej kosztu many. Jeśli tak "
 "zrobisz, wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../CON.rst:414
@@ -1796,8 +1797,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Wild Leotau unless you pay |"
 "mana_g|."
 msgstr ""
-"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz "
-"|mana_g|."
+"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz |"
+"mana_g|."
 
 #: ../../CON.rst:514
 msgid ""
@@ -1845,7 +1846,8 @@ msgstr ""
 #: ../../CON.rst:521
 msgid ""
 "Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant."
-msgstr "Ilekroć gracz przegra grę, umieść pięć znaczników +1/+1 na tym stworze."
+msgstr ""
+"Ilekroć gracz przegra grę, umieść pięć znaczników +1/+1 na tym stworze."
 
 #: ../../CON.rst:528
 msgid ""
@@ -2411,8 +2413,8 @@ msgid ""
 "|mana_5|, |tap|, Sacrifice Kaleidostone: Add |mana_w|\\ |mana_u|\\ |mana_b|"
 "\\ |mana_r|\\ |mana_g|."
 msgstr ""
-"|mana_5|, |tap|, poświęć ten byt: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ "
-"|mana_r|\\ |mana_g|."
+"|mana_5|, |tap|, poświęć ten byt: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |"
+"mana_r|\\ |mana_g|."
 
 #: ../../CON.rst:722
 msgid ""
@@ -2462,7 +2464,8 @@ msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 #: ../../CON.rst:735
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn."
-msgstr "|mana_1|\\ |mana_b|, |tap|: Wskazany stwór dostaje do końca tury -2/-2."
+msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wskazany stwór dostaje do końca tury -2/-2."
 
 #: ../../CON.rst:737
 msgid ""
@@ -2475,7 +2478,8 @@ msgstr ""
 #: ../../CON.rst:739
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|: Target creature gets +4/+4 until end of turn."
-msgstr "|mana_1|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury +4/+4."
+msgstr ""
+"|mana_1|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../CON.rst:744
 msgid ""
