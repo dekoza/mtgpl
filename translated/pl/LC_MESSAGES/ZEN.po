@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 08:45+0000\n"
+"PO-Revision-Date: 2022-04-01 12:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -1198,6 +1198,9 @@ msgid ""
 "your library. Put all Island cards revealed this way into your hand and the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij trzy wierzchnie karty twojej "
+"biblioteki. Umieść wszystkie karty Wysp ujawnione w ten sposób w twojej "
+"ręce, a pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../ZEN.rst:306
 msgid ""
@@ -1211,10 +1214,12 @@ msgid ""
 "If an opponent cast three or more spells this turn, you may pay |mana_0| "
 "rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli przeciwnik rzucił co najmniej trzy czary w tej turze, możesz zapłacić "
+"|mana_0| zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:305
 msgid "Exile any number of target spells."
-msgstr ""
+msgstr "Wygnaj dowolną liczbę wskazanych czarów."
 
 #: ../../ZEN.rst:312
 msgid ""
@@ -1240,12 +1245,16 @@ msgid ""
 "Whenever a card is put into your graveyard from anywhere, you may put a "
 "quest counter on Quest for Ancient Secrets."
 msgstr ""
+"Ilekroć karta trafi skądkolwiek do twojego cmentarza, możesz umieścić "
+"znacznik wyprawy na tym bycie."
 
 #: ../../ZEN.rst:317
 msgid ""
 "Remove five quest counters from Quest for Ancient Secrets and sacrifice it: "
 "Target player shuffles their graveyard into their library."
 msgstr ""
+"Usuń pięć znaczników wyprawy z tego bytu i poświęć go: Wskazany gracz "
+"wtasowuje swój cmentarz do swojej biblioteki."
 
 #: ../../ZEN.rst:322
 msgid ""
@@ -1276,6 +1285,8 @@ msgid ""
 "Create a token that's a copy of target creature. If this spell was kicked, "
 "create five of those tokens instead."
 msgstr ""
+"Stwórz żeton będący kopią wskazanego stwora. Jeśli ten czar został podbity, "
+"zamiast tego stwórz pięć takich żetonów."
 
 #: ../../ZEN.rst:334
 msgid ""
@@ -1303,7 +1314,7 @@ msgstr ""
 
 #: ../../ZEN.rst:337
 msgid "|tap|: Draw a card for each Ally you control."
-msgstr ""
+msgstr "|tap|: Dobierz kartę za każdego Sojusznika pod twoim władaniem."
 
 #: ../../ZEN.rst:342
 msgid ""
@@ -1384,6 +1395,8 @@ msgid ""
 "When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if "
 "it wasn't kicked, discard three cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dobierz trzy karty. Następnie jeśli nie "
+"został od podbity, odrzuć trzy karty."
 
 #: ../../ZEN.rst:380
 msgid ""
@@ -1398,7 +1411,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../ZEN.rst:377
 msgid "When Spreading Seas enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ZEN.rst:379
 msgid "Enchanted land is an Island."
@@ -1415,6 +1428,7 @@ msgstr ""
 msgid ""
 "Counter target creature spell. Create a 2/2 blue Illusion creature token."
 msgstr ""
+"Skontruj wskazany czar stwora. Stwórz żeton niebieskiego stwora Iluzja 2/2."
 
 #: ../../ZEN.rst:392
 msgid ""
@@ -1436,6 +1450,8 @@ msgid ""
 "When Tempest Owl enters the battlefield, if it was kicked, tap up to three "
 "target permanents."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został on podbity, przekręć co "
+"najwyżej trzy wskazane byty."
 
 #: ../../ZEN.rst:396
 msgid ""
@@ -1446,7 +1462,7 @@ msgstr ""
 
 #: ../../ZEN.rst:395
 msgid "Target player reveals their hand and discards all Trap cards."
-msgstr ""
+msgstr "Wskazany gracz ujawnia swoją rękę i odrzuca wszystkie karty Pułapek."
 
 #: ../../ZEN.rst:400
 msgid ""
@@ -1510,6 +1526,8 @@ msgid ""
 "control this turn, you may pay |mana_u| rather than pay this spell's mana "
 "cost."
 msgstr ""
+"Jeśli w tej turze na pole bitwy weszły dwa stwory pod władaniem przeciwnika, "
+"możesz zapłacić |mana_u| zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:417
 msgid "Return two target creatures to their owners' hands."
@@ -1584,6 +1602,8 @@ msgid ""
 "Target opponent loses half their life, rounded up. If this spell was kicked, "
 "you gain life equal to the life lost this way."
 msgstr ""
+"Wskazany przeciwnik traci połowę żyć, zaokrąglając wzwyż. Jeśli ten czar "
+"został podbity, zyskaj życia równe życiom straconym w ten sposób."
 
 #: ../../ZEN.rst:444
 msgid ""
@@ -1598,6 +1618,9 @@ msgid ""
 "turn, you may put a quest counter on Bloodchief Ascension. (Damage causes "
 "loss of life.)"
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze przeciwnik stracił co "
+"najmniej 2 życia, możesz umieścić znacznik wyprawy na tym uroku. (Obrażenia "
+"powodują utratę żyć.)"
 
 #: ../../ZEN.rst:443
 msgid ""
@@ -1605,6 +1628,9 @@ msgid ""
 "Bloodchief Ascension has three or more quest counters on it, you may have "
 "that player lose 2 life. If you do, you gain 2 life."
 msgstr ""
+"Ilekroć karta trafi skądkolwiek do cmentarza przeciwnika, jeśli ten byt ma "
+"co najmniej trzy znaczniki wyprawy, możesz zdecydować, że ów gracz straci 2 "
+"życia. Jeśli tak zrobisz, zyskaj 2 życia."
 
 #: ../../ZEN.rst:452
 msgid ""
@@ -1657,7 +1683,7 @@ msgstr "Pośpiech"
 
 #: ../../ZEN.rst:461
 msgid "|mana_b|: Crypt Ripper gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../ZEN.rst:466
 msgid ""
@@ -1668,7 +1694,7 @@ msgstr ""
 
 #: ../../ZEN.rst:465
 msgid "Destroy target land. Its controller discards a card."
-msgstr ""
+msgstr "Zniszcz wskazany ląd. Jego władca odrzuca kartę."
 
 #: ../../ZEN.rst:470
 msgid ""
@@ -1690,11 +1716,11 @@ msgstr ""
 
 #: ../../ZEN.rst:473
 msgid "Cast this spell only if you control two or more Vampires."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko jeśli władasz co najmniej dwoma Wampirami."
 
 #: ../../ZEN.rst:475
 msgid "Destroy target creature. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Zyskaj 4 życia."
 
 #: ../../ZEN.rst:482
 msgid ""
@@ -1715,6 +1741,8 @@ msgid ""
 "When Gatekeeper of Malakir enters the battlefield, if it was kicked, target "
 "player sacrifices a creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, wskazany gracz "
+"poświęca stwora."
 
 #: ../../ZEN.rst:486
 msgid ""
@@ -1748,7 +1776,7 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ZEN.rst:493
 msgid "Return target land card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę lądu z twojego cmentarza do twojej ręki."
 
 #: ../../ZEN.rst:502
 msgid ""
@@ -1760,13 +1788,14 @@ msgstr ""
 #: ../../ZEN.rst:499
 msgid ""
 "Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand."
-msgstr ""
+msgstr "Ten stwór dostaje +3/+3 o ile przeciwnik nie ma kart w ręce."
 
 #: ../../ZEN.rst:501
 msgid ""
 "Whenever Guul Draz Specter deals combat damage to a player, that player "
 "discards a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 #: ../../ZEN.rst:506
 msgid ""
@@ -1794,7 +1823,7 @@ msgstr ""
 
 #: ../../ZEN.rst:509
 msgid "Hagra Crocodile can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ZEN.rst:511
 msgid ""
@@ -1838,7 +1867,7 @@ msgstr ""
 
 #: ../../ZEN.rst:521
 msgid "When Halo Hunter enters the battlefield, destroy target Angel."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego Anioła."
 
 #: ../../ZEN.rst:530
 msgid ""
@@ -1860,6 +1889,8 @@ msgid ""
 "When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy "
 "target creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zniszcz "
+"wskazanego stwora."
 
 #: ../../ZEN.rst:534
 msgid ""
@@ -1870,7 +1901,7 @@ msgstr ""
 
 #: ../../ZEN.rst:533
 msgid "Destroy target nonblack creature. Its controller loses 2 life."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora. Jego władca traci 2 życia."
 
 #: ../../ZEN.rst:538
 msgid ""
@@ -1887,6 +1918,10 @@ msgid ""
 "equal to that creature's power and its toughness is equal to that creature's "
 "toughness."
 msgstr ""
+"|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Zniszcz wskazanego stwora. Jeśli ów "
+"stwór umrze w ten sposób, stwórz żeton czarnego stwora Wampir. Jego siła "
+"jest równa sile owego stwora, a jego wytrzymałość jest równa wytrzymałości "
+"owego stwora."
 
 #: ../../ZEN.rst:544
 msgid ""
@@ -1897,7 +1932,7 @@ msgstr ""
 
 #: ../../ZEN.rst:541
 msgid "Flying, protection from white"
-msgstr ""
+msgstr "Latanie, ochrona przed białym"
 
 #: ../../ZEN.rst:543
 msgid ""
@@ -1905,6 +1940,8 @@ msgid ""
 "equal to the number of Vampires you control. You gain life equal to the life "
 "lost this way."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po tyle żyć, "
+"iloma Wampirami władasz. Zyskaj tyle żyć, ile ich stracono w ten sposób."
 
 #: ../../ZEN.rst:550
 msgid ""
@@ -1918,6 +1955,8 @@ msgid ""
 "Creatures target player controls get -1/-1 until end of turn. If this spell "
 "was kicked, those creatures get -2/-2 until end of turn instead."
 msgstr ""
+"Stwory pod władaniem wskazanego gracza dostają do końca tury -1/-1. Jeśli "
+"ten czar został podbity, owe stwory zamiast tego dostają do końca tury -2/-2."
 
 #: ../../ZEN.rst:554
 msgid ""
@@ -1939,7 +1978,7 @@ msgstr ""
 
 #: ../../ZEN.rst:557
 msgid "Mindless Null can't block unless you control a Vampire."
-msgstr ""
+msgstr "Ten stwór nie może blokować, chyba że władasz Wampirem."
 
 #: ../../ZEN.rst:564
 msgid ""
@@ -1950,7 +1989,7 @@ msgstr ""
 
 #: ../../ZEN.rst:563
 msgid "When enchanted creature is dealt damage, destroy it."
-msgstr ""
+msgstr "Kiedy zauroczony stwór otrzyma obrażenia, zniszcz go."
 
 #: ../../ZEN.rst:570
 msgid ""
@@ -1964,10 +2003,12 @@ msgid ""
 "If an opponent gained life this turn, you may pay |mana_b| rather than pay "
 "this spell's mana cost."
 msgstr ""
+"Jeśli przeciwnik zyskał życie w tej turze, możesz zapłacić |mana_b| zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:569
 msgid "Target player loses 5 life and you gain 5 life."
-msgstr ""
+msgstr "Wskazany gracz traci 5 żyć, a ty zyskaj 5 żyć."
 
 #: ../../ZEN.rst:574
 msgid ""
@@ -2012,13 +2053,15 @@ msgstr ""
 msgid ""
 "Whenever a creature dies, you may put a quest counter on Quest for the "
 "Gravelord."
-msgstr ""
+msgstr "Ilekroć umrze stwór, możesz umieścić znacznik wyprawy na tym bycie."
 
 #: ../../ZEN.rst:583
 msgid ""
 "Remove three quest counters from Quest for the Gravelord and sacrifice it: "
 "Create a 5/5 black Zombie Giant creature token."
 msgstr ""
+"Usuń trzy znaczniki wyprawy z tego bytu i poświęć go: Stwórz żeton czarnego "
+"stwora Zombi Gigant 5/5."
 
 #: ../../ZEN.rst:590
 msgid ""
@@ -2061,6 +2104,10 @@ msgid ""
 "player shuffles. If this spell was kicked, instead search that player's "
 "library for up to fifteen cards, exile them, then that player shuffles."
 msgstr ""
+"Wyszukaj w bibliotece wskazanego gracza co najwyżej trzech kart, wygnaj je, "
+"po czym ów gracz tasuje. Jeśli ten czar został podbity, zamiast tego "
+"wyszukaj w bibliotece owego gracza co najwyżej piętnaście kart, wygnaj je, "
+"po czym ów gracz tasuje."
 
 #: ../../ZEN.rst:604
 msgid ""
@@ -2102,6 +2149,8 @@ msgid ""
 "Remove three quest counters from Soul Stair Expedition and sacrifice it: "
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
+"Usuń trzy znaczniki wyprawy z tego bytu i poświęć go: Przywróć co najwyżej "
+"dwie wskazane karty stworów z twojego cmentarza do twojej ręki."
 
 #: ../../ZEN.rst:614
 msgid ""

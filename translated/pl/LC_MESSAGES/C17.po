@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-03-31 22:55+0000\n"
+"PO-Revision-Date: 2022-04-01 12:10+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -2010,6 +2010,8 @@ msgid ""
 "Target opponent loses half their life, rounded up. If this spell was kicked, "
 "you gain life equal to the life lost this way."
 msgstr ""
+"Wskazany przeciwnik traci połowę żyć, zaokrąglając wzwyż. Jeśli ten czar "
+"został podbity, zyskaj życia równe życiom straconym w ten sposób."
 
 #: ../../C17.rst:582
 msgid ""
@@ -2290,7 +2292,7 @@ msgstr ""
 
 #: ../../C17.rst:667
 msgid "Flying, protection from white"
-msgstr ""
+msgstr "Latanie, ochrona przed białym"
 
 #: ../../C17.rst:669
 msgid ""
@@ -2298,6 +2300,8 @@ msgid ""
 "equal to the number of Vampires you control. You gain life equal to the life "
 "lost this way."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po tyle żyć, "
+"iloma Wampirami władasz. Zyskaj tyle żyć, ile ich stracono w ten sposób."
 
 #: ../../C17.rst:674
 msgid ""
