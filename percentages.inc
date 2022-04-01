@@ -223,7 +223,7 @@
 
 .. |C16_percent| image:: images/pie75.png        
 
-.. |ZEN_percent| image:: images/pie55.png        
+.. |ZEN_percent| image:: images/pie60.png        
 
 .. |AKR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
