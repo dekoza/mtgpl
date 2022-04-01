@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 12:09+0000\n"
+"PO-Revision-Date: 2022-04-01 14:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -2223,6 +2223,9 @@ msgid ""
 "creature gains lifelink until end of turn. (Damage dealt by the creature "
 "also causes its controller to gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0. Jeśli ten czar został podbity, "
+"ów stwór dostaje do końca tury więź życia. (Obrażenia zadane przez niego "
+"także powodują zyskanie tylu samo żyć przez jego władcę.)"
 
 #: ../../ZEN.rst:638
 msgid ""
@@ -2264,16 +2267,20 @@ msgid ""
 "+1: Discard a card. If a red card is discarded this way, Chandra Ablaze "
 "deals 4 damage to any target."
 msgstr ""
+"+1: Odrzuć kartę. Jeśli w ten sposób odrzucono czerwoną kartę, ten byt "
+"zadaje wskazanemu celowi 4 obrażenia."
 
 #: ../../ZEN.rst:649
 msgid "−2: Each player discards their hand, then draws three cards."
-msgstr ""
+msgstr "–2: Każdy gracz odrzuca swoją rękę, po czym dobiera trzy karty."
 
 #: ../../ZEN.rst:651
 msgid ""
 "−7: Cast any number of red instant and/or sorcery cards from your graveyard "
 "without paying their mana costs."
 msgstr ""
+"–7: Rzuć dowolną liczbę kart sztuczek i/lub obrzędów z twojego cmentarza bez "
+"płacenia ich kosztów many."
 
 #: ../../ZEN.rst:656
 msgid ""
@@ -2299,6 +2306,9 @@ msgid ""
 "mana_2|\\ |mana_r|. If you do, that creature deals damage equal to its power "
 "to any target."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, możesz zapłacić "
+"|mana_2|\\ |mana_r|. Jeśli tak zrobisz, ów stwór zadaje wskazanemu celowi "
+"obrażenia równe swojej sile."
 
 #: ../../ZEN.rst:666
 msgid ""
@@ -2313,6 +2323,9 @@ msgid ""
 "at the beginning of the next end step. If this spell was kicked, that "
 "creature gets +7/+0 until end of turn."
 msgstr ""
+"Stwórz żeton czerwonego stwora Żywiołak 7/1 z tratowaniem i pośpiechem. "
+"Wygnaj go na początku najbliższego kroku końcowego. Jeśli ten czar został "
+"podbity, ów stwór dostaje do końca tury +7/+0."
 
 #: ../../ZEN.rst:670
 msgid ""
@@ -2347,6 +2360,8 @@ msgid ""
 "When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures "
 "you control get +1/+0 and gain haste until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwory pod twoim "
+"władaniem dostają do końca tury +1/+0 i pośpiech."
 
 #: ../../ZEN.rst:682
 msgid ""
@@ -2375,6 +2390,8 @@ msgid ""
 "When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy "
 "target nonbasic land."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zniszcz wskazany "
+"niebazowy ląd."
 
 #: ../../ZEN.rst:694
 msgid ""
@@ -2414,6 +2431,8 @@ msgid ""
 "At the beginning of each opponent's upkeep, if that player has two or fewer "
 "cards in hand, Hellfire Mongrel deals 2 damage to that player."
 msgstr ""
+"Na początku kroku utrzymania każdego z przeciwników, jeśli ów gracz ma w "
+"ręce nie więcej niż dwie karty, ten stwór zadaje owemu graczowi 2 obrażenia."
 
 #: ../../ZEN.rst:710
 msgid ""
@@ -2465,10 +2484,12 @@ msgid ""
 "If you've been dealt damage by two or more creatures this turn, you may pay |"
 "mana_r| rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli otrzymałeś w tej turze obrażenia od co najmniej dwóch stworów, możesz "
+"zapłacić |mana_r| zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:719
 msgid "Inferno Trap deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../ZEN.rst:724
 msgid ""
@@ -2499,11 +2520,15 @@ msgid ""
 "control this turn, you may pay |mana_3|\\ |mana_r|\\ |mana_r| rather than "
 "pay this spell's mana cost."
 msgstr ""
+"Jeśli w tej turze na pole bitwy pod władaniem przeciwnika weszły co najmniej "
+"dwa lądy, możesz zapłacić |mana_3|\\ |mana_r|\\ |mana_r| zamiast płacić "
+"koszt many tego czaru."
 
 #: ../../ZEN.rst:729
 msgid ""
 "Destroy two target lands. Lavaball Trap deals 4 damage to each creature."
 msgstr ""
+"Zniszcz dwa wskazane lądy. Ten czar zadaje każdemu stworowi po 4 obrażenia."
 
 #: ../../ZEN.rst:736
 msgid ""
@@ -2518,7 +2543,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
 
 #: ../../ZEN.rst:735
 msgid "Magma Rift deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../ZEN.rst:740
 msgid ""
@@ -2580,6 +2605,11 @@ msgid ""
 "\" (The land continues to burn after Obsidian Fireheart has left the "
 "battlefield.)"
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_r|: Umieść znacznik płomienia na wskazanym lądu "
+"bez znacznika płomienia. Przez czas posiadania przez ów ląd znacznika "
+"płomienia, ma on \"Na początku twojego kroku utrzymania, ten ląd zadaje "
+"tobie 1 obrażenie.\" (Ów ląd nadal płonie po opuszczeniu przez ten byt pola "
+"bitwy.)"
 
 #: ../../ZEN.rst:758
 msgid ""
@@ -2605,13 +2635,15 @@ msgstr ""
 
 #: ../../ZEN.rst:761
 msgid "Punishing Fire deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../ZEN.rst:763
 msgid ""
 "Whenever an opponent gains life, you may pay |mana_r|. If you do, return "
 "Punishing Fire from your graveyard to your hand."
 msgstr ""
+"Ilekroć przeciwnik zyska życie, możesz zapłacić |mana_r|. Jeśli tak zrobisz "
+"przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../ZEN.rst:770
 msgid ""
@@ -2650,6 +2682,8 @@ msgid ""
 "Whenever a source you control deals damage to an opponent, you may put a "
 "quest counter on Quest for Pure Flame."
 msgstr ""
+"Ilekroć źródło pod twoim władaniem zada przeciwnikowi obrażenia, możesz "
+"umieścić znacznik wyprawy na niniejszym bycie."
 
 #: ../../ZEN.rst:775
 msgid ""
@@ -2657,6 +2691,9 @@ msgid ""
 "any source you control would deal damage to a permanent or player this turn, "
 "it deals double that damage to that permanent or player instead."
 msgstr ""
+"Usuń cztery znaczniki wyprawy z tego bytu i poświęć go: Jeśli źródło pod "
+"twoim władaniem miałoby w tej turze zadać obrażenia bytowi lub graczowi, "
+"zamiast tego zadaje ono dwukrotnie tyle obrażeń owemu bytowi lub graczowi."
 
 #: ../../ZEN.rst:780
 msgid ""
@@ -2668,7 +2705,7 @@ msgstr ""
 #: ../../ZEN.rst:779
 msgid ""
 "Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land."
-msgstr ""
+msgstr "Ilekroć ten byt zada przeciwnikowi obrażenia, poświęć ląd."
 
 #: ../../ZEN.rst:786
 msgid ""
@@ -2682,12 +2719,16 @@ msgid ""
 "If an opponent drew three or more cards this turn, you may pay |mana_r| "
 "rather than pay this spell's mana cost."
 msgstr ""
+"Jeśli przeciwnik dobrał w tej turze co najmniej trzy karty, możesz zapłacić "
+"|mana_r| zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:785
 msgid ""
 "Runeflare Trap deals damage to target player equal to the number of cards in "
 "that player's hand."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi obrażenia równe liczbie kart w ręce "
+"owego gracza."
 
 #: ../../ZEN.rst:790
 msgid ""
@@ -2698,7 +2739,7 @@ msgstr ""
 
 #: ../../ZEN.rst:789
 msgid "Seismic Shudder deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten stwór zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../ZEN.rst:792
 msgid ""
@@ -2734,6 +2775,8 @@ msgid ""
 "Spire Barrage deals damage to any target equal to the number of Mountains "
 "you control."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe liczbie Gór pod twoim "
+"władaniem."
 
 #: ../../ZEN.rst:808
 msgid ""
@@ -2755,6 +2798,8 @@ msgid ""
 "When Torch Slinger enters the battlefield, if it was kicked, it deals 2 "
 "damage to target creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zadaje on "
+"wskazanemu stworowi 2 obrażenia."
 
 #: ../../ZEN.rst:814
 msgid ""
@@ -2791,6 +2836,8 @@ msgid ""
 "Damage can't be prevented this turn. If this spell was kicked, it deals 5 "
 "damage to target player or planeswalker."
 msgstr ""
+"Nie można zażegnać obrażeń w tej turze. Jeśli ten czar został podbity, "
+"zadaje on wskazanemu graczowi lub wędrowcowi 5 obrażeń."
 
 #: ../../ZEN.rst:826
 msgid ""
@@ -2808,6 +2855,8 @@ msgid ""
 "Whenever Warren Instigator deals damage to an opponent, you may put a Goblin "
 "creature card from your hand onto the battlefield."
 msgstr ""
+"Ilekroć ten byt zada przeciwnikowi obrażenia, możesz umieścić na polu bitwy "
+"kartę stwora typu Goblin z twojej ręki."
 
 #: ../../ZEN.rst:832
 msgid ""
@@ -2831,6 +2880,9 @@ msgid ""
 "Create a 7/1 red Elemental creature token with trample and haste. Exile it "
 "at the beginning of the next end step."
 msgstr ""
+"Usuń trzy znaczniki wyprawy z tego bytu i poświęć go: Stwórz żeton "
+"czerwonego stwora Żywiołak 7/1 z tratowaniem i pośpiechem. Wygnaj go na "
+"początku najbliższego kroku końcowego."
 
 #: ../../ZEN.rst:838
 msgid ""
@@ -2879,6 +2931,8 @@ msgid ""
 "Reveal the top three cards of your library. Put all creature cards revealed "
 "this way into your hand and the rest into your graveyard."
 msgstr ""
+"Ujawnij trzy wierzchnie karty twojej biblioteki. Umieść wszystkie karty "
+"stworów ujawnione w ten sposób w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../ZEN.rst:852
 msgid ""
@@ -2892,12 +2946,16 @@ msgid ""
 "Whenever a creature you control attacks, you may put a quest counter on "
 "Beastmaster Ascension."
 msgstr ""
+"Ilekroć zaatakuje stwór pod twoim władaniem, możesz umieścić znacznik "
+"wyprawy na niniejszym bycie."
 
 #: ../../ZEN.rst:851
 msgid ""
 "As long as Beastmaster Ascension has seven or more quest counters on it, "
 "creatures you control get +5/+5."
 msgstr ""
+"O ile ten byt ma co najmniej siedem znaczników wyprawy, stwory pod twoim "
+"władaniem dostają +5/+5."
 
 #: ../../ZEN.rst:858
 msgid ""
@@ -2912,10 +2970,13 @@ msgid ""
 "spell or ability an opponent controlled, you may pay |mana_g| rather than "
 "pay this spell's mana cost."
 msgstr ""
+"Jeśli niestworowy byt pod twoim władaniem został w tej turze zniszczony "
+"przez czar lub zdolność pod władaniem przeciwnika, możesz zapłacić |mana_g| "
+"zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:857
 msgid "Create four 1/1 green Snake creature tokens."
-msgstr ""
+msgstr "Stwórz cztery żetony zielonego stwora Wąż 1/1."
 
 #: ../../ZEN.rst:862
 msgid ""
@@ -2945,7 +3006,7 @@ msgstr "Podbicie |mana_4|"
 
 #: ../../ZEN.rst:869
 msgid "Enchanted creature has base power and toughness 8/8 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór ma bazowe siłę i wytrzymałość 8/8 i ma tratowanie."
 
 #: ../../ZEN.rst:871
 msgid ""
@@ -3075,6 +3136,8 @@ msgid ""
 "When Mold Shambler enters the battlefield, if it was kicked, destroy target "
 "noncreature permanent."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zniszcz wskazany "
+"niestworowy byt."
 
 #: ../../ZEN.rst:914
 msgid ""
@@ -3093,7 +3156,7 @@ msgstr ""
 
 #: ../../ZEN.rst:911
 msgid "+1: You gain 2 life for each Elf you control."
-msgstr ""
+msgstr "+1: Zyskaj 2 życia za każdego Elfa pod twoim władaniem."
 
 #: ../../ZEN.rst:913
 msgid ""
@@ -3115,6 +3178,8 @@ msgid ""
 "If Nissa's Chosen would die, put it on the bottom of its owner's library "
 "instead."
 msgstr ""
+"Jeśli ten stwór miałby umrzeć, zamiast tego umieść go na spodzie biblioteki "
+"właściciela."
 
 #: ../../ZEN.rst:926
 msgid ""
@@ -3159,6 +3224,8 @@ msgid ""
 "When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy "
 "target creature with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zniszcz "
+"wskazanego stwora z lataniem."
 
 #: ../../ZEN.rst:938
 msgid ""
@@ -3188,6 +3255,8 @@ msgid ""
 "power to target creature. That creature deals damage equal to its power to "
 "this creature.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Ten stwór walczy ze wskazanym stworem.\" ("
+"Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../ZEN.rst:948
 msgid ""
@@ -3200,6 +3269,7 @@ msgstr ""
 msgid ""
 "Target creature gets +1/+1 until end of turn for each Forest you control."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1 za każdy Las pod twoim władaniem."
 
 #: ../../ZEN.rst:954
 msgid ""
@@ -3213,12 +3283,16 @@ msgid ""
 "Whenever a creature you control deals combat damage to a creature, you may "
 "put a quest counter on Quest for the Gemblades."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada stworowi obrażenia bojowe, możesz "
+"umieścić znacznik wyprawy na niniejszym bycie."
 
 #: ../../ZEN.rst:953
 msgid ""
 "Remove a quest counter from Quest for the Gemblades and sacrifice it: Put "
 "four +1/+1 counters on target creature."
 msgstr ""
+"Usuń znacznik wyprawy z tego bytu i poświęć go: Umieść cztery znaczniki +1/+"
+"1 na wskazanym stworze."
 
 #: ../../ZEN.rst:960
 msgid ""
@@ -3251,6 +3325,8 @@ msgid ""
 "Destroy target artifact or enchantment and up to one other target artifact "
 "or enchantment."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok i co najwyżej jeden inny wskazany "
+"artefakt lub urok."
 
 #: ../../ZEN.rst:970
 msgid ""
@@ -3275,6 +3351,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_1|\\ |mana_g|: Regenerate this "
 "creature.\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma \"|mana_1|\\ |mana_g|: Zregeneruj tego "
+"stwora.\""
 
 #: ../../ZEN.rst:980
 msgid ""
@@ -3303,6 +3381,7 @@ msgid ""
 "When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice "
 "a land."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że poświęcisz ląd."
 
 #: ../../ZEN.rst:992
 msgid ""
@@ -3360,6 +3439,8 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn by creatures without "
 "trample."
 msgstr ""
+"Zażegnaj wszystkie bojowe obrażenia, jakie w tej turze mogłyby zadać stwory "
+"bez tratowania."
 
 #: ../../ZEN.rst:1006
 msgid ""
@@ -3407,6 +3488,8 @@ msgid ""
 "Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each "
 "Forest you control."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, dostaje on do końca tury +1/+1 za każdy Las pod "
+"twoim władaniem."
 
 #: ../../ZEN.rst:1020
 msgid ""
@@ -3520,6 +3603,9 @@ msgid ""
 "Whenever a creature dies, put a +1/+1 counter on equipped creature. If "
 "equipped creature is a Vampire, put two +1/+1 counters on it instead."
 msgstr ""
+"Ilekroć umrze stwór, umieść znacznik +1/+1 na wyposażonym stworze. Jeśli "
+"wyposażony stwór jest Wampirem, zamiast tego umieść na nim dwa znaczniki +1/"
+"+1."
 
 #: ../../ZEN.rst:1049
 msgid "Equip |mana_1|"
@@ -3553,7 +3639,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1061
 msgid "|mana_3|, Sacrifice a creature: Draw a card."
-msgstr ""
+msgstr "|mana_3|, poświęć stwora: Dobierz kartę."
 
 #: ../../ZEN.rst:1068
 msgid ""
@@ -3565,12 +3651,16 @@ msgstr ""
 #: ../../ZEN.rst:1065
 msgid "Creatures you control get +1/+1 and have flying and indestructible."
 msgstr ""
+"Stwory pod twoim władaniem dostają +1/+1 i mają latanie oraz "
+"niezniszczalność."
 
 #: ../../ZEN.rst:1067
 msgid ""
 "At the beginning of your upkeep, sacrifice a creature. If you can't, "
 "sacrifice Eldrazi Monument."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć stwora. Jeśli nie możesz, "
+"poświęć ten byt."
 
 #: ../../ZEN.rst:1074
 msgid ""
@@ -3584,6 +3674,8 @@ msgid ""
 "Eternity Vessel enters the battlefield with X charge counters on it, where X "
 "is your life total."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników ładunku, gdzie X jest "
+"liczbą twoich żyć."
 
 #: ../../ZEN.rst:1073
 msgid ""
@@ -3622,6 +3714,9 @@ msgid ""
 "Whenever equipped creature attacks, look at the top card of your library. If "
 "it's a land card, you may put it onto the battlefield tapped."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, spójrz na wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta lądu, możesz umieścić ją przekręconą na polu "
+"bitwy."
 
 #: ../../ZEN.rst:1092
 msgid ""
@@ -3639,6 +3734,8 @@ msgid ""
 "Whenever equipped creature attacks, you may have target creature block it "
 "this turn if able."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, możesz zdecydować, że wskazany stwór "
+"zablokuje go w tej turze jeśli może."
 
 #: ../../ZEN.rst:1091
 msgid "Equip |mana_4|"
@@ -3671,6 +3768,8 @@ msgid ""
 "When Khalni Gem enters the battlefield, return two lands you control to "
 "their owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć dwa lądy pod twoim władaniem "
+"do ręki właściciela."
 
 #: ../../ZEN.rst:1101
 msgid "|tap|: Add two mana of any one color."
@@ -3718,6 +3817,8 @@ msgid ""
 "Equipped creature has nonbasic landwalk. (It can't be blocked as long as "
 "defending player controls a nonbasic land.)"
 msgstr ""
+"Wyposażony stwór ma podbój niebazowych lądów. (Nie może być blokowany o ile "
+"broniący się gracz włada niebazowym lądem.)"
 
 #: ../../ZEN.rst:1117 ../../ZEN.rst:1123
 msgid "Equip |mana_2|"
@@ -3743,7 +3844,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1127
 msgid "Akoum Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1129
 msgid "When Akoum Refuge enters the battlefield, you gain 1 life."
@@ -3777,7 +3878,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1139
 msgid "Crypt of Agadeem enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1141 ../../ZEN.rst:1217
 msgid "|tap|: Add |mana_b|."
@@ -3787,6 +3888,7 @@ msgstr "|tap|: Weź |mana_b|."
 msgid ""
 "|mana_2|, |tap|: Add |mana_b| for each black creature card in your graveyard."
 msgstr ""
+"|mana_2|, |tap|: Weź |mana_b| za każdą czarną kartę stwora w twoim cmentarzu."
 
 #: ../../ZEN.rst:1152
 msgid ""
@@ -3797,13 +3899,16 @@ msgstr ""
 
 #: ../../ZEN.rst:1147
 msgid "Emeria, the Sky Ruin enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1149
 msgid ""
 "At the beginning of your upkeep, if you control seven or more Plains, you "
 "may return target creature card from your graveyard to the battlefield."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej siedmioma "
+"Równinami, możesz przywrócić wskazaną kartę stwora z twojego cmentarza na "
+"pole bitwy."
 
 #: ../../ZEN.rst:1151 ../../ZEN.rst:1175
 msgid "|tap|: Add |mana_w|."
@@ -3818,7 +3923,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1155
 msgid "Graypelt Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1157
 msgid "When Graypelt Refuge enters the battlefield, you gain 1 life."
@@ -3856,11 +3961,11 @@ msgstr ""
 
 #: ../../ZEN.rst:1171
 msgid "Kabira Crossroads enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1173
 msgid "When Kabira Crossroads enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../ZEN.rst:1184
 msgid ""
@@ -3871,7 +3976,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1179
 msgid "Kazandu Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1181
 msgid "When Kazandu Refuge enters the battlefield, you gain 1 life."
@@ -3890,7 +3995,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1187
 msgid "Magosi, the Waterveil enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1189 ../../ZEN.rst:1237
 msgid "|tap|: Add |mana_u|."
@@ -3901,12 +4006,16 @@ msgid ""
 "|mana_u|, |tap|: Put an eon counter on Magosi, the Waterveil. Skip your next "
 "turn."
 msgstr ""
+"|mana_u|, |tap|: Umieść znacznik eonu na tym bycie. Pomiń swoją następną "
+"turę."
 
 #: ../../ZEN.rst:1193
 msgid ""
 "|tap|, Remove an eon counter from Magosi, the Waterveil and return it to its "
 "owner's hand: Take an extra turn after this one."
 msgstr ""
+"|tap|, usuń znacznik eonu z tego bytu i przywróć go do ręki właściciela: Weź "
+"dodatkową turę po obecnej."
 
 #: ../../ZEN.rst:1198
 msgid ""
@@ -3970,11 +4079,11 @@ msgstr ""
 
 #: ../../ZEN.rst:1213
 msgid "Piranha Marsh enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1215
 msgid "When Piranha Marsh enters the battlefield, target player loses 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz traci 1 życie."
 
 #: ../../ZEN.rst:1222
 msgid ""
@@ -4000,11 +4109,11 @@ msgstr ""
 
 #: ../../ZEN.rst:1225
 msgid "Sejiri Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1227
 msgid "When Sejiri Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../ZEN.rst:1229
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -4019,13 +4128,15 @@ msgstr ""
 
 #: ../../ZEN.rst:1233
 msgid "Soaring Seacliff enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1235
 msgid ""
 "When Soaring Seacliff enters the battlefield, target creature gains flying "
 "until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór zyskuje do końca tury "
+"latanie."
 
 #: ../../ZEN.rst:1246
 msgid ""
@@ -4036,13 +4147,15 @@ msgstr ""
 
 #: ../../ZEN.rst:1241
 msgid "Teetering Peaks enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1243
 msgid ""
 "When Teetering Peaks enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"+0."
 
 #: ../../ZEN.rst:1245 ../../ZEN.rst:1261
 msgid "|tap|: Add |mana_r|."
@@ -4057,7 +4170,7 @@ msgstr ""
 
 #: ../../ZEN.rst:1249
 msgid "Turntimber Grove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ZEN.rst:1251
 msgid ""

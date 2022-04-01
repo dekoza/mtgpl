@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 12:10+0000\n"
+"PO-Revision-Date: 2022-04-01 14:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -3270,12 +3270,16 @@ msgid ""
 "Whenever a creature you control attacks, you may put a quest counter on "
 "Beastmaster Ascension."
 msgstr ""
+"Ilekroć zaatakuje stwór pod twoim władaniem, możesz umieścić znacznik "
+"wyprawy na niniejszym bycie."
 
 #: ../../C15.rst:993
 msgid ""
 "As long as Beastmaster Ascension has seven or more quest counters on it, "
 "creatures you control get +5/+5."
 msgstr ""
+"O ile ten byt ma co najmniej siedem znaczników wyprawy, stwory pod twoim "
+"władaniem dostają +5/+5."
 
 #: ../../C15.rst:1000
 msgid ""
@@ -3340,10 +3344,13 @@ msgid ""
 "spell or ability an opponent controlled, you may pay |mana_g| rather than "
 "pay this spell's mana cost."
 msgstr ""
+"Jeśli niestworowy byt pod twoim władaniem został w tej turze zniszczony "
+"przez czar lub zdolność pod władaniem przeciwnika, możesz zapłacić |mana_g| "
+"zamiast płacić koszt many tego czaru."
 
 #: ../../C15.rst:1023
 msgid "Create four 1/1 green Snake creature tokens."
-msgstr ""
+msgstr "Stwórz cztery żetony zielonego stwora Wąż 1/1."
 
 #: ../../C15.rst:1028
 msgid ""
@@ -4571,12 +4578,16 @@ msgstr ""
 #: ../../C15.rst:1415
 msgid "Creatures you control get +1/+1 and have flying and indestructible."
 msgstr ""
+"Stwory pod twoim władaniem dostają +1/+1 i mają latanie oraz "
+"niezniszczalność."
 
 #: ../../C15.rst:1417
 msgid ""
 "At the beginning of your upkeep, sacrifice a creature. If you can't, "
 "sacrifice Eldrazi Monument."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć stwora. Jeśli nie możesz, "
+"poświęć ten byt."
 
 #: ../../C15.rst:1422
 msgid ""

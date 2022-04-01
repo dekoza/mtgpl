@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-01 12:10+0000\n"
+"PO-Revision-Date: 2022-04-01 14:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -2999,6 +2999,8 @@ msgid ""
 "Destroy target artifact or enchantment and up to one other target artifact "
 "or enchantment."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok i co najwyżej jeden inny wskazany "
+"artefakt lub urok."
 
 #: ../../C17.rst:902
 msgid ""
@@ -3832,6 +3834,9 @@ msgid ""
 "Whenever a creature dies, put a +1/+1 counter on equipped creature. If "
 "equipped creature is a Vampire, put two +1/+1 counters on it instead."
 msgstr ""
+"Ilekroć umrze stwór, umieść znacznik +1/+1 na wyposażonym stworze. Jeśli "
+"wyposażony stwór jest Wampirem, zamiast tego umieść na nim dwa znaczniki +1/"
+"+1."
 
 #: ../../C17.rst:1204
 msgid ""
@@ -3962,6 +3967,8 @@ msgid ""
 "Whenever equipped creature attacks, you may have target creature block it "
 "this turn if able."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, możesz zdecydować, że wskazany stwór "
+"zablokuje go w tej turze jeśli może."
 
 #: ../../C17.rst:1252
 msgid ""
@@ -4280,7 +4287,7 @@ msgstr ""
 
 #: ../../C17.rst:1369
 msgid "Akoum Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1371
 msgid "When Akoum Refuge enters the battlefield, you gain 1 life."
@@ -4605,7 +4612,7 @@ msgstr ""
 
 #: ../../C17.rst:1499
 msgid "Graypelt Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1501
 msgid "When Graypelt Refuge enters the battlefield, you gain 1 life."
@@ -4714,11 +4721,11 @@ msgstr ""
 
 #: ../../C17.rst:1543
 msgid "Kabira Crossroads enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1545
 msgid "When Kabira Crossroads enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../C17.rst:1547 ../../C17.rst:1675 ../../C17.rst:1779
 msgid "|tap|: Add |mana_w|."

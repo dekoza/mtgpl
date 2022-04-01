@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-31 22:56+0000\n"
+"PO-Revision-Date: 2022-04-01 14:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -2343,13 +2343,15 @@ msgstr ""
 
 #: ../../CMD.rst:695
 msgid "Punishing Fire deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../CMD.rst:697
 msgid ""
 "Whenever an opponent gains life, you may pay |mana_r|. If you do, return "
 "Punishing Fire from your graveyard to your hand."
 msgstr ""
+"Ilekroć przeciwnik zyska życie, możesz zapłacić |mana_r|. Jeśli tak zrobisz "
+"przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../CMD.rst:704
 msgid ""
@@ -2604,10 +2606,13 @@ msgid ""
 "spell or ability an opponent controlled, you may pay |mana_g| rather than "
 "pay this spell's mana cost."
 msgstr ""
+"Jeśli niestworowy byt pod twoim władaniem został w tej turze zniszczony "
+"przez czar lub zdolność pod władaniem przeciwnika, możesz zapłacić |mana_g| "
+"zamiast płacić koszt many tego czaru."
 
 #: ../../CMD.rst:775
 msgid "Create four 1/1 green Snake creature tokens."
-msgstr ""
+msgstr "Stwórz cztery żetony zielonego stwora Wąż 1/1."
 
 #: ../../CMD.rst:780
 msgid ""
@@ -2967,6 +2972,8 @@ msgid ""
 "Destroy target artifact or enchantment and up to one other target artifact "
 "or enchantment."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok i co najwyżej jeden inny wskazany "
+"artefakt lub urok."
 
 #: ../../CMD.rst:896
 msgid ""
@@ -4479,7 +4486,7 @@ msgstr ""
 
 #: ../../CMD.rst:1419
 msgid "Akoum Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CMD.rst:1421
 msgid "When Akoum Refuge enters the battlefield, you gain 1 life."
@@ -4792,7 +4799,7 @@ msgstr ""
 
 #: ../../CMD.rst:1537
 msgid "Kazandu Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CMD.rst:1539
 msgid "When Kazandu Refuge enters the battlefield, you gain 1 life."
