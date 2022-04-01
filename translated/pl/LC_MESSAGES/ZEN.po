@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 08:35+0000\n"
+"PO-Revision-Date: 2022-04-01 08:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -870,7 +870,7 @@ msgstr ""
 msgid ""
 "Remove three quest counters from Sunspring Expedition and sacrifice it: You "
 "gain 8 life."
-msgstr ""
+msgstr "Usuń trzy znaczniki wyprawy z tego bytu i poświęć go: Zyskaj 8 żyć."
 
 #: ../../ZEN.rst:204
 msgid ""
@@ -883,7 +883,7 @@ msgstr ""
 msgid ""
 "Two target creatures you control each get +2/+2 and gain flying until end of "
 "turn."
-msgstr ""
+msgstr "Każdy z dwóch wskazanych stworów dostaje do końca tury +2/+2 i latanie."
 
 #: ../../ZEN.rst:208
 msgid ""
@@ -897,6 +897,8 @@ msgid ""
 "At the beginning of your upkeep, you may choose a card type. If you do, each "
 "player sacrifices a permanent of that type."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz wybrać typ karty. Jeśli tak "
+"zrobisz, każdy gracz poświęca byt owego typu."
 
 #: ../../ZEN.rst:216
 msgid ""
@@ -913,13 +915,15 @@ msgstr ""
 
 #: ../../ZEN.rst:213
 msgid "Aether Figment can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../ZEN.rst:215
 msgid ""
 "If Aether Figment was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy mając dwa znaczniki +1/"
+"+1."
 
 #: ../../ZEN.rst:222
 msgid ""
@@ -933,6 +937,8 @@ msgid ""
 "If an opponent searched their library this turn, you may pay |mana_0| rather "
 "than pay this spell's mana cost."
 msgstr ""
+"Jeśli przeciwnik w tej turze przeszukał swoją bibliotekę, możesz zapłacić "
+"|mana_0| zamiast płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:221
 msgid "Target opponent mills thirteen cards."
@@ -950,6 +956,8 @@ msgid ""
 "At the beginning of each end step, if you drew two or more cards this turn, "
 "you may put a quest counter on Archmage Ascension."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze dobrałeś co najmniej "
+"dwie karty, możesz umieścić znacznik wyprawy na tym bycie."
 
 #: ../../ZEN.rst:227
 msgid ""
@@ -957,6 +965,9 @@ msgid ""
 "would draw a card, you may instead search your library for a card, put that "
 "card into your hand, then shuffle."
 msgstr ""
+"O ile ten byt ma co najmniej sześć znaczników wyprawy, jeśli miałbyś dobrać "
+"kartę, zamiast tego możesz wyszukać kartę w twojej bibliotece, umieścić ową "
+"kartę w twojej ręce, po czym przetasuj."
 
 #: ../../ZEN.rst:232
 msgid ""
@@ -969,6 +980,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Target creature gains flying until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../ZEN.rst:236
 msgid ""
@@ -993,6 +1005,8 @@ msgid ""
 "Whenever an opponent shuffles their library, you may put a +1/+1 counter on "
 "Cosi's Trickster."
 msgstr ""
+"Ilekroć przeciwnik tasuje swoją bibliotekę, możesz umieścić znacznik +1/+1 "
+"na tym stworze."
 
 #: ../../ZEN.rst:246
 msgid ""
@@ -1010,6 +1024,8 @@ msgid ""
 "|tap|: Put Gomazoa and each creature it's blocking on top of their owners' "
 "libraries, then those players shuffle."
 msgstr ""
+"|tap|: Umieść tego stwora oraz każdego stwora blokującego go na wierzchach "
+"bibliotek właścicieli, po czym owi gracze tasują."
 
 #: ../../ZEN.rst:250
 msgid ""
@@ -1069,6 +1085,7 @@ msgid ""
 "Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw "
 "two cards."
 msgstr ""
+"Usuń trzy znaczniki wyprawy z tego bytu i poświęć go: Dobierz dwie karty."
 
 #: ../../ZEN.rst:264
 msgid ""
@@ -1089,10 +1106,12 @@ msgid ""
 "If three or more creatures are attacking, you may pay |mana_u| rather than "
 "pay this spell's mana cost."
 msgstr ""
+"Jeśli co najmniej trzy stwory atakują, możesz zapłacić |mana_u| zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../ZEN.rst:271
 msgid "Attacking creatures get -3/-0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają do końca tury -3/-0."
 
 #: ../../ZEN.rst:278
 msgid ""
@@ -1106,6 +1125,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Living Tsunami unless you return "
 "a land you control to its owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że przywrócisz "
+"ląd pod twoim władaniem do ręki właściciela."
 
 #: ../../ZEN.rst:282
 msgid ""
@@ -1120,6 +1141,9 @@ msgid ""
 "tap up to eight target permanents. Those permanents don't untap during their "
 "controllers' next untap steps."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_8|. Jeśli tak zrobisz, "
+"przekręć co najwyżej osiem wskazanych bytów. Owe byty nie odkręcą się w "
+"najbliższym kroku odkręcania swoich władców."
 
 #: ../../ZEN.rst:288
 msgid ""
@@ -1133,10 +1157,14 @@ msgid ""
 "Whenever a spell or ability you control counters a spell, you may create a "
 "1/1 blue Merfolk creature token."
 msgstr ""
+"Ilekroć czar lub zdolność skontruje czar, możesz stworzyć żeton niebieskiego "
+"stwora Wodnik 1/1."
 
 #: ../../ZEN.rst:287
 msgid "Tap seven untapped Merfolk you control: Counter target spell."
 msgstr ""
+"Przekręć siedem odkręconych Wodników pod twoim władaniem: Skontruj wskazany "
+"czar."
 
 #: ../../ZEN.rst:294
 msgid ""
@@ -1155,7 +1183,7 @@ msgstr ""
 
 #: ../../ZEN.rst:293
 msgid "|mana_2|\\ |mana_u|: Tap target creature without flying."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Przekręć wskazanego stwora bez latania."
 
 #: ../../ZEN.rst:300
 msgid ""
