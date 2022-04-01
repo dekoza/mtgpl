@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-29 21:28+0000\n"
+"PO-Revision-Date: 2022-04-01 08:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/zen/pl/>\n"
 "Language: pl\n"
@@ -506,6 +506,9 @@ msgid ""
 "control, you may choose a color. If you do, Allies you control gain "
 "protection from the chosen color until end of turn."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz wybrać kolor. Jeśli tak zrobisz, Sojusznicy pod twoim "
+"władaniem zyskują do końca tury ochronę przed owym kolorem."
 
 #: ../../ZEN.rst:94
 msgid ""
@@ -523,6 +526,8 @@ msgid ""
 "Whenever Kazandu Blademaster or another Ally enters the battlefield under "
 "your control, you may put a +1/+1 counter on Kazandu Blademaster."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:102
 msgid ""
@@ -698,6 +703,8 @@ msgid ""
 "Whenever Makindi Shieldmate or another Ally enters the battlefield under "
 "your control, you may put a +1/+1 counter on Makindi Shieldmate."
 msgstr ""
+"Ilekroć ten byt lub inny Sojusznik wejdzie na pole bitwy pod twoim "
+"władaniem, możesz umieścić znacznik +1/+1 na niniejszym bycie."
 
 #: ../../ZEN.rst:150
 msgid ""
@@ -710,6 +717,8 @@ msgstr ""
 msgid ""
 "Return target permanent you control to its owner's hand. You gain 4 life."
 msgstr ""
+"Przywróć wskazany byt pod twoim władaniem do ręki właściciela. Zyskaj 4 "
+"życia."
 
 #: ../../ZEN.rst:156
 msgid ""
@@ -720,7 +729,7 @@ msgstr ""
 
 #: ../../ZEN.rst:155
 msgid "Enchanted creature gets +1/+2 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+2 i ma latanie."
 
 #: ../../ZEN.rst:162
 msgid ""
