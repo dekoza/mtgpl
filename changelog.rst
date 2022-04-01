@@ -1,6 +1,7 @@
 ***********
 Spis zmian
 ***********
+
 2022-04-01
    * :mtgexp:`WWK` :doc:`Worldwake<WWK>` - 100%
    * :mtgexp:`ZEN` :doc:`Zendikar<ZEN>` - 100%

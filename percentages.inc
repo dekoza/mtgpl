@@ -310,7 +310,7 @@
 
 .. |APC_percent| image:: images/pie45.png        
 
-.. |EVE_percent| image:: images/pie50.png        
+.. |EVE_percent| image:: images/pie65.png        
 
 .. |S00_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
