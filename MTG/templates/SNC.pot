@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 01:05+0200\n"
+"POT-Creation-Date: 2022-04-02 20:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -368,7 +368,7 @@ msgid "Destroy target creature or planeswalker with mana value 3 or less."
 msgstr ""
 
 #: ../../SNC.rst:62
-msgid ":mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648740316|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`"
+msgid ":mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648903899|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:59
@@ -376,7 +376,7 @@ msgid "Flying, ward |mana_1|"
 msgstr ""
 
 #: ../../SNC.rst:61
-msgid "Whenever you attack, target creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)"
+msgid "Whenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)"
 msgstr ""
 
 #: ../../SNC.rst:70

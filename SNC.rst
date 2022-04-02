@@ -55,10 +55,10 @@
    • Destroy target creature or planeswalker with mana value 3 or less.
 
 
-:mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648740316|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`
+:mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648903899|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`
    Flying, ward |mana_1|
 
-   Whenever you attack, target creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)
+   Whenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)
 
 
 :mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
