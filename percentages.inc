@@ -10,7 +10,7 @@
 .. |SOM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SHM_percent| image:: images/pie45.png        
+.. |SHM_percent| image:: images/pie50.png        
 
 .. |2ED_percent| image:: images/pie70.png        
 
@@ -390,8 +390,7 @@
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SNC_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |SNC_percent| image:: images/pie90.png        
 
 .. |ARN_percent| image:: images/pie55.png        
 
