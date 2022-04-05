@@ -61,6 +61,16 @@
    Whenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)
 
 
+:mtgtip:`Riveteers Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/784a5915-bc42-49d6-8a1b-45da7749f03a.jpg?1649068685|https://scryfall.com/card/snc/217/riveteers-charm?utm_source=api>`
+   Choose one —
+
+   • Target opponent sacrifices a creature or planeswalker they control with the highest mana value among creatures and planeswalkers they control.
+
+   • Exile the top three cards of your library. Until your next end step, you may play those cards.
+
+   • Exile target player's graveyard.
+
+
 :mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
    (|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)
 

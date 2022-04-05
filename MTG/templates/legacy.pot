@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-02 20:38+0200\n"
+"POT-Creation-Date: 2022-04-05 12:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -188,8 +188,7 @@ msgstr ""
 #: ../../percentages.inc:382
 #: ../../percentages.inc:385
 #: ../../percentages.inc:390
-#: ../../percentages.inc:393
-#: ../../percentages.inc:400
+#: ../../percentages.inc:399
 #: ../../percentages.inc:194
 #: ../../percentages.inc:315
 #: ../../percentages.inc:78
@@ -516,18 +515,22 @@ msgstr ""
 msgid "PLC_percent"
 msgstr ""
 
-#: ../../percentages.inc:396
-#: ../../percentages.inc:396
+#: ../../percentages.inc:393
+msgid "SNC_percent"
+msgstr ""
+
+#: ../../percentages.inc:395
+#: ../../percentages.inc:395
 msgid "ARN_percent"
 msgstr ""
 
-#: ../../percentages.inc:398
-#: ../../percentages.inc:398
+#: ../../percentages.inc:397
+#: ../../percentages.inc:397
 msgid "PTK_percent"
 msgstr ""
 
-#: ../../percentages.inc:403
-#: ../../percentages.inc:403
+#: ../../percentages.inc:402
+#: ../../percentages.inc:402
 msgid "LEG_percent"
 msgstr ""
 
