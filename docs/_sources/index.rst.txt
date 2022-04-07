@@ -132,10 +132,15 @@ Seria 'Masters'
 * :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` |MM2_percent|
 * :mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 |MMA_percent|
 
-Commander i pokrewne
---------------------
+Commander i podobne
+-------------------
 
-:doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p25|
+Zasady
+~~~~~~
+
+* :doc:`Filozofia formatu Commander (Dowódca)<commander_philosophy>` |p05|
+* :doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p05|
+* :doc:`Lista zbanowanych kart<commander_banned>` |p05|
 
 :doc:`Lista dodatków dla formatu Commander<commander>`
 
