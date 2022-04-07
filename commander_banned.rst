@@ -12,51 +12,51 @@ The following is the official banned list for commander games. These cards are n
 * All cards that Wizards has removed from constructed formats (full list `here<https://magic.wizards.com/en/articles/archive/news/depictions-racism-magic-2020-06-10>`_)
 * All cards with the Conspiracy card type (full list `here<https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&special=true&type=+%5b%22Conspiracy%22%5d>`_)
 
-:mtgtip:`Ancestral Recall`
-:mtgtip:`Balance`
-:mtgtip:`Biorhythm`
-:mtgtip:`Black Lotus`
-:mtgtip:`Braids, Cabal Minion`
-:mtgtip:`Channel`
-:mtgtip:`Chaos Orb`
-:mtgtip:`Coalition Victory`
-:mtgtip:`Emrakul, the Aeons Torn`
-:mtgtip:`Erayo, Soratami Ascendant`
-:mtgtip:`Falling Star`
-:mtgtip:`Fastbond`
-:mtgtip:`Flash`
-:mtgtip:`Gifts Ungiven`
-:mtgtip:`Golos, Tireless Pilgrim`
-:mtgtip:`Griselbrand`
-:mtgtip:`Hullbreacher`
-:mtgtip:`Iona, Shield of Emeria`
-:mtgtip:`Karakas`
-:mtgtip:`Leovold, Emissary of Trest`
-:mtgtip:`Library of Alexandria`
-:mtgtip:`Limited Resources`
-:mtgtip:`Lutri, the Spellchaser`
-:mtgtip:`Mox Emerald`
-:mtgtip:`Mox Jet`
-:mtgtip:`Mox Pearl`
-:mtgtip:`Mox Ruby`
-:mtgtip:`Mox Sapphire`
-:mtgtip:`Panoptic Mirror`
-:mtgtip:`Paradox Engine`
-:mtgtip:`Primeval Titan`
-:mtgtip:`Prophet of Kruphix`
-:mtgtip:`Recurring Nightmare`
-:mtgtip:`Rofellos, Llanowar Emissary`
-:mtgtip:`Shahrazad`
-:mtgtip:`Sway of the Stars`
-:mtgtip:`Sundering Titan`
-:mtgtip:`Sylvan Primordial`
-:mtgtip:`Time Vault`
-:mtgtip:`Time Walk`
-:mtgtip:`Tinker`
-:mtgtip:`Tolarian Academy`
-:mtgtip:`Trade Secrets`
-:mtgtip:`Upheaval`
-:mtgtip:`Yawgmoth’s Bargain`
+* :mtgtip:`Ancestral Recall`
+* :mtgtip:`Balance`
+* :mtgtip:`Biorhythm`
+* :mtgtip:`Black Lotus`
+* :mtgtip:`Braids, Cabal Minion`
+* :mtgtip:`Channel`
+* :mtgtip:`Chaos Orb`
+* :mtgtip:`Coalition Victory`
+* :mtgtip:`Emrakul, the Aeons Torn`
+* :mtgtip:`Erayo, Soratami Ascendant`
+* :mtgtip:`Falling Star`
+* :mtgtip:`Fastbond`
+* :mtgtip:`Flash`
+* :mtgtip:`Gifts Ungiven`
+* :mtgtip:`Golos, Tireless Pilgrim`
+* :mtgtip:`Griselbrand`
+* :mtgtip:`Hullbreacher`
+* :mtgtip:`Iona, Shield of Emeria`
+* :mtgtip:`Karakas`
+* :mtgtip:`Leovold, Emissary of Trest`
+* :mtgtip:`Library of Alexandria`
+* :mtgtip:`Limited Resources`
+* :mtgtip:`Lutri, the Spellchaser`
+* :mtgtip:`Mox Emerald`
+* :mtgtip:`Mox Jet`
+* :mtgtip:`Mox Pearl`
+* :mtgtip:`Mox Ruby`
+* :mtgtip:`Mox Sapphire`
+* :mtgtip:`Panoptic Mirror`
+* :mtgtip:`Paradox Engine`
+* :mtgtip:`Primeval Titan`
+* :mtgtip:`Prophet of Kruphix`
+* :mtgtip:`Recurring Nightmare`
+* :mtgtip:`Rofellos, Llanowar Emissary`
+* :mtgtip:`Shahrazad`
+* :mtgtip:`Sway of the Stars`
+* :mtgtip:`Sundering Titan`
+* :mtgtip:`Sylvan Primordial`
+* :mtgtip:`Time Vault`
+* :mtgtip:`Time Walk`
+* :mtgtip:`Tinker`
+* :mtgtip:`Tolarian Academy`
+* :mtgtip:`Trade Secrets`
+* :mtgtip:`Upheaval`
+* :mtgtip:`Yawgmoth’s Bargain`
 
 The banned list is updated quarterly, with our announcements coming on the Monday before the prerelease.
 

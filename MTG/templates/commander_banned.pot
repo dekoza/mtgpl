@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-07 21:07+0200\n"
+"POT-Creation-Date: 2022-04-07 23:06+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -253,7 +253,183 @@ msgid "All cards with the Conspiracy card type (full list `here<https://gatherer
 msgstr ""
 
 #: ../../commander_banned.rst:15
-msgid ":mtgtip:`Ancestral Recall` :mtgtip:`Balance` :mtgtip:`Biorhythm` :mtgtip:`Black Lotus` :mtgtip:`Braids, Cabal Minion` :mtgtip:`Channel` :mtgtip:`Chaos Orb` :mtgtip:`Coalition Victory` :mtgtip:`Emrakul, the Aeons Torn` :mtgtip:`Erayo, Soratami Ascendant` :mtgtip:`Falling Star` :mtgtip:`Fastbond` :mtgtip:`Flash` :mtgtip:`Gifts Ungiven` :mtgtip:`Golos, Tireless Pilgrim` :mtgtip:`Griselbrand` :mtgtip:`Hullbreacher` :mtgtip:`Iona, Shield of Emeria` :mtgtip:`Karakas` :mtgtip:`Leovold, Emissary of Trest` :mtgtip:`Library of Alexandria` :mtgtip:`Limited Resources` :mtgtip:`Lutri, the Spellchaser` :mtgtip:`Mox Emerald` :mtgtip:`Mox Jet` :mtgtip:`Mox Pearl` :mtgtip:`Mox Ruby` :mtgtip:`Mox Sapphire` :mtgtip:`Panoptic Mirror` :mtgtip:`Paradox Engine` :mtgtip:`Primeval Titan` :mtgtip:`Prophet of Kruphix` :mtgtip:`Recurring Nightmare` :mtgtip:`Rofellos, Llanowar Emissary` :mtgtip:`Shahrazad` :mtgtip:`Sway of the Stars` :mtgtip:`Sundering Titan` :mtgtip:`Sylvan Primordial` :mtgtip:`Time Vault` :mtgtip:`Time Walk` :mtgtip:`Tinker` :mtgtip:`Tolarian Academy` :mtgtip:`Trade Secrets` :mtgtip:`Upheaval` :mtgtip:`Yawgmoth’s Bargain`"
+msgid ":mtgtip:`Ancestral Recall`"
+msgstr ""
+
+#: ../../commander_banned.rst:16
+msgid ":mtgtip:`Balance`"
+msgstr ""
+
+#: ../../commander_banned.rst:17
+msgid ":mtgtip:`Biorhythm`"
+msgstr ""
+
+#: ../../commander_banned.rst:18
+msgid ":mtgtip:`Black Lotus`"
+msgstr ""
+
+#: ../../commander_banned.rst:19
+msgid ":mtgtip:`Braids, Cabal Minion`"
+msgstr ""
+
+#: ../../commander_banned.rst:20
+msgid ":mtgtip:`Channel`"
+msgstr ""
+
+#: ../../commander_banned.rst:21
+msgid ":mtgtip:`Chaos Orb`"
+msgstr ""
+
+#: ../../commander_banned.rst:22
+msgid ":mtgtip:`Coalition Victory`"
+msgstr ""
+
+#: ../../commander_banned.rst:23
+msgid ":mtgtip:`Emrakul, the Aeons Torn`"
+msgstr ""
+
+#: ../../commander_banned.rst:24
+msgid ":mtgtip:`Erayo, Soratami Ascendant`"
+msgstr ""
+
+#: ../../commander_banned.rst:25
+msgid ":mtgtip:`Falling Star`"
+msgstr ""
+
+#: ../../commander_banned.rst:26
+msgid ":mtgtip:`Fastbond`"
+msgstr ""
+
+#: ../../commander_banned.rst:27
+msgid ":mtgtip:`Flash`"
+msgstr ""
+
+#: ../../commander_banned.rst:28
+msgid ":mtgtip:`Gifts Ungiven`"
+msgstr ""
+
+#: ../../commander_banned.rst:29
+msgid ":mtgtip:`Golos, Tireless Pilgrim`"
+msgstr ""
+
+#: ../../commander_banned.rst:30
+msgid ":mtgtip:`Griselbrand`"
+msgstr ""
+
+#: ../../commander_banned.rst:31
+msgid ":mtgtip:`Hullbreacher`"
+msgstr ""
+
+#: ../../commander_banned.rst:32
+msgid ":mtgtip:`Iona, Shield of Emeria`"
+msgstr ""
+
+#: ../../commander_banned.rst:33
+msgid ":mtgtip:`Karakas`"
+msgstr ""
+
+#: ../../commander_banned.rst:34
+msgid ":mtgtip:`Leovold, Emissary of Trest`"
+msgstr ""
+
+#: ../../commander_banned.rst:35
+msgid ":mtgtip:`Library of Alexandria`"
+msgstr ""
+
+#: ../../commander_banned.rst:36
+msgid ":mtgtip:`Limited Resources`"
+msgstr ""
+
+#: ../../commander_banned.rst:37
+msgid ":mtgtip:`Lutri, the Spellchaser`"
+msgstr ""
+
+#: ../../commander_banned.rst:38
+msgid ":mtgtip:`Mox Emerald`"
+msgstr ""
+
+#: ../../commander_banned.rst:39
+msgid ":mtgtip:`Mox Jet`"
+msgstr ""
+
+#: ../../commander_banned.rst:40
+msgid ":mtgtip:`Mox Pearl`"
+msgstr ""
+
+#: ../../commander_banned.rst:41
+msgid ":mtgtip:`Mox Ruby`"
+msgstr ""
+
+#: ../../commander_banned.rst:42
+msgid ":mtgtip:`Mox Sapphire`"
+msgstr ""
+
+#: ../../commander_banned.rst:43
+msgid ":mtgtip:`Panoptic Mirror`"
+msgstr ""
+
+#: ../../commander_banned.rst:44
+msgid ":mtgtip:`Paradox Engine`"
+msgstr ""
+
+#: ../../commander_banned.rst:45
+msgid ":mtgtip:`Primeval Titan`"
+msgstr ""
+
+#: ../../commander_banned.rst:46
+msgid ":mtgtip:`Prophet of Kruphix`"
+msgstr ""
+
+#: ../../commander_banned.rst:47
+msgid ":mtgtip:`Recurring Nightmare`"
+msgstr ""
+
+#: ../../commander_banned.rst:48
+msgid ":mtgtip:`Rofellos, Llanowar Emissary`"
+msgstr ""
+
+#: ../../commander_banned.rst:49
+msgid ":mtgtip:`Shahrazad`"
+msgstr ""
+
+#: ../../commander_banned.rst:50
+msgid ":mtgtip:`Sway of the Stars`"
+msgstr ""
+
+#: ../../commander_banned.rst:51
+msgid ":mtgtip:`Sundering Titan`"
+msgstr ""
+
+#: ../../commander_banned.rst:52
+msgid ":mtgtip:`Sylvan Primordial`"
+msgstr ""
+
+#: ../../commander_banned.rst:53
+msgid ":mtgtip:`Time Vault`"
+msgstr ""
+
+#: ../../commander_banned.rst:54
+msgid ":mtgtip:`Time Walk`"
+msgstr ""
+
+#: ../../commander_banned.rst:55
+msgid ":mtgtip:`Tinker`"
+msgstr ""
+
+#: ../../commander_banned.rst:56
+msgid ":mtgtip:`Tolarian Academy`"
+msgstr ""
+
+#: ../../commander_banned.rst:57
+msgid ":mtgtip:`Trade Secrets`"
+msgstr ""
+
+#: ../../commander_banned.rst:58
+msgid ":mtgtip:`Upheaval`"
+msgstr ""
+
+#: ../../commander_banned.rst:59
+msgid ":mtgtip:`Yawgmoth’s Bargain`"
 msgstr ""
 
 #: ../../commander_banned.rst:61
