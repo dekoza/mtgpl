@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-04-01 14:09+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -466,6 +466,10 @@ msgid ""
 "with you, each player votes for blue, black, red, or green. Council Guardian "
 "gains protection from each color with the most votes or tied for most votes."
 msgstr ""
+"Wola rady — Kiedy ten byt wejdzie na pole bitwy, zaczynając od ciebie każdy "
+"gracz głosuje na niebieski, czarny, czerwony lub zielony. Ten byt dostaje "
+"ochronę przed każdym kolorem o największej liczbie głosów lub równą ich "
+"liczbą."
 
 #: ../../CNS.rst:96
 msgid ""
@@ -529,6 +533,10 @@ msgid ""
 "in your graveyard. Return each card with the most votes or tied for most "
 "votes to your hand."
 msgstr ""
+"Wola rady — Kiedy ten byt wejdzie na pole bitwy, zaczynając od ciebie każdy "
+"gracz głosuje na kartę artefaktu, stwora lub uroku w twoim cmentarzu. "
+"Przywróć do twojej ręki każdą kartę o największej liczbie głosów lub równą "
+"ich liczbą."
 
 #: ../../CNS.rst:112
 msgid ""
@@ -543,6 +551,9 @@ msgid ""
 "card revealed this way, you create a 1/1 white Spirit creature token with "
 "flying. Then each player draws a card."
 msgstr ""
+"Układ — Każdy gracz ujawnia wierzchnią kartę swojej biblioteki. Za każdą "
+"nielądową kartę ujawnioną w ten sposób, stwórz żeton białego stwora Duch 1/1 "
+"z lataniem. Następnie każdy gracz dobiera kartę."
 
 #: ../../CNS.rst:118
 msgid ""
@@ -588,6 +599,8 @@ msgid ""
 "Dethrone (Whenever this creature attacks the player with the most life or "
 "tied for most life, put a +1/+1 counter on it.)"
 msgstr ""
+"Detronizowanie (Ilekroć ten stwór zaatakuje gracza o liczbie żyć równej "
+"największej liczbie żyć, umieść na nim znacznik +1/+1.)"
 
 #: ../../CNS.rst:130
 msgid ""
@@ -634,6 +647,9 @@ msgid ""
 "knowledge. If time gets more votes, take an extra turn after this one. If "
 "knowledge gets more votes or the vote is tied, draw three cards."
 msgstr ""
+"Wola rady — Zaczynając od ciebie każdy gracz głosuje na czas lub wiedzę. "
+"Jeśli czas dostanie więcej głosów, weź dodatkową turę po obecnej. Jeśli "
+"wiedza dostanie więcej głosów lub głosy będą po równo, dobierz trzy karty."
 
 #: ../../CNS.rst:142
 msgid ""
@@ -649,6 +665,10 @@ msgid ""
 "counter the spell. If duplication gets more votes or the vote is tied, copy "
 "the spell. You may choose new targets for the copy."
 msgstr ""
+"Wola rady — Wybierz wskazany czar sztuczki lub obrzędu. Zaczynając od ciebie "
+"każdy gracz głosuje na odmową lub podwojenie. Jeśli odmowa dostanie więcej "
+"głosów, skontruj ów czar. Jeśli podwojenie dostanie więcej lub głosy będą po "
+"równo, skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../CNS.rst:146
 msgid ""
@@ -664,6 +684,10 @@ msgid ""
 "-2/-2 until end of turn. If psychosis gets more votes or the vote is tied, "
 "each opponent discards two cards."
 msgstr ""
+"Wola rady — Zaczynając od ciebie każdy gracz głosuje na chorobę lub "
+"psychozę. Jeśli choroba dostanie więcej głosów, stwory pod władaniem twoich "
+"przeciwników dostają do końca tury -2/-2. Jeśli psychoza dostanie więcej lub "
+"będzie po równo, każdy przeciwnik odrzuca po dwie karty."
 
 #: ../../CNS.rst:152
 msgid ""
@@ -677,12 +701,16 @@ msgid ""
 "Drakestown Forgotten enters the battlefield with X +1/+1 counters on it, "
 "where X is the number of creature cards in all graveyards."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest liczbą "
+"kart stworów we wszystkich cmentarzach."
 
 #: ../../CNS.rst:151
 msgid ""
 "|mana_2|\\ |mana_b|, Remove a +1/+1 counter from Drakestown Forgotten: "
 "Target creature gets -1/-1 until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_b|, usuń znacznik +1/+1 z tego bytu: Wskazany stwór dostaje "
+"do końca tury -1/-1."
 
 #: ../../CNS.rst:156
 msgid ""
@@ -696,6 +724,8 @@ msgid ""
 "Whenever players finish voting, each opponent who voted for a choice you "
 "didn't vote for loses 2 life."
 msgstr ""
+"Ilekroć gracze zakończą głosowanie, każdy przeciwnik głosujący inaczej niż "
+"ty, traci po 2 życia."
 
 #: ../../CNS.rst:160
 msgid ""
@@ -709,6 +739,8 @@ msgid ""
 "Each player sacrifices a creature. Create an X/X black Demon creature token "
 "with flying, where X is the total power of the creatures sacrificed this way."
 msgstr ""
+"Każdy gracz poświęca stwora. Stwórz żeton czarnego stwora Demon X/X z "
+"lataniem, gdzie X jest łączną siłą stworów poświęconych w ten sposób."
 
 #: ../../CNS.rst:164
 msgid ""
@@ -723,6 +755,9 @@ msgid ""
 "torture. If death gets more votes, each opponent sacrifices a creature. If "
 "torture gets more votes or the vote is tied, each opponent loses 4 life."
 msgstr ""
+"Wola rady — Zaczynając od ciebie każdy gracz głosuje na śmierć lub torturę. "
+"Jeśli śmierć dostanie więcej głosów, każdy przeciwnik poświęca stwora. Jeśli "
+"tortura dostanie więcej lub będzie po równo, każdy gracz traci po 4 życia."
 
 #: ../../CNS.rst:168
 msgid ""
@@ -755,6 +790,9 @@ msgid ""
 "an artifact, a creature, and a land from among the permanents controlled by "
 "the player to their left. Destroy each permanent chosen this way."
 msgstr ""
+"Stwórz żeton czerwonego stwora Ogr 4/4. Zaczynając od ciebie, każdy gracz "
+"wybiera artefakt, stwora i ląd spośród bytów pod władaniem gracza po swojej "
+"lewej. Zniszcz każdy byt wybrany w ten sposób."
 
 #: ../../CNS.rst:184
 msgid ""
@@ -768,12 +806,16 @@ msgid ""
 "Ignition Team enters the battlefield with X +1/+1 counters on it, where X is "
 "the number of tapped lands on the battlefield."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest liczbą "
+"przekręconych lądów na polu bitwy."
 
 #: ../../CNS.rst:183
 msgid ""
 "|mana_2|\\ |mana_r|, Remove a +1/+1 counter from Ignition Team: Target land "
 "becomes a 4/4 red Elemental creature until end of turn. It's still a land."
 msgstr ""
+"|mana_2|\\ |mana_r|, usuń znacznik +1/+1 z tego bytu: Wskazany ląd do końca "
+"tury staje się czerwonym stworem Żywiołak 4/4. Nadal jest lądem."
 
 #: ../../CNS.rst:192
 msgid ""
@@ -788,6 +830,9 @@ msgid ""
 "attacking the player with the most life or tied for most life, untap all "
 "attacking creatures. After this phase, there is an additional combat phase."
 msgstr ""
+"Ilekroć ten stwór zaatakuje po raz pierwszy w danej turze, jeśli atakuje "
+"gracza z liczbą żyć równą największej liczbie żyć, odkręć wszystkie "
+"atakujące stwory. Po tej fazie następuje kolejna faza potyczki."
 
 #: ../../CNS.rst:198
 msgid ""
@@ -798,7 +843,7 @@ msgstr ""
 
 #: ../../CNS.rst:197
 msgid "Pay 3 life: Add |mana_r|."
-msgstr ""
+msgstr "Zapłać 3 życia: Weź |mana_r|."
 
 #: ../../CNS.rst:204
 msgid ""
@@ -809,13 +854,15 @@ msgstr ""
 
 #: ../../CNS.rst:201
 msgid "Create a 2/2 green Wolf creature token."
-msgstr ""
+msgstr "Stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../CNS.rst:203
 msgid ""
 "Morbid — Create three 2/2 green Wolf creature tokens instead if a creature "
 "died this turn."
 msgstr ""
+"Okropność — Zamiast tego stwórz trzy żetony zielonego stwora Wilk 2/2 jeśli "
+"w tej turze umarł stwór."
 
 #: ../../CNS.rst:210
 msgid ""
@@ -829,6 +876,8 @@ msgid ""
 "Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is "
 "the total number of cards in all players' hands."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest łączną "
+"liczbą kart w rękach wszystkich graczy."
 
 #: ../../CNS.rst:209
 msgid ""
@@ -852,6 +901,9 @@ msgid ""
 "card revealed this way, you create a 3/3 green Elephant creature token. Then "
 "each player draws a card."
 msgstr ""
+"Układ — Każdy gracz ujawnia wierzchnią kartę swojej biblioteki. Za każdą "
+"nielądową kartę ujawnioną w ten sposób, stwórz żeton zielonego stwora Słoń 3/"
+"3. Następnie każdy gracz dobiera kartę."
 
 #: ../../CNS.rst:218
 msgid ""
@@ -866,6 +918,9 @@ msgid ""
 "the top card of their library. For each nonland card revealed this way, put "
 "a +1/+1 counter on Selvala's Enforcer. Then each player draws a card."
 msgstr ""
+"Układ — Kiedy ten byt wejdzie na pole bitwy, każdy gracz ujawnia wierzchnią "
+"kartę swojej biblioteki. Za każdą nielądową kartę ujawnioną w ten sposób, "
+"umieść znacznik +1/+1 na tym bycie. Następnie każdy gracz dobiera kartę."
 
 #: ../../CNS.rst:224
 msgid ""
@@ -921,6 +976,10 @@ msgid ""
 "attacks the player with the most life or tied for most life, put a +1/+1 "
 "counter on it.)"
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale ma on pośpiech i detronizowanie. (Ilekroć "
+"zaatakuje on gracza o liczbie żyć równej największej liczbie żyć, umieść na "
+"nim znacznik +1/+1.)"
 
 #: ../../CNS.rst:240
 msgid ""
@@ -964,12 +1023,16 @@ msgid ""
 "|mana_1|, |tap|: Create a 1/1 colorless Construct artifact creature token "
 "with defender."
 msgstr ""
+"|mana_1|, |tap|: Stwórz żeton bezkolorowego artefaktowego stwora Konstrukt 1/"
+"1 z obronnością."
 
 #: ../../CNS.rst:249
 msgid ""
 "|tap|, Sacrifice a creature with defender: Flamewright deals 1 damage to any "
 "target."
 msgstr ""
+"|tap|, poświęć stwora z obronnością: Ten byt zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../CNS.rst:256
 msgid ""
@@ -1008,6 +1071,11 @@ msgid ""
 "to the battlefield. If condemnation gets more votes or the vote is tied, "
 "destroy all creatures other than Magister of Worth."
 msgstr ""
+"Wola rady — Kiedy ten byt wejdzie na pole bitwy, zaczynając od ciebie każdy "
+"gracz głosuje na chwałę lub potępienie. Jeśli chwała dostanie więcej głosów, "
+"każdy gracz przywraca każdą kartę stwora ze swojego cmentarza na pole bitwy. "
+"Jeśli potępienie dostanie więcej lub będzie po równo, zniszcz wszystkie "
+"stwory oprócz niniejszego."
 
 #: ../../CNS.rst:270
 msgid ""
@@ -1019,7 +1087,7 @@ msgstr ""
 
 #: ../../CNS.rst:267
 msgid "Other creatures you control have dethrone."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają detronizowanie."
 
 #: ../../CNS.rst:269
 msgid ""
@@ -1027,6 +1095,9 @@ msgid ""
 "card to the battlefield under your control at the beginning of the next end "
 "step."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, przywróć ową "
+"kartę na pole bitwy pod twoim władaniem na początku najbliższego kroku "
+"końcowego."
 
 #: ../../CNS.rst:276
 msgid ""
@@ -1040,6 +1111,8 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|: Target creature you control gains haste "
 "until end of turn and can't be blocked this turn."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_r|: Wskazany stwór pod twoim władaniem zyskuje "
+"do końca tury pośpiech i nie może być blokowany w tej turze."
 
 #: ../../CNS.rst:280
 msgid ""
@@ -1055,6 +1128,9 @@ msgid ""
 "nonland card revealed this way, add |mana_g| and you gain 1 life. Then each "
 "player draws a card."
 msgstr ""
+"Układ — |tap|: Każdy gracz ujawnia wierzchnią kartę swojej biblioteki. Za "
+"każdą nielądową kartę ujawnioną w ten sposób, weź |mana_g| i zyskaj 1 życia. "
+"Następnie każdy gracz dobiera kartę."
 
 #: ../../CNS.rst:286
 msgid ""
@@ -1074,6 +1150,10 @@ msgid ""
 "creatures you control get +1/+1 until end of turn. Then each player draws a "
 "card."
 msgstr ""
+"Układ — Ilekroć ten stwór zaatakuje, każdy gracz ujawnia wierzchnią kartę "
+"swojej biblioteki. Za każdą nielądową kartę ujawnioną w ten sposób, "
+"atakujące stwory pod twoim władaniem dostają do końca tury +1/+1. Następnie "
+"każdy gracz dobiera kartę."
 
 #: ../../CNS.rst:292
 msgid ""
@@ -1087,6 +1167,8 @@ msgid ""
 "Reveal Aether Searcher as you draft it. Reveal the next card you draft and "
 "note its name."
 msgstr ""
+"Ujawnij tę kartę podczas jej zaciągania. Ujawnij następną zaciąganą przez "
+"ciebie kartę i zapisz jej nazwę."
 
 #: ../../CNS.rst:291
 msgid ""
@@ -1095,6 +1177,10 @@ msgid ""
 "Searcher. You may cast it without paying its mana cost. If you searched your "
 "library this way, shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej ręce i/lub "
+"bibliotece kartę o nazwie zapisanej podczas zaciągania kart o niniejszej "
+"nazwie. Możesz rzucić ją bez płacenia jej kosztu many. Jeśli przeszukasz "
+"twoją bibliotekę w ten sposób, przetasuj."
 
 #: ../../CNS.rst:298
 msgid ""
@@ -1105,7 +1191,7 @@ msgstr ""
 
 #: ../../CNS.rst:295
 msgid "Draft Agent of Acquisitions face up."
-msgstr ""
+msgstr "Zaciągaj tę kartę odkrytą."
 
 #: ../../CNS.rst:297
 msgid ""
@@ -1114,6 +1200,10 @@ msgid ""
 "down and you can't draft cards for the rest of this draft round. (You may "
 "look at booster packs passed to you.)"
 msgstr ""
+"Zamiast zaciągania karty z paczki, możesz zaciągnąć każdą kartę z owej "
+"paczki, po jednej. Jeśli tak zrobisz, zakryj tę kartę i nie możesz zaciągać "
+"więcej kart podczas tej rundy zaciągania. (Możesz patrzeć na paczki podawane "
+"tobie.)"
 
 #: ../../CNS.rst:306
 msgid ""
@@ -1124,18 +1214,22 @@ msgstr ""
 
 #: ../../CNS.rst:301
 msgid "Draft Canal Dredger face up."
-msgstr ""
+msgstr "Zaciągaj tę kartę odkrytą."
 
 #: ../../CNS.rst:303
 msgid ""
 "Each player passes the last card from each booster pack to a player who "
 "drafted a card named Canal Dredger."
 msgstr ""
+"Każdy gracz podaje ostatnią kartę z każdej paczki do gracza, który zaciągną "
+"kartę o niniejszej nazwie."
 
 #: ../../CNS.rst:305
 msgid ""
 "|tap|: Put target card from your graveyard on the bottom of your library."
 msgstr ""
+"|tap|: Umieść wskazaną kartę z twojego cmentarza na spodzie twojej "
+"biblioteki."
 
 #: ../../CNS.rst:310
 msgid ""
@@ -1151,6 +1245,10 @@ msgid ""
 "sacrifice Coercive Portal and destroy all nonland permanents. If homage gets "
 "more votes or the vote is tied, draw a card."
 msgstr ""
+"Wola rady — Na początku twojego kroku utrzymania, zaczynając od ciebie każdy "
+"gracz głosuje na rzeź lub hołd. Jeśli rzeź dostanie więcej głosów, poświęć "
+"ten byt i zniszcz wszystkie nielądowe byty. Jeśli hołd dostanie więcej lub "
+"będzie po równo, dobierz kartę."
 
 #: ../../CNS.rst:318
 msgid ""
@@ -1161,13 +1259,15 @@ msgstr ""
 
 #: ../../CNS.rst:313
 msgid "Draft Cogwork Grinder face up."
-msgstr ""
+msgstr "Zaciągaj tę kartę odkrytą."
 
 #: ../../CNS.rst:315
 msgid ""
 "As you draft a card, you may remove it from the draft face down. (Those "
 "cards aren't in your card pool.)"
 msgstr ""
+"Zaciągając kartę, możesz usunąć ją zakrytą z zaciągania. (Owe karty nie są w "
+"twojej puli kart.)"
 
 #: ../../CNS.rst:317
 msgid ""
@@ -1175,6 +1275,8 @@ msgid ""
 "is the number of cards you removed from the draft with cards named Cogwork "
 "Grinder."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest liczbą "
+"kart usuniętych przez ciebie z zaciągania kartami o niniejszej nazwie."
 
 #: ../../CNS.rst:324
 msgid ""
@@ -1185,13 +1287,15 @@ msgstr ""
 
 #: ../../CNS.rst:321
 msgid "Draft Cogwork Librarian face up."
-msgstr ""
+msgstr "Zaciągaj tę kartę odkrytą."
 
 #: ../../CNS.rst:323
 msgid ""
 "As you draft a card, you may draft an additional card from that booster "
 "pack. If you do, put Cogwork Librarian into that booster pack."
 msgstr ""
+"Zaciągając kartę możesz zaciągnąć dodatkową kartę z owej paczki. Jeśli tak "
+"zrobisz, umieść niniejszą kartę w owej paczce."
 
 #: ../../CNS.rst:330
 msgid ""
@@ -1205,6 +1309,8 @@ msgid ""
 "Reveal Cogwork Spy as you draft it. You may look at the next card drafted "
 "from this booster pack."
 msgstr ""
+"Ujawnij tę kartę podczas jej zaciągania. Możesz patrzeć na następną kartę "
+"zaciąganą z tej paczki."
 
 #: ../../CNS.rst:338
 msgid ""
@@ -1218,6 +1324,8 @@ msgid ""
 "Reveal Cogwork Tracker as you draft it and note the player who passed it to "
 "you."
 msgstr ""
+"Ujawnij tę kartę podczas jej zaciągania i zanotuj gracza, który ją tobie "
+"podał."
 
 #: ../../CNS.rst:335
 msgid "Cogwork Tracker attacks each combat if able."
@@ -1228,6 +1336,8 @@ msgid ""
 "Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker "
 "each combat if able."
 msgstr ""
+"Ten byt w każdej potyczce atakuje gracza zanotowanego kartą o niniejszej "
+"nazwie, jeśli może."
 
 #: ../../CNS.rst:346
 msgid ""
@@ -1238,7 +1348,7 @@ msgstr ""
 
 #: ../../CNS.rst:341
 msgid "Draft Deal Broker face up."
-msgstr ""
+msgstr "Zaciągaj tę kartę odkrytą."
 
 #: ../../CNS.rst:343
 msgid ""
@@ -1246,6 +1356,9 @@ msgid ""
 "other player may offer you one card in their card pool in exchange. You may "
 "accept any one offer."
 msgstr ""
+"Natychmiast po zaciąganiu, możesz ujawnić kartę z twojej puli kart. Każdy "
+"inny gracz może zaoferować tobie jedną kartę ze swojej puli w zamian. Możesz "
+"przyjąć dowolną ofertę."
 
 #: ../../CNS.rst:345
 msgid "|tap|: Draw a card, then discard a card."
@@ -1264,6 +1377,9 @@ msgid ""
 "a booster pack to the draft. (Your next pick is from that booster pack. Pass "
 "it to the next player and it's drafted this draft round.)"
 msgstr ""
+"Ujawnij tę kartę podczas jej zaciągania. Po zaciągnięciu tej karty, możesz "
+"dodać paczkę do zaciągania. (Twój następny wybór jest z owej paczki. Podaj "
+"ją kolejnemu graczowi i jest ona zaciągana w tej rundzie.)"
 
 #: ../../CNS.rst:356
 msgid ""
@@ -1277,12 +1393,16 @@ msgid ""
 "Reveal Lurking Automaton as you draft it and note how many cards you've "
 "drafted this draft round, including Lurking Automaton."
 msgstr ""
+"Ujawnij tę kartę podczas jej zaciągania i zanotuj ile kart zaciągnąłeś w tej "
+"rundzie, włącznie z niniejszą."
 
 #: ../../CNS.rst:355
 msgid ""
 "Lurking Automaton enters the battlefield with X +1/+1 counters on it, where "
 "X is the highest number you noted for cards named Lurking Automaton."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest "
+"największą liczbą zanotowaną dla kart o niniejszej nazwie."
 
 #: ../../CNS.rst:362
 msgid ""
@@ -1293,7 +1413,7 @@ msgstr ""
 
 #: ../../CNS.rst:359
 msgid "Draft Whispergear Sneak face up."
-msgstr ""
+msgstr "Zaciągaj tę kartę odkrytą."
 
 #: ../../CNS.rst:361
 msgid ""
@@ -1301,6 +1421,9 @@ msgid ""
 "at any unopened booster pack in the draft or any booster pack not being "
 "looked at by another player."
 msgstr ""
+"Podczas zaciągania, możesz zakryć niniejszą kartę. Jeśli tak zrobisz, spójrz "
+"na dowolną nieotwartą paczkę w zaciąganiu lub na dowolną paczkę, która nie "
+"jest oglądana przez innego gracza."
 
 #: ../../CNS.rst:368
 msgid ""
@@ -1315,12 +1438,17 @@ msgid ""
 "chooses a color, you choose another color, then the player to your left "
 "chooses a third color."
 msgstr ""
+"Ujawnij tę kartę podczas jej zaciągania. Gracz po twojej prawej wybiera "
+"kolor, ty wybierasz inny kolor, po czym gracz po twojej lewej wybiera trzeci "
+"kolor."
 
 #: ../../CNS.rst:367
 msgid ""
 "|tap|: Add one mana of any color chosen as you drafted cards named Paliano, "
 "the High City."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru wybranego podczas zaciągania przez "
+"ciebie kart o niniejszej nazwie."
 
 #: ../../CNS.rst:372
 msgid ""
@@ -1521,6 +1649,8 @@ msgid ""
 "As long as Pristine Angel is untapped, it has protection from artifacts and "
 "from all colors."
 msgstr ""
+"O ile ten byt jest odkręcony, ma on ochronę przed artefaktami oraz przed "
+"wszystkimi kolorami."
 
 #: ../../CNS.rst:437
 msgid "Whenever you cast a spell, you may untap Pristine Angel."
@@ -1627,11 +1757,11 @@ msgstr "Zaurocz stwora"
 
 #: ../../CNS.rst:473
 msgid "When Unquestioned Authority enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CNS.rst:475
 msgid "Enchanted creature has protection from creatures."
-msgstr ""
+msgstr "Zauroczony stwór ma ochronę przed stworami."
 
 #: ../../CNS.rst:480
 msgid ""
@@ -1642,7 +1772,7 @@ msgstr ""
 
 #: ../../CNS.rst:479
 msgid "Target creature can block any number of creatures this turn."
-msgstr ""
+msgstr "Wskazany stwór może w tej turze blokować dowolną liczbę stworów."
 
 #: ../../CNS.rst:486
 msgid ""
@@ -1675,6 +1805,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Creatures you control with defender can attack this "
 "turn as though they didn't have defender."
 msgstr ""
+"|mana_1|\\ |mana_w|: Stwory pod twoim władaniem mające obronność mogą w tej "
+"turze atakować tak, jakby nie miały obronności."
 
 #: ../../CNS.rst:496
 msgid ""
@@ -1727,6 +1859,8 @@ msgstr ""
 #: ../../CNS.rst:509
 msgid "Draw four cards, then choose X cards in your hand and discard the rest."
 msgstr ""
+"Dobierz cztery karty, po czym wybierz X kart z twojej ręki i odrzuć "
+"pozostałe."
 
 #: ../../CNS.rst:514
 msgid ""
@@ -1959,7 +2093,7 @@ msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy.
 
 #: ../../CNS.rst:593
 msgid "|mana_3|\\ |mana_u|: Attach Stasis Cell to target creature."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Dołącz ten byt do wskazanego stwora."
 
 #: ../../CNS.rst:598
 msgid ""
@@ -1985,17 +2119,19 @@ msgstr ""
 
 #: ../../CNS.rst:603
 msgid "As Traveler's Cloak enters the battlefield, choose a land type."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz typ lądu."
 
 #: ../../CNS.rst:605
 msgid "When Traveler's Cloak enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CNS.rst:607
 msgid ""
 "Enchanted creature has landwalk of the chosen type. (It can't be blocked as "
 "long as defending player controls a land of that type.)"
 msgstr ""
+"Zauroczony stwór podbój wybranego typu lądów. (Nie może być blokowany o ile "
+"broniący się gracz włada lądem owego typu.)"
 
 #: ../../CNS.rst:612
 msgid ""
@@ -2057,6 +2193,8 @@ msgid ""
 "Exile Ill-Gotten Gains. Each player discards their hand, then returns up to "
 "three cards from their graveyard to their hand."
 msgstr ""
+"Wygnaj tę kartę. Każdy gracz odrzuca swoją rękę, po czym przywraca co "
+"najwyżej trzy karty ze swojego cmentarza do swojej ręki."
 
 #: ../../CNS.rst:636
 msgid ""
@@ -2123,6 +2261,8 @@ msgid ""
 "Whenever enchanted creature deals combat damage to a player, you may return "
 "target creature card from your graveyard to your hand."
 msgstr ""
+"Ilekroć zauroczony stwór zada graczowi obrażenia bojowe, możesz przywrócić "
+"wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../CNS.rst:664
 msgid ""
@@ -2222,7 +2362,7 @@ msgstr ""
 
 #: ../../CNS.rst:685
 msgid "You draw X cards and you lose X life."
-msgstr ""
+msgstr "Dobierz X kart i strać X żyć."
 
 #: ../../CNS.rst:690
 msgid ""
@@ -2413,12 +2553,13 @@ msgstr "Tchórze nie mogą blokować Wojowników."
 
 #: ../../CNS.rst:749
 msgid "|mana_r|: Target creature becomes a Coward until end of turn."
-msgstr ""
+msgstr "|mana_r|: Wskazany stwór staje się do końca tury Tchórzem."
 
 #: ../../CNS.rst:751
 msgid ""
 "|mana_2|\\ |mana_r|: Target creature becomes a Warrior until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|: Wskazany stwór staje się do końca tury Wojownikiem."
 
 #: ../../CNS.rst:758
 msgid ""
@@ -2504,6 +2645,8 @@ msgid ""
 "As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and "
 "has \"|mana_r|: Flaring Flame-Kin gets +1/+0 until end of turn.\""
 msgstr ""
+"O ile ten stwór jest zauroczony, dostaje on +2/+2, ma tratowanie oraz \""
+"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 #: ../../CNS.rst:786
 msgid ""
@@ -2514,7 +2657,7 @@ msgstr ""
 
 #: ../../CNS.rst:785
 msgid "|mana_r|: Enchanted creature gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/-1."
 
 #: ../../CNS.rst:790
 msgid ""
@@ -2528,6 +2671,8 @@ msgid ""
 "|tap|: Heartless Hidetsugu deals damage to each player equal to half that "
 "player's life total, rounded down."
 msgstr ""
+"|tap|: Ten byt zadaje wskazanemu graczowi obrażenia równe połowie żyć owego "
+"gracza, zaokrąglając w dół."
 
 #: ../../CNS.rst:794
 msgid ""
@@ -2557,6 +2702,7 @@ msgstr ""
 #: ../../CNS.rst:801
 msgid "Add |mana_r| for each tapped land your opponents control."
 msgstr ""
+"Weź |mana_r| za każdy przekręcony ląd pod władaniem twoich przeciwników."
 
 #: ../../CNS.rst:808
 msgid ""
@@ -2591,6 +2737,8 @@ msgstr ""
 msgid ""
 "Enchanted creature has \"|tap|: This creature deals 1 damage to any target.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
+"\""
 
 #: ../../CNS.rst:826
 msgid ""
@@ -2821,6 +2969,10 @@ msgid ""
 "of your library until you reveal a creature card. Put that card onto the "
 "battlefield and put all other cards revealed this way into your graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, możesz go wygnać. Jeśli tak zrobisz, ujawniaj karty z "
+"wierzchu twojej biblioteki aż ujawnisz kartę stwora. Umieść ową kartę na "
+"polu bitwy i umieść wszystkie inne karty ujawnione w ten sposób w twoim "
+"cmentarzu."
 
 #: ../../CNS.rst:904
 msgid ""
@@ -2893,6 +3045,8 @@ msgid ""
 "Whenever Hydra Omnivore deals combat damage to an opponent, it deals that "
 "much damage to each other opponent."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, zadaje on tyle samo "
+"obrażeń każdemu innemu przeciwnikowi."
 
 #: ../../CNS.rst:922
 msgid ""
@@ -2960,6 +3114,8 @@ msgid ""
 "Untap target creature you don't control. That creature blocks this turn if "
 "able."
 msgstr ""
+"Odkręć wskazanego stwora poza twoim władaniem. Ów stwór blokuje w tej turze "
+"jeśli może."
 
 #: ../../CNS.rst:948
 msgid ""
@@ -2988,6 +3144,8 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn. You gain 1 life for "
 "each attacking creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe jakie mogłyby zostać zadane w tej turze. "
+"Zyskaj po 1 życiu za każdego atakującego stwora."
 
 #: ../../CNS.rst:956
 msgid ""
@@ -3095,11 +3253,11 @@ msgstr ""
 
 #: ../../CNS.rst:989
 msgid "Players can't cast spells during combat."
-msgstr ""
+msgstr "Gracze nie mogą rzucać czarów podczas potyczki."
 
 #: ../../CNS.rst:991
 msgid "|mana_r|: Target creature attacks this turn if able."
-msgstr ""
+msgstr "|mana_r|: Wskazany stwór atakuje w tej turze, jeśli może."
 
 #: ../../CNS.rst:996
 msgid ""
@@ -3113,6 +3271,7 @@ msgid ""
 "Destroy target artifact, target creature, target enchantment, and target "
 "land."
 msgstr ""
+"Zniszcz wskazany artefakt, wskazanego stwora, wskazany urok i wskazany ląd."
 
 #: ../../CNS.rst:1000
 msgid ""
@@ -3160,7 +3319,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../CNS.rst:1009
 msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć ten byt: Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../CNS.rst:1016
 msgid ""
@@ -3251,7 +3410,7 @@ msgstr ""
 
 #: ../../CNS.rst:1041
 msgid "Spontaneous Combustion deals 3 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 3 obrażenia."
 
 #: ../../CNS.rst:1046
 msgid ""
@@ -3266,6 +3425,9 @@ msgid ""
 "library and put all of them with that name into your hand. Put the rest into "
 "your graveyard."
 msgstr ""
+"|tap|: Nazwij kartę stwora. Ujawnij cztery wierzchnie karty twojej "
+"biblioteki i umieść wszystkie o owej nazwie w twojej ręce. Umieść pozostałe "
+"w twoim cmentarzu."
 
 #: ../../CNS.rst:1050
 msgid ""
@@ -3298,6 +3460,8 @@ msgid ""
 "Whenever equipped creature dies, you may put a creature card from your hand "
 "onto the battlefield and attach Deathrender to it."
 msgstr ""
+"Ilekroć umrze wyposażony stwór, możesz umieścić kartę stwora z twojej ręki "
+"na polu bitwy i dołączyć do niej ten byt."
 
 #: ../../CNS.rst:1057
 msgid "Equip |mana_2|"
@@ -3415,11 +3579,11 @@ msgstr ""
 
 #: ../../CNS.rst:1093
 msgid "No more than one creature can attack each combat."
-msgstr ""
+msgstr "Nie więcej niż jeden stwór może atakować w każdej potyczce."
 
 #: ../../CNS.rst:1095
 msgid "No more than one creature can block each combat."
-msgstr ""
+msgstr "Nie więcej niż jeden stwór może blokować w każdej potyczce."
 
 #: ../../CNS.rst:1100
 msgid ""
@@ -3432,6 +3596,8 @@ msgstr ""
 msgid ""
 "|tap|: Choose a player. That player adds one mana of any color they choose."
 msgstr ""
+"|tap|: Wybierz gracza. Ów gracz bierze jedną manę wybranego przez siebie "
+"koloru."
 
 #: ../../CNS.rst:1104
 msgid ""

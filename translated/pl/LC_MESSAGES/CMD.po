@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-03 20:59+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -2864,6 +2864,8 @@ msgid ""
 "Whenever Hydra Omnivore deals combat damage to an opponent, it deals that "
 "much damage to each other opponent."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, zadaje on tyle samo "
+"obrażeń każdemu innemu przeciwnikowi."
 
 #: ../../CMD.rst:864
 msgid ""
@@ -3222,11 +3224,11 @@ msgstr ""
 
 #: ../../CMD.rst:977
 msgid "Players can't cast spells during combat."
-msgstr ""
+msgstr "Gracze nie mogą rzucać czarów podczas potyczki."
 
 #: ../../CMD.rst:979
 msgid "|mana_r|: Target creature attacks this turn if able."
-msgstr ""
+msgstr "|mana_r|: Wskazany stwór atakuje w tej turze, jeśli może."
 
 #: ../../CMD.rst:988
 msgid ""

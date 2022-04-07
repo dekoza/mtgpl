@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-03 19:43+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -2161,12 +2161,13 @@ msgstr "Tchórze nie mogą blokować Wojowników."
 
 #: ../../FUT.rst:641
 msgid "|mana_r|: Target creature becomes a Coward until end of turn."
-msgstr ""
+msgstr "|mana_r|: Wskazany stwór staje się do końca tury Tchórzem."
 
 #: ../../FUT.rst:643
 msgid ""
 "|mana_2|\\ |mana_r|: Target creature becomes a Warrior until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_r|: Wskazany stwór staje się do końca tury Wojownikiem."
 
 #: ../../FUT.rst:650
 msgid ""

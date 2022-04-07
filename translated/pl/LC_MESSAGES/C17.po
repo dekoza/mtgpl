@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-01 14:09+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -2456,7 +2456,7 @@ msgstr ""
 
 #: ../../C17.rst:719
 msgid "You draw X cards and you lose X life."
-msgstr ""
+msgstr "Dobierz X kart i strać X żyć."
 
 #: ../../C17.rst:730
 msgid ""
@@ -3352,10 +3352,12 @@ msgid ""
 "Dethrone (Whenever this creature attacks the player with the most life or "
 "tied for most life, put a +1/+1 counter on it.)"
 msgstr ""
+"Detronizowanie (Ilekroć ten stwór zaatakuje gracza o liczbie żyć równej "
+"największej liczbie żyć, umieść na nim znacznik +1/+1.)"
 
 #: ../../C17.rst:1017
 msgid "Other creatures you control have dethrone."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają detronizowanie."
 
 #: ../../C17.rst:1019
 msgid ""
@@ -3363,6 +3365,9 @@ msgid ""
 "card to the battlefield under your control at the beginning of the next end "
 "step."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem mający znacznik +1/+1, przywróć ową "
+"kartę na pole bitwy pod twoim władaniem na początku najbliższego kroku "
+"końcowego."
 
 #: ../../C17.rst:1024
 msgid ""

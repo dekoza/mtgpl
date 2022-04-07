@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 12:09+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -3380,6 +3380,7 @@ msgstr ""
 #: ../../C21.rst:1001
 msgid "Add |mana_r| for each tapped land your opponents control."
 msgstr ""
+"Weź |mana_r| za każdy przekręcony ląd pod władaniem twoich przeciwników."
 
 #: ../../C21.rst:1010
 msgid ""
@@ -4242,6 +4243,11 @@ msgid ""
 "to the battlefield. If condemnation gets more votes or the vote is tied, "
 "destroy all creatures other than Magister of Worth."
 msgstr ""
+"Wola rady — Kiedy ten byt wejdzie na pole bitwy, zaczynając od ciebie każdy "
+"gracz głosuje na chwałę lub potępienie. Jeśli chwała dostanie więcej głosów, "
+"każdy gracz przywraca każdą kartę stwora ze swojego cmentarza na pole bitwy. "
+"Jeśli potępienie dostanie więcej lub będzie po równo, zniszcz wszystkie "
+"stwory oprócz niniejszego."
 
 #: ../../C21.rst:1282
 msgid ""
@@ -4920,6 +4926,8 @@ msgstr ""
 msgid ""
 "|tap|: Choose a player. That player adds one mana of any color they choose."
 msgstr ""
+"|tap|: Wybierz gracza. Ów gracz bierze jedną manę wybranego przez siebie "
+"koloru."
 
 #: ../../C21.rst:1502
 msgid ""

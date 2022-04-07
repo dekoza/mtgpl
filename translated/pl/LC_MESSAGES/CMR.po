@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-01 14:09+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -5633,6 +5633,8 @@ msgstr ""
 msgid ""
 "|tap|: Choose a player. That player adds one mana of any color they choose."
 msgstr ""
+"|tap|: Wybierz gracza. Ów gracz bierze jedną manę wybranego przez siebie "
+"koloru."
 
 #: ../../CMR.rst:1948
 msgid ""
@@ -6350,11 +6352,11 @@ msgstr ""
 
 #: ../../CMR.rst:2201
 msgid "When Unquestioned Authority enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CMR.rst:2203
 msgid "Enchanted creature has protection from creatures."
-msgstr ""
+msgstr "Zauroczony stwór ma ochronę przed stworami."
 
 #: ../../CMR.rst:2212
 msgid ""

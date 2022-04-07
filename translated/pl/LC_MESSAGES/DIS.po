@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-29 10:14+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -561,7 +561,7 @@ msgstr ""
 
 #: ../../DIS.rst:117
 msgid "Target creature can block any number of creatures this turn."
-msgstr ""
+msgstr "Wskazany stwór może w tej turze blokować dowolną liczbę stworów."
 
 #: ../../DIS.rst:124
 msgid ""
@@ -579,6 +579,8 @@ msgid ""
 "|mana_1|\\ |mana_w|: Creatures you control with defender can attack this "
 "turn as though they didn't have defender."
 msgstr ""
+"|mana_1|\\ |mana_w|: Stwory pod twoim władaniem mające obronność mogą w tej "
+"turze atakować tak, jakby nie miały obronności."
 
 #: ../../DIS.rst:132
 msgid ""
@@ -1275,6 +1277,8 @@ msgid ""
 "As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and "
 "has \"|mana_r|: Flaring Flame-Kin gets +1/+0 until end of turn.\""
 msgstr ""
+"O ile ten stwór jest zauroczony, dostaje on +2/+2, ma tratowanie oraz \""
+"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
 
 #: ../../DIS.rst:360
 msgid ""

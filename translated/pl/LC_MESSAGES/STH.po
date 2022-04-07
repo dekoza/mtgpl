@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sth/pl/>\n"
 "Language: pl\n"
@@ -1389,7 +1389,7 @@ msgstr ""
 
 #: ../../STH.rst:425
 msgid "|mana_r|: Enchanted creature gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/-1."
 
 #: ../../STH.rst:432
 msgid ""
@@ -1797,6 +1797,8 @@ msgid ""
 "Untap target creature you don't control. That creature blocks this turn if "
 "able."
 msgstr ""
+"Odkręć wskazanego stwora poza twoim władaniem. Ów stwór blokuje w tej turze "
+"jeśli może."
 
 #: ../../STH.rst:576
 msgid ""

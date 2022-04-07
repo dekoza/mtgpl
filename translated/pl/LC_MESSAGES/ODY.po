@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-29 21:28+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ody/pl/>\n"
 "Language: pl\n"
@@ -1600,6 +1600,8 @@ msgstr ""
 msgid ""
 "Enchanted creature has \"|tap|: This creature deals 1 damage to any target.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
+"\""
 
 #: ../../ODY.rst:496
 msgid ""
@@ -2534,7 +2536,7 @@ msgstr ""
 
 #: ../../ODY.rst:809
 msgid "You draw X cards and you lose X life."
-msgstr ""
+msgstr "Dobierz X kart i strać X żyć."
 
 #: ../../ODY.rst:816
 msgid ""
@@ -4421,6 +4423,7 @@ msgid ""
 "Destroy target artifact, target creature, target enchantment, and target "
 "land."
 msgstr ""
+"Zniszcz wskazany artefakt, wskazanego stwora, wskazany urok i wskazany ląd."
 
 #: ../../ODY.rst:1448
 msgid ""

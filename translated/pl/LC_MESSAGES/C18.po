@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 14:09+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -1734,11 +1734,11 @@ msgstr ""
 
 #: ../../C18.rst:495
 msgid "When Unquestioned Authority enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../C18.rst:497
 msgid "Enchanted creature has protection from creatures."
-msgstr ""
+msgstr "Zauroczony stwór ma ochronę przed stworami."
 
 #: ../../C18.rst:502
 msgid ""
@@ -3061,6 +3061,8 @@ msgid ""
 "Whenever Hydra Omnivore deals combat damage to an opponent, it deals that "
 "much damage to each other opponent."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, zadaje on tyle samo "
+"obrażeń każdemu innemu przeciwnikowi."
 
 #: ../../C18.rst:932
 msgid ""
@@ -3424,6 +3426,7 @@ msgid ""
 "Destroy target artifact, target creature, target enchantment, and target "
 "land."
 msgstr ""
+"Zniszcz wskazany artefakt, wskazanego stwora, wskazany urok i wskazany ląd."
 
 #: ../../C18.rst:1054
 msgid ""

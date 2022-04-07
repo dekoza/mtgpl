@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-01 12:09+0000\n"
+"PO-Revision-Date: 2022-04-07 09:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/inv/pl/>\n"
 "Language: pl\n"
@@ -1487,17 +1487,19 @@ msgstr ""
 
 #: ../../INV.rst:459
 msgid "As Traveler's Cloak enters the battlefield, choose a land type."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz typ lądu."
 
 #: ../../INV.rst:461
 msgid "When Traveler's Cloak enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../INV.rst:463
 msgid ""
 "Enchanted creature has landwalk of the chosen type. (It can't be blocked as "
 "long as defending player controls a land of that type.)"
 msgstr ""
+"Zauroczony stwór podbój wybranego typu lądów. (Nie może być blokowany o ile "
+"broniący się gracz włada lądem owego typu.)"
 
 #: ../../INV.rst:468
 msgid ""
@@ -3831,11 +3833,11 @@ msgstr ""
 
 #: ../../INV.rst:1321
 msgid "No more than one creature can attack each combat."
-msgstr ""
+msgstr "Nie więcej niż jeden stwór może atakować w każdej potyczce."
 
 #: ../../INV.rst:1323
 msgid "No more than one creature can block each combat."
-msgstr ""
+msgstr "Nie więcej niż jeden stwór może blokować w każdej potyczce."
 
 #: ../../INV.rst:1330
 msgid ""
@@ -3851,7 +3853,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../INV.rst:1329
 msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć ten byt: Wskazany stwór dostaje do końca tury +2/+2."
 
 #: ../../INV.rst:1334
 msgid ""
