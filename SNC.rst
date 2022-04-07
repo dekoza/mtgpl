@@ -9,6 +9,16 @@
    At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
 
 
+:mtgtip:`Brokers Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74c9c315-1cf4-468e-a74a-b5f3be4a63a1.jpg?1649176850|https://scryfall.com/card/snc/171/brokers-charm?utm_source=api>`
+   Choose one —
+
+   • Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature or planeswalker an opponent controls.
+
+   • Destroy target enchantment.
+
+   • Draw two cards.
+
+
 :mtgtip:`Cabaretti Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08f33c8a-8e93-4296-964b-da132a854b3b.jpg?1648677718|https://scryfall.com/card/snc/173/cabaretti-charm?utm_source=api>`
    Choose one —
 

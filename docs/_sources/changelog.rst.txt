@@ -3,6 +3,7 @@ Spis zmian
 ***********
 
 2022-04-07
+   * :mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` - 100%
    * :mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` - 100%
    * :mtgexp:`CNS` :doc:`Conspiracy<CNS>` - 100%
 
