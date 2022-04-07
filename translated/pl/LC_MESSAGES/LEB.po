@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-30 12:59+0000\n"
+"PO-Revision-Date: 2022-04-07 12:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leb/pl/>\n"
 "Language: pl\n"
@@ -2828,7 +2828,7 @@ msgstr ""
 
 #: ../../LEB.rst:931
 msgid "Cast this spell only before the combat damage step."
-msgstr ""
+msgstr "Rzuć ten czar tylko przed krokiem obrażeń bojowych."
 
 #: ../../LEB.rst:933
 msgid ""
@@ -2836,6 +2836,9 @@ msgid ""
 "its power. At the beginning of the next end step, destroy that creature if "
 "it attacked this turn."
 msgstr ""
+"Wskazany stwór do końca tury dostaje tratowanie i +X/+0, gdzie X jest jego "
+"siłą. Na początku najbliższego kroku końcowego zniszcz owego stwora jeśli "
+"zaatakował on w tej turze."
 
 #: ../../LEB.rst:940
 msgid ""

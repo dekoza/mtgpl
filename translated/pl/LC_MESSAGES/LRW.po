@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-07 09:34+0000\n"
+"PO-Revision-Date: 2022-04-07 12:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -2984,11 +2984,11 @@ msgstr ""
 
 #: ../../LRW.rst:993
 msgid "Hurly-Burly deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi bez latania po 1 obrażeniu."
 
 #: ../../LRW.rst:995
 msgid "Hurly-Burly deals 1 damage to each creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z lataniem po 1 obrażeniu."
 
 #: ../../LRW.rst:1002
 msgid ""
@@ -3704,6 +3704,8 @@ msgid ""
 "Target creature gains deathtouch until end of turn. (Any amount of damage it "
 "deals to a creature is enough to destroy that creature.)"
 msgstr ""
+"Wskazany gracz zyskuje do końca tury dotyk śmierci. (Stwór otrzymujący od "
+"niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../LRW.rst:1250
 msgid ""
