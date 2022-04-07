@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-07 09:34+0000\n"
+"PO-Revision-Date: 2022-04-07 18:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/inv/pl/>\n"
 "Language: pl\n"
@@ -823,7 +823,7 @@ msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy.
 
 #: ../../INV.rst:203
 msgid "|mana_w|: Return Shackles to its owner's hand."
-msgstr ""
+msgstr "|mana_w|: Przywróć ten byt do ręki właściciela."
 
 #: ../../INV.rst:208
 msgid ""
@@ -1713,6 +1713,8 @@ msgid ""
 "Enchanted creature gets -1/-1 and has fear. (It can't be blocked except by "
 "artifact creatures and/or black creatures.)"
 msgstr ""
+"Zauroczony stwór dostaje -1/-1 i ma postrach. (Ten stwór nie może być "
+"blokowany, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../INV.rst:546
 msgid ""

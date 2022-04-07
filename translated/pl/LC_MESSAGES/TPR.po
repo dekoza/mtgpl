@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-07 09:34+0000\n"
+"PO-Revision-Date: 2022-04-07 18:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tpr/pl/>\n"
 "Language: pl\n"
@@ -361,6 +361,8 @@ msgid ""
 "Each player chooses from among the permanents they control an artifact, a "
 "creature, an enchantment, and a land, then sacrifices the rest."
 msgstr ""
+"Każdy gracz wybiera spośród bytów pod swoim władaniem artefakt, stwora, urok "
+"i ląd, po czym poświęca resztę."
 
 #: ../../TPR.rst:50
 msgid ""
@@ -417,6 +419,8 @@ msgid ""
 "Exalted Dragon can't attack unless you sacrifice a land. (This cost is paid "
 "as attackers are declared.)"
 msgstr ""
+"Ten stwór nie może atakować, chyba że poświęcisz ląd. (Ten koszt płaci się "
+"podczas deklaracji atakujących.)"
 
 #: ../../TPR.rst:72
 msgid ""
@@ -509,7 +513,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../TPR.rst:99
 msgid "|mana_w|: Mounted Archers can block an additional creature this turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór może blokować dodatkowego stwora w tej turze."
 
 #: ../../TPR.rst:104
 msgid ""
@@ -523,6 +527,8 @@ msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Nomads en-Kor this turn "
 "is dealt to target creature you control instead."
 msgstr ""
+"|mana_0|: Najbliższe 1 obrażenie, jakie mogłoby w tej turze zostać zadane "
+"temu stworowi zamiast tego zadawane jest wskazanemu stworowi."
 
 #: ../../TPR.rst:108
 msgid ""
@@ -535,6 +541,8 @@ msgstr ""
 msgid ""
 "|tap|: Prevent the next 3 damage that would be dealt to any target this turn."
 msgstr ""
+"|tap|: Zażegnaj najbliższe 3 obrażenia, jakie mogłyby w tej turze zostać "
+"zadane wskazanemu celowi."
 
 #: ../../TPR.rst:114
 msgid ""
@@ -577,10 +585,12 @@ msgid ""
 "costs as you cast this spell. If you do, put this card into your hand as it "
 "resolves.)"
 msgstr ""
+"Wykup—Poświęć ląd. (Rzucając ten czar możesz dodatkowo poświęcić ląd. Jeśli "
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../TPR.rst:123
 msgid "Create a 1/1 white Pegasus creature token with flying."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Pegaz 1/1 z lataniem."
 
 #: ../../TPR.rst:128
 msgid ""
@@ -606,7 +616,7 @@ msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy.
 
 #: ../../TPR.rst:135
 msgid "|mana_w|: Return Shackles to its owner's hand."
-msgstr ""
+msgstr "|mana_w|: Przywróć ten byt do ręki właściciela."
 
 #: ../../TPR.rst:142
 msgid ""
@@ -620,12 +630,17 @@ msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Shaman en-Kor this turn "
 "is dealt to target creature you control instead."
 msgstr ""
+"|mana_0|: Najbliższe 1 obrażenie, jakie mogłoby w tej turze zostać zadane "
+"temu stworowi zamiast tego zadawane jest wskazanemu stworowi."
 
 #: ../../TPR.rst:141
 msgid ""
 "|mana_1|\\ |mana_w|: The next time a source of your choice would deal damage "
 "to target creature this turn, that damage is dealt to Shaman en-Kor instead."
 msgstr ""
+"|mana_1|\\ |mana_w|: Kiedy najbliższym razem wybrane przez ciebie źródło "
+"miałoby zadać w tej turze obrażenia wskazanemu stworowi, zamiast tego owe "
+"obrażenia zostają zadane niniejszemu."
 
 #: ../../TPR.rst:146
 msgid ""
@@ -659,6 +674,8 @@ msgid ""
 "Whenever Soltari Champion attacks, other creatures you control get +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, inne stwory pod twoim władaniem dostają do "
+"końca tury +1/+1."
 
 #: ../../TPR.rst:158
 msgid ""
@@ -669,7 +686,7 @@ msgstr ""
 
 #: ../../TPR.rst:157
 msgid "Soltari Lancer has first strike as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór ma pierwszy cios o ile atakuje."
 
 #: ../../TPR.rst:164
 msgid ""
@@ -702,7 +719,7 @@ msgstr ""
 
 #: ../../TPR.rst:175
 msgid "Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, dostaje on do końca tury +1/+1."
 
 #: ../../TPR.rst:182
 msgid ""
@@ -716,6 +733,8 @@ msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Spirit en-Kor this turn "
 "is dealt to target creature you control instead."
 msgstr ""
+"|mana_0|: Najbliższe 1 obrażenie, jakie mogłoby w tej turze zostać zadane "
+"temu stworowi zamiast tego zadawane jest wskazanemu stworowi."
 
 #: ../../TPR.rst:188
 msgid ""
@@ -729,10 +748,12 @@ msgid ""
 "At the beginning of your upkeep, if there are no Reflection tokens on the "
 "battlefield, create a 2/2 white Reflection creature token."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli na polu bitwy nie ma żadnego "
+"żetonu Odbicia, stwórz żeton białego stwora Odbicie 2/2."
 
 #: ../../TPR.rst:187
 msgid "|mana_0|: Destroy target Reflection."
-msgstr ""
+msgstr "|mana_0|: Zniszcz wskazane Odbicie."
 
 #: ../../TPR.rst:192
 msgid ""
@@ -784,6 +805,8 @@ msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Warrior en-Kor this turn "
 "is dealt to target creature you control instead."
 msgstr ""
+"|mana_0|: Najbliższe 1 obrażenie, jakie mogłoby w tej turze zostać zadane "
+"temu stworowi zamiast tego zadawane jest wskazanemu stworowi."
 
 #: ../../TPR.rst:210
 msgid ""
@@ -794,7 +817,7 @@ msgstr ""
 
 #: ../../TPR.rst:209
 msgid "Destroy all creatures that aren't enchanted. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie niezauroczone stwory. Nie mogą one zregenerować."
 
 #: ../../TPR.rst:214
 msgid ""
@@ -861,6 +884,8 @@ msgid ""
 "Rather than pay the mana cost for a spell, its controller may discard a card "
 "that shares a color with that spell."
 msgstr ""
+"Zamiast płacić koszt many czaru, jego władca może odrzucić kartę "
+"współdzielącą kolor z owym czarem."
 
 #: ../../TPR.rst:244
 msgid ""
@@ -882,7 +907,7 @@ msgstr ""
 
 #: ../../TPR.rst:249
 msgid "Discard a card: Return Ephemeron to its owner's hand."
-msgstr ""
+msgstr "Odrzuć kartę: Przywróć ten byt do ręki właściciela."
 
 #: ../../TPR.rst:254
 msgid ""
@@ -933,7 +958,7 @@ msgstr ""
 #: ../../TPR.rst:269
 msgid ""
 "Hammerhead Shark can't attack unless defending player controls an Island."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
 #: ../../TPR.rst:272
 msgid ""
@@ -955,6 +980,9 @@ msgid ""
 "one. Put that card into your hand and the rest into your graveyard. Then "
 "shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece trzy karty i ujawnij je. Wskazany przeciwnik "
+"wybiera jedną. Umieść ową kartę w twojej ręce, a pozostałe w twoim "
+"cmentarzu. Następnie przetasuj."
 
 #: ../../TPR.rst:282
 msgid ""
@@ -965,7 +993,7 @@ msgstr ""
 
 #: ../../TPR.rst:281
 msgid "|mana_u|: Killer Whale gains flying until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../TPR.rst:288
 msgid ""
@@ -979,6 +1007,8 @@ msgid ""
 "At the beginning of your upkeep, you may put a treasure counter on Legacy's "
 "Allure."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz umieścić znacznik skarbu na tym "
+"bycie."
 
 #: ../../TPR.rst:287
 msgid ""
@@ -986,6 +1016,8 @@ msgid ""
 "than or equal to the number of treasure counters on Legacy's Allure. (This "
 "effect lasts indefinitely.)"
 msgstr ""
+"Poświęć ten byt: Zyskaj władanie nad wskazanym stworem o sile mniejszej lub "
+"równej liczbie znaczników skarbu na tym bycie. (Ten efekt trwa stale.)"
 
 #: ../../TPR.rst:292
 msgid ""
@@ -999,6 +1031,8 @@ msgid ""
 "Exchange control of target artifact or creature and another target permanent "
 "that shares one of those types with it. (This effect lasts indefinitely.)"
 msgstr ""
+"Zamień władanie nad wskazanym artefaktem lub stworem i innym wskazanym bytem "
+"współdzielącym z nim jeden z owych typów. (Ten efekt trwa stale.)"
 
 #: ../../TPR.rst:296
 msgid ""
@@ -1031,7 +1065,7 @@ msgstr ""
 
 #: ../../TPR.rst:305
 msgid "Draw four cards. You skip your next turn."
-msgstr ""
+msgstr "Dobierz cztery karty. Pomiń swoją następną turę."
 
 #: ../../TPR.rst:310
 msgid ""
@@ -1053,7 +1087,7 @@ msgstr ""
 
 #: ../../TPR.rst:313
 msgid "All Slivers have \"|mana_2|, Sacrifice this permanent: Draw a card.\""
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają \"|mana_2|, poświęć ten byt: Dobierz kartę.\""
 
 #: ../../TPR.rst:318
 msgid ""
@@ -1064,7 +1098,7 @@ msgstr ""
 
 #: ../../TPR.rst:317
 msgid "|tap|: Rootwater Hunter deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten byt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TPR.rst:322
 msgid ""
@@ -1078,6 +1112,8 @@ msgid ""
 "When Scrivener enters the battlefield, you may return target instant card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"sztuczki z twojego cmentarza do twojej ręki."
 
 #: ../../TPR.rst:326
 msgid ""
@@ -1102,6 +1138,8 @@ msgid ""
 "Target creature gains shadow until end of turn. (It can block or be blocked "
 "by only creatures with shadow.)"
 msgstr ""
+"Wskazany stwór zyskuje do końca tury cień. (Może blokować lub być blokowany "
+"przez wyłącznie stwory z cieniem.)"
 
 #: ../../TPR.rst:336
 msgid ""
@@ -1126,6 +1164,8 @@ msgid ""
 "|mana_u|: Change the target of target spell or ability that targets only "
 "Silver Wyvern. The new target must be a creature."
 msgstr ""
+"|mana_u|: Zmień wskazanie wskazanego czaru lub zdolności wskazującej tylko "
+"ten byt. Nowe wskazanie musi być stworem."
 
 #: ../../TPR.rst:346
 msgid ""
@@ -1154,6 +1194,8 @@ msgid ""
 "Discard a card: Thalakos Drifters gains shadow until end of turn. (It can "
 "block or be blocked by only creatures with shadow.)"
 msgstr ""
+"Odrzuć kartę: Ten stwór zyskuje do końca tury cień. (Może blokować lub być "
+"blokowany przez wyłącznie stwory z cieniem.)"
 
 #: ../../TPR.rst:356
 msgid ""
@@ -1164,7 +1206,7 @@ msgstr ""
 
 #: ../../TPR.rst:355
 msgid "Discard a card: Return Thalakos Scout to its owner's hand."
-msgstr ""
+msgstr "Odrzuć kartę: Przywróć ten byt do ręki właściciela."
 
 #: ../../TPR.rst:362
 msgid ""
@@ -1175,7 +1217,7 @@ msgstr ""
 
 #: ../../TPR.rst:361
 msgid "When Thalakos Seer leaves the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt opuści pole bitwy, dobierz kartę."
 
 #: ../../TPR.rst:366
 msgid ""
@@ -1211,6 +1253,8 @@ msgid ""
 "|tap|, Tap two untapped creatures you control: Return target permanent to "
 "its owner's hand."
 msgstr ""
+"|tap|, przekręć dwa odkręcone stwory pod twoim władaniem: Przywróć wskazany "
+"byt do ręki właściciela."
 
 #: ../../TPR.rst:382
 msgid ""
@@ -1236,10 +1280,13 @@ msgid ""
 "be activated. That creature's controller may sacrifice a permanent for that "
 "player to ignore this effect until end of turn."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowanych "
+"zdolności nie można aktywować. Władca owego stwora może poświęcić byt, by ów "
+"gracz mógł zignorować ten efekt do końca tury."
 
 #: ../../TPR.rst:389
 msgid "|mana_1|\\ |mana_u|: Return Volrath's Curse to its owner's hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|: Przywróć ten byt do ręki właściciela."
 
 #: ../../TPR.rst:396
 msgid ""
@@ -1250,7 +1297,7 @@ msgstr ""
 
 #: ../../TPR.rst:395
 msgid "|mana_u|: Put Wayward Soul on top of its owner's library."
-msgstr ""
+msgstr "|mana_u|: Umieść ten byt na wierzchu biblioteki właściciela."
 
 #: ../../TPR.rst:402
 msgid ""
@@ -1264,6 +1311,8 @@ msgid ""
 "Buyback |mana_5| (You may pay an additional |mana_5| as you cast this spell. "
 "If you do, put this card into your hand as it resolves.)"
 msgstr ""
+"Wykup |mana_5| (Rzucając ten czar możesz zapłacić dodatkowo |mana_5|. Jeśli "
+"tak zrobisz, umieść tę kartę w twojej ręce podczas jej rozpatrywania.)"
 
 #: ../../TPR.rst:408
 msgid ""
@@ -1306,6 +1355,8 @@ msgid ""
 "Choose two target creatures controlled by the same player. Exile one of "
 "those creatures and put two +1/+1 counters on the other."
 msgstr ""
+"Wybierz dwa wskazane stwory pod władaniem tego samego gracza. Wygnaj jednego "
+"z nich i umieść dwa znaczniki +1/+1 na drugim."
 
 #: ../../TPR.rst:424
 msgid ""
@@ -1317,6 +1368,8 @@ msgstr ""
 #: ../../TPR.rst:423
 msgid "At the beginning of your upkeep, tap Carnophage unless you pay 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, przekręć ten byt, chyba że zapłacisz 1 "
+"życie."
 
 #: ../../TPR.rst:428
 msgid ""
@@ -1327,7 +1380,7 @@ msgstr ""
 
 #: ../../TPR.rst:427
 msgid "All Slivers have \"|mana_2|: Regenerate this permanent.\""
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają \"|mana_2|: Zregeneruj ten byt.\""
 
 #: ../../TPR.rst:432
 msgid ""
@@ -1353,7 +1406,7 @@ msgstr ""
 
 #: ../../TPR.rst:435
 msgid "You may choose not to untap Coffin Queen during your untap step."
-msgstr ""
+msgstr "Możesz nie odkręcić tego bytu w trakcie twojego kroku odkręcania."
 
 #: ../../TPR.rst:437
 msgid ""
@@ -1361,6 +1414,9 @@ msgid ""
 "the battlefield under your control. When Coffin Queen becomes untapped or "
 "you lose control of Coffin Queen, exile that creature."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|: Umieść wskazaną kartę stwora z cmentarza na polu "
+"bitwy pod twoim władaniem. Kiedy ten byt zostanie odkręcony lub stracisz nad "
+"nim władanie, wygnaj owego stwora."
 
 #: ../../TPR.rst:444
 msgid ""
@@ -1380,7 +1436,7 @@ msgstr ""
 #: ../../TPR.rst:443
 msgid ""
 "When Commander Greven il-Vec enters the battlefield, sacrifice a creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, poświęć stwora."
 
 #: ../../TPR.rst:450
 msgid ""
@@ -1403,6 +1459,8 @@ msgid ""
 "creature gains haste until end of turn. Exile it at the beginning of the "
 "next end step."
 msgstr ""
+"Przywróć wierzchnią kartę twojego cmentarza na pole bitwy. Ów stwór zyskuje "
+"do końca tury pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../TPR.rst:458
 msgid ""
@@ -1414,7 +1472,7 @@ msgstr ""
 #: ../../TPR.rst:453
 msgid ""
 "Crovax the Cursed enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1."
 
 #: ../../TPR.rst:455
 msgid ""
@@ -1422,10 +1480,13 @@ msgid ""
 "put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from "
 "Crovax."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz poświęcić stwora. Jeśli tak "
+"zrobisz, umieść znacznik +1/+1 na niniejszym. Jeśli tak nie zrobisz, usuń "
+"znacznik +1/+1 z niniejszego."
 
 #: ../../TPR.rst:457
 msgid "|mana_b|: Crovax gains flying until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór zyskuje do końca tury latanie."
 
 #: ../../TPR.rst:464
 msgid ""
@@ -1439,6 +1500,8 @@ msgid ""
 "Enchanted creature gets -1/-1 and has fear. (It can't be blocked except by "
 "artifact creatures and/or black creatures.)"
 msgstr ""
+"Zauroczony stwór dostaje -1/-1 i ma postrach. (Ten stwór nie może być "
+"blokowany, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../TPR.rst:468
 msgid ""
@@ -1472,7 +1535,7 @@ msgstr ""
 
 #: ../../TPR.rst:477
 msgid "Dauthi Horror can't be blocked by white creatures."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez białe stwory."
 
 #: ../../TPR.rst:484
 msgid ""
@@ -1486,6 +1549,7 @@ msgid ""
 "|mana_b|\\ |mana_b|, Sacrifice Dauthi Jackal: Destroy target blocking "
 "creature."
 msgstr ""
+"|mana_b|\\ |mana_b|, poświęć ten byt: Zniszcz wskazanego blokującego stwora."
 
 #: ../../TPR.rst:488
 msgid ""
@@ -1516,7 +1580,7 @@ msgstr ""
 msgid ""
 "Dauthi Warlord's power is equal to the number of creatures with shadow on "
 "the battlefield."
-msgstr ""
+msgstr "Siła tej karty jest równa liczbie stworów z cieniem na polu bitwy."
 
 #: ../../TPR.rst:504
 msgid ""
@@ -1551,6 +1615,7 @@ msgstr ""
 #: ../../TPR.rst:511
 msgid "Return two target creature cards from your graveyard to your hand."
 msgstr ""
+"Przywróć dwie wskazane karty stworów z twojego cmentarza do twojej ręki."
 
 #: ../../TPR.rst:516
 msgid ""
@@ -1572,7 +1637,7 @@ msgstr ""
 
 #: ../../TPR.rst:521
 msgid "|mana_b|: Dungeon Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../TPR.rst:528
 msgid ""
@@ -1583,7 +1648,7 @@ msgstr ""
 
 #: ../../TPR.rst:527
 msgid "Evincar's Justice deals 2 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 2 obrażenia."
 
 #: ../../TPR.rst:532
 msgid ""
@@ -1623,6 +1688,8 @@ msgid ""
 "At the beginning of your upkeep, if your opponents control no creatures, "
 "Kezzerdrix deals 4 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli twoi przeciwnicy nie władają "
+"stworami, ten byt zadaje tobie 4 obrażenia."
 
 #: ../../TPR.rst:548
 msgid ""
@@ -1641,7 +1708,7 @@ msgstr ""
 
 #: ../../TPR.rst:547
 msgid "Create a 1/1 black Rat creature token."
-msgstr ""
+msgstr "Stwórz żeton czarnego stwora Szczur 1/1."
 
 #: ../../TPR.rst:552
 msgid ""
@@ -1689,6 +1756,7 @@ msgstr ""
 #: ../../TPR.rst:563
 msgid "|mana_b|: Destroy target artifact, creature, or land you control."
 msgstr ""
+"|mana_b|: Zniszcz wskazany artefakt, stwora lub ląd pod twoim władaniem."
 
 #: ../../TPR.rst:568
 msgid ""
@@ -1718,6 +1786,8 @@ msgid ""
 "target creature card from your graveyard to the battlefield. Activate only "
 "as a sorcery."
 msgstr ""
+"Poświęć stwora, przywróć ten byt do twojej ręki: Przywróć wskazaną kartę "
+"stwora z twojego cmentarza na pole bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../TPR.rst:578
 msgid ""
@@ -1746,12 +1816,15 @@ msgid ""
 "When Sarcomancy enters the battlefield, create a 2/2 black Zombie creature "
 "token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../TPR.rst:583
 msgid ""
 "At the beginning of your upkeep, if there are no Zombies on the battlefield, "
 "Sarcomancy deals 1 damage to you."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli nie ma żadnego Zombi na polu "
+"bitwy, ten byt zadaje tobie 1 obrażenie."
 
 #: ../../TPR.rst:590
 msgid ""
@@ -1762,7 +1835,7 @@ msgstr ""
 
 #: ../../TPR.rst:589
 msgid "|mana_1|\\ |mana_b|: Regenerate Screeching Harpy."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Zregeneruj tego stwora."
 
 #: ../../TPR.rst:594
 msgid ""
@@ -1785,7 +1858,7 @@ msgstr ""
 #: ../../TPR.rst:599
 msgid ""
 "Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę stwora: Niniejszy stwór dostaje do końca tury +2/+2."
 
 #: ../../TPR.rst:608
 msgid ""
@@ -1803,6 +1876,8 @@ msgid ""
 "When enchanted creature becomes the target of a spell or ability, destroy "
 "that creature. It can't be regenerated."
 msgstr ""
+"Kiedy zauroczony stwór zostanie wskazany przez czar lub zdolność, zniszcz "
+"owego stwora. Nie może on zregenerować."
 
 #: ../../TPR.rst:612
 msgid ""
@@ -1840,7 +1915,7 @@ msgstr ""
 
 #: ../../TPR.rst:619
 msgid "Discard a creature card: Vampire Hounds gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę stwora: Niniejszy stwór dostaje do końca tury +2/+2."
 
 #: ../../TPR.rst:626
 msgid ""
@@ -1854,6 +1929,8 @@ msgid ""
 "Whenever Wall of Souls is dealt combat damage, it deals that much damage to "
 "target opponent or planeswalker."
 msgstr ""
+"Ilekroć ten stwór zada obrażenia bojowe, zadaje tyle samo obrażeń wskazanemu "
+"przeciwnikowi lub wędrowcowi."
 
 #: ../../TPR.rst:630
 msgid ""
@@ -1866,6 +1943,7 @@ msgstr ""
 msgid ""
 "Destroy target artifact, creature, or land. Aftershock deals 3 damage to you."
 msgstr ""
+"Zniszcz wskazany artefakt, stwora lub ląd. Ten czar zadaje tobie 3 obrażenia."
 
 #: ../../TPR.rst:634
 msgid ""
@@ -1894,6 +1972,8 @@ msgid ""
 "All Sliver creatures have \"|mana_2|: This creature gets +1/+0 until end of "
 "turn.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_2|: Ten stwór dostaje do końca tury +1/+0."
+"\""
 
 #: ../../TPR.rst:642
 msgid ""
@@ -1919,7 +1999,7 @@ msgstr ""
 
 #: ../../TPR.rst:645
 msgid "Craven Giant can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../TPR.rst:650
 msgid ""
@@ -1933,6 +2013,8 @@ msgid ""
 "Tap target creature. It deals damage equal to its power to another target "
 "creature."
 msgstr ""
+"Przekręć wskazanego stwora. Zadaje on innemu wskazanemu stworowi obrażenia "
+"równe swojej sile."
 
 #: ../../TPR.rst:656
 msgid ""
@@ -1943,7 +2025,7 @@ msgstr ""
 
 #: ../../TPR.rst:655
 msgid "Fanning the Flames deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../TPR.rst:660
 msgid ""
@@ -1984,7 +2066,7 @@ msgstr "Tratowanie"
 
 #: ../../TPR.rst:671
 msgid "|mana_r|: Flowstone Mauler gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../TPR.rst:678
 msgid ""
@@ -1995,7 +2077,7 @@ msgstr ""
 
 #: ../../TPR.rst:677
 msgid "|mana_r|: Flowstone Wyvern gets +2/-2 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +2/-2."
 
 #: ../../TPR.rst:682
 msgid ""
@@ -2006,7 +2088,7 @@ msgstr ""
 
 #: ../../TPR.rst:681
 msgid "|mana_r|: Target creature can't be regenerated this turn."
-msgstr ""
+msgstr "|mana_r|: Wskazany stwór nie może w tej turze zregenerować."
 
 #: ../../TPR.rst:686
 msgid ""
@@ -2063,6 +2145,7 @@ msgstr ""
 msgid ""
 "|tap|, Discard a card at random: Mage il-Vec deals 1 damage to any target."
 msgstr ""
+"|tap|, odrzuć losową kartę: Ten byt zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TPR.rst:708
 msgid ""
@@ -2073,7 +2156,7 @@ msgstr ""
 
 #: ../../TPR.rst:705
 msgid "Magmasaur enters the battlefield with five +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../TPR.rst:707
 msgid ""
@@ -2082,6 +2165,9 @@ msgid ""
 "the number of +1/+1 counters on it to each creature without flying and each "
 "player."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz usunąć znacznik +1/+1 z tego "
+"stwora. Jeśli tak nie zrobisz, poświęć go i zadaje on każdemu stworowi bez "
+"latania i każdemu graczowi po tyle obrażeń, ile miał znaczników +1/+1."
 
 #: ../../TPR.rst:714
 msgid ""
@@ -2104,7 +2190,7 @@ msgstr ""
 #: ../../TPR.rst:717
 msgid ""
 "Mogg Conscripts can't attack unless you've cast a creature spell this turn."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że w tej turze rzuciłeś czar stwora."
 
 #: ../../TPR.rst:722
 msgid ""
@@ -2140,6 +2226,9 @@ msgid ""
 "Destroy all creatures target player controls. For each creature that died "
 "this way, that player creates two 1/1 red Goblin creature tokens."
 msgstr ""
+"Zniszcz wszystkie stwory pod władaniem wskazanego gracza. Za każdego stwora, "
+"który umarł w ten sposób, ów gracz tworzy dwa żetony czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../TPR.rst:734
 msgid ""
@@ -2153,6 +2242,8 @@ msgid ""
 "Whenever Mogg Maniac is dealt damage, it deals that much damage to target "
 "opponent or planeswalker."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń wskazanemu "
+"przeciwnikowi lub wędrowcowi."
 
 #: ../../TPR.rst:738
 msgid ""
@@ -2165,6 +2256,7 @@ msgstr ""
 msgid ""
 "|mana_2|, Discard a card at random: Ogre Shaman deals 2 damage to any target."
 msgstr ""
+"|mana_2|, odrzuć losową kartę: Ten byt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../TPR.rst:742
 msgid ""
@@ -2178,6 +2270,8 @@ msgid ""
 "Whenever a creature enters the battlefield, that creature's controller may "
 "have it deal damage equal to its power to any target of their choice."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy, władca owego stwora może zdecydować, że "
+"zada on wskazanemu przez siebie celowi obrażenia równe swojej sile."
 
 #: ../../TPR.rst:748
 msgid ""
@@ -2214,6 +2308,8 @@ msgid ""
 "Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór dostaje do końca "
+"tury +1/+0."
 
 #: ../../TPR.rst:758
 msgid ""
@@ -2269,7 +2365,7 @@ msgstr ""
 
 #: ../../TPR.rst:773
 msgid "Searing Touch deals 1 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../TPR.rst:780
 msgid ""
@@ -2291,7 +2387,7 @@ msgstr ""
 
 #: ../../TPR.rst:783
 msgid "Shadowstorm deals 2 damage to each creature with shadow."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi z cieniem po 2 obrażenia."
 
 #: ../../TPR.rst:792
 msgid ""
@@ -2336,7 +2432,7 @@ msgstr ""
 #: ../../TPR.rst:799
 msgid ""
 "Whenever a player casts a spell, Spellshock deals 2 damage to that player."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar, ten byt zadaje owemu graczowi 2 obrażenia."
 
 #: ../../TPR.rst:806
 msgid ""
@@ -2347,13 +2443,15 @@ msgstr ""
 
 #: ../../TPR.rst:803
 msgid "Spitting Hydra enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1."
 
 #: ../../TPR.rst:805
 msgid ""
 "|mana_1|\\ |mana_r|, Remove a +1/+1 counter from Spitting Hydra: It deals 1 "
 "damage to target creature."
 msgstr ""
+"|mana_1|\\ |mana_r|, usuń znacznik +1/+1 z tego stwora: Zadaje on wskazanemu "
+"stworowi 1 obrażenie."
 
 #: ../../TPR.rst:810
 msgid ""
@@ -2367,6 +2465,8 @@ msgid ""
 "|tap|: Destroy target artifact or creature. That permanent's controller "
 "gains control of Starke of Rath. (This effect lasts indefinitely.)"
 msgstr ""
+"|tap|: Zniszcz wskazany artefakt lub stwora. Władca owego bytu zyskuje "
+"władanie nad niniejszym. (Ten efekt trwa stale.)"
 
 #: ../../TPR.rst:816
 msgid ""
@@ -2390,7 +2490,7 @@ msgstr ""
 msgid ""
 "Wall of Diffusion can block creatures with shadow as though Wall of "
 "Diffusion had shadow."
-msgstr ""
+msgstr "Ten stwór może blokować stwory z cieniem tak, jakby posiadał on cień."
 
 #: ../../TPR.rst:826
 msgid ""
@@ -2404,6 +2504,8 @@ msgid ""
 "Any player may cast creature spells with mana value 3 or less without paying "
 "their mana costs and as though they had flash."
 msgstr ""
+"Dowolny gracz może rzucać czary stworów o skrócie many 3 lub mniejszym bez "
+"płacenia ich kosztów many oraz jakby miały błysk."
 
 #: ../../TPR.rst:830
 msgid ""
@@ -2421,7 +2523,7 @@ msgstr ""
 
 #: ../../TPR.rst:835
 msgid "|mana_1|\\ |mana_g|: Regenerate Carnassid."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|:Zregeneruj ten byt."
 
 #: ../../TPR.rst:840
 msgid ""
@@ -2435,6 +2537,8 @@ msgid ""
 "Whenever Crashing Boars attacks, defending player chooses an untapped "
 "creature they control. That creature blocks Crashing Boars this turn if able."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, broniący się gracz wybiera i odkręca stwora pod "
+"swoim władaniem. Ów stwór w tej turze blokuje niniejszego jeśli może."
 
 #: ../../TPR.rst:844
 msgid ""
@@ -2471,6 +2575,7 @@ msgid ""
 "When you control a creature with toughness 2 or less, sacrifice Endangered "
 "Armodon."
 msgstr ""
+"Kiedy władasz stworem o wytrzymałości 2 lub mniejszej, poświęć niniejszy byt."
 
 #: ../../TPR.rst:860
 msgid ""
@@ -2502,7 +2607,7 @@ msgstr ""
 msgid ""
 "Heartwood Dryad can block creatures with shadow as though Heartwood Dryad "
 "had shadow."
-msgstr ""
+msgstr "Ten stwór może blokować stwory z cieniem jakby sam miał cień."
 
 #: ../../TPR.rst:868
 msgid ""
@@ -2516,6 +2621,8 @@ msgid ""
 "|tap|, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player "
 "or planeswalker."
 msgstr ""
+"|tap|, poświęć Las: Ten byt zadaje wskazanemu graczowi lub wędrowcowi 2 "
+"obrażenia."
 
 #: ../../TPR.rst:872
 msgid ""
@@ -2530,6 +2637,9 @@ msgid ""
 "a basic land card. Put that card into your hand and all other cards revealed "
 "this way into your graveyard."
 msgstr ""
+"|mana_g|, |tap|: Ujawniaj karty z wierzchu twojej biblioteki aż ujawnisz "
+"kartę bazowego lądu. Umieść ową kartę w twojej ręce, a pozostałe karty "
+"ujawnione w ten sposób w twoim cmentarzu."
 
 #: ../../TPR.rst:876
 msgid ""
@@ -2551,11 +2661,11 @@ msgstr ""
 
 #: ../../TPR.rst:879
 msgid "Krakilin enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../TPR.rst:881
 msgid "|mana_1|\\ |mana_g|: Regenerate Krakilin."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj ten byt."
 
 #: ../../TPR.rst:886
 msgid ""
@@ -2569,6 +2679,8 @@ msgid ""
 "Whenever Lowland Basilisk deals damage to a creature, destroy that creature "
 "at end of combat."
 msgstr ""
+"Ilekroć ten byt zada obrażenia stworowi, zniszcz owego stwora na końcu "
+"potyczki."
 
 #: ../../TPR.rst:890
 msgid ""
@@ -2582,6 +2694,9 @@ msgid ""
 "At the beginning of your end step, you may reveal your hand and put all land "
 "cards from it onto the battlefield. If you do, discard your hand."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz ujawnić twoją rękę i umieścić "
+"wszystkie karty lądów z niej na polu bitwy. Jeśli tak zrobisz, odrzuć twoją "
+"rękę."
 
 #: ../../TPR.rst:894
 msgid ""
@@ -2653,6 +2768,11 @@ msgid ""
 "creature card. If the first player does, that player puts that card onto the "
 "battlefield and all other cards revealed this way into their graveyard."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz wskazuje gracza "
+"władającego większą liczbą stworów niż on i jest jego przeciwnikiem. "
+"Pierwszy gracz może ujawniać karty z wierzchu swojej biblioteki aż ujawni "
+"kartę stwora. Jeśli tak zrobi, ów gracz umieszcza ową kartę na polu bitwy, a "
+"wszystkie inne karty ujawnione w ten sposób w swoim cmentarzu."
 
 #: ../../TPR.rst:914
 msgid ""
@@ -2704,7 +2824,7 @@ msgstr ""
 
 #: ../../TPR.rst:927
 msgid "Target creature loses shadow until end of turn."
-msgstr ""
+msgstr "Wskazany stwór traci do końca tury cień."
 
 #: ../../TPR.rst:938
 msgid ""
@@ -2719,11 +2839,11 @@ msgstr "Pomiń swój krok dobierania."
 
 #: ../../TPR.rst:935
 msgid "Whenever you play a card, draw a card."
-msgstr ""
+msgstr "Ilekroć zagrasz kartę, dobierz kartę."
 
 #: ../../TPR.rst:937
 msgid "Your maximum hand size is two."
-msgstr ""
+msgstr "Twój maksymalny rozmiar ręki wynosi dwa."
 
 #: ../../TPR.rst:942
 msgid ""
@@ -2768,7 +2888,7 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../TPR.rst:951
 msgid "|mana_1|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|mana_1|: Weź |mana_r| lub |mana_w|."
 
 #: ../../TPR.rst:956
 msgid ""
@@ -2779,7 +2899,7 @@ msgstr ""
 
 #: ../../TPR.rst:955
 msgid "|mana_1|\\ |mana_g|: Regenerate Skyshroud Troll."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj ten byt."
 
 #: ../../TPR.rst:964
 msgid ""
@@ -2790,19 +2910,23 @@ msgstr ""
 
 #: ../../TPR.rst:959
 msgid "Spike Breeder enters the battlefield with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1."
 
 #: ../../TPR.rst:961
 msgid ""
 "|mana_2|, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on "
 "target creature."
 msgstr ""
+"|mana_2|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na "
+"wskazanym stworze."
 
 #: ../../TPR.rst:963
 msgid ""
 "|mana_2|, Remove a +1/+1 counter from Spike Breeder: Create a 1/1 green "
 "Spike creature token."
 msgstr ""
+"|mana_2|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton zielonego stwora "
+"Kolec 1/1."
 
 #: ../../TPR.rst:970
 msgid ""
@@ -2813,13 +2937,15 @@ msgstr ""
 
 #: ../../TPR.rst:967
 msgid "Spike Colony enters the battlefield with four +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki +1/+1."
 
 #: ../../TPR.rst:969
 msgid ""
 "|mana_2|, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on "
 "target creature."
 msgstr ""
+"|mana_2|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na "
+"wskazanym stworze."
 
 #: ../../TPR.rst:978
 msgid ""
@@ -2830,17 +2956,19 @@ msgstr ""
 
 #: ../../TPR.rst:973
 msgid "Spike Feeder enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../TPR.rst:975
 msgid ""
 "|mana_2|, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on "
 "target creature."
 msgstr ""
+"|mana_2|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na "
+"wskazanym stworze."
 
 #: ../../TPR.rst:977
 msgid "Remove a +1/+1 counter from Spike Feeder: You gain 2 life."
-msgstr ""
+msgstr "Usuń znacznik +1/+1 z tego stwora: Zyskaj 2 życia."
 
 #: ../../TPR.rst:986
 msgid ""
@@ -2851,19 +2979,21 @@ msgstr ""
 
 #: ../../TPR.rst:981
 msgid "Spike Hatcher enters the battlefield with six +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając sześć znaczników +1/+1."
 
 #: ../../TPR.rst:983
 msgid ""
 "|mana_2|, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on "
 "target creature."
 msgstr ""
+"|mana_2|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na "
+"wskazanym stworze."
 
 #: ../../TPR.rst:985
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike "
 "Hatcher."
-msgstr ""
+msgstr "|mana_1|, usuń znacznik +1/+1 z tego stwora: Zregeneruj tego stwora."
 
 #: ../../TPR.rst:988
 msgid ""
@@ -2884,6 +3014,8 @@ msgid ""
 "|mana_g|, Discard a creature card: Search your library for a creature card, "
 "reveal that card, put it into your hand, then shuffle."
 msgstr ""
+"|mana_g|, odrzuć kartę stwora: Wyszukaj w twojej bibliotece kartę stwora, "
+"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../TPR.rst:996
 msgid ""
@@ -2929,6 +3061,8 @@ msgid ""
 "Target land becomes a 2/2 creature that's still a land. (This effect lasts "
 "indefinitely.)"
 msgstr ""
+"Wskazany ląd staje się stworem 2/2, który nadal jest lądem. (Ten efekt trwa "
+"stale.)"
 
 #: ../../TPR.rst:1016
 msgid ""
@@ -2964,6 +3098,8 @@ msgid ""
 "All Slivers have \"|mana_2|, Sacrifice this permanent: This permanent deals "
 "2 damage to any target.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_2|, poświęć ten byt: Zadaje on wskazanemu "
+"celowi 2 obrażenia.\""
 
 #: ../../TPR.rst:1030
 msgid ""
@@ -2976,6 +3112,8 @@ msgstr ""
 msgid ""
 "All Slivers have shroud. (They can't be the targets of spells or abilities.)"
 msgstr ""
+"Wszystkie Drzazgacze mają antymagię. (Nie mogą być wskazywane przez czary "
+"lub zdolności.)"
 
 #: ../../TPR.rst:1038
 msgid ""
@@ -2990,10 +3128,13 @@ msgid ""
 "Dracoplasm's power becomes the total power of those creatures and its "
 "toughness becomes their total toughness."
 msgstr ""
+"Umieszczając ten byt na polu bitwy, poświęć dowolną liczbę stworów. Siła "
+"tego stwora staje się łączną siłą owych stworów, a jego wytrzymałość staje "
+"się ich łączną wytrzymałością."
 
 #: ../../TPR.rst:1037
 msgid "|mana_r|: Dracoplasm gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../TPR.rst:1042
 msgid ""
@@ -3006,6 +3147,8 @@ msgstr ""
 msgid ""
 "All Slivers have \"Pay 2 life: Return this permanent to its owner's hand.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"Zapłać 2 życia: Przywróć ten byt do ręki "
+"właściciela.\""
 
 #: ../../TPR.rst:1048
 msgid ""
@@ -3016,7 +3159,7 @@ msgstr ""
 
 #: ../../TPR.rst:1047
 msgid "Pay 2 life: Return Selenia, Dark Angel to its owner's hand."
-msgstr ""
+msgstr "Zapłać 2 życia: Przywróć ten byt do ręki właściciela."
 
 #: ../../TPR.rst:1052
 msgid ""
@@ -3027,7 +3170,7 @@ msgstr ""
 
 #: ../../TPR.rst:1051
 msgid "|mana_2|: Create a 1/1 colorless Sliver creature token."
-msgstr ""
+msgstr "|mana_2|: Stwórz żeton bezkolorowego stwora Drzazgacz 1/1."
 
 #: ../../TPR.rst:1058
 msgid ""
@@ -3041,6 +3184,9 @@ msgid ""
 "|mana_0|: The next time Soltari Guerrillas would deal combat damage to an "
 "opponent this turn, it deals that damage to target creature instead."
 msgstr ""
+"|mana_0|: Kiedy następnym razem w tej turze ten stwór miałby zadać "
+"przeciwnikowi obrażenia bojowe, zamiast tego zadaje on je wskazanemu "
+"stworowi."
 
 #: ../../TPR.rst:1062
 msgid ""
@@ -3054,6 +3200,8 @@ msgid ""
 "Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn "
 "for each creature blocking it."
 msgstr ""
+"Ilekroć Drzazgacz zostanie zablokowany, ów Drzazgacz dostaje do końca tury +"
+"1/+1 za każdego stwora blokującego go."
 
 #: ../../TPR.rst:1066
 msgid ""
@@ -3067,6 +3215,8 @@ msgid ""
 "|tap|: Until end of turn, target creature has base power 1 or base toughness "
 "1."
 msgstr ""
+"|tap|: Do końca tury wskazany stwór ma bazową siłę równą 1 lub bazową "
+"wytrzymałość równą 1."
 
 #: ../../TPR.rst:1070
 msgid ""
@@ -3079,6 +3229,7 @@ msgstr ""
 msgid ""
 "All Slivers have \"|mana_2|, Sacrifice this permanent: You gain 4 life.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_2|, poświęć ten byt: Zyskaj 4 życia.\""
 
 #: ../../TPR.rst:1074
 msgid ""
@@ -3146,6 +3297,9 @@ msgid ""
 "hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any "
 "target."
 msgstr ""
+"|mana_3|, |tap|: Nazwij kartę, po czym ujawnij losową kartę z twojej ręki. "
+"Jeśli owa karta ma wybraną nazwę, ten byt zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../TPR.rst:1094
 msgid ""
@@ -3170,6 +3324,8 @@ msgid ""
 "|mana_1|, |tap|: Return target creature to its owner's hand unless its "
 "controller pays |mana_1|."
 msgstr ""
+"|mana_1|, |tap|: Przywróć wskazanego stwora do ręki właściciela, chyba że "
+"jego władca zapłaci |mana_1|."
 
 #: ../../TPR.rst:1102
 msgid ""
@@ -3183,6 +3339,8 @@ msgid ""
 "|mana_3|, |tap|: Target player mills two cards. If two cards that share a "
 "color were milled this way, repeat this process."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz mieli dwie karty. Jeśli dwie karty "
+"współdzielące kolor zostały zmielone w ten sposób, powtórz ten proces."
 
 #: ../../TPR.rst:1108
 msgid ""
@@ -3210,7 +3368,7 @@ msgstr ""
 
 #: ../../TPR.rst:1111
 msgid "|tap|, Sacrifice Lotus Petal: Add one mana of any color."
-msgstr ""
+msgstr "|tap|, poświęć ten byt: Weź jedną manę dowolnego koloru."
 
 #: ../../TPR.rst:1114
 msgid ""
@@ -3252,6 +3410,9 @@ msgid ""
 "instead. If you do, put Mox Diamond onto the battlefield. If you don't, put "
 "it into its owner's graveyard."
 msgstr ""
+"Jeśli ten byt miałby wejść na pole bitwy, możesz zamiast tego odrzucić "
+"kartę. Jeśli tak zrobisz, umieść ten byt na polu bitwy. Jeśli nie, umieść go "
+"w cmentarzu właściciela."
 
 #: ../../TPR.rst:1129
 msgid "|tap|: Add one mana of any color."
@@ -3292,6 +3453,7 @@ msgstr ""
 msgid ""
 "Sacrifice Skyshaper: Creatures you control gain flying until end of turn."
 msgstr ""
+"Poświęć ten byt: Stwory pod twoim władaniem zyskują do końca tury latanie."
 
 #: ../../TPR.rst:1146
 msgid ""
@@ -3305,6 +3467,8 @@ msgid ""
 "Tap an untapped creature you control: Telethopter gains flying until end of "
 "turn."
 msgstr ""
+"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór zyskuje do końca "
+"tury latanie."
 
 #: ../../TPR.rst:1156
 msgid ""
@@ -3316,7 +3480,7 @@ msgstr ""
 #: ../../TPR.rst:1151
 msgid ""
 "Thopter Squadron enters the battlefield with three +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1."
 
 #: ../../TPR.rst:1153
 msgid ""
@@ -3324,12 +3488,16 @@ msgid ""
 "colorless Thopter artifact creature token with flying. Activate only as a "
 "sorcery."
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 z tego stwora: Stwórz żeton bezkolorowego "
+"artefaktowego stwora Kopter 1/1 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../TPR.rst:1155
 msgid ""
 "|mana_1|, Sacrifice another Thopter: Put a +1/+1 counter on Thopter "
 "Squadron. Activate only as a sorcery."
 msgstr ""
+"|mana_1|, poświęć inny Kopter: Umieść znacznik +1/+1 na tym stworze. Aktywuj "
+"tylko jako obrzęd."
 
 #: ../../TPR.rst:1162
 msgid ""
@@ -3342,12 +3510,13 @@ msgstr ""
 msgid ""
 "As Volrath's Laboratory enters the battlefield, choose a color and a "
 "creature type."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz kolor i typ stwora."
 
 #: ../../TPR.rst:1161
 msgid ""
 "|mana_5|, |tap|: Create a 2/2 creature token of the chosen color and type."
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton stwora 2/2 wybranego uprzednio koloru i typu."
 
 #: ../../TPR.rst:1170
 msgid ""
@@ -3358,7 +3527,7 @@ msgstr ""
 
 #: ../../TPR.rst:1165
 msgid "Caldera Lake enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../TPR.rst:1167 ../../TPR.rst:1173 ../../TPR.rst:1185 ../../TPR.rst:1191
 #: ../../TPR.rst:1199 ../../TPR.rst:1205 ../../TPR.rst:1213 ../../TPR.rst:1221
@@ -3369,7 +3538,7 @@ msgstr "|tap|: Weź |colorless|."
 
 #: ../../TPR.rst:1169
 msgid "|tap|: Add |mana_u| or |mana_r|. Caldera Lake deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../TPR.rst:1176
 msgid ""
@@ -3383,6 +3552,8 @@ msgid ""
 "|tap|: Add |mana_b| or |mana_r|. Cinder Marsh doesn't untap during your next "
 "untap step."
 msgstr ""
+"|tap|: Weź |mana_b| lub |mana_r|. Ten byt nie odkręci się w twoim "
+"najbliższym kroku odkręcania."
 
 #: ../../TPR.rst:1182
 msgid ""
@@ -3393,7 +3564,7 @@ msgstr ""
 
 #: ../../TPR.rst:1179
 msgid "When you play another land, sacrifice City of Traitors."
-msgstr ""
+msgstr "Kiedy zagrasz inny ląd, poświęć niniejszy byt."
 
 #: ../../TPR.rst:1181
 msgid "|tap|: Add |colorless|\\ |colorless|."
@@ -3411,6 +3582,9 @@ msgid ""
 "|tap|: Untap target attacking creature with shadow. Prevent all combat "
 "damage that would be dealt to and dealt by that creature this turn."
 msgstr ""
+"|tap|: Odkręć wskazanego atakującego stwora z cieniem. Zażegnaj wszystkie "
+"bojowe obrażenia, jakie mógłby on zadać lub mogłyby mu zostać zadane w tej "
+"turze."
 
 #: ../../TPR.rst:1194
 msgid ""
@@ -3424,6 +3598,8 @@ msgid ""
 "|tap|: Add |mana_r| or |mana_g|. Mogg Hollows doesn't untap during your next "
 "untap step."
 msgstr ""
+"|tap|: Weź |mana_r| lub |mana_g|. Ten byt nie odkręci się w twoim "
+"najbliższym kroku odkręcania."
 
 #: ../../TPR.rst:1202
 msgid ""
@@ -3434,11 +3610,11 @@ msgstr ""
 
 #: ../../TPR.rst:1197
 msgid "Pine Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../TPR.rst:1201
 msgid "|tap|: Add |mana_b| or |mana_g|. Pine Barrens deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../TPR.rst:1208
 msgid ""
@@ -3452,6 +3628,8 @@ msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Rootwater Depths doesn't untap during your "
 "next untap step."
 msgstr ""
+"|tap|: Weź |mana_u| lub |mana_b|. Ten byt nie odkręci się w twoim "
+"najbliższym kroku odkręcania."
 
 #: ../../TPR.rst:1216
 msgid ""
@@ -3462,11 +3640,11 @@ msgstr ""
 
 #: ../../TPR.rst:1211
 msgid "Salt Flats enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../TPR.rst:1215
 msgid "|tap|: Add |mana_w| or |mana_b|. Salt Flats deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../TPR.rst:1224
 msgid ""
@@ -3477,11 +3655,11 @@ msgstr ""
 
 #: ../../TPR.rst:1219
 msgid "Scabland enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../TPR.rst:1223
 msgid "|tap|: Add |mana_r| or |mana_w|. Scabland deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../TPR.rst:1232
 msgid ""
@@ -3492,12 +3670,12 @@ msgstr ""
 
 #: ../../TPR.rst:1227
 msgid "Skyshroud Forest enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../TPR.rst:1231
 msgid ""
 "|tap|: Add |mana_g| or |mana_u|. Skyshroud Forest deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../TPR.rst:1238
 msgid ""
@@ -3511,6 +3689,8 @@ msgid ""
 "|mana_6|: Stalking Stones becomes a 3/3 Elemental artifact creature that's "
 "still a land. (This effect lasts indefinitely.)"
 msgstr ""
+"|mana_6|: Ten byt staje się artefaktowym stworem Żywiołak 3/3, który nadal "
+"jest lądem. (Ten efekt trwa stale.)"
 
 #: ../../TPR.rst:1244
 msgid ""
@@ -3524,6 +3704,8 @@ msgid ""
 "|tap|: Add |mana_w| or |mana_u|. Thalakos Lowlands doesn't untap during your "
 "next untap step."
 msgstr ""
+"|tap|: Weź |mana_w| lub |mana_u|. Ten byt nie odkręci się w twoim "
+"najbliższym kroku odkręcania."
 
 #: ../../TPR.rst:1250
 msgid ""
@@ -3537,6 +3719,8 @@ msgid ""
 "|tap|: Add |mana_g| or |mana_w|. Vec Townships doesn't untap during your "
 "next untap step."
 msgstr ""
+"|tap|: Weź |mana_g| lub |mana_w|. Ten byt nie odkręci się w twoim "
+"najbliższym kroku odkręcania."
 
 #: ../../TPR.rst:1256
 msgid ""
@@ -3550,6 +3734,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Put target creature card from your graveyard on "
 "top of your library."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Umieść wskazaną kartę stwora z twojego cmentarza "
+"na wierzchu twojej biblioteki."
 
 #: ../../TPR.rst:1262
 msgid ""

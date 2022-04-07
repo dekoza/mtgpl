@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-07 12:17+0000\n"
+"PO-Revision-Date: 2022-04-07 18:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -1522,7 +1522,7 @@ msgstr ""
 
 #: ../../CMD.rst:425
 msgid "Evincar's Justice deals 2 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 2 obrażenia."
 
 #: ../../CMD.rst:434
 msgid ""
@@ -3031,17 +3031,19 @@ msgstr ""
 
 #: ../../CMD.rst:909
 msgid "Spike Feeder enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../CMD.rst:911
 msgid ""
 "|mana_2|, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on "
 "target creature."
 msgstr ""
+"|mana_2|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na "
+"wskazanym stworze."
 
 #: ../../CMD.rst:913
 msgid "Remove a +1/+1 counter from Spike Feeder: You gain 2 life."
-msgstr ""
+msgstr "Usuń znacznik +1/+1 z tego stwora: Zyskaj 2 życia."
 
 #: ../../CMD.rst:918
 msgid ""
