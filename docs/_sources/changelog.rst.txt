@@ -3,6 +3,7 @@ Spis zmian
 ***********
 
 2022-04-07
+   * :mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` - 100%
    * :mtgexp:`CNS` :doc:`Conspiracy<CNS>` - 100%
 
 2022-04-01

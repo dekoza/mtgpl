@@ -98,7 +98,7 @@
 
 .. |DST_percent| image:: images/pie50.png        
 
-.. |NEC_percent| image:: images/pie70.png        
+.. |NEC_percent| image:: images/pie75.png        
 
 .. |MH1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -264,7 +264,7 @@
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C15_percent| image:: images/pie75.png        
+.. |C15_percent| image:: images/pie80.png        
 
 .. |GNT_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -327,7 +327,8 @@
 
 .. |TMP_percent| image:: images/pie45.png        
 
-.. |CN2_percent| image:: images/pie65.png        
+.. |CN2_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |AVR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
