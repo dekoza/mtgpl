@@ -26,6 +26,6 @@ Commander is designed to be a malleable format. We encourage groups to use the r
 
 The format can be broken; we believe games are more fun if you don’t.
 
-There’s a channel for discussing the format philosophy over on the RC Discord server. We look forward to you joining us.
+There’s a channel for discussing the format philosophy `over on the RC Discord server<https://discord.gg/x5Q5PVg>`_. We look forward to you joining us.
 
-You can also jump right to the Commander Rules page from here.
+You can also jump right to the :doc:`Commander Rules page from here<commander_rules>`.
