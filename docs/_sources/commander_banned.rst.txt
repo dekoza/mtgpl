@@ -8,9 +8,9 @@ The Commander cardpool consists of all regulation-sized Magic cards publicly rel
 
 The following is the official banned list for commander games. These cards are not legal without prior agreement from the other players in the game, and may steer your playgroup to avoid other, similar cards. For the underlying philosophy that drives the banlist, see :doc:`Format Philosophy<commander_philosophy>`.
 
-* All cards that refer to the ante mechanic (full list `here<https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&text=+%5b%22%20ante.%22%5d>`_)
-* All cards that Wizards has removed from constructed formats (full list `here<https://magic.wizards.com/en/articles/archive/news/depictions-racism-magic-2020-06-10>`_)
-* All cards with the Conspiracy card type (full list `here<https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&special=true&type=+%5b%22Conspiracy%22%5d>`_)
+* All cards that refer to the ante mechanic (full list `here <https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&text=+%5b%22%20ante.%22%5d>`_)
+* All cards that Wizards has removed from constructed formats (full list `here <https://magic.wizards.com/en/articles/archive/news/depictions-racism-magic-2020-06-10>`_)
+* All cards with the Conspiracy card type (full list `here <https://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&special=true&type=+%5b%22Conspiracy%22%5d>`_)
 
 * :mtgtip:`Ancestral Recall`
 * :mtgtip:`Balance`
@@ -60,5 +60,5 @@ The following is the official banned list for commander games. These cards are n
 
 The banned list is updated quarterly, with our announcements coming on the Monday before the prerelease.
 
-There’s a channel for discussing the format philosophy `over on the RC Discord server<https://discord.gg/x5Q5PVg>`_. We look forward to you joining us.
+There’s a channel for discussing the format philosophy `over on the RC Discord server <https://discord.gg/x5Q5PVg>`_. We look forward to you joining us.
 
