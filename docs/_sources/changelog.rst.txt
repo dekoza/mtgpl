@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2022-04-09
+   * Zakończenie tłumaczenia zaktualizowanych stron dot. Commandera.
+
 2022-04-07
    * :mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` - 100%
    * :mtgexp:`CN2` :doc:`Conspiracy: Take the Crown<CN2>` - 100%

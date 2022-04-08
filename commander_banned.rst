@@ -60,4 +60,3 @@ The following is the official banned list for commander games. These cards are n
 The banned list is updated quarterly, with our announcements coming on the Monday before the prerelease.
 
 There’s a channel for discussing the format philosophy `over on the RC Discord server <https://discord.gg/x5Q5PVg>`_. We look forward to you joining us.
-
