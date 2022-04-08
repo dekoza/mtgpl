@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 10:40+0200\n"
+"POT-Creation-Date: 2022-04-08 17:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -389,7 +389,7 @@ msgstr ""
 
 #: ../../SNC.rst:35
 #: ../../SNC.rst:221
-#: ../../SNC.rst:347
+#: ../../SNC.rst:351
 msgid "Flying"
 msgstr ""
 
@@ -410,7 +410,7 @@ msgid "Look at the top two cards of your library. Put one of them into your hand
 msgstr ""
 
 #: ../../SNC.rst:48
-msgid ":mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649364870|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`"
+msgid ":mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649394290|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:47
@@ -502,7 +502,7 @@ msgid "Strangle deals 3 damage to target creature or planeswalker."
 msgstr ""
 
 #: ../../SNC.rst:98
-msgid ":mtgtip:`Urabask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649359924|https://scryfall.com/card/snc/129/urabask-heretic-praetor?utm_source=api>`"
+msgid ":mtgtip:`Urabrask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649394243|https://scryfall.com/card/snc/129/urabrask-heretic-praetor?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:93
@@ -803,185 +803,193 @@ msgid "Jetmir's Garden enters the battlefield tapped."
 msgstr ""
 
 #: ../../SNC.rst:251
-#: ../../SNC.rst:267
-#: ../../SNC.rst:283
-#: ../../SNC.rst:307
-#: ../../SNC.rst:315
+#: ../../SNC.rst:271
+#: ../../SNC.rst:287
+#: ../../SNC.rst:311
+#: ../../SNC.rst:319
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../SNC.rst:260
-msgid ":mtgtip:`Racers' Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459|https://scryfall.com/card/snc/253/racers-ring?utm_source=api>`"
+#: ../../SNC.rst:256
+msgid ":mtgtip:`Maestros Theater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51eb4a44-a5c8-49ed-b440-2462626bb638.jpg?1649402301|https://scryfall.com/card/snc/251/maestros-theater?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:255
-msgid "Racers' Ring enters the battlefield tapped."
+msgid "When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life."
 msgstr ""
 
-#: ../../SNC.rst:257
-msgid "|tap|: Add |mana_r| or |mana_g|."
+#: ../../SNC.rst:264
+msgid ":mtgtip:`Racers' Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459|https://scryfall.com/card/snc/253/racers-ring?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:259
-msgid "|mana_2|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Racers' Ring: Draw a card."
+msgid "Racers' Ring enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:268
-msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+#: ../../SNC.rst:261
+msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../SNC.rst:263
+msgid "|mana_2|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Racers' Ring: Draw a card."
+msgstr ""
+
+#: ../../SNC.rst:272
+msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:267
 msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
 msgstr ""
 
-#: ../../SNC.rst:265
+#: ../../SNC.rst:269
 msgid "Raffine's Tower enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:276
+#: ../../SNC.rst:280
 msgid ":mtgtip:`Skybridge Towers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e28c871f-a96a-4e7d-a159-2e93aeb276d4.jpg?1649362661|https://scryfall.com/card/snc/256/skybridge-towers?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:271
+#: ../../SNC.rst:275
 msgid "Skybridge Towers enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:273
+#: ../../SNC.rst:277
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../SNC.rst:275
+#: ../../SNC.rst:279
 msgid "|mana_2|\\ |mana_w|\\ |mana_u|, |tap|, Sacrifice Skybridge Towers: Draw a card."
 msgstr ""
 
-#: ../../SNC.rst:284
+#: ../../SNC.rst:288
 msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:279
+#: ../../SNC.rst:283
 msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
 msgstr ""
 
-#: ../../SNC.rst:281
+#: ../../SNC.rst:285
 msgid "Spara's Headquarters enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:292
+#: ../../SNC.rst:296
 msgid ":mtgtip:`Tramway Station<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0532304-da6d-45cd-b1e6-4779d3f3b2bc.jpg?1649362675|https://scryfall.com/card/snc/258/tramway-station?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:287
+#: ../../SNC.rst:291
 msgid "Tramway Station enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:289
+#: ../../SNC.rst:293
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../SNC.rst:291
+#: ../../SNC.rst:295
 msgid "|mana_2|\\ |mana_b|\\ |mana_r|, |tap|, Sacrifice Tramway Station: Draw a card."
 msgstr ""
 
-#: ../../SNC.rst:300
+#: ../../SNC.rst:304
 msgid ":mtgtip:`Waterfront District<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/debf7aac-4d31-49b4-955b-79036258df69.jpg?1649360830|https://scryfall.com/card/snc/259/waterfront-district?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:295
+#: ../../SNC.rst:299
 msgid "Waterfront District enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:297
+#: ../../SNC.rst:301
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
-#: ../../SNC.rst:299
+#: ../../SNC.rst:303
 msgid "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, Sacrifice Waterfront District: Draw a card."
 msgstr ""
 
-#: ../../SNC.rst:308
+#: ../../SNC.rst:312
 msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:303
+#: ../../SNC.rst:307
 msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
 msgstr ""
 
-#: ../../SNC.rst:305
+#: ../../SNC.rst:309
 msgid "Xander's Lounge enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:316
+#: ../../SNC.rst:320
 msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:311
+#: ../../SNC.rst:315
 msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
 msgstr ""
 
-#: ../../SNC.rst:313
+#: ../../SNC.rst:317
 msgid "Ziatora's Proving Ground enters the battlefield tapped."
 msgstr ""
 
-#: ../../SNC.rst:320
+#: ../../SNC.rst:324
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bbb3646-c427-4302-86ac-9ac28d045959.jpg?1649356381|https://scryfall.com/card/snc/262/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:319
+#: ../../SNC.rst:323
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../SNC.rst:324
+#: ../../SNC.rst:328
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ef2c956-cf03-462c-8981-ae80edfc0c5a.jpg?1649356454|https://scryfall.com/card/snc/264/island?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:323
+#: ../../SNC.rst:327
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../SNC.rst:328
+#: ../../SNC.rst:332
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0175a2a-db46-4d25-ab8e-feca7e565b8d.jpg?1649356569|https://scryfall.com/card/snc/266/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:327
+#: ../../SNC.rst:331
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../SNC.rst:332
+#: ../../SNC.rst:336
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fac247df-aa19-4627-8d65-6ddf5e7e5c8c.jpg?1649356611|https://scryfall.com/card/snc/268/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:331
+#: ../../SNC.rst:335
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../SNC.rst:336
+#: ../../SNC.rst:340
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c086cb5e-3146-4a41-a471-fcbbf8fa4e09.jpg?1649356648|https://scryfall.com/card/snc/270/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:335
+#: ../../SNC.rst:339
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
-#: ../../SNC.rst:344
+#: ../../SNC.rst:348
 msgid ":mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/890e23d7-f4db-437d-bfe4-be35f0a443b3.jpg?1649362945|https://scryfall.com/card/snc/347/vivien-on-the-hunt?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:339
+#: ../../SNC.rst:343
 msgid "+2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle."
 msgstr ""
 
-#: ../../SNC.rst:341
+#: ../../SNC.rst:345
 msgid "+1: Mill five cards, then put any number of creature cards milled this way into your hand."
 msgstr ""
 
-#: ../../SNC.rst:343
+#: ../../SNC.rst:347
 msgid "−1: Create a 4/4 green Rhino Warrior creature token."
 msgstr ""
 
-#: ../../SNC.rst:349
+#: ../../SNC.rst:353
 msgid ":mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31dc7d21-e56a-4758-b5a0-3acd7eb8c367.jpg?1649364725|https://scryfall.com/card/snc/386/nimble-larcenist?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:349
+#: ../../SNC.rst:353
 msgid "When Nimble Larcenist enters the battlefield, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card."
 msgstr ""

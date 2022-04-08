@@ -43,7 +43,7 @@
    Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
 
 
-:mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649364870|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`
+:mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649394290|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`
    Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
@@ -89,7 +89,7 @@
    Strangle deals 3 damage to target creature or planeswalker.
 
 
-:mtgtip:`Urabask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649359924|https://scryfall.com/card/snc/129/urabask-heretic-praetor?utm_source=api>`
+:mtgtip:`Urabrask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649394243|https://scryfall.com/card/snc/129/urabrask-heretic-praetor?utm_source=api>`
    Haste
 
    At the beginning of your upkeep, exile the top card of your library. You may play it this turn.
@@ -249,6 +249,10 @@
    Jetmir's Garden enters the battlefield tapped.
 
    Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)
+
+
+:mtgtip:`Maestros Theater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51eb4a44-a5c8-49ed-b440-2462626bb638.jpg?1649402301|https://scryfall.com/card/snc/251/maestros-theater?utm_source=api>`
+   When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
 
 
 :mtgtip:`Racers' Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459|https://scryfall.com/card/snc/253/racers-ring?utm_source=api>`
