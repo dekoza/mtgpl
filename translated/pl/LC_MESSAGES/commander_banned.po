@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-13 20:04+0100\n"
+"POT-Creation-Date: 2022-04-08 22:15+0200\n"
 "PO-Revision-Date: 2022-04-07 21:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/"
@@ -21,177 +21,452 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../commander_banned.rst:5
-msgid "Cards banned in Commander"
-msgstr "Karty zbanowane w formacie Commander"
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
 
-#: ../../commander_banned.rst:7
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{PW}"
+msgstr ""
+
+#: ../../commander_banned.rst:4
+msgid "Commander Banned List"
+msgstr ""
+
+#: ../../commander_banned.rst:6
+msgid ""
+"The Commander cardpool consists of all regulation-sized Magic cards publicly "
+"released by Wizards of the Coast other than those with silver borders, gold "
+"borders or acorn-shaped security stamps. Cards are legal to play with as of "
+"their sets’ prerelease."
+msgstr ""
+
+#: ../../commander_banned.rst:8
 msgid ""
 "The following is the official banned list for commander games. These cards "
-"(and others like them) should not be played without prior agreement from the "
-"other players in the game."
+"are not legal without prior agreement from the other players in the game, "
+"and may steer your playgroup to avoid other, similar cards. For the "
+"underlying philosophy that drives the banlist, see :doc:`Format "
+"Philosophy<commander_philosophy>`."
 msgstr ""
 
-#: ../../commander_banned.rst:13
-msgid "Banned from play"
+#: ../../commander_banned.rst:10
+msgid ""
+"All cards that refer to the ante mechanic (full list `here <https://gatherer."
+"wizards.com/Pages/Search/Default.aspx?action=advanced&text=+%5b%22%20ante."
+"%22%5d>`_)"
 msgstr ""
 
-#: ../../commander_banned.rst:15
+#: ../../commander_banned.rst:11
+msgid ""
+"All cards that Wizards has removed from constructed formats (full list `here "
+"<https://magic.wizards.com/en/articles/archive/news/depictions-racism-"
+"magic-2020-06-10>`_)"
+msgstr ""
+
+#: ../../commander_banned.rst:12
+msgid ""
+"All cards with the Conspiracy card type (full list `here <https://gatherer."
+"wizards.com/Pages/Search/Default.aspx?action=advanced&special=true&type=+%5b"
+"%22Conspiracy%22%5d>`_)"
+msgstr ""
+
+#: ../../commander_banned.rst:14
 msgid ":mtgtip:`Ancestral Recall`"
 msgstr ""
 
-#: ../../commander_banned.rst:17
+#: ../../commander_banned.rst:15
 msgid ":mtgtip:`Balance`"
 msgstr ""
 
-#: ../../commander_banned.rst:19
+#: ../../commander_banned.rst:16
 msgid ":mtgtip:`Biorhythm`"
 msgstr ""
 
-#: ../../commander_banned.rst:21
+#: ../../commander_banned.rst:17
 msgid ":mtgtip:`Black Lotus`"
 msgstr ""
 
-#: ../../commander_banned.rst:23
-msgid ":mtgtip:`Channel`"
-msgstr ""
-
-#: ../../commander_banned.rst:25
-msgid ":mtgtip:`Coalition Victory`"
-msgstr ""
-
-#: ../../commander_banned.rst:27
-msgid ":mtgtip:`Emrakul, the Aeons Torn`"
-msgstr ""
-
-#: ../../commander_banned.rst:29
-msgid ":mtgtip:`Fastbond`"
-msgstr ""
-
-#: ../../commander_banned.rst:31
-msgid ":mtgtip:`Gifts Ungiven`"
-msgstr ""
-
-#: ../../commander_banned.rst:33
-msgid ":mtgtip:`Griselbrand`"
-msgstr ""
-
-#: ../../commander_banned.rst:35
-msgid ":mtgtip:`Karakas`"
-msgstr ""
-
-#: ../../commander_banned.rst:37
-msgid ":mtgtip:`Library of Alexandria`"
-msgstr ""
-
-#: ../../commander_banned.rst:39
-msgid ":mtgtip:`Limited Resources`"
-msgstr ""
-
-#: ../../commander_banned.rst:41
-msgid ":mtgtip:`Metalworker`"
-msgstr ""
-
-#: ../../commander_banned.rst:43
-msgid ":mtgtip:`Mox Emerald`"
-msgstr ""
-
-#: ../../commander_banned.rst:45
-msgid ":mtgtip:`Mox Jet`"
-msgstr ""
-
-#: ../../commander_banned.rst:47
-msgid ":mtgtip:`Moc Pearl`"
-msgstr ""
-
-#: ../../commander_banned.rst:49
-msgid ":mtgtip:`Mox Ruby`"
-msgstr ""
-
-#: ../../commander_banned.rst:51
-msgid ":mtgtip:`Mox Sapphire`"
-msgstr ""
-
-#: ../../commander_banned.rst:53
-msgid ":mtgtip:`Painter's Servant`"
-msgstr ""
-
-#: ../../commander_banned.rst:55
-msgid ":mtgtip:`Panoptic Mirror`"
-msgstr ""
-
-#: ../../commander_banned.rst:57
-msgid ":mtgtip:`Primeval Titan`"
-msgstr ""
-
-#: ../../commander_banned.rst:59
-msgid ":mtgtip:`Protean Hulk`"
-msgstr ""
-
-#: ../../commander_banned.rst:61
-msgid ":mtgtip:`Recurring Nightmare`"
-msgstr ""
-
-#: ../../commander_banned.rst:63
-msgid ":mtgtip:`Sundering Titan`"
-msgstr ""
-
-#: ../../commander_banned.rst:65
-msgid ":mtgtip:`Sway of the Stars`"
-msgstr ""
-
-#: ../../commander_banned.rst:67
-msgid ":mtgtip:`Time Vault`"
-msgstr ""
-
-#: ../../commander_banned.rst:69
-msgid ":mtgtip:`Time Walk`"
-msgstr ""
-
-#: ../../commander_banned.rst:71
-msgid ":mtgtip:`Tinker`"
-msgstr ""
-
-#: ../../commander_banned.rst:73
-msgid ":mtgtip:`Tolarian Academy`"
-msgstr ""
-
-#: ../../commander_banned.rst:75
-msgid ":mtgtip:`Trade Secrets`"
-msgstr ""
-
-#: ../../commander_banned.rst:77
-msgid ":mtgtip:`Upheaval`"
-msgstr ""
-
-#: ../../commander_banned.rst:79
-msgid ":mtgtip:`Worldfire`"
-msgstr ""
-
-#: ../../commander_banned.rst:81
-msgid ":mtgtip:`Yawgmoth's Bargain`"
-msgstr ""
-
-#: ../../commander_banned.rst:89
-msgid "Banned Commanders"
-msgstr ""
-
-#: ../../commander_banned.rst:91
-msgid "Additionally the following legends may not be used as a Commander:"
-msgstr ""
-
-#: ../../commander_banned.rst:93
+#: ../../commander_banned.rst:18
 msgid ":mtgtip:`Braids, Cabal Minion`"
 msgstr ""
 
-#: ../../commander_banned.rst:95
+#: ../../commander_banned.rst:19
+msgid ":mtgtip:`Channel`"
+msgstr ""
+
+#: ../../commander_banned.rst:20
+msgid ":mtgtip:`Chaos Orb`"
+msgstr ""
+
+#: ../../commander_banned.rst:21
+msgid ":mtgtip:`Coalition Victory`"
+msgstr ""
+
+#: ../../commander_banned.rst:22
+msgid ":mtgtip:`Emrakul, the Aeons Torn`"
+msgstr ""
+
+#: ../../commander_banned.rst:23
 msgid ":mtgtip:`Erayo, Soratami Ascendant`"
 msgstr ""
 
-#: ../../commander_banned.rst:97
-msgid ":mtgtip:`Kokusho, the Evening Star`"
+#: ../../commander_banned.rst:24
+msgid ":mtgtip:`Falling Star`"
 msgstr ""
 
-#: ../../commander_banned.rst:99
+#: ../../commander_banned.rst:25
+msgid ":mtgtip:`Fastbond`"
+msgstr ""
+
+#: ../../commander_banned.rst:26
+msgid ":mtgtip:`Flash`"
+msgstr ""
+
+#: ../../commander_banned.rst:27
+msgid ":mtgtip:`Gifts Ungiven`"
+msgstr ""
+
+#: ../../commander_banned.rst:28
+msgid ":mtgtip:`Golos, Tireless Pilgrim`"
+msgstr ""
+
+#: ../../commander_banned.rst:29
+msgid ":mtgtip:`Griselbrand`"
+msgstr ""
+
+#: ../../commander_banned.rst:30
+msgid ":mtgtip:`Hullbreacher`"
+msgstr ""
+
+#: ../../commander_banned.rst:31
+msgid ":mtgtip:`Iona, Shield of Emeria`"
+msgstr ""
+
+#: ../../commander_banned.rst:32
+msgid ":mtgtip:`Karakas`"
+msgstr ""
+
+#: ../../commander_banned.rst:33
+msgid ":mtgtip:`Leovold, Emissary of Trest`"
+msgstr ""
+
+#: ../../commander_banned.rst:34
+msgid ":mtgtip:`Library of Alexandria`"
+msgstr ""
+
+#: ../../commander_banned.rst:35
+msgid ":mtgtip:`Limited Resources`"
+msgstr ""
+
+#: ../../commander_banned.rst:36
+msgid ":mtgtip:`Lutri, the Spellchaser`"
+msgstr ""
+
+#: ../../commander_banned.rst:37
+msgid ":mtgtip:`Mox Emerald`"
+msgstr ""
+
+#: ../../commander_banned.rst:38
+msgid ":mtgtip:`Mox Jet`"
+msgstr ""
+
+#: ../../commander_banned.rst:39
+msgid ":mtgtip:`Mox Pearl`"
+msgstr ""
+
+#: ../../commander_banned.rst:40
+msgid ":mtgtip:`Mox Ruby`"
+msgstr ""
+
+#: ../../commander_banned.rst:41
+msgid ":mtgtip:`Mox Sapphire`"
+msgstr ""
+
+#: ../../commander_banned.rst:42
+msgid ":mtgtip:`Panoptic Mirror`"
+msgstr ""
+
+#: ../../commander_banned.rst:43
+msgid ":mtgtip:`Paradox Engine`"
+msgstr ""
+
+#: ../../commander_banned.rst:44
+msgid ":mtgtip:`Primeval Titan`"
+msgstr ""
+
+#: ../../commander_banned.rst:45
+msgid ":mtgtip:`Prophet of Kruphix`"
+msgstr ""
+
+#: ../../commander_banned.rst:46
+msgid ":mtgtip:`Recurring Nightmare`"
+msgstr ""
+
+#: ../../commander_banned.rst:47
 msgid ":mtgtip:`Rofellos, Llanowar Emissary`"
 msgstr ""
+
+#: ../../commander_banned.rst:48
+msgid ":mtgtip:`Shahrazad`"
+msgstr ""
+
+#: ../../commander_banned.rst:49
+msgid ":mtgtip:`Sway of the Stars`"
+msgstr ""
+
+#: ../../commander_banned.rst:50
+msgid ":mtgtip:`Sundering Titan`"
+msgstr ""
+
+#: ../../commander_banned.rst:51
+msgid ":mtgtip:`Sylvan Primordial`"
+msgstr ""
+
+#: ../../commander_banned.rst:52
+msgid ":mtgtip:`Time Vault`"
+msgstr ""
+
+#: ../../commander_banned.rst:53
+msgid ":mtgtip:`Time Walk`"
+msgstr ""
+
+#: ../../commander_banned.rst:54
+msgid ":mtgtip:`Tinker`"
+msgstr ""
+
+#: ../../commander_banned.rst:55
+msgid ":mtgtip:`Tolarian Academy`"
+msgstr ""
+
+#: ../../commander_banned.rst:56
+msgid ":mtgtip:`Trade Secrets`"
+msgstr ""
+
+#: ../../commander_banned.rst:57
+msgid ":mtgtip:`Upheaval`"
+msgstr ""
+
+#: ../../commander_banned.rst:58
+msgid ":mtgtip:`Yawgmoth’s Bargain`"
+msgstr ""
+
+#: ../../commander_banned.rst:60
+msgid ""
+"The banned list is updated quarterly, with our announcements coming on the "
+"Monday before the prerelease."
+msgstr ""
+
+#: ../../commander_banned.rst:62
+msgid ""
+"There’s a channel for discussing the format philosophy `over on the RC "
+"Discord server <https://discord.gg/x5Q5PVg>`_. We look forward to you "
+"joining us."
+msgstr ""
+
+#~ msgid "Cards banned in Commander"
+#~ msgstr "Karty zbanowane w formacie Commander"
