@@ -59,12 +59,32 @@
    You draw X cards and you lose X life.
 
 
+:mtgtip:`"Dracula's Postal Service Malfunction"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/902abe4d-5c19-4c96-b825-e6cd4d954a84.jpg?1649421916|https://scryfall.com/card/snc/76/draculas-postal-service-malfunction?utm_source=api>`
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+
+   Mill two cards, then return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)
+
+
+:mtgtip:`"Cheez-Its Delivery"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f7cced2-390b-499f-ace3-e52fd53d4712.jpg?1649427088|https://scryfall.com/card/snc/83/cheez-its-delivery?utm_source=api>`
+   Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+
+   Search your library for a card, put that card into your hand, then shuffle.
+
+
 :mtgtip:`Incriminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/198ec497-4e95-4386-9ca4-35d2d3f59733.jpg?1649361655|https://scryfall.com/card/snc/84/incriminate?utm_source=api>`
    Choose two target creatures controlled by the same player. That player sacrifices one of them.
 
 
+:mtgtip:`Maestros Initiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db94f2a9-53be-449e-8240-77f013cdd7e3.jpg?1649424267|https://scryfall.com/card/snc/86/maestros-initiate?utm_source=api>`
+   |mana_4|\ |mana_ur|, Exile Maestros Initiate from your graveyard: Draw two cards, then discard a card.
+
+
 :mtgtip:`Murder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c13ac76-7cd9-456f-9b89-92bfa07c64c5.jpg?1649362504|https://scryfall.com/card/snc/88/murder?utm_source=api>`
    Destroy target creature.
+
+
+:mtgtip:`Arcane Bombardment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1649423995|https://scryfall.com/card/snc/101/arcane-bombardment?utm_source=api>`
+   Whenever you cast your first instant or sorcery spell each turn, exile an instant or sorcery card at random from your graveyard. Then copy each card exiled with Arcane Bombardment. You may cast any number of the copies without paying their mana costs.
 
 
 :mtgtip:`Devilish Valet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45d3fc69-6c5e-4ede-9f8d-c1cee096a78a.jpg?1649362558|https://scryfall.com/card/snc/105/devilish-valet?utm_source=api>`
@@ -83,6 +103,14 @@
    Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)
 
    Light 'Em Up deals 2 damage to target creature or planeswalker.
+
+
+:mtgtip:`Professional Face-Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1649424180|https://scryfall.com/card/snc/116/professional-face-breaker?utm_source=api>`
+   Menace
+
+   Whenever one or more creatures you control deal combat damage to a player, create a Treasure token.
+
+   Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.
 
 
 :mtgtip:`Strangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b91d727-c0ee-4bf0-8c7d-8475ecb88083.jpg?1649362516|https://scryfall.com/card/snc/125/strangle?utm_source=api>`
@@ -115,6 +143,14 @@
    • You gain 2 life.
 
 
+:mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1649425255|https://scryfall.com/card/snc/162/vivien-on-the-hunt?utm_source=api>`
+   +2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.
+
+   +1: Mill five cards, then put any number of creature cards milled this way into your hand.
+
+   −1: Create a 4/4 green Rhino Warrior creature token.
+
+
 :mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1648555799|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`
    At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
 
@@ -145,6 +181,14 @@
    Disciplined Duelist enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 
 
+:mtgtip:`Evelyn, the Covetous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0dad61f-36cd-46af-82b7-a02e04efd676.jpg?1649424996|https://scryfall.com/card/snc/184/evelyn-the-covetous?utm_source=api>`
+   Flash
+
+   Whenever Evelyn, the Covetous or another vampire enters the battlefield under your control, exile the top card of each player's library with a collection counter on it.
+
+   Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were any color to cast it.
+
+
 :mtgtip:`Falco Spara, Pactweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1649364262|https://scryfall.com/card/snc/186/falco-spara-pactweaver?utm_source=api>`
    Flying, trample
 
@@ -171,6 +215,10 @@
    When Lord Xander dies, target opponent sacrifices half the nonland permanents they control, rounded down.
 
 
+:mtgtip:`"Maestros' Dominion"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/469a0f03-7874-453d-b9e4-275c13244f4a.jpg?1649423244|https://scryfall.com/card/snc/198/maestros-dominion?utm_source=api>`
+   Once during each of your turns, you may cast an instant or sorcery spell from your graveyard by sacrificing a creature in addition to paying its other costs. If a spell cast this way would be put into your graveyard, exile it instead.
+
+
 :mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56.jpg?1648500160|https://scryfall.com/card/snc/199/maestros-charm?utm_source=api>`
    Choose one —
 
@@ -179,6 +227,12 @@
    • Each opponent loses 3 life and you gain 3 life.
 
    • Maestros Charm deals 5 damage to target creature or planeswalker.
+
+
+:mtgtip:`Maestros Diabolist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7206db10-e248-420d-bf92-4d57bc72da56.jpg?1649424967|https://scryfall.com/card/snc/200/maestros-diabolist?utm_source=api>`
+   Deathtouch, haste
+
+   Whenever Maestros Diabolist attacks, if you don't control a Devil token, create a tapped and attacking 1/1 red Devil creature token with "When this creature dies, it deals 1 damage to any target."
 
 
 :mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1649366630|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`
@@ -251,7 +305,7 @@
    Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Maestros Theater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51eb4a44-a5c8-49ed-b440-2462626bb638.jpg?1649402301|https://scryfall.com/card/snc/251/maestros-theater?utm_source=api>`
+:mtgtip:`Maestros Theater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51eb4a44-a5c8-49ed-b440-2462626bb638.jpg?1649422012|https://scryfall.com/card/snc/251/maestros-theater?utm_source=api>`
    When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
 
 
@@ -339,15 +393,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/890e23d7-f4db-437d-bfe4-be35f0a443b3.jpg?1649362945|https://scryfall.com/card/snc/347/vivien-on-the-hunt?utm_source=api>`
-   +2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.
-
-   +1: Mill five cards, then put any number of creature cards milled this way into your hand.
-
-   −1: Create a 4/4 green Rhino Warrior creature token.
-
-
-:mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31dc7d21-e56a-4758-b5a0-3acd7eb8c367.jpg?1649364725|https://scryfall.com/card/snc/386/nimble-larcenist?utm_source=api>`
+:mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31dc7d21-e56a-4758-b5a0-3acd7eb8c367.jpg?1649434113|https://scryfall.com/card/snc/386/nimble-larcenist?utm_source=api>`
    Flying
 
    When Nimble Larcenist enters the battlefield, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card.

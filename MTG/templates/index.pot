@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-07 21:01+0200\n"
+"POT-Creation-Date: 2022-04-08 22:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../progress.rst:1
-#: ../../progress.rst:1
 #: ../../progress.rst:1
 #: ../../progress.rst:1
 msgid "p05"
@@ -209,6 +207,8 @@ msgstr ""
 #: ../../percentages.inc:275
 #: ../../percentages.inc:346
 #: ../../percentages.inc:216
+#: ../../progress.rst:20
+#: ../../progress.rst:20
 #: ../../percentages.inc:331
 #: ../../percentages.inc:378
 #: ../../percentages.inc:269
@@ -749,11 +749,11 @@ msgid "Zasady"
 msgstr ""
 
 #: ../../index.rst:141
-msgid ":doc:`Filozofia formatu Commander (Dowódca)<commander_philosophy>` |p05|"
+msgid ":doc:`Filozofia formatu Commander (Dowódca)<commander_philosophy>` |p100|"
 msgstr ""
 
 #: ../../index.rst:142
-msgid ":doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p05|"
+msgid ":doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p100|"
 msgstr ""
 
 #: ../../index.rst:143
