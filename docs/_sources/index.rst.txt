@@ -138,8 +138,8 @@ Commander i podobne
 Zasady
 ~~~~~~
 
-* :doc:`Filozofia formatu Commander (Dowódca)<commander_philosophy>` |p05|
-* :doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p05|
+* :doc:`Filozofia formatu Commander (Dowódca)<commander_philosophy>` |p100|
+* :doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p100|
 * :doc:`Lista zbanowanych kart<commander_banned>` |p05|
 
 :doc:`Lista dodatków dla formatu Commander<commander>`

@@ -1,6 +1,5 @@
 .. include:: symbols.rst
 
-
 Commander Banned List
 =====================
 
