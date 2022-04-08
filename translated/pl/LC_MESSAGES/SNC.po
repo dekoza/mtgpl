@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-08 10:40+0200\n"
-"PO-Revision-Date: 2022-03-31 09:33+0000\n"
+"PO-Revision-Date: 2022-04-08 15:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -246,6 +246,9 @@ msgid ""
 "+1: Choose up to one target creature. Put a +1/+1 counter and a counter from "
 "among flying, first strike, lifelink, or vigilance on it."
 msgstr ""
+"+1: Wybierz co najwyżej jednego wskazanego stwora. Umieść na nim znacznik +1/"
+"+1 oraz jeden znacznik spośród latania, pierwszego ciosu, więzi życia i "
+"czujności."
 
 #: ../../SNC.rst:11
 msgid ""
@@ -254,10 +257,13 @@ msgid ""
 "shield counter on it. Put the rest on the bottom of your library in a random "
 "order."
 msgstr ""
+"–3: Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić "
+"spośród nich kartę bytu o skrócie many 3 lub mniejszym na polu bitwy ze "
+"znacznikiem tarczy. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../SNC.rst:13
 msgid "−7: Create five 3/3 white Angel creature tokens with flying."
-msgstr ""
+msgstr "–7: Stwórz pięć żetonów białego stwora Anioł 3/3 z lataniem."
 
 #: ../../SNC.rst:22
 msgid ""
@@ -267,24 +273,28 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:17
-#, fuzzy
-#| msgid "Create two 1/1 green and white Citizen creature tokens."
 msgid ""
 "|mana_w|, |tap|, Untap a tapped creature you control: Create a 1/1 green and "
 "white Citizen creature token."
-msgstr "Stwórz dwa żetony zielono-białego stwora Mieszczanin 1/1."
+msgstr ""
+"|mana_w|, |tap|, odkręć przekręconego stwora pod twoim władaniem: Stwórz "
+"żetony zielono-białego stwora Mieszczanin 1/1."
 
 #: ../../SNC.rst:19
 msgid ""
 "|mana_w|\\ |mana_w|, |tap|, Untap two tapped creatures you control: Draw a "
 "card."
 msgstr ""
+"|mana_w|\\ |mana_w|, |tap|, odkręć dwa przekręcone stwory pod twoim "
+"władaniem: Dobierz kartę."
 
 #: ../../SNC.rst:21
 msgid ""
 "|mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|, |tap|, Untap fifteen "
 "tapped creatures you control: You win the game."
 msgstr ""
+"|mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|, |tap|, odkręć "
+"piętnaście przekręconych stworów pod twoim władaniem: Wygrywasz grę."
 
 #: ../../SNC.rst:28
 msgid ""
@@ -300,10 +310,14 @@ msgid ""
 "If a creature is put into exile this way, return each other card exiled with "
 "Mysterious Limousine to the battlefield under its owner's control."
 msgstr ""
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, wygnaj co najwyżej "
+"jednego wskazanego stwora do czasu opuszczenia przez ten byt pola bitwy. "
+"Jeśli stwór zostanie wygnany w ten sposób, przywróć każdą inną kartę wygnaną "
+"tym bytem na pole bitwy pod władaniem właściciela."
 
 #: ../../SNC.rst:27
 msgid "Crew 2"
-msgstr ""
+msgstr "Załoga 2"
 
 #: ../../SNC.rst:32
 msgid ""
@@ -318,6 +332,9 @@ msgid ""
 "control, scry 1. If this is the second time this ability has resolved this "
 "turn, draw a card instead."
 msgstr ""
+"Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, wróż "
+"1. Jeśli ta zdolność jest rozpatrzona drugi raz w tej turze, zamiast tego "
+"dobierz kartę."
 
 #: ../../SNC.rst:38
 msgid ""
@@ -328,7 +345,7 @@ msgstr ""
 
 #: ../../SNC.rst:35 ../../SNC.rst:221 ../../SNC.rst:347
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../SNC.rst:37
 msgid ""
@@ -351,16 +368,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:43
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. Put one of those cards into "
-#| "your hand and the rest into your graveyard."
 msgid ""
 "Look at the top two cards of your library. Put one of them into your hand "
 "and the other on the bottom of your library."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść jedną z nich w "
-"twojej ręce, a pozostałe w twoim cmentarzu."
+"Spójrz na dwie wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a drugą na spodzie twojej biblioteki."
 
 #: ../../SNC.rst:48
 msgid ""
@@ -376,6 +389,9 @@ msgid ""
 "tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one "
 "mana of any color.\")"
 msgstr ""
+"Skontruj wskazany niestworowy czar. Jego władca tworzy dwa żetony Skarbu. ("
+"To artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../SNC.rst:54
 msgid ""
@@ -390,6 +406,9 @@ msgid ""
 "five cards of your library, exile one face down, then put the rest on the "
 "bottom in a random order.)"
 msgstr ""
+"Kryjówka 5 (Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich "
+"kart twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../SNC.rst:53
 msgid ""
@@ -413,7 +432,7 @@ msgstr ""
 
 #: ../../SNC.rst:59
 msgid "You draw X cards and you lose X life."
-msgstr ""
+msgstr "Dobierz X kart i strać X żyć."
 
 #: ../../SNC.rst:64
 msgid ""
@@ -437,7 +456,7 @@ msgstr ""
 
 #: ../../SNC.rst:67
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../SNC.rst:74
 msgid ""
@@ -448,7 +467,7 @@ msgstr ""
 
 #: ../../SNC.rst:71
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../SNC.rst:73
 msgid ""
@@ -521,7 +540,7 @@ msgstr ""
 
 #: ../../SNC.rst:93 ../../SNC.rst:231
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../SNC.rst:95
 msgid ""
@@ -584,7 +603,7 @@ msgstr ""
 
 #: ../../SNC.rst:115
 msgid "You gain 2 life."
-msgstr ""
+msgstr "Zyskaj 2 życia."
 
 #: ../../SNC.rst:120
 msgid ""
@@ -622,11 +641,11 @@ msgstr ""
 
 #: ../../SNC.rst:127
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../SNC.rst:129
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../SNC.rst:140
 msgid ""
@@ -660,7 +679,7 @@ msgstr ""
 
 #: ../../SNC.rst:143
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../SNC.rst:145
 msgid ""
@@ -678,7 +697,7 @@ msgstr ""
 
 #: ../../SNC.rst:149
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../SNC.rst:151
 #, fuzzy
@@ -690,6 +709,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../SNC.rst:153
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../SNC.rst:155
 msgid ""
@@ -705,28 +725,28 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:159
-#, fuzzy
-#| msgid "Creatures you control get +1/+1 and gain trample until end of turn."
 msgid ""
 "Creatures you control get +1/+0 and have vigilance as long as you control "
 "three or more creatures."
-msgstr "Stwory pod twoim władaniem do końca tury dostają +1/+1 i tratowanie."
+msgstr ""
+"Stwory pod twoim władaniem dostają +1/+0 i mają czujność o ile władasz co "
+"najmniej trzema stworami."
 
 #: ../../SNC.rst:161
-#, fuzzy
-#| msgid "Creatures you control get +1/+1 and gain trample until end of turn."
 msgid ""
 "Creatures you control also get +1/+0 and have trample as long as you control "
 "six or more creatures."
-msgstr "Stwory pod twoim władaniem do końca tury dostają +1/+1 i tratowanie."
+msgstr ""
+"Stwory pod twoim władaniem dostają także +1/+0 i mają tratowanie o ile "
+"władasz co najmniej sześcioma stworami."
 
 #: ../../SNC.rst:163
-#, fuzzy
-#| msgid "Creatures you control get +1/+1 and gain trample until end of turn."
 msgid ""
 "Creatures you control also get +1/+0 and have double strike as long as you "
 "control nine or more creatures."
-msgstr "Stwory pod twoim władaniem do końca tury dostają +1/+1 i tratowanie."
+msgstr ""
+"Stwory pod twoim władaniem dostają także +1/+0 i mają podwójny cios o ile "
+"władasz co najmniej dziewięcioma stworami."
 
 #: ../../SNC.rst:172
 msgid ""
@@ -803,6 +823,8 @@ msgid ""
 "−2: Create a 1/1 red Devil creature token with \"When this creature dies, it "
 "deals 1 damage to any target.\""
 msgstr ""
+"–2: Stwórz żeton czerwonego stwora Diabeł 1/1 mający \"Kiedy ten stwór "
+"umrze, zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../SNC.rst:191
 msgid "−7: Target player draws seven cards and loses 7 life."
@@ -870,7 +892,7 @@ msgstr ""
 
 #: ../../SNC.rst:217
 msgid "Exile target player's graveyard."
-msgstr ""
+msgstr "Wygnaj cmentarz wskazanego gracza."
 
 #: ../../SNC.rst:224
 msgid ""
@@ -915,7 +937,7 @@ msgstr ""
 
 #: ../../SNC.rst:235
 msgid "Crew 1"
-msgstr ""
+msgstr "Załoga 1"
 
 #: ../../SNC.rst:244
 msgid ""
@@ -931,10 +953,8 @@ msgid "Botanical Plaza enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SNC.rst:241
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "(|tap|: Weź |mana_r|, |mana_g|, lub |mana_w|.)"
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../SNC.rst:243
 msgid ""
@@ -976,10 +996,8 @@ msgid "Racers' Ring enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SNC.rst:257
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "(|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|.)"
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../SNC.rst:259
 msgid ""
@@ -1015,10 +1033,8 @@ msgid "Skybridge Towers enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SNC.rst:273
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "(|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|.)"
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../SNC.rst:275
 msgid ""
@@ -1055,10 +1071,8 @@ msgid "Tramway Station enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SNC.rst:289
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "(|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|.)"
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../SNC.rst:291
 msgid ""
@@ -1080,10 +1094,8 @@ msgid "Waterfront District enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SNC.rst:297
-#, fuzzy
-#| msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "(|tap|: Weź |mana_w|, |mana_u|, lub |mana_b|.)"
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../SNC.rst:299
 msgid ""
