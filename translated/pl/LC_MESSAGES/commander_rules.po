@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-09 20:08+0200\n"
-"PO-Revision-Date: 2022-04-08 16:41+0000\n"
+"PO-Revision-Date: 2022-04-09 18:10+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/"
 "commander_rules/pl/>\n"
@@ -214,10 +214,8 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
-#, fuzzy
-#| msgid "{(g/u)}"
 msgid "{(g/u/p)}"
-msgstr "{(g/u)}"
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
@@ -303,12 +301,6 @@ msgid "Players begin the game with 40 life."
 msgstr "Gracze zaczynają mając 40 żyć."
 
 #: ../../commander_rules.rst:23
-#, fuzzy
-#| msgid ""
-#| "Commanders begin the game in the Command Zone. While a commander is in "
-#| "the command zone, it may be cast, subject to the normal timing "
-#| "restrictions for casting creatures. Its owner must pay for each time it "
-#| "was previously cast from the command zone; this is an additional cost."
 msgid ""
 "Commanders begin the game in the Command Zone. While a commander is in the "
 "command zone, it may be cast, subject to the normal timing restrictions for "
