@@ -1,3 +1,5 @@
+.. include:: symbols.rst
+
 Commander Rules
 ===============
 
