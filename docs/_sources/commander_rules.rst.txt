@@ -20,7 +20,7 @@ Play Rules
 ----------
 
 #. Players begin the game with 40 life.
-#. Commanders begin the game in the Command Zone. While a commander is in the command zone, it may be cast, subject to the normal timing restrictions for casting creatures. Its owner must pay for each time it was previously cast from the command zone; this is an additional cost.
+#. Commanders begin the game in the Command Zone. While a commander is in the command zone, it may be cast, subject to the normal timing restrictions for casting creatures. Its owner must pay |mana_2| for each time it was previously cast from the command zone; this is an additional cost.
 #. If a commander is in a graveyard or in exile and that card was put into that zone since the last time state-based actions were checked, its owner may put it into the command zone. If a commander would be put into its owner’s hand or library from anywhere, its owner may put it into the command zone instead. This replacement effect may apply more than once to the same event.
 #. Being a commander is not a characteristic [MTG CR109.3], it is a property of the card and tied directly to the physical card. As such, “commander-ness” cannot be copied or overwritten by continuous effects. The card retains it’s commander-ness through any status changes, and is still a commander even when controlled by another player.
 #. If a player has been dealt 21 points of combat damage by a particular Commander during the game, that player loses a game.
