@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 22:15+0200\n"
+"POT-Creation-Date: 2022-04-09 19:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,8 @@ msgstr ""
 msgid "{C}"
 msgstr ""
 
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
@@ -65,6 +67,8 @@ msgstr ""
 #: ../../symbols.rst:9
 #: ../../symbols.rst:9
 #: ../../symbols.rst:9
+#: ../../symbols.rst:9
+#: ../../symbols.rst:9
 msgid "{U}"
 msgstr ""
 
@@ -99,6 +103,7 @@ msgstr ""
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
+#: ../../symbols.rst:13
 msgid "{B}"
 msgstr ""
 
@@ -115,6 +120,7 @@ msgstr ""
 msgid "{G}"
 msgstr ""
 
+#: ../../symbols.rst:17
 #: ../../symbols.rst:17
 #: ../../symbols.rst:17
 #: ../../symbols.rst:17
@@ -185,9 +191,14 @@ msgstr ""
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
+#: ../../symbols.rst:45
+#: ../../symbols.rst:45
+#: ../../symbols.rst:45
+#: ../../symbols.rst:45
 msgid "{1}"
 msgstr ""
 
+#: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
@@ -333,757 +344,904 @@ msgstr ""
 msgid ":mtgexp:`SNC` Streets of New Capenna"
 msgstr ""
 
-#: ../../SNC.rst:14
-msgid ":mtgtip:`Elspeth Resplendent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1649359041|https://scryfall.com/card/snc/11/elspeth-resplendent?utm_source=api>`"
+#: ../../SNC.rst:10
+msgid ":mtgtip:`\"Power Couple\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf5615a2-03a2-41f4-ab3b-de5e60d1504e.jpg?1649506374|https://scryfall.com/card/snc/3/power-couple?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:9
-msgid "+1: Choose up to one target creature. Put a +1/+1 counter and a counter from among flying, first strike, lifelink, or vigilance on it."
+msgid "Whenever \"Power Couple\" attacks, \"Power Couple\" and up to one other target creature you control each gain your choice of first strike or lifelink until end of turn."
 msgstr ""
 
-#: ../../SNC.rst:11
-msgid "−3: Look at the top seven cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield with a shield counter on it. Put the rest on the bottom of your library in a random order."
+#: ../../SNC.rst:18
+msgid ":mtgtip:`Elspeth Resplendent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1649359041|https://scryfall.com/card/snc/11/elspeth-resplendent?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:13
-msgid "−7: Create five 3/3 white Angel creature tokens with flying."
+msgid "+1: Choose up to one target creature. Put a +1/+1 counter and a counter from among flying, first strike, lifelink, or vigilance on it."
 msgstr ""
 
-#: ../../SNC.rst:22
-msgid ":mtgtip:`Halo Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1649358920|https://scryfall.com/card/snc/15/halo-fountain?utm_source=api>`"
+#: ../../SNC.rst:15
+msgid "−3: Look at the top seven cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield with a shield counter on it. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../SNC.rst:17
-msgid "|mana_w|, |tap|, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token."
+msgid "−7: Create five 3/3 white Angel creature tokens with flying."
 msgstr ""
 
-#: ../../SNC.rst:19
-msgid "|mana_w|\\ |mana_w|, |tap|, Untap two tapped creatures you control: Draw a card."
+#: ../../SNC.rst:26
+msgid ":mtgtip:`Halo Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1649358920|https://scryfall.com/card/snc/15/halo-fountain?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:21
-msgid "|mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|, |tap|, Untap fifteen tapped creatures you control: You win the game."
+msgid "|mana_w|, |tap|, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token."
 msgstr ""
 
-#: ../../SNC.rst:28
-msgid ":mtgtip:`Mysterious Limousine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a58cb742-0ba7-4795-9772-25d4db0bc4ce.jpg?1649360334|https://scryfall.com/card/snc/22/mysterious-limousine?utm_source=api>`"
+#: ../../SNC.rst:23
+msgid "|mana_w|\\ |mana_w|, |tap|, Untap two tapped creatures you control: Draw a card."
 msgstr ""
 
 #: ../../SNC.rst:25
+msgid "|mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|\\ |mana_w|, |tap|, Untap fifteen tapped creatures you control: You win the game."
+msgstr ""
+
+#: ../../SNC.rst:30
+msgid ":mtgtip:`Mage's Attendant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cce08e8-340b-4a67-9884-4cbf01d63790.jpg?1649471626|https://scryfall.com/card/snc/21/mages-attendant?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:29
+msgid "When Mage's Attendant enters the battlefield, create a 1/1 blue Wizard creature token with \"|mana_1|, Sacrifice this creature: Counter target noncreature spell unless its controller pays |mana_1|.\""
+msgstr ""
+
+#: ../../SNC.rst:36
+msgid ":mtgtip:`Mysterious Limousine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a58cb742-0ba7-4795-9772-25d4db0bc4ce.jpg?1649360334|https://scryfall.com/card/snc/22/mysterious-limousine?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:33
 msgid "Whenever Mysterious Limousine enters the battlefield or attacks, exile up to one other target creature until Mysterious Limousine leaves the battlefield. If a creature is put into exile this way, return each other card exiled with Mysterious Limousine to the battlefield under its owner's control."
 msgstr ""
 
-#: ../../SNC.rst:27
+#: ../../SNC.rst:35
 msgid "Crew 2"
 msgstr ""
 
-#: ../../SNC.rst:32
+#: ../../SNC.rst:40
 msgid ":mtgtip:`Rumor Gatherer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8b87807-cac5-4e33-a8ed-a9ced0cd83a1.jpg?1649361290|https://scryfall.com/card/snc/29/rumor-gatherer?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:31
+#: ../../SNC.rst:39
 msgid "Alliance — Whenever another creature enters the battlefield under your control, scry 1. If this is the second time this ability has resolved this turn, draw a card instead."
 msgstr ""
 
-#: ../../SNC.rst:38
-msgid ":mtgtip:`Ledger Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1649362618|https://scryfall.com/card/snc/46/ledger-shredder?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:35
-#: ../../SNC.rst:275
-#: ../../SNC.rst:397
-msgid "Flying"
-msgstr ""
-
-#: ../../SNC.rst:37
-msgid "Whenever a player casts their second spell each turn, Ledger Shredder connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)"
-msgstr ""
-
-#: ../../SNC.rst:44
-msgid ":mtgtip:`A Little Chat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d7424b6-b56a-47b7-8204-294d3dca925f.jpg?1649366594|https://scryfall.com/card/snc/47/a-little-chat?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:41
-msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)"
+#: ../../SNC.rst:48
+msgid ":mtgtip:`\"HE THAT SEES YOU WHEN YOU'RE SLEEPING\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1649441876|https://scryfall.com/card/snc/34/he-that-sees-you-when-youre-sleeping?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:43
-msgid "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
+#: ../../SNC.rst:67
+#: ../../SNC.rst:73
+#: ../../SNC.rst:359
+#: ../../SNC.rst:481
+msgid "Flying"
 msgstr ""
 
-#: ../../SNC.rst:48
-msgid ":mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649394290|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`"
+#: ../../SNC.rst:45
+msgid "Whenever \"HE THAT SEES YOU WHEN YOU'RE SLEEPING\" enters the battlefield or attacks, draw two cards, then discard a card."
 msgstr ""
 
 #: ../../SNC.rst:47
-msgid "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgid "Whenever you discard a card, target creature an opponent controls gets -X/-0 until your next turn, where X is the number of different mana values among cards in your graveyard."
 msgstr ""
 
 #: ../../SNC.rst:54
-msgid ":mtgtip:`Wiretapping<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/859ed6fc-1f9a-428d-82d8-8e4b5bae6d5a.jpg?1649362529|https://scryfall.com/card/snc/65/wiretapping?utm_source=api>`"
+msgid ":mtgtip:`Cut Your Losses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31184dd0-4080-44c1-a3e0-f6d10a4d1fcb.jpg?1649471806|https://scryfall.com/card/snc/38/cut-your-losses?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:51
-msgid "Hideaway 5 (When this enchantment enters the battlefield, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)"
-msgstr ""
-
-#: ../../SNC.rst:53
-msgid "Whenever you draw your first card during each of your draw steps, draw a card. Then if you have nine or more cards in hand, you may play the exiled card without paying its mana cost."
-msgstr ""
-
-#: ../../SNC.rst:60
-msgid ":mtgtip:`Cut of the Profits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80e86078-1629-40dc-88a9-102c543255b8.jpg?1649356227|https://scryfall.com/card/snc/72/cut-of-the-profits?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:57
-msgid "Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell.)"
-msgstr ""
-
-#: ../../SNC.rst:59
-msgid "You draw X cards and you lose X life."
-msgstr ""
-
-#: ../../SNC.rst:66
-msgid ":mtgtip:`\"Dracula's Postal Service Malfunction\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/902abe4d-5c19-4c96-b825-e6cd4d954a84.jpg?1649421916|https://scryfall.com/card/snc/76/draculas-postal-service-malfunction?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:63
-msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
-msgstr ""
-
-#: ../../SNC.rst:65
-msgid "Mill two cards, then return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)"
-msgstr ""
-
-#: ../../SNC.rst:72
-msgid ":mtgtip:`\"Cheez-Its Delivery\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f7cced2-390b-499f-ace3-e52fd53d4712.jpg?1649427088|https://scryfall.com/card/snc/83/cheez-its-delivery?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:69
-msgid "Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
-msgstr ""
-
-#: ../../SNC.rst:71
-msgid "Search your library for a card, put that card into your hand, then shuffle."
-msgstr ""
-
-#: ../../SNC.rst:76
-msgid ":mtgtip:`Incriminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/198ec497-4e95-4386-9ca4-35d2d3f59733.jpg?1649361655|https://scryfall.com/card/snc/84/incriminate?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:75
-msgid "Choose two target creatures controlled by the same player. That player sacrifices one of them."
-msgstr ""
-
-#: ../../SNC.rst:80
-msgid ":mtgtip:`Maestros Initiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db94f2a9-53be-449e-8240-77f013cdd7e3.jpg?1649424267|https://scryfall.com/card/snc/86/maestros-initiate?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:79
-msgid "|mana_4|\\ |mana_ur|, Exile Maestros Initiate from your graveyard: Draw two cards, then discard a card."
-msgstr ""
-
-#: ../../SNC.rst:84
-msgid ":mtgtip:`Murder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c13ac76-7cd9-456f-9b89-92bfa07c64c5.jpg?1649362504|https://scryfall.com/card/snc/88/murder?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:83
-msgid "Destroy target creature."
-msgstr ""
-
-#: ../../SNC.rst:88
-msgid ":mtgtip:`Arcane Bombardment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1649423995|https://scryfall.com/card/snc/101/arcane-bombardment?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:87
-msgid "Whenever you cast your first instant or sorcery spell each turn, exile an instant or sorcery card at random from your graveyard. Then copy each card exiled with Arcane Bombardment. You may cast any number of the copies without paying their mana costs."
-msgstr ""
-
-#: ../../SNC.rst:94
-msgid ":mtgtip:`Devilish Valet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45d3fc69-6c5e-4ede-9f8d-c1cee096a78a.jpg?1649362558|https://scryfall.com/card/snc/105/devilish-valet?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:91
-msgid "Trample, haste"
-msgstr ""
-
-#: ../../SNC.rst:93
-msgid "Alliance — Whenever another creature enters the battlefield under your control, double Devilish Valet's power until end of turn."
-msgstr ""
-
-#: ../../SNC.rst:100
-msgid ":mtgtip:`Jaxis, the Troublemaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78127c0c-672f-4e4b-9c23-6a5f237228fd.jpg?1649362331|https://scryfall.com/card/snc/112/jaxis-the-troublemaker?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:97
-msgid "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another target creature you control. It gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step. Activate only as a sorcery."
-msgstr ""
-
-#: ../../SNC.rst:99
-msgid "Blitz |mana_1|\\ |mana_r| (If you cast this spell for its blitz cost, it gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../SNC.rst:106
-msgid ":mtgtip:`Light 'Em Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee31d56a-9b7e-4de0-81cb-3b7c76b6fbd5.jpg?1649364797|https://scryfall.com/card/snc/113/light-em-up?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:103
+#: ../../SNC.rst:129
+#: ../../SNC.rst:159
 msgid "Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
 msgstr ""
 
-#: ../../SNC.rst:105
-msgid "Light 'Em Up deals 2 damage to target creature or planeswalker."
+#: ../../SNC.rst:53
+msgid "Target player mills half their library, rounded down."
 msgstr ""
 
-#: ../../SNC.rst:114
-msgid ":mtgtip:`Professional Face-Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1649424180|https://scryfall.com/card/snc/116/professional-face-breaker?utm_source=api>`"
+#: ../../SNC.rst:62
+msgid ":mtgtip:`Errant, Street Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61d23407-9fe0-4cbf-b4b5-bc1e132c36e4.jpg?1649492081|https://scryfall.com/card/snc/41/errant-street-artist?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:109
-msgid "Menace"
-msgstr ""
-
-#: ../../SNC.rst:111
-msgid "Whenever one or more creatures you control deal combat damage to a player, create a Treasure token."
-msgstr ""
-
-#: ../../SNC.rst:113
-msgid "Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
-msgstr ""
-
-#: ../../SNC.rst:118
-msgid ":mtgtip:`Strangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b91d727-c0ee-4bf0-8c7d-8475ecb88083.jpg?1649362516|https://scryfall.com/card/snc/125/strangle?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:117
-msgid "Strangle deals 3 damage to target creature or planeswalker."
-msgstr ""
-
-#: ../../SNC.rst:126
-msgid ":mtgtip:`Urabrask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649394243|https://scryfall.com/card/snc/129/urabrask-heretic-praetor?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:121
-#: ../../SNC.rst:285
-msgid "Haste"
-msgstr ""
-
-#: ../../SNC.rst:123
-msgid "At the beginning of your upkeep, exile the top card of your library. You may play it this turn."
-msgstr ""
-
-#: ../../SNC.rst:125
-msgid "At the beginning of each opponent's upkeep, the next time they would draw a card this turn, instead they exile the top card of their library. They may play it this turn."
-msgstr ""
-
-#: ../../SNC.rst:134
-msgid ":mtgtip:`Courier's Briefcase<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f375674-7ae2-4430-b1f3-c26fa5b201d1.jpg?1649362137|https://scryfall.com/card/snc/142/couriers-briefcase?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:129
-msgid "When Courier's Briefcase enters the battlefield, create a 1/1 green and white Citizen creature token."
-msgstr ""
-
-#: ../../SNC.rst:131
-msgid "|tap|, Sacrifice Courier's Briefcase: Add one mana of any color."
-msgstr ""
-
-#: ../../SNC.rst:133
-msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Courier's Briefcase: Draw three cards."
-msgstr ""
-
-#: ../../SNC.rst:144
-msgid ":mtgtip:`Gala Greeters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c1baaa2-bd0b-4627-b93a-0753e0acd0f2.jpg?1649367269|https://scryfall.com/card/snc/148/gala-greeters?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:137
-msgid "Alliance — Whenever another creature enters the battlefield under your control, choose one that hasn't been chosen this turn—"
-msgstr ""
-
-#: ../../SNC.rst:139
-msgid "Put a +1/+1 counter on Gala Greeters."
-msgstr ""
-
-#: ../../SNC.rst:141
-msgid "Create a tapped Treasure token."
-msgstr ""
-
-#: ../../SNC.rst:143
-msgid "You gain 2 life."
-msgstr ""
-
-#: ../../SNC.rst:152
-msgid ":mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1649425255|https://scryfall.com/card/snc/162/vivien-on-the-hunt?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:147
-msgid "+2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle."
-msgstr ""
-
-#: ../../SNC.rst:149
-msgid "+1: Mill five cards, then put any number of creature cards milled this way into your hand."
-msgstr ""
-
-#: ../../SNC.rst:151
-msgid "−1: Create a 4/4 green Rhino Warrior creature token."
-msgstr ""
-
-#: ../../SNC.rst:156
-msgid ":mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1648555799|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:155
-msgid "At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control."
-msgstr ""
-
-#: ../../SNC.rst:166
-msgid ":mtgtip:`Brokers Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74c9c315-1cf4-468e-a74a-b5f3be4a63a1.jpg?1649176850|https://scryfall.com/card/snc/171/brokers-charm?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:159
-#: ../../SNC.rst:169
-#: ../../SNC.rst:223
-#: ../../SNC.rst:249
-#: ../../SNC.rst:265
-msgid "Choose one —"
-msgstr ""
-
-#: ../../SNC.rst:161
-msgid "Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature or planeswalker an opponent controls."
-msgstr ""
-
-#: ../../SNC.rst:163
-msgid "Destroy target enchantment."
-msgstr ""
-
-#: ../../SNC.rst:165
-msgid "Draw two cards."
-msgstr ""
-
-#: ../../SNC.rst:176
-msgid ":mtgtip:`Cabaretti Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08f33c8a-8e93-4296-964b-da132a854b3b.jpg?1648677718|https://scryfall.com/card/snc/173/cabaretti-charm?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:171
-msgid "Cabaretti Charm deals damage equal to the number of creatures you control to target creature or planeswalker."
-msgstr ""
-
-#: ../../SNC.rst:173
-msgid "Creatures you control get +1/+1 and gain trample until end of turn."
-msgstr ""
-
-#: ../../SNC.rst:175
-msgid "Create two 1/1 green and white Citizen creature tokens."
-msgstr ""
-
-#: ../../SNC.rst:182
-msgid ":mtgtip:`Disciplined Duelist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e23cdb0a-e114-47f8-aceb-c54c4683bbc5.jpg?1649366698|https://scryfall.com/card/snc/182/disciplined-duelist?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:179
-msgid "Double strike"
-msgstr ""
-
-#: ../../SNC.rst:181
-msgid "Disciplined Duelist enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)"
-msgstr ""
-
-#: ../../SNC.rst:190
-msgid ":mtgtip:`Evelyn, the Covetous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0dad61f-36cd-46af-82b7-a02e04efd676.jpg?1649424996|https://scryfall.com/card/snc/184/evelyn-the-covetous?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:185
+#: ../../SNC.rst:57
+#: ../../SNC.rst:65
+#: ../../SNC.rst:263
 msgid "Flash"
 msgstr ""
 
+#: ../../SNC.rst:59
+msgid "Defender, haste"
+msgstr ""
+
+#: ../../SNC.rst:61
+msgid "|mana_1|\\ |mana_u|, |tap|: Copy target spell you control that wasn't cast. You may choose new targets for the copy."
+msgstr ""
+
+#: ../../SNC.rst:70
+msgid ":mtgtip:`Faerie Vandal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7645247b-e65a-4912-ac22-e6a0fa806dd7.jpg?1649458885|https://scryfall.com/card/snc/44/faerie-vandal?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:69
+msgid "Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vandal."
+msgstr ""
+
+#: ../../SNC.rst:76
+msgid ":mtgtip:`Ledger Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1649362618|https://scryfall.com/card/snc/46/ledger-shredder?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:75
+msgid "Whenever a player casts their second spell each turn, Ledger Shredder connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)"
+msgstr ""
+
+#: ../../SNC.rst:82
+msgid ":mtgtip:`A Little Chat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d7424b6-b56a-47b7-8204-294d3dca925f.jpg?1649366594|https://scryfall.com/card/snc/47/a-little-chat?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:79
+#: ../../SNC.rst:173
+msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)"
+msgstr ""
+
+#: ../../SNC.rst:81
+msgid "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
+msgstr ""
+
+#: ../../SNC.rst:88
+msgid ":mtgtip:`Make Disappear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1649471769|https://scryfall.com/card/snc/49/make-disappear?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:85
+#: ../../SNC.rst:107
+#: ../../SNC.rst:113
+msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
+msgstr ""
+
+#: ../../SNC.rst:87
+msgid "Counter target spell unless its controller pays |mana_2|."
+msgstr ""
+
+#: ../../SNC.rst:92
+msgid ":mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649394290|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:91
+msgid "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgstr ""
+
+#: ../../SNC.rst:98
+msgid ":mtgtip:`Wiretapping<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/859ed6fc-1f9a-428d-82d8-8e4b5bae6d5a.jpg?1649362529|https://scryfall.com/card/snc/65/wiretapping?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:95
+#: ../../SNC.rst:487
+msgid "Hideaway 5 (When this enchantment enters the battlefield, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)"
+msgstr ""
+
+#: ../../SNC.rst:97
+msgid "Whenever you draw your first card during each of your draw steps, draw a card. Then if you have nine or more cards in hand, you may play the exiled card without paying its mana cost."
+msgstr ""
+
+#: ../../SNC.rst:104
+msgid ":mtgtip:`Cut of the Profits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80e86078-1629-40dc-88a9-102c543255b8.jpg?1649356227|https://scryfall.com/card/snc/72/cut-of-the-profits?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:101
+msgid "Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell.)"
+msgstr ""
+
+#: ../../SNC.rst:103
+msgid "You draw X cards and you lose X life."
+msgstr ""
+
+#: ../../SNC.rst:110
+msgid ":mtgtip:`\"Dracula's Postal Service Malfunction\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/902abe4d-5c19-4c96-b825-e6cd4d954a84.jpg?1649421916|https://scryfall.com/card/snc/76/draculas-postal-service-malfunction?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:109
+msgid "Mill two cards, then return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)"
+msgstr ""
+
+#: ../../SNC.rst:116
+msgid ":mtgtip:`Grisly Sigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6322e12d-b932-4ca1-a51d-e2a928140cc7.jpg?1649498742|https://scryfall.com/card/snc/82/grisly-sigil?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:115
+msgid "Choose target creature or planeswalker. If it was dealt noncombat damage this turn, Grisly Sigil deals 3 damage to it and you gain 3 life. Otherwise, Grisly Sigil deals 1 damage to it and you gain 1 life."
+msgstr ""
+
+#: ../../SNC.rst:122
+msgid ":mtgtip:`\"Cheez-Its Delivery\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f7cced2-390b-499f-ace3-e52fd53d4712.jpg?1649427088|https://scryfall.com/card/snc/83/cheez-its-delivery?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:119
+msgid "Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
+msgstr ""
+
+#: ../../SNC.rst:121
+msgid "Search your library for a card, put that card into your hand, then shuffle."
+msgstr ""
+
+#: ../../SNC.rst:126
+msgid ":mtgtip:`Incriminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/198ec497-4e95-4386-9ca4-35d2d3f59733.jpg?1649361655|https://scryfall.com/card/snc/84/incriminate?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:125
+msgid "Choose two target creatures controlled by the same player. That player sacrifices one of them."
+msgstr ""
+
+#: ../../SNC.rst:132
+msgid ":mtgtip:`Join the Maestros<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff2665f7-6cf8-4f9b-810e-17e264753225.jpg?1649471797|https://scryfall.com/card/snc/85/join-the-maestros?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:131
+msgid "Create a 4/3 black Ogre Warrior creature token."
+msgstr ""
+
+#: ../../SNC.rst:136
+msgid ":mtgtip:`Maestros Initiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db94f2a9-53be-449e-8240-77f013cdd7e3.jpg?1649424267|https://scryfall.com/card/snc/86/maestros-initiate?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:135
+msgid "|mana_4|\\ |mana_ur|, Exile Maestros Initiate from your graveyard: Draw two cards, then discard a card."
+msgstr ""
+
+#: ../../SNC.rst:140
+msgid ":mtgtip:`Murder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c13ac76-7cd9-456f-9b89-92bfa07c64c5.jpg?1649362504|https://scryfall.com/card/snc/88/murder?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:139
+msgid "Destroy target creature."
+msgstr ""
+
+#: ../../SNC.rst:144
+msgid ":mtgtip:`Arcane Bombardment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1649423995|https://scryfall.com/card/snc/101/arcane-bombardment?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:143
+msgid "Whenever you cast your first instant or sorcery spell each turn, exile an instant or sorcery card at random from your graveyard. Then copy each card exiled with Arcane Bombardment. You may cast any number of the copies without paying their mana costs."
+msgstr ""
+
+#: ../../SNC.rst:150
+msgid ":mtgtip:`Devilish Valet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45d3fc69-6c5e-4ede-9f8d-c1cee096a78a.jpg?1649362558|https://scryfall.com/card/snc/105/devilish-valet?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:147
+msgid "Trample, haste"
+msgstr ""
+
+#: ../../SNC.rst:149
+msgid "Alliance — Whenever another creature enters the battlefield under your control, double Devilish Valet's power until end of turn."
+msgstr ""
+
+#: ../../SNC.rst:156
+msgid ":mtgtip:`Jaxis, the Troublemaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78127c0c-672f-4e4b-9c23-6a5f237228fd.jpg?1649362331|https://scryfall.com/card/snc/112/jaxis-the-troublemaker?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:153
+msgid "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another target creature you control. It gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step. Activate only as a sorcery."
+msgstr ""
+
+#: ../../SNC.rst:155
+msgid "Blitz |mana_1|\\ |mana_r| (If you cast this spell for its blitz cost, it gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../SNC.rst:162
+msgid ":mtgtip:`Light 'Em Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee31d56a-9b7e-4de0-81cb-3b7c76b6fbd5.jpg?1649364797|https://scryfall.com/card/snc/113/light-em-up?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:161
+msgid "Light 'Em Up deals 2 damage to target creature or planeswalker."
+msgstr ""
+
+#: ../../SNC.rst:170
+msgid ":mtgtip:`Professional Face-Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1649424180|https://scryfall.com/card/snc/116/professional-face-breaker?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:165
+msgid "Menace"
+msgstr ""
+
+#: ../../SNC.rst:167
+msgid "Whenever one or more creatures you control deal combat damage to a player, create a Treasure token."
+msgstr ""
+
+#: ../../SNC.rst:169
+msgid "Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
+msgstr ""
+
+#: ../../SNC.rst:176
+msgid ":mtgtip:`Rob the Archives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3ec95f6-88c8-4daf-882f-8b4bc73452c3.jpg?1649498751|https://scryfall.com/card/snc/122/rob-the-archives?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:175
+msgid "Exile the top two cards of your library. You may play those cards this turn."
+msgstr ""
+
+#: ../../SNC.rst:180
+msgid ":mtgtip:`Strangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b91d727-c0ee-4bf0-8c7d-8475ecb88083.jpg?1649362516|https://scryfall.com/card/snc/125/strangle?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:179
+msgid "Strangle deals 3 damage to target creature or planeswalker."
+msgstr ""
+
+#: ../../SNC.rst:184
+msgid ":mtgtip:`Unlucky Witness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec6430c0-67c1-4793-b4be-8f47545c57d6.jpg?1649498733|https://scryfall.com/card/snc/128/unlucky-witness?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:183
+msgid "When Unlucky Witness dies, exile the top two cards of your library. Until your next end step, you may play one of those cards."
+msgstr ""
+
+#: ../../SNC.rst:192
+msgid ":mtgtip:`Urabrask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649394243|https://scryfall.com/card/snc/129/urabrask-heretic-praetor?utm_source=api>`"
+msgstr ""
+
 #: ../../SNC.rst:187
-msgid "Whenever Evelyn, the Covetous or another vampire enters the battlefield under your control, exile the top card of each player's library with a collection counter on it."
+#: ../../SNC.rst:249
+#: ../../SNC.rst:369
+msgid "Haste"
 msgstr ""
 
 #: ../../SNC.rst:189
-msgid "Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were any color to cast it."
+msgid "At the beginning of your upkeep, exile the top card of your library. You may play it this turn."
+msgstr ""
+
+#: ../../SNC.rst:191
+msgid "At the beginning of each opponent's upkeep, the next time they would draw a card this turn, instead they exile the top card of their library. They may play it this turn."
 msgstr ""
 
 #: ../../SNC.rst:200
-msgid ":mtgtip:`Falco Spara, Pactweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1649364262|https://scryfall.com/card/snc/186/falco-spara-pactweaver?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:193
-msgid "Flying, trample"
+msgid ":mtgtip:`Courier's Briefcase<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f375674-7ae2-4430-b1f3-c26fa5b201d1.jpg?1649362137|https://scryfall.com/card/snc/142/couriers-briefcase?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:195
-msgid "Falco Spara, Pactweaver enters the battlefield with a shield counter on it."
+msgid "When Courier's Briefcase enters the battlefield, create a 1/1 green and white Citizen creature token."
 msgstr ""
 
 #: ../../SNC.rst:197
-msgid "You may look at the top card of your library any time."
+msgid "|tap|, Sacrifice Courier's Briefcase: Add one mana of any color."
 msgstr ""
 
 #: ../../SNC.rst:199
-msgid "You may cast spells from the top of your library by removing a counter from a creature you control in addition to paying their other costs."
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Courier's Briefcase: Draw three cards."
 msgstr ""
 
-#: ../../SNC.rst:208
-msgid ":mtgtip:`Jetmir, Nexus of Revels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1648740317|https://scryfall.com/card/snc/193/jetmir-nexus-of-revels?utm_source=api>`"
+#: ../../SNC.rst:210
+msgid ":mtgtip:`Gala Greeters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c1baaa2-bd0b-4627-b93a-0753e0acd0f2.jpg?1649367269|https://scryfall.com/card/snc/148/gala-greeters?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:203
-msgid "Creatures you control get +1/+0 and have vigilance as long as you control three or more creatures."
+msgid "Alliance — Whenever another creature enters the battlefield under your control, choose one that hasn't been chosen this turn—"
 msgstr ""
 
 #: ../../SNC.rst:205
-msgid "Creatures you control also get +1/+0 and have trample as long as you control six or more creatures."
+msgid "Put a +1/+1 counter on Gala Greeters."
 msgstr ""
 
 #: ../../SNC.rst:207
-msgid "Creatures you control also get +1/+0 and have double strike as long as you control nine or more creatures."
+msgid "Create a tapped Treasure token."
 msgstr ""
 
-#: ../../SNC.rst:216
-msgid ":mtgtip:`Lord Xander, the Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1648740308|https://scryfall.com/card/snc/197/lord-xander-the-collector?utm_source=api>`"
+#: ../../SNC.rst:209
+msgid "You gain 2 life."
 msgstr ""
 
-#: ../../SNC.rst:211
-msgid "When Lord Xander, the Collector enters the battlefield, target opponent discards half the cards in their hand, rounded down."
+#: ../../SNC.rst:214
+msgid ":mtgtip:`Luxurious Libation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3e0e818-db6a-453a-a1f0-a7fade6509d3.jpg?1649494960|https://scryfall.com/card/snc/152/luxurious-libation?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:213
-msgid "Whenever Lord Xander attacks, defending player mills half their library, rounded down."
+msgid "Target creature gets +X/+X until end of turn. Create a 1/1 green and white Citizen creature token."
 msgstr ""
 
-#: ../../SNC.rst:215
-msgid "When Lord Xander dies, target opponent sacrifices half the nonland permanents they control, rounded down."
+#: ../../SNC.rst:222
+msgid ":mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1649437294|https://scryfall.com/card/snc/162/vivien-on-the-hunt?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:220
-msgid ":mtgtip:`\"Maestros' Dominion\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/469a0f03-7874-453d-b9e4-275c13244f4a.jpg?1649423244|https://scryfall.com/card/snc/198/maestros-dominion?utm_source=api>`"
+#: ../../SNC.rst:217
+msgid "+2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../SNC.rst:219
-msgid "Once during each of your turns, you may cast an instant or sorcery spell from your graveyard by sacrificing a creature in addition to paying its other costs. If a spell cast this way would be put into your graveyard, exile it instead."
+msgid "+1: Mill five cards, then put any number of creature cards milled this way into your hand."
 msgstr ""
 
-#: ../../SNC.rst:230
-msgid ":mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56.jpg?1648500160|https://scryfall.com/card/snc/199/maestros-charm?utm_source=api>`"
+#: ../../SNC.rst:221
+msgid "−1: Create a 4/4 green Rhino Warrior creature token."
+msgstr ""
+
+#: ../../SNC.rst:226
+msgid ":mtgtip:`Brokers Ascendancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/799de0f1-6bf2-4158-8a4f-bedc3d2f6578.jpg?1648555799|https://scryfall.com/card/snc/170/brokers-ascendancy?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:225
-msgid "Look at the top five cards of your library. Put one of those cards into your hand and the rest into your graveyard."
-msgstr ""
-
-#: ../../SNC.rst:227
-msgid "Each opponent loses 3 life and you gain 3 life."
-msgstr ""
-
-#: ../../SNC.rst:229
-msgid "Maestros Charm deals 5 damage to target creature or planeswalker."
+msgid "At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control."
 msgstr ""
 
 #: ../../SNC.rst:236
-msgid ":mtgtip:`Maestros Diabolist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7206db10-e248-420d-bf92-4d57bc72da56.jpg?1649424967|https://scryfall.com/card/snc/200/maestros-diabolist?utm_source=api>`"
+msgid ":mtgtip:`Brokers Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74c9c315-1cf4-468e-a74a-b5f3be4a63a1.jpg?1649176850|https://scryfall.com/card/snc/171/brokers-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:229
+#: ../../SNC.rst:239
+#: ../../SNC.rst:301
+#: ../../SNC.rst:327
+#: ../../SNC.rst:343
+msgid "Choose one —"
+msgstr ""
+
+#: ../../SNC.rst:231
+msgid "Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature or planeswalker an opponent controls."
 msgstr ""
 
 #: ../../SNC.rst:233
-msgid "Deathtouch, haste"
+msgid "Destroy target enchantment."
 msgstr ""
 
 #: ../../SNC.rst:235
-msgid "Whenever Maestros Diabolist attacks, if you don't control a Devil token, create a tapped and attacking 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\""
+msgid "Draw two cards."
 msgstr ""
 
 #: ../../SNC.rst:246
-msgid ":mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1649366630|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:239
-msgid "Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell and you may choose new targets for the copy.)"
+msgid ":mtgtip:`Cabaretti Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08f33c8a-8e93-4296-964b-da132a854b3b.jpg?1648677718|https://scryfall.com/card/snc/173/cabaretti-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:241
-msgid "+1: Each opponent loses 2 life unless they discard a card. If you control a Demon or Devil, you gain 2 life."
+msgid "Cabaretti Charm deals damage equal to the number of creatures you control to target creature or planeswalker."
 msgstr ""
 
 #: ../../SNC.rst:243
-msgid "−2: Create a 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\""
+msgid "Creatures you control get +1/+1 and gain trample until end of turn."
 msgstr ""
 
 #: ../../SNC.rst:245
-msgid "−7: Target player draws seven cards and loses 7 life."
+msgid "Create two 1/1 green and white Citizen creature tokens."
 msgstr ""
 
-#: ../../SNC.rst:256
-msgid ":mtgtip:`Obscura Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9961562d-cad9-40e5-afae-3ebce77a2260.jpg?1648583418|https://scryfall.com/card/snc/208/obscura-charm?utm_source=api>`"
+#: ../../SNC.rst:254
+msgid ":mtgtip:`Cormela, Glamour Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/221ac34a-94ed-4c49-afad-b19cac541731.jpg?1649442504|https://scryfall.com/card/snc/177/cormela-glamour-thief?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:251
-msgid "Return target multicolored permanent card with mana value 3 or less from your graveyard to the battlefield tapped."
+msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|\\ |mana_r|. Spend this mana only to cast instant and/or sorcery spells."
 msgstr ""
 
 #: ../../SNC.rst:253
-msgid "Counter target instant or sorcery spell."
+msgid "When Cormela, Glamour Thief dies, return up to one target instant or sorcery card from your graveyard to your hand."
 msgstr ""
 
-#: ../../SNC.rst:255
-msgid "Destroy target creature or planeswalker with mana value 3 or less."
+#: ../../SNC.rst:260
+msgid ":mtgtip:`Disciplined Duelist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e23cdb0a-e114-47f8-aceb-c54c4683bbc5.jpg?1649366698|https://scryfall.com/card/snc/182/disciplined-duelist?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:262
-msgid ":mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648903899|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`"
+#: ../../SNC.rst:257
+msgid "Double strike"
 msgstr ""
 
 #: ../../SNC.rst:259
-msgid "Flying, ward |mana_1|"
+msgid "Disciplined Duelist enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)"
 msgstr ""
 
-#: ../../SNC.rst:261
-msgid "Whenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)"
+#: ../../SNC.rst:268
+msgid ":mtgtip:`Evelyn, the Covetous<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0dad61f-36cd-46af-82b7-a02e04efd676.jpg?1649424996|https://scryfall.com/card/snc/184/evelyn-the-covetous?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:272
-msgid ":mtgtip:`Riveteers Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/784a5915-bc42-49d6-8a1b-45da7749f03a.jpg?1649068685|https://scryfall.com/card/snc/217/riveteers-charm?utm_source=api>`"
+#: ../../SNC.rst:265
+msgid "Whenever Evelyn, the Covetous or another vampire enters the battlefield under your control, exile the top card of each player's library with a collection counter on it."
 msgstr ""
 
 #: ../../SNC.rst:267
-msgid "Target opponent sacrifices a creature or planeswalker they control with the highest mana value among creatures and planeswalkers they control."
-msgstr ""
-
-#: ../../SNC.rst:269
-msgid "Exile the top three cards of your library. Until your next end step, you may play those cards."
-msgstr ""
-
-#: ../../SNC.rst:271
-msgid "Exile target player's graveyard."
+msgid "Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were any color to cast it."
 msgstr ""
 
 #: ../../SNC.rst:278
-msgid ":mtgtip:`Ziatora, the Incinerator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1649357378|https://scryfall.com/card/snc/231/ziatora-the-incinerator?utm_source=api>`"
+msgid ":mtgtip:`Falco Spara, Pactweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1649364262|https://scryfall.com/card/snc/186/falco-spara-pactweaver?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:271
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../SNC.rst:273
+msgid "Falco Spara, Pactweaver enters the battlefield with a shield counter on it."
+msgstr ""
+
+#: ../../SNC.rst:275
+msgid "You may look at the top card of your library any time."
 msgstr ""
 
 #: ../../SNC.rst:277
-msgid "At the beginning of your end step, you may sacrifice another creature. When you do, Ziatora, the Incinerator deals damage equal to that creature's power to any target and you create three Treasure tokens."
+msgid "You may cast spells from the top of your library by removing a counter from a creature you control in addition to paying their other costs."
 msgstr ""
 
-#: ../../SNC.rst:282
-msgid ":mtgtip:`Chrome Cat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85da50ba-2061-40f0-b3af-950b87f812cd.jpg?1649359990|https://scryfall.com/card/snc/236/chrome-cat?utm_source=api>`"
+#: ../../SNC.rst:286
+msgid ":mtgtip:`Jetmir, Nexus of Revels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1648740317|https://scryfall.com/card/snc/193/jetmir-nexus-of-revels?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:281
-msgid "When Chrome Cat enters the battlefield, scry 1."
+msgid "Creatures you control get +1/+0 and have vigilance as long as you control three or more creatures."
 msgstr ""
 
-#: ../../SNC.rst:290
-msgid ":mtgtip:`Getaway Car<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad.jpg?1649356138|https://scryfall.com/card/snc/237/getaway-car?utm_source=api>`"
+#: ../../SNC.rst:283
+msgid "Creatures you control also get +1/+0 and have trample as long as you control six or more creatures."
 msgstr ""
 
-#: ../../SNC.rst:287
-msgid "Whenever Getaway Car attacks or blocks, return up to one target creature that crewed it this turn to its owner's hand."
+#: ../../SNC.rst:285
+msgid "Creatures you control also get +1/+0 and have double strike as long as you control nine or more creatures."
+msgstr ""
+
+#: ../../SNC.rst:294
+msgid ":mtgtip:`Lord Xander, the Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1648740308|https://scryfall.com/card/snc/197/lord-xander-the-collector?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:289
-msgid "Crew 1"
+msgid "When Lord Xander, the Collector enters the battlefield, target opponent discards half the cards in their hand, rounded down."
 msgstr ""
 
-#: ../../SNC.rst:298
-msgid ":mtgtip:`Botanical Plaza<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f8a6f93-1fc8-4690-add4-538763277f8e.jpg?1649364003|https://scryfall.com/card/snc/247/botanical-plaza?utm_source=api>`"
+#: ../../SNC.rst:291
+msgid "Whenever Lord Xander attacks, defending player mills half their library, rounded down."
 msgstr ""
 
 #: ../../SNC.rst:293
-msgid "Botanical Plaza enters the battlefield tapped."
+msgid "When Lord Xander dies, target opponent sacrifices half the nonland permanents they control, rounded down."
 msgstr ""
 
-#: ../../SNC.rst:295
-msgid "|tap|: Add |mana_g| or |mana_w|."
+#: ../../SNC.rst:298
+msgid ":mtgtip:`\"Maestros' Dominion\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/469a0f03-7874-453d-b9e4-275c13244f4a.jpg?1649423244|https://scryfall.com/card/snc/198/maestros-dominion?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:297
-msgid "|mana_2|\\ |mana_g|\\ |mana_w|, |tap|, Sacrifice Botanical Plaza: Draw a card."
+msgid "Once during each of your turns, you may cast an instant or sorcery spell from your graveyard by sacrificing a creature in addition to paying its other costs. If a spell cast this way would be put into your graveyard, exile it instead."
 msgstr ""
 
-#: ../../SNC.rst:306
-msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:301
-msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
+#: ../../SNC.rst:308
+msgid ":mtgtip:`Maestros Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56.jpg?1648500160|https://scryfall.com/card/snc/199/maestros-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:303
-msgid "Jetmir's Garden enters the battlefield tapped."
+msgid "Look at the top five cards of your library. Put one of those cards into your hand and the rest into your graveyard."
 msgstr ""
 
 #: ../../SNC.rst:305
-#: ../../SNC.rst:325
-#: ../../SNC.rst:341
-#: ../../SNC.rst:365
-#: ../../SNC.rst:373
-msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
+msgid "Each opponent loses 3 life and you gain 3 life."
 msgstr ""
 
-#: ../../SNC.rst:310
-msgid ":mtgtip:`Maestros Theater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51eb4a44-a5c8-49ed-b440-2462626bb638.jpg?1649422012|https://scryfall.com/card/snc/251/maestros-theater?utm_source=api>`"
+#: ../../SNC.rst:307
+msgid "Maestros Charm deals 5 damage to target creature or planeswalker."
 msgstr ""
 
-#: ../../SNC.rst:309
-msgid "When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life."
+#: ../../SNC.rst:314
+msgid ":mtgtip:`Maestros Diabolist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7206db10-e248-420d-bf92-4d57bc72da56.jpg?1649424967|https://scryfall.com/card/snc/200/maestros-diabolist?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:318
-msgid ":mtgtip:`Racers' Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459|https://scryfall.com/card/snc/253/racers-ring?utm_source=api>`"
+#: ../../SNC.rst:311
+msgid "Deathtouch, haste"
 msgstr ""
 
 #: ../../SNC.rst:313
-msgid "Racers' Ring enters the battlefield tapped."
+msgid "Whenever Maestros Diabolist attacks, if you don't control a Devil token, create a tapped and attacking 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\""
 msgstr ""
 
-#: ../../SNC.rst:315
-msgid "|tap|: Add |mana_r| or |mana_g|."
+#: ../../SNC.rst:324
+msgid ":mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1649366630|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:317
-msgid "|mana_2|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Racers' Ring: Draw a card."
+msgid "Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell and you may choose new targets for the copy.)"
 msgstr ""
 
-#: ../../SNC.rst:326
-msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+#: ../../SNC.rst:319
+msgid "+1: Each opponent loses 2 life unless they discard a card. If you control a Demon or Devil, you gain 2 life."
 msgstr ""
 
 #: ../../SNC.rst:321
-msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
+msgid "−2: Create a 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\""
 msgstr ""
 
 #: ../../SNC.rst:323
-msgid "Raffine's Tower enters the battlefield tapped."
+msgid "−7: Target player draws seven cards and loses 7 life."
 msgstr ""
 
 #: ../../SNC.rst:334
-msgid ":mtgtip:`Skybridge Towers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e28c871f-a96a-4e7d-a159-2e93aeb276d4.jpg?1649362661|https://scryfall.com/card/snc/256/skybridge-towers?utm_source=api>`"
+msgid ":mtgtip:`Obscura Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9961562d-cad9-40e5-afae-3ebce77a2260.jpg?1648583418|https://scryfall.com/card/snc/208/obscura-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:329
-msgid "Skybridge Towers enters the battlefield tapped."
+msgid "Return target multicolored permanent card with mana value 3 or less from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../SNC.rst:331
-msgid "|tap|: Add |mana_w| or |mana_u|."
+msgid "Counter target instant or sorcery spell."
 msgstr ""
 
 #: ../../SNC.rst:333
-msgid "|mana_2|\\ |mana_w|\\ |mana_u|, |tap|, Sacrifice Skybridge Towers: Draw a card."
+msgid "Destroy target creature or planeswalker with mana value 3 or less."
 msgstr ""
 
-#: ../../SNC.rst:342
-msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
+#: ../../SNC.rst:340
+msgid ":mtgtip:`Raffine, Scheming Seer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1648903899|https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:337
-msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
+msgid "Flying, ward |mana_1|"
 msgstr ""
 
 #: ../../SNC.rst:339
-msgid "Spara's Headquarters enters the battlefield tapped."
+msgid "Whenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)"
 msgstr ""
 
 #: ../../SNC.rst:350
-msgid ":mtgtip:`Tramway Station<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0532304-da6d-45cd-b1e6-4779d3f3b2bc.jpg?1649362675|https://scryfall.com/card/snc/258/tramway-station?utm_source=api>`"
+msgid ":mtgtip:`Riveteers Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/784a5915-bc42-49d6-8a1b-45da7749f03a.jpg?1649068685|https://scryfall.com/card/snc/217/riveteers-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:345
-msgid "Tramway Station enters the battlefield tapped."
+msgid "Target opponent sacrifices a creature or planeswalker they control with the highest mana value among creatures and planeswalkers they control."
 msgstr ""
 
 #: ../../SNC.rst:347
-msgid "|tap|: Add |mana_b| or |mana_r|."
+msgid "Exile the top three cards of your library. Until your next end step, you may play those cards."
 msgstr ""
 
 #: ../../SNC.rst:349
-msgid "|mana_2|\\ |mana_b|\\ |mana_r|, |tap|, Sacrifice Tramway Station: Draw a card."
+msgid "Exile target player's graveyard."
 msgstr ""
 
-#: ../../SNC.rst:358
-msgid ":mtgtip:`Waterfront District<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/debf7aac-4d31-49b4-955b-79036258df69.jpg?1649360830|https://scryfall.com/card/snc/259/waterfront-district?utm_source=api>`"
+#: ../../SNC.rst:356
+msgid ":mtgtip:`Snooping Newsie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bed1e957-3df1-4640-9980-783817826602.jpg?1649458780|https://scryfall.com/card/snc/222/snooping-newsie?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:353
-msgid "Waterfront District enters the battlefield tapped."
+msgid "When Snooping Newsie enters the battlefield, mill two cards. (Put the top two cards of your library into your graveyard.)"
 msgstr ""
 
 #: ../../SNC.rst:355
-msgid "|tap|: Add |mana_u| or |mana_b|."
+msgid "As long as there are five or more mana values among cards in your graveyard, Snooping Newsie gets +1/+1 and has lifelink."
 msgstr ""
 
-#: ../../SNC.rst:357
-msgid "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, Sacrifice Waterfront District: Draw a card."
-msgstr ""
-
-#: ../../SNC.rst:366
-msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
+#: ../../SNC.rst:362
+msgid ":mtgtip:`Ziatora, the Incinerator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1649357378|https://scryfall.com/card/snc/231/ziatora-the-incinerator?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:361
-msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
+msgid "At the beginning of your end step, you may sacrifice another creature. When you do, Ziatora, the Incinerator deals damage equal to that creature's power to any target and you create three Treasure tokens."
 msgstr ""
 
-#: ../../SNC.rst:363
-msgid "Xander's Lounge enters the battlefield tapped."
+#: ../../SNC.rst:366
+msgid ":mtgtip:`Chrome Cat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85da50ba-2061-40f0-b3af-950b87f812cd.jpg?1649359990|https://scryfall.com/card/snc/236/chrome-cat?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:365
+msgid "When Chrome Cat enters the battlefield, scry 1."
 msgstr ""
 
 #: ../../SNC.rst:374
-msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:369
-msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
+msgid ":mtgtip:`Getaway Car<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad.jpg?1649356138|https://scryfall.com/card/snc/237/getaway-car?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:371
-msgid "Ziatora's Proving Ground enters the battlefield tapped."
+msgid "Whenever Getaway Car attacks or blocks, return up to one target creature that crewed it this turn to its owner's hand."
 msgstr ""
 
-#: ../../SNC.rst:378
-msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bbb3646-c427-4302-86ac-9ac28d045959.jpg?1649356381|https://scryfall.com/card/snc/262/plains?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:377
-msgid "(|tap|: Add |mana_w|.)"
+#: ../../SNC.rst:373
+msgid "Crew 1"
 msgstr ""
 
 #: ../../SNC.rst:382
-msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ef2c956-cf03-462c-8981-ae80edfc0c5a.jpg?1649356454|https://scryfall.com/card/snc/264/island?utm_source=api>`"
+msgid ":mtgtip:`Botanical Plaza<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f8a6f93-1fc8-4690-add4-538763277f8e.jpg?1649364003|https://scryfall.com/card/snc/247/botanical-plaza?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:377
+msgid "Botanical Plaza enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:379
+msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../SNC.rst:381
-msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
-
-#: ../../SNC.rst:386
-msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0175a2a-db46-4d25-ab8e-feca7e565b8d.jpg?1649356569|https://scryfall.com/card/snc/266/swamp?utm_source=api>`"
-msgstr ""
-
-#: ../../SNC.rst:385
-msgid "(|tap|: Add |mana_b|.)"
+msgid "|mana_2|\\ |mana_g|\\ |mana_w|, |tap|, Sacrifice Botanical Plaza: Draw a card."
 msgstr ""
 
 #: ../../SNC.rst:390
-msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fac247df-aa19-4627-8d65-6ddf5e7e5c8c.jpg?1649356611|https://scryfall.com/card/snc/268/mountain?utm_source=api>`"
+msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:385
+msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
+msgstr ""
+
+#: ../../SNC.rst:387
+msgid "Jetmir's Garden enters the battlefield tapped."
 msgstr ""
 
 #: ../../SNC.rst:389
-msgid "(|tap|: Add |mana_r|.)"
+#: ../../SNC.rst:409
+#: ../../SNC.rst:425
+#: ../../SNC.rst:449
+#: ../../SNC.rst:457
+msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../SNC.rst:394
-msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c086cb5e-3146-4a41-a471-fcbbf8fa4e09.jpg?1649356648|https://scryfall.com/card/snc/270/forest?utm_source=api>`"
+msgid ":mtgtip:`Maestros Theater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51eb4a44-a5c8-49ed-b440-2462626bb638.jpg?1649422012|https://scryfall.com/card/snc/251/maestros-theater?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:393
+msgid "When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life."
+msgstr ""
+
+#: ../../SNC.rst:402
+msgid ":mtgtip:`Racers' Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a11bdb2-a269-4038-85f3-69fbd02982e9.jpg?1649360459|https://scryfall.com/card/snc/253/racers-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:397
+msgid "Racers' Ring enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:399
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../SNC.rst:401
+msgid "|mana_2|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Racers' Ring: Draw a card."
+msgstr ""
+
+#: ../../SNC.rst:410
+msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:405
+msgid "(|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)"
+msgstr ""
+
+#: ../../SNC.rst:407
+msgid "Raffine's Tower enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:418
+msgid ":mtgtip:`Skybridge Towers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e28c871f-a96a-4e7d-a159-2e93aeb276d4.jpg?1649362661|https://scryfall.com/card/snc/256/skybridge-towers?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:413
+msgid "Skybridge Towers enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:415
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../SNC.rst:417
+msgid "|mana_2|\\ |mana_w|\\ |mana_u|, |tap|, Sacrifice Skybridge Towers: Draw a card."
+msgstr ""
+
+#: ../../SNC.rst:426
+msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:421
+msgid "(|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)"
+msgstr ""
+
+#: ../../SNC.rst:423
+msgid "Spara's Headquarters enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:434
+msgid ":mtgtip:`Tramway Station<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0532304-da6d-45cd-b1e6-4779d3f3b2bc.jpg?1649362675|https://scryfall.com/card/snc/258/tramway-station?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:429
+msgid "Tramway Station enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:431
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../SNC.rst:433
+msgid "|mana_2|\\ |mana_b|\\ |mana_r|, |tap|, Sacrifice Tramway Station: Draw a card."
+msgstr ""
+
+#: ../../SNC.rst:442
+msgid ":mtgtip:`Waterfront District<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/debf7aac-4d31-49b4-955b-79036258df69.jpg?1649452139|https://scryfall.com/card/snc/259/waterfront-district?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:437
+msgid "Waterfront District enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:439
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../SNC.rst:441
+msgid "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, Sacrifice Waterfront District: Draw a card."
+msgstr ""
+
+#: ../../SNC.rst:450
+msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:445
+msgid "(|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)"
+msgstr ""
+
+#: ../../SNC.rst:447
+msgid "Xander's Lounge enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:458
+msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:453
+msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
+msgstr ""
+
+#: ../../SNC.rst:455
+msgid "Ziatora's Proving Ground enters the battlefield tapped."
+msgstr ""
+
+#: ../../SNC.rst:462
+msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bbb3646-c427-4302-86ac-9ac28d045959.jpg?1649356381|https://scryfall.com/card/snc/262/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:461
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../SNC.rst:466
+msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ef2c956-cf03-462c-8981-ae80edfc0c5a.jpg?1649356454|https://scryfall.com/card/snc/264/island?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:465
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../SNC.rst:470
+msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0175a2a-db46-4d25-ab8e-feca7e565b8d.jpg?1649356569|https://scryfall.com/card/snc/266/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:469
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../SNC.rst:474
+msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fac247df-aa19-4627-8d65-6ddf5e7e5c8c.jpg?1649356611|https://scryfall.com/card/snc/268/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:473
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../SNC.rst:478
+msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c086cb5e-3146-4a41-a471-fcbbf8fa4e09.jpg?1649356648|https://scryfall.com/card/snc/270/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:477
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
-#: ../../SNC.rst:399
-msgid ":mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31dc7d21-e56a-4758-b5a0-3acd7eb8c367.jpg?1649434113|https://scryfall.com/card/snc/386/nimble-larcenist?utm_source=api>`"
+#: ../../SNC.rst:484
+msgid ":mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1649440651|https://scryfall.com/card/snc/321/nimble-larcenist?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:399
+#: ../../SNC.rst:483
 msgid "When Nimble Larcenist enters the battlefield, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card."
+msgstr ""
+
+#: ../../SNC.rst:489
+msgid ":mtgtip:`Fight Rigging<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e3a556e-615f-416d-9e1b-fcc3304e0199.jpg?1649441319|https://scryfall.com/card/snc/430/fight-rigging?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:489
+msgid "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if you control a creature with power 7 or greater, you may play the exiled card without paying its mana cost."
 msgstr ""

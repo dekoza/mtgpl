@@ -5,6 +5,10 @@
 =====================================
 
 
+:mtgtip:`"Power Couple"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf5615a2-03a2-41f4-ab3b-de5e60d1504e.jpg?1649506374|https://scryfall.com/card/snc/3/power-couple?utm_source=api>`
+   Whenever "Power Couple" attacks, "Power Couple" and up to one other target creature you control each gain your choice of first strike or lifelink until end of turn.
+
+
 :mtgtip:`Elspeth Resplendent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1649359041|https://scryfall.com/card/snc/11/elspeth-resplendent?utm_source=api>`
    +1: Choose up to one target creature. Put a +1/+1 counter and a counter from among flying, first strike, lifelink, or vigilance on it.
 
@@ -21,6 +25,10 @@
    |mana_w|\ |mana_w|\ |mana_w|\ |mana_w|\ |mana_w|, |tap|, Untap fifteen tapped creatures you control: You win the game.
 
 
+:mtgtip:`Mage's Attendant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0cce08e8-340b-4a67-9884-4cbf01d63790.jpg?1649471626|https://scryfall.com/card/snc/21/mages-attendant?utm_source=api>`
+   When Mage's Attendant enters the battlefield, create a 1/1 blue Wizard creature token with "|mana_1|, Sacrifice this creature: Counter target noncreature spell unless its controller pays |mana_1|."
+
+
 :mtgtip:`Mysterious Limousine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a58cb742-0ba7-4795-9772-25d4db0bc4ce.jpg?1649360334|https://scryfall.com/card/snc/22/mysterious-limousine?utm_source=api>`
    Whenever Mysterious Limousine enters the battlefield or attacks, exile up to one other target creature until Mysterious Limousine leaves the battlefield. If a creature is put into exile this way, return each other card exiled with Mysterious Limousine to the battlefield under its owner's control.
 
@@ -29,6 +37,36 @@
 
 :mtgtip:`Rumor Gatherer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8b87807-cac5-4e33-a8ed-a9ced0cd83a1.jpg?1649361290|https://scryfall.com/card/snc/29/rumor-gatherer?utm_source=api>`
    Alliance — Whenever another creature enters the battlefield under your control, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.
+
+
+:mtgtip:`"HE THAT SEES YOU WHEN YOU'RE SLEEPING"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1649441876|https://scryfall.com/card/snc/34/he-that-sees-you-when-youre-sleeping?utm_source=api>`
+   Flying
+
+   Whenever "HE THAT SEES YOU WHEN YOU'RE SLEEPING" enters the battlefield or attacks, draw two cards, then discard a card.
+
+   Whenever you discard a card, target creature an opponent controls gets -X/-0 until your next turn, where X is the number of different mana values among cards in your graveyard.
+
+
+:mtgtip:`Cut Your Losses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31184dd0-4080-44c1-a3e0-f6d10a4d1fcb.jpg?1649471806|https://scryfall.com/card/snc/38/cut-your-losses?utm_source=api>`
+   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+
+   Target player mills half their library, rounded down.
+
+
+:mtgtip:`Errant, Street Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61d23407-9fe0-4cbf-b4b5-bc1e132c36e4.jpg?1649492081|https://scryfall.com/card/snc/41/errant-street-artist?utm_source=api>`
+   Flash
+
+   Defender, haste
+
+   |mana_1|\ |mana_u|, |tap|: Copy target spell you control that wasn't cast. You may choose new targets for the copy.
+
+
+:mtgtip:`Faerie Vandal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7645247b-e65a-4912-ac22-e6a0fa806dd7.jpg?1649458885|https://scryfall.com/card/snc/44/faerie-vandal?utm_source=api>`
+   Flash
+
+   Flying
+
+   Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vandal.
 
 
 :mtgtip:`Ledger Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1649362618|https://scryfall.com/card/snc/46/ledger-shredder?utm_source=api>`
@@ -41,6 +79,12 @@
    Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)
 
    Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+
+
+:mtgtip:`Make Disappear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1649471769|https://scryfall.com/card/snc/49/make-disappear?utm_source=api>`
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+
+   Counter target spell unless its controller pays |mana_2|.
 
 
 :mtgtip:`An Offer You Can't Refuse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1649394290|https://scryfall.com/card/snc/51/an-offer-you-cant-refuse?utm_source=api>`
@@ -65,6 +109,12 @@
    Mill two cards, then return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 
+:mtgtip:`Grisly Sigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6322e12d-b932-4ca1-a51d-e2a928140cc7.jpg?1649498742|https://scryfall.com/card/snc/82/grisly-sigil?utm_source=api>`
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+
+   Choose target creature or planeswalker. If it was dealt noncombat damage this turn, Grisly Sigil deals 3 damage to it and you gain 3 life. Otherwise, Grisly Sigil deals 1 damage to it and you gain 1 life.
+
+
 :mtgtip:`"Cheez-Its Delivery"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f7cced2-390b-499f-ace3-e52fd53d4712.jpg?1649427088|https://scryfall.com/card/snc/83/cheez-its-delivery?utm_source=api>`
    Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell and you may choose new targets for the copy.)
 
@@ -73,6 +123,12 @@
 
 :mtgtip:`Incriminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/198ec497-4e95-4386-9ca4-35d2d3f59733.jpg?1649361655|https://scryfall.com/card/snc/84/incriminate?utm_source=api>`
    Choose two target creatures controlled by the same player. That player sacrifices one of them.
+
+
+:mtgtip:`Join the Maestros<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff2665f7-6cf8-4f9b-810e-17e264753225.jpg?1649471797|https://scryfall.com/card/snc/85/join-the-maestros?utm_source=api>`
+   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+
+   Create a 4/3 black Ogre Warrior creature token.
 
 
 :mtgtip:`Maestros Initiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db94f2a9-53be-449e-8240-77f013cdd7e3.jpg?1649424267|https://scryfall.com/card/snc/86/maestros-initiate?utm_source=api>`
@@ -113,8 +169,18 @@
    Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.
 
 
+:mtgtip:`Rob the Archives<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3ec95f6-88c8-4daf-882f-8b4bc73452c3.jpg?1649498751|https://scryfall.com/card/snc/122/rob-the-archives?utm_source=api>`
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)
+
+   Exile the top two cards of your library. You may play those cards this turn.
+
+
 :mtgtip:`Strangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b91d727-c0ee-4bf0-8c7d-8475ecb88083.jpg?1649362516|https://scryfall.com/card/snc/125/strangle?utm_source=api>`
    Strangle deals 3 damage to target creature or planeswalker.
+
+
+:mtgtip:`Unlucky Witness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec6430c0-67c1-4793-b4be-8f47545c57d6.jpg?1649498733|https://scryfall.com/card/snc/128/unlucky-witness?utm_source=api>`
+   When Unlucky Witness dies, exile the top two cards of your library. Until your next end step, you may play one of those cards.
 
 
 :mtgtip:`Urabrask, Heretic Praetor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1649394243|https://scryfall.com/card/snc/129/urabrask-heretic-praetor?utm_source=api>`
@@ -143,7 +209,11 @@
    • You gain 2 life.
 
 
-:mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1649425255|https://scryfall.com/card/snc/162/vivien-on-the-hunt?utm_source=api>`
+:mtgtip:`Luxurious Libation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b3e0e818-db6a-453a-a1f0-a7fade6509d3.jpg?1649494960|https://scryfall.com/card/snc/152/luxurious-libation?utm_source=api>`
+   Target creature gets +X/+X until end of turn. Create a 1/1 green and white Citizen creature token.
+
+
+:mtgtip:`Vivien on the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1649437294|https://scryfall.com/card/snc/162/vivien-on-the-hunt?utm_source=api>`
    +2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.
 
    +1: Mill five cards, then put any number of creature cards milled this way into your hand.
@@ -173,6 +243,14 @@
    • Creatures you control get +1/+1 and gain trample until end of turn.
 
    • Create two 1/1 green and white Citizen creature tokens.
+
+
+:mtgtip:`Cormela, Glamour Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/221ac34a-94ed-4c49-afad-b19cac541731.jpg?1649442504|https://scryfall.com/card/snc/177/cormela-glamour-thief?utm_source=api>`
+   Haste
+
+   |mana_1|, |tap|: Add |mana_u|\ |mana_b|\ |mana_r|. Spend this mana only to cast instant and/or sorcery spells.
+
+   When Cormela, Glamour Thief dies, return up to one target instant or sorcery card from your graveyard to your hand.
 
 
 :mtgtip:`Disciplined Duelist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e23cdb0a-e114-47f8-aceb-c54c4683bbc5.jpg?1649366698|https://scryfall.com/card/snc/182/disciplined-duelist?utm_source=api>`
@@ -271,6 +349,12 @@
    • Exile target player's graveyard.
 
 
+:mtgtip:`Snooping Newsie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bed1e957-3df1-4640-9980-783817826602.jpg?1649458780|https://scryfall.com/card/snc/222/snooping-newsie?utm_source=api>`
+   When Snooping Newsie enters the battlefield, mill two cards. (Put the top two cards of your library into your graveyard.)
+
+   As long as there are five or more mana values among cards in your graveyard, Snooping Newsie gets +1/+1 and has lifelink.
+
+
 :mtgtip:`Ziatora, the Incinerator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1649357378|https://scryfall.com/card/snc/231/ziatora-the-incinerator?utm_source=api>`
    Flying
 
@@ -349,7 +433,7 @@
    |mana_2|\ |mana_b|\ |mana_r|, |tap|, Sacrifice Tramway Station: Draw a card.
 
 
-:mtgtip:`Waterfront District<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/debf7aac-4d31-49b4-955b-79036258df69.jpg?1649360830|https://scryfall.com/card/snc/259/waterfront-district?utm_source=api>`
+:mtgtip:`Waterfront District<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/debf7aac-4d31-49b4-955b-79036258df69.jpg?1649452139|https://scryfall.com/card/snc/259/waterfront-district?utm_source=api>`
    Waterfront District enters the battlefield tapped.
 
    |tap|: Add |mana_u| or |mana_b|.
@@ -393,8 +477,14 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31dc7d21-e56a-4758-b5a0-3acd7eb8c367.jpg?1649434113|https://scryfall.com/card/snc/386/nimble-larcenist?utm_source=api>`
+:mtgtip:`Nimble Larcenist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1649440651|https://scryfall.com/card/snc/321/nimble-larcenist?utm_source=api>`
    Flying
 
    When Nimble Larcenist enters the battlefield, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card.
+
+
+:mtgtip:`Fight Rigging<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e3a556e-615f-416d-9e1b-fcc3304e0199.jpg?1649441319|https://scryfall.com/card/snc/430/fight-rigging?utm_source=api>`
+   Hideaway 5 (When this enchantment enters the battlefield, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if you control a creature with power 7 or greater, you may play the exiled card without paying its mana cost.
 
