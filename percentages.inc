@@ -129,7 +129,7 @@
 .. |ISD_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |DIS_percent| image:: images/pie55.png        
+.. |DIS_percent| image:: images/pie70.png        
 
 .. |POR_percent| image:: images/pie70.png        
 
@@ -393,7 +393,7 @@
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SNC_percent| image:: images/pie90.png        
+.. |SNC_percent| image:: images/pie95.png        
 
 .. |ARN_percent| image:: images/pie55.png        
 
