@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-07 09:34+0000\n"
+"PO-Revision-Date: 2022-04-10 21:29+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -249,12 +249,16 @@ msgid ""
 "|mana_w|, Sacrifice Aurora Eidolon: Prevent the next 3 damage that would be "
 "dealt to any target this turn."
 msgstr ""
+"|mana_w|, poświęć ten byt: Zażegnaj najbliższe 3 obrażenia, jakie mogłyby w "
+"tej turze zostać zadane wskazanemu celowi."
 
 #: ../../DIS.rst:11
 msgid ""
 "Whenever you cast a multicolored spell, you may return Aurora Eidolon from "
 "your graveyard to your hand."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, możesz przywrócić tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DIS.rst:20
 msgid ""
@@ -298,10 +302,12 @@ msgid ""
 "Whenever Beacon Hawk deals combat damage to a player, you may untap target "
 "creature."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz odkręcić wskazanego "
+"stwora."
 
 #: ../../DIS.rst:27
 msgid "|mana_w|: Beacon Hawk gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
 
 #: ../../DIS.rst:34
 msgid ""
@@ -319,7 +325,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../DIS.rst:33
 msgid "Enchanted creature gets +1/+1 for each of its colors."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 za każdy ze swoich kolorów."
 
 #: ../../DIS.rst:38
 msgid ""
@@ -334,6 +340,9 @@ msgid ""
 "turn. For each 1 damage prevented this way, put a +1/+1 counter on that "
 "creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane w tej turze "
+"wskazanemu wielokolorowemu stworowi. Za każde 1 obrażenie zażegnane w ten "
+"sposób, umieść znacznik +1/+1 na owym stworze."
 
 #: ../../DIS.rst:44
 msgid ""
@@ -347,6 +356,8 @@ msgid ""
 "The next 1 damage that would be dealt to target creature this turn is dealt "
 "to another target creature instead."
 msgstr ""
+"Najbliższe 1 obrażenie, jakie mogłoby w tej turze zostać zadane wskazanemu "
+"stworowi, zamiast tego zostaje zadane innemu wskazanemu stworowi."
 
 #: ../../DIS.rst:43 ../../DIS.rst:383 ../../DIS.rst:485 ../../DIS.rst:853
 msgid "Draw a card."
@@ -364,6 +375,8 @@ msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on each creature "
 "you control."
 msgstr ""
+"Ilekroć rzucisz czar uroku, umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem."
 
 #: ../../DIS.rst:54
 msgid ""
@@ -392,6 +405,8 @@ msgid ""
 "As long as Freewind Equenaut is enchanted, it has \"|tap|: Freewind Equenaut "
 "deals 2 damage to target attacking or blocking creature.\""
 msgstr ""
+"O ile ten byt jest zauroczony, ma on \"|tap|: Ten byt zadaje wskazanemu "
+"atakującemu lub blokującemu stworowi 2 obrażenia.\""
 
 #: ../../DIS.rst:64
 msgid ""
@@ -403,7 +418,7 @@ msgstr ""
 
 #: ../../DIS.rst:63
 msgid "Protection from monocolored"
-msgstr ""
+msgstr "Ochrona przed jednokolorowym"
 
 #: ../../DIS.rst:68
 msgid ""
@@ -414,7 +429,7 @@ msgstr ""
 
 #: ../../DIS.rst:67
 msgid "|tap|, Sacrifice Haazda Exonerator: Destroy target Aura."
-msgstr ""
+msgstr "|tap|, poświęć ten byt: Zniszcz wskazaną Aurę."
 
 #: ../../DIS.rst:74
 msgid ""
@@ -428,12 +443,16 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Haazda Shield Mate unless you pay "
 "|mana_w|\\ |mana_w|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz "
+"|mana_w|\\ |mana_w|."
 
 #: ../../DIS.rst:73
 msgid ""
 "|mana_w|: The next time a source of your choice would deal damage to you "
 "this turn, prevent that damage."
 msgstr ""
+"|mana_w|: Najbliższym razem kiedy w tej turze wybrane przez ciebie źródło "
+"miałoby tobie zadać obrażenia, zażegnaj je."
 
 #: ../../DIS.rst:78
 msgid ""
@@ -451,7 +470,7 @@ msgstr ""
 
 #: ../../DIS.rst:81
 msgid "Whenever Paladin of Prahv deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć ten stwór zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../DIS.rst:83
 msgid ""
@@ -502,6 +521,8 @@ msgid ""
 "Whenever a creature you control dies, you gain life equal to that creature's "
 "toughness."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, zyskaj życia równe wytrzymałości "
+"owego stwora."
 
 #: ../../DIS.rst:100
 msgid ""
@@ -518,7 +539,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 #: ../../DIS.rst:99
 msgid ""
 "|mana_1|\\ |mana_u|, Sacrifice Soulsworn Jury: Counter target creature spell."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|, poświęć ten byt: Skontruj wskazany czar stwora."
 
 #: ../../DIS.rst:106
 msgid ""
@@ -633,6 +654,8 @@ msgid ""
 "|mana_u|, |tap|: Gain control of target creature with a +1/+1 counter on it "
 "for as long as Cytoplast Manipulator remains on the battlefield."
 msgstr ""
+"|mana_u|, |tap|: Zyskaj władanie nad wskazanym stworem ze znacznikiem +1/+1 "
+"na czas pozostawiania niniejszego bytu na polu bitwy."
 
 #: ../../DIS.rst:144
 msgid ""
@@ -643,13 +666,15 @@ msgstr ""
 
 #: ../../DIS.rst:141
 msgid "|mana_u|, Sacrifice Enigma Eidolon: Target player mills three cards."
-msgstr ""
+msgstr "|mana_u|, poświęć ten byt: Wskazany gracz mieli trzy karty."
 
 #: ../../DIS.rst:143
 msgid ""
 "Whenever you cast a multicolored spell, you may return Enigma Eidolon from "
 "your graveyard to your hand."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, możesz przywrócić tę karty z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DIS.rst:150
 msgid ""
@@ -660,7 +685,7 @@ msgstr ""
 
 #: ../../DIS.rst:147
 msgid "Gain control of target monocolored creature."
-msgstr ""
+msgstr "Zyskaj władanie nad wskazanym jednokolorowym stworem."
 
 #: ../../DIS.rst:149
 msgid ""
@@ -730,11 +755,11 @@ msgstr ""
 
 #: ../../DIS.rst:167
 msgid "Enchanted creature has \"|tap|: Draw a card.\""
-msgstr ""
+msgstr "Zauroczony stwór ma \"|tap|: Dobierz kartę.\""
 
 #: ../../DIS.rst:169
 msgid "|mana_w|: Enchanted creature gains vigilance until end of turn."
-msgstr ""
+msgstr "|mana_w|: Zauroczony stwór zyskuje do końca tury czujność."
 
 #: ../../DIS.rst:178
 msgid ""
@@ -752,12 +777,16 @@ msgid ""
 "When Plaxmanta enters the battlefield, creatures you control gain shroud "
 "until end of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem zyskują do "
+"końca tury antymagię. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
 #: ../../DIS.rst:177
 msgid ""
 "When Plaxmanta enters the battlefield, sacrifice it unless |mana_g| was "
 "spent to cast it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że do jego rzucenia "
+"użyto |mana_g|."
 
 #: ../../DIS.rst:186
 msgid ""
@@ -768,7 +797,7 @@ msgstr ""
 
 #: ../../DIS.rst:181
 msgid "Enchant opponent"
-msgstr ""
+msgstr "Zaurocz przeciwnika"
 
 #: ../../DIS.rst:183
 msgid "Skip your draw step."
@@ -776,7 +805,7 @@ msgstr "Pomiń swój krok dobierania."
 
 #: ../../DIS.rst:185
 msgid "Whenever enchanted opponent draws a card, you may draw a card."
-msgstr ""
+msgstr "Ilekroć zauroczony przeciwnik dobierze kartę, możesz dobrać kartę."
 
 #: ../../DIS.rst:192
 msgid ""
@@ -834,7 +863,7 @@ msgstr ""
 
 #: ../../DIS.rst:207
 msgid "Whenever you cast a spell, return target permanent to its owner's hand."
-msgstr ""
+msgstr "Ilekroć rzucisz czar, przywróć wskazany byt do ręki właściciela."
 
 #: ../../DIS.rst:214
 msgid ""
@@ -856,7 +885,7 @@ msgstr ""
 
 #: ../../DIS.rst:217
 msgid "Each player draws two cards."
-msgstr ""
+msgstr "Każdy gracz dobiera po dwie karty."
 
 #: ../../DIS.rst:226
 msgid ""
@@ -870,6 +899,8 @@ msgid ""
 "Whenever enchanted creature attacks, if its power is 2 or less, it can't be "
 "blocked this turn."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, jeśli jego siła wynosi 2 lub mniej, nie "
+"może być on blokowany w tej turze."
 
 #: ../../DIS.rst:225
 msgid ""
@@ -894,7 +925,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 #: ../../DIS.rst:231
 msgid "Each other player loses X life."
-msgstr ""
+msgstr "Każdy inny gracz traci po X żyć."
 
 #: ../../DIS.rst:236
 msgid ""
@@ -908,6 +939,8 @@ msgid ""
 "Choose a nonland card name. Target player reveals their hand. That player "
 "discards a card with that name. If they can't, you draw a card."
 msgstr ""
+"Nazwij nielądową kartę. Wskazany gracz ujawnia swoją rękę. Ów gracz odrzuca "
+"kartę o owej nazwie. Jeśli nie może, dobierz kartę."
 
 #: ../../DIS.rst:244
 msgid ""
@@ -957,7 +990,7 @@ msgstr ""
 #: ../../DIS.rst:253
 msgid ""
 "Hellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand."
-msgstr ""
+msgstr "Zaślepienie — Ten stwór dostaje +2/+1 o ile nie masz kart w ręce."
 
 #: ../../DIS.rst:258
 msgid ""
@@ -971,6 +1004,8 @@ msgid ""
 "When Drekavac enters the battlefield, sacrifice it unless you discard a "
 "noncreature card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że odrzucisz "
+"niestworową kartę."
 
 #: ../../DIS.rst:262
 msgid ""
@@ -995,12 +1030,15 @@ msgid ""
 "|mana_b|, Sacrifice Entropic Eidolon: Target player loses 1 life and you "
 "gain 1 life."
 msgstr ""
+"|mana_b|, poświęć ten byt: Wskazany gracz traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../DIS.rst:267
 msgid ""
 "Whenever you cast a multicolored spell, you may return Entropic Eidolon from "
 "your graveyard to your hand."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, możesz przywrócić tę karty z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DIS.rst:274
 msgid ""
@@ -1014,6 +1052,8 @@ msgid ""
 "Reveal a card from your hand. Search your library for a card with the same "
 "name as that card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Ujawnij kartę z twojej ręki. Wyszukaj w twojej bibliotece kartę o tej samej "
+"nazwie, co owa karta, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../DIS.rst:273
 msgid ""
@@ -1053,7 +1093,7 @@ msgstr ""
 
 #: ../../DIS.rst:285
 msgid "|mana_1|\\ |mana_r|: Enchanted creature attacks this turn if able."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Zauroczony stwór atakuje w tej turze jeśli może."
 
 #: ../../DIS.rst:290
 msgid ""
@@ -1066,6 +1106,8 @@ msgstr ""
 msgid ""
 "Until end of turn, all creatures become black and all lands become Swamps."
 msgstr ""
+"Do końca tury wszystkie stwory stają się czarne, a wszystkie lądy stają się "
+"Bagnami."
 
 #: ../../DIS.rst:296
 msgid ""
@@ -1153,6 +1195,8 @@ msgid ""
 "Hellbent — When Slaughterhouse Bouncer dies, if you have no cards in hand, "
 "target creature gets -3/-3 until end of turn."
 msgstr ""
+"Zaślepienie — Kiedy ten stwór umrze, jeśli nie masz kart w ręce, wskazany "
+"stwór dostaje do końca tury -3/-3."
 
 #: ../../DIS.rst:322
 msgid ""
@@ -1170,6 +1214,8 @@ msgid ""
 "Hellbent — Slithering Shade can attack as though it didn't have defender as "
 "long as you have no cards in hand."
 msgstr ""
+"Zaślepienie — Ten stwór może atakować jakby nie miał obronności o ile nie "
+"masz kart w ręce."
 
 #: ../../DIS.rst:328
 msgid ""
@@ -1397,6 +1443,8 @@ msgid ""
 "Whenever you cast a multicolored spell, you may return Sandstorm Eidolon "
 "from your graveyard to your hand."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, możesz przywrócić tę karty z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DIS.rst:402
 msgid ""
@@ -1475,6 +1523,8 @@ msgid ""
 "Hellbent — Enchanted creature gets an additional +2/+0 as long as you have "
 "no cards in hand."
 msgstr ""
+"Zaślepienie — Zauroczony stwór dostaje dodatkowe +2/+0 o ile nie masz kart w "
+"ręce."
 
 #: ../../DIS.rst:434
 msgid ""
@@ -1897,6 +1947,9 @@ msgid ""
 "would deal damage to a permanent or player, it deals double that damage to "
 "that permanent or player instead."
 msgstr ""
+"Zaślepienie — O ile nie masz kart w ręce, jeśli źródło pod twoim władaniem "
+"miałoby zadać obrażenia bytowi lub graczowi, zamiast tego zadaje ono owemu "
+"bytowi lub graczowi dwukrotnie tyle obrażeń."
 
 #: ../../DIS.rst:578
 msgid ""
@@ -2025,6 +2078,8 @@ msgid ""
 "Hellbent — As long as you have no cards in hand, Gobhobbler Rats gets +1/+0 "
 "and has \"|mana_b|: Regenerate Gobhobbler Rats.\""
 msgstr ""
+"Zaślepienie — O ile nie masz kart w ręce, ten stwór dostaje +1/+0 i ma \""
+"|mana_b|: Zregeneruj ten byt.\""
 
 #: ../../DIS.rst:624
 msgid ""
@@ -2419,6 +2474,7 @@ msgstr ""
 msgid ""
 "Hellbent — Destroy those creatures instead if you have no cards in hand."
 msgstr ""
+"Zaślepienie — Zamiast tego zniszcz owe stwory jeśli nie masz kart w ręce."
 
 #: ../../DIS.rst:756
 msgid ""
@@ -3198,6 +3254,8 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a "
 "multicolored spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
+"wielokolorowego czaru."
 
 #: ../../DIS.rst:1032
 msgid ""
@@ -3211,6 +3269,8 @@ msgid ""
 "|mana_4|\\ |mana_w|\\ |mana_u|, |tap|: Prevent all damage a source of your "
 "choice would deal this turn."
 msgstr ""
+"|mana_4|\\ |mana_w|\\ |mana_u|, |tap|: Zażegnaj wszystkie obrażenia, jakie w "
+"tej turze mogłoby zadać wybrane przez ciebie źródło."
 
 #: ../../DIS.rst:1040
 msgid ""
