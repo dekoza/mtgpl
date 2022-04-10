@@ -35,6 +35,14 @@
    Crew 2
 
 
+:mtgtip:`"Employee Orientation Video"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f36e25fa-9ab4-4832-afb9-827c4b6ba732.jpg?1649582154|https://scryfall.com/card/snc/25/employee-orientation-video?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +1/+1.
+
+   You may cast "Employee Orientation Video" from your graveyard by playing |mana_2|\ |mana_w| instead of its mana cost.
+
+
 :mtgtip:`Rumor Gatherer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8b87807-cac5-4e33-a8ed-a9ced0cd83a1.jpg?1649361290|https://scryfall.com/card/snc/29/rumor-gatherer?utm_source=api>`
    Alliance — Whenever another creature enters the battlefield under your control, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.
 
@@ -97,6 +105,12 @@
    Whenever you draw your first card during each of your draw steps, draw a card. Then if you have nine or more cards in hand, you may play the exiled card without paying its mana cost.
 
 
+:mtgtip:`Witness Protection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2be6f2c-8ad0-402d-a7ca-9fe817e83b72.jpg?1649580616|https://scryfall.com/card/snc/66/witness-protection?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature loses all abilities and is a green and white Citizen creature with base power and toughness 1/1 named Legitimate Businessperson. (It loses all other colors, card types, creature types, and names.)
+
+
 :mtgtip:`Cut of the Profits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80e86078-1629-40dc-88a9-102c543255b8.jpg?1649356227|https://scryfall.com/card/snc/72/cut-of-the-profits?utm_source=api>`
    Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell.)
 
@@ -107,6 +121,12 @@
    Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
 
    Mill two cards, then return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)
+
+
+:mtgtip:`Graveyard Shift<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/394d7fb3-44ee-409f-a992-27e5aabd9c2b.jpg?1649580442|https://scryfall.com/card/snc/81/graveyard-shift?utm_source=api>`
+   This spell has flash as long as there are five or more mana values among cards in your graveyard.
+
+   Return target creature card from your graveyard to the battlefield.
 
 
 :mtgtip:`Grisly Sigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6322e12d-b932-4ca1-a51d-e2a928140cc7.jpg?1649498742|https://scryfall.com/card/snc/82/grisly-sigil?utm_source=api>`
@@ -199,8 +219,12 @@
    |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|, |tap|, Sacrifice Courier's Briefcase: Draw three cards.
 
 
-:mtgtip:`Gala Greeters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c1baaa2-bd0b-4627-b93a-0753e0acd0f2.jpg?1649367269|https://scryfall.com/card/snc/148/gala-greeters?utm_source=api>`
-   Alliance — Whenever another creature enters the battlefield under your control, choose one that hasn't been chosen this turn—
+:mtgtip:`Evolving Door<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01bc3b04-46b7-43df-9b29-1502b9f18bbf.jpg?1649580528|https://scryfall.com/card/snc/144/evolving-door?utm_source=api>`
+   |mana_1|, |tap|, Sacrifice a creature: Count the colors of the sacrificed creature, then search your library for a creature card that's exactly that many colors plus one. Exile that card, then shuffle. You may cast the exiled card. Activate only as a sorcery.
+
+
+:mtgtip:`Gala Greeters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c1baaa2-bd0b-4627-b93a-0753e0acd0f2.jpg?1649515005|https://scryfall.com/card/snc/148/gala-greeters?utm_source=api>`
+   Alliance — Whenever another creature enters the battlefield under your control, choose one that hasn't been chosen this turn —
 
    • Put a +1/+1 counter on Gala Greeters.
 
