@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-10 18:19+0200\n"
-"PO-Revision-Date: 2022-04-09 18:05+0000\n"
+"PO-Revision-Date: 2022-04-10 17:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -323,6 +323,9 @@ msgid ""
 "creature token with \"|mana_1|, Sacrifice this creature: Counter target "
 "noncreature spell unless its controller pays |mana_1|.\""
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton niebieskiego stwora "
+"Czarodziej 1/1 z \"|mana_1|, poświęć tego stwora: Skontruj wskazany "
+"niestworowy czar, chyba że jego władca zapłaci |mana_1|.\""
 
 #: ../../SNC.rst:36
 msgid ""
@@ -357,11 +360,11 @@ msgstr ""
 
 #: ../../SNC.rst:39 ../../SNC.rst:109
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../SNC.rst:41
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../SNC.rst:43
 msgid ""
@@ -411,6 +414,9 @@ msgid ""
 "until your next turn, where X is the number of different mana values among "
 "cards in your graveyard."
 msgstr ""
+"Ilekroć odrzucisz kartę, wskazany stwór pod władaniem przeciwnika dostaje do "
+"końca tury -X/-0, gdzie X jest liczbą różnych wartości skrótów many pośród "
+"kart w twoim cmentarzu."
 
 #: ../../SNC.rst:62
 msgid ""
@@ -452,6 +458,8 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Copy target spell you control that wasn't cast. "
 "You may choose new targets for the copy."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Skopiuj wskazany czar pod twoim władaniem, który "
+"nie został rzucony. Możesz wskazać nowe cele dla kopii."
 
 #: ../../SNC.rst:78
 msgid ""
@@ -620,6 +628,9 @@ msgid ""
 "hand. (To mill a card, a player puts the top card of their library into "
 "their graveyard.)"
 msgstr ""
+"Zmiel dwie karty, po czym przywróć kartę stwora z twojego cmentarza do "
+"twojej ręki. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej "
+"biblioteki w swoim cmentarzu.)"
 
 #: ../../SNC.rst:130
 msgid ""
@@ -635,14 +646,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:129
-#, fuzzy
-#| msgid ""
-#| "Return target multicolored permanent card with mana value 3 or less from "
-#| "your graveyard to the battlefield tapped."
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
-"Przywróć wskazaną wielokolorową kartę bytu o skrócie many 3 lub mniejszym z "
-"twojego cmentarza przekręconą na pole bitwy."
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../SNC.rst:136
 msgid ""
@@ -657,6 +662,9 @@ msgid ""
 "this turn, Grisly Sigil deals 3 damage to it and you gain 3 life. Otherwise, "
 "Grisly Sigil deals 1 damage to it and you gain 1 life."
 msgstr ""
+"Wskaż stwora lub wędrowca. Jeśli w tej turze otrzymał niebojowe obrażenia, "
+"ten czar zadaje mu 3 obrażenia, a ty zyskaj 3 życia. W przeciwnym razie ten "
+"czar zadaje mu 1 obrażenia, a ty zyskaj 1 życie."
 
 #: ../../SNC.rst:142
 msgid ""
@@ -719,6 +727,8 @@ msgid ""
 "|mana_4|\\ |mana_ur|, Exile Maestros Initiate from your graveyard: Draw two "
 "cards, then discard a card."
 msgstr ""
+"|mana_4|\\ |mana_ur|, wygnaj tę kartę z twojego cmentarza: Dobierz dwie "
+"karty, po czym odrzuć kartę."
 
 #: ../../SNC.rst:160
 msgid ""
@@ -745,6 +755,10 @@ msgid ""
 "exiled with Arcane Bombardment. You may cast any number of the copies "
 "without paying their mana costs."
 msgstr ""
+"Ilekroć rzucisz twój pierwszy czar sztuczki lub obrzędu w danej turze, "
+"wygnaj losową kartę sztuczki lub obrzędu z twojego cmentarza. Następnie "
+"skopiuj każdą kartę wygnaną tym bytem. Możesz rzucić dowolne z owych kopii "
+"bez płacenia ich kosztów many."
 
 #: ../../SNC.rst:170
 msgid ""
@@ -1097,12 +1111,16 @@ msgid ""
 "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|\\ |mana_r|. Spend this mana only to "
 "cast instant and/or sorcery spells."
 msgstr ""
+"|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|\\ |mana_r|. Wydaj ową manę tylko na "
+"rzucenie czarów sztuczek i/lub obrzędów."
 
 #: ../../SNC.rst:277
 msgid ""
 "When Cormela, Glamour Thief dies, return up to one target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć co najwyżej jedną wskazaną kartę sztuczki "
+"lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../SNC.rst:284
 msgid ""
@@ -1137,6 +1155,8 @@ msgid ""
 "under your control, exile the top card of each player's library with a "
 "collection counter on it."
 msgstr ""
+"Ilekroć ten stwór lub inny Wampir wejdzie na pole bitwy pod twoim władaniem, "
+"wygnaj ze znacznikiem kolekcji wierzchnią kartę z biblioteki każdego gracza."
 
 #: ../../SNC.rst:291
 msgid ""
@@ -1144,6 +1164,9 @@ msgid ""
 "it if it was exiled by an ability you controlled, and you may spend mana as "
 "though it were any color to cast it."
 msgstr ""
+"Raz na turę możesz zagrać z wygnania kartę mającą znacznik kolekcji jeśli "
+"została wygnana zdolnością pod twoim władaniem i do jej rzucenia możesz "
+"wydawać manę tak, jakby była maną dowolnego koloru."
 
 #: ../../SNC.rst:302
 msgid ""
@@ -1251,6 +1274,10 @@ msgid ""
 "other costs. If a spell cast this way would be put into your graveyard, "
 "exile it instead."
 msgstr ""
+"Raz na twoją turę możesz rzucić kartę sztuczki lub obrzędu z twojego "
+"cmentarza poświęcając dodatkowo stwora oprócz opłacenia jej innych kosztów. "
+"Jeśli czar rzucony w ten sposób miałby trafić do twojego cmentarza, zamiast "
+"tego wygnaj go."
 
 #: ../../SNC.rst:332
 msgid ""
@@ -1417,12 +1444,16 @@ msgid ""
 "When Snooping Newsie enters the battlefield, mill two cards. (Put the top "
 "two cards of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty. (Umieść dwie "
+"wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../SNC.rst:379
 msgid ""
 "As long as there are five or more mana values among cards in your graveyard, "
 "Snooping Newsie gets +1/+1 and has lifelink."
 msgstr ""
+"O ile pośród kart w twoim cmentarzu jest co najmniej pięć różnych skrótów "
+"many, ten stwór dostaje +1/+1 i ma więź życia."
 
 #: ../../SNC.rst:386
 msgid ""
