@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2022-04-11
+   * :mtgexp:`DIS` :doc:`Dissension<DIS>` - 100%
+
 2022-04-09
    * Zakończenie tłumaczenia zaktualizowanych stron dot. Commandera.
 

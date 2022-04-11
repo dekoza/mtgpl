@@ -129,7 +129,8 @@
 .. |ISD_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |DIS_percent| image:: images/pie85.png        
+.. |DIS_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |POR_percent| image:: images/pie70.png        
 
