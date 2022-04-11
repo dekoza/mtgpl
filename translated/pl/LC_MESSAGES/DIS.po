@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-10 22:21+0000\n"
+"PO-Revision-Date: 2022-04-11 07:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -2422,6 +2422,8 @@ msgid ""
 "If a spell or ability would cause its controller to gain life, that player "
 "loses that much life instead."
 msgstr ""
+"Jeśli czar lub zdolność miałyby spowodować zyskanie życia przez swojego "
+"władcę, zamiast tego ów gracz traci tyle samo żyć."
 
 #: ../../DIS.rst:708
 msgid ""
@@ -2440,6 +2442,9 @@ msgid ""
 "that player reveals their hand and discards a card of your choice. Activate "
 "only as a sorcery."
 msgstr ""
+"|tap|: Ujawnij twoją rękę i odrzuć kartę wybraną przez wskazanego "
+"przeciwnika. Następnie ów gracz ujawnia swoją rękę i odrzuca kartę wybraną "
+"przez ciebie. Aktywuj tylko jako obrzęd."
 
 #: ../../DIS.rst:712
 msgid ""
@@ -2453,6 +2458,8 @@ msgid ""
 "|tap|: Rakdos Ickspitter deals 1 damage to target creature and that "
 "creature's controller loses 1 life."
 msgstr ""
+"|tap|: Ten byt zadaje wskazanemu stworowi 1 obrażenie, a władca owego stwora "
+"traci 1 życie."
 
 #: ../../DIS.rst:720
 msgid ""
@@ -2523,6 +2530,8 @@ msgstr ""
 msgid ""
 "Counter all other spells. Draw a card for each spell countered this way."
 msgstr ""
+"Skontruj wszystkie inne czary. Dobierz kartę za każdy czar skontrowany w ten "
+"sposób."
 
 #: ../../DIS.rst:744
 msgid ""
@@ -2548,7 +2557,7 @@ msgstr ""
 
 #: ../../DIS.rst:747
 msgid "Twinstrike deals 2 damage to each of two target creatures."
-msgstr ""
+msgstr "Ten czar zadaje każdemu z dwóch wskazanych stworów po 2 obrażenia."
 
 #: ../../DIS.rst:749
 msgid ""
@@ -2569,10 +2578,13 @@ msgid ""
 "it. Whenever another creature enters the battlefield, you may move a +1/+1 "
 "counter from this creature onto it.)"
 msgstr ""
+"Przeszczep 5 (Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1. "
+"Ilekroć inny stwór wejdzie na pole bitwy, możesz przenieść na owego stwora "
+"znacznik +1/+1 z niniejszego.)"
 
 #: ../../DIS.rst:755
 msgid "Vigean Hydropon can't attack or block."
-msgstr ""
+msgstr "Ten stwór nie może atakować ani blokować."
 
 #: ../../DIS.rst:760
 msgid ""
@@ -2588,6 +2600,10 @@ msgid ""
 "your graveyard. (Artifact, creature, enchantment, instant, land, "
 "planeswalker, sorcery, and tribal are card types.)"
 msgstr ""
+"Wybierz typ karty, po czym ujawnij cztery wierzchnie karty twojej "
+"biblioteki. Umieść spośród nich wszystkie karty wybranego typu w twojej "
+"ręce, a pozostałe w twoim cmentarzu. (Typy kart to artefakt, stwór, urok, "
+"sztuczka, ląd, wędrowiec, obrzęd i plemienny.)"
 
 #: ../../DIS.rst:764
 msgid ""
@@ -2688,6 +2704,8 @@ msgid ""
 "Draw a card for each creature target player controls, then draw a card for "
 "each creature another target player controls."
 msgstr ""
+"Dobierz kartę za każdego stwora pod władaniem wskazanego gracza, po czym "
+"dobierz kartę za każdego stwora pod władaniem innego wskazanego gracza."
 
 #: ../../DIS.rst:804
 msgid ""
@@ -2790,12 +2808,16 @@ msgid ""
 "|mana_1|\\ |mana_g|: Move a +1/+1 counter from target creature onto another "
 "target creature with the same controller."
 msgstr ""
+"|mana_1|\\ |mana_g|: Przesuń znacznik +1/+1 ze wskazanego stwora na innego "
+"wskazanego stwora o tym samym władcy."
 
 #: ../../DIS.rst:843
 msgid ""
 "|mana_1|\\ |mana_u|: Attach target Aura attached to a permanent to another "
 "permanent with the same controller."
 msgstr ""
+"|mana_1|\\ |mana_u|: Dołącz wskazaną dołączoną do bytu Aurę do innego bytu o "
+"tym samym władcy."
 
 #: ../../DIS.rst:848
 msgid ""
@@ -2809,6 +2831,8 @@ msgid ""
 "Sacrifice a creature. Return up to X cards from your graveyard to your hand, "
 "where X is the number of colors that creature was. Exile this card."
 msgstr ""
+"Poświęć stwora. Przywróć co najwyżej X kart z twojego cmentarza do twojej "
+"ręki, gdzie X jest liczbą kolorów owego stwora. Wygnaj niniejszą kartę."
 
 #: ../../DIS.rst:854
 msgid ""
@@ -2819,7 +2843,7 @@ msgstr ""
 
 #: ../../DIS.rst:851
 msgid "Other spells you control can't be countered this turn."
-msgstr ""
+msgstr "Inne czary pod twoim władaniem nie mogą być w tej turze skontrowane."
 
 #: ../../DIS.rst:858
 msgid ""
@@ -2833,6 +2857,8 @@ msgid ""
 "Put target creature or enchantment card from an opponent's graveyard onto "
 "the battlefield under your control."
 msgstr ""
+"Umieść wskazaną kartę stwora lub uroku z cmentarza przeciwnika na polu bitwy "
+"pod twoim władaniem."
 
 #: ../../DIS.rst:862
 msgid ""
@@ -2855,7 +2881,7 @@ msgstr ""
 #: ../../DIS.rst:865
 msgid ""
 "Put target artifact or enchantment on the bottom of its owner's library."
-msgstr ""
+msgstr "Umieść wskazany artefakt lub urok na spodzie biblioteki właściciela."
 
 #: ../../DIS.rst:870
 msgid ""
@@ -2869,6 +2895,8 @@ msgid ""
 "Search target opponent's library for a card and exile it. You gain life "
 "equal to its mana value. Then that player shuffles."
 msgstr ""
+"Wyszukaj w bibliotece wskazanego przeciwnika kartę i wygnaj ją. Zyskaj życia "
+"równe jej skrótowi many. Następnie ów gracz tasuje."
 
 #: ../../DIS.rst:874
 msgid ""
@@ -2882,6 +2910,8 @@ msgid ""
 "Target player sacrifices an artifact or creature. Hit deals damage to that "
 "player equal to that permanent's mana value."
 msgstr ""
+"Wskazany gracz poświęca artefakt lub stwora. Ten czar zadaje owemu graczowi "
+"obrażenia równe skrótowi many owego bytu."
 
 #: ../../DIS.rst:878
 msgid ""
@@ -2895,6 +2925,8 @@ msgid ""
 "Attacking creatures you control get +1/+0 until end of turn for each other "
 "attacking creature."
 msgstr ""
+"Atakujące stwory pod twoim władaniem dostają do końca tury +1/+0 za każdego "
+"innego atakującego stwora."
 
 #: ../../DIS.rst:882
 msgid ""
@@ -2909,6 +2941,9 @@ msgid ""
 "If it comes up tails, copy that spell and you may choose new targets for the "
 "copy."
 msgstr ""
+"Rzuć monetą. Jeśli wypadnie orzeł, skontruj wskazany czar sztuczki lub "
+"obrzędu. Jeśli wypadnie reszka, skopiuj ów czar i możesz wskazać nowe cele "
+"dla kopii."
 
 #: ../../DIS.rst:886
 msgid ""
@@ -2919,7 +2954,7 @@ msgstr ""
 
 #: ../../DIS.rst:885
 msgid "Target player sacrifices two attacking creatures."
-msgstr ""
+msgstr "Wskazany gracz poświęca dwa atakujące stwory."
 
 #: ../../DIS.rst:890
 msgid ""
@@ -2930,7 +2965,7 @@ msgstr ""
 
 #: ../../DIS.rst:889
 msgid "Destroy target multicolored permanent."
-msgstr ""
+msgstr "Zniszcz wskazany wielokolorowy byt."
 
 #: ../../DIS.rst:894
 msgid ""
@@ -2941,7 +2976,7 @@ msgstr ""
 
 #: ../../DIS.rst:893
 msgid "Destroy all Auras and Equipment."
-msgstr ""
+msgstr "Zniszcz wszystkie Aury i Wyposażenia."
 
 #: ../../DIS.rst:898
 msgid ""
@@ -2953,7 +2988,7 @@ msgstr ""
 #: ../../DIS.rst:897
 msgid ""
 "Shuffle up to four cards you own from outside the game into your library."
-msgstr ""
+msgstr "Wtasuj co najwyżej cztery własne karty spoza gry do twojej biblioteki."
 
 #: ../../DIS.rst:902
 msgid ""
@@ -2967,6 +3002,8 @@ msgid ""
 "Create a 3/1 red Elemental creature token unless any opponent has you draw a "
 "card. Repeat this process two more times."
 msgstr ""
+"Stwórz żeton czerwonego stwora Żuwiołak 3/1, chyba że przeciwnik zdecyduje, "
+"że dobierzesz kartę. Powtórz ten proces jeszcze dwa razy."
 
 #: ../../DIS.rst:906
 msgid ""
@@ -2980,6 +3017,8 @@ msgid ""
 "Return target creature card from a graveyard and target creature on the "
 "battlefield to their owners' hands."
 msgstr ""
+"Przywróć wskazaną kartę stwora z cmentarza oraz wskazanego stwora na polu "
+"bitwy do rąk ich właścicieli."
 
 #: ../../DIS.rst:910
 msgid ""
@@ -2993,6 +3032,8 @@ msgid ""
 "Target player reveals two cards at random from their hand, then discards "
 "each nonland card revealed this way."
 msgstr ""
+"Wskazany gracz ujawnia dwie losowe karty ze swojej ręki, po czym odrzuca "
+"każdą nielądową kartę ujawnioną w ten sposób."
 
 #: ../../DIS.rst:914
 msgid ""
@@ -3003,7 +3044,7 @@ msgstr ""
 
 #: ../../DIS.rst:913
 msgid "Create X 1/1 green Saproling creature tokens."
-msgstr ""
+msgstr "Stwórz X żetonów zielonego stwora Sadzonka 1/1."
 
 #: ../../DIS.rst:918
 msgid ""
@@ -3017,6 +3058,8 @@ msgid ""
 "Search your library for a multicolored card, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej talii wielokolorową kartę, ujawnij ją, umieść ją w twojej "
+"ręce, po czym przetasuj."
 
 #: ../../DIS.rst:922
 msgid ""
@@ -3030,6 +3073,8 @@ msgid ""
 "Return all creatures blocking or blocked by target creature to their owner's "
 "hand."
 msgstr ""
+"Przywróć wszystkie stwory blokujące lub zablokowane przez wskazanego stwora "
+"do ręki właściciela."
 
 #: ../../DIS.rst:926
 msgid ""
@@ -3066,6 +3111,9 @@ msgid ""
 "sacrifices it. If the player does, Bronze Bombshell deals 7 damage to the "
 "player."
 msgstr ""
+"Kiedy niniejszym bytem włada inny gracz inny niż właściciel, ów gracz "
+"poświęca go. Jeśli ów gracz to zrobi, niniejszy byt zadaje owemu graczowi 7 "
+"obrażeń."
 
 #: ../../DIS.rst:938
 msgid ""
@@ -3080,6 +3128,9 @@ msgid ""
 "end of turn, that creature gains \"|mana_2|\\ |mana_g|\\ |mana_u|: Double "
 "the number of +1/+1 counters on this creature.\""
 msgstr ""
+"|mana_3|, |tap|: Przekręć wskazanego stwora i umieść na nim znacznik +1/+1 "
+"Do końca tury ów stwór zyskuje \"|mana_2|\\ |mana_g|\\ |mana_u|: Podwój "
+"liczbę znaczników +1/+1 na tym stworze.\""
 
 #: ../../DIS.rst:942
 msgid ""
@@ -3093,6 +3144,8 @@ msgid ""
 "|mana_1|, |tap|: Untap target creature that has an activated ability with |"
 "tap| in its cost."
 msgstr ""
+"|mana_1|, |tap|: Odkręć wskazanego stwora mającego aktywowaną zdolność z "
+"|tap| w jej koszcie."
 
 #: ../../DIS.rst:948
 msgid ""
@@ -3106,12 +3159,15 @@ msgid ""
 "|mana_3|, |tap|: Target player exiles a card from their hand. Activate only "
 "as a sorcery."
 msgstr ""
+"|mana_3|, |tap|: Wskazany gracz wygania kartę ze swojej ręki. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../DIS.rst:947
 msgid ""
 "|mana_1|: Choose a card exiled with Muse Vessel. You may play that card this "
 "turn."
 msgstr ""
+"|mana_1|: Wybierz kartę wygnaną tym bytem. Możesz ją zagrać w tej turze."
 
 #: ../../DIS.rst:956
 msgid ""
@@ -3125,12 +3181,16 @@ msgid ""
 "Equipped creature gets +1/+0 for each blood counter on Rakdos Riteknife and "
 "has \"|tap|, Sacrifice a creature: Put a blood counter on Rakdos Riteknife.\""
 msgstr ""
+"Wyposażony stwór dostaje +1/+0 za każdy znacznik krwi na niniejszym i ma \""
+"|tap|, poświęć stwora: Umieść znacznik krwi na Rakdos Riteknife.\""
 
 #: ../../DIS.rst:953
 msgid ""
 "|mana_b|\\ |mana_r|, Sacrifice Rakdos Riteknife: Target player sacrifices a "
 "permanent for each blood counter on Rakdos Riteknife."
 msgstr ""
+"|mana_b|\\ |mana_r|, poświęć ten byt: Wskazany gracz poświęca byt za każdy "
+"znacznik krwi na tym bycie."
 
 #: ../../DIS.rst:955
 msgid "Equip |mana_2|"
@@ -3171,7 +3231,7 @@ msgstr "|tap|: Zyskaj 1 życie."
 
 #: ../../DIS.rst:969
 msgid "|tap|, Discard a card: You gain 3 life."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Zyskaj 3 życia."
 
 #: ../../DIS.rst:974
 msgid ""
@@ -3182,7 +3242,7 @@ msgstr ""
 
 #: ../../DIS.rst:973
 msgid "Transguild Courier is all colors."
-msgstr ""
+msgstr "Ten byt jest każdego koloru."
 
 #: ../../DIS.rst:984
 msgid ""
@@ -3193,13 +3253,15 @@ msgstr ""
 
 #: ../../DIS.rst:979
 msgid "Walking Archive enters the battlefield with a +1/+1 counter on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając znacznik +1/+1."
 
 #: ../../DIS.rst:981
 msgid ""
 "At the beginning of each player's upkeep, that player draws a card for each "
 "+1/+1 counter on Walking Archive."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, ów gracz dobiera kartę za każdy "
+"znacznik +1/+1 na niniejszym bycie."
 
 #: ../../DIS.rst:983
 msgid "|mana_2|\\ |mana_w|\\ |mana_u|: Put a +1/+1 counter on Walking Archive."
