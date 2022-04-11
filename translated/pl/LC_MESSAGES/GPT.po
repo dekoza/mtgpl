@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-04-11 19:31+0000\n"
+"PO-Revision-Date: 2022-04-11 20:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gpt/pl/>\n"
 "Language: pl\n"
@@ -2134,6 +2134,9 @@ msgid ""
 "it's a creature card, put it onto the battlefield. That creature gains haste "
 "until end of turn. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"Na początku twojego kroku utrzymania, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta stwora, umieść ją na polu bitwy. Ów stwór zyskuje "
+"do końca tury pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../GPT.rst:672
 msgid ""
@@ -2156,6 +2159,7 @@ msgid ""
 "Target creature gets +1/+0 and gains flying and first strike until end of "
 "turn."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +1/+0 oraz latanie i pierwszy cios."
 
 #: ../../GPT.rst:676
 msgid ""
@@ -2280,6 +2284,8 @@ msgid ""
 "Target creature gets +4/+0 until end of turn. Another target creature gets "
 "-4/-0 until end of turn."
 msgstr ""
+"Wskazany stwór dostaje do końca tury +4/+0. Inny wskazany stwór dostaje do "
+"końca tury -4/-0."
 
 #: ../../GPT.rst:726
 msgid ""
@@ -2293,6 +2299,8 @@ msgid ""
 "|mana_1|, Sacrifice Skarrgan Skybreaker: It deals damage equal to its power "
 "to any target."
 msgstr ""
+"|mana_1|, poświęć tego stwora: Zadaje on wskazanemu celowi obrażenia równe "
+"swojej sile."
 
 #: ../../GPT.rst:732
 msgid ""
@@ -2306,6 +2314,8 @@ msgid ""
 "Whenever Souls of the Faultless is dealt combat damage, you gain that much "
 "life and attacking player loses that much life."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia bojowe, zyskaj tyle samo żyć, a "
+"atakujący gracz traci tyle samo żyć."
 
 #: ../../GPT.rst:736
 msgid ""
@@ -2422,12 +2432,15 @@ msgid ""
 "Whenever you cast a spell, you may put two +1/+1 counters on Witch-Maw "
 "Nephilim."
 msgstr ""
+"Ilekroć rzucisz czar, możesz umieścić dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../GPT.rst:773
 msgid ""
 "Whenever Witch-Maw Nephilim attacks, it gains trample until end of turn if "
 "its power is 10 or greater."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zyskuje on tratowanie do końca tury jeśli jego "
+"siła wynosi 10 lub więcej."
 
 #: ../../GPT.rst:780
 msgid ""
@@ -2452,6 +2465,8 @@ msgid ""
 "Whenever Yore-Tiller Nephilim attacks, return target creature card from your "
 "graveyard to the battlefield tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przywróć wskazaną kartę stwora z twojego "
+"cmentarza przekręconą i atakującą na polu bitwy."
 
 #: ../../GPT.rst:790
 msgid ""
@@ -2524,6 +2539,8 @@ msgid ""
 "|mana_3|\\ |mana_r|, Sacrifice a land: Gruul Guildmage deals 2 damage to "
 "target player or planeswalker."
 msgstr ""
+"|mana_3|\\ |mana_r|, poświęć ląd: Ten byt zadaje wskazanemu graczowi lub "
+"wędrowcowi 2 obrażenia."
 
 #: ../../GPT.rst:811
 msgid "|mana_3|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
@@ -2561,7 +2578,7 @@ msgstr ""
 
 #: ../../GPT.rst:827
 msgid "Whenever Mourning Thrull deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć ten byt zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../GPT.rst:834
 msgid ""
@@ -2572,11 +2589,11 @@ msgstr ""
 
 #: ../../GPT.rst:831
 msgid "|mana_2|\\ |mana_w|: Target player gains 1 life."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|: Wskazany gracz zyskuje 1 życie."
 
 #: ../../GPT.rst:833
 msgid "|mana_2|\\ |mana_b|: Each player loses 1 life."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|: Każdy gracz traci po 1 życiu."
 
 #: ../../GPT.rst:840
 msgid ""
@@ -2590,6 +2607,8 @@ msgid ""
 "When Petrahydrox becomes the target of a spell or ability, return "
 "Petrahydrox to its owner's hand."
 msgstr ""
+"Kiedy ten byt zostanie wskazany przez czar lub zdolność, przywróć go do ręki "
+"właściciela."
 
 #: ../../GPT.rst:846
 msgid ""
@@ -2600,7 +2619,7 @@ msgstr ""
 
 #: ../../GPT.rst:845
 msgid "Sacrifice Wild Cantor: Add one mana of any color."
-msgstr ""
+msgstr "Poświęć ten byt: Weź jedną manę dowolnego koloru."
 
 #: ../../GPT.rst:850
 msgid ""
@@ -2629,6 +2648,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_g|: Gruul War Plow becomes a 4/4 Juggernaut "
 "artifact creature until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_g|: Ten byt staje się do końca tury artefaktowym "
+"stworem Burzyciel 4/4."
 
 #: ../../GPT.rst:860
 msgid ""
@@ -2652,13 +2673,15 @@ msgstr ""
 msgid ""
 "|mana_3|: Mizzium Transreliquat becomes a copy of target artifact until end "
 "of turn."
-msgstr ""
+msgstr "|mana_3|: Ten byt staje się do końca tury kopią wskazanego artefaktu."
 
 #: ../../GPT.rst:865
 msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|: Mizzium Transreliquat becomes a copy of "
 "target artifact, except it has this ability."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_r|: Ten byt staje się kopią wskazanego "
+"artefaktu, ale zachowuje niniejszą zdolność."
 
 #: ../../GPT.rst:872
 msgid ""
@@ -2677,6 +2700,9 @@ msgid ""
 "target nonland card from a graveyard, all other cards from graveyards with "
 "the same name as that card, and all permanents with that name."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|, poświęć ten byt: Wygnaj wskazaną "
+"nielądową kartę z cmentarza, wszystkie inne karty z cmentarzy o tej samej "
+"nazwie co owa karta oraz wszystkie byty o owej nazwie."
 
 #: ../../GPT.rst:876
 msgid ""
@@ -2701,16 +2727,20 @@ msgid ""
 "As long as equipped creature is tapped, tapped creatures you control get +2/"
 "+0."
 msgstr ""
+"O ile wyposażony stwór jest przekręcony, przekręcone stwory pod twoim "
+"władaniem dostają +2/+0."
 
 #: ../../GPT.rst:881
 msgid ""
 "As long as equipped creature is untapped, untapped creatures you control get "
 "+0/+2."
 msgstr ""
+"O ile wyposażony stwór jest odkręcony, odkręcone stwory pod twoim władaniem "
+"dostają +0/+2."
 
 #: ../../GPT.rst:883
 msgid "|mana_3|: You may tap or untap equipped creature."
-msgstr ""
+msgstr "|mana_3|: Możesz przekręcić lub odkręcić wyposażonego stwora."
 
 #: ../../GPT.rst:885
 msgid "Equip |mana_3|"

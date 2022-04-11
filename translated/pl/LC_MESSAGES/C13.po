@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-10 22:21+0000\n"
+"PO-Revision-Date: 2022-04-11 20:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -5028,6 +5028,8 @@ msgid ""
 "As long as equipped creature is tapped, tapped creatures you control get +2/"
 "+0."
 msgstr ""
+"O ile wyposażony stwór jest przekręcony, przekręcone stwory pod twoim "
+"władaniem dostają +2/+0."
 
 # 60b3bfba16a54770aa853c4a1a80f766
 #: ../../C13.rst:1505
@@ -5035,11 +5037,13 @@ msgid ""
 "As long as equipped creature is untapped, untapped creatures you control get "
 "+0/+2."
 msgstr ""
+"O ile wyposażony stwór jest odkręcony, odkręcone stwory pod twoim władaniem "
+"dostają +0/+2."
 
 # c9dee862958a42f7962279b8215b7aa1
 #: ../../C13.rst:1507
 msgid "|mana_3|: You may tap or untap equipped creature."
-msgstr ""
+msgstr "|mana_3|: Możesz przekręcić lub odkręcić wyposażonego stwora."
 
 #: ../../C13.rst:1514
 msgid ""
