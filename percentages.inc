@@ -14,7 +14,8 @@
 
 .. |2ED_percent| image:: images/pie70.png        
 
-.. |GPT_percent| image:: images/pie90.png        
+.. |GPT_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |MIR_percent| image:: images/pie40.png        
 
