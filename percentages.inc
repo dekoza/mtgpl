@@ -14,7 +14,7 @@
 
 .. |2ED_percent| image:: images/pie70.png        
 
-.. |GPT_percent| image:: images/pie60.png        
+.. |GPT_percent| image:: images/pie90.png        
 
 .. |MIR_percent| image:: images/pie40.png        
 
