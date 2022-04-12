@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-12 17:02+0200\n"
-"PO-Revision-Date: 2022-04-12 15:03+0000\n"
+"PO-Revision-Date: 2022-04-12 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -473,19 +473,15 @@ msgstr ""
 "losowo na spodzie.)"
 
 #: ../../SNC.rst:67
-#, fuzzy
-#| msgid ""
-#| "At the beginning of combat on your turn, put a +1/+1 counter on target "
-#| "creature you control. Then if you control a creature with power 7 or "
-#| "greater, you may play the exiled card without paying its mana cost."
 msgid ""
 "Whenever you attack with one or more creatures, create that many 1/1 green "
 "and white Citizen creature tokens. Then if you control ten or more "
 "creatures, you may play the exiled card without paying its mana cost."
 msgstr ""
-"Na początku potyczki w twojej turze, umieść znacznik +1/+1 na wskazanym "
-"stworze pod twoim władaniem. Następnie jeśli władasz stworem o sile 7 lub "
-"większej, możesz zagrać ową wygnaną kartę bez płacenia jej kosztu many."
+"Ilekroć zaatakujesz co najmniej jednym stworem, stwórz tyle samo żetonów "
+"zielono-białego stwora Mieszczanin 1/1. Następnie jeśli władasz co najmniej "
+"dziesięcioma stworami, możesz zagrać ową wygnaną kartę bez płacenia jej "
+"kosztu many."
 
 #: ../../SNC.rst:76
 msgid ""
@@ -536,14 +532,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:83
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +X/+X until end of turn. Create a 1/1 green and "
-#| "white Citizen creature token."
 msgid "Target creature gets +2/+7 until end of turn. Untap it."
-msgstr ""
-"Wskazany stwór dostaje do końca tury +X/+X. Stwórz żeton zielono-białego "
-"stwora Mieszczanin 1/1."
+msgstr "Wskazany stwór dostaje do końca tury +2/+7. Odkręć go."
 
 #: ../../SNC.rst:88
 msgid ""
@@ -901,14 +891,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:199
-#, fuzzy
-#| msgid ""
-#| "Tap target creature. It doesn't untap during its controller's next untap "
-#| "step."
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
-"Przekręć wskazanego stwora. Nie odkręci się on podczas najbliższego kroku "
-"odkręcania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../SNC.rst:206
 msgid ""
@@ -1223,7 +1207,7 @@ msgstr ""
 
 #: ../../SNC.rst:299
 msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
-msgstr ""
+msgstr "|tap|, zapłać 3 życia: Rzuć monetą. Jeśli wygrasz rzut, zyskaj 6 żyć."
 
 #: ../../SNC.rst:308
 msgid ""
