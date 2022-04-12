@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-12 08:23+0200\n"
-"PO-Revision-Date: 2022-04-10 17:03+0000\n"
+"PO-Revision-Date: 2022-04-12 15:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -247,6 +247,9 @@ msgid ""
 "target creature you control each gain your choice of first strike or "
 "lifelink until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, on i co najwyżej jeden inny wskazany stwór pod "
+"twoim władaniem do końca tury zyskują niezależnie dowolny spośród pierwszego "
+"ciosu i więzi życia."
 
 #: ../../SNC.rst:14
 msgid ""
@@ -260,6 +263,8 @@ msgid ""
 "Each player who controls a multicolored creature draws a card. Then destroy "
 "all creatures."
 msgstr ""
+"Każdy gracz władający wielokolorowym stworem dobiera kartę. Następnie "
+"zniszcz wszystkie stwory."
 
 #: ../../SNC.rst:22
 msgid ""
@@ -335,18 +340,13 @@ msgid "Double strike"
 msgstr "Podwójny cios"
 
 #: ../../SNC.rst:35
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "Whenever Illuminator Virtuoso becomes the target of a spell you control, it "
 "connives. (Draw a card, then discard a card. If you discarded a nonland "
 "card, put a +1/+1 counter on this creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
+"Ilekroć ten byt zostanie wskazany przez czar pod twoim władaniem, pobłaża. ("
+"Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
 "umieść znacznik +1/+1 na tym stworze.)"
 
 #: ../../SNC.rst:40
@@ -409,6 +409,8 @@ msgid ""
 "You may cast Raffine's Guidance from your graveyard by paying |mana_2|\\ |"
 "mana_w| instead of its mana cost."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza płacą |mana_2|\\ |mana_w| zamiast "
+"jej kosztu many."
 
 #: ../../SNC.rst:58
 msgid ""
@@ -418,19 +420,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:57
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "When Raffine's Informant enters the battlefield, it connives. (Draw a card, "
 "then discard a card. If you discarded a nonland card, put a +1/+1 counter on "
 "this creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
-"umieść znacznik +1/+1 na tym stworze.)"
+"Kiedy ten byt wejdzie na pole bitwy, pobłaża. (Dobierz kart, po czym odrzuć "
+"kartę. Jeśli odrzuciłeś nielądową kartę, umieść znacznik +1/+1 na tym "
+"stworze.)"
 
 #: ../../SNC.rst:62
 msgid ""
@@ -467,6 +464,8 @@ msgid ""
 "Whenever All-Seeing Arbiter enters the battlefield or attacks, draw two "
 "cards, then discard a card."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, dobierz dwie karty, "
+"po czym odrzuć kartę."
 
 #: ../../SNC.rst:69
 msgid ""
@@ -506,19 +505,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:81
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "When Echo Inspector enters the battlefield, it connives. Draw a card, then "
 "discard a card. If you discarded a nonland card, put a +1/+1 counter on this "
 "creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
-"umieść znacznik +1/+1 na tym stworze.)"
+"Kiedy ten byt wejdzie na pole bitwy, pobłaża. (Dobierz kart, po czym odrzuć "
+"kartę. Jeśli odrzuciłeś nielądową kartę, umieść znacznik +1/+1 na tym "
+"stworze.)"
 
 #: ../../SNC.rst:90
 msgid ""
@@ -566,18 +560,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:101
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "|mana_3|: Hypnotic Grifter connives. (Draw a card, then discard a card. If "
 "you discarded a nonland card, put a +1/+1 counter on this creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
-"umieść znacznik +1/+1 na tym stworze.)"
+"|mana_3|: Ten stwór pobłaża. (Dobierz kartę, po czym odrzuć kartę. Jeśli "
+"odrzuciłeś nielądową kartę, umieść znacznik +1/+1 na tym stworze.)"
 
 #: ../../SNC.rst:108
 msgid ""
@@ -667,17 +655,18 @@ msgstr ""
 #: ../../SNC.rst:127
 msgid "This spell costs |mana_2| less to cast if it targets a green permanent."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje zielony byt."
 
 #: ../../SNC.rst:129
 msgid ""
 "Return target nonland permanent an opponent controls to its owner's hand."
 msgstr ""
+"Przywróć wskazany nie-lądowy byt pod władaniem przeciwnika do ręki "
+"właściciela."
 
 #: ../../SNC.rst:131 ../../SNC.rst:151
-#, fuzzy
-#| msgid "Draw two cards."
 msgid "Draw a card."
-msgstr "Dobierz dwie karty."
+msgstr "Dobierz kartę."
 
 #: ../../SNC.rst:136
 msgid ""
@@ -692,6 +681,8 @@ msgid ""
 "connives this way, return up to one target nonland permanent to its owner's "
 "hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, pobłaża. Kiedy pobłaża w ten sposób, "
+"przywróć co najwyżej jeden wskazany nielądowy byt do ręki właściciela."
 
 #: ../../SNC.rst:144
 msgid ""
@@ -705,12 +696,12 @@ msgid ""
 "Each creature must attack enchanted creature's controller each combat if "
 "able."
 msgstr ""
+"Każdy stwór musi w każdej potyczce zaatakować władcę zauroczonego stwora "
+"jeśli może."
 
 #: ../../SNC.rst:143
-#, fuzzy
-#| msgid "Enchanted creature gets +1/+1."
 msgid "When enchanted creature dies, draw a card."
-msgstr "Zauroczony stwór dostaje +1/+1."
+msgstr "Kiedy zauroczony stwór umrze, dobierz kartę."
 
 #: ../../SNC.rst:152
 msgid ""
@@ -724,6 +715,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Przekręć wskazanego stwora. Nie odkręci się on podczas najbliższego kroku "
+"odkręcania jego władcy."
 
 #: ../../SNC.rst:160
 msgid ""
@@ -734,22 +727,17 @@ msgstr ""
 
 #: ../../SNC.rst:157
 msgid "As long as enchanted creature is attacking alone, it can't be blocked."
-msgstr ""
+msgstr "O ile zauroczony stwór atakuje samotnie, nie może być blokowany."
 
 #: ../../SNC.rst:159
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "Enchanted creature has \"Whenever this creature deals combat damage to a "
 "player, it connives.\" (Its controller draws a card, then discards a card. "
 "If they discarded a nonland card, they put a +1/+1 counter on this creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
-"umieść znacznik +1/+1 na tym stworze.)"
+"Zauroczony stwór ma \"Ilekroć ten stwór zada graczowi obrażenia bojowe, "
+"pobłaża.\" (Jego władca dobiera kartę, po czym odrzuć kartę. Jeśli odrzuci "
+"nielądową kartę, umieszcza znacznik +1/+1 na owym stworze.)"
 
 #: ../../SNC.rst:166
 msgid ""
@@ -791,6 +779,9 @@ msgid ""
 "creature with base power and toughness 1/1 named Legitimate Businessperson. "
 "(It loses all other colors, card types, creature types, and names.)"
 msgstr ""
+"Zauroczony stwór traci wszystkie zdolności i jest zielono-białym stworem "
+"Mieszczanin 1/1 o nazwie Legalny Przedsiębiorca. (Traci on wszystkie inne "
+"kolory, typy kart i nazwy.)"
 
 #: ../../SNC.rst:180
 msgid ""
@@ -800,24 +791,17 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:175
-#, fuzzy
-#| msgid "Deathtouch, haste"
 msgid "Deathtouch"
-msgstr "Dotyk śmierci, pośpiech"
+msgstr "Dotyk śmierci"
 
 #: ../../SNC.rst:177
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "Whenever another nontoken creature you control dies, \"Hyde the Bodies\" "
 "connives. (Draw a card, then discard a card. If you discarded a nonland "
 "card, put a +1/+1 counter on this creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, niniejszy pobłaża. "
+"(Dobierz kart, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
 "umieść znacznik +1/+1 na tym stworze.)"
 
 #: ../../SNC.rst:179
@@ -841,19 +825,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:185
-#, fuzzy
-#| msgid ""
-#| "At the beginning of combat on your turn, put a +1/+1 counter on target "
-#| "creature you control. Then if you control a creature with power 7 or "
-#| "greater, you may play the exiled card without paying its mana cost."
 msgid ""
 "At the beginning of your upkeep, you may mill three cards. Then if therea re "
 "twenty or more cards in your graveyard, you may play the exiled card without "
 "paying its mana cost."
 msgstr ""
-"Na początku potyczki w twojej turze, umieść znacznik +1/+1 na wskazanym "
-"stworze pod twoim władaniem. Następnie jeśli władasz stworem o sile 7 lub "
-"większej, możesz zagrać ową wygnaną kartę bez płacenia jej kosztu many."
+"Na początku twojego kroku utrzymania, możesz zmielić trzy karty. Następnie "
+"jeśli w twoim cmentarzu jest co najmniej dwadzieścia kart, możesz zagrać ową "
+"wygnaną kartę bez płacenia jej kosztu many."
 
 #: ../../SNC.rst:192
 msgid ""
@@ -903,6 +882,8 @@ msgid ""
 "This spell has flash as long as there are five or more mana values among "
 "cards in your graveyard."
 msgstr ""
+"Ten czar ma błysk o ile spośród kart w twoim cmentarzu jest co najmniej pięć "
+"różnych skrótów many."
 
 #: ../../SNC.rst:203
 msgid "Return target creature card from your graveyard to the battlefield."
@@ -1011,21 +992,18 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../SNC.rst:239
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "When Revel Ruiner enters the battlefield, it connives. (Draw a card, then "
 "discard a card. If you discarded a nonland card, put a +1/+1 counter on this "
 "creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
-"umieść znacznik +1/+1 na tym stworze.)"
+"Kiedy ten stwór wejdzie na pole bitwy, pobłaża. (Dobierz kart, po czym "
+"odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, umieść znacznik +1/+1 na tym "
+"stworze.)"
 
 #: ../../SNC.rst:246
 msgid ""
@@ -1043,6 +1021,8 @@ msgid ""
 "Whenever Shakedown Heavy attacks, defending player may have you draw a card. "
 "If they do, untap Shakedown Heavy and remove it from combat."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, broniąc się gracz może zdecydować, że "
+"dobierzesz kartę. Jeśli tak zrobi, odkręć tego stwora i usuń go z potyczki."
 
 #: ../../SNC.rst:254
 msgid ""
@@ -1052,28 +1032,18 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:251
-#, fuzzy
-#| msgid ""
-#| "Whenever you draw your second card each turn, put a +1/+1 counter on "
-#| "Faerie Vandal."
 msgid ""
 "Whenever you gain life during your turn, put a +1/+1 counter on Vampire "
 "Scrivener."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, umieść znacznik +1/+1 na "
-"tym stworze."
+"Ilekroć zyskasz życia w twojej turze, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../SNC.rst:253
-#, fuzzy
-#| msgid ""
-#| "Whenever you draw your second card each turn, put a +1/+1 counter on "
-#| "Faerie Vandal."
 msgid ""
 "Whenever you lose life during your turn, put a +1/+1 counter on Vampire "
 "Scrivener."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, umieść znacznik +1/+1 na "
-"tym stworze."
+"Ilekroć stracisz życia w twojej turze, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../SNC.rst:258
 msgid ""
@@ -1106,6 +1076,8 @@ msgid ""
 "Players can't gain life this turn. Damage can't be prevented this turn. "
 "\"Fire Sale\" deals 3 damage to any target."
 msgstr ""
+"Gracze nie mogą zyskać żyć w tej turze. Obrażenia nie mogą zostać zażegnane "
+"w tej turze. Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../SNC.rst:268
 msgid ""
@@ -1384,7 +1356,7 @@ msgstr ""
 
 #: ../../SNC.rst:349 ../../SNC.rst:371
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../SNC.rst:351
 #, fuzzy
@@ -1442,17 +1414,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:365
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, put a +1/+1 counter on each creature "
-#| "you control and a loyalty counter on each planeswalker you control."
 msgid ""
 "At the beginning of your upkeep, Black Market Tycoon deals 2 damage to you "
 "for each Treasure you control."
 msgstr ""
-"Na początku twojego kroku końcowego, umieść znacznik +1/+1 na każdym stworze "
-"pod twoim władaniem oraz znacznik lojalności na każdym wędrowcu pod twoim "
-"władaniem."
+"Na początku twojego kroku utrzymania, ten byt zadaje tobie po 2 obrażenia za "
+"każdy Skarb pod twoim władaniem."
 
 #: ../../SNC.rst:367
 #, fuzzy
@@ -1560,26 +1527,20 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:401
-#, fuzzy
-#| msgid "Enchanted creature gets +1/+1."
 msgid "Equipped creature gets +2/+1 and has trample."
-msgstr "Zauroczony stwór dostaje +1/+1."
+msgstr "Wyposażony stwór dostaje +2/+1 i ma tratowanie."
 
 #: ../../SNC.rst:403
 msgid "Equip Citizen |mana_1|"
 msgstr ""
 
 #: ../../SNC.rst:405
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_w|, |tap|, Untap two tapped creatures you control: Draw "
-#| "a card."
 msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"|mana_w|\\ |mana_w|, |tap|, odkręć dwa przekręcone stwory pod twoim "
-"władaniem: Dobierz kartę."
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../SNC.rst:414
 msgid ""
@@ -2003,7 +1964,7 @@ msgstr ""
 
 #: ../../SNC.rst:539
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../SNC.rst:541
 #, fuzzy
@@ -2244,16 +2205,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:609
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_w|, |tap|, Untap two tapped creatures you control: Draw "
-#| "a card."
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"|mana_w|\\ |mana_w|, |tap|, odkręć dwa przekręcone stwory pod twoim "
-"władaniem: Dobierz kartę."
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../SNC.rst:614
 msgid ""
@@ -2308,7 +2265,7 @@ msgstr ""
 
 #: ../../SNC.rst:631
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../SNC.rst:638
 msgid ""
@@ -2319,11 +2276,11 @@ msgstr ""
 
 #: ../../SNC.rst:635
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../SNC.rst:637
 msgid "|mana_3|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_3|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../SNC.rst:646
 msgid ""
