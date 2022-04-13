@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-12 17:02+0200\n"
-"PO-Revision-Date: 2022-04-12 21:03+0000\n"
+"PO-Revision-Date: 2022-04-13 21:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -242,11 +242,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:9
-#, fuzzy
-#| msgid ""
-#| "Whenever Ballroom Brawlers attacks, Ballroom Brawlers and up to one other "
-#| "target creature you control each gain your choice of first strike or "
-#| "lifelink until end of turn."
 msgid ""
 "Whenever Ballroom Brawlers attacks, Ballroom Brawlers and up to one other "
 "target creature you control both gain your choice of first strike or "
@@ -264,19 +259,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:13
-#, fuzzy
-#| msgid ""
-#| "Counter target noncreature spell. Its controller creates two Treasure "
-#| "tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "Exile target nonland permanent. its controller creates a Treasure token. "
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
-"Skontruj wskazany niestworowy czar. Jego władca tworzy dwa żetony Skarbu. "
-"(To artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\")"
+"Wygnaj wskazany nielądowy byt. Jego władca tworzy żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../SNC.rst:18
 msgid ""
@@ -402,12 +391,10 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:49
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_2| less to cast if it targets a green permanent."
 msgid "This spell costs |mana_2| less to cast if it target a red creature."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje zielony byt."
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje czerwonego "
+"stwora."
 
 #: ../../SNC.rst:51
 msgid ""
@@ -783,11 +770,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:163
-#, fuzzy
-#| msgid ""
-#| "When Echo Inspector enters the battlefield, it connives. Draw a card, "
-#| "then discard a card. If you discarded a nonland card, put a +1/+1 counter "
-#| "on this creature.)"
 msgid ""
 "When Psionic Snoop enters the battlefield, it connives. (Draw a card, then "
 "discard a card. If you discarded a nonland card, put a +1/+1 counter on this "
