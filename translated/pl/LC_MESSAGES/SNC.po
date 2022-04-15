@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-04-15 16:55+0000\n"
+"PO-Revision-Date: 2022-04-15 19:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -242,12 +242,10 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:9
-#, fuzzy
-#| msgid "This spell costs |mana_2| less to cast if it target a red creature."
 msgid "This spell costs |mana_1| less to cast for each Citizen you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje czerwonego "
-"stwora."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego Mieszczanina pod "
+"twoim władaniem."
 
 #: ../../SNC.rst:11 ../../SNC.rst:89 ../../SNC.rst:141 ../../SNC.rst:149
 #: ../../SNC.rst:157 ../../SNC.rst:163 ../../SNC.rst:189 ../../SNC.rst:211
@@ -282,16 +280,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:19
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "Put a shield counter on target creature. (If that creature would be dealt "
 "damage or destroyed, remove a shield counter from it instead.)"
 msgstr ""
-"Ten byt wchodzi na pole bitwy mając znacznik tarczy. (Jeśli miałby otrzymać "
+"Umieść znacznik tarczy na wskazanym stworze. (Jeśli ów stwór miałby otrzymać "
 "obrażenia lub zostać zniszczony, zamiast tego usuń z niego znacznik tarczy.)"
 
 #: ../../SNC.rst:21
@@ -335,16 +328,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:33
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, double Devilish Valet's power until end of turn."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, put a +1/+1 counter on Celebrity Fencer."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"podwój do końca tury siłę niniejszego stwora."
+"umieść znacznik +1/+1 na niniejszym."
 
 #: ../../SNC.rst:42
 msgid ""
@@ -354,16 +343,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:37
-#, fuzzy
-#| msgid ""
-#| "When Courier's Briefcase enters the battlefield, create a 1/1 green and "
-#| "white Citizen creature token."
 msgid ""
 "When Citizen's Crowbar enters the battlefield, create a 1/1 green and white "
 "Citizen creature token, then attach Citizen's Crowbar to it."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-białego stwora "
-"Mieszczanin 1/1."
+"Mieszczanin 1/1, po czym dołącz ten byt do niego."
 
 #: ../../SNC.rst:39
 msgid ""
@@ -387,11 +372,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:45
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "Dapper Shieldmate enters the battlefield with a shield counter on it. (If it "
 "would be dealt damage or destroyed, remove a shield counter from it instead.)"
@@ -547,12 +527,10 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:91
-#, fuzzy
-#| msgid "When Chrome Cat enters the battlefield, scry 1."
 msgid ""
 "When Inspiring Overseer enters the battlefield, you gain 1 life and draw a "
 "card."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie i dobierz kartę."
 
 #: ../../SNC.rst:98
 msgid ""
@@ -562,8 +540,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:95
-#, fuzzy
-#| msgid "This spell costs |mana_2| less to cast if it target a red creature."
 msgid "This spell costs |mana_2| less to cast if it targets a red creature."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje czerwonego "
@@ -623,16 +599,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:111
-#, fuzzy
-#| msgid ""
-#| "Return target multicolored permanent card with mana value 3 or less from "
-#| "your graveyard to the battlefield tapped."
 msgid ""
 "Return up to three target creature cards with total mana value 3 or less "
 "from your graveyard to the battlefield."
 msgstr ""
-"Przywróć wskazaną wielokolorową kartę bytu o skrócie many 3 lub mniejszym z "
-"twojego cmentarza przekręconą na pole bitwy."
+"Przywróć co najwyżej trzy wskazane karty o łącznym skrócie many 3 lub "
+"mniejszym z twojego cmentarza na pole bitwy."
 
 #: ../../SNC.rst:118
 msgid ""
@@ -735,12 +707,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:143
-#, fuzzy
-#| msgid ""
-#| "Falco Spara, Pactweaver enters the battlefield with a shield counter on "
-#| "it."
 msgid "Sanctuary Warden enters the battlefield with two shield counters on it."
-msgstr "Ten byt wchodzi na pole bitwy mając znacznik tarczy."
+msgstr "Ten byt wchodzi na pole bitwy mając dwa znaczniki tarczy."
 
 #: ../../SNC.rst:145
 msgid ""
@@ -757,12 +725,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:151
-#, fuzzy
-#| msgid "When Chrome Cat enters the battlefield, scry 1."
 msgid ""
 "When \"Bartender Birb\" enters the battlefield, you gain 1 life for each "
 "other creature you control."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 1 życiu za każdego innego "
+"stwora pod twoim władaniem."
 
 #: ../../SNC.rst:160
 msgid ""
@@ -777,11 +745,6 @@ msgid "Flash"
 msgstr "Błysk"
 
 #: ../../SNC.rst:159
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "Swooping Protector enters the battlefield with a shield counter on it. (If "
 "it would be dealt damage or destroyed, remove a shield counter from it "
@@ -823,18 +786,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:171
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "When \"Broker Veteran\" dies, put a shield counter on target creature you "
 "control. (If that creature would be dealt damage or destroyed, remove a "
 "shield counter from it instead.)"
 msgstr ""
-"Ten byt wchodzi na pole bitwy mając znacznik tarczy. (Jeśli miałby otrzymać "
-"obrażenia lub zostać zniszczony, zamiast tego usuń z niego znacznik tarczy.)"
+"Kiedy ten stwór umrze, umieść znacznik tarczy na wskazanym stworze pod twoim "
+"władaniem. (Jeśli ów stwór miałby otrzymać obrażenia lub zostać zniszczony, "
+"zamiast tego usuń z niego znacznik tarczy.)"
 
 #: ../../SNC.rst:176
 msgid ""
@@ -844,11 +803,10 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:175
-#, fuzzy
-#| msgid "You may look at the top card of your library any time."
 msgid "Draw two cards, then look at the top card of each player's library."
 msgstr ""
-"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
+"Dobierz dwie karty, po czym spójrz na wierzchnią kartę biblioteki każdego "
+"gracza."
 
 #: ../../SNC.rst:182
 msgid ""
@@ -889,11 +847,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:191
-#, fuzzy
-#| msgid ""
-#| "When Echo Inspector enters the battlefield, it connives. Draw a card, "
-#| "then discard a card. If you discarded a nonland card, put a +1/+1 counter "
-#| "on this creature.)"
 msgid ""
 "When Echo Inspector enters the battlefield, it connives. (Draw a card, then "
 "discard a card. If you discarded a nonland card, put a +1/+1 counter on this "
@@ -930,14 +883,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:203
-#, fuzzy
-#| msgid "This spell costs |mana_2| less to cast if it target a red creature."
 msgid ""
 "This spell costs |mana_u|\\ |mana_u|\\ |mana_u| less to cast if an opponent "
 "has drawn four or more cards this turn."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje czerwonego "
-"stwora."
+"Rzucenie tego czaru kosztuje o |mana_u|\\ |mana_u|\\ |mana_u| mniej jeśli "
+"przeciwnik dobrał co najmniej cztery karty w tej turze."
 
 #: ../../SNC.rst:205
 msgid "Draw X cards."
@@ -1111,20 +1062,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:263
-#, fuzzy
-#| msgid ""
-#| "Whenever you attack, target attacking creature connives X, where X is the "
-#| "number of attacking creatures. (Draw X cards, then discard X cards. Put a "
-#| "+1/+1 counter on that creature for each nonland card discarded this way.)"
 msgid ""
 "When Psychic Pickpocket enters the battlefield, it connives. When it "
 "connives this way, return up to one target nonland permanent to its owner's "
 "hand. (To have a creature connive, draw a card, then discard a card. Put a "
 "+1/+1 counter on that creature for each nonland card discarded this way.)"
 msgstr ""
-"Ilekroć zaatakujesz, wskazany atakujący stwór pobłaża X, gdzie X jest liczbą "
-"atakujących stworów. (Dobierz X kart, po czym odrzuć X kart. Umieść znacznik "
-"+1/+1 na owym stworze za każdą nielądową kartę dorzuconą w ten sposób.)"
+"Kiedy ten stwór wejdzie na pole bitwy, pobłaża. Kiedy pobłaża w ten sposób, "
+"przywróć co najwyżej jeden wskazany nielądowy byt do ręki właściciela. (Aby "
+"stwór pobłażał, dobierz kartę, po czym odrzuć kartę. Umieść na owym stworze "
+"znacznik +1/+1 za każdą nielądową kartę odrzuconą w ten sposób.)"
 
 #: ../../SNC.rst:272
 msgid ""
@@ -1134,15 +1081,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:269
-#, fuzzy
-#| msgid ""
-#| "Each creature must attack enchanted creature's controller each combat if "
-#| "able."
 msgid ""
 "All creatures attack enchanted creature's controller each combat if able."
 msgstr ""
-"Każdy stwór musi w każdej potyczce zaatakować władcę zauroczonego stwora "
-"jeśli może."
+"Wszystkie stwory w każdej potyczce atakują władcę zauroczonego stwora jeśli "
+"mogą."
 
 #: ../../SNC.rst:271
 msgid "When enchanted creature dies, draw a card."
@@ -1156,10 +1099,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:275
-#, fuzzy
-#| msgid "Flying, ward |mana_1|"
 msgid "Trample, ward |mana_2|"
-msgstr "Latanie, opieka |mana_1|"
+msgstr "Tratowanie, opieka |mana_2|"
 
 #: ../../SNC.rst:277
 msgid ""
@@ -1244,19 +1185,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:309
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "You may have Undercover Operative enter the battlefield as a copy of any "
 "creature on the battlefield, except it enters with a shield counter on it if "
 "you control that creature. (If it would be dealt damage or destroyed, remove "
 "a shield counter from it instead.)"
 msgstr ""
-"Ten byt wchodzi na pole bitwy mając znacznik tarczy. (Jeśli miałby otrzymać "
-"obrażenia lub zostać zniszczony, zamiast tego usuń z niego znacznik tarczy.)"
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwor na polu bitwy, ale wchodzi mając znacznik tarczy jeśli władasz owym "
+"stworem. (Jeśli miałby otrzymać obrażenia lub zostać zniszczony, zamiast "
+"tego usuń z niego znacznik tarczy.)"
 
 #: ../../SNC.rst:316
 msgid ""
@@ -1266,11 +1204,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:313
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "\"Supportive BFF\" enters the battlefield with a shield counter on it. (If "
 "it would be dealt damage or destroyed, remove a shield counter from it "
@@ -1280,18 +1213,12 @@ msgstr ""
 "obrażenia lub zostać zniszczony, zamiast tego usuń z niego znacznik tarczy.)"
 
 #: ../../SNC.rst:315
-#, fuzzy
-#| msgid ""
-#| "Whenever Ballroom Brawlers attacks, Ballroom Brawlers and up to one other "
-#| "target creature you control both gain your choice of first strike or "
-#| "lifelink until end of turn."
 msgid ""
 "Whenever \"Supportive BFF\" attacks, up to one other target creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, on i co najwyżej jeden inny wskazany stwór pod "
-"twoim władaniem do końca tury zyskują niezależnie dowolny spośród pierwszego "
-"ciosu i więzi życia."
+"Ilekroć ten stwór zaatakuje, co najwyżej jeden wskazany stwór zyskuje do "
+"końca tury latanie."
 
 #: ../../SNC.rst:322
 msgid ""
@@ -1352,27 +1279,18 @@ msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
 #: ../../SNC.rst:339
-#, fuzzy
-#| msgid ""
-#| "Whenever one or more creatures you control deal combat damage to a "
-#| "player, create a Treasure token."
 msgid ""
 "Whenever another nontoken creature you control dies, Body Launderer connives."
 msgstr ""
-"Ilekroć co najmniej jeden stwór pod twoim władaniem zada graczowi obrażenia "
-"bojowe, stwórz żeton Skarbu."
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, niniejszy pobłaża."
 
 #: ../../SNC.rst:341
-#, fuzzy
-#| msgid ""
-#| "Return target multicolored permanent card with mana value 3 or less from "
-#| "your graveyard to the battlefield tapped."
 msgid ""
 "When Body Launderer dies, return another target non-Rogue creature card with "
 "equal to lesser power from your graveyard to the battlefield."
 msgstr ""
-"Przywróć wskazaną wielokolorową kartę bytu o skrócie many 3 lub mniejszym z "
-"twojego cmentarza przekręconą na pole bitwy."
+"Kiedy ten stwór umrze, przywróć inną wskazaną kartę stwora bez typu Łotrzyk "
+"o mniejszej lub równej sile z twojego cmentarza na pole bitwy."
 
 #: ../../SNC.rst:348
 msgid ""
@@ -1382,11 +1300,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:347
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, you may mill three cards. Then if therea "
-#| "re twenty or more cards in your graveyard, you may play the exiled card "
-#| "without paying its mana cost."
 msgid ""
 "At the beginning of your upkeep, you may mill three cards. Then if there are "
 "twenty or more cards in your graveyard, you may play the exiled card without "
@@ -1423,18 +1336,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:357
-#, fuzzy
-#| msgid ""
-#| "Mill two cards, then return a creature card from your graveyard to your "
-#| "hand. (To mill a card, a player puts the top card of their library into "
-#| "their graveyard.)"
 msgid ""
 "Target creature gets -3/-3 until end of turn. Target player mills three "
 "cards. (They put the top three cards of their library into their graveyard.)"
 msgstr ""
-"Zmiel dwie karty, po czym przywróć kartę stwora z twojego cmentarza do "
-"twojej ręki. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej "
-"biblioteki w swoim cmentarzu.)"
+"Wskazany stwór dostaje do końca tury -3/-3. Wskazany gracz mieli trzy karty. "
+"(Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../SNC.rst:364
 msgid ""
@@ -1467,16 +1374,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:369
-#, fuzzy
-#| msgid ""
-#| "When Lord Xander, the Collector enters the battlefield, target opponent "
-#| "discards half the cards in their hand, rounded down."
 msgid ""
 "When Dusk Mangler enters the battlefield, each opponent sacrifices a "
 "creature, discards a card, and loses 4 life."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik odrzuca połowę kart "
-"ze swojej ręki, zaokrąglając w dół."
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik poświęca stwora, "
+"odrzuca kartę i traci 4 życia."
 
 #: ../../SNC.rst:376
 msgid ""
@@ -1617,16 +1520,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:415
-#, fuzzy
-#| msgid ""
-#| "When Courier's Briefcase enters the battlefield, create a 1/1 green and "
-#| "white Citizen creature token."
 msgid ""
 "When Night Clubber enters the battlefield, creatures your opponents control "
 "get -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-białego stwora "
-"Mieszczanin 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod władaniem twoich "
+"przeciwników dostają do końca tury -1/-1."
 
 #: ../../SNC.rst:417
 msgid ""
@@ -1643,11 +1542,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:421
-#, fuzzy
-#| msgid ""
-#| "When Raffine's Informant enters the battlefield, it connives. (Draw a "
-#| "card, then discard a card. If you discarded a nonland card, put a +1/+1 "
-#| "counter on this creature.)"
 msgid ""
 "When Raffine's Silencer enters the battlefield, it connives. (Draw a card, "
 "then discard a card. If you discarded a nonland card, put a +1/+1 counter on "
@@ -1658,18 +1552,12 @@ msgstr ""
 "stworze.)"
 
 #: ../../SNC.rst:423
-#, fuzzy
-#| msgid ""
-#| "Whenever you discard a card, target creature an opponent controls gets -"
-#| "X/-0 until your next turn, where X is the number of different mana values "
-#| "among cards in your graveyard."
 msgid ""
 "When Raffine's Silencer dies, target creature an opponent controls gets -X/-"
 "X until end of turn, where X is Raffine's Silencer's power."
 msgstr ""
-"Ilekroć odrzucisz kartę, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -X/-0, gdzie X jest liczbą różnych wartości skrótów many pośród "
-"kart w twoim cmentarzu."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
+"końca tury -X/-X, gdzie X jest siłą niniejszego."
 
 #: ../../SNC.rst:430
 msgid ""
@@ -1703,16 +1591,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:433
-#, fuzzy
-#| msgid ""
-#| "When Cormela, Glamour Thief dies, return up to one target instant or "
-#| "sorcery card from your graveyard to your hand."
 msgid ""
 "For each color, return up to one target creature card of that color from "
 "your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór umrze, przywróć co najwyżej jedną wskazaną kartę sztuczki "
-"lub obrzędu z twojego cmentarza do twojej ręki."
+"Dla każdego koloru, przywróć co najwyżej jedną wskazaną kartę stwora owego "
+"koloru z twojego cmentarza do twojej ręki."
 
 #: ../../SNC.rst:442
 msgid ""
@@ -1726,30 +1610,21 @@ msgid "Menace, lifelink"
 msgstr "Złowrogość, więź życia"
 
 #: ../../SNC.rst:439
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a Treasure: Exile the top card of your library. You may play "
-#| "that card this turn."
 msgid ""
 "|mana_1|, Sacrifice another creature: Look at the top card of your library. "
 "You may put that card into your graveyard."
 msgstr ""
-"Poświęć Skarb: Wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać ową "
-"kartę w tej turze."
+"|mana_1|, poświęć innego stwora: Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ową kartę w twoim cmentarzu."
 
 #: ../../SNC.rst:441
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, you may mill three cards. Then if therea "
-#| "re twenty or more cards in your graveyard, you may play the exiled card "
-#| "without paying its mana cost."
 msgid ""
 "At the beginning of your end step, if there are five or more mana values "
 "among cards in your graveyard, you may pay 2 life. If you do, draw a card."
 msgstr ""
-"Na początku twojego kroku utrzymania, możesz zmielić trzy karty. Następnie "
-"jeśli w twoim cmentarzu jest co najmniej dwadzieścia kart, możesz zagrać ową "
-"wygnaną kartę bez płacenia jej kosztu many."
+"Na początku twojego kroku końcowego, jeśli pośród kart w twoim cmentarzu "
+"jest co najmniej pięć różnych skrótów many, możesz zapłacić 2 życia. Jeśli "
+"tak zrobisz, dobierz kartę."
 
 #: ../../SNC.rst:446
 msgid ""
@@ -1842,12 +1717,9 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:473
-#, fuzzy
-#| msgid "This spell costs |mana_2| less to cast if it target a red creature."
 msgid "This spell costs |mana_3| less to cast if it targets a white creature."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje czerwonego "
-"stwora."
+"Rzucenie tego czaru kosztuje o |mana_3| mniej jeśli wskazuje białego stwora."
 
 #: ../../SNC.rst:475
 msgid "Target creature gets -4/-4 until end of turn."
@@ -1956,16 +1828,12 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../SNC.rst:507
-#, fuzzy
-#| msgid ""
-#| "Whenever one or more creatures you control deal combat damage to a "
-#| "player, create a Treasure token."
 msgid ""
 "Whenever Hoard Hauler deals combat damage to a player, create a Treasure "
 "token for each artifact they control."
 msgstr ""
-"Ilekroć co najmniej jeden stwór pod twoim władaniem zada graczowi obrażenia "
-"bojowe, stwórz żeton Skarbu."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton Skarbu za "
+"każdy artefakt pod jego władaniem."
 
 #: ../../SNC.rst:509
 msgid "Crew 3"
@@ -1979,18 +1847,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:513
-#, fuzzy
-#| msgid ""
-#| "Exile target nonland permanent. its controller creates a Treasure token. "
-#| "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of "
-#| "any color.\")"
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. Create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Wygnaj wskazany nielądowy byt. Jego władca tworzy żeton Skarbu. (To artefakt "
-"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech. Stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../SNC.rst:520
 msgid ""
@@ -2037,11 +1901,10 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:531
-#, fuzzy
-#| msgid "Target creature gets +2/+7 until end of turn. Untap it."
 msgid ""
 "Whenever Mayhem Patrol attacks, target creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+7. Odkręć go."
+msgstr ""
+"Ilekroć ten stwór zaatakuje, wskazany stwór dostaje do końca tury +1/+0."
 
 #: ../../SNC.rst:540
 msgid ""
@@ -2096,19 +1959,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:551
-#, fuzzy
-#| msgid ""
-#| "Whenever Maestros Diabolist attacks, if you don't control a Devil token, "
-#| "create a tapped and attacking 1/1 red Devil creature token with \"When "
-#| "this creature dies, it deals 1 damage to any target.\""
 msgid ""
 "Whenever \"First-Round Pugilist\" attacks, create a tapped and attacking 1/1 "
 "red Devil creature token with \"When this creature dies, it deals 1 damage "
 "to any target.\""
 msgstr ""
-"Ilekroć ten stwór zaatakuje, jeśli nie władasz żetonem Diabła, stwórz "
-"przekręcony i atakujący żeton czerwonego stwora Diabeł 1/1 mający \"Kiedy "
-"ten stwór umrze, zadaje wskazanemu celowi 1 obrażenie.\""
+"Ilekroć ten stwór zaatakuje, stwórz przekręcony i atakujący żeton czerwonego "
+"stwora Diabeł 1/1 mający \"Kiedy ten stwór umrze, zadaje wskazanemu celowi 1 "
+"obrażenie.\""
 
 #: ../../SNC.rst:553
 msgid ""
@@ -2150,17 +2008,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:565
-#, fuzzy
-#| msgid ""
-#| "Exile target nonland permanent. its controller creates a Treasure token. "
-#| "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of "
-#| "any color.\")"
 msgid ""
 "When \"Rocket Pickpocket\" dies, create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Wygnaj wskazany nielądowy byt. Jego władca tworzy żeton Skarbu. (To artefakt "
-"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Kiedy ten stwór umrze, stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../SNC.rst:574
 msgid ""
@@ -2184,20 +2037,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:577
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, scry 1. If this is the second time this ability has resolved "
-#| "this turn, draw a card instead."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, target creature an opponent controls can't block this turn. If this "
 "is the second time this ability has resolved this turn, that creature "
 "attacks during its controller's next combat phase if able."
 msgstr ""
-"Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, wróż "
-"1. Jeśli ta zdolność jest rozpatrzona drugi raz w tej turze, zamiast tego "
-"dobierz kartę."
+"Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
+"wskazany stwór pod władaniem przeciwnika nie może blokować w tej turze. "
+"Jeśli ta zdolność jest rozpatrzona drugi raz w tej turze, ów stwór atakuje "
+"podczas najbliższej fazy potyczki swojego władcy jeśli może."
 
 #: ../../SNC.rst:582
 msgid ""
@@ -2232,22 +2081,17 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:589
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_2| less to cast if it targets a green permanent."
 msgid "This spell costs |mana_2| less to cast if it targets a blue permanent."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje zielony byt."
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli wskazuje niebieski byt."
 
 #: ../../SNC.rst:591 ../../SNC.rst:1149
 msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
 #: ../../SNC.rst:593
-#, fuzzy
-#| msgid "Strangle deals 3 damage to target creature or planeswalker."
 msgid "Torch Breath deals X damage to target creature or planeswalker."
-msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia."
+msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi X obrażeń."
 
 #: ../../SNC.rst:598
 msgid ""
@@ -2303,19 +2147,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:611
-#, fuzzy
-#| msgid ""
-#| "Whenever you draw your first card during each of your draw steps, draw a "
-#| "card. Then if you have nine or more cards in hand, you may play the "
-#| "exiled card without paying its mana cost."
 msgid ""
 "Whenever you cast a multicored spell, create a Treasure token. Then, you may "
 "pay |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. If you do, you may "
 "play the exiled card without paying its mana cost."
 msgstr ""
-"Ilekroć dobierzesz swoją pierwszą kartę podczas każdego twojego kroku "
-"dobierania, dobierze kartę. Następnie jeśli masz co najmniej dziewięć kart w "
-"ręce, możesz zagrać ową wygnaną kartę bez płacenia jej kosztu many."
+"Ilekroć rzucisz wielokolorowy czar, stwórz żeton Skarbu. Następnie możesz "
+"zapłacić |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. Jeśli tak "
+"zrobisz, możesz zagrać ową wygnaną kartę bez płacenia jej kosztu many."
 
 #: ../../SNC.rst:616
 msgid ""
@@ -2325,16 +2164,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:615
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, double Devilish Valet's power until end of turn."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, Witty Roaster deals 1 damage to each opponent."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"podwój do końca tury siłę niniejszego stwora."
+"niniejszy zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../SNC.rst:620
 msgid ""
@@ -2344,16 +2179,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:619
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, double Devilish Valet's power until end of turn."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, Attended Socialite gets +1/+1 until end of turn."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"podwój do końca tury siłę niniejszego stwora."
+"niniejszy dostaje do końca tury +1/+1."
 
 #: ../../SNC.rst:624
 msgid ""
@@ -2387,16 +2218,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:631
-#, fuzzy
-#| msgid ""
-#| "When Courier's Briefcase enters the battlefield, create a 1/1 green and "
-#| "white Citizen creature token."
 msgid ""
 "When Caldaia Strongarm enters the battlefield, put two +1/+1 counters on "
 "target creature."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-białego stwora "
-"Mieszczanin 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, umieść dwa znaczniki +1/+1 na wskazanym "
+"stworze."
 
 #: ../../SNC.rst:633
 msgid ""
@@ -2467,17 +2294,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:657
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, double Devilish Valet's power until end of turn."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, target creature other than Elegant Entourage gets +1/+1 and gains "
 "trample until end of turn."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"podwój do końca tury siłę niniejszego stwora."
+"wskazany stwór inny niż niniejszy dostaje do końca tury +1/+1 i tratowanie."
 
 #: ../../SNC.rst:662
 msgid ""
@@ -2533,16 +2356,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:675
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, choose one that hasn't been chosen this turn—"
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, choose one that hasn't been chosen this turn —"
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"wybierz jedno nie wybrane w tej turze—"
+"wybierz jedno nie wybrane w tej turze —"
 
 #: ../../SNC.rst:677
 msgid "Put a +1/+1 counter on Gala Greeters."
@@ -2568,16 +2387,11 @@ msgid "Vigilance, trample"
 msgstr "Czujność, tratowanie"
 
 #: ../../SNC.rst:687
-#, fuzzy
-#| msgid ""
-#| "Exile target nonland permanent. its controller creates a Treasure token. "
-#| "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of "
-#| "any color.\")"
 msgid ""
 "When Jewel Thief enters the battlefield, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Wygnaj wskazany nielądowy byt. Jego władca tworzy żeton Skarbu. (To artefakt "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
 "mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../SNC.rst:692
@@ -2607,10 +2421,8 @@ msgid "Enchanted creature gets +2/+1."
 msgstr "Zauroczony stwór dostaje +2/+1."
 
 #: ../../SNC.rst:701
-#, fuzzy
-#| msgid "When enchanted creature dies, draw a card."
 msgid "When enchanted creature dies, create two Treasure tokens."
-msgstr "Kiedy zauroczony stwór umrze, dobierz kartę."
+msgstr "Kiedy zauroczony stwór umrze, stwórz dwa żetony Skarbu."
 
 #: ../../SNC.rst:708
 msgid ""
@@ -2620,11 +2432,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:705
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "\"Hammer Bro\" enters the battlefield with a shield counter on it. (If it "
 "would be dealt damage or destroyed, remove a shield counter from it instead.)"
@@ -2644,16 +2451,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:711
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, double Devilish Valet's power until end of turn."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, you gain 1 life."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"podwój do końca tury siłę niniejszego stwora."
+"zyskaj 1 życie."
 
 #: ../../SNC.rst:716
 msgid ""
@@ -2694,10 +2497,8 @@ msgid "Target player gains 5 life."
 msgstr ""
 
 #: ../../SNC.rst:727
-#, fuzzy
-#| msgid "−1: Create a 4/4 green Rhino Warrior creature token."
 msgid "Create a 4/4 green Rhino Warrior creature token."
-msgstr "–1: Stwórz żeton zielonego stwora Nosorożec Wojownik 4/4."
+msgstr "Stwórz żeton zielonego stwora Nosorożec Wojownik 4/4."
 
 #: ../../SNC.rst:729
 msgid "Put a shield counter on a creature you control."
@@ -2715,18 +2516,12 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../SNC.rst:735
-#, fuzzy
-#| msgid ""
-#| "When Maestros Theater enters the battlefield, sacrifice it. When you do, "
-#| "search your library for a basic Island, Swamp, or Mountain card, put it "
-#| "onto the battlefield tapped, then shuffle and you gain 1 life."
 msgid ""
 "When Topiary Stomper enters the battlefield, search your library for a basic "
 "land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, poświęć go. Kiedy tak zrobisz, wyszukaj "
-"w twojej bibliotece kartę bazowej Wyspy, Bagna lub Góry, umieść ją "
-"przekręconą na polu bitwy, po czym przetasuj i zyskaj 1 życie."
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SNC.rst:737
 msgid ""
@@ -2741,20 +2536,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:741
-#, fuzzy
-#| msgid ""
-#| "Alliance — Whenever another creature enters the battlefield under your "
-#| "control, scry 1. If this is the second time this ability has resolved "
-#| "this turn, draw a card instead."
 msgid ""
 "Alliance — Whenever another creature enters the battlefield under your "
 "control, Venom Connoisseur gains deathtouch until end of turn. If this is "
 "the second time this ability has resolved this turn, all creatures you "
 "control gain deathtouch until end of turn."
 msgstr ""
-"Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, wróż "
-"1. Jeśli ta zdolność jest rozpatrzona drugi raz w tej turze, zamiast tego "
-"dobierz kartę."
+"Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
+"niniejszy zyskuje do końca tury dotyk śmierci. Jeśli ta zdolność jest "
+"rozpatrzona drugi raz w tej turze, wszystkie stwory pod twoim władaniem "
+"zyskują do końca tury dotyk śmierci."
 
 #: ../../SNC.rst:750
 msgid ""
@@ -2793,11 +2584,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:753
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "Voice of the Vermin enters the battlefield with a shield counter on it. (If "
 "it would be dealt damage or destroyed, remove a shield counter from it "
@@ -2820,16 +2606,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:761
-#, fuzzy
-#| msgid ""
-#| "As long as there are five or more mana values among cards in your "
-#| "graveyard, Snooping Newsie gets +1/+1 and has lifelink."
 msgid ""
 "As long as there are five or more mana values among cards in your graveyard, "
 "Aven Heartstabber gets +2/+2 and has deathtouch."
 msgstr ""
 "O ile pośród kart w twoim cmentarzu jest co najmniej pięć różnych skrótów "
-"many, ten stwór dostaje +1/+1 i ma więź życia."
+"many, ten stwór dostaje +2/+2 i ma dotyk śmierci."
 
 #: ../../SNC.rst:763
 msgid "When Aven Heartstabber dies, mill two cards, then draw a card."
@@ -2851,10 +2633,8 @@ msgstr ""
 "każdy Skarb pod twoim władaniem."
 
 #: ../../SNC.rst:769
-#, fuzzy
-#| msgid "Create a tapped Treasure token."
 msgid "|tap|: Create a Treasure token."
-msgstr "Stwórz przekręcony żeton Skarbu."
+msgstr "|tap|: Stwórz żeton Skarbu."
 
 #: ../../SNC.rst:776
 msgid ""
@@ -2864,24 +2644,17 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:773
-#, fuzzy
-#| msgid ""
-#| "Whenever you gain life during your turn, put a +1/+1 counter on Vampire "
-#| "Scrivener."
 msgid ""
 "Whenever you sacrifice another creature, put a +1/+1 counter on Body Dropper."
-msgstr ""
-"Ilekroć zyskasz życia w twojej turze, umieść znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć poświęcisz innego stwora, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../SNC.rst:775
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "|mana_b|\\ |mana_r|, Sacrifice another creature: Body Dropper gains menace "
 "until end of turn. (It can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"|mana_b|\\ |mana_r|, poświęć innego stwora: Niniejszy zyskuje do końca tury "
+"złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
 "stwory.)"
 
 #: ../../SNC.rst:782
@@ -2892,20 +2665,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:781
-#, fuzzy
-#| msgid ""
-#| "−3: Look at the top seven cards of your library. You may put a permanent "
-#| "card with mana value 3 or less from among them onto the battlefield with "
-#| "a shield counter on it. Put the rest on the bottom of your library in a "
-#| "random order."
 msgid ""
 "When Brazen Upstart dies, look at the top five cards of your library. You "
 "may reveal a creature card from among them and put it into your hand. Put "
 "the rest on the bottom of your library in a random order."
 msgstr ""
-"–3: Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić "
-"spośród nich kartę bytu o skrócie many 3 lub mniejszym na polu bitwy ze "
-"znacznikiem tarczy. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Kiedy ten stwór umrze, spójrz na pięć wierzchnich kart twojej biblioteki. "
+"Możesz ujawnić spośród nich kartę stwora i umieścić ją w twojej ręce. Umieść "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../SNC.rst:786
 msgid ""
@@ -2956,21 +2723,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:799
-#, fuzzy
-#| msgid ""
-#| "−3: Look at the top seven cards of your library. You may put a permanent "
-#| "card with mana value 3 or less from among them onto the battlefield with "
-#| "a shield counter on it. Put the rest on the bottom of your library in a "
-#| "random order."
 msgid ""
 "At the beginning of your upkeep, look at the top card of your library. If "
 "it's a creature or planeswalker card, you may reveal it and put it into your "
 "hand. If you don't put the card into your hand, you may put it on the bottom "
 "of your library."
 msgstr ""
-"–3: Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz umieścić "
-"spośród nich kartę bytu o skrócie many 3 lub mniejszym na polu bitwy ze "
-"znacznikiem tarczy. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Na początku twojego kroku utrzymania, spójrz na wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta stwora lub wędrowca, możesz ujawnić ją i umieścić "
+"w twojej ręce. Jeśli nie umieścisz owej karty w twojej ręce, możesz umieścić "
+"ją na spodzie twojej biblioteki."
 
 #: ../../SNC.rst:810
 msgid ""
@@ -3101,16 +2863,12 @@ msgstr ""
 "cmentarza."
 
 #: ../../SNC.rst:845
-#, fuzzy
-#| msgid ""
-#| "Cabaretti Charm deals damage equal to the number of creatures you control "
-#| "to target creature or planeswalker."
 msgid ""
 "\"Corpse Explosion\" deals damage equal to the exiled card's power to each "
 "creature and each planeswalker."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia równe liczbie "
-"stworów pod twoim władaniem."
+"Ten czar zadaje każdemu stworowi i każdemu wędrowcowi obrażenia równe sile "
+"wygnanej karty."
 
 #: ../../SNC.rst:852
 msgid ""
@@ -3137,16 +2895,12 @@ msgid "Other Citizens you control get +1/+0."
 msgstr ""
 
 #: ../../SNC.rst:857
-#, fuzzy
-#| msgid ""
-#| "When Courier's Briefcase enters the battlefield, create a 1/1 green and "
-#| "white Citizen creature token."
 msgid ""
 "Whenever Darling of the Masses attacks, create a 1/1 green and white Citizen "
 "creature token."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-białego stwora "
-"Mieszczanin 1/1."
+"Kiedy ten stwór zaatakuje, stwórz żeton zielono-białego stwora Mieszczanin 1/"
+"1."
 
 #: ../../SNC.rst:864
 msgid ""
@@ -3185,11 +2939,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:873
-#, fuzzy
-#| msgid ""
-#| "Whenever Evelyn, the Covetous or another vampire enters the battlefield "
-#| "under your control, exile the top card of each player's library with a "
-#| "collection counter on it."
 msgid ""
 "Whenever Evelyn, the Covetous or another Vampire enters the battlefield "
 "under your control, exile the top card of each player's library with a "
@@ -3668,20 +3417,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1029
-#, fuzzy
-#| msgid ""
-#| "Whenever you attack, target attacking creature connives X, where X is the "
-#| "number of attacking creatures. (Draw X cards, then discard X cards. Put a "
-#| "+1/+1 counter on that creature for each nonland card discarded this way.)"
 msgid ""
 "When Obscura Interceptor enters the battlefield, it connives. When it "
 "connives this way, return up to one target spell to its owner's hand. (To "
 "have a creature connive, draw a card, then discard a card. Put a +1/+1 "
 "counter on that creature for each nonland card discarded this way.)"
 msgstr ""
-"Ilekroć zaatakujesz, wskazany atakujący stwór pobłaża X, gdzie X jest liczbą "
-"atakujących stworów. (Dobierz X kart, po czym odrzuć X kart. Umieść znacznik "
-"+1/+1 na owym stworze za każdą nielądową kartę dorzuconą w ten sposób.)"
+"Kiedy ten stwór wejdzie na pole bitwy, pobłaża. Kiedy pobłaża w ten sposób, "
+"przywróć co najwyżej jeden wskazany czar do ręki właściciela. (Aby stwór "
+"pobłażał, dobierz kartę, po czym odrzuć kartę. Umieść znacznik +1/+1 na tym "
+"stworze za każdą nielądową kartę odrzuconą w ten sposób.)"
 
 #: ../../SNC.rst:1036
 msgid ""
@@ -3692,16 +3437,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1035
-#, fuzzy
-#| msgid ""
-#| "Whenever one or more creatures you control deal combat damage to a "
-#| "player, create a Treasure token."
 msgid ""
 "Whenever a creature you control with haste attacks, create a tapped Treasure "
 "token."
 msgstr ""
-"Ilekroć co najmniej jeden stwór pod twoim władaniem zada graczowi obrażenia "
-"bojowe, stwórz żeton Skarbu."
+"Ilekroć zaatakuje stwór pod twoim władaniem mający pośpiech, stwórz "
+"przekręcony żeton Skarbu."
 
 #: ../../SNC.rst:1042
 msgid ""
@@ -3725,11 +3466,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1045
-#, fuzzy
-#| msgid "Each opponent loses 3 life and you gain 3 life."
 msgid ""
 "Whenever you draw a card, target opponent loses 1 life and you gain 1 life."
-msgstr "Każdy przeciwnik traci po 3 życia, a ty zyskaj 3 życia."
+msgstr ""
+"Ilekroć dobierzesz kartę, wskazany przeciwnik traci 1 życie, a ty zyskaj 1 "
+"życie."
 
 #: ../../SNC.rst:1052
 msgid ""
@@ -3760,10 +3501,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1055
-#, fuzzy
-#| msgid ""
-#| "When Courier's Briefcase enters the battlefield, create a 1/1 green and "
-#| "white Citizen creature token."
 msgid ""
 "When Rakish Revelers enters the battlefield, create a 1/1 green and white "
 "Citizen creature token."
@@ -3786,11 +3523,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1061
-#, fuzzy
-#| msgid ""
-#| "Disciplined Duelist enters the battlefield with a shield counter on it. "
-#| "(If it would be dealt damage or destroyed, remove a shield counter from "
-#| "it instead.)"
 msgid ""
 "Rigo, Streetwise Mentor enters the battlefield with a shield counter on it. "
 "(If it would be dealt damage or destroyed, remove a shield counter from it "
@@ -3813,17 +3545,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1067
-#, fuzzy
-#| msgid ""
-#| "Return target multicolored permanent card with mana value 3 or less from "
-#| "your graveyard to the battlefield tapped."
 msgid ""
 "Whenever you sacrifice a creature, you may return target creature card with "
 "lesser mana value from your graveyard to the battlefield tapped. Do this "
 "only once each turn."
 msgstr ""
-"Przywróć wskazaną wielokolorową kartę bytu o skrócie many 3 lub mniejszym z "
-"twojego cmentarza przekręconą na pole bitwy."
+"Ilekroć poświęcisz stwora, możesz przywrócić wskazaną kartę stwora o "
+"mniejszym skrócie many z twojego cmentarza przekręconą na pole bitwy. Rób to "
+"tylko raz na turę."
 
 #: ../../SNC.rst:1078
 msgid ""
@@ -3861,19 +3590,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1081
-#, fuzzy
-#| msgid ""
-#| "When Maestros Theater enters the battlefield, sacrifice it. When you do, "
-#| "search your library for a basic Island, Swamp, or Mountain card, put it "
-#| "onto the battlefield tapped, then shuffle and you gain 1 life."
 msgid ""
 "When Rocco, Cabaretti Caterer enters the battlefield, if you cast it, you "
 "may search your library for a creature card with mana value X or less, put "
 "it onto the battlefield, then shuffle."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, poświęć go. Kiedy tak zrobisz, wyszukaj "
-"w twojej bibliotece kartę bazowej Wyspy, Bagna lub Góry, umieść ją "
-"przekręconą na polu bitwy, po czym przetasuj i zyskaj 1 życie."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli go rzuciłeś, możesz wyszukać w "
+"twojej bibliotece kartę stwora o skrócie many X lub mniejszym, umieść ją na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../SNC.rst:1090
 msgid ""
@@ -3918,10 +3642,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1099
-#, fuzzy
-#| msgid "When Chrome Cat enters the battlefield, scry 1."
 msgid "When Shattered Seraph enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../SNC.rst:1101
 msgid ""
@@ -3996,26 +3718,18 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1121
-#, fuzzy
-#| msgid ""
-#| "Counter target noncreature spell. Its controller creates two Treasure "
-#| "tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "When Stimulus Package enters the battlefield, create two Treasure tokens. "
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
-"Skontruj wskazany niestworowy czar. Jego władca tworzy dwa żetony Skarbu. "
-"(To artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\")"
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (To artefakty "
+"mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../SNC.rst:1123
-#, fuzzy
-#| msgid "Create two 1/1 green and white Citizen creature tokens."
 msgid ""
 "Sacrifice a Treasure: Create a 1/1 green and white Citizen creature token."
-msgstr "Stwórz dwa żetony zielono-białego stwora Mieszczanin 1/1."
+msgstr "Poświęć Skarb: Stwórz żeton zielono-białego stwora Mieszczanin 1/1."
 
 #: ../../SNC.rst:1130
 msgid ""
@@ -4025,16 +3739,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1129
-#, fuzzy
-#| msgid ""
-#| "As long as there are five or more mana values among cards in your "
-#| "graveyard, Snooping Newsie gets +1/+1 and has lifelink."
 msgid ""
 "As long as there are five or more mana values among cards in your graveyard, "
 "Syndicate Infiltrator gets +2/+2."
 msgstr ""
 "O ile pośród kart w twoim cmentarzu jest co najmniej pięć różnych skrótów "
-"many, ten stwór dostaje +1/+1 i ma więź życia."
+"many, ten stwór dostaje +2/+2."
 
 #: ../../SNC.rst:1134
 msgid ""
@@ -4044,16 +3754,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1133
-#, fuzzy
-#| msgid ""
-#| "This spell has flash as long as there are five or more mana values among "
-#| "cards in your graveyard."
 msgid ""
 "Draw two cards. Then discard a card unless there are five or more mana "
 "values among cards in your graveyard."
 msgstr ""
-"Ten czar ma błysk o ile spośród kart w twoim cmentarzu jest co najmniej pięć "
-"różnych skrótów many."
+"Dobierz dwie karty. Następnie odrzuć kartę, chyba że spośród kart w twoim "
+"cmentarzu jest co najmniej pięć różnych skrótów many."
 
 #: ../../SNC.rst:1142
 msgid ""
@@ -4063,19 +3769,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1137
-#, fuzzy
-#| msgid ""
-#| "Whenever a player casts their second spell each turn, Ledger Shredder "
-#| "connives. (Draw a card, then discard a card. If you discarded a nonland "
-#| "card, put a +1/+1 counter on this creature.)"
 msgid ""
 "When Toluz, Clever Conductor enters the battlefield, it connives. (Draw a "
 "card, then discard a card. If you discarded a nonland card, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ilekroć gracz rzuci swój drugi czar w danej turze, ten stwór pobłaża. "
-"(Dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, "
-"umieść znacznik +1/+1 na tym stworze.)"
+"Kiedy ten stwór wejdzie na pole bitwy, pobłaża. (Dobierz kartę, po czym "
+"odrzuć kartę. Jeśli odrzuciłeś nielądową kartę, umieść znacznik +1/+1 na tym "
+"stworze.)"
 
 #: ../../SNC.rst:1139
 msgid "Whenever you discard one or more cards, exile them from your graveyard."
@@ -4148,10 +3849,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1165
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)"
 msgid "Blitz |mana_2|\\ |mana_b|\\ |mana_r|\\ |mana_g|"
-msgstr "(|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|.)"
+msgstr ""
 
 #: ../../SNC.rst:1172
 msgid ""
@@ -4246,18 +3945,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1203
-#, fuzzy
-#| msgid ""
-#| "Exile target nonland permanent. its controller creates a Treasure token. "
-#| "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of "
-#| "any color.\")"
 msgid ""
 "|mana_2|, Exile \"Flashy Fren\" from your graveyard: Create a Treasure "
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
-"Wygnaj wskazany nielądowy byt. Jego władca tworzy żeton Skarbu. (To artefakt "
-"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"|mana_2|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../SNC.rst:1214
 msgid ""
@@ -4292,16 +3987,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1217
-#, fuzzy
-#| msgid ""
-#| "Search your library for a card, put that card into your hand, then "
-#| "shuffle."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Ominous Parcel: Search your library for a basic "
 "land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
-"przetasuj."
+"|mana_2|, |tap|, poświęć ten byt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../SNC.rst:1219
 msgid ""
@@ -4384,18 +4075,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1249
-#, fuzzy
-#| msgid ""
-#| "When Maestros Theater enters the battlefield, sacrifice it. When you do, "
-#| "search your library for a basic Island, Swamp, or Mountain card, put it "
-#| "onto the battlefield tapped, then shuffle and you gain 1 life."
 msgid ""
 "When Cabaretti Courtyard enters the battlefield, sacrifice it. When you do, "
 "search your library for a basic Mountain, Forest, or Plains card, put it "
 "onto the battlefield tapped, then shuffle and you gain 1 life."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, poświęć go. Kiedy tak zrobisz, wyszukaj "
-"w twojej bibliotece kartę bazowej Wyspy, Bagna lub Góry, umieść ją "
+"w twojej bibliotece kartę bazowej Góry, Lasu lub Równiny, umieść ją "
 "przekręconą na polu bitwy, po czym przetasuj i zyskaj 1 życie."
 
 #: ../../SNC.rst:1258
@@ -4443,18 +4129,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1265
-#, fuzzy
-#| msgid ""
-#| "When Maestros Theater enters the battlefield, sacrifice it. When you do, "
-#| "search your library for a basic Island, Swamp, or Mountain card, put it "
-#| "onto the battlefield tapped, then shuffle and you gain 1 life."
 msgid ""
 "When Obscura Storefront enters the battlefield, sacrifice it. When you do, "
 "search your library for a basic Plains, Island, or Swamp card, put it onto "
 "the battlefield tapped, then shuffle and you gain 1 life."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, poświęć go. Kiedy tak zrobisz, wyszukaj "
-"w twojej bibliotece kartę bazowej Wyspy, Bagna lub Góry, umieść ją "
+"w twojej bibliotece kartę bazowej Równiny, Wyspy lub Bagna, umieść ją "
 "przekręconą na polu bitwy, po czym przetasuj i zyskaj 1 życie."
 
 #: ../../SNC.rst:1274
@@ -4664,23 +4345,18 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1355
-#, fuzzy
-#| msgid "When Chrome Cat enters the battlefield, scry 1."
 msgid "When Workshop Warchief enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../SNC.rst:1357
-#, fuzzy
-#| msgid "−1: Create a 4/4 green Rhino Warrior creature token."
 msgid ""
 "When Workshop Warchief dies, create a 4/4 green Rhino Warrior creature token."
-msgstr "–1: Stwórz żeton zielonego stwora Nosorożec Wojownik 4/4."
+msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton zielonego stwora Nosorożec Wojownik 4/4."
 
 #: ../../SNC.rst:1359
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)"
 msgid "Blitz |mana_4|\\ |mana_g|\\ |mana_g|"
-msgstr "(|tap|: Weź |mana_r|, |mana_g|, lub |mana_w|.)"
+msgstr ""
 
 #~ msgid ""
 #~ "Whenever another nontoken creature you control dies, \"Hyde the Bodies\" "
