@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-03-29 10:53+0000\n"
+"PO-Revision-Date: 2022-04-15 16:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -548,10 +548,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:107
-#, fuzzy
-#| msgid "Reach, ward |mana_1|"
 msgid "Ward |mana_1|"
-msgstr "Zasięg, opieka |mana_1|"
+msgstr "Opieka |mana_1|"
 
 #: ../../AFR.rst:116
 msgid ""
@@ -2938,10 +2936,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:911
-#, fuzzy
-#| msgid "Cure Wounds — You gain 2 life."
 msgid "Ward — Pay 2 life."
-msgstr "Leczenie ran — Zyskaj 2 życia."
+msgstr "Opieka — Zapłać 2 życia."
 
 #: ../../AFR.rst:928
 msgid ""
@@ -4762,16 +4758,12 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1541
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "|mana_0|: Attach target Equipment you control to target creature you "
 "control. Activate only as a sorcery and only once each turn."
 msgstr ""
-"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj tylko jako obrzęd.)"
+"|mana_0|: Dołącz wskazane Wyposażenie pod twoim władaniem do wskazanego "
+"stwora pod twoim władaniem. Aktywuj tylko jako obrzęd i tylko raz na turę."
 
 #: ../../AFR.rst:1550
 msgid ""

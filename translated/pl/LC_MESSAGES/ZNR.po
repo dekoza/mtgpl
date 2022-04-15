@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-03-29 10:54+0000\n"
+"PO-Revision-Date: 2022-04-15 16:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -3071,19 +3071,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:897
-#, fuzzy
-#| msgid ""
-#| "Whenever Goma Fada Vanguard attacks, target creature an opponent controls "
-#| "with power less than or equal to the number of Warriors you control can't "
-#| "block this turn."
 msgid ""
 "Whenever Goma Fada Vanguard attacks, target creature an opponent controls "
 "with power less than or equal to the number of Warriors and Equipment you "
 "control can't block this turn."
 msgstr ""
 "Ilekroć ten stwór atakuje, wskazany stwór pod władaniem przeciwnika o sile "
-"równej lub mniejszej od liczby Wojowników pod twoim władaniem nie może "
-"blokować w tej turze."
+"równej lub mniejszej od liczby Wojowników i Wyposażenia pod twoim władaniem "
+"nie może blokować w tej turze."
 
 #: ../../ZNR.rst:904
 msgid ""
@@ -3163,10 +3158,8 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:931
-#, fuzzy
-#| msgid "Kargan Intimidator gets +1/+1 until end of turn."
 msgid "Kargan Intimidator gets +1/+1 and gains trample until end of turn."
-msgstr "Ten stwór dostaje do końca tury +1/+1."
+msgstr "Ten stwór dostaje do końca tury +1/+1 i tratowanie."
 
 #: ../../ZNR.rst:940
 msgid ""
@@ -4714,16 +4707,13 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1441
-#, fuzzy
-#| msgid "Kicker |mana_2|"
 msgid "Ward |mana_1|"
-msgstr "Podbicie |mana_2|"
+msgstr "Opieka |mana_1|"
 
 #: ../../ZNR.rst:1443
-#, fuzzy
-#| msgid "Other Warriors you control get +1/+1."
 msgid "Other Warriors you control get +1/+1 and have ward |mana_1|."
-msgstr "Inni Wojownicy pod twoim władaniem dostają +1/+1."
+msgstr ""
+"Inni Wojownicy pod twoim władaniem dostają +1/+1 i mają opiekę |mana_1|."
 
 #: ../../ZNR.rst:1450
 msgid ""
@@ -4872,31 +4862,22 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1493
-#, fuzzy
-#| msgid ""
-#| "−2: Look at the top six cards of your library. You may reveal a Warrior "
-#| "or Equipment card from among them and put it into your hand. Put the rest "
-#| "on the bottom of your library in a random order."
 msgid ""
 "−2: Look at the top six cards of your library. You may reveal a Warrior and "
 "Equipment card from among them and put them into your hand. Put the rest on "
 "the bottom of your library in a random order."
 msgstr ""
 "–2: Spójrz na sześć wierzchnich kart twojej biblioteki. Możesz ujawnić "
-"spośród nich kartę Wojownika lub Wyposażenia i umieścić ją w twojej ręce. "
-"Umieść pozostałe losowo na spodzie twojej biblioteki."
+"spośród nich kartę Wojownika oraz kartę Wyposażenia i umieścić je w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../ZNR.rst:1495
-#, fuzzy
-#| msgid ""
-#| "−3: Nahiri, Heir of the Ancients deals damage to target creature or "
-#| "planeswalker equal to twice the number of Equipment you control."
 msgid ""
 "−3: Nahiri, Heir of the Ancients deals damage to target creature or "
 "planeswalker equal to twice the number of Warriors and Equipment you control."
 msgstr ""
 "–3: Ten wędrowiec zadaje wskazanemu stworowi lub wędrowcowi tyle obrażeń, "
-"ile wynosi dwukrotność liczby Wyposażenia pod twoim władaniem."
+"ile wynosi dwukrotność liczby Wojowników i Wyposażenia pod twoim władaniem."
 
 #: ../../ZNR.rst:1504
 msgid ""

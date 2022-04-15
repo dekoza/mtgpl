@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-04-13 21:43+0000\n"
+"PO-Revision-Date: 2022-04-15 16:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../SNC.rst:21
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../SNC.rst:26
 msgid ""
@@ -372,15 +372,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:41 ../../SNC.rst:1187
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
 #: ../../SNC.rst:48
@@ -882,10 +878,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:185
-#, fuzzy
-#| msgid "Destroy target creature or planeswalker with mana value 3 or less."
 msgid "Counter target spell with mana value 4 or greater."
-msgstr "Zniszcz wskazanego stwora lub wędrowca o skrócie many 3 lub mniejszym."
+msgstr "Skontruj wskazany czar o skrócie many 4 lub większym."
 
 #: ../../SNC.rst:192
 msgid ""
@@ -946,10 +940,8 @@ msgstr ""
 "stwora."
 
 #: ../../SNC.rst:205
-#, fuzzy
-#| msgid "Draw a card."
 msgid "Draw X cards."
-msgstr "Dobierz kartę."
+msgstr "Dobierz X kart."
 
 #: ../../SNC.rst:214
 msgid ""
@@ -1500,21 +1492,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:375
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another "
-#| "target creature you control. It gains haste and \"When this creature "
-#| "dies, draw a card.\" Sacrifice it at the beginning of the next end step. "
-#| "Activate only as a sorcery."
 msgid ""
 "Blitz |mana_3|\\ |mana_b| (If you cast this spell for its blitz cost, it "
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
-"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton będący kopią innego wskazanego "
-"stwora pod twoim władaniem. Zyskuje on pośpiech oraz \"Kiedy ten stwór "
-"umrze, dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego. "
-"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:382
 msgid ""
@@ -1647,21 +1629,11 @@ msgstr ""
 "Mieszczanin 1/1."
 
 #: ../../SNC.rst:417
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another "
-#| "target creature you control. It gains haste and \"When this creature "
-#| "dies, draw a card.\" Sacrifice it at the beginning of the next end step. "
-#| "Activate only as a sorcery."
 msgid ""
 "Blitz |mana_2|\\ |mana_b| (If you cast this spell for its blitz cost, it "
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
-"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton będący kopią innego wskazanego "
-"stwora pod twoim władaniem. Zyskuje on pośpiech oraz \"Kiedy ten stwór "
-"umrze, dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego. "
-"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:424
 msgid ""
@@ -1751,7 +1723,7 @@ msgstr ""
 
 #: ../../SNC.rst:437
 msgid "Menace, lifelink"
-msgstr ""
+msgstr "Złowrogość, więź życia"
 
 #: ../../SNC.rst:439
 #, fuzzy
@@ -1830,21 +1802,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:459
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another "
-#| "target creature you control. It gains haste and \"When this creature "
-#| "dies, draw a card.\" Sacrifice it at the beginning of the next end step. "
-#| "Activate only as a sorcery."
 msgid ""
 "Blitz—|mana_2|\\ |mana_b|\\ |mana_b|, Pay 2 life. (If you cast this spell "
 "for its blitz cost, it gains haste and \"When this creature dies, draw a "
 "card.\" Sacrifice it at the beginning of the next end step.)"
 msgstr ""
-"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton będący kopią innego wskazanego "
-"stwora pod twoim władaniem. Zyskuje on pośpiech oraz \"Kiedy ten stwór "
-"umrze, dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego. "
-"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:461
 msgid ""
@@ -1888,10 +1850,8 @@ msgstr ""
 "stwora."
 
 #: ../../SNC.rst:475
-#, fuzzy
-#| msgid "Target creature gets +2/+7 until end of turn. Untap it."
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+7. Odkręć go."
+msgstr "Wskazany stwór dostaje do końca tury -4/-4."
 
 #: ../../SNC.rst:480
 msgid ""
@@ -1921,21 +1881,15 @@ msgstr ""
 
 #: ../../SNC.rst:483
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../SNC.rst:485
-#, fuzzy
-#| msgid ""
-#| "Counter target noncreature spell. Its controller creates two Treasure "
-#| "tokens. (They're artifacts with \"|tap|, Sacrifice this artifact: Add one "
-#| "mana of any color.\")"
 msgid ""
 "Draw two cards and create two Treasure tokens. (They're artifacts with \"|"
 "tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Skontruj wskazany niestworowy czar. Jego władca tworzy dwa żetony Skarbu. "
-"(To artefakty mające \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
-"koloru.\")"
+"Dobierz dwie karty i stwórz dwa żetony Skarbu. (To artefakty mające \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../SNC.rst:490
 msgid ""
@@ -1945,17 +1899,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:489
-#, fuzzy
-#| msgid ""
-#| "Players can't gain life this turn. Damage can't be prevented this turn. "
-#| "\"Fire Sale\" deals 3 damage to any target."
 msgid ""
 "Players can't gain life this turn. Damage can't be prevented this turn. Call "
 "In a Professional deals 3 damage to any target. (Shield counters don't "
 "prevent this damage as they're removed.)"
 msgstr ""
 "Gracze nie mogą zyskać żyć w tej turze. Obrażenia nie mogą zostać zażegnane "
-"w tej turze. Ten czar zadaje wskazanemu celowi 3 obrażenia."
+"w tej turze. Ten czar zadaje wskazanemu celowi 3 obrażenia. (Znaczniki "
+"tarczy zostaną usunięte, ale nie zażegnają tych obrażeń.)"
 
 #: ../../SNC.rst:496
 msgid ""
@@ -2001,10 +1952,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:505 ../../SNC.rst:1161 ../../SNC.rst:1353
-#, fuzzy
-#| msgid "Trample, haste"
 msgid "Trample"
-msgstr "Tratowanie, pośpiech"
+msgstr "Tratowanie"
 
 #: ../../SNC.rst:507
 #, fuzzy
@@ -2019,10 +1968,8 @@ msgstr ""
 "bojowe, stwórz żeton Skarbu."
 
 #: ../../SNC.rst:509
-#, fuzzy
-#| msgid "Crew 2"
 msgid "Crew 3"
-msgstr "Załoga 2"
+msgstr "Załoga 3"
 
 #: ../../SNC.rst:514
 msgid ""
@@ -2110,21 +2057,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:539 ../../SNC.rst:567
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another "
-#| "target creature you control. It gains haste and \"When this creature "
-#| "dies, draw a card.\" Sacrifice it at the beginning of the next end step. "
-#| "Activate only as a sorcery."
 msgid ""
 "Blitz |mana_2|\\ |mana_r| (If you cast this spell for its blitz cost, it "
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
-"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton będący kopią innego wskazanego "
-"stwora pod twoim władaniem. Zyskuje on pośpiech oraz \"Kiedy ten stwór "
-"umrze, dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego. "
-"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:548
 msgid ""
@@ -2174,21 +2111,11 @@ msgstr ""
 "ten stwór umrze, zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../SNC.rst:553
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another "
-#| "target creature you control. It gains haste and \"When this creature "
-#| "dies, draw a card.\" Sacrifice it at the beginning of the next end step. "
-#| "Activate only as a sorcery."
 msgid ""
 "Blitz |mana_3|\\ |mana_r| (If you cast this spell for its blitz cost, it "
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
-"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton będący kopią innego wskazanego "
-"stwora pod twoim władaniem. Zyskuje on pośpiech oraz \"Kiedy ten stwór "
-"umrze, dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego. "
-"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:558
 msgid ""
@@ -2314,7 +2241,7 @@ msgstr ""
 
 #: ../../SNC.rst:591 ../../SNC.rst:1149
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../SNC.rst:593
 #, fuzzy
@@ -2436,10 +2363,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:623
-#, fuzzy
-#| msgid "Create a tapped Treasure token."
 msgid "Lands you control have \"|tap|: Create a Treasure token.\""
-msgstr "Stwórz przekręcony żeton Skarbu."
+msgstr "Lądy pod twoim władaniem mają \"|tap|: Stwórz żeton Skarbu.\""
 
 #: ../../SNC.rst:628
 msgid ""
@@ -2474,21 +2399,11 @@ msgstr ""
 "Mieszczanin 1/1."
 
 #: ../../SNC.rst:633
-#, fuzzy
-#| msgid ""
-#| "|mana_r|, |tap|, Discard a card: Create a token that's a copy of another "
-#| "target creature you control. It gains haste and \"When this creature "
-#| "dies, draw a card.\" Sacrifice it at the beginning of the next end step. "
-#| "Activate only as a sorcery."
 msgid ""
 "Blitz |mana_3|\\ |mana_g| (If you cast this spell for its blitz cost, it "
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
-"|mana_r|, |tap|, odrzuć kartę: Stwórz żeton będący kopią innego wskazanego "
-"stwora pod twoim władaniem. Zyskuje on pośpiech oraz \"Kiedy ten stwór "
-"umrze, dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego. "
-"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:646
 msgid ""
@@ -2498,32 +2413,24 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:637
-#, fuzzy
-#| msgid "When Chrome Cat enters the battlefield, scry 1."
 msgid "When \"Cleanup Crew\" enters the battlefield, choose one —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../SNC.rst:639
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../SNC.rst:641 ../../SNC.rst:793
 msgid "Destroy target enchantment."
 msgstr "Zniszcz wskazany urok."
 
 #: ../../SNC.rst:643
-#, fuzzy
-#| msgid "Exile target player's graveyard."
 msgid "Exile target card from a graveyard."
-msgstr "Wygnaj cmentarz wskazanego gracza."
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../SNC.rst:645
-#, fuzzy
-#| msgid "You gain 2 life."
 msgid "You gain 4 life."
-msgstr "Zyskaj 2 życia."
+msgstr "Zyskaj 4 życia."
 
 #: ../../SNC.rst:654
 msgid ""
@@ -2657,10 +2564,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:685
-#, fuzzy
-#| msgid "Vigilance"
 msgid "Vigilance, trample"
-msgstr "Czujność"
+msgstr "Czujność, tratowanie"
 
 #: ../../SNC.rst:687
 #, fuzzy
@@ -2698,10 +2603,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:699
-#, fuzzy
-#| msgid "Enchanted creature gets +1/+1."
 msgid "Enchanted creature gets +2/+1."
-msgstr "Zauroczony stwór dostaje +1/+1."
+msgstr "Zauroczony stwór dostaje +2/+1."
 
 #: ../../SNC.rst:701
 #, fuzzy
@@ -2760,12 +2663,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:715
-#, fuzzy
-#| msgid "Creatures you control get +1/+1 and gain trample until end of turn."
 msgid ""
 "Creatures you control get +2/+2 until end of turn. Citizens you control get "
 "an additional +1/+1 and gain vigilance until end of turn."
-msgstr "Stwory pod twoim władaniem do końca tury dostają +1/+1 i tratowanie."
+msgstr ""
+"Stwory pod twoim władaniem do końca tury dostają +2/+2. Mieszczanie pod "
+"twoim władaniem dostają do końca tury dodatkowe +1/+1 oraz czujność."
 
 #: ../../SNC.rst:730
 msgid ""
@@ -2775,22 +2678,16 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:719
-#, fuzzy
-#| msgid "Flying, trample"
 msgid "Reach, trample"
-msgstr "Latanie, tratowanie"
+msgstr "Zasięg, tratowanie"
 
 #: ../../SNC.rst:721
-#, fuzzy
-#| msgid "When Chrome Cat enters the battlefield, scry 1."
 msgid "When Titan of Industry enters the battlefield, choose two —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz dwa —"
 
 #: ../../SNC.rst:723
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Destroy target artifact or enchantment."
-msgstr "Zniszcz wskazany urok."
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SNC.rst:725
 msgid "Target player gains 5 life."
@@ -2803,10 +2700,8 @@ msgid "Create a 4/4 green Rhino Warrior creature token."
 msgstr "–1: Stwórz żeton zielonego stwora Nosorożec Wojownik 4/4."
 
 #: ../../SNC.rst:729
-#, fuzzy
-#| msgid "Put a +1/+1 counter on Gala Greeters."
 msgid "Put a shield counter on a creature you control."
-msgstr "Umieść znacznik +1/+1 na tym stworze."
+msgstr "Umieść znacznik tarczy na stworze pod twoim władaniem."
 
 #: ../../SNC.rst:738
 msgid ""
@@ -3202,6 +3097,8 @@ msgid ""
 "As an additional cost to cast this spell, exile a creature card from your "
 "graveyard."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — wygnaj kartę stwora z twojego "
+"cmentarza."
 
 #: ../../SNC.rst:845
 #, fuzzy
@@ -3364,7 +3261,7 @@ msgstr ""
 #: ../../SNC.rst:893
 msgid ""
 "As an additional cost to cast this spell, sacrifice a nonland permanent."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć nielądowy byt."
 
 #: ../../SNC.rst:895
 msgid ""
@@ -3380,10 +3277,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:901
-#, fuzzy
-#| msgid "Trample, haste"
 msgid "Trample, lifelink, haste"
-msgstr "Tratowanie, pośpiech"
+msgstr "Tratowanie, więź życia, pośpiech"
 
 #: ../../SNC.rst:906
 msgid ""
@@ -4215,10 +4110,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1151
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Destroy target nonland permanent."
-msgstr "Zniszcz wskazany urok."
+msgstr "Zniszcz wskazany nielądowy byt."
 
 #: ../../SNC.rst:1158
 msgid ""
@@ -4312,10 +4205,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1185
-#, fuzzy
-#| msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgid "Equipped creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
+msgstr "Wyposażony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../SNC.rst:1192
 msgid ""

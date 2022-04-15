@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-03-29 10:53+0000\n"
+"PO-Revision-Date: 2022-04-15 16:55+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -2360,22 +2360,16 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:679
-#, fuzzy
-#| msgid ""
-#| "Return target creature card from your graveyard to the battlefield. If "
-#| "it's an Elf, create two 1/1 green Elf Warrior creature tokens."
 msgid ""
 "Return target creature card from your graveyard to the battlefield. If it's "
 "an Elf, create three 1/1 green Elf Warrior creature tokens."
 msgstr ""
 "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Jeśli to "
-"Elf, stwórz dwa żetony zielonego stwora Elf Wojownik 1/1."
+"Elf, stwórz trzy żetony zielonego stwora Elf Wojownik 1/1."
 
 #: ../../KHM.rst:681
-#, fuzzy
-#| msgid "Foretell |mana_2|\\ |mana_w|"
 msgid "Foretell |mana_3|\\ |mana_b|"
-msgstr "Przepowiednia |mana_2|\\ |mana_w|"
+msgstr "Przepowiednia |mana_3|\\ |mana_b|"
 
 #: ../../KHM.rst:688
 msgid ""
@@ -2447,16 +2441,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:705
-#, fuzzy
-#| msgid ""
-#| "Whenever another nontoken Elf or Berserker you control dies, you draw a "
-#| "card and you lose 1 life."
 msgid ""
 "Whenever another Elf or Berserker you control dies, you draw a card and you "
 "lose 1 life."
 msgstr ""
-"Ilekroć umrze inny nieżetonowy Elf lub Berserk pod twoim władaniem, dobierz "
-"kartę i strać 1 życie."
+"Ilekroć umrze inny Elf lub Berserk pod twoim władaniem, dobierz kartę i "
+"strać 1 życie."
 
 #: ../../KHM.rst:714
 msgid ""
@@ -3619,16 +3609,11 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1067
-#, fuzzy
-#| msgid ""
-#| "When Elven Bow enters the battlefield, you may pay |mana_2|. If you do, "
-#| "create a 1/1 green Elf Warrior creature token, then attach Elven Bow to "
-#| "it."
 msgid ""
 "When Elven Bow enters the battlefield, you may pay |mana_1|. If you do, "
 "create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_2|. Jeśli tak "
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, stwórz żeton zielonego stwora Elf Wojownik 1/1 i dołącz ten "
 "artefakt do niego."
 
@@ -4308,27 +4293,19 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1289
-#, fuzzy
-#| msgid ""
-#| "+1: Put a +1/+1 counter on up to one target Elf. Untap it. It gains "
-#| "deathtouch until end of turn."
 msgid ""
 "+1: Put two +1/+1 counters on up to one target Elf. Untap it. It gains "
 "deathtouch until end of turn."
 msgstr ""
-"+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym Elfie. Odkręć go. "
-"Do końca tury zyskuje on dotyk śmierci."
+"+1: Umieść dwa znaczniki +1/+1 na co najwyżej jednym wskazanym Elfie. Odkręć "
+"go. Do końca tury zyskuje on dotyk śmierci."
 
 #: ../../KHM.rst:1293
-#, fuzzy
-#| msgid ""
-#| "−6: You get an emblem with \"Whenever you cast an Elf spell, it gains "
-#| "haste until end of turn and you draw two cards.\""
 msgid ""
 "−7: You get an emblem with \"Whenever you cast an Elf spell, it gains haste "
 "until end of turn and you draw two cards.\""
 msgstr ""
-"–6: Dostajesz emblemat mający \"Ilekroć rzucisz czar Elfa, zyskuje on do "
+"–7: Dostajesz emblemat mający \"Ilekroć rzucisz czar Elfa, zyskuje on do "
 "końca tury pośpiech, a ty dobierz dwie karty.\""
 
 #: ../../KHM.rst:1302
@@ -4701,22 +4678,16 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1417
-#, fuzzy
-#| msgid ""
-#| "When Harald, King of Skemfar enters the battlefield, look at the top five "
-#| "cards of your library. You may reveal an Elf, Warrior, or Tyvar card from "
-#| "among them and put it into your hand. Put the rest on the bottom of your "
-#| "library in a random order."
 msgid ""
 "When Harald, King of Skemfar enters the battlefield, look at the top seven "
 "cards of your library. You may reveal an Elf, Warrior, or Tyvar card from "
 "among them and put it into your hand. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich kart twojej "
-"biblioteki. Możesz ujawnić spośród nich kartę o typie Elf, Wojownik lub "
-"Tyvar i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
-"biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na siedem wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę o typie Elf, Wojownik "
+"lub Tyvar i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie "
+"twojej biblioteki."
 
 #: ../../KHM.rst:1428
 msgid ""
@@ -4754,15 +4725,11 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1433
-#, fuzzy
-#| msgid ""
-#| "I — Mill three cards. You may put an Elf or Tyvar card from your "
-#| "graveyard onto the battlefield."
 msgid ""
 "I — Mill five cards. You may put an Elf or Tyvar card from your graveyard "
 "onto the battlefield."
 msgstr ""
-"I — Zmiel trzy karty. Możesz umieścić kartę typu Elf lub Tyvar z twojego "
+"I — Zmiel pięć kart. Możesz umieścić kartę typu Elf lub Tyvar z twojego "
 "cmentarza na polu bitwy."
 
 #: ../../KHM.rst:1446
@@ -6006,21 +5973,15 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:1873
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Skemfar "
-#| "Elderhall: Up to one target creature you don't control gets -2/-2 until "
-#| "end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate "
-#| "only as a sorcery."
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Skemfar "
 "Elderhall: Up to one target creature you don't control gets -2/-2 until end "
 "of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as "
 "a sorcery."
 msgstr ""
-"|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
-"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury "
-"-2/-2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
+"|mana_1|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
+"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury -2/-"
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../KHM.rst:1880
@@ -6422,16 +6383,12 @@ msgid ""
 msgstr ""
 
 #: ../../KHM.rst:2013
-#, fuzzy
-#| msgid ""
-#| "When Elderfang Ritualist dies, return another target Elf card from your "
-#| "graveyard to your hand."
 msgid ""
 "When Elderfang Ritualist dies, you may exile it. If you do, return another "
 "target Elf or Tyvar card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór umrze, przywróć inną wskazaną kartę Elfa z twojego cmentarza "
-"do twojej ręki."
+"Kiedy ten stwór umrze, możesz go wygnać. Jeśli tak zrobisz, przywróć inną "
+"wskazaną kartę typu Elf lub Tyvar z twojego cmentarza do twojej ręki."
 
 #: ../../KHM.rst:2020
 msgid ""
