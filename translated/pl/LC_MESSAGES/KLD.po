@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 01:05+0200\n"
+"POT-Creation-Date: 2022-04-15 18:11+0200\n"
 "PO-Revision-Date: 2022-03-29 11:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/kld/pl/>\n"
@@ -277,8 +277,8 @@ msgstr ""
 #: ../../KLD.rst:19 ../../KLD.rst:75 ../../KLD.rst:133 ../../KLD.rst:153
 #: ../../KLD.rst:185 ../../KLD.rst:211 ../../KLD.rst:247 ../../KLD.rst:267
 #: ../../KLD.rst:297 ../../KLD.rst:381 ../../KLD.rst:395 ../../KLD.rst:445
-#: ../../KLD.rst:695 ../../KLD.rst:919 ../../KLD.rst:1249 ../../KLD.rst:1255
-#: ../../KLD.rst:1263
+#: ../../KLD.rst:695 ../../KLD.rst:931 ../../KLD.rst:1261 ../../KLD.rst:1267
+#: ../../KLD.rst:1275
 msgid "Flying"
 msgstr "Latanie"
 
@@ -555,7 +555,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:101 ../../KLD.rst:135 ../../KLD.rst:391 ../../KLD.rst:491
-#: ../../KLD.rst:831 ../../KLD.rst:877 ../../KLD.rst:1007 ../../KLD.rst:1173
+#: ../../KLD.rst:831 ../../KLD.rst:877 ../../KLD.rst:1019 ../../KLD.rst:1185
 msgid ""
 "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter "
 "on it or create a 1/1 colorless Servo artifact creature token.)"
@@ -1058,7 +1058,7 @@ msgid ""
 "https://scryfall.com/card/kld/51/hightide-hermit?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:273 ../../KLD.rst:1069
+#: ../../KLD.rst:273 ../../KLD.rst:1081
 msgid "Defender"
 msgstr "Obronność"
 
@@ -1085,7 +1085,7 @@ msgid ""
 "https://scryfall.com/card/kld/52/insidious-will?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:281 ../../KLD.rst:899 ../../KLD.rst:953
+#: ../../KLD.rst:281 ../../KLD.rst:899 ../../KLD.rst:965
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
@@ -1736,7 +1736,7 @@ msgid ""
 "https://scryfall.com/card/kld/91/maulfist-squad?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:489 ../../KLD.rst:519 ../../KLD.rst:745 ../../KLD.rst:1029
+#: ../../KLD.rst:489 ../../KLD.rst:519 ../../KLD.rst:745 ../../KLD.rst:1041
 msgid "Menace"
 msgstr "Złowrogość"
 
@@ -2008,8 +2008,8 @@ msgid ""
 "https://scryfall.com/card/kld/107/brazen-scourge?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:577 ../../KLD.rst:647 ../../KLD.rst:709 ../../KLD.rst:1051
-#: ../../KLD.rst:1171
+#: ../../KLD.rst:577 ../../KLD.rst:647 ../../KLD.rst:709 ../../KLD.rst:1063
+#: ../../KLD.rst:1183
 msgid "Haste"
 msgstr "Pośpiech"
 
@@ -2801,7 +2801,7 @@ msgid ""
 "https://scryfall.com/card/kld/157/highspire-artisan?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:829 ../../KLD.rst:1071 ../../KLD.rst:1405
+#: ../../KLD.rst:829 ../../KLD.rst:1083 ../../KLD.rst:1417
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
@@ -3005,7 +3005,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
-#: ../../KLD.rst:895 ../../KLD.rst:1303
+#: ../../KLD.rst:895 ../../KLD.rst:1315
 msgid "|tap|, Pay |energy|: Add one mana of any color."
 msgstr "|tap|, zapłać |energy|: Weź jedną manę dowolnego koloru."
 
@@ -3062,50 +3062,94 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, rozmieść cztery znaczniki +1/+1 "
 "pomiędzy dowolną liczbę wskazanych stworów pod twoim władaniem."
 
-#: ../../KLD.rst:922
+#: ../../KLD.rst:920
+msgid ""
+":mtgtip:`Wild Wanderer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/d/0d20e020-30e1-4deb-8dfc-4c5fe056193d.jpg?1576382724|"
+"https://scryfall.com/card/kld/173/wild-wanderer?utm_source=api>`"
+msgstr ""
+
+#: ../../KLD.rst:919
+msgid ""
+"When Wild Wanderer enters the battlefield, you may search your library for a "
+"basic land card, put it onto the battlefield tapped, then shuffle."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+
+#: ../../KLD.rst:924
+msgid ""
+":mtgtip:`Wildest Dreams<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/f/9fedd63c-22e4-4c36-8a7a-a167a070678f.jpg?1576382736|"
+"https://scryfall.com/card/kld/174/wildest-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../KLD.rst:923
+msgid ""
+"Return X target cards from your graveyard to your hand. Exile Wildest Dreams."
+msgstr ""
+"Przywróć X wskazanych kart z twojego cmentarza do twojej ręki. Wygnaj "
+"niniejszy czar."
+
+#: ../../KLD.rst:928
+msgid ""
+":mtgtip:`Wily Bandar<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/a/cac6ece3-9889-47fa-9140-420b4f31dd1b.jpg?1576382748|https://"
+"scryfall.com/card/kld/175/wily-bandar?utm_source=api>`"
+msgstr ""
+
+#: ../../KLD.rst:927
+msgid ""
+"|mana_2|\\ |mana_g|: Wily Bandar gains indestructible until end of turn. "
+"(Damage and effects that say \"destroy\" don't destroy it.)"
+msgstr ""
+"|mana_2|\\ |mana_g|: Ten stwór zyskuje niezniszczalność do końca tury. "
+"(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
+
+#: ../../KLD.rst:934
 msgid ""
 ":mtgtip:`Cloudblazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/c/3cb12355-abd8-4bf3-aac1-f710ac162585.jpg?1576382761|https://"
 "scryfall.com/card/kld/176/cloudblazer?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:921
+#: ../../KLD.rst:933
 msgid ""
 "When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia i dobierz dwie karty."
 
-#: ../../KLD.rst:928
+#: ../../KLD.rst:940
 msgid ""
 ":mtgtip:`Contraband Kingpin<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/9/69beafcd-6c90-40c2-afff-0bd82377febf.jpg?1576382776|"
 "https://scryfall.com/card/kld/177/contraband-kingpin?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:925
+#: ../../KLD.rst:937
 msgid "Lifelink"
 msgstr "Więź życia"
 
-#: ../../KLD.rst:927
+#: ../../KLD.rst:939
 msgid "Whenever an artifact enters the battlefield under your control, scry 1."
 msgstr "Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, wróż 1."
 
-#: ../../KLD.rst:936
+#: ../../KLD.rst:948
 msgid ""
 ":mtgtip:`Depala, Pilot Exemplar<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/9/592f3a92-787e-4180-9d0b-06c973ce8975.jpg?1576382792|"
 "https://scryfall.com/card/kld/178/depala-pilot-exemplar?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:931
+#: ../../KLD.rst:943
 msgid "Other Dwarves you control get +1/+1."
 msgstr "Inne Krasnoludy pod twoim władaniem dostają +1/+1."
 
-#: ../../KLD.rst:933
+#: ../../KLD.rst:945
 msgid "Each Vehicle you control gets +1/+1 as long as it's a creature."
 msgstr "Każdy Pojazd pod twoim władaniem dostaje +1/+1 o ile jest stworem."
 
-#: ../../KLD.rst:935
+#: ../../KLD.rst:947
 msgid ""
 "Whenever Depala, Pilot Exemplar becomes tapped, you may pay |mana_x|. If you "
 "do, reveal the top X cards of your library, put all Dwarf and Vehicle cards "
@@ -3117,14 +3161,14 @@ msgstr ""
 "wszystkie karty typu Krasnolud i Pojazd w twojej ręce, po czym umieść "
 "pozostałe losowo na spodzie twojej biblioteki."
 
-#: ../../KLD.rst:944
+#: ../../KLD.rst:956
 msgid ""
 ":mtgtip:`Dovin Baan<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/3/2344e710-4570-41b6-af84-a3e7d784003a.jpg?1576382804|https://"
 "scryfall.com/card/kld/179/dovin-baan?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:939
+#: ../../KLD.rst:951
 msgid ""
 "+1: Until your next turn, up to one target creature gets -3/-0 and its "
 "activated abilities can't be activated."
@@ -3132,11 +3176,11 @@ msgstr ""
 "+1: Do twojej następnej tury, co najwyżej jeden wskazany stwór dostaje -3/-0 "
 "i jego aktywowane zdolności nie mogą być aktywowane."
 
-#: ../../KLD.rst:941
+#: ../../KLD.rst:953
 msgid "−1: You gain 2 life and draw a card."
 msgstr "–1: Zyskaj 2 życia i dobierz kartę."
 
-#: ../../KLD.rst:943
+#: ../../KLD.rst:955
 msgid ""
 "−7: You get an emblem with \"Your opponents can't untap more than two "
 "permanents during their untap steps.\""
@@ -3144,18 +3188,18 @@ msgstr ""
 "–7: Dostajesz emblemat mający \"Twoi przeciwnicy nie mogą odkręcić więcej "
 "niż dwóch bytów podczas swoich kroków odkręcania.\""
 
-#: ../../KLD.rst:950
+#: ../../KLD.rst:962
 msgid ""
 ":mtgtip:`Empyreal Voyager<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/5/4554b10e-9c3e-4eb4-b0fe-044e483e872f.jpg?1576382816|"
 "https://scryfall.com/card/kld/180/empyreal-voyager?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:947
+#: ../../KLD.rst:959
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../KLD.rst:949
+#: ../../KLD.rst:961
 msgid ""
 "Whenever Empyreal Voyager deals combat damage to a player, you get that many "
 "|energy| (energy counters)."
@@ -3163,33 +3207,33 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, przyjmij tyle samo |"
 "energy| (znaczników energii)."
 
-#: ../../KLD.rst:958
+#: ../../KLD.rst:970
 msgid ""
 ":mtgtip:`Engineered Might<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/7/675b5fc7-51b2-4425-b053-a5d19c1595e0.jpg?1576382826|"
 "https://scryfall.com/card/kld/181/engineered-might?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:955
+#: ../../KLD.rst:967
 msgid "Target creature gets +5/+5 and gains trample until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +5/+5 oraz tratowanie."
 
-#: ../../KLD.rst:957
+#: ../../KLD.rst:969
 msgid "Creatures you control get +2/+2 and gain vigilance until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+2 oraz czujność."
 
-#: ../../KLD.rst:962
+#: ../../KLD.rst:974
 msgid ""
 ":mtgtip:`Hazardous Conditions<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/daa9b08b-c56f-480e-874e-069e72d979c8.jpg?1576382835|"
 "https://scryfall.com/card/kld/182/hazardous-conditions?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:961
+#: ../../KLD.rst:973
 msgid "Creatures with no counters on them get -2/-2 until end of turn."
 msgstr "Stwory nie mające znaczników dostają do końca tury -2/-2."
 
-#: ../../KLD.rst:966
+#: ../../KLD.rst:978
 msgid ""
 ":mtgtip:`Kambal, Consul of Allocation<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/4/9/49d61ddb-2662-427c-a97d-21e41b86130d.jpg?"
@@ -3197,7 +3241,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:965
+#: ../../KLD.rst:977
 msgid ""
 "Whenever an opponent casts a noncreature spell, that player loses 2 life and "
 "you gain 2 life."
@@ -3205,7 +3249,7 @@ msgstr ""
 "Ilekroć przeciwnik rzuci nie-stworowy czar, ów gracz traci 2 życia, a ty "
 "zyskaj 2 życia."
 
-#: ../../KLD.rst:970
+#: ../../KLD.rst:982
 msgid ""
 ":mtgtip:`Rashmi, Eternities Crafter<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/c/3ce37555-49a2-4112-95b4-f3376b55b45b.jpg?"
@@ -3213,7 +3257,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:969
+#: ../../KLD.rst:981
 msgid ""
 "Whenever you cast your first spell each turn, reveal the top card of your "
 "library. You may cast it without paying its mana cost if it's a spell with "
@@ -3224,14 +3268,14 @@ msgstr ""
 "czarem o mniejszym skrócie many. Jeśli jej nie rzucisz, umieść ją w twojej "
 "ręce."
 
-#: ../../KLD.rst:974
+#: ../../KLD.rst:986
 msgid ""
 ":mtgtip:`Restoration Gearsmith<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/2/228ea9c6-5732-4a2a-ac25-a768ea7d433b.jpg?1576382867|"
 "https://scryfall.com/card/kld/185/restoration-gearsmith?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:973
+#: ../../KLD.rst:985
 msgid ""
 "When Restoration Gearsmith enters the battlefield, return target artifact or "
 "creature card from your graveyard to your hand."
@@ -3239,18 +3283,18 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę artefaktu lub "
 "stwora z twojego cmentarza do twojej ręki."
 
-#: ../../KLD.rst:982
+#: ../../KLD.rst:994
 msgid ""
 ":mtgtip:`Saheeli Rai<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/4/94b38464-39cd-4ee6-b9bf-a0bc1e128d9a.jpg?1576382877|https://"
 "scryfall.com/card/kld/186/saheeli-rai?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:977
+#: ../../KLD.rst:989
 msgid "+1: Scry 1. Saheeli Rai deals 1 damage to each opponent."
 msgstr "+1: Wróż 1. Ten wędrowiec zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
-#: ../../KLD.rst:979
+#: ../../KLD.rst:991
 msgid ""
 "−2: Create a token that's a copy of target artifact or creature you control, "
 "except it's an artifact in addition to its other types. That token gains "
@@ -3260,7 +3304,7 @@ msgstr ""
 "władaniem, ale jest on dodatkowo artefaktem oprócz swoich innych typów. Ów "
 "żeton zyskuje pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
-#: ../../KLD.rst:981
+#: ../../KLD.rst:993
 msgid ""
 "−7: Search your library for up to three artifact cards with different names, "
 "put them onto the battlefield, then shuffle."
@@ -3268,7 +3312,7 @@ msgstr ""
 "–7: Wyszukaj w twojej bibliotece co najwyżej trzy karty artefaktów o różnych "
 "nazwach, umieść je na polu bitwy, po czym przetasuj."
 
-#: ../../KLD.rst:986
+#: ../../KLD.rst:998
 msgid ""
 ":mtgtip:`Unlicensed Disintegration<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/6/16ad8f86-7860-4896-a161-07bf347bbd5b.jpg?"
@@ -3276,7 +3320,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:985
+#: ../../KLD.rst:997
 msgid ""
 "Destroy target creature. If you control an artifact, Unlicensed "
 "Disintegration deals 3 damage to that creature's controller."
@@ -3284,32 +3328,32 @@ msgstr ""
 "Zniszcz wskazanego stwora. Jeśli władasz artefaktem, ten czar zadaje władcy "
 "owego stwora 3 obrażenia."
 
-#: ../../KLD.rst:992
+#: ../../KLD.rst:1004
 msgid ""
 ":mtgtip:`Veteran Motorist<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/f/3f5be9c1-cb28-42bd-b159-5548124ba8d1.jpg?1576382899|"
 "https://scryfall.com/card/kld/188/veteran-motorist?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:989
+#: ../../KLD.rst:1001
 msgid "When Veteran Motorist enters the battlefield, scry 2."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 2."
 
-#: ../../KLD.rst:991
+#: ../../KLD.rst:1003
 msgid ""
 "Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end "
 "of turn."
 msgstr ""
 "Ilekroć ten stwór załoguje Pojazd, ów Pojazd dostaje do końca tury +1/+1."
 
-#: ../../KLD.rst:998
+#: ../../KLD.rst:1010
 msgid ""
 ":mtgtip:`Voltaic Brawler<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/b/cb038fd3-51b7-4de7-9b38-cbad7c8717c2.jpg?1576382909|"
 "https://scryfall.com/card/kld/189/voltaic-brawler?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:995
+#: ../../KLD.rst:1007
 msgid ""
 "When Voltaic Brawler enters the battlefield, you get |energy|\\ |energy| "
 "(two energy counters)."
@@ -3317,7 +3361,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
-#: ../../KLD.rst:997
+#: ../../KLD.rst:1009
 msgid ""
 "Whenever Voltaic Brawler attacks, you may pay |energy|. If you do, it gets "
 "+1/+1 and gains trample until end of turn."
@@ -3325,14 +3369,14 @@ msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|. Jeśli tak zrobisz, "
 "dostaje on do końca tury +1/+1 oraz tratowanie."
 
-#: ../../KLD.rst:1004
+#: ../../KLD.rst:1016
 msgid ""
 ":mtgtip:`Whirler Virtuoso<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/e/ae429806-28b5-4bee-b0e1-1bd876f282c2.jpg?1576382918|"
 "https://scryfall.com/card/kld/190/whirler-virtuoso?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1001
+#: ../../KLD.rst:1013
 msgid ""
 "When Whirler Virtuoso enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
@@ -3340,7 +3384,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
 "(trzy znaczniki energii)."
 
-#: ../../KLD.rst:1003
+#: ../../KLD.rst:1015
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|: Create a 1/1 colorless Thopter artifact "
 "creature token with flying."
@@ -3348,39 +3392,39 @@ msgstr ""
 "Zapłać |energy|\\ |energy|\\ |energy|: Stwórz żeton bezkolorowego "
 "artefaktowego stwora Kopter 1/1 z lataniem."
 
-#: ../../KLD.rst:1008
+#: ../../KLD.rst:1020
 msgid ""
 ":mtgtip:`Accomplished Automaton<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/1/61dc2362-f901-4ec6-9bc4-1988f30380fd.jpg?1576382929|"
 "https://scryfall.com/card/kld/191/accomplished-automaton?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1014
+#: ../../KLD.rst:1026
 msgid ""
 ":mtgtip:`Aetherflux Reservoir<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/6/96b6b2e1-c3e6-464c-8a13-b15deb34e862.jpg?1576382939|"
 "https://scryfall.com/card/kld/192/aetherflux-reservoir?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1011
+#: ../../KLD.rst:1023
 msgid ""
 "Whenever you cast a spell, you gain 1 life for each spell you've cast this "
 "turn."
 msgstr ""
 "Ilekroć rzucisz czar, zyskaj po 1 życiu za każdy czar rzucony w tej turze."
 
-#: ../../KLD.rst:1013
+#: ../../KLD.rst:1025
 msgid "Pay 50 life: Aetherflux Reservoir deals 50 damage to any target."
 msgstr "Zapłać 50 żyć: Ten artefakt zadaje wskazanemu celowi 50 obrażeń."
 
-#: ../../KLD.rst:1020
+#: ../../KLD.rst:1032
 msgid ""
 ":mtgtip:`Aetherworks Marvel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/8/884f6948-3e03-48c6-8be2-6f2539386c9d.jpg?1576382949|"
 "https://scryfall.com/card/kld/193/aetherworks-marvel?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1017
+#: ../../KLD.rst:1029
 msgid ""
 "Whenever a permanent you control is put into a graveyard, you get |energy| "
 "(an energy counter)."
@@ -3388,7 +3432,7 @@ msgstr ""
 "Ilekroć byt pod twoim władaniem zostanie umieszczony w cmentarzu, przyjmij |"
 "energy| (znacznik energii)."
 
-#: ../../KLD.rst:1019
+#: ../../KLD.rst:1031
 msgid ""
 "|tap|, Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|: "
 "Look at the top six cards of your library. You may cast a spell from among "
@@ -3400,14 +3444,14 @@ msgstr ""
 "czar spośród nich bez płacenia jego kosztu many. Umieść pozostałe losowo na "
 "spodzie twojej biblioteki."
 
-#: ../../KLD.rst:1026
+#: ../../KLD.rst:1038
 msgid ""
 ":mtgtip:`Animation Module<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/4/34bdc973-db45-46a6-ac48-ce88fb59920a.jpg?1576382961|"
 "https://scryfall.com/card/kld/194/animation-module?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1023
+#: ../../KLD.rst:1035
 msgid ""
 "Whenever one or more +1/+1 counters are put on a permanent you control, you "
 "may pay |mana_1|. If you do, create a 1/1 colorless Servo artifact creature "
@@ -3417,7 +3461,7 @@ msgstr ""
 "permanencie pod twoim władaniem, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1."
 
-#: ../../KLD.rst:1025
+#: ../../KLD.rst:1037
 msgid ""
 "|mana_3|, |tap|: Choose a counter on target permanent or player. Give that "
 "permanent or player another counter of that kind."
@@ -3425,14 +3469,14 @@ msgstr ""
 "|mana_3|, |tap|: Wybierz znacznik na wskazanym permanencie lub graczu. "
 "Umieść tam kolejny znacznik tego rodzaju."
 
-#: ../../KLD.rst:1032
+#: ../../KLD.rst:1044
 msgid ""
 ":mtgtip:`Aradara Express<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/f/5fc0d1f7-c81c-4329-92b7-c4df227cc56c.jpg?1576382973|"
 "https://scryfall.com/card/kld/195/aradara-express?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1031
+#: ../../KLD.rst:1043
 msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
@@ -3440,18 +3484,18 @@ msgstr ""
 "Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 4: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
-#: ../../KLD.rst:1038
+#: ../../KLD.rst:1050
 msgid ""
 ":mtgtip:`Ballista Charger<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/b/fbd3f376-1075-42c9-91df-80dc2d5faacf.jpg?1576382983|"
 "https://scryfall.com/card/kld/196/ballista-charger?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1035
+#: ../../KLD.rst:1047
 msgid "Whenever Ballista Charger attacks, it deals 1 damage to any target."
 msgstr "Ilekroć ten pojazd atakuje, zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../KLD.rst:1037 ../../KLD.rst:1047 ../../KLD.rst:1077 ../../KLD.rst:1259
+#: ../../KLD.rst:1049 ../../KLD.rst:1059 ../../KLD.rst:1089 ../../KLD.rst:1271
 msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
@@ -3459,36 +3503,36 @@ msgstr ""
 "Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 3: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
-#: ../../KLD.rst:1042
+#: ../../KLD.rst:1054
 msgid ""
 ":mtgtip:`Bastion Mastodon<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/3/c3ea690f-fd4e-4d05-b815-22d97736e894.jpg?1576382993|"
 "https://scryfall.com/card/kld/197/bastion-mastodon?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1041
+#: ../../KLD.rst:1053
 msgid "|mana_w|: Bastion Mastodon gains vigilance until end of turn."
 msgstr "|mana_w|: Ten pojazd zyskuje czujność do końca tury."
 
-#: ../../KLD.rst:1048
+#: ../../KLD.rst:1060
 msgid ""
 ":mtgtip:`Bomat Bazaar Barge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/f/0f32be75-979d-43a9-9132-2cf013ddaf3b.jpg?1576383003|"
 "https://scryfall.com/card/kld/198/bomat-bazaar-barge?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1045
+#: ../../KLD.rst:1057
 msgid "When Bomat Bazaar Barge enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
-#: ../../KLD.rst:1056
+#: ../../KLD.rst:1068
 msgid ""
 ":mtgtip:`Bomat Courier<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/425bff89-ad15-4d22-bce9-a4a07dbafd87.jpg?1576383013|"
 "https://scryfall.com/card/kld/199/bomat-courier?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1053
+#: ../../KLD.rst:1065
 msgid ""
 "Whenever Bomat Courier attacks, exile the top card of your library face "
 "down. (You can't look at it.)"
@@ -3496,7 +3540,7 @@ msgstr ""
 "Ilekroć ten stwór zaatakuje, wygnaj zakrytą wierzchnią kartę twojej "
 "biblioteki. (Nie możesz na nią patrzeć.)"
 
-#: ../../KLD.rst:1055
+#: ../../KLD.rst:1067
 msgid ""
 "|mana_r|, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled "
 "with Bomat Courier into their owners' hands."
@@ -3504,25 +3548,25 @@ msgstr ""
 "|mana_r|, odrzuć twoją rękę, poświęć tego stwora: Umieść wszystkie karty "
 "wygnane tym stworem w rękach ich właścicieli."
 
-#: ../../KLD.rst:1060
+#: ../../KLD.rst:1072
 msgid ""
 ":mtgtip:`Chief of the Foundry<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/d/cd8a6f80-3ff9-4d9e-8b1e-cb07c3dc326a.jpg?1576383029|"
 "https://scryfall.com/card/kld/200/chief-of-the-foundry?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1059
+#: ../../KLD.rst:1071
 msgid "Other artifact creatures you control get +1/+1."
 msgstr "Inne artefaktowe stwory pod twoim władaniem dostają +1/+1."
 
-#: ../../KLD.rst:1066
+#: ../../KLD.rst:1078
 msgid ""
 ":mtgtip:`Cogworker's Puzzleknot<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/0/00d594df-c51b-4936-9af1-536dab1792ae.jpg?1576383045|"
 "https://scryfall.com/card/kld/201/cogworkers-puzzleknot?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1063
+#: ../../KLD.rst:1075
 msgid ""
 "When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless "
 "Servo artifact creature token."
@@ -3530,7 +3574,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Serwo 1/1."
 
-#: ../../KLD.rst:1065
+#: ../../KLD.rst:1077
 msgid ""
 "|mana_1|\\ |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 "
 "colorless Servo artifact creature token."
@@ -3538,36 +3582,36 @@ msgstr ""
 "|mana_1|\\ |mana_w|, poświęć ten artefakt: Stwórz żeton bezkolorowego "
 "artefaktowego stwora Serwo 1/1."
 
-#: ../../KLD.rst:1072
+#: ../../KLD.rst:1084
 msgid ""
 ":mtgtip:`Consulate Skygate<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/a/9a7922c3-1baa-41ed-bd06-b5a97cddb90e.jpg?1576383054|"
 "https://scryfall.com/card/kld/202/consulate-skygate?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1078
+#: ../../KLD.rst:1090
 msgid ""
 ":mtgtip:`Cultivator's Caravan<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/4/b46b3726-4bc8-4e3a-bc6d-402c81663712.jpg?1576383065|"
 "https://scryfall.com/card/kld/203/cultivators-caravan?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1075
+#: ../../KLD.rst:1087
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../KLD.rst:1086
+#: ../../KLD.rst:1098
 msgid ""
 ":mtgtip:`Deadlock Trap<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/9/f956dedc-2cf4-4039-8302-feab94b78426.jpg?1576383074|"
 "https://scryfall.com/card/kld/204/deadlock-trap?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1081
+#: ../../KLD.rst:1093
 msgid "Deadlock Trap enters the battlefield tapped."
 msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
-#: ../../KLD.rst:1083
+#: ../../KLD.rst:1095
 msgid ""
 "When Deadlock Trap enters the battlefield, you get |energy|\\ |energy| (two "
 "energy counters)."
@@ -3575,7 +3619,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\|energy| (dwa "
 "znaczniki energii)."
 
-#: ../../KLD.rst:1085
+#: ../../KLD.rst:1097
 msgid ""
 "|tap|, Pay |energy|: Tap target creature or planeswalker. Its activated "
 "abilities can't be activated this turn."
@@ -3583,14 +3627,14 @@ msgstr ""
 "|tap|, zapłać |energy|: Przekręć wskazanego stwora lub wędrowca. Jego "
 "aktywowane zdolności nie mogą być aktywowane w tej turze."
 
-#: ../../KLD.rst:1092
+#: ../../KLD.rst:1104
 msgid ""
 ":mtgtip:`Decoction Module<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b08ae769-0070-47a6-aae0-1a3bcfd40d07.jpg?1576383083|"
 "https://scryfall.com/card/kld/205/decoction-module?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1089
+#: ../../KLD.rst:1101
 msgid ""
 "Whenever a creature enters the battlefield under your control, you get |"
 "energy| (an energy counter)."
@@ -3598,25 +3642,25 @@ msgstr ""
 "Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, przyjmij |energy| "
 "(znacznik energii)."
 
-#: ../../KLD.rst:1091
+#: ../../KLD.rst:1103
 msgid ""
 "|mana_4|, |tap|: Return target creature you control to its owner's hand."
 msgstr ""
 "|mana_4|, |tap|: Przywróć wskazanego stwora pod twoim władaniem do ręki "
 "właściciela."
 
-#: ../../KLD.rst:1098
+#: ../../KLD.rst:1110
 msgid ""
 ":mtgtip:`Demolition Stomper<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/9/e9af13a0-a9c1-454c-992d-ce79ff161187.jpg?1576383091|"
 "https://scryfall.com/card/kld/206/demolition-stomper?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1095
+#: ../../KLD.rst:1107
 msgid "Demolition Stomper can't be blocked by creatures with power 2 or less."
 msgstr "Ten pojazd nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
-#: ../../KLD.rst:1097
+#: ../../KLD.rst:1109
 msgid ""
 "Crew 5 (Tap any number of creatures you control with total power 5 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
@@ -3624,25 +3668,25 @@ msgstr ""
 "Załoga 5 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 5: Ten Pojazd staje się artefaktowym stworem do końca tury.)"
 
-#: ../../KLD.rst:1102
+#: ../../KLD.rst:1114
 msgid ""
 ":mtgtip:`Dukhara Peafowl<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/5/e5c54795-d555-4972-b72d-b2d2374bed9b.jpg?1576383103|"
 "https://scryfall.com/card/kld/207/dukhara-peafowl?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1101
+#: ../../KLD.rst:1113
 msgid "|mana_u|: Dukhara Peafowl gains flying until end of turn."
 msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
 
-#: ../../KLD.rst:1108
+#: ../../KLD.rst:1120
 msgid ""
 ":mtgtip:`Dynavolt Tower<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/4/c45fd2ae-0f91-47ca-99bd-22ddf946df9f.jpg?1576383112|"
 "https://scryfall.com/card/kld/208/dynavolt-tower?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1105
+#: ../../KLD.rst:1117
 msgid ""
 "Whenever you cast an instant or sorcery spell, you get |energy|\\ |energy| "
 "(two energy counters)."
@@ -3650,7 +3694,7 @@ msgstr ""
 "Ilekroć rzucisz czar sztuczki lub obrzędu, przyjmij |energy|\\ |energy| (dwa "
 "znaczniki energii)."
 
-#: ../../KLD.rst:1107
+#: ../../KLD.rst:1119
 msgid ""
 "|tap|, Pay |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|: Dynavolt "
 "Tower deals 3 damage to any target."
@@ -3658,14 +3702,14 @@ msgstr ""
 "|tap|, zapłać |energy|\\ |energy|\\ |energy|\\ |energy|\\ |energy|: Ten "
 "artefakt zadaje wskazanemu celowi 3 obrażenia."
 
-#: ../../KLD.rst:1112
+#: ../../KLD.rst:1124
 msgid ""
 ":mtgtip:`Eager Construct<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/6/66f8ae7b-02a5-45ce-8a63-aa880b1e582a.jpg?1576383125|"
 "https://scryfall.com/card/kld/209/eager-construct?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1111
+#: ../../KLD.rst:1123
 msgid ""
 "When Eager Construct enters the battlefield, each player may scry 1. (To "
 "scry 1, look at the top card of your library, then you may put that card on "
@@ -3675,14 +3719,14 @@ msgstr ""
 "1, spójrz na wierzchnią kartę twojej biblioteki, po czym możesz umieścić ową "
 "kartę na spodzie twojej biblioteki.)"
 
-#: ../../KLD.rst:1118
+#: ../../KLD.rst:1130
 msgid ""
 ":mtgtip:`Electrostatic Pummeler<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/5/c565d11b-a57e-4de4-9d18-2be48a2ef742.jpg?1576383143|"
 "https://scryfall.com/card/kld/210/electrostatic-pummeler?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1115
+#: ../../KLD.rst:1127
 msgid ""
 "When Electrostatic Pummeler enters the battlefield, you get |energy|\\ |"
 "energy|\\ |energy| (three energy counters)."
@@ -3690,7 +3734,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\|energy| "
 "(trzy znaczniki energii)."
 
-#: ../../KLD.rst:1117
+#: ../../KLD.rst:1129
 msgid ""
 "Pay |energy|\\ |energy|\\ |energy|: Electrostatic Pummeler gets +X/+X until "
 "end of turn, where X is its power."
@@ -3698,14 +3742,14 @@ msgstr ""
 "Zapłać |energy|\\ |energy|\\ |energy|: Ten stwór dostaje do końca tury +X/"
 "+X, gdzie X jest jego siłą."
 
-#: ../../KLD.rst:1124
+#: ../../KLD.rst:1136
 msgid ""
 ":mtgtip:`Fabrication Module<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/9/f93a9693-f899-47ac-8ee0-3549d9333fff.jpg?1576383161|"
 "https://scryfall.com/card/kld/211/fabrication-module?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1121
+#: ../../KLD.rst:1133
 msgid ""
 "Whenever you get one or more |energy| (energy counters), put a +1/+1 counter "
 "on target creature you control."
@@ -3713,40 +3757,40 @@ msgstr ""
 "Ilekroć przyjmiesz jeden lub więcej |energy| (znaczników energii), umieść "
 "znacznik +1/+1 na wskazanym stworze pod twoim władaniem."
 
-#: ../../KLD.rst:1123
+#: ../../KLD.rst:1135
 msgid "|mana_4|, |tap|: You get |energy|."
 msgstr "|mana_4|, |tap|: Przyjmij |energy|."
 
-#: ../../KLD.rst:1130
+#: ../../KLD.rst:1142
 msgid ""
 ":mtgtip:`Filigree Familiar<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9cc9ecfd-6cf0-4488-a14a-afec1bc0d253.jpg?1576383172|"
 "https://scryfall.com/card/kld/212/filigree-familiar?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1127
+#: ../../KLD.rst:1139
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
-#: ../../KLD.rst:1129
+#: ../../KLD.rst:1141
 msgid "When Filigree Familiar dies, draw a card."
 msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
-#: ../../KLD.rst:1136
+#: ../../KLD.rst:1148
 msgid ""
 ":mtgtip:`Fireforger's Puzzleknot<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7a1c11ca-c81b-451e-a767-68865827e06d.jpg?1576383184|"
 "https://scryfall.com/card/kld/213/fireforgers-puzzleknot?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1133
+#: ../../KLD.rst:1145
 msgid ""
 "When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to "
 "any target."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu celowi 1 obrażenie."
 
-#: ../../KLD.rst:1135
+#: ../../KLD.rst:1147
 msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to "
 "any target."
@@ -3754,18 +3798,18 @@ msgstr ""
 "|mana_2|\\ |mana_r|, poświęć ten artefakt: Zadaje on wskazanemu celowi 1 "
 "obrażenie."
 
-#: ../../KLD.rst:1144
+#: ../../KLD.rst:1156
 msgid ""
 ":mtgtip:`Fleetwheel Cruiser<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/f/5fdaca1e-5741-456e-ae98-e2c45fd1731b.jpg?1576383193|"
 "https://scryfall.com/card/kld/214/fleetwheel-cruiser?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1139 ../../KLD.rst:1207
+#: ../../KLD.rst:1151 ../../KLD.rst:1219
 msgid "Trample, haste"
 msgstr "Tratowanie, pośpiech"
 
-#: ../../KLD.rst:1141
+#: ../../KLD.rst:1153
 msgid ""
 "When Fleetwheel Cruiser enters the battlefield, it becomes an artifact "
 "creature until end of turn."
@@ -3773,7 +3817,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, do końca tury staje się artefaktowym "
 "stworem."
 
-#: ../../KLD.rst:1143 ../../KLD.rst:1235
+#: ../../KLD.rst:1155 ../../KLD.rst:1247
 msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
@@ -3781,29 +3825,29 @@ msgstr ""
 "Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 2: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
-#: ../../KLD.rst:1148
+#: ../../KLD.rst:1160
 msgid ""
 ":mtgtip:`Foundry Inspector<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/3/93f827e8-1cc4-4a15-a4be-2e74323963b9.jpg?1576383206|"
 "https://scryfall.com/card/kld/215/foundry-inspector?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1147
+#: ../../KLD.rst:1159
 msgid "Artifact spells you cast cost |mana_1| less to cast."
 msgstr "Rzucanie czarów artefaktów kosztuje cię o |mana_1| mniej."
 
-#: ../../KLD.rst:1154
+#: ../../KLD.rst:1166
 msgid ""
 ":mtgtip:`Ghirapur Orrery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/9/c9bff744-873b-4fa1-8088-5f28bbcdc7b8.jpg?1576383215|"
 "https://scryfall.com/card/kld/216/ghirapur-orrery?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1151
+#: ../../KLD.rst:1163
 msgid "Each player may play an additional land on each of their turns."
 msgstr "Każdy gracz może w swojej turze zagrać dodatkowy ląd."
 
-#: ../../KLD.rst:1153
+#: ../../KLD.rst:1165
 msgid ""
 "At the beginning of each player's upkeep, if that player has no cards in "
 "hand, that player draws three cards."
@@ -3811,7 +3855,7 @@ msgstr ""
 "Na początku kroku utrzymania każdego z graczy, jeśli ów gracz nie ma kart w "
 "ręce, ów gracz dobiera trzy karty."
 
-#: ../../KLD.rst:1160
+#: ../../KLD.rst:1172
 msgid ""
 ":mtgtip:`Glassblower's Puzzleknot<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/7/d/7d123031-6702-4d49-a788-42eb6dbc569e.jpg?"
@@ -3819,7 +3863,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1157
+#: ../../KLD.rst:1169
 msgid ""
 "When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get |"
 "energy|\\ |energy|. (You get two energy counters. To scry 2, look at the top "
@@ -3832,7 +3876,7 @@ msgstr ""
 "spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
 
-#: ../../KLD.rst:1159
+#: ../../KLD.rst:1171
 msgid ""
 "|mana_2|\\ |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you "
 "get |energy|\\ |energy|."
@@ -3840,18 +3884,18 @@ msgstr ""
 "|mana_2|\\ |mana_u|, poświęć ten artefakt: Wróż 2, po czym przyjmij |energy|"
 "\\ |energy|."
 
-#: ../../KLD.rst:1168
+#: ../../KLD.rst:1180
 msgid ""
 ":mtgtip:`Inventor's Goggles<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/0/00a26fdf-fdce-4939-8c6a-c9dff623072f.jpg?1576383234|"
 "https://scryfall.com/card/kld/218/inventors-goggles?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1163
+#: ../../KLD.rst:1175
 msgid "Equipped creature gets +1/+2."
 msgstr "Wyposażony stwór dostaje +1/+2."
 
-#: ../../KLD.rst:1165
+#: ../../KLD.rst:1177
 msgid ""
 "Whenever an Artificer enters the battlefield under your control, you may "
 "attach Inventor's Goggles to it."
@@ -3859,7 +3903,7 @@ msgstr ""
 "Ilekroć Wynalazca wejdzie na pole bitwy pod twoim władaniem, możesz dołączyć "
 "do niego ten artefakt."
 
-#: ../../KLD.rst:1167 ../../KLD.rst:1277
+#: ../../KLD.rst:1179 ../../KLD.rst:1289
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
@@ -3867,28 +3911,28 @@ msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
-#: ../../KLD.rst:1174
+#: ../../KLD.rst:1186
 msgid ""
 ":mtgtip:`Iron League Steed<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/4/c47993b2-694d-4697-8b06-64aa5663598b.jpg?1576383244|"
 "https://scryfall.com/card/kld/219/iron-league-steed?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1180
+#: ../../KLD.rst:1192
 msgid ""
 ":mtgtip:`Key to the City<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/6/66154969-5c69-40ce-8bc9-c9bc5e280d4c.jpg?1576383253|"
 "https://scryfall.com/card/kld/220/key-to-the-city?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1177
+#: ../../KLD.rst:1189
 msgid ""
 "|tap|, Discard a card: Up to one target creature can't be blocked this turn."
 msgstr ""
 "|tap|, odrzuć kartę: Co najwyżej jeden wskazany stwór nie może być blokowany "
 "w tej turze."
 
-#: ../../KLD.rst:1179
+#: ../../KLD.rst:1191
 msgid ""
 "Whenever Key to the City becomes untapped, you may pay |mana_2|. If you do, "
 "draw a card."
@@ -3896,7 +3940,7 @@ msgstr ""
 "Ilekroć ten artefakt zostanie odkręcony, możesz zapłacić |mana_2|. Jeśli tak "
 "zrobisz, dobierz kartę."
 
-#: ../../KLD.rst:1186
+#: ../../KLD.rst:1198
 msgid ""
 ":mtgtip:`Metalspinner's Puzzleknot<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/b/9b1639c3-f22d-4246-9252-219a4b2b2999.jpg?"
@@ -3904,27 +3948,27 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1183
+#: ../../KLD.rst:1195
 msgid ""
 "When Metalspinner's Puzzleknot enters the battlefield, you draw a card and "
 "you lose 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
-#: ../../KLD.rst:1185
+#: ../../KLD.rst:1197
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card "
 "and you lose 1 life."
 msgstr ""
 "|mana_2|\\ |mana_b|, poświęć ten artefakt: Dobierz kartę i strać 1 życie."
 
-#: ../../KLD.rst:1192
+#: ../../KLD.rst:1204
 msgid ""
 ":mtgtip:`Metalwork Colossus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/7/474480b5-c60b-4c7f-9d3e-751bca43d074.jpg?1576383277|"
 "https://scryfall.com/card/kld/222/metalwork-colossus?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1189
+#: ../../KLD.rst:1201
 msgid ""
 "This spell costs |mana_x| less to cast, where X is the total mana value of "
 "noncreature artifacts you control."
@@ -3932,21 +3976,21 @@ msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą skróconych "
 "kosztów many artefaktów pod twoim władaniem nie będących stworami."
 
-#: ../../KLD.rst:1191
+#: ../../KLD.rst:1203
 msgid ""
 "Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to "
 "your hand."
 msgstr ""
 "Poświęć dwa artefakty: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
-#: ../../KLD.rst:1200
+#: ../../KLD.rst:1212
 msgid ""
 ":mtgtip:`Multiform Wonder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/f/9f6956c1-36e2-4c9c-9f69-00b459f094d8.jpg?1576383292|"
 "https://scryfall.com/card/kld/223/multiform-wonder?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1195
+#: ../../KLD.rst:1207
 msgid ""
 "When Multiform Wonder enters the battlefield, you get |energy|\\ |energy|\\ |"
 "energy| (three energy counters)."
@@ -3954,7 +3998,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy|\\ |energy|\\ |energy| "
 "(trzy znaczniki energii)."
 
-#: ../../KLD.rst:1197
+#: ../../KLD.rst:1209
 msgid ""
 "Pay |energy|: Multiform Wonder gains your choice of flying, vigilance, or "
 "lifelink until end of turn."
@@ -3962,18 +4006,18 @@ msgstr ""
 "Zapłać |energy|: Ten stwór zyskuje do końca tury wybraną przez ciebie "
 "zdolność spośród latania, czujności i więzi życia."
 
-#: ../../KLD.rst:1199
+#: ../../KLD.rst:1211
 msgid "Pay |energy|: Multiform Wonder gets +2/-2 or -2/+2 until end of turn."
 msgstr "Zapłać |energy|: Ten stwór dostaje do końca tury +2/-2 lub -2/+2."
 
-#: ../../KLD.rst:1204
+#: ../../KLD.rst:1216
 msgid ""
 ":mtgtip:`Narnam Cobra<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/8/88bf1a67-61f7-4f03-b677-a874b64c989e.jpg?1576383304|"
 "https://scryfall.com/card/kld/224/narnam-cobra?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1203
+#: ../../KLD.rst:1215
 msgid ""
 "|mana_g|: Narnam Cobra gains deathtouch until end of turn. (Any amount of "
 "damage it deals to a creature is enough to destroy it.)"
@@ -3981,14 +4025,14 @@ msgstr ""
 "|mana_g|: Ten stwór zyskuje dotyk śmierci do końca tury. (Stwór otrzymujący "
 "od niego jakiekolwiek obrażenia zostaje zniszczony.)"
 
-#: ../../KLD.rst:1210
+#: ../../KLD.rst:1222
 msgid ""
 ":mtgtip:`Ovalchase Dragster<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/0/20411aa0-f87b-49dd-b943-ca82d59db185.jpg?1576383314|"
 "https://scryfall.com/card/kld/225/ovalchase-dragster?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1209 ../../KLD.rst:1251 ../../KLD.rst:1267
+#: ../../KLD.rst:1221 ../../KLD.rst:1263 ../../KLD.rst:1279
 msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
@@ -3996,14 +4040,14 @@ msgstr ""
 "Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 1: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
-#: ../../KLD.rst:1214
+#: ../../KLD.rst:1226
 msgid ""
 ":mtgtip:`Panharmonicon<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1576383323|"
 "https://scryfall.com/card/kld/226/panharmonicon?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1213
+#: ../../KLD.rst:1225
 msgid ""
 "If an artifact or creature entering the battlefield causes a triggered "
 "ability of a permanent you control to trigger, that ability triggers an "
@@ -4012,18 +4056,18 @@ msgstr ""
 "Jeśli wejście na pole bitwy artefaktu lub stwora wyzwoli zdolność wyzwalaną "
 "bytu pod twoim władaniem, owa zdolność jest wyzwalana dodatkowy raz."
 
-#: ../../KLD.rst:1220
+#: ../../KLD.rst:1232
 msgid ""
 ":mtgtip:`Perpetual Timepiece<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/b/bbc87a27-93d9-4ce0-a022-0309242c1e89.jpg?1576383333|"
 "https://scryfall.com/card/kld/227/perpetual-timepiece?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1217
+#: ../../KLD.rst:1229
 msgid "|tap|: Mill two cards."
 msgstr "|tap|: Zmiel dwie karty."
 
-#: ../../KLD.rst:1219
+#: ../../KLD.rst:1231
 msgid ""
 "|mana_2|, Exile Perpetual Timepiece: Shuffle any number of target cards from "
 "your graveyard into your library."
@@ -4031,14 +4075,14 @@ msgstr ""
 "|mana_2|, wygnaj ten artefakt: Wtasuj dowolną liczbę wskazanych kart z "
 "twojego cmentarza do twojej biblioteki."
 
-#: ../../KLD.rst:1224
+#: ../../KLD.rst:1236
 msgid ""
 ":mtgtip:`Prakhata Pillar-Bug<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9c91b356-b5d8-4239-bb45-dec7f673868d.jpg?1576383343|"
 "https://scryfall.com/card/kld/228/prakhata-pillar-bug?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1223
+#: ../../KLD.rst:1235
 msgid ""
 "|mana_b|: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage "
 "dealt by this creature also causes you to gain that much life.)"
@@ -4046,47 +4090,47 @@ msgstr ""
 "|mana_b|: Ten stwór zyskuje więź życia do końca tury. (Obrażania zadane "
 "przez tego stwora powodują, że zyskujesz tyle samo żyć.)"
 
-#: ../../KLD.rst:1230
+#: ../../KLD.rst:1242
 msgid ""
 ":mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/6/06450be5-0634-4aef-bda7-4d4fbb9ec00a.jpg?1576383358|"
 "https://scryfall.com/card/kld/229/prophetic-prism?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1227
+#: ../../KLD.rst:1239
 msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
-#: ../../KLD.rst:1229
+#: ../../KLD.rst:1241
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../KLD.rst:1236
+#: ../../KLD.rst:1248
 msgid ""
 ":mtgtip:`Renegade Freighter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/a/7a10e2c3-0132-4eb2-94f0-5915caca2a17.jpg?1576383376|"
 "https://scryfall.com/card/kld/230/renegade-freighter?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1233
+#: ../../KLD.rst:1245
 msgid ""
 "Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until "
 "end of turn."
 msgstr ""
 "Ilekroć ten pojazd zaatakuje, dostaje do końca tury +1/+1 oraz tratowanie."
 
-#: ../../KLD.rst:1242
+#: ../../KLD.rst:1254
 msgid ""
 ":mtgtip:`Scrapheap Scrounger<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/1/216a8e4e-ea7b-41c7-a982-b5751025ff25.jpg?1576383385|"
 "https://scryfall.com/card/kld/231/scrapheap-scrounger?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1239
+#: ../../KLD.rst:1251
 msgid "Scrapheap Scrounger can't block."
 msgstr "Ten stwór nie może blokować."
 
-#: ../../KLD.rst:1241
+#: ../../KLD.rst:1253
 msgid ""
 "|mana_1|\\ |mana_b|, Exile another creature card from your graveyard: Return "
 "Scrapheap Scrounger from your graveyard to the battlefield."
@@ -4094,14 +4138,14 @@ msgstr ""
 "|mana_1|\\ |mana_b|, wygnaj inną kartę stwora z twojego cmentarza: Przywróć "
 "niniejszą kartę z twojego cmentarza na pole bitwy."
 
-#: ../../KLD.rst:1246
+#: ../../KLD.rst:1258
 msgid ""
 ":mtgtip:`Self-Assembler<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/d/3d05c6c2-4bb3-468a-b23c-b0425a9982f1.jpg?1576383395|"
 "https://scryfall.com/card/kld/232/self-assembler?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1245
+#: ../../KLD.rst:1257
 msgid ""
 "When Self-Assembler enters the battlefield, you may search your library for "
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
@@ -4111,14 +4155,14 @@ msgstr ""
 "kartę stwora typu Składacz, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
-#: ../../KLD.rst:1252
+#: ../../KLD.rst:1264
 msgid ""
 ":mtgtip:`Sky Skiff<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/f/cf4a4939-130b-40d7-8a0f-e31eb931d2d5.jpg?1576383405|https://"
 "scryfall.com/card/kld/233/sky-skiff?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1260
+#: ../../KLD.rst:1272
 msgid ""
 ":mtgtip:`Skysovereign, Consul Flagship<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/d/1df70ef3-8919-43ac-9317-23548437a181.jpg?"
@@ -4126,7 +4170,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1257
+#: ../../KLD.rst:1269
 msgid ""
 "Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it "
 "deals 3 damage to target creature or planeswalker an opponent controls."
@@ -4134,14 +4178,14 @@ msgstr ""
 "Ilekroć ten pojazd wejdzie na pole bitwy lub zaatakuje, zadaje on wskazanemu "
 "stworowi lub wędrowcowi pod władaniem przeciwnika 3 obrażenia."
 
-#: ../../KLD.rst:1268
+#: ../../KLD.rst:1280
 msgid ""
 ":mtgtip:`Smuggler's Copter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1576383425|"
 "https://scryfall.com/card/kld/235/smugglers-copter?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1265
+#: ../../KLD.rst:1277
 msgid ""
 "Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you "
 "do, discard a card."
@@ -4149,47 +4193,47 @@ msgstr ""
 "Ilekroć ten pojazd zaatakuje lub zablokuje, możesz dobrać kartę. Jeśli tak "
 "zrobisz, odrzuć kartę."
 
-#: ../../KLD.rst:1272
+#: ../../KLD.rst:1284
 msgid ""
 ":mtgtip:`Snare Thopter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/8/687febd3-1825-4fd2-b9ab-bd32a9baffc7.jpg?1576383434|"
 "https://scryfall.com/card/kld/236/snare-thopter?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1271
+#: ../../KLD.rst:1283
 msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
-#: ../../KLD.rst:1278
+#: ../../KLD.rst:1290
 msgid ""
 ":mtgtip:`Torch Gauntlet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/f/dfcf9a88-c5f8-4c26-a2ee-d2827e9a31d8.jpg?1576383444|"
 "https://scryfall.com/card/kld/237/torch-gauntlet?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1275
+#: ../../KLD.rst:1287
 msgid "Equipped creature gets +2/+0."
 msgstr "Wyposażony stwór dostaje +2/+0."
 
-#: ../../KLD.rst:1282
+#: ../../KLD.rst:1294
 msgid ""
 ":mtgtip:`Weldfast Monitor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/5/75720c1b-8b04-4e45-ab47-018c04576e83.jpg?1576383453|"
 "https://scryfall.com/card/kld/238/weldfast-monitor?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1281
+#: ../../KLD.rst:1293
 msgid "|mana_r|: Weldfast Monitor gains menace until end of turn."
 msgstr "|mana_r|: Ten stwór zyskuje złowrogość do końca tury."
 
-#: ../../KLD.rst:1286
+#: ../../KLD.rst:1298
 msgid ""
 ":mtgtip:`Whirlermaker<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/f/ff1a1246-d5a0-43dc-825a-062a3bb4def9.jpg?1576383465|"
 "https://scryfall.com/card/kld/239/whirlermaker?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1285
+#: ../../KLD.rst:1297
 msgid ""
 "|mana_4|, |tap|: Create a 1/1 colorless Thopter artifact creature token with "
 "flying."
@@ -4197,14 +4241,14 @@ msgstr ""
 "|mana_4|, |tap|: Stwórz żeton bezkolorowego artefaktycznego stwora Kopter "
 "1/1 z lataniem."
 
-#: ../../KLD.rst:1292
+#: ../../KLD.rst:1304
 msgid ""
 ":mtgtip:`Woodweaver's Puzzleknot<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/9/899d7420-f16d-4910-adf7-6deff47ecf1e.jpg?1576383476|"
 "https://scryfall.com/card/kld/240/woodweavers-puzzleknot?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1289
+#: ../../KLD.rst:1301
 msgid ""
 "When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get "
 "|energy|\\ |energy|\\ |energy| (three energy counters)."
@@ -4212,7 +4256,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia i przyjmij |energy|\\ |"
 "energy|\\ |energy| (trzy znaczniki energii)."
 
-#: ../../KLD.rst:1291
+#: ../../KLD.rst:1303
 msgid ""
 "|mana_2|\\ |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and "
 "get |energy|\\ |energy|\\ |energy|."
@@ -4220,14 +4264,14 @@ msgstr ""
 "|mana_2|\\ |mana_g|, poświęć ten artefakt: Zyskaj 3 życia i przyjmuj |energy|"
 "\\ |energy|\\ |energy|."
 
-#: ../../KLD.rst:1296
+#: ../../KLD.rst:1308
 msgid ""
 ":mtgtip:`Workshop Assistant<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/0/509a1a3a-d9a6-4903-95f6-dae6b330f4ea.jpg?1576383484|"
 "https://scryfall.com/card/kld/241/workshop-assistant?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1295
+#: ../../KLD.rst:1307
 msgid ""
 "When Workshop Assistant dies, return another target artifact card from your "
 "graveyard to your hand."
@@ -4235,31 +4279,31 @@ msgstr ""
 "Kiedy ten stwór umrze, przywróć inną wskazaną kartę artefaktu z twojego "
 "cmentarza do twojej ręki."
 
-#: ../../KLD.rst:1304
+#: ../../KLD.rst:1316
 msgid ""
 ":mtgtip:`Aether Hub<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/5/25ea04d8-5d85-49d3-8d8d-7fe123d0ed6c.jpg?1576383493|https://"
 "scryfall.com/card/kld/242/aether-hub?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1299
+#: ../../KLD.rst:1311
 msgid ""
 "When Aether Hub enters the battlefield, you get |energy| (an energy counter)."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przyjmij |energy| (znacznik energii)."
 
-#: ../../KLD.rst:1301 ../../KLD.rst:1333 ../../KLD.rst:1339
+#: ../../KLD.rst:1313 ../../KLD.rst:1345 ../../KLD.rst:1351
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../KLD.rst:1310
+#: ../../KLD.rst:1322
 msgid ""
 ":mtgtip:`Blooming Marsh<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/0/90da33d4-fe9c-42fe-b326-2fe337dc3ecd.jpg?1576383503|"
 "https://scryfall.com/card/kld/243/blooming-marsh?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1307
+#: ../../KLD.rst:1319
 msgid ""
 "Blooming Marsh enters the battlefield tapped unless you control two or fewer "
 "other lands."
@@ -4267,18 +4311,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
 "dwoma innymi lądami."
 
-#: ../../KLD.rst:1309
+#: ../../KLD.rst:1321
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
-#: ../../KLD.rst:1316
+#: ../../KLD.rst:1328
 msgid ""
 ":mtgtip:`Botanical Sanctum<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/8744471b-a528-47d9-84d0-4526273f55e9.jpg?1576383517|"
 "https://scryfall.com/card/kld/244/botanical-sanctum?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1313
+#: ../../KLD.rst:1325
 msgid ""
 "Botanical Sanctum enters the battlefield tapped unless you control two or "
 "fewer other lands."
@@ -4286,18 +4330,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
 "dwoma innymi lądami."
 
-#: ../../KLD.rst:1315 ../../KLD.rst:1421
+#: ../../KLD.rst:1327 ../../KLD.rst:1433
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
-#: ../../KLD.rst:1322
+#: ../../KLD.rst:1334
 msgid ""
 ":mtgtip:`Concealed Courtyard<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/8/c8769e97-aee8-4466-a9d7-0f4245ae4a97.jpg?1576383529|"
 "https://scryfall.com/card/kld/245/concealed-courtyard?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1319
+#: ../../KLD.rst:1331
 msgid ""
 "Concealed Courtyard enters the battlefield tapped unless you control two or "
 "fewer other lands."
@@ -4305,18 +4349,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
 "dwoma innymi lądami."
 
-#: ../../KLD.rst:1321
+#: ../../KLD.rst:1333
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
-#: ../../KLD.rst:1328
+#: ../../KLD.rst:1340
 msgid ""
 ":mtgtip:`Inspiring Vantage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/6/160ac412-005f-48ca-a204-10207307c6c2.jpg?1576383543|"
 "https://scryfall.com/card/kld/246/inspiring-vantage?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1325
+#: ../../KLD.rst:1337
 msgid ""
 "Inspiring Vantage enters the battlefield tapped unless you control two or "
 "fewer other lands."
@@ -4324,18 +4368,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
 "dwoma innymi lądami."
 
-#: ../../KLD.rst:1327 ../../KLD.rst:1393
+#: ../../KLD.rst:1339 ../../KLD.rst:1405
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
-#: ../../KLD.rst:1336
+#: ../../KLD.rst:1348
 msgid ""
 ":mtgtip:`Inventors' Fair<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg?1576383555|"
 "https://scryfall.com/card/kld/247/inventors-fair?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1331
+#: ../../KLD.rst:1343
 msgid ""
 "At the beginning of your upkeep, if you control three or more artifacts, you "
 "gain 1 life."
@@ -4343,7 +4387,7 @@ msgstr ""
 "Na początku twojego kroku utrzymania, jeśli władasz co najmniej trzema "
 "artefaktami, zyskaj 1 życie."
 
-#: ../../KLD.rst:1335
+#: ../../KLD.rst:1347
 msgid ""
 "|mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an "
 "artifact card, reveal it, put it into your hand, then shuffle. Activate only "
@@ -4353,14 +4397,14 @@ msgstr ""
 "artefaktu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. Możesz "
 "aktywować tylko jeśli władasz co najmniej trzema artefaktami."
 
-#: ../../KLD.rst:1342
+#: ../../KLD.rst:1354
 msgid ""
 ":mtgtip:`Sequestered Stash<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/6/86a17084-bb96-4e81-bff0-005bd44a1fbd.jpg?1576383566|"
 "https://scryfall.com/card/kld/248/sequestered-stash?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1341
+#: ../../KLD.rst:1353
 msgid ""
 "|mana_4|, |tap|, Sacrifice Sequestered Stash: Mill five cards. Then you may "
 "put an artifact card from your graveyard on top of your library."
@@ -4368,14 +4412,14 @@ msgstr ""
 "|mana_4|, |tap|, poświęć ten ląd: Zmiel pięć kart. Następnie możesz umieścić "
 "kartę artefaktu z twojego cmentarza na wierzchu twojej biblioteki."
 
-#: ../../KLD.rst:1348
+#: ../../KLD.rst:1360
 msgid ""
 ":mtgtip:`Spirebluff Canal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/e/4e587ea7-0632-4789-ba75-3c410da2bb96.jpg?1576383574|"
 "https://scryfall.com/card/kld/249/spirebluff-canal?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1345
+#: ../../KLD.rst:1357
 msgid ""
 "Spirebluff Canal enters the battlefield tapped unless you control two or "
 "fewer other lands."
@@ -4383,81 +4427,81 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
 "dwoma innymi lądami."
 
-#: ../../KLD.rst:1347
+#: ../../KLD.rst:1359
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
-#: ../../KLD.rst:1352
+#: ../../KLD.rst:1364
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/2/32912b82-bbe5-4d70-817d-cd18bfdecacb.jpg?1562733633|https://"
 "scryfall.com/card/kld/250/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1351
+#: ../../KLD.rst:1363
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../KLD.rst:1356
+#: ../../KLD.rst:1368
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/c/8ca139d8-08a1-45d4-be9d-2ee5c9b3de43.jpg?1562739410|https://"
 "scryfall.com/card/kld/253/island?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1355
+#: ../../KLD.rst:1367
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../KLD.rst:1360
+#: ../../KLD.rst:1372
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/7/4760cdcc-e973-439c-a74a-5cb73b4fa22f.jpg?1562734953|https://"
 "scryfall.com/card/kld/256/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1359
+#: ../../KLD.rst:1371
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../KLD.rst:1364
+#: ../../KLD.rst:1376
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/9/29b4a0e0-3d27-414b-80cb-352f16389a83.jpg?1562733045|https://"
 "scryfall.com/card/kld/259/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1363
+#: ../../KLD.rst:1375
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../KLD.rst:1368
+#: ../../KLD.rst:1380
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/2/92e67efe-cc8a-4132-9019-26ddfc72a735.jpg?1562739789|https://"
 "scryfall.com/card/kld/262/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1367
+#: ../../KLD.rst:1379
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
-#: ../../KLD.rst:1376
+#: ../../KLD.rst:1388
 msgid ""
 ":mtgtip:`Chandra, Pyrogenius<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/a/5ab8435b-5fe8-4074-8809-46aa6e5504c8.jpg?1562736116|"
 "https://scryfall.com/card/kld/265/chandra-pyrogenius?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1371
+#: ../../KLD.rst:1383
 msgid "+2: Chandra, Pyrogenius deals 2 damage to each opponent."
 msgstr "+2: Ten wędrowiec zadaje każdemu przeciwnikowi po 2 obrażenia."
 
-#: ../../KLD.rst:1373
+#: ../../KLD.rst:1385
 msgid "−3: Chandra, Pyrogenius deals 4 damage to target creature."
 msgstr "–3: Ten wędrowiec zadaje wskazanemu stworowi 4 obrażenia."
 
-#: ../../KLD.rst:1375
+#: ../../KLD.rst:1387
 msgid ""
 "−10: Chandra, Pyrogenius deals 6 damage to target player or planeswalker and "
 "each creature that player or that planeswalker's controller controls."
@@ -4465,25 +4509,25 @@ msgstr ""
 "–10: Ten stwór zadaje wskazanemu graczowi lub wędrowcowi oraz każdemu "
 "stworowi pod władaniem owego gracza lub władcy owego wędrowca po 6 obrażeń."
 
-#: ../../KLD.rst:1380
+#: ../../KLD.rst:1392
 msgid ""
 ":mtgtip:`Flame Lash<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/c/ac44e3cb-cc69-4222-87bc-ffa54b7ab34a.jpg?1562741297|https://"
 "scryfall.com/card/kld/266/flame-lash?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1379
+#: ../../KLD.rst:1391
 msgid "Flame Lash deals 4 damage to any target."
 msgstr "Ten stwór zadaje wskazanemu celowi 4 obrażenia."
 
-#: ../../KLD.rst:1384
+#: ../../KLD.rst:1396
 msgid ""
 ":mtgtip:`Liberating Combustion<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/9/c9d2156e-2d54-440e-b0fd-7bef702afbfc.jpg?1562743003|"
 "https://scryfall.com/card/kld/267/liberating-combustion?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1383
+#: ../../KLD.rst:1395
 msgid ""
 "Liberating Combustion deals 6 damage to target creature. You may search your "
 "library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, "
@@ -4494,14 +4538,14 @@ msgstr ""
 "umieść ją w twojej ręce. Jeśli przeszukasz twoją bibliotekę w ten sposób, "
 "przetasuj."
 
-#: ../../KLD.rst:1388
+#: ../../KLD.rst:1400
 msgid ""
 ":mtgtip:`Renegade Firebrand<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/b/4b633884-867c-4b51-bd5b-5f246d0ecd4e.jpg?1562735197|"
 "https://scryfall.com/card/kld/268/renegade-firebrand?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1387
+#: ../../KLD.rst:1399
 msgid ""
 "As long as you control a Chandra planeswalker, Renegade Firebrand gets +1/+0 "
 "and has first strike. (It deals combat damage before creatures without first "
@@ -4510,29 +4554,29 @@ msgstr ""
 "O ile władasz wędrowcem typu Chandra, ten stwór dostaje +1/+0 i ma pierwszy "
 "cios. (Zadaje obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
-#: ../../KLD.rst:1394
+#: ../../KLD.rst:1406
 msgid ""
 ":mtgtip:`Stone Quarry<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/2/8214a439-b388-4f41-a897-725e56d23fe8.jpg?1562738786|"
 "https://scryfall.com/card/kld/269/stone-quarry?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1391
+#: ../../KLD.rst:1403
 msgid "Stone Quarry enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../KLD.rst:1402
+#: ../../KLD.rst:1414
 msgid ""
 ":mtgtip:`Nissa, Nature's Artisan<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/7/777533c3-0a87-4625-8987-d850fc236ddb.jpg?1562738104|"
 "https://scryfall.com/card/kld/270/nissa-natures-artisan?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1397
+#: ../../KLD.rst:1409
 msgid "+3: You gain 3 life."
 msgstr "+3: Zyskaj 3 życia."
 
-#: ../../KLD.rst:1399
+#: ../../KLD.rst:1411
 msgid ""
 "−4: Reveal the top two cards of your library. Put all land cards from among "
 "them onto the battlefield and the rest into your hand."
@@ -4540,13 +4584,13 @@ msgstr ""
 "–4: Ujawnij dwie wierzchnie karty twojej biblioteki. Umieść spośród nich "
 "wszystkie karty lądów na polu bitwy, a pozostałe w twojej ręce."
 
-#: ../../KLD.rst:1401
+#: ../../KLD.rst:1413
 msgid ""
 "−12: Creatures you control get +5/+5 and gain trample until end of turn."
 msgstr ""
 "–12: Stwory pod twoim władaniem dostają do końca tury +5/+5 i tratowanie."
 
-#: ../../KLD.rst:1408
+#: ../../KLD.rst:1420
 msgid ""
 ":mtgtip:`Guardian of the Great Conduit<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/7/2/72638ac5-84fd-4688-9b81-0eea3c05e53e.jpg?"
@@ -4554,7 +4598,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1407
+#: ../../KLD.rst:1419
 msgid ""
 "As long as you control a Nissa planeswalker, Guardian of the Great Conduit "
 "gets +2/+0 and has vigilance. (Attacking doesn't cause it to tap.)"
@@ -4562,21 +4606,21 @@ msgstr ""
 "O ile władasz wędrowcem typu Nissa, ten stwór dostaje +2+/+0 i ma czujność. "
 "(Atakowanie nie przekręca go.)"
 
-#: ../../KLD.rst:1410
+#: ../../KLD.rst:1422
 msgid ""
 ":mtgtip:`Terrain Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/2/32b89e5c-ffb4-406f-99d1-ec2797aca061.jpg?1562733639|"
 "https://scryfall.com/card/kld/272/terrain-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1416
+#: ../../KLD.rst:1428
 msgid ""
 ":mtgtip:`Verdant Crescendo<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/a/ea890019-f48f-4164-b057-773499ef273f.jpg?1562745055|"
 "https://scryfall.com/card/kld/273/verdant-crescendo?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1415
+#: ../../KLD.rst:1427
 msgid ""
 "Search your library for a basic land card and put it onto the battlefield "
 "tapped. Search your library and graveyard for a card named Nissa, Nature's "
@@ -4586,38 +4630,16 @@ msgstr ""
 "polu bitwy. Wyszukaj w twojej bibliotece i cmentarzu kartę o nazwie Nissa, "
 "Nature's Artisan, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
-#: ../../KLD.rst:1421
+#: ../../KLD.rst:1433
 msgid ""
 ":mtgtip:`Woodland Stream<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/3/a333bbdc-5af7-4679-b263-3aaa056452a0.jpg?1562740821|"
 "https://scryfall.com/card/kld/274/woodland-stream?utm_source=api>`"
 msgstr ""
 
-#: ../../KLD.rst:1419
+#: ../../KLD.rst:1431
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
-
-#~ msgid ""
-#~ "When Wild Wanderer enters the battlefield, you may search your library "
-#~ "for a basic land card, put it onto the battlefield tapped, then shuffle."
-#~ msgstr ""
-#~ "Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-#~ "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
-#~ "przetasuj."
-
-#~ msgid ""
-#~ "Return X target cards from your graveyard to your hand. Exile Wildest "
-#~ "Dreams."
-#~ msgstr ""
-#~ "Przywróć X wskazanych kart z twojego cmentarza do twojej ręki. Wygnaj "
-#~ "niniejszy czar."
-
-#~ msgid ""
-#~ "|mana_2|\\ |mana_g|: Wily Bandar gains indestructible until end of turn. "
-#~ "(Damage and effects that say \"destroy\" don't destroy it.)"
-#~ msgstr ""
-#~ "|mana_2|\\ |mana_g|: Ten stwór zyskuje niezniszczalność do końca tury. "
-#~ "(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #~ msgid "Destroy target creature with power 3 or greater. Scry 1."
 #~ msgstr "Zniszcz wskazanego stwora o sile 3 lub większej. Wróż 1."
