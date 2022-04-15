@@ -395,7 +395,7 @@
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SNC_percent| image:: images/pie60.png        
+.. |SNC_percent| image:: images/pie75.png        
 
 .. |ARN_percent| image:: images/pie55.png        
 
