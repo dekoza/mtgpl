@@ -961,7 +961,7 @@
    Explosive Singularity deals 10 damage to any target.
 
 
-:mtgtip:`Fable of the Mirror-Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1644088621|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
+:mtgtip:`Fable of the Mirror-Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1648541384|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Create a 2/2 red Goblin Shaman creature token with "Whenever this creature attacks, create a Treasure token."
@@ -971,7 +971,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Reflection of Kiki-Jiki<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1644088621|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
+:mtgtip:`Reflection of Kiki-Jiki<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1648541384|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
    |mana_1|, |tap|: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.
 
 
@@ -1027,7 +1027,7 @@
    Target creature gets +1/+0 and gains first strike until end of turn.
 
 
-:mtgtip:`Kumano Faces Kakkazan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1643931768|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
+:mtgtip:`Kumano Faces Kakkazan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1648542473|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Kumano Faces Kakkazan deals 1 damage to each opponent and each planeswalker they control.
@@ -1037,7 +1037,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Etching of Kumano<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1643931768|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
+:mtgtip:`Etching of Kumano<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1648542473|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
    Haste
 
    If a creature dealt damage this turn by a source you controlled would die, exile it instead.
@@ -1161,7 +1161,7 @@
    Voltage Surge deals 2 damage to target creature or planeswalker. If this spell's additional cost was paid, Voltage Surge deals 4 damage instead.
 
 
-:mtgtip:`Azusa's Many Journeys<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1643319744|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
+:mtgtip:`Azusa's Many Journeys<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1648809262|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — You may play an additional land this turn.
@@ -1171,7 +1171,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Likeness of the Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1643319744|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
+:mtgtip:`Likeness of the Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1648809262|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
    Whenever Likeness of the Seeker becomes blocked, untap up to three lands you control.
 
 
@@ -1195,7 +1195,7 @@
    Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control. Untap it.
 
 
-:mtgtip:`Boseiju Reaches Skyward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1643325316|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
+:mtgtip:`Boseiju Reaches Skyward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1648809327|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Search your library for up to two basic Forest cards, reveal them, put them into your hand, then shuffle.
@@ -1205,7 +1205,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Branch of Boseiju<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1643325316|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
+:mtgtip:`Branch of Boseiju<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1648809327|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
    Reach
 
    Branch of Boseiju gets +1/+1 for each land you control.
@@ -1309,7 +1309,7 @@
    Create two 4/5 green Spirit creature tokens. For each of them, put your choice of a vigilance counter, a reach counter, or a trample counter on it.
 
 
-:mtgtip:`Jugan Defends the Temple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1644088636|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
+:mtgtip:`Jugan Defends the Temple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1648809381|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Create a 1/1 green Human Monk creature token with "|tap|: Add |mana_g|."
@@ -1319,7 +1319,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Remnant of the Rising Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1644088636|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
+:mtgtip:`Remnant of the Rising Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1648809381|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
    Flying
 
    Whenever another creature enters the battlefield under your control, you may pay |mana_x|. When you do, put X +1/+1 counters on that creature.
@@ -1441,7 +1441,7 @@
    Target permanent you control gains hexproof and indestructible until end of turn. You gain 2 life. (A permanent with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Teachings of the Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1644088836|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
+:mtgtip:`Teachings of the Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1648809424|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Mill three cards. Create a 1/1 colorless Spirit creature token.
@@ -1451,7 +1451,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Kirin-Touched Orochi<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1644088836|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
+:mtgtip:`Kirin-Touched Orochi<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1648809424|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
    Whenever Kirin-Touched Orochi attacks, choose one —
 
    • Exile target creature card from a graveyard. When you do, create a 1/1 colorless Spirit creature token.
@@ -1511,7 +1511,7 @@
    At the beginning of combat on your turn, return target Vehicle card from your graveyard to the battlefield. It gains haste. Return it to its owner's hand at the beginning of your next end step.
 
 
-:mtgtip:`Hidetsugu Consumes All<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1644088858|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
+:mtgtip:`Hidetsugu Consumes All<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1648809355|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Destroy each nonland permanent with mana value 1 or less.
@@ -1521,7 +1521,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Vessel of the All-Consuming<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1644088858|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
+:mtgtip:`Vessel of the All-Consuming<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1648809355|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
    Trample
 
    Whenever Vessel of the All-Consuming deals damage, put a +1/+1 counter on it.

@@ -3,7 +3,7 @@ from typing import Optional
 
 import typer
 import trio
-
+from rich.console import Console
 from toolbox.dumper import queue_downloads, DumperProgress
 from toolbox.mtg_vars import expansions
 

@@ -919,6 +919,10 @@
    Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
 
 
+:mtgtip:`A-Blood Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1649276596|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`
+   Whenever Blood Artist or another creature dies, target opponent loses 1 life and you gain 1 life.
+
+
 :mtgtip:`Blood Divination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51278b56-5056-4a37-a1e8-daca45d8e360.jpg?1600699541|https://scryfall.com/card/jmp/207/blood-divination?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 

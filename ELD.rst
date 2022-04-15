@@ -791,7 +791,7 @@
    You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
 
 
-:mtgtip:`A-Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24729f25-e900-4a71-a304-7346eb17990a.jpg?1646219063|https://scryfall.com/card/eld/A-125/a-fires-of-invention?utm_source=api>`
+:mtgtip:`A-Fires of Invention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24729f25-e900-4a71-a304-7346eb17990a.jpg?1649850189|https://scryfall.com/card/eld/A-125/a-fires-of-invention?utm_source=api>`
    You can cast spells only during your turn and you can cast no more than two spells each turn.
 
    You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.

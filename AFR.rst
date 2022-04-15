@@ -53,7 +53,7 @@
    As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
 
 
-:mtgtip:`A-Cloister Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/735b16a4-c35a-4eec-94ed-8df6720240e0.jpg?1645415339|https://scryfall.com/card/afr/A-7/a-cloister-gargoyle?utm_source=api>`
+:mtgtip:`A-Cloister Gargoyle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/735b16a4-c35a-4eec-94ed-8df6720240e0.jpg?1649850406|https://scryfall.com/card/afr/A-7/a-cloister-gargoyle?utm_source=api>`
    When Cloister Gargoyle enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 
    As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
@@ -100,6 +100,12 @@
 
 
 :mtgtip:`Dwarfhold Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/2404a028-05f5-469b-80e0-e820721ff266.jpg?1627701668|https://scryfall.com/card/afr/14/dwarfhold-champion?utm_source=api>`
+   As long as Dwarfhold Champion is equipped, it gets +0/+2.
+
+
+:mtgtip:`A-Dwarfhold Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/191a73b3-9efc-4f79-bf10-e8e2d6951c6c.jpg?1649274895|https://scryfall.com/card/afr/A-14/a-dwarfhold-champion?utm_source=api>`
+   Ward |mana_1|
+
    As long as Dwarfhold Champion is equipped, it gets +0/+2.
 
 
@@ -216,6 +222,12 @@
 
 
 :mtgtip:`Plate Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad447e50-cfb1-40df-ae01-a65c46f2f572.jpg?1627702329|https://scryfall.com/card/afr/32/plate-armor?utm_source=api>`
+   Equipped creature gets +3/+3 and has ward |mana_1|. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
+
+   Equip |mana_3|. This ability costs |mana_1| less to activate for each other Equipment you control.
+
+
+:mtgtip:`A-Plate Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1649275211|https://scryfall.com/card/afr/A-32/a-plate-armor?utm_source=api>`
    Equipped creature gets +3/+3 and has ward |mana_1|. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
 
    Equip |mana_3|. This ability costs |mana_1| less to activate for each other Equipment you control.
@@ -695,7 +707,7 @@
    Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`A-Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca09f699-c3e9-436e-b1b3-0fcd1ef3273f.jpg?1645415284|https://scryfall.com/card/afr/A-102/a-fates-reversal?utm_source=api>`
+:mtgtip:`A-Fates' Reversal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca09f699-c3e9-436e-b1b3-0fcd1ef3273f.jpg?1649850845|https://scryfall.com/card/afr/A-102/a-fates-reversal?utm_source=api>`
    Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
@@ -785,7 +797,7 @@
    Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon.
 
 
-:mtgtip:`A-Precipitous Drop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77808663-2511-4495-a779-d4294a621c7f.jpg?1645415403|https://scryfall.com/card/afr/A-115/a-precipitous-drop?utm_source=api>`
+:mtgtip:`A-Precipitous Drop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77808663-2511-4495-a779-d4294a621c7f.jpg?1649850851|https://scryfall.com/card/afr/A-115/a-precipitous-drop?utm_source=api>`
    Enchant creature
 
    When Precipitous Drop enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
@@ -892,6 +904,12 @@
 
 
 :mtgtip:`Armory Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4177f57e-c239-47e8-ae50-5f593f6d54ec.jpg?1627705723|https://scryfall.com/card/afr/130/armory-veteran?utm_source=api>`
+   As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)
+
+
+:mtgtip:`A-Armory Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423f13ba-e165-4add-9935-d88503e1e761.jpg?1649274866|https://scryfall.com/card/afr/A-130/a-armory-veteran?utm_source=api>`
+   Ward — Pay 2 life.
+
    As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)
 
 
@@ -1517,6 +1535,12 @@
    You may pay |mana_0| rather than pay the equip cost of the first equip ability you activate each turn.
 
 
+:mtgtip:`A-Bruenor Battlehammer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7ad77890-cf97-4707-ab31-be0f5be0e120.jpg?1649339351|https://scryfall.com/card/afr/A-219/a-bruenor-battlehammer?utm_source=api>`
+   Each creature you control gets +2/+0 for each Equipment attached to it.
+
+   |mana_0|: Attach target Equipment you control to target creature you control. Activate only as a sorcery and only once each turn.
+
+
 :mtgtip:`Drizzt Do'Urden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.jpg?1627708841|https://scryfall.com/card/afr/220/drizzt-dourden?utm_source=api>`
    Double strike
 
@@ -1608,6 +1632,12 @@
 
 
 :mtgtip:`Shessra, Death's Whisper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60ca5fef-af21-4e2b-9efa-61e08a638a1f.jpg?1627709343|https://scryfall.com/card/afr/231/shessra-deaths-whisper?utm_source=api>`
+   Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able.
+
+   Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.
+
+
+:mtgtip:`A-Shessra, Death's Whisper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ef5fb8c-ee26-464e-bc89-47b2e4c39222.jpg?1649328644|https://scryfall.com/card/afr/A-231/a-shessra-deaths-whisper?utm_source=api>`
    Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able.
 
    Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.

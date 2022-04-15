@@ -777,7 +777,7 @@
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`A-Hobbling Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1645740181|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
+:mtgtip:`A-Hobbling Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1649850855|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
    Deathtouch
 
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
@@ -1233,14 +1233,6 @@
    Equipped creature gets +2/+1.
 
    Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)
-
-
-:mtgtip:`Briarbridge Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1636223950|https://scryfall.com/card/mid/172/briarbridge-tracker?utm_source=api>`
-   Vigilance
-
-   When Briarbridge Tracker enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
-
-   As long as you control a token, Briarbridge Tracker gets +2/+0.
 
 
 :mtgtip:`Brood Weaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e24e2f49-70f9-445f-af03-2ef43798004a.jpg?1636223973|https://scryfall.com/card/mid/173/brood-weaver?utm_source=api>`
@@ -1953,4 +1945,12 @@
 
 :mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1637115191|https://scryfall.com/card/mid/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
+
+
+:mtgtip:`Briarbridge Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f1db00c-c9fd-48d8-b7d5-c39f8e213232.jpg?1641172199|https://scryfall.com/card/mid/361/briarbridge-tracker?utm_source=api>`
+   Vigilance
+
+   When Briarbridge Tracker enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+
+   As long as you control a token, Briarbridge Tracker gets +2/+0.
 

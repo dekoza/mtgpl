@@ -2,8 +2,6 @@ import os
 import shutil
 import tempfile
 from typing import Iterable
-from rich.live import Live
-from rich.table import Table
 import httpx
 import trio
 

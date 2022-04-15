@@ -349,7 +349,7 @@
    Foretell |mana_2|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1645740443|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
+:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1649850835|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
    Flash
 
    Flying
@@ -675,6 +675,12 @@
    Foretell |mana_3|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
+:mtgtip:`A-Return Upon the Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a238560c-4633-4507-828e-4e96ecf62e11.jpg?1649275510|https://scryfall.com/card/khm/A-106/a-return-upon-the-tide?utm_source=api>`
+   Return target creature card from your graveyard to the battlefield. If it's an Elf, create three 1/1 green Elf Warrior creature tokens.
+
+   Foretell |mana_3|\ |mana_b|
+
+
 :mtgtip:`Rise of the Dread Marn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3a1ec1-f362-494d-a23b-6a963ce44fdd.jpg?1631048453|https://scryfall.com/card/khm/107/rise-of-the-dread-marn?utm_source=api>`
    Create X 2/2 black Zombie Berserker creature tokens, where X is the number of nontoken creatures that died this turn.
 
@@ -693,6 +699,10 @@
 
 :mtgtip:`Skemfar Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fad2c6d4-03dd-4dab-861c-77c55bda0db7.jpg?1631048518|https://scryfall.com/card/khm/109/skemfar-avenger?utm_source=api>`
    Whenever another nontoken Elf or Berserker you control dies, you draw a card and you lose 1 life.
+
+
+:mtgtip:`A-Skemfar Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/886b815b-ffcb-4239-b161-68983e091124.jpg?1649275364|https://scryfall.com/card/khm/A-109/a-skemfar-avenger?utm_source=api>`
+   Whenever another Elf or Berserker you control dies, you draw a card and you lose 1 life.
 
 
 :mtgtip:`Skemfar Shadowsage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c204130f-0483-49ed-8512-03a74894702e.jpg?1631048543|https://scryfall.com/card/khm/110/skemfar-shadowsage?utm_source=api>`
@@ -1041,8 +1051,20 @@
    When Elderleaf Mentor enters the battlefield, create a 1/1 green Elf Warrior creature token.
 
 
+:mtgtip:`A-Elderleaf Mentor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c1d225c-8a49-43f9-a9d2-aef7e406ab52.jpg?1649275577|https://scryfall.com/card/khm/A-165/a-elderleaf-mentor?utm_source=api>`
+   When Elderleaf Mentor enters the battlefield, create a 1/1 green Elf Warrior creature token.
+
+
 :mtgtip:`Elven Bow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34c599c7-bcc1-4005-b830-1fa4811af66e.jpg?1631050109|https://scryfall.com/card/khm/166/elven-bow?utm_source=api>`
    When Elven Bow enters the battlefield, you may pay |mana_2|. If you do, create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it.
+
+   Equipped creature gets +1/+2 and has reach.
+
+   Equip |mana_3|
+
+
+:mtgtip:`A-Elven Bow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6310bf62-6016-4987-83ed-671283a7ff61.jpg?1649275602|https://scryfall.com/card/khm/A-166/a-elven-bow?utm_source=api>`
+   When Elven Bow enters the battlefield, you may pay |mana_1|. If you do, create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it.
 
    Equipped creature gets +1/+2 and has reach.
 
@@ -1261,6 +1283,16 @@
    −6: You get an emblem with "Whenever you cast an Elf spell, it gains haste until end of turn and you draw two cards."
 
 
+:mtgtip:`A-Tyvar Kell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16492772-1a2a-4935-95ff-c2416633d064.jpg?1649275285|https://scryfall.com/card/khm/A-198/a-tyvar-kell?utm_source=api>`
+   Elves you control have "|tap|: Add |mana_b|."
+
+   +1: Put two +1/+1 counters on up to one target Elf. Untap it. It gains deathtouch until end of turn.
+
+   0: Create a 1/1 green Elf Warrior creature token.
+
+   −7: You get an emblem with "Whenever you cast an Elf spell, it gains haste until end of turn and you draw two cards."
+
+
 :mtgtip:`Vorinclex, Monstrous Raider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92613468-205e-488b-930d-11908477e9f8.jpg?1631051073|https://scryfall.com/card/khm/199/vorinclex-monstrous-raider?utm_source=api>`
    Trample, haste
 
@@ -1379,10 +1411,26 @@
    When Harald, King of Skemfar enters the battlefield, look at the top five cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
+:mtgtip:`A-Harald, King of Skemfar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc3987c7-4114-44ea-bd40-1a6054e06f09.jpg?1649275464|https://scryfall.com/card/khm/A-212/a-harald-king-of-skemfar?utm_source=api>`
+   Menace (This creature can't be blocked except by two or more creatures.)
+
+   When Harald, King of Skemfar enters the battlefield, look at the top seven cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+
 :mtgtip:`Harald Unites the Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7c5f681-0145-45e9-b943-ca9784cfdea0.jpg?1631051471|https://scryfall.com/card/khm/213/harald-unites-the-elves?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
    I — Mill three cards. You may put an Elf or Tyvar card from your graveyard onto the battlefield.
+
+   II — Put a +1/+1 counter on each Elf you control.
+
+   III — Whenever an Elf you control attacks this turn, target creature an opponent controls gets -1/-1 until end of turn.
+
+
+:mtgtip:`A-Harald Unites the Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db8705b7-e851-483e-a2af-bd309e62f079.jpg?1649365330|https://scryfall.com/card/khm/A-213/a-harald-unites-the-elves?utm_source=api>`
+   (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
+   I — Mill five cards. You may put an Elf or Tyvar card from your graveyard onto the battlefield.
 
    II — Put a +1/+1 counter on each Elf you control.
 
@@ -1475,7 +1523,7 @@
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
 
 
-:mtgtip:`A-Narfi, Betrayer King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1645740244|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
+:mtgtip:`A-Narfi, Betrayer King<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1649850853|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
    Other snow and Zombie creatures you control get +1/+1.
 
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
@@ -1817,6 +1865,14 @@
    |mana_2|\ |mana_b|\ |mana_b|\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery.
 
 
+:mtgtip:`A-Skemfar Elderhall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d305dd37-2764-46cb-8cb9-d3d2c049b36c.jpg?1649275624|https://scryfall.com/card/khm/A-268/a-skemfar-elderhall?utm_source=api>`
+   Skemfar Elderhall enters the battlefield tapped.
+
+   |tap|: Add |mana_g|.
+
+   |mana_1|\ |mana_b|\ |mana_b|\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery.
+
+
 :mtgtip:`Snowfield Sinkhole<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6611dc5e-6acc-48df-b8c4-4b327314578b.jpg?1631053122|https://scryfall.com/card/khm/269/snowfield-sinkhole?utm_source=api>`
    (|tap|: Add |mana_w| or |mana_b|.)
 
@@ -1915,6 +1971,12 @@
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
 
+:mtgtip:`A-Canopy Tactician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/693eb7cb-a78c-4d79-b4de-f59da76cce31.jpg?1649275386|https://scryfall.com/card/khm/A-378/a-canopy-tactician?utm_source=api>`
+   Other Elves you control get +1/+1.
+
+   |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
+
+
 :mtgtip:`Armed and Armored<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f4c1253-7eba-454b-9269-3695ba746a7a.jpg?1631057143|https://scryfall.com/card/khm/379/armed-and-armored?utm_source=api>`
    Vehicles you control become artifact creatures until end of turn. Choose a Dwarf you control. Attach any number of Equipment you control to it.
 
@@ -1947,6 +2009,10 @@
    When Elderfang Ritualist dies, return another target Elf card from your graveyard to your hand.
 
 
+:mtgtip:`A-Elderfang Ritualist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62872f7d-26ab-40b7-96db-955e576ec110.jpg?1649275337|https://scryfall.com/card/khm/A-385/a-elderfang-ritualist?utm_source=api>`
+   When Elderfang Ritualist dies, you may exile it. If you do, return another target Elf or Tyvar card from your graveyard to your hand.
+
+
 :mtgtip:`Renegade Reaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5675655-dc9f-45ad-9cd0-ce28fba1f972.jpg?1631057416|https://scryfall.com/card/khm/386/renegade-reaper?utm_source=api>`
    Flying
 
@@ -1954,6 +2020,14 @@
 
 
 :mtgtip:`Thornmantle Striker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/544b6477-cefa-40e2-a96a-72794c7eb815.jpg?1631057445|https://scryfall.com/card/khm/387/thornmantle-striker?utm_source=api>`
+   When Thornmantle Striker enters the battlefield, choose one —
+
+   • Remove X counters from target permanent, where X is the number of Elves you control.
+
+   • Target creature an opponent controls gets -X/-X until end of turn, where X is the number of Elves you control.
+
+
+:mtgtip:`A-Thornmantle Striker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b7a57af-b44d-476d-8f11-43c54eff52b2.jpg?1649275531|https://scryfall.com/card/khm/A-387/a-thornmantle-striker?utm_source=api>`
    When Thornmantle Striker enters the battlefield, choose one —
 
    • Remove X counters from target permanent, where X is the number of Elves you control.

@@ -5,7 +5,7 @@
 ==============================
 
 
-:mtgtip:`Allied Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1647939343|https://scryfall.com/card/znr/1/allied-assault?utm_source=api>`
+:mtgtip:`Allied Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1649921548|https://scryfall.com/card/znr/1/allied-assault?utm_source=api>`
    Up to two target creatures each get +X/+X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 
 
@@ -893,6 +893,10 @@
    Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors you control can't block this turn.
 
 
+:mtgtip:`A-Goma Fada Vanguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7762d48f-9088-4856-a0b0-cbf62540caf5.jpg?1649275043|https://scryfall.com/card/znr/A-141/a-goma-fada-vanguard?utm_source=api>`
+   Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors and Equipment you control can't block this turn.
+
+
 :mtgtip:`Grotag Bug-Catcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b310b01-f9cb-48ce-8af3-5957d3abf098.jpg?1604197094|https://scryfall.com/card/znr/142/grotag-bug-catcher?utm_source=api>`
    Trample
 
@@ -917,6 +921,16 @@
    • Target creature becomes a Coward until end of turn.
 
    • Target Warrior gains trample until end of turn.
+
+
+:mtgtip:`A-Kargan Intimidator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/825d4bac-9433-4956-9126-358432c22818.jpg?1649275085|https://scryfall.com/card/znr/A-145/a-kargan-intimidator?utm_source=api>`
+   Cowards can't block Warriors.
+
+   |mana_1|: Choose one that hasn't been chosen this turn —
+
+   • Kargan Intimidator gets +1/+1 and gains trample until end of turn.
+
+   • Target creature becomes a Coward until end of turn.
 
 
 :mtgtip:`Kazuul's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1636491308|https://scryfall.com/card/znr/146/kazuuls-fury-kazuuls-cliffs?utm_source=api>`
@@ -1423,6 +1437,12 @@
    Other Warriors you control get +1/+1.
 
 
+:mtgtip:`A-Kargan Warleader<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13d44c40-cdd0-42d5-a250-e7d95ae926c0.jpg?1649275120|https://scryfall.com/card/znr/A-224/a-kargan-warleader?utm_source=api>`
+   Ward |mana_1|
+
+   Other Warriors you control get +1/+1 and have ward |mana_1|.
+
+
 :mtgtip:`Kaza, Roil Chaser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af6bc333-79c0-4de8-9874-80f2254f9ad2.jpg?1604200147|https://scryfall.com/card/znr/225/kaza-roil-chaser?utm_source=api>`
    Flying, haste
 
@@ -1465,6 +1485,14 @@
    −2: Look at the top six cards of your library. You may reveal a Warrior or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
    −3: Nahiri, Heir of the Ancients deals damage to target creature or planeswalker equal to twice the number of Equipment you control.
+
+
+:mtgtip:`A-Nahiri, Heir of the Ancients<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02e33233-fc29-489b-bcf4-fa7d771db0cc.jpg?1649275187|https://scryfall.com/card/znr/A-230/a-nahiri-heir-of-the-ancients?utm_source=api>`
+   +1: Create a 1/1 white Kor Warrior creature token. You may attach an Equipment you control to it.
+
+   −2: Look at the top six cards of your library. You may reveal a Warrior and Equipment card from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+
+   −3: Nahiri, Heir of the Ancients deals damage to target creature or planeswalker equal to twice the number of Warriors and Equipment you control.
 
 
 :mtgtip:`Nissa of Shadowed Boughs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d69f943-d474-47c0-bc6b-1b247a5dd6f3.jpg?1604200305|https://scryfall.com/card/znr/231/nissa-of-shadowed-boughs?utm_source=api>`
@@ -1674,6 +1702,12 @@
 :mtgtip:`Base Camp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc85412e-333d-4e7d-8c85-40618cf1b6c2.jpg?1604201149|https://scryfall.com/card/znr/257/base-camp?utm_source=api>`
    Base Camp enters the battlefield tapped.
 
+   |tap|: Add |colorless|.
+
+   |tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.
+
+
+:mtgtip:`A-Base Camp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b56f7e2a-150c-4daa-811c-a0347ff850bf.jpg?1649276558|https://scryfall.com/card/znr/A-257/a-base-camp?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.

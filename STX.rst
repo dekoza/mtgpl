@@ -315,6 +315,12 @@
    Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature you control has base power 2 until end of turn.
 
 
+:mtgtip:`A-Symmetry Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2409aee-3a80-4533-80bc-9383624c285d.jpg?1649276504|https://scryfall.com/card/stx/A-56/a-symmetry-sage?utm_source=api>`
+   Flying
+
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature you control has base power 3 until end of turn.
+
+
 :mtgtip:`Teachings of the Archaics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/967148b1-2bb6-4bc0-95e6-c45fcf99afd2.jpg?1637082385|https://scryfall.com/card/stx/57/teachings-of-the-archaics?utm_source=api>`
    If an opponent has more cards in hand than you, draw two cards. Draw three cards instead if an opponent has at least four more cards in hand than you.
 
@@ -1529,6 +1535,14 @@
    |tap|, Remove a book counter from Spell Satchel: Add |colorless|.
 
    |mana_3|, |tap|, Remove three book counters from Spell Satchel: Draw a card.
+
+
+:mtgtip:`A-Spell Satchel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd8acc65-c7e0-4ba5-b956-af0679ffb830.jpg?1649276537|https://scryfall.com/card/stx/A-258/a-spell-satchel?utm_source=api>`
+   Magecraft — Whenever you cast or copy an instant or sorcery spell, put a book counter on Spell Satchel.
+
+   |tap|, Remove a book counter from Spell Satchel: Add |colorless|.
+
+   |mana_2|, |tap|, Remove two book counters from Spell Satchel: Draw a card.
 
 
 :mtgtip:`Strixhaven Stadium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/421674ee-4b85-4942-b166-952598165826.jpg?1624740737|https://scryfall.com/card/stx/259/strixhaven-stadium?utm_source=api>`
