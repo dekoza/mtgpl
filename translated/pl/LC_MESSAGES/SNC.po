@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-04-15 19:31+0000\n"
+"PO-Revision-Date: 2022-04-15 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -303,6 +303,8 @@ msgid ""
 "|mana_4|\\ |mana_gu|: Brokers Initiate has base power and toughness 5/5 "
 "until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_gu|: Ten stwór do końca tury ma bazową siłę i wytrzymałość "
+"5/5."
 
 #: ../../SNC.rst:30
 msgid ""
@@ -381,7 +383,7 @@ msgstr ""
 
 #: ../../SNC.rst:47
 msgid "As long as it's your turn, Dapper Shieldmate gets +2/+0."
-msgstr ""
+msgstr "O ile jest twoja tura, ten stwór dostaje +2/+0."
 
 #: ../../SNC.rst:52
 msgid ""
@@ -447,6 +449,9 @@ msgid ""
 "creature can't attack or block for as long as you control Extraction "
 "Specialist."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora o "
+"skrócie many 2 lub mniejszym z twojego cmentarza na pole bitwy. Ów stwór nie "
+"może atakować ani blokować o ile władasz niniejszym."
 
 #: ../../SNC.rst:74
 msgid ""
@@ -550,6 +555,8 @@ msgid ""
 "Knockout Blow deals 4 damage to target attacking or blocking creature and "
 "you gain 2 life."
 msgstr ""
+"Ten czar zadaje wskazanemu atakującemu lub blokującemu stworowi 4 obrażenia, "
+"a ty zyskaj 2 życia."
 
 #: ../../SNC.rst:102
 msgid ""
@@ -994,7 +1001,7 @@ msgstr ""
 #: ../../SNC.rst:241
 msgid ""
 "|mana_1|\\ |mana_wb|: Obscura Initiate gains lifelink until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_wb|: Ten stwór zyskuje do końca tury więź życia."
 
 #: ../../SNC.rst:246
 msgid ""
@@ -1159,6 +1166,9 @@ msgid ""
 "and you create a 1/1 blue Fish creature token with \"This creature can't be "
 "blocked.\""
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora i stwórz "
+"żeton niebieskiego stwora Ryba 1/1 mający \"Ten stwór nie może być blokowany."
+"\""
 
 #: ../../SNC.rst:301
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1176,6 +1186,8 @@ msgid ""
 "Put a +1/+1 counter on target creature. It phases out. (Treat it and "
 "anything attached to it as though they don't exist until your next turn.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze. Wycofuje się on. (Do twojej "
+"następnej tury traktuj go i cokolwiek go niego dołączone jakby nie istniały.)"
 
 #: ../../SNC.rst:310
 msgid ""
@@ -1266,6 +1278,7 @@ msgid ""
 "If damage would be dealt to you, prevent that damage and mill twice that "
 "many cards."
 msgstr ""
+"Jeśli miałbyś otrzymać obrażenia, zażegnaj je i zmiel dwukrotnie tyle kart."
 
 #: ../../SNC.rst:342
 msgid ""
@@ -1372,6 +1385,8 @@ msgid ""
 "As an additional cost to cast this spell, sacrifice a creature, discard a "
 "card, or pay 4 life."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora, odrzuć kartę lub "
+"zapłać 4 życia."
 
 #: ../../SNC.rst:369
 msgid ""
@@ -1393,6 +1408,7 @@ msgid ""
 "When \"Tragic Boyfriends\" dies, create a tapped 2/2 black Rogue creature "
 "token."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz przekręcony żeton czarnego stwora Łotrzyk 2/2."
 
 #: ../../SNC.rst:375
 msgid ""
@@ -1638,6 +1654,8 @@ msgid ""
 "If your life total is less than your starting life total, this spell costs |"
 "mana_x| less to cast, where X is the difference."
 msgstr ""
+"Jeśli twoja liczba żyć jest mniejsza niż twoja startowa liczba żyć, rzucenie "
+"tego czaru kosztuje o |mana_x| mniej, gdzie X jest różnicą."
 
 #: ../../SNC.rst:452
 msgid ""
@@ -1808,13 +1826,15 @@ msgstr ""
 
 #: ../../SNC.rst:499
 msgid "|tap|: Add |mana_r|. Put a stash counter on Glittering Stockpile."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|. Umieść znacznik skrytki na tym bycie."
 
 #: ../../SNC.rst:501
 msgid ""
 "|tap|, Sacrifice Glittering Stockpile: Add X mana of any one color, where X "
 "is the number of stash counters on Glittering Stockpile."
 msgstr ""
+"|tap|, poświęć ten byt: Weź X many dowolnego jednego koloru, gdzie X jest "
+"liczbą znaczników skrytki na tym bycie."
 
 #: ../../SNC.rst:510
 msgid ""
@@ -1918,6 +1938,8 @@ msgid ""
 "Whenever Plasma Jockey attacks, target creature an opponent controls can't "
 "block this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika nie "
+"może blokować w tej turze."
 
 #: ../../SNC.rst:539 ../../SNC.rst:567
 msgid ""
@@ -1987,6 +2009,8 @@ msgid ""
 "|mana_1|, |tap|: Pyre-Sledge Arsonist deals X damage to any target, where X "
 "is the number of permanents you sacrificed this turn."
 msgstr ""
+"|mana_1|, |tap|: Ten byt zadaje wskazanemu celowi X obrażeń, gdzie X jest "
+"liczbą bytów poświęconych przez ciebie w tej turze."
 
 #: ../../SNC.rst:562
 msgid ""
@@ -1998,7 +2022,7 @@ msgstr ""
 #: ../../SNC.rst:561
 msgid ""
 "|mana_1|\\ |mana_bg|: Riveteers Initiate gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_bg|: Ten stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../SNC.rst:568
 msgid ""
@@ -2072,6 +2096,8 @@ msgid ""
 "equal to the number of artifacts that were put into graveyards from the "
 "battlefield this turn."
 msgstr ""
+"Zniszcz wszystkie artefakty, po czym ten czar zadaje każdemu stworowi po "
+"tyle obrażeń, ile artefaktów trafiło z pola bitwy do cmentarza w tej turze."
 
 #: ../../SNC.rst:594
 msgid ""
@@ -2208,7 +2234,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_rw|: Cabaretti Initiate gains double strike until end of "
 "turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_rw|: Ten stwór do końca tury zyskuje podwójny cios."
 
 #: ../../SNC.rst:634
 msgid ""
@@ -2347,6 +2373,9 @@ msgid ""
 "turn, where X is the greatest power and/or toughness among other creatures "
 "you control."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, dostaje on do końca tury +X/+X, "
+"gdzie X jest największą siłą i/lub wytrzymałością pośród stworów pod twoim "
+"władaniem."
 
 #: ../../SNC.rst:682
 msgid ""
@@ -2441,7 +2470,7 @@ msgstr ""
 
 #: ../../SNC.rst:707
 msgid "As long as \"Hammer Bro\" has a shield counter on it, it has trample."
-msgstr ""
+msgstr "O ile ten stwór ma znacznik tarczy, ma on tratowanie."
 
 #: ../../SNC.rst:712
 msgid ""
@@ -2494,7 +2523,7 @@ msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SNC.rst:725
 msgid "Target player gains 5 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 5 żyć."
 
 #: ../../SNC.rst:727
 msgid "Create a 4/4 green Rhino Warrior creature token."
@@ -2527,6 +2556,7 @@ msgstr ""
 msgid ""
 "Topiary Stomper can't attack or block unless you control seven or more lands."
 msgstr ""
+"Ten stwór nie może blokować, chyba że władasz co najmniej siedmioma lądami."
 
 #: ../../SNC.rst:742
 msgid ""
@@ -2597,6 +2627,8 @@ msgid ""
 "Whenever Voice of the Vermin attacks, target creature you control has base "
 "power and toughness 4/4 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod twoim władaniem ma do końca "
+"tury bazową siłę i wytrzymałość 4/4."
 
 #: ../../SNC.rst:764
 msgid ""
@@ -2615,7 +2647,7 @@ msgstr ""
 
 #: ../../SNC.rst:763
 msgid "When Aven Heartstabber dies, mill two cards, then draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zmiel dwie karty, po czym dobierz kartę."
 
 #: ../../SNC.rst:770
 msgid ""
@@ -2785,7 +2817,7 @@ msgstr "Wyposażony stwór dostaje +2/+1 i ma tratowanie."
 
 #: ../../SNC.rst:821
 msgid "Equip Citizen |mana_1|"
-msgstr ""
+msgstr "Wyposaż Mieszczanina |mana_1|"
 
 #: ../../SNC.rst:823
 msgid ""
@@ -2881,7 +2913,7 @@ msgstr ""
 msgid ""
 "\"Rosy Riveteer\" has indestructible as long as it entered the battlefield "
 "this turn."
-msgstr ""
+msgstr "Ten stwór ma niezniszczalność o ile wszedł na pole bitwy w tej turze."
 
 #: ../../SNC.rst:858
 msgid ""
@@ -2892,7 +2924,7 @@ msgstr ""
 
 #: ../../SNC.rst:855
 msgid "Other Citizens you control get +1/+0."
-msgstr ""
+msgstr "Inni Mieszczanie pod twoim władaniem dostają +1/+0."
 
 #: ../../SNC.rst:857
 msgid ""
@@ -2930,6 +2962,8 @@ msgid ""
 "The owner of target spell, nonland permanent, or card in a graveyard puts it "
 "on the top or bottom of their library."
 msgstr ""
+"Właściciel wskazanego czaru, nielądowego bytu lub karty w cmentarzu "
+"umieszcza go na wierzchu lub spodzie swojej biblioteki."
 
 #: ../../SNC.rst:876
 msgid ""
