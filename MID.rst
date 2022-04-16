@@ -1235,6 +1235,14 @@
    Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)
 
 
+:mtgtip:`Briarbridge Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1636223950|https://scryfall.com/card/mid/172/briarbridge-tracker?utm_source=api>`
+   Vigilance
+
+   When Briarbridge Tracker enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+
+   As long as you control a token, Briarbridge Tracker gets +2/+0.
+
+
 :mtgtip:`Brood Weaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e24e2f49-70f9-445f-af03-2ef43798004a.jpg?1636223973|https://scryfall.com/card/mid/173/brood-weaver?utm_source=api>`
    Reach
 
@@ -1945,12 +1953,4 @@
 
 :mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1637115191|https://scryfall.com/card/mid/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
-
-
-:mtgtip:`Briarbridge Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f1db00c-c9fd-48d8-b7d5-c39f8e213232.jpg?1641172199|https://scryfall.com/card/mid/361/briarbridge-tracker?utm_source=api>`
-   Vigilance
-
-   When Briarbridge Tracker enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
-
-   As long as you control a token, Briarbridge Tracker gets +2/+0.
 

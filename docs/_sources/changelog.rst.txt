@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2022-04-17
+   * :mtgexp:`PLC` :doc:`Planar Chaos<PLC>` - 100%
+
 2022-04-11
    * :mtgexp:`GPT` :doc:`Guildpact<GPT>` - 100%
    * :mtgexp:`DIS` :doc:`Dissension<DIS>` - 100%

@@ -339,7 +339,7 @@
 .. |NEO_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |FUT_percent| image:: images/pie65.png        
+.. |FUT_percent| image:: images/pie70.png        
 
 .. |KHC_percent| image:: images/pie80.png        
 
@@ -390,7 +390,8 @@
 .. |DOM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |PLC_percent| image:: images/pie65.png        
+.. |PLC_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
