@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-04-16 18:19+0000\n"
+"PO-Revision-Date: 2022-04-16 18:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -3130,7 +3130,7 @@ msgstr ""
 
 #: ../../SNC.rst:919
 msgid "Incandescent Aria deals 3 damage to each nontoken creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu nieżetonowemu stworowi po 3 obrażenia."
 
 #: ../../SNC.rst:928
 msgid ""
@@ -3176,6 +3176,9 @@ msgid ""
 "from a Treasure was spent to activate this ability, put a +1/+1 counter on "
 "Jetmir's Fixer instead."
 msgstr ""
+"|mana_r|\\ |mana_g|: Ten stwór dostaje do końca tury +1/+1. Jeśli do "
+"aktywacji tej zdolności wydano manę ze Skarbu, zamiast tego umieść na tym "
+"stworze znacznik +1/+1."
 
 #: ../../SNC.rst:936
 msgid ""
@@ -3191,6 +3194,9 @@ msgid ""
 "green Cat creature tokens with haste or that many 3/1 green Dog creature "
 "tokens with vigilance."
 msgstr ""
+"Jeśli miałbyś stworzyć jeden lub więcej żetonów, możesz zamiast tego "
+"stworzyć tyle samo żetonów zielonego stwora Kot 2/2 z pośpiechem lub tyle "
+"samo żetonów zielonego stwora Pies 3/1 z czujnością."
 
 #: ../../SNC.rst:940
 msgid ""
@@ -3343,6 +3349,8 @@ msgid ""
 "Whenever you attack with one or more creatures with counters on them, draw a "
 "card."
 msgstr ""
+"Ilekroć zaatakujesz co najmniej jednym stworem mającym znacznik, dobierz "
+"kartę."
 
 #: ../../SNC.rst:990
 msgid ""
@@ -3353,7 +3361,7 @@ msgstr ""
 
 #: ../../SNC.rst:989
 msgid "Whenever you attack, double target creature's power until end of turn."
-msgstr ""
+msgstr "Ilekroć zaatakujesz, do końca tury podwój siłę wskazanego stwora."
 
 #: ../../SNC.rst:996
 msgid ""
@@ -3428,6 +3436,8 @@ msgid ""
 "As long as Obscura Ascendancy has five or more soul counters on it, Spirits "
 "you control get +3/+3."
 msgstr ""
+"O ile ten byt ma co najmniej pięć znaczników duszy, Duchy pod twoim "
+"władaniem dostają +3/+3."
 
 #: ../../SNC.rst:1022
 msgid ""
@@ -3579,6 +3589,8 @@ msgid ""
 "Whenever you attack a player or planeswalker with one or more creatures with "
 "power 1 or less, draw a card."
 msgstr ""
+"Ilekroć zaatakujesz gracza lub wędrowca co najmniej jednym stworem o sile 1 "
+"lub mniejszej, dobierz kartę."
 
 #: ../../SNC.rst:1068
 msgid ""
@@ -3651,11 +3663,11 @@ msgstr ""
 
 #: ../../SNC.rst:1085
 msgid "As Scheming Fence enters the battlefield, choose a nonland permanent."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz nielądowy byt."
 
 #: ../../SNC.rst:1087
 msgid "Activated abilities of the chosen permanent can't be activated."
-msgstr ""
+msgstr "Aktywowane zdolności wybranego bytu nie mogą być aktywowane."
 
 #: ../../SNC.rst:1089
 msgid ""
@@ -3744,6 +3756,8 @@ msgid ""
 "When Spara's Adjudicators enters the battlefield, target creature an "
 "opponent controls can't attack or block until your next turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"przeciwnika nie może atakować ani blokować w tej turze."
 
 #: ../../SNC.rst:1117
 msgid ""
@@ -3824,12 +3838,14 @@ msgstr ""
 #: ../../SNC.rst:1139
 msgid "Whenever you discard one or more cards, exile them from your graveyard."
 msgstr ""
+"Ilekroć odrzucisz co najmniej jedną kartę, wygnaj je z twojego cmentarza."
 
 #: ../../SNC.rst:1141
 msgid ""
 "When Toluz, Clever Conductor dies, put the cards exiled with it into their "
 "owner's hand."
 msgstr ""
+"Kiedy ten stwór umrze, umieść karty nim wygnane w rękach ich właścicieli."
 
 #: ../../SNC.rst:1146
 msgid ""
@@ -3907,6 +3923,8 @@ msgid ""
 "Equipped creature has \"|mana_1|: This creature deals 1 damage to target "
 "creature that's blocking it.\""
 msgstr ""
+"Wyposażony stwór ma \"|mana_1|: Ten stwór zadaje 1 obrażenie wskazanemu "
+"stworowi blokującemu go.\""
 
 #: ../../SNC.rst:1171 ../../SNC.rst:1179
 msgid ""
@@ -3925,13 +3943,15 @@ msgstr ""
 
 #: ../../SNC.rst:1175
 msgid "When you cast this spell, copy it. (The copy becomes a token.)"
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, skopiuj go. (Kopia staje się żetonem.)"
 
 #: ../../SNC.rst:1177
 msgid ""
 "Equipped creature has double strike as long as two or more Equipment are "
 "attached to it."
 msgstr ""
+"Wyposażony stwór ma podwójny cios o ile co najmniej dwa Wyposażenia są do "
+"niego dołączone."
 
 #: ../../SNC.rst:1188
 msgid ""
@@ -3945,6 +3965,8 @@ msgid ""
 "Equipped creature gets +3/+3 and has \"At the beginning of your end step, "
 "tap this creature.\""
 msgstr ""
+"Wyposażony stwór dostaje +3/+3 i ma \"Na początku twojego kroku końcowego, "
+"przekręć tego stwora.\""
 
 #: ../../SNC.rst:1185
 msgid "Equipped creature doesn't untap during its controller's untap step."
@@ -4006,17 +4028,19 @@ msgstr ""
 
 #: ../../SNC.rst:1207
 msgid "Equipped creature gets +1/+1 for each counter on it."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdy znacznik na nim."
 
 #: ../../SNC.rst:1209
 msgid ""
 "Equipped permanent isn't a planeswalker and is a creature in addition to its "
 "other types. (Loyalty abilities can still be activated.)"
 msgstr ""
+"Wyposażony byt nie jest wędrowcem i jest dodatkowo stworem oprócz jego "
+"innych typów. (Zdolności lojalnościowe nadal mogą być aktywowane.)"
 
 #: ../../SNC.rst:1211
 msgid "Equip planeswalker |mana_1|"
-msgstr ""
+msgstr "Wyposaż wędrowca |mana_1|"
 
 #: ../../SNC.rst:1213
 msgid "Equip |mana_3|"
@@ -4042,6 +4066,7 @@ msgid ""
 "|mana_5|, |tap|, Sacrifice Ominous Parcel: It deals 4 damage to target "
 "creature."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten byt: Zadaje on wskazanemu stworowi 4 obrażenia."
 
 #: ../../SNC.rst:1224
 msgid ""
@@ -4081,13 +4106,15 @@ msgstr ""
 
 #: ../../SNC.rst:1233
 msgid "|tap|: Exile up to two target cards from a single graveyard."
-msgstr ""
+msgstr "|tap|: Wygnaj co najwyżej dwie wskazane karty z jednego cmentarza."
 
 #: ../../SNC.rst:1235
 msgid ""
 "Unlicensed Hearse's power and toughness are each equal to the number of "
 "cards exiled with it."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart wygnanych z jej "
+"użyciem."
 
 #: ../../SNC.rst:1246
 msgid ""
