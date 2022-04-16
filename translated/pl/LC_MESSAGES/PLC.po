@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 08:59+0100\n"
-"PO-Revision-Date: 2022-04-07 18:35+0000\n"
+"PO-Revision-Date: 2022-04-16 23:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/plc/pl/>\n"
 "Language: pl\n"
@@ -353,12 +353,16 @@ msgid ""
 "Flying; fear (This creature can't be blocked except by artifact creatures "
 "and/or black creatures.)"
 msgstr ""
+"Latanie, postrach (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../PLC.rst:47
 msgid ""
 "When Dust Elemental enters the battlefield, return three creatures you "
 "control to their owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć trzy stwory pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../PLC.rst:52
 msgid ""
@@ -372,6 +376,8 @@ msgid ""
 "|mana_w|, |tap|, Discard a card: Creatures you control get +1/+0 until end "
 "of turn."
 msgstr ""
+"|mana_w|, |tap|, odrzuć kartę: Stwory pod twoim władaniem dostają do końca "
+"tury +1/+0."
 
 #: ../../PLC.rst:58
 msgid ""
@@ -382,7 +388,7 @@ msgstr ""
 
 #: ../../PLC.rst:55
 msgid "You gain 20 life."
-msgstr ""
+msgstr "Zyskaj 20 żyć."
 
 #: ../../PLC.rst:57
 msgid ""
@@ -391,6 +397,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 10—|mana_w| (Zamiast rzucać tę kartę z twojej ręki, możesz "
+"zapłacić |mana_w| i wygnać ją z dziesięcioma znacznikami czasu. Na początku "
+"twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu "
+"zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../PLC.rst:62
 msgid ""
@@ -404,6 +414,8 @@ msgid ""
 "All creatures have \"At the beginning of your upkeep, sacrifice this "
 "creature unless you pay |mana_1|.\""
 msgstr ""
+"Wszystkie stwory mają \"Na początku twojego kroku utrzymania, poświęć tego "
+"stwora, chyba że zapłacisz |mana_1|.\""
 
 #: ../../PLC.rst:70
 msgid ""
@@ -423,6 +435,8 @@ msgid ""
 "Whenever a creature enters the battlefield, enchanted creature gets +2/+2 "
 "until end of turn."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy, zauroczony stwór dostaje do końca tury +"
+"2/+2."
 
 #: ../../PLC.rst:78
 msgid ""
@@ -496,6 +510,9 @@ msgid ""
 "can be enchanted this way. (Aura cards that can't enchant a creature on the "
 "battlefield remain in your graveyard.)"
 msgstr ""
+"Przywróć każdą kartę Aury z twojego cmentarza na pole bitwy. Tylko stwory "
+"mogą zostać zauroczone w ten sposób. (Karty Aur nie mogące zauroczyć stwora "
+"na polu bitwy pozostają w twoim cmentarzu.)"
 
 #: ../../PLC.rst:98
 msgid ""
@@ -560,6 +577,8 @@ msgid ""
 "Enchanted creature gets +1/+2 as long as it's white. Otherwise, it gets "
 "-2/-1."
 msgstr ""
+"Zauroczony stwór dostaje +1/+2 o ile jest biały. W przeciwnym razie dostaje "
+"-2/-1."
 
 #: ../../PLC.rst:118
 msgid ""
@@ -641,7 +660,7 @@ msgstr ""
 #: ../../PLC.rst:141
 msgid ""
 "As Voidstone Gargoyle enters the battlefield, choose a nonland card name."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, nazwij nielądową kartę."
 
 #: ../../PLC.rst:143
 msgid "Spells with the chosen name can't be cast."
@@ -683,7 +702,7 @@ msgid ""
 "it. At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
-"Zanikanie 4 (Ten stwór wchodzi na pole walki z czterema znacznikami czasu. "
+"Zanikanie 4 (Ten stwór wchodzi na pole bitwy z czterema znacznikami czasu. "
 "Na początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
 "ostatni zostanie usunięty, poświęć go.)"
 
@@ -696,7 +715,7 @@ msgstr ""
 
 #: ../../PLC.rst:163
 msgid "|mana_w|\\ |mana_w|\\ |mana_w|: Regenerate Malach of the Dawn."
-msgstr ""
+msgstr "|mana_w|\\ |mana_w|\\ |mana_w|: Zregeneruj ten byt."
 
 #: ../../PLC.rst:168
 msgid ""
@@ -776,7 +795,7 @@ msgstr ""
 
 #: ../../PLC.rst:189
 msgid "|mana_w|: Regenerate Revered Dead."
-msgstr ""
+msgstr "|mana_w|: Zregeneruj ten byt."
 
 #: ../../PLC.rst:194
 msgid ""
@@ -838,6 +857,8 @@ msgid ""
 "As Aquamorph Entity enters the battlefield or is turned face up, it becomes "
 "your choice of 5/1 or 1/5."
 msgstr ""
+"Umieszczając ten byt na polu bitwy lub odkrywając go, staje się on dowolnym "
+"spośród 5/1 lub 1/5."
 
 #: ../../PLC.rst:211 ../../PLC.rst:275
 msgid ""
@@ -858,6 +879,8 @@ msgstr ""
 msgid ""
 "Enchanted creature gets +2/+2 for each Aura attached to it and has vigilance."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 za każdą Aurę do niego dołączoną i ma "
+"czujność."
 
 #: ../../PLC.rst:222
 msgid ""
@@ -901,6 +924,8 @@ msgid ""
 "When Chronozoa dies, if it had no time counters on it, create two tokens "
 "that are copies of it."
 msgstr ""
+"Kiedy ten stwór umrze, jeśli nie miał znaczników czasu, stwórz dwa żetony "
+"będące jego kopią."
 
 #: ../../PLC.rst:240
 msgid ""
@@ -915,6 +940,9 @@ msgid ""
 "player's library for a card with the same name as that permanent. Put those "
 "cards onto the battlefield under your control, then that player shuffles."
 msgstr ""
+"Za każdy przekręcony nielądowy byt pod władaniem wskazanego przeciwnika, "
+"wyszukaj w bibliotece owego gracza kartę o tej samej nazwie, co ów byt. "
+"Umieść owe karty na polu bitwy pod twoim władaniem, po czym ów gracz tasuje."
 
 #: ../../PLC.rst:239
 msgid ""
@@ -938,7 +966,7 @@ msgstr ""
 
 #: ../../PLC.rst:243
 msgid "Counter target spell. Its controller discards a card."
-msgstr ""
+msgstr "Skontruj wskazany czar. Jego władca odrzuca kartę."
 
 #: ../../PLC.rst:248
 msgid ""
@@ -1075,6 +1103,10 @@ msgid ""
 "player may cast that card without paying its mana cost. Then the player "
 "shuffles."
 msgstr ""
+"Skontruj wskazany czar sztuczki lub obrzędu. Jego władca ujawnia karty z "
+"wierzchu swojej biblioteki, aż ujawni kartę sztuczki lub obrzędu. Ów gracz "
+"może rzucić ową kartę bez płacenia jej kosztu many. Następnie ów gracz "
+"tasuje."
 
 #: ../../PLC.rst:286
 msgid ""
@@ -1085,7 +1117,7 @@ msgstr ""
 
 #: ../../PLC.rst:285
 msgid "All Sliver creatures have vigilance."
-msgstr ""
+msgstr "Wszystkie Drzazgacze mają czujność."
 
 #: ../../PLC.rst:294
 msgid ""
@@ -1099,18 +1131,23 @@ msgid ""
 "Tidewalker enters the battlefield with a time counter on it for each Island "
 "you control."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając znacznik czasu za każdą Wyspę pod twoim "
+"władaniem."
 
 #: ../../PLC.rst:291
 msgid ""
 "Vanishing (At the beginning of your upkeep, remove a time counter from this "
 "creature. When the last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie (Na początku twojego kroku utrzymania, usuń znacznik czasu z tego "
+"stwora. Kiedy ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../PLC.rst:293
 msgid ""
 "Tidewalker's power and toughness are each equal to the number of time "
 "counters on it."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie znaczników czasu na niej."
 
 #: ../../PLC.rst:304
 msgid ""
@@ -1179,6 +1216,8 @@ msgid ""
 "Target player reveals their hand. You choose a nonland card with mana value "
 "X or less from it. That player discards that card."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierz z niej nielądową kartę o skrócie "
+"many X lub mniejszym. Ów gracz odrzuca ową kartę."
 
 #: ../../PLC.rst:318
 msgid ""
@@ -1189,7 +1228,7 @@ msgstr ""
 
 #: ../../PLC.rst:317
 msgid "Target player draws two cards, then discards four cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty, po czym odrzuca cztery karty."
 
 #: ../../PLC.rst:322
 msgid ""
@@ -1228,7 +1267,7 @@ msgstr ""
 
 #: ../../PLC.rst:331
 msgid "|tap|: Switch target creature's power and toughness until end of turn."
-msgstr ""
+msgstr "|tap|: Zamień do końca tury siłę z wytrzymałością wskazanego stwora."
 
 #: ../../PLC.rst:336
 msgid ""
@@ -1317,6 +1356,8 @@ msgid ""
 "|tap|: Target creature other than Serendib Sorcerer has base power and "
 "toughness 0/2 until end of turn."
 msgstr ""
+"|tap|: Wskazany stwór inny niż niniejszy ma do końca tury bazową siłę i "
+"wytrzymałość 0/2."
 
 #: ../../PLC.rst:364
 msgid ""
@@ -1383,6 +1424,8 @@ msgid ""
 "When you cast this spell, any player may sacrifice a creature. If a player "
 "does, counter Brain Gorgers."
 msgstr ""
+"Kiedy rzucisz ten czar, którykolwiek gracz może poświęcić stwora. Jeśli "
+"któryś tak zrobi, skontruj ten czar."
 
 #: ../../PLC.rst:381
 msgid ""
@@ -1403,13 +1446,16 @@ msgstr ""
 
 #: ../../PLC.rst:385
 msgid "As Circle of Affliction enters the battlefield, choose a color."
-msgstr ""
+msgstr "Umieszczając ten byt na polu bitwy, wybierz kolor."
 
 #: ../../PLC.rst:387
 msgid ""
 "Whenever a source of the chosen color deals damage to you, you may pay |"
 "mana_1|. If you do, target player loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć źródło wybranego koloru zada tobie obrażenia, możesz zapłacić "
+"|mana_1|. Jeśli tak zrobisz, wskazany gracz traci 1 życie, a ty zyskaj 1 "
+"życie."
 
 #: ../../PLC.rst:392
 msgid ""
@@ -1422,6 +1468,8 @@ msgstr ""
 msgid ""
 "Destroy target nonblack creature that entered the battlefield this turn."
 msgstr ""
+"Zniszcz wskazanego nieczarnego stwora, który wszedł na pole bitwy w tej "
+"turze."
 
 #: ../../PLC.rst:398
 msgid ""
@@ -1435,6 +1483,8 @@ msgid ""
 "When you cast this spell, any player may pay 5 life. If a player does, "
 "counter Dash Hopes."
 msgstr ""
+"Kiedy rzucisz ten czar, którykolwiek gracz może zapłacić 5 żyć. Jeśli któryś "
+"tak zrobi, skontruj ten czar."
 
 #: ../../PLC.rst:397
 msgid "Counter target spell."
@@ -1513,6 +1563,8 @@ msgid ""
 "Change the target of target spell with a single target. You lose life equal "
 "to that spell's mana value."
 msgstr ""
+"Zmień wskazanie wskazanego czaru mającego jeden cel. Strać życia równe "
+"skrótowi many owego czaru."
 
 #: ../../PLC.rst:426
 msgid ""
@@ -1534,7 +1586,7 @@ msgstr ""
 
 #: ../../PLC.rst:431
 msgid "Midnight Charm deals 1 damage to target creature and you gain 1 life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 1 obrażenie, a ty zyskaj 1 życie."
 
 #: ../../PLC.rst:433
 msgid "Target creature gains first strike until end of turn."
@@ -1600,11 +1652,14 @@ msgid ""
 "When you cast this spell, any player may discard three cards. If a player "
 "does, counter Phantasmagorian."
 msgstr ""
+"Kiedy rzucisz ten czar, którykolwiek gracz może odrzucić trzy karty. Jeśli "
+"któryś tak zrobi, skontruj ten czar."
 
 #: ../../PLC.rst:455
 msgid ""
 "Discard three cards: Return Phantasmagorian from your graveyard to your hand."
 msgstr ""
+"Odrzuć trzy karty: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../PLC.rst:460
 msgid ""
@@ -1633,6 +1688,8 @@ msgid ""
 "Roiling Horror's power and toughness are each equal to your life total minus "
 "the life total of an opponent with the most life."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie twoich żyć minus liczba "
+"żyć przeciwnika o najwyższej liczbie żyć."
 
 #: ../../PLC.rst:465
 msgid ""
@@ -1642,12 +1699,19 @@ msgid ""
 "of your upkeep, remove a time counter. When the last is removed, cast it "
 "without paying its mana cost. It has haste.)"
 msgstr ""
+"Zawieszenie X—|mana_x|\\ |mana_b|\\ |mana_b|\\ |mana_b|. X nie może być 0. ("
+"Zamiast rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_b|\\ "
+"|mana_b|\\ |mana_b| i wygnać ją z X znaczników czasu. Na początku twojego "
+"kroku utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:467
 msgid ""
 "Whenever a time counter is removed from Roiling Horror while it's exiled, "
 "target player loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć znacznik czasu zostanie usunięty z tej karty podczas jej wygnania, "
+"wskazany gracz traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../PLC.rst:472
 msgid ""
@@ -1672,6 +1736,8 @@ msgid ""
 "When you cast this spell, any player may pay half their life, rounded up. If "
 "a player does, counter Temporal Extortion."
 msgstr ""
+"Kiedy rzucisz ten czar, którykolwiek gracz może zapłacić połowę swoich żyć, "
+"zaokrąglając w górę. Jeśli któryś tak zrobi, skontruj ten czar."
 
 #: ../../PLC.rst:477
 msgid "Take an extra turn after this one."
@@ -1690,6 +1756,9 @@ msgid ""
 "the battlefield under your control. That creature gains haste. Sacrifice it "
 "at the beginning of the next end step."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Możesz spośród nich umieścić kartę "
+"stwora na polu bitwy pod twoim władaniem. Ów stwór zyskuje pośpiech. Poświęć "
+"go na początku najbliższego kroku końcowego."
 
 #: ../../PLC.rst:486
 msgid ""
@@ -1704,7 +1773,7 @@ msgid ""
 "it. At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
-"Zanikanie 2 (Ten stwór wchodzi na pole walki z dwoma znacznikami czasu. Na "
+"Zanikanie 2 (Ten stwór wchodzi na pole bitwy z dwoma znacznikami czasu. Na "
 "początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
 "ostatni zostanie usunięty, poświęć go.)"
 
@@ -1717,11 +1786,11 @@ msgstr ""
 
 #: ../../PLC.rst:489
 msgid "Bog Serpent can't attack unless defending player controls a Swamp."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Bagnem."
 
 #: ../../PLC.rst:491
 msgid "When you control no Swamps, sacrifice Bog Serpent."
-msgstr ""
+msgstr "Kiedy nie władasz Bagnem, poświęć tego stwora."
 
 #: ../../PLC.rst:496
 msgid ""
@@ -1778,7 +1847,7 @@ msgstr ""
 
 #: ../../PLC.rst:511
 msgid "When Melancholy enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../PLC.rst:513
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -1789,6 +1858,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Melancholy unless you pay |"
 "mana_b|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz "
+"|mana_b|."
 
 #: ../../PLC.rst:524
 msgid ""
@@ -1833,6 +1904,10 @@ msgid ""
 "you do, repeat this process except that opponent can't choose a card already "
 "chosen for Shrouded Lore. Then put the last chosen card into your hand."
 msgstr ""
+"Wskazany przeciwnik wybiera kartę z twojego cmentarza. Możesz zapłacić "
+"|mana_b|. Jeśli tak zrobisz, powtórz ten proces, ale ów przeciwnik nie może "
+"wybrać już wybranej tym czarem karty. Następnie umieść ostatnio wybraną "
+"kartę w twojej ręce."
 
 #: ../../PLC.rst:538
 msgid ""
@@ -1854,13 +1929,15 @@ msgstr ""
 
 #: ../../PLC.rst:541
 msgid "Defender; reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Obronność, zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../PLC.rst:543
 msgid ""
 "Whenever Aether Membrane blocks a creature, return that creature to its "
 "owner's hand at end of combat."
 msgstr ""
+"Ilekroć ten stwór zablokuje stwora, przywróć owego stwora do ręki "
+"właściciela na końcu potyczki."
 
 #: ../../PLC.rst:554
 msgid ""
@@ -1914,6 +1991,8 @@ msgid ""
 "Detritivore's power and toughness are each equal to the number of nonbasic "
 "land cards in your opponents' graveyards."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart niebazowych lądów w "
+"cmentarzach twoich przeciwników."
 
 #: ../../PLC.rst:563
 msgid ""
@@ -1923,12 +2002,19 @@ msgid ""
 "a time counter. When the last is removed, cast it without paying its mana "
 "cost. It has haste.)"
 msgstr ""
+"Zawieszenie X—|mana_x|\\ |mana_3|\\ |mana_r|. X nie może być 0. (Zamiast "
+"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_3|\\ |mana_r|"
+" i wygnać ją z X znacznikami czasu. Na początku twojego kroku utrzymania, "
+"usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją "
+"bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:565
 msgid ""
 "Whenever a time counter is removed from Detritivore while it's exiled, "
 "destroy target nonbasic land."
 msgstr ""
+"Ilekroć znacznik czasu zostanie usunięty z tej karty podczas jej wygnania, "
+"zniszcz wskazany niebazowy ląd."
 
 #: ../../PLC.rst:572
 msgid ""
@@ -1941,6 +2027,8 @@ msgstr ""
 msgid ""
 "Enchanted creature gets +2/+0 and can't be blocked by creatures with flying."
 msgstr ""
+"Zauroczony stwór dostaje +2/+0 i nie może być blokowany przez stwory z "
+"lataniem."
 
 #: ../../PLC.rst:576
 msgid ""
@@ -1954,6 +2042,9 @@ msgid ""
 "Until end of turn, target creature you control gains trample and gets +X/+0, "
 "where X is its power. Sacrifice it at the beginning of the next end step."
 msgstr ""
+"Do końca tury wskazany stwór pod twoim władaniem zyskuje tratowanie i "
+"dostaje +X/+0, gdzie X jest jego siłą. Poświęć go na początku najbliższego "
+"kroku końcowego."
 
 #: ../../PLC.rst:580
 msgid ""
@@ -1967,6 +2058,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|, Discard a card: Target creature can't be blocked "
 "this turn except by artifact creatures and/or red creatures."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, odrzuć kartę: Wskazany stwór nie może być w tej "
+"turze blokowany, chyba że przez stwory artefaktowe lub czerwone."
 
 #: ../../PLC.rst:590
 msgid ""
@@ -2035,12 +2128,17 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter from it. When the "
 "last is removed, sacrifice it.)"
 msgstr ""
+"Zanikanie 1 (Ten stwór wchodzi na pole bitwy mając znacznik czasu. Na "
+"początku twojego kroku utrzymania, usuń z niego znacznik czasu. Kiedy "
+"ostatni zostanie usunięty, poświęć go.)"
 
 #: ../../PLC.rst:607
 msgid ""
 "Whenever a creature you control deals combat damage to a player, put a time "
 "counter on Lavacore Elemental."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, umieść "
+"znacznik czasu na niniejszym."
 
 #: ../../PLC.rst:612
 msgid ""
@@ -2055,6 +2153,9 @@ msgid ""
 "opponent's choice they control. Those creatures fight each other. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
+"|mana_3|, |tap|: Przekręć wskazanego stwora pod twoim władaniem i wskazanego "
+"stwora wybranego przez przeciwnika pod jego władaniem. Owe stwory walczą ze "
+"sobą. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../PLC.rst:616
 msgid ""
@@ -2136,13 +2237,15 @@ msgstr ""
 
 #: ../../PLC.rst:641
 msgid "Remove X time counters from target permanent or suspended card."
-msgstr ""
+msgstr "Usuń X znaczników ze wskazanego bytu lub zawieszonej karty."
 
 #: ../../PLC.rst:643
 msgid ""
 "Put X time counters on target permanent with a time counter on it or "
 "suspended card."
 msgstr ""
+"Umieść X znaczników czasu na wskazanym bycie mającym znacznik czasu lub "
+"zawieszonej karcie."
 
 #: ../../PLC.rst:656
 msgid ""
@@ -2153,24 +2256,24 @@ msgstr ""
 
 #: ../../PLC.rst:647
 msgid "|mana_r|: Untap Torchling."
-msgstr ""
+msgstr "|mana_r|: Odkręć ten byt."
 
 #: ../../PLC.rst:649
 msgid "|mana_r|: Target creature blocks Torchling this turn if able."
-msgstr ""
+msgstr "|mana_r|: Wskazany stwór blokuje niniejszego w tej turze jeśli może."
 
 #: ../../PLC.rst:651
 msgid ""
 "|mana_r|: Change the target of target spell that targets only Torchling."
-msgstr ""
+msgstr "|mana_r|: Zmień wskazanie wskazanego czaru wskazującego tylko ten byt."
 
 #: ../../PLC.rst:653
 msgid "|mana_1|: Torchling gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
 
 #: ../../PLC.rst:655
 msgid "|mana_1|: Torchling gets -1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|: Ten stwór dostaje do końca tury -1/+1."
 
 #: ../../PLC.rst:662
 msgid ""
@@ -2185,12 +2288,18 @@ msgid ""
 "beginning of your upkeep, if this came under your control since the "
 "beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
 msgstr ""
+"Ten byt ma echo |mana_x|, gdzie X jest liczbą twoich żyć. (Na początku "
+"twojego kroku utrzymania, jeśli ten byt wszedł pod twoje władanie po "
+"początku twojego poprzedniego kroku utrzymania, poświęć go, chyba że "
+"zapłacisz koszt echo.)"
 
 #: ../../PLC.rst:661
 msgid ""
 "When Volcano Hellion enters the battlefield, it deals an amount of damage of "
 "your choice to you and target creature. The damage can't be prevented."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu stworowi oraz "
+"tobie dowolną liczbę obrażeń. Owe obrażenia nie mogą być zażegnane."
 
 #: ../../PLC.rst:666
 msgid ""
@@ -2268,7 +2377,7 @@ msgstr ""
 
 #: ../../PLC.rst:689
 msgid "First strike, protection from white"
-msgstr ""
+msgstr "Pierwszy cios, ochrona przed białym"
 
 #: ../../PLC.rst:694
 msgid ""
@@ -2294,10 +2403,13 @@ msgid ""
 "control at the beginning of the next end step and you skip your next draw "
 "step."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go na pole bitwy pod władaniem właściciela "
+"na początku najbliższego kroku końcowego i pomiń twój najbliższy krok "
+"dobierania."
 
 #: ../../PLC.rst:701
 msgid "|mana_4|\\ |mana_r|: Exile Molten Firebird."
-msgstr ""
+msgstr "|mana_4|\\ |mana_r|: Wygnaj ten byt."
 
 #: ../../PLC.rst:706
 msgid ""
@@ -2322,10 +2434,13 @@ msgid ""
 "At the beginning of the end step, if no creatures are on the battlefield, "
 "sacrifice Pyrohemia."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli na polu bitwy nie ma stworów, "
+"poświęć ten byt."
 
 #: ../../PLC.rst:711
 msgid "|mana_r|: Pyrohemia deals 1 damage to each creature and each player."
 msgstr ""
+"|mana_r|: Ten byt zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
 #: ../../PLC.rst:718
 msgid ""
@@ -2360,6 +2475,8 @@ msgid ""
 "When Shivan Wumpus enters the battlefield, any player may sacrifice a land. "
 "If a player does, put Shivan Wumpus on top of its owner's library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, którykolwiek gracz może poświęcić ląd. "
+"Jeśli któryś tak zrobi, umieść ten byt na wierzchu biblioteki właściciela."
 
 #: ../../PLC.rst:728
 msgid ""
@@ -2400,12 +2517,17 @@ msgid ""
 "additional |mana_2|\\ |mana_u| and/or |mana_1|\\ |mana_b| as you cast this "
 "spell.)"
 msgstr ""
+"Podbicie |mana_2|\\ |mana_u| i/lub |mana_1|\\ |mana_b| (Możesz zapłacić "
+"dodatkowe |mana_2|\\ |mana_u| i/lub |mana_1|\\ |mana_b| podczas rzucania "
+"tego czaru.)"
 
 #: ../../PLC.rst:737
 msgid ""
 "When Ana Battlemage enters the battlefield, if it was kicked with its |"
 "mana_2|\\ |mana_u| kicker, target player discards three cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity z użyciem |mana_2|"
+"\\ |mana_u|, wskazany gracz odrzuca trzy karty."
 
 #: ../../PLC.rst:739
 msgid ""
@@ -2413,6 +2535,9 @@ msgid ""
 "mana_1|\\ |mana_b| kicker, tap target untapped creature and that creature "
 "deals damage equal to its power to its controller."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity z użyciem |mana_1|"
+"\\ |mana_b|, przekręć wskazanego odkręconego stwora i ów stwór zadaje "
+"obrażenia równe swojej sile swojemu władcy."
 
 #: ../../PLC.rst:746
 msgid ""
@@ -2487,6 +2612,8 @@ msgid ""
 "Fungal Behemoth's power and toughness are each equal to the number of +1/+1 "
 "counters on creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie znaczników +1/+1 na "
+"stworach pod twoim władaniem."
 
 #: ../../PLC.rst:767
 msgid ""
@@ -2496,12 +2623,19 @@ msgid ""
 "a time counter. When the last is removed, cast it without paying its mana "
 "cost. It has haste.)"
 msgstr ""
+"Zawieszenie X—|mana_x|\\ |mana_g|\\ |mana_g|. X nie może być 0. (Zamiast "
+"rzucać tę kartę z twojej ręki, możesz zapłacić |mana_x|\\ |mana_g|\\ |mana_g|"
+" i wygnać ją z X znacznikami czasu. Na początku twojego kroku utrzymania, "
+"usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie usunięty, rzuć ją "
+"bez płacenia kosztu many. Ma pośpiech.)"
 
 #: ../../PLC.rst:769
 msgid ""
 "Whenever a time counter is removed from Fungal Behemoth while it's exiled, "
 "you may put a +1/+1 counter on target creature."
 msgstr ""
+"Ilekroć znacznik czasu zostanie usunięty z tej karty pod czas jej wygnania, "
+"możesz umieścić znacznik +1/+1 na wskazanym stworze."
 
 #: ../../PLC.rst:776
 msgid ""
@@ -2535,6 +2669,8 @@ msgid ""
 "Kicker |mana_3|\\ |mana_g| (You may pay an additional |mana_3|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3|\\ |mana_g| (Możesz zapłacić dodatkowe |mana_3|\\ |mana_g| "
+"podczas rzucania tego czaru.)"
 
 #: ../../PLC.rst:781
 msgid ""
@@ -2549,6 +2685,9 @@ msgid ""
 "If this spell was kicked, untap all Forests put onto the battlefield this "
 "way. They become 3/3 green creatures with haste that are still lands."
 msgstr ""
+"Jeśli ten czar został podbity, odkręć wszystkie Lasy umieszczone na polu "
+"bitwy w ten sposób. Stają się one zielonymi stworami 3/3 z pośpiechem i "
+"nadal są lądami."
 
 #: ../../PLC.rst:790
 msgid ""
@@ -2570,6 +2709,8 @@ msgid ""
 "Whenever Jedit Ojanen of Efrava attacks or blocks, create a 2/2 green Cat "
 "Warrior creature token with forestwalk."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, stwórz żeton zielonego stwora Kot "
+"Wojownik 2/2 z podbojem lasów."
 
 #: ../../PLC.rst:796
 msgid ""
@@ -2618,6 +2759,7 @@ msgstr "|tap|: Weź |colorless|."
 msgid ""
 "|tap|: Draw a card. Activate only if you have exactly seven cards in hand."
 msgstr ""
+"|tap|: Dobierz kartę. Aktywuj tylko jeśli masz dokładnie siedem kart w ręce."
 
 #: ../../PLC.rst:812
 msgid ""
@@ -2655,6 +2797,8 @@ msgid ""
 "If Pouncing Wurm was kicked, it enters the battlefield with three +1/+1 "
 "counters on it and with haste."
 msgstr ""
+"Jeśli ten byt został podbity, wchodzi na pole bitwy mając trzy znaczniki +1/+"
+"1 i ma pośpiech."
 
 #: ../../PLC.rst:826
 msgid ""
@@ -2667,16 +2811,19 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Psychotrope Thallid."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym bycie."
 
 #: ../../PLC.rst:823
 msgid ""
 "Remove three spore counters from Psychotrope Thallid: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego bytu: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../PLC.rst:825
 msgid "|mana_1|, Sacrifice a Saproling: Draw a card."
-msgstr ""
+msgstr "|mana_1|, poświęć Sadzonkę: Dobierz kartę."
 
 #: ../../PLC.rst:830
 msgid ""
@@ -2701,6 +2848,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|, Discard a card: You gain 2 life for "
 "each card in your hand."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|, |tap|, odrzuć kartę: Zyskaj po 2 życia za "
+"każdą kartę w twojej ręce."
 
 #: ../../PLC.rst:842
 msgid ""
@@ -2719,10 +2868,13 @@ msgid ""
 "under your control since the beginning of your last upkeep, sacrifice it "
 "unless you pay its echo cost.)"
 msgstr ""
+"Echo |mana_5|\\ |mana_g| (Na początku twojego kroku utrzymania, jeśli ten "
+"byt wszedł pod twoje władanie po początku twojego poprzedniego kroku "
+"utrzymania, poświęć go, chyba że zapłacisz koszt echo.)"
 
 #: ../../PLC.rst:841
 msgid "When Timbermare enters the battlefield, tap all other creatures."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, przekręć wszystkie inne stwory."
 
 #: ../../PLC.rst:848
 msgid ""
@@ -2771,16 +2923,19 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, put a spore counter on Vitaspore Thallid."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik zarodnika na tym bycie."
 
 #: ../../PLC.rst:861
 msgid ""
 "Remove three spore counters from Vitaspore Thallid: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"Usuń trzy znaczniki zarodnika z tego bytu: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../PLC.rst:863
 msgid "Sacrifice a Saproling: Target creature gains haste until end of turn."
-msgstr ""
+msgstr "Poświęć Sadzonkę: Wskazany stwór zyskuje do końca tury pośpiech."
 
 #: ../../PLC.rst:868
 msgid ""
@@ -2846,7 +3001,7 @@ msgstr "Tratowanie, pośpiech"
 
 #: ../../PLC.rst:885
 msgid "At the beginning of the end step, sacrifice Groundbreaker."
-msgstr ""
+msgstr "Na początku kroku końcowego, poświęć ten byt."
 
 #: ../../PLC.rst:890
 msgid ""
@@ -2885,11 +3040,11 @@ msgstr ""
 
 #: ../../PLC.rst:901
 msgid "Hedge Troll gets +1/+1 as long as you control a Plains."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 o ile władasz Równiną."
 
 #: ../../PLC.rst:903
 msgid "|mana_w|: Regenerate Hedge Troll."
-msgstr ""
+msgstr "|mana_w|: Zregeneruj ten byt."
 
 #: ../../PLC.rst:910
 msgid ""
@@ -2983,6 +3138,10 @@ msgid ""
 "battlefield under its owner's control at the beginning of the next end step. "
 "If you lose the flip, sacrifice it.\""
 msgstr ""
+"Wszystkie Drzazgacze mają \"|mana_0|: Jeśli ten byt jest na polu bitwy, rzuć "
+"monetą. Jeśli wygrasz rzut, wygnaj ten byt i przywróć go na pole bitwy pod "
+"władaniem właściciela na początku najbliższego kroku końcowego. Jeśli "
+"przegrasz rzut, poświęć go.\""
 
 #: ../../PLC.rst:940
 msgid ""
@@ -2999,6 +3158,11 @@ msgid ""
 "that card without paying its mana cost for as long as Intet remains on the "
 "battlefield."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|\\ "
+"|mana_u|. Jeśli tak zrobisz, wygnaj wierzchnią kartę twojej biblioteki "
+"zakrytą. Możesz patrzeć na ową kartą przez czas jej wygnania. Możesz zagrać "
+"ową kartę bez płacenia jej kosztu many przez czas przebywania niniejszego na "
+"polu bitwy."
 
 #: ../../PLC.rst:944
 msgid ""
@@ -3027,6 +3191,8 @@ msgid ""
 "Whenever Numot, the Devastator deals combat damage to a player, you may pay |"
 "mana_2|\\ |mana_r|. If you do, destroy up to two target lands."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|\\ "
+"|mana_r|. Jeśli tak zrobisz, zniszcz co najwyżej dwa wskazane lądy."
 
 #: ../../PLC.rst:956
 msgid ""
@@ -3040,6 +3206,9 @@ msgid ""
 "Whenever Oros, the Avenger deals combat damage to a player, you may pay |"
 "mana_2|\\ |mana_w|. If you do, Oros deals 3 damage to each nonwhite creature."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|\\ "
+"|mana_w|. Jeśli tak zrobisz, zadaje on każdemu niebiałemu stworowi po 3 "
+"obrażenia."
 
 #: ../../PLC.rst:962
 msgid ""
@@ -3069,6 +3238,9 @@ msgid ""
 "mana_2|\\ |mana_b|. If you do, put target creature card from a graveyard "
 "onto the battlefield under your control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|\\ "
+"|mana_b|. Jeśli tak zrobisz, umieść wskazaną kartę stwora z cmentarza na "
+"polu bitwy pod twoim władaniem."
 
 #: ../../PLC.rst:974
 msgid ""
@@ -3082,6 +3254,8 @@ msgid ""
 "Whenever Vorosh, the Hunter deals combat damage to a player, you may pay |"
 "mana_2|\\ |mana_g|. If you do, put six +1/+1 counters on Vorosh."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|\\ "
+"|mana_g|. Jeśli tak zrobisz, umieść na nim sześć znaczników +1/+1."
 
 #: ../../PLC.rst:977
 msgid ""
