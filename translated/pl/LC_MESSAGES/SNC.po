@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-04-16 18:32+0000\n"
+"PO-Revision-Date: 2022-04-16 19:41+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -357,6 +357,8 @@ msgid ""
 "Equipped creature gets +1/+1 and has \"|mana_w|, |tap|, Sacrifice Citizen's "
 "Crowbar: Destroy target artifact or enchantment.\""
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 i ma \"|mana_w|, |tap|, poświęć Citizen's "
+"Crowbar: Zniszcz wskazany artefakt lub urok.\""
 
 #: ../../SNC.rst:41 ../../SNC.rst:1187
 msgid ""
@@ -502,6 +504,8 @@ msgid ""
 "Ransom's controller sacrifices it and draws a card. Activate only as a "
 "sorcery.\""
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować i ma \"|mana_7|: Władca Hold "
+"for Ransom poświęca go i dobiera kartę. Aktywuj tylko jako obrzęd.\""
 
 #: ../../SNC.rst:86
 msgid ""
@@ -723,6 +727,9 @@ msgid ""
 "a counter from a creature or planeswalker you control. If you do, draw a "
 "card and create a 1/1 green and white Citizen creature token."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, możesz usunąć "
+"znacznik ze stwora lub wędrowca pod twoim władaniem. Jeśli tak zrobisz, "
+"dobierz kartę i stwórz żeton zielono-białego stwora Mieszczanin 1/1."
 
 #: ../../SNC.rst:152
 msgid ""
@@ -1116,6 +1123,10 @@ msgid ""
 "Reservoir Kraken and create a 1/1 blue Fish creature token with \"This "
 "creature can't be blocked.\""
 msgstr ""
+"Na początku każdej potyczki, jeśli niniejszy jest odkręcony, każdy "
+"przeciwnik może przekręcić odkręconego stwora pod swoim władaniem. Jeśli tak "
+"zrobi, przekręć niniejszego i stwórz żeton niebieskiego stwora Ryba 1/1 "
+"mający \"Ten stwór nie może być blokowany.\""
 
 #: ../../SNC.rst:286
 msgid ""
@@ -1416,6 +1427,9 @@ msgid ""
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
+"Nalot |mana_3|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt nalotu, "
+"zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, dobierz kartę.\" Poświęć "
+"go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:382
 msgid ""
@@ -1549,6 +1563,9 @@ msgid ""
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
+"Nalot |mana_2|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt nalotu, "
+"zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, dobierz kartę.\" Poświęć "
+"go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:424
 msgid ""
@@ -1700,11 +1717,15 @@ msgid ""
 "for its blitz cost, it gains haste and \"When this creature dies, draw a "
 "card.\" Sacrifice it at the beginning of the next end step.)"
 msgstr ""
+"Nalot—|mana_2|\\ |mana_b|\\ |mana_b|, zapłać 2 życia. (Jeśli rzucisz ten "
+"czar za jego koszt nalotu, zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, "
+"dobierz kartę.\" Poświęć go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:461
 msgid ""
 "You may cast Tenacious Underdog from your graveyard using its blitz ability."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza używając jej zdolności nalotu."
 
 #: ../../SNC.rst:470
 msgid ""
@@ -1901,6 +1922,9 @@ msgid ""
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
+"Nalot |mana_1|\\ |mana_r| (Jeśli rzucisz ten czar za jego koszt nalotu, "
+"zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, dobierz kartę.\" Poświęć "
+"go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:526
 msgid ""
@@ -1947,6 +1971,9 @@ msgid ""
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
+"Nalot |mana_2|\\ |mana_r| (Jeśli rzucisz ten czar za jego koszt nalotu, "
+"zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, dobierz kartę.\" Poświęć "
+"go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:548
 msgid ""
@@ -1996,6 +2023,9 @@ msgid ""
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
+"Nalot |mana_3|\\ |mana_r| (Jeśli rzucisz ten czar za jego koszt nalotu, "
+"zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, dobierz kartę.\" Poświęć "
+"go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:558
 msgid ""
@@ -2257,6 +2287,9 @@ msgid ""
 "gains haste and \"When this creature dies, draw a card.\" Sacrifice it at "
 "the beginning of the next end step.)"
 msgstr ""
+"Nalot |mana_3|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt nalotu, "
+"zyskuje on pośpiech oraz \"Kiedy ten stwór umrze, dobierz kartę.\" Poświęć "
+"go na początku najbliższego kroku końcowego.)"
 
 #: ../../SNC.rst:646
 msgid ""
@@ -2342,6 +2375,10 @@ msgid ""
 "many colors plus one. Exile that card, then shuffle. You may cast the exiled "
 "card. Activate only as a sorcery."
 msgstr ""
+"|mana_1|, |tap|, poświęć stwora: Policz kolory poświęconego stwora, po czym "
+"wyszukaj w twojej bibliotece kartę stwora mającego tyle samo kolorów plus "
+"jeden. Wygnaj ową kartę, po czym przetasuj. Możesz rzucić ową wygnaną kartę. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../SNC.rst:668
 msgid ""
@@ -2802,6 +2839,9 @@ msgid ""
 "don't control and tap it. If you control a creature with a counter on it, "
 "the chosen creature doesn't untap during its controller's next untap step."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wybierz wskazanego stwora poza twoim "
+"władaniem i przekręć go. Jeśli władasz stworem mającym znacznik, ów wybrany "
+"stwór nie odkręci się w najbliższym kroku odkręcania swojego władcy."
 
 #: ../../SNC.rst:824
 msgid ""
@@ -2840,6 +2880,9 @@ msgid ""
 "control. If you do, Civil Servant gets +1/+0 and gains lifelink until end of "
 "turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz przekręcić innego odkręconego "
+"Mieszczanina pod twoim władaniem. Jeśli tak zrobisz, niniejszy dostaje do "
+"końca tury +1/+0 i więź życia."
 
 #: ../../SNC.rst:836
 msgid ""
@@ -2878,6 +2921,10 @@ msgid ""
 "at the top three cards of your library, then put one of those cards into "
 "your hand and the rest into your graveyard."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj co najwyżej jedną wskazaną kartę "
+"stwora z cmentarza. Jeśli karta trafi na wygnanie w ten sposób, spójrz na "
+"trzy wierzchnie karty twojej biblioteki, po czym umieść jedną z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../SNC.rst:846
 msgid ""
@@ -3004,6 +3051,10 @@ msgid ""
 "blocked.\" Then for each kind of counter among creatures you control, put a "
 "counter of that kind on either of those tokens."
 msgstr ""
+"Stwórz dwa żetony niebieskiego stwora Ryba 1/1 mający \"Ten stwór nie może "
+"być blokowany. Następnie dla każdego rodzaju znacznika pośród stworów pod "
+"twoim władaniem, umieść znacznik owego rodzaju na którymkolwiek z owych "
+"żetonów."
 
 #: ../../SNC.rst:890
 msgid ""
@@ -3120,6 +3171,9 @@ msgid ""
 "turn. Up to one other target creature has base power and toughness 4/4 until "
 "end of turn. Then Hostile Takeover deals 3 damage to each creature."
 msgstr ""
+"Co najwyżej jeden wskazany stwór do końca tury ma bazową siłę i wytrzymałość "
+"1/1. Co najwyżej jeden inny wskazany stwór do końca tury ma bazową siłę i "
+"wytrzymałość 4/4. Następnie ten czar zadaje każdemu stworowi po 3 obrażenia."
 
 #: ../../SNC.rst:920
 msgid ""
@@ -3212,6 +3266,10 @@ msgid ""
 "battlefield. When an exiled card enters the battlefield under your control "
 "this way, put two +1/+1 counters on it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj dowolną liczbę innych wskazanych "
+"stworów pod władaniem różnych graczy dopóki ten byt nie opuści pola bitwy. "
+"Kiedy karta wygnana w ten sposób wejdzie na pole bitwy pod twoim władaniem, "
+"umieść na niej dwa znaczniki +1/+1."
 
 #: ../../SNC.rst:948
 msgid ""
@@ -3321,6 +3379,9 @@ msgid ""
 "Add |mana_b|, |mana_r|, or |mana_g|\" until Masked Bandits is cast from "
 "exile. You may cast Masked Bandits for as long as it remains exiled."
 msgstr ""
+"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_b|, |mana_r|, lub |mana_g|\" do czasu rzucenia tej karty z wygnania. "
+"Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:980
 msgid ""
@@ -3336,6 +3397,11 @@ msgid ""
 "|mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. "
 "Spend this mana only to cast spells with exactly three colors."
 msgstr ""
+"Wygnaj dziesięć wierzchnich kart twojej biblioteki. Możesz spośród nich w "
+"tej turze rzucać czary o dokładnie trzech kolorach. Weź |mana_w|\\ |mana_w|\\"
+" |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\"
+" |mana_g|. Wydaj ową manę tylko na rzucanie czarów o dokładnie trzech "
+"kolorach."
 
 #: ../../SNC.rst:986
 msgid ""
@@ -3430,6 +3496,9 @@ msgid ""
 "counters on Obscura Ascendancy plus one, put a soul counter on Obscura "
 "Ascendancy, then create a 2/2 white Spirit creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar, jeśli jego skrót many jest równy liczbie znaczników "
+"duszy na tym bycie plus jeden, umieść znacznik duszy na tym bycie, po czym "
+"stwórz żeton białego stwora Duch 2/2 z lataniem."
 
 #: ../../SNC.rst:1011
 msgid ""
@@ -3510,6 +3579,8 @@ msgid ""
 "if two or more creatures entered the battlefield under your control this "
 "turn."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę jeśli co "
+"najmniej dwa stwory weszły na pole bitwy w tej turze pod twoim władaniem."
 
 #: ../../SNC.rst:1046
 msgid ""
@@ -3567,6 +3638,9 @@ msgid ""
 "Add |mana_r|, |mana_g|, or |mana_w|\" until Rakish Revelers is cast from "
 "exile. You may cast Rakish Revelers for as long as it remains exiled."
 msgstr ""
+"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_r|, |mana_g|, lub |mana_w|\" do czasu rzucenia tej karty z wygnania. "
+"Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1064
 msgid ""
@@ -3675,6 +3749,9 @@ msgid ""
 "loyalty abilities. You may spend mana as though it were mana of any color to "
 "activate them."
 msgstr ""
+"Ten byt ma wszystkie aktywowane zdolności wybranego bytu z wyjątkiem "
+"zdolności lojalnościowych. Do ich aktywacji możesz wydawać manę tak, jakby "
+"była maną dowolnego koloru."
 
 #: ../../SNC.rst:1094
 msgid ""
@@ -3688,6 +3765,8 @@ msgid ""
 "You may pay |mana_r|\\ |mana_g| rather than pay this spell's mana cost. "
 "Spend only mana produced by Treasures to cast it this way."
 msgstr ""
+"Możesz zapłacić |mana_r|\\ |mana_g| zamiast płacić koszt many tego czaru. Do "
+"rzucenia go w ten sposób wydaj tylko manę ze Skarbów."
 
 #: ../../SNC.rst:1102
 msgid ""
@@ -3706,6 +3785,9 @@ msgid ""
 "Add |mana_w|, |mana_u| or |mana_b|\" until Shattered Seraph is cast from "
 "exile. You may cast Shattered Seraph for as long as it remains exiled."
 msgstr ""
+"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_w|, |mana_u|, lub |mana_b|\" do czasu rzucenia tej karty z wygnania. "
+"Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1108
 msgid ""
@@ -3743,6 +3825,9 @@ msgid ""
 "target nonland permanents. For each of those permanents, its controller "
 "creates a 3/3 white Angel creature token with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz co najwyżej trzy wskazane "
+"nielądowe byty. Za każdy z owych bytów, jego władca tworzy żeton białego "
+"stwora Anioł 3/3 z lataniem."
 
 #: ../../SNC.rst:1118
 msgid ""
@@ -3766,6 +3851,9 @@ msgid ""
 "cast fom exile. You may cast Spara's Adjudicators for as long as it remains "
 "exiled."
 msgstr ""
+"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_g|, |mana_w|, lub |mana_u|\" do czasu rzucenia tej karty z wygnania. "
+"Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1124
 msgid ""
@@ -3861,6 +3949,10 @@ msgid ""
 "opponent controls with mana value less than or equal to that amount of "
 "excess damage."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 7 obrażeń. Kiedy zada "
+"nadmiarowe obrażenia w ten sposób, zniszcz wskazany artefakt lub urok pod "
+"władaniem przeciwnika o skrócie many równym lub mniejszym od owego nadmiaru "
+"obrażeń."
 
 #: ../../SNC.rst:1152
 msgid ""
@@ -3906,10 +3998,15 @@ msgid ""
 "top of your library without paying its mana cost. If you don't, put that "
 "card into your hand."
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz zagrać kartę lądu z wierzchu twojej biblioteki lub "
+"rzucić czar o skrócie many mniejszym lub równym zadanym obrażeniom z "
+"wierzchu twojej biblioteki bez płacenia jego kosztu many. Jeśli tego nie "
+"zrobisz, umieść ową kartę w twojej ręce."
 
 #: ../../SNC.rst:1165
 msgid "Blitz |mana_2|\\ |mana_b|\\ |mana_r|\\ |mana_g|"
-msgstr ""
+msgstr "Nalot |mana_2|\\ |mana_b|\\ |mana_r|\\ |mana_g|"
 
 #: ../../SNC.rst:1172
 msgid ""
@@ -4081,6 +4178,8 @@ msgid ""
 "multicolored creatures, \"Butter Passer\" gains double strike until end of "
 "turn."
 msgstr ""
+"Na początku potyczki w twojej turze, jeśli władasz co najmniej dwoma "
+"wielokolorowymi stworami, niniejszy zyskuje do końca tury podwójny cios."
 
 #: ../../SNC.rst:1230
 msgid ""
@@ -4426,7 +4525,7 @@ msgstr ""
 
 #: ../../SNC.rst:1359
 msgid "Blitz |mana_4|\\ |mana_g|\\ |mana_g|"
-msgstr ""
+msgstr "Nalot |mana_4|\\ |mana_g|\\ |mana_g|"
 
 #~ msgid ""
 #~ "Whenever another nontoken creature you control dies, \"Hyde the Bodies\" "
