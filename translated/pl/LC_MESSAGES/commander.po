@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-11 22:58+0200\n"
+"POT-Creation-Date: 2022-04-17 00:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -137,7 +137,7 @@ msgstr ""
 #: ../../percentages.inc:370 ../../percentages.inc:373
 #: ../../percentages.inc:380 ../../percentages.inc:387
 #: ../../percentages.inc:390 ../../percentages.inc:395
-#: ../../percentages.inc:404
+#: ../../percentages.inc:398 ../../percentages.inc:405
 msgid "Tłumaczenie zakończone"
 msgstr ""
 
@@ -405,19 +405,15 @@ msgstr ""
 msgid "PLC_percent"
 msgstr ""
 
-#: ../../percentages.inc:398
-msgid "SNC_percent"
-msgstr ""
-
-#: ../../percentages.inc:400
+#: ../../percentages.inc:401
 msgid "ARN_percent"
 msgstr ""
 
-#: ../../percentages.inc:402
+#: ../../percentages.inc:403
 msgid "PTK_percent"
 msgstr ""
 
-#: ../../percentages.inc:407
+#: ../../percentages.inc:408
 msgid "LEG_percent"
 msgstr ""
 
