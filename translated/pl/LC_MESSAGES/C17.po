@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-17 17:45+0000\n"
+"PO-Revision-Date: 2022-04-17 18:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -935,6 +935,9 @@ msgid ""
 "World is in the command zone or on the battlefield, another target Cat you "
 "control gets +3/+3 until end of turn."
 msgstr ""
+"Eminencja — Na początku potyczki w twojej turze, jeśli niniejszy jest w "
+"strefie dowodzenia lub na polu bitwy, inny wskazany Kot pod twoim władaniem "
+"dostaje do końca tury +3/+3."
 
 #: ../../C17.rst:215
 msgid ""
@@ -959,6 +962,9 @@ msgid ""
 "the command zone or on the battlefield, create a 1/1 black Vampire creature "
 "token."
 msgstr ""
+"Eminencja — Ilekroć rzucisz inny czar Wampira, jeśli niniejszy jest w "
+"strefie dowodzenia lub na polu bitwy, stwórz żeton czarnego stwora Wampir 1/"
+"1."
 
 #: ../../C17.rst:221
 msgid "First strike, haste"
@@ -969,6 +975,8 @@ msgid ""
 "Whenever Edgar Markov attacks, put a +1/+1 counter on each Vampire you "
 "control."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, umieść znacznik +1/+1 na każdym Wampirze pod "
+"twoim władaniem."
 
 #: ../../C17.rst:228
 msgid ""
@@ -982,6 +990,8 @@ msgid ""
 "Exile target nonland permanent. Each player other than its controller "
 "creates a token that's a copy of it."
 msgstr ""
+"Wygnaj wskazany nielądowy byt. Każdy gracz inny niż jego władca tworzy żeton "
+"będący jego kopią."
 
 #: ../../C17.rst:234
 msgid ""
@@ -999,10 +1009,16 @@ msgid ""
 "of that Wizard. The token gains haste. Exile it at the beginning of the next "
 "end step."
 msgstr ""
+"Eminencja — Ilekroć inny nieżetonowy Czarodziej wejdzie na pole bitwy pod "
+"twoim władaniem, jeśli niniejszy jest w strefie dowodzenia lub na polu "
+"bitwy, możesz zapłacić |mana_1|. Jeśli tak zrobisz, stwórz żeton będący "
+"kopią owego Czarodzieja. Ów żeton zyskuje pośpiech. Wygnaj go na początku "
+"najbliższego kroku końcowego."
 
 #: ../../C17.rst:233
 msgid "Tap five untapped Wizards you control: Target player loses 7 life."
 msgstr ""
+"Przekręć pięciu Czarodziejów pod twoim władaniem: Wskazany gracz traci 7 żyć."
 
 #: ../../C17.rst:240
 msgid ""
@@ -1032,6 +1048,8 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each 1 life you gained this turn."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każde 1 życie zyskane przez "
+"ciebie w tej turze."
 
 #: ../../C17.rst:245
 msgid "First strike, lifelink"
@@ -1042,6 +1060,8 @@ msgid ""
 "Pay 5 life: Put three +1/+1 counters on Licia, Sanguine Tribune. Activate "
 "only during your turn and only once each turn."
 msgstr ""
+"Zapłać 5 żyć: Umieść trzy znaczniki +1/+1 na tym stworze. Aktywuj tylko w "
+"twojej turze i tylko raz na turę."
 
 #: ../../C17.rst:254
 msgid ""
@@ -1056,6 +1076,8 @@ msgid ""
 "artifact or creature card from your hand or graveyard and put a cage counter "
 "on it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać kartę artefaktu lub "
+"stwora z twojej ręki lub cmentarza i umieścić na niej znacznik klatki."
 
 #: ../../C17.rst:253
 msgid ""
@@ -1063,6 +1085,9 @@ msgid ""
 "exile with cage counters on them. You may activate each of those abilities "
 "only once each turn."
 msgstr ""
+"Ten byt ma wszystkie aktywowane zdolności wszystkich twoich kart na wygnaniu "
+"mających znacznik klatki. Możesz aktywować każdą z owych zdolności tylko raz "
+"na turę."
 
 #: ../../C17.rst:260
 msgid ""
@@ -1078,6 +1103,10 @@ msgid ""
 "it, it has \"When this creature dies, each opponent draws a card and gains 2 "
 "life.\""
 msgstr ""
+"Na początku twojego kroku końcowego, umieść znacznik nagrody na wskazanym "
+"stworze pod władaniem przeciwnika. Przez czas gdy ów stwór ma znacznik "
+"nagrody, ma on \"Kiedy ten stwór umrze, każdy przeciwnik dobiera kartę i "
+"zyskuje 2 życia.\""
 
 #: ../../C17.rst:268
 msgid ""
@@ -1092,12 +1121,16 @@ msgid ""
 "Whenever Mirri, Weatherlight Duelist attacks, each opponent can't block with "
 "more than one creature this combat."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, każdy przeciwnik nie może blokować z użyciem "
+"więcej niż jednego stwora w tej potyczce."
 
 #: ../../C17.rst:267
 msgid ""
 "As long as Mirri, Weatherlight Duelist is tapped, no more than one creature "
 "can attack you each combat."
 msgstr ""
+"O ile ten stwór jest przekręcony, nie więcej niż jeden stwór może atakować w "
+"danej potyczce."
 
 #: ../../C17.rst:274
 msgid ""
@@ -1114,12 +1147,18 @@ msgid ""
 "Nazahn this way, put it onto the battlefield. Otherwise, put that card into "
 "your hand. Then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"Wyposażenia i ujawnij ją. Jeśli ujawnisz w ten sposób kartę o nazwie Hammer "
+"of Nazah, umieść ją na polu bitwy. W przeciwnym razie umieść ową kartę w "
+"twojej ręce. Następnie przetasuj."
 
 #: ../../C17.rst:273
 msgid ""
 "Whenever an equipped creature you control attacks, you may tap target "
 "creature defending player controls."
 msgstr ""
+"Ilekroć zaatakuje wyposażony stwór pod twoim władaniem, możesz przekręcić "
+"wskazanego stwora pod władaniem broniącego się gracza."
 
 #: ../../C17.rst:280
 msgid ""
@@ -1139,6 +1178,9 @@ msgid ""
 "player attacked you during their last turn, exile target nonland permanent "
 "that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli ów gracz zaatakował "
+"ciebie w swojej poprzedniej turze, wygnaj wskazany nielądowy byt pod "
+"władaniem owego gracza."
 
 #: ../../C17.rst:286
 msgid ""
@@ -1150,6 +1192,8 @@ msgstr ""
 #: ../../C17.rst:283
 msgid "Instant, sorcery, and Dragon spells you control can't be countered."
 msgstr ""
+"Czary sztuczek, obrzędów i Smoków pod twoim władaniem nie mogą być "
+"skontrowane."
 
 #: ../../C17.rst:285
 msgid ""
@@ -1158,6 +1202,10 @@ msgid ""
 "as it resolves. At the beginning of your next upkeep, you may cast that card "
 "from exile without paying its mana cost.)"
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu z twojej ręki, jeśli ten stwór "
+"zaatakował w tej turze, ów czar zyskuje rykoszet. (Wygnaj ów czar podczas "
+"jego rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../C17.rst:294
 msgid ""
@@ -1175,12 +1223,16 @@ msgid ""
 "At the beginning of your upkeep, look at the top three cards of your "
 "library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
+"Na początku twojego kroku utrzymania, spójrz na trzy wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałe w twoim cmentarzu."
 
 #: ../../C17.rst:293
 msgid ""
 "|mana_b|, |tap|, Exile X cards from your graveyard: Target creature gets -X/-"
 "X until end of turn."
 msgstr ""
+"|mana_b|, |tap|, wygnaj X kart z twojego cmentarz: Wskazany stwór dostaje do "
+"końca tury -X/-X."
 
 #: ../../C17.rst:302
 msgid ""
@@ -1194,12 +1246,16 @@ msgid ""
 "Eminence — As long as The Ur-Dragon is in the command zone or on the "
 "battlefield, other Dragon spells you cast cost |mana_1| less to cast."
 msgstr ""
+"Eminencja — O ile niniejszy jest w strefie dowodzenia lub na polu bitwy, "
+"rzucanie innych czarów typu Smok kosztuje cię o |mana_1| mniej."
 
 #: ../../C17.rst:301
 msgid ""
 "Whenever one or more Dragons you control attack, draw that many cards, then "
 "you may put a permanent card from your hand onto the battlefield."
 msgstr ""
+"Ilekroć zaatakuje co najmniej jeden Smok pod twoim władaniem, dobierz tyle "
+"samo kart, po czym możesz umieścić kartę bytu z twojej ręki na polu bitwy."
 
 #: ../../C17.rst:308
 msgid ""
@@ -1214,6 +1270,9 @@ msgid ""
 "sacrifices a creature. If the player can't, you create a 3/3 black, red, and "
 "green Cat Dragon creature token with flying."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz poświęca stwora. "
+"Jeśli ów gracz nie może, stwórz żeton czarno-czerwono-zielonego stwora Kot "
+"Smok 3/3 z lataniem."
 
 #: ../../C17.rst:316
 msgid ""
@@ -1231,6 +1290,8 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, create a token "
 "that's a copy of Bloodforged Battle-Axe."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, stwórz żeton będący "
+"kopią niniejszego bytu."
 
 #: ../../C17.rst:315 ../../C17.rst:1339
 msgid "Equip |mana_2|"
@@ -1322,7 +1383,7 @@ msgstr ""
 #: ../../C17.rst:343
 msgid ""
 "As Mirror of the Forebears enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../C17.rst:345
 msgid ""
@@ -1330,6 +1391,9 @@ msgid ""
 "target creature you control of the chosen type, except it's an artifact in "
 "addition to its other types."
 msgstr ""
+"|mana_1|: Do końca tury niniejszy byt staje się kopią wskazanego stwora "
+"wybranego typu pod twoim władaniem, ale dodatkowo jest artefaktem oprócz "
+"swoich innych typów."
 
 #: ../../C17.rst:354
 msgid ""
@@ -1343,6 +1407,8 @@ msgid ""
 "Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine for "
 "each of that spell's colors."
 msgstr ""
+"Ilekroć rzucisz czar, umieść znacznik +1/+1 na tym stworze za każdy z "
+"kolorów owego czaru."
 
 #: ../../C17.rst:353
 msgid ""
@@ -1350,6 +1416,9 @@ msgid ""
 "mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. "
 "Activate only once each turn."
 msgstr ""
+"Usuń pięć znaczników +1/+1 z tego stwora: Weź |mana_w|\\ |mana_w|\\ |mana_u|"
+"\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|"
+". Aktywuj tylko raz na turę."
 
 #: ../../C17.rst:360
 msgid ""
@@ -1360,7 +1429,7 @@ msgstr ""
 
 #: ../../C17.rst:357
 msgid "Path of Ancestry enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:359
 msgid ""
@@ -1369,6 +1438,10 @@ msgid ""
 "your commander, scry 1. (Look at the top card of your library. You may put "
 "that card on the bottom of your library.)"
 msgstr ""
+"|tap|: Weź jedną maną w jednym z kolorów tożsamości twojego dowódcy. Kiedy "
+"owa mana zostanie wydana na rzucenie czaru stwora współdzielącego typ stwora "
+"z twoim dowódcą, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../C17.rst:366
 msgid ""
@@ -1596,6 +1669,8 @@ msgid ""
 "As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/"
 "+2 and have double strike."
 msgstr ""
+"O ile ten stwór jest wyposażony, Koty pod twoim władaniem dostają +2/+2 i "
+"mają podwójny cios."
 
 #: ../../C17.rst:432
 msgid ""
@@ -1648,6 +1723,9 @@ msgid ""
 "of your choice until end of turn. (You can't be targeted, dealt damage, or "
 "enchanted by anything of the chosen color.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj do końca tury ochronę przed "
+"dowolnym kolorem. (Nic w owym kolorze nie może cię wskazywać, zadać obrażeń, "
+"ani zauroczyć.)"
 
 #: ../../C17.rst:450
 msgid ""
@@ -2220,6 +2298,8 @@ msgid ""
 "When Corpse Augur dies, you draw X cards and you lose X life, where X is the "
 "number of creature cards in target player's graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, dobierz X kart i strać X żyć, gdzie X jest liczbą "
+"kart stworów w cmentarzu wskazanego gracza."
 
 #: ../../C17.rst:620
 msgid ""
@@ -2591,6 +2671,8 @@ msgid ""
 "Each other player discards a card. You draw a card for each card discarded "
 "this way."
 msgstr ""
+"Każdy inny gracz odrzuca kartę. Dobierz kartę za każdą kartę odrzuconą w ten "
+"sposób."
 
 #: ../../C17.rst:740
 msgid ""
@@ -2858,6 +2940,9 @@ msgid ""
 "+2/+2 and has \"Whenever Tyrant's Familiar attacks, it deals 7 damage to "
 "target creature defending player controls.\""
 msgstr ""
+"Porucznik — O ile władasz swoim dowódcą, ten stwór dostaje +2/+2 i ma "
+"\"Ilekroć ten stwór zaatakuje, zadaje on wskazanemu stworowi pod władaniem "
+"broniącego się gracza 7 obrażeń.\""
 
 #: ../../C17.rst:828
 msgid ""
@@ -3248,6 +3333,9 @@ msgid ""
 "creature gains haste. Return it to your hand at the beginning of the next "
 "end step."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Ów stwór "
+"zyskuje pośpiech. Przywróć go do twojej ręki na początku najbliższego kroku "
+"końcowego."
 
 #: ../../C17.rst:951
 msgid ""
@@ -3255,6 +3343,8 @@ msgid ""
 "creature gains haste. Its controller sacrifices it at the beginning of the "
 "next end step."
 msgstr ""
+"Możesz umieścić kartę stwora z twojej ręki na polu bitwy. Ów stwór zyskuje "
+"pośpiech. Jego władca poświęca go na początku najbliższego kroku końcowego."
 
 #: ../../C17.rst:956
 msgid ""
@@ -3284,6 +3374,9 @@ msgid ""
 "mana_2|\\ |mana_b|. If you do, choose a color, then that player reveals "
 "their hand and discards all cards of that color."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zapłacić |mana_2|\\ "
+"|mana_b|. Jeśli tak zrobisz, wybierz kolor, po czym ów gracz ujawnia swoją "
+"rękę i odrzuca wszystkie karty owego koloru."
 
 #: ../../C17.rst:972
 msgid ""
@@ -3329,7 +3422,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|: Return Etherium-Horn Sorcerer to its owner's "
 "hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Przywróć ten byt do ręki właściciela."
 
 #: ../../C17.rst:983
 msgid ""
@@ -3484,6 +3577,8 @@ msgid ""
 "You may cast target instant or sorcery card from an opponent's graveyard "
 "without paying its mana cost."
 msgstr ""
+"Możesz rzucić wskazaną kartę sztuczki lub obrzędu z cmentarza przeciwnika "
+"bez płacenia jej kosztu many."
 
 #: ../../C17.rst:1036
 msgid ""
@@ -3569,6 +3664,8 @@ msgid ""
 "|mana_x|\\ |mana_u|\\ |mana_r|, |tap|: Nin, the Pain Artist deals X damage "
 "to target creature. That creature's controller draws X cards."
 msgstr ""
+"|mana_x|\\ |mana_u|\\ |mana_r|, |tap|: Ten byt zadaje wskazanemu stworowi X "
+"obrażeń. Władca owego stwora dobiera X kart."
 
 #: ../../C17.rst:1064
 msgid ""
@@ -3656,17 +3753,19 @@ msgstr ""
 
 #: ../../C17.rst:1089
 msgid "Phantom Nishoba enters the battlefield with seven +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając siedem znaczników +1/+1."
 
 #: ../../C17.rst:1091
 msgid "Whenever Phantom Nishoba deals damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć ten stwór zada obrażenia, zyskaj tyle samo żyć."
 
 #: ../../C17.rst:1093
 msgid ""
 "If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a "
 "+1/+1 counter from Phantom Nishoba."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane temu stworowi, zażegnaj owe obrażenia. "
+"Usuń znacznik +1/+1 z tego stwora."
 
 #: ../../C17.rst:1100
 msgid ""
@@ -4237,11 +4336,11 @@ msgstr ""
 
 #: ../../C17.rst:1303
 msgid "Equipped creature gets +1/-1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/-1."
 
 #: ../../C17.rst:1305
 msgid "Whenever equipped creature dies, draw two cards."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór umrze, dobierz dwie karty."
 
 #: ../../C17.rst:1312
 msgid ""
@@ -4704,7 +4803,7 @@ msgstr ""
 
 #: ../../C17.rst:1493
 msgid "Grasslands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C17.rst:1495
 msgid ""
@@ -4887,6 +4986,8 @@ msgid ""
 "|mana_g|, |tap|: You may play the exiled card without paying its mana cost "
 "if creatures you control have total power 10 or greater."
 msgstr ""
+"|mana_g|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
+"many jeśli stwory pod twoim władaniem mają łączną siłę 10 lub większą."
 
 #: ../../C17.rst:1572
 msgid ""

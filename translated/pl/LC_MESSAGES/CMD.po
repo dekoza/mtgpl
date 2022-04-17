@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-04-17 18:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -1924,6 +1924,8 @@ msgid ""
 "Each other player discards a card. You draw a card for each card discarded "
 "this way."
 msgstr ""
+"Każdy inny gracz odrzuca kartę. Dobierz kartę za każdą kartę odrzuconą w ten "
+"sposób."
 
 #: ../../CMD.rst:558
 msgid ""
@@ -3751,6 +3753,8 @@ msgid ""
 "|mana_x|\\ |mana_u|\\ |mana_r|, |tap|: Nin, the Pain Artist deals X damage "
 "to target creature. That creature's controller draws X cards."
 msgstr ""
+"|mana_x|\\ |mana_u|\\ |mana_r|, |tap|: Ten byt zadaje wskazanemu stworowi X "
+"obrażeń. Władca owego stwora dobiera X kart."
 
 #: ../../CMD.rst:1156
 msgid ""
@@ -4457,11 +4461,11 @@ msgstr ""
 
 #: ../../CMD.rst:1393
 msgid "Equipped creature gets +1/-1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/-1."
 
 #: ../../CMD.rst:1395
 msgid "Whenever equipped creature dies, draw two cards."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór umrze, dobierz dwie karty."
 
 #: ../../CMD.rst:1402
 msgid ""
