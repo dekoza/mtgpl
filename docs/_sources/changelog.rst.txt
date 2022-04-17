@@ -4,6 +4,7 @@ Spis zmian
 
 2022-04-17
    * :mtgexp:`PLC` :doc:`Planar Chaos<PLC>` - 100%
+   * :mtgexp:`C19` :doc:`Commander 2019<C19>` - 100%
 
 2022-04-11
    * :mtgexp:`GPT` :doc:`Guildpact<GPT>` - 100%
