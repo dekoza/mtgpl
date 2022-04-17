@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 18:36+0000\n"
+"PO-Revision-Date: 2022-04-17 21:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -551,7 +551,7 @@ msgstr ""
 
 #: ../../C21.rst:97
 msgid "Inklings can't attack you or planeswalkers you control."
-msgstr ""
+msgstr "Kleksy nie mogą atakować ciebie ani wędrowców pod twoim władaniem."
 
 #: ../../C21.rst:99
 msgid ""
@@ -559,6 +559,9 @@ msgid ""
 "creates a tapped 2/1 white and black Inkling creature token with flying "
 "that's attacking that opponent."
 msgstr ""
+"Ilekroć gracz zaatakuje jednego z twoich przeciwników, ów atakujący gracz "
+"tworzy przekręcony żeton biało-czarnego stwora Kleks 2/1 z lataniem "
+"atakujący owego przeciwnika."
 
 #: ../../C21.rst:104
 msgid ""
@@ -607,13 +610,15 @@ msgstr ""
 
 #: ../../C21.rst:115
 msgid "As Guardian Archon enters the battlefield, secretly choose an opponent."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, potajemnie wybierz przeciwnika."
 
 #: ../../C21.rst:117
 msgid ""
 "Reveal the player you chose: You and target permanent you control each gain "
 "protection from the chosen player until end of turn. Activate only once."
 msgstr ""
+"Ujawnij wybór gracza: Ty i wskazany byt pod twoim władaniem zyskujecie do "
+"końca tury ochronę przed wybranym graczem. Aktywuj tylko raz."
 
 #: ../../C21.rst:124
 msgid ""
@@ -666,6 +671,8 @@ msgid ""
 "At the beginning of your end step, for each player, put a +1/+1 counter on "
 "up to one target creature that player controls."
 msgstr ""
+"Na początku twojego kroku końcowego, dla każdego gracza, umieść znacznik +1/+"
+"1 na co najwyżej jednym wskazanym stworze pod władaniem owego gracza."
 
 #: ../../C21.rst:133
 msgid ""
@@ -673,6 +680,9 @@ msgid ""
 "planeswalkers you control unless its controller pays |mana_x|, where X is "
 "the number of counters on that creature."
 msgstr ""
+"Każdy stwór mający co najmniej jeden znacznik nie może atakować ciebie ani "
+"wędrowców pod twoim władaniem, chyba że jego władca zapłaci |mana_x|, gdzie "
+"X jest liczbą znaczników na owym stworze."
 
 #: ../../C21.rst:138
 msgid ""
@@ -687,6 +697,9 @@ msgid ""
 "rest. Each of those creatures can't attack you or planeswalkers you control "
 "for as long as it has a vow counter on it."
 msgstr ""
+"Każdy gracz umieszcza znacznik przysięgi na stworze pod swoim władaniem i "
+"poświęca pozostałe. Każdy z owych stworów nie może atakować ciebie ani "
+"wędrowców pod twoim władaniem dopóki ma znacznik przysięgi."
 
 #: ../../C21.rst:142
 msgid ""
@@ -719,6 +732,8 @@ msgid ""
 "Target player draws X cards plus an additional card for each time they've "
 "cast a commander from the command zone this game."
 msgstr ""
+"Wskazany gracz dobiera X kart plus dodatkową kartę za każde rzucenie przez "
+"siebie dowódcy ze strefy dowodzenia w tej grze."
 
 #: ../../C21.rst:154
 msgid ""
@@ -866,11 +881,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../C21.rst:189
 msgid "Return all creature tokens to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie żetony stworów do rąk ich właścicieli."
 
 #: ../../C21.rst:191
 msgid "Return all nontoken creatures to their owners' hands."
-msgstr ""
+msgstr "Przywróć wszystkie nieżetonowe stwory do rąk ich właścicieli."
 
 #: ../../C21.rst:198
 msgid ""
@@ -881,7 +896,7 @@ msgstr ""
 
 #: ../../C21.rst:197
 msgid "Create a token that's a copy of target permanent you control."
-msgstr ""
+msgstr "Stwórz żeton będący kopią wskazanego bytu pod twoim władaniem."
 
 #: ../../C21.rst:202
 msgid ""
@@ -896,6 +911,10 @@ msgid ""
 "can't be blocked. Goad that creature. (Until your next turn, that creature "
 "attacks each combat if able and attacks a player other than you if able.)"
 msgstr ""
+"|mana_u|, |tap|: Do twojej następnej tury wskazany stwór pod władaniem "
+"przeciwnika nie może być blokowany. Ponaglij owego stwora. (Do twojej "
+"najbliższej tury, ów stwór atakuje w każdej potyczce jeśli może i atakuje "
+"gracza innego niż ty jeśli może.)"
 
 #: ../../C21.rst:206
 msgid ""
@@ -909,6 +928,8 @@ msgid ""
 "Whenever a Kraken, Leviathan, Octopus, or Serpent you control deals combat "
 "damage to a player, create a 9/9 blue Kraken creature token."
 msgstr ""
+"Ilekroć Kraken, Lewiatan, Ośmiornica lub Wężownik pod twoim władaniem zada "
+"graczowi obrażenia bojowe, stwórz żeton niebieskiego stwora Kraken 9/9."
 
 #: ../../C21.rst:210
 msgid ""
@@ -939,6 +960,10 @@ msgid ""
 "for as long as it remains exiled, and you may spend mana as though it were "
 "mana of any color to cast that spell."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarze przeciwników. Wybierz "
+"nielądową kartę wygnaną w ten sposób. Możesz rzucić ową kartę przez czas jej "
+"wygnania i do rzucenia owego czaru możesz wydawać manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../C21.rst:220
 msgid ""
@@ -950,12 +975,16 @@ msgstr ""
 #: ../../C21.rst:217
 msgid "Attacking Pests you control get +1/+0 and have menace."
 msgstr ""
+"Atakujące Szkodniki pod twoim władaniem dostają +1/+0 i mają złowrogość."
 
 #: ../../C21.rst:219
 msgid ""
 "Whenever a nontoken creature you control dies, create a 1/1 black and green "
 "Pest creature token with \"When this creature dies, you gain 1 life.\""
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, stwórz żeton czarno-"
+"zielonego stwora Szkodnik 1/1 mający \"Kiedy ten stwór umrze, zyskaj 1 życie."
+"\""
 
 #: ../../C21.rst:226
 msgid ""
@@ -974,6 +1003,8 @@ msgid ""
 "Whenever an opponent puts one or more counters on a creature they control, "
 "they put the same number and kind of counters on Bold Plagiarist."
 msgstr ""
+"Ilekroć przeciwnik umieści co najmniej jeden znacznik na stworze pod swoim "
+"władaniem, umieszcza też tyle samo takich samych znaczników na niniejszym."
 
 #: ../../C21.rst:230
 msgid ""
@@ -989,6 +1020,10 @@ msgid ""
 "for as long as it remains exiled, and you may spend mana as though it were "
 "mana of any color to cast it."
 msgstr ""
+"Ilekroć przeciwnik zaatakuje ciebie i/lub co najmniej jednego wędrowca pod "
+"twoim władaniem, wygnaj wierzchnią kartę biblioteki owego gracza. Możesz "
+"zagrać ową kartę przez czas jej wygnania i do jej rzucenia możesz wydawać "
+"manę tak, jakby była maną dowolnego koloru."
 
 #: ../../C21.rst:234
 msgid ""
@@ -1002,6 +1037,8 @@ msgid ""
 "You gain 2 life. Each creature gets -X/-X until end of turn, where X is the "
 "amount of life you gained this turn."
 msgstr ""
+"Zyskaj 2 życia. Każdy stwór dostaje do końca tury -X/-X, gdzie X jest liczbą "
+"żyć zyskanych przez ciebie w tej turze."
 
 #: ../../C21.rst:244
 msgid ""
@@ -1031,7 +1068,7 @@ msgstr ""
 
 #: ../../C21.rst:243
 msgid "|mana_3|\\ |mana_b|: Untap Fain, the Broker."
-msgstr ""
+msgstr "|mana_3|\\ |mana_b|: Odkręć ten byt."
 
 #: ../../C21.rst:250
 msgid ""
@@ -1045,6 +1082,8 @@ msgid ""
 "Demonstrate (When you cast this spell, you may copy it. If you do, choose an "
 "opponent to also copy it.)"
 msgstr ""
+"Zademonstruj (Kiedy rzucisz ten czar, możesz go skopiować. Jeśli tak "
+"zrobisz, wybierz przeciwnika, który też go skopiuje.)"
 
 #: ../../C21.rst:249
 msgid ""
@@ -5447,6 +5486,9 @@ msgid ""
 "Whenever a creature enters the battlefield, you may move a +1/+1 counter "
 "from this land onto it.)"
 msgstr ""
+"Przeszczep 1 (Ten ląd wchodzi na pole bitwy mając znacznik +1/+1. Ilekroć "
+"stwór wejdzie na pole bitwy, możesz przenieść na owego stwora znacznik +1/+1 "
+"z tego lądu.)"
 
 #: ../../C21.rst:1698
 msgid ""

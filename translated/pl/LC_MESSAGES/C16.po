@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-17 18:49+0000\n"
+"PO-Revision-Date: 2022-04-17 21:24+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -325,6 +325,8 @@ msgstr ""
 #: ../../C16.rst:131
 msgid "Undaunted (This spell costs |mana_1| less to cast for each opponent.)"
 msgstr ""
+"Nieulękły (Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego "
+"przeciwnika.)"
 
 #: ../../C16.rst:31
 msgid "Destroy all creatures."
@@ -378,6 +380,10 @@ msgid ""
 "artifact in addition to its other types. Then exile all other tokens created "
 "with Faerie Artisans."
 msgstr ""
+"Ilekroć nieżetonowy stwór wejdzie na pole bitwy pod władaniem przeciwnika, "
+"stwórz żeton będący kopią owego stwora, ale jest dodatkowo artefaktem oprócz "
+"swoich innych typów. Następnie wygnaj wszystkie inne żetony stworzone tym "
+"bytem."
 
 #: ../../C16.rst:52
 msgid ""
